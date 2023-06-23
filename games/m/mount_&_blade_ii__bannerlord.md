@@ -6,24 +6,24 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,428 |
-| Landlord | 31.00% | ~16,730 |
-| Bannerlord | 21.00% | ~11,333 |
-| Horde breaker | 21.00% | ~11,333 |
-| Lawmaker | 21.00% | ~11,333 |
-| Trained | 21.00% | ~11,333 |
-| The king is pleased | 17.00% | ~9,174 |
-| King Solomon | 16.00% | ~8,635 |
-| I can do it | 15.00% | ~8,095 |
-| Apple of my eye | 14.00% | ~7,555 |
-| God of the Arena | 12.00% | ~6,476 |
+| Lawbringer | 36.00% | ~19,430 |
+| Landlord | 31.00% | ~16,731 |
+| Bannerlord | 21.00% | ~11,334 |
+| Horde breaker | 21.00% | ~11,334 |
+| Lawmaker | 21.00% | ~11,334 |
+| Trained | 21.00% | ~11,334 |
+| The king is pleased | 17.00% | ~9,175 |
+| King Solomon | 16.00% | ~8,636 |
+| I can do it | 15.00% | ~8,096 |
+| Apple of my eye | 14.00% | ~7,556 |
+| God of the Arena | 12.00% | ~6,477 |
 | Against all odds | 10.00% | ~5,397 |
 | Duelist | 9.00% | ~4,857 |
 | Swordbearer | 9.00% | ~4,857 |
-| Dynasty | 8.00% | ~4,317 |
-| I spit on your grave | 8.00% | ~4,317 |
-| This Is Our Land | 8.00% | ~4,317 |
-| What have the Romans ever done for us? | 8.00% | ~4,317 |
+| Dynasty | 8.00% | ~4,318 |
+| I spit on your grave | 8.00% | ~4,318 |
+| This Is Our Land | 8.00% | ~4,318 |
+| What have the Romans ever done for us? | 8.00% | ~4,318 |
 | Butterlord | 7.00% | ~3,778 |
 | Mastery | 7.00% | ~3,778 |
 | Know your enemy | 6.00% | ~3,238 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,967 (Ranked 81)  
+Progressed: 53,972 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 53,707 | 0 |
 | 2023-06-21 | 53,799 | 0 |
 | 2023-06-22 | 53,891 | 0 |
-| 2023-06-23 | 53,967 | 0 |
+| 2023-06-23 | 53,972 | 0 |
 ## Awards
 Max (Character Customization): 6,700  (Ranked 48)  
 Sum: 13,476 (Ranked 68)  

@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,047 |
-| Uncharted Territory | 89.00% | ~205,856 |
-| Getting A Glimpse | 73.00% | ~168,848 |
-| A Quick Escape | 65.00% | ~150,344 |
-| Explorer | 62.00% | ~143,405 |
-| Defeat The Dark | 61.00% | ~141,092 |
-| An Offering | 61.00% | ~141,092 |
-| Colorful Corpse | 58.00% | ~134,153 |
-| That Was Quick | 56.00% | ~129,527 |
-| A Donation | 56.00% | ~129,527 |
-| Goodbye, Frog Friend | 54.00% | ~124,901 |
-| Heavy Hitter | 53.00% | ~122,588 |
+| First Steps | 96.00% | ~222,049 |
+| Uncharted Territory | 89.00% | ~205,858 |
+| Getting A Glimpse | 73.00% | ~168,850 |
+| A Quick Escape | 65.00% | ~150,346 |
+| Explorer | 62.00% | ~143,407 |
+| Defeat The Dark | 61.00% | ~141,094 |
+| An Offering | 61.00% | ~141,094 |
+| Colorful Corpse | 58.00% | ~134,155 |
+| That Was Quick | 56.00% | ~129,529 |
+| A Donation | 56.00% | ~129,529 |
+| Goodbye, Frog Friend | 54.00% | ~124,903 |
+| Heavy Hitter | 53.00% | ~122,590 |
 | Heartless | 46.00% | ~106,398 |
 | Spine Breaker | 46.00% | ~106,398 |
 | Deflection | 45.00% | ~104,085 |
@@ -125,11 +125,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Only The Best | 0.60% | ~1,388 |
 | Mastermind | 0.60% | ~1,388 |
 | Nudie Run | 0.60% | ~1,388 |
-| Down Under | 0.50% | ~1,156 |
+| Down Under | 0.50% | ~1,157 |
 | Never Too Many Hats | 0.40% | ~925 |
 | Near Death Experience | 0.30% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,299 (Ranked 46)  
+Progressed: 231,301 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,11 +193,11 @@ Completed: 240 (0.10%) (Ranked 174)
 | 2023-06-20 | 231,144 | 240 |
 | 2023-06-21 | 231,195 | 240 |
 | 2023-06-22 | 231,242 | 240 |
-| 2023-06-23 | 231,299 | 240 |
+| 2023-06-23 | 231,301 | 240 |
 ## Awards
-Max (Quickly Understood Controls): 1,481  (Ranked 118)  
+Max (Quickly Understood Controls): 1,481  (Ranked 119)  
 Sum: 12,938 (Ranked 69)  
-Diff (max vs sum): 49  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,481 |

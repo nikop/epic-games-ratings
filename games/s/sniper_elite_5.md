@@ -34,12 +34,12 @@ Rating: 4.46 (Ranked 604)
 | My Little Friend | 0.50% | ~15 |
 | Die Nussknacker Sweet! | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
+| Opposing Force | 0.40% | ~12 |
 | Enemy at the Gates | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
-| Opposing Force | 0.30% | ~9 |
 | Fields of Glory | 0.30% | ~9 |
 | Strategist | 0.30% | ~9 |
 | Burn after reading | 0.30% | ~9 |
@@ -48,7 +48,10 @@ Rating: 4.46 (Ranked 604)
 | Locomotion Commotion | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Don't hold your breath | 0.30% | ~9 |
+| Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |
+| If You Go Down To The Woods Today | 0.30% | ~9 |
+| Fight Another Day | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | From Paris with Love | 0.20% | ~6 |
@@ -58,10 +61,7 @@ Rating: 4.46 (Ranked 604)
 | Führerious Repetition | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
-| Last Resort | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
-| If You Go Down To The Woods Today | 0.20% | ~6 |
-| Fight Another Day | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 604)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,097 (Ranked 144)  
+Progressed: 3,098 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,097 | 2 |
+| 2023-06-23 | 3,098 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

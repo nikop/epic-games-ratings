@@ -23,7 +23,7 @@
 | Trigger-Happy | 8.00% | ~36 |
 | The Friend | 6.00% | ~27 |
 | Master of the Old Game | 5.00% | ~23 |
-| So Silly! | 4.00% | ~18 |
+| So Silly! | 5.00% | ~23 |
 | Made a Song | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |
 | Break a Leg! | 3.00% | ~14 |

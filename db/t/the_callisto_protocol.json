@@ -3,11 +3,11 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 844,
-  "Ranking_Popularity": 387,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -666,18 +666,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 327,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-06-23T18:58:06.1456873+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 327,
-  "NumberOfAwardsMax": 56,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 329,
+  "NumberOfAwardsMax": 57,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game is Extremely Fun",
@@ -716,9 +722,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 15517,
+  "EOS_Progressed": 15518,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -4606,6 +4612,11 @@
       "Time": "2023-06-23T18:05:13.2902821+00:00",
       "NumProgressed": 15517,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-23T19:05:01.5119542+00:00",
+      "NumProgressed": 15518,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 47,
@@ -4992,22 +5003,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15517,
+      "Progressed": 15518,
       "Completed": 57
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3443,
+      "Progressed": 3444,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-23T06:58:31.9591139+00:00",
-  "LastChanged_Achievements": "2023-06-23T18:05:13.2902816+00:00",
+  "LastChanged": "2023-06-23T18:58:06.145687+00:00",
+  "LastChanged_Achievements": "2023-06-23T19:05:01.5119533+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:36.9959603+00:00",
-  "LastUpdate_Ratings": "2023-06-23T17:58:08.2118376+00:00",
-  "LastUpdate_Achievements": "2023-06-23T18:05:13.2903331+00:00"
+  "LastUpdate_Ratings": "2023-06-23T18:58:06.1456883+00:00",
+  "LastUpdate_Achievements": "2023-06-23T19:05:01.5120647+00:00"
 }

@@ -6,54 +6,54 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~158 |
-| Where's that freaking Dwarf? | 85.00% | ~146 |
-| Sock! SOCK! | 72.00% | ~124 |
-| Fireproof Wizardess | 59.00% | ~101 |
-| Livin' in a dwarven paradise | 56.00% | ~96 |
-| Déjà vu | 51.00% | ~88 |
-| GG EZ | 50.00% | ~86 |
-| Way of the Wimp | 47.00% | ~81 |
-| DM intervention | 47.00% | ~81 |
+| Alt+F4 | 93.00% | ~162 |
+| Where's that freaking Dwarf? | 86.00% | ~150 |
+| Sock! SOCK! | 71.00% | ~124 |
+| Fireproof Wizardess | 59.00% | ~103 |
+| Livin' in a dwarven paradise | 56.00% | ~97 |
+| Déjà vu | 52.00% | ~90 |
+| GG EZ | 49.00% | ~85 |
+| Way of the Wimp | 47.00% | ~82 |
+| DM intervention | 47.00% | ~82 |
 | Oh, when I'll be level 10... | 41.00% | ~71 |
-| Speedrun | 37.00% | ~64 |
-| The plot thickens... At the tavern | 35.00% | ~60 |
-| The Ranger of Chaos | 35.00% | ~60 |
-| Thieves' Guild Accreditation | 35.00% | ~60 |
-| Team Building Exercise | 35.00% | ~60 |
-| Dwarf Fortress | 34.00% | ~58 |
-| I am the night | 34.00% | ~58 |
+| Speedrun | 36.00% | ~63 |
+| The plot thickens... At the tavern | 35.00% | ~61 |
+| The Ranger of Chaos | 35.00% | ~61 |
+| Dwarf Fortress | 34.00% | ~59 |
+| Thieves' Guild Accreditation | 34.00% | ~59 |
+| Team Building Exercise | 34.00% | ~59 |
 | A beer, two curses, three companions | 33.00% | ~57 |
-| Look but don't touch | 31.00% | ~53 |
+| I am the night | 33.00% | ~57 |
+| Look but don't touch | 31.00% | ~54 |
 | Shiny and Crôm | 26.00% | ~45 |
 | The demons' feast | 26.00% | ~45 |
-| Torture and Sensibility | 26.00% | ~45 |
-| Gargantua | 26.00% | ~45 |
 | Material Girl | 26.00% | ~45 |
-| The Great Library | 25.00% | ~43 |
-| The Statuette of Gladeulfeurah | 25.00% | ~43 |
-| A tale of adventurers not quite like the others... | 25.00% | ~43 |
-| The beards of change | 22.00% | ~38 |
-| The Famous Dungeon of Naheulbeuk | 21.00% | ~36 |
-| In Navalu's footsteps | 21.00% | ~36 |
+| The Great Library | 25.00% | ~44 |
+| Torture and Sensibility | 25.00% | ~44 |
+| The Statuette of Gladeulfeurah | 25.00% | ~44 |
+| A tale of adventurers not quite like the others... | 25.00% | ~44 |
+| Gargantua | 25.00% | ~44 |
+| The Famous Dungeon of Naheulbeuk | 21.00% | ~37 |
+| The beards of change | 21.00% | ~37 |
+| In Navalu's footsteps | 21.00% | ~37 |
 | Urik's Depths | 19.00% | ~33 |
-| The Blood Countess | 19.00% | ~33 |
-| The Woman in the High Castle | 17.00% | ~29 |
+| The Blood Countess | 18.00% | ~31 |
+| The Woman in the High Castle | 17.00% | ~30 |
 | Cursed die | 16.00% | ~28 |
-| Law and Order | 15.00% | ~26 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~24 |
-| The Dungeon Master | 13.00% | ~22 |
-| Res Judicata | 13.00% | ~22 |
+| Law and Order | 14.00% | ~24 |
+| The Dungeon Master | 13.00% | ~23 |
+| Res Judicata | 13.00% | ~23 |
+| Dead for good | 13.00% | ~23 |
 | Necrophilia | 12.00% | ~21 |
-| Dead for good | 12.00% | ~21 |
 | Scholar of the Lands of Fangh | 11.00% | ~19 |
 | It's been a hard day's night | 11.00% | ~19 |
 | He’s alive! Aliiiive! | 10.00% | ~17 |
-| Lust and Debauchery | 9.00% | ~15 |
+| Lust and Debauchery | 9.00% | ~16 |
 | Elite Adventurers | 8.00% | ~14 |
-| Egghead | 8.00% | ~14 |
 | An old poacher makes the best gamekeeper | 8.00% | ~14 |
 | Lëgal Legend | 8.00% | ~14 |
+| Egghead | 7.00% | ~12 |
 | Free customer service | 7.00% | ~12 |
 | We come in peace | 7.00% | ~12 |
 | Super-Ultra-Lydian | 6.00% | ~10 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 268)  
+Progressed: 174 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 132 | 0 |
 | 2023-06-21 | 138 | 0 |
 | 2023-06-22 | 163 | 0 |
-| 2023-06-23 | 172 | 0 |
+| 2023-06-23 | 174 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

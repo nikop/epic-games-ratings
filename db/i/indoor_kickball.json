@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "10",
@@ -296,9 +296,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "17",
@@ -352,9 +352,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "23",
@@ -480,9 +480,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "39",
@@ -496,9 +496,9 @@
       "ID": "4",
       "SetID": "39djiaj",
       "Name": "Angry Mom",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "40",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-23T18:06:43.4606626+00:00",
+  "LastChanged_Achievements": "2023-06-23T19:06:08.392894+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:45.1047305+00:00",
-  "LastUpdate_Ratings": "2023-06-23T17:59:35.2855541+00:00",
-  "LastUpdate_Achievements": "2023-06-23T18:06:43.4606887+00:00"
+  "LastUpdate_Ratings": "2023-06-23T18:59:06.6482457+00:00",
+  "LastUpdate_Achievements": "2023-06-23T19:06:08.3929278+00:00"
 }

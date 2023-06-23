@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,268 |
-| Titan's First Steps | 96.00% | ~125,956 |
-| Basic in Bulk | 91.00% | ~119,396 |
-| Tinkle of Coins | 87.00% | ~114,147 |
-| Disintermediation | 76.00% | ~99,715 |
-| Capitalism Ho! | 74.00% | ~97,091 |
-| It's Free Real Estate | 70.00% | ~91,843 |
+| Sponsored by Argon | 97.00% | ~127,269 |
+| Titan's First Steps | 96.00% | ~125,957 |
+| Basic in Bulk | 91.00% | ~119,397 |
+| Tinkle of Coins | 87.00% | ~114,148 |
+| Disintermediation | 76.00% | ~99,716 |
+| Capitalism Ho! | 74.00% | ~97,092 |
+| It's Free Real Estate | 70.00% | ~91,844 |
 | Budding Merchant | 66.00% | ~86,595 |
-| Another Satisfied Customer | 61.00% | ~80,034 |
-| One Easy Payment | 60.00% | ~78,722 |
-| Own the Means of Production | 60.00% | ~78,722 |
-| Some Assembly Required | 58.00% | ~76,098 |
-| Pretty Penny | 57.00% | ~74,786 |
+| Another Satisfied Customer | 61.00% | ~80,035 |
+| One Easy Payment | 60.00% | ~78,723 |
+| Own the Means of Production | 60.00% | ~78,723 |
+| Some Assembly Required | 58.00% | ~76,099 |
+| Pretty Penny | 57.00% | ~74,787 |
 | One-Armed Bandit | 50.00% | ~65,602 |
 | Through Repetition, Perfection | 46.00% | ~60,354 |
 | The Daily Grind | 45.00% | ~59,042 |
@@ -27,10 +27,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 42.00% | ~55,106 |
 | Flooding the Market | 41.00% | ~53,794 |
 | Demand for Supplies | 38.00% | ~49,858 |
-| Gild-Gotten Goods | 37.00% | ~48,545 |
-| Did we pack lunch? | 35.00% | ~45,921 |
-| Arcane Industries | 34.00% | ~44,609 |
-| Accomplished Merchant | 31.00% | ~40,673 |
+| Gild-Gotten Goods | 37.00% | ~48,546 |
+| Did we pack lunch? | 35.00% | ~45,922 |
+| Arcane Industries | 34.00% | ~44,610 |
+| Accomplished Merchant | 31.00% | ~40,674 |
 | On the Path to Greatness | 28.00% | ~36,737 |
 | Ascended | 28.00% | ~36,737 |
 | Gem Expert | 28.00% | ~36,737 |
@@ -60,15 +60,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 14.00% | ~18,369 |
 | Laden with Loot | 14.00% | ~18,369 |
 | Fat Cat Tag Team | 13.00% | ~17,057 |
-| Hidden Potential | 12.00% | ~15,744 |
-| Mammonite | 12.00% | ~15,744 |
-| Attrition Mission | 12.00% | ~15,744 |
-| Above the Norm | 11.00% | ~14,432 |
-| Omae wa Mou Shindeiru | 11.00% | ~14,432 |
-| Cranked up to 11 | 11.00% | ~14,432 |
-| By Your Powers Combined... | 11.00% | ~14,432 |
-| Exotic Commodities | 11.00% | ~14,432 |
-| Complete Monopoly | 11.00% | ~14,432 |
+| Hidden Potential | 12.00% | ~15,745 |
+| Mammonite | 12.00% | ~15,745 |
+| Attrition Mission | 12.00% | ~15,745 |
+| Above the Norm | 11.00% | ~14,433 |
+| Omae wa Mou Shindeiru | 11.00% | ~14,433 |
+| Cranked up to 11 | 11.00% | ~14,433 |
+| By Your Powers Combined... | 11.00% | ~14,433 |
+| Exotic Commodities | 11.00% | ~14,433 |
+| Complete Monopoly | 11.00% | ~14,433 |
 | Master Recycler | 10.00% | ~13,120 |
 | Supercharged | 9.00% | ~11,808 |
 | Ritualist | 9.00% | ~11,808 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~656 |
 | Capitalist Camaraderie | 0.20% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,204 (Ranked 59)  
+Progressed: 131,205 (Ranked 59)  
 Completed: 109 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,10 @@ Completed: 109 (0.08%) (Ranked 183)
 | 2023-06-20 | 130,990 | 108 |
 | 2023-06-21 | 131,057 | 108 |
 | 2023-06-22 | 131,133 | 109 |
-| 2023-06-23 | 131,204 | 109 |
+| 2023-06-23 | 131,205 | 109 |
 ## Awards
 Max (Great for Beginners): 4,630  (Ranked 68)  
-Sum: 26,798 (Ranked 45)  
+Sum: 26,799 (Ranked 45)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -195,7 +195,7 @@ Diff (max vs sum): 23
 | This game has Quickly Understood Controls | 3,958 |
 | This game has Diverse Characters | 3,798 |
 | This game is Highly Recommended | 3,690 |
-| This game has Easy Combat | 3,635 |
+| This game has Easy Combat | 3,636 |
 | This game has Playful Visuals | 3,118 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -351,4 +351,4 @@ Diff (max vs sum): 23
 | 2023-06-20 | 3.99 | - | 4,629 | 26,784 |
 | 2023-06-21 | 3.99 | - | 4,629 | 26,790 |
 | 2023-06-22 | 3.99 | - | 4,630 | 26,794 |
-| 2023-06-23 | 3.99 | - | 4,630 | 26,798 |
+| 2023-06-23 | 3.99 | - | 4,630 | 26,799 |

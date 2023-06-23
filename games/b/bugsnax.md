@@ -38,7 +38,7 @@ Number of Ratings: 425  (23.09.2022)
 | Dapper Capper | 6.00% | ~1,667 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 27,788 (Ranked 92)  
-Completed: 1,288 (4.64%) (Ranked 38)  
+Completed: 1,289 (4.64%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,19 +101,19 @@ Completed: 1,288 (4.64%) (Ranked 38)
 | 2023-06-20 | 27,774 | 1,286 |
 | 2023-06-21 | 27,775 | 1,287 |
 | 2023-06-22 | 27,783 | 1,287 |
-| 2023-06-23 | 27,788 | 1,288 |
+| 2023-06-23 | 27,788 | 1,289 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 423)  
-Sum: 320 (Ranked 329)  
+Sum: 321 (Ranked 329)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 38 |
 | This game is Great for Beginners | 32 |
 | This game has Quickly Understood Controls | 32 |
+| This game has Diverse Characters | 31 |
 | This game is Highly Recommended | 31 |
 | This game has Amazing Characters | 31 |
-| This game has Diverse Characters | 30 |
 | This game is Extremely Fun | 26 |
 | This game is Relaxing | 26 |
 | This game has a Creative Community | 25 |
@@ -208,3 +208,4 @@ Diff (max vs sum): 94
 | 2023-06-09 | 4.86 | - | 38 | 317 |
 | 2023-06-18 | 4.86 | - | 38 | 318 |
 | 2023-06-19 | 4.86 | - | 38 | 320 |
+| 2023-06-23 | 4.86 | - | 38 | 321 |

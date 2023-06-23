@@ -16,8 +16,8 @@ Rating: 4.07 (Ranked 894)
 | Exotic Merchant | 17.00% | ~251 |
 | Dragon Clicker | 16.00% | ~236 |
 | Inspection | 16.00% | ~236 |
+| Full Party | 15.00% | ~222 |
 | Miner Clicker | 15.00% | ~222 |
-| Full Party | 14.00% | ~207 |
 | Dragon Master | 13.00% | ~192 |
 | Enlightenment | 13.00% | ~192 |
 | Hero inspection | 13.00% | ~192 |

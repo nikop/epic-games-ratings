@@ -4,7 +4,7 @@
   "ProductSlug": "sphere-3-deb200",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-03T04:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-03T08:57:50.4684088+00:00",
   "LastChanged": "2023-05-03T08:57:50.4684089+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:27.2020067+00:00",
-  "LastUpdate_Ratings": "2023-06-23T17:57:56.7154347+00:00",
-  "LastUpdate_Achievements": "2023-06-23T18:03:10.5023211+00:00"
+  "LastUpdate_Ratings": "2023-06-23T18:57:56.7205611+00:00",
+  "LastUpdate_Achievements": "2023-06-23T19:03:38.1998462+00:00"
 }
