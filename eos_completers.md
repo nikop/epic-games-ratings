@@ -9,14 +9,14 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.22% |
-| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 11 | [Sonic Origins](games/s/sonic_origins.md) | 13.70% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 14.47% |
+| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.75% |
 | 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 14 | [Remains](games/r/remains.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.76% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -87,7 +87,7 @@
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
-| 87 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.45% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.44% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
@@ -107,7 +107,7 @@
 | 104 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
 | 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.73% |
+| 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
 | 109 | [Haven](games/h/haven.md) | 0.70% |
 | 110 | [Them and Us](games/t/them_and_us.md) | 0.69% |
 | 111 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |

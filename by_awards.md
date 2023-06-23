@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,441,731 | 4.29 | 777 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,444,657 | 4.29 | 777 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 450,124 | 4.50 | 548 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,258 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 188,452 | 4.68 | 239 |
@@ -26,7 +26,7 @@
 | 24 | [League of Legends](games/l/league_of_legends.md) | 14,219 | 4.21 | 826 |
 | 25 | [Maneater](games/m/maneater.md) | 13,528 | 4.49 | 566 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,415 | 4.60 | 389 |
-| 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,738 | 4.24 | 807 |
+| 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,816 | 4.24 | 807 |
 | 28 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,530 | 4.36 | 725 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,481 | 4.60 | 389 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,237 | 4.42 | 660 |
@@ -41,7 +41,7 @@
 | 39 | [Control](games/c/control.md) | 8,359 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,983 | 4.58 | 421 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,643 | 4.85 | 41 |
-| 42 | [Supraland](games/s/supraland.md) | 7,627 | 4.61 | 365 |
+| 42 | [Supraland](games/s/supraland.md) | 7,628 | 4.61 | 365 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,518 | 4.89 | 13 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,492 | 4.57 | 441 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,335 | 4.47 | 592 |
@@ -82,10 +82,10 @@
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,474 | 4.47 | 592 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,397 | 4.77 | 107 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,386 | 4.46 | 605 |
-| 83 | [Paladins](games/p/paladins.md) | 3,332 | 4.34 | 741 |
+| 83 | [Paladins](games/p/paladins.md) | 3,336 | 4.34 | 741 |
 | 84 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,331 | 4.68 | 239 |
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,284 | 4.59 | 412 |
-| 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,242 | 4.76 | 119 |
+| 86 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,244 | 4.76 | 119 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,201 | 4.69 | 221 |
 | 88 | [Hades](games/h/hades.md) | 3,142 | 4.92 | 4 |
 | 89 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,136 | 4.57 | 441 |
@@ -211,8 +211,8 @@
 | 209 | [Slime Rancher](games/s/slime_rancher.md) | 395 | 4.82 | 65 |
 | 210 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 365 |
 | 211 | [Nuclear Throne](games/n/nuclear_throne.md) | 374 | 4.79 | 88 |
-| 212 | [For The King](games/f/for_the_king.md) | 371 | 4.70 | 196 |
-| 212 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 371 | 3.99 | 912 |
+| 212 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 912 |
+| 213 | [For The King](games/f/for_the_king.md) | 371 | 4.70 | 196 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 370 | 4.70 | 196 |
 | 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 360 | 4.60 | 389 |
 | 216 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 359 | 4.62 | 346 |
@@ -222,8 +222,8 @@
 | 220 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 342 | 4.76 | 119 |
 | 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 340 | 3.93 | 920 |
 | 222 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
-| 223 | [Dungeons 3](games/d/dungeons_3.md) | 326 | 4.66 | 272 |
-| 223 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 701 |
+| 223 | [Dungeons 3](games/d/dungeons_3.md) | 327 | 4.66 | 272 |
+| 224 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 701 |
 | 225 | [Darkwood](games/d/darkwood.md) | 320 | 4.61 | 365 |
 | 226 | [The Messenger](games/t/the_messenger.md) | 319 | 4.80 | 81 |
 | 227 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 314 | 4.72 | 166 |
