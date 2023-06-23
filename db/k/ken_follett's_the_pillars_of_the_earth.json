@@ -6,7 +6,7 @@
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13436,
+  "EOS_Progressed": 13437,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4699,6 +4699,11 @@
       "Time": "2023-06-23T05:05:34.3006369+00:00",
       "NumProgressed": 13436,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-23T06:05:42.2961198+00:00",
+      "NumProgressed": 13437,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 41,
@@ -4750,7 +4755,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "tpote_achievement_15",
@@ -4798,7 +4803,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "tpote_achievement_20",
@@ -4902,7 +4907,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "tpote_achievement_32",
@@ -4910,7 +4915,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "tpote_achievement_33",
@@ -4974,7 +4979,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "tpote_achievement_40",
@@ -5037,15 +5042,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13436,
+      "Progressed": 13437,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-23T05:05:34.3006365+00:00",
+  "LastChanged_Achievements": "2023-06-23T06:05:42.2961194+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:59:37.990093+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:05:34.3006958+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:59:46.9506278+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:05:42.2961831+00:00"
 }

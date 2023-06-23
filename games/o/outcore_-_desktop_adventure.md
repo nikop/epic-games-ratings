@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 70.00% | ~7 |
-| Learned how to walk! | 70.00% | ~7 |
-| Defeated Captain Tutorial | 60.00% | ~6 |
+| Learned how to jump! | 80.00% | ~8 |
+| Learned how to walk! | 80.00% | ~8 |
+| Defeated Captain Tutorial | 70.00% | ~7 |
 | Immersion Breaking | 50.00% | ~5 |
 | Defeated Booty The Bootleg | 40.00% | ~4 |
 | Defeated Mistermind | 40.00% | ~4 |
@@ -32,7 +32,7 @@
 | Tutorial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 382)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "a39d4b1311c741a191345f39bf1446eb",
   "Name": "Fireball Wizard",
   "ProductSlug": "fireball-wizard-5eb61e",
-  "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-16T08:57:06.5343079+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:57:00.1769181+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:03:20.5522701+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:57:04.1950587+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:03:22.4891519+00:00"
 }

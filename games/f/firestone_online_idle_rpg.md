@@ -16,8 +16,8 @@ Rating: 4.07 (Ranked 894)
 | Exotic Merchant | 17.00% | ~250 |
 | Dragon Clicker | 16.00% | ~235 |
 | Miner Clicker | 16.00% | ~235 |
+| Full Party | 15.00% | ~220 |
 | Inspection | 15.00% | ~220 |
-| Full Party | 14.00% | ~206 |
 | Dragon Master | 13.00% | ~191 |
 | Enlightenment | 13.00% | ~191 |
 | Hero inspection | 13.00% | ~191 |
@@ -36,9 +36,9 @@ Rating: 4.07 (Ranked 894)
 | Doing My Part | 8.00% | ~118 |
 | Frostfire Liberator | 8.00% | ~118 |
 | Mastery | 8.00% | ~118 |
+| Moving Up The Ladder | 8.00% | ~118 |
 | Relic Of The Past | 8.00% | ~118 |
 | Four Leaf Clover | 7.00% | ~103 |
-| Moving Up The Ladder | 7.00% | ~103 |
 | Here We Go Again | 6.00% | ~88 |
 | Master Enchanter | 6.00% | ~88 |
 | The Expeditioner | 6.00% | ~88 |
@@ -82,7 +82,7 @@ Rating: 4.07 (Ranked 894)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,470 (Ranked 166)  
-Completed: 1 (0.07%) (Ranked 186)  
+Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

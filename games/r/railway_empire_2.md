@@ -27,8 +27,8 @@ Rating: 4.31 (Ranked 766)
 | Stoker | 32.00% | ~426 |
 | Full Steam ahead | 31.00% | ~413 |
 | Bull and bear | 31.00% | ~413 |
+| All mine | 28.00% | ~373 |
 | Financial Shark | 28.00% | ~373 |
-| All mine | 27.00% | ~359 |
 | Mole | 27.00% | ~359 |
 | Country Life | 25.00% | ~333 |
 | Socializer | 25.00% | ~333 |
@@ -62,7 +62,7 @@ Rating: 4.31 (Ranked 766)
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,331 (Ranked 168)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

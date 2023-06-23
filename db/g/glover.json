@@ -2,8 +2,8 @@
   "ID": "6e17d0182efc4a789dfe4d463b562a84",
   "Name": "Glover",
   "ProductSlug": "glover-9e820d",
-  "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-08T16:57:50.292162+00:00",
   "LastChanged": "2023-04-08T16:57:50.292162+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:27.4641445+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:59:33.7454969+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:02:06.9021493+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:59:42.1373534+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:02:19.9459857+00:00"
 }

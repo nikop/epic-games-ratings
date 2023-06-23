@@ -6,7 +6,7 @@
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 6,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524942,
+  "EOS_Progressed": 1524946,
   "EOS_Completed": 630,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1506,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7160,6 +7160,11 @@
       "Time": "2023-06-23T05:04:15.9859549+00:00",
       "NumProgressed": 1524942,
       "NumCompleted": 630
+    },
+    {
+      "Time": "2023-06-23T06:04:19.8901185+00:00",
+      "NumProgressed": 1524946,
+      "NumCompleted": 630
     }
   ],
   "TotalAchievements": 20,
@@ -7267,7 +7272,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152494
+      "UsersEstimate": 152495
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7291,7 +7296,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13724
+      "UsersEstimate": 13725
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -7330,15 +7335,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1524942,
+      "Progressed": 1524946,
       "Completed": 630
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-23T05:04:15.9859545+00:00",
+  "LastChanged_Achievements": "2023-06-23T06:04:19.890118+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:35.3348697+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:59:40.3730431+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:04:15.9860078+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:59:49.4104841+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:04:19.8901716+00:00"
 }

@@ -16,8 +16,8 @@
 | Getting Deployment | 16.00% | ~30 |
 | Infantry Reporting | 16.00% | ~30 |
 | Keeping Busy | 14.00% | ~26 |
+| Fighting for Survival | 12.00% | ~22 |
 | Silver Competitor | 12.00% | ~22 |
-| Fighting for Survival | 11.00% | ~20 |
 | Factory Expansion | 11.00% | ~20 |
 | Brothers in Arms | 10.00% | ~18 |
 | Exterminator | 9.00% | ~17 |
@@ -44,7 +44,7 @@
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 185 (Ranked 265)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

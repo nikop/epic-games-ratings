@@ -9,9 +9,9 @@ Rating: 4.46 (Ranked 603)
 | Confirming Suspicions | 1.00% | ~31 |
 | The Kraken Wakes | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
+| Taking it back | 1.00% | ~31 |
 | Lord of War | 0.90% | ~28 |
 | Change the Channel | 0.90% | ~28 |
-| Taking it back | 0.90% | ~28 |
 | Target America | 0.90% | ~28 |
 | Sharpshooter | 0.80% | ~25 |
 | Explosive Efficiency | 0.80% | ~25 |
@@ -47,6 +47,7 @@ Rating: 4.46 (Ranked 603)
 | Strategist | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
+| Last Resort | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
 | If You Go Down To The Woods Today | 0.20% | ~6 |
@@ -73,12 +74,11 @@ Rating: 4.46 (Ranked 603)
 | Covert Elimination | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |
-| Last Resort | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,090 (Ranked 144)  
-Completed: 2 (0.06%) (Ranked 190)  
+Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

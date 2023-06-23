@@ -23,7 +23,7 @@
 | The Famous Lemon Cake | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 129 (Ranked 280)  
-Completed: 1 (0.78%) (Ranked 103)  
+Completed: 1 (0.78%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -10,15 +10,15 @@ Rating: 4.77 (Ranked 107)
 | A Keen Sense of Spell | 8.00% | ~22,490 |
 | Troll with the Punches | 8.00% | ~22,490 |
 | That's a Keeper | 8.00% | ~22,490 |
-| Grappling with a Graphorn | 7.00% | ~19,678 |
-| The One Who Mastered Memories | 7.00% | ~19,678 |
-| The Hallowed Hero | 7.00% | ~19,678 |
-| The Hero of Hogwarts | 7.00% | ~19,678 |
-| The Defender of Dragons | 7.00% | ~19,678 |
-| Challenge Accepted | 7.00% | ~19,678 |
-| Loom for Improvement | 7.00% | ~19,678 |
-| A Talent for Spending | 7.00% | ~19,678 |
-| Coasting Along | 7.00% | ~19,678 |
+| Grappling with a Graphorn | 7.00% | ~19,679 |
+| The One Who Mastered Memories | 7.00% | ~19,679 |
+| The Hallowed Hero | 7.00% | ~19,679 |
+| The Hero of Hogwarts | 7.00% | ~19,679 |
+| The Defender of Dragons | 7.00% | ~19,679 |
+| Challenge Accepted | 7.00% | ~19,679 |
+| Loom for Improvement | 7.00% | ~19,679 |
+| A Talent for Spending | 7.00% | ~19,679 |
+| Coasting Along | 7.00% | ~19,679 |
 | The Avenging Gazelle | 6.00% | ~16,867 |
 | A Sallow Grave | 6.00% | ~16,867 |
 | Followed the Butterflies | 6.00% | ~16,867 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,119 (Ranked 41)  
-Completed: 409 (0.15%) (Ranked 164)  
+Progressed: 281,122 (Ranked 41)  
+Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,15 +115,15 @@ Completed: 409 (0.15%) (Ranked 164)
 | 2023-06-20 | 280,876 | 408 |
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
-| 2023-06-23 | 281,119 | 409 |
+| 2023-06-23 | 281,122 | 409 |
 ## Awards
 Max (Character Customization): 20,270  (Ranked 18)  
-Sum: 37,644 (Ranked 30)  
+Sum: 37,661 (Ranked 30)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,270 |
-| This game has Great Boss Battles | 9,636 |
+| This game has Great Boss Battles | 9,653 |
 | This game is Great for Beginners | 859 |
 | This game is Relaxing | 843 |
 | This game is Extremely Fun | 841 |
@@ -228,4 +228,4 @@ Diff (max vs sum): -12
 | 2023-06-20 | 4.77 | 20,207 | 37,491 |
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
 | 2023-06-22 | 4.77 | 20,270 | 37,641 |
-| 2023-06-23 | 4.77 | 20,270 | 37,644 |
+| 2023-06-23 | 4.77 | 20,270 | 37,661 |

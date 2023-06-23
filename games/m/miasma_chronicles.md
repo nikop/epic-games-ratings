@@ -9,7 +9,7 @@ Rating: 4.34 (Ranked 741)
 | Ranidaphobia | 77.00% | ~910 |
 | Aspiring Editor | 74.00% | ~875 |
 | Gun for Hire | 69.00% | ~816 |
-| I am the law! | 62.00% | ~733 |
+| I am the law! | 63.00% | ~745 |
 | Lumberjack | 50.00% | ~591 |
 | Croaked | 45.00% | ~532 |
 | Limp Richard | 44.00% | ~520 |
@@ -23,8 +23,8 @@ Rating: 4.34 (Ranked 741)
 | Technophobe | 34.00% | ~402 |
 | Recycler | 32.00% | ~378 |
 | Are you not entertained? | 28.00% | ~331 |
+| Ganglord | 28.00% | ~331 |
 | Jarhead | 28.00% | ~331 |
-| Ganglord | 27.00% | ~319 |
 | Infiltrator | 27.00% | ~319 |
 | Pushing Daisy | 26.00% | ~307 |
 | Experienced | 24.00% | ~284 |
@@ -58,7 +58,7 @@ Rating: 4.34 (Ranked 741)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,182 (Ranked 175)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -31,10 +31,10 @@ Rating: 4.56 (Ranked 456)
 | A Legitimate Business | 1.00% | ~108 |
 | Who Needs Directions? | 1.00% | ~108 |
 | Swiss Army Strife | 1.00% | ~108 |
+| Lucky Spinner | 1.00% | ~108 |
 | Assassin | 1.00% | ~108 |
 | Chick Magnet | 1.00% | ~108 |
 | Ain’t Nothing But a G Thing | 1.00% | ~108 |
-| Lucky Spinner | 0.90% | ~97 |
 | Hoopin' it Up | 0.80% | ~86 |
 | Not a Player | 0.60% | ~65 |
 | Remastered | 0.50% | ~54 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 456)
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,769 (Ranked 112)  
-Completed: 20 (0.19%) (Ranked 158)  
+Completed: 20 (0.19%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

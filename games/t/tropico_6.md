@@ -24,8 +24,8 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~302 |
 | Firestarter | 8.00% | ~302 |
 | Make Tropico Great Again! | 8.00% | ~302 |
+| French Connection | 8.00% | ~302 |
 | Don't Panic! | 7.00% | ~264 |
-| French Connection | 7.00% | ~264 |
 | Beware The Betman | 6.00% | ~226 |
 | I Owe You Nothing | 6.00% | ~226 |
 | Watch The World Burn | 6.00% | ~226 |
@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,769 (Ranked 138)  
-Completed: 1 (0.03%) (Ranked 200)  
+Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

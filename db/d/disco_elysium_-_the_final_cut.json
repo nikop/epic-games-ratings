@@ -6,7 +6,7 @@
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -1151,7 +1151,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122083,
+  "EOS_Progressed": 122084,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
@@ -7291,6 +7291,11 @@
       "Time": "2023-06-23T05:05:43.7249451+00:00",
       "NumProgressed": 122083,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-23T06:05:51.3951904+00:00",
+      "NumProgressed": 122084,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7326,7 +7331,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ACH_COP_ART",
@@ -7382,7 +7387,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34183
+      "UsersEstimate": 34184
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7438,7 +7443,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18312
+      "UsersEstimate": 18313
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -7462,7 +7467,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10987
+      "UsersEstimate": 10988
     },
     {
       "ID": "ACH_GLUTEN",
@@ -7526,7 +7531,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -7542,7 +7547,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_MEDAL",
@@ -7621,15 +7626,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122083,
+      "Progressed": 122084,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-23T05:05:43.7249447+00:00",
+  "LastChanged_Achievements": "2023-06-23T06:05:51.3951899+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:58:53.1672807+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:05:43.7250142+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:58:59.1334207+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:05:51.3952732+00:00"
 }

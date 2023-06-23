@@ -6,8 +6,8 @@
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3436,
+  "EOS_Progressed": 3437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-06-22T21:06:13.5880529+00:00",
       "NumProgressed": 3436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T06:05:48.3026349+00:00",
+      "NumProgressed": 3437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -649,7 +654,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -689,7 +694,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -753,7 +758,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -776,7 +781,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3436,
+      "Progressed": 3437,
       "Completed": 0
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-23T05:05:40.6714908+00:00",
+  "LastChanged_Achievements": "2023-06-23T06:05:48.3026344+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.5639476+00:00",
-  "LastUpdate_Ratings": "2023-06-23T04:59:11.8278381+00:00",
-  "LastUpdate_Achievements": "2023-06-23T05:05:40.6715114+00:00"
+  "LastUpdate_Ratings": "2023-06-23T05:59:18.8340083+00:00",
+  "LastUpdate_Achievements": "2023-06-23T06:05:48.3026542+00:00"
 }
