@@ -17,11 +17,11 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.81% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.76% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
-| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
+| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.53% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -80,8 +80,8 @@
 | 78 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.80% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
-| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.59% |
-| 82 | [Somerville](games/s/somerville.md) | 1.57% |
+| 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.57% |
+| 81 | [Somerville](games/s/somerville.md) | 1.57% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 84 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
