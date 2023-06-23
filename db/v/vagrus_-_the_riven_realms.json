@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -622,9 +622,9 @@
       "ID": "Vanilla_ExchangeNews",
       "SetID": "27kik8p",
       "Name": "Courier",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_ExtendedHireling",
@@ -1143,8 +1143,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-23T13:23:34.4868713+00:00",
+  "LastChanged_Achievements": "2023-06-23T14:06:55.5683795+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:26.6141663+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:15:35.6887084+00:00",
-  "LastUpdate_Achievements": "2023-06-23T13:23:34.4870058+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:59:01.6488861+00:00",
+  "LastUpdate_Achievements": "2023-06-23T14:06:55.5684741+00:00"
 }

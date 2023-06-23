@@ -1,12 +1,12 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 456)  
+Rating: 4.57 (Ranked 442)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~8,621 |
-| Pay 'n' Spray | 49.00% | ~5,280 |
+| Getting Started | 80.00% | ~8,622 |
+| Pay 'n' Spray | 49.00% | ~5,281 |
 | All Dressed Up for San Fierro | 24.00% | ~2,586 |
 | The American Dream | 18.00% | ~1,940 |
 | School's Out | 16.00% | ~1,724 |
@@ -24,12 +24,12 @@ Rating: 4.56 (Ranked 456)
 | What are the Odds | 3.00% | ~323 |
 | I’ll Have Two Number 9s | 2.00% | ~216 |
 | Bike or Biker | 2.00% | ~216 |
+| Who Needs Directions? | 2.00% | ~216 |
 | What the City Needs | 2.00% | ~216 |
 | Yes I Speak English | 2.00% | ~216 |
 | Double or Nothin' | 2.00% | ~216 |
 | Public Enemy No. 1 | 2.00% | ~216 |
 | A Legitimate Business | 1.00% | ~108 |
-| Who Needs Directions? | 1.00% | ~108 |
 | Swiss Army Strife | 1.00% | ~108 |
 | Lucky Spinner | 1.00% | ~108 |
 | Assassin | 1.00% | ~108 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 456)
 | ...Here we go again | 0.20% | ~22 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,776 (Ranked 112)  
+Progressed: 10,777 (Ranked 112)  
 Completed: 20 (0.19%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 20 (0.19%) (Ranked 159)
 | 2023-06-20 | 10,735 | 19 |
 | 2023-06-21 | 10,747 | 19 |
 | 2023-06-22 | 10,764 | 20 |
-| 2023-06-23 | 10,776 | 20 |
+| 2023-06-23 | 10,777 | 20 |
 ## Awards
 Max (Great Boss Battles): 178  (Ranked 277)  
 Sum: 178 (Ranked 370)  
@@ -177,3 +177,4 @@ Diff (max vs sum): -93
 | 2023-06-19 | 4.56 | 176 | 176 |
 | 2023-06-21 | 4.56 | 177 | 177 |
 | 2023-06-22 | 4.56 | 178 | 178 |
+| 2023-06-23 | 4.57 | 178 | 178 |

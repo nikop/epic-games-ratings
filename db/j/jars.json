@@ -4,8 +4,8 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -28,8 +28,8 @@
   "Tags": [],
   "EOS_Progressed": 56,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
@@ -309,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-06-23T13:19:33.2300323+00:00",
+  "LastChanged_Achievements": "2023-06-23T14:03:37.0035664+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:45.1536857+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:14:37.5016458+00:00",
-  "LastUpdate_Achievements": "2023-06-23T13:19:33.2300497+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:58:14.218194+00:00",
+  "LastUpdate_Achievements": "2023-06-23T14:03:37.0035802+00:00"
 }

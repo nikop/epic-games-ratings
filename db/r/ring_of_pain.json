@@ -2341,9 +2341,9 @@
       "Count": 729
     }
   ],
-  "EOS_Progressed": 231282,
+  "EOS_Progressed": 231283,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8671,6 +8671,11 @@
       "Time": "2023-06-23T13:23:39.8666293+00:00",
       "NumProgressed": 231282,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-06-23T14:07:00.2846614+00:00",
+      "NumProgressed": 231283,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 122,
@@ -8714,7 +8719,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 222031
+      "UsersEstimate": 222032
     },
     {
       "ID": "CURSE1HP",
@@ -8730,7 +8735,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60133
+      "UsersEstimate": 60134
     },
     {
       "ID": "DAILY7",
@@ -8762,7 +8767,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122579
+      "UsersEstimate": 122580
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -8778,7 +8783,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97138
+      "UsersEstimate": 97139
     },
     {
       "ID": "DEPTH12HARD",
@@ -8802,7 +8807,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 168836
+      "UsersEstimate": 168837
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -8842,7 +8847,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "DIEHARD",
@@ -8898,7 +8903,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 74010
+      "UsersEstimate": 74011
     },
     {
       "ID": "ENDWOUNDED",
@@ -8938,7 +8943,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 46256
+      "UsersEstimate": 46257
     },
     {
       "ID": "FREEZE20TIMES",
@@ -9082,7 +9087,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141082
+      "UsersEstimate": 141083
     },
     {
       "ID": "KILL1000",
@@ -9090,7 +9095,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60133
+      "UsersEstimate": 60134
     },
     {
       "ID": "KILL10000",
@@ -9170,7 +9175,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 124892
+      "UsersEstimate": 124893
     },
     {
       "ID": "KILLNICEDOG",
@@ -9186,7 +9191,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 87887
+      "UsersEstimate": 87888
     },
     {
       "ID": "KILLREFLECT10",
@@ -9330,7 +9335,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150333
+      "UsersEstimate": 150334
     },
     {
       "ID": "PETRIFY50",
@@ -9426,7 +9431,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 205841
+      "UsersEstimate": 205842
     },
     {
       "ID": "SPECIALROOMS10",
@@ -9450,7 +9455,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 99451
+      "UsersEstimate": 99452
     },
     {
       "ID": "STEALTH100",
@@ -9482,7 +9487,7 @@
       "Name": "Shapeshifting",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60133
+      "UsersEstimate": 60134
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -9498,7 +9503,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 141082
+      "UsersEstimate": 141083
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -9506,7 +9511,7 @@
       "Name": "The Long Run",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32379
+      "UsersEstimate": 32380
     },
     {
       "ID": "WIN0ATTACK",
@@ -9657,7 +9662,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231282,
+      "Progressed": 231283,
       "Completed": 240
     }
   ],
@@ -9665,8 +9670,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-22T14:01:01.7351505+00:00",
-  "LastChanged_Achievements": "2023-06-23T13:23:39.8666285+00:00",
+  "LastChanged_Achievements": "2023-06-23T14:07:00.284661+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:04.8459013+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:16:28.7599282+00:00",
-  "LastUpdate_Achievements": "2023-06-23T13:23:39.8668711+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:59:46.7311747+00:00",
+  "LastUpdate_Achievements": "2023-06-23T14:07:00.2848334+00:00"
 }

@@ -40,8 +40,8 @@
 | Deposition | 48.00% | ~77 |
 | Brilliant: Arcania | 47.00% | ~76 |
 | Starry: Tanglewood | 46.00% | ~74 |
+| Sing, My Angel | 42.00% | ~68 |
 | Starry: Arcania | 42.00% | ~68 |
-| Sing, My Angel | 41.00% | ~66 |
 | The Coreland | 39.00% | ~63 |
 | Feed the Fishes | 36.00% | ~58 |
 | Starry: The Coreland | 36.00% | ~58 |

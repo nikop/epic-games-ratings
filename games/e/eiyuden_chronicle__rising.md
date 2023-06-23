@@ -20,11 +20,11 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Wreckage | 48.00% | ~324 |
 | ...And Your Tax Money | 47.00% | ~318 |
 | The Lords of the Snowpeak | 40.00% | ~270 |
+| The Lava Mantor Wyrm | 36.00% | ~243 |
 | The Go-To Girl | 36.00% | ~243 |
 | Scavenger's Honor | 36.00% | ~243 |
 | Natural Born Monster-Killer | 36.00% | ~243 |
 | The Great Forest...On Foot! | 36.00% | ~243 |
-| The Lava Mantor Wyrm | 35.00% | ~237 |
 | One Mean Merc | 35.00% | ~237 |
 | Adept, for an Acting Mayor | 34.00% | ~230 |
 | Money, Money, Money | 34.00% | ~230 |
@@ -58,7 +58,7 @@ Number of Ratings: 48  (23.09.2022)
 | Rising Champion | 7.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 676 (Ranked 198)  
-Completed: 58 (8.58%) (Ranked 21)  
+Completed: 58 (8.58%) (Ranked 20)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

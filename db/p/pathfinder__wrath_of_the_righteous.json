@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2924,9 +2924,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 10031,
+  "EOS_Progressed": 10032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7144,6 +7144,11 @@
       "Time": "2023-06-23T12:05:57.6928398+00:00",
       "NumProgressed": 10031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T14:06:59.8906889+00:00",
+      "NumProgressed": 10032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7355,7 +7360,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "28_GreatUpstart",
@@ -7403,7 +7408,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8082,21 +8087,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8813,
+      "Progressed": 8814,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10031,
+      "Progressed": 10032,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-22T19:58:37.3418076+00:00",
-  "LastChanged_Achievements": "2023-06-23T13:23:39.2319574+00:00",
+  "LastChanged_Achievements": "2023-06-23T14:06:59.8906885+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:15:04.2987571+00:00",
-  "LastUpdate_Achievements": "2023-06-23T13:23:39.2321174+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:58:34.5862652+00:00",
+  "LastUpdate_Achievements": "2023-06-23T14:06:59.8908305+00:00"
 }

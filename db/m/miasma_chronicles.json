@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1182,
+  "EOS_Progressed": 1183,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -2000,6 +2000,11 @@
       "Time": "2023-06-22T11:08:42.4608603+00:00",
       "NumProgressed": 1182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T14:01:11.8096734+00:00",
+      "NumProgressed": 1183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2123,7 +2128,7 @@
       "Name": "Limp Richard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2155,7 +2160,7 @@
       "Name": "Editor Adept",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ENDGAME",
@@ -2163,7 +2168,7 @@
       "Name": "Endgame",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "EXORCIST",
@@ -2171,7 +2176,7 @@
       "Name": "Exorcist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "EXPERIENCED",
@@ -2195,7 +2200,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2219,7 +2224,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "GIANT_KILLER",
@@ -2257,9 +2262,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 733
     },
     {
       "ID": "INFILTRATOR",
@@ -2275,7 +2280,7 @@
       "Name": "Lumberjack",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2299,7 +2304,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2315,7 +2320,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "RECYCLER",
@@ -2323,7 +2328,7 @@
       "Name": "Recycler",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "RUTHLESS",
@@ -2339,7 +2344,7 @@
       "Name": "Savior",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "SENSEI",
@@ -2347,7 +2352,7 @@
       "Name": "Sensei",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2418,7 +2423,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1182,
+      "Progressed": 1183,
       "Completed": 0
     }
   ],
@@ -2426,8 +2431,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-22T15:58:26.6810793+00:00",
-  "LastChanged_Achievements": "2023-06-23T13:18:07.7665574+00:00",
+  "LastChanged_Achievements": "2023-06-23T14:01:11.809673+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:59.3619882+00:00",
-  "LastUpdate_Ratings": "2023-06-23T13:14:57.6542139+00:00",
-  "LastUpdate_Achievements": "2023-06-23T13:18:07.7666958+00:00"
+  "LastUpdate_Ratings": "2023-06-23T13:58:30.0650339+00:00",
+  "LastUpdate_Achievements": "2023-06-23T14:01:11.8097587+00:00"
 }

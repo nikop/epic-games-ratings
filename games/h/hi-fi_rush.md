@@ -8,25 +8,25 @@ Rating: 4.89 (Ranked 13)
 | Start with a bang! | 80.00% | ~2,658 |
 | Feeling the beat! | 80.00% | ~2,658 |
 | You can pet the cat! | 75.00% | ~2,492 |
-| Who put gears in there? | 68.00% | ~2,259 |
+| Who put gears in there? | 68.00% | ~2,260 |
 | Cream of the Crop | 62.00% | ~2,060 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,060 |
-| You got this, Peppermint? | 56.00% | ~1,860 |
+| You got this, Peppermint? | 56.00% | ~1,861 |
 | Perfect Parry | 54.00% | ~1,794 |
 | Alright, that felt AWESOME! | 54.00% | ~1,794 |
 | I play my own way! | 49.00% | ~1,628 |
-| This will cost you big time | 47.00% | ~1,561 |
-| Uh, they were broken when I got here | 46.00% | ~1,528 |
+| This will cost you big time | 47.00% | ~1,562 |
+| Uh, they were broken when I got here | 46.00% | ~1,529 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,495 |
 | Kissing the sky! | 44.00% | ~1,462 |
 | Does that say weakpoint? | 41.00% | ~1,362 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,329 |
-| The Negotiator | 38.00% | ~1,262 |
-| You must like calling me in, Chai | 33.00% | ~1,096 |
-| Out in a puff of smoke | 33.00% | ~1,096 |
+| The Negotiator | 38.00% | ~1,263 |
+| You must like calling me in, Chai | 33.00% | ~1,097 |
+| Out in a puff of smoke | 33.00% | ~1,097 |
 | Headliner | 32.00% | ~1,063 |
 | Time to pay up! | 30.00% | ~997 |
-| Perfecter Parry-er! | 29.00% | ~963 |
+| Perfecter Parry-er! | 29.00% | ~964 |
 | Who's the boss now? | 28.00% | ~930 |
 | I have to read these things? | 28.00% | ~930 |
 | I look cool. But I can look COOLER. | 28.00% | ~930 |
@@ -36,8 +36,8 @@ Rating: 4.89 (Ranked 13)
 | Well that was a rush! | 17.00% | ~565 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~565 |
 | Wanna hear my playlist? | 12.00% | ~399 |
-| Chip-tuned | 11.00% | ~365 |
-| Check out my moves! | 11.00% | ~365 |
+| Chip-tuned | 11.00% | ~366 |
+| Check out my moves! | 11.00% | ~366 |
 | We're Jammin' | 8.00% | ~266 |
 | I think I deserve some praise, here! | 7.00% | ~233 |
 | I think I found your calling, Macaron | 7.00% | ~233 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,322 (Ranked 143)  
+Progressed: 3,323 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 5 (0.15%) (Ranked 165)
 | 2023-06-20 | 3,292 | 5 |
 | 2023-06-21 | 3,303 | 5 |
 | 2023-06-22 | 3,317 | 5 |
-| 2023-06-23 | 3,322 | 5 |
+| 2023-06-23 | 3,323 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

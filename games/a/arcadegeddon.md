@@ -16,7 +16,7 @@ Number of Ratings: 801  (23.09.2022)
 | You're Fired | 58.00% | ~4,264 |
 | Get Furious | 56.00% | ~4,117 |
 | Gunplay And Cosplay | 55.00% | ~4,044 |
-| Hacks In Stacks | 54.00% | ~3,970 |
+| Hacks In Stacks | 55.00% | ~4,044 |
 | Meching Enemies | 49.00% | ~3,602 |
 | Ticket Toddler | 45.00% | ~3,308 |
 | Booty Bashing | 43.00% | ~3,161 |

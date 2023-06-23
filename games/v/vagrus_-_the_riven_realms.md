@@ -10,16 +10,17 @@
 | Randomized | 13.00% | ~15 |
 | Conquered | 13.00% | ~15 |
 | Scribe | 6.00% | ~7 |
+| Tactician | 5.00% | ~6 |
 | Breached | 5.00% | ~6 |
 | Fight Another Day | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
-| Tactician | 4.00% | ~4 |
 | Taskmaster | 4.00% | ~4 |
 | Scholar | 3.00% | ~3 |
 | Acquaintance | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
 | The More the Merrier | 2.00% | ~2 |
 | Harbinger | 2.00% | ~2 |
+| Courier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Quartermaster | 0.90% | ~1 |
@@ -27,7 +28,6 @@
 | Loremaster | 0.90% | ~1 |
 | Strategist | 0.90% | ~1 |
 | Xevarian Gambit | 0.90% | ~1 |
-| Courier | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |

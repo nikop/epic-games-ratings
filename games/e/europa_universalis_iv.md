@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,385 |
-| That's a Grand Army | 8.00% | ~4,786 |
-| That is mine! | 8.00% | ~4,786 |
-| Victorious! | 8.00% | ~4,786 |
-| Brothers in Arms | 6.00% | ~3,590 |
-| That's a Grand Navy | 6.00% | ~3,590 |
-| Seriously?! | 6.00% | ~3,590 |
-| For the Glory | 5.00% | ~2,991 |
-| Cold War | 4.00% | ~2,393 |
-| True Catholic | 4.00% | ~2,393 |
-| Defender of the Faith | 3.00% | ~1,795 |
-| It's all about the money | 3.00% | ~1,795 |
-| Respected | 3.00% | ~1,795 |
-| Truly Divine Ruler | 3.00% | ~1,795 |
+| Until death do us apart | 9.00% | ~5,387 |
+| That's a Grand Army | 8.00% | ~4,788 |
+| That is mine! | 8.00% | ~4,788 |
+| Victorious! | 8.00% | ~4,788 |
+| Brothers in Arms | 6.00% | ~3,591 |
+| That's a Grand Navy | 6.00% | ~3,591 |
+| Seriously?! | 6.00% | ~3,591 |
+| For the Glory | 5.00% | ~2,993 |
+| Cold War | 4.00% | ~2,394 |
+| True Catholic | 4.00% | ~2,394 |
+| Defender of the Faith | 3.00% | ~1,796 |
+| It's all about the money | 3.00% | ~1,796 |
+| Respected | 3.00% | ~1,796 |
+| Truly Divine Ruler | 3.00% | ~1,796 |
 | Agressive Expander | 2.00% | ~1,197 |
 | Blockader | 2.00% | ~1,197 |
 | Combined Arms | 2.00% | ~1,197 |
@@ -31,17 +31,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,197 |
 | The Princess is in this Castle | 2.00% | ~1,197 |
 | Total Control | 2.00% | ~1,197 |
-| All That's Thine Shall Be Mine | 1.00% | ~598 |
-| Azur semé de lis or | 1.00% | ~598 |
-| Bright Spark | 1.00% | ~598 |
-| City of Cities | 1.00% | ~598 |
-| Factionalism | 1.00% | ~598 |
-| A Golden Empire | 1.00% | ~598 |
-| The Five Colonies | 1.00% | ~598 |
-| This navy can take it all | 1.00% | ~598 |
-| The Emperors new clothes | 0.90% | ~538 |
-| Isn't this the way to India? | 0.90% | ~538 |
-| Market Control | 0.90% | ~538 |
+| All That's Thine Shall Be Mine | 1.00% | ~599 |
+| Azur semé de lis or | 1.00% | ~599 |
+| Bright Spark | 1.00% | ~599 |
+| City of Cities | 1.00% | ~599 |
+| Factionalism | 1.00% | ~599 |
+| A Golden Empire | 1.00% | ~599 |
+| The Five Colonies | 1.00% | ~599 |
+| This navy can take it all | 1.00% | ~599 |
+| The Emperors new clothes | 0.90% | ~539 |
+| Isn't this the way to India? | 0.90% | ~539 |
+| Market Control | 0.90% | ~539 |
 | Down Under | 0.80% | ~479 |
 | Trustworthy | 0.80% | ~479 |
 | Electable! | 0.70% | ~419 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~239 |
 | The Continuation of Diplomacy | 0.40% | ~239 |
 | Wonderful | 0.40% | ~239 |
-| A Decent Reserve | 0.30% | ~179 |
-| A Pile of Gold | 0.30% | ~179 |
-| Grand Duchy | 0.30% | ~179 |
-| Multiculturalism | 0.30% | ~179 |
-| No Pirates in my Caribbean | 0.30% | ~179 |
-| Not so sad a state... | 0.30% | ~179 |
-| The Chrysanthemum Throne | 0.30% | ~179 |
-| Three Trivial Tributary Tribes | 0.30% | ~179 |
-| Traditional Player | 0.30% | ~179 |
-| Vasa or Wettin? | 0.30% | ~179 |
-| World Discoverer | 0.30% | ~179 |
+| A Decent Reserve | 0.30% | ~180 |
+| A Pile of Gold | 0.30% | ~180 |
+| Grand Duchy | 0.30% | ~180 |
+| Multiculturalism | 0.30% | ~180 |
+| No Pirates in my Caribbean | 0.30% | ~180 |
+| Not so sad a state... | 0.30% | ~180 |
+| The Chrysanthemum Throne | 0.30% | ~180 |
+| Three Trivial Tributary Tribes | 0.30% | ~180 |
+| Traditional Player | 0.30% | ~180 |
+| Vasa or Wettin? | 0.30% | ~180 |
+| World Discoverer | 0.30% | ~180 |
 | A Protected Market | 0.20% | ~120 |
 | AAA Credit | 0.20% | ~120 |
 | An early Reich | 0.20% | ~120 |
@@ -310,6 +310,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trade Hegemon | 0.10% | ~60 |
 | Triple the Rome | 0.10% | ~60 |
 | True Heir of Timur | 0.10% | ~60 |
+| Turn the Table | 0.10% | ~60 |
 | Turning the Tide | 0.10% | ~60 |
 | Turtles all the way down | 0.10% | ~60 |
 | Ultimate Military | 0.10% | ~60 |
@@ -355,13 +356,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Pheasant Strut | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
-| Turn the Table | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,828 (Ranked 77)  
+Progressed: 59,851 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -425,7 +425,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-20 | 58,604 | 0 |
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
-| 2023-06-23 | 59,828 | 0 |
+| 2023-06-23 | 59,851 | 0 |
 ## Awards
 Max (Educational): 5,439  (Ranked 61)  
 Sum: 44,938 (Ranked 27)  
