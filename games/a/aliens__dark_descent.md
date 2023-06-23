@@ -7,9 +7,9 @@
 | This Is Hayes, Pioneer Station, Signing Off | 71.00% | ~791 |
 | Snatched Out | 62.00% | ~691 |
 | Keep 'Em Coming | 60.00% | ~668 |
-| Cleaning Lethe, One Nest At A Time | 45.00% | ~501 |
-| This Was No Papercut | 38.00% | ~423 |
-| Something Lurks Under The Hills | 37.00% | ~412 |
+| Cleaning Lethe, One Nest At A Time | 46.00% | ~512 |
+| This Was No Papercut | 39.00% | ~434 |
+| Something Lurks Under The Hills | 38.00% | ~423 |
 | Call Me Snake | 36.00% | ~401 |
 | The Shrink Hates Me | 33.00% | ~368 |
 | Use The Bumper, That's What It's For | 30.00% | ~334 |
@@ -18,7 +18,7 @@
 | Colonial Barrels | 22.00% | ~245 |
 | First Steps Into Madness | 22.00% | ~245 |
 | Omelette Du Fromage | 13.00% | ~145 |
-| Harper's Hell | 12.00% | ~134 |
+| Harper's Hell | 13.00% | ~145 |
 | Making a Stand | 11.00% | ~123 |
 | Recouped Investment | 11.00% | ~123 |
 | Where It All Begun | 6.00% | ~67 |
@@ -35,7 +35,7 @@
 | The Passenger | 1.00% | ~11 |
 | Bandage Lover | 0.80% | ~9 |
 | Frontliner | 0.80% | ~9 |
-| The Cable Guy | 0.60% | ~7 |
+| The Cable Guy | 0.70% | ~8 |
 | The Spire | 0.60% | ~7 |
 | This Went Smoothly | 0.40% | ~4 |
 | Excavating The Truth | 0.40% | ~4 |

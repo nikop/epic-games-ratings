@@ -16,16 +16,16 @@
 | No need to say goodbye | 8.00% | ~2 |
 | Better hurry up | 4.00% | ~1 |
 | I call her the BF-Worm | 4.00% | ~1 |
+| Axel? | 4.00% | ~1 |
+| You won't escape that easy!! | 4.00% | ~1 |
 | I'm ready, anytime | 4.00% | ~1 |
 | Actually it's called aileron roll | 4.00% | ~1 |
 | I have a bad feeling about this | 4.00% | ~1 |
 | Any other day at work | 4.00% | ~1 |
 | I've had enough! | 4.00% | ~1 |
-| Axel? | 0.00% | ~0 |
-| You won't escape that easy!! | 0.00% | ~0 |
+| I. Am. Bored | 4.00% | ~1 |
 | See you on the other side | 0.00% | ~0 |
 | Like it's nothing | 0.00% | ~0 |
-| I. Am. Bored | 0.00% | ~0 |
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

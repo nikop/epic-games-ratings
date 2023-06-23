@@ -5,20 +5,20 @@ Rating: 3.94 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~49,964 |
-| First One’s Free | 65.00% | ~43,887 |
-| Neophyte Ninja | 50.00% | ~33,760 |
-| Too Old for This | 47.00% | ~31,734 |
-| Fancy Pants | 35.00% | ~23,632 |
-| Case Closed | 34.00% | ~22,956 |
-| King of the Hill | 34.00% | ~22,956 |
+| Downed but Not Outed | 74.00% | ~49,966 |
+| First One’s Free | 65.00% | ~43,889 |
+| Neophyte Ninja | 50.00% | ~33,761 |
+| Too Old for This | 47.00% | ~31,735 |
+| Fancy Pants | 35.00% | ~23,633 |
+| Case Closed | 34.00% | ~22,957 |
+| King of the Hill | 34.00% | ~22,957 |
 | Underworld Initiate | 29.00% | ~19,581 |
-| Roid Ranger | 21.00% | ~14,179 |
+| Roid Ranger | 21.00% | ~14,180 |
 | True Player | 19.00% | ~12,829 |
 | Off the Rocks | 19.00% | ~12,829 |
-| Raider’s Ruin | 16.00% | ~10,803 |
-| Dragonslayer | 16.00% | ~10,803 |
-| Hidden Sonata | 13.00% | ~8,777 |
+| Raider’s Ruin | 16.00% | ~10,804 |
+| Dragonslayer | 16.00% | ~10,804 |
+| Hidden Sonata | 13.00% | ~8,778 |
 | Rockay Rex | 11.00% | ~7,427 |
 | Freebooter | 10.00% | ~6,752 |
 | Track Star | 9.00% | ~6,077 |
@@ -26,7 +26,7 @@ Rating: 3.94 (Ranked 919)
 | I Like Trains | 8.00% | ~5,402 |
 | Headhunter | 8.00% | ~5,402 |
 | Ding Dong | 8.00% | ~5,402 |
-| Foo Finder | 7.00% | ~4,726 |
+| Foo Finder | 7.00% | ~4,727 |
 | Legend Looter | 5.00% | ~3,376 |
 | Savvy Seeker | 5.00% | ~3,376 |
 | Imports and Exports | 4.00% | ~2,701 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 919)
 | Geek Out | 0.50% | ~338 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,519 (Ranked 71)  
+Progressed: 67,522 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 34 (0.05%) (Ranked 195)
 | 2023-06-20 | 67,353 | 34 |
 | 2023-06-21 | 67,421 | 34 |
 | 2023-06-22 | 67,506 | 34 |
-| 2023-06-23 | 67,519 | 34 |
+| 2023-06-23 | 67,522 | 34 |
 ## Awards
 Max (Diverse Characters): 340  (Ranked 221)  
 Sum: 1,623 (Ranked 209)  

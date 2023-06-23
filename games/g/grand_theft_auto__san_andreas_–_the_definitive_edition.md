@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 456)
 | The American Dream | 18.00% | ~1,938 |
 | School's Out | 16.00% | ~1,723 |
 | Smooth Moves | 16.00% | ~1,723 |
-| Today Was a Good Day | 14.00% | ~1,507 |
+| Today Was a Good Day | 14.00% | ~1,508 |
 | What happens in Las Venturas... | 13.00% | ~1,400 |
 | Horror of the Santa Maria | 10.00% | ~1,077 |
 | Liberty City State of Mind | 8.00% | ~861 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 456)
 | ...Here we go again | 0.20% | ~22 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,767 (Ranked 112)  
+Progressed: 10,768 (Ranked 112)  
 Completed: 20 (0.19%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 20 (0.19%) (Ranked 158)
 | 2023-06-20 | 10,735 | 19 |
 | 2023-06-21 | 10,747 | 19 |
 | 2023-06-22 | 10,764 | 20 |
-| 2023-06-23 | 10,767 | 20 |
+| 2023-06-23 | 10,768 | 20 |
 ## Awards
 Max (Great Boss Battles): 178  (Ranked 277)  
 Sum: 178 (Ranked 370)  

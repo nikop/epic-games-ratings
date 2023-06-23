@@ -49,8 +49,8 @@
 | Master Butcher | 19.00% | ~16 |
 | Slimy... yet satisfying | 18.00% | ~15 |
 | Just wing it! | 17.00% | ~14 |
+| Yeehaw!!! | 15.00% | ~13 |
 | Deal with it | 15.00% | ~13 |
-| Yeehaw!!! | 14.00% | ~12 |
 | You're looking mozzare-hella good! | 13.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~8 |

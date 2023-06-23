@@ -2802,9 +2802,9 @@
       "Count": 1043
     }
   ],
-  "EOS_Progressed": 48435,
+  "EOS_Progressed": 48438,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 1957,
+  "EOS_NewPlayers": 1948,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9457,6 +9457,11 @@
       "Time": "2023-06-23T03:25:08.1689778+00:00",
       "NumProgressed": 48435,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-23T04:02:14.676465+00:00",
+      "NumProgressed": 48438,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 53,
@@ -9484,7 +9489,7 @@
       "Name": "Quality Time",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -9500,7 +9505,7 @@
       "Name": "Hijacked",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3390
+      "UsersEstimate": 3391
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -9508,7 +9513,7 @@
       "Name": "The Collector",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "collect_low_amount_hero_props",
@@ -9524,7 +9529,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "complete_all_of_wanted",
@@ -9548,7 +9553,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "complete_final_mission",
@@ -9580,7 +9585,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 16468
+      "UsersEstimate": 16469
     },
     {
       "ID": "customize_a_vehicle",
@@ -9588,7 +9593,7 @@
       "Name": "Tune Up",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 11140
+      "UsersEstimate": 11141
     },
     {
       "ID": "customize_a_weapon",
@@ -9596,7 +9601,7 @@
       "Name": "Optimized",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12593
+      "UsersEstimate": 12594
     },
     {
       "ID": "cutting_edge_materials",
@@ -9652,7 +9657,7 @@
       "Name": "Power Players",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "empire_tier_4",
@@ -9668,7 +9673,7 @@
       "Name": "A Golden Age",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "first_building_placed",
@@ -9716,7 +9721,7 @@
       "Name": "Performance Review",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12109
+      "UsersEstimate": 12110
     },
     {
       "ID": "hit_max_level",
@@ -9732,7 +9737,7 @@
       "Name": "Free Refills",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -9748,7 +9753,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8718
+      "UsersEstimate": 8719
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -9764,7 +9769,7 @@
       "Name": "Making a Name",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 11624
+      "UsersEstimate": 11625
     },
     {
       "ID": "one_third_purple",
@@ -9852,7 +9857,7 @@
       "Name": "To The Nines",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 14530
+      "UsersEstimate": 14531
     },
     {
       "ID": "whole_map_purple",
@@ -9891,13 +9896,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 48435,
+      "Progressed": 48438,
       "Completed": 25
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 20072,
+      "Progressed": 20075,
       "Completed": 2114
     }
   ],
@@ -9905,8 +9910,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-06-22T23:59:41.9252916+00:00",
-  "LastChanged_Achievements": "2023-06-23T03:25:08.1689775+00:00",
+  "LastChanged_Achievements": "2023-06-23T04:02:14.6764647+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:13.6362741+00:00",
-  "LastUpdate_Ratings": "2023-06-23T03:24:06.6179907+00:00",
-  "LastUpdate_Achievements": "2023-06-23T03:25:08.1690591+00:00"
+  "LastUpdate_Ratings": "2023-06-23T04:00:19.3904777+00:00",
+  "LastUpdate_Achievements": "2023-06-23T04:02:14.6767701+00:00"
 }

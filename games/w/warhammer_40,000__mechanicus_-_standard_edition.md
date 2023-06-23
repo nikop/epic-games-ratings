@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,768 |
-| This is only the beginning | 19.00% | ~40,864 |
-| Knowledge is power | 12.00% | ~25,809 |
+| No aid from the Omnissiah | 25.00% | ~53,770 |
+| This is only the beginning | 19.00% | ~40,865 |
+| Knowledge is power | 12.00% | ~25,810 |
 | Power Ranger | 9.00% | ~19,357 |
 | Galvanic Rifle | 9.00% | ~19,357 |
 | Taser Goad | 9.00% | ~19,357 |
 | Radium Ready | 9.00% | ~19,357 |
 | Half a cog | 9.00% | ~19,357 |
-| Watch them crumble | 6.00% | ~12,904 |
+| Watch them crumble | 6.00% | ~12,905 |
 | Competent Cohort | 4.00% | ~8,603 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,603 |
 | One with the Machine | 4.00% | ~8,603 |
 | Legio Cybernetica | 3.00% | ~6,452 |
 | Fleshy Disposal | 3.00% | ~6,452 |
-| Battle Servitor | 2.00% | ~4,301 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,301 |
-| Impatient destruction | 2.00% | ~4,301 |
-| Vivisected Vizier | 2.00% | ~4,301 |
-| Architect Abortion | 2.00% | ~4,301 |
+| Battle Servitor | 2.00% | ~4,302 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,302 |
+| Impatient destruction | 2.00% | ~4,302 |
+| Vivisected Vizier | 2.00% | ~4,302 |
+| Architect Abortion | 2.00% | ~4,302 |
 | Cohortus Maximus | 0.80% | ~1,721 |
 | Mother of Xenarites | 0.40% | ~860 |
 | False God | 0.30% | ~645 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 651)
 | Perma-live | 0.10% | ~215 |
 | Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,073 (Ranked 50)  
+Progressed: 215,080 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 4 (0.00%) (Ranked 229)
 | 2023-06-20 | 214,860 | 4 |
 | 2023-06-21 | 214,964 | 4 |
 | 2023-06-22 | 215,062 | 4 |
-| 2023-06-23 | 215,073 | 4 |
+| 2023-06-23 | 215,080 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 235)  
 Sum: 2,112 (Ranked 188)  

@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122079,
+  "EOS_Progressed": 122081,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7281,6 +7281,11 @@
       "Time": "2023-06-23T03:30:21.4093801+00:00",
       "NumProgressed": 122079,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-23T04:07:08.0458614+00:00",
+      "NumProgressed": 122081,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7324,7 +7329,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21974
+      "UsersEstimate": 21975
     },
     {
       "ID": "ACH_COP_BAD",
@@ -7372,7 +7377,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34182
+      "UsersEstimate": 34183
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7420,7 +7425,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15870
+      "UsersEstimate": 15871
     },
     {
       "ID": "ACH_COP_STAR",
@@ -7572,7 +7577,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15870
+      "UsersEstimate": 15871
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -7611,15 +7616,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122079,
+      "Progressed": 122081,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-23T03:30:21.4093797+00:00",
+  "LastChanged_Achievements": "2023-06-23T04:07:08.0458611+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:42.9504372+00:00",
-  "LastUpdate_Ratings": "2023-06-23T03:23:37.0706785+00:00",
-  "LastUpdate_Achievements": "2023-06-23T03:30:21.4094755+00:00"
+  "LastUpdate_Ratings": "2023-06-23T03:59:40.503046+00:00",
+  "LastUpdate_Achievements": "2023-06-23T04:07:08.0459123+00:00"
 }
