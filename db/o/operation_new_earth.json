@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -556,6 +556,11 @@
       "Time": "2023-06-23T07:04:28.0088606+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T08:04:38.5934089+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -679,7 +684,7 @@
       "Name": "Corporal",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -687,7 +692,7 @@
       "Name": "Sergeant",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -695,15 +700,15 @@
       "Name": "Lieutenant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -741,9 +746,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -775,7 +780,7 @@
       "Name": "Stocking Up",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -791,7 +796,7 @@
       "Name": "On Target",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -815,15 +820,15 @@
       "Name": "Factory Expansion",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -870,14 +875,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:04:28.0088601+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:04:38.5934083+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.7760182+00:00",
-  "LastUpdate_Ratings": "2023-06-23T07:01:29.6117113+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:04:28.0088851+00:00"
+  "LastUpdate_Ratings": "2023-06-23T08:01:42.0215481+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:04:38.593441+00:00"
 }

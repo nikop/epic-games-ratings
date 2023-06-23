@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1695,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1951,6 +1951,11 @@
       "Time": "2023-06-21T23:03:42.6861835+00:00",
       "NumProgressed": 1695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T08:04:40.3709201+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1978,7 +1983,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "Achievement_004",
@@ -1986,7 +1991,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Achievement_006",
@@ -2018,7 +2023,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "Achievement_010",
@@ -2026,7 +2031,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Achievement_011",
@@ -2098,7 +2103,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "Achievement_020",
@@ -2154,7 +2159,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Achievement_027",
@@ -2170,7 +2175,7 @@
       "Name": "You Clean It Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Achievement_029",
@@ -2178,7 +2183,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "Achievement_030",
@@ -2192,9 +2197,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 729
     },
     {
       "ID": "Achievement_032",
@@ -2210,7 +2215,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "Achievement_034",
@@ -2266,7 +2271,7 @@
       "Name": "Heart Attack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "Achievement_041",
@@ -2298,7 +2303,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "Achievement_046",
@@ -2426,7 +2431,7 @@
       "Name": "Helping Hand",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Achievement_064",
@@ -2489,7 +2494,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1695,
+      "Progressed": 1696,
       "Completed": 0
     }
   ],
@@ -2497,8 +2502,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-22T21:58:24.9023254+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:04:29.539645+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:04:40.3709196+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:33.3345253+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:58:26.4620639+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:04:29.539704+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:58:24.4860078+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:04:40.3710102+00:00"
 }

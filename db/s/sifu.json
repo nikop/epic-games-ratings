@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -4794,10 +4794,10 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 709986,
-  "EOS_Completed": 12781,
-  "EOS_NewPlayers": 437,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 709988,
+  "EOS_Completed": 12782,
+  "EOS_NewPlayers": 436,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -10894,6 +10894,11 @@
       "Time": "2023-06-23T07:07:23.7654261+00:00",
       "NumProgressed": 709986,
       "NumCompleted": 12781
+    },
+    {
+      "Time": "2023-06-23T08:07:48.8802983+00:00",
+      "NumProgressed": 709988,
+      "NumCompleted": 12782
     }
   ],
   "TotalAchievements": 50,
@@ -11241,7 +11246,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -11304,21 +11309,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19287,
+      "Progressed": 19289,
       "Completed": 10305
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 709986,
-      "Completed": 12781
+      "Progressed": 709988,
+      "Completed": 12782
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-23T03:23:31.938044+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:07:23.7654254+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:07:48.8802977+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:39.5108246+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:59:47.8471525+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:07:23.7654893+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:59:55.8296594+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:07:48.8803933+00:00"
 }

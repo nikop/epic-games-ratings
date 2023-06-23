@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,11 +489,11 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13437,
-  "EOS_Completed": 102,
-  "EOS_NewPlayers": 154,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.76,
+  "EOS_Progressed": 13438,
+  "EOS_Completed": 103,
+  "EOS_NewPlayers": 155,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:32.3721818+00:00",
@@ -4704,6 +4704,11 @@
       "Time": "2023-06-23T06:05:42.2961198+00:00",
       "NumProgressed": 13437,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-23T08:07:29.2779036+00:00",
+      "NumProgressed": 13438,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4819,7 +4824,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "tpote_achievement_22",
@@ -4827,7 +4832,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "tpote_achievement_23",
@@ -4851,7 +4856,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "tpote_achievement_26",
@@ -4891,7 +4896,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "tpote_achievement_30",
@@ -4939,7 +4944,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "tpote_achievement_36",
@@ -4963,7 +4968,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "tpote_achievement_39",
@@ -5003,7 +5008,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "tpote_achievement_6",
@@ -5042,15 +5047,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13437,
-      "Completed": 102
+      "Progressed": 13438,
+      "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:07:05.4682642+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:07:29.2779031+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:32.9525321+00:00",
-  "LastUpdate_Ratings": "2023-06-23T07:00:59.0967912+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:07:05.4683093+00:00"
+  "LastUpdate_Ratings": "2023-06-23T08:01:10.5066995+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:07:29.2779725+00:00"
 }

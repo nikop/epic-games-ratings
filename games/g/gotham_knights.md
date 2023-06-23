@@ -14,6 +14,7 @@ Rating: 4.17 (Ranked 857)
 | Knighthood | 3.00% | ~1,976 |
 | Whispered Words | 3.00% | ~1,976 |
 | Lock and Key | 3.00% | ~1,976 |
+| End of an Era | 2.00% | ~1,317 |
 | In Your Element | 2.00% | ~1,317 |
 | Protector of Gotham | 2.00% | ~1,317 |
 | Something in the Clay | 2.00% | ~1,317 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 857)
 | Voiceless | 2.00% | ~1,317 |
 | Seeking Asylum | 2.00% | ~1,317 |
 | Gotham Knight | 2.00% | ~1,317 |
-| End of an Era | 1.00% | ~659 |
 | Bulldozed | 1.00% | ~659 |
 | Out of Their League | 1.00% | ~659 |
 | Drone You Out | 1.00% | ~659 |

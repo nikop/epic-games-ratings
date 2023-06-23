@@ -22,7 +22,7 @@
 | Murderer | 8.00% | ~36 |
 | Trigger-Happy | 8.00% | ~36 |
 | The Friend | 6.00% | ~27 |
-| Master of the Old Game | 4.00% | ~18 |
+| Master of the Old Game | 5.00% | ~22 |
 | So Silly! | 4.00% | ~18 |
 | Made a Song | 4.00% | ~18 |
 | So Tasty! | 4.00% | ~18 |

@@ -19,8 +19,8 @@
 | Perfectionist | 4.00% | ~17 |
 | Rolling in Dough | 4.00% | ~17 |
 | Leaning Tower of Pizza | 3.00% | ~13 |
+| The Bigger the Better | 0.70% | ~3 |
 | Chef, Yes Chef! | 0.50% | ~2 |
-| The Bigger the Better | 0.50% | ~2 |
 | Teamwork | 0.20% | ~1 |
 | Eco Warrior | 0.20% | ~1 |
 | Codename: Arrabbiata | 0.20% | ~1 |

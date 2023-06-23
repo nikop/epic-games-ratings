@@ -405,9 +405,9 @@
       "ID": "fail_ryan",
       "SetID": "6h5h9ho",
       "Name": "Picky, Picky!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "misha_date2_all",
@@ -429,9 +429,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "profile_ryan",
@@ -558,8 +558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:07:02.6640811+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:07:26.3380068+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:57:09.8501541+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:57:56.7856269+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:07:02.6640924+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:57:52.4138445+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:07:26.3380213+00:00"
 }

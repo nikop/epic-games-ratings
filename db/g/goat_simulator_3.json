@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -1994,10 +1994,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2896,
       "NumberOfAwardsMax": 350
+    },
+    {
+      "Time": "2023-06-23T08:01:42.4177568+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2898,
+      "NumberOfAwardsMax": 350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2896,
+  "NumberOfAwards": 2898,
   "NumberOfAwardsMax": 350,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2059,7 +2065,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 326
+      "Count": 328
     },
     {
       "Text": "This game has Easy Combat",
@@ -2068,9 +2074,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 228723,
+  "EOS_Progressed": 228724,
   "EOS_Completed": 747,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -8708,6 +8714,11 @@
       "Time": "2023-06-23T07:07:20.7932408+00:00",
       "NumProgressed": 228723,
       "NumCompleted": 747
+    },
+    {
+      "Time": "2023-06-23T08:07:45.7814239+00:00",
+      "NumProgressed": 228724,
+      "NumCompleted": 747
     }
   ],
   "TotalAchievements": 39,
@@ -8783,7 +8794,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 208138
+      "UsersEstimate": 208139
     },
     {
       "ID": "AchievementClownID",
@@ -8807,7 +8818,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 64042
+      "UsersEstimate": 64043
     },
     {
       "ID": "AchievementEggID",
@@ -8847,7 +8858,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 121223
+      "UsersEstimate": 121224
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -8855,7 +8866,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43457
+      "UsersEstimate": 43458
     },
     {
       "ID": "AchievementINirvanaID",
@@ -8863,7 +8874,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34308
+      "UsersEstimate": 34309
     },
     {
       "ID": "AchievementInstinctID",
@@ -8879,7 +8890,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 102925
+      "UsersEstimate": 102926
     },
     {
       "ID": "AchievementIntroID",
@@ -8887,7 +8898,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 130372
+      "UsersEstimate": 130373
     },
     {
       "ID": "AchievementLootBoxID",
@@ -8951,7 +8962,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 169255
+      "UsersEstimate": 169256
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -9015,7 +9026,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 148670
+      "UsersEstimate": 148671
     },
     {
       "ID": "AchievementWhaleID",
@@ -9030,16 +9041,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 228723,
+      "Progressed": 228724,
       "Completed": 747
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-06-23T02:23:37.6934186+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:07:20.7932405+00:00",
+  "LastChanged": "2023-06-23T08:01:42.4177567+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:07:45.7814233+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:53.9159117+00:00",
-  "LastUpdate_Ratings": "2023-06-23T07:01:30.018254+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:07:20.7932917+00:00"
+  "LastUpdate_Ratings": "2023-06-23T08:01:42.4177573+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:07:45.7814942+00:00"
 }

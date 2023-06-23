@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That wasn't so bad | 85.00% | ~222 |
-| Let it begin | 49.00% | ~128 |
+| Let it begin | 50.00% | ~130 |
 | The intellectual | 26.00% | ~68 |
 | The boss | 25.00% | ~65 |
 | The athlete | 25.00% | ~65 |
@@ -13,7 +13,7 @@
 | The individualist | 20.00% | ~52 |
 | The nice guy | 13.00% | ~34 |
 | The debonair | 11.00% | ~29 |
-| Picky, Picky! | 9.00% | ~23 |
+| Picky, Picky! | 10.00% | ~26 |
 | The lad | 8.00% | ~21 |
 | More than browsing | 7.00% | ~18 |
 | The techie | 7.00% | ~18 |

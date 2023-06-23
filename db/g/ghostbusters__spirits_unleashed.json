@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1290,9 +1290,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23619,
+  "EOS_Progressed": 23620,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6280,6 +6280,11 @@
       "Time": "2023-06-23T06:00:22.516755+00:00",
       "NumProgressed": 23619,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-23T08:02:06.3921105+00:00",
+      "NumProgressed": 23620,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6291,7 +6296,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17242
+      "UsersEstimate": 17243
     },
     {
       "ID": "Animated",
@@ -6347,7 +6352,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "Cultured",
@@ -6395,7 +6400,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "Efficient",
@@ -6403,7 +6408,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15116
+      "UsersEstimate": 15117
     },
     {
       "ID": "Escape_Artist",
@@ -6427,7 +6432,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12754
+      "UsersEstimate": 12755
     },
     {
       "ID": "GB_In_Training",
@@ -6563,7 +6568,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "Skilled",
@@ -6595,7 +6600,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20312
+      "UsersEstimate": 20313
     },
     {
       "ID": "Summoner",
@@ -6619,7 +6624,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 12990
+      "UsersEstimate": 12991
     },
     {
       "ID": "Teamwork",
@@ -6627,7 +6632,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10392
+      "UsersEstimate": 10393
     },
     {
       "ID": "Terrifying",
@@ -6635,7 +6640,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "Therapeutic",
@@ -6651,7 +6656,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10156
+      "UsersEstimate": 10157
     },
     {
       "ID": "Tobins_Prodigy",
@@ -6675,7 +6680,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11337
+      "UsersEstimate": 11338
     },
     {
       "ID": "Welcome_Crew",
@@ -6698,7 +6703,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23619,
+      "Progressed": 23620,
       "Completed": 46
     }
   ],
@@ -6706,8 +6711,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-22T02:11:30.6066185+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:01:51.8952386+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:02:06.3921099+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:34.199738+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:59:44.7804192+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:01:51.8952984+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:59:52.146888+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:02:06.3921993+00:00"
 }

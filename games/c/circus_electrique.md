@@ -15,8 +15,8 @@ Number of Ratings: 22  (23.09.2022)
 | Perfect Illusion | 22.00% | ~99 |
 | Hundred Percent First | 22.00% | ~99 |
 | Dirty Dozen | 18.00% | ~81 |
+| Lion Tamer | 17.00% | ~76 |
 | Fan Service | 17.00% | ~76 |
-| Lion Tamer | 16.00% | ~72 |
 | Amazing! | 15.00% | ~67 |
 | King of District 1 | 14.00% | ~63 |
 | Flawless Presentation | 14.00% | ~63 |

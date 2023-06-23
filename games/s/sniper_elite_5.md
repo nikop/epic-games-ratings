@@ -10,11 +10,11 @@ Rating: 4.46 (Ranked 604)
 | The Kraken Wakes | 1.00% | ~31 |
 | It's Starting to Crack | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
+| Explosive Efficiency | 0.90% | ~28 |
 | Lord of War | 0.90% | ~28 |
 | Change the Channel | 0.90% | ~28 |
 | Target America | 0.90% | ~28 |
 | Sharpshooter | 0.80% | ~25 |
-| Explosive Efficiency | 0.80% | ~25 |
 | Just a Flesh Wound | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 604)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,090 (Ranked 144)  
+Progressed: 3,091 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-20 | 3,047 | 2 |
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
-| 2023-06-23 | 3,090 | 2 |
+| 2023-06-23 | 3,091 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

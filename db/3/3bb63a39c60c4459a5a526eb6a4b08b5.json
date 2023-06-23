@@ -99,9 +99,9 @@
       "ID": "Creator",
       "SetID": "1e89b4i",
       "Name": "Creator",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Debtor",
@@ -385,8 +385,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:01:53.4723673+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:02:08.1886743+00:00",
   "LastUpdate_AppInfo": "2023-06-20T06:57:05.3887401+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:57:20.4553726+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:01:53.4724027+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:57:14.27616+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:02:08.188713+00:00"
 }

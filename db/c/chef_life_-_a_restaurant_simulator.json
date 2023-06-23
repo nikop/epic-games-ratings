@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1866,9 +1866,9 @@
       "ID": "LayoutBig",
       "SetID": "d1bm05f",
       "Name": "The Bigger the Better",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Level10",
@@ -2067,8 +2067,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-23T07:04:47.3042493+00:00",
+  "LastChanged_Achievements": "2023-06-23T08:04:59.6125116+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:04.5679177+00:00",
-  "LastUpdate_Ratings": "2023-06-23T06:59:07.624602+00:00",
-  "LastUpdate_Achievements": "2023-06-23T07:04:47.3042812+00:00"
+  "LastUpdate_Ratings": "2023-06-23T07:59:10.6173084+00:00",
+  "LastUpdate_Achievements": "2023-06-23T08:04:59.6125573+00:00"
 }
