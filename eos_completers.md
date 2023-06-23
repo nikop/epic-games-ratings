@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.99% |
+| 9 | [Island Cities](games/i/island_cities.md) | 17.27% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.87% |
@@ -16,10 +16,10 @@
 | 13 | [Remains](games/r/remains.md) | 12.50% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.76% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
-| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 10.34% |
+| 17 | [Sonic Origins](games/s/sonic_origins.md) | 11.94% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.76% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -32,7 +32,7 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.43% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.88% |
-| 32 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.88% |
+| 33 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.71% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.31% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
@@ -85,8 +85,8 @@
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
-| 86 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.47% |
-| 87 | [Night Book](games/n/night_book.md) | 1.46% |
+| 86 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.46% |
+| 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
