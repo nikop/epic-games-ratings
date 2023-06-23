@@ -95,7 +95,7 @@
 | 93 | [Among Us](games/a/among_us.md) | 2,487 | 4.57 | 442 |
 | 94 | [RAGE 2](games/r/rage_2.md) | 2,475 | 4.27 | 791 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,464 | 4.50 | 549 |
-| 96 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,409 | 4.79 | 88 |
+| 96 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,411 | 4.79 | 88 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,406 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,398 | 4.10 | 882 |
 | 99 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,374 | 3.98 | 914 |
@@ -147,11 +147,11 @@
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 952 | 4.31 | 766 |
 | 146 | [Sonic Mania](games/s/sonic_mania.md) | 917 | 4.78 | 99 |
 | 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 907 | 4.69 | 221 |
-| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 874 | 4.75 | 133 |
+| 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 877 | 4.75 | 133 |
 | 149 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 870 | 4.55 | 477 |
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 860 | 4.44 | 632 |
 | 151 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 794 | 4.69 | 221 |
-| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 787 | 4.56 | 456 |
+| 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 789 | 4.56 | 456 |
 | 153 | [Frostpunk](games/f/frostpunk.md) | 783 | 4.74 | 144 |
 | 154 | [The Long Dark](games/t/the_long_dark.md) | 764 | 4.74 | 144 |
 | 155 | [Auto Chess](games/a/auto_chess.md) | 749 | 4.52 | 518 |
@@ -256,7 +256,7 @@
 | 253 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 218 | 4.85 | 41 |
 | 255 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 216 | 4.83 | 57 |
 | 256 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 215 | 4.60 | 389 |
-| 257 | [Hello Neighbor](games/h/hello_neighbor.md) | 213 | 4.55 | 477 |
+| 256 | [Hello Neighbor](games/h/hello_neighbor.md) | 215 | 4.55 | 477 |
 | 258 | [Crying Suns](games/c/crying_suns.md) | 212 | 4.50 | 549 |
 | 259 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 211 | 4.59 | 411 |
 | 260 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 209 | 4.81 | 75 |
@@ -456,10 +456,10 @@
 | 453 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 196 |
 | 453 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 442 |
 | 456 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.92 | 924 |
+| 456 | [Hell is Others](games/h/hell_is_others.md) | 29 | 4.44 | 632 |
 | 456 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 29 | 4.45 | 619 |
 | 456 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 756 |
-| 459 | [Hell is Others](games/h/hell_is_others.md) | 28 | 4.44 | 632 |
-| 459 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 533 |
+| 460 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 533 |
 | 461 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 741 |
 | 461 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.25 | 798 |
 | 461 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 442 |

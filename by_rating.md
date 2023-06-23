@@ -94,7 +94,7 @@
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 653 | 165 |
 | 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,193 | 129 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,893 | 56 |
-| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,409 | 96 |
+| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,411 | 96 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 374 | 211 |
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 310 |
 | 88 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 498 |
@@ -135,7 +135,7 @@
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 473 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,288 | 62 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.75 | 270 | 240 |
-| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 874 | 148 |
+| 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 877 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 497 | 190 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 317 |
 | 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 498 | 189 |
@@ -460,7 +460,7 @@
 | 456 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 498 |
 | 456 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 395 |
 | 456 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 498 |
-| 456 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 787 | 152 |
+| 456 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 789 | 152 |
 | 456 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 21 | 486 |
 | 456 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 178 | 277 |
 | 456 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 432 |
@@ -480,7 +480,7 @@
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 498 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 498 |
 | 477 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,262 | 128 |
-| 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 213 | 257 |
+| 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 215 | 256 |
 | 477 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 145 | 292 |
 | 477 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 450 |
 | 477 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 498 |
@@ -547,7 +547,7 @@
 | 533 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 63 | 377 |
 | 533 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 156 | 289 |
 | 533 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 133 | 299 |
-| 533 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 459 |
+| 533 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 460 |
 | 549 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 212 | 258 |
 | 549 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 498 |
 | 549 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 343 |
@@ -635,7 +635,7 @@
 | 632 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 498 |
 | 632 | [ELEX](games/e/elex.md) | 4.44 | 24 | 473 |
 | 632 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 498 |
-| 632 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 28 | 459 |
+| 632 | [Hell is Others](games/h/hell_is_others.md) | 4.44 | 29 | 456 |
 | 632 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.44 | 0 | 498 |
 | 632 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.44 | 0 | 498 |
 | 632 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 498 |
