@@ -13,12 +13,12 @@
 | Have a good trip! | 60.00% | ~30 |
 | Settle Down | 56.00% | ~28 |
 | Butter Fingers | 54.00% | ~27 |
-| Stay Hydrated | 52.00% | ~26 |
+| Stay Hydrated | 54.00% | ~27 |
 | True Story! | 30.00% | ~15 |
 | Grand Slam! | 26.00% | ~13 |
 | Bedroom Secret Spot | 26.00% | ~13 |
+| Kick It | 24.00% | ~12 |
 | Have Mercy | 24.00% | ~12 |
-| Kick It | 22.00% | ~11 |
 | Spooky | 18.00% | ~9 |
 | Save some water for the fishies | 16.00% | ~8 |
 | Bathroom Secret Spot | 16.00% | ~8 |

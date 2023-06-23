@@ -1285,9 +1285,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1404,8 +1404,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:01:10.8647168+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:02:19.5663089+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:12.71383+00:00",
-  "LastUpdate_Ratings": "2023-06-23T09:59:52.0370387+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:01:10.8647487+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:59:36.6328887+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:02:19.5663382+00:00"
 }

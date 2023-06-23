@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2023-06-23T05:02:22.4789203+00:00",
       "NumProgressed": 600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T11:03:08.0513531+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -600,9 +605,9 @@
       "ID": "ACQUIRE_ALLOUTFITS",
       "SetID": "ccc0dlh",
       "Name": "Skinmaker",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -626,7 +631,7 @@
       "Name": "Zygote",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -680,9 +685,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -736,17 +741,17 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -768,9 +773,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -872,9 +877,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 30
     },
     {
       "ID": "QUEST_CHILD",
@@ -904,9 +909,9 @@
       "ID": "QUEST_LISTENER",
       "SetID": "72k7oh",
       "Name": "Listen",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "QUEST_YON",
@@ -921,21 +926,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 21
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:03:20.3546838+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:03:08.0513526+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:55.2798351+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:00:31.0841315+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:03:20.3547214+00:00"
+  "LastUpdate_Ratings": "2023-06-23T11:00:17.7937304+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:03:08.0513893+00:00"
 }

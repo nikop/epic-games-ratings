@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2178,9 +2178,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67550,
+  "EOS_Progressed": 67553,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8863,6 +8863,11 @@
       "Time": "2023-06-23T10:03:10.027684+00:00",
       "NumProgressed": 67550,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-23T11:02:27.4953898+00:00",
+      "NumProgressed": 67553,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -8874,7 +8879,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33775
+      "UsersEstimate": 33776
     },
     {
       "ID": "ACH_0011",
@@ -8962,7 +8967,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "ACH_0060",
@@ -8978,7 +8983,7 @@
       "Name": "Privateer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ACH_0100",
@@ -9018,7 +9023,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43908
+      "UsersEstimate": 43909
     },
     {
       "ID": "ACH_0210",
@@ -9026,7 +9031,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 49987
+      "UsersEstimate": 49989
     },
     {
       "ID": "ACH_0211",
@@ -9034,7 +9039,7 @@
       "Name": "Groundhog Days",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ACH_0220",
@@ -9042,7 +9047,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31748
+      "UsersEstimate": 31750
     },
     {
       "ID": "ACH_0300",
@@ -9090,7 +9095,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22967
+      "UsersEstimate": 22968
     },
     {
       "ID": "ACH_0420",
@@ -9098,7 +9103,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 22967
+      "UsersEstimate": 22968
     },
     {
       "ID": "ACH_0430",
@@ -9106,7 +9111,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23642
+      "UsersEstimate": 23644
     },
     {
       "ID": "ACH_0431",
@@ -9122,7 +9127,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12834
+      "UsersEstimate": 12835
     },
     {
       "ID": "ACH_0450",
@@ -9130,7 +9135,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12834
+      "UsersEstimate": 12835
     },
     {
       "ID": "ACH_0451",
@@ -9162,14 +9167,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67550,
+      "Progressed": 67553,
       "Completed": 34
     }
   ],
@@ -9177,8 +9182,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-22T22:00:56.4164189+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:03:10.0276834+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:02:27.4953893+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:30.7712921+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:00:08.8526152+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:03:10.0277527+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:59:54.0935651+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:02:27.4954606+00:00"
 }

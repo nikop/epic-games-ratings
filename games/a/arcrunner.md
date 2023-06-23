@@ -13,6 +13,7 @@
 | Cybernetic | 0.30% | ~2 |
 | Terminated I | 0.30% | ~2 |
 | Nanonic I | 0.20% | ~1 |
+| Nanonic III | 0.20% | ~1 |
 | Rookie | 0.20% | ~1 |
 | Terminated II | 0.20% | ~1 |
 | Terminated III | 0.20% | ~1 |
@@ -26,7 +27,6 @@
 | Fully Modded | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Nanonic II | 0.00% | ~0 |
-| Nanonic III | 0.00% | ~0 |
 | Ripperdoc | 0.00% | ~0 |
 | Supply Run | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |

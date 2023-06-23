@@ -26,8 +26,8 @@ Number of Ratings: 56  (23.09.2022)
 | perkele | 13.00% | ~1,319 |
 | night ride | 13.00% | ~1,319 |
 | the artist | 13.00% | ~1,319 |
+| snorkel | 13.00% | ~1,319 |
 | where is the stage? | 12.00% | ~1,218 |
-| snorkel | 12.00% | ~1,218 |
 | maximum attack | 11.00% | ~1,116 |
 | espresso | 10.00% | ~1,015 |
 | parallel universe | 10.00% | ~1,015 |

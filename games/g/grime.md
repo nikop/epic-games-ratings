@@ -19,13 +19,13 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 13.00% | ~78 |
 | Sharpened Vessel | 12.00% | ~72 |
 | Jawcrab | 11.00% | ~66 |
-| Jawstag | 11.00% | ~66 |
 | Feast | 11.00% | ~66 |
-| Shapely | 10.00% | ~60 |
 | Host | 10.00% | ~18 |
-| Celebration | 9.00% | ~54 |
-| Watcher | 9.00% | ~54 |
+| Jawstag | 10.00% | ~60 |
+| Shapely | 9.00% | ~54 |
+| Celebration | 8.00% | ~48 |
 | Inevitable | 8.00% | ~48 |
+| Watcher | 8.00% | ~48 |
 | Predator | 8.00% | ~48 |
 | Dream | 8.00% | ~15 |
 | Assimilation | 7.00% | ~42 |
@@ -33,23 +33,23 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 6.00% | ~36 |
 | Hush | 6.00% | ~36 |
 | All-Seeing | 6.00% | ~36 |
-| Passage | 6.00% | ~36 |
 | Kin | 6.00% | ~11 |
 | Kinship | 5.00% | ~30 |
 | Breathsmith | 5.00% | ~30 |
 | Unwrap the Gift | 5.00% | ~30 |
+| Passage | 5.00% | ~30 |
 | Proportions | 5.00% | ~30 |
 | Bloodhunter | 4.00% | ~24 |
 | Breath | 4.00% | ~24 |
 | Weakness | 4.00% | ~24 |
-| Listen | 4.00% | ~7 |
-| Zygote | 3.00% | ~5 |
-| Skinmaker | 2.00% | ~12 |
+| Zygote | 3.00% | ~6 |
+| Listen | 3.00% | ~6 |
 | Generous | 2.00% | ~12 |
+| Skinmaker | 1.00% | ~6 |
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 204)  
+Progressed: 601 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-18 | 597 | 0 |
 | 2023-06-19 | 598 | 0 |
 | 2023-06-20 | 599 | 0 |
-| 2023-06-23 | 600 | 0 |
+| 2023-06-23 | 601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

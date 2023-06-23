@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2924,9 +2924,9 @@
       "Count": 378
     }
   ],
-  "EOS_Progressed": 10027,
+  "EOS_Progressed": 10030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-06-23T09:06:41.9753964+00:00",
       "NumProgressed": 10027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T11:06:05.0582064+00:00",
+      "NumProgressed": 10030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7153,7 +7158,7 @@
       "Name": "Burning City",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -7161,7 +7166,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "04_FithCrusade",
@@ -8072,21 +8077,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8809,
+      "Progressed": 8812,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10027,
+      "Progressed": 10030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-22T19:58:37.3418076+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:06:22.9453281+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:06:05.0582059+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:01.2624166+00:00",
-  "LastUpdate_Ratings": "2023-06-23T09:58:46.9226148+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:06:22.9455171+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:58:31.0976794+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:06:05.0583966+00:00"
 }

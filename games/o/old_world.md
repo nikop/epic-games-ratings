@@ -1,31 +1,31 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 296)  
+Rating: 4.65 (Ranked 297)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,276 |
-| Settler | 81.00% | ~9,909 |
-| Explorer | 79.00% | ~9,664 |
-| Friendly Family | 75.00% | ~9,175 |
-| Intrepid | 70.00% | ~8,563 |
-| Architect | 61.00% | ~7,462 |
-| Mason | 61.00% | ~7,462 |
+| Play a Single Player Game | 84.00% | ~10,277 |
+| Settler | 81.00% | ~9,910 |
+| Explorer | 79.00% | ~9,665 |
+| Friendly Family | 75.00% | ~9,176 |
+| Intrepid | 70.00% | ~8,564 |
+| Architect | 61.00% | ~7,463 |
+| Mason | 61.00% | ~7,463 |
 | Able | 60.00% | ~7,340 |
-| Strong | 59.00% | ~7,217 |
-| Hanging Gardens | 59.00% | ~7,217 |
+| Strong | 59.00% | ~7,218 |
+| Hanging Gardens | 59.00% | ~7,218 |
 | Noble | 57.00% | ~6,973 |
 | Oracle | 57.00% | ~6,973 |
-| Good | 55.00% | ~6,728 |
+| Good | 55.00% | ~6,729 |
 | Just | 54.00% | ~6,606 |
 | Keystone | 54.00% | ~6,606 |
 | Judaism | 54.00% | ~6,606 |
-| Glorious | 52.00% | ~6,361 |
-| Trade Caravan | 52.00% | ~6,361 |
-| Naming Landmarks | 50.00% | ~6,116 |
-| Learned | 49.00% | ~5,994 |
+| Glorious | 52.00% | ~6,362 |
+| Trade Caravan | 52.00% | ~6,362 |
+| Naming Landmarks | 50.00% | ~6,117 |
+| Learned | 49.00% | ~5,995 |
 | Fountainhead | 48.00% | ~5,872 |
 | Pioneer | 48.00% | ~5,872 |
 | Zoroastrianism | 48.00% | ~5,872 |
@@ -36,11 +36,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 45.00% | ~5,505 |
 | Warrior | 44.00% | ~5,383 |
 | Ishtar Gate | 44.00% | ~5,383 |
-| Babylonian Paganism | 43.00% | ~5,260 |
+| Babylonian Paganism | 43.00% | ~5,261 |
 | Enlightened | 42.00% | ~5,138 |
 | Christianity | 41.00% | ~5,016 |
 | Roman Paganism | 41.00% | ~5,016 |
-| Great Ziggurat | 40.00% | ~4,893 |
+| Great Ziggurat | 40.00% | ~4,894 |
 | Great | 39.00% | ~4,771 |
 | Able Difficulty | 39.00% | ~4,771 |
 | Lighthouse | 39.00% | ~4,771 |
@@ -51,12 +51,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 35.00% | ~4,282 |
 | Musaeum | 35.00% | ~4,282 |
 | Manichaeism | 35.00% | ~4,282 |
-| Brilliant | 34.00% | ~4,159 |
+| Brilliant | 34.00% | ~4,160 |
 | Drillmaster | 32.00% | ~3,915 |
 | Colossus | 32.00% | ~3,915 |
-| Legendary Cities | 31.00% | ~3,792 |
-| Furious Family | 31.00% | ~3,792 |
-| Learn to Play 1 | 31.00% | ~3,792 |
+| Legendary Cities | 31.00% | ~3,793 |
+| Furious Family | 31.00% | ~3,793 |
+| Learn to Play 1 | 31.00% | ~3,793 |
 | Artisans | 30.00% | ~3,670 |
 | Acropolis | 30.00% | ~3,670 |
 | Mythology | 30.00% | ~3,670 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,233 (Ranked 110)  
+Progressed: 12,234 (Ranked 110)  
 Completed: 4 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 4 (0.03%) (Ranked 201)
 | 2023-06-20 | 12,197 | 4 |
 | 2023-06-21 | 12,207 | 4 |
 | 2023-06-22 | 12,229 | 4 |
-| 2023-06-23 | 12,233 | 4 |
+| 2023-06-23 | 12,234 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 253)  
 Sum: 1,773 (Ranked 203)  

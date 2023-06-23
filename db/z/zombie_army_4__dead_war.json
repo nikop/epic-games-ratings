@@ -1701,9 +1701,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42870,
+  "EOS_Progressed": 42871,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4186,6 +4186,11 @@
       "Time": "2023-06-23T07:07:28.00237+00:00",
       "NumProgressed": 42870,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-23T11:06:04.02832+00:00",
+      "NumProgressed": 42871,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4229,7 +4234,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -4365,7 +4370,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -4389,7 +4394,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26579
+      "UsersEstimate": 26580
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4445,7 +4450,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21006
+      "UsersEstimate": 21007
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4453,7 +4458,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 15004
+      "UsersEstimate": 15005
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -4469,7 +4474,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -4501,7 +4506,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21435
+      "UsersEstimate": 21436
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -4517,7 +4522,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15433
+      "UsersEstimate": 15434
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -4549,7 +4554,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19720
+      "UsersEstimate": 19721
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -4573,7 +4578,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15433
+      "UsersEstimate": 15434
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -4693,7 +4698,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -4701,7 +4706,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6430
+      "UsersEstimate": 6431
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -4717,22 +4722,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15433
+      "UsersEstimate": 15434
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42870,
+      "Progressed": 42871,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-23T10:00:03.281535+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:06:22.0979434+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:06:04.0283193+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:24.8416601+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:00:03.2815357+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:06:22.098021+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:59:48.2277896+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:06:04.0284109+00:00"
 }

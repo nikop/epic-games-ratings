@@ -574,9 +574,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4453,
+  "EOS_Progressed": 4454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2023-06-23T08:05:01.7467023+00:00",
       "NumProgressed": 4453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-23T11:04:02.0110736+00:00",
+      "NumProgressed": 4454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -3733,7 +3738,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3741,7 +3746,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -3797,7 +3802,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -3963,9 +3968,9 @@
       "ID": "ACHIEVEMENT_032",
       "SetID": "6jk25od",
       "Name": "Rod and Troll",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -4004,13 +4009,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4453,
+      "Progressed": 4454,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3825,
+      "Progressed": 3826,
       "Completed": 112
     }
   ],
@@ -4018,8 +4023,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-15T02:08:21.1372479+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:04:23.3903155+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:04:02.0110731+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:59:22.4254718+00:00",
-  "LastUpdate_Ratings": "2023-06-23T10:00:00.4625827+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:04:23.3903662+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:59:44.6563409+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:04:02.0111229+00:00"
 }

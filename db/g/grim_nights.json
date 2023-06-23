@@ -186,9 +186,9 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_bunny50",
@@ -234,9 +234,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 72,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_level3",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-06-23T10:06:01.0452465+00:00",
+  "LastChanged_Achievements": "2023-06-23T11:05:42.6158791+00:00",
   "LastUpdate_AppInfo": "2023-06-16T22:58:40.4329887+00:00",
-  "LastUpdate_Ratings": "2023-06-23T09:59:20.8327847+00:00",
-  "LastUpdate_Achievements": "2023-06-23T10:06:01.0452593+00:00"
+  "LastUpdate_Ratings": "2023-06-23T10:59:06.5152823+00:00",
+  "LastUpdate_Achievements": "2023-06-23T11:05:42.6158941+00:00"
 }

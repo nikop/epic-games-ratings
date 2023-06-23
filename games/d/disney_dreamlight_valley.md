@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,739 |
-| Photographer | 74.00% | ~3,593 |
-| Valley's Helper | 71.00% | ~3,448 |
-| Constructor | 59.00% | ~2,865 |
-| Renovator | 57.00% | ~2,768 |
-| Bestest Friend | 55.00% | ~2,671 |
-| Banker | 47.00% | ~2,282 |
-| Gardener | 36.00% | ~1,748 |
-| Generous | 27.00% | ~1,311 |
+| Goofy's Investor | 77.00% | ~3,741 |
+| Photographer | 74.00% | ~3,596 |
+| Valley's Helper | 71.00% | ~3,450 |
+| Constructor | 59.00% | ~2,867 |
+| Renovator | 57.00% | ~2,770 |
+| Bestest Friend | 55.00% | ~2,672 |
+| Banker | 47.00% | ~2,284 |
+| Gardener | 36.00% | ~1,749 |
+| Generous | 27.00% | ~1,312 |
 | Chef Cook | 21.00% | ~1,020 |
 | Miner | 10.00% | ~486 |
 | Duty Bound | 7.00% | ~340 |
-| Angler | 6.00% | ~291 |
+| Angler | 6.00% | ~292 |
 | Thorn Cleaner | 4.00% | ~194 |
 | Chit Chatter | 3.00% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,856 (Ranked 131)  
-Completed: 150 (3.09%) (Ranked 54)  
+Progressed: 4,859 (Ranked 131)  
+Completed: 151 (3.11%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -37,10 +37,10 @@ Completed: 150 (3.09%) (Ranked 54)
 | 2023-06-20 | 4,493 | 145 |
 | 2023-06-21 | 4,650 | 148 |
 | 2023-06-22 | 4,804 | 150 |
-| 2023-06-23 | 4,856 | 150 |
+| 2023-06-23 | 4,859 | 151 |
 ## Awards
 Max (Great for Beginners): 877  (Ranked 148)  
-Sum: 7,197 (Ranked 103)  
+Sum: 7,198 (Ranked 103)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -51,7 +51,7 @@ Diff (max vs sum): 45
 | This game has Diverse Characters | 761 |
 | This game has Amazing Storytelling | 734 |
 | This game has Quickly Understood Controls | 722 |
-| This game is Extremely Fun | 718 |
+| This game is Extremely Fun | 719 |
 | This game has a Creative Community | 598 |
 | This game has Easy Combat | 479 |
 | This game has Obsessive Gameplay | 415 |
@@ -166,4 +166,4 @@ Diff (max vs sum): 45
 | 2023-06-20 | 4.75 | - | 873 | 7,188 |
 | 2023-06-21 | 4.75 | - | 874 | 7,190 |
 | 2023-06-22 | 4.75 | - | 874 | 7,194 |
-| 2023-06-23 | 4.75 | - | 877 | 7,197 |
+| 2023-06-23 | 4.75 | - | 877 | 7,198 |

@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,917 |
-| Let There Be Light | 26.00% | ~14,557 |
-| Float Like a Butterfly | 25.00% | ~13,998 |
-| Nordic Walking | 20.00% | ~11,198 |
-| Bright Falls' Finest | 19.00% | ~10,638 |
-| Under a Thin Layer of Skin | 17.00% | ~9,518 |
+| Follow the Light | 32.00% | ~17,918 |
+| Let There Be Light | 26.00% | ~14,559 |
+| Float Like a Butterfly | 25.00% | ~13,999 |
+| Nordic Walking | 20.00% | ~11,199 |
+| Bright Falls' Finest | 19.00% | ~10,639 |
+| Under a Thin Layer of Skin | 17.00% | ~9,519 |
 | Park Ranger | 14.00% | ~7,839 |
 | Paging Mr. Wake | 14.00% | ~7,839 |
 | Back! Back, I Say! | 13.00% | ~7,279 |
@@ -21,23 +21,23 @@ Number of Ratings: 524  (23.09.2022)
 | Wheels Within Wheels | 11.00% | ~6,159 |
 | They're Heeeeeere! | 11.00% | ~6,159 |
 | Missed by a Mile | 11.00% | ~6,159 |
-| Heavy Metal | 10.00% | ~5,599 |
-| Iron Horse | 10.00% | ~5,599 |
-| The Six-Gun Scribe | 10.00% | ~5,599 |
-| Collateral Carnage | 10.00% | ~5,599 |
-| Come One, Come All | 10.00% | ~5,599 |
-| Perchance to Dream | 9.00% | ~5,039 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,039 |
-| Thunder and Lightning | 9.00% | ~5,039 |
-| Two For the Price of One | 9.00% | ~5,039 |
-| Gatekeeper | 8.00% | ~4,479 |
-| The Lady of the Light | 8.00% | ~4,479 |
-| Energized! | 8.00% | ~4,479 |
+| Heavy Metal | 10.00% | ~5,600 |
+| Iron Horse | 10.00% | ~5,600 |
+| The Six-Gun Scribe | 10.00% | ~5,600 |
+| Collateral Carnage | 10.00% | ~5,600 |
+| Come One, Come All | 10.00% | ~5,600 |
+| Perchance to Dream | 9.00% | ~5,040 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,040 |
+| Thunder and Lightning | 9.00% | ~5,040 |
+| Two For the Price of One | 9.00% | ~5,040 |
+| Gatekeeper | 8.00% | ~4,480 |
+| The Lady of the Light | 8.00% | ~4,480 |
+| Energized! | 8.00% | ~4,480 |
 | A Friend in Need | 8.00% | ~1,557 |
-| What Light Through Yonder Window | 7.00% | ~3,919 |
-| Right of Way | 7.00% | ~3,919 |
-| Tornado Wrangler | 6.00% | ~3,359 |
-| A Friend Indeed | 6.00% | ~1,167 |
+| What Light Through Yonder Window | 7.00% | ~3,920 |
+| Right of Way | 7.00% | ~3,920 |
+| Tornado Wrangler | 6.00% | ~3,360 |
+| A Friend Indeed | 6.00% | ~1,168 |
 | Departure | 5.00% | ~2,800 |
 | Ding! | 5.00% | ~973 |
 | Children of the Elder God | 4.00% | ~2,240 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,990 (Ranked 79)  
+Progressed: 55,995 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-20 | 55,823 | 56 |
 | 2023-06-21 | 55,903 | 56 |
 | 2023-06-22 | 55,969 | 56 |
-| 2023-06-23 | 55,990 | 56 |
+| 2023-06-23 | 55,995 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
