@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-06-22T13:08:19.789169+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T12:02:16.3224143+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -241,9 +246,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "CampaignStars2",
@@ -331,7 +336,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "PlanetEdora",
@@ -363,7 +368,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PlanetMagni",
@@ -387,7 +392,7 @@
       "Name": "Thera",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PlanetTuto",
@@ -426,7 +431,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
@@ -434,8 +439,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:02:10.2187874+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:02:16.3224125+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:12.5073537+00:00",
-  "LastUpdate_Ratings": "2023-06-24T11:00:23.3040532+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:02:10.2188209+00:00"
+  "LastUpdate_Ratings": "2023-06-24T12:00:26.1031308+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:02:16.3224695+00:00"
 }

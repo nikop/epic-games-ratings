@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 32.00% | ~17,948 |
-| Let There Be Light | 26.00% | ~14,583 |
-| Float Like a Butterfly | 25.00% | ~14,022 |
+| Follow the Light | 32.00% | ~17,949 |
+| Let There Be Light | 26.00% | ~14,584 |
+| Float Like a Butterfly | 25.00% | ~14,023 |
 | Nordic Walking | 20.00% | ~11,218 |
 | Bright Falls' Finest | 19.00% | ~10,657 |
-| Under a Thin Layer of Skin | 17.00% | ~9,535 |
-| Park Ranger | 14.00% | ~7,852 |
-| Paging Mr. Wake | 14.00% | ~7,852 |
-| Back! Back, I Say! | 13.00% | ~7,291 |
-| Finders Keepers | 13.00% | ~7,291 |
+| Under a Thin Layer of Skin | 17.00% | ~9,536 |
+| Park Ranger | 14.00% | ~7,853 |
+| Paging Mr. Wake | 14.00% | ~7,853 |
+| Back! Back, I Say! | 13.00% | ~7,292 |
+| Finders Keepers | 13.00% | ~7,292 |
 | Sound and Fury | 12.00% | ~6,731 |
 | Damn Good Cup of Coffee | 12.00% | ~6,731 |
 | Wheels Within Wheels | 11.00% | ~6,170 |
@@ -33,12 +33,12 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 8.00% | ~4,487 |
 | The Lady of the Light | 8.00% | ~4,487 |
 | Energized! | 8.00% | ~4,487 |
-| A Friend in Need | 8.00% | ~1,564 |
+| A Friend in Need | 8.00% | ~1,565 |
 | What Light Through Yonder Window | 7.00% | ~3,926 |
 | Right of Way | 7.00% | ~3,926 |
-| Tornado Wrangler | 6.00% | ~3,365 |
-| A Friend Indeed | 6.00% | ~1,173 |
-| Departure | 5.00% | ~2,804 |
+| Tornado Wrangler | 6.00% | ~3,366 |
+| Departure | 6.00% | ~3,366 |
+| A Friend Indeed | 6.00% | ~1,174 |
 | Ding! | 5.00% | ~978 |
 | Children of the Elder God | 4.00% | ~2,244 |
 | Drink 'Em Both Up | 4.00% | ~2,244 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,088 (Ranked 79)  
+Progressed: 56,092 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-21 | 55,903 | 56 |
 | 2023-06-22 | 55,969 | 56 |
 | 2023-06-23 | 56,053 | 56 |
-| 2023-06-24 | 56,088 | 56 |
+| 2023-06-24 | 56,092 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

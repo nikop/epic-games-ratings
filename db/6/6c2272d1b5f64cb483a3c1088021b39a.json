@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1621,6 +1621,11 @@
       "Time": "2023-06-24T07:03:22.6639383+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T12:03:16.5352774+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1800,7 +1805,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "elemental_stones_2",
@@ -1870,9 +1875,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "glitter_of_gold_2",
@@ -1918,7 +1923,7 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -2159,14 +2164,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:03:31.2040155+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:03:16.5352767+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-24T10:57:24.5300385+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:03:31.2040851+00:00"
+  "LastUpdate_Ratings": "2023-06-24T11:57:33.7704198+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:03:16.5354134+00:00"
 }

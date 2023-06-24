@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,881 |
-| Un-Lonely Island | 48.00% | ~1,820 |
-| The Beginning of a Servantship | 45.00% | ~1,706 |
+| Just One...More...Term... | 76.00% | ~2,883 |
+| Un-Lonely Island | 48.00% | ~1,821 |
+| The Beginning of a Servantship | 45.00% | ~1,707 |
 | Trade Is My Trait | 37.00% | ~1,403 |
 | Number 18 | 24.00% | ~910 |
-| We Don't Have Time For That | 19.00% | ~720 |
-| The Governator | 18.00% | ~682 |
-| The Legend of Langostino | 17.00% | ~644 |
+| We Don't Have Time For That | 19.00% | ~721 |
+| The Governator | 18.00% | ~683 |
+| The Legend of Langostino | 17.00% | ~645 |
 | Caribbean Comrade | 16.00% | ~607 |
 | The Dreamer of Dreams | 16.00% | ~607 |
 | Happy Ending? | 11.00% | ~417 |
@@ -24,11 +24,11 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~303 |
 | Firestarter | 8.00% | ~303 |
 | Make Tropico Great Again! | 8.00% | ~303 |
-| Don't Panic! | 7.00% | ~265 |
-| French Connection | 7.00% | ~265 |
-| Beware The Betman | 6.00% | ~227 |
-| I Owe You Nothing | 6.00% | ~227 |
-| Watch The World Burn | 6.00% | ~227 |
+| Don't Panic! | 7.00% | ~266 |
+| French Connection | 7.00% | ~266 |
+| Beware The Betman | 6.00% | ~228 |
+| I Owe You Nothing | 6.00% | ~228 |
+| Watch The World Burn | 6.00% | ~228 |
 | Viva Tropico! | 5.00% | ~190 |
 | Computer Says "No" | 5.00% | ~190 |
 | Fairy Tale Come True | 5.00% | ~190 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~34 |
 | My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,791 (Ranked 138)  
+Progressed: 3,793 (Ranked 139)  
 Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-21 | 3,753 | 1 |
 | 2023-06-22 | 3,765 | 1 |
 | 2023-06-23 | 3,783 | 1 |
-| 2023-06-24 | 3,791 | 1 |
+| 2023-06-24 | 3,793 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 657 (Ranked 278)  

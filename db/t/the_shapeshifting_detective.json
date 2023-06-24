@@ -3,8 +3,8 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.08,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -182,6 +182,11 @@
       "Time": "2023-06-23T21:03:15.6071672+00:00",
       "NumProgressed": 186,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-24T12:03:30.5709385+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -193,7 +198,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "book_em_danny",
@@ -201,7 +206,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "bullseye",
@@ -223,17 +228,17 @@
       "ID": "chicken",
       "SetID": "2db2j74",
       "Name": "Chicken",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "heavy_rayne",
@@ -257,7 +262,7 @@
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "oscar_winning_performance",
@@ -271,9 +276,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "play_it_again_sam",
@@ -281,7 +286,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "play_me_by_the_hour",
@@ -289,15 +294,15 @@
       "Name": "Play Me By The Hour",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "poetent",
       "SetID": "2db2j74",
       "Name": "Poetent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "put_a_ring_on_it",
@@ -321,7 +326,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "the_big_sleep",
@@ -335,9 +340,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "voyeur",
@@ -345,7 +350,7 @@
       "Name": "Voyeur",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "you_had_one_job",
@@ -360,7 +365,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 2
     }
   ],
@@ -368,8 +373,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:03:45.3166502+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:03:30.570938+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.7658908+00:00",
-  "LastUpdate_Ratings": "2023-06-24T10:59:44.0524515+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:03:45.3166672+00:00"
+  "LastUpdate_Ratings": "2023-06-24T11:59:47.9656073+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:03:30.5709554+00:00"
 }

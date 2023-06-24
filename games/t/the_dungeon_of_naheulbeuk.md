@@ -6,26 +6,26 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~175 |
-| Where's that freaking Dwarf? | 86.00% | ~162 |
+| Alt+F4 | 93.00% | ~176 |
+| Where's that freaking Dwarf? | 86.00% | ~163 |
 | Sock! SOCK! | 70.00% | ~132 |
-| Fireproof Wizardess | 57.00% | ~107 |
-| Livin' in a dwarven paradise | 56.00% | ~105 |
+| Livin' in a dwarven paradise | 57.00% | ~108 |
+| Fireproof Wizardess | 57.00% | ~108 |
 | Déjà vu | 52.00% | ~98 |
-| GG EZ | 49.00% | ~92 |
-| Way of the Wimp | 47.00% | ~88 |
-| DM intervention | 47.00% | ~88 |
-| Oh, when I'll be level 10... | 40.00% | ~75 |
+| GG EZ | 49.00% | ~93 |
+| Way of the Wimp | 47.00% | ~89 |
+| DM intervention | 47.00% | ~89 |
+| Oh, when I'll be level 10... | 40.00% | ~76 |
 | Speedrun | 37.00% | ~70 |
 | The plot thickens... At the tavern | 34.00% | ~64 |
-| The Ranger of Chaos | 34.00% | ~64 |
 | Team Building Exercise | 34.00% | ~64 |
 | A beer, two curses, three companions | 33.00% | ~62 |
 | Dwarf Fortress | 33.00% | ~62 |
+| The Ranger of Chaos | 33.00% | ~62 |
 | Thieves' Guild Accreditation | 33.00% | ~62 |
 | I am the night | 32.00% | ~60 |
-| Look but don't touch | 29.00% | ~55 |
-| The demons' feast | 26.00% | ~49 |
+| Look but don't touch | 30.00% | ~57 |
+| The demons' feast | 25.00% | ~47 |
 | Material Girl | 25.00% | ~47 |
 | Shiny and Crôm | 24.00% | ~45 |
 | The Great Library | 24.00% | ~45 |
@@ -33,22 +33,22 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 24.00% | ~45 |
 | The Statuette of Gladeulfeurah | 23.00% | ~43 |
 | A tale of adventurers not quite like the others... | 23.00% | ~43 |
-| The beards of change | 21.00% | ~39 |
+| The beards of change | 22.00% | ~42 |
 | The Famous Dungeon of Naheulbeuk | 20.00% | ~38 |
 | In Navalu's footsteps | 20.00% | ~38 |
 | Urik's Depths | 18.00% | ~34 |
-| The Woman in the High Castle | 18.00% | ~34 |
+| The Woman in the High Castle | 17.00% | ~32 |
 | The Blood Countess | 17.00% | ~32 |
 | Cursed die | 15.00% | ~28 |
-| Law and Order | 14.00% | ~26 |
-| The Dungeon Master | 13.00% | ~24 |
-| Res Judicata | 13.00% | ~24 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 13.00% | ~24 |
-| Dead for good | 13.00% | ~24 |
+| Law and Order | 15.00% | ~28 |
+| The Dungeon Master | 13.00% | ~25 |
+| Res Judicata | 13.00% | ~25 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 13.00% | ~25 |
+| Dead for good | 13.00% | ~25 |
 | Necrophilia | 11.00% | ~21 |
+| It's been a hard day's night | 11.00% | ~21 |
 | Scholar of the Lands of Fangh | 10.00% | ~19 |
 | He’s alive! Aliiiive! | 10.00% | ~19 |
-| It's been a hard day's night | 10.00% | ~19 |
 | Lust and Debauchery | 9.00% | ~17 |
 | An old poacher makes the best gamekeeper | 8.00% | ~15 |
 | Lëgal Legend | 8.00% | ~15 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 266)  
+Progressed: 189 (Ranked 266)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 138 | 0 |
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
-| 2023-06-24 | 188 | 0 |
+| 2023-06-24 | 189 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

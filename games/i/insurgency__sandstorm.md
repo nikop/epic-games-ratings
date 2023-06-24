@@ -8,18 +8,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~19,844 |
 | Wallbanger | 5.00% | ~19,844 |
-| Exploitative | 4.00% | ~15,875 |
-| High Speed Low Drag | 4.00% | ~15,875 |
-| Wet Feet | 4.00% | ~15,875 |
-| Checkpoint Victory | 3.00% | ~11,906 |
-| Lucky | 3.00% | ~11,906 |
-| Stylin' | 3.00% | ~11,906 |
-| Turf War | 3.00% | ~11,906 |
-| Banged | 2.00% | ~7,937 |
-| First Blood | 2.00% | ~7,937 |
-| Flaccid Paralysis | 2.00% | ~7,937 |
-| Push Victory | 2.00% | ~7,937 |
-| Self-destructive | 2.00% | ~7,937 |
+| Exploitative | 4.00% | ~15,876 |
+| High Speed Low Drag | 4.00% | ~15,876 |
+| Wet Feet | 4.00% | ~15,876 |
+| Checkpoint Victory | 3.00% | ~11,907 |
+| Lucky | 3.00% | ~11,907 |
+| Stylin' | 3.00% | ~11,907 |
+| Turf War | 3.00% | ~11,907 |
+| Banged | 2.00% | ~7,938 |
+| First Blood | 2.00% | ~7,938 |
+| Flaccid Paralysis | 2.00% | ~7,938 |
+| Push Victory | 2.00% | ~7,938 |
+| Self-destructive | 2.00% | ~7,938 |
 | Blindfire | 1.00% | ~3,969 |
 | Efficient | 1.00% | ~3,969 |
 | Ruthless | 1.00% | ~3,969 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~2,778 |
 | Firefight Victory | 0.60% | ~2,381 |
 | Cinematic | 0.50% | ~1,984 |
-| Thanks Station! | 0.40% | ~1,587 |
+| Thanks Station! | 0.40% | ~1,588 |
 | Knock Knock | 0.30% | ~1,191 |
 | There For You | 0.30% | ~1,191 |
 | Hit and Run | 0.20% | ~794 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~397 |
 | Road Hazard | 0.10% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,874 (Ranked 39)  
+Progressed: 396,890 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-21 | 395,638 | 2 |
 | 2023-06-22 | 396,085 | 2 |
 | 2023-06-23 | 396,605 | 2 |
-| 2023-06-24 | 396,874 | 2 |
+| 2023-06-24 | 396,890 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 216)  
 Sum: 2,734 (Ranked 167)  

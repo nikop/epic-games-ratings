@@ -5,14 +5,14 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,392 |
-| World Map | 80.00% | ~1,185 |
-| Temple of Eternals | 57.00% | ~844 |
+| Victor | 94.00% | ~1,393 |
+| World Map | 80.00% | ~1,186 |
+| Temple of Eternals | 57.00% | ~845 |
 | Prestigious | 54.00% | ~800 |
-| Fellowship Power | 41.00% | ~607 |
-| Guild Power | 24.00% | ~355 |
+| Fellowship Power | 41.00% | ~608 |
+| Guild Power | 24.00% | ~356 |
 | Prestigious x10 | 21.00% | ~311 |
-| The game is on | 19.00% | ~281 |
+| The game is on | 19.00% | ~282 |
 | Exotic Merchant | 17.00% | ~252 |
 | Dragon Clicker | 16.00% | ~237 |
 | Inspection | 16.00% | ~237 |
@@ -22,22 +22,22 @@ Rating: 4.07 (Ranked 894)
 | Enlightenment | 13.00% | ~193 |
 | Hero inspection | 13.00% | ~193 |
 | Lieutenant | 13.00% | ~193 |
+| Milestone collector | 12.00% | ~178 |
 | Mysterious Rock | 12.00% | ~178 |
 | Natural Talent | 12.00% | ~178 |
 | Superior | 12.00% | ~178 |
 | The Unstoppable | 12.00% | ~178 |
-| Milestone collector | 11.00% | ~163 |
 | Scientist | 10.00% | ~148 |
 | Challenger | 9.00% | ~133 |
 | Hunter | 9.00% | ~133 |
 | Scroll Master | 9.00% | ~133 |
 | The power of Awakening | 9.00% | ~133 |
-| Daily Quest Completionist | 8.00% | ~118 |
-| Doing My Part | 8.00% | ~118 |
-| Frostfire Liberator | 8.00% | ~118 |
-| Mastery | 8.00% | ~118 |
-| Moving Up The Ladder | 8.00% | ~118 |
-| Relic Of The Past | 8.00% | ~118 |
+| Daily Quest Completionist | 8.00% | ~119 |
+| Doing My Part | 8.00% | ~119 |
+| Frostfire Liberator | 8.00% | ~119 |
+| Mastery | 8.00% | ~119 |
+| Moving Up The Ladder | 8.00% | ~119 |
+| Relic Of The Past | 8.00% | ~119 |
 | Four Leaf Clover | 7.00% | ~104 |
 | Here We Go Again | 6.00% | ~89 |
 | Master Enchanter | 6.00% | ~89 |
@@ -68,9 +68,9 @@ Rating: 4.07 (Ranked 894)
 | Pokerface | 0.50% | ~7 |
 | Tree of Life | 0.50% | ~7 |
 | Cauldron Liberator | 0.40% | ~6 |
+| Enchanting skill x5 | 0.40% | ~6 |
 | Gear Enchanting | 0.40% | ~6 |
 | Angel Power | 0.30% | ~4 |
-| Enchanting skill x5 | 0.30% | ~4 |
 | Guardian Master | 0.30% | ~4 |
 | Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,481 (Ranked 166)  
+Progressed: 1,482 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-21 | 1,458 | 1 |
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
-| 2023-06-24 | 1,481 | 1 |
+| 2023-06-24 | 1,482 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -46,6 +46,7 @@ Number of Ratings: 87  (23.09.2022)
 | Missed it! | 2.00% | ~15 |
 | Prick of conscience | 2.00% | ~15 |
 | Relocation | 2.00% | ~15 |
+| Sabotage | 2.00% | ~15 |
 | Squander | 2.00% | ~15 |
 | Stargazer | 2.00% | ~15 |
 | Vandal | 2.00% | ~15 |
@@ -54,7 +55,6 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 1.00% | ~7 |
 | Innovator | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
-| Sabotage | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |

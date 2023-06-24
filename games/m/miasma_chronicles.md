@@ -18,7 +18,7 @@ Rating: 4.34 (Ranked 741)
 | Exorcist | 43.00% | ~510 |
 | Firestarter | 41.00% | ~486 |
 | Giant Killer | 40.00% | ~474 |
-| Sensei | 38.00% | ~451 |
+| Sensei | 39.00% | ~463 |
 | The meaning of Kain | 36.00% | ~427 |
 | Technophobe | 34.00% | ~403 |
 | Recycler | 33.00% | ~391 |
@@ -57,7 +57,7 @@ Rating: 4.34 (Ranked 741)
 | Master Editor | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,186 (Ranked 176)  
+Progressed: 1,186 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-06-24T09:04:16.321036+00:00",
       "NumProgressed": 208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T12:04:48.5465091+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -699,9 +704,9 @@
       "ID": "ach_silver_rewards_10",
       "SetID": "bm61c2p",
       "Name": "Silver Competitor",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -725,7 +730,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_headquarters_20",
@@ -765,7 +770,7 @@
       "Name": "Lieutenant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -813,15 +818,15 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -845,7 +850,7 @@
       "Name": "Stocking Up",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -861,7 +866,7 @@
       "Name": "On Target",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -891,9 +896,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -940,14 +945,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:04:43.6868886+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:04:48.5465085+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-24T11:01:53.73652+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:04:43.6869235+00:00"
+  "LastUpdate_Ratings": "2023-06-24T12:01:59.3690278+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:04:48.5465641+00:00"
 }

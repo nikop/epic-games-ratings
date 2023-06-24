@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -787,8 +787,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:07:51.078216+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:07:53.6089295+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:48.730401+00:00",
-  "LastUpdate_Ratings": "2023-06-24T10:59:57.7037447+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:07:51.0782658+00:00"
+  "LastUpdate_Ratings": "2023-06-24T12:00:00.9883311+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:07:53.6089979+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,700 |
-| Photogenic | 88.00% | ~6,479 |
+| Let's Get This Party Started | 91.00% | ~6,701 |
+| Photogenic | 88.00% | ~6,480 |
 | Surge Gauntlet Jockey | 85.00% | ~6,259 |
-| Plug It In | 84.00% | ~6,185 |
-| Adventure Time | 80.00% | ~5,890 |
+| Plug It In | 84.00% | ~6,186 |
+| Adventure Time | 80.00% | ~5,891 |
 | Playing With Power | 77.00% | ~5,670 |
-| Coup d'Etat | 59.00% | ~4,344 |
+| Coup d'Etat | 59.00% | ~4,345 |
 | You're Fired | 58.00% | ~4,271 |
-| Get Furious | 56.00% | ~4,123 |
+| Get Furious | 56.00% | ~4,124 |
 | Gunplay And Cosplay | 55.00% | ~4,050 |
 | Hacks In Stacks | 55.00% | ~4,050 |
 | Meching Enemies | 49.00% | ~3,608 |
-| Ticket Toddler | 45.00% | ~3,313 |
-| Booty Bashing | 43.00% | ~3,166 |
+| Ticket Toddler | 45.00% | ~3,314 |
+| Booty Bashing | 43.00% | ~3,167 |
 | Field Medic | 38.00% | ~2,798 |
 | Here Comes a New Challenger | 38.00% | ~2,798 |
 | Rapid Response | 33.00% | ~2,430 |
@@ -29,7 +29,7 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 25.00% | ~1,841 |
 | Clips and Crits | 21.00% | ~1,546 |
 | Grey Goo | 19.00% | ~1,399 |
-| Boss of Bosses | 15.00% | ~1,104 |
+| Boss of Bosses | 15.00% | ~1,105 |
 | The Final Blow | 14.00% | ~1,031 |
 | Light My Fire | 13.00% | ~957 |
 | To Be Continued | 13.00% | ~957 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~29 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,363 (Ranked 119)  
+Progressed: 7,364 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 7,331 | 0 |
 | 2023-06-22 | 7,345 | 0 |
 | 2023-06-23 | 7,355 | 0 |
-| 2023-06-24 | 7,363 | 0 |
+| 2023-06-24 | 7,364 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 380)  
 Sum: 485 (Ranked 297)  

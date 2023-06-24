@@ -14,7 +14,7 @@
 | First aid | 64.00% | ~27 |
 | Soundtrack | 55.00% | ~23 |
 | Antidote | 50.00% | ~21 |
-| Pick the right door | 26.00% | ~11 |
+| Pick the right door | 29.00% | ~12 |
 | On the right path | 19.00% | ~8 |
 | It can't be true | 19.00% | ~8 |
 | One-way | 19.00% | ~8 |

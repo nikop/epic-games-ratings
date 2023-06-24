@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1296,9 +1296,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23665,
+  "EOS_Progressed": 23666,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6371,6 +6371,11 @@
       "Time": "2023-06-24T11:02:09.9527819+00:00",
       "NumProgressed": 23665,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-24T12:02:15.9436387+00:00",
+      "NumProgressed": 23666,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6382,7 +6387,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17275
+      "UsersEstimate": 17276
     },
     {
       "ID": "Animated",
@@ -6398,7 +6403,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8519
+      "UsersEstimate": 8520
     },
     {
       "ID": "Best_Insurance",
@@ -6430,7 +6435,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "Collector",
@@ -6462,7 +6467,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "Discovery",
@@ -6470,7 +6475,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 14672
+      "UsersEstimate": 14673
     },
     {
       "ID": "Dont_Need_These",
@@ -6502,7 +6507,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "Fragile_Panes",
@@ -6518,7 +6523,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12779
+      "UsersEstimate": 12780
     },
     {
       "ID": "GB_In_Training",
@@ -6558,7 +6563,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "Line_Em_Up",
@@ -6638,7 +6643,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "Seasoned",
@@ -6646,7 +6651,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "Side_Hustle",
@@ -6686,7 +6691,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20352
+      "UsersEstimate": 20353
     },
     {
       "ID": "Summoner",
@@ -6750,7 +6755,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4497
     },
     {
       "ID": "Ultimate_Defense",
@@ -6766,7 +6771,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11359
+      "UsersEstimate": 11360
     },
     {
       "ID": "Welcome_Crew",
@@ -6789,7 +6794,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23665,
+      "Progressed": 23666,
       "Completed": 46
     }
   ],
@@ -6797,8 +6802,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-23T19:58:52.0053388+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:02:09.9527583+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:02:15.9436059+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.3306533+00:00",
-  "LastUpdate_Ratings": "2023-06-24T11:00:00.3375966+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:02:09.9561159+00:00"
+  "LastUpdate_Ratings": "2023-06-24T12:00:03.9828767+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:02:15.9465892+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -582,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-24T11:07:37.3877172+00:00",
+  "LastChanged_Achievements": "2023-06-24T12:07:39.3929296+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.9611014+00:00",
-  "LastUpdate_Ratings": "2023-06-24T11:00:55.8595283+00:00",
-  "LastUpdate_Achievements": "2023-06-24T11:07:37.3877613+00:00"
+  "LastUpdate_Ratings": "2023-06-24T12:01:00.819582+00:00",
+  "LastUpdate_Achievements": "2023-06-24T12:07:39.3929735+00:00"
 }
