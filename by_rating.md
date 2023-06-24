@@ -86,26 +86,26 @@
 | 81 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 501 |
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.80 | 319 | 227 |
 | 81 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 501 |
-| 81 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 501 |
-| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,462 | 120 |
-| 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 401 | 208 |
-| 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
-| 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 501 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 661 | 165 |
-| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,219 | 129 |
-| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,894 | 56 |
-| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,412 | 96 |
-| 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 374 | 212 |
-| 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
-| 88 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 501 |
-| 99 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 501 |
-| 99 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,322 | 36 |
-| 99 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 501 |
-| 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 158 |
-| 99 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,322 | 101 |
-| 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 43 | 412 |
-| 99 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 501 |
-| 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 146 |
+| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,462 | 120 |
+| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 401 | 208 |
+| 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
+| 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 501 |
+| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 661 | 165 |
+| 87 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,219 | 129 |
+| 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,894 | 56 |
+| 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,412 | 96 |
+| 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 374 | 212 |
+| 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
+| 87 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 501 |
+| 98 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 501 |
+| 98 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,322 | 36 |
+| 98 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 501 |
+| 98 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 158 |
+| 98 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,322 | 101 |
+| 98 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 43 | 412 |
+| 98 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 501 |
+| 98 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 146 |
+| 98 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 501 |
 | 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,422 | 81 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,926 | 55 |
 | 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,340 | 17 |
@@ -554,7 +554,7 @@
 | 548 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,163 | 13 |
 | 548 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 501 |
 | 548 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 102 | 326 |
-| 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,467 | 95 |
+| 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,473 | 95 |
 | 548 | [Horace](games/h/horace.md) | 4.50 | 0 | 501 |
 | 548 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 501 |
 | 548 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 501 |
@@ -931,9 +931,9 @@
 | 929 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 501 |
 | 929 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 501 |
 | 931 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 501 |
+| 931 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 67 | 372 |
 | 931 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 501 |
 | 931 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 501 |
-| 934 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 372 |
 | 935 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 501 |
 | 935 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 501 |
 | 937 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 501 |
