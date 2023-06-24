@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2862,10 +2862,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6774,
       "NumberOfAwardsMax": 1667
+    },
+    {
+      "Time": "2023-06-24T14:58:36.8653831+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6775,
+      "NumberOfAwardsMax": 1667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6774,
+  "NumberOfAwards": 6775,
   "NumberOfAwardsMax": 1667,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2933,10 +2939,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 378
+      "Count": 379
     }
   ],
-  "EOS_Progressed": 10041,
+  "EOS_Progressed": 10042,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -7206,6 +7212,11 @@
       "Time": "2023-06-24T14:08:05.5979022+00:00",
       "NumProgressed": 10041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T15:06:51.0238334+00:00",
+      "NumProgressed": 10042,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7217,7 +7228,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "02_BurningCity",
@@ -7241,7 +7252,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -8144,21 +8155,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8823,
+      "Progressed": 8824,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10041,
+      "Progressed": 10042,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-06-24T00:02:40.2879364+00:00",
-  "LastChanged_Achievements": "2023-06-24T14:08:05.5979015+00:00",
+  "LastChanged": "2023-06-24T14:58:36.8653829+00:00",
+  "LastChanged_Achievements": "2023-06-24T15:06:51.0238327+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:59:18.4604727+00:00",
-  "LastUpdate_Achievements": "2023-06-24T14:08:05.5981097+00:00"
+  "LastUpdate_Ratings": "2023-06-24T14:58:36.8653837+00:00",
+  "LastUpdate_Achievements": "2023-06-24T15:06:51.0239791+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,682 |
-| Cavalier | 25.00% | ~197,324 |
-| Fatso | 23.00% | ~181,538 |
-| Awakening | 20.00% | ~157,859 |
-| Ranger | 20.00% | ~157,859 |
-| Scrooge | 20.00% | ~157,859 |
-| Anorectic | 16.00% | ~126,288 |
-| Firestarter | 15.00% | ~118,395 |
-| Bookworm | 14.00% | ~110,502 |
-| Insomniac | 13.00% | ~102,609 |
-| Thief | 12.00% | ~94,716 |
-| Buddy | 11.00% | ~86,823 |
-| Sinner | 11.00% | ~86,823 |
+| Blacksmith's Son | 31.00% | ~244,685 |
+| Cavalier | 25.00% | ~197,326 |
+| Fatso | 23.00% | ~181,540 |
+| Awakening | 20.00% | ~157,861 |
+| Ranger | 20.00% | ~157,861 |
+| Scrooge | 20.00% | ~157,861 |
+| Anorectic | 16.00% | ~126,289 |
+| Firestarter | 15.00% | ~118,396 |
+| Bookworm | 14.00% | ~110,503 |
+| Insomniac | 13.00% | ~102,610 |
+| Thief | 12.00% | ~94,717 |
+| Buddy | 11.00% | ~86,824 |
+| Sinner | 11.00% | ~86,824 |
 | Convict | 10.00% | ~78,930 |
 | Traveller | 10.00% | ~78,930 |
 | Haggler | 9.00% | ~71,037 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,525 |
 | Edward Kelly | 0.60% | ~4,736 |
 | Fighter | 0.60% | ~4,736 |
-| I Can Quit Anytime | 0.50% | ~3,946 |
+| I Can Quit Anytime | 0.50% | ~3,947 |
 | Perfectionist | 0.40% | ~3,157 |
 | Alcoholic | 0.30% | ~2,368 |
 | Sniper | 0.30% | ~2,368 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~789 |
 | Wingman | 0.10% | ~789 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789,297 (Ranked 15)  
+Progressed: 789,305 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 43 (0.01%) (Ranked 217)
 | 2023-06-21 | 788,913 | 42 |
 | 2023-06-22 | 789,052 | 43 |
 | 2023-06-23 | 789,203 | 43 |
-| 2023-06-24 | 789,297 | 43 |
+| 2023-06-24 | 789,305 | 43 |
 ## Awards
 Max (Character Customization): 7,265  (Ranked 46)  
 Sum: 27,126 (Ranked 43)  

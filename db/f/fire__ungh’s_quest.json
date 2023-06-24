@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 207,
-  "EOS_Completed": 11,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.31,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -328,6 +328,11 @@
       "Time": "2023-06-23T13:23:21.1527981+00:00",
       "NumProgressed": 207,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-06-24T15:06:34.9403236+00:00",
+      "NumProgressed": 207,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 27,
@@ -425,9 +430,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -555,15 +560,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 207,
-      "Completed": 11
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-24T14:07:47.2942222+00:00",
+  "LastChanged_Achievements": "2023-06-24T15:06:34.9403232+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:58.7687209+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:01:17.6524527+00:00",
-  "LastUpdate_Achievements": "2023-06-24T14:07:47.2942552+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:00:15.9909393+00:00",
+  "LastUpdate_Achievements": "2023-06-24T15:06:34.9403458+00:00"
 }

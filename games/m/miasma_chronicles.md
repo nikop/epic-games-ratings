@@ -11,7 +11,7 @@ Rating: 4.34 (Ranked 741)
 | Gun for Hire | 69.00% | ~818 |
 | I am the law! | 62.00% | ~735 |
 | Lumberjack | 50.00% | ~593 |
-| Croaked | 45.00% | ~534 |
+| Croaked | 46.00% | ~546 |
 | Limp Richard | 44.00% | ~522 |
 | From Darkness to Light | 44.00% | ~522 |
 | Editor Adept | 43.00% | ~510 |
@@ -32,7 +32,7 @@ Rating: 4.34 (Ranked 741)
 | There Can Be Only One! | 22.00% | ~261 |
 | Chain Killer | 21.00% | ~249 |
 | Endgame | 21.00% | ~249 |
-| Savior | 20.00% | ~237 |
+| Savior | 21.00% | ~249 |
 | The Watchers | 17.00% | ~202 |
 | Newtonian Knockout | 16.00% | ~190 |
 | Dr Jones | 13.00% | ~154 |

@@ -21,7 +21,7 @@ Rating: 4.62 (Ranked 346)
 | 2-1-6 | 54.00% | ~2,375 |
 | A gift | 50.00% | ~2,200 |
 | Girl Power | 44.00% | ~1,936 |
-| What goes around... | 40.00% | ~1,760 |
+| What goes around... | 41.00% | ~1,804 |
 | Be Prepared | 35.00% | ~1,540 |
 | Unbreakable | 34.00% | ~1,496 |
 | Atomic drill | 32.00% | ~1,408 |

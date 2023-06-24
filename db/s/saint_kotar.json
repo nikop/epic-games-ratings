@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "denouncement_successful_Kabeer",
       "SetID": "4akddl8",
       "Name": "Kabeer is Dead",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "eaten_by_food_man",
@@ -194,9 +194,9 @@
       "ID": "found_Put_leseva",
       "SetID": "4akddl8",
       "Name": "Find the Road of Cadavers",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "found_Ulric_portrait",
@@ -394,17 +394,17 @@
       "ID": "you_decided_to_abandon_God",
       "SetID": "4akddl8",
       "Name": "You Abandoned God",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "you_decided_to_stay_with_God",
       "SetID": "4akddl8",
       "Name": "You Decided to Stay With God",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-24T14:08:02.5261673+00:00",
+  "LastChanged_Achievements": "2023-06-24T15:06:48.1090261+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:51.3453636+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:02:11.3503028+00:00",
-  "LastUpdate_Achievements": "2023-06-24T14:08:02.5262055+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:01:04.1804769+00:00",
+  "LastUpdate_Achievements": "2023-06-24T15:06:48.1090533+00:00"
 }

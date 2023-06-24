@@ -13,6 +13,7 @@
 | Make Up For Lost Time | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
 | The Wicked Twins | 12.00% | ~86 |
+| The Prince in Heels | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
 | The Man Who Shattered Time | 11.00% | ~79 |
@@ -20,7 +21,6 @@
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
-| The Prince in Heels | 11.00% | ~79 |
 | Golem Chaser | 11.00% | ~79 |
 | Fast Learner | 11.00% | ~79 |
 | Check Your Pulse | 11.00% | ~79 |
@@ -37,13 +37,13 @@
 | Sump Explorer | 7.00% | ~50 |
 | Theater Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
+| Cultivair Explorer | 6.00% | ~43 |
 | Factorywood Explorer | 6.00% | ~43 |
 | Fairgrounds Explorer | 6.00% | ~43 |
 | Syron for Hope | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
 | Corin Goes Home | 5.00% | ~36 |
 | Sartorialist | 5.00% | ~36 |
-| Cultivair Explorer | 5.00% | ~36 |
 | Entresol Explorer | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
 | Rungs Was Right | 4.00% | ~29 |

@@ -5,15 +5,15 @@ Rating: 4.43 (Ranked 653)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,812 |
-| This is only the beginning | 19.00% | ~40,898 |
-| Knowledge is power | 12.00% | ~25,830 |
-| Power Ranger | 9.00% | ~19,372 |
-| Galvanic Rifle | 9.00% | ~19,372 |
-| Taser Goad | 9.00% | ~19,372 |
-| Radium Ready | 9.00% | ~19,372 |
-| Half a cog | 9.00% | ~19,372 |
-| Watch them crumble | 6.00% | ~12,915 |
+| No aid from the Omnissiah | 25.00% | ~53,815 |
+| This is only the beginning | 19.00% | ~40,899 |
+| Knowledge is power | 12.00% | ~25,831 |
+| Power Ranger | 9.00% | ~19,373 |
+| Galvanic Rifle | 9.00% | ~19,373 |
+| Taser Goad | 9.00% | ~19,373 |
+| Radium Ready | 9.00% | ~19,373 |
+| Half a cog | 9.00% | ~19,373 |
+| Watch them crumble | 6.00% | ~12,916 |
 | Competent Cohort | 4.00% | ~8,610 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,610 |
 | One with the Machine | 4.00% | ~8,610 |
@@ -27,8 +27,8 @@ Rating: 4.43 (Ranked 653)
 | Cohortus Maximus | 0.80% | ~1,722 |
 | Mother of Xenarites | 0.40% | ~861 |
 | False God | 0.30% | ~646 |
-| Hard | 0.20% | ~430 |
-| Transonic Blur | 0.20% | ~430 |
+| Hard | 0.20% | ~431 |
+| Transonic Blur | 0.20% | ~431 |
 | Sterile Perfection | 0.10% | ~215 |
 | Impossible | 0.10% | ~215 |
 | Sensory overload | 0.10% | ~215 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 653)
 | Perma-live | 0.10% | ~215 |
 | Purge the Heretek | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,250 (Ranked 50)  
+Progressed: 215,259 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-21 | 214,964 | 4 |
 | 2023-06-22 | 215,062 | 4 |
 | 2023-06-23 | 215,180 | 4 |
-| 2023-06-24 | 215,250 | 4 |
+| 2023-06-24 | 215,259 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 236)  
 Sum: 2,112 (Ranked 188)  

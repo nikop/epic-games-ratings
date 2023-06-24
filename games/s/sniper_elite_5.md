@@ -21,9 +21,9 @@ Rating: 4.47 (Ranked 593)
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
+| Gunslinger | 0.80% | ~25 |
+| Skirmisher | 0.80% | ~25 |
 | Organ Grinder | 0.70% | ~22 |
-| Gunslinger | 0.70% | ~22 |
-| Skirmisher | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Close Quarters | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
@@ -32,9 +32,9 @@ Rating: 4.47 (Ranked 593)
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
+| Opposing Force | 0.50% | ~16 |
 | Precision Is Key | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
-| Opposing Force | 0.40% | ~12 |
 | Enemy at the Gates | 0.40% | ~12 |
 | Fields of Glory | 0.40% | ~12 |
 | Rigged to Blow | 0.40% | ~12 |

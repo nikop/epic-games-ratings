@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -78,9 +78,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -388,6 +388,11 @@
       "Time": "2023-06-19T13:14:51.9638625+00:00",
       "NumProgressed": 635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T15:06:45.8276295+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -527,7 +532,7 @@
       "Name": "Existential dread",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "DropBallTrophy",
@@ -543,7 +548,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "Ext4Trophy",
@@ -575,7 +580,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "GoldGuyTrophy",
@@ -679,7 +684,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MaxPriceTrophy",
@@ -830,7 +835,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 0
     }
   ],
@@ -838,8 +843,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-06-02T03:58:32.0065116+00:00",
-  "LastChanged_Achievements": "2023-06-24T14:08:00.1815954+00:00",
+  "LastChanged_Achievements": "2023-06-24T15:06:45.8276291+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.5665632+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:59:08.9459163+00:00",
-  "LastUpdate_Achievements": "2023-06-24T14:08:00.1816517+00:00"
+  "LastUpdate_Ratings": "2023-06-24T14:58:29.7581237+00:00",
+  "LastUpdate_Achievements": "2023-06-24T15:06:45.8276679+00:00"
 }

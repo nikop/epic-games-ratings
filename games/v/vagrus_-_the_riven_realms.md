@@ -30,6 +30,7 @@
 | Xevarian Gambit | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
+| Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
 | Trouble at Fort Larius | 0.90% | ~1 |
@@ -86,7 +87,6 @@
 | The Darkness Within | 0.00% | ~0 |
 | Celebrity | 0.00% | ~0 |
 | Ruiner | 0.00% | ~0 |
-| Spiritual Journey | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |

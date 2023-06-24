@@ -5,13 +5,13 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 19.00% | ~517 |
+| Wakey Wakey | 20.00% | ~545 |
 | Sputnik 2049 | 17.00% | ~463 |
 | Without Breaking Some Eggs... | 16.00% | ~436 |
 | Infinite Growth... | 16.00% | ~436 |
-| Space Society | 11.00% | ~299 |
-| A Thousand Strong | 11.00% | ~299 |
-| Ready for a New World | 11.00% | ~299 |
+| Space Society | 11.00% | ~300 |
+| A Thousand Strong | 11.00% | ~300 |
+| Ready for a New World | 11.00% | ~300 |
 | Permanent Redesigns | 9.00% | ~245 |
 | Guy de Borderlands | 8.00% | ~218 |
 | Fully Recycled | 8.00% | ~218 |
@@ -45,8 +45,8 @@ Rating: 4.57 (Ranked 441)
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
-| Tiqqun Contender | 0.90% | ~24 |
-| Tiqqun Unchained | 0.90% | ~24 |
+| Tiqqun Contender | 0.90% | ~25 |
+| Tiqqun Unchained | 0.90% | ~25 |
 | You Had One Job... | 0.80% | ~22 |
 | Scientifically Accurate | 0.80% | ~22 |
 | Gregor Spinoza | 0.70% | ~19 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,722 (Ranked 151)  
+Progressed: 2,723 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 2,706 | 0 |
 | 2023-06-22 | 2,711 | 0 |
 | 2023-06-23 | 2,718 | 0 |
-| 2023-06-24 | 2,722 | 0 |
+| 2023-06-24 | 2,723 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

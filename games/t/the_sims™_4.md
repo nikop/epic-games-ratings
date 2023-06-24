@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 365)  
 ## Awards
 Max (Great for Beginners): 406  (Ranked 206)  
-Sum: 2,565 (Ranked 170)  
+Sum: 2,567 (Ranked 170)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 36
 | This game is Relaxing | 208 |
 | This game has Amazing Characters | 187 |
 | This game has Quickly Understood Controls | 169 |
-| This game has Easy Combat | 160 |
+| This game has Easy Combat | 162 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -141,4 +141,4 @@ Diff (max vs sum): 36
 | 2023-06-21 | 4.61 | 393 | 2,493 |
 | 2023-06-22 | 4.61 | 402 | 2,532 |
 | 2023-06-23 | 4.61 | 406 | 2,553 |
-| 2023-06-24 | 4.61 | 406 | 2,565 |
+| 2023-06-24 | 4.61 | 406 | 2,567 |
