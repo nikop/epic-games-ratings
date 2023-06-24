@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -354,9 +354,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 233692,
+  "EOS_Progressed": 233702,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7244,6 +7244,11 @@
       "Time": "2023-06-24T13:21:00.2738594+00:00",
       "NumProgressed": 233692,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-24T14:07:55.6592374+00:00",
+      "NumProgressed": 233702,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -7255,7 +7260,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63097
+      "UsersEstimate": 63100
     },
     {
       "ID": "ACH_AON",
@@ -7295,7 +7300,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25706
+      "UsersEstimate": 25707
     },
     {
       "ID": "ACH_ENJOY",
@@ -7319,7 +7324,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28043
+      "UsersEstimate": 28044
     },
     {
       "ID": "ACH_HATTRICK",
@@ -7335,7 +7340,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21032
+      "UsersEstimate": 21033
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -7399,7 +7404,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65434
+      "UsersEstimate": 65437
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -7471,7 +7476,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56086
+      "UsersEstimate": 56088
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -7527,7 +7532,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16359
     },
     {
       "ID": "ACH_MEMESMART",
@@ -7559,7 +7564,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16359
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -7567,7 +7572,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18695
+      "UsersEstimate": 18696
     },
     {
       "ID": "ACH_SCRATCH",
@@ -7575,7 +7580,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58423
+      "UsersEstimate": 58426
     },
     {
       "ID": "ACH_SOREAD",
@@ -7647,7 +7652,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18695
+      "UsersEstimate": 18696
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -7663,14 +7668,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 233692,
+      "Progressed": 233702,
       "Completed": 7
     }
   ],
@@ -7678,8 +7683,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-24T13:21:00.2738588+00:00",
+  "LastChanged_Achievements": "2023-06-24T14:07:55.6592366+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:37.8220282+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:11:51.5884269+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:21:00.2739786+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:58:45.6142828+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:07:55.6594004+00:00"
 }

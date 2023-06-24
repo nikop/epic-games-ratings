@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,393 |
+| Victor | 94.00% | ~1,394 |
 | World Map | 80.00% | ~1,186 |
 | Temple of Eternals | 57.00% | ~845 |
-| Prestigious | 54.00% | ~800 |
+| Prestigious | 54.00% | ~801 |
 | Fellowship Power | 41.00% | ~608 |
 | Guild Power | 24.00% | ~356 |
 | Prestigious x10 | 21.00% | ~311 |
@@ -30,7 +30,6 @@ Rating: 4.07 (Ranked 894)
 | Scientist | 10.00% | ~148 |
 | Challenger | 9.00% | ~133 |
 | Hunter | 9.00% | ~133 |
-| Scroll Master | 9.00% | ~133 |
 | The power of Awakening | 9.00% | ~133 |
 | Daily Quest Completionist | 8.00% | ~119 |
 | Doing My Part | 8.00% | ~119 |
@@ -38,6 +37,7 @@ Rating: 4.07 (Ranked 894)
 | Mastery | 8.00% | ~119 |
 | Moving Up The Ladder | 8.00% | ~119 |
 | Relic Of The Past | 8.00% | ~119 |
+| Scroll Master | 8.00% | ~119 |
 | Four Leaf Clover | 7.00% | ~104 |
 | Here We Go Again | 6.00% | ~89 |
 | Master Enchanter | 6.00% | ~89 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,482 (Ranked 166)  
+Progressed: 1,483 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-21 | 1,458 | 1 |
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
-| 2023-06-24 | 1,482 | 1 |
+| 2023-06-24 | 1,483 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

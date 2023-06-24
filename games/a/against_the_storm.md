@@ -38,9 +38,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~155 |
 | Forsaken Gods Temple | 1.00% | ~155 |
 | Corrosive Torrent | 1.00% | ~155 |
+| Defying the Crown | 1.00% | ~155 |
 | Into the Forest | 1.00% | ~155 |
 | Forbidden Lands | 0.90% | ~139 |
-| Defying the Crown | 0.90% | ~139 |
 | Fishmen Ritual Site | 0.70% | ~108 |
 | Efficient Explorer | 0.60% | ~93 |
 | Prestigious Expedition | 0.60% | ~93 |

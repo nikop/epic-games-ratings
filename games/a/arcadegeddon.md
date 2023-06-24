@@ -6,30 +6,30 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,706 |
-| Photogenic | 88.00% | ~6,485 |
+| Let's Get This Party Started | 91.00% | ~6,707 |
+| Photogenic | 88.00% | ~6,486 |
 | Surge Gauntlet Jockey | 85.00% | ~6,264 |
-| Plug It In | 84.00% | ~6,190 |
-| Adventure Time | 80.00% | ~5,895 |
-| Playing With Power | 77.00% | ~5,674 |
+| Plug It In | 84.00% | ~6,191 |
+| Adventure Time | 80.00% | ~5,896 |
+| Playing With Power | 77.00% | ~5,675 |
 | Coup d'Etat | 59.00% | ~4,348 |
-| You're Fired | 58.00% | ~4,274 |
+| You're Fired | 58.00% | ~4,275 |
 | Get Furious | 56.00% | ~4,127 |
-| Gunplay And Cosplay | 55.00% | ~4,053 |
-| Hacks In Stacks | 55.00% | ~4,053 |
+| Gunplay And Cosplay | 55.00% | ~4,054 |
+| Hacks In Stacks | 55.00% | ~4,054 |
 | Meching Enemies | 49.00% | ~3,611 |
 | Ticket Toddler | 45.00% | ~3,316 |
 | Booty Bashing | 43.00% | ~3,169 |
-| Field Medic | 38.00% | ~2,800 |
-| Here Comes a New Challenger | 38.00% | ~2,800 |
+| Field Medic | 38.00% | ~2,801 |
+| Here Comes a New Challenger | 38.00% | ~2,801 |
 | Rapid Response | 33.00% | ~2,432 |
-| Guardian Angel | 31.00% | ~2,284 |
-| Surge Ahead | 31.00% | ~2,284 |
-| The Full Monty | 31.00% | ~2,284 |
+| Guardian Angel | 31.00% | ~2,285 |
+| Surge Ahead | 31.00% | ~2,285 |
+| The Full Monty | 31.00% | ~2,285 |
 | Poppin Noggins | 25.00% | ~1,842 |
-| Clips and Crits | 21.00% | ~1,547 |
+| Clips and Crits | 21.00% | ~1,548 |
 | Grey Goo | 19.00% | ~1,400 |
-| Boss of Bosses | 15.00% | ~1,105 |
+| Boss of Bosses | 15.00% | ~1,106 |
 | The Final Blow | 14.00% | ~1,032 |
 | Light My Fire | 13.00% | ~958 |
 | To Be Continued | 13.00% | ~958 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~29 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,369 (Ranked 119)  
+Progressed: 7,370 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 7,331 | 0 |
 | 2023-06-22 | 7,345 | 0 |
 | 2023-06-23 | 7,355 | 0 |
-| 2023-06-24 | 7,369 | 0 |
+| 2023-06-24 | 7,370 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 380)  
 Sum: 485 (Ranked 297)  

@@ -17,11 +17,11 @@
 | The Dreaded Klek | 26.00% | ~5 |
 | Find the Road of Cadavers | 26.00% | ~5 |
 | Found Ulric's Portrait | 26.00% | ~5 |
+| Veil of Vera | 26.00% | ~5 |
 | The Crypt of Ivan Kotar | 26.00% | ~5 |
 | Lore and Background Story | 26.00% | ~5 |
 | Ulric's Painting Acquired | 21.00% | ~4 |
 | Save Arsen | 21.00% | ~4 |
-| Veil of Vera | 21.00% | ~4 |
 | The Warden's Room | 16.00% | ~3 |
 | Infuriate Elizabeta | 16.00% | ~3 |
 | Warden's Monstrosities | 16.00% | ~3 |

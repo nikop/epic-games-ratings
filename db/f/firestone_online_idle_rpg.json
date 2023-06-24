@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1482,
+  "EOS_Progressed": 1483,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3472,6 +3472,11 @@
       "Time": "2023-06-24T12:07:53.8161127+00:00",
       "NumProgressed": 1482,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T14:07:59.2596068+00:00",
+      "NumProgressed": 1483,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3875,7 +3880,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "prestigiousx10",
@@ -3913,9 +3918,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 119
     },
     {
       "ID": "silverwoodliberator",
@@ -4043,7 +4048,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "warmachinesarmy",
@@ -4082,7 +4087,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1482,
+      "Progressed": 1483,
       "Completed": 1
     }
   ],
@@ -4090,8 +4095,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-24T13:21:03.6252251+00:00",
+  "LastChanged_Achievements": "2023-06-24T14:07:59.259606+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:11:57.1576623+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:21:03.6253453+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:58:51.7003693+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:07:59.2597891+00:00"
 }

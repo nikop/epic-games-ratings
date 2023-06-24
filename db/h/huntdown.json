@@ -2,7 +2,7 @@
   "ID": "78de1f402ddf486ebcbf9ba3009d6198",
   "Name": "Huntdown",
   "ProductSlug": "huntdown",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 469,
@@ -74,6 +74,6 @@
   "FirstSeenRating": "2022-11-04T14:31:43.7194036+00:00",
   "LastChanged": "2023-06-22T04:02:09.8386379+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:18.3550304+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:14:40.356423+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:20:10.8177558+00:00"
+  "LastUpdate_Ratings": "2023-06-24T14:01:36.5532375+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:07:05.6871426+00:00"
 }

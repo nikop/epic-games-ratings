@@ -213,9 +213,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194341,
+  "EOS_Progressed": 194349,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6993,6 +6993,11 @@
       "Time": "2023-06-24T13:20:44.3372889+00:00",
       "NumProgressed": 194341,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-06-24T14:07:39.3881048+00:00",
+      "NumProgressed": 194349,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 29,
@@ -7028,7 +7033,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182681
+      "UsersEstimate": 182688
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7140,7 +7145,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11660
+      "UsersEstimate": 11661
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -7188,7 +7193,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19434
+      "UsersEstimate": 19435
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -7235,7 +7240,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194341,
+      "Progressed": 194349,
       "Completed": 448
     }
   ],
@@ -7243,8 +7248,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-21T21:00:19.7640701+00:00",
-  "LastChanged_Achievements": "2023-06-24T13:20:44.337288+00:00",
+  "LastChanged_Achievements": "2023-06-24T14:07:39.388104+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:13:01.9318565+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:20:44.3374013+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:59:57.9284268+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:07:39.3882204+00:00"
 }

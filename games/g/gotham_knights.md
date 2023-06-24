@@ -8,13 +8,13 @@ Rating: 4.17 (Ranked 857)
 | First Step Into the Knight | 6.00% | ~3,955 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,637 |
 | Loose Ends | 4.00% | ~2,637 |
-| The Batman Family | 3.00% | ~1,977 |
-| To the Victor Go the Spoils | 3.00% | ~1,977 |
-| Quartzer Life Crisis | 3.00% | ~1,977 |
-| Get ReQ'd | 3.00% | ~1,977 |
-| Knighthood | 3.00% | ~1,977 |
-| Whispered Words | 3.00% | ~1,977 |
-| Lock and Key | 3.00% | ~1,977 |
+| The Batman Family | 3.00% | ~1,978 |
+| To the Victor Go the Spoils | 3.00% | ~1,978 |
+| Quartzer Life Crisis | 3.00% | ~1,978 |
+| Get ReQ'd | 3.00% | ~1,978 |
+| Knighthood | 3.00% | ~1,978 |
+| Whispered Words | 3.00% | ~1,978 |
+| Lock and Key | 3.00% | ~1,978 |
 | End of an Era | 2.00% | ~1,318 |
 | In Your Element | 2.00% | ~1,318 |
 | Protector of Gotham | 2.00% | ~1,318 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 857)
 | Family Meeting | 0.80% | ~527 |
 | A Worthy Successor | 0.80% | ~527 |
 | Expert Crime Fighter | 0.70% | ~461 |
-| Dressed to Impress | 0.60% | ~395 |
+| Dressed to Impress | 0.60% | ~396 |
 | A Momentum Occasion | 0.50% | ~330 |
 | Bat Out of Hell | 0.40% | ~264 |
 | Practice Makes Perfect | 0.30% | ~198 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,915 (Ranked 72)  
+Progressed: 65,919 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,21 +132,21 @@ Completed: 96 (0.15%) (Ranked 165)
 | 2023-06-21 | 65,809 | 96 |
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
-| 2023-06-24 | 65,915 | 96 |
+| 2023-06-24 | 65,919 | 96 |
 ## Awards
-Max (Great Boss Battles): 2,372  (Ranked 100)  
-Sum: 3,926 (Ranked 136)  
+Max (Great Boss Battles): 2,377  (Ranked 100)  
+Sum: 3,933 (Ranked 136)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,372 |
+| This game has Great Boss Battles | 2,377 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Extremely Fun | 200 |
 | This game has Amazing Characters | 199 |
 | This game is Relaxing | 199 |
 | This game has Diverse Characters | 191 |
+| This game is Great for Beginners | 190 |
 | This game has Amazing Storytelling | 189 |
-| This game is Great for Beginners | 188 |
 | This game is Highly Recommended | 186 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -275,3 +275,4 @@ Diff (max vs sum): -36
 | 2023-06-21 | 4.17 | 2,354 | 3,903 |
 | 2023-06-22 | 4.17 | 2,362 | 3,915 |
 | 2023-06-23 | 4.17 | 2,372 | 3,926 |
+| 2023-06-24 | 4.17 | 2,377 | 3,933 |

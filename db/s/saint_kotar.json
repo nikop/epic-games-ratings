@@ -210,9 +210,9 @@
       "ID": "found_veil_of_Vera",
       "SetID": "4akddl8",
       "Name": "Veil of Vera",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fulfilled_prophecy",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-24T13:21:06.9939307+00:00",
+  "LastChanged_Achievements": "2023-06-24T14:08:02.5261673+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:51.3453636+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:15:13.9015143+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:21:06.9939663+00:00"
+  "LastUpdate_Ratings": "2023-06-24T14:02:11.3503028+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:08:02.5262055+00:00"
 }

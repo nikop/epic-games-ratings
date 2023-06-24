@@ -58,8 +58,8 @@ Rating: 3.51 (Ranked 945)
 | Sisterhood | 0.80% | ~14 |
 | Ask Not For Whom The Horns Blow | 0.80% | ~14 |
 | Good Samaritan | 0.60% | ~10 |
+| A Cry in the Dark | 0.40% | ~7 |
 | Someplace to Be | 0.40% | ~7 |
-| A Cry in the Dark | 0.30% | ~5 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |

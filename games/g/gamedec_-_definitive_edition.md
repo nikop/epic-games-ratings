@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,434 |
-| Powergamer | 27.00% | ~63,097 |
-| Barely scratched the surface | 25.00% | ~58,423 |
-| Write that down | 24.00% | ~56,086 |
-| Guns, lots of guns | 12.00% | ~28,043 |
-| Collector | 11.00% | ~25,706 |
-| Elementary! | 9.00% | ~21,032 |
-| Pumpkin Jack | 8.00% | ~18,695 |
-| Wake up! | 8.00% | ~18,695 |
-| It's honest work | 7.00% | ~16,358 |
-| Griever | 7.00% | ~16,358 |
+| I will finish what you started | 28.00% | ~65,437 |
+| Powergamer | 27.00% | ~63,100 |
+| Barely scratched the surface | 25.00% | ~58,426 |
+| Write that down | 24.00% | ~56,088 |
+| Guns, lots of guns | 12.00% | ~28,044 |
+| Collector | 11.00% | ~25,707 |
+| Elementary! | 9.00% | ~21,033 |
+| Pumpkin Jack | 8.00% | ~18,696 |
+| Wake up! | 8.00% | ~18,696 |
+| It's honest work | 7.00% | ~16,359 |
+| Griever | 7.00% | ~16,359 |
 | Me smart | 6.00% | ~14,022 |
 | Good listener | 5.00% | ~11,685 |
 | Trash compactor | 5.00% | ~11,685 |
@@ -47,7 +47,7 @@ Number of Ratings: 33  (23.09.2022)
 | Home run | 0.80% | ~1,870 |
 | I have the high ground | 0.70% | ~1,636 |
 | It's blue, always blue | 0.70% | ~1,636 |
-| Who wouldn't love a troll? | 0.50% | ~1,168 |
+| Who wouldn't love a troll? | 0.50% | ~1,169 |
 | Enjoy these little moments | 0.40% | ~935 |
 | Irondec | 0.40% | ~935 |
 | Un-bear-able | 0.40% | ~935 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~467 |
 | Memory 5 | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,692 (Ranked 44)  
+Progressed: 233,702 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 7 (0.00%) (Ranked 230)
 | 2023-06-21 | 233,207 | 7 |
 | 2023-06-22 | 233,372 | 7 |
 | 2023-06-23 | 233,569 | 7 |
-| 2023-06-24 | 233,692 | 7 |
+| 2023-06-24 | 233,702 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 422)  

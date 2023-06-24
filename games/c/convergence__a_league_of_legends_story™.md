@@ -15,6 +15,7 @@
 | The Wicked Twins | 12.00% | ~86 |
 | Immaculate Aim | 12.00% | ~86 |
 | The Betrayer | 11.00% | ~79 |
+| The Man Who Shattered Time | 11.00% | ~79 |
 | The Loose Cannon | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
@@ -28,7 +29,6 @@
 | The Family Fortune | 11.00% | ~79 |
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
-| The Man Who Shattered Time | 10.00% | ~72 |
 | Honest Mistake | 10.00% | ~72 |
 | Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |

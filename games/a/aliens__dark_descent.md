@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 74.00% | ~1,030 |
-| Snatched Out | 65.00% | ~905 |
-| Keep 'Em Coming | 62.00% | ~863 |
-| Cleaning Lethe, One Nest At A Time | 50.00% | ~696 |
-| This Was No Papercut | 42.00% | ~585 |
-| Call Me Snake | 41.00% | ~571 |
-| Something Lurks Under The Hills | 41.00% | ~571 |
-| The Shrink Hates Me | 36.00% | ~501 |
-| Use The Bumper, That's What It's For | 34.00% | ~473 |
-| People Person | 30.00% | ~418 |
-| Colonial Barrels | 27.00% | ~376 |
-| First Steps Into Madness | 26.00% | ~362 |
-| Damn Dude, You Gotta Lose Some Weight! | 26.00% | ~362 |
-| Omelette Du Fromage | 16.00% | ~223 |
-| Harper's Hell | 16.00% | ~223 |
-| Making a Stand | 15.00% | ~209 |
-| Recouped Investment | 15.00% | ~209 |
-| Where It All Begun | 11.00% | ~153 |
-| Stuff Of Nightmares | 8.00% | ~111 |
+| This Is Hayes, Pioneer Station, Signing Off | 74.00% | ~1,040 |
+| Snatched Out | 65.00% | ~913 |
+| Keep 'Em Coming | 62.00% | ~871 |
+| Cleaning Lethe, One Nest At A Time | 49.00% | ~688 |
+| This Was No Papercut | 42.00% | ~590 |
+| Call Me Snake | 41.00% | ~576 |
+| Something Lurks Under The Hills | 41.00% | ~576 |
+| The Shrink Hates Me | 36.00% | ~506 |
+| Use The Bumper, That's What It's For | 34.00% | ~478 |
+| People Person | 30.00% | ~422 |
+| Colonial Barrels | 27.00% | ~379 |
+| First Steps Into Madness | 26.00% | ~365 |
+| Damn Dude, You Gotta Lose Some Weight! | 26.00% | ~365 |
+| Omelette Du Fromage | 16.00% | ~225 |
+| Harper's Hell | 16.00% | ~225 |
+| Recouped Investment | 16.00% | ~225 |
+| Making a Stand | 15.00% | ~211 |
+| Where It All Begun | 11.00% | ~155 |
+| Stuff Of Nightmares | 8.00% | ~112 |
 | The More The Merrier | 6.00% | ~84 |
 | Living Nightmare | 5.00% | ~70 |
 | Heavy Steps | 4.00% | ~56 |
@@ -38,11 +38,11 @@
 | The Spire | 2.00% | ~28 |
 | The True Experience | 2.00% | ~28 |
 | Excavating The Truth | 1.00% | ~14 |
-| Abysmal Horrors | 0.90% | ~13 |
-| This Went Smoothly | 0.80% | ~11 |
+| Abysmal Horrors | 1.00% | ~14 |
+| This Went Smoothly | 0.90% | ~13 |
 | Regicide | 0.50% | ~7 |
 | Perfect Enhancements | 0.40% | ~6 |
-| Flawless Victory | 0.20% | ~3 |
+| Flawless Victory | 0.30% | ~4 |
 | Fair And Square | 0.20% | ~3 |
 | Hardened In The Heat Of Battle | 0.20% | ~3 |
 | Perfect Organism | 0.10% | ~1 |
@@ -50,7 +50,7 @@
 | Chalk It Up To Experience | 0.10% | ~1 |
 | Archivist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,392 (Ranked 168)  
+Progressed: 1,405 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 834 | 0 |
 | 2023-06-22 | 1,079 | 0 |
 | 2023-06-23 | 1,293 | 0 |
-| 2023-06-24 | 1,392 | 0 |
+| 2023-06-24 | 1,405 | 0 |

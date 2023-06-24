@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1584,9 +1584,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 79
     },
     {
       "ID": "GadgetCompletion1",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-24T13:20:37.5342654+00:00",
+  "LastChanged_Achievements": "2023-06-24T14:07:32.8484473+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-24T13:13:46.1774821+00:00",
-  "LastUpdate_Achievements": "2023-06-24T13:20:37.53432+00:00"
+  "LastUpdate_Ratings": "2023-06-24T14:00:41.7730367+00:00",
+  "LastUpdate_Achievements": "2023-06-24T14:07:32.8485042+00:00"
 }

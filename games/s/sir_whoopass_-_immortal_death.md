@@ -61,10 +61,10 @@
 | Spoiler alert! | 8.00% | ~7 |
 | Scrambled Eggs | 8.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~6 |
+| I want to throw up! | 6.00% | ~5 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
-| I want to throw up! | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 3.00% | ~3 |
