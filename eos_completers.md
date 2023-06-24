@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 18.37% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.65% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.13% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -285,6 +285,7 @@
 | 230 | [Dice Legacy](games/d/dice_legacy.md) | 0.00% |
 | 230 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 230 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
+| 230 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 0.00% |
 | 230 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
 | 230 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 230 | [EBOLA 3](games/e/ebola_3.md) | 0.00% |

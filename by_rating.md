@@ -161,24 +161,24 @@
 | 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 499 |
 | 155 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 228 | 251 |
 | 155 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 499 |
-| 155 | [Slipways](games/s/slipways.md) | 4.73 | 0 | 499 |
 | 155 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 499 |
 | 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 352 |
 | 155 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 499 |
-| 166 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 70 | 367 |
-| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 468 | 193 |
-| 166 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 499 |
-| 166 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 295 |
-| 166 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 420 |
-| 166 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 499 |
-| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 499 |
-| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 361 |
-| 166 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 314 | 227 |
-| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 499 |
-| 166 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 499 |
-| 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 499 |
-| 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 127 | 302 |
-| 166 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 499 |
+| 165 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 70 | 367 |
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 468 | 193 |
+| 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 499 |
+| 165 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 295 |
+| 165 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 420 |
+| 165 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 499 |
+| 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 499 |
+| 165 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 361 |
+| 165 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 499 |
+| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 314 | 227 |
+| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 499 |
+| 165 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 499 |
+| 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 499 |
+| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 127 | 302 |
+| 165 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 499 |
 | 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 499 |
 | 180 | [Barony](games/b/barony.md) | 4.71 | 73 | 361 |
 | 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 499 |
@@ -350,7 +350,7 @@
 | 346 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 70,660 | 9 |
 | 346 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 275 | 237 |
 | 346 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 434 |
-| 346 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,346 | 123 |
+| 346 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,349 | 123 |
 | 346 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 499 |
 | 346 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 359 | 216 |
 | 346 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 546 | 184 |
@@ -394,7 +394,7 @@
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 215 | 256 |
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 358 |
 | 389 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,045 | 12 |
-| 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,415 | 26 |
+| 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,423 | 26 |
 | 389 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 499 |
 | 389 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 307 |
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 385 |
@@ -448,7 +448,7 @@
 | 441 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.57 | 185 | 272 |
 | 441 | [Hob](games/h/hob.md) | 4.57 | 0 | 499 |
 | 441 | [IXION](games/i/ixion.md) | 4.57 | 0 | 499 |
-| 441 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,492 | 44 |
+| 441 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,496 | 44 |
 | 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,136 | 89 |
 | 441 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 499 |
 | 441 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 310 |
