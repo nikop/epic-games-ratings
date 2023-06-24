@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.48% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 30.56% |
+| 1 | [Volley Pals](games/v/volley_pals.md) | 30.56% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.36% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -9,12 +9,12 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.24% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.10% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.62% |
-| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
-| 14 | [Remains](games/r/remains.md) | 12.50% |
+| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
+| 13 | [Remains](games/r/remains.md) | 12.50% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
@@ -54,7 +54,7 @@
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
-| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.01% |
+| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.00% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
@@ -70,9 +70,9 @@
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.37% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.25% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 71 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.13% |
-| 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
+| 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.04% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -87,14 +87,14 @@
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.32% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.31% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
 | 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 93 | [Late Shift](games/l/late_shift.md) | 1.16% |
-| 94 | [Five Dates](games/f/five_dates.md) | 1.12% |
 | 94 | [Trifox](games/t/trifox.md) | 1.12% |
+| 95 | [Five Dates](games/f/five_dates.md) | 1.11% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.07% |
 | 98 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
@@ -104,7 +104,7 @@
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 104 | [Lemon Cake](games/l/lemon_cake.md) | 0.78% |
+| 105 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
@@ -155,8 +155,8 @@
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 153 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 156 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 156 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 157 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 158 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 158 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 158 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.19% |

@@ -16,7 +16,7 @@
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 500 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 500 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 500 |
-| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 414 | 202 |
+| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 415 | 202 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,328 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,091 | 75 |
@@ -55,7 +55,7 @@
 | 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 403 |
 | 52 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 256 |
 | 52 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 500 |
-| 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 409 | 204 |
+| 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 409 | 205 |
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 257 | 244 |
 | 58 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 500 |
 | 58 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 500 |
@@ -88,7 +88,7 @@
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.80 | 319 | 227 |
 | 81 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 500 |
 | 81 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 500 |
-| 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,461 | 120 |
+| 89 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,462 | 120 |
 | 89 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 398 | 208 |
 | 89 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
 | 89 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 500 |
@@ -127,7 +127,7 @@
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 500 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,667 | 114 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 46 | 405 |
-| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,803 | 38 |
+| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,823 | 38 |
 | 119 | [Star Atlas](games/s/star_atlas.md) | 4.76 | 0 | 500 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 500 |
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 43 | 412 |
@@ -151,10 +151,10 @@
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 500 |
 | 143 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 500 |
 | 143 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 500 |
-| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 765 | 154 |
+| 143 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 766 | 154 |
 | 143 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 500 |
 | 143 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 615 | 171 |
-| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 205 |
+| 155 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 206 |
 | 155 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 469 |
 | 155 | [Haven](games/h/haven.md) | 4.73 | 0 | 500 |
 | 155 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 575 | 176 |
@@ -249,7 +249,7 @@
 | 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 188,971 | 4 |
 | 240 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 500 |
 | 240 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.68 | 0 | 500 |
-| 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 202 |
+| 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 203 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 178 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 672 | 163 |
 | 240 | [Revita](games/r/revita.md) | 4.68 | 0 | 500 |
@@ -384,7 +384,7 @@
 | 365 | [Supraland](games/s/supraland.md) | 4.61 | 7,628 | 42 |
 | 365 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 500 |
 | 365 | [The Medium](games/t/the_medium.md) | 4.61 | 0 | 500 |
-| 365 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 406 | 206 |
+| 365 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 412 | 204 |
 | 365 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.61 | 0 | 500 |
 | 365 | [Warframe](games/w/warframe.md) | 4.61 | 15,615 | 21 |
 | 365 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.61 | 0 | 500 |
@@ -619,7 +619,7 @@
 | 604 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 279 | 237 |
 | 604 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 0 | 500 |
 | 619 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 235 | 250 |
-| 619 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 744 | 156 |
+| 619 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 745 | 156 |
 | 619 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.45 | 0 | 500 |
 | 619 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,627 | 34 |
 | 619 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 29 | 458 |
@@ -912,7 +912,7 @@
 | 909 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 500 |
 | 909 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 500 |
 | 912 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 213 |
-| 912 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,630 | 68 |
+| 912 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,631 | 68 |
 | 914 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 500 |
 | 914 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.98 | 0 | 500 |
 | 914 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,392 | 99 |

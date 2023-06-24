@@ -37,7 +37,7 @@
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,213 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,312 | 4.78 | 99 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,290 | 4.61 | 365 |
-| 38 | [SnowRunner](games/s/snowrunner.md) | 8,803 | 4.76 | 119 |
+| 38 | [SnowRunner](games/s/snowrunner.md) | 8,823 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,363 | 4.60 | 389 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,983 | 4.58 | 422 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,647 | 4.85 | 41 |
@@ -67,7 +67,7 @@
 | 65 | [Dead Island 2](games/d/dead_island_2.md) | 4,784 | 4.54 | 489 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,781 | 4.65 | 297 |
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,743 | 4.56 | 455 |
-| 68 | [Shop Titans](games/s/shop_titans.md) | 4,630 | 3.99 | 912 |
+| 68 | [Shop Titans](games/s/shop_titans.md) | 4,631 | 3.99 | 912 |
 | 69 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,537 | 4.70 | 196 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,426 | 4.70 | 196 |
 | 71 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,364 | 4.70 | 196 |
@@ -119,7 +119,7 @@
 | 117 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 1,527 | 4.66 | 272 |
 | 118 | [Celeste](games/c/celeste.md) | 1,496 | 4.92 | 4 |
 | 119 | [Ring of Pain](games/r/ring_of_pain.md) | 1,481 | 4.58 | 422 |
-| 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,461 | 4.79 | 89 |
+| 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,462 | 4.79 | 89 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,403 | 4.81 | 75 |
 | 122 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,400 | 4.87 | 25 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,349 | 4.62 | 346 |
@@ -153,9 +153,9 @@
 | 151 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 795 | 4.69 | 221 |
 | 152 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 789 | 4.56 | 455 |
 | 153 | [Frostpunk](games/f/frostpunk.md) | 783 | 4.74 | 143 |
-| 154 | [The Long Dark](games/t/the_long_dark.md) | 765 | 4.74 | 143 |
+| 154 | [The Long Dark](games/t/the_long_dark.md) | 766 | 4.74 | 143 |
 | 155 | [Auto Chess](games/a/auto_chess.md) | 749 | 4.52 | 518 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 744 | 4.45 | 619 |
+| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 745 | 4.45 | 619 |
 | 157 | [Core](games/c/core.md) | 737 | 4.36 | 725 |
 | 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 728 | 4.78 | 99 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 702 | 4.50 | 548 |
@@ -201,11 +201,11 @@
 | 199 | [Prison Architect](games/p/prison_architect.md) | 442 | 4.61 | 365 |
 | 200 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 200 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 418 | 4.40 | 685 |
-| 202 | [Loop Hero](games/l/loop_hero.md) | 414 | 4.68 | 240 |
-| 202 | [RimWorld](games/r/rimworld.md) | 414 | 4.89 | 13 |
-| 204 | [Into the Breach](games/i/into_the_breach.md) | 409 | 4.84 | 52 |
-| 205 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 408 | 4.73 | 155 |
-| 206 | [The Sims™ 4](games/t/the_sims™_4.md) | 406 | 4.61 | 365 |
+| 202 | [RimWorld](games/r/rimworld.md) | 415 | 4.89 | 13 |
+| 203 | [Loop Hero](games/l/loop_hero.md) | 414 | 4.68 | 240 |
+| 204 | [The Sims™ 4](games/t/the_sims™_4.md) | 412 | 4.61 | 365 |
+| 205 | [Into the Breach](games/i/into_the_breach.md) | 409 | 4.84 | 52 |
+| 206 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 408 | 4.73 | 155 |
 | 207 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 402 | 4.49 | 566 |
 | 208 | [Dishonored 2](games/d/dishonored_2.md) | 398 | 4.79 | 89 |
 | 209 | [Warface](games/w/warface.md) | 397 | 3.91 | 925 |
