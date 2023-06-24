@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.44 (Ranked 634)  
+Rating: 4.44 (Ranked 633)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 58  (23.09.2022)
 | Phoenix | 44.00% | ~440 |
 | Cult Slayer | 41.00% | ~410 |
 | Origin | 40.00% | ~400 |
-| It Was An Accident | 39.00% | ~390 |
+| It Was An Accident | 40.00% | ~400 |
 | Set in Motion | 38.00% | ~380 |
 | In the Eye of the Storm | 37.00% | ~370 |
 | The Crimson Void | 34.00% | ~340 |

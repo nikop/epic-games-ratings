@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -614,9 +614,9 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "4",
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:04:55.865305+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:03:53.8233825+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:35.1827591+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:59:31.1200135+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:04:55.8653165+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:58:45.0475707+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:03:53.8233932+00:00"
 }

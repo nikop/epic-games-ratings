@@ -12,7 +12,7 @@
 | Hashtag Winning | 36.00% | ~67 |
 | A Woman Scorned | 25.00% | ~47 |
 | Chameleon | 21.00% | ~39 |
-| Highlander | 20.00% | ~37 |
+| Highlander | 21.00% | ~39 |
 | Look Mum I'm A Detective | 19.00% | ~36 |
 | You Had One Job | 14.00% | ~26 |
 | Poetent | 12.00% | ~22 |

@@ -15,15 +15,15 @@
 | Supply Run | 2.00% | ~12 |
 | Terminated II | 2.00% | ~12 |
 | Terminated III | 2.00% | ~12 |
+| The Bigger They Are | 1.00% | ~6 |
 | Nanonic II | 1.00% | ~6 |
 | Nanonic III | 1.00% | ~6 |
 | Rookie | 1.00% | ~6 |
 | Outer Core | 0.80% | ~5 |
-| The Bigger They Are | 0.70% | ~4 |
 | Starship Docks | 0.70% | ~4 |
 | Integration | 0.70% | ~4 |
+| Up Close And Personal | 0.70% | ~4 |
 | Inner Core | 0.50% | ~3 |
-| Up Close And Personal | 0.50% | ~3 |
 | Eden Heights | 0.30% | ~2 |
 | Ripperdoc | 0.30% | ~2 |
 | Destruction | 0.20% | ~1 |

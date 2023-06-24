@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 2832,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -503,9 +503,9 @@
       "ID": "33",
       "SetID": "5cfan5f",
       "Name": "Cheap Tricks",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 842
     },
     {
       "ID": "34",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:07:08.5370177+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:05:42.9698353+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:18.2461849+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:57:42.8394985+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:07:08.5370394+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:57:20.0913684+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:05:42.969858+00:00"
 }

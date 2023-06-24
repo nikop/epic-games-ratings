@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 42,
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251783,
+  "EOS_Progressed": 251786,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7181,6 +7181,11 @@
       "Time": "2023-06-24T17:04:49.9855908+00:00",
       "NumProgressed": 251783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-24T18:03:49.6111366+00:00",
+      "NumProgressed": 251786,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7240,7 +7245,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78053
+      "UsersEstimate": 78054
     },
     {
       "ID": "BackHomeNTimes",
@@ -7296,7 +7301,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25178
+      "UsersEstimate": 25179
     },
     {
       "ID": "CreditLevel2",
@@ -7464,7 +7469,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7553
+      "UsersEstimate": 7554
     },
     {
       "ID": "KillOtherWithMine",
@@ -7480,7 +7485,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55392
+      "UsersEstimate": 55393
     },
     {
       "ID": "KillOthers2",
@@ -7552,7 +7557,7 @@
       "Name": "Number 1",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "Patrimony1",
@@ -7584,7 +7589,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25178
+      "UsersEstimate": 25179
     },
     {
       "ID": "ReachNDays2",
@@ -7639,7 +7644,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251783,
+      "Progressed": 251786,
       "Completed": 2
     }
   ],
@@ -7647,8 +7652,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-24T13:14:53.3523811+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:04:49.9855903+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:03:49.6111362+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:01:36.9259591+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:04:49.9856568+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:00:11.1775611+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:03:49.6112005+00:00"
 }

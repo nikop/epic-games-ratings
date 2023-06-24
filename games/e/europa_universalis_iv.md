@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,450 |
-| That's a Grand Army | 8.00% | ~4,844 |
-| That is mine! | 8.00% | ~4,844 |
-| Victorious! | 8.00% | ~4,844 |
-| Brothers in Arms | 6.00% | ~3,633 |
-| That's a Grand Navy | 6.00% | ~3,633 |
-| Seriously?! | 6.00% | ~3,633 |
-| For the Glory | 5.00% | ~3,028 |
-| Cold War | 4.00% | ~2,422 |
-| True Catholic | 4.00% | ~2,422 |
-| Defender of the Faith | 3.00% | ~1,817 |
-| It's all about the money | 3.00% | ~1,817 |
-| Respected | 3.00% | ~1,817 |
-| Truly Divine Ruler | 3.00% | ~1,817 |
-| Agressive Expander | 2.00% | ~1,211 |
-| Blockader | 2.00% | ~1,211 |
-| Combined Arms | 2.00% | ~1,211 |
-| Double the Love | 2.00% | ~1,211 |
-| Gentle Persuasion | 2.00% | ~1,211 |
-| It's all about luck | 2.00% | ~1,211 |
-| My armies are invincible! | 2.00% | ~1,211 |
-| Queen of Conquest | 2.00% | ~1,211 |
-| Royal Authority | 2.00% | ~1,211 |
-| The Princess is in this Castle | 2.00% | ~1,211 |
-| Total Control | 2.00% | ~1,211 |
+| Until death do us apart | 9.00% | ~5,454 |
+| That's a Grand Army | 8.00% | ~4,848 |
+| That is mine! | 8.00% | ~4,848 |
+| Victorious! | 8.00% | ~4,848 |
+| Brothers in Arms | 6.00% | ~3,636 |
+| That's a Grand Navy | 6.00% | ~3,636 |
+| Seriously?! | 6.00% | ~3,636 |
+| For the Glory | 5.00% | ~3,030 |
+| Cold War | 4.00% | ~2,424 |
+| True Catholic | 4.00% | ~2,424 |
+| Defender of the Faith | 3.00% | ~1,818 |
+| It's all about the money | 3.00% | ~1,818 |
+| Respected | 3.00% | ~1,818 |
+| Truly Divine Ruler | 3.00% | ~1,818 |
+| Agressive Expander | 2.00% | ~1,212 |
+| Blockader | 2.00% | ~1,212 |
+| Combined Arms | 2.00% | ~1,212 |
+| Double the Love | 2.00% | ~1,212 |
+| Gentle Persuasion | 2.00% | ~1,212 |
+| It's all about luck | 2.00% | ~1,212 |
+| My armies are invincible! | 2.00% | ~1,212 |
+| Queen of Conquest | 2.00% | ~1,212 |
+| Royal Authority | 2.00% | ~1,212 |
+| The Princess is in this Castle | 2.00% | ~1,212 |
+| Total Control | 2.00% | ~1,212 |
 | All That's Thine Shall Be Mine | 1.00% | ~606 |
 | Azur semé de lis or | 1.00% | ~606 |
 | Bright Spark | 1.00% | ~606 |
@@ -42,14 +42,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~545 |
 | Isn't this the way to India? | 0.90% | ~545 |
 | Market Control | 0.90% | ~545 |
-| Down Under | 0.80% | ~484 |
-| Trustworthy | 0.80% | ~484 |
+| Down Under | 0.80% | ~485 |
+| Trustworthy | 0.80% | ~485 |
 | Electable! | 0.70% | ~424 |
-| All belongs to Mother Russia | 0.60% | ~363 |
-| At every continent | 0.60% | ~363 |
-| Early-Modern Warfare | 0.60% | ~363 |
-| Populists in Government | 0.60% | ~363 |
-| Time Bandit | 0.60% | ~363 |
+| All belongs to Mother Russia | 0.60% | ~364 |
+| At every continent | 0.60% | ~364 |
+| Early-Modern Warfare | 0.60% | ~364 |
+| Populists in Government | 0.60% | ~364 |
+| Time Bandit | 0.60% | ~364 |
 | One Family to Rule them All | 0.50% | ~303 |
 | Ruina Imperii | 0.50% | ~303 |
 | The pen is mightier than the sword | 0.50% | ~303 |
@@ -70,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~242 |
 | Tear Down This Wall | 0.40% | ~242 |
 | The Continuation of Diplomacy | 0.40% | ~242 |
-| Wonderful | 0.40% | ~242 |
 | A Decent Reserve | 0.30% | ~182 |
 | A Pile of Gold | 0.30% | ~182 |
 | Grand Duchy | 0.30% | ~182 |
@@ -81,10 +80,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~182 |
 | Traditional Player | 0.30% | ~182 |
 | Vasa or Wettin? | 0.30% | ~182 |
+| Wonderful | 0.30% | ~182 |
 | World Discoverer | 0.30% | ~182 |
 | A Protected Market | 0.20% | ~121 |
 | AAA Credit | 0.20% | ~121 |
 | An early Reich | 0.20% | ~121 |
+| Basileus | 0.20% | ~121 |
 | Center of Attention | 0.20% | ~121 |
 | Fine Financials | 0.20% | ~121 |
 | A Fine Goosestep | 0.20% | ~121 |
@@ -121,7 +122,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.10% | ~61 |
 | Baltic Crusader | 0.10% | ~61 |
 | These Banners need a Saga | 0.10% | ~61 |
-| Basileus | 0.10% | ~61 |
 | Basque in Glory | 0.10% | ~61 |
 | Bengal Tiger | 0.10% | ~61 |
 | Better than Napoleon | 0.10% | ~61 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,553 (Ranked 77)  
+Progressed: 60,596 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
-| 2023-06-24 | 60,553 | 0 |
+| 2023-06-24 | 60,596 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,984 (Ranked 27)  

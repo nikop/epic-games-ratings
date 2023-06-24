@@ -27,12 +27,12 @@ Rating: 4.47 (Ranked 593)
 | Close Quarters | 0.80% | ~25 |
 | Climbing the Ladder | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
+| Snake in the Grass | 0.70% | ~22 |
+| Brains of the Operation | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
-| Snake in the Grass | 0.60% | ~19 |
-| Brains of the Operation | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
@@ -40,6 +40,7 @@ Rating: 4.47 (Ranked 593)
 | Rigged to Blow | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Locomotion Commotion | 0.40% | ~12 |
+| Don't hold your breath | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
@@ -50,7 +51,6 @@ Rating: 4.47 (Ranked 593)
 | Eagle Eyed | 0.30% | ~9 |
 | Tinkerer | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
-| Don't hold your breath | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,115 (Ranked 144)  
+Progressed: 3,116 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
 | 2023-06-23 | 3,102 | 2 |
-| 2023-06-24 | 3,115 | 2 |
+| 2023-06-24 | 3,116 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

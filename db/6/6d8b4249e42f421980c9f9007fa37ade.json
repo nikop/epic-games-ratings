@@ -4,8 +4,8 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -482,9 +482,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -586,9 +586,9 @@
       "ID": "Epic_PickProps_50",
       "SetID": "ba1m2fc",
       "Name": "Deus Ex Machina",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -721,8 +721,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:03:48.3726492+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:03:10.8549536+00:00",
   "LastUpdate_AppInfo": "2023-06-22T04:57:05.5865299+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:57:15.680452+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:03:48.3726831+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:56:58.0699434+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:03:10.8549867+00:00"
 }

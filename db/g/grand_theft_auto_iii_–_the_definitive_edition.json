@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6798,
+  "EOS_Progressed": 6801,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4789,6 +4789,11 @@
       "Time": "2023-06-24T15:02:25.4592479+00:00",
       "NumProgressed": 6798,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-24T18:02:05.6617034+00:00",
+      "NumProgressed": 6801,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4800,7 +4805,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5642
+      "UsersEstimate": 5645
     },
     {
       "ID": "ACH02",
@@ -4808,7 +4813,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ACH03",
@@ -4824,7 +4829,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH05",
@@ -4872,7 +4877,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH11",
@@ -4982,9 +4987,9 @@
       "ID": "ACH24",
       "SetID": "552d41m",
       "Name": "Dirty Money",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 816
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH25",
@@ -5031,7 +5036,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6798,
+      "Progressed": 6801,
       "Completed": 39
     }
   ],
@@ -5039,8 +5044,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:02:41.8729228+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:02:05.6617029+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:58:24.5181368+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:02:41.8729586+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:57:52.6894657+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:02:05.6617394+00:00"
 }

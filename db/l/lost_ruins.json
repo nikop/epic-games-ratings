@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "TheTrio",
@@ -894,8 +894,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:07:20.8335278+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:05:52.7282238+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:38.2734684+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:00:41.9835098+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:07:20.8335552+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:59:30.2635176+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:05:52.7282507+00:00"
 }

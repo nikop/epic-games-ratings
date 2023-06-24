@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,049 |
-| Into the Unknown | 10.00% | ~58,227 |
-| First Shot | 10.00% | ~58,227 |
-| Herzlich Wilkommen! | 9.00% | ~52,404 |
-| Good Night & Good Luck | 9.00% | ~52,404 |
-| Sancho Panza | 8.00% | ~46,581 |
-| Under Pressure | 7.00% | ~40,759 |
-| On the Trail of the Enemy | 7.00% | ~40,759 |
-| Flag Burning | 7.00% | ~40,759 |
-| Oh, So This Is How It Works! | 7.00% | ~40,759 |
-| Night Hunter | 7.00% | ~40,759 |
-| Light in the Darkness | 6.00% | ~34,936 |
-| Get Outta My House! | 6.00% | ~34,936 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,936 |
-| Being All Social | 6.00% | ~34,936 |
-| Debris and Ashes | 5.00% | ~29,113 |
-| We Will Be Heard! | 5.00% | ~29,113 |
-| Known Associate | 5.00% | ~29,113 |
-| Tunnel Entrance | 5.00% | ~29,113 |
-| After the Fall | 5.00% | ~29,113 |
-| Can't Touch This! | 5.00% | ~29,113 |
-| Brush with Death | 4.00% | ~23,291 |
-| Going Down | 4.00% | ~23,291 |
-| Family First | 4.00% | ~23,291 |
-| Your World, Your Rules | 4.00% | ~23,291 |
-| Death From Afar | 4.00% | ~23,291 |
-| Terminal Headache | 4.00% | ~23,291 |
-| Slowpoke! | 4.00% | ~23,291 |
-| You're Going Down! | 3.00% | ~17,468 |
-| Tickets, Please! | 2.00% | ~11,645 |
-| Parkour Master | 2.00% | ~11,645 |
-| Combat Master | 2.00% | ~11,645 |
+| You Never Forget Your First... | 11.00% | ~64,053 |
+| Into the Unknown | 10.00% | ~58,230 |
+| First Shot | 10.00% | ~58,230 |
+| Herzlich Wilkommen! | 9.00% | ~52,407 |
+| Good Night & Good Luck | 9.00% | ~52,407 |
+| Sancho Panza | 8.00% | ~46,584 |
+| Under Pressure | 7.00% | ~40,761 |
+| On the Trail of the Enemy | 7.00% | ~40,761 |
+| Flag Burning | 7.00% | ~40,761 |
+| Oh, So This Is How It Works! | 7.00% | ~40,761 |
+| Night Hunter | 7.00% | ~40,761 |
+| Light in the Darkness | 6.00% | ~34,938 |
+| Get Outta My House! | 6.00% | ~34,938 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,938 |
+| Being All Social | 6.00% | ~34,938 |
+| Debris and Ashes | 5.00% | ~29,115 |
+| We Will Be Heard! | 5.00% | ~29,115 |
+| Known Associate | 5.00% | ~29,115 |
+| Tunnel Entrance | 5.00% | ~29,115 |
+| After the Fall | 5.00% | ~29,115 |
+| Can't Touch This! | 5.00% | ~29,115 |
+| Brush with Death | 4.00% | ~23,292 |
+| Going Down | 4.00% | ~23,292 |
+| Family First | 4.00% | ~23,292 |
+| Your World, Your Rules | 4.00% | ~23,292 |
+| Death From Afar | 4.00% | ~23,292 |
+| Terminal Headache | 4.00% | ~23,292 |
+| Slowpoke! | 4.00% | ~23,292 |
+| You're Going Down! | 3.00% | ~17,469 |
+| Tickets, Please! | 2.00% | ~11,646 |
+| Parkour Master | 2.00% | ~11,646 |
+| Combat Master | 2.00% | ~11,646 |
 | Municipal Services | 1.00% | ~5,823 |
 | Tube Map | 1.00% | ~5,823 |
 | Don Quixote | 1.00% | ~5,823 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~228 |
 | Connoisseur | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582,268 (Ranked 26)  
+Progressed: 582,296 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
 | 2023-06-23 | 581,953 | 57 |
-| 2023-06-24 | 582,268 | 57 |
+| 2023-06-24 | 582,296 | 57 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 40)  
-Sum: 18,596 (Ranked 56)  
+Sum: 18,601 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): -16
 | This game is Highly Recommended | 698 |
 | This game has Amazing Characters | 689 |
 | This game has Diverse Characters | 685 |
-| This game is Extremely Fun | 674 |
+| This game is Extremely Fun | 679 |
 | This game has Quickly Understood Controls | 648 |
 | This game has Amazing Storytelling | 640 |
 | This game is Relaxing | 628 |
@@ -322,4 +322,4 @@ Diff (max vs sum): -16
 | 2023-06-21 | 4.58 | - | 7,931 | 18,419 |
 | 2023-06-22 | 4.58 | - | 7,963 | 18,493 |
 | 2023-06-23 | 4.58 | - | 7,983 | 18,548 |
-| 2023-06-24 | 4.58 | - | 8,002 | 18,596 |
+| 2023-06-24 | 4.58 | - | 8,002 | 18,601 |

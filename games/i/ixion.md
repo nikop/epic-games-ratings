@@ -49,8 +49,8 @@ Rating: 4.57 (Ranked 441)
 | Tiqqun Unchained | 0.90% | ~25 |
 | You Had One Job... | 0.80% | ~22 |
 | Scientifically Accurate | 0.80% | ~22 |
+| Better Him Than Me | 0.70% | ~19 |
 | Gregor Spinoza | 0.70% | ~19 |
-| Better Him Than Me | 0.60% | ~16 |
 | Remember the Dead | 0.40% | ~11 |
 | Work Harder | 0.30% | ~8 |
 | Soylent Green | 0.30% | ~8 |

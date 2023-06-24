@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1723,
+  "EOS_Progressed": 1725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2606,6 +2606,11 @@
       "Time": "2023-06-24T17:05:04.2655051+00:00",
       "NumProgressed": 1723,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T18:04:10.250886+00:00",
+      "NumProgressed": 1725,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2617,7 +2622,7 @@
       "Name": "Aggressor",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AI_DRAW",
@@ -2649,7 +2654,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -2697,7 +2702,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2713,7 +2718,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "GRASSHOPPER",
@@ -2721,7 +2726,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "GUARD_MAKER",
@@ -2792,14 +2797,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1723,
+      "Progressed": 1725,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-24T17:05:04.2655043+00:00",
+  "LastChanged_Achievements": "2023-06-24T18:04:10.2508855+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:57:26.5283038+00:00",
-  "LastUpdate_Achievements": "2023-06-24T17:05:04.2655273+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:57:06.4832413+00:00",
+  "LastUpdate_Achievements": "2023-06-24T18:04:10.2509078+00:00"
 }
