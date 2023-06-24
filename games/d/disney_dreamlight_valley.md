@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,832 |
-| Photographer | 74.00% | ~3,683 |
-| Valley's Helper | 70.00% | ~3,484 |
-| Constructor | 59.00% | ~2,936 |
-| Renovator | 57.00% | ~2,837 |
-| Bestest Friend | 55.00% | ~2,737 |
-| Banker | 46.00% | ~2,289 |
-| Gardener | 36.00% | ~1,792 |
-| Generous | 27.00% | ~1,344 |
-| Chef Cook | 21.00% | ~1,045 |
+| Goofy's Investor | 77.00% | ~3,836 |
+| Photographer | 74.00% | ~3,687 |
+| Valley's Helper | 70.00% | ~3,487 |
+| Constructor | 59.00% | ~2,939 |
+| Renovator | 57.00% | ~2,840 |
+| Bestest Friend | 55.00% | ~2,740 |
+| Banker | 46.00% | ~2,292 |
+| Gardener | 36.00% | ~1,794 |
+| Generous | 27.00% | ~1,345 |
+| Chef Cook | 21.00% | ~1,046 |
 | Miner | 10.00% | ~498 |
-| Duty Bound | 7.00% | ~348 |
+| Duty Bound | 7.00% | ~349 |
 | Angler | 6.00% | ~299 |
 | Thorn Cleaner | 4.00% | ~199 |
 | Chit Chatter | 3.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,977 (Ranked 131)  
+Progressed: 4,982 (Ranked 131)  
 Completed: 151 (3.03%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,19 +38,19 @@ Completed: 151 (3.03%) (Ranked 54)
 | 2023-06-21 | 4,650 | 148 |
 | 2023-06-22 | 4,804 | 150 |
 | 2023-06-23 | 4,932 | 151 |
-| 2023-06-24 | 4,977 | 151 |
+| 2023-06-24 | 4,982 | 151 |
 ## Awards
 Max (Great for Beginners): 877  (Ranked 148)  
-Sum: 7,199 (Ranked 103)  
+Sum: 7,201 (Ranked 103)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 877 |
 | This game is Relaxing | 777 |
-| This game is Highly Recommended | 767 |
+| This game is Highly Recommended | 768 |
 | This game has Amazing Characters | 765 |
 | This game has Diverse Characters | 761 |
-| This game has Amazing Storytelling | 734 |
+| This game has Amazing Storytelling | 735 |
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 719 |
 | This game has a Creative Community | 598 |
@@ -168,3 +168,4 @@ Diff (max vs sum): 45
 | 2023-06-21 | 4.75 | - | 874 | 7,190 |
 | 2023-06-22 | 4.75 | - | 874 | 7,194 |
 | 2023-06-23 | 4.75 | - | 877 | 7,199 |
+| 2023-06-24 | 4.75 | - | 877 | 7,201 |

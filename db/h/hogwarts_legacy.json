@@ -4122,9 +4122,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281250,
+  "EOS_Progressed": 281254,
   "EOS_Completed": 410,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10907,6 +10907,11 @@
       "Time": "2023-06-24T07:05:26.1304799+00:00",
       "NumProgressed": 281250,
       "NumCompleted": 410
+    },
+    {
+      "Time": "2023-06-24T08:05:57.7134888+00:00",
+      "NumProgressed": 281254,
+      "NumCompleted": 410
     }
   ],
   "TotalAchievements": 45,
@@ -10982,7 +10987,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14062
+      "UsersEstimate": 14063
     },
     {
       "ID": "PFA_18",
@@ -11014,7 +11019,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_21",
@@ -11030,7 +11035,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "PFA_23",
@@ -11110,7 +11115,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_32",
@@ -11150,7 +11155,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_37",
@@ -11190,7 +11195,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_41",
@@ -11214,7 +11219,7 @@
       "Name": "Finishing Touches",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_44",
@@ -11230,7 +11235,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PFA_5",
@@ -11246,7 +11251,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25312
+      "UsersEstimate": 25313
     },
     {
       "ID": "PFA_7",
@@ -11277,7 +11282,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281250,
+      "Progressed": 281254,
       "Completed": 410
     }
   ],
@@ -11285,8 +11290,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-24T04:57:23.3479837+00:00",
-  "LastChanged_Achievements": "2023-06-24T07:05:26.1304786+00:00",
+  "LastChanged_Achievements": "2023-06-24T08:05:57.7134884+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:57:31.1130319+00:00",
-  "LastUpdate_Achievements": "2023-06-24T07:05:26.1305595+00:00"
+  "LastUpdate_Ratings": "2023-06-24T07:57:40.3591552+00:00",
+  "LastUpdate_Achievements": "2023-06-24T08:05:57.7135545+00:00"
 }

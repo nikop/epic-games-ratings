@@ -10,7 +10,7 @@ Rating: 3.82 (Ranked 934)
 | Moonbury Traveller | 64.00% | ~927 |
 | Rookie Chemist | 62.00% | ~898 |
 | Great Doctor | 51.00% | ~738 |
-| Dog Whisperer | 48.00% | ~695 |
+| Dog Whisperer | 49.00% | ~710 |
 | Friendly | 47.00% | ~681 |
 | The Capitalist | 43.00% | ~623 |
 | K.O.! | 42.00% | ~608 |

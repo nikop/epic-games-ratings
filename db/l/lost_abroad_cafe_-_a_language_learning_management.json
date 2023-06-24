@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -523,9 +523,9 @@
       "ID": "coffee_100",
       "SetID": "56hff7o",
       "Name": "Brew Master",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "coffee_50",
@@ -563,17 +563,17 @@
       "ID": "tea_100",
       "SetID": "56hff7o",
       "Name": "Tea Guru",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "tea_50",
       "SetID": "56hff7o",
       "Name": "Tea Master",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-06-24T07:05:22.1124382+00:00",
+  "LastChanged_Achievements": "2023-06-24T08:05:52.1233615+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:28.5027557+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:58:39.2807197+00:00",
-  "LastUpdate_Achievements": "2023-06-24T07:05:22.1124481+00:00"
+  "LastUpdate_Ratings": "2023-06-24T07:59:01.9551703+00:00",
+  "LastUpdate_Achievements": "2023-06-24T08:05:52.1233718+00:00"
 }

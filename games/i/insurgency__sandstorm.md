@@ -8,18 +8,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~19,841 |
 | Wallbanger | 5.00% | ~19,841 |
-| Exploitative | 4.00% | ~15,872 |
-| High Speed Low Drag | 4.00% | ~15,872 |
-| Wet Feet | 4.00% | ~15,872 |
-| Checkpoint Victory | 3.00% | ~11,904 |
-| Lucky | 3.00% | ~11,904 |
-| Stylin' | 3.00% | ~11,904 |
-| Turf War | 3.00% | ~11,904 |
-| Banged | 2.00% | ~7,936 |
-| First Blood | 2.00% | ~7,936 |
-| Flaccid Paralysis | 2.00% | ~7,936 |
-| Push Victory | 2.00% | ~7,936 |
-| Self-destructive | 2.00% | ~7,936 |
+| Exploitative | 4.00% | ~15,873 |
+| High Speed Low Drag | 4.00% | ~15,873 |
+| Wet Feet | 4.00% | ~15,873 |
+| Checkpoint Victory | 3.00% | ~11,905 |
+| Lucky | 3.00% | ~11,905 |
+| Stylin' | 3.00% | ~11,905 |
+| Turf War | 3.00% | ~11,905 |
+| Banged | 2.00% | ~7,937 |
+| First Blood | 2.00% | ~7,937 |
+| Flaccid Paralysis | 2.00% | ~7,937 |
+| Push Victory | 2.00% | ~7,937 |
+| Self-destructive | 2.00% | ~7,937 |
 | Blindfire | 1.00% | ~3,968 |
 | Efficient | 1.00% | ~3,968 |
 | Ruthless | 1.00% | ~3,968 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,571 |
 | Mount & Gun | 0.90% | ~3,571 |
 | Personal | 0.90% | ~3,571 |
-| Grounded | 0.80% | ~3,174 |
-| Play to Win | 0.80% | ~3,174 |
+| Grounded | 0.80% | ~3,175 |
+| Play to Win | 0.80% | ~3,175 |
 | #1 | 0.70% | ~2,778 |
 | Special Delivery | 0.70% | ~2,778 |
 | Firefight Victory | 0.60% | ~2,381 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~397 |
 | Road Hazard | 0.10% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,811 (Ranked 39)  
+Progressed: 396,829 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,14 +107,14 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-21 | 395,638 | 2 |
 | 2023-06-22 | 396,085 | 2 |
 | 2023-06-23 | 396,605 | 2 |
-| 2023-06-24 | 396,811 | 2 |
+| 2023-06-24 | 396,829 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 359  (Ranked 216)  
-Sum: 2,732 (Ranked 167)  
-Diff (max vs sum): 49  
+Max (Quickly Understood Controls): 361  (Ranked 215)  
+Sum: 2,734 (Ranked 167)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 359 |
+| This game has Quickly Understood Controls | 361 |
 | This game has Challenging Combat | 331 |
 | This game is Extremely Fun | 321 |
 | This game has Competitive Players | 318 |
@@ -287,3 +287,4 @@ Diff (max vs sum): 49
 | 2023-06-21 | 4.62 | - | 359 | 2,726 |
 | 2023-06-22 | 4.62 | - | 359 | 2,729 |
 | 2023-06-23 | 4.62 | - | 359 | 2,732 |
+| 2023-06-24 | 4.62 | - | 361 | 2,734 |

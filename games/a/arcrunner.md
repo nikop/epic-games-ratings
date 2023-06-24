@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Augmented | 2.00% | ~12 |
-| Challenge Accepted | 1.00% | ~6 |
+| Challenge Accepted | 2.00% | ~12 |
 | The City | 1.00% | ~6 |
 | Terminated I | 1.00% | ~6 |
 | Unlocked and Loaded | 1.00% | ~6 |
