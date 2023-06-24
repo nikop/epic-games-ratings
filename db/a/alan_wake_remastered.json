@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 73,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56087,
+  "EOS_Progressed": 56088,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5922,6 +5922,11 @@
       "Time": "2023-06-24T09:01:18.0373729+00:00",
       "NumProgressed": 56087,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-24T10:00:18.3828287+00:00",
+      "NumProgressed": 56088,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5941,7 +5946,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11217
+      "UsersEstimate": 11218
     },
     {
       "ID": "03",
@@ -6013,7 +6018,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "12",
@@ -6029,7 +6034,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "14",
@@ -6069,7 +6074,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "19",
@@ -6157,7 +6162,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "30",
@@ -6293,7 +6298,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "47",
@@ -6468,21 +6473,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56087,
+      "Progressed": 56088,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19555,
+      "Progressed": 19556,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-24T09:01:18.0373724+00:00",
+  "LastChanged_Achievements": "2023-06-24T10:00:18.3828283+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:58:06.5740044+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:01:18.0374687+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:57:37.0455104+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:00:18.3829072+00:00"
 }

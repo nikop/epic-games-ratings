@@ -113,8 +113,8 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-22 | 2,959 | 1 |
 | 2023-06-23 | 2,964 | 1 |
 ## Awards
-Max (Amazing Characters): 31  (Ranked 450)  
-Sum: 239 (Ranked 347)  
+Max (Amazing Characters): 31  (Ranked 451)  
+Sum: 239 (Ranked 348)  
 Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |

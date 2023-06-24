@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 894,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3812,9 +3812,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 237
     },
     {
       "ID": "missionsdedication",
@@ -3844,9 +3844,9 @@
       "ID": "mythicpower",
       "SetID": "3nl4bcg",
       "Name": "Mythic Power",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "naturaltalent",
@@ -4085,8 +4085,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-24T09:06:51.3362281+00:00",
+  "LastChanged_Achievements": "2023-06-24T10:05:47.0636061+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:58:26.0045368+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:06:51.3363207+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:57:54.3401569+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:05:47.0636783+00:00"
 }

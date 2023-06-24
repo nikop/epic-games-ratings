@@ -6,30 +6,30 @@
 | ---- | ---------- | ----- |
 | Augmented | 2.00% | ~12 |
 | Challenge Accepted | 2.00% | ~12 |
-| The City | 1.00% | ~6 |
-| Terminated I | 1.00% | ~6 |
-| Unlocked and Loaded | 1.00% | ~6 |
+| The City | 2.00% | ~12 |
+| Terminated I | 2.00% | ~12 |
+| Unlocked and Loaded | 2.00% | ~12 |
+| Challenge Mastered | 1.00% | ~6 |
+| Nanonic I | 1.00% | ~6 |
+| Terminated II | 1.00% | ~6 |
 | Cybernetic | 0.80% | ~5 |
-| Nanonic I | 0.80% | ~5 |
 | Nanonic III | 0.80% | ~5 |
-| Terminated II | 0.80% | ~5 |
 | Terminated III | 0.80% | ~5 |
-| Challenge Mastered | 0.70% | ~4 |
 | Integration | 0.70% | ~4 |
+| Nanonic II | 0.70% | ~4 |
 | Supply Run | 0.70% | ~4 |
 | The Bigger They Are | 0.50% | ~3 |
 | Inner Core | 0.50% | ~3 |
-| Nanonic II | 0.50% | ~3 |
 | Outer Core | 0.50% | ~3 |
 | Rookie | 0.50% | ~3 |
 | Starship Docks | 0.30% | ~2 |
+| Destruction | 0.20% | ~1 |
+| Hard Boiled | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
 | Up Close And Personal | 0.20% | ~1 |
 | Cyborg | 0.00% | ~0 |
-| Destruction | 0.00% | ~0 |
 | Eden Heights | 0.00% | ~0 |
 | Fully Modded | 0.00% | ~0 |
-| Hard Boiled | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |

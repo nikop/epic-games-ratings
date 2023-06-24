@@ -3,11 +3,11 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 861,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38736,
+  "EOS_Progressed": 38737,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4367,6 +4367,11 @@
       "Time": "2023-06-24T09:06:51.6545529+00:00",
       "NumProgressed": 38736,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-24T10:05:47.5155639+00:00",
+      "NumProgressed": 38737,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -4801,22 +4806,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38736,
+      "Progressed": 38737,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3573,
-      "Completed": 3573
+      "Progressed": 3574,
+      "Completed": 3574
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-22T22:59:32.4480046+00:00",
-  "LastChanged_Achievements": "2023-06-24T09:06:51.6545523+00:00",
+  "LastChanged_Achievements": "2023-06-24T10:05:47.5155635+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.557796+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:58:54.5940887+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:06:51.65462+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:58:20.2609596+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:05:47.5156177+00:00"
 }

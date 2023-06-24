@@ -25,20 +25,20 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~309 |
 | Like a Machine | 2.00% | ~309 |
 | Trade Baron | 2.00% | ~309 |
-| Serving Ale | 1.00% | ~154 |
-| Refinery | 1.00% | ~154 |
-| Against All Odds | 1.00% | ~154 |
-| Ruined Armory | 1.00% | ~154 |
-| Dangerous Lands | 1.00% | ~154 |
-| Haunted Forest | 1.00% | ~154 |
-| Levitating Monument | 1.00% | ~154 |
-| Flooded Mines | 1.00% | ~154 |
-| Monastery of the Holy Flame | 1.00% | ~154 |
-| Royal Outpost | 1.00% | ~154 |
-| Statue of the Forefathers | 1.00% | ~154 |
-| Forsaken Gods Temple | 1.00% | ~154 |
-| Corrosive Torrent | 1.00% | ~154 |
-| Into the Forest | 1.00% | ~154 |
+| Serving Ale | 1.00% | ~155 |
+| Refinery | 1.00% | ~155 |
+| Against All Odds | 1.00% | ~155 |
+| Ruined Armory | 1.00% | ~155 |
+| Dangerous Lands | 1.00% | ~155 |
+| Haunted Forest | 1.00% | ~155 |
+| Levitating Monument | 1.00% | ~155 |
+| Flooded Mines | 1.00% | ~155 |
+| Monastery of the Holy Flame | 1.00% | ~155 |
+| Royal Outpost | 1.00% | ~155 |
+| Statue of the Forefathers | 1.00% | ~155 |
+| Forsaken Gods Temple | 1.00% | ~155 |
+| Corrosive Torrent | 1.00% | ~155 |
+| Into the Forest | 1.00% | ~155 |
 | Forbidden Lands | 0.90% | ~139 |
 | Defying the Crown | 0.90% | ~139 |
 | Fishmen Ritual Site | 0.70% | ~108 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,450 (Ranked 106)  
+Progressed: 15,451 (Ranked 106)  
 Completed: 38 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,11 +122,11 @@ Completed: 38 (0.25%) (Ranked 149)
 | 2023-06-21 | 15,416 | 38 |
 | 2023-06-22 | 15,423 | 38 |
 | 2023-06-23 | 15,444 | 38 |
-| 2023-06-24 | 15,450 | 38 |
+| 2023-06-24 | 15,451 | 38 |
 ## Awards
-Max (Quickly Understood Controls): 418  (Ranked 199)  
+Max (Quickly Understood Controls): 418  (Ranked 200)  
 Sum: 3,053 (Ranked 155)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 418 |

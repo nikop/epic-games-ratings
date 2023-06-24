@@ -3,12 +3,12 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 945,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1698,
+  "EOS_Progressed": 1699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1966,6 +1966,11 @@
       "Time": "2023-06-24T09:04:19.1311876+00:00",
       "NumProgressed": 1698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T10:03:40.3923141+00:00",
+      "NumProgressed": 1699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2001,7 +2006,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Achievement_006",
@@ -2025,7 +2030,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Achievement_009",
@@ -2041,7 +2046,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Achievement_011",
@@ -2113,7 +2118,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "Achievement_020",
@@ -2169,7 +2174,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "Achievement_027",
@@ -2177,7 +2182,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Achievement_028",
@@ -2193,7 +2198,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "Achievement_030",
@@ -2201,15 +2206,15 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 714
     },
     {
       "ID": "Achievement_032",
@@ -2233,7 +2238,7 @@
       "Name": "Catch and Release",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "Achievement_035",
@@ -2281,7 +2286,7 @@
       "Name": "Heart Attack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Achievement_041",
@@ -2313,7 +2318,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Achievement_046",
@@ -2504,7 +2509,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1698,
+      "Progressed": 1699,
       "Completed": 0
     }
   ],
@@ -2512,8 +2517,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-22T21:58:24.9023254+00:00",
-  "LastChanged_Achievements": "2023-06-24T09:04:19.1311872+00:00",
+  "LastChanged_Achievements": "2023-06-24T10:03:40.3923136+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:28.9867387+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:58:14.6819746+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:04:19.1312565+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:57:44.3905321+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:03:40.3923737+00:00"
 }

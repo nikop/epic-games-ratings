@@ -4,8 +4,8 @@
 Rating: 4.59 (Ranked 412)  
 Number of Ratings: 481  (23.09.2022)  
 ## Awards
-Max (Educational): 45  (Ranked 407)  
-Sum: 197 (Ranked 358)  
+Max (Educational): 45  (Ranked 408)  
+Sum: 197 (Ranked 359)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |

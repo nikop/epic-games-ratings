@@ -19,12 +19,12 @@ Rating: 4.77 (Ranked 107)
 | Loom for Improvement | 7.00% | ~19,688 |
 | A Talent for Spending | 7.00% | ~19,688 |
 | Coasting Along | 7.00% | ~19,688 |
-| The Avenging Gazelle | 6.00% | ~16,875 |
-| A Sallow Grave | 6.00% | ~16,875 |
-| Flight the Good Flight | 6.00% | ~16,875 |
-| Followed the Butterflies | 6.00% | ~16,875 |
-| The Spell Master | 6.00% | ~16,875 |
-| Rising From the Ashes | 6.00% | ~16,875 |
+| The Avenging Gazelle | 6.00% | ~16,876 |
+| A Sallow Grave | 6.00% | ~16,876 |
+| Flight the Good Flight | 6.00% | ~16,876 |
+| Followed the Butterflies | 6.00% | ~16,876 |
+| The Spell Master | 6.00% | ~16,876 |
+| Rising From the Ashes | 6.00% | ~16,876 |
 | Beast Friends | 5.00% | ~14,063 |
 | The Seeker of Knowledge | 4.00% | ~11,250 |
 | The Root of the Problem | 4.00% | ~11,250 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,257 (Ranked 41)  
+Progressed: 281,261 (Ranked 41)  
 Completed: 410 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,10 +116,10 @@ Completed: 410 (0.15%) (Ranked 165)
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
 | 2023-06-23 | 281,209 | 409 |
-| 2023-06-24 | 281,257 | 410 |
+| 2023-06-24 | 281,261 | 410 |
 ## Awards
 Max (Character Customization): 20,298  (Ranked 17)  
-Sum: 37,721 (Ranked 30)  
+Sum: 37,724 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -128,8 +128,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 861 |
 | This game is Relaxing | 847 |
 | This game is Extremely Fun | 845 |
+| This game has Amazing Storytelling | 833 |
 | This game has Diverse Characters | 830 |
-| This game has Amazing Storytelling | 830 |
 | This game has Amazing Characters | 811 |
 | This game is Highly Recommended | 791 |
 | This game has Quickly Understood Controls | 744 |
@@ -230,4 +230,4 @@ Diff (max vs sum): -13
 | 2023-06-21 | 4.77 | 20,236 | 37,558 |
 | 2023-06-22 | 4.77 | 20,270 | 37,641 |
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
-| 2023-06-24 | 4.77 | 20,298 | 37,721 |
+| 2023-06-24 | 4.77 | 20,298 | 37,724 |

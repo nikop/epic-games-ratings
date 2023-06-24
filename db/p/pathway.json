@@ -3,12 +3,12 @@
   "Name": "Pathway",
   "ProductSlug": "pathway",
   "Ranking_Rating": 619,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -487,6 +487,6 @@
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
   "LastChanged": "2023-05-25T03:00:12.0054402+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:55.6941984+00:00",
-  "LastUpdate_Ratings": "2023-06-24T09:01:10.9912921+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:06:18.7999601+00:00"
+  "LastUpdate_Ratings": "2023-06-24T10:00:11.2004988+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:05:19.3070185+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "The Textorcist: The Story of Ray Bibbia",
   "ProductSlug": "the-textorcist",
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-11-12T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -304,6 +304,6 @@
   "FirstSeen": "2022-07-22T20:21:57.7786659+00:00",
   "LastChanged": "2023-06-01T00:00:07.9771702+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:27.1037743+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:59:58.4070543+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:04:34.0795185+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:59:10.5581399+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:03:52.6540712+00:00"
 }

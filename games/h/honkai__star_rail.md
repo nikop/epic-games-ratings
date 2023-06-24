@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/honkai-star-rail)  
 [View Rawdata](../../db/h/honkai__star_rail.json)  
 Rating: 4.70 (Ranked 196)  
+## Awards
+Max (Character Customization): 531  (Ranked 186)  
+Sum: 531 (Ranked 293)  
+Diff (max vs sum): -107  
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 531 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +23,4 @@ Rating: 4.70 (Ranked 196)
 | 2023-05-28 | 4.68 | 0 | 0 |
 | 2023-06-18 | 4.69 | 0 | 0 |
 | 2023-06-20 | 4.70 | 0 | 0 |
+| 2023-06-24 | 4.70 | 531 | 531 |

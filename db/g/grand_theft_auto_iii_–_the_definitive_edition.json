@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 499,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -334,7 +334,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6793,
+  "EOS_Progressed": 6794,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
@@ -4774,6 +4774,11 @@
       "Time": "2023-06-24T08:02:30.574482+00:00",
       "NumProgressed": 6793,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-24T10:02:08.7541432+00:00",
+      "NumProgressed": 6794,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4785,7 +4790,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "ACH02",
@@ -4809,7 +4814,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "ACH05",
@@ -4905,7 +4910,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACH17",
@@ -5016,7 +5021,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6793,
+      "Progressed": 6794,
       "Completed": 39
     }
   ],
@@ -5024,8 +5029,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-24T09:01:43.472938+00:00",
+  "LastChanged_Achievements": "2023-06-24T10:02:08.7541428+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:58:17.8350649+00:00",
-  "LastUpdate_Achievements": "2023-06-24T09:01:43.4729828+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:57:46.9914495+00:00",
+  "LastUpdate_Achievements": "2023-06-24T10:02:08.7541786+00:00"
 }

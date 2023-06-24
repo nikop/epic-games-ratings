@@ -81,12 +81,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 21.00% | ~2,574 |
 | Via Recta Souk | 21.00% | ~2,574 |
 | Mighty | 20.00% | ~2,451 |
+| Circus Maximus | 20.00% | ~2,451 |
 | Hagia Sophia | 20.00% | ~2,451 |
 | Dualism | 20.00% | ~2,451 |
 | Legionary | 20.00% | ~2,451 |
 | Victorious | 19.00% | ~2,328 |
 | Statesmen | 19.00% | ~2,328 |
-| Circus Maximus | 19.00% | ~2,328 |
 | Adur Burzen-Mihr | 19.00% | ~2,328 |
 | Economic Reform | 19.00% | ~2,328 |
 | Cimmerian Archer | 19.00% | ~2,328 |
@@ -359,9 +359,9 @@ Completed: 4 (0.03%) (Ranked 201)
 | 2023-06-23 | 12,245 | 4 |
 | 2023-06-24 | 12,255 | 4 |
 ## Awards
-Max (Relaxing): 218  (Ranked 253)  
+Max (Relaxing): 218  (Ranked 254)  
 Sum: 1,773 (Ranked 203)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

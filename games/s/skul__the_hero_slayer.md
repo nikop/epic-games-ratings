@@ -93,9 +93,9 @@ Completed: 12 (0.15%) (Ranked 165)
 | 2023-06-22 | 7,850 | 12 |
 | 2023-06-23 | 7,854 | 12 |
 ## Awards
-Max (Diverse Characters): 115  (Ranked 313)  
+Max (Diverse Characters): 115  (Ranked 314)  
 Sum: 764 (Ranked 258)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 119 |

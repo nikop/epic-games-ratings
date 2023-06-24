@@ -133,8 +133,8 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-23 | 1,327 | 0 |
 | 2023-06-24 | 1,328 | 0 |
 ## Awards
-Max (Highly Recommended): 39  (Ranked 420)  
-Sum: 269 (Ranked 339)  
+Max (Highly Recommended): 39  (Ranked 421)  
+Sum: 269 (Ranked 340)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |

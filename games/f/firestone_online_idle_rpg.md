@@ -16,8 +16,8 @@ Rating: 4.07 (Ranked 894)
 | Exotic Merchant | 17.00% | ~252 |
 | Dragon Clicker | 16.00% | ~237 |
 | Inspection | 16.00% | ~237 |
+| Miner Clicker | 16.00% | ~237 |
 | Full Party | 15.00% | ~222 |
-| Miner Clicker | 15.00% | ~222 |
 | Dragon Master | 13.00% | ~193 |
 | Enlightenment | 13.00% | ~193 |
 | Hero inspection | 13.00% | ~193 |
@@ -62,7 +62,7 @@ Rating: 4.07 (Ranked 894)
 | Legendary | 2.00% | ~30 |
 | The Alchemist | 2.00% | ~30 |
 | What lies behind the bush | 2.00% | ~30 |
-| Mythic Power | 0.80% | ~12 |
+| Mythic Power | 0.90% | ~13 |
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~9 |
 | Pokerface | 0.50% | ~7 |

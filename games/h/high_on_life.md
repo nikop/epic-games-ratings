@@ -5,12 +5,12 @@ Rating: 4.66 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,024 |
-| Mods Please Ban | 77.00% | ~17,649 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,420 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,732 |
-| First Bounty Down | 59.00% | ~13,523 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,065 |
+| Eye Scream, You Scream | 83.00% | ~19,025 |
+| Mods Please Ban | 77.00% | ~17,650 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,421 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,733 |
+| First Bounty Down | 59.00% | ~13,524 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,066 |
 | Luglox Genocide | 43.00% | ~9,856 |
 | Playing Card To Get | 33.00% | ~7,564 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,564 |
@@ -28,17 +28,17 @@ Rating: 4.66 (Ranked 272)
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,584 |
 | Self-Actualization | 19.00% | ~4,355 |
 | Legendary Bounty Hunter | 18.00% | ~4,126 |
-| Seeing All The Sights | 16.00% | ~3,667 |
+| Seeing All The Sights | 16.00% | ~3,668 |
 | Carried Stan's Load To Completion | 13.00% | ~2,980 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,751 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,063 |
 | Sequel-Bait | 8.00% | ~1,834 |
-| Gunning For Your Job | 7.00% | ~1,604 |
+| Gunning For Your Job | 7.00% | ~1,605 |
 | Playing Favorites | 6.00% | ~1,375 |
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,921 (Ranked 96)  
+Progressed: 22,922 (Ranked 96)  
 Completed: 8 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 8 (0.03%) (Ranked 201)
 | 2023-06-21 | 22,913 | 8 |
 | 2023-06-22 | 22,916 | 8 |
 | 2023-06-23 | 22,919 | 8 |
-| 2023-06-24 | 22,921 | 8 |
+| 2023-06-24 | 22,922 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

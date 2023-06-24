@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,879 |
-| Un-Lonely Island | 48.00% | ~1,818 |
-| The Beginning of a Servantship | 45.00% | ~1,705 |
-| Trade Is My Trait | 37.00% | ~1,402 |
-| Number 18 | 24.00% | ~909 |
-| We Don't Have Time For That | 20.00% | ~758 |
+| Just One...More...Term... | 76.00% | ~2,881 |
+| Un-Lonely Island | 48.00% | ~1,820 |
+| The Beginning of a Servantship | 45.00% | ~1,706 |
+| Trade Is My Trait | 37.00% | ~1,403 |
+| Number 18 | 24.00% | ~910 |
+| We Don't Have Time For That | 19.00% | ~720 |
 | The Governator | 18.00% | ~682 |
 | The Legend of Langostino | 17.00% | ~644 |
-| Caribbean Comrade | 16.00% | ~606 |
-| The Dreamer of Dreams | 16.00% | ~606 |
+| Caribbean Comrade | 16.00% | ~607 |
+| The Dreamer of Dreams | 16.00% | ~607 |
 | Happy Ending? | 11.00% | ~417 |
 | Go Sovereigns! | 11.00% | ~417 |
 | For Science! | 11.00% | ~417 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~227 |
 | I Owe You Nothing | 6.00% | ~227 |
 | Watch The World Burn | 6.00% | ~227 |
-| Viva Tropico! | 5.00% | ~189 |
-| Computer Says "No" | 5.00% | ~189 |
-| Fairy Tale Come True | 5.00% | ~189 |
+| Viva Tropico! | 5.00% | ~190 |
+| Computer Says "No" | 5.00% | ~190 |
+| Fairy Tale Come True | 5.00% | ~190 |
 | Apocalypso | 4.00% | ~152 |
 | Been there, Done That | 3.00% | ~114 |
 | Narcissist | 3.00% | ~114 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~76 |
 | Curse of the Mummy | 2.00% | ~76 |
 | From Knight to Little Duck | 1.00% | ~38 |
-| Survivor | 1.00% | ~38 |
+| Survivor | 0.90% | ~34 |
 | My Ways | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,788 (Ranked 138)  
+Progressed: 3,791 (Ranked 138)  
 Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,11 +112,11 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-21 | 3,753 | 1 |
 | 2023-06-22 | 3,765 | 1 |
 | 2023-06-23 | 3,783 | 1 |
-| 2023-06-24 | 3,788 | 1 |
+| 2023-06-24 | 3,791 | 1 |
 ## Awards
-Max (Quickly Understood Controls): 93  (Ranked 339)  
+Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 657 (Ranked 278)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
