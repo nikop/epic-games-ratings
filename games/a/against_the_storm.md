@@ -18,6 +18,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 2.00% | ~309 |
 | Fertile Meadows | 2.00% | ~309 |
 | Lost Colonies | 2.00% | ~309 |
+| Watchtower | 2.00% | ~309 |
 | Coral Forest | 2.00% | ~309 |
 | Cursed Lands | 2.00% | ~309 |
 | The Scarlet Orchard | 2.00% | ~309 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 1.00% | ~154 |
 | Forsaken Gods Temple | 1.00% | ~154 |
 | Corrosive Torrent | 1.00% | ~154 |
-| Watchtower | 1.00% | ~154 |
 | Into the Forest | 1.00% | ~154 |
 | Forbidden Lands | 0.90% | ~139 |
 | Defying the Crown | 0.90% | ~139 |

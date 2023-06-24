@@ -1,21 +1,21 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 592)  
+Rating: 4.47 (Ranked 593)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 2.00% | ~62 |
 | Confirming Suspicions | 2.00% | ~62 |
+| The Kraken Wakes | 2.00% | ~62 |
 | It's Starting to Crack | 2.00% | ~62 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
-| Meeting Resistance | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
 | Explosive Efficiency | 1.00% | ~31 |
 | Lord of War | 1.00% | ~31 |
 | Resourceful | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
-| The Kraken Wakes | 1.00% | ~31 |
 | Change the Channel | 1.00% | ~31 |
 | Taking it back | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 592)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,106 (Ranked 144)  
+Progressed: 3,109 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-21 | 3,073 | 2 |
 | 2023-06-22 | 3,087 | 2 |
 | 2023-06-23 | 3,102 | 2 |
-| 2023-06-24 | 3,106 | 2 |
+| 2023-06-24 | 3,109 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -563,9 +563,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 486
     },
     {
       "ID": "Achievement_Improvinator",
@@ -748,8 +748,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:04:39.8994175+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:04:33.2127113+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:43.3448465+00:00",
-  "LastUpdate_Ratings": "2023-06-24T07:59:15.0874022+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:04:39.8994539+00:00"
+  "LastUpdate_Ratings": "2023-06-24T08:59:18.6981835+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:04:33.2127418+00:00"
 }

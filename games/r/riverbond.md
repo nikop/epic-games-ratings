@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 592)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,11 +9,11 @@ Number of Ratings: 617  (23.09.2022)
 | First Step | 70.00% | ~364,192 |
 | Now You're Talking | 62.00% | ~322,570 |
 | Steel Yourself | 62.00% | ~322,570 |
-| Window Dressing | 50.00% | ~260,137 |
+| Window Dressing | 50.00% | ~260,138 |
 | Trigger Happy | 46.00% | ~239,326 |
-| Riverborn | 45.00% | ~234,123 |
-| Starry Eyed | 34.00% | ~176,893 |
-| Poking Around | 34.00% | ~176,893 |
+| Riverborn | 45.00% | ~234,124 |
+| Starry Eyed | 34.00% | ~176,894 |
+| Poking Around | 34.00% | ~176,894 |
 | Talk of the Town | 24.00% | ~124,866 |
 | AAARR! | 23.00% | ~119,663 |
 | Hello Darkness | 23.00% | ~119,663 |
@@ -26,8 +26,8 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~67,636 |
 | Going on an Adventure | 11.00% | ~57,230 |
 | Make Peace, Not War | 11.00% | ~57,230 |
-| Walking The Line | 10.00% | ~52,027 |
-| Not So Cute Anymore | 10.00% | ~52,027 |
+| Walking The Line | 10.00% | ~52,028 |
+| Not So Cute Anymore | 10.00% | ~52,028 |
 | Road Less Travelled | 9.00% | ~46,825 |
 | Lost and Found | 9.00% | ~46,825 |
 | Partner in Crime | 7.00% | ~36,419 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,608 |
 | Spinal Adjustment | 3.00% | ~15,608 |
 | The Knowledge | 3.00% | ~15,608 |
-| Seek the Rainbow | 2.00% | ~10,405 |
-| Words of Truth | 2.00% | ~10,405 |
-| Star Power | 2.00% | ~10,405 |
-| Justice Served | 2.00% | ~10,405 |
+| Seek the Rainbow | 2.00% | ~10,406 |
+| Words of Truth | 2.00% | ~10,406 |
+| Star Power | 2.00% | ~10,406 |
+| Justice Served | 2.00% | ~10,406 |
 | Don't Care | 1.00% | ~5,203 |
 | Don’t Get Crabby | 1.00% | ~5,203 |
 | Written in the Stars | 0.90% | ~4,682 |
 | Boss of All Bosses | 0.30% | ~1,561 |
 | Point Taken | 0.10% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520,274 (Ranked 29)  
+Progressed: 520,275 (Ranked 29)  
 Completed: 432 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 432 (0.08%) (Ranked 183)
 | 2023-06-21 | 520,072 | 432 |
 | 2023-06-22 | 520,141 | 432 |
 | 2023-06-23 | 520,245 | 432 |
-| 2023-06-24 | 520,274 | 432 |
+| 2023-06-24 | 520,275 | 432 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

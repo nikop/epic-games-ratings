@@ -11,7 +11,7 @@
 | Never Give Up | 39.00% | ~174 |
 | Tasty | 36.00% | ~161 |
 | Lullaby | 32.00% | ~143 |
-| You Can Pet The Fox | 29.00% | ~130 |
+| You Can Pet The Fox | 30.00% | ~134 |
 | Hard Fox Life | 24.00% | ~107 |
 | Never Let Down | 23.00% | ~103 |
 | A Barking Fox Doesn't Bite | 21.00% | ~94 |

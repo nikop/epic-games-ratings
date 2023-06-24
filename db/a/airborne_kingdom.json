@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6682,
+  "EOS_Progressed": 6683,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2163,6 +2163,11 @@
       "Time": "2023-06-24T08:06:44.6677571+00:00",
       "NumProgressed": 6682,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-24T09:06:37.2737805+00:00",
+      "NumProgressed": 6683,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2182,7 +2187,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -2206,7 +2211,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2230,7 +2235,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2238,7 +2243,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2254,7 +2259,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2278,7 +2283,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -2302,7 +2307,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -2389,15 +2394,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6682,
+      "Progressed": 6683,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:06:44.6677566+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:06:37.27378+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:55.11484+00:00",
-  "LastUpdate_Ratings": "2023-06-24T07:57:48.0599614+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:06:44.6677872+00:00"
+  "LastUpdate_Ratings": "2023-06-24T08:57:50.4392076+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:06:37.2738104+00:00"
 }

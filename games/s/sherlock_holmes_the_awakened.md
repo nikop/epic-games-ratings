@@ -18,7 +18,7 @@ Rating: 4.62 (Ranked 346)
 | Open Sesame | 45.00% | ~221 |
 | Sticky Fingers | 45.00% | ~221 |
 | Knives Out | 45.00% | ~221 |
-| Back In The Saddle | 43.00% | ~212 |
+| Back In The Saddle | 44.00% | ~216 |
 | Land, Ho! | 43.00% | ~212 |
 | No Man Is An Island | 42.00% | ~207 |
 | At Wits' End | 41.00% | ~202 |
@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 346)
 | Let Me Be Frank | 36.00% | ~177 |
 | Brain Food | 33.00% | ~162 |
 | No Stone Unturned | 33.00% | ~162 |
-| Curiosity Killed The Cat | 20.00% | ~98 |
+| Curiosity Killed The Cat | 21.00% | ~103 |
 | Read It And Weep | 20.00% | ~98 |
 | Big Breakthrough | 15.00% | ~74 |
 | Reawakened | 6.00% | ~30 |

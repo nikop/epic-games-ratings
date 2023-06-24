@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:07:01.2239792+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:06:53.8404765+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:54.4063735+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:01:07.6560344+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:07:01.2240317+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:01:09.7933078+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:06:53.8405304+00:00"
 }

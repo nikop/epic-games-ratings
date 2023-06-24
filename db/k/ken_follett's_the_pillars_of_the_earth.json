@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13459,
+  "EOS_Progressed": 13460,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2023-06-24T05:05:43.2958158+00:00",
       "NumProgressed": 13459,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-24T09:06:35.219384+00:00",
+      "NumProgressed": 13460,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4780,7 +4785,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "tpote_achievement_10",
@@ -4852,7 +4857,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "tpote_achievement_19",
@@ -4884,7 +4889,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "tpote_achievement_22",
@@ -4908,7 +4913,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "tpote_achievement_25",
@@ -4956,7 +4961,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4441
+      "UsersEstimate": 4442
     },
     {
       "ID": "tpote_achievement_30",
@@ -5044,7 +5049,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5518
+      "UsersEstimate": 5519
     },
     {
       "ID": "tpote_achievement_40",
@@ -5107,15 +5112,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13459,
+      "Progressed": 13460,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:06:42.5197692+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:06:35.2193836+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:00:32.4839169+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:06:42.5198249+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:00:32.7021379+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:06:35.2194386+00:00"
 }

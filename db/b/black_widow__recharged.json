@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15578,
+  "EOS_Progressed": 15580,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5521,6 +5521,11 @@
       "Time": "2023-06-24T08:06:44.2306069+00:00",
       "NumProgressed": 15578,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-24T09:06:36.8376704+00:00",
+      "NumProgressed": 15580,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -5532,7 +5537,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12307
+      "UsersEstimate": 12308
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -5548,7 +5553,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -5572,7 +5577,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -5588,7 +5593,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8256
+      "UsersEstimate": 8257
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -5596,7 +5601,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -5634,24 +5639,24 @@
       "ID": "ACH_WILD_WEST_HERO",
       "SetID": "1blkama",
       "Name": "Wild West Hero",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2181
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15578,
+      "Progressed": 15580,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:06:44.2306064+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:06:36.8376698+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:38.5237346+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:00:55.1885302+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:06:44.2306473+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:00:55.5154828+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:06:36.8377119+00:00"
 }

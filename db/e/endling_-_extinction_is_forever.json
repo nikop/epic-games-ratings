@@ -642,9 +642,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "TROP025",
@@ -683,8 +683,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:04:21.8023135+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:04:15.3967061+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:46.9423644+00:00",
-  "LastUpdate_Ratings": "2023-06-24T07:59:18.829518+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:04:21.8023347+00:00"
+  "LastUpdate_Ratings": "2023-06-24T08:59:21.862164+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:04:15.3967281+00:00"
 }

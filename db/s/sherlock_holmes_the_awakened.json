@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1621,9 +1621,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ02_4",
@@ -1709,9 +1709,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "MQ05_3",
@@ -1822,8 +1822,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-17T15:57:18.7477339+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:05:19.3141001+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:05:13.3036431+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:15.3661664+00:00",
-  "LastUpdate_Ratings": "2023-06-24T07:57:33.4174024+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:05:19.3141292+00:00"
+  "LastUpdate_Ratings": "2023-06-24T08:57:37.8194765+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:05:13.3036702+00:00"
 }

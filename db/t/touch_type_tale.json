@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3020,
+  "EOS_Progressed": 3021,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2274,6 +2274,11 @@
       "Time": "2023-06-24T06:01:45.453936+00:00",
       "NumProgressed": 3020,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-24T09:01:12.2321261+00:00",
+      "NumProgressed": 3021,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2333,7 +2338,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "campaign10",
@@ -2421,7 +2426,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "campaign20",
@@ -2437,7 +2442,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "campaign4",
@@ -2445,7 +2450,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "campaign5",
@@ -2453,7 +2458,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "campaign6",
@@ -2493,7 +2498,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "scenario2",
@@ -2548,7 +2553,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3020,
+      "Progressed": 3021,
       "Completed": 10
     }
   ],
@@ -2556,8 +2561,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-24T07:00:21.9186672+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:01:12.2321252+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.8425638+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:00:45.3986223+00:00",
-  "LastUpdate_Achievements": "2023-06-24T07:00:21.9187143+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:00:45.2491482+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:01:12.2322005+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -278,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-06-24T08:06:51.2804998+00:00",
+  "LastChanged_Achievements": "2023-06-24T09:06:44.345354+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:38.69903+00:00",
-  "LastUpdate_Ratings": "2023-06-24T08:00:55.4980825+00:00",
-  "LastUpdate_Achievements": "2023-06-24T08:06:51.2805196+00:00"
+  "LastUpdate_Ratings": "2023-06-24T09:00:55.688642+00:00",
+  "LastUpdate_Achievements": "2023-06-24T09:06:44.3453681+00:00"
 }

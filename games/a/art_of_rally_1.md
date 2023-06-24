@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,745 |
-| keep it tidy | 77.00% | ~7,816 |
+| light attack | 96.00% | ~9,746 |
+| keep it tidy | 77.00% | ~7,817 |
 | podium | 72.00% | ~7,309 |
-| medium attack | 59.00% | ~5,989 |
+| medium attack | 59.00% | ~5,990 |
 | brail | 56.00% | ~5,685 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,060 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,061 |
 | grocery-getter | 39.00% | ~3,959 |
-| rwd only | 26.00% | ~2,639 |
-| food tour: pasta | 26.00% | ~2,639 |
+| rwd only | 26.00% | ~2,640 |
+| food tour: pasta | 26.00% | ~2,640 |
 | to finish first, first you must finish | 21.00% | ~2,132 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,132 |
 | autopilot | 20.00% | ~2,030 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,151 (Ranked 114)  
+Progressed: 10,152 (Ranked 114)  
 Completed: 9 (0.09%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 9 (0.09%) (Ranked 180)
 | 2023-06-20 | 10,146 | 9 |
 | 2023-06-21 | 10,148 | 9 |
 | 2023-06-22 | 10,149 | 9 |
-| 2023-06-24 | 10,151 | 9 |
+| 2023-06-24 | 10,152 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

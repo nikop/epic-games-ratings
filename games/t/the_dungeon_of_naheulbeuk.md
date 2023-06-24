@@ -6,42 +6,42 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~167 |
+| Alt+F4 | 93.00% | ~170 |
 | Where's that freaking Dwarf? | 86.00% | ~157 |
-| Sock! SOCK! | 71.00% | ~129 |
+| Sock! SOCK! | 71.00% | ~130 |
 | Livin' in a dwarven paradise | 58.00% | ~106 |
 | Fireproof Wizardess | 58.00% | ~106 |
 | Déjà vu | 52.00% | ~95 |
-| GG EZ | 49.00% | ~89 |
-| DM intervention | 48.00% | ~87 |
-| Way of the Wimp | 47.00% | ~86 |
+| GG EZ | 49.00% | ~90 |
+| Way of the Wimp | 48.00% | ~88 |
+| DM intervention | 48.00% | ~88 |
 | Oh, when I'll be level 10... | 41.00% | ~75 |
-| Speedrun | 36.00% | ~66 |
+| Speedrun | 37.00% | ~68 |
+| The Ranger of Chaos | 35.00% | ~64 |
 | The plot thickens... At the tavern | 34.00% | ~62 |
 | Dwarf Fortress | 34.00% | ~62 |
-| The Ranger of Chaos | 34.00% | ~62 |
 | I am the night | 34.00% | ~62 |
 | Thieves' Guild Accreditation | 34.00% | ~62 |
 | Team Building Exercise | 34.00% | ~62 |
 | A beer, two curses, three companions | 33.00% | ~60 |
 | Look but don't touch | 30.00% | ~55 |
-| The demons' feast | 26.00% | ~47 |
+| The demons' feast | 26.00% | ~48 |
+| Material Girl | 26.00% | ~48 |
 | Shiny and Crôm | 25.00% | ~46 |
 | The Great Library | 25.00% | ~46 |
 | Torture and Sensibility | 25.00% | ~46 |
 | Gargantua | 25.00% | ~46 |
-| Material Girl | 25.00% | ~46 |
 | The Statuette of Gladeulfeurah | 24.00% | ~44 |
 | A tale of adventurers not quite like the others... | 24.00% | ~44 |
 | The beards of change | 22.00% | ~40 |
 | In Navalu's footsteps | 21.00% | ~38 |
-| The Famous Dungeon of Naheulbeuk | 20.00% | ~36 |
+| The Famous Dungeon of Naheulbeuk | 20.00% | ~37 |
 | Urik's Depths | 18.00% | ~33 |
 | The Woman in the High Castle | 18.00% | ~33 |
 | The Blood Countess | 18.00% | ~33 |
 | Cursed die | 16.00% | ~29 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~25 |
-| Law and Order | 14.00% | ~25 |
+| Law and Order | 15.00% | ~27 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 14.00% | ~26 |
 | The Dungeon Master | 13.00% | ~24 |
 | Res Judicata | 13.00% | ~24 |
 | Dead for good | 13.00% | ~24 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 267)  
+Progressed: 183 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 138 | 0 |
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
-| 2023-06-24 | 182 | 0 |
+| 2023-06-24 | 183 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 382)  
 Sum: 61 (Ranked 435)  

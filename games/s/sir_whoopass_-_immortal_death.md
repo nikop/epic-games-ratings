@@ -60,7 +60,7 @@
 | Grumpy Immortal | 9.00% | ~8 |
 | Spoiler alert! | 8.00% | ~7 |
 | Scrambled Eggs | 8.00% | ~7 |
-| My name is Whoopass, SIR Whoopass! | 6.00% | ~5 |
+| My name is Whoopass, SIR Whoopass! | 7.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
