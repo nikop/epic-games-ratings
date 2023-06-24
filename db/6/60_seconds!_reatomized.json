@@ -122,7 +122,7 @@
   "Tags": [],
   "EOS_Progressed": 4404,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2407,9 +2407,9 @@
       "ID": "ACH_GOOD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "Rescue time!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_HARD",
@@ -2648,8 +2648,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-06-21T21:02:52.0033823+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:08:17.6971639+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:05:55.7093881+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:35.62088+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:02:24.9066146+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:08:17.6972346+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:00:05.498631+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:05:55.7094391+00:00"
 }

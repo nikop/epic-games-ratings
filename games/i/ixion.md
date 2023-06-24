@@ -32,14 +32,14 @@ Rating: 4.57 (Ranked 441)
 | Access Granted | 3.00% | ~82 |
 | BRAWL! | 3.00% | ~82 |
 | All in Good Health | 3.00% | ~82 |
-| What They Hide From Us | 2.00% | ~54 |
-| ...  in a finite world | 2.00% | ~54 |
-| Sustainable Energy | 2.00% | ~54 |
-| In Dolos We Trust | 2.00% | ~54 |
-| Delivery! | 2.00% | ~54 |
-| Pedal to the Metal | 2.00% | ~54 |
-| What the Ruins Teach Us | 2.00% | ~54 |
-| Pulsar Disciple | 2.00% | ~54 |
+| What They Hide From Us | 2.00% | ~55 |
+| ...  in a finite world | 2.00% | ~55 |
+| Sustainable Energy | 2.00% | ~55 |
+| In Dolos We Trust | 2.00% | ~55 |
+| Delivery! | 2.00% | ~55 |
+| Pedal to the Metal | 2.00% | ~55 |
+| What the Ruins Teach Us | 2.00% | ~55 |
+| Pulsar Disciple | 2.00% | ~55 |
 | Mutual Loyalty | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,725 (Ranked 151)  
+Progressed: 2,726 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 2,706 | 0 |
 | 2023-06-22 | 2,711 | 0 |
 | 2023-06-23 | 2,718 | 0 |
-| 2023-06-24 | 2,725 | 0 |
+| 2023-06-24 | 2,726 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

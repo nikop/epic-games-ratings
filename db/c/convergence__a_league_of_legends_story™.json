@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 719,
+  "EOS_Progressed": 720,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1439,6 +1439,11 @@
       "Time": "2023-06-24T07:05:57.8048304+00:00",
       "NumProgressed": 719,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-24T20:05:32.2044549+00:00",
+      "NumProgressed": 720,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1458,7 +1463,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1570,7 +1575,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1610,7 +1615,7 @@
       "Name": "Rail Rat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "HexlockGift",
@@ -1650,7 +1655,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "NoCritterSump",
@@ -1873,14 +1878,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 719,
+      "Progressed": 720,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:07:37.3731246+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:05:32.2044544+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:01:05.3276036+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:07:37.3731835+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:59:15.0304416+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:05:32.2044976+00:00"
 }

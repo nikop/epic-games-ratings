@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8741,
+  "EOS_Progressed": 8742,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5383,6 +5383,11 @@
       "Time": "2023-06-24T19:04:28.3037702+00:00",
       "NumProgressed": 8741,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-24T20:03:17.4058975+00:00",
+      "NumProgressed": 8742,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 34,
@@ -5466,7 +5471,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH11",
@@ -5482,7 +5487,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH13",
@@ -5498,7 +5503,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "ACH15",
@@ -5610,7 +5615,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH29",
@@ -5665,7 +5670,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8741,
+      "Progressed": 8742,
       "Completed": 38
     }
   ],
@@ -5673,8 +5678,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-24T11:59:10.7610214+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:28.3037697+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:03:17.4058968+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.402576+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:59:20.6994549+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:28.3038195+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:58:14.5923406+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:03:17.4059376+00:00"
 }

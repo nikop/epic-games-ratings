@@ -24,7 +24,7 @@ Rating: 4.31 (Ranked 766)
 | Bridge Builder | 41.00% | ~554 |
 | Access granted | 35.00% | ~473 |
 | Going once, going twice, sold | 34.00% | ~460 |
-| Stoker | 32.00% | ~433 |
+| Stoker | 33.00% | ~446 |
 | Full Steam ahead | 31.00% | ~419 |
 | Bull and bear | 31.00% | ~419 |
 | All mine | 28.00% | ~379 |
@@ -57,7 +57,7 @@ Rating: 4.31 (Ranked 766)
 | Engineer | 1.00% | ~14 |
 | Accurate | 1.00% | ~14 |
 | Together we stand | 0.50% | ~7 |
-| European Union | 0.30% | ~4 |
+| European Union | 0.40% | ~5 |
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

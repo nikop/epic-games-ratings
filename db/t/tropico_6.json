@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -942,9 +942,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3800,
+  "EOS_Progressed": 3801,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4992,6 +4992,11 @@
       "Time": "2023-06-24T19:04:44.2467201+00:00",
       "NumProgressed": 3800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T20:03:29.3950426+00:00",
+      "NumProgressed": 3801,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5137,9 +5142,9 @@
       "ID": "ACH_EP_THEREFERENDUM",
       "SetID": "1p8ab95",
       "Name": "Apocalypso",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -5163,7 +5168,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2888
+      "UsersEstimate": 2889
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5322,15 +5327,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3800,
+      "Progressed": 3801,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-24T08:00:44.8324938+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:44.2467196+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:03:29.3950421+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:02:14.347238+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:44.2468009+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:59:58.6660976+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:03:29.395088+00:00"
 }

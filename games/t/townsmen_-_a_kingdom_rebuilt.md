@@ -7,8 +7,8 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 11.00% | ~459 |
-| Tax-man I | 10.00% | ~417 |
-| A new beginning | 10.00% | ~417 |
+| Tax-man I | 10.00% | ~418 |
+| A new beginning | 10.00% | ~418 |
 | Friends from the past | 9.00% | ~376 |
 | I like to build stuff... I | 8.00% | ~334 |
 | A time consuming game I | 7.00% | ~292 |
@@ -41,20 +41,20 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man IV | 3.00% | ~125 |
 | A time consuming game III | 3.00% | ~125 |
 | Tools of the trade II | 3.00% | ~125 |
-| Bread for the people III | 2.00% | ~83 |
-| Five brews are a schnitzel | 2.00% | ~83 |
-| I like to build stuff... V | 2.00% | ~83 |
-| The King's new clothes II | 2.00% | ~83 |
-| Saint Florian | 2.00% | ~83 |
-| My precious... II | 2.00% | ~83 |
-| Cosmas and Damian | 2.00% | ~83 |
-| Builder III | 2.00% | ~83 |
-| Completionist II | 2.00% | ~83 |
-| Genius | 2.00% | ~83 |
-| I've been everywhere V | 2.00% | ~83 |
-| A time consuming game IV | 2.00% | ~83 |
-| Tools of the trade III | 2.00% | ~83 |
-| Out of the frying pan | 2.00% | ~83 |
+| Bread for the people III | 2.00% | ~84 |
+| Five brews are a schnitzel | 2.00% | ~84 |
+| I like to build stuff... V | 2.00% | ~84 |
+| The King's new clothes II | 2.00% | ~84 |
+| Saint Florian | 2.00% | ~84 |
+| My precious... II | 2.00% | ~84 |
+| Cosmas and Damian | 2.00% | ~84 |
+| Builder III | 2.00% | ~84 |
+| Completionist II | 2.00% | ~84 |
+| Genius | 2.00% | ~84 |
+| I've been everywhere V | 2.00% | ~84 |
+| A time consuming game IV | 2.00% | ~84 |
+| Tools of the trade III | 2.00% | ~84 |
+| Out of the frying pan | 2.00% | ~84 |
 | The Art of War | 1.00% | ~42 |
 | The King's new clothes III | 1.00% | ~42 |
 | Survivalist | 1.00% | ~42 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,174 (Ranked 136)  
+Progressed: 4,175 (Ranked 136)  
 Completed: 3 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 3 (0.07%) (Ranked 187)
 | 2023-06-17 | 4,172 | 3 |
 | 2023-06-21 | 4,173 | 3 |
 | 2023-06-22 | 4,174 | 3 |
+| 2023-06-24 | 4,175 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

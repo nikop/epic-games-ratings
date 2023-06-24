@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~585,156 |
-| Right Back At Ya | 38.00% | ~326,999 |
-| The Lovers | 33.00% | ~283,973 |
-| Stanislavski's Method | 27.00% | ~232,341 |
-| The Wheel of Fortune | 26.00% | ~223,736 |
-| The Hermit | 23.00% | ~197,920 |
-| Christmas Tree Attack | 22.00% | ~189,315 |
-| True Soldier | 22.00% | ~189,315 |
-| Legend of The Afterlife | 21.00% | ~180,710 |
-| Life of the Road | 20.00% | ~172,105 |
-| The High Priestess | 20.00% | ~172,105 |
-| Full Body Conversion | 17.00% | ~146,289 |
-| The World | 17.00% | ~146,289 |
-| Bushido and Chill | 15.00% | ~129,078 |
-| Gun Fu | 14.00% | ~120,473 |
-| True Warrior | 14.00% | ~120,473 |
-| To Protect and Serve | 13.00% | ~111,868 |
-| Master Crafter | 13.00% | ~111,868 |
-| I Am The Law | 13.00% | ~111,868 |
-| Judy vs Night City | 13.00% | ~111,868 |
-| Two Heads, One Bullet | 11.00% | ~94,658 |
-| The Wandering Fool | 9.00% | ~77,447 |
-| The Quick and the Dead | 9.00% | ~77,447 |
-| Ten out of Ten | 8.00% | ~68,842 |
-| Breathtaking | 7.00% | ~60,237 |
-| To Bad Decisions! | 6.00% | ~51,631 |
-| The Star | 6.00% | ~51,631 |
-| The Sun | 6.00% | ~51,631 |
+| The Fool | 68.00% | ~585,165 |
+| Right Back At Ya | 38.00% | ~327,004 |
+| The Lovers | 33.00% | ~283,977 |
+| Stanislavski's Method | 27.00% | ~232,345 |
+| The Wheel of Fortune | 26.00% | ~223,740 |
+| The Hermit | 23.00% | ~197,924 |
+| Christmas Tree Attack | 22.00% | ~189,318 |
+| True Soldier | 22.00% | ~189,318 |
+| Legend of The Afterlife | 21.00% | ~180,713 |
+| Life of the Road | 20.00% | ~172,107 |
+| The High Priestess | 20.00% | ~172,107 |
+| Full Body Conversion | 17.00% | ~146,291 |
+| The World | 17.00% | ~146,291 |
+| Bushido and Chill | 15.00% | ~129,081 |
+| Gun Fu | 14.00% | ~120,475 |
+| True Warrior | 14.00% | ~120,475 |
+| To Protect and Serve | 13.00% | ~111,870 |
+| Master Crafter | 13.00% | ~111,870 |
+| I Am The Law | 13.00% | ~111,870 |
+| Judy vs Night City | 13.00% | ~111,870 |
+| Two Heads, One Bullet | 11.00% | ~94,659 |
+| The Wandering Fool | 9.00% | ~77,448 |
+| The Quick and the Dead | 9.00% | ~77,448 |
+| Ten out of Ten | 8.00% | ~68,843 |
+| Breathtaking | 7.00% | ~60,238 |
+| To Bad Decisions! | 6.00% | ~51,632 |
+| The Star | 6.00% | ~51,632 |
+| The Sun | 6.00% | ~51,632 |
 | Must Be Rats | 4.00% | ~34,421 |
 | Temperance | 4.00% | ~34,421 |
 | City Lights | 3.00% | ~25,816 |
@@ -43,15 +43,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~25,816 |
 | V for Vendetta | 3.00% | ~25,816 |
 | It's Elementary | 3.00% | ~25,816 |
-| Autojock | 2.00% | ~17,210 |
-| Frequent Flyer | 2.00% | ~17,210 |
-| The Wasteland | 2.00% | ~17,210 |
-| Daemon In The Shell | 2.00% | ~17,210 |
-| The Devil | 2.00% | ~17,210 |
+| Autojock | 2.00% | ~17,211 |
+| Frequent Flyer | 2.00% | ~17,211 |
+| The Wasteland | 2.00% | ~17,211 |
+| Daemon In The Shell | 2.00% | ~17,211 |
+| The Devil | 2.00% | ~17,211 |
 | Gunslinger | 1.00% | ~8,605 |
 | Rough Landing | 0.50% | ~4,303 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 860,523 (Ranked 13)  
+Progressed: 860,537 (Ranked 13)  
 Completed: 1,796 (0.21%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,10 +116,10 @@ Completed: 1,796 (0.21%) (Ranked 156)
 | 2023-06-21 | 858,935 | 1,787 |
 | 2023-06-22 | 859,577 | 1,793 |
 | 2023-06-23 | 860,088 | 1,796 |
-| 2023-06-24 | 860,523 | 1,796 |
+| 2023-06-24 | 860,537 | 1,796 |
 ## Awards
 Max (Character Customization): 70,850  (Ranked 9)  
-Sum: 184,979 (Ranked 13)  
+Sum: 184,999 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -133,7 +133,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 7,890 |
 | This game has Quickly Understood Controls | 7,786 |
 | This game has Amazing Characters | 7,745 |
-| This game has a Creative Community | 5,113 |
+| This game has a Creative Community | 5,133 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -293,4 +293,4 @@ Diff (max vs sum): -4
 | 2023-06-21 | 4.62 | - | 70,263 | 183,446 |
 | 2023-06-22 | 4.62 | - | 70,456 | 183,974 |
 | 2023-06-23 | 4.62 | - | 70,660 | 184,509 |
-| 2023-06-24 | 4.62 | - | 70,850 | 184,979 |
+| 2023-06-24 | 4.62 | - | 70,850 | 184,999 |

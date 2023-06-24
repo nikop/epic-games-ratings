@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -88,9 +88,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -144,9 +144,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -176,25 +176,25 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:33.323171+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:03:21.0174295+00:00",
   "LastUpdate_AppInfo": "2023-06-21T08:57:55.7452407+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:57:20.4248028+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:33.3232034+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:57:01.7713228+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:03:21.0174419+00:00"
 }

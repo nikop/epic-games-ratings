@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 296,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -641,6 +641,11 @@
       "Time": "2023-06-24T00:07:58.089706+00:00",
       "NumProgressed": 294,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-24T20:03:24.2957452+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -652,7 +657,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 279
+      "UsersEstimate": 281
     },
     {
       "ID": "LEVEL_003",
@@ -660,7 +665,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 253
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_004",
@@ -668,15 +673,15 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 179
+      "UsersEstimate": 178
     },
     {
       "ID": "LEVEL_012",
@@ -684,7 +689,7 @@
       "Name": "Poultry house",
       "Percentage": 26,
       "XP": 95,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_017",
@@ -706,9 +711,9 @@
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_025",
@@ -739,14 +744,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 296,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:37.1552464+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:03:24.2957445+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:57:32.8755041+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:37.1552658+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:57:08.3495747+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:03:24.2957547+00:00"
 }

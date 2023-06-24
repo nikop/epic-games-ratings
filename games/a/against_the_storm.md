@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 1.00% | ~155 |
 | Ruined Armory | 1.00% | ~155 |
 | Dangerous Lands | 1.00% | ~155 |
+| Forbidden Lands | 1.00% | ~155 |
 | Haunted Forest | 1.00% | ~155 |
 | Levitating Monument | 1.00% | ~155 |
 | Flooded Mines | 1.00% | ~155 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~155 |
 | Defying the Crown | 1.00% | ~155 |
 | Into the Forest | 1.00% | ~155 |
-| Forbidden Lands | 0.90% | ~139 |
 | Fishmen Ritual Site | 0.70% | ~108 |
 | Efficient Explorer | 0.60% | ~93 |
 | Prestigious Expedition | 0.60% | ~93 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4174,
+  "EOS_Progressed": 4175,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-06-22T09:11:55.0096188+00:00",
       "NumProgressed": 4174,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-24T20:05:58.2051722+00:00",
+      "NumProgressed": 4175,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -784,7 +789,7 @@
       "Name": "Bread for the people III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_BREWS",
@@ -792,7 +797,7 @@
       "Name": "Five brews are a schnitzel",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
@@ -832,7 +837,7 @@
       "Name": "I like to build stuff... V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_BURNEDDOWN1",
@@ -856,7 +861,7 @@
       "Name": "The King\u0027s new clothes II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES3",
@@ -896,7 +901,7 @@
       "Name": "Saint Florian",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_FOUR_DESASTERS",
@@ -920,7 +925,7 @@
       "Name": "My precious... II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_JEWELS3",
@@ -952,7 +957,7 @@
       "Name": "Cosmas and Damian",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
@@ -984,7 +989,7 @@
       "Name": "Builder III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_POPULATION4",
@@ -1040,7 +1045,7 @@
       "Name": "Completionist II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_QUESTS3",
@@ -1104,7 +1109,7 @@
       "Name": "Genius",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_SAUSAGES",
@@ -1320,7 +1325,7 @@
       "Name": "I\u0027ve been everywhere V",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
@@ -1384,7 +1389,7 @@
       "Name": "Tax-man I",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1448,7 +1453,7 @@
       "Name": "A time consuming game IV",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_TIME5",
@@ -1480,7 +1485,7 @@
       "Name": "Tools of the trade III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
@@ -1488,7 +1493,7 @@
       "Name": "A new beginning",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -1528,7 +1533,7 @@
       "Name": "Out of the frying pan",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_YOUSHALLNOTPASS",
@@ -1543,15 +1548,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4174,
+      "Progressed": 4175,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:08:20.7865828+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:05:58.2051717+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:43.795347+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:59:01.9131079+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:08:20.7867147+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:58:03.6403027+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:05:58.2052673+00:00"
 }

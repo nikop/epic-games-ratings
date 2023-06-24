@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1393,17 +1393,17 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1425,9 +1425,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -1464,8 +1464,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:03:51.8569183+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:02:30.4966336+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:01:25.6757319+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:03:51.8569522+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:59:29.7041424+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:02:30.4966542+00:00"
 }

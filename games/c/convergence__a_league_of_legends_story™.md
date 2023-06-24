@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 15.00% | ~108 |
-| The Steel Shadow | 13.00% | ~93 |
-| The Mysterious Stranger | 13.00% | ~93 |
-| Rail Rat | 13.00% | ~93 |
-| Cartographer | 13.00% | ~93 |
+| The Steel Shadow | 13.00% | ~94 |
+| The Mysterious Stranger | 13.00% | ~94 |
+| Rail Rat | 13.00% | ~94 |
+| Cartographer | 13.00% | ~94 |
 | Treasure Trove | 12.00% | ~86 |
 | Make Up For Lost Time | 12.00% | ~86 |
 | Time Flies | 12.00% | ~86 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719 (Ranked 195)  
+Progressed: 720 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 4 (0.56%) (Ranked 120)
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
 | 2023-06-23 | 718 | 4 |
-| 2023-06-24 | 719 | 4 |
+| 2023-06-24 | 720 | 4 |

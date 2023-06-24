@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "heavy_rayne",
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:12.8625963+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:03:06.6796786+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.7658908+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:00:07.287333+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:12.8626166+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:58:41.1342975+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:03:06.6796911+00:00"
 }

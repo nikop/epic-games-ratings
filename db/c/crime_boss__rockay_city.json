@@ -2220,9 +2220,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67679,
+  "EOS_Progressed": 67681,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9060,6 +9060,11 @@
       "Time": "2023-06-24T18:02:21.1751317+00:00",
       "NumProgressed": 67679,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-24T20:02:36.6251883+00:00",
+      "NumProgressed": 67681,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -9095,7 +9100,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8798
+      "UsersEstimate": 8799
     },
     {
       "ID": "ACH_0014",
@@ -9215,7 +9220,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 43991
+      "UsersEstimate": 43993
     },
     {
       "ID": "ACH_0210",
@@ -9223,7 +9228,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50082
+      "UsersEstimate": 50084
     },
     {
       "ID": "ACH_0211",
@@ -9239,7 +9244,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31809
+      "UsersEstimate": 31810
     },
     {
       "ID": "ACH_0300",
@@ -9287,7 +9292,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23011
+      "UsersEstimate": 23012
     },
     {
       "ID": "ACH_0420",
@@ -9295,7 +9300,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23011
+      "UsersEstimate": 23012
     },
     {
       "ID": "ACH_0430",
@@ -9366,7 +9371,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67679,
+      "Progressed": 67681,
       "Completed": 34
     }
   ],
@@ -9374,8 +9379,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-24T17:59:52.0859297+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:04:00.1573941+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:02:36.6251878+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:01:55.3709229+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:04:00.1574813+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:59:47.0567+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:02:36.6252394+00:00"
 }

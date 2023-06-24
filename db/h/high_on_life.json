@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22927,
+  "EOS_Progressed": 22928,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1809,6 +1809,11 @@
       "Time": "2023-06-24T19:06:34.6364124+00:00",
       "NumProgressed": 22927,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-24T20:04:47.3308106+00:00",
+      "NumProgressed": 22928,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1836,7 +1841,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17654
+      "UsersEstimate": 17655
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1852,7 +1857,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -1892,7 +1897,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4585
+      "UsersEstimate": 4586
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -1900,7 +1905,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1908,7 +1913,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1924,7 +1929,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19029
+      "UsersEstimate": 19030
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1940,7 +1945,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13068
+      "UsersEstimate": 13069
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1948,7 +1953,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13527
+      "UsersEstimate": 13528
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1996,7 +2001,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4585
+      "UsersEstimate": 4586
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -2044,7 +2049,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4585
+      "UsersEstimate": 4586
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -2075,22 +2080,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22927,
+      "Progressed": 22928,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 220,
-      "Completed": 220
+      "Progressed": 221,
+      "Completed": 221
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:06:34.6364117+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:04:47.3308096+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.019228+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:58:58.6684552+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:06:34.6364617+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:58:01.5074535+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:04:47.3308375+00:00"
 }

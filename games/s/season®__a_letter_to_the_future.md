@@ -15,8 +15,8 @@
 | Dream Listener | 15.00% | ~163 |
 | Artist Assistant | 14.00% | ~152 |
 | Tour de Tieng | 13.00% | ~141 |
+| Goodbye Tieng Valley | 12.00% | ~131 |
 | Shrine Arriver | 12.00% | ~131 |
-| Goodbye Tieng Valley | 11.00% | ~120 |
 | The End | 11.00% | ~120 |
 | Love Uncoverer | 9.00% | ~98 |
 | Graffiti Artist | 8.00% | ~87 |

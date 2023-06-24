@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1268,
+  "EOS_Progressed": 1269,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-06-23T23:00:53.426757+00:00",
       "NumProgressed": 1268,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-24T20:02:20.6530929+00:00",
+      "NumProgressed": 1269,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -917,7 +922,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1101,7 +1106,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1109,7 +1114,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1157,7 +1162,7 @@
       "Name": "Echoes Die",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "completedStory_procedural",
@@ -1173,7 +1178,7 @@
       "Name": "Daybreak",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1348,15 +1353,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1268,
+      "Progressed": 1269,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:03:37.573913+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:02:20.6530924+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:02:51.6143248+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:03:37.5739961+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:00:19.572671+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:02:20.6531323+00:00"
 }

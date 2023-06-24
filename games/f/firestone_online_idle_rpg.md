@@ -29,10 +29,10 @@ Rating: 4.07 (Ranked 894)
 | The Unstoppable | 12.00% | ~178 |
 | Scientist | 10.00% | ~148 |
 | Challenger | 9.00% | ~134 |
+| Doing My Part | 9.00% | ~134 |
 | Hunter | 9.00% | ~134 |
 | The power of Awakening | 9.00% | ~134 |
 | Daily Quest Completionist | 8.00% | ~119 |
-| Doing My Part | 8.00% | ~119 |
 | Frostfire Liberator | 8.00% | ~119 |
 | Mastery | 8.00% | ~119 |
 | Moving Up The Ladder | 8.00% | ~119 |
@@ -41,6 +41,7 @@ Rating: 4.07 (Ranked 894)
 | Four Leaf Clover | 7.00% | ~104 |
 | Here We Go Again | 6.00% | ~89 |
 | Master Enchanter | 6.00% | ~89 |
+| The Expeditioner | 6.00% | ~89 |
 | The father of Dragons | 6.00% | ~89 |
 | Trader | 6.00% | ~89 |
 | Ancient Knowledge | 5.00% | ~74 |
@@ -48,7 +49,6 @@ Rating: 4.07 (Ranked 894)
 | Enchanting skill | 5.00% | ~74 |
 | How Do You Turn This On? | 5.00% | ~74 |
 | Missions Dedication | 5.00% | ~74 |
-| The Expeditioner | 5.00% | ~74 |
 | Weekly Quest Completionist | 5.00% | ~74 |
 | Background Story | 4.00% | ~59 |
 | Blueprint Upgrades | 4.00% | ~59 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,484 (Ranked 166)  
+Progressed: 1,484 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |

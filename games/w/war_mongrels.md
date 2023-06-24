@@ -6,22 +6,22 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~239 |
-| Cowardice | 55.00% | ~209 |
+| Explorer | 62.00% | ~236 |
+| Cowardice | 55.00% | ~210 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~179 |
 | Eat Lead! | 45.00% | ~171 |
-| Prospector | 41.00% | ~156 |
-| Here Comes the Boom | 41.00% | ~156 |
+| Prospector | 40.00% | ~152 |
 | The Breaking Point | 40.00% | ~152 |
+| Here Comes the Boom | 40.00% | ~152 |
 | Treasure Hunter | 37.00% | ~141 |
 | Sniper Wolf | 36.00% | ~137 |
-| The Motivation | 34.00% | ~129 |
-| Heroism | 33.00% | ~125 |
-| Missing in Action | 33.00% | ~125 |
+| The Motivation | 34.00% | ~130 |
+| Heroism | 33.00% | ~126 |
+| Missing in Action | 33.00% | ~126 |
 | Collectibles of Chapter I | 32.00% | ~122 |
 | Consequences | 29.00% | ~110 |
 | King of Knives | 29.00% | ~110 |
-| Opportunities | 28.00% | ~106 |
+| Opportunities | 28.00% | ~107 |
 | The Horror | 26.00% | ~99 |
 | The Difference | 24.00% | ~91 |
 | Collectibles of Chapter II | 22.00% | ~84 |
@@ -30,8 +30,8 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 19.00% | ~72 |
 | Bullseye! | 19.00% | ~72 |
 | Food Massacre | 17.00% | ~65 |
-| Sorrow | 16.00% | ~61 |
 | Collectibles of Chapter IV | 15.00% | ~57 |
+| Sorrow | 15.00% | ~57 |
 | Collectibles of Chapter III | 14.00% | ~53 |
 | Atonement | 14.00% | ~53 |
 | Helping Hand | 14.00% | ~53 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380 (Ranked 225)  
+Progressed: 381 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 377 | 0 |
 | 2023-06-22 | 379 | 0 |
 | 2023-06-23 | 380 | 0 |
+| 2023-06-24 | 381 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

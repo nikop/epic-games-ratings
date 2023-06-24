@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -804,9 +804,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6013,
+  "EOS_Progressed": 6014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3499,6 +3499,11 @@
       "Time": "2023-06-24T17:05:42.9704122+00:00",
       "NumProgressed": 6013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T20:04:35.4675915+00:00",
+      "NumProgressed": 6014,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3550,7 +3555,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "Control_All_Relics",
@@ -3574,7 +3579,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3614,7 +3619,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "First_Race_Met",
@@ -3622,7 +3627,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4389
+      "UsersEstimate": 4390
     },
     {
       "ID": "First_Ship_Designed",
@@ -3646,7 +3651,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3726,7 +3731,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "Play_1000_Hours",
@@ -3814,7 +3819,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -3830,7 +3835,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3846,7 +3851,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "War_Without_Translator",
@@ -4085,15 +4090,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6013,
+      "Progressed": 6014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:06:16.7250618+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:04:35.467591+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.2479872+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:58:13.7021585+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:06:16.7251553+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:57:33.9674284+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:04:35.4676565+00:00"
 }

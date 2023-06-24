@@ -17,11 +17,11 @@
 | Light Sleepers | 17.00% | ~76 |
 | Smooth Criminal | 8.00% | ~36 |
 | Sore Loser | 8.00% | ~36 |
-| Interrogation | 4.00% | ~18 |
+| Interrogation | 5.00% | ~22 |
 | Crash and Burn | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 449 (Ranked 214)  
-Completed: 5 (1.11%) (Ranked 95)  
+Completed: 6 (1.34%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 5 (1.11%) (Ranked 95)
 | 2023-06-19 | 445 | 5 |
 | 2023-06-21 | 446 | 5 |
 | 2023-06-22 | 447 | 5 |
-| 2023-06-24 | 449 | 5 |
+| 2023-06-24 | 449 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 346)
 | Gotta get 'em all | 30.00% | ~1,321 |
 | Disco Roach | 26.00% | ~1,145 |
 | Dawkins Residence | 19.00% | ~837 |
-| Rescue time! | 16.00% | ~705 |
+| Rescue time! | 17.00% | ~749 |
 | New species | 16.00% | ~705 |
 | New order | 15.00% | ~661 |
 | A New Hope | 14.00% | ~617 |

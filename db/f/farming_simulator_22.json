@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -5923,10 +5923,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 37539,
       "NumberOfAwardsMax": 4426
+    },
+    {
+      "Time": "2023-06-24T19:59:30.9144659+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 37548,
+      "NumberOfAwardsMax": 4426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37539,
+  "NumberOfAwards": 37548,
   "NumberOfAwardsMax": 4426,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5940,13 +5946,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3983
+      "Count": 3988
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 3933
+      "Count": 3937
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6005,7 +6011,7 @@
   ],
   "EOS_Progressed": 44533,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11983,9 +11989,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-06-24T17:00:49.2057725+00:00",
-  "LastChanged_Achievements": "2023-06-24T19:03:37.0629992+00:00",
+  "LastChanged": "2023-06-24T19:59:30.9144658+00:00",
+  "LastChanged_Achievements": "2023-06-24T20:02:20.1743252+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:44.3659402+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:01:28.1865934+00:00",
-  "LastUpdate_Achievements": "2023-06-24T19:03:37.0630751+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:59:30.9144662+00:00",
+  "LastUpdate_Achievements": "2023-06-24T20:02:20.1743762+00:00"
 }
