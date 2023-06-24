@@ -421,6 +421,7 @@
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
+| [Pixel Art Coloring Book](../games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 16 | 1,000 |
 | [Placid Plastic Duck Simulator](../games/f/fc3184cec5eb463ea33412294a05fca2.md) | 16 | 1,000 |
 | [Prison Architect](../games/p/prison_architect.md) | 16 | 1,000 |
 | [SEASON®: A letter to the future](../games/s/season®__a_letter_to_the_future.md) | 16 | 1,000 |

@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Volley Pals](games/v/volley_pals.md) | 31.43% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.61% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.43% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.27% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.13% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -53,8 +53,8 @@
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
-| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.03% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
+| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.02% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
@@ -87,7 +87,7 @@
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.36% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.35% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
@@ -121,8 +121,8 @@
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |

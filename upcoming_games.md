@@ -307,7 +307,7 @@
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | - |  | - | - |
 | [Pillazon - MMO Drug Lord Tycoon](games/e/e3ea6ce18c3143ec8b4dbd15bb16a73c.md) | 2099-01-01 | - |  | - | - |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2099-01-01 | - |  | - | - |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2099-01-01 | 16 (1,000 XP) | 0 | - | - |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |  | - | - |
 | [POLYGOD](games/p/polygod.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
