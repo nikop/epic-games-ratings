@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,848 |
-| Wallbanger | 5.00% | ~19,848 |
-| Exploitative | 4.00% | ~15,878 |
-| High Speed Low Drag | 4.00% | ~15,878 |
-| Wet Feet | 4.00% | ~15,878 |
-| Checkpoint Victory | 3.00% | ~11,908 |
-| Lucky | 3.00% | ~11,908 |
-| Stylin' | 3.00% | ~11,908 |
-| Turf War | 3.00% | ~11,908 |
+| Point Shooting | 5.00% | ~19,849 |
+| Wallbanger | 5.00% | ~19,849 |
+| Exploitative | 4.00% | ~15,879 |
+| High Speed Low Drag | 4.00% | ~15,879 |
+| Wet Feet | 4.00% | ~15,879 |
+| Checkpoint Victory | 3.00% | ~11,909 |
+| Lucky | 3.00% | ~11,909 |
+| Stylin' | 3.00% | ~11,909 |
+| Turf War | 3.00% | ~11,909 |
 | Banged | 2.00% | ~7,939 |
 | First Blood | 2.00% | ~7,939 |
 | Flaccid Paralysis | 2.00% | ~7,939 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~397 |
 | Road Hazard | 0.10% | ~397 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,950 (Ranked 39)  
+Progressed: 396,973 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,10 +107,10 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-21 | 395,638 | 2 |
 | 2023-06-22 | 396,085 | 2 |
 | 2023-06-23 | 396,605 | 2 |
-| 2023-06-24 | 396,950 | 2 |
+| 2023-06-24 | 396,973 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 216)  
-Sum: 2,734 (Ranked 167)  
+Sum: 2,735 (Ranked 167)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 321 |
 | This game has Competitive Players | 318 |
 | This game has Realistic Visuals | 296 |
-| This game has Amazing Storytelling | 291 |
+| This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 290 |
 | This game has Amazing Characters | 281 |
 | This game has a Competitive Community | 245 |
@@ -287,4 +287,4 @@ Diff (max vs sum): 49
 | 2023-06-21 | 4.62 | - | 359 | 2,726 |
 | 2023-06-22 | 4.62 | - | 359 | 2,729 |
 | 2023-06-23 | 4.62 | - | 359 | 2,732 |
-| 2023-06-24 | 4.62 | - | 361 | 2,734 |
+| 2023-06-24 | 4.62 | - | 361 | 2,735 |

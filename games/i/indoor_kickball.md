@@ -29,11 +29,11 @@
 | Just how we drew it up | 9.00% | ~5 |
 | Interference | 7.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |
+| You broke it, you bought it | 6.00% | ~3 |
+| Angry Mom | 6.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~2 |
-| You broke it, you bought it | 4.00% | ~2 |
 | Hi Hungry, I'm Dad | 4.00% | ~2 |
 | Found the Secret Formula! | 4.00% | ~2 |
-| Angry Mom | 4.00% | ~2 |
 | Attic Secret Spot | 2.00% | ~1 |
 | Garage Secret Spot | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 322)  
+Progressed: 54 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

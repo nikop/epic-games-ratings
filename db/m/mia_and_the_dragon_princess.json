@@ -3,8 +3,8 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_Completed": 72,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -261,6 +261,11 @@
       "Time": "2023-06-17T17:04:04.9847414+00:00",
       "NumProgressed": 47,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T16:04:56.4165784+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -358,9 +363,9 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "key_keepers_curse",
@@ -382,7 +387,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -406,7 +411,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 16
     }
@@ -415,14 +420,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:04:28.5297867+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:04:56.4165778+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:45.7718683+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:58:18.1004792+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:04:28.5297974+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:58:49.6971409+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:04:56.416593+00:00"
 }

@@ -44,10 +44,10 @@
 | The Astronaut | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~6 |
 | The Exorcist | 5.00% | ~6 |
+| Mithril | 5.00% | ~6 |
 | Highway to Hell | 5.00% | ~6 |
 | Aluminum | 5.00% | ~6 |
 | Anvil | 5.00% | ~6 |
-| Mithril | 4.00% | ~4 |
 | Analyzed | 4.00% | ~4 |
 | Combo Master | 3.00% | ~3 |
 | It's a Trap! | 3.00% | ~3 |
@@ -59,6 +59,7 @@
 | Concluded | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Platinum | 2.00% | ~2 |
+| Hammer | 2.00% | ~2 |
 | Gunpowder | 2.00% | ~2 |
 | Really Bad Luck | 0.90% | ~1 |
 | Blaze | 0.90% | ~1 |
@@ -67,7 +68,6 @@
 | Rocket | 0.90% | ~1 |
 | Inferno | 0.90% | ~1 |
 | Sapphire | 0.90% | ~1 |
-| Hammer | 0.90% | ~1 |
 | Warp Drive Spacecraft | 0.90% | ~1 |
 | Wu-wei | 0.90% | ~1 |
 | Satellite | 0.90% | ~1 |

@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,035 |
-| Apprentice | 58.00% | ~381,862 |
+| The Fool | 72.00% | ~474,038 |
+| Apprentice | 58.00% | ~381,864 |
 | Close Shave | 25.00% | ~164,596 |
-| Mercenary | 23.00% | ~151,428 |
-| Ninja | 23.00% | ~151,428 |
-| Northern Scourge | 17.00% | ~111,925 |
-| Thief Bane | 14.00% | ~92,173 |
+| Mercenary | 23.00% | ~151,429 |
+| Ninja | 23.00% | ~151,429 |
+| Northern Scourge | 17.00% | ~111,926 |
+| Thief Bane | 14.00% | ~92,174 |
 | Master of Arms | 12.00% | ~79,006 |
-| Gambler | 10.00% | ~65,838 |
-| Dice Master | 10.00% | ~65,838 |
-| Swordsman | 9.00% | ~59,254 |
+| Gambler | 10.00% | ~65,839 |
+| Dice Master | 10.00% | ~65,839 |
+| Swordsman | 9.00% | ~59,255 |
 | Knight | 8.00% | ~52,671 |
 | Cure for Corruption | 8.00% | ~52,671 |
 | Focused | 8.00% | ~52,671 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,503 |
 | Jack of all Trades | 5.00% | ~32,919 |
 | Smithy | 5.00% | ~32,919 |
-| Leap of Faith | 3.00% | ~19,751 |
-| Combat Ready | 3.00% | ~19,751 |
-| Stuffed Potato | 3.00% | ~19,751 |
+| Leap of Faith | 3.00% | ~19,752 |
+| Combat Ready | 3.00% | ~19,752 |
+| Stuffed Potato | 3.00% | ~19,752 |
 | Card Sharp | 2.00% | ~13,168 |
 | Magician | 2.00% | ~13,168 |
 | Draknar's Bane | 2.00% | ~13,168 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~658 |
 | Blood Pact | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,382 (Ranked 21)  
+Progressed: 658,386 (Ranked 21)  
 Completed: 165 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 165 (0.03%) (Ranked 201)
 | 2023-06-21 | 658,255 | 165 |
 | 2023-06-22 | 658,298 | 165 |
 | 2023-06-23 | 658,345 | 165 |
-| 2023-06-24 | 658,382 | 165 |
+| 2023-06-24 | 658,386 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 371)  

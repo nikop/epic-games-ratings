@@ -4,7 +4,7 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "ended_bloodline_curse",
       "SetID": "4akddl8",
       "Name": "You Ended the Bloodline Curse!",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "finished_tutorial",
@@ -226,9 +226,9 @@
       "ID": "full_story_revealed",
       "SetID": "4akddl8",
       "Name": "Become the Hero of Sveti Kotar",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "got_into_watermill_with_death_whistle",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:06:48.1090261+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:07:41.7347143+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:51.3453636+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:01:04.1804769+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:06:48.1090533+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:02:00.5219602+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:07:41.7347523+00:00"
 }

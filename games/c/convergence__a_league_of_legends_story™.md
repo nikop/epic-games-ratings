@@ -21,6 +21,7 @@
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
+| Honest Mistake | 11.00% | ~79 |
 | Golem Chaser | 11.00% | ~79 |
 | Fast Learner | 11.00% | ~79 |
 | Check Your Pulse | 11.00% | ~79 |
@@ -29,7 +30,6 @@
 | The Family Fortune | 11.00% | ~79 |
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
-| Honest Mistake | 10.00% | ~72 |
 | Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |
 | Chaincrawler Explorer | 8.00% | ~58 |

@@ -3293,9 +3293,9 @@
       "ID": "TheendofGoldManeKnights",
       "SetID": "97dk767",
       "Name": "The End of the Gold Mane Knights",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3693
+      "UsersEstimate": 3771
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -3325,8 +3325,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:02:32.1221146+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:03:17.4648578+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.8787805+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:59:15.739223+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:02:32.1221394+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:59:58.1995334+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:03:17.464901+00:00"
 }

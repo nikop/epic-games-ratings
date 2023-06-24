@@ -4066,10 +4066,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37786,
       "NumberOfAwardsMax": 20340
+    },
+    {
+      "Time": "2023-06-24T15:57:51.4656376+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37787,
+      "NumberOfAwardsMax": 20340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37786,
+  "NumberOfAwards": 37787,
   "NumberOfAwardsMax": 20340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4125,7 +4131,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 791
+      "Count": 792
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4146,9 +4152,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281296,
+  "EOS_Progressed": 281302,
   "EOS_Completed": 411,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10971,6 +10977,11 @@
       "Time": "2023-06-24T15:05:43.9074855+00:00",
       "NumProgressed": 281296,
       "NumCompleted": 411
+    },
+    {
+      "Time": "2023-06-24T16:06:26.2034001+00:00",
+      "NumProgressed": 281302,
+      "NumCompleted": 411
     }
   ],
   "TotalAchievements": 45,
@@ -11126,7 +11137,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "PFA_27",
@@ -11341,16 +11352,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281296,
+      "Progressed": 281302,
       "Completed": 411
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-24T13:57:58.1754317+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:05:43.9074848+00:00",
+  "LastChanged": "2023-06-24T15:57:51.4656375+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:06:26.2033996+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:57:28.1656498+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:05:43.9075458+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:57:51.4656382+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:06:26.203507+00:00"
 }

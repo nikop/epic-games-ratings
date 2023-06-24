@@ -21,12 +21,12 @@ Rating: 4.47 (Ranked 593)
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
+| Skirmisher | 0.90% | ~28 |
+| Organ Grinder | 0.80% | ~25 |
 | Gunslinger | 0.80% | ~25 |
-| Skirmisher | 0.80% | ~25 |
-| Organ Grinder | 0.70% | ~22 |
+| Climbing the Ladder | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Close Quarters | 0.70% | ~22 |
-| Climbing the Ladder | 0.60% | ~19 |
 | No Stone Unturned | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
@@ -42,6 +42,7 @@ Rating: 4.47 (Ranked 593)
 | Locomotion Commotion | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
+| Siegebreaker | 0.40% | ~12 |
 | Strategist | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Burn after reading | 0.30% | ~9 |
@@ -51,7 +52,6 @@ Rating: 4.47 (Ranked 593)
 | Up close and personal | 0.30% | ~9 |
 | Don't hold your breath | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
-| Siegebreaker | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |

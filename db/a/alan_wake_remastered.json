@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56110,
+  "EOS_Progressed": 56112,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5947,6 +5947,11 @@
       "Time": "2023-06-24T15:01:22.7304506+00:00",
       "NumProgressed": 56110,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-24T16:02:24.2395403+00:00",
+      "NumProgressed": 56112,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5958,7 +5963,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18516
+      "UsersEstimate": 18517
     },
     {
       "ID": "02",
@@ -5998,7 +6003,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7855
+      "UsersEstimate": 7856
     },
     {
       "ID": "07",
@@ -6198,7 +6203,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     },
     {
       "ID": "32",
@@ -6278,7 +6283,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7294
+      "UsersEstimate": 7295
     },
     {
       "ID": "42",
@@ -6294,7 +6299,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7855
+      "UsersEstimate": 7856
     },
     {
       "ID": "44",
@@ -6493,21 +6498,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56110,
+      "Progressed": 56112,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19578,
+      "Progressed": 19580,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:01:22.73045+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:02:24.2395397+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-24T14:57:52.0362784+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:01:22.730526+00:00"
+  "LastUpdate_Ratings": "2023-06-24T15:58:18.0740566+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:02:24.2396411+00:00"
 }

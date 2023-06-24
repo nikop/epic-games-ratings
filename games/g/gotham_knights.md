@@ -9,6 +9,7 @@ Rating: 4.17 (Ranked 857)
 | Har, Har, Har, Very Funny | 4.00% | ~2,637 |
 | Loose Ends | 4.00% | ~2,637 |
 | The Batman Family | 3.00% | ~1,978 |
+| Something in the Clay | 3.00% | ~1,978 |
 | To the Victor Go the Spoils | 3.00% | ~1,978 |
 | Quartzer Life Crisis | 3.00% | ~1,978 |
 | Get ReQ'd | 3.00% | ~1,978 |
@@ -18,7 +19,6 @@ Rating: 4.17 (Ranked 857)
 | End of an Era | 2.00% | ~1,318 |
 | In Your Element | 2.00% | ~1,318 |
 | Protector of Gotham | 2.00% | ~1,318 |
-| Something in the Clay | 2.00% | ~1,318 |
 | The Show Mud Go On | 2.00% | ~1,318 |
 | Rock and a Hard Place | 2.00% | ~1,318 |
 | Not On My Watch | 2.00% | ~1,318 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,922 (Ranked 72)  
+Progressed: 65,923 (Ranked 72)  
 Completed: 97 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 97 (0.15%) (Ranked 165)
 | 2023-06-21 | 65,809 | 96 |
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
-| 2023-06-24 | 65,922 | 97 |
+| 2023-06-24 | 65,923 | 97 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 136)  

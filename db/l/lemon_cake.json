@@ -3,8 +3,8 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -107,6 +107,11 @@
       "Time": "2023-06-15T11:05:32.4220149+00:00",
       "NumProgressed": 129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T16:07:31.0307403+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -118,23 +123,23 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "LC-03",
       "SetID": "ap2ljl4",
       "Name": "Bakery Business",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LC-04",
@@ -150,63 +155,63 @@
       "Name": "Apprentice Baker",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LC-06",
       "SetID": "ap2ljl4",
       "Name": "Adept Baker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-07",
       "SetID": "ap2ljl4",
       "Name": "Expert Baker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LC-08",
       "SetID": "ap2ljl4",
       "Name": "Master Baker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-09",
       "SetID": "ap2ljl4",
       "Name": "Verdant Greenhouse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LC-11",
       "SetID": "ap2ljl4",
       "Name": "Bustling Store",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LC-12",
       "SetID": "ap2ljl4",
       "Name": "The Famous Lemon Cake",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LC-13",
@@ -253,7 +258,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 1
     }
   ],
@@ -261,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:06:38.7712687+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:07:31.0307398+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.8275075+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:00:30.3093018+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:06:38.7712954+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:01:21.6808578+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:07:31.0307531+00:00"
 }

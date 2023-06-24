@@ -117,7 +117,7 @@ Completed: 8 (0.13%) (Ranked 172)
 | 2023-06-24 | 6,309 | 8 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 439)  
-Sum: 251 (Ranked 346)  
+Sum: 252 (Ranked 346)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): 93
 | This game has Diverse Characters | 27 |
 | This game is Educational | 27 |
 | This game has Realistic Visuals | 27 |
-| This game has Competitive Players | 23 |
+| This game has Competitive Players | 24 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -218,3 +218,4 @@ Diff (max vs sum): 93
 | 2023-06-19 | 4.56 | - | 32 | 249 |
 | 2023-06-20 | 4.56 | - | 33 | 250 |
 | 2023-06-22 | 4.56 | - | 33 | 251 |
+| 2023-06-24 | 4.56 | - | 33 | 252 |

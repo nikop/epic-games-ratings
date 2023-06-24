@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1730,9 +1730,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65922,
+  "EOS_Progressed": 65923,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7535,6 +7535,11 @@
       "Time": "2023-06-24T15:06:46.7085357+00:00",
       "NumProgressed": 65922,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-06-24T16:07:40.2978908+00:00",
+      "NumProgressed": 65923,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 61,
@@ -7648,9 +7653,9 @@
       "ID": "CLAYFACE_1",
       "SetID": "4eo5ebm",
       "Name": "Something in the Clay",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1978
     },
     {
       "ID": "CLAYFACE_2",
@@ -8033,13 +8038,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65922,
+      "Progressed": 65923,
       "Completed": 97
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36202,
+      "Progressed": 36203,
       "Completed": 2647
     }
   ],
@@ -8047,8 +8052,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-24T14:01:12.6491036+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:06:46.7085353+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:07:40.2978902+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:00:11.989226+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:06:46.7086087+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:00:59.9058119+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:07:40.2980075+00:00"
 }

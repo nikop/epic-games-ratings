@@ -2,9 +2,9 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 602,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1198,6 +1198,11 @@
       "Time": "2023-06-24T14:03:22.5729582+00:00",
       "NumProgressed": 600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T16:03:23.5735671+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1239,9 +1244,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1343,9 +1348,9 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -1399,9 +1404,9 @@
       "ID": "ACHV_TRICKSHOT",
       "SetID": "cceobco",
       "Name": "Trickshot",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_UNLOCKEDANDLOADED",
@@ -1440,13 +1445,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 602,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 26,
+      "Progressed": 28,
       "Completed": 3
     }
   ],
@@ -1454,8 +1459,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-24T15:03:08.3194474+00:00",
+  "LastChanged_Achievements": "2023-06-24T16:03:23.5735666+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:00:01.8225532+00:00",
-  "LastUpdate_Achievements": "2023-06-24T15:03:08.31947+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:00:49.2631319+00:00",
+  "LastUpdate_Achievements": "2023-06-24T16:03:23.5735961+00:00"
 }

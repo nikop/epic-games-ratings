@@ -13,9 +13,9 @@ Rating: 4.34 (Ranked 741)
 | Lumberjack | 50.00% | ~593 |
 | Croaked | 46.00% | ~546 |
 | Limp Richard | 44.00% | ~522 |
+| Exorcist | 44.00% | ~522 |
 | From Darkness to Light | 44.00% | ~522 |
 | Editor Adept | 43.00% | ~510 |
-| Exorcist | 43.00% | ~510 |
 | Firestarter | 41.00% | ~486 |
 | Giant Killer | 40.00% | ~474 |
 | Sensei | 39.00% | ~463 |
@@ -45,7 +45,7 @@ Rating: 4.34 (Ranked 741)
 | Curveball | 7.00% | ~83 |
 | Wipe Out | 7.00% | ~83 |
 | Dressed To Kill | 6.00% | ~71 |
-| Cruelty | 2.00% | ~24 |
+| Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Shadow Boxin' | 0.80% | ~9 |

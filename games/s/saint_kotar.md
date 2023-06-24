@@ -24,6 +24,8 @@
 | Save Arsen | 21.00% | ~4 |
 | You Abandoned God | 21.00% | ~4 |
 | Kabeer is Dead | 16.00% | ~3 |
+| You Ended the Bloodline Curse! | 16.00% | ~3 |
+| Become the Hero of Sveti Kotar | 16.00% | ~3 |
 | The Warden's Room | 16.00% | ~3 |
 | Infuriate Elizabeta | 16.00% | ~3 |
 | Warden's Monstrosities | 16.00% | ~3 |
@@ -32,8 +34,6 @@
 | Forgive Ida | 11.00% | ~2 |
 | Davor Was Deported | 11.00% | ~2 |
 | Gregor Was Punished | 11.00% | ~2 |
-| You Ended the Bloodline Curse! | 11.00% | ~2 |
-| Become the Hero of Sveti Kotar | 11.00% | ~2 |
 | Silenced the Voices | 11.00% | ~2 |
 | The Chapel | 11.00% | ~2 |
 | The Sanctuary | 11.00% | ~2 |
