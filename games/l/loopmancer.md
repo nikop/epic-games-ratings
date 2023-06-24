@@ -26,8 +26,8 @@
 | Best in Dragon City | 22.00% | ~21 |
 | Walking into a Trap | 22.00% | ~21 |
 | Disdain | 20.00% | ~19 |
-| Final Battle | 18.00% | ~17 |
-| Outsider's Profit | 18.00% | ~17 |
+| Final Battle | 19.00% | ~18 |
+| Outsider's Profit | 19.00% | ~18 |
 | Brain in a Vat | 16.00% | ~15 |
 | Reappearance | 15.00% | ~14 |
 | King of the Streets | 10.00% | ~10 |

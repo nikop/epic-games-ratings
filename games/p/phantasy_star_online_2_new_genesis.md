@@ -1,11 +1,11 @@
 # Phantasy Star Online 2 New Genesis
 [Store](https://store.epicgames.com/en-US/p/phantasy-star-online-2)  
 [View Rawdata](../../db/p/phantasy_star_online_2_new_genesis.json)  
-Rating: 4.55 (Ranked 476)  
+Rating: 4.55 (Ranked 475)  
 Number of Ratings: 692  (23.09.2022)  
 ## Awards
 Max (Character Customization): 870  (Ranked 149)  
-Sum: 3,820 (Ranked 138)  
+Sum: 3,821 (Ranked 138)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 11
 | This game has Diverse Characters | 260 |
 | This game is Highly Recommended | 258 |
 | This game has Amazing Characters | 257 |
-| This game has Quickly Understood Controls | 252 |
+| This game has Quickly Understood Controls | 253 |
 | This game is Relaxing | 242 |
 | This game has Beautiful Visuals | 236 |
 | This game has a Creative Community | 217 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 11
 | 2023-06-21 | 4.55 | - | 868 | 3,811 |
 | 2023-06-22 | 4.55 | - | 870 | 3,819 |
 | 2023-06-23 | 4.55 | - | 870 | 3,820 |
+| 2023-06-24 | 4.55 | - | 870 | 3,821 |

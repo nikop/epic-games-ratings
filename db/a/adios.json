@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63065,
+  "EOS_Progressed": 63067,
   "EOS_Completed": 572,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -6946,6 +6946,11 @@
       "Time": "2023-06-24T06:06:44.6185717+00:00",
       "NumProgressed": 63065,
       "NumCompleted": 572
+    },
+    {
+      "Time": "2023-06-24T07:06:09.9124372+00:00",
+      "NumProgressed": 63067,
+      "NumCompleted": 572
     }
   ],
   "TotalAchievements": 25,
@@ -6989,7 +6994,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -7077,7 +7082,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 11982
+      "UsersEstimate": 11983
     },
     {
       "ID": "Nice Try",
@@ -7085,7 +7090,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "Nothing Left to Say",
@@ -7101,7 +7106,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6307
     },
     {
       "ID": "Right On Target",
@@ -7109,7 +7114,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8199
     },
     {
       "ID": "Sniper",
@@ -7156,7 +7161,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 63065,
+      "Progressed": 63067,
       "Completed": 572
     }
   ],
@@ -7164,8 +7169,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-24T06:06:44.6185712+00:00",
+  "LastChanged_Achievements": "2023-06-24T07:06:09.9124363+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:01:34.9256136+00:00",
-  "LastUpdate_Achievements": "2023-06-24T06:06:44.6186157+00:00"
+  "LastUpdate_Ratings": "2023-06-24T07:00:13.250952+00:00",
+  "LastUpdate_Achievements": "2023-06-24T07:06:09.9124984+00:00"
 }

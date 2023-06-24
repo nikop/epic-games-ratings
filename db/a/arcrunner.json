@@ -1334,9 +1334,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1429,8 +1429,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-24T06:02:30.9961381+00:00",
+  "LastChanged_Achievements": "2023-06-24T07:03:17.245077+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:00:31.1989925+00:00",
-  "LastUpdate_Achievements": "2023-06-24T06:02:30.9961624+00:00"
+  "LastUpdate_Ratings": "2023-06-24T06:59:30.3134756+00:00",
+  "LastUpdate_Achievements": "2023-06-24T07:03:17.245106+00:00"
 }

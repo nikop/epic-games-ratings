@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get Lost! | 66.00% | ~71 |
-| Barista | 42.00% | ~45 |
-| Tea-ser | 34.00% | ~37 |
-| Coffee Connoisseur | 16.00% | ~17 |
+| Get Lost! | 67.00% | ~72 |
+| Barista | 43.00% | ~46 |
+| Tea-ser | 35.00% | ~38 |
+| Coffee Connoisseur | 17.00% | ~18 |
 | Tea Master | 6.00% | ~6 |
 | Brew Master | 4.00% | ~4 |
 | Tea Guru | 2.00% | ~2 |

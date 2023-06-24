@@ -32,7 +32,7 @@
 | Honest Mistake | 10.00% | ~72 |
 | Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |
-| Chaincrawler Explorer | 8.00% | ~57 |
+| Chaincrawler Explorer | 8.00% | ~58 |
 | Family Memories | 7.00% | ~50 |
 | Sump Explorer | 7.00% | ~50 |
 | Theater Explorer | 7.00% | ~50 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718 (Ranked 195)  
+Progressed: 719 (Ranked 195)  
 Completed: 4 (0.56%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 4 (0.56%) (Ranked 120)
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
 | 2023-06-23 | 718 | 4 |
+| 2023-06-24 | 719 | 4 |

@@ -22,7 +22,9 @@
 | Ulric's Painting Acquired | 21.00% | ~4 |
 | Save Arsen | 21.00% | ~4 |
 | Veil of Vera | 21.00% | ~4 |
+| The Warden's Room | 16.00% | ~3 |
 | Infuriate Elizabeta | 16.00% | ~3 |
+| Warden's Monstrosities | 16.00% | ~3 |
 | Nikolay's Nonsense | 16.00% | ~3 |
 | You Abandoned God | 16.00% | ~3 |
 | Leave the Town | 11.00% | ~2 |
@@ -36,10 +38,8 @@
 | The Chapel | 11.00% | ~2 |
 | The Sanctuary | 11.00% | ~2 |
 | The Sewers | 11.00% | ~2 |
-| The Warden's Room | 11.00% | ~2 |
 | Incapacitated by the Death Whistle | 11.00% | ~2 |
 | Goldin's Fate | 11.00% | ~2 |
-| Warden's Monstrosities | 11.00% | ~2 |
 | Lodge's Secret Passage Shortcut | 11.00% | ~2 |
 | Found Vilim's Body | 5.00% | ~1 |
 | Get Eaten by the Food Man | 5.00% | ~1 |

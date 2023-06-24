@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13352,
+  "EOS_Progressed": 13353,
   "EOS_Completed": 277,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
@@ -7009,6 +7009,11 @@
       "Time": "2023-06-24T06:06:43.9358812+00:00",
       "NumProgressed": 13352,
       "NumCompleted": 277
+    },
+    {
+      "Time": "2023-06-24T07:06:09.3516212+00:00",
+      "NumProgressed": 13353,
+      "NumCompleted": 277
     }
   ],
   "TotalAchievements": 20,
@@ -7018,9 +7023,9 @@
       "ID": "COMPLETED_MAP",
       "SetID": "b6m2mm5",
       "Name": "Cartographer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2404
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -7179,15 +7184,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13352,
+      "Progressed": 13353,
       "Completed": 277
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-24T06:06:43.9358805+00:00",
+  "LastChanged_Achievements": "2023-06-24T07:06:09.3516206+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:01:07.7063895+00:00",
-  "LastUpdate_Achievements": "2023-06-24T06:06:43.9359245+00:00"
+  "LastUpdate_Ratings": "2023-06-24T06:59:55.8813267+00:00",
+  "LastUpdate_Achievements": "2023-06-24T07:06:09.3516772+00:00"
 }

@@ -21,8 +21,8 @@
 | Inner Core | 0.50% | ~3 |
 | Nanonic II | 0.50% | ~3 |
 | Outer Core | 0.50% | ~3 |
+| Rookie | 0.50% | ~3 |
 | Starship Docks | 0.30% | ~2 |
-| Rookie | 0.30% | ~2 |
 | Ripperdoc | 0.20% | ~1 |
 | Up Close And Personal | 0.20% | ~1 |
 | Cyborg | 0.00% | ~0 |

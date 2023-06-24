@@ -53,19 +53,19 @@
 | Deal with it | 15.00% | ~13 |
 | You're looking mozzare-hella good! | 13.00% | ~11 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~11 |
+| Timber! | 10.00% | ~9 |
+| Free Of Chains | 10.00% | ~9 |
 | Ancient Ruins of Moist Overhangs | 9.00% | ~8 |
 | I drink, but I'm not a drunk! | 9.00% | ~8 |
-| Timber! | 9.00% | ~8 |
 | Grumpy Immortal | 9.00% | ~8 |
-| Free Of Chains | 9.00% | ~8 |
 | Spoiler alert! | 8.00% | ~7 |
 | Scrambled Eggs | 8.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 6.00% | ~5 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
+| Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | I want to throw up! | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
-| Ancient Ruins of Poor Intrusion Prevention | 3.00% | ~3 |
 | Ancient Ruins of Stubbed Toes | 3.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |

@@ -5,24 +5,24 @@ Rating: 4.25 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~149,332 |
+| Corner Clout | 46.00% | ~149,334 |
 | Copacetic Coordination | 16.00% | ~51,942 |
 | Fronting the Money | 14.00% | ~45,449 |
 | The Dawn of Automation | 14.00% | ~45,449 |
 | Extraordinary Logistics | 14.00% | ~45,449 |
 | Dirty Money | 13.00% | ~42,203 |
 | Family First | 13.00% | ~42,203 |
-| Cleaning House | 12.00% | ~38,956 |
-| Room in the Back | 12.00% | ~38,956 |
+| Cleaning House | 12.00% | ~38,957 |
+| Room in the Back | 12.00% | ~38,957 |
 | Booze Baron | 11.00% | ~35,710 |
 | Beating the Heat | 10.00% | ~32,464 |
 | Friends on the Force | 10.00% | ~32,464 |
 | Neighborhood Watch | 10.00% | ~32,464 |
 | Core Corps | 8.00% | ~25,971 |
-| Sizeable Stash | 7.00% | ~22,724 |
-| Street Fighter | 7.00% | ~22,724 |
-| Friendly Gestures | 7.00% | ~22,724 |
-| People Person | 7.00% | ~22,724 |
+| Sizeable Stash | 7.00% | ~22,725 |
+| Street Fighter | 7.00% | ~22,725 |
+| Friendly Gestures | 7.00% | ~22,725 |
+| People Person | 7.00% | ~22,725 |
 | Liquor Lord | 6.00% | ~19,478 |
 | Safety in Numbers | 6.00% | ~19,478 |
 | Show ‘em the Sugar | 6.00% | ~19,478 |
@@ -36,11 +36,11 @@ Rating: 4.25 (Ranked 799)
 | Moving Experiences | 5.00% | ~16,232 |
 | Mission Mastery | 5.00% | ~16,232 |
 | Wise Head | 5.00% | ~16,232 |
-| Considerable Clams | 4.00% | ~12,985 |
-| Gin Joint | 4.00% | ~12,985 |
-| An Affront to the Enemy | 4.00% | ~12,985 |
-| Friends from Back Home | 4.00% | ~12,985 |
-| Half Century Mark | 4.00% | ~12,985 |
+| Considerable Clams | 4.00% | ~12,986 |
+| Gin Joint | 4.00% | ~12,986 |
+| An Affront to the Enemy | 4.00% | ~12,986 |
+| Friends from Back Home | 4.00% | ~12,986 |
+| Half Century Mark | 4.00% | ~12,986 |
 | Corner Opportunities | 3.00% | ~9,739 |
 | 2122 North Clark Street | 3.00% | ~9,739 |
 | Copious Cabbage | 3.00% | ~9,739 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 799)
 | High Pillow | 0.10% | ~325 |
 | Station Master | 0.10% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324,635 (Ranked 40)  
+Progressed: 324,639 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 5 (0.00%) (Ranked 230)
 | 2023-06-21 | 324,011 | 5 |
 | 2023-06-22 | 324,286 | 5 |
 | 2023-06-23 | 324,569 | 5 |
-| 2023-06-24 | 324,635 | 5 |
+| 2023-06-24 | 324,639 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 461)  
 Sum: 95 (Ranked 407)  

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 719,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2023-06-23T09:06:16.218204+00:00",
       "NumProgressed": 718,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-24T07:05:57.8048304+00:00",
+      "NumProgressed": 719,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1461,7 +1466,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ChestCompletion1",
@@ -1868,14 +1873,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 719,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-24T06:06:29.4450595+00:00",
+  "LastChanged_Achievements": "2023-06-24T07:05:57.8048298+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:00:10.9431741+00:00",
-  "LastUpdate_Achievements": "2023-06-24T06:06:29.4451032+00:00"
+  "LastUpdate_Ratings": "2023-06-24T06:59:17.2014152+00:00",
+  "LastUpdate_Achievements": "2023-06-24T07:05:57.8048776+00:00"
 }

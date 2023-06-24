@@ -4,7 +4,7 @@
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "hidden_location_warden_room",
       "SetID": "4akddl8",
       "Name": "The Warden\u0027s Room",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "incapacitated_Nikolay_with_death_whistle",
@@ -330,9 +330,9 @@
       "ID": "learned_about_warden_monstrosities",
       "SetID": "4akddl8",
       "Name": "Warden\u0027s Monstrosities",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "learned_more_about_Kotar_and_lore_and_background_story",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2023-06-24T06:07:06.7090302+00:00",
+  "LastChanged_Achievements": "2023-06-24T07:06:19.9841179+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:51.3453636+00:00",
-  "LastUpdate_Ratings": "2023-06-24T06:01:37.6834369+00:00",
-  "LastUpdate_Achievements": "2023-06-24T06:07:06.7090559+00:00"
+  "LastUpdate_Ratings": "2023-06-24T07:00:15.9790938+00:00",
+  "LastUpdate_Achievements": "2023-06-24T07:06:19.9841542+00:00"
 }

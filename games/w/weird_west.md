@@ -6,19 +6,19 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,449 |
+| Unforgiven | 87.00% | ~1,450 |
 | Self-Improvement | 72.00% | ~1,200 |
-| Perky | 65.00% | ~1,083 |
+| Perky | 65.00% | ~1,084 |
 | Let’s Ride | 60.00% | ~1,000 |
 | Welcome to the Weird West | 57.00% | ~950 |
-| Dead or Alive | 55.00% | ~916 |
-| Full House | 37.00% | ~616 |
-| Off the Trail | 34.00% | ~566 |
+| Dead or Alive | 55.00% | ~917 |
+| Full House | 37.00% | ~617 |
+| Off the Trail | 34.00% | ~567 |
 | Justice Served | 29.00% | ~483 |
 | Chain Reaction | 27.00% | ~450 |
 | Through Their Eyes | 26.00% | ~433 |
-| Rain of Death | 25.00% | ~416 |
-| Scholar | 25.00% | ~416 |
+| Rain of Death | 25.00% | ~417 |
+| Scholar | 25.00% | ~417 |
 | Dishonored | 24.00% | ~400 |
 | The Great Escape | 23.00% | ~383 |
 | That’s All, Folks | 18.00% | ~300 |
@@ -39,10 +39,10 @@ Number of Ratings: 125  (23.09.2022)
 | Mystery Machine | 9.00% | ~150 |
 | The Philosopher’s Stone | 9.00% | ~150 |
 | Gold Digger | 8.00% | ~133 |
-| Knuckle Sandwich | 8.00% | ~133 |
 | Do Not Pass Go… | 7.00% | ~117 |
 | Getting the Gang Back Together | 7.00% | ~117 |
 | Monster Hunter | 7.00% | ~117 |
+| Knuckle Sandwich | 7.00% | ~117 |
 | Healing Old Wounds | 6.00% | ~100 |
 | Who You Gonna Call? | 6.00% | ~100 |
 | This Is Sparta | 5.00% | ~83 |
@@ -50,9 +50,9 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~50 |
 | Moondrunk | 3.00% | ~50 |
 | Lord Inut Sends His Regards | 2.00% | ~33 |
-| 'Ma Barker | 2.00% | ~33 |
 | I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
+| 'Ma Barker | 1.00% | ~17 |
 | Explorer | 0.50% | ~8 |
 | End the world | 0.50% | ~8 |
 | Dirt and Blame | 0.40% | ~7 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,666 (Ranked 164)  
+Progressed: 1,667 (Ranked 164)  
 Completed: 3 (0.18%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 3 (0.18%) (Ranked 161)
 | 2023-06-21 | 1,664 | 2 |
 | 2023-06-22 | 1,665 | 3 |
 | 2023-06-23 | 1,666 | 3 |
+| 2023-06-24 | 1,667 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 473)  
 Sum: 24 (Ranked 478)  

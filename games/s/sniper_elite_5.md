@@ -7,6 +7,7 @@ Rating: 4.47 (Ranked 592)
 | ---- | ---------- | ----- |
 | Confirming Suspicions | 2.00% | ~62 |
 | It's Starting to Crack | 2.00% | ~62 |
+| Liberté | 1.00% | ~31 |
 | Meeting Resistance | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
 | Explosive Efficiency | 1.00% | ~31 |
@@ -18,16 +19,15 @@ Rating: 4.47 (Ranked 592)
 | Taking it back | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
-| Liberté | 0.90% | ~28 |
 | Just a Flesh Wound | 0.90% | ~28 |
 | Der Geist | 0.90% | ~28 |
 | Organ Grinder | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
+| Skirmisher | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Close Quarters | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
 | No Stone Unturned | 0.60% | ~19 |
-| Skirmisher | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
