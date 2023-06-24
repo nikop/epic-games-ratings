@@ -5,7 +5,7 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 24.00% | ~124 |
+| Tooth fairy | 25.00% | ~129 |
 | Dental maturity | 19.00% | ~98 |
 | Devil's in the details | 13.00% | ~67 |
 | Uprooting | 12.00% | ~62 |

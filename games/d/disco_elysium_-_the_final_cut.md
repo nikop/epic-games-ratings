@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,213 |
-| Biggest Communism Builder | 24.00% | ~29,326 |
-| The World's Most Laughable Centrist | 20.00% | ~24,438 |
-| Il Coppo Del'Arte! | 18.00% | ~21,994 |
+| Goodest Of The Good Cops | 28.00% | ~34,215 |
+| Biggest Communism Builder | 24.00% | ~29,327 |
+| The World's Most Laughable Centrist | 20.00% | ~24,439 |
+| Il Coppo Del'Arte! | 18.00% | ~21,995 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,551 |
 | Hyperstellar Law Official | 15.00% | ~18,329 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,107 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,885 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,885 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,441 |
-| The Figurines Won't Win Her Back | 9.00% | ~10,997 |
-| Unbelievably Boring **** | 8.00% | ~9,775 |
-| Enemy Of The Physical Realm | 8.00% | ~9,775 |
-| Hardie's Heroes | 6.00% | ~7,331 |
+| The Figurines Won't Win Her Back | 9.00% | ~10,998 |
+| Unbelievably Boring **** | 8.00% | ~9,776 |
+| Enemy Of The Physical Realm | 8.00% | ~9,776 |
+| Hardie's Heroes | 6.00% | ~7,332 |
 | The Lawbringer | 4.00% | ~4,888 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,888 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,666 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,191 (Ranked 60)  
+Progressed: 122,195 (Ranked 60)  
 Completed: 25 (0.02%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 25 (0.02%) (Ranked 209)
 | 2023-06-21 | 122,022 | 25 |
 | 2023-06-22 | 122,076 | 25 |
 | 2023-06-23 | 122,131 | 25 |
-| 2023-06-24 | 122,191 | 25 |
+| 2023-06-24 | 122,195 | 25 |
 ## Awards
 Max (Character Customization): 698  (Ranked 160)  
 Sum: 1,058 (Ranked 232)  

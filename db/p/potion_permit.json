@@ -2,7 +2,7 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 168,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.82,
+  "Rating": 3.83,
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -312,6 +312,12 @@
     {
       "Time": "2023-06-22T23:01:59.6728837+00:00",
       "Rating": 3.82,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-06-24T23:01:15.5080725+00:00",
+      "Rating": 3.83,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 67
     }
@@ -1694,9 +1700,9 @@
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
-  "LastChanged": "2023-06-22T23:01:59.6728834+00:00",
-  "LastChanged_Achievements": "2023-06-24T22:02:17.8669535+00:00",
+  "LastChanged": "2023-06-24T23:01:15.5080723+00:00",
+  "LastChanged_Achievements": "2023-06-24T23:02:12.8397384+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:42.3989723+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:00:55.5789245+00:00",
-  "LastUpdate_Achievements": "2023-06-24T22:02:17.8669809+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:01:15.508073+00:00",
+  "LastUpdate_Achievements": "2023-06-24T23:02:12.839777+00:00"
 }

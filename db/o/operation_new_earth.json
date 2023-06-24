@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -646,6 +646,11 @@
       "Time": "2023-06-24T22:04:12.3965603+00:00",
       "NumProgressed": 212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T23:04:13.8870536+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -657,7 +662,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -721,7 +726,7 @@
       "Name": "Silver Competitor",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -729,7 +734,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_headquarters_10",
@@ -753,7 +758,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_headquarters_5",
@@ -761,7 +766,7 @@
       "Name": "Facility Online",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -769,7 +774,7 @@
       "Name": "Corporal",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -785,7 +790,7 @@
       "Name": "Lieutenant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -801,7 +806,7 @@
       "Name": "Major",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -831,17 +836,17 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -865,7 +870,7 @@
       "Name": "Stocking Up",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -881,7 +886,7 @@
       "Name": "On Target",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -889,15 +894,15 @@
       "Name": "Battle Ready",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -913,7 +918,7 @@
       "Name": "Defenses Online",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -960,14 +965,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-24T22:04:12.3965599+00:00",
+  "LastChanged_Achievements": "2023-06-24T23:04:13.8870524+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:00:54.7842064+00:00",
-  "LastUpdate_Achievements": "2023-06-24T22:04:12.3965846+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:01:14.5758718+00:00",
+  "LastUpdate_Achievements": "2023-06-24T23:04:13.8870858+00:00"
 }

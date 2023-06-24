@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,557 |
-| Rookie | 25.00% | ~6,997 |
-| Nomad | 18.00% | ~5,038 |
-| Picking Up Speed | 17.00% | ~4,758 |
-| Welcome Maya | 16.00% | ~4,478 |
-| Sightseer | 11.00% | ~3,079 |
-| Scout | 10.00% | ~2,799 |
-| Amateur | 9.00% | ~2,519 |
-| Wanderer | 9.00% | ~2,519 |
-| Enter Paz | 8.00% | ~2,239 |
-| Unlock Maya | 7.00% | ~1,959 |
-| Aviator | 6.00% | ~1,679 |
-| One With The Board | 6.00% | ~1,679 |
-| My Little Friend | 5.00% | ~1,399 |
-| Voyager | 5.00% | ~1,399 |
+| Finding Your Footing | 27.00% | ~7,559 |
+| Rookie | 25.00% | ~7,000 |
+| Nomad | 18.00% | ~5,040 |
+| Picking Up Speed | 17.00% | ~4,760 |
+| Welcome Maya | 16.00% | ~4,480 |
+| Sightseer | 11.00% | ~3,080 |
+| Scout | 10.00% | ~2,800 |
+| Amateur | 9.00% | ~2,520 |
+| Wanderer | 9.00% | ~2,520 |
+| Enter Paz | 8.00% | ~2,240 |
+| Unlock Maya | 7.00% | ~1,960 |
+| Aviator | 6.00% | ~1,680 |
+| One With The Board | 6.00% | ~1,680 |
+| My Little Friend | 5.00% | ~1,400 |
+| Voyager | 5.00% | ~1,400 |
 | Sandboarder | 4.00% | ~1,120 |
 | Izel Has Arrived | 4.00% | ~1,120 |
 | Junkie | 3.00% | ~840 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~28 |
 | Windswept | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,989 (Ranked 92)  
+Progressed: 27,998 (Ranked 92)  
 Completed: 5 (0.02%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,16 +111,16 @@ Completed: 5 (0.02%) (Ranked 209)
 | 2023-06-21 | 27,447 | 5 |
 | 2023-06-22 | 27,611 | 5 |
 | 2023-06-23 | 27,804 | 5 |
-| 2023-06-24 | 27,989 | 5 |
+| 2023-06-24 | 27,998 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
-Sum: 347 (Ranked 321)  
+Sum: 348 (Ranked 321)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 45 |
 | This game is Highly Recommended | 42 |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 41 |
 | This game has Beautiful Visuals | 38 |
 | This game has Quickly Understood Controls | 36 |
 | This game is Relaxing | 35 |
@@ -219,3 +219,4 @@ Diff (max vs sum): 87
 | 2023-06-07 | 4.69 | - | 44 | 346 |
 | 2023-06-15 | 4.69 | - | 45 | 347 |
 | 2023-06-17 | 4.70 | - | 45 | 347 |
+| 2023-06-24 | 4.70 | - | 45 | 348 |

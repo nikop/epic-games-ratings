@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "ACH_FRIENDS",
       "SetID": "ca3jj1k",
       "Name": "Friends Will Be Friends",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_GOOD_COMPANY",
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-06-24T22:03:17.2670398+00:00",
+  "LastChanged_Achievements": "2023-06-24T23:03:13.3786141+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:37.2807371+00:00",
-  "LastUpdate_Ratings": "2023-06-24T21:59:12.8904585+00:00",
-  "LastUpdate_Achievements": "2023-06-24T22:03:17.2670505+00:00"
+  "LastUpdate_Ratings": "2023-06-24T22:59:17.0395661+00:00",
+  "LastUpdate_Achievements": "2023-06-24T23:03:13.3786266+00:00"
 }

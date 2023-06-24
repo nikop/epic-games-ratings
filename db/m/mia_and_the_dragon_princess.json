@@ -2,9 +2,9 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "escape_artist",
@@ -395,9 +395,9 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "snitch",
@@ -426,8 +426,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-24T22:04:33.0839087+00:00",
+  "LastChanged_Achievements": "2023-06-24T23:04:36.0713245+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:45.7718683+00:00",
-  "LastUpdate_Ratings": "2023-06-24T21:58:31.1176711+00:00",
-  "LastUpdate_Achievements": "2023-06-24T22:04:33.0839208+00:00"
+  "LastUpdate_Ratings": "2023-06-24T22:58:29.7789975+00:00",
+  "LastUpdate_Achievements": "2023-06-24T23:04:36.0713391+00:00"
 }

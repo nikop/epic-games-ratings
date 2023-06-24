@@ -13,9 +13,9 @@
 | A Box of Tricks | 19.00% | ~9 |
 | Bathroom Brawler | 19.00% | ~9 |
 | Breathless End | 19.00% | ~9 |
-| Codebreaker | 17.00% | ~8 |
+| Codebreaker | 19.00% | ~9 |
+| Set Sail | 19.00% | ~9 |
 | Finger-Lickin' Bad | 17.00% | ~8 |
-| Set Sail | 17.00% | ~8 |
 | Backstory Buff | 15.00% | ~7 |
 | Flying High | 15.00% | ~7 |
 | Fool's Gold | 4.00% | ~2 |
@@ -23,7 +23,7 @@
 | Escape Artist | 2.00% | ~1 |
 | Key Keeper's Curse | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 327)  
+Progressed: 48 (Ranked 328)  
 Completed: 1 (2.08%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |

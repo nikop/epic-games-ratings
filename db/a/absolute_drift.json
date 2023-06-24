@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525377,
+  "EOS_Progressed": 1525383,
   "EOS_Completed": 634,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1527,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7360,6 +7360,11 @@
       "Time": "2023-06-24T22:04:56.3983548+00:00",
       "NumProgressed": 1525377,
       "NumCompleted": 634
+    },
+    {
+      "Time": "2023-06-24T23:05:01.5098867+00:00",
+      "NumProgressed": 1525383,
+      "NumCompleted": 634
     }
   ],
   "TotalAchievements": 20,
@@ -7379,7 +7384,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106776
+      "UsersEstimate": 106777
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -7530,15 +7535,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1525377,
+      "Progressed": 1525383,
       "Completed": 634
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-24T22:04:56.3983543+00:00",
+  "LastChanged_Achievements": "2023-06-24T23:05:01.5098853+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.0971586+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:00:32.733253+00:00",
-  "LastUpdate_Achievements": "2023-06-24T22:04:56.3983958+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:00:47.8485283+00:00",
+  "LastUpdate_Achievements": "2023-06-24T23:05:01.5099424+00:00"
 }
