@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
 | 1 | [Volley Pals](games/v/volley_pals.md) | 33.33% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.58% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -9,14 +9,14 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.83% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.57% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.46% |
 | 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 14 | [Remains](games/r/remains.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.99% |
@@ -26,7 +26,7 @@
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.27% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.12% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
 | 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -47,7 +47,7 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [JARS](games/j/jars.md) | 3.51% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.34% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.33% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
 | 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.17% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
@@ -96,7 +96,7 @@
 | 94 | [Trifox](games/t/trifox.md) | 1.12% |
 | 95 | [Five Dates](games/f/five_dates.md) | 1.11% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.07% |
+| 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
 | 98 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
 | 99 | [Sable](games/s/sable.md) | 0.96% |
 | 100 | [Adios](games/a/adios.md) | 0.91% |
@@ -127,7 +127,7 @@
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 127 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
-| 128 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
+| 128 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.43% |
 | 130 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
