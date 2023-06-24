@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -641,6 +641,11 @@
       "Time": "2023-06-24T16:04:32.2819584+00:00",
       "NumProgressed": 211,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T22:04:12.3965603+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -658,9 +663,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_defeat_players_10",
@@ -668,7 +673,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_defeat_players_100",
@@ -732,7 +737,7 @@
       "Name": "Keeping Busy",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_headquarters_15",
@@ -754,9 +759,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -908,7 +913,7 @@
       "Name": "Defenses Online",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -955,14 +960,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-24T21:03:29.0258126+00:00",
+  "LastChanged_Achievements": "2023-06-24T22:04:12.3965599+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-24T21:00:00.7012923+00:00",
-  "LastUpdate_Achievements": "2023-06-24T21:03:29.0258371+00:00"
+  "LastUpdate_Ratings": "2023-06-24T22:00:54.7842064+00:00",
+  "LastUpdate_Achievements": "2023-06-24T22:04:12.3965846+00:00"
 }

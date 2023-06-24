@@ -12,8 +12,8 @@ Rating: 4.62 (Ranked 346)
 | Fond Memories | 52.00% | ~256 |
 | A Method To His Madness | 51.00% | ~251 |
 | History Check | 50.00% | ~246 |
+| The New World | 47.00% | ~232 |
 | Gaze Into The Abyss | 46.00% | ~227 |
-| The New World | 46.00% | ~227 |
 | Open Sesame | 46.00% | ~227 |
 | Sticky Fingers | 46.00% | ~227 |
 | Knives Out | 46.00% | ~227 |
@@ -29,7 +29,7 @@ Rating: 4.62 (Ranked 346)
 | Let Me Be Frank | 36.00% | ~177 |
 | Brain Food | 34.00% | ~168 |
 | No Stone Unturned | 33.00% | ~163 |
-| Curiosity Killed The Cat | 20.00% | ~99 |
+| Curiosity Killed The Cat | 21.00% | ~104 |
 | Read It And Weep | 20.00% | ~99 |
 | Big Breakthrough | 15.00% | ~74 |
 | Reawakened | 6.00% | ~30 |

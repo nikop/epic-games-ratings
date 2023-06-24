@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 98.00% | ~80 |
-| You're spelunkin' now! | 87.00% | ~71 |
+| We've only just begun | 98.00% | ~81 |
+| You're spelunkin' now! | 86.00% | ~71 |
 | The Birdman of The Caves | 51.00% | ~42 |
-| I've Fallen & I Can't Get Up | 50.00% | ~41 |
+| I've Fallen & I Can't Get Up | 49.00% | ~41 |
 | Charmin' the Snake | 35.00% | ~29 |
 | Bridge Builder | 22.00% | ~18 |
-| Drums in the Deep | 21.00% | ~17 |
-| Treasure Seeker | 21.00% | ~17 |
+| Drums in the Deep | 20.00% | ~17 |
+| Treasure Seeker | 20.00% | ~17 |
 | Take the Scenic Route | 13.00% | ~11 |
 | Treasure Hunter | 13.00% | ~11 |
 | Green Thumb Goliath | 13.00% | ~11 |
 | Redbeard's Revenger | 12.00% | ~10 |
 | St. George's Gauntlet | 11.00% | ~9 |
 | BJ & The Bear | 10.00% | ~8 |
-| Mr. Magic | 9.00% | ~7 |
-| Who dat? | 9.00% | ~7 |
-| Soft Hands | 9.00% | ~7 |
+| Mr. Magic | 8.00% | ~7 |
+| Who dat? | 8.00% | ~7 |
+| Soft Hands | 8.00% | ~7 |
 | Can't bear the weight | 6.00% | ~5 |
 | Egg On His Face | 6.00% | ~5 |
 | Batteries not Included | 6.00% | ~5 |
@@ -29,7 +29,7 @@
 | Colossal Cave Explorer | 4.00% | ~3 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 303)  
+Progressed: 83 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,6 +41,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-14 | 80 | 0 |
 | 2023-06-19 | 81 | 0 |
 | 2023-06-22 | 82 | 0 |
+| 2023-06-24 | 83 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

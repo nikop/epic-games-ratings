@@ -38,13 +38,13 @@ Rating: 4.47 (Ranked 593)
 | Rigged to Blow | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
 | Enemy at the Gates | 0.40% | ~12 |
+| Strategist | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Locomotion Commotion | 0.40% | ~12 |
 | Don't hold your breath | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
-| Strategist | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Burn after reading | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |

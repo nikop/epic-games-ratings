@@ -12,7 +12,7 @@ Rating: 4.35 (Ranked 733)
 | I am the law! | 62.00% | ~735 |
 | Lumberjack | 50.00% | ~593 |
 | Croaked | 46.00% | ~546 |
-| Limp Richard | 44.00% | ~522 |
+| Limp Richard | 45.00% | ~534 |
 | Exorcist | 44.00% | ~522 |
 | From Darkness to Light | 44.00% | ~522 |
 | Editor Adept | 43.00% | ~510 |

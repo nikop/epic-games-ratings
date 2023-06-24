@@ -19,13 +19,13 @@
 | Kick It | 26.00% | ~14 |
 | Bedroom Secret Spot | 26.00% | ~14 |
 | Have Mercy | 24.00% | ~13 |
+| Spooky | 20.00% | ~11 |
 | Save some water for the fishies | 19.00% | ~10 |
-| Spooky | 19.00% | ~10 |
 | Classroom Secret Spot | 17.00% | ~9 |
 | Bathroom Secret Spot | 17.00% | ~9 |
+| At least everyone still had fun | 13.00% | ~7 |
 | Living Room Secret Spot | 11.00% | ~6 |
 | Angry Dad | 11.00% | ~6 |
-| At least everyone still had fun | 11.00% | ~6 |
 | Just how we drew it up | 9.00% | ~5 |
 | Interference | 7.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |

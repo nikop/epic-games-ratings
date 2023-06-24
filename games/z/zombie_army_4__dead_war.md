@@ -6,42 +6,42 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~29,170 |
-| Say goodbye, creep! | 65.00% | ~27,883 |
-| Blood splattered | 65.00% | ~27,883 |
-| Choo choo! | 62.00% | ~26,596 |
-| Groovy | 61.00% | ~26,167 |
-| Cleanup on aisle 4! | 57.00% | ~24,451 |
-| Gold | 50.00% | ~21,448 |
-| The boat can leave now...tell the crew | 49.00% | ~21,020 |
-| Stand back boy! | 47.00% | ~20,162 |
-| Give me something to shoot! | 46.00% | ~19,733 |
-| Weird science | 44.00% | ~18,875 |
-| Chain reaction | 44.00% | ~18,875 |
-| Look mummy! A shark! | 41.00% | ~17,588 |
-| What did you say, Blain? | 41.00% | ~17,588 |
-| In the dark dark woods... | 38.00% | ~16,301 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,301 |
-| Double tap | 37.00% | ~15,872 |
-| All of this has happened before… | 36.00% | ~15,443 |
-| Cranial blowout! | 36.00% | ~15,443 |
-| Zombie killin' machine | 36.00% | ~15,443 |
-| Every bullet counts | 36.00% | ~15,443 |
-| You've got red on you | 34.00% | ~14,585 |
-| All roads lead to Rome | 33.00% | ~14,156 |
-| You're all going to die down here | 31.00% | ~13,298 |
-| He did Nazi that coming | 31.00% | ~13,298 |
-| Kill of the week | 31.00% | ~13,298 |
-| I never liked them anyway | 30.00% | ~12,869 |
-| Is it over? | 28.00% | ~12,011 |
-| Got your back | 27.00% | ~11,582 |
-| Gore soaked | 24.00% | ~10,295 |
-| Shock therapy | 22.00% | ~9,437 |
-| Leave the limbs you've lost | 22.00% | ~9,437 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,721 |
-| Take them down screaming | 18.00% | ~7,721 |
-| Bad Blood | 17.00% | ~7,292 |
-| Weapons expert | 17.00% | ~7,292 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~29,172 |
+| Say goodbye, creep! | 65.00% | ~27,885 |
+| Blood splattered | 65.00% | ~27,885 |
+| Choo choo! | 62.00% | ~26,598 |
+| Groovy | 61.00% | ~26,169 |
+| Cleanup on aisle 4! | 57.00% | ~24,453 |
+| Gold | 50.00% | ~21,450 |
+| The boat can leave now...tell the crew | 49.00% | ~21,021 |
+| Stand back boy! | 47.00% | ~20,163 |
+| Give me something to shoot! | 46.00% | ~19,734 |
+| Weird science | 44.00% | ~18,876 |
+| Chain reaction | 44.00% | ~18,876 |
+| Look mummy! A shark! | 41.00% | ~17,589 |
+| What did you say, Blain? | 41.00% | ~17,589 |
+| In the dark dark woods... | 38.00% | ~16,302 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,302 |
+| Double tap | 37.00% | ~15,873 |
+| All of this has happened before… | 36.00% | ~15,444 |
+| Cranial blowout! | 36.00% | ~15,444 |
+| Zombie killin' machine | 36.00% | ~15,444 |
+| Every bullet counts | 36.00% | ~15,444 |
+| You've got red on you | 34.00% | ~14,586 |
+| All roads lead to Rome | 33.00% | ~14,157 |
+| You're all going to die down here | 31.00% | ~13,299 |
+| He did Nazi that coming | 31.00% | ~13,299 |
+| Kill of the week | 31.00% | ~13,299 |
+| I never liked them anyway | 30.00% | ~12,870 |
+| Is it over? | 28.00% | ~12,012 |
+| Got your back | 27.00% | ~11,583 |
+| Gore soaked | 24.00% | ~10,296 |
+| Shock therapy | 22.00% | ~9,438 |
+| Leave the limbs you've lost | 22.00% | ~9,438 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,722 |
+| Take them down screaming | 18.00% | ~7,722 |
+| Bad Blood | 17.00% | ~7,293 |
+| Weapons expert | 17.00% | ~7,293 |
 | The bigger they are... | 15.00% | ~6,435 |
 | I'm going deeper underground | 14.00% | ~6,006 |
 | Well equipped | 12.00% | ~5,148 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~429 |
 | None more hard | 0.50% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,897 (Ranked 86)  
+Progressed: 42,900 (Ranked 86)  
 Completed: 25 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 25 (0.06%) (Ranked 191)
 | 2023-06-21 | 42,861 | 25 |
 | 2023-06-22 | 42,869 | 25 |
 | 2023-06-23 | 42,876 | 25 |
-| 2023-06-24 | 42,897 | 25 |
+| 2023-06-24 | 42,900 | 25 |
 ## Awards
 Max (Great Boss Battles): 795  (Ranked 151)  
 Sum: 2,418 (Ranked 173)  

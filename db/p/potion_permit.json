@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -328,9 +328,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1368,6 +1368,11 @@
       "Time": "2023-06-23T21:02:22.7744458+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-24T22:02:17.866954+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 38,
@@ -1379,7 +1384,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1387,7 +1392,7 @@
       "Name": "Great Doctor",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1427,7 +1432,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -1435,7 +1440,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1555,7 +1560,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -1682,7 +1687,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 7
     }
   ],
@@ -1690,8 +1695,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-22T23:01:59.6728834+00:00",
-  "LastChanged_Achievements": "2023-06-24T21:00:35.7855968+00:00",
+  "LastChanged_Achievements": "2023-06-24T22:02:17.8669535+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:42.3989723+00:00",
-  "LastUpdate_Ratings": "2023-06-24T21:00:01.2506623+00:00",
-  "LastUpdate_Achievements": "2023-06-24T21:00:35.7856259+00:00"
+  "LastUpdate_Ratings": "2023-06-24T22:00:55.5789245+00:00",
+  "LastUpdate_Achievements": "2023-06-24T22:02:17.8669809+00:00"
 }

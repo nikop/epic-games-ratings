@@ -35,14 +35,14 @@ Rating: 4.57 (Ranked 441)
 | Assassin | 1.00% | ~108 |
 | Chick Magnet | 1.00% | ~108 |
 | Ain’t Nothing But a G Thing | 1.00% | ~108 |
-| Hoopin' it Up | 0.80% | ~86 |
+| Hoopin' it Up | 0.90% | ~97 |
 | Not a Player | 0.60% | ~65 |
 | Remastered | 0.50% | ~54 |
-| ...Here we go again | 0.20% | ~22 |
+| ...Here we go again | 0.30% | ~32 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,809 (Ranked 112)  
-Completed: 21 (0.19%) (Ranked 158)  
+Completed: 22 (0.20%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 21 (0.19%) (Ranked 158)
 | 2023-06-21 | 10,747 | 19 |
 | 2023-06-22 | 10,764 | 20 |
 | 2023-06-23 | 10,783 | 20 |
-| 2023-06-24 | 10,809 | 21 |
+| 2023-06-24 | 10,809 | 22 |
 ## Awards
 Max (Great Boss Battles): 185  (Ranked 274)  
 Sum: 185 (Ranked 366)  

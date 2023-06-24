@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-01T00:00:00+00:00",
@@ -115,9 +115,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -577,8 +577,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-06-24T21:00:17.1954207+00:00",
+  "LastChanged_Achievements": "2023-06-24T22:01:16.7079669+00:00",
   "LastUpdate_AppInfo": "2023-06-22T13:02:40.42004+00:00",
-  "LastUpdate_Ratings": "2023-06-24T20:56:55.9375902+00:00",
-  "LastUpdate_Achievements": "2023-06-24T21:00:17.1954758+00:00"
+  "LastUpdate_Ratings": "2023-06-24T21:57:09.1949722+00:00",
+  "LastUpdate_Achievements": "2023-06-24T22:01:16.7080229+00:00"
 }

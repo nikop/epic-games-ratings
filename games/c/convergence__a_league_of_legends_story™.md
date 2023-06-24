@@ -10,12 +10,12 @@
 | Rail Rat | 13.00% | ~94 |
 | Cartographer | 13.00% | ~94 |
 | Treasure Trove | 12.00% | ~87 |
+| The Betrayer | 12.00% | ~87 |
 | Make Up For Lost Time | 12.00% | ~87 |
 | Time Flies | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
 | The Prince in Heels | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
-| The Betrayer | 11.00% | ~79 |
 | The Man Who Shattered Time | 11.00% | ~79 |
 | The Loose Cannon | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |

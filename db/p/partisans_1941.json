@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1250,6 +1250,11 @@
       "Time": "2023-06-24T19:08:08.3077307+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T22:06:46.3447001+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1277,7 +1282,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Big_Bertha",
@@ -1341,7 +1346,7 @@
       "Name": "E1M1",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Everyone_is_here",
@@ -1421,7 +1426,7 @@
       "Name": "No Witness",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Kultprosvet",
@@ -1453,7 +1458,7 @@
       "Name": "Mosquito bite",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Scout",
@@ -1475,9 +1480,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 351
     },
     {
       "ID": "We_were_not_here",
@@ -1491,24 +1496,24 @@
       "ID": "Your_turn",
       "SetID": "85nb4h3",
       "Name": "Your Answer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-24T21:05:37.2738467+00:00",
+  "LastChanged_Achievements": "2023-06-24T22:06:46.3446997+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:10.5622483+00:00",
-  "LastUpdate_Ratings": "2023-06-24T20:58:59.4083185+00:00",
-  "LastUpdate_Achievements": "2023-06-24T21:05:37.2738702+00:00"
+  "LastUpdate_Ratings": "2023-06-24T21:59:40.9775938+00:00",
+  "LastUpdate_Achievements": "2023-06-24T22:06:46.3447209+00:00"
 }
