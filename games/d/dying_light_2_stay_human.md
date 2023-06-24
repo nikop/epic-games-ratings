@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,020 |
-| Into the Unknown | 10.00% | ~58,200 |
-| First Shot | 10.00% | ~58,200 |
-| Herzlich Wilkommen! | 9.00% | ~52,380 |
-| Good Night & Good Luck | 9.00% | ~52,380 |
-| Sancho Panza | 8.00% | ~46,560 |
-| Under Pressure | 7.00% | ~40,740 |
-| On the Trail of the Enemy | 7.00% | ~40,740 |
-| Flag Burning | 7.00% | ~40,740 |
-| Oh, So This Is How It Works! | 7.00% | ~40,740 |
-| Night Hunter | 7.00% | ~40,740 |
-| Light in the Darkness | 6.00% | ~34,920 |
-| Get Outta My House! | 6.00% | ~34,920 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,920 |
-| Being All Social | 6.00% | ~34,920 |
+| You Never Forget Your First... | 11.00% | ~64,021 |
+| Into the Unknown | 10.00% | ~58,201 |
+| First Shot | 10.00% | ~58,201 |
+| Herzlich Wilkommen! | 9.00% | ~52,381 |
+| Good Night & Good Luck | 9.00% | ~52,381 |
+| Sancho Panza | 8.00% | ~46,561 |
+| Under Pressure | 7.00% | ~40,741 |
+| On the Trail of the Enemy | 7.00% | ~40,741 |
+| Flag Burning | 7.00% | ~40,741 |
+| Oh, So This Is How It Works! | 7.00% | ~40,741 |
+| Night Hunter | 7.00% | ~40,741 |
+| Light in the Darkness | 6.00% | ~34,921 |
+| Get Outta My House! | 6.00% | ~34,921 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,921 |
+| Being All Social | 6.00% | ~34,921 |
 | Debris and Ashes | 5.00% | ~29,100 |
 | We Will Be Heard! | 5.00% | ~29,100 |
 | Known Associate | 5.00% | ~29,100 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,820 |
 | Fit as a Fiddle | 1.00% | ~5,820 |
 | Ironheart | 1.00% | ~5,820 |
-| Nemesis | 1.00% | ~2,274 |
-| Enter the Hall | 1.00% | ~2,274 |
+| Nemesis | 1.00% | ~2,275 |
+| Enter the Hall | 1.00% | ~2,275 |
 | Find Anything Interesting? | 0.80% | ~4,656 |
 | Boot Licker | 0.80% | ~4,656 |
 | Who Wants To Be a... | 0.80% | ~4,656 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582,003 (Ranked 26)  
+Progressed: 582,010 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,10 +137,10 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
 | 2023-06-23 | 581,953 | 57 |
-| 2023-06-24 | 582,003 | 57 |
+| 2023-06-24 | 582,010 | 57 |
 ## Awards
 Max (Character Customization): 7,983  (Ranked 40)  
-Sum: 18,548 (Ranked 56)  
+Sum: 18,553 (Ranked 56)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -148,13 +148,13 @@ Diff (max vs sum): -16
 | This game has Great Boss Battles | 4,656 |
 | This game is Great for Beginners | 742 |
 | This game is Highly Recommended | 698 |
+| This game has Diverse Characters | 685 |
 | This game has Amazing Characters | 684 |
-| This game has Diverse Characters | 683 |
 | This game is Extremely Fun | 674 |
 | This game has Quickly Understood Controls | 648 |
 | This game has Amazing Storytelling | 640 |
 | This game is Relaxing | 625 |
-| This game has a Creative Community | 515 |
+| This game has a Creative Community | 518 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -322,3 +322,4 @@ Diff (max vs sum): -16
 | 2023-06-21 | 4.58 | - | 7,931 | 18,419 |
 | 2023-06-22 | 4.58 | - | 7,963 | 18,493 |
 | 2023-06-23 | 4.58 | - | 7,983 | 18,548 |
+| 2023-06-24 | 4.58 | - | 7,983 | 18,553 |

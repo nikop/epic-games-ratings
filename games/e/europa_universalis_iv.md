@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,197 (Ranked 77)  
+Progressed: 60,203 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
-| 2023-06-24 | 60,197 | 0 |
+| 2023-06-24 | 60,203 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,974 (Ranked 27)  

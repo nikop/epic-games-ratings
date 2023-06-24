@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520256,
+  "EOS_Progressed": 520257,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7055,6 +7055,11 @@
       "Time": "2023-06-24T03:25:06.3858079+00:00",
       "NumProgressed": 520256,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-06-24T04:02:23.3046544+00:00",
+      "NumProgressed": 520257,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 57,
@@ -7074,7 +7079,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 234115
+      "UsersEstimate": 234116
     },
     {
       "ID": "11",
@@ -7082,7 +7087,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 364179
+      "UsersEstimate": 364180
     },
     {
       "ID": "12",
@@ -7090,7 +7095,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114456
+      "UsersEstimate": 114457
     },
     {
       "ID": "13",
@@ -7138,7 +7143,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78038
+      "UsersEstimate": 78039
     },
     {
       "ID": "19",
@@ -7162,7 +7167,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124861
+      "UsersEstimate": 124862
     },
     {
       "ID": "21",
@@ -7521,15 +7526,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 520256,
+      "Progressed": 520257,
       "Completed": 432
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-24T03:25:06.3858073+00:00",
+  "LastChanged_Achievements": "2023-06-24T04:02:23.3046539+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:20.6540643+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:19:29.8018077+00:00",
-  "LastUpdate_Achievements": "2023-06-24T03:25:06.3859141+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:57:27.6326284+00:00",
+  "LastUpdate_Achievements": "2023-06-24T04:02:23.3047257+00:00"
 }

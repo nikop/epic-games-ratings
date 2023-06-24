@@ -21,7 +21,7 @@ Rating: 4.50 (Ranked 548)
 | Great Hero | 26.00% | ~105 |
 | Rookie | 26.00% | ~105 |
 | Assemble a Meganewbie | 24.00% | ~96 |
-| Frugal | 21.00% | ~84 |
+| Frugal | 22.00% | ~88 |
 | Feed a God | 21.00% | ~84 |
 | To the Moon and Back | 19.00% | ~76 |
 | Great Flight | 18.00% | ~72 |

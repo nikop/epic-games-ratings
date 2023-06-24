@@ -2,10 +2,10 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2023-06-23T03:24:55.8925492+00:00",
       "NumProgressed": 297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T04:02:12.4799646+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -148,15 +153,15 @@
       "Name": "Fireball",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "DashDashDash",
       "SetID": "d9ekhim",
       "Name": "Be water, my friend",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 197
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -412,15 +417,15 @@
       "Name": "Dash Crash",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 179
     },
     {
       "ID": "World3Boss",
@@ -452,7 +457,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "World7Boss",
@@ -483,7 +488,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 0
     }
   ],
@@ -491,8 +496,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-06-24T03:24:15.1802996+00:00",
+  "LastChanged_Achievements": "2023-06-24T04:02:12.4799642+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:14.5690216+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:19:23.6776262+00:00",
-  "LastUpdate_Achievements": "2023-06-24T03:24:15.1803376+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:57:22.0394021+00:00",
+  "LastUpdate_Achievements": "2023-06-24T04:02:12.4799906+00:00"
 }

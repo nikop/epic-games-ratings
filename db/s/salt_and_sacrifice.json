@@ -1451,9 +1451,9 @@
     }
   ],
   "EOS_Progressed": 64884,
-  "EOS_Completed": 1195,
-  "EOS_NewPlayers": 139,
-  "EOS_NewCompleters": 19,
+  "EOS_Completed": 1196,
+  "EOS_NewPlayers": 137,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
@@ -5495,6 +5495,11 @@
       "Time": "2023-06-24T02:26:52.7569092+00:00",
       "NumProgressed": 64884,
       "NumCompleted": 1195
+    },
+    {
+      "Time": "2023-06-24T04:04:38.8094248+00:00",
+      "NumProgressed": 64884,
+      "NumCompleted": 1196
     }
   ],
   "TotalAchievements": 53,
@@ -5930,14 +5935,14 @@
       "ID": "2jelldm",
       "IsBase": true,
       "Progressed": 64884,
-      "Completed": 1195
+      "Completed": 1196
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-06-22T05:59:12.5304586+00:00",
-  "LastChanged_Achievements": "2023-06-24T03:26:50.6194229+00:00",
+  "LastChanged_Achievements": "2023-06-24T04:04:38.8094242+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:59.4174954+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:20:17.8577309+00:00",
-  "LastUpdate_Achievements": "2023-06-24T03:26:50.6194985+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:58:16.5754964+00:00",
+  "LastUpdate_Achievements": "2023-06-24T04:04:38.8094792+00:00"
 }

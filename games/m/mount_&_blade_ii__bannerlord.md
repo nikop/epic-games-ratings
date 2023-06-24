@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,439 |
-| Landlord | 31.00% | ~16,739 |
+| Lawbringer | 36.00% | ~19,440 |
+| Landlord | 31.00% | ~16,740 |
 | Bannerlord | 21.00% | ~11,340 |
 | Horde breaker | 21.00% | ~11,340 |
 | Lawmaker | 21.00% | ~11,340 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,998 (Ranked 81)  
+Progressed: 54,000 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,14 +123,14 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 53,799 | 0 |
 | 2023-06-22 | 53,891 | 0 |
 | 2023-06-23 | 53,986 | 0 |
-| 2023-06-24 | 53,998 | 0 |
+| 2023-06-24 | 54,000 | 0 |
 ## Awards
-Max (Character Customization): 6,700  (Ranked 48)  
-Sum: 13,482 (Ranked 68)  
+Max (Character Customization): 6,705  (Ranked 48)  
+Sum: 13,487 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,700 |
+| This game has Inclusive Character Customization | 6,705 |
 | This game is Great for Beginners | 857 |
 | This game has Diverse Characters | 837 |
 | This game is Highly Recommended | 799 |
@@ -305,4 +305,4 @@ Diff (max vs sum): -20
 | 2023-06-21 | 4.74 | - | 6,696 | 13,459 |
 | 2023-06-22 | 4.74 | - | 6,700 | 13,469 |
 | 2023-06-23 | 4.74 | - | 6,700 | 13,479 |
-| 2023-06-24 | 4.75 | - | 6,700 | 13,482 |
+| 2023-06-24 | 4.75 | - | 6,705 | 13,487 |

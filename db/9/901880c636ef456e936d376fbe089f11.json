@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -561,8 +561,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-24T03:25:58.2611466+00:00",
+  "LastChanged_Achievements": "2023-06-24T04:03:45.3777719+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:19:08.5314261+00:00",
-  "LastUpdate_Achievements": "2023-06-24T03:25:58.2611943+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:57:05.2241569+00:00",
+  "LastUpdate_Achievements": "2023-06-24T04:03:45.3778081+00:00"
 }

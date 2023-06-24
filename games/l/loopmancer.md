@@ -11,9 +11,9 @@
 | Targeting the Enemy | 68.00% | ~65 |
 | Unavoidable | 61.00% | ~59 |
 | Revenge | 60.00% | ~58 |
-| Reunion | 41.00% | ~39 |
+| Reunion | 42.00% | ~40 |
+| Elimination | 33.00% | ~32 |
 | Fluke | 33.00% | ~32 |
-| Elimination | 32.00% | ~31 |
 | Victor's Prejudice | 32.00% | ~31 |
 | Once Bitten, Twice Shy | 30.00% | ~29 |
 | Memento | 29.00% | ~28 |

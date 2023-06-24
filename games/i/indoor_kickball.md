@@ -8,10 +8,10 @@
 | Accessory Unlocked | 81.00% | ~44 |
 | Character Unlocked | 80.00% | ~43 |
 | Homer | 65.00% | ~35 |
-| Have a good trip! | 63.00% | ~34 |
+| Have a good trip! | 65.00% | ~35 |
 | First Win | 59.00% | ~32 |
 | Kickball Unlocked | 59.00% | ~32 |
-| Settle Down | 57.00% | ~31 |
+| Settle Down | 59.00% | ~32 |
 | Butter Fingers | 57.00% | ~31 |
 | Stay Hydrated | 57.00% | ~31 |
 | True Story! | 30.00% | ~16 |
@@ -20,8 +20,8 @@
 | Bedroom Secret Spot | 24.00% | ~13 |
 | Have Mercy | 22.00% | ~12 |
 | Spooky | 19.00% | ~10 |
+| Classroom Secret Spot | 17.00% | ~9 |
 | Save some water for the fishies | 17.00% | ~9 |
-| Classroom Secret Spot | 15.00% | ~8 |
 | Bathroom Secret Spot | 15.00% | ~8 |
 | At least everyone still had fun | 11.00% | ~6 |
 | Living Room Secret Spot | 9.00% | ~5 |

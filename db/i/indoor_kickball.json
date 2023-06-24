@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -290,9 +290,9 @@
       "ID": "14",
       "SetID": "39djiaj",
       "Name": "Settle Down",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "15",
@@ -362,9 +362,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "23",
@@ -490,9 +490,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "39",
@@ -577,8 +577,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-24T03:27:52.4657782+00:00",
+  "LastChanged_Achievements": "2023-06-24T04:05:40.9646746+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:03.7152152+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:21:09.1838472+00:00",
-  "LastUpdate_Achievements": "2023-06-24T03:27:52.4658309+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:59:07.036736+00:00",
+  "LastUpdate_Achievements": "2023-06-24T04:05:40.9647009+00:00"
 }

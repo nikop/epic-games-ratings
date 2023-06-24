@@ -11,6 +11,7 @@ Rating: 4.47 (Ranked 592)
 | Sharpshooter | 1.00% | ~31 |
 | Explosive Efficiency | 1.00% | ~31 |
 | Lord of War | 1.00% | ~31 |
+| Resourceful | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
 | The Kraken Wakes | 1.00% | ~31 |
 | Change the Channel | 1.00% | ~31 |
@@ -19,7 +20,6 @@ Rating: 4.47 (Ranked 592)
 | The Kraken Sleeps | 1.00% | ~31 |
 | Liberté | 0.90% | ~28 |
 | Just a Flesh Wound | 0.90% | ~28 |
-| Resourceful | 0.90% | ~28 |
 | Der Geist | 0.90% | ~28 |
 | Organ Grinder | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |

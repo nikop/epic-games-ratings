@@ -10,15 +10,15 @@
 | Helping the little ones | 11.00% | ~221 |
 | A big leap for wolfkind | 10.00% | ~201 |
 | Transmission | 9.00% | ~181 |
-| The will to move on | 7.00% | ~140 |
-| Reunion | 7.00% | ~140 |
+| The will to move on | 7.00% | ~141 |
+| Reunion | 7.00% | ~141 |
 | The end | 6.00% | ~120 |
 | Sliders | 3.00% | ~60 |
 | Sheltered by the fallen tree | 2.00% | ~40 |
 | Snow-covered ruins | 0.40% | ~8 |
 | Another ride! | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,007 (Ranked 158)  
+Progressed: 2,008 (Ranked 158)  
 Completed: 5 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 5 (0.25%) (Ranked 149)
 | 2023-06-21 | 1,984 | 5 |
 | 2023-06-22 | 1,988 | 5 |
 | 2023-06-23 | 2,005 | 5 |
-| 2023-06-24 | 2,007 | 5 |
+| 2023-06-24 | 2,008 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
