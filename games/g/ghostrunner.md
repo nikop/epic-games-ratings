@@ -1,36 +1,36 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 166)  
+Rating: 4.72 (Ranked 165)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~8,051 |
-| Sword Runner | 63.00% | ~6,587 |
-| Wallrunner | 56.00% | ~5,855 |
-| Running out of breath | 55.00% | ~5,751 |
-| Homerunner | 46.00% | ~4,810 |
-| Out of order | 46.00% | ~4,810 |
-| I call it luck | 45.00% | ~4,705 |
+| Longrunner | 77.00% | ~8,053 |
+| Sword Runner | 63.00% | ~6,589 |
+| Wallrunner | 56.00% | ~5,856 |
+| Running out of breath | 55.00% | ~5,752 |
+| Homerunner | 46.00% | ~4,811 |
+| Out of order | 46.00% | ~4,811 |
+| I call it luck | 45.00% | ~4,706 |
 | Where are my Keys? | 42.00% | ~4,392 |
-| Back to hell | 38.00% | ~3,973 |
-| Perfection | 33.00% | ~3,450 |
-| Why not both | 31.00% | ~3,241 |
+| Back to hell | 38.00% | ~3,974 |
+| Perfection | 33.00% | ~3,451 |
+| Why not both | 31.00% | ~3,242 |
 | Sword to a gunfight | 30.00% | ~3,137 |
 | Upgrades not mandatory | 30.00% | ~3,137 |
-| Artificial selection | 29.00% | ~3,032 |
-| Control freak | 29.00% | ~3,032 |
+| Artificial selection | 29.00% | ~3,033 |
+| Control freak | 29.00% | ~3,033 |
 | Running Wild | 28.00% | ~2,928 |
-| Finish line | 27.00% | ~2,823 |
+| Finish line | 27.00% | ~2,824 |
 | Unstoppable force | 23.00% | ~2,405 |
 | Wave of mutilation | 23.00% | ~2,405 |
 | Can't Run Can't Hide | 18.00% | ~1,882 |
 | R is for Running | 17.00% | ~1,778 |
-| Dead in the air | 15.00% | ~1,568 |
+| Dead in the air | 15.00% | ~1,569 |
 | Improvise, adapt, overrun | 14.00% | ~1,464 |
-| Pre-empative strike | 13.00% | ~1,359 |
-| Strike | 13.00% | ~1,359 |
+| Pre-empative strike | 14.00% | ~1,464 |
+| Strike | 13.00% | ~1,360 |
 | More than human | 12.00% | ~1,255 |
 | Triple A | 10.00% | ~1,046 |
 | Fine addition | 7.00% | ~732 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~42 |
 | Up Close And Personal | 0.40% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,456 (Ranked 113)  
+Progressed: 10,458 (Ranked 113)  
 Completed: 48 (0.46%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 48 (0.46%) (Ranked 128)
 | 2023-06-21 | 10,197 | 47 |
 | 2023-06-22 | 10,328 | 48 |
 | 2023-06-23 | 10,441 | 48 |
-| 2023-06-24 | 10,456 | 48 |
+| 2023-06-24 | 10,458 | 48 |
 ## Awards
 Max (Great Boss Battles): 468  (Ranked 193)  
 Sum: 626 (Ranked 283)  

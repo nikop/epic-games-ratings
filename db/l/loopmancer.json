@@ -211,9 +211,9 @@
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_AVOID_SNIPER",
@@ -227,9 +227,9 @@
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_DEFEAT_SBY_TIANWU_TPSN",
@@ -611,9 +611,9 @@
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_UNLOCK_SKILL",
@@ -668,8 +668,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-06-24T04:04:33.7080093+00:00",
+  "LastChanged_Achievements": "2023-06-24T05:04:40.718216+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.9756395+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:59:37.6296807+00:00",
-  "LastUpdate_Achievements": "2023-06-24T04:04:33.708048+00:00"
+  "LastUpdate_Ratings": "2023-06-24T04:59:26.3859492+00:00",
+  "LastUpdate_Achievements": "2023-06-24T05:04:40.7182696+00:00"
 }

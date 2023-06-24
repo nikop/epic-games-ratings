@@ -2,7 +2,7 @@
   "ID": "0c8249575cc6448ca4e8cde590057431",
   "Name": "Stonekeep",
   "ProductSlug": "stonekeep-d87a3b",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 101,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.0831438+00:00",
   "LastChanged": "2023-03-31T05:58:03.0831439+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:11.2078442+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:58:26.0283+00:00",
-  "LastUpdate_Achievements": "2023-06-24T04:04:07.2254959+00:00"
+  "LastUpdate_Ratings": "2023-06-24T04:58:17.2821682+00:00",
+  "LastUpdate_Achievements": "2023-06-24T05:04:15.1543988+00:00"
 }

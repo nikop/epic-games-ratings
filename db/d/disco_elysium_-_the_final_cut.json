@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122138,
+  "EOS_Progressed": 122141,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7396,6 +7396,11 @@
       "Time": "2023-06-24T03:27:58.7332201+00:00",
       "NumProgressed": 122138,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-24T05:05:52.7942875+00:00",
+      "NumProgressed": 122141,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7463,7 +7468,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29313
+      "UsersEstimate": 29314
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -7511,7 +7516,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19542
+      "UsersEstimate": 19543
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -7551,7 +7556,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13435
+      "UsersEstimate": 13436
     },
     {
       "ID": "ACH_CUNO",
@@ -7567,7 +7572,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10992
+      "UsersEstimate": 10993
     },
     {
       "ID": "ACH_GLUTEN",
@@ -7623,7 +7628,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17099
+      "UsersEstimate": 17100
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -7726,15 +7731,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122138,
+      "Progressed": 122141,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-24T04:05:47.0648732+00:00",
+  "LastChanged_Achievements": "2023-06-24T05:05:52.7942868+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:59:06.0475344+00:00",
-  "LastUpdate_Achievements": "2023-06-24T04:05:47.0649264+00:00"
+  "LastUpdate_Ratings": "2023-06-24T04:58:54.3890243+00:00",
+  "LastUpdate_Achievements": "2023-06-24T05:05:52.7943586+00:00"
 }

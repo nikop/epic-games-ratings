@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2718,
+  "EOS_Progressed": 2720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2023-06-23T23:03:07.4522022+00:00",
       "NumProgressed": 2718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T05:02:17.3391836+00:00",
+      "NumProgressed": 2720,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3158,7 +3163,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_BASE_21",
@@ -3166,7 +3171,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_BASE_22",
@@ -3270,7 +3275,7 @@
       "Name": "Fully Recycled",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_BASE_34",
@@ -3382,7 +3387,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_BASE_5",
@@ -3454,7 +3459,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_BASE_6",
@@ -3462,7 +3467,7 @@
       "Name": "Hope Seeker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_BASE_60",
@@ -3533,13 +3538,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 899,
+      "Progressed": 901,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2718,
+      "Progressed": 2720,
       "Completed": 0
     }
   ],
@@ -3547,8 +3552,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-24T04:02:06.3656608+00:00",
+  "LastChanged_Achievements": "2023-06-24T05:02:17.3391827+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.8894875+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:58:31.3295171+00:00",
-  "LastUpdate_Achievements": "2023-06-24T04:02:06.3657178+00:00"
+  "LastUpdate_Ratings": "2023-06-24T04:58:22.2858954+00:00",
+  "LastUpdate_Achievements": "2023-06-24T05:02:17.3392622+00:00"
 }

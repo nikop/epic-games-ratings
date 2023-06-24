@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13458,
+  "EOS_Progressed": 13459,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -4764,6 +4764,11 @@
       "Time": "2023-06-24T02:28:11.4656754+00:00",
       "NumProgressed": 13458,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-24T05:05:43.2958158+00:00",
+      "NumProgressed": 13459,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4783,7 +4788,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "tpote_achievement_11",
@@ -4967,7 +4972,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "tpote_achievement_32",
@@ -5063,7 +5068,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "tpote_achievement_6",
@@ -5095,22 +5100,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4710
+      "UsersEstimate": 4711
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13458,
+      "Progressed": 13459,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-24T04:05:37.3937905+00:00",
+  "LastChanged_Achievements": "2023-06-24T05:05:43.2958152+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-24T03:59:56.7551551+00:00",
-  "LastUpdate_Achievements": "2023-06-24T04:05:37.3938377+00:00"
+  "LastUpdate_Ratings": "2023-06-24T04:59:43.5481768+00:00",
+  "LastUpdate_Achievements": "2023-06-24T05:05:43.2958752+00:00"
 }
