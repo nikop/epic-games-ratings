@@ -7,8 +7,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 18.00% | ~1,808 |
-| Burning City | 13.00% | ~1,305 |
-| A Spark | 13.00% | ~1,305 |
+| Burning City | 13.00% | ~1,306 |
+| A Spark | 13.00% | ~1,306 |
 | Defender's Heart | 11.00% | ~1,105 |
 | Banner over the Citadel | 10.00% | ~1,004 |
 | Mythic Choices | 10.00% | ~1,004 |
@@ -36,11 +36,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Core of the Riddle | 2.00% | ~201 |
 | Your First Big Enemy | 2.00% | ~201 |
 | Hey, I Know You! | 2.00% | ~201 |
-| Stay Underground | 2.00% | ~176 |
-| Hanged Man's Notes | 2.00% | ~176 |
-| Sarkoris Will Be Green | 2.00% | ~176 |
-| The Lady of the Forest | 2.00% | ~176 |
-| Beware Still Water | 2.00% | ~176 |
+| Stay Underground | 2.00% | ~177 |
+| Hanged Man's Notes | 2.00% | ~177 |
+| Sarkoris Will Be Green | 2.00% | ~177 |
+| The Lady of the Forest | 2.00% | ~177 |
+| Beware Still Water | 2.00% | ~177 |
 | Path of the Demon | 1.00% | ~100 |
 | Path of the Aeon | 1.00% | ~100 |
 | Abyssal Conspiracy | 1.00% | ~100 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,042 (Ranked 115)  
+Progressed: 10,044 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 10,000 | 0 |
 | 2023-06-22 | 10,013 | 0 |
 | 2023-06-23 | 10,035 | 0 |
-| 2023-06-24 | 10,042 | 0 |
+| 2023-06-24 | 10,044 | 0 |
 ## Awards
 Max (Character Customization): 1,667  (Ranked 114)  
 Sum: 6,775 (Ranked 110)  

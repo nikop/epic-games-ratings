@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,700 |
-| Before the Downfall | 93.00% | ~17,746 |
-| Money like Water | 91.00% | ~17,365 |
-| Minimalist | 90.00% | ~17,174 |
-| Builder | 82.00% | ~15,647 |
-| Eraser | 70.00% | ~13,357 |
-| Pocket of Trains | 65.00% | ~12,403 |
-| Inspector | 59.00% | ~11,258 |
-| Going the Distance | 54.00% | ~10,304 |
-| Oil Baron | 42.00% | ~8,014 |
-| Loads-a-Money | 42.00% | ~8,014 |
+| Trevithick's Legacy | 98.00% | ~18,701 |
+| Before the Downfall | 93.00% | ~17,747 |
+| Money like Water | 91.00% | ~17,366 |
+| Minimalist | 90.00% | ~17,175 |
+| Builder | 82.00% | ~15,648 |
+| Eraser | 70.00% | ~13,358 |
+| Pocket of Trains | 65.00% | ~12,404 |
+| Inspector | 59.00% | ~11,259 |
+| Going the Distance | 54.00% | ~10,305 |
+| Oil Baron | 42.00% | ~8,015 |
+| Loads-a-Money | 42.00% | ~8,015 |
 | Helper of the People | 39.00% | ~7,442 |
 | Simplification | 34.00% | ~6,488 |
 | Box of Trains | 33.00% | ~6,297 |
-| Let There be Light | 32.00% | ~6,106 |
-| Hot Water | 31.00% | ~5,915 |
+| Let There be Light | 32.00% | ~6,107 |
+| Hot Water | 31.00% | ~5,916 |
 | Indecisive | 29.00% | ~5,534 |
 | The scenic route | 27.00% | ~5,152 |
-| Industrialist | 25.00% | ~4,770 |
+| Industrialist | 25.00% | ~4,771 |
 | Perfectionist | 23.00% | ~4,389 |
 | Trains over Pipes | 23.00% | ~4,389 |
 | 8K is Enough for Everyone | 22.00% | ~4,198 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 489)
 | Overdeer | 0.50% | ~95 |
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,082 (Ranked 101)  
+Progressed: 19,083 (Ranked 101)  
 Completed: 30 (0.16%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 30 (0.16%) (Ranked 162)
 | 2023-06-21 | 19,062 | 30 |
 | 2023-06-22 | 19,071 | 30 |
 | 2023-06-23 | 19,078 | 30 |
-| 2023-06-24 | 19,082 | 30 |
+| 2023-06-24 | 19,083 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 346)  
 Sum: 652 (Ranked 280)  

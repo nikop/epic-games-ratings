@@ -6,39 +6,39 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,447 |
-| That's a Grand Army | 8.00% | ~4,842 |
-| That is mine! | 8.00% | ~4,842 |
-| Victorious! | 8.00% | ~4,842 |
-| Brothers in Arms | 6.00% | ~3,632 |
-| That's a Grand Navy | 6.00% | ~3,632 |
-| Seriously?! | 6.00% | ~3,632 |
-| For the Glory | 5.00% | ~3,026 |
-| Cold War | 4.00% | ~2,421 |
-| True Catholic | 4.00% | ~2,421 |
-| Defender of the Faith | 3.00% | ~1,816 |
-| It's all about the money | 3.00% | ~1,816 |
-| Respected | 3.00% | ~1,816 |
-| Truly Divine Ruler | 3.00% | ~1,816 |
-| Agressive Expander | 2.00% | ~1,210 |
-| Blockader | 2.00% | ~1,210 |
-| Combined Arms | 2.00% | ~1,210 |
-| Double the Love | 2.00% | ~1,210 |
-| Gentle Persuasion | 2.00% | ~1,210 |
-| It's all about luck | 2.00% | ~1,210 |
-| My armies are invincible! | 2.00% | ~1,210 |
-| Queen of Conquest | 2.00% | ~1,210 |
-| Royal Authority | 2.00% | ~1,210 |
-| The Princess is in this Castle | 2.00% | ~1,210 |
-| Total Control | 2.00% | ~1,210 |
-| All That's Thine Shall Be Mine | 1.00% | ~605 |
-| Azur semé de lis or | 1.00% | ~605 |
-| Bright Spark | 1.00% | ~605 |
-| City of Cities | 1.00% | ~605 |
-| Factionalism | 1.00% | ~605 |
-| A Golden Empire | 1.00% | ~605 |
-| The Five Colonies | 1.00% | ~605 |
-| This navy can take it all | 1.00% | ~605 |
+| Until death do us apart | 9.00% | ~5,450 |
+| That's a Grand Army | 8.00% | ~4,844 |
+| That is mine! | 8.00% | ~4,844 |
+| Victorious! | 8.00% | ~4,844 |
+| Brothers in Arms | 6.00% | ~3,633 |
+| That's a Grand Navy | 6.00% | ~3,633 |
+| Seriously?! | 6.00% | ~3,633 |
+| For the Glory | 5.00% | ~3,028 |
+| Cold War | 4.00% | ~2,422 |
+| True Catholic | 4.00% | ~2,422 |
+| Defender of the Faith | 3.00% | ~1,817 |
+| It's all about the money | 3.00% | ~1,817 |
+| Respected | 3.00% | ~1,817 |
+| Truly Divine Ruler | 3.00% | ~1,817 |
+| Agressive Expander | 2.00% | ~1,211 |
+| Blockader | 2.00% | ~1,211 |
+| Combined Arms | 2.00% | ~1,211 |
+| Double the Love | 2.00% | ~1,211 |
+| Gentle Persuasion | 2.00% | ~1,211 |
+| It's all about luck | 2.00% | ~1,211 |
+| My armies are invincible! | 2.00% | ~1,211 |
+| Queen of Conquest | 2.00% | ~1,211 |
+| Royal Authority | 2.00% | ~1,211 |
+| The Princess is in this Castle | 2.00% | ~1,211 |
+| Total Control | 2.00% | ~1,211 |
+| All That's Thine Shall Be Mine | 1.00% | ~606 |
+| Azur semé de lis or | 1.00% | ~606 |
+| Bright Spark | 1.00% | ~606 |
+| City of Cities | 1.00% | ~606 |
+| Factionalism | 1.00% | ~606 |
+| A Golden Empire | 1.00% | ~606 |
+| The Five Colonies | 1.00% | ~606 |
+| This navy can take it all | 1.00% | ~606 |
 | The Emperors new clothes | 0.90% | ~545 |
 | Isn't this the way to India? | 0.90% | ~545 |
 | Market Control | 0.90% | ~545 |
@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.40% | ~242 |
 | Tear Down This Wall | 0.40% | ~242 |
 | The Continuation of Diplomacy | 0.40% | ~242 |
+| Wonderful | 0.40% | ~242 |
 | A Decent Reserve | 0.30% | ~182 |
 | A Pile of Gold | 0.30% | ~182 |
 | Grand Duchy | 0.30% | ~182 |
@@ -80,7 +81,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~182 |
 | Traditional Player | 0.30% | ~182 |
 | Vasa or Wettin? | 0.30% | ~182 |
-| Wonderful | 0.30% | ~182 |
 | World Discoverer | 0.30% | ~182 |
 | A Protected Market | 0.20% | ~121 |
 | AAA Credit | 0.20% | ~121 |
@@ -319,6 +319,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Voltaire's Nightmare | 0.10% | ~61 |
 | Where are the penguins? | 0.10% | ~61 |
 | The White Elephant | 0.10% | ~61 |
+| Why is the Rûm gone!? | 0.10% | ~61 |
 | Winged Hussars | 0.10% | ~61 |
 | World Conqueror | 0.10% | ~61 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~61 |
@@ -358,10 +359,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
-| Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,525 (Ranked 77)  
+Progressed: 60,553 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
-| 2023-06-24 | 60,525 | 0 |
+| 2023-06-24 | 60,553 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,984 (Ranked 27)  

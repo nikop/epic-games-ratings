@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13470,
+  "EOS_Progressed": 13472,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4799,6 +4799,11 @@
       "Time": "2023-06-24T16:07:19.7863752+00:00",
       "NumProgressed": 13470,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-24T17:07:05.0702359+00:00",
+      "NumProgressed": 13472,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4890,7 +4895,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "tpote_achievement_2",
@@ -4962,7 +4967,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "tpote_achievement_28",
@@ -4986,7 +4991,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4445
+      "UsersEstimate": 4446
     },
     {
       "ID": "tpote_achievement_30",
@@ -5010,7 +5015,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "tpote_achievement_33",
@@ -5074,7 +5079,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "tpote_achievement_40",
@@ -5122,7 +5127,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "tpote_achievement_9",
@@ -5130,22 +5135,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4714
+      "UsersEstimate": 4715
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13470,
+      "Progressed": 13472,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-24T16:07:19.7863746+00:00",
+  "LastChanged_Achievements": "2023-06-24T17:07:05.0702354+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-24T16:01:17.4048919+00:00",
-  "LastUpdate_Achievements": "2023-06-24T16:07:19.7864455+00:00"
+  "LastUpdate_Ratings": "2023-06-24T17:01:15.1395064+00:00",
+  "LastUpdate_Achievements": "2023-06-24T17:07:05.0702856+00:00"
 }

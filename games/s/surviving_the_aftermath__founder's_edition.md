@@ -6,67 +6,67 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,792 |
-| Leader | 61.00% | ~4,117 |
-| Explorer | 53.00% | ~3,577 |
-| Healer | 53.00% | ~3,577 |
-| Aspiring Inventor | 45.00% | ~3,037 |
-| Adventurer | 42.00% | ~2,835 |
-| Famous Healer | 38.00% | ~2,565 |
-| Local Leader | 35.00% | ~2,362 |
-| Famous Explorer | 34.00% | ~2,295 |
-| New Opportunities | 34.00% | ~2,295 |
-| Energized | 33.00% | ~2,227 |
-| The Long Haul | 33.00% | ~2,227 |
-| Survivor | 32.00% | ~2,160 |
-| The Great Healer | 31.00% | ~2,092 |
-| Cleaner | 28.00% | ~1,890 |
-| Catastrofan | 28.00% | ~1,890 |
-| Legendary Explorer | 27.00% | ~1,822 |
-| Finders, Keepers | 26.00% | ~1,755 |
-| Top Notch | 25.00% | ~1,687 |
-| Ice Lakes | 23.00% | ~1,552 |
-| Mentor | 23.00% | ~1,552 |
-| Great Leader | 22.00% | ~1,485 |
-| Real Survivor | 22.00% | ~1,485 |
-| Merchant | 21.00% | ~1,417 |
-| War Never Changes | 19.00% | ~1,282 |
-| Rocket Surgeon | 19.00% | ~1,282 |
-| Big Game Hunter | 17.00% | ~1,147 |
+| First Step | 71.00% | ~4,795 |
+| Leader | 61.00% | ~4,119 |
+| Explorer | 53.00% | ~3,579 |
+| Healer | 53.00% | ~3,579 |
+| Aspiring Inventor | 45.00% | ~3,039 |
+| Adventurer | 41.00% | ~2,769 |
+| Famous Healer | 38.00% | ~2,566 |
+| Local Leader | 35.00% | ~2,364 |
+| Famous Explorer | 34.00% | ~2,296 |
+| New Opportunities | 34.00% | ~2,296 |
+| Energized | 33.00% | ~2,228 |
+| The Long Haul | 33.00% | ~2,228 |
+| Survivor | 32.00% | ~2,161 |
+| The Great Healer | 31.00% | ~2,093 |
+| Cleaner | 28.00% | ~1,891 |
+| Catastrofan | 28.00% | ~1,891 |
+| Legendary Explorer | 27.00% | ~1,823 |
+| Finders, Keepers | 26.00% | ~1,756 |
+| Top Notch | 25.00% | ~1,688 |
+| Ice Lakes | 23.00% | ~1,553 |
+| Mentor | 23.00% | ~1,553 |
+| Great Leader | 22.00% | ~1,486 |
+| Real Survivor | 22.00% | ~1,486 |
+| Merchant | 21.00% | ~1,418 |
+| War Never Changes | 19.00% | ~1,283 |
+| Rocket Surgeon | 19.00% | ~1,283 |
+| Big Game Hunter | 17.00% | ~1,148 |
 | Friendly | 16.00% | ~1,080 |
 | Around the World | 16.00% | ~1,080 |
 | Spreading Influence | 16.00% | ~1,080 |
 | Bookworm | 14.00% | ~945 |
-| Famous Adventurer | 13.00% | ~877 |
-| Prepared for Anything | 13.00% | ~877 |
+| Famous Adventurer | 13.00% | ~878 |
+| Prepared for Anything | 13.00% | ~878 |
 | Big Catastrofan | 12.00% | ~810 |
 | It's a Finnish Thing | 10.00% | ~675 |
-| Sky Burial | 9.00% | ~607 |
+| Sky Burial | 9.00% | ~608 |
 | Trader | 8.00% | ~540 |
-| Bread and Circuses | 7.00% | ~472 |
-| Tailored to fit | 7.00% | ~472 |
+| Bread and Circuses | 7.00% | ~473 |
+| Tailored to fit | 7.00% | ~473 |
 | Really Friendly | 6.00% | ~405 |
 | New Eden | 6.00% | ~405 |
 | Amped Up | 6.00% | ~405 |
-| Look, no Hands! | 5.00% | ~337 |
+| Look, no Hands! | 5.00% | ~338 |
 | Luxurious Living | 4.00% | ~270 |
-| Mogul | 3.00% | ~202 |
-| Ranch Hand | 3.00% | ~202 |
+| Mogul | 3.00% | ~203 |
+| Ranch Hand | 3.00% | ~203 |
 | Diplomat | 2.00% | ~135 |
 | Doomsday is canceled | 2.00% | ~135 |
 | Biggest Catastrofan | 2.00% | ~135 |
-| The Friendliest | 1.00% | ~67 |
-| Legendary Adventurer | 1.00% | ~67 |
-| A Closer Look | 1.00% | ~67 |
-| True Survivor | 1.00% | ~67 |
+| The Friendliest | 1.00% | ~68 |
+| Legendary Adventurer | 1.00% | ~68 |
+| A Closer Look | 1.00% | ~68 |
+| True Survivor | 1.00% | ~68 |
 | Slimy yet Satisfying | 0.90% | ~61 |
 | Feng Shui | 0.90% | ~61 |
 | Finnished | 0.30% | ~20 |
-| Choo-choo! | 0.20% | ~13 |
+| Choo-choo! | 0.20% | ~14 |
 | Fun and Games | 0.10% | ~7 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,749 (Ranked 123)  
+Progressed: 6,753 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 6,662 | 0 |
 | 2023-06-22 | 6,693 | 0 |
 | 2023-06-23 | 6,733 | 0 |
-| 2023-06-24 | 6,749 | 0 |
+| 2023-06-24 | 6,753 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 672 (Ranked 270)  

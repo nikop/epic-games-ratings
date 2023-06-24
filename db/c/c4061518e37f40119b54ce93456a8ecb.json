@@ -131,9 +131,9 @@
       "ID": "ACH_Beacon",
       "SetID": "aao9n96",
       "Name": "This means something",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_CastDevice",
@@ -267,9 +267,9 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_OverridePanel",
@@ -315,9 +315,9 @@
       "ID": "ACH_Spire",
       "SetID": "aao9n96",
       "Name": "Hello there",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_Theremin",
@@ -347,9 +347,9 @@
       "ID": "ACH_WeatherStations",
       "SetID": "aao9n96",
       "Name": "Elementary, my dear Watson",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-24T16:05:53.0098265+00:00",
+  "LastChanged_Achievements": "2023-06-24T17:05:44.4292366+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3601408+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:57:35.1129522+00:00",
-  "LastUpdate_Achievements": "2023-06-24T16:05:53.0098546+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:57:32.7066973+00:00",
+  "LastUpdate_Achievements": "2023-06-24T17:05:44.4292584+00:00"
 }

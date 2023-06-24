@@ -31,10 +31,10 @@
 | Kitchen Secret Spot | 6.00% | ~3 |
 | You broke it, you bought it | 6.00% | ~3 |
 | Angry Mom | 6.00% | ~3 |
+| Attic Secret Spot | 4.00% | ~2 |
 | Basement Secret Spot | 4.00% | ~2 |
 | Hi Hungry, I'm Dad | 4.00% | ~2 |
 | Found the Secret Formula! | 4.00% | ~2 |
-| Attic Secret Spot | 2.00% | ~1 |
 | Garage Secret Spot | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |

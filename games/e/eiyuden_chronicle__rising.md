@@ -30,7 +30,7 @@ Number of Ratings: 48  (23.09.2022)
 | Money, Money, Money | 34.00% | ~230 |
 | Rune Wall Master | 33.00% | ~223 |
 | The Quarry...On Foot! | 31.00% | ~210 |
-| The Runebarrows...On Foot! | 28.00% | ~189 |
+| The Runebarrows...On Foot! | 29.00% | ~196 |
 | The Snowpeak...On Foot! | 27.00% | ~183 |
 | The Lava Ruins...On Foot! | 27.00% | ~183 |
 | Meat Master | 26.00% | ~176 |

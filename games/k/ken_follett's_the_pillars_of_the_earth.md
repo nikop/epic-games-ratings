@@ -6,22 +6,22 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,523 |
-| Man of politics | 35.00% | ~4,714 |
+| Tattletale | 41.00% | ~5,524 |
+| Man of politics | 35.00% | ~4,715 |
 | Friends of sorts | 34.00% | ~4,580 |
 | Yet another secret | 34.00% | ~4,580 |
-| Let there be darkness | 33.00% | ~4,445 |
+| Let there be darkness | 33.00% | ~4,446 |
 | End of Book One | 31.00% | ~4,176 |
 | Garden of Eden | 25.00% | ~3,368 |
 | Wannabe knight | 24.00% | ~3,233 |
 | Full house | 24.00% | ~3,233 |
-| Help an old friend | 22.00% | ~2,963 |
+| Help an old friend | 22.00% | ~2,964 |
 | Two of us | 20.00% | ~2,694 |
-| Negotiation skills | 19.00% | ~2,559 |
-| Workers' union | 19.00% | ~2,559 |
+| Negotiation skills | 19.00% | ~2,560 |
+| Workers' union | 19.00% | ~2,560 |
 | End of Book Two | 18.00% | ~2,425 |
 | Everything's in order | 17.00% | ~2,290 |
-| Jack was here! | 15.00% | ~2,020 |
+| Jack was here! | 15.00% | ~2,021 |
 | Twist of Fate | 14.00% | ~1,886 |
 | Exterminator | 14.00% | ~1,886 |
 | Whodunnit | 13.00% | ~1,751 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~404 |
 | Boy of mystery | 2.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,470 (Ranked 108)  
+Progressed: 13,472 (Ranked 108)  
 Completed: 103 (0.76%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 103 (0.76%) (Ranked 106)
 | 2023-06-21 | 13,419 | 101 |
 | 2023-06-22 | 13,432 | 102 |
 | 2023-06-23 | 13,456 | 103 |
-| 2023-06-24 | 13,470 | 103 |
+| 2023-06-24 | 13,472 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 364)  

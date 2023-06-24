@@ -29,7 +29,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark | 41.00% | ~546 |
 | Exemplary student | 41.00% | ~546 |
 | First aircraft arrived | 40.00% | ~532 |
-| Mass production | 34.00% | ~453 |
+| Mass production | 35.00% | ~466 |
 | Aircraft entrepreneur | 33.00% | ~439 |
 | Crowd in a train | 31.00% | ~413 |
 | The future is now, old man | 31.00% | ~413 |

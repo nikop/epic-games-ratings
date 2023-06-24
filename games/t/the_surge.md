@@ -6,33 +6,33 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,183 |
-| I'll Be Back | 85.00% | ~3,782 |
-| Sorry, I Dropped This | 77.00% | ~3,426 |
-| First Day on the Job | 77.00% | ~3,426 |
+| On My Own Two Feet | 94.00% | ~4,184 |
+| I'll Be Back | 85.00% | ~3,783 |
+| Sorry, I Dropped This | 77.00% | ~3,427 |
+| First Day on the Job | 77.00% | ~3,427 |
 | Butcher's Bill | 55.00% | ~2,448 |
-| P.A.X | 37.00% | ~1,646 |
-| Hey Listen | 37.00% | ~1,646 |
+| P.A.X | 37.00% | ~1,647 |
+| Hey Listen | 37.00% | ~1,647 |
 | OPERATOR | 36.00% | ~1,602 |
-| It's Blue Light | 33.00% | ~1,468 |
+| It's Blue Light | 33.00% | ~1,469 |
 | Most Wanted | 26.00% | ~1,157 |
 | Infidel | 23.00% | ~1,024 |
-| GOLIATH | 21.00% | ~934 |
+| GOLIATH | 21.00% | ~935 |
 | Firebug | 20.00% | ~890 |
-| I Choose You | 17.00% | ~756 |
-| Nothing to Lose | 17.00% | ~756 |
+| I Choose You | 17.00% | ~757 |
+| Nothing to Lose | 17.00% | ~757 |
 | Big Sister | 15.00% | ~668 |
 | Gear Up | 15.00% | ~668 |
 | SENTINEL | 15.00% | ~668 |
-| Core Power | 13.00% | ~578 |
+| Core Power | 13.00% | ~579 |
 | The Black Cerberus | 12.00% | ~534 |
 | Watchman | 12.00% | ~534 |
 | CREO Killed the Video Star | 11.00% | ~490 |
 | Who's in Charge Here? | 11.00% | ~490 |
 | Shall Not Pass | 11.00% | ~490 |
 | Right Tool for the Job | 10.00% | ~445 |
-| Raging Drones | 9.00% | ~400 |
-| Overconfident | 9.00% | ~400 |
+| Raging Drones | 9.00% | ~401 |
+| Overconfident | 9.00% | ~401 |
 | Pusher Man | 8.00% | ~356 |
 | Melting Down | 8.00% | ~356 |
 | Squad Chief Helvig | 8.00% | ~356 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~312 |
 | Sunglasses at Night | 6.00% | ~267 |
 | Carbon Cat | 6.00% | ~267 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~222 |
-| Man of Steel | 5.00% | ~222 |
-| Jack of All Trades | 5.00% | ~222 |
-| 3-2-1 | 5.00% | ~222 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~223 |
+| Man of Steel | 5.00% | ~223 |
+| Jack of All Trades | 5.00% | ~223 |
+| 3-2-1 | 5.00% | ~223 |
 | Rusty Rat | 4.00% | ~178 |
 | Desecration | 4.00% | ~178 |
 | For the Good of Mankind | 3.00% | ~134 |
@@ -66,7 +66,7 @@ Number of Ratings: 62  (23.09.2022)
 | Episodic | 2.00% | ~89 |
 | End of Transmission | 2.00% | ~89 |
 | Gramophone Enthusiast | 2.00% | ~89 |
-| Bling-Bling | 1.00% | ~44 |
+| Bling-Bling | 1.00% | ~45 |
 | Sniffing Around | 0.70% | ~31 |
 | Modus Operandi | 0.70% | ~31 |
 | Suited and Booted | 0.70% | ~31 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,450 (Ranked 134)  
+Progressed: 4,451 (Ranked 134)  
 Completed: 14 (0.31%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 14 (0.31%) (Ranked 141)
 | 2023-06-20 | 4,443 | 14 |
 | 2023-06-21 | 4,444 | 14 |
 | 2023-06-23 | 4,447 | 14 |
-| 2023-06-24 | 4,450 | 14 |
+| 2023-06-24 | 4,451 | 14 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 469)  
 Sum: 26 (Ranked 476)  

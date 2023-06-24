@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "codebreaker",
@@ -379,17 +379,17 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "set_sail",
@@ -403,9 +403,9 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "tour_guide_extraordinaire",
@@ -426,8 +426,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-24T16:04:56.4165778+00:00",
+  "LastChanged_Achievements": "2023-06-24T17:04:50.9801743+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:45.7718683+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:58:49.6971409+00:00",
-  "LastUpdate_Achievements": "2023-06-24T16:04:56.416593+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:58:39.3287875+00:00",
+  "LastUpdate_Achievements": "2023-06-24T17:04:50.9801861+00:00"
 }

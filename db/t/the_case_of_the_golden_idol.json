@@ -662,9 +662,9 @@
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -685,8 +685,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-06-24T16:05:01.3108306+00:00",
+  "LastChanged_Achievements": "2023-06-24T17:04:55.865305+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:35.1827591+00:00",
-  "LastUpdate_Ratings": "2023-06-24T15:59:41.510146+00:00",
-  "LastUpdate_Achievements": "2023-06-24T16:05:01.3108539+00:00"
+  "LastUpdate_Ratings": "2023-06-24T16:59:31.1200135+00:00",
+  "LastUpdate_Achievements": "2023-06-24T17:04:55.8653165+00:00"
 }
