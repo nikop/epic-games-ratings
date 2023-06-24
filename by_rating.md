@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 498 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.93 | 0 | 498 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 20 | 494 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,492 | 118 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,496 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,142 | 88 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 498 |
 | 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 498 |
@@ -106,7 +106,7 @@
 | 99 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 43 | 411 |
 | 99 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 498 |
 | 99 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 917 | 146 |
-| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,397 | 81 |
+| 107 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,422 | 81 |
 | 107 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,926 | 55 |
 | 107 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,298 | 17 |
 | 107 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 498 |
@@ -453,7 +453,7 @@
 | 441 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 498 |
 | 441 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 310 |
 | 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 453 |
-| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,735 | 19 |
+| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,746 | 19 |
 | 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,753 | 112 |
 | 456 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.56 | 0 | 498 |
 | 456 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 498 |
@@ -748,7 +748,7 @@
 | 741 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.34 | 0 | 498 |
 | 741 | [Paladins](games/p/paladins.md) | 4.34 | 3,336 | 83 |
 | 741 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 498 |
-| 741 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,053 | 63 |
+| 741 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,055 | 63 |
 | 741 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 243 | 246 |
 | 751 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 312 |
 | 751 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 54 | 388 |
