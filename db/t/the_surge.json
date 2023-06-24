@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4447,
+  "EOS_Progressed": 4448,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-06-23T22:03:31.5739148+00:00",
       "NumProgressed": 4447,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-24T03:25:22.9964942+00:00",
+      "NumProgressed": 4448,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1456,7 +1461,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1464,7 +1469,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1504,7 +1509,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3780
+      "UsersEstimate": 3781
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1512,7 +1517,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4181
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1520,7 +1525,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1528,7 +1533,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1598,9 +1603,9 @@
       "ID": "ID_ACHIEV_19",
       "SetID": "98bke8c",
       "Name": "Melting Down",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 356
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -1672,7 +1677,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1991,15 +1996,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4447,
+      "Progressed": 4448,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-24T02:24:46.7930296+00:00",
+  "LastChanged_Achievements": "2023-06-24T03:25:22.9964933+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-24T02:19:46.1208507+00:00",
-  "LastUpdate_Achievements": "2023-06-24T02:24:46.7931065+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:20:04.2010415+00:00",
+  "LastUpdate_Achievements": "2023-06-24T03:25:22.9965997+00:00"
 }

@@ -24,6 +24,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Wrath | 0.20% | ~45 |
 | For Survival | 0.20% | ~45 |
 | For Love | 0.20% | ~45 |
+| For Pride | 0.20% | ~45 |
 | K.O. | 0.20% | ~45 |
 | Good Boy! | 0.20% | ~45 |
 | Just the Beginning | 0.20% | ~45 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Erebus Purified | 0.10% | ~22 |
 | For Greed | 0.10% | ~22 |
 | For Penance | 0.10% | ~22 |
-| For Pride | 0.10% | ~22 |
 | It Was Just an Estimate | 0.10% | ~22 |
 | Good Practice | 0.10% | ~22 |
 | Maybe Wax Doesn't Melt | 0.10% | ~22 |

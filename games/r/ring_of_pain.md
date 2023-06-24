@@ -1,41 +1,41 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,065 |
-| Uncharted Territory | 89.00% | ~205,873 |
-| Getting A Glimpse | 73.00% | ~168,862 |
+| First Steps | 96.00% | ~222,066 |
+| Uncharted Territory | 89.00% | ~205,874 |
+| Getting A Glimpse | 73.00% | ~168,863 |
 | A Quick Escape | 65.00% | ~150,357 |
-| Explorer | 62.00% | ~143,417 |
-| Defeat The Dark | 61.00% | ~141,104 |
-| An Offering | 61.00% | ~141,104 |
-| Colorful Corpse | 58.00% | ~134,164 |
-| That Was Quick | 56.00% | ~129,538 |
-| A Donation | 56.00% | ~129,538 |
+| Explorer | 62.00% | ~143,418 |
+| Defeat The Dark | 61.00% | ~141,105 |
+| An Offering | 61.00% | ~141,105 |
+| Colorful Corpse | 58.00% | ~134,165 |
+| That Was Quick | 56.00% | ~129,539 |
+| A Donation | 56.00% | ~129,539 |
 | Goodbye, Frog Friend | 54.00% | ~124,912 |
 | Heavy Hitter | 53.00% | ~122,599 |
-| Heartless | 46.00% | ~106,406 |
-| Spine Breaker | 46.00% | ~106,406 |
-| Deflection | 45.00% | ~104,093 |
+| Heartless | 46.00% | ~106,407 |
+| Spine Breaker | 46.00% | ~106,407 |
+| Deflection | 45.00% | ~104,094 |
 | Sneaky | 43.00% | ~99,467 |
 | Delving Deeper | 42.00% | ~97,154 |
-| Ambitious Intent | 41.00% | ~94,840 |
-| C-C-Combo | 41.00% | ~94,840 |
-| The Bestiary | 40.00% | ~92,527 |
+| Ambitious Intent | 41.00% | ~94,841 |
+| C-C-Combo | 41.00% | ~94,841 |
+| The Bestiary | 40.00% | ~92,528 |
 | Nothing To Lose | 39.00% | ~90,214 |
 | What's Yours Is Mine | 38.00% | ~87,901 |
-| R.I.P | 36.00% | ~83,274 |
-| Shootout | 35.00% | ~80,961 |
+| R.I.P | 36.00% | ~83,275 |
+| Shootout | 35.00% | ~80,962 |
 | Cold Hearted | 34.00% | ~78,648 |
 | I Am Overburdened | 34.00% | ~78,648 |
 | Dig Your Own Grave | 33.00% | ~76,335 |
 | Toxic | 33.00% | ~76,335 |
 | Who To Trust? | 32.00% | ~74,022 |
-| Flesh Wound | 29.00% | ~67,082 |
+| Flesh Wound | 29.00% | ~67,083 |
 | Walk It Off | 27.00% | ~62,456 |
 | Stone Touch | 27.00% | ~62,456 |
 | Acid Bath | 27.00% | ~62,456 |
@@ -44,11 +44,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 26.00% | ~60,143 |
 | Destroy Your Fears | 26.00% | ~60,143 |
 | Shapeshifting | 26.00% | ~60,143 |
-| Save Our Souls | 24.00% | ~55,516 |
+| Save Our Souls | 24.00% | ~55,517 |
 | To The Death! | 20.00% | ~46,264 |
 | Just Chilling | 20.00% | ~46,264 |
-| Well Prepared | 19.00% | ~43,950 |
-| Stop Hitting Yourself | 19.00% | ~43,950 |
+| Well Prepared | 19.00% | ~43,951 |
+| Stop Hitting Yourself | 19.00% | ~43,951 |
 | All Consuming | 18.00% | ~41,637 |
 | Illuminate, Eliminate | 17.00% | ~39,324 |
 | Shadow Spreads | 16.00% | ~37,011 |
@@ -64,13 +64,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 10.00% | ~23,132 |
 | Barbecue | 10.00% | ~23,132 |
 | Snake Sneak | 9.00% | ~20,819 |
-| Challenge Increases | 8.00% | ~18,505 |
-| New Game+ | 8.00% | ~18,505 |
-| Clearing The Room | 8.00% | ~18,505 |
-| Decisions, Decisions | 8.00% | ~18,505 |
-| Fragile Mortality | 8.00% | ~18,505 |
-| Defuser | 8.00% | ~18,505 |
-| Precious | 8.00% | ~18,505 |
+| Challenge Increases | 8.00% | ~18,506 |
+| New Game+ | 8.00% | ~18,506 |
+| Clearing The Room | 8.00% | ~18,506 |
+| Decisions, Decisions | 8.00% | ~18,506 |
+| Fragile Mortality | 8.00% | ~18,506 |
+| Defuser | 8.00% | ~18,506 |
+| Precious | 8.00% | ~18,506 |
 | Friend of Vermin | 7.00% | ~16,192 |
 | Juggernaut | 7.00% | ~16,192 |
 | Path To Enlightenment | 7.00% | ~16,192 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~925 |
 | Near Death Experience | 0.30% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,318 (Ranked 46)  
+Progressed: 231,319 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 240 (0.10%) (Ranked 174)
 | 2023-06-21 | 231,195 | 240 |
 | 2023-06-22 | 231,242 | 240 |
 | 2023-06-23 | 231,310 | 240 |
-| 2023-06-24 | 231,318 | 240 |
+| 2023-06-24 | 231,319 | 240 |
 ## Awards
 Max (Quickly Understood Controls): 1,481  (Ranked 119)  
 Sum: 12,938 (Ranked 69)  

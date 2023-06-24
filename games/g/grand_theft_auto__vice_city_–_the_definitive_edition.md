@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,29 +9,29 @@ Rating: 4.58 (Ranked 422)
 | Greasy Palms | 40.00% | ~3,490 |
 | South American Connection | 24.00% | ~2,094 |
 | Life of the Party | 19.00% | ~1,658 |
-| Big Heat from Little Havana | 14.00% | ~1,221 |
-| Tommy Two-Wheels | 14.00% | ~1,221 |
+| Big Heat from Little Havana | 14.00% | ~1,222 |
+| Tommy Two-Wheels | 14.00% | ~1,222 |
 | Chauffeur | 13.00% | ~1,134 |
-| Salutations My Little Friend | 10.00% | ~872 |
+| Salutations My Little Friend | 10.00% | ~873 |
 | Iron-y | 9.00% | ~785 |
 | Gun for Hire | 8.00% | ~698 |
 | Mischief Managed | 8.00% | ~698 |
-| Vice City Mogul | 6.00% | ~523 |
-| Catch Me if You Can | 6.00% | ~523 |
-| Bloodstained Hands | 6.00% | ~523 |
+| Vice City Mogul | 6.00% | ~524 |
+| Catch Me if You Can | 6.00% | ~524 |
+| Bloodstained Hands | 6.00% | ~524 |
 | Grand Theft Auto | 5.00% | ~436 |
 | Not my First Time | 4.00% | ~349 |
 | Pie Guy | 4.00% | ~349 |
 | Point A to Point B | 3.00% | ~262 |
 | High Quality H2O | 3.00% | ~262 |
 | Don't Need Roads | 3.00% | ~262 |
-| Running Rampant | 2.00% | ~174 |
-| One is Better Than Two | 2.00% | ~174 |
-| Bull in a China Shop | 2.00% | ~174 |
-| Somebody Call the Wambulance? | 2.00% | ~174 |
-| Just Like the Real Thing | 2.00% | ~174 |
-| Take the Cannoli | 2.00% | ~174 |
-| City Sleuth | 2.00% | ~174 |
+| Running Rampant | 2.00% | ~175 |
+| One is Better Than Two | 2.00% | ~175 |
+| Bull in a China Shop | 2.00% | ~175 |
+| Somebody Call the Wambulance? | 2.00% | ~175 |
+| Just Like the Real Thing | 2.00% | ~175 |
+| Take the Cannoli | 2.00% | ~175 |
+| City Sleuth | 2.00% | ~175 |
 | Daredevil | 1.00% | ~87 |
 | Chopper’d Up | 1.00% | ~87 |
 | I'm Famous! | 0.90% | ~79 |
@@ -40,7 +40,7 @@ Rating: 4.58 (Ranked 422)
 | Done it All | 0.70% | ~61 |
 | Kingpin | 0.40% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,724 (Ranked 117)  
+Progressed: 8,726 (Ranked 117)  
 Completed: 38 (0.44%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 38 (0.44%) (Ranked 129)
 | 2023-06-21 | 8,690 | 37 |
 | 2023-06-22 | 8,704 | 37 |
 | 2023-06-23 | 8,721 | 38 |
-| 2023-06-24 | 8,724 | 38 |
+| 2023-06-24 | 8,726 | 38 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 386)  
 Sum: 57 (Ranked 439)  

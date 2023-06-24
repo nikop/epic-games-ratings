@@ -1,26 +1,26 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,019 |
-| Into the Unknown | 10.00% | ~58,199 |
-| First Shot | 10.00% | ~58,199 |
-| Herzlich Wilkommen! | 9.00% | ~52,379 |
-| Good Night & Good Luck | 9.00% | ~52,379 |
-| Sancho Panza | 8.00% | ~46,559 |
-| Under Pressure | 7.00% | ~40,739 |
-| On the Trail of the Enemy | 7.00% | ~40,739 |
-| Flag Burning | 7.00% | ~40,739 |
-| Oh, So This Is How It Works! | 7.00% | ~40,739 |
-| Night Hunter | 7.00% | ~40,739 |
-| Light in the Darkness | 6.00% | ~34,919 |
-| Get Outta My House! | 6.00% | ~34,919 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,919 |
-| Being All Social | 6.00% | ~34,919 |
+| You Never Forget Your First... | 11.00% | ~64,020 |
+| Into the Unknown | 10.00% | ~58,200 |
+| First Shot | 10.00% | ~58,200 |
+| Herzlich Wilkommen! | 9.00% | ~52,380 |
+| Good Night & Good Luck | 9.00% | ~52,380 |
+| Sancho Panza | 8.00% | ~46,560 |
+| Under Pressure | 7.00% | ~40,740 |
+| On the Trail of the Enemy | 7.00% | ~40,740 |
+| Flag Burning | 7.00% | ~40,740 |
+| Oh, So This Is How It Works! | 7.00% | ~40,740 |
+| Night Hunter | 7.00% | ~40,740 |
+| Light in the Darkness | 6.00% | ~34,920 |
+| Get Outta My House! | 6.00% | ~34,920 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,920 |
+| Being All Social | 6.00% | ~34,920 |
 | Debris and Ashes | 5.00% | ~29,100 |
 | We Will Be Heard! | 5.00% | ~29,100 |
 | Known Associate | 5.00% | ~29,100 |
@@ -52,7 +52,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.80% | ~4,656 |
 | Boot Licker | 0.80% | ~4,656 |
 | Who Wants To Be a... | 0.80% | ~4,656 |
-| Night of Terrors | 0.80% | ~1,819 |
+| Night of Terrors | 0.80% | ~1,820 |
 | Get the Point? | 0.70% | ~4,074 |
 | My Friend, Ciro | 0.70% | ~1,592 |
 | Skullcrusher | 0.70% | ~1,592 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581,991 (Ranked 26)  
+Progressed: 582,003 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
 | 2023-06-23 | 581,953 | 57 |
-| 2023-06-24 | 581,991 | 57 |
+| 2023-06-24 | 582,003 | 57 |
 ## Awards
 Max (Character Customization): 7,983  (Ranked 40)  
 Sum: 18,548 (Ranked 56)  

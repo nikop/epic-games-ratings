@@ -15,7 +15,7 @@
 | Fluke | 33.00% | ~32 |
 | Elimination | 32.00% | ~31 |
 | Victor's Prejudice | 32.00% | ~31 |
-| Once Bitten, Twice Shy | 29.00% | ~28 |
+| Once Bitten, Twice Shy | 30.00% | ~29 |
 | Memento | 29.00% | ~28 |
 | Excellent Driving Skills | 28.00% | ~27 |
 | Fleet-footed | 26.00% | ~25 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 292)  
+Progressed: 96 (Ranked 293)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

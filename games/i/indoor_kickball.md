@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 81.00% | ~42 |
-| Accessory Unlocked | 81.00% | ~42 |
-| Character Unlocked | 79.00% | ~41 |
-| Homer | 65.00% | ~34 |
-| Have a good trip! | 63.00% | ~33 |
-| First Win | 62.00% | ~32 |
-| Kickball Unlocked | 60.00% | ~31 |
-| Settle Down | 58.00% | ~30 |
-| Butter Fingers | 56.00% | ~29 |
-| Stay Hydrated | 56.00% | ~29 |
-| True Story! | 29.00% | ~15 |
-| Grand Slam! | 27.00% | ~14 |
-| Kick It | 25.00% | ~13 |
-| Bedroom Secret Spot | 25.00% | ~13 |
-| Have Mercy | 23.00% | ~12 |
+| Hat Unlocked | 81.00% | ~44 |
+| Accessory Unlocked | 81.00% | ~44 |
+| Character Unlocked | 80.00% | ~43 |
+| Homer | 65.00% | ~35 |
+| Have a good trip! | 63.00% | ~34 |
+| First Win | 59.00% | ~32 |
+| Kickball Unlocked | 59.00% | ~32 |
+| Settle Down | 57.00% | ~31 |
+| Butter Fingers | 57.00% | ~31 |
+| Stay Hydrated | 57.00% | ~31 |
+| True Story! | 30.00% | ~16 |
+| Grand Slam! | 26.00% | ~14 |
+| Kick It | 24.00% | ~13 |
+| Bedroom Secret Spot | 24.00% | ~13 |
+| Have Mercy | 22.00% | ~12 |
+| Spooky | 19.00% | ~10 |
 | Save some water for the fishies | 17.00% | ~9 |
-| Spooky | 17.00% | ~9 |
 | Classroom Secret Spot | 15.00% | ~8 |
 | Bathroom Secret Spot | 15.00% | ~8 |
-| At least everyone still had fun | 12.00% | ~6 |
-| Living Room Secret Spot | 10.00% | ~5 |
-| Just how we drew it up | 10.00% | ~5 |
-| Angry Dad | 8.00% | ~4 |
+| At least everyone still had fun | 11.00% | ~6 |
+| Living Room Secret Spot | 9.00% | ~5 |
+| Just how we drew it up | 9.00% | ~5 |
+| Angry Dad | 7.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |
 | Interference | 6.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~2 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 321)  
+Progressed: 54 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,3 +67,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-12 | 47 | 0 |
 | 2023-06-22 | 49 | 0 |
 | 2023-06-23 | 52 | 0 |
+| 2023-06-24 | 54 | 0 |

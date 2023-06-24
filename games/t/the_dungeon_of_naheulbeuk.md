@@ -7,7 +7,7 @@ Number of Ratings: 118  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alt+F4 | 93.00% | ~166 |
-| Where's that freaking Dwarf? | 85.00% | ~152 |
+| Where's that freaking Dwarf? | 86.00% | ~154 |
 | Sock! SOCK! | 71.00% | ~127 |
 | Livin' in a dwarven paradise | 58.00% | ~104 |
 | Fireproof Wizardess | 58.00% | ~104 |
@@ -30,12 +30,12 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 26.00% | ~47 |
 | The Great Library | 25.00% | ~45 |
 | Torture and Sensibility | 25.00% | ~45 |
+| The Statuette of Gladeulfeurah | 25.00% | ~45 |
+| A tale of adventurers not quite like the others... | 25.00% | ~45 |
 | Gargantua | 25.00% | ~45 |
-| The Statuette of Gladeulfeurah | 24.00% | ~43 |
-| A tale of adventurers not quite like the others... | 24.00% | ~43 |
 | The beards of change | 22.00% | ~39 |
+| The Famous Dungeon of Naheulbeuk | 21.00% | ~38 |
 | In Navalu's footsteps | 21.00% | ~38 |
-| The Famous Dungeon of Naheulbeuk | 20.00% | ~36 |
 | Urik's Depths | 18.00% | ~32 |
 | The Woman in the High Castle | 18.00% | ~32 |
 | The Blood Countess | 18.00% | ~32 |

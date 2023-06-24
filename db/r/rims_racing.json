@@ -2,13 +2,13 @@
   "ID": "1ef3edbf3bf14defac0cdb42301e3d5e",
   "Name": "RiMS Racing",
   "ProductSlug": "rims-racing",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2021-08-19T12:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -92,6 +92,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-24T03:22:17.6790897+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -109,8 +115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.8665503+00:00",
-  "LastChanged": "2023-03-31T05:57:10.2373207+00:00",
+  "LastChanged": "2023-06-24T03:22:17.6790894+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.1404904+00:00",
-  "LastUpdate_Ratings": "2023-06-24T02:22:38.2087683+00:00",
-  "LastUpdate_Achievements": "2023-06-24T02:27:51.3811656+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:22:17.6790907+00:00",
+  "LastUpdate_Achievements": "2023-06-24T03:27:33.4800844+00:00"
 }

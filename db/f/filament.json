@@ -213,9 +213,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194298,
+  "EOS_Progressed": 194303,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6938,6 +6938,11 @@
       "Time": "2023-06-24T02:28:10.2007512+00:00",
       "NumProgressed": 194298,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-06-24T03:27:47.7745777+00:00",
+      "NumProgressed": 194303,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 29,
@@ -6949,7 +6954,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -6973,7 +6978,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182640
+      "UsersEstimate": 182645
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7180,7 +7185,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194298,
+      "Progressed": 194303,
       "Completed": 448
     }
   ],
@@ -7188,8 +7193,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-21T21:00:19.7640701+00:00",
-  "LastChanged_Achievements": "2023-06-24T02:28:10.2007501+00:00",
+  "LastChanged_Achievements": "2023-06-24T03:27:47.774577+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-24T02:20:47.4131931+00:00",
-  "LastUpdate_Achievements": "2023-06-24T02:28:10.2008163+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:20:52.8561341+00:00",
+  "LastUpdate_Achievements": "2023-06-24T03:27:47.7746721+00:00"
 }

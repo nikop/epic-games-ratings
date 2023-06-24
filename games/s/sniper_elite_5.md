@@ -24,15 +24,15 @@ Rating: 4.47 (Ranked 592)
 | Organ Grinder | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
+| Close Quarters | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
 | No Stone Unturned | 0.60% | ~19 |
 | Skirmisher | 0.60% | ~19 |
-| Close Quarters | 0.60% | ~19 |
+| My Little Friend | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
 | Precision Is Key | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
-| My Little Friend | 0.50% | ~16 |
 | Die Nussknacker Sweet! | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
 | Opposing Force | 0.40% | ~12 |

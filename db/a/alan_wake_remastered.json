@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56064,
+  "EOS_Progressed": 56066,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5892,6 +5892,11 @@
       "Time": "2023-06-24T02:23:01.4699969+00:00",
       "NumProgressed": 56064,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-24T03:22:34.9056153+00:00",
+      "NumProgressed": 56066,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5903,7 +5908,7 @@
       "Name": "Follow the Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     },
     {
       "ID": "02",
@@ -5919,7 +5924,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10652
+      "UsersEstimate": 10653
     },
     {
       "ID": "04",
@@ -5951,7 +5956,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "08",
@@ -5959,7 +5964,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "09",
@@ -6071,7 +6076,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "23",
@@ -6095,7 +6100,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "26",
@@ -6111,7 +6116,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "28",
@@ -6119,7 +6124,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "29",
@@ -6143,7 +6148,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "32",
@@ -6215,7 +6220,7 @@
       "Name": "Right of Way",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "41",
@@ -6223,7 +6228,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7288
+      "UsersEstimate": 7289
     },
     {
       "ID": "42",
@@ -6438,21 +6443,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56064,
+      "Progressed": 56066,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19532,
+      "Progressed": 19534,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-24T02:23:01.4699959+00:00",
+  "LastChanged_Achievements": "2023-06-24T03:22:34.9056145+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-24T02:19:25.8079918+00:00",
-  "LastUpdate_Achievements": "2023-06-24T02:23:01.4701026+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:19:49.4275556+00:00",
+  "LastUpdate_Achievements": "2023-06-24T03:22:34.905736+00:00"
 }

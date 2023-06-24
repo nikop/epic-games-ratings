@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,416 |
-| That's a Grand Army | 8.00% | ~4,814 |
-| That is mine! | 8.00% | ~4,814 |
-| Victorious! | 8.00% | ~4,814 |
-| Brothers in Arms | 6.00% | ~3,611 |
-| That's a Grand Navy | 6.00% | ~3,611 |
-| Seriously?! | 6.00% | ~3,611 |
-| For the Glory | 5.00% | ~3,009 |
-| Cold War | 4.00% | ~2,407 |
-| True Catholic | 4.00% | ~2,407 |
-| Defender of the Faith | 3.00% | ~1,805 |
-| It's all about the money | 3.00% | ~1,805 |
-| Respected | 3.00% | ~1,805 |
-| Truly Divine Ruler | 3.00% | ~1,805 |
+| Until death do us apart | 9.00% | ~5,418 |
+| That's a Grand Army | 8.00% | ~4,816 |
+| That is mine! | 8.00% | ~4,816 |
+| Victorious! | 8.00% | ~4,816 |
+| Brothers in Arms | 6.00% | ~3,612 |
+| That's a Grand Navy | 6.00% | ~3,612 |
+| Seriously?! | 6.00% | ~3,612 |
+| For the Glory | 5.00% | ~3,010 |
+| Cold War | 4.00% | ~2,408 |
+| True Catholic | 4.00% | ~2,408 |
+| Defender of the Faith | 3.00% | ~1,806 |
+| It's all about the money | 3.00% | ~1,806 |
+| Respected | 3.00% | ~1,806 |
+| Truly Divine Ruler | 3.00% | ~1,806 |
 | Agressive Expander | 2.00% | ~1,204 |
 | Blockader | 2.00% | ~1,204 |
 | Combined Arms | 2.00% | ~1,204 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~542 |
 | Isn't this the way to India? | 0.90% | ~542 |
 | Market Control | 0.90% | ~542 |
-| Down Under | 0.80% | ~481 |
-| Trustworthy | 0.80% | ~481 |
+| Down Under | 0.80% | ~482 |
+| Trustworthy | 0.80% | ~482 |
 | Electable! | 0.70% | ~421 |
 | All belongs to Mother Russia | 0.60% | ~361 |
 | At every continent | 0.60% | ~361 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,181 (Ranked 77)  
+Progressed: 60,197 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
-| 2023-06-24 | 60,181 | 0 |
+| 2023-06-24 | 60,197 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,974 (Ranked 27)  

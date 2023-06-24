@@ -2,20 +2,20 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 412,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 14635,
   "RatingHistory": [
     {
@@ -5278,6 +5278,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 23548,
       "NumberOfAwardsMax": 3284
+    },
+    {
+      "Time": "2023-06-24T03:22:27.6712858+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 23548,
+      "NumberOfAwardsMax": 3284
     }
   ],
   "ReviewsDisabled": false,
@@ -5357,8 +5363,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-06-23T21:00:22.2731642+00:00",
+  "LastChanged": "2023-06-24T03:22:27.6712856+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:55.0448226+00:00",
-  "LastUpdate_Ratings": "2023-06-24T02:22:52.4641809+00:00",
-  "LastUpdate_Achievements": "2023-06-24T02:25:44.2547839+00:00"
+  "LastUpdate_Ratings": "2023-06-24T03:22:27.6712863+00:00",
+  "LastUpdate_Achievements": "2023-06-24T03:25:59.4237303+00:00"
 }

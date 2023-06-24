@@ -77,8 +77,8 @@
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 2.00% | ~2 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~2 |
+| Consider it dealt with | 2.00% | ~2 |
 | Out of bounds | 2.00% | ~2 |
-| Consider it dealt with | 1.00% | ~1 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
