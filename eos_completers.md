@@ -8,8 +8,8 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.14% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.13% |
+| 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.82% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.75% |
@@ -41,7 +41,7 @@
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.35% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 43 | [Doodle God](games/d/doodle_god.md) | 3.72% |
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.66% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -84,10 +84,10 @@
 | 82 | [Poosh XL](games/p/poosh_xl.md) | 1.55% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 84 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.47% |
-| 86 | [Night Book](games/n/night_book.md) | 1.46% |
-| 87 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.38% |
+| 85 | [Night Book](games/n/night_book.md) | 1.46% |
+| 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
+| 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.37% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
