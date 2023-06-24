@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -411,6 +411,11 @@
       "Time": "2023-06-24T17:05:25.245231+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T19:05:58.1205219+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -438,7 +443,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Game Completed",
@@ -486,7 +491,7 @@
       "Name": "Firest level completed!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "The Breaker",
@@ -501,14 +506,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:04:25.9130681+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:05:58.1205211+00:00",
   "LastUpdate_AppInfo": "2023-06-20T19:57:06.8077696+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:57:05.724645+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:04:25.9130778+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:57:41.8046777+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:05:58.120536+00:00"
 }

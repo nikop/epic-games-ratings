@@ -7,11 +7,11 @@
 | Augmented | 4.00% | ~24 |
 | Challenge Accepted | 4.00% | ~24 |
 | The City | 3.00% | ~18 |
+| Nanonic I | 3.00% | ~18 |
 | Terminated I | 3.00% | ~18 |
 | Unlocked and Loaded | 3.00% | ~18 |
 | Challenge Mastered | 2.00% | ~12 |
 | Cybernetic | 2.00% | ~12 |
-| Nanonic I | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
 | Terminated II | 2.00% | ~12 |
 | Terminated III | 2.00% | ~12 |
@@ -20,9 +20,9 @@
 | Nanonic III | 1.00% | ~6 |
 | Rookie | 1.00% | ~6 |
 | Outer Core | 0.80% | ~5 |
+| Up Close And Personal | 0.80% | ~5 |
 | Starship Docks | 0.70% | ~4 |
 | Integration | 0.70% | ~4 |
-| Up Close And Personal | 0.70% | ~4 |
 | Inner Core | 0.50% | ~3 |
 | Eden Heights | 0.30% | ~2 |
 | Ripperdoc | 0.30% | ~2 |

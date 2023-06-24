@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achi_19",
@@ -484,9 +484,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achi_31",
@@ -500,9 +500,9 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_33",
@@ -516,9 +516,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_35",
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:00:52.6741871+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:03:20.2422835+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:03.9931762+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:59:49.3851666+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:00:52.6742233+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:01:50.2321646+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:03:20.2423316+00:00"
 }

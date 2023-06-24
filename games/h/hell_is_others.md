@@ -5,19 +5,19 @@ Rating: 4.44 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,054 |
-| Predator I | 22.00% | ~55,393 |
+| Survivor | 31.00% | ~78,055 |
+| Predator I | 22.00% | ~55,394 |
 | Fixer I | 10.00% | ~25,179 |
 | A week in Century City | 10.00% | ~25,179 |
 | The Wait | 7.00% | ~17,625 |
 | Green thumb I | 6.00% | ~15,107 |
 | Cleaning Company | 6.00% | ~15,107 |
-| Well-oiled machine | 5.00% | ~12,589 |
-| Saver I | 5.00% | ~12,589 |
-| The Ascent | 4.00% | ~10,071 |
-| Pacifist | 4.00% | ~10,071 |
-| Vandalism | 4.00% | ~10,071 |
-| Capitalist I | 4.00% | ~10,071 |
+| Well-oiled machine | 5.00% | ~12,590 |
+| Saver I | 5.00% | ~12,590 |
+| The Ascent | 4.00% | ~10,072 |
+| Pacifist | 4.00% | ~10,072 |
+| Vandalism | 4.00% | ~10,072 |
+| Capitalist I | 4.00% | ~10,072 |
 | Adrenaline | 3.00% | ~7,554 |
 | By a hair | 2.00% | ~5,036 |
 | Fixer II | 2.00% | ~5,036 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 633)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,786 (Ranked 42)  
+Progressed: 251,791 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,10 +127,10 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-21 | 251,581 | 1 |
 | 2023-06-22 | 251,645 | 2 |
 | 2023-06-23 | 251,716 | 2 |
-| 2023-06-24 | 251,786 | 2 |
+| 2023-06-24 | 251,791 | 2 |
 ## Awards
 Max (Unique Visuals): 30  (Ranked 454)  
-Sum: 164 (Ranked 378)  
+Sum: 165 (Ranked 378)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -138,8 +138,8 @@ Diff (max vs sum): 76
 | This game is Great for Quick Sessions | 29 |
 | This game has Amazing Characters | 24 |
 | This game has Challenging Combat | 21 |
+| This game has a Competitive Community | 21 |
 | This game has Quickly Understood Controls | 20 |
-| This game has a Competitive Community | 20 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -227,4 +227,4 @@ Diff (max vs sum): 76
 | 2023-06-20 | 4.44 | 28 | 139 |
 | 2023-06-22 | 4.44 | 28 | 160 |
 | 2023-06-23 | 4.44 | 29 | 161 |
-| 2023-06-24 | 4.44 | 30 | 164 |
+| 2023-06-24 | 4.44 | 30 | 165 |

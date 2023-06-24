@@ -22,8 +22,8 @@
 | Sniped | 7.00% | ~212 |
 | Leave Them no Cake | 7.00% | ~212 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~212 |
+| Your Biggest Fans | 6.00% | ~181 |
 | A Secret Recipe | 6.00% | ~181 |
-| Your Biggest Fans | 5.00% | ~151 |
 | An Ally in Need | 5.00% | ~151 |
 | For the Queen | 5.00% | ~151 |
 | Not a Drop Wasted | 5.00% | ~151 |

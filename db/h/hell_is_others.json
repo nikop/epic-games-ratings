@@ -536,10 +536,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 164,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-06-24T19:02:21.5007858+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 165,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 164,
+  "NumberOfAwards": 165,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -577,7 +583,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Highly Recommended",
@@ -586,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251786,
+  "EOS_Progressed": 251791,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7186,6 +7192,11 @@
       "Time": "2023-06-24T18:03:49.6111366+00:00",
       "NumProgressed": 251786,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-24T19:05:21.4334918+00:00",
+      "NumProgressed": 251791,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7205,7 +7216,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "Act3",
@@ -7245,7 +7256,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78054
+      "UsersEstimate": 78055
     },
     {
       "ID": "BackHomeNTimes",
@@ -7253,7 +7264,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12589
+      "UsersEstimate": 12590
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -7261,7 +7272,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "BreakNWindows",
@@ -7269,7 +7280,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -7325,7 +7336,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12589
+      "UsersEstimate": 12590
     },
     {
       "ID": "CreedsInBank2",
@@ -7485,7 +7496,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55393
+      "UsersEstimate": 55394
     },
     {
       "ID": "KillOthers2",
@@ -7565,7 +7576,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10071
+      "UsersEstimate": 10072
     },
     {
       "ID": "Patrimony2",
@@ -7644,16 +7655,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251786,
+      "Progressed": 251791,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-24T13:14:53.3523811+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:03:49.6111362+00:00",
+  "LastChanged": "2023-06-24T19:02:21.5007856+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:05:21.4334911+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:00:11.1775611+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:03:49.6112005+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:02:21.5007864+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:05:21.4335789+00:00"
 }

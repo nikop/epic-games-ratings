@@ -3,11 +3,11 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 593,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4463,9 +4463,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4703,9 +4703,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4894,8 +4894,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:55.4485844+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:08:14.4208726+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-24T18:00:29.240397+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:55.448656+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:02:41.3746165+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:08:14.4209962+00:00"
 }

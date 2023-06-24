@@ -2,7 +2,7 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 469,
@@ -6197,10 +6197,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 26867,
       "NumberOfAwardsMax": 4073
+    },
+    {
+      "Time": "2023-06-24T18:58:18.243487+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 26869,
+      "NumberOfAwardsMax": 4073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26867,
+  "NumberOfAwards": 26869,
   "NumberOfAwardsMax": 4073,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6214,7 +6220,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3339
+      "Count": 3341
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6278,9 +6284,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-06-24T15:58:02.2709236+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:29.900943+00:00",
+  "LastChanged": "2023-06-24T18:58:18.2434868+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:07:30.7471304+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.6610693+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:57:32.5861264+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:29.9009451+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:58:18.2434875+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:07:30.7471345+00:00"
 }

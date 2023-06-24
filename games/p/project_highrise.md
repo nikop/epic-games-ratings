@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~131 |
-| Starting Skyward | 51.00% | ~115 |
+| In the Black | 58.00% | ~132 |
+| Starting Skyward | 51.00% | ~116 |
 | Grime is Not Good | 45.00% | ~102 |
-| Campaign Launch | 39.00% | ~88 |
-| Floor Galore | 38.00% | ~86 |
+| Campaign Launch | 39.00% | ~89 |
+| Floor Galore | 37.00% | ~84 |
 | Dinner Dash | 37.00% | ~84 |
 | Need a Consult | 34.00% | ~77 |
 | It's Technical | 34.00% | ~77 |
 | Delegate Maintenance | 33.00% | ~75 |
-| Upgrade Unlock | 32.00% | ~72 |
-| Proper Walls | 31.00% | ~70 |
+| Upgrade Unlock | 32.00% | ~73 |
+| Proper Walls | 30.00% | ~68 |
 | Destination Destiny | 27.00% | ~61 |
 | Happy Tenants | 24.00% | ~54 |
-| Your Prestige is Rising | 23.00% | ~52 |
-| Potent Potables | 23.00% | ~52 |
-| Smooth Service | 23.00% | ~52 |
+| Your Prestige is Rising | 22.00% | ~50 |
+| Potent Potables | 22.00% | ~50 |
 | Retail Revenue | 22.00% | ~50 |
-| Lux Living | 21.00% | ~47 |
-| Leveled Up Shops | 21.00% | ~47 |
+| Smooth Service | 22.00% | ~50 |
+| Lux Living | 21.00% | ~48 |
+| Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~45 |
 | People Mover | 20.00% | ~45 |
 | Emporium Empire | 19.00% | ~43 |
@@ -38,7 +38,7 @@
 | Cashflow Chief | 15.00% | ~34 |
 | Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 14.00% | ~32 |
-| Smooth Operator | 13.00% | ~29 |
+| Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 12.00% | ~27 |
 | 28 Days Later | 11.00% | ~25 |
 | Plaza Plan | 9.00% | ~20 |
@@ -48,11 +48,11 @@
 | Aestheticly Pleased | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Revenue Royalty | 8.00% | ~18 |
-| Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
 | Meet Me at HQ | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
+| Phoning It In | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Careful Constructor | 6.00% | ~14 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 251)  
+Progressed: 227 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-19 | 223 | 0 |
 | 2023-06-22 | 224 | 0 |
 | 2023-06-23 | 225 | 0 |
-| 2023-06-24 | 226 | 0 |
+| 2023-06-24 | 227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

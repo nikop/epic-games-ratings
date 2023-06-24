@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 79.00% | ~1,358 |
+| Complete Guard Faction | 79.00% | ~1,359 |
 | Become King | 72.00% | ~1,238 |
 | Ranged Weapon | 61.00% | ~1,049 |
 | Defeat 25 Frogs | 61.00% | ~1,049 |
 | Collect Monster Parts | 57.00% | ~980 |
-| Two Handed Weapon | 55.00% | ~945 |
+| Two Handed Weapon | 55.00% | ~946 |
 | Defeat 25 Grubs | 52.00% | ~894 |
 | Rescue Redgi's Brothers | 51.00% | ~877 |
 | Collect Iron Ore | 47.00% | ~808 |
+| Defeat 25 Mozis | 46.00% | ~791 |
 | Kitchen Ready To Cook | 46.00% | ~791 |
 | Collect Gold | 45.00% | ~774 |
-| Defeat 25 Mozis | 45.00% | ~774 |
 | Smithy Ready to Craft | 45.00% | ~774 |
-| Fix the Travellers Wagon | 43.00% | ~739 |
+| Fix the Travellers Wagon | 43.00% | ~740 |
 | Complete Elder Faction | 40.00% | ~688 |
 | End of the Mozis | 37.00% | ~636 |
 | Throne Room Fit For A King | 37.00% | ~636 |
@@ -30,13 +30,13 @@ Rating: 4.53 (Ranked 503)
 | Complete the Chefs Book | 24.00% | ~413 |
 | Complete Ranger Faction | 20.00% | ~344 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~327 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~309 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~310 |
 | Complete Arena Faction | 15.00% | ~258 |
 | Complete Redgi's Armory | 8.00% | ~138 |
 | King of Kings | 7.00% | ~120 |
 | A new Warchief rises | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,719 (Ranked 162)  
+Progressed: 1,720 (Ranked 162)  
 Completed: 8 (0.47%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 8 (0.47%) (Ranked 127)
 | 2023-06-21 | 1,714 | 8 |
 | 2023-06-22 | 1,717 | 8 |
 | 2023-06-23 | 1,718 | 8 |
-| 2023-06-24 | 1,719 | 8 |
+| 2023-06-24 | 1,720 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

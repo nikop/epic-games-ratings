@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 482,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
@@ -442,9 +442,9 @@
       "ID": "HIPSTER",
       "SetID": "2iigf77",
       "Name": "Hipster",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -595,8 +595,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:44.5068352+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:07:50.4578553+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.2429257+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:58:46.6100767+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:44.5068537+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:00:07.307957+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:07:50.457883+00:00"
 }

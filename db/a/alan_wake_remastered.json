@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 74,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56126,
+  "EOS_Progressed": 56131,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5962,6 +5962,11 @@
       "Time": "2023-06-24T18:00:48.1320331+00:00",
       "NumProgressed": 56126,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-24T19:03:13.6191294+00:00",
+      "NumProgressed": 56131,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -5973,7 +5978,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18522
+      "UsersEstimate": 18523
     },
     {
       "ID": "02",
@@ -5981,7 +5986,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11225
+      "UsersEstimate": 11226
     },
     {
       "ID": "03",
@@ -5989,7 +5994,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10664
+      "UsersEstimate": 10665
     },
     {
       "ID": "04",
@@ -6005,7 +6010,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9541
+      "UsersEstimate": 9542
     },
     {
       "ID": "06",
@@ -6061,7 +6066,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "13",
@@ -6157,7 +6162,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "25",
@@ -6173,7 +6178,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "27",
@@ -6197,7 +6202,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "30",
@@ -6205,7 +6210,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5051
+      "UsersEstimate": 5052
     },
     {
       "ID": "31",
@@ -6213,7 +6218,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "32",
@@ -6221,7 +6226,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14032
+      "UsersEstimate": 14033
     },
     {
       "ID": "33",
@@ -6245,7 +6250,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14593
+      "UsersEstimate": 14594
     },
     {
       "ID": "36",
@@ -6293,7 +6298,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "42",
@@ -6333,7 +6338,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "47",
@@ -6508,21 +6513,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56126,
+      "Progressed": 56131,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19594,
+      "Progressed": 19599,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:00:48.1320325+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:03:13.6191288+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:57:42.9750737+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:00:48.1321104+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:58:32.1063027+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:03:13.6192595+00:00"
 }

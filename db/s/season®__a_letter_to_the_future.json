@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 1088,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
@@ -1593,9 +1593,9 @@
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 283
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1633,9 +1633,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 305
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1722,8 +1722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:37.589346+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:07:41.1008649+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:28.0554967+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:58:38.775435+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:37.5893629+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:59:55.7571551+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:07:41.100901+00:00"
 }

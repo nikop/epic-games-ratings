@@ -3,11 +3,11 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 503,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1719,
+  "EOS_Progressed": 1720,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-06-24T14:03:08.9151534+00:00",
       "NumProgressed": 1719,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-24T19:03:38.5159656+00:00",
+      "NumProgressed": 1720,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1855,7 +1860,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1911,7 +1916,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "GetRangedWeapon",
@@ -1927,7 +1932,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "Kill25Bugs",
@@ -1949,9 +1954,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 791
     },
     {
       "ID": "MeetTheMoles",
@@ -1967,7 +1972,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "RepairChef",
@@ -2014,22 +2019,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1719,
+      "Progressed": 1720,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 360,
-      "Completed": 360
+      "Progressed": 361,
+      "Completed": 361
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:02:06.0683956+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:03:38.515965+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.1249497+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:58:22.7504676+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:02:06.0684217+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:59:34.0525812+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:03:38.5160283+00:00"
 }

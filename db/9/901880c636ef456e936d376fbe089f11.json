@@ -372,9 +372,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:03:37.6201894+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:05:04.6345085+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:56:57.6133971+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:03:37.6202251+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:57:28.1124996+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:05:04.6345732+00:00"
 }

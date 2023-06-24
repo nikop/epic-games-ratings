@@ -11,6 +11,7 @@ Rating: 4.47 (Ranked 593)
 | It's Starting to Crack | 2.00% | ~62 |
 | Change the Channel | 2.00% | ~62 |
 | Taking it back | 2.00% | ~62 |
+| Target America | 2.00% | ~62 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
@@ -19,14 +20,13 @@ Rating: 4.47 (Ranked 593)
 | Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
-| Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
 | Skirmisher | 0.90% | ~28 |
 | Organ Grinder | 0.80% | ~25 |
 | Gunslinger | 0.80% | ~25 |
+| Set Europe Ablaze | 0.80% | ~25 |
 | Close Quarters | 0.80% | ~25 |
 | Climbing the Ladder | 0.70% | ~22 |
-| Set Europe Ablaze | 0.70% | ~22 |
 | Snake in the Grass | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |

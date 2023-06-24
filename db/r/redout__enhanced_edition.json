@@ -3,8 +3,8 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 76,
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225577,
+  "EOS_Progressed": 225579,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6943,6 +6943,11 @@
       "Time": "2023-06-24T18:05:38.7362539+00:00",
       "NumProgressed": 225577,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-24T19:07:42.7383793+00:00",
+      "NumProgressed": 225579,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -6986,7 +6991,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24813
+      "UsersEstimate": 24814
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -6994,7 +6999,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15790
+      "UsersEstimate": 15791
     },
     {
       "ID": "DRAGOON",
@@ -7042,7 +7047,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 45115
+      "UsersEstimate": 45116
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -7122,7 +7127,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15790
+      "UsersEstimate": 15791
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -7225,15 +7230,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 225577,
+      "Progressed": 225579,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:38.7362536+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:07:42.7383785+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.3277803+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:58:17.3868456+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:38.7363003+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:59:24.0898733+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:07:42.738453+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -223,6 +223,11 @@
       "Time": "2023-06-23T21:05:55.4545991+00:00",
       "NumProgressed": 276,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-24T19:07:51.2407828+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -242,7 +247,7 @@
       "Name": "Believer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "clear",
@@ -266,7 +271,7 @@
       "Name": "End",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "escape",
@@ -314,7 +319,7 @@
       "Name": "Origin",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "realist",
@@ -328,9 +333,9 @@
       "ID": "tough",
       "SetID": "8b5dfcp",
       "Name": "Tough",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "unfinished",
@@ -353,7 +358,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 2
     }
   ],
@@ -361,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:45.0859192+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:07:51.2407818+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:04.8348704+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:59:49.5121177+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:45.0859302+00:00"
+  "LastUpdate_Ratings": "2023-06-24T19:01:50.6135803+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:07:51.2407974+00:00"
 }

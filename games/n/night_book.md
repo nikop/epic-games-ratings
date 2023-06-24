@@ -11,7 +11,7 @@
 | Deal Or No Deal | 49.00% | ~100 |
 | Personal Life | 49.00% | ~100 |
 | Impress Theron | 44.00% | ~90 |
-| On Your Bike | 30.00% | ~62 |
+| On Your Bike | 31.00% | ~64 |
 | Save Dad | 21.00% | ~43 |
 | A Little Extra | 16.00% | ~33 |
 | Use Your Connections | 12.00% | ~25 |

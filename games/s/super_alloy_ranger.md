@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 74.00% | ~34 |
-| Gear Up | 70.00% | ~32 |
-| A Grand Show | 70.00% | ~32 |
+| Gear Up | 72.00% | ~33 |
+| A Grand Show | 72.00% | ~33 |
 | Freshen Up | 59.00% | ~27 |
 | GG EZ | 59.00% | ~27 |
-| Hydrophobia | 37.00% | ~17 |
+| Hydrophobia | 39.00% | ~18 |
 | Ka-Ching! | 35.00% | ~16 |
 | Stop Right There | 30.00% | ~14 |
 | Get to the Point | 26.00% | ~12 |
@@ -19,10 +19,10 @@
 | Mr. Want It All | 11.00% | ~5 |
 | Grand Escape | 7.00% | ~3 |
 | Space Warrior: Prologue | 7.00% | ~3 |
+| Keep it Up, rookie! | 7.00% | ~3 |
 | Decapitation Strike | 7.00% | ~3 |
 | The Abyss Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
-| Keep it Up, rookie! | 4.00% | ~2 |
 | Antaeus | 4.00% | ~2 |
 | Air Interception | 4.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |

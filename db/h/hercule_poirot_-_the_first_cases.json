@@ -3,8 +3,8 @@
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
   "Ranking_Rating": 757,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 306,
@@ -335,9 +335,9 @@
       "ID": "ACH_01",
       "SetID": "72imik0",
       "Name": "The Bracelet",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_010",
@@ -527,9 +527,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_032",
@@ -575,9 +575,9 @@
       "ID": "ACH_037",
       "SetID": "72imik0",
       "Name": "Florette Duval",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_038",
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-06-06T07:57:37.3793148+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:05:53.551012+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:08:12.0635901+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:24.4294097+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:57:47.6422555+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:05:53.5510439+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:58:40.8282567+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:08:12.0636348+00:00"
 }

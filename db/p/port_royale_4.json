@@ -3,8 +3,8 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 907,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 184,
@@ -1352,9 +1352,9 @@
       "ID": "ACH033",
       "SetID": "69nfp41",
       "Name": "A true pirate!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH034",
@@ -1496,8 +1496,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-06-24T18:02:15.788972+00:00",
+  "LastChanged_Achievements": "2023-06-24T19:03:52.6880223+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:16.9955175+00:00",
-  "LastUpdate_Ratings": "2023-06-24T17:58:27.3342932+00:00",
-  "LastUpdate_Achievements": "2023-06-24T18:02:15.7890058+00:00"
+  "LastUpdate_Ratings": "2023-06-24T18:59:42.187481+00:00",
+  "LastUpdate_Achievements": "2023-06-24T19:03:52.6880773+00:00"
 }

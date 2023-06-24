@@ -33,12 +33,12 @@ Number of Ratings: 56  (23.09.2022)
 | parallel universe | 10.00% | ~1,015 |
 | samir | 8.00% | ~812 |
 | eurobeat | 7.00% | ~711 |
+| viking | 7.00% | ~711 |
 | master of rally | 7.00% | ~711 |
 | antilag | 7.00% | ~711 |
 | mittens | 7.00% | ~711 |
 | parking lot | 6.00% | ~609 |
 | oktoberfest | 6.00% | ~609 |
-| viking | 6.00% | ~609 |
 | group b | 5.00% | ~508 |
 | in like a lamb, out like a lion | 5.00% | ~508 |
 | if in doubt, flat out! | 5.00% | ~508 |

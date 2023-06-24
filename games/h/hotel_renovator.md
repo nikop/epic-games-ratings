@@ -18,7 +18,7 @@ Rating: 4.52 (Ranked 518)
 | Humble beginnings | 43.00% | ~359 |
 | Fine, I'll do it myself | 41.00% | ~342 |
 | Moving up | 41.00% | ~342 |
-| No need to call anyone | 38.00% | ~317 |
+| No need to call anyone | 39.00% | ~325 |
 | Big fortune | 32.00% | ~267 |
 | Still more work ahead | 29.00% | ~242 |
 | Hotel sleuthing | 27.00% | ~225 |
