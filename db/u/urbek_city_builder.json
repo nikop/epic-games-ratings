@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -810,9 +810,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "CULTURE_2",
@@ -1050,9 +1050,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1122,9 +1122,9 @@
       "ID": "REBELDES_1",
       "SetID": "44dlcg0",
       "Name": "Rebel city",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "REBELDES_2",
@@ -1307,8 +1307,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:10:56.3256581+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:28:31.2882936+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:45.6174547+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:03:13.5808882+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:56.3257445+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:20:50.6101168+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:28:31.2883836+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.17 (Ranked 857)
 | Loose Ends | 4.00% | ~2,636 |
 | The Batman Family | 3.00% | ~1,977 |
 | To the Victor Go the Spoils | 3.00% | ~1,977 |
+| Quartzer Life Crisis | 3.00% | ~1,977 |
 | Get ReQ'd | 3.00% | ~1,977 |
 | Knighthood | 3.00% | ~1,977 |
 | Whispered Words | 3.00% | ~1,977 |
@@ -22,7 +23,6 @@ Rating: 4.17 (Ranked 857)
 | Rock and a Hard Place | 2.00% | ~1,318 |
 | Not On My Watch | 2.00% | ~1,318 |
 | Shock Til They Drop | 2.00% | ~1,318 |
-| Quartzer Life Crisis | 2.00% | ~1,318 |
 | Snow Problem | 2.00% | ~1,318 |
 | Cooldown | 2.00% | ~1,318 |
 | Working Hard or Harley Working? | 2.00% | ~1,318 |
@@ -45,12 +45,12 @@ Rating: 4.17 (Ranked 857)
 | Dressed to Impress | 0.60% | ~395 |
 | A Momentum Occasion | 0.50% | ~329 |
 | Bat Out of Hell | 0.40% | ~264 |
+| Practice Makes Perfect | 0.30% | ~198 |
 | He'd Be So Proud of You | 0.30% | ~198 |
 | Hammer and Icicle | 0.20% | ~72 |
 | Renewable Enemy Source | 0.20% | ~72 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
 | The Cold, the Bad and the Ugly | 0.20% | ~72 |
-| Practice Makes Perfect | 0.20% | ~132 |
 | Talonted | 0.20% | ~132 |
 | The Man-Bat Family | 0.20% | ~132 |
 | Element of Surprise | 0.10% | ~36 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,894 (Ranked 72)  
+Progressed: 65,899 (Ranked 72)  
 Completed: 96 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 96 (0.15%) (Ranked 165)
 | 2023-06-21 | 65,809 | 96 |
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
-| 2023-06-24 | 65,894 | 96 |
+| 2023-06-24 | 65,899 | 96 |
 ## Awards
 Max (Great Boss Battles): 2,372  (Ranked 100)  
 Sum: 3,926 (Ranked 136)  

@@ -3,11 +3,11 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2500,
+  "EOS_Progressed": 2501,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
@@ -1511,6 +1511,11 @@
       "Time": "2023-06-23T20:03:10.6479934+00:00",
       "NumProgressed": 2500,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-24T02:24:44.1256545+00:00",
+      "NumProgressed": 2501,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 14,
@@ -1626,14 +1631,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2500,
+      "Progressed": 2501,
       "Completed": 98
     }
   ],
@@ -1641,8 +1646,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:07:36.1104312+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:24:44.125654+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:34.7093496+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:04:46.2004449+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:07:36.1104497+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:22:32.3374599+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:24:44.1256761+00:00"
 }

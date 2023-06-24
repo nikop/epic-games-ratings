@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -382,6 +382,11 @@
       "Time": "2023-06-23T17:07:31.5855065+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T02:28:34.4060837+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -431,9 +436,9 @@
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_art",
@@ -441,7 +446,7 @@
       "Name": "Artfully Done",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_art_large",
@@ -457,7 +462,7 @@
       "Name": "Curated Class",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_art_outside",
@@ -529,7 +534,7 @@
       "Name": "Need a Consult",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_consultant_1",
@@ -585,7 +590,7 @@
       "Name": "Glut of Gastronomy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_contracts_4",
@@ -625,7 +630,7 @@
       "Name": "Full House",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_checkin_2",
@@ -633,7 +638,7 @@
       "Name": "Royal Flush",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_event_1",
@@ -657,7 +662,7 @@
       "Name": "The King of Cool",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_ep1_reviews_1",
@@ -695,9 +700,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_floors_1",
@@ -729,7 +734,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_grime_1",
@@ -737,7 +742,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_grime_2",
@@ -745,7 +750,7 @@
       "Name": "Rehab Expert",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_happy",
@@ -793,7 +798,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_office_2",
@@ -839,9 +844,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_prestige_3",
@@ -857,7 +862,7 @@
       "Name": "In the Black",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_profit_1",
@@ -905,7 +910,7 @@
       "Name": "Tasty Profits",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_restaurants_3",
@@ -913,7 +918,7 @@
       "Name": "Dinner Dash",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_restaurants_4",
@@ -943,9 +948,9 @@
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_retail_3",
@@ -967,9 +972,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_revs_2",
@@ -985,7 +990,7 @@
       "Name": "It is Payday",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_scenarios_1",
@@ -1001,7 +1006,7 @@
       "Name": "Scenario Success",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_scenarios_3",
@@ -1033,7 +1038,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_util_cable",
@@ -1063,9 +1068,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_util_water",
@@ -1096,7 +1101,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
@@ -1104,8 +1109,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:10:59.2018089+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:28:34.4060833+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.2499737+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:02:21.8129763+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:59.2019023+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:19:53.0121068+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:28:34.406189+00:00"
 }

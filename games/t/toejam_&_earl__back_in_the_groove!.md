@@ -7,15 +7,15 @@ Rating: 4.32 (Ranked 756)
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~4,984 |
 | Fall Fest | 7.00% | ~3,876 |
-| Thrill Seeker | 6.00% | ~3,322 |
+| Thrill Seeker | 6.00% | ~3,323 |
 | Flying Present Catcher | 5.00% | ~2,769 |
 | HFZ Goober | 5.00% | ~2,769 |
 | Sunflower Master | 4.00% | ~2,215 |
-| Backer Visitor | 2.00% | ~1,107 |
-| Hi Fiver | 2.00% | ~1,107 |
-| Hate That Randomizer | 2.00% | ~1,107 |
-| Feet on Funkotron | 2.00% | ~1,107 |
-| A Timely Splash | 2.00% | ~1,107 |
+| Backer Visitor | 2.00% | ~1,108 |
+| Hi Fiver | 2.00% | ~1,108 |
+| Hate That Randomizer | 2.00% | ~1,108 |
+| Feet on Funkotron | 2.00% | ~1,108 |
+| A Timely Splash | 2.00% | ~1,108 |
 | Elf Chaser | 1.00% | ~554 |
 | Fool Me Twice | 1.00% | ~554 |
 | Old School Jammin' | 1.00% | ~554 |
@@ -27,12 +27,12 @@ Rating: 4.32 (Ranked 756)
 | Teamwork Rules | 0.60% | ~332 |
 | Totally Bummed Again | 0.60% | ~332 |
 | Piece O' Cake | 0.50% | ~277 |
-| Boom Box Baby | 0.40% | ~221 |
-| I Can't Believe I've Done This | 0.40% | ~221 |
-| Flying Present Ultimate Master | 0.40% | ~221 |
-| Ridiculously Generous | 0.40% | ~221 |
-| Harsh Love | 0.40% | ~221 |
-| Made It Through | 0.40% | ~221 |
+| Boom Box Baby | 0.40% | ~222 |
+| I Can't Believe I've Done This | 0.40% | ~222 |
+| Flying Present Ultimate Master | 0.40% | ~222 |
+| Ridiculously Generous | 0.40% | ~222 |
+| Harsh Love | 0.40% | ~222 |
+| Made It Through | 0.40% | ~222 |
 | Map Explorer | 0.30% | ~166 |
 | Nine Funkotronians | 0.30% | ~166 |
 | I'm A Total Saint | 0.30% | ~166 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 756)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,373 (Ranked 80)  
+Progressed: 55,376 (Ranked 80)  
 Completed: 4 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 4 (0.01%) (Ranked 217)
 | 2023-06-21 | 55,326 | 4 |
 | 2023-06-22 | 55,350 | 4 |
 | 2023-06-23 | 55,372 | 4 |
-| 2023-06-24 | 55,373 | 4 |
+| 2023-06-24 | 55,376 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

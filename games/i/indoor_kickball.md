@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 79.00% | ~41 |
-| Accessory Unlocked | 79.00% | ~41 |
-| Character Unlocked | 77.00% | ~40 |
+| Hat Unlocked | 81.00% | ~42 |
+| Accessory Unlocked | 81.00% | ~42 |
+| Character Unlocked | 79.00% | ~41 |
 | Homer | 65.00% | ~34 |
-| Have a good trip! | 62.00% | ~32 |
-| First Win | 60.00% | ~31 |
+| Have a good trip! | 63.00% | ~33 |
+| First Win | 62.00% | ~32 |
 | Kickball Unlocked | 60.00% | ~31 |
-| Settle Down | 56.00% | ~29 |
+| Settle Down | 58.00% | ~30 |
 | Butter Fingers | 56.00% | ~29 |
-| Stay Hydrated | 54.00% | ~28 |
+| Stay Hydrated | 56.00% | ~29 |
 | True Story! | 29.00% | ~15 |
 | Grand Slam! | 27.00% | ~14 |
 | Kick It | 25.00% | ~13 |
@@ -25,8 +25,8 @@
 | Bathroom Secret Spot | 15.00% | ~8 |
 | At least everyone still had fun | 12.00% | ~6 |
 | Living Room Secret Spot | 10.00% | ~5 |
+| Just how we drew it up | 10.00% | ~5 |
 | Angry Dad | 8.00% | ~4 |
-| Just how we drew it up | 8.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |
 | Interference | 6.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~2 |

@@ -5,22 +5,22 @@ Rating: 4.68 (Ranked 239)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,430 |
-| 50 HEADSHOTS | 12.00% | ~50,243 |
-| FINISHED CHAPTER 1 | 9.00% | ~37,683 |
-| SCIENCE AND INDUSTRY | 9.00% | ~37,683 |
-| 200 HEADSHOTS | 8.00% | ~33,496 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,309 |
-| FINISHED CHAPTER 3 | 6.00% | ~25,122 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,935 |
-| 1000 KILLS | 4.00% | ~16,748 |
-| FINISH CHAPTER 5 | 4.00% | ~16,748 |
-| FINISH CHAPTER 6 | 4.00% | ~16,748 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,748 |
+| 100 KILLS | 13.00% | ~54,433 |
+| 50 HEADSHOTS | 12.00% | ~50,246 |
+| FINISHED CHAPTER 1 | 9.00% | ~37,685 |
+| SCIENCE AND INDUSTRY | 9.00% | ~37,685 |
+| 200 HEADSHOTS | 8.00% | ~33,497 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,310 |
+| FINISHED CHAPTER 3 | 6.00% | ~25,123 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,936 |
+| 1000 KILLS | 4.00% | ~16,749 |
+| FINISH CHAPTER 5 | 4.00% | ~16,749 |
+| FINISH CHAPTER 6 | 4.00% | ~16,749 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,749 |
 | FIREFIGHT LEVEL 10 | 2.00% | ~8,374 |
 | FIREFIGHT LEVEL 20 | 0.70% | ~2,931 |
 | FIRST BLOOD | 0.70% | ~2,931 |
-| PACEMAKER | 0.50% | ~2,093 |
+| PACEMAKER | 0.50% | ~2,094 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,675 |
 | TIME PARADOX | 0.40% | ~1,675 |
 | NEW GAME PLUS | 0.30% | ~1,256 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 239)
 | THE GAMBLER | 0.10% | ~419 |
 | WARRIOR IN A GARDEN | 0.10% | ~419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418,695 (Ranked 37)  
+Progressed: 418,718 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,14 +123,14 @@ Completed: 37 (0.01%) (Ranked 217)
 | 2023-06-21 | 418,000 | 37 |
 | 2023-06-22 | 418,352 | 37 |
 | 2023-06-23 | 418,684 | 37 |
-| 2023-06-24 | 418,695 | 37 |
+| 2023-06-24 | 418,718 | 37 |
 ## Awards
-Max (Great Boss Battles): 179  (Ranked 277)  
-Sum: 179 (Ranked 370)  
+Max (Great Boss Battles): 181  (Ranked 275)  
+Sum: 181 (Ranked 368)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 179 |
+| This game has Great Boss Battles | 181 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -174,3 +174,4 @@ Diff (max vs sum): -93
 | 2023-06-06 | 4.68 | 176 | 176 |
 | 2023-06-15 | 4.68 | 177 | 177 |
 | 2023-06-22 | 4.68 | 179 | 179 |
+| 2023-06-24 | 4.68 | 181 | 181 |

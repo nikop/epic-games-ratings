@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2534,9 +2534,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49699,
+  "EOS_Progressed": 49701,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -7989,6 +7989,11 @@
       "Time": "2023-06-24T00:07:12.4589547+00:00",
       "NumProgressed": 49699,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-06-24T02:24:19.3580559+00:00",
+      "NumProgressed": 49701,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 45,
@@ -8024,7 +8029,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39262
+      "UsersEstimate": 39264
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8112,7 +8117,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29324
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8192,7 +8197,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28328
+      "UsersEstimate": 28330
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8240,7 +8245,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28825
+      "UsersEstimate": 28827
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8264,7 +8269,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48208
+      "UsersEstimate": 48210
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8304,7 +8309,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35286
+      "UsersEstimate": 35288
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8336,7 +8341,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26340
+      "UsersEstimate": 26342
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8352,22 +8357,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35783
+      "UsersEstimate": 35785
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49699,
+      "Progressed": 49701,
       "Completed": 194
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-23T16:00:28.6995872+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:07:12.458954+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:24:19.3580555+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:05:05.3123333+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:07:12.459015+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:22:54.4628195+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:24:19.3581264+00:00"
 }

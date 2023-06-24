@@ -5,28 +5,28 @@ Rating: 3.93 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,027 |
-| First One’s Free | 65.00% | ~43,943 |
-| Neophyte Ninja | 50.00% | ~33,802 |
-| Too Old for This | 47.00% | ~31,774 |
-| Fancy Pants | 35.00% | ~23,661 |
-| Case Closed | 34.00% | ~22,985 |
-| King of the Hill | 34.00% | ~22,985 |
-| Underworld Initiate | 29.00% | ~19,605 |
-| Roid Ranger | 21.00% | ~14,197 |
-| True Player | 19.00% | ~12,845 |
-| Off the Rocks | 19.00% | ~12,845 |
+| Downed but Not Outed | 74.00% | ~50,031 |
+| First One’s Free | 65.00% | ~43,946 |
+| Neophyte Ninja | 50.00% | ~33,804 |
+| Too Old for This | 47.00% | ~31,776 |
+| Fancy Pants | 35.00% | ~23,663 |
+| Case Closed | 34.00% | ~22,987 |
+| King of the Hill | 34.00% | ~22,987 |
+| Underworld Initiate | 29.00% | ~19,607 |
+| Roid Ranger | 21.00% | ~14,198 |
+| True Player | 19.00% | ~12,846 |
+| Off the Rocks | 19.00% | ~12,846 |
 | Raider’s Ruin | 16.00% | ~10,817 |
 | Dragonslayer | 16.00% | ~10,817 |
 | Hidden Sonata | 13.00% | ~8,789 |
-| Rockay Rex | 11.00% | ~7,436 |
-| Freebooter | 10.00% | ~6,760 |
-| Track Star | 9.00% | ~6,084 |
-| Classy Joint | 9.00% | ~6,084 |
-| I Like Trains | 8.00% | ~5,408 |
-| Headhunter | 8.00% | ~5,408 |
-| Ding Dong | 8.00% | ~5,408 |
-| Foo Finder | 7.00% | ~4,732 |
+| Rockay Rex | 11.00% | ~7,437 |
+| Freebooter | 10.00% | ~6,761 |
+| Track Star | 9.00% | ~6,085 |
+| Classy Joint | 9.00% | ~6,085 |
+| I Like Trains | 8.00% | ~5,409 |
+| Headhunter | 8.00% | ~5,409 |
+| Ding Dong | 8.00% | ~5,409 |
+| Foo Finder | 7.00% | ~4,733 |
 | Legend Looter | 5.00% | ~3,380 |
 | Savvy Seeker | 5.00% | ~3,380 |
 | Imports and Exports | 4.00% | ~2,704 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 920)
 | Geek Out | 0.50% | ~338 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,604 (Ranked 71)  
+Progressed: 67,609 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 34 (0.05%) (Ranked 196)
 | 2023-06-21 | 67,421 | 34 |
 | 2023-06-22 | 67,506 | 34 |
 | 2023-06-23 | 67,603 | 34 |
-| 2023-06-24 | 67,604 | 34 |
+| 2023-06-24 | 67,609 | 34 |
 ## Awards
 Max (Diverse Characters): 340  (Ranked 221)  
 Sum: 1,624 (Ranked 209)  

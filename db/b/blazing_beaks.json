@@ -3,11 +3,11 @@
   "Name": "Blazing Beaks",
   "ProductSlug": "blazing-beaks-3d4864",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-05T17:00:00+00:00",
@@ -160,6 +160,6 @@
   "FirstSeenRating": "2022-08-05T05:31:11.9314661+00:00",
   "LastChanged": "2023-03-31T05:57:50.2477401+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:26.5869664+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:02:55.6120322+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:08:53.6954779+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:20:30.7486934+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:26:17.5768388+00:00"
 }

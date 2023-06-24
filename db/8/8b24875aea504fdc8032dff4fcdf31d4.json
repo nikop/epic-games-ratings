@@ -4,7 +4,7 @@
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "ACH_EXPLOREMOTHERSHIP",
       "SetID": "73kff7",
       "Name": "The mystery ship",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FINDLUCIANO",
@@ -168,9 +168,9 @@
       "ID": "ACH_GAMECOMPLETED",
       "SetID": "73kff7",
       "Name": "We shouldn\u0027t have landed here in this place",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_GETTOTIMOTHYS",
@@ -184,9 +184,9 @@
       "ID": "ACH_KILLSTOCKII",
       "SetID": "73kff7",
       "Name": "Free squid for a year",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LABYRINTH",
@@ -224,9 +224,9 @@
       "ID": "ACH_REACHMOTHERSHIP",
       "SetID": "73kff7",
       "Name": "Towards the mouth of the wolf",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SAVEELIZABETH",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:09:21.5475822+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:26:47.3194684+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:17.0816335+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:01:19.597098+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:09:21.5476101+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:18:49.538432+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:26:47.3194873+00:00"
 }

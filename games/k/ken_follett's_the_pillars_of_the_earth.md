@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,517 |
+| Tattletale | 41.00% | ~5,518 |
 | Man of politics | 35.00% | ~4,710 |
-| Friends of sorts | 34.00% | ~4,575 |
-| Yet another secret | 34.00% | ~4,575 |
-| Let there be darkness | 33.00% | ~4,440 |
-| End of Book One | 31.00% | ~4,171 |
+| Friends of sorts | 34.00% | ~4,576 |
+| Yet another secret | 34.00% | ~4,576 |
+| Let there be darkness | 33.00% | ~4,441 |
+| End of Book One | 31.00% | ~4,172 |
 | Garden of Eden | 25.00% | ~3,364 |
-| Wannabe knight | 24.00% | ~3,229 |
-| Full house | 24.00% | ~3,229 |
-| Help an old friend | 22.00% | ~2,960 |
-| Two of us | 20.00% | ~2,691 |
+| Wannabe knight | 24.00% | ~3,230 |
+| Full house | 24.00% | ~3,230 |
+| Help an old friend | 22.00% | ~2,961 |
+| Two of us | 20.00% | ~2,692 |
 | Negotiation skills | 19.00% | ~2,557 |
 | Workers' union | 19.00% | ~2,557 |
 | End of Book Two | 18.00% | ~2,422 |
 | Everything's in order | 17.00% | ~2,288 |
-| Jack was here! | 15.00% | ~2,018 |
+| Jack was here! | 15.00% | ~2,019 |
 | Twist of Fate | 14.00% | ~1,884 |
 | Exterminator | 14.00% | ~1,884 |
-| Whodunnit | 13.00% | ~1,749 |
+| Whodunnit | 13.00% | ~1,750 |
 | Good midwife | 11.00% | ~1,480 |
 | Friar Tuck | 11.00% | ~1,480 |
 | First profit | 11.00% | ~1,480 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,211 |
 | The truth revealed | 9.00% | ~1,211 |
 | The End. | 9.00% | ~1,211 |
-| A cry for help | 8.00% | ~1,076 |
+| A cry for help | 8.00% | ~1,077 |
 | Silentium est aureum | 7.00% | ~942 |
 | Rebel without a cause | 6.00% | ~807 |
 | Staring contest champion | 5.00% | ~673 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~404 |
 | Boy of mystery | 2.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,456 (Ranked 108)  
+Progressed: 13,458 (Ranked 108)  
 Completed: 103 (0.77%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 103 (0.77%) (Ranked 106)
 | 2023-06-21 | 13,419 | 101 |
 | 2023-06-22 | 13,432 | 102 |
 | 2023-06-23 | 13,456 | 103 |
+| 2023-06-24 | 13,458 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 291)  
 Sum: 188 (Ranked 363)  

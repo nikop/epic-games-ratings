@@ -3,8 +3,8 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 894,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 133,
@@ -3663,9 +3663,9 @@
       "ID": "fourleafclover",
       "SetID": "3nl4bcg",
       "Name": "Four Leaf Clover",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 118
     },
     {
       "ID": "frostfireliberator",
@@ -4080,8 +4080,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:10:53.2618612+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:28:28.1943521+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:02:17.8888613+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:53.2619553+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:19:49.1225017+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:28:28.1944534+00:00"
 }

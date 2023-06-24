@@ -3,11 +3,11 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,7 +196,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10149,
+  "EOS_Progressed": 10150,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1051,6 +1051,11 @@
       "Time": "2023-06-22T12:10:06.0581797+00:00",
       "NumProgressed": 10149,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-24T02:28:12.8571003+00:00",
+      "NumProgressed": 10150,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1070,7 +1075,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1118,7 +1123,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1134,7 +1139,7 @@
       "Name": "eurobeat",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_COLLECTIBLES_NORWAY",
@@ -1158,7 +1163,7 @@
       "Name": "master of rally",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_COMPLETE_GROUP2",
@@ -1190,7 +1195,7 @@
       "Name": "antilag",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_COMPLETE_GROUPB",
@@ -1222,7 +1227,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7815
+      "UsersEstimate": 7816
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1230,7 +1235,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_DAILY",
@@ -1238,7 +1243,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -1270,7 +1275,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5683
+      "UsersEstimate": 5684
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1278,7 +1283,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -1286,7 +1291,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9743
+      "UsersEstimate": 9744
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1310,7 +1315,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1318,7 +1323,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_RAIN",
@@ -1326,7 +1331,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_ROLL",
@@ -1334,7 +1339,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1358,7 +1363,7 @@
       "Name": "mittens",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -1398,22 +1403,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7307
+      "UsersEstimate": 7308
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10149,
+      "Progressed": 10150,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:10:38.5906973+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:28:12.8570998+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:51.7788575+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:01:38.4443157+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:38.5907311+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:19:06.8941706+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:28:12.8571371+00:00"
 }

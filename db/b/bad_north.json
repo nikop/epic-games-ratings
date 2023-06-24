@@ -3,11 +3,11 @@
   "Name": "Bad North",
   "ProductSlug": "bad-north",
   "Ranking_Rating": 239,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-16T11:00:00+00:00",
@@ -620,6 +620,6 @@
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
   "LastChanged": "2023-05-23T08:59:57.4841727+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:15.6932208+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:04:30.7208195+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:08:03.3570822+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:22:14.6788604+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:25:23.419567+00:00"
 }

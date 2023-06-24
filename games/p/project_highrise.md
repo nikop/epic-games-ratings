@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~130 |
-| Starting Skyward | 52.00% | ~117 |
-| Grime is Not Good | 45.00% | ~101 |
+| In the Black | 58.00% | ~131 |
+| Starting Skyward | 51.00% | ~115 |
+| Grime is Not Good | 45.00% | ~102 |
 | Campaign Launch | 39.00% | ~88 |
 | Floor Galore | 38.00% | ~86 |
-| Dinner Dash | 37.00% | ~83 |
-| Need a Consult | 34.00% | ~76 |
-| It's Technical | 34.00% | ~76 |
-| Delegate Maintenance | 33.00% | ~74 |
+| Dinner Dash | 37.00% | ~84 |
+| Need a Consult | 34.00% | ~77 |
+| It's Technical | 34.00% | ~77 |
+| Delegate Maintenance | 33.00% | ~75 |
 | Upgrade Unlock | 32.00% | ~72 |
 | Proper Walls | 31.00% | ~70 |
 | Destination Destiny | 27.00% | ~61 |
@@ -25,17 +25,17 @@
 | Leveled Up Shops | 21.00% | ~47 |
 | Don't Feel a Loan | 20.00% | ~45 |
 | People Mover | 20.00% | ~45 |
-| Emporium Empire | 20.00% | ~45 |
-| Get Electrified | 20.00% | ~45 |
-| Artfully Done | 18.00% | ~40 |
-| Rehab Expert | 18.00% | ~40 |
-| Tasty Profits | 18.00% | ~40 |
-| We Don't Need No Education | 18.00% | ~40 |
-| Under One Roof | 16.00% | ~36 |
-| Established Fame | 16.00% | ~36 |
-| Cashflow Chief | 16.00% | ~36 |
+| Emporium Empire | 19.00% | ~43 |
+| Get Electrified | 19.00% | ~43 |
+| Artfully Done | 18.00% | ~41 |
+| Rehab Expert | 18.00% | ~41 |
+| Tasty Profits | 18.00% | ~41 |
+| We Don't Need No Education | 18.00% | ~41 |
+| Under One Roof | 15.00% | ~34 |
+| Established Fame | 15.00% | ~34 |
 | Starred Dining | 15.00% | ~34 |
 | Boutique Benefits | 15.00% | ~34 |
+| Cashflow Chief | 15.00% | ~34 |
 | Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 14.00% | ~32 |
 | Smooth Operator | 13.00% | ~29 |
@@ -72,13 +72,13 @@
 | Plebs Are Needed | 3.00% | ~7 |
 | Four of a Kind | 3.00% | ~7 |
 | In the Money | 3.00% | ~7 |
-| Curated Class | 2.00% | ~4 |
-| Glut of Gastronomy | 2.00% | ~4 |
-| Full House | 2.00% | ~4 |
-| Royal Flush | 2.00% | ~4 |
-| The King of Cool | 2.00% | ~4 |
-| It is Payday | 2.00% | ~4 |
-| Scenario Success | 2.00% | ~4 |
+| Curated Class | 2.00% | ~5 |
+| Glut of Gastronomy | 2.00% | ~5 |
+| Full House | 2.00% | ~5 |
+| Royal Flush | 2.00% | ~5 |
+| The King of Cool | 2.00% | ~5 |
+| It is Payday | 2.00% | ~5 |
+| Scenario Success | 2.00% | ~5 |
 | Double Down | 1.00% | ~2 |
 | Lofty Landlord | 1.00% | ~2 |
 | Artistic Largesse | 0.90% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 251)  
+Progressed: 226 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-19 | 223 | 0 |
 | 2023-06-22 | 224 | 0 |
 | 2023-06-23 | 225 | 0 |
+| 2023-06-24 | 226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

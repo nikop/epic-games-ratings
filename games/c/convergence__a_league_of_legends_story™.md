@@ -38,13 +38,13 @@
 | Theater Explorer | 7.00% | ~50 |
 | Good Neighbor | 7.00% | ~50 |
 | Factorywood Explorer | 6.00% | ~43 |
+| Fairgrounds Explorer | 6.00% | ~43 |
 | Syron for Hope | 6.00% | ~43 |
 | Ask Questions Later | 6.00% | ~43 |
 | Corin Goes Home | 5.00% | ~36 |
 | Sartorialist | 5.00% | ~36 |
 | Cultivair Explorer | 5.00% | ~36 |
 | Entresol Explorer | 5.00% | ~36 |
-| Fairgrounds Explorer | 5.00% | ~36 |
 | Golem Hunter | 4.00% | ~29 |
 | Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |

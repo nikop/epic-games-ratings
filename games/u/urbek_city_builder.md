@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Small town | 63.00% | ~164 |
 | I like parks | 49.00% | ~127 |
-| It is nice to share with friends in the city | 26.00% | ~68 |
+| It is nice to share with friends in the city | 27.00% | ~70 |
 | Sport is good for you | 25.00% | ~65 |
 | The spiritual world... | 23.00% | ~60 |
 | The woodcutter | 22.00% | ~57 |
-| I like books | 19.00% | ~49 |
+| I like books | 20.00% | ~52 |
 | I like my life | 18.00% | ~47 |
 | Soviet town | 18.00% | ~47 |
 | Clean energy | 17.00% | ~44 |
@@ -23,6 +23,7 @@
 | Metropolurbek | 5.00% | ~13 |
 | I am very happy! | 3.00% | ~8 |
 | Little Mayor | 3.00% | ~8 |
+| Rebel city | 3.00% | ~8 |
 | Sport is the best thing | 3.00% | ~8 |
 | Banking city | 2.00% | ~5 |
 | Food provider master | 2.00% | ~5 |
@@ -30,7 +31,6 @@
 | Read! Everyone should read! | 2.00% | ~5 |
 | What is there after death? | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
-| Rebel city | 2.00% | ~5 |
 | Temperate builder | 2.00% | ~5 |
 | Temperate urban planner | 2.00% | ~5 |
 | Anarchist Utopia | 1.00% | ~3 |

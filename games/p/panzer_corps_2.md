@@ -3,6 +3,13 @@
 [View Rawdata](../../db/p/panzer_corps_2.json)  
 Rating: 4.49 (Ranked 566)  
 Number of Ratings: 37  (23.09.2022)  
+## Awards
+Max (Highly Recommended): 20  (Ranked 494)  
+Sum: 20 (Ranked 494)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -45,3 +52,4 @@ Number of Ratings: 37  (23.09.2022)
 | 2023-06-08 | 4.51 | - | 0 | 0 |
 | 2023-06-12 | 4.50 | - | 0 | 0 |
 | 2023-06-19 | 4.49 | - | 0 | 0 |
+| 2023-06-24 | 4.49 | - | 20 | 20 |

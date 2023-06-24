@@ -3,8 +3,8 @@
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
   "Ranking_Rating": 346,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 121,
@@ -122,7 +122,7 @@
   "Tags": [],
   "EOS_Progressed": 4395,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2618,8 +2618,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-06-21T21:02:52.0033823+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:10:58.1937506+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:28:33.1819054+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:35.62088+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:04:46.9990658+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:58.1938151+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:22:33.1379716+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:28:33.1819757+00:00"
 }

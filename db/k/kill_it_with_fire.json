@@ -3,11 +3,11 @@
   "Name": "Kill It With Fire",
   "ProductSlug": "kill-it-with-fire",
   "Ranking_Rating": 548,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-08-13T16:00:00+00:00",
@@ -70,6 +70,6 @@
   "FirstSeenRating": "2022-12-03T21:57:39.7500458+00:00",
   "LastChanged": "2023-05-08T03:01:48.3827827+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.0907701+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:04:31.0517012+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:10:11.6262378+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:22:15.1015384+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:27:43.1198443+00:00"
 }

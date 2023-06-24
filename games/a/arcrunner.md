@@ -9,19 +9,19 @@
 | The City | 1.00% | ~6 |
 | Terminated I | 1.00% | ~6 |
 | Unlocked and Loaded | 1.00% | ~6 |
+| Cybernetic | 0.90% | ~5 |
 | Nanonic I | 0.90% | ~5 |
 | Terminated II | 0.90% | ~5 |
+| Terminated III | 0.90% | ~5 |
 | Challenge Mastered | 0.70% | ~4 |
 | Integration | 0.70% | ~4 |
-| Cybernetic | 0.50% | ~3 |
+| Supply Run | 0.70% | ~4 |
 | Inner Core | 0.50% | ~3 |
 | Nanonic II | 0.50% | ~3 |
+| Nanonic III | 0.50% | ~3 |
 | Outer Core | 0.50% | ~3 |
-| Supply Run | 0.50% | ~3 |
-| Nanonic III | 0.30% | ~2 |
+| The Bigger They Are | 0.30% | ~2 |
 | Rookie | 0.30% | ~2 |
-| Terminated III | 0.30% | ~2 |
-| The Bigger They Are | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
 | Up Close And Personal | 0.20% | ~1 |
 | Cyborg | 0.00% | ~0 |

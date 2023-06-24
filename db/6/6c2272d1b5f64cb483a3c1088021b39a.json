@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -1606,6 +1606,11 @@
       "Time": "2023-06-24T00:07:20.7966846+00:00",
       "NumProgressed": 611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T02:24:27.897623+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1785,7 +1790,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "elemental_stones_2",
@@ -1903,9 +1908,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "invincible_2",
@@ -2144,14 +2149,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:07:20.7966835+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:24:27.8976225+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:01:05.6818352+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:07:20.7967535+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:18:33.2151443+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:24:27.8976954+00:00"
 }

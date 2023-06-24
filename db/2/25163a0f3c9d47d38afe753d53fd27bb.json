@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 476,
+  "EOS_Progressed": 477,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 11.76,
+  "EOS_Completed_Percentage": 11.74,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1386,6 +1386,11 @@
       "Time": "2023-06-23T14:05:03.9767239+00:00",
       "NumProgressed": 476,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-24T02:26:31.60005+00:00",
+      "NumProgressed": 477,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 30,
@@ -1397,7 +1402,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "LEVEL_002",
@@ -1405,7 +1410,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "LEVEL_003",
@@ -1429,7 +1434,7 @@
       "Name": "Small village",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_006",
@@ -1437,7 +1442,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_007",
@@ -1445,7 +1450,7 @@
       "Name": "Animals in the farm",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEVEL_008",
@@ -1501,7 +1506,7 @@
       "Name": "Cross-country",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_015",
@@ -1533,7 +1538,7 @@
       "Name": "Isle rock city",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_019",
@@ -1636,14 +1641,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 476,
+      "Progressed": 477,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-24T00:09:07.0152763+00:00",
+  "LastChanged_Achievements": "2023-06-24T02:26:31.6000495+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.2112754+00:00",
-  "LastUpdate_Ratings": "2023-06-24T00:01:16.3369941+00:00",
-  "LastUpdate_Achievements": "2023-06-24T00:09:07.0153062+00:00"
+  "LastUpdate_Ratings": "2023-06-24T02:18:44.4630648+00:00",
+  "LastUpdate_Achievements": "2023-06-24T02:26:31.6000805+00:00"
 }
