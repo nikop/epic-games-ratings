@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 70,660 | 4.62 | 346 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,203 | 4.58 | 421 |
 | 11 | [VALORANT](games/v/valorant.md) | 57,871 | 4.53 | 503 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,045 | 4.60 | 389 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,169 | 4.60 | 389 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,138 | 4.50 | 548 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,429 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,954 | 4.52 | 518 |
@@ -44,7 +44,7 @@
 | 42 | [Supraland](games/s/supraland.md) | 7,628 | 4.61 | 365 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,540 | 4.89 | 13 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,496 | 4.57 | 441 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,335 | 4.47 | 592 |
+| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,335 | 4.47 | 593 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,265 | 4.71 | 180 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,201 | 4.68 | 239 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,705 | 4.75 | 133 |
@@ -79,7 +79,7 @@
 | 77 | [SMITE](games/s/smite.md) | 3,932 | 4.45 | 619 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,842 | 4.68 | 239 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,654 | 4.29 | 777 |
-| 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,479 | 4.47 | 592 |
+| 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,479 | 4.47 | 593 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,422 | 4.77 | 107 |
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,386 | 4.46 | 604 |
 | 83 | [Paladins](games/p/paladins.md) | 3,336 | 4.34 | 741 |
@@ -107,7 +107,7 @@
 | 105 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,139 | 4.37 | 719 |
 | 106 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,977 | 4.49 | 566 |
 | 107 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,885 | 4.65 | 298 |
-| 108 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,858 | 4.47 | 592 |
+| 108 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 1,858 | 4.48 | 582 |
 | 109 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,847 | 4.70 | 196 |
 | 110 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,833 | 4.90 | 8 |
 | 111 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,787 | 4.56 | 455 |
@@ -328,7 +328,7 @@
 | 326 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 101 | 4.80 | 81 |
 | 327 | [Just Die Already](games/j/just_die_already.md) | 100 | 4.52 | 518 |
 | 328 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 99 | 4.50 | 548 |
-| 328 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 592 |
+| 328 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 593 |
 | 330 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 98 | 4.77 | 107 |
 | 331 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 634 |
 | 331 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 97 | 4.37 | 719 |
@@ -495,6 +495,6 @@
 | 486 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 298 |
 | 494 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 328 |
 | 494 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 20 | 4.92 | 4 |
-| 494 | [Figment](games/f/figment.md) | 20 | 4.47 | 592 |
+| 494 | [Figment](games/f/figment.md) | 20 | 4.47 | 593 |
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 20 | 4.49 | 566 |
 | 494 | [Poker Club](games/p/poker_club.md) | 20 | 3.79 | 937 |

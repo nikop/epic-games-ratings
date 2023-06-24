@@ -393,7 +393,7 @@
 | 389 | [Control](games/c/control.md) | 4.60 | 8,363 | 39 |
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 215 | 256 |
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 358 |
-| 389 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,045 | 12 |
+| 389 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,169 | 12 |
 | 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,423 | 26 |
 | 389 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 499 |
 | 389 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 307 |
@@ -590,19 +590,19 @@
 | 582 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 499 |
 | 582 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 499 |
 | 582 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 499 |
+| 582 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 1,858 | 108 |
 | 582 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 499 |
-| 592 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 499 |
-| 592 | [Figment](games/f/figment.md) | 4.47 | 20 | 494 |
-| 592 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,479 | 80 |
-| 592 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 499 |
-| 592 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 499 |
-| 592 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 499 |
-| 592 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.47 | 1,858 | 108 |
-| 592 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 499 |
-| 592 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 328 |
-| 592 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,335 | 45 |
-| 592 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 499 |
-| 592 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 499 |
+| 593 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 499 |
+| 593 | [Figment](games/f/figment.md) | 4.47 | 20 | 494 |
+| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,479 | 80 |
+| 593 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 499 |
+| 593 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 499 |
+| 593 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 499 |
+| 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 499 |
+| 593 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 328 |
+| 593 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,335 | 45 |
+| 593 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 499 |
+| 593 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 499 |
 | 604 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 499 |
 | 604 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 499 |
 | 604 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 499 |

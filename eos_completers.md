@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 32.35% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 29.17% |
+| 1 | [Volley Pals](games/v/volley_pals.md) | 31.43% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.25% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -87,7 +87,7 @@
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.37% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.36% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
@@ -123,7 +123,7 @@
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 123 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.50% |
+| 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 127 | [Tails of Iron](games/t/tails_of_iron.md) | 0.47% |
