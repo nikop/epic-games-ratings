@@ -56,8 +56,8 @@ Rating: 4.89 (Ranked 13)
 | With our powers combined…and to the rhythm… | 2.00% | ~67 |
 | And the crowd goes wild! | 1.00% | ~33 |
 | I saw all those hits coming a measure away! | 0.90% | ~30 |
+| My Ultimate Setlist | 0.70% | ~23 |
 | This was... not what I expected. | 0.70% | ~23 |
-| My Ultimate Setlist | 0.60% | ~20 |
 | Have we met before? | 0.60% | ~20 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~20 |
 | I think that's enough health for now | 0.50% | ~17 |

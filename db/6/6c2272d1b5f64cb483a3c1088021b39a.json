@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1611,6 +1611,11 @@
       "Time": "2023-06-24T02:24:27.897623+00:00",
       "NumProgressed": 612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T06:03:08.1726144+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1718,7 +1723,7 @@
       "Name": "Collector 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "collector_2",
@@ -1862,7 +1867,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2006,7 +2011,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "punctual_2",
@@ -2054,7 +2059,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "soul_shards_2",
@@ -2149,14 +2154,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-24T05:03:06.3040629+00:00",
+  "LastChanged_Achievements": "2023-06-24T06:03:08.1726135+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-24T04:57:00.7766121+00:00",
-  "LastUpdate_Achievements": "2023-06-24T05:03:06.3041492+00:00"
+  "LastUpdate_Ratings": "2023-06-24T05:57:04.4365993+00:00",
+  "LastUpdate_Achievements": "2023-06-24T06:03:08.1726756+00:00"
 }

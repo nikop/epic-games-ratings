@@ -16,8 +16,8 @@ Rating: 4.56 (Ranked 456)
 | I think it's broke | 25.00% | ~160 |
 | Club Star | 24.00% | ~154 |
 | Fire in the hole! | 20.00% | ~128 |
+| The Warlord | 20.00% | ~128 |
 | Omnipotence | 19.00% | ~122 |
-| The Warlord | 19.00% | ~122 |
 | You are the One | 19.00% | ~122 |
 | Deadly Kombationem | 18.00% | ~115 |
 | The truth is out there | 15.00% | ~96 |

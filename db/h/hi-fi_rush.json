@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 3329,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4040,9 +4040,9 @@
       "ID": "Ach041",
       "SetID": "12n4k20",
       "Name": "My Ultimate Setlist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach042",
@@ -4223,8 +4223,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-24T05:05:59.4127786+00:00",
+  "LastChanged_Achievements": "2023-06-24T06:07:06.3987506+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:24.1348277+00:00",
-  "LastUpdate_Ratings": "2023-06-24T04:58:27.1739551+00:00",
-  "LastUpdate_Achievements": "2023-06-24T05:05:59.4128642+00:00"
+  "LastUpdate_Ratings": "2023-06-24T05:59:11.3237376+00:00",
+  "LastUpdate_Achievements": "2023-06-24T06:07:06.3988103+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,419 |
-| That's a Grand Army | 8.00% | ~4,817 |
-| That is mine! | 8.00% | ~4,817 |
-| Victorious! | 8.00% | ~4,817 |
+| Until death do us apart | 9.00% | ~5,420 |
+| That's a Grand Army | 8.00% | ~4,818 |
+| That is mine! | 8.00% | ~4,818 |
+| Victorious! | 8.00% | ~4,818 |
 | Brothers in Arms | 6.00% | ~3,613 |
 | That's a Grand Navy | 6.00% | ~3,613 |
 | Seriously?! | 6.00% | ~3,613 |
 | For the Glory | 5.00% | ~3,011 |
-| Cold War | 4.00% | ~2,408 |
-| True Catholic | 4.00% | ~2,408 |
-| Defender of the Faith | 3.00% | ~1,806 |
-| It's all about the money | 3.00% | ~1,806 |
-| Respected | 3.00% | ~1,806 |
-| Truly Divine Ruler | 3.00% | ~1,806 |
+| Cold War | 4.00% | ~2,409 |
+| True Catholic | 4.00% | ~2,409 |
+| Defender of the Faith | 3.00% | ~1,807 |
+| It's all about the money | 3.00% | ~1,807 |
+| Respected | 3.00% | ~1,807 |
+| Truly Divine Ruler | 3.00% | ~1,807 |
 | Agressive Expander | 2.00% | ~1,204 |
 | Blockader | 2.00% | ~1,204 |
 | Combined Arms | 2.00% | ~1,204 |
@@ -44,7 +44,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~542 |
 | Down Under | 0.80% | ~482 |
 | Trustworthy | 0.80% | ~482 |
-| Electable! | 0.70% | ~421 |
+| Electable! | 0.70% | ~422 |
 | All belongs to Mother Russia | 0.60% | ~361 |
 | At every continent | 0.60% | ~361 |
 | Early-Modern Warfare | 0.60% | ~361 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,211 (Ranked 77)  
+Progressed: 60,221 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 59,083 | 0 |
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
-| 2023-06-24 | 60,211 | 0 |
+| 2023-06-24 | 60,221 | 0 |
 ## Awards
 Max (Educational): 5,442  (Ranked 61)  
 Sum: 44,974 (Ranked 27)  

@@ -5,23 +5,23 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,391 |
-| World Map | 80.00% | ~1,184 |
+| Victor | 94.00% | ~1,392 |
+| World Map | 80.00% | ~1,185 |
 | Temple of Eternals | 57.00% | ~844 |
-| Prestigious | 54.00% | ~799 |
+| Prestigious | 54.00% | ~800 |
 | Fellowship Power | 41.00% | ~607 |
 | Guild Power | 24.00% | ~355 |
 | Prestigious x10 | 21.00% | ~311 |
 | The game is on | 19.00% | ~281 |
 | Exotic Merchant | 17.00% | ~252 |
 | Dragon Clicker | 16.00% | ~237 |
+| Inspection | 16.00% | ~237 |
 | Full Party | 15.00% | ~222 |
-| Inspection | 15.00% | ~222 |
 | Miner Clicker | 15.00% | ~222 |
-| Dragon Master | 13.00% | ~192 |
-| Enlightenment | 13.00% | ~192 |
-| Hero inspection | 13.00% | ~192 |
-| Lieutenant | 13.00% | ~192 |
+| Dragon Master | 13.00% | ~193 |
+| Enlightenment | 13.00% | ~193 |
+| Hero inspection | 13.00% | ~193 |
+| Lieutenant | 13.00% | ~193 |
 | Mysterious Rock | 12.00% | ~178 |
 | Natural Talent | 12.00% | ~178 |
 | Superior | 12.00% | ~178 |
@@ -34,11 +34,11 @@ Rating: 4.07 (Ranked 894)
 | The power of Awakening | 9.00% | ~133 |
 | Daily Quest Completionist | 8.00% | ~118 |
 | Doing My Part | 8.00% | ~118 |
-| Four Leaf Clover | 8.00% | ~118 |
 | Frostfire Liberator | 8.00% | ~118 |
 | Mastery | 8.00% | ~118 |
 | Moving Up The Ladder | 8.00% | ~118 |
 | Relic Of The Past | 8.00% | ~118 |
+| Four Leaf Clover | 7.00% | ~104 |
 | Here We Go Again | 6.00% | ~89 |
 | Master Enchanter | 6.00% | ~89 |
 | The father of Dragons | 6.00% | ~89 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,480 (Ranked 166)  
+Progressed: 1,481 (Ranked 166)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-21 | 1,458 | 1 |
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
+| 2023-06-24 | 1,481 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

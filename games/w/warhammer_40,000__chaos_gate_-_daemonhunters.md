@@ -29,10 +29,10 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 4.00% | ~117 |
 | Mind Like a Fortress | 4.00% | ~117 |
 | Long Distance Call | 4.00% | ~117 |
-| Corruption Cleanser | 3.00% | ~87 |
-| Harvest No More | 3.00% | ~87 |
-| Junk Banishment | 3.00% | ~87 |
-| Tactical Flexibility | 3.00% | ~87 |
+| Corruption Cleanser | 3.00% | ~88 |
+| Harvest No More | 3.00% | ~88 |
+| Junk Banishment | 3.00% | ~88 |
+| Tactical Flexibility | 3.00% | ~88 |
 | Patron of Deimos | 2.00% | ~58 |
 | Exterminator | 2.00% | ~58 |
 | Hands-On Research | 2.00% | ~58 |
@@ -46,7 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 1.00% | ~29 |
 | Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
-| True Mastery | 0.60% | ~17 |
+| True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |
 | Warp Flickers | 0.50% | ~15 |
 | Strategic Command | 0.40% | ~12 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,916 (Ranked 148)  
+Progressed: 2,917 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 2,913 | 0 |
 | 2023-06-22 | 2,914 | 0 |
 | 2023-06-23 | 2,916 | 0 |
+| 2023-06-24 | 2,917 | 0 |
 ## Awards
 Max (Character Customization): 211  (Ranked 260)  
 Sum: 425 (Ranked 303)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -564,9 +564,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2916,
+  "EOS_Progressed": 2917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1944,6 +1944,11 @@
       "Time": "2023-06-23T14:06:57.9213028+00:00",
       "NumProgressed": 2916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T06:07:07.3184509+00:00",
+      "NumProgressed": 2917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2139,7 +2144,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Kills_Executioner",
@@ -2363,7 +2368,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -2371,7 +2376,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -2403,7 +2408,7 @@
       "Name": "True Mastery",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "StrategicCommand",
@@ -2419,28 +2424,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2916,
+      "Progressed": 2917,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2916,
+      "Progressed": 2917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-21T11:59:40.9544933+00:00",
-  "LastChanged_Achievements": "2023-06-24T05:06:00.2414489+00:00",
+  "LastChanged_Achievements": "2023-06-24T06:07:07.3184504+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:32.207379+00:00",
-  "LastUpdate_Ratings": "2023-06-24T04:58:32.7927806+00:00",
-  "LastUpdate_Achievements": "2023-06-24T05:06:00.2415136+00:00"
+  "LastUpdate_Ratings": "2023-06-24T05:59:21.0603604+00:00",
+  "LastUpdate_Achievements": "2023-06-24T06:07:07.3185049+00:00"
 }

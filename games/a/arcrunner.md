@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589 (Ranked 205)  
+Progressed: 590 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 569 | 0 |
 | 2023-06-22 | 580 | 0 |
 | 2023-06-23 | 587 | 0 |
-| 2023-06-24 | 589 | 0 |
+| 2023-06-24 | 590 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
