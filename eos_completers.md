@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 30.56% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.36% |
+| 1 | [Volley Pals](games/v/volley_pals.md) | 33.33% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 29.82% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -9,19 +9,19 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.10% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.83% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 13 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
-| 13 | [Remains](games/r/remains.md) | 12.50% |
-| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 12.50% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.46% |
+| 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
+| 14 | [Remains](games/r/remains.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
 | 19 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.99% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -38,8 +38,8 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.87% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
-| 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.17% |
-| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
+| 40 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 43 | [Doodle God](games/d/doodle_god.md) | 3.72% |
@@ -71,8 +71,8 @@
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.25% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.04% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -108,8 +108,8 @@
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
-| 109 | [Haven](games/h/haven.md) | 0.70% |
-| 110 | [Them and Us](games/t/them_and_us.md) | 0.69% |
+| 109 | [Haven](games/h/haven.md) | 0.69% |
+| 109 | [Them and Us](games/t/them_and_us.md) | 0.69% |
 | 111 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 111 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
 | 113 | [Train Valley](games/t/train_valley.md) | 0.66% |
