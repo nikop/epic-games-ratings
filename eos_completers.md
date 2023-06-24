@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 33.33% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.76% |
+| 1 | [Volley Pals](games/v/volley_pals.md) | 32.43% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.20% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.20% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.50% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.46% |
 | 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.05% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.87% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
@@ -88,7 +88,7 @@
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.34% |
-| 89 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.29% |
+| 89 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.28% |
 | 90 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
@@ -102,7 +102,7 @@
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 105 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -119,8 +119,8 @@
 | 117 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 118 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.57% |
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
-| 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.56% |
-| 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 120 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
