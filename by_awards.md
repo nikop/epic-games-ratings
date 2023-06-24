@@ -15,7 +15,7 @@
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,138 | 4.50 | 548 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,429 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 28,954 | 4.52 | 518 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,582 | 4.65 | 296 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,587 | 4.65 | 296 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,298 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,280 | 4.53 | 503 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,746 | 4.57 | 441 |
@@ -47,7 +47,7 @@
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,335 | 4.47 | 592 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,265 | 4.71 | 180 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,201 | 4.68 | 239 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,700 | 4.75 | 133 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,705 | 4.75 | 133 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 659 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,528 | 4.71 | 180 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,321 | 4.80 | 81 |
@@ -219,8 +219,8 @@
 | 217 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 350 | 4.32 | 756 |
 | 217 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 350 | 4.85 | 41 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 347 | 4.71 | 180 |
-| 220 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 342 | 4.76 | 119 |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 340 | 3.93 | 920 |
+| 220 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 343 | 3.93 | 920 |
+| 221 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 342 | 4.76 | 119 |
 | 222 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
 | 223 | [Dungeons 3](games/d/dungeons_3.md) | 327 | 4.66 | 272 |
 | 224 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 701 |

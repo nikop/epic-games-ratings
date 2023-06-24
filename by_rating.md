@@ -131,14 +131,14 @@
 | 119 | [Star Atlas](games/s/star_atlas.md) | 4.76 | 0 | 499 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 499 |
 | 119 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 43 | 411 |
-| 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 342 | 220 |
+| 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 342 | 221 |
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 473 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,297 | 62 |
 | 133 | [Diabotical](games/d/diabotical.md) | 4.75 | 270 | 240 |
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 877 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 500 | 189 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 108 | 317 |
-| 133 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,700 | 48 |
+| 133 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 6,705 | 48 |
 | 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 498 | 190 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 499 |
 | 133 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 414 |
@@ -309,7 +309,7 @@
 | 296 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,885 | 107 |
 | 296 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 390 |
 | 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 499 |
-| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,582 | 16 |
+| 296 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,587 | 16 |
 | 296 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 499 |
 | 296 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 486 |
 | 313 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 499 |
@@ -921,7 +921,7 @@
 | 919 | [Patron](games/p/patron.md) | 3.94 | 0 | 499 |
 | 920 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 22 | 479 |
 | 920 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 499 |
-| 920 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 340 | 221 |
+| 920 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 343 | 220 |
 | 920 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 499 |
 | 924 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 456 |
 | 925 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 324 |

@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Volley Pals](games/v/volley_pals.md) | 32.35% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.43% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 29.79% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 18.56% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 18.37% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.13% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -20,8 +20,8 @@
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.05% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
+| 22 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 23 | [Smelter](games/s/smelter.md) | 8.33% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.00% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -36,7 +36,7 @@
 | 34 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.41% |
 | 35 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.31% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.06% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.89% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.88% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.35% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
@@ -46,7 +46,7 @@
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.66% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [JARS](games/j/jars.md) | 3.57% |
-| 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.43% |
+| 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.17% |
@@ -87,7 +87,7 @@
 | 85 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.47% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
-| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.40% |
+| 88 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.39% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
