@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.31% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 17.14% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.13% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -53,8 +53,8 @@
 | 51 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
-| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.04% |
-| 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
+| 54 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 3.03% |
+| 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
