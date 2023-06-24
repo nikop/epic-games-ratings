@@ -11,7 +11,7 @@ Number of Ratings: 118  (23.09.2022)
 | Sock! SOCK! | 70.00% | ~132 |
 | Fireproof Wizardess | 57.00% | ~107 |
 | Livin' in a dwarven paradise | 56.00% | ~105 |
-| Déjà vu | 51.00% | ~96 |
+| Déjà vu | 52.00% | ~98 |
 | GG EZ | 49.00% | ~92 |
 | Way of the Wimp | 47.00% | ~88 |
 | DM intervention | 47.00% | ~88 |

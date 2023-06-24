@@ -21,19 +21,20 @@
 | Pacifist | 9.00% | ~4 |
 | Collateral Damage I | 9.00% | ~4 |
 | Galactic Cadet | 6.00% | ~3 |
+| Sectoral Ensign | 4.00% | ~2 |
+| Rambo II | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | Defrosted | 4.00% | ~2 |
 | 25Gb HDD | 4.00% | ~2 |
+| Silver Prince of Ball-air | 4.00% | ~2 |
 | Bronze Foundation | 2.00% | ~1 |
 | System Ensign | 2.00% | ~1 |
-| Sectoral Ensign | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
 | Bronze Pest Control | 2.00% | ~1 |
 | Cartridge Hoarder | 2.00% | ~1 |
 | Rambo III | 2.00% | ~1 |
 | Rambo IV | 2.00% | ~1 |
 | Curious | 2.00% | ~1 |
-| Rambo II | 2.00% | ~1 |
 | Hitchhiker | 2.00% | ~1 |
 | Pilgrim | 2.00% | ~1 |
 | Diligent | 2.00% | ~1 |
@@ -51,7 +52,6 @@
 | Flower Power | 2.00% | ~1 |
 | 50Gb HDD | 2.00% | ~1 |
 | Galactic Lieutenant | 2.00% | ~1 |
-| Silver Prince of Ball-air | 2.00% | ~1 |
 | Silver Foundation | 2.00% | ~1 |
 | Sectoral Captain | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |

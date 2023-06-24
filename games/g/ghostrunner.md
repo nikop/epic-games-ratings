@@ -6,43 +6,43 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 77.00% | ~8,071 |
-| Sword Runner | 63.00% | ~6,604 |
-| Wallrunner | 56.00% | ~5,870 |
-| Running out of breath | 55.00% | ~5,765 |
-| Homerunner | 46.00% | ~4,822 |
-| Out of order | 46.00% | ~4,822 |
-| I call it luck | 45.00% | ~4,717 |
-| Where are my Keys? | 42.00% | ~4,402 |
-| Back to hell | 38.00% | ~3,983 |
-| Perfection | 33.00% | ~3,459 |
-| Why not both | 31.00% | ~3,249 |
-| Sword to a gunfight | 30.00% | ~3,145 |
-| Upgrades not mandatory | 30.00% | ~3,145 |
-| Artificial selection | 29.00% | ~3,040 |
-| Control freak | 29.00% | ~3,040 |
-| Running Wild | 28.00% | ~2,935 |
-| Finish line | 27.00% | ~2,830 |
-| Unstoppable force | 24.00% | ~2,516 |
-| Wave of mutilation | 23.00% | ~2,411 |
-| Can't Run Can't Hide | 18.00% | ~1,887 |
-| R is for Running | 17.00% | ~1,782 |
-| Dead in the air | 15.00% | ~1,572 |
-| Improvise, adapt, overrun | 14.00% | ~1,467 |
-| Pre-empative strike | 14.00% | ~1,467 |
-| Strike | 13.00% | ~1,363 |
-| More than human | 12.00% | ~1,258 |
-| Triple A | 10.00% | ~1,048 |
-| Fine addition | 7.00% | ~734 |
-| One Of Those Days | 7.00% | ~734 |
-| Push it to the limit | 5.00% | ~524 |
-| Where He Stood | 5.00% | ~524 |
-| About Adam | 4.00% | ~419 |
-| Scrapped | 4.00% | ~419 |
-| Strafing Run | 4.00% | ~419 |
-| Junkrunner | 3.00% | ~314 |
-| Just A Man | 3.00% | ~314 |
-| One man's trash | 3.00% | ~314 |
+| Longrunner | 77.00% | ~8,081 |
+| Sword Runner | 63.00% | ~6,612 |
+| Wallrunner | 56.00% | ~5,877 |
+| Running out of breath | 55.00% | ~5,772 |
+| Homerunner | 46.00% | ~4,828 |
+| Out of order | 46.00% | ~4,828 |
+| I call it luck | 45.00% | ~4,723 |
+| Where are my Keys? | 42.00% | ~4,408 |
+| Back to hell | 38.00% | ~3,988 |
+| Perfection | 33.00% | ~3,463 |
+| Why not both | 31.00% | ~3,253 |
+| Sword to a gunfight | 30.00% | ~3,148 |
+| Upgrades not mandatory | 30.00% | ~3,148 |
+| Artificial selection | 29.00% | ~3,044 |
+| Control freak | 29.00% | ~3,044 |
+| Running Wild | 28.00% | ~2,939 |
+| Finish line | 27.00% | ~2,834 |
+| Unstoppable force | 24.00% | ~2,519 |
+| Wave of mutilation | 23.00% | ~2,414 |
+| Can't Run Can't Hide | 18.00% | ~1,889 |
+| R is for Running | 17.00% | ~1,784 |
+| Dead in the air | 15.00% | ~1,574 |
+| Improvise, adapt, overrun | 14.00% | ~1,469 |
+| Pre-empative strike | 14.00% | ~1,469 |
+| Strike | 13.00% | ~1,364 |
+| More than human | 12.00% | ~1,259 |
+| Triple A | 10.00% | ~1,050 |
+| Fine addition | 7.00% | ~735 |
+| One Of Those Days | 7.00% | ~735 |
+| Push it to the limit | 5.00% | ~525 |
+| Where He Stood | 5.00% | ~525 |
+| About Adam | 4.00% | ~420 |
+| Scrapped | 4.00% | ~420 |
+| Strafing Run | 4.00% | ~420 |
+| Junkrunner | 3.00% | ~315 |
+| Just A Man | 3.00% | ~315 |
+| One man's trash | 3.00% | ~315 |
 | Hit me if you can | 2.00% | ~210 |
 | Obedient Machine | 0.80% | ~84 |
 | Everyone Needs A Hobby | 0.70% | ~73 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~42 |
 | Up Close And Personal | 0.40% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,482 (Ranked 113)  
+Progressed: 10,495 (Ranked 113)  
 Completed: 48 (0.46%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 48 (0.46%) (Ranked 128)
 | 2023-06-21 | 10,197 | 47 |
 | 2023-06-22 | 10,328 | 48 |
 | 2023-06-23 | 10,441 | 48 |
-| 2023-06-24 | 10,482 | 48 |
+| 2023-06-24 | 10,495 | 48 |
 ## Awards
 Max (Great Boss Battles): 468  (Ranked 194)  
-Sum: 604 (Ranked 286)  
+Sum: 605 (Ranked 286)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): -92
 | This game has a Creative Community | 22 |
 | This game has Challenging Combat | 22 |
 | This game is Relaxing | 21 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 21 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -247,4 +247,4 @@ Diff (max vs sum): -92
 | 2023-06-09 | 4.72 | - | 467 | 624 |
 | 2023-06-13 | 4.72 | - | 468 | 625 |
 | 2023-06-14 | 4.72 | - | 468 | 626 |
-| 2023-06-24 | 4.72 | - | 468 | 604 |
+| 2023-06-24 | 4.72 | - | 468 | 605 |
