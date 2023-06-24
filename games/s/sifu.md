@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~967 |
+| Diligence as a goal | 5.00% | ~968 |
 | Project Arena | 4.00% | ~774 |
 | The Old Grandmaster | 2.00% | ~14,201 |
 | Life is your teacher | 2.00% | ~14,201 |
@@ -26,8 +26,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 1.00% | ~7,100 |
 | Rumble in the Hangar | 1.00% | ~7,100 |
 | Take damage to save time | 1.00% | ~7,100 |
-| Bloody Sport | 1.00% | ~193 |
-| The best strikes are the ones we avoid | 1.00% | ~193 |
+| Bloody Sport | 1.00% | ~194 |
+| The best strikes are the ones we avoid | 1.00% | ~194 |
 | Scareless | 0.90% | ~6,390 |
 | Kung-Fu Tussle | 0.90% | ~6,390 |
 | Dance of the Praying Mantis | 0.80% | ~5,680 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,047 (Ranked 17)  
+Progressed: 710,050 (Ranked 17)  
 Completed: 12,788 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,17 +122,17 @@ Completed: 12,788 (1.80%) (Ranked 78)
 | 2023-06-21 | 709,919 | 12,779 |
 | 2023-06-22 | 709,970 | 12,781 |
 | 2023-06-23 | 710,016 | 12,783 |
-| 2023-06-24 | 710,047 | 12,788 |
+| 2023-06-24 | 710,050 | 12,788 |
 ## Awards
 Max (Great Boss Battles): 6,202  (Ranked 52)  
-Sum: 10,613 (Ranked 78)  
+Sum: 10,614 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,202 |
 | This game has Diverse Characters | 536 |
 | This game has Challenging Combat | 525 |
-| This game has Quickly Understood Controls | 516 |
+| This game has Quickly Understood Controls | 517 |
 | This game is Extremely Fun | 512 |
 | This game has Amazing Storytelling | 507 |
 | This game is Highly Recommended | 495 |
@@ -302,4 +302,4 @@ Diff (max vs sum): -26
 | 2023-06-21 | 4.82 | - | 6,197 | 10,597 |
 | 2023-06-22 | 4.82 | - | 6,197 | 10,601 |
 | 2023-06-23 | 4.82 | - | 6,202 | 10,611 |
-| 2023-06-24 | 4.82 | - | 6,202 | 10,613 |
+| 2023-06-24 | 4.82 | - | 6,202 | 10,614 |

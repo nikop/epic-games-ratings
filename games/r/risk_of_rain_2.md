@@ -1,7 +1,7 @@
 # Risk of Rain 2
 [Store](https://store.epicgames.com/en-US/p/risk-of-rain-2)  
 [View Rawdata](../../db/r/risk_of_rain_2.json)  
-Rating: 4.84 (Ranked 51)  
+Rating: 4.85 (Ranked 41)  
 Number of Ratings: 1,310  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 233  (Ranked 251)  
@@ -152,3 +152,4 @@ Diff (max vs sum): 72
 | 2023-06-19 | 4.85 | - | 232 | 2,292 |
 | 2023-06-21 | 4.84 | - | 232 | 2,293 |
 | 2023-06-22 | 4.84 | - | 233 | 2,296 |
+| 2023-06-24 | 4.85 | - | 233 | 2,296 |

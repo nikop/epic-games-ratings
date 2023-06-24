@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1554,7 +1554,7 @@
   ],
   "EOS_Progressed": 78755,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -5185,9 +5185,9 @@
       "ID": "043_TROPHY_UNLOCKED_TYRANT",
       "SetID": "4ajkb4b",
       "Name": "Path of the Tyrant",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 26777
+      "UsersEstimate": 27564
     },
     {
       "ID": "044_TROPHY_UNLOCKED_SAGE",
@@ -5217,8 +5217,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-23T10:00:00.1493132+00:00",
-  "LastChanged_Achievements": "2023-06-24T12:05:07.3846269+00:00",
+  "LastChanged_Achievements": "2023-06-24T13:18:15.5205071+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:54.3534627+00:00",
-  "LastUpdate_Ratings": "2023-06-24T12:01:09.7854661+00:00",
-  "LastUpdate_Achievements": "2023-06-24T12:05:07.3847352+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:14:17.5567267+00:00",
+  "LastUpdate_Achievements": "2023-06-24T13:18:15.5205642+00:00"
 }

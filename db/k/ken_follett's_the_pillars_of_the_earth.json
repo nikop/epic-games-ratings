@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13462,
+  "EOS_Progressed": 13463,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 3,
@@ -4779,6 +4779,11 @@
       "Time": "2023-06-24T10:05:33.2661598+00:00",
       "NumProgressed": 13462,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-24T13:20:45.6086975+00:00",
+      "NumProgressed": 13463,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -4894,7 +4899,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "tpote_achievement_22",
@@ -4902,7 +4907,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "tpote_achievement_23",
@@ -4926,7 +4931,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "tpote_achievement_26",
@@ -4966,7 +4971,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "tpote_achievement_30",
@@ -5014,7 +5019,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "tpote_achievement_36",
@@ -5038,7 +5043,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "tpote_achievement_39",
@@ -5054,7 +5059,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5519
+      "UsersEstimate": 5520
     },
     {
       "ID": "tpote_achievement_40",
@@ -5117,15 +5122,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13462,
+      "Progressed": 13463,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-24T12:07:35.1939805+00:00",
+  "LastChanged_Achievements": "2023-06-24T13:20:45.608697+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-24T12:01:26.6840808+00:00",
-  "LastUpdate_Achievements": "2023-06-24T12:07:35.194093+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:14:32.3884087+00:00",
+  "LastUpdate_Achievements": "2023-06-24T13:20:45.6087626+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1188,6 +1188,11 @@
       "Time": "2023-06-24T12:03:08.7486117+00:00",
       "NumProgressed": 595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T13:16:35.356562+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1213,9 +1218,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1325,9 +1330,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1349,17 +1354,17 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -1381,9 +1386,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1405,9 +1410,9 @@
       "ID": "ACHV_UPCLOSEANDPERSONAL",
       "SetID": "cceobco",
       "Name": "Up Close And Personal",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_WEAPONSMITH",
@@ -1430,13 +1435,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 598,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 21,
+      "Progressed": 24,
       "Completed": 3
     }
   ],
@@ -1444,8 +1449,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-24T12:03:08.7486111+00:00",
+  "LastChanged_Achievements": "2023-06-24T13:16:35.3565614+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-24T12:00:56.9127819+00:00",
-  "LastUpdate_Achievements": "2023-06-24T12:03:08.7486536+00:00"
+  "LastUpdate_Ratings": "2023-06-24T13:14:04.0120195+00:00",
+  "LastUpdate_Achievements": "2023-06-24T13:16:35.356609+00:00"
 }

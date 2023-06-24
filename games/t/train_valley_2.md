@@ -61,10 +61,10 @@ Number of Ratings: 87  (23.09.2022)
 | Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
 | Information Age | 0.80% | ~1 |
+| Vostok | 0.80% | ~1 |
 | Metro builder | 0.70% | ~5 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
-| Vostok | 0.70% | ~1 |
 | Astrochemist | 0.50% | ~0 |
 | BBQ | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |

@@ -9,8 +9,8 @@ Rating: 3.86 (Ranked 927)
 | Electrician | 34.00% | ~446 |
 | Fear my botany powers, Mars | 33.00% | ~433 |
 | Bob The Builder | 30.00% | ~394 |
-| Zero Waste | 29.00% | ~380 |
-| I am the greatest botanist on this planet. | 29.00% | ~380 |
+| Zero Waste | 29.00% | ~381 |
+| I am the greatest botanist on this planet. | 29.00% | ~381 |
 | Gardener | 25.00% | ~328 |
 | Miner | 25.00% | ~328 |
 | Occupy Mars! | 22.00% | ~289 |
@@ -21,16 +21,16 @@ Rating: 3.86 (Ranked 927)
 | All Wheel Trouble | 7.00% | ~92 |
 | Space Forest | 7.00% | ~92 |
 | ITS crash site | 5.00% | ~66 |
-| “Aliens” | 4.00% | ~52 |
-| DeDust | 4.00% | ~52 |
+| “Aliens” | 4.00% | ~53 |
+| DeDust | 4.00% | ~53 |
 | Plumber | 3.00% | ~39 |
 | Hard Landing | 2.00% | ~26 |
 | To infinity and beyond! | 2.00% | ~26 |
 | Driver's License | 1.00% | ~13 |
 | Explosive Miner | 1.00% | ~13 |
-| Caveman | 0.80% | ~10 |
-| Rocket Jump | 0.80% | ~10 |
-| Thunderstruck | 0.80% | ~10 |
+| Caveman | 0.80% | ~11 |
+| Rocket Jump | 0.80% | ~11 |
+| Thunderstruck | 0.80% | ~11 |
 | 5G Network | 0.50% | ~7 |
 | Bull’s eye | 0.50% | ~7 |
 | Planetary Defence | 0.50% | ~7 |
@@ -54,7 +54,7 @@ Rating: 3.86 (Ranked 927)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312 (Ranked 171)  
+Progressed: 1,313 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 1,300 | 0 |
 | 2023-06-22 | 1,306 | 0 |
 | 2023-06-23 | 1,309 | 0 |
-| 2023-06-24 | 1,312 | 0 |
+| 2023-06-24 | 1,313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

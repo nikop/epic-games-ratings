@@ -20,11 +20,11 @@ Rating: 4.31 (Ranked 766)
 | Facility Manager | 53.00% | ~712 |
 | Poor Devil | 53.00% | ~712 |
 | Producer | 50.00% | ~672 |
-| Apprentice | 41.00% | ~551 |
+| Apprentice | 42.00% | ~564 |
 | Bridge Builder | 41.00% | ~551 |
 | Access granted | 35.00% | ~470 |
 | Going once, going twice, sold | 34.00% | ~457 |
-| Stoker | 32.00% | ~430 |
+| Stoker | 33.00% | ~443 |
 | Full Steam ahead | 31.00% | ~416 |
 | Bull and bear | 31.00% | ~416 |
 | All mine | 28.00% | ~376 |
@@ -49,8 +49,8 @@ Rating: 4.31 (Ranked 766)
 | Bold and beautiful | 9.00% | ~121 |
 | A new Hope | 8.00% | ~107 |
 | Tycoon | 7.00% | ~94 |
-| Unstoppable | 5.00% | ~67 |
-| Track to the Future | 5.00% | ~67 |
+| Unstoppable | 6.00% | ~81 |
+| Track to the Future | 6.00% | ~81 |
 | Conductor | 4.00% | ~54 |
 | Let off some steam | 3.00% | ~40 |
 | Call of Duty | 3.00% | ~40 |

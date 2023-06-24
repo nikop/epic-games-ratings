@@ -9,6 +9,7 @@ Rating: 4.47 (Ranked 593)
 | Confirming Suspicions | 2.00% | ~62 |
 | The Kraken Wakes | 2.00% | ~62 |
 | It's Starting to Crack | 2.00% | ~62 |
+| Taking it back | 2.00% | ~62 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
@@ -18,7 +19,6 @@ Rating: 4.47 (Ranked 593)
 | Der Geist | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Change the Channel | 1.00% | ~31 |
-| Taking it back | 1.00% | ~31 |
 | Target America | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
 | Organ Grinder | 0.70% | ~22 |

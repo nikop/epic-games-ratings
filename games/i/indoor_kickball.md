@@ -18,24 +18,24 @@
 | Grand Slam! | 26.00% | ~14 |
 | Kick It | 24.00% | ~13 |
 | Bedroom Secret Spot | 24.00% | ~13 |
-| Have Mercy | 22.00% | ~12 |
+| Have Mercy | 24.00% | ~13 |
 | Save some water for the fishies | 19.00% | ~10 |
 | Spooky | 19.00% | ~10 |
 | Classroom Secret Spot | 17.00% | ~9 |
 | Bathroom Secret Spot | 17.00% | ~9 |
 | At least everyone still had fun | 11.00% | ~6 |
 | Living Room Secret Spot | 9.00% | ~5 |
+| Angry Dad | 9.00% | ~5 |
 | Just how we drew it up | 9.00% | ~5 |
-| Angry Dad | 7.00% | ~4 |
 | Kitchen Secret Spot | 6.00% | ~3 |
 | Interference | 6.00% | ~3 |
 | Basement Secret Spot | 4.00% | ~2 |
+| You broke it, you bought it | 4.00% | ~2 |
 | Hi Hungry, I'm Dad | 4.00% | ~2 |
 | Found the Secret Formula! | 4.00% | ~2 |
 | Angry Mom | 4.00% | ~2 |
 | Attic Secret Spot | 2.00% | ~1 |
 | Garage Secret Spot | 2.00% | ~1 |
-| You broke it, you bought it | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |
 | Backyard Secret Spot | 0.00% | ~0 |
