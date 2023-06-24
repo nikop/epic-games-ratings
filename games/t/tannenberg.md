@@ -6,36 +6,36 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~103,976 |
-| Comeback | 81.00% | ~94,630 |
+| Immovable Object | 89.00% | ~103,977 |
+| Comeback | 81.00% | ~94,631 |
 | Information is Key | 80.00% | ~93,462 |
-| Unlucky | 71.00% | ~82,947 |
-| Anarchist | 68.00% | ~79,442 |
+| Unlucky | 71.00% | ~82,948 |
+| Anarchist | 68.00% | ~79,443 |
 | Wallhack | 65.00% | ~75,938 |
-| Steady Supply | 60.00% | ~70,096 |
-| Lucky Shot | 53.00% | ~61,918 |
-| Forward Observer | 52.00% | ~60,750 |
-| Ring Ring! | 52.00% | ~60,750 |
-| Bossing Around | 45.00% | ~52,572 |
-| Frostbite | 45.00% | ~52,572 |
+| Steady Supply | 60.00% | ~70,097 |
+| Lucky Shot | 53.00% | ~61,919 |
+| Forward Observer | 52.00% | ~60,751 |
+| Ring Ring! | 52.00% | ~60,751 |
+| Bossing Around | 45.00% | ~52,573 |
+| Frostbite | 45.00% | ~52,573 |
 | Night Owl | 44.00% | ~51,404 |
 | Strength in Numbers | 44.00% | ~51,404 |
 | Fog of War | 41.00% | ~47,899 |
 | Stronghold Denied | 39.00% | ~45,563 |
-| Anyone Else? | 38.00% | ~44,394 |
-| Rasputin | 38.00% | ~44,394 |
+| Anyone Else? | 38.00% | ~44,395 |
+| Rasputin | 38.00% | ~44,395 |
 | Hydra | 36.00% | ~42,058 |
 | This Belongs to Us Now | 36.00% | ~42,058 |
-| Stronghold | 35.00% | ~40,889 |
+| Stronghold | 35.00% | ~40,890 |
 | Leeroy | 33.00% | ~38,553 |
 | Lost Batallion | 33.00% | ~38,553 |
-| This is MY Machine Gun! | 31.00% | ~36,216 |
-| Together As One | 31.00% | ~36,216 |
-| Gavrilo Princip | 27.00% | ~31,543 |
+| This is MY Machine Gun! | 31.00% | ~36,217 |
+| Together As One | 31.00% | ~36,217 |
+| Gavrilo Princip | 27.00% | ~31,544 |
 | Lead Harvest | 25.00% | ~29,207 |
 | Skynet Confirmed | 23.00% | ~26,870 |
 | Kesselschlacht | 22.00% | ~25,702 |
-| Democracy Works! | 20.00% | ~23,365 |
+| Democracy Works! | 20.00% | ~23,366 |
 | Switch, Please! | 19.00% | ~22,197 |
 | I've Seen It All | 18.00% | ~21,029 |
 | Tourist | 18.00% | ~21,029 |
@@ -46,7 +46,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Before the Leaves Fall | 10.00% | ~11,683 |
 | Close Call | 10.00% | ~11,683 |
 | Pinpoint | 10.00% | ~11,683 |
-| Tannenberg | 9.00% | ~10,514 |
+| Tannenberg | 9.00% | ~10,515 |
 | For the Emperor | 8.00% | ~9,346 |
 | Hawk Eye | 8.00% | ~9,346 |
 | Hötzendorf | 7.00% | ~8,178 |
@@ -74,8 +74,8 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,051 |
 | Road to Berlin | 0.60% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,827 (Ranked 61)  
-Completed: 27 (0.02%) (Ranked 208)  
+Progressed: 116,828 (Ranked 61)  
+Completed: 27 (0.02%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,9 +139,10 @@ Completed: 27 (0.02%) (Ranked 208)
 | 2023-06-21 | 116,414 | 27 |
 | 2023-06-22 | 116,627 | 27 |
 | 2023-06-23 | 116,827 | 27 |
+| 2023-06-24 | 116,828 | 27 |
 ## Awards
 Max (Competitive Players): 326  (Ranked 224)  
-Sum: 2,848 (Ranked 161)  
+Sum: 2,850 (Ranked 161)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -153,7 +154,7 @@ Diff (max vs sum): 63
 | This game has Challenging Combat | 274 |
 | This game is Highly Recommended | 273 |
 | This game has Amazing Characters | 268 |
-| This game has Realistic Visuals | 257 |
+| This game has Realistic Visuals | 259 |
 | This game has a Competitive Community | 254 |
 | This game has Amazing Storytelling | 248 |
 | This game is Educational | 99 |
@@ -273,3 +274,4 @@ Diff (max vs sum): 63
 | 2023-06-19 | 4.39 | - | 326 | 2,846 |
 | 2023-06-20 | 4.39 | - | 326 | 2,847 |
 | 2023-06-22 | 4.39 | - | 326 | 2,848 |
+| 2023-06-24 | 4.39 | - | 326 | 2,850 |

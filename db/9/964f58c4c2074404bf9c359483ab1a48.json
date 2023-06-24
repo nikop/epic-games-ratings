@@ -6,7 +6,7 @@
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 10,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 8,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -300,9 +300,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1185151,
+  "EOS_Progressed": 1185237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32326,
+  "EOS_NewPlayers": 32182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2805,6 +2805,11 @@
       "Time": "2023-06-23T23:03:36.3522992+00:00",
       "NumProgressed": 1185151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T00:07:30.3496854+00:00",
+      "NumProgressed": 1185237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -2864,7 +2869,7 @@
       "Name": "100 Kills as a Hunter!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "100_hunter_wins",
@@ -2928,7 +2933,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130367
+      "UsersEstimate": 130376
     },
     {
       "ID": "10_ghost_wins",
@@ -2936,7 +2941,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 94812
+      "UsersEstimate": 94819
     },
     {
       "ID": "10_hero_prop_kills",
@@ -2952,7 +2957,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 189624
+      "UsersEstimate": 189638
     },
     {
       "ID": "10_hunter_wins",
@@ -2960,7 +2965,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71109
+      "UsersEstimate": 71114
     },
     {
       "ID": "10_prop_headshots",
@@ -2968,7 +2973,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23703
+      "UsersEstimate": 23705
     },
     {
       "ID": "250_c4_kills",
@@ -3080,7 +3085,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47406
+      "UsersEstimate": 47409
     },
     {
       "ID": "50_riot_shield_kills",
@@ -3096,7 +3101,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9481
+      "UsersEstimate": 9482
     },
     {
       "ID": "ace",
@@ -3104,7 +3109,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 118515
+      "UsersEstimate": 118524
     },
     {
       "ID": "ghost_win",
@@ -3112,7 +3117,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 711091
+      "UsersEstimate": 711142
     },
     {
       "ID": "hunter_win",
@@ -3120,7 +3125,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 651833
+      "UsersEstimate": 651880
     },
     {
       "ID": "master_of_loadouts",
@@ -3144,14 +3149,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 272585
+      "UsersEstimate": 272605
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1185151,
+      "Progressed": 1185237,
       "Completed": 0
     }
   ],
@@ -3159,8 +3164,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-06-23T14:57:07.3613149+00:00",
-  "LastChanged_Achievements": "2023-06-23T23:03:36.3522986+00:00",
+  "LastChanged_Achievements": "2023-06-24T00:07:30.3496846+00:00",
   "LastUpdate_AppInfo": "2023-06-22T17:57:24.7951036+00:00",
-  "LastUpdate_Ratings": "2023-06-23T22:57:30.3986965+00:00",
-  "LastUpdate_Achievements": "2023-06-23T23:03:36.3523433+00:00"
+  "LastUpdate_Ratings": "2023-06-24T00:01:06.0479186+00:00",
+  "LastUpdate_Achievements": "2023-06-24T00:07:30.3497336+00:00"
 }

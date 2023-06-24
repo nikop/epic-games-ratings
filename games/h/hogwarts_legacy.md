@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,121 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,122 |
 | First Class Student | 9.00% | ~25,309 |
 | A Keen Sense of Spell | 8.00% | ~22,497 |
 | Troll with the Punches | 8.00% | ~22,497 |
@@ -24,12 +24,12 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,873 |
 | The Spell Master | 6.00% | ~16,873 |
 | Rising From the Ashes | 6.00% | ~16,873 |
-| Beast Friends | 5.00% | ~14,060 |
-| Flight the Good Flight | 5.00% | ~14,060 |
-| The Seeker of Knowledge | 4.00% | ~11,248 |
-| The Root of the Problem | 4.00% | ~11,248 |
-| Third Time's a Charm | 4.00% | ~11,248 |
-| Raising Expectations | 4.00% | ~11,248 |
+| Beast Friends | 5.00% | ~14,061 |
+| Flight the Good Flight | 5.00% | ~14,061 |
+| The Seeker of Knowledge | 4.00% | ~11,249 |
+| The Root of the Problem | 4.00% | ~11,249 |
+| Third Time's a Charm | 4.00% | ~11,249 |
+| Raising Expectations | 4.00% | ~11,249 |
 | The Toast of the Town | 3.00% | ~8,436 |
 | Going Through the Potions | 3.00% | ~8,436 |
 | Room with a View | 3.00% | ~8,436 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 107)
 | Demiguise Dread | 1.00% | ~2,812 |
 | Finishing Touches | 1.00% | ~2,812 |
 | A Forte for Achievement | 1.00% | ~2,812 |
-| Merlin's Beard! | 0.70% | ~1,968 |
+| Merlin's Beard! | 0.70% | ~1,969 |
 | Spilled Milk | 0.60% | ~1,687 |
 | The Nature of the Beast | 0.50% | ~1,406 |
 | Collector's Edition | 0.20% | ~562 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,209 (Ranked 41)  
+Progressed: 281,216 (Ranked 41)  
 Completed: 409 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 409 (0.15%) (Ranked 165)
 | 2023-06-21 | 280,974 | 408 |
 | 2023-06-22 | 281,084 | 409 |
 | 2023-06-23 | 281,209 | 409 |
+| 2023-06-24 | 281,216 | 409 |
 ## Awards
 Max (Character Customization): 20,298  (Ranked 17)  
 Sum: 37,716 (Ranked 30)  

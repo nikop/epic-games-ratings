@@ -7,20 +7,20 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 11.00% | ~64,015 |
-| Into the Unknown | 10.00% | ~58,195 |
-| First Shot | 10.00% | ~58,195 |
+| Into the Unknown | 10.00% | ~58,196 |
+| First Shot | 10.00% | ~58,196 |
 | Herzlich Wilkommen! | 9.00% | ~52,376 |
 | Good Night & Good Luck | 9.00% | ~52,376 |
-| Sancho Panza | 8.00% | ~46,556 |
+| Sancho Panza | 8.00% | ~46,557 |
 | Under Pressure | 7.00% | ~40,737 |
 | On the Trail of the Enemy | 7.00% | ~40,737 |
 | Flag Burning | 7.00% | ~40,737 |
 | Oh, So This Is How It Works! | 7.00% | ~40,737 |
 | Night Hunter | 7.00% | ~40,737 |
-| Light in the Darkness | 6.00% | ~34,917 |
-| Get Outta My House! | 6.00% | ~34,917 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,917 |
-| Being All Social | 6.00% | ~34,917 |
+| Light in the Darkness | 6.00% | ~34,918 |
+| Get Outta My House! | 6.00% | ~34,918 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,918 |
+| Being All Social | 6.00% | ~34,918 |
 | Debris and Ashes | 5.00% | ~29,098 |
 | We Will Be Heard! | 5.00% | ~29,098 |
 | Known Associate | 5.00% | ~29,098 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~227 |
 | Connoisseur | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581,953 (Ranked 26)  
+Progressed: 581,959 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-21 | 581,081 | 57 |
 | 2023-06-22 | 581,555 | 57 |
 | 2023-06-23 | 581,953 | 57 |
+| 2023-06-24 | 581,959 | 57 |
 ## Awards
 Max (Character Customization): 7,983  (Ranked 40)  
 Sum: 18,548 (Ranked 56)  

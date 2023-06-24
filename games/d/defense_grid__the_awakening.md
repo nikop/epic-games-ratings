@@ -7,15 +7,15 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~388,742 |
-| Hey! That's mine! | 78.00% | ~374,344 |
+| Hey! That's mine! | 78.00% | ~374,345 |
 | Happy Returns | 77.00% | ~369,545 |
 | Field Promotion | 74.00% | ~355,147 |
-| Leadhead | 71.00% | ~340,749 |
+| Leadhead | 71.00% | ~340,750 |
 | Eradicator | 67.00% | ~321,552 |
-| Surplus | 65.00% | ~311,953 |
-| I Spy | 64.00% | ~307,154 |
+| Surplus | 65.00% | ~311,954 |
+| I Spy | 64.00% | ~307,155 |
 | Burn Baby Burn | 59.00% | ~283,158 |
-| Yellow Beats Green | 55.00% | ~263,960 |
+| Yellow Beats Green | 55.00% | ~263,961 |
 | Salvage Rights | 53.00% | ~254,362 |
 | Pew Pew | 50.00% | ~239,964 |
 | What IS that? | 50.00% | ~239,964 |
@@ -24,21 +24,21 @@ Number of Ratings: 1,225  (23.09.2022)
 | Arsenal | 46.00% | ~220,767 |
 | Boot Camp | 45.00% | ~215,968 |
 | Flawless Victory | 42.00% | ~201,570 |
-| Confident | 40.00% | ~191,971 |
+| Confident | 40.00% | ~191,972 |
 | Exterminator | 36.00% | ~172,774 |
-| Sharpshooter | 33.00% | ~158,376 |
+| Sharpshooter | 33.00% | ~158,377 |
 | Great Ball of Fire | 32.00% | ~153,577 |
 | Not So Fast | 32.00% | ~153,577 |
-| No Sale | 30.00% | ~143,978 |
+| No Sale | 30.00% | ~143,979 |
 | Kaboom! | 29.00% | ~139,179 |
 | Liquidator | 29.00% | ~139,179 |
 | High Voltage | 24.00% | ~115,183 |
-| Filthy Rich | 19.00% | ~91,186 |
+| Filthy Rich | 19.00% | ~91,187 |
 | The Not-So-Friendly Skies | 18.00% | ~86,387 |
 | Power Builder | 17.00% | ~81,588 |
 | Pyrrhic Victory | 17.00% | ~81,588 |
-| Death From Above | 16.00% | ~76,788 |
-| Retry | 16.00% | ~76,788 |
+| Death From Above | 16.00% | ~76,789 |
+| Retry | 16.00% | ~76,789 |
 | Head Trauma | 12.00% | ~57,591 |
 | Full Defense | 10.00% | ~47,993 |
 | Overseer | 9.00% | ~43,194 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,319 |
 | Master Siege Breaker | 0.80% | ~3,839 |
 | Few and Proud | 0.80% | ~3,839 |
-| Shell-shocked | 0.70% | ~3,359 |
+| Shell-shocked | 0.70% | ~3,360 |
 | Alien Tears | 0.50% | ~2,400 |
 | Full House | 0.40% | ~1,920 |
 | Kickstarter | 0.30% | ~1,440 |
@@ -94,8 +94,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~480 |
 | You Monster | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,928 (Ranked 32)  
-Completed: 4 (0.00%) (Ranked 231)  
+Progressed: 479,929 (Ranked 32)  
+Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,6 +159,7 @@ Completed: 4 (0.00%) (Ranked 231)
 | 2023-06-21 | 479,768 | 4 |
 | 2023-06-22 | 479,857 | 4 |
 | 2023-06-23 | 479,928 | 4 |
+| 2023-06-24 | 479,929 | 4 |
 ## Awards
 Max (Great for Beginners): 235  (Ranked 249)  
 Sum: 1,652 (Ranked 206)  

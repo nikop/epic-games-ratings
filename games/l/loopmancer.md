@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 101.00% | ~97 |
-| Break no Sweat | 95.00% | ~91 |
-| Every little bit counts | 95.00% | ~91 |
-| Growth | 84.00% | ~81 |
+| Black Cat's Warning | 102.00% | ~97 |
+| Break no Sweat | 96.00% | ~91 |
+| Every little bit counts | 96.00% | ~91 |
+| Growth | 85.00% | ~81 |
 | Targeting the Enemy | 67.00% | ~64 |
-| Unavoidable | 61.00% | ~59 |
-| Revenge | 59.00% | ~57 |
+| Unavoidable | 62.00% | ~59 |
+| Revenge | 60.00% | ~57 |
 | Reunion | 41.00% | ~39 |
-| Fluke | 33.00% | ~32 |
-| Elimination | 32.00% | ~31 |
-| Victor's Prejudice | 32.00% | ~31 |
+| Fluke | 34.00% | ~32 |
+| Elimination | 33.00% | ~31 |
+| Victor's Prejudice | 33.00% | ~31 |
 | Once Bitten, Twice Shy | 29.00% | ~28 |
 | Memento | 29.00% | ~28 |
 | Excellent Driving Skills | 28.00% | ~27 |
@@ -30,7 +30,7 @@
 | Outsider's Profit | 18.00% | ~17 |
 | Brain in a Vat | 16.00% | ~15 |
 | Reappearance | 15.00% | ~14 |
-| King of the Streets | 10.00% | ~10 |
+| King of the Streets | 11.00% | ~10 |
 | Calamity | 9.00% | ~9 |
 | Survival Expert | 9.00% | ~9 |
 | Rest in peace | 8.00% | ~8 |
@@ -62,8 +62,8 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 231)  
+Progressed: 95 (Ranked 292)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-16 | 93 | 0 |
 | 2023-06-17 | 95 | 0 |
 | 2023-06-18 | 96 | 0 |
+| 2023-06-24 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

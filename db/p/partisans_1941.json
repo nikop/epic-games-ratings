@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1230,6 +1230,11 @@
       "Time": "2023-06-22T11:12:41.8622365+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-24T00:10:49.1566227+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1255,9 +1260,9 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Big_Bertha",
@@ -1313,7 +1318,7 @@
       "Name": "Lock, Stock",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "E1M1",
@@ -1343,9 +1348,9 @@
       "ID": "Game_Over",
       "SetID": "85nb4h3",
       "Name": "Game Over",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 95
+      "UsersEstimate": 85
     },
     {
       "ID": "Grenadier",
@@ -1393,7 +1398,7 @@
       "Name": "Spice It Up",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "KillAllM2",
@@ -1433,7 +1438,7 @@
       "Name": "Mosquito bite",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Scout",
@@ -1480,15 +1485,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-23T23:06:18.1720473+00:00",
-  "LastUpdate_AppInfo": "2023-06-16T22:58:51.5920542+00:00",
-  "LastUpdate_Ratings": "2023-06-23T22:59:27.5837324+00:00",
-  "LastUpdate_Achievements": "2023-06-23T23:06:18.1720714+00:00"
+  "LastChanged_Achievements": "2023-06-24T00:10:49.1566221+00:00",
+  "LastUpdate_AppInfo": "2023-06-23T23:59:10.5622483+00:00",
+  "LastUpdate_Ratings": "2023-06-24T00:03:35.3740199+00:00",
+  "LastUpdate_Achievements": "2023-06-24T00:10:49.1566469+00:00"
 }

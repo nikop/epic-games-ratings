@@ -58,7 +58,7 @@ Rating: 4.34 (Ranked 741)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,183 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

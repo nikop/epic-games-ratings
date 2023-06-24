@@ -5,15 +5,15 @@ Rating: 4.25 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~149,302 |
-| Copacetic Coordination | 16.00% | ~51,931 |
+| Corner Clout | 46.00% | ~149,304 |
+| Copacetic Coordination | 16.00% | ~51,932 |
 | Fronting the Money | 14.00% | ~45,440 |
 | The Dawn of Automation | 14.00% | ~45,440 |
 | Extraordinary Logistics | 14.00% | ~45,440 |
-| Dirty Money | 13.00% | ~42,194 |
-| Family First | 13.00% | ~42,194 |
-| Cleaning House | 12.00% | ~38,948 |
-| Room in the Back | 12.00% | ~38,948 |
+| Dirty Money | 13.00% | ~42,195 |
+| Family First | 13.00% | ~42,195 |
+| Cleaning House | 12.00% | ~38,949 |
+| Room in the Back | 12.00% | ~38,949 |
 | Booze Baron | 11.00% | ~35,703 |
 | Beating the Heat | 10.00% | ~32,457 |
 | Friends on the Force | 10.00% | ~32,457 |
@@ -27,15 +27,15 @@ Rating: 4.25 (Ranked 798)
 | Safety in Numbers | 6.00% | ~19,474 |
 | Show ‘em the Sugar | 6.00% | ~19,474 |
 | Killing Them Softly | 6.00% | ~19,474 |
-| Street Knowledge | 5.00% | ~16,228 |
-| Oh Captain | 5.00% | ~16,228 |
-| Branching Out | 5.00% | ~16,228 |
-| Improvement Missions | 5.00% | ~16,228 |
-| Opportunity Knocked | 5.00% | ~16,228 |
-| City of Big Shoulders | 5.00% | ~16,228 |
-| Moving Experiences | 5.00% | ~16,228 |
-| Mission Mastery | 5.00% | ~16,228 |
-| Wise Head | 5.00% | ~16,228 |
+| Street Knowledge | 5.00% | ~16,229 |
+| Oh Captain | 5.00% | ~16,229 |
+| Branching Out | 5.00% | ~16,229 |
+| Improvement Missions | 5.00% | ~16,229 |
+| Opportunity Knocked | 5.00% | ~16,229 |
+| City of Big Shoulders | 5.00% | ~16,229 |
+| Moving Experiences | 5.00% | ~16,229 |
+| Mission Mastery | 5.00% | ~16,229 |
+| Wise Head | 5.00% | ~16,229 |
 | Considerable Clams | 4.00% | ~12,983 |
 | Gin Joint | 4.00% | ~12,983 |
 | An Affront to the Enemy | 4.00% | ~12,983 |
@@ -86,8 +86,8 @@ Rating: 4.25 (Ranked 798)
 | High Pillow | 0.10% | ~325 |
 | Station Master | 0.10% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324,569 (Ranked 40)  
-Completed: 5 (0.00%) (Ranked 231)  
+Progressed: 324,574 (Ranked 40)  
+Completed: 5 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,6 +151,7 @@ Completed: 5 (0.00%) (Ranked 231)
 | 2023-06-21 | 324,011 | 5 |
 | 2023-06-22 | 324,286 | 5 |
 | 2023-06-23 | 324,569 | 5 |
+| 2023-06-24 | 324,574 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 461)  
 Sum: 95 (Ranked 407)  

@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 441)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 19.00% | ~516 |
+| Sputnik 2049 | 17.00% | ~462 |
 | Without Breaking Some Eggs... | 16.00% | ~435 |
 | Infinite Growth... | 16.00% | ~435 |
-| Sputnik 2049 | 16.00% | ~435 |
 | Space Society | 11.00% | ~299 |
 | A Thousand Strong | 11.00% | ~299 |
 | Ready for a New World | 11.00% | ~299 |
@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 441)
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,718 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

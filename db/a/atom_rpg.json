@@ -6,8 +6,8 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-06-23T10:06:14.168162+00:00",
       "NumProgressed": 989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T00:10:49.376635+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1550,7 +1555,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "EXPERT_1",
@@ -1646,7 +1651,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -1686,7 +1691,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RELICTS",
@@ -1726,7 +1731,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SHOG",
@@ -1750,7 +1755,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "VVE",
@@ -1781,15 +1786,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-23T23:06:18.3609389+00:00",
-  "LastUpdate_AppInfo": "2023-06-16T22:59:41.112645+00:00",
-  "LastUpdate_Ratings": "2023-06-23T23:00:15.8976054+00:00",
-  "LastUpdate_Achievements": "2023-06-23T23:06:18.3609763+00:00"
+  "LastChanged_Achievements": "2023-06-24T00:10:49.3766344+00:00",
+  "LastUpdate_AppInfo": "2023-06-24T00:00:21.722728+00:00",
+  "LastUpdate_Ratings": "2023-06-24T00:04:35.2924258+00:00",
+  "LastUpdate_Achievements": "2023-06-24T00:10:49.3766671+00:00"
 }

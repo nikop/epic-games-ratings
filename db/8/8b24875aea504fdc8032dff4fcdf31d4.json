@@ -3,8 +3,8 @@
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 406,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -80,9 +80,9 @@
       "ID": "ACH_ALLWEAPONS",
       "SetID": "73kff7",
       "Name": "Armed to the teeth",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CARKEY",
@@ -112,9 +112,9 @@
       "ID": "ACH_CEMETERY",
       "SetID": "73kff7",
       "Name": "A place to rest",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CITYGATES",
@@ -128,9 +128,9 @@
       "ID": "ACH_DESTROYWALL",
       "SetID": "73kff7",
       "Name": "Pyrotechnic performance",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DRIVINGCHALLENGE",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-23T23:05:06.4347442+00:00",
+  "LastChanged_Achievements": "2023-06-24T00:09:21.5475822+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:17.0816335+00:00",
-  "LastUpdate_Ratings": "2023-06-23T22:57:40.8041025+00:00",
-  "LastUpdate_Achievements": "2023-06-23T23:05:06.4347609+00:00"
+  "LastUpdate_Ratings": "2023-06-24T00:01:19.597098+00:00",
+  "LastUpdate_Achievements": "2023-06-24T00:09:21.5476101+00:00"
 }

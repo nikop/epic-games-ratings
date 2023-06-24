@@ -6,36 +6,36 @@
 | ---- | ---------- | ----- |
 | Augmented | 2.00% | ~12 |
 | Challenge Accepted | 1.00% | ~6 |
+| The City | 1.00% | ~6 |
 | Terminated I | 1.00% | ~6 |
+| Unlocked and Loaded | 1.00% | ~6 |
 | Nanonic I | 0.90% | ~5 |
-| Unlocked and Loaded | 0.90% | ~5 |
+| Terminated II | 0.90% | ~5 |
+| Challenge Mastered | 0.70% | ~4 |
 | Integration | 0.70% | ~4 |
-| The City | 0.50% | ~3 |
 | Cybernetic | 0.50% | ~3 |
 | Inner Core | 0.50% | ~3 |
+| Nanonic II | 0.50% | ~3 |
 | Outer Core | 0.50% | ~3 |
-| Terminated II | 0.50% | ~3 |
-| Challenge Mastered | 0.30% | ~2 |
+| Supply Run | 0.50% | ~3 |
 | Nanonic III | 0.30% | ~2 |
 | Rookie | 0.30% | ~2 |
+| Terminated III | 0.30% | ~2 |
 | The Bigger They Are | 0.20% | ~1 |
 | Ripperdoc | 0.20% | ~1 |
-| Terminated III | 0.20% | ~1 |
+| Up Close And Personal | 0.20% | ~1 |
 | Cyborg | 0.00% | ~0 |
 | Destruction | 0.00% | ~0 |
 | Starship Docks | 0.00% | ~0 |
 | Eden Heights | 0.00% | ~0 |
 | Fully Modded | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
-| Nanonic II | 0.00% | ~0 |
-| Supply Run | 0.00% | ~0 |
 | Trickshot | 0.00% | ~0 |
-| Up Close And Personal | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 587 (Ranked 205)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

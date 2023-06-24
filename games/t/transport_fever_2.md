@@ -34,8 +34,8 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~411 |
 | The future is now, old man | 31.00% | ~411 |
 | Not in my backyard | 30.00% | ~398 |
+| City | 29.00% | ~385 |
 | The king of the sea | 29.00% | ~385 |
-| City | 28.00% | ~372 |
 | Transport tycoon | 24.00% | ~318 |
 | Climate change | 23.00% | ~305 |
 | Old timer | 22.00% | ~292 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,327 (Ranked 169)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
