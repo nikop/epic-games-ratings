@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1316,
+  "EOS_Progressed": 1318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2295,6 +2295,11 @@
       "Time": "2023-06-24T20:04:19.0093552+00:00",
       "NumProgressed": 1316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T21:04:08.6418923+00:00",
+      "NumProgressed": 1318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2426,7 +2431,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -2482,7 +2487,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2498,7 +2503,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -2506,7 +2511,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -2530,7 +2535,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2554,7 +2559,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2602,7 +2607,7 @@
       "Name": "Plumber",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -2689,7 +2694,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1316,
+      "Progressed": 1318,
       "Completed": 0
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-23T16:57:46.7048804+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:04:19.0093547+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:04:08.6418917+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:57:32.0646269+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:04:19.0093932+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:57:27.6777998+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:04:08.6419341+00:00"
 }

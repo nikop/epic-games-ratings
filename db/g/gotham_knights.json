@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1730,9 +1730,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65934,
+  "EOS_Progressed": 65938,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7560,6 +7560,11 @@
       "Time": "2023-06-24T20:05:53.4136865+00:00",
       "NumProgressed": 65934,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-24T21:05:41.9920542+00:00",
+      "NumProgressed": 65938,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -7771,7 +7776,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -7875,7 +7880,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "HARLEY_2",
@@ -7955,7 +7960,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MYSTERY_01",
@@ -7963,7 +7968,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "MYSTERY_02",
@@ -8058,13 +8063,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65934,
+      "Progressed": 65938,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36214,
+      "Progressed": 36218,
       "Completed": 2647
     }
   ],
@@ -8072,8 +8077,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-24T14:01:12.6491036+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:05:53.413686+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:05:41.9920538+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:59:37.4360915+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:05:53.4137576+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:59:29.3549381+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:05:41.9921331+00:00"
 }

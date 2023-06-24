@@ -12,13 +12,13 @@
 | Face to face | 74.00% | ~35 |
 | Now or never | 72.00% | ~34 |
 | First aid | 62.00% | ~29 |
-| Soundtrack | 51.00% | ~24 |
+| Soundtrack | 53.00% | ~25 |
 | Antidote | 47.00% | ~22 |
-| Pick the right door | 26.00% | ~12 |
+| Pick the right door | 28.00% | ~13 |
+| One-way | 21.00% | ~10 |
+| The third floor | 21.00% | ~10 |
 | On the right path | 19.00% | ~9 |
 | It can't be true | 19.00% | ~9 |
-| One-way | 19.00% | ~9 |
-| The third floor | 19.00% | ~9 |
 | I'm close now | 17.00% | ~8 |
 | Failed attempt | 17.00% | ~8 |
 | The real escape | 17.00% | ~8 |

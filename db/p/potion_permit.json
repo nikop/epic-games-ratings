@@ -1401,9 +1401,9 @@
       "ID": "ACHIEVEMENTS_04",
       "SetID": "d4o538a",
       "Name": "Being forgetful...",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENTS_05",
@@ -1449,9 +1449,9 @@
       "ID": "ACHIEVEMENTS_10",
       "SetID": "d4o538a",
       "Name": "Intermediate Chemist",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 565
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -1690,8 +1690,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-22T23:01:59.6728834+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:02:12.858921+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:00:35.7855968+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:42.3989723+00:00",
-  "LastUpdate_Ratings": "2023-06-24T20:00:10.0620558+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:02:12.8589495+00:00"
+  "LastUpdate_Ratings": "2023-06-24T21:00:01.2506623+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:00:35.7856259+00:00"
 }

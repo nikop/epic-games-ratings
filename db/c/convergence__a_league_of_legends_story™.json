@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 721,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -1444,6 +1444,11 @@
       "Time": "2023-06-24T20:05:32.2044549+00:00",
       "NumProgressed": 720,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-24T21:05:21.3383841+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1479,7 +1484,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1647,7 +1652,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MapCompletion1",
@@ -1695,7 +1700,7 @@
       "Name": "Time Flies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ParryBoss",
@@ -1727,7 +1732,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PidgeDefeated",
@@ -1735,7 +1740,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RewindDamage1",
@@ -1839,7 +1844,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WatcherFought",
@@ -1878,14 +1883,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 721,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:05:32.2044544+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:05:21.3383836+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:59:15.0304416+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:05:32.2044976+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:59:08.6189571+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:05:21.3384309+00:00"
 }

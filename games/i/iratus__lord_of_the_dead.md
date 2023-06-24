@@ -6,14 +6,14 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~28,134 |
-| Blood Moon | 73.00% | ~24,162 |
-| Path of the Necromancer | 66.00% | ~21,845 |
-| Chainbreaker - I | 60.00% | ~19,859 |
-| Cursed Creature | 57.00% | ~18,866 |
-| Extraction | 57.00% | ~18,866 |
-| Chainbreaker - II | 55.00% | ~18,204 |
-| Necromancer's Apprentice | 51.00% | ~16,880 |
+| Improvement | 85.00% | ~28,136 |
+| Blood Moon | 73.00% | ~24,164 |
+| Path of the Necromancer | 66.00% | ~21,847 |
+| Chainbreaker - I | 60.00% | ~19,861 |
+| Cursed Creature | 57.00% | ~18,868 |
+| Extraction | 57.00% | ~18,868 |
+| Chainbreaker - II | 55.00% | ~18,206 |
+| Necromancer's Apprentice | 51.00% | ~16,882 |
 | Keeper of Keys | 47.00% | ~15,557 |
 | Distillation | 43.00% | ~14,233 |
 | Mountain King - I | 42.00% | ~13,902 |
@@ -79,10 +79,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Graveyard Call - III | 0.90% | ~298 |
 | I'll Be Back! | 0.80% | ~265 |
 | Doctorate in Potion Brewing | 0.80% | ~265 |
-| Unrivaled | 0.50% | ~165 |
+| Unrivaled | 0.50% | ~166 |
 | Renowned Researcher | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,099 (Ranked 89)  
+Progressed: 33,101 (Ranked 89)  
 Completed: 22 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 22 (0.07%) (Ranked 187)
 | 2023-06-21 | 32,771 | 22 |
 | 2023-06-22 | 32,868 | 22 |
 | 2023-06-23 | 32,987 | 22 |
-| 2023-06-24 | 33,099 | 22 |
+| 2023-06-24 | 33,101 | 22 |
 ## Awards
 Max (Character Customization): 2,139  (Ranked 105)  
 Sum: 4,144 (Ranked 134)  

@@ -850,9 +850,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658392,
+  "EOS_Progressed": 658393,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6945,6 +6945,11 @@
       "Time": "2023-06-24T19:08:07.7650943+00:00",
       "NumProgressed": 658392,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-24T21:05:36.814578+00:00",
+      "NumProgressed": 658393,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -6956,7 +6961,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474042
+      "UsersEstimate": 474043
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -6964,7 +6969,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381867
+      "UsersEstimate": 381868
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7028,7 +7033,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46087
+      "UsersEstimate": 46088
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -7188,7 +7193,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46087
+      "UsersEstimate": 46088
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -7268,7 +7273,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46087
+      "UsersEstimate": 46088
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -7339,15 +7344,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658392,
+      "Progressed": 658393,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:05:48.0781368+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:05:36.8145775+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:12.6606058+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:57:43.565713+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:05:48.0781939+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:57:38.791155+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:05:36.8146357+00:00"
 }

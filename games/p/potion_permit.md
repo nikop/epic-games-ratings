@@ -14,7 +14,7 @@ Rating: 3.82 (Ranked 934)
 | Friendly | 47.00% | ~681 |
 | The Capitalist | 43.00% | ~623 |
 | K.O.! | 42.00% | ~608 |
-| Intermediate Chemist | 38.00% | ~550 |
+| Intermediate Chemist | 39.00% | ~565 |
 | Decorative Mind | 31.00% | ~449 |
 | Lumber Specialist | 30.00% | ~434 |
 | Catch of the Day | 24.00% | ~348 |
@@ -37,10 +37,10 @@ Rating: 3.82 (Ranked 934)
 | Plantation Exterminator | 4.00% | ~58 |
 | Grape Supplier | 4.00% | ~58 |
 | Sous Chef | 3.00% | ~43 |
+| Being forgetful... | 2.00% | ~29 |
 | Community Advisor | 2.00% | ~29 |
 | Rock Exterminator | 2.00% | ~29 |
 | Tree Exterminator | 2.00% | ~29 |
-| Being forgetful... | 1.00% | ~14 |
 | Moonbury Navigator | 0.80% | ~12 |
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)

@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -778,17 +778,17 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -802,9 +802,9 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -867,8 +867,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:05:38.9955634+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:05:27.9445267+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:58.1980416+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:57:35.1373322+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:05:38.9955845+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:57:30.3776672+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:05:27.9445448+00:00"
 }

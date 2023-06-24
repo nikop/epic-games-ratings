@@ -67,13 +67,13 @@ Number of Ratings: 87  (23.09.2022)
 | Railroad tycoon | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |
 | BBQ | 0.40% | ~3 |
+| Highlander | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | The Hare | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
-| Highlander | 0.30% | ~2 |
 | The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |

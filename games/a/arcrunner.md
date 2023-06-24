@@ -14,10 +14,10 @@
 | Unlocked and Loaded | 3.00% | ~18 |
 | Challenge Mastered | 2.00% | ~12 |
 | Cybernetic | 2.00% | ~12 |
+| Nanonic II | 2.00% | ~12 |
+| Nanonic III | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
 | The Bigger They Are | 1.00% | ~6 |
-| Nanonic II | 1.00% | ~6 |
-| Nanonic III | 1.00% | ~6 |
 | Rookie | 1.00% | ~6 |
 | Up Close And Personal | 1.00% | ~6 |
 | Outer Core | 0.80% | ~5 |

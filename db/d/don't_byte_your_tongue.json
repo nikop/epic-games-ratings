@@ -2,9 +2,9 @@
   "ID": "8d473e8643ba4e50a5b3a01f31b80c8c",
   "Name": "Don\u0027t Byte Your Tongue",
   "ProductSlug": "dont-byte-your-tongue-da237b",
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-07T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-06-22T03:08:30.0889684+00:00",
       "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-24T21:05:32.9595135+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -170,7 +175,7 @@
       "ID": "LEVEL_1",
       "SetID": "dkj0bmo",
       "Name": "Hello, World!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -234,7 +239,7 @@
       "ID": "NEW_CHALLENGE",
       "SetID": "dkj0bmo",
       "Name": "I Need A Challenge",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -242,7 +247,7 @@
       "ID": "NPC_CHAT",
       "SetID": "dkj0bmo",
       "Name": "Hello, Friend!",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -258,7 +263,7 @@
       "ID": "NPC_ROAST",
       "SetID": "dkj0bmo",
       "Name": "What\u0027s so hard about going up?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -307,13 +312,13 @@
     {
       "ID": "dkj0bmo",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:05:44.0826986+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:05:32.9595124+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:25.8996474+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:59:17.7081604+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:05:44.0827161+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:59:11.3024224+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:05:32.9595313+00:00"
 }

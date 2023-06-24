@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.00% | ~0 |
 | Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,534 (Ranked 105)  
+Progressed: 15,535 (Ranked 105)  
 Completed: 57 (0.37%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 57 (0.37%) (Ranked 133)
 | 2023-06-21 | 15,493 | 57 |
 | 2023-06-22 | 15,505 | 57 |
 | 2023-06-23 | 15,520 | 57 |
-| 2023-06-24 | 15,534 | 57 |
+| 2023-06-24 | 15,535 | 57 |
 ## Awards
 Max (Highly Recommended): 57  (Ranked 387)  
-Sum: 330 (Ranked 326)  
+Sum: 332 (Ranked 326)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): 61
 | This game has Quickly Understood Controls | 54 |
 | This game is Extremely Fun | 48 |
 | This game has Challenging Combat | 39 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -208,4 +208,4 @@ Diff (max vs sum): 61
 | 2023-06-21 | 4.19 | 56 | 325 |
 | 2023-06-22 | 4.19 | 56 | 326 |
 | 2023-06-23 | 4.19 | 57 | 329 |
-| 2023-06-24 | 4.19 | 57 | 330 |
+| 2023-06-24 | 4.19 | 57 | 332 |

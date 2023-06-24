@@ -9,12 +9,12 @@
 | The Mysterious Stranger | 13.00% | ~94 |
 | Rail Rat | 13.00% | ~94 |
 | Cartographer | 13.00% | ~94 |
-| Treasure Trove | 12.00% | ~86 |
-| Make Up For Lost Time | 12.00% | ~86 |
-| Time Flies | 12.00% | ~86 |
-| The Wicked Twins | 12.00% | ~86 |
-| The Prince in Heels | 12.00% | ~86 |
-| Immaculate Aim | 12.00% | ~86 |
+| Treasure Trove | 12.00% | ~87 |
+| Make Up For Lost Time | 12.00% | ~87 |
+| Time Flies | 12.00% | ~87 |
+| The Wicked Twins | 12.00% | ~87 |
+| The Prince in Heels | 12.00% | ~87 |
+| Immaculate Aim | 12.00% | ~87 |
 | The Betrayer | 11.00% | ~79 |
 | The Man Who Shattered Time | 11.00% | ~79 |
 | The Loose Cannon | 11.00% | ~79 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720 (Ranked 195)  
-Completed: 4 (0.56%) (Ranked 120)  
+Progressed: 721 (Ranked 195)  
+Completed: 4 (0.55%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,4 +94,4 @@ Completed: 4 (0.56%) (Ranked 120)
 | 2023-06-20 | 713 | 4 |
 | 2023-06-22 | 714 | 4 |
 | 2023-06-23 | 718 | 4 |
-| 2023-06-24 | 720 | 4 |
+| 2023-06-24 | 721 | 4 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 298,
+  "EOS_Progressed": 299,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -238,6 +238,11 @@
       "Time": "2023-06-22T08:06:24.9257303+00:00",
       "NumProgressed": 298,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-24T21:04:29.2603562+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -319,9 +324,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_10",
@@ -329,7 +334,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_11",
@@ -345,7 +350,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_13",
@@ -353,7 +358,7 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_14",
@@ -369,7 +374,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_16",
@@ -400,7 +405,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 298,
+      "Progressed": 299,
       "Completed": 8
     }
   ],
@@ -408,8 +413,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-06-24T20:04:39.7631189+00:00",
+  "LastChanged_Achievements": "2023-06-24T21:04:29.2603557+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:26.3495714+00:00",
-  "LastUpdate_Ratings": "2023-06-24T19:57:51.0606561+00:00",
-  "LastUpdate_Achievements": "2023-06-24T20:04:39.7631311+00:00"
+  "LastUpdate_Ratings": "2023-06-24T20:57:46.0551654+00:00",
+  "LastUpdate_Achievements": "2023-06-24T21:04:29.2603717+00:00"
 }
