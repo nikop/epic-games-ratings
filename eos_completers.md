@@ -9,7 +9,7 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.79% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 16.30% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
 | 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
@@ -21,7 +21,7 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.99% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.71% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -41,8 +41,8 @@
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
 | 40 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
-| 43 | [Doodle God](games/d/doodle_god.md) | 3.72% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
+| 43 | [Doodle God](games/d/doodle_god.md) | 3.70% |
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [JARS](games/j/jars.md) | 3.51% |
@@ -54,7 +54,7 @@
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
-| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.96% |
+| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.95% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
@@ -89,7 +89,7 @@
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 89 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.27% |
+| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.26% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
@@ -102,7 +102,7 @@
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 105 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |

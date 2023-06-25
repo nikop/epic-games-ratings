@@ -210,6 +210,7 @@
 | [Gripper](../games/g/gripper.md) | 35 | 1,000 |
 | [Guacamelee! 2](../games/2/277e364d24ec43069f4ee3c4414d5096.md) | 49 | 1,000 |
 | [Guacamelee! Super Turbo Championship Edition](../games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 31 | 1,000 |
+| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |

@@ -85,6 +85,7 @@
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
 | [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 |
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
+| [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 55 | 1,000 |
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
