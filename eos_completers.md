@@ -72,7 +72,7 @@
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.03% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
@@ -156,8 +156,8 @@
 | 153 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 156 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 157 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 157 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
+| 156 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 158 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 159 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 159 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 161 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
@@ -319,6 +319,7 @@
 | 230 | [Gripper](games/g/gripper.md) | 0.00% |
 | 230 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.00% |
 | 230 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 0.00% |
+| 230 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 0.00% |
 | 230 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 0.00% |
 | 230 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
 | 230 | [Heim](games/h/heim.md) | 0.00% |

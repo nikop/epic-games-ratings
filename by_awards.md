@@ -23,7 +23,7 @@
 | 21 | [Warframe](games/w/warframe.md) | 15,630 | 4.61 | 364 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,595 | 4.76 | 120 |
 | 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,404 | 4.58 | 421 |
-| 24 | [League of Legends](games/l/league_of_legends.md) | 14,250 | 4.21 | 826 |
+| 24 | [League of Legends](games/l/league_of_legends.md) | 14,277 | 4.21 | 826 |
 | 25 | [Maneater](games/m/maneater.md) | 13,530 | 4.49 | 566 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,423 | 4.60 | 388 |
 | 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 12,894 | 4.24 | 807 |
@@ -220,7 +220,7 @@
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 352 | 4.85 | 41 |
 | 219 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 350 | 4.32 | 757 |
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 347 | 4.71 | 180 |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 343 | 3.94 | 919 |
+| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 343 | 3.93 | 920 |
 | 222 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 342 | 4.76 | 120 |
 | 223 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
 | 224 | [Dungeons 3](games/d/dungeons_3.md) | 327 | 4.66 | 273 |
@@ -479,7 +479,7 @@
 | 474 | [Weird West: Definitive Edition](games/w/weird_west.md) | 24 | 4.45 | 619 |
 | 478 | [Fez](games/f/fez.md) | 23 | 4.71 | 180 |
 | 478 | [RUINER](games/r/ruiner.md) | 23 | 4.53 | 504 |
-| 480 | [Chimeraland](games/c/chimeraland.md) | 22 | 3.93 | 921 |
+| 480 | [Chimeraland](games/c/chimeraland.md) | 22 | 3.93 | 920 |
 | 480 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.24 | 807 |
 | 480 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 832 |
 | 480 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.54 | 489 |
@@ -487,6 +487,7 @@
 | 480 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 19 |
 | 480 | [Yooka-Laylee](games/y/yooka-laylee.md) | 22 | 4.24 | 807 |
 | 487 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 21 | 4.52 | 517 |
+| 487 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 21 | 4.92 | 4 |
 | 487 | [Black Book](games/b/black_book.md) | 21 | 4.86 | 28 |
 | 487 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 517 |
 | 487 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 21 | 4.56 | 456 |
@@ -494,9 +495,8 @@
 | 487 | [Tunche](games/t/tunche.md) | 21 | 4.43 | 651 |
 | 487 | [Void Bastards](games/v/void_bastards.md) | 21 | 4.60 | 388 |
 | 487 | [We Were Here Forever](games/w/we_were_here_forever.md) | 21 | 4.65 | 297 |
-| 495 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 329 |
-| 495 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 20 | 4.92 | 4 |
-| 495 | [Figment](games/f/figment.md) | 20 | 4.47 | 593 |
-| 495 | [Forspoken](games/f/forspoken.md) | 20 | 4.15 | 866 |
-| 495 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 20 | 4.49 | 566 |
-| 495 | [Poker Club](games/p/poker_club.md) | 20 | 3.79 | 937 |
+| 496 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 20 | 4.63 | 329 |
+| 496 | [Figment](games/f/figment.md) | 20 | 4.47 | 593 |
+| 496 | [Forspoken](games/f/forspoken.md) | 20 | 4.15 | 866 |
+| 496 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 20 | 4.49 | 566 |
+| 496 | [Poker Club](games/p/poker_club.md) | 20 | 3.79 | 937 |
