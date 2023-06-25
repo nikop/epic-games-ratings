@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 30.77% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.65% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.65% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.13% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.87% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
@@ -62,9 +62,9 @@
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 63 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
-| 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.50% |
-| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.50% |
+| 63 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
+| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.37% |
@@ -89,7 +89,7 @@
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.25% |
+| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.24% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
