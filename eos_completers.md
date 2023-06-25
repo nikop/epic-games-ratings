@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.81% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 30.00% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.31% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 29.27% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.83% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.71% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
@@ -16,17 +16,17 @@
 | 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 14 | [Remains](games/r/remains.md) | 12.50% |
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.71% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.64% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.62% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 28 | [Scorn](games/s/scorn.md) | 6.83% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -48,7 +48,7 @@
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 47 | [JARS](games/j/jars.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.33% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
@@ -67,14 +67,14 @@
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 68 | [Bloodshore](games/b/bloodshore.md) | 2.37% |
+| 68 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.01% |
-| 75 | [Frogun](games/f/frogun.md) | 1.93% |
+| 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Sifu](games/s/sifu.md) | 1.80% |
@@ -89,8 +89,8 @@
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.22% |
-| 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.15% |
