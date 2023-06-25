@@ -21,8 +21,8 @@ Rating: 4.52 (Ranked 517)
 | Albino Bloodsucker | 1.00% | ~11 |
 | Death of the Author | 1.00% | ~11 |
 | Memoirs of a Nibbler | 0.80% | ~9 |
+| KGB Bunker | 0.70% | ~8 |
 | Sixth Sense | 0.70% | ~8 |
-| KGB Bunker | 0.60% | ~7 |
 | Rising Star | 0.50% | ~6 |
 | Baby Eater | 0.40% | ~4 |
 | Sick Freak | 0.40% | ~4 |
@@ -39,7 +39,7 @@ Rating: 4.52 (Ranked 517)
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,118 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,12 +96,12 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 1,117 | 0 |
 | 2023-06-25 | 1,118 | 0 |
 ## Awards
-Max (Character Customization): 21  (Ranked 488)  
-Sum: 21 (Ranked 490)  
-Diff (max vs sum): -2  
+Max (Character Customization): 22  (Ranked 480)  
+Sum: 22 (Ranked 484)  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 21 |
+| This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -135,3 +135,4 @@ Diff (max vs sum): -2
 | 2023-04-29 | 4.50 | 20 | 20 |
 | 2023-05-31 | 4.52 | 20 | 20 |
 | 2023-06-06 | 4.52 | 21 | 21 |
+| 2023-06-25 | 4.52 | 22 | 22 |

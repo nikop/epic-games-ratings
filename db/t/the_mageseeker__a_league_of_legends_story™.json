@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3021,9 +3021,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 815
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3077,9 +3077,9 @@
       "ID": "STB_MISSION7_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Central Headquarters",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 336
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -3101,9 +3101,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1462
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3230,8 +3230,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-25T17:05:44.9734563+00:00",
+  "LastChanged_Achievements": "2023-06-25T18:06:03.6598387+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:09.5701375+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:57:39.6125651+00:00",
-  "LastUpdate_Achievements": "2023-06-25T17:05:44.9735097+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:57:43.3098837+00:00",
+  "LastUpdate_Achievements": "2023-06-25T18:06:03.6599123+00:00"
 }

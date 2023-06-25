@@ -5,25 +5,25 @@ Rating: 4.89 (Ranked 13)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 80.00% | ~2,672 |
-| Feeling the beat! | 80.00% | ~2,672 |
-| You can pet the cat! | 75.00% | ~2,505 |
-| Who put gears in there? | 68.00% | ~2,271 |
+| Start with a bang! | 80.00% | ~2,673 |
+| Feeling the beat! | 80.00% | ~2,673 |
+| You can pet the cat! | 75.00% | ~2,506 |
+| Who put gears in there? | 68.00% | ~2,272 |
 | Cream of the Crop | 62.00% | ~2,071 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,071 |
 | You got this, Peppermint? | 57.00% | ~1,904 |
-| Perfect Parry | 54.00% | ~1,804 |
+| Perfect Parry | 55.00% | ~1,838 |
 | Alright, that felt AWESOME! | 54.00% | ~1,804 |
 | I play my own way! | 50.00% | ~1,670 |
-| This will cost you big time | 48.00% | ~1,603 |
-| Uh, they were broken when I got here | 46.00% | ~1,536 |
+| This will cost you big time | 48.00% | ~1,604 |
+| Uh, they were broken when I got here | 46.00% | ~1,537 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,503 |
 | Kissing the sky! | 44.00% | ~1,470 |
-| Does that say weakpoint? | 41.00% | ~1,369 |
+| Does that say weakpoint? | 41.00% | ~1,370 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,336 |
-| The Negotiator | 38.00% | ~1,269 |
+| The Negotiator | 38.00% | ~1,270 |
 | You must like calling me in, Chai | 34.00% | ~1,136 |
-| Out in a puff of smoke | 33.00% | ~1,102 |
+| Out in a puff of smoke | 33.00% | ~1,103 |
 | Headliner | 32.00% | ~1,069 |
 | Time to pay up! | 30.00% | ~1,002 |
 | Perfecter Parry-er! | 29.00% | ~969 |
@@ -37,7 +37,7 @@ Rating: 4.89 (Ranked 13)
 | I told you I'd be fine, Peppermint! | 17.00% | ~568 |
 | Wanna hear my playlist? | 12.00% | ~401 |
 | Check out my moves! | 12.00% | ~401 |
-| Chip-tuned | 11.00% | ~367 |
+| Chip-tuned | 11.00% | ~368 |
 | We're Jammin' | 8.00% | ~267 |
 | I think I deserve some praise, here! | 7.00% | ~234 |
 | I think I found your calling, Macaron | 7.00% | ~234 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,340 (Ranked 143)  
+Progressed: 3,341 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 5 (0.15%) (Ranked 165)
 | 2023-06-22 | 3,317 | 5 |
 | 2023-06-23 | 3,327 | 5 |
 | 2023-06-24 | 3,333 | 5 |
-| 2023-06-25 | 3,340 | 5 |
+| 2023-06-25 | 3,341 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

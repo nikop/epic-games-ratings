@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~155 |
 | Defying the Crown | 1.00% | ~155 |
 | Into the Forest | 1.00% | ~155 |
-| Fishmen Ritual Site | 0.70% | ~108 |
+| Fishmen Ritual Site | 0.80% | ~124 |
 | Efficient Explorer | 0.60% | ~93 |
 | Prestigious Expedition | 0.60% | ~93 |
 | Blood Flower Farmer | 0.50% | ~77 |

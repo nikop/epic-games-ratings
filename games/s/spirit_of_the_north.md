@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~39,949 |
-| INFUSED WITH LIGHT | 52.00% | ~31,005 |
-| FOXIN' AROUND | 28.00% | ~16,695 |
-| FETCH | 27.00% | ~16,099 |
-| BLOOMS OF LIGHT | 26.00% | ~15,502 |
-| BEST FRIENDS | 22.00% | ~13,118 |
-| AWAKEN | 21.00% | ~12,521 |
-| ERADICATE | 20.00% | ~11,925 |
-| SPIRIT BARK | 20.00% | ~11,925 |
-| GARDEN OF LIGHT | 18.00% | ~10,732 |
-| SPIRIT FORM | 16.00% | ~9,540 |
-| UPROOTING DARKNESS | 15.00% | ~8,944 |
-| WRITTEN IN STONE | 15.00% | ~8,944 |
-| WEIGHTLESS | 12.00% | ~7,155 |
-| SPIRIT DASH | 10.00% | ~5,962 |
-| OLD COMPANION | 9.00% | ~5,366 |
-| PLAGUE DOCTOR | 8.00% | ~4,770 |
-| SPIRITED AWAY | 8.00% | ~4,770 |
-| MATCH MAKER | 7.00% | ~4,174 |
-| NORTHERN LIGHTS | 7.00% | ~4,174 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,385 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~39,965 |
+| INFUSED WITH LIGHT | 52.00% | ~31,017 |
+| FOXIN' AROUND | 28.00% | ~16,702 |
+| FETCH | 27.00% | ~16,105 |
+| BLOOMS OF LIGHT | 26.00% | ~15,509 |
+| BEST FRIENDS | 22.00% | ~13,123 |
+| AWAKEN | 21.00% | ~12,526 |
+| ERADICATE | 20.00% | ~11,930 |
+| SPIRIT BARK | 20.00% | ~11,930 |
+| GARDEN OF LIGHT | 18.00% | ~10,737 |
+| SPIRIT FORM | 16.00% | ~9,544 |
+| UPROOTING DARKNESS | 15.00% | ~8,947 |
+| WRITTEN IN STONE | 15.00% | ~8,947 |
+| WEIGHTLESS | 12.00% | ~7,158 |
+| SPIRIT DASH | 10.00% | ~5,965 |
+| OLD COMPANION | 9.00% | ~5,368 |
+| PLAGUE DOCTOR | 8.00% | ~4,772 |
+| SPIRITED AWAY | 8.00% | ~4,772 |
+| MATCH MAKER | 7.00% | ~4,175 |
+| NORTHERN LIGHTS | 7.00% | ~4,175 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,386 |
 | ANCIENT HISTORY | 3.00% | ~1,789 |
-| NONE FORGOTTEN | 2.00% | ~1,192 |
+| NONE FORGOTTEN | 2.00% | ~1,193 |
 | KINDRED SPIRITS | 0.60% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,625 (Ranked 78)  
+Progressed: 59,649 (Ranked 78)  
 Completed: 301 (0.50%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 301 (0.50%) (Ranked 122)
 | 2023-06-22 | 59,198 | 300 |
 | 2023-06-23 | 59,348 | 300 |
 | 2023-06-24 | 59,516 | 300 |
-| 2023-06-25 | 59,625 | 301 |
+| 2023-06-25 | 59,649 | 301 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 472)  
 Sum: 113 (Ranked 402)  

@@ -3,9 +3,9 @@
   "Name": "Souls Of Chronos",
   "ProductSlug": "souls-of-chronos-3b6ffa",
   "Ranking_EOS_Progress": 470,
-  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-22T00:00:00+00:00",
     "PcReleaseDate": "2023-02-16T05:00:00+00:00",
@@ -366,8 +366,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-21T15:01:07.7005761+00:00",
-  "LastChanged_Achievements": "2023-06-25T17:00:54.4399455+00:00",
+  "LastChanged_Achievements": "2023-06-25T18:02:24.8928586+00:00",
   "LastUpdate_AppInfo": "2023-06-21T14:57:05.5476291+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:56:56.8783201+00:00",
-  "LastUpdate_Achievements": "2023-06-25T17:00:54.4399723+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:56:58.3958037+00:00",
+  "LastUpdate_Achievements": "2023-06-25T18:02:24.8928843+00:00"
 }

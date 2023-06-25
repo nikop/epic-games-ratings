@@ -82,13 +82,13 @@ Number of Ratings: 37  (23.09.2022)
 | Craftsmen challenge | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
 | An honorable departure | 0.50% | ~21 |
+| I've been everywhere VII | 0.50% | ~21 |
 | Negotiator | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
 | I've been everywhere III | 0.40% | ~17 |
 | Governor-elect | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
 | I've been everywhere VIII | 0.40% | ~17 |
-| I've been everywhere VII | 0.40% | ~17 |
 | Impregnable | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |
 | It went unnoticed | 0.30% | ~13 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,176 (Ranked 136)  
+Progressed: 4,176 (Ranked 137)  
 Completed: 3 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |

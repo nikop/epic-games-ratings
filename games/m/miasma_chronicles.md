@@ -8,20 +8,20 @@ Rating: 4.35 (Ranked 734)
 | First Blood | 92.00% | ~1,094 |
 | Ranidaphobia | 77.00% | ~916 |
 | Aspiring Editor | 74.00% | ~880 |
-| Gun for Hire | 69.00% | ~820 |
+| Gun for Hire | 70.00% | ~832 |
 | I am the law! | 63.00% | ~749 |
 | Lumberjack | 51.00% | ~606 |
 | Croaked | 46.00% | ~547 |
 | Limp Richard | 45.00% | ~535 |
+| From Darkness to Light | 45.00% | ~535 |
 | Exorcist | 44.00% | ~523 |
-| From Darkness to Light | 44.00% | ~523 |
 | Editor Adept | 43.00% | ~511 |
 | Firestarter | 41.00% | ~487 |
 | Giant Killer | 41.00% | ~487 |
 | Sensei | 39.00% | ~464 |
 | The meaning of Kain | 37.00% | ~440 |
 | Technophobe | 35.00% | ~416 |
-| Recycler | 33.00% | ~392 |
+| Recycler | 34.00% | ~404 |
 | Are you not entertained? | 29.00% | ~345 |
 | Ganglord | 29.00% | ~345 |
 | Jarhead | 29.00% | ~345 |
@@ -58,7 +58,7 @@ Rating: 4.35 (Ranked 734)
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,189 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

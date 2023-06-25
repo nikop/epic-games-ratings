@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Fright ✔ | 56.00% | ~111 |
 | Chest ✔ | 54.00% | ~107 |
-| Inventory ✔ | 51.00% | ~101 |
+| Inventory ✔ | 52.00% | ~103 |
 | Police officers ✔ | 27.00% | ~54 |
 | Mutation ✔ | 25.00% | ~50 |
 | Doberman ✔ | 13.00% | ~26 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 263)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,882 |
-| Wallbanger | 5.00% | ~19,882 |
-| Exploitative | 4.00% | ~15,906 |
-| High Speed Low Drag | 4.00% | ~15,906 |
-| Wet Feet | 4.00% | ~15,906 |
+| Point Shooting | 5.00% | ~19,884 |
+| Wallbanger | 5.00% | ~19,884 |
+| Exploitative | 4.00% | ~15,907 |
+| High Speed Low Drag | 4.00% | ~15,907 |
+| Wet Feet | 4.00% | ~15,907 |
 | Checkpoint Victory | 3.00% | ~11,930 |
 | Lucky | 3.00% | ~11,930 |
 | Stylin' | 3.00% | ~11,930 |
 | Turf War | 3.00% | ~11,930 |
-| Banged | 2.00% | ~7,953 |
-| First Blood | 2.00% | ~7,953 |
-| Flaccid Paralysis | 2.00% | ~7,953 |
-| Push Victory | 2.00% | ~7,953 |
-| Self-destructive | 2.00% | ~7,953 |
-| Blindfire | 1.00% | ~3,976 |
-| Efficient | 1.00% | ~3,976 |
-| Ruthless | 1.00% | ~3,976 |
-| Semper Paratus | 1.00% | ~3,976 |
+| Banged | 2.00% | ~7,954 |
+| First Blood | 2.00% | ~7,954 |
+| Flaccid Paralysis | 2.00% | ~7,954 |
+| Push Victory | 2.00% | ~7,954 |
+| Self-destructive | 2.00% | ~7,954 |
+| Blindfire | 1.00% | ~3,977 |
+| Efficient | 1.00% | ~3,977 |
+| Ruthless | 1.00% | ~3,977 |
+| Semper Paratus | 1.00% | ~3,977 |
 | Carrying | 0.90% | ~3,579 |
 | Mount & Gun | 0.90% | ~3,579 |
 | Personal | 0.90% | ~3,579 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~398 |
 | Road Hazard | 0.10% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,650 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 230)  
+Progressed: 397,677 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-22 | 396,085 | 2 |
 | 2023-06-23 | 396,605 | 2 |
 | 2023-06-24 | 397,196 | 2 |
-| 2023-06-25 | 397,650 | 2 |
+| 2023-06-25 | 397,677 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
 Sum: 2,738 (Ranked 167)  

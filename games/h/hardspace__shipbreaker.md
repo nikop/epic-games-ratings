@@ -13,7 +13,7 @@ Number of Ratings: 36  (23.09.2022)
 | Post No Bills | 55.00% | ~434 |
 | Truly Shocking! | 47.00% | ~371 |
 | Critical Thinker | 35.00% | ~276 |
-| Always Finding Your Mark | 28.00% | ~221 |
+| Always Finding Your Mark | 29.00% | ~229 |
 | The Weight of the World | 28.00% | ~221 |
 | Act I Complete | 27.00% | ~213 |
 | A drop in the Ocean | 27.00% | ~213 |
@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 789 (Ranked 191)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

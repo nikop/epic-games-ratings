@@ -11,11 +11,11 @@ Rating: 4.80 (Ranked 81)
 | Dark Forest | 77.00% | ~1,846 |
 | Pentakill | 76.00% | ~1,822 |
 | The use of petricite | 73.00% | ~1,750 |
-| You can pet the dog | 60.00% | ~1,438 |
+| You can pet the dog | 61.00% | ~1,462 |
 | Big Helmet Bro | 35.00% | ~839 |
 | Clarion Cove | 35.00% | ~839 |
 | Past trauma | 34.00% | ~815 |
-| Thornbarrow | 33.00% | ~791 |
+| Thornbarrow | 34.00% | ~815 |
 | Ternmoat Headquarters | 33.00% | ~791 |
 | Elemental master | 32.00% | ~767 |
 | Cypress Glen Headquarters | 32.00% | ~767 |
@@ -41,8 +41,8 @@ Rating: 4.80 (Ranked 81)
 | Friendly fire | 14.00% | ~336 |
 | True power | 14.00% | ~336 |
 | Meltridge | 14.00% | ~336 |
+| The Central Headquarters | 14.00% | ~336 |
 | Cloven Dell Headquarters | 14.00% | ~336 |
-| The Central Headquarters | 13.00% | ~312 |
 | Whispers in the Woods IV | 12.00% | ~288 |
 | Embrace the darkness | 11.00% | ~264 |
 | I smell fear | 11.00% | ~264 |

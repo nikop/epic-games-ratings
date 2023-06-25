@@ -74,8 +74,8 @@ Rating: 4.07 (Ranked 895)
 | Guardian Master | 0.30% | ~4 |
 | Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
+| Conqueror | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
-| Conqueror | 0.10% | ~2 |
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 | Ultimate War Machines | 0.10% | ~2 |

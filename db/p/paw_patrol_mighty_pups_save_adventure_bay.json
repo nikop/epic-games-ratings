@@ -3,9 +3,9 @@
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "5",
@@ -336,8 +336,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-06-25T17:00:31.1100154+00:00",
+  "LastChanged_Achievements": "2023-06-25T18:00:32.0573958+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5683337+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:59:13.1837264+00:00",
-  "LastUpdate_Achievements": "2023-06-25T17:00:31.1100451+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:59:17.4517812+00:00",
+  "LastUpdate_Achievements": "2023-06-25T18:00:32.0574176+00:00"
 }

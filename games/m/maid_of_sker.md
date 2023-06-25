@@ -11,8 +11,8 @@
 | Smooth Operator | 13.00% | ~21 |
 | Easy Listening | 12.00% | ~19 |
 | Perfect Harmony! | 10.00% | ~16 |
+| Chief Butler | 9.00% | ~14 |
 | Wales Interactive | 9.00% | ~14 |
-| Chief Butler | 8.00% | ~13 |
 | Bull in a China Shop | 6.00% | ~9 |
 | Sker Explorer | 4.00% | ~6 |
 | Ending on a High Note | 1.00% | ~2 |
@@ -36,7 +36,7 @@
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 272)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

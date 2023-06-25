@@ -7,12 +7,12 @@
 | Inquisitor | 38.00% | ~149 |
 | Goblin Tales | 31.00% | ~122 |
 | Bug Hunter | 26.00% | ~102 |
-| Boss Killer | 23.00% | ~90 |
+| Boss Killer | 24.00% | ~94 |
 | The Fallen | 22.00% | ~86 |
 | Trap Master | 21.00% | ~82 |
 | Artifact Collector | 20.00% | ~78 |
 | Ghost Buster | 16.00% | ~63 |
-| Reincarnation | 15.00% | ~59 |
+| Reincarnation | 16.00% | ~63 |
 | Iconoclasm | 14.00% | ~55 |
 | Librarian | 14.00% | ~55 |
 | Lumberjack | 13.00% | ~51 |
@@ -46,7 +46,7 @@
 | Necromancer | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 392 (Ranked 221)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -9,13 +9,13 @@
 | Pup Pup Boogie | 40.00% | ~4 |
 | Summer Day | 40.00% | ~4 |
 | Risky Rescue | 40.00% | ~4 |
+| Carlos Is Tangled | 40.00% | ~4 |
 | Mr. Porter | 30.00% | ~3 |
 | Break Time | 30.00% | ~3 |
 | Master of the Rope | 30.00% | ~3 |
 | Training Day | 30.00% | ~3 |
 | The Fastest | 30.00% | ~3 |
 | Paw patrol member | 30.00% | ~3 |
-| Carlos Is Tangled | 30.00% | ~3 |
 | Mandy Family | 30.00% | ~3 |
 | Robot Out of Control | 30.00% | ~3 |
 | Everything Under Control | 20.00% | ~2 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 384)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

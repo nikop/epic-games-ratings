@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 53.00% | ~167 |
+| BBFF (Best Brigade Friend Forever) | 54.00% | ~171 |
 | Conspiracy Theorist | 46.00% | ~145 |
 | On the Road | 44.00% | ~139 |
 | Souvenirs | 33.00% | ~104 |
-| Welcome to the Garage | 19.00% | ~60 |
+| Welcome to the Garage | 20.00% | ~63 |
 | This is Not Heavy Metal! | 18.00% | ~57 |
 | Truthseeker | 16.00% | ~51 |
 | 86's Nightmare | 10.00% | ~32 |
