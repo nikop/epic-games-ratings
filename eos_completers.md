@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 33.33% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.81% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.94% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.83% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
@@ -18,7 +18,7 @@
 | 16 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.42% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.74% |
-| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.99% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.71% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.64% |
@@ -121,13 +121,13 @@
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 120 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 127 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 127 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 128 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.43% |
 | 130 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
