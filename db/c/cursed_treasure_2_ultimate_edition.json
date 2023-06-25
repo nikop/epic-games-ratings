@@ -3,9 +3,9 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 13,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 161,
-  "EOS_Completed": 20,
+  "EOS_Completed": 21,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.42,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 13.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -132,6 +132,11 @@
       "Time": "2023-06-19T16:03:46.7107556+00:00",
       "NumProgressed": 161,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-25T16:05:12.9150898+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 53,
@@ -445,9 +450,9 @@
       "ID": "BADGE_HOSTILE_WATERS",
       "SetID": "ak6pfjk",
       "Name": "Hostile Waters",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "BADGE_LOVELESS",
@@ -567,15 +572,15 @@
       "ID": "ak6pfjk",
       "IsBase": true,
       "Progressed": 161,
-      "Completed": 20
+      "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:36.5493914+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:05:29.5278243+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:05:12.9150888+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:59:53.9797078+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:05:29.527878+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:59:37.4182998+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:05:12.9151318+00:00"
 }

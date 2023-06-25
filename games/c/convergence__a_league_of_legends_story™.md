@@ -28,9 +28,9 @@
 | Immaculate Aim | 11.00% | ~79 |
 | The Brass Boss | 11.00% | ~79 |
 | The Family Fortune | 11.00% | ~79 |
+| Right On Time | 10.00% | ~72 |
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
-| Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |
 | Chaincrawler Explorer | 8.00% | ~58 |
 | Family Memories | 7.00% | ~51 |

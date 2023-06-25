@@ -476,9 +476,9 @@
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -572,9 +572,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -820,9 +820,9 @@
       "ID": "PRG_MODE_HELL",
       "SetID": "89cjc9l",
       "Name": "Highway to Hell",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PRG_NORMAL_10001",
@@ -933,8 +933,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:07:17.4419146+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:07:44.2812269+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:53.58574+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:58:53.2701355+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:07:17.4419898+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:58:02.2648918+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:07:44.281294+00:00"
 }

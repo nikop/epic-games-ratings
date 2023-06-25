@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,498 |
-| That's a Grand Army | 8.00% | ~4,887 |
-| That is mine! | 8.00% | ~4,887 |
-| Victorious! | 8.00% | ~4,887 |
-| Brothers in Arms | 6.00% | ~3,665 |
-| That's a Grand Navy | 6.00% | ~3,665 |
-| Seriously?! | 6.00% | ~3,665 |
-| For the Glory | 5.00% | ~3,054 |
-| Cold War | 4.00% | ~2,444 |
-| True Catholic | 4.00% | ~2,444 |
-| Defender of the Faith | 3.00% | ~1,833 |
-| It's all about the money | 3.00% | ~1,833 |
-| Respected | 3.00% | ~1,833 |
-| Truly Divine Ruler | 3.00% | ~1,833 |
+| Until death do us apart | 9.00% | ~5,501 |
+| That's a Grand Army | 8.00% | ~4,890 |
+| That is mine! | 8.00% | ~4,890 |
+| Victorious! | 8.00% | ~4,890 |
+| Brothers in Arms | 6.00% | ~3,667 |
+| That's a Grand Navy | 6.00% | ~3,667 |
+| Seriously?! | 6.00% | ~3,667 |
+| For the Glory | 5.00% | ~3,056 |
+| Cold War | 4.00% | ~2,445 |
+| True Catholic | 4.00% | ~2,445 |
+| Defender of the Faith | 3.00% | ~1,834 |
+| It's all about the money | 3.00% | ~1,834 |
+| Respected | 3.00% | ~1,834 |
+| Truly Divine Ruler | 3.00% | ~1,834 |
 | Agressive Expander | 2.00% | ~1,222 |
 | Blockader | 2.00% | ~1,222 |
 | Combined Arms | 2.00% | ~1,222 |
@@ -50,12 +50,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.60% | ~367 |
 | Populists in Government | 0.60% | ~367 |
 | Time Bandit | 0.60% | ~367 |
-| One Family to Rule them All | 0.50% | ~305 |
-| Ruina Imperii | 0.50% | ~305 |
-| The pen is mightier than the sword | 0.50% | ~305 |
-| This is My Faith | 0.50% | ~305 |
-| Trophy Hunter | 0.50% | ~305 |
-| Voting Streak | 0.50% | ~305 |
+| One Family to Rule them All | 0.50% | ~306 |
+| Ruina Imperii | 0.50% | ~306 |
+| The pen is mightier than the sword | 0.50% | ~306 |
+| This is My Faith | 0.50% | ~306 |
+| Trophy Hunter | 0.50% | ~306 |
+| Voting Streak | 0.50% | ~306 |
 | Absolutely | 0.40% | ~244 |
 | All Your Trade Are Belong to Us | 0.40% | ~244 |
 | Bleed Them Dry | 0.40% | ~244 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,090 (Ranked 77)  
+Progressed: 61,123 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,7 +427,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
 | 2023-06-24 | 60,738 | 0 |
-| 2023-06-25 | 61,090 | 0 |
+| 2023-06-25 | 61,123 | 0 |
 ## Awards
 Max (Educational): 5,449  (Ranked 61)  
 Sum: 45,019 (Ranked 27)  

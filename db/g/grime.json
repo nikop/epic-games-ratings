@@ -770,9 +770,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -944,8 +944,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:01:55.4972288+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:02:45.5105703+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.6465863+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:01:27.1690005+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:01:55.4972646+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:01:59.3844797+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:02:45.5106072+00:00"
 }

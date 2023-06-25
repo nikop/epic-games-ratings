@@ -4,10 +4,10 @@
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 107,
   "Ranking_Popularity": 81,
-  "Ranking_PopularitySum": 53,
+  "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -4448,6 +4448,6 @@
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
   "LastChanged": "2023-06-25T15:01:22.015753+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:33.473988+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:01:22.0157537+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:06:31.7580748+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:01:51.7336981+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:06:41.9498119+00:00"
 }

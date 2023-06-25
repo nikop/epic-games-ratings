@@ -55,11 +55,11 @@
 | Brilliant: The Deep | 22.00% | ~35 |
 | Starry: Free Coast | 22.00% | ~35 |
 | Starry: The Deep | 20.00% | ~32 |
+| Hostile Waters | 16.00% | ~26 |
 | Loveless | 16.00% | ~26 |
-| Hostile Waters | 15.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 271)  
-Completed: 20 (12.42%) (Ranked 16)  
+Completed: 21 (13.04%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 20 (12.42%) (Ranked 16)
 | 2023-06-06 | 159 | 20 |
 | 2023-06-15 | 160 | 20 |
 | 2023-06-19 | 161 | 20 |
+| 2023-06-25 | 161 | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

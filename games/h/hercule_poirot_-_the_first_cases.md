@@ -25,7 +25,7 @@ Rating: 4.32 (Ranked 759)
 | The Interrogations | 43.00% | ~168 |
 | Well-acquainted | 41.00% | ~160 |
 | Zakariya Demir | 41.00% | ~160 |
-| Well-read | 38.00% | ~149 |
+| Well-read | 39.00% | ~152 |
 | Cassandra Van den Bosch | 37.00% | ~145 |
 | The Secret | 36.00% | ~141 |
 | Gedeon Demir | 34.00% | ~133 |
@@ -52,7 +52,7 @@ Rating: 4.32 (Ranked 759)
 | Room with a View | 7.00% | ~27 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 222)  
+Progressed: 391 (Ranked 223)  
 Completed: 4 (1.02%) (Ranked 98)  
 ## EOS Players History
 | Date | Progressed | Completed |

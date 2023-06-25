@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 8754,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -5448,9 +5448,9 @@
       "ID": "ACH01",
       "SetID": "9llo822",
       "Name": "Born in the 80\u2019s",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH02",
@@ -5729,8 +5729,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-25T11:58:19.4903393+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:04:43.3574433+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:04:03.8302707+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.402576+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:59:36.0323784+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:04:43.3575011+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:59:07.4682136+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:04:03.8303609+00:00"
 }

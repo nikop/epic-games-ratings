@@ -4,7 +4,7 @@
   "ProductSlug": "cant-be-touch-7e87e8",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-22T17:57:25.0105954+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:58:28.0049671+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:05:10.0822912+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:57:21.7403706+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:04:44.0856433+00:00"
 }

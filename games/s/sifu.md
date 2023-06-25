@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~970 |
-| Project Arena | 4.00% | ~776 |
+| Diligence as a goal | 5.00% | ~971 |
+| Project Arena | 4.00% | ~777 |
 | The Old Grandmaster | 2.00% | ~14,202 |
 | The Assault | 2.00% | ~14,202 |
 | Life is your teacher | 2.00% | ~14,202 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,108 (Ranked 17)  
+Progressed: 710,113 (Ranked 17)  
 Completed: 12,790 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 12,790 (1.80%) (Ranked 78)
 | 2023-06-22 | 709,970 | 12,781 |
 | 2023-06-23 | 710,016 | 12,783 |
 | 2023-06-24 | 710,074 | 12,790 |
-| 2023-06-25 | 710,108 | 12,790 |
+| 2023-06-25 | 710,113 | 12,790 |
 ## Awards
 Max (Great Boss Battles): 6,206  (Ranked 52)  
 Sum: 10,620 (Ranked 78)  

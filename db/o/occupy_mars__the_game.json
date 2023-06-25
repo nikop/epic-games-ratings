@@ -162,7 +162,7 @@
   "Tags": [],
   "EOS_Progressed": 1325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2616,9 +2616,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 305
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2737,8 +2737,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-23T16:57:46.7048804+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:05:42.3914486+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:05:31.6814785+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:58:51.356394+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:05:42.391501+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:58:00.1650819+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:05:31.6815418+00:00"
 }

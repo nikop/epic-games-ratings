@@ -9,24 +9,24 @@
 | Pup Pup Boogie | 40.00% | ~4 |
 | Summer Day | 40.00% | ~4 |
 | Risky Rescue | 40.00% | ~4 |
+| Mr. Porter | 30.00% | ~3 |
+| Break Time | 30.00% | ~3 |
+| Master of the Rope | 30.00% | ~3 |
+| Training Day | 30.00% | ~3 |
+| The Fastest | 30.00% | ~3 |
+| Paw patrol member | 30.00% | ~3 |
 | Carlos Is Tangled | 30.00% | ~3 |
 | Mandy Family | 30.00% | ~3 |
+| Robot Out of Control | 30.00% | ~3 |
 | Everything Under Control | 20.00% | ~2 |
-| Mr. Porter | 20.00% | ~2 |
-| Break Time | 20.00% | ~2 |
-| Master of the Rope | 20.00% | ~2 |
-| Training Day | 20.00% | ~2 |
-| The Fastest | 20.00% | ~2 |
+| Clear the Road | 20.00% | ~2 |
 | Never Miss | 20.00% | ~2 |
 | Animal Sighting | 20.00% | ~2 |
-| Paw patrol member | 20.00% | ~2 |
-| Robot Out of Control | 20.00% | ~2 |
 | Adventure Bay’s Citizen | 20.00% | ~2 |
 | King of the Mountain | 10.00% | ~1 |
 | A Great Explorer | 10.00% | ~1 |
 | Nothing Can Stop You | 10.00% | ~1 |
 | In the Air | 10.00% | ~1 |
-| Clear the Road | 10.00% | ~1 |
 | You Have Been Everywhere | 10.00% | ~1 |
 | Don’t Miss Any | 10.00% | ~1 |
 | Mountain and Ice | 10.00% | ~1 |

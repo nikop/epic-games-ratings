@@ -39,7 +39,7 @@ Rating: 4.17 (Ranked 857)
 | Gotham City Confidential | 1.00% | ~660 |
 | Solid Alibi | 1.00% | ~660 |
 | Fusion Expert | 0.90% | ~594 |
-| Family Meeting | 0.80% | ~528 |
+| Family Meeting | 0.90% | ~594 |
 | A Worthy Successor | 0.80% | ~528 |
 | Expert Crime Fighter | 0.70% | ~462 |
 | Dressed to Impress | 0.60% | ~396 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,976 (Ranked 72)  
+Progressed: 65,979 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,976 | 98 |
+| 2023-06-25 | 65,979 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

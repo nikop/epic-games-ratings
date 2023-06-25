@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 345)  
+Rating: 4.62 (Ranked 346)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,879 |
-| Wallbanger | 5.00% | ~19,879 |
-| Exploitative | 4.00% | ~15,903 |
-| High Speed Low Drag | 4.00% | ~15,903 |
-| Wet Feet | 4.00% | ~15,903 |
+| Point Shooting | 5.00% | ~19,881 |
+| Wallbanger | 5.00% | ~19,881 |
+| Exploitative | 4.00% | ~15,905 |
+| High Speed Low Drag | 4.00% | ~15,905 |
+| Wet Feet | 4.00% | ~15,905 |
 | Checkpoint Victory | 3.00% | ~11,928 |
 | Lucky | 3.00% | ~11,928 |
 | Stylin' | 3.00% | ~11,928 |
@@ -24,9 +24,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,976 |
 | Ruthless | 1.00% | ~3,976 |
 | Semper Paratus | 1.00% | ~3,976 |
-| Carrying | 0.90% | ~3,578 |
-| Mount & Gun | 0.90% | ~3,578 |
-| Personal | 0.90% | ~3,578 |
+| Carrying | 0.90% | ~3,579 |
+| Mount & Gun | 0.90% | ~3,579 |
+| Personal | 0.90% | ~3,579 |
 | Grounded | 0.80% | ~3,181 |
 | Play to Win | 0.80% | ~3,181 |
 | #1 | 0.70% | ~2,783 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~398 |
 | Road Hazard | 0.10% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,584 (Ranked 39)  
+Progressed: 397,615 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,17 +108,17 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-22 | 396,085 | 2 |
 | 2023-06-23 | 396,605 | 2 |
 | 2023-06-24 | 397,196 | 2 |
-| 2023-06-25 | 397,584 | 2 |
+| 2023-06-25 | 397,615 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 361  (Ranked 216)  
-Sum: 2,736 (Ranked 167)  
-Diff (max vs sum): 49  
+Max (Quickly Understood Controls): 361  (Ranked 217)  
+Sum: 2,738 (Ranked 167)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 361 |
 | This game has Challenging Combat | 331 |
 | This game is Extremely Fun | 321 |
-| This game has Competitive Players | 318 |
+| This game has Competitive Players | 320 |
 | This game has Realistic Visuals | 296 |
 | This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 291 |
@@ -289,4 +289,4 @@ Diff (max vs sum): 49
 | 2023-06-22 | 4.62 | - | 359 | 2,729 |
 | 2023-06-23 | 4.62 | - | 359 | 2,732 |
 | 2023-06-24 | 4.62 | - | 361 | 2,735 |
-| 2023-06-25 | 4.62 | - | 361 | 2,736 |
+| 2023-06-25 | 4.62 | - | 361 | 2,738 |

@@ -20,7 +20,7 @@ Rating: 4.25 (Ranked 801)
 | HELL'S KITCHEN | 19.00% | ~67 |
 | CELEBRITY | 18.00% | ~64 |
 | GRATITUDE | 17.00% | ~60 |
-| LAW-ABIDING CITIZEN | 11.00% | ~39 |
+| LAW-ABIDING CITIZEN | 12.00% | ~43 |
 | PRUDENT | 11.00% | ~39 |
 | PATTY-KILLER | 9.00% | ~32 |
 | GOURMET | 8.00% | ~28 |

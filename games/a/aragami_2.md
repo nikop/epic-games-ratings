@@ -6,27 +6,27 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~33,261 |
-| First Steps | 81.00% | ~28,970 |
-| Control the Shadows | 68.00% | ~24,320 |
-| Tools of the Trade | 63.00% | ~22,532 |
-| Apprentice | 60.00% | ~21,459 |
-| Secret Seeker | 57.00% | ~20,386 |
-| Forge of Assassins | 56.00% | ~20,028 |
-| Revenant | 52.00% | ~18,598 |
-| I don’t Care! | 45.00% | ~16,094 |
-| Bird of Prey | 37.00% | ~13,233 |
+| Awakening | 93.00% | ~33,263 |
+| First Steps | 81.00% | ~28,971 |
+| Control the Shadows | 68.00% | ~24,322 |
+| Tools of the Trade | 63.00% | ~22,533 |
+| Apprentice | 60.00% | ~21,460 |
+| Secret Seeker | 57.00% | ~20,387 |
+| Forge of Assassins | 56.00% | ~20,030 |
+| Revenant | 52.00% | ~18,599 |
+| I don’t Care! | 45.00% | ~16,095 |
+| Bird of Prey | 37.00% | ~13,234 |
 | Engraved with Power | 32.00% | ~11,445 |
 | Lady | 30.00% | ~10,730 |
 | Fashionable Assassin | 27.00% | ~9,657 |
 | Apex Predator | 24.00% | ~8,584 |
-| Soul Reaver | 22.00% | ~7,868 |
+| Soul Reaver | 22.00% | ~7,869 |
 | Embers | 21.00% | ~7,511 |
 | Wall Lizard | 20.00% | ~7,153 |
 | Clinging to Life | 18.00% | ~6,438 |
 | Burning | 17.00% | ~6,080 |
-| Look Behind You | 16.00% | ~5,722 |
-| Sleeping on the Job | 16.00% | ~5,722 |
+| Look Behind You | 16.00% | ~5,723 |
+| Sleeping on the Job | 16.00% | ~5,723 |
 | Family | 14.00% | ~5,007 |
 | War Engines | 14.00% | ~5,007 |
 | Signature Move | 14.00% | ~5,007 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~358 |
 | Anger Management | 1.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,765 (Ranked 88)  
+Progressed: 35,767 (Ranked 88)  
 Completed: 178 (0.50%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 178 (0.50%) (Ranked 122)
 | 2023-06-22 | 35,530 | 177 |
 | 2023-06-23 | 35,601 | 177 |
 | 2023-06-24 | 35,702 | 178 |
-| 2023-06-25 | 35,765 | 178 |
+| 2023-06-25 | 35,767 | 178 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -36,6 +36,7 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 2.00% | ~58 |
 | Exterminator | 2.00% | ~58 |
 | Hands-On Research | 2.00% | ~58 |
+| Only in Death | 2.00% | ~58 |
 | Preservationist | 2.00% | ~58 |
 | Engine Kill | 2.00% | ~58 |
 | Death Comes For All | 2.00% | ~58 |
@@ -44,7 +45,6 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 1.00% | ~29 |
 | Unstable Immaterium | 1.00% | ~29 |
 | Strike Force | 1.00% | ~29 |
-| Only in Death | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
 | True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |

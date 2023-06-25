@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~195 |
-| Where's that freaking Dwarf? | 86.00% | ~182 |
-| Sock! SOCK! | 70.00% | ~148 |
+| Alt+F4 | 92.00% | ~196 |
+| Where's that freaking Dwarf? | 86.00% | ~183 |
+| Sock! SOCK! | 70.00% | ~149 |
 | Fireproof Wizardess | 56.00% | ~119 |
-| Livin' in a dwarven paradise | 54.00% | ~114 |
-| Déjà vu | 50.00% | ~106 |
+| Livin' in a dwarven paradise | 54.00% | ~115 |
+| Déjà vu | 51.00% | ~109 |
 | GG EZ | 49.00% | ~104 |
 | Way of the Wimp | 46.00% | ~98 |
-| DM intervention | 45.00% | ~95 |
+| DM intervention | 45.00% | ~96 |
 | Oh, when I'll be level 10... | 38.00% | ~81 |
-| Speedrun | 35.00% | ~74 |
+| Speedrun | 36.00% | ~77 |
 | A beer, two curses, three companions | 33.00% | ~70 |
 | The plot thickens... At the tavern | 33.00% | ~70 |
 | Team Building Exercise | 33.00% | ~70 |
-| Dwarf Fortress | 32.00% | ~68 |
 | The Ranger of Chaos | 32.00% | ~68 |
+| Dwarf Fortress | 31.00% | ~66 |
 | I am the night | 31.00% | ~66 |
 | Thieves' Guild Accreditation | 30.00% | ~64 |
-| Look but don't touch | 28.00% | ~59 |
+| Look but don't touch | 28.00% | ~60 |
 | The demons' feast | 25.00% | ~53 |
-| Shiny and Crôm | 24.00% | ~51 |
 | The Great Library | 24.00% | ~51 |
-| Gargantua | 24.00% | ~51 |
-| Material Girl | 24.00% | ~51 |
+| Shiny and Crôm | 23.00% | ~49 |
+| Gargantua | 23.00% | ~49 |
+| Material Girl | 23.00% | ~49 |
 | Torture and Sensibility | 22.00% | ~47 |
 | The Statuette of Gladeulfeurah | 22.00% | ~47 |
 | A tale of adventurers not quite like the others... | 22.00% | ~47 |
@@ -43,8 +43,8 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 14.00% | ~30 |
 | Res Judicata | 13.00% | ~28 |
 | Dead for good | 13.00% | ~28 |
-| The Dungeon Master | 12.00% | ~25 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~25 |
+| The Dungeon Master | 12.00% | ~26 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~26 |
 | Necrophilia | 10.00% | ~21 |
 | It's been a hard day's night | 10.00% | ~21 |
 | Scholar of the Lands of Fangh | 9.00% | ~19 |
@@ -58,8 +58,8 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 6.00% | ~13 |
 | Inception | 6.00% | ~13 |
 | Super-Ultra-Lydian | 5.00% | ~11 |
-| Holistic Adventuring Party | 4.00% | ~8 |
-| Hit snooze | 4.00% | ~8 |
+| Holistic Adventuring Party | 4.00% | ~9 |
+| Hit snooze | 4.00% | ~9 |
 | Friendly fire | 3.00% | ~6 |
 | I'd rather... Just... Sing! | 3.00% | ~6 |
 | Kudos from your DM | 3.00% | ~6 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 256)  
+Progressed: 213 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
-| 2023-06-25 | 212 | 0 |
+| 2023-06-25 | 213 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

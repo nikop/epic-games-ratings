@@ -1814,9 +1814,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "Clothes10",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:05:18.247278+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:04:56.3502588+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:14.5557686+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:59:45.3385077+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:05:18.2473208+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:59:22.8225593+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:04:56.3503064+00:00"
 }

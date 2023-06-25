@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "EOS_Progressed": 192,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 10.94,
   "EosHistory": [
     {
@@ -370,9 +370,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "just_like_me",
@@ -426,9 +426,9 @@
       "ID": "toby_foolery",
       "SetID": "202dmm8",
       "Name": "Toby foolery",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -451,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-25T15:07:02.074277+00:00",
+  "LastChanged_Achievements": "2023-06-25T16:07:24.3075531+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:17.5674445+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:01:11.7497636+00:00",
-  "LastUpdate_Achievements": "2023-06-25T15:07:02.0742921+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:01:35.9416185+00:00",
+  "LastUpdate_Achievements": "2023-06-25T16:07:24.3075701+00:00"
 }
