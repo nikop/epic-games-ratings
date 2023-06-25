@@ -38,19 +38,19 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.04% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.87% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.03% |
-| 40 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
+| 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
-| 43 | [Doodle God](games/d/doodle_god.md) | 3.70% |
+| 43 | [Doodle God](games/d/doodle_god.md) | 3.69% |
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [JARS](games/j/jars.md) | 3.45% |
 | 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.33% |
 | 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
-| 50 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.17% |
-| 51 | [The Complex](games/t/the_complex.md) | 3.16% |
+| 50 | [The Complex](games/t/the_complex.md) | 3.16% |
+| 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
@@ -71,8 +71,8 @@
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.03% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
