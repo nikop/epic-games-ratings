@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,187 |
-| I'll Be Back | 85.00% | ~3,786 |
+| On My Own Two Feet | 94.00% | ~4,188 |
+| I'll Be Back | 85.00% | ~3,787 |
 | Sorry, I Dropped This | 77.00% | ~3,430 |
 | First Day on the Job | 77.00% | ~3,430 |
 | Butcher's Bill | 55.00% | ~2,450 |
 | P.A.X | 37.00% | ~1,648 |
 | Hey Listen | 37.00% | ~1,648 |
-| OPERATOR | 36.00% | ~1,603 |
+| OPERATOR | 36.00% | ~1,604 |
 | It's Blue Light | 33.00% | ~1,470 |
 | Most Wanted | 26.00% | ~1,158 |
-| Infidel | 23.00% | ~1,024 |
-| GOLIATH | 21.00% | ~935 |
+| Infidel | 23.00% | ~1,025 |
+| GOLIATH | 21.00% | ~936 |
 | Firebug | 20.00% | ~891 |
 | Nothing to Lose | 18.00% | ~802 |
 | I Choose You | 17.00% | ~757 |
@@ -25,12 +25,12 @@ Number of Ratings: 62  (23.09.2022)
 | Gear Up | 15.00% | ~668 |
 | SENTINEL | 15.00% | ~668 |
 | Core Power | 13.00% | ~579 |
-| The Black Cerberus | 12.00% | ~534 |
-| Watchman | 12.00% | ~534 |
+| The Black Cerberus | 12.00% | ~535 |
+| Watchman | 12.00% | ~535 |
 | CREO Killed the Video Star | 11.00% | ~490 |
 | Who's in Charge Here? | 11.00% | ~490 |
 | Shall Not Pass | 11.00% | ~490 |
-| Right Tool for the Job | 10.00% | ~445 |
+| Right Tool for the Job | 10.00% | ~446 |
 | Melting Down | 9.00% | ~401 |
 | Raging Drones | 9.00% | ~401 |
 | Overconfident | 9.00% | ~401 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,454 (Ranked 134)  
+Progressed: 4,455 (Ranked 134)  
 Completed: 14 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 14 (0.31%) (Ranked 142)
 | 2023-06-21 | 4,444 | 14 |
 | 2023-06-23 | 4,447 | 14 |
 | 2023-06-24 | 4,452 | 14 |
-| 2023-06-25 | 4,454 | 14 |
+| 2023-06-25 | 4,455 | 14 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 469)  
 Sum: 26 (Ranked 476)  

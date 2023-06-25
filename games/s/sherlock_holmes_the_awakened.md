@@ -16,7 +16,7 @@ Rating: 4.64 (Ranked 313)
 | Lock, Stock, And Barrel | 46.00% | ~228 |
 | Gaze Into The Abyss | 46.00% | ~228 |
 | Open Sesame | 46.00% | ~228 |
-| Sticky Fingers | 45.00% | ~223 |
+| Sticky Fingers | 46.00% | ~228 |
 | Knives Out | 45.00% | ~223 |
 | Back In The Saddle | 44.00% | ~218 |
 | Land, Ho! | 44.00% | ~218 |
@@ -30,7 +30,7 @@ Rating: 4.64 (Ranked 313)
 | Brain Food | 34.00% | ~168 |
 | No Stone Unturned | 33.00% | ~163 |
 | Curiosity Killed The Cat | 21.00% | ~104 |
-| Read It And Weep | 20.00% | ~99 |
+| Read It And Weep | 21.00% | ~104 |
 | Big Breakthrough | 15.00% | ~74 |
 | Reawakened | 6.00% | ~30 |
 ## Popularity (Based on EOS Achievements)

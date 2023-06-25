@@ -11,13 +11,13 @@
 | Have a good trip! | 67.00% | ~38 |
 | First Win | 63.00% | ~36 |
 | Settle Down | 63.00% | ~36 |
+| Kickball Unlocked | 61.00% | ~35 |
 | Stay Hydrated | 61.00% | ~35 |
-| Kickball Unlocked | 60.00% | ~34 |
 | Butter Fingers | 60.00% | ~34 |
 | True Story! | 33.00% | ~19 |
-| Bedroom Secret Spot | 30.00% | ~17 |
-| Grand Slam! | 28.00% | ~16 |
-| Kick It | 28.00% | ~16 |
+| Bedroom Secret Spot | 32.00% | ~18 |
+| Grand Slam! | 30.00% | ~17 |
+| Kick It | 30.00% | ~17 |
 | Have Mercy | 25.00% | ~14 |
 | Save some water for the fishies | 21.00% | ~12 |
 | Spooky | 21.00% | ~12 |

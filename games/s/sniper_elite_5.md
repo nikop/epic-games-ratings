@@ -27,8 +27,8 @@ Rating: 4.47 (Ranked 593)
 | Snake in the Grass | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
 | Set Europe Ablaze | 0.90% | ~28 |
+| Brains of the Operation | 0.90% | ~28 |
 | Climbing the Ladder | 0.80% | ~25 |
-| Brains of the Operation | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
 | Precision Is Key | 0.70% | ~22 |
 | My Little Friend | 0.70% | ~22 |

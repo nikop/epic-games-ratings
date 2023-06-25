@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~18,056 |
-| Thorough | 9.00% | ~16,250 |
-| A thief's beginning | 8.00% | ~14,444 |
-| Disguised | 7.00% | ~12,639 |
-| Rollin' | 7.00% | ~12,639 |
-| Tanuki Time | 7.00% | ~12,639 |
-| Chunin | 6.00% | ~10,833 |
-| Ice Ice Yuki | 6.00% | ~10,833 |
-| Jonin | 6.00% | ~10,833 |
-| Rescue Takuma | 6.00% | ~10,833 |
-| Stoned Ox | 6.00% | ~10,833 |
-| Yabu | 6.00% | ~10,833 |
+| Genin | 10.00% | ~18,057 |
+| Thorough | 9.00% | ~16,251 |
+| A thief's beginning | 8.00% | ~14,445 |
+| Disguised | 7.00% | ~12,640 |
+| Rollin' | 7.00% | ~12,640 |
+| Tanuki Time | 7.00% | ~12,640 |
+| Chunin | 6.00% | ~10,834 |
+| Ice Ice Yuki | 6.00% | ~10,834 |
+| Jonin | 6.00% | ~10,834 |
+| Rescue Takuma | 6.00% | ~10,834 |
+| Stoned Ox | 6.00% | ~10,834 |
+| Yabu | 6.00% | ~10,834 |
 | Flying Rocks | 5.00% | ~9,028 |
 | Happy Planning | 5.00% | ~9,028 |
 | Mugen Unchained | 5.00% | ~9,028 |
 | Warzone | 5.00% | ~9,028 |
-| Okkoto | 4.00% | ~7,222 |
-| Prisoners | 4.00% | ~7,222 |
-| Too Early | 4.00% | ~7,222 |
+| Okkoto | 4.00% | ~7,223 |
+| Prisoners | 4.00% | ~7,223 |
+| Too Early | 4.00% | ~7,223 |
 | Gear up | 3.00% | ~5,417 |
 | Happy little accidents | 3.00% | ~5,417 |
 | Noboru | 3.00% | ~5,417 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,806 |
 | The End | 1.00% | ~1,806 |
 | Undeserved Honor | 0.90% | ~1,625 |
-| When Cut Across the Neck | 0.80% | ~1,444 |
+| When Cut Across the Neck | 0.80% | ~1,445 |
 | High Five the Moon | 0.70% | ~1,264 |
 | The Cave | 0.60% | ~1,083 |
 | Merciful | 0.40% | ~722 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~181 |
 | Release the Kraken | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,556 (Ranked 56)  
+Progressed: 180,568 (Ranked 56)  
 Completed: 55 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 55 (0.03%) (Ranked 201)
 | 2023-06-22 | 179,480 | 55 |
 | 2023-06-23 | 179,805 | 55 |
 | 2023-06-24 | 180,217 | 55 |
-| 2023-06-25 | 180,556 | 55 |
+| 2023-06-25 | 180,568 | 55 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 182)  
 Sum: 4,689 (Ranked 128)  

@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,582 |
-| Sweet Sorrow | 18.00% | ~5,791 |
-| Rules the Waves | 17.00% | ~5,469 |
+| Sink Beneath the Waves | 36.00% | ~11,583 |
+| Sweet Sorrow | 18.00% | ~5,792 |
+| Rules the Waves | 17.00% | ~5,470 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,826 |
 | Rival | 14.00% | ~4,504 |
 | Correspondent | 12.00% | ~3,861 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~965 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~965 |
 | Come Closer | 3.00% | ~965 |
-| Roaring Rise | 2.00% | ~643 |
-| I am the Captain of my Soul | 2.00% | ~643 |
+| Roaring Rise | 2.00% | ~644 |
+| I am the Captain of my Soul | 2.00% | ~644 |
 | A buoyant escape | 1.00% | ~322 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~322 |
 | The Bell Tolls | 1.00% | ~322 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,172 (Ranked 91)  
+Progressed: 32,175 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-22 | 31,943 | 3 |
 | 2023-06-23 | 32,026 | 3 |
 | 2023-06-24 | 32,110 | 3 |
-| 2023-06-25 | 32,172 | 3 |
+| 2023-06-25 | 32,175 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 278 (Ranked 336)  

@@ -6124,10 +6124,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 29674,
       "NumberOfAwardsMax": 14277
+    },
+    {
+      "Time": "2023-06-25T19:59:53.0991916+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 29678,
+      "NumberOfAwardsMax": 14277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29674,
+  "NumberOfAwards": 29678,
   "NumberOfAwardsMax": 14277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6159,7 +6165,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2459
+      "Count": 2463
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6197,8 +6203,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2023-06-25T16:01:43.725418+00:00",
+  "LastChanged": "2023-06-25T19:59:53.0991912+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:24.8945131+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:01:49.4731547+00:00",
-  "LastUpdate_Achievements": "2023-06-25T19:02:51.858931+00:00"
+  "LastUpdate_Ratings": "2023-06-25T19:59:53.0991923+00:00",
+  "LastUpdate_Achievements": "2023-06-25T20:02:10.5955279+00:00"
 }
