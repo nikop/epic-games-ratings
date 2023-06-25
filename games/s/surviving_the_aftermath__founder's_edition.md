@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,815 |
-| Leader | 61.00% | ~4,137 |
-| Explorer | 53.00% | ~3,594 |
-| Healer | 53.00% | ~3,594 |
-| Aspiring Inventor | 44.00% | ~2,984 |
+| First Step | 71.00% | ~4,816 |
+| Leader | 61.00% | ~4,138 |
+| Explorer | 53.00% | ~3,595 |
+| Healer | 53.00% | ~3,595 |
+| Aspiring Inventor | 44.00% | ~2,985 |
 | Adventurer | 41.00% | ~2,781 |
-| Famous Healer | 38.00% | ~2,577 |
+| Famous Healer | 38.00% | ~2,578 |
 | Local Leader | 35.00% | ~2,374 |
 | Famous Explorer | 34.00% | ~2,306 |
 | New Opportunities | 34.00% | ~2,306 |
 | Energized | 33.00% | ~2,238 |
 | The Long Haul | 33.00% | ~2,238 |
-| The Great Healer | 31.00% | ~2,102 |
-| Survivor | 31.00% | ~2,102 |
+| Survivor | 32.00% | ~2,171 |
+| The Great Healer | 31.00% | ~2,103 |
 | Cleaner | 28.00% | ~1,899 |
 | Catastrofan | 28.00% | ~1,899 |
 | Legendary Explorer | 27.00% | ~1,831 |
-| Finders, Keepers | 26.00% | ~1,763 |
+| Finders, Keepers | 26.00% | ~1,764 |
 | Top Notch | 25.00% | ~1,696 |
 | Ice Lakes | 23.00% | ~1,560 |
 | Mentor | 23.00% | ~1,560 |
@@ -36,7 +36,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,085 |
 | Around the World | 16.00% | ~1,085 |
 | Spreading Influence | 16.00% | ~1,085 |
-| Bookworm | 14.00% | ~949 |
+| Bookworm | 14.00% | ~950 |
 | Famous Adventurer | 13.00% | ~882 |
 | Prepared for Anything | 13.00% | ~882 |
 | Big Catastrofan | 12.00% | ~814 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,782 (Ranked 123)  
+Progressed: 6,783 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 6,693 | 0 |
 | 2023-06-23 | 6,733 | 0 |
 | 2023-06-24 | 6,767 | 0 |
-| 2023-06-25 | 6,782 | 0 |
+| 2023-06-25 | 6,783 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
-Sum: 672 (Ranked 270)  
+Sum: 673 (Ranked 270)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 80 |
 | This game is Highly Recommended | 69 |
 | This game has Diverse Characters | 68 |
-| This game has Amazing Characters | 63 |
+| This game has Amazing Characters | 64 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 41 |
 ## Ratings History
@@ -247,3 +247,4 @@ Diff (max vs sum): 59
 | 2023-06-21 | 4.47 | - | 99 | 669 |
 | 2023-06-22 | 4.47 | - | 99 | 671 |
 | 2023-06-23 | 4.47 | - | 99 | 672 |
+| 2023-06-25 | 4.47 | - | 99 | 673 |

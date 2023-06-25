@@ -1,20 +1,20 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.70 (Ranked 196)  
+Rating: 4.70 (Ranked 197)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alt+F4 | 92.00% | ~189 |
-| Where's that freaking Dwarf? | 85.00% | ~174 |
+| Where's that freaking Dwarf? | 86.00% | ~176 |
 | Sock! SOCK! | 71.00% | ~146 |
 | Fireproof Wizardess | 57.00% | ~117 |
 | Livin' in a dwarven paradise | 55.00% | ~113 |
-| Déjà vu | 51.00% | ~105 |
+| Déjà vu | 52.00% | ~107 |
 | GG EZ | 48.00% | ~98 |
+| DM intervention | 47.00% | ~96 |
 | Way of the Wimp | 46.00% | ~94 |
-| DM intervention | 46.00% | ~94 |
 | Oh, when I'll be level 10... | 39.00% | ~80 |
 | Speedrun | 37.00% | ~76 |
 | Team Building Exercise | 34.00% | ~70 |
@@ -68,6 +68,7 @@ Number of Ratings: 118  (23.09.2022)
 | Take your time back in time | 2.00% | ~4 |
 | Deep changes | 2.00% | ~4 |
 | A broken clock… | 2.00% | ~4 |
+| Power struggle | 2.00% | ~4 |
 | Living legends of the Lands of Fangh | 2.00% | ~4 |
 | Death is for wimps | 2.00% | ~4 |
 | Demisemiquaver | 2.00% | ~4 |
@@ -78,7 +79,6 @@ Number of Ratings: 118  (23.09.2022)
 | Cute Dungeon | 1.00% | ~2 |
 | Mystical Dungeon | 1.00% | ~2 |
 | Gloomy Dungeon | 1.00% | ~2 |
-| Power struggle | 1.00% | ~2 |
 | And they lived happily ever after... | 1.00% | ~2 |
 | Star-crossed lovers | 1.00% | ~2 |
 | Pyrrhic victory | 1.00% | ~2 |

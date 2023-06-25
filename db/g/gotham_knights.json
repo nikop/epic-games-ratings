@@ -1730,9 +1730,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65958,
+  "EOS_Progressed": 65961,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7605,6 +7605,11 @@
       "Time": "2023-06-25T09:06:44.4632676+00:00",
       "NumProgressed": 65958,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-25T10:05:50.7718901+00:00",
+      "NumProgressed": 65961,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -7886,9 +7891,9 @@
       "ID": "GOTHAM_BATARANGS",
       "SetID": "4eo5ebm",
       "Name": "Batarang Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 132
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -7960,7 +7965,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3957
+      "UsersEstimate": 3958
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -8103,13 +8108,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65958,
+      "Progressed": 65961,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36238,
+      "Progressed": 36241,
       "Completed": 2647
     }
   ],
@@ -8117,8 +8122,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-24T14:01:12.6491036+00:00",
-  "LastChanged_Achievements": "2023-06-25T09:06:44.4632673+00:00",
+  "LastChanged_Achievements": "2023-06-25T10:05:50.7718893+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-25T09:00:22.8562608+00:00",
-  "LastUpdate_Achievements": "2023-06-25T09:06:44.4633391+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:59:36.8320086+00:00",
+  "LastUpdate_Achievements": "2023-06-25T10:05:50.7719875+00:00"
 }

@@ -9,10 +9,10 @@
 | In the treetops. | 21.00% | ~40 |
 | A turbulent river. | 21.00% | ~40 |
 | At the top of the mountain. | 17.00% | ~32 |
-| Aggressive rocks. | 16.00% | ~30 |
+| Aggressive rocks. | 17.00% | ~32 |
 | Dino Ride. | 15.00% | ~28 |
-| In the heart of the volcano. | 10.00% | ~19 |
-| Rocky fall. | 10.00% | ~19 |
+| In the heart of the volcano. | 11.00% | ~21 |
+| Rocky fall. | 11.00% | ~21 |
 | Swimming on a dino's back. | 9.00% | ~17 |
 | Dinosaur graveyard. | 9.00% | ~17 |
 | The mountain of peril. | 7.00% | ~13 |

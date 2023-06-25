@@ -6,25 +6,25 @@ Rating: 4.31 (Ranked 766)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~991 |
-| A new Journey | 72.00% | ~977 |
-| From X to Y | 71.00% | ~963 |
-| Departure | 71.00% | ~963 |
-| Way of Iron | 69.00% | ~936 |
-| Mystery Tour | 67.00% | ~909 |
+| A new Journey | 72.00% | ~978 |
+| From X to Y | 71.00% | ~964 |
+| Departure | 71.00% | ~964 |
+| Way of Iron | 69.00% | ~937 |
+| Mystery Tour | 67.00% | ~910 |
 | We brake for nobody | 66.00% | ~896 |
-| Brainstorm | 65.00% | ~882 |
-| Travel Company | 64.00% | ~868 |
-| Mind the Gap | 63.00% | ~855 |
+| Brainstorm | 65.00% | ~883 |
+| Travel Company | 64.00% | ~869 |
+| Mind the Gap | 63.00% | ~856 |
 | All around the World | 61.00% | ~828 |
 | Right through the middle | 56.00% | ~760 |
-| Facility Manager | 53.00% | ~719 |
-| Poor Devil | 53.00% | ~719 |
-| Producer | 50.00% | ~678 |
+| Facility Manager | 53.00% | ~720 |
+| Poor Devil | 53.00% | ~720 |
+| Producer | 50.00% | ~679 |
 | Apprentice | 42.00% | ~570 |
-| Bridge Builder | 41.00% | ~556 |
+| Bridge Builder | 41.00% | ~557 |
 | Access granted | 35.00% | ~475 |
-| Going once, going twice, sold | 34.00% | ~461 |
-| Stoker | 32.00% | ~434 |
+| Going once, going twice, sold | 34.00% | ~462 |
+| Stoker | 32.00% | ~435 |
 | Full Steam ahead | 31.00% | ~421 |
 | Bull and bear | 31.00% | ~421 |
 | All mine | 28.00% | ~380 |
@@ -41,8 +41,8 @@ Rating: 4.31 (Ranked 766)
 | Traffic Jam | 17.00% | ~231 |
 | Assimilated | 16.00% | ~217 |
 | Locusts | 16.00% | ~217 |
+| Networker | 16.00% | ~217 |
 | Resistance is futile | 15.00% | ~204 |
-| Networker | 15.00% | ~204 |
 | Max Power | 12.00% | ~163 |
 | Settler | 12.00% | ~163 |
 | Go West | 11.00% | ~149 |
@@ -61,7 +61,7 @@ Rating: 4.31 (Ranked 766)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 169)  
+Progressed: 1,358 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 1,325 | 0 |
 | 2023-06-23 | 1,340 | 0 |
 | 2023-06-24 | 1,353 | 0 |
-| 2023-06-25 | 1,357 | 0 |
+| 2023-06-25 | 1,358 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

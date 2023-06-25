@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,957 |
+| First Step Into the Knight | 6.00% | ~3,958 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,638 |
 | Loose Ends | 4.00% | ~2,638 |
 | The Batman Family | 3.00% | ~1,979 |
@@ -53,6 +53,7 @@ Rating: 4.17 (Ranked 856)
 | The Cold, the Bad and the Ugly | 0.20% | ~72 |
 | Talonted | 0.20% | ~132 |
 | The Man-Bat Family | 0.20% | ~132 |
+| Batarang Collector | 0.20% | ~132 |
 | Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
 | Gotham's Greatest Depths | 0.10% | ~36 |
@@ -60,14 +61,13 @@ Rating: 4.17 (Ranked 856)
 | That's Showbiz, Clayby | 0.10% | ~36 |
 | Icebreaker | 0.10% | ~36 |
 | Don't Mecha Big Deal About It | 0.10% | ~36 |
-| Batarang Collector | 0.10% | ~66 |
 | Read Owl About It | 0.10% | ~66 |
 | History Major | 0.10% | ~66 |
 | Claiming the Mural High Ground | 0.10% | ~66 |
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,958 (Ranked 72)  
+Progressed: 65,961 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,958 | 98 |
+| 2023-06-25 | 65,961 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

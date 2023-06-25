@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -3995,9 +3995,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1835
     },
     {
       "ID": "Ach032",
@@ -4258,8 +4258,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-25T09:06:45.6824735+00:00",
+  "LastChanged_Achievements": "2023-06-25T10:05:52.0863985+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:24.1348277+00:00",
-  "LastUpdate_Ratings": "2023-06-25T08:59:01.3706407+00:00",
-  "LastUpdate_Achievements": "2023-06-25T09:06:45.682533+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:58:31.1248359+00:00",
+  "LastUpdate_Achievements": "2023-06-25T10:05:52.0864829+00:00"
 }

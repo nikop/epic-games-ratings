@@ -2,12 +2,12 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 196,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1165,9 +1165,9 @@
       "ID": "Chapter1",
       "SetID": "50chcgj",
       "Name": "D\u00E9j\u00E0 vu",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "Chapter2",
@@ -1437,9 +1437,9 @@
       "ID": "DLC3RangerAgentX15Support",
       "SetID": "50p8kh1",
       "Name": "Power struggle",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC3Sleep10Enemies",
@@ -1517,9 +1517,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "DwarfElf15Support",
@@ -1589,9 +1589,9 @@
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "EndGameCursed",
@@ -1835,8 +1835,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-25T09:06:07.5927142+00:00",
+  "LastChanged_Achievements": "2023-06-25T10:05:19.0709717+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-25T08:59:32.9759903+00:00",
-  "LastUpdate_Achievements": "2023-06-25T09:06:07.592797+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:58:56.9525606+00:00",
+  "LastUpdate_Achievements": "2023-06-25T10:05:19.0710825+00:00"
 }

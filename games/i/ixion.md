@@ -5,10 +5,10 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 20.00% | ~546 |
+| Wakey Wakey | 19.00% | ~519 |
 | Sputnik 2049 | 17.00% | ~464 |
-| Without Breaking Some Eggs... | 16.00% | ~436 |
-| Infinite Growth... | 16.00% | ~436 |
+| Without Breaking Some Eggs... | 16.00% | ~437 |
+| Infinite Growth... | 16.00% | ~437 |
 | Space Society | 11.00% | ~300 |
 | A Thousand Strong | 11.00% | ~300 |
 | Ready for a New World | 11.00% | ~300 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | Suburban Perfection | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,728 (Ranked 151)  
+Progressed: 2,729 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 2,711 | 0 |
 | 2023-06-23 | 2,718 | 0 |
 | 2023-06-24 | 2,726 | 0 |
-| 2023-06-25 | 2,728 | 0 |
+| 2023-06-25 | 2,729 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

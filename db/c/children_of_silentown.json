@@ -346,9 +346,9 @@
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "Secret",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-25T09:06:40.7351607+00:00",
+  "LastChanged_Achievements": "2023-06-25T10:05:47.5803721+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-25T09:00:43.4351112+00:00",
-  "LastUpdate_Achievements": "2023-06-25T09:06:40.7351754+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:59:53.1829392+00:00",
+  "LastUpdate_Achievements": "2023-06-25T10:05:47.5803927+00:00"
 }

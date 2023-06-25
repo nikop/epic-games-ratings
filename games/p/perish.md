@@ -25,18 +25,18 @@
 | Eidola | 3.00% | ~91 |
 | Divine Assemblage | 3.00% | ~91 |
 | Ophiolatreia | 3.00% | ~91 |
-| Comedy and Tragedy | 2.00% | ~60 |
-| Forged in Fire | 2.00% | ~60 |
-| Chthonic Investor | 2.00% | ~60 |
-| First Fragment | 2.00% | ~60 |
-| Hapax Legomenon | 2.00% | ~60 |
-| Labour of Apollo | 2.00% | ~60 |
-| Vandili | 2.00% | ~60 |
-| Cloaca Maxima | 2.00% | ~60 |
-| Halls of Marble | 2.00% | ~60 |
-| Mors Omnibus | 2.00% | ~60 |
-| Blot Out the Sky | 2.00% | ~60 |
-| Serpentine | 2.00% | ~60 |
+| Comedy and Tragedy | 2.00% | ~61 |
+| Forged in Fire | 2.00% | ~61 |
+| Chthonic Investor | 2.00% | ~61 |
+| First Fragment | 2.00% | ~61 |
+| Hapax Legomenon | 2.00% | ~61 |
+| Labour of Apollo | 2.00% | ~61 |
+| Vandili | 2.00% | ~61 |
+| Cloaca Maxima | 2.00% | ~61 |
+| Halls of Marble | 2.00% | ~61 |
+| Mors Omnibus | 2.00% | ~61 |
+| Blot Out the Sky | 2.00% | ~61 |
+| Serpentine | 2.00% | ~61 |
 | The Nameless One | 1.00% | ~30 |
 | Wayward Son of Hephaestus | 1.00% | ~30 |
 | Lament of the Constellations | 1.00% | ~30 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,025 (Ranked 145)  
+Progressed: 3,026 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-21 | 3,010 | 0 |
 | 2023-06-22 | 3,015 | 0 |
 | 2023-06-24 | 3,024 | 0 |
-| 2023-06-25 | 3,025 | 0 |
+| 2023-06-25 | 3,026 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

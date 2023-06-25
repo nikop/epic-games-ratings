@@ -10,9 +10,9 @@ Rating: 4.56 (Ranked 456)
 | Burn, Elysium, burn! | 62.00% | ~226 |
 | Kuvaq Minigame-Master | 61.00% | ~222 |
 | FunScore | 55.00% | ~200 |
-| Funtime's over | 52.00% | ~189 |
+| Funtime's over | 53.00% | ~193 |
 | Chunky | 50.00% | ~182 |
-| Shall we play a game? | 48.00% | ~175 |
+| Shall we play a game? | 49.00% | ~178 |
 | Boat of love, boat of love | 48.00% | ~175 |
 | School's out | 43.00% | ~157 |
 | Scaffolding Expert | 37.00% | ~135 |
