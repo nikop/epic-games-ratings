@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Volley Pals](games/v/volley_pals.md) | 32.43% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.67% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.67% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 31.58% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -9,9 +9,9 @@
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 20.00% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.27% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.79% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.46% |
+| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
 | 13 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 14 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 14 | [Remains](games/r/remains.md) | 12.50% |
@@ -54,7 +54,7 @@
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
-| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.97% |
+| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.96% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
@@ -88,8 +88,8 @@
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
-| 89 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.28% |
-| 90 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
+| 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
+| 89 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.27% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
@@ -98,7 +98,7 @@
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
 | 98 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
-| 99 | [Sable](games/s/sable.md) | 0.96% |
+| 99 | [Sable](games/s/sable.md) | 0.95% |
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
@@ -109,7 +109,7 @@
 | 106 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 108 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
 | 109 | [Haven](games/h/haven.md) | 0.69% |
-| 109 | [Them and Us](games/t/them_and_us.md) | 0.69% |
+| 110 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 111 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 111 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
 | 113 | [Train Valley](games/t/train_valley.md) | 0.66% |
@@ -124,8 +124,8 @@
 | 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
-| 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
+| 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 127 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 128 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.43% |
