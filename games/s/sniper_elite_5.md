@@ -31,12 +31,12 @@ Rating: 4.47 (Ranked 593)
 | Brains of the Operation | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
 | Precision Is Key | 0.70% | ~22 |
+| My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
-| My Little Friend | 0.60% | ~19 |
+| Rigged to Blow | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
-| Rigged to Blow | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |

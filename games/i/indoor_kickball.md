@@ -9,29 +9,29 @@
 | Character Unlocked | 81.00% | ~46 |
 | Homer | 67.00% | ~38 |
 | Have a good trip! | 67.00% | ~38 |
+| First Win | 63.00% | ~36 |
 | Settle Down | 63.00% | ~36 |
-| First Win | 61.00% | ~35 |
 | Stay Hydrated | 61.00% | ~35 |
 | Kickball Unlocked | 60.00% | ~34 |
 | Butter Fingers | 60.00% | ~34 |
-| True Story! | 32.00% | ~18 |
+| True Story! | 33.00% | ~19 |
 | Bedroom Secret Spot | 30.00% | ~17 |
 | Grand Slam! | 28.00% | ~16 |
 | Kick It | 28.00% | ~16 |
 | Have Mercy | 25.00% | ~14 |
+| Save some water for the fishies | 21.00% | ~12 |
 | Spooky | 21.00% | ~12 |
-| Save some water for the fishies | 19.00% | ~11 |
 | Classroom Secret Spot | 18.00% | ~10 |
 | Bathroom Secret Spot | 18.00% | ~10 |
 | At least everyone still had fun | 16.00% | ~9 |
-| Living Room Secret Spot | 12.00% | ~7 |
+| Living Room Secret Spot | 14.00% | ~8 |
 | Angry Dad | 12.00% | ~7 |
 | Just how we drew it up | 9.00% | ~5 |
+| Hi Hungry, I'm Dad | 7.00% | ~4 |
+| Angry Mom | 7.00% | ~4 |
 | Interference | 7.00% | ~4 |
 | Kitchen Secret Spot | 5.00% | ~3 |
 | You broke it, you bought it | 5.00% | ~3 |
-| Hi Hungry, I'm Dad | 5.00% | ~3 |
-| Angry Mom | 5.00% | ~3 |
 | Attic Secret Spot | 4.00% | ~2 |
 | Basement Secret Spot | 4.00% | ~2 |
 | Found the Secret Formula! | 4.00% | ~2 |

@@ -26,8 +26,8 @@
 | Good choice | 14.00% | ~8 |
 | Take the long way round | 14.00% | ~8 |
 | Born again | 10.00% | ~6 |
+| He who seeks, finds! | 10.00% | ~6 |
 | 373 | 8.00% | ~5 |
-| He who seeks, finds! | 8.00% | ~5 |
 | The experiment | 7.00% | ~4 |
 | Matthew's revenge | 7.00% | ~4 |
 | Horror book | 3.00% | ~2 |

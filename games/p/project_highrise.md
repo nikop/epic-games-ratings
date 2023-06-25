@@ -9,18 +9,18 @@
 | Grime is Not Good | 45.00% | ~103 |
 | Campaign Launch | 39.00% | ~89 |
 | Floor Galore | 37.00% | ~84 |
-| Dinner Dash | 36.00% | ~82 |
+| Dinner Dash | 37.00% | ~84 |
 | Need a Consult | 34.00% | ~78 |
 | It's Technical | 34.00% | ~78 |
 | Upgrade Unlock | 32.00% | ~73 |
 | Delegate Maintenance | 32.00% | ~73 |
 | Proper Walls | 30.00% | ~68 |
 | Destination Destiny | 27.00% | ~62 |
-| Happy Tenants | 24.00% | ~55 |
-| Your Prestige is Rising | 22.00% | ~50 |
-| Potent Potables | 22.00% | ~50 |
+| Happy Tenants | 25.00% | ~57 |
+| Your Prestige is Rising | 23.00% | ~52 |
+| Potent Potables | 23.00% | ~52 |
+| Smooth Service | 23.00% | ~52 |
 | Retail Revenue | 22.00% | ~50 |
-| Smooth Service | 22.00% | ~50 |
 | Lux Living | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |

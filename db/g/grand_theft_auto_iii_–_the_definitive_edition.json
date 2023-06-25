@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6828,
+  "EOS_Progressed": 6829,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4879,6 +4879,11 @@
       "Time": "2023-06-25T18:02:31.9786684+00:00",
       "NumProgressed": 6828,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-25T19:03:15.3443372+00:00",
+      "NumProgressed": 6829,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4890,7 +4895,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "ACH02",
@@ -4898,7 +4903,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "ACH03",
@@ -4914,7 +4919,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "ACH05",
@@ -4994,7 +4999,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH15",
@@ -5121,7 +5126,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6828,
+      "Progressed": 6829,
       "Completed": 39
     }
   ],
@@ -5129,8 +5134,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-25T18:02:31.9786679+00:00",
+  "LastChanged_Achievements": "2023-06-25T19:03:15.3443365+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-25T17:57:57.0045851+00:00",
-  "LastUpdate_Achievements": "2023-06-25T18:02:31.978705+00:00"
+  "LastUpdate_Ratings": "2023-06-25T18:58:47.1175401+00:00",
+  "LastUpdate_Achievements": "2023-06-25T19:03:15.3444172+00:00"
 }

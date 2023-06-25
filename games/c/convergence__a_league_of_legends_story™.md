@@ -15,6 +15,7 @@
 | Make Up For Lost Time | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
+| Like Clockwork | 11.00% | ~79 |
 | The Man Who Shattered Time | 11.00% | ~79 |
 | Time Flies | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
@@ -29,7 +30,6 @@
 | The Brass Boss | 11.00% | ~79 |
 | The Family Fortune | 11.00% | ~79 |
 | Right On Time | 10.00% | ~72 |
-| Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
 | Whiz Kid | 9.00% | ~65 |
 | Chaincrawler Explorer | 8.00% | ~58 |

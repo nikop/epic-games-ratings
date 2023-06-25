@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5126,
+  "EOS_Progressed": 5127,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -625,6 +625,11 @@
       "Time": "2023-06-23T16:06:16.1662525+00:00",
       "NumProgressed": 5126,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-06-25T19:02:45.5317313+00:00",
+      "NumProgressed": 5127,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -692,7 +697,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -764,7 +769,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -772,7 +777,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -780,7 +785,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -828,7 +833,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -844,7 +849,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -852,7 +857,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -868,7 +873,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -876,7 +881,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -908,7 +913,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -924,7 +929,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1012,7 +1017,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1020,22 +1025,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3640
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5126,
+      "Progressed": 5127,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-25T18:02:10.7502233+00:00",
+  "LastChanged_Achievements": "2023-06-25T19:02:45.5317307+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.9943738+00:00",
-  "LastUpdate_Ratings": "2023-06-25T17:59:52.0847912+00:00",
-  "LastUpdate_Achievements": "2023-06-25T18:02:10.7502588+00:00"
+  "LastUpdate_Ratings": "2023-06-25T19:01:39.1782163+00:00",
+  "LastUpdate_Achievements": "2023-06-25T19:02:45.5317844+00:00"
 }

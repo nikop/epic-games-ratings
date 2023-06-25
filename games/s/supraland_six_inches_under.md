@@ -14,10 +14,10 @@ Number of Ratings: 209  (23.09.2022)
 | Knee bending | 96.00% | ~2,037 |
 | Pickaxe | 94.00% | ~1,995 |
 | Revenge | 94.00% | ~1,995 |
+| Cage Town | 94.00% | ~1,995 |
 | Force Beam | 93.00% | ~1,973 |
 | Entered Cage Town | 93.00% | ~1,973 |
 | Stone Pickaxe | 93.00% | ~1,973 |
-| Cage Town | 93.00% | ~1,973 |
 | Surprise | 93.00% | ~1,973 |
 | Magnet | 90.00% | ~1,910 |
 | Industrial Area | 89.00% | ~1,889 |

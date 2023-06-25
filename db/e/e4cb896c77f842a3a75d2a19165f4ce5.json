@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -666,6 +666,11 @@
       "Time": "2023-06-25T18:03:36.3349607+00:00",
       "NumProgressed": 301,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-25T19:04:13.0496967+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -677,7 +682,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "LEVEL_003",
@@ -685,23 +690,23 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 217
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "LEVEL_012",
@@ -709,7 +714,7 @@
       "Name": "Poultry house",
       "Percentage": 27,
       "XP": 95,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_017",
@@ -764,14 +769,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-25T18:03:36.3349603+00:00",
+  "LastChanged_Achievements": "2023-06-25T19:04:13.049696+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-25T17:57:09.3610112+00:00",
-  "LastUpdate_Achievements": "2023-06-25T18:03:36.3349711+00:00"
+  "LastUpdate_Ratings": "2023-06-25T18:57:32.0309755+00:00",
+  "LastUpdate_Achievements": "2023-06-25T19:04:13.0497134+00:00"
 }

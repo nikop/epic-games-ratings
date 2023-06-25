@@ -1,52 +1,52 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 517)  
+Rating: 4.52 (Ranked 518)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 4.00% | ~24,115 |
-| Resurgence | 4.00% | ~24,115 |
-| Wounded Healer | 3.00% | ~18,086 |
-| Close Shave | 3.00% | ~18,086 |
-| Preemptive Strike | 3.00% | ~18,086 |
-| Humanitarian | 3.00% | ~18,086 |
-| Unforgettable Getaway | 2.00% | ~12,057 |
-| First to the Punch | 2.00% | ~12,057 |
-| Operation: Survival | 2.00% | ~12,057 |
-| Old West Oasis | 2.00% | ~12,057 |
-| Classy Act | 2.00% | ~12,057 |
-| Every Last Drop | 2.00% | ~12,057 |
-| Raccoon City Recruit | 2.00% | ~12,057 |
-| With Scars to Show | 2.00% | ~12,057 |
-| Flight to Freedom | 2.00% | ~12,057 |
-| A Fast Death | 2.00% | ~12,057 |
-| Chorus of Chaos | 2.00% | ~12,057 |
-| Ancestor's Rite | 1.00% | ~6,029 |
-| Devoted Gatekeeping | 1.00% | ~6,029 |
-| Shrine Apparatus | 1.00% | ~6,029 |
-| Cutting Out | 1.00% | ~6,029 |
-| Outrun Evil | 1.00% | ~6,029 |
-| Broken Bodies | 1.00% | ~6,029 |
-| Grim Pilgrimage | 1.00% | ~6,029 |
-| Selfless Survival | 1.00% | ~6,029 |
-| End of Days | 1.00% | ~6,029 |
-| Insult and Injury | 1.00% | ~6,029 |
-| Outrun the Overlap | 1.00% | ~6,029 |
-| Lifting The Fog | 1.00% | ~6,029 |
-| Rebuilding The Borgo | 0.90% | ~5,426 |
-| I See You | 0.80% | ~4,823 |
-| Hack the Mainframe | 0.80% | ~4,823 |
-| Heavy Burden | 0.70% | ~4,220 |
-| Power Moves | 0.70% | ~4,220 |
-| Punch Drunk | 0.70% | ~4,220 |
-| Prowler | 0.70% | ~4,220 |
-| High Speed Pursuit | 0.70% | ~4,220 |
-| Triage | 0.60% | ~3,617 |
-| Death of Ignorance | 0.50% | ~3,014 |
-| Deranged Pursuit | 0.40% | ~2,411 |
-| Denied! | 0.40% | ~2,411 |
+| Healthy Obsession | 4.00% | ~24,127 |
+| Resurgence | 4.00% | ~24,127 |
+| Wounded Healer | 3.00% | ~18,095 |
+| Close Shave | 3.00% | ~18,095 |
+| Preemptive Strike | 3.00% | ~18,095 |
+| Humanitarian | 3.00% | ~18,095 |
+| Unforgettable Getaway | 2.00% | ~12,063 |
+| Cutting Out | 2.00% | ~12,063 |
+| First to the Punch | 2.00% | ~12,063 |
+| Operation: Survival | 2.00% | ~12,063 |
+| Old West Oasis | 2.00% | ~12,063 |
+| Classy Act | 2.00% | ~12,063 |
+| Every Last Drop | 2.00% | ~12,063 |
+| Raccoon City Recruit | 2.00% | ~12,063 |
+| With Scars to Show | 2.00% | ~12,063 |
+| Flight to Freedom | 2.00% | ~12,063 |
+| A Fast Death | 2.00% | ~12,063 |
+| Chorus of Chaos | 2.00% | ~12,063 |
+| Ancestor's Rite | 1.00% | ~6,032 |
+| Devoted Gatekeeping | 1.00% | ~6,032 |
+| Shrine Apparatus | 1.00% | ~6,032 |
+| Outrun Evil | 1.00% | ~6,032 |
+| Broken Bodies | 1.00% | ~6,032 |
+| Grim Pilgrimage | 1.00% | ~6,032 |
+| Selfless Survival | 1.00% | ~6,032 |
+| End of Days | 1.00% | ~6,032 |
+| Insult and Injury | 1.00% | ~6,032 |
+| Outrun the Overlap | 1.00% | ~6,032 |
+| Lifting The Fog | 1.00% | ~6,032 |
+| Rebuilding The Borgo | 0.90% | ~5,428 |
+| I See You | 0.80% | ~4,825 |
+| Hack the Mainframe | 0.80% | ~4,825 |
+| Heavy Burden | 0.70% | ~4,222 |
+| Power Moves | 0.70% | ~4,222 |
+| Punch Drunk | 0.70% | ~4,222 |
+| Prowler | 0.70% | ~4,222 |
+| High Speed Pursuit | 0.70% | ~4,222 |
+| Triage | 0.60% | ~3,619 |
+| Death of Ignorance | 0.50% | ~3,016 |
+| Deranged Pursuit | 0.40% | ~2,413 |
+| Denied! | 0.40% | ~2,413 |
 | Dismantle | 0.30% | ~1,809 |
 | Left For Dead | 0.30% | ~1,809 |
 | Bodyguard | 0.30% | ~1,809 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~603 |
 | Adept Gabriel | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602,871 (Ranked 24)  
+Progressed: 603,164 (Ranked 24)  
 Completed: 42 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 42 (0.01%) (Ranked 217)
 | 2023-06-22 | 590,230 | 42 |
 | 2023-06-23 | 594,541 | 42 |
 | 2023-06-24 | 599,314 | 42 |
-| 2023-06-25 | 602,871 | 42 |
+| 2023-06-25 | 603,164 | 42 |
 ## Awards
 Max (Diverse Characters): 29,027  (Ranked 15)  
 Sum: 231,054 (Ranked 12)  

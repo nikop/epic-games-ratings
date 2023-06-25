@@ -46,8 +46,8 @@ Rating: 4.33 (Ranked 753)
 | Max Power | 12.00% | ~164 |
 | Settler | 12.00% | ~164 |
 | Go West | 11.00% | ~150 |
+| A new Hope | 9.00% | ~123 |
 | Bold and beautiful | 9.00% | ~123 |
-| A new Hope | 8.00% | ~109 |
 | Tycoon | 8.00% | ~109 |
 | Unstoppable | 6.00% | ~82 |
 | Track to the Future | 6.00% | ~82 |
