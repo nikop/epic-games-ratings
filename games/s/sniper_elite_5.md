@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,6 +57,7 @@ Rating: 4.47 (Ranked 593)
 | Fight Another Day | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
+| The Long Game | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
@@ -70,7 +71,6 @@ Rating: 4.47 (Ranked 593)
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| The Long Game | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Das Familienjuwel | 0.10% | ~3 |

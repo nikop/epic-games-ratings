@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 144,
@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 3121,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4475,9 +4475,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -4914,8 +4914,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:07:45.5409201+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:06:20.9038479+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:01:50.2982397+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:07:45.5410881+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:00:37.1637381+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:06:20.9039243+00:00"
 }

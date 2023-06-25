@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 27343,
+  "EOS_Progressed": 27347,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7156,6 +7156,11 @@
       "Time": "2023-06-25T05:07:30.0138758+00:00",
       "NumProgressed": 27343,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-25T06:06:09.0090368+00:00",
+      "NumProgressed": 27347,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -7167,7 +7172,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -7317,9 +7322,9 @@
       "ID": "ACH_21_CRITICAL_STRIKES",
       "SetID": "443p4o4",
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -7398,7 +7403,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 27343,
+      "Progressed": 27347,
       "Completed": 20
     }
   ],
@@ -7406,8 +7411,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:07:30.0138752+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:06:09.0090363+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.3095704+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:01:10.5398474+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:07:30.0139506+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:00:08.3503353+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:06:09.0090886+00:00"
 }

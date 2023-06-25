@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 61.00% | ~81 |
-| Aspairagus | 58.00% | ~48 |
-| Survivor | 50.00% | ~41 |
-| First Blood | 45.00% | ~59 |
+| Seeds of War | 60.00% | ~80 |
+| Aspairagus | 57.00% | ~47 |
+| Survivor | 50.00% | ~42 |
+| First Blood | 45.00% | ~60 |
 | Triple Kill | 43.00% | ~57 |
-| I Believe I Can Fly | 39.00% | ~51 |
+| I Believe I Can Fly | 39.00% | ~52 |
 | Early Survivor | 39.00% | ~32 |
 | No Asperascope | 37.00% | ~49 |
 | Cornivore | 37.00% | ~49 |
-| No Diggity | 37.00% | ~30 |
+| No Diggity | 37.00% | ~31 |
 | Amateur Survivor | 28.00% | ~23 |
-| Bouncemato | 27.00% | ~22 |
+| Bouncemato | 26.00% | ~22 |
 | Quick-Draw Pod | 21.00% | ~17 |
-| 15K | 20.00% | ~26 |
-| 10K | 20.00% | ~26 |
-| Professional Survivor | 20.00% | ~16 |
+| 15K | 20.00% | ~27 |
+| 10K | 20.00% | ~27 |
+| Professional Survivor | 20.00% | ~17 |
 | This Is My Boomstick | 17.00% | ~14 |
 | Drinking Problem | 16.00% | ~21 |
 | Grave Digger | 16.00% | ~13 |
-| Summers Here | 14.00% | ~11 |
+| Summers Here | 14.00% | ~12 |
 | Carrocketeer | 12.00% | ~16 |
 | Skin Of Your Teeth | 11.00% | ~15 |
 | Pork Chop Express | 11.00% | ~15 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 279)  
+Progressed: 133 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-18 | 128 | 0 |
 | 2023-06-20 | 130 | 0 |
 | 2023-06-22 | 132 | 0 |
+| 2023-06-25 | 133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

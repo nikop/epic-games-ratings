@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,7 +196,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10153,
+  "EOS_Progressed": 10155,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -1071,6 +1071,11 @@
       "Time": "2023-06-25T02:44:17.9600416+00:00",
       "NumProgressed": 10153,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-25T06:06:07.5240358+00:00",
+      "NumProgressed": 10155,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1090,7 +1095,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1130,7 +1135,7 @@
       "Name": "car wash",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1160,9 +1165,9 @@
       "ID": "ACH_COLLECTIBLES_NORWAY",
       "SetID": "9002fpg",
       "Name": "viking",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 711
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_COLLECTIBLES_SARDINIA",
@@ -1170,7 +1175,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1218,7 +1223,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1226,7 +1231,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1242,7 +1247,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7818
+      "UsersEstimate": 7819
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1274,7 +1279,7 @@
       "Name": "where is the stage?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1290,7 +1295,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1306,7 +1311,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9747
+      "UsersEstimate": 9749
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1322,7 +1327,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5990
+      "UsersEstimate": 5991
     },
     {
       "ID": "ACH_NIGHT",
@@ -1354,7 +1359,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -1370,7 +1375,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "ACH_SNOW",
@@ -1418,22 +1423,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7312
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10153,
+      "Progressed": 10155,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:07:27.9055252+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:06:07.5240355+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:51.7788575+00:00",
-  "LastUpdate_Ratings": "2023-06-25T04:57:53.9187666+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:07:27.9055651+00:00"
+  "LastUpdate_Ratings": "2023-06-25T05:57:50.2956642+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:06:07.5240643+00:00"
 }

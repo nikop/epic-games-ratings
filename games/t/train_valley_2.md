@@ -16,11 +16,11 @@ Number of Ratings: 87  (23.09.2022)
 | Close call! | 5.00% | ~37 |
 | Common cause | 5.00% | ~37 |
 | Get out my way | 5.00% | ~37 |
+| Just in time! | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
 | Need to think | 5.00% | ~37 |
 | Builder | 4.00% | ~30 |
 | Critical care | 4.00% | ~30 |
-| Just in time! | 4.00% | ~30 |
 | Miner | 4.00% | ~3 |
 | Multilevel road | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~3 |

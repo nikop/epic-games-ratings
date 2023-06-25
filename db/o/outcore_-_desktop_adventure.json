@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -165,9 +165,9 @@
       "ID": "GoodBoy",
       "SetID": "7ejh407",
       "Name": "Good boy",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HighStriker",
@@ -300,8 +300,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:04:17.8100574+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:03:53.7207511+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:46.1344356+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:00:49.1472474+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:04:17.8100788+00:00"
+  "LastUpdate_Ratings": "2023-06-25T05:59:52.7902883+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:03:53.7207662+00:00"
 }

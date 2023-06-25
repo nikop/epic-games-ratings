@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tutorial Completed | 6.00% | ~419 |
+| Supermart Heisted | 3.00% | ~209 |
 | Supermart Objectives Complete | 2.00% | ~140 |
-| Supermart Heisted | 2.00% | ~140 |
 | Sewer Objectives Complete | 1.00% | ~70 |
 | Bank Heisted | 0.50% | ~35 |
 | Crocodile Maxed Out | 0.20% | ~14 |

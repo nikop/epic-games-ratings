@@ -729,7 +729,7 @@
   ],
   "EOS_Progressed": 7384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4748,9 +4748,9 @@
       "ID": "ACH_HACKS_IN_STACKS",
       "SetID": "97mcd7i",
       "Name": "Hacks In Stacks",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3987
+      "UsersEstimate": 4061
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -5044,8 +5044,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-26T11:57:59.7944238+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:05:23.8566741+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:04:40.6250181+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:09.9556093+00:00",
-  "LastUpdate_Ratings": "2023-06-25T04:59:09.9070761+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:05:23.8567883+00:00"
+  "LastUpdate_Ratings": "2023-06-25T05:58:42.8718857+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:04:40.625063+00:00"
 }

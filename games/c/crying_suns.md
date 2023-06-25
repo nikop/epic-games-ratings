@@ -7,9 +7,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shutdown | 0.40% | ~1,846 |
-| Second Coming | 0.30% | ~1,384 |
-| Jeef Skeejj | 0.30% | ~1,384 |
-| Careful planning | 0.30% | ~1,384 |
+| Second Coming | 0.30% | ~1,385 |
+| Jeef Skeejj | 0.30% | ~1,385 |
+| Careful planning | 0.30% | ~1,385 |
 | Knightmare Frames | 0.20% | ~923 |
 | In space, no one can hear you scream | 0.20% | ~923 |
 | Chapter I: Echoes | 0.20% | ~923 |
@@ -18,59 +18,59 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jeef Skagg | 0.20% | ~923 |
 | Plan for the worst | 0.20% | ~923 |
 | Excelsior Rule | 0.20% | ~923 |
-| May His passing cleanse the world | 0.10% | ~461 |
-| Chapter II: Fallible Flesh | 0.10% | ~461 |
-| Chapter III: The Man Who Sold the World | 0.10% | ~461 |
-| Chapter IV: Through the Looking Glass | 0.10% | ~461 |
-| Chapter V: Memories of None | 0.10% | ~461 |
-| A Rock in the Dark | 0.10% | ~461 |
-| Emperor of Misery | 0.10% | ~461 |
-| A Frozen Lady | 0.10% | ~461 |
-| Kill the Doctor | 0.10% | ~461 |
-| Forsaken | 0.10% | ~461 |
-| Through the mirror | 0.10% | ~461 |
-| Meet your maker | 0.10% | ~461 |
-| Admiral Okonkwo | 0.10% | ~461 |
-| The Survivalists | 0.10% | ~461 |
-| Tetsuo | 0.10% | ~461 |
-| General Vivar | 0.10% | ~461 |
-| Pope Zenon | 0.10% | ~461 |
-| Back to Ganyma | 0.10% | ~461 |
-| Mercy | 0.10% | ~461 |
-| The Impersonator | 0.10% | ~461 |
-| The Kid | 0.10% | ~461 |
-| The Evangelist | 0.10% | ~461 |
-| The Inquisitor | 0.10% | ~461 |
-| The Tech Specialist | 0.10% | ~461 |
-| The Ace Pilot | 0.10% | ~461 |
-| The Tech Med | 0.10% | ~461 |
-| The Mech Soldier | 0.10% | ~461 |
-| The lucky charm | 0.10% | ~461 |
-| The Anonymous | 0.10% | ~461 |
-| The Smuggler | 0.10% | ~461 |
-| The Crazy Repairman | 0.10% | ~461 |
-| The Weasel | 0.10% | ~461 |
-| Liberator | 0.10% | ~461 |
-| The Art of War | 0.10% | ~461 |
-| Geno Mastery | 0.10% | ~461 |
-| Geno Supremacy | 0.10% | ~461 |
-| Jericho Mastery | 0.10% | ~461 |
-| Jericho Supremacy | 0.10% | ~461 |
-| Hammer Mastery | 0.10% | ~461 |
-| Hammer Supremacy | 0.10% | ~461 |
-| Void Mastery | 0.10% | ~461 |
-| Void Supremacy | 0.10% | ~461 |
-| Kaos Mastery | 0.10% | ~461 |
-| Kaos Supremacy | 0.10% | ~461 |
-| Excelsior Mastery | 0.10% | ~461 |
-| Excelsior Supremacy | 0.10% | ~461 |
-| Survivor | 0.10% | ~461 |
-| The greatest admiral of all time | 0.10% | ~461 |
-| Geno Rule | 0.10% | ~461 |
-| Jericho Rule | 0.10% | ~461 |
-| Hammer Rule | 0.10% | ~461 |
-| Void Rule | 0.10% | ~461 |
-| Kaos Rule | 0.10% | ~461 |
+| May His passing cleanse the world | 0.10% | ~462 |
+| Chapter II: Fallible Flesh | 0.10% | ~462 |
+| Chapter III: The Man Who Sold the World | 0.10% | ~462 |
+| Chapter IV: Through the Looking Glass | 0.10% | ~462 |
+| Chapter V: Memories of None | 0.10% | ~462 |
+| A Rock in the Dark | 0.10% | ~462 |
+| Emperor of Misery | 0.10% | ~462 |
+| A Frozen Lady | 0.10% | ~462 |
+| Kill the Doctor | 0.10% | ~462 |
+| Forsaken | 0.10% | ~462 |
+| Through the mirror | 0.10% | ~462 |
+| Meet your maker | 0.10% | ~462 |
+| Admiral Okonkwo | 0.10% | ~462 |
+| The Survivalists | 0.10% | ~462 |
+| Tetsuo | 0.10% | ~462 |
+| General Vivar | 0.10% | ~462 |
+| Pope Zenon | 0.10% | ~462 |
+| Back to Ganyma | 0.10% | ~462 |
+| Mercy | 0.10% | ~462 |
+| The Impersonator | 0.10% | ~462 |
+| The Kid | 0.10% | ~462 |
+| The Evangelist | 0.10% | ~462 |
+| The Inquisitor | 0.10% | ~462 |
+| The Tech Specialist | 0.10% | ~462 |
+| The Ace Pilot | 0.10% | ~462 |
+| The Tech Med | 0.10% | ~462 |
+| The Mech Soldier | 0.10% | ~462 |
+| The lucky charm | 0.10% | ~462 |
+| The Anonymous | 0.10% | ~462 |
+| The Smuggler | 0.10% | ~462 |
+| The Crazy Repairman | 0.10% | ~462 |
+| The Weasel | 0.10% | ~462 |
+| Liberator | 0.10% | ~462 |
+| The Art of War | 0.10% | ~462 |
+| Geno Mastery | 0.10% | ~462 |
+| Geno Supremacy | 0.10% | ~462 |
+| Jericho Mastery | 0.10% | ~462 |
+| Jericho Supremacy | 0.10% | ~462 |
+| Hammer Mastery | 0.10% | ~462 |
+| Hammer Supremacy | 0.10% | ~462 |
+| Void Mastery | 0.10% | ~462 |
+| Void Supremacy | 0.10% | ~462 |
+| Kaos Mastery | 0.10% | ~462 |
+| Kaos Supremacy | 0.10% | ~462 |
+| Excelsior Mastery | 0.10% | ~462 |
+| Excelsior Supremacy | 0.10% | ~462 |
+| Survivor | 0.10% | ~462 |
+| The greatest admiral of all time | 0.10% | ~462 |
+| Geno Rule | 0.10% | ~462 |
+| Jericho Rule | 0.10% | ~462 |
+| Hammer Rule | 0.10% | ~462 |
+| Void Rule | 0.10% | ~462 |
+| Kaos Rule | 0.10% | ~462 |
 | The Blade | 0.10% | ~5 |
 | The Ghost | 0.10% | ~5 |
 | The Extractor | 0.10% | ~5 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~5 |
 | Kronos Rule | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,495 (Ranked 34)  
+Progressed: 461,502 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 14 (0.00%) (Ranked 230)
 | 2023-06-22 | 461,298 | 14 |
 | 2023-06-23 | 461,391 | 14 |
 | 2023-06-24 | 461,481 | 14 |
-| 2023-06-25 | 461,495 | 14 |
+| 2023-06-25 | 461,502 | 14 |
 ## Awards
 Max (Character Customization): 213  (Ranked 259)  
 Sum: 213 (Ranked 353)  

@@ -6,39 +6,39 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,747 |
-| keep it tidy | 77.00% | ~7,818 |
-| podium | 72.00% | ~7,310 |
-| medium attack | 59.00% | ~5,990 |
-| brail | 56.00% | ~5,686 |
-| good drivers have dead flies on the side windows | 40.00% | ~4,061 |
+| light attack | 96.00% | ~9,749 |
+| keep it tidy | 77.00% | ~7,819 |
+| podium | 72.00% | ~7,312 |
+| medium attack | 59.00% | ~5,991 |
+| brail | 56.00% | ~5,687 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,062 |
 | grocery-getter | 39.00% | ~3,960 |
 | rwd only | 26.00% | ~2,640 |
 | food tour: pasta | 26.00% | ~2,640 |
-| to finish first, first you must finish | 21.00% | ~2,132 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,132 |
+| to finish first, first you must finish | 21.00% | ~2,133 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,133 |
 | autopilot | 20.00% | ~2,031 |
 | turbo | 20.00% | ~2,031 |
 | food tour: pretzel | 19.00% | ~1,929 |
 | bicycle race | 15.00% | ~1,523 |
-| car wash | 14.00% | ~1,421 |
-| monster | 14.00% | ~1,421 |
+| car wash | 14.00% | ~1,422 |
+| monster | 14.00% | ~1,422 |
 | perkele | 13.00% | ~1,320 |
 | night ride | 13.00% | ~1,320 |
 | the artist | 13.00% | ~1,320 |
 | snorkel | 13.00% | ~1,320 |
-| where is the stage? | 12.00% | ~1,218 |
+| where is the stage? | 12.00% | ~1,219 |
 | maximum attack | 11.00% | ~1,117 |
-| espresso | 10.00% | ~1,015 |
-| parallel universe | 10.00% | ~1,015 |
+| espresso | 10.00% | ~1,016 |
+| parallel universe | 10.00% | ~1,016 |
 | samir | 8.00% | ~812 |
 | eurobeat | 7.00% | ~711 |
-| viking | 7.00% | ~711 |
 | master of rally | 7.00% | ~711 |
 | antilag | 7.00% | ~711 |
 | mittens | 7.00% | ~711 |
 | parking lot | 6.00% | ~609 |
 | oktoberfest | 6.00% | ~609 |
+| viking | 6.00% | ~609 |
 | group b | 5.00% | ~508 |
 | in like a lamb, out like a lion | 5.00% | ~508 |
 | if in doubt, flat out! | 5.00% | ~508 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,153 (Ranked 114)  
+Progressed: 10,155 (Ranked 114)  
 Completed: 9 (0.09%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 9 (0.09%) (Ranked 180)
 | 2023-06-21 | 10,148 | 9 |
 | 2023-06-22 | 10,149 | 9 |
 | 2023-06-24 | 10,152 | 9 |
-| 2023-06-25 | 10,153 | 9 |
+| 2023-06-25 | 10,155 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

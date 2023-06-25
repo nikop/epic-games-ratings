@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1489,
+  "EOS_Progressed": 1490,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -3507,6 +3507,11 @@
       "Time": "2023-06-25T05:07:44.3578063+00:00",
       "NumProgressed": 1489,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-25T06:06:19.8183746+00:00",
+      "NumProgressed": 1490,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3702,7 +3707,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "fourleafclover",
@@ -3724,9 +3729,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 209
     },
     {
       "ID": "gearenchanting",
@@ -3750,7 +3755,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "herewegoagain",
@@ -3766,7 +3771,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "howdoyouturnthison",
@@ -3910,7 +3915,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "prestigiousx10",
@@ -4078,7 +4083,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "warmachinesarmy",
@@ -4110,14 +4115,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1489,
+      "Progressed": 1490,
       "Completed": 1
     }
   ],
@@ -4125,8 +4130,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-25T05:07:44.3578057+00:00",
+  "LastChanged_Achievements": "2023-06-25T06:06:19.8183742+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-25T04:58:41.0716369+00:00",
-  "LastUpdate_Achievements": "2023-06-25T05:07:44.357925+00:00"
+  "LastUpdate_Ratings": "2023-06-25T05:58:22.9059632+00:00",
+  "LastUpdate_Achievements": "2023-06-25T06:06:19.8184503+00:00"
 }
