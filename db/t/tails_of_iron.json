@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1722,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2023-06-24T23:02:22.840221+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-25T08:03:16.5053899+00:00",
+      "NumProgressed": 1722,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1785,7 +1790,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "Collect20Gold",
@@ -1793,7 +1798,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "Collect20Iron",
@@ -1809,7 +1814,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "CollectAllStatues",
@@ -1817,7 +1822,7 @@
       "Name": "Return the Statues",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -1833,7 +1838,7 @@
       "Name": "King of Kings",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "CompleteArenaFaction",
@@ -1857,7 +1862,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1969,7 +1974,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MysteryKingsChamber",
@@ -1993,7 +1998,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "RepairThroneRoom",
@@ -2017,29 +2022,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1722,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 362,
-      "Completed": 362
+      "Progressed": 363,
+      "Completed": 363
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:03:19.7130214+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:03:16.5053894+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.1249497+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:59:07.7351782+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:03:19.713075+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:58:37.6823901+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:03:16.505479+00:00"
 }

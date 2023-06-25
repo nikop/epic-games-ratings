@@ -8,14 +8,14 @@ Number of Ratings: 154  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 99.00% | ~137 |
 | Newbie Hero | 88.00% | ~121 |
-| Welcome to Sonic CD | 83.00% | ~115 |
+| Welcome to Sonic CD | 84.00% | ~116 |
 | Welcome to Sonic the Hedgehog 2 | 82.00% | ~113 |
 | Welcome to Sonic 3 & Knuckles | 78.00% | ~108 |
 | Ring Collector | 78.00% | ~108 |
 | Time Traveler | 77.00% | ~106 |
 | Everyone's Hero | 75.00% | ~104 |
 | Knuckles the Echidna | 74.00% | ~102 |
-| Bubbly Breath | 72.00% | ~99 |
+| Bubbly Breath | 73.00% | ~101 |
 | Gallant Spin Dash | 72.00% | ~99 |
 | Miles "Tails" Prower | 69.00% | ~95 |
 | Easy Peasy with Shields | 67.00% | ~92 |
@@ -33,8 +33,8 @@ Number of Ratings: 154  (23.09.2022)
 | All Clear! | 46.00% | ~63 |
 | To the Mirror World | 42.00% | ~58 |
 | Lucky Hedgehog | 41.00% | ~57 |
+| Sound Savant | 35.00% | ~48 |
 | Movie Maniac | 34.00% | ~47 |
-| Sound Savant | 34.00% | ~47 |
 | Sonic the Hedgehog Mission Master | 32.00% | ~44 |
 | Art Appreciator | 30.00% | ~41 |
 | Beware Rhinobots! | 29.00% | ~40 |

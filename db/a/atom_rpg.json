@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 991,
+  "EOS_Progressed": 992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1493,6 +1493,11 @@
       "Time": "2023-06-24T23:07:00.2598949+00:00",
       "NumProgressed": 991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T08:06:10.6141674+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1560,7 +1565,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "EXPERT_1",
@@ -1576,7 +1581,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "GHOSTBUSTER",
@@ -1592,7 +1597,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "HEAD_BURST_1",
@@ -1664,7 +1669,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "PACIFIST",
@@ -1768,7 +1773,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WANDERER_1",
@@ -1791,15 +1796,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 991,
+      "Progressed": 992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:07:28.5157144+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:06:10.6141669+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:21.722728+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:01:23.306396+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:07:28.5157716+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:00:07.2338327+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:06:10.614201+00:00"
 }

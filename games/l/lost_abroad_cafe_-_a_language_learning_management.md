@@ -7,10 +7,10 @@
 | Get Lost! | 68.00% | ~75 |
 | Barista | 42.00% | ~47 |
 | Tea-ser | 35.00% | ~39 |
-| Coffee Connoisseur | 16.00% | ~18 |
-| Tea Master | 7.00% | ~8 |
+| Coffee Connoisseur | 17.00% | ~19 |
+| Tea Master | 8.00% | ~9 |
 | Brew Master | 5.00% | ~6 |
-| Tea Guru | 3.00% | ~3 |
+| Tea Guru | 4.00% | ~4 |
 | Countertop Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 285)  

@@ -233,9 +233,9 @@
       "ID": "chicken",
       "SetID": "2db2j74",
       "Name": "Chicken",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "hashtag_winning",
@@ -273,17 +273,17 @@
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "play_it_again_sam",
@@ -378,8 +378,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:03:48.7499014+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:03:36.8180179+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.7658908+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:59:36.21527+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:03:48.7499271+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:58:56.528055+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:03:36.8180356+00:00"
 }

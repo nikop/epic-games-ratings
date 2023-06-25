@@ -531,9 +531,9 @@
       "ID": "ScenarioAmateur",
       "SetID": "1e89b4i",
       "Name": "Scenario Amateur",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ScenarioExpert",
@@ -547,9 +547,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TimeForManagement",
@@ -563,9 +563,9 @@
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -578,8 +578,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:02:31.272443+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:00:54.6187488+00:00",
   "LastUpdate_AppInfo": "2023-06-20T06:57:05.3887401+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:57:16.5119685+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:02:31.2725001+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:57:17.8519255+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:00:54.6187917+00:00"
 }

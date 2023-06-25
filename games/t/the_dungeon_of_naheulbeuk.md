@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~187 |
+| Alt+F4 | 92.00% | ~188 |
 | Where's that freaking Dwarf? | 86.00% | ~175 |
-| Sock! SOCK! | 71.00% | ~144 |
-| Fireproof Wizardess | 58.00% | ~118 |
-| Livin' in a dwarven paradise | 56.00% | ~114 |
-| Déjà vu | 52.00% | ~106 |
-| GG EZ | 49.00% | ~99 |
-| Way of the Wimp | 47.00% | ~95 |
-| DM intervention | 47.00% | ~95 |
-| Oh, when I'll be level 10... | 39.00% | ~79 |
-| Speedrun | 36.00% | ~73 |
+| Sock! SOCK! | 71.00% | ~145 |
+| Fireproof Wizardess | 57.00% | ~116 |
+| Livin' in a dwarven paradise | 55.00% | ~112 |
+| Déjà vu | 51.00% | ~104 |
+| GG EZ | 49.00% | ~100 |
+| Way of the Wimp | 47.00% | ~96 |
+| DM intervention | 47.00% | ~96 |
+| Oh, when I'll be level 10... | 39.00% | ~80 |
+| Speedrun | 37.00% | ~75 |
 | Team Building Exercise | 34.00% | ~69 |
 | A beer, two curses, three companions | 33.00% | ~67 |
 | The plot thickens... At the tavern | 33.00% | ~67 |
 | Dwarf Fortress | 33.00% | ~67 |
 | The Ranger of Chaos | 33.00% | ~67 |
-| I am the night | 33.00% | ~67 |
-| Thieves' Guild Accreditation | 32.00% | ~65 |
-| Look but don't touch | 30.00% | ~61 |
+| I am the night | 32.00% | ~65 |
+| Thieves' Guild Accreditation | 31.00% | ~63 |
+| Look but don't touch | 29.00% | ~59 |
 | Shiny and Crôm | 25.00% | ~51 |
 | The demons' feast | 25.00% | ~51 |
 | The Great Library | 25.00% | ~51 |
@@ -39,11 +39,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 18.00% | ~37 |
 | Urik's Depths | 17.00% | ~35 |
 | The Woman in the High Castle | 17.00% | ~35 |
-| Cursed die | 16.00% | ~32 |
-| Law and Order | 15.00% | ~30 |
-| Res Judicata | 13.00% | ~26 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 13.00% | ~26 |
-| Dead for good | 13.00% | ~26 |
+| Cursed die | 16.00% | ~33 |
+| Law and Order | 15.00% | ~31 |
+| Res Judicata | 13.00% | ~27 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 13.00% | ~27 |
+| Dead for good | 13.00% | ~27 |
 | The Dungeon Master | 12.00% | ~24 |
 | Necrophilia | 10.00% | ~20 |
 | It's been a hard day's night | 10.00% | ~20 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 261)  
+Progressed: 204 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
-| 2023-06-25 | 203 | 0 |
+| 2023-06-25 | 204 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

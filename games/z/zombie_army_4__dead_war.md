@@ -20,7 +20,7 @@ Number of Ratings: 743  (23.09.2022)
 | Chain reaction | 44.00% | ~18,877 |
 | Look mummy! A shark! | 41.00% | ~17,590 |
 | What did you say, Blain? | 41.00% | ~17,590 |
-| In the dark dark woods... | 38.00% | ~16,303 |
+| In the dark dark woods... | 39.00% | ~16,732 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,303 |
 | Double tap | 37.00% | ~15,874 |
 | Cranial blowout! | 36.00% | ~15,445 |

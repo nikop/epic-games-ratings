@@ -41,9 +41,9 @@
 | A Megapint...? | 27.00% | ~24 |
 | Another one bites the iron | 27.00% | ~24 |
 | Ripe Meat Off The Bone! | 25.00% | ~22 |
-| Hovering around | 24.00% | ~21 |
+| Hovering around | 25.00% | ~22 |
+| Kleptomaniac | 24.00% | ~21 |
 | Your daily dose of Vitamin C. | 23.00% | ~20 |
-| Kleptomaniac | 23.00% | ~20 |
 | You're not so Big anymore, Boi! | 22.00% | ~19 |
 | I cant stand still! | 22.00% | ~19 |
 | Master Butcher | 18.00% | ~16 |
@@ -51,8 +51,8 @@
 | Just wing it! | 16.00% | ~14 |
 | Yeehaw!!! | 15.00% | ~13 |
 | Deal with it | 15.00% | ~13 |
+| Ancient Ruins of Dirty Feet | 14.00% | ~12 |
 | You're looking mozzare-hella good! | 13.00% | ~11 |
-| Ancient Ruins of Dirty Feet | 13.00% | ~11 |
 | Timber! | 10.00% | ~9 |
 | Grumpy Immortal | 10.00% | ~9 |
 | Free Of Chains | 10.00% | ~9 |
@@ -65,8 +65,8 @@
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
+| Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
-| Ancient Ruins of Stubbed Toes | 3.00% | ~3 |
 | Ancient Ruins of Leaky Roof | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |

@@ -146,9 +146,9 @@
       "ID": "CgkIxYDzrbcPEAIQDA",
       "SetID": "4egpam7",
       "Name": "Chimney Sweeper",
-      "Percentage": 120,
+      "Percentage": 140,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CgkIxYDzrbcPEAIQDQ",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:03:30.2694927+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:03:23.7345075+00:00",
   "LastUpdate_AppInfo": "2023-06-20T09:57:11.9784487+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:57:15.3495035+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:03:30.2695304+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:57:17.1983833+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:03:23.7345288+00:00"
 }

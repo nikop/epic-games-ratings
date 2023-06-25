@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1938,9 +1938,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "invincible_2",
@@ -2106,9 +2106,9 @@
       "ID": "stronghold_1",
       "SetID": "53c1p3k",
       "Name": "Stronghold 1",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "stronghold_2",
@@ -2185,8 +2185,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:03:36.168194+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:03:27.8526497+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:57:19.050324+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:03:36.1683458+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:57:20.0445745+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:03:27.8527354+00:00"
 }

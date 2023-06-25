@@ -9,15 +9,15 @@ Number of Ratings: 38  (23.09.2022)
 | My New Home | 61.00% | ~173 |
 | Scrap Gatherer | 58.00% | ~165 |
 | Mushroom Picker | 56.00% | ~159 |
-| Scrapper | 48.00% | ~136 |
+| Scrapper | 49.00% | ~139 |
 | Cook | 42.00% | ~119 |
 | Teleport | 42.00% | ~119 |
 | Scrap Master | 39.00% | ~111 |
 | Smelter | 37.00% | ~105 |
 | Electro-Scrap Gatherer | 35.00% | ~99 |
 | Digger | 33.00% | ~94 |
+| Survivor | 32.00% | ~91 |
 | Robot Destroyer | 31.00% | ~88 |
-| Survivor | 31.00% | ~88 |
 | Herbalist | 29.00% | ~82 |
 | Lumberjack | 27.00% | ~77 |
 | Electro-Scrap Master | 25.00% | ~71 |
@@ -28,9 +28,9 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 17.00% | ~48 |
 | Blacksmith | 12.00% | ~34 |
 | Mythical Smelter | 12.00% | ~34 |
+| Forest Lord | 10.00% | ~28 |
 | Fuel | 10.00% | ~28 |
 | Master Of Management | 9.00% | ~26 |
-| Forest Lord | 9.00% | ~26 |
 | Smelting Master | 9.00% | ~26 |
 | Black Gold | 8.00% | ~23 |
 | Traveler | 4.00% | ~11 |

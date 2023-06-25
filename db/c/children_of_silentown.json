@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Offroad",
@@ -386,9 +386,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "Well",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-25T07:07:31.27079+00:00",
+  "LastChanged_Achievements": "2023-06-25T08:06:12.6350873+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:01:18.8592855+00:00",
-  "LastUpdate_Achievements": "2023-06-25T07:07:31.2708243+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:00:04.5816736+00:00",
+  "LastUpdate_Achievements": "2023-06-25T08:06:12.6351236+00:00"
 }

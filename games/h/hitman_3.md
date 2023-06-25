@@ -1,60 +1,60 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 98)  
+Rating: 4.78 (Ranked 99)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~597,695 |
-| Death From Above | 46.00% | ~597,695 |
-| Master of the Household | 39.00% | ~506,742 |
-| Death of the Party | 36.00% | ~467,762 |
-| NEXUS-47 | 33.00% | ~428,782 |
-| The Last Tango | 32.00% | ~415,788 |
-| Nightmare Fuel | 31.00% | ~402,795 |
-| The Result of Previous Training | 28.00% | ~363,815 |
-| Tools of the Trade | 28.00% | ~363,815 |
-| Cleared for Field Duty | 27.00% | ~350,821 |
-| Seizing the Opportunity | 25.00% | ~324,834 |
-| Bullet Train | 22.00% | ~285,854 |
-| Stylish Assassin | 20.00% | ~259,868 |
-| Silent Assassin | 14.00% | ~181,907 |
-| Rise Up | 13.00% | ~168,914 |
-| Evil Wine Club | 12.00% | ~155,921 |
-| Console Cowboy | 10.00% | ~129,934 |
-| Last Stop | 10.00% | ~129,934 |
-| A New Profile | 9.00% | ~116,940 |
-| Full House | 9.00% | ~116,940 |
-| Dune Raider | 8.00% | ~103,947 |
-| No Stone Unturned | 8.00% | ~103,947 |
-| Train Surfing | 8.00% | ~103,947 |
-| Family Feud | 7.00% | ~90,954 |
-| Icebreaker | 7.00% | ~90,954 |
-| Rich Harvest | 6.00% | ~77,960 |
-| Count Down From 47 | 6.00% | ~77,960 |
-| Shortcut Killer | 5.00% | ~64,967 |
-| Treacherous Architecture | 5.00% | ~64,967 |
-| Stair Master | 5.00% | ~64,967 |
-| Followed the Trails | 5.00% | ~64,967 |
-| Last Call | 5.00% | ~64,967 |
+| Unseen Assassin | 46.00% | ~597,705 |
+| Death From Above | 46.00% | ~597,705 |
+| Master of the Household | 39.00% | ~506,750 |
+| Death of the Party | 36.00% | ~467,769 |
+| NEXUS-47 | 33.00% | ~428,788 |
+| The Last Tango | 32.00% | ~415,795 |
+| Nightmare Fuel | 31.00% | ~402,801 |
+| The Result of Previous Training | 28.00% | ~363,820 |
+| Tools of the Trade | 28.00% | ~363,820 |
+| Cleared for Field Duty | 27.00% | ~350,827 |
+| Seizing the Opportunity | 25.00% | ~324,840 |
+| Bullet Train | 22.00% | ~285,859 |
+| Stylish Assassin | 20.00% | ~259,872 |
+| Silent Assassin | 14.00% | ~181,910 |
+| Rise Up | 13.00% | ~168,917 |
+| Evil Wine Club | 12.00% | ~155,923 |
+| Console Cowboy | 10.00% | ~129,936 |
+| Last Stop | 10.00% | ~129,936 |
+| A New Profile | 9.00% | ~116,942 |
+| Full House | 9.00% | ~116,942 |
+| Dune Raider | 8.00% | ~103,949 |
+| No Stone Unturned | 8.00% | ~103,949 |
+| Train Surfing | 8.00% | ~103,949 |
+| Family Feud | 7.00% | ~90,955 |
+| Icebreaker | 7.00% | ~90,955 |
+| Rich Harvest | 6.00% | ~77,961 |
+| Count Down From 47 | 6.00% | ~77,961 |
+| Shortcut Killer | 5.00% | ~64,968 |
+| Treacherous Architecture | 5.00% | ~64,968 |
+| Stair Master | 5.00% | ~64,968 |
+| Followed the Trails | 5.00% | ~64,968 |
+| Last Call | 5.00% | ~64,968 |
 | Upstairs, Downstairs | 4.00% | ~51,974 |
 | The Great Outdoors | 4.00% | ~51,974 |
 | Partied Out | 4.00% | ~51,974 |
 | Surveillance Master | 4.00% | ~51,974 |
 | Hack the Planet | 4.00% | ~51,974 |
-| Training Escalated | 3.00% | ~38,980 |
-| Keep Your Eyes Peeled | 3.00% | ~38,980 |
-| Warehouse Veteran | 3.00% | ~38,980 |
-| Future Shock | 3.00% | ~38,980 |
-| Master the Terroir | 3.00% | ~38,980 |
-| Vineyard Virtuoso | 3.00% | ~38,980 |
+| Training Escalated | 3.00% | ~38,981 |
+| Keep Your Eyes Peeled | 3.00% | ~38,981 |
+| Warehouse Veteran | 3.00% | ~38,981 |
+| Future Shock | 3.00% | ~38,981 |
+| Master the Terroir | 3.00% | ~38,981 |
+| Vineyard Virtuoso | 3.00% | ~38,981 |
 | Bird Art | 2.00% | ~25,987 |
-| Top of the Class | 1.00% | ~12,993 |
-| Ripe for the Picking | 1.00% | ~12,993 |
-| The Creative Assassin | 0.70% | ~9,095 |
+| Top of the Class | 1.00% | ~12,994 |
+| Ripe for the Picking | 1.00% | ~12,994 |
+| The Creative Assassin | 0.70% | ~9,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299,338 (Ranked 9)  
+Progressed: 1,299,358 (Ranked 9)  
 Completed: 2,088 (0.16%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 2,088 (0.16%) (Ranked 162)
 | 2023-06-22 | 1,298,227 | 2,087 |
 | 2023-06-23 | 1,298,710 | 2,087 |
 | 2023-06-24 | 1,299,237 | 2,088 |
-| 2023-06-25 | 1,299,338 | 2,088 |
+| 2023-06-25 | 1,299,358 | 2,088 |
 ## Awards
 Max (Diverse Characters): 9,322  (Ranked 36)  
 Sum: 67,620 (Ranked 19)  

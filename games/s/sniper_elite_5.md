@@ -14,6 +14,7 @@ Rating: 4.47 (Ranked 592)
 | Target America | 2.00% | ~62 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
+| Skirmisher | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
 | Explosive Efficiency | 1.00% | ~31 |
 | Lord of War | 1.00% | ~31 |
@@ -22,11 +23,10 @@ Rating: 4.47 (Ranked 592)
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
+| Organ Grinder | 0.90% | ~28 |
 | Gunslinger | 0.90% | ~28 |
-| Skirmisher | 0.90% | ~28 |
 | Set Europe Ablaze | 0.90% | ~28 |
 | Climbing the Ladder | 0.80% | ~25 |
-| Organ Grinder | 0.80% | ~25 |
 | Snake in the Grass | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
