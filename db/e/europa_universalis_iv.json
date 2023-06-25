@@ -6286,10 +6286,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45003,
       "NumberOfAwardsMax": 5449
+    },
+    {
+      "Time": "2023-06-25T04:57:45.1870056+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45008,
+      "NumberOfAwardsMax": 5449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45003,
+  "NumberOfAwards": 45008,
   "NumberOfAwardsMax": 5449,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6303,7 +6309,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 5189
+      "Count": 5194
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6360,9 +6366,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 60811,
+  "EOS_Progressed": 60822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3746,
+  "EOS_NewPlayers": 3742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13360,6 +13366,11 @@
       "Time": "2023-06-25T04:06:25.4787277+00:00",
       "NumProgressed": 60811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T05:07:53.5225819+00:00",
+      "NumProgressed": 60822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -13891,7 +13902,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_colonial_management",
@@ -13987,7 +13998,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -14043,7 +14054,7 @@
       "Name": "Down Under",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -14371,7 +14382,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "achievement_grand_coalition",
@@ -14587,7 +14598,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -15307,7 +15318,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -15651,7 +15662,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -15963,7 +15974,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -15979,7 +15990,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "achievement_trustworthy",
@@ -15987,7 +15998,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_turkish_delight",
@@ -16035,7 +16046,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5473
+      "UsersEstimate": 5474
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -16067,7 +16078,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -16202,21 +16213,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 60811,
+      "Progressed": 60822,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 60811,
+      "Progressed": 60822,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-06-24T22:57:33.5200334+00:00",
-  "LastChanged_Achievements": "2023-06-25T04:06:25.4787273+00:00",
+  "LastChanged": "2023-06-25T04:57:45.1870053+00:00",
+  "LastChanged_Achievements": "2023-06-25T05:07:53.522581+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:17.6471753+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:57:39.2076473+00:00",
-  "LastUpdate_Achievements": "2023-06-25T04:06:25.480153+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:57:45.1870063+00:00",
+  "LastUpdate_Achievements": "2023-06-25T05:07:53.5249938+00:00"
 }

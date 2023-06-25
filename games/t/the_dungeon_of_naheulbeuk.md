@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~185 |
-| Where's that freaking Dwarf? | 86.00% | ~173 |
+| Alt+F4 | 92.00% | ~186 |
+| Where's that freaking Dwarf? | 86.00% | ~174 |
 | Sock! SOCK! | 71.00% | ~143 |
 | Fireproof Wizardess | 58.00% | ~117 |
 | Livin' in a dwarven paradise | 56.00% | ~113 |
 | Déjà vu | 51.00% | ~103 |
-| GG EZ | 49.00% | ~98 |
-| Way of the Wimp | 47.00% | ~94 |
-| DM intervention | 47.00% | ~94 |
-| Oh, when I'll be level 10... | 40.00% | ~80 |
-| Speedrun | 36.00% | ~72 |
-| The Ranger of Chaos | 34.00% | ~68 |
-| Team Building Exercise | 34.00% | ~68 |
-| A beer, two curses, three companions | 33.00% | ~66 |
-| The plot thickens... At the tavern | 33.00% | ~66 |
-| Dwarf Fortress | 33.00% | ~66 |
-| I am the night | 33.00% | ~66 |
-| Thieves' Guild Accreditation | 32.00% | ~64 |
-| Look but don't touch | 30.00% | ~60 |
+| GG EZ | 49.00% | ~99 |
+| Way of the Wimp | 47.00% | ~95 |
+| DM intervention | 47.00% | ~95 |
+| Oh, when I'll be level 10... | 40.00% | ~81 |
+| Speedrun | 36.00% | ~73 |
+| Team Building Exercise | 35.00% | ~71 |
+| The Ranger of Chaos | 34.00% | ~69 |
+| A beer, two curses, three companions | 33.00% | ~67 |
+| The plot thickens... At the tavern | 33.00% | ~67 |
+| Dwarf Fortress | 33.00% | ~67 |
+| I am the night | 33.00% | ~67 |
+| Thieves' Guild Accreditation | 32.00% | ~65 |
+| Look but don't touch | 30.00% | ~61 |
 | Shiny and Crôm | 25.00% | ~50 |
 | The demons' feast | 25.00% | ~50 |
 | The Great Library | 25.00% | ~50 |
@@ -71,6 +71,7 @@ Number of Ratings: 118  (23.09.2022)
 | Living legends of the Lands of Fangh | 2.00% | ~4 |
 | Death is for wimps | 2.00% | ~4 |
 | Demisemiquaver | 2.00% | ~4 |
+| The number of the counting shalt be 7 | 1.00% | ~2 |
 | King of the Arena | 1.00% | ~2 |
 | Finally free | 1.00% | ~2 |
 | Imposture and Trowels | 1.00% | ~2 |
@@ -82,7 +83,6 @@ Number of Ratings: 118  (23.09.2022)
 | Star-crossed lovers | 1.00% | ~2 |
 | Pyrrhic victory | 1.00% | ~2 |
 | 100% satisfaction guarantee | 1.00% | ~2 |
-| The number of the counting shalt be 7 | 0.50% | ~1 |
 | Hoarding | 0.50% | ~1 |
 | Staff cut | 0.50% | ~1 |
 | Legendary brew | 0.50% | ~1 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 262)  
+Progressed: 202 (Ranked 262)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
+| 2023-06-25 | 202 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

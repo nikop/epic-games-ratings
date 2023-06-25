@@ -221,9 +221,9 @@
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Doll",
@@ -414,8 +414,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-25T04:06:15.8340401+00:00",
+  "LastChanged_Achievements": "2023-06-25T05:07:41.9498886+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-25T04:00:00.8597865+00:00",
-  "LastUpdate_Achievements": "2023-06-25T04:06:15.8340598+00:00"
+  "LastUpdate_Ratings": "2023-06-25T05:01:19.441699+00:00",
+  "LastUpdate_Achievements": "2023-06-25T05:07:41.9499123+00:00"
 }

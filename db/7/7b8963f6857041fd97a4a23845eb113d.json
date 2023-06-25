@@ -2,9 +2,9 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -51,6 +51,11 @@
       "Time": "2023-06-24T15:01:17.2068874+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T05:02:00.0014359+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -60,7 +65,7 @@
       "ID": "CH1_FATHER",
       "SetID": "6d348d1",
       "Name": "What a Mess!",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -68,15 +73,15 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 117,
+      "Percentage": 114,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CH1_MOTHER",
       "SetID": "6d348d1",
       "Name": "Mother\u0027s song",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -84,7 +89,7 @@
       "ID": "CH1_TRAIN",
       "SetID": "6d348d1",
       "Name": "A Kid\u0027s Toy",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -92,7 +97,7 @@
       "ID": "CH2_PLANE",
       "SetID": "6d348d1",
       "Name": "Winds of Change",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "CH2_SPIDER",
       "SetID": "6d348d1",
       "Name": "A Light in the Darkness",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "CH2_UNDERGROUND",
       "SetID": "6d348d1",
       "Name": "Secret Lair",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -124,7 +129,7 @@
       "ID": "CH3_OOPS",
       "SetID": "6d348d1",
       "Name": "Oops!",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "CH3_PICTURE",
       "SetID": "6d348d1",
       "Name": "Vague Memories",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "CH4_CLOAKROOM",
       "SetID": "6d348d1",
       "Name": "The Last Drawing",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "CH4_ROOF",
       "SetID": "6d348d1",
       "Name": "The Pieces",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -156,15 +161,15 @@
       "ID": "CH4_SWING",
       "SetID": "6d348d1",
       "Name": "The Swing Set",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CH5_SHADOW",
       "SetID": "6d348d1",
       "Name": "The Finale",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 80,
       "UsersEstimate": 1
     }
@@ -173,14 +178,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:30:37.9256634+00:00",
+  "LastChanged_Achievements": "2023-06-25T05:02:00.0014338+00:00",
   "LastUpdate_AppInfo": "2023-06-22T13:57:33.7122914+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:57:21.3285483+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:30:37.9256733+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:57:18.5924646+00:00",
+  "LastUpdate_Achievements": "2023-06-25T05:02:00.0014983+00:00"
 }

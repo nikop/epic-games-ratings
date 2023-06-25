@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3446,
+  "EOS_Progressed": 3447,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4616,6 +4616,11 @@
       "Time": "2023-06-24T23:06:43.1858618+00:00",
       "NumProgressed": 3446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T05:07:21.7341188+00:00",
+      "NumProgressed": 3447,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4627,7 +4632,7 @@
       "Name": "First Step",
       "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "10",
@@ -4691,7 +4696,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "4",
@@ -4699,7 +4704,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "5",
@@ -4746,7 +4751,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3446,
+      "Progressed": 3447,
       "Completed": 0
     }
   ],
@@ -4754,8 +4759,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-25T04:06:00.7693629+00:00",
+  "LastChanged_Achievements": "2023-06-25T05:07:21.734118+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:46.7260525+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:58:18.2417267+00:00",
-  "LastUpdate_Achievements": "2023-06-25T04:06:00.7693991+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:58:44.7697473+00:00",
+  "LastUpdate_Achievements": "2023-06-25T05:07:21.7341667+00:00"
 }

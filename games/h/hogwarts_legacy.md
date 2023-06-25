@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,883 |
 | The Spell Master | 6.00% | ~16,883 |
 | Beast Friends | 5.00% | ~14,069 |
-| The Seeker of Knowledge | 4.00% | ~11,255 |
-| The Root of the Problem | 4.00% | ~11,255 |
-| Third Time's a Charm | 4.00% | ~11,255 |
-| Raising Expectations | 4.00% | ~11,255 |
+| The Seeker of Knowledge | 4.00% | ~11,256 |
+| The Root of the Problem | 4.00% | ~11,256 |
+| Third Time's a Charm | 4.00% | ~11,256 |
+| Raising Expectations | 4.00% | ~11,256 |
 | The Toast of the Town | 3.00% | ~8,442 |
 | Going Through the Potions | 3.00% | ~8,442 |
 | Room with a View | 3.00% | ~8,442 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,407 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,386 (Ranked 41)  
+Progressed: 281,389 (Ranked 41)  
 Completed: 412 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,10 +117,10 @@ Completed: 412 (0.15%) (Ranked 165)
 | 2023-06-22 | 281,084 | 409 |
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
-| 2023-06-25 | 281,386 | 412 |
+| 2023-06-25 | 281,389 | 412 |
 ## Awards
 Max (Character Customization): 20,340  (Ranked 17)  
-Sum: 37,796 (Ranked 30)  
+Sum: 37,798 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -130,7 +130,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 849 |
 | This game is Relaxing | 847 |
 | This game has Amazing Storytelling | 833 |
-| This game has Diverse Characters | 830 |
+| This game has Diverse Characters | 832 |
 | This game has Amazing Characters | 811 |
 | This game is Highly Recommended | 792 |
 | This game has Quickly Understood Controls | 745 |
@@ -232,4 +232,4 @@ Diff (max vs sum): -13
 | 2023-06-22 | 4.77 | 20,270 | 37,641 |
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
-| 2023-06-25 | 4.77 | 20,340 | 37,796 |
+| 2023-06-25 | 4.77 | 20,340 | 37,798 |

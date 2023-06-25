@@ -6,50 +6,50 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,400 |
-| Titan's First Steps | 96.00% | ~126,086 |
-| Basic in Bulk | 91.00% | ~119,519 |
-| Tinkle of Coins | 87.00% | ~114,266 |
-| Disintermediation | 76.00% | ~99,818 |
+| Sponsored by Argon | 97.00% | ~127,401 |
+| Titan's First Steps | 96.00% | ~126,087 |
+| Basic in Bulk | 91.00% | ~119,520 |
+| Tinkle of Coins | 87.00% | ~114,267 |
+| Disintermediation | 76.00% | ~99,819 |
 | Capitalism Ho! | 74.00% | ~97,192 |
-| It's Free Real Estate | 70.00% | ~91,938 |
-| Budding Merchant | 66.00% | ~86,684 |
-| Another Satisfied Customer | 61.00% | ~80,117 |
-| One Easy Payment | 60.00% | ~78,804 |
-| Own the Means of Production | 60.00% | ~78,804 |
-| Some Assembly Required | 58.00% | ~76,177 |
+| It's Free Real Estate | 70.00% | ~91,939 |
+| Budding Merchant | 66.00% | ~86,685 |
+| Another Satisfied Customer | 61.00% | ~80,118 |
+| One Easy Payment | 60.00% | ~78,805 |
+| Own the Means of Production | 60.00% | ~78,805 |
+| Some Assembly Required | 58.00% | ~76,178 |
 | Pretty Penny | 57.00% | ~74,864 |
 | One-Armed Bandit | 49.00% | ~64,357 |
-| Through Repetition, Perfection | 46.00% | ~60,416 |
+| Through Repetition, Perfection | 46.00% | ~60,417 |
 | The Daily Grind | 45.00% | ~59,103 |
 | Bounty Hunters | 44.00% | ~57,790 |
-| Where it Hurts | 43.00% | ~56,476 |
+| Where it Hurts | 43.00% | ~56,477 |
 | Dungeon Imports | 42.00% | ~55,163 |
-| Flooding the Market | 41.00% | ~53,849 |
-| Demand for Supplies | 38.00% | ~49,909 |
+| Flooding the Market | 41.00% | ~53,850 |
+| Demand for Supplies | 38.00% | ~49,910 |
 | Gild-Gotten Goods | 37.00% | ~48,596 |
 | Did we pack lunch? | 35.00% | ~45,969 |
 | Arcane Industries | 34.00% | ~44,656 |
-| Accomplished Merchant | 31.00% | ~40,715 |
+| Accomplished Merchant | 31.00% | ~40,716 |
 | On the Path to Greatness | 28.00% | ~36,775 |
 | Ascended | 28.00% | ~36,775 |
 | Gem Expert | 28.00% | ~36,775 |
 | Helping Hand | 28.00% | ~36,775 |
 | Blank Page Syndrome | 27.00% | ~35,462 |
 | Efficient Floor Space | 27.00% | ~35,462 |
-| Vanity, Verily | 26.00% | ~34,148 |
+| Vanity, Verily | 26.00% | ~34,149 |
 | Research & Development | 25.00% | ~32,835 |
 | Power of Love | 24.00% | ~31,522 |
 | Flawless Fusion | 24.00% | ~31,522 |
 | Natural 20 | 23.00% | ~30,208 |
-| Fated Encounters | 21.00% | ~27,581 |
-| Royal Ransom | 21.00% | ~27,581 |
-| Magical Harmony | 21.00% | ~27,581 |
+| Fated Encounters | 21.00% | ~27,582 |
+| Royal Ransom | 21.00% | ~27,582 |
+| Magical Harmony | 21.00% | ~27,582 |
 | Tax not Included | 20.00% | ~26,268 |
 | Trash to Treasure | 19.00% | ~24,955 |
 | For the Hoard! | 18.00% | ~23,641 |
 | Special Ingredient | 17.00% | ~22,328 |
-| Scrapbooker | 16.00% | ~21,014 |
+| Scrapbooker | 16.00% | ~21,015 |
 | A Notch Above the Rest | 15.00% | ~19,701 |
 | This Power Level...! | 15.00% | ~19,701 |
 | Expansion in Session | 15.00% | ~19,701 |
@@ -64,11 +64,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 12.00% | ~15,761 |
 | Mammonite | 12.00% | ~15,761 |
 | Attrition Mission | 12.00% | ~15,761 |
-| Omae wa Mou Shindeiru | 11.00% | ~14,447 |
-| Cranked up to 11 | 11.00% | ~14,447 |
-| By Your Powers Combined... | 11.00% | ~14,447 |
-| Exotic Commodities | 11.00% | ~14,447 |
-| Complete Monopoly | 11.00% | ~14,447 |
+| Omae wa Mou Shindeiru | 11.00% | ~14,448 |
+| Cranked up to 11 | 11.00% | ~14,448 |
+| By Your Powers Combined... | 11.00% | ~14,448 |
+| Exotic Commodities | 11.00% | ~14,448 |
+| Complete Monopoly | 11.00% | ~14,448 |
 | Master Recycler | 10.00% | ~13,134 |
 | Supercharged | 9.00% | ~11,821 |
 | Ritualist | 9.00% | ~11,821 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~657 |
 | Capitalist Camaraderie | 0.20% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,340 (Ranked 59)  
+Progressed: 131,341 (Ranked 59)  
 Completed: 110 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 110 (0.08%) (Ranked 183)
 | 2023-06-22 | 131,133 | 109 |
 | 2023-06-23 | 131,218 | 109 |
 | 2023-06-24 | 131,331 | 110 |
-| 2023-06-25 | 131,340 | 110 |
+| 2023-06-25 | 131,341 | 110 |
 ## Awards
 Max (Great for Beginners): 4,631  (Ranked 68)  
 Sum: 26,801 (Ranked 45)  

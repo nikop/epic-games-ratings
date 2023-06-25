@@ -2944,7 +2944,7 @@
   ],
   "EOS_Progressed": 10052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7568,9 +7568,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 70
     },
     {
       "ID": "42_JustPathetic",
@@ -8198,8 +8198,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-24T14:58:36.8653829+00:00",
-  "LastChanged_Achievements": "2023-06-25T04:06:22.7145712+00:00",
+  "LastChanged_Achievements": "2023-06-25T05:07:50.4597901+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:58:33.6080427+00:00",
-  "LastUpdate_Achievements": "2023-06-25T04:06:22.7148273+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:59:09.7083181+00:00",
+  "LastUpdate_Achievements": "2023-06-25T05:07:50.4601289+00:00"
 }

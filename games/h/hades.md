@@ -57,7 +57,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Friends Forever | 4.00% | ~27,860 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 696,504 (Ranked 18)  
-Completed: 6,186 (0.89%) (Ranked 101)  
+Completed: 6,187 (0.89%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,10 +122,10 @@ Completed: 6,186 (0.89%) (Ranked 101)
 | 2023-06-22 | 696,205 | 6,178 |
 | 2023-06-23 | 696,348 | 6,180 |
 | 2023-06-24 | 696,487 | 6,186 |
-| 2023-06-25 | 696,504 | 6,186 |
+| 2023-06-25 | 696,504 | 6,187 |
 ## Awards
 Max (Character Customization): 3,144  (Ranked 88)  
-Sum: 7,610 (Ranked 97)  
+Sum: 7,611 (Ranked 97)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -133,8 +133,8 @@ Diff (max vs sum): -9
 | This game has Great Boss Battles | 2,199 |
 | This game is Highly Recommended | 253 |
 | This game is Extremely Fun | 239 |
+| This game is Great for Beginners | 238 |
 | This game has Amazing Storytelling | 237 |
-| This game is Great for Beginners | 237 |
 | This game has Amazing Characters | 233 |
 | This game has Diverse Characters | 232 |
 | This game has Quickly Understood Controls | 230 |
@@ -293,3 +293,4 @@ Diff (max vs sum): -9
 | 2023-06-22 | 4.92 | - | 3,140 | 7,606 |
 | 2023-06-23 | 4.92 | - | 3,142 | 7,608 |
 | 2023-06-24 | 4.92 | - | 3,144 | 7,610 |
+| 2023-06-25 | 4.92 | - | 3,144 | 7,611 |

@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.80% | ~80 |
 | End of Eternal Guard | 0.80% | ~80 |
 | Not the Last Sarkorian | 0.80% | ~71 |
+| Playful Mood | 0.70% | ~70 |
 | Path of the Dragon | 0.60% | ~60 |
 | Path of the Legend | 0.60% | ~60 |
-| Playful Mood | 0.60% | ~60 |
 | Dreadful Dragon | 0.60% | ~60 |
 | Truly Profane Gift | 0.60% | ~60 |
 | Masterful Charge | 0.40% | ~40 |

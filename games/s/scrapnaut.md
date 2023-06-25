@@ -14,7 +14,7 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 42.00% | ~119 |
 | Scrap Master | 39.00% | ~111 |
 | Smelter | 37.00% | ~105 |
-| Electro-Scrap Gatherer | 34.00% | ~97 |
+| Electro-Scrap Gatherer | 35.00% | ~99 |
 | Digger | 33.00% | ~94 |
 | Robot Destroyer | 31.00% | ~88 |
 | Survivor | 31.00% | ~88 |

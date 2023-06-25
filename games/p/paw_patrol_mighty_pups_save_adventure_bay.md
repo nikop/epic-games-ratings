@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Mighty Powers | 70.00% | ~7 |
 | Grand Re-Opening | 40.00% | ~4 |
+| Pup Pup Boogie | 40.00% | ~4 |
 | Summer Day | 40.00% | ~4 |
 | Risky Rescue | 40.00% | ~4 |
-| Pup Pup Boogie | 30.00% | ~3 |
 | Carlos Is Tangled | 30.00% | ~3 |
 | Mandy Family | 30.00% | ~3 |
 | Everything Under Control | 20.00% | ~2 |
