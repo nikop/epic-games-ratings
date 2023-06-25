@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -2491,9 +2491,9 @@
       "ID": "A03",
       "SetID": "9b7p7eo",
       "Name": "Resistance is futile",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 203
     },
     {
       "ID": "A04",
@@ -2539,9 +2539,9 @@
       "ID": "A09",
       "SetID": "9b7p7eo",
       "Name": "Engineer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "A10",
@@ -2916,8 +2916,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-24T23:07:08.2809104+00:00",
+  "LastChanged_Achievements": "2023-06-25T00:05:46.4446895+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.8009478+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:58:30.6757852+00:00",
-  "LastUpdate_Achievements": "2023-06-24T23:07:08.2809714+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:58:01.681832+00:00",
+  "LastUpdate_Achievements": "2023-06-25T00:05:46.4447563+00:00"
 }

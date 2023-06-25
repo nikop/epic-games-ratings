@@ -6,37 +6,37 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~799,694 |
-| Bun-Puncher Supreme | 68.00% | ~734,854 |
-| You Mean Business | 68.00% | ~734,854 |
-| You're Getting Pretty Good At This! | 68.00% | ~734,854 |
-| Aerial Specialist | 63.00% | ~680,821 |
-| Proving Yourself | 63.00% | ~680,821 |
-| Stepping Out | 63.00% | ~680,821 |
-| The Throne Is Yours | 63.00% | ~680,821 |
-| Spike Specialist | 54.00% | ~583,561 |
-| Southpaw Specialist | 54.00% | ~583,561 |
-| Rightie Specialist | 54.00% | ~583,561 |
-| Signature Slammer | 43.00% | ~464,687 |
-| Distanced Damage Dealer | 42.00% | ~453,881 |
-| Watch Your Head | 42.00% | ~453,881 |
-| Catch This | 42.00% | ~453,881 |
-| Toast Master | 41.00% | ~443,074 |
-| Nice Speech | 41.00% | ~443,074 |
-| Credit Where It's Due | 41.00% | ~443,074 |
-| Life of the Party | 36.00% | ~389,040 |
-| Social Butterfly | 36.00% | ~389,040 |
-| Party Animal | 36.00% | ~389,040 |
-| And Your Little Dog, Too! | 33.00% | ~356,620 |
-| Bring A Friend | 33.00% | ~356,620 |
-| Ringouts Are Better In Pairs | 33.00% | ~356,620 |
-| Ground Floor: Ringouts | 29.00% | ~313,394 |
-| Watch Your Step | 29.00% | ~313,394 |
-| Going Down? | 29.00% | ~313,394 |
-| Run It Back | 6.00% | ~64,840 |
+| Matchmaker | 74.00% | ~799,703 |
+| Bun-Puncher Supreme | 68.00% | ~734,862 |
+| You Mean Business | 68.00% | ~734,862 |
+| You're Getting Pretty Good At This! | 68.00% | ~734,862 |
+| Aerial Specialist | 63.00% | ~680,828 |
+| Proving Yourself | 63.00% | ~680,828 |
+| Stepping Out | 63.00% | ~680,828 |
+| The Throne Is Yours | 63.00% | ~680,828 |
+| Spike Specialist | 54.00% | ~583,567 |
+| Southpaw Specialist | 54.00% | ~583,567 |
+| Rightie Specialist | 54.00% | ~583,567 |
+| Signature Slammer | 43.00% | ~464,692 |
+| Distanced Damage Dealer | 42.00% | ~453,886 |
+| Watch Your Head | 42.00% | ~453,886 |
+| Catch This | 42.00% | ~453,886 |
+| Toast Master | 41.00% | ~443,079 |
+| Nice Speech | 41.00% | ~443,079 |
+| Credit Where It's Due | 41.00% | ~443,079 |
+| Life of the Party | 36.00% | ~389,045 |
+| Social Butterfly | 36.00% | ~389,045 |
+| Party Animal | 36.00% | ~389,045 |
+| And Your Little Dog, Too! | 33.00% | ~356,624 |
+| Bring A Friend | 33.00% | ~356,624 |
+| Ringouts Are Better In Pairs | 33.00% | ~356,624 |
+| Ground Floor: Ringouts | 29.00% | ~313,397 |
+| Watch Your Step | 29.00% | ~313,397 |
+| Going Down? | 29.00% | ~313,397 |
+| Run It Back | 6.00% | ~64,841 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080,668 (Ranked 11)  
-Completed: 31,690 (2.93%) (Ranked 56)  
+Progressed: 1,080,680 (Ranked 11)  
+Completed: 31,691 (2.93%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,6 +101,7 @@ Completed: 31,690 (2.93%) (Ranked 56)
 | 2023-06-22 | 1,080,093 | 31,689 |
 | 2023-06-23 | 1,080,356 | 31,690 |
 | 2023-06-24 | 1,080,668 | 31,690 |
+| 2023-06-25 | 1,080,680 | 31,691 |
 ## Awards
 Max (Great for Beginners): 4,744  (Ranked 67)  
 Sum: 45,705 (Ranked 26)  

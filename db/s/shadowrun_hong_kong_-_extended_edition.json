@@ -2,7 +2,7 @@
   "ID": "0d66818e2304485f8dc3ae90c8b622b4",
   "Name": "Shadowrun Hong Kong - Extended Edition",
   "ProductSlug": "shadowrun-hong-kong",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 469,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 241,
   "RatingHistory": [
     {
@@ -380,6 +380,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-06-24T23:59:43.1829627+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
@@ -405,8 +411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
-  "LastChanged": "2023-06-20T23:01:29.1897592+00:00",
+  "LastChanged": "2023-06-24T23:59:43.1829626+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:17.7902922+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:00:50.8824838+00:00",
+  "LastUpdate_Ratings": "2023-06-24T23:59:43.1829631+00:00",
   "LastUpdate_Achievements": "2023-06-24T23:02:24.6764141+00:00"
 }

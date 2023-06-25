@@ -1,32 +1,32 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 422)  
+Rating: 4.58 (Ranked 421)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,064 |
-| Into the Unknown | 10.00% | ~58,240 |
-| First Shot | 10.00% | ~58,240 |
-| Herzlich Wilkommen! | 9.00% | ~52,416 |
-| Good Night & Good Luck | 9.00% | ~52,416 |
-| Sancho Panza | 8.00% | ~46,592 |
-| Under Pressure | 7.00% | ~40,768 |
-| On the Trail of the Enemy | 7.00% | ~40,768 |
-| Flag Burning | 7.00% | ~40,768 |
-| Oh, So This Is How It Works! | 7.00% | ~40,768 |
-| Night Hunter | 7.00% | ~40,768 |
-| Light in the Darkness | 6.00% | ~34,944 |
-| Get Outta My House! | 6.00% | ~34,944 |
-| It Wasn't That Hard, Was It? | 6.00% | ~34,944 |
-| Being All Social | 6.00% | ~34,944 |
-| Debris and Ashes | 5.00% | ~29,120 |
-| We Will Be Heard! | 5.00% | ~29,120 |
-| Known Associate | 5.00% | ~29,120 |
-| Tunnel Entrance | 5.00% | ~29,120 |
-| After the Fall | 5.00% | ~29,120 |
-| Can't Touch This! | 5.00% | ~29,120 |
+| You Never Forget Your First... | 11.00% | ~64,065 |
+| Into the Unknown | 10.00% | ~58,241 |
+| First Shot | 10.00% | ~58,241 |
+| Herzlich Wilkommen! | 9.00% | ~52,417 |
+| Good Night & Good Luck | 9.00% | ~52,417 |
+| Sancho Panza | 8.00% | ~46,593 |
+| Under Pressure | 7.00% | ~40,769 |
+| On the Trail of the Enemy | 7.00% | ~40,769 |
+| Flag Burning | 7.00% | ~40,769 |
+| Oh, So This Is How It Works! | 7.00% | ~40,769 |
+| Night Hunter | 7.00% | ~40,769 |
+| Light in the Darkness | 6.00% | ~34,945 |
+| Get Outta My House! | 6.00% | ~34,945 |
+| It Wasn't That Hard, Was It? | 6.00% | ~34,945 |
+| Being All Social | 6.00% | ~34,945 |
+| Debris and Ashes | 5.00% | ~29,121 |
+| We Will Be Heard! | 5.00% | ~29,121 |
+| Known Associate | 5.00% | ~29,121 |
+| Tunnel Entrance | 5.00% | ~29,121 |
+| After the Fall | 5.00% | ~29,121 |
+| Can't Touch This! | 5.00% | ~29,121 |
 | Brush with Death | 4.00% | ~23,296 |
 | Going Down | 4.00% | ~23,296 |
 | Family First | 4.00% | ~23,296 |
@@ -47,8 +47,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,824 |
 | Fit as a Fiddle | 1.00% | ~5,824 |
 | Ironheart | 1.00% | ~5,824 |
-| Nemesis | 1.00% | ~2,278 |
-| Enter the Hall | 1.00% | ~2,278 |
+| Nemesis | 1.00% | ~2,279 |
+| Enter the Hall | 1.00% | ~2,279 |
 | Find Anything Interesting? | 0.80% | ~4,659 |
 | Boot Licker | 0.80% | ~4,659 |
 | Who Wants To Be a... | 0.80% | ~4,659 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~228 |
 | Connoisseur | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 582,398 (Ranked 26)  
+Progressed: 582,411 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-22 | 581,555 | 57 |
 | 2023-06-23 | 581,953 | 57 |
 | 2023-06-24 | 582,398 | 57 |
+| 2023-06-25 | 582,411 | 57 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 40)  
 Sum: 18,601 (Ranked 56)  

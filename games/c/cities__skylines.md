@@ -6,45 +6,45 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~607,061 |
-| Green Energy | 60.00% | ~513,010 |
-| Foggy Weather | 59.00% | ~504,459 |
-| Singing In The- | 59.00% | ~504,459 |
-| Unpopular Mayor | 41.00% | ~350,557 |
-| Power at Your Fingertips | 33.00% | ~282,155 |
-| City Planner | 23.00% | ~196,654 |
-| Rolling in Dough | 20.00% | ~171,003 |
-| Does My Bum Look Big In This? | 17.00% | ~145,353 |
-| Climbing the Social Ladder | 16.00% | ~136,803 |
-| Safe City | 14.00% | ~119,702 |
-| Quay-King | 11.00% | ~94,052 |
-| Lawmaker | 10.00% | ~85,502 |
-| With Canals You Can! | 10.00% | ~85,502 |
-| Nomen Est Omen | 7.00% | ~59,851 |
-| Well Informed | 6.00% | ~51,301 |
-| Fire Watch | 5.00% | ~42,751 |
-| Greenest City | 4.00% | ~34,201 |
-| Heavenly City | 3.00% | ~25,650 |
-| Reporting! | 3.00% | ~25,650 |
-| SIMulated City | 3.00% | ~25,650 |
-| The Safest Town | 3.00% | ~25,650 |
-| Professional Dumper | 2.00% | ~17,100 |
-| City in Motion | 1.00% | ~8,550 |
-| Earthloving City | 1.00% | ~8,550 |
-| Metropolis | 1.00% | ~8,550 |
-| Beam Me Up | 0.70% | ~5,985 |
-| Higher Education | 0.70% | ~5,985 |
-| Decorator | 0.60% | ~5,130 |
-| Full Capacity | 0.60% | ~5,130 |
-| Terraformer | 0.60% | ~5,130 |
-| The Waters of Our Lives | 0.60% | ~5,130 |
-| Drop the Base | 0.50% | ~4,275 |
-| It's heading right for us! | 0.50% | ~4,275 |
-| Postman | 0.50% | ~4,275 |
-| Shake It Up! | 0.50% | ~4,275 |
-| Speed up! | 0.50% | ~4,275 |
-| Thunder and Lightning | 0.50% | ~4,275 |
-| Twist and shout | 0.50% | ~4,275 |
+| Pioneer | 71.00% | ~607,128 |
+| Green Energy | 60.00% | ~513,066 |
+| Foggy Weather | 59.00% | ~504,515 |
+| Singing In The- | 59.00% | ~504,515 |
+| Unpopular Mayor | 41.00% | ~350,595 |
+| Power at Your Fingertips | 33.00% | ~282,186 |
+| City Planner | 23.00% | ~196,675 |
+| Rolling in Dough | 20.00% | ~171,022 |
+| Does My Bum Look Big In This? | 17.00% | ~145,369 |
+| Climbing the Social Ladder | 16.00% | ~136,818 |
+| Safe City | 14.00% | ~119,715 |
+| Quay-King | 11.00% | ~94,062 |
+| Lawmaker | 10.00% | ~85,511 |
+| With Canals You Can! | 10.00% | ~85,511 |
+| Nomen Est Omen | 7.00% | ~59,858 |
+| Well Informed | 6.00% | ~51,307 |
+| Fire Watch | 5.00% | ~42,756 |
+| Greenest City | 4.00% | ~34,204 |
+| Heavenly City | 3.00% | ~25,653 |
+| Reporting! | 3.00% | ~25,653 |
+| SIMulated City | 3.00% | ~25,653 |
+| The Safest Town | 3.00% | ~25,653 |
+| Professional Dumper | 2.00% | ~17,102 |
+| City in Motion | 1.00% | ~8,551 |
+| Earthloving City | 1.00% | ~8,551 |
+| Metropolis | 1.00% | ~8,551 |
+| Beam Me Up | 0.70% | ~5,986 |
+| Higher Education | 0.70% | ~5,986 |
+| Decorator | 0.60% | ~5,131 |
+| Full Capacity | 0.60% | ~5,131 |
+| Terraformer | 0.60% | ~5,131 |
+| The Waters of Our Lives | 0.60% | ~5,131 |
+| Drop the Base | 0.50% | ~4,276 |
+| It's heading right for us! | 0.50% | ~4,276 |
+| Postman | 0.50% | ~4,276 |
+| Shake It Up! | 0.50% | ~4,276 |
+| Speed up! | 0.50% | ~4,276 |
+| Thunder and Lightning | 0.50% | ~4,276 |
+| Twist and shout | 0.50% | ~4,276 |
 | Airfield Expertise | 0.40% | ~3,420 |
 | Airlifter | 0.40% | ~3,420 |
 | Airport Architect | 0.40% | ~3,420 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~855 |
 | Z00 | 0.10% | ~855 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855,016 (Ranked 14)  
+Progressed: 855,110 (Ranked 14)  
 Completed: 9 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,13 +192,14 @@ Completed: 9 (0.00%) (Ranked 230)
 | 2023-06-22 | 848,798 | 9 |
 | 2023-06-23 | 851,745 | 9 |
 | 2023-06-24 | 855,016 | 9 |
+| 2023-06-25 | 855,110 | 9 |
 ## Awards
-Max (Great for Beginners): 4,781  (Ranked 66)  
-Sum: 36,398 (Ranked 34)  
-Diff (max vs sum): 32  
+Max (Great for Beginners): 4,790  (Ranked 65)  
+Sum: 36,407 (Ranked 34)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,781 |
+| This game is Great for Beginners | 4,790 |
 | This game is Relaxing | 4,778 |
 | This game has Quickly Understood Controls | 4,503 |
 | This game is Educational | 4,473 |
@@ -361,3 +362,4 @@ Diff (max vs sum): 32
 | 2023-06-22 | 4.65 | - | 4,774 | 36,280 |
 | 2023-06-23 | 4.65 | - | 4,781 | 36,339 |
 | 2023-06-24 | 4.65 | - | 4,781 | 36,398 |
+| 2023-06-25 | 4.65 | - | 4,790 | 36,407 |

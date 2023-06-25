@@ -41,8 +41,8 @@ Rating: 4.31 (Ranked 766)
 | Traffic Junction | 17.00% | ~230 |
 | Assimilated | 16.00% | ~216 |
 | Locusts | 16.00% | ~216 |
+| Resistance is futile | 15.00% | ~203 |
 | Networker | 15.00% | ~203 |
-| Resistance is futile | 14.00% | ~189 |
 | Max Power | 12.00% | ~162 |
 | Settler | 12.00% | ~162 |
 | Go West | 11.00% | ~149 |
@@ -54,7 +54,7 @@ Rating: 4.31 (Ranked 766)
 | Conductor | 4.00% | ~54 |
 | Let off some steam | 3.00% | ~41 |
 | Call of Duty | 3.00% | ~41 |
-| Engineer | 1.00% | ~14 |
+| Engineer | 2.00% | ~27 |
 | Accurate | 1.00% | ~14 |
 | Together we stand | 0.50% | ~7 |
 | European Union | 0.40% | ~5 |

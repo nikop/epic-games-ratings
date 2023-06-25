@@ -25,8 +25,8 @@
 | Topped up | 26.00% | ~29 |
 | Untouchable | 25.00% | ~28 |
 | I'm Rich | 25.00% | ~28 |
+| 1 is all I need | 22.00% | ~24 |
 | The Slime | 22.00% | ~24 |
-| 1 is all I need | 21.00% | ~23 |
 | The Giant | 20.00% | ~22 |
 | The Flower | 19.00% | ~21 |
 | Out of the Frying Pan... | 19.00% | ~21 |

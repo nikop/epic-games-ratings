@@ -420,9 +420,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achi_23",
@@ -524,9 +524,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achi_36",
@@ -620,9 +620,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_48",
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-24T23:02:06.7412005+00:00",
+  "LastChanged_Achievements": "2023-06-25T00:00:31.7776304+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:03.9931762+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:00:37.8796899+00:00",
-  "LastUpdate_Achievements": "2023-06-24T23:02:06.7412423+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:59:34.9160931+00:00",
+  "LastUpdate_Achievements": "2023-06-25T00:00:31.777672+00:00"
 }

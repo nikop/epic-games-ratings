@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2921,
+  "EOS_Progressed": 2922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1975,6 +1975,11 @@
       "Time": "2023-06-24T23:07:08.8937584+00:00",
       "NumProgressed": 2921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T00:05:46.9793648+00:00",
+      "NumProgressed": 2922,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2082,7 +2087,7 @@
       "Name": "Surgical Excision",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -2234,7 +2239,7 @@
       "Name": "An Ill Omen",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2322,7 +2327,7 @@
       "Name": "Bloodless",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2457,21 +2462,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2921,
+      "Progressed": 2922,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2921,
+      "Progressed": 2922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-06-24T23:07:08.8937579+00:00",
+  "LastChanged_Achievements": "2023-06-25T00:05:46.9793645+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:32.207379+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:59:11.7507593+00:00",
-  "LastUpdate_Achievements": "2023-06-24T23:07:08.8938215+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:58:34.6973282+00:00",
+  "LastUpdate_Achievements": "2023-06-25T00:05:46.9794323+00:00"
 }

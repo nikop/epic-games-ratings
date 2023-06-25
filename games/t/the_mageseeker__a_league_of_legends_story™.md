@@ -5,13 +5,13 @@ Rating: 4.80 (Ranked 81)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,273 |
+| For Demacia | 95.00% | ~2,274 |
 | No more cages! | 92.00% | ~2,202 |
 | Everfrost | 78.00% | ~1,867 |
 | Dark Forest | 77.00% | ~1,843 |
 | Pentakill | 76.00% | ~1,819 |
-| The use of petricite | 73.00% | ~1,747 |
-| You can pet the dog | 61.00% | ~1,460 |
+| The use of petricite | 73.00% | ~1,748 |
+| You can pet the dog | 60.00% | ~1,436 |
 | Big Helmet Bro | 35.00% | ~838 |
 | Clarion Cove | 35.00% | ~838 |
 | Past trauma | 34.00% | ~814 |
@@ -24,8 +24,8 @@ Rating: 4.80 (Ranked 81)
 | Devineur | 27.00% | ~646 |
 | Whispers in the Woods I | 26.00% | ~622 |
 | Hijack | 26.00% | ~622 |
-| Ancient power | 24.00% | ~574 |
-| I chose my shackles | 22.00% | ~526 |
+| Ancient power | 24.00% | ~575 |
+| I chose my shackles | 22.00% | ~527 |
 | Sacred Woods | 21.00% | ~503 |
 | Capelworth | 21.00% | ~503 |
 | Little light | 20.00% | ~479 |
@@ -53,13 +53,13 @@ Rating: 4.80 (Ranked 81)
 | Chains master | 9.00% | ~215 |
 | Truth is a dark mirror | 9.00% | ~215 |
 | You can pet the... horse | 9.00% | ~215 |
-| Do you trust me? | 8.00% | ~191 |
-| Spellcrafting | 8.00% | ~191 |
+| Do you trust me? | 8.00% | ~192 |
+| Spellcrafting | 8.00% | ~192 |
 | The great mage rebellion starts now | 7.00% | ~168 |
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,393 (Ranked 154)  
+Progressed: 2,394 (Ranked 154)  
 Completed: 2 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 2 (0.08%) (Ranked 183)
 | 2023-06-22 | 2,385 | 2 |
 | 2023-06-23 | 2,389 | 2 |
 | 2023-06-24 | 2,393 | 2 |
+| 2023-06-25 | 2,394 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

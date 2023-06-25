@@ -229,9 +229,9 @@
       "ID": "ACH_DOGS_OF_WAR",
       "SetID": "5kae3ip",
       "Name": "The Dogs of War",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ECHOES",
@@ -294,8 +294,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-06-24T23:03:40.8238515+00:00",
+  "LastChanged_Achievements": "2023-06-25T00:03:10.4936313+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.3775262+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:57:43.9013279+00:00",
-  "LastUpdate_Achievements": "2023-06-24T23:03:40.8238743+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:57:27.8427823+00:00",
+  "LastUpdate_Achievements": "2023-06-25T00:03:10.4936451+00:00"
 }

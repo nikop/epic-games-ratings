@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 81.00% | ~44 |
-| Accessory Unlocked | 81.00% | ~44 |
-| Character Unlocked | 80.00% | ~43 |
-| Homer | 65.00% | ~35 |
-| Have a good trip! | 65.00% | ~35 |
-| First Win | 61.00% | ~33 |
-| Kickball Unlocked | 59.00% | ~32 |
-| Settle Down | 59.00% | ~32 |
-| Butter Fingers | 57.00% | ~31 |
-| Stay Hydrated | 57.00% | ~31 |
-| True Story! | 31.00% | ~17 |
-| Grand Slam! | 28.00% | ~15 |
-| Kick It | 26.00% | ~14 |
-| Bedroom Secret Spot | 26.00% | ~14 |
+| Hat Unlocked | 82.00% | ~45 |
+| Accessory Unlocked | 82.00% | ~45 |
+| Character Unlocked | 80.00% | ~44 |
+| Homer | 64.00% | ~35 |
+| Have a good trip! | 64.00% | ~35 |
+| First Win | 62.00% | ~34 |
+| Settle Down | 60.00% | ~33 |
+| Kickball Unlocked | 58.00% | ~32 |
+| Butter Fingers | 58.00% | ~32 |
+| Stay Hydrated | 56.00% | ~31 |
+| True Story! | 33.00% | ~18 |
+| Grand Slam! | 27.00% | ~15 |
+| Bedroom Secret Spot | 27.00% | ~15 |
+| Kick It | 25.00% | ~14 |
 | Have Mercy | 24.00% | ~13 |
 | Spooky | 20.00% | ~11 |
-| Save some water for the fishies | 19.00% | ~10 |
-| Classroom Secret Spot | 17.00% | ~9 |
-| Bathroom Secret Spot | 17.00% | ~9 |
+| Save some water for the fishies | 18.00% | ~10 |
+| Classroom Secret Spot | 16.00% | ~9 |
+| Bathroom Secret Spot | 16.00% | ~9 |
 | At least everyone still had fun | 13.00% | ~7 |
 | Living Room Secret Spot | 11.00% | ~6 |
 | Angry Dad | 11.00% | ~6 |
 | Just how we drew it up | 9.00% | ~5 |
 | Interference | 7.00% | ~4 |
-| Kitchen Secret Spot | 6.00% | ~3 |
-| You broke it, you bought it | 6.00% | ~3 |
-| Angry Mom | 6.00% | ~3 |
+| Kitchen Secret Spot | 5.00% | ~3 |
+| You broke it, you bought it | 5.00% | ~3 |
+| Angry Mom | 5.00% | ~3 |
 | Attic Secret Spot | 4.00% | ~2 |
 | Basement Secret Spot | 4.00% | ~2 |
 | Hi Hungry, I'm Dad | 4.00% | ~2 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 323)  
+Progressed: 55 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,3 +68,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 49 | 0 |
 | 2023-06-23 | 52 | 0 |
 | 2023-06-24 | 54 | 0 |
+| 2023-06-25 | 55 | 0 |

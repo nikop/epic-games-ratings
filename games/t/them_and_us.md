@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 70.00% | ~102 |
-| Forced to Kill | 70.00% | ~102 |
-| A Night To Remember | 38.00% | ~55 |
-| Safe...For now? | 32.00% | ~46 |
-| Open Sesame | 28.00% | ~41 |
+| Alone with Them | 69.00% | ~101 |
+| Forced to Kill | 69.00% | ~101 |
+| A Night To Remember | 37.00% | ~54 |
+| Safe...For now? | 31.00% | ~46 |
+| Open Sesame | 27.00% | ~40 |
 | Them and Us | 15.00% | ~22 |
 | OUTRAGE | 15.00% | ~22 |
 | What have I done!? | 15.00% | ~22 |
-| Alone In The Dark | 12.00% | ~17 |
-| The Cultists | 12.00% | ~17 |
-| This Coffin Has Your Name On It! | 12.00% | ~17 |
+| Alone In The Dark | 12.00% | ~18 |
+| The Cultists | 12.00% | ~18 |
+| This Coffin Has Your Name On It! | 12.00% | ~18 |
 | Parasite Exterminated | 11.00% | ~16 |
-| Lover of classics | 10.00% | ~14 |
-| The Forgotten Tower | 10.00% | ~14 |
+| Lover of classics | 10.00% | ~15 |
+| The Forgotten Tower | 10.00% | ~15 |
 | Rest In Peace | 9.00% | ~13 |
 | The Curse Is Real | 8.00% | ~12 |
-| Trapped | 8.00% | ~12 |
+| Trapped | 7.00% | ~10 |
 | What A Mansion | 7.00% | ~10 |
 | Modern Player | 6.00% | ~9 |
-| Researcher | 6.00% | ~9 |
-| I Am The Gate Keeper! | 6.00% | ~9 |
+| Researcher | 5.00% | ~7 |
+| I Am The Gate Keeper! | 5.00% | ~7 |
 | Run and Gun | 3.00% | ~4 |
 | The bus stop | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
@@ -45,8 +45,8 @@
 | No Time To Relax | 0.70% | ~1 |
 | Survival Horror | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 277)  
-Completed: 1 (0.69%) (Ranked 109)  
+Progressed: 147 (Ranked 277)  
+Completed: 1 (0.68%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 1 (0.69%) (Ranked 109)
 | 2023-06-15 | 143 | 1 |
 | 2023-06-19 | 144 | 1 |
 | 2023-06-21 | 145 | 1 |
+| 2023-06-25 | 147 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

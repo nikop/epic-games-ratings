@@ -2,7 +2,7 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "ProductSlug": "f1-manager-2022",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 469,
@@ -1597,8 +1597,8 @@
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
   "LastChanged": "2023-06-23T14:58:36.5123038+00:00",
-  "LastChanged_Achievements": "2023-06-24T23:03:50.9622084+00:00",
+  "LastChanged_Achievements": "2023-06-25T00:03:18.0859937+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:05.5604065+00:00",
-  "LastUpdate_Ratings": "2023-06-24T22:58:47.5050148+00:00",
-  "LastUpdate_Achievements": "2023-06-24T23:03:50.9622115+00:00"
+  "LastUpdate_Ratings": "2023-06-24T23:58:15.5155675+00:00",
+  "LastUpdate_Achievements": "2023-06-25T00:03:18.0859959+00:00"
 }

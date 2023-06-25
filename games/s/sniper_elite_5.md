@@ -39,6 +39,7 @@ Rating: 4.47 (Ranked 593)
 | Shipbreaker | 0.50% | ~15 |
 | Enemy at the Gates | 0.40% | ~12 |
 | Strategist | 0.40% | ~12 |
+| Burn after reading | 0.40% | ~12 |
 | It'll Buff Right Out | 0.40% | ~12 |
 | Locomotion Commotion | 0.40% | ~12 |
 | Don't hold your breath | 0.40% | ~12 |
@@ -46,7 +47,6 @@ Rating: 4.47 (Ranked 593)
 | Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
 | From Paris with Love | 0.30% | ~9 |
-| Burn after reading | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
 | Tinkerer | 0.30% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,118 (Ranked 144)  
+Progressed: 3,119 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-22 | 3,087 | 2 |
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
+| 2023-06-25 | 3,119 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
