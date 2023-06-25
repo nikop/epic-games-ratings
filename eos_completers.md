@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.65% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.26% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -21,7 +21,7 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.99% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.71% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.65% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.64% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -41,22 +41,22 @@
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
-| 43 | [Doodle God](games/d/doodle_god.md) | 3.69% |
-| 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
-| 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
-| 46 | [JARS](games/j/jars.md) | 3.45% |
-| 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.33% |
-| 49 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
+| 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
+| 45 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
+| 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 47 | [JARS](games/j/jars.md) | 3.45% |
+| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.33% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.10% |
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
-| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.94% |
-| 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 55 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.93% |
+| 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
 | 59 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -73,7 +73,7 @@
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.03% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.02% |
 | 75 | [Frogun](games/f/frogun.md) | 1.93% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.85% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -89,7 +89,7 @@
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.24% |
+| 90 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.23% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
