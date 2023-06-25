@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1749,
+  "EOS_Progressed": 1751,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -2681,6 +2681,11 @@
       "Time": "2023-06-25T13:18:16.4768993+00:00",
       "NumProgressed": 1749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-25T14:04:29.6211657+00:00",
+      "NumProgressed": 1751,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2722,9 +2727,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 473
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -2732,7 +2737,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FACE_FACE",
@@ -2740,7 +2745,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -2748,7 +2753,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -2796,7 +2801,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "GUARD_MAKER",
@@ -2804,7 +2809,7 @@
       "Name": "Guard Maker",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -2820,7 +2825,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -2828,7 +2833,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -2867,14 +2872,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1749,
+      "Progressed": 1751,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-25T13:18:16.4768987+00:00",
+  "LastChanged_Achievements": "2023-06-25T14:04:29.6211651+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:11:06.5383451+00:00",
-  "LastUpdate_Achievements": "2023-06-25T13:18:16.4769347+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:57:22.4357828+00:00",
+  "LastUpdate_Achievements": "2023-06-25T14:04:29.6212001+00:00"
 }

@@ -23,6 +23,7 @@ Rating: 4.17 (Ranked 857)
 | The Show Mud Go On | 2.00% | ~1,319 |
 | Rock and a Hard Place | 2.00% | ~1,319 |
 | Not On My Watch | 2.00% | ~1,319 |
+| Bulldozed | 2.00% | ~1,319 |
 | Shock Til They Drop | 2.00% | ~1,319 |
 | Snow Problem | 2.00% | ~1,319 |
 | Cooldown | 2.00% | ~1,319 |
@@ -33,7 +34,6 @@ Rating: 4.17 (Ranked 857)
 | Voiceless | 2.00% | ~1,319 |
 | Seeking Asylum | 2.00% | ~1,319 |
 | Gotham Knight | 2.00% | ~1,319 |
-| Bulldozed | 1.00% | ~660 |
 | Out of Their League | 1.00% | ~660 |
 | Drone You Out | 1.00% | ~660 |
 | Gotham City Confidential | 1.00% | ~660 |
@@ -48,9 +48,9 @@ Rating: 4.17 (Ranked 857)
 | Hammer and Icicle | 0.30% | ~109 |
 | Practice Makes Perfect | 0.30% | ~198 |
 | He'd Be So Proud of You | 0.30% | ~198 |
-| Renewable Enemy Source | 0.20% | ~72 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
-| The Cold, the Bad and the Ugly | 0.20% | ~72 |
+| Renewable Enemy Source | 0.20% | ~73 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
+| The Cold, the Bad and the Ugly | 0.20% | ~73 |
 | Talonted | 0.20% | ~132 |
 | The Man-Bat Family | 0.20% | ~132 |
 | Batarang Collector | 0.20% | ~132 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,970 (Ranked 72)  
+Progressed: 65,973 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,970 | 98 |
+| 2023-06-25 | 65,973 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

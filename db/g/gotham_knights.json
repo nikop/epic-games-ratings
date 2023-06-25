@@ -1730,9 +1730,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65970,
+  "EOS_Progressed": 65973,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7625,6 +7625,11 @@
       "Time": "2023-06-25T13:19:58.5787283+00:00",
       "NumProgressed": 65970,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-25T14:06:16.2674226+00:00",
+      "NumProgressed": 65973,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -7660,7 +7665,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -7668,7 +7673,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -7676,7 +7681,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -7810,9 +7815,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 1319
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -8123,13 +8128,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65970,
+      "Progressed": 65973,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36250,
+      "Progressed": 36253,
       "Completed": 2647
     }
   ],
@@ -8137,8 +8142,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-24T14:01:12.6491036+00:00",
-  "LastChanged_Achievements": "2023-06-25T13:19:58.5787277+00:00",
+  "LastChanged_Achievements": "2023-06-25T14:06:16.2674221+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:13:28.4429796+00:00",
-  "LastUpdate_Achievements": "2023-06-25T13:19:58.5788776+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:59:56.0988965+00:00",
+  "LastUpdate_Achievements": "2023-06-25T14:06:16.2675231+00:00"
 }

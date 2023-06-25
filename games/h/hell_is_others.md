@@ -5,10 +5,10 @@ Rating: 4.44 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,068 |
-| Predator I | 22.00% | ~55,403 |
-| Fixer I | 10.00% | ~25,183 |
-| A week in Century City | 10.00% | ~25,183 |
+| Survivor | 31.00% | ~78,069 |
+| Predator I | 22.00% | ~55,404 |
+| Fixer I | 10.00% | ~25,184 |
+| A week in Century City | 10.00% | ~25,184 |
 | The Wait | 7.00% | ~17,628 |
 | Green thumb I | 6.00% | ~15,110 |
 | Cleaning Company | 6.00% | ~15,110 |
@@ -44,10 +44,10 @@ Rating: 4.44 (Ranked 633)
 | Expert Hunter | 0.40% | ~1,007 |
 | Fungi hunter | 0.40% | ~1,007 |
 | Predator III | 0.40% | ~1,007 |
-| Arms dealer | 0.30% | ~755 |
-| Fixer III | 0.30% | ~755 |
-| AML questionnaire | 0.30% | ~755 |
-| Heartbreaker | 0.30% | ~755 |
+| Arms dealer | 0.30% | ~756 |
+| Fixer III | 0.30% | ~756 |
+| AML questionnaire | 0.30% | ~756 |
+| Heartbreaker | 0.30% | ~756 |
 | Workhorse | 0.20% | ~504 |
 | Homerun | 0.20% | ~504 |
 | A season in Century City | 0.20% | ~504 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 633)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,831 (Ranked 42)  
+Progressed: 251,835 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-22 | 251,645 | 2 |
 | 2023-06-23 | 251,716 | 2 |
 | 2023-06-24 | 251,806 | 2 |
-| 2023-06-25 | 251,831 | 2 |
+| 2023-06-25 | 251,835 | 2 |
 ## Awards
 Max (Unique Visuals): 30  (Ranked 454)  
 Sum: 165 (Ranked 378)  

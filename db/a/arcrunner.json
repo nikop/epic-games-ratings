@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1269,9 +1269,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1301,9 +1301,9 @@
       "ID": "ACHV_DOCKS",
       "SetID": "cceobco",
       "Name": "Starship Docks",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_EDEN",
@@ -1484,8 +1484,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-25T13:16:34.6190759+00:00",
+  "LastChanged_Achievements": "2023-06-25T14:03:16.3103202+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:13:19.4236051+00:00",
-  "LastUpdate_Achievements": "2023-06-25T13:16:34.619107+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:59:47.3994314+00:00",
+  "LastUpdate_Achievements": "2023-06-25T14:03:16.3103502+00:00"
 }

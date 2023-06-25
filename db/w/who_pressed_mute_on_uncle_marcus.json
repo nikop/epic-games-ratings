@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 10.99,
+  "EOS_Completed_Percentage": 10.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -292,6 +292,11 @@
       "Time": "2023-06-24T12:07:39.5301781+00:00",
       "NumProgressed": 191,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-06-25T14:06:03.9535635+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 17,
@@ -301,9 +306,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "bless_the_rain",
@@ -311,7 +316,7 @@
       "Name": "I bless the rain down in London",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "blow",
@@ -327,7 +332,7 @@
       "Name": "Brown nosing",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "cheat",
@@ -335,7 +340,7 @@
       "Name": "Cheat",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "delusions",
@@ -343,7 +348,7 @@
       "Name": "Delusions",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -351,7 +356,7 @@
       "Name": "Don\u0027t fear the baldness",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "instinct",
@@ -365,9 +370,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "just_like_me",
@@ -375,7 +380,7 @@
       "Name": "Just like me",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "making_a_murderer",
@@ -383,7 +388,7 @@
       "Name": "Making a murderer",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "prove_it",
@@ -399,7 +404,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "the_truth",
@@ -429,16 +434,16 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 21
     }
   ],
@@ -446,8 +451,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-25T13:19:46.6200403+00:00",
+  "LastChanged_Achievements": "2023-06-25T14:06:03.953563+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:17.5674445+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:13:43.7320048+00:00",
-  "LastUpdate_Achievements": "2023-06-25T13:19:46.6200561+00:00"
+  "LastUpdate_Ratings": "2023-06-25T14:00:14.0188374+00:00",
+  "LastUpdate_Achievements": "2023-06-25T14:06:03.9535767+00:00"
 }
