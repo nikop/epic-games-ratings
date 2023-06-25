@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76256,
+  "EOS_Progressed": 76262,
   "EOS_Completed": 362,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7313,6 +7313,11 @@
       "Time": "2023-06-25T10:00:24.7075001+00:00",
       "NumProgressed": 76256,
       "NumCompleted": 362
+    },
+    {
+      "Time": "2023-06-25T11:01:57.1318077+00:00",
+      "NumProgressed": 76262,
+      "NumCompleted": 362
     }
   ],
   "TotalAchievements": 10,
@@ -7388,7 +7393,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 26690
+      "UsersEstimate": 26692
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -7396,22 +7401,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8388
+      "UsersEstimate": 8389
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 76256,
+      "Progressed": 76262,
       "Completed": 362
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-25T10:00:24.7074996+00:00",
+  "LastChanged_Achievements": "2023-06-25T11:01:57.1318068+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.9671722+00:00",
-  "LastUpdate_Ratings": "2023-06-25T10:00:09.3110606+00:00",
-  "LastUpdate_Achievements": "2023-06-25T10:00:24.7075636+00:00"
+  "LastUpdate_Ratings": "2023-06-25T11:01:33.7749809+00:00",
+  "LastUpdate_Achievements": "2023-06-25T11:01:57.1318569+00:00"
 }

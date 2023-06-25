@@ -15,7 +15,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Breaking Point | 40.00% | ~153 |
 | Treasure Hunter | 37.00% | ~141 |
 | Sniper Wolf | 36.00% | ~138 |
-| The Motivation | 34.00% | ~130 |
+| The Motivation | 35.00% | ~134 |
 | Heroism | 33.00% | ~126 |
 | Missing in Action | 33.00% | ~126 |
 | Collectibles of Chapter I | 32.00% | ~122 |
@@ -31,8 +31,8 @@ Number of Ratings: 34  (23.09.2022)
 | Bullseye! | 19.00% | ~73 |
 | Food Massacre | 17.00% | ~65 |
 | Sorrow | 16.00% | ~61 |
+| Collectibles of Chapter III | 15.00% | ~57 |
 | Collectibles of Chapter IV | 15.00% | ~57 |
-| Collectibles of Chapter III | 14.00% | ~53 |
 | Atonement | 14.00% | ~53 |
 | Helping Hand | 14.00% | ~53 |
 | Without a Second Thought | 12.00% | ~46 |

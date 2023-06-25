@@ -11,7 +11,7 @@ Rating: 4.73 (Ranked 156)
 | Protector's Duty | 69.00% | ~8,161 |
 | In our Wake | 67.00% | ~7,925 |
 | Alchemist | 67.00% | ~7,925 |
-| Leaving all Behind | 63.00% | ~7,452 |
+| Leaving all Behind | 64.00% | ~7,570 |
 | Felons | 61.00% | ~7,215 |
 | A Sea of Promises | 59.00% | ~6,979 |
 | Tales and Revelations | 56.00% | ~6,624 |
@@ -19,7 +19,7 @@ Rating: 4.73 (Ranked 156)
 | The Cradle of Centuries | 47.00% | ~5,559 |
 | The Life We Deserve | 44.00% | ~5,204 |
 | Night guard | 42.00% | ~4,968 |
-| Nothing Left | 37.00% | ~4,376 |
+| Nothing Left | 38.00% | ~4,495 |
 | Healing our Wounds | 35.00% | ~4,140 |
 | Dying Sun | 32.00% | ~3,785 |
 | Improved crossbow | 26.00% | ~3,075 |

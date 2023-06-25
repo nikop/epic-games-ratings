@@ -19,8 +19,8 @@ Number of Ratings: 62  (23.09.2022)
 | Infidel | 23.00% | ~1,024 |
 | GOLIATH | 21.00% | ~935 |
 | Firebug | 20.00% | ~891 |
+| Nothing to Lose | 18.00% | ~802 |
 | I Choose You | 17.00% | ~757 |
-| Nothing to Lose | 17.00% | ~757 |
 | Big Sister | 15.00% | ~668 |
 | Gear Up | 15.00% | ~668 |
 | SENTINEL | 15.00% | ~668 |

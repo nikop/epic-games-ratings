@@ -5,16 +5,16 @@ Rating: 4.15 (Ranked 865)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,487 |
-| Unlocked Potential | 9.00% | ~3,487 |
-| Tinkerer | 7.00% | ~2,712 |
+| Attachments | 9.00% | ~3,488 |
+| Unlocked Potential | 9.00% | ~3,488 |
+| Tinkerer | 7.00% | ~2,713 |
 | Leapfrogger | 6.00% | ~2,325 |
 | Knock 'Em Dead | 6.00% | ~2,325 |
 | Pilgrimage: Initiate | 6.00% | ~2,325 |
 | Hell of a Run | 6.00% | ~2,325 |
 | Call of the Fount: Baptized | 6.00% | ~2,325 |
-| No Mercy | 5.00% | ~1,937 |
-| Explorer: Seeker | 5.00% | ~1,937 |
+| No Mercy | 5.00% | ~1,938 |
+| Explorer: Seeker | 5.00% | ~1,938 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,550 |
 | Stuck | 4.00% | ~1,550 |
 | Help Me Out Here | 4.00% | ~1,550 |
@@ -27,12 +27,12 @@ Rating: 4.15 (Ranked 865)
 | Damned If You Do... | 2.00% | ~775 |
 | Explorer: Pathfinder | 2.00% | ~775 |
 | From Every Angle | 2.00% | ~775 |
-| The Hue of Blue | 1.00% | ~387 |
-| The Truth Will Out | 1.00% | ~387 |
-| Breaking Point | 1.00% | ~387 |
-| None the Wiser | 1.00% | ~387 |
-| Shocker | 1.00% | ~387 |
-| Pilgrimage: Novice | 1.00% | ~387 |
+| The Hue of Blue | 1.00% | ~388 |
+| The Truth Will Out | 1.00% | ~388 |
+| Breaking Point | 1.00% | ~388 |
+| None the Wiser | 1.00% | ~388 |
+| Shocker | 1.00% | ~388 |
+| Pilgrimage: Novice | 1.00% | ~388 |
 | Forspoken | 0.90% | ~349 |
 | Wildfire | 0.70% | ~271 |
 | Awakening | 0.60% | ~232 |
@@ -43,12 +43,12 @@ Rating: 4.15 (Ranked 865)
 | Craftsperson | 0.30% | ~116 |
 | Tit for Tat | 0.30% | ~116 |
 | Promises | 0.30% | ~116 |
-| Paragon | 0.20% | ~77 |
-| Pilgrimage: Adept | 0.20% | ~77 |
-| Call of the Fount: Beatified | 0.20% | ~77 |
-| I Can Fly! | 0.20% | ~77 |
-| A Roaring Trade | 0.20% | ~77 |
-| Rebirth | 0.20% | ~77 |
+| Paragon | 0.20% | ~78 |
+| Pilgrimage: Adept | 0.20% | ~78 |
+| Call of the Fount: Beatified | 0.20% | ~78 |
+| I Can Fly! | 0.20% | ~78 |
+| A Roaring Trade | 0.20% | ~78 |
+| Rebirth | 0.20% | ~78 |
 | Abominizer | 0.10% | ~39 |
 | Through the Eyes of Another: Visionary | 0.10% | ~39 |
 | Kit and Caboodle | 0.10% | ~39 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 865)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,748 (Ranked 87)  
+Progressed: 38,750 (Ranked 87)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,10 +125,10 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-22 | 38,713 | 3 |
 | 2023-06-23 | 38,732 | 3 |
 | 2023-06-24 | 38,741 | 3 |
-| 2023-06-25 | 38,748 | 3 |
+| 2023-06-25 | 38,750 | 3 |
 ## Awards
-Max (Character Customization): 20  (Ranked 496)  
-Sum: 20 (Ranked 496)  
+Max (Character Customization): 20  (Ranked 497)  
+Sum: 20 (Ranked 497)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

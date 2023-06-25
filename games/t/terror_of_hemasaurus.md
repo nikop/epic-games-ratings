@@ -11,15 +11,15 @@
 | Aerosolized | 39.00% | ~25 |
 | Test of Faith | 36.00% | ~23 |
 | Monstrosity Atrocity | 33.00% | ~21 |
-| Reign of Terror | 28.00% | ~18 |
-| Crushing All Cars | 23.00% | ~15 |
+| Reign of Terror | 30.00% | ~19 |
+| Crushing All Cars | 25.00% | ~16 |
+| Horror Show | 20.00% | ~13 |
 | Brain Chopper | 19.00% | ~12 |
-| Horror Show | 19.00% | ~12 |
-| Night Bird | 13.00% | ~8 |
+| Night Bird | 14.00% | ~9 |
 | Demolition Ambition | 11.00% | ~7 |
+| Punchy Wagon | 8.00% | ~5 |
 | Kill All Humans! | 8.00% | ~5 |
 | Hindenburgerer | 6.00% | ~4 |
-| Punchy Wagon | 6.00% | ~4 |
 | Holy Terror | 5.00% | ~3 |
 | Midair Affair | 5.00% | ~3 |
 | Plight of the Valkyrie | 5.00% | ~3 |

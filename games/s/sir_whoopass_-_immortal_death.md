@@ -51,8 +51,8 @@
 | Just wing it! | 16.00% | ~14 |
 | Deal with it | 16.00% | ~14 |
 | Yeehaw!!! | 15.00% | ~13 |
+| You're looking mozzare-hella good! | 14.00% | ~12 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~12 |
-| You're looking mozzare-hella good! | 13.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 10.00% | ~9 |
 | Timber! | 10.00% | ~9 |
 | Grumpy Immortal | 10.00% | ~9 |
@@ -66,8 +66,8 @@
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
+| Ancient Ruins of Leaky Roof | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
-| Ancient Ruins of Leaky Roof | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
 | Fifty Shades of Gruyere | 2.00% | ~2 |

@@ -30,7 +30,7 @@ Rating: 4.89 (Ranked 13)
 | Who's the boss now? | 28.00% | ~934 |
 | I have to read these things? | 28.00% | ~934 |
 | I look cool. But I can look COOLER. | 28.00% | ~934 |
-| There's such a thing as TOO helpful | 21.00% | ~701 |
+| There's such a thing as TOO helpful | 22.00% | ~734 |
 | That's a lot of junk metal… | 19.00% | ~634 |
 | Beat-hit mania | 18.00% | ~600 |
 | Well that was a rush! | 17.00% | ~567 |

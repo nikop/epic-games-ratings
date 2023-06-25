@@ -5,10 +5,10 @@ Rating: 4.57 (Ranked 441)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 19.00% | ~519 |
+| Wakey Wakey | 20.00% | ~546 |
+| Infinite Growth... | 17.00% | ~464 |
 | Sputnik 2049 | 17.00% | ~464 |
 | Without Breaking Some Eggs... | 16.00% | ~437 |
-| Infinite Growth... | 16.00% | ~437 |
 | Space Society | 11.00% | ~300 |
 | A Thousand Strong | 11.00% | ~300 |
 | Ready for a New World | 11.00% | ~300 |
@@ -46,8 +46,8 @@ Rating: 4.57 (Ranked 441)
 | Space Greenhouse | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
 | Tiqqun Contender | 0.90% | ~25 |
+| You Had One Job... | 0.90% | ~25 |
 | Tiqqun Unchained | 0.90% | ~25 |
-| You Had One Job... | 0.80% | ~22 |
 | Scientifically Accurate | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |
 | Gregor Spinoza | 0.70% | ~19 |

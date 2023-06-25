@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~33,859 |
+| Own use | 76.00% | ~33,860 |
 | I read Shakespeare and stuff | 64.00% | ~28,513 |
-| Just a sprinkle | 63.00% | ~28,067 |
-| I'm stumped | 61.00% | ~27,176 |
-| Plant get enough | 61.00% | ~27,176 |
+| Just a sprinkle | 63.00% | ~28,068 |
+| I'm stumped | 61.00% | ~27,177 |
+| Plant get enough | 61.00% | ~27,177 |
 | This is just my weekend vehicle | 58.00% | ~25,840 |
 | It's just the beginning | 58.00% | ~25,840 |
-| Hard work pays off | 53.00% | ~23,612 |
+| Hard work pays off | 53.00% | ~23,613 |
 | It's never too late to farm | 47.00% | ~20,939 |
-| All out of Land | 44.00% | ~19,602 |
+| All out of Land | 44.00% | ~19,603 |
 | Field Trip | 43.00% | ~19,157 |
-| I like to switch it up | 40.00% | ~17,820 |
-| Help me to help you | 38.00% | ~16,929 |
-| Ultimutt Pawesomeness | 28.00% | ~12,474 |
-| Van Gogh | 26.00% | ~11,583 |
+| I like to switch it up | 40.00% | ~17,821 |
+| Help me to help you | 38.00% | ~16,930 |
+| Ultimutt Pawesomeness | 28.00% | ~12,475 |
+| Van Gogh | 26.00% | ~11,584 |
 | You wood not believe it | 21.00% | ~9,356 |
 | Vehicle fleet | 21.00% | ~9,356 |
 | The plot thickens | 16.00% | ~7,128 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~178 |
 | Raisin the stakes | 0.30% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,551 (Ranked 85)  
+Progressed: 44,552 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,10 +116,10 @@ Completed: 5 (0.01%) (Ranked 217)
 | 2023-06-22 | 44,446 | 5 |
 | 2023-06-23 | 44,483 | 5 |
 | 2023-06-24 | 44,543 | 5 |
-| 2023-06-25 | 44,551 | 5 |
+| 2023-06-25 | 44,552 | 5 |
 ## Awards
 Max (Great for Beginners): 4,432  (Ranked 70)  
-Sum: 37,554 (Ranked 31)  
+Sum: 37,558 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -127,7 +127,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 3,988 |
 | This game is Educational | 3,937 |
 | This game has Quickly Understood Controls | 3,904 |
-| This game is Highly Recommended | 3,768 |
+| This game is Highly Recommended | 3,772 |
 | This game is Extremely Fun | 3,764 |
 | This game has Diverse Characters | 3,742 |
 | This game has Amazing Storytelling | 3,655 |
@@ -297,3 +297,4 @@ Diff (max vs sum): 39
 | 2023-06-22 | 4.70 | - | 4,413 | 37,468 |
 | 2023-06-23 | 4.70 | - | 4,426 | 37,504 |
 | 2023-06-24 | 4.70 | - | 4,432 | 37,554 |
+| 2023-06-25 | 4.70 | - | 4,432 | 37,558 |

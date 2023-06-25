@@ -37,22 +37,22 @@ Rating: 4.47 (Ranked 592)
 | Enemy at the Gates | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
+| It'll Buff Right Out | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~12 |
 | Burn after reading | 0.40% | ~12 |
-| It'll Buff Right Out | 0.40% | ~12 |
 | Locomotion Commotion | 0.40% | ~12 |
 | Don't hold your breath | 0.40% | ~12 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
+| Ghost of Falaise | 0.40% | ~12 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
 | Tinkerer | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
-| Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |

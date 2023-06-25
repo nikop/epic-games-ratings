@@ -20,8 +20,8 @@
 | Silent City Glyph | 0.40% | ~3 |
 | Maestro Mountain Glyph | 0.40% | ~3 |
 | Silent City: Reprise | 0.40% | ~3 |
+| Symphony | 0.10% | ~1 |
 | Resonance | 0.10% | ~1 |
-| Symphony | 0.00% | ~0 |
 | Musica Universalis | 0.00% | ~0 |
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |

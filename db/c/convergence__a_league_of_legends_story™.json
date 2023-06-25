@@ -1546,9 +1546,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -1850,9 +1850,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "WatcherSpared",
@@ -1889,8 +1889,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-25T10:05:30.7724049+00:00",
+  "LastChanged_Achievements": "2023-06-25T11:07:05.7254329+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-25T09:59:16.1560781+00:00",
-  "LastUpdate_Achievements": "2023-06-25T10:05:30.7724613+00:00"
+  "LastUpdate_Ratings": "2023-06-25T11:00:21.6931735+00:00",
+  "LastUpdate_Achievements": "2023-06-25T11:07:05.7254755+00:00"
 }
