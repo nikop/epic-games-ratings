@@ -11,7 +11,7 @@ Number of Ratings: 706  (23.09.2022)
 | Reap What You Sow | 69.00% | ~2,830 |
 | The First Day | 66.00% | ~2,707 |
 | Green Thumb | 65.00% | ~2,666 |
-| Novice Researcher | 62.00% | ~2,543 |
+| Novice Researcher | 63.00% | ~2,584 |
 | Putting Food on the Table | 59.00% | ~2,420 |
 | Onward | 54.00% | ~2,215 |
 | Home Cooked Meal | 52.00% | ~2,133 |
@@ -86,8 +86,8 @@ Completed: 9 (0.22%) (Ranked 153)
 | 2023-06-25 | 4,102 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 309)  
-Sum: 957 (Ranked 237)  
-Diff (max vs sum): 72  
+Sum: 958 (Ranked 236)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 120 |
@@ -95,7 +95,7 @@ Diff (max vs sum): 72
 | This game has Diverse Characters | 106 |
 | This game has Quickly Understood Controls | 102 |
 | This game is Extremely Fun | 101 |
-| This game is Highly Recommended | 98 |
+| This game is Highly Recommended | 99 |
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 83 |
 | This game has Unique Visuals | 76 |
@@ -209,3 +209,4 @@ Diff (max vs sum): 72
 | 2023-06-17 | 4.60 | - | 120 | 953 |
 | 2023-06-23 | 4.60 | - | 120 | 955 |
 | 2023-06-24 | 4.60 | - | 120 | 957 |
+| 2023-06-25 | 4.60 | - | 120 | 958 |

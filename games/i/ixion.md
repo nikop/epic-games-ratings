@@ -32,13 +32,13 @@ Rating: 4.57 (Ranked 439)
 | Oats | 3.00% | ~82 |
 | BRAWL! | 3.00% | ~82 |
 | All in Good Health | 3.00% | ~82 |
+| What the Ruins Teach Us | 3.00% | ~82 |
 | What They Hide From Us | 2.00% | ~55 |
 | ...  in a finite world | 2.00% | ~55 |
 | Sustainable Energy | 2.00% | ~55 |
 | In Dolos We Trust | 2.00% | ~55 |
 | Delivery! | 2.00% | ~55 |
 | Pedal to the Metal | 2.00% | ~55 |
-| What the Ruins Teach Us | 2.00% | ~55 |
 | Pulsar Disciple | 2.00% | ~55 |
 | Mutual Loyalty | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |

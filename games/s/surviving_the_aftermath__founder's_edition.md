@@ -7,10 +7,10 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,832 |
-| Leader | 61.00% | ~4,151 |
+| Leader | 61.00% | ~4,152 |
 | Explorer | 53.00% | ~3,607 |
 | Healer | 53.00% | ~3,607 |
-| Aspiring Inventor | 44.00% | ~2,994 |
+| Aspiring Inventor | 44.00% | ~2,995 |
 | Adventurer | 41.00% | ~2,790 |
 | Famous Healer | 38.00% | ~2,586 |
 | Local Leader | 35.00% | ~2,382 |
@@ -20,11 +20,11 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~2,246 |
 | Survivor | 32.00% | ~2,178 |
 | The Great Healer | 31.00% | ~2,110 |
-| Cleaner | 28.00% | ~1,905 |
-| Catastrofan | 28.00% | ~1,905 |
-| Legendary Explorer | 27.00% | ~1,837 |
-| Finders, Keepers | 26.00% | ~1,769 |
-| Top Notch | 25.00% | ~1,701 |
+| Cleaner | 28.00% | ~1,906 |
+| Catastrofan | 28.00% | ~1,906 |
+| Legendary Explorer | 27.00% | ~1,838 |
+| Finders, Keepers | 26.00% | ~1,770 |
+| Top Notch | 25.00% | ~1,702 |
 | Ice Lakes | 23.00% | ~1,565 |
 | Mentor | 23.00% | ~1,565 |
 | Great Leader | 22.00% | ~1,497 |
@@ -40,8 +40,8 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 13.00% | ~885 |
 | Prepared for Anything | 13.00% | ~885 |
 | Big Catastrofan | 12.00% | ~817 |
-| It's a Finnish Thing | 10.00% | ~680 |
-| Sky Burial | 9.00% | ~612 |
+| It's a Finnish Thing | 10.00% | ~681 |
+| Sky Burial | 9.00% | ~613 |
 | Trader | 8.00% | ~544 |
 | Bread and Circuses | 8.00% | ~544 |
 | New Eden | 7.00% | ~476 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,805 (Ranked 123)  
+Progressed: 6,806 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-22 | 6,693 | 0 |
 | 2023-06-23 | 6,733 | 0 |
 | 2023-06-24 | 6,767 | 0 |
-| 2023-06-25 | 6,805 | 0 |
+| 2023-06-25 | 6,806 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 673 (Ranked 270)  

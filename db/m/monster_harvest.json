@@ -168,9 +168,9 @@
       "ID": "MY_FIRST_PLANIMAL",
       "SetID": "ca3djk0",
       "Name": "My first Planimal!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -225,8 +225,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:06:47.592914+00:00",
+  "LastChanged_Achievements": "2023-06-25T22:05:33.7445359+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:58.8727837+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:58:42.0217424+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:06:47.5929215+00:00"
+  "LastUpdate_Ratings": "2023-06-25T21:58:15.2645887+00:00",
+  "LastUpdate_Achievements": "2023-06-25T22:05:33.7445435+00:00"
 }

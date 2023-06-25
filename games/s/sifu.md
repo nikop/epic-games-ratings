@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~971 |
+| Diligence as a goal | 5.00% | ~972 |
 | Project Arena | 4.00% | ~777 |
-| The Old Grandmaster | 2.00% | ~14,202 |
-| The Assault | 2.00% | ~14,202 |
-| Life is your teacher | 2.00% | ~14,202 |
+| The Old Grandmaster | 2.00% | ~14,203 |
+| The Assault | 2.00% | ~14,203 |
+| Life is your teacher | 2.00% | ~14,203 |
 | The Hateful Pole Fighter | 1.00% | ~7,101 |
 | A Lady's Blood in the Snow | 1.00% | ~7,101 |
 | Lady Wing Chun | 1.00% | ~7,101 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.50% | ~3,551 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,551 |
 | Sword Stained With Blood | 0.50% | ~3,551 |
-| Prodigal Child | 0.40% | ~2,840 |
+| Prodigal Child | 0.40% | ~2,841 |
 | Martial Hub | 0.40% | ~78 |
 | Secure, Protect, Leave | 0.40% | ~78 |
 | Drunken Fighter | 0.30% | ~2,130 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,125 (Ranked 17)  
+Progressed: 710,130 (Ranked 17)  
 Completed: 12,790 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 12,790 (1.80%) (Ranked 78)
 | 2023-06-22 | 709,970 | 12,781 |
 | 2023-06-23 | 710,016 | 12,783 |
 | 2023-06-24 | 710,074 | 12,790 |
-| 2023-06-25 | 710,125 | 12,790 |
+| 2023-06-25 | 710,130 | 12,790 |
 ## Awards
 Max (Great Boss Battles): 6,206  (Ranked 52)  
 Sum: 10,620 (Ranked 78)  

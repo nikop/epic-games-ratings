@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~191 |
 | Computer Says "No" | 5.00% | ~191 |
 | Fairy Tale Come True | 5.00% | ~191 |
+| Apocalypso | 4.00% | ~153 |
 | Been there, Done That | 3.00% | ~115 |
-| Apocalypso | 3.00% | ~115 |
 | Narcissist | 3.00% | ~115 |
 | Promising Endeavors | 3.00% | ~115 |
 | The Time For Wonders | 3.00% | ~115 |

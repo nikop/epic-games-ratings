@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 21,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 780,
   "RatingHistory": [
     {
@@ -794,6 +794,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-06-25T21:57:44.8924566+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -850,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658446,
+  "EOS_Progressed": 658447,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7040,6 +7046,11 @@
       "Time": "2023-06-25T21:07:04.0987596+00:00",
       "NumProgressed": 658446,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-25T22:05:47.1917039+00:00",
+      "NumProgressed": 658447,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7051,7 +7062,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474081
+      "UsersEstimate": 474082
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7195,7 +7206,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92182
+      "UsersEstimate": 92183
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -7434,15 +7445,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658446,
+      "Progressed": 658447,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:07:04.0987591+00:00",
+  "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
+  "LastChanged_Achievements": "2023-06-25T22:05:47.1917035+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:12.6606058+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:58:01.0547268+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:07:04.0988183+00:00"
+  "LastUpdate_Ratings": "2023-06-25T21:57:44.892457+00:00",
+  "LastUpdate_Achievements": "2023-06-25T22:05:47.1917635+00:00"
 }

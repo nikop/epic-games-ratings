@@ -6,23 +6,23 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~202 |
-| Where's that freaking Dwarf? | 87.00% | ~189 |
-| Sock! SOCK! | 70.00% | ~152 |
+| Alt+F4 | 93.00% | ~203 |
+| Where's that freaking Dwarf? | 87.00% | ~190 |
+| Sock! SOCK! | 70.00% | ~153 |
 | Fireproof Wizardess | 56.00% | ~122 |
-| Livin' in a dwarven paradise | 53.00% | ~115 |
+| Livin' in a dwarven paradise | 53.00% | ~116 |
 | Déjà vu | 51.00% | ~111 |
-| GG EZ | 49.00% | ~106 |
+| GG EZ | 49.00% | ~107 |
 | Way of the Wimp | 45.00% | ~98 |
 | DM intervention | 45.00% | ~98 |
-| Oh, when I'll be level 10... | 37.00% | ~80 |
+| Oh, when I'll be level 10... | 37.00% | ~81 |
 | Speedrun | 36.00% | ~78 |
 | A beer, two curses, three companions | 34.00% | ~74 |
-| The plot thickens... At the tavern | 34.00% | ~74 |
 | Team Building Exercise | 34.00% | ~74 |
-| Dwarf Fortress | 31.00% | ~67 |
-| The Ranger of Chaos | 31.00% | ~67 |
-| I am the night | 31.00% | ~67 |
+| The plot thickens... At the tavern | 33.00% | ~72 |
+| Dwarf Fortress | 31.00% | ~68 |
+| The Ranger of Chaos | 31.00% | ~68 |
+| I am the night | 31.00% | ~68 |
 | Thieves' Guild Accreditation | 29.00% | ~63 |
 | Look but don't touch | 28.00% | ~61 |
 | The demons' feast | 25.00% | ~54 |
@@ -40,11 +40,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 17.00% | ~37 |
 | Urik's Depths | 16.00% | ~35 |
 | Cursed die | 15.00% | ~33 |
-| Law and Order | 14.00% | ~30 |
+| Law and Order | 14.00% | ~31 |
+| Res Judicata | 13.00% | ~28 |
 | Dead for good | 13.00% | ~28 |
-| The Dungeon Master | 12.00% | ~26 |
-| Res Judicata | 12.00% | ~26 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~26 |
+| The Dungeon Master | 11.00% | ~24 |
 | Necrophilia | 10.00% | ~22 |
 | It's been a hard day's night | 10.00% | ~22 |
 | Scholar of the Lands of Fangh | 9.00% | ~20 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 254)  
+Progressed: 218 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
-| 2023-06-25 | 217 | 0 |
+| 2023-06-25 | 218 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  
