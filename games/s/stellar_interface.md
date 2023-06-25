@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 83.00% | ~39 |
-| Killing Spree | 66.00% | ~31 |
-| 5Gb HDD | 47.00% | ~22 |
-| Merchant Prince I | 45.00% | ~21 |
-| Dominating | 28.00% | ~13 |
-| Fighting Fit I | 26.00% | ~12 |
+| First Blood | 83.00% | ~40 |
+| Killing Spree | 67.00% | ~32 |
+| 5Gb HDD | 46.00% | ~22 |
+| Merchant Prince I | 44.00% | ~21 |
+| Dominating | 27.00% | ~13 |
+| Fighting Fit I | 25.00% | ~12 |
 | Rambo I | 21.00% | ~10 |
 | 10Gb HDD | 21.00% | ~10 |
 | The Vette | 17.00% | ~8 |
 | Almost There I | 15.00% | ~7 |
 | Mega Kill | 13.00% | ~6 |
 | Stoic | 13.00% | ~6 |
-| Bronze Prince of Ball-air | 9.00% | ~4 |
-| Omicron Alpha | 9.00% | ~4 |
-| Pacifist | 9.00% | ~4 |
-| Collateral Damage I | 9.00% | ~4 |
+| Bronze Prince of Ball-air | 8.00% | ~4 |
+| Omicron Alpha | 8.00% | ~4 |
+| Pacifist | 8.00% | ~4 |
+| Collateral Damage I | 8.00% | ~4 |
 | Galactic Cadet | 6.00% | ~3 |
 | Sectoral Ensign | 4.00% | ~2 |
 | Rambo II | 4.00% | ~2 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 329)  
+Progressed: 48 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,3 +167,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-13 | 42 | 0 |
 | 2023-06-15 | 45 | 0 |
 | 2023-06-16 | 47 | 0 |
+| 2023-06-25 | 48 | 0 |

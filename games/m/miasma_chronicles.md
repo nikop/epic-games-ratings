@@ -10,7 +10,7 @@ Rating: 4.35 (Ranked 734)
 | Aspiring Editor | 74.00% | ~880 |
 | Gun for Hire | 69.00% | ~820 |
 | I am the law! | 62.00% | ~737 |
-| Lumberjack | 50.00% | ~594 |
+| Lumberjack | 51.00% | ~606 |
 | Croaked | 46.00% | ~547 |
 | Limp Richard | 45.00% | ~535 |
 | Exorcist | 44.00% | ~523 |

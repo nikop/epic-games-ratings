@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2838,
+  "EOS_Progressed": 2839,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
@@ -2970,6 +2970,11 @@
       "Time": "2023-06-24T22:04:55.0113406+00:00",
       "NumProgressed": 2838,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-06-25T15:05:37.7840911+00:00",
+      "NumProgressed": 2839,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 24,
@@ -2997,7 +3002,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "12",
@@ -3069,7 +3074,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "20",
@@ -3077,7 +3082,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "21",
@@ -3101,7 +3106,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "24",
@@ -3109,7 +3114,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "3",
@@ -3125,7 +3130,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "5",
@@ -3133,7 +3138,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "6",
@@ -3172,13 +3177,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2838,
+      "Progressed": 2839,
       "Completed": 71
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-25T14:04:37.1499227+00:00",
+  "LastChanged_Achievements": "2023-06-25T15:05:37.7840902+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:53.1588974+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:59:09.1381963+00:00",
-  "LastUpdate_Achievements": "2023-06-25T14:04:37.1499671+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:00:15.7086256+00:00",
+  "LastUpdate_Achievements": "2023-06-25T15:05:37.7841283+00:00"
 }

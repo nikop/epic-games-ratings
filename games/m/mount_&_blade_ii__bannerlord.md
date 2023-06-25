@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,492 |
-| Landlord | 31.00% | ~16,785 |
-| Bannerlord | 21.00% | ~11,370 |
-| Horde breaker | 21.00% | ~11,370 |
-| Lawmaker | 21.00% | ~11,370 |
-| Trained | 21.00% | ~11,370 |
+| Lawbringer | 36.00% | ~19,493 |
+| Landlord | 31.00% | ~16,786 |
+| Bannerlord | 21.00% | ~11,371 |
+| Horde breaker | 21.00% | ~11,371 |
+| Lawmaker | 21.00% | ~11,371 |
+| Trained | 21.00% | ~11,371 |
 | The king is pleased | 17.00% | ~9,205 |
-| King Solomon | 16.00% | ~8,663 |
+| King Solomon | 16.00% | ~8,664 |
 | I can do it | 15.00% | ~8,122 |
-| Apple of my eye | 14.00% | ~7,580 |
-| God of the Arena | 12.00% | ~6,497 |
-| Against all odds | 10.00% | ~5,414 |
+| Apple of my eye | 14.00% | ~7,581 |
+| God of the Arena | 12.00% | ~6,498 |
+| Against all odds | 10.00% | ~5,415 |
 | Duelist | 9.00% | ~4,873 |
 | Swordbearer | 9.00% | ~4,873 |
 | Dynasty | 8.00% | ~4,332 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,145 (Ranked 81)  
+Progressed: 54,147 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,17 +124,17 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 53,891 | 0 |
 | 2023-06-23 | 53,986 | 0 |
 | 2023-06-24 | 54,093 | 0 |
-| 2023-06-25 | 54,145 | 0 |
+| 2023-06-25 | 54,147 | 0 |
 ## Awards
 Max (Character Customization): 6,712  (Ranked 48)  
-Sum: 13,507 (Ranked 68)  
+Sum: 13,509 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,712 |
 | This game is Great for Beginners | 859 |
 | This game has Diverse Characters | 838 |
-| This game is Highly Recommended | 802 |
+| This game is Highly Recommended | 804 |
 | This game is Extremely Fun | 766 |
 | This game has Amazing Storytelling | 757 |
 | This game has Quickly Understood Controls | 743 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -20
 | 2023-06-22 | 4.74 | - | 6,700 | 13,469 |
 | 2023-06-23 | 4.74 | - | 6,700 | 13,479 |
 | 2023-06-24 | 4.75 | - | 6,705 | 13,498 |
-| 2023-06-25 | 4.74 | - | 6,712 | 13,507 |
+| 2023-06-25 | 4.74 | - | 6,712 | 13,509 |

@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,958 |
+| First Step Into the Knight | 6.00% | ~3,959 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,639 |
 | Loose Ends | 4.00% | ~2,639 |
 | The Batman Family | 3.00% | ~1,979 |
@@ -17,23 +17,23 @@ Rating: 4.17 (Ranked 857)
 | Knighthood | 3.00% | ~1,979 |
 | Whispered Words | 3.00% | ~1,979 |
 | Lock and Key | 3.00% | ~1,979 |
-| End of an Era | 2.00% | ~1,319 |
-| In Your Element | 2.00% | ~1,319 |
-| Protector of Gotham | 2.00% | ~1,319 |
-| The Show Mud Go On | 2.00% | ~1,319 |
-| Rock and a Hard Place | 2.00% | ~1,319 |
-| Not On My Watch | 2.00% | ~1,319 |
-| Bulldozed | 2.00% | ~1,319 |
-| Shock Til They Drop | 2.00% | ~1,319 |
-| Snow Problem | 2.00% | ~1,319 |
-| Cooldown | 2.00% | ~1,319 |
-| Universal Health Scare | 2.00% | ~1,319 |
-| Unstoppable Force | 2.00% | ~1,319 |
-| Bad Apples in Every Orchard | 2.00% | ~1,319 |
-| From Inside Gotham's Walls | 2.00% | ~1,319 |
-| Voiceless | 2.00% | ~1,319 |
-| Seeking Asylum | 2.00% | ~1,319 |
-| Gotham Knight | 2.00% | ~1,319 |
+| End of an Era | 2.00% | ~1,320 |
+| In Your Element | 2.00% | ~1,320 |
+| Protector of Gotham | 2.00% | ~1,320 |
+| The Show Mud Go On | 2.00% | ~1,320 |
+| Rock and a Hard Place | 2.00% | ~1,320 |
+| Not On My Watch | 2.00% | ~1,320 |
+| Bulldozed | 2.00% | ~1,320 |
+| Shock Til They Drop | 2.00% | ~1,320 |
+| Snow Problem | 2.00% | ~1,320 |
+| Cooldown | 2.00% | ~1,320 |
+| Universal Health Scare | 2.00% | ~1,320 |
+| Unstoppable Force | 2.00% | ~1,320 |
+| Bad Apples in Every Orchard | 2.00% | ~1,320 |
+| From Inside Gotham's Walls | 2.00% | ~1,320 |
+| Voiceless | 2.00% | ~1,320 |
+| Seeking Asylum | 2.00% | ~1,320 |
+| Gotham Knight | 2.00% | ~1,320 |
 | Out of Their League | 1.00% | ~660 |
 | Drone You Out | 1.00% | ~660 |
 | Gotham City Confidential | 1.00% | ~660 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,973 (Ranked 72)  
+Progressed: 65,976 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,973 | 98 |
+| 2023-06-25 | 65,976 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

@@ -6,36 +6,36 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~91,522 |
-| Incurious | 14.00% | ~85,420 |
-| Stroller | 13.00% | ~79,319 |
-| Climate Change | 13.00% | ~79,319 |
-| Advanced Hiker | 11.00% | ~67,116 |
-| Toy Train | 11.00% | ~67,116 |
-| Hiker | 10.00% | ~61,014 |
-| Mojave Courier | 5.00% | ~30,507 |
-| Voyager | 3.00% | ~18,304 |
-| Advanced Voyager | 3.00% | ~18,304 |
-| Expert Stroller | 3.00% | ~18,304 |
-| Orient Express | 3.00% | ~18,304 |
-| Saved by Nausicaä | 3.00% | ~18,304 |
-| Expert Hiker | 2.00% | ~12,203 |
-| Marathon | 2.00% | ~12,203 |
-| Destructionist | 2.00% | ~12,203 |
-| Lost | 1.00% | ~6,101 |
+| Advanced Stroller | 15.00% | ~91,526 |
+| Incurious | 14.00% | ~85,425 |
+| Stroller | 13.00% | ~79,323 |
+| Climate Change | 13.00% | ~79,323 |
+| Advanced Hiker | 11.00% | ~67,119 |
+| Toy Train | 11.00% | ~67,119 |
+| Hiker | 10.00% | ~61,018 |
+| Mojave Courier | 5.00% | ~30,509 |
+| Voyager | 3.00% | ~18,305 |
+| Advanced Voyager | 3.00% | ~18,305 |
+| Expert Stroller | 3.00% | ~18,305 |
+| Orient Express | 3.00% | ~18,305 |
+| Saved by Nausicaä | 3.00% | ~18,305 |
+| Expert Hiker | 2.00% | ~12,204 |
+| Marathon | 2.00% | ~12,204 |
+| Destructionist | 2.00% | ~12,204 |
+| Lost | 1.00% | ~6,102 |
 | Rocketman | 0.60% | ~3,661 |
+| Shopaholic | 0.60% | ~3,661 |
 | Expert Voyager | 0.50% | ~3,051 |
 | Nanuk | 0.50% | ~3,051 |
-| Shopaholic | 0.50% | ~3,051 |
 | Scrooge | 0.40% | ~2,441 |
 | Terminal Station | 0.40% | ~2,441 |
 | Dynamite Fishing | 0.40% | ~2,441 |
-| Wayfarer | 0.30% | ~1,830 |
-| Advanced Wayfarer | 0.30% | ~1,830 |
-| Trans-Siberian Railway | 0.30% | ~1,830 |
-| Satan's Minion | 0.30% | ~1,830 |
-| Snowman's Land | 0.30% | ~1,830 |
-| Tough Nut! | 0.30% | ~1,830 |
+| Wayfarer | 0.30% | ~1,831 |
+| Advanced Wayfarer | 0.30% | ~1,831 |
+| Trans-Siberian Railway | 0.30% | ~1,831 |
+| Satan's Minion | 0.30% | ~1,831 |
+| Snowman's Land | 0.30% | ~1,831 |
+| Tough Nut! | 0.30% | ~1,831 |
 | Engineer | 0.20% | ~1,220 |
 | Explorer | 0.10% | ~610 |
 | Advanced Explorer | 0.10% | ~610 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~610 |
 | 20 Miles under the Sea | 0.10% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,145 (Ranked 23)  
+Progressed: 610,175 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,10 +125,10 @@ Completed: 7 (0.00%) (Ranked 230)
 | 2023-06-22 | 608,760 | 7 |
 | 2023-06-23 | 609,277 | 7 |
 | 2023-06-24 | 609,846 | 7 |
-| 2023-06-25 | 610,145 | 7 |
+| 2023-06-25 | 610,175 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 271)  
-Sum: 1,526 (Ranked 214)  
+Sum: 1,527 (Ranked 214)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -139,7 +139,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 160 |
 | This game is Highly Recommended | 154 |
-| This game has Playful Visuals | 151 |
+| This game has Playful Visuals | 152 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -234,3 +234,4 @@ Diff (max vs sum): 57
 | 2023-06-19 | 4.64 | - | 189 | 1,523 |
 | 2023-06-20 | 4.64 | - | 190 | 1,524 |
 | 2023-06-24 | 4.64 | - | 190 | 1,526 |
+| 2023-06-25 | 4.64 | - | 190 | 1,527 |

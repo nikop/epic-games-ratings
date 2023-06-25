@@ -4,11 +4,11 @@
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 107,
   "Ranking_Popularity": 81,
-  "Ranking_PopularitySum": 54,
+  "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -4342,10 +4342,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 19868,
       "NumberOfAwardsMax": 3435
+    },
+    {
+      "Time": "2023-06-25T15:01:22.0157533+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 19890,
+      "NumberOfAwardsMax": 3435
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19868,
+  "NumberOfAwards": 19890,
   "NumberOfAwardsMax": 3435,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4359,7 +4365,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2717
+      "Count": 2732
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4371,7 +4377,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1532
+      "Count": 1539
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4440,8 +4446,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-06-25T14:00:24.7938934+00:00",
+  "LastChanged": "2023-06-25T15:01:22.015753+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:33.473988+00:00",
-  "LastUpdate_Ratings": "2023-06-25T14:00:24.793894+00:00",
-  "LastUpdate_Achievements": "2023-06-25T14:05:33.0591448+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:01:22.0157537+00:00",
+  "LastUpdate_Achievements": "2023-06-25T15:06:31.7580748+00:00"
 }

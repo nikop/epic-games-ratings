@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 364)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,19 +10,19 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 33.00% | ~353 |
 | Grenadier | 32.00% | ~342 |
 | Heroes Never Die | 29.00% | ~310 |
-| Mosquito bite | 28.00% | ~299 |
-| Spice It Up | 25.00% | ~267 |
-| Agent 47 | 21.00% | ~224 |
-| You're Gonna Go Far, Kid | 21.00% | ~224 |
-| Bomberman | 21.00% | ~224 |
+| Mosquito bite | 28.00% | ~300 |
+| Spice It Up | 25.00% | ~268 |
+| Agent 47 | 21.00% | ~225 |
+| You're Gonna Go Far, Kid | 21.00% | ~225 |
+| Bomberman | 21.00% | ~225 |
 | Death to the Oppressor! | 15.00% | ~160 |
 | The Gang's All Here | 13.00% | ~139 |
-| Your Answer | 12.00% | ~128 |
 | One by One | 11.00% | ~118 |
+| Your Answer | 11.00% | ~118 |
 | The Big Bertha | 10.00% | ~107 |
 | Game Over | 8.00% | ~86 |
 | Lock, Stock | 6.00% | ~64 |
-| Payback Time | 5.00% | ~53 |
+| Payback Time | 5.00% | ~54 |
 | No Witness | 4.00% | ~43 |
 | Strategist | 3.00% | ~32 |
 | Unbreakable Wall | 1.00% | ~11 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 181)  
+Progressed: 1,070 (Ranked 181)  
 Completed: 1 (0.09%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.09%) (Ranked 180)
 | 2023-06-21 | 1,057 | 1 |
 | 2023-06-22 | 1,058 | 1 |
 | 2023-06-24 | 1,063 | 1 |
-| 2023-06-25 | 1,069 | 1 |
+| 2023-06-25 | 1,070 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

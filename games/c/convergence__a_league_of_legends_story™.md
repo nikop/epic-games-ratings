@@ -13,14 +13,14 @@
 | The Betrayer | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
 | Make Up For Lost Time | 12.00% | ~87 |
-| Time Flies | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
-| The Prince in Heels | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | The Man Who Shattered Time | 11.00% | ~79 |
+| Time Flies | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
+| The Prince in Heels | 11.00% | ~79 |
 | Honest Mistake | 11.00% | ~79 |
 | Golem Chaser | 11.00% | ~79 |
 | Fast Learner | 11.00% | ~79 |
@@ -33,11 +33,11 @@
 | Right On Time | 9.00% | ~65 |
 | Whiz Kid | 9.00% | ~65 |
 | Chaincrawler Explorer | 8.00% | ~58 |
-| Family Memories | 7.00% | ~50 |
-| Sump Explorer | 7.00% | ~50 |
-| Theater Explorer | 7.00% | ~50 |
-| Ask Questions Later | 7.00% | ~50 |
-| Good Neighbor | 7.00% | ~50 |
+| Family Memories | 7.00% | ~51 |
+| Sump Explorer | 7.00% | ~51 |
+| Theater Explorer | 7.00% | ~51 |
+| Ask Questions Later | 7.00% | ~51 |
+| Good Neighbor | 7.00% | ~51 |
 | Cultivair Explorer | 6.00% | ~43 |
 | Entresol Explorer | 6.00% | ~43 |
 | Factorywood Explorer | 6.00% | ~43 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721 (Ranked 195)  
+Progressed: 722 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 4 (0.55%) (Ranked 120)
 | 2023-06-22 | 714 | 4 |
 | 2023-06-23 | 718 | 4 |
 | 2023-06-24 | 721 | 4 |
+| 2023-06-25 | 722 | 4 |

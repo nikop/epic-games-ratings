@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
@@ -1449,6 +1449,11 @@
       "Time": "2023-06-24T21:05:21.3383841+00:00",
       "NumProgressed": 721,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-25T15:06:54.7607021+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1556,7 +1561,7 @@
       "Name": "Family Memories",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FactorywoodChests1",
@@ -1698,9 +1703,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 79
     },
     {
       "ID": "ParryBoss",
@@ -1738,9 +1743,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 79
     },
     {
       "ID": "RewindDamage1",
@@ -1804,7 +1809,7 @@
       "Name": "Sump Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SyronGift",
@@ -1828,7 +1833,7 @@
       "Name": "Theater Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1852,7 +1857,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "WatcherSpared",
@@ -1860,7 +1865,7 @@
       "Name": "Good Neighbor",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1883,14 +1888,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-25T14:05:56.3396832+00:00",
+  "LastChanged_Achievements": "2023-06-25T15:06:54.7607016+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:59:35.5301345+00:00",
-  "LastUpdate_Achievements": "2023-06-25T14:05:56.3397421+00:00"
+  "LastUpdate_Ratings": "2023-06-25T15:00:36.1494525+00:00",
+  "LastUpdate_Achievements": "2023-06-25T15:06:54.7607583+00:00"
 }

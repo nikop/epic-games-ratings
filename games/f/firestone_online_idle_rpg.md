@@ -5,8 +5,8 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,404 |
-| World Map | 80.00% | ~1,195 |
+| Victor | 94.00% | ~1,405 |
+| World Map | 80.00% | ~1,196 |
 | Temple of Eternals | 57.00% | ~852 |
 | Prestigious | 54.00% | ~807 |
 | Fellowship Power | 41.00% | ~613 |
@@ -27,11 +27,11 @@ Rating: 4.07 (Ranked 895)
 | Natural Talent | 12.00% | ~179 |
 | Superior | 12.00% | ~179 |
 | The Unstoppable | 12.00% | ~179 |
-| Scientist | 10.00% | ~149 |
-| Challenger | 9.00% | ~134 |
-| Doing My Part | 9.00% | ~134 |
-| Hunter | 9.00% | ~134 |
-| The power of Awakening | 9.00% | ~134 |
+| Scientist | 10.00% | ~150 |
+| Challenger | 9.00% | ~135 |
+| Doing My Part | 9.00% | ~135 |
+| Hunter | 9.00% | ~135 |
+| The power of Awakening | 9.00% | ~135 |
 | Daily Quest Completionist | 8.00% | ~120 |
 | Four Leaf Clover | 8.00% | ~120 |
 | Frostfire Liberator | 8.00% | ~120 |
@@ -62,7 +62,7 @@ Rating: 4.07 (Ranked 895)
 | Legendary | 2.00% | ~30 |
 | The Alchemist | 2.00% | ~30 |
 | What lies behind the bush | 2.00% | ~30 |
-| Mythic Power | 0.90% | ~13 |
+| Mythic Power | 1.00% | ~15 |
 | Training makes a Pro player | 0.70% | ~10 |
 | Transmute | 0.60% | ~9 |
 | Pokerface | 0.50% | ~7 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,494 (Ranked 167)  
+Progressed: 1,495 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
 | 2023-06-24 | 1,486 | 1 |
-| 2023-06-25 | 1,494 | 1 |
+| 2023-06-25 | 1,495 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,43 +6,43 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~194 |
-| Where's that freaking Dwarf? | 86.00% | ~181 |
+| Alt+F4 | 92.00% | ~195 |
+| Where's that freaking Dwarf? | 86.00% | ~182 |
 | Sock! SOCK! | 70.00% | ~148 |
-| Fireproof Wizardess | 56.00% | ~118 |
+| Fireproof Wizardess | 56.00% | ~119 |
 | Livin' in a dwarven paradise | 54.00% | ~114 |
 | Déjà vu | 50.00% | ~106 |
-| GG EZ | 49.00% | ~103 |
-| Way of the Wimp | 46.00% | ~97 |
+| GG EZ | 49.00% | ~104 |
+| Way of the Wimp | 46.00% | ~98 |
 | DM intervention | 45.00% | ~95 |
-| Oh, when I'll be level 10... | 38.00% | ~80 |
-| Speedrun | 36.00% | ~76 |
-| Team Building Exercise | 34.00% | ~72 |
+| Oh, when I'll be level 10... | 38.00% | ~81 |
+| Speedrun | 35.00% | ~74 |
 | A beer, two curses, three companions | 33.00% | ~70 |
 | The plot thickens... At the tavern | 33.00% | ~70 |
+| Team Building Exercise | 33.00% | ~70 |
 | Dwarf Fortress | 32.00% | ~68 |
 | The Ranger of Chaos | 32.00% | ~68 |
-| I am the night | 31.00% | ~65 |
-| Thieves' Guild Accreditation | 30.00% | ~63 |
+| I am the night | 31.00% | ~66 |
+| Thieves' Guild Accreditation | 30.00% | ~64 |
 | Look but don't touch | 28.00% | ~59 |
 | The demons' feast | 25.00% | ~53 |
 | Shiny and Crôm | 24.00% | ~51 |
 | The Great Library | 24.00% | ~51 |
 | Gargantua | 24.00% | ~51 |
 | Material Girl | 24.00% | ~51 |
-| Torture and Sensibility | 22.00% | ~46 |
-| The Statuette of Gladeulfeurah | 22.00% | ~46 |
-| A tale of adventurers not quite like the others... | 22.00% | ~46 |
-| The beards of change | 21.00% | ~44 |
+| Torture and Sensibility | 22.00% | ~47 |
+| The Statuette of Gladeulfeurah | 22.00% | ~47 |
+| A tale of adventurers not quite like the others... | 22.00% | ~47 |
+| The beards of change | 21.00% | ~45 |
 | The Famous Dungeon of Naheulbeuk | 19.00% | ~40 |
 | In Navalu's footsteps | 19.00% | ~40 |
-| The Blood Countess | 18.00% | ~38 |
 | The Woman in the High Castle | 17.00% | ~36 |
+| The Blood Countess | 17.00% | ~36 |
 | Urik's Depths | 16.00% | ~34 |
 | Cursed die | 15.00% | ~32 |
 | Law and Order | 14.00% | ~30 |
-| Res Judicata | 13.00% | ~27 |
-| Dead for good | 13.00% | ~27 |
+| Res Judicata | 13.00% | ~28 |
+| Dead for good | 13.00% | ~28 |
 | The Dungeon Master | 12.00% | ~25 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~25 |
 | Necrophilia | 10.00% | ~21 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 256)  
+Progressed: 212 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
-| 2023-06-25 | 211 | 0 |
+| 2023-06-25 | 212 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

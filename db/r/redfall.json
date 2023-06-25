@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1700,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -1976,6 +1976,11 @@
       "Time": "2023-06-24T16:04:36.3226495+00:00",
       "NumProgressed": 1700,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T15:05:07.6512902+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2003,7 +2008,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "Achievement_004",
@@ -2043,7 +2048,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "Achievement_010",
@@ -2123,7 +2128,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "Achievement_020",
@@ -2235,7 +2240,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "Achievement_034",
@@ -2514,7 +2519,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1700,
+      "Progressed": 1701,
       "Completed": 0
     }
   ],
@@ -2522,8 +2527,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-22T21:58:24.9023254+00:00",
-  "LastChanged_Achievements": "2023-06-25T14:04:06.2549059+00:00",
+  "LastChanged_Achievements": "2023-06-25T15:05:07.6512898+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:28.9867387+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:58:04.9280257+00:00",
-  "LastUpdate_Achievements": "2023-06-25T14:04:06.2549899+00:00"
+  "LastUpdate_Ratings": "2023-06-25T14:59:13.7255662+00:00",
+  "LastUpdate_Achievements": "2023-06-25T15:05:07.6513689+00:00"
 }

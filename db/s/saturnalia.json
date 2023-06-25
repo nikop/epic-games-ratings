@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64248,
+  "EOS_Progressed": 64251,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4270,6 +4270,11 @@
       "Time": "2023-06-25T14:03:45.4625117+00:00",
       "NumProgressed": 64248,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-25T15:04:47.5597515+00:00",
+      "NumProgressed": 64251,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4289,7 +4294,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -4305,7 +4310,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -4337,7 +4342,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -4353,7 +4358,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -4393,7 +4398,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -4401,7 +4406,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -4409,7 +4414,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_STAMINA",
@@ -4433,14 +4438,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64248,
+      "Progressed": 64251,
       "Completed": 13
     }
   ],
@@ -4448,8 +4453,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-25T14:03:45.4625112+00:00",
+  "LastChanged_Achievements": "2023-06-25T15:04:47.5597507+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.0170383+00:00",
-  "LastUpdate_Ratings": "2023-06-25T13:57:46.9957039+00:00",
-  "LastUpdate_Achievements": "2023-06-25T14:03:45.4625543+00:00"
+  "LastUpdate_Ratings": "2023-06-25T14:58:55.7650328+00:00",
+  "LastUpdate_Achievements": "2023-06-25T15:04:47.5597914+00:00"
 }

@@ -6,15 +6,15 @@ Rating: 4.73 (Ranked 156)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 92.00% | ~10,885 |
-| Newcomers | 78.00% | ~9,228 |
+| Newcomers | 78.00% | ~9,229 |
 | A Burden of Blood | 73.00% | ~8,637 |
-| Protector's Duty | 69.00% | ~8,163 |
+| Protector's Duty | 69.00% | ~8,164 |
 | In our Wake | 67.00% | ~7,927 |
 | Alchemist | 67.00% | ~7,927 |
 | Leaving all Behind | 64.00% | ~7,572 |
-| Felons | 61.00% | ~7,217 |
-| A Sea of Promises | 59.00% | ~6,980 |
-| Tales and Revelations | 56.00% | ~6,625 |
+| Felons | 61.00% | ~7,218 |
+| A Sea of Promises | 59.00% | ~6,981 |
+| Tales and Revelations | 56.00% | ~6,626 |
 | Bloodline | 51.00% | ~6,034 |
 | The Cradle of Centuries | 47.00% | ~5,561 |
 | The Life We Deserve | 44.00% | ~5,206 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 156)
 | Perfect throw | 21.00% | ~2,485 |
 | Knights! | 19.00% | ~2,248 |
 | Handful of pockets | 13.00% | ~1,538 |
-| Not a toy anymore | 11.00% | ~1,301 |
-| Pocket laboratory | 11.00% | ~1,301 |
+| Not a toy anymore | 11.00% | ~1,302 |
+| Pocket laboratory | 11.00% | ~1,302 |
 | Herbalist | 7.00% | ~828 |
 | Fighter | 7.00% | ~828 |
 | Ornithologist | 5.00% | ~592 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 156)
 | Explorer | 1.00% | ~118 |
 | Malignant | 1.00% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,831 (Ranked 111)  
+Progressed: 11,832 (Ranked 111)  
 Completed: 36 (0.30%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 36 (0.30%) (Ranked 145)
 | 2023-06-22 | 11,785 | 35 |
 | 2023-06-23 | 11,807 | 36 |
 | 2023-06-24 | 11,825 | 36 |
-| 2023-06-25 | 11,831 | 36 |
+| 2023-06-25 | 11,832 | 36 |
 ## Awards
 Max (Great Boss Battles): 408  (Ranked 206)  
 Sum: 584 (Ranked 289)  
