@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.65% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.54% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
@@ -47,7 +47,7 @@
 | 45 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 47 | [JARS](games/j/jars.md) | 3.45% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.42% |
+| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.16% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
@@ -140,10 +140,10 @@
 | 137 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 139 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 139 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 139 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 142 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 142 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 141 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 141 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 141 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
 | 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 146 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 146 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
