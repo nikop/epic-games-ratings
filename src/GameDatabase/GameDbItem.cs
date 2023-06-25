@@ -121,6 +121,10 @@ namespace EpicRatingsUpdater.GameDatabase
         [JsonPropertyOrder(55)]
         public List<GameDbItemEOSHistory> EosHistory { get; set; } = new();
 
+        [JsonPropertyOrder(79)]
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public DateTimeOffset? AchievementsAdded { get; set; }
+
         [JsonPropertyOrder(80)]
         public int TotalAchievements { get; set; }
 

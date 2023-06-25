@@ -261,6 +261,16 @@ await File.WriteAllTextAsync(
     )
 );
 
+await File.WriteAllTextAsync(
+    Path.Combine(path, "achievements_added.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.AchievementsAdded != null)
+            .OrderByDescending(x => x.AchievementsAdded)
+            .ThenBy(x => x.Name)
+    )
+);
+
 // Release Date
 await File.WriteAllTextAsync(
     Path.Combine(path, "new_games.md"),

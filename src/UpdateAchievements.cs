@@ -107,9 +107,16 @@ namespace EpicRatingsUpdater
                     }
                 }
 
+                var previousAchies = item.TotalAchievements;
+
                 // Achievement Totals
                 item.TotalAchievements = data.totalAchievements ?? 0;
                 item.TotalAchievementsXP = data.totalProductXP ?? 0;
+
+                if (previousAchies == 0 && item.TotalAchievements > 0)
+                {
+                    item.AchievementsAdded = DateTimeOffset.UtcNow;
+                }
 
                 // Sets
                 foreach (var set in data.achievementSets)
