@@ -10,9 +10,9 @@ Rating: 4.15 (Ranked 866)
 | Without a Scratch | 33.00% | ~2,253 |
 | Wreckless Driving | 27.00% | ~1,843 |
 | A Marked Man | 24.00% | ~1,638 |
-| Street Sweeper | 17.00% | ~1,160 |
+| Street Sweeper | 17.00% | ~1,161 |
 | Liberty City Minute | 16.00% | ~1,092 |
-| Offshore Delivery | 13.00% | ~887 |
+| Offshore Delivery | 13.00% | ~888 |
 | Dirty Money | 12.00% | ~819 |
 | By a Mile | 9.00% | ~614 |
 | Not So Fast | 9.00% | ~614 |
@@ -25,17 +25,17 @@ Rating: 4.15 (Ranked 866)
 | Escape Artist | 1.00% | ~68 |
 | Planned Ahead | 1.00% | ~68 |
 | Got This Figured Out | 1.00% | ~68 |
+| Wheels Up | 1.00% | ~68 |
 | Come Out to Play-y-y-y | 1.00% | ~68 |
 | Where To? | 1.00% | ~68 |
 | Man Toyz | 1.00% | ~68 |
 | Playing Doctor | 1.00% | ~68 |
 | Going Rogue | 1.00% | ~68 |
-| Wheels Up | 0.90% | ~61 |
 | Furious First Responder | 0.90% | ~61 |
 | Is That All You've Got? | 0.80% | ~55 |
 | King of Liberty City | 0.60% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,826 (Ranked 122)  
+Progressed: 6,827 (Ranked 122)  
 Completed: 39 (0.57%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 39 (0.57%) (Ranked 118)
 | 2023-06-22 | 6,776 | 38 |
 | 2023-06-23 | 6,788 | 39 |
 | 2023-06-24 | 6,807 | 39 |
-| 2023-06-25 | 6,826 | 39 |
+| 2023-06-25 | 6,827 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

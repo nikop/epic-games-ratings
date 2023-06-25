@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -268,8 +268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:04:22.9329967+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:03:24.3735874+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:58.0934523+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:00:12.3917368+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:04:22.9330133+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:58:54.9928378+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:03:24.3736024+00:00"
 }

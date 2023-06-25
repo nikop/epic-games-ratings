@@ -9,12 +9,12 @@
 | Something to make you dream... | 57.00% | ~4 |
 | Something monumental... | 57.00% | ~4 |
 | Something to long for... | 57.00% | ~4 |
+| Something firmly rooted... | 57.00% | ~4 |
 | Something free... | 43.00% | ~3 |
 | Something gentle... | 43.00% | ~3 |
 | Something fully in bloom... | 43.00% | ~3 |
 | Somewhere to belong... | 43.00% | ~3 |
 | Something natural... | 43.00% | ~3 |
-| Something firmly rooted... | 43.00% | ~3 |
 | Something reflective... | 43.00% | ~3 |
 | Something free... (fragile) | 14.00% | ~1 |
 | Something more... | 14.00% | ~1 |
@@ -31,7 +31,7 @@
 | Something firmly rooted... (fragile) | 14.00% | ~1 |
 | Something reflective... (fragile) | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 393)  
+Progressed: 7 (Ranked 394)  
 Completed: 1 (14.29%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |

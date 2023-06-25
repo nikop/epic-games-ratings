@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -850,7 +850,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658432,
+  "EOS_Progressed": 658437,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
@@ -7015,6 +7015,11 @@
       "Time": "2023-06-25T15:07:09.0730316+00:00",
       "NumProgressed": 658432,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-25T17:05:41.6450887+00:00",
+      "NumProgressed": 658437,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7026,7 +7031,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474071
+      "UsersEstimate": 474075
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7034,7 +7039,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381891
+      "UsersEstimate": 381893
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7042,7 +7047,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151439
+      "UsersEstimate": 151441
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -7090,7 +7095,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65843
+      "UsersEstimate": 65844
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -7098,7 +7103,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46090
+      "UsersEstimate": 46091
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -7122,7 +7127,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65843
+      "UsersEstimate": 65844
     },
     {
       "ID": "Achievement_14_Magician",
@@ -7162,7 +7167,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151439
+      "UsersEstimate": 151441
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -7170,7 +7175,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92180
+      "UsersEstimate": 92181
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -7178,7 +7183,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111933
+      "UsersEstimate": 111934
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -7258,7 +7263,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46090
+      "UsersEstimate": 46091
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -7290,7 +7295,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164608
+      "UsersEstimate": 164609
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -7338,7 +7343,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46090
+      "UsersEstimate": 46091
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -7409,15 +7414,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658432,
+      "Progressed": 658437,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-01T03:57:59.7796687+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:33.4957116+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:41.645088+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:12.6606058+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:58:18.043362+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:33.4958046+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:42.6652569+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:41.6451585+00:00"
 }

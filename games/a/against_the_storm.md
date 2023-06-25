@@ -10,22 +10,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 3.00% | ~464 |
 | Taking Action | 3.00% | ~464 |
 | No Deaths | 3.00% | ~464 |
-| Homesick | 2.00% | ~309 |
-| Overcoming Difficulty | 2.00% | ~309 |
-| Bandit Camp | 2.00% | ~309 |
-| Barren Lands | 2.00% | ~309 |
-| Ancient Battleground | 2.00% | ~309 |
-| Sparkdew Crystals | 2.00% | ~309 |
-| Fertile Meadows | 2.00% | ~309 |
-| Royal Outpost | 2.00% | ~309 |
-| Lost Colonies | 2.00% | ~309 |
-| Watchtower | 2.00% | ~309 |
-| Coral Forest | 2.00% | ~309 |
-| Cursed Lands | 2.00% | ~309 |
-| The Scarlet Orchard | 2.00% | ~309 |
-| A Real Challenge | 2.00% | ~309 |
-| Like a Machine | 2.00% | ~309 |
-| Trade Baron | 2.00% | ~309 |
+| Homesick | 2.00% | ~310 |
+| Overcoming Difficulty | 2.00% | ~310 |
+| Bandit Camp | 2.00% | ~310 |
+| Barren Lands | 2.00% | ~310 |
+| Ancient Battleground | 2.00% | ~310 |
+| Sparkdew Crystals | 2.00% | ~310 |
+| Fertile Meadows | 2.00% | ~310 |
+| Royal Outpost | 2.00% | ~310 |
+| Lost Colonies | 2.00% | ~310 |
+| Watchtower | 2.00% | ~310 |
+| Coral Forest | 2.00% | ~310 |
+| Cursed Lands | 2.00% | ~310 |
+| The Scarlet Orchard | 2.00% | ~310 |
+| A Real Challenge | 2.00% | ~310 |
+| Like a Machine | 2.00% | ~310 |
+| Trade Baron | 2.00% | ~310 |
 | Serving Ale | 1.00% | ~155 |
 | Refinery | 1.00% | ~155 |
 | Against All Odds | 1.00% | ~155 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,474 (Ranked 106)  
+Progressed: 15,478 (Ranked 106)  
 Completed: 38 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 38 (0.25%) (Ranked 149)
 | 2023-06-22 | 15,423 | 38 |
 | 2023-06-23 | 15,444 | 38 |
 | 2023-06-24 | 15,463 | 38 |
-| 2023-06-25 | 15,474 | 38 |
+| 2023-06-25 | 15,478 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 200)  
 Sum: 3,053 (Ranked 155)  

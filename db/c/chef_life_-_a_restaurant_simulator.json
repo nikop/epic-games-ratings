@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2023-06-25T11:04:55.7056724+00:00",
       "NumProgressed": 423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T17:03:48.0084219+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1816,7 +1821,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Clothes10",
@@ -1936,7 +1941,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Packing20",
@@ -1958,9 +1963,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "RecipeDifferent30",
@@ -2079,7 +2084,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
@@ -2087,8 +2092,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:04:56.3502588+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:03:48.0084213+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:14.5557686+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:59:22.8225593+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:04:56.3503064+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:58:22.9473876+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:03:48.0084568+00:00"
 }

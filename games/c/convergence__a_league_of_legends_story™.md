@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 15.00% | ~108 |
 | The Steel Shadow | 13.00% | ~94 |
+| Treasure Trove | 13.00% | ~94 |
 | The Mysterious Stranger | 13.00% | ~94 |
 | Rail Rat | 13.00% | ~94 |
 | Cartographer | 13.00% | ~94 |
-| Treasure Trove | 12.00% | ~87 |
 | The Betrayer | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
 | Make Up For Lost Time | 12.00% | ~87 |

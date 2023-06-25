@@ -1,21 +1,21 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.86 (Ranked 928)  
+Rating: 3.88 (Ranked 928)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~543 |
+| I don't feel so good | 41.00% | ~544 |
 | Electrician | 34.00% | ~451 |
 | Fear my botany powers, Mars | 32.00% | ~424 |
-| Bob The Builder | 30.00% | ~398 |
-| Zero Waste | 29.00% | ~384 |
-| I am the greatest botanist on this planet. | 29.00% | ~384 |
-| Gardener | 25.00% | ~331 |
-| Miner | 25.00% | ~331 |
+| Zero Waste | 29.00% | ~385 |
+| I am the greatest botanist on this planet. | 29.00% | ~385 |
+| Bob The Builder | 29.00% | ~385 |
+| Gardener | 25.00% | ~332 |
+| Miner | 25.00% | ~332 |
 | Occupy Mars! | 23.00% | ~305 |
 | Houston we have a problem | 21.00% | ~278 |
-| Detective | 18.00% | ~238 |
+| Detective | 18.00% | ~239 |
 | The Collector | 16.00% | ~212 |
 | Get your hands dirty | 9.00% | ~119 |
 | All Wheel Trouble | 7.00% | ~93 |
@@ -23,9 +23,9 @@ Rating: 3.86 (Ranked 928)
 | ITS crash site | 5.00% | ~66 |
 | “Aliens” | 4.00% | ~53 |
 | DeDust | 4.00% | ~53 |
-| Hard Landing | 2.00% | ~26 |
-| Plumber | 2.00% | ~26 |
-| To infinity and beyond! | 2.00% | ~26 |
+| Hard Landing | 2.00% | ~27 |
+| Plumber | 2.00% | ~27 |
+| To infinity and beyond! | 2.00% | ~27 |
 | Driver's License | 1.00% | ~13 |
 | Explosive Miner | 1.00% | ~13 |
 | Rocket Jump | 0.90% | ~12 |
@@ -54,7 +54,7 @@ Rating: 3.86 (Ranked 928)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 171)  
+Progressed: 1,326 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 1,306 | 0 |
 | 2023-06-23 | 1,309 | 0 |
 | 2023-06-24 | 1,320 | 0 |
-| 2023-06-25 | 1,325 | 0 |
+| 2023-06-25 | 1,326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -130,3 +130,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-16 | 3.86 | 0 | 0 |
 | 2023-06-21 | 3.84 | 0 | 0 |
 | 2023-06-23 | 3.86 | 0 | 0 |
+| 2023-06-25 | 3.88 | 0 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6694,
+  "EOS_Progressed": 6695,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -2213,6 +2213,11 @@
       "Time": "2023-06-25T15:07:00.6667398+00:00",
       "NumProgressed": 6694,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-25T17:05:32.9891027+00:00",
+      "NumProgressed": 6695,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2232,7 +2237,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -2320,7 +2325,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -2439,15 +2444,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6694,
+      "Progressed": 6695,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:22.5083067+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:32.9891022+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:55.11484+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:58:02.7239923+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:22.508338+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:31.0714714+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:32.9891266+00:00"
 }

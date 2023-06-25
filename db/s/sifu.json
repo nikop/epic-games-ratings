@@ -4836,9 +4836,9 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710113,
+  "EOS_Progressed": 710117,
   "EOS_Completed": 12790,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11166,6 +11166,11 @@
       "Time": "2023-06-25T16:07:39.660832+00:00",
       "NumProgressed": 710113,
       "NumCompleted": 12790
+    },
+    {
+      "Time": "2023-06-25T17:05:46.4440026+00:00",
+      "NumProgressed": 710117,
+      "NumCompleted": 12790
     }
   ],
   "TotalAchievements": 50,
@@ -11569,28 +11574,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19414,
+      "Progressed": 19418,
       "Completed": 10319
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710113,
+      "Progressed": 710117,
       "Completed": 12790
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-25T15:00:16.5540331+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:39.6608315+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:46.4440021+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:00:09.0433391+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:39.6609271+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:58:52.8438422+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:46.4440724+00:00"
 }

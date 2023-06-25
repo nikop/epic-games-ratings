@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -956,9 +956,9 @@
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1053,8 +1053,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:02:18.7550267+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:00:24.4746185+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:11.1629822+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:57:38.318721+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:02:18.7582849+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:14.1014209+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:00:24.4767967+00:00"
 }

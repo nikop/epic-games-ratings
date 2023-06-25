@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,996 |
-| Photographer | 74.00% | ~3,840 |
-| Valley's Helper | 70.00% | ~3,632 |
-| Constructor | 59.00% | ~3,062 |
-| Renovator | 57.00% | ~2,958 |
-| Bestest Friend | 55.00% | ~2,854 |
-| Banker | 46.00% | ~2,387 |
-| Gardener | 36.00% | ~1,868 |
-| Generous | 26.00% | ~1,349 |
-| Chef Cook | 21.00% | ~1,090 |
-| Miner | 10.00% | ~519 |
-| Duty Bound | 7.00% | ~363 |
-| Angler | 6.00% | ~311 |
+| Goofy's Investor | 77.00% | ~4,002 |
+| Photographer | 74.00% | ~3,847 |
+| Valley's Helper | 70.00% | ~3,639 |
+| Constructor | 59.00% | ~3,067 |
+| Renovator | 57.00% | ~2,963 |
+| Bestest Friend | 55.00% | ~2,859 |
+| Banker | 46.00% | ~2,391 |
+| Gardener | 36.00% | ~1,871 |
+| Generous | 26.00% | ~1,351 |
+| Chef Cook | 21.00% | ~1,092 |
+| Miner | 10.00% | ~520 |
+| Duty Bound | 7.00% | ~364 |
+| Angler | 6.00% | ~312 |
 | Thorn Cleaner | 4.00% | ~208 |
 | Chit Chatter | 3.00% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,189 (Ranked 129)  
-Completed: 151 (2.91%) (Ranked 57)  
+Progressed: 5,198 (Ranked 129)  
+Completed: 151 (2.90%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,10 +39,10 @@ Completed: 151 (2.91%) (Ranked 57)
 | 2023-06-22 | 4,804 | 150 |
 | 2023-06-23 | 4,932 | 151 |
 | 2023-06-24 | 5,088 | 151 |
-| 2023-06-25 | 5,189 | 151 |
+| 2023-06-25 | 5,198 | 151 |
 ## Awards
 Max (Great for Beginners): 877  (Ranked 148)  
-Sum: 7,203 (Ranked 103)  
+Sum: 7,206 (Ranked 103)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -50,7 +50,7 @@ Diff (max vs sum): 45
 | This game is Relaxing | 777 |
 | This game is Highly Recommended | 768 |
 | This game has Amazing Characters | 765 |
-| This game has Diverse Characters | 761 |
+| This game has Diverse Characters | 764 |
 | This game has Amazing Storytelling | 735 |
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 719 |
@@ -170,4 +170,4 @@ Diff (max vs sum): 45
 | 2023-06-22 | 4.75 | - | 874 | 7,194 |
 | 2023-06-23 | 4.75 | - | 877 | 7,199 |
 | 2023-06-24 | 4.75 | - | 877 | 7,201 |
-| 2023-06-25 | 4.75 | - | 877 | 7,203 |
+| 2023-06-25 | 4.75 | - | 877 | 7,206 |

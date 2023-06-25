@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 734)
 | Ranidaphobia | 77.00% | ~916 |
 | Aspiring Editor | 74.00% | ~880 |
 | Gun for Hire | 69.00% | ~820 |
-| I am the law! | 62.00% | ~737 |
+| I am the law! | 63.00% | ~749 |
 | Lumberjack | 51.00% | ~606 |
 | Croaked | 46.00% | ~547 |
 | Limp Richard | 45.00% | ~535 |
@@ -35,8 +35,8 @@ Rating: 4.35 (Ranked 734)
 | Savior | 21.00% | ~250 |
 | The Watchers | 18.00% | ~214 |
 | Newtonian Knockout | 16.00% | ~190 |
+| Ruthless | 14.00% | ~166 |
 | Dr Jones | 13.00% | ~155 |
-| Ruthless | 13.00% | ~155 |
 | Chaos Theory | 12.00% | ~143 |
 | Commando | 11.00% | ~131 |
 | Side Order | 9.00% | ~107 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1547,9 +1547,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "DwarfElf15Support",
@@ -1865,8 +1865,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:06:57.8548583+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:14.6373114+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:00:12.316611+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:06:57.8549716+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:58:54.969032+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:14.6374109+00:00"
 }

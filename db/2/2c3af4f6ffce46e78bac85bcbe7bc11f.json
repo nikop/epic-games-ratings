@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Tree_Fragile",
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:04:16.2684427+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:03:19.7177962+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:16.8748564+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:57:28.52204+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:04:16.2684612+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:08.1374871+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:03:19.7178165+00:00"
 }

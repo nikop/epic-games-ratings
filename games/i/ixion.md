@@ -21,8 +21,8 @@ Rating: 4.57 (Ranked 439)
 | A Hunk of Junk | 7.00% | ~191 |
 | Exceeding Capacity | 7.00% | ~191 |
 | Breaking Protocol | 7.00% | ~191 |
-| Man's Best Friend | 5.00% | ~136 |
-| Please Make it Stop! | 5.00% | ~136 |
+| Man's Best Friend | 5.00% | ~137 |
+| Please Make it Stop! | 5.00% | ~137 |
 | Sightseeing | 4.00% | ~109 |
 | Power Outage | 4.00% | ~109 |
 | Necessary Enhancement | 4.00% | ~109 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 439)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,730 (Ranked 151)  
+Progressed: 2,731 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 2,711 | 0 |
 | 2023-06-23 | 2,718 | 0 |
 | 2023-06-24 | 2,726 | 0 |
-| 2023-06-25 | 2,730 | 0 |
+| 2023-06-25 | 2,731 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,39 +6,39 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,501 |
-| That's a Grand Army | 8.00% | ~4,890 |
-| That is mine! | 8.00% | ~4,890 |
-| Victorious! | 8.00% | ~4,890 |
-| Brothers in Arms | 6.00% | ~3,667 |
-| That's a Grand Navy | 6.00% | ~3,667 |
-| Seriously?! | 6.00% | ~3,667 |
-| For the Glory | 5.00% | ~3,056 |
-| Cold War | 4.00% | ~2,445 |
-| True Catholic | 4.00% | ~2,445 |
-| Defender of the Faith | 3.00% | ~1,834 |
-| It's all about the money | 3.00% | ~1,834 |
-| Respected | 3.00% | ~1,834 |
-| Truly Divine Ruler | 3.00% | ~1,834 |
-| Agressive Expander | 2.00% | ~1,222 |
-| Blockader | 2.00% | ~1,222 |
-| Combined Arms | 2.00% | ~1,222 |
-| Double the Love | 2.00% | ~1,222 |
-| Gentle Persuasion | 2.00% | ~1,222 |
-| It's all about luck | 2.00% | ~1,222 |
-| My armies are invincible! | 2.00% | ~1,222 |
-| Queen of Conquest | 2.00% | ~1,222 |
-| Royal Authority | 2.00% | ~1,222 |
-| The Princess is in this Castle | 2.00% | ~1,222 |
-| Total Control | 2.00% | ~1,222 |
-| All That's Thine Shall Be Mine | 1.00% | ~611 |
-| Azur semé de lis or | 1.00% | ~611 |
-| Bright Spark | 1.00% | ~611 |
-| City of Cities | 1.00% | ~611 |
-| Factionalism | 1.00% | ~611 |
-| A Golden Empire | 1.00% | ~611 |
-| The Five Colonies | 1.00% | ~611 |
-| This navy can take it all | 1.00% | ~611 |
+| Until death do us apart | 9.00% | ~5,505 |
+| That's a Grand Army | 8.00% | ~4,893 |
+| That is mine! | 8.00% | ~4,893 |
+| Victorious! | 8.00% | ~4,893 |
+| Brothers in Arms | 6.00% | ~3,670 |
+| That's a Grand Navy | 6.00% | ~3,670 |
+| Seriously?! | 6.00% | ~3,670 |
+| For the Glory | 5.00% | ~3,058 |
+| Cold War | 4.00% | ~2,447 |
+| True Catholic | 4.00% | ~2,447 |
+| Defender of the Faith | 3.00% | ~1,835 |
+| It's all about the money | 3.00% | ~1,835 |
+| Respected | 3.00% | ~1,835 |
+| Truly Divine Ruler | 3.00% | ~1,835 |
+| Agressive Expander | 2.00% | ~1,223 |
+| Blockader | 2.00% | ~1,223 |
+| Combined Arms | 2.00% | ~1,223 |
+| Double the Love | 2.00% | ~1,223 |
+| Gentle Persuasion | 2.00% | ~1,223 |
+| It's all about luck | 2.00% | ~1,223 |
+| My armies are invincible! | 2.00% | ~1,223 |
+| Queen of Conquest | 2.00% | ~1,223 |
+| Royal Authority | 2.00% | ~1,223 |
+| The Princess is in this Castle | 2.00% | ~1,223 |
+| Total Control | 2.00% | ~1,223 |
+| All That's Thine Shall Be Mine | 1.00% | ~612 |
+| Azur semé de lis or | 1.00% | ~612 |
+| Bright Spark | 1.00% | ~612 |
+| City of Cities | 1.00% | ~612 |
+| Factionalism | 1.00% | ~612 |
+| A Golden Empire | 1.00% | ~612 |
+| The Five Colonies | 1.00% | ~612 |
+| This navy can take it all | 1.00% | ~612 |
 | The Emperors new clothes | 0.90% | ~550 |
 | Isn't this the way to India? | 0.90% | ~550 |
 | Market Control | 0.90% | ~550 |
@@ -56,21 +56,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~306 |
 | Trophy Hunter | 0.50% | ~306 |
 | Voting Streak | 0.50% | ~306 |
-| Absolutely | 0.40% | ~244 |
-| All Your Trade Are Belong to Us | 0.40% | ~244 |
-| Bleed Them Dry | 0.40% | ~244 |
-| Dude, Where's my Boat? | 0.40% | ~244 |
-| Four For Trade | 0.40% | ~244 |
-| Global Hegemony | 0.40% | ~244 |
-| Grand Coalition | 0.40% | ~244 |
-| In the Name of the Father | 0.40% | ~244 |
-| Italian Ambition | 0.40% | ~244 |
-| Just a Little Patience | 0.40% | ~244 |
-| Live Long and Prosper | 0.40% | ~244 |
-| One Night in Paris | 0.40% | ~244 |
-| Tear Down This Wall | 0.40% | ~244 |
-| The Continuation of Diplomacy | 0.40% | ~244 |
-| Wonderful | 0.40% | ~244 |
+| Absolutely | 0.40% | ~245 |
+| All Your Trade Are Belong to Us | 0.40% | ~245 |
+| Bleed Them Dry | 0.40% | ~245 |
+| Dude, Where's my Boat? | 0.40% | ~245 |
+| Four For Trade | 0.40% | ~245 |
+| Global Hegemony | 0.40% | ~245 |
+| Grand Coalition | 0.40% | ~245 |
+| In the Name of the Father | 0.40% | ~245 |
+| Italian Ambition | 0.40% | ~245 |
+| Just a Little Patience | 0.40% | ~245 |
+| Live Long and Prosper | 0.40% | ~245 |
+| One Night in Paris | 0.40% | ~245 |
+| Tear Down This Wall | 0.40% | ~245 |
+| The Continuation of Diplomacy | 0.40% | ~245 |
 | A Decent Reserve | 0.30% | ~183 |
 | A Pile of Gold | 0.30% | ~183 |
 | Grand Duchy | 0.30% | ~183 |
@@ -81,6 +80,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~183 |
 | Traditional Player | 0.30% | ~183 |
 | Vasa or Wettin? | 0.30% | ~183 |
+| Wonderful | 0.30% | ~183 |
 | World Discoverer | 0.30% | ~183 |
 | A Protected Market | 0.20% | ~122 |
 | AAA Credit | 0.20% | ~122 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,123 (Ranked 77)  
+Progressed: 61,166 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -427,17 +427,17 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 59,579 | 0 |
 | 2023-06-23 | 60,125 | 0 |
 | 2023-06-24 | 60,738 | 0 |
-| 2023-06-25 | 61,123 | 0 |
+| 2023-06-25 | 61,166 | 0 |
 ## Awards
 Max (Educational): 5,449  (Ranked 61)  
-Sum: 45,019 (Ranked 27)  
+Sum: 45,025 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,449 |
 | This game is Highly Recommended | 5,222 |
 | This game has Challenging Combat | 5,194 |
-| This game is Extremely Fun | 5,169 |
+| This game is Extremely Fun | 5,175 |
 | This game has Diverse Characters | 5,131 |
 | This game is Relaxing | 5,048 |
 | This game has Competitive Players | 4,900 |
@@ -606,4 +606,4 @@ Diff (max vs sum): 34
 | 2023-06-22 | 4.68 | - | 5,439 | 44,925 |
 | 2023-06-23 | 4.68 | - | 5,442 | 44,966 |
 | 2023-06-24 | 4.69 | - | 5,449 | 45,003 |
-| 2023-06-25 | 4.69 | - | 5,449 | 45,019 |
+| 2023-06-25 | 4.69 | - | 5,449 | 45,025 |

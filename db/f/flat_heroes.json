@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -156,6 +156,11 @@
       "Time": "2023-06-25T16:03:25.3822681+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T17:02:14.2710486+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -183,7 +188,7 @@
       "Name": "Fireball",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "DashDashDash",
@@ -445,17 +450,17 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 217
     },
     {
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 186
     },
     {
       "ID": "World3Boss",
@@ -495,7 +500,7 @@
       "Name": "Bomberman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "World8Boss",
@@ -518,7 +523,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 0
     }
   ],
@@ -526,8 +531,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:03:25.3822673+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:02:14.2710481+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:14.5690216+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:57:46.9558248+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:03:25.3823015+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:19.104928+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:02:14.2710787+00:00"
 }

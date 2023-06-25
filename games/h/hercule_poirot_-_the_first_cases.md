@@ -14,8 +14,8 @@ Rating: 4.32 (Ranked 759)
 | The Blackmail | 55.00% | ~215 |
 | Florette Duval | 55.00% | ~215 |
 | Major Felix Hagen | 55.00% | ~215 |
+| Order and Method | 53.00% | ~207 |
 | Fine-toothed Comb | 53.00% | ~207 |
-| Order and Method | 52.00% | ~203 |
 | The Altercation | 50.00% | ~196 |
 | Truth from Within | 48.00% | ~188 |
 | The Major | 47.00% | ~184 |

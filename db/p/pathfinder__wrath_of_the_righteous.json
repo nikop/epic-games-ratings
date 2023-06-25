@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2954,9 +2954,9 @@
       "Count": 379
     }
   ],
-  "EOS_Progressed": 10060,
+  "EOS_Progressed": 10061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7289,6 +7289,11 @@
       "Time": "2023-06-25T16:07:44.588914+00:00",
       "NumProgressed": 10060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T17:05:50.4391356+00:00",
+      "NumProgressed": 10061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7300,7 +7305,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "02_BurningCity",
@@ -7474,9 +7479,9 @@
       "ID": "23_MasterfulCharge",
       "SetID": "989of5o",
       "Name": "Masterful Charge",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 50
     },
     {
       "ID": "24_Legacy",
@@ -8227,21 +8232,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8842,
+      "Progressed": 8843,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10060,
+      "Progressed": 10061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-25T14:59:42.152222+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:44.5889135+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:50.4391351+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:59:18.3334234+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:44.5891119+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:58:19.980168+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:50.439294+00:00"
 }

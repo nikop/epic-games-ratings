@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58,
+  "EOS_Progressed": 59,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -281,6 +281,11 @@
       "Time": "2023-06-25T11:07:16.0314545+00:00",
       "NumProgressed": 58,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T17:05:35.0206188+00:00",
+      "NumProgressed": 59,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -298,7 +303,7 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -306,7 +311,7 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -314,9 +319,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_BATHROOM",
@@ -324,13 +329,13 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -388,7 +393,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_GOODENDING",
@@ -402,7 +407,7 @@
       "ID": "ACH_HOHARMFORCE104",
       "SetID": "511e31d",
       "Name": "Let\u0027s play a game\u2026",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 30,
       "UsersEstimate": 43
     },
@@ -426,9 +431,9 @@
       "ID": "ACH_MUSICRADIO",
       "SetID": "511e31d",
       "Name": "Soundtrack",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -450,7 +455,7 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -458,7 +463,7 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -482,7 +487,7 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -506,7 +511,7 @@
       "ID": "ACH_SPADE",
       "SetID": "511e31d",
       "Name": "He who seeks, finds!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -514,7 +519,7 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 43
     },
@@ -530,7 +535,7 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 42
     }
@@ -539,14 +544,14 @@
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 58,
+      "Progressed": 59,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:24.9041082+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:35.0206185+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:16.641188+00:00",
-  "LastUpdate_Ratings": "2023-06-25T15:57:48.2239248+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:24.9042049+00:00"
+  "LastUpdate_Ratings": "2023-06-25T16:57:19.9659732+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:35.0206384+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -818,6 +818,11 @@
       "Time": "2023-06-25T06:06:22.5612218+00:00",
       "NumProgressed": 198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T17:05:48.0532141+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -851,9 +856,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "achBett",
@@ -1101,7 +1106,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achPriest",
@@ -1228,7 +1233,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 0
     }
   ],
@@ -1236,8 +1241,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:41.773398+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:48.0532137+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:30.8694908+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:01:48.6231322+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:41.7734503+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:00:00.8265056+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:48.0532593+00:00"
 }

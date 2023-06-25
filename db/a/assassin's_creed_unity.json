@@ -2,13 +2,13 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 900,
   "RatingHistory": [
     {
@@ -1033,6 +1033,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 644
+    },
+    {
+      "Time": "2023-06-25T17:00:02.3711589+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 644
     }
   ],
   "ReviewsDisabled": false,
@@ -1076,8 +1082,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-06-24T17:01:37.446155+00:00",
+  "LastChanged": "2023-06-25T17:00:02.3711587+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:32.2375876+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:01:50.3420662+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:06:53.1340189+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:00:02.3711595+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:11.0344262+00:00"
 }

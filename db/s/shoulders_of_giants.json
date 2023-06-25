@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2161,
+  "EOS_Progressed": 2162,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-06-24T15:06:37.1546152+00:00",
       "NumProgressed": 2161,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-25T17:05:38.2045876+00:00",
+      "NumProgressed": 2162,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1270,7 +1275,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "complete_act_one",
@@ -1278,7 +1283,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "complete_act_three",
@@ -1286,7 +1291,7 @@
       "Name": "The Third Law of Thermodynamics",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "complete_act_two",
@@ -1302,7 +1307,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "deal_damage",
@@ -1318,7 +1323,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1334,7 +1339,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "piercing_beam",
@@ -1342,7 +1347,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "reach_heat",
@@ -1350,7 +1355,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "reach_high_heat",
@@ -1406,14 +1411,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2161,
+      "Progressed": 2162,
       "Completed": 9
     }
   ],
@@ -1421,8 +1426,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-06-25T16:07:29.3036096+00:00",
+  "LastChanged_Achievements": "2023-06-25T17:05:38.2045871+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:32.4135885+00:00",
-  "LastUpdate_Ratings": "2023-06-25T16:01:51.1237773+00:00",
-  "LastUpdate_Achievements": "2023-06-25T16:07:29.3036638+00:00"
+  "LastUpdate_Ratings": "2023-06-25T17:00:02.952999+00:00",
+  "LastUpdate_Achievements": "2023-06-25T17:05:38.2046172+00:00"
 }

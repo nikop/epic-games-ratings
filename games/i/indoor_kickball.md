@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 82.00% | ~46 |
-| Accessory Unlocked | 82.00% | ~46 |
-| Character Unlocked | 80.00% | ~45 |
-| Homer | 66.00% | ~37 |
-| Have a good trip! | 66.00% | ~37 |
-| First Win | 63.00% | ~35 |
-| Settle Down | 63.00% | ~35 |
-| Stay Hydrated | 61.00% | ~34 |
-| Kickball Unlocked | 59.00% | ~33 |
-| Butter Fingers | 59.00% | ~33 |
+| Hat Unlocked | 82.00% | ~47 |
+| Accessory Unlocked | 82.00% | ~47 |
+| Character Unlocked | 81.00% | ~46 |
+| Homer | 67.00% | ~38 |
+| Have a good trip! | 67.00% | ~38 |
+| Settle Down | 63.00% | ~36 |
+| First Win | 61.00% | ~35 |
+| Stay Hydrated | 61.00% | ~35 |
+| Kickball Unlocked | 60.00% | ~34 |
+| Butter Fingers | 60.00% | ~34 |
 | True Story! | 32.00% | ~18 |
-| Grand Slam! | 29.00% | ~16 |
-| Bedroom Secret Spot | 29.00% | ~16 |
-| Kick It | 27.00% | ~15 |
+| Bedroom Secret Spot | 30.00% | ~17 |
+| Grand Slam! | 28.00% | ~16 |
+| Kick It | 28.00% | ~16 |
 | Have Mercy | 25.00% | ~14 |
 | Spooky | 21.00% | ~12 |
-| Save some water for the fishies | 20.00% | ~11 |
+| Save some water for the fishies | 19.00% | ~11 |
+| Classroom Secret Spot | 18.00% | ~10 |
 | Bathroom Secret Spot | 18.00% | ~10 |
-| Classroom Secret Spot | 16.00% | ~9 |
-| At least everyone still had fun | 14.00% | ~8 |
-| Living Room Secret Spot | 13.00% | ~7 |
-| Angry Dad | 13.00% | ~7 |
+| At least everyone still had fun | 16.00% | ~9 |
+| Living Room Secret Spot | 12.00% | ~7 |
+| Angry Dad | 12.00% | ~7 |
 | Just how we drew it up | 9.00% | ~5 |
 | Interference | 7.00% | ~4 |
 | Kitchen Secret Spot | 5.00% | ~3 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 323)  
+Progressed: 57 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,4 +68,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 49 | 0 |
 | 2023-06-23 | 52 | 0 |
 | 2023-06-24 | 54 | 0 |
-| 2023-06-25 | 56 | 0 |
+| 2023-06-25 | 57 | 0 |
