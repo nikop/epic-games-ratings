@@ -4,7 +4,7 @@
   "ProductSlug": "jaws-of-extinction",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-22T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.5883293+00:00",
   "LastChanged": "2023-03-31T05:57:08.5883294+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.4070282+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:58:50.6357858+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:04:58.1286725+00:00"
+  "LastUpdate_Ratings": "2023-06-25T20:59:37.0525852+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:05:52.4819235+00:00"
 }

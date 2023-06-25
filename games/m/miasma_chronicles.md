@@ -28,10 +28,10 @@ Rating: 4.35 (Ranked 734)
 | Infiltrator | 28.00% | ~333 |
 | Pushing Daisy | 27.00% | ~322 |
 | Experienced | 25.00% | ~298 |
+| Endgame | 22.00% | ~262 |
 | Hold The Line | 22.00% | ~262 |
 | There Can Be Only One! | 22.00% | ~262 |
 | Chain Killer | 21.00% | ~250 |
-| Endgame | 21.00% | ~250 |
 | Savior | 21.00% | ~250 |
 | The Watchers | 18.00% | ~214 |
 | Newtonian Knockout | 16.00% | ~191 |
@@ -48,10 +48,10 @@ Rating: 4.35 (Ranked 734)
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
+| Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
-| Alpha Editor | 0.70% | ~8 |
+| QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
-| QA Has Suffered! (Redux) | 0.60% | ~7 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

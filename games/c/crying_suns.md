@@ -72,21 +72,21 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hammer Rule | 0.10% | ~462 |
 | Void Rule | 0.10% | ~462 |
 | Kaos Rule | 0.10% | ~462 |
-| The Blade | 0.10% | ~5 |
-| The Ghost | 0.10% | ~5 |
-| The Extractor | 0.10% | ~5 |
-| The Executioner | 0.10% | ~5 |
-| Soldiers of Fortune | 0.10% | ~5 |
-| Savior | 0.10% | ~5 |
-| The God of War | 0.10% | ~5 |
-| Horus Mastery | 0.10% | ~5 |
-| Horus Supremacy | 0.10% | ~5 |
-| Kronos Mastery | 0.10% | ~5 |
-| Kronos Supremacy | 0.10% | ~5 |
-| Horus Rule | 0.10% | ~5 |
-| Kronos Rule | 0.10% | ~5 |
+| The Blade | 0.10% | ~6 |
+| The Ghost | 0.10% | ~6 |
+| The Extractor | 0.10% | ~6 |
+| The Executioner | 0.10% | ~6 |
+| Soldiers of Fortune | 0.10% | ~6 |
+| Savior | 0.10% | ~6 |
+| The God of War | 0.10% | ~6 |
+| Horus Mastery | 0.10% | ~6 |
+| Horus Supremacy | 0.10% | ~6 |
+| Kronos Mastery | 0.10% | ~6 |
+| Kronos Supremacy | 0.10% | ~6 |
+| Horus Rule | 0.10% | ~6 |
+| Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,565 (Ranked 34)  
+Progressed: 461,569 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 14 (0.00%) (Ranked 229)
 | 2023-06-22 | 461,298 | 14 |
 | 2023-06-23 | 461,391 | 14 |
 | 2023-06-24 | 461,481 | 14 |
-| 2023-06-25 | 461,565 | 14 |
+| 2023-06-25 | 461,569 | 14 |
 ## Awards
 Max (Character Customization): 213  (Ranked 259)  
 Sum: 213 (Ranked 353)  

@@ -1,11 +1,11 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 107)  
+Rating: 4.77 (Ranked 108)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,148 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,149 |
 | First Class Student | 9.00% | ~25,334 |
 | The One Who Mastered Memories | 8.00% | ~22,519 |
 | The Hallowed Hero | 8.00% | ~22,519 |
@@ -26,10 +26,10 @@ Rating: 4.77 (Ranked 107)
 | Followed the Butterflies | 6.00% | ~16,889 |
 | The Spell Master | 6.00% | ~16,889 |
 | Beast Friends | 5.00% | ~14,074 |
-| The Seeker of Knowledge | 4.00% | ~11,259 |
-| The Root of the Problem | 4.00% | ~11,259 |
-| Third Time's a Charm | 4.00% | ~11,259 |
-| Raising Expectations | 4.00% | ~11,259 |
+| The Seeker of Knowledge | 4.00% | ~11,260 |
+| The Root of the Problem | 4.00% | ~11,260 |
+| Third Time's a Charm | 4.00% | ~11,260 |
+| Raising Expectations | 4.00% | ~11,260 |
 | The Toast of the Town | 3.00% | ~8,445 |
 | Going Through the Potions | 3.00% | ~8,445 |
 | Room with a View | 3.00% | ~8,445 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,407 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,485 (Ranked 41)  
+Progressed: 281,489 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 413 (0.15%) (Ranked 165)
 | 2023-06-22 | 281,084 | 409 |
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
-| 2023-06-25 | 281,485 | 413 |
+| 2023-06-25 | 281,489 | 413 |
 ## Awards
 Max (Character Customization): 20,383  (Ranked 17)  
 Sum: 37,876 (Ranked 30)  

@@ -8,8 +8,8 @@ Rating: 4.32 (Ranked 759)
 | It Wasn’t a Burglary | 90.00% | ~352 |
 | Luc Piette | 75.00% | ~293 |
 | Angeline Van den Bosch | 74.00% | ~289 |
-| Elizabeth Padget | 69.00% | ~270 |
-| Little Grey Cells | 68.00% | ~266 |
+| Elizabeth Padget | 70.00% | ~274 |
+| Little Grey Cells | 69.00% | ~270 |
 | The Bracelet | 65.00% | ~254 |
 | The Blackmail | 55.00% | ~215 |
 | Florette Duval | 55.00% | ~215 |
@@ -38,13 +38,13 @@ Rating: 4.32 (Ranked 759)
 | The Family | 27.00% | ~106 |
 | Well-travelled | 26.00% | ~102 |
 | Thinking of Everything | 26.00% | ~102 |
+| Viscount Edwin Van den Bosch | 26.00% | ~102 |
 | Exquisite Artwork | 25.00% | ~98 |
 | Archibald Sterling | 25.00% | ~98 |
-| Viscount Edwin Van den Bosch | 25.00% | ~98 |
 | Well-prepared | 21.00% | ~82 |
-| The Truth | 20.00% | ~78 |
+| The Truth | 21.00% | ~82 |
+| I Like an Audience | 19.00% | ~74 |
 | Sunken Secrets | 18.00% | ~70 |
-| I Like an Audience | 18.00% | ~70 |
 | The Denouement | 17.00% | ~66 |
 | What Else Did I Miss? | 17.00% | ~66 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |

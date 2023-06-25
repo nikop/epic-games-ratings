@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224860,
+  "EOS_Progressed": 224862,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7044,6 +7044,11 @@
       "Time": "2023-06-25T20:02:17.254976+00:00",
       "NumProgressed": 224860,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-25T21:02:30.7821645+00:00",
+      "NumProgressed": 224862,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -7199,7 +7204,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76452
+      "UsersEstimate": 76453
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -7215,7 +7220,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49469
+      "UsersEstimate": 49470
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -7263,7 +7268,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38226
+      "UsersEstimate": 38227
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -7278,7 +7283,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 224860,
+      "Progressed": 224862,
       "Completed": 3
     }
   ],
@@ -7286,8 +7291,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:02:17.2549753+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:02:30.7821641+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:56.2681506+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:59:33.3052973+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:02:17.2550369+00:00"
+  "LastUpdate_Ratings": "2023-06-25T21:00:33.1170088+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:02:30.7822109+00:00"
 }

@@ -460,9 +460,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PriestRum",
@@ -572,9 +572,9 @@
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:03:45.3485085+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:04:15.6716397+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:12.9807221+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:56:56.0409433+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:03:45.348548+00:00"
+  "LastUpdate_Ratings": "2023-06-25T20:57:05.8919423+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:04:15.6716693+00:00"
 }

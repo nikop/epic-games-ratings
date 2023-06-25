@@ -2,12 +2,12 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 107,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,11 +145,11 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1269,
+  "EOS_Progressed": 1270,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.2726912+00:00",
@@ -895,6 +895,11 @@
       "Time": "2023-06-24T20:02:20.6530929+00:00",
       "NumProgressed": 1269,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-25T21:03:13.4193727+00:00",
+      "NumProgressed": 1270,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -976,9 +981,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1066,7 +1071,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1074,7 +1079,7 @@
       "Name": "How Romantic!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_maimedHero",
@@ -1130,7 +1135,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "completedStory_ecthis",
@@ -1194,7 +1199,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -1202,7 +1207,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1226,7 +1231,7 @@
       "Name": "Turncoat",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1353,15 +1358,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1269,
+      "Progressed": 1270,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:02:27.8095641+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:03:13.4193721+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:00:16.9024065+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:02:27.809621+00:00"
+  "LastUpdate_Ratings": "2023-06-25T21:01:31.485436+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:03:13.419415+00:00"
 }

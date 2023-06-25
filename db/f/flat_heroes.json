@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-06-25T17:02:14.2710486+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T21:03:16.1929558+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -196,7 +201,7 @@
       "Name": "Be water, my friend",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -460,15 +465,15 @@
       "Name": "Snake Eyes",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "World3Boss",
       "SetID": "d9ekhim",
       "Name": "The King of Flat",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 147
     },
     {
       "ID": "World4Boss",
@@ -484,7 +489,7 @@
       "Name": "Eat That Apple",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "World6Boss",
@@ -508,7 +513,7 @@
       "Name": "The Colossus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "World9Boss",
@@ -523,7 +528,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
@@ -531,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:02:29.9407593+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:03:16.1929555+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:14.5690216+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:57:17.3213778+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:02:29.9407946+00:00"
+  "LastUpdate_Ratings": "2023-06-25T20:57:32.7046091+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:03:16.1929827+00:00"
 }

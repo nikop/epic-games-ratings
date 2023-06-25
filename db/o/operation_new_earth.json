@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2023-06-25T20:03:47.0114988+00:00",
       "NumProgressed": 229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T21:04:17.8482086+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -743,7 +748,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_defeat_players_100",
@@ -807,7 +812,7 @@
       "Name": "Keeping Busy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_headquarters_15",
@@ -831,7 +836,7 @@
       "Name": "Facility Online",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -839,15 +844,15 @@
       "Name": "Corporal",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -901,9 +906,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -911,7 +916,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -965,9 +970,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1030,14 +1035,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:03:47.0114978+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:04:17.8482082+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:00:06.6302838+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:03:47.0115374+00:00"
+  "LastUpdate_Ratings": "2023-06-25T21:01:16.7847409+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:04:17.8482341+00:00"
 }

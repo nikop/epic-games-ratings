@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~7,602 |
-| Rookie | 25.00% | ~7,039 |
-| Nomad | 18.00% | ~5,068 |
-| Picking Up Speed | 17.00% | ~4,787 |
-| Welcome Maya | 16.00% | ~4,505 |
-| Sightseer | 11.00% | ~3,097 |
-| Scout | 10.00% | ~2,816 |
-| Amateur | 9.00% | ~2,534 |
-| Wanderer | 9.00% | ~2,534 |
-| Enter Paz | 8.00% | ~2,253 |
-| Unlock Maya | 7.00% | ~1,971 |
-| Aviator | 6.00% | ~1,689 |
-| One With The Board | 6.00% | ~1,689 |
+| Finding Your Footing | 27.00% | ~7,606 |
+| Rookie | 25.00% | ~7,042 |
+| Nomad | 18.00% | ~5,071 |
+| Picking Up Speed | 17.00% | ~4,789 |
+| Welcome Maya | 16.00% | ~4,507 |
+| Sightseer | 11.00% | ~3,099 |
+| Scout | 10.00% | ~2,817 |
+| Amateur | 9.00% | ~2,535 |
+| Wanderer | 9.00% | ~2,535 |
+| Enter Paz | 8.00% | ~2,254 |
+| Unlock Maya | 7.00% | ~1,972 |
+| Aviator | 6.00% | ~1,690 |
+| One With The Board | 6.00% | ~1,690 |
 | My Little Friend | 5.00% | ~1,408 |
 | Voyager | 5.00% | ~1,408 |
-| Sandboarder | 4.00% | ~1,126 |
-| Izel Has Arrived | 4.00% | ~1,126 |
+| Sandboarder | 4.00% | ~1,127 |
+| Izel Has Arrived | 4.00% | ~1,127 |
 | Junkie | 3.00% | ~845 |
 | Traveler | 3.00% | ~845 |
 | Journeyer | 3.00% | ~845 |
@@ -35,18 +35,18 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~282 |
 | Introducing Sumara | 1.00% | ~282 |
 | Vandal | 1.00% | ~282 |
-| Daredevil | 0.90% | ~253 |
+| Daredevil | 0.90% | ~254 |
 | Unlock Felipe | 0.70% | ~197 |
 | Adventurer | 0.60% | ~169 |
 | Unlock Tupa | 0.40% | ~113 |
-| Master Of The Sands | 0.30% | ~84 |
+| Master Of The Sands | 0.30% | ~85 |
 | Master | 0.20% | ~56 |
 | Life Aquatic | 0.10% | ~28 |
 | Survivalist | 0.10% | ~28 |
 | The Ultimate Challenge | 0.10% | ~28 |
 | Windswept | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,157 (Ranked 92)  
+Progressed: 28,170 (Ranked 92)  
 Completed: 5 (0.02%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 5 (0.02%) (Ranked 209)
 | 2023-06-22 | 27,611 | 5 |
 | 2023-06-23 | 27,804 | 5 |
 | 2023-06-24 | 27,998 | 5 |
-| 2023-06-25 | 28,157 | 5 |
+| 2023-06-25 | 28,170 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
-Sum: 348 (Ranked 321)  
+Sum: 349 (Ranked 321)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -127,7 +127,7 @@ Diff (max vs sum): 87
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
 | This game has Amazing Storytelling | 27 |
-| This game has Diverse Characters | 25 |
+| This game has Diverse Characters | 26 |
 | This game has Amazing Characters | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -221,3 +221,4 @@ Diff (max vs sum): 87
 | 2023-06-15 | 4.69 | - | 45 | 347 |
 | 2023-06-17 | 4.70 | - | 45 | 347 |
 | 2023-06-24 | 4.70 | - | 45 | 348 |
+| 2023-06-25 | 4.70 | - | 45 | 349 |

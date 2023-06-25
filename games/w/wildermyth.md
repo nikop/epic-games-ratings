@@ -1,17 +1,17 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.77 (Ranked 107)  
+Rating: 4.77 (Ranked 108)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 35.00% | ~444 |
 | Me and My Familiar | 33.00% | ~419 |
-| This Too Shall Pass | 28.00% | ~355 |
-| Passing Shadow | 26.00% | ~330 |
+| This Too Shall Pass | 28.00% | ~356 |
+| Passing Shadow | 27.00% | ~343 |
 | Cutthroat Competitors | 26.00% | ~330 |
-| How Romantic! | 25.00% | ~317 |
+| How Romantic! | 25.00% | ~318 |
 | Daybreak | 24.00% | ~305 |
 | Gotta Ca... Must Collect All of Them | 22.00% | ~279 |
 | Completing the Look | 13.00% | ~165 |
@@ -28,10 +28,10 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 6.00% | ~76 |
 | Plague Doctor | 6.00% | ~76 |
 | Another Tale to Tell | 6.00% | ~76 |
-| In Soil, In Smoke | 5.00% | ~63 |
-| Wingknight's Prowess | 5.00% | ~63 |
-| All My Birds, Safely Home | 5.00% | ~63 |
-| Turncoat | 5.00% | ~63 |
+| In Soil, In Smoke | 5.00% | ~64 |
+| Wingknight's Prowess | 5.00% | ~64 |
+| All My Birds, Safely Home | 5.00% | ~64 |
+| Turncoat | 5.00% | ~64 |
 | Worldwalker | 4.00% | ~51 |
 | Legends Never Die | 4.00% | ~51 |
 | A Hunger, Sated | 4.00% | ~51 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,269 (Ranked 173)  
-Completed: 4 (0.32%) (Ranked 139)  
+Progressed: 1,270 (Ranked 173)  
+Completed: 4 (0.31%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 4 (0.32%) (Ranked 139)
 | 2023-06-19 | 1,267 | 4 |
 | 2023-06-23 | 1,268 | 4 |
 | 2023-06-24 | 1,269 | 4 |
+| 2023-06-25 | 1,270 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 462)  
 Sum: 27 (Ranked 473)  

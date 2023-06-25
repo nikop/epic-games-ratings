@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
@@ -5110,10 +5110,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 9726,
       "NumberOfAwardsMax": 1193
+    },
+    {
+      "Time": "2023-06-25T20:58:51.0738095+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9728,
+      "NumberOfAwardsMax": 1193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9726,
+  "NumberOfAwards": 9728,
   "NumberOfAwardsMax": 1193,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -5169,7 +5175,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 504
+      "Count": 506
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5189,8 +5195,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-06-25T19:58:14.8101653+00:00",
+  "LastChanged": "2023-06-25T20:58:51.0738093+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.9458221+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:58:14.8101661+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:03:06.1290253+00:00"
+  "LastUpdate_Ratings": "2023-06-25T20:58:51.0738099+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:03:23.7274652+00:00"
 }

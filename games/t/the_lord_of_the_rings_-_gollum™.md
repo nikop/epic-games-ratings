@@ -21,7 +21,7 @@
 | Gollum/Sméagol | 8.00% | ~36 |
 | Murderer | 8.00% | ~36 |
 | Trigger-Happy | 8.00% | ~36 |
-| The Friend | 6.00% | ~27 |
+| The Friend | 7.00% | ~32 |
 | Master of the Old Game | 5.00% | ~23 |
 | So Silly! | 5.00% | ~23 |
 | Made a Song | 4.00% | ~18 |
@@ -32,7 +32,7 @@
 | Ss ss ss... | 2.00% | ~9 |
 | Collectibles Part 2 | 1.00% | ~5 |
 | Nervous Hands | 1.00% | ~5 |
-| Elf-Friend | 0.40% | ~2 |
+| Elf-Friend | 0.70% | ~3 |
 | We wants it! We needs it | 0.40% | ~2 |
 | Scout | 0.40% | ~2 |
 | Good Sméagol! | 0.40% | ~2 |

@@ -8,29 +8,29 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 27.00% | ~163 |
 | Imprint | 27.00% | ~163 |
-| The Hunt | 23.00% | ~138 |
-| Ravenous | 23.00% | ~138 |
-| Weeper | 21.00% | ~126 |
+| The Hunt | 23.00% | ~139 |
+| Ravenous | 23.00% | ~139 |
+| Weeper | 22.00% | ~133 |
 | Devourer | 16.00% | ~96 |
 | Silenced Whispers | 15.00% | ~90 |
+| Harmless | 14.00% | ~84 |
+| Yank | 14.00% | ~84 |
 | Scion | 13.00% | ~24 |
 | Glare | 13.00% | ~24 |
-| Harmless | 13.00% | ~78 |
-| Yank | 13.00% | ~78 |
 | Jawcrab | 12.00% | ~72 |
 | Feast | 12.00% | ~72 |
 | Sharpened Vessel | 12.00% | ~72 |
 | Jawstag | 11.00% | ~66 |
 | Shapely | 10.00% | ~60 |
-| Host | 10.00% | ~18 |
+| Host | 10.00% | ~19 |
 | Celebration | 9.00% | ~54 |
 | Watcher | 9.00% | ~54 |
 | Inevitable | 8.00% | ~48 |
 | Predator | 8.00% | ~48 |
 | Dream | 8.00% | ~15 |
 | Assimilation | 7.00% | ~42 |
+| Hunt Down | 7.00% | ~42 |
 | Artisan | 7.00% | ~42 |
-| Hunt Down | 6.00% | ~36 |
 | Hush | 6.00% | ~36 |
 | All-Seeing | 6.00% | ~36 |
 | Kin | 6.00% | ~11 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602 (Ranked 205)  
+Progressed: 603 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-19 | 598 | 0 |
 | 2023-06-20 | 599 | 0 |
 | 2023-06-23 | 601 | 0 |
-| 2023-06-25 | 602 | 0 |
+| 2023-06-25 | 603 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

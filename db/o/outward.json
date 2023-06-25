@@ -490,7 +490,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2970,
+  "EOS_Progressed": 2971,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2820,6 +2820,11 @@
       "Time": "2023-06-25T18:04:04.6846811+00:00",
       "NumProgressed": 2970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-25T21:04:34.8044455+00:00",
+      "NumProgressed": 2971,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2871,7 +2876,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "CrowdPleaser",
@@ -2895,7 +2900,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -2903,7 +2908,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ForAllAurai_8",
@@ -2935,7 +2940,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "HouseofCards_19",
@@ -3039,7 +3044,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3047,7 +3052,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Tapped_22",
@@ -3055,7 +3060,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3087,7 +3092,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -3166,15 +3171,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2970,
+      "Progressed": 2971,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-25T20:03:59.2690398+00:00",
+  "LastChanged_Achievements": "2023-06-25T21:04:34.804445+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:30.540062+00:00",
-  "LastUpdate_Ratings": "2023-06-25T19:57:48.767857+00:00",
-  "LastUpdate_Achievements": "2023-06-25T20:03:59.2690886+00:00"
+  "LastUpdate_Ratings": "2023-06-25T20:58:13.3566211+00:00",
+  "LastUpdate_Achievements": "2023-06-25T21:04:34.8044822+00:00"
 }

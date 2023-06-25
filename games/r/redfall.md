@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,702 (Ranked 163)  
+Progressed: 1,702 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

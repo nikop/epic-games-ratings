@@ -13,11 +13,11 @@
 | The Betrayer | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
 | Make Up For Lost Time | 12.00% | ~87 |
+| Time Flies | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~79 |
 | The Man Who Shattered Time | 11.00% | ~79 |
-| Time Flies | 11.00% | ~79 |
 | The Harder They Fall | 11.00% | ~79 |
 | No, Thanks! | 11.00% | ~79 |
 | Breaking Down Barriers | 11.00% | ~79 |
