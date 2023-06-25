@@ -19,7 +19,7 @@
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 416 | 202 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,384 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,097 | 74 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,103 | 74 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 153,448 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,239 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 480 |
@@ -93,7 +93,7 @@
 | 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 501 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 501 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 665 | 165 |
-| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,219 | 129 |
+| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,234 | 129 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,894 | 56 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 43 | 412 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 374 | 212 |
@@ -217,7 +217,7 @@
 | 197 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 501 |
 | 197 | [The Witness](games/t/the_witness.md) | 4.70 | 174 | 281 |
 | 197 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,368 | 71 |
-| 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,642 | 116 |
+| 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,645 | 116 |
 | 197 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 501 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 501 |
 | 221 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,924 | 8 |
@@ -243,7 +243,7 @@
 | 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 501 |
 | 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 501 |
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,213 | 47 |
-| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,846 | 78 |
+| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,850 | 78 |
 | 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 501 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,371 | 3 |
 | 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 189,479 | 4 |
@@ -263,7 +263,7 @@
 | 259 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 69 | 371 |
 | 259 | [Carcassonne](games/c/carcassonne.md) | 4.67 | 73 | 362 |
 | 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 501 |
-| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 568 | 178 |
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 570 | 178 |
 | 259 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,230 | 102 |
 | 259 | [Overcooked](games/o/overcooked.md) | 4.67 | 112 | 317 |
 | 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 49 | 399 |
@@ -932,9 +932,9 @@
 | 930 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 501 |
 | 930 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 501 |
 | 932 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 501 |
-| 932 | [Potion Permit](games/p/potion_permit.md) | 3.83 | 67 | 372 |
 | 932 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 501 |
 | 932 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 501 |
+| 935 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 372 |
 | 936 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 0 | 501 |
 | 936 | [Chainmonsters](games/c/chainmonsters.md) | 3.81 | 0 | 501 |
 | 938 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.79 | 0 | 501 |

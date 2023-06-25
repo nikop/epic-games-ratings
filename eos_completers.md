@@ -21,13 +21,13 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.67% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.66% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
-| 28 | [Scorn](games/s/scorn.md) | 6.83% |
+| 28 | [Scorn](games/s/scorn.md) | 6.82% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 30 | [Without Escape](games/w/without_escape.md) | 6.25% |
@@ -65,7 +65,7 @@
 | 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.50% |
 | 63 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
@@ -73,7 +73,7 @@
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.98% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
 | 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
