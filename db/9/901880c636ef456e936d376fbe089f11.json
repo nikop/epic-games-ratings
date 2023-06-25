@@ -201,9 +201,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -313,9 +313,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -377,9 +377,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -425,9 +425,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -497,9 +497,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:04:15.2677236+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:04:37.8950366+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:57:24.4399415+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:04:15.2677571+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:57:19.4097971+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:04:37.8950879+00:00"
 }

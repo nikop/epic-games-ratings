@@ -1730,9 +1730,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65953,
+  "EOS_Progressed": 65956,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7595,6 +7595,11 @@
       "Time": "2023-06-25T06:06:21.2280394+00:00",
       "NumProgressed": 65953,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-25T07:07:35.2743429+00:00",
+      "NumProgressed": 65956,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -7604,9 +7609,9 @@
       "ID": "AC1_HA_BLACKGATE",
       "SetID": "18c818l",
       "Name": "Hammer and Icicle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 109
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -8093,13 +8098,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65953,
+      "Progressed": 65956,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36233,
+      "Progressed": 36236,
       "Completed": 2647
     }
   ],
@@ -8107,8 +8112,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-24T14:01:12.6491036+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:06:21.228039+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:07:35.2743422+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:59:58.5673123+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:06:21.2281115+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:00:55.1966506+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:07:35.2744467+00:00"
 }

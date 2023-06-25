@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6814,
+  "EOS_Progressed": 6815,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4829,6 +4829,11 @@
       "Time": "2023-06-25T05:03:28.7484077+00:00",
       "NumProgressed": 6814,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-25T07:03:19.0505128+00:00",
+      "NumProgressed": 6815,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4864,7 +4869,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "ACH05",
@@ -4880,7 +4885,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH07",
@@ -4960,7 +4965,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "ACH17",
@@ -5071,7 +5076,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6814,
+      "Progressed": 6815,
       "Completed": 39
     }
   ],
@@ -5079,8 +5084,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:03:18.1995369+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:03:19.0505122+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:58:16.4551455+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:03:18.1995716+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:58:31.4964488+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:03:19.0505938+00:00"
 }

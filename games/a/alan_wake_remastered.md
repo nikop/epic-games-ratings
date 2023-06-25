@@ -33,11 +33,11 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 8.00% | ~4,494 |
 | The Lady of the Light | 8.00% | ~4,494 |
 | Energized! | 8.00% | ~4,494 |
-| A Friend in Need | 8.00% | ~1,571 |
+| A Friend in Need | 8.00% | ~1,572 |
 | What Light Through Yonder Window | 7.00% | ~3,932 |
 | Right of Way | 7.00% | ~3,932 |
-| Tornado Wrangler | 6.00% | ~3,370 |
-| Departure | 6.00% | ~3,370 |
+| Tornado Wrangler | 6.00% | ~3,371 |
+| Departure | 6.00% | ~3,371 |
 | A Friend Indeed | 6.00% | ~1,179 |
 | Hardboiled Writer | 5.00% | ~2,809 |
 | Ding! | 5.00% | ~982 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,175 (Ranked 79)  
+Progressed: 56,176 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-22 | 55,969 | 56 |
 | 2023-06-23 | 56,053 | 56 |
 | 2023-06-24 | 56,152 | 56 |
-| 2023-06-25 | 56,175 | 56 |
+| 2023-06-25 | 56,176 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -466,7 +466,7 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 10817,
+  "EOS_Progressed": 10818,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 4,
@@ -5601,6 +5601,11 @@
       "Time": "2023-06-25T06:06:18.2476608+00:00",
       "NumProgressed": 10817,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-25T07:07:31.5865782+00:00",
+      "NumProgressed": 10818,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 35,
@@ -5668,7 +5673,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "ACH09",
@@ -5836,7 +5841,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "ACH30",
@@ -5891,7 +5896,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10817,
+      "Progressed": 10818,
       "Completed": 23
     }
   ],
@@ -5899,8 +5904,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-23T15:00:37.7019147+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:06:18.2476604+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:07:31.5865775+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.5561268+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:00:22.7119265+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:06:18.247704+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:01:31.3244724+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:07:31.5866812+00:00"
 }

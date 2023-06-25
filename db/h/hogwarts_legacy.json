@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4170,9 +4170,9 @@
       "Count": 520
     }
   ],
-  "EOS_Progressed": 281394,
+  "EOS_Progressed": 281402,
   "EOS_Completed": 412,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11065,6 +11065,11 @@
       "Time": "2023-06-25T06:05:29.8996257+00:00",
       "NumProgressed": 281394,
       "NumCompleted": 412
+    },
+    {
+      "Time": "2023-06-25T07:06:23.7020418+00:00",
+      "NumProgressed": 281402,
+      "NumCompleted": 412
     }
   ],
   "TotalAchievements": 45,
@@ -11076,7 +11081,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28139
+      "UsersEstimate": 28140
     },
     {
       "ID": "PFA_10",
@@ -11404,7 +11409,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25325
+      "UsersEstimate": 25326
     },
     {
       "ID": "PFA_7",
@@ -11435,7 +11440,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281394,
+      "Progressed": 281402,
       "Completed": 412
     }
   ],
@@ -11443,8 +11448,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-25T04:57:50.888153+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:05:29.8996252+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:06:23.702041+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:57:47.3923218+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:05:29.8996909+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:57:52.5006579+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:06:23.702183+00:00"
 }

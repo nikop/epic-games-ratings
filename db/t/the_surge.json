@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4452,
+  "EOS_Progressed": 4453,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1470,6 +1470,11 @@
       "Time": "2023-06-24T18:00:38.7736817+00:00",
       "NumProgressed": 4452,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-25T07:02:27.8577029+00:00",
+      "NumProgressed": 4453,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1481,7 +1486,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1489,7 +1494,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1529,7 +1534,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1537,7 +1542,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1545,7 +1550,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1553,7 +1558,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1697,7 +1702,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2016,15 +2021,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4452,
+      "Progressed": 4453,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:01:01.054074+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:02:27.8577022+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:58:21.0762271+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:01:01.0541335+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:58:38.2408474+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:02:27.8578464+00:00"
 }

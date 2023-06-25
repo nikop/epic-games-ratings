@@ -14,7 +14,7 @@ Rating: 4.64 (Ranked 313)
 | From the Vault with Love | 37.00% | ~2,570 |
 | Tailor-Made | 37.00% | ~2,570 |
 | Fully Decked Out | 35.00% | ~2,431 |
-| You Only Live Twice | 32.00% | ~2,222 |
+| You Only Live Twice | 32.00% | ~2,223 |
 | A view to Win | 27.00% | ~1,875 |
 | Smells Like Trouble | 25.00% | ~1,736 |
 | Assistant Accountant | 24.00% | ~1,667 |
@@ -22,11 +22,11 @@ Rating: 4.64 (Ranked 313)
 | Private Collection | 24.00% | ~1,667 |
 | Killer Looks | 24.00% | ~1,667 |
 | Hostile Takeover | 24.00% | ~1,667 |
-| Keycards Royale | 23.00% | ~1,597 |
-| Dr. No Kill | 23.00% | ~1,597 |
-| My Motto, My Creed | 23.00% | ~1,597 |
+| Keycards Royale | 23.00% | ~1,598 |
+| Dr. No Kill | 23.00% | ~1,598 |
+| My Motto, My Creed | 23.00% | ~1,598 |
 | In It to Win It | 22.00% | ~1,528 |
-| Security Supervisor | 10.00% | ~694 |
+| Security Supervisor | 10.00% | ~695 |
 | License to Thrill | 8.00% | ~556 |
 | Social of Solace | 8.00% | ~556 |
 | Safe Withdrawal | 6.00% | ~417 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,945 (Ranked 121)  
+Progressed: 6,946 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 6,913 | 0 |
 | 2023-06-23 | 6,930 | 0 |
 | 2023-06-24 | 6,941 | 0 |
-| 2023-06-25 | 6,945 | 0 |
+| 2023-06-25 | 6,946 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

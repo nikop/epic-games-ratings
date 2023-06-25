@@ -45,9 +45,9 @@ Rating: 4.17 (Ranked 857)
 | Dressed to Impress | 0.60% | ~396 |
 | A Momentum Occasion | 0.50% | ~330 |
 | Bat Out of Hell | 0.40% | ~264 |
+| Hammer and Icicle | 0.30% | ~109 |
 | Practice Makes Perfect | 0.30% | ~198 |
 | He'd Be So Proud of You | 0.30% | ~198 |
-| Hammer and Icicle | 0.20% | ~72 |
 | Renewable Enemy Source | 0.20% | ~72 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~72 |
 | The Cold, the Bad and the Ugly | 0.20% | ~72 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,953 (Ranked 72)  
+Progressed: 65,956 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,953 | 98 |
+| 2023-06-25 | 65,956 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

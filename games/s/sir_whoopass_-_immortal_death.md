@@ -37,14 +37,14 @@
 | Karaoke king | 34.00% | ~30 |
 | You can't stop me, bro! | 34.00% | ~30 |
 | I'm going to get a concussion | 33.00% | ~29 |
-| Meatballs, coming up! | 28.00% | ~25 |
+| Meatballs, coming up! | 30.00% | ~26 |
 | A Megapint...? | 27.00% | ~24 |
 | Another one bites the iron | 27.00% | ~24 |
 | Ripe Meat Off The Bone! | 25.00% | ~22 |
 | Hovering around | 24.00% | ~21 |
+| Your daily dose of Vitamin C. | 23.00% | ~20 |
 | Kleptomaniac | 23.00% | ~20 |
 | You're not so Big anymore, Boi! | 22.00% | ~19 |
-| Your daily dose of Vitamin C. | 22.00% | ~19 |
 | I cant stand still! | 22.00% | ~19 |
 | Master Butcher | 18.00% | ~16 |
 | Slimy... yet satisfying | 17.00% | ~15 |

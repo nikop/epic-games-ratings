@@ -2344,9 +2344,9 @@
       "ID": "achFirstIndustryUpgrade",
       "SetID": "dgl390n",
       "Name": "First industry upgraded",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 760
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -2600,8 +2600,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-23T17:00:38.1565791+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:06:24.1710435+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:07:38.5317864+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:48.2488994+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:59:54.6376143+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:06:24.1710949+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:00:50.3897099+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:07:38.5319014+00:00"
 }

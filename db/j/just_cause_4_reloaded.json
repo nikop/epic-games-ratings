@@ -4,10 +4,10 @@
   "ProductSlug": "just-cause-4",
   "Ranking_Rating": 776,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 105,
+  "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -3503,6 +3503,6 @@
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
   "LastChanged": "2023-06-24T15:01:07.7119798+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:55.2600758+00:00",
-  "LastUpdate_Ratings": "2023-06-25T06:00:41.5989672+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:00:54.4072134+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:01:57.2859899+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:02:18.6897402+00:00"
 }

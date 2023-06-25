@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1120,17 +1120,17 @@
       "ID": "15",
       "SetID": "73ikgfc",
       "Name": "Lean on Me",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "16",
       "SetID": "73ikgfc",
       "Name": "A Promised Voyage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "17",
@@ -1201,8 +1201,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:06:13.1221989+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:07:25.1585124+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.1474887+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:59:53.2460101+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:06:13.1222183+00:00"
+  "LastUpdate_Ratings": "2023-06-25T07:00:48.6752996+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:07:25.1585478+00:00"
 }

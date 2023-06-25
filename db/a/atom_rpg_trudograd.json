@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -795,6 +795,11 @@
       "Time": "2023-06-22T02:18:40.3785791+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T07:07:16.6472557+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -964,9 +969,9 @@
       "ID": "OLD_FRIEND",
       "SetID": "62d2oh4",
       "Name": "An Old Friend",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 67
     },
     {
       "ID": "POSITRONIUM",
@@ -1054,14 +1059,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1118,
       "Completed": 0
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-06T13:57:30.8071111+00:00",
-  "LastChanged_Achievements": "2023-06-25T06:06:06.9601861+00:00",
+  "LastChanged_Achievements": "2023-06-25T07:07:16.6472553+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:18.3826158+00:00",
-  "LastUpdate_Ratings": "2023-06-25T05:57:44.528873+00:00",
-  "LastUpdate_Achievements": "2023-06-25T06:06:06.9602067+00:00"
+  "LastUpdate_Ratings": "2023-06-25T06:57:47.1460281+00:00",
+  "LastUpdate_Achievements": "2023-06-25T07:07:16.6472981+00:00"
 }

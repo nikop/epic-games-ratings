@@ -22,12 +22,12 @@ Rating: 4.32 (Ranked 757)
 | Way of the Warlord | 3.00% | ~31 |
 | The Unvanquished | 2.00% | ~20 |
 | Let Us Cling Together | 2.00% | ~20 |
+| A Promised Voyage | 2.00% | ~20 |
 | Arrow in the Wind | 2.00% | ~20 |
 | First Bloom | 1.00% | ~10 |
-| A Promised Voyage | 1.00% | ~10 |
 | Life or Death | 0.90% | ~9 |
 | Someone to Protect | 0.70% | ~7 |
-| Lean on Me | 0.30% | ~3 |
+| Lean on Me | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,025 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 230)  
