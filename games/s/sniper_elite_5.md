@@ -28,8 +28,8 @@ Rating: 4.47 (Ranked 593)
 | Climbing the Ladder | 0.80% | ~25 |
 | Organ Grinder | 0.80% | ~25 |
 | Snake in the Grass | 0.80% | ~25 |
+| No Stone Unturned | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
-| No Stone Unturned | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,120 (Ranked 144)  
+Progressed: 3,121 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-22 | 3,087 | 2 |
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
-| 2023-06-25 | 3,120 | 2 |
+| 2023-06-25 | 3,121 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

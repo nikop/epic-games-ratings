@@ -26,8 +26,8 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 14.00% | ~884 |
 | Dirty Dozen | 13.00% | ~821 |
 | Luigi Cadorna | 13.00% | ~821 |
+| Shaken, Not Stirred | 13.00% | ~821 |
 | Machiavelli | 12.00% | ~757 |
-| Shaken, Not Stirred | 12.00% | ~757 |
 | Die Bosniaken Kommen! | 11.00% | ~694 |
 | The Devil's Paintbrush | 11.00% | ~694 |
 | Dante's Inferno | 10.00% | ~631 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~280 |
+| The Wraith | 63.00% | ~285 |
 | Welcome to Mordor! | 52.00% | ~235 |
 | Collectibles Part 1 | 51.00% | ~231 |
 | Wait! Wait! Not yet! | 38.00% | ~172 |

@@ -11,8 +11,8 @@ Rating: 4.50 (Ranked 548)
 | Impossible Cube | 44.00% | ~177 |
 | Knowledge is Power | 44.00% | ~177 |
 | No Mercy | 42.00% | ~169 |
+| The Return of a Rat | 41.00% | ~165 |
 | Through the Darkness | 41.00% | ~165 |
-| The Return of a Rat | 40.00% | ~161 |
 | Fat of the Earth | 34.00% | ~137 |
 | Last Man Standing | 32.00% | ~129 |
 | Catch Jonathan_tostar | 27.00% | ~109 |

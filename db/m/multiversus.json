@@ -3743,9 +3743,9 @@
       "Count": 3406
     }
   ],
-  "EOS_Progressed": 1080736,
+  "EOS_Progressed": 1080737,
   "EOS_Completed": 31691,
-  "EOS_NewPlayers": 1876,
+  "EOS_NewPlayers": 1870,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -10703,6 +10703,11 @@
       "Time": "2023-06-25T03:35:55.8063473+00:00",
       "NumProgressed": 1080736,
       "NumCompleted": 31691
+    },
+    {
+      "Time": "2023-06-25T04:06:01.0916833+00:00",
+      "NumProgressed": 1080737,
+      "NumCompleted": 31691
     }
   ],
   "TotalAchievements": 28,
@@ -10722,7 +10727,7 @@
       "Name": "Ground Floor: Ringouts",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 313413
+      "UsersEstimate": 313414
     },
     {
       "ID": "ACH_100_TOASTS",
@@ -10746,7 +10751,7 @@
       "Name": "Signature Slammer",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 464716
+      "UsersEstimate": 464717
     },
     {
       "ID": "ACH_10_RINGOUTS_BOTTOM",
@@ -10754,7 +10759,7 @@
       "Name": "Spike Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583597
+      "UsersEstimate": 583598
     },
     {
       "ID": "ACH_10_RINGOUTS_DOWNSPIKE",
@@ -10762,7 +10767,7 @@
       "Name": "Watch Your Step",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 313413
+      "UsersEstimate": 313414
     },
     {
       "ID": "ACH_10_RINGOUTS_LEFT",
@@ -10770,7 +10775,7 @@
       "Name": "Southpaw Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583597
+      "UsersEstimate": 583598
     },
     {
       "ID": "ACH_10_RINGOUTS_RIGHT",
@@ -10778,7 +10783,7 @@
       "Name": "Rightie Specialist",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 583597
+      "UsersEstimate": 583598
     },
     {
       "ID": "ACH_10_RINGOUTS_TOP",
@@ -10810,7 +10815,7 @@
       "Name": "Going Down?",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 313413
+      "UsersEstimate": 313414
     },
     {
       "ID": "ACH_5_TOASTS",
@@ -10834,7 +10839,7 @@
       "Name": "Bun-Puncher Supreme",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 734900
+      "UsersEstimate": 734901
     },
     {
       "ID": "ACH_GET_200_PROJECTILE_RINGOUTS",
@@ -10842,7 +10847,7 @@
       "Name": "Distanced Damage Dealer",
       "Percentage": 42,
       "XP": 90,
-      "UsersEstimate": 453909
+      "UsersEstimate": 453910
     },
     {
       "ID": "ACH_GET_20_PROJECTILE_RINGOUTS",
@@ -10850,7 +10855,7 @@
       "Name": "Watch Your Head",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 453909
+      "UsersEstimate": 453910
     },
     {
       "ID": "ACH_GET_30_RINGOUTS",
@@ -10858,7 +10863,7 @@
       "Name": "You Mean Business",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 734900
+      "UsersEstimate": 734901
     },
     {
       "ID": "ACH_GET_50_PROJECTILE_RINGOUTS",
@@ -10866,7 +10871,7 @@
       "Name": "Catch This",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 453909
+      "UsersEstimate": 453910
     },
     {
       "ID": "ACH_GET_50_RINGOUTS",
@@ -10874,7 +10879,7 @@
       "Name": "You\u0027re Getting Pretty Good At This!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 734900
+      "UsersEstimate": 734901
     },
     {
       "ID": "ACH_PLAY_100_PARTY_MATCHES",
@@ -10937,15 +10942,15 @@
     {
       "ID": "dc21kim",
       "IsBase": true,
-      "Progressed": 1080736,
+      "Progressed": 1080737,
       "Completed": 31691
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2023-06-24T20:00:19.0465526+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:35:55.8063469+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:06:01.0916827+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:54.5566465+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:30:20.131634+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:35:55.8064222+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:00:25.7873759+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:06:01.0917556+00:00"
 }

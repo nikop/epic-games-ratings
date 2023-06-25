@@ -2,7 +2,7 @@
   "ID": "12b8bdc633144793ad92dbf8732b3eac",
   "Name": "ViruZ",
   "ProductSlug": "viruz-873472",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 99,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.6672931+00:00",
   "LastChanged": "2023-03-31T05:57:52.6672932+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.4171799+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:29:59.1850608+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:35:42.1825026+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:00:06.3122878+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:05:47.0825174+00:00"
 }

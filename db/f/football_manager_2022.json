@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
@@ -5357,7 +5357,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 464826,
+  "EOS_Progressed": 464827,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 1,
@@ -12002,6 +12002,11 @@
       "Time": "2023-06-25T03:36:16.8403484+00:00",
       "NumProgressed": 464826,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-25T04:06:22.6391899+00:00",
+      "NumProgressed": 464827,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -12037,7 +12042,7 @@
       "Name": "Unbeatable!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 167337
+      "UsersEstimate": 167338
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -12069,7 +12074,7 @@
       "Name": "On A Roll",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 116206
+      "UsersEstimate": 116207
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -12093,7 +12098,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 79020
+      "UsersEstimate": 79021
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -12173,7 +12178,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 97613
+      "UsersEstimate": 97614
     },
     {
       "ID": "achievement_childhood_dream",
@@ -12189,7 +12194,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 97613
+      "UsersEstimate": 97614
     },
     {
       "ID": "achievement_clean_sheet",
@@ -12285,7 +12290,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 97613
+      "UsersEstimate": 97614
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -12405,7 +12410,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116206
+      "UsersEstimate": 116207
     },
     {
       "ID": "achievement_mr_delegator",
@@ -12445,7 +12450,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 148744
+      "UsersEstimate": 148745
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -12549,7 +12554,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 79020
+      "UsersEstimate": 79021
     },
     {
       "ID": "achievement_sell_player",
@@ -12557,7 +12562,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 218468
+      "UsersEstimate": 218469
     },
     {
       "ID": "achievement_signed_a_player",
@@ -12565,7 +12570,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 232413
+      "UsersEstimate": 232414
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -12613,7 +12618,7 @@
       "Name": "Comeback King!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 60427
+      "UsersEstimate": 60428
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -12645,7 +12650,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 232413
+      "UsersEstimate": 232414
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -12796,15 +12801,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 464826,
+      "Progressed": 464827,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-06-25T02:38:24.4450914+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:36:16.8403475+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:06:22.6391896+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:26.5729373+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:30:00.3256662+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:36:16.8405031+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:00:07.6271503+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:06:22.639346+00:00"
 }

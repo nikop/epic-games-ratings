@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -3774,9 +3774,9 @@
       "Count": 276
     }
   ],
-  "EOS_Progressed": 140352,
+  "EOS_Progressed": 140361,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3325,
+  "EOS_NewPlayers": 3326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10719,6 +10719,11 @@
       "Time": "2023-06-25T03:33:42.4937534+00:00",
       "NumProgressed": 140352,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-25T04:03:47.6427668+00:00",
+      "NumProgressed": 140361,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -10762,7 +10767,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 23860
+      "UsersEstimate": 23861
     },
     {
       "ID": "Achievement_13",
@@ -10810,7 +10815,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 36492
+      "UsersEstimate": 36494
     },
     {
       "ID": "Achievement_5",
@@ -10857,15 +10862,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 140352,
+      "Progressed": 140361,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-06-24T08:58:57.6269653+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:33:42.4937524+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:03:47.6427662+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:22.1092372+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:28:35.2683761+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:33:42.4938067+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:58:42.7714169+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:03:47.6428359+00:00"
 }

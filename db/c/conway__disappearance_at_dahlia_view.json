@@ -1,7 +1,7 @@
 {
   "ID": "329ecb6186a14fdab79d72d8e4aaebd3",
   "Name": "Conway: Disappearance at Dahlia View",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 99,
@@ -37,6 +37,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
   "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:32.045433+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:30:15.9940761+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:35:48.1534029+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:00:21.6107056+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:05:53.2188252+00:00"
 }

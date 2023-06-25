@@ -1,18 +1,18 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 919)  
+Rating: 3.93 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,098 |
-| First One’s Free | 65.00% | ~44,005 |
-| Neophyte Ninja | 50.00% | ~33,850 |
-| Too Old for This | 47.00% | ~31,819 |
-| Fancy Pants | 35.00% | ~23,695 |
-| Case Closed | 34.00% | ~23,018 |
-| King of the Hill | 34.00% | ~23,018 |
-| Underworld Initiate | 29.00% | ~19,633 |
+| Downed but Not Outed | 74.00% | ~50,099 |
+| First One’s Free | 65.00% | ~44,006 |
+| Neophyte Ninja | 50.00% | ~33,851 |
+| Too Old for This | 47.00% | ~31,820 |
+| Fancy Pants | 35.00% | ~23,696 |
+| Case Closed | 34.00% | ~23,019 |
+| King of the Hill | 34.00% | ~23,019 |
+| Underworld Initiate | 29.00% | ~19,634 |
 | Roid Ranger | 21.00% | ~14,217 |
 | True Player | 19.00% | ~12,863 |
 | Off the Rocks | 19.00% | ~12,863 |
@@ -40,10 +40,10 @@ Rating: 3.94 (Ranked 919)
 | Impossible Dreamer | 2.00% | ~1,354 |
 | Rockay Knight | 1.00% | ~677 |
 | Talent Scout | 1.00% | ~677 |
-| Geek Out | 0.50% | ~338 |
+| Geek Out | 0.50% | ~339 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,700 (Ranked 71)  
+Progressed: 67,702 (Ranked 71)  
 Completed: 34 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 34 (0.05%) (Ranked 196)
 | 2023-06-22 | 67,506 | 34 |
 | 2023-06-23 | 67,603 | 34 |
 | 2023-06-24 | 67,688 | 34 |
-| 2023-06-25 | 67,700 | 34 |
+| 2023-06-25 | 67,702 | 34 |
 ## Awards
 Max (Diverse Characters): 343  (Ranked 221)  
 Sum: 1,634 (Ranked 210)  
@@ -215,3 +215,4 @@ Diff (max vs sum): 11
 | 2023-06-22 | 3.94 | 340 | 1,623 |
 | 2023-06-23 | 3.93 | 340 | 1,624 |
 | 2023-06-24 | 3.94 | 343 | 1,634 |
+| 2023-06-25 | 3.93 | 343 | 1,634 |

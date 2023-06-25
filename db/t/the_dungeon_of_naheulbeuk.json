@@ -1153,9 +1153,9 @@
       "ID": "Chapter2",
       "SetID": "50chcgj",
       "Name": "A beer, two curses, three companions",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Chapter3",
@@ -1815,8 +1815,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:35:43.1275465+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:05:48.0460217+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:29:00.747829+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:35:43.1276555+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:59:08.2726389+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:05:48.0461711+00:00"
 }

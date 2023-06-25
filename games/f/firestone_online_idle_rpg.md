@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 894)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,398 |
+| Victor | 94.00% | ~1,399 |
 | World Map | 80.00% | ~1,190 |
 | Temple of Eternals | 57.00% | ~848 |
-| Prestigious | 54.00% | ~803 |
+| Prestigious | 54.00% | ~804 |
 | Fellowship Power | 41.00% | ~610 |
 | Guild Power | 24.00% | ~357 |
 | Prestigious x10 | 21.00% | ~312 |
@@ -22,11 +22,11 @@ Rating: 4.07 (Ranked 894)
 | Dragon Master | 13.00% | ~193 |
 | Enlightenment | 13.00% | ~193 |
 | Lieutenant | 13.00% | ~193 |
-| Milestone collector | 12.00% | ~178 |
-| Mysterious Rock | 12.00% | ~178 |
-| Natural Talent | 12.00% | ~178 |
-| Superior | 12.00% | ~178 |
-| The Unstoppable | 12.00% | ~178 |
+| Milestone collector | 12.00% | ~179 |
+| Mysterious Rock | 12.00% | ~179 |
+| Natural Talent | 12.00% | ~179 |
+| Superior | 12.00% | ~179 |
+| The Unstoppable | 12.00% | ~179 |
 | Scientist | 10.00% | ~149 |
 | Challenger | 9.00% | ~134 |
 | Doing My Part | 9.00% | ~134 |
@@ -50,11 +50,11 @@ Rating: 4.07 (Ranked 894)
 | How Do You Turn This On? | 5.00% | ~74 |
 | Missions Dedication | 5.00% | ~74 |
 | Weekly Quest Completionist | 5.00% | ~74 |
-| Background Story | 4.00% | ~59 |
-| Blueprint Upgrades | 4.00% | ~59 |
-| Dragon Slayer | 4.00% | ~59 |
-| Engineer Mastery | 4.00% | ~59 |
-| Lock And Load | 4.00% | ~59 |
+| Background Story | 4.00% | ~60 |
+| Blueprint Upgrades | 4.00% | ~60 |
+| Dragon Slayer | 4.00% | ~60 |
+| Engineer Mastery | 4.00% | ~60 |
+| Lock And Load | 4.00% | ~60 |
 | Sailor | 3.00% | ~45 |
 | Active Member | 2.00% | ~30 |
 | Arena Challenger | 2.00% | ~30 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,487 (Ranked 167)  
+Progressed: 1,488 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
 | 2023-06-24 | 1,486 | 1 |
-| 2023-06-25 | 1,487 | 1 |
+| 2023-06-25 | 1,488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

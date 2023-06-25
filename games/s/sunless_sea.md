@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,563 |
+| Sink Beneath the Waves | 36.00% | ~11,564 |
 | Sweet Sorrow | 18.00% | ~5,782 |
-| Rules the Waves | 17.00% | ~5,460 |
+| Rules the Waves | 17.00% | ~5,461 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,818 |
 | Rival | 14.00% | ~4,497 |
-| Correspondent | 12.00% | ~3,854 |
-| Lose Your Mind | 12.00% | ~3,854 |
-| Sound Mind? | 12.00% | ~3,854 |
+| Correspondent | 12.00% | ~3,855 |
+| Lose Your Mind | 12.00% | ~3,855 |
+| Sound Mind? | 12.00% | ~3,855 |
 | Salt's Curse | 11.00% | ~3,533 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,533 |
 | The Fall of the House | 11.00% | ~3,533 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,120 (Ranked 91)  
+Progressed: 32,121 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-22 | 31,943 | 3 |
 | 2023-06-23 | 32,026 | 3 |
 | 2023-06-24 | 32,110 | 3 |
-| 2023-06-25 | 32,120 | 3 |
+| 2023-06-25 | 32,121 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 278 (Ranked 336)  

@@ -2,7 +2,7 @@
   "ID": "5970be73979247c2a3c6f258d4f64af1",
   "Name": "The Last Photon",
   "ProductSlug": "the-last-photon-4bc2e9",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 99,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T19:04:06.0039213+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:34:00.9770598+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:04:05.8263004+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:20.357194+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:28:33.8598089+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:34:00.977063+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:58:41.2614312+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:04:05.8263049+00:00"
 }

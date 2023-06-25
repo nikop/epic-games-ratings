@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 71,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.94,
+  "Rating": 3.93,
   "RatingHistory": [
     {
       "Time": "2023-03-29T02:58:45.3340124+00:00",
@@ -2164,6 +2164,12 @@
       "Rating": 3.94,
       "NumberOfAwards": 1634,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2023-06-25T03:59:54.9748925+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1634,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": true,
@@ -2220,9 +2226,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67700,
+  "EOS_Progressed": 67702,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9095,6 +9101,11 @@
       "Time": "2023-06-25T03:33:27.3641186+00:00",
       "NumProgressed": 67700,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-25T04:03:32.6313479+00:00",
+      "NumProgressed": 67702,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -9106,7 +9117,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33850
+      "UsersEstimate": 33851
     },
     {
       "ID": "ACH_0011",
@@ -9114,7 +9125,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19633
+      "UsersEstimate": 19634
     },
     {
       "ID": "ACH_0012",
@@ -9250,7 +9261,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44005
+      "UsersEstimate": 44006
     },
     {
       "ID": "ACH_0210",
@@ -9258,7 +9269,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50098
+      "UsersEstimate": 50099
     },
     {
       "ID": "ACH_0211",
@@ -9274,7 +9285,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31819
+      "UsersEstimate": 31820
     },
     {
       "ID": "ACH_0300",
@@ -9314,7 +9325,7 @@
       "Name": "Geek Out",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_0400",
@@ -9322,7 +9333,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23018
+      "UsersEstimate": 23019
     },
     {
       "ID": "ACH_0420",
@@ -9330,7 +9341,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23018
+      "UsersEstimate": 23019
     },
     {
       "ID": "ACH_0430",
@@ -9338,7 +9349,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23695
+      "UsersEstimate": 23696
     },
     {
       "ID": "ACH_0431",
@@ -9401,16 +9412,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67700,
+      "Progressed": 67702,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-06-24T17:59:52.0859297+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:33:27.3641179+00:00",
+  "LastChanged": "2023-06-25T03:59:54.9748923+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:03:32.6313475+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:29:47.820459+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:33:27.3641891+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:59:54.9748929+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:03:32.6315139+00:00"
 }

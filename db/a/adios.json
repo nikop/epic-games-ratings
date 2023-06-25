@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63218,
+  "EOS_Progressed": 63220,
   "EOS_Completed": 575,
-  "EOS_NewPlayers": 1183,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -7046,6 +7046,11 @@
       "Time": "2023-06-25T03:36:04.6413213+00:00",
       "NumProgressed": 63218,
       "NumCompleted": 575
+    },
+    {
+      "Time": "2023-06-25T04:06:10.19435+00:00",
+      "NumProgressed": 63220,
+      "NumCompleted": 575
     }
   ],
   "TotalAchievements": 25,
@@ -7073,7 +7078,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11379
+      "UsersEstimate": 11380
     },
     {
       "ID": "Audiophile",
@@ -7177,7 +7182,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12011
+      "UsersEstimate": 12012
     },
     {
       "ID": "Nice Try",
@@ -7209,7 +7214,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "Sniper",
@@ -7256,7 +7261,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 63218,
+      "Progressed": 63220,
       "Completed": 575
     }
   ],
@@ -7264,8 +7269,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-25T03:36:04.6413206+00:00",
+  "LastChanged_Achievements": "2023-06-25T04:06:10.1943495+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-25T03:30:15.3969713+00:00",
-  "LastUpdate_Achievements": "2023-06-25T03:36:04.6413746+00:00"
+  "LastUpdate_Ratings": "2023-06-25T04:00:20.9644277+00:00",
+  "LastUpdate_Achievements": "2023-06-25T04:06:10.1944837+00:00"
 }

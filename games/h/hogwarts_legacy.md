@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 107)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,138 |
-| First Class Student | 9.00% | ~25,324 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,139 |
+| First Class Student | 9.00% | ~25,325 |
 | A Keen Sense of Spell | 8.00% | ~22,511 |
 | Troll with the Punches | 8.00% | ~22,511 |
 | That's a Keeper | 8.00% | ~22,511 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 107)
 | The Root of the Problem | 4.00% | ~11,255 |
 | Third Time's a Charm | 4.00% | ~11,255 |
 | Raising Expectations | 4.00% | ~11,255 |
-| The Toast of the Town | 3.00% | ~8,441 |
-| Going Through the Potions | 3.00% | ~8,441 |
-| Room with a View | 3.00% | ~8,441 |
-| The Intrepid Explorer | 3.00% | ~8,441 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,441 |
-| The Ends Petrify the Means | 3.00% | ~8,441 |
+| The Toast of the Town | 3.00% | ~8,442 |
+| Going Through the Potions | 3.00% | ~8,442 |
+| Room with a View | 3.00% | ~8,442 |
+| The Intrepid Explorer | 3.00% | ~8,442 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,442 |
+| The Ends Petrify the Means | 3.00% | ~8,442 |
 | Put Down Roots | 2.00% | ~5,628 |
 | The Auror's Apprentice | 2.00% | ~5,628 |
 | Floo Around the World | 2.00% | ~5,628 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 107)
 | The Nature of the Beast | 0.50% | ~1,407 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,383 (Ranked 41)  
+Progressed: 281,386 (Ranked 41)  
 Completed: 412 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 412 (0.15%) (Ranked 165)
 | 2023-06-22 | 281,084 | 409 |
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
-| 2023-06-25 | 281,383 | 412 |
+| 2023-06-25 | 281,386 | 412 |
 ## Awards
 Max (Character Customization): 20,340  (Ranked 17)  
 Sum: 37,796 (Ranked 30)  

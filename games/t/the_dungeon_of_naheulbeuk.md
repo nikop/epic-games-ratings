@@ -19,10 +19,10 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 36.00% | ~72 |
 | The Ranger of Chaos | 34.00% | ~68 |
 | Team Building Exercise | 34.00% | ~68 |
+| A beer, two curses, three companions | 33.00% | ~66 |
 | The plot thickens... At the tavern | 33.00% | ~66 |
 | Dwarf Fortress | 33.00% | ~66 |
 | I am the night | 33.00% | ~66 |
-| A beer, two curses, three companions | 32.00% | ~64 |
 | Thieves' Guild Accreditation | 32.00% | ~64 |
 | Look but don't touch | 30.00% | ~60 |
 | Shiny and Crôm | 25.00% | ~50 |
