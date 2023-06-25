@@ -8,13 +8,13 @@
 | Jalopy Poppy | 64.00% | ~41 |
 | Green-Bodied Monster | 53.00% | ~34 |
 | Chopper Stopper | 45.00% | ~29 |
-| Aerosolized | 38.00% | ~24 |
+| Aerosolized | 39.00% | ~25 |
 | Test of Faith | 36.00% | ~23 |
-| Monstrosity Atrocity | 31.00% | ~20 |
+| Monstrosity Atrocity | 33.00% | ~21 |
 | Reign of Terror | 28.00% | ~18 |
 | Crushing All Cars | 23.00% | ~15 |
+| Brain Chopper | 19.00% | ~12 |
 | Horror Show | 19.00% | ~12 |
-| Brain Chopper | 17.00% | ~11 |
 | Night Bird | 13.00% | ~8 |
 | Demolition Ambition | 11.00% | ~7 |
 | Kill All Humans! | 8.00% | ~5 |

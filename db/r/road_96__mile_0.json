@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-06-25T07:05:12.2151383+00:00",
       "NumProgressed": 315,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-25T09:04:40.5048199+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -905,7 +910,7 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrb2",
@@ -984,7 +989,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 2
     }
   ],
@@ -992,8 +997,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:04:35.7260484+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:04:40.5048195+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:40.4650768+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:58:58.9731122+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:04:35.726066+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:59:16.8929243+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:04:40.5048325+00:00"
 }

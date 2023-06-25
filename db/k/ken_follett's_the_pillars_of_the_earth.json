@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13494,
+  "EOS_Progressed": 13495,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4849,6 +4849,11 @@
       "Time": "2023-06-25T06:06:06.1872731+00:00",
       "NumProgressed": 13494,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-25T09:06:26.9343771+00:00",
+      "NumProgressed": 13495,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5028,7 +5033,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_3",
@@ -5044,7 +5049,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "tpote_achievement_31",
@@ -5068,7 +5073,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_34",
@@ -5092,7 +5097,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_37",
@@ -5116,7 +5121,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_4",
@@ -5132,7 +5137,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_41",
@@ -5140,7 +5145,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "tpote_achievement_5",
@@ -5187,15 +5192,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13494,
+      "Progressed": 13495,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:06:00.8407769+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:06:26.9343768+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:59:59.6740817+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:06:00.840838+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:00:37.7181909+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:06:26.9344198+00:00"
 }

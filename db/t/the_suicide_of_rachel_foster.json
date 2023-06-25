@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -243,10 +243,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1190,
-  "EOS_Completed": 60,
+  "EOS_Completed": 61,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.04,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 5.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1267,6 +1267,11 @@
       "Time": "2023-06-24T21:05:28.8581225+00:00",
       "NumProgressed": 1190,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-06-25T09:06:29.7502869+00:00",
+      "NumProgressed": 1190,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 11,
@@ -1316,9 +1321,9 @@
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 464
+      "UsersEstimate": 476
     },
     {
       "ID": "ACH_FineGioco",
@@ -1366,14 +1371,14 @@
       "ID": "7a9m7mj",
       "IsBase": true,
       "Progressed": 1190,
-      "Completed": 60
+      "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:06:03.2054803+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:06:29.7502866+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:15.9980245+00:00",
-  "LastUpdate_Ratings": "2023-06-25T08:00:04.3027621+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:06:03.2054974+00:00"
+  "LastUpdate_Ratings": "2023-06-25T09:00:42.9283016+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:06:29.7502984+00:00"
 }

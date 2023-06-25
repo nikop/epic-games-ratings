@@ -3298,9 +3298,9 @@
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
       "SetID": "akchbl3",
       "Name": "Shaken, Not Stirred",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 821
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -3427,8 +3427,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-24T15:57:58.1341845+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:04:20.505629+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:04:20.9572213+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.3316297+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:57:47.0200783+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:04:20.5056937+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:57:49.0138298+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:04:20.9572594+00:00"
 }

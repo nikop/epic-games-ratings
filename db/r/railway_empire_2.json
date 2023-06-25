@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -68,7 +68,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1356,
+  "EOS_Progressed": 1357,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -2468,6 +2468,11 @@
       "Time": "2023-06-25T08:06:17.1003037+00:00",
       "NumProgressed": 1356,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T09:06:45.5577829+00:00",
+      "NumProgressed": 1357,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2503,7 +2508,7 @@
       "Name": "Resistance is futile",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "A04",
@@ -2519,7 +2524,7 @@
       "Name": "A new Hope",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "A06",
@@ -2591,7 +2596,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "A15",
@@ -2599,7 +2604,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "A16",
@@ -2623,7 +2628,7 @@
       "Name": "General Manager",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "A19",
@@ -2631,7 +2636,7 @@
       "Name": "Tycoon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "A20",
@@ -2639,7 +2644,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "A21",
@@ -2655,7 +2660,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "A23",
@@ -2703,7 +2708,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "A29",
@@ -2727,7 +2732,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "A32",
@@ -2775,7 +2780,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "A38",
@@ -2799,7 +2804,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "A41",
@@ -2807,7 +2812,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "A42",
@@ -2863,7 +2868,7 @@
       "Name": "Bull and bear",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "A49",
@@ -2903,7 +2908,7 @@
       "Name": "Networker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "A54",
@@ -2918,7 +2923,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1356,
+      "Progressed": 1357,
       "Completed": 0
     }
   ],
@@ -2926,8 +2931,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-20T13:06:46.1936506+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:06:17.1003033+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:06:45.5577823+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.8009478+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:58:23.152498+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:06:17.1003905+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:58:30.316928+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:06:45.557923+00:00"
 }

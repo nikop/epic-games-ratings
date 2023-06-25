@@ -6,28 +6,28 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,132 |
-| Uncharted Territory | 89.00% | ~205,935 |
-| Getting A Glimpse | 73.00% | ~168,913 |
-| A Quick Escape | 65.00% | ~150,402 |
+| First Steps | 96.00% | ~222,133 |
+| Uncharted Territory | 89.00% | ~205,936 |
+| Getting A Glimpse | 73.00% | ~168,914 |
+| A Quick Escape | 65.00% | ~150,403 |
 | Explorer | 62.00% | ~143,461 |
 | Defeat The Dark | 61.00% | ~141,147 |
 | An Offering | 61.00% | ~141,147 |
-| Colorful Corpse | 58.00% | ~134,205 |
-| That Was Quick | 56.00% | ~129,577 |
-| A Donation | 56.00% | ~129,577 |
+| Colorful Corpse | 58.00% | ~134,206 |
+| That Was Quick | 56.00% | ~129,578 |
+| A Donation | 56.00% | ~129,578 |
 | Goodbye, Frog Friend | 54.00% | ~124,950 |
 | Heavy Hitter | 53.00% | ~122,636 |
-| Heartless | 46.00% | ~106,438 |
-| Spine Breaker | 46.00% | ~106,438 |
+| Heartless | 46.00% | ~106,439 |
+| Spine Breaker | 46.00% | ~106,439 |
 | Deflection | 45.00% | ~104,125 |
 | Sneaky | 43.00% | ~99,497 |
 | Delving Deeper | 42.00% | ~97,183 |
 | Ambitious Intent | 41.00% | ~94,869 |
 | C-C-Combo | 41.00% | ~94,869 |
-| The Bestiary | 40.00% | ~92,555 |
-| Nothing To Lose | 39.00% | ~90,241 |
-| What's Yours Is Mine | 38.00% | ~87,927 |
+| The Bestiary | 40.00% | ~92,556 |
+| Nothing To Lose | 39.00% | ~90,242 |
+| What's Yours Is Mine | 38.00% | ~87,928 |
 | R.I.P | 36.00% | ~83,300 |
 | Shootout | 35.00% | ~80,986 |
 | Cold Hearted | 34.00% | ~78,672 |
@@ -57,7 +57,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 16.00% | ~37,022 |
 | Spreading Plague | 15.00% | ~34,708 |
 | The Long Run | 14.00% | ~32,394 |
-| A Rough Road | 13.00% | ~30,080 |
+| A Rough Road | 13.00% | ~30,081 |
 | Berzerker | 12.00% | ~27,767 |
 | Chain Reaction | 12.00% | ~27,767 |
 | Antivenom | 11.00% | ~25,453 |
@@ -115,7 +115,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,314 |
 | Martial Master | 1.00% | ~2,314 |
 | You Call That A Knife? | 1.00% | ~2,314 |
-| Master of Strategy | 0.90% | ~2,082 |
+| Master of Strategy | 0.90% | ~2,083 |
 | Disposal | 0.80% | ~1,851 |
 | Blizzard | 0.80% | ~1,851 |
 | No Swapsies | 0.80% | ~1,851 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~926 |
 | Near Death Experience | 0.30% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,388 (Ranked 46)  
+Progressed: 231,389 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 240 (0.10%) (Ranked 174)
 | 2023-06-22 | 231,242 | 240 |
 | 2023-06-23 | 231,310 | 240 |
 | 2023-06-24 | 231,372 | 240 |
-| 2023-06-25 | 231,388 | 240 |
+| 2023-06-25 | 231,389 | 240 |
 ## Awards
 Max (Quickly Understood Controls): 1,481  (Ranked 119)  
 Sum: 11,460 (Ranked 75)  

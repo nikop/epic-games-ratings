@@ -26,10 +26,10 @@ Rating: 4.47 (Ranked 592)
 | Organ Grinder | 0.90% | ~28 |
 | Gunslinger | 0.90% | ~28 |
 | Set Europe Ablaze | 0.90% | ~28 |
+| Snake in the Grass | 0.90% | ~28 |
 | Climbing the Ladder | 0.80% | ~25 |
-| Snake in the Grass | 0.80% | ~25 |
+| Brains of the Operation | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
-| Brains of the Operation | 0.70% | ~22 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |

@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 857)  
+Rating: 4.17 (Ranked 856)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,956 (Ranked 72)  
+Progressed: 65,958 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,956 | 98 |
+| 2023-06-25 | 65,958 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,377  (Ranked 100)  
 Sum: 3,933 (Ranked 137)  

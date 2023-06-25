@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -4107,8 +4107,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-06-25T08:05:01.3614988+00:00",
+  "LastChanged_Achievements": "2023-06-25T09:05:13.4002913+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.2479872+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:57:47.5419087+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:05:01.3615847+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:57:49.6577292+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:05:13.4003743+00:00"
 }

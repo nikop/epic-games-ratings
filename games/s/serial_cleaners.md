@@ -13,7 +13,7 @@
 | Mr. Hygeni | 5.00% | ~10 |
 | Pride and Joy | 4.00% | ~8 |
 | Eyes Yet To Open | 4.00% | ~8 |
-| Hackathon | 3.00% | ~6 |
+| Hackathon | 4.00% | ~8 |
 | All the Stories | 2.00% | ~4 |
 | Total Recall | 2.00% | ~4 |
 | Something Rotten | 2.00% | ~4 |

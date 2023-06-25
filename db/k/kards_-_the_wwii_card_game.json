@@ -4,7 +4,7 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 710,
   "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
@@ -1950,10 +1950,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 3702,
       "NumberOfAwardsMax": 560
+    },
+    {
+      "Time": "2023-06-25T08:59:00.5785075+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 3703,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3702,
+  "NumberOfAwards": 3703,
   "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2003,7 +2009,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 388
+      "Count": 389
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2029,8 +2035,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2023-06-25T02:37:00.3980873+00:00",
+  "LastChanged": "2023-06-25T08:59:00.5785073+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:22.7243599+00:00",
-  "LastUpdate_Ratings": "2023-06-25T07:58:46.7839063+00:00",
-  "LastUpdate_Achievements": "2023-06-25T08:03:52.0736061+00:00"
+  "LastUpdate_Ratings": "2023-06-25T08:59:00.5785078+00:00",
+  "LastUpdate_Achievements": "2023-06-25T09:03:46.4238225+00:00"
 }

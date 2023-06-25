@@ -5,7 +5,7 @@ Rating: 4.80 (Ranked 81)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,276 |
+| For Demacia | 96.00% | ~2,300 |
 | No more cages! | 92.00% | ~2,204 |
 | Everfrost | 78.00% | ~1,869 |
 | Dark Forest | 77.00% | ~1,845 |

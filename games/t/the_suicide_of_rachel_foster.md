@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 850)  
+Rating: 4.18 (Ranked 849)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,13 +13,13 @@ Number of Ratings: 71  (23.09.2022)
 | Cutepie | 42.00% | ~500 |
 | Someone was here | 41.00% | ~488 |
 | Ghost Hunters | 41.00% | ~488 |
+| Alone | 40.00% | ~476 |
 | Pack Rat | 40.00% | ~476 |
-| Alone | 39.00% | ~464 |
 | All together, again | 35.00% | ~416 |
 | Spicy | 6.00% | ~71 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,190 (Ranked 176)  
-Completed: 60 (5.04%) (Ranked 36)  
+Completed: 61 (5.13%) (Ranked 36)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 60 (5.04%) (Ranked 36)
 | 2023-06-22 | 1,183 | 60 |
 | 2023-06-23 | 1,184 | 60 |
 | 2023-06-24 | 1,190 | 60 |
+| 2023-06-25 | 1,190 | 61 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

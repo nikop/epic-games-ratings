@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,566 |
-| Sweet Sorrow | 18.00% | ~5,783 |
+| Sink Beneath the Waves | 36.00% | ~11,567 |
+| Sweet Sorrow | 18.00% | ~5,784 |
 | Rules the Waves | 17.00% | ~5,462 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,819 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,820 |
 | Rival | 14.00% | ~4,498 |
-| Correspondent | 12.00% | ~3,855 |
-| Lose Your Mind | 12.00% | ~3,855 |
-| Sound Mind? | 12.00% | ~3,855 |
+| Correspondent | 12.00% | ~3,856 |
+| Lose Your Mind | 12.00% | ~3,856 |
+| Sound Mind? | 12.00% | ~3,856 |
 | Salt's Curse | 11.00% | ~3,534 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,534 |
 | The Fall of the House | 11.00% | ~3,534 |
@@ -23,8 +23,8 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,249 |
 | Open Your Ears | 7.00% | ~2,249 |
 | The Ascent of Man | 7.00% | ~2,249 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,606 |
-| Zee Fever | 5.00% | ~1,606 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,607 |
+| Zee Fever | 5.00% | ~1,607 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,285 |
 | Storm's Curse | 3.00% | ~964 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~964 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,128 (Ranked 91)  
+Progressed: 32,131 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-22 | 31,943 | 3 |
 | 2023-06-23 | 32,026 | 3 |
 | 2023-06-24 | 32,110 | 3 |
-| 2023-06-25 | 32,128 | 3 |
+| 2023-06-25 | 32,131 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 278 (Ranked 336)  
