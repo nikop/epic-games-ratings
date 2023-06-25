@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.13% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.97% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.75% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.33% |
@@ -36,7 +36,7 @@
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.86% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.85% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
@@ -56,7 +56,7 @@
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.90% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.89% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
 | 59 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -71,8 +71,8 @@
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.99% |
 | 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -91,7 +91,7 @@
 | 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
-| 91 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.20% |
+| 92 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.19% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.15% |
 | 95 | [Trifox](games/t/trifox.md) | 1.12% |
