@@ -6,13 +6,13 @@
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 20 | 495 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,496 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,144 | 88 |
+| 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 501 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 501 |
-| 8 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.90 | 0 | 501 |
-| 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 501 |
-| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 501 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,833 | 110 |
-| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 501 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,540 | 43 |
+| 9 | [Mago](games/m/mago.md) | 4.90 | 0 | 501 |
+| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 501 |
+| 9 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,833 | 110 |
+| 9 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 501 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,549 | 43 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 501 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 501 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 501 |
@@ -157,6 +157,7 @@
 | 143 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 501 |
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 206 |
 | 156 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 469 |
+| 156 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 71 | 368 |
 | 156 | [Haven](games/h/haven.md) | 4.73 | 0 | 501 |
 | 156 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 576 | 176 |
 | 156 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 501 |
@@ -164,21 +165,20 @@
 | 156 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 501 |
 | 156 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 501 |
 | 156 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
-| 165 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 70 | 368 |
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 468 | 194 |
-| 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 501 |
-| 165 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 296 |
-| 165 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 421 |
-| 165 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 501 |
-| 165 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 501 |
-| 165 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 362 |
-| 165 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 501 |
-| 165 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 314 | 228 |
-| 165 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 501 |
-| 165 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 501 |
-| 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 501 |
-| 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 127 | 303 |
-| 165 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 501 |
+| 166 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 468 | 194 |
+| 166 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 501 |
+| 166 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 296 |
+| 166 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 421 |
+| 166 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 501 |
+| 166 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 501 |
+| 166 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 362 |
+| 166 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 501 |
+| 166 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 314 | 228 |
+| 166 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 501 |
+| 166 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 501 |
+| 166 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 501 |
+| 166 | [Timberborn](games/t/timberborn.md) | 4.72 | 127 | 303 |
+| 166 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 501 |
 | 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 501 |
 | 180 | [Barony](games/b/barony.md) | 4.71 | 73 | 362 |
 | 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 501 |
@@ -492,7 +492,7 @@
 | 489 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,784 | 66 |
 | 489 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 439 |
 | 489 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,158 | 132 |
-| 489 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 368 |
+| 489 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 70 | 369 |
 | 489 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 480 |
 | 489 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 439 |
 | 489 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.54 | 0 | 501 |

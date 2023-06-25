@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.67% |
-| 2 | [Volley Pals](games/v/volley_pals.md) | 31.58% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.15% |
+| 2 | [Volley Pals](games/v/volley_pals.md) | 30.77% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -139,11 +139,11 @@
 | 137 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 137 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 139 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
+| 139 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 139 | [Wildermyth](games/w/wildermyth.md) | 0.32% |
-| 141 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
-| 141 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 141 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 142 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 142 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 146 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 146 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
