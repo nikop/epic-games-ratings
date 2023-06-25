@@ -6,42 +6,42 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~706,262 |
-| The Blues | 85.00% | ~606,387 |
-| Fast | 66.00% | ~470,841 |
-| Healthbar | 55.00% | ~392,368 |
-| Force Cube | 53.00% | ~378,100 |
-| Double Jump | 48.00% | ~342,430 |
-| Regeneration | 47.00% | ~335,296 |
-| Climb the hill | 42.00% | ~299,626 |
-| Triple Jump | 42.00% | ~299,626 |
-| Through the fire pipe | 38.00% | ~271,090 |
-| MacGuffin | 37.00% | ~263,957 |
-| Just once | 36.00% | ~256,823 |
-| Armor | 30.00% | ~214,019 |
-| True holy spirit | 27.00% | ~192,617 |
-| That's how electronics work obviously | 26.00% | ~185,483 |
-| Force Cube Catapult | 25.00% | ~178,349 |
-| Holy Sword | 23.00% | ~164,081 |
-| Telefrag | 22.00% | ~156,947 |
-| Freed from prison | 21.00% | ~149,813 |
-| Stomp | 21.00% | ~149,813 |
-| Double Health | 18.00% | ~128,411 |
-| Buckle | 17.00% | ~121,277 |
-| Green Keycard | 17.00% | ~121,277 |
-| Rattle Hag | 15.00% | ~107,009 |
-| All Shells | 14.00% | ~99,875 |
-| Beam | 14.00% | ~99,875 |
-| 9 | 13.00% | ~92,741 |
-| Purple Cube | 13.00% | ~92,741 |
-| Supraball Noob | 13.00% | ~92,741 |
-| Health Drink | 12.00% | ~85,608 |
-| Helped a star | 12.00% | ~85,608 |
-| Strong | 12.00% | ~85,608 |
-| Blue King's lair | 11.00% | ~78,474 |
-| Got the gun back | 11.00% | ~78,474 |
-| Infiltrated | 11.00% | ~78,474 |
-| Robbed | 11.00% | ~78,474 |
+| Out of bed | 99.00% | ~706,271 |
+| The Blues | 85.00% | ~606,394 |
+| Fast | 66.00% | ~470,847 |
+| Healthbar | 55.00% | ~392,373 |
+| Force Cube | 53.00% | ~378,105 |
+| Double Jump | 48.00% | ~342,434 |
+| Regeneration | 47.00% | ~335,300 |
+| Climb the hill | 42.00% | ~299,630 |
+| Triple Jump | 42.00% | ~299,630 |
+| Through the fire pipe | 38.00% | ~271,094 |
+| MacGuffin | 37.00% | ~263,960 |
+| Just once | 36.00% | ~256,826 |
+| Armor | 30.00% | ~214,022 |
+| True holy spirit | 27.00% | ~192,619 |
+| That's how electronics work obviously | 26.00% | ~185,485 |
+| Force Cube Catapult | 25.00% | ~178,351 |
+| Holy Sword | 23.00% | ~164,083 |
+| Telefrag | 22.00% | ~156,949 |
+| Freed from prison | 21.00% | ~149,815 |
+| Stomp | 21.00% | ~149,815 |
+| Double Health | 18.00% | ~128,413 |
+| Buckle | 17.00% | ~121,279 |
+| Green Keycard | 17.00% | ~121,279 |
+| Rattle Hag | 15.00% | ~107,011 |
+| All Shells | 14.00% | ~99,877 |
+| Beam | 14.00% | ~99,877 |
+| 9 | 13.00% | ~92,743 |
+| Purple Cube | 13.00% | ~92,743 |
+| Supraball Noob | 13.00% | ~92,743 |
+| Health Drink | 12.00% | ~85,609 |
+| Helped a star | 12.00% | ~85,609 |
+| Strong | 12.00% | ~85,609 |
+| Blue King's lair | 11.00% | ~78,475 |
+| Got the gun back | 11.00% | ~78,475 |
+| Infiltrated | 11.00% | ~78,475 |
+| Robbed | 11.00% | ~78,475 |
 | Payback | 10.00% | ~71,340 |
 | Got the coins back | 10.00% | ~71,340 |
 | Cave Flies | 10.00% | ~71,340 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~713 |
 | DLC: Top of the world | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,396 (Ranked 16)  
+Progressed: 713,405 (Ranked 16)  
 Completed: 700 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 700 (0.10%) (Ranked 174)
 | 2023-06-22 | 712,740 | 700 |
 | 2023-06-23 | 712,945 | 700 |
 | 2023-06-24 | 713,177 | 700 |
-| 2023-06-25 | 713,396 | 700 |
+| 2023-06-25 | 713,405 | 700 |
 ## Awards
 Max (Challenging Puzzles): 7,628  (Ranked 42)  
 Sum: 9,933 (Ranked 81)  

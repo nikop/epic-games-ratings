@@ -8,7 +8,7 @@ Rating: 4.35 (Ranked 734)
 | First Blood | 92.00% | ~1,096 |
 | Ranidaphobia | 77.00% | ~917 |
 | Aspiring Editor | 74.00% | ~881 |
-| Gun for Hire | 69.00% | ~822 |
+| Gun for Hire | 70.00% | ~834 |
 | I am the law! | 62.00% | ~738 |
 | Lumberjack | 51.00% | ~607 |
 | Croaked | 46.00% | ~548 |

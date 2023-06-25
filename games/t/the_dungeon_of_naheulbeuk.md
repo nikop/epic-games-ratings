@@ -6,33 +6,33 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~203 |
-| Where's that freaking Dwarf? | 87.00% | ~190 |
+| Alt+F4 | 93.00% | ~204 |
+| Where's that freaking Dwarf? | 87.00% | ~191 |
 | Sock! SOCK! | 70.00% | ~153 |
-| Fireproof Wizardess | 56.00% | ~122 |
+| Fireproof Wizardess | 56.00% | ~123 |
 | Livin' in a dwarven paradise | 53.00% | ~116 |
-| Déjà vu | 51.00% | ~111 |
+| Déjà vu | 51.00% | ~112 |
 | GG EZ | 49.00% | ~107 |
-| Way of the Wimp | 45.00% | ~98 |
-| DM intervention | 45.00% | ~98 |
+| DM intervention | 46.00% | ~101 |
+| Way of the Wimp | 45.00% | ~99 |
 | Oh, when I'll be level 10... | 37.00% | ~81 |
-| Speedrun | 36.00% | ~78 |
+| Speedrun | 36.00% | ~79 |
 | A beer, two curses, three companions | 34.00% | ~74 |
 | Team Building Exercise | 34.00% | ~74 |
 | The plot thickens... At the tavern | 33.00% | ~72 |
 | Dwarf Fortress | 31.00% | ~68 |
 | The Ranger of Chaos | 31.00% | ~68 |
 | I am the night | 31.00% | ~68 |
-| Thieves' Guild Accreditation | 29.00% | ~63 |
-| Look but don't touch | 28.00% | ~61 |
-| The demons' feast | 25.00% | ~54 |
-| The Great Library | 24.00% | ~52 |
+| Thieves' Guild Accreditation | 29.00% | ~64 |
+| Look but don't touch | 27.00% | ~59 |
+| The demons' feast | 25.00% | ~55 |
+| The Great Library | 24.00% | ~53 |
 | Shiny and Crôm | 23.00% | ~50 |
 | Gargantua | 23.00% | ~50 |
 | Material Girl | 23.00% | ~50 |
 | Torture and Sensibility | 22.00% | ~48 |
-| The Statuette of Gladeulfeurah | 22.00% | ~48 |
-| A tale of adventurers not quite like the others... | 22.00% | ~48 |
+| The Statuette of Gladeulfeurah | 21.00% | ~46 |
+| A tale of adventurers not quite like the others... | 21.00% | ~46 |
 | The beards of change | 21.00% | ~46 |
 | The Woman in the High Castle | 18.00% | ~39 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~39 |
@@ -50,18 +50,18 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 9.00% | ~20 |
 | He’s alive! Aliiiive! | 9.00% | ~20 |
 | Lust and Debauchery | 9.00% | ~20 |
-| Egghead | 8.00% | ~17 |
-| Lëgal Legend | 8.00% | ~17 |
+| Egghead | 8.00% | ~18 |
+| Lëgal Legend | 8.00% | ~18 |
 | Elite Adventurers | 7.00% | ~15 |
 | Free customer service | 7.00% | ~15 |
 | An old poacher makes the best gamekeeper | 7.00% | ~15 |
 | We come in peace | 6.00% | ~13 |
-| Inception | 6.00% | ~13 |
 | Super-Ultra-Lydian | 5.00% | ~11 |
+| Inception | 5.00% | ~11 |
 | Holistic Adventuring Party | 4.00% | ~9 |
+| I'd rather... Just... Sing! | 4.00% | ~9 |
 | Hit snooze | 4.00% | ~9 |
 | Friendly fire | 3.00% | ~7 |
-| I'd rather... Just... Sing! | 3.00% | ~7 |
 | Kudos from your DM | 3.00% | ~7 |
 | Insult to injury | 3.00% | ~7 |
 | Restless night | 2.00% | ~4 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218 (Ranked 254)  
+Progressed: 219 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-22 | 163 | 0 |
 | 2023-06-23 | 177 | 0 |
 | 2023-06-24 | 201 | 0 |
-| 2023-06-25 | 218 | 0 |
+| 2023-06-25 | 219 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 383)  
 Sum: 61 (Ranked 436)  

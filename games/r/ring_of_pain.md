@@ -6,32 +6,32 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,176 |
-| Uncharted Territory | 89.00% | ~205,975 |
-| Getting A Glimpse | 73.00% | ~168,946 |
-| A Quick Escape | 65.00% | ~150,431 |
-| Explorer | 62.00% | ~143,488 |
-| Defeat The Dark | 61.00% | ~141,174 |
-| An Offering | 61.00% | ~141,174 |
-| Colorful Corpse | 58.00% | ~134,231 |
-| That Was Quick | 56.00% | ~129,602 |
-| A Donation | 56.00% | ~129,602 |
+| First Steps | 96.00% | ~222,177 |
+| Uncharted Territory | 89.00% | ~205,976 |
+| Getting A Glimpse | 73.00% | ~168,947 |
+| A Quick Escape | 65.00% | ~150,432 |
+| Explorer | 62.00% | ~143,489 |
+| Defeat The Dark | 61.00% | ~141,175 |
+| An Offering | 61.00% | ~141,175 |
+| Colorful Corpse | 58.00% | ~134,232 |
+| That Was Quick | 56.00% | ~129,603 |
+| A Donation | 56.00% | ~129,603 |
 | Goodbye, Frog Friend | 54.00% | ~124,974 |
-| Heavy Hitter | 53.00% | ~122,659 |
-| Heartless | 46.00% | ~106,459 |
-| Spine Breaker | 46.00% | ~106,459 |
+| Heavy Hitter | 53.00% | ~122,660 |
+| Heartless | 46.00% | ~106,460 |
+| Spine Breaker | 46.00% | ~106,460 |
 | Deflection | 45.00% | ~104,145 |
-| Sneaky | 43.00% | ~99,516 |
+| Sneaky | 43.00% | ~99,517 |
 | Delving Deeper | 42.00% | ~97,202 |
 | Ambitious Intent | 41.00% | ~94,888 |
 | C-C-Combo | 41.00% | ~94,888 |
-| The Bestiary | 40.00% | ~92,573 |
+| The Bestiary | 40.00% | ~92,574 |
 | Nothing To Lose | 39.00% | ~90,259 |
 | What's Yours Is Mine | 38.00% | ~87,945 |
 | R.I.P | 36.00% | ~83,316 |
 | Shootout | 35.00% | ~81,002 |
-| Cold Hearted | 34.00% | ~78,687 |
-| I Am Overburdened | 34.00% | ~78,687 |
+| Cold Hearted | 34.00% | ~78,688 |
+| I Am Overburdened | 34.00% | ~78,688 |
 | Dig Your Own Grave | 33.00% | ~76,373 |
 | Toxic | 33.00% | ~76,373 |
 | Who To Trust? | 32.00% | ~74,059 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~926 |
 | Near Death Experience | 0.30% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,433 (Ranked 46)  
+Progressed: 231,434 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 240 (0.10%) (Ranked 174)
 | 2023-06-22 | 231,242 | 240 |
 | 2023-06-23 | 231,310 | 240 |
 | 2023-06-24 | 231,372 | 240 |
-| 2023-06-25 | 231,433 | 240 |
+| 2023-06-25 | 231,434 | 240 |
 ## Awards
 Max (Quickly Understood Controls): 1,481  (Ranked 119)  
 Sum: 11,463 (Ranked 75)  

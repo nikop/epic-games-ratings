@@ -16,19 +16,19 @@
 | Time Flies | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
-| Like Clockwork | 11.00% | ~79 |
-| The Man Who Shattered Time | 11.00% | ~79 |
-| The Harder They Fall | 11.00% | ~79 |
-| No, Thanks! | 11.00% | ~79 |
-| Breaking Down Barriers | 11.00% | ~79 |
-| The Prince in Heels | 11.00% | ~79 |
-| Honest Mistake | 11.00% | ~79 |
-| Golem Chaser | 11.00% | ~79 |
-| Fast Learner | 11.00% | ~79 |
-| Check Your Pulse | 11.00% | ~79 |
-| Immaculate Aim | 11.00% | ~79 |
-| The Brass Boss | 11.00% | ~79 |
-| The Family Fortune | 11.00% | ~79 |
+| Like Clockwork | 11.00% | ~80 |
+| The Man Who Shattered Time | 11.00% | ~80 |
+| The Harder They Fall | 11.00% | ~80 |
+| No, Thanks! | 11.00% | ~80 |
+| Breaking Down Barriers | 11.00% | ~80 |
+| The Prince in Heels | 11.00% | ~80 |
+| Honest Mistake | 11.00% | ~80 |
+| Golem Chaser | 11.00% | ~80 |
+| Fast Learner | 11.00% | ~80 |
+| Check Your Pulse | 11.00% | ~80 |
+| Immaculate Aim | 11.00% | ~80 |
+| The Brass Boss | 11.00% | ~80 |
+| The Family Fortune | 11.00% | ~80 |
 | Right On Time | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
 | Whiz Kid | 9.00% | ~65 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722 (Ranked 195)  
+Progressed: 723 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,4 +95,4 @@ Completed: 4 (0.55%) (Ranked 120)
 | 2023-06-22 | 714 | 4 |
 | 2023-06-23 | 718 | 4 |
 | 2023-06-24 | 721 | 4 |
-| 2023-06-25 | 722 | 4 |
+| 2023-06-25 | 723 | 4 |

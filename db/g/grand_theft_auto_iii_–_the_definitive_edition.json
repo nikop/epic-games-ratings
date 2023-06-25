@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -334,9 +334,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6832,
+  "EOS_Progressed": 6834,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4899,6 +4899,11 @@
       "Time": "2023-06-25T22:02:22.4923896+00:00",
       "NumProgressed": 6832,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-25T23:03:34.2242075+00:00",
+      "NumProgressed": 6834,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4910,7 +4915,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "ACH02",
@@ -4934,7 +4939,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ACH05",
@@ -4950,7 +4955,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH07",
@@ -5110,7 +5115,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.9,
       "XP": 55,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH27",
@@ -5141,7 +5146,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6832,
+      "Progressed": 6834,
       "Completed": 39
     }
   ],
@@ -5149,8 +5154,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-22T03:58:41.7067496+00:00",
-  "LastChanged_Achievements": "2023-06-25T22:02:22.4923893+00:00",
+  "LastChanged_Achievements": "2023-06-25T23:03:34.2242068+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:57:57.1386329+00:00",
-  "LastUpdate_Achievements": "2023-06-25T22:02:22.4924253+00:00"
+  "LastUpdate_Ratings": "2023-06-25T22:58:52.4458374+00:00",
+  "LastUpdate_Achievements": "2023-06-25T23:03:34.2242617+00:00"
 }

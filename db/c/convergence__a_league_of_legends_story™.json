@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
@@ -1454,6 +1454,11 @@
       "Time": "2023-06-25T15:06:54.7607021+00:00",
       "NumProgressed": 722,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-25T23:07:31.8797651+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1513,7 +1518,7 @@
       "Name": "Like Clockwork",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ClovemaryGift",
@@ -1601,7 +1606,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GadgetCompletion1",
@@ -1713,7 +1718,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ParryRepeated1",
@@ -1721,7 +1726,7 @@
       "Name": "No, Thanks!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1729,7 +1734,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -1745,7 +1750,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "RewindDamage1",
@@ -1761,7 +1766,7 @@
       "Name": "Honest Mistake",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1777,7 +1782,7 @@
       "Name": "Golem Chaser",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SkillCompletion1",
@@ -1793,7 +1798,7 @@
       "Name": "Fast Learner",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SpeedRun",
@@ -1825,7 +1830,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TheaterChests1",
@@ -1841,7 +1846,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WarwickDefeated",
@@ -1873,7 +1878,7 @@
       "Name": "The Brass Boss",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Zarkon2Defeated",
@@ -1881,21 +1886,21 @@
       "Name": "The Family Fortune",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-25T22:05:32.5180484+00:00",
+  "LastChanged_Achievements": "2023-06-25T23:07:31.8797645+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:59:16.637251+00:00",
-  "LastUpdate_Achievements": "2023-06-25T22:05:32.5180918+00:00"
+  "LastUpdate_Ratings": "2023-06-25T23:00:52.2885296+00:00",
+  "LastUpdate_Achievements": "2023-06-25T23:07:31.8798183+00:00"
 }

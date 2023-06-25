@@ -1258,9 +1258,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1362,9 +1362,9 @@
       "ID": "ACH_KILL_FRAG",
       "SetID": "1j25agn",
       "Name": "It Will Rain",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILL_OFFICER",
@@ -1442,8 +1442,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-06-25T22:03:05.3088116+00:00",
+  "LastChanged_Achievements": "2023-06-25T23:03:51.5830503+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:01.1208134+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:57:36.7963689+00:00",
-  "LastUpdate_Achievements": "2023-06-25T22:03:05.3088586+00:00"
+  "LastUpdate_Ratings": "2023-06-25T22:58:21.6307864+00:00",
+  "LastUpdate_Achievements": "2023-06-25T23:03:51.5831395+00:00"
 }

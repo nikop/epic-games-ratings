@@ -20,7 +20,7 @@ Number of Ratings: 154  (23.09.2022)
 | Miles "Tails" Prower | 69.00% | ~102 |
 | Easy Peasy with Shields | 68.00% | ~101 |
 | Boss Rush Attempt | 64.00% | ~95 |
-| Cleared Sonic the Hedgehog | 60.00% | ~89 |
+| Cleared Sonic the Hedgehog | 61.00% | ~90 |
 | Museum Time | 59.00% | ~87 |
 | Very First Mission Clear! | 59.00% | ~87 |
 | Super Sonic | 57.00% | ~84 |
