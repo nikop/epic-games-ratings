@@ -36,7 +36,7 @@
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.13% |
-| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.87% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.86% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 39 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 4.00% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
@@ -121,8 +121,8 @@
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 120 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
