@@ -48,7 +48,6 @@
 | [Bloxs](games/b/bloxs.md) | 2023-07-26 | - |  | - | - |
 | [Ratchet & Clank: Rift Apart Pre-Purchase](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | - | - |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | - |  | - | - |
-| [Arcade Fishing](games/a/arcade_fishing.md) | 2023-07-31 | - |  | - | - |
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-31 | - |  | - | - |
 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 2023-07-31 | 13 (1,000 XP) | 0 | - | - |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
@@ -61,6 +60,7 @@
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | - |  | - | - |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | - |  | - | - |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | - |  | - | - |
+| [Arcade Fishing](games/a/arcade_fishing.md) | 2023-08-31 | - |  | - | - |
 | [Delicious Dungeon](games/c/cda7202896cf47ae9f4abfbfe542a937.md) | 2023-08-31 | - |  | - | - |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
 | [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-08-31 | - |  | - | - |
@@ -104,6 +104,7 @@
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | - |  | - | - |
+| [Whale Fall](games/c/cc46844c977144c78ef9903ae8efbed4.md) | 2023-09-30 | - |  | - | - |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | - |  | - | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2023-10-03 | - |  | - | - |
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |

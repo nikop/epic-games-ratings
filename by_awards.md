@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,587 | 4.65 | 297 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,340 | 4.77 | 107 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,315 | 4.53 | 504 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,746 | 4.57 | 441 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,758 | 4.57 | 441 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,328 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,630 | 4.61 | 364 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,595 | 4.76 | 120 |
@@ -90,8 +90,8 @@
 | 88 | [Hades](games/h/hades.md) | 3,144 | 4.92 | 4 |
 | 89 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,136 | 4.57 | 441 |
 | 90 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2,835 | 4.56 | 456 |
-| 91 | [Trackmania](games/t/trackmania.md) | 2,825 | 4.67 | 259 |
-| 92 | [Path of Exile](games/p/path_of_exile.md) | 2,521 | 4.61 | 364 |
+| 91 | [Trackmania](games/t/trackmania.md) | 2,832 | 4.67 | 259 |
+| 92 | [Path of Exile](games/p/path_of_exile.md) | 2,524 | 4.61 | 364 |
 | 93 | [Among Us](games/a/among_us.md) | 2,493 | 4.57 | 441 |
 | 94 | [RAGE 2](games/r/rage_2.md) | 2,479 | 4.27 | 791 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,473 | 4.50 | 548 |
@@ -157,7 +157,7 @@
 | 155 | [Auto Chess](games/a/auto_chess.md) | 749 | 4.52 | 517 |
 | 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 745 | 4.45 | 619 |
 | 157 | [Core](games/c/core.md) | 737 | 4.36 | 725 |
-| 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 728 | 4.78 | 98 |
+| 158 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 729 | 4.78 | 98 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 702 | 4.50 | 548 |
 | 160 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 698 | 4.86 | 28 |
 | 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 697 | 4.58 | 421 |

@@ -100,7 +100,7 @@
 | 98 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 501 |
 | 98 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,322 | 36 |
 | 98 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.78 | 0 | 501 |
-| 98 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 728 | 158 |
+| 98 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 729 | 158 |
 | 98 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,322 | 101 |
 | 98 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.78 | 43 | 412 |
 | 98 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 501 |
@@ -271,7 +271,7 @@
 | 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 501 |
 | 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 501 |
 | 259 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 501 |
-| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,825 | 91 |
+| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,832 | 91 |
 | 273 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 415 |
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 270 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 501 |
@@ -374,7 +374,7 @@
 | 364 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,122 | 135 |
 | 364 | [MudRunner](games/m/mudrunner.md) | 4.61 | 241 | 248 |
 | 364 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 501 |
-| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,521 | 92 |
+| 364 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,524 | 92 |
 | 364 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 637 | 168 |
 | 364 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 442 | 199 |
 | 364 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,300 | 37 |
@@ -452,7 +452,7 @@
 | 441 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,136 | 89 |
 | 441 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 311 |
 | 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 454 |
-| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,746 | 19 |
+| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,758 | 19 |
 | 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,753 | 112 |
 | 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 51 | 392 |
 | 456 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 501 |
