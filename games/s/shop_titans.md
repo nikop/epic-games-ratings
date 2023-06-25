@@ -112,8 +112,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 1.00% | ~1,313 |
 | The Greatest Grind | 1.00% | ~1,313 |
 | Marvels from the World Over | 1.00% | ~1,313 |
+| JACKPOT!!! | 0.80% | ~1,051 |
 | Cash Only Please | 0.80% | ~1,051 |
-| JACKPOT!!! | 0.70% | ~919 |
 | Merchant Extraordinaire | 0.70% | ~919 |
 | To Hell and Back | 0.60% | ~788 |
 | Ultimate Collector | 0.50% | ~657 |

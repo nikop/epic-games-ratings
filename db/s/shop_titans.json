@@ -4740,7 +4740,7 @@
   ],
   "EOS_Progressed": 131337,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -11860,9 +11860,9 @@
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 1051
     },
     {
       "ID": "legenchant01",
@@ -12196,8 +12196,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-06-25T02:36:51.2666191+00:00",
-  "LastChanged_Achievements": "2023-06-25T02:44:35.500363+00:00",
+  "LastChanged_Achievements": "2023-06-25T03:36:17.4678769+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.3551983+00:00",
-  "LastUpdate_Ratings": "2023-06-25T02:36:51.2666197+00:00",
-  "LastUpdate_Achievements": "2023-06-25T02:44:35.50056+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:28:26.7175914+00:00",
+  "LastUpdate_Achievements": "2023-06-25T03:36:17.4680732+00:00"
 }

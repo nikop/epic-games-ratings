@@ -6,21 +6,21 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~849 |
-| Space Traveler | 79.00% | ~789 |
-| Voices from the Past | 78.00% | ~779 |
-| Demigod | 76.00% | ~759 |
-| The Great Destroyer | 75.00% | ~749 |
-| Shields Down | 72.00% | ~719 |
-| Helping Hand | 67.00% | ~669 |
-| Safe Home | 67.00% | ~669 |
-| Paragon | 63.00% | ~629 |
-| Old Days Born Anew | 62.00% | ~619 |
-| Full Arsenal | 58.00% | ~579 |
-| Controlled Demolition | 55.00% | ~549 |
-| Payback | 54.00% | ~539 |
-| Huntress | 53.00% | ~529 |
-| Born to Drift | 52.00% | ~519 |
+| Another Life | 85.00% | ~850 |
+| Space Traveler | 79.00% | ~790 |
+| Voices from the Past | 78.00% | ~780 |
+| Demigod | 76.00% | ~760 |
+| The Great Destroyer | 75.00% | ~750 |
+| Shields Down | 72.00% | ~720 |
+| Helping Hand | 67.00% | ~670 |
+| Safe Home | 67.00% | ~670 |
+| Paragon | 63.00% | ~630 |
+| Old Days Born Anew | 62.00% | ~620 |
+| Full Arsenal | 58.00% | ~580 |
+| Controlled Demolition | 55.00% | ~550 |
+| Payback | 54.00% | ~540 |
+| Huntress | 53.00% | ~530 |
+| Born to Drift | 52.00% | ~520 |
 | Relentless | 48.00% | ~480 |
 | The Path Forward | 46.00% | ~460 |
 | Disruption | 44.00% | ~440 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Overcharged | 9.00% | ~90 |
 | At Least You Tried | 2.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 185)  
+Progressed: 1,000 (Ranked 185)  
 Completed: 12 (1.20%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 12 (1.20%) (Ranked 92)
 | 2023-06-20 | 993 | 12 |
 | 2023-06-21 | 996 | 12 |
 | 2023-06-23 | 999 | 12 |
+| 2023-06-25 | 1,000 | 12 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 445)  
 Sum: 32 (Ranked 468)  

@@ -2,7 +2,7 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 99,
@@ -288,9 +288,9 @@
       "ID": "ACH_QuestionControl",
       "SetID": "aao9n96",
       "Name": "Frankly, my dear, I don\u0027t give a damn",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ResetRelay",
@@ -367,8 +367,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-06-25T02:43:16.3107698+00:00",
+  "LastChanged_Achievements": "2023-06-25T03:35:00.5959423+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3601408+00:00",
-  "LastUpdate_Ratings": "2023-06-25T02:35:49.224059+00:00",
-  "LastUpdate_Achievements": "2023-06-25T02:43:16.3107994+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:27:24.9792987+00:00",
+  "LastUpdate_Achievements": "2023-06-25T03:35:00.5959688+00:00"
 }

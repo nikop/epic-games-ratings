@@ -3849,9 +3849,9 @@
       "ID": "HARVEST_CROPS_200",
       "SetID": "5349c2e",
       "Name": "Green Thumb",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2642
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -4073,8 +4073,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-24T17:01:03.728903+00:00",
-  "LastChanged_Achievements": "2023-06-25T02:44:24.1349036+00:00",
+  "LastChanged_Achievements": "2023-06-25T03:36:06.0855552+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:57.9541614+00:00",
-  "LastUpdate_Ratings": "2023-06-25T02:38:05.1880741+00:00",
-  "LastUpdate_Achievements": "2023-06-25T02:44:24.1349429+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:29:40.4925733+00:00",
+  "LastUpdate_Achievements": "2023-06-25T03:36:06.0855923+00:00"
 }

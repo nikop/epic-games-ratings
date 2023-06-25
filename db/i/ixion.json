@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -3402,9 +3402,9 @@
       "ID": "ACH_BASE_48",
       "SetID": "92iocjf",
       "Name": "Permanent Redesigns",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_BASE_49",
@@ -3577,8 +3577,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-25T02:41:31.1742389+00:00",
+  "LastChanged_Achievements": "2023-06-25T03:33:16.3523984+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.8894875+00:00",
-  "LastUpdate_Ratings": "2023-06-25T02:36:56.960643+00:00",
-  "LastUpdate_Achievements": "2023-06-25T02:41:31.1743156+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:28:32.1651543+00:00",
+  "LastUpdate_Achievements": "2023-06-25T03:33:16.3524755+00:00"
 }

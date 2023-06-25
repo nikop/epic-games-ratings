@@ -6107,10 +6107,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18601,
       "NumberOfAwardsMax": 8002
+    },
+    {
+      "Time": "2023-06-25T03:29:43.4231916+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18604,
+      "NumberOfAwardsMax": 8002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18601,
+  "NumberOfAwards": 18604,
   "NumberOfAwardsMax": 8002,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6154,7 +6160,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 698
+      "Count": 701
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6187,9 +6193,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 582453,
+  "EOS_Progressed": 582458,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 3338,
+  "EOS_NewPlayers": 3328,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13177,6 +13183,11 @@
       "Time": "2023-06-25T02:44:33.961195+00:00",
       "NumProgressed": 582453,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-25T03:36:15.8889904+00:00",
+      "NumProgressed": 582458,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 65,
@@ -13188,7 +13199,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58245
+      "UsersEstimate": 58246
     },
     {
       "ID": "achievement_02",
@@ -13196,7 +13207,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58245
+      "UsersEstimate": 58246
     },
     {
       "ID": "achievement_03",
@@ -13324,7 +13335,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46596
+      "UsersEstimate": 46597
     },
     {
       "ID": "achievement_19",
@@ -13707,21 +13718,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 582453,
+      "Progressed": 582458,
       "Completed": 57
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 227897,
+      "Progressed": 227902,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-06-24T17:59:48.5725993+00:00",
-  "LastChanged_Achievements": "2023-06-25T02:44:33.9611943+00:00",
+  "LastChanged": "2023-06-25T03:29:43.4231914+00:00",
+  "LastChanged_Achievements": "2023-06-25T03:36:15.8889896+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-25T02:38:08.7708203+00:00",
-  "LastUpdate_Achievements": "2023-06-25T02:44:33.9613046+00:00"
+  "LastUpdate_Ratings": "2023-06-25T03:29:43.4231919+00:00",
+  "LastUpdate_Achievements": "2023-06-25T03:36:15.8891045+00:00"
 }
