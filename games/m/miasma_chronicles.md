@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.35 (Ranked 733)  
+Rating: 4.35 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,15 +23,15 @@ Rating: 4.35 (Ranked 733)
 | Technophobe | 34.00% | ~404 |
 | Recycler | 33.00% | ~392 |
 | Are you not entertained? | 29.00% | ~345 |
+| Jarhead | 29.00% | ~345 |
 | Ganglord | 28.00% | ~333 |
-| Jarhead | 28.00% | ~333 |
 | Infiltrator | 28.00% | ~333 |
 | Pushing Daisy | 27.00% | ~321 |
 | Experienced | 25.00% | ~297 |
+| Endgame | 22.00% | ~262 |
 | Hold The Line | 22.00% | ~262 |
 | There Can Be Only One! | 22.00% | ~262 |
 | Chain Killer | 21.00% | ~250 |
-| Endgame | 21.00% | ~250 |
 | Savior | 21.00% | ~250 |
 | The Watchers | 18.00% | ~214 |
 | Newtonian Knockout | 16.00% | ~190 |

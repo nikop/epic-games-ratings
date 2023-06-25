@@ -1,13 +1,13 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 733)  
+Rating: 4.35 (Ranked 734)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Our Man | 84.00% | ~341 |
-| Take-Off | 78.00% | ~317 |
+| Take-Off | 79.00% | ~321 |
 | Hokey-Pokey | 71.00% | ~288 |
 | Camellos | 57.00% | ~231 |
 | Bad Trip | 46.00% | ~187 |

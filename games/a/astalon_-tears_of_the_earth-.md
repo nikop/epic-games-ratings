@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 47.00% | ~26 |
-| Beast Quest | 33.00% | ~18 |
-| Monster Hunt | 33.00% | ~18 |
-| Orb Gatherer | 31.00% | ~17 |
-| Beast Hunter | 31.00% | ~17 |
-| Space worm! | 31.00% | ~17 |
-| Vanquisher! | 29.00% | ~16 |
-| Orb Collector | 29.00% | ~16 |
-| Snakehead! | 29.00% | ~16 |
-| Unmasked! | 29.00% | ~16 |
-| Loot, loot! | 29.00% | ~16 |
-| Beast Knight | 27.00% | ~15 |
-| Twin slayer! | 27.00% | ~15 |
-| Fly, you fool! | 27.00% | ~15 |
-| Mercenary! | 27.00% | ~15 |
-| God of the Tower! | 25.00% | ~14 |
-| Relic Collector | 25.00% | ~14 |
-| Cartographer | 25.00% | ~14 |
+| Beast Quest | 35.00% | ~19 |
+| Monster Hunt | 35.00% | ~19 |
+| Orb Gatherer | 33.00% | ~18 |
+| Beast Hunter | 33.00% | ~18 |
+| Space worm! | 33.00% | ~18 |
+| Vanquisher! | 31.00% | ~17 |
+| Orb Collector | 31.00% | ~17 |
+| Snakehead! | 31.00% | ~17 |
+| Unmasked! | 31.00% | ~17 |
+| Loot, loot! | 31.00% | ~17 |
+| Beast Knight | 29.00% | ~16 |
+| Twin slayer! | 29.00% | ~16 |
+| Fly, you fool! | 29.00% | ~16 |
+| Mercenary! | 29.00% | ~16 |
+| God of the Tower! | 27.00% | ~15 |
+| Relic Collector | 27.00% | ~15 |
+| Cartographer | 27.00% | ~15 |
 | Wizard Mastery | 20.00% | ~11 |
 | Rogue Mastery | 18.00% | ~10 |
 | Fighter Mastery | 16.00% | ~9 |

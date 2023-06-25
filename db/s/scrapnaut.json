@@ -2,12 +2,12 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -796,9 +796,9 @@
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Master Of Management",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
@@ -981,8 +981,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-25T12:00:30.283436+00:00",
+  "LastChanged_Achievements": "2023-06-25T13:14:21.2778873+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:17.1847858+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:58:29.5621361+00:00",
-  "LastUpdate_Achievements": "2023-06-25T12:00:30.2834678+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:12:18.3707653+00:00",
+  "LastUpdate_Achievements": "2023-06-25T13:14:21.2779183+00:00"
 }

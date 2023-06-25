@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~3,969 |
-| Photographer | 74.00% | ~3,814 |
-| Valley's Helper | 70.00% | ~3,608 |
-| Constructor | 59.00% | ~3,041 |
-| Renovator | 57.00% | ~2,938 |
-| Bestest Friend | 55.00% | ~2,835 |
-| Banker | 46.00% | ~2,371 |
-| Gardener | 36.00% | ~1,855 |
-| Generous | 26.00% | ~1,340 |
-| Chef Cook | 21.00% | ~1,082 |
-| Miner | 10.00% | ~515 |
-| Duty Bound | 7.00% | ~361 |
-| Angler | 6.00% | ~309 |
-| Thorn Cleaner | 4.00% | ~206 |
+| Goofy's Investor | 77.00% | ~3,979 |
+| Photographer | 74.00% | ~3,824 |
+| Valley's Helper | 70.00% | ~3,617 |
+| Constructor | 59.00% | ~3,049 |
+| Renovator | 57.00% | ~2,945 |
+| Bestest Friend | 55.00% | ~2,842 |
+| Banker | 46.00% | ~2,377 |
+| Gardener | 36.00% | ~1,860 |
+| Generous | 26.00% | ~1,343 |
+| Chef Cook | 21.00% | ~1,085 |
+| Miner | 10.00% | ~517 |
+| Duty Bound | 7.00% | ~362 |
+| Angler | 6.00% | ~310 |
+| Thorn Cleaner | 4.00% | ~207 |
 | Chit Chatter | 3.00% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,154 (Ranked 129)  
-Completed: 151 (2.93%) (Ranked 55)  
+Progressed: 5,167 (Ranked 129)  
+Completed: 151 (2.92%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,10 +39,10 @@ Completed: 151 (2.93%) (Ranked 55)
 | 2023-06-22 | 4,804 | 150 |
 | 2023-06-23 | 4,932 | 151 |
 | 2023-06-24 | 5,088 | 151 |
-| 2023-06-25 | 5,154 | 151 |
+| 2023-06-25 | 5,167 | 151 |
 ## Awards
 Max (Great for Beginners): 877  (Ranked 148)  
-Sum: 7,202 (Ranked 103)  
+Sum: 7,203 (Ranked 103)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -55,7 +55,7 @@ Diff (max vs sum): 45
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 719 |
 | This game has a Creative Community | 599 |
-| This game has Easy Combat | 479 |
+| This game has Easy Combat | 480 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -170,4 +170,4 @@ Diff (max vs sum): 45
 | 2023-06-22 | 4.75 | - | 874 | 7,194 |
 | 2023-06-23 | 4.75 | - | 877 | 7,199 |
 | 2023-06-24 | 4.75 | - | 877 | 7,201 |
-| 2023-06-25 | 4.75 | - | 877 | 7,202 |
+| 2023-06-25 | 4.75 | - | 877 | 7,203 |

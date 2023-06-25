@@ -10,8 +10,8 @@
 | Off to a Good Start | 9.00% | ~19 |
 | Small-time Finder | 9.00% | ~19 |
 | Business as usual | 7.00% | ~15 |
+| Pride and Joy | 5.00% | ~10 |
 | Mr. Hygeni | 5.00% | ~10 |
-| Pride and Joy | 4.00% | ~8 |
 | Eyes Yet To Open | 4.00% | ~8 |
 | Hackathon | 4.00% | ~8 |
 | All the Stories | 2.00% | ~4 |
@@ -29,7 +29,7 @@
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 256)  
+Progressed: 208 (Ranked 257)  
 Completed: 5 (2.40%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |

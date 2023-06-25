@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 548)  
+Rating: 4.50 (Ranked 549)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,6 +18,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jeef Skagg | 0.20% | ~923 |
 | Plan for the worst | 0.20% | ~923 |
 | Excelsior Rule | 0.20% | ~923 |
+| Hand of the Emperor | 0.20% | ~11 |
 | May His passing cleanse the world | 0.10% | ~462 |
 | Chapter II: Fallible Flesh | 0.10% | ~462 |
 | Chapter III: The Man Who Sold the World | 0.10% | ~462 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Extractor | 0.10% | ~5 |
 | The Executioner | 0.10% | ~5 |
 | Soldiers of Fortune | 0.10% | ~5 |
-| Hand of the Emperor | 0.10% | ~5 |
 | Savior | 0.10% | ~5 |
 | The God of War | 0.10% | ~5 |
 | Horus Mastery | 0.10% | ~5 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~5 |
 | Kronos Rule | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,527 (Ranked 34)  
+Progressed: 461,532 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 14 (0.00%) (Ranked 230)
 | 2023-06-22 | 461,298 | 14 |
 | 2023-06-23 | 461,391 | 14 |
 | 2023-06-24 | 461,481 | 14 |
-| 2023-06-25 | 461,527 | 14 |
+| 2023-06-25 | 461,532 | 14 |
 ## Awards
 Max (Character Customization): 213  (Ranked 259)  
 Sum: 213 (Ranked 353)  

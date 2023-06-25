@@ -1,23 +1,23 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.07 (Ranked 894)  
+Rating: 4.07 (Ranked 895)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,402 |
-| World Map | 80.00% | ~1,193 |
+| World Map | 80.00% | ~1,194 |
 | Temple of Eternals | 57.00% | ~850 |
-| Prestigious | 54.00% | ~805 |
-| Fellowship Power | 41.00% | ~611 |
+| Prestigious | 54.00% | ~806 |
+| Fellowship Power | 41.00% | ~612 |
 | Guild Power | 24.00% | ~358 |
 | Prestigious x10 | 21.00% | ~313 |
 | The game is on | 19.00% | ~283 |
-| Exotic Merchant | 17.00% | ~253 |
+| Exotic Merchant | 17.00% | ~254 |
 | Dragon Clicker | 16.00% | ~239 |
+| Inspection | 16.00% | ~239 |
 | Miner Clicker | 16.00% | ~239 |
 | Full Party | 15.00% | ~224 |
-| Inspection | 15.00% | ~224 |
 | Hero inspection | 14.00% | ~209 |
 | Dragon Master | 13.00% | ~194 |
 | Enlightenment | 13.00% | ~194 |
@@ -39,16 +39,16 @@ Rating: 4.07 (Ranked 894)
 | Moving Up The Ladder | 8.00% | ~119 |
 | Relic Of The Past | 8.00% | ~119 |
 | Scroll Master | 8.00% | ~119 |
-| Here We Go Again | 6.00% | ~89 |
-| Master Enchanter | 6.00% | ~89 |
-| The father of Dragons | 6.00% | ~89 |
-| Trader | 6.00% | ~89 |
+| Here We Go Again | 6.00% | ~90 |
+| Master Enchanter | 6.00% | ~90 |
+| The Expeditioner | 6.00% | ~90 |
+| The father of Dragons | 6.00% | ~90 |
+| Trader | 6.00% | ~90 |
 | Ancient Knowledge | 5.00% | ~75 |
 | Crystal Mining | 5.00% | ~75 |
 | Enchanting skill | 5.00% | ~75 |
 | How Do You Turn This On? | 5.00% | ~75 |
 | Missions Dedication | 5.00% | ~75 |
-| The Expeditioner | 5.00% | ~75 |
 | Weekly Quest Completionist | 5.00% | ~75 |
 | Background Story | 4.00% | ~60 |
 | Blueprint Upgrades | 4.00% | ~60 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 894)
 | Ultimate War Machines | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,491 (Ranked 167)  
+Progressed: 1,492 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-22 | 1,469 | 1 |
 | 2023-06-23 | 1,480 | 1 |
 | 2023-06-24 | 1,486 | 1 |
-| 2023-06-25 | 1,491 | 1 |
+| 2023-06-25 | 1,492 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

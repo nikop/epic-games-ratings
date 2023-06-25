@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3449,
+  "EOS_Progressed": 3450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4631,6 +4631,11 @@
       "Time": "2023-06-25T12:05:28.6527733+00:00",
       "NumProgressed": 3449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T13:19:40.2943162+00:00",
+      "NumProgressed": 3450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4658,7 +4663,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "12",
@@ -4706,7 +4711,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "4",
@@ -4738,7 +4743,7 @@
       "Name": "Blue Rapids",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "8",
@@ -4761,7 +4766,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3449,
+      "Progressed": 3450,
       "Completed": 0
     }
   ],
@@ -4769,8 +4774,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-25T12:05:28.6527728+00:00",
+  "LastChanged_Achievements": "2023-06-25T13:19:40.2943155+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:46.7260525+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:58:09.470006+00:00",
-  "LastUpdate_Achievements": "2023-06-25T12:05:28.6528128+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:11:58.5860054+00:00",
+  "LastUpdate_Achievements": "2023-06-25T13:19:40.2943667+00:00"
 }

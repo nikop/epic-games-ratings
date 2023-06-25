@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6949,
+  "EOS_Progressed": 6950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4752,6 +4752,11 @@
       "Time": "2023-06-25T09:06:40.2404206+00:00",
       "NumProgressed": 6949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T13:19:54.6546274+00:00",
+      "NumProgressed": 6950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4763,7 +4768,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "0002",
@@ -4803,7 +4808,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "0007",
@@ -4819,7 +4824,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "0009",
@@ -4883,7 +4888,7 @@
       "Name": "Live and let lie",
       "Percentage": 5,
       "XP": 115,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "0017",
@@ -4955,7 +4960,7 @@
       "Name": "Tailor-Made",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "0026",
@@ -4987,7 +4992,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "0030",
@@ -5027,7 +5032,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "0035",
@@ -5050,7 +5055,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6949,
+      "Progressed": 6950,
       "Completed": 0
     }
   ],
@@ -5058,8 +5063,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-06-25T12:05:43.275814+00:00",
+  "LastChanged_Achievements": "2023-06-25T13:19:54.6546269+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:46.3450857+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:59:34.0833895+00:00",
-  "LastUpdate_Achievements": "2023-06-25T12:05:43.2758705+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:13:23.1455932+00:00",
+  "LastUpdate_Achievements": "2023-06-25T13:19:54.6546756+00:00"
 }

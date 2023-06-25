@@ -5,18 +5,18 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,447 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,448 |
 | Mainframe Hacker | 46.00% | ~3,197 |
 | Tomorrow Never Dyes | 46.00% | ~3,197 |
 | The Spy who eliminated me | 46.00% | ~3,197 |
 | Never Say Loser Again | 40.00% | ~2,780 |
 | For your Eyes only | 39.00% | ~2,710 |
-| From the Vault with Love | 37.00% | ~2,571 |
-| Tailor-Made | 37.00% | ~2,571 |
+| From the Vault with Love | 37.00% | ~2,572 |
+| Tailor-Made | 37.00% | ~2,572 |
 | Fully Decked Out | 35.00% | ~2,432 |
 | You Only Live Twice | 32.00% | ~2,224 |
-| A view to Win | 27.00% | ~1,876 |
-| Smells Like Trouble | 25.00% | ~1,737 |
+| A view to Win | 27.00% | ~1,877 |
+| Smells Like Trouble | 25.00% | ~1,738 |
 | Assistant Accountant | 24.00% | ~1,668 |
 | The Living Portrait | 24.00% | ~1,668 |
 | Private Collection | 24.00% | ~1,668 |
@@ -30,19 +30,19 @@ Rating: 4.64 (Ranked 313)
 | License to Thrill | 8.00% | ~556 |
 | Social of Solace | 8.00% | ~556 |
 | Safe Withdrawal | 6.00% | ~417 |
-| Live and let lie | 5.00% | ~347 |
+| Live and let lie | 5.00% | ~348 |
 | Call Me Maybe | 4.00% | ~278 |
 | PHD in VIP | 4.00% | ~278 |
 | Branch Manager | 3.00% | ~208 |
 | The terminals are not enough | 2.00% | ~139 |
 | Lose Another Day | 2.00% | ~139 |
 | Chairman of Deceive Inc. | 2.00% | ~139 |
-| Chief Information Officer | 1.00% | ~69 |
+| Chief Information Officer | 1.00% | ~70 |
 | Masteries Are Forever | 0.70% | ~49 |
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,949 (Ranked 121)  
+Progressed: 6,950 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 6,913 | 0 |
 | 2023-06-23 | 6,930 | 0 |
 | 2023-06-24 | 6,941 | 0 |
-| 2023-06-25 | 6,949 | 0 |
+| 2023-06-25 | 6,950 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

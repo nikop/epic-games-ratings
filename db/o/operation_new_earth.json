@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 101,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-06-25T12:03:39.4144111+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T13:17:50.2366779+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -714,9 +719,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -756,7 +761,7 @@
       "Name": "Silver Competitor",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -796,7 +801,7 @@
       "Name": "Facility Online",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -804,7 +809,7 @@
       "Name": "Corporal",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -812,7 +817,7 @@
       "Name": "Sergeant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -868,7 +873,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -938,9 +943,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -948,7 +953,7 @@
       "Name": "Defenses Online",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -995,14 +1000,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-25T12:03:39.4144107+00:00",
+  "LastChanged_Achievements": "2023-06-25T13:17:50.2366772+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-25T12:00:12.4947463+00:00",
-  "LastUpdate_Achievements": "2023-06-25T12:03:39.4144441+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:13:59.9425846+00:00",
+  "LastUpdate_Achievements": "2023-06-25T13:17:50.2367076+00:00"
 }

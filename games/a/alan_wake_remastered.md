@@ -6,21 +6,21 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,544 |
+| Follow the Light | 33.00% | ~18,545 |
 | Let There Be Light | 26.00% | ~14,611 |
-| Float Like a Butterfly | 25.00% | ~14,049 |
-| Nordic Walking | 20.00% | ~11,239 |
-| Bright Falls' Finest | 19.00% | ~10,677 |
-| Under a Thin Layer of Skin | 17.00% | ~9,553 |
-| Park Ranger | 14.00% | ~7,867 |
-| Paging Mr. Wake | 14.00% | ~7,867 |
-| Back! Back, I Say! | 13.00% | ~7,305 |
-| Finders Keepers | 13.00% | ~7,305 |
-| Sound and Fury | 12.00% | ~6,743 |
-| Damn Good Cup of Coffee | 12.00% | ~6,743 |
-| Wheels Within Wheels | 11.00% | ~6,181 |
-| They're Heeeeeere! | 11.00% | ~6,181 |
-| Missed by a Mile | 11.00% | ~6,181 |
+| Float Like a Butterfly | 25.00% | ~14,050 |
+| Nordic Walking | 20.00% | ~11,240 |
+| Bright Falls' Finest | 19.00% | ~10,678 |
+| Under a Thin Layer of Skin | 17.00% | ~9,554 |
+| Park Ranger | 14.00% | ~7,868 |
+| Paging Mr. Wake | 14.00% | ~7,868 |
+| Back! Back, I Say! | 13.00% | ~7,306 |
+| Finders Keepers | 13.00% | ~7,306 |
+| Sound and Fury | 12.00% | ~6,744 |
+| Damn Good Cup of Coffee | 12.00% | ~6,744 |
+| Wheels Within Wheels | 11.00% | ~6,182 |
+| They're Heeeeeere! | 11.00% | ~6,182 |
+| Missed by a Mile | 11.00% | ~6,182 |
 | Heavy Metal | 10.00% | ~5,620 |
 | Iron Horse | 10.00% | ~5,620 |
 | The Six-Gun Scribe | 10.00% | ~5,620 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,195 (Ranked 79)  
+Progressed: 56,198 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 56 (0.10%) (Ranked 174)
 | 2023-06-22 | 55,969 | 56 |
 | 2023-06-23 | 56,053 | 56 |
 | 2023-06-24 | 56,152 | 56 |
-| 2023-06-25 | 56,195 | 56 |
+| 2023-06-25 | 56,198 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

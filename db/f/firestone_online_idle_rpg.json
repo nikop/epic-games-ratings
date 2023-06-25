@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1491,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3517,6 +3517,11 @@
       "Time": "2023-06-25T10:05:49.4230787+00:00",
       "NumProgressed": 1491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-25T13:19:57.0121784+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3704,7 +3709,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "fellowshippower",
@@ -3712,7 +3717,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "fourleafclover",
@@ -3768,7 +3773,7 @@
       "Name": "Here We Go Again",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "heroinspection",
@@ -3798,9 +3803,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 239
     },
     {
       "ID": "jewelenchanting",
@@ -3840,7 +3845,7 @@
       "Name": "Master Enchanter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "mastery",
@@ -3920,7 +3925,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "prestigiousx10",
@@ -3998,9 +4003,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "thefatherofdragons",
@@ -4008,7 +4013,7 @@
       "Name": "The father of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "thegameison",
@@ -4048,7 +4053,7 @@
       "Name": "Trader",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -4120,14 +4125,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1491,
+      "Progressed": 1492,
       "Completed": 1
     }
   ],
@@ -4135,8 +4140,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-25T12:05:45.4502682+00:00",
+  "LastChanged_Achievements": "2023-06-25T13:19:57.0121777+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:58:06.7793463+00:00",
-  "LastUpdate_Achievements": "2023-06-25T12:05:45.4503688+00:00"
+  "LastUpdate_Ratings": "2023-06-25T13:11:55.9313517+00:00",
+  "LastUpdate_Achievements": "2023-06-25T13:19:57.0123123+00:00"
 }

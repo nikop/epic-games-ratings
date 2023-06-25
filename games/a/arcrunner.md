@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 5.00% | ~30 |
+| Augmented | 5.00% | ~31 |
 | Challenge Accepted | 4.00% | ~24 |
 | Terminated I | 4.00% | ~24 |
 | Unlocked and Loaded | 4.00% | ~24 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 204)  
+Progressed: 611 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 580 | 0 |
 | 2023-06-23 | 587 | 0 |
 | 2023-06-24 | 604 | 0 |
-| 2023-06-25 | 610 | 0 |
+| 2023-06-25 | 611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
