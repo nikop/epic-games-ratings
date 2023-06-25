@@ -1,23 +1,23 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 421)  
+Rating: 4.58 (Ranked 420)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,143 |
-| Uncharted Territory | 89.00% | ~205,945 |
-| Getting A Glimpse | 73.00% | ~168,921 |
-| A Quick Escape | 65.00% | ~150,409 |
-| Explorer | 62.00% | ~143,467 |
-| Defeat The Dark | 61.00% | ~141,153 |
-| An Offering | 61.00% | ~141,153 |
-| Colorful Corpse | 58.00% | ~134,211 |
-| That Was Quick | 56.00% | ~129,583 |
-| A Donation | 56.00% | ~129,583 |
-| Goodbye, Frog Friend | 54.00% | ~124,955 |
-| Heavy Hitter | 53.00% | ~122,641 |
+| First Steps | 96.00% | ~222,144 |
+| Uncharted Territory | 89.00% | ~205,946 |
+| Getting A Glimpse | 73.00% | ~168,922 |
+| A Quick Escape | 65.00% | ~150,410 |
+| Explorer | 62.00% | ~143,468 |
+| Defeat The Dark | 61.00% | ~141,154 |
+| An Offering | 61.00% | ~141,154 |
+| Colorful Corpse | 58.00% | ~134,212 |
+| That Was Quick | 56.00% | ~129,584 |
+| A Donation | 56.00% | ~129,584 |
+| Goodbye, Frog Friend | 54.00% | ~124,956 |
+| Heavy Hitter | 53.00% | ~122,642 |
 | Heartless | 46.00% | ~106,444 |
 | Spine Breaker | 46.00% | ~106,444 |
 | Deflection | 45.00% | ~104,130 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~926 |
 | Near Death Experience | 0.30% | ~694 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,399 (Ranked 46)  
+Progressed: 231,400 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 240 (0.10%) (Ranked 174)
 | 2023-06-22 | 231,242 | 240 |
 | 2023-06-23 | 231,310 | 240 |
 | 2023-06-24 | 231,372 | 240 |
-| 2023-06-25 | 231,399 | 240 |
+| 2023-06-25 | 231,400 | 240 |
 ## Awards
 Max (Quickly Understood Controls): 1,481  (Ranked 119)  
-Sum: 11,460 (Ranked 75)  
+Sum: 11,462 (Ranked 75)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -206,7 +206,7 @@ Diff (max vs sum): 44
 | This game is Great for Beginners | 1,480 |
 | This game is Relaxing | 1,413 |
 | This game has Challenging Combat | 1,399 |
-| This game is Extremely Fun | 1,386 |
+| This game is Extremely Fun | 1,388 |
 | This game is Highly Recommended | 1,348 |
 | This game has Amazing Storytelling | 1,301 |
 | This game has Amazing Characters | 1,208 |
@@ -320,3 +320,4 @@ Diff (max vs sum): 44
 | 2023-06-22 | 4.58 | - | 1,481 | 12,937 |
 | 2023-06-23 | 4.58 | - | 1,481 | 12,938 |
 | 2023-06-24 | 4.58 | - | 1,481 | 12,940 |
+| 2023-06-25 | 4.58 | - | 1,481 | 11,462 |

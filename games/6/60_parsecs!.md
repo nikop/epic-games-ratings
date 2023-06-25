@@ -12,7 +12,7 @@
 | Space Engineer | 63.00% | ~410 |
 | Dust to Dust | 57.00% | ~370 |
 | Across The Stars | 47.00% | ~306 |
-| Crafty | 45.00% | ~292 |
+| Crafty | 46.00% | ~299 |
 | All Seats Taken | 36.00% | ~234 |
 | For Science! | 33.00% | ~214 |
 | Meet the Petersons | 31.00% | ~202 |

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Lucky charm | 91.00% | ~157 |
 | Trumpet | 89.00% | ~154 |
-| Spyglass | 83.00% | ~144 |
-| Broken toy | 77.00% | ~133 |
+| Spyglass | 84.00% | ~145 |
+| Broken toy | 78.00% | ~135 |
 | Egghead Lucy | 76.00% | ~131 |
 | Puppy | 61.00% | ~106 |
 | Coal's fur | 57.00% | ~99 |
@@ -16,10 +16,10 @@
 | Glass shards | 45.00% | ~78 |
 | Complicated padlock | 41.00% | ~71 |
 | Big metal ruler | 41.00% | ~71 |
-| Windmill | 37.00% | ~64 |
-| Doll | 36.00% | ~62 |
-| Mysterious paintings | 32.00% | ~55 |
-| Cat | 31.00% | ~54 |
+| Windmill | 38.00% | ~66 |
+| Doll | 37.00% | ~64 |
+| Mysterious paintings | 33.00% | ~57 |
+| Cat | 32.00% | ~55 |
 | Depths of the well | 25.00% | ~43 |
 | Children | 22.00% | ~38 |
 | Huge Snail | 16.00% | ~28 |

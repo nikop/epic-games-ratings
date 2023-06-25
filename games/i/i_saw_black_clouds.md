@@ -14,8 +14,8 @@
 | Jack | 13.00% | ~36 |
 | Tough | 10.00% | ~28 |
 | Clear | 4.00% | ~11 |
+| Unfinished | 3.00% | ~8 |
 | Denial | 2.00% | ~6 |
-| Unfinished | 2.00% | ~6 |
 | All endings | 1.00% | ~3 |
 | Help | 1.00% | ~3 |
 | Interpret | 1.00% | ~3 |

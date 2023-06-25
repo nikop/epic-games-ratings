@@ -6,35 +6,35 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,721 |
-| Photogenic | 88.00% | ~6,500 |
-| Surge Gauntlet Jockey | 85.00% | ~6,278 |
-| Plug It In | 84.00% | ~6,204 |
-| Adventure Time | 80.00% | ~5,909 |
-| Playing With Power | 77.00% | ~5,687 |
-| Coup d'Etat | 59.00% | ~4,358 |
-| You're Fired | 58.00% | ~4,284 |
-| Get Furious | 56.00% | ~4,136 |
-| Gunplay And Cosplay | 55.00% | ~4,062 |
-| Hacks In Stacks | 55.00% | ~4,062 |
-| Meching Enemies | 49.00% | ~3,619 |
-| Ticket Toddler | 45.00% | ~3,324 |
-| Booty Bashing | 43.00% | ~3,176 |
+| Let's Get This Party Started | 91.00% | ~6,723 |
+| Photogenic | 88.00% | ~6,501 |
+| Surge Gauntlet Jockey | 85.00% | ~6,280 |
+| Plug It In | 84.00% | ~6,206 |
+| Adventure Time | 80.00% | ~5,910 |
+| Playing With Power | 77.00% | ~5,689 |
+| Coup d'Etat | 59.00% | ~4,359 |
+| You're Fired | 58.00% | ~4,285 |
+| Get Furious | 56.00% | ~4,137 |
+| Gunplay And Cosplay | 55.00% | ~4,063 |
+| Hacks In Stacks | 55.00% | ~4,063 |
+| Meching Enemies | 49.00% | ~3,620 |
+| Ticket Toddler | 45.00% | ~3,325 |
+| Booty Bashing | 43.00% | ~3,177 |
 | Field Medic | 38.00% | ~2,807 |
 | Here Comes a New Challenger | 38.00% | ~2,807 |
-| Rapid Response | 33.00% | ~2,437 |
+| Rapid Response | 33.00% | ~2,438 |
 | Guardian Angel | 31.00% | ~2,290 |
 | Surge Ahead | 31.00% | ~2,290 |
 | The Full Monty | 31.00% | ~2,290 |
-| Poppin Noggins | 25.00% | ~1,846 |
+| Poppin Noggins | 25.00% | ~1,847 |
 | Clips and Crits | 21.00% | ~1,551 |
-| Grey Goo | 19.00% | ~1,403 |
+| Grey Goo | 19.00% | ~1,404 |
 | Boss of Bosses | 15.00% | ~1,108 |
 | The Final Blow | 14.00% | ~1,034 |
 | Light My Fire | 13.00% | ~960 |
 | To Be Continued | 13.00% | ~960 |
-| Seasoned Adventurer | 12.00% | ~886 |
-| 1.21 Gigawatts | 11.00% | ~812 |
+| Seasoned Adventurer | 12.00% | ~887 |
+| 1.21 Gigawatts | 11.00% | ~813 |
 | This Is My Boomstick! | 10.00% | ~739 |
 | Get In The Ring! | 9.00% | ~665 |
 | Rescue Ranger | 7.00% | ~517 |
@@ -42,11 +42,11 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Gauntlet Scholar | 6.00% | ~443 |
 | No Chill | 5.00% | ~369 |
 | Stop Hitting Yourself | 5.00% | ~369 |
-| Ground Control | 4.00% | ~295 |
-| Master of Arms | 4.00% | ~295 |
-| Start Your Collection | 4.00% | ~295 |
-| Team Player | 4.00% | ~295 |
-| Treasure Hunting | 4.00% | ~295 |
+| Ground Control | 4.00% | ~296 |
+| Master of Arms | 4.00% | ~296 |
+| Start Your Collection | 4.00% | ~296 |
+| Team Player | 4.00% | ~296 |
+| Treasure Hunting | 4.00% | ~296 |
 | Event Horizon | 3.00% | ~222 |
 | Nexuwizard | 2.00% | ~148 |
 | Everybody Freeze | 1.00% | ~74 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~30 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,386 (Ranked 119)  
+Progressed: 7,388 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,15 +123,15 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 7,345 | 0 |
 | 2023-06-23 | 7,355 | 0 |
 | 2023-06-24 | 7,380 | 0 |
-| 2023-06-25 | 7,386 | 0 |
+| 2023-06-25 | 7,388 | 0 |
 ## Awards
-Max (Relaxing): 62  (Ranked 381)  
-Sum: 485 (Ranked 297)  
+Max (Great for Beginners): 62  (Ranked 381)  
+Sum: 486 (Ranked 297)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 62 |
 | This game is Relaxing | 62 |
-| This game is Great for Beginners | 61 |
 | This game has Quickly Understood Controls | 60 |
 | This game has Amazing Characters | 58 |
 | This game is Extremely Fun | 58 |
@@ -216,3 +216,4 @@ Diff (max vs sum): 84
 | 2023-05-12 | 4.49 | - | 62 | 483 |
 | 2023-05-16 | 4.49 | - | 62 | 484 |
 | 2023-05-26 | 4.49 | - | 62 | 485 |
+| 2023-06-25 | 4.49 | - | 62 | 486 |

@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251827,
+  "EOS_Progressed": 251829,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7257,6 +7257,11 @@
       "Time": "2023-06-25T11:04:58.8630138+00:00",
       "NumProgressed": 251827,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-25T12:03:55.2995798+00:00",
+      "NumProgressed": 251829,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7316,7 +7321,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78066
+      "UsersEstimate": 78067
     },
     {
       "ID": "BackHomeNTimes",
@@ -7715,7 +7720,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251827,
+      "Progressed": 251829,
       "Completed": 2
     }
   ],
@@ -7723,8 +7728,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-24T19:02:21.5007856+00:00",
-  "LastChanged_Achievements": "2023-06-25T11:04:58.8630133+00:00",
+  "LastChanged_Achievements": "2023-06-25T12:03:55.2995794+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:01:24.6885211+00:00",
-  "LastUpdate_Achievements": "2023-06-25T11:04:58.8630806+00:00"
+  "LastUpdate_Ratings": "2023-06-25T12:00:04.275361+00:00",
+  "LastUpdate_Achievements": "2023-06-25T12:03:55.2996742+00:00"
 }

@@ -45,7 +45,7 @@ Rating: 4.80 (Ranked 81)
 | The Central Headquarters | 13.00% | ~311 |
 | Whispers in the Woods IV | 12.00% | ~288 |
 | Embrace the darkness | 11.00% | ~264 |
-| I smell fear | 10.00% | ~240 |
+| I smell fear | 11.00% | ~264 |
 | The end of the experiments | 10.00% | ~240 |
 | The Great City of Demacia | 10.00% | ~240 |
 | Back to sleep, then... | 10.00% | ~240 |

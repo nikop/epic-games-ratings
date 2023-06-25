@@ -32,7 +32,7 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~10 |
 | It was worth a shot | 1.00% | ~10 |
 | Cosmic Horror | 1.00% | ~10 |
-| Ghostbuster | 0.70% | ~7 |
+| Ghostbuster | 0.80% | ~8 |
 | Cheeki Breeki | 0.50% | ~5 |
 | Expert | 0.50% | ~5 |
 | Tourist Korallov | 0.50% | ~5 |

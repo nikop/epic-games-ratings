@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -676,6 +676,11 @@
       "Time": "2023-06-25T11:04:37.3027076+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T12:03:39.4144111+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -703,7 +708,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_defeat_players_100",
@@ -767,7 +772,7 @@
       "Name": "Keeping Busy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_headquarters_15",
@@ -789,9 +794,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -815,7 +820,7 @@
       "Name": "Lieutenant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -863,7 +868,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -871,7 +876,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -895,7 +900,7 @@
       "Name": "Stocking Up",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -911,7 +916,7 @@
       "Name": "On Target",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -990,14 +995,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-25T11:04:37.3027071+00:00",
+  "LastChanged_Achievements": "2023-06-25T12:03:39.4144107+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-25T11:01:33.9731598+00:00",
-  "LastUpdate_Achievements": "2023-06-25T11:04:37.3027317+00:00"
+  "LastUpdate_Ratings": "2023-06-25T12:00:12.4947463+00:00",
+  "LastUpdate_Achievements": "2023-06-25T12:03:39.4144441+00:00"
 }

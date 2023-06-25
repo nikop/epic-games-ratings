@@ -47,7 +47,7 @@
 | Your daily dose of Vitamin C. | 23.00% | ~20 |
 | I cant stand still! | 23.00% | ~20 |
 | Master Butcher | 19.00% | ~17 |
-| Slimy... yet satisfying | 17.00% | ~15 |
+| Slimy... yet satisfying | 18.00% | ~16 |
 | Just wing it! | 16.00% | ~14 |
 | Deal with it | 16.00% | ~14 |
 | Yeehaw!!! | 15.00% | ~13 |
@@ -67,11 +67,11 @@
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~4 |
+| Ancient Ruins of Empty Echoes | 3.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
 | Fifty Shades of Gruyere | 2.00% | ~2 |
-| Ancient Ruins of Empty Echoes | 2.00% | ~2 |
 | Ancient Ruins of Vitamin D Addition | 2.00% | ~2 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |

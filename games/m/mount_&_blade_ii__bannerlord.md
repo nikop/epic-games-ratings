@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,486 |
-| Landlord | 31.00% | ~16,780 |
-| Bannerlord | 21.00% | ~11,367 |
-| Horde breaker | 21.00% | ~11,367 |
-| Lawmaker | 21.00% | ~11,367 |
-| Trained | 21.00% | ~11,367 |
+| Lawbringer | 36.00% | ~19,487 |
+| Landlord | 31.00% | ~16,781 |
+| Bannerlord | 21.00% | ~11,368 |
+| Horde breaker | 21.00% | ~11,368 |
+| Lawmaker | 21.00% | ~11,368 |
+| Trained | 21.00% | ~11,368 |
 | The king is pleased | 17.00% | ~9,202 |
-| King Solomon | 16.00% | ~8,660 |
-| I can do it | 15.00% | ~8,119 |
+| King Solomon | 16.00% | ~8,661 |
+| I can do it | 15.00% | ~8,120 |
 | Apple of my eye | 14.00% | ~7,578 |
-| God of the Arena | 12.00% | ~6,495 |
+| God of the Arena | 12.00% | ~6,496 |
 | Against all odds | 10.00% | ~5,413 |
 | Duelist | 9.00% | ~4,872 |
 | Swordbearer | 9.00% | ~4,872 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,128 (Ranked 81)  
+Progressed: 54,131 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,18 +124,18 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 53,891 | 0 |
 | 2023-06-23 | 53,986 | 0 |
 | 2023-06-24 | 54,093 | 0 |
-| 2023-06-25 | 54,128 | 0 |
+| 2023-06-25 | 54,131 | 0 |
 ## Awards
-Max (Character Customization): 6,705  (Ranked 48)  
-Sum: 13,499 (Ranked 68)  
+Max (Character Customization): 6,712  (Ranked 48)  
+Sum: 13,507 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,705 |
+| This game has Inclusive Character Customization | 6,712 |
 | This game is Great for Beginners | 859 |
 | This game has Diverse Characters | 838 |
 | This game is Highly Recommended | 802 |
-| This game is Extremely Fun | 765 |
+| This game is Extremely Fun | 766 |
 | This game has Amazing Storytelling | 757 |
 | This game has Quickly Understood Controls | 743 |
 | This game is Relaxing | 741 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -20
 | 2023-06-22 | 4.74 | - | 6,700 | 13,469 |
 | 2023-06-23 | 4.74 | - | 6,700 | 13,479 |
 | 2023-06-24 | 4.75 | - | 6,705 | 13,498 |
-| 2023-06-25 | 4.74 | - | 6,705 | 13,499 |
+| 2023-06-25 | 4.74 | - | 6,712 | 13,507 |

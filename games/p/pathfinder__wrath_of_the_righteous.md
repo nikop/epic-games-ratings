@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 18.00% | ~1,810 |
+| Devoured by Darkness | 19.00% | ~1,910 |
 | Burning City | 13.00% | ~1,307 |
 | A Spark | 13.00% | ~1,307 |
 | Defender's Heart | 11.00% | ~1,106 |

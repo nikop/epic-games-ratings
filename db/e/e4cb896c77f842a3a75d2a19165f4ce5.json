@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.02,
+  "EOS_Completed_Percentage": 2.01,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -651,6 +651,11 @@
       "Time": "2023-06-25T11:04:16.4040879+00:00",
       "NumProgressed": 297,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-25T12:03:24.3446807+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -662,7 +667,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "LEVEL_003",
@@ -670,7 +675,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "LEVEL_004",
@@ -678,7 +683,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "LEVEL_006",
@@ -686,7 +691,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_012",
@@ -702,7 +707,7 @@
       "Name": "Temple",
       "Percentage": 17,
       "XP": 95,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_019",
@@ -749,14 +754,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-25T11:04:16.4040873+00:00",
+  "LastChanged_Achievements": "2023-06-25T12:03:24.3446804+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-25T10:57:23.3617385+00:00",
-  "LastUpdate_Achievements": "2023-06-25T11:04:16.4040986+00:00"
+  "LastUpdate_Ratings": "2023-06-25T11:57:10.1276059+00:00",
+  "LastUpdate_Achievements": "2023-06-25T12:03:24.3446941+00:00"
 }
