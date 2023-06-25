@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -478,7 +478,7 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 8745,
+  "EOS_Progressed": 8747,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 2,
@@ -5398,6 +5398,11 @@
       "Time": "2023-06-25T00:03:14.3537654+00:00",
       "NumProgressed": 8745,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-25T02:42:00.7071623+00:00",
+      "NumProgressed": 8747,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 34,
@@ -5489,7 +5494,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ACH12",
@@ -5513,7 +5518,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "ACH15",
@@ -5569,7 +5574,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "ACH22",
@@ -5593,7 +5598,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH25",
@@ -5601,7 +5606,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH26",
@@ -5609,7 +5614,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH27",
@@ -5680,7 +5685,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8745,
+      "Progressed": 8747,
       "Completed": 38
     }
   ],
@@ -5688,8 +5693,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-24T11:59:10.7610214+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:03:14.3537648+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:42:00.7071617+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.402576+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:58:09.9326+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:03:14.3538256+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:36:44.1890781+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:42:00.7072154+00:00"
 }

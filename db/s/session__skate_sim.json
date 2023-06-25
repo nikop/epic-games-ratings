@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2475,
+  "EOS_Progressed": 2477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2835,6 +2835,11 @@
       "Time": "2023-06-24T18:05:49.3551136+00:00",
       "NumProgressed": 2475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T02:44:25.3876894+00:00",
+      "NumProgressed": 2477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2918,7 +2923,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -3126,7 +3131,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3174,7 +3179,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -3214,7 +3219,7 @@
       "Name": "Welcome to the family",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3222,22 +3227,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2475,
+      "Progressed": 2477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-24T20:58:51.8795987+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:05:39.0244829+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:44:25.3876889+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.8726484+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:58:53.4473214+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:05:39.0245349+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:37:25.4261401+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:44:25.3877402+00:00"
 }

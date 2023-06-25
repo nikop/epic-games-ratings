@@ -8,9 +8,9 @@
 | Be water, my friend | 66.00% | ~199 |
 | Snake Eyes | 61.00% | ~184 |
 | Fireball | 53.00% | ~160 |
-| The King of Flat | 48.00% | ~144 |
+| The King of Flat | 49.00% | ~147 |
 | Air Slash | 40.00% | ~120 |
-| Hit That Ball | 38.00% | ~114 |
+| Hit That Ball | 39.00% | ~117 |
 | Eat That Apple | 28.00% | ~84 |
 | Tornado Chaser | 17.00% | ~51 |
 | Bomberman | 12.00% | ~36 |

@@ -9,7 +9,7 @@ Rating: 4.62 (Ranked 346)
 | Read Between The Lines | 62.00% | ~306 |
 | High Profile | 57.00% | ~281 |
 | Whispers In The Dark | 55.00% | ~271 |
-| Fond Memories | 52.00% | ~256 |
+| Fond Memories | 53.00% | ~261 |
 | A Method To His Madness | 51.00% | ~251 |
 | History Check | 50.00% | ~246 |
 | The New World | 47.00% | ~232 |
@@ -18,8 +18,8 @@ Rating: 4.62 (Ranked 346)
 | Sticky Fingers | 46.00% | ~227 |
 | Knives Out | 46.00% | ~227 |
 | Lock, Stock, And Barrel | 45.00% | ~222 |
+| Land, Ho! | 45.00% | ~222 |
 | Back In The Saddle | 44.00% | ~217 |
-| Land, Ho! | 44.00% | ~217 |
 | No Man Is An Island | 43.00% | ~212 |
 | At Wits' End | 41.00% | ~202 |
 | Fhtagn! | 40.00% | ~197 |

@@ -45,7 +45,7 @@
 | Corin Goes Home | 5.00% | ~36 |
 | Sartorialist | 5.00% | ~36 |
 | Entresol Explorer | 5.00% | ~36 |
-| Golem Hunter | 4.00% | ~29 |
+| Golem Hunter | 5.00% | ~36 |
 | Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |
 | Hexlock for Protection | 3.00% | ~22 |

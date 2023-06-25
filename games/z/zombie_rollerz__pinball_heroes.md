@@ -13,7 +13,7 @@
 | The Shaman | 50.00% | ~55 |
 | The Thrower | 48.00% | ~53 |
 | The Penguin | 47.00% | ~52 |
-| The Magician | 45.00% | ~50 |
+| The Magician | 46.00% | ~51 |
 | The Tunneler | 41.00% | ~45 |
 | Level Up!! | 39.00% | ~43 |
 | The Shield | 38.00% | ~42 |

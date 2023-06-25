@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -6449,18 +6449,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 41749,
       "NumberOfAwardsMax": 15615
+    },
+    {
+      "Time": "2023-06-25T02:36:00.454423+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 41777,
+      "NumberOfAwardsMax": 15630
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41749,
-  "NumberOfAwardsMax": 15615,
+  "NumberOfAwards": 41777,
+  "NumberOfAwardsMax": 15630,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 15615
+      "Count": 15630
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6472,13 +6478,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3272
+      "Count": 3279
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3302
+      "Count": 3308
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6534,8 +6540,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-06-24T18:58:07.6537165+00:00",
+  "LastChanged": "2023-06-25T02:36:00.4544229+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:22.465506+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:57:25.5855431+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:03:24.619618+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:36:00.4544234+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:42:10.8434767+00:00"
 }

@@ -20,11 +20,11 @@
 | Grand Escape | 7.00% | ~3 |
 | Space Warrior: Prologue | 7.00% | ~3 |
 | Keep it Up, rookie! | 7.00% | ~3 |
+| Air Interception | 7.00% | ~3 |
 | Decapitation Strike | 7.00% | ~3 |
 | The Abyss Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
 | Antaeus | 4.00% | ~2 |
-| Air Interception | 4.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |
 | The Fortress Conqueror | 2.00% | ~1 |

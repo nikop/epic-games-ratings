@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1762,9 +1762,9 @@
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "ScrambotProgress1",
@@ -1889,8 +1889,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:05:24.2476365+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:44:11.7385966+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:59:09.215521+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:05:24.2476948+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:37:42.0336871+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:44:11.738653+00:00"
 }

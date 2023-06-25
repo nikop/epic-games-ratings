@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~44 |
-| Brute force | 84.00% | ~42 |
-| Nimble fingers | 76.00% | ~38 |
-| Room 104 | 76.00% | ~38 |
-| Let's play a game… | 74.00% | ~37 |
-| Face to face | 74.00% | ~37 |
-| Now or never | 72.00% | ~36 |
-| First aid | 62.00% | ~31 |
-| Soundtrack | 56.00% | ~28 |
-| Antidote | 46.00% | ~23 |
-| Pick the right door | 26.00% | ~13 |
-| One-way | 20.00% | ~10 |
-| The third floor | 20.00% | ~10 |
-| On the right path | 18.00% | ~9 |
-| It can't be true | 18.00% | ~9 |
-| I'm close now | 16.00% | ~8 |
-| Failed attempt | 16.00% | ~8 |
-| The real escape | 16.00% | ~8 |
-| Nightmare in the kitchen | 16.00% | ~8 |
-| Good choice | 16.00% | ~8 |
-| Take the long way round | 16.00% | ~8 |
+| What's going on here? | 87.00% | ~45 |
+| Brute force | 83.00% | ~43 |
+| Nimble fingers | 75.00% | ~39 |
+| Room 104 | 75.00% | ~39 |
+| Let's play a game… | 73.00% | ~38 |
+| Face to face | 73.00% | ~38 |
+| Now or never | 71.00% | ~37 |
+| First aid | 62.00% | ~32 |
+| Soundtrack | 54.00% | ~28 |
+| Antidote | 46.00% | ~24 |
+| Pick the right door | 25.00% | ~13 |
+| One-way | 19.00% | ~10 |
+| The third floor | 19.00% | ~10 |
+| On the right path | 17.00% | ~9 |
+| It can't be true | 17.00% | ~9 |
+| I'm close now | 15.00% | ~8 |
+| Failed attempt | 15.00% | ~8 |
+| The real escape | 15.00% | ~8 |
+| Nightmare in the kitchen | 15.00% | ~8 |
+| Good choice | 15.00% | ~8 |
+| Take the long way round | 15.00% | ~8 |
 | Born again | 12.00% | ~6 |
 | 373 | 10.00% | ~5 |
 | He who seeks, finds! | 10.00% | ~5 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 327)  
+Progressed: 52 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-17 | 34 | 0 |
 | 2023-06-23 | 38 | 0 |
 | 2023-06-24 | 50 | 0 |
+| 2023-06-25 | 52 | 0 |

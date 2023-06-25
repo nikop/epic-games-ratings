@@ -4830,9 +4830,9 @@
       "Count": 358
     }
   ],
-  "EOS_Progressed": 710078,
+  "EOS_Progressed": 710085,
   "EOS_Completed": 12790,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11095,6 +11095,11 @@
       "Time": "2023-06-25T00:05:44.73818+00:00",
       "NumProgressed": 710078,
       "NumCompleted": 12790
+    },
+    {
+      "Time": "2023-06-25T02:44:31.0574145+00:00",
+      "NumProgressed": 710085,
+      "NumCompleted": 12790
     }
   ],
   "TotalAchievements": 50,
@@ -11154,7 +11159,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "08_Wude_H2",
@@ -11162,7 +11167,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "09_Wude_H3",
@@ -11170,7 +11175,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "10_Wude_H4",
@@ -11218,7 +11223,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "16_Detective_H2",
@@ -11505,21 +11510,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19379,
+      "Progressed": 19386,
       "Completed": 10317
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710078,
+      "Progressed": 710085,
       "Completed": 12790
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-24T19:58:54.9992547+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:05:44.7381796+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:44:31.0574139+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:58:49.8416467+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:05:44.7382632+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:37:22.0311142+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:44:31.0574943+00:00"
 }

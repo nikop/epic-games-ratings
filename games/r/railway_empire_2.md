@@ -30,15 +30,15 @@ Rating: 4.31 (Ranked 766)
 | All mine | 28.00% | ~379 |
 | Mole | 28.00% | ~379 |
 | Financial Shark | 28.00% | ~379 |
+| Country Life | 26.00% | ~352 |
 | Socializer | 26.00% | ~352 |
-| Country Life | 25.00% | ~338 |
 | General Manager | 24.00% | ~325 |
 | Hostile Takeover | 24.00% | ~325 |
 | Seven at one stroke | 23.00% | ~311 |
 | Trailblazer | 19.00% | ~257 |
 | Breaking Ground | 19.00% | ~257 |
+| Traffic Junction | 18.00% | ~244 |
 | Traffic Jam | 17.00% | ~230 |
-| Traffic Junction | 17.00% | ~230 |
 | Assimilated | 16.00% | ~216 |
 | Locusts | 16.00% | ~216 |
 | Resistance is futile | 15.00% | ~203 |
@@ -55,7 +55,7 @@ Rating: 4.31 (Ranked 766)
 | Let off some steam | 3.00% | ~41 |
 | Call of Duty | 3.00% | ~41 |
 | Engineer | 2.00% | ~27 |
-| Accurate | 1.00% | ~14 |
+| Accurate | 2.00% | ~27 |
 | Together we stand | 0.50% | ~7 |
 | European Union | 0.40% | ~5 |
 | Three Cheers for Progress | 0.10% | ~1 |

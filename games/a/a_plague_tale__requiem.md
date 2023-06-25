@@ -1,7 +1,7 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 155)  
+Rating: 4.73 (Ranked 156)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.73 (Ranked 155)
 | Leaving all Behind | 63.00% | ~7,450 |
 | Felons | 61.00% | ~7,213 |
 | A Sea of Promises | 59.00% | ~6,977 |
-| Tales and Revelations | 55.00% | ~6,504 |
+| Tales and Revelations | 56.00% | ~6,622 |
 | Bloodline | 51.00% | ~6,031 |
 | The Cradle of Centuries | 47.00% | ~5,558 |
 | The Life We Deserve | 44.00% | ~5,203 |

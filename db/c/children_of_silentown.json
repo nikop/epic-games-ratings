@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
@@ -183,6 +183,11 @@
       "Time": "2023-06-20T02:11:30.9335792+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T02:44:28.2313539+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -200,9 +205,9 @@
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "Cellar",
@@ -218,7 +223,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Doll",
@@ -226,7 +231,7 @@
       "Name": "Doll",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Ending1",
@@ -248,9 +253,9 @@
       "ID": "Ending3",
       "SetID": "9kk0gal",
       "Name": "Forest Howl",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Ending4",
@@ -266,7 +271,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Friend",
@@ -280,9 +285,9 @@
       "ID": "FriendDoor",
       "SetID": "9kk0gal",
       "Name": "Complicated padlock",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "Furball",
@@ -298,7 +303,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "HugeSnail",
@@ -306,15 +311,15 @@
       "Name": "Huge Snail",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "Offroad",
@@ -330,7 +335,7 @@
       "Name": "Puppy",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "SchoolRuler",
@@ -338,15 +343,15 @@
       "Name": "Big metal ruler",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Secret",
       "SetID": "9kk0gal",
       "Name": "Old kettle",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Spyglass",
@@ -362,7 +367,7 @@
       "Name": "Broken toy",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Trinket",
@@ -370,7 +375,7 @@
       "Name": "Lucky charm",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Trumpet",
@@ -378,15 +383,15 @@
       "Name": "Trumpet",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "Windmill",
@@ -394,14 +399,14 @@
       "Name": "Windmill",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
@@ -409,8 +414,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:05:41.9166595+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:44:28.2313531+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-24T23:59:43.1638531+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:05:41.916684+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:38:18.5021433+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:44:28.2313731+00:00"
 }

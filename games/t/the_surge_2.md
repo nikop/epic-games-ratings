@@ -44,11 +44,11 @@ Rating: 4.24 (Ranked 807)
 | Reverse Engineering | 7.00% | ~127 |
 | Remote Surgery | 6.00% | ~109 |
 | Turbo Booster | 6.00% | ~109 |
+| Juiced Up | 6.00% | ~109 |
 | Squid Pro Quo | 6.00% | ~109 |
 | Reborn | 5.00% | ~91 |
 | Counter-Sniper | 5.00% | ~91 |
 | Shrimp Cocktail | 5.00% | ~91 |
-| Juiced Up | 5.00% | ~91 |
 | Hello Darkness My Old Friend | 4.00% | ~73 |
 | Geronimo! | 4.00% | ~73 |
 | Homewrecker | 4.00% | ~73 |

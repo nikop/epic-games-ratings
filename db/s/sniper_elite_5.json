@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -362,7 +362,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3119,
+  "EOS_Progressed": 3120,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -4312,6 +4312,11 @@
       "Time": "2023-06-25T00:05:44.9565421+00:00",
       "NumProgressed": 3119,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-25T02:44:31.2022599+00:00",
+      "NumProgressed": 3120,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4321,9 +4326,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -4361,9 +4366,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -4441,9 +4446,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -4473,9 +4478,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4585,9 +4590,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -4890,13 +4895,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3070,
+      "Progressed": 3071,
       "Completed": 5
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3119,
+      "Progressed": 3120,
       "Completed": 2
     }
   ],
@@ -4904,8 +4909,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-25T00:05:44.9565416+00:00",
+  "LastChanged_Achievements": "2023-06-25T02:44:31.2022594+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-25T00:00:03.8631595+00:00",
-  "LastUpdate_Achievements": "2023-06-25T00:05:44.9566371+00:00"
+  "LastUpdate_Ratings": "2023-06-25T02:38:39.3772714+00:00",
+  "LastUpdate_Achievements": "2023-06-25T02:44:31.2023443+00:00"
 }
