@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What's going on here? | 86.00% | ~57 |
-| Brute force | 79.00% | ~52 |
+| Brute force | 80.00% | ~53 |
 | Nimble fingers | 76.00% | ~50 |
 | Room 104 | 74.00% | ~49 |
 | Face to face | 73.00% | ~48 |

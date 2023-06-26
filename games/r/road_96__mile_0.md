@@ -12,8 +12,8 @@
 | This is Not Heavy Metal! | 18.00% | ~57 |
 | Truthseeker | 15.00% | ~48 |
 | 86's Nightmare | 10.00% | ~32 |
+| Freedom | 9.00% | ~29 |
 | Partners in Crime | 9.00% | ~29 |
-| Freedom | 8.00% | ~26 |
 | The Eye of the Storm | 8.00% | ~26 |
 | Friendzone | 8.00% | ~26 |
 | Attack on Tyran | 7.00% | ~22 |

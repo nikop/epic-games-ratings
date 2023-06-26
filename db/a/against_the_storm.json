@@ -2422,7 +2422,7 @@
   ],
   "EOS_Progressed": 15485,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6357,9 +6357,9 @@
       "ID": "WinWithBlight",
       "SetID": "cfbk359",
       "Name": "Blood Flower Farmer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 93
     },
     {
       "ID": "WinWithEvents",
@@ -6437,8 +6437,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-25T19:01:32.0484131+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:52.9789326+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:07:22.4477137+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:01:28.2693801+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:52.9789995+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:01:14.4915048+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:07:22.4478049+00:00"
 }

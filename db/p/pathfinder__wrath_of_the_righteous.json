@@ -7475,9 +7475,9 @@
       "ID": "18_MythicChoices",
       "SetID": "989of5o",
       "Name": "Mythic Choices",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1107
     },
     {
       "ID": "19_EqualToAroden",
@@ -8281,8 +8281,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-25T17:58:21.8860933+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:57.9948585+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:07:27.5220339+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-26T08:59:24.5423998+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:57.9950428+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:59:03.6398975+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:07:27.5223828+00:00"
 }

@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122274,
+  "EOS_Progressed": 122277,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7631,6 +7631,11 @@
       "Time": "2023-06-26T08:07:03.738562+00:00",
       "NumProgressed": 122274,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-26T10:07:16.8875426+00:00",
+      "NumProgressed": 122277,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7674,7 +7679,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22009
+      "UsersEstimate": 22010
     },
     {
       "ID": "ACH_COP_BAD",
@@ -7682,7 +7687,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "ACH_COP_BORING",
@@ -7722,7 +7727,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34237
+      "UsersEstimate": 34238
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7762,7 +7767,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -7778,7 +7783,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18341
+      "UsersEstimate": 18342
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -7794,7 +7799,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "ACH_DOLORES",
@@ -7834,7 +7839,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7336
+      "UsersEstimate": 7337
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -7858,7 +7863,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17118
+      "UsersEstimate": 17119
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -7930,7 +7935,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -7961,15 +7966,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122274,
+      "Progressed": 122277,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:47.6886676+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:07:16.8875418+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:00:21.6269832+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:47.6887659+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:00:06.0150039+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:07:16.8876394+00:00"
 }

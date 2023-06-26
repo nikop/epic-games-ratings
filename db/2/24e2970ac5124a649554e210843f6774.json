@@ -4,7 +4,7 @@
   "ProductSlug": "rift-rangers-b3b5fa",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
@@ -451,9 +451,9 @@
       "ID": "weapon_master_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Piercing Bow",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "weapon_master_rangershot",
@@ -499,9 +499,9 @@
       "ID": "weapon_master_ultrasaw",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ultra Saw",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "weapon_master_voidbeam",
@@ -521,8 +521,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:04:50.2894972+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:04:21.049536+00:00",
   "LastUpdate_AppInfo": "2023-06-20T14:57:44.0839125+00:00",
-  "LastUpdate_Ratings": "2023-06-26T08:57:29.6990476+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:04:50.289547+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:57:07.6649157+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:04:21.0495833+00:00"
 }

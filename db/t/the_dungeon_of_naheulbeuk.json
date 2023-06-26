@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1163,6 +1163,11 @@
       "Time": "2023-06-26T03:32:36.9409942+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T10:06:43.0440613+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1172,9 +1177,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "100Fail",
@@ -1222,7 +1227,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Chapter2",
@@ -1244,9 +1249,9 @@
       "ID": "Chapter4",
       "SetID": "50chcgj",
       "Name": "The demons\u0027 feast",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "Chapter5",
@@ -1262,7 +1267,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Chapter7",
@@ -1342,7 +1347,7 @@
       "Name": "The Blood Countess",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DLC1SummonTroll",
@@ -1590,7 +1595,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "DwarfInsultWin",
@@ -1606,7 +1611,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ElfEpic",
@@ -1614,7 +1619,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -1636,9 +1641,9 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "EndCombatOneHp",
@@ -1646,7 +1651,7 @@
       "Name": "DM intervention",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "EndGameCursed",
@@ -1670,7 +1675,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "FollowBraztok",
@@ -1694,7 +1699,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KillDungeonLich",
@@ -1798,7 +1803,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Rogue30Backstab",
@@ -1822,15 +1827,15 @@
       "Name": "Speedrun",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "SystematicallyStupid",
@@ -1854,7 +1859,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WizardEpic",
@@ -1870,28 +1875,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:12.9785588+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:06:43.0440608+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:00:15.229929+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:12.978674+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:59:59.4359283+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:06:43.0441877+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "backbeat-e59d86",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-22T12:00:00+00:00",
@@ -230,8 +230,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:43.9354733+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:35.084951+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:07:04.8718839+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:55.0435048+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:01:13.4976569+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:35.0849682+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:00:58.5682046+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:07:04.8719081+00:00"
 }

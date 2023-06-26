@@ -44,7 +44,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 0.80% | ~124 |
 | Efficient Explorer | 0.60% | ~93 |
 | Prestigious Expedition | 0.60% | ~93 |
-| Blood Flower Farmer | 0.50% | ~77 |
+| Blood Flower Farmer | 0.60% | ~93 |
 | Victory through Prosperity | 0.50% | ~77 |
 | Feeding The People | 0.40% | ~62 |
 | Human Utopia | 0.40% | ~62 |

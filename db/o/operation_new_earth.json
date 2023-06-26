@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -849,9 +849,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1056,8 +1056,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:04:51.6397277+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:04:22.3440977+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:02:00.7022686+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:04:51.6397648+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:01:48.1806056+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:04:22.3441312+00:00"
 }

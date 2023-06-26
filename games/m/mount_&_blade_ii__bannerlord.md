@@ -6,24 +6,24 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,518 |
-| Landlord | 31.00% | ~16,807 |
-| Bannerlord | 21.00% | ~11,385 |
-| Horde breaker | 21.00% | ~11,385 |
-| Lawmaker | 21.00% | ~11,385 |
-| Trained | 21.00% | ~11,385 |
+| Lawbringer | 36.00% | ~19,519 |
+| Landlord | 31.00% | ~16,808 |
+| Bannerlord | 21.00% | ~11,386 |
+| Horde breaker | 21.00% | ~11,386 |
+| Lawmaker | 21.00% | ~11,386 |
+| Trained | 21.00% | ~11,386 |
 | The king is pleased | 17.00% | ~9,217 |
 | King Solomon | 16.00% | ~8,675 |
-| I can do it | 15.00% | ~8,132 |
-| Apple of my eye | 14.00% | ~7,590 |
+| I can do it | 15.00% | ~8,133 |
+| Apple of my eye | 14.00% | ~7,591 |
 | God of the Arena | 12.00% | ~6,506 |
 | Against all odds | 10.00% | ~5,422 |
 | Swordbearer | 10.00% | ~5,422 |
-| Duelist | 9.00% | ~4,879 |
-| Dynasty | 8.00% | ~4,337 |
-| I spit on your grave | 8.00% | ~4,337 |
-| This Is Our Land | 8.00% | ~4,337 |
-| What have the Romans ever done for us? | 8.00% | ~4,337 |
+| Duelist | 9.00% | ~4,880 |
+| Dynasty | 8.00% | ~4,338 |
+| I spit on your grave | 8.00% | ~4,338 |
+| This Is Our Land | 8.00% | ~4,338 |
+| What have the Romans ever done for us? | 8.00% | ~4,338 |
 | Butterlord | 7.00% | ~3,795 |
 | Mastery | 7.00% | ~3,795 |
 | Know your enemy | 6.00% | ~3,253 |
@@ -31,7 +31,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crush your enemies | 4.00% | ~2,169 |
 | My way | 4.00% | ~2,169 |
 | Veni vidi vici | 4.00% | ~2,169 |
-| Freedom! | 3.00% | ~1,626 |
+| Freedom! | 3.00% | ~1,627 |
 | Entrepreneur | 2.00% | ~1,084 |
 | Long live the Empire! | 2.00% | ~1,084 |
 | Real Estate | 2.00% | ~1,084 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,216 (Ranked 81)  
+Progressed: 54,220 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 53,986 | 0 |
 | 2023-06-24 | 54,093 | 0 |
 | 2023-06-25 | 54,188 | 0 |
-| 2023-06-26 | 54,216 | 0 |
+| 2023-06-26 | 54,220 | 0 |
 ## Awards
 Max (Character Customization): 6,712  (Ranked 48)  
 Sum: 13,514 (Ranked 68)  

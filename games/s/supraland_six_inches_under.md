@@ -33,12 +33,12 @@ Number of Ratings: 209  (23.09.2022)
 | Don't draw dicks pls | 84.00% | ~1,782 |
 | Ripped | 84.00% | ~1,782 |
 | Beat the big arena | 82.00% | ~1,740 |
-| Force Cube | 81.00% | ~1,719 |
+| Force Cube | 82.00% | ~1,740 |
 | Got Battery | 80.00% | ~1,698 |
 | Guard Distracted | 80.00% | ~1,698 |
 | Translocator | 79.00% | ~1,676 |
 | Inner Peace | 77.00% | ~1,634 |
-| Diamond Pickaxe | 76.00% | ~1,613 |
+| Diamond Pickaxe | 77.00% | ~1,634 |
 | Killed them all | 76.00% | ~1,613 |
 | Trickle Down Economy | 76.00% | ~1,613 |
 | Win | 75.00% | ~1,592 |

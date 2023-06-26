@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1216,9 +1216,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "achWorms",
@@ -1241,8 +1241,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-06-26T09:07:55.2144362+00:00",
+  "LastChanged_Achievements": "2023-06-26T10:07:24.7213814+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:30.8694908+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:01:49.2868356+00:00",
-  "LastUpdate_Achievements": "2023-06-26T09:07:55.2144907+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:01:37.0429405+00:00",
+  "LastUpdate_Achievements": "2023-06-26T10:07:24.7214308+00:00"
 }
