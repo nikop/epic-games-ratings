@@ -20,13 +20,13 @@ Rating: 4.47 (Ranked 593)
 | Gunslinger | 1.00% | ~31 |
 | Skirmisher | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
+| Set Europe Ablaze | 1.00% | ~31 |
 | Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | Snake in the Grass | 1.00% | ~31 |
 | The Kraken Sleeps | 1.00% | ~31 |
-| Set Europe Ablaze | 0.90% | ~28 |
 | Brains of the Operation | 0.90% | ~28 |
 | Climbing the Ladder | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,133 (Ranked 144)  
+Progressed: 3,134 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
+| 2023-06-26 | 3,134 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

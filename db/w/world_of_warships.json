@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
@@ -5848,10 +5848,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 10229,
       "NumberOfAwardsMax": 1152
+    },
+    {
+      "Time": "2023-06-25T23:59:45.9002605+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10230,
+      "NumberOfAwardsMax": 1152
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10229,
+  "NumberOfAwards": 10230,
   "NumberOfAwardsMax": 1152,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5907,7 +5913,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 832
+      "Count": 833
     },
     {
       "Text": "This game is Relaxing",
@@ -5927,8 +5933,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-06-25T21:58:48.2965033+00:00",
+  "LastChanged": "2023-06-25T23:59:45.9002603+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:43.5502046+00:00",
-  "LastUpdate_Ratings": "2023-06-25T23:00:06.9000177+00:00",
-  "LastUpdate_Achievements": "2023-06-25T23:04:29.1131512+00:00"
+  "LastUpdate_Ratings": "2023-06-25T23:59:45.9002609+00:00",
+  "LastUpdate_Achievements": "2023-06-26T00:04:16.7321308+00:00"
 }

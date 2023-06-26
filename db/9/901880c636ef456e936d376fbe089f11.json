@@ -395,9 +395,9 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 88,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-25T23:04:58.1451821+00:00",
+  "LastChanged_Achievements": "2023-06-26T00:04:45.0281134+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-25T22:57:37.4284283+00:00",
-  "LastUpdate_Achievements": "2023-06-25T23:04:58.1452269+00:00"
+  "LastUpdate_Ratings": "2023-06-25T23:57:20.2574599+00:00",
+  "LastUpdate_Achievements": "2023-06-26T00:04:45.028158+00:00"
 }

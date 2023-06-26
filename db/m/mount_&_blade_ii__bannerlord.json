@@ -5103,9 +5103,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54188,
+  "EOS_Progressed": 54189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11908,6 +11908,11 @@
       "Time": "2023-06-25T23:07:55.8706223+00:00",
       "NumProgressed": 54188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T00:07:43.8600969+00:00",
+      "NumProgressed": 54189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -11935,7 +11940,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11379
+      "UsersEstimate": 11380
     },
     {
       "ID": "Best served cold",
@@ -12079,7 +12084,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11379
+      "UsersEstimate": 11380
     },
     {
       "ID": "I can do it",
@@ -12143,7 +12148,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16798
+      "UsersEstimate": 16799
     },
     {
       "ID": "Lawbringer",
@@ -12159,7 +12164,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11379
+      "UsersEstimate": 11380
     },
     {
       "ID": "Long live the Empire",
@@ -12295,7 +12300,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11379
+      "UsersEstimate": 11380
     },
     {
       "ID": "Undercover",
@@ -12326,15 +12331,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54188,
+      "Progressed": 54189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-25T19:59:27.7707233+00:00",
-  "LastChanged_Achievements": "2023-06-25T23:07:55.8706217+00:00",
+  "LastChanged_Achievements": "2023-06-26T00:07:43.8600964+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-25T23:01:15.1705885+00:00",
-  "LastUpdate_Achievements": "2023-06-25T23:07:55.8707374+00:00"
+  "LastUpdate_Ratings": "2023-06-26T00:00:51.8403292+00:00",
+  "LastUpdate_Achievements": "2023-06-26T00:07:43.8601718+00:00"
 }

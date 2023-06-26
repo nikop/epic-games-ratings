@@ -5,9 +5,9 @@ Rating: 4.28 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~5,499 |
-| A Good Day To Die | 16.00% | ~4,399 |
-| Right Back Atcha | 6.00% | ~1,650 |
+| Man 'O War | 20.00% | ~5,502 |
+| A Good Day To Die | 16.00% | ~4,401 |
+| Right Back Atcha | 6.00% | ~1,651 |
 | Killed by Death | 5.00% | ~1,375 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,375 |
 | Kill 'Em All | 4.00% | ~1,100 |
@@ -18,24 +18,24 @@ Rating: 4.28 (Ranked 787)
 | Sure Footed As A Goat | 0.80% | ~220 |
 | Backdoor Man | 0.80% | ~220 |
 | Schadenfreude | 0.80% | ~220 |
-| Red In Tooth And Claw | 0.70% | ~192 |
-| Death Becomes Her | 0.70% | ~192 |
-| The Sky Is Falling | 0.70% | ~192 |
-| That'll Come In Handy... | 0.70% | ~192 |
+| Red In Tooth And Claw | 0.70% | ~193 |
+| Death Becomes Her | 0.70% | ~193 |
+| The Sky Is Falling | 0.70% | ~193 |
+| That'll Come In Handy... | 0.70% | ~193 |
 | Start As You Mean To Go On | 0.60% | ~165 |
 | Hail the Great Horned Metal God! | 0.60% | ~165 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~137 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~138 |
 | Four Legged Friend | 0.40% | ~110 |
 | Ice To See You | 0.40% | ~110 |
 | Smack My Imp Up | 0.40% | ~110 |
-| Vroll With It | 0.30% | ~82 |
-| Swift of Foot, Keen of Blade | 0.30% | ~82 |
+| Vroll With It | 0.30% | ~83 |
+| Swift of Foot, Keen of Blade | 0.30% | ~83 |
 | Flame Retardant | 0.20% | ~55 |
 | Death or Glory | 0.20% | ~55 |
-| Too Metal For Magic | 0.10% | ~27 |
-| Heart Of Steel | 0.10% | ~27 |
+| Too Metal For Magic | 0.10% | ~28 |
+| Heart Of Steel | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,496 (Ranked 94)  
+Progressed: 27,509 (Ranked 94)  
 Completed: 20 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 20 (0.07%) (Ranked 187)
 | 2023-06-23 | 27,124 | 20 |
 | 2023-06-24 | 27,303 | 20 |
 | 2023-06-25 | 27,496 | 20 |
+| 2023-06-26 | 27,509 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 305)  
 Sum: 125 (Ranked 396)  
