@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.04% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
-| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
+| 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.97% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
@@ -49,7 +49,7 @@
 | 47 | [JARS](games/j/jars.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
-| 50 | [The Complex](games/t/the_complex.md) | 3.15% |
+| 50 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.09% |
@@ -92,7 +92,7 @@
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
 | 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
-| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.17% |
+| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.16% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.15% |
 | 95 | [Trifox](games/t/trifox.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
