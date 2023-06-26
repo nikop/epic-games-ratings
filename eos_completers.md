@@ -3,8 +3,8 @@
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.51% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 5 | [Volley Pals](games/v/volley_pals.md) | 24.00% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.63% |
@@ -92,7 +92,7 @@
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
 | 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
-| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.16% |
+| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.15% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 95 | [Trifox](games/t/trifox.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
@@ -102,7 +102,7 @@
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 105 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -134,8 +134,8 @@
 | 132 | [Tchia](games/t/tchia.md) | 0.38% |
 | 133 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
+| 135 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 135 | [Scrapnaut](games/s/scrapnaut.md) | 0.35% |
-| 136 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 137 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 137 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 139 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
