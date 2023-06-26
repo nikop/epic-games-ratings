@@ -56,13 +56,13 @@ Number of Ratings: 87  (23.09.2022)
 | Innovator | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
+| Atomic Age | 0.90% | ~1 |
+| Vostok | 0.90% | ~1 |
 | Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |
-| Atomic Age | 0.80% | ~1 |
 | Digital Age | 0.80% | ~1 |
 | Information Age | 0.80% | ~1 |
 | Metro builder | 0.80% | ~6 |
-| Vostok | 0.80% | ~1 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |

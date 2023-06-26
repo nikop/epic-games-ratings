@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 89.00% | ~32 |
-| Welcome to the Rumbly Lands! | 89.00% | ~32 |
-| Time to Bash Some Heads! | 81.00% | ~29 |
-| Shiny! | 69.00% | ~25 |
-| Deep in the Mounds | 67.00% | ~24 |
-| Smeltastic! | 36.00% | ~13 |
-| Locked Away | 33.00% | ~12 |
-| A Little Renovating | 31.00% | ~11 |
-| Deflect This! | 28.00% | ~10 |
-| It's a Sign! | 25.00% | ~9 |
+| What took you so long? | 86.00% | ~32 |
+| Welcome to the Rumbly Lands! | 86.00% | ~32 |
+| Time to Bash Some Heads! | 78.00% | ~29 |
+| Shiny! | 68.00% | ~25 |
+| Deep in the Mounds | 65.00% | ~24 |
+| Smeltastic! | 35.00% | ~13 |
+| Locked Away | 32.00% | ~12 |
+| A Little Renovating | 30.00% | ~11 |
+| Deflect This! | 27.00% | ~10 |
+| It's a Sign! | 24.00% | ~9 |
 | Just Some Improvements | 22.00% | ~8 |
 | A Little Extra Love | 19.00% | ~7 |
 | A New Strategy | 19.00% | ~7 |
-| Isn't It Beautiful? | 17.00% | ~6 |
-| A Generous Leader | 17.00% | ~6 |
-| Final Announcement | 17.00% | ~6 |
+| Isn't It Beautiful? | 16.00% | ~6 |
+| A Generous Leader | 16.00% | ~6 |
+| Final Announcement | 16.00% | ~6 |
 | My Precious Gems! | 14.00% | ~5 |
 | Orcharion Boost | 14.00% | ~5 |
 | Case Closed | 14.00% | ~5 |
@@ -56,8 +56,8 @@
 | In Her Prime | 8.00% | ~3 |
 | The More the Merrier | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 347)  
-Completed: 3 (8.33%) (Ranked 24)  
+Progressed: 37 (Ranked 346)  
+Completed: 3 (8.11%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 3 (8.33%) (Ranked 24)
 | 2023-05-29 | 34 | 3 |
 | 2023-06-03 | 35 | 3 |
 | 2023-06-09 | 36 | 3 |
+| 2023-06-26 | 37 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

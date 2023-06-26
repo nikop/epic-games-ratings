@@ -6,27 +6,27 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 88.00% | ~61 |
 | Brute force | 83.00% | ~57 |
-| Nimble fingers | 74.00% | ~51 |
-| Room 104 | 72.00% | ~50 |
-| Face to face | 71.00% | ~49 |
-| Let's play a game… | 70.00% | ~48 |
-| Now or never | 70.00% | ~48 |
-| First aid | 58.00% | ~40 |
+| Nimble fingers | 75.00% | ~52 |
+| Room 104 | 74.00% | ~51 |
+| Face to face | 72.00% | ~50 |
+| Let's play a game… | 71.00% | ~49 |
+| Now or never | 71.00% | ~49 |
+| First aid | 59.00% | ~41 |
 | Soundtrack | 58.00% | ~40 |
 | Antidote | 45.00% | ~31 |
-| Pick the right door | 22.00% | ~15 |
-| The third floor | 16.00% | ~11 |
-| One-way | 14.00% | ~10 |
-| On the right path | 13.00% | ~9 |
+| Pick the right door | 23.00% | ~16 |
+| The third floor | 17.00% | ~12 |
+| One-way | 16.00% | ~11 |
+| On the right path | 14.00% | ~10 |
+| I'm close now | 13.00% | ~9 |
+| Failed attempt | 13.00% | ~9 |
+| Good choice | 13.00% | ~9 |
 | It can't be true | 13.00% | ~9 |
-| I'm close now | 12.00% | ~8 |
-| Failed attempt | 12.00% | ~8 |
+| Take the long way round | 13.00% | ~9 |
 | The real escape | 12.00% | ~8 |
 | Nightmare in the kitchen | 12.00% | ~8 |
-| Good choice | 12.00% | ~8 |
-| Take the long way round | 12.00% | ~8 |
+| He who seeks, finds! | 10.00% | ~7 |
 | Born again | 9.00% | ~6 |
-| He who seeks, finds! | 9.00% | ~6 |
 | 373 | 7.00% | ~5 |
 | The experiment | 6.00% | ~4 |
 | Matthew's revenge | 6.00% | ~4 |

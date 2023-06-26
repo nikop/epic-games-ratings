@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -910,6 +910,11 @@
       "Time": "2023-06-26T16:03:18.0380918+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-26T17:03:06.5011652+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -993,7 +998,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1039,9 +1044,9 @@
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_kill1000Morthagi",
@@ -1097,7 +1102,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_mythwalker",
@@ -1113,7 +1118,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1193,7 +1198,7 @@
       "Name": "Daybreak",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1368,15 +1373,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-26T16:03:18.0380913+00:00",
+  "LastChanged_Achievements": "2023-06-26T17:03:06.5011644+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:01:23.8566726+00:00",
-  "LastUpdate_Achievements": "2023-06-26T16:03:18.0381445+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:00:29.6681529+00:00",
+  "LastUpdate_Achievements": "2023-06-26T17:03:06.5012089+00:00"
 }

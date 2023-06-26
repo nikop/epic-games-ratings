@@ -6,6 +6,7 @@ Rating: 4.47 (Ranked 593)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 2.00% | ~63 |
+| Sharpshooter | 2.00% | ~63 |
 | Confirming Suspicions | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
 | Lord of War | 2.00% | ~63 |
@@ -21,7 +22,6 @@ Rating: 4.47 (Ranked 593)
 | Organ Grinder | 1.00% | ~31 |
 | Gunslinger | 1.00% | ~31 |
 | Skirmisher | 1.00% | ~31 |
-| Sharpshooter | 1.00% | ~31 |
 | Set Europe Ablaze | 1.00% | ~31 |
 | Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
@@ -58,7 +58,9 @@ Rating: 4.47 (Ranked 593)
 | Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
+| Best of the Best | 0.20% | ~6 |
 | Master of Pistols | 0.20% | ~6 |
+| Master of Secondaries | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
@@ -71,13 +73,11 @@ Rating: 4.47 (Ranked 593)
 | Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
-| Best of the Best | 0.10% | ~3 |
-| Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,143 (Ranked 144)  
+Progressed: 3,144 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 3 (0.10%) (Ranked 174)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
-| 2023-06-26 | 3,143 | 3 |
+| 2023-06-26 | 3,144 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

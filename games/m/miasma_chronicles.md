@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.35 (Ranked 734)  
+Rating: 4.34 (Ranked 742)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.35 (Ranked 734)
 | Croaked | 46.00% | ~548 |
 | Limp Richard | 45.00% | ~536 |
 | From Darkness to Light | 45.00% | ~536 |
+| Editor Adept | 44.00% | ~524 |
 | Exorcist | 44.00% | ~524 |
-| Editor Adept | 43.00% | ~512 |
 | Firestarter | 41.00% | ~488 |
 | Giant Killer | 41.00% | ~488 |
 | Sensei | 39.00% | ~464 |
@@ -118,3 +118,4 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-19 | 4.33 | 0 | 0 |
 | 2023-06-22 | 4.34 | 0 | 0 |
 | 2023-06-24 | 4.35 | 0 | 0 |
+| 2023-06-26 | 4.34 | 0 | 0 |

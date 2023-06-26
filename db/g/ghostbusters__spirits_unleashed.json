@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1314,7 +1314,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23759,
+  "EOS_Progressed": 23760,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
@@ -6584,6 +6584,11 @@
       "Time": "2023-06-26T16:01:54.1124971+00:00",
       "NumProgressed": 23759,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-26T17:02:16.4316806+00:00",
+      "NumProgressed": 23760,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6595,7 +6600,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17344
+      "UsersEstimate": 17345
     },
     {
       "ID": "Animated",
@@ -6611,7 +6616,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8553
+      "UsersEstimate": 8554
     },
     {
       "ID": "Best_Insurance",
@@ -6635,7 +6640,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9741
+      "UsersEstimate": 9742
     },
     {
       "ID": "Collect_Spores",
@@ -6643,7 +6648,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12117
+      "UsersEstimate": 12118
     },
     {
       "ID": "Collector",
@@ -6675,7 +6680,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "Discovery",
@@ -6715,7 +6720,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "Fragile_Panes",
@@ -6811,7 +6816,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "Reckless",
@@ -6843,7 +6848,7 @@
       "Name": "Right back at ya",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "Rivalry",
@@ -6859,7 +6864,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "Side_Hustle",
@@ -6891,7 +6896,7 @@
       "Name": "Stunner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "Stylish",
@@ -6899,7 +6904,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20433
+      "UsersEstimate": 20434
     },
     {
       "ID": "Summoner",
@@ -6923,7 +6928,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 13067
+      "UsersEstimate": 13068
     },
     {
       "ID": "Teamwork",
@@ -6955,7 +6960,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10216
+      "UsersEstimate": 10217
     },
     {
       "ID": "Tobins_Prodigy",
@@ -6979,7 +6984,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "Welcome_Crew",
@@ -6995,14 +7000,14 @@
       "Name": "Whoopsie",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23759,
+      "Progressed": 23760,
       "Completed": 46
     }
   ],
@@ -7010,8 +7015,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-26T14:58:57.7722678+00:00",
-  "LastChanged_Achievements": "2023-06-26T16:01:54.1124967+00:00",
+  "LastChanged_Achievements": "2023-06-26T17:02:16.4316798+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.3306533+00:00",
-  "LastUpdate_Ratings": "2023-06-26T15:59:37.9093054+00:00",
-  "LastUpdate_Achievements": "2023-06-26T16:01:54.1125746+00:00"
+  "LastUpdate_Ratings": "2023-06-26T16:58:59.0040312+00:00",
+  "LastUpdate_Achievements": "2023-06-26T17:02:16.4317386+00:00"
 }

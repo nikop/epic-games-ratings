@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~36,697 |
-| Get Busy Living | 17.00% | ~23,994 |
-| Samuel Norton | 9.00% | ~12,703 |
-| Spare The Rod | 5.00% | ~7,057 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,646 |
-| Don't Put Me In The Dark | 3.00% | ~4,234 |
-| Wait and Hope | 3.00% | ~4,234 |
-| Iron Bars | 3.00% | ~4,234 |
+| Stone Walls | 26.00% | ~36,703 |
+| Get Busy Living | 17.00% | ~23,998 |
+| Samuel Norton | 9.00% | ~12,705 |
+| Spare The Rod | 5.00% | ~7,058 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,647 |
+| Don't Put Me In The Dark | 3.00% | ~4,235 |
+| Wait and Hope | 3.00% | ~4,235 |
+| Iron Bars | 3.00% | ~4,235 |
 | Throw The Book At Them | 2.00% | ~2,823 |
-| D.B. Cooper | 1.00% | ~1,411 |
+| D.B. Cooper | 1.00% | ~1,412 |
 | Reformation | 0.60% | ~847 |
 | Crowd Control | 0.50% | ~706 |
 | Freedom | 0.40% | ~565 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~141 |
 | ... It's What You Can Prove | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,144 (Ranked 58)  
+Progressed: 141,166 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,17 +90,17 @@ Completed: 5 (0.00%) (Ranked 229)
 | 2023-06-23 | 139,740 | 5 |
 | 2023-06-24 | 140,285 | 5 |
 | 2023-06-25 | 140,850 | 5 |
-| 2023-06-26 | 141,144 | 5 |
+| 2023-06-26 | 141,166 | 5 |
 ## Awards
 Max (Extremely Fun): 445  (Ranked 199)  
-Sum: 3,475 (Ranked 148)  
+Sum: 3,476 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 445 |
 | This game is Great for Beginners | 429 |
 | This game is Highly Recommended | 423 |
-| This game has Quickly Understood Controls | 409 |
+| This game has Quickly Understood Controls | 410 |
 | This game is Relaxing | 393 |
 | This game has Diverse Characters | 381 |
 | This game has Amazing Storytelling | 366 |
@@ -267,3 +267,4 @@ Diff (max vs sum): 51
 | 2023-06-23 | 4.61 | - | 442 | 3,462 |
 | 2023-06-24 | 4.61 | - | 442 | 3,465 |
 | 2023-06-25 | 4.61 | - | 445 | 3,475 |
+| 2023-06-26 | 4.61 | - | 445 | 3,476 |
