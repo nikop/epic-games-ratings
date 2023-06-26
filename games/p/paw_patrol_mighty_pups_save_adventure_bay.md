@@ -18,9 +18,9 @@
 | Paw patrol member | 40.00% | ~4 |
 | Mandy Family | 40.00% | ~4 |
 | Robot Out of Control | 40.00% | ~4 |
+| Never Miss | 30.00% | ~3 |
 | Everything Under Control | 20.00% | ~2 |
 | Clear the Road | 20.00% | ~2 |
-| Never Miss | 20.00% | ~2 |
 | Animal Sighting | 20.00% | ~2 |
 | Adventure Bay’s Citizen | 20.00% | ~2 |
 | King of the Mountain | 10.00% | ~1 |

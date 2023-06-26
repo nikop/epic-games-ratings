@@ -1106,9 +1106,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1370,8 +1370,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-26T04:03:14.0975502+00:00",
+  "LastChanged_Achievements": "2023-06-26T05:02:24.1788212+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-26T04:02:15.3935152+00:00",
-  "LastUpdate_Achievements": "2023-06-26T04:03:14.0976179+00:00"
+  "LastUpdate_Ratings": "2023-06-26T05:00:32.53055+00:00",
+  "LastUpdate_Achievements": "2023-06-26T05:02:24.1788612+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,131 |
-| Into the Unknown | 10.00% | ~58,301 |
-| First Shot | 10.00% | ~58,301 |
-| Herzlich Wilkommen! | 9.00% | ~52,471 |
-| Good Night & Good Luck | 9.00% | ~52,471 |
-| Sancho Panza | 8.00% | ~46,641 |
-| Under Pressure | 7.00% | ~40,811 |
-| On the Trail of the Enemy | 7.00% | ~40,811 |
-| Flag Burning | 7.00% | ~40,811 |
-| Oh, So This Is How It Works! | 7.00% | ~40,811 |
-| Night Hunter | 7.00% | ~40,811 |
+| You Never Forget Your First... | 11.00% | ~64,133 |
+| Into the Unknown | 10.00% | ~58,302 |
+| First Shot | 10.00% | ~58,302 |
+| Herzlich Wilkommen! | 9.00% | ~52,472 |
+| Good Night & Good Luck | 9.00% | ~52,472 |
+| Sancho Panza | 8.00% | ~46,642 |
+| Under Pressure | 7.00% | ~40,812 |
+| On the Trail of the Enemy | 7.00% | ~40,812 |
+| Flag Burning | 7.00% | ~40,812 |
+| Oh, So This Is How It Works! | 7.00% | ~40,812 |
+| Night Hunter | 7.00% | ~40,812 |
 | Light in the Darkness | 6.00% | ~34,981 |
 | Get Outta My House! | 6.00% | ~34,981 |
 | It Wasn't That Hard, Was It? | 6.00% | ~34,981 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,321 |
 | Terminal Headache | 4.00% | ~23,321 |
 | Slowpoke! | 4.00% | ~23,321 |
-| You're Going Down! | 3.00% | ~17,490 |
+| You're Going Down! | 3.00% | ~17,491 |
 | Municipal Services | 2.00% | ~11,660 |
 | Tickets, Please! | 2.00% | ~11,660 |
 | Parkour Master | 2.00% | ~11,660 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~228 |
 | Connoisseur | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583,013 (Ranked 26)  
+Progressed: 583,024 (Ranked 26)  
 Completed: 57 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,17 +139,17 @@ Completed: 57 (0.01%) (Ranked 217)
 | 2023-06-23 | 581,953 | 57 |
 | 2023-06-24 | 582,398 | 57 |
 | 2023-06-25 | 582,931 | 57 |
-| 2023-06-26 | 583,013 | 57 |
+| 2023-06-26 | 583,024 | 57 |
 ## Awards
 Max (Character Customization): 8,017  (Ranked 40)  
-Sum: 18,664 (Ranked 55)  
+Sum: 18,669 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,017 |
 | This game has Great Boss Battles | 4,693 |
 | This game is Great for Beginners | 747 |
-| This game is Highly Recommended | 701 |
+| This game is Highly Recommended | 706 |
 | This game has Diverse Characters | 692 |
 | This game has Amazing Characters | 689 |
 | This game is Extremely Fun | 683 |
@@ -326,3 +326,4 @@ Diff (max vs sum): -15
 | 2023-06-23 | 4.58 | - | 7,983 | 18,548 |
 | 2023-06-24 | 4.58 | - | 8,002 | 18,601 |
 | 2023-06-25 | 4.58 | - | 8,017 | 18,664 |
+| 2023-06-26 | 4.58 | - | 8,017 | 18,669 |

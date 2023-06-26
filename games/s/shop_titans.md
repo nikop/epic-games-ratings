@@ -6,48 +6,48 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,476 |
-| Titan's First Steps | 96.00% | ~126,162 |
-| Basic in Bulk | 91.00% | ~119,591 |
+| Sponsored by Argon | 97.00% | ~127,477 |
+| Titan's First Steps | 96.00% | ~126,163 |
+| Basic in Bulk | 91.00% | ~119,592 |
 | Tinkle of Coins | 87.00% | ~114,335 |
-| Disintermediation | 75.00% | ~98,564 |
-| Capitalism Ho! | 74.00% | ~97,250 |
-| It's Free Real Estate | 70.00% | ~91,993 |
+| Disintermediation | 75.00% | ~98,565 |
+| Capitalism Ho! | 74.00% | ~97,251 |
+| It's Free Real Estate | 70.00% | ~91,994 |
 | Budding Merchant | 66.00% | ~86,737 |
 | Another Satisfied Customer | 61.00% | ~80,166 |
-| One Easy Payment | 60.00% | ~78,851 |
-| Own the Means of Production | 60.00% | ~78,851 |
-| Some Assembly Required | 58.00% | ~76,223 |
+| One Easy Payment | 60.00% | ~78,852 |
+| Own the Means of Production | 60.00% | ~78,852 |
+| Some Assembly Required | 58.00% | ~76,224 |
 | Pretty Penny | 57.00% | ~74,909 |
-| One-Armed Bandit | 49.00% | ~64,395 |
+| One-Armed Bandit | 49.00% | ~64,396 |
 | Through Repetition, Perfection | 46.00% | ~60,453 |
 | The Daily Grind | 45.00% | ~59,139 |
-| Bounty Hunters | 44.00% | ~57,824 |
-| Where it Hurts | 43.00% | ~56,510 |
+| Bounty Hunters | 44.00% | ~57,825 |
+| Where it Hurts | 43.00% | ~56,511 |
 | Dungeon Imports | 42.00% | ~55,196 |
 | Flooding the Market | 41.00% | ~53,882 |
-| Demand for Supplies | 38.00% | ~49,939 |
+| Demand for Supplies | 38.00% | ~49,940 |
 | Gild-Gotten Goods | 37.00% | ~48,625 |
 | Did we pack lunch? | 35.00% | ~45,997 |
-| Arcane Industries | 34.00% | ~44,682 |
+| Arcane Industries | 34.00% | ~44,683 |
 | Accomplished Merchant | 31.00% | ~40,740 |
-| On the Path to Greatness | 28.00% | ~36,797 |
-| Ascended | 28.00% | ~36,797 |
-| Gem Expert | 28.00% | ~36,797 |
-| Helping Hand | 28.00% | ~36,797 |
+| On the Path to Greatness | 28.00% | ~36,798 |
+| Ascended | 28.00% | ~36,798 |
+| Gem Expert | 28.00% | ~36,798 |
+| Helping Hand | 28.00% | ~36,798 |
 | Blank Page Syndrome | 27.00% | ~35,483 |
 | Efficient Floor Space | 27.00% | ~35,483 |
 | Vanity, Verily | 26.00% | ~34,169 |
 | Research & Development | 25.00% | ~32,855 |
 | Power of Love | 24.00% | ~31,541 |
 | Flawless Fusion | 24.00% | ~31,541 |
-| Natural 20 | 23.00% | ~30,226 |
+| Natural 20 | 23.00% | ~30,227 |
 | Fated Encounters | 21.00% | ~27,598 |
 | Royal Ransom | 21.00% | ~27,598 |
 | Magical Harmony | 21.00% | ~27,598 |
 | Tax not Included | 20.00% | ~26,284 |
 | Trash to Treasure | 19.00% | ~24,970 |
-| For the Hoard! | 18.00% | ~23,655 |
+| For the Hoard! | 18.00% | ~23,656 |
 | Special Ingredient | 17.00% | ~22,341 |
 | Scrapbooker | 16.00% | ~21,027 |
 | A Notch Above the Rest | 15.00% | ~19,713 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 14.00% | ~18,399 |
 | Flying off the Shelves | 14.00% | ~18,399 |
 | Laden with Loot | 14.00% | ~18,399 |
-| Fat Cat Tag Team | 13.00% | ~17,084 |
+| Fat Cat Tag Team | 13.00% | ~17,085 |
 | Above the Norm | 12.00% | ~15,770 |
 | Hidden Potential | 12.00% | ~15,770 |
 | Mammonite | 12.00% | ~15,770 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~657 |
 | Capitalist Camaraderie | 0.20% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,419 (Ranked 59)  
+Progressed: 131,420 (Ranked 59)  
 Completed: 110 (0.08%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,16 +186,16 @@ Completed: 110 (0.08%) (Ranked 183)
 | 2023-06-23 | 131,218 | 109 |
 | 2023-06-24 | 131,331 | 110 |
 | 2023-06-25 | 131,406 | 110 |
-| 2023-06-26 | 131,419 | 110 |
+| 2023-06-26 | 131,420 | 110 |
 ## Awards
 Max (Great for Beginners): 4,635  (Ranked 68)  
-Sum: 26,808 (Ranked 45)  
+Sum: 26,809 (Ranked 45)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,635 |
 | This game is Relaxing | 3,969 |
-| This game has Quickly Understood Controls | 3,959 |
+| This game has Quickly Understood Controls | 3,960 |
 | This game has Diverse Characters | 3,800 |
 | This game is Highly Recommended | 3,690 |
 | This game has Easy Combat | 3,636 |
@@ -357,3 +357,4 @@ Diff (max vs sum): 23
 | 2023-06-23 | 3.99 | - | 4,630 | 26,799 |
 | 2023-06-24 | 3.99 | - | 4,631 | 26,800 |
 | 2023-06-25 | 3.99 | - | 4,635 | 26,808 |
+| 2023-06-26 | 3.99 | - | 4,635 | 26,809 |

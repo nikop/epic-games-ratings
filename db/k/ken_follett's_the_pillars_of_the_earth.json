@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13523,
+  "EOS_Progressed": 13524,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -4929,6 +4929,11 @@
       "Time": "2023-06-26T03:32:52.0684048+00:00",
       "NumProgressed": 13523,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-26T05:05:45.3362238+00:00",
+      "NumProgressed": 13524,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5020,7 +5025,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "tpote_achievement_2",
@@ -5092,7 +5097,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "tpote_achievement_28",
@@ -5140,7 +5145,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "tpote_achievement_33",
@@ -5204,7 +5209,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "tpote_achievement_40",
@@ -5267,15 +5272,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13523,
+      "Progressed": 13524,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-26T04:07:23.7343691+00:00",
+  "LastChanged_Achievements": "2023-06-26T05:05:45.3362232+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-26T04:01:24.2416509+00:00",
-  "LastUpdate_Achievements": "2023-06-26T04:07:23.7344323+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:59:59.6545779+00:00",
+  "LastUpdate_Achievements": "2023-06-26T05:05:45.3362666+00:00"
 }

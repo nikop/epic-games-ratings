@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525673,
+  "EOS_Progressed": 1525677,
   "EOS_Completed": 636,
-  "EOS_NewPlayers": 1546,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7500,6 +7500,11 @@
       "Time": "2023-06-26T04:05:21.3862643+00:00",
       "NumProgressed": 1525673,
       "NumCompleted": 636
+    },
+    {
+      "Time": "2023-06-26T05:04:26.5586218+00:00",
+      "NumProgressed": 1525677,
+      "NumCompleted": 636
     }
   ],
   "TotalAchievements": 20,
@@ -7527,7 +7532,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30513
+      "UsersEstimate": 30514
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -7583,7 +7588,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30513
+      "UsersEstimate": 30514
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -7599,7 +7604,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30513
+      "UsersEstimate": 30514
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -7607,7 +7612,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152567
+      "UsersEstimate": 152568
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7670,15 +7675,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1525673,
+      "Progressed": 1525677,
       "Completed": 636
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-26T04:05:21.3862633+00:00",
+  "LastChanged_Achievements": "2023-06-26T05:04:26.5586213+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.0971586+00:00",
-  "LastUpdate_Ratings": "2023-06-26T04:01:28.6416168+00:00",
-  "LastUpdate_Achievements": "2023-06-26T04:05:21.3863667+00:00"
+  "LastUpdate_Ratings": "2023-06-26T05:00:02.7674317+00:00",
+  "LastUpdate_Achievements": "2023-06-26T05:04:26.5586642+00:00"
 }
