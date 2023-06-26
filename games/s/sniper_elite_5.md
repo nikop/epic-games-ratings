@@ -49,6 +49,7 @@ Rating: 4.47 (Ranked 593)
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
+| Out of Scope | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
@@ -61,8 +62,8 @@ Rating: 4.47 (Ranked 593)
 | Best of the Best | 0.20% | ~6 |
 | Master of Pistols | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
+| Master of Rifles | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
-| Out of Scope | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
 | Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
@@ -73,11 +74,10 @@ Rating: 4.47 (Ranked 593)
 | Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
-| Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,144 (Ranked 144)  
+Progressed: 3,145 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 3 (0.10%) (Ranked 174)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
-| 2023-06-26 | 3,144 | 3 |
+| 2023-06-26 | 3,145 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

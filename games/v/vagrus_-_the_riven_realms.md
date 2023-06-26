@@ -27,9 +27,11 @@
 | Supercargo | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Strategist | 0.90% | ~1 |
+| Potential Unlocked | 0.90% | ~1 |
 | Xevarian Gambit | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
+| A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
@@ -45,7 +47,6 @@
 | Watcher | 0.00% | ~0 |
 | Executor | 0.00% | ~0 |
 | General | 0.00% | ~0 |
-| Potential Unlocked | 0.00% | ~0 |
 | Adept | 0.00% | ~0 |
 | Talent Nurtured | 0.00% | ~0 |
 | Company of Heroes | 0.00% | ~0 |
@@ -77,7 +78,6 @@
 | Mercenary | 0.00% | ~0 |
 | Mercenary Lord | 0.00% | ~0 |
 | Moving At Odd Angles | 0.00% | ~0 |
-| A Terrible Will | 0.00% | ~0 |
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |

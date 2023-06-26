@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -661,9 +661,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 32230,
+  "EOS_Progressed": 32232,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7311,6 +7311,11 @@
       "Time": "2023-06-26T17:00:43.9880095+00:00",
       "NumProgressed": 32230,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-26T18:00:42.2874861+00:00",
+      "NumProgressed": 32232,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -7386,7 +7391,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ach_cursestone",
@@ -7410,7 +7415,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ach_deathofermod",
@@ -7442,7 +7447,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11603
+      "UsersEstimate": 11604
     },
     {
       "ID": "ach_die10",
@@ -7490,7 +7495,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ach_invictus",
@@ -7546,7 +7551,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ach_newstories",
@@ -7674,7 +7679,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "ach_terror100",
@@ -7690,7 +7695,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ach_undercurrent",
@@ -7730,7 +7735,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ach_year10",
@@ -7753,15 +7758,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 32230,
+      "Progressed": 32232,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-05T06:59:36.6337587+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:00:43.9880085+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:00:42.2874852+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2738248+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:59:38.3575109+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:00:43.9880804+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:59:32.8605027+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:00:42.287552+00:00"
 }

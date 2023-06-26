@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1829,9 +1829,9 @@
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "RogueEpic",
@@ -1915,8 +1915,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:05:35.5134379+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:05:41.1582661+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:59:03.2188034+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:05:35.5135236+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:59:03.4770522+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:05:41.1583476+00:00"
 }

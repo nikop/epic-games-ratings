@@ -2,10 +2,10 @@
   "ID": "f830aef7a6b64e5db95147859536d0b4",
   "Name": "Strayed Lights",
   "ProductSlug": "strayed-lights-351d29",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-25T13:00:00+00:00",
     "PcReleaseDate": "2023-04-25T13:00:00+00:00",
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-04-28T02:01:57.5680412+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:04.1867001+00:00",
   "LastChanged": "2023-04-28T02:01:57.5680413+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:05:48.1463173+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:05:54.1541567+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:49.7104302+00:00",
-  "LastUpdate_Ratings": "2023-06-26T17:00:26.0564675+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:05:48.1463196+00:00"
+  "LastUpdate_Ratings": "2023-06-26T18:00:21.8009744+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:05:54.1541589+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "07c1022735974095ac2f428f291cce3a",
   "Name": "Seafrog",
   "ProductSlug": "seafrog-b66769",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-23T22:57:11.4911815+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:57:19.5992195+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:05:15.3683239+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:57:20.5883478+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:05:21.3311369+00:00"
 }

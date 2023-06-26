@@ -2,10 +2,10 @@
   "ID": "0da5045417f24b309daf44a90c354cf2",
   "Name": "Domynyo",
   "ProductSlug": "domynyo-005361",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-21T15:57:13.008843+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:57:18.0518355+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:03:25.9672101+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:57:18.9348498+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:03:12.532466+00:00"
 }

@@ -41,12 +41,12 @@ Rating: 4.57 (Ranked 438)
 | Pedal to the Metal | 2.00% | ~55 |
 | Pulsar Disciple | 2.00% | ~55 |
 | Mutual Loyalty | 1.00% | ~27 |
+| Tiqqun Contender | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Tiqqun Unchained | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
-| Tiqqun Contender | 0.90% | ~25 |
 | You Had One Job... | 0.90% | ~25 |
 | Scientifically Accurate | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |

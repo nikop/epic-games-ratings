@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1774,
+  "EOS_Progressed": 1775,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -2766,6 +2766,11 @@
       "Time": "2023-06-26T16:04:55.014363+00:00",
       "NumProgressed": 1774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T18:04:26.5540822+00:00",
+      "NumProgressed": 1775,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2785,7 +2790,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "BOT_DESTROYER",
@@ -2801,7 +2806,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "CONQUEROR",
@@ -2841,7 +2846,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -2865,7 +2870,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -2952,14 +2957,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1774,
+      "Progressed": 1775,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:04:19.8076389+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:04:26.5540812+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:57:15.207824+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:04:19.8076808+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:57:16.3388903+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:04:26.5541059+00:00"
 }

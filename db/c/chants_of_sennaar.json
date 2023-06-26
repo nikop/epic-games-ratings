@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 56,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -233,9 +233,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_N1",
@@ -257,9 +257,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_N4",
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:00:38.8944699+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:00:37.1695028+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.0799684+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:59:03.714988+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:00:38.8944886+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:59:03.9660719+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:00:37.1695398+00:00"
 }

@@ -6,20 +6,20 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 10.00% | ~28,158 |
-| First Class Student | 9.00% | ~25,342 |
-| The One Who Mastered Memories | 8.00% | ~22,526 |
-| The Hallowed Hero | 8.00% | ~22,526 |
-| A Keen Sense of Spell | 8.00% | ~22,526 |
-| Troll with the Punches | 8.00% | ~22,526 |
-| That's a Keeper | 8.00% | ~22,526 |
-| Grappling with a Graphorn | 7.00% | ~19,710 |
-| The Hero of Hogwarts | 7.00% | ~19,710 |
-| The Defender of Dragons | 7.00% | ~19,710 |
-| Challenge Accepted | 7.00% | ~19,710 |
-| Loom for Improvement | 7.00% | ~19,710 |
-| A Talent for Spending | 7.00% | ~19,710 |
-| Coasting Along | 7.00% | ~19,710 |
-| Rising From the Ashes | 7.00% | ~19,710 |
+| First Class Student | 9.00% | ~25,343 |
+| Grappling with a Graphorn | 8.00% | ~22,527 |
+| The One Who Mastered Memories | 8.00% | ~22,527 |
+| The Hallowed Hero | 8.00% | ~22,527 |
+| A Keen Sense of Spell | 8.00% | ~22,527 |
+| Troll with the Punches | 8.00% | ~22,527 |
+| That's a Keeper | 8.00% | ~22,527 |
+| The Hero of Hogwarts | 7.00% | ~19,711 |
+| The Defender of Dragons | 7.00% | ~19,711 |
+| Challenge Accepted | 7.00% | ~19,711 |
+| Loom for Improvement | 7.00% | ~19,711 |
+| A Talent for Spending | 7.00% | ~19,711 |
+| Coasting Along | 7.00% | ~19,711 |
+| Rising From the Ashes | 7.00% | ~19,711 |
 | The Avenging Gazelle | 6.00% | ~16,895 |
 | A Sallow Grave | 6.00% | ~16,895 |
 | Flight the Good Flight | 6.00% | ~16,895 |
@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 108)
 | The Root of the Problem | 4.00% | ~11,263 |
 | Third Time's a Charm | 4.00% | ~11,263 |
 | Raising Expectations | 4.00% | ~11,263 |
-| The Toast of the Town | 3.00% | ~8,447 |
-| Going Through the Potions | 3.00% | ~8,447 |
-| Room with a View | 3.00% | ~8,447 |
-| The Intrepid Explorer | 3.00% | ~8,447 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,447 |
-| The Ends Petrify the Means | 3.00% | ~8,447 |
+| The Toast of the Town | 3.00% | ~8,448 |
+| Going Through the Potions | 3.00% | ~8,448 |
+| Room with a View | 3.00% | ~8,448 |
+| The Intrepid Explorer | 3.00% | ~8,448 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,448 |
+| The Ends Petrify the Means | 3.00% | ~8,448 |
 | Put Down Roots | 2.00% | ~5,632 |
 | The Auror's Apprentice | 2.00% | ~5,632 |
 | Floo Around the World | 2.00% | ~5,632 |
@@ -47,12 +47,12 @@ Rating: 4.77 (Ranked 108)
 | Finishing Touches | 1.00% | ~2,816 |
 | A Forte for Achievement | 1.00% | ~2,816 |
 | Merlin's Beard! | 0.70% | ~1,971 |
-| Spilled Milk | 0.60% | ~1,689 |
+| Spilled Milk | 0.60% | ~1,690 |
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,577 (Ranked 41)  
-Completed: 413 (0.15%) (Ranked 165)  
+Progressed: 281,585 (Ranked 41)  
+Completed: 412 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,16 +118,16 @@ Completed: 413 (0.15%) (Ranked 165)
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
-| 2023-06-26 | 281,577 | 413 |
+| 2023-06-26 | 281,585 | 413 |
 ## Awards
 Max (Character Customization): 20,422  (Ranked 17)  
-Sum: 37,962 (Ranked 30)  
+Sum: 37,966 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,422 |
 | This game has Great Boss Battles | 9,714 |
-| This game is Great for Beginners | 866 |
+| This game is Great for Beginners | 870 |
 | This game is Extremely Fun | 852 |
 | This game is Relaxing | 849 |
 | This game has Amazing Storytelling | 837 |
@@ -234,4 +234,4 @@ Diff (max vs sum): -13
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
-| 2023-06-26 | 4.77 | 20,422 | 37,962 |
+| 2023-06-26 | 4.77 | 20,422 | 37,966 |

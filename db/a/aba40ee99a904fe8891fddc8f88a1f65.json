@@ -2,10 +2,10 @@
   "ID": "aba40ee99a904fe8891fddc8f88a1f65",
   "Name": "Fall of Porcupine",
   "ProductSlug": "fall-of-porcupine-659d85",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-15T14:00:00+00:00",
     "PcReleaseDate": "2023-06-15T14:00:00+00:00",
@@ -190,8 +190,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T16:00:17.5644744+00:00",
-  "LastChanged_Achievements": "2023-06-26T17:03:05.7616577+00:00",
+  "LastChanged_Achievements": "2023-06-26T18:02:22.6444819+00:00",
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.23967+00:00",
-  "LastUpdate_Ratings": "2023-06-26T16:57:01.8276451+00:00",
-  "LastUpdate_Achievements": "2023-06-26T17:03:05.7616679+00:00"
+  "LastUpdate_Ratings": "2023-06-26T17:57:01.2998084+00:00",
+  "LastUpdate_Achievements": "2023-06-26T18:02:22.6444911+00:00"
 }

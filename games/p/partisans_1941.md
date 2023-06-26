@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 33.00% | ~353 |
+| E1M1 | 33.00% | ~354 |
 | Grenadier | 32.00% | ~343 |
 | War Never Changes | 32.00% | ~343 |
 | Heroes Never Die | 29.00% | ~311 |
@@ -28,7 +28,7 @@ Number of Ratings: 98  (23.09.2022)
 | Unbreakable Wall | 1.00% | ~11 |
 | Experienced Strategist | 1.00% | ~11 |
 | Do a Barrel Roll! | 0.80% | ~9 |
-| How?! | 0.70% | ~7 |
+| How?! | 0.70% | ~8 |
 | Tough as Nails | 0.30% | ~3 |
 | We Weren't There | 0.20% | ~2 |
 | Commandos | 0.10% | ~1 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071 (Ranked 181)  
+Progressed: 1,072 (Ranked 181)  
 Completed: 1 (0.09%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.09%) (Ranked 181)
 | 2023-06-22 | 1,058 | 1 |
 | 2023-06-24 | 1,063 | 1 |
 | 2023-06-25 | 1,070 | 1 |
-| 2023-06-26 | 1,071 | 1 |
+| 2023-06-26 | 1,072 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

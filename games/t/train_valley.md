@@ -25,7 +25,7 @@ Number of Ratings: 28  (23.09.2022)
 | Foreman | 24.00% | ~73 |
 | Missed it! | 23.00% | ~70 |
 | Russia | 20.00% | ~61 |
-| Sabotage | 19.00% | ~58 |
+| Sabotage | 20.00% | ~61 |
 | America | 18.00% | ~55 |
 | Woodcutter | 13.00% | ~39 |
 | Engineer | 13.00% | ~39 |
