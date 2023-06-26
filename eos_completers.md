@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.84% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.35% |
 | 2 | [Volley Pals](games/v/volley_pals.md) | 26.67% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |

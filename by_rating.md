@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 501 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.93 | 0 | 501 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 21 | 489 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,496 | 118 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,498 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,146 | 88 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 501 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 501 |
@@ -306,7 +306,7 @@
 | 297 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.65 | 0 | 501 |
 | 297 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 0 | 501 |
 | 297 | [Old World](games/o/old_world.md) | 4.65 | 218 | 254 |
-| 297 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,886 | 107 |
+| 297 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,886 | 108 |
 | 297 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 392 |
 | 297 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 501 |
 | 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,592 | 16 |
@@ -416,28 +416,28 @@
 | 411 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 501 |
 | 411 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
 | 411 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 288 | 234 |
+| 411 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 697 | 161 |
 | 411 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 261 |
 | 411 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
-| 419 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 501 |
-| 419 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,247 | 10 |
-| 419 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
-| 419 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 501 |
-| 419 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,017 | 40 |
-| 419 | [Everything](games/e/everything.md) | 4.58 | 0 | 501 |
-| 419 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
-| 419 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 426 |
-| 419 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 219 | 253 |
-| 419 | [Moving Out](games/m/moving_out.md) | 4.58 | 0 | 501 |
-| 419 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,481 | 119 |
-| 419 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 262 |
-| 419 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 501 |
-| 419 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 390 |
-| 419 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 3,300 | 85 |
-| 419 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 987 | 144 |
-| 419 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,193 | 53 |
-| 419 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 501 |
-| 419 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 697 | 161 |
-| 419 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,404 | 23 |
+| 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 501 |
+| 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,298 | 10 |
+| 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
+| 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 501 |
+| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,017 | 40 |
+| 420 | [Everything](games/e/everything.md) | 4.58 | 0 | 501 |
+| 420 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
+| 420 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 426 |
+| 420 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 219 | 253 |
+| 420 | [Moving Out](games/m/moving_out.md) | 4.58 | 0 | 501 |
+| 420 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,481 | 119 |
+| 420 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 262 |
+| 420 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 501 |
+| 420 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 390 |
+| 420 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.58 | 3,300 | 85 |
+| 420 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 987 | 144 |
+| 420 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,193 | 53 |
+| 420 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 501 |
+| 420 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,404 | 23 |
 | 439 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 501 |
 | 439 | [Among Us](games/a/among_us.md) | 4.57 | 2,493 | 93 |
 | 439 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 405 |
@@ -590,7 +590,7 @@
 | 583 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 501 |
 | 583 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 501 |
 | 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 501 |
-| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 1,881 | 108 |
+| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 1,901 | 107 |
 | 583 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 501 |
 | 593 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 501 |
 | 593 | [Figment](games/f/figment.md) | 4.47 | 20 | 497 |
