@@ -10,10 +10,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | Spells and Swords | 2.00% | ~447 |
 | Harvest and Home | 1.00% | ~224 |
 | Poise and Poisons | 1.00% | ~224 |
+| Suns and Soldiers | 0.80% | ~179 |
 | No Harm in Looking | 0.80% | ~179 |
 | Hands and Hammers | 0.70% | ~157 |
 | Progenitor and Protégé | 0.70% | ~157 |
-| Suns and Soldiers | 0.70% | ~157 |
 | King and Kin | 0.60% | ~134 |
 | Prequel to the Sequel | 0.60% | ~134 |
 | For Glory | 0.40% | ~89 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,10 +318,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 59735,
-  "EOS_Completed": 302,
-  "EOS_NewPlayers": 968,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 59736,
+  "EOS_Completed": 303,
+  "EOS_NewPlayers": 964,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
@@ -7368,6 +7368,11 @@
       "Time": "2023-06-26T11:02:36.9867137+00:00",
       "NumProgressed": 59735,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-06-26T12:02:09.8014434+00:00",
+      "NumProgressed": 59736,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 24,
@@ -7387,7 +7392,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 12544
+      "UsersEstimate": 12545
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -7395,7 +7400,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 40022
+      "UsersEstimate": 40023
     },
     {
       "ID": "BEST_FRIENDS",
@@ -7427,7 +7432,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 16128
+      "UsersEstimate": 16129
     },
     {
       "ID": "FOXIN_AROUND",
@@ -7459,7 +7464,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 31062
+      "UsersEstimate": 31063
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -7475,7 +7480,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -7491,7 +7496,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "OLD_COMPANION",
@@ -7570,16 +7575,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 59735,
-      "Completed": 302
+      "Progressed": 59736,
+      "Completed": 303
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-06-26T11:02:36.9867129+00:00",
+  "LastChanged_Achievements": "2023-06-26T12:02:09.801443+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:26.910862+00:00",
-  "LastUpdate_Ratings": "2023-06-26T11:00:35.0606645+00:00",
-  "LastUpdate_Achievements": "2023-06-26T11:02:36.9867994+00:00"
+  "LastUpdate_Ratings": "2023-06-26T12:00:08.758632+00:00",
+  "LastUpdate_Achievements": "2023-06-26T12:02:09.8014883+00:00"
 }

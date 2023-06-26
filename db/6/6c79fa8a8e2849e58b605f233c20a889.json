@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1772,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2751,6 +2751,11 @@
       "Time": "2023-06-26T11:05:08.6312111+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T12:04:48.2541311+00:00",
+      "NumProgressed": 1772,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2810,7 +2815,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -2818,7 +2823,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -2866,7 +2871,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "GUARD_MAKER",
@@ -2937,14 +2942,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1772,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-26T11:05:08.6312106+00:00",
+  "LastChanged_Achievements": "2023-06-26T12:04:48.2541305+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:57:25.0673373+00:00",
-  "LastUpdate_Achievements": "2023-06-26T11:05:08.6312525+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:57:30.3797111+00:00",
+  "LastUpdate_Achievements": "2023-06-26T12:04:48.254156+00:00"
 }

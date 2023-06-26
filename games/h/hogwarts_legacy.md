@@ -30,12 +30,12 @@ Rating: 4.77 (Ranked 108)
 | The Root of the Problem | 4.00% | ~11,262 |
 | Third Time's a Charm | 4.00% | ~11,262 |
 | Raising Expectations | 4.00% | ~11,262 |
-| The Toast of the Town | 3.00% | ~8,446 |
-| Going Through the Potions | 3.00% | ~8,446 |
-| Room with a View | 3.00% | ~8,446 |
-| The Intrepid Explorer | 3.00% | ~8,446 |
-| The Gryffindor in the Graveyard | 3.00% | ~8,446 |
-| The Ends Petrify the Means | 3.00% | ~8,446 |
+| The Toast of the Town | 3.00% | ~8,447 |
+| Going Through the Potions | 3.00% | ~8,447 |
+| Room with a View | 3.00% | ~8,447 |
+| The Intrepid Explorer | 3.00% | ~8,447 |
+| The Gryffindor in the Graveyard | 3.00% | ~8,447 |
+| The Ends Petrify the Means | 3.00% | ~8,447 |
 | Put Down Roots | 2.00% | ~5,631 |
 | The Auror's Apprentice | 2.00% | ~5,631 |
 | Floo Around the World | 2.00% | ~5,631 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,550 (Ranked 41)  
+Progressed: 281,553 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,17 +118,17 @@ Completed: 413 (0.15%) (Ranked 165)
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
-| 2023-06-26 | 281,550 | 413 |
+| 2023-06-26 | 281,553 | 413 |
 ## Awards
 Max (Character Customization): 20,383  (Ranked 17)  
-Sum: 37,901 (Ranked 30)  
+Sum: 37,923 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,383 |
-| This game has Great Boss Battles | 9,695 |
+| This game has Great Boss Battles | 9,714 |
 | This game is Great for Beginners | 866 |
-| This game is Extremely Fun | 849 |
+| This game is Extremely Fun | 852 |
 | This game is Relaxing | 849 |
 | This game has Amazing Storytelling | 837 |
 | This game has Diverse Characters | 834 |
@@ -234,4 +234,4 @@ Diff (max vs sum): -13
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
-| 2023-06-26 | 4.77 | 20,383 | 37,901 |
+| 2023-06-26 | 4.77 | 20,383 | 37,923 |

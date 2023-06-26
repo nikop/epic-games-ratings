@@ -28,6 +28,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 3.00% | ~302 |
 | Next-Door Play | 3.00% | ~302 |
 | Get the Toad | 3.00% | ~302 |
+| Beware Still Water | 3.00% | ~265 |
 | Heart of the Fallen Land | 2.00% | ~201 |
 | Path of the Trickster | 2.00% | ~201 |
 | Path of the Lich | 2.00% | ~201 |
@@ -40,13 +41,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~177 |
 | Sarkoris Will Be Green | 2.00% | ~177 |
 | The Lady of the Forest | 2.00% | ~177 |
-| Beware Still Water | 2.00% | ~177 |
 | Path of the Demon | 1.00% | ~101 |
 | Path of the Aeon | 1.00% | ~101 |
 | Abyssal Conspiracy | 1.00% | ~101 |
 | Truly Important Deed | 1.00% | ~101 |
+| The Final Threshold | 0.90% | ~91 |
 | This Wall Won't Fall | 0.90% | ~80 |
-| The Final Threshold | 0.80% | ~81 |
 | Strategic Victory | 0.80% | ~81 |
 | End of Eternal Guard | 0.80% | ~81 |
 | Not the Last Sarkorian | 0.80% | ~71 |

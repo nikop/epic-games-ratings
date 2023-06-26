@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -3150,9 +3150,9 @@
       "ID": "BrainPoolOperation",
       "SetID": "97dk767",
       "Name": "Brain at Full Throttle",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1808
     },
     {
       "ID": "Chatterbox",
@@ -3278,9 +3278,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4874
+      "UsersEstimate": 4953
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3350,8 +3350,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-26T11:03:16.4314536+00:00",
+  "LastChanged_Achievements": "2023-06-26T12:03:22.4231016+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.8787805+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:59:52.7430641+00:00",
-  "LastUpdate_Achievements": "2023-06-26T11:03:16.4314899+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:59:36.4288131+00:00",
+  "LastUpdate_Achievements": "2023-06-26T12:03:22.4231271+00:00"
 }

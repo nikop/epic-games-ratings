@@ -2962,7 +2962,7 @@
   ],
   "EOS_Progressed": 10067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7387,9 +7387,9 @@
       "ID": "07_FinalThreshold",
       "SetID": "989of5o",
       "Name": "The Final Threshold",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 91
     },
     {
       "ID": "08_PathOfAngel",
@@ -8259,9 +8259,9 @@
       "ID": "DLC4_34_Beware of Still Water",
       "SetID": "11go2ek",
       "Name": "Beware Still Water",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
@@ -8281,8 +8281,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-25T17:58:21.8860933+00:00",
-  "LastChanged_Achievements": "2023-06-26T11:07:40.691111+00:00",
+  "LastChanged_Achievements": "2023-06-26T12:07:08.0174463+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:59:08.6731824+00:00",
-  "LastUpdate_Achievements": "2023-06-26T11:07:40.6913099+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:58:56.1574763+00:00",
+  "LastUpdate_Achievements": "2023-06-26T12:07:08.0175941+00:00"
 }

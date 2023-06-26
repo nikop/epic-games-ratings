@@ -166,9 +166,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1330,
+  "EOS_Progressed": 1331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2361,6 +2361,11 @@
       "Time": "2023-06-26T02:33:11.9201908+00:00",
       "NumProgressed": 1330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T12:05:12.8783715+00:00",
+      "NumProgressed": 1331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2524,7 +2529,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2548,7 +2553,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2564,7 +2569,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -2588,7 +2593,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -2596,7 +2601,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -2604,7 +2609,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -2620,7 +2625,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -2628,7 +2633,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2755,7 +2760,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1330,
+      "Progressed": 1331,
       "Completed": 0
     }
   ],
@@ -2763,8 +2768,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-25T16:57:28.7972156+00:00",
-  "LastChanged_Achievements": "2023-06-26T11:05:26.581102+00:00",
+  "LastChanged_Achievements": "2023-06-26T12:05:12.878371+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:57:51.6371327+00:00",
-  "LastUpdate_Achievements": "2023-06-26T11:05:26.5811548+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:57:52.0332915+00:00",
+  "LastUpdate_Achievements": "2023-06-26T12:05:12.878415+00:00"
 }

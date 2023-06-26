@@ -9,7 +9,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Legend Begins | 93.00% | ~7,312 |
 | What should I buy? | 83.00% | ~6,525 |
 | Focus! | 63.00% | ~4,953 |
-| Rescued Elder Ent | 62.00% | ~4,874 |
+| Rescued Elder Ent | 63.00% | ~4,953 |
 | The End of the Gold Mane Knights | 48.00% | ~3,774 |
 | Rules of Etiquette | 40.00% | ~3,145 |
 | False Goddess, Disappear | 39.00% | ~3,066 |
@@ -19,7 +19,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Hero Killer | 28.00% | ~2,201 |
 | The Final Battle of the First Hero | 26.00% | ~2,044 |
 | Go Home... | 26.00% | ~2,044 |
-| Brain at Full Throttle | 22.00% | ~1,730 |
+| Brain at Full Throttle | 23.00% | ~1,808 |
 | Rookies Welcome | 20.00% | ~1,572 |
 | Deadly Power | 16.00% | ~1,258 |
 | Castle Restoration Plans | 14.00% | ~1,101 |
