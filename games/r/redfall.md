@@ -14,7 +14,7 @@ Rating: 3.51 (Ranked 945)
 | Peek-a-boo | 44.00% | ~750 |
 | Catch and Release | 44.00% | ~750 |
 | Sucks To Be You | 43.00% | ~733 |
-| Welcome to the Neighborhood | 37.00% | ~630 |
+| Welcome to the Neighborhood | 38.00% | ~648 |
 | Fly Fisher | 36.00% | ~613 |
 | Throw The First Stone | 35.00% | ~596 |
 | Enter of Your Own Free Will | 32.00% | ~545 |
@@ -62,8 +62,8 @@ Rating: 3.51 (Ranked 945)
 | Someplace to Be | 0.40% | ~7 |
 | Bob’s Final Hour | 0.30% | ~5 |
 | Rum Runner | 0.20% | ~3 |
+| Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |
-| Eagle Eyes | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Sepsis | 0.00% | ~0 |

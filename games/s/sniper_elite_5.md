@@ -29,26 +29,27 @@ Rating: 4.47 (Ranked 593)
 | Snake in the Grass | 1.00% | ~31 |
 | Climbing the Ladder | 0.90% | ~28 |
 | Brains of the Operation | 0.90% | ~28 |
+| Precision Is Key | 0.80% | ~25 |
+| Rigged to Blow | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
 | Opposing Force | 0.70% | ~22 |
-| Precision Is Key | 0.70% | ~22 |
-| Rigged to Blow | 0.70% | ~22 |
 | My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
+| Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
-| Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
+| The Long Game | 0.30% | ~9 |
 | Out of Scope | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
@@ -63,7 +64,7 @@ Rating: 4.47 (Ranked 593)
 | Master of Pistols | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
-| The Long Game | 0.20% | ~6 |
+| Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
 | Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
@@ -74,7 +75,6 @@ Rating: 4.47 (Ranked 593)
 | Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
-| Master-at-arms | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,146 (Ranked 144)  

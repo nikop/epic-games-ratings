@@ -35,7 +35,7 @@
 | Savior | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 423)  
+Progressed: 2 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

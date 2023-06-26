@@ -25,8 +25,8 @@
 | So Close | 10.00% | ~21 |
 | Transformers, cubes in disguise | 10.00% | ~21 |
 | All Alone | 10.00% | ~21 |
+| Final Charge | 10.00% | ~21 |
 | Cataclysm | 10.00% | ~21 |
-| Final Charge | 9.00% | ~19 |
 | Summer Luvin' | 3.00% | ~6 |
 | You Are Terminated | 0.50% | ~1 |
 | So, this is the End? | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1570,10 +1570,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2167,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-06-26T19:59:53.2368174+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2168,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2167,
+  "NumberOfAwards": 2168,
   "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1617,7 +1623,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game is Educational",
@@ -1644,9 +1650,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 19763,
+  "EOS_Progressed": 19764,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5114,6 +5120,11 @@
       "Time": "2023-06-26T18:05:56.3435967+00:00",
       "NumProgressed": 19763,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-26T20:06:20.6363733+00:00",
+      "NumProgressed": 19764,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5157,7 +5168,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "EstateAgent",
@@ -5173,7 +5184,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     },
     {
       "ID": "GameOver",
@@ -5277,7 +5288,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "Strongman",
@@ -5308,15 +5319,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19763,
+      "Progressed": 19764,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-06-25T21:59:21.0929052+00:00",
-  "LastChanged_Achievements": "2023-06-26T19:07:47.2334002+00:00",
+  "LastChanged": "2023-06-26T19:59:53.2368173+00:00",
+  "LastChanged_Achievements": "2023-06-26T20:06:20.636373+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.5603172+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:00:52.3783264+00:00",
-  "LastUpdate_Achievements": "2023-06-26T19:07:47.2334641+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:59:53.2368179+00:00",
+  "LastUpdate_Achievements": "2023-06-26T20:06:20.6364104+00:00"
 }

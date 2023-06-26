@@ -11,7 +11,7 @@
 | Solved sixth case | 34.00% | ~53 |
 | Solved seventh case | 33.00% | ~51 |
 | Solved eighth case | 31.00% | ~48 |
-| Solved fifth case | 27.00% | ~42 |
+| Solved fifth case | 28.00% | ~44 |
 | Solved ninth case | 26.00% | ~41 |
 | Solved tenth case | 24.00% | ~37 |
 | Solved eleventh case | 17.00% | ~27 |

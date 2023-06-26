@@ -8,18 +8,18 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,412 |
 | Tutti Eroi! | 54.00% | ~3,412 |
-| You Shall Not Pass | 52.00% | ~3,285 |
-| Avanti Savoia! | 47.00% | ~2,969 |
+| You Shall Not Pass | 52.00% | ~3,286 |
+| Avanti Savoia! | 47.00% | ~2,970 |
 | Mamma Mia! | 37.00% | ~2,338 |
-| Conrad von Hotzensocks | 36.00% | ~2,274 |
+| Conrad von Hotzensocks | 36.00% | ~2,275 |
 | Gabriele D'Annunzio | 32.00% | ~2,022 |
-| Silver Lining | 29.00% | ~1,832 |
+| Silver Lining | 29.00% | ~1,833 |
 | Aurelio Baruzzi | 22.00% | ~1,390 |
 | Veni Vidi Vici | 22.00% | ~1,390 |
 | Donatello | 21.00% | ~1,327 |
 | Decimation | 20.00% | ~1,264 |
-| Insubordination | 19.00% | ~1,200 |
-| The Italian Job | 19.00% | ~1,200 |
+| Insubordination | 19.00% | ~1,201 |
+| The Italian Job | 19.00% | ~1,201 |
 | The Lion of the Isonzo | 18.00% | ~1,137 |
 | Ragazzi del '99 | 17.00% | ~1,074 |
 | Luigi Cadorna | 14.00% | ~885 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 10.00% | ~632 |
 | I Have the High Ground | 10.00% | ~632 |
 | Millenial | 9.00% | ~569 |
-| The Show Must Go On | 8.00% | ~505 |
-| Tosca | 8.00% | ~505 |
+| The Show Must Go On | 8.00% | ~506 |
+| Tosca | 8.00% | ~506 |
 | 12th Bottle of the Isonzo | 6.00% | ~379 |
 | Cercatore d'Oro | 6.00% | ~379 |
 | The Enlightment | 6.00% | ~379 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,318 (Ranked 126)  
+Progressed: 6,319 (Ranked 126)  
 Completed: 8 (0.13%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,17 +116,17 @@ Completed: 8 (0.13%) (Ranked 171)
 | 2023-06-23 | 6,307 | 8 |
 | 2023-06-24 | 6,310 | 8 |
 | 2023-06-25 | 6,316 | 8 |
-| 2023-06-26 | 6,318 | 8 |
+| 2023-06-26 | 6,319 | 8 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 436)  
-Sum: 253 (Ranked 346)  
+Sum: 254 (Ranked 346)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 34 |
 | This game is Extremely Fun | 31 |
 | This game has Amazing Characters | 29 |
-| This game has Quickly Understood Controls | 27 |
+| This game has Quickly Understood Controls | 28 |
 | This game has Challenging Combat | 27 |
 | This game has Diverse Characters | 27 |
 | This game is Educational | 27 |
@@ -221,4 +221,4 @@ Diff (max vs sum): 90
 | 2023-06-20 | 4.56 | - | 33 | 250 |
 | 2023-06-22 | 4.56 | - | 33 | 251 |
 | 2023-06-24 | 4.56 | - | 33 | 252 |
-| 2023-06-26 | 4.56 | - | 34 | 253 |
+| 2023-06-26 | 4.56 | - | 34 | 254 |

@@ -2865,9 +2865,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 693
     },
     {
       "ID": "GLOVE_SLAP",
@@ -2968,8 +2968,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-26T19:05:40.1937641+00:00",
+  "LastChanged_Achievements": "2023-06-26T20:04:50.7019731+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-26T18:57:40.6149106+00:00",
-  "LastUpdate_Achievements": "2023-06-26T19:05:40.1938206+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:57:39.768686+00:00",
+  "LastUpdate_Achievements": "2023-06-26T20:04:50.7020043+00:00"
 }

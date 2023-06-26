@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~630 |
-| Space Colonization | 80.00% | ~520 |
+| Don't Panic! | 97.00% | ~631 |
+| Space Colonization | 80.00% | ~521 |
 | Friendzone | 79.00% | ~514 |
 | Hello World | 75.00% | ~488 |
-| Tinkerer | 64.00% | ~416 |
 | Space Engineer | 63.00% | ~410 |
-| Dust to Dust | 57.00% | ~370 |
+| Tinkerer | 63.00% | ~410 |
+| Dust to Dust | 57.00% | ~371 |
 | Across The Stars | 47.00% | ~306 |
-| Crafty | 46.00% | ~299 |
+| Crafty | 45.00% | ~293 |
 | All Seats Taken | 36.00% | ~234 |
-| For Science! | 33.00% | ~214 |
+| For Science! | 33.00% | ~215 |
 | Meet the Petersons | 31.00% | ~202 |
 | Stay Cool | 28.00% | ~182 |
 | KIA | 26.00% | ~169 |
@@ -25,7 +25,7 @@
 | Gold Medalist | 12.00% | ~78 |
 | Hands Full | 12.00% | ~78 |
 | Non-Fiction | 11.00% | ~72 |
-| No Man Left Behind | 9.00% | ~58 |
+| No Man Left Behind | 9.00% | ~59 |
 | Fix-It Felix | 7.00% | ~46 |
 | Intergalactic Breakup | 7.00% | ~46 |
 | Flawless Maegangement | 7.00% | ~46 |
@@ -38,8 +38,8 @@
 | Bovine Domain | 2.00% | ~13 |
 | 2018: A Soup Odyssey | 2.00% | ~13 |
 | That's No Moon! | 2.00% | ~13 |
-| AAARGH! | 1.00% | ~6 |
-| Feels like home | 1.00% | ~6 |
+| AAARGH! | 1.00% | ~7 |
+| Feels like home | 1.00% | ~7 |
 | No Ticket | 0.90% | ~6 |
 | Bingpot! | 0.90% | ~6 |
 | Space Selfie | 0.90% | ~6 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 200)  
+Progressed: 651 (Ranked 200)  
 Completed: 1 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 1 (0.15%) (Ranked 165)
 | 2023-06-21 | 646 | 1 |
 | 2023-06-23 | 648 | 1 |
 | 2023-06-24 | 650 | 1 |
+| 2023-06-26 | 651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

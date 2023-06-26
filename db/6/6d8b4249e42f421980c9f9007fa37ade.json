@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Epic_Times_100",
@@ -731,8 +731,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-26T19:04:33.1987782+00:00",
+  "LastChanged_Achievements": "2023-06-26T20:04:02.3030743+00:00",
   "LastUpdate_AppInfo": "2023-06-22T04:57:05.5865299+00:00",
-  "LastUpdate_Ratings": "2023-06-26T18:57:30.0069706+00:00",
-  "LastUpdate_Achievements": "2023-06-26T19:04:33.1988515+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:57:31.1808351+00:00",
+  "LastUpdate_Achievements": "2023-06-26T20:04:02.3031165+00:00"
 }

@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122304,
+  "EOS_Progressed": 122305,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7681,6 +7681,11 @@
       "Time": "2023-06-26T19:08:01.108163+00:00",
       "NumProgressed": 122304,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-26T20:06:30.9841675+00:00",
+      "NumProgressed": 122305,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7836,7 +7841,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13453
+      "UsersEstimate": 13454
     },
     {
       "ID": "ACH_CUNO",
@@ -8011,15 +8016,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122304,
+      "Progressed": 122305,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-26T19:08:01.1081623+00:00",
+  "LastChanged_Achievements": "2023-06-26T20:06:30.9841668+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:00:22.7369424+00:00",
-  "LastUpdate_Achievements": "2023-06-26T19:08:01.1082515+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:59:33.3270721+00:00",
+  "LastUpdate_Achievements": "2023-06-26T20:06:30.9842634+00:00"
 }
