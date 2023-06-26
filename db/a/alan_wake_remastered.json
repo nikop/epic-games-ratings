@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56295,
+  "EOS_Progressed": 56297,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6177,6 +6177,11 @@
       "Time": "2023-06-26T21:02:44.3278063+00:00",
       "NumProgressed": 56295,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-26T22:02:09.4656208+00:00",
+      "NumProgressed": 56297,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6188,7 +6193,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     },
     {
       "ID": "02",
@@ -6228,7 +6233,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "07",
@@ -6252,7 +6257,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "10",
@@ -6348,7 +6353,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "22",
@@ -6356,7 +6361,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "23",
@@ -6412,7 +6417,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "30",
@@ -6428,7 +6433,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 7319
     },
     {
       "ID": "32",
@@ -6444,7 +6449,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "34",
@@ -6508,7 +6513,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7318
+      "UsersEstimate": 7319
     },
     {
       "ID": "42",
@@ -6524,7 +6529,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7881
+      "UsersEstimate": 7882
     },
     {
       "ID": "44",
@@ -6548,7 +6553,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6755
+      "UsersEstimate": 6756
     },
     {
       "ID": "47",
@@ -6723,21 +6728,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56295,
+      "Progressed": 56297,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19763,
+      "Progressed": 19765,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-26T21:02:44.3278057+00:00",
+  "LastChanged_Achievements": "2023-06-26T22:02:09.4656204+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:58:16.9900948+00:00",
-  "LastUpdate_Achievements": "2023-06-26T21:02:44.3279557+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:57:51.1283633+00:00",
+  "LastUpdate_Achievements": "2023-06-26T22:02:09.4657181+00:00"
 }

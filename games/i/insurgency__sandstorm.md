@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 344)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,914 |
-| Wallbanger | 5.00% | ~19,914 |
-| Exploitative | 4.00% | ~15,931 |
-| High Speed Low Drag | 4.00% | ~15,931 |
-| Wet Feet | 4.00% | ~15,931 |
-| Checkpoint Victory | 3.00% | ~11,948 |
-| Lucky | 3.00% | ~11,948 |
-| Stylin' | 3.00% | ~11,948 |
-| Turf War | 3.00% | ~11,948 |
+| Point Shooting | 5.00% | ~19,916 |
+| Wallbanger | 5.00% | ~19,916 |
+| Exploitative | 4.00% | ~15,933 |
+| High Speed Low Drag | 4.00% | ~15,933 |
+| Wet Feet | 4.00% | ~15,933 |
+| Checkpoint Victory | 3.00% | ~11,950 |
+| Lucky | 3.00% | ~11,950 |
+| Stylin' | 3.00% | ~11,950 |
+| Turf War | 3.00% | ~11,950 |
 | Banged | 2.00% | ~7,966 |
 | First Blood | 2.00% | ~7,966 |
 | Flaccid Paralysis | 2.00% | ~7,966 |
@@ -27,12 +27,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,585 |
 | Mount & Gun | 0.90% | ~3,585 |
 | Personal | 0.90% | ~3,585 |
-| Grounded | 0.80% | ~3,186 |
-| Play to Win | 0.80% | ~3,186 |
+| Grounded | 0.80% | ~3,187 |
+| Play to Win | 0.80% | ~3,187 |
 | #1 | 0.70% | ~2,788 |
 | Special Delivery | 0.70% | ~2,788 |
 | Firefight Victory | 0.60% | ~2,390 |
-| Cinematic | 0.50% | ~1,991 |
+| Cinematic | 0.50% | ~1,992 |
 | Thanks Station! | 0.40% | ~1,593 |
 | Knock Knock | 0.30% | ~1,195 |
 | There For You | 0.30% | ~1,195 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~398 |
 | Road Hazard | 0.10% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,283 (Ranked 39)  
+Progressed: 398,323 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,10 +109,10 @@ Completed: 2 (0.00%) (Ranked 229)
 | 2023-06-23 | 396,605 | 2 |
 | 2023-06-24 | 397,196 | 2 |
 | 2023-06-25 | 397,812 | 2 |
-| 2023-06-26 | 398,283 | 2 |
+| 2023-06-26 | 398,323 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
-Sum: 2,741 (Ranked 167)  
+Sum: 2,743 (Ranked 167)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -123,7 +123,7 @@ Diff (max vs sum): 50
 | This game has Realistic Visuals | 296 |
 | This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 291 |
-| This game has Amazing Characters | 281 |
+| This game has Amazing Characters | 283 |
 | This game has a Competitive Community | 247 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -291,4 +291,4 @@ Diff (max vs sum): 50
 | 2023-06-23 | 4.62 | - | 359 | 2,732 |
 | 2023-06-24 | 4.62 | - | 361 | 2,735 |
 | 2023-06-25 | 4.62 | - | 361 | 2,740 |
-| 2023-06-26 | 4.62 | - | 361 | 2,741 |
+| 2023-06-26 | 4.62 | - | 361 | 2,743 |

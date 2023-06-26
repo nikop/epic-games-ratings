@@ -13,9 +13,9 @@ Rating: 4.34 (Ranked 742)
 | Lumberjack | 51.00% | ~607 |
 | Croaked | 46.00% | ~548 |
 | Limp Richard | 45.00% | ~536 |
+| Exorcist | 45.00% | ~536 |
 | From Darkness to Light | 45.00% | ~536 |
 | Editor Adept | 44.00% | ~524 |
-| Exorcist | 44.00% | ~524 |
 | Firestarter | 41.00% | ~488 |
 | Giant Killer | 41.00% | ~488 |
 | Sensei | 40.00% | ~476 |
@@ -25,7 +25,7 @@ Rating: 4.34 (Ranked 742)
 | Are you not entertained? | 30.00% | ~357 |
 | Ganglord | 29.00% | ~345 |
 | Jarhead | 29.00% | ~345 |
-| Infiltrator | 28.00% | ~333 |
+| Infiltrator | 29.00% | ~345 |
 | Pushing Daisy | 27.00% | ~322 |
 | Experienced | 25.00% | ~298 |
 | There Can Be Only One! | 23.00% | ~274 |

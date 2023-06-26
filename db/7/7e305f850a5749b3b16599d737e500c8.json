@@ -567,9 +567,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Street_food",
@@ -583,9 +583,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Troubleshooter",
@@ -606,8 +606,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-26T21:04:28.0540168+00:00",
+  "LastChanged_Achievements": "2023-06-26T22:03:37.0218573+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:57:32.1537098+00:00",
-  "LastUpdate_Achievements": "2023-06-26T21:04:28.0540514+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:57:22.1525605+00:00",
+  "LastUpdate_Achievements": "2023-06-26T22:03:37.0218726+00:00"
 }

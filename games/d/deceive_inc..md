@@ -5,30 +5,30 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,459 |
-| Mainframe Hacker | 46.00% | ~3,205 |
-| Tomorrow Never Dyes | 46.00% | ~3,205 |
-| The Spy who eliminated me | 46.00% | ~3,205 |
-| Never Say Loser Again | 40.00% | ~2,787 |
-| For your Eyes only | 39.00% | ~2,717 |
-| From the Vault with Love | 37.00% | ~2,578 |
-| Tailor-Made | 37.00% | ~2,578 |
-| Fully Decked Out | 35.00% | ~2,438 |
-| You Only Live Twice | 32.00% | ~2,229 |
-| A view to Win | 27.00% | ~1,881 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,460 |
+| Mainframe Hacker | 46.00% | ~3,206 |
+| Tomorrow Never Dyes | 46.00% | ~3,206 |
+| The Spy who eliminated me | 46.00% | ~3,206 |
+| Never Say Loser Again | 40.00% | ~2,788 |
+| For your Eyes only | 39.00% | ~2,718 |
+| From the Vault with Love | 37.00% | ~2,579 |
+| Tailor-Made | 37.00% | ~2,579 |
+| Fully Decked Out | 35.00% | ~2,439 |
+| You Only Live Twice | 32.00% | ~2,230 |
+| A view to Win | 27.00% | ~1,882 |
 | Smells Like Trouble | 25.00% | ~1,742 |
-| Assistant Accountant | 24.00% | ~1,672 |
-| The Living Portrait | 24.00% | ~1,672 |
-| Private Collection | 24.00% | ~1,672 |
-| Killer Looks | 24.00% | ~1,672 |
-| Hostile Takeover | 24.00% | ~1,672 |
-| Keycards Royale | 23.00% | ~1,602 |
-| Dr. No Kill | 23.00% | ~1,602 |
-| My Motto, My Creed | 23.00% | ~1,602 |
+| Assistant Accountant | 24.00% | ~1,673 |
+| The Living Portrait | 24.00% | ~1,673 |
+| Private Collection | 24.00% | ~1,673 |
+| Killer Looks | 24.00% | ~1,673 |
+| Hostile Takeover | 24.00% | ~1,673 |
+| Keycards Royale | 23.00% | ~1,603 |
+| Dr. No Kill | 23.00% | ~1,603 |
+| My Motto, My Creed | 23.00% | ~1,603 |
 | In It to Win It | 22.00% | ~1,533 |
 | Security Supervisor | 10.00% | ~697 |
-| License to Thrill | 8.00% | ~557 |
-| Social of Solace | 8.00% | ~557 |
+| License to Thrill | 8.00% | ~558 |
+| Social of Solace | 8.00% | ~558 |
 | Safe Withdrawal | 6.00% | ~418 |
 | Live and let lie | 5.00% | ~348 |
 | Call Me Maybe | 4.00% | ~279 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,967 (Ranked 121)  
+Progressed: 6,969 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 6,930 | 0 |
 | 2023-06-24 | 6,941 | 0 |
 | 2023-06-25 | 6,954 | 0 |
-| 2023-06-26 | 6,967 | 0 |
+| 2023-06-26 | 6,969 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

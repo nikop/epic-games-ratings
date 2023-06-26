@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.67,
+  "EOS_Completed_Percentage": 11.64,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1406,6 +1406,11 @@
       "Time": "2023-06-26T14:04:50.1496134+00:00",
       "NumProgressed": 480,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-26T22:04:36.6885973+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 30,
@@ -1417,7 +1422,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "LEVEL_002",
@@ -1425,7 +1430,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "LEVEL_003",
@@ -1433,7 +1438,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "LEVEL_004",
@@ -1471,9 +1476,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "LEVEL_009",
@@ -1529,7 +1534,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_016",
@@ -1647,23 +1652,23 @@
       "ID": "LEVEL_030",
       "SetID": "212bg48",
       "Name": "Celebration with Cake and Balloons",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-26T21:05:50.6962398+00:00",
+  "LastChanged_Achievements": "2023-06-26T22:04:36.6885969+00:00",
   "LastUpdate_AppInfo": "2023-06-26T15:57:12.2730858+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:57:29.2283647+00:00",
-  "LastUpdate_Achievements": "2023-06-26T21:05:50.6962725+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:57:19.9598563+00:00",
+  "LastUpdate_Achievements": "2023-06-26T22:04:36.6886278+00:00"
 }

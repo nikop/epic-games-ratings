@@ -28,8 +28,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,102 |
 | Bloody Sport | 1.00% | ~195 |
 | The best strikes are the ones we avoid | 1.00% | ~195 |
-| Scareless | 0.90% | ~6,391 |
-| Kung-Fu Tussle | 0.90% | ~6,391 |
+| Scareless | 0.90% | ~6,392 |
+| Kung-Fu Tussle | 0.90% | ~6,392 |
 | Dance of the Praying Mantis | 0.80% | ~5,681 |
 | Qi Gong: Mind | 0.80% | ~5,681 |
 | I know Kung-Fu | 0.80% | ~5,681 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.40% | ~2,841 |
 | Martial Hub | 0.40% | ~78 |
 | Secure, Protect, Leave | 0.40% | ~78 |
-| Drunken Fighter | 0.30% | ~2,130 |
-| Martial Artist | 0.30% | ~2,130 |
-| Knowledge Greed | 0.30% | ~2,130 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,130 |
-| The Pit Protector | 0.30% | ~2,130 |
-| Come Snap With Me | 0.30% | ~2,130 |
+| Drunken Fighter | 0.30% | ~2,131 |
+| Martial Artist | 0.30% | ~2,131 |
+| Knowledge Greed | 0.30% | ~2,131 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,131 |
+| The Pit Protector | 0.30% | ~2,131 |
+| Come Snap With Me | 0.30% | ~2,131 |
 | Healing Memory | 0.20% | ~1,420 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,420 |
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,166 (Ranked 17)  
+Progressed: 710,167 (Ranked 17)  
 Completed: 12,793 (1.80%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 12,793 (1.80%) (Ranked 78)
 | 2023-06-23 | 710,016 | 12,783 |
 | 2023-06-24 | 710,074 | 12,790 |
 | 2023-06-25 | 710,133 | 12,790 |
-| 2023-06-26 | 710,166 | 12,793 |
+| 2023-06-26 | 710,167 | 12,793 |
 ## Awards
 Max (Great Boss Battles): 6,211  (Ranked 52)  
 Sum: 10,628 (Ranked 78)  

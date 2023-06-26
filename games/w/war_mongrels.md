@@ -16,9 +16,9 @@ Number of Ratings: 34  (23.09.2022)
 | Treasure Hunter | 37.00% | ~142 |
 | Sniper Wolf | 36.00% | ~139 |
 | The Motivation | 35.00% | ~135 |
+| Collectibles of Chapter I | 33.00% | ~127 |
 | Heroism | 33.00% | ~127 |
 | Missing in Action | 33.00% | ~127 |
-| Collectibles of Chapter I | 32.00% | ~123 |
 | Consequences | 29.00% | ~112 |
 | King of Knives | 29.00% | ~112 |
 | Opportunities | 28.00% | ~108 |

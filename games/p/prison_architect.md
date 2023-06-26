@@ -1,20 +1,20 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 361)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~36,731 |
-| Get Busy Living | 17.00% | ~24,017 |
-| Samuel Norton | 9.00% | ~12,715 |
-| Spare The Rod | 5.00% | ~7,064 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,651 |
-| Don't Put Me In The Dark | 3.00% | ~4,238 |
-| Wait and Hope | 3.00% | ~4,238 |
-| Iron Bars | 3.00% | ~4,238 |
-| Throw The Book At Them | 2.00% | ~2,825 |
+| Stone Walls | 26.00% | ~36,737 |
+| Get Busy Living | 17.00% | ~24,020 |
+| Samuel Norton | 9.00% | ~12,717 |
+| Spare The Rod | 5.00% | ~7,065 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,652 |
+| Don't Put Me In The Dark | 3.00% | ~4,239 |
+| Wait and Hope | 3.00% | ~4,239 |
+| Iron Bars | 3.00% | ~4,239 |
+| Throw The Book At Them | 2.00% | ~2,826 |
 | D.B. Cooper | 1.00% | ~1,413 |
 | Reformation | 0.60% | ~848 |
 | Crowd Control | 0.50% | ~706 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~141 |
 | ... It's What You Can Prove | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,274 (Ranked 58)  
+Progressed: 141,297 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,10 +90,10 @@ Completed: 5 (0.00%) (Ranked 229)
 | 2023-06-23 | 139,740 | 5 |
 | 2023-06-24 | 140,285 | 5 |
 | 2023-06-25 | 140,850 | 5 |
-| 2023-06-26 | 141,274 | 5 |
+| 2023-06-26 | 141,297 | 5 |
 ## Awards
 Max (Extremely Fun): 445  (Ranked 199)  
-Sum: 3,476 (Ranked 148)  
+Sum: 3,477 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): 51
 | This game is Great for Beginners | 429 |
 | This game is Highly Recommended | 423 |
 | This game has Quickly Understood Controls | 410 |
-| This game is Relaxing | 393 |
+| This game is Relaxing | 394 |
 | This game has Diverse Characters | 381 |
 | This game has Amazing Storytelling | 366 |
 | This game has Amazing Characters | 353 |
@@ -267,4 +267,4 @@ Diff (max vs sum): 51
 | 2023-06-23 | 4.61 | - | 442 | 3,462 |
 | 2023-06-24 | 4.61 | - | 442 | 3,465 |
 | 2023-06-25 | 4.61 | - | 445 | 3,475 |
-| 2023-06-26 | 4.61 | - | 445 | 3,476 |
+| 2023-06-26 | 4.61 | - | 445 | 3,477 |

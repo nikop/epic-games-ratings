@@ -5,12 +5,12 @@ Rating: 3.82 (Ranked 935)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,421 |
-| The First Step | 88.00% | ~1,276 |
-| Moonbury Traveller | 64.00% | ~928 |
-| Rookie Chemist | 62.00% | ~899 |
+| Welcome to Moonbury | 98.00% | ~1,422 |
+| The First Step | 88.00% | ~1,277 |
+| Moonbury Traveller | 64.00% | ~929 |
+| Rookie Chemist | 62.00% | ~900 |
 | Great Doctor | 51.00% | ~740 |
-| Dog Whisperer | 49.00% | ~710 |
+| Dog Whisperer | 49.00% | ~711 |
 | Friendly | 47.00% | ~682 |
 | The Capitalist | 43.00% | ~624 |
 | K.O.! | 42.00% | ~609 |
@@ -19,12 +19,12 @@ Rating: 3.82 (Ranked 935)
 | Lumber Specialist | 30.00% | ~435 |
 | Catch of the Day | 24.00% | ~348 |
 | Kind-hearted | 23.00% | ~334 |
-| Amateur Chef | 21.00% | ~304 |
+| Amateur Chef | 21.00% | ~305 |
 | Fishing Guru | 19.00% | ~276 |
 | Spark of Love | 16.00% | ~232 |
 | Community Helper | 16.00% | ~232 |
-| Expert Chemist | 13.00% | ~188 |
-| Stone Specialist | 13.00% | ~188 |
+| Expert Chemist | 13.00% | ~189 |
+| Stone Specialist | 13.00% | ~189 |
 | Sociable | 12.00% | ~174 |
 | Ablutomaniac | 12.00% | ~174 |
 | Line Cook | 11.00% | ~160 |
@@ -33,7 +33,7 @@ Rating: 3.82 (Ranked 935)
 | Acrobatic Adventurer | 8.00% | ~116 |
 | Animal Exterminator | 7.00% | ~102 |
 | Adolescent Love | 6.00% | ~87 |
-| Mail Carrier | 5.00% | ~72 |
+| Mail Carrier | 5.00% | ~73 |
 | Plantation Exterminator | 4.00% | ~58 |
 | Grape Supplier | 4.00% | ~58 |
 | Sous Chef | 3.00% | ~44 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 935)
 | Moonbury Navigator | 0.80% | ~12 |
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,450 (Ranked 168)  
+Progressed: 1,451 (Ranked 168)  
 Completed: 7 (0.48%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 7 (0.48%) (Ranked 125)
 | 2023-06-23 | 1,448 | 7 |
 | 2023-06-24 | 1,449 | 7 |
 | 2023-06-25 | 1,450 | 7 |
+| 2023-06-26 | 1,451 | 7 |
 ## Awards
 Max (Character Customization): 67  (Ranked 372)  
 Sum: 67 (Ranked 430)  
