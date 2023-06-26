@@ -5,13 +5,13 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,153 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,154 |
 | First Class Student | 9.00% | ~25,338 |
-| The One Who Mastered Memories | 8.00% | ~22,522 |
-| The Hallowed Hero | 8.00% | ~22,522 |
-| A Keen Sense of Spell | 8.00% | ~22,522 |
-| Troll with the Punches | 8.00% | ~22,522 |
-| That's a Keeper | 8.00% | ~22,522 |
+| The One Who Mastered Memories | 8.00% | ~22,523 |
+| The Hallowed Hero | 8.00% | ~22,523 |
+| A Keen Sense of Spell | 8.00% | ~22,523 |
+| Troll with the Punches | 8.00% | ~22,523 |
+| That's a Keeper | 8.00% | ~22,523 |
 | Grappling with a Graphorn | 7.00% | ~19,707 |
 | The Hero of Hogwarts | 7.00% | ~19,707 |
 | The Defender of Dragons | 7.00% | ~19,707 |
@@ -25,7 +25,7 @@ Rating: 4.77 (Ranked 108)
 | Flight the Good Flight | 6.00% | ~16,892 |
 | Followed the Butterflies | 6.00% | ~16,892 |
 | The Spell Master | 6.00% | ~16,892 |
-| Beast Friends | 5.00% | ~14,076 |
+| Beast Friends | 5.00% | ~14,077 |
 | The Seeker of Knowledge | 4.00% | ~11,261 |
 | The Root of the Problem | 4.00% | ~11,261 |
 | Third Time's a Charm | 4.00% | ~11,261 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,530 (Ranked 41)  
+Progressed: 281,535 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 413 (0.15%) (Ranked 165)
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
-| 2023-06-26 | 281,530 | 413 |
+| 2023-06-26 | 281,535 | 413 |
 ## Awards
 Max (Character Customization): 20,383  (Ranked 17)  
-Sum: 37,885 (Ranked 30)  
+Sum: 37,887 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 849 |
 | This game is Relaxing | 849 |
 | This game has Amazing Storytelling | 837 |
-| This game has Diverse Characters | 832 |
+| This game has Diverse Characters | 834 |
 | This game has Amazing Characters | 814 |
 | This game is Highly Recommended | 796 |
 | This game has Quickly Understood Controls | 750 |
@@ -234,4 +234,4 @@ Diff (max vs sum): -13
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
-| 2023-06-26 | 4.77 | 20,383 | 37,885 |
+| 2023-06-26 | 4.77 | 20,383 | 37,887 |

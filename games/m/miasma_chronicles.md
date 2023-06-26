@@ -28,9 +28,9 @@ Rating: 4.35 (Ranked 734)
 | Infiltrator | 28.00% | ~333 |
 | Pushing Daisy | 27.00% | ~322 |
 | Experienced | 25.00% | ~298 |
+| There Can Be Only One! | 23.00% | ~274 |
 | Endgame | 22.00% | ~262 |
 | Hold The Line | 22.00% | ~262 |
-| There Can Be Only One! | 22.00% | ~262 |
 | Chain Killer | 21.00% | ~250 |
 | Savior | 21.00% | ~250 |
 | The Watchers | 18.00% | ~214 |
@@ -41,8 +41,8 @@ Rating: 4.35 (Ranked 734)
 | Commando | 11.00% | ~131 |
 | Side Order | 9.00% | ~107 |
 | Chain Reaction | 8.00% | ~95 |
+| Curveball | 8.00% | ~95 |
 | Bot Whisperer | 7.00% | ~83 |
-| Curveball | 7.00% | ~83 |
 | Wipe Out | 7.00% | ~83 |
 | Dressed To Kill | 6.00% | ~71 |
 | Cruelty | 3.00% | ~36 |

@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~513,262 |
-| Every story has a beginning | 36.00% | ~228,117 |
-| The first of many | 32.00% | ~202,770 |
-| Positive word of mouth | 18.00% | ~114,058 |
-| Lawn in the U.S.A. | 15.00% | ~95,049 |
-| Blade Runner | 9.00% | ~57,029 |
-| Credible | 7.00% | ~44,356 |
-| Teamwork makes the dream work | 6.00% | ~38,019 |
-| Where there's muck there's brass | 4.00% | ~25,346 |
-| Bigger and better | 4.00% | ~25,346 |
-| Aggressive expansion | 4.00% | ~25,346 |
+| The dream begins | 81.00% | ~513,274 |
+| Every story has a beginning | 36.00% | ~228,122 |
+| The first of many | 32.00% | ~202,775 |
+| Positive word of mouth | 18.00% | ~114,061 |
+| Lawn in the U.S.A. | 15.00% | ~95,051 |
+| Blade Runner | 9.00% | ~57,030 |
+| Credible | 7.00% | ~44,357 |
+| Teamwork makes the dream work | 6.00% | ~38,020 |
+| Where there's muck there's brass | 4.00% | ~25,347 |
+| Bigger and better | 4.00% | ~25,347 |
+| Aggressive expansion | 4.00% | ~25,347 |
 | Size isn't everything | 3.00% | ~19,010 |
 | Close shave | 3.00% | ~19,010 |
 | Established | 3.00% | ~19,010 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~634 |
 | Mo mowers, mo problems | 0.10% | ~634 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633,657 (Ranked 22)  
+Progressed: 633,672 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 14 (0.00%) (Ranked 229)
 | 2023-06-23 | 632,418 | 14 |
 | 2023-06-24 | 632,994 | 14 |
 | 2023-06-25 | 633,549 | 14 |
-| 2023-06-26 | 633,657 | 14 |
+| 2023-06-26 | 633,672 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 278)  
-Sum: 964 (Ranked 235)  
+Sum: 965 (Ranked 235)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 43
 | This game is Relaxing | 162 |
 | This game is Great for Beginners | 161 |
 | This game is Highly Recommended | 155 |
-| This game has Amazing Storytelling | 138 |
+| This game has Amazing Storytelling | 139 |
 | This game has Obsessive Gameplay | 55 |
 | This game has Easy Combat | 41 |
 | This game has Realistic Visuals | 30 |
@@ -218,3 +218,4 @@ Diff (max vs sum): 43
 | 2023-05-28 | 4.07 | - | 180 | 962 |
 | 2023-06-05 | 4.07 | - | 180 | 963 |
 | 2023-06-11 | 4.07 | - | 180 | 964 |
+| 2023-06-26 | 4.07 | - | 180 | 965 |

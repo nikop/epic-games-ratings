@@ -3,8 +3,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 50.00% | ~1 |
-| Tributes of Caladrias | 50.00% | ~1 |
+| Break out | 14.00% | ~1 |
+| Tributes of Caladrias | 14.00% | ~1 |
 | Find Allies | 0.00% | ~0 |
 | Powerful Allies | 0.00% | ~0 |
 | Monsalar: Wildlands | 0.00% | ~0 |
@@ -40,9 +40,10 @@
 | A Queen's tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 420)  
+Progressed: 7 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-23 | 2 | 0 |
+| 2023-06-26 | 7 | 0 |

@@ -6,14 +6,14 @@ Number of Ratings: 55,748  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matchmaker | 74.00% | ~799,952 |
-| Bun-Puncher Supreme | 68.00% | ~735,091 |
-| You Mean Business | 68.00% | ~735,091 |
-| You're Getting Pretty Good At This! | 68.00% | ~735,091 |
-| Aerial Specialist | 63.00% | ~681,040 |
-| Proving Yourself | 63.00% | ~681,040 |
-| Stepping Out | 63.00% | ~681,040 |
-| The Throne Is Yours | 63.00% | ~681,040 |
+| Matchmaker | 74.00% | ~799,953 |
+| Bun-Puncher Supreme | 68.00% | ~735,092 |
+| You Mean Business | 68.00% | ~735,092 |
+| You're Getting Pretty Good At This! | 68.00% | ~735,092 |
+| Aerial Specialist | 63.00% | ~681,041 |
+| Proving Yourself | 63.00% | ~681,041 |
+| Stepping Out | 63.00% | ~681,041 |
+| The Throne Is Yours | 63.00% | ~681,041 |
 | Spike Specialist | 54.00% | ~583,749 |
 | Southpaw Specialist | 54.00% | ~583,749 |
 | Rightie Specialist | 54.00% | ~583,749 |
@@ -27,15 +27,15 @@ Number of Ratings: 55,748  (23.09.2022)
 | Life of the Party | 36.00% | ~389,166 |
 | Social Butterfly | 36.00% | ~389,166 |
 | Party Animal | 36.00% | ~389,166 |
-| And Your Little Dog, Too! | 33.00% | ~356,735 |
-| Bring A Friend | 33.00% | ~356,735 |
-| Ringouts Are Better In Pairs | 33.00% | ~356,735 |
+| And Your Little Dog, Too! | 33.00% | ~356,736 |
+| Bring A Friend | 33.00% | ~356,736 |
+| Ringouts Are Better In Pairs | 33.00% | ~356,736 |
 | Ground Floor: Ringouts | 29.00% | ~313,495 |
 | Watch Your Step | 29.00% | ~313,495 |
 | Going Down? | 29.00% | ~313,495 |
 | Run It Back | 6.00% | ~64,861 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,081,016 (Ranked 11)  
+Progressed: 1,081,017 (Ranked 11)  
 Completed: 31,693 (2.93%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 31,693 (2.93%) (Ranked 55)
 | 2023-06-23 | 1,080,356 | 31,690 |
 | 2023-06-24 | 1,080,668 | 31,690 |
 | 2023-06-25 | 1,080,960 | 31,693 |
-| 2023-06-26 | 1,081,016 | 31,693 |
+| 2023-06-26 | 1,081,017 | 31,693 |
 ## Awards
 Max (Great for Beginners): 4,745  (Ranked 67)  
 Sum: 45,708 (Ranked 26)  

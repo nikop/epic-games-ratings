@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The secret passage | 56.00% | ~42 |
 | Seth's office | 55.00% | ~41 |
-| The secret passage | 55.00% | ~41 |
+| Across the lake | 49.00% | ~37 |
 | First document retrieved | 48.00% | ~36 |
 | There is something strange here... | 48.00% | ~36 |
-| Across the lake | 48.00% | ~36 |
-| Curious by nature | 40.00% | ~30 |
+| Curious by nature | 41.00% | ~31 |
 | A lonely death | 35.00% | ~26 |
 | An ear for music | 33.00% | ~25 |
 | Agatha's favourite song | 31.00% | ~23 |

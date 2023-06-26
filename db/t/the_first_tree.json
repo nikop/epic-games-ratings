@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32672,
+  "EOS_Progressed": 32673,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6163,6 +6163,11 @@
       "Time": "2023-06-26T02:31:32.1894954+00:00",
       "NumProgressed": 32672,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-26T06:03:28.6009978+00:00",
+      "NumProgressed": 32673,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6222,7 +6227,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "completionist",
@@ -6262,7 +6267,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25484
+      "UsersEstimate": 25485
     },
     {
       "ID": "roots",
@@ -6285,15 +6290,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32672,
+      "Progressed": 32673,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-26T05:02:32.0361764+00:00",
+  "LastChanged_Achievements": "2023-06-26T06:03:28.6009974+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.7883343+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:00:11.993782+00:00",
-  "LastUpdate_Achievements": "2023-06-26T05:02:32.0362124+00:00"
+  "LastUpdate_Ratings": "2023-06-26T06:00:20.7827985+00:00",
+  "LastUpdate_Achievements": "2023-06-26T06:03:28.6010342+00:00"
 }
