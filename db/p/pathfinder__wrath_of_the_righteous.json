@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2960,9 +2960,9 @@
       "Count": 379
     }
   ],
-  "EOS_Progressed": 10070,
+  "EOS_Progressed": 10072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7340,6 +7340,11 @@
       "Time": "2023-06-26T14:06:24.3157084+00:00",
       "NumProgressed": 10070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T16:07:02.8180622+00:00",
+      "NumProgressed": 10072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7351,7 +7356,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "02_BurningCity",
@@ -7663,7 +7668,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "42_JustPathetic",
@@ -8278,21 +8283,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8852,
+      "Progressed": 8854,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10070,
+      "Progressed": 10072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-25T17:58:21.8860933+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:06:02.7405112+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:07:02.8180618+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:58:25.8788636+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:06:02.7407146+00:00"
+  "LastUpdate_Ratings": "2023-06-26T15:58:58.601191+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:07:02.8182846+00:00"
 }

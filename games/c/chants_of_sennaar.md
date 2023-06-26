@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 89.00% | ~8 |
-| Rascal | 78.00% | ~7 |
-| The Preacher's fate | 78.00% | ~7 |
+| That's the spirit | 100.00% | ~9 |
+| Rascal | 89.00% | ~8 |
+| The Preacher's fate | 89.00% | ~8 |
+| Welcome to the Tower | 89.00% | ~8 |
+| The great escape | 89.00% | ~8 |
 | Champollion | 78.00% | ~7 |
 | Scholar | 78.00% | ~7 |
-| Welcome to the Tower | 78.00% | ~7 |
-| The great escape | 78.00% | ~7 |
 | A new dawn | 78.00% | ~7 |
 | The darkness | 78.00% | ~7 |
 | One last step | 78.00% | ~7 |

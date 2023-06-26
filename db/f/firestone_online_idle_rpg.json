@@ -3822,9 +3822,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "hunter",
@@ -4175,8 +4175,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:05:57.6361163+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:06:56.9933822+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:58:06.0072236+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:05:57.6362217+00:00"
+  "LastUpdate_Ratings": "2023-06-26T15:58:34.1589124+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:06:56.9934782+00:00"
 }

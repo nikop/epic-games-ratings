@@ -2,7 +2,7 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 132,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 471,
@@ -5421,18 +5421,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 12985,
       "NumberOfAwardsMax": 5318
+    },
+    {
+      "Time": "2023-06-26T16:00:12.387689+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12993,
+      "NumberOfAwardsMax": 5325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12985,
-  "NumberOfAwardsMax": 5318,
+  "NumberOfAwards": 12993,
+  "NumberOfAwardsMax": 5325,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5318
+      "Count": 5325
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5444,7 +5450,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 456
+      "Count": 457
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5524,8 +5530,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-06-26T13:59:37.1480843+00:00",
+  "LastChanged": "2023-06-26T16:00:12.3876888+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:30.4380531+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:59:27.3070274+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:00:40.7411934+00:00"
+  "LastUpdate_Ratings": "2023-06-26T16:00:12.3876895+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:01:39.4099398+00:00"
 }

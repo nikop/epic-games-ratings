@@ -15,10 +15,10 @@ Number of Ratings: 209  (23.09.2022)
 | Pickaxe | 94.00% | ~1,997 |
 | Revenge | 94.00% | ~1,997 |
 | Cage Town | 94.00% | ~1,997 |
+| Force Beam | 93.00% | ~1,975 |
 | Entered Cage Town | 93.00% | ~1,975 |
 | Stone Pickaxe | 93.00% | ~1,975 |
 | Surprise | 93.00% | ~1,975 |
-| Force Beam | 92.00% | ~1,954 |
 | Magnet | 90.00% | ~1,912 |
 | Industrial Area | 89.00% | ~1,890 |
 | Magnet Repel | 88.00% | ~1,869 |

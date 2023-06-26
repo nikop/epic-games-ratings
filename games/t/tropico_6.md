@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,914 |
-| Un-Lonely Island | 48.00% | ~1,840 |
-| The Beginning of a Servantship | 45.00% | ~1,725 |
+| Just One...More...Term... | 76.00% | ~2,915 |
+| Un-Lonely Island | 48.00% | ~1,841 |
+| The Beginning of a Servantship | 45.00% | ~1,726 |
 | Trade Is My Trait | 37.00% | ~1,419 |
 | Number 18 | 24.00% | ~920 |
-| The Governator | 19.00% | ~728 |
-| We Don't Have Time For That | 19.00% | ~728 |
+| The Governator | 19.00% | ~729 |
+| We Don't Have Time For That | 19.00% | ~729 |
 | The Legend of Langostino | 17.00% | ~652 |
-| Caribbean Comrade | 16.00% | ~613 |
-| The Dreamer of Dreams | 16.00% | ~613 |
+| Caribbean Comrade | 16.00% | ~614 |
+| The Dreamer of Dreams | 16.00% | ~614 |
 | Happy Ending? | 11.00% | ~422 |
 | Go Sovereigns! | 11.00% | ~422 |
 | For Science! | 11.00% | ~422 |
-| Of Seals And Men | 10.00% | ~383 |
-| Shackadelic | 10.00% | ~383 |
+| Of Seals And Men | 10.00% | ~384 |
+| Shackadelic | 10.00% | ~384 |
 | Double Trouble | 8.00% | ~307 |
 | Firestarter | 8.00% | ~307 |
 | Make Tropico Great Again! | 8.00% | ~307 |
@@ -32,8 +32,8 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~192 |
 | Computer Says "No" | 5.00% | ~192 |
 | Fairy Tale Come True | 5.00% | ~192 |
+| Apocalypso | 4.00% | ~153 |
 | Been there, Done That | 3.00% | ~115 |
-| Apocalypso | 3.00% | ~115 |
 | Narcissist | 3.00% | ~115 |
 | Promising Endeavors | 3.00% | ~115 |
 | The Time For Wonders | 3.00% | ~115 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Terraformer | 2.00% | ~77 |
 | Curse of the Mummy | 2.00% | ~77 |
 | From Knight to Little Duck | 1.00% | ~38 |
-| Survivor | 0.90% | ~35 |
+| Survivor | 1.00% | ~38 |
 | My Ways | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,834 (Ranked 139)  
+Progressed: 3,835 (Ranked 139)  
 Completed: 1 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.03%) (Ranked 201)
 | 2023-06-23 | 3,783 | 1 |
 | 2023-06-24 | 3,802 | 1 |
 | 2023-06-25 | 3,826 | 1 |
-| 2023-06-26 | 3,834 | 1 |
+| 2023-06-26 | 3,835 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 658 (Ranked 279)  

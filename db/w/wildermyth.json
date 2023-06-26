@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1272,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -905,6 +905,11 @@
       "Time": "2023-06-26T02:31:24.346362+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-26T16:03:18.0380918+00:00",
+      "NumProgressed": 1272,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -932,7 +937,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1363,15 +1368,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1272,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:02:23.2716191+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:03:18.0380913+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-26T15:00:29.8818341+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:02:23.2716812+00:00"
+  "LastUpdate_Ratings": "2023-06-26T16:01:23.8566726+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:03:18.0381445+00:00"
 }

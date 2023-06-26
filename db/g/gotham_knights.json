@@ -1760,9 +1760,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 65999,
+  "EOS_Progressed": 66001,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7730,6 +7730,11 @@
       "Time": "2023-06-26T14:06:20.8535969+00:00",
       "NumProgressed": 65999,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-26T16:06:59.1297399+00:00",
+      "NumProgressed": 66001,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -8011,9 +8016,9 @@
       "ID": "GOTHAM_BATARANGS",
       "SetID": "4eo5ebm",
       "Name": "Batarang Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 66
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -8035,9 +8040,9 @@
       "ID": "GOTHAM_MURALS",
       "SetID": "4eo5ebm",
       "Name": "Claiming the Mural High Ground",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 66
     },
     {
       "ID": "HARLEY_1",
@@ -8228,13 +8233,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 65999,
+      "Progressed": 66001,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36279,
+      "Progressed": 36281,
       "Completed": 2647
     }
   ],
@@ -8242,8 +8247,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-26T03:26:57.3350954+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:05:59.4562508+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:06:59.1297395+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:59:43.4378831+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:05:59.4563559+00:00"
+  "LastUpdate_Ratings": "2023-06-26T16:00:31.9449689+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:06:59.1298324+00:00"
 }

@@ -1,23 +1,23 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 594)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,844 |
-| Leader | 61.00% | ~4,161 |
+| Leader | 61.00% | ~4,162 |
 | Explorer | 53.00% | ~3,616 |
 | Healer | 53.00% | ~3,616 |
 | Aspiring Inventor | 44.00% | ~3,002 |
-| Adventurer | 42.00% | ~2,865 |
-| Famous Healer | 38.00% | ~2,592 |
+| Adventurer | 42.00% | ~2,866 |
+| Famous Healer | 38.00% | ~2,593 |
 | Local Leader | 35.00% | ~2,388 |
-| Famous Explorer | 34.00% | ~2,319 |
-| New Opportunities | 34.00% | ~2,319 |
-| Energized | 33.00% | ~2,251 |
-| The Long Haul | 33.00% | ~2,251 |
+| Famous Explorer | 34.00% | ~2,320 |
+| New Opportunities | 34.00% | ~2,320 |
+| Energized | 33.00% | ~2,252 |
+| The Long Haul | 33.00% | ~2,252 |
 | Survivor | 32.00% | ~2,183 |
 | The Great Healer | 31.00% | ~2,115 |
 | Cleaner | 28.00% | ~1,910 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,822 (Ranked 123)  
+Progressed: 6,823 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,18 +133,18 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 6,733 | 0 |
 | 2023-06-24 | 6,767 | 0 |
 | 2023-06-25 | 6,807 | 0 |
-| 2023-06-26 | 6,822 | 0 |
+| 2023-06-26 | 6,823 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
-Sum: 673 (Ranked 271)  
+Sum: 674 (Ranked 271)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
 | This game is Great for Beginners | 87 |
 | This game has Amazing Storytelling | 85 |
+| This game has Quickly Understood Controls | 81 |
 | This game is Relaxing | 80 |
-| This game has Quickly Understood Controls | 80 |
 | This game is Highly Recommended | 69 |
 | This game has Diverse Characters | 68 |
 | This game has Amazing Characters | 64 |
@@ -249,3 +249,4 @@ Diff (max vs sum): 58
 | 2023-06-22 | 4.47 | - | 99 | 671 |
 | 2023-06-23 | 4.47 | - | 99 | 672 |
 | 2023-06-25 | 4.47 | - | 99 | 673 |
+| 2023-06-26 | 4.47 | - | 99 | 674 |

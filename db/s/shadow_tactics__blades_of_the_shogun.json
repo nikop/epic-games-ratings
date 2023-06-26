@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1243,9 +1243,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 180792,
+  "EOS_Progressed": 180804,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2309,
+  "EOS_NewPlayers": 2310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8413,6 +8413,11 @@
       "Time": "2023-06-26T15:05:55.8725689+00:00",
       "NumProgressed": 180792,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-26T16:06:55.1726736+00:00",
+      "NumProgressed": 180804,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 44,
@@ -8424,7 +8429,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14463
+      "UsersEstimate": 14464
     },
     {
       "ID": "AtheistOx",
@@ -8464,7 +8469,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12655
+      "UsersEstimate": 12656
     },
     {
       "ID": "FiveShadows",
@@ -8496,7 +8501,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 18079
+      "UsersEstimate": 18080
     },
     {
       "ID": "HappyLittleAccidents",
@@ -8648,7 +8653,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 12655
+      "UsersEstimate": 12656
     },
     {
       "ID": "StillRollin",
@@ -8680,7 +8685,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12655
+      "UsersEstimate": 12656
     },
     {
       "ID": "TheCave",
@@ -8712,7 +8717,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16271
+      "UsersEstimate": 16272
     },
     {
       "ID": "TimeParadox",
@@ -8775,15 +8780,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 180792,
+      "Progressed": 180804,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-25T08:59:32.4868058+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:05:55.8725679+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:06:55.1726731+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.3131444+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:59:01.0910048+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:05:55.8726572+00:00"
+  "LastUpdate_Ratings": "2023-06-26T15:59:41.6717653+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:06:55.1727539+00:00"
 }

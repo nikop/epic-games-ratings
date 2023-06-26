@@ -1195,9 +1195,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1975
     },
     {
       "ID": "BenCave",
@@ -1579,8 +1579,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-26T15:00:40.6709229+00:00",
+  "LastChanged_Achievements": "2023-06-26T16:01:39.4432372+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:11.5939426+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:59:54.8096124+00:00",
-  "LastUpdate_Achievements": "2023-06-26T15:00:40.6709777+00:00"
+  "LastUpdate_Ratings": "2023-06-26T16:00:45.9644093+00:00",
+  "LastUpdate_Achievements": "2023-06-26T16:01:39.4432897+00:00"
 }

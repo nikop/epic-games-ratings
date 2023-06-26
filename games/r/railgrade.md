@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 490)
 | Before the Downfall | 93.00% | ~17,760 |
 | Money like Water | 91.00% | ~17,378 |
 | Minimalist | 90.00% | ~17,187 |
-| Builder | 82.00% | ~15,660 |
+| Builder | 83.00% | ~15,851 |
 | Eraser | 70.00% | ~13,368 |
 | Pocket of Trains | 65.00% | ~12,413 |
 | Inspector | 59.00% | ~11,267 |
@@ -44,7 +44,7 @@ Rating: 4.54 (Ranked 490)
 | Cloud Services | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,097 (Ranked 101)  
-Completed: 30 (0.16%) (Ranked 162)  
+Completed: 31 (0.16%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 30 (0.16%) (Ranked 162)
 | 2023-06-23 | 19,078 | 30 |
 | 2023-06-24 | 19,083 | 30 |
 | 2023-06-25 | 19,094 | 30 |
-| 2023-06-26 | 19,097 | 30 |
+| 2023-06-26 | 19,097 | 31 |
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 346)  
 Sum: 652 (Ranked 281)  

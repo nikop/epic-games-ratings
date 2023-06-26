@@ -9,6 +9,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 3.00% | ~465 |
 | Fertile Meadows | 3.00% | ~465 |
 | The Marshlands | 3.00% | ~465 |
+| The Scarlet Orchard | 3.00% | ~465 |
 | Taking Action | 3.00% | ~465 |
 | No Deaths | 3.00% | ~465 |
 | Homesick | 2.00% | ~310 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 2.00% | ~310 |
 | Coral Forest | 2.00% | ~310 |
 | Cursed Lands | 2.00% | ~310 |
-| The Scarlet Orchard | 2.00% | ~310 |
 | A Real Challenge | 2.00% | ~310 |
 | Like a Machine | 2.00% | ~310 |
 | Trade Baron | 2.00% | ~310 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,488 (Ranked 106)  
+Progressed: 15,490 (Ranked 106)  
 Completed: 38 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,15 +124,15 @@ Completed: 38 (0.25%) (Ranked 149)
 | 2023-06-23 | 15,444 | 38 |
 | 2023-06-24 | 15,463 | 38 |
 | 2023-06-25 | 15,482 | 38 |
-| 2023-06-26 | 15,488 | 38 |
+| 2023-06-26 | 15,490 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 201)  
-Sum: 3,054 (Ranked 155)  
+Sum: 3,055 (Ranked 155)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 418 |
-| This game is Relaxing | 414 |
+| This game is Relaxing | 415 |
 | This game is Extremely Fun | 394 |
 | This game is Great for Beginners | 377 |
 | This game is Highly Recommended | 374 |
@@ -284,3 +284,4 @@ Diff (max vs sum): 46
 | 2023-06-22 | 4.81 | - | 418 | 3,052 |
 | 2023-06-23 | 4.81 | - | 418 | 3,053 |
 | 2023-06-25 | 4.81 | - | 418 | 3,054 |
+| 2023-06-26 | 4.81 | - | 418 | 3,055 |
