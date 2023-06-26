@@ -42,7 +42,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 475 | 193 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 501 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,653 | 41 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,497 | 60 |
+| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,499 | 60 |
 | 42 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 354 | 218 |
 | 42 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 233 | 251 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 254 |
@@ -219,7 +219,7 @@
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,645 | 116 |
 | 197 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 501 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 501 |
-| 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,924 | 8 |
+| 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 111,981 | 8 |
 | 220 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 501 |
 | 220 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 501 |
 | 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,452 | 61 |
@@ -276,7 +276,7 @@
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 271 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 501 |
 | 273 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 126 |
-| 273 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 327 | 224 |
+| 273 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 328 | 224 |
 | 273 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.66 | 1,709 | 114 |
 | 273 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 501 |
 | 273 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 501 |
@@ -423,7 +423,7 @@
 | 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,298 | 10 |
 | 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
 | 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 501 |
-| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,017 | 40 |
+| 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,042 | 40 |
 | 420 | [Everything](games/e/everything.md) | 4.58 | 0 | 501 |
 | 420 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
 | 420 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 426 |
@@ -552,7 +552,7 @@
 | 549 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 501 |
 | 549 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 344 |
 | 549 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 501 |
-| 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,202 | 13 |
+| 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,242 | 13 |
 | 549 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 501 |
 | 549 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 102 | 326 |
 | 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,477 | 95 |
@@ -600,7 +600,7 @@
 | 593 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 501 |
 | 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 501 |
 | 593 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 329 |
-| 593 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,365 | 45 |
+| 593 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,382 | 45 |
 | 593 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 501 |
 | 593 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 501 |
 | 604 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 501 |
@@ -781,7 +781,7 @@
 | 778 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 501 |
 | 778 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 501 |
 | 778 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 501 |
-| 778 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,450,309 | 1 |
+| 778 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,452,808 | 1 |
 | 778 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,657 | 79 |
 | 778 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 695 | 163 |
 | 778 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 412 |

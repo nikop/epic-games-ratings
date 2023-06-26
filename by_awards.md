@@ -1,18 +1,18 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,450,309 | 4.29 | 778 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,452,808 | 4.29 | 778 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 452,406 | 4.50 | 549 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,414 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 189,970 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,790 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 153,788 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,696 | 4.52 | 518 |
-| 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,924 | 4.69 | 220 |
+| 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,981 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,159 | 4.62 | 344 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,298 | 4.58 | 420 |
 | 11 | [VALORANT](games/v/valorant.md) | 58,272 | 4.53 | 505 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,357 | 4.60 | 387 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 35,202 | 4.50 | 549 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 35,242 | 4.50 | 549 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,557 | 4.74 | 143 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,112 | 4.52 | 518 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,596 | 4.65 | 298 |
@@ -39,12 +39,12 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,308 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,867 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,368 | 4.60 | 387 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,017 | 4.58 | 420 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,042 | 4.58 | 420 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,653 | 4.85 | 42 |
 | 42 | [Supraland](games/s/supraland.md) | 7,628 | 4.61 | 362 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,562 | 4.89 | 13 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,507 | 4.57 | 438 |
-| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,365 | 4.47 | 593 |
+| 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,382 | 4.47 | 593 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,276 | 4.71 | 180 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,217 | 4.68 | 240 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,720 | 4.74 | 143 |
@@ -59,7 +59,7 @@
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,795 | 4.66 | 273 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,584 | 4.82 | 66 |
 | 58 | [Prey](games/p/prey.md) | 5,584 | 4.62 | 344 |
-| 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,497 | 4.85 | 42 |
+| 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,499 | 4.85 | 42 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,452 | 4.69 | 220 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,325 | 4.75 | 132 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,063 | 4.34 | 742 |
@@ -223,7 +223,7 @@
 | 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 344 | 3.93 | 921 |
 | 222 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 343 | 4.76 | 119 |
 | 223 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
-| 224 | [Dungeons 3](games/d/dungeons_3.md) | 327 | 4.66 | 273 |
+| 224 | [Dungeons 3](games/d/dungeons_3.md) | 328 | 4.66 | 273 |
 | 225 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 702 |
 | 226 | [Darkwood](games/d/darkwood.md) | 320 | 4.61 | 362 |
 | 226 | [MORDHAU](games/m/mordhau.md) | 320 | 4.41 | 672 |

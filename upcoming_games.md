@@ -99,7 +99,7 @@
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 3 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 4 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | - |  | - | - |

@@ -162,6 +162,7 @@
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
+| [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
 | [Fabular: Once Upon a Spacetime](../games/f/fabular__once_upon_a_spacetime.md) | 8 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |

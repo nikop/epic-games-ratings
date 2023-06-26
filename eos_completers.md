@@ -5,19 +5,19 @@
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 5 | [Volley Pals](games/v/volley_pals.md) | 24.07% |
-| 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.58% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.29% |
-| 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
-| 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
-| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
-| 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Remains](games/r/remains.md) | 12.50% |
-| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
-| 18 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
+| 6 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 22.22% |
+| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 9 | [Island Cities](games/i/island_cities.md) | 17.58% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.29% |
+| 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
+| 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
+| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
+| 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 16 | [Remains](games/r/remains.md) | 12.50% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
@@ -57,7 +57,7 @@
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 57 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
 | 59 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -65,8 +65,8 @@
 | 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.57% |
 | 64 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
-| 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
+| 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
+| 66 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -87,15 +87,15 @@
 | 85 | [Night Book](games/n/night_book.md) | 1.46% |
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
-| 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
+| 88 | [Five Dates](games/f/five_dates.md) | 1.32% |
 | 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.28% |
 | 90 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 92 | [Chorus](games/c/chorus.md) | 1.20% |
 | 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 94 | [Late Shift](games/l/late_shift.md) | 1.14% |
-| 95 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.13% |
-| 96 | [Trifox](games/t/trifox.md) | 1.12% |
+| 95 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.12% |
+| 95 | [Trifox](games/t/trifox.md) | 1.12% |
 | 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 98 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
 | 99 | [Sable](games/s/sable.md) | 0.95% |
@@ -126,8 +126,8 @@
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 127 | [Ghostrunner](games/g/ghostrunner.md) | 0.46% |
 | 127 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 128 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.44% |
 | 130 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 131 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
@@ -293,6 +293,7 @@
 | 229 | [ELEGIES Aya](games/e/elegies_aya.md) | 0.00% |
 | 229 | [Elypse](games/e/elypse.md) | 0.00% |
 | 229 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
+| 229 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 0.00% |
 | 229 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 229 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
 | 229 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
