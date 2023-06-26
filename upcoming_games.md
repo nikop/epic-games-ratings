@@ -36,6 +36,7 @@
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 10 (1,000 XP) | 0 | - | - |
 | [The Legend of Heroes: Trails into Reverie](games/t/the_legend_of_heroes__trails_into_reverie.md) | 2023-07-07 | - |  | - | - |
+| [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-07-11 | - |  | - | - |
 | [Xenonauts 2](games/x/xenonauts_2.md) | 2023-07-18 | - |  | - | - |
 | [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
@@ -62,7 +63,6 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-08-31 | - |  | - | - |
 | [Delicious Dungeon](games/c/cda7202896cf47ae9f4abfbfe542a937.md) | 2023-08-31 | - |  | - | - |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | - |  | - | - |
-| [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-08-31 | - |  | - | - |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 9 | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | - |  | - | - |
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | - |  | - | - |

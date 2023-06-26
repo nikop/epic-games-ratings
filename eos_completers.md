@@ -3,8 +3,8 @@
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.17% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 4 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 5 | [Volley Pals](games/v/volley_pals.md) | 24.07% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.58% |
@@ -26,7 +26,7 @@
 | 24 | [Smelter](games/s/smelter.md) | 8.11% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -57,7 +57,7 @@
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 57 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.84% |
+| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
 | 59 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -67,7 +67,7 @@
 | 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 68 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
+| 68 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
