@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
 | [Class of '09](games/4/4bb9340a10b14570b83fe6292e19619d.md) | 2023-06-27 | - |  | - | - |
 | [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2023-06-27 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
