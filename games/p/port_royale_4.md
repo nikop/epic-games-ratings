@@ -41,8 +41,8 @@ Number of Ratings: 53  (23.09.2022)
 | Flying Dutchman | 4.00% | ~28 |
 | Overpopulation | 4.00% | ~28 |
 | Premier Maître | 3.00% | ~21 |
+| Supreme conqueror | 3.00% | ~21 |
 | A true pirate! | 3.00% | ~21 |
-| Supreme conqueror | 2.00% | ~14 |
 | Strategist | 2.00% | ~14 |
 | The customer is always right | 2.00% | ~14 |
 | Master & Commander | 2.00% | ~14 |

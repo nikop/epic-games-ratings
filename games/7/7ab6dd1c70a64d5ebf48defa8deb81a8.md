@@ -11,6 +11,7 @@
 | A taste of wrath | 8.00% | ~1 |
 | Airborne | 8.00% | ~1 |
 | Shatter them all | 8.00% | ~1 |
+| Geared up | 8.00% | ~1 |
 | Fashion Victim | 8.00% | ~1 |
 | I found it | 8.00% | ~1 |
 | Stone collection | 8.00% | ~1 |
@@ -29,7 +30,6 @@
 | Flawless Victory | 0.00% | ~0 |
 | Big bazar | 0.00% | ~0 |
 | Fine feathers make fine birds | 0.00% | ~0 |
-| Geared up | 0.00% | ~0 |
 | All there is | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

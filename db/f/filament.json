@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -219,10 +219,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194580,
+  "EOS_Progressed": 194586,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 755,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 756,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -7209,6 +7209,11 @@
       "Time": "2023-06-26T13:22:50.8483783+00:00",
       "NumProgressed": 194580,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-06-26T14:06:04.3677802+00:00",
+      "NumProgressed": 194586,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 29,
@@ -7244,7 +7249,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182905
+      "UsersEstimate": 182911
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7268,7 +7273,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -7292,7 +7297,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5837
+      "UsersEstimate": 5838
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -7388,7 +7393,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5837
+      "UsersEstimate": 5838
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -7396,7 +7401,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -7404,7 +7409,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19458
+      "UsersEstimate": 19459
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -7451,7 +7456,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194580,
+      "Progressed": 194586,
       "Completed": 448
     }
   ],
@@ -7459,8 +7464,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-24T16:59:38.6856815+00:00",
-  "LastChanged_Achievements": "2023-06-26T13:22:50.8483778+00:00",
+  "LastChanged_Achievements": "2023-06-26T14:06:04.3677795+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:15:52.5612733+00:00",
-  "LastUpdate_Achievements": "2023-06-26T13:22:50.8484324+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:58:58.5065527+00:00",
+  "LastUpdate_Achievements": "2023-06-26T14:06:04.3678377+00:00"
 }

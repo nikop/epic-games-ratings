@@ -7,14 +7,14 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 60.00% | ~191 |
-| Cartographer | 53.00% | ~169 |
-| A Strange Artefact | 49.00% | ~156 |
-| Insomnia | 44.00% | ~140 |
+| Cartographer | 54.00% | ~172 |
+| A Strange Artefact | 50.00% | ~159 |
+| Insomnia | 45.00% | ~143 |
 | From Whence we Came | 41.00% | ~130 |
 | Lost & Found & Lost Again | 40.00% | ~127 |
 | Fire and Flood | 37.00% | ~118 |
 | Spooky! | 35.00% | ~111 |
-| Shennong Herbalist | 32.00% | ~102 |
+| Shennong Herbalist | 33.00% | ~105 |
 | Treasure Hunt | 32.00% | ~102 |
 | Good Mama | 31.00% | ~99 |
 | O Captain My Captain | 29.00% | ~92 |
@@ -29,9 +29,9 @@ Number of Ratings: 20  (23.09.2022)
 | Iron Man | 16.00% | ~51 |
 | For the Club! | 15.00% | ~48 |
 | Shortening of the Way | 15.00% | ~48 |
+| A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
 | The Director is Dead | 14.00% | ~45 |
-| A Gentle Beast | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
 | The New Director | 13.00% | ~41 |
 | Adventurer | 13.00% | ~41 |

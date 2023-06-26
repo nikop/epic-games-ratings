@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,998 (Ranked 72)  
+Progressed: 65,999 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
 | 2023-06-25 | 65,987 | 98 |
-| 2023-06-26 | 65,998 | 98 |
+| 2023-06-26 | 65,999 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,381  (Ranked 100)  
 Sum: 3,941 (Ranked 137)  

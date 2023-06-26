@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14937,
+  "EOS_Progressed": 14938,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -5456,6 +5456,11 @@
       "Time": "2023-06-26T13:20:09.8027591+00:00",
       "NumProgressed": 14937,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-26T14:03:30.4103614+00:00",
+      "NumProgressed": 14938,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 16,
@@ -5515,7 +5520,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -5594,15 +5599,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 14937,
+      "Progressed": 14938,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-06-26T13:20:09.8027587+00:00",
+  "LastChanged_Achievements": "2023-06-26T14:03:30.410361+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.5698436+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:16:03.1506211+00:00",
-  "LastUpdate_Achievements": "2023-06-26T13:20:09.8027926+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:59:08.9086781+00:00",
+  "LastUpdate_Achievements": "2023-06-26T14:03:30.4103954+00:00"
 }

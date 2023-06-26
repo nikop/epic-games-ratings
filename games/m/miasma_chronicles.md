@@ -29,11 +29,11 @@ Rating: 4.35 (Ranked 734)
 | Pushing Daisy | 27.00% | ~322 |
 | Experienced | 25.00% | ~298 |
 | There Can Be Only One! | 23.00% | ~274 |
+| Chain Killer | 22.00% | ~262 |
 | Endgame | 22.00% | ~262 |
 | Hold The Line | 22.00% | ~262 |
-| Chain Killer | 21.00% | ~250 |
 | Savior | 21.00% | ~250 |
-| The Watchers | 18.00% | ~214 |
+| The Watchers | 19.00% | ~226 |
 | Newtonian Knockout | 16.00% | ~191 |
 | Ruthless | 14.00% | ~167 |
 | Chaos Theory | 13.00% | ~155 |

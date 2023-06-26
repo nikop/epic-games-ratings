@@ -9,8 +9,8 @@ Number of Ratings: 118  (23.09.2022)
 | Alt+F4 | 93.00% | ~208 |
 | Where's that freaking Dwarf? | 88.00% | ~197 |
 | Sock! SOCK! | 71.00% | ~159 |
-| Fireproof Wizardess | 56.00% | ~125 |
-| Livin' in a dwarven paradise | 53.00% | ~119 |
+| Fireproof Wizardess | 57.00% | ~128 |
+| Livin' in a dwarven paradise | 54.00% | ~121 |
 | Déjà vu | 52.00% | ~116 |
 | GG EZ | 50.00% | ~112 |
 | DM intervention | 46.00% | ~103 |

@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,541 |
-| That's a Grand Army | 8.00% | ~4,926 |
-| That is mine! | 8.00% | ~4,926 |
-| Victorious! | 8.00% | ~4,926 |
-| Brothers in Arms | 6.00% | ~3,694 |
-| That's a Grand Navy | 6.00% | ~3,694 |
-| Seriously?! | 6.00% | ~3,694 |
+| Until death do us apart | 9.00% | ~5,543 |
+| That's a Grand Army | 8.00% | ~4,927 |
+| That is mine! | 8.00% | ~4,927 |
+| Victorious! | 8.00% | ~4,927 |
+| Brothers in Arms | 6.00% | ~3,695 |
+| That's a Grand Navy | 6.00% | ~3,695 |
+| Seriously?! | 6.00% | ~3,695 |
 | For the Glory | 5.00% | ~3,079 |
-| Cold War | 4.00% | ~2,463 |
-| True Catholic | 4.00% | ~2,463 |
-| Defender of the Faith | 3.00% | ~1,847 |
-| It's all about the money | 3.00% | ~1,847 |
-| Respected | 3.00% | ~1,847 |
-| Truly Divine Ruler | 3.00% | ~1,847 |
-| Agressive Expander | 2.00% | ~1,231 |
-| Blockader | 2.00% | ~1,231 |
-| Combined Arms | 2.00% | ~1,231 |
-| Double the Love | 2.00% | ~1,231 |
-| Gentle Persuasion | 2.00% | ~1,231 |
-| It's all about luck | 2.00% | ~1,231 |
-| My armies are invincible! | 2.00% | ~1,231 |
-| Queen of Conquest | 2.00% | ~1,231 |
-| Royal Authority | 2.00% | ~1,231 |
-| The Princess is in this Castle | 2.00% | ~1,231 |
-| Total Control | 2.00% | ~1,231 |
+| Cold War | 4.00% | ~2,464 |
+| True Catholic | 4.00% | ~2,464 |
+| Defender of the Faith | 3.00% | ~1,848 |
+| It's all about the money | 3.00% | ~1,848 |
+| Respected | 3.00% | ~1,848 |
+| Truly Divine Ruler | 3.00% | ~1,848 |
+| Agressive Expander | 2.00% | ~1,232 |
+| Blockader | 2.00% | ~1,232 |
+| Combined Arms | 2.00% | ~1,232 |
+| Double the Love | 2.00% | ~1,232 |
+| Gentle Persuasion | 2.00% | ~1,232 |
+| It's all about luck | 2.00% | ~1,232 |
+| My armies are invincible! | 2.00% | ~1,232 |
+| Queen of Conquest | 2.00% | ~1,232 |
+| Royal Authority | 2.00% | ~1,232 |
+| The Princess is in this Castle | 2.00% | ~1,232 |
+| Total Control | 2.00% | ~1,232 |
 | All That's Thine Shall Be Mine | 1.00% | ~616 |
 | Azur semé de lis or | 1.00% | ~616 |
 | Bright Spark | 1.00% | ~616 |
@@ -45,11 +45,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~493 |
 | Trustworthy | 0.80% | ~493 |
 | Electable! | 0.70% | ~431 |
-| All belongs to Mother Russia | 0.60% | ~369 |
-| At every continent | 0.60% | ~369 |
-| Populists in Government | 0.60% | ~369 |
-| This is My Faith | 0.60% | ~369 |
-| Time Bandit | 0.60% | ~369 |
+| All belongs to Mother Russia | 0.60% | ~370 |
+| At every continent | 0.60% | ~370 |
+| Populists in Government | 0.60% | ~370 |
+| This is My Faith | 0.60% | ~370 |
+| Time Bandit | 0.60% | ~370 |
 | Early-Modern Warfare | 0.50% | ~308 |
 | One Family to Rule them All | 0.50% | ~308 |
 | Ruina Imperii | 0.50% | ~308 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,572 (Ranked 77)  
+Progressed: 61,589 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -428,10 +428,10 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 60,125 | 0 |
 | 2023-06-24 | 60,738 | 0 |
 | 2023-06-25 | 61,352 | 0 |
-| 2023-06-26 | 61,572 | 0 |
+| 2023-06-26 | 61,589 | 0 |
 ## Awards
 Max (Educational): 5,452  (Ranked 61)  
-Sum: 45,042 (Ranked 27)  
+Sum: 45,044 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -441,7 +441,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 5,175 |
 | This game has Diverse Characters | 5,134 |
 | This game is Relaxing | 5,054 |
-| This game has Competitive Players | 4,900 |
+| This game has Competitive Players | 4,902 |
 | This game has Amazing Storytelling | 4,628 |
 | This game has Amazing Characters | 4,279 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -608,4 +608,4 @@ Diff (max vs sum): 34
 | 2023-06-23 | 4.68 | - | 5,442 | 44,966 |
 | 2023-06-24 | 4.69 | - | 5,449 | 45,003 |
 | 2023-06-25 | 4.69 | - | 5,449 | 45,038 |
-| 2023-06-26 | 4.69 | - | 5,452 | 45,042 |
+| 2023-06-26 | 4.69 | - | 5,452 | 45,044 |

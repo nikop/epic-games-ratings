@@ -355,9 +355,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "ach-campaign-story2",
@@ -395,9 +395,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "ach-discover-locations-high",
@@ -507,9 +507,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -563,9 +563,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "ach-pacifist-goals",
@@ -619,9 +619,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-rideDinosaur",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-06-26T13:23:07.4877603+00:00",
+  "LastChanged_Achievements": "2023-06-26T14:06:21.1117478+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:54.4063735+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:17:32.3702353+00:00",
-  "LastUpdate_Achievements": "2023-06-26T13:23:07.487807+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:00:43.149617+00:00",
+  "LastUpdate_Achievements": "2023-06-26T14:06:21.1118315+00:00"
 }

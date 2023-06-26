@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.69,
+  "EOS_Completed_Percentage": 11.67,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1401,6 +1401,11 @@
       "Time": "2023-06-26T04:05:29.6726848+00:00",
       "NumProgressed": 479,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-26T14:04:50.1496134+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 30,
@@ -1412,7 +1417,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "LEVEL_002",
@@ -1420,7 +1425,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "LEVEL_003",
@@ -1436,7 +1441,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "LEVEL_005",
@@ -1450,17 +1455,17 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 173
     },
     {
       "ID": "LEVEL_008",
@@ -1498,9 +1503,9 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_013",
@@ -1532,7 +1537,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_017",
@@ -1651,14 +1656,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-26T13:21:37.207208+00:00",
+  "LastChanged_Achievements": "2023-06-26T14:04:50.1496126+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.2112754+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:14:12.9336618+00:00",
-  "LastUpdate_Achievements": "2023-06-26T13:21:37.2072347+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:57:21.8983993+00:00",
+  "LastUpdate_Achievements": "2023-06-26T14:04:50.1496478+00:00"
 }

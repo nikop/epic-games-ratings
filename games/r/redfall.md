@@ -40,11 +40,11 @@ Rating: 3.51 (Ranked 945)
 | Sic Transit Umbra | 3.00% | ~51 |
 | Good Morning | 3.00% | ~51 |
 | Check, Please! | 3.00% | ~51 |
+| Blacklight Down | 3.00% | ~51 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
 | Harvest’s End | 2.00% | ~34 |
-| Blacklight Down | 2.00% | ~34 |
 | Dexterity Save | 2.00% | ~34 |
 | Curious Finch | 2.00% | ~34 |
 | Neighborhood Watch | 1.00% | ~17 |

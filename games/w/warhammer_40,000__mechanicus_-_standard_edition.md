@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,873 |
-| This is only the beginning | 19.00% | ~40,943 |
-| Knowledge is power | 12.00% | ~25,859 |
-| Power Ranger | 9.00% | ~19,394 |
-| Galvanic Rifle | 9.00% | ~19,394 |
-| Taser Goad | 9.00% | ~19,394 |
-| Radium Ready | 9.00% | ~19,394 |
-| Half a cog | 9.00% | ~19,394 |
+| No aid from the Omnissiah | 25.00% | ~53,875 |
+| This is only the beginning | 19.00% | ~40,945 |
+| Knowledge is power | 12.00% | ~25,860 |
+| Power Ranger | 9.00% | ~19,395 |
+| Galvanic Rifle | 9.00% | ~19,395 |
+| Taser Goad | 9.00% | ~19,395 |
+| Radium Ready | 9.00% | ~19,395 |
+| Half a cog | 9.00% | ~19,395 |
 | Watch them crumble | 6.00% | ~12,930 |
 | Competent Cohort | 4.00% | ~8,620 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,620 |
@@ -29,18 +29,18 @@ Rating: 4.43 (Ranked 651)
 | False God | 0.30% | ~646 |
 | Hard | 0.20% | ~431 |
 | Transonic Blur | 0.20% | ~431 |
-| Sterile Perfection | 0.10% | ~215 |
-| Impossible | 0.10% | ~215 |
-| Sensory overload | 0.10% | ~215 |
-| Melee Machine | 0.10% | ~215 |
-| AoE-phobia | 0.10% | ~215 |
-| Zero to Hero | 0.10% | ~215 |
-| No Omnissian Guidance | 0.10% | ~215 |
-| Not the Men-of-Iron | 0.10% | ~215 |
-| Perma-live | 0.10% | ~215 |
-| Purge the Heretek | 0.10% | ~215 |
+| Sterile Perfection | 0.10% | ~216 |
+| Impossible | 0.10% | ~216 |
+| Sensory overload | 0.10% | ~216 |
+| Melee Machine | 0.10% | ~216 |
+| AoE-phobia | 0.10% | ~216 |
+| Zero to Hero | 0.10% | ~216 |
+| No Omnissian Guidance | 0.10% | ~216 |
+| Not the Men-of-Iron | 0.10% | ~216 |
+| Perma-live | 0.10% | ~216 |
+| Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,492 (Ranked 50)  
+Progressed: 215,500 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 4 (0.00%) (Ranked 229)
 | 2023-06-23 | 215,180 | 4 |
 | 2023-06-24 | 215,318 | 4 |
 | 2023-06-25 | 215,441 | 4 |
-| 2023-06-26 | 215,492 | 4 |
+| 2023-06-26 | 215,500 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 236)  
 Sum: 2,112 (Ranked 188)  

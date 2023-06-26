@@ -229,9 +229,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared up",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_24",
@@ -347,7 +347,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-06-26T13:20:10.3308144+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:13:58.6897276+00:00",
-  "LastUpdate_Achievements": "2023-06-26T13:20:10.3308421+00:00"
+  "LastChanged_Achievements": "2023-06-26T14:03:31.028281+00:00",
+  "LastUpdate_Ratings": "2023-06-26T13:57:07.8144084+00:00",
+  "LastUpdate_Achievements": "2023-06-26T14:03:31.0283148+00:00"
 }

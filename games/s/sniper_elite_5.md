@@ -9,6 +9,7 @@ Rating: 4.47 (Ranked 593)
 | Confirming Suspicions | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
 | Lord of War | 2.00% | ~63 |
+| As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
 | It's Starting to Crack | 2.00% | ~63 |
 | Change the Channel | 2.00% | ~63 |
@@ -24,22 +25,21 @@ Rating: 4.47 (Ranked 593)
 | Set Europe Ablaze | 1.00% | ~31 |
 | Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
-| As Quiet as a Mouse | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | Snake in the Grass | 1.00% | ~31 |
 | Climbing the Ladder | 0.90% | ~28 |
 | Brains of the Operation | 0.90% | ~28 |
 | No Stone Unturned | 0.70% | ~22 |
+| Opposing Force | 0.70% | ~22 |
 | Precision Is Key | 0.70% | ~22 |
 | Rigged to Blow | 0.70% | ~22 |
 | My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
-| Opposing Force | 0.60% | ~19 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
+| Shipbreaker | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~15 |
-| Shipbreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
@@ -49,6 +49,7 @@ Rating: 4.47 (Ranked 593)
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
+| Going Overboard | 0.40% | ~12 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
@@ -57,7 +58,6 @@ Rating: 4.47 (Ranked 593)
 | Road Rage | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
-| Going Overboard | 0.30% | ~9 |
 | The Long Game | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
@@ -68,6 +68,7 @@ Rating: 4.47 (Ranked 593)
 | Covert Elimination | 0.20% | ~6 |
 | Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
+| Stroll in the Woods | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
@@ -75,7 +76,6 @@ Rating: 4.47 (Ranked 593)
 | Master-at-arms | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
-| Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,142 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  

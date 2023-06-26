@@ -22,10 +22,10 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,200 |
 | The Lion of the Isonzo | 18.00% | ~1,137 |
 | Ragazzi del '99 | 17.00% | ~1,074 |
+| Luigi Cadorna | 14.00% | ~885 |
 | Thus With A Kiss | 14.00% | ~885 |
 | Uomo Universale | 14.00% | ~885 |
 | Dirty Dozen | 13.00% | ~821 |
-| Luigi Cadorna | 13.00% | ~821 |
 | Shaken, Not Stirred | 13.00% | ~821 |
 | Machiavelli | 12.00% | ~758 |
 | Die Bosniaken Kommen! | 11.00% | ~695 |
