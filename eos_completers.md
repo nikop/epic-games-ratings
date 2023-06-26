@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.63% |
+| 8 | [Island Cities](games/i/island_cities.md) | 17.58% |
 | 9 | [Sonic Origins](games/s/sonic_origins.md) | 14.74% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
@@ -26,7 +26,7 @@
 | 24 | [Smelter](games/s/smelter.md) | 8.11% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -71,9 +71,9 @@
 | 69 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
+| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.96% |
 | 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
 | 76 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -147,10 +147,10 @@
 | 145 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 146 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 146 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 148 | [Aegis Descent](games/a/aegis_descent.md) | 0.26% |
-| 149 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 149 | [Blanc](games/b/blanc.md) | 0.25% |
-| 149 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 148 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 148 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
+| 148 | [Blanc](games/b/blanc.md) | 0.25% |
+| 148 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 152 | [Filament](games/f/filament.md) | 0.23% |
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 153 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
@@ -437,6 +437,7 @@
 | 229 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
 | 229 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
 | 229 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 0.00% |
+| 229 | [The Devil's Face](games/t/the_devil's_face.md) | 0.00% |
 | 229 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 0.00% |
 | 229 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 229 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |

@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [One Lonely Outpost](games/o/one_lonely_outpost.md) | 2023-06-26 | - |  | - | - |
 | [SOULVARS](games/1/188fb42582e24d20b0a876ed817efd69.md) | 2023-06-26 | - |  | - | - |
 | [Class of '09](games/4/4bb9340a10b14570b83fe6292e19619d.md) | 2023-06-27 | - |  | - | - |
 | [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2023-06-27 | - |  | - | - |
@@ -101,7 +100,7 @@
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 0 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 3 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | - |  | - | - |
