@@ -6,9 +6,9 @@
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2481,
+  "EOS_Progressed": 2482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2872,6 +2872,11 @@
       "Time": "2023-06-26T21:07:51.6128124+00:00",
       "NumProgressed": 2481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T23:05:44.4875056+00:00",
+      "NumProgressed": 2482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3027,7 +3032,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -3195,7 +3200,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -3203,7 +3208,7 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -3235,7 +3240,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -3251,7 +3256,7 @@
       "Name": "Welcome to the family",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3259,22 +3264,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2481,
+      "Progressed": 2482,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-26T16:59:04.2588854+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:05:59.0803102+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:05:44.4875051+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.8726484+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:59:07.5558283+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:05:59.0803635+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:58:45.0702169+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:05:44.4875467+00:00"
 }

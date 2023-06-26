@@ -6,9 +6,9 @@
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1650,7 +1650,7 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 19768,
+  "EOS_Progressed": 19769,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -5135,6 +5135,11 @@
       "Time": "2023-06-26T22:05:49.5345321+00:00",
       "NumProgressed": 19768,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-26T23:05:35.0765935+00:00",
+      "NumProgressed": 19769,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5144,9 +5149,9 @@
       "ID": "BigFamily",
       "SetID": "d0jo315",
       "Name": "Family man",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2372
     },
     {
       "ID": "CarMechanic",
@@ -5194,7 +5199,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18582
+      "UsersEstimate": 18583
     },
     {
       "ID": "GameOver",
@@ -5329,15 +5334,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19768,
+      "Progressed": 19769,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-26T19:59:53.2368173+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:05:49.5345318+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:05:35.0765931+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.5603172+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:59:30.3781597+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:05:49.5345676+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:59:04.4246142+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:05:35.0766217+00:00"
 }

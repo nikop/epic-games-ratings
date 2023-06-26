@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hurdles Pro | 43.00% | ~3 |
 | Watched a movie | 43.00% | ~3 |
 | Gymnastics Pro | 29.00% | ~2 |
-| Hurdles Pro | 29.00% | ~2 |
 | Pole Vault Pro | 29.00% | ~2 |
 | Skiing Pro | 29.00% | ~2 |
 | Tennis Pro | 29.00% | ~2 |
@@ -16,7 +16,7 @@
 | Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7 (Ranked 395)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

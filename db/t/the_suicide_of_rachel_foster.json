@@ -6,9 +6,9 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.12,
+  "EOS_Completed_Percentage": 5.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1282,6 +1282,11 @@
       "Time": "2023-06-26T02:34:40.7917383+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-06-26T23:05:37.1446635+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 11,
@@ -1301,7 +1306,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_Cacciavite",
@@ -1309,7 +1314,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1325,7 +1330,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_FineEV9",
@@ -1341,7 +1346,7 @@
       "Name": "All together, again",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1357,7 +1362,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1380,15 +1385,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 61
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:05:51.512102+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:05:37.144663+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:15.9980245+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:00:01.4039575+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:05:51.5121171+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:59:33.5135574+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:05:37.1446758+00:00"
 }

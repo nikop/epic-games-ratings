@@ -8,16 +8,16 @@
 | Accessory Unlocked | 83.00% | ~50 |
 | Character Unlocked | 82.00% | ~49 |
 | Homer | 67.00% | ~40 |
+| Settle Down | 65.00% | ~39 |
+| Have a good trip! | 65.00% | ~39 |
 | First Win | 63.00% | ~38 |
-| Settle Down | 63.00% | ~38 |
-| Have a good trip! | 63.00% | ~38 |
 | Kickball Unlocked | 62.00% | ~37 |
 | Butter Fingers | 62.00% | ~37 |
 | Stay Hydrated | 62.00% | ~37 |
 | True Story! | 35.00% | ~21 |
 | Bedroom Secret Spot | 32.00% | ~19 |
+| Grand Slam! | 30.00% | ~18 |
 | Kick It | 30.00% | ~18 |
-| Grand Slam! | 28.00% | ~17 |
 | Have Mercy | 23.00% | ~14 |
 | Save some water for the fishies | 20.00% | ~12 |
 | Spooky | 20.00% | ~12 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 320)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

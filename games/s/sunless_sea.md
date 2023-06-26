@@ -6,43 +6,43 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,610 |
-| Sweet Sorrow | 18.00% | ~5,805 |
-| Rules the Waves | 17.00% | ~5,482 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,837 |
-| Rival | 14.00% | ~4,515 |
+| Sink Beneath the Waves | 36.00% | ~11,611 |
+| Sweet Sorrow | 18.00% | ~5,806 |
+| Rules the Waves | 17.00% | ~5,483 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,838 |
+| Rival | 14.00% | ~4,516 |
 | Correspondent | 12.00% | ~3,870 |
 | Lose Your Mind | 12.00% | ~3,870 |
 | Sound Mind? | 12.00% | ~3,870 |
-| Salt's Curse | 11.00% | ~3,547 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,547 |
-| The Fall of the House | 11.00% | ~3,547 |
-| Shipmate | 11.00% | ~3,547 |
+| Salt's Curse | 11.00% | ~3,548 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,548 |
+| The Fall of the House | 11.00% | ~3,548 |
+| Shipmate | 11.00% | ~3,548 |
 | One Year at Zee | 8.00% | ~2,580 |
-| Pupil | 7.00% | ~2,257 |
-| Salvager | 7.00% | ~2,257 |
-| Open Your Ears | 7.00% | ~2,257 |
-| The Ascent of Man | 7.00% | ~2,257 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,612 |
-| Zee Fever | 5.00% | ~1,612 |
+| Pupil | 7.00% | ~2,258 |
+| Salvager | 7.00% | ~2,258 |
+| Open Your Ears | 7.00% | ~2,258 |
+| The Ascent of Man | 7.00% | ~2,258 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,613 |
+| Zee Fever | 5.00% | ~1,613 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,290 |
-| Storm's Curse | 3.00% | ~967 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~967 |
-| Come Closer | 3.00% | ~967 |
+| Storm's Curse | 3.00% | ~968 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~968 |
+| Come Closer | 3.00% | ~968 |
 | Roaring Rise | 2.00% | ~645 |
 | I am the Captain of my Soul | 2.00% | ~645 |
-| A buoyant escape | 1.00% | ~322 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~322 |
-| The Bell Tolls | 1.00% | ~322 |
-| His bones in whispers | 1.00% | ~322 |
-| The beauty of the deep | 1.00% | ~322 |
-| The dragon in the zee | 1.00% | ~322 |
-| Thanks for all the fish | 1.00% | ~322 |
-| Knife, Cup and Bone | 1.00% | ~322 |
-| Those are pearls that were his eyes | 1.00% | ~322 |
-| Rosewater sailor | 1.00% | ~322 |
-| Under the zee | 1.00% | ~322 |
-| A current under zee | 1.00% | ~322 |
+| A buoyant escape | 1.00% | ~323 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~323 |
+| The Bell Tolls | 1.00% | ~323 |
+| His bones in whispers | 1.00% | ~323 |
+| The beauty of the deep | 1.00% | ~323 |
+| The dragon in the zee | 1.00% | ~323 |
+| Thanks for all the fish | 1.00% | ~323 |
+| Knife, Cup and Bone | 1.00% | ~323 |
+| Those are pearls that were his eyes | 1.00% | ~323 |
+| Rosewater sailor | 1.00% | ~323 |
+| Under the zee | 1.00% | ~323 |
+| A current under zee | 1.00% | ~323 |
 | A zee-change | 0.90% | ~290 |
 | Never Stop Sinking... | 0.90% | ~290 |
 | Leviathan | 0.90% | ~290 |
@@ -51,9 +51,9 @@ Number of Ratings: 401  (23.09.2022)
 | What lies beneath | 0.80% | ~258 |
 | Stone's Curse | 0.70% | ~226 |
 | Five Years at Zee | 0.50% | ~161 |
-| The Lady's Parlour | 0.20% | ~64 |
-| A Past Wreathed in Shadows | 0.20% | ~64 |
-| Under pressure | 0.20% | ~64 |
+| The Lady's Parlour | 0.20% | ~65 |
+| A Past Wreathed in Shadows | 0.20% | ~65 |
+| Under pressure | 0.20% | ~65 |
 | A Drownie devotee | 0.10% | ~32 |
 | Romans 6:9 | 0.10% | ~32 |
 | Ofermod | 0.10% | ~32 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,249 (Ranked 91)  
-Completed: 3 (0.01%) (Ranked 217)  
+Progressed: 32,254 (Ranked 91)  
+Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-23 | 32,026 | 3 |
 | 2023-06-24 | 32,110 | 3 |
 | 2023-06-25 | 32,182 | 3 |
-| 2023-06-26 | 32,249 | 3 |
+| 2023-06-26 | 32,254 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 278 (Ranked 336)  

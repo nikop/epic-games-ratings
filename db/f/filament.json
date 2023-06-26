@@ -6,7 +6,7 @@
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 52,
-  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
@@ -169,18 +169,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 671,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-06-26T22:58:32.6564691+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 672,
+      "NumberOfAwardsMax": 558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 671,
-  "NumberOfAwardsMax": 557,
+  "NumberOfAwards": 672,
+  "NumberOfAwardsMax": 558,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 557
+      "Count": 558
     },
     {
       "Text": "This game is Highly Recommended",
@@ -219,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194641,
+  "EOS_Progressed": 194645,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -7254,6 +7260,11 @@
       "Time": "2023-06-26T22:05:48.5540375+00:00",
       "NumProgressed": 194641,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-06-26T23:05:34.0897479+00:00",
+      "NumProgressed": 194645,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 29,
@@ -7289,7 +7300,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 182963
+      "UsersEstimate": 182966
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7297,7 +7308,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -7321,7 +7332,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -7361,7 +7372,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -7401,7 +7412,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11678
+      "UsersEstimate": 11679
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -7473,7 +7484,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -7496,16 +7507,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194641,
+      "Progressed": 194645,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-06-24T16:59:38.6856815+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:05:48.5540371+00:00",
+  "LastChanged": "2023-06-26T22:58:32.656469+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:05:34.0897477+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:58:51.7796891+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:05:48.554099+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:58:32.6564694+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:05:34.0897956+00:00"
 }

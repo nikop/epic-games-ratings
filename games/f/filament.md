@@ -5,10 +5,10 @@ Rating: 4.32 (Ranked 759)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~182,963 |
+| Boarded! | 94.00% | ~182,966 |
 | Snooper. | 10.00% | ~19,464 |
 | You have to start somewhere, right? | 7.00% | ~13,625 |
-| So you're saying I don't touch these ones? | 6.00% | ~11,678 |
+| So you're saying I don't touch these ones? | 6.00% | ~11,679 |
 | Corrupted. | 5.00% | ~9,732 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~9,732 |
 | Answers can be found amongst the stars | 3.00% | ~5,839 |
@@ -25,18 +25,18 @@ Rating: 4.32 (Ranked 759)
 | That's a wrap. | 2.00% | ~3,893 |
 | In balance. | 2.00% | ~3,893 |
 | I hope you're ready. | 1.00% | ~1,946 |
-| Bridge crossed. | 0.70% | ~1,362 |
-| Cockpit | 0.70% | ~1,362 |
-| Names to faces. | 0.70% | ~1,362 |
-| Witness it. | 0.70% | ~1,362 |
+| Bridge crossed. | 0.70% | ~1,363 |
+| Cockpit | 0.70% | ~1,363 |
+| Names to faces. | 0.70% | ~1,363 |
+| Witness it. | 0.70% | ~1,363 |
 | A full deck. | 0.60% | ~1,168 |
 | 14237b6509eafd8c | 0.60% | ~1,168 |
 | No Anchor too great. | 0.50% | ~973 |
 | Snooper + | 0.40% | ~779 |
 | Corrupted + | 0.30% | ~584 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,641 (Ranked 52)  
-Completed: 448 (0.23%) (Ranked 152)  
+Progressed: 194,645 (Ranked 52)  
+Completed: 448 (0.23%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,14 +102,14 @@ Completed: 448 (0.23%) (Ranked 152)
 | 2023-06-23 | 194,287 | 448 |
 | 2023-06-24 | 194,408 | 448 |
 | 2023-06-25 | 194,537 | 448 |
-| 2023-06-26 | 194,641 | 448 |
+| 2023-06-26 | 194,645 | 448 |
 ## Awards
-Max (Challenging Puzzles): 557  (Ranked 181)  
-Sum: 671 (Ranked 272)  
+Max (Challenging Puzzles): 558  (Ranked 181)  
+Sum: 672 (Ranked 272)  
 Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 557 |
+| This game features Challenging Puzzles | 558 |
 | This game has Amazing Characters | 25 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
@@ -142,3 +142,4 @@ Diff (max vs sum): -91
 | 2023-06-08 | 4.32 | 554 | 668 |
 | 2023-06-21 | 4.32 | 555 | 669 |
 | 2023-06-24 | 4.32 | 557 | 671 |
+| 2023-06-26 | 4.32 | 558 | 672 |

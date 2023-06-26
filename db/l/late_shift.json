@@ -3,9 +3,9 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -727,6 +727,6 @@
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
   "LastChanged_Achievements": "2023-06-26T22:02:11.4337355+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:18.2029635+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:57:53.4949952+00:00",
+  "LastUpdate_Ratings": "2023-06-26T22:57:40.7369389+00:00",
   "LastUpdate_Achievements": "2023-06-26T22:02:11.4337534+00:00"
 }

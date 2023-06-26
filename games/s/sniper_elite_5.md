@@ -32,8 +32,8 @@ Rating: 4.47 (Ranked 593)
 | No Stone Unturned | 0.80% | ~25 |
 | Precision Is Key | 0.80% | ~25 |
 | Rigged to Blow | 0.80% | ~25 |
+| My Little Friend | 0.80% | ~25 |
 | Opposing Force | 0.70% | ~22 |
-| My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,147 (Ranked 144)  
-Completed: 3 (0.10%) (Ranked 174)  
+Completed: 3 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

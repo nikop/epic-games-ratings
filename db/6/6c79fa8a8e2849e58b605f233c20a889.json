@@ -3,9 +3,9 @@
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2786,6 +2786,11 @@
       "Time": "2023-06-26T22:04:22.1848917+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T23:04:07.3277796+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2835,9 +2840,9 @@
       "ID": "EXPRESS_YOURSELF",
       "SetID": "8lhbnh7",
       "Name": "Express Yourself",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "FACE_FACE",
@@ -2851,9 +2856,9 @@
       "ID": "FACE_SCREEN_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Screen-To-Face",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 89
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -2883,9 +2888,9 @@
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 53
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -2972,14 +2977,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1782,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:04:22.1848913+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:04:07.3277792+00:00",
   "LastUpdate_AppInfo": "2023-06-20T16:57:11.3602625+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:57:18.5318291+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:04:22.1849236+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:57:06.4685542+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:04:07.3278051+00:00"
 }

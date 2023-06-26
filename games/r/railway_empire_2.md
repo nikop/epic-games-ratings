@@ -21,7 +21,7 @@ Rating: 4.33 (Ranked 753)
 | Poor Devil | 53.00% | ~734 |
 | Producer | 50.00% | ~692 |
 | Apprentice | 41.00% | ~568 |
-| Bridge Builder | 40.00% | ~554 |
+| Bridge Builder | 41.00% | ~568 |
 | Access granted | 35.00% | ~485 |
 | Going once, going twice, sold | 34.00% | ~471 |
 | Stoker | 32.00% | ~443 |
@@ -62,7 +62,7 @@ Rating: 4.33 (Ranked 753)
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,385 (Ranked 169)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

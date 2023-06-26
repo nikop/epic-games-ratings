@@ -3,9 +3,9 @@
   "Name": "Wildmender",
   "ProductSlug": "wildmender-29ca3c",
   "Ranking_EOS_Progress": 473,
-  "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 230,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-24T00:00:42.4552488+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:00:23.0092871+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:03:05.2426695+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:59:49.9447194+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:02:28.2260056+00:00"
 }

@@ -9,7 +9,7 @@
 | Spyglass | 84.00% | ~146 |
 | Broken toy | 78.00% | ~136 |
 | Egghead Lucy | 75.00% | ~130 |
-| Puppy | 62.00% | ~108 |
+| Puppy | 63.00% | ~110 |
 | Coal's fur | 58.00% | ~101 |
 | Blue's drawing | 54.00% | ~94 |
 | Mysterious footprints | 47.00% | ~82 |
@@ -32,7 +32,7 @@
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 174 (Ranked 269)  
-Completed: 0 (0.00%) (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~631 |
-| Space Colonization | 80.00% | ~521 |
-| Friendzone | 79.00% | ~514 |
-| Hello World | 75.00% | ~488 |
-| Space Engineer | 63.00% | ~410 |
-| Tinkerer | 63.00% | ~410 |
-| Dust to Dust | 57.00% | ~371 |
+| Don't Panic! | 97.00% | ~632 |
+| Space Colonization | 80.00% | ~522 |
+| Friendzone | 79.00% | ~515 |
+| Hello World | 74.00% | ~482 |
+| Space Engineer | 63.00% | ~411 |
+| Tinkerer | 63.00% | ~411 |
+| Dust to Dust | 57.00% | ~372 |
 | Across The Stars | 47.00% | ~306 |
 | Crafty | 45.00% | ~293 |
-| All Seats Taken | 36.00% | ~234 |
+| All Seats Taken | 36.00% | ~235 |
 | For Science! | 33.00% | ~215 |
 | Meet the Petersons | 31.00% | ~202 |
-| Stay Cool | 28.00% | ~182 |
-| KIA | 26.00% | ~169 |
+| Stay Cool | 28.00% | ~183 |
+| KIA | 26.00% | ~170 |
 | Mutiny in making | 23.00% | ~150 |
 | Et tu, Astrocitizen? | 19.00% | ~124 |
 | Eco-Shuttle | 18.00% | ~117 |
@@ -49,8 +49,8 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 200)  
-Completed: 1 (0.15%) (Ranked 165)  
+Progressed: 652 (Ranked 200)  
+Completed: 1 (0.15%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 1 (0.15%) (Ranked 165)
 | 2023-06-21 | 646 | 1 |
 | 2023-06-23 | 648 | 1 |
 | 2023-06-24 | 650 | 1 |
-| 2023-06-26 | 651 | 1 |
+| 2023-06-26 | 652 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

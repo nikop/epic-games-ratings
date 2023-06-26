@@ -6,9 +6,9 @@
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -804,7 +804,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6028,
+  "EOS_Progressed": 6029,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3559,6 +3559,11 @@
       "Time": "2023-06-26T15:04:44.3028131+00:00",
       "NumProgressed": 6028,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T23:04:37.213962+00:00",
+      "NumProgressed": 6029,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3634,7 +3639,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3674,7 +3679,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "First_Race_Met",
@@ -3682,7 +3687,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "First_Ship_Designed",
@@ -3706,7 +3711,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3874,7 +3879,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -3890,7 +3895,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4145,15 +4150,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6028,
+      "Progressed": 6029,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-06-26T22:04:51.3898622+00:00",
+  "LastChanged_Achievements": "2023-06-26T23:04:37.2139615+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.2479872+00:00",
-  "LastUpdate_Ratings": "2023-06-26T21:57:37.7435581+00:00",
-  "LastUpdate_Achievements": "2023-06-26T22:04:51.38995+00:00"
+  "LastUpdate_Ratings": "2023-06-26T22:57:26.1249971+00:00",
+  "LastUpdate_Achievements": "2023-06-26T23:04:37.214041+00:00"
 }

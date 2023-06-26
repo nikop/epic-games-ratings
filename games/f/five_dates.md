@@ -11,7 +11,7 @@
 | Only Thyme Will Tell | 32.00% | ~145 |
 | We Go Again | 32.00% | ~145 |
 | Not Alone | 30.00% | ~136 |
-| In Contempt of Duvet | 28.00% | ~127 |
+| In Contempt of Duvet | 29.00% | ~131 |
 | Booty Call | 27.00% | ~122 |
 | Planting the Seed | 21.00% | ~95 |
 | Light Sleepers | 17.00% | ~77 |
@@ -21,7 +21,7 @@
 | Crash and Burn | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 453 (Ranked 214)  
-Completed: 6 (1.32%) (Ranked 88)  
+Completed: 6 (1.32%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
