@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -948,9 +948,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3839,
+  "EOS_Progressed": 3842,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5118,6 +5118,11 @@
       "Time": "2023-06-26T19:04:50.659172+00:00",
       "NumProgressed": 3839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T21:04:29.3354832+00:00",
+      "NumProgressed": 3842,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5153,7 +5158,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -5169,7 +5174,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -5185,7 +5190,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5201,7 +5206,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5217,7 +5222,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -5225,7 +5230,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5249,7 +5254,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5273,7 +5278,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -5281,7 +5286,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5289,7 +5294,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2918
+      "UsersEstimate": 2920
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5313,7 +5318,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5321,7 +5326,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_MYWAYS",
@@ -5385,7 +5390,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5401,7 +5406,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5417,7 +5422,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -5431,9 +5436,9 @@
       "ID": "ACH_WONDER_FRENCHCONNECTION",
       "SetID": "1p8ab95",
       "Name": "French Connection",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5448,15 +5453,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3839,
+      "Progressed": 3842,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-25T09:00:50.0620822+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:04:15.4907679+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:04:29.3354827+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:00:34.8358331+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:04:15.4908161+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:01:37.1880364+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:04:29.3355556+00:00"
 }

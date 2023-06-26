@@ -4,11 +4,11 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 339,
-  "Ranking_EOS_Progress": 472,
+  "Ranking_PopularitySum": 338,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -451,10 +451,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-06-26T20:58:19.8185659+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -492,7 +498,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Competitive Players",
@@ -536,8 +542,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-06-20T21:58:15.9383753+00:00",
+  "LastChanged": "2023-06-26T20:58:19.8185657+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:20.5227116+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:58:15.0167418+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:05:05.9379515+00:00"
+  "LastUpdate_Ratings": "2023-06-26T20:58:19.8185665+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:05:50.9364418+00:00"
 }

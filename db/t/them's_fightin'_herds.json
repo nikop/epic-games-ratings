@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224908,
+  "EOS_Progressed": 224910,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7144,6 +7144,11 @@
       "Time": "2023-06-26T20:03:30.8495463+00:00",
       "NumProgressed": 224908,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-26T21:03:26.5932233+00:00",
+      "NumProgressed": 224910,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -7219,7 +7224,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80967
+      "UsersEstimate": 80968
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -7363,7 +7368,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38234
+      "UsersEstimate": 38235
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -7378,7 +7383,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 224908,
+      "Progressed": 224910,
       "Completed": 3
     }
   ],
@@ -7386,8 +7391,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:03:30.8495459+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:03:26.5932228+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:56.2681506+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:00:12.4755566+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:03:30.8496093+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:01:09.046+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:03:26.5933059+00:00"
 }

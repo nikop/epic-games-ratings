@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -277,9 +277,9 @@
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "mikey_lizard",
@@ -301,9 +301,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -341,9 +341,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -366,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:06:28.6842667+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:07:49.7150918+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:05.3081097+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:00:17.3330243+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:06:28.6842795+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:01:16.554123+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:07:49.7151076+00:00"
 }

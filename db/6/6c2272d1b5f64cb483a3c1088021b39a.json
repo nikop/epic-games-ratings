@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1705,9 +1705,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 171
     },
     {
       "ID": "adventurous_2",
@@ -2240,8 +2240,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:03:06.947924+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:02:32.483693+00:00",
   "LastUpdate_AppInfo": "2023-06-19T22:59:30.0864038+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:57:30.2706438+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:03:06.9479996+00:00"
+  "LastUpdate_Ratings": "2023-06-26T20:57:15.3530139+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:02:32.4837863+00:00"
 }

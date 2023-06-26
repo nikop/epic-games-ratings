@@ -37,14 +37,14 @@
 | Sump Explorer | 7.00% | ~51 |
 | Theater Explorer | 7.00% | ~51 |
 | Good Neighbor | 7.00% | ~51 |
-| Corin Goes Home | 6.00% | ~43 |
-| Sartorialist | 6.00% | ~43 |
-| Cultivair Explorer | 6.00% | ~43 |
-| Entresol Explorer | 6.00% | ~43 |
-| Factorywood Explorer | 6.00% | ~43 |
-| Fairgrounds Explorer | 6.00% | ~43 |
-| Syron for Hope | 6.00% | ~43 |
-| Ask Questions Later | 6.00% | ~43 |
+| Corin Goes Home | 6.00% | ~44 |
+| Sartorialist | 6.00% | ~44 |
+| Cultivair Explorer | 6.00% | ~44 |
+| Entresol Explorer | 6.00% | ~44 |
+| Factorywood Explorer | 6.00% | ~44 |
+| Fairgrounds Explorer | 6.00% | ~44 |
+| Syron for Hope | 6.00% | ~44 |
+| Ask Questions Later | 6.00% | ~44 |
 | Golem Hunter | 5.00% | ~36 |
 | Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724 (Ranked 195)  
+Progressed: 725 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,4 +96,4 @@ Completed: 4 (0.55%) (Ranked 120)
 | 2023-06-23 | 718 | 4 |
 | 2023-06-24 | 721 | 4 |
 | 2023-06-25 | 723 | 4 |
-| 2023-06-26 | 724 | 4 |
+| 2023-06-26 | 725 | 4 |

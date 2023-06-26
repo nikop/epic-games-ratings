@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2460,10 +2460,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6438,
       "NumberOfAwardsMax": 2324
+    },
+    {
+      "Time": "2023-06-26T21:02:10.5938869+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6439,
+      "NumberOfAwardsMax": 2324
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6438,
+  "NumberOfAwards": 6439,
   "NumberOfAwardsMax": 2324,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2489,7 +2495,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 477
+      "Count": 478
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2540,9 +2546,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49741,
+  "EOS_Progressed": 49742,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -8135,6 +8141,11 @@
       "Time": "2023-06-26T19:02:32.4102401+00:00",
       "NumProgressed": 49741,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-06-26T21:02:21.659246+00:00",
+      "NumProgressed": 49742,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 45,
@@ -8170,7 +8181,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39295
+      "UsersEstimate": 39296
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8258,7 +8269,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29347
+      "UsersEstimate": 29348
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8274,7 +8285,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19896
+      "UsersEstimate": 19897
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8282,7 +8293,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23378
+      "UsersEstimate": 23379
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8290,7 +8301,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18404
+      "UsersEstimate": 18405
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8338,7 +8349,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28352
+      "UsersEstimate": 28353
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8370,7 +8381,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8953
+      "UsersEstimate": 8954
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -8394,7 +8405,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8953
+      "UsersEstimate": 8954
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -8410,7 +8421,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48249
+      "UsersEstimate": 48250
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8450,7 +8461,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35316
+      "UsersEstimate": 35317
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8466,7 +8477,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18404
+      "UsersEstimate": 18405
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8505,15 +8516,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49741,
+      "Progressed": 49742,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-25T11:01:48.4910585+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:01:08.1423872+00:00",
+  "LastChanged": "2023-06-26T21:02:10.5938867+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:02:21.6592455+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:01:02.0662018+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:01:08.1425635+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:02:10.5938875+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:02:21.6593411+00:00"
 }

@@ -33,7 +33,7 @@ Number of Ratings: 209  (23.09.2022)
 | Don't draw dicks pls | 84.00% | ~1,784 |
 | Ripped | 84.00% | ~1,784 |
 | Beat the big arena | 82.00% | ~1,742 |
-| Force Cube | 81.00% | ~1,720 |
+| Force Cube | 82.00% | ~1,742 |
 | Got Battery | 80.00% | ~1,699 |
 | Guard Distracted | 80.00% | ~1,699 |
 | Translocator | 79.00% | ~1,678 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~276 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,124 (Ranked 157)  
-Completed: 254 (11.96%) (Ranked 16)  
+Completed: 254 (11.96%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

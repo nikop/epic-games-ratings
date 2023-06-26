@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1380,
+  "EOS_Progressed": 1383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-06-26T19:08:07.7660237+00:00",
       "NumProgressed": 1380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T21:07:59.7477024+00:00",
+      "NumProgressed": 1383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2570,7 +2575,7 @@
       "Name": "Apprentice",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "A01",
@@ -2578,7 +2583,7 @@
       "Name": "Stoker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "A02",
@@ -2586,7 +2591,7 @@
       "Name": "Trailblazer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "A03",
@@ -2650,7 +2655,7 @@
       "Name": "From X to Y",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 968
     },
     {
       "ID": "A11",
@@ -2666,7 +2671,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 982
     },
     {
       "ID": "A13",
@@ -2674,7 +2679,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "A14",
@@ -2682,7 +2687,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 996
     },
     {
       "ID": "A15",
@@ -2690,7 +2695,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "A16",
@@ -2706,7 +2711,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "A18",
@@ -2714,7 +2719,7 @@
       "Name": "General Manager",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "A19",
@@ -2722,7 +2727,7 @@
       "Name": "Tycoon",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "A20",
@@ -2730,7 +2735,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1010
     },
     {
       "ID": "A21",
@@ -2738,7 +2743,7 @@
       "Name": "Country Life",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "A22",
@@ -2746,7 +2751,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 899
     },
     {
       "ID": "A23",
@@ -2762,7 +2767,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "A25",
@@ -2794,7 +2799,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 913
     },
     {
       "ID": "A29",
@@ -2802,7 +2807,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "A30",
@@ -2810,7 +2815,7 @@
       "Name": "All mine",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "A31",
@@ -2818,7 +2823,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "A32",
@@ -2842,7 +2847,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 692
     },
     {
       "ID": "A35",
@@ -2850,7 +2855,7 @@
       "Name": "Traffic Junction",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "A36",
@@ -2858,7 +2863,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 954
     },
     {
       "ID": "A37",
@@ -2866,7 +2871,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 844
     },
     {
       "ID": "A38",
@@ -2874,7 +2879,7 @@
       "Name": "Poor Devil",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "A39",
@@ -2890,7 +2895,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 871
     },
     {
       "ID": "A41",
@@ -2898,15 +2903,15 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 553
     },
     {
       "ID": "A43",
@@ -2914,7 +2919,7 @@
       "Name": "Mole",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "A44",
@@ -2922,15 +2927,15 @@
       "Name": "Breaking Ground",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 180
     },
     {
       "ID": "A46",
@@ -2938,7 +2943,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 925
+      "UsersEstimate": 927
     },
     {
       "ID": "A47",
@@ -2946,7 +2951,7 @@
       "Name": "Travel Company",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 883
+      "UsersEstimate": 885
     },
     {
       "ID": "A48",
@@ -2954,15 +2959,15 @@
       "Name": "Bull and bear",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 387
     },
     {
       "ID": "A50",
@@ -2986,7 +2991,7 @@
       "Name": "Socializer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "A53",
@@ -3009,7 +3014,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1380,
+      "Progressed": 1383,
       "Completed": 0
     }
   ],
@@ -3017,8 +3022,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-25T14:59:28.2436226+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:06:36.3709283+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:07:59.7477017+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.8009478+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:58:34.7749988+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:06:36.3709905+00:00"
+  "LastUpdate_Ratings": "2023-06-26T20:58:50.9080222+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:07:59.7477706+00:00"
 }

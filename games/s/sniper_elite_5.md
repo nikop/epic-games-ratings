@@ -17,6 +17,7 @@ Rating: 4.47 (Ranked 593)
 | Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
+| Climbing the Ladder | 1.00% | ~31 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
 | Organ Grinder | 1.00% | ~31 |
@@ -27,11 +28,10 @@ Rating: 4.47 (Ranked 593)
 | Der Geist | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | Snake in the Grass | 1.00% | ~31 |
-| Climbing the Ladder | 0.90% | ~28 |
-| Brains of the Operation | 0.90% | ~28 |
+| Brains of the Operation | 1.00% | ~31 |
+| No Stone Unturned | 0.80% | ~25 |
 | Precision Is Key | 0.80% | ~25 |
 | Rigged to Blow | 0.80% | ~25 |
-| No Stone Unturned | 0.70% | ~22 |
 | Opposing Force | 0.70% | ~22 |
 | My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
@@ -57,6 +57,7 @@ Rating: 4.47 (Ranked 593)
 | Tinkerer | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Road Rage | 0.30% | ~9 |
+| Shoot for the Moon | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
@@ -66,7 +67,6 @@ Rating: 4.47 (Ranked 593)
 | Master of Rifles | 0.20% | ~6 |
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
-| Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Reich To The Point | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Stroll in the Woods | 0.20% | ~6 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,146 (Ranked 144)  
+Progressed: 3,147 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 3 (0.10%) (Ranked 174)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
-| 2023-06-26 | 3,146 | 3 |
+| 2023-06-26 | 3,147 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

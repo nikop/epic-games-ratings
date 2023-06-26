@@ -1,10 +1,10 @@
 {
   "ID": "74298478bf3a400398dde910f98440db",
   "Name": null,
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -24,6 +24,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2023-06-26T19:57:39.0754252+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:04:50.9740878+00:00"
+  "LastUpdate_Ratings": "2023-06-26T20:57:26.2129463+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:05:30.3486822+00:00"
 }

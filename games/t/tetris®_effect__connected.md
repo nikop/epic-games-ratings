@@ -5,15 +5,15 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 40  (Ranked 418)  
-Sum: 272 (Ranked 339)  
-Diff (max vs sum): 79  
+Sum: 273 (Ranked 338)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 91 |
 | This game is Extremely Fun | 40 |
 | This game is Great for Quick Sessions | 39 |
 | This game has Quickly Understood Controls | 35 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game has Competitive Players | 30 |
 | This game is Relaxing | 29 |
 | This game has Obsessive Gameplay | 24 |
@@ -88,3 +88,4 @@ Diff (max vs sum): 79
 | 2023-05-16 | 4.86 | - | 40 | 270 |
 | 2023-05-30 | 4.86 | - | 40 | 271 |
 | 2023-06-20 | 4.86 | - | 40 | 272 |
+| 2023-06-26 | 4.86 | - | 40 | 273 |

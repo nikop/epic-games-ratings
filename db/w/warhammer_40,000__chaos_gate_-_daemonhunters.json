@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2923,
+  "EOS_Progressed": 2924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-06-25T15:07:15.9112435+00:00",
       "NumProgressed": 2923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T21:08:01.4495325+00:00",
+      "NumProgressed": 2924,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2012,7 +2017,7 @@
       "Name": "Look Over There!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "BloodAndIron",
@@ -2220,7 +2225,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Kills_Streak",
@@ -2258,9 +2263,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 351
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2298,9 +2303,9 @@
       "ID": "MissionVictory_Duo",
       "SetID": "3jha1np",
       "Name": "Brothers in Arms",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "MissionVictory_Interceptors",
@@ -2467,21 +2472,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2923,
+      "Progressed": 2924,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2923,
+      "Progressed": 2924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:06:37.9371509+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:08:01.4495321+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:32.207379+00:00",
-  "LastUpdate_Ratings": "2023-06-26T19:59:09.0626242+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:06:37.9372119+00:00"
+  "LastUpdate_Ratings": "2023-06-26T20:59:38.6911313+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:08:01.4497006+00:00"
 }

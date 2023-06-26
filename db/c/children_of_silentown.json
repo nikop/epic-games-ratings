@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Cat",
@@ -231,9 +231,9 @@
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Doll",
@@ -383,9 +383,9 @@
       "ID": "Trinket",
       "SetID": "9kk0gal",
       "Name": "Lucky charm",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "Trumpet",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:06:32.5454685+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:07:54.7550732+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:00:29.1806792+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:06:32.5454935+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:01:29.7562569+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:07:54.7550903+00:00"
 }

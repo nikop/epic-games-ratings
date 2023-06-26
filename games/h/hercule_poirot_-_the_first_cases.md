@@ -21,7 +21,7 @@ Rating: 4.32 (Ranked 759)
 | The Major | 47.00% | ~184 |
 | Comtesse Margaux de Vos | 45.00% | ~176 |
 | Curious and Beautiful | 44.00% | ~172 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~168 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~172 |
 | The Interrogations | 43.00% | ~168 |
 | Well-acquainted | 41.00% | ~160 |
 | Zakariya Demir | 41.00% | ~160 |

@@ -7,8 +7,8 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 38.00% | ~1,111 |
-| Look Over There! | 32.00% | ~935 |
-| Watch Where You Step... | 32.00% | ~935 |
+| Look Over There! | 32.00% | ~936 |
+| Watch Where You Step... | 32.00% | ~936 |
 | Not So Fast... | 31.00% | ~906 |
 | An Ill Omen | 30.00% | ~877 |
 | Purging Spree | 24.00% | ~702 |
@@ -17,7 +17,7 @@ Number of Ratings: 371  (23.09.2022)
 | Surgical Excision | 16.00% | ~468 |
 | Bloodless | 16.00% | ~468 |
 | Honoured Battle-Brother | 12.00% | ~351 |
-| The Emperor Protects | 11.00% | ~322 |
+| The Emperor Protects | 12.00% | ~351 |
 | Nemesis Master | 11.00% | ~322 |
 | Gunmaster | 11.00% | ~322 |
 | A Foul Creche | 11.00% | ~322 |
@@ -51,9 +51,9 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.50% | ~15 |
 | Strategic Command | 0.40% | ~12 |
 | Blood and Iron | 0.30% | ~9 |
+| Brothers in Arms | 0.30% | ~9 |
 | Crisis Management | 0.20% | ~6 |
 | Grand Master | 0.20% | ~6 |
-| Brothers in Arms | 0.20% | ~6 |
 | Phalanx | 0.20% | ~6 |
 | Firing Squad | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,923 (Ranked 148)  
+Progressed: 2,924 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 2,916 | 0 |
 | 2023-06-24 | 2,921 | 0 |
 | 2023-06-25 | 2,923 | 0 |
+| 2023-06-26 | 2,924 | 0 |
 ## Awards
 Max (Character Customization): 212  (Ranked 261)  
 Sum: 426 (Ranked 303)  

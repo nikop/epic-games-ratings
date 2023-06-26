@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -766,6 +766,11 @@
       "Time": "2023-06-26T20:04:24.9055435+00:00",
       "NumProgressed": 243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T21:04:43.1072964+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -791,9 +796,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_defeat_players_100",
@@ -881,7 +886,7 @@
       "Name": "Facility Online",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -889,7 +894,7 @@
       "Name": "Corporal",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -897,7 +902,7 @@
       "Name": "Sergeant",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -945,15 +950,15 @@
       "Name": "Brothers in Arms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -961,7 +966,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1033,7 +1038,7 @@
       "Name": "Defenses Online",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1080,14 +1085,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-26T20:04:24.905543+00:00",
+  "LastChanged_Achievements": "2023-06-26T21:04:43.1072959+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-26T20:00:47.2709+00:00",
-  "LastUpdate_Achievements": "2023-06-26T20:04:24.9055736+00:00"
+  "LastUpdate_Ratings": "2023-06-26T21:01:54.9872932+00:00",
+  "LastUpdate_Achievements": "2023-06-26T21:04:43.1073305+00:00"
 }

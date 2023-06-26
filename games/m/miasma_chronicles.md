@@ -18,7 +18,7 @@ Rating: 4.34 (Ranked 742)
 | Exorcist | 44.00% | ~524 |
 | Firestarter | 41.00% | ~488 |
 | Giant Killer | 41.00% | ~488 |
-| Sensei | 39.00% | ~464 |
+| Sensei | 40.00% | ~476 |
 | The meaning of Kain | 38.00% | ~453 |
 | Technophobe | 35.00% | ~417 |
 | Recycler | 34.00% | ~405 |

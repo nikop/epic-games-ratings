@@ -18,9 +18,9 @@
 | Cybernetic | 2.00% | ~12 |
 | Nanonic III | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
+| Up Close And Personal | 2.00% | ~12 |
 | Starship Docks | 1.00% | ~6 |
 | Rookie | 1.00% | ~6 |
-| Up Close And Personal | 1.00% | ~6 |
 | Outer Core | 0.80% | ~5 |
 | Integration | 0.60% | ~4 |
 | Inner Core | 0.50% | ~3 |
