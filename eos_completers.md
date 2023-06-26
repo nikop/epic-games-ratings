@@ -62,9 +62,9 @@
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.50% |
-| 63 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
-| 63 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.53% |
+| 64 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
+| 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
@@ -469,4 +469,4 @@
 | 229 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 229 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,834 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,836 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

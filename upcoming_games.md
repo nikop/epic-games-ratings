@@ -10,6 +10,7 @@
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2023-06-28 | 73 (1,000 XP) | 0 | - | - |
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | - |  | - | - |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
+| [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | - |  | - | - |
 | [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | - |  | - | - |
 | [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | 2023-06-30 | - |  | - | - |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
@@ -109,6 +110,7 @@
 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | - |  | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
+| [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-10-17 | - |  | - | - |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-17 | - |  | - | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | - |  | - | - |
 | [HOT WHEELS UNLEASHED 2 - Turbocharged™](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | - |  | - | - |
@@ -404,7 +406,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,841 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,842 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
