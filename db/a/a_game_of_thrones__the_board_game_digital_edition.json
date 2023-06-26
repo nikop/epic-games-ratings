@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 16788,
+  "EOS_Progressed": 16791,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8137,6 +8137,11 @@
       "Time": "2023-06-26T03:32:53.5287236+00:00",
       "NumProgressed": 16788,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-26T04:07:25.7245766+00:00",
+      "NumProgressed": 16791,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8188,7 +8193,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "1021",
@@ -8276,7 +8281,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "1032",
@@ -8284,7 +8289,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "1033",
@@ -8308,7 +8313,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "1036",
@@ -8323,15 +8328,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 16788,
+      "Progressed": 16791,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-06-26T03:32:53.5287227+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:07:25.7245758+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:28.0071998+00:00",
-  "LastUpdate_Ratings": "2023-06-26T03:27:20.242623+00:00",
-  "LastUpdate_Achievements": "2023-06-26T03:32:53.5287819+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:01:43.7267418+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:25.7246546+00:00"
 }

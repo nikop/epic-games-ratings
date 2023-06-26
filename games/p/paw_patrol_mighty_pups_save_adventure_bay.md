@@ -11,13 +11,13 @@
 | Carlos Is Tangled | 50.00% | ~5 |
 | Pup Pup Boogie | 40.00% | ~4 |
 | Mr. Porter | 40.00% | ~4 |
+| Break Time | 40.00% | ~4 |
+| Master of the Rope | 40.00% | ~4 |
+| Training Day | 40.00% | ~4 |
+| The Fastest | 40.00% | ~4 |
+| Paw patrol member | 40.00% | ~4 |
 | Mandy Family | 40.00% | ~4 |
-| Break Time | 30.00% | ~3 |
-| Master of the Rope | 30.00% | ~3 |
-| Training Day | 30.00% | ~3 |
-| The Fastest | 30.00% | ~3 |
-| Paw patrol member | 30.00% | ~3 |
-| Robot Out of Control | 30.00% | ~3 |
+| Robot Out of Control | 40.00% | ~4 |
 | Everything Under Control | 20.00% | ~2 |
 | Clear the Road | 20.00% | ~2 |
 | Never Miss | 20.00% | ~2 |

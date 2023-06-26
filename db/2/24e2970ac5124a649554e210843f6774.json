@@ -91,9 +91,9 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "defeat_level_10",
@@ -187,9 +187,9 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "defeat_level_2",
@@ -521,8 +521,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-06-26T03:30:57.7609009+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:04:30.3633408+00:00",
   "LastUpdate_AppInfo": "2023-06-20T14:57:44.0839125+00:00",
-  "LastUpdate_Ratings": "2023-06-26T03:24:22.1413533+00:00",
-  "LastUpdate_Achievements": "2023-06-26T03:30:57.7609484+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:57:13.952668+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:04:30.3633954+00:00"
 }

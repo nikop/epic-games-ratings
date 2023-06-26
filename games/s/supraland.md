@@ -6,23 +6,23 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~706,294 |
-| The Blues | 85.00% | ~606,414 |
-| Fast | 66.00% | ~470,862 |
-| Healthbar | 55.00% | ~392,385 |
+| Out of bed | 99.00% | ~706,295 |
+| The Blues | 85.00% | ~606,415 |
+| Fast | 66.00% | ~470,863 |
+| Healthbar | 55.00% | ~392,386 |
 | Force Cube | 53.00% | ~378,117 |
-| Double Jump | 48.00% | ~342,445 |
-| Regeneration | 47.00% | ~335,311 |
+| Double Jump | 48.00% | ~342,446 |
+| Regeneration | 47.00% | ~335,312 |
 | Climb the hill | 42.00% | ~299,640 |
 | Triple Jump | 42.00% | ~299,640 |
 | Through the fire pipe | 38.00% | ~271,103 |
-| MacGuffin | 37.00% | ~263,968 |
+| MacGuffin | 37.00% | ~263,969 |
 | Just once | 36.00% | ~256,834 |
-| Armor | 30.00% | ~214,028 |
+| Armor | 30.00% | ~214,029 |
 | True holy spirit | 27.00% | ~192,626 |
-| That's how electronics work obviously | 26.00% | ~185,491 |
+| That's how electronics work obviously | 26.00% | ~185,492 |
 | Force Cube Catapult | 25.00% | ~178,357 |
-| Holy Sword | 23.00% | ~164,088 |
+| Holy Sword | 23.00% | ~164,089 |
 | Telefrag | 22.00% | ~156,954 |
 | Freed from prison | 21.00% | ~149,820 |
 | Stomp | 21.00% | ~149,820 |
@@ -91,12 +91,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: City Sprinter | 0.40% | ~2,854 |
 | DLC: Knocked him out | 0.40% | ~2,854 |
 | DLC: Finding Sideburg | 0.40% | ~2,854 |
-| DLC: Thrown | 0.40% | ~2,854 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,854 |
 | DLC: Birds | 0.30% | ~2,140 |
 | DLC: Horticultural | 0.30% | ~2,140 |
 | DLC: Tough Guy, Eh? | 0.30% | ~2,140 |
 | DLC: Non-NPC | 0.30% | ~2,140 |
+| DLC: Thrown | 0.30% | ~2,140 |
 | DLC: To the House | 0.30% | ~2,140 |
 | DLC: The Giant's Workshop | 0.20% | ~1,427 |
 | DLC: A good cause! | 0.20% | ~1,427 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~713 |
 | DLC: Top of the world | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,428 (Ranked 16)  
+Progressed: 713,429 (Ranked 16)  
 Completed: 700 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 700 (0.10%) (Ranked 174)
 | 2023-06-23 | 712,945 | 700 |
 | 2023-06-24 | 713,177 | 700 |
 | 2023-06-25 | 713,405 | 700 |
-| 2023-06-26 | 713,428 | 700 |
+| 2023-06-26 | 713,429 | 700 |
 ## Awards
 Max (Challenging Puzzles): 7,628  (Ranked 42)  
 Sum: 9,933 (Ranked 81)  

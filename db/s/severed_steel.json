@@ -260,9 +260,9 @@
       "Count": 181
     }
   ],
-  "EOS_Progressed": 419482,
+  "EOS_Progressed": 419486,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2396,
+  "EOS_NewPlayers": 2388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7340,6 +7340,11 @@
       "Time": "2023-06-26T03:31:05.7129405+00:00",
       "NumProgressed": 419482,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-06-26T04:04:40.9287722+00:00",
+      "NumProgressed": 419486,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -7415,7 +7420,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37753
+      "UsersEstimate": 37754
     },
     {
       "ID": "CHAPTER2",
@@ -7727,7 +7732,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 41948
+      "UsersEstimate": 41949
     },
     {
       "ID": "SOUL",
@@ -7766,7 +7771,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 419482,
+      "Progressed": 419486,
       "Completed": 37
     }
   ],
@@ -7774,8 +7779,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-24T02:21:37.449508+00:00",
-  "LastChanged_Achievements": "2023-06-26T03:31:05.7129397+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:04:40.9287717+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:36.0699526+00:00",
-  "LastUpdate_Ratings": "2023-06-26T03:26:44.3546576+00:00",
-  "LastUpdate_Achievements": "2023-06-26T03:31:05.7130315+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:00:47.173949+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:04:40.9288785+00:00"
 }

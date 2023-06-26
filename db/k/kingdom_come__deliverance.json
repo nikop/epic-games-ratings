@@ -5544,9 +5544,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 789611,
+  "EOS_Progressed": 789612,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12589,6 +12589,11 @@
       "Time": "2023-06-26T03:33:08.1942463+00:00",
       "NumProgressed": 789611,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-26T04:07:44.8372+00:00",
+      "NumProgressed": 789612,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 82,
@@ -12656,7 +12661,7 @@
       "Name": "Bailiff",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7106
+      "UsersEstimate": 7107
     },
     {
       "ID": "Bard",
@@ -12680,7 +12685,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 244779
+      "UsersEstimate": 244780
     },
     {
       "ID": "Bookworm",
@@ -12920,7 +12925,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102649
+      "UsersEstimate": 102650
     },
     {
       "ID": "Judas",
@@ -13255,15 +13260,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 789611,
+      "Progressed": 789612,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-25T21:58:25.5561553+00:00",
-  "LastChanged_Achievements": "2023-06-26T03:33:08.1942459+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:07:44.8371994+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:13.0177106+00:00",
-  "LastUpdate_Ratings": "2023-06-26T03:25:43.3988667+00:00",
-  "LastUpdate_Achievements": "2023-06-26T03:33:08.1944009+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:59:15.1910058+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:44.8373609+00:00"
 }
