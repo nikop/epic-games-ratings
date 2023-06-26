@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "Ending3",
       "SetID": "9kk0gal",
       "Name": "Forest Howl",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Ending4",
@@ -407,9 +407,9 @@
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:07:06.3341845+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:07:39.8454499+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:16.6707055+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:00:53.9513315+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:07:06.3342008+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:01:32.2641798+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:39.8454708+00:00"
 }

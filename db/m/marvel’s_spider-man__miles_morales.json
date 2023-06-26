@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-spider-man-miles-morales",
   "Ranking_Rating": 88,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -962,24 +962,36 @@
       "Rating": 4.79,
       "NumberOfAwards": 1640,
       "NumberOfAwardsMax": 1219
+    },
+    {
+      "Time": "2023-06-25T23:00:26.285712+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1655,
+      "NumberOfAwardsMax": 1234
+    },
+    {
+      "Time": "2023-06-26T02:27:45.9271554+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1656,
+      "NumberOfAwardsMax": 1234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1640,
-  "NumberOfAwardsMax": 1219,
+  "NumberOfAwards": 1656,
+  "NumberOfAwardsMax": 1234,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1219
+      "Count": 1234
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1060,8 +1072,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-06-25T13:59:14.5123238+00:00",
+  "LastChanged": "2023-06-26T02:27:45.9271553+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:00.4454821+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:59:42.435126+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:05:45.7639018+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:00:08.5161081+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:06:04.6997095+00:00"
 }

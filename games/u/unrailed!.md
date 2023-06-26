@@ -6,60 +6,60 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~91,555 |
-| Incurious | 14.00% | ~85,451 |
-| Stroller | 13.00% | ~79,348 |
-| Climate Change | 13.00% | ~79,348 |
-| Advanced Hiker | 11.00% | ~67,140 |
-| Toy Train | 11.00% | ~67,140 |
-| Hiker | 10.00% | ~61,037 |
-| Mojave Courier | 5.00% | ~30,518 |
-| Voyager | 3.00% | ~18,311 |
-| Advanced Voyager | 3.00% | ~18,311 |
-| Expert Stroller | 3.00% | ~18,311 |
-| Orient Express | 3.00% | ~18,311 |
-| Saved by Nausicaä | 3.00% | ~18,311 |
-| Expert Hiker | 2.00% | ~12,207 |
-| Marathon | 2.00% | ~12,207 |
-| Destructionist | 2.00% | ~12,207 |
-| Lost | 1.00% | ~6,104 |
-| Rocketman | 0.60% | ~3,662 |
-| Shopaholic | 0.60% | ~3,662 |
-| Expert Voyager | 0.50% | ~3,052 |
-| Nanuk | 0.50% | ~3,052 |
-| Scrooge | 0.40% | ~2,441 |
-| Terminal Station | 0.40% | ~2,441 |
-| Dynamite Fishing | 0.40% | ~2,441 |
-| Wayfarer | 0.30% | ~1,831 |
-| Advanced Wayfarer | 0.30% | ~1,831 |
-| Trans-Siberian Railway | 0.30% | ~1,831 |
-| Satan's Minion | 0.30% | ~1,831 |
-| Snowman's Land | 0.30% | ~1,831 |
-| Tough Nut! | 0.30% | ~1,831 |
+| Advanced Stroller | 15.00% | ~91,578 |
+| Incurious | 14.00% | ~85,473 |
+| Stroller | 13.00% | ~79,367 |
+| Climate Change | 13.00% | ~79,367 |
+| Advanced Hiker | 11.00% | ~67,157 |
+| Toy Train | 11.00% | ~67,157 |
+| Hiker | 10.00% | ~61,052 |
+| Mojave Courier | 5.00% | ~30,526 |
+| Voyager | 3.00% | ~18,316 |
+| Advanced Voyager | 3.00% | ~18,316 |
+| Expert Stroller | 3.00% | ~18,316 |
+| Orient Express | 3.00% | ~18,316 |
+| Saved by Nausicaä | 3.00% | ~18,316 |
+| Expert Hiker | 2.00% | ~12,210 |
+| Marathon | 2.00% | ~12,210 |
+| Destructionist | 2.00% | ~12,210 |
+| Lost | 1.00% | ~6,105 |
+| Rocketman | 0.60% | ~3,663 |
+| Shopaholic | 0.60% | ~3,663 |
+| Expert Voyager | 0.50% | ~3,053 |
+| Nanuk | 0.50% | ~3,053 |
+| Scrooge | 0.40% | ~2,442 |
+| Terminal Station | 0.40% | ~2,442 |
+| Dynamite Fishing | 0.40% | ~2,442 |
+| Wayfarer | 0.30% | ~1,832 |
+| Advanced Wayfarer | 0.30% | ~1,832 |
+| Trans-Siberian Railway | 0.30% | ~1,832 |
+| Satan's Minion | 0.30% | ~1,832 |
+| Snowman's Land | 0.30% | ~1,832 |
+| Tough Nut! | 0.30% | ~1,832 |
 | Engineer | 0.20% | ~1,221 |
-| Explorer | 0.10% | ~610 |
-| Advanced Explorer | 0.10% | ~610 |
-| Expert Wayfarer | 0.10% | ~610 |
-| Expert Explorer | 0.10% | ~610 |
-| Deep Space Transit | 0.10% | ~610 |
-| Leet | 0.10% | ~610 |
-| Wrong way! | 0.10% | ~610 |
-| Ducky Danger | 0.10% | ~610 |
-| Shepherd | 0.10% | ~610 |
-| Industrialist | 0.10% | ~610 |
-| Missed Opportunities | 0.10% | ~610 |
-| Cowter Space | 0.10% | ~610 |
-| Apollo 13 | 0.10% | ~610 |
-| Collector | 0.10% | ~610 |
-| Achievement Master | 0.10% | ~610 |
-| Fire Fighter | 0.10% | ~610 |
-| Megalomaniac | 0.10% | ~610 |
-| No Space for Improvement | 0.10% | ~610 |
-| Where They Belong | 0.10% | ~610 |
-| Fireworks! | 0.10% | ~610 |
-| 20 Miles under the Sea | 0.10% | ~610 |
+| Explorer | 0.10% | ~611 |
+| Advanced Explorer | 0.10% | ~611 |
+| Expert Wayfarer | 0.10% | ~611 |
+| Expert Explorer | 0.10% | ~611 |
+| Deep Space Transit | 0.10% | ~611 |
+| Leet | 0.10% | ~611 |
+| Wrong way! | 0.10% | ~611 |
+| Ducky Danger | 0.10% | ~611 |
+| Shepherd | 0.10% | ~611 |
+| Industrialist | 0.10% | ~611 |
+| Missed Opportunities | 0.10% | ~611 |
+| Cowter Space | 0.10% | ~611 |
+| Apollo 13 | 0.10% | ~611 |
+| Collector | 0.10% | ~611 |
+| Achievement Master | 0.10% | ~611 |
+| Fire Fighter | 0.10% | ~611 |
+| Megalomaniac | 0.10% | ~611 |
+| No Space for Improvement | 0.10% | ~611 |
+| Where They Belong | 0.10% | ~611 |
+| Fireworks! | 0.10% | ~611 |
+| 20 Miles under the Sea | 0.10% | ~611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,367 (Ranked 23)  
+Progressed: 610,518 (Ranked 23)  
 Completed: 7 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,8 @@ Completed: 7 (0.00%) (Ranked 229)
 | 2023-06-22 | 608,760 | 7 |
 | 2023-06-23 | 609,277 | 7 |
 | 2023-06-24 | 609,846 | 7 |
-| 2023-06-25 | 610,367 | 7 |
+| 2023-06-25 | 610,414 | 7 |
+| 2023-06-26 | 610,518 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 271)  
 Sum: 1,527 (Ranked 214)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4756,18 +4756,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10620,
       "NumberOfAwardsMax": 6206
+    },
+    {
+      "Time": "2023-06-26T04:00:00.2072005+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10625,
+      "NumberOfAwardsMax": 6211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10620,
-  "NumberOfAwardsMax": 6206,
+  "NumberOfAwards": 10625,
+  "NumberOfAwardsMax": 6211,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6206
+      "Count": 6211
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4836,8 +4842,8 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710125,
-  "EOS_Completed": 12790,
+  "EOS_Progressed": 710139,
+  "EOS_Completed": 12791,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
@@ -11186,6 +11192,36 @@
       "Time": "2023-06-25T21:07:09.5989466+00:00",
       "NumProgressed": 710125,
       "NumCompleted": 12790
+    },
+    {
+      "Time": "2023-06-25T22:05:51.9137003+00:00",
+      "NumProgressed": 710130,
+      "NumCompleted": 12790
+    },
+    {
+      "Time": "2023-06-25T23:07:56.1792612+00:00",
+      "NumProgressed": 710133,
+      "NumCompleted": 12790
+    },
+    {
+      "Time": "2023-06-26T00:07:43.8927632+00:00",
+      "NumProgressed": 710134,
+      "NumCompleted": 12791
+    },
+    {
+      "Time": "2023-06-26T02:34:53.0853637+00:00",
+      "NumProgressed": 710136,
+      "NumCompleted": 12791
+    },
+    {
+      "Time": "2023-06-26T03:33:06.521279+00:00",
+      "NumProgressed": 710137,
+      "NumCompleted": 12791
+    },
+    {
+      "Time": "2023-06-26T04:07:42.8467639+00:00",
+      "NumProgressed": 710139,
+      "NumCompleted": 12791
     }
   ],
   "TotalAchievements": 50,
@@ -11197,7 +11233,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14202
+      "UsersEstimate": 14203
     },
     {
       "ID": "02_Vengeance_H1",
@@ -11205,7 +11241,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14202
+      "UsersEstimate": 14203
     },
     {
       "ID": "03_Vengeance_H2",
@@ -11293,7 +11329,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -11373,7 +11409,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14202
+      "UsersEstimate": 14203
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -11533,7 +11569,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -11541,7 +11577,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -11596,21 +11632,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19426,
-      "Completed": 10319
+      "Progressed": 19440,
+      "Completed": 10321
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710125,
-      "Completed": 12790
+      "Progressed": 710139,
+      "Completed": 12791
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-25T15:00:16.5540331+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:07:09.5989461+00:00",
+  "LastChanged": "2023-06-26T04:00:00.2072004+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:07:42.8467631+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:59:36.4547903+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:07:09.5990097+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:00:00.2072011+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:42.8468651+00:00"
 }

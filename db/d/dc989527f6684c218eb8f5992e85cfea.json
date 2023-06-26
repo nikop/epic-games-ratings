@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4259,
+  "EOS_Progressed": 4361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2456,
+  "EOS_NewPlayers": 2397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1036,6 +1036,36 @@
       "Time": "2023-06-25T21:02:29.0266294+00:00",
       "NumProgressed": 4259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T22:02:11.6547507+00:00",
+      "NumProgressed": 4274,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T23:03:18.9169989+00:00",
+      "NumProgressed": 4286,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T00:03:06.3622269+00:00",
+      "NumProgressed": 4309,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T02:31:13.3962967+00:00",
+      "NumProgressed": 4340,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T03:29:20.960195+00:00",
+      "NumProgressed": 4359,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T04:03:00.2199062+00:00",
+      "NumProgressed": 4361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -1047,7 +1077,7 @@
       "Name": "Self Portrait",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -1071,7 +1101,7 @@
       "Name": "Rainbow!",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -1095,7 +1125,7 @@
       "Name": "Vermeer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -1119,7 +1149,7 @@
       "Name": "You tried your best!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -1127,7 +1157,7 @@
       "Name": "First words",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -1135,7 +1165,7 @@
       "Name": "Facepalm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -1215,7 +1245,7 @@
       "Name": "Art Intern",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -1223,7 +1253,7 @@
       "Name": "Got It!",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_WIN_A_GAME_RATE_IT",
@@ -1231,7 +1261,7 @@
       "Name": "First Prize!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -1239,21 +1269,21 @@
       "Name": "First Sketch",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 698
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 4259,
+      "Progressed": 4361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:02:29.0266287+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:03:00.2199057+00:00",
   "LastUpdate_AppInfo": "2023-06-23T17:56:50.512301+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:57:03.1027502+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:02:29.0266501+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:57:07.7530054+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:03:00.2199299+00:00"
 }

@@ -12,9 +12,9 @@
 | Terminated III | 4.00% | ~25 |
 | Unlocked and Loaded | 4.00% | ~25 |
 | Challenge Mastered | 3.00% | ~18 |
+| Nanonic II | 3.00% | ~18 |
 | Terminated II | 3.00% | ~18 |
 | Cybernetic | 2.00% | ~12 |
-| Nanonic II | 2.00% | ~12 |
 | Nanonic III | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
 | The Bigger They Are | 1.00% | ~6 |

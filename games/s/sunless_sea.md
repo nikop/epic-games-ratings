@@ -1,34 +1,34 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 419)  
+Rating: 4.58 (Ranked 420)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,584 |
-| Sweet Sorrow | 18.00% | ~5,792 |
-| Rules the Waves | 17.00% | ~5,470 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,827 |
-| Rival | 14.00% | ~4,505 |
-| Correspondent | 12.00% | ~3,861 |
-| Lose Your Mind | 12.00% | ~3,861 |
-| Sound Mind? | 12.00% | ~3,861 |
-| Salt's Curse | 11.00% | ~3,540 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,540 |
-| The Fall of the House | 11.00% | ~3,540 |
-| Shipmate | 11.00% | ~3,540 |
-| One Year at Zee | 8.00% | ~2,574 |
-| Pupil | 7.00% | ~2,253 |
-| Salvager | 7.00% | ~2,253 |
-| Open Your Ears | 7.00% | ~2,253 |
-| The Ascent of Man | 7.00% | ~2,253 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,609 |
-| Zee Fever | 5.00% | ~1,609 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,287 |
-| Storm's Curse | 3.00% | ~965 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~965 |
-| Come Closer | 3.00% | ~965 |
+| Sink Beneath the Waves | 36.00% | ~11,591 |
+| Sweet Sorrow | 18.00% | ~5,795 |
+| Rules the Waves | 17.00% | ~5,473 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,829 |
+| Rival | 14.00% | ~4,507 |
+| Correspondent | 12.00% | ~3,864 |
+| Lose Your Mind | 12.00% | ~3,864 |
+| Sound Mind? | 12.00% | ~3,864 |
+| Salt's Curse | 11.00% | ~3,542 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,542 |
+| The Fall of the House | 11.00% | ~3,542 |
+| Shipmate | 11.00% | ~3,542 |
+| One Year at Zee | 8.00% | ~2,576 |
+| Pupil | 7.00% | ~2,254 |
+| Salvager | 7.00% | ~2,254 |
+| Open Your Ears | 7.00% | ~2,254 |
+| The Ascent of Man | 7.00% | ~2,254 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,610 |
+| Zee Fever | 5.00% | ~1,610 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,288 |
+| Storm's Curse | 3.00% | ~966 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~966 |
+| Come Closer | 3.00% | ~966 |
 | Roaring Rise | 2.00% | ~644 |
 | I am the Captain of my Soul | 2.00% | ~644 |
 | A buoyant escape | 1.00% | ~322 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~290 |
 | No regrets | 0.90% | ~290 |
 | Depth charge | 0.90% | ~290 |
-| What lies beneath | 0.80% | ~257 |
+| What lies beneath | 0.80% | ~258 |
 | Stone's Curse | 0.70% | ~225 |
 | Five Years at Zee | 0.50% | ~161 |
 | The Lady's Parlour | 0.20% | ~64 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,179 (Ranked 91)  
+Progressed: 32,196 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,8 @@ Completed: 3 (0.01%) (Ranked 217)
 | 2023-06-22 | 31,943 | 3 |
 | 2023-06-23 | 32,026 | 3 |
 | 2023-06-24 | 32,110 | 3 |
-| 2023-06-25 | 32,179 | 3 |
+| 2023-06-25 | 32,182 | 3 |
+| 2023-06-26 | 32,196 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 278 (Ranked 336)  

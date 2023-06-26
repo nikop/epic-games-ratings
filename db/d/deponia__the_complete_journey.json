@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2014-07-08T10:00:00+00:00",
@@ -610,18 +610,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 275,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-06-25T21:58:39.1237236+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 275,
-  "NumberOfAwardsMax": 275,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 275
+      "Count": 276
     }
   ],
   "EOS_Progressed": 0,
@@ -635,8 +641,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2023-06-14T16:58:41.6903166+00:00",
+  "LastChanged": "2023-06-25T21:58:39.1237234+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:31.3827609+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:59:14.811148+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:05:25.2340738+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:59:35.4416373+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:05:43.0260002+00:00"
 }

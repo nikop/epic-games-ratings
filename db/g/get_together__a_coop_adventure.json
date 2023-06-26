@@ -2,10 +2,10 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -113,6 +113,16 @@
       "Time": "2023-06-20T16:05:38.3348396+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T22:02:34.1186475+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-25T23:03:50.4266164+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -122,7 +132,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 64,
+      "Percentage": 61,
       "XP": 100,
       "UsersEstimate": 28
     },
@@ -130,7 +140,7 @@
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 82,
+      "Percentage": 78,
       "XP": 100,
       "UsersEstimate": 36
     },
@@ -146,7 +156,7 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -154,7 +164,7 @@
       "ID": "GT_ACH_GATE",
       "SetID": "883j7b4",
       "Name": "Wait for me!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -170,7 +180,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 66,
+      "Percentage": 63,
       "XP": 100,
       "UsersEstimate": 29
     },
@@ -178,7 +188,7 @@
       "ID": "GT_ACH_RITUALEND",
       "SetID": "883j7b4",
       "Name": "The end is nigh!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -186,7 +196,7 @@
       "ID": "GT_ACH_RITUALSYNC",
       "SetID": "883j7b4",
       "Name": "Get Together",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -196,14 +206,14 @@
       "Name": "Get lost!",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
@@ -211,8 +221,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:03:28.5423296+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:03:30.5847398+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.0733384+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:00:09.1888026+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:03:28.5423378+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:00:40.9102362+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:03:30.5847507+00:00"
 }

@@ -5,48 +5,48 @@ Rating: 4.85 (Ranked 42)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~208,631 |
-| Private Club | 74.00% | ~169,656 |
-| Rogue Guild | 65.00% | ~149,022 |
-| I Watched the Intro | 57.00% | ~130,681 |
-| Covert Consortium | 55.00% | ~126,096 |
-| Goat Queen | 53.00% | ~121,510 |
-| Reach the Stratosphere | 50.00% | ~114,632 |
-| Synchronization Complete | 47.00% | ~107,755 |
-| Secret Society | 45.00% | ~103,169 |
-| Shadow Syndicate | 37.00% | ~84,828 |
-| What a Waste of Money | 33.00% | ~75,657 |
-| New Goat Order | 30.00% | ~68,780 |
-| Don't touch the servers | 28.00% | ~64,194 |
-| San Angora: Become Human | 26.00% | ~59,609 |
-| Raider of the Lost Parking Garage | 26.00% | ~59,609 |
-| Real Buoy | 26.00% | ~59,609 |
-| Welcome to Earth | 25.00% | ~57,316 |
-| Into the Matrix | 19.00% | ~43,560 |
-| Where is It? | 17.00% | ~38,975 |
-| Egg Simulator | 16.00% | ~36,682 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~34,390 |
-| Black Market | 14.00% | ~32,097 |
-| 401(K.O.) | 14.00% | ~32,097 |
-| Car Cave | 12.00% | ~27,512 |
-| Club Mohair | 8.00% | ~18,341 |
-| A Center for Ants? | 8.00% | ~18,341 |
-| French Fika | 7.00% | ~16,049 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,171 |
-| Nasty! | 4.00% | ~9,171 |
-| [REDACTED] | 4.00% | ~9,171 |
-| Cannibanana | 2.00% | ~4,585 |
-| Daredevil | 2.00% | ~4,585 |
+| Forgotten Sorority | 91.00% | ~208,678 |
+| Private Club | 74.00% | ~169,695 |
+| Rogue Guild | 65.00% | ~149,056 |
+| I Watched the Intro | 57.00% | ~130,711 |
+| Covert Consortium | 55.00% | ~126,124 |
+| Goat Queen | 53.00% | ~121,538 |
+| Reach the Stratosphere | 50.00% | ~114,658 |
+| Synchronization Complete | 47.00% | ~107,779 |
+| Secret Society | 45.00% | ~103,193 |
+| Shadow Syndicate | 37.00% | ~84,847 |
+| What a Waste of Money | 33.00% | ~75,675 |
+| New Goat Order | 30.00% | ~68,795 |
+| Don't touch the servers | 28.00% | ~64,209 |
+| San Angora: Become Human | 26.00% | ~59,622 |
+| Raider of the Lost Parking Garage | 26.00% | ~59,622 |
+| Real Buoy | 26.00% | ~59,622 |
+| Welcome to Earth | 25.00% | ~57,329 |
+| Into the Matrix | 19.00% | ~43,570 |
+| Where is It? | 17.00% | ~38,984 |
+| Egg Simulator | 16.00% | ~36,691 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~34,398 |
+| Black Market | 14.00% | ~32,104 |
+| 401(K.O.) | 14.00% | ~32,104 |
+| Car Cave | 12.00% | ~27,518 |
+| Club Mohair | 8.00% | ~18,345 |
+| A Center for Ants? | 8.00% | ~18,345 |
+| French Fika | 7.00% | ~16,052 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,173 |
+| Nasty! | 4.00% | ~9,173 |
+| [REDACTED] | 4.00% | ~9,173 |
+| Cannibanana | 2.00% | ~4,586 |
+| Daredevil | 2.00% | ~4,586 |
 | You Trusted Your Instincts | 1.00% | ~2,293 |
 | Certified Fresh | 1.00% | ~2,293 |
 | Streaking | 1.00% | ~2,293 |
 | Try Hard 2 | 1.00% | ~2,293 |
-| Crocsquatch | 0.90% | ~2,063 |
+| Crocsquatch | 0.90% | ~2,064 |
 | Move! That! Bus! | 0.60% | ~1,376 |
 | G.O.A.T | 0.30% | ~688 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,265 (Ranked 47)  
-Completed: 750 (0.33%) (Ranked 137)  
+Progressed: 229,317 (Ranked 47)  
+Completed: 752 (0.33%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,19 +111,20 @@ Completed: 750 (0.33%) (Ranked 137)
 | 2023-06-22 | 228,702 | 747 |
 | 2023-06-23 | 228,846 | 749 |
 | 2023-06-24 | 229,049 | 749 |
-| 2023-06-25 | 229,265 | 750 |
+| 2023-06-25 | 229,295 | 752 |
+| 2023-06-26 | 229,317 | 752 |
 ## Awards
-Max (Great for Beginners): 352  (Ranked 218)  
-Sum: 2,929 (Ranked 158)  
+Max (Great for Beginners): 354  (Ranked 218)  
+Sum: 2,934 (Ranked 158)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 352 |
+| This game is Great for Beginners | 354 |
 | This game has Diverse Characters | 329 |
 | This game is Highly Recommended | 318 |
 | This game has Amazing Characters | 298 |
 | This game is Extremely Fun | 291 |
-| This game has Amazing Storytelling | 280 |
+| This game has Amazing Storytelling | 283 |
 | This game is Relaxing | 278 |
 | This game has Quickly Understood Controls | 278 |
 | This game has a Silly Community | 262 |
@@ -227,4 +228,5 @@ Diff (max vs sum): 60
 | 2023-06-22 | 4.85 | 350 | 2,894 |
 | 2023-06-23 | 4.85 | 350 | 2,907 |
 | 2023-06-24 | 4.85 | 352 | 2,921 |
-| 2023-06-25 | 4.85 | 352 | 2,929 |
+| 2023-06-25 | 4.85 | 354 | 2,931 |
+| 2023-06-26 | 4.85 | 354 | 2,934 |

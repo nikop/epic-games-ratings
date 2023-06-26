@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1270,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -900,6 +900,11 @@
       "Time": "2023-06-25T21:03:13.4193727+00:00",
       "NumProgressed": 1270,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-26T02:31:24.346362+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -943,7 +948,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -975,7 +980,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1055,7 +1060,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1087,7 +1092,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "achievement_mythwalker",
@@ -1215,7 +1220,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1358,15 +1363,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1270,
+      "Progressed": 1271,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:03:13.4193721+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:03:14.0975502+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:01:31.485436+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:03:13.419415+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:02:15.3935152+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:03:14.0976179+00:00"
 }

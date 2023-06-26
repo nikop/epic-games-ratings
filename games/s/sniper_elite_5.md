@@ -14,29 +14,29 @@ Rating: 4.47 (Ranked 593)
 | Change the Channel | 2.00% | ~63 |
 | Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
+| The Kraken Sleeps | 2.00% | ~63 |
 | Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
 | Organ Grinder | 1.00% | ~31 |
 | Gunslinger | 1.00% | ~31 |
 | Skirmisher | 1.00% | ~31 |
 | Sharpshooter | 1.00% | ~31 |
+| Set Europe Ablaze | 1.00% | ~31 |
 | Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
 | As Quiet as a Mouse | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | Snake in the Grass | 1.00% | ~31 |
-| The Kraken Sleeps | 1.00% | ~31 |
-| Set Europe Ablaze | 0.90% | ~28 |
+| Climbing the Ladder | 0.90% | ~28 |
 | Brains of the Operation | 0.90% | ~28 |
-| Climbing the Ladder | 0.80% | ~25 |
 | No Stone Unturned | 0.70% | ~22 |
 | Precision Is Key | 0.70% | ~22 |
+| Rigged to Blow | 0.70% | ~22 |
 | My Little Friend | 0.70% | ~22 |
 | Die Nussknacker Sweet! | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
-| Rigged to Blow | 0.60% | ~19 |
+| Fields of Glory | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
-| Fields of Glory | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Shipbreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
@@ -47,6 +47,8 @@ Rating: 4.47 (Ranked 593)
 | Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
+| If You Go Down To The Woods Today | 0.40% | ~12 |
+| Fight Another Day | 0.40% | ~12 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
@@ -54,8 +56,6 @@ Rating: 4.47 (Ranked 593)
 | Up close and personal | 0.30% | ~9 |
 | Road Rage | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
-| If You Go Down To The Woods Today | 0.30% | ~9 |
-| Fight Another Day | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | The Long Game | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,130 (Ranked 144)  
+Progressed: 3,135 (Ranked 144)  
 Completed: 2 (0.06%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,8 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-22 | 3,087 | 2 |
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
-| 2023-06-25 | 3,130 | 2 |
+| 2023-06-25 | 3,133 | 2 |
+| 2023-06-26 | 3,135 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

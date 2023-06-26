@@ -2,13 +2,13 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 1912,
   "RatingHistory": [
     {
@@ -1354,10 +1354,22 @@
       "Rating": 4.56,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-26T00:02:02.8377165+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-06-26T03:27:39.1891814+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369,
+  "NumberOfAwards": 399,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1431,7 +1443,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 24
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -1445,8 +1457,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-06-25T13:14:10.6737714+00:00",
+  "LastChanged": "2023-06-26T03:27:39.1891812+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:55.0640463+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:01:29.9646413+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:04:46.5010146+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:02:12.2314395+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:05:01.3973201+00:00"
 }

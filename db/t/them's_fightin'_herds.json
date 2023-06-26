@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224862,
+  "EOS_Progressed": 224876,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7049,6 +7049,31 @@
       "Time": "2023-06-25T21:02:30.7821645+00:00",
       "NumProgressed": 224862,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-25T22:02:13.0690402+00:00",
+      "NumProgressed": 224865,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-25T23:03:20.8601121+00:00",
+      "NumProgressed": 224867,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-26T00:03:08.4173872+00:00",
+      "NumProgressed": 224870,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-26T02:31:14.8038293+00:00",
+      "NumProgressed": 224875,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-26T03:29:22.2919586+00:00",
+      "NumProgressed": 224876,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -7124,7 +7149,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 80950
+      "UsersEstimate": 80955
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -7204,7 +7229,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76453
+      "UsersEstimate": 76458
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -7220,7 +7245,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49470
+      "UsersEstimate": 49473
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -7260,7 +7285,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8994
+      "UsersEstimate": 8995
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -7268,7 +7293,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38227
+      "UsersEstimate": 38229
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -7283,7 +7308,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 224862,
+      "Progressed": 224876,
       "Completed": 3
     }
   ],
@@ -7291,8 +7316,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:02:30.7821641+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:03:01.9373215+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:56.2681506+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:00:33.1170088+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:02:30.7822109+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:01:10.2393409+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:03:01.9373975+00:00"
 }

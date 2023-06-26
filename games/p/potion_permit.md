@@ -1,42 +1,42 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.83 (Ranked 932)  
+Rating: 3.82 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,420 |
-| The First Step | 88.00% | ~1,275 |
-| Moonbury Traveller | 64.00% | ~927 |
-| Rookie Chemist | 62.00% | ~898 |
-| Great Doctor | 51.00% | ~739 |
+| Welcome to Moonbury | 98.00% | ~1,421 |
+| The First Step | 88.00% | ~1,276 |
+| Moonbury Traveller | 64.00% | ~928 |
+| Rookie Chemist | 62.00% | ~899 |
+| Great Doctor | 51.00% | ~740 |
 | Dog Whisperer | 49.00% | ~710 |
-| Friendly | 47.00% | ~681 |
-| The Capitalist | 43.00% | ~623 |
+| Friendly | 47.00% | ~682 |
+| The Capitalist | 43.00% | ~624 |
 | K.O.! | 42.00% | ~609 |
-| Intermediate Chemist | 39.00% | ~565 |
-| Decorative Mind | 31.00% | ~449 |
+| Intermediate Chemist | 39.00% | ~566 |
+| Decorative Mind | 31.00% | ~450 |
 | Lumber Specialist | 30.00% | ~435 |
 | Catch of the Day | 24.00% | ~348 |
-| Kind-hearted | 23.00% | ~333 |
+| Kind-hearted | 23.00% | ~334 |
 | Amateur Chef | 21.00% | ~304 |
-| Fishing Guru | 19.00% | ~275 |
+| Fishing Guru | 19.00% | ~276 |
 | Spark of Love | 16.00% | ~232 |
 | Community Helper | 16.00% | ~232 |
 | Expert Chemist | 13.00% | ~188 |
 | Stone Specialist | 13.00% | ~188 |
 | Sociable | 12.00% | ~174 |
 | Ablutomaniac | 12.00% | ~174 |
-| Line Cook | 11.00% | ~159 |
-| Production Sorter | 11.00% | ~159 |
+| Line Cook | 11.00% | ~160 |
+| Production Sorter | 11.00% | ~160 |
 | Good Samaritan | 10.00% | ~145 |
 | Acrobatic Adventurer | 8.00% | ~116 |
-| Animal Exterminator | 7.00% | ~101 |
+| Animal Exterminator | 7.00% | ~102 |
 | Adolescent Love | 6.00% | ~87 |
 | Mail Carrier | 5.00% | ~72 |
 | Plantation Exterminator | 4.00% | ~58 |
 | Grape Supplier | 4.00% | ~58 |
-| Sous Chef | 3.00% | ~43 |
+| Sous Chef | 3.00% | ~44 |
 | Being forgetful... | 2.00% | ~29 |
 | Community Advisor | 2.00% | ~29 |
 | Rock Exterminator | 2.00% | ~29 |
@@ -44,7 +44,7 @@ Rating: 3.83 (Ranked 932)
 | Moonbury Navigator | 0.80% | ~12 |
 | Being a donut... | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,449 (Ranked 168)  
+Progressed: 1,450 (Ranked 168)  
 Completed: 7 (0.48%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 7 (0.48%) (Ranked 125)
 | 2023-06-22 | 1,446 | 7 |
 | 2023-06-23 | 1,448 | 7 |
 | 2023-06-24 | 1,449 | 7 |
+| 2023-06-25 | 1,450 | 7 |
 ## Awards
 Max (Character Customization): 67  (Ranked 372)  
 Sum: 67 (Ranked 430)  
@@ -167,3 +168,4 @@ Diff (max vs sum): -58
 | 2023-06-21 | 3.82 | 66 | 66 |
 | 2023-06-22 | 3.82 | 67 | 67 |
 | 2023-06-24 | 3.83 | 67 | 67 |
+| 2023-06-25 | 3.82 | 67 | 67 |

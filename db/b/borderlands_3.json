@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -7712,10 +7712,34 @@
       "Rating": 4.69,
       "NumberOfAwards": 350869,
       "NumberOfAwardsMax": 111924
+    },
+    {
+      "Time": "2023-06-25T21:59:31.3196469+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 350889,
+      "NumberOfAwardsMax": 111924
+    },
+    {
+      "Time": "2023-06-25T23:01:12.0597767+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 350920,
+      "NumberOfAwardsMax": 111924
+    },
+    {
+      "Time": "2023-06-26T02:28:20.1395005+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 350931,
+      "NumberOfAwardsMax": 111924
+    },
+    {
+      "Time": "2023-06-26T03:26:50.9819829+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 350946,
+      "NumberOfAwardsMax": 111924
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 350869,
+  "NumberOfAwards": 350946,
   "NumberOfAwardsMax": 111924,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7729,7 +7753,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27454
+      "Count": 27474
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7753,13 +7777,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24314
+      "Count": 24325
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23736
+      "Count": 23753
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7771,7 +7795,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23551
+      "Count": 23565
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7783,7 +7807,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 17011
+      "Count": 17026
     }
   ],
   "EOS_Progressed": 0,
@@ -7797,8 +7821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-06-25T19:59:25.6869861+00:00",
+  "LastChanged": "2023-06-26T03:26:50.9819828+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.8723111+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:00:22.243422+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:03:41.6425583+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:00:57.0887821+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:03:42.8441392+00:00"
 }

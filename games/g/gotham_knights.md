@@ -6,14 +6,15 @@ Rating: 4.17 (Ranked 857)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,959 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,639 |
-| Loose Ends | 4.00% | ~2,639 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,640 |
+| Loose Ends | 4.00% | ~2,640 |
 | The Batman Family | 3.00% | ~1,980 |
 | Something in the Clay | 3.00% | ~1,980 |
 | To the Victor Go the Spoils | 3.00% | ~1,980 |
 | Quartzer Life Crisis | 3.00% | ~1,980 |
 | Get ReQ'd | 3.00% | ~1,980 |
 | Working Hard or Harley Working? | 3.00% | ~1,980 |
+| Unstoppable Force | 3.00% | ~1,980 |
 | Knighthood | 3.00% | ~1,980 |
 | Whispered Words | 3.00% | ~1,980 |
 | Lock and Key | 3.00% | ~1,980 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 857)
 | Snow Problem | 2.00% | ~1,320 |
 | Cooldown | 2.00% | ~1,320 |
 | Universal Health Scare | 2.00% | ~1,320 |
-| Unstoppable Force | 2.00% | ~1,320 |
 | Bad Apples in Every Orchard | 2.00% | ~1,320 |
 | From Inside Gotham's Walls | 2.00% | ~1,320 |
 | Voiceless | 2.00% | ~1,320 |
@@ -54,6 +54,7 @@ Rating: 4.17 (Ranked 857)
 | Talonted | 0.20% | ~132 |
 | The Man-Bat Family | 0.20% | ~132 |
 | Batarang Collector | 0.20% | ~132 |
+| Claiming the Mural High Ground | 0.20% | ~132 |
 | Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
 | Gotham's Greatest Depths | 0.10% | ~36 |
@@ -63,11 +64,10 @@ Rating: 4.17 (Ranked 857)
 | Don't Mecha Big Deal About It | 0.10% | ~36 |
 | Read Owl About It | 0.10% | ~66 |
 | History Major | 0.10% | ~66 |
-| Claiming the Mural High Ground | 0.10% | ~66 |
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,984 (Ranked 72)  
+Progressed: 65,989 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,22 +133,23 @@ Completed: 98 (0.15%) (Ranked 165)
 | 2023-06-22 | 65,855 | 96 |
 | 2023-06-23 | 65,891 | 96 |
 | 2023-06-24 | 65,942 | 98 |
-| 2023-06-25 | 65,984 | 98 |
+| 2023-06-25 | 65,987 | 98 |
+| 2023-06-26 | 65,989 | 98 |
 ## Awards
-Max (Great Boss Battles): 2,377  (Ranked 100)  
-Sum: 3,935 (Ranked 138)  
+Max (Great Boss Battles): 2,381  (Ranked 100)  
+Sum: 3,941 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,377 |
+| This game has Great Boss Battles | 2,381 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Relaxing | 200 |
 | This game is Extremely Fun | 200 |
 | This game has Amazing Characters | 199 |
+| This game is Great for Beginners | 191 |
 | This game has Diverse Characters | 191 |
-| This game is Great for Beginners | 190 |
 | This game has Amazing Storytelling | 190 |
-| This game is Highly Recommended | 186 |
+| This game is Highly Recommended | 187 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -277,4 +278,5 @@ Diff (max vs sum): -38
 | 2023-06-22 | 4.17 | 2,362 | 3,915 |
 | 2023-06-23 | 4.17 | 2,372 | 3,926 |
 | 2023-06-24 | 4.17 | 2,377 | 3,933 |
-| 2023-06-25 | 4.17 | 2,377 | 3,935 |
+| 2023-06-25 | 4.17 | 2,381 | 3,939 |
+| 2023-06-26 | 4.17 | 2,381 | 3,941 |

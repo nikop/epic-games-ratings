@@ -3,12 +3,12 @@
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
   "Ranking_Rating": 651,
-  "Ranking_Popularity": 307,
+  "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -1756,11 +1756,29 @@
       "Rating": 4.43,
       "NumberOfAwards": 803,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-06-25T23:02:16.2629572+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 806,
+      "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-06-26T02:29:05.8326885+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 807,
+      "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-06-26T04:02:02.7879259+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 808,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 803,
-  "NumberOfAwardsMax": 122,
+  "NumberOfAwards": 808,
+  "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1773,7 +1791,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1797,7 +1815,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 82
+      "Count": 85
     },
     {
       "Text": "This game has Competitive Players",
@@ -1821,7 +1839,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 75
+      "Count": 76
     }
   ],
   "EOS_Progressed": 0,
@@ -1836,8 +1854,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-06-25T00:00:02.4915088+00:00",
+  "LastChanged": "2023-06-26T04:02:02.7879258+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:45.8075213+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:01:21.1618142+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:06:34.1423252+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:02:02.7879264+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:05.5610611+00:00"
 }

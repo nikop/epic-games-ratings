@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2971,
+  "EOS_Progressed": 2973,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2825,6 +2825,16 @@
       "Time": "2023-06-25T21:04:34.8044455+00:00",
       "NumProgressed": 2971,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-25T22:03:53.9465305+00:00",
+      "NumProgressed": 2972,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T02:32:45.7089555+00:00",
+      "NumProgressed": 2973,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2836,7 +2846,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "AceDetective_9",
@@ -2860,7 +2870,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "BloodAndJustice_50",
@@ -2892,7 +2902,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "Eureka_23",
@@ -3020,7 +3030,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3028,7 +3038,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1903
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3036,7 +3046,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -3100,7 +3110,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -3108,7 +3118,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "TheStuffOfLegends",
@@ -3156,7 +3166,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2230
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3171,15 +3181,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2971,
+      "Progressed": 2973,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:04:34.804445+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:04:49.7487662+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:30.540062+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:58:13.3566211+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:04:34.8044822+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:58:27.0825799+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:04:49.7488256+00:00"
 }

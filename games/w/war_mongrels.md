@@ -27,7 +27,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 22.00% | ~84 |
 | Vengeance | 22.00% | ~84 |
 | It's Just an Accident | 22.00% | ~84 |
-| Broken Hopes | 19.00% | ~73 |
+| Broken Hopes | 20.00% | ~77 |
 | Bullseye! | 19.00% | ~73 |
 | Food Massacre | 17.00% | ~65 |
 | Sorrow | 16.00% | ~61 |
@@ -35,17 +35,17 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter IV | 15.00% | ~57 |
 | Atonement | 14.00% | ~54 |
 | Helping Hand | 14.00% | ~54 |
-| Without a Second Thought | 12.00% | ~46 |
+| Without a Second Thought | 13.00% | ~50 |
 | Collectibles of Chapter V | 10.00% | ~38 |
 | Tiptoe Around | 8.00% | ~31 |
 | Such is War! | 7.00% | ~27 |
 | Collectibles of Chapter XII | 6.00% | ~23 |
 | Piece of Cake | 6.00% | ~23 |
 | Collectibles of Chapter VII | 5.00% | ~19 |
+| It Will Rain | 5.00% | ~19 |
 | Collectibles of Chapter VIII | 4.00% | ~15 |
 | Collectibles of Chapter X | 4.00% | ~15 |
 | Collectibles of Chapter XI | 4.00% | ~15 |
-| It Will Rain | 4.00% | ~15 |
 | Not Spill a Drop | 4.00% | ~15 |
 | Collectibles of Chapter VI | 3.00% | ~11 |
 | Collectibles of Chapter IX | 3.00% | ~11 |

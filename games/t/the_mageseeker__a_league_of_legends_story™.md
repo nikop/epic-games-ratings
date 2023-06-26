@@ -54,8 +54,8 @@ Rating: 4.80 (Ranked 81)
 | Truth is a dark mirror | 9.00% | ~216 |
 | You can pet the... horse | 9.00% | ~216 |
 | Do you trust me? | 8.00% | ~192 |
+| The great mage rebellion starts now | 8.00% | ~192 |
 | Spellcrafting | 8.00% | ~192 |
-| The great mage rebellion starts now | 7.00% | ~168 |
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)

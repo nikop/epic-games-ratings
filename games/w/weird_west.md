@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,452 |
+| Unforgiven | 87.00% | ~1,453 |
 | Self-Improvement | 72.00% | ~1,202 |
-| Perky | 65.00% | ~1,085 |
-| Let’s Ride | 60.00% | ~1,001 |
-| Welcome to the Weird West | 57.00% | ~951 |
-| Dead or Alive | 55.00% | ~918 |
+| Perky | 65.00% | ~1,086 |
+| Let’s Ride | 60.00% | ~1,002 |
+| Welcome to the Weird West | 57.00% | ~952 |
+| Dead or Alive | 55.00% | ~919 |
 | Full House | 37.00% | ~618 |
 | Off the Trail | 33.00% | ~551 |
 | Justice Served | 29.00% | ~484 |
 | Chain Reaction | 27.00% | ~451 |
 | Through Their Eyes | 26.00% | ~434 |
-| Rain of Death | 25.00% | ~417 |
-| Scholar | 25.00% | ~417 |
+| Rain of Death | 25.00% | ~418 |
+| Scholar | 25.00% | ~418 |
 | Dishonored | 24.00% | ~401 |
 | The Great Escape | 23.00% | ~384 |
-| That’s All, Folks | 18.00% | ~300 |
+| That’s All, Folks | 18.00% | ~301 |
 | Fallen Star | 16.00% | ~267 |
 | For Balance | 16.00% | ~267 |
 | Here Comes Santa Claus | 16.00% | ~267 |
@@ -45,8 +45,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 7.00% | ~117 |
 | Healing Old Wounds | 6.00% | ~100 |
 | Who You Gonna Call? | 6.00% | ~100 |
-| This Is Sparta | 5.00% | ~83 |
-| What’s in the Box? | 5.00% | ~83 |
+| This Is Sparta | 5.00% | ~84 |
+| What’s in the Box? | 5.00% | ~84 |
 | Ghost Town | 3.00% | ~50 |
 | Moondrunk | 3.00% | ~50 |
 | Lord Inut Sends His Regards | 2.00% | ~33 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,669 (Ranked 165)  
+Progressed: 1,670 (Ranked 165)  
 Completed: 3 (0.18%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 3 (0.18%) (Ranked 161)
 | 2023-06-23 | 1,666 | 3 |
 | 2023-06-24 | 1,668 | 3 |
 | 2023-06-25 | 1,669 | 3 |
+| 2023-06-26 | 1,670 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 474)  
 Sum: 24 (Ranked 479)  

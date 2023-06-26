@@ -2,10 +2,10 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
     "PcReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "JUMPER_5000",
       "SetID": "dademeo",
       "Name": "Jumper 5000",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 145,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -273,8 +273,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:02:24.7087527+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:02:55.8822785+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:13.1806546+00:00",
-  "LastUpdate_Ratings": "2023-06-25T20:57:26.92396+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:02:24.7087601+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:57:32.9893102+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:02:55.8822897+00:00"
 }

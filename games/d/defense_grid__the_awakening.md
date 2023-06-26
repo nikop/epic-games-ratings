@@ -6,55 +6,55 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~388,898 |
-| Hey! That's mine! | 78.00% | ~374,494 |
-| Happy Returns | 77.00% | ~369,693 |
-| Field Promotion | 74.00% | ~355,290 |
-| Leadhead | 71.00% | ~340,886 |
-| Eradicator | 67.00% | ~321,681 |
-| Surplus | 65.00% | ~312,079 |
-| I Spy | 64.00% | ~307,277 |
-| Burn Baby Burn | 59.00% | ~283,271 |
-| Yellow Beats Green | 55.00% | ~264,067 |
-| Salvage Rights | 53.00% | ~254,464 |
-| Pew Pew | 50.00% | ~240,060 |
-| What IS that? | 50.00% | ~240,060 |
-| Close Call | 49.00% | ~235,259 |
-| Penny Pincher | 49.00% | ~235,259 |
-| Arsenal | 46.00% | ~220,856 |
-| Boot Camp | 45.00% | ~216,054 |
-| Flawless Victory | 42.00% | ~201,651 |
-| Confident | 40.00% | ~192,048 |
-| Exterminator | 36.00% | ~172,844 |
-| Sharpshooter | 33.00% | ~158,440 |
-| Great Ball of Fire | 32.00% | ~153,639 |
-| Not So Fast | 32.00% | ~153,639 |
-| No Sale | 30.00% | ~144,036 |
-| Kaboom! | 29.00% | ~139,235 |
-| Liquidator | 29.00% | ~139,235 |
-| High Voltage | 24.00% | ~115,229 |
-| Filthy Rich | 19.00% | ~91,223 |
-| The Not-So-Friendly Skies | 18.00% | ~86,422 |
-| Power Builder | 17.00% | ~81,621 |
-| Pyrrhic Victory | 17.00% | ~81,621 |
-| Death From Above | 16.00% | ~76,819 |
-| Retry | 16.00% | ~76,819 |
-| Head Trauma | 12.00% | ~57,615 |
-| Full Defense | 10.00% | ~48,012 |
-| Overseer | 9.00% | ~43,211 |
-| Annihilator | 8.00% | ~38,410 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,410 |
-| Indecisive | 6.00% | ~28,807 |
-| Base Defender | 5.00% | ~24,006 |
-| Relay Race | 5.00% | ~24,006 |
+| First Blood | 81.00% | ~388,914 |
+| Hey! That's mine! | 78.00% | ~374,510 |
+| Happy Returns | 77.00% | ~369,709 |
+| Field Promotion | 74.00% | ~355,304 |
+| Leadhead | 71.00% | ~340,900 |
+| Eradicator | 67.00% | ~321,694 |
+| Surplus | 65.00% | ~312,092 |
+| I Spy | 64.00% | ~307,290 |
+| Burn Baby Burn | 59.00% | ~283,283 |
+| Yellow Beats Green | 55.00% | ~264,078 |
+| Salvage Rights | 53.00% | ~254,475 |
+| Pew Pew | 50.00% | ~240,070 |
+| What IS that? | 50.00% | ~240,070 |
+| Close Call | 49.00% | ~235,269 |
+| Penny Pincher | 49.00% | ~235,269 |
+| Arsenal | 46.00% | ~220,865 |
+| Boot Camp | 45.00% | ~216,063 |
+| Flawless Victory | 42.00% | ~201,659 |
+| Confident | 40.00% | ~192,056 |
+| Exterminator | 36.00% | ~172,851 |
+| Sharpshooter | 33.00% | ~158,447 |
+| Great Ball of Fire | 32.00% | ~153,645 |
+| Not So Fast | 32.00% | ~153,645 |
+| No Sale | 30.00% | ~144,042 |
+| Kaboom! | 29.00% | ~139,241 |
+| Liquidator | 29.00% | ~139,241 |
+| High Voltage | 24.00% | ~115,234 |
+| Filthy Rich | 19.00% | ~91,227 |
+| The Not-So-Friendly Skies | 18.00% | ~86,425 |
+| Power Builder | 17.00% | ~81,624 |
+| Pyrrhic Victory | 17.00% | ~81,624 |
+| Death From Above | 16.00% | ~76,823 |
+| Retry | 16.00% | ~76,823 |
+| Head Trauma | 12.00% | ~57,617 |
+| Full Defense | 10.00% | ~48,014 |
+| Overseer | 9.00% | ~43,213 |
+| Annihilator | 8.00% | ~38,411 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,411 |
+| Indecisive | 6.00% | ~28,808 |
+| Base Defender | 5.00% | ~24,007 |
+| Relay Race | 5.00% | ~24,007 |
 | Diversity | 3.00% | ~14,404 |
 | Full Potential | 3.00% | ~14,404 |
 | Tower Expert | 3.00% | ~14,404 |
-| Minimalist | 2.00% | ~9,602 |
-| Nail Biter | 2.00% | ~9,602 |
-| Siege Breaker | 2.00% | ~9,602 |
-| The Long Road | 2.00% | ~9,602 |
-| Untouchable | 2.00% | ~9,602 |
+| Minimalist | 2.00% | ~9,603 |
+| Nail Biter | 2.00% | ~9,603 |
+| Siege Breaker | 2.00% | ~9,603 |
+| The Long Road | 2.00% | ~9,603 |
+| Untouchable | 2.00% | ~9,603 |
 | Flurry | 1.00% | ~4,801 |
 | Well Invested | 1.00% | ~4,801 |
 | Xenocide | 1.00% | ~4,801 |
@@ -64,7 +64,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Few and Proud | 0.80% | ~3,841 |
 | Shell-shocked | 0.70% | ~3,361 |
 | Alien Tears | 0.50% | ~2,401 |
-| Full House | 0.40% | ~1,920 |
+| Full House | 0.40% | ~1,921 |
 | Kickstarter | 0.30% | ~1,440 |
 | The Container | 0.30% | ~1,440 |
 | Foresight is 20/20 | 0.20% | ~960 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~480 |
 | You Monster | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,121 (Ranked 32)  
+Progressed: 480,141 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,16 +160,17 @@ Completed: 4 (0.00%) (Ranked 229)
 | 2023-06-22 | 479,857 | 4 |
 | 2023-06-23 | 479,928 | 4 |
 | 2023-06-24 | 480,024 | 4 |
-| 2023-06-25 | 480,121 | 4 |
+| 2023-06-25 | 480,130 | 4 |
+| 2023-06-26 | 480,141 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
-Sum: 1,654 (Ranked 206)  
-Diff (max vs sum): 44  
+Sum: 1,655 (Ranked 207)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 236 |
 | This game has Quickly Understood Controls | 220 |
-| This game is Relaxing | 212 |
+| This game is Relaxing | 213 |
 | This game is Extremely Fun | 202 |
 | This game is Highly Recommended | 187 |
 | This game has Challenging Combat | 180 |
@@ -274,4 +275,4 @@ Diff (max vs sum): 44
 | 2023-06-18 | 4.45 | - | 234 | 1,649 |
 | 2023-06-19 | 4.45 | - | 235 | 1,651 |
 | 2023-06-22 | 4.45 | - | 235 | 1,652 |
-| 2023-06-25 | 4.45 | - | 236 | 1,654 |
+| 2023-06-25 | 4.45 | - | 236 | 1,655 |

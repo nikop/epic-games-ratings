@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -276,7 +276,7 @@
   ],
   "EOS_Progressed": 1003,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -1301,9 +1301,9 @@
       "ID": "MissionPhoenixRediscovery",
       "SetID": "a6c395p",
       "Name": "Ghosts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 251
     },
     {
       "ID": "MissionSalvage",
@@ -1445,8 +1445,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-25T21:07:08.2945024+00:00",
+  "LastChanged_Achievements": "2023-06-26T04:07:41.3044633+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:12.4280624+00:00",
-  "LastUpdate_Ratings": "2023-06-25T21:00:48.8911001+00:00",
-  "LastUpdate_Achievements": "2023-06-25T21:07:08.2945323+00:00"
+  "LastUpdate_Ratings": "2023-06-26T04:01:27.4801176+00:00",
+  "LastUpdate_Achievements": "2023-06-26T04:07:41.3045103+00:00"
 }
