@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 594)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,7 +49,6 @@ Rating: 4.47 (Ranked 593)
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
-| Going Overboard | 0.40% | ~12 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
@@ -58,9 +57,12 @@ Rating: 4.47 (Ranked 593)
 | Road Rage | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
+| Going Overboard | 0.30% | ~9 |
+| Master of Pistols | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
+| Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Reich To The Point | 0.20% | ~6 |
@@ -70,15 +72,13 @@ Rating: 4.47 (Ranked 593)
 | Das Familienjuwel | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
-| Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Shoot for the Moon | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,142 (Ranked 144)  
-Completed: 2 (0.06%) (Ranked 191)  
+Progressed: 3,143 (Ranked 144)  
+Completed: 3 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 2 (0.06%) (Ranked 191)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
-| 2023-06-26 | 3,142 | 2 |
+| 2023-06-26 | 3,143 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

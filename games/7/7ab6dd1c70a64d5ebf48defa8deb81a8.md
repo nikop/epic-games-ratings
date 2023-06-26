@@ -9,6 +9,7 @@
 | Powerful Allies | 8.00% | ~1 |
 | Monsalar: Wildlands | 8.00% | ~1 |
 | A taste of wrath | 8.00% | ~1 |
+| Trinity | 8.00% | ~1 |
 | Airborne | 8.00% | ~1 |
 | Shatter them all | 8.00% | ~1 |
 | Geared up | 8.00% | ~1 |
@@ -20,7 +21,6 @@
 | Godslayer | 0.00% | ~0 |
 | Clear sight | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
-| Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Adventurer | 0.00% | ~0 |

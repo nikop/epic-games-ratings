@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56271,
+  "EOS_Progressed": 56273,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6142,6 +6142,11 @@
       "Time": "2023-06-26T13:17:50.0766299+00:00",
       "NumProgressed": 56271,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-26T15:00:47.2169152+00:00",
+      "NumProgressed": 56273,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6153,7 +6158,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18569
+      "UsersEstimate": 18570
     },
     {
       "ID": "02",
@@ -6161,7 +6166,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11254
+      "UsersEstimate": 11255
     },
     {
       "ID": "03",
@@ -6169,7 +6174,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11254
+      "UsersEstimate": 11255
     },
     {
       "ID": "04",
@@ -6241,7 +6246,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "13",
@@ -6337,7 +6342,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "25",
@@ -6353,7 +6358,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "27",
@@ -6385,7 +6390,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "31",
@@ -6425,7 +6430,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14630
+      "UsersEstimate": 14631
     },
     {
       "ID": "36",
@@ -6688,21 +6693,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56271,
+      "Progressed": 56273,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19739,
+      "Progressed": 19741,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-26T14:02:11.8445598+00:00",
+  "LastChanged_Achievements": "2023-06-26T15:00:47.2169144+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:57:57.1626272+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:02:11.8446794+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:57:49.8125675+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:00:47.2170236+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -6836,10 +6836,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 86193,
       "NumberOfAwardsMax": 10260
+    },
+    {
+      "Time": "2023-06-26T14:59:40.4648448+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 86245,
+      "NumberOfAwardsMax": 10260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86193,
+  "NumberOfAwards": 86245,
   "NumberOfAwardsMax": 10260,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6853,7 +6859,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9447
+      "Count": 9472
     },
     {
       "Text": "This game is Relaxing",
@@ -6871,7 +6877,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9260
+      "Count": 9276
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6901,7 +6907,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6797
+      "Count": 6808
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6921,8 +6927,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-06-26T13:59:52.2044098+00:00",
+  "LastChanged": "2023-06-26T14:59:40.4648446+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:49.385947+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:59:52.2044105+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:03:15.1597179+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:59:40.4648454+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:02:18.8407217+00:00"
 }

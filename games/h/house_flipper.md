@@ -12,7 +12,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Alpha Male | 19.00% | ~3,754 |
 | Pro-creative | 18.00% | ~3,556 |
 | Worth Every Penny | 15.00% | ~2,964 |
-| Family man | 12.00% | ~2,371 |
+| Family man | 13.00% | ~2,569 |
 | Junior Estate Agent | 12.00% | ~2,371 |
 | Mystery | 10.00% | ~1,976 |
 | Artistic soul | 10.00% | ~1,976 |

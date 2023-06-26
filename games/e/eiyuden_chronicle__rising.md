@@ -6,25 +6,25 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~595 |
+| Plenty More to Go | 88.00% | ~596 |
 | All Bark, No Bite | 77.00% | ~521 |
-| Hopeful Hunter | 67.00% | ~453 |
+| Hopeful Hunter | 67.00% | ~454 |
 | Amateur Adventurer | 64.00% | ~433 |
-| The Road to Recovery | 63.00% | ~426 |
-| Partners? | 62.00% | ~419 |
+| The Road to Recovery | 63.00% | ~427 |
+| Partners? | 62.00% | ~420 |
 | Magical Mineral Golem | 55.00% | ~372 |
-| On Outlander Lane | 54.00% | ~365 |
+| On Outlander Lane | 54.00% | ~366 |
 | A Girl About the Town | 51.00% | ~345 |
 | First Time Fishing | 51.00% | ~345 |
-| First Time Hunting | 49.00% | ~331 |
-| Rune Wall Wreckage | 48.00% | ~324 |
+| First Time Hunting | 49.00% | ~332 |
+| Rune Wall Wreckage | 48.00% | ~325 |
 | ...And Your Tax Money | 47.00% | ~318 |
-| The Lords of the Snowpeak | 40.00% | ~270 |
-| The Lava Mantor Wyrm | 36.00% | ~243 |
-| The Go-To Girl | 36.00% | ~243 |
-| Scavenger's Honor | 36.00% | ~243 |
-| Natural Born Monster-Killer | 36.00% | ~243 |
-| The Great Forest...On Foot! | 36.00% | ~243 |
+| The Lords of the Snowpeak | 40.00% | ~271 |
+| The Go-To Girl | 36.00% | ~244 |
+| Scavenger's Honor | 36.00% | ~244 |
+| Natural Born Monster-Killer | 36.00% | ~244 |
+| The Great Forest...On Foot! | 36.00% | ~244 |
+| The Lava Mantor Wyrm | 35.00% | ~237 |
 | One Mean Merc | 35.00% | ~237 |
 | Adept, for an Acting Mayor | 34.00% | ~230 |
 | Money, Money, Money | 34.00% | ~230 |
@@ -36,10 +36,10 @@ Number of Ratings: 48  (23.09.2022)
 | Meat Master | 26.00% | ~176 |
 | Fishing Master | 25.00% | ~169 |
 | Armor Master | 24.00% | ~162 |
-| The Pride of the Town | 23.00% | ~155 |
+| The Pride of the Town | 23.00% | ~156 |
 | New Nevaeh's Number One Customer | 21.00% | ~142 |
 | This Treasure I've Found | 20.00% | ~135 |
-| Arms Master | 19.00% | ~128 |
+| Arms Master | 19.00% | ~129 |
 | Rune Scholar | 16.00% | ~108 |
 | No Treasure Left Behind | 13.00% | ~88 |
 | Sommelier | 12.00% | ~81 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~54 |
 | Rising Champion | 7.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676 (Ranked 198)  
-Completed: 58 (8.58%) (Ranked 23)  
+Progressed: 677 (Ranked 198)  
+Completed: 58 (8.57%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 58 (8.58%) (Ranked 23)
 | 2023-06-17 | 674 | 58 |
 | 2023-06-21 | 675 | 58 |
 | 2023-06-22 | 676 | 58 |
+| 2023-06-26 | 677 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

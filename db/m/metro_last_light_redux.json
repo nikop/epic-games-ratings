@@ -4,11 +4,11 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 197,
   "Ranking_Popularity": 109,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2015-06-02T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1354,6 +1354,6 @@
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
   "LastChanged": "2023-06-23T11:58:45.5094976+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.4955754+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:59:05.628255+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:05:13.2215917+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:58:56.7622938+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:04:51.596557+00:00"
 }

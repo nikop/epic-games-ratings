@@ -6,9 +6,9 @@
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_Completed": 16,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1475,9 +1475,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1997
     },
     {
       "ID": "RocketLaunched",
@@ -1499,9 +1499,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1997
     },
     {
       "ID": "Speed",
@@ -1579,8 +1579,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-26T14:00:54.2243899+00:00",
+  "LastChanged_Achievements": "2023-06-26T15:00:40.6709229+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:11.5939426+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:00:08.9953047+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:00:54.2244691+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:59:54.8096124+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:00:40.6709777+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 86.00% | ~57 |
-| Brute force | 80.00% | ~53 |
-| Nimble fingers | 76.00% | ~50 |
-| Room 104 | 74.00% | ~49 |
-| Face to face | 73.00% | ~48 |
-| Let's play a game… | 71.00% | ~47 |
-| Now or never | 71.00% | ~47 |
-| First aid | 59.00% | ~39 |
-| Soundtrack | 55.00% | ~36 |
+| What's going on here? | 88.00% | ~59 |
+| Brute force | 82.00% | ~55 |
+| Nimble fingers | 75.00% | ~50 |
+| Room 104 | 73.00% | ~49 |
+| Face to face | 72.00% | ~48 |
+| Let's play a game… | 70.00% | ~47 |
+| Now or never | 70.00% | ~47 |
+| First aid | 58.00% | ~39 |
+| Soundtrack | 57.00% | ~38 |
 | Antidote | 45.00% | ~30 |
-| Pick the right door | 23.00% | ~15 |
-| The third floor | 17.00% | ~11 |
+| Pick the right door | 22.00% | ~15 |
+| The third floor | 16.00% | ~11 |
 | One-way | 15.00% | ~10 |
-| On the right path | 14.00% | ~9 |
-| It can't be true | 14.00% | ~9 |
+| On the right path | 13.00% | ~9 |
+| It can't be true | 13.00% | ~9 |
 | I'm close now | 12.00% | ~8 |
 | Failed attempt | 12.00% | ~8 |
 | The real escape | 12.00% | ~8 |
@@ -27,16 +27,16 @@
 | Take the long way round | 12.00% | ~8 |
 | Born again | 9.00% | ~6 |
 | He who seeks, finds! | 9.00% | ~6 |
-| 373 | 8.00% | ~5 |
+| 373 | 7.00% | ~5 |
 | The experiment | 6.00% | ~4 |
 | Matthew's revenge | 6.00% | ~4 |
 | Horror book | 3.00% | ~2 |
-| Eva's diary | 2.00% | ~1 |
-| A dark past | 2.00% | ~1 |
+| Eva's diary | 1.00% | ~1 |
+| A dark past | 1.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 317)  
+Progressed: 67 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 38 | 0 |
 | 2023-06-24 | 50 | 0 |
 | 2023-06-25 | 62 | 0 |
-| 2023-06-26 | 66 | 0 |
+| 2023-06-26 | 67 | 0 |

@@ -17,8 +17,8 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.60% | ~34 |
 | IRL Let's Player | 0.60% | ~34 |
+| Inspector | 0.60% | ~34 |
 | Newcomer: Vickie | 0.60% | ~34 |
-| Inspector | 0.50% | ~28 |
 | Social Butterfly | 0.50% | ~28 |
 | Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |

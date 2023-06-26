@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -472,11 +472,11 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 10846,
-  "EOS_Completed": 23,
+  "EOS_Progressed": 10847,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 141,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -5707,6 +5707,11 @@
       "Time": "2023-06-26T13:23:03.7709249+00:00",
       "NumProgressed": 10846,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-26T15:05:56.0726317+00:00",
+      "NumProgressed": 10847,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -5718,7 +5723,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8677
+      "UsersEstimate": 8678
     },
     {
       "ID": "ACH02",
@@ -5838,7 +5843,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ACH17",
@@ -5942,7 +5947,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH30",
@@ -5997,16 +6002,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10846,
-      "Completed": 23
+      "Progressed": 10847,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-25T11:01:23.0929138+00:00",
-  "LastChanged_Achievements": "2023-06-26T14:06:17.4711497+00:00",
+  "LastChanged_Achievements": "2023-06-26T15:05:56.0726308+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.5561268+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:00:21.3086571+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:06:17.471214+00:00"
+  "LastUpdate_Ratings": "2023-06-26T15:00:07.2523553+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:05:56.0726974+00:00"
 }

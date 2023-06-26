@@ -2,13 +2,13 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6844,10 +6844,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 61906,
       "NumberOfAwardsMax": 8846
+    },
+    {
+      "Time": "2023-06-26T14:59:59.2207625+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 61916,
+      "NumberOfAwardsMax": 8846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61906,
+  "NumberOfAwards": 61916,
   "NumberOfAwardsMax": 8846,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6867,7 +6873,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7551
+      "Count": 7561
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6923,8 +6929,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-06-26T08:01:09.1431018+00:00",
+  "LastChanged": "2023-06-26T14:59:59.2207623+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:18.0087394+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:00:12.9446128+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:03:49.0741223+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:59:59.2207629+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:03:32.6896254+00:00"
 }

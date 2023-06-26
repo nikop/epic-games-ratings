@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2420,10 +2420,10 @@
       "Count": 308
     }
   ],
-  "EOS_Progressed": 15485,
+  "EOS_Progressed": 15488,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 93,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 95,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
@@ -6020,6 +6020,11 @@
       "Time": "2023-06-26T02:34:53.4783562+00:00",
       "NumProgressed": 15485,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-06-26T15:05:58.9228061+00:00",
+      "NumProgressed": 15488,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 50,
@@ -6189,9 +6194,9 @@
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 465
     },
     {
       "ID": "WinNearFishmen",
@@ -6430,15 +6435,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15485,
+      "Progressed": 15488,
       "Completed": 38
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-25T19:01:32.0484131+00:00",
-  "LastChanged_Achievements": "2023-06-26T14:06:20.3173811+00:00",
+  "LastChanged_Achievements": "2023-06-26T15:05:58.9228053+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-26T14:00:08.1850121+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:06:20.3174733+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:59:53.9122403+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:05:58.9228691+00:00"
 }

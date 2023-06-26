@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4236,9 +4236,9 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 281569,
+  "EOS_Progressed": 281571,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11286,6 +11286,11 @@
       "Time": "2023-06-26T14:05:29.2592233+00:00",
       "NumProgressed": 281569,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-06-26T15:05:08.528504+00:00",
+      "NumProgressed": 281571,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 45,
@@ -11361,7 +11366,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14078
+      "UsersEstimate": 14079
     },
     {
       "ID": "PFA_18",
@@ -11656,7 +11661,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281569,
+      "Progressed": 281571,
       "Completed": 413
     }
   ],
@@ -11664,8 +11669,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-26T13:57:36.9110554+00:00",
-  "LastChanged_Achievements": "2023-06-26T14:05:29.2592229+00:00",
+  "LastChanged_Achievements": "2023-06-26T15:05:08.5285031+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-26T13:57:36.9110558+00:00",
-  "LastUpdate_Achievements": "2023-06-26T14:05:29.259325+00:00"
+  "LastUpdate_Ratings": "2023-06-26T14:57:32.546883+00:00",
+  "LastUpdate_Achievements": "2023-06-26T15:05:08.5285922+00:00"
 }
