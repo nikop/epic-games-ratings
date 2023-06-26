@@ -5,7 +5,7 @@
 | 3 | [Rain World](games/r/rain_world.md) | 4.93 | 0 | 501 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 21 | 489 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,498 | 118 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,146 | 88 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,146 | 89 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 501 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 501 |
 | 9 | [Mago](games/m/mago.md) | 4.90 | 0 | 501 |
@@ -392,7 +392,7 @@
 | 387 | [Control](games/c/control.md) | 4.60 | 8,368 | 39 |
 | 387 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 215 | 257 |
 | 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
-| 387 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,256 | 12 |
+| 387 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,357 | 12 |
 | 387 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,428 | 26 |
 | 387 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 501 |
 | 387 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 309 |
@@ -415,7 +415,7 @@
 | 411 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 186 | 274 |
 | 411 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 501 |
 | 411 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
-| 411 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 288 | 234 |
+| 411 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 289 | 234 |
 | 411 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 697 | 161 |
 | 411 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 261 |
 | 411 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
@@ -429,7 +429,7 @@
 | 420 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 426 |
 | 420 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 219 | 253 |
 | 420 | [Moving Out](games/m/moving_out.md) | 4.58 | 0 | 501 |
-| 420 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,481 | 119 |
+| 420 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,482 | 119 |
 | 420 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 262 |
 | 420 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 501 |
 | 420 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 390 |
@@ -449,7 +449,7 @@
 | 439 | [Hob](games/h/hob.md) | 4.57 | 0 | 501 |
 | 439 | [IXION](games/i/ixion.md) | 4.57 | 0 | 501 |
 | 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,502 | 44 |
-| 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,139 | 89 |
+| 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,139 | 90 |
 | 439 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 311 |
 | 439 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 501 |
 | 439 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 454 |
@@ -470,7 +470,7 @@
 | 457 | [Minit](games/m/minit.md) | 4.56 | 0 | 501 |
 | 457 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,745 | 67 |
 | 457 | [Observation](games/o/observation.md) | 4.56 | 0 | 501 |
-| 457 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.56 | 3,025 | 90 |
+| 457 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.56 | 3,180 | 88 |
 | 457 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,788 | 111 |
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 501 |
 | 457 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 355 |
@@ -555,7 +555,7 @@
 | 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,202 | 13 |
 | 549 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 501 |
 | 549 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 102 | 326 |
-| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,473 | 95 |
+| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,477 | 95 |
 | 549 | [Horace](games/h/horace.md) | 4.50 | 0 | 501 |
 | 549 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 501 |
 | 549 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 329 |

@@ -1,9 +1,9 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.56% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.14% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
-| 3 | [Volley Pals](games/v/volley_pals.md) | 25.53% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [Overloop](games/o/overloop.md) | 25.00% |
+| 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
@@ -21,7 +21,7 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.64% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -34,7 +34,7 @@
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.26% |
+| 35 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.13% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.04% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
@@ -93,7 +93,7 @@
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
 | 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.16% |
-| 94 | [Late Shift](games/l/late_shift.md) | 1.15% |
+| 94 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 95 | [Trifox](games/t/trifox.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
