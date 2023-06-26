@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,596 | 4.65 | 297 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,383 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,345 | 4.53 | 505 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,758 | 4.57 | 439 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,772 | 4.57 | 439 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,384 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,654 | 4.61 | 363 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,604 | 4.76 | 120 |
@@ -40,14 +40,14 @@
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,846 | 4.76 | 120 |
 | 39 | [Control](games/c/control.md) | 8,368 | 4.60 | 387 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,017 | 4.58 | 420 |
-| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,650 | 4.85 | 42 |
+| 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,653 | 4.85 | 42 |
 | 42 | [Supraland](games/s/supraland.md) | 7,628 | 4.61 | 363 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,562 | 4.89 | 13 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,502 | 4.57 | 439 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,365 | 4.47 | 593 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,273 | 4.71 | 180 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,213 | 4.68 | 240 |
-| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,712 | 4.74 | 143 |
+| 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,720 | 4.74 | 143 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 661 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,546 | 4.71 | 180 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,323 | 4.80 | 81 |
@@ -185,7 +185,7 @@
 | 183 | [Star Trek Online](games/s/star_trek_online.md) | 549 | 4.44 | 633 |
 | 183 | [Vampyr](games/v/vampyr.md) | 549 | 4.32 | 759 |
 | 185 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 546 | 4.62 | 345 |
-| 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 542 | 4.41 | 672 |
+| 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 543 | 4.41 | 672 |
 | 187 | [Godfall Ultimate Edition](games/g/godfall.md) | 523 | 4.07 | 895 |
 | 188 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 510 | 4.52 | 518 |
 | 189 | [Terraforming Mars](games/t/terraforming_mars.md) | 502 | 4.54 | 490 |
@@ -199,8 +199,8 @@
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 455 | 4.60 | 387 |
 | 198 | [Second Extinction™](games/s/second_extinction™.md) | 448 | 4.05 | 900 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 445 | 4.61 | 363 |
-| 200 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
-| 200 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 418 | 4.40 | 686 |
+| 200 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 419 | 4.40 | 686 |
+| 201 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 202 | [RimWorld](games/r/rimworld.md) | 416 | 4.89 | 13 |
 | 202 | [The Sims™ 4](games/t/the_sims™_4.md) | 416 | 4.61 | 363 |
 | 204 | [Loop Hero](games/l/loop_hero.md) | 414 | 4.68 | 240 |
@@ -220,7 +220,7 @@
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 354 | 4.85 | 42 |
 | 219 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 350 | 4.32 | 759 |
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 347 | 4.71 | 180 |
-| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 344 | 3.94 | 920 |
+| 221 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 344 | 3.93 | 921 |
 | 222 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 342 | 4.76 | 120 |
 | 223 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
 | 224 | [Dungeons 3](games/d/dungeons_3.md) | 327 | 4.66 | 273 |
