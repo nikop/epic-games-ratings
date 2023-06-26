@@ -16,12 +16,12 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 15 | [Remains](games/r/remains.md) | 12.50% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
 | 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.69% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.63% |
+| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.62% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -41,7 +41,7 @@
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.97% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 43 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.70% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
 | 45 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
@@ -56,8 +56,8 @@
 | 54 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 55 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 55 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.86% |
-| 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
+| 57 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
+| 57 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
 | 59 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -72,7 +72,7 @@
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
 | 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -170,8 +170,8 @@
 | 165 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 165 | [Port Royale 4](games/p/port_royale_4.md) | 0.15% |
 | 165 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 171 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 172 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 171 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 171 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
 | 173 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 174 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 174 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
