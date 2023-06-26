@@ -135,6 +135,7 @@
 | [Capital Command](games/c/capital_command.md) | 2023-12-31 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2023-12-31 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2023-12-31 | - |  | - | - |
+| [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2023-12-31 | - |  | - | - |
 | [Dreamsettler](games/d/dreamsettler.md) | 2023-12-31 | - |  | - | - |
 | [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2023-12-31 | - |  | - | - |
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-12-31 | - |  | - | - |

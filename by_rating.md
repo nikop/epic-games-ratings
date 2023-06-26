@@ -53,7 +53,7 @@
 | 42 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.85 | 0 | 501 |
 | 52 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 392 |
 | 52 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 404 |
-| 52 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 256 |
+| 52 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 257 |
 | 52 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 501 |
 | 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 409 | 205 |
 | 52 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 257 | 244 |
@@ -234,7 +234,7 @@
 | 220 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 501 |
 | 220 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 501 |
 | 220 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 39 | 421 |
-| 220 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 908 | 147 |
+| 220 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 909 | 147 |
 | 220 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 501 |
 | 220 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 501 |
 | 220 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 501 |
@@ -390,7 +390,7 @@
 | 387 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 646 | 167 |
 | 387 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,550 | 28 |
 | 387 | [Control](games/c/control.md) | 4.60 | 8,368 | 39 |
-| 387 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 215 | 257 |
+| 387 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 215 | 258 |
 | 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 359 |
 | 387 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,357 | 12 |
 | 387 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,428 | 26 |
@@ -474,12 +474,12 @@
 | 457 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,788 | 111 |
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 501 |
 | 457 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 355 |
-| 457 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,075 | 76 |
+| 457 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,082 | 76 |
 | 476 | [Aimlabs](games/a/aimlabs.md) | 4.55 | 0 | 501 |
 | 476 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 501 |
 | 476 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 501 |
 | 476 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,269 | 128 |
-| 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 215 | 257 |
+| 476 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 217 | 256 |
 | 476 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 451 |
 | 476 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 501 |
 | 476 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 871 | 149 |
@@ -663,7 +663,7 @@
 | 661 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 501 |
 | 661 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 62 | 381 |
 | 661 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 454 |
-| 661 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,255 | 30 |
+| 661 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,267 | 30 |
 | 661 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 501 |
 | 661 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,153 | 133 |
 | 661 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
@@ -845,7 +845,7 @@
 | 833 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 501 |
 | 844 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 396 |
 | 844 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 440 |
-| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,745 | 5 |
+| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 184,790 | 5 |
 | 844 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 501 |
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 501 |
 | 844 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 57 | 387 |

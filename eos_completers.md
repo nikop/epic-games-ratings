@@ -1,14 +1,14 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.14% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.51% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.36% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.03% |
+| 8 | [Island Cities](games/i/island_cities.md) | 17.63% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 14.94% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -26,7 +26,7 @@
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
-| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -62,7 +62,7 @@
 | 60 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 61 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.53% |
+| 63 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.57% |
 | 64 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 64 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
@@ -469,4 +469,4 @@
 | 229 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 229 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,836 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,837 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
