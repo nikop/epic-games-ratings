@@ -592,9 +592,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251878,
+  "EOS_Progressed": 251884,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7322,6 +7322,11 @@
       "Time": "2023-06-26T00:05:02.9657295+00:00",
       "NumProgressed": 251878,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-26T02:32:49.1645621+00:00",
+      "NumProgressed": 251884,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7333,7 +7338,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17631
+      "UsersEstimate": 17632
     },
     {
       "ID": "Act2",
@@ -7381,7 +7386,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78082
+      "UsersEstimate": 78084
     },
     {
       "ID": "BackHomeNTimes",
@@ -7605,7 +7610,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7556
+      "UsersEstimate": 7557
     },
     {
       "ID": "KillOtherWithMine",
@@ -7621,7 +7626,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55413
+      "UsersEstimate": 55414
     },
     {
       "ID": "KillOthers2",
@@ -7780,7 +7785,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251878,
+      "Progressed": 251884,
       "Completed": 2
     }
   ],
@@ -7788,8 +7793,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-24T19:02:21.5007856+00:00",
-  "LastChanged_Achievements": "2023-06-26T00:05:02.9657292+00:00",
+  "LastChanged_Achievements": "2023-06-26T02:32:49.1645615+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-26T00:01:36.3064811+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:05:02.9658489+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:28:55.5569473+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:32:49.1646442+00:00"
 }

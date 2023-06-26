@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -532,6 +532,11 @@
       "Time": "2023-06-26T00:02:15.0755662+00:00",
       "NumProgressed": 435,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-26T02:29:21.4304683+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -543,7 +548,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "CHOICES_MATTER",
@@ -629,9 +634,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 314
     },
     {
       "ID": "GOOD_KARMA",
@@ -655,7 +660,7 @@
       "Name": "Office Clerk",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -695,14 +700,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 5
     }
   ],
@@ -710,8 +715,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-06-26T00:02:15.0755657+00:00",
+  "LastChanged_Achievements": "2023-06-26T02:29:21.4304677+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:18.2029635+00:00",
-  "LastUpdate_Ratings": "2023-06-25T23:58:21.3261039+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:02:15.0755915+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:26:31.6524949+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:29:21.4304918+00:00"
 }

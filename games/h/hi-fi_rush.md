@@ -7,24 +7,24 @@ Rating: 4.89 (Ranked 13)
 | ---- | ---------- | ----- |
 | Start with a bang! | 80.00% | ~2,674 |
 | Feeling the beat! | 80.00% | ~2,674 |
-| You can pet the cat! | 75.00% | ~2,506 |
+| You can pet the cat! | 75.00% | ~2,507 |
 | Who put gears in there? | 68.00% | ~2,273 |
-| Cream of the Crop | 62.00% | ~2,072 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,072 |
-| You got this, Peppermint? | 57.00% | ~1,905 |
-| Perfect Parry | 55.00% | ~1,838 |
+| Cream of the Crop | 62.00% | ~2,073 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,073 |
+| You got this, Peppermint? | 57.00% | ~1,906 |
+| Perfect Parry | 55.00% | ~1,839 |
 | Alright, that felt AWESOME! | 54.00% | ~1,805 |
-| I play my own way! | 50.00% | ~1,671 |
-| This will cost you big time | 48.00% | ~1,604 |
-| Uh, they were broken when I got here | 46.00% | ~1,537 |
+| I play my own way! | 50.00% | ~1,672 |
+| This will cost you big time | 48.00% | ~1,605 |
+| Uh, they were broken when I got here | 46.00% | ~1,538 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,504 |
-| Kissing the sky! | 44.00% | ~1,470 |
-| Does that say weakpoint? | 41.00% | ~1,370 |
+| Kissing the sky! | 44.00% | ~1,471 |
+| Does that say weakpoint? | 41.00% | ~1,371 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,337 |
 | The Negotiator | 38.00% | ~1,270 |
-| You must like calling me in, Chai | 34.00% | ~1,136 |
+| You must like calling me in, Chai | 34.00% | ~1,137 |
 | Out in a puff of smoke | 33.00% | ~1,103 |
-| Headliner | 32.00% | ~1,069 |
+| Headliner | 32.00% | ~1,070 |
 | Time to pay up! | 30.00% | ~1,003 |
 | Who's the boss now? | 29.00% | ~969 |
 | Perfecter Parry-er! | 29.00% | ~969 |
@@ -58,8 +58,8 @@ Rating: 4.89 (Ranked 13)
 | I saw all those hits coming a measure away! | 0.90% | ~30 |
 | My Ultimate Setlist | 0.70% | ~23 |
 | This was... not what I expected. | 0.70% | ~23 |
+| OK, I THINK I know what I'm doing now | 0.70% | ~23 |
 | Have we met before? | 0.60% | ~20 |
-| OK, I THINK I know what I'm doing now | 0.60% | ~20 |
 | I think that's enough health for now | 0.50% | ~17 |
 | I have to read ALL of these things? | 0.50% | ~17 |
 | I'm untouchable! | 0.50% | ~17 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 13)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,342 (Ranked 143)  
+Progressed: 3,343 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 5 (0.15%) (Ranked 165)
 | 2023-06-23 | 3,327 | 5 |
 | 2023-06-24 | 3,333 | 5 |
 | 2023-06-25 | 3,342 | 5 |
+| 2023-06-26 | 3,343 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

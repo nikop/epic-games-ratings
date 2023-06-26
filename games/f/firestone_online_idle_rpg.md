@@ -10,7 +10,7 @@ Rating: 4.07 (Ranked 895)
 | Temple of Eternals | 57.00% | ~855 |
 | Prestigious | 54.00% | ~810 |
 | Fellowship Power | 41.00% | ~615 |
-| Guild Power | 24.00% | ~360 |
+| Guild Power | 25.00% | ~375 |
 | Prestigious x10 | 21.00% | ~315 |
 | The game is on | 19.00% | ~285 |
 | Exotic Merchant | 17.00% | ~255 |
@@ -70,8 +70,8 @@ Rating: 4.07 (Ranked 895)
 | Tree of Life | 0.50% | ~8 |
 | Cauldron Liberator | 0.40% | ~6 |
 | Enchanting skill x5 | 0.40% | ~6 |
+| Guardian Master | 0.40% | ~6 |
 | Angel Power | 0.30% | ~4 |
-| Guardian Master | 0.30% | ~4 |
 | Titan Power | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |

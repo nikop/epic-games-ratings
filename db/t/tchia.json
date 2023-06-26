@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6610,
+  "EOS_Progressed": 6612,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -4061,6 +4061,11 @@
       "Time": "2023-06-25T22:05:34.8832059+00:00",
       "NumProgressed": 6610,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-26T02:34:36.7785465+00:00",
+      "NumProgressed": 6612,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -4152,7 +4157,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "HISTORIAN",
@@ -4200,7 +4205,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "SNIP_SNIP",
@@ -4224,7 +4229,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "THING",
@@ -4239,7 +4244,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6610,
+      "Progressed": 6612,
       "Completed": 25
     }
   ],
@@ -4247,8 +4252,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-06-26T00:07:22.4803101+00:00",
+  "LastChanged_Achievements": "2023-06-26T02:34:36.7785457+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:38.8674374+00:00",
-  "LastUpdate_Ratings": "2023-06-25T23:58:39.0432892+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:07:22.4803718+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:26:48.5195834+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:34:36.7785842+00:00"
 }

@@ -1,64 +1,64 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 239)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~99,471 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~74,871 |
-| A Clear Conscience | 69.00% | ~73,801 |
-| Unleash Hell | 68.00% | ~72,731 |
-| Unfulfilled Desires | 68.00% | ~72,731 |
-| Funny Guy | 67.00% | ~71,662 |
-| Unshackled | 67.00% | ~71,662 |
-| Long Live the King | 66.00% | ~70,592 |
-| Resurrection | 62.00% | ~66,314 |
-| Wyrdly Reconstructed | 62.00% | ~66,314 |
-| Boxcar Kid | 60.00% | ~64,175 |
-| To Grandmother's House | 60.00% | ~64,175 |
-| Rush Hour | 59.00% | ~63,105 |
-| Serenity Now! | 51.00% | ~54,549 |
-| Hope Rekindled | 50.00% | ~53,479 |
-| Ramble On | 47.00% | ~50,270 |
-| Nope | 46.00% | ~49,201 |
-| This Looks Familiar | 37.00% | ~39,574 |
-| Hot Air | 36.00% | ~38,505 |
-| Now Stay Dead | 35.00% | ~37,435 |
-| Harvest Festival | 35.00% | ~37,435 |
-| Merry Time | 34.00% | ~36,366 |
-| Creep and Sleep | 32.00% | ~34,227 |
-| Overdue Notice | 30.00% | ~32,087 |
-| Whale | 30.00% | ~32,087 |
-| Banishment | 29.00% | ~31,018 |
-| FNG | 28.00% | ~29,948 |
-| Predator | 23.00% | ~24,600 |
-| Reverse Banditry | 23.00% | ~24,600 |
-| Autodidact | 23.00% | ~24,600 |
-| Meat and Greet | 21.00% | ~22,461 |
-| Spelunker | 20.00% | ~21,392 |
-| Eyes Up | 20.00% | ~21,392 |
-| Road Trip | 20.00% | ~21,392 |
-| It Rings a Bell | 18.00% | ~19,252 |
-| Escape from the Black Hole | 17.00% | ~18,183 |
-| It Happens | 16.00% | ~17,113 |
-| This Belongs in a Museum | 15.00% | ~16,044 |
-| Dissector | 14.00% | ~14,974 |
-| Handled | 14.00% | ~14,974 |
-| Catch and Decease | 13.00% | ~13,905 |
-| Not Today! | 12.00% | ~12,835 |
-| Deprogramming | 11.00% | ~11,765 |
-| Shrine of Reflection | 11.00% | ~11,765 |
-| When You Want Something Done Right | 10.00% | ~10,696 |
-| Body of Work | 8.00% | ~8,557 |
-| Utopia | 7.00% | ~7,487 |
-| Hat Trick | 6.00% | ~6,417 |
-| Ichthyophobic | 4.00% | ~4,278 |
-| No More Mouths to Feed | 4.00% | ~4,278 |
+| A Place to Lay Your Head | 93.00% | ~99,489 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~74,884 |
+| A Clear Conscience | 69.00% | ~73,814 |
+| Unleash Hell | 68.00% | ~72,744 |
+| Unfulfilled Desires | 68.00% | ~72,744 |
+| Funny Guy | 67.00% | ~71,675 |
+| Unshackled | 67.00% | ~71,675 |
+| Long Live the King | 66.00% | ~70,605 |
+| Resurrection | 62.00% | ~66,326 |
+| Wyrdly Reconstructed | 62.00% | ~66,326 |
+| Boxcar Kid | 60.00% | ~64,186 |
+| To Grandmother's House | 60.00% | ~64,186 |
+| Rush Hour | 59.00% | ~63,116 |
+| Serenity Now! | 51.00% | ~54,558 |
+| Hope Rekindled | 50.00% | ~53,488 |
+| Ramble On | 47.00% | ~50,279 |
+| Nope | 46.00% | ~49,209 |
+| This Looks Familiar | 37.00% | ~39,581 |
+| Hot Air | 36.00% | ~38,512 |
+| Now Stay Dead | 35.00% | ~37,442 |
+| Harvest Festival | 35.00% | ~37,442 |
+| Merry Time | 34.00% | ~36,372 |
+| Creep and Sleep | 32.00% | ~34,233 |
+| Overdue Notice | 30.00% | ~32,093 |
+| Whale | 30.00% | ~32,093 |
+| Banishment | 29.00% | ~31,023 |
+| FNG | 28.00% | ~29,954 |
+| Predator | 23.00% | ~24,605 |
+| Reverse Banditry | 23.00% | ~24,605 |
+| Autodidact | 23.00% | ~24,605 |
+| Meat and Greet | 21.00% | ~22,465 |
+| Spelunker | 20.00% | ~21,395 |
+| Eyes Up | 20.00% | ~21,395 |
+| Road Trip | 20.00% | ~21,395 |
+| It Rings a Bell | 18.00% | ~19,256 |
+| Escape from the Black Hole | 17.00% | ~18,186 |
+| It Happens | 16.00% | ~17,116 |
+| This Belongs in a Museum | 15.00% | ~16,047 |
+| Dissector | 15.00% | ~16,047 |
+| Handled | 14.00% | ~14,977 |
+| Catch and Decease | 13.00% | ~13,907 |
+| Not Today! | 12.00% | ~12,837 |
+| Deprogramming | 11.00% | ~11,767 |
+| Shrine of Reflection | 11.00% | ~11,767 |
+| When You Want Something Done Right | 10.00% | ~10,698 |
+| Body of Work | 8.00% | ~8,558 |
+| Utopia | 7.00% | ~7,488 |
+| Hat Trick | 6.00% | ~6,419 |
+| Ichthyophobic | 4.00% | ~4,279 |
+| No More Mouths to Feed | 4.00% | ~4,279 |
 | The World As It Was | 3.00% | ~3,209 |
 | Triage | 3.00% | ~3,209 |
-| Clearing the Ledger | 2.00% | ~2,139 |
+| Clearing the Ledger | 2.00% | ~2,140 |
 | A Life Well Lived | 1.00% | ~1,070 |
 | Pub Crawl | 1.00% | ~1,070 |
 | Eidetic | 1.00% | ~1,070 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~107 |
 | Hard Mode | 0.10% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106,958 (Ranked 63)  
+Progressed: 106,977 (Ranked 63)  
 Completed: 1 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.00%) (Ranked 229)
 | 2023-06-23 | 106,378 | 1 |
 | 2023-06-24 | 106,637 | 1 |
 | 2023-06-25 | 106,950 | 1 |
-| 2023-06-26 | 106,958 | 1 |
+| 2023-06-26 | 106,977 | 1 |
 ## Awards
 Max (Character Customization): 7,213  (Ranked 47)  
 Sum: 18,633 (Ranked 56)  

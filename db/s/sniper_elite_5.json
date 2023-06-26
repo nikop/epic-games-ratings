@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -362,7 +362,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3134,
+  "EOS_Progressed": 3135,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -4362,6 +4362,11 @@
       "Time": "2023-06-26T00:07:44.5391328+00:00",
       "NumProgressed": 3134,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-26T02:34:53.6532282+00:00",
+      "NumProgressed": 3135,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 71,
@@ -4371,9 +4376,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -4555,9 +4560,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4779,9 +4784,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 63
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -4940,13 +4945,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3085,
+      "Progressed": 3086,
       "Completed": 5
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3134,
+      "Progressed": 3135,
       "Completed": 2
     }
   ],
@@ -4954,8 +4959,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-26T00:07:44.5391324+00:00",
+  "LastChanged_Achievements": "2023-06-26T02:34:53.6532272+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-26T00:01:56.2144755+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:07:44.5392282+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:29:07.2786966+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:34:53.6533218+00:00"
 }

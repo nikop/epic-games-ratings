@@ -2,13 +2,13 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -6030,10 +6030,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 50826,
       "NumberOfAwardsMax": 20345
+    },
+    {
+      "Time": "2023-06-26T02:27:46.1755175+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 50850,
+      "NumberOfAwardsMax": 20345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50826,
+  "NumberOfAwards": 50850,
   "NumberOfAwardsMax": 20345,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6047,7 +6053,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13664
+      "Count": 13684
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6095,7 +6101,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2717
+      "Count": 2721
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6115,8 +6121,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-06-25T19:58:54.9659934+00:00",
+  "LastChanged": "2023-06-26T02:27:46.1755173+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:00.5733277+00:00",
-  "LastUpdate_Ratings": "2023-06-26T00:00:04.6896607+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:04:57.633291+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:27:46.1755181+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:32:45.5217554+00:00"
 }

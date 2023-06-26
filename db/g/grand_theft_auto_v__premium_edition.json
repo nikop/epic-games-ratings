@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 239,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5846,11 +5846,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1491098,
       "NumberOfAwardsMax": 189479
+    },
+    {
+      "Time": "2023-06-26T02:28:49.8207775+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1492074,
+      "NumberOfAwardsMax": 189970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1491098,
-  "NumberOfAwardsMax": 189479,
+  "NumberOfAwards": 1492074,
+  "NumberOfAwardsMax": 189970,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5869,7 +5875,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 174300
+      "Count": 174785
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5911,7 +5917,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 189479
+      "Count": 189970
     }
   ],
   "EOS_Progressed": 0,
@@ -5925,8 +5931,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-25T07:01:25.4523428+00:00",
+  "LastChanged": "2023-06-26T02:28:49.8207773+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:22.0817845+00:00",
-  "LastUpdate_Ratings": "2023-06-26T00:01:29.3193039+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:05:57.1939911+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:28:49.8207779+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:33:27.677248+00:00"
 }

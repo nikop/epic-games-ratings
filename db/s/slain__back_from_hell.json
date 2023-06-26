@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 27509,
+  "EOS_Progressed": 27523,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7251,6 +7251,11 @@
       "Time": "2023-06-26T00:07:28.094052+00:00",
       "NumProgressed": 27509,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-26T02:34:41.1075044+00:00",
+      "NumProgressed": 27523,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -7262,7 +7267,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4404
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -7270,7 +7275,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5505
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -7292,9 +7297,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -7334,7 +7339,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -7406,7 +7411,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -7414,7 +7419,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -7493,7 +7498,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 27509,
+      "Progressed": 27523,
       "Completed": 20
     }
   ],
@@ -7501,8 +7506,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-26T00:07:28.0940516+00:00",
+  "LastChanged_Achievements": "2023-06-26T02:34:41.1075034+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.3095704+00:00",
-  "LastUpdate_Ratings": "2023-06-26T00:01:12.4239516+00:00",
-  "LastUpdate_Achievements": "2023-06-26T00:07:28.0941273+00:00"
+  "LastUpdate_Ratings": "2023-06-26T02:28:39.1668344+00:00",
+  "LastUpdate_Achievements": "2023-06-26T02:34:41.1075673+00:00"
 }

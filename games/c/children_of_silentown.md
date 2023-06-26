@@ -25,8 +25,8 @@
 | Huge Snail | 16.00% | ~28 |
 | Flower of hope | 14.00% | ~24 |
 | Back Home | 11.00% | ~19 |
+| Forest Howl | 11.00% | ~19 |
 | Friend | 11.00% | ~19 |
-| Forest Howl | 10.00% | ~17 |
 | Old kettle | 10.00% | ~17 |
 | Hope | 5.00% | ~9 |
 | Hairball | 0.00% | ~0 |
