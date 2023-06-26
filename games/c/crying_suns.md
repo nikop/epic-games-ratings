@@ -11,6 +11,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jeef Skeejj | 0.30% | ~1,385 |
 | Careful planning | 0.30% | ~1,385 |
 | Knightmare Frames | 0.20% | ~923 |
+| May His passing cleanse the world | 0.20% | ~923 |
 | In space, no one can hear you scream | 0.20% | ~923 |
 | Chapter I: Echoes | 0.20% | ~923 |
 | Mother | 0.20% | ~923 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Plan for the worst | 0.20% | ~923 |
 | Excelsior Rule | 0.20% | ~923 |
 | Hand of the Emperor | 0.20% | ~11 |
-| May His passing cleanse the world | 0.10% | ~462 |
 | Chapter II: Fallible Flesh | 0.10% | ~462 |
 | Chapter III: The Man Who Sold the World | 0.10% | ~462 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~462 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~6 |
 | Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,585 (Ranked 34)  
+Progressed: 461,586 (Ranked 34)  
 Completed: 14 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 14 (0.00%) (Ranked 229)
 | 2023-06-23 | 461,391 | 14 |
 | 2023-06-24 | 461,481 | 14 |
 | 2023-06-25 | 461,576 | 14 |
-| 2023-06-26 | 461,585 | 14 |
+| 2023-06-26 | 461,586 | 14 |
 ## Awards
 Max (Character Customization): 213  (Ranked 259)  
 Sum: 213 (Ranked 353)  

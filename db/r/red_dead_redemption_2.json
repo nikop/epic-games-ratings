@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -8282,10 +8282,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 392486,
       "NumberOfAwardsMax": 153448
+    },
+    {
+      "Time": "2023-06-26T03:26:19.8669025+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 392510,
+      "NumberOfAwardsMax": 153448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392486,
+  "NumberOfAwards": 392510,
   "NumberOfAwardsMax": 153448,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -8329,7 +8335,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 13782
+      "Count": 13806
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8385,8 +8391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-26T02:27:45.767333+00:00",
+  "LastChanged": "2023-06-26T03:26:19.8669024+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:00.0930463+00:00",
-  "LastUpdate_Ratings": "2023-06-26T02:27:45.7673337+00:00",
-  "LastUpdate_Achievements": "2023-06-26T02:31:43.8678489+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:26:19.866903+00:00",
+  "LastUpdate_Achievements": "2023-06-26T03:30:30.3812556+00:00"
 }

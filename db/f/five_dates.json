@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 450,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -745,8 +745,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-06-26T02:33:03.8817146+00:00",
+  "LastChanged_Achievements": "2023-06-26T03:31:28.7575322+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:50.8931636+00:00",
-  "LastUpdate_Ratings": "2023-06-26T02:26:57.0491686+00:00",
-  "LastUpdate_Achievements": "2023-06-26T02:33:03.8817305+00:00"
+  "LastUpdate_Ratings": "2023-06-26T03:25:27.1262975+00:00",
+  "LastUpdate_Achievements": "2023-06-26T03:31:28.7575486+00:00"
 }

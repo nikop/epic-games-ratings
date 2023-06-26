@@ -31,7 +31,7 @@
 | Right On Time | 10.00% | ~72 |
 | Like Clockwork | 10.00% | ~72 |
 | Street Style | 10.00% | ~72 |
-| Whiz Kid | 9.00% | ~65 |
+| Whiz Kid | 10.00% | ~72 |
 | Chaincrawler Explorer | 8.00% | ~58 |
 | Family Memories | 7.00% | ~51 |
 | Sump Explorer | 7.00% | ~51 |

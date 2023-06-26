@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,410 |
-| World Map | 80.00% | ~1,200 |
-| Temple of Eternals | 57.00% | ~855 |
-| Prestigious | 54.00% | ~810 |
+| Victor | 94.00% | ~1,411 |
+| World Map | 80.00% | ~1,201 |
+| Temple of Eternals | 57.00% | ~856 |
+| Prestigious | 54.00% | ~811 |
 | Fellowship Power | 41.00% | ~615 |
 | Guild Power | 25.00% | ~375 |
 | Prestigious x10 | 21.00% | ~315 |
@@ -63,7 +63,7 @@ Rating: 4.07 (Ranked 895)
 | The Alchemist | 2.00% | ~30 |
 | What lies behind the bush | 2.00% | ~30 |
 | Mythic Power | 1.00% | ~15 |
-| Training makes a Pro player | 0.70% | ~10 |
+| Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~9 |
 | Gear Enchanting | 0.50% | ~8 |
 | Pokerface | 0.50% | ~8 |
@@ -71,8 +71,8 @@ Rating: 4.07 (Ranked 895)
 | Cauldron Liberator | 0.40% | ~6 |
 | Enchanting skill x5 | 0.40% | ~6 |
 | Guardian Master | 0.40% | ~6 |
-| Angel Power | 0.30% | ~4 |
-| Titan Power | 0.30% | ~4 |
+| Angel Power | 0.30% | ~5 |
+| Titan Power | 0.30% | ~5 |
 | Beast War Machines | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |
 | Enhanced War Machines | 0.20% | ~3 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Ultimate War Machines | 0.10% | ~2 |
 | War Machines Army | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 167)  
+Progressed: 1,501 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-23 | 1,480 | 1 |
 | 2023-06-24 | 1,486 | 1 |
 | 2023-06-25 | 1,500 | 1 |
+| 2023-06-26 | 1,501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
