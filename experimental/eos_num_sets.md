@@ -33,6 +33,7 @@
 | [Showgunners](../games/s/showgunners.md) | 46 | 1,000 | 2 |
 | [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 | 2 |
+| [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 | 2 |

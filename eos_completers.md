@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.51% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.43% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 25.49% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -14,15 +14,15 @@
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 15 | [Remains](games/r/remains.md) | 12.50% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
+| 16 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
+| 18 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 11.11% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.61% |
-| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
@@ -39,13 +39,13 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.04% |
 | 38 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
 | 39 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.97% |
-| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
-| 43 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.70% |
-| 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
-| 45 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
-| 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 43 | [Doodle God](games/d/doodle_god.md) | 3.69% |
+| 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
+| 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
+| 46 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
 | 47 | [JARS](games/j/jars.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
@@ -72,7 +72,7 @@
 | 70 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
 | 72 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.06% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.97% |
 | 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 76 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -102,7 +102,7 @@
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
 | 102 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 103 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 104 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 105 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -154,9 +154,9 @@
 | 152 | [Filament](games/f/filament.md) | 0.23% |
 | 153 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 153 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 153 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
 | 153 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 156 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 156 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 157 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 158 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 159 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 159 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
@@ -177,24 +177,24 @@
 | 174 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 174 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 174 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 174 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.10% |
 | 174 | [Supraland](games/s/supraland.md) | 0.10% |
 | 174 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
-| 180 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 180 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
-| 180 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 183 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 183 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
-| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
-| 183 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 187 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 187 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
-| 187 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 187 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 191 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
-| 191 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
-| 191 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 191 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.06% |
-| 191 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 181 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 181 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 181 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 184 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 184 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
+| 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
+| 184 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 188 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 188 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
+| 188 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 188 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 192 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
+| 192 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
+| 192 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 192 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 196 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 196 | [House Party](games/h/house_party.md) | 0.05% |
 | 196 | [Saints Row](games/s/saints_row.md) | 0.05% |
