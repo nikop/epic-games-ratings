@@ -2,7 +2,7 @@
   "ID": "ebd221dc1a8b4e2cb5e1fa2ab0dc50ec",
   "Name": "Active and Operational",
   "ProductSlug": "active-and-operational-a827e6",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 96,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-23T23:58:16.4333402+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:58:33.1224821+00:00",
-  "LastUpdate_Achievements": "2023-06-26T06:04:37.7568677+00:00"
+  "LastUpdate_Ratings": "2023-06-26T06:59:16.8073478+00:00",
+  "LastUpdate_Achievements": "2023-06-26T07:05:19.8279428+00:00"
 }

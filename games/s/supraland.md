@@ -6,38 +6,38 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~706,302 |
-| The Blues | 85.00% | ~606,421 |
-| Fast | 66.00% | ~470,868 |
-| Healthbar | 55.00% | ~392,390 |
-| Force Cube | 53.00% | ~378,121 |
-| Double Jump | 48.00% | ~342,449 |
-| Regeneration | 47.00% | ~335,315 |
-| Climb the hill | 42.00% | ~299,643 |
-| Triple Jump | 42.00% | ~299,643 |
-| Through the fire pipe | 38.00% | ~271,106 |
-| MacGuffin | 37.00% | ~263,971 |
-| Just once | 36.00% | ~256,837 |
-| Armor | 30.00% | ~214,031 |
-| True holy spirit | 27.00% | ~192,628 |
-| That's how electronics work obviously | 26.00% | ~185,493 |
-| Force Cube Catapult | 25.00% | ~178,359 |
-| Holy Sword | 23.00% | ~164,090 |
-| Telefrag | 22.00% | ~156,956 |
+| Out of bed | 99.00% | ~706,305 |
+| The Blues | 85.00% | ~606,423 |
+| Fast | 66.00% | ~470,870 |
+| Healthbar | 55.00% | ~392,391 |
+| Force Cube | 53.00% | ~378,123 |
+| Double Jump | 48.00% | ~342,451 |
+| Regeneration | 47.00% | ~335,316 |
+| Climb the hill | 42.00% | ~299,644 |
+| Triple Jump | 42.00% | ~299,644 |
+| Through the fire pipe | 38.00% | ~271,107 |
+| MacGuffin | 37.00% | ~263,972 |
+| Just once | 36.00% | ~256,838 |
+| Armor | 30.00% | ~214,032 |
+| True holy spirit | 27.00% | ~192,629 |
+| That's how electronics work obviously | 26.00% | ~185,494 |
+| Force Cube Catapult | 25.00% | ~178,360 |
+| Holy Sword | 23.00% | ~164,091 |
+| Telefrag | 22.00% | ~156,957 |
 | Freed from prison | 21.00% | ~149,822 |
 | Stomp | 21.00% | ~149,822 |
-| Double Health | 18.00% | ~128,418 |
-| Buckle | 17.00% | ~121,284 |
-| Green Keycard | 17.00% | ~121,284 |
-| Rattle Hag | 15.00% | ~107,015 |
+| Double Health | 18.00% | ~128,419 |
+| Buckle | 17.00% | ~121,285 |
+| Green Keycard | 17.00% | ~121,285 |
+| Rattle Hag | 15.00% | ~107,016 |
 | All Shells | 14.00% | ~99,881 |
 | Beam | 14.00% | ~99,881 |
 | 9 | 13.00% | ~92,747 |
 | Purple Cube | 13.00% | ~92,747 |
 | Supraball Noob | 13.00% | ~92,747 |
-| Health Drink | 12.00% | ~85,612 |
-| Helped a star | 12.00% | ~85,612 |
-| Strong | 12.00% | ~85,612 |
+| Health Drink | 12.00% | ~85,613 |
+| Helped a star | 12.00% | ~85,613 |
+| Strong | 12.00% | ~85,613 |
 | Blue King's lair | 11.00% | ~78,478 |
 | Got the gun back | 11.00% | ~78,478 |
 | Infiltrated | 11.00% | ~78,478 |
@@ -49,10 +49,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Gold Scam Uncovered | 10.00% | ~71,344 |
 | Translocator | 10.00% | ~71,344 |
 | Yellow Shot Button | 10.00% | ~71,344 |
-| Fire Flies | 9.00% | ~64,209 |
-| Moon Door | 9.00% | ~64,209 |
-| Momentum | 9.00% | ~64,209 |
-| Panic Lights | 9.00% | ~64,209 |
+| Fire Flies | 9.00% | ~64,210 |
+| Moon Door | 9.00% | ~64,210 |
+| Momentum | 9.00% | ~64,210 |
+| Panic Lights | 9.00% | ~64,210 |
 | Through the tiny pipe | 8.00% | ~57,075 |
 | Win! | 8.00% | ~57,075 |
 | The real real teleported man | 7.00% | ~49,941 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~713 |
 | DLC: Top of the world | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,436 (Ranked 16)  
+Progressed: 713,439 (Ranked 16)  
 Completed: 700 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,10 +172,10 @@ Completed: 700 (0.10%) (Ranked 174)
 | 2023-06-23 | 712,945 | 700 |
 | 2023-06-24 | 713,177 | 700 |
 | 2023-06-25 | 713,405 | 700 |
-| 2023-06-26 | 713,436 | 700 |
+| 2023-06-26 | 713,439 | 700 |
 ## Awards
 Max (Challenging Puzzles): 7,628  (Ranked 42)  
-Sum: 9,933 (Ranked 81)  
+Sum: 9,934 (Ranked 81)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 277 |
 | This game has Amazing Characters | 273 |
 | This game has Amazing Storytelling | 270 |
-| This game has Quickly Understood Controls | 264 |
+| This game has Quickly Understood Controls | 265 |
 | This game is Great for Beginners | 263 |
 | This game is Extremely Fun | 259 |
 | This game has Obsessive Gameplay | 243 |
@@ -304,3 +304,4 @@ Diff (max vs sum): -39
 | 2023-06-23 | 4.61 | - | 7,628 | 9,931 |
 | 2023-06-24 | 4.61 | - | 7,628 | 9,932 |
 | 2023-06-25 | 4.61 | - | 7,628 | 9,933 |
+| 2023-06-26 | 4.61 | - | 7,628 | 9,934 |

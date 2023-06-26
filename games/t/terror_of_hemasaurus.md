@@ -16,7 +16,7 @@
 | Horror Show | 20.00% | ~13 |
 | Brain Chopper | 19.00% | ~12 |
 | Night Bird | 14.00% | ~9 |
-| Demolition Ambition | 11.00% | ~7 |
+| Demolition Ambition | 13.00% | ~8 |
 | Punchy Wagon | 8.00% | ~5 |
 | Kill All Humans! | 8.00% | ~5 |
 | Hindenburgerer | 6.00% | ~4 |
@@ -35,7 +35,7 @@
 | Juggle the People | 3.00% | ~2 |
 | Simulation 8e7d28c1 | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 317)  
+Progressed: 64 (Ranked 318)  
 Completed: 2 (3.12%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

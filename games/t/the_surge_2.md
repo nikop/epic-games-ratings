@@ -27,7 +27,7 @@ Rating: 4.24 (Ranked 808)
 | Clean Cut | 18.00% | ~327 |
 | Full Arsenal | 17.00% | ~308 |
 | Can't Trust Banks | 15.00% | ~272 |
-| Mommy Dearest | 13.00% | ~236 |
+| Mommy Dearest | 14.00% | ~254 |
 | Bad Dog | 13.00% | ~236 |
 | Where It All Began | 13.00% | ~236 |
 | Risk Tolerant | 13.00% | ~236 |
@@ -53,9 +53,9 @@ Rating: 4.24 (Ranked 808)
 | Geronimo! | 4.00% | ~73 |
 | Homewrecker | 4.00% | ~73 |
 | Plank of Wood | 4.00% | ~73 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~54 |
 | Gotta Craft 'em All | 3.00% | ~54 |
 | Own Medicine | 2.00% | ~36 |
-| It Lives! It Sniffs! It Conquers! | 2.00% | ~36 |
 | Box Office Smash | 2.00% | ~36 |
 | Going Postal | 2.00% | ~36 |
 | Loot, Pillage & Craft | 2.00% | ~36 |

@@ -2,7 +2,7 @@
   "ID": "af153251033d4cc79d2fc375d882fb88",
   "Name": "Schein",
   "ProductSlug": "schein-77f039",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 96,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
   "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:52.9133177+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:59:05.9950557+00:00",
-  "LastUpdate_Achievements": "2023-06-26T06:04:30.0058804+00:00"
+  "LastUpdate_Ratings": "2023-06-26T06:59:56.611712+00:00",
+  "LastUpdate_Achievements": "2023-06-26T07:05:08.8917375+00:00"
 }

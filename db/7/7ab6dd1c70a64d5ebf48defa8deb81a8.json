@@ -1,9 +1,9 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29,6 +29,11 @@
       "Time": "2023-06-26T06:03:32.7257153+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T07:03:49.1883315+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -38,7 +43,7 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break out",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -327,12 +332,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-06-26T06:03:32.7257148+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:56:57.9807584+00:00",
-  "LastUpdate_Achievements": "2023-06-26T06:03:32.7257361+00:00"
+  "LastChanged_Achievements": "2023-06-26T07:03:49.1883311+00:00",
+  "LastUpdate_Ratings": "2023-06-26T06:57:13.4392591+00:00",
+  "LastUpdate_Achievements": "2023-06-26T07:03:49.188362+00:00"
 }

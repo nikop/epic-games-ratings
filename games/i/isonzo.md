@@ -8,7 +8,7 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,411 |
 | Tutti Eroi! | 54.00% | ~3,411 |
-| You Shall Not Pass | 52.00% | ~3,284 |
+| You Shall Not Pass | 52.00% | ~3,285 |
 | Avanti Savoia! | 47.00% | ~2,969 |
 | Mamma Mia! | 37.00% | ~2,337 |
 | Conrad von Hotzensocks | 36.00% | ~2,274 |
@@ -16,7 +16,7 @@ Number of Ratings: 98  (23.09.2022)
 | Silver Lining | 29.00% | ~1,832 |
 | Aurelio Baruzzi | 22.00% | ~1,390 |
 | Veni Vidi Vici | 22.00% | ~1,390 |
-| Donatello | 21.00% | ~1,326 |
+| Donatello | 21.00% | ~1,327 |
 | Decimation | 20.00% | ~1,263 |
 | Insubordination | 19.00% | ~1,200 |
 | The Italian Job | 19.00% | ~1,200 |
@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Devil's Paintbrush | 11.00% | ~695 |
 | Dante's Inferno | 10.00% | ~632 |
 | I Have the High Ground | 10.00% | ~632 |
-| Millenial | 9.00% | ~568 |
+| Millenial | 9.00% | ~569 |
 | The Show Must Go On | 8.00% | ~505 |
 | Tosca | 8.00% | ~505 |
 | 12th Bottle of the Isonzo | 6.00% | ~379 |
@@ -40,9 +40,9 @@ Number of Ratings: 98  (23.09.2022)
 | The Enlightment | 6.00% | ~379 |
 | Generalissimo | 5.00% | ~316 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~253 |
-| Ponte of No Return | 3.00% | ~189 |
-| Seeing Red | 3.00% | ~189 |
-| Soča Drag | 3.00% | ~189 |
+| Ponte of No Return | 3.00% | ~190 |
+| Seeing Red | 3.00% | ~190 |
+| Soča Drag | 3.00% | ~190 |
 | Farewell to Arms | 2.00% | ~126 |
 | Saboteur | 2.00% | ~126 |
 | Compagnia della Morte | 1.00% | ~63 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,316 (Ranked 126)  
+Progressed: 6,317 (Ranked 126)  
 Completed: 8 (0.13%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 8 (0.13%) (Ranked 172)
 | 2023-06-23 | 6,307 | 8 |
 | 2023-06-24 | 6,310 | 8 |
 | 2023-06-25 | 6,316 | 8 |
+| 2023-06-26 | 6,317 | 8 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 436)  
 Sum: 253 (Ranked 346)  

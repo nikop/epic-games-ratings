@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 1,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Repair",
@@ -581,8 +581,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-26T06:03:58.1658765+00:00",
+  "LastChanged_Achievements": "2023-06-26T07:04:24.7619171+00:00",
   "LastUpdate_AppInfo": "2023-06-19T18:57:02.4147936+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:57:14.4367534+00:00",
-  "LastUpdate_Achievements": "2023-06-26T06:03:58.1658887+00:00"
+  "LastUpdate_Ratings": "2023-06-26T06:57:35.7373372+00:00",
+  "LastUpdate_Achievements": "2023-06-26T07:04:24.7619321+00:00"
 }

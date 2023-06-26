@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225725,
+  "EOS_Progressed": 225726,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7113,6 +7113,11 @@
       "Time": "2023-06-26T06:06:00.5132866+00:00",
       "NumProgressed": 225725,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-26T07:07:18.1713679+00:00",
+      "NumProgressed": 225726,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -7308,7 +7313,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "QAREEN",
@@ -7324,7 +7329,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -7332,7 +7337,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "SHOWOFF",
@@ -7388,22 +7393,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92547
+      "UsersEstimate": 92548
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 225725,
+      "Progressed": 225726,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-06-26T06:06:00.5132863+00:00",
+  "LastChanged_Achievements": "2023-06-26T07:07:18.1713673+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.3277803+00:00",
-  "LastUpdate_Ratings": "2023-06-26T05:58:21.1315724+00:00",
-  "LastUpdate_Achievements": "2023-06-26T06:06:00.513336+00:00"
+  "LastUpdate_Ratings": "2023-06-26T06:59:02.0419892+00:00",
+  "LastUpdate_Achievements": "2023-06-26T07:07:18.171487+00:00"
 }
