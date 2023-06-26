@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.00% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.17% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 25.00% |
@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
 | 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.61% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
-| 24 | [Smelter](games/s/smelter.md) | 8.33% |
+| 24 | [Smelter](games/s/smelter.md) | 8.11% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.26% |
 | 27 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
@@ -48,7 +48,7 @@
 | 46 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
 | 47 | [JARS](games/j/jars.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.31% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
@@ -88,16 +88,16 @@
 | 86 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
 | 86 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 88 | [Five Dates](games/f/five_dates.md) | 1.33% |
-| 89 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
-| 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 91 | [Chorus](games/c/chorus.md) | 1.20% |
-| 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
-| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.14% |
-| 93 | [Late Shift](games/l/late_shift.md) | 1.14% |
-| 95 | [Trifox](games/t/trifox.md) | 1.12% |
-| 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
-| 98 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.02% |
+| 89 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.28% |
+| 90 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
+| 91 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 92 | [Chorus](games/c/chorus.md) | 1.20% |
+| 93 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
+| 94 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 95 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.13% |
+| 96 | [Trifox](games/t/trifox.md) | 1.12% |
+| 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
+| 98 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
 | 99 | [Sable](games/s/sable.md) | 0.95% |
 | 100 | [Adios](games/a/adios.md) | 0.91% |
 | 101 | [Hades](games/h/hades.md) | 0.89% |
