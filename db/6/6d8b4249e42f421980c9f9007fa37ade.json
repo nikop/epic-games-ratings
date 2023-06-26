@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -326,6 +326,11 @@
       "Time": "2023-06-25T12:03:17.3157378+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T09:04:20.349832+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -351,7 +356,7 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -439,7 +444,7 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -495,7 +500,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -511,7 +516,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -599,7 +604,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -639,7 +644,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -663,7 +668,7 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -687,7 +692,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -703,7 +708,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -720,14 +725,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:03:45.9878323+00:00",
+  "LastChanged_Achievements": "2023-06-26T09:04:20.3498315+00:00",
   "LastUpdate_AppInfo": "2023-06-22T04:57:05.5865299+00:00",
-  "LastUpdate_Ratings": "2023-06-26T07:57:16.4265877+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:03:45.9878735+00:00"
+  "LastUpdate_Ratings": "2023-06-26T08:57:32.3853765+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:04:20.349893+00:00"
 }

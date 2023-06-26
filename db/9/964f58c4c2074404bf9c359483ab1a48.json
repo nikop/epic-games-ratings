@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 10,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -342,9 +342,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1193628,
+  "EOS_Progressed": 1193692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26276,
+  "EOS_NewPlayers": 26224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3117,6 +3117,11 @@
       "Time": "2023-06-26T08:03:32.3229997+00:00",
       "NumProgressed": 1193628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T09:04:06.0756934+00:00",
+      "NumProgressed": 1193692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -3240,7 +3245,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 131299
+      "UsersEstimate": 131306
     },
     {
       "ID": "10_ghost_wins",
@@ -3248,7 +3253,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 95490
+      "UsersEstimate": 95495
     },
     {
       "ID": "10_hero_prop_kills",
@@ -3264,7 +3269,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 190980
+      "UsersEstimate": 190991
     },
     {
       "ID": "10_hunter_wins",
@@ -3272,7 +3277,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71618
+      "UsersEstimate": 71622
     },
     {
       "ID": "10_prop_headshots",
@@ -3280,7 +3285,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23873
+      "UsersEstimate": 23874
     },
     {
       "ID": "250_c4_kills",
@@ -3376,7 +3381,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11936
+      "UsersEstimate": 11937
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -3392,7 +3397,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47745
+      "UsersEstimate": 47748
     },
     {
       "ID": "50_riot_shield_kills",
@@ -3408,7 +3413,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9549
+      "UsersEstimate": 9550
     },
     {
       "ID": "ace",
@@ -3416,7 +3421,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 119363
+      "UsersEstimate": 119369
     },
     {
       "ID": "ghost_win",
@@ -3424,7 +3429,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 716177
+      "UsersEstimate": 716215
     },
     {
       "ID": "hunter_win",
@@ -3432,7 +3437,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 656495
+      "UsersEstimate": 656531
     },
     {
       "ID": "master_of_loadouts",
@@ -3456,14 +3461,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 274534
+      "UsersEstimate": 274549
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1193628,
+      "Progressed": 1193692,
       "Completed": 0
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-06-26T03:24:23.5488477+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:03:32.3229991+00:00",
+  "LastChanged_Achievements": "2023-06-26T09:04:06.0756928+00:00",
   "LastUpdate_AppInfo": "2023-06-22T17:57:24.7951036+00:00",
-  "LastUpdate_Ratings": "2023-06-26T07:57:15.2840795+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:03:32.3230594+00:00"
+  "LastUpdate_Ratings": "2023-06-26T08:57:31.6201416+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:04:06.0757539+00:00"
 }

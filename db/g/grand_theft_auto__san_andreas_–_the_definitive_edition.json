@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -472,9 +472,9 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 10840,
+  "EOS_Progressed": 10843,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5687,6 +5687,11 @@
       "Time": "2023-06-26T07:07:35.3064431+00:00",
       "NumProgressed": 10840,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-06-26T09:07:49.9135616+00:00",
+      "NumProgressed": 10843,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 35,
@@ -5698,7 +5703,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8674
     },
     {
       "ID": "ACH02",
@@ -5706,7 +5711,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH03",
@@ -5714,7 +5719,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH04",
@@ -5746,7 +5751,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH08",
@@ -5754,7 +5759,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "ACH09",
@@ -5818,7 +5823,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "ACH17",
@@ -5866,7 +5871,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ACH23",
@@ -5977,7 +5982,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10840,
+      "Progressed": 10843,
       "Completed": 23
     }
   ],
@@ -5985,8 +5990,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-25T11:01:23.0929138+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:07:05.7104302+00:00",
+  "LastChanged_Achievements": "2023-06-26T09:07:49.913561+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.5561268+00:00",
-  "LastUpdate_Ratings": "2023-06-26T08:01:19.4190013+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:07:05.7104876+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:01:48.3276437+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:07:49.9136512+00:00"
 }

@@ -32,7 +32,7 @@
 | Who Turned Out The Lights | 0.00% | ~0 |
 | Who's The Boss? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 343)  
+Progressed: 38 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |

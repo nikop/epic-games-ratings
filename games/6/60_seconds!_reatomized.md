@@ -12,14 +12,14 @@ Rating: 4.62 (Ranked 345)
 | Survivalist | 88.00% | ~3,890 |
 | One way ticket | 83.00% | ~3,669 |
 | Last man standing | 78.00% | ~3,448 |
-| Family guy | 75.00% | ~3,316 |
+| Family guy | 76.00% | ~3,360 |
 | Out of the Bag | 73.00% | ~3,227 |
 | The Dark Side | 67.00% | ~2,962 |
 | Duck and cover! | 63.00% | ~2,785 |
 | Souper! | 61.00% | ~2,697 |
 | Pacifist | 56.00% | ~2,476 |
 | 2-1-6 | 55.00% | ~2,432 |
-| A gift | 50.00% | ~2,210 |
+| A gift | 51.00% | ~2,255 |
 | Girl Power | 44.00% | ~1,945 |
 | What goes around... | 41.00% | ~1,813 |
 | Be Prepared | 35.00% | ~1,547 |

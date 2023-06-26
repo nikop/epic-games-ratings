@@ -3,10 +3,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tributes of Caladrias | 18.00% | ~2 |
-| Break out | 9.00% | ~1 |
-| Find Allies | 9.00% | ~1 |
-| Monsalar: Wildlands | 9.00% | ~1 |
+| Break out | 17.00% | ~2 |
+| Tributes of Caladrias | 17.00% | ~2 |
+| Find Allies | 8.00% | ~1 |
+| Monsalar: Wildlands | 8.00% | ~1 |
+| Stone collection | 8.00% | ~1 |
+| Miner | 8.00% | ~1 |
 | Powerful Allies | 0.00% | ~0 |
 | To battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -33,17 +35,15 @@
 | I found it | 0.00% | ~0 |
 | All that gold | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
-| Stone collection | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
 | The collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 382)  
+Progressed: 12 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-23 | 2 | 0 |
-| 2023-06-26 | 11 | 0 |
+| 2023-06-26 | 12 | 0 |

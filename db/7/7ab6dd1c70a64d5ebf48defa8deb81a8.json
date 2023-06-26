@@ -1,10 +1,10 @@
 {
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": null,
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
       "Time": "2023-06-26T08:03:28.4044782+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T09:03:42.1190643+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -48,15 +53,15 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break out",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -72,7 +77,7 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Monsalar: Wildlands",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -288,17 +293,17 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone collection",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_34",
@@ -337,12 +342,12 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:03:28.4044773+00:00",
-  "LastUpdate_Ratings": "2023-06-26T07:57:09.3230501+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:03:28.4045057+00:00"
+  "LastChanged_Achievements": "2023-06-26T09:03:42.1190638+00:00",
+  "LastUpdate_Ratings": "2023-06-26T08:57:25.33089+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:03:42.1191064+00:00"
 }

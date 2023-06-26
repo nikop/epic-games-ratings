@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-06-25T23:02:40.1182466+00:00",
       "NumProgressed": 837,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-26T09:02:41.3050718+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -873,7 +878,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -881,7 +886,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -905,7 +910,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -977,7 +982,7 @@
       "Name": "Let there be light",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1001,7 +1006,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_STAR_3",
@@ -1009,7 +1014,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_STAR_4",
@@ -1049,14 +1054,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 15
     }
   ],
@@ -1064,8 +1069,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-06-25T18:57:43.4817761+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:02:09.3899458+00:00",
+  "LastChanged_Achievements": "2023-06-26T09:02:41.3050713+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:11.1629822+00:00",
-  "LastUpdate_Ratings": "2023-06-26T07:57:32.3341438+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:02:09.3899674+00:00"
+  "LastUpdate_Ratings": "2023-06-26T08:57:50.0576258+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:02:41.3050967+00:00"
 }

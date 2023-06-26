@@ -8,13 +8,13 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Alt+F4 | 93.00% | ~205 |
 | Where's that freaking Dwarf? | 88.00% | ~194 |
-| Sock! SOCK! | 70.00% | ~154 |
+| Sock! SOCK! | 71.00% | ~156 |
 | Fireproof Wizardess | 56.00% | ~123 |
 | Livin' in a dwarven paradise | 53.00% | ~117 |
 | Déjà vu | 52.00% | ~114 |
 | GG EZ | 50.00% | ~110 |
+| DM intervention | 46.00% | ~101 |
 | Way of the Wimp | 45.00% | ~99 |
-| DM intervention | 45.00% | ~99 |
 | Oh, when I'll be level 10... | 37.00% | ~81 |
 | Speedrun | 36.00% | ~79 |
 | A beer, two curses, three companions | 34.00% | ~75 |

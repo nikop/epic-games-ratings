@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 96.00% | ~305 |
-| Road to Improvement | 72.00% | ~229 |
+| All Starts Here | 96.00% | ~306 |
+| Road to Improvement | 72.00% | ~230 |
 | Wonderful World | 59.00% | ~188 |
-| Second Wind | 58.00% | ~184 |
-| Chain of Events | 58.00% | ~184 |
-| Change of Heart | 56.00% | ~178 |
+| Second Wind | 58.00% | ~185 |
+| Chain of Events | 58.00% | ~185 |
+| Change of Heart | 56.00% | ~179 |
 | Turbulence | 38.00% | ~121 |
 | Endless Possibilities | 37.00% | ~118 |
-| Finding The Way | 24.00% | ~76 |
+| Finding The Way | 24.00% | ~77 |
 | Tangibility | 20.00% | ~64 |
-| On The Right Path | 19.00% | ~60 |
-| Around The World | 19.00% | ~60 |
+| On The Right Path | 19.00% | ~61 |
+| Around The World | 19.00% | ~61 |
 | Bigger Picture | 16.00% | ~51 |
 | Sunset | 13.00% | ~41 |
 | Spring Air | 13.00% | ~41 |
 | Alive | 10.00% | ~32 |
 | Cut The Air | 10.00% | ~32 |
 | What Are The Chances? | 9.00% | ~29 |
-| Through The Hoop | 8.00% | ~25 |
-| Best Self | 8.00% | ~25 |
-| Over The Rooftops | 8.00% | ~25 |
+| Through The Hoop | 8.00% | ~26 |
+| Best Self | 8.00% | ~26 |
+| Over The Rooftops | 8.00% | ~26 |
 | Night Air | 7.00% | ~22 |
 | All The Pieces | 6.00% | ~19 |
 | Through The Vines | 6.00% | ~19 |
@@ -36,7 +36,7 @@
 | In Love | 1.00% | ~3 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 232)  
+Progressed: 319 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,6 +45,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-05-08 | 316 | 0 |
 | 2023-05-17 | 317 | 0 |
 | 2023-05-31 | 318 | 0 |
+| 2023-06-26 | 319 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

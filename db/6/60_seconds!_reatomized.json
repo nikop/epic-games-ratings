@@ -2450,9 +2450,9 @@
       "ID": "ACH_FAMILY_GUY",
       "SetID": "5nj1ea3",
       "Name": "Family guy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3360
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -2602,9 +2602,9 @@
       "ID": "ACH_PRESENT",
       "SetID": "5nj1ea3",
       "Name": "A gift",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_PRO_GAMER",
@@ -2723,8 +2723,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-06-21T21:02:52.0033823+00:00",
-  "LastChanged_Achievements": "2023-06-26T08:07:11.4413966+00:00",
+  "LastChanged_Achievements": "2023-06-26T09:07:55.9135333+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:35.62088+00:00",
-  "LastUpdate_Ratings": "2023-06-26T08:01:26.1212258+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:07:11.4414624+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:01:55.5059072+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:07:55.9136699+00:00"
 }

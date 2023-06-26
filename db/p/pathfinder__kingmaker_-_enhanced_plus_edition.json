@@ -3,12 +3,12 @@
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
   "Ranking_Rating": 439,
-  "Ranking_Popularity": 89,
+  "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
     "PcReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -3888,6 +3888,6 @@
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
   "LastChanged": "2023-06-26T07:00:32.2079161+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:27.5557642+00:00",
-  "LastUpdate_Ratings": "2023-06-26T08:00:18.8783666+00:00",
-  "LastUpdate_Achievements": "2023-06-26T08:05:52.5771598+00:00"
+  "LastUpdate_Ratings": "2023-06-26T09:00:46.1663527+00:00",
+  "LastUpdate_Achievements": "2023-06-26T09:06:32.6257195+00:00"
 }

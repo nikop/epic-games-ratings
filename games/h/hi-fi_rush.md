@@ -47,8 +47,8 @@ Rating: 4.89 (Ranked 13)
 | You ever parry a volcano? | 6.00% | ~201 |
 | This is a breeze! | 4.00% | ~134 |
 | Easy Listening | 3.00% | ~100 |
+| Problem solved... wait, what? | 3.00% | ~100 |
 | OK, well THEY came after ME! | 3.00% | ~100 |
-| Problem solved... wait, what? | 2.00% | ~67 |
 | I can't see this ever being a problem again | 2.00% | ~67 |
 | Fully Powered Up! | 2.00% | ~67 |
 | Now this is how you fight like a team! | 2.00% | ~67 |
@@ -59,8 +59,8 @@ Rating: 4.89 (Ranked 13)
 | My Ultimate Setlist | 0.70% | ~23 |
 | This was... not what I expected. | 0.70% | ~23 |
 | OK, I THINK I know what I'm doing now | 0.70% | ~23 |
+| I think that's enough health for now | 0.60% | ~20 |
 | Have we met before? | 0.60% | ~20 |
-| I think that's enough health for now | 0.50% | ~17 |
 | I have to read ALL of these things? | 0.50% | ~17 |
 | I'm untouchable! | 0.50% | ~17 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
