@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.43% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.99% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 25.53% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -17,7 +17,7 @@
 | 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 15 | [Remains](games/r/remains.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.72% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.69% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.00% |
@@ -121,8 +121,8 @@
 | 118 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 120 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 120 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 122 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 122 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 124 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |

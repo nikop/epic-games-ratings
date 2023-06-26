@@ -72,7 +72,7 @@
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 440 |
 | 66 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 501 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,415 | 96 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,206 | 52 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,211 | 52 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 200 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,411 | 121 |

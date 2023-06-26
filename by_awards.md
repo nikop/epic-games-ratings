@@ -51,7 +51,7 @@
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 661 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,536 | 4.71 | 180 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,323 | 4.80 | 81 |
-| 52 | [Sifu](games/s/sifu.md) | 6,206 | 4.82 | 66 |
+| 52 | [Sifu](games/s/sifu.md) | 6,211 | 4.82 | 66 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,193 | 4.58 | 420 |
 | 54 | [DEATH STRANDING](games/d/death_stranding.md) | 5,968 | 4.77 | 108 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,944 | 4.64 | 313 |
