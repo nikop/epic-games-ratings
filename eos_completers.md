@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 32.35% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.43% |
 | 2 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 3 | [Volley Pals](games/v/volley_pals.md) | 25.53% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -8,7 +8,7 @@
 | 6 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 8 | [Island Cities](games/i/island_cities.md) | 17.36% |
-| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.44% |
+| 9 | [Sonic Origins](games/s/sonic_origins.md) | 15.13% |
 | 10 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -30,7 +30,7 @@
 | 28 | [Scorn](games/s/scorn.md) | 6.82% |
 | 29 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 30 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 30 | [Without Escape](games/w/without_escape.md) | 6.25% |
+| 31 | [Without Escape](games/w/without_escape.md) | 5.88% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -49,7 +49,7 @@
 | 47 | [JARS](games/j/jars.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.32% |
-| 50 | [The Complex](games/t/the_complex.md) | 3.16% |
+| 50 | [The Complex](games/t/the_complex.md) | 3.15% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 52 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
 | 53 | [Bunny Park](games/b/bunny_park.md) | 3.09% |
