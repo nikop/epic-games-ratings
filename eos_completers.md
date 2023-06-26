@@ -17,11 +17,11 @@
 | 15 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 12.50% |
 | 15 | [Remains](games/r/remains.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.69% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
-| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.62% |
+| 22 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.61% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 24 | [Smelter](games/s/smelter.md) | 8.33% |
 | 25 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -92,8 +92,8 @@
 | 90 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 91 | [Chorus](games/c/chorus.md) | 1.20% |
 | 92 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
-| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.15% |
-| 94 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 93 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.14% |
+| 93 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 95 | [Trifox](games/t/trifox.md) | 1.12% |
 | 96 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 97 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |

@@ -21,11 +21,11 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,103 | 74 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 153,788 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,239 | 35 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,260 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 480 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 501 |
-| 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 265 | 243 |
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,402 | 122 |
+| 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 266 | 243 |
+| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,404 | 122 |
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,010 | 141 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 501 |
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 489 |
@@ -109,7 +109,7 @@
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 501 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,449 | 81 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 5,968 | 54 |
-| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,383 | 17 |
+| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,422 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 501 |
 | 108 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 501 |
 | 108 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 501 |
@@ -138,7 +138,7 @@
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 878 | 148 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 500 | 191 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 109 | 318 |
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 501 | 190 |
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 502 | 189 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 501 |
 | 133 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 415 |
 | 133 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 501 |
@@ -448,7 +448,7 @@
 | 439 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 434 |
 | 439 | [Hob](games/h/hob.md) | 4.57 | 0 | 501 |
 | 439 | [IXION](games/i/ixion.md) | 4.57 | 0 | 501 |
-| 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,502 | 44 |
+| 439 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,507 | 44 |
 | 439 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,139 | 90 |
 | 439 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 311 |
 | 439 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 501 |
@@ -523,7 +523,7 @@
 | 518 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,074 | 15 |
 | 518 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 489 |
 | 518 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 142,696 | 7 |
-| 518 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 510 | 188 |
+| 518 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 512 | 188 |
 | 518 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 328 |
 | 518 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
 | 518 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.52 | 0 | 501 |
