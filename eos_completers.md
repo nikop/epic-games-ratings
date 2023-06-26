@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Island Cities](games/i/island_cities.md) | 17.58% |
-| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.29% |
+| 10 | [Sonic Origins](games/s/sonic_origins.md) | 15.19% |
 | 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -17,7 +17,7 @@
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Remains](games/r/remains.md) | 12.50% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.67% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.64% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.94% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
@@ -46,8 +46,8 @@
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
-| 47 | [JARS](games/j/jars.md) | 3.45% |
-| 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
+| 47 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
+| 48 | [JARS](games/j/jars.md) | 3.39% |
 | 49 | [ZZT!](games/z/zzt!.md) | 3.31% |
 | 50 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 51 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
