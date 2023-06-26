@@ -11,7 +11,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Valley's Helper | 70.00% | ~3,690 |
 | Constructor | 59.00% | ~3,110 |
 | Renovator | 56.00% | ~2,952 |
-| Bestest Friend | 54.00% | ~2,846 |
+| Bestest Friend | 55.00% | ~2,899 |
 | Banker | 46.00% | ~2,425 |
 | Gardener | 36.00% | ~1,898 |
 | Generous | 26.00% | ~1,370 |

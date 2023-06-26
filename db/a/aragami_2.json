@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35830,
+  "EOS_Progressed": 35831,
   "EOS_Completed": 178,
   "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 4,
@@ -6524,6 +6524,11 @@
       "Time": "2023-06-26T07:04:09.6060258+00:00",
       "NumProgressed": 35830,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-06-26T08:03:48.0214604+00:00",
+      "NumProgressed": 35831,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 44,
@@ -6535,7 +6540,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20423
+      "UsersEstimate": 20424
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -6551,7 +6556,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7524
+      "UsersEstimate": 7525
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -6655,7 +6660,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29022
+      "UsersEstimate": 29023
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -6735,7 +6740,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -6775,7 +6780,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 22573
+      "UsersEstimate": 22574
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -6799,7 +6804,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21498
+      "UsersEstimate": 21499
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -6807,7 +6812,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 24364
+      "UsersEstimate": 24365
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -6871,7 +6876,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 33322
+      "UsersEstimate": 33323
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -6886,7 +6891,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 35830,
+      "Progressed": 35831,
       "Completed": 178
     }
   ],
@@ -6894,8 +6899,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-26T07:04:09.6060252+00:00",
+  "LastChanged_Achievements": "2023-06-26T08:03:48.0214595+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.5678333+00:00",
-  "LastUpdate_Ratings": "2023-06-26T06:59:10.6546728+00:00",
-  "LastUpdate_Achievements": "2023-06-26T07:04:09.6061606+00:00"
+  "LastUpdate_Ratings": "2023-06-26T07:59:00.7511232+00:00",
+  "LastUpdate_Achievements": "2023-06-26T08:03:48.0215341+00:00"
 }

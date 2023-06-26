@@ -5,15 +5,15 @@ Rating: 3.51 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,311 |
+| I Like My Stakes Rare! | 77.00% | ~1,312 |
 | Home Is Where the Heart Is | 60.00% | ~1,022 |
 | Ne Plus Ultra | 60.00% | ~1,022 |
 | Wounded Whispers | 60.00% | ~1,022 |
 | Blood Will Have Blood | 50.00% | ~852 |
-| ICU | 46.00% | ~783 |
-| Peek-a-boo | 44.00% | ~749 |
-| Catch and Release | 44.00% | ~749 |
-| Sucks To Be You | 43.00% | ~732 |
+| ICU | 45.00% | ~767 |
+| Peek-a-boo | 44.00% | ~750 |
+| Catch and Release | 44.00% | ~750 |
+| Sucks To Be You | 43.00% | ~733 |
 | Welcome to the Neighborhood | 37.00% | ~630 |
 | Fly Fisher | 36.00% | ~613 |
 | Throw The First Stone | 35.00% | ~596 |
@@ -23,8 +23,8 @@ Rating: 3.51 (Ranked 945)
 | Grounded | 24.00% | ~409 |
 | Bad Wiring | 21.00% | ~358 |
 | I Spit On Your Grave | 19.00% | ~324 |
-| Neighborhood Revitalization | 16.00% | ~272 |
-| Radio Silence | 16.00% | ~272 |
+| Neighborhood Revitalization | 16.00% | ~273 |
+| Radio Silence | 16.00% | ~273 |
 | Helping Hand | 12.00% | ~204 |
 | You Clean It Up | 11.00% | ~187 |
 | Block Party | 8.00% | ~136 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,703 (Ranked 164)  
+Progressed: 1,704 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 1,697 | 0 |
 | 2023-06-24 | 1,700 | 0 |
 | 2023-06-25 | 1,702 | 0 |
-| 2023-06-26 | 1,703 | 0 |
+| 2023-06-26 | 1,704 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

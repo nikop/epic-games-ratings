@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 304,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.97,
   "EosHistory": [
@@ -730,17 +730,17 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 95,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 95,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_023",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-26T07:04:16.6215542+00:00",
+  "LastChanged_Achievements": "2023-06-26T08:03:54.5152511+00:00",
   "LastUpdate_AppInfo": "2023-06-19T15:56:55.0323573+00:00",
-  "LastUpdate_Ratings": "2023-06-26T06:57:23.3677812+00:00",
-  "LastUpdate_Achievements": "2023-06-26T07:04:16.6215744+00:00"
+  "LastUpdate_Ratings": "2023-06-26T07:57:19.3127976+00:00",
+  "LastUpdate_Achievements": "2023-06-26T08:03:54.5152661+00:00"
 }

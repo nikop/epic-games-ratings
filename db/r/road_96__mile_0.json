@@ -2,10 +2,10 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -864,6 +864,11 @@
       "Time": "2023-06-25T20:04:15.5694451+00:00",
       "NumProgressed": 317,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-26T08:04:54.5036992+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -873,9 +878,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "completeact2",
@@ -891,7 +896,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "findalltapes",
@@ -921,9 +926,9 @@
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "scoreminrankrf1",
@@ -979,22 +984,22 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "scoreminrankrv2",
       "SetID": "40n95i5",
       "Name": "Friendzone",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 2
     }
   ],
@@ -1002,8 +1007,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-06-26T07:05:17.9754244+00:00",
+  "LastChanged_Achievements": "2023-06-26T08:04:54.5036982+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:40.4650768+00:00",
-  "LastUpdate_Ratings": "2023-06-26T06:59:41.9448196+00:00",
-  "LastUpdate_Achievements": "2023-06-26T07:05:17.9754538+00:00"
+  "LastUpdate_Ratings": "2023-06-26T07:59:32.0093801+00:00",
+  "LastUpdate_Achievements": "2023-06-26T08:04:54.5037149+00:00"
 }

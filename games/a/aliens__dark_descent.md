@@ -6,10 +6,10 @@ Rating: 4.38 (Ranked 710)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,337 |
-| Snatched Out | 69.00% | ~1,198 |
-| Keep 'Em Coming | 67.00% | ~1,163 |
-| Cleaning Lethe, One Nest At A Time | 56.00% | ~972 |
-| Call Me Snake | 48.00% | ~833 |
+| Snatched Out | 69.00% | ~1,199 |
+| Keep 'Em Coming | 67.00% | ~1,164 |
+| Cleaning Lethe, One Nest At A Time | 56.00% | ~973 |
+| Call Me Snake | 49.00% | ~851 |
 | Something Lurks Under The Hills | 47.00% | ~816 |
 | This Was No Papercut | 46.00% | ~799 |
 | The Shrink Hates Me | 41.00% | ~712 |
@@ -22,14 +22,14 @@ Rating: 4.38 (Ranked 710)
 | Making a Stand | 21.00% | ~365 |
 | Omelette Du Fromage | 20.00% | ~347 |
 | Recouped Investment | 19.00% | ~330 |
-| Where It All Begun | 15.00% | ~260 |
+| Where It All Begun | 15.00% | ~261 |
 | Stuff Of Nightmares | 9.00% | ~156 |
 | Living Nightmare | 9.00% | ~156 |
 | The More The Merrier | 9.00% | ~156 |
 | Come on, You Wanna Live Forever? | 6.00% | ~104 |
+| The Darwin Era Was Here | 6.00% | ~104 |
 | Heavy Steps | 5.00% | ~87 |
 | El Riesgo Siempre Vive | 5.00% | ~87 |
-| The Darwin Era Was Here | 5.00% | ~87 |
 | One For Every Occasion | 4.00% | ~69 |
 | Bandage Lover | 4.00% | ~69 |
 | Deep Into Insanity | 4.00% | ~69 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 710)
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,736 (Ranked 162)  
+Progressed: 1,737 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 1,293 | 0 |
 | 2023-06-24 | 1,514 | 0 |
 | 2023-06-25 | 1,713 | 0 |
-| 2023-06-26 | 1,736 | 0 |
+| 2023-06-26 | 1,737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,7 +9,7 @@ Rating: 4.64 (Ranked 313)
 | Mainframe Hacker | 46.00% | ~3,200 |
 | Tomorrow Never Dyes | 46.00% | ~3,200 |
 | The Spy who eliminated me | 46.00% | ~3,200 |
-| Never Say Loser Again | 40.00% | ~2,782 |
+| Never Say Loser Again | 40.00% | ~2,783 |
 | For your Eyes only | 39.00% | ~2,713 |
 | From the Vault with Love | 37.00% | ~2,574 |
 | Tailor-Made | 37.00% | ~2,574 |
@@ -17,18 +17,18 @@ Rating: 4.64 (Ranked 313)
 | You Only Live Twice | 32.00% | ~2,226 |
 | A view to Win | 27.00% | ~1,878 |
 | Smells Like Trouble | 25.00% | ~1,739 |
-| Assistant Accountant | 24.00% | ~1,669 |
-| The Living Portrait | 24.00% | ~1,669 |
-| Private Collection | 24.00% | ~1,669 |
-| Killer Looks | 24.00% | ~1,669 |
-| Hostile Takeover | 24.00% | ~1,669 |
+| Assistant Accountant | 24.00% | ~1,670 |
+| The Living Portrait | 24.00% | ~1,670 |
+| Private Collection | 24.00% | ~1,670 |
+| Killer Looks | 24.00% | ~1,670 |
+| Hostile Takeover | 24.00% | ~1,670 |
 | Keycards Royale | 23.00% | ~1,600 |
 | Dr. No Kill | 23.00% | ~1,600 |
 | My Motto, My Creed | 23.00% | ~1,600 |
-| In It to Win It | 22.00% | ~1,530 |
+| In It to Win It | 22.00% | ~1,531 |
 | Security Supervisor | 10.00% | ~696 |
-| License to Thrill | 8.00% | ~556 |
-| Social of Solace | 8.00% | ~556 |
+| License to Thrill | 8.00% | ~557 |
+| Social of Solace | 8.00% | ~557 |
 | Safe Withdrawal | 6.00% | ~417 |
 | Live and let lie | 5.00% | ~348 |
 | Call Me Maybe | 4.00% | ~278 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,956 (Ranked 121)  
+Progressed: 6,957 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 6,930 | 0 |
 | 2023-06-24 | 6,941 | 0 |
 | 2023-06-25 | 6,954 | 0 |
-| 2023-06-26 | 6,956 | 0 |
+| 2023-06-26 | 6,957 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

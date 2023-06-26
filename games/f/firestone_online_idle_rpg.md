@@ -65,21 +65,21 @@ Rating: 4.07 (Ranked 895)
 | Mythic Power | 1.00% | ~15 |
 | Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~9 |
+| Cauldron Liberator | 0.50% | ~8 |
+| Enchanting skill x5 | 0.50% | ~8 |
 | Gear Enchanting | 0.50% | ~8 |
 | Pokerface | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
-| Cauldron Liberator | 0.40% | ~6 |
-| Enchanting skill x5 | 0.40% | ~6 |
 | Guardian Master | 0.40% | ~6 |
 | Angel Power | 0.30% | ~5 |
+| Beast War Machines | 0.30% | ~5 |
+| Enhanced War Machines | 0.30% | ~5 |
 | Titan Power | 0.30% | ~5 |
-| Beast War Machines | 0.20% | ~3 |
 | Conqueror | 0.20% | ~3 |
-| Enhanced War Machines | 0.20% | ~3 |
+| Ultimate War Machines | 0.20% | ~3 |
+| War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
-| Ultimate War Machines | 0.10% | ~2 |
-| War Machines Army | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,502 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  

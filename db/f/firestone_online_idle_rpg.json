@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -3601,9 +3601,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "blueprintupgrades",
@@ -3617,9 +3617,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "challenger",
@@ -3705,9 +3705,9 @@
       "ID": "enchantingskillx5",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill x5",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "engineermastery",
@@ -3721,9 +3721,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "enlightenment",
@@ -4113,9 +4113,9 @@
       "ID": "ultimatewarmachines",
       "SetID": "3nl4bcg",
       "Name": "Ultimate War Machines",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "victor",
@@ -4129,9 +4129,9 @@
       "ID": "warmachinesarmy",
       "SetID": "3nl4bcg",
       "Name": "War Machines Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "weeklyquestcompletionist",
@@ -4170,8 +4170,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-26T07:07:37.0595138+00:00",
+  "LastChanged_Achievements": "2023-06-26T08:07:07.5019481+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-26T06:58:42.4871806+00:00",
-  "LastUpdate_Achievements": "2023-06-26T07:07:37.0597176+00:00"
+  "LastUpdate_Ratings": "2023-06-26T07:58:32.7197508+00:00",
+  "LastUpdate_Achievements": "2023-06-26T08:07:07.5020522+00:00"
 }
