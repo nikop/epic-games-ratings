@@ -38,13 +38,13 @@ Rating: 4.47 (Ranked 593)
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
+| Operation Foxley | 0.50% | ~15 |
 | Shipbreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~12 |
-| Operation Foxley | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
@@ -66,14 +66,14 @@ Rating: 4.47 (Ranked 593)
 | Reich To The Point | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
 | Covert Elimination | 0.20% | ~6 |
+| Alpha | 0.20% | ~6 |
+| Das Familienjuwel | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
-| Alpha | 0.10% | ~3 |
-| Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)

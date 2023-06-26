@@ -1,39 +1,39 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.38 (Ranked 710)  
+Rating: 4.41 (Ranked 672)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,350 |
-| Snatched Out | 69.00% | ~1,210 |
-| Keep 'Em Coming | 67.00% | ~1,175 |
-| Cleaning Lethe, One Nest At A Time | 56.00% | ~982 |
-| Call Me Snake | 49.00% | ~859 |
-| Something Lurks Under The Hills | 47.00% | ~824 |
-| This Was No Papercut | 46.00% | ~806 |
-| The Shrink Hates Me | 41.00% | ~719 |
-| Use The Bumper, That's What It's For | 39.00% | ~684 |
-| People Person | 37.00% | ~649 |
-| Colonial Barrels | 33.00% | ~578 |
-| First Steps Into Madness | 33.00% | ~578 |
-| Damn Dude, You Gotta Lose Some Weight! | 31.00% | ~543 |
-| Harper's Hell | 23.00% | ~403 |
-| Making a Stand | 21.00% | ~368 |
-| Omelette Du Fromage | 20.00% | ~351 |
-| Recouped Investment | 20.00% | ~351 |
-| Where It All Begun | 15.00% | ~263 |
-| Stuff Of Nightmares | 10.00% | ~175 |
-| The More The Merrier | 10.00% | ~175 |
-| Living Nightmare | 9.00% | ~158 |
-| Come on, You Wanna Live Forever? | 6.00% | ~105 |
-| The Darwin Era Was Here | 6.00% | ~105 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,358 |
+| Snatched Out | 69.00% | ~1,216 |
+| Keep 'Em Coming | 67.00% | ~1,181 |
+| Cleaning Lethe, One Nest At A Time | 56.00% | ~987 |
+| Call Me Snake | 49.00% | ~864 |
+| Something Lurks Under The Hills | 47.00% | ~829 |
+| This Was No Papercut | 47.00% | ~829 |
+| The Shrink Hates Me | 41.00% | ~723 |
+| Use The Bumper, That's What It's For | 39.00% | ~688 |
+| People Person | 37.00% | ~652 |
+| Colonial Barrels | 33.00% | ~582 |
+| First Steps Into Madness | 33.00% | ~582 |
+| Damn Dude, You Gotta Lose Some Weight! | 31.00% | ~547 |
+| Harper's Hell | 23.00% | ~405 |
+| Making a Stand | 21.00% | ~370 |
+| Omelette Du Fromage | 20.00% | ~353 |
+| Recouped Investment | 20.00% | ~353 |
+| Where It All Begun | 15.00% | ~264 |
+| Stuff Of Nightmares | 10.00% | ~176 |
+| The More The Merrier | 10.00% | ~176 |
+| Living Nightmare | 9.00% | ~159 |
+| Come on, You Wanna Live Forever? | 6.00% | ~106 |
+| The Darwin Era Was Here | 6.00% | ~106 |
 | Heavy Steps | 5.00% | ~88 |
 | El Riesgo Siempre Vive | 5.00% | ~88 |
-| Deep Into Insanity | 5.00% | ~88 |
-| One For Every Occasion | 4.00% | ~70 |
-| Bandage Lover | 4.00% | ~70 |
-| The Passenger | 4.00% | ~70 |
+| One For Every Occasion | 4.00% | ~71 |
+| Bandage Lover | 4.00% | ~71 |
+| Deep Into Insanity | 4.00% | ~71 |
+| The Passenger | 4.00% | ~71 |
 | Frontliner | 3.00% | ~53 |
 | The Cable Guy | 3.00% | ~53 |
 | The Spire | 3.00% | ~53 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 710)
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,753 (Ranked 161)  
+Progressed: 1,763 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,8 +62,9 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 1,293 | 0 |
 | 2023-06-24 | 1,514 | 0 |
 | 2023-06-25 | 1,713 | 0 |
-| 2023-06-26 | 1,753 | 0 |
+| 2023-06-26 | 1,763 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-06-25 | 4.38 | 0 | 0 |
+| 2023-06-26 | 4.41 | 0 | 0 |

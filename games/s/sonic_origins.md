@@ -11,10 +11,10 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 83.00% | ~129 |
 | Welcome to Sonic the Hedgehog 2 | 81.00% | ~126 |
 | Welcome to Sonic 3 & Knuckles | 79.00% | ~122 |
-| Time Traveler | 76.00% | ~118 |
-| Ring Collector | 76.00% | ~118 |
+| Time Traveler | 77.00% | ~119 |
+| Ring Collector | 77.00% | ~119 |
+| Knuckles the Echidna | 73.00% | ~113 |
 | Everyone's Hero | 73.00% | ~113 |
-| Knuckles the Echidna | 72.00% | ~112 |
 | Bubbly Breath | 70.00% | ~108 |
 | Gallant Spin Dash | 70.00% | ~108 |
 | Miles "Tails" Prower | 69.00% | ~107 |

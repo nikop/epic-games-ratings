@@ -5,23 +5,23 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,412 |
-| World Map | 80.00% | ~1,202 |
-| Temple of Eternals | 57.00% | ~856 |
-| Prestigious | 54.00% | ~811 |
-| Fellowship Power | 41.00% | ~616 |
-| Guild Power | 25.00% | ~376 |
-| Prestigious x10 | 21.00% | ~315 |
-| The game is on | 19.00% | ~285 |
-| Exotic Merchant | 17.00% | ~255 |
-| Dragon Clicker | 16.00% | ~240 |
-| Inspection | 16.00% | ~240 |
-| Miner Clicker | 16.00% | ~240 |
-| Full Party | 15.00% | ~225 |
-| Hero inspection | 14.00% | ~210 |
-| Dragon Master | 13.00% | ~195 |
-| Enlightenment | 13.00% | ~195 |
-| Lieutenant | 13.00% | ~195 |
+| Victor | 94.00% | ~1,414 |
+| World Map | 80.00% | ~1,203 |
+| Temple of Eternals | 57.00% | ~857 |
+| Prestigious | 54.00% | ~812 |
+| Fellowship Power | 41.00% | ~617 |
+| Guild Power | 24.00% | ~361 |
+| Prestigious x10 | 21.00% | ~316 |
+| The game is on | 19.00% | ~286 |
+| Exotic Merchant | 17.00% | ~256 |
+| Dragon Clicker | 16.00% | ~241 |
+| Miner Clicker | 16.00% | ~241 |
+| Full Party | 15.00% | ~226 |
+| Inspection | 15.00% | ~226 |
+| Hero inspection | 14.00% | ~211 |
+| Dragon Master | 13.00% | ~196 |
+| Enlightenment | 13.00% | ~196 |
+| Lieutenant | 13.00% | ~196 |
 | Milestone collector | 12.00% | ~180 |
 | Mysterious Rock | 12.00% | ~180 |
 | Natural Talent | 12.00% | ~180 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,502 (Ranked 167)  
+Progressed: 1,504 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 1 (0.07%) (Ranked 187)
 | 2023-06-23 | 1,480 | 1 |
 | 2023-06-24 | 1,486 | 1 |
 | 2023-06-25 | 1,500 | 1 |
-| 2023-06-26 | 1,502 | 1 |
+| 2023-06-26 | 1,504 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

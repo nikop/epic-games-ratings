@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_INSURGENTS",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere IX",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_KINGSBET",
@@ -1560,8 +1560,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-26T12:07:09.1596746+00:00",
+  "LastChanged_Achievements": "2023-06-26T13:23:12.0800277+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:43.795347+00:00",
-  "LastUpdate_Ratings": "2023-06-26T11:58:32.8732414+00:00",
-  "LastUpdate_Achievements": "2023-06-26T12:07:09.1597753+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:15:08.4428683+00:00",
+  "LastUpdate_Achievements": "2023-06-26T13:23:12.0801335+00:00"
 }

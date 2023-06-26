@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -247,6 +247,11 @@
       "Time": "2023-06-25T15:04:51.6473139+00:00",
       "NumProgressed": 391,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-26T13:20:31.7311459+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -258,7 +263,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Award_BigSpender",
@@ -368,9 +373,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 220
     },
     {
       "ID": "Award_HalfwayThere",
@@ -394,7 +399,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Award_HeavyMetal",
@@ -432,9 +437,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 282
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -506,7 +511,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Award_ShellShock",
@@ -609,7 +614,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 1
     }
   ],
@@ -617,8 +622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-06-26T12:04:01.6275391+00:00",
+  "LastChanged_Achievements": "2023-06-26T13:20:31.7311454+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:59.612681+00:00",
-  "LastUpdate_Ratings": "2023-06-26T11:58:46.3553354+00:00",
-  "LastUpdate_Achievements": "2023-06-26T12:04:01.6275674+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:15:20.2133539+00:00",
+  "LastUpdate_Achievements": "2023-06-26T13:20:31.7311977+00:00"
 }

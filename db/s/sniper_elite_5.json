@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 3142,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4852,9 +4852,9 @@
       "ID": "REWARD_DLC01_05_ALPHA",
       "SetID": "83mdf7p",
       "Name": "Alpha",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -4868,17 +4868,17 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
       "SetID": "83mdf7p",
       "Name": "Das Familienjuwel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -4966,7 +4966,7 @@
       "ID": "83mdf7p",
       "IsBase": false,
       "Progressed": 3093,
-      "Completed": 5
+      "Completed": 6
     },
     {
       "ID": "bm6el81",
@@ -4979,8 +4979,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-26T12:07:03.9776157+00:00",
+  "LastChanged_Achievements": "2023-06-26T13:23:06.8044106+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-26T12:01:21.9250614+00:00",
-  "LastUpdate_Achievements": "2023-06-26T12:07:03.9776962+00:00"
+  "LastUpdate_Ratings": "2023-06-26T13:17:28.9567074+00:00",
+  "LastUpdate_Achievements": "2023-06-26T13:23:06.8044879+00:00"
 }

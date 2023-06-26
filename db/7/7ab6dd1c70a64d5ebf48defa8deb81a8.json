@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
@@ -53,9 +53,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break out",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_02",
@@ -109,9 +109,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A taste of wrath",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_09",
@@ -157,9 +157,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_15",
@@ -189,9 +189,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter them all",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_19",
@@ -245,9 +245,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26",
@@ -269,9 +269,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I found it",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_29",
@@ -347,7 +347,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-06-26T12:03:35.0242771+00:00",
-  "LastUpdate_Ratings": "2023-06-26T11:57:14.4903633+00:00",
-  "LastUpdate_Achievements": "2023-06-26T12:03:35.0243014+00:00"
+  "LastChanged_Achievements": "2023-06-26T13:20:10.3308144+00:00",
+  "LastUpdate_Ratings": "2023-06-26T13:13:58.6897276+00:00",
+  "LastUpdate_Achievements": "2023-06-26T13:20:10.3308421+00:00"
 }

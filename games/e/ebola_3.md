@@ -29,6 +29,7 @@
 | Mutant fight ✔ | 5.00% | ~10 |
 | Infected ✔ | 5.00% | ~10 |
 | All secrets revealed ✔ | 5.00% | ~10 |
+| Broadcasting ✔ | 5.00% | ~10 |
 | Boss 1 ✔ | 4.00% | ~8 |
 | Group Alpha ✔ | 4.00% | ~8 |
 | Mutant run ✔ | 4.00% | ~8 |
@@ -36,7 +37,6 @@
 | City on fire ✔ | 4.00% | ~8 |
 | Priest ✔ | 4.00% | ~8 |
 | Rank A ✔ | 4.00% | ~8 |
-| Broadcasting ✔ | 4.00% | ~8 |
 | Car ✔ | 3.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~6 |
 | Secret ✔ | 3.00% | ~6 |

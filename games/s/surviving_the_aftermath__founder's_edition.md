@@ -7,13 +7,13 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,841 |
-| Leader | 61.00% | ~4,159 |
+| Leader | 61.00% | ~4,160 |
 | Explorer | 53.00% | ~3,614 |
 | Healer | 53.00% | ~3,614 |
 | Aspiring Inventor | 44.00% | ~3,000 |
-| Adventurer | 41.00% | ~2,795 |
+| Adventurer | 42.00% | ~2,864 |
 | Famous Healer | 38.00% | ~2,591 |
-| Local Leader | 35.00% | ~2,386 |
+| Local Leader | 35.00% | ~2,387 |
 | Famous Explorer | 34.00% | ~2,318 |
 | New Opportunities | 34.00% | ~2,318 |
 | Energized | 33.00% | ~2,250 |
@@ -24,14 +24,14 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~1,909 |
 | Legendary Explorer | 27.00% | ~1,841 |
 | Finders, Keepers | 26.00% | ~1,773 |
-| Top Notch | 25.00% | ~1,704 |
+| Top Notch | 25.00% | ~1,705 |
 | Ice Lakes | 23.00% | ~1,568 |
 | Mentor | 23.00% | ~1,568 |
 | Great Leader | 22.00% | ~1,500 |
 | Real Survivor | 22.00% | ~1,500 |
 | Merchant | 21.00% | ~1,432 |
-| War Never Changes | 19.00% | ~1,295 |
-| Rocket Surgeon | 19.00% | ~1,295 |
+| War Never Changes | 19.00% | ~1,296 |
+| Rocket Surgeon | 19.00% | ~1,296 |
 | Big Game Hunter | 17.00% | ~1,159 |
 | Friendly | 16.00% | ~1,091 |
 | Around the World | 16.00% | ~1,091 |
@@ -42,8 +42,8 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~818 |
 | It's a Finnish Thing | 10.00% | ~682 |
 | Sky Burial | 9.00% | ~614 |
-| Trader | 8.00% | ~545 |
-| Bread and Circuses | 8.00% | ~545 |
+| Trader | 8.00% | ~546 |
+| Bread and Circuses | 8.00% | ~546 |
 | New Eden | 7.00% | ~477 |
 | Tailored to fit | 7.00% | ~477 |
 | Really Friendly | 6.00% | ~409 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,818 (Ranked 123)  
+Progressed: 6,819 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 6,733 | 0 |
 | 2023-06-24 | 6,767 | 0 |
 | 2023-06-25 | 6,807 | 0 |
-| 2023-06-26 | 6,818 | 0 |
+| 2023-06-26 | 6,819 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 673 (Ranked 271)  
