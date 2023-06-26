@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 39,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.13,
   "EosHistory": [
@@ -257,9 +257,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BearPoppiesBroth",
@@ -305,17 +305,17 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BroomPistol",
@@ -337,9 +337,9 @@
       "ID": "DevilRope",
       "SetID": "db30heh",
       "Name": "The Devil is My Friend",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Drunkard",
@@ -385,25 +385,25 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "HastrmanRum",
@@ -417,9 +417,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KingDiamond",
@@ -529,9 +529,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 79,
+      "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -592,8 +592,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:04:20.2359306+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:04:29.3240787+00:00",
   "LastUpdate_AppInfo": "2023-06-20T11:57:12.9807221+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:57:04.9348803+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:04:20.2359814+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:57:07.5215985+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:04:29.3241445+00:00"
 }

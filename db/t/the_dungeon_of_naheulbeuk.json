@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1168,6 +1168,11 @@
       "Time": "2023-06-26T10:06:43.0440613+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-26T11:06:55.6176698+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1177,9 +1182,9 @@
       "ID": "10000Gold",
       "SetID": "50chcgj",
       "Name": "Livin\u0027 in a dwarven paradise",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "100Fail",
@@ -1211,7 +1216,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BookCollection",
@@ -1275,7 +1280,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Chapter8",
@@ -1291,7 +1296,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CollateralVictim",
@@ -1411,7 +1416,7 @@
       "Name": "Elite Adventurers",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DLC3AllSideQuests",
@@ -1563,7 +1568,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Dwarf30Insult",
@@ -1579,7 +1584,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "DwarfElf15Support",
@@ -1611,7 +1616,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ElfEpic",
@@ -1641,9 +1646,9 @@
       "ID": "EndCombatNoDamage",
       "SetID": "50chcgj",
       "Name": "GG EZ",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "EndCombatOneHp",
@@ -1683,7 +1688,7 @@
       "Name": "The beards of change",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FollowNarzatok",
@@ -1691,7 +1696,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "InsultLoose",
@@ -1811,7 +1816,7 @@
       "Name": "I am the night",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "RogueEpic",
@@ -1857,9 +1862,9 @@
       "ID": "TeamLevel10",
       "SetID": "50chcgj",
       "Name": "Oh, when I\u0027ll be level 10...",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "WizardEpic",
@@ -1882,21 +1887,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:06:43.0440608+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:06:55.6176692+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:59:59.4359283+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:06:43.0441877+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:59:59.3691451+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:06:55.6178038+00:00"
 }

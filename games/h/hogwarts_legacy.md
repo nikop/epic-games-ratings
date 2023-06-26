@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,154 |
-| First Class Student | 9.00% | ~25,339 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,155 |
+| First Class Student | 9.00% | ~25,340 |
 | The One Who Mastered Memories | 8.00% | ~22,524 |
 | The Hallowed Hero | 8.00% | ~22,524 |
 | A Keen Sense of Spell | 8.00% | ~22,524 |
 | Troll with the Punches | 8.00% | ~22,524 |
 | That's a Keeper | 8.00% | ~22,524 |
-| Grappling with a Graphorn | 7.00% | ~19,708 |
-| The Hero of Hogwarts | 7.00% | ~19,708 |
-| The Defender of Dragons | 7.00% | ~19,708 |
-| Challenge Accepted | 7.00% | ~19,708 |
-| Loom for Improvement | 7.00% | ~19,708 |
-| A Talent for Spending | 7.00% | ~19,708 |
-| Coasting Along | 7.00% | ~19,708 |
-| Rising From the Ashes | 7.00% | ~19,708 |
+| Grappling with a Graphorn | 7.00% | ~19,709 |
+| The Hero of Hogwarts | 7.00% | ~19,709 |
+| The Defender of Dragons | 7.00% | ~19,709 |
+| Challenge Accepted | 7.00% | ~19,709 |
+| Loom for Improvement | 7.00% | ~19,709 |
+| A Talent for Spending | 7.00% | ~19,709 |
+| Coasting Along | 7.00% | ~19,709 |
+| Rising From the Ashes | 7.00% | ~19,709 |
 | The Avenging Gazelle | 6.00% | ~16,893 |
 | A Sallow Grave | 6.00% | ~16,893 |
 | Flight the Good Flight | 6.00% | ~16,893 |
 | Followed the Butterflies | 6.00% | ~16,893 |
 | The Spell Master | 6.00% | ~16,893 |
-| Beast Friends | 5.00% | ~14,077 |
+| Beast Friends | 5.00% | ~14,078 |
 | The Seeker of Knowledge | 4.00% | ~11,262 |
 | The Root of the Problem | 4.00% | ~11,262 |
 | Third Time's a Charm | 4.00% | ~11,262 |
@@ -40,18 +40,18 @@ Rating: 4.77 (Ranked 108)
 | The Auror's Apprentice | 2.00% | ~5,631 |
 | Floo Around the World | 2.00% | ~5,631 |
 | The Wise Owl | 2.00% | ~5,631 |
-| The Good Samaritan | 1.00% | ~2,815 |
-| Savvy Spender | 1.00% | ~2,815 |
-| Rise to the Challenges | 1.00% | ~2,815 |
-| Demiguise Dread | 1.00% | ~2,815 |
-| Finishing Touches | 1.00% | ~2,815 |
-| A Forte for Achievement | 1.00% | ~2,815 |
+| The Good Samaritan | 1.00% | ~2,816 |
+| Savvy Spender | 1.00% | ~2,816 |
+| Rise to the Challenges | 1.00% | ~2,816 |
+| Demiguise Dread | 1.00% | ~2,816 |
+| Finishing Touches | 1.00% | ~2,816 |
+| A Forte for Achievement | 1.00% | ~2,816 |
 | Merlin's Beard! | 0.70% | ~1,971 |
 | Spilled Milk | 0.60% | ~1,689 |
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,545 (Ranked 41)  
+Progressed: 281,550 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 413 (0.15%) (Ranked 165)
 | 2023-06-23 | 281,209 | 409 |
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
-| 2023-06-26 | 281,545 | 413 |
+| 2023-06-26 | 281,550 | 413 |
 ## Awards
 Max (Character Customization): 20,383  (Ranked 17)  
-Sum: 37,887 (Ranked 30)  
+Sum: 37,901 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -132,11 +132,11 @@ Diff (max vs sum): -13
 | This game is Relaxing | 849 |
 | This game has Amazing Storytelling | 837 |
 | This game has Diverse Characters | 834 |
-| This game has Amazing Characters | 814 |
+| This game has Amazing Characters | 821 |
 | This game is Highly Recommended | 796 |
 | This game has Quickly Understood Controls | 750 |
-| This game has Beautiful Visuals | 693 |
-| This game has a Creative Community | 521 |
+| This game has Beautiful Visuals | 695 |
+| This game has a Creative Community | 526 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -234,4 +234,4 @@ Diff (max vs sum): -13
 | 2023-06-23 | 4.77 | 20,298 | 37,716 |
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
-| 2023-06-26 | 4.77 | 20,383 | 37,887 |
+| 2023-06-26 | 4.77 | 20,383 | 37,901 |

@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32674,
+  "EOS_Progressed": 32675,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6173,6 +6173,11 @@
       "Time": "2023-06-26T09:03:36.3615903+00:00",
       "NumProgressed": 32674,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-26T11:03:25.7954763+00:00",
+      "NumProgressed": 32675,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6200,7 +6205,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8495
+      "UsersEstimate": 8496
     },
     {
       "ID": "allItems",
@@ -6208,7 +6213,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "allSecrets",
@@ -6264,7 +6269,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8168
+      "UsersEstimate": 8169
     },
     {
       "ID": "firstItem",
@@ -6295,15 +6300,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32674,
+      "Progressed": 32675,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:03:27.5728213+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:03:25.7954756+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.7883343+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:01:34.1253518+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:03:27.5729059+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:01:41.9833291+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:03:25.7955367+00:00"
 }

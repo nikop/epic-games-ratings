@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1749,
+  "EOS_Progressed": 1750,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 63,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 64,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 8.63,
   "EosHistory": [
     {
@@ -3103,6 +3103,11 @@
       "Time": "2023-06-26T09:03:07.7150839+00:00",
       "NumProgressed": 1749,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-06-26T11:02:56.3860778+00:00",
+      "NumProgressed": 1750,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 12,
@@ -3130,7 +3135,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3154,7 +3159,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Jude",
@@ -3170,7 +3175,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Little Helper",
@@ -3186,7 +3191,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Nazis in Paris",
@@ -3194,7 +3199,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Nuremberg Laws",
@@ -3209,7 +3214,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1749,
+      "Progressed": 1750,
       "Completed": 151
     }
   ],
@@ -3217,8 +3222,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:02:48.5470289+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:02:56.3860773+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:36.9439754+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:00:37.4878784+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:02:48.5470777+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:00:43.2251757+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:02:56.3861145+00:00"
 }

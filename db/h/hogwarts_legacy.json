@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4138,10 +4138,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 37887,
       "NumberOfAwardsMax": 20383
+    },
+    {
+      "Time": "2023-06-26T10:57:46.5480761+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 37901,
+      "NumberOfAwardsMax": 20383
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37887,
+  "NumberOfAwards": 37901,
   "NumberOfAwardsMax": 20383,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4161,13 +4167,13 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 693
+      "Count": 695
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 814
+      "Count": 821
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4215,12 +4221,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 521
+      "Count": 526
     }
   ],
-  "EOS_Progressed": 281545,
+  "EOS_Progressed": 281550,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 871,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11248,6 +11254,11 @@
       "Time": "2023-06-26T10:06:14.2695766+00:00",
       "NumProgressed": 281545,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-06-26T11:06:25.5860475+00:00",
+      "NumProgressed": 281550,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 45,
@@ -11259,7 +11270,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28154
+      "UsersEstimate": 28155
     },
     {
       "ID": "PFA_10",
@@ -11267,7 +11278,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_11",
@@ -11291,7 +11302,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_14",
@@ -11315,7 +11326,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_17",
@@ -11323,7 +11334,7 @@
       "Name": "Beast Friends",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14077
+      "UsersEstimate": 14078
     },
     {
       "ID": "PFA_18",
@@ -11355,7 +11366,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_21",
@@ -11363,7 +11374,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_22",
@@ -11387,7 +11398,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_25",
@@ -11443,7 +11454,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_31",
@@ -11451,7 +11462,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_32",
@@ -11491,7 +11502,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_37",
@@ -11515,7 +11526,7 @@
       "Name": "Coasting Along",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     },
     {
       "ID": "PFA_4",
@@ -11531,7 +11542,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_41",
@@ -11555,7 +11566,7 @@
       "Name": "Finishing Touches",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_44",
@@ -11571,7 +11582,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "PFA_5",
@@ -11587,7 +11598,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25339
+      "UsersEstimate": 25340
     },
     {
       "ID": "PFA_7",
@@ -11611,23 +11622,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19708
+      "UsersEstimate": 19709
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281545,
+      "Progressed": 281550,
       "Completed": 413
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-26T05:57:26.0320573+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:06:14.2695759+00:00",
+  "LastChanged": "2023-06-26T10:57:46.5480757+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:06:25.5860469+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-26T09:57:42.2068569+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:06:14.2697471+00:00"
+  "LastUpdate_Ratings": "2023-06-26T10:57:46.5480769+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:06:25.5861544+00:00"
 }

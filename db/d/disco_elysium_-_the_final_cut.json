@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 160,
+  "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 209,
@@ -1151,7 +1151,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122277,
+  "EOS_Progressed": 122278,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
@@ -7636,6 +7636,11 @@
       "Time": "2023-06-26T10:07:16.8875426+00:00",
       "NumProgressed": 122277,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-26T11:07:29.9336948+00:00",
+      "NumProgressed": 122278,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -7703,7 +7708,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29346
+      "UsersEstimate": 29347
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -7759,7 +7764,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24455
+      "UsersEstimate": 24456
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -7791,7 +7796,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13450
+      "UsersEstimate": 13451
     },
     {
       "ID": "ACH_CUNO",
@@ -7951,7 +7956,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_WHATBODY",
@@ -7966,15 +7971,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122277,
+      "Progressed": 122278,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-26T10:07:16.8875418+00:00",
+  "LastChanged_Achievements": "2023-06-26T11:07:29.9336943+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-26T10:00:06.0150039+00:00",
-  "LastUpdate_Achievements": "2023-06-26T10:07:16.8876394+00:00"
+  "LastUpdate_Ratings": "2023-06-26T11:00:06.3727828+00:00",
+  "LastUpdate_Achievements": "2023-06-26T11:07:29.9338093+00:00"
 }

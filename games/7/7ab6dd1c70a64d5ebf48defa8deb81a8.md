@@ -6,10 +6,10 @@
 | Break out | 17.00% | ~2 |
 | Tributes of Caladrias | 17.00% | ~2 |
 | Find Allies | 8.00% | ~1 |
+| Powerful Allies | 8.00% | ~1 |
 | Monsalar: Wildlands | 8.00% | ~1 |
 | Stone collection | 8.00% | ~1 |
 | Miner | 8.00% | ~1 |
-| Powerful Allies | 0.00% | ~0 |
 | To battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear sight | 0.00% | ~0 |

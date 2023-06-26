@@ -7,13 +7,13 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~4,839 |
-| Leader | 61.00% | ~4,157 |
+| Leader | 61.00% | ~4,158 |
 | Explorer | 53.00% | ~3,612 |
 | Healer | 53.00% | ~3,612 |
 | Aspiring Inventor | 44.00% | ~2,999 |
-| Adventurer | 41.00% | ~2,794 |
+| Adventurer | 42.00% | ~2,863 |
 | Famous Healer | 38.00% | ~2,590 |
-| Local Leader | 35.00% | ~2,385 |
+| Local Leader | 35.00% | ~2,386 |
 | Famous Explorer | 34.00% | ~2,317 |
 | New Opportunities | 34.00% | ~2,317 |
 | Energized | 33.00% | ~2,249 |
@@ -25,17 +25,17 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,840 |
 | Finders, Keepers | 26.00% | ~1,772 |
 | Top Notch | 25.00% | ~1,704 |
-| Ice Lakes | 23.00% | ~1,567 |
-| Mentor | 23.00% | ~1,567 |
-| Great Leader | 22.00% | ~1,499 |
-| Real Survivor | 22.00% | ~1,499 |
+| Ice Lakes | 23.00% | ~1,568 |
+| Mentor | 23.00% | ~1,568 |
+| Great Leader | 22.00% | ~1,500 |
+| Real Survivor | 22.00% | ~1,500 |
 | Merchant | 21.00% | ~1,431 |
 | War Never Changes | 19.00% | ~1,295 |
 | Rocket Surgeon | 19.00% | ~1,295 |
 | Big Game Hunter | 17.00% | ~1,159 |
-| Friendly | 16.00% | ~1,090 |
-| Around the World | 16.00% | ~1,090 |
-| Spreading Influence | 16.00% | ~1,090 |
+| Friendly | 16.00% | ~1,091 |
+| Around the World | 16.00% | ~1,091 |
+| Spreading Influence | 16.00% | ~1,091 |
 | Bookworm | 15.00% | ~1,022 |
 | Famous Adventurer | 13.00% | ~886 |
 | Prepared for Anything | 13.00% | ~886 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,815 (Ranked 123)  
+Progressed: 6,816 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,11 +133,11 @@ Completed: 0 (0.00%) (Ranked 229)
 | 2023-06-23 | 6,733 | 0 |
 | 2023-06-24 | 6,767 | 0 |
 | 2023-06-25 | 6,807 | 0 |
-| 2023-06-26 | 6,815 | 0 |
+| 2023-06-26 | 6,816 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
-Sum: 673 (Ranked 270)  
-Diff (max vs sum): 59  
+Sum: 673 (Ranked 271)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 99 |
