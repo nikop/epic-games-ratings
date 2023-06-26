@@ -5,28 +5,28 @@ Rating: 4.66 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,039 |
-| Mods Please Ban | 77.00% | ~17,663 |
-| Bring A Knife to a Gun Fight | 77.00% | ~17,663 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,745 |
-| First Bounty Down | 59.00% | ~13,534 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,075 |
+| Eye Scream, You Scream | 83.00% | ~19,040 |
+| Mods Please Ban | 77.00% | ~17,664 |
+| Bring A Knife to a Gun Fight | 77.00% | ~17,664 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,746 |
+| First Bounty Down | 59.00% | ~13,535 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,076 |
 | Luglox Genocide | 43.00% | ~9,864 |
 | Playing Card To Get | 33.00% | ~7,570 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,570 |
-| Creature Feature | 29.00% | ~6,652 |
+| Creature Feature | 29.00% | ~6,653 |
 | Satisfied Gus-tomer | 28.00% | ~6,423 |
 | Cold-Blooded Driller | 28.00% | ~6,423 |
 | Are You Packin'? | 25.00% | ~5,735 |
 | G3 Graduation | 25.00% | ~5,735 |
-| RIP Davey Glutes | 24.00% | ~5,505 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,505 |
+| RIP Davey Glutes | 24.00% | ~5,506 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,506 |
 | Hardest Battle In The Game | 22.00% | ~5,047 |
 | Series Wrap on Suit-O | 22.00% | ~5,047 |
 | Lezduit! | 20.00% | ~4,588 |
 | Who's The Boss? | 20.00% | ~4,588 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,588 |
-| Self-Actualization | 19.00% | ~4,358 |
+| Self-Actualization | 19.00% | ~4,359 |
 | Legendary Bounty Hunter | 18.00% | ~4,129 |
 | Seeing All The Sights | 16.00% | ~3,670 |
 | Carried Stan's Load To Completion | 13.00% | ~2,982 |
@@ -38,7 +38,7 @@ Rating: 4.66 (Ranked 273)
 | Epic Legendary Prize | 1.00% | ~229 |
 | A Starfish Is Born | 1.00% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,939 (Ranked 96)  
+Progressed: 22,940 (Ranked 96)  
 Completed: 8 (0.03%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 8 (0.03%) (Ranked 201)
 | 2023-06-23 | 22,919 | 8 |
 | 2023-06-24 | 22,928 | 8 |
 | 2023-06-25 | 22,935 | 8 |
-| 2023-06-26 | 22,939 | 8 |
+| 2023-06-26 | 22,940 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

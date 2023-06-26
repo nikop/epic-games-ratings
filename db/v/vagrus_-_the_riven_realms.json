@@ -566,9 +566,9 @@
       "ID": "Vanilla_DaneramsGambit",
       "SetID": "27kik8p",
       "Name": "Xevarian Gambit",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Vanilla_Defeated",
@@ -1143,8 +1143,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-26T18:06:12.4429484+00:00",
+  "LastChanged_Achievements": "2023-06-26T19:08:07.735778+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:38.5763917+00:00",
-  "LastUpdate_Ratings": "2023-06-26T17:58:48.0368777+00:00",
-  "LastUpdate_Achievements": "2023-06-26T18:06:12.4430423+00:00"
+  "LastUpdate_Ratings": "2023-06-26T18:59:53.7560155+00:00",
+  "LastUpdate_Achievements": "2023-06-26T19:08:07.7359989+00:00"
 }

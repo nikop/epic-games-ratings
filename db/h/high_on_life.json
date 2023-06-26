@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22939,
+  "EOS_Progressed": 22940,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1869,6 +1869,11 @@
       "Time": "2023-06-26T18:05:07.6824275+00:00",
       "NumProgressed": 22939,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-26T19:06:38.5689155+00:00",
+      "NumProgressed": 22940,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1896,7 +1901,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17663
+      "UsersEstimate": 17664
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1920,7 +1925,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "ACH_GET_GUS",
@@ -1944,7 +1949,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17663
+      "UsersEstimate": 17664
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1960,7 +1965,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -1968,7 +1973,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -1984,7 +1989,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19039
+      "UsersEstimate": 19040
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2000,7 +2005,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13076
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2008,7 +2013,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13534
+      "UsersEstimate": 13535
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2048,7 +2053,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2064,7 +2069,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2135,22 +2140,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22939,
+      "Progressed": 22940,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 232,
-      "Completed": 232
+      "Progressed": 233,
+      "Completed": 233
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-26T18:05:07.6824271+00:00",
+  "LastChanged_Achievements": "2023-06-26T19:06:38.5689147+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.019228+00:00",
-  "LastUpdate_Ratings": "2023-06-26T17:58:03.4505579+00:00",
-  "LastUpdate_Achievements": "2023-06-26T18:05:07.6824541+00:00"
+  "LastUpdate_Ratings": "2023-06-26T18:58:55.3392453+00:00",
+  "LastUpdate_Achievements": "2023-06-26T19:06:38.5689521+00:00"
 }

@@ -105,9 +105,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "META_FIRST_LINK",
@@ -193,9 +193,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -217,9 +217,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -265,17 +265,17 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-26T18:00:37.1695028+00:00",
+  "LastChanged_Achievements": "2023-06-26T19:02:42.2153191+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.0799684+00:00",
-  "LastUpdate_Ratings": "2023-06-26T17:59:03.9660719+00:00",
-  "LastUpdate_Achievements": "2023-06-26T18:00:37.1695398+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:00:16.8278345+00:00",
+  "LastUpdate_Achievements": "2023-06-26T19:02:42.2153376+00:00"
 }

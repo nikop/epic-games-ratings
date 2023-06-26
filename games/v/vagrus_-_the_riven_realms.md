@@ -19,6 +19,7 @@
 | Scholar | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
 | The More the Merrier | 2.00% | ~2 |
+| Xevarian Gambit | 2.00% | ~2 |
 | Harbinger | 2.00% | ~2 |
 | Courier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
@@ -28,7 +29,6 @@
 | Loremaster | 0.90% | ~1 |
 | Strategist | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
-| Xevarian Gambit | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |

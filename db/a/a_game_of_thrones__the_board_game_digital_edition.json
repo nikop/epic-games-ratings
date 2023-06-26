@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 16825,
+  "EOS_Progressed": 16829,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8202,6 +8202,11 @@
       "Time": "2023-06-26T18:05:57.6441798+00:00",
       "NumProgressed": 16825,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-26T19:07:49.0221626+00:00",
+      "NumProgressed": 16829,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8293,7 +8298,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "1026",
@@ -8309,7 +8314,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "1028",
@@ -8317,7 +8322,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "1029",
@@ -8325,7 +8330,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "1030",
@@ -8333,7 +8338,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "1031",
@@ -8349,7 +8354,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6732
     },
     {
       "ID": "1033",
@@ -8388,15 +8393,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 16825,
+      "Progressed": 16829,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-06-26T18:05:57.6441794+00:00",
+  "LastChanged_Achievements": "2023-06-26T19:07:49.0221622+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:28.0071998+00:00",
-  "LastUpdate_Ratings": "2023-06-26T18:00:06.2517753+00:00",
-  "LastUpdate_Achievements": "2023-06-26T18:05:57.6442223+00:00"
+  "LastUpdate_Ratings": "2023-06-26T19:01:54.5955781+00:00",
+  "LastUpdate_Achievements": "2023-06-26T19:07:49.022255+00:00"
 }

@@ -5,6 +5,7 @@ Rating: 4.47 (Ranked 593)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Change the Channel | 3.00% | ~94 |
 | Meeting Resistance | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
 | Confirming Suspicions | 2.00% | ~63 |
@@ -13,7 +14,6 @@ Rating: 4.47 (Ranked 593)
 | As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
 | It's Starting to Crack | 2.00% | ~63 |
-| Change the Channel | 2.00% | ~63 |
 | Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 593)
 | Master-at-arms | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,145 (Ranked 144)  
+Progressed: 3,146 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 3 (0.10%) (Ranked 174)
 | 2023-06-23 | 3,102 | 2 |
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
-| 2023-06-26 | 3,145 | 3 |
+| 2023-06-26 | 3,146 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,8 +20,8 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 29.00% | ~92 |
 | Taxonomist | 27.00% | ~86 |
 | Plunderer | 27.00% | ~86 |
+| Traveller | 24.00% | ~76 |
 | Uncertain Loyalties | 24.00% | ~76 |
-| Traveller | 23.00% | ~73 |
 | Nahua Seeker | 23.00% | ~73 |
 | Roll to Save | 21.00% | ~67 |
 | Red Flag Pirate | 19.00% | ~60 |
@@ -37,8 +37,8 @@ Number of Ratings: 20  (23.09.2022)
 | Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
+| And Here Is Your Statue | 12.00% | ~38 |
 | Very Classy | 12.00% | ~38 |
-| And Here Is Your Statue | 11.00% | ~35 |
 | Under the Table | 10.00% | ~32 |
 | It's Complicated | 10.00% | ~32 |
 | Errand Runner | 9.00% | ~29 |

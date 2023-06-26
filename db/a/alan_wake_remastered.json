@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56287,
+  "EOS_Progressed": 56289,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6162,6 +6162,11 @@
       "Time": "2023-06-26T18:00:48.2810784+00:00",
       "NumProgressed": 56287,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-26T19:03:07.464362+00:00",
+      "NumProgressed": 56289,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6181,7 +6186,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11257
+      "UsersEstimate": 11258
     },
     {
       "ID": "03",
@@ -6189,7 +6194,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11257
+      "UsersEstimate": 11258
     },
     {
       "ID": "04",
@@ -6253,7 +6258,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "12",
@@ -6397,7 +6402,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "30",
@@ -6413,7 +6418,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7317
+      "UsersEstimate": 7318
     },
     {
       "ID": "32",
@@ -6429,7 +6434,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "34",
@@ -6493,7 +6498,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7317
+      "UsersEstimate": 7318
     },
     {
       "ID": "42",
@@ -6533,7 +6538,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6755
     },
     {
       "ID": "47",
@@ -6549,7 +6554,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "49",
@@ -6573,7 +6578,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "52",
@@ -6708,21 +6713,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56287,
+      "Progressed": 56289,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19755,
+      "Progressed": 19757,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-26T18:00:48.2810779+00:00",
+  "LastChanged_Achievements": "2023-06-26T19:03:07.4643616+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-26T17:57:47.2361283+00:00",
-  "LastUpdate_Achievements": "2023-06-26T18:00:48.2811534+00:00"
+  "LastUpdate_Ratings": "2023-06-26T18:58:29.7731182+00:00",
+  "LastUpdate_Achievements": "2023-06-26T19:03:07.4644913+00:00"
 }
