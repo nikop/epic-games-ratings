@@ -17,7 +17,7 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.50% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.96% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.02% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
-| 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.90% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
+| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -105,9 +105,9 @@
 | 103 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 104 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 105 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
+| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 107 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 108 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
 | 110 | [Haven](games/h/haven.md) | 0.69% |
 | 111 | [Them and Us](games/t/them_and_us.md) | 0.68% |
