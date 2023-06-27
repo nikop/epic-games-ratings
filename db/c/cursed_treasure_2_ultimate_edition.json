@@ -410,9 +410,9 @@
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
       "SetID": "ak6pfjk",
       "Name": "It\u0027s a Trap",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "BADGE_ENEMIES_WITH_GEM_KILL",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:04:06.3700159+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:04:13.2060283+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:58:28.7797689+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:04:06.3701002+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:58:31.2776595+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:04:13.2060769+00:00"
 }

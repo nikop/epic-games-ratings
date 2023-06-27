@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525872,
+  "EOS_Progressed": 1525880,
   "EOS_Completed": 636,
-  "EOS_NewPlayers": 1516,
+  "EOS_NewPlayers": 1518,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7630,6 +7630,11 @@
       "Time": "2023-06-27T07:04:15.0983521+00:00",
       "NumProgressed": 1525872,
       "NumCompleted": 636
+    },
+    {
+      "Time": "2023-06-27T08:04:21.3989714+00:00",
+      "NumProgressed": 1525880,
+      "NumCompleted": 636
     }
   ],
   "TotalAchievements": 20,
@@ -7649,7 +7654,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106811
+      "UsersEstimate": 106812
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -7657,7 +7662,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30517
+      "UsersEstimate": 30518
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -7689,7 +7694,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137328
+      "UsersEstimate": 137329
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -7713,7 +7718,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30517
+      "UsersEstimate": 30518
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -7729,7 +7734,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30517
+      "UsersEstimate": 30518
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -7737,7 +7742,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152587
+      "UsersEstimate": 152588
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7753,7 +7758,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137328
+      "UsersEstimate": 137329
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -7800,15 +7805,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1525872,
+      "Progressed": 1525880,
       "Completed": 636
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:04:15.0983514+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:04:21.398971+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.0971586+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:59:35.6879536+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:04:15.098408+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:59:39.3793413+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:04:21.3990205+00:00"
 }

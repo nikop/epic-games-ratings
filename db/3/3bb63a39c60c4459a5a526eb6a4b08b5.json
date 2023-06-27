@@ -473,9 +473,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Creator",
@@ -593,9 +593,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ManagementMaster",
@@ -609,9 +609,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "Millionaire",
@@ -625,9 +625,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "NoTimeForModernization",
@@ -737,9 +737,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "TimeForManagement",
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:02:15.5052299+00:00",
-  "LastUpdate_AppInfo": "2023-06-20T06:57:05.3887401+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:57:08.1602465+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:02:15.5052756+00:00"
+  "LastChanged_Achievements": "2023-06-27T08:02:32.0015421+00:00",
+  "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
+  "LastUpdate_Ratings": "2023-06-27T07:57:09.1313769+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:02:32.0015785+00:00"
 }

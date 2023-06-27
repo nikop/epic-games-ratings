@@ -1811,9 +1811,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 87
     },
     {
       "ID": "SpeedRun",
@@ -1875,9 +1875,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 51
     },
     {
       "ID": "WatcherSpared",
@@ -1914,8 +1914,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:05:28.7189928+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:05:36.6650689+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:59:05.9109703+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:05:28.7190533+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:59:08.6093622+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:05:36.6651233+00:00"
 }

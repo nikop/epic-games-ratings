@@ -2450,9 +2450,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 658
     },
     {
       "ID": "achHq20",
@@ -2570,9 +2570,9 @@
       "ID": "achSmellOfSuccess",
       "SetID": "dgl390n",
       "Name": "The ugly smell of success",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 309
     },
     {
       "ID": "achSmellOfSuccessCargo",
@@ -2650,8 +2650,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-23T17:00:38.1565791+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:05:49.157965+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:05:56.6462194+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:48.2488994+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:59:20.5758102+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:05:49.1580466+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:59:23.7578323+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:05:56.6462869+00:00"
 }

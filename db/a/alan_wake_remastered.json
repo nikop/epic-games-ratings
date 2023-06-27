@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56320,
+  "EOS_Progressed": 56321,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 0,
@@ -6217,6 +6217,11 @@
       "Time": "2023-06-27T06:03:09.5479939+00:00",
       "NumProgressed": 56320,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-27T08:02:18.3630151+00:00",
+      "NumProgressed": 56321,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6260,7 +6265,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9574
+      "UsersEstimate": 9575
     },
     {
       "ID": "06",
@@ -6452,7 +6457,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6758
+      "UsersEstimate": 6759
     },
     {
       "ID": "30",
@@ -6484,7 +6489,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6758
+      "UsersEstimate": 6759
     },
     {
       "ID": "34",
@@ -6588,7 +6593,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6758
+      "UsersEstimate": 6759
     },
     {
       "ID": "47",
@@ -6763,21 +6768,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56320,
+      "Progressed": 56321,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19788,
+      "Progressed": 19789,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:00:30.951216+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:02:18.3630147+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:57:45.7356369+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:00:30.9513253+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:57:47.2131583+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:02:18.3631168+00:00"
 }

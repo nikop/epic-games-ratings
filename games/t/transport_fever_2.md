@@ -21,7 +21,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport master | 53.00% | ~712 |
 | Cadet | 52.00% | ~698 |
 | Sculpturer | 50.00% | ~672 |
-| Settled down | 48.00% | ~645 |
+| Settled down | 49.00% | ~658 |
 | First electric train arrived | 47.00% | ~631 |
 | First ship arrived | 46.00% | ~618 |
 | Now what? | 46.00% | ~618 |
@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 29.00% | ~389 |
 | Transport tycoon | 24.00% | ~322 |
 | Climate change | 23.00% | ~309 |
+| The ugly smell of success | 23.00% | ~309 |
 | Old timer | 22.00% | ~295 |
-| The ugly smell of success | 22.00% | ~295 |
 | Heavily loaded | 21.00% | ~282 |
 | Bob Ross | 15.00% | ~201 |
 | Campaign expert | 11.00% | ~148 |

@@ -13,17 +13,17 @@ Rating: 4.43 (Ranked 651)
 | Taser Goad | 9.00% | ~19,402 |
 | Radium Ready | 9.00% | ~19,402 |
 | Half a cog | 9.00% | ~19,402 |
-| Watch them crumble | 6.00% | ~12,934 |
+| Watch them crumble | 6.00% | ~12,935 |
 | Competent Cohort | 4.00% | ~8,623 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,623 |
 | One with the Machine | 4.00% | ~8,623 |
 | Legio Cybernetica | 3.00% | ~6,467 |
 | Fleshy Disposal | 3.00% | ~6,467 |
-| Battle Servitor | 2.00% | ~4,311 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,311 |
-| Impatient destruction | 2.00% | ~4,311 |
-| Vivisected Vizier | 2.00% | ~4,311 |
-| Architect Abortion | 2.00% | ~4,311 |
+| Battle Servitor | 2.00% | ~4,312 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,312 |
+| Impatient destruction | 2.00% | ~4,312 |
+| Vivisected Vizier | 2.00% | ~4,312 |
+| Architect Abortion | 2.00% | ~4,312 |
 | Cohortus Maximus | 0.80% | ~1,725 |
 | Mother of Xenarites | 0.40% | ~862 |
 | False God | 0.30% | ~647 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 651)
 | Perma-live | 0.10% | ~216 |
 | Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,574 (Ranked 50)  
+Progressed: 215,576 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-24 | 215,318 | 4 |
 | 2023-06-25 | 215,441 | 4 |
 | 2023-06-26 | 215,553 | 4 |
-| 2023-06-27 | 215,574 | 4 |
+| 2023-06-27 | 215,576 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 236)  
 Sum: 2,112 (Ranked 188)  

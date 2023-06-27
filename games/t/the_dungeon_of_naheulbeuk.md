@@ -15,7 +15,7 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 51.00% | ~117 |
 | DM intervention | 46.00% | ~105 |
 | Way of the Wimp | 45.00% | ~103 |
-| Oh, when I'll be level 10... | 37.00% | ~85 |
+| Oh, when I'll be level 10... | 38.00% | ~87 |
 | Speedrun | 35.00% | ~80 |
 | A beer, two curses, three companions | 34.00% | ~78 |
 | The plot thickens... At the tavern | 33.00% | ~76 |

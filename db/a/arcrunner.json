@@ -1294,17 +1294,17 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1509,8 +1509,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:02:23.5444871+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:03:10.0417048+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:59:16.7250654+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:02:23.5445217+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:59:20.051225+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:03:10.0417344+00:00"
 }

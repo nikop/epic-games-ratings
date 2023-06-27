@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Augmented | 7.00% | ~43 |
 | Challenge Accepted | 5.00% | ~31 |
+| The City | 5.00% | ~31 |
 | Nanonic I | 5.00% | ~31 |
 | Terminated I | 5.00% | ~31 |
 | Unlocked and Loaded | 5.00% | ~31 |
 | Challenge Mastered | 4.00% | ~25 |
-| The City | 4.00% | ~25 |
 | Terminated II | 4.00% | ~25 |
 | Terminated III | 4.00% | ~25 |
+| Cybernetic | 3.00% | ~19 |
 | Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |
 | The Bigger They Are | 2.00% | ~12 |
-| Cybernetic | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
 | Up Close And Personal | 2.00% | ~12 |
 | Starship Docks | 1.00% | ~6 |

@@ -17,6 +17,7 @@
 | The Harder They Fall | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
 | The Prince in Heels | 12.00% | ~87 |
+| Fast Learner | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | The Brass Boss | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~80 |
@@ -25,7 +26,6 @@
 | Breaking Down Barriers | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
-| Fast Learner | 11.00% | ~80 |
 | Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
 | The Family Fortune | 11.00% | ~80 |
@@ -36,6 +36,7 @@
 | Family Memories | 7.00% | ~51 |
 | Sump Explorer | 7.00% | ~51 |
 | Theater Explorer | 7.00% | ~51 |
+| Ask Questions Later | 7.00% | ~51 |
 | Good Neighbor | 7.00% | ~51 |
 | Corin Goes Home | 6.00% | ~44 |
 | Sartorialist | 6.00% | ~44 |
@@ -44,7 +45,6 @@
 | Factorywood Explorer | 6.00% | ~44 |
 | Fairgrounds Explorer | 6.00% | ~44 |
 | Syron for Hope | 6.00% | ~44 |
-| Ask Questions Later | 6.00% | ~44 |
 | Golem Hunter | 5.00% | ~36 |
 | Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |

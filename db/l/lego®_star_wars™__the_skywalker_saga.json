@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2552,9 +2552,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49745,
+  "EOS_Progressed": 49746,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -8167,6 +8167,11 @@
       "Time": "2023-06-27T07:00:13.0374604+00:00",
       "NumProgressed": 49745,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-06-27T08:00:19.1365544+00:00",
+      "NumProgressed": 49746,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 45,
@@ -8314,7 +8319,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23380
+      "UsersEstimate": 23381
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8418,7 +8423,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28852
+      "UsersEstimate": 28853
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8442,7 +8447,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48253
+      "UsersEstimate": 48254
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8482,7 +8487,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35319
+      "UsersEstimate": 35320
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8530,22 +8535,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35816
+      "UsersEstimate": 35817
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49745,
+      "Progressed": 49746,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-27T02:27:30.3544755+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:00:13.0374598+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:00:19.1365539+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-27T07:00:03.2877843+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:00:13.0375333+00:00"
+  "LastUpdate_Ratings": "2023-06-27T08:00:06.6102313+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:00:19.1366533+00:00"
 }

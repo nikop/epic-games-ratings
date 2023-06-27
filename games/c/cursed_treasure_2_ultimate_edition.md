@@ -36,7 +36,7 @@
 | Avada Kedavra | 53.00% | ~85 |
 | Brilliant: Tanglewood | 52.00% | ~84 |
 | Starry: Holy Mountain | 52.00% | ~84 |
-| It's a Trap | 50.00% | ~80 |
+| It's a Trap | 51.00% | ~82 |
 | Deposition | 48.00% | ~77 |
 | Brilliant: Arcania | 48.00% | ~77 |
 | Starry: Tanglewood | 47.00% | ~76 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1030,
+  "EOS_Progressed": 1031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-06-21T03:06:18.4035678+00:00",
       "NumProgressed": 1030,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T08:05:53.37447+00:00",
+      "NumProgressed": 1031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -510,7 +515,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -582,7 +587,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "CAREERADVANCED",
@@ -766,7 +771,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ONEPAINT",
@@ -774,7 +779,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ONEPLATINUM",
@@ -869,7 +874,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1030,
+      "Progressed": 1031,
       "Completed": 0
     }
   ],
@@ -877,8 +882,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-06-27T07:05:45.9978138+00:00",
+  "LastChanged_Achievements": "2023-06-27T08:05:53.3744694+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:51.5762146+00:00",
-  "LastUpdate_Ratings": "2023-06-27T06:58:05.8178396+00:00",
-  "LastUpdate_Achievements": "2023-06-27T07:05:45.9978616+00:00"
+  "LastUpdate_Ratings": "2023-06-27T07:58:08.0067126+00:00",
+  "LastUpdate_Achievements": "2023-06-27T08:05:53.3745195+00:00"
 }
