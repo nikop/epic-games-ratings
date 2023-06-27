@@ -39,8 +39,8 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.03% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
-| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.95% |
-| 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.92% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
@@ -72,8 +72,8 @@
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 73 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.95% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -90,7 +90,7 @@
 | 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 89 | [Five Dates](games/f/five_dates.md) | 1.32% |
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.28% |
-| 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
+| 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 93 | [Chorus](games/c/chorus.md) | 1.19% |
 | 94 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
@@ -471,4 +471,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,838 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,839 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
