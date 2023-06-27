@@ -2,7 +2,7 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 473,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "RatingHistory": [
     {
@@ -1186,6 +1186,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 860,
       "NumberOfAwardsMax": 571
+    },
+    {
+      "Time": "2023-06-27T13:59:35.9730719+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 860,
+      "NumberOfAwardsMax": 571
     }
   ],
   "ReviewsDisabled": false,
@@ -1265,8 +1271,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-06-27T04:57:56.7062111+00:00",
+  "LastChanged": "2023-06-27T13:59:35.9730717+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:07.4467135+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:14:22.449657+00:00",
-  "LastUpdate_Achievements": "2023-06-27T13:21:00.9655806+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:59:35.9730725+00:00",
+  "LastUpdate_Achievements": "2023-06-27T14:06:32.0324004+00:00"
 }

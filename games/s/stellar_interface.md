@@ -17,16 +17,20 @@
 | Mega Kill | 14.00% | ~7 |
 | Stoic | 14.00% | ~7 |
 | Bronze Prince of Ball-air | 10.00% | ~5 |
+| Omicron Alpha | 10.00% | ~5 |
 | Pacifist | 10.00% | ~5 |
 | Collateral Damage I | 10.00% | ~5 |
-| Omicron Alpha | 8.00% | ~4 |
-| Galactic Cadet | 6.00% | ~3 |
+| Galactic Cadet | 8.00% | ~4 |
+| Rambo II | 6.00% | ~3 |
+| Defrosted | 6.00% | ~3 |
+| 25Gb HDD | 6.00% | ~3 |
 | Silver Prince of Ball-air | 6.00% | ~3 |
 | Sectoral Ensign | 4.00% | ~2 |
-| Rambo II | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
-| Defrosted | 4.00% | ~2 |
-| 25Gb HDD | 4.00% | ~2 |
+| Golden Prince of Ball-air | 4.00% | ~2 |
+| Space Surfer | 4.00% | ~2 |
+| Flower Power | 4.00% | ~2 |
+| Merchant Prince II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |
 | System Ensign | 2.00% | ~1 |
@@ -44,13 +48,10 @@
 | No Peace | 2.00% | ~1 |
 | Bird of Prey | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
-| Golden Prince of Ball-air | 2.00% | ~1 |
-| Space Surfer | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
 | Usurper I | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
 | Unstoppable | 2.00% | ~1 |
-| Flower Power | 2.00% | ~1 |
 | 50Gb HDD | 2.00% | ~1 |
 | Galactic Lieutenant | 2.00% | ~1 |
 | Silver Foundation | 2.00% | ~1 |
@@ -58,7 +59,6 @@
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
 | Collateral Damage II | 2.00% | ~1 |
-| Merchant Prince II | 2.00% | ~1 |
 | Fighting Fit II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4850,
+  "EOS_Progressed": 4851,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4606,6 +4606,11 @@
       "Time": "2023-06-27T02:31:59.287944+00:00",
       "NumProgressed": 4850,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-27T14:07:21.5587108+00:00",
+      "NumProgressed": 4851,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 50,
@@ -4799,9 +4804,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "31",
@@ -5016,13 +5021,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4850,
+      "Progressed": 4851,
       "Completed": 4756
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4850,
+      "Progressed": 4851,
       "Completed": 3
     }
   ],
@@ -5030,8 +5035,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-27T13:21:42.5225417+00:00",
+  "LastChanged_Achievements": "2023-06-27T14:07:21.5587102+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:15:56.1086515+00:00",
-  "LastUpdate_Achievements": "2023-06-27T13:21:42.5225948+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:01:30.3177782+00:00",
+  "LastUpdate_Achievements": "2023-06-27T14:07:21.558778+00:00"
 }

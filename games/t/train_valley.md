@@ -10,15 +10,15 @@ Number of Ratings: 28  (23.09.2022)
 | Close call! | 75.00% | ~228 |
 | Builder | 57.00% | ~173 |
 | Pangs of conscience | 51.00% | ~155 |
-| Living it large! | 46.00% | ~140 |
+| Living it large! | 47.00% | ~143 |
 | Collector | 44.00% | ~134 |
 | Need to think | 42.00% | ~128 |
 | Completely nuts! | 36.00% | ~109 |
 | Just in time! | 35.00% | ~106 |
 | Europe | 33.00% | ~100 |
 | It's no coincidence. | 33.00% | ~100 |
+| Let's roll! | 29.00% | ~88 |
 | Philatelist | 28.00% | ~85 |
-| Let's roll! | 28.00% | ~85 |
 | Non Stop! | 27.00% | ~82 |
 | Ouroboros | 26.00% | ~79 |
 | Madness! | 25.00% | ~76 |

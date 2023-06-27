@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4460,
+  "EOS_Progressed": 4461,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1510,6 +1510,11 @@
       "Time": "2023-06-27T11:01:04.4306923+00:00",
       "NumProgressed": 4460,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-27T14:04:06.5437406+00:00",
+      "NumProgressed": 4461,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1521,7 +1526,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -1569,7 +1574,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1577,7 +1582,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1585,7 +1590,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1593,7 +1598,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -1737,7 +1742,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1769,7 +1774,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2056,15 +2061,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4460,
+      "Progressed": 4461,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-27T13:17:03.7966491+00:00",
+  "LastChanged_Achievements": "2023-06-27T14:04:06.5437398+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:14:40.8412224+00:00",
-  "LastUpdate_Achievements": "2023-06-27T13:17:03.7967083+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:59:58.5308033+00:00",
+  "LastUpdate_Achievements": "2023-06-27T14:04:06.5438184+00:00"
 }

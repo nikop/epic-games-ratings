@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -326,7 +326,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11859,
+  "EOS_Progressed": 11860,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 3,
@@ -4486,6 +4486,11 @@
       "Time": "2023-06-27T13:22:36.2169153+00:00",
       "NumProgressed": 11859,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-27T14:08:26.0566048+00:00",
+      "NumProgressed": 11860,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -4497,7 +4502,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "ACH_02",
@@ -4505,7 +4510,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9250
+      "UsersEstimate": 9251
     },
     {
       "ID": "ACH_03",
@@ -4513,7 +4518,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8657
+      "UsersEstimate": 8658
     },
     {
       "ID": "ACH_04",
@@ -4545,7 +4550,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7234
+      "UsersEstimate": 7235
     },
     {
       "ID": "ACH_08",
@@ -4561,7 +4566,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6641
+      "UsersEstimate": 6642
     },
     {
       "ID": "ACH_10",
@@ -4569,7 +4574,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "ACH_11",
@@ -4593,7 +4598,7 @@
       "Name": "Nothing Left",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "ACH_14",
@@ -4601,7 +4606,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4269
+      "UsersEstimate": 4270
     },
     {
       "ID": "ACH_15",
@@ -4665,7 +4670,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACH_23",
@@ -4673,7 +4678,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "ACH_24",
@@ -4689,7 +4694,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "ACH_26",
@@ -4697,7 +4702,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ACH_27",
@@ -4753,7 +4758,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "ACH_34",
@@ -4776,7 +4781,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11859,
+      "Progressed": 11860,
       "Completed": 36
     }
   ],
@@ -4784,8 +4789,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-24T14:00:41.3752575+00:00",
-  "LastChanged_Achievements": "2023-06-27T13:22:36.2169148+00:00",
+  "LastChanged_Achievements": "2023-06-27T14:08:26.0566043+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.495104+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:15:52.0627006+00:00",
-  "LastUpdate_Achievements": "2023-06-27T13:22:36.2169545+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:01:25.6719099+00:00",
+  "LastUpdate_Achievements": "2023-06-27T14:08:26.0566551+00:00"
 }

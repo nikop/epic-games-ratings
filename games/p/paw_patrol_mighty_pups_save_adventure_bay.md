@@ -8,10 +8,10 @@
 | Summer Day | 55.00% | ~6 |
 | Risky Rescue | 55.00% | ~6 |
 | Grand Re-Opening | 45.00% | ~5 |
+| Pup Pup Boogie | 45.00% | ~5 |
 | Paw patrol member | 45.00% | ~5 |
 | Carlos Is Tangled | 45.00% | ~5 |
 | Robot Out of Control | 45.00% | ~5 |
-| Pup Pup Boogie | 36.00% | ~4 |
 | Mr. Porter | 36.00% | ~4 |
 | Break Time | 36.00% | ~4 |
 | Master of the Rope | 36.00% | ~4 |

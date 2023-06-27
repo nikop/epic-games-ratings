@@ -4180,24 +4180,30 @@
       "Rating": 4.77,
       "NumberOfAwards": 37974,
       "NumberOfAwardsMax": 20422
+    },
+    {
+      "Time": "2023-06-27T13:59:21.8141037+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 38028,
+      "NumberOfAwardsMax": 20457
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37974,
-  "NumberOfAwardsMax": 20422,
+  "NumberOfAwards": 38028,
+  "NumberOfAwardsMax": 20457,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20422
+      "Count": 20457
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9714
+      "Count": 9731
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4209,7 +4215,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 821
+      "Count": 823
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4260,9 +4266,9 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 281677,
+  "EOS_Progressed": 281680,
   "EOS_Completed": 413,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11420,6 +11426,11 @@
       "Time": "2023-06-27T13:21:52.0088279+00:00",
       "NumProgressed": 281677,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-06-27T14:07:33.1546514+00:00",
+      "NumProgressed": 281680,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 45,
@@ -11463,7 +11474,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     },
     {
       "ID": "PFA_14",
@@ -11535,7 +11546,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     },
     {
       "ID": "PFA_22",
@@ -11559,7 +11570,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     },
     {
       "ID": "PFA_25",
@@ -11615,7 +11626,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     },
     {
       "ID": "PFA_31",
@@ -11687,7 +11698,7 @@
       "Name": "Coasting Along",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     },
     {
       "ID": "PFA_4",
@@ -11783,23 +11794,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19717
+      "UsersEstimate": 19718
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281677,
+      "Progressed": 281680,
       "Completed": 413
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-27T11:57:35.6200286+00:00",
-  "LastChanged_Achievements": "2023-06-27T13:21:52.0088274+00:00",
+  "LastChanged": "2023-06-27T13:59:21.8141036+00:00",
+  "LastChanged_Achievements": "2023-06-27T14:07:33.1546508+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:14:10.6199603+00:00",
-  "LastUpdate_Achievements": "2023-06-27T13:21:52.0088891+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:59:21.8141041+00:00",
+  "LastUpdate_Achievements": "2023-06-27T14:07:33.1547189+00:00"
 }

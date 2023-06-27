@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sorry, kiddo | 96.00% | ~185 |
-| And away we go! | 88.00% | ~170 |
+| And away we go! | 89.00% | ~172 |
 | Job one. DONE! | 61.00% | ~118 |
 | You are Carol Vorderman | 56.00% | ~108 |
 | Toby foolery | 50.00% | ~96 |

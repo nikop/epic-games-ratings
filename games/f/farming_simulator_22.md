@@ -7,16 +7,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~33,936 |
-| I read Shakespeare and stuff | 64.00% | ~28,577 |
+| I read Shakespeare and stuff | 64.00% | ~28,578 |
 | Just a sprinkle | 63.00% | ~28,131 |
 | I'm stumped | 61.00% | ~27,238 |
 | Plant get enough | 61.00% | ~27,238 |
-| This is just my weekend vehicle | 58.00% | ~25,898 |
-| It's just the beginning | 58.00% | ~25,898 |
+| This is just my weekend vehicle | 58.00% | ~25,899 |
+| It's just the beginning | 58.00% | ~25,899 |
 | Hard work pays off | 53.00% | ~23,666 |
-| It's never too late to farm | 47.00% | ~20,986 |
+| It's never too late to farm | 47.00% | ~20,987 |
 | All out of Land | 44.00% | ~19,647 |
-| Field Trip | 43.00% | ~19,200 |
+| Field Trip | 43.00% | ~19,201 |
 | I like to switch it up | 40.00% | ~17,861 |
 | Help me to help you | 38.00% | ~16,968 |
 | Ultimutt Pawesomeness | 28.00% | ~12,503 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~179 |
 | Raisin the stakes | 0.30% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,652 (Ranked 85)  
+Progressed: 44,653 (Ranked 85)  
 Completed: 5 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,14 +118,14 @@ Completed: 5 (0.01%) (Ranked 218)
 | 2023-06-24 | 44,543 | 5 |
 | 2023-06-25 | 44,591 | 5 |
 | 2023-06-26 | 44,632 | 5 |
-| 2023-06-27 | 44,652 | 5 |
+| 2023-06-27 | 44,653 | 5 |
 ## Awards
-Max (Great for Beginners): 4,439  (Ranked 70)  
-Sum: 37,624 (Ranked 31)  
+Max (Great for Beginners): 4,444  (Ranked 70)  
+Sum: 37,629 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,439 |
+| This game is Great for Beginners | 4,444 |
 | This game is Relaxing | 3,992 |
 | This game is Educational | 3,943 |
 | This game has Quickly Understood Controls | 3,907 |
@@ -301,4 +301,4 @@ Diff (max vs sum): 39
 | 2023-06-24 | 4.70 | - | 4,432 | 37,554 |
 | 2023-06-25 | 4.70 | - | 4,432 | 37,581 |
 | 2023-06-26 | 4.70 | - | 4,439 | 37,618 |
-| 2023-06-27 | 4.70 | - | 4,439 | 37,624 |
+| 2023-06-27 | 4.70 | - | 4,444 | 37,629 |

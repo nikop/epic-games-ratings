@@ -40,14 +40,14 @@ Rating: 4.07 (Ranked 895)
 | Relic Of The Past | 8.00% | ~121 |
 | Scroll Master | 8.00% | ~121 |
 | Here We Go Again | 7.00% | ~106 |
-| Master Enchanter | 6.00% | ~91 |
+| Master Enchanter | 7.00% | ~106 |
+| How Do You Turn This On? | 6.00% | ~91 |
 | The Expeditioner | 6.00% | ~91 |
 | The father of Dragons | 6.00% | ~91 |
 | Trader | 6.00% | ~91 |
 | Ancient Knowledge | 5.00% | ~76 |
 | Crystal Mining | 5.00% | ~76 |
 | Enchanting skill | 5.00% | ~76 |
-| How Do You Turn This On? | 5.00% | ~76 |
 | Missions Dedication | 5.00% | ~76 |
 | Weekly Quest Completionist | 5.00% | ~76 |
 | Background Story | 4.00% | ~61 |

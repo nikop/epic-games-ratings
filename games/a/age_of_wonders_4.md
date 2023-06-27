@@ -18,6 +18,7 @@ Rating: 4.59 (Ranked 410)
 | Bone Peddler | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
 | Stronger Together | 0.10% | ~5 |
+| Preparation Is Everything | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
@@ -41,7 +42,6 @@ Rating: 4.59 (Ranked 410)
 | Eternal Lord | 0.00% | ~0 |
 | Digging for Treasure | 0.00% | ~0 |
 | Crimson Caldera | 0.00% | ~0 |
-| Preparation Is Everything | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Impenetrable Fortress | 0.00% | ~0 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,850 (Ranked 132)  
+Progressed: 4,851 (Ranked 132)  
 Completed: 3 (0.06%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.06%) (Ranked 193)
 | 2023-06-24 | 4,815 | 3 |
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
-| 2023-06-27 | 4,850 | 3 |
+| 2023-06-27 | 4,851 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

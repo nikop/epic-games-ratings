@@ -14,12 +14,12 @@ Rating: 4.77 (Ranked 108)
 | A Keen Sense of Spell | 8.00% | ~22,534 |
 | Troll with the Punches | 8.00% | ~22,534 |
 | That's a Keeper | 8.00% | ~22,534 |
-| The Hero of Hogwarts | 7.00% | ~19,717 |
-| Challenge Accepted | 7.00% | ~19,717 |
-| Loom for Improvement | 7.00% | ~19,717 |
-| A Talent for Spending | 7.00% | ~19,717 |
-| Coasting Along | 7.00% | ~19,717 |
-| Rising From the Ashes | 7.00% | ~19,717 |
+| The Hero of Hogwarts | 7.00% | ~19,718 |
+| Challenge Accepted | 7.00% | ~19,718 |
+| Loom for Improvement | 7.00% | ~19,718 |
+| A Talent for Spending | 7.00% | ~19,718 |
+| Coasting Along | 7.00% | ~19,718 |
+| Rising From the Ashes | 7.00% | ~19,718 |
 | The Avenging Gazelle | 6.00% | ~16,901 |
 | A Sallow Grave | 6.00% | ~16,901 |
 | Flight the Good Flight | 6.00% | ~16,901 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,677 (Ranked 41)  
+Progressed: 281,680 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,21 +119,21 @@ Completed: 413 (0.15%) (Ranked 166)
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
 | 2023-06-26 | 281,619 | 413 |
-| 2023-06-27 | 281,677 | 413 |
+| 2023-06-27 | 281,680 | 413 |
 ## Awards
-Max (Character Customization): 20,422  (Ranked 17)  
-Sum: 37,974 (Ranked 30)  
+Max (Character Customization): 20,457  (Ranked 17)  
+Sum: 38,028 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20,422 |
-| This game has Great Boss Battles | 9,714 |
+| This game has Inclusive Character Customization | 20,457 |
+| This game has Great Boss Battles | 9,731 |
 | This game is Great for Beginners | 870 |
 | This game is Extremely Fun | 852 |
 | This game is Relaxing | 852 |
 | This game has Amazing Storytelling | 837 |
 | This game has Diverse Characters | 836 |
-| This game has Amazing Characters | 821 |
+| This game has Amazing Characters | 823 |
 | This game is Highly Recommended | 799 |
 | This game has Quickly Understood Controls | 750 |
 | This game has Beautiful Visuals | 695 |
@@ -236,4 +236,4 @@ Diff (max vs sum): -13
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
 | 2023-06-26 | 4.77 | 20,422 | 37,969 |
-| 2023-06-27 | 4.77 | 20,422 | 37,974 |
+| 2023-06-27 | 4.77 | 20,457 | 38,028 |

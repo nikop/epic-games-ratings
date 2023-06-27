@@ -14,21 +14,21 @@ Rating: 4.47 (Ranked 594)
 | Explosive Efficiency | 2.00% | ~63 |
 | Lord of War | 2.00% | ~63 |
 | Resourceful | 2.00% | ~63 |
+| Der Geist | 2.00% | ~63 |
 | As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
 | Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
-| Climbing the Ladder | 1.00% | ~31 |
-| Just a Flesh Wound | 1.00% | ~31 |
-| Organ Grinder | 1.00% | ~31 |
-| Gunslinger | 1.00% | ~31 |
-| Skirmisher | 1.00% | ~31 |
-| Set Europe Ablaze | 1.00% | ~31 |
-| Der Geist | 1.00% | ~31 |
-| Close Quarters | 1.00% | ~31 |
-| Snake in the Grass | 1.00% | ~31 |
-| Brains of the Operation | 1.00% | ~31 |
+| Climbing the Ladder | 1.00% | ~32 |
+| Just a Flesh Wound | 1.00% | ~32 |
+| Organ Grinder | 1.00% | ~32 |
+| Gunslinger | 1.00% | ~32 |
+| Skirmisher | 1.00% | ~32 |
+| Set Europe Ablaze | 1.00% | ~32 |
+| Close Quarters | 1.00% | ~32 |
+| Snake in the Grass | 1.00% | ~32 |
+| Brains of the Operation | 1.00% | ~32 |
 | No Stone Unturned | 0.80% | ~25 |
 | Precision Is Key | 0.80% | ~25 |
 | Rigged to Blow | 0.80% | ~25 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Stroll in the Woods | 0.20% | ~6 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,149 (Ranked 144)  
+Progressed: 3,150 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 3 (0.10%) (Ranked 175)
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
-| 2023-06-27 | 3,149 | 3 |
+| 2023-06-27 | 3,150 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
