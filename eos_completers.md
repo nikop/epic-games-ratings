@@ -22,12 +22,12 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
-| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.11% |
 | 29 | [Scorn](games/s/scorn.md) | 6.85% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -82,8 +82,8 @@
 | 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.79% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
-| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.54% |
-| 84 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
+| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.53% |
+| 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.45% |
@@ -104,7 +104,7 @@
 | 102 | [Adios](games/a/adios.md) | 0.92% |
 | 103 | [Hades](games/h/hades.md) | 0.89% |
 | 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -161,26 +161,26 @@
 | 159 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 160 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 160 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 162 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 163 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 163 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
-| 163 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 166 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
-| 166 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 166 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 166 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 166 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 171 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
-| 172 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 172 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
-| 174 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 175 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 175 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
-| 175 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 175 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 175 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.10% |
-| 175 | [Supraland](games/s/supraland.md) | 0.10% |
-| 175 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 160 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
+| 163 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 164 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 164 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
+| 164 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 167 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
+| 167 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 167 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
+| 167 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 167 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 172 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 173 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 173 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
+| 175 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
+| 176 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 176 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
+| 176 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 176 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 176 | [Supraland](games/s/supraland.md) | 0.10% |
+| 176 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 182 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 182 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 182 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
