@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64283,
+  "EOS_Progressed": 64286,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4390,6 +4390,11 @@
       "Time": "2023-06-27T10:03:50.3274578+00:00",
       "NumProgressed": 64283,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-27T12:03:56.0323527+00:00",
+      "NumProgressed": 64286,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4409,7 +4414,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -4495,9 +4500,9 @@
       "ID": "ACH_PHONECAPTURE",
       "SetID": "6ccjg6f",
       "Name": "Are you still there?",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -4553,14 +4558,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64283,
+      "Progressed": 64286,
       "Completed": 13
     }
   ],
@@ -4568,8 +4573,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-27T11:03:49.1611667+00:00",
+  "LastChanged_Achievements": "2023-06-27T12:03:56.0323522+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.0170383+00:00",
-  "LastUpdate_Ratings": "2023-06-27T10:57:42.9201567+00:00",
-  "LastUpdate_Achievements": "2023-06-27T11:03:49.1611965+00:00"
+  "LastUpdate_Ratings": "2023-06-27T11:57:43.529119+00:00",
+  "LastUpdate_Achievements": "2023-06-27T12:03:56.032383+00:00"
 }

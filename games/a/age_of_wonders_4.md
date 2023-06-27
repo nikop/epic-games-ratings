@@ -5,6 +5,7 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| There Can Only Be One! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -18,11 +19,15 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
+| In a Liege of Your Own | 0.10% | ~5 |
+| Manufactured War | 0.10% | ~5 |
+| Grexolis | 0.10% | ~5 |
+| One for All, All for One | 0.10% | ~5 |
+| Returning Circle | 0.10% | ~5 |
 | Here be Dragons | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
-| There Can Only Be One! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
@@ -34,11 +39,9 @@ Rating: 4.59 (Ranked 410)
 | Crimson Caldera | 0.00% | ~0 |
 | Preparation Is Everything | 0.00% | ~0 |
 | Seat of Power | 0.00% | ~0 |
-| In a Liege of Your Own | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Against the Odds | 0.00% | ~0 |
-| Manufactured War | 0.00% | ~0 |
 | Impenetrable Fortress | 0.00% | ~0 |
 | The Eternal Court | 0.00% | ~0 |
 | Intimidation Tactics | 0.00% | ~0 |
@@ -46,9 +49,6 @@ Rating: 4.59 (Ranked 410)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 | Pruning for Progress | 0.00% | ~0 |
-| Grexolis | 0.00% | ~0 |
-| One for All, All for One | 0.00% | ~0 |
-| Returning Circle | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Tipping the Scales | 0.00% | ~0 |

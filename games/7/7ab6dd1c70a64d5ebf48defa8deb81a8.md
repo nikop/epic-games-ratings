@@ -17,6 +17,7 @@
 | I found it | 8.00% | ~1 |
 | Stone collection | 8.00% | ~1 |
 | Miner | 8.00% | ~1 |
+| The collector | 8.00% | ~1 |
 | To battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear sight | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | False God | 0.00% | ~0 |
 | All that gold | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
-| The collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |

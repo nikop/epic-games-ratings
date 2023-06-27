@@ -19,24 +19,24 @@ Number of Ratings: 118  (23.09.2022)
 | Speedrun | 35.00% | ~81 |
 | A beer, two curses, three companions | 33.00% | ~76 |
 | The plot thickens... At the tavern | 32.00% | ~74 |
+| I am the night | 32.00% | ~74 |
 | Team Building Exercise | 32.00% | ~74 |
 | Dwarf Fortress | 31.00% | ~72 |
-| I am the night | 31.00% | ~72 |
 | The Ranger of Chaos | 30.00% | ~69 |
-| Thieves' Guild Accreditation | 28.00% | ~65 |
+| Thieves' Guild Accreditation | 29.00% | ~67 |
 | Look but don't touch | 26.00% | ~60 |
 | The demons' feast | 24.00% | ~55 |
 | The Great Library | 24.00% | ~55 |
 | Gargantua | 23.00% | ~53 |
 | Shiny and Crôm | 22.00% | ~51 |
 | Torture and Sensibility | 22.00% | ~51 |
+| The beards of change | 22.00% | ~51 |
 | Material Girl | 22.00% | ~51 |
 | The Statuette of Gladeulfeurah | 21.00% | ~49 |
 | A tale of adventurers not quite like the others... | 21.00% | ~49 |
-| The beards of change | 21.00% | ~49 |
+| In Navalu's footsteps | 19.00% | ~44 |
 | The Woman in the High Castle | 18.00% | ~42 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~42 |
-| In Navalu's footsteps | 18.00% | ~42 |
 | Urik's Depths | 16.00% | ~37 |
 | The Blood Countess | 16.00% | ~37 |
 | Cursed die | 14.00% | ~32 |

@@ -4,7 +4,7 @@
 Rating: 4.59 (Ranked 410)  
 ## Awards
 Max (Great for Beginners): 187  (Ranked 273)  
-Sum: 1,727 (Ranked 204)  
+Sum: 1,729 (Ranked 204)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 69
 | This game has Quickly Understood Controls | 138 |
 | This game has Challenging Combat | 131 |
 | This game is Highly Recommended | 129 |
-| This game has Amazing Storytelling | 125 |
+| This game has Amazing Storytelling | 127 |
 | This game has a Competitive Community | 112 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -177,4 +177,4 @@ Diff (max vs sum): 69
 | 2023-06-24 | 4.59 | 186 | 1,696 |
 | 2023-06-25 | 4.59 | 186 | 1,710 |
 | 2023-06-26 | 4.59 | 187 | 1,722 |
-| 2023-06-27 | 4.59 | 187 | 1,727 |
+| 2023-06-27 | 4.59 | 187 | 1,729 |

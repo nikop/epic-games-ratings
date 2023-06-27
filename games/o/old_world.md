@@ -6,44 +6,44 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,367 |
-| Settler | 81.00% | ~9,997 |
-| Explorer | 79.00% | ~9,750 |
-| Friendly Family | 75.00% | ~9,256 |
-| Intrepid | 69.00% | ~8,516 |
+| Play a Single Player Game | 84.00% | ~10,368 |
+| Settler | 81.00% | ~9,998 |
+| Explorer | 79.00% | ~9,751 |
+| Friendly Family | 75.00% | ~9,257 |
+| Intrepid | 69.00% | ~8,517 |
 | Architect | 61.00% | ~7,529 |
 | Mason | 61.00% | ~7,529 |
-| Able | 60.00% | ~7,405 |
+| Able | 60.00% | ~7,406 |
 | Strong | 59.00% | ~7,282 |
 | Hanging Gardens | 59.00% | ~7,282 |
-| Noble | 57.00% | ~7,035 |
-| Oracle | 57.00% | ~7,035 |
-| Good | 55.00% | ~6,788 |
+| Noble | 57.00% | ~7,036 |
+| Oracle | 57.00% | ~7,036 |
+| Good | 55.00% | ~6,789 |
 | Just | 54.00% | ~6,665 |
 | Keystone | 54.00% | ~6,665 |
 | Judaism | 54.00% | ~6,665 |
 | Glorious | 52.00% | ~6,418 |
 | Trade Caravan | 52.00% | ~6,418 |
-| Naming Landmarks | 50.00% | ~6,171 |
+| Naming Landmarks | 50.00% | ~6,172 |
 | Learned | 49.00% | ~6,048 |
-| Fountainhead | 48.00% | ~5,924 |
-| Pioneer | 48.00% | ~5,924 |
-| Zoroastrianism | 48.00% | ~5,924 |
+| Fountainhead | 48.00% | ~5,925 |
+| Pioneer | 48.00% | ~5,925 |
+| Zoroastrianism | 48.00% | ~5,925 |
 | Developing Cities | 47.00% | ~5,801 |
 | Magnificent | 45.00% | ~5,554 |
 | Strong Cities | 45.00% | ~5,554 |
 | Pyramids | 45.00% | ~5,554 |
 | Greek Paganism | 45.00% | ~5,554 |
-| Warrior | 44.00% | ~5,430 |
-| Ishtar Gate | 44.00% | ~5,430 |
+| Warrior | 44.00% | ~5,431 |
+| Ishtar Gate | 44.00% | ~5,431 |
 | Babylonian Paganism | 43.00% | ~5,307 |
 | Enlightened | 42.00% | ~5,184 |
-| Roman Paganism | 41.00% | ~5,060 |
+| Roman Paganism | 41.00% | ~5,061 |
 | Great Ziggurat | 40.00% | ~4,937 |
 | Christianity | 40.00% | ~4,937 |
-| Great | 39.00% | ~4,813 |
-| Able Difficulty | 39.00% | ~4,813 |
-| Lighthouse | 39.00% | ~4,813 |
+| Great | 39.00% | ~4,814 |
+| Able Difficulty | 39.00% | ~4,814 |
+| Lighthouse | 39.00% | ~4,814 |
 | Ambitious | 38.00% | ~4,690 |
 | Carthaginian Paganism | 37.00% | ~4,567 |
 | Necropolis | 36.00% | ~4,443 |
@@ -51,9 +51,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 35.00% | ~4,320 |
 | Musaeum | 35.00% | ~4,320 |
 | Manichaeism | 35.00% | ~4,320 |
-| Brilliant | 34.00% | ~4,196 |
-| Drillmaster | 32.00% | ~3,949 |
-| Colossus | 32.00% | ~3,949 |
+| Brilliant | 34.00% | ~4,197 |
+| Drillmaster | 32.00% | ~3,950 |
+| Colossus | 32.00% | ~3,950 |
 | Legendary Cities | 31.00% | ~3,826 |
 | Furious Family | 31.00% | ~3,826 |
 | Learn to Play 1 | 31.00% | ~3,826 |
@@ -80,10 +80,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 22.00% | ~2,715 |
 | Hittite Iron | 21.00% | ~2,592 |
 | Via Recta Souk | 21.00% | ~2,592 |
-| Mighty | 20.00% | ~2,468 |
-| Hagia Sophia | 20.00% | ~2,468 |
-| Dualism | 20.00% | ~2,468 |
-| Legionary | 20.00% | ~2,468 |
+| Mighty | 20.00% | ~2,469 |
+| Hagia Sophia | 20.00% | ~2,469 |
+| Dualism | 20.00% | ~2,469 |
+| Legionary | 20.00% | ~2,469 |
 | Victorious | 19.00% | ~2,345 |
 | Statesmen | 19.00% | ~2,345 |
 | Circus Maximus | 19.00% | ~2,345 |
@@ -123,9 +123,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 14.00% | ~1,728 |
 | Carthage | 14.00% | ~1,728 |
 | Turreted Elephant | 14.00% | ~1,728 |
-| Regicide | 13.00% | ~1,604 |
-| Clerics | 13.00% | ~1,604 |
-| Rome | 13.00% | ~1,604 |
+| Regicide | 13.00% | ~1,605 |
+| Clerics | 13.00% | ~1,605 |
+| Rome | 13.00% | ~1,605 |
 | Peacemaker | 12.00% | ~1,481 |
 | Egypt | 12.00% | ~1,481 |
 | One True Faith | 12.00% | ~1,481 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,342 (Ranked 110)  
+Progressed: 12,343 (Ranked 110)  
 Completed: 4 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 4 (0.03%) (Ranked 202)
 | 2023-06-24 | 12,272 | 4 |
 | 2023-06-25 | 12,314 | 4 |
 | 2023-06-26 | 12,335 | 4 |
-| 2023-06-27 | 12,342 | 4 |
+| 2023-06-27 | 12,343 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 254)  
 Sum: 1,774 (Ranked 203)  

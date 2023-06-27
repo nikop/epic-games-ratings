@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -258,7 +258,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 190498,
+  "EOS_Progressed": 190503,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
@@ -7403,6 +7403,11 @@
       "Time": "2023-06-27T11:06:23.9913438+00:00",
       "NumProgressed": 190498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-27T12:06:32.9332581+00:00",
+      "NumProgressed": 190503,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -7422,7 +7427,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 135254
+      "UsersEstimate": 135257
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -7446,7 +7451,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34290
+      "UsersEstimate": 34291
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -7454,7 +7459,7 @@
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
@@ -7470,7 +7475,7 @@
       "Name": "Many More to Come",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
@@ -7510,7 +7515,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -7541,7 +7546,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 190498,
+      "Progressed": 190503,
       "Completed": 4
     }
   ],
@@ -7549,8 +7554,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-06-22T02:12:28.2628941+00:00",
-  "LastChanged_Achievements": "2023-06-27T11:06:23.9913433+00:00",
+  "LastChanged_Achievements": "2023-06-27T12:06:32.9332576+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.7179817+00:00",
-  "LastUpdate_Ratings": "2023-06-27T10:59:53.9131557+00:00",
-  "LastUpdate_Achievements": "2023-06-27T11:06:23.9913906+00:00"
+  "LastUpdate_Ratings": "2023-06-27T11:59:57.5336018+00:00",
+  "LastUpdate_Achievements": "2023-06-27T12:06:32.9333026+00:00"
 }

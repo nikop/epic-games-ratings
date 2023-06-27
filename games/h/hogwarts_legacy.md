@@ -7,13 +7,13 @@ Rating: 4.77 (Ranked 108)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 10.00% | ~28,167 |
 | First Class Student | 9.00% | ~25,350 |
-| Grappling with a Graphorn | 8.00% | ~22,533 |
-| The One Who Mastered Memories | 8.00% | ~22,533 |
-| The Hallowed Hero | 8.00% | ~22,533 |
-| The Defender of Dragons | 8.00% | ~22,533 |
-| A Keen Sense of Spell | 8.00% | ~22,533 |
-| Troll with the Punches | 8.00% | ~22,533 |
-| That's a Keeper | 8.00% | ~22,533 |
+| Grappling with a Graphorn | 8.00% | ~22,534 |
+| The One Who Mastered Memories | 8.00% | ~22,534 |
+| The Hallowed Hero | 8.00% | ~22,534 |
+| The Defender of Dragons | 8.00% | ~22,534 |
+| A Keen Sense of Spell | 8.00% | ~22,534 |
+| Troll with the Punches | 8.00% | ~22,534 |
+| That's a Keeper | 8.00% | ~22,534 |
 | The Hero of Hogwarts | 7.00% | ~19,717 |
 | Challenge Accepted | 7.00% | ~19,717 |
 | Loom for Improvement | 7.00% | ~19,717 |
@@ -25,7 +25,7 @@ Rating: 4.77 (Ranked 108)
 | Flight the Good Flight | 6.00% | ~16,900 |
 | Followed the Butterflies | 6.00% | ~16,900 |
 | The Spell Master | 6.00% | ~16,900 |
-| Beast Friends | 5.00% | ~14,083 |
+| Beast Friends | 5.00% | ~14,084 |
 | The Seeker of Knowledge | 4.00% | ~11,267 |
 | The Root of the Problem | 4.00% | ~11,267 |
 | Third Time's a Charm | 4.00% | ~11,267 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,408 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,668 (Ranked 41)  
+Progressed: 281,671 (Ranked 41)  
 Completed: 412 (0.15%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,10 +119,10 @@ Completed: 412 (0.15%) (Ranked 166)
 | 2023-06-24 | 281,354 | 412 |
 | 2023-06-25 | 281,503 | 413 |
 | 2023-06-26 | 281,619 | 413 |
-| 2023-06-27 | 281,668 | 412 |
+| 2023-06-27 | 281,671 | 412 |
 ## Awards
 Max (Character Customization): 20,422  (Ranked 17)  
-Sum: 37,972 (Ranked 30)  
+Sum: 37,974 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -132,7 +132,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 852 |
 | This game is Relaxing | 852 |
 | This game has Amazing Storytelling | 837 |
-| This game has Diverse Characters | 834 |
+| This game has Diverse Characters | 836 |
 | This game has Amazing Characters | 821 |
 | This game is Highly Recommended | 799 |
 | This game has Quickly Understood Controls | 750 |
@@ -236,4 +236,4 @@ Diff (max vs sum): -13
 | 2023-06-24 | 4.77 | 20,340 | 37,792 |
 | 2023-06-25 | 4.77 | 20,383 | 37,876 |
 | 2023-06-26 | 4.77 | 20,422 | 37,969 |
-| 2023-06-27 | 4.77 | 20,422 | 37,972 |
+| 2023-06-27 | 4.77 | 20,422 | 37,974 |
