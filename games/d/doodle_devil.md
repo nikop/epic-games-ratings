@@ -8,7 +8,7 @@
 | Dark Kingdom Come | 77.00% | ~59 |
 | Master of Sins | 61.00% | ~47 |
 | Lucky Strike | 57.00% | ~44 |
-| Cardinal Sins | 48.00% | ~37 |
+| Cardinal Sins | 49.00% | ~38 |
 | Warm and Fuzzy | 47.00% | ~36 |
 | Master of Warfare | 35.00% | ~27 |
 | Vicious Delicious | 27.00% | ~21 |

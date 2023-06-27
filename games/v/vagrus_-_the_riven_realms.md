@@ -19,14 +19,15 @@
 | Scholar | 3.00% | ~3 |
 | Courier | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
+| Quartermaster | 2.00% | ~2 |
+| Supercargo | 2.00% | ~2 |
 | The More the Merrier | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | Harbinger | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
+| Merchant | 2.00% | ~2 |
 | Trouble at Fort Larius | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
-| Quartermaster | 0.90% | ~1 |
-| Supercargo | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Strategist | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
@@ -36,7 +37,6 @@
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
-| Merchant | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |

@@ -9,29 +9,29 @@ Rating: 4.33 (Ranked 753)
 | A new Journey | 72.00% | ~1,004 |
 | Departure | 71.00% | ~990 |
 | From X to Y | 70.00% | ~976 |
-| Way of Iron | 69.00% | ~962 |
-| Mystery Tour | 67.00% | ~934 |
-| We brake for nobody | 66.00% | ~920 |
-| Brainstorm | 65.00% | ~906 |
-| Travel Company | 64.00% | ~892 |
-| Mind the Gap | 63.00% | ~878 |
-| All around the World | 61.00% | ~850 |
+| Way of Iron | 69.00% | ~963 |
+| Mystery Tour | 67.00% | ~935 |
+| We brake for nobody | 66.00% | ~921 |
+| Brainstorm | 65.00% | ~907 |
+| Travel Company | 64.00% | ~893 |
+| Mind the Gap | 63.00% | ~879 |
+| All around the World | 61.00% | ~851 |
 | Right through the middle | 56.00% | ~781 |
 | Facility Manager | 53.00% | ~739 |
 | Poor Devil | 53.00% | ~739 |
-| Producer | 50.00% | ~697 |
-| Apprentice | 42.00% | ~585 |
+| Producer | 50.00% | ~698 |
+| Apprentice | 42.00% | ~586 |
 | Bridge Builder | 41.00% | ~572 |
 | Access granted | 35.00% | ~488 |
 | Going once, going twice, sold | 34.00% | ~474 |
 | Stoker | 33.00% | ~460 |
 | Full Steam ahead | 31.00% | ~432 |
 | Bull and bear | 31.00% | ~432 |
-| Financial Shark | 29.00% | ~404 |
-| All mine | 28.00% | ~390 |
-| Mole | 28.00% | ~390 |
-| Socializer | 27.00% | ~376 |
-| Country Life | 26.00% | ~362 |
+| Financial Shark | 29.00% | ~405 |
+| All mine | 28.00% | ~391 |
+| Mole | 28.00% | ~391 |
+| Socializer | 27.00% | ~377 |
+| Country Life | 26.00% | ~363 |
 | General Manager | 24.00% | ~335 |
 | Hostile Takeover | 24.00% | ~335 |
 | Seven at one stroke | 23.00% | ~321 |
@@ -46,8 +46,8 @@ Rating: 4.33 (Ranked 753)
 | Max Power | 12.00% | ~167 |
 | Settler | 12.00% | ~167 |
 | Go West | 11.00% | ~153 |
-| Bold and beautiful | 10.00% | ~139 |
-| A new Hope | 9.00% | ~125 |
+| Bold and beautiful | 10.00% | ~140 |
+| A new Hope | 9.00% | ~126 |
 | Tycoon | 8.00% | ~112 |
 | Unstoppable | 6.00% | ~84 |
 | Track to the Future | 6.00% | ~84 |
@@ -61,7 +61,7 @@ Rating: 4.33 (Ranked 753)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,394 (Ranked 169)  
+Progressed: 1,395 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 1,353 | 0 |
 | 2023-06-25 | 1,367 | 0 |
 | 2023-06-26 | 1,385 | 0 |
-| 2023-06-27 | 1,394 | 0 |
+| 2023-06-27 | 1,395 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

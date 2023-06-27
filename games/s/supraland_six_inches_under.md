@@ -38,7 +38,7 @@ Number of Ratings: 209  (23.09.2022)
 | Guard Distracted | 80.00% | ~1,701 |
 | Translocator | 79.00% | ~1,680 |
 | Inner Peace | 77.00% | ~1,637 |
-| Diamond Pickaxe | 76.00% | ~1,616 |
+| Diamond Pickaxe | 77.00% | ~1,637 |
 | Killed them all | 76.00% | ~1,616 |
 | Trickle Down Economy | 76.00% | ~1,616 |
 | Win | 75.00% | ~1,594 |

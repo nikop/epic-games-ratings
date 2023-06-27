@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251974,
+  "EOS_Progressed": 251979,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7510,6 +7510,11 @@
       "Time": "2023-06-27T18:04:10.6038337+00:00",
       "NumProgressed": 251974,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-27T19:04:28.971483+00:00",
+      "NumProgressed": 251979,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7521,7 +7526,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17638
+      "UsersEstimate": 17639
     },
     {
       "ID": "Act2",
@@ -7561,7 +7566,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "BackHomeFirstTime",
@@ -7569,7 +7574,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78112
+      "UsersEstimate": 78113
     },
     {
       "ID": "BackHomeNTimes",
@@ -7625,7 +7630,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25197
+      "UsersEstimate": 25198
     },
     {
       "ID": "CreditLevel2",
@@ -7633,7 +7638,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "CreditLevel3",
@@ -7721,7 +7726,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "GrowPlants2",
@@ -7761,7 +7766,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -7777,7 +7782,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "KillOtherWithKatana",
@@ -7785,7 +7790,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -7801,7 +7806,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "KillOthers1",
@@ -7809,7 +7814,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55434
+      "UsersEstimate": 55435
     },
     {
       "ID": "KillOthers2",
@@ -7817,7 +7822,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "KillOthers3",
@@ -7833,7 +7838,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -7913,7 +7918,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25197
+      "UsersEstimate": 25198
     },
     {
       "ID": "ReachNDays2",
@@ -7921,7 +7926,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5040
     },
     {
       "ID": "ReachNDays3",
@@ -7968,7 +7973,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251974,
+      "Progressed": 251979,
       "Completed": 2
     }
   ],
@@ -7976,8 +7981,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-27T13:16:35.2177975+00:00",
-  "LastChanged_Achievements": "2023-06-27T18:04:10.6038333+00:00",
+  "LastChanged_Achievements": "2023-06-27T19:04:28.9714824+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:59:45.506125+00:00",
-  "LastUpdate_Achievements": "2023-06-27T18:04:10.6039037+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:00:26.8148455+00:00",
+  "LastUpdate_Achievements": "2023-06-27T19:04:28.9715844+00:00"
 }

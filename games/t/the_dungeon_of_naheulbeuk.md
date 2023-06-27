@@ -16,8 +16,8 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 46.00% | ~107 |
 | Way of the Wimp | 45.00% | ~104 |
 | Oh, when I'll be level 10... | 37.00% | ~86 |
+| Speedrun | 35.00% | ~81 |
 | A beer, two curses, three companions | 34.00% | ~79 |
-| Speedrun | 34.00% | ~79 |
 | The plot thickens... At the tavern | 33.00% | ~77 |
 | Team Building Exercise | 32.00% | ~74 |
 | Dwarf Fortress | 31.00% | ~72 |

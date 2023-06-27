@@ -30,9 +30,9 @@ Rating: 4.47 (Ranked 594)
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | Precision Is Key | 0.90% | ~28 |
+| Rigged to Blow | 0.90% | ~28 |
 | No Stone Unturned | 0.80% | ~25 |
 | Opposing Force | 0.80% | ~25 |
-| Rigged to Blow | 0.80% | ~25 |
 | My Little Friend | 0.80% | ~25 |
 | Die Nussknacker Sweet! | 0.80% | ~25 |
 | Enemy at the Gates | 0.70% | ~22 |

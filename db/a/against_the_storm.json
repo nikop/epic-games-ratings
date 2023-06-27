@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2432,9 +2432,9 @@
       "Count": 308
     }
   ],
-  "EOS_Progressed": 15499,
+  "EOS_Progressed": 15501,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6077,6 +6077,11 @@
       "Time": "2023-06-27T17:07:53.3263718+00:00",
       "NumProgressed": 15499,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-27T19:06:41.2402151+00:00",
+      "NumProgressed": 15501,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6104,7 +6109,7 @@
       "Name": "Paradise",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AllServices",
@@ -6112,7 +6117,7 @@
       "Name": "Higher Needs",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BeaverUtopia",
@@ -6120,7 +6125,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HarpyUtopia",
@@ -6128,7 +6133,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HumanUtopia",
@@ -6392,7 +6397,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "WinVeryHard",
@@ -6432,7 +6437,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WinWithRuins",
@@ -6487,15 +6492,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15499,
+      "Progressed": 15501,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-26T20:00:21.2355078+00:00",
-  "LastChanged_Achievements": "2023-06-27T18:06:03.5211868+00:00",
+  "LastChanged_Achievements": "2023-06-27T19:06:41.2402146+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:59:31.5514069+00:00",
-  "LastUpdate_Achievements": "2023-06-27T18:06:03.521238+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:00:09.6450674+00:00",
+  "LastUpdate_Achievements": "2023-06-27T19:06:41.2402899+00:00"
 }
