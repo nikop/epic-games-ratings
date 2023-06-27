@@ -1452,9 +1452,9 @@
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -1539,8 +1539,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:03:35.8606876+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:03:16.5989831+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:00:39.0799488+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:03:35.8607183+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:59:26.3243174+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:03:16.5990116+00:00"
 }

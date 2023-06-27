@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-06-27T21:04:21.8841665+00:00",
       "NumProgressed": 256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T23:03:57.1295524+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -939,7 +944,7 @@
       "Name": "Corporal",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -963,7 +968,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -995,7 +1000,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1011,7 +1016,7 @@
       "Name": "Covert Operative",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1075,7 +1080,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1083,7 +1088,7 @@
       "Name": "Defenses Online",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1130,14 +1135,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:04:32.4663685+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:03:57.1295515+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:01:35.5155292+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:04:32.4664056+00:00"
+  "LastUpdate_Ratings": "2023-06-27T23:00:04.0540334+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:03:57.1295845+00:00"
 }

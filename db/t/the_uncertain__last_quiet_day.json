@@ -423,9 +423,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -535,9 +535,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 261
     },
     {
       "ID": "SILENT",
@@ -600,8 +600,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:07:19.2367747+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:05:54.0857466+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.2429257+00:00",
-  "LastUpdate_Ratings": "2023-06-27T21:59:33.7686723+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:07:19.2368327+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:58:43.6570339+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:05:54.0857683+00:00"
 }

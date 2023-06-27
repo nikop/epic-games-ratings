@@ -6,7 +6,7 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13756,
-  "EOS_Completed": 289,
-  "EOS_NewPlayers": 762,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 2.1,
+  "EOS_Progressed": 13758,
+  "EOS_Completed": 290,
+  "EOS_NewPlayers": 759,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -7424,6 +7424,11 @@
       "Time": "2023-06-27T22:07:20.1735945+00:00",
       "NumProgressed": 13756,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-06-27T23:05:54.8741692+00:00",
+      "NumProgressed": 13758,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 20,
@@ -7451,7 +7456,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -7483,7 +7488,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -7499,7 +7504,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "FOUND_ERIN",
@@ -7547,7 +7552,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "INTRO_FINISHED",
@@ -7555,7 +7560,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10455
+      "UsersEstimate": 10456
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7594,15 +7599,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13756,
-      "Completed": 289
+      "Progressed": 13758,
+      "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:07:20.1735939+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:05:54.8741685+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:01:16.6856672+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:07:20.1736633+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:59:51.2880967+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:05:54.8742254+00:00"
 }

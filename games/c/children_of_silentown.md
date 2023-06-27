@@ -14,7 +14,7 @@
 | Blue's drawing | 54.00% | ~94 |
 | Mysterious footprints | 47.00% | ~82 |
 | Glass shards | 46.00% | ~80 |
-| Complicated padlock | 41.00% | ~72 |
+| Complicated padlock | 42.00% | ~74 |
 | Big metal ruler | 41.00% | ~72 |
 | Windmill | 38.00% | ~66 |
 | Doll | 37.00% | ~65 |

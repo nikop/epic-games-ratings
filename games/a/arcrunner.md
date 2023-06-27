@@ -16,10 +16,10 @@
 | Cybernetic | 3.00% | ~19 |
 | Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |
+| Supply Run | 3.00% | ~19 |
 | The Bigger They Are | 2.00% | ~13 |
 | Starship Docks | 2.00% | ~13 |
 | Rookie | 2.00% | ~13 |
-| Supply Run | 2.00% | ~13 |
 | Up Close And Personal | 2.00% | ~13 |
 | Outer Core | 0.80% | ~5 |
 | Integration | 0.60% | ~4 |

@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 132,
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4857,
+  "EOS_Progressed": 4858,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4631,6 +4631,11 @@
       "Time": "2023-06-27T22:06:11.1039631+00:00",
       "NumProgressed": 4857,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-27T23:05:05.4909364+00:00",
+      "NumProgressed": 4858,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 50,
@@ -4760,9 +4765,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "24",
@@ -4776,9 +4781,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "26",
@@ -4992,9 +4997,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "46",
@@ -5016,9 +5021,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "49",
@@ -5041,13 +5046,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4857,
+      "Progressed": 4858,
       "Completed": 4756
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4857,
+      "Progressed": 4858,
       "Completed": 3
     }
   ],
@@ -5055,8 +5060,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:06:11.1039627+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:05:05.4909359+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:00:27.54126+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:06:11.1040394+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:59:18.6360062+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:05:05.4910099+00:00"
 }

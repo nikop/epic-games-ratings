@@ -27,10 +27,10 @@
 | Meet your maker | 8.00% | ~21 |
 | Pacifist fanatic | 8.00% | ~21 |
 | A grave matter | 7.00% | ~18 |
+| Peaceful protest | 7.00% | ~18 |
 | The Good Place | 7.00% | ~18 |
 | Trial by combat | 7.00% | ~18 |
 | The pelican brief | 6.00% | ~16 |
-| Peaceful protest | 6.00% | ~16 |
 | A bard day's night | 5.00% | ~13 |
 | Money talks | 5.00% | ~13 |
 | Squid Game | 4.00% | ~11 |

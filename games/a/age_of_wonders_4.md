@@ -1,20 +1,23 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 410)  
+Rating: 4.59 (Ranked 409)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.40% | ~19 |
+| A Wonderful Discovery | 0.30% | ~15 |
 | My Final Form | 0.30% | ~15 |
 | Tipping the Scales | 0.30% | ~15 |
 | Mighty Hoard | 0.30% | ~15 |
 | Realm Estate | 0.20% | ~10 |
-| A Wonderful Discovery | 0.20% | ~10 |
+| Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
 | From Friends to Family | 0.20% | ~10 |
 | Stronger Together | 0.20% | ~10 |
 | Magical Synergy | 0.20% | ~10 |
+| Here be Dragons | 0.20% | ~10 |
+| Blood of the Dragon | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -28,7 +31,6 @@ Rating: 4.59 (Ranked 410)
 | The Creator | 0.10% | ~5 |
 | Enchanted Archipelago | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
-| Walls Cannot Stop Us | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
@@ -45,9 +47,7 @@ Rating: 4.59 (Ranked 410)
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
-| Here be Dragons | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
-| Blood of the Dragon | 0.10% | ~5 |
 | The Goddess of Nature | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,857 (Ranked 132)  
+Progressed: 4,858 (Ranked 132)  
 Completed: 3 (0.06%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.06%) (Ranked 193)
 | 2023-06-24 | 4,815 | 3 |
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
-| 2023-06-27 | 4,857 | 3 |
+| 2023-06-27 | 4,858 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

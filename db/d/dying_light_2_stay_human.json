@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -6301,9 +6301,9 @@
       "Count": 527
     }
   ],
-  "EOS_Progressed": 583750,
+  "EOS_Progressed": 583754,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3126,
+  "EOS_NewPlayers": 3117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13621,6 +13621,11 @@
       "Time": "2023-06-27T22:07:35.5795149+00:00",
       "NumProgressed": 583750,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-27T23:06:06.771395+00:00",
+      "NumProgressed": 583754,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -13816,7 +13821,7 @@
       "Name": "Revenants",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "achievement_25",
@@ -13840,7 +13845,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64212
+      "UsersEstimate": 64213
     },
     {
       "ID": "achievement_28",
@@ -13952,7 +13957,7 @@
       "Name": "Tanning Salon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "achievement_42",
@@ -14024,7 +14029,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17512
+      "UsersEstimate": 17513
     },
     {
       "ID": "achievement_51",
@@ -14151,21 +14156,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 583750,
+      "Progressed": 583754,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 229194,
+      "Progressed": 229198,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-27T21:00:17.3032756+00:00",
-  "LastChanged_Achievements": "2023-06-27T22:07:35.5795144+00:00",
+  "LastChanged_Achievements": "2023-06-27T23:06:06.7713945+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:00:57.9111849+00:00",
-  "LastUpdate_Achievements": "2023-06-27T22:07:35.5796269+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:59:38.7243264+00:00",
+  "LastUpdate_Achievements": "2023-06-27T23:06:06.7715112+00:00"
 }
