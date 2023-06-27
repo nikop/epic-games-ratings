@@ -5,8 +5,8 @@ Rating: 4.47 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Starting to Crack | 3.00% | ~94 |
-| Change the Channel | 3.00% | ~94 |
+| It's Starting to Crack | 3.00% | ~95 |
+| Change the Channel | 3.00% | ~95 |
 | Liberté | 2.00% | ~63 |
 | Meeting Resistance | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
@@ -38,15 +38,16 @@ Rating: 4.47 (Ranked 594)
 | Fields of Glory | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
+| Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Herr Today, Gone Tomorrow | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
-| Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Tinkerer | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
+| Last Resort | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
@@ -59,7 +60,6 @@ Rating: 4.47 (Ranked 594)
 | Road Rage | 0.30% | ~9 |
 | Shoot for the Moon | 0.30% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~9 |
-| Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | Best of the Best | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Stroll in the Woods | 0.20% | ~6 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,150 (Ranked 144)  
+Progressed: 3,151 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 3 (0.10%) (Ranked 175)
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
-| 2023-06-27 | 3,150 | 3 |
+| 2023-06-27 | 3,151 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

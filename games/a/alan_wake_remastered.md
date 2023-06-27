@@ -6,26 +6,26 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,594 |
-| Let There Be Light | 26.00% | ~14,650 |
-| Float Like a Butterfly | 25.00% | ~14,086 |
-| Nordic Walking | 20.00% | ~11,269 |
-| Bright Falls' Finest | 20.00% | ~11,269 |
+| Follow the Light | 33.00% | ~18,595 |
+| Let There Be Light | 26.00% | ~14,651 |
+| Float Like a Butterfly | 25.00% | ~14,087 |
+| Nordic Walking | 20.00% | ~11,270 |
+| Bright Falls' Finest | 20.00% | ~11,270 |
 | Under a Thin Layer of Skin | 17.00% | ~9,579 |
-| Park Ranger | 14.00% | ~7,888 |
-| Paging Mr. Wake | 14.00% | ~7,888 |
+| Park Ranger | 14.00% | ~7,889 |
+| Paging Mr. Wake | 14.00% | ~7,889 |
 | Back! Back, I Say! | 13.00% | ~7,325 |
 | Finders Keepers | 13.00% | ~7,325 |
-| Sound and Fury | 12.00% | ~6,761 |
-| Missed by a Mile | 12.00% | ~6,761 |
-| Damn Good Cup of Coffee | 12.00% | ~6,761 |
+| Sound and Fury | 12.00% | ~6,762 |
+| Missed by a Mile | 12.00% | ~6,762 |
+| Damn Good Cup of Coffee | 12.00% | ~6,762 |
 | Wheels Within Wheels | 11.00% | ~6,198 |
 | They're Heeeeeere! | 11.00% | ~6,198 |
 | The Six-Gun Scribe | 11.00% | ~6,198 |
-| Heavy Metal | 10.00% | ~5,634 |
-| Iron Horse | 10.00% | ~5,634 |
-| Collateral Carnage | 10.00% | ~5,634 |
-| Come One, Come All | 10.00% | ~5,634 |
+| Heavy Metal | 10.00% | ~5,635 |
+| Iron Horse | 10.00% | ~5,635 |
+| Collateral Carnage | 10.00% | ~5,635 |
+| Come One, Come All | 10.00% | ~5,635 |
 | Perchance to Dream | 9.00% | ~5,071 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,071 |
 | Thunder and Lightning | 9.00% | ~5,071 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 4.00% | ~2,254 |
 | Boob Tube | 3.00% | ~1,690 |
 | If It Flies, It Burns | 3.00% | ~1,690 |
-| Kill Your Darlings | 3.00% | ~594 |
-| Heartbreaker | 3.00% | ~594 |
+| Kill Your Darlings | 3.00% | ~595 |
+| Heartbreaker | 3.00% | ~595 |
 | Medical Opinions | 2.00% | ~1,127 |
 | Taken Season | 2.00% | ~1,127 |
 | Carny | 2.00% | ~1,127 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,345 (Ranked 79)  
+Progressed: 56,349 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.10%) (Ranked 175)
 | 2023-06-24 | 56,152 | 56 |
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
-| 2023-06-27 | 56,345 | 56 |
+| 2023-06-27 | 56,349 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

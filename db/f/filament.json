@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,10 +225,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194696,
-  "EOS_Completed": 449,
-  "EOS_NewPlayers": 738,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 194700,
+  "EOS_Completed": 450,
+  "EOS_NewPlayers": 741,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -7340,6 +7340,11 @@
       "Time": "2023-06-27T16:05:51.7542092+00:00",
       "NumProgressed": 194696,
       "NumCompleted": 449
+    },
+    {
+      "Time": "2023-06-27T17:07:32.962479+00:00",
+      "NumProgressed": 194700,
+      "NumCompleted": 450
     }
   ],
   "TotalAchievements": 29,
@@ -7351,7 +7356,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -7375,7 +7380,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183014
+      "UsersEstimate": 183018
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7582,16 +7587,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194696,
-      "Completed": 449
+      "Progressed": 194700,
+      "Completed": 450
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:05:51.7542088+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:07:32.9624785+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:58:48.5574092+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:05:51.7542663+00:00"
+  "LastUpdate_Ratings": "2023-06-27T16:59:47.5729438+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:07:32.9625488+00:00"
 }

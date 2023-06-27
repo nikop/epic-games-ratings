@@ -23,13 +23,13 @@
 | Far away from home | 58.00% | ~14 |
 | Show me your true self | 54.00% | ~13 |
 | Close the deal | 50.00% | ~12 |
+| Little genius | 50.00% | ~12 |
 | GG | 46.00% | ~11 |
 | You've got mail! | 46.00% | ~11 |
 | Ring-a-ding-ding | 46.00% | ~11 |
 | Pain in the hands | 46.00% | ~11 |
 | Mischief maker | 46.00% | ~11 |
 | No posters allowed | 46.00% | ~11 |
-| Little genius | 46.00% | ~11 |
 | Shattered | 42.00% | ~10 |
 | Memories | 42.00% | ~10 |
 | Makeover | 42.00% | ~10 |

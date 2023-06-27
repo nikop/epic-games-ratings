@@ -23,7 +23,7 @@ Rating: 4.52 (Ranked 518)
 | Memoirs of a Nibbler | 0.80% | ~9 |
 | KGB Bunker | 0.70% | ~8 |
 | Sixth Sense | 0.70% | ~8 |
-| Rising Star | 0.50% | ~6 |
+| Rising Star | 0.60% | ~7 |
 | Baby Eater | 0.40% | ~4 |
 | Sick Freak | 0.40% | ~4 |
 | Admiral | 0.30% | ~3 |

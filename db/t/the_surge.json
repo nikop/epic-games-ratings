@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,7 +325,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4461,
+  "EOS_Progressed": 4462,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -1515,6 +1515,11 @@
       "Time": "2023-06-27T14:04:06.5437406+00:00",
       "NumProgressed": 4461,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-27T17:02:27.9613438+00:00",
+      "NumProgressed": 4462,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1574,7 +1579,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1582,7 +1587,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4194
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1590,7 +1595,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1742,7 +1747,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1758,7 +1763,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -1814,7 +1819,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -1854,7 +1859,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -2061,15 +2066,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4461,
+      "Progressed": 4462,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:00:36.9999406+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:02:27.9613431+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:58:06.4241289+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:00:37.0000203+00:00"
+  "LastUpdate_Ratings": "2023-06-27T16:58:44.7421245+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:02:27.961426+00:00"
 }

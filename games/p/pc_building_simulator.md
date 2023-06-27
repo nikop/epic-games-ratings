@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,691,662 |
-| Easy to forget | 46.00% | ~1,621,176 |
-| Back in the black | 38.00% | ~1,339,232 |
-| That's what I'm talking about | 28.00% | ~986,803 |
-| The Best of Both Worlds | 24.00% | ~845,831 |
-| Get your wings | 20.00% | ~704,859 |
-| Double trouble | 15.00% | ~528,644 |
-| Smashing it | 10.00% | ~352,430 |
-| But can it run Crysis? | 9.00% | ~317,187 |
-| My favourite feature... | 9.00% | ~317,187 |
-| From humble beginnings... | 7.00% | ~246,701 |
-| Customer satisfaction | 7.00% | ~246,701 |
-| Keeping things neat | 4.00% | ~140,972 |
-| Seems you're pretty good at this | 4.00% | ~140,972 |
-| Triple threat | 3.00% | ~105,729 |
-| You rock at this! | 3.00% | ~105,729 |
-| Your music sucks | 3.00% | ~105,729 |
-| Bending over backwards | 3.00% | ~105,729 |
-| I'm broke, Uncle! | 2.00% | ~70,486 |
-| Maybe you should try something else? | 2.00% | ~70,486 |
-| Taking care of business | 2.00% | ~70,486 |
-| Perfection | 2.00% | ~70,486 |
-| Calling in Sick | 2.00% | ~70,486 |
+| You need to plug it in... | 48.00% | ~1,691,678 |
+| Easy to forget | 46.00% | ~1,621,191 |
+| Back in the black | 38.00% | ~1,339,245 |
+| That's what I'm talking about | 28.00% | ~986,812 |
+| The Best of Both Worlds | 24.00% | ~845,839 |
+| Get your wings | 20.00% | ~704,866 |
+| Double trouble | 15.00% | ~528,649 |
+| Smashing it | 10.00% | ~352,433 |
+| But can it run Crysis? | 9.00% | ~317,190 |
+| My favourite feature... | 9.00% | ~317,190 |
+| From humble beginnings... | 7.00% | ~246,703 |
+| Customer satisfaction | 7.00% | ~246,703 |
+| Keeping things neat | 4.00% | ~140,973 |
+| Seems you're pretty good at this | 4.00% | ~140,973 |
+| Triple threat | 3.00% | ~105,730 |
+| You rock at this! | 3.00% | ~105,730 |
+| Your music sucks | 3.00% | ~105,730 |
+| Bending over backwards | 3.00% | ~105,730 |
+| I'm broke, Uncle! | 2.00% | ~70,487 |
+| Maybe you should try something else? | 2.00% | ~70,487 |
+| Taking care of business | 2.00% | ~70,487 |
+| Perfection | 2.00% | ~70,487 |
+| Calling in Sick | 2.00% | ~70,487 |
 | Overvolted | 1.00% | ~35,243 |
 | If you fail the first time... | 1.00% | ~35,243 |
 | Amazonian | 1.00% | ~35,243 |
@@ -40,8 +40,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Show off | 0.90% | ~31,719 |
 | Work ethic 101 | 0.70% | ~24,670 |
 | Building momentum | 0.60% | ~21,146 |
-| Lead by example | 0.50% | ~17,621 |
-| Treat yourself - RAM | 0.50% | ~17,621 |
+| Lead by example | 0.50% | ~17,622 |
+| Treat yourself - RAM | 0.50% | ~17,622 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,573 |
 | Mr big business | 0.30% | ~10,573 |
 | Mister Big | 0.30% | ~10,573 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,524 |
 | Treat yourself - GPU | 0.10% | ~3,524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,524,295 (Ranked 4)  
+Progressed: 3,524,329 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,10 +127,10 @@ Completed: 28 (0.00%) (Ranked 230)
 | 2023-06-24 | 3,522,941 | 28 |
 | 2023-06-25 | 3,523,497 | 28 |
 | 2023-06-26 | 3,523,974 | 28 |
-| 2023-06-27 | 3,524,295 | 28 |
+| 2023-06-27 | 3,524,329 | 28 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 137)  
-Sum: 7,846 (Ranked 96)  
+Sum: 7,847 (Ranked 96)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): 41
 | This game has Amazing Storytelling | 804 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 644 |
-| This game has a Creative Community | 633 |
+| This game has a Creative Community | 634 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -285,4 +285,4 @@ Diff (max vs sum): 41
 | 2023-06-24 | 4.66 | - | 1,051 | 7,841 |
 | 2023-06-25 | 4.66 | - | 1,051 | 7,842 |
 | 2023-06-26 | 4.66 | - | 1,051 | 7,843 |
-| 2023-06-27 | 4.66 | - | 1,051 | 7,846 |
+| 2023-06-27 | 4.66 | - | 1,051 | 7,847 |

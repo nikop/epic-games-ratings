@@ -17,11 +17,11 @@
 | Acquaintance | 4.00% | ~4 |
 | Taskmaster | 4.00% | ~4 |
 | Scholar | 3.00% | ~3 |
+| Courier | 3.00% | ~3 |
 | Tail-wind | 3.00% | ~3 |
 | The More the Merrier | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | Harbinger | 2.00% | ~2 |
-| Courier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Trouble at Fort Larius | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
@@ -31,6 +31,7 @@
 | Strategist | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
 | The Voice of Hereafter | 0.90% | ~1 |
+| Despised | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
@@ -60,7 +61,6 @@
 | Ever After | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
-| Despised | 0.00% | ~0 |
 | Conqueror | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |

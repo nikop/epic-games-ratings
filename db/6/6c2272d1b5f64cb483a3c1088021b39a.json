@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2023-06-27T15:02:14.1300833+00:00",
       "NumProgressed": 642,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T17:03:14.718025+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1737,7 +1742,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "adventurous_2",
@@ -1903,9 +1908,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 302
     },
     {
       "ID": "elemental_stones_2",
@@ -2264,14 +2269,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 642,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:02:10.4310037+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:03:14.7180246+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:57:13.5095126+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:02:10.4310687+00:00"
+  "LastUpdate_Ratings": "2023-06-27T16:57:27.6926818+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:03:14.7180932+00:00"
 }

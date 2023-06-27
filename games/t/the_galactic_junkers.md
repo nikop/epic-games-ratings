@@ -8,7 +8,7 @@
 | Firefighter | 91.00% | ~39 |
 | Pirate | 77.00% | ~33 |
 | Miner | 67.00% | ~29 |
-| Expert Mechanic | 53.00% | ~23 |
+| Expert Mechanic | 56.00% | ~24 |
 | Cookie Addict | 51.00% | ~22 |
 | Salvager | 37.00% | ~16 |
 | You're Hired! | 23.00% | ~10 |

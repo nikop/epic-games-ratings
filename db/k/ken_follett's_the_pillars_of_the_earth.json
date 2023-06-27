@@ -6,7 +6,7 @@
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13554,
+  "EOS_Progressed": 13555,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 3,
@@ -5024,6 +5024,11 @@
       "Time": "2023-06-27T15:05:56.8059222+00:00",
       "NumProgressed": 13554,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-27T17:07:33.8159955+00:00",
+      "NumProgressed": 13555,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5075,7 +5080,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "tpote_achievement_15",
@@ -5123,7 +5128,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "tpote_achievement_20",
@@ -5219,7 +5224,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "tpote_achievement_31",
@@ -5299,7 +5304,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5557
+      "UsersEstimate": 5558
     },
     {
       "ID": "tpote_achievement_40",
@@ -5323,7 +5328,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "tpote_achievement_6",
@@ -5362,15 +5367,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13554,
+      "Progressed": 13555,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:05:52.3974748+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:07:33.815995+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:59:47.4856358+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:05:52.3975358+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:01:13.8954573+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:07:33.8160577+00:00"
 }

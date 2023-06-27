@@ -203,9 +203,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 70,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -243,9 +243,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PROGRESS_N1",
@@ -297,8 +297,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:00:31.4181449+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:02:20.9828271+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.0799684+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:59:00.2191236+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:00:31.4181644+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:00:04.8197841+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:02:20.9832951+00:00"
 }

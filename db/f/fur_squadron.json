@@ -4,8 +4,8 @@
   "ProductSlug": "fur-squadron-0042b8",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
     "PcReleaseDate": "2023-03-16T00:00:00+00:00",
@@ -303,9 +303,9 @@
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETED_BLAZE_6",
@@ -421,8 +421,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-06-27T16:05:53.1264415+00:00",
+  "LastChanged_Achievements": "2023-06-27T17:07:34.7945694+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:24.6648131+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:59:18.0863018+00:00",
-  "LastUpdate_Achievements": "2023-06-27T16:05:53.1264581+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:00:31.2141652+00:00",
+  "LastUpdate_Achievements": "2023-06-27T17:07:34.7945864+00:00"
 }

@@ -16,12 +16,12 @@
 | Clear | 4.00% | ~11 |
 | Unfinished | 3.00% | ~8 |
 | Denial | 2.00% | ~6 |
+| Help | 2.00% | ~6 |
 | All endings | 1.00% | ~3 |
-| Help | 1.00% | ~3 |
 | Interpret | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 277 (Ranked 243)  
-Completed: 2 (0.72%) (Ranked 109)  
+Completed: 3 (1.08%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,6 +49,7 @@ Completed: 2 (0.72%) (Ranked 109)
 | 2023-06-18 | 273 | 2 |
 | 2023-06-23 | 276 | 2 |
 | 2023-06-24 | 277 | 2 |
+| 2023-06-27 | 277 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
