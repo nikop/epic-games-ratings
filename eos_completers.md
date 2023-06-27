@@ -57,8 +57,8 @@
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
-| 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 58 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -72,8 +72,8 @@
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
-| 73 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 74 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.94% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -96,19 +96,19 @@
 | 94 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 95 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 96 | [Trifox](games/t/trifox.md) | 1.12% |
-| 97 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.09% |
-| 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
-| 100 | [Sable](games/s/sable.md) | 0.96% |
-| 101 | [Adios](games/a/adios.md) | 0.92% |
-| 102 | [Hades](games/h/hades.md) | 0.89% |
-| 103 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 104 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
-| 105 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 107 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
-| 109 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.72% |
+| 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
+| 97 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.08% |
+| 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
+| 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
+| 101 | [Sable](games/s/sable.md) | 0.96% |
+| 102 | [Adios](games/a/adios.md) | 0.92% |
+| 103 | [Hades](games/h/hades.md) | 0.89% |
+| 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
+| 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
+| 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
+| 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 108 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Haven](games/h/haven.md) | 0.69% |
 | 111 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 112 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
