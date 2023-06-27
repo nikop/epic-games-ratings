@@ -6,6 +6,7 @@ Rating: 4.47 (Ranked 593)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Change the Channel | 3.00% | ~94 |
+| Liberté | 2.00% | ~63 |
 | Meeting Resistance | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
 | Confirming Suspicions | 2.00% | ~63 |
@@ -18,7 +19,6 @@ Rating: 4.47 (Ranked 593)
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
 | Climbing the Ladder | 1.00% | ~31 |
-| Liberté | 1.00% | ~31 |
 | Just a Flesh Wound | 1.00% | ~31 |
 | Organ Grinder | 1.00% | ~31 |
 | Gunslinger | 1.00% | ~31 |
@@ -40,11 +40,11 @@ Rating: 4.47 (Ranked 593)
 | Shipbreaker | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
+| Herr Today, Gone Tomorrow | 0.50% | ~15 |
 | Operation Foxley | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
-| Herr Today, Gone Tomorrow | 0.40% | ~12 |
 | Siegebreaker | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |

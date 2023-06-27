@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-06-26T22:04:34.4488254+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T00:04:29.6402095+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2483,7 +2488,7 @@
       "Name": "Zero Waste",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2555,7 +2560,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2763,7 +2768,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2786,7 +2791,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 0
     }
   ],
@@ -2794,8 +2799,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-26T16:57:34.8304497+00:00",
-  "LastChanged_Achievements": "2023-06-26T23:04:19.6670985+00:00",
+  "LastChanged_Achievements": "2023-06-27T00:04:29.6402088+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:57:24.3612544+00:00",
-  "LastUpdate_Achievements": "2023-06-26T23:04:19.6671383+00:00"
+  "LastUpdate_Ratings": "2023-06-26T23:57:31.9380639+00:00",
+  "LastUpdate_Achievements": "2023-06-27T00:04:29.640266+00:00"
 }

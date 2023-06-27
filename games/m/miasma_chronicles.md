@@ -39,8 +39,8 @@ Rating: 4.34 (Ranked 742)
 | Chaos Theory | 13.00% | ~155 |
 | Dr Jones | 13.00% | ~155 |
 | Commando | 11.00% | ~131 |
+| Chain Reaction | 9.00% | ~107 |
 | Side Order | 9.00% | ~107 |
-| Chain Reaction | 8.00% | ~95 |
 | Curveball | 8.00% | ~95 |
 | Bot Whisperer | 7.00% | ~83 |
 | Wipe Out | 7.00% | ~83 |

@@ -11,7 +11,7 @@
 | A Forest Walk | 31.00% | ~103 |
 | C-C-C-Combo! | 29.00% | ~96 |
 | Multiply that! | 29.00% | ~96 |
-| Snow Fun! | 27.00% | ~89 |
+| Snow Fun! | 27.00% | ~90 |
 | Fore! | 26.00% | ~86 |
 | The Collector | 26.00% | ~86 |
 | Insurance fraud | 26.00% | ~86 |
@@ -19,13 +19,13 @@
 | Bag of Tricks | 25.00% | ~83 |
 | I see the light! | 25.00% | ~83 |
 | You're it | 25.00% | ~83 |
-| First Come, First Serve | 24.00% | ~79 |
-| To and Fro | 24.00% | ~79 |
-| Take that Frosty! | 24.00% | ~79 |
-| Goodbye cruel world | 24.00% | ~79 |
-| Beach Party! | 24.00% | ~79 |
-| In the Bag! | 24.00% | ~79 |
+| First Come, First Serve | 24.00% | ~80 |
+| To and Fro | 24.00% | ~80 |
+| Take that Frosty! | 24.00% | ~80 |
+| Goodbye cruel world | 24.00% | ~80 |
+| In the Bag! | 24.00% | ~80 |
 | Disoriented | 23.00% | ~76 |
+| Beach Party! | 23.00% | ~76 |
 | Car-Tapult | 22.00% | ~73 |
 | Anger Issues | 22.00% | ~73 |
 | Your Highness | 22.00% | ~73 |
@@ -43,9 +43,9 @@
 | Earth Defense Force | 13.00% | ~43 |
 | Rocketman | 13.00% | ~43 |
 | High Roller | 12.00% | ~40 |
-| Event Pro | 11.00% | ~36 |
-| Space Crash | 8.00% | ~26 |
-| To war! | 8.00% | ~26 |
+| Event Pro | 11.00% | ~37 |
+| Space Crash | 8.00% | ~27 |
+| To war! | 8.00% | ~27 |
 | Hoarder | 7.00% | ~23 |
 | Event Master | 6.00% | ~20 |
 | A Starting Collector | 5.00% | ~17 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 231)  
+Progressed: 332 (Ranked 231)  
 Completed: 2 (0.60%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 2 (0.60%) (Ranked 118)
 | 2023-06-17 | 328 | 2 |
 | 2023-06-21 | 330 | 2 |
 | 2023-06-23 | 331 | 2 |
+| 2023-06-27 | 332 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

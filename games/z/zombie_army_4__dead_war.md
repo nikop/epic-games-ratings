@@ -18,8 +18,8 @@ Number of Ratings: 743  (23.09.2022)
 | Give me something to shoot! | 46.00% | ~19,743 |
 | Weird science | 44.00% | ~18,885 |
 | Chain reaction | 44.00% | ~18,885 |
+| What did you say, Blain? | 42.00% | ~18,026 |
 | Look mummy! A shark! | 41.00% | ~17,597 |
-| What did you say, Blain? | 41.00% | ~17,597 |
 | In the dark dark woods... | 39.00% | ~16,739 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,310 |
 | Double tap | 37.00% | ~15,880 |

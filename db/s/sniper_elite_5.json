@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4429,9 +4429,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 63
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4885,9 +4885,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -5004,8 +5004,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-26T23:05:49.9342198+00:00",
+  "LastChanged_Achievements": "2023-06-27T00:05:58.8147187+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:59:54.5903838+00:00",
-  "LastUpdate_Achievements": "2023-06-26T23:05:49.9343005+00:00"
+  "LastUpdate_Ratings": "2023-06-26T23:59:57.2965496+00:00",
+  "LastUpdate_Achievements": "2023-06-27T00:05:58.8148162+00:00"
 }

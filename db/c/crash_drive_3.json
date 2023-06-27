@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-06-23T08:03:08.3585105+00:00",
       "NumProgressed": 331,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-27T00:03:15.005949+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -344,7 +349,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -352,7 +357,7 @@
       "Name": "To and Fro",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -432,7 +437,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -448,7 +453,7 @@
       "Name": "Space Crash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HONK_100_TIMES",
@@ -480,7 +485,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -504,7 +509,7 @@
       "Name": "Snow Fun!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -536,7 +541,7 @@
       "Name": "To war!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SPIN_1080",
@@ -616,15 +621,15 @@
       "Name": "Event Pro",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 76
     },
     {
       "ID": "WIN_KING_HILL",
@@ -648,7 +653,7 @@
       "Name": "In the Bag!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -671,7 +676,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 2
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-26T23:02:31.5835508+00:00",
+  "LastChanged_Achievements": "2023-06-27T00:03:15.0059483+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.9658503+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:58:29.3034914+00:00",
-  "LastUpdate_Achievements": "2023-06-26T23:02:31.583698+00:00"
+  "LastUpdate_Ratings": "2023-06-26T23:58:34.2089388+00:00",
+  "LastUpdate_Achievements": "2023-06-27T00:03:15.0059991+00:00"
 }

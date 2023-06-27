@@ -12,7 +12,7 @@
 | A TIGER'S FEAR | 30.00% | ~853 |
 | HERE ARE SOME BARE NECESSITIES | 30.00% | ~853 |
 | AGGRESSIVE RACER | 30.00% | ~853 |
-| ACE SPEEDSTER | 22.00% | ~625 |
+| ACE SPEEDSTER | 22.00% | ~626 |
 | IT'S A LONG WAY TO THE TOP | 18.00% | ~512 |
 | MASTER | 13.00% | ~370 |
 | TRAINING HARD | 12.00% | ~341 |
@@ -25,11 +25,11 @@
 | ACE DEFENDER | 10.00% | ~284 |
 | THE EYE OF THE HUNTER | 10.00% | ~284 |
 | PERFECTLY POISED | 9.00% | ~256 |
-| ACE TRICKSTER | 8.00% | ~227 |
+| ACE TRICKSTER | 8.00% | ~228 |
 | EXPERIENCED CREW | 4.00% | ~114 |
 | FRAMED! | 3.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,843 (Ranked 149)  
+Progressed: 2,844 (Ranked 149)  
 Completed: 73 (2.57%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 73 (2.57%) (Ranked 64)
 | 2023-06-24 | 2,838 | 71 |
 | 2023-06-25 | 2,840 | 71 |
 | 2023-06-26 | 2,843 | 73 |
+| 2023-06-27 | 2,844 | 73 |

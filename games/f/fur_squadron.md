@@ -8,9 +8,9 @@
 | Do a barrel roll! | 62.00% | ~23 |
 | Huh? What was that? | 46.00% | ~17 |
 | Whatever it is, fix it! | 32.00% | ~12 |
+| The opposite of good news | 27.00% | ~10 |
 | Priceless company | 24.00% | ~9 |
-| The opposite of good news | 22.00% | ~8 |
-| My Emperor... I've failed you! | 16.00% | ~6 |
+| My Emperor... I've failed you! | 19.00% | ~7 |
 | Enemy shield analyzed | 8.00% | ~3 |
 | Piece of cake | 5.00% | ~2 |
 | No need to say goodbye | 5.00% | ~2 |

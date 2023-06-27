@@ -6,27 +6,27 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~436,446 |
-| The Three | 64.00% | ~336,536 |
-| The Banquet | 40.00% | ~210,335 |
-| Devara's Light | 30.00% | ~157,751 |
-| The Iron Ones | 18.00% | ~94,651 |
-| The Village | 16.00% | ~84,134 |
-| The Forest | 14.00% | ~73,617 |
+| Find Sanctuary | 83.00% | ~436,449 |
+| The Three | 64.00% | ~336,539 |
+| The Banquet | 40.00% | ~210,337 |
+| Devara's Light | 30.00% | ~157,753 |
+| The Iron Ones | 18.00% | ~94,652 |
+| The Village | 16.00% | ~84,135 |
+| The Forest | 14.00% | ~73,618 |
 | Branded | 13.00% | ~68,359 |
 | The Imposter | 13.00% | ~68,359 |
 | The Keep | 13.00% | ~68,359 |
-| The Castle | 11.00% | ~57,842 |
-| The Dome | 9.00% | ~47,325 |
-| The Red Hall | 9.00% | ~47,325 |
+| The Castle | 11.00% | ~57,843 |
+| The Dome | 9.00% | ~47,326 |
+| The Red Hall | 9.00% | ~47,326 |
 | The Sacrifice | 8.00% | ~42,067 |
 | The Cave | 7.00% | ~36,809 |
 | The Stone Roots | 7.00% | ~36,809 |
 | The Ziggurat | 7.00% | ~36,809 |
-| Storied | 6.00% | ~31,550 |
-| The Construct | 6.00% | ~31,550 |
-| The Mire | 6.00% | ~31,550 |
-| The Ruins | 6.00% | ~31,550 |
+| Storied | 6.00% | ~31,551 |
+| The Construct | 6.00% | ~31,551 |
+| The Mire | 6.00% | ~31,551 |
+| The Ruins | 6.00% | ~31,551 |
 | The Alkymancery | 5.00% | ~26,292 |
 | The Lake | 5.00% | ~26,292 |
 | The Pitchwoods | 5.00% | ~26,292 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,517 |
 | Fading Fast | 1.00% | ~5,258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,838 (Ranked 28)  
+Progressed: 525,842 (Ranked 28)  
 Completed: 1,461 (0.28%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1,461 (0.28%) (Ranked 147)
 | 2023-06-24 | 525,620 | 1,460 |
 | 2023-06-25 | 525,737 | 1,460 |
 | 2023-06-26 | 525,838 | 1,461 |
+| 2023-06-27 | 525,842 | 1,461 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,900 (Ranked 199)  

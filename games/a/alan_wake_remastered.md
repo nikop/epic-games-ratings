@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,579 |
-| Let There Be Light | 26.00% | ~14,638 |
-| Float Like a Butterfly | 25.00% | ~14,075 |
-| Nordic Walking | 20.00% | ~11,260 |
-| Bright Falls' Finest | 20.00% | ~11,260 |
-| Under a Thin Layer of Skin | 17.00% | ~9,571 |
-| Park Ranger | 14.00% | ~7,882 |
-| Paging Mr. Wake | 14.00% | ~7,882 |
-| Back! Back, I Say! | 13.00% | ~7,319 |
-| Finders Keepers | 13.00% | ~7,319 |
-| Sound and Fury | 12.00% | ~6,756 |
-| Missed by a Mile | 12.00% | ~6,756 |
-| Damn Good Cup of Coffee | 12.00% | ~6,756 |
-| Wheels Within Wheels | 11.00% | ~6,193 |
-| They're Heeeeeere! | 11.00% | ~6,193 |
-| The Six-Gun Scribe | 11.00% | ~6,193 |
+| Follow the Light | 33.00% | ~18,581 |
+| Let There Be Light | 26.00% | ~14,639 |
+| Float Like a Butterfly | 25.00% | ~14,076 |
+| Nordic Walking | 20.00% | ~11,261 |
+| Bright Falls' Finest | 20.00% | ~11,261 |
+| Under a Thin Layer of Skin | 17.00% | ~9,572 |
+| Park Ranger | 14.00% | ~7,883 |
+| Paging Mr. Wake | 14.00% | ~7,883 |
+| Back! Back, I Say! | 13.00% | ~7,320 |
+| Finders Keepers | 13.00% | ~7,320 |
+| Sound and Fury | 12.00% | ~6,757 |
+| Missed by a Mile | 12.00% | ~6,757 |
+| Damn Good Cup of Coffee | 12.00% | ~6,757 |
+| Wheels Within Wheels | 11.00% | ~6,194 |
+| They're Heeeeeere! | 11.00% | ~6,194 |
+| The Six-Gun Scribe | 11.00% | ~6,194 |
 | Heavy Metal | 10.00% | ~5,630 |
 | Iron Horse | 10.00% | ~5,630 |
 | Collateral Carnage | 10.00% | ~5,630 |
@@ -41,7 +41,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,186 |
 | Drink 'Em Both Up | 5.00% | ~2,815 |
 | Hardboiled Writer | 5.00% | ~2,815 |
-| Ding! | 5.00% | ~988 |
+| Ding! | 5.00% | ~989 |
 | Children of the Elder God | 4.00% | ~2,252 |
 | KBF-FM | 4.00% | ~2,252 |
 | Boob Tube | 3.00% | ~1,689 |
@@ -66,15 +66,15 @@ Number of Ratings: 524  (23.09.2022)
 | Picking Up After Yourself | 0.30% | ~169 |
 | Run-On Sentence | 0.30% | ~59 |
 | Gunless Wonder | 0.20% | ~113 |
+| Every Nook and Cranny | 0.20% | ~113 |
 | Bright Falls Aficionado | 0.20% | ~113 |
 | Tick Tock | 0.20% | ~40 |
 | Licensed Properties | 0.20% | ~40 |
-| Every Nook and Cranny | 0.10% | ~56 |
 | Collector's Edition | 0.10% | ~56 |
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,301 (Ranked 79)  
+Progressed: 56,305 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 56 (0.10%) (Ranked 175)
 | 2023-06-24 | 56,152 | 56 |
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
+| 2023-06-27 | 56,305 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

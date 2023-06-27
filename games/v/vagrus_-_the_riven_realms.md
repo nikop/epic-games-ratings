@@ -23,6 +23,7 @@
 | Harbinger | 2.00% | ~2 |
 | Courier | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
+| Trouble at Fort Larius | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Quartermaster | 0.90% | ~1 |
 | Supercargo | 0.90% | ~1 |
@@ -35,7 +36,6 @@
 | Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Merchant | 0.90% | ~1 |
-| Trouble at Fort Larius | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |

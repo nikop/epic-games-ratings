@@ -329,7 +329,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109434,
+  "EOS_Progressed": 109435,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1384,6 +1384,11 @@
       "Time": "2023-06-26T19:07:46.244419+00:00",
       "NumProgressed": 109434,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-27T00:05:43.2655502+00:00",
+      "NumProgressed": 109435,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1523,7 +1528,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14226
+      "UsersEstimate": 14227
     },
     {
       "ID": "25",
@@ -1666,15 +1671,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109434,
+      "Progressed": 109435,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-06-26T23:05:34.4603466+00:00",
+  "LastChanged_Achievements": "2023-06-27T00:05:43.2655496+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:01.7107577+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:58:05.9444173+00:00",
-  "LastUpdate_Achievements": "2023-06-26T23:05:34.4603715+00:00"
+  "LastUpdate_Ratings": "2023-06-26T23:58:11.7324948+00:00",
+  "LastUpdate_Achievements": "2023-06-27T00:05:43.2655811+00:00"
 }

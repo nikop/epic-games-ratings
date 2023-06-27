@@ -4663,9 +4663,9 @@
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
       "SetID": "49kdhbg",
       "Name": "What did you say, Blain?",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17597
+      "UsersEstimate": 18026
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4903,8 +4903,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-25T16:01:15.2581756+00:00",
-  "LastChanged_Achievements": "2023-06-26T23:05:52.3562023+00:00",
+  "LastChanged_Achievements": "2023-06-27T00:06:01.1206546+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:59.0106729+00:00",
-  "LastUpdate_Ratings": "2023-06-26T22:59:22.4823735+00:00",
-  "LastUpdate_Achievements": "2023-06-26T23:05:52.3562612+00:00"
+  "LastUpdate_Ratings": "2023-06-26T23:59:26.5190222+00:00",
+  "LastUpdate_Achievements": "2023-06-27T00:06:01.1207321+00:00"
 }
