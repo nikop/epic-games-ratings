@@ -21,8 +21,8 @@ Number of Ratings: 98  (23.09.2022)
 | One by One | 11.00% | ~118 |
 | The Big Bertha | 10.00% | ~108 |
 | Game Over | 9.00% | ~97 |
-| Lock, Stock | 6.00% | ~64 |
-| Payback Time | 6.00% | ~64 |
+| Lock, Stock | 6.00% | ~65 |
+| Payback Time | 6.00% | ~65 |
 | No Witness | 4.00% | ~43 |
 | Strategist | 3.00% | ~32 |
 | Unbreakable Wall | 2.00% | ~22 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,075 (Ranked 181)  
+Progressed: 1,076 (Ranked 181)  
 Completed: 1 (0.09%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.09%) (Ranked 182)
 | 2023-06-24 | 1,063 | 1 |
 | 2023-06-25 | 1,070 | 1 |
 | 2023-06-26 | 1,073 | 1 |
-| 2023-06-27 | 1,075 | 1 |
+| 2023-06-27 | 1,076 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,21 +6,21 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~217 |
-| Where's that freaking Dwarf? | 88.00% | ~205 |
-| Sock! SOCK! | 70.00% | ~163 |
-| Fireproof Wizardess | 56.00% | ~130 |
-| Livin' in a dwarven paradise | 53.00% | ~123 |
-| Déjà vu | 52.00% | ~121 |
+| Alt+F4 | 93.00% | ~218 |
+| Where's that freaking Dwarf? | 87.00% | ~204 |
+| Sock! SOCK! | 70.00% | ~164 |
+| Fireproof Wizardess | 56.00% | ~131 |
+| Livin' in a dwarven paradise | 53.00% | ~124 |
+| Déjà vu | 52.00% | ~122 |
 | GG EZ | 51.00% | ~119 |
 | Way of the Wimp | 45.00% | ~105 |
 | DM intervention | 45.00% | ~105 |
-| Oh, when I'll be level 10... | 37.00% | ~86 |
+| Oh, when I'll be level 10... | 37.00% | ~87 |
 | Speedrun | 35.00% | ~82 |
-| A beer, two curses, three companions | 34.00% | ~79 |
+| A beer, two curses, three companions | 34.00% | ~80 |
 | The plot thickens... At the tavern | 33.00% | ~77 |
-| Team Building Exercise | 33.00% | ~77 |
-| I am the night | 31.00% | ~72 |
+| Team Building Exercise | 32.00% | ~75 |
+| I am the night | 31.00% | ~73 |
 | Dwarf Fortress | 30.00% | ~70 |
 | The Ranger of Chaos | 30.00% | ~70 |
 | Thieves' Guild Accreditation | 29.00% | ~68 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 251)  
+Progressed: 234 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 201 | 0 |
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
-| 2023-06-27 | 233 | 0 |
+| 2023-06-27 | 234 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

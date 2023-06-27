@@ -4,11 +4,11 @@
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 759,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 168,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -1499,10 +1499,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 2674,
       "NumberOfAwardsMax": 350
+    },
+    {
+      "Time": "2023-06-27T20:57:59.3027169+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2675,
+      "NumberOfAwardsMax": 350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2674,
+  "NumberOfAwards": 2675,
   "NumberOfAwardsMax": 350,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1540,7 +1546,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1578,8 +1584,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-06-24T20:57:38.1398579+00:00",
+  "LastChanged": "2023-06-27T20:57:59.3027167+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:11.8718899+00:00",
-  "LastUpdate_Ratings": "2023-06-27T19:57:55.5853678+00:00",
-  "LastUpdate_Achievements": "2023-06-27T20:04:41.5778134+00:00"
+  "LastUpdate_Ratings": "2023-06-27T20:57:59.3027171+00:00",
+  "LastUpdate_Achievements": "2023-06-27T21:04:50.9675823+00:00"
 }

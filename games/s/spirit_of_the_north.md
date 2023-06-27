@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 727)  
+Rating: 4.36 (Ranked 726)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~40,144 |
-| INFUSED WITH LIGHT | 52.00% | ~31,157 |
-| FOXIN' AROUND | 28.00% | ~16,777 |
-| FETCH | 27.00% | ~16,178 |
-| BLOOMS OF LIGHT | 26.00% | ~15,578 |
-| BEST FRIENDS | 22.00% | ~13,182 |
-| AWAKEN | 21.00% | ~12,583 |
-| ERADICATE | 20.00% | ~11,983 |
-| SPIRIT BARK | 20.00% | ~11,983 |
-| GARDEN OF LIGHT | 18.00% | ~10,785 |
-| SPIRIT FORM | 16.00% | ~9,587 |
-| UPROOTING DARKNESS | 15.00% | ~8,988 |
-| WRITTEN IN STONE | 15.00% | ~8,988 |
-| WEIGHTLESS | 12.00% | ~7,190 |
-| SPIRIT DASH | 10.00% | ~5,992 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~40,150 |
+| INFUSED WITH LIGHT | 52.00% | ~31,162 |
+| FOXIN' AROUND | 28.00% | ~16,779 |
+| FETCH | 27.00% | ~16,180 |
+| BLOOMS OF LIGHT | 26.00% | ~15,581 |
+| BEST FRIENDS | 22.00% | ~13,184 |
+| AWAKEN | 21.00% | ~12,584 |
+| ERADICATE | 20.00% | ~11,985 |
+| SPIRIT BARK | 20.00% | ~11,985 |
+| GARDEN OF LIGHT | 18.00% | ~10,787 |
+| SPIRIT FORM | 16.00% | ~9,588 |
+| UPROOTING DARKNESS | 15.00% | ~8,989 |
+| WRITTEN IN STONE | 15.00% | ~8,989 |
+| WEIGHTLESS | 12.00% | ~7,191 |
+| SPIRIT DASH | 10.00% | ~5,993 |
 | OLD COMPANION | 9.00% | ~5,393 |
-| PLAGUE DOCTOR | 8.00% | ~4,793 |
-| SPIRITED AWAY | 8.00% | ~4,793 |
-| MATCH MAKER | 7.00% | ~4,194 |
-| NORTHERN LIGHTS | 7.00% | ~4,194 |
+| PLAGUE DOCTOR | 8.00% | ~4,794 |
+| SPIRITED AWAY | 8.00% | ~4,794 |
+| MATCH MAKER | 7.00% | ~4,195 |
+| NORTHERN LIGHTS | 7.00% | ~4,195 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,397 |
 | ANCIENT HISTORY | 3.00% | ~1,798 |
-| NONE FORGOTTEN | 2.00% | ~1,198 |
+| NONE FORGOTTEN | 2.00% | ~1,199 |
 | KINDRED SPIRITS | 0.60% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,917 (Ranked 78)  
+Progressed: 59,926 (Ranked 78)  
 Completed: 303 (0.51%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 303 (0.51%) (Ranked 123)
 | 2023-06-24 | 59,516 | 300 |
 | 2023-06-25 | 59,680 | 301 |
 | 2023-06-26 | 59,799 | 303 |
-| 2023-06-27 | 59,917 | 303 |
+| 2023-06-27 | 59,926 | 303 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 472)  
 Sum: 113 (Ranked 402)  

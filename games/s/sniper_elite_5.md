@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 594)  
+Rating: 4.47 (Ranked 593)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,9 +29,9 @@ Rating: 4.47 (Ranked 594)
 | Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
+| No Stone Unturned | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |
 | Rigged to Blow | 0.90% | ~28 |
-| No Stone Unturned | 0.80% | ~25 |
 | Opposing Force | 0.80% | ~25 |
 | Fields of Glory | 0.80% | ~25 |
 | My Little Friend | 0.80% | ~25 |

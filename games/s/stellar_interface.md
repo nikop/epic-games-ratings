@@ -21,15 +21,18 @@
 | Pacifist | 10.00% | ~5 |
 | Collateral Damage I | 10.00% | ~5 |
 | Galactic Cadet | 8.00% | ~4 |
+| Sectoral Ensign | 6.00% | ~3 |
 | Rambo II | 6.00% | ~3 |
 | Defrosted | 6.00% | ~3 |
 | 25Gb HDD | 6.00% | ~3 |
 | Silver Prince of Ball-air | 6.00% | ~3 |
-| Sectoral Ensign | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | Golden Prince of Ball-air | 4.00% | ~2 |
 | Space Surfer | 4.00% | ~2 |
+| Usurper I | 4.00% | ~2 |
+| Unstoppable | 4.00% | ~2 |
 | Flower Power | 4.00% | ~2 |
+| Collateral Damage II | 4.00% | ~2 |
 | Merchant Prince II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |
@@ -49,16 +52,13 @@
 | Bird of Prey | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
-| Usurper I | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
-| Unstoppable | 2.00% | ~1 |
 | 50Gb HDD | 2.00% | ~1 |
 | Galactic Lieutenant | 2.00% | ~1 |
 | Silver Foundation | 2.00% | ~1 |
 | Sectoral Captain | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
-| Collateral Damage II | 2.00% | ~1 |
 | Fighting Fit II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |

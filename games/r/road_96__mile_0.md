@@ -14,7 +14,7 @@
 | 86's Nightmare | 10.00% | ~32 |
 | Freedom | 9.00% | ~29 |
 | Partners in Crime | 9.00% | ~29 |
-| The Eye of the Storm | 8.00% | ~26 |
+| The Eye of the Storm | 9.00% | ~29 |
 | Friendzone | 8.00% | ~26 |
 | Attack on Tyran | 7.00% | ~22 |
 | Try Harder | 2.00% | ~6 |

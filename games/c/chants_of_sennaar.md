@@ -27,8 +27,8 @@
 | Free at last | 30.00% | ~3 |
 | A great audience | 30.00% | ~3 |
 | A Link to the Past | 30.00% | ~3 |
+| Alchemists Express | 30.00% | ~3 |
 | For its own good | 20.00% | ~2 |
-| Alchemists Express | 20.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 387)  
 Completed: 2 (20.00%) (Ranked 9)  

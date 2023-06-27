@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -350,9 +350,9 @@
       "ID": "BronzeMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Ensign",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BronzeMissionsCompletedAllAchievement",
@@ -886,9 +886,9 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed10EnemiesAchievement",
@@ -918,9 +918,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -1214,9 +1214,9 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VisitLostLord1TimeAchievement",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-27T20:06:52.0375942+00:00",
+  "LastChanged_Achievements": "2023-06-27T21:06:57.6280727+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.8899731+00:00",
-  "LastUpdate_Ratings": "2023-06-27T19:59:04.37777+00:00",
-  "LastUpdate_Achievements": "2023-06-27T20:06:52.0379412+00:00"
+  "LastUpdate_Ratings": "2023-06-27T20:59:08.3178185+00:00",
+  "LastUpdate_Achievements": "2023-06-27T21:06:57.628245+00:00"
 }

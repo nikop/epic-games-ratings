@@ -10,6 +10,7 @@
 | The Mysterious Stranger | 13.00% | ~95 |
 | Rail Rat | 13.00% | ~95 |
 | Cartographer | 13.00% | ~95 |
+| The Wicked Twins | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~87 |
 | The Man Who Shattered Time | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
@@ -17,7 +18,6 @@
 | Time Flies | 12.00% | ~87 |
 | The Harder They Fall | 12.00% | ~87 |
 | Breaking Down Barriers | 12.00% | ~87 |
-| The Wicked Twins | 12.00% | ~87 |
 | The Prince in Heels | 12.00% | ~87 |
 | Fast Learner | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |

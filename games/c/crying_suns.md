@@ -9,6 +9,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Shutdown | 0.50% | ~2,309 |
 | Second Coming | 0.30% | ~1,385 |
 | Jeef Skeejj | 0.30% | ~1,385 |
+| Jeef Skagg | 0.30% | ~1,385 |
 | Careful planning | 0.30% | ~1,385 |
 | Knightmare Frames | 0.20% | ~923 |
 | May His passing cleanse the world | 0.20% | ~923 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter I: Echoes | 0.20% | ~923 |
 | Mother | 0.20% | ~923 |
 | Things persisted in not being what they seemed | 0.20% | ~923 |
-| Jeef Skagg | 0.20% | ~923 |
 | Plan for the worst | 0.20% | ~923 |
 | Excelsior Rule | 0.20% | ~923 |
 | Hand of the Emperor | 0.20% | ~11 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~6 |
 | Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,738 (Ranked 35)  
+Progressed: 461,743 (Ranked 35)  
 Completed: 15 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 15 (0.00%) (Ranked 230)
 | 2023-06-24 | 461,481 | 14 |
 | 2023-06-25 | 461,576 | 14 |
 | 2023-06-26 | 461,671 | 15 |
-| 2023-06-27 | 461,738 | 15 |
+| 2023-06-27 | 461,743 | 15 |
 ## Awards
 Max (Character Customization): 213  (Ranked 260)  
 Sum: 213 (Ranked 354)  
