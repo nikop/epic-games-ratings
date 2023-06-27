@@ -59,8 +59,8 @@ Number of Ratings: 118  (23.09.2022)
 | Inception | 6.00% | ~14 |
 | Super-Ultra-Lydian | 5.00% | ~11 |
 | Holistic Adventuring Party | 4.00% | ~9 |
+| Friendly fire | 4.00% | ~9 |
 | Hit snooze | 4.00% | ~9 |
-| Friendly fire | 3.00% | ~7 |
 | I'd rather... Just... Sing! | 3.00% | ~7 |
 | Kudos from your DM | 3.00% | ~7 |
 | Insult to injury | 3.00% | ~7 |

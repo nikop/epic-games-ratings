@@ -5,6 +5,7 @@ Rating: 4.47 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It's Starting to Crack | 3.00% | ~94 |
 | Change the Channel | 3.00% | ~94 |
 | Liberté | 2.00% | ~63 |
 | Meeting Resistance | 2.00% | ~63 |
@@ -15,7 +16,6 @@ Rating: 4.47 (Ranked 594)
 | Resourceful | 2.00% | ~63 |
 | As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
-| It's Starting to Crack | 2.00% | ~63 |
 | Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
@@ -40,9 +40,9 @@ Rating: 4.47 (Ranked 594)
 | Shipbreaker | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
-| Herr Today, Gone Tomorrow | 0.50% | ~15 |
-| Operation Foxley | 0.50% | ~15 |
-| Siegebreaker | 0.50% | ~15 |
+| Herr Today, Gone Tomorrow | 0.50% | ~16 |
+| Operation Foxley | 0.50% | ~16 |
+| Siegebreaker | 0.50% | ~16 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Tinkerer | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Stroll in the Woods | 0.20% | ~6 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,147 (Ranked 144)  
+Progressed: 3,149 (Ranked 144)  
 Completed: 3 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 3 (0.10%) (Ranked 175)
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
+| 2023-06-27 | 3,149 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

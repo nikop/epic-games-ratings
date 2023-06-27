@@ -17,9 +17,9 @@
 | Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |
 | The Bigger They Are | 2.00% | ~12 |
+| Starship Docks | 2.00% | ~12 |
 | Supply Run | 2.00% | ~12 |
 | Up Close And Personal | 2.00% | ~12 |
-| Starship Docks | 1.00% | ~6 |
 | Rookie | 1.00% | ~6 |
 | Outer Core | 0.80% | ~5 |
 | Integration | 0.60% | ~4 |

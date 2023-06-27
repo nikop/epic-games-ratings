@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2358,10 +2358,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1528,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2023-06-27T08:57:30.7764545+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1529,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1528,
+  "NumberOfAwards": 1529,
   "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2381,7 +2387,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 185
+      "Count": 186
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2432,9 +2438,9 @@
       "Count": 142
     }
   ],
-  "EOS_Progressed": 610972,
+  "EOS_Progressed": 610981,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3359,
+  "EOS_NewPlayers": 3355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9602,6 +9608,11 @@
       "Time": "2023-06-27T08:03:18.4308976+00:00",
       "NumProgressed": 610972,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-27T09:03:32.2733106+00:00",
+      "NumProgressed": 610981,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -9613,7 +9624,7 @@
       "Name": "Stroller",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 79426
+      "UsersEstimate": 79428
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -9621,7 +9632,7 @@
       "Name": "Hiker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 61097
+      "UsersEstimate": 61098
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -9653,7 +9664,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 91646
+      "UsersEstimate": 91647
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -9661,7 +9672,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67207
+      "UsersEstimate": 67208
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -9701,7 +9712,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -9733,7 +9744,7 @@
       "Name": "Toy Train",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 67207
+      "UsersEstimate": 67208
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -9781,7 +9792,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -9813,7 +9824,7 @@
       "Name": "Destructionist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -9861,7 +9872,7 @@
       "Name": "Incurious",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 85536
+      "UsersEstimate": 85537
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -9933,7 +9944,7 @@
       "Name": "Climate Change",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 79426
+      "UsersEstimate": 79428
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -10028,15 +10039,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 610972,
+      "Progressed": 610981,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2023-06-27T07:57:32.1481883+00:00",
-  "LastChanged_Achievements": "2023-06-27T08:03:18.4308969+00:00",
+  "LastChanged": "2023-06-27T08:57:30.7764544+00:00",
+  "LastChanged_Achievements": "2023-06-27T09:03:32.2733101+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.8782343+00:00",
-  "LastUpdate_Ratings": "2023-06-27T07:57:32.148189+00:00",
-  "LastUpdate_Achievements": "2023-06-27T08:03:18.4309849+00:00"
+  "LastUpdate_Ratings": "2023-06-27T08:57:30.7764548+00:00",
+  "LastUpdate_Achievements": "2023-06-27T09:03:32.273379+00:00"
 }

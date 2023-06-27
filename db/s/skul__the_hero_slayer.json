@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -3255,9 +3255,9 @@
       "ID": "GoHome",
       "SetID": "97dk767",
       "Name": "Go Home...",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2124
     },
     {
       "ID": "HeroSlayer",
@@ -3375,8 +3375,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-27T08:03:07.405022+00:00",
+  "LastChanged_Achievements": "2023-06-27T09:03:17.9657917+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.8787805+00:00",
-  "LastUpdate_Ratings": "2023-06-27T07:58:47.4001632+00:00",
-  "LastUpdate_Achievements": "2023-06-27T08:03:07.4050545+00:00"
+  "LastUpdate_Ratings": "2023-06-27T08:59:18.0308406+00:00",
+  "LastUpdate_Achievements": "2023-06-27T09:03:17.9658148+00:00"
 }

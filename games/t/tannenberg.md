@@ -6,43 +6,43 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~104,573 |
-| Comeback | 81.00% | ~95,173 |
-| Information is Key | 80.00% | ~93,998 |
-| Unlucky | 71.00% | ~83,424 |
-| Anarchist | 68.00% | ~79,899 |
-| Wallhack | 65.00% | ~76,374 |
-| Steady Supply | 60.00% | ~70,499 |
-| Lucky Shot | 53.00% | ~62,274 |
-| Forward Observer | 52.00% | ~61,099 |
-| Ring Ring! | 52.00% | ~61,099 |
-| Bossing Around | 45.00% | ~52,874 |
-| Frostbite | 45.00% | ~52,874 |
-| Night Owl | 44.00% | ~51,699 |
-| Strength in Numbers | 44.00% | ~51,699 |
-| Fog of War | 41.00% | ~48,174 |
-| Stronghold Denied | 39.00% | ~45,824 |
-| Anyone Else? | 38.00% | ~44,649 |
-| Rasputin | 38.00% | ~44,649 |
-| Hydra | 36.00% | ~42,299 |
-| This Belongs to Us Now | 36.00% | ~42,299 |
-| Stronghold | 35.00% | ~41,124 |
-| Leeroy | 33.00% | ~38,774 |
-| Lost Batallion | 33.00% | ~38,774 |
-| This is MY Machine Gun! | 31.00% | ~36,424 |
-| Together As One | 31.00% | ~36,424 |
-| Gavrilo Princip | 27.00% | ~31,724 |
-| Lead Harvest | 25.00% | ~29,374 |
-| Skynet Confirmed | 23.00% | ~27,025 |
-| Kesselschlacht | 22.00% | ~25,850 |
-| Democracy Works! | 20.00% | ~23,500 |
-| Switch, Please! | 19.00% | ~22,325 |
-| I've Seen It All | 18.00% | ~21,150 |
-| Tourist | 18.00% | ~21,150 |
-| At Least This Way I Can Win... | 17.00% | ~19,975 |
-| Oops! | 17.00% | ~19,975 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~18,800 |
-| Butcher | 12.00% | ~14,100 |
+| Immovable Object | 89.00% | ~104,579 |
+| Comeback | 81.00% | ~95,179 |
+| Information is Key | 80.00% | ~94,004 |
+| Unlucky | 71.00% | ~83,429 |
+| Anarchist | 68.00% | ~79,903 |
+| Wallhack | 65.00% | ~76,378 |
+| Steady Supply | 60.00% | ~70,503 |
+| Lucky Shot | 53.00% | ~62,278 |
+| Forward Observer | 52.00% | ~61,103 |
+| Ring Ring! | 52.00% | ~61,103 |
+| Bossing Around | 45.00% | ~52,877 |
+| Frostbite | 45.00% | ~52,877 |
+| Night Owl | 44.00% | ~51,702 |
+| Strength in Numbers | 44.00% | ~51,702 |
+| Fog of War | 41.00% | ~48,177 |
+| Stronghold Denied | 39.00% | ~45,827 |
+| Anyone Else? | 38.00% | ~44,652 |
+| Rasputin | 38.00% | ~44,652 |
+| Hydra | 36.00% | ~42,302 |
+| This Belongs to Us Now | 36.00% | ~42,302 |
+| Stronghold | 35.00% | ~41,127 |
+| Leeroy | 33.00% | ~38,777 |
+| Lost Batallion | 33.00% | ~38,777 |
+| This is MY Machine Gun! | 31.00% | ~36,427 |
+| Together As One | 31.00% | ~36,427 |
+| Gavrilo Princip | 27.00% | ~31,726 |
+| Lead Harvest | 25.00% | ~29,376 |
+| Skynet Confirmed | 23.00% | ~27,026 |
+| Kesselschlacht | 22.00% | ~25,851 |
+| Democracy Works! | 20.00% | ~23,501 |
+| Switch, Please! | 19.00% | ~22,326 |
+| I've Seen It All | 18.00% | ~21,151 |
+| Tourist | 18.00% | ~21,151 |
+| At Least This Way I Can Win... | 17.00% | ~19,976 |
+| Oops! | 17.00% | ~19,976 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~18,801 |
+| Butcher | 12.00% | ~14,101 |
 | Before the Leaves Fall | 10.00% | ~11,750 |
 | Close Call | 10.00% | ~11,750 |
 | Pinpoint | 10.00% | ~11,750 |
@@ -70,11 +70,11 @@ Number of Ratings: 13,393  (23.09.2022)
 | From Russia with Hate | 1.00% | ~1,175 |
 | Talk Much? | 1.00% | ~1,175 |
 | To Arms! To Arms! | 1.00% | ~1,175 |
-| Express to Petrograd | 0.90% | ~1,057 |
-| Seeing is Believing | 0.90% | ~1,057 |
+| Express to Petrograd | 0.90% | ~1,058 |
+| Seeing is Believing | 0.90% | ~1,058 |
 | Road to Berlin | 0.60% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,498 (Ranked 61)  
+Progressed: 117,505 (Ranked 61)  
 Completed: 27 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 27 (0.02%) (Ranked 210)
 | 2023-06-24 | 117,039 | 27 |
 | 2023-06-25 | 117,253 | 27 |
 | 2023-06-26 | 117,452 | 27 |
-| 2023-06-27 | 117,498 | 27 |
+| 2023-06-27 | 117,505 | 27 |
 ## Awards
 Max (Competitive Players): 326  (Ranked 225)  
 Sum: 2,850 (Ranked 161)  

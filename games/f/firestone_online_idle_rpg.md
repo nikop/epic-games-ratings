@@ -39,7 +39,7 @@ Rating: 4.07 (Ranked 895)
 | Moving Up The Ladder | 8.00% | ~121 |
 | Relic Of The Past | 8.00% | ~121 |
 | Scroll Master | 8.00% | ~121 |
-| Here We Go Again | 6.00% | ~91 |
+| Here We Go Again | 7.00% | ~106 |
 | Master Enchanter | 6.00% | ~91 |
 | The Expeditioner | 6.00% | ~91 |
 | The father of Dragons | 6.00% | ~91 |

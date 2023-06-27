@@ -17,8 +17,8 @@ Number of Ratings: 546  (23.09.2022)
 | Inventory Management | 34.00% | ~2,675 |
 | The Fall of the Leonia Order | 30.00% | ~2,360 |
 | The Hero Killer | 28.00% | ~2,203 |
+| Go Home... | 27.00% | ~2,124 |
 | The Final Battle of the First Hero | 26.00% | ~2,045 |
-| Go Home... | 26.00% | ~2,045 |
 | Brain at Full Throttle | 23.00% | ~1,809 |
 | Rookies Welcome | 20.00% | ~1,573 |
 | Deadly Power | 16.00% | ~1,259 |

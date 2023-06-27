@@ -50,11 +50,11 @@ Rating: 3.51 (Ranked 945)
 | Neighborhood Watch | 1.00% | ~17 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
+| What Lies Below | 1.00% | ~17 |
 | Bloody Initiate | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
-| What Lies Below | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
 | So Anyway I Started Blasting | 0.90% | ~15 |
 | Good Samaritan | 0.60% | ~10 |
