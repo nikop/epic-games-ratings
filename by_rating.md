@@ -93,7 +93,7 @@
 | 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 501 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 501 |
 | 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 665 | 166 |
-| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,234 | 129 |
+| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,239 | 129 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,897 | 56 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 43 | 412 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 375 | 212 |
@@ -134,7 +134,7 @@
 | 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 474 |
 | 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,325 | 62 |
 | 132 | [Diabotical](games/d/diabotical.md) | 4.75 | 270 | 241 |
-| 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 878 | 148 |
+| 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 880 | 148 |
 | 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 500 | 191 |
 | 132 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 110 | 318 |
 | 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 502 | 189 |
@@ -362,7 +362,7 @@
 | 344 | [Wall World](games/w/wall_world.md) | 4.62 | 0 | 501 |
 | 361 | [20XX](games/2/20xx.md) | 4.61 | 36 | 431 |
 | 361 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 302 |
-| 361 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,280 | 72 |
+| 361 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,286 | 72 |
 | 361 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 501 |
 | 361 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 211 |
 | 361 | [Darkwood](games/d/darkwood.md) | 4.61 | 320 | 226 |
@@ -420,7 +420,7 @@
 | 410 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 261 |
 | 410 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
 | 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 501 |
-| 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,298 | 10 |
+| 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,347 | 10 |
 | 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
 | 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 501 |
 | 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,042 | 40 |
@@ -594,7 +594,7 @@
 | 583 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 501 |
 | 593 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 501 |
 | 593 | [Figment](games/f/figment.md) | 4.47 | 20 | 497 |
-| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,479 | 80 |
+| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,482 | 80 |
 | 593 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 501 |
 | 593 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 501 |
 | 593 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 501 |
@@ -945,5 +945,5 @@
 | 941 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 501 |
 | 944 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 501 |
 | 945 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 501 |
-| 946 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.40 | 0 | 501 |
+| 946 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 501 |
 | 947 | [Adios](games/a/adios.md) | 3.36 | 0 | 501 |
