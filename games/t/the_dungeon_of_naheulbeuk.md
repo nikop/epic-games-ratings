@@ -6,33 +6,33 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~215 |
-| Where's that freaking Dwarf? | 87.00% | ~201 |
+| Alt+F4 | 93.00% | ~216 |
+| Where's that freaking Dwarf? | 88.00% | ~204 |
 | Sock! SOCK! | 70.00% | ~162 |
-| Fireproof Wizardess | 56.00% | ~129 |
-| Livin' in a dwarven paradise | 53.00% | ~122 |
-| Déjà vu | 52.00% | ~120 |
+| Fireproof Wizardess | 56.00% | ~130 |
+| Livin' in a dwarven paradise | 53.00% | ~123 |
+| Déjà vu | 52.00% | ~121 |
 | GG EZ | 51.00% | ~118 |
-| DM intervention | 46.00% | ~106 |
+| DM intervention | 46.00% | ~107 |
 | Way of the Wimp | 45.00% | ~104 |
-| Oh, when I'll be level 10... | 37.00% | ~85 |
-| Speedrun | 35.00% | ~81 |
+| Oh, when I'll be level 10... | 37.00% | ~86 |
 | A beer, two curses, three companions | 34.00% | ~79 |
-| The plot thickens... At the tavern | 32.00% | ~74 |
-| I am the night | 32.00% | ~74 |
+| Speedrun | 34.00% | ~79 |
+| The plot thickens... At the tavern | 33.00% | ~77 |
 | Team Building Exercise | 32.00% | ~74 |
 | Dwarf Fortress | 31.00% | ~72 |
-| The Ranger of Chaos | 30.00% | ~69 |
+| I am the night | 31.00% | ~72 |
+| The Ranger of Chaos | 30.00% | ~70 |
 | Thieves' Guild Accreditation | 29.00% | ~67 |
 | Look but don't touch | 26.00% | ~60 |
-| The demons' feast | 24.00% | ~55 |
-| The Great Library | 24.00% | ~55 |
-| Gargantua | 23.00% | ~53 |
+| The demons' feast | 24.00% | ~56 |
+| The Great Library | 24.00% | ~56 |
 | Shiny and Crôm | 22.00% | ~51 |
 | Torture and Sensibility | 22.00% | ~51 |
 | The Statuette of Gladeulfeurah | 22.00% | ~51 |
 | A tale of adventurers not quite like the others... | 22.00% | ~51 |
 | The beards of change | 22.00% | ~51 |
+| Gargantua | 22.00% | ~51 |
 | Material Girl | 22.00% | ~51 |
 | In Navalu's footsteps | 19.00% | ~44 |
 | The Woman in the High Castle | 18.00% | ~42 |
@@ -45,12 +45,12 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 12.00% | ~28 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~28 |
 | Dead for good | 12.00% | ~28 |
-| Necrophilia | 10.00% | ~23 |
 | It's been a hard day's night | 10.00% | ~23 |
+| Necrophilia | 9.00% | ~21 |
 | He’s alive! Aliiiive! | 9.00% | ~21 |
-| Scholar of the Lands of Fangh | 8.00% | ~18 |
-| Egghead | 8.00% | ~18 |
-| Lust and Debauchery | 8.00% | ~18 |
+| Scholar of the Lands of Fangh | 8.00% | ~19 |
+| Egghead | 8.00% | ~19 |
+| Lust and Debauchery | 8.00% | ~19 |
 | Elite Adventurers | 7.00% | ~16 |
 | Free customer service | 7.00% | ~16 |
 | Lëgal Legend | 7.00% | ~16 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 252)  
+Progressed: 232 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 201 | 0 |
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
-| 2023-06-27 | 231 | 0 |
+| 2023-06-27 | 232 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

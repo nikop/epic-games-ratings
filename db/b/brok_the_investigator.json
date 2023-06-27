@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -308,9 +308,9 @@
       "ID": "WAKEUPHUSH",
       "SetID": "bb2dp",
       "Name": "Hard To Wake Up",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WORSTDETECTIVE",
@@ -333,8 +333,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:07:45.6456874+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:05:57.6371896+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:54.5899321+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:00:01.1589959+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:07:45.6457101+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:58:43.1812592+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:05:57.6372049+00:00"
 }

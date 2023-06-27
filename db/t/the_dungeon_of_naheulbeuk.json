@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -378,7 +378,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1208,6 +1208,11 @@
       "Time": "2023-06-27T11:06:09.123608+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T18:05:36.2235+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1219,7 +1224,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "100Fail",
@@ -1259,7 +1264,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Chapter1",
@@ -1267,7 +1272,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Chapter2",
@@ -1281,9 +1286,9 @@
       "ID": "Chapter3",
       "SetID": "50chcgj",
       "Name": "The plot thickens... At the tavern",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "Chapter4",
@@ -1291,7 +1296,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Chapter5",
@@ -1299,7 +1304,7 @@
       "Name": "The Great Library",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Chapter6",
@@ -1377,9 +1382,9 @@
       "ID": "DLC1ChooseNecro",
       "SetID": "50p8kh1",
       "Name": "Necrophilia",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "DLC1ChooseVampire",
@@ -1467,7 +1472,7 @@
       "Name": "Egghead",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DLC3Chapter11",
@@ -1617,9 +1622,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "DwarfElf15Support",
@@ -1691,7 +1696,7 @@
       "Name": "DM intervention",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EndGameCursed",
@@ -1715,7 +1720,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "FollowBraztok",
@@ -1769,9 +1774,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "Orktobearfest",
@@ -1835,7 +1840,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "RangerEpic",
@@ -1843,15 +1848,15 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Rogue30Backstab",
       "SetID": "50chcgj",
       "Name": "I am the night",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "RogueEpic",
@@ -1865,9 +1870,9 @@
       "ID": "Speedrun",
       "SetID": "50chcgj",
       "Name": "Speedrun",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "SupportCount4",
@@ -1899,7 +1904,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "WizardEpic",
@@ -1915,28 +1920,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:07:15.6991887+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:05:36.2234996+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:00:05.3091604+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:07:15.6992979+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:58:45.6682633+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:05:36.2235837+00:00"
 }

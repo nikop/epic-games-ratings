@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 438)
 | A Thousand Strong | 11.00% | ~302 |
 | Ready for a New World | 11.00% | ~302 |
 | Permanent Redesigns | 10.00% | ~274 |
-| Ain't Nobody Got Time for That | 9.00% | ~247 |
 | Guy de Borderlands | 8.00% | ~219 |
 | Fully Recycled | 8.00% | ~219 |
+| Ain't Nobody Got Time for That | 8.00% | ~219 |
 | The Ship of Theseus | 8.00% | ~219 |
 | Hope Seeker | 8.00% | ~219 |
 | A Hunk of Junk | 7.00% | ~192 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,741 (Ranked 151)  
+Progressed: 2,742 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 2,726 | 0 |
 | 2023-06-25 | 2,734 | 0 |
 | 2023-06-26 | 2,738 | 0 |
-| 2023-06-27 | 2,741 | 0 |
+| 2023-06-27 | 2,742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

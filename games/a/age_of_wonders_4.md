@@ -5,8 +5,11 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Wonderful Discovery | 0.20% | ~10 |
 | Secret Technique | 0.20% | ~10 |
+| My Final Form | 0.20% | ~10 |
 | Tipping the Scales | 0.20% | ~10 |
+| Mighty Hoard | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -14,7 +17,6 @@ Rating: 4.59 (Ranked 410)
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
-| A Wonderful Discovery | 0.10% | ~5 |
 | Walls Cannot Stop Us | 0.10% | ~5 |
 | Bone Peddler | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
@@ -23,7 +25,6 @@ Rating: 4.59 (Ranked 410)
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
-| My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
@@ -38,7 +39,6 @@ Rating: 4.59 (Ranked 410)
 | Here be Dragons | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
 | Blood of the Dragon | 0.10% | ~5 |
-| Mighty Hoard | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1300,6 +1300,11 @@
       "Time": "2023-06-27T17:07:47.346949+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-27T18:05:58.9132786+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1335,7 +1340,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Boy",
@@ -1367,7 +1372,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Defense_Epic",
@@ -1391,7 +1396,7 @@
       "Name": "E1M1",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Everyone_is_here",
@@ -1439,7 +1444,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "High_noon",
@@ -1463,7 +1468,7 @@
       "Name": "Spice It Up",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "KillAllM2",
@@ -1527,7 +1532,7 @@
       "Name": "War Never Changes",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "We_were_not_here",
@@ -1550,15 +1555,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:07:47.3469485+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:05:58.9132777+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:10.5622483+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:00:16.1824649+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:07:47.3469746+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:58:52.6345189+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:05:58.9132997+00:00"
 }

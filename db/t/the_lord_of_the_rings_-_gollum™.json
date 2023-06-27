@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -905,6 +905,11 @@
       "Time": "2023-06-26T04:07:26.7274462+00:00",
       "NumProgressed": 454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-27T18:05:51.6858704+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -940,7 +945,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Chapter10",
@@ -954,9 +959,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "Chapter3",
@@ -996,7 +1001,7 @@
       "Name": "Good as Fish",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Chapter8",
@@ -1004,7 +1009,7 @@
       "Name": "Her Eyes",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Chapter9",
@@ -1020,7 +1025,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Collectibles2",
@@ -1196,21 +1201,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:07:37.5383937+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:05:51.6858699+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:19.6234919+00:00",
-  "LastUpdate_Ratings": "2023-06-27T16:58:26.0267456+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:07:37.5384393+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:57:39.0155129+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:05:51.6858948+00:00"
 }

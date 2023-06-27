@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,565 |
-| Landlord | 31.00% | ~16,847 |
-| Lawmaker | 22.00% | ~11,956 |
-| Bannerlord | 21.00% | ~11,413 |
-| Horde breaker | 21.00% | ~11,413 |
-| Trained | 21.00% | ~11,413 |
-| The king is pleased | 17.00% | ~9,239 |
-| King Solomon | 16.00% | ~8,695 |
+| Lawbringer | 36.00% | ~19,566 |
+| Landlord | 31.00% | ~16,848 |
+| Lawmaker | 22.00% | ~11,957 |
+| Bannerlord | 21.00% | ~11,414 |
+| Horde breaker | 21.00% | ~11,414 |
+| Trained | 21.00% | ~11,414 |
+| The king is pleased | 17.00% | ~9,240 |
+| King Solomon | 16.00% | ~8,696 |
 | I can do it | 15.00% | ~8,152 |
-| Apple of my eye | 14.00% | ~7,608 |
+| Apple of my eye | 14.00% | ~7,609 |
 | God of the Arena | 12.00% | ~6,522 |
 | Against all odds | 10.00% | ~5,435 |
 | Swordbearer | 10.00% | ~5,435 |
-| Duelist | 9.00% | ~4,891 |
+| Duelist | 9.00% | ~4,892 |
 | Dynasty | 8.00% | ~4,348 |
 | I spit on your grave | 8.00% | ~4,348 |
 | This Is Our Land | 8.00% | ~4,348 |
 | What have the Romans ever done for us? | 8.00% | ~4,348 |
-| Butterlord | 7.00% | ~3,804 |
-| Mastery | 7.00% | ~3,804 |
+| Butterlord | 7.00% | ~3,805 |
+| Mastery | 7.00% | ~3,805 |
 | Know your enemy | 6.00% | ~3,261 |
 | Crowdfunded | 4.00% | ~2,174 |
 | Crush your enemies | 4.00% | ~2,174 |
@@ -35,7 +35,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Entrepreneur | 2.00% | ~1,087 |
 | Long live the Empire! | 2.00% | ~1,087 |
 | Real Estate | 2.00% | ~1,087 |
-| Supreme Emperor | 1.00% | ~543 |
+| Supreme Emperor | 1.00% | ~544 |
 | Crackshot | 0.80% | ~435 |
 | Undercover | 0.80% | ~435 |
 | Fat Cat | 0.60% | ~326 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,346 (Ranked 81)  
+Progressed: 54,350 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 54,093 | 0 |
 | 2023-06-25 | 54,188 | 0 |
 | 2023-06-26 | 54,278 | 0 |
-| 2023-06-27 | 54,346 | 0 |
+| 2023-06-27 | 54,350 | 0 |
 ## Awards
 Max (Character Customization): 6,725  (Ranked 48)  
 Sum: 13,544 (Ranked 68)  

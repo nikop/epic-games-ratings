@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_20",
@@ -243,9 +243,9 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 75,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_30",
@@ -388,8 +388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:06:52.9692649+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:05:20.5564439+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:04.4462515+00:00",
-  "LastUpdate_Ratings": "2023-06-27T17:00:10.6352473+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:06:52.9692991+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:58:48.9859513+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:05:20.5564683+00:00"
 }

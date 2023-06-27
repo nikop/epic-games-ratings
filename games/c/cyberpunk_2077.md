@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~585,888 |
-| Right Back At Ya | 38.00% | ~327,408 |
-| The Lovers | 34.00% | ~292,944 |
-| Stanislavski's Method | 28.00% | ~241,248 |
-| The Wheel of Fortune | 26.00% | ~224,016 |
-| The Hermit | 23.00% | ~198,168 |
-| Christmas Tree Attack | 22.00% | ~189,552 |
-| True Soldier | 22.00% | ~189,552 |
-| The High Priestess | 21.00% | ~180,936 |
-| Legend of The Afterlife | 21.00% | ~180,936 |
-| Life of the Road | 20.00% | ~172,320 |
-| Full Body Conversion | 17.00% | ~146,472 |
-| The World | 17.00% | ~146,472 |
-| Bushido and Chill | 16.00% | ~137,856 |
-| Gun Fu | 14.00% | ~120,624 |
-| True Warrior | 14.00% | ~120,624 |
-| To Protect and Serve | 13.00% | ~112,008 |
-| Master Crafter | 13.00% | ~112,008 |
-| I Am The Law | 13.00% | ~112,008 |
-| Judy vs Night City | 13.00% | ~112,008 |
-| Two Heads, One Bullet | 11.00% | ~94,776 |
-| The Wandering Fool | 9.00% | ~77,544 |
-| The Quick and the Dead | 9.00% | ~77,544 |
-| Ten out of Ten | 8.00% | ~68,928 |
-| Breathtaking | 7.00% | ~60,312 |
-| To Bad Decisions! | 6.00% | ~51,696 |
-| The Star | 6.00% | ~51,696 |
-| The Sun | 6.00% | ~51,696 |
-| Must Be Rats | 4.00% | ~34,464 |
-| Temperance | 4.00% | ~34,464 |
+| The Fool | 68.00% | ~585,898 |
+| Right Back At Ya | 38.00% | ~327,413 |
+| The Lovers | 34.00% | ~292,949 |
+| Stanislavski's Method | 28.00% | ~241,252 |
+| The Wheel of Fortune | 26.00% | ~224,020 |
+| The Hermit | 23.00% | ~198,171 |
+| Christmas Tree Attack | 22.00% | ~189,555 |
+| True Soldier | 22.00% | ~189,555 |
+| The High Priestess | 21.00% | ~180,939 |
+| Legend of The Afterlife | 21.00% | ~180,939 |
+| Life of the Road | 20.00% | ~172,323 |
+| Full Body Conversion | 17.00% | ~146,474 |
+| The World | 17.00% | ~146,474 |
+| Bushido and Chill | 16.00% | ~137,858 |
+| Gun Fu | 14.00% | ~120,626 |
+| True Warrior | 14.00% | ~120,626 |
+| To Protect and Serve | 13.00% | ~112,010 |
+| Master Crafter | 13.00% | ~112,010 |
+| I Am The Law | 13.00% | ~112,010 |
+| Judy vs Night City | 13.00% | ~112,010 |
+| Two Heads, One Bullet | 11.00% | ~94,778 |
+| The Wandering Fool | 9.00% | ~77,545 |
+| The Quick and the Dead | 9.00% | ~77,545 |
+| Ten out of Ten | 8.00% | ~68,929 |
+| Breathtaking | 7.00% | ~60,313 |
+| To Bad Decisions! | 6.00% | ~51,697 |
+| The Star | 6.00% | ~51,697 |
+| The Sun | 6.00% | ~51,697 |
+| Must Be Rats | 4.00% | ~34,465 |
+| Temperance | 4.00% | ~34,465 |
 | City Lights | 3.00% | ~25,848 |
 | Mean Streets | 3.00% | ~25,848 |
 | Little Tokyo | 3.00% | ~25,848 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,616 |
 | Rough Landing | 0.50% | ~4,308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 861,600 (Ranked 14)  
+Progressed: 861,614 (Ranked 14)  
 Completed: 1,807 (0.21%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,14 +119,14 @@ Completed: 1,807 (0.21%) (Ranked 158)
 | 2023-06-24 | 860,598 | 1,796 |
 | 2023-06-25 | 861,034 | 1,800 |
 | 2023-06-26 | 861,353 | 1,802 |
-| 2023-06-27 | 861,600 | 1,807 |
+| 2023-06-27 | 861,614 | 1,807 |
 ## Awards
-Max (Character Customization): 71,159  (Ranked 9)  
-Sum: 186,014 (Ranked 13)  
+Max (Character Customization): 71,283  (Ranked 9)  
+Sum: 186,157 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 71,159 |
+| This game has Inclusive Character Customization | 71,283 |
 | This game has Great Boss Battles | 45,635 |
 | This game has Diverse Characters | 8,179 |
 | This game has Amazing Storytelling | 8,160 |
@@ -135,7 +135,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 7,994 |
 | This game is Relaxing | 7,962 |
 | This game has Quickly Understood Controls | 7,845 |
-| This game has Amazing Characters | 7,799 |
+| This game has Amazing Characters | 7,818 |
 | This game has a Creative Community | 5,152 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -299,4 +299,4 @@ Diff (max vs sum): -4
 | 2023-06-24 | 4.62 | - | 70,850 | 185,042 |
 | 2023-06-25 | 4.62 | - | 71,006 | 185,507 |
 | 2023-06-26 | 4.62 | - | 71,159 | 185,906 |
-| 2023-06-27 | 4.62 | - | 71,159 | 186,014 |
+| 2023-06-27 | 4.62 | - | 71,283 | 186,157 |

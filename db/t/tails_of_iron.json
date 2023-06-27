@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1726,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1799,6 +1799,11 @@
       "Time": "2023-06-26T15:02:24.0800293+00:00",
       "NumProgressed": 1726,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-27T18:03:11.7281111+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1826,7 +1831,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "Collect50MonsterParts",
@@ -1882,7 +1887,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "CompleteGuardFaction",
@@ -1946,7 +1951,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "GetRangedWeapon",
@@ -2008,9 +2013,9 @@
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 794
     },
     {
       "ID": "RepairSmith",
@@ -2034,7 +2039,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ReturnPowerInMines",
@@ -2049,22 +2054,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1726,
+      "Progressed": 1727,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 367,
-      "Completed": 367
+      "Progressed": 368,
+      "Completed": 368
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-06-27T17:03:41.7966125+00:00",
+  "LastChanged_Achievements": "2023-06-27T18:03:11.7281107+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.1249497+00:00",
-  "LastUpdate_Ratings": "2023-06-27T16:59:15.631252+00:00",
-  "LastUpdate_Achievements": "2023-06-27T17:03:41.7966497+00:00"
+  "LastUpdate_Ratings": "2023-06-27T17:58:12.2668174+00:00",
+  "LastUpdate_Achievements": "2023-06-27T18:03:11.7281359+00:00"
 }

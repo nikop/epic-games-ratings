@@ -10,7 +10,7 @@
 | Whatever it is, fix it! | 36.00% | ~14 |
 | The opposite of good news | 31.00% | ~12 |
 | Priceless company | 26.00% | ~10 |
-| My Emperor... I've failed you! | 21.00% | ~8 |
+| My Emperor... I've failed you! | 23.00% | ~9 |
 | Enemy shield analyzed | 8.00% | ~3 |
 | Piece of cake | 5.00% | ~2 |
 | No need to say goodbye | 5.00% | ~2 |

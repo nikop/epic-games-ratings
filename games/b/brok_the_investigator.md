@@ -17,12 +17,12 @@
 | Highway Survival | 20.00% | ~3 |
 | Ads Fan | 13.00% | ~2 |
 | Best Student | 13.00% | ~2 |
+| Hard To Wake Up | 13.00% | ~2 |
 | Chipmunk | 7.00% | ~1 |
 | Food Thief | 7.00% | ~1 |
 | Paw Music | 7.00% | ~1 |
 | Sugar Pills Lover | 7.00% | ~1 |
 | Tramp Saver | 7.00% | ~1 |
-| Hard To Wake Up | 7.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |
