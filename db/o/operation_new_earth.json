@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -966,9 +966,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1101,8 +1101,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-27T03:27:37.1457958+00:00",
+  "LastChanged_Achievements": "2023-06-27T04:04:27.8952449+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-27T03:23:56.4677809+00:00",
-  "LastUpdate_Achievements": "2023-06-27T03:27:37.1458245+00:00"
+  "LastUpdate_Ratings": "2023-06-27T04:00:46.4330129+00:00",
+  "LastUpdate_Achievements": "2023-06-27T04:04:27.8952919+00:00"
 }

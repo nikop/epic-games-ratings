@@ -1883,9 +1883,9 @@
       "ID": "elemental_stones_1",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 1",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 306
     },
     {
       "ID": "elemental_stones_2",
@@ -2250,8 +2250,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-27T03:26:12.208125+00:00",
+  "LastChanged_Achievements": "2023-06-27T04:01:22.5604863+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-06-27T03:20:28.9989157+00:00",
-  "LastUpdate_Achievements": "2023-06-27T03:26:12.2081946+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:57:17.9309952+00:00",
+  "LastUpdate_Achievements": "2023-06-27T04:01:22.5605926+00:00"
 }

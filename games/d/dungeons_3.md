@@ -6,36 +6,36 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~15,242 |
-| The Evilest Evil | 59.00% | ~12,847 |
+| The Shadow strikes | 70.00% | ~15,243 |
+| The Evilest Evil | 59.00% | ~12,848 |
 | Twistram is devastated | 58.00% | ~12,630 |
 | The Gehenna Stones | 50.00% | ~10,888 |
-| No one has to die today! | 47.00% | ~10,234 |
-| Death and destruction! | 46.00% | ~10,016 |
+| No one has to die today! | 47.00% | ~10,235 |
+| Death and destruction! | 46.00% | ~10,017 |
 | The Swamplanders from the swamplands | 44.00% | ~9,581 |
 | Rusty Steel | 42.00% | ~9,146 |
 | The One-Huge-Army-Building Evil | 41.00% | ~8,928 |
-| The last burger | 38.00% | ~8,274 |
-| Braiiiiins! | 38.00% | ~8,274 |
+| The last burger | 38.00% | ~8,275 |
+| Braiiiiins! | 38.00% | ~8,275 |
 | Hands off the Dungeonheart! | 37.00% | ~8,057 |
-| A trip on sea, what fun it can be | 35.00% | ~7,621 |
+| A trip on sea, what fun it can be | 35.00% | ~7,622 |
 | Damned good | 34.00% | ~7,404 |
 | Stock Market Crash | 32.00% | ~6,968 |
 | Factory farming | 32.00% | ~6,968 |
-| Not-So-Overproud | 31.00% | ~6,750 |
-| For a handfull of Catapults | 29.00% | ~6,315 |
+| Not-So-Overproud | 31.00% | ~6,751 |
+| For a handfull of Catapults | 30.00% | ~6,533 |
 | Shadow hunter | 29.00% | ~6,315 |
 | Thirst quencher | 28.00% | ~6,097 |
 | Ogre Solo! | 28.00% | ~6,097 |
-| Destroy the thing | 27.00% | ~5,879 |
-| Tide Master | 27.00% | ~5,879 |
+| Destroy the thing | 27.00% | ~5,880 |
+| Tide Master | 27.00% | ~5,880 |
 | Difficult family relationships | 26.00% | ~5,662 |
 | MASS-O-BOT | 25.00% | ~5,444 |
 | Prepare the grave | 25.00% | ~5,444 |
 | Angel of Fire | 25.00% | ~5,444 |
 | Where there is Light, there is Shadow | 24.00% | ~5,226 |
 | At the foot of Mount Destiny | 23.00% | ~5,008 |
-| The Force disturbed | 22.00% | ~4,790 |
+| The Force disturbed | 22.00% | ~4,791 |
 | The Victorious Evil | 21.00% | ~4,573 |
 | Chorus of damnation | 20.00% | ~4,355 |
 | We don’t have time! | 20.00% | ~4,355 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Spawner Killer | 7.00% | ~1,524 |
 | A little something extra | 7.00% | ~1,524 |
 | Hearts are trump | 7.00% | ~1,524 |
-| The Benevolent Evil | 6.00% | ~1,306 |
+| The Benevolent Evil | 6.00% | ~1,307 |
 | Band of Brothers | 5.00% | ~1,089 |
 | Night of the Living Dead (on Speed) | 4.00% | ~871 |
 | I need a hero! | 4.00% | ~871 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~436 |
 | Sacrifices! | 2.00% | ~436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,775 (Ranked 98)  
+Progressed: 21,776 (Ranked 98)  
 Completed: 181 (0.83%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 181 (0.83%) (Ranked 104)
 | 2023-06-24 | 21,423 | 179 |
 | 2023-06-25 | 21,604 | 179 |
 | 2023-06-26 | 21,760 | 181 |
-| 2023-06-27 | 21,775 | 181 |
+| 2023-06-27 | 21,776 | 181 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 224)  
 Sum: 2,309 (Ranked 178)  

@@ -23,7 +23,7 @@ Rating: 4.89 (Ranked 13)
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,341 |
 | The Negotiator | 38.00% | ~1,274 |
 | You must like calling me in, Chai | 34.00% | ~1,140 |
-| Out in a puff of smoke | 33.00% | ~1,106 |
+| Out in a puff of smoke | 34.00% | ~1,140 |
 | Headliner | 32.00% | ~1,073 |
 | Time to pay up! | 30.00% | ~1,006 |
 | Who's the boss now? | 29.00% | ~972 |

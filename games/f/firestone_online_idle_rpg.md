@@ -5,17 +5,17 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,418 |
-| World Map | 79.00% | ~1,192 |
-| Temple of Eternals | 57.00% | ~860 |
+| Victor | 94.00% | ~1,419 |
+| World Map | 79.00% | ~1,193 |
+| Temple of Eternals | 57.00% | ~861 |
 | Prestigious | 54.00% | ~815 |
 | Fellowship Power | 41.00% | ~619 |
 | Guild Power | 24.00% | ~362 |
 | Prestigious x10 | 21.00% | ~317 |
 | The game is on | 19.00% | ~287 |
 | Exotic Merchant | 17.00% | ~257 |
-| Dragon Clicker | 16.00% | ~241 |
-| Miner Clicker | 16.00% | ~241 |
+| Dragon Clicker | 16.00% | ~242 |
+| Miner Clicker | 16.00% | ~242 |
 | Full Party | 15.00% | ~226 |
 | Inspection | 15.00% | ~226 |
 | Hero inspection | 14.00% | ~211 |
@@ -40,16 +40,16 @@ Rating: 4.07 (Ranked 895)
 | Relic Of The Past | 8.00% | ~121 |
 | Scroll Master | 8.00% | ~121 |
 | Here We Go Again | 6.00% | ~91 |
-| How Do You Turn This On? | 6.00% | ~91 |
 | Master Enchanter | 6.00% | ~91 |
 | The Expeditioner | 6.00% | ~91 |
 | The father of Dragons | 6.00% | ~91 |
 | Trader | 6.00% | ~91 |
-| Ancient Knowledge | 5.00% | ~75 |
-| Crystal Mining | 5.00% | ~75 |
-| Enchanting skill | 5.00% | ~75 |
-| Missions Dedication | 5.00% | ~75 |
-| Weekly Quest Completionist | 5.00% | ~75 |
+| Ancient Knowledge | 5.00% | ~76 |
+| Crystal Mining | 5.00% | ~76 |
+| Enchanting skill | 5.00% | ~76 |
+| How Do You Turn This On? | 5.00% | ~76 |
+| Missions Dedication | 5.00% | ~76 |
+| Weekly Quest Completionist | 5.00% | ~76 |
 | Background Story | 4.00% | ~60 |
 | Blueprint Upgrades | 4.00% | ~60 |
 | Dragon Slayer | 4.00% | ~60 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,509 (Ranked 167)  
+Progressed: 1,510 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.07%) (Ranked 189)
 | 2023-06-24 | 1,486 | 1 |
 | 2023-06-25 | 1,500 | 1 |
 | 2023-06-26 | 1,507 | 1 |
-| 2023-06-27 | 1,509 | 1 |
+| 2023-06-27 | 1,510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

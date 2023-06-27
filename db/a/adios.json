@@ -66,10 +66,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63573,
+  "EOS_Progressed": 63575,
   "EOS_Completed": 582,
-  "EOS_NewPlayers": 1197,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 1193,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
@@ -7276,6 +7276,11 @@
       "Time": "2023-06-27T03:30:00.0158463+00:00",
       "NumProgressed": 63573,
       "NumCompleted": 582
+    },
+    {
+      "Time": "2023-06-27T04:06:48.0422218+00:00",
+      "NumProgressed": 63575,
+      "NumCompleted": 582
     }
   ],
   "TotalAchievements": 25,
@@ -7303,7 +7308,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11443
+      "UsersEstimate": 11444
     },
     {
       "ID": "Audiophile",
@@ -7311,7 +7316,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "Be Seeing You",
@@ -7327,7 +7332,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10807
+      "UsersEstimate": 10808
     },
     {
       "ID": "Butcher",
@@ -7431,7 +7436,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6357
+      "UsersEstimate": 6358
     },
     {
       "ID": "Right On Target",
@@ -7439,7 +7444,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8264
+      "UsersEstimate": 8265
     },
     {
       "ID": "Sniper",
@@ -7471,7 +7476,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "Vinyl Vibes",
@@ -7486,7 +7491,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 63573,
+      "Progressed": 63575,
       "Completed": 582
     }
   ],
@@ -7494,8 +7499,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-16T22:00:52.1201079+00:00",
-  "LastChanged_Achievements": "2023-06-27T03:30:00.0158458+00:00",
+  "LastChanged_Achievements": "2023-06-27T04:06:48.0422213+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-27T03:24:01.2711206+00:00",
-  "LastUpdate_Achievements": "2023-06-27T03:30:00.015939+00:00"
+  "LastUpdate_Ratings": "2023-06-27T04:00:51.346989+00:00",
+  "LastUpdate_Achievements": "2023-06-27T04:06:48.0423055+00:00"
 }
