@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.17% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.77% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.81% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.41% |
 | 7 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 22.22% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |

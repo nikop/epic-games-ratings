@@ -9,6 +9,7 @@
 | [The Backrooms 1998 - Found Footage Survival Horror Game](games/b/b9a7d92240b44ea38a75c31f8860d40d.md) | 2023-06-29 | - |  | - | - |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | - |  | - | - |
+| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 2 | - | - |
 | [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | - |  | - | - |
 | [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | 2023-06-30 | - |  | - | - |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
@@ -29,7 +30,7 @@
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | - |  | - | - |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | 55 (1,000 XP) | 1 | - | - |
 | [SCARY AND DOT](games/b/b9cad2ee3e58423ca7c46a5f8ffee059.md) | 2023-06-30 | - |  | - | - |
-| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 4 | - | - |
+| [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 6 | - | - |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | - |
 | [Arcatron-Z](games/b/b7a1153cbf0f49e497f70e3e9d2e28ba.md) | 2023-07-01 | - |  | - | - |
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
@@ -309,7 +310,6 @@
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | - |  | - | - |
 | [Pillazon - MMO Drug Lord Tycoon](games/e/e3ea6ce18c3143ec8b4dbd15bb16a73c.md) | 2099-01-01 | - |  | - | - |
-| [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2099-01-01 | 16 (1,000 XP) | 2 | - | - |
 | [Pixeljunk Scrappers Deluxe](games/p/pixeljunk_scrappers_deluxe.md) | 2099-01-01 | - |  | - | - |
 | [Power of Ten](games/p/power_of_ten.md) | 2099-01-01 | - |  | - | - |
 | [Primal Survivors](games/5/50d797d4a45a495b94e4abc016ace565.md) | 2099-01-01 | - |  | - | - |

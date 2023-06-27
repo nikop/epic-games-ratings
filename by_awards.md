@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,414 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 190,438 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,790 | 4.19 | 844 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 153,788 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 154,091 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,766 | 4.52 | 518 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,981 | 4.69 | 221 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,159 | 4.62 | 344 |
@@ -23,7 +23,7 @@
 | 21 | [Warframe](games/w/warframe.md) | 15,674 | 4.61 | 361 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,611 | 4.76 | 119 |
 | 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,406 | 4.58 | 420 |
-| 24 | [League of Legends](games/l/league_of_legends.md) | 14,310 | 4.21 | 827 |
+| 24 | [League of Legends](games/l/league_of_legends.md) | 14,342 | 4.21 | 827 |
 | 25 | [Maneater](games/m/maneater.md) | 13,536 | 4.49 | 567 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,430 | 4.60 | 387 |
 | 27 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 13,033 | 4.24 | 808 |

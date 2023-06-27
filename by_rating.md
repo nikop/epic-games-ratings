@@ -20,7 +20,7 @@
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,417 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,107 | 74 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 153,788 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 154,091 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,260 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 480 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 501 |
@@ -827,7 +827,7 @@
 | 824 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 264 |
 | 824 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 501 |
 | 827 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 501 |
-| 827 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,310 | 24 |
+| 827 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,342 | 24 |
 | 827 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 501 |
 | 827 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 501 |
 | 827 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 501 |
