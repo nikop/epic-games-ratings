@@ -44,7 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 26.00% | ~60,191 |
 | Destroy Your Fears | 26.00% | ~60,191 |
 | Shapeshifting | 26.00% | ~60,191 |
-| Save Our Souls | 24.00% | ~55,561 |
+| Save Our Souls | 25.00% | ~57,876 |
 | To The Death! | 20.00% | ~46,301 |
 | Just Chilling | 20.00% | ~46,301 |
 | Well Prepared | 19.00% | ~43,986 |
@@ -130,7 +130,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Near Death Experience | 0.30% | ~695 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 231,503 (Ranked 46)  
-Completed: 240 (0.10%) (Ranked 175)  
+Completed: 241 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 240 (0.10%) (Ranked 175)
 | 2023-06-24 | 231,372 | 240 |
 | 2023-06-25 | 231,434 | 240 |
 | 2023-06-26 | 231,493 | 240 |
-| 2023-06-27 | 231,503 | 240 |
+| 2023-06-27 | 231,503 | 241 |
 ## Awards
 Max (Quickly Understood Controls): 1,482  (Ranked 119)  
 Sum: 11,466 (Ranked 75)  

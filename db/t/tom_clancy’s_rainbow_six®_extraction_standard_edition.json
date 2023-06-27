@@ -4,11 +4,11 @@
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 536,
   "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-01-20T05:00:00+00:00",
     "PcReleaseDate": "2022-01-20T05:00:00+00:00",
@@ -1588,10 +1588,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 957,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2023-06-27T04:58:56.8880318+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 959,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 957,
+  "NumberOfAwards": 959,
   "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1635,7 +1641,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 118
+      "Count": 120
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1667,8 +1673,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-06-25T09:58:49.0942889+00:00",
+  "LastChanged": "2023-06-27T04:58:56.8880316+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:47.1111371+00:00",
-  "LastUpdate_Ratings": "2023-06-27T03:59:15.3106026+00:00",
-  "LastUpdate_Achievements": "2023-06-27T04:03:10.634613+00:00"
+  "LastUpdate_Ratings": "2023-06-27T04:58:56.8880323+00:00",
+  "LastUpdate_Achievements": "2023-06-27T05:03:14.4621164+00:00"
 }

@@ -11,12 +11,12 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 57.00% | ~173 |
 | Pangs of conscience | 51.00% | ~155 |
 | Living it large! | 46.00% | ~140 |
-| Collector | 43.00% | ~131 |
+| Collector | 44.00% | ~134 |
 | Need to think | 42.00% | ~128 |
 | Completely nuts! | 36.00% | ~109 |
 | Just in time! | 35.00% | ~106 |
+| Europe | 33.00% | ~100 |
 | It's no coincidence. | 33.00% | ~100 |
-| Europe | 32.00% | ~97 |
 | Philatelist | 28.00% | ~85 |
 | Let's roll! | 28.00% | ~85 |
 | Non Stop! | 27.00% | ~82 |

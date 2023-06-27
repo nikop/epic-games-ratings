@@ -6,45 +6,45 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~611,664 |
-| Green Energy | 60.00% | ~516,899 |
-| Foggy Weather | 59.00% | ~508,284 |
-| Singing In The- | 59.00% | ~508,284 |
-| Unpopular Mayor | 41.00% | ~353,215 |
-| Power at Your Fingertips | 33.00% | ~284,295 |
-| City Planner | 23.00% | ~198,145 |
-| Rolling in Dough | 20.00% | ~172,300 |
-| Does My Bum Look Big In This? | 17.00% | ~146,455 |
-| Climbing the Social Ladder | 16.00% | ~137,840 |
-| Safe City | 14.00% | ~120,610 |
-| Quay-King | 11.00% | ~94,765 |
-| Lawmaker | 10.00% | ~86,150 |
-| With Canals You Can! | 10.00% | ~86,150 |
-| Nomen Est Omen | 7.00% | ~60,305 |
-| Well Informed | 6.00% | ~51,690 |
-| Fire Watch | 5.00% | ~43,075 |
-| Greenest City | 4.00% | ~34,460 |
-| Heavenly City | 3.00% | ~25,845 |
-| Reporting! | 3.00% | ~25,845 |
-| SIMulated City | 3.00% | ~25,845 |
-| The Safest Town | 3.00% | ~25,845 |
-| Professional Dumper | 2.00% | ~17,230 |
-| City in Motion | 1.00% | ~8,615 |
-| Earthloving City | 1.00% | ~8,615 |
-| Metropolis | 1.00% | ~8,615 |
-| Beam Me Up | 0.70% | ~6,030 |
-| Higher Education | 0.70% | ~6,030 |
+| Pioneer | 71.00% | ~611,712 |
+| Green Energy | 60.00% | ~516,940 |
+| Foggy Weather | 59.00% | ~508,324 |
+| Singing In The- | 59.00% | ~508,324 |
+| Unpopular Mayor | 41.00% | ~353,242 |
+| Power at Your Fingertips | 33.00% | ~284,317 |
+| City Planner | 23.00% | ~198,160 |
+| Rolling in Dough | 20.00% | ~172,313 |
+| Does My Bum Look Big In This? | 17.00% | ~146,466 |
+| Climbing the Social Ladder | 16.00% | ~137,851 |
+| Safe City | 14.00% | ~120,619 |
+| Quay-King | 11.00% | ~94,772 |
+| Lawmaker | 10.00% | ~86,157 |
+| With Canals You Can! | 10.00% | ~86,157 |
+| Nomen Est Omen | 7.00% | ~60,310 |
+| Well Informed | 6.00% | ~51,694 |
+| Fire Watch | 5.00% | ~43,078 |
+| Greenest City | 4.00% | ~34,463 |
+| Heavenly City | 3.00% | ~25,847 |
+| Reporting! | 3.00% | ~25,847 |
+| SIMulated City | 3.00% | ~25,847 |
+| The Safest Town | 3.00% | ~25,847 |
+| Professional Dumper | 2.00% | ~17,231 |
+| City in Motion | 1.00% | ~8,616 |
+| Earthloving City | 1.00% | ~8,616 |
+| Metropolis | 1.00% | ~8,616 |
+| Beam Me Up | 0.70% | ~6,031 |
+| Higher Education | 0.70% | ~6,031 |
 | Decorator | 0.60% | ~5,169 |
 | Full Capacity | 0.60% | ~5,169 |
 | Terraformer | 0.60% | ~5,169 |
 | The Waters of Our Lives | 0.60% | ~5,169 |
-| Drop the Base | 0.50% | ~4,307 |
-| It's heading right for us! | 0.50% | ~4,307 |
-| Postman | 0.50% | ~4,307 |
-| Shake It Up! | 0.50% | ~4,307 |
-| Speed up! | 0.50% | ~4,307 |
-| Thunder and Lightning | 0.50% | ~4,307 |
-| Twist and shout | 0.50% | ~4,307 |
+| Drop the Base | 0.50% | ~4,308 |
+| It's heading right for us! | 0.50% | ~4,308 |
+| Postman | 0.50% | ~4,308 |
+| Shake It Up! | 0.50% | ~4,308 |
+| Speed up! | 0.50% | ~4,308 |
+| Thunder and Lightning | 0.50% | ~4,308 |
+| Twist and shout | 0.50% | ~4,308 |
 | Airfield Expertise | 0.40% | ~3,446 |
 | Airlifter | 0.40% | ~3,446 |
 | Are They Naked In There? | 0.40% | ~3,446 |
@@ -52,13 +52,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Happy Town | 0.40% | ~3,446 |
 | I Want It All | 0.40% | ~3,446 |
 | Just Tolling | 0.40% | ~3,446 |
-| A Huge Hadron | 0.30% | ~2,584 |
-| Airport Architect | 0.30% | ~2,584 |
-| Friendly Teaching | 0.30% | ~2,584 |
-| Here's A Tram | 0.30% | ~2,584 |
-| Run, Bambi! | 0.30% | ~2,584 |
-| Short Fuse | 0.30% | ~2,584 |
-| We need snorkels! | 0.30% | ~2,584 |
+| A Huge Hadron | 0.30% | ~2,585 |
+| Airport Architect | 0.30% | ~2,585 |
+| Friendly Teaching | 0.30% | ~2,585 |
+| Here's A Tram | 0.30% | ~2,585 |
+| Run, Bambi! | 0.30% | ~2,585 |
+| Short Fuse | 0.30% | ~2,585 |
+| We need snorkels! | 0.30% | ~2,585 |
 | City in Motion 2 | 0.20% | ~1,723 |
 | Eternal City | 0.20% | ~1,723 |
 | It's Wintertime! | 0.20% | ~1,723 |
@@ -67,66 +67,66 @@ Number of Ratings: 25,248  (23.09.2022)
 | New Eden | 0.20% | ~1,723 |
 | Power to the People | 0.20% | ~1,723 |
 | The Park To Rule All Parks | 0.20% | ~1,723 |
-| 1001 Nights | 0.10% | ~861 |
-| Academic Scholar | 0.10% | ~861 |
-| Airline Tycoon | 0.10% | ~861 |
-| Ambulare | 0.10% | ~861 |
-| Aquaculture | 0.10% | ~861 |
-| Blimp? Blimp. | 0.10% | ~861 |
-| Brrr! | 0.10% | ~861 |
-| Cables Galore | 0.10% | ~861 |
-| Centurion | 0.10% | ~861 |
-| Clark Cable | 0.10% | ~861 |
-| Coaster Tycoon | 0.10% | ~861 |
-| Combo Breaker! | 0.10% | ~861 |
-| Come Fly With Me! | 0.10% | ~861 |
-| Creator | 0.10% | ~861 |
-| Distinguished Academics | 0.10% | ~861 |
-| Distroy | 0.10% | ~861 |
-| Ferry Faerie | 0.10% | ~861 |
-| Fisher King | 0.10% | ~861 |
-| For For-Profit Education! | 0.10% | ~861 |
-| Frenetic Player | 0.10% | ~861 |
-| Garbage Collection Issues | 0.10% | ~861 |
-| Education Nation | 0.10% | ~861 |
-| High-cost-carrier | 0.10% | ~861 |
-| Higher Learning | 0.10% | ~861 |
-| I Love Trams! | 0.10% | ~861 |
-| I to the T | 0.10% | ~861 |
-| Industry Tycoon | 0.10% | ~861 |
-| It's Called Steve | 0.10% | ~861 |
-| Leisure Suites | 0.10% | ~861 |
-| Maintain That Park | 0.10% | ~861 |
-| Multidisciplinary Transport Tycoon | 0.10% | ~861 |
-| Naturally | 0.10% | ~861 |
-| Not So Mono | 0.10% | ~861 |
-| Offshore Assets | 0.10% | ~861 |
-| Organistic | 0.10% | ~861 |
-| Parking Not Forbidden | 0.10% | ~861 |
-| Playing With The Boys | 0.10% | ~861 |
-| Prison Break | 0.10% | ~861 |
-| Put Some Blimp In Your Blimp | 0.10% | ~861 |
-| Rejoice And Be Ferry | 0.10% | ~861 |
-| Scaling Up | 0.10% | ~861 |
-| Serial Investor | 0.10% | ~861 |
-| Sights To Be Seen | 0.10% | ~861 |
-| Student Housing Project | 0.10% | ~861 |
-| Super Self-Sufficient | 0.10% | ~861 |
-| The Plowmaster | 0.10% | ~861 |
-| The Sweetest City | 0.10% | ~861 |
-| The Underdog | 0.10% | ~861 |
-| Mass Transit scenarios | 0.10% | ~861 |
-| Tough City | 0.10% | ~861 |
-| Triorail | 0.10% | ~861 |
-| Trolleyface | 0.10% | ~861 |
-| Varsity Sports Patron | 0.10% | ~861 |
-| Very Focused | 0.10% | ~861 |
-| We Have A Winner! | 0.10% | ~861 |
-| What the...? | 0.10% | ~861 |
-| World of Rotorcraft | 0.10% | ~861 |
-| Z00 | 0.10% | ~861 |
+| 1001 Nights | 0.10% | ~862 |
+| Academic Scholar | 0.10% | ~862 |
+| Airline Tycoon | 0.10% | ~862 |
+| Ambulare | 0.10% | ~862 |
+| Aquaculture | 0.10% | ~862 |
+| Blimp? Blimp. | 0.10% | ~862 |
+| Brrr! | 0.10% | ~862 |
+| Cables Galore | 0.10% | ~862 |
+| Centurion | 0.10% | ~862 |
+| Clark Cable | 0.10% | ~862 |
+| Coaster Tycoon | 0.10% | ~862 |
+| Combo Breaker! | 0.10% | ~862 |
+| Come Fly With Me! | 0.10% | ~862 |
+| Creator | 0.10% | ~862 |
+| Distinguished Academics | 0.10% | ~862 |
+| Distroy | 0.10% | ~862 |
+| Ferry Faerie | 0.10% | ~862 |
+| Fisher King | 0.10% | ~862 |
+| For For-Profit Education! | 0.10% | ~862 |
+| Frenetic Player | 0.10% | ~862 |
+| Garbage Collection Issues | 0.10% | ~862 |
+| Education Nation | 0.10% | ~862 |
+| High-cost-carrier | 0.10% | ~862 |
+| Higher Learning | 0.10% | ~862 |
+| I Love Trams! | 0.10% | ~862 |
+| I to the T | 0.10% | ~862 |
+| Industry Tycoon | 0.10% | ~862 |
+| It's Called Steve | 0.10% | ~862 |
+| Leisure Suites | 0.10% | ~862 |
+| Maintain That Park | 0.10% | ~862 |
+| Multidisciplinary Transport Tycoon | 0.10% | ~862 |
+| Naturally | 0.10% | ~862 |
+| Not So Mono | 0.10% | ~862 |
+| Offshore Assets | 0.10% | ~862 |
+| Organistic | 0.10% | ~862 |
+| Parking Not Forbidden | 0.10% | ~862 |
+| Playing With The Boys | 0.10% | ~862 |
+| Prison Break | 0.10% | ~862 |
+| Put Some Blimp In Your Blimp | 0.10% | ~862 |
+| Rejoice And Be Ferry | 0.10% | ~862 |
+| Scaling Up | 0.10% | ~862 |
+| Serial Investor | 0.10% | ~862 |
+| Sights To Be Seen | 0.10% | ~862 |
+| Student Housing Project | 0.10% | ~862 |
+| Super Self-Sufficient | 0.10% | ~862 |
+| The Plowmaster | 0.10% | ~862 |
+| The Sweetest City | 0.10% | ~862 |
+| The Underdog | 0.10% | ~862 |
+| Mass Transit scenarios | 0.10% | ~862 |
+| Tough City | 0.10% | ~862 |
+| Triorail | 0.10% | ~862 |
+| Trolleyface | 0.10% | ~862 |
+| Varsity Sports Patron | 0.10% | ~862 |
+| Very Focused | 0.10% | ~862 |
+| We Have A Winner! | 0.10% | ~862 |
+| What the...? | 0.10% | ~862 |
+| World of Rotorcraft | 0.10% | ~862 |
+| Z00 | 0.10% | ~862 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 861,499 (Ranked 13)  
+Progressed: 861,566 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 9 (0.00%) (Ranked 230)
 | 2023-06-24 | 855,016 | 9 |
 | 2023-06-25 | 858,396 | 9 |
 | 2023-06-26 | 861,107 | 9 |
-| 2023-06-27 | 861,499 | 9 |
+| 2023-06-27 | 861,566 | 9 |
 ## Awards
 Max (Relaxing): 4,801  (Ranked 66)  
 Sum: 36,543 (Ranked 34)  

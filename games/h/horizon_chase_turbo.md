@@ -1,36 +1,36 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.56 (Ranked 457)  
+Rating: 4.56 (Ranked 456)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~881,396 |
-| I Need a Bigger Garage | 63.00% | ~623,910 |
-| Pump my Ride | 46.00% | ~455,553 |
-| Ghostbuster | 32.00% | ~316,907 |
-| That Was Close | 18.00% | ~178,260 |
-| Call Roadside Assistance | 17.00% | ~168,357 |
-| Quickie | 10.00% | ~99,033 |
-| California Dreamer | 7.00% | ~69,323 |
-| Can't Touch This | 5.00% | ~49,517 |
-| Carménère Taster | 3.00% | ~29,710 |
-| Comeback | 3.00% | ~29,710 |
-| Marathonist | 3.00% | ~29,710 |
-| Living Legend | 3.00% | ~29,710 |
+| The First of Many | 89.00% | ~881,416 |
+| I Need a Bigger Garage | 63.00% | ~623,924 |
+| Pump my Ride | 46.00% | ~455,563 |
+| Ghostbuster | 32.00% | ~316,914 |
+| That Was Close | 18.00% | ~178,264 |
+| Call Roadside Assistance | 17.00% | ~168,360 |
+| Quickie | 10.00% | ~99,036 |
+| California Dreamer | 7.00% | ~69,325 |
+| Can't Touch This | 5.00% | ~49,518 |
+| Carménère Taster | 3.00% | ~29,711 |
+| Comeback | 3.00% | ~29,711 |
+| Marathonist | 3.00% | ~29,711 |
+| Living Legend | 3.00% | ~29,711 |
 | Driver from Ipanema | 2.00% | ~19,807 |
 | Pathfinder | 2.00% | ~19,807 |
 | Go-Kart Champion | 2.00% | ~19,807 |
 | Completionist | 2.00% | ~19,807 |
 | Supersonic | 2.00% | ~19,807 |
 | Harder, Better, Faster, Stronger | 2.00% | ~19,807 |
-| God of Roads | 1.00% | ~9,903 |
-| The Iceman | 1.00% | ~9,903 |
-| Oil Tycoon | 1.00% | ~9,903 |
-| Round the Globe | 1.00% | ~9,903 |
-| Golden Passport | 1.00% | ~9,903 |
-| Brave and Bold | 1.00% | ~9,903 |
+| God of Roads | 1.00% | ~9,904 |
+| The Iceman | 1.00% | ~9,904 |
+| Oil Tycoon | 1.00% | ~9,904 |
+| Round the Globe | 1.00% | ~9,904 |
+| Golden Passport | 1.00% | ~9,904 |
+| Brave and Bold | 1.00% | ~9,904 |
 | Bollywood Star | 0.90% | ~8,913 |
 | Crocodile Hunter | 0.80% | ~7,923 |
 | Old Master | 0.80% | ~7,923 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~990 |
 | Look Mom, No Hands! | 0.10% | ~990 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990,333 (Ranked 12)  
+Progressed: 990,355 (Ranked 12)  
 Completed: 327 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 327 (0.03%) (Ranked 202)
 | 2023-06-24 | 988,121 | 323 |
 | 2023-06-25 | 989,292 | 323 |
 | 2023-06-26 | 990,179 | 326 |
-| 2023-06-27 | 990,333 | 327 |
+| 2023-06-27 | 990,355 | 327 |
 ## Awards
 Max (Great for Beginners): 146  (Ranked 293)  
 Sum: 1,181 (Ranked 228)  

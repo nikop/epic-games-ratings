@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~513,629 |
-| Every story has a beginning | 36.00% | ~228,280 |
-| The first of many | 32.00% | ~202,915 |
-| Positive word of mouth | 18.00% | ~114,140 |
-| Lawn in the U.S.A. | 15.00% | ~95,116 |
-| Blade Runner | 9.00% | ~57,070 |
+| The dream begins | 81.00% | ~513,636 |
+| Every story has a beginning | 36.00% | ~228,283 |
+| The first of many | 32.00% | ~202,918 |
+| Positive word of mouth | 18.00% | ~114,141 |
+| Lawn in the U.S.A. | 15.00% | ~95,118 |
+| Blade Runner | 9.00% | ~57,071 |
 | Credible | 7.00% | ~44,388 |
 | Teamwork makes the dream work | 6.00% | ~38,047 |
-| Where there's muck there's brass | 4.00% | ~25,364 |
-| Bigger and better | 4.00% | ~25,364 |
-| Aggressive expansion | 4.00% | ~25,364 |
-| Size isn't everything | 3.00% | ~19,023 |
-| Close shave | 3.00% | ~19,023 |
-| Established | 3.00% | ~19,023 |
+| Where there's muck there's brass | 4.00% | ~25,365 |
+| Bigger and better | 4.00% | ~25,365 |
+| Aggressive expansion | 4.00% | ~25,365 |
+| Size isn't everything | 3.00% | ~19,024 |
+| Close shave | 3.00% | ~19,024 |
+| Established | 3.00% | ~19,024 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,682 |
 | Every good deed… | 2.00% | ~12,682 |
 | Leaner and meaner | 2.00% | ~12,682 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~634 |
 | Mo mowers, mo problems | 0.10% | ~634 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634,110 (Ranked 22)  
+Progressed: 634,119 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 14 (0.00%) (Ranked 230)
 | 2023-06-24 | 632,994 | 14 |
 | 2023-06-25 | 633,549 | 14 |
 | 2023-06-26 | 634,021 | 14 |
-| 2023-06-27 | 634,110 | 14 |
+| 2023-06-27 | 634,119 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 278)  
 Sum: 966 (Ranked 235)  

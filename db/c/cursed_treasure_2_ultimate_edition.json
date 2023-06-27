@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_6",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Wasteland",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
@@ -314,9 +314,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Starry: Tanglewood",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_4",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-27T04:04:57.2341924+00:00",
+  "LastChanged_Achievements": "2023-06-27T05:04:40.7713457+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-27T03:58:58.2825279+00:00",
-  "LastUpdate_Achievements": "2023-06-27T04:04:57.2342328+00:00"
+  "LastUpdate_Ratings": "2023-06-27T04:58:43.7289155+00:00",
+  "LastUpdate_Achievements": "2023-06-27T05:04:40.7714058+00:00"
 }

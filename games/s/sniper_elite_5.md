@@ -12,6 +12,7 @@ Rating: 4.47 (Ranked 594)
 | Confirming Suspicions | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
 | Lord of War | 2.00% | ~63 |
+| Resourceful | 2.00% | ~63 |
 | As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
 | It's Starting to Crack | 2.00% | ~63 |
@@ -24,7 +25,6 @@ Rating: 4.47 (Ranked 594)
 | Gunslinger | 1.00% | ~31 |
 | Skirmisher | 1.00% | ~31 |
 | Set Europe Ablaze | 1.00% | ~31 |
-| Resourceful | 1.00% | ~31 |
 | Der Geist | 1.00% | ~31 |
 | Close Quarters | 1.00% | ~31 |
 | Snake in the Grass | 1.00% | ~31 |
@@ -42,10 +42,10 @@ Rating: 4.47 (Ranked 594)
 | Don't hold your breath | 0.50% | ~16 |
 | Herr Today, Gone Tomorrow | 0.50% | ~15 |
 | Operation Foxley | 0.50% | ~15 |
+| Siegebreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
-| Siegebreaker | 0.40% | ~12 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
