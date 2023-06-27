@@ -66,12 +66,12 @@
 | 58 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 83 | 350 |
 | 58 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 501 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 501 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,584 | 58 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,584 | 59 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 501 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 501 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 440 |
 | 66 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 501 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,420 | 96 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,425 | 96 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,211 | 52 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
@@ -356,7 +356,7 @@
 | 344 | [NORCO](games/n/norco.md) | 4.62 | 0 | 501 |
 | 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 501 |
 | 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 324 |
-| 344 | [Prey](games/p/prey.md) | 4.62 | 5,584 | 58 |
+| 344 | [Prey](games/p/prey.md) | 4.62 | 5,587 | 58 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 501 |
 | 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 377 |
 | 344 | [Wall World](games/w/wall_world.md) | 4.62 | 0 | 501 |
@@ -800,7 +800,7 @@
 | 797 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 462 |
 | 797 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 501 |
 | 797 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 501 |
-| 801 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,030 | 139 |
+| 801 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,032 | 139 |
 | 801 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 501 |
 | 801 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 501 |
 | 801 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 501 |

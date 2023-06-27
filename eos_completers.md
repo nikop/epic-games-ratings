@@ -23,7 +23,7 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -124,12 +124,12 @@
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 124 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.49% |
-| 126 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
+| 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
+| 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
 | 128 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 129 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
-| 130 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.44% |
+| 130 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 131 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.39% |
 | 133 | [Tchia](games/t/tchia.md) | 0.38% |
