@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 59831,
+  "EOS_Progressed": 59832,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -7448,6 +7448,11 @@
       "Time": "2023-06-27T05:00:25.6362649+00:00",
       "NumProgressed": 59831,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2023-06-27T06:00:22.7194247+00:00",
+      "NumProgressed": 59832,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 24,
@@ -7507,7 +7512,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 16154
+      "UsersEstimate": 16155
     },
     {
       "ID": "FOXIN_AROUND",
@@ -7539,7 +7544,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 31112
+      "UsersEstimate": 31113
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -7587,7 +7592,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -7595,7 +7600,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "SPIRIT_BARK",
@@ -7650,7 +7655,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 59831,
+      "Progressed": 59832,
       "Completed": 303
     }
   ],
@@ -7658,8 +7663,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:00:25.6362642+00:00",
+  "LastChanged_Achievements": "2023-06-27T06:00:22.7194243+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:26.910862+00:00",
-  "LastUpdate_Ratings": "2023-06-27T04:59:22.5656788+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:00:25.6363358+00:00"
+  "LastUpdate_Ratings": "2023-06-27T05:59:18.314434+00:00",
+  "LastUpdate_Achievements": "2023-06-27T06:00:22.7194883+00:00"
 }

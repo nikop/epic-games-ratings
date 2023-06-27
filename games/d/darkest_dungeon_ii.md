@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~99,660 |
+| A Place to Lay Your Head | 93.00% | ~99,661 |
 | Don't Make Me Turn This Coach Around | 70.00% | ~75,013 |
-| A Clear Conscience | 69.00% | ~73,941 |
-| Unleash Hell | 68.00% | ~72,869 |
-| Unfulfilled Desires | 68.00% | ~72,869 |
-| Funny Guy | 67.00% | ~71,798 |
-| Unshackled | 67.00% | ~71,798 |
-| Long Live the King | 66.00% | ~70,726 |
+| A Clear Conscience | 69.00% | ~73,942 |
+| Unleash Hell | 68.00% | ~72,870 |
+| Unfulfilled Desires | 68.00% | ~72,870 |
+| Funny Guy | 67.00% | ~71,799 |
+| Unshackled | 67.00% | ~71,799 |
+| Long Live the King | 66.00% | ~70,727 |
 | Resurrection | 62.00% | ~66,440 |
 | Wyrdly Reconstructed | 62.00% | ~66,440 |
 | Boxcar Kid | 60.00% | ~64,297 |
 | To Grandmother's House | 60.00% | ~64,297 |
-| Rush Hour | 59.00% | ~63,225 |
+| Rush Hour | 59.00% | ~63,226 |
 | Serenity Now! | 52.00% | ~55,724 |
-| Hope Rekindled | 50.00% | ~53,580 |
+| Hope Rekindled | 50.00% | ~53,581 |
 | Ramble On | 47.00% | ~50,366 |
-| Nope | 46.00% | ~49,294 |
+| Nope | 46.00% | ~49,295 |
 | This Looks Familiar | 37.00% | ~39,650 |
 | Hot Air | 36.00% | ~38,578 |
-| Now Stay Dead | 35.00% | ~37,506 |
-| Harvest Festival | 35.00% | ~37,506 |
+| Now Stay Dead | 35.00% | ~37,507 |
+| Harvest Festival | 35.00% | ~37,507 |
 | Merry Time | 34.00% | ~36,435 |
 | Creep and Sleep | 32.00% | ~34,292 |
-| Overdue Notice | 30.00% | ~32,148 |
-| Whale | 30.00% | ~32,148 |
+| Overdue Notice | 30.00% | ~32,149 |
+| Whale | 30.00% | ~32,149 |
 | Banishment | 29.00% | ~31,077 |
 | FNG | 28.00% | ~30,005 |
 | Predator | 23.00% | ~24,647 |
@@ -41,7 +41,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 20.00% | ~21,432 |
 | Road Trip | 20.00% | ~21,432 |
 | It Rings a Bell | 18.00% | ~19,289 |
-| Escape from the Black Hole | 17.00% | ~18,217 |
+| Escape from the Black Hole | 17.00% | ~18,218 |
 | It Happens | 16.00% | ~17,146 |
 | This Belongs in a Museum | 15.00% | ~16,074 |
 | Dissector | 15.00% | ~16,074 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~107 |
 | Hard Mode | 0.10% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,161 (Ranked 64)  
+Progressed: 107,162 (Ranked 64)  
 Completed: 1 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.00%) (Ranked 230)
 | 2023-06-24 | 106,637 | 1 |
 | 2023-06-25 | 106,950 | 1 |
 | 2023-06-26 | 107,120 | 1 |
-| 2023-06-27 | 107,161 | 1 |
+| 2023-06-27 | 107,162 | 1 |
 ## Awards
 Max (Character Customization): 7,217  (Ranked 47)  
 Sum: 18,644 (Ranked 56)  

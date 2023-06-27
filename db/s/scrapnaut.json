@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -851,9 +851,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -955,9 +955,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -996,8 +996,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:03:13.2606325+00:00",
+  "LastChanged_Achievements": "2023-06-27T06:03:07.88947+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:17.1847858+00:00",
-  "LastUpdate_Ratings": "2023-06-27T04:58:36.8317299+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:03:13.2606658+00:00"
+  "LastUpdate_Ratings": "2023-06-27T05:58:32.0424714+00:00",
+  "LastUpdate_Achievements": "2023-06-27T06:03:07.8894962+00:00"
 }

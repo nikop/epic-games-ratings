@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13541,
+  "EOS_Progressed": 13542,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 3,
@@ -4984,6 +4984,11 @@
       "Time": "2023-06-27T00:05:43.8053661+00:00",
       "NumProgressed": 13541,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-27T06:05:57.9489099+00:00",
+      "NumProgressed": 13542,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5003,7 +5008,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "tpote_achievement_11",
@@ -5187,7 +5192,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "tpote_achievement_32",
@@ -5283,7 +5288,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "tpote_achievement_6",
@@ -5315,22 +5320,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4739
+      "UsersEstimate": 4740
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13541,
+      "Progressed": 13542,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:06:12.7073446+00:00",
+  "LastChanged_Achievements": "2023-06-27T06:05:57.9489096+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-27T04:59:47.963899+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:06:12.707407+00:00"
+  "LastUpdate_Ratings": "2023-06-27T05:59:43.184359+00:00",
+  "LastUpdate_Achievements": "2023-06-27T06:05:57.9489681+00:00"
 }

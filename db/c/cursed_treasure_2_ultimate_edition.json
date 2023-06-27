@@ -386,9 +386,9 @@
       "ID": "BADGE_DEADMANS_CHEST",
       "SetID": "ak6pfjk",
       "Name": "Deadman\u0027s Chest",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "BADGE_ENEMIES_FRIGHTEN",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:04:40.7713457+00:00",
+  "LastChanged_Achievements": "2023-06-27T06:04:34.1421048+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-27T04:58:43.7289155+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:04:40.7714058+00:00"
+  "LastUpdate_Ratings": "2023-06-27T05:58:39.0712546+00:00",
+  "LastUpdate_Achievements": "2023-06-27T06:04:34.1421546+00:00"
 }

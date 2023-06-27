@@ -45,6 +45,7 @@ Rating: 4.47 (Ranked 594)
 | Siegebreaker | 0.50% | ~15 |
 | Strategist | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
+| Tinkerer | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~12 |
 | If You Go Down To The Woods Today | 0.40% | ~12 |
@@ -54,7 +55,6 @@ Rating: 4.47 (Ranked 594)
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
-| Tinkerer | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
 | Road Rage | 0.30% | ~9 |
 | Shoot for the Moon | 0.30% | ~9 |

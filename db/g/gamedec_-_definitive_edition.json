@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -354,9 +354,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 234240,
+  "EOS_Progressed": 234242,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1334,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7549,6 +7549,11 @@
       "Time": "2023-06-27T05:06:23.3795794+00:00",
       "NumProgressed": 234240,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-27T06:06:08.4626332+00:00",
+      "NumProgressed": 234242,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -7600,7 +7605,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25766
+      "UsersEstimate": 25767
     },
     {
       "ID": "ACH_ENJOY",
@@ -7704,7 +7709,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65587
+      "UsersEstimate": 65588
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -7840,7 +7845,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14054
+      "UsersEstimate": 14055
     },
     {
       "ID": "ACH_MEMORY5",
@@ -7975,7 +7980,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 234240,
+      "Progressed": 234242,
       "Completed": 7
     }
   ],
@@ -7983,8 +7988,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-14T19:58:25.1049706+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:06:23.3795786+00:00",
+  "LastChanged_Achievements": "2023-06-27T06:06:08.4626327+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:37.8220282+00:00",
-  "LastUpdate_Ratings": "2023-06-27T04:58:12.7463583+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:06:23.3796768+00:00"
+  "LastUpdate_Ratings": "2023-06-27T05:58:07.8873685+00:00",
+  "LastUpdate_Achievements": "2023-06-27T06:06:08.462724+00:00"
 }
