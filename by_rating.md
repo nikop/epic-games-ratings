@@ -12,7 +12,7 @@
 | 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 501 |
 | 9 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,834 | 110 |
 | 9 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 501 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,562 | 43 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,575 | 43 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 501 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 501 |
 | 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 501 |
@@ -451,7 +451,7 @@
 | 438 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,139 | 90 |
 | 438 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 311 |
 | 438 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 501 |
-| 438 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,300 | 85 |
+| 438 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,314 | 85 |
 | 438 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 455 |
 | 438 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,772 | 19 |
 | 438 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,753 | 112 |
@@ -591,18 +591,18 @@
 | 583 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 501 |
 | 583 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.48 | 0 | 501 |
 | 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 1,922 | 107 |
+| 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,382 | 45 |
 | 583 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 501 |
-| 593 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 501 |
-| 593 | [Figment](games/f/figment.md) | 4.47 | 20 | 497 |
-| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,482 | 80 |
-| 593 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 501 |
-| 593 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 501 |
-| 593 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 501 |
-| 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 501 |
-| 593 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 329 |
-| 593 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 7,382 | 45 |
-| 593 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 501 |
-| 593 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 501 |
+| 594 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 501 |
+| 594 | [Figment](games/f/figment.md) | 4.47 | 20 | 497 |
+| 594 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,482 | 80 |
+| 594 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 501 |
+| 594 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 501 |
+| 594 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 0 | 501 |
+| 594 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 501 |
+| 594 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.47 | 99 | 329 |
+| 594 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 501 |
+| 594 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 501 |
 | 604 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 501 |
 | 604 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 0 | 501 |
 | 604 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 501 |
