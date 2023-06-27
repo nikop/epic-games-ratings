@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2057,6 +2057,11 @@
       "Time": "2023-06-27T19:02:10.5470878+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T22:02:20.1176742+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2084,7 +2089,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2108,7 +2113,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CHAIN_KILLER",
@@ -2146,9 +2151,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 561
     },
     {
       "ID": "CRUELTY",
@@ -2180,7 +2185,7 @@
       "Name": "Limp Richard",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2212,7 +2217,7 @@
       "Name": "Editor Adept",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ENDGAME",
@@ -2228,7 +2233,7 @@
       "Name": "Exorcist",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "EXPERIENCED",
@@ -2252,7 +2257,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2276,7 +2281,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "GIANT_KILLER",
@@ -2300,7 +2305,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2316,7 +2321,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "INFILTRATOR",
@@ -2372,7 +2377,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "RECYCLER",
@@ -2380,7 +2385,7 @@
       "Name": "Recycler",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "RUTHLESS",
@@ -2436,7 +2441,7 @@
       "Name": "Technophobe",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2460,7 +2465,7 @@
       "Name": "The Watchers",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "WIPE_OUT",
@@ -2468,14 +2473,14 @@
       "Name": "Wipe Out",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 0
     }
   ],
@@ -2483,8 +2488,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-26T16:58:23.2317253+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:02:14.2364733+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:02:20.1176737+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.6286148+00:00",
-  "LastUpdate_Ratings": "2023-06-27T20:58:38.7483919+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:02:14.236521+00:00"
+  "LastUpdate_Ratings": "2023-06-27T21:58:58.9005423+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:02:20.1177564+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -42,7 +42,7 @@
   "Tags": [],
   "EOS_Progressed": 1922,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1443,
+  "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -967,9 +967,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -1015,9 +1015,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1047,9 +1047,9 @@
       "ID": "ACH_LURE_QUEEN",
       "SetID": "816efe",
       "Name": "Heavy Steps",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -1119,9 +1119,9 @@
       "ID": "ACH_MISSION_02",
       "SetID": "816efe",
       "Name": "First Steps Into Madness",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_MISSION_03",
@@ -1143,9 +1143,9 @@
       "ID": "ACH_MISSION_05",
       "SetID": "816efe",
       "Name": "Where It All Begun",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1288,8 +1288,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-27T13:15:51.2005284+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:06:31.2595304+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:07:07.7503446+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.9793382+00:00",
-  "LastUpdate_Ratings": "2023-06-27T20:59:46.0241781+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:06:31.2595745+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:00:20.6458096+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:07:07.7503913+00:00"
 }

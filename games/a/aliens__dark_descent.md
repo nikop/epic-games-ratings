@@ -7,7 +7,7 @@ Rating: 4.48 (Ranked 583)
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,480 |
 | Snatched Out | 70.00% | ~1,345 |
-| Keep 'Em Coming | 68.00% | ~1,307 |
+| Keep 'Em Coming | 69.00% | ~1,326 |
 | Cleaning Lethe, One Nest At A Time | 57.00% | ~1,096 |
 | Call Me Snake | 51.00% | ~980 |
 | Something Lurks Under The Hills | 49.00% | ~942 |
@@ -15,24 +15,24 @@ Rating: 4.48 (Ranked 583)
 | The Shrink Hates Me | 43.00% | ~826 |
 | Use The Bumper, That's What It's For | 41.00% | ~788 |
 | People Person | 41.00% | ~788 |
+| First Steps Into Madness | 37.00% | ~711 |
 | Colonial Barrels | 36.00% | ~692 |
-| First Steps Into Madness | 36.00% | ~692 |
 | Damn Dude, You Gotta Lose Some Weight! | 32.00% | ~615 |
 | Harper's Hell | 25.00% | ~480 |
+| Omelette Du Fromage | 23.00% | ~442 |
 | Making a Stand | 23.00% | ~442 |
-| Omelette Du Fromage | 22.00% | ~423 |
 | Recouped Investment | 22.00% | ~423 |
-| Where It All Begun | 18.00% | ~346 |
+| Where It All Begun | 19.00% | ~365 |
 | The More The Merrier | 12.00% | ~231 |
 | Stuff Of Nightmares | 11.00% | ~211 |
 | Living Nightmare | 11.00% | ~211 |
 | The Darwin Era Was Here | 8.00% | ~154 |
 | Come on, You Wanna Live Forever? | 7.00% | ~135 |
+| Heavy Steps | 6.00% | ~115 |
 | El Riesgo Siempre Vive | 6.00% | ~115 |
 | Deep Into Insanity | 6.00% | ~115 |
 | The Passenger | 6.00% | ~115 |
 | One For Every Occasion | 5.00% | ~96 |
-| Heavy Steps | 5.00% | ~96 |
 | Bandage Lover | 5.00% | ~96 |
 | Frontliner | 4.00% | ~77 |
 | The Cable Guy | 4.00% | ~77 |

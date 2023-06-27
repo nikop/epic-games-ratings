@@ -64,9 +64,9 @@ Rating: 3.51 (Ranked 945)
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |
+| Sepsis | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| Sepsis | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
 | Say Goodbye, Joe | 0.00% | ~0 |

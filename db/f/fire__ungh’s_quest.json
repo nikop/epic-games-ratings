@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "20_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 20",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "25_Coins",
@@ -507,9 +507,9 @@
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Level_completed_009_007",
@@ -555,9 +555,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:06:40.9168594+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:07:18.8902026+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:58.7687209+00:00",
-  "LastUpdate_Ratings": "2023-06-27T21:00:15.8694564+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:06:40.91688+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:00:56.1801219+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:07:18.8902232+00:00"
 }

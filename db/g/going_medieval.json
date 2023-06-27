@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1126,7 +1126,7 @@
   ],
   "EOS_Progressed": 4174,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4283,9 +4283,9 @@
       "ID": "SURVIVE_SEVEN_DAY",
       "SetID": "5349c2e",
       "Name": "The First Week",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2170
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -4339,8 +4339,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:06:43.8837568+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:07:22.2326934+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:57.9541614+00:00",
-  "LastUpdate_Ratings": "2023-06-27T21:00:14.3086307+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:06:43.8837959+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:00:54.2488699+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:07:22.2327313+00:00"
 }

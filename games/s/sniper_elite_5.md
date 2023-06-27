@@ -1,12 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 594)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Starting to Crack | 3.00% | ~95 |
 | Change the Channel | 3.00% | ~95 |
+| Taking it back | 3.00% | ~95 |
 | Liberté | 2.00% | ~63 |
 | Meeting Resistance | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
@@ -17,7 +18,6 @@ Rating: 4.47 (Ranked 593)
 | Der Geist | 2.00% | ~63 |
 | As Quiet as a Mouse | 2.00% | ~63 |
 | The Kraken Wakes | 2.00% | ~63 |
-| Taking it back | 2.00% | ~63 |
 | Target America | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
 | Climbing the Ladder | 1.00% | ~32 |
@@ -33,10 +33,10 @@ Rating: 4.47 (Ranked 593)
 | Precision Is Key | 0.90% | ~28 |
 | Rigged to Blow | 0.90% | ~28 |
 | Opposing Force | 0.80% | ~25 |
+| Enemy at the Gates | 0.80% | ~25 |
 | Fields of Glory | 0.80% | ~25 |
 | My Little Friend | 0.80% | ~25 |
 | Die Nussknacker Sweet! | 0.80% | ~25 |
-| Enemy at the Gates | 0.70% | ~22 |
 | Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |

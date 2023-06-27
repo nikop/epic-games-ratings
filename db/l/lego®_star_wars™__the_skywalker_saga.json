@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2558,10 +2558,10 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49749,
+  "EOS_Progressed": 49750,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 89,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 90,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
@@ -8193,6 +8193,11 @@
       "Time": "2023-06-27T21:01:07.183228+00:00",
       "NumProgressed": 49749,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-06-27T22:02:00.675888+00:00",
+      "NumProgressed": 49750,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 45,
@@ -8348,7 +8353,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18407
+      "UsersEstimate": 18408
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8436,7 +8441,7 @@
       "Name": "\u0027\u0027A little short for a Stormtrooper...\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "DEFEAT_3_ENEMIES_WITH_ONE_FORCE",
@@ -8444,7 +8449,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28854
+      "UsersEstimate": 28855
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8468,7 +8473,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48257
+      "UsersEstimate": 48258
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8492,7 +8497,7 @@
       "Name": "\u0027\u0027Jedi Business\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
@@ -8500,7 +8505,7 @@
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -8516,7 +8521,7 @@
       "Name": "\u0027\u0027You needn\u0027t worry about your reward\u0027\u0027",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "MINIKITS_ONE_LEVEL",
@@ -8524,7 +8529,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18407
+      "UsersEstimate": 18408
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8540,7 +8545,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26367
+      "UsersEstimate": 26368
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8556,22 +8561,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35819
+      "UsersEstimate": 35820
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49749,
+      "Progressed": 49750,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-27T12:00:55.5944058+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:01:07.1832273+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:02:00.6758874+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-27T21:01:00.6377447+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:01:07.1833038+00:00"
+  "LastUpdate_Ratings": "2023-06-27T22:01:50.4717352+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:02:00.675971+00:00"
 }

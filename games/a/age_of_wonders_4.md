@@ -6,6 +6,7 @@ Rating: 4.59 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.40% | ~19 |
+| My Final Form | 0.30% | ~15 |
 | Tipping the Scales | 0.30% | ~15 |
 | Mighty Hoard | 0.30% | ~15 |
 | Realm Estate | 0.20% | ~10 |
@@ -14,7 +15,6 @@ Rating: 4.59 (Ranked 410)
 | From Friends to Family | 0.20% | ~10 |
 | Stronger Together | 0.20% | ~10 |
 | Magical Synergy | 0.20% | ~10 |
-| My Final Form | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,856 (Ranked 132)  
+Progressed: 4,857 (Ranked 132)  
 Completed: 3 (0.06%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 3 (0.06%) (Ranked 193)
 | 2023-06-24 | 4,815 | 3 |
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
-| 2023-06-27 | 4,856 | 3 |
+| 2023-06-27 | 4,857 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

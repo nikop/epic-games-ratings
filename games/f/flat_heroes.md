@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 70.00% | ~220 |
-| Be water, my friend | 64.00% | ~201 |
-| Snake Eyes | 60.00% | ~188 |
-| Fireball | 52.00% | ~163 |
-| The King of Flat | 47.00% | ~148 |
-| Air Slash | 39.00% | ~122 |
-| Hit That Ball | 38.00% | ~119 |
+| Dash Crash | 70.00% | ~221 |
+| Be water, my friend | 64.00% | ~202 |
+| Snake Eyes | 59.00% | ~186 |
+| Fireball | 52.00% | ~164 |
+| The King of Flat | 47.00% | ~149 |
+| Air Slash | 39.00% | ~123 |
+| Hit That Ball | 37.00% | ~117 |
 | Eat That Apple | 27.00% | ~85 |
-| Tornado Chaser | 16.00% | ~50 |
+| Tornado Chaser | 16.00% | ~51 |
 | Bomberman | 11.00% | ~35 |
 | The Colossus | 9.00% | ~28 |
 | Bubble Party | 8.00% | ~25 |
@@ -21,7 +21,7 @@
 | Pim Pam Pum | 6.00% | ~19 |
 | Black Belt | 5.00% | ~16 |
 | Dash Crash - Hero Edition | 4.00% | ~13 |
-| Quite The Hero | 4.00% | ~13 |
+| Quite The Hero | 3.00% | ~9 |
 | Path of the Hero | 2.00% | ~6 |
 | Snake Eyes - Hero Edition | 2.00% | ~6 |
 | The King of Flat - Hero Edition | 2.00% | ~6 |
@@ -33,9 +33,9 @@
 | Hit That Ball - Hero Edition | 1.00% | ~3 |
 | Tornado Chaser - Hero Edition | 1.00% | ~3 |
 | Bomberman - Hero Edition | 1.00% | ~3 |
-| The Colossus - Hero Edition | 1.00% | ~3 |
 | Oh, no | 1.00% | ~3 |
-| Killing Spree | 1.00% | ~3 |
+| The Colossus - Hero Edition | 0.90% | ~3 |
+| Killing Spree | 0.90% | ~3 |
 | Rogue - Hero Edition | 0.60% | ~2 |
 | Pim Pam Pum - Hero Edition | 0.60% | ~2 |
 | Lone Wolf | 0.30% | ~1 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 235)  
+Progressed: 316 (Ranked 235)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 301 | 0 |
 | 2023-06-25 | 306 | 0 |
 | 2023-06-26 | 307 | 0 |
-| 2023-06-27 | 314 | 0 |
+| 2023-06-27 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

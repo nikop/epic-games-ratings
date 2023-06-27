@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2053,9 +2053,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 634460,
+  "EOS_Progressed": 634491,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 3456,
+  "EOS_NewPlayers": 3459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9348,6 +9348,11 @@
       "Time": "2023-06-27T21:06:48.822616+00:00",
       "NumProgressed": 634460,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-27T22:07:28.0719479+00:00",
+      "NumProgressed": 634491,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 54,
@@ -9359,15 +9364,15 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 513913
+      "UsersEstimate": 513938
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
       "SetID": "dg1ia2",
       "Name": "Fighting on all fronts",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12689
+      "UsersEstimate": 6345
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -9439,7 +9444,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25378
+      "UsersEstimate": 25380
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -9447,7 +9452,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 228406
+      "UsersEstimate": 228417
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -9455,7 +9460,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -9471,7 +9476,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -9479,7 +9484,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -9599,7 +9604,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 203027
+      "UsersEstimate": 203037
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -9623,7 +9628,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -9631,7 +9636,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38068
+      "UsersEstimate": 38069
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -9663,7 +9668,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 95169
+      "UsersEstimate": 95174
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -9671,7 +9676,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -9679,7 +9684,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25378
+      "UsersEstimate": 25380
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -9703,7 +9708,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -9719,7 +9724,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44412
+      "UsersEstimate": 44414
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -9735,7 +9740,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19034
+      "UsersEstimate": 19035
     },
     {
       "ID": "RP_ESTEEMED",
@@ -9759,7 +9764,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 114203
+      "UsersEstimate": 114208
     },
     {
       "ID": "RP_TRUSTED",
@@ -9767,7 +9772,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12689
+      "UsersEstimate": 12690
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -9775,7 +9780,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57101
+      "UsersEstimate": 57104
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -9783,22 +9788,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25378
+      "UsersEstimate": 25380
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 634460,
+      "Progressed": 634491,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-06-27T02:24:18.4933063+00:00",
-  "LastChanged_Achievements": "2023-06-27T21:06:48.8226154+00:00",
+  "LastChanged_Achievements": "2023-06-27T22:07:28.0719474+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.483018+00:00",
-  "LastUpdate_Ratings": "2023-06-27T20:58:20.466531+00:00",
-  "LastUpdate_Achievements": "2023-06-27T21:06:48.8227024+00:00"
+  "LastUpdate_Ratings": "2023-06-27T21:58:36.4406654+00:00",
+  "LastUpdate_Achievements": "2023-06-27T22:07:28.0720376+00:00"
 }

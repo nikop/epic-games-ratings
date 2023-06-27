@@ -1,19 +1,19 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 594)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,873 |
-| Leader | 61.00% | ~4,187 |
+| First Step | 71.00% | ~4,874 |
+| Leader | 61.00% | ~4,188 |
 | Explorer | 53.00% | ~3,638 |
-| Healer | 52.00% | ~3,569 |
-| Aspiring Inventor | 44.00% | ~3,020 |
-| Adventurer | 41.00% | ~2,814 |
-| Famous Healer | 38.00% | ~2,608 |
-| Local Leader | 35.00% | ~2,402 |
+| Healer | 52.00% | ~3,570 |
+| Aspiring Inventor | 44.00% | ~3,021 |
+| Adventurer | 41.00% | ~2,815 |
+| Famous Healer | 38.00% | ~2,609 |
+| Local Leader | 35.00% | ~2,403 |
 | Famous Explorer | 34.00% | ~2,334 |
 | New Opportunities | 34.00% | ~2,334 |
 | Energized | 33.00% | ~2,265 |
@@ -29,7 +29,7 @@ Number of Ratings: 836  (23.09.2022)
 | Mentor | 23.00% | ~1,579 |
 | Great Leader | 22.00% | ~1,510 |
 | Real Survivor | 22.00% | ~1,510 |
-| Merchant | 21.00% | ~1,441 |
+| Merchant | 21.00% | ~1,442 |
 | War Never Changes | 19.00% | ~1,304 |
 | Rocket Surgeon | 19.00% | ~1,304 |
 | Big Game Hunter | 17.00% | ~1,167 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 9.00% | ~618 |
 | Trader | 8.00% | ~549 |
 | Bread and Circuses | 8.00% | ~549 |
-| New Eden | 7.00% | ~480 |
-| Tailored to fit | 7.00% | ~480 |
+| New Eden | 7.00% | ~481 |
+| Tailored to fit | 7.00% | ~481 |
 | Really Friendly | 6.00% | ~412 |
 | Amped Up | 6.00% | ~412 |
 | Look, no Hands! | 5.00% | ~343 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,864 (Ranked 122)  
+Progressed: 6,865 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 6,767 | 0 |
 | 2023-06-25 | 6,807 | 0 |
 | 2023-06-26 | 6,837 | 0 |
-| 2023-06-27 | 6,864 | 0 |
+| 2023-06-27 | 6,865 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 271)  
