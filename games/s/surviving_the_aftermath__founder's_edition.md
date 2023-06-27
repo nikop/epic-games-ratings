@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 594)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,8 +18,8 @@ Number of Ratings: 836  (23.09.2022)
 | New Opportunities | 34.00% | ~2,327 |
 | Energized | 33.00% | ~2,259 |
 | The Long Haul | 33.00% | ~2,259 |
+| Survivor | 32.00% | ~2,190 |
 | The Great Healer | 31.00% | ~2,122 |
-| Survivor | 31.00% | ~2,122 |
 | Cleaner | 28.00% | ~1,916 |
 | Catastrofan | 28.00% | ~1,916 |
 | Legendary Explorer | 27.00% | ~1,848 |

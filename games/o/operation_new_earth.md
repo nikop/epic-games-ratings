@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 51.00% | ~126 |
-| Defenses Online | 47.00% | ~116 |
-| Facility Online | 43.00% | ~106 |
-| Corporal | 32.00% | ~79 |
-| Covert Operative | 23.00% | ~57 |
-| Sergeant | 22.00% | ~54 |
-| Stocking Up | 17.00% | ~42 |
+| It's Good to have Allies | 50.00% | ~125 |
+| Defenses Online | 47.00% | ~118 |
+| Facility Online | 43.00% | ~108 |
+| Corporal | 32.00% | ~80 |
+| Sergeant | 22.00% | ~55 |
+| Covert Operative | 22.00% | ~55 |
 | Lieutenant | 16.00% | ~40 |
+| Stocking Up | 16.00% | ~40 |
 | On Target | 16.00% | ~40 |
 | Getting Deployment | 14.00% | ~35 |
 | Infantry Reporting | 13.00% | ~32 |
-| Fighting for Survival | 11.00% | ~27 |
-| Keeping Busy | 11.00% | ~27 |
+| Fighting for Survival | 11.00% | ~28 |
+| Keeping Busy | 11.00% | ~28 |
 | Silver Competitor | 10.00% | ~25 |
-| Captain | 9.00% | ~22 |
-| Factory Expansion | 9.00% | ~22 |
+| Captain | 8.00% | ~20 |
 | Brothers in Arms | 8.00% | ~20 |
-| Exterminator | 7.00% | ~17 |
+| Factory Expansion | 8.00% | ~20 |
+| Exterminator | 7.00% | ~18 |
 | Moving On Up | 5.00% | ~12 |
 | Know The Enemy | 4.00% | ~10 |
 | Player Betrayer | 4.00% | ~10 |
-| Gold Achiever | 3.00% | ~7 |
-| Silver Achiever | 3.00% | ~7 |
-| Advanced Warfare | 3.00% | ~7 |
-| Major | 3.00% | ~7 |
-| Colonel | 3.00% | ~7 |
-| Battle Ready | 3.00% | ~7 |
-| Control the Skies | 3.00% | ~7 |
+| Gold Achiever | 3.00% | ~8 |
+| Silver Achiever | 3.00% | ~8 |
+| Advanced Warfare | 3.00% | ~8 |
+| Major | 3.00% | ~8 |
+| Colonel | 3.00% | ~8 |
+| Battle Ready | 3.00% | ~8 |
+| Control the Skies | 3.00% | ~8 |
 | General | 2.00% | ~5 |
 | Seek & Destroy | 2.00% | ~5 |
 | Resourceful | 2.00% | ~5 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 248)  
+Progressed: 250 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 214 | 0 |
 | 2023-06-25 | 232 | 0 |
 | 2023-06-26 | 245 | 0 |
-| 2023-06-27 | 247 | 0 |
+| 2023-06-27 | 250 | 0 |

@@ -6,60 +6,60 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,543 |
-| Titan's First Steps | 96.00% | ~126,228 |
-| Basic in Bulk | 91.00% | ~119,654 |
-| Tinkle of Coins | 87.00% | ~114,395 |
-| Disintermediation | 75.00% | ~98,616 |
-| Capitalism Ho! | 74.00% | ~97,301 |
-| It's Free Real Estate | 70.00% | ~92,042 |
-| Budding Merchant | 66.00% | ~86,782 |
-| Another Satisfied Customer | 61.00% | ~80,208 |
-| One Easy Payment | 60.00% | ~78,893 |
-| Own the Means of Production | 60.00% | ~78,893 |
-| Some Assembly Required | 58.00% | ~76,263 |
-| Pretty Penny | 57.00% | ~74,948 |
-| One-Armed Bandit | 49.00% | ~64,429 |
-| Through Repetition, Perfection | 46.00% | ~60,484 |
-| The Daily Grind | 45.00% | ~59,170 |
-| Bounty Hunters | 44.00% | ~57,855 |
-| Where it Hurts | 43.00% | ~56,540 |
-| Dungeon Imports | 42.00% | ~55,225 |
-| Flooding the Market | 41.00% | ~53,910 |
-| Demand for Supplies | 38.00% | ~49,965 |
-| Gild-Gotten Goods | 37.00% | ~48,651 |
-| Did we pack lunch? | 35.00% | ~46,021 |
-| Arcane Industries | 34.00% | ~44,706 |
-| Accomplished Merchant | 31.00% | ~40,761 |
-| On the Path to Greatness | 28.00% | ~36,817 |
-| Ascended | 28.00% | ~36,817 |
-| Gem Expert | 28.00% | ~36,817 |
-| Helping Hand | 28.00% | ~36,817 |
-| Blank Page Syndrome | 27.00% | ~35,502 |
-| Efficient Floor Space | 27.00% | ~35,502 |
-| Vanity, Verily | 26.00% | ~34,187 |
-| Research & Development | 25.00% | ~32,872 |
-| Power of Love | 24.00% | ~31,557 |
-| Flawless Fusion | 24.00% | ~31,557 |
-| Natural 20 | 23.00% | ~30,242 |
-| Fated Encounters | 21.00% | ~27,612 |
-| Royal Ransom | 21.00% | ~27,612 |
-| Magical Harmony | 21.00% | ~27,612 |
+| Sponsored by Argon | 97.00% | ~127,547 |
+| Titan's First Steps | 96.00% | ~126,232 |
+| Basic in Bulk | 91.00% | ~119,658 |
+| Tinkle of Coins | 87.00% | ~114,398 |
+| Disintermediation | 75.00% | ~98,619 |
+| Capitalism Ho! | 74.00% | ~97,304 |
+| It's Free Real Estate | 70.00% | ~92,044 |
+| Budding Merchant | 66.00% | ~86,785 |
+| Another Satisfied Customer | 61.00% | ~80,210 |
+| One Easy Payment | 60.00% | ~78,895 |
+| Own the Means of Production | 60.00% | ~78,895 |
+| Some Assembly Required | 58.00% | ~76,265 |
+| Pretty Penny | 57.00% | ~74,950 |
+| One-Armed Bandit | 49.00% | ~64,431 |
+| Through Repetition, Perfection | 46.00% | ~60,486 |
+| The Daily Grind | 45.00% | ~59,171 |
+| Bounty Hunters | 44.00% | ~57,856 |
+| Where it Hurts | 43.00% | ~56,542 |
+| Dungeon Imports | 42.00% | ~55,227 |
+| Flooding the Market | 41.00% | ~53,912 |
+| Demand for Supplies | 38.00% | ~49,967 |
+| Gild-Gotten Goods | 37.00% | ~48,652 |
+| Did we pack lunch? | 35.00% | ~46,022 |
+| Arcane Industries | 34.00% | ~44,707 |
+| Accomplished Merchant | 31.00% | ~40,763 |
+| On the Path to Greatness | 28.00% | ~36,818 |
+| Ascended | 28.00% | ~36,818 |
+| Gem Expert | 28.00% | ~36,818 |
+| Helping Hand | 28.00% | ~36,818 |
+| Blank Page Syndrome | 27.00% | ~35,503 |
+| Efficient Floor Space | 27.00% | ~35,503 |
+| Vanity, Verily | 26.00% | ~34,188 |
+| Research & Development | 25.00% | ~32,873 |
+| Power of Love | 24.00% | ~31,558 |
+| Flawless Fusion | 24.00% | ~31,558 |
+| Natural 20 | 23.00% | ~30,243 |
+| Fated Encounters | 21.00% | ~27,613 |
+| Royal Ransom | 21.00% | ~27,613 |
+| Magical Harmony | 21.00% | ~27,613 |
 | Tax not Included | 20.00% | ~26,298 |
 | Trash to Treasure | 19.00% | ~24,983 |
-| For the Hoard! | 18.00% | ~23,668 |
-| Special Ingredient | 17.00% | ~22,353 |
-| Scrapbooker | 16.00% | ~21,038 |
-| A Notch Above the Rest | 15.00% | ~19,723 |
-| This Power Level...! | 15.00% | ~19,723 |
-| Expansion in Session | 15.00% | ~19,723 |
-| Seasoned Journeyman | 15.00% | ~19,723 |
-| Black Friday Special | 15.00% | ~19,723 |
-| Big Game Hunting | 14.00% | ~18,408 |
-| Locally Sourced | 14.00% | ~18,408 |
-| Flying off the Shelves | 14.00% | ~18,408 |
-| Laden with Loot | 14.00% | ~18,408 |
-| Fat Cat Tag Team | 13.00% | ~17,093 |
+| For the Hoard! | 18.00% | ~23,669 |
+| Special Ingredient | 17.00% | ~22,354 |
+| Scrapbooker | 16.00% | ~21,039 |
+| A Notch Above the Rest | 15.00% | ~19,724 |
+| This Power Level...! | 15.00% | ~19,724 |
+| Expansion in Session | 15.00% | ~19,724 |
+| Seasoned Journeyman | 15.00% | ~19,724 |
+| Black Friday Special | 15.00% | ~19,724 |
+| Big Game Hunting | 14.00% | ~18,409 |
+| Locally Sourced | 14.00% | ~18,409 |
+| Flying off the Shelves | 14.00% | ~18,409 |
+| Laden with Loot | 14.00% | ~18,409 |
+| Fat Cat Tag Team | 13.00% | ~17,094 |
 | Above the Norm | 12.00% | ~15,779 |
 | Hidden Potential | 12.00% | ~15,779 |
 | Mammonite | 12.00% | ~15,779 |
@@ -80,12 +80,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 7.00% | ~9,204 |
 | A Legend is Born | 7.00% | ~9,204 |
 | Wealth Beyond Measure | 7.00% | ~9,204 |
-| Thirst for Knowledge | 6.00% | ~7,889 |
-| Archivist | 6.00% | ~7,889 |
-| Bountiful Harvest | 6.00% | ~7,889 |
-| Treasure Trove | 6.00% | ~7,889 |
-| All Accounted For | 6.00% | ~7,889 |
-| Precision Engineering | 5.00% | ~6,574 |
+| Thirst for Knowledge | 6.00% | ~7,890 |
+| Archivist | 6.00% | ~7,890 |
+| Bountiful Harvest | 6.00% | ~7,890 |
+| Treasure Trove | 6.00% | ~7,890 |
+| All Accounted For | 6.00% | ~7,890 |
+| Precision Engineering | 5.00% | ~6,575 |
 | Proud Paladin | 4.00% | ~5,260 |
 | Constellated | 4.00% | ~5,260 |
 | Industrial Evolution | 4.00% | ~5,260 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~657 |
 | Capitalist Camaraderie | 0.20% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,488 (Ranked 59)  
+Progressed: 131,492 (Ranked 59)  
 Completed: 110 (0.08%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 110 (0.08%) (Ranked 185)
 | 2023-06-24 | 131,331 | 110 |
 | 2023-06-25 | 131,406 | 110 |
 | 2023-06-26 | 131,474 | 110 |
-| 2023-06-27 | 131,488 | 110 |
+| 2023-06-27 | 131,492 | 110 |
 ## Awards
 Max (Great for Beginners): 4,637  (Ranked 68)  
 Sum: 26,814 (Ranked 45)  

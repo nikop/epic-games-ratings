@@ -7,7 +7,7 @@
 | Will This Help? | 73.00% | ~150 |
 | No One Is Safe | 65.00% | ~133 |
 | Career Woman | 63.00% | ~129 |
-| He's Off His Meds | 56.00% | ~115 |
+| He's Off His Meds | 57.00% | ~117 |
 | Deal Or No Deal | 49.00% | ~100 |
 | Personal Life | 49.00% | ~100 |
 | Impress Theron | 44.00% | ~90 |
@@ -16,7 +16,7 @@
 | A Little Extra | 16.00% | ~33 |
 | Unhelpful | 12.00% | ~25 |
 | Use Your Connections | 12.00% | ~25 |
-| Pearce | 10.00% | ~20 |
+| Pearce | 11.00% | ~23 |
 | The Marriage Is Off | 9.00% | ~18 |
 | Horrific | 7.00% | ~14 |
 | Hopeful | 6.00% | ~12 |

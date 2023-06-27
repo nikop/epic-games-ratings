@@ -8,7 +8,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | ---- | ---------- | ----- |
 | It's a steal! | 38.00% | ~24,546 |
 | Final touch | 38.00% | ~24,546 |
-| Prop-M Rover | 33.00% | ~21,316 |
+| Prop-M Rover | 33.00% | ~21,317 |
 | Changing the Planet | 29.00% | ~18,733 |
 | Sojourner | 28.00% | ~18,087 |
 | New Home | 25.00% | ~16,149 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,731  (23.09.2022)
 | Biggest Reward | 15.00% | ~9,689 |
 | Acquired knowledge | 14.00% | ~9,043 |
 | Hellenic Elysium | 13.00% | ~8,397 |
-| First Journey | 12.00% | ~7,751 |
-| Most Achievements | 12.00% | ~7,751 |
-| Grand champion | 12.00% | ~7,751 |
-| Landlord | 11.00% | ~7,105 |
-| Spirit | 11.00% | ~7,105 |
-| Ultimate success | 11.00% | ~7,105 |
+| First Journey | 12.00% | ~7,752 |
+| Most Achievements | 12.00% | ~7,752 |
+| Grand champion | 12.00% | ~7,752 |
+| Landlord | 11.00% | ~7,106 |
+| Spirit | 11.00% | ~7,106 |
+| Ultimate success | 11.00% | ~7,106 |
 | Variety Expert | 10.00% | ~6,460 |
 | Frequent tester | 8.00% | ~5,168 |
 | Determined | 8.00% | ~5,168 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,938 |
 | Opportunity | 3.00% | ~1,938 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,595 (Ranked 74)  
+Progressed: 64,596 (Ranked 74)  
 Completed: 67 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,16 +105,16 @@ Completed: 67 (0.10%) (Ranked 175)
 | 2023-06-24 | 64,173 | 66 |
 | 2023-06-25 | 64,374 | 66 |
 | 2023-06-26 | 64,537 | 67 |
-| 2023-06-27 | 64,595 | 67 |
+| 2023-06-27 | 64,596 | 67 |
 ## Awards
 Max (Relaxing): 502  (Ranked 190)  
-Sum: 3,091 (Ranked 153)  
+Sum: 3,093 (Ranked 153)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 502 |
 | This game is Highly Recommended | 487 |
-| This game has Quickly Understood Controls | 445 |
+| This game has Quickly Understood Controls | 447 |
 | This game is Extremely Fun | 439 |
 | This game has Competitive Players | 439 |
 | This game has Amazing Storytelling | 351 |
@@ -248,3 +248,4 @@ Diff (max vs sum): 37
 | 2023-06-23 | 4.54 | - | 501 | 3,088 |
 | 2023-06-24 | 4.54 | - | 502 | 3,089 |
 | 2023-06-25 | 4.54 | - | 502 | 3,091 |
+| 2023-06-27 | 4.54 | - | 502 | 3,093 |

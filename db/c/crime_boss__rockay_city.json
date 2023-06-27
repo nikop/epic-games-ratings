@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 921,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2206,10 +2206,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1643,
       "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-06-27T11:00:12.1551579+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1645,
+      "NumberOfAwardsMax": 344
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1643,
+  "NumberOfAwards": 1645,
   "NumberOfAwardsMax": 344,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2241,7 +2247,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 318
+      "Count": 320
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2262,9 +2268,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67851,
+  "EOS_Progressed": 67852,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9377,6 +9383,11 @@
       "Time": "2023-06-27T10:03:29.1641443+00:00",
       "NumProgressed": 67851,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-27T11:03:28.4868003+00:00",
+      "NumProgressed": 67852,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -9532,7 +9543,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44103
+      "UsersEstimate": 44104
     },
     {
       "ID": "ACH_0210",
@@ -9604,7 +9615,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23069
+      "UsersEstimate": 23070
     },
     {
       "ID": "ACH_0420",
@@ -9612,7 +9623,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23069
+      "UsersEstimate": 23070
     },
     {
       "ID": "ACH_0430",
@@ -9683,16 +9694,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67851,
+      "Progressed": 67852,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-06-26T22:59:28.2171943+00:00",
-  "LastChanged_Achievements": "2023-06-27T10:03:29.1641439+00:00",
+  "LastChanged": "2023-06-27T11:00:12.1551577+00:00",
+  "LastChanged_Achievements": "2023-06-27T11:03:28.4867999+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-27T10:00:18.6659001+00:00",
-  "LastUpdate_Achievements": "2023-06-27T10:03:29.1641991+00:00"
+  "LastUpdate_Ratings": "2023-06-27T11:00:12.1551586+00:00",
+  "LastUpdate_Achievements": "2023-06-27T11:03:28.4868541+00:00"
 }

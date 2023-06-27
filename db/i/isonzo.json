@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6319,
+  "EOS_Progressed": 6320,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3091,6 +3091,11 @@
       "Time": "2023-06-26T20:03:06.7606792+00:00",
       "NumProgressed": 6319,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-27T11:02:14.7712989+00:00",
+      "NumProgressed": 6320,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3182,7 +3187,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -3294,7 +3299,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3342,7 +3347,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -3398,7 +3403,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3430,7 +3435,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3461,7 +3466,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6319,
+      "Progressed": 6320,
       "Completed": 8
     }
   ],
@@ -3469,8 +3474,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-26T19:57:59.6691095+00:00",
-  "LastChanged_Achievements": "2023-06-27T10:02:13.609281+00:00",
+  "LastChanged_Achievements": "2023-06-27T11:02:14.7712983+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.3316297+00:00",
-  "LastUpdate_Ratings": "2023-06-27T09:57:40.5142645+00:00",
-  "LastUpdate_Achievements": "2023-06-27T10:02:13.6093217+00:00"
+  "LastUpdate_Ratings": "2023-06-27T10:57:40.4061449+00:00",
+  "LastUpdate_Achievements": "2023-06-27T11:02:14.7713374+00:00"
 }

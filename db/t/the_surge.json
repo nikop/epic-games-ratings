@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4459,
+  "EOS_Progressed": 4460,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1505,6 +1505,11 @@
       "Time": "2023-06-27T06:00:14.8379979+00:00",
       "NumProgressed": 4459,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-27T11:01:04.4306923+00:00",
+      "NumProgressed": 4460,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1564,7 +1569,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1572,7 +1577,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4192
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1580,7 +1585,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1596,7 +1601,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -1620,7 +1625,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -1676,7 +1681,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -1732,7 +1737,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3433
+      "UsersEstimate": 3434
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1764,7 +1769,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1780,7 +1785,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1796,7 +1801,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -1852,7 +1857,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -1860,7 +1865,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2051,15 +2056,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4459,
+      "Progressed": 4460,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-27T10:01:11.4328697+00:00",
+  "LastChanged_Achievements": "2023-06-27T11:01:04.4306918+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-27T09:58:13.7817596+00:00",
-  "LastUpdate_Achievements": "2023-06-27T10:01:11.4329379+00:00"
+  "LastUpdate_Ratings": "2023-06-27T10:58:11.8837296+00:00",
+  "LastUpdate_Achievements": "2023-06-27T11:01:04.430799+00:00"
 }

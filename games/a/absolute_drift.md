@@ -22,12 +22,12 @@ Number of Ratings: 216  (23.09.2022)
 | Sake Bombs | 0.90% | ~13,733 |
 | Drift Line Master | 0.70% | ~10,681 |
 | Insane Skills | 0.70% | ~10,681 |
-| Bacon Donuts | 0.50% | ~7,629 |
-| Double Rainbow | 0.50% | ~7,629 |
+| Bacon Donuts | 0.50% | ~7,630 |
+| Double Rainbow | 0.50% | ~7,630 |
 | Washing Machine | 0.30% | ~4,578 |
 | The Completionist | 0.10% | ~1,526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,525,896 (Ranked 6)  
+Progressed: 1,525,905 (Ranked 6)  
 Completed: 637 (0.04%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 637 (0.04%) (Ranked 200)
 | 2023-06-24 | 1,525,383 | 634 |
 | 2023-06-25 | 1,525,643 | 636 |
 | 2023-06-26 | 1,525,825 | 636 |
-| 2023-06-27 | 1,525,896 | 637 |
+| 2023-06-27 | 1,525,905 | 637 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,421 |
-| World Map | 79.00% | ~1,194 |
+| Victor | 94.00% | ~1,422 |
+| World Map | 79.00% | ~1,195 |
 | Temple of Eternals | 57.00% | ~862 |
-| Prestigious | 54.00% | ~816 |
+| Prestigious | 54.00% | ~817 |
 | Fellowship Power | 41.00% | ~620 |
 | Guild Power | 24.00% | ~363 |
 | Prestigious x10 | 21.00% | ~318 |
@@ -22,11 +22,11 @@ Rating: 4.07 (Ranked 895)
 | Dragon Master | 13.00% | ~197 |
 | Enlightenment | 13.00% | ~197 |
 | Lieutenant | 13.00% | ~197 |
-| Milestone collector | 12.00% | ~181 |
-| Mysterious Rock | 12.00% | ~181 |
-| Natural Talent | 12.00% | ~181 |
-| Superior | 12.00% | ~181 |
-| The Unstoppable | 12.00% | ~181 |
+| Milestone collector | 12.00% | ~182 |
+| Mysterious Rock | 12.00% | ~182 |
+| Natural Talent | 12.00% | ~182 |
+| Superior | 12.00% | ~182 |
+| The Unstoppable | 12.00% | ~182 |
 | Scientist | 10.00% | ~151 |
 | Challenger | 9.00% | ~136 |
 | Doing My Part | 9.00% | ~136 |
@@ -50,11 +50,11 @@ Rating: 4.07 (Ranked 895)
 | How Do You Turn This On? | 5.00% | ~76 |
 | Missions Dedication | 5.00% | ~76 |
 | Weekly Quest Completionist | 5.00% | ~76 |
-| Background Story | 4.00% | ~60 |
-| Blueprint Upgrades | 4.00% | ~60 |
-| Dragon Slayer | 4.00% | ~60 |
-| Engineer Mastery | 4.00% | ~60 |
-| Lock And Load | 4.00% | ~60 |
+| Background Story | 4.00% | ~61 |
+| Blueprint Upgrades | 4.00% | ~61 |
+| Dragon Slayer | 4.00% | ~61 |
+| Engineer Mastery | 4.00% | ~61 |
+| Lock And Load | 4.00% | ~61 |
 | Sailor | 3.00% | ~45 |
 | Active Member | 2.00% | ~30 |
 | Arena Challenger | 2.00% | ~30 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 167)  
+Progressed: 1,513 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 1 (0.07%) (Ranked 189)
 | 2023-06-24 | 1,486 | 1 |
 | 2023-06-25 | 1,500 | 1 |
 | 2023-06-26 | 1,507 | 1 |
-| 2023-06-27 | 1,512 | 1 |
+| 2023-06-27 | 1,513 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

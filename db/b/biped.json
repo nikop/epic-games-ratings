@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3472,
+  "EOS_Progressed": 3473,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -4716,6 +4716,11 @@
       "Time": "2023-06-27T08:05:35.716408+00:00",
       "NumProgressed": 3472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T11:06:21.0283908+00:00",
+      "NumProgressed": 3473,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -4791,7 +4796,7 @@
       "Name": "Cactus Vally",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "4",
@@ -4815,7 +4820,7 @@
       "Name": "High Treetops",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "7",
@@ -4846,7 +4851,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3472,
+      "Progressed": 3473,
       "Completed": 0
     }
   ],
@@ -4854,8 +4859,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-06-27T10:06:29.254206+00:00",
+  "LastChanged_Achievements": "2023-06-27T11:06:21.0283903+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:46.7260525+00:00",
-  "LastUpdate_Ratings": "2023-06-27T09:58:19.1113623+00:00",
-  "LastUpdate_Achievements": "2023-06-27T10:06:29.2542371+00:00"
+  "LastUpdate_Ratings": "2023-06-27T10:58:16.9921704+00:00",
+  "LastUpdate_Achievements": "2023-06-27T11:06:21.0284193+00:00"
 }

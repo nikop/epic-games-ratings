@@ -7,30 +7,32 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
+| Lord of Chaos | 0.10% | ~5 |
+| Arch Mage | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
 | Secret Technique | 0.10% | ~5 |
+| Walls Cannot Stop Us | 0.10% | ~5 |
+| Bone Peddler | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
 | Stronger Together | 0.10% | ~5 |
+| Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
+| Here be Dragons | 0.10% | ~5 |
+| Mighty Hoard | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
 | There Can Only Be One! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
-| Lord of Chaos | 0.00% | ~0 |
-| Arch Mage | 0.00% | ~0 |
 | The Creator | 0.00% | ~0 |
 | Enchanted Archipelago | 0.00% | ~0 |
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
-| Walls Cannot Stop Us | 0.00% | ~0 |
-| Bone Peddler | 0.00% | ~0 |
 | Digging for Treasure | 0.00% | ~0 |
 | Crimson Caldera | 0.00% | ~0 |
 | Preparation Is Everything | 0.00% | ~0 |
-| Magical Synergy | 0.00% | ~0 |
 | Seat of Power | 0.00% | ~0 |
 | In a Liege of Your Own | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
@@ -49,11 +51,9 @@ Rating: 4.59 (Ranked 410)
 | Returning Circle | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
-| Here be Dragons | 0.00% | ~0 |
 | Tipping the Scales | 0.00% | ~0 |
 | Duality | 0.00% | ~0 |
 | Blood of the Dragon | 0.00% | ~0 |
-| Mighty Hoard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,850 (Ranked 132)  
