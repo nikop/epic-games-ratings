@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.58% |
-| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.63% |
+| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.37% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.84% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
