@@ -2,9 +2,9 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 31.65,
+  "EOS_Completed_Percentage": 31.25,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -456,6 +456,11 @@
       "Time": "2023-06-27T09:04:00.8961581+00:00",
       "NumProgressed": 79,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-27T16:03:44.9493677+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 18,
@@ -489,7 +494,7 @@
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 55
     },
@@ -497,7 +502,7 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 50,
       "UsersEstimate": 59
     },
@@ -505,7 +510,7 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 56
     },
@@ -513,15 +518,15 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 55
     },
@@ -531,7 +536,7 @@
       "Name": "Game changer",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Justice",
@@ -545,7 +550,7 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 32
     },
@@ -553,7 +558,7 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 33
     },
@@ -577,9 +582,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "Street_food",
@@ -587,7 +592,7 @@
       "Name": "Street food",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Tower_builder",
@@ -595,7 +600,7 @@
       "Name": "Tower builder",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Troubleshooter",
@@ -610,14 +615,14 @@
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:03:52.4569291+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:03:44.9493672+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:57:33.4020329+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:03:52.4569483+00:00"
+  "LastUpdate_Ratings": "2023-06-27T15:57:24.5984847+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:03:44.9493845+00:00"
 }

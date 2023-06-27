@@ -16,7 +16,7 @@
 | The Magician | 46.00% | ~51 |
 | The Tunneler | 41.00% | ~46 |
 | Level Up!! | 40.00% | ~44 |
-| The Shield | 38.00% | ~42 |
+| The Shield | 39.00% | ~43 |
 | Kill-streak | 33.00% | ~37 |
 | The Bird | 31.00% | ~34 |
 | The Ninja | 29.00% | ~32 |
@@ -25,7 +25,7 @@
 | The Idol | 27.00% | ~30 |
 | Untouchable | 24.00% | ~27 |
 | I'm Rich | 24.00% | ~27 |
-| 1 is all I need | 22.00% | ~24 |
+| 1 is all I need | 23.00% | ~26 |
 | The Slime | 22.00% | ~24 |
 | The Giant | 20.00% | ~22 |
 | The Flower | 19.00% | ~21 |

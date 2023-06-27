@@ -353,9 +353,9 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -585,9 +585,9 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -938,8 +938,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:06:23.4312788+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:06:11.2547117+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:53.58574+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:57:47.8821431+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:06:23.431388+00:00"
+  "LastUpdate_Ratings": "2023-06-27T15:57:39.6902919+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:06:11.25479+00:00"
 }

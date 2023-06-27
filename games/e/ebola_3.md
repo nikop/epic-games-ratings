@@ -37,6 +37,7 @@
 | City on fire ✔ | 4.00% | ~8 |
 | Priest ✔ | 4.00% | ~8 |
 | Rank A ✔ | 4.00% | ~8 |
+| Boss 3 ✔ | 4.00% | ~8 |
 | Car ✔ | 3.00% | ~6 |
 | Crocodile Attack ✔ | 3.00% | ~6 |
 | Secret ✔ | 3.00% | ~6 |
@@ -44,7 +45,6 @@
 | Osipov's video message ✔ | 3.00% | ~6 |
 | The escape ✔ | 3.00% | ~6 |
 | Rank B+ ✔ | 3.00% | ~6 |
-| Boss 3 ✔ | 3.00% | ~6 |
 | Seeker One ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 2.00% | ~4 |
 | Crocodile Escape ✔ | 2.00% | ~4 |

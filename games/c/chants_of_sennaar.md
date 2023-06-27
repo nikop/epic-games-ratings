@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 100.00% | ~10 |
 | Rascal | 90.00% | ~9 |
+| The Preacher's fate | 90.00% | ~9 |
 | Welcome to the Tower | 90.00% | ~9 |
-| The Preacher's fate | 80.00% | ~8 |
+| The great escape | 90.00% | ~9 |
+| A new dawn | 90.00% | ~9 |
 | Champollion | 80.00% | ~8 |
 | Scholar | 80.00% | ~8 |
-| The great escape | 80.00% | ~8 |
-| A new dawn | 80.00% | ~8 |
 | The darkness | 80.00% | ~8 |
 | One last step | 80.00% | ~8 |
 | Cable guy | 70.00% | ~7 |

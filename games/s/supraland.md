@@ -1,47 +1,47 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 361)  
+Rating: 4.61 (Ranked 362)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~706,558 |
-| The Blues | 85.00% | ~606,641 |
-| Fast | 66.00% | ~471,039 |
-| Healthbar | 55.00% | ~392,532 |
-| Force Cube | 53.00% | ~378,258 |
-| Double Jump | 48.00% | ~342,574 |
-| Regeneration | 47.00% | ~335,437 |
-| Climb the hill | 42.00% | ~299,752 |
-| Triple Jump | 42.00% | ~299,752 |
-| Through the fire pipe | 38.00% | ~271,204 |
-| MacGuffin | 37.00% | ~264,067 |
-| Just once | 36.00% | ~256,930 |
-| Armor | 30.00% | ~214,108 |
-| True holy spirit | 27.00% | ~192,698 |
-| That's how electronics work obviously | 26.00% | ~185,561 |
-| Force Cube Catapult | 25.00% | ~178,424 |
-| Holy Sword | 23.00% | ~164,150 |
-| Telefrag | 22.00% | ~157,013 |
-| Freed from prison | 21.00% | ~149,876 |
-| Stomp | 21.00% | ~149,876 |
-| Double Health | 18.00% | ~128,465 |
-| Buckle | 17.00% | ~121,328 |
-| Green Keycard | 17.00% | ~121,328 |
-| Rattle Hag | 15.00% | ~107,054 |
-| All Shells | 14.00% | ~99,917 |
-| Beam | 14.00% | ~99,917 |
-| 9 | 13.00% | ~92,780 |
-| Purple Cube | 13.00% | ~92,780 |
-| Supraball Noob | 13.00% | ~92,780 |
-| Health Drink | 12.00% | ~85,643 |
-| Helped a star | 12.00% | ~85,643 |
-| Strong | 12.00% | ~85,643 |
-| Blue King's lair | 11.00% | ~78,506 |
-| Got the gun back | 11.00% | ~78,506 |
-| Infiltrated | 11.00% | ~78,506 |
-| Robbed | 11.00% | ~78,506 |
+| Out of bed | 99.00% | ~706,563 |
+| The Blues | 85.00% | ~606,645 |
+| Fast | 66.00% | ~471,042 |
+| Healthbar | 55.00% | ~392,535 |
+| Force Cube | 53.00% | ~378,261 |
+| Double Jump | 48.00% | ~342,576 |
+| Regeneration | 47.00% | ~335,439 |
+| Climb the hill | 42.00% | ~299,754 |
+| Triple Jump | 42.00% | ~299,754 |
+| Through the fire pipe | 38.00% | ~271,206 |
+| MacGuffin | 37.00% | ~264,069 |
+| Just once | 36.00% | ~256,932 |
+| Armor | 30.00% | ~214,110 |
+| True holy spirit | 27.00% | ~192,699 |
+| That's how electronics work obviously | 26.00% | ~185,562 |
+| Force Cube Catapult | 25.00% | ~178,425 |
+| Holy Sword | 23.00% | ~164,151 |
+| Telefrag | 22.00% | ~157,014 |
+| Freed from prison | 21.00% | ~149,877 |
+| Stomp | 21.00% | ~149,877 |
+| Double Health | 18.00% | ~128,466 |
+| Buckle | 17.00% | ~121,329 |
+| Green Keycard | 17.00% | ~121,329 |
+| Rattle Hag | 15.00% | ~107,055 |
+| All Shells | 14.00% | ~99,918 |
+| Beam | 14.00% | ~99,918 |
+| 9 | 13.00% | ~92,781 |
+| Purple Cube | 13.00% | ~92,781 |
+| Supraball Noob | 13.00% | ~92,781 |
+| Health Drink | 12.00% | ~85,644 |
+| Helped a star | 12.00% | ~85,644 |
+| Strong | 12.00% | ~85,644 |
+| Blue King's lair | 11.00% | ~78,507 |
+| Got the gun back | 11.00% | ~78,507 |
+| Infiltrated | 11.00% | ~78,507 |
+| Robbed | 11.00% | ~78,507 |
 | Payback | 10.00% | ~71,370 |
 | Got the coins back | 10.00% | ~71,370 |
 | Cave Flies | 10.00% | ~71,370 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~714 |
 | DLC: Top of the world | 0.10% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,695 (Ranked 16)  
+Progressed: 713,700 (Ranked 16)  
 Completed: 701 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,10 +173,10 @@ Completed: 701 (0.10%) (Ranked 175)
 | 2023-06-24 | 713,177 | 700 |
 | 2023-06-25 | 713,405 | 700 |
 | 2023-06-26 | 713,584 | 700 |
-| 2023-06-27 | 713,695 | 701 |
+| 2023-06-27 | 713,700 | 701 |
 ## Awards
 Max (Challenging Puzzles): 7,628  (Ranked 42)  
-Sum: 9,935 (Ranked 81)  
+Sum: 9,936 (Ranked 81)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -185,7 +185,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 277 |
 | This game has Amazing Characters | 273 |
 | This game has Amazing Storytelling | 270 |
-| This game has Quickly Understood Controls | 265 |
+| This game has Quickly Understood Controls | 266 |
 | This game is Great for Beginners | 263 |
 | This game is Extremely Fun | 259 |
 | This game has Obsessive Gameplay | 243 |
@@ -306,4 +306,4 @@ Diff (max vs sum): -39
 | 2023-06-24 | 4.61 | - | 7,628 | 9,932 |
 | 2023-06-25 | 4.61 | - | 7,628 | 9,933 |
 | 2023-06-26 | 4.61 | - | 7,628 | 9,934 |
-| 2023-06-27 | 4.61 | - | 7,628 | 9,935 |
+| 2023-06-27 | 4.61 | - | 7,628 | 9,936 |

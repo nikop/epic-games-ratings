@@ -71,9 +71,9 @@
       "ID": "digTreasure1",
       "SetID": "ci65fo0",
       "Name": "The first treasure",
-      "Percentage": 100,
+      "Percentage": 125,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "digTreasure10",
@@ -263,9 +263,9 @@
       "ID": "killStone50",
       "SetID": "ci65fo0",
       "Name": "Stone Crusher",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "killStone500",
@@ -279,17 +279,17 @@
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "killTree50",
       "SetID": "ci65fo0",
       "Name": "Lumberjack",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "killZombie10",
@@ -447,9 +447,9 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 100,
+      "Percentage": 125,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "questDeadArtifact",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:03:12.1421565+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:02:24.2085344+00:00",
   "LastUpdate_AppInfo": "2023-06-21T07:59:14.4735119+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:57:21.3933761+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:03:12.1422371+00:00"
+  "LastUpdate_Ratings": "2023-06-27T15:57:12.0210849+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:02:24.2086254+00:00"
 }

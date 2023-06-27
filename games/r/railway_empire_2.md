@@ -27,9 +27,9 @@ Rating: 4.33 (Ranked 753)
 | Stoker | 33.00% | ~459 |
 | Full Steam ahead | 31.00% | ~432 |
 | Bull and bear | 31.00% | ~432 |
+| Financial Shark | 29.00% | ~404 |
 | All mine | 28.00% | ~390 |
 | Mole | 28.00% | ~390 |
-| Financial Shark | 28.00% | ~390 |
 | Country Life | 26.00% | ~362 |
 | Socializer | 26.00% | ~362 |
 | General Manager | 24.00% | ~334 |
@@ -41,8 +41,8 @@ Rating: 4.33 (Ranked 753)
 | Traffic Jam | 17.00% | ~237 |
 | Assimilated | 16.00% | ~223 |
 | Locusts | 16.00% | ~223 |
+| Networker | 16.00% | ~223 |
 | Resistance is futile | 15.00% | ~209 |
-| Networker | 15.00% | ~209 |
 | Settler | 13.00% | ~181 |
 | Max Power | 12.00% | ~167 |
 | Go West | 11.00% | ~153 |

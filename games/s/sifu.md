@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.80% | ~5,682 |
 | Qi Gong: Mind | 0.80% | ~5,682 |
 | I know Kung-Fu | 0.80% | ~5,682 |
-| Deadly Venom | 0.70% | ~136 |
+| Deadly Venom | 0.70% | ~137 |
 | Muk Yan Master | 0.60% | ~4,261 |
 | Tiger on Fire | 0.60% | ~4,261 |
 | Source of Flying Daggers | 0.60% | ~4,261 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.20% | ~1,420 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,199 (Ranked 17)  
+Progressed: 710,201 (Ranked 17)  
 Completed: 12,793 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 12,793 (1.80%) (Ranked 79)
 | 2023-06-24 | 710,074 | 12,790 |
 | 2023-06-25 | 710,133 | 12,790 |
 | 2023-06-26 | 710,168 | 12,793 |
-| 2023-06-27 | 710,199 | 12,793 |
+| 2023-06-27 | 710,201 | 12,793 |
 ## Awards
 Max (Great Boss Battles): 6,213  (Ranked 52)  
 Sum: 10,630 (Ranked 78)  

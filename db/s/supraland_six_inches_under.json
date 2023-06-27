@@ -1552,9 +1552,9 @@
       "ID": "Translocator",
       "SetID": "5lok9mm",
       "Name": "Translocator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1700
     },
     {
       "ID": "TrickleDown",
@@ -1584,8 +1584,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:00:38.2271339+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:00:35.8816112+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:11.5939426+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:59:52.9133501+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:00:38.2271837+00:00"
+  "LastUpdate_Ratings": "2023-06-27T15:59:48.6524395+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:00:35.881661+00:00"
 }

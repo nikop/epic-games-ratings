@@ -17,10 +17,10 @@
 | Brain Chopper | 19.00% | ~12 |
 | Night Bird | 14.00% | ~9 |
 | Demolition Ambition | 13.00% | ~8 |
+| Hindenburgerer | 8.00% | ~5 |
 | Punchy Wagon | 8.00% | ~5 |
 | Kill All Humans! | 8.00% | ~5 |
-| Hindenburgerer | 6.00% | ~4 |
-| Holy Terror | 5.00% | ~3 |
+| Holy Terror | 6.00% | ~4 |
 | Midair Affair | 5.00% | ~3 |
 | Plight of the Valkyrie | 5.00% | ~3 |
 | Trash the Planet. | 5.00% | ~3 |

@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,593 |
-| Let There Be Light | 26.00% | ~14,649 |
+| Follow the Light | 33.00% | ~18,594 |
+| Let There Be Light | 26.00% | ~14,650 |
 | Float Like a Butterfly | 25.00% | ~14,086 |
-| Nordic Walking | 20.00% | ~11,268 |
-| Bright Falls' Finest | 20.00% | ~11,268 |
-| Under a Thin Layer of Skin | 17.00% | ~9,578 |
+| Nordic Walking | 20.00% | ~11,269 |
+| Bright Falls' Finest | 20.00% | ~11,269 |
+| Under a Thin Layer of Skin | 17.00% | ~9,579 |
 | Park Ranger | 14.00% | ~7,888 |
 | Paging Mr. Wake | 14.00% | ~7,888 |
-| Back! Back, I Say! | 13.00% | ~7,324 |
-| Finders Keepers | 13.00% | ~7,324 |
+| Back! Back, I Say! | 13.00% | ~7,325 |
+| Finders Keepers | 13.00% | ~7,325 |
 | Sound and Fury | 12.00% | ~6,761 |
 | Missed by a Mile | 12.00% | ~6,761 |
 | Damn Good Cup of Coffee | 12.00% | ~6,761 |
@@ -30,9 +30,9 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 9.00% | ~5,071 |
 | Thunder and Lightning | 9.00% | ~5,071 |
 | Two For the Price of One | 9.00% | ~5,071 |
-| Gatekeeper | 8.00% | ~4,507 |
-| The Lady of the Light | 8.00% | ~4,507 |
-| Energized! | 8.00% | ~4,507 |
+| Gatekeeper | 8.00% | ~4,508 |
+| The Lady of the Light | 8.00% | ~4,508 |
+| Energized! | 8.00% | ~4,508 |
 | A Friend in Need | 8.00% | ~1,585 |
 | What Light Through Yonder Window | 7.00% | ~3,944 |
 | Right of Way | 7.00% | ~3,944 |
@@ -41,7 +41,7 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,189 |
 | Drink 'Em Both Up | 5.00% | ~2,817 |
 | Hardboiled Writer | 5.00% | ~2,817 |
-| Ding! | 5.00% | ~990 |
+| Ding! | 5.00% | ~991 |
 | Children of the Elder God | 4.00% | ~2,254 |
 | KBF-FM | 4.00% | ~2,254 |
 | Boob Tube | 3.00% | ~1,690 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,342 (Ranked 79)  
+Progressed: 56,345 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.10%) (Ranked 175)
 | 2023-06-24 | 56,152 | 56 |
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
-| 2023-06-27 | 56,342 | 56 |
+| 2023-06-27 | 56,345 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

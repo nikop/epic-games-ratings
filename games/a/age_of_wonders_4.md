@@ -5,6 +5,7 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 0.20% | ~10 |
 | Tipping the Scales | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -14,7 +15,6 @@ Rating: 4.59 (Ranked 410)
 | Arch Mage | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
-| Secret Technique | 0.10% | ~5 |
 | Walls Cannot Stop Us | 0.10% | ~5 |
 | Bone Peddler | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
@@ -29,6 +29,7 @@ Rating: 4.59 (Ranked 410)
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
+| The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
@@ -47,7 +48,6 @@ Rating: 4.59 (Ranked 410)
 | Eternal Lord | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Impenetrable Fortress | 0.00% | ~0 |
-| The Eternal Court | 0.00% | ~0 |
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |

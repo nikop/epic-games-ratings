@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 251964,
+  "EOS_Progressed": 251967,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7495,6 +7495,11 @@
       "Time": "2023-06-27T15:04:18.6884483+00:00",
       "NumProgressed": 251964,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-27T16:04:11.8436632+00:00",
+      "NumProgressed": 251967,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7506,7 +7511,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17637
+      "UsersEstimate": 17638
     },
     {
       "ID": "Act2",
@@ -7554,7 +7559,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78109
+      "UsersEstimate": 78110
     },
     {
       "ID": "BackHomeNTimes",
@@ -7610,7 +7615,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25196
+      "UsersEstimate": 25197
     },
     {
       "ID": "CreditLevel2",
@@ -7794,7 +7799,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55432
+      "UsersEstimate": 55433
     },
     {
       "ID": "KillOthers2",
@@ -7898,7 +7903,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25196
+      "UsersEstimate": 25197
     },
     {
       "ID": "ReachNDays2",
@@ -7953,7 +7958,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 251964,
+      "Progressed": 251967,
       "Completed": 2
     }
   ],
@@ -7961,8 +7966,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-27T13:16:35.2177975+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:04:18.6884473+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:04:11.8436627+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:00:06.5684249+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:04:18.6885456+00:00"
+  "LastUpdate_Ratings": "2023-06-27T16:00:02.5992464+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:04:11.8437537+00:00"
 }

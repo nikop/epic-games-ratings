@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -791,6 +791,11 @@
       "Time": "2023-06-27T11:04:11.018311+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T16:03:56.2659486+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -890,7 +895,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "objective_headquarters_20",
@@ -912,9 +917,9 @@
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -978,7 +983,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1042,7 +1047,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1056,9 +1061,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1082,7 +1087,7 @@
       "Name": "Shock Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -1090,7 +1095,7 @@
       "Name": "Jet Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -1105,14 +1110,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:04:03.5470431+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:03:56.2659479+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-27T15:00:12.6517787+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:04:03.5470792+00:00"
+  "LastUpdate_Ratings": "2023-06-27T16:00:08.7209457+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:03:56.2659832+00:00"
 }

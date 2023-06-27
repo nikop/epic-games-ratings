@@ -2,7 +2,7 @@
   "ID": "281f6bb206c34730901f78aea5d3357a",
   "Name": "XIII",
   "ProductSlug": "xiii-07f8c3",
-  "Ranking_EOS_Progress": 473,
+  "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 99,
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:04.6221882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.1107538+00:00",
   "LastChanged": "2023-03-31T05:58:04.6221883+00:00",
-  "LastChanged_Achievements": "2023-06-27T15:05:48.6692634+00:00",
+  "LastChanged_Achievements": "2023-06-27T16:05:44.4520515+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:14.7486509+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:58:36.3588783+00:00",
-  "LastUpdate_Achievements": "2023-06-27T15:05:48.6692666+00:00"
+  "LastUpdate_Ratings": "2023-06-27T15:58:29.4888675+00:00",
+  "LastUpdate_Achievements": "2023-06-27T16:05:44.452055+00:00"
 }

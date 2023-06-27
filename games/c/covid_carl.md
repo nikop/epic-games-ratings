@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunting for Sport | 0.00% | ~0 |
-| Shots Fired! | 0.00% | ~0 |
-| Covid Carl is a Loser | 0.00% | ~0 |
-| Cat Knight | 0.00% | ~0 |
+| Hunting for Sport | 100.00% | ~1 |
+| Shots Fired! | 100.00% | ~1 |
+| Covid Carl is a Loser | 100.00% | ~1 |
+| Cat Knight | 100.00% | ~1 |
 | The Fall Guy | 0.00% | ~0 |
 | The Burninator | 0.00% | ~0 |
 | Covid Champion | 0.00% | ~0 |
@@ -27,3 +27,10 @@
 | Guns Blazing | 0.00% | ~0 |
 | Knee Deep in the Walking Dead | 0.00% | ~0 |
 | For Gamers by Gamers | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 447)  
+Completed: 0 (0.00%) (Ranked 230)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-27 | 1 | 0 |
