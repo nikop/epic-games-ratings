@@ -1,32 +1,32 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,936 |
-| Wallbanger | 5.00% | ~19,936 |
-| Exploitative | 4.00% | ~15,948 |
-| High Speed Low Drag | 4.00% | ~15,948 |
-| Wet Feet | 4.00% | ~15,948 |
-| Checkpoint Victory | 3.00% | ~11,961 |
-| Lucky | 3.00% | ~11,961 |
-| Stylin' | 3.00% | ~11,961 |
-| Turf War | 3.00% | ~11,961 |
-| Banged | 2.00% | ~7,974 |
-| First Blood | 2.00% | ~7,974 |
-| Flaccid Paralysis | 2.00% | ~7,974 |
-| Push Victory | 2.00% | ~7,974 |
-| Self-destructive | 2.00% | ~7,974 |
+| Point Shooting | 5.00% | ~19,937 |
+| Wallbanger | 5.00% | ~19,937 |
+| Exploitative | 4.00% | ~15,950 |
+| High Speed Low Drag | 4.00% | ~15,950 |
+| Wet Feet | 4.00% | ~15,950 |
+| Checkpoint Victory | 3.00% | ~11,962 |
+| Lucky | 3.00% | ~11,962 |
+| Stylin' | 3.00% | ~11,962 |
+| Turf War | 3.00% | ~11,962 |
+| Banged | 2.00% | ~7,975 |
+| First Blood | 2.00% | ~7,975 |
+| Flaccid Paralysis | 2.00% | ~7,975 |
+| Push Victory | 2.00% | ~7,975 |
+| Self-destructive | 2.00% | ~7,975 |
 | Blindfire | 1.00% | ~3,987 |
 | Efficient | 1.00% | ~3,987 |
 | Ruthless | 1.00% | ~3,987 |
 | Semper Paratus | 1.00% | ~3,987 |
-| Carrying | 0.90% | ~3,588 |
-| Mount & Gun | 0.90% | ~3,588 |
-| Personal | 0.90% | ~3,588 |
+| Carrying | 0.90% | ~3,589 |
+| Mount & Gun | 0.90% | ~3,589 |
+| Personal | 0.90% | ~3,589 |
 | Grounded | 0.80% | ~3,190 |
 | Play to Win | 0.80% | ~3,190 |
 | #1 | 0.70% | ~2,791 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~399 |
 | Road Hazard | 0.10% | ~399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,711 (Ranked 39)  
+Progressed: 398,741 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-24 | 397,196 | 2 |
 | 2023-06-25 | 397,812 | 2 |
 | 2023-06-26 | 398,342 | 2 |
-| 2023-06-27 | 398,711 | 2 |
+| 2023-06-27 | 398,741 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
 Sum: 2,744 (Ranked 167)  

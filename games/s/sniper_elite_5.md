@@ -33,10 +33,10 @@ Rating: 4.47 (Ranked 594)
 | Rigged to Blow | 0.90% | ~28 |
 | No Stone Unturned | 0.80% | ~25 |
 | Opposing Force | 0.80% | ~25 |
+| Fields of Glory | 0.80% | ~25 |
 | My Little Friend | 0.80% | ~25 |
 | Die Nussknacker Sweet! | 0.80% | ~25 |
 | Enemy at the Gates | 0.70% | ~22 |
-| Fields of Glory | 0.70% | ~22 |
 | Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 594)
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,151 (Ranked 144)  
-Completed: 3 (0.10%) (Ranked 175)  
+Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,7 +144,7 @@ Completed: 3 (0.10%) (Ranked 175)
 | 2023-06-24 | 3,118 | 2 |
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
-| 2023-06-27 | 3,151 | 3 |
+| 2023-06-27 | 3,151 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

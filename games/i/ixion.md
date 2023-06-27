@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 438)
 | A Thousand Strong | 11.00% | ~302 |
 | Ready for a New World | 11.00% | ~302 |
 | Permanent Redesigns | 10.00% | ~274 |
+| Ain't Nobody Got Time for That | 9.00% | ~247 |
 | Guy de Borderlands | 8.00% | ~219 |
 | Fully Recycled | 8.00% | ~219 |
-| Ain't Nobody Got Time for That | 8.00% | ~219 |
 | The Ship of Theseus | 8.00% | ~219 |
 | Hope Seeker | 8.00% | ~219 |
 | A Hunk of Junk | 7.00% | ~192 |
@@ -41,11 +41,11 @@ Rating: 4.57 (Ranked 438)
 | Pedal to the Metal | 2.00% | ~55 |
 | Pulsar Disciple | 2.00% | ~55 |
 | Mutual Loyalty | 1.00% | ~27 |
+| Tiqqun Contender | 1.00% | ~27 |
 | Catastrophe Avoided | 1.00% | ~27 |
 | Praise the Hull! | 1.00% | ~27 |
 | Space Greenhouse | 1.00% | ~27 |
 | Help of the Forgotten Member | 1.00% | ~27 |
-| Tiqqun Contender | 0.90% | ~25 |
 | You Had One Job... | 0.90% | ~25 |
 | Tiqqun Unchained | 0.90% | ~25 |
 | Scientifically Accurate | 0.80% | ~22 |

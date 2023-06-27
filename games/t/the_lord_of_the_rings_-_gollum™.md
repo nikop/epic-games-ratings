@@ -15,7 +15,7 @@
 | The Veteran | 18.00% | ~82 |
 | The Traitor | 15.00% | ~68 |
 | The Spider | 14.00% | ~64 |
-| Good as Fish | 10.00% | ~46 |
+| Good as Fish | 11.00% | ~50 |
 | Her Eyes | 10.00% | ~46 |
 | He's so Annoying | 8.00% | ~36 |
 | Gollum/Sméagol | 8.00% | ~36 |

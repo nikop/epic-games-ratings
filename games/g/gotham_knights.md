@@ -34,10 +34,10 @@ Rating: 4.17 (Ranked 857)
 | Voiceless | 2.00% | ~1,321 |
 | Seeking Asylum | 2.00% | ~1,321 |
 | Gotham Knight | 2.00% | ~1,321 |
-| Out of Their League | 1.00% | ~660 |
-| Drone You Out | 1.00% | ~660 |
-| Gotham City Confidential | 1.00% | ~660 |
-| Solid Alibi | 1.00% | ~660 |
+| Out of Their League | 1.00% | ~661 |
+| Drone You Out | 1.00% | ~661 |
+| Gotham City Confidential | 1.00% | ~661 |
+| Solid Alibi | 1.00% | ~661 |
 | Fusion Expert | 0.90% | ~594 |
 | Family Meeting | 0.90% | ~594 |
 | A Worthy Successor | 0.80% | ~528 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,050 (Ranked 72)  
-Completed: 98 (0.15%) (Ranked 166)  
+Progressed: 66,052 (Ranked 72)  
+Completed: 98 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,17 +135,17 @@ Completed: 98 (0.15%) (Ranked 166)
 | 2023-06-24 | 65,942 | 98 |
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
-| 2023-06-27 | 66,050 | 98 |
+| 2023-06-27 | 66,052 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,387  (Ranked 100)  
-Sum: 3,950 (Ranked 138)  
+Sum: 3,951 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,387 |
 | This game has Quickly Understood Controls | 202 |
+| This game is Extremely Fun | 201 |
 | This game is Relaxing | 200 |
-| This game is Extremely Fun | 200 |
 | This game has Amazing Characters | 199 |
 | This game is Great for Beginners | 193 |
 | This game has Diverse Characters | 192 |
@@ -281,4 +281,4 @@ Diff (max vs sum): -38
 | 2023-06-24 | 4.17 | 2,377 | 3,933 |
 | 2023-06-25 | 4.17 | 2,381 | 3,939 |
 | 2023-06-26 | 4.17 | 2,381 | 3,942 |
-| 2023-06-27 | 4.17 | 2,387 | 3,950 |
+| 2023-06-27 | 4.17 | 2,387 | 3,951 |

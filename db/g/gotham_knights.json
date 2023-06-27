@@ -6,9 +6,9 @@
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1710,10 +1710,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3950,
       "NumberOfAwardsMax": 2387
+    },
+    {
+      "Time": "2023-06-27T20:00:07.4576066+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3951,
+      "NumberOfAwardsMax": 2387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3950,
+  "NumberOfAwards": 3951,
   "NumberOfAwardsMax": 2387,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1763,7 +1769,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1778,9 +1784,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66050,
+  "EOS_Progressed": 66052,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7858,6 +7864,11 @@
       "Time": "2023-06-27T19:06:42.1194714+00:00",
       "NumProgressed": 66050,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-06-27T20:06:47.2385483+00:00",
+      "NumProgressed": 66052,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 61,
@@ -8053,7 +8064,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -8085,7 +8096,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "FREEZE_1",
@@ -8325,7 +8336,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -8333,7 +8344,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -8356,22 +8367,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66050,
+      "Progressed": 66052,
       "Completed": 98
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36330,
+      "Progressed": 36332,
       "Completed": 2647
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-27T11:00:01.2358228+00:00",
-  "LastChanged_Achievements": "2023-06-27T19:06:42.1194708+00:00",
+  "LastChanged": "2023-06-27T20:00:07.4576064+00:00",
+  "LastChanged_Achievements": "2023-06-27T20:06:47.2385473+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-27T18:59:56.1008588+00:00",
-  "LastUpdate_Achievements": "2023-06-27T19:06:42.1195696+00:00"
+  "LastUpdate_Ratings": "2023-06-27T20:00:07.4576071+00:00",
+  "LastUpdate_Achievements": "2023-06-27T20:06:47.2387079+00:00"
 }

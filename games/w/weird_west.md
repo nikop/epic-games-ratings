@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Scholar | 25.00% | ~418 |
 | Dishonored | 24.00% | ~401 |
 | The Great Escape | 23.00% | ~384 |
-| That’s All, Folks | 18.00% | ~301 |
+| That’s All, Folks | 19.00% | ~317 |
 | Fallen Star | 16.00% | ~267 |
 | For Balance | 16.00% | ~267 |
 | Here Comes Santa Claus | 16.00% | ~267 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,670 (Ranked 165)  
-Completed: 3 (0.18%) (Ranked 162)  
+Completed: 3 (0.18%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

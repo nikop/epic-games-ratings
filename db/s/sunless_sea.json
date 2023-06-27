@@ -667,9 +667,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 32309,
+  "EOS_Progressed": 32316,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7432,6 +7432,11 @@
       "Time": "2023-06-27T19:02:15.3635959+00:00",
       "NumProgressed": 32309,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-27T20:02:16.8372617+00:00",
+      "NumProgressed": 32316,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -7459,7 +7464,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5493
+      "UsersEstimate": 5494
     },
     {
       "ID": "ach_antiquarian10",
@@ -7467,7 +7472,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ach_combuoy",
@@ -7483,7 +7488,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_contdrownie",
@@ -7507,7 +7512,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach_cursestone",
@@ -7531,7 +7536,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach_deathofermod",
@@ -7563,7 +7568,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11631
+      "UsersEstimate": 11634
     },
     {
       "ID": "ach_die10",
@@ -7579,7 +7584,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ach_dive",
@@ -7611,7 +7616,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach_invictus",
@@ -7635,7 +7640,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ach_legacypupil",
@@ -7651,7 +7656,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "ach_legacysalvager",
@@ -7667,7 +7672,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach_newstories",
@@ -7771,7 +7776,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ach_stranger",
@@ -7795,7 +7800,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "ach_terror100",
@@ -7803,7 +7808,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ach_terror90",
@@ -7811,7 +7816,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "ach_undercurrent",
@@ -7843,7 +7848,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ach_year1",
@@ -7874,15 +7879,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 32309,
+      "Progressed": 32316,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-06-27T19:02:15.3635953+00:00",
+  "LastChanged_Achievements": "2023-06-27T20:02:16.8372611+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2738248+00:00",
-  "LastUpdate_Ratings": "2023-06-27T18:59:47.0217133+00:00",
-  "LastUpdate_Achievements": "2023-06-27T19:02:15.3636802+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:59:57.6176656+00:00",
+  "LastUpdate_Achievements": "2023-06-27T20:02:16.8374115+00:00"
 }

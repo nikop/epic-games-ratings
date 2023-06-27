@@ -6,28 +6,28 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,559 |
-| Man of politics | 35.00% | ~4,745 |
-| Friends of sorts | 34.00% | ~4,610 |
-| Yet another secret | 34.00% | ~4,610 |
-| Let there be darkness | 33.00% | ~4,474 |
-| End of Book One | 31.00% | ~4,203 |
+| Tattletale | 41.00% | ~5,560 |
+| Man of politics | 35.00% | ~4,746 |
+| Friends of sorts | 34.00% | ~4,611 |
+| Yet another secret | 34.00% | ~4,611 |
+| Let there be darkness | 33.00% | ~4,475 |
+| End of Book One | 31.00% | ~4,204 |
 | Garden of Eden | 25.00% | ~3,390 |
-| Wannabe knight | 24.00% | ~3,254 |
-| Full house | 24.00% | ~3,254 |
+| Wannabe knight | 24.00% | ~3,255 |
+| Full house | 24.00% | ~3,255 |
 | Help an old friend | 22.00% | ~2,983 |
 | Two of us | 20.00% | ~2,712 |
-| Negotiation skills | 19.00% | ~2,576 |
-| Workers' union | 19.00% | ~2,576 |
-| End of Book Two | 18.00% | ~2,440 |
+| Negotiation skills | 19.00% | ~2,577 |
+| Workers' union | 19.00% | ~2,577 |
+| End of Book Two | 18.00% | ~2,441 |
 | Everything's in order | 17.00% | ~2,305 |
 | Jack was here! | 15.00% | ~2,034 |
-| Twist of Fate | 14.00% | ~1,898 |
-| Exterminator | 14.00% | ~1,898 |
+| Twist of Fate | 14.00% | ~1,899 |
+| Exterminator | 14.00% | ~1,899 |
 | Whodunnit | 13.00% | ~1,763 |
-| Good midwife | 11.00% | ~1,491 |
-| Friar Tuck | 11.00% | ~1,491 |
-| First profit | 11.00% | ~1,491 |
+| Good midwife | 11.00% | ~1,492 |
+| Friar Tuck | 11.00% | ~1,492 |
+| First profit | 11.00% | ~1,492 |
 | Team player | 10.00% | ~1,356 |
 | Skilled merchant | 9.00% | ~1,220 |
 | Nothing but make-believe | 9.00% | ~1,220 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,220 |
 | A cry for help | 8.00% | ~1,085 |
 | Silentium est aureum | 7.00% | ~949 |
-| Rebel without a cause | 6.00% | ~813 |
+| Rebel without a cause | 6.00% | ~814 |
 | Staring contest champion | 5.00% | ~678 |
 | Lone wolf | 5.00% | ~678 |
 | Vox Populi | 5.00% | ~678 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~407 |
 | Boy of mystery | 2.00% | ~271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,558 (Ranked 109)  
+Progressed: 13,561 (Ranked 109)  
 Completed: 103 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 103 (0.76%) (Ranked 108)
 | 2023-06-24 | 13,485 | 103 |
 | 2023-06-25 | 13,516 | 103 |
 | 2023-06-26 | 13,540 | 103 |
-| 2023-06-27 | 13,558 | 103 |
+| 2023-06-27 | 13,561 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

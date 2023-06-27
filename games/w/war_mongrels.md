@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 62.00% | ~241 |
+| Explorer | 63.00% | ~245 |
 | Cowardice | 55.00% | ~214 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~183 |
 | Eat Lead! | 45.00% | ~175 |
@@ -46,10 +46,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter VIII | 4.00% | ~16 |
 | Collectibles of Chapter X | 4.00% | ~16 |
 | Collectibles of Chapter XI | 4.00% | ~16 |
+| The Good Samaritan | 4.00% | ~16 |
 | Not Spill a Drop | 4.00% | ~16 |
 | Collectibles of Chapter VI | 3.00% | ~12 |
 | Collectibles of Chapter IX | 3.00% | ~12 |
-| The Good Samaritan | 3.00% | ~12 |
 | Daddy Would Be Proud | 2.00% | ~8 |
 | Hold a Door | 1.00% | ~4 |
 | Warm Up | 0.30% | ~1 |

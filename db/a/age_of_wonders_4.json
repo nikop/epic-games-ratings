@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4853,
+  "EOS_Progressed": 4855,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -4616,6 +4616,11 @@
       "Time": "2023-06-27T17:06:31.67579+00:00",
       "NumProgressed": 4853,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-27T20:05:35.8857057+00:00",
+      "NumProgressed": 4855,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 50,
@@ -4625,9 +4630,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "10",
@@ -4665,9 +4670,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "15",
@@ -4681,9 +4686,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "17",
@@ -4705,17 +4710,17 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "20",
@@ -4729,9 +4734,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "22",
@@ -4753,9 +4758,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "25",
@@ -4785,17 +4790,17 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "3",
@@ -4817,9 +4822,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "32",
@@ -4985,9 +4990,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "47",
@@ -5026,13 +5031,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4853,
+      "Progressed": 4855,
       "Completed": 4756
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4853,
+      "Progressed": 4855,
       "Completed": 3
     }
   ],
@@ -5040,8 +5045,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-27T19:05:33.8980124+00:00",
+  "LastChanged_Achievements": "2023-06-27T20:05:35.8857051+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-27T18:59:37.0350431+00:00",
-  "LastUpdate_Achievements": "2023-06-27T19:05:33.898579+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:59:47.881442+00:00",
+  "LastUpdate_Achievements": "2023-06-27T20:05:35.8858284+00:00"
 }

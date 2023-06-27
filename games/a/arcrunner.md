@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Augmented | 8.00% | ~50 |
 | Challenge Accepted | 6.00% | ~38 |
+| The City | 6.00% | ~38 |
 | Nanonic I | 6.00% | ~38 |
 | Terminated I | 6.00% | ~38 |
 | Unlocked and Loaded | 6.00% | ~38 |
-| The City | 5.00% | ~31 |
 | Terminated II | 5.00% | ~31 |
+| Terminated III | 5.00% | ~31 |
 | Challenge Mastered | 4.00% | ~25 |
-| Terminated III | 4.00% | ~25 |
 | Cybernetic | 3.00% | ~19 |
 | Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |

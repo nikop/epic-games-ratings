@@ -19,20 +19,20 @@ Rating: 4.32 (Ranked 759)
 | The Altercation | 50.00% | ~196 |
 | Truth from Within | 49.00% | ~192 |
 | The Major | 47.00% | ~184 |
+| Curious and Beautiful | 45.00% | ~176 |
 | Comtesse Margaux de Vos | 45.00% | ~176 |
-| Curious and Beautiful | 44.00% | ~172 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~172 |
-| The Interrogations | 43.00% | ~168 |
-| Well-acquainted | 41.00% | ~160 |
+| The Interrogations | 44.00% | ~172 |
+| Well-acquainted | 42.00% | ~164 |
 | Zakariya Demir | 41.00% | ~160 |
 | Well-read | 39.00% | ~152 |
 | Cassandra Van den Bosch | 37.00% | ~145 |
-| The Secret | 36.00% | ~141 |
-| Gedeon Demir | 34.00% | ~133 |
+| The Secret | 37.00% | ~145 |
+| Gedeon Demir | 35.00% | ~137 |
 | Rehana Piette | 34.00% | ~133 |
 | Instinct is Marvellous | 32.00% | ~125 |
 | Ernesto da Silva | 32.00% | ~125 |
-| Inge Frank | 30.00% | ~117 |
+| Inge Frank | 31.00% | ~121 |
 | The Search | 30.00% | ~117 |
 | Hugo Beckers | 29.00% | ~113 |
 | The Family | 27.00% | ~106 |
@@ -49,7 +49,7 @@ Rating: 4.32 (Ranked 759)
 | What Else Did I Miss? | 17.00% | ~66 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |
 | Take a Break | 11.00% | ~43 |
-| Room with a View | 7.00% | ~27 |
+| Room with a View | 8.00% | ~31 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 391 (Ranked 224)  

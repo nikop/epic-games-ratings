@@ -1,45 +1,45 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.70 (Ranked 197)  
+Rating: 4.70 (Ranked 198)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~216 |
-| Where's that freaking Dwarf? | 88.00% | ~204 |
-| Sock! SOCK! | 70.00% | ~162 |
+| Alt+F4 | 93.00% | ~217 |
+| Where's that freaking Dwarf? | 88.00% | ~205 |
+| Sock! SOCK! | 70.00% | ~163 |
 | Fireproof Wizardess | 56.00% | ~130 |
 | Livin' in a dwarven paradise | 53.00% | ~123 |
 | Déjà vu | 52.00% | ~121 |
-| GG EZ | 51.00% | ~118 |
-| DM intervention | 46.00% | ~107 |
-| Way of the Wimp | 45.00% | ~104 |
+| GG EZ | 51.00% | ~119 |
+| Way of the Wimp | 45.00% | ~105 |
+| DM intervention | 45.00% | ~105 |
 | Oh, when I'll be level 10... | 37.00% | ~86 |
-| Speedrun | 35.00% | ~81 |
+| Speedrun | 35.00% | ~82 |
 | A beer, two curses, three companions | 34.00% | ~79 |
 | The plot thickens... At the tavern | 33.00% | ~77 |
-| Team Building Exercise | 32.00% | ~74 |
-| Dwarf Fortress | 31.00% | ~72 |
+| Team Building Exercise | 33.00% | ~77 |
 | I am the night | 31.00% | ~72 |
+| Dwarf Fortress | 30.00% | ~70 |
 | The Ranger of Chaos | 30.00% | ~70 |
-| Thieves' Guild Accreditation | 29.00% | ~67 |
-| Look but don't touch | 26.00% | ~60 |
+| Thieves' Guild Accreditation | 29.00% | ~68 |
+| Look but don't touch | 26.00% | ~61 |
 | The demons' feast | 24.00% | ~56 |
 | The Great Library | 24.00% | ~56 |
 | Shiny and Crôm | 22.00% | ~51 |
-| Torture and Sensibility | 22.00% | ~51 |
 | The Statuette of Gladeulfeurah | 22.00% | ~51 |
 | A tale of adventurers not quite like the others... | 22.00% | ~51 |
-| The beards of change | 22.00% | ~51 |
 | Gargantua | 22.00% | ~51 |
 | Material Girl | 22.00% | ~51 |
+| Torture and Sensibility | 21.00% | ~49 |
+| The beards of change | 21.00% | ~49 |
 | In Navalu's footsteps | 19.00% | ~44 |
 | The Woman in the High Castle | 18.00% | ~42 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~42 |
 | Urik's Depths | 16.00% | ~37 |
 | The Blood Countess | 16.00% | ~37 |
-| Cursed die | 14.00% | ~32 |
+| Cursed die | 14.00% | ~33 |
 | Law and Order | 13.00% | ~30 |
 | The Dungeon Master | 12.00% | ~28 |
 | Res Judicata | 12.00% | ~28 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232 (Ranked 252)  
+Progressed: 233 (Ranked 251)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 201 | 0 |
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
-| 2023-06-27 | 232 | 0 |
+| 2023-06-27 | 233 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

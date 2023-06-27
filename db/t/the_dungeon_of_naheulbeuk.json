@@ -2,10 +2,10 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 436,
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 99,
@@ -378,7 +378,7 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1213,6 +1213,11 @@
       "Time": "2023-06-27T18:05:36.2235+00:00",
       "NumProgressed": 232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T20:06:13.1811466+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1232,7 +1237,7 @@
       "Name": "Cursed die",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "AllSideQuest",
@@ -1256,7 +1261,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BookCollection",
@@ -1310,9 +1315,9 @@
       "ID": "Chapter6",
       "SetID": "50chcgj",
       "Name": "Torture and Sensibility",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "Chapter7",
@@ -1624,7 +1629,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "DwarfElf15Support",
@@ -1638,9 +1643,9 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "DwarfInsultWin",
@@ -1656,7 +1661,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ElfEpic",
@@ -1664,7 +1669,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -1688,15 +1693,15 @@
       "Name": "GG EZ",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "EndCombatOneHp",
       "SetID": "50chcgj",
       "Name": "DM intervention",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "EndGameCursed",
@@ -1720,15 +1725,15 @@
       "Name": "Alt\u002BF4",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "FollowBraztok",
       "SetID": "50chcgj",
       "Name": "The beards of change",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "FollowNarzatok",
@@ -1864,7 +1869,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Speedrun",
@@ -1872,15 +1877,15 @@
       "Name": "Speedrun",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "SystematicallyStupid",
@@ -1927,21 +1932,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-27T19:06:09.8321301+00:00",
+  "LastChanged_Achievements": "2023-06-27T20:06:13.1811456+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-27T18:59:11.9266781+00:00",
-  "LastUpdate_Achievements": "2023-06-27T19:06:09.8322574+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:59:21.9681657+00:00",
+  "LastUpdate_Achievements": "2023-06-27T20:06:13.1813543+00:00"
 }

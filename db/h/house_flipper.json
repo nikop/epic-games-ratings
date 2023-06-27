@@ -6,8 +6,8 @@
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1656,9 +1656,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 19775,
+  "EOS_Progressed": 19776,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5171,6 +5171,11 @@
       "Time": "2023-06-27T18:05:49.2196343+00:00",
       "NumProgressed": 19775,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-27T20:06:30.2261765+00:00",
+      "NumProgressed": 19776,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5230,7 +5235,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18588
+      "UsersEstimate": 18589
     },
     {
       "ID": "GameOver",
@@ -5342,7 +5347,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6130
+      "UsersEstimate": 6131
     },
     {
       "ID": "VeronicaLiptson",
@@ -5365,15 +5370,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19775,
+      "Progressed": 19776,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-27T07:59:12.415756+00:00",
-  "LastChanged_Achievements": "2023-06-27T19:06:25.2469087+00:00",
+  "LastChanged_Achievements": "2023-06-27T20:06:30.2261758+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.5603172+00:00",
-  "LastUpdate_Ratings": "2023-06-27T18:59:37.3395159+00:00",
-  "LastUpdate_Achievements": "2023-06-27T19:06:25.2469463+00:00"
+  "LastUpdate_Ratings": "2023-06-27T19:59:48.2204085+00:00",
+  "LastUpdate_Achievements": "2023-06-27T20:06:30.2262389+00:00"
 }

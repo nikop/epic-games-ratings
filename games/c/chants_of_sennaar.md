@@ -21,13 +21,13 @@
 | Feels like springtime | 60.00% | ~6 |
 | Fashion victim | 60.00% | ~6 |
 | In this together | 40.00% | ~4 |
-| Peace walker | 30.00% | ~3 |
-| Half the way | 30.00% | ~3 |
-| Open door | 30.00% | ~3 |
-| Free at last | 20.00% | ~2 |
-| A great audience | 20.00% | ~2 |
+| Peace walker | 40.00% | ~4 |
+| Half the way | 40.00% | ~4 |
+| Open door | 40.00% | ~4 |
+| Free at last | 30.00% | ~3 |
+| A great audience | 30.00% | ~3 |
+| A Link to the Past | 30.00% | ~3 |
 | For its own good | 20.00% | ~2 |
-| A Link to the Past | 20.00% | ~2 |
 | Alchemists Express | 20.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 387)  
