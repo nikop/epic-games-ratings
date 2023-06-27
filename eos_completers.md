@@ -10,7 +10,7 @@
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.58% |
-| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.72% |
+| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.63% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -22,12 +22,12 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.68% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
 | 29 | [Scorn](games/s/scorn.md) | 6.85% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.94% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |

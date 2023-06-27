@@ -225,7 +225,7 @@
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | - | - | - | - |
 | [Barrett Foster Prologue](games/b/barrett_foster_prologue.md) | - | - | 0 | - |
 | [Basingstoke](games/b/basingstoke.md) | - | - | 0 | - |
-| [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 797 | 0 | 501 |
+| [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 796 | 0 | 501 |
 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 259 | 655 | 167 |
 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 88 | 1,463 | 120 |
 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 66 | 5,590 | 58 |
@@ -412,7 +412,7 @@
 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | - | - | 0 | - |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | - | - | - | - |
 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 866 | 0 | 501 |
-| [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 792 | 0 | 501 |
+| [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 796 | 0 | 501 |
 | [Chicken Assassin Reloaded](games/c/chicken_assassin_reloaded.md) | - | - | 0 | - |
 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | - | - | - | - |
 | [Chicken Police - Paint it Red!](games/c/chicken_police_-_paint_it_red!.md) | - | - | 0 | - |
@@ -431,7 +431,7 @@
 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 58 | 0 | 501 |
 | [City of Beats](games/c/city_of_beats.md) | - | - | 0 | - |
 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 820 | 0 | 501 |
-| [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 797 | 27 | 463 |
+| [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 796 | 27 | 463 |
 | [Clad In Iron War of The Pacific 1879](games/c/clad_in_iron_war_of_the_pacific_1879.md) | - | - | 0 | - |
 | [Claire de Lune](games/c/claire_de_lune.md) | - | - | 0 | - |
 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | - | - | 0 | - |
@@ -519,7 +519,7 @@
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | - | - | - | - |
 | [Cyberia](games/c/cyberia.md) | - | - | 0 | - |
 | [Cyberia 2 - Resurrection](games/c/cyberia_2_-_resurrection.md) | - | - | 0 | - |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 344 | 71,159 | 9 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 344 | 71,283 | 9 |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | - | - | - | - |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | - | - | - |
 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 687 | 1,003 | 143 |
@@ -544,12 +544,12 @@
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 362 | 377 | 211 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 549 | 89 | 344 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 387 | 74 | 359 |
-| [Darkwood](games/d/darkwood.md) | 4.61 | 362 | 320 | 226 |
+| [Darkwood](games/d/darkwood.md) | 4.61 | 362 | 320 | 227 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 634 | 0 | 501 |
 | [Dauntless](games/d/dauntless.md) | 4.53 | 505 | 20,375 | 18 |
 | [Dawn Apart](games/d/dawn_apart.md) | - | - | - | - |
 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | - | - | 0 | - |
-| [Days Gone](games/d/days_gone.md) | 4.68 | 241 | 3,850 | 78 |
+| [Days Gone](games/d/days_gone.md) | 4.68 | 241 | 3,852 | 78 |
 | [Days of Doom](games/5/5e9af916f2694cb7baee762a8b9fb64b.md) | - | - | - | - |
 | [Days of War Editor](games/d/days_of_war_editor.md) | - | - | - | - |
 | [DC Dual Force](games/4/405e6edbc5eb46f1bbb9dad2994c20fa.md) | - | - | - | - |
@@ -797,7 +797,7 @@
 | [Fantasy Wars](games/f/fantasy_wars.md) | - | - | 0 | - |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | - | - | - | - |
 | [Far Cry](games/f/far_cry.md) | 4.53 | 505 | 0 | 501 |
-| [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 797 | 0 | 501 |
+| [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 796 | 0 | 501 |
 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 387 | 0 | 501 |
 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 259 | 571 | 178 |
 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 344 | 1,353 | 123 |
@@ -1174,8 +1174,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 420 | 37 | 427 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 344 | 546 | 185 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 143 | 624 | 171 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 778 | 3,658 | 79 |
@@ -1451,7 +1451,7 @@
 | [Moonglow Bay](games/m/moonglow_bay.md) | - | - | 0 | - |
 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 221 | 0 | 501 |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | - | - | - | - |
-| [MORDHAU](games/m/mordhau.md) | 4.41 | 673 | 320 | 226 |
+| [MORDHAU](games/m/mordhau.md) | 4.41 | 673 | 326 | 225 |
 | [Morels: The Hunt](games/m/morels__the_hunt.md) | - | - | 0 | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | - | - | - | - |
 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 787 | 0 | 501 |
@@ -1967,8 +1967,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 180 | 196 | 268 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 661 | 267 | 242 |
@@ -2022,7 +2022,7 @@
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.47 | 594 | 0 | 501 |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | - | - | - | - |
-| [SnowRunner](games/s/snowrunner.md) | 4.76 | 119 | 8,867 | 38 |
+| [SnowRunner](games/s/snowrunner.md) | 4.76 | 119 | 8,881 | 38 |
 | [Snowtopia - Ski Resort Builder](games/s/snowtopia_-_ski_resort_builder.md) | - | - | 0 | - |
 | [Soar](games/s/soar.md) | - | - | - | - |
 | [Soccer Story](games/s/soccer_story.md) | - | - | 0 | - |
@@ -2305,7 +2305,7 @@
 | [The Devil's Face](games/t/the_devil's_face.md) | - | - | - | - |
 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 594 | 7,382 | 45 |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | - | - | - | - |
-| [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 535 | 63 | 379 |
+| [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 535 | 63 | 380 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.70 | 197 | 61 | 384 |
 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 28 | 1,295 | 125 |
 | [The Empress of Mahjong](games/r/royal_defense.md) | - | - | - | - |
@@ -2387,7 +2387,7 @@
 | [The Magnificent Trufflepigs](games/t/the_magnificent_trufflepigs.md) | - | - | 0 | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | - | - | - | - |
 | [The Medium](games/t/the_medium.md) | 4.61 | 362 | 0 | 501 |
-| [The Messenger](games/t/the_messenger.md) | 4.80 | 81 | 320 | 226 |
+| [The Messenger](games/t/the_messenger.md) | 4.80 | 81 | 320 | 227 |
 | [The Metronomicon](games/t/the_metronomicon.md) | - | - | 0 | - |
 | [The Mortuary Assistant](games/t/the_mortuary_assistant.md) | - | - | 0 | - |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | - | - | - | - |
@@ -2406,7 +2406,7 @@
 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 197 | 0 | 501 |
 | [The Riflemen](games/t/the_riflemen.md) | - | - | - | - |
 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 132 | 43 | 412 |
-| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 941 | 63 | 379 |
+| [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 941 | 64 | 377 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | - | - | 0 | - |
 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | - | - | 0 | - |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | - | - | - | - |
@@ -2533,8 +2533,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.46 | 605 | 0 | 501 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.31 | 768 | 41 | 415 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.31 | 768 | 41 | 415 |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 259 | 0 | 501 |
@@ -2587,7 +2587,7 @@
 | [TUNIC](games/t/tunic.md) | 4.85 | 42 | 34 | 436 |
 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | - | - | 0 | - |
 | [TV Head: Eight Pages](games/4/4b7c856ef3a54f0489e21feef74b7d08.md) | - | - | - | - |
-| [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 797 | 0 | 501 |
+| [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 796 | 0 | 501 |
 | [Twinmotion](games/t/twinmotion.md) | - | - | - | - |
 | [Twinsen's Little Big Adventure 2 Remastered](games/t/twinsen's_little_big_adventure_2_remastered.md) | - | - | - | - |
 | [Twinsen's Little Big Adventure Remastered](games/t/twinsen's_little_big_adventure_remastered.md) | - | - | - | - |

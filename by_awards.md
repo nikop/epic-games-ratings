@@ -8,7 +8,7 @@
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 154,091 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 142,766 | 4.52 | 518 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 111,981 | 4.69 | 221 |
-| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,159 | 4.62 | 344 |
+| 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,283 | 4.62 | 344 |
 | 10 | [VALORANT](games/v/valorant.md) | 58,420 | 4.53 | 505 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,347 | 4.58 | 420 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,445 | 4.60 | 387 |
@@ -37,7 +37,7 @@
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,287 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,343 | 4.78 | 100 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,317 | 4.61 | 362 |
-| 38 | [SnowRunner](games/s/snowrunner.md) | 8,867 | 4.76 | 119 |
+| 38 | [SnowRunner](games/s/snowrunner.md) | 8,881 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,369 | 4.60 | 387 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,042 | 4.58 | 420 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,656 | 4.85 | 42 |
@@ -77,7 +77,7 @@
 | 75 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,097 | 4.51 | 535 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,089 | 4.56 | 456 |
 | 77 | [SMITE](games/s/smite.md) | 3,943 | 4.45 | 621 |
-| 78 | [Days Gone](games/d/days_gone.md) | 3,850 | 4.68 | 241 |
+| 78 | [Days Gone](games/d/days_gone.md) | 3,852 | 4.68 | 241 |
 | 79 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,658 | 4.29 | 778 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,482 | 4.47 | 594 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,462 | 4.77 | 108 |
@@ -224,10 +224,10 @@
 | 222 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 343 | 4.76 | 119 |
 | 223 | [Inscryption](games/i/inscryption.md) | 333 | 4.86 | 28 |
 | 224 | [Dungeons 3](games/d/dungeons_3.md) | 328 | 4.66 | 273 |
+| 225 | [MORDHAU](games/m/mordhau.md) | 326 | 4.41 | 673 |
 | 225 | [Tannenberg](games/t/tannenberg.md) | 326 | 4.39 | 702 |
-| 226 | [Darkwood](games/d/darkwood.md) | 320 | 4.61 | 362 |
-| 226 | [MORDHAU](games/m/mordhau.md) | 320 | 4.41 | 673 |
-| 226 | [The Messenger](games/t/the_messenger.md) | 320 | 4.80 | 81 |
+| 227 | [Darkwood](games/d/darkwood.md) | 320 | 4.61 | 362 |
+| 227 | [The Messenger](games/t/the_messenger.md) | 320 | 4.80 | 81 |
 | 229 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 315 | 4.72 | 165 |
 | 230 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 305 | 4.55 | 476 |
 | 231 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 328 |
@@ -377,9 +377,9 @@
 | 374 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 651 |
 | 374 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 313 |
 | 377 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 64 | 4.63 | 328 |
+| 377 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 64 | 3.77 | 941 |
 | 377 | [Ticket to Ride](games/t/ticket_to_ride.md) | 64 | 4.62 | 344 |
-| 379 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 535 |
-| 379 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 63 | 3.77 | 941 |
+| 380 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 535 |
 | 381 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 567 |
 | 381 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 62 | 4.42 | 661 |
 | 381 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 387 |
@@ -463,7 +463,7 @@
 | 461 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 28 | 4.39 | 702 |
 | 461 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 535 |
 | 463 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 742 |
-| 463 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.26 | 797 |
+| 463 | [City of Gangsters](games/c/city_of_gangsters.md) | 27 | 4.26 | 796 |
 | 463 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.57 | 438 |
 | 463 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.68 | 241 |
 | 463 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 27 | 4.81 | 75 |
