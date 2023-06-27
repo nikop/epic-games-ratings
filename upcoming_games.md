@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2023-06-27 | - |  | - | - |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | - |  | - | - |
 | [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-28 | - |  | - | - |
 | [Shrommzzz](games/4/4db2dc09cc0b4051ac65216312c90a5b.md) | 2023-06-28 | - |  | - | - |
@@ -31,6 +30,7 @@
 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 2023-06-30 | - |  | - | - |
 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | 55 (1,000 XP) | 1 | - | - |
 | [SCARY AND DOT](games/b/b9cad2ee3e58423ca7c46a5f8ffee059.md) | 2023-06-30 | - |  | - | - |
+| [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | - |
 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 6 | - | - |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | - |
 | [Arcatron-Z](games/b/b7a1153cbf0f49e497f70e3e9d2e28ba.md) | 2023-07-01 | - |  | - | - |
@@ -50,6 +50,7 @@
 | [Ratchet & Clank: Rift Apart Pre-Purchase](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 2023-07-26 | - |  | - | - |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | - |  | - | - |
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-31 | - |  | - | - |
+| [My Summer Adventure: Memories of Another Life](games/0/02bd18d5942c422db72bcff5b641b0e7.md) | 2023-07-31 | - |  | - | - |
 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 2023-07-31 | 13 (1,000 XP) | 0 | - | - |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
 | [Virus Infinite](games/0/0f0415b3318747949c6d444dc2edd27d.md) | 2023-07-31 | - |  | - | - |
@@ -84,7 +85,7 @@
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-09-30 | - |  | - | - |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | - |  | - | - |
 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 2023-09-30 | - |  | - | - |
-| [Covid Carl](games/c/covid_carl.md) | 2023-09-30 | 23 (1,000 XP) | 0 | - | - |
+| [Covid Carl](games/c/covid_carl.md) | 2023-09-30 | 23 (1,000 XP) | 1 | - | - |
 | [DC Dual Force](games/4/405e6edbc5eb46f1bbb9dad2994c20fa.md) | 2023-09-30 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2023-09-30 | - |  | - | - |
 | [DEVOUR](games/d/devour.md) | 2023-09-30 | - |  | - | - |
