@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1721,6 +1721,11 @@
       "Time": "2023-06-27T11:02:14.8120026+00:00",
       "NumProgressed": 641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T15:02:14.1300833+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1756,7 +1761,7 @@
       "Name": "Archmage 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "archmage_2",
@@ -2018,9 +2023,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "invincible_2",
@@ -2210,9 +2215,9 @@
       "ID": "taste_of_victory_1",
       "SetID": "53c1p3k",
       "Name": "Taste of Victory 1",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "taste_of_victory_2",
@@ -2259,14 +2264,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-27T14:04:24.1543981+00:00",
+  "LastChanged_Achievements": "2023-06-27T15:02:14.1300824+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-06-27T13:58:57.1049598+00:00",
-  "LastUpdate_Achievements": "2023-06-27T14:04:24.1544684+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:57:22.9164749+00:00",
+  "LastUpdate_Achievements": "2023-06-27T15:02:14.1301729+00:00"
 }

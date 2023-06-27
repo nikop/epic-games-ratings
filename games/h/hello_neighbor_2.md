@@ -18,7 +18,7 @@ Rating: 4.43 (Ranked 651)
 | Climber | 23.00% | ~579 |
 | Mad Scientist | 23.00% | ~579 |
 | Imprisonment | 22.00% | ~554 |
-| Dog Person | 19.00% | ~478 |
+| Dog Person | 20.00% | ~503 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,517 (Ranked 152)  
 Completed: 99 (3.93%) (Ranked 40)  

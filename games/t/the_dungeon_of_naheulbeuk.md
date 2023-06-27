@@ -62,11 +62,11 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 4.00% | ~9 |
 | Hit snooze | 4.00% | ~9 |
 | I'd rather... Just... Sing! | 3.00% | ~7 |
+| Deep changes | 3.00% | ~7 |
 | Kudos from your DM | 3.00% | ~7 |
 | Insult to injury | 3.00% | ~7 |
 | Restless night | 2.00% | ~5 |
 | Take your time back in time | 2.00% | ~5 |
-| Deep changes | 2.00% | ~5 |
 | A broken clock… | 2.00% | ~5 |
 | Gloomy Dungeon | 2.00% | ~5 |
 | Power struggle | 2.00% | ~5 |

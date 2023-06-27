@@ -29,14 +29,14 @@ Rating: 4.47 (Ranked 594)
 | Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
+| Precision Is Key | 0.90% | ~28 |
 | No Stone Unturned | 0.80% | ~25 |
-| Precision Is Key | 0.80% | ~25 |
 | Rigged to Blow | 0.80% | ~25 |
 | My Little Friend | 0.80% | ~25 |
 | Die Nussknacker Sweet! | 0.80% | ~25 |
 | Opposing Force | 0.70% | ~22 |
+| Fields of Glory | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
-| Fields of Glory | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |

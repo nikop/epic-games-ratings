@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 438)
 | School's Out | 17.00% | ~1,846 |
 | Smooth Moves | 16.00% | ~1,737 |
 | Today Was a Good Day | 14.00% | ~1,520 |
-| What happens in Las Venturas... | 13.00% | ~1,411 |
+| What happens in Las Venturas... | 13.00% | ~1,412 |
 | Horror of the Santa Maria | 10.00% | ~1,086 |
 | Liberty City State of Mind | 8.00% | ~869 |
 | Original Gangster | 7.00% | ~760 |
@@ -41,7 +41,7 @@ Rating: 4.57 (Ranked 438)
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,857 (Ranked 112)  
+Progressed: 10,858 (Ranked 112)  
 Completed: 24 (0.22%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 24 (0.22%) (Ranked 154)
 | 2023-06-24 | 10,810 | 22 |
 | 2023-06-25 | 10,833 | 23 |
 | 2023-06-26 | 10,850 | 24 |
-| 2023-06-27 | 10,857 | 24 |
+| 2023-06-27 | 10,858 | 24 |
 ## Awards
 Max (Great Boss Battles): 192  (Ranked 270)  
 Sum: 192 (Ranked 364)  

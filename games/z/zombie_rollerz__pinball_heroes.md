@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 90.00% | ~99 |
-| Bullseye! | 85.00% | ~94 |
-| Graduation! | 80.00% | ~88 |
-| Villfir Forest | 78.00% | ~86 |
-| Right in the kisser! | 65.00% | ~72 |
-| Duscot Steamcity | 52.00% | ~57 |
-| The Shaman | 50.00% | ~55 |
+| Level Up! | 90.00% | ~100 |
+| Bullseye! | 86.00% | ~95 |
+| Graduation! | 80.00% | ~89 |
+| Villfir Forest | 78.00% | ~87 |
+| Right in the kisser! | 64.00% | ~71 |
+| Duscot Steamcity | 52.00% | ~58 |
+| The Shaman | 50.00% | ~56 |
+| The Penguin | 48.00% | ~53 |
 | The Thrower | 48.00% | ~53 |
-| The Penguin | 47.00% | ~52 |
 | The Magician | 46.00% | ~51 |
-| The Tunneler | 41.00% | ~45 |
-| Level Up!! | 39.00% | ~43 |
+| The Tunneler | 41.00% | ~46 |
+| Level Up!! | 40.00% | ~44 |
 | The Shield | 38.00% | ~42 |
-| Kill-streak | 34.00% | ~37 |
-| The Bird | 30.00% | ~33 |
+| Kill-streak | 33.00% | ~37 |
+| The Bird | 31.00% | ~34 |
 | The Ninja | 29.00% | ~32 |
+| Inferno Ruins | 28.00% | ~31 |
+| Topped up | 27.00% | ~30 |
 | The Idol | 27.00% | ~30 |
-| Inferno Ruins | 27.00% | ~30 |
-| Topped up | 26.00% | ~29 |
-| Untouchable | 25.00% | ~28 |
-| I'm Rich | 25.00% | ~28 |
+| Untouchable | 24.00% | ~27 |
+| I'm Rich | 24.00% | ~27 |
 | 1 is all I need | 22.00% | ~24 |
 | The Slime | 22.00% | ~24 |
 | The Giant | 20.00% | ~22 |
@@ -32,11 +32,11 @@
 | Out of the Frying Pan... | 19.00% | ~21 |
 | The Blacksmith | 18.00% | ~20 |
 | The Ooze | 16.00% | ~18 |
-| The Assistant | 15.00% | ~16 |
-| The Steampunk | 15.00% | ~16 |
-| Ember | 15.00% | ~16 |
-| Turquoise | 15.00% | ~16 |
-| Verse | 14.00% | ~15 |
+| The Assistant | 15.00% | ~17 |
+| Ember | 15.00% | ~17 |
+| Turquoise | 15.00% | ~17 |
+| The Steampunk | 14.00% | ~16 |
+| Verse | 14.00% | ~16 |
 | The Droid | 11.00% | ~12 |
 | Iron | 11.00% | ~12 |
 | Tested | 9.00% | ~10 |
@@ -78,7 +78,7 @@
 | Adamantite | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 288)  
+Progressed: 111 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-17 | 108 | 0 |
 | 2023-06-19 | 109 | 0 |
 | 2023-06-20 | 110 | 0 |
+| 2023-06-27 | 111 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

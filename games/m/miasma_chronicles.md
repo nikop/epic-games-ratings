@@ -52,10 +52,10 @@ Rating: 4.34 (Ranked 742)
 | Shadow Boxin' | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
+| Silent but Violent | 0.10% | ~1 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
-| Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,191 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 230)  

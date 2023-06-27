@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525937,
+  "EOS_Progressed": 1525945,
   "EOS_Completed": 637,
-  "EOS_NewPlayers": 1519,
+  "EOS_NewPlayers": 1516,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7665,6 +7665,11 @@
       "Time": "2023-06-27T14:06:38.6780789+00:00",
       "NumProgressed": 1525937,
       "NumCompleted": 637
+    },
+    {
+      "Time": "2023-06-27T15:04:36.4062277+00:00",
+      "NumProgressed": 1525945,
+      "NumCompleted": 637
     }
   ],
   "TotalAchievements": 20,
@@ -7724,7 +7729,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137334
+      "UsersEstimate": 137335
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -7788,7 +7793,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137334
+      "UsersEstimate": 137335
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -7796,7 +7801,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13733
+      "UsersEstimate": 13734
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -7835,15 +7840,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1525937,
+      "Progressed": 1525945,
       "Completed": 637
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-27T14:06:38.6780783+00:00",
+  "LastChanged_Achievements": "2023-06-27T15:04:36.406227+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.0971586+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:02:04.206596+00:00",
-  "LastUpdate_Achievements": "2023-06-27T14:06:38.6781354+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:59:54.4152192+00:00",
+  "LastUpdate_Achievements": "2023-06-27T15:04:36.4062838+00:00"
 }

@@ -5,6 +5,7 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tipping the Scales | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -16,20 +17,24 @@ Rating: 4.59 (Ranked 410)
 | Secret Technique | 0.10% | ~5 |
 | Walls Cannot Stop Us | 0.10% | ~5 |
 | Bone Peddler | 0.10% | ~5 |
+| Digging for Treasure | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
 | Stronger Together | 0.10% | ~5 |
+| Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
+| Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
+| Intimidation Tactics | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Here be Dragons | 0.10% | ~5 |
-| Tipping the Scales | 0.10% | ~5 |
+| Duality | 0.10% | ~5 |
 | Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
@@ -40,20 +45,15 @@ Rating: 4.59 (Ranked 410)
 | Enchanted Archipelago | 0.00% | ~0 |
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
-| Digging for Treasure | 0.00% | ~0 |
-| Crimson Caldera | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
-| Fiery Friend | 0.00% | ~0 |
 | Impenetrable Fortress | 0.00% | ~0 |
 | The Eternal Court | 0.00% | ~0 |
-| Intimidation Tactics | 0.00% | ~0 |
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 | Pruning for Progress | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
-| Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,851 (Ranked 132)  

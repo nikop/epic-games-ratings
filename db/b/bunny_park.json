@@ -4,8 +4,8 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "BP-11",
       "SetID": "7fc93f2",
       "Name": "Tropical Summer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "BP-12",
@@ -289,8 +289,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-06-27T14:04:15.2549791+00:00",
+  "LastChanged_Achievements": "2023-06-27T15:02:06.6671268+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:05.0645479+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:00:19.0843696+00:00",
-  "LastUpdate_Achievements": "2023-06-27T14:04:15.254991+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:58:30.0239836+00:00",
+  "LastUpdate_Achievements": "2023-06-27T15:02:06.6671533+00:00"
 }

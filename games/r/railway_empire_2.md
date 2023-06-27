@@ -11,8 +11,8 @@ Rating: 4.33 (Ranked 753)
 | From X to Y | 70.00% | ~974 |
 | Way of Iron | 69.00% | ~960 |
 | Mystery Tour | 67.00% | ~933 |
+| We brake for nobody | 66.00% | ~919 |
 | Brainstorm | 65.00% | ~905 |
-| We brake for nobody | 65.00% | ~905 |
 | Travel Company | 64.00% | ~891 |
 | Mind the Gap | 63.00% | ~877 |
 | All around the World | 61.00% | ~849 |
@@ -21,7 +21,7 @@ Rating: 4.33 (Ranked 753)
 | Poor Devil | 53.00% | ~738 |
 | Producer | 50.00% | ~696 |
 | Apprentice | 42.00% | ~585 |
-| Bridge Builder | 40.00% | ~557 |
+| Bridge Builder | 41.00% | ~571 |
 | Access granted | 35.00% | ~487 |
 | Going once, going twice, sold | 34.00% | ~473 |
 | Stoker | 33.00% | ~459 |
@@ -30,8 +30,8 @@ Rating: 4.33 (Ranked 753)
 | All mine | 28.00% | ~390 |
 | Mole | 28.00% | ~390 |
 | Financial Shark | 28.00% | ~390 |
+| Country Life | 26.00% | ~362 |
 | Socializer | 26.00% | ~362 |
-| Country Life | 25.00% | ~348 |
 | General Manager | 24.00% | ~334 |
 | Hostile Takeover | 24.00% | ~334 |
 | Seven at one stroke | 23.00% | ~320 |

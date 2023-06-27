@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 50.00% | ~125 |
-| Defenses Online | 47.00% | ~118 |
+| Defenses Online | 48.00% | ~120 |
 | Facility Online | 43.00% | ~108 |
 | Corporal | 32.00% | ~80 |
 | Sergeant | 22.00% | ~55 |
@@ -25,10 +25,10 @@
 | Moving On Up | 5.00% | ~12 |
 | Know The Enemy | 4.00% | ~10 |
 | Player Betrayer | 4.00% | ~10 |
+| Major | 4.00% | ~10 |
 | Gold Achiever | 3.00% | ~8 |
 | Silver Achiever | 3.00% | ~8 |
 | Advanced Warfare | 3.00% | ~8 |
-| Major | 3.00% | ~8 |
 | Colonel | 3.00% | ~8 |
 | Battle Ready | 3.00% | ~8 |
 | Control the Skies | 3.00% | ~8 |

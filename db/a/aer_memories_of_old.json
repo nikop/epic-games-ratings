@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13714,
+  "EOS_Progressed": 13717,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -7384,6 +7384,11 @@
       "Time": "2023-06-27T14:08:20.1688077+00:00",
       "NumProgressed": 13714,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-06-27T15:06:02.7558155+00:00",
+      "NumProgressed": 13717,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 20,
@@ -7411,7 +7416,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -7419,7 +7424,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -7435,7 +7440,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -7459,7 +7464,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "FOUND_ERIN",
@@ -7515,7 +7520,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10423
+      "UsersEstimate": 10425
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7523,7 +7528,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "NORTH_FINISHED",
@@ -7554,15 +7559,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13714,
+      "Progressed": 13717,
       "Completed": 286
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-27T14:08:20.1688071+00:00",
+  "LastChanged_Achievements": "2023-06-27T15:06:02.7558149+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:02:10.7371804+00:00",
-  "LastUpdate_Achievements": "2023-06-27T14:08:20.1688658+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:59:59.7185903+00:00",
+  "LastUpdate_Achievements": "2023-06-27T15:06:02.7558935+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "wild-animal-sports-day-2bd1c2",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
     "PcReleaseDate": "2018-08-18T09:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "GYMNASTICS_PRO",
       "SetID": "9fjm696",
       "Name": "Gymnastics Pro",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HURDLES_PRO",
@@ -154,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-06-27T14:05:08.7152916+00:00",
+  "LastChanged_Achievements": "2023-06-27T15:03:18.886373+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:50.9333613+00:00",
-  "LastUpdate_Ratings": "2023-06-27T14:01:46.2560919+00:00",
-  "LastUpdate_Achievements": "2023-06-27T14:05:08.7153021+00:00"
+  "LastUpdate_Ratings": "2023-06-27T14:59:40.0934886+00:00",
+  "LastUpdate_Achievements": "2023-06-27T15:03:18.8863827+00:00"
 }

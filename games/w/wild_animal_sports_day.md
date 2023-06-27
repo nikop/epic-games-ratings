@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Gymnastics Pro | 43.00% | ~3 |
 | Hurdles Pro | 43.00% | ~3 |
 | Watched a movie | 43.00% | ~3 |
-| Gymnastics Pro | 29.00% | ~2 |
 | Pole Vault Pro | 29.00% | ~2 |
 | Skiing Pro | 29.00% | ~2 |
 | Tennis Pro | 29.00% | ~2 |
