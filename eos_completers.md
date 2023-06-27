@@ -5,12 +5,12 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 22.22% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 21.67% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 21.67% |
+| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.58% |
-| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.81% |
+| 11 | [Sonic Origins](games/s/sonic_origins.md) | 14.72% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 13.21% |
@@ -53,7 +53,7 @@
 | 51 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
-| 54 | [Bunny Park](games/b/bunny_park.md) | 3.09% |
+| 54 | [Bunny Park](games/b/bunny_park.md) | 3.08% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -99,7 +99,7 @@
 | 97 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.09% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
-| 100 | [Sable](games/s/sable.md) | 0.95% |
+| 100 | [Sable](games/s/sable.md) | 0.96% |
 | 101 | [Adios](games/a/adios.md) | 0.92% |
 | 102 | [Hades](games/h/hades.md) | 0.89% |
 | 103 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
