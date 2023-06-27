@@ -49,7 +49,7 @@
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.31% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.35% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
