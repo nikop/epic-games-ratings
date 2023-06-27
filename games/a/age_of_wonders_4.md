@@ -5,6 +5,7 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
@@ -19,15 +20,18 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
+| Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
+| Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Here be Dragons | 0.10% | ~5 |
+| Tipping the Scales | 0.10% | ~5 |
+| Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
-| Snap Out of It! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
@@ -38,10 +42,8 @@ Rating: 4.59 (Ranked 410)
 | Digging for Treasure | 0.00% | ~0 |
 | Crimson Caldera | 0.00% | ~0 |
 | Preparation Is Everything | 0.00% | ~0 |
-| Seat of Power | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
-| Against the Odds | 0.00% | ~0 |
 | Impenetrable Fortress | 0.00% | ~0 |
 | The Eternal Court | 0.00% | ~0 |
 | Intimidation Tactics | 0.00% | ~0 |
@@ -51,9 +53,7 @@ Rating: 4.59 (Ranked 410)
 | Pruning for Progress | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
-| Tipping the Scales | 0.00% | ~0 |
 | Duality | 0.00% | ~0 |
-| Blood of the Dragon | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,850 (Ranked 132)  

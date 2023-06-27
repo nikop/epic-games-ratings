@@ -1,46 +1,46 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 620)  
+Rating: 4.45 (Ranked 621)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~388,972 |
-| Hey! That's mine! | 78.00% | ~374,565 |
-| Happy Returns | 77.00% | ~369,763 |
-| Field Promotion | 74.00% | ~355,357 |
-| Leadhead | 71.00% | ~340,951 |
-| Eradicator | 67.00% | ~321,742 |
-| Surplus | 65.00% | ~312,138 |
-| I Spy | 64.00% | ~307,336 |
-| Burn Baby Burn | 59.00% | ~283,325 |
-| Yellow Beats Green | 55.00% | ~264,117 |
-| Salvage Rights | 53.00% | ~254,512 |
-| Pew Pew | 50.00% | ~240,106 |
-| What IS that? | 50.00% | ~240,106 |
-| Close Call | 49.00% | ~235,304 |
-| Penny Pincher | 49.00% | ~235,304 |
-| Arsenal | 46.00% | ~220,898 |
-| Boot Camp | 45.00% | ~216,095 |
-| Flawless Victory | 42.00% | ~201,689 |
-| Confident | 40.00% | ~192,085 |
-| Exterminator | 36.00% | ~172,876 |
-| Sharpshooter | 33.00% | ~158,470 |
-| Great Ball of Fire | 32.00% | ~153,668 |
-| Not So Fast | 32.00% | ~153,668 |
-| No Sale | 30.00% | ~144,064 |
-| Kaboom! | 29.00% | ~139,261 |
-| Liquidator | 29.00% | ~139,261 |
-| High Voltage | 24.00% | ~115,251 |
-| Filthy Rich | 19.00% | ~91,240 |
-| The Not-So-Friendly Skies | 18.00% | ~86,438 |
-| Power Builder | 17.00% | ~81,636 |
-| Pyrrhic Victory | 17.00% | ~81,636 |
-| Death From Above | 16.00% | ~76,834 |
-| Retry | 16.00% | ~76,834 |
-| Head Trauma | 12.00% | ~57,625 |
-| Full Defense | 10.00% | ~48,021 |
+| First Blood | 81.00% | ~388,975 |
+| Hey! That's mine! | 78.00% | ~374,568 |
+| Happy Returns | 77.00% | ~369,766 |
+| Field Promotion | 74.00% | ~355,360 |
+| Leadhead | 71.00% | ~340,953 |
+| Eradicator | 67.00% | ~321,745 |
+| Surplus | 65.00% | ~312,140 |
+| I Spy | 64.00% | ~307,338 |
+| Burn Baby Burn | 59.00% | ~283,327 |
+| Yellow Beats Green | 55.00% | ~264,119 |
+| Salvage Rights | 53.00% | ~254,514 |
+| Pew Pew | 50.00% | ~240,108 |
+| What IS that? | 50.00% | ~240,108 |
+| Close Call | 49.00% | ~235,306 |
+| Penny Pincher | 49.00% | ~235,306 |
+| Arsenal | 46.00% | ~220,899 |
+| Boot Camp | 45.00% | ~216,097 |
+| Flawless Victory | 42.00% | ~201,691 |
+| Confident | 40.00% | ~192,086 |
+| Exterminator | 36.00% | ~172,878 |
+| Sharpshooter | 33.00% | ~158,471 |
+| Great Ball of Fire | 32.00% | ~153,669 |
+| Not So Fast | 32.00% | ~153,669 |
+| No Sale | 30.00% | ~144,065 |
+| Kaboom! | 29.00% | ~139,263 |
+| Liquidator | 29.00% | ~139,263 |
+| High Voltage | 24.00% | ~115,252 |
+| Filthy Rich | 19.00% | ~91,241 |
+| The Not-So-Friendly Skies | 18.00% | ~86,439 |
+| Power Builder | 17.00% | ~81,637 |
+| Pyrrhic Victory | 17.00% | ~81,637 |
+| Death From Above | 16.00% | ~76,835 |
+| Retry | 16.00% | ~76,835 |
+| Head Trauma | 12.00% | ~57,626 |
+| Full Defense | 10.00% | ~48,022 |
 | Overseer | 9.00% | ~43,219 |
 | Annihilator | 8.00% | ~38,417 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,417 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,322 |
 | Master Siege Breaker | 0.80% | ~3,842 |
 | Few and Proud | 0.80% | ~3,842 |
-| Shell-shocked | 0.70% | ~3,361 |
+| Shell-shocked | 0.70% | ~3,362 |
 | Alien Tears | 0.50% | ~2,401 |
 | Full House | 0.40% | ~1,921 |
 | Kickstarter | 0.30% | ~1,441 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~480 |
 | You Monster | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,212 (Ranked 32)  
+Progressed: 480,216 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-24 | 480,024 | 4 |
 | 2023-06-25 | 480,130 | 4 |
 | 2023-06-26 | 480,187 | 4 |
-| 2023-06-27 | 480,212 | 4 |
+| 2023-06-27 | 480,216 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,655 (Ranked 207)  

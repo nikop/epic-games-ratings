@@ -24,7 +24,6 @@
 | Siege Unit | 3.00% | ~91 |
 | Eidola | 3.00% | ~91 |
 | Divine Assemblage | 3.00% | ~91 |
-| Ophiolatreia | 3.00% | ~91 |
 | Comedy and Tragedy | 2.00% | ~61 |
 | Forged in Fire | 2.00% | ~61 |
 | Chthonic Investor | 2.00% | ~61 |
@@ -33,6 +32,7 @@
 | Labour of Apollo | 2.00% | ~61 |
 | Vandili | 2.00% | ~61 |
 | Cloaca Maxima | 2.00% | ~61 |
+| Ophiolatreia | 2.00% | ~61 |
 | Halls of Marble | 2.00% | ~61 |
 | Mors Omnibus | 2.00% | ~61 |
 | Blot Out the Sky | 2.00% | ~61 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,039 (Ranked 145)  
+Progressed: 3,041 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 3,024 | 0 |
 | 2023-06-25 | 3,031 | 0 |
 | 2023-06-26 | 3,037 | 0 |
-| 2023-06-27 | 3,039 | 0 |
+| 2023-06-27 | 3,041 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

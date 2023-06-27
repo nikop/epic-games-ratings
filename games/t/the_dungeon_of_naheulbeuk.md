@@ -17,7 +17,7 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 45.00% | ~104 |
 | Oh, when I'll be level 10... | 37.00% | ~85 |
 | Speedrun | 35.00% | ~81 |
-| A beer, two curses, three companions | 33.00% | ~76 |
+| A beer, two curses, three companions | 34.00% | ~79 |
 | The plot thickens... At the tavern | 32.00% | ~74 |
 | I am the night | 32.00% | ~74 |
 | Team Building Exercise | 32.00% | ~74 |
@@ -30,10 +30,10 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 23.00% | ~53 |
 | Shiny and Crôm | 22.00% | ~51 |
 | Torture and Sensibility | 22.00% | ~51 |
+| The Statuette of Gladeulfeurah | 22.00% | ~51 |
+| A tale of adventurers not quite like the others... | 22.00% | ~51 |
 | The beards of change | 22.00% | ~51 |
 | Material Girl | 22.00% | ~51 |
-| The Statuette of Gladeulfeurah | 21.00% | ~49 |
-| A tale of adventurers not quite like the others... | 21.00% | ~49 |
 | In Navalu's footsteps | 19.00% | ~44 |
 | The Woman in the High Castle | 18.00% | ~42 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~42 |

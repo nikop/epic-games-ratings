@@ -6,23 +6,23 @@ Rating: 4.33 (Ranked 753)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~1,015 |
-| A new Journey | 72.00% | ~1,001 |
-| Departure | 71.00% | ~987 |
-| From X to Y | 70.00% | ~973 |
-| Way of Iron | 69.00% | ~959 |
-| Mystery Tour | 67.00% | ~931 |
+| A new Journey | 72.00% | ~1,002 |
+| Departure | 71.00% | ~988 |
+| From X to Y | 70.00% | ~974 |
+| Way of Iron | 69.00% | ~960 |
+| Mystery Tour | 67.00% | ~932 |
 | Brainstorm | 65.00% | ~904 |
 | We brake for nobody | 65.00% | ~904 |
 | Travel Company | 64.00% | ~890 |
 | Mind the Gap | 63.00% | ~876 |
-| All around the World | 61.00% | ~848 |
-| Right through the middle | 56.00% | ~778 |
+| All around the World | 61.00% | ~849 |
+| Right through the middle | 56.00% | ~779 |
 | Facility Manager | 53.00% | ~737 |
 | Poor Devil | 53.00% | ~737 |
-| Producer | 50.00% | ~695 |
-| Apprentice | 41.00% | ~570 |
-| Bridge Builder | 41.00% | ~570 |
-| Access granted | 35.00% | ~486 |
+| Producer | 50.00% | ~696 |
+| Apprentice | 42.00% | ~584 |
+| Bridge Builder | 40.00% | ~556 |
+| Access granted | 35.00% | ~487 |
 | Going once, going twice, sold | 34.00% | ~473 |
 | Stoker | 32.00% | ~445 |
 | Full Steam ahead | 31.00% | ~431 |
@@ -30,7 +30,7 @@ Rating: 4.33 (Ranked 753)
 | All mine | 28.00% | ~389 |
 | Mole | 28.00% | ~389 |
 | Financial Shark | 28.00% | ~389 |
-| Socializer | 26.00% | ~361 |
+| Socializer | 26.00% | ~362 |
 | Country Life | 25.00% | ~348 |
 | General Manager | 24.00% | ~334 |
 | Hostile Takeover | 24.00% | ~334 |
@@ -39,10 +39,10 @@ Rating: 4.33 (Ranked 753)
 | Breaking Ground | 19.00% | ~264 |
 | Traffic Junction | 18.00% | ~250 |
 | Traffic Jam | 17.00% | ~236 |
-| Assimilated | 16.00% | ~222 |
-| Locusts | 16.00% | ~222 |
-| Resistance is futile | 15.00% | ~208 |
-| Networker | 15.00% | ~208 |
+| Assimilated | 16.00% | ~223 |
+| Locusts | 16.00% | ~223 |
+| Resistance is futile | 15.00% | ~209 |
+| Networker | 15.00% | ~209 |
 | Settler | 13.00% | ~181 |
 | Max Power | 12.00% | ~167 |
 | Go West | 11.00% | ~153 |
@@ -61,7 +61,7 @@ Rating: 4.33 (Ranked 753)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,390 (Ranked 169)  
+Progressed: 1,391 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 1,353 | 0 |
 | 2023-06-25 | 1,367 | 0 |
 | 2023-06-26 | 1,385 | 0 |
-| 2023-06-27 | 1,390 | 0 |
+| 2023-06-27 | 1,391 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

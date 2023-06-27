@@ -4,29 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 83.00% | ~40 |
-| Killing Spree | 67.00% | ~32 |
-| 5Gb HDD | 46.00% | ~22 |
-| Merchant Prince I | 44.00% | ~21 |
-| Dominating | 27.00% | ~13 |
-| Fighting Fit I | 25.00% | ~12 |
-| Rambo I | 21.00% | ~10 |
-| 10Gb HDD | 21.00% | ~10 |
-| The Vette | 17.00% | ~8 |
-| Almost There I | 15.00% | ~7 |
-| Mega Kill | 13.00% | ~6 |
-| Stoic | 13.00% | ~6 |
-| Bronze Prince of Ball-air | 8.00% | ~4 |
+| First Blood | 84.00% | ~41 |
+| Killing Spree | 67.00% | ~33 |
+| 5Gb HDD | 47.00% | ~23 |
+| Merchant Prince I | 45.00% | ~22 |
+| Dominating | 29.00% | ~14 |
+| Fighting Fit I | 27.00% | ~13 |
+| Rambo I | 22.00% | ~11 |
+| 10Gb HDD | 22.00% | ~11 |
+| The Vette | 18.00% | ~9 |
+| Almost There I | 16.00% | ~8 |
+| Mega Kill | 14.00% | ~7 |
+| Stoic | 14.00% | ~7 |
+| Bronze Prince of Ball-air | 10.00% | ~5 |
+| Pacifist | 10.00% | ~5 |
+| Collateral Damage I | 10.00% | ~5 |
 | Omicron Alpha | 8.00% | ~4 |
-| Pacifist | 8.00% | ~4 |
-| Collateral Damage I | 8.00% | ~4 |
 | Galactic Cadet | 6.00% | ~3 |
+| Silver Prince of Ball-air | 6.00% | ~3 |
 | Sectoral Ensign | 4.00% | ~2 |
 | Rambo II | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | Defrosted | 4.00% | ~2 |
 | 25Gb HDD | 4.00% | ~2 |
-| Silver Prince of Ball-air | 4.00% | ~2 |
+| Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |
 | System Ensign | 2.00% | ~1 |
 | Bronze BBQ | 2.00% | ~1 |
@@ -60,7 +61,6 @@
 | Merchant Prince II | 2.00% | ~1 |
 | Fighting Fit II | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
-| Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
 | Archer's Bronze Fate | 0.00% | ~0 |
 | Bronze Alchemist | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 329)  
+Progressed: 49 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,3 +168,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-15 | 45 | 0 |
 | 2023-06-16 | 47 | 0 |
 | 2023-06-25 | 48 | 0 |
+| 2023-06-27 | 49 | 0 |

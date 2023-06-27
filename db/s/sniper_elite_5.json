@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 594,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4642,9 +4642,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -5009,8 +5009,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:06:52.1354359+00:00",
+  "LastChanged_Achievements": "2023-06-27T13:22:40.4939423+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-27T12:00:49.4202672+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:06:52.1355092+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:16:46.6307258+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:22:40.4940154+00:00"
 }

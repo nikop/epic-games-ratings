@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~36,788 |
-| Get Busy Living | 17.00% | ~24,054 |
-| Samuel Norton | 9.00% | ~12,734 |
-| Spare The Rod | 5.00% | ~7,075 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,660 |
-| Don't Put Me In The Dark | 3.00% | ~4,245 |
-| Wait and Hope | 3.00% | ~4,245 |
-| Iron Bars | 3.00% | ~4,245 |
-| Throw The Book At Them | 2.00% | ~2,830 |
+| Stone Walls | 26.00% | ~36,798 |
+| Get Busy Living | 17.00% | ~24,060 |
+| Samuel Norton | 9.00% | ~12,738 |
+| Spare The Rod | 5.00% | ~7,077 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,661 |
+| Don't Put Me In The Dark | 3.00% | ~4,246 |
+| Wait and Hope | 3.00% | ~4,246 |
+| Iron Bars | 3.00% | ~4,246 |
+| Throw The Book At Them | 2.00% | ~2,831 |
 | D.B. Cooper | 1.00% | ~1,415 |
 | Reformation | 0.60% | ~849 |
-| Crowd Control | 0.50% | ~707 |
+| Crowd Control | 0.50% | ~708 |
 | Freedom | 0.40% | ~566 |
 | Confined | 0.40% | ~566 |
-| It's Not What You Know... | 0.10% | ~141 |
-| ... It's What You Can Prove | 0.10% | ~141 |
+| It's Not What You Know... | 0.10% | ~142 |
+| ... It's What You Can Prove | 0.10% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,492 (Ranked 58)  
+Progressed: 141,532 (Ranked 58)  
 Completed: 5 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,15 +91,15 @@ Completed: 5 (0.00%) (Ranked 230)
 | 2023-06-24 | 140,285 | 5 |
 | 2023-06-25 | 140,850 | 5 |
 | 2023-06-26 | 141,317 | 5 |
-| 2023-06-27 | 141,492 | 5 |
+| 2023-06-27 | 141,532 | 5 |
 ## Awards
 Max (Extremely Fun): 445  (Ranked 199)  
-Sum: 3,477 (Ranked 148)  
+Sum: 3,478 (Ranked 148)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 445 |
-| This game is Great for Beginners | 429 |
+| This game is Great for Beginners | 430 |
 | This game is Highly Recommended | 423 |
 | This game has Quickly Understood Controls | 410 |
 | This game is Relaxing | 394 |
@@ -269,3 +269,4 @@ Diff (max vs sum): 51
 | 2023-06-24 | 4.61 | - | 442 | 3,465 |
 | 2023-06-25 | 4.61 | - | 445 | 3,475 |
 | 2023-06-26 | 4.61 | - | 445 | 3,477 |
+| 2023-06-27 | 4.61 | - | 445 | 3,478 |

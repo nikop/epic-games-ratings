@@ -9,7 +9,7 @@ Rating: 4.89 (Ranked 13)
 | Feeling the beat! | 80.00% | ~2,683 |
 | You can pet the cat! | 75.00% | ~2,516 |
 | Who put gears in there? | 68.00% | ~2,281 |
-| Cream of the Crop | 62.00% | ~2,079 |
+| Cream of the Crop | 63.00% | ~2,113 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,079 |
 | You got this, Peppermint? | 57.00% | ~1,912 |
 | Perfect Parry | 55.00% | ~1,845 |
@@ -21,7 +21,7 @@ Rating: 4.89 (Ranked 13)
 | Kissing the sky! | 44.00% | ~1,476 |
 | Does that say weakpoint? | 41.00% | ~1,375 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,342 |
-| The Negotiator | 38.00% | ~1,275 |
+| The Negotiator | 39.00% | ~1,308 |
 | You must like calling me in, Chai | 34.00% | ~1,140 |
 | Out in a puff of smoke | 34.00% | ~1,140 |
 | Headliner | 32.00% | ~1,073 |

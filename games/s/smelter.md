@@ -8,7 +8,7 @@
 | Welcome to the Rumbly Lands! | 89.00% | ~33 |
 | Time to Bash Some Heads! | 81.00% | ~30 |
 | Shiny! | 70.00% | ~26 |
-| Deep in the Mounds | 65.00% | ~24 |
+| Deep in the Mounds | 68.00% | ~25 |
 | Smeltastic! | 35.00% | ~13 |
 | Locked Away | 32.00% | ~12 |
 | A Little Renovating | 30.00% | ~11 |

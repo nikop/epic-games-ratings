@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4260,10 +4260,10 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 281671,
-  "EOS_Completed": 412,
-  "EOS_NewPlayers": 860,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 281677,
+  "EOS_Completed": 413,
+  "EOS_NewPlayers": 858,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -11415,6 +11415,11 @@
       "Time": "2023-06-27T12:05:52.7531827+00:00",
       "NumProgressed": 281671,
       "NumCompleted": 412
+    },
+    {
+      "Time": "2023-06-27T13:21:52.0088279+00:00",
+      "NumProgressed": 281677,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 45,
@@ -11426,7 +11431,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28167
+      "UsersEstimate": 28168
     },
     {
       "ID": "PFA_10",
@@ -11474,7 +11479,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "PFA_16",
@@ -11498,7 +11503,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "PFA_19",
@@ -11506,7 +11511,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "PFA_2",
@@ -11586,7 +11591,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "PFA_29",
@@ -11602,7 +11607,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "PFA_30",
@@ -11642,7 +11647,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "PFA_35",
@@ -11650,7 +11655,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "PFA_36",
@@ -11730,7 +11735,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16900
+      "UsersEstimate": 16901
     },
     {
       "ID": "PFA_45",
@@ -11746,7 +11751,7 @@
       "Name": "The Wise Owl",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "PFA_6",
@@ -11754,7 +11759,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25350
+      "UsersEstimate": 25351
     },
     {
       "ID": "PFA_7",
@@ -11785,16 +11790,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281671,
-      "Completed": 412
+      "Progressed": 281677,
+      "Completed": 413
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-27T11:57:35.6200286+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:05:52.7531819+00:00",
+  "LastChanged_Achievements": "2023-06-27T13:21:52.0088274+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-27T11:57:35.6200294+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:05:52.7532442+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:14:10.6199603+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:21:52.0088891+00:00"
 }

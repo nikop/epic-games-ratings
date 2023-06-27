@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55437,
+  "EOS_Progressed": 55438,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4502,6 +4502,11 @@
       "Time": "2023-06-27T12:03:37.2949564+00:00",
       "NumProgressed": 55437,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-27T13:19:39.064698+00:00",
+      "NumProgressed": 55438,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4689,7 +4694,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "LittleGirl",
@@ -4825,7 +4830,7 @@
       "Name": "Sunflower Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "Teamwork",
@@ -4904,7 +4909,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55437,
+      "Progressed": 55438,
       "Completed": 4
     }
   ],
@@ -4912,8 +4917,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:03:37.2949557+00:00",
+  "LastChanged_Achievements": "2023-06-27T13:19:39.0646976+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:50.6025347+00:00",
-  "LastUpdate_Ratings": "2023-06-27T12:00:50.3760737+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:03:37.2950086+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:16:47.1997875+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:19:39.0647495+00:00"
 }

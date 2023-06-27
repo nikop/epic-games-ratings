@@ -3,8 +3,8 @@
   "Name": null,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -61,9 +61,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_03",
@@ -149,9 +149,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_14",
@@ -253,9 +253,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_27",
@@ -285,17 +285,17 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone collection",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_33",
@@ -347,7 +347,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:03:36.8354116+00:00",
-  "LastUpdate_Ratings": "2023-06-27T11:57:03.5017257+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:03:36.8354328+00:00"
+  "LastChanged_Achievements": "2023-06-27T13:19:38.6926883+00:00",
+  "LastUpdate_Ratings": "2023-06-27T13:13:45.7742328+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:19:38.6927079+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-06-25T15:07:18.9251206+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T13:22:45.4124014+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -273,9 +278,9 @@
       "ID": "BossDefeatedWhilePlayerIsDeadAchievement",
       "SetID": "a8djcgh",
       "Name": "Revenge",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BronzeBabushkaBossDefeatedAchievement",
@@ -289,9 +294,9 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BronzeGilgameshBossDefeatedAchievement",
@@ -401,9 +406,9 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Cleared2001LevelsAchievement",
@@ -633,9 +638,9 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DoveSpacecraftUnlockAchievement",
@@ -825,9 +830,9 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Killed100000EnemiesAchievement",
@@ -857,9 +862,9 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Killed100BossesAchievement",
@@ -875,7 +880,7 @@
       "Name": "Killing Spree",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -889,9 +894,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -929,9 +934,9 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Killed50BossesAchievement",
@@ -961,17 +966,17 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -993,9 +998,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1073,9 +1078,9 @@
       "ID": "SilverBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Prince of Ball-air",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SilverGilgameshBossDefeatedAchievement",
@@ -1217,9 +1222,9 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "VisitLostLord50TimeAchievement",
@@ -1249,9 +1254,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1273,9 +1278,9 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "VisitOverlord50TimeAchievement",
@@ -1305,9 +1310,9 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "VisitRegular2000TimeAchievement",
@@ -1322,14 +1327,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:06:58.0330163+00:00",
+  "LastChanged_Achievements": "2023-06-27T13:22:45.412401+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.8899731+00:00",
-  "LastUpdate_Ratings": "2023-06-27T11:59:02.262047+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:06:58.0331692+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:15:20.7490669+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:22:45.4125518+00:00"
 }

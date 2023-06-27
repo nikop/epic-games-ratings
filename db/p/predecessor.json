@@ -2,13 +2,13 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -1792,10 +1792,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 814,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-06-27T13:16:44.1074758+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 816,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 814,
+  "NumberOfAwards": 816,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1839,7 +1845,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1857,7 +1863,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 76
+      "Count": 77
     }
   ],
   "EOS_Progressed": 0,
@@ -1872,8 +1878,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-06-27T04:00:49.7213732+00:00",
+  "LastChanged": "2023-06-27T13:16:44.1074757+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:45.8075213+00:00",
-  "LastUpdate_Ratings": "2023-06-27T12:00:46.4975116+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:06:18.56687+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:16:44.1074762+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:22:12.4753934+00:00"
 }

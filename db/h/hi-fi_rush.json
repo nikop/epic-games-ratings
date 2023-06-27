@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -3833,9 +3833,9 @@
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2113
     },
     {
       "ID": "Ach003",
@@ -3849,9 +3849,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1308
     },
     {
       "ID": "Ach005",
@@ -4328,8 +4328,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-06-27T12:06:54.1795829+00:00",
+  "LastChanged_Achievements": "2023-06-27T13:22:42.0312256+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:24.1348277+00:00",
-  "LastUpdate_Ratings": "2023-06-27T11:58:48.8573723+00:00",
-  "LastUpdate_Achievements": "2023-06-27T12:06:54.1796466+00:00"
+  "LastUpdate_Ratings": "2023-06-27T13:15:10.0254474+00:00",
+  "LastUpdate_Achievements": "2023-06-27T13:22:42.0312993+00:00"
 }

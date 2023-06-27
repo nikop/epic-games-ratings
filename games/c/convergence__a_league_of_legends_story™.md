@@ -11,6 +11,7 @@
 | Rail Rat | 13.00% | ~95 |
 | Cartographer | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~87 |
+| The Man Who Shattered Time | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
 | Make Up For Lost Time | 12.00% | ~87 |
 | Time Flies | 12.00% | ~87 |
@@ -20,15 +21,14 @@
 | Fast Learner | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | The Brass Boss | 12.00% | ~87 |
+| The Family Fortune | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~80 |
-| The Man Who Shattered Time | 11.00% | ~80 |
 | No, Thanks! | 11.00% | ~80 |
 | Breaking Down Barriers | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
 | Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
-| The Family Fortune | 11.00% | ~80 |
 | Right On Time | 10.00% | ~73 |
 | Street Style | 10.00% | ~73 |
 | Whiz Kid | 9.00% | ~65 |
