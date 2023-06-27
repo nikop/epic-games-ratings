@@ -6,40 +6,40 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 98.00% | ~77,227 |
-| No Escape | 86.00% | ~67,771 |
-| Seeker of Power | 85.00% | ~66,983 |
-| Hopes and Dreams | 82.00% | ~64,618 |
-| Lantern Smasher | 78.00% | ~61,466 |
-| The Pirate's Way | 74.00% | ~58,314 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,950 |
-| The King of the Dark Elves | 68.00% | ~53,586 |
-| Memories of the Distant Past | 66.00% | ~52,010 |
-| Distortion's Progeny | 63.00% | ~49,646 |
-| Savant | 62.00% | ~48,858 |
-| A Landscape of Memory | 58.00% | ~45,706 |
-| The Wind's Light | 54.00% | ~42,554 |
-| Vague Remembrances | 49.00% | ~38,613 |
-| The Fire's Light | 47.00% | ~37,037 |
-| Phantom Memories | 47.00% | ~37,037 |
-| Imbued Memories | 46.00% | ~36,249 |
-| The Earth's Light | 45.00% | ~35,461 |
-| Shared Recollections | 42.00% | ~33,097 |
-| The Water's Light | 40.00% | ~31,521 |
-| Path of the Sage | 40.00% | ~31,521 |
-| Malice Takes Root | 37.00% | ~29,157 |
-| Path of the Dark Knight | 37.00% | ~29,157 |
-| Path of the Paladin | 37.00% | ~29,157 |
-| Path of the Breaker | 37.00% | ~29,157 |
-| Duty's Course | 36.00% | ~28,369 |
-| Path of the Liberator | 35.00% | ~27,581 |
-| Path of the Tyrant | 35.00% | ~27,581 |
-| Led by the Nose | 34.00% | ~26,793 |
-| Path of the Void Knight | 34.00% | ~26,793 |
-| Path of the Ninja | 33.00% | ~26,005 |
-| Terminus of Fate | 32.00% | ~25,217 |
-| Path of the Assassin | 32.00% | ~25,217 |
-| His Name Is Garland | 32.00% | ~25,217 |
+| Manifestation of the Soul | 97.00% | ~76,441 |
+| No Escape | 86.00% | ~67,772 |
+| Seeker of Power | 85.00% | ~66,984 |
+| Hopes and Dreams | 82.00% | ~64,620 |
+| Lantern Smasher | 78.00% | ~61,468 |
+| The Pirate's Way | 74.00% | ~58,316 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,952 |
+| The King of the Dark Elves | 68.00% | ~53,587 |
+| Memories of the Distant Past | 66.00% | ~52,011 |
+| Distortion's Progeny | 63.00% | ~49,647 |
+| Savant | 62.00% | ~48,859 |
+| A Landscape of Memory | 58.00% | ~45,707 |
+| The Wind's Light | 54.00% | ~42,555 |
+| Vague Remembrances | 49.00% | ~38,614 |
+| The Fire's Light | 47.00% | ~37,038 |
+| Phantom Memories | 47.00% | ~37,038 |
+| Imbued Memories | 46.00% | ~36,250 |
+| The Earth's Light | 45.00% | ~35,462 |
+| Shared Recollections | 42.00% | ~33,098 |
+| The Water's Light | 40.00% | ~31,522 |
+| Path of the Sage | 40.00% | ~31,522 |
+| Malice Takes Root | 37.00% | ~29,158 |
+| Path of the Dark Knight | 37.00% | ~29,158 |
+| Path of the Paladin | 37.00% | ~29,158 |
+| Path of the Breaker | 37.00% | ~29,158 |
+| Duty's Course | 36.00% | ~28,370 |
+| Path of the Liberator | 35.00% | ~27,582 |
+| Path of the Tyrant | 35.00% | ~27,582 |
+| Led by the Nose | 34.00% | ~26,794 |
+| Path of the Void Knight | 34.00% | ~26,794 |
+| Path of the Ninja | 33.00% | ~26,006 |
+| Terminus of Fate | 32.00% | ~25,218 |
+| Path of the Assassin | 32.00% | ~25,218 |
+| His Name Is Garland | 32.00% | ~25,218 |
 | Seeker of Ultimate Power | 23.00% | ~18,125 |
 | Artifact Collector | 22.00% | ~17,337 |
 | True Potential | 21.00% | ~16,549 |
@@ -47,13 +47,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Origin of True Chaos | 20.00% | ~15,761 |
 | Master's Awakening | 19.00% | ~14,973 |
 | Jack-of-All-Trades | 19.00% | ~14,973 |
-| Cycle of Darkness | 16.00% | ~12,608 |
+| Cycle of Darkness | 16.00% | ~12,609 |
 | Job Master | 8.00% | ~6,304 |
 | Crest Bearer | 7.00% | ~5,516 |
 | Strangers' Memories | 3.00% | ~2,364 |
 | A Tale of Origins and Endings | 2.00% | ~1,576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,803 (Ranked 67)  
+Progressed: 78,805 (Ranked 67)  
 Completed: 2,144 (2.72%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 2,144 (2.72%) (Ranked 61)
 | 2023-06-24 | 78,759 | 2,144 |
 | 2023-06-25 | 78,778 | 2,144 |
 | 2023-06-26 | 78,800 | 2,144 |
-| 2023-06-27 | 78,803 | 2,144 |
+| 2023-06-27 | 78,805 | 2,144 |
 ## Awards
 Max (Character Customization): 1,024  (Ranked 140)  
 Sum: 2,580 (Ranked 170)  

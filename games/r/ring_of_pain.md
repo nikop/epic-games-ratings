@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,240 |
-| Uncharted Territory | 89.00% | ~206,035 |
-| Getting A Glimpse | 73.00% | ~168,995 |
-| A Quick Escape | 65.00% | ~150,475 |
-| Explorer | 62.00% | ~143,530 |
-| Defeat The Dark | 61.00% | ~141,215 |
-| An Offering | 61.00% | ~141,215 |
-| Colorful Corpse | 58.00% | ~134,270 |
-| That Was Quick | 56.00% | ~129,640 |
-| A Donation | 56.00% | ~129,640 |
-| Goodbye, Frog Friend | 54.00% | ~125,010 |
-| Heavy Hitter | 53.00% | ~122,695 |
+| First Steps | 96.00% | ~222,241 |
+| Uncharted Territory | 89.00% | ~206,036 |
+| Getting A Glimpse | 73.00% | ~168,996 |
+| A Quick Escape | 65.00% | ~150,476 |
+| Explorer | 62.00% | ~143,531 |
+| Defeat The Dark | 61.00% | ~141,216 |
+| An Offering | 61.00% | ~141,216 |
+| Colorful Corpse | 58.00% | ~134,271 |
+| That Was Quick | 56.00% | ~129,641 |
+| A Donation | 56.00% | ~129,641 |
+| Goodbye, Frog Friend | 54.00% | ~125,011 |
+| Heavy Hitter | 53.00% | ~122,696 |
 | Heartless | 46.00% | ~106,490 |
 | Spine Breaker | 46.00% | ~106,490 |
 | Deflection | 45.00% | ~104,175 |
@@ -119,17 +119,17 @@ Number of Ratings: 15,086  (23.09.2022)
 | Disposal | 0.80% | ~1,852 |
 | Blizzard | 0.80% | ~1,852 |
 | No Swapsies | 0.80% | ~1,852 |
-| Need An Antidote? | 0.70% | ~1,620 |
-| Ignoring Midgame | 0.70% | ~1,620 |
+| Need An Antidote? | 0.70% | ~1,621 |
+| Ignoring Midgame | 0.70% | ~1,621 |
 | A Hard Carry | 0.60% | ~1,389 |
 | Only The Best | 0.60% | ~1,389 |
 | Mastermind | 0.60% | ~1,389 |
 | Nudie Run | 0.60% | ~1,389 |
 | Down Under | 0.50% | ~1,158 |
 | Never Too Many Hats | 0.40% | ~926 |
-| Near Death Experience | 0.30% | ~694 |
+| Near Death Experience | 0.30% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,500 (Ranked 46)  
+Progressed: 231,501 (Ranked 46)  
 Completed: 240 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 240 (0.10%) (Ranked 175)
 | 2023-06-24 | 231,372 | 240 |
 | 2023-06-25 | 231,434 | 240 |
 | 2023-06-26 | 231,493 | 240 |
-| 2023-06-27 | 231,500 | 240 |
+| 2023-06-27 | 231,501 | 240 |
 ## Awards
 Max (Quickly Understood Controls): 1,482  (Ranked 119)  
 Sum: 11,466 (Ranked 75)  

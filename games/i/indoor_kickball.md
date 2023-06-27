@@ -22,8 +22,8 @@
 | Save some water for the fishies | 20.00% | ~12 |
 | Spooky | 20.00% | ~12 |
 | Classroom Secret Spot | 18.00% | ~11 |
+| At least everyone still had fun | 18.00% | ~11 |
 | Bathroom Secret Spot | 16.00% | ~10 |
-| At least everyone still had fun | 16.00% | ~10 |
 | Living Room Secret Spot | 13.00% | ~8 |
 | Angry Dad | 13.00% | ~8 |
 | Interference | 8.00% | ~5 |

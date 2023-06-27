@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6839,
+  "EOS_Progressed": 6840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6685,6 +6685,11 @@
       "Time": "2023-06-27T02:29:49.71575+00:00",
       "NumProgressed": 6839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T03:27:20.7217434+00:00",
+      "NumProgressed": 6840,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6736,23 +6741,23 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1915
     },
     {
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2873
     },
     {
       "ID": "17",
@@ -6816,7 +6821,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "24",
@@ -6920,7 +6925,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "36",
@@ -6944,7 +6949,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "39",
@@ -6952,7 +6957,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "4",
@@ -7144,7 +7149,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "8",
@@ -7167,15 +7172,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6839,
+      "Progressed": 6840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-06-27T02:29:49.7157493+00:00",
+  "LastChanged_Achievements": "2023-06-27T03:27:20.721743+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.3280658+00:00",
-  "LastUpdate_Ratings": "2023-06-27T02:26:42.8573026+00:00",
-  "LastUpdate_Achievements": "2023-06-27T02:29:49.7159096+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:23:29.0243061+00:00",
+  "LastUpdate_Achievements": "2023-06-27T03:27:20.7218431+00:00"
 }

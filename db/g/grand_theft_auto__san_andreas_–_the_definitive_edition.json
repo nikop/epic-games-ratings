@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -478,9 +478,9 @@
       "Count": 192
     }
   ],
-  "EOS_Progressed": 10853,
+  "EOS_Progressed": 10854,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5743,6 +5743,11 @@
       "Time": "2023-06-27T02:33:17.8374406+00:00",
       "NumProgressed": 10853,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-27T03:30:08.0701148+00:00",
+      "NumProgressed": 10854,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -5754,7 +5759,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "ACH02",
@@ -5874,7 +5879,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH17",
@@ -5978,7 +5983,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACH30",
@@ -6033,7 +6038,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10853,
+      "Progressed": 10854,
       "Completed": 24
     }
   ],
@@ -6041,8 +6046,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-26T16:01:00.5070324+00:00",
-  "LastChanged_Achievements": "2023-06-27T02:33:17.83744+00:00",
+  "LastChanged_Achievements": "2023-06-27T03:30:08.070114+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.5561268+00:00",
-  "LastUpdate_Ratings": "2023-06-27T02:27:03.5076669+00:00",
-  "LastUpdate_Achievements": "2023-06-27T02:33:17.8375004+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:23:46.324783+00:00",
+  "LastUpdate_Achievements": "2023-06-27T03:30:08.0701808+00:00"
 }

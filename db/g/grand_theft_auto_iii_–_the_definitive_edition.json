@@ -340,9 +340,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6842,
+  "EOS_Progressed": 6843,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4950,6 +4950,11 @@
       "Time": "2023-06-27T02:29:07.669322+00:00",
       "NumProgressed": 6842,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-27T03:26:44.6083825+00:00",
+      "NumProgressed": 6843,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 29,
@@ -4961,7 +4966,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5679
+      "UsersEstimate": 5680
     },
     {
       "ID": "ACH02",
@@ -5033,7 +5038,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH11",
@@ -5089,7 +5094,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH18",
@@ -5192,7 +5197,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6842,
+      "Progressed": 6843,
       "Completed": 39
     }
   ],
@@ -5200,8 +5205,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-26T03:25:13.4061276+00:00",
-  "LastChanged_Achievements": "2023-06-27T02:29:07.6693216+00:00",
+  "LastChanged_Achievements": "2023-06-27T03:26:44.608382+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-27T02:24:11.0257598+00:00",
-  "LastUpdate_Achievements": "2023-06-27T02:29:07.669385+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:21:25.253407+00:00",
+  "LastUpdate_Achievements": "2023-06-27T03:26:44.6084303+00:00"
 }

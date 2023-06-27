@@ -10,19 +10,19 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~4,172 |
 | Explorer | 53.00% | ~3,625 |
 | Healer | 53.00% | ~3,625 |
-| Aspiring Inventor | 44.00% | ~3,009 |
-| Adventurer | 41.00% | ~2,804 |
+| Aspiring Inventor | 44.00% | ~3,010 |
+| Adventurer | 42.00% | ~2,873 |
 | Famous Healer | 38.00% | ~2,599 |
 | Local Leader | 35.00% | ~2,394 |
-| Famous Explorer | 34.00% | ~2,325 |
-| New Opportunities | 34.00% | ~2,325 |
+| Famous Explorer | 34.00% | ~2,326 |
+| New Opportunities | 34.00% | ~2,326 |
 | Energized | 33.00% | ~2,257 |
 | The Long Haul | 33.00% | ~2,257 |
-| Survivor | 32.00% | ~2,188 |
+| Survivor | 32.00% | ~2,189 |
 | The Great Healer | 31.00% | ~2,120 |
+| Legendary Explorer | 28.00% | ~1,915 |
 | Cleaner | 28.00% | ~1,915 |
 | Catastrofan | 28.00% | ~1,915 |
-| Legendary Explorer | 27.00% | ~1,847 |
 | Finders, Keepers | 26.00% | ~1,778 |
 | Top Notch | 25.00% | ~1,710 |
 | Ice Lakes | 23.00% | ~1,573 |
@@ -30,8 +30,8 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 22.00% | ~1,505 |
 | Real Survivor | 22.00% | ~1,505 |
 | Merchant | 21.00% | ~1,436 |
-| War Never Changes | 19.00% | ~1,299 |
-| Rocket Surgeon | 19.00% | ~1,299 |
+| War Never Changes | 19.00% | ~1,300 |
+| Rocket Surgeon | 19.00% | ~1,300 |
 | Big Game Hunter | 17.00% | ~1,163 |
 | Friendly | 16.00% | ~1,094 |
 | Around the World | 16.00% | ~1,094 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,839 (Ranked 123)  
+Progressed: 6,840 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 6,767 | 0 |
 | 2023-06-25 | 6,807 | 0 |
 | 2023-06-26 | 6,837 | 0 |
-| 2023-06-27 | 6,839 | 0 |
+| 2023-06-27 | 6,840 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 271)  

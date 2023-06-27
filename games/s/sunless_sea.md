@@ -6,10 +6,10 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,615 |
-| Sweet Sorrow | 18.00% | ~5,807 |
+| Sink Beneath the Waves | 36.00% | ~11,616 |
+| Sweet Sorrow | 18.00% | ~5,808 |
 | Rules the Waves | 17.00% | ~5,485 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,839 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,840 |
 | Rival | 14.00% | ~4,517 |
 | Correspondent | 12.00% | ~3,872 |
 | Lose Your Mind | 12.00% | ~3,872 |
@@ -19,10 +19,10 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~3,549 |
 | Shipmate | 11.00% | ~3,549 |
 | One Year at Zee | 8.00% | ~2,581 |
-| Pupil | 7.00% | ~2,258 |
-| Salvager | 7.00% | ~2,258 |
-| Open Your Ears | 7.00% | ~2,258 |
-| The Ascent of Man | 7.00% | ~2,258 |
+| Pupil | 7.00% | ~2,259 |
+| Salvager | 7.00% | ~2,259 |
+| Open Your Ears | 7.00% | ~2,259 |
+| The Ascent of Man | 7.00% | ~2,259 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,613 |
 | Zee Fever | 5.00% | ~1,613 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,291 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,263 (Ranked 91)  
+Progressed: 32,267 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,16 +129,16 @@ Completed: 3 (0.01%) (Ranked 218)
 | 2023-06-24 | 32,110 | 3 |
 | 2023-06-25 | 32,182 | 3 |
 | 2023-06-26 | 32,254 | 3 |
-| 2023-06-27 | 32,263 | 3 |
+| 2023-06-27 | 32,267 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
-Sum: 278 (Ranked 336)  
-Diff (max vs sum): -74  
+Sum: 279 (Ranked 335)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 209 |
+| This game has Amazing Storytelling | 25 |
 | This game has Unique Visuals | 24 |
-| This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -229,3 +229,4 @@ Diff (max vs sum): -74
 | 2023-05-25 | 4.58 | - | 209 | 278 |
 | 2023-05-27 | 4.59 | - | 209 | 278 |
 | 2023-06-05 | 4.58 | - | 209 | 278 |
+| 2023-06-27 | 4.58 | - | 209 | 279 |

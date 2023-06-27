@@ -17,6 +17,7 @@
 | The Wicked Twins | 12.00% | ~87 |
 | The Prince in Heels | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
+| The Brass Boss | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~80 |
 | The Man Who Shattered Time | 11.00% | ~80 |
 | The Harder They Fall | 11.00% | ~80 |
@@ -27,7 +28,6 @@
 | Fast Learner | 11.00% | ~80 |
 | Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
-| The Brass Boss | 11.00% | ~80 |
 | The Family Fortune | 11.00% | ~80 |
 | Right On Time | 10.00% | ~73 |
 | Street Style | 10.00% | ~73 |

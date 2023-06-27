@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56314,
+  "EOS_Progressed": 56316,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
@@ -6197,6 +6197,11 @@
       "Time": "2023-06-27T02:28:08.9109473+00:00",
       "NumProgressed": 56314,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-27T03:26:20.9968742+00:00",
+      "NumProgressed": 56316,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6240,7 +6245,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9573
+      "UsersEstimate": 9574
     },
     {
       "ID": "06",
@@ -6256,7 +6261,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "08",
@@ -6264,7 +6269,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "09",
@@ -6416,7 +6421,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "28",
@@ -6424,7 +6429,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "29",
@@ -6456,7 +6461,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14078
+      "UsersEstimate": 14079
     },
     {
       "ID": "33",
@@ -6680,7 +6685,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "61",
@@ -6736,28 +6741,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56314,
+      "Progressed": 56316,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19782,
+      "Progressed": 19784,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-27T02:28:08.9109465+00:00",
+  "LastChanged_Achievements": "2023-06-27T03:26:20.9968737+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-27T02:23:57.8750348+00:00",
-  "LastUpdate_Achievements": "2023-06-27T02:28:08.9111389+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:21:14.5975694+00:00",
+  "LastUpdate_Achievements": "2023-06-27T03:26:20.9969864+00:00"
 }

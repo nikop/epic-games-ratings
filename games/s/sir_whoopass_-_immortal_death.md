@@ -38,9 +38,9 @@
 | You can't stop me, bro! | 34.00% | ~30 |
 | I'm going to get a concussion | 33.00% | ~29 |
 | Meatballs, coming up! | 30.00% | ~26 |
-| A Megapint...? | 27.00% | ~24 |
+| A Megapint...? | 28.00% | ~25 |
 | Another one bites the iron | 27.00% | ~24 |
-| Ripe Meat Off The Bone! | 25.00% | ~22 |
+| Ripe Meat Off The Bone! | 26.00% | ~23 |
 | Hovering around | 25.00% | ~22 |
 | Kleptomaniac | 24.00% | ~21 |
 | You're not so Big anymore, Boi! | 23.00% | ~20 |
@@ -68,11 +68,11 @@
 | Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |
+| Ancient Ruins of Vitamin D Addition | 3.00% | ~3 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
 | Fifty Shades of Gruyere | 2.00% | ~2 |
-| Ancient Ruins of Vitamin D Addition | 2.00% | ~2 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
 | Ancient Ruins of Stuffed Pantrys | 2.00% | ~2 |

@@ -14,8 +14,8 @@ Rating: 4.68 (Ranked 240)
 | Devoted | 8.00% | ~42 |
 | Gold rush | 7.00% | ~36 |
 | Spirit animal | 6.00% | ~31 |
+| Sneak peek | 5.00% | ~26 |
 | A friend in need... | 5.00% | ~26 |
-| Sneak peek | 4.00% | ~21 |
 | Favorite | 4.00% | ~21 |
 | Fishing fanatic | 4.00% | ~21 |
 | The word around is... | 4.00% | ~21 |

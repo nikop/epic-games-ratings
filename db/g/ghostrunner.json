@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -972,9 +972,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10780,
+  "EOS_Progressed": 10781,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7992,6 +7992,11 @@
       "Time": "2023-06-27T02:33:16.8160789+00:00",
       "NumProgressed": 10780,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-06-27T03:30:07.0205527+00:00",
+      "NumProgressed": 10781,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 45,
@@ -8027,7 +8032,7 @@
       "Name": "Back to hell",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "CantRunCantHide",
@@ -8035,7 +8040,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "DeadInTheAir",
@@ -8155,7 +8160,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "ObedientMachine",
@@ -8195,7 +8200,7 @@
       "Name": "Perfection",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "PreempativeStrike",
@@ -8227,7 +8232,7 @@
       "Name": "Running out of breath",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5929
+      "UsersEstimate": 5930
     },
     {
       "ID": "RunningWild",
@@ -8235,7 +8240,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "Scrapped",
@@ -8267,7 +8272,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "SwordRunner",
@@ -8275,7 +8280,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "SwordToAGunfight",
@@ -8362,21 +8367,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 10780,
+      "Progressed": 10781,
       "Completed": 27
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 10780,
+      "Progressed": 10781,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-06-24T10:58:46.0403007+00:00",
-  "LastChanged_Achievements": "2023-06-27T02:33:16.8160781+00:00",
+  "LastChanged_Achievements": "2023-06-27T03:30:07.0205521+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.718374+00:00",
-  "LastUpdate_Ratings": "2023-06-27T02:24:19.606525+00:00",
-  "LastUpdate_Achievements": "2023-06-27T02:33:16.8161975+00:00"
+  "LastUpdate_Ratings": "2023-06-27T03:21:32.3374394+00:00",
+  "LastUpdate_Achievements": "2023-06-27T03:30:07.020638+00:00"
 }
