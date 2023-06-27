@@ -5,8 +5,8 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.41% |
-| 7 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 22.22% |
+| 6 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 22.22% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 21.67% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.58% |
@@ -63,7 +63,7 @@
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.57% |
+| 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.60% |
 | 65 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
@@ -471,4 +471,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,839 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,840 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

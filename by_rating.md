@@ -80,7 +80,7 @@
 | 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 213 | 259 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 462 |
 | 75 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 501 |
-| 81 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,323 | 51 |
+| 81 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,325 | 51 |
 | 81 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,417 | 98 |
 | 81 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
 | 81 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 501 |
@@ -102,7 +102,7 @@
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 501 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,343 | 36 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 729 | 159 |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,324 | 101 |
+| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,326 | 101 |
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 501 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 918 | 146 |
 | 100 | [Star Atlas](games/s/star_atlas.md) | 4.78 | 0 | 501 |
@@ -234,7 +234,7 @@
 | 221 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 501 |
 | 221 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 501 |
 | 221 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 39 | 422 |
-| 221 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 909 | 147 |
+| 221 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 911 | 147 |
 | 221 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 501 |
 | 221 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 501 |
 | 221 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 501 |
@@ -271,7 +271,7 @@
 | 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 501 |
 | 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 501 |
 | 260 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 501 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,832 | 91 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,835 | 91 |
 | 273 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 415 |
 | 273 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 271 |
 | 273 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 501 |

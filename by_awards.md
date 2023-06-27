@@ -50,7 +50,7 @@
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,720 | 4.74 | 143 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 661 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,550 | 4.71 | 180 |
-| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,323 | 4.80 | 81 |
+| 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,325 | 4.80 | 81 |
 | 52 | [Sifu](games/s/sifu.md) | 6,213 | 4.82 | 66 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,194 | 4.58 | 420 |
 | 54 | [DEATH STRANDING](games/d/death_stranding.md) | 5,977 | 4.77 | 108 |
@@ -90,7 +90,7 @@
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,212 | 4.68 | 240 |
 | 89 | [Hades](games/h/hades.md) | 3,149 | 4.92 | 4 |
 | 90 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,139 | 4.57 | 438 |
-| 91 | [Trackmania](games/t/trackmania.md) | 2,832 | 4.67 | 260 |
+| 91 | [Trackmania](games/t/trackmania.md) | 2,835 | 4.67 | 260 |
 | 92 | [Path of Exile](games/p/path_of_exile.md) | 2,524 | 4.61 | 361 |
 | 93 | [Among Us](games/a/among_us.md) | 2,498 | 4.57 | 438 |
 | 94 | [RAGE 2](games/r/rage_2.md) | 2,479 | 4.27 | 792 |
@@ -100,7 +100,7 @@
 | 98 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,417 | 4.80 | 81 |
 | 99 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,409 | 4.10 | 884 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,387 | 4.17 | 857 |
-| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,324 | 4.78 | 100 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,326 | 4.78 | 100 |
 | 102 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,230 | 4.67 | 260 |
 | 103 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,181 | 4.41 | 672 |
 | 104 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,159 | 4.63 | 328 |
@@ -146,7 +146,7 @@
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 987 | 4.58 | 420 |
 | 145 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 952 | 4.31 | 768 |
 | 146 | [Sonic Mania](games/s/sonic_mania.md) | 918 | 4.78 | 100 |
-| 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 909 | 4.69 | 221 |
+| 147 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 911 | 4.69 | 221 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 880 | 4.75 | 132 |
 | 149 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 873 | 4.55 | 476 |
 | 150 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 860 | 4.44 | 633 |
