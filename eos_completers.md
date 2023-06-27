@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.77% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.65% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -35,9 +35,9 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 36 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.13% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
-| 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.03% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
+| 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.03% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.95% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
@@ -66,14 +66,14 @@
 | 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.57% |
 | 65 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 67 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.39% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.08% |
 | 73 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.07% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.95% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
@@ -92,7 +92,7 @@
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.28% |
 | 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.27% |
 | 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 93 | [Chorus](games/c/chorus.md) | 1.20% |
+| 93 | [Chorus](games/c/chorus.md) | 1.19% |
 | 94 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.18% |
 | 95 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 96 | [Trifox](games/t/trifox.md) | 1.12% |
