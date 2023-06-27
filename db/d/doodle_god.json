@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 44,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "740512",
       "SetID": "4lpaifm",
       "Name": "Honorable Santa",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "844452",
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:05:51.1149547+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:33:11.7385736+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:26.7283835+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:59:07.4010375+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:05:51.114972+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:26:06.0237262+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:33:11.738595+00:00"
 }

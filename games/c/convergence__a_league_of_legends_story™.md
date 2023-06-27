@@ -15,13 +15,13 @@
 | Make Up For Lost Time | 12.00% | ~87 |
 | Time Flies | 12.00% | ~87 |
 | The Wicked Twins | 12.00% | ~87 |
+| The Prince in Heels | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~80 |
 | The Man Who Shattered Time | 11.00% | ~80 |
 | The Harder They Fall | 11.00% | ~80 |
 | No, Thanks! | 11.00% | ~80 |
 | Breaking Down Barriers | 11.00% | ~80 |
-| The Prince in Heels | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
 | Fast Learner | 11.00% | ~80 |
@@ -29,9 +29,9 @@
 | Immaculate Aim | 11.00% | ~80 |
 | The Brass Boss | 11.00% | ~80 |
 | The Family Fortune | 11.00% | ~80 |
-| Right On Time | 10.00% | ~72 |
-| Street Style | 10.00% | ~72 |
-| Whiz Kid | 10.00% | ~72 |
+| Right On Time | 10.00% | ~73 |
+| Street Style | 10.00% | ~73 |
+| Whiz Kid | 10.00% | ~73 |
 | Chaincrawler Explorer | 8.00% | ~58 |
 | Family Memories | 7.00% | ~51 |
 | Sump Explorer | 7.00% | ~51 |
@@ -49,8 +49,8 @@
 | Rungs Was Right | 4.00% | ~29 |
 | Clovemary for Remembering | 3.00% | ~22 |
 | Hexlock for Protection | 3.00% | ~22 |
-| Wunderkind | 2.00% | ~14 |
-| Fitting In | 2.00% | ~14 |
+| Wunderkind | 2.00% | ~15 |
+| Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Wildlife Protection | 0.70% | ~5 |
 | No Time to Waste | 0.70% | ~5 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 195)  
+Progressed: 726 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 4 (0.55%) (Ranked 121)
 | 2023-06-24 | 721 | 4 |
 | 2023-06-25 | 723 | 4 |
 | 2023-06-26 | 725 | 4 |
+| 2023-06-27 | 726 | 4 |

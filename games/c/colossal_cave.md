@@ -8,10 +8,10 @@
 | You're spelunkin' now! | 87.00% | ~72 |
 | The Birdman of The Caves | 52.00% | ~43 |
 | I've Fallen & I Can't Get Up | 51.00% | ~42 |
-| Charmin' the Snake | 35.00% | ~29 |
+| Charmin' the Snake | 36.00% | ~30 |
+| Drums in the Deep | 22.00% | ~18 |
+| Treasure Seeker | 22.00% | ~18 |
 | Bridge Builder | 22.00% | ~18 |
-| Drums in the Deep | 20.00% | ~17 |
-| Treasure Seeker | 20.00% | ~17 |
 | Take the Scenic Route | 13.00% | ~11 |
 | Treasure Hunter | 13.00% | ~11 |
 | Green Thumb Goliath | 13.00% | ~11 |

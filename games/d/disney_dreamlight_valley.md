@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 77.00% | ~4,123 |
-| Photographer | 74.00% | ~3,962 |
-| Valley's Helper | 70.00% | ~3,748 |
-| Constructor | 58.00% | ~3,105 |
-| Renovator | 56.00% | ~2,998 |
-| Bestest Friend | 54.00% | ~2,891 |
-| Banker | 46.00% | ~2,463 |
-| Gardener | 36.00% | ~1,927 |
-| Generous | 26.00% | ~1,392 |
-| Chef Cook | 20.00% | ~1,071 |
-| Miner | 10.00% | ~535 |
-| Duty Bound | 7.00% | ~375 |
-| Angler | 6.00% | ~321 |
-| Thorn Cleaner | 4.00% | ~214 |
+| Goofy's Investor | 77.00% | ~4,132 |
+| Photographer | 74.00% | ~3,971 |
+| Valley's Helper | 70.00% | ~3,756 |
+| Constructor | 58.00% | ~3,112 |
+| Renovator | 56.00% | ~3,005 |
+| Bestest Friend | 54.00% | ~2,898 |
+| Banker | 45.00% | ~2,415 |
+| Gardener | 36.00% | ~1,932 |
+| Generous | 26.00% | ~1,395 |
+| Chef Cook | 20.00% | ~1,073 |
+| Miner | 10.00% | ~537 |
+| Duty Bound | 7.00% | ~376 |
+| Angler | 6.00% | ~322 |
+| Thorn Cleaner | 4.00% | ~215 |
 | Chit Chatter | 3.00% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,354 (Ranked 129)  
-Completed: 153 (2.86%) (Ranked 58)  
+Progressed: 5,366 (Ranked 129)  
+Completed: 153 (2.85%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -41,10 +41,10 @@ Completed: 153 (2.86%) (Ranked 58)
 | 2023-06-24 | 5,088 | 151 |
 | 2023-06-25 | 5,245 | 151 |
 | 2023-06-26 | 5,347 | 152 |
-| 2023-06-27 | 5,354 | 153 |
+| 2023-06-27 | 5,366 | 153 |
 ## Awards
 Max (Great for Beginners): 880  (Ranked 148)  
-Sum: 7,213 (Ranked 103)  
+Sum: 7,215 (Ranked 103)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -52,7 +52,7 @@ Diff (max vs sum): 45
 | This game is Relaxing | 777 |
 | This game is Highly Recommended | 768 |
 | This game has Amazing Characters | 767 |
-| This game has Diverse Characters | 764 |
+| This game has Diverse Characters | 766 |
 | This game has Amazing Storytelling | 736 |
 | This game has Quickly Understood Controls | 722 |
 | This game is Extremely Fun | 720 |
@@ -174,3 +174,4 @@ Diff (max vs sum): 45
 | 2023-06-24 | 4.75 | - | 877 | 7,201 |
 | 2023-06-25 | 4.75 | - | 878 | 7,208 |
 | 2023-06-26 | 4.75 | - | 880 | 7,213 |
+| 2023-06-27 | 4.75 | - | 880 | 7,215 |

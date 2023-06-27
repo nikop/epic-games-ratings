@@ -1,36 +1,36 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.69 (Ranked 221)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,567 |
-| That's a Grand Army | 8.00% | ~4,948 |
-| That is mine! | 8.00% | ~4,948 |
-| Victorious! | 8.00% | ~4,948 |
-| Brothers in Arms | 6.00% | ~3,711 |
-| That's a Grand Navy | 6.00% | ~3,711 |
-| Seriously?! | 6.00% | ~3,711 |
-| For the Glory | 5.00% | ~3,093 |
-| Cold War | 4.00% | ~2,474 |
-| True Catholic | 4.00% | ~2,474 |
+| Until death do us apart | 9.00% | ~5,569 |
+| That's a Grand Army | 8.00% | ~4,950 |
+| That is mine! | 8.00% | ~4,950 |
+| Victorious! | 8.00% | ~4,950 |
+| Brothers in Arms | 6.00% | ~3,713 |
+| That's a Grand Navy | 6.00% | ~3,713 |
+| Seriously?! | 6.00% | ~3,713 |
+| For the Glory | 5.00% | ~3,094 |
+| Cold War | 4.00% | ~2,475 |
+| True Catholic | 4.00% | ~2,475 |
 | Defender of the Faith | 3.00% | ~1,856 |
 | It's all about the money | 3.00% | ~1,856 |
 | Respected | 3.00% | ~1,856 |
 | Truly Divine Ruler | 3.00% | ~1,856 |
-| Agressive Expander | 2.00% | ~1,237 |
-| Blockader | 2.00% | ~1,237 |
-| Combined Arms | 2.00% | ~1,237 |
-| Double the Love | 2.00% | ~1,237 |
-| Gentle Persuasion | 2.00% | ~1,237 |
-| It's all about luck | 2.00% | ~1,237 |
-| My armies are invincible! | 2.00% | ~1,237 |
-| Queen of Conquest | 2.00% | ~1,237 |
-| Royal Authority | 2.00% | ~1,237 |
-| The Princess is in this Castle | 2.00% | ~1,237 |
-| Total Control | 2.00% | ~1,237 |
+| Agressive Expander | 2.00% | ~1,238 |
+| Blockader | 2.00% | ~1,238 |
+| Combined Arms | 2.00% | ~1,238 |
+| Double the Love | 2.00% | ~1,238 |
+| Gentle Persuasion | 2.00% | ~1,238 |
+| It's all about luck | 2.00% | ~1,238 |
+| My armies are invincible! | 2.00% | ~1,238 |
+| Queen of Conquest | 2.00% | ~1,238 |
+| Royal Authority | 2.00% | ~1,238 |
+| The Princess is in this Castle | 2.00% | ~1,238 |
+| Total Control | 2.00% | ~1,238 |
 | All That's Thine Shall Be Mine | 1.00% | ~619 |
 | Azur semé de lis or | 1.00% | ~619 |
 | Bright Spark | 1.00% | ~619 |
@@ -56,20 +56,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~309 |
 | Trophy Hunter | 0.50% | ~309 |
 | Voting Streak | 0.50% | ~309 |
-| Absolutely | 0.40% | ~247 |
-| All Your Trade Are Belong to Us | 0.40% | ~247 |
-| Bleed Them Dry | 0.40% | ~247 |
-| Dude, Where's my Boat? | 0.40% | ~247 |
-| Four For Trade | 0.40% | ~247 |
-| Global Hegemony | 0.40% | ~247 |
-| Grand Coalition | 0.40% | ~247 |
-| In the Name of the Father | 0.40% | ~247 |
-| Italian Ambition | 0.40% | ~247 |
-| Just a Little Patience | 0.40% | ~247 |
-| Live Long and Prosper | 0.40% | ~247 |
-| One Night in Paris | 0.40% | ~247 |
-| Tear Down This Wall | 0.40% | ~247 |
-| The Continuation of Diplomacy | 0.40% | ~247 |
+| Absolutely | 0.40% | ~248 |
+| All Your Trade Are Belong to Us | 0.40% | ~248 |
+| Bleed Them Dry | 0.40% | ~248 |
+| Dude, Where's my Boat? | 0.40% | ~248 |
+| Four For Trade | 0.40% | ~248 |
+| Global Hegemony | 0.40% | ~248 |
+| Grand Coalition | 0.40% | ~248 |
+| In the Name of the Father | 0.40% | ~248 |
+| Italian Ambition | 0.40% | ~248 |
+| Just a Little Patience | 0.40% | ~248 |
+| Live Long and Prosper | 0.40% | ~248 |
+| One Night in Paris | 0.40% | ~248 |
+| Tear Down This Wall | 0.40% | ~248 |
+| The Continuation of Diplomacy | 0.40% | ~248 |
 | A Decent Reserve | 0.30% | ~186 |
 | A Pile of Gold | 0.30% | ~186 |
 | Grand Duchy | 0.30% | ~186 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,853 (Ranked 77)  
+Progressed: 61,876 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -429,7 +429,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 60,738 | 0 |
 | 2023-06-25 | 61,352 | 0 |
 | 2023-06-26 | 61,845 | 0 |
-| 2023-06-27 | 61,853 | 0 |
+| 2023-06-27 | 61,876 | 0 |
 ## Awards
 Max (Educational): 5,452  (Ranked 61)  
 Sum: 45,064 (Ranked 27)  

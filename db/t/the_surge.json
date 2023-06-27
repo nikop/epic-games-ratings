@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,7 +325,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4457,
+  "EOS_Progressed": 4458,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
@@ -1495,6 +1495,11 @@
       "Time": "2023-06-26T14:00:45.9264006+00:00",
       "NumProgressed": 4457,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-27T02:27:54.2662591+00:00",
+      "NumProgressed": 4458,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1514,7 +1519,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -1554,7 +1559,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1562,7 +1567,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1570,7 +1575,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1690,7 +1695,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -1722,7 +1727,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1754,7 +1759,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -2041,15 +2046,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4457,
+      "Progressed": 4458,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:02:08.6989586+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:27:54.2662586+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:57:58.1002559+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:02:08.6990407+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:24:17.6992814+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:27:54.2664035+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7864,
+  "EOS_Progressed": 7865,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3151,6 +3151,11 @@
       "Time": "2023-06-26T22:02:34.1341566+00:00",
       "NumProgressed": 7864,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-27T02:29:09.2988106+00:00",
+      "NumProgressed": 7865,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3160,9 +3165,9 @@
       "ID": "BrainPoolOperation",
       "SetID": "97dk767",
       "Name": "Brain at Full Throttle",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1809
     },
     {
       "ID": "Chatterbox",
@@ -3186,7 +3191,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4955
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3240,9 +3245,9 @@
       "ID": "GoHome",
       "SetID": "97dk767",
       "Name": "Go Home...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2045
     },
     {
       "ID": "HeroSlayer",
@@ -3258,7 +3263,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "LeoniasFall_2",
@@ -3346,22 +3351,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7864,
+      "Progressed": 7865,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-21T22:00:08.8022129+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:03:10.8414736+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:29:09.2988098+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.8787805+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:58:43.8577075+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:03:10.8415032+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:25:29.923349+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:29:09.2988439+00:00"
 }

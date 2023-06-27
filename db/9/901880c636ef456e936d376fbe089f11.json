@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -239,17 +239,17 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 83,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -415,9 +415,9 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 90,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -439,9 +439,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -455,9 +455,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -503,9 +503,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -606,8 +606,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:03:55.9291401+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:30:15.2782655+00:00",
   "LastUpdate_AppInfo": "2023-06-20T03:57:06.8830071+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:57:07.908975+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:03:55.9291863+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:23:01.2774998+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:30:15.2783153+00:00"
 }

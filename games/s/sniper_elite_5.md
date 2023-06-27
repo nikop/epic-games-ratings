@@ -58,6 +58,7 @@ Rating: 4.47 (Ranked 593)
 | Up close and personal | 0.30% | ~9 |
 | Road Rage | 0.30% | ~9 |
 | Shoot for the Moon | 0.30% | ~9 |
+| Can't Outrun A Bullet | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
@@ -67,7 +68,6 @@ Rating: 4.47 (Ranked 593)
 | Master of Rifles | 0.20% | ~6 |
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
-| Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Reich To The Point | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |

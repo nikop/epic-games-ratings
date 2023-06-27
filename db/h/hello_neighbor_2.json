@@ -336,11 +336,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2515,
+  "EOS_Progressed": 2516,
   "EOS_Completed": 99,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.94,
+  "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -1571,6 +1571,11 @@
       "Time": "2023-06-26T20:03:54.4784223+00:00",
       "NumProgressed": 2515,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-27T02:29:27.476277+00:00",
+      "NumProgressed": 2516,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 14,
@@ -1590,7 +1595,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -1606,7 +1611,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -1646,7 +1651,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -1654,7 +1659,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_REUNION",
@@ -1670,7 +1675,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1678,7 +1683,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1686,14 +1691,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2515,
+      "Progressed": 2516,
       "Completed": 99
     }
   ],
@@ -1701,8 +1706,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-17T23:00:39.4140482+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:03:24.2051545+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:29:27.4762766+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:34.7093496+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:59:48.1672626+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:03:24.2051729+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:27:09.3757046+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:29:27.4762956+00:00"
 }

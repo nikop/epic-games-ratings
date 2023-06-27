@@ -34,7 +34,7 @@ Rating: 4.53 (Ranked 505)
 | Complete Arena Faction | 15.00% | ~259 |
 | Complete Redgi's Armory | 8.00% | ~138 |
 | King of Kings | 7.00% | ~121 |
-| A new Warchief rises | 0.80% | ~14 |
+| A new Warchief rises | 0.90% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,726 (Ranked 163)  
 Completed: 8 (0.46%) (Ranked 128)  

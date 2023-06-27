@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -804,9 +804,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6029,
+  "EOS_Progressed": 6030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3564,6 +3564,11 @@
       "Time": "2023-06-26T23:04:37.213962+00:00",
       "NumProgressed": 6029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T02:31:39.0967165+00:00",
+      "NumProgressed": 6030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3615,7 +3620,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "Control_All_Relics",
@@ -3655,7 +3660,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "First_Major_Ally",
@@ -3679,7 +3684,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4764
     },
     {
       "ID": "First_Race_Met",
@@ -3687,7 +3692,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "First_Ship_Designed",
@@ -3695,7 +3700,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "First_Stream_Travel",
@@ -3895,7 +3900,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -3919,7 +3924,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Win_As_Altarian",
@@ -4063,7 +4068,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4040
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4135,7 +4140,7 @@
       "Name": "Win Quickly",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Win_Research",
@@ -4150,15 +4155,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6029,
+      "Progressed": 6030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:04:46.3662321+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:31:39.0967159+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.2479872+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:57:33.6592246+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:04:46.3663225+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:23:40.8805275+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:31:39.0968805+00:00"
 }

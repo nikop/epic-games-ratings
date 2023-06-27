@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -102,6 +102,11 @@
       "Time": "2023-06-10T17:06:06.8419492+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T02:28:33.7623043+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -135,9 +140,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "chapter2",
@@ -161,7 +166,7 @@
       "Name": "Dark and stinky",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "darkVolepain",
@@ -209,7 +214,7 @@
       "Name": "Gotcha",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "iDareYou",
@@ -321,7 +326,7 @@
       "Name": "Stronk",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "superMothBoy",
@@ -335,9 +340,9 @@
       "ID": "theBadPlace",
       "SetID": "5bkacmp",
       "Name": "The Bad Place",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "theGoodPlace",
@@ -361,7 +366,7 @@
       "Name": "Heal thyself",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "theMediumPlace",
@@ -401,7 +406,7 @@
       "Name": "Caged tiger",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "theUnionLeader",
@@ -440,7 +445,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
@@ -448,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:03:06.8796637+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:28:33.7623033+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.0954286+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:59:57.0623279+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:03:06.8796931+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:27:22.82393+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:28:33.7623399+00:00"
 }

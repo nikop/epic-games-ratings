@@ -5,15 +5,15 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,417 |
-| World Map | 79.00% | ~1,191 |
-| Temple of Eternals | 57.00% | ~859 |
-| Prestigious | 54.00% | ~814 |
-| Fellowship Power | 41.00% | ~618 |
+| Victor | 94.00% | ~1,418 |
+| World Map | 79.00% | ~1,192 |
+| Temple of Eternals | 57.00% | ~860 |
+| Prestigious | 54.00% | ~815 |
+| Fellowship Power | 41.00% | ~619 |
 | Guild Power | 24.00% | ~362 |
-| Prestigious x10 | 21.00% | ~316 |
-| The game is on | 19.00% | ~286 |
-| Exotic Merchant | 17.00% | ~256 |
+| Prestigious x10 | 21.00% | ~317 |
+| The game is on | 19.00% | ~287 |
+| Exotic Merchant | 17.00% | ~257 |
 | Dragon Clicker | 16.00% | ~241 |
 | Miner Clicker | 16.00% | ~241 |
 | Full Party | 15.00% | ~226 |
@@ -39,12 +39,12 @@ Rating: 4.07 (Ranked 895)
 | Moving Up The Ladder | 8.00% | ~121 |
 | Relic Of The Past | 8.00% | ~121 |
 | Scroll Master | 8.00% | ~121 |
-| Here We Go Again | 6.00% | ~90 |
-| How Do You Turn This On? | 6.00% | ~90 |
-| Master Enchanter | 6.00% | ~90 |
-| The Expeditioner | 6.00% | ~90 |
-| The father of Dragons | 6.00% | ~90 |
-| Trader | 6.00% | ~90 |
+| Here We Go Again | 6.00% | ~91 |
+| How Do You Turn This On? | 6.00% | ~91 |
+| Master Enchanter | 6.00% | ~91 |
+| The Expeditioner | 6.00% | ~91 |
+| The father of Dragons | 6.00% | ~91 |
+| Trader | 6.00% | ~91 |
 | Ancient Knowledge | 5.00% | ~75 |
 | Crystal Mining | 5.00% | ~75 |
 | Enchanting skill | 5.00% | ~75 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,507 (Ranked 167)  
+Progressed: 1,509 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 1 (0.07%) (Ranked 189)
 | 2023-06-24 | 1,486 | 1 |
 | 2023-06-25 | 1,500 | 1 |
 | 2023-06-26 | 1,507 | 1 |
+| 2023-06-27 | 1,509 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

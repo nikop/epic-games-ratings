@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Get lost! | 91.00% | ~42 |
 | Elevator Pitch | 83.00% | ~38 |
+| Beam me up | 65.00% | ~30 |
 | Rock Bottom | 63.00% | ~29 |
-| Beam me up | 61.00% | ~28 |
 | The end is nigh! | 24.00% | ~11 |
 | Get Together | 24.00% | ~11 |
 | Uncaged | 15.00% | ~7 |

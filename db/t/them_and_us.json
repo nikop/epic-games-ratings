@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -618,9 +618,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -931,8 +931,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-06-27T00:04:14.4292977+00:00",
+  "LastChanged_Achievements": "2023-06-27T02:30:41.8465572+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:13.4317973+00:00",
-  "LastUpdate_Ratings": "2023-06-26T23:57:21.2111655+00:00",
-  "LastUpdate_Achievements": "2023-06-27T00:04:14.429333+00:00"
+  "LastUpdate_Ratings": "2023-06-27T02:23:20.982525+00:00",
+  "LastUpdate_Achievements": "2023-06-27T02:30:41.8465986+00:00"
 }

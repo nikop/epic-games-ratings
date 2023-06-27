@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 801)
 | GOURMET | 8.00% | ~28 |
 | SCATTERBRAIN | 8.00% | ~28 |
 | EXPERIMENTALIST | 7.00% | ~25 |
-| TASTE UNTASTY | 4.00% | ~14 |
+| TASTE UNTASTY | 5.00% | ~18 |
 | HIGH TECHNOLOGIES | 3.00% | ~11 |
 | CORRUPTIONIST | 2.00% | ~7 |
 | I'VE SEEN SOME… | 2.00% | ~7 |
