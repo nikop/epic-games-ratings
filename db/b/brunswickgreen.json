@@ -3,8 +3,8 @@
   "Name": "BrunswickGreen",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:37.8149091+00:00",
-  "LastUpdate_Ratings": "2023-06-27T08:59:47.8281025+00:00",
-  "LastUpdate_Achievements": "2023-06-27T09:05:57.000843+00:00"
+  "LastUpdate_Ratings": "2023-06-27T09:59:40.9862571+00:00",
+  "LastUpdate_Achievements": "2023-06-27T10:05:46.4020212+00:00"
 }

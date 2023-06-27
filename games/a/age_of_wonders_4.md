@@ -6,13 +6,18 @@ Rating: 4.59 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Magic That Empowers Me! | 0.10% | ~5 |
+| Return of the Wizard King | 0.10% | ~5 |
+| Realm Estate | 0.10% | ~5 |
+| A Wonderful Discovery | 0.10% | ~5 |
+| Secret Technique | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
+| Stronger Together | 0.10% | ~5 |
+| My Final Form | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
 | There Can Only Be One! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
-| Return of the Wizard King | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
 | Lord of Chaos | 0.00% | ~0 |
 | Arch Mage | 0.00% | ~0 |
@@ -20,17 +25,12 @@ Rating: 4.59 (Ranked 410)
 | Enchanted Archipelago | 0.00% | ~0 |
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
-| Realm Estate | 0.00% | ~0 |
-| A Wonderful Discovery | 0.00% | ~0 |
-| Secret Technique | 0.00% | ~0 |
 | Walls Cannot Stop Us | 0.00% | ~0 |
 | Bone Peddler | 0.00% | ~0 |
 | Digging for Treasure | 0.00% | ~0 |
-| Stronger Together | 0.00% | ~0 |
 | Crimson Caldera | 0.00% | ~0 |
 | Preparation Is Everything | 0.00% | ~0 |
 | Magical Synergy | 0.00% | ~0 |
-| My Final Form | 0.00% | ~0 |
 | Seat of Power | 0.00% | ~0 |
 | In a Liege of Your Own | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |

@@ -122,7 +122,7 @@
   "Tags": [],
   "EOS_Progressed": 4437,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2531,9 +2531,9 @@
       "ID": "ACH_FLY",
       "SetID": "5nj1ea3",
       "Name": "Take that, Brundlefly!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_FROSTY",
@@ -2788,8 +2788,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-06-21T21:02:52.0033823+00:00",
-  "LastChanged_Achievements": "2023-06-27T09:07:08.4704145+00:00",
+  "LastChanged_Achievements": "2023-06-27T10:06:52.8193097+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:35.62088+00:00",
-  "LastUpdate_Ratings": "2023-06-27T09:00:53.0891549+00:00",
-  "LastUpdate_Achievements": "2023-06-27T09:07:08.4704683+00:00"
+  "LastUpdate_Ratings": "2023-06-27T10:00:41.5343682+00:00",
+  "LastUpdate_Achievements": "2023-06-27T10:06:52.8193708+00:00"
 }

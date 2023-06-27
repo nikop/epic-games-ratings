@@ -41,9 +41,9 @@ Rating: 4.62 (Ranked 344)
 | Holidays! | 6.00% | ~266 |
 | Mad Hatter | 6.00% | ~266 |
 | Yes Man | 6.00% | ~266 |
+| Take that, Brundlefly! | 5.00% | ~222 |
 | Lumbersexual | 5.00% | ~222 |
 | Feline Domination | 4.00% | ~177 |
-| Take that, Brundlefly! | 4.00% | ~177 |
 | Rogue One | 4.00% | ~177 |
 | Danger zone | 3.00% | ~133 |
 | Friend in need | 3.00% | ~133 |

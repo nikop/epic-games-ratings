@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 477)  
+Rating: 4.55 (Ranked 476)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 7.00% | ~3,943 |
 | Tornado Wrangler | 6.00% | ~3,379 |
 | Departure | 6.00% | ~3,379 |
-| A Friend Indeed | 6.00% | ~1,187 |
+| A Friend Indeed | 6.00% | ~1,188 |
 | Drink 'Em Both Up | 5.00% | ~2,816 |
 | Hardboiled Writer | 5.00% | ~2,816 |
 | Ding! | 5.00% | ~990 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,323 (Ranked 79)  
+Progressed: 56,324 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 56 (0.10%) (Ranked 175)
 | 2023-06-24 | 56,152 | 56 |
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
-| 2023-06-27 | 56,323 | 56 |
+| 2023-06-27 | 56,324 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

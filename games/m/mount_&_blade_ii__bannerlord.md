@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,548 |
-| Landlord | 31.00% | ~16,833 |
-| Lawmaker | 22.00% | ~11,946 |
-| Bannerlord | 21.00% | ~11,403 |
-| Horde breaker | 21.00% | ~11,403 |
-| Trained | 21.00% | ~11,403 |
-| The king is pleased | 17.00% | ~9,231 |
-| King Solomon | 16.00% | ~8,688 |
-| I can do it | 15.00% | ~8,145 |
-| Apple of my eye | 14.00% | ~7,602 |
-| God of the Arena | 12.00% | ~6,516 |
+| Lawbringer | 36.00% | ~19,550 |
+| Landlord | 31.00% | ~16,835 |
+| Lawmaker | 22.00% | ~11,947 |
+| Bannerlord | 21.00% | ~11,404 |
+| Horde breaker | 21.00% | ~11,404 |
+| Trained | 21.00% | ~11,404 |
+| The king is pleased | 17.00% | ~9,232 |
+| King Solomon | 16.00% | ~8,689 |
+| I can do it | 15.00% | ~8,146 |
+| Apple of my eye | 14.00% | ~7,603 |
+| God of the Arena | 12.00% | ~6,517 |
 | Against all odds | 10.00% | ~5,430 |
 | Swordbearer | 10.00% | ~5,430 |
 | Duelist | 9.00% | ~4,887 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,301 (Ranked 81)  
+Progressed: 54,305 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,22 +126,22 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 54,093 | 0 |
 | 2023-06-25 | 54,188 | 0 |
 | 2023-06-26 | 54,278 | 0 |
-| 2023-06-27 | 54,301 | 0 |
+| 2023-06-27 | 54,305 | 0 |
 ## Awards
 Max (Character Customization): 6,720  (Ranked 48)  
-Sum: 13,533 (Ranked 68)  
+Sum: 13,539 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,720 |
-| This game is Great for Beginners | 861 |
+| This game is Great for Beginners | 864 |
 | This game has Diverse Characters | 840 |
 | This game is Highly Recommended | 804 |
 | This game is Extremely Fun | 767 |
 | This game has Amazing Storytelling | 762 |
 | This game is Relaxing | 744 |
 | This game has Quickly Understood Controls | 743 |
-| This game has Amazing Characters | 739 |
+| This game has Amazing Characters | 742 |
 | This game has a Creative Community | 553 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -311,3 +311,4 @@ Diff (max vs sum): -20
 | 2023-06-24 | 4.75 | - | 6,705 | 13,498 |
 | 2023-06-25 | 4.74 | - | 6,712 | 13,512 |
 | 2023-06-26 | 4.74 | - | 6,720 | 13,533 |
+| 2023-06-27 | 4.74 | - | 6,720 | 13,539 |

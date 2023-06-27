@@ -5,13 +5,13 @@ Rating: 4.80 (Ranked 81)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,304 |
-| No more cages! | 92.00% | ~2,208 |
-| Everfrost | 78.00% | ~1,872 |
-| Dark Forest | 77.00% | ~1,848 |
-| Pentakill | 76.00% | ~1,824 |
-| The use of petricite | 73.00% | ~1,752 |
-| You can pet the dog | 61.00% | ~1,464 |
+| For Demacia | 96.00% | ~2,305 |
+| No more cages! | 92.00% | ~2,209 |
+| Everfrost | 78.00% | ~1,873 |
+| Dark Forest | 77.00% | ~1,849 |
+| Pentakill | 76.00% | ~1,825 |
+| The use of petricite | 73.00% | ~1,753 |
+| You can pet the dog | 61.00% | ~1,465 |
 | Big Helmet Bro | 36.00% | ~864 |
 | Clarion Cove | 35.00% | ~840 |
 | Past trauma | 34.00% | ~816 |
@@ -45,7 +45,7 @@ Rating: 4.80 (Ranked 81)
 | Cloven Dell Headquarters | 14.00% | ~336 |
 | Whispers in the Woods IV | 12.00% | ~288 |
 | Embrace the darkness | 11.00% | ~264 |
-| I smell fear | 11.00% | ~264 |
+| I smell fear | 10.00% | ~240 |
 | The end of the experiments | 10.00% | ~240 |
 | The Great City of Demacia | 10.00% | ~240 |
 | Back to sleep, then... | 10.00% | ~240 |
@@ -54,12 +54,12 @@ Rating: 4.80 (Ranked 81)
 | Truth is a dark mirror | 9.00% | ~216 |
 | You can pet the... horse | 9.00% | ~216 |
 | Do you trust me? | 8.00% | ~192 |
-| The great mage rebellion starts now | 8.00% | ~192 |
 | Spellcrafting | 8.00% | ~192 |
+| The great mage rebellion starts now | 7.00% | ~168 |
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 154)  
+Progressed: 2,401 (Ranked 154)  
 Completed: 2 (0.08%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 2 (0.08%) (Ranked 185)
 | 2023-06-23 | 2,389 | 2 |
 | 2023-06-24 | 2,393 | 2 |
 | 2023-06-25 | 2,398 | 2 |
-| 2023-06-27 | 2,400 | 2 |
+| 2023-06-27 | 2,401 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

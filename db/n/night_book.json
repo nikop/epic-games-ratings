@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "deal_or_no_deal",
@@ -299,9 +299,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "use_your_connections",
@@ -315,9 +315,9 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
@@ -332,8 +332,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-06-27T09:06:46.7169034+00:00",
+  "LastChanged_Achievements": "2023-06-27T10:06:32.8846207+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:23.3319642+00:00",
-  "LastUpdate_Ratings": "2023-06-27T08:57:33.1057218+00:00",
-  "LastUpdate_Achievements": "2023-06-27T09:06:46.716914+00:00"
+  "LastUpdate_Ratings": "2023-06-27T09:57:38.440723+00:00",
+  "LastUpdate_Achievements": "2023-06-27T10:06:32.8846323+00:00"
 }

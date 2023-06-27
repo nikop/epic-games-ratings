@@ -53,6 +53,7 @@ Rating: 4.17 (Ranked 857)
 | The Cold, the Bad and the Ugly | 0.20% | ~73 |
 | Talonted | 0.20% | ~132 |
 | The Man-Bat Family | 0.20% | ~132 |
+| Batarang Collector | 0.20% | ~132 |
 | Claiming the Mural High Ground | 0.20% | ~132 |
 | Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
@@ -61,13 +62,12 @@ Rating: 4.17 (Ranked 857)
 | That's Showbiz, Clayby | 0.10% | ~36 |
 | Icebreaker | 0.10% | ~36 |
 | Don't Mecha Big Deal About It | 0.10% | ~36 |
-| Batarang Collector | 0.10% | ~66 |
 | Read Owl About It | 0.10% | ~66 |
 | History Major | 0.10% | ~66 |
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,034 (Ranked 72)  
+Progressed: 66,035 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 98 (0.15%) (Ranked 166)
 | 2023-06-24 | 65,942 | 98 |
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
-| 2023-06-27 | 66,034 | 98 |
+| 2023-06-27 | 66,035 | 98 |
 ## Awards
 Max (Great Boss Battles): 2,387  (Ranked 100)  
 Sum: 3,948 (Ranked 137)  

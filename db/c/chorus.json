@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 93,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1175,9 +1175,9 @@
       "ID": "MasteryOfCombat",
       "SetID": "a6c395p",
       "Name": "Mastery of Combat",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 221
     },
     {
       "ID": "MasteryOfRites",
@@ -1311,9 +1311,9 @@
       "ID": "MissionPhoenixRediscovery",
       "SetID": "a6c395p",
       "Name": "Ghosts",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 251
     },
     {
       "ID": "MissionSalvage",
@@ -1455,8 +1455,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-06-27T09:07:04.0887763+00:00",
+  "LastChanged_Achievements": "2023-06-27T10:06:48.5782778+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:12.4280624+00:00",
-  "LastUpdate_Ratings": "2023-06-27T09:00:32.6116475+00:00",
-  "LastUpdate_Achievements": "2023-06-27T09:07:04.0888057+00:00"
+  "LastUpdate_Ratings": "2023-06-27T10:00:22.7255231+00:00",
+  "LastUpdate_Achievements": "2023-06-27T10:06:48.578307+00:00"
 }

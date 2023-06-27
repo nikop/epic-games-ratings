@@ -29,8 +29,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Great Library | 24.00% | ~55 |
 | Gargantua | 23.00% | ~53 |
 | Shiny and Crôm | 22.00% | ~50 |
+| Torture and Sensibility | 22.00% | ~50 |
 | Material Girl | 22.00% | ~50 |
-| Torture and Sensibility | 21.00% | ~48 |
 | The Statuette of Gladeulfeurah | 21.00% | ~48 |
 | A tale of adventurers not quite like the others... | 21.00% | ~48 |
 | The beards of change | 21.00% | ~48 |
