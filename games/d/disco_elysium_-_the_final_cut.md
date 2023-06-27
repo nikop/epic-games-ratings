@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,320 (Ranked 60)  
+Progressed: 122,321 (Ranked 60)  
 Completed: 25 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 25 (0.02%) (Ranked 210)
 | 2023-06-24 | 122,195 | 25 |
 | 2023-06-25 | 122,256 | 25 |
 | 2023-06-26 | 122,308 | 25 |
-| 2023-06-27 | 122,320 | 25 |
+| 2023-06-27 | 122,321 | 25 |
 ## Awards
 Max (Character Customization): 698  (Ranked 161)  
 Sum: 1,058 (Ranked 232)  

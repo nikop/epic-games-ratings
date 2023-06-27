@@ -5,14 +5,14 @@ Rating: 4.68 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 13.00% | ~54,578 |
-| 50 HEADSHOTS | 12.00% | ~50,379 |
-| SCIENCE AND INDUSTRY | 10.00% | ~41,983 |
+| 100 KILLS | 13.00% | ~54,579 |
+| 50 HEADSHOTS | 12.00% | ~50,380 |
+| SCIENCE AND INDUSTRY | 10.00% | ~41,984 |
 | FINISHED CHAPTER 1 | 9.00% | ~37,785 |
-| 200 HEADSHOTS | 8.00% | ~33,586 |
+| 200 HEADSHOTS | 8.00% | ~33,587 |
 | FINISHED CHAPTER 2 | 7.00% | ~29,388 |
 | FINISHED CHAPTER 3 | 6.00% | ~25,190 |
-| FINISHED CHAPTER 4 | 5.00% | ~20,991 |
+| FINISHED CHAPTER 4 | 5.00% | ~20,992 |
 | 1000 KILLS | 4.00% | ~16,793 |
 | FINISH CHAPTER 5 | 4.00% | ~16,793 |
 | FINISH CHAPTER 6 | 4.00% | ~16,793 |
@@ -23,9 +23,9 @@ Rating: 4.68 (Ranked 240)
 | PACEMAKER | 0.50% | ~2,099 |
 | FIREFIGHT LEVEL 30 | 0.40% | ~1,679 |
 | TIME PARADOX | 0.40% | ~1,679 |
-| NEW GAME PLUS | 0.30% | ~1,259 |
-| OUT OF ORDER | 0.30% | ~1,259 |
-| PARTYHARD | 0.30% | ~1,259 |
+| NEW GAME PLUS | 0.30% | ~1,260 |
+| OUT OF ORDER | 0.30% | ~1,260 |
+| PARTYHARD | 0.30% | ~1,260 |
 | CHURCH | 0.20% | ~840 |
 | FIREFIGHT LEVEL 40 | 0.20% | ~840 |
 | FIREFIGHT LEVEL 50 | 0.20% | ~840 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 240)
 | THE GAMBLER | 0.10% | ~420 |
 | WARRIOR IN A GARDEN | 0.10% | ~420 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419,828 (Ranked 37)  
+Progressed: 419,835 (Ranked 37)  
 Completed: 37 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 37 (0.01%) (Ranked 218)
 | 2023-06-24 | 419,072 | 37 |
 | 2023-06-25 | 419,437 | 37 |
 | 2023-06-26 | 419,751 | 37 |
-| 2023-06-27 | 419,828 | 37 |
+| 2023-06-27 | 419,835 | 37 |
 ## Awards
 Max (Great Boss Battles): 183  (Ranked 275)  
 Sum: 183 (Ranked 368)  

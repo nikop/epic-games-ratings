@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -144,7 +144,7 @@
   "Tags": [],
   "EOS_Progressed": 1191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2229,9 +2229,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 310
     },
     {
       "ID": "FIRESTARTER",
@@ -2478,8 +2478,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-26T16:58:23.2317253+00:00",
-  "LastChanged_Achievements": "2023-06-27T05:03:10.6006777+00:00",
+  "LastChanged_Achievements": "2023-06-27T07:00:04.9774018+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.6286148+00:00",
-  "LastUpdate_Ratings": "2023-06-27T05:58:23.9928941+00:00",
-  "LastUpdate_Achievements": "2023-06-27T05:03:10.6007357+00:00"
+  "LastUpdate_Ratings": "2023-06-27T06:58:13.3453123+00:00",
+  "LastUpdate_Achievements": "2023-06-27T07:00:04.9775336+00:00"
 }

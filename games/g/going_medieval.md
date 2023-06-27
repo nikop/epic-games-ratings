@@ -16,8 +16,8 @@ Number of Ratings: 706  (23.09.2022)
 | Onward | 54.00% | ~2,237 |
 | Home Cooked Meal | 53.00% | ~2,195 |
 | The First Week | 52.00% | ~2,154 |
+| Studious Researcher | 50.00% | ~2,071 |
 | Feast or Famine | 49.00% | ~2,030 |
-| Studious Researcher | 49.00% | ~2,030 |
 | Beam Me Up | 48.00% | ~1,988 |
 | Adept Researcher | 44.00% | ~1,822 |
 | Retribution | 38.00% | ~1,574 |

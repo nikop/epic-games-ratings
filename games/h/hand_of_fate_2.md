@@ -6,8 +6,8 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,120 |
-| Apprentice | 58.00% | ~381,930 |
+| The Fool | 72.00% | ~474,121 |
+| Apprentice | 58.00% | ~381,931 |
 | Close Shave | 25.00% | ~164,625 |
 | Mercenary | 23.00% | ~151,455 |
 | Ninja | 23.00% | ~151,455 |
@@ -41,21 +41,21 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,585 |
 | Ally | 0.80% | ~5,268 |
 | Thomas' Bane | 0.80% | ~5,268 |
-| Gamester | 0.70% | ~4,609 |
+| Gamester | 0.70% | ~4,610 |
 | Hero | 0.60% | ~3,951 |
 | Rebel | 0.60% | ~3,951 |
-| Dungeon Master | 0.50% | ~3,292 |
+| Dungeon Master | 0.50% | ~3,293 |
 | Pilgrim | 0.40% | ~2,634 |
 | Smiths Honour | 0.40% | ~2,634 |
 | Peaceful Coast | 0.30% | ~1,976 |
 | Money Bags | 0.20% | ~1,317 |
-| Grifter | 0.10% | ~658 |
-| Unburdened | 0.10% | ~658 |
-| Karma | 0.10% | ~658 |
-| Miracle | 0.10% | ~658 |
-| Blood Pact | 0.10% | ~658 |
+| Grifter | 0.10% | ~659 |
+| Unburdened | 0.10% | ~659 |
+| Karma | 0.10% | ~659 |
+| Miracle | 0.10% | ~659 |
+| Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,500 (Ranked 21)  
+Progressed: 658,501 (Ranked 21)  
 Completed: 165 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 165 (0.03%) (Ranked 202)
 | 2023-06-24 | 658,398 | 165 |
 | 2023-06-25 | 658,447 | 165 |
 | 2023-06-26 | 658,487 | 165 |
-| 2023-06-27 | 658,500 | 165 |
+| 2023-06-27 | 658,501 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 371)  

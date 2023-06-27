@@ -6450,9 +6450,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 61915,
+  "EOS_Progressed": 61920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3720,
+  "EOS_NewPlayers": 3712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13690,6 +13690,11 @@
       "Time": "2023-06-27T06:06:19.0866216+00:00",
       "NumProgressed": 61915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-27T07:05:52.8153402+00:00",
+      "NumProgressed": 61920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -13845,7 +13850,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_all_blue",
@@ -13941,7 +13946,7 @@
       "Name": "At every continent",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -14317,7 +14322,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -14701,7 +14706,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "achievement_grand_coalition",
@@ -14917,7 +14922,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -15509,7 +15514,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_prester_john",
@@ -15637,7 +15642,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -15981,7 +15986,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -16237,7 +16242,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_to_the_bone",
@@ -16309,7 +16314,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_trustworthy",
@@ -16365,7 +16370,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -16397,7 +16402,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -16532,21 +16537,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 61915,
+      "Progressed": 61920,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 61915,
+      "Progressed": 61920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-06-26T20:57:47.5252896+00:00",
-  "LastChanged_Achievements": "2023-06-27T06:06:19.086621+00:00",
+  "LastChanged_Achievements": "2023-06-27T07:05:52.8153397+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:17.6471753+00:00",
-  "LastUpdate_Ratings": "2023-06-27T05:57:38.430376+00:00",
-  "LastUpdate_Achievements": "2023-06-27T06:06:19.0879732+00:00"
+  "LastUpdate_Ratings": "2023-06-27T06:57:27.7454141+00:00",
+  "LastUpdate_Achievements": "2023-06-27T07:05:52.816797+00:00"
 }

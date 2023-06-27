@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,925 |
-| Wallbanger | 5.00% | ~19,925 |
+| Point Shooting | 5.00% | ~19,926 |
+| Wallbanger | 5.00% | ~19,926 |
 | Exploitative | 4.00% | ~15,940 |
 | High Speed Low Drag | 4.00% | ~15,940 |
 | Wet Feet | 4.00% | ~15,940 |
@@ -24,25 +24,25 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,985 |
 | Ruthless | 1.00% | ~3,985 |
 | Semper Paratus | 1.00% | ~3,985 |
-| Carrying | 0.90% | ~3,586 |
-| Mount & Gun | 0.90% | ~3,586 |
-| Personal | 0.90% | ~3,586 |
+| Carrying | 0.90% | ~3,587 |
+| Mount & Gun | 0.90% | ~3,587 |
+| Personal | 0.90% | ~3,587 |
 | Grounded | 0.80% | ~3,188 |
 | Play to Win | 0.80% | ~3,188 |
-| #1 | 0.70% | ~2,789 |
-| Special Delivery | 0.70% | ~2,789 |
+| #1 | 0.70% | ~2,790 |
+| Special Delivery | 0.70% | ~2,790 |
 | Firefight Victory | 0.60% | ~2,391 |
-| Cinematic | 0.50% | ~1,992 |
+| Cinematic | 0.50% | ~1,993 |
 | Thanks Station! | 0.40% | ~1,594 |
-| Knock Knock | 0.30% | ~1,195 |
-| There For You | 0.30% | ~1,195 |
+| Knock Knock | 0.30% | ~1,196 |
+| There For You | 0.30% | ~1,196 |
 | Hit and Run | 0.20% | ~797 |
-| Designated Driver | 0.10% | ~398 |
-| J.R. .50 | 0.10% | ~398 |
-| It's All in the Reflexes | 0.10% | ~398 |
-| Road Hazard | 0.10% | ~398 |
+| Designated Driver | 0.10% | ~399 |
+| J.R. .50 | 0.10% | ~399 |
+| It's All in the Reflexes | 0.10% | ~399 |
+| Road Hazard | 0.10% | ~399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,496 (Ranked 39)  
+Progressed: 398,511 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-24 | 397,196 | 2 |
 | 2023-06-25 | 397,812 | 2 |
 | 2023-06-26 | 398,342 | 2 |
-| 2023-06-27 | 398,496 | 2 |
+| 2023-06-27 | 398,511 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
-Sum: 2,743 (Ranked 167)  
+Sum: 2,744 (Ranked 167)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -123,7 +123,7 @@ Diff (max vs sum): 50
 | This game has Competitive Players | 320 |
 | This game has Realistic Visuals | 296 |
 | This game has Amazing Storytelling | 292 |
-| This game is Highly Recommended | 291 |
+| This game is Highly Recommended | 292 |
 | This game has Amazing Characters | 283 |
 | This game has a Competitive Community | 247 |
 | This game has Obsessive Gameplay | 156 |
@@ -293,3 +293,4 @@ Diff (max vs sum): 50
 | 2023-06-24 | 4.62 | - | 361 | 2,735 |
 | 2023-06-25 | 4.62 | - | 361 | 2,740 |
 | 2023-06-26 | 4.62 | - | 361 | 2,743 |
+| 2023-06-27 | 4.61 | - | 361 | 2,744 |

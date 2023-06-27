@@ -1126,7 +1126,7 @@
   ],
   "EOS_Progressed": 4142,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4253,9 +4253,9 @@
       "ID": "UNLOCK_RESEARCH_5",
       "SetID": "5349c2e",
       "Name": "Studious Researcher",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2071
     }
   ],
   "AchievementSets": [
@@ -4269,8 +4269,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-06-27T06:06:05.1167591+00:00",
+  "LastChanged_Achievements": "2023-06-27T07:05:38.2993272+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:57.9541614+00:00",
-  "LastUpdate_Ratings": "2023-06-27T05:59:36.6000668+00:00",
-  "LastUpdate_Achievements": "2023-06-27T06:06:05.1167975+00:00"
+  "LastUpdate_Ratings": "2023-06-27T06:59:26.643932+00:00",
+  "LastUpdate_Achievements": "2023-06-27T07:05:38.2993699+00:00"
 }
