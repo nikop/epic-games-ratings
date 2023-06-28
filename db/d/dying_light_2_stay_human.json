@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -6221,10 +6221,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18767,
       "NumberOfAwardsMax": 8064
+    },
+    {
+      "Time": "2023-06-28T06:00:12.2789531+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18773,
+      "NumberOfAwardsMax": 8064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18767,
+  "NumberOfAwards": 18773,
   "NumberOfAwardsMax": 8064,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6250,7 +6256,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 694
+      "Count": 700
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6301,9 +6307,9 @@
       "Count": 527
     }
   ],
-  "EOS_Progressed": 583809,
+  "EOS_Progressed": 583815,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3109,
+  "EOS_NewPlayers": 3104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13651,6 +13657,11 @@
       "Time": "2023-06-28T05:07:32.1185043+00:00",
       "NumProgressed": 583809,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-28T06:06:46.8673824+00:00",
+      "NumProgressed": 583815,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -13662,7 +13673,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58381
+      "UsersEstimate": 58382
     },
     {
       "ID": "achievement_02",
@@ -13670,7 +13681,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58381
+      "UsersEstimate": 58382
     },
     {
       "ID": "achievement_03",
@@ -13718,7 +13729,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_09",
@@ -13726,7 +13737,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_10",
@@ -13734,7 +13745,7 @@
       "Name": "Known Associate",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_11",
@@ -13742,7 +13753,7 @@
       "Name": "Brush with Death",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_12",
@@ -13750,7 +13761,7 @@
       "Name": "Going Down",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_13",
@@ -13758,7 +13769,7 @@
       "Name": "Family First",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_14",
@@ -13766,7 +13777,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_15",
@@ -13782,7 +13793,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_17",
@@ -13830,7 +13841,7 @@
       "Name": "Find Anything Interesting?",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "achievement_23",
@@ -13870,7 +13881,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64219
+      "UsersEstimate": 64220
     },
     {
       "ID": "achievement_28",
@@ -13884,9 +13895,9 @@
       "ID": "achievement_29",
       "SetID": "3cbf5jh",
       "Name": "A Friend in Need...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1751
     },
     {
       "ID": "achievement_30",
@@ -13910,7 +13921,7 @@
       "Name": "Boot Licker",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "achievement_33",
@@ -13918,7 +13929,7 @@
       "Name": "Who Wants To Be a...",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "achievement_34",
@@ -13942,7 +13953,7 @@
       "Name": "After the Fall",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_37",
@@ -13958,7 +13969,7 @@
       "Name": "Can\u0027t Touch This!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "achievement_39",
@@ -13974,7 +13985,7 @@
       "Name": "Death From Afar",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_41",
@@ -13990,7 +14001,7 @@
       "Name": "Terminal Headache",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_43",
@@ -13998,7 +14009,7 @@
       "Name": "Slowpoke!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23352
+      "UsersEstimate": 23353
     },
     {
       "ID": "achievement_44",
@@ -14181,21 +14192,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 583809,
+      "Progressed": 583815,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 229253,
+      "Progressed": 229259,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-06-27T21:00:17.3032756+00:00",
-  "LastChanged_Achievements": "2023-06-28T05:07:32.1185038+00:00",
+  "LastChanged": "2023-06-28T06:00:12.278953+00:00",
+  "LastChanged_Achievements": "2023-06-28T06:06:46.867382+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:00:42.042061+00:00",
-  "LastUpdate_Achievements": "2023-06-28T05:07:32.1186273+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:00:12.2789536+00:00",
+  "LastUpdate_Achievements": "2023-06-28T06:06:46.8675003+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 33.00% | ~128 |
 | Consequences | 29.00% | ~113 |
 | King of Knives | 29.00% | ~113 |
-| Opportunities | 27.00% | ~105 |
+| Opportunities | 28.00% | ~109 |
 | The Horror | 26.00% | ~101 |
 | The Difference | 23.00% | ~89 |
 | Collectibles of Chapter II | 22.00% | ~86 |

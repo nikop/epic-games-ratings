@@ -31,14 +31,14 @@
 | The Flower | 19.00% | ~21 |
 | Out of the Frying Pan... | 19.00% | ~21 |
 | The Blacksmith | 18.00% | ~20 |
-| The Ooze | 16.00% | ~18 |
+| The Ooze | 17.00% | ~19 |
 | The Assistant | 15.00% | ~17 |
+| The Steampunk | 15.00% | ~17 |
 | Ember | 15.00% | ~17 |
 | Turquoise | 15.00% | ~17 |
-| The Steampunk | 14.00% | ~16 |
 | Verse | 14.00% | ~16 |
+| Iron | 12.00% | ~13 |
 | The Droid | 11.00% | ~12 |
-| Iron | 11.00% | ~12 |
 | Tested | 9.00% | ~10 |
 | The Bomber | 8.00% | ~9 |
 | The Astronaut | 6.00% | ~7 |

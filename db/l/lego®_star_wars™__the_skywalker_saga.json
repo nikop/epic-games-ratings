@@ -2558,9 +2558,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49752,
+  "EOS_Progressed": 49753,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -8208,6 +8208,11 @@
       "Time": "2023-06-28T04:01:17.5672323+00:00",
       "NumProgressed": 49752,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2023-06-28T06:01:13.9988588+00:00",
+      "NumProgressed": 49753,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 45,
@@ -8243,7 +8248,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39304
+      "UsersEstimate": 39305
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8355,7 +8360,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23383
+      "UsersEstimate": 23384
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8363,7 +8368,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18408
+      "UsersEstimate": 18409
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8387,7 +8392,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10945
+      "UsersEstimate": 10946
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -8443,7 +8448,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8955
+      "UsersEstimate": 8956
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -8459,7 +8464,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28856
+      "UsersEstimate": 28857
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8467,7 +8472,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8955
+      "UsersEstimate": 8956
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -8483,7 +8488,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48259
+      "UsersEstimate": 48260
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8523,7 +8528,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35324
+      "UsersEstimate": 35325
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8539,7 +8544,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18408
+      "UsersEstimate": 18409
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8571,22 +8576,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35821
+      "UsersEstimate": 35822
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49752,
+      "Progressed": 49753,
       "Completed": 195
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-27T12:00:55.5944058+00:00",
-  "LastChanged_Achievements": "2023-06-28T05:02:14.7732105+00:00",
+  "LastChanged_Achievements": "2023-06-28T06:01:13.9988582+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:01:34.0309659+00:00",
-  "LastUpdate_Achievements": "2023-06-28T05:02:14.7733136+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:00:55.5556203+00:00",
+  "LastUpdate_Achievements": "2023-06-28T06:01:13.9989278+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-06-28T05:04:32.5859882+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T06:04:14.3288376+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -858,7 +863,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_defeat_players_100",
@@ -922,7 +927,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "objective_headquarters_15",
@@ -946,15 +951,15 @@
       "Name": "Facility Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -962,7 +967,7 @@
       "Name": "Sergeant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1032,9 +1037,9 @@
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1050,7 +1055,7 @@
       "Name": "Stocking Up",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1098,7 +1103,7 @@
       "Name": "Defenses Online",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1145,14 +1150,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-28T05:04:32.5859878+00:00",
+  "LastChanged_Achievements": "2023-06-28T06:04:14.3288369+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:01:19.4072877+00:00",
-  "LastUpdate_Achievements": "2023-06-28T05:04:32.5860257+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:00:42.8827882+00:00",
+  "LastUpdate_Achievements": "2023-06-28T06:04:14.3288699+00:00"
 }

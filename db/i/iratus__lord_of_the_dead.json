@@ -2002,9 +2002,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 33420,
+  "EOS_Progressed": 33421,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 734,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -9182,6 +9182,11 @@
       "Time": "2023-06-28T05:03:12.2496182+00:00",
       "NumProgressed": 33420,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-06-28T06:03:06.6589098+00:00",
+      "NumProgressed": 33421,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -9225,7 +9230,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19049
+      "UsersEstimate": 19050
     },
     {
       "ID": "achievements_14",
@@ -9241,7 +9246,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 15707
+      "UsersEstimate": 15708
     },
     {
       "ID": "achievements_17",
@@ -9297,7 +9302,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20052
+      "UsersEstimate": 20053
     },
     {
       "ID": "achievements_24",
@@ -9305,7 +9310,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 18381
+      "UsersEstimate": 18382
     },
     {
       "ID": "achievements_25",
@@ -9321,7 +9326,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "achievements_27",
@@ -9361,7 +9366,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10360
+      "UsersEstimate": 10361
     },
     {
       "ID": "achievements_31",
@@ -9393,7 +9398,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "achievements_35",
@@ -9441,7 +9446,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 22057
+      "UsersEstimate": 22058
     },
     {
       "ID": "achievements_40",
@@ -9457,7 +9462,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "achievements_42",
@@ -9489,7 +9494,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "achievements_46",
@@ -9497,7 +9502,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 28407
+      "UsersEstimate": 28408
     },
     {
       "ID": "achievements_47",
@@ -9529,7 +9534,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 17044
+      "UsersEstimate": 17045
     },
     {
       "ID": "achievements_50",
@@ -9545,7 +9550,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 13702
+      "UsersEstimate": 13703
     },
     {
       "ID": "achievements_52",
@@ -9553,7 +9558,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "achievements_53",
@@ -9561,7 +9566,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19049
+      "UsersEstimate": 19050
     },
     {
       "ID": "achievements_54",
@@ -9633,7 +9638,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 9023
+      "UsersEstimate": 9024
     },
     {
       "ID": "achievements_63",
@@ -9657,7 +9662,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "achievements_66",
@@ -9665,7 +9670,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "achievements_67",
@@ -9785,22 +9790,22 @@
       "Name": "Blood Mage",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     }
   ],
   "AchievementSets": [
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 33420,
+      "Progressed": 33421,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-20T13:07:30.3079787+00:00",
-  "LastChanged_Achievements": "2023-06-28T05:03:12.2496177+00:00",
+  "LastChanged_Achievements": "2023-06-28T06:03:06.6589092+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:40.6461224+00:00",
-  "LastUpdate_Ratings": "2023-06-28T04:59:23.202543+00:00",
-  "LastUpdate_Achievements": "2023-06-28T05:03:12.2497414+00:00"
+  "LastUpdate_Ratings": "2023-06-28T05:59:06.0430935+00:00",
+  "LastUpdate_Achievements": "2023-06-28T06:03:06.659042+00:00"
 }

@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~28 |
 | Dead for good | 12.00% | ~28 |
 | The Dungeon Master | 11.00% | ~26 |
+| Necrophilia | 10.00% | ~24 |
 | It's been a hard day's night | 10.00% | ~24 |
-| Necrophilia | 9.00% | ~21 |
 | He’s alive! Aliiiive! | 9.00% | ~21 |
 | Scholar of the Lands of Fangh | 8.00% | ~19 |
 | Egghead | 8.00% | ~19 |

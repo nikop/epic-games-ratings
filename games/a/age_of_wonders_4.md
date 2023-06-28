@@ -18,6 +18,7 @@ Rating: 4.59 (Ranked 409)
 | Bone Peddler | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
+| Fiery Friend | 0.20% | ~10 |
 | Impenetrable Fortress | 0.20% | ~10 |
 | Here be Dragons | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
@@ -37,7 +38,6 @@ Rating: 4.59 (Ranked 409)
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
-| Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |

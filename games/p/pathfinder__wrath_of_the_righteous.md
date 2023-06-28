@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 11.00% | ~1,109 |
 | Defender's Heart | 11.00% | ~1,109 |
 | Banner over the Citadel | 10.00% | ~1,008 |
-| Queen's Gratitude | 9.00% | ~907 |
+| Queen's Gratitude | 9.00% | ~908 |
 | Fifth Crusade | 6.00% | ~605 |
 | Embrace of the Abyss | 4.00% | ~403 |
 | Path of the Angel | 4.00% | ~403 |
@@ -20,14 +20,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~403 |
 | All Paths Open | 4.00% | ~403 |
 | Demonic and Divine | 4.00% | ~403 |
-| Path of the Azata | 3.00% | ~302 |
-| Transformation | 3.00% | ~302 |
-| The Legacy | 3.00% | ~302 |
-| Divide and Rule | 3.00% | ~302 |
-| Mythic Reinforcements | 3.00% | ~302 |
-| A Flame | 3.00% | ~302 |
-| Next-Door Play | 3.00% | ~302 |
-| Get the Toad | 3.00% | ~302 |
+| Path of the Azata | 3.00% | ~303 |
+| Transformation | 3.00% | ~303 |
+| The Legacy | 3.00% | ~303 |
+| Divide and Rule | 3.00% | ~303 |
+| Mythic Reinforcements | 3.00% | ~303 |
+| A Flame | 3.00% | ~303 |
+| Next-Door Play | 3.00% | ~303 |
+| Get the Toad | 3.00% | ~303 |
 | Beware Still Water | 3.00% | ~266 |
 | Heart of the Fallen Land | 2.00% | ~202 |
 | Path of the Trickster | 2.00% | ~202 |
@@ -52,9 +52,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Not the Last Sarkorian | 0.80% | ~71 |
 | Path of the Legend | 0.70% | ~71 |
 | Playful Mood | 0.70% | ~71 |
-| Path of the Dragon | 0.60% | ~60 |
-| Dreadful Dragon | 0.60% | ~60 |
-| Truly Profane Gift | 0.60% | ~60 |
+| Path of the Dragon | 0.60% | ~61 |
+| Dreadful Dragon | 0.60% | ~61 |
+| Truly Profane Gift | 0.60% | ~61 |
 | Masterful Charge | 0.50% | ~50 |
 | Prelate's Nemesis | 0.40% | ~40 |
 | Masterful Dispel | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,083 (Ranked 115)  
+Progressed: 10,084 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 10,064 | 0 |
 | 2023-06-26 | 10,073 | 0 |
 | 2023-06-27 | 10,083 | 0 |
+| 2023-06-28 | 10,084 | 0 |
 ## Awards
 Max (Character Customization): 1,668  (Ranked 115)  
 Sum: 6,781 (Ranked 111)  
