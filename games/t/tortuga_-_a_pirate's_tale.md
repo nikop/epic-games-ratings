@@ -7,7 +7,7 @@ Rating: 3.83 (Ranked 932)
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~14,995 |
 | No Half Measures | 88.00% | ~13,890 |
-| Personal Matter | 86.00% | ~13,574 |
+| Personal Matter | 87.00% | ~13,732 |
 | But You Have Heard of Me | 72.00% | ~11,364 |
 | Double the Barrels, double the Fun | 55.00% | ~8,681 |
 | Pimp My Glide | 47.00% | ~7,418 |

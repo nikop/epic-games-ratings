@@ -6,23 +6,23 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,876 |
-| Leader | 61.00% | ~4,189 |
-| Explorer | 53.00% | ~3,640 |
-| Healer | 53.00% | ~3,640 |
+| First Step | 71.00% | ~4,877 |
+| Leader | 61.00% | ~4,190 |
+| Explorer | 53.00% | ~3,641 |
+| Healer | 53.00% | ~3,641 |
 | Aspiring Inventor | 44.00% | ~3,022 |
-| Adventurer | 41.00% | ~2,816 |
+| Adventurer | 42.00% | ~2,885 |
 | Famous Healer | 38.00% | ~2,610 |
 | Local Leader | 35.00% | ~2,404 |
 | Famous Explorer | 34.00% | ~2,335 |
 | New Opportunities | 34.00% | ~2,335 |
-| Energized | 33.00% | ~2,266 |
-| The Long Haul | 33.00% | ~2,266 |
+| Energized | 33.00% | ~2,267 |
+| The Long Haul | 33.00% | ~2,267 |
 | Survivor | 32.00% | ~2,198 |
 | The Great Healer | 31.00% | ~2,129 |
 | Cleaner | 28.00% | ~1,923 |
 | Catastrofan | 28.00% | ~1,923 |
-| Legendary Explorer | 27.00% | ~1,854 |
+| Legendary Explorer | 27.00% | ~1,855 |
 | Finders, Keepers | 26.00% | ~1,786 |
 | Top Notch | 25.00% | ~1,717 |
 | Ice Lakes | 23.00% | ~1,580 |
@@ -42,8 +42,8 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~824 |
 | It's a Finnish Thing | 10.00% | ~687 |
 | Sky Burial | 9.00% | ~618 |
-| Trader | 8.00% | ~549 |
-| Bread and Circuses | 8.00% | ~549 |
+| Trader | 8.00% | ~550 |
+| Bread and Circuses | 8.00% | ~550 |
 | New Eden | 7.00% | ~481 |
 | Tailored to fit | 7.00% | ~481 |
 | Really Friendly | 6.00% | ~412 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,868 (Ranked 122)  
+Progressed: 6,869 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 6,807 | 0 |
 | 2023-06-26 | 6,837 | 0 |
 | 2023-06-27 | 6,866 | 0 |
-| 2023-06-28 | 6,868 | 0 |
+| 2023-06-28 | 6,869 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 271)  

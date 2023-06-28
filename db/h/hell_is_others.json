@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 252007,
+  "EOS_Progressed": 252011,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7570,6 +7570,11 @@
       "Time": "2023-06-28T07:04:37.2506006+00:00",
       "NumProgressed": 252007,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-28T08:04:35.9798746+00:00",
+      "NumProgressed": 252011,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7581,7 +7586,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17640
+      "UsersEstimate": 17641
     },
     {
       "ID": "Act2",
@@ -7629,7 +7634,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78122
+      "UsersEstimate": 78123
     },
     {
       "ID": "BackHomeNTimes",
@@ -7637,7 +7642,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12600
+      "UsersEstimate": 12601
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -7709,7 +7714,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12600
+      "UsersEstimate": 12601
     },
     {
       "ID": "CreedsInBank2",
@@ -7781,7 +7786,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15120
+      "UsersEstimate": 15121
     },
     {
       "ID": "GrowPlants2",
@@ -7837,7 +7842,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15120
+      "UsersEstimate": 15121
     },
     {
       "ID": "KillOtherWithKatana",
@@ -8028,7 +8033,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252007,
+      "Progressed": 252011,
       "Completed": 2
     }
   ],
@@ -8036,8 +8041,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-27T13:16:35.2177975+00:00",
-  "LastChanged_Achievements": "2023-06-28T07:04:37.2505995+00:00",
+  "LastChanged_Achievements": "2023-06-28T08:04:35.9798742+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:00:41.6125903+00:00",
-  "LastUpdate_Achievements": "2023-06-28T07:04:37.2507002+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:00:37.2264203+00:00",
+  "LastUpdate_Achievements": "2023-06-28T08:04:35.9799412+00:00"
 }

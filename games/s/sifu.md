@@ -29,9 +29,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 1.00% | ~195 |
 | The best strikes are the ones we avoid | 1.00% | ~195 |
 | Scareless | 0.90% | ~6,392 |
+| Qi Gong: Mind | 0.90% | ~6,392 |
 | Kung-Fu Tussle | 0.90% | ~6,392 |
 | Dance of the Praying Mantis | 0.80% | ~5,682 |
-| Qi Gong: Mind | 0.80% | ~5,682 |
 | I know Kung-Fu | 0.80% | ~5,682 |
 | Deadly Venom | 0.70% | ~137 |
 | Muk Yan Master | 0.60% | ~4,261 |

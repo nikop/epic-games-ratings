@@ -1,25 +1,25 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 719)  
+Rating: 4.37 (Ranked 720)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Improvement | 85.00% | ~28,410 |
-| Blood Moon | 73.00% | ~24,399 |
-| Path of the Necromancer | 66.00% | ~22,059 |
+| Blood Moon | 73.00% | ~24,400 |
+| Path of the Necromancer | 66.00% | ~22,060 |
 | Chainbreaker - I | 60.00% | ~20,054 |
-| Cursed Creature | 57.00% | ~19,051 |
-| Extraction | 57.00% | ~19,051 |
+| Cursed Creature | 57.00% | ~19,052 |
+| Extraction | 57.00% | ~19,052 |
 | Chainbreaker - II | 55.00% | ~18,383 |
 | Necromancer's Apprentice | 51.00% | ~17,046 |
 | Keeper of Keys | 47.00% | ~15,709 |
 | Distillation | 43.00% | ~14,372 |
 | Mountain King - I | 42.00% | ~14,038 |
 | Transmutation | 42.00% | ~14,038 |
-| Prepared Necromancer | 41.00% | ~13,703 |
-| Mountain King - II | 40.00% | ~13,369 |
+| Prepared Necromancer | 41.00% | ~13,704 |
+| Mountain King - II | 40.00% | ~13,370 |
 | Blind Rage | 38.00% | ~12,701 |
 | Mad Genius | 35.00% | ~11,698 |
 | Cannon Fodder - I | 34.00% | ~11,364 |
@@ -28,14 +28,14 @@ Number of Ratings: 10,109  (23.09.2022)
 | Bane of Mercenaries - II | 31.00% | ~10,361 |
 | Shadow Between Worlds | 30.00% | ~10,027 |
 | Cannon Fodder - II | 29.00% | ~9,693 |
-| Bane of Monsters | 28.00% | ~9,358 |
-| Chainbreaker - III | 28.00% | ~9,358 |
+| Bane of Monsters | 28.00% | ~9,359 |
+| Chainbreaker - III | 28.00% | ~9,359 |
 | Revealed Secrets - I | 27.00% | ~9,024 |
 | Revealed Secrets - II | 26.00% | ~8,690 |
 | Unholy Bones | 24.00% | ~8,022 |
 | Blood Elemental | 24.00% | ~8,022 |
-| Lord of Fire | 23.00% | ~7,687 |
-| Uncommon Warrior | 23.00% | ~7,687 |
+| Lord of Fire | 23.00% | ~7,688 |
+| Uncommon Warrior | 23.00% | ~7,688 |
 | Cannon Fodder - III | 22.00% | ~7,353 |
 | Spiritual Attraction | 22.00% | ~7,353 |
 | Nightmare of the Humanity - I | 22.00% | ~7,353 |
@@ -47,8 +47,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Mage | 17.00% | ~5,682 |
 | Wild Hunger | 16.00% | ~5,348 |
 | Rage Concentrated | 16.00% | ~5,348 |
-| Mountain King - III | 15.00% | ~5,013 |
-| Rare Warrior | 15.00% | ~5,013 |
+| Mountain King - III | 15.00% | ~5,014 |
+| Rare Warrior | 15.00% | ~5,014 |
 | Grand Arena | 14.00% | ~4,679 |
 | Blood Madness | 13.00% | ~4,345 |
 | First Sacrifice | 13.00% | ~4,345 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~201 |
 | Renowned Researcher | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,423 (Ranked 89)  
+Progressed: 33,424 (Ranked 89)  
 Completed: 22 (0.07%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 22 (0.07%) (Ranked 189)
 | 2023-06-25 | 33,241 | 22 |
 | 2023-06-26 | 33,319 | 22 |
 | 2023-06-27 | 33,403 | 22 |
-| 2023-06-28 | 33,423 | 22 |
+| 2023-06-28 | 33,424 | 22 |
 ## Awards
 Max (Character Customization): 2,139  (Ranked 105)  
 Sum: 4,144 (Ranked 135)  

@@ -6227,10 +6227,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18773,
       "NumberOfAwardsMax": 8064
+    },
+    {
+      "Time": "2023-06-28T08:00:13.7258335+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18786,
+      "NumberOfAwardsMax": 8064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18773,
+  "NumberOfAwards": 18786,
   "NumberOfAwardsMax": 8064,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6244,7 +6250,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4706
+      "Count": 4719
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6307,9 +6313,9 @@
       "Count": 527
     }
   ],
-  "EOS_Progressed": 583827,
+  "EOS_Progressed": 583835,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3100,
+  "EOS_NewPlayers": 3096,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13667,6 +13673,11 @@
       "Time": "2023-06-28T07:06:50.0287569+00:00",
       "NumProgressed": 583827,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-28T08:06:50.871222+00:00",
+      "NumProgressed": 583835,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -13678,7 +13689,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58383
+      "UsersEstimate": 58384
     },
     {
       "ID": "achievement_02",
@@ -13686,7 +13697,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58383
+      "UsersEstimate": 58384
     },
     {
       "ID": "achievement_03",
@@ -13694,7 +13705,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52544
+      "UsersEstimate": 52545
     },
     {
       "ID": "achievement_04",
@@ -13734,7 +13745,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_09",
@@ -13742,7 +13753,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_10",
@@ -13750,7 +13761,7 @@
       "Name": "Known Associate",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_11",
@@ -13798,7 +13809,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_17",
@@ -13814,7 +13825,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46706
+      "UsersEstimate": 46707
     },
     {
       "ID": "achievement_19",
@@ -13886,7 +13897,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64221
+      "UsersEstimate": 64222
     },
     {
       "ID": "achievement_28",
@@ -13902,7 +13913,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "achievement_30",
@@ -13942,7 +13953,7 @@
       "Name": "Man On a Mission",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "achievement_35",
@@ -13958,7 +13969,7 @@
       "Name": "After the Fall",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_37",
@@ -13966,7 +13977,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52544
+      "UsersEstimate": 52545
     },
     {
       "ID": "achievement_38",
@@ -13974,7 +13985,7 @@
       "Name": "Can\u0027t Touch This!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29191
+      "UsersEstimate": 29192
     },
     {
       "ID": "achievement_39",
@@ -14197,21 +14208,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 583827,
+      "Progressed": 583835,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 229271,
+      "Progressed": 229279,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-06-28T06:00:12.278953+00:00",
-  "LastChanged_Achievements": "2023-06-28T07:06:50.028756+00:00",
+  "LastChanged": "2023-06-28T08:00:13.7258333+00:00",
+  "LastChanged_Achievements": "2023-06-28T08:06:50.8712216+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:00:18.2656047+00:00",
-  "LastUpdate_Achievements": "2023-06-28T07:06:50.0288688+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:00:13.7258338+00:00",
+  "LastUpdate_Achievements": "2023-06-28T08:06:50.8713353+00:00"
 }

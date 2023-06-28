@@ -30,7 +30,7 @@
 | Alchemists Express | 30.00% | ~3 |
 | For its own good | 20.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 387)  
+Progressed: 10 (Ranked 388)  
 Completed: 2 (20.00%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |

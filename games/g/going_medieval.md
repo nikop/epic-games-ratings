@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 72.00% | ~3,011 |
-| Having A Field Day | 72.00% | ~3,011 |
+| Get A Room | 72.00% | ~3,012 |
+| Having A Field Day | 72.00% | ~3,012 |
 | Reap What You Sow | 69.00% | ~2,886 |
-| The First Day | 66.00% | ~2,760 |
-| Green Thumb | 65.00% | ~2,718 |
+| The First Day | 66.00% | ~2,761 |
+| Green Thumb | 65.00% | ~2,719 |
 | Novice Researcher | 63.00% | ~2,635 |
-| Putting Food on the Table | 59.00% | ~2,467 |
-| Onward | 54.00% | ~2,258 |
-| Home Cooked Meal | 53.00% | ~2,216 |
+| Putting Food on the Table | 59.00% | ~2,468 |
+| Onward | 54.00% | ~2,259 |
+| Home Cooked Meal | 53.00% | ~2,217 |
 | The First Week | 52.00% | ~2,175 |
-| Studious Researcher | 50.00% | ~2,091 |
-| Feast or Famine | 49.00% | ~2,049 |
-| Beam Me Up | 48.00% | ~2,007 |
-| Adept Researcher | 44.00% | ~1,840 |
+| Studious Researcher | 50.00% | ~2,092 |
+| Feast or Famine | 49.00% | ~2,050 |
+| Beam Me Up | 48.00% | ~2,008 |
+| Adept Researcher | 44.00% | ~1,841 |
 | Retribution | 39.00% | ~1,631 |
-| Fit For A King | 38.00% | ~1,589 |
-| ...And Don’t Come Back! | 38.00% | ~1,589 |
+| Fit For A King | 38.00% | ~1,590 |
+| ...And Don’t Come Back! | 38.00% | ~1,590 |
 | Luminary Researcher | 34.00% | ~1,422 |
 | Heating Up | 27.00% | ~1,129 |
 | Winter Is Coming | 24.00% | ~1,004 |
-| Winter Is Here | 20.00% | ~836 |
+| Winter Is Here | 20.00% | ~837 |
 | A Party Now | 18.00% | ~753 |
 | Oh Deer! | 18.00% | ~753 |
 | All Year Round | 18.00% | ~753 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~84 |
 | Wabbit Season | 0.70% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,182 (Ranked 137)  
+Progressed: 4,183 (Ranked 137)  
 Completed: 9 (0.22%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 9 (0.22%) (Ranked 154)
 | 2023-06-25 | 4,104 | 9 |
 | 2023-06-26 | 4,136 | 9 |
 | 2023-06-27 | 4,176 | 9 |
-| 2023-06-28 | 4,182 | 9 |
+| 2023-06-28 | 4,183 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 309)  
 Sum: 958 (Ranked 238)  

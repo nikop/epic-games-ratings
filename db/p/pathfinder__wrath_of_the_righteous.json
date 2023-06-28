@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2972,9 +2972,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10085,
+  "EOS_Progressed": 10086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7412,6 +7412,11 @@
       "Time": "2023-06-28T07:06:51.0255522+00:00",
       "NumProgressed": 10085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T08:06:51.8218902+00:00",
+      "NumProgressed": 10086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7439,7 +7444,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "04_FithCrusade",
@@ -8350,21 +8355,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8867,
+      "Progressed": 8868,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10085,
+      "Progressed": 10086,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-27T17:58:11.4833473+00:00",
-  "LastChanged_Achievements": "2023-06-28T07:06:51.0255515+00:00",
+  "LastChanged_Achievements": "2023-06-28T08:06:51.8218898+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-28T06:58:40.9197201+00:00",
-  "LastUpdate_Achievements": "2023-06-28T07:06:51.0257419+00:00"
+  "LastUpdate_Ratings": "2023-06-28T07:58:40.3749384+00:00",
+  "LastUpdate_Achievements": "2023-06-28T08:06:51.822036+00:00"
 }
