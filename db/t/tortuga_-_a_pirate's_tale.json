@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15784,
+  "EOS_Progressed": 15786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2023-06-27T23:05:59.3863538+00:00",
       "NumProgressed": 15784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T12:07:39.8616943+00:00",
+      "NumProgressed": 15786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2657,7 +2662,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14997
     },
     {
       "ID": "ACH001",
@@ -2665,7 +2670,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13732
+      "UsersEstimate": 13734
     },
     {
       "ID": "ACH0010",
@@ -2689,7 +2694,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7418
+      "UsersEstimate": 7419
     },
     {
       "ID": "ACH0013",
@@ -2697,7 +2702,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "ACH0014",
@@ -2705,7 +2710,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ACH0015",
@@ -2737,7 +2742,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "ACH0019",
@@ -2753,7 +2758,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11364
+      "UsersEstimate": 11366
     },
     {
       "ID": "ACH0020",
@@ -2809,7 +2814,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8681
+      "UsersEstimate": 8682
     },
     {
       "ID": "ACH004",
@@ -2817,7 +2822,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13890
+      "UsersEstimate": 13892
     },
     {
       "ID": "ACH005",
@@ -2825,7 +2830,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACH006",
@@ -2833,7 +2838,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6472
     },
     {
       "ID": "ACH007",
@@ -2849,7 +2854,7 @@
       "Name": "Oooh, We\u0027re Half Way There",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH009",
@@ -2864,7 +2869,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15784,
+      "Progressed": 15786,
       "Completed": 0
     }
   ],
@@ -2872,8 +2877,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-16T22:00:35.1733965+00:00",
-  "LastChanged_Achievements": "2023-06-28T11:07:40.7826286+00:00",
+  "LastChanged_Achievements": "2023-06-28T12:07:39.8616937+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.0283216+00:00",
-  "LastUpdate_Ratings": "2023-06-28T11:01:35.1655715+00:00",
-  "LastUpdate_Achievements": "2023-06-28T11:07:40.7826648+00:00"
+  "LastUpdate_Ratings": "2023-06-28T12:01:31.0860408+00:00",
+  "LastUpdate_Achievements": "2023-06-28T12:07:39.8617302+00:00"
 }

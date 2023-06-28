@@ -1,26 +1,26 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.48 (Ranked 583)  
+Rating: 4.50 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,514 |
-| Snatched Out | 70.00% | ~1,376 |
-| Keep 'Em Coming | 68.00% | ~1,337 |
-| Cleaning Lethe, One Nest At A Time | 57.00% | ~1,121 |
-| Call Me Snake | 51.00% | ~1,003 |
-| Something Lurks Under The Hills | 49.00% | ~963 |
-| This Was No Papercut | 49.00% | ~963 |
-| The Shrink Hates Me | 43.00% | ~845 |
-| Use The Bumper, That's What It's For | 41.00% | ~806 |
-| People Person | 41.00% | ~806 |
-| First Steps Into Madness | 37.00% | ~727 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,515 |
+| Snatched Out | 70.00% | ~1,378 |
+| Keep 'Em Coming | 68.00% | ~1,338 |
+| Cleaning Lethe, One Nest At A Time | 57.00% | ~1,122 |
+| Call Me Snake | 51.00% | ~1,004 |
+| Something Lurks Under The Hills | 49.00% | ~964 |
+| This Was No Papercut | 49.00% | ~964 |
+| The Shrink Hates Me | 43.00% | ~846 |
+| Use The Bumper, That's What It's For | 41.00% | ~807 |
+| People Person | 41.00% | ~807 |
+| First Steps Into Madness | 37.00% | ~728 |
 | Colonial Barrels | 36.00% | ~708 |
-| Damn Dude, You Gotta Lose Some Weight! | 32.00% | ~629 |
-| Harper's Hell | 26.00% | ~511 |
-| Making a Stand | 24.00% | ~472 |
-| Omelette Du Fromage | 23.00% | ~452 |
+| Damn Dude, You Gotta Lose Some Weight! | 32.00% | ~630 |
+| Harper's Hell | 26.00% | ~512 |
+| Making a Stand | 25.00% | ~492 |
+| Omelette Du Fromage | 23.00% | ~453 |
 | Recouped Investment | 22.00% | ~433 |
 | Where It All Begun | 19.00% | ~374 |
 | The More The Merrier | 12.00% | ~236 |
@@ -30,9 +30,9 @@ Rating: 4.48 (Ranked 583)
 | Come on, You Wanna Live Forever? | 8.00% | ~157 |
 | Deep Into Insanity | 7.00% | ~138 |
 | One For Every Occasion | 6.00% | ~118 |
+| Heavy Steps | 6.00% | ~118 |
 | El Riesgo Siempre Vive | 6.00% | ~118 |
 | The Passenger | 6.00% | ~118 |
-| Heavy Steps | 5.00% | ~98 |
 | Bandage Lover | 5.00% | ~98 |
 | Frontliner | 5.00% | ~98 |
 | The Cable Guy | 5.00% | ~98 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 583)
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,966 (Ranked 159)  
+Progressed: 1,968 (Ranked 159)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,10 +64,11 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 1,713 | 0 |
 | 2023-06-26 | 1,827 | 0 |
 | 2023-06-27 | 1,934 | 0 |
-| 2023-06-28 | 1,966 | 0 |
+| 2023-06-28 | 1,968 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-06-25 | 4.38 | 0 | 0 |
 | 2023-06-26 | 4.41 | 0 | 0 |
 | 2023-06-27 | 4.48 | 0 | 0 |
+| 2023-06-28 | 4.50 | 0 | 0 |

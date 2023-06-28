@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~340 |
 | War of the Five Kings | 1.00% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,009 (Ranked 102)  
+Progressed: 17,010 (Ranked 102)  
 Completed: 34 (0.20%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 34 (0.20%) (Ranked 159)
 | 2023-06-25 | 16,771 | 34 |
 | 2023-06-26 | 16,854 | 34 |
 | 2023-06-27 | 16,975 | 34 |
-| 2023-06-28 | 17,009 | 34 |
+| 2023-06-28 | 17,010 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 306)  
 Sum: 784 (Ranked 259)  

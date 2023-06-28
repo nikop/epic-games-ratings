@@ -30,12 +30,12 @@ Rating: 4.47 (Ranked 594)
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~28 |
+| Opposing Force | 0.90% | ~28 |
 | Enemy at the Gates | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |
 | Rigged to Blow | 0.90% | ~28 |
 | My Little Friend | 0.90% | ~28 |
 | Die Nussknacker Sweet! | 0.90% | ~28 |
-| Opposing Force | 0.80% | ~25 |
 | Fields of Glory | 0.80% | ~25 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Stroll in the Woods | 0.20% | ~6 |
 | Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,153 (Ranked 144)  
+Progressed: 3,154 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
-| 2023-06-28 | 3,153 | 6 |
+| 2023-06-28 | 3,154 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 95,
@@ -1320,7 +1320,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23811,
+  "EOS_Progressed": 23812,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -6720,6 +6720,11 @@
       "Time": "2023-06-28T11:03:29.6957793+00:00",
       "NumProgressed": 23811,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-28T12:03:18.3333224+00:00",
+      "NumProgressed": 23812,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6731,7 +6736,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17382
+      "UsersEstimate": 17383
     },
     {
       "ID": "Animated",
@@ -6843,7 +6848,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15239
+      "UsersEstimate": 15240
     },
     {
       "ID": "Escape_Artist",
@@ -6875,7 +6880,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7143
+      "UsersEstimate": 7144
     },
     {
       "ID": "Ghost_Expert",
@@ -6891,7 +6896,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7143
+      "UsersEstimate": 7144
     },
     {
       "ID": "Legions",
@@ -7035,7 +7040,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20477
+      "UsersEstimate": 20478
     },
     {
       "ID": "Summoner",
@@ -7059,7 +7064,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 13096
+      "UsersEstimate": 13097
     },
     {
       "ID": "Teamwork",
@@ -7115,7 +7120,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11429
+      "UsersEstimate": 11430
     },
     {
       "ID": "Welcome_Crew",
@@ -7138,7 +7143,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23811,
+      "Progressed": 23812,
       "Completed": 46
     }
   ],
@@ -7146,8 +7151,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-28T10:59:59.0806179+00:00",
-  "LastChanged_Achievements": "2023-06-28T11:03:29.6957786+00:00",
+  "LastChanged_Achievements": "2023-06-28T12:03:18.333322+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.3306533+00:00",
-  "LastUpdate_Ratings": "2023-06-28T10:59:59.0806184+00:00",
-  "LastUpdate_Achievements": "2023-06-28T11:03:29.6959205+00:00"
+  "LastUpdate_Ratings": "2023-06-28T11:59:53.955239+00:00",
+  "LastUpdate_Achievements": "2023-06-28T12:03:18.3334215+00:00"
 }

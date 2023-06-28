@@ -2,9 +2,9 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "mai-in-the-mysterious-castle-a9a60a",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 50,
+  "EOS_Completed_Percentage": 33.33,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -41,6 +41,11 @@
       "Time": "2023-06-27T02:28:12.6397761+00:00",
       "NumProgressed": 2,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-28T12:02:05.6926124+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -51,7 +56,7 @@
       "ID": "BlackSkeleton",
       "SetID": "a76l54k",
       "Name": "Black Skeleton",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -59,7 +64,7 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -67,7 +72,7 @@
       "ID": "GreenSkeleton",
       "SetID": "a76l54k",
       "Name": "Green Skeleton",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -83,7 +88,7 @@
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -91,7 +96,7 @@
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -100,14 +105,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-06-28T11:02:07.9500092+00:00",
+  "LastChanged_Achievements": "2023-06-28T12:02:05.6926119+00:00",
   "LastUpdate_AppInfo": "2023-06-22T10:57:04.1404935+00:00",
-  "LastUpdate_Ratings": "2023-06-28T10:57:25.4891358+00:00",
-  "LastUpdate_Achievements": "2023-06-28T11:02:07.9500226+00:00"
+  "LastUpdate_Ratings": "2023-06-28T11:57:13.6682716+00:00",
+  "LastUpdate_Achievements": "2023-06-28T12:02:05.6926249+00:00"
 }

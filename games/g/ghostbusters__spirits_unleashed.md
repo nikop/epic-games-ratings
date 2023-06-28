@@ -1,19 +1,19 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 568)  
+Rating: 4.49 (Ranked 569)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,477 |
-| Advancement | 73.00% | ~17,382 |
-| Meticulously Efficient | 64.00% | ~15,239 |
+| Stylish | 86.00% | ~20,478 |
+| Advancement | 73.00% | ~17,383 |
+| Meticulously Efficient | 64.00% | ~15,240 |
 | Discovery | 61.00% | ~14,525 |
-| Swift Rift Removers | 55.00% | ~13,096 |
+| Swift Rift Removers | 55.00% | ~13,097 |
 | Fully Upgraded | 54.00% | ~12,858 |
 | Cultured | 52.00% | ~12,382 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,144 |
-| Vaporous Expansion | 48.00% | ~11,429 |
+| Vaporous Expansion | 48.00% | ~11,430 |
 | Teamwork | 44.00% | ~10,477 |
 | There you are! | 43.00% | ~10,239 |
 | Clutch Capture | 41.00% | ~9,763 |
@@ -21,8 +21,8 @@ Rating: 4.49 (Ranked 568)
 | Daily Dose | 35.00% | ~8,334 |
 | Solo Capture | 32.00% | ~7,620 |
 | Welcome to the Crew | 32.00% | ~7,620 |
-| Ghostbuster In Training | 30.00% | ~7,143 |
-| Icing on the Cake | 30.00% | ~7,143 |
+| Ghostbuster In Training | 30.00% | ~7,144 |
+| Icing on the Cake | 30.00% | ~7,144 |
 | Side Hustle | 28.00% | ~6,667 |
 | We have the best insurance | 27.00% | ~6,429 |
 | Legions | 27.00% | ~6,429 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 568)
 | Mycophile | 1.00% | ~238 |
 | I don't need these | 0.90% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,811 (Ranked 95)  
+Progressed: 23,812 (Ranked 95)  
 Completed: 46 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 46 (0.19%) (Ranked 160)
 | 2023-06-25 | 23,737 | 46 |
 | 2023-06-26 | 23,772 | 46 |
 | 2023-06-27 | 23,799 | 46 |
-| 2023-06-28 | 23,811 | 46 |
+| 2023-06-28 | 23,812 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
 Sum: 2,136 (Ranked 186)  

@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 10.00% | ~5,641 |
 | Collateral Carnage | 10.00% | ~5,641 |
 | Come One, Come All | 10.00% | ~5,641 |
+| Gatekeeper | 9.00% | ~5,077 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,077 |
 | Thunder and Lightning | 9.00% | ~5,077 |
 | Two For the Price of One | 9.00% | ~5,077 |
-| Gatekeeper | 8.00% | ~4,513 |
 | The Lady of the Light | 8.00% | ~4,513 |
 | Energized! | 8.00% | ~4,513 |
 | A Friend in Need | 8.00% | ~1,590 |

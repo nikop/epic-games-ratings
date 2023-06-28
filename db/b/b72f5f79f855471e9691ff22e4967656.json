@@ -84,9 +84,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "drown",
@@ -140,9 +140,9 @@
       "ID": "interactBerry10",
       "SetID": "ci65fo0",
       "Name": "Gourmand",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "interactChest10",
@@ -340,9 +340,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "locDungeon2",
@@ -372,17 +372,17 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "questAntiquities",
@@ -420,9 +420,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questCemetery",
@@ -665,8 +665,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-06-28T11:03:34.1035932+00:00",
+  "LastChanged_Achievements": "2023-06-28T12:03:22.9295073+00:00",
   "LastUpdate_AppInfo": "2023-06-28T08:57:15.8387643+00:00",
-  "LastUpdate_Ratings": "2023-06-28T10:57:28.6148589+00:00",
-  "LastUpdate_Achievements": "2023-06-28T11:03:34.1037087+00:00"
+  "LastUpdate_Ratings": "2023-06-28T11:57:16.8215414+00:00",
+  "LastUpdate_Achievements": "2023-06-28T12:03:22.9295853+00:00"
 }

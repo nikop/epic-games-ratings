@@ -6,35 +6,35 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,565 |
-| Man of politics | 35.00% | ~4,750 |
-| Friends of sorts | 34.00% | ~4,614 |
-| Yet another secret | 34.00% | ~4,614 |
-| Let there be darkness | 33.00% | ~4,479 |
-| End of Book One | 31.00% | ~4,207 |
-| Garden of Eden | 25.00% | ~3,393 |
-| Wannabe knight | 24.00% | ~3,257 |
-| Full house | 24.00% | ~3,257 |
+| Tattletale | 41.00% | ~5,566 |
+| Man of politics | 35.00% | ~4,751 |
+| Friends of sorts | 34.00% | ~4,616 |
+| Yet another secret | 34.00% | ~4,616 |
+| Let there be darkness | 33.00% | ~4,480 |
+| End of Book One | 31.00% | ~4,208 |
+| Garden of Eden | 25.00% | ~3,394 |
+| Wannabe knight | 24.00% | ~3,258 |
+| Full house | 24.00% | ~3,258 |
 | Help an old friend | 22.00% | ~2,986 |
-| Two of us | 20.00% | ~2,714 |
+| Two of us | 20.00% | ~2,715 |
 | Negotiation skills | 19.00% | ~2,579 |
 | Workers' union | 19.00% | ~2,579 |
-| End of Book Two | 18.00% | ~2,443 |
-| Everything's in order | 17.00% | ~2,307 |
+| End of Book Two | 18.00% | ~2,444 |
+| Everything's in order | 17.00% | ~2,308 |
 | Jack was here! | 15.00% | ~2,036 |
-| Twist of Fate | 14.00% | ~1,900 |
-| Exterminator | 14.00% | ~1,900 |
-| Whodunnit | 13.00% | ~1,764 |
+| Twist of Fate | 14.00% | ~1,901 |
+| Exterminator | 14.00% | ~1,901 |
+| Whodunnit | 13.00% | ~1,765 |
 | Good midwife | 11.00% | ~1,493 |
 | Friar Tuck | 11.00% | ~1,493 |
 | First profit | 11.00% | ~1,493 |
-| Team player | 10.00% | ~1,357 |
-| Skilled merchant | 9.00% | ~1,221 |
-| Nothing but make-believe | 9.00% | ~1,221 |
-| Brother Marcus | 9.00% | ~1,221 |
-| The oath | 9.00% | ~1,221 |
-| The truth revealed | 9.00% | ~1,221 |
-| The End. | 9.00% | ~1,221 |
+| Team player | 10.00% | ~1,358 |
+| Skilled merchant | 9.00% | ~1,222 |
+| Nothing but make-believe | 9.00% | ~1,222 |
+| Brother Marcus | 9.00% | ~1,222 |
+| The oath | 9.00% | ~1,222 |
+| The truth revealed | 9.00% | ~1,222 |
+| The End. | 9.00% | ~1,222 |
 | A cry for help | 8.00% | ~1,086 |
 | Silentium est aureum | 7.00% | ~950 |
 | Rebel without a cause | 6.00% | ~814 |
@@ -46,9 +46,9 @@ Number of Ratings: 368  (23.09.2022)
 | Countess Aliena | 4.00% | ~543 |
 | Care, like a brother cares | 3.00% | ~407 |
 | A brush with death | 3.00% | ~407 |
-| Boy of mystery | 2.00% | ~271 |
+| Boy of mystery | 2.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,572 (Ranked 109)  
+Progressed: 13,575 (Ranked 109)  
 Completed: 103 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 103 (0.76%) (Ranked 108)
 | 2023-06-25 | 13,516 | 103 |
 | 2023-06-26 | 13,540 | 103 |
 | 2023-06-27 | 13,565 | 103 |
-| 2023-06-28 | 13,572 | 103 |
+| 2023-06-28 | 13,575 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

@@ -18,22 +18,22 @@ Rating: 4.17 (Ranked 857)
 | Knighthood | 3.00% | ~1,982 |
 | Whispered Words | 3.00% | ~1,982 |
 | Lock and Key | 3.00% | ~1,982 |
-| End of an Era | 2.00% | ~1,321 |
-| In Your Element | 2.00% | ~1,321 |
-| Protector of Gotham | 2.00% | ~1,321 |
-| The Show Mud Go On | 2.00% | ~1,321 |
-| Rock and a Hard Place | 2.00% | ~1,321 |
-| Not On My Watch | 2.00% | ~1,321 |
-| Bulldozed | 2.00% | ~1,321 |
-| Shock Til They Drop | 2.00% | ~1,321 |
-| Snow Problem | 2.00% | ~1,321 |
-| Cooldown | 2.00% | ~1,321 |
-| Universal Health Scare | 2.00% | ~1,321 |
-| Bad Apples in Every Orchard | 2.00% | ~1,321 |
-| From Inside Gotham's Walls | 2.00% | ~1,321 |
-| Voiceless | 2.00% | ~1,321 |
-| Seeking Asylum | 2.00% | ~1,321 |
-| Gotham Knight | 2.00% | ~1,321 |
+| End of an Era | 2.00% | ~1,322 |
+| In Your Element | 2.00% | ~1,322 |
+| Protector of Gotham | 2.00% | ~1,322 |
+| The Show Mud Go On | 2.00% | ~1,322 |
+| Rock and a Hard Place | 2.00% | ~1,322 |
+| Not On My Watch | 2.00% | ~1,322 |
+| Bulldozed | 2.00% | ~1,322 |
+| Shock Til They Drop | 2.00% | ~1,322 |
+| Snow Problem | 2.00% | ~1,322 |
+| Cooldown | 2.00% | ~1,322 |
+| Universal Health Scare | 2.00% | ~1,322 |
+| Bad Apples in Every Orchard | 2.00% | ~1,322 |
+| From Inside Gotham's Walls | 2.00% | ~1,322 |
+| Voiceless | 2.00% | ~1,322 |
+| Seeking Asylum | 2.00% | ~1,322 |
+| Gotham Knight | 2.00% | ~1,322 |
 | Out of Their League | 1.00% | ~661 |
 | Drone You Out | 1.00% | ~661 |
 | Gotham City Confidential | 1.00% | ~661 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,074 (Ranked 72)  
+Progressed: 66,075 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,074 | 99 |
+| 2023-06-28 | 66,075 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,394  (Ranked 100)  
 Sum: 3,958 (Ranked 138)  
