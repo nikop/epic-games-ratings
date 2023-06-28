@@ -67,7 +67,7 @@
 | 65 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.38% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -104,7 +104,7 @@
 | 102 | [Adios](games/a/adios.md) | 0.92% |
 | 103 | [Hades](games/h/hades.md) | 0.89% |
 | 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -122,8 +122,8 @@
 | 120 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 121 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 124 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
