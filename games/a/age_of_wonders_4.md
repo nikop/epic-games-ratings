@@ -1,20 +1,20 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 409)  
+Rating: 4.59 (Ranked 410)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.80% | ~39 |
-| Tipping the Scales | 0.70% | ~34 |
+| Tipping the Scales | 0.80% | ~39 |
+| My Final Form | 0.60% | ~29 |
+| Mighty Hoard | 0.60% | ~29 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |
 | Magical Synergy | 0.50% | ~24 |
-| My Final Form | 0.50% | ~24 |
 | Here be Dragons | 0.50% | ~24 |
-| Mighty Hoard | 0.50% | ~24 |
 | Walls Cannot Stop Us | 0.40% | ~19 |
 | Bone Peddler | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |

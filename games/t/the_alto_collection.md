@@ -6,30 +6,30 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,452 |
-| Rookie | 25.00% | ~7,165 |
-| Nomad | 18.00% | ~5,159 |
-| Picking Up Speed | 17.00% | ~4,872 |
-| Welcome Maya | 16.00% | ~4,586 |
-| Sightseer | 11.00% | ~3,153 |
-| Scout | 10.00% | ~2,866 |
-| Amateur | 9.00% | ~2,579 |
-| Wanderer | 9.00% | ~2,579 |
-| Enter Paz | 8.00% | ~2,293 |
-| Unlock Maya | 7.00% | ~2,006 |
-| Aviator | 6.00% | ~1,720 |
-| One With The Board | 6.00% | ~1,720 |
-| My Little Friend | 5.00% | ~1,433 |
-| Voyager | 5.00% | ~1,433 |
-| Sandboarder | 4.00% | ~1,146 |
-| Izel Has Arrived | 4.00% | ~1,146 |
+| Finding Your Footing | 26.00% | ~7,456 |
+| Rookie | 25.00% | ~7,169 |
+| Nomad | 18.00% | ~5,162 |
+| Picking Up Speed | 17.00% | ~4,875 |
+| Welcome Maya | 16.00% | ~4,588 |
+| Sightseer | 11.00% | ~3,154 |
+| Scout | 10.00% | ~2,868 |
+| Amateur | 9.00% | ~2,581 |
+| Wanderer | 9.00% | ~2,581 |
+| Enter Paz | 8.00% | ~2,294 |
+| Unlock Maya | 7.00% | ~2,007 |
+| Aviator | 6.00% | ~1,721 |
+| One With The Board | 6.00% | ~1,721 |
+| My Little Friend | 5.00% | ~1,434 |
+| Voyager | 5.00% | ~1,434 |
+| Sandboarder | 4.00% | ~1,147 |
+| Izel Has Arrived | 4.00% | ~1,147 |
 | Junkie | 3.00% | ~860 |
 | Traveler | 3.00% | ~860 |
 | Journeyer | 3.00% | ~860 |
 | Unlock Paz | 3.00% | ~860 |
-| Pro | 2.00% | ~573 |
-| Human Flight | 2.00% | ~573 |
-| Here Comes Felipe | 2.00% | ~573 |
+| Pro | 2.00% | ~574 |
+| Human Flight | 2.00% | ~574 |
+| Here Comes Felipe | 2.00% | ~574 |
 | Explorer | 1.00% | ~287 |
 | Hoist the Mainsail | 1.00% | ~287 |
 | Unlock Izel | 1.00% | ~287 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~29 |
 | Windswept | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,661 (Ranked 92)  
+Progressed: 28,676 (Ranked 92)  
 Completed: 5 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,10 +115,10 @@ Completed: 5 (0.02%) (Ranked 210)
 | 2023-06-25 | 28,196 | 5 |
 | 2023-06-26 | 28,358 | 5 |
 | 2023-06-27 | 28,530 | 5 |
-| 2023-06-28 | 28,661 | 5 |
+| 2023-06-28 | 28,676 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
-Sum: 349 (Ranked 321)  
+Sum: 350 (Ranked 321)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -126,7 +126,7 @@ Diff (max vs sum): 87
 | This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 41 |
 | This game has Beautiful Visuals | 38 |
-| This game has Quickly Understood Controls | 36 |
+| This game has Quickly Understood Controls | 37 |
 | This game is Relaxing | 35 |
 | This game is Extremely Fun | 34 |
 | This game has Amazing Storytelling | 27 |
@@ -225,3 +225,4 @@ Diff (max vs sum): 87
 | 2023-06-17 | 4.70 | - | 45 | 347 |
 | 2023-06-24 | 4.70 | - | 45 | 348 |
 | 2023-06-25 | 4.70 | - | 45 | 349 |
+| 2023-06-28 | 4.70 | - | 45 | 350 |

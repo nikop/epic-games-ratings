@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~10,524 |
-| Mama? | 28.00% | ~3,877 |
-| People's Haven | 19.00% | ~2,631 |
+| Light at the end of the tunnel | 76.00% | ~10,528 |
+| Mama? | 28.00% | ~3,879 |
+| People's Haven | 19.00% | ~2,632 |
 | Cartographer | 18.00% | ~2,493 |
-| Knowledge for Power | 15.00% | ~2,077 |
-| Antlers of Stone | 15.00% | ~2,077 |
+| Knowledge for Power | 15.00% | ~2,078 |
+| Antlers of Stone | 15.00% | ~2,078 |
 | Gaze into the abyss | 14.00% | ~1,939 |
 | Mausoleum of Ice | 14.00% | ~1,939 |
-| Equilibrium | 13.00% | ~1,800 |
+| Equilibrium | 13.00% | ~1,801 |
 | In the belly of the beast | 12.00% | ~1,662 |
 | Wings of Stone | 12.00% | ~1,662 |
 | Condor condo | 10.00% | ~1,385 |
-| Memorial | 9.00% | ~1,246 |
+| Memorial | 9.00% | ~1,247 |
 | An uninvited guest | 8.00% | ~1,108 |
-| Written in stone | 7.00% | ~969 |
-| Talk to all the spirit animals | 7.00% | ~969 |
+| Written in stone | 7.00% | ~970 |
+| Talk to all the spirit animals | 7.00% | ~970 |
 | Ripples on the surface | 6.00% | ~831 |
 | Tails of Stone | 6.00% | ~831 |
 | Baa from the past | 6.00% | ~831 |
-| Hide and Seek | 5.00% | ~692 |
+| Hide and Seek | 5.00% | ~693 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,848 (Ranked 108)  
+Progressed: 13,852 (Ranked 108)  
 Completed: 293 (2.12%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 293 (2.12%) (Ranked 73)
 | 2023-06-25 | 13,565 | 281 |
 | 2023-06-26 | 13,663 | 283 |
 | 2023-06-27 | 13,758 | 290 |
-| 2023-06-28 | 13,848 | 293 |
+| 2023-06-28 | 13,852 | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

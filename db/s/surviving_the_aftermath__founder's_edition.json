@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6899,
+  "EOS_Progressed": 6900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6835,6 +6835,11 @@
       "Time": "2023-06-28T21:04:06.2372063+00:00",
       "NumProgressed": 6899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T23:04:23.3368449+00:00",
+      "NumProgressed": 6900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6846,7 +6851,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "10",
@@ -6878,7 +6883,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "14",
@@ -6892,17 +6897,17 @@
       "ID": "15",
       "SetID": "8idi9ml",
       "Name": "Legendary Explorer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1932
     },
     {
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2898
     },
     {
       "ID": "17",
@@ -6926,7 +6931,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "2",
@@ -6958,7 +6963,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "23",
@@ -7317,15 +7322,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6899,
+      "Progressed": 6900,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-06-28T22:03:55.7283056+00:00",
+  "LastChanged_Achievements": "2023-06-28T23:04:23.3368441+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.3280658+00:00",
-  "LastUpdate_Ratings": "2023-06-28T22:00:18.309975+00:00",
-  "LastUpdate_Achievements": "2023-06-28T22:03:55.7283733+00:00"
+  "LastUpdate_Ratings": "2023-06-28T23:01:21.4786908+00:00",
+  "LastUpdate_Achievements": "2023-06-28T23:04:23.3369795+00:00"
 }

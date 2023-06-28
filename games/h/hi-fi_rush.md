@@ -24,7 +24,7 @@ Rating: 4.89 (Ranked 13)
 | The Negotiator | 39.00% | ~1,311 |
 | You must like calling me in, Chai | 34.00% | ~1,143 |
 | Out in a puff of smoke | 34.00% | ~1,143 |
-| Headliner | 32.00% | ~1,076 |
+| Headliner | 33.00% | ~1,109 |
 | Time to pay up! | 30.00% | ~1,009 |
 | Who's the boss now? | 29.00% | ~975 |
 | Perfecter Parry-er! | 29.00% | ~975 |

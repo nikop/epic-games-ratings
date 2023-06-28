@@ -556,7 +556,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 461813,
+  "EOS_Progressed": 461816,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 1,
@@ -7581,6 +7581,11 @@
       "Time": "2023-06-28T22:06:46.8720987+00:00",
       "NumProgressed": 461813,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-28T23:07:45.4566845+00:00",
+      "NumProgressed": 461816,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 79,
@@ -8152,7 +8157,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -8223,21 +8228,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 5747,
+      "Progressed": 5750,
       "Completed": 2351
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 461813,
+      "Progressed": 461816,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-24T19:00:55.9935874+00:00",
-  "LastChanged_Achievements": "2023-06-28T22:06:46.8720982+00:00",
+  "LastChanged_Achievements": "2023-06-28T23:07:45.4566839+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:16.1793295+00:00",
-  "LastUpdate_Ratings": "2023-06-28T21:59:36.7632604+00:00",
-  "LastUpdate_Achievements": "2023-06-28T22:06:46.8721953+00:00"
+  "LastUpdate_Ratings": "2023-06-28T23:00:32.0706723+00:00",
+  "LastUpdate_Achievements": "2023-06-28T23:07:45.4568419+00:00"
 }

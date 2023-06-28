@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -8069,9 +8069,9 @@
       "Count": 5165
     }
   ],
-  "EOS_Progressed": 861950,
+  "EOS_Progressed": 861955,
   "EOS_Completed": 1808,
-  "EOS_NewPlayers": 3036,
+  "EOS_NewPlayers": 3020,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15459,6 +15459,11 @@
       "Time": "2023-06-28T22:06:33.0927955+00:00",
       "NumProgressed": 861950,
       "NumCompleted": 1808
+    },
+    {
+      "Time": "2023-06-28T23:07:29.0486219+00:00",
+      "NumProgressed": 861955,
+      "NumCompleted": 1808
     }
   ],
   "TotalAchievements": 44,
@@ -15470,7 +15475,7 @@
       "Name": "City Lights",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "BornToBeWild",
@@ -15486,7 +15491,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 137912
+      "UsersEstimate": 137913
     },
     {
       "ID": "Cyberjunkie",
@@ -15502,7 +15507,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 327541
+      "UsersEstimate": 327543
     },
     {
       "ID": "FollowingTheRiver",
@@ -15542,7 +15547,7 @@
       "Name": "Gun Fu",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 120673
+      "UsersEstimate": 120674
     },
     {
       "ID": "Gunslinger",
@@ -15574,7 +15579,7 @@
       "Name": "Mean Streets",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "LittleTokyo",
@@ -15582,7 +15587,7 @@
       "Name": "Little Tokyo",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "MasterRunner",
@@ -15590,7 +15595,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 189629
+      "UsersEstimate": 189630
     },
     {
       "ID": "MaxPain",
@@ -15638,7 +15643,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 172390
+      "UsersEstimate": 172391
     },
     {
       "ID": "Roleplayer",
@@ -15646,7 +15651,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 241346
+      "UsersEstimate": 241347
     },
     {
       "ID": "Specialist",
@@ -15686,7 +15691,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 586126
+      "UsersEstimate": 586129
     },
     {
       "ID": "TheHermit",
@@ -15694,7 +15699,7 @@
       "Name": "The Hermit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 198248
+      "UsersEstimate": 198250
     },
     {
       "ID": "TheHightPriestess",
@@ -15702,7 +15707,7 @@
       "Name": "The High Priestess",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 181010
+      "UsersEstimate": 181011
     },
     {
       "ID": "TheLovers",
@@ -15710,7 +15715,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 293063
+      "UsersEstimate": 293065
     },
     {
       "ID": "TheStar",
@@ -15734,7 +15739,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224107
+      "UsersEstimate": 224108
     },
     {
       "ID": "TheWorld",
@@ -15750,7 +15755,7 @@
       "Name": "Greetings from Pacifica!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "TradeUnion",
@@ -15758,7 +15763,7 @@
       "Name": "The Jungle",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "TrueSoldier",
@@ -15766,7 +15771,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 189629
+      "UsersEstimate": 189630
     },
     {
       "ID": "TrueWarrior",
@@ -15774,7 +15779,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 120673
+      "UsersEstimate": 120674
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -15782,7 +15787,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 94814
+      "UsersEstimate": 94815
     },
     {
       "ID": "UnderPressure",
@@ -15798,7 +15803,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "YipMan",
@@ -15806,7 +15811,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25858
+      "UsersEstimate": 25859
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -15814,22 +15819,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 181010
+      "UsersEstimate": 181011
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 861950,
+      "Progressed": 861955,
       "Completed": 1808
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-06-28T20:58:03.8582391+00:00",
-  "LastChanged_Achievements": "2023-06-28T22:06:33.0927951+00:00",
+  "LastChanged_Achievements": "2023-06-28T23:07:29.0486213+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:23.4450002+00:00",
-  "LastUpdate_Ratings": "2023-06-28T21:58:02.4232722+00:00",
-  "LastUpdate_Achievements": "2023-06-28T22:06:33.0928648+00:00"
+  "LastUpdate_Ratings": "2023-06-28T22:58:35.682669+00:00",
+  "LastUpdate_Achievements": "2023-06-28T23:07:29.0487185+00:00"
 }

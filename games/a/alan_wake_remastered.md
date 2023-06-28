@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,625 |
-| Let There Be Light | 26.00% | ~14,674 |
+| Follow the Light | 33.00% | ~18,626 |
+| Let There Be Light | 26.00% | ~14,675 |
 | Float Like a Butterfly | 25.00% | ~14,110 |
 | Nordic Walking | 20.00% | ~11,288 |
 | Bright Falls' Finest | 20.00% | ~11,288 |
@@ -19,9 +19,9 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 12.00% | ~6,773 |
 | Missed by a Mile | 12.00% | ~6,773 |
 | Damn Good Cup of Coffee | 12.00% | ~6,773 |
-| Wheels Within Wheels | 11.00% | ~6,208 |
-| They're Heeeeeere! | 11.00% | ~6,208 |
-| The Six-Gun Scribe | 11.00% | ~6,208 |
+| Wheels Within Wheels | 11.00% | ~6,209 |
+| They're Heeeeeere! | 11.00% | ~6,209 |
+| The Six-Gun Scribe | 11.00% | ~6,209 |
 | Heavy Metal | 10.00% | ~5,644 |
 | Iron Horse | 10.00% | ~5,644 |
 | Perchance to Dream | 10.00% | ~5,644 |
@@ -36,12 +36,12 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend in Need | 8.00% | ~1,593 |
 | What Light Through Yonder Window | 7.00% | ~3,951 |
 | Right of Way | 7.00% | ~3,951 |
-| Tornado Wrangler | 6.00% | ~3,386 |
-| Departure | 6.00% | ~3,386 |
-| A Friend Indeed | 6.00% | ~1,194 |
+| Tornado Wrangler | 6.00% | ~3,387 |
+| Departure | 6.00% | ~3,387 |
+| A Friend Indeed | 6.00% | ~1,195 |
 | Drink 'Em Both Up | 5.00% | ~2,822 |
 | Hardboiled Writer | 5.00% | ~2,822 |
-| Ding! | 5.00% | ~995 |
+| Ding! | 5.00% | ~996 |
 | Children of the Elder God | 4.00% | ~2,258 |
 | KBF-FM | 4.00% | ~2,258 |
 | Boob Tube | 3.00% | ~1,693 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,440 (Ranked 79)  
+Progressed: 56,442 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 56 (0.10%) (Ranked 177)
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
 | 2023-06-27 | 56,377 | 56 |
-| 2023-06-28 | 56,440 | 56 |
+| 2023-06-28 | 56,442 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

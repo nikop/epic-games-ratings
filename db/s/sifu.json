@@ -4878,10 +4878,10 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710261,
-  "EOS_Completed": 12794,
-  "EOS_NewPlayers": 342,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 710263,
+  "EOS_Completed": 12795,
+  "EOS_NewPlayers": 344,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -11508,6 +11508,11 @@
       "Time": "2023-06-28T21:06:29.1957742+00:00",
       "NumProgressed": 710261,
       "NumCompleted": 12794
+    },
+    {
+      "Time": "2023-06-28T23:07:44.0800725+00:00",
+      "NumProgressed": 710263,
+      "NumCompleted": 12795
     }
   ],
   "TotalAchievements": 50,
@@ -11533,9 +11538,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7103
+      "UsersEstimate": 14205
     },
     {
       "ID": "04_Vengeance_H3",
@@ -11855,7 +11860,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -11918,21 +11923,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19562,
+      "Progressed": 19564,
       "Completed": 10325
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710261,
-      "Completed": 12794
+      "Progressed": 710263,
+      "Completed": 12795
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-28T11:00:03.1089722+00:00",
-  "LastChanged_Achievements": "2023-06-28T22:06:45.7421074+00:00",
+  "LastChanged_Achievements": "2023-06-28T23:07:44.0800718+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-28T21:59:18.9527517+00:00",
-  "LastUpdate_Achievements": "2023-06-28T22:06:45.7421788+00:00"
+  "LastUpdate_Ratings": "2023-06-28T23:00:10.8064272+00:00",
+  "LastUpdate_Achievements": "2023-06-28T23:07:44.0802417+00:00"
 }
