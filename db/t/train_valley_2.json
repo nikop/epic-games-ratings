@@ -2,13 +2,13 @@
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.12,
   "NumberOfRatings": 87,
   "RatingHistory": [
     {
@@ -255,6 +255,12 @@
     {
       "Time": "2023-06-10T08:57:46.2173649+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2023-06-28T09:58:02.8229734+00:00",
+      "Rating": 4.12,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 72
     }
@@ -1128,9 +1134,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2023-06-10T08:57:46.2173648+00:00",
-  "LastChanged_Achievements": "2023-06-28T09:04:46.9404315+00:00",
+  "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
+  "LastChanged_Achievements": "2023-06-28T10:05:22.0500906+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.4841625+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:57:50.7962463+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:04:46.9405037+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:58:02.822974+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:05:22.0501566+00:00"
 }

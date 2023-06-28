@@ -37,11 +37,11 @@ Rating: 4.47 (Ranked 594)
 | Die Nussknacker Sweet! | 0.90% | ~28 |
 | Opposing Force | 0.80% | ~25 |
 | Fields of Glory | 0.80% | ~25 |
+| Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
-| Herr Today, Gone Tomorrow | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |

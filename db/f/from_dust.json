@@ -2,10 +2,10 @@
   "ID": "2bcf2fdc85594071846aa803926b8681",
   "Name": "From Dust",
   "ProductSlug": "from-dust",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-02-09T16:00:00+00:00",
     "PcReleaseDate": "2011-08-17T19:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:46.915713+00:00",
   "LastChanged": "2023-03-31T05:58:46.9157132+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.5545183+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:58:30.1620878+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:04:52.0411949+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:59:00.4516471+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:05:29.6333984+00:00"
 }

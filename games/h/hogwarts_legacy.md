@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,177 |
-| First Class Student | 9.00% | ~25,359 |
-| Troll with the Punches | 9.00% | ~25,359 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,178 |
+| First Class Student | 9.00% | ~25,360 |
+| Troll with the Punches | 9.00% | ~25,360 |
 | Grappling with a Graphorn | 8.00% | ~22,542 |
 | The One Who Mastered Memories | 8.00% | ~22,542 |
 | The Hallowed Hero | 8.00% | ~22,542 |
@@ -36,10 +36,10 @@ Rating: 4.77 (Ranked 108)
 | Room with a View | 3.00% | ~8,453 |
 | The Intrepid Explorer | 3.00% | ~8,453 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,453 |
-| Put Down Roots | 2.00% | ~5,635 |
-| The Auror's Apprentice | 2.00% | ~5,635 |
-| Floo Around the World | 2.00% | ~5,635 |
-| The Wise Owl | 2.00% | ~5,635 |
+| Put Down Roots | 2.00% | ~5,636 |
+| The Auror's Apprentice | 2.00% | ~5,636 |
+| Floo Around the World | 2.00% | ~5,636 |
+| The Wise Owl | 2.00% | ~5,636 |
 | The Good Samaritan | 1.00% | ~2,818 |
 | Savvy Spender | 1.00% | ~2,818 |
 | Rise to the Challenges | 1.00% | ~2,818 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,772 (Ranked 41)  
+Progressed: 281,775 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 413 (0.15%) (Ranked 167)
 | 2023-06-25 | 281,503 | 413 |
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
-| 2023-06-28 | 281,772 | 413 |
+| 2023-06-28 | 281,775 | 413 |
 ## Awards
 Max (Character Customization): 20,457  (Ranked 17)  
 Sum: 38,045 (Ranked 30)  

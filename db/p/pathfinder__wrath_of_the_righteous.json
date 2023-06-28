@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2972,9 +2972,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10087,
+  "EOS_Progressed": 10088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7422,6 +7422,11 @@
       "Time": "2023-06-28T09:06:19.5583579+00:00",
       "NumProgressed": 10087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T10:07:33.1302579+00:00",
+      "NumProgressed": 10088,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7465,7 +7470,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -7489,7 +7494,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "09_PathOfDemon",
@@ -7641,7 +7646,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "29_StrategicVictory",
@@ -7777,7 +7782,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "46_AllPathsOpen",
@@ -7785,7 +7790,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -7825,7 +7830,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -8360,21 +8365,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8869,
+      "Progressed": 8870,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10087,
+      "Progressed": 10088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-27T17:58:11.4833473+00:00",
-  "LastChanged_Achievements": "2023-06-28T09:06:19.5583576+00:00",
+  "LastChanged_Achievements": "2023-06-28T10:07:33.1302575+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:58:33.7658915+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:06:19.558526+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:59:05.9219818+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:07:33.1305207+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "599d248ca46b45a8b40a3b4e484712cb",
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 149,
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2019-12-04T11:00:00+00:00",
     "PcReleaseDate": "2018-05-31T15:00:00+00:00",
@@ -3847,10 +3847,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 3352,
       "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2023-06-28T10:00:55.7963774+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3355,
+      "NumberOfAwardsMax": 490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3352,
+  "NumberOfAwards": 3355,
   "NumberOfAwardsMax": 490,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3894,7 +3900,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 413
+      "Count": 416
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3926,8 +3932,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-06-27T23:59:35.9870078+00:00",
+  "LastChanged": "2023-06-28T10:00:55.7963773+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:00.9380215+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:59:46.6682205+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:03:15.7240756+00:00"
+  "LastUpdate_Ratings": "2023-06-28T10:00:55.796378+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:03:09.3692412+00:00"
 }

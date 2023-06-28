@@ -16,22 +16,22 @@ Rating: 4.38 (Ranked 711)
 | Travel Company | 64.00% | ~895 |
 | Mind the Gap | 63.00% | ~881 |
 | All around the World | 61.00% | ~853 |
-| Right through the middle | 57.00% | ~797 |
+| Right through the middle | 56.00% | ~783 |
 | Poor Devil | 54.00% | ~755 |
 | Facility Manager | 53.00% | ~741 |
-| Producer | 50.00% | ~699 |
-| Apprentice | 42.00% | ~587 |
-| Bridge Builder | 41.00% | ~573 |
-| Access granted | 35.00% | ~489 |
-| Going once, going twice, sold | 34.00% | ~475 |
-| Stoker | 33.00% | ~461 |
-| Full Steam ahead | 32.00% | ~447 |
-| Bull and bear | 32.00% | ~447 |
-| Financial Shark | 29.00% | ~405 |
-| All mine | 28.00% | ~391 |
-| Mole | 28.00% | ~391 |
-| Country Life | 26.00% | ~363 |
-| Socializer | 26.00% | ~363 |
+| Producer | 50.00% | ~700 |
+| Apprentice | 42.00% | ~588 |
+| Bridge Builder | 41.00% | ~574 |
+| Access granted | 35.00% | ~490 |
+| Going once, going twice, sold | 34.00% | ~476 |
+| Stoker | 33.00% | ~462 |
+| Full Steam ahead | 32.00% | ~448 |
+| Bull and bear | 32.00% | ~448 |
+| Financial Shark | 29.00% | ~406 |
+| All mine | 28.00% | ~392 |
+| Mole | 28.00% | ~392 |
+| Socializer | 27.00% | ~378 |
+| Country Life | 26.00% | ~364 |
 | General Manager | 25.00% | ~350 |
 | Hostile Takeover | 25.00% | ~350 |
 | Seven at one stroke | 23.00% | ~322 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 711)
 | Three Cheers for Progress | 0.10% | ~1 |
 | United States | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,398 (Ranked 169)  
+Progressed: 1,399 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 1,367 | 0 |
 | 2023-06-26 | 1,385 | 0 |
 | 2023-06-27 | 1,398 | 0 |
+| 2023-06-28 | 1,399 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,12 +11,12 @@ Rating: 4.59 (Ranked 409)
 | Mighty Hoard | 0.40% | ~19 |
 | Realm Estate | 0.30% | ~15 |
 | A Wonderful Discovery | 0.30% | ~15 |
+| Bone Peddler | 0.30% | ~15 |
 | From Friends to Family | 0.30% | ~15 |
 | Stronger Together | 0.30% | ~15 |
 | Magical Synergy | 0.30% | ~15 |
 | Here be Dragons | 0.30% | ~15 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
-| Bone Peddler | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
@@ -57,7 +57,7 @@ Rating: 4.59 (Ranked 409)
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,859 (Ranked 133)  
-Completed: 3 (0.06%) (Ranked 193)  
+Completed: 4 (0.08%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 3 (0.06%) (Ranked 193)
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
-| 2023-06-28 | 4,859 | 3 |
+| 2023-06-28 | 4,859 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.68 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,10 +21,10 @@ Rating: 4.68 (Ranked 241)
 | The word around is... | 4.00% | ~21 |
 | Liar Liar | 4.00% | ~21 |
 | The cycle acknowledged | 4.00% | ~21 |
+| Queen | 4.00% | ~21 |
 | Baba Yaga | 4.00% | ~21 |
 | Extensive retelling | 3.00% | ~16 |
 | Both sides | 3.00% | ~16 |
-| Queen | 3.00% | ~16 |
 | Witch's cookbook | 3.00% | ~16 |
 | Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |

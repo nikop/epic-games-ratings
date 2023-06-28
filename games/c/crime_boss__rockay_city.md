@@ -5,20 +5,20 @@ Rating: 3.93 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,253 |
-| First One’s Free | 65.00% | ~44,142 |
-| Neophyte Ninja | 50.00% | ~33,955 |
-| Too Old for This | 47.00% | ~31,918 |
-| Fancy Pants | 35.00% | ~23,768 |
-| Case Closed | 34.00% | ~23,089 |
-| King of the Hill | 34.00% | ~23,089 |
+| Downed but Not Outed | 74.00% | ~50,255 |
+| First One’s Free | 65.00% | ~44,143 |
+| Neophyte Ninja | 50.00% | ~33,956 |
+| Too Old for This | 47.00% | ~31,919 |
+| Fancy Pants | 35.00% | ~23,769 |
+| Case Closed | 34.00% | ~23,090 |
+| King of the Hill | 34.00% | ~23,090 |
 | Underworld Initiate | 29.00% | ~19,694 |
-| Roid Ranger | 21.00% | ~14,261 |
+| Roid Ranger | 21.00% | ~14,262 |
 | True Player | 19.00% | ~12,903 |
 | Off the Rocks | 19.00% | ~12,903 |
 | Dragonslayer | 17.00% | ~11,545 |
 | Raider’s Ruin | 16.00% | ~10,866 |
-| Hidden Sonata | 13.00% | ~8,828 |
+| Hidden Sonata | 13.00% | ~8,829 |
 | Rockay Rex | 11.00% | ~7,470 |
 | Freebooter | 10.00% | ~6,791 |
 | Track Star | 9.00% | ~6,112 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 921)
 | Geek Out | 0.50% | ~340 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,910 (Ranked 71)  
+Progressed: 67,912 (Ranked 71)  
 Completed: 35 (0.05%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,14 +112,14 @@ Completed: 35 (0.05%) (Ranked 197)
 | 2023-06-25 | 67,779 | 34 |
 | 2023-06-26 | 67,835 | 34 |
 | 2023-06-27 | 67,885 | 34 |
-| 2023-06-28 | 67,910 | 35 |
+| 2023-06-28 | 67,912 | 35 |
 ## Awards
-Max (Diverse Characters): 344  (Ranked 221)  
-Sum: 1,649 (Ranked 208)  
+Max (Diverse Characters): 346  (Ranked 221)  
+Sum: 1,651 (Ranked 208)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 344 |
+| This game has Diverse Characters | 346 |
 | This game is Highly Recommended | 340 |
 | This game has Quickly Understood Controls | 328 |
 | This game has Challenging Combat | 320 |
@@ -221,4 +221,4 @@ Diff (max vs sum): 13
 | 2023-06-25 | 3.93 | 344 | 1,639 |
 | 2023-06-26 | 3.94 | 344 | 1,643 |
 | 2023-06-27 | 3.93 | 344 | 1,647 |
-| 2023-06-28 | 3.93 | 344 | 1,649 |
+| 2023-06-28 | 3.93 | 346 | 1,651 |

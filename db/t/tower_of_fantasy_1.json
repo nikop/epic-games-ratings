@@ -2,10 +2,10 @@
   "ID": "a1044097d6a24080a3aa04b1909ca089",
   "Name": "Tower of Fantasy",
   "ProductSlug": "toweroffantasy",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-06-26T16:00:00+00:00",
     "PcReleaseDate": "2099-06-26T16:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-23T23:57:27.2795081+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:58:06.1703974+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:04:04.0014811+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:58:25.8043092+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:04:19.1076121+00:00"
 }

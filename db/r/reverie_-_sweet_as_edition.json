@@ -2,10 +2,10 @@
   "ID": "82aad7acf5384a5ba5d00d4549819260",
   "Name": "Reverie - Sweet As Edition",
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-28T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -25,9 +25,291 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-06-28T10:07:00.5892457+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllFeathers",
+      "SetID": "d3o713f",
+      "Name": "Ornithologist",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllInventory",
+      "SetID": "d3o713f",
+      "Name": "Where Does He Fit Them All?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllQuest",
+      "SetID": "d3o713f",
+      "Name": "Hoarder",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BeatArcade",
+      "SetID": "d3o713f",
+      "Name": "Renegade Fighter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BonusDungeon",
+      "SetID": "d3o713f",
+      "Name": "You\u0027re Making Me Violent",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cloak",
+      "SetID": "d3o713f",
+      "Name": "Stop Trying to Hit Me and Hit Me!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CricketBat",
+      "SetID": "d3o713f",
+      "Name": "Not Your Standard Weapon",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DartGun",
+      "SetID": "d3o713f",
+      "Name": "Nerf This!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon1",
+      "SetID": "d3o713f",
+      "Name": "Basement Dweller",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon2",
+      "SetID": "d3o713f",
+      "Name": "Tree Climber",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon3",
+      "SetID": "d3o713f",
+      "Name": "Beach Boy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon4",
+      "SetID": "d3o713f",
+      "Name": "Tomb Raider",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dungeon5",
+      "SetID": "d3o713f",
+      "Name": "Mountaineer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FeatherBook",
+      "SetID": "d3o713f",
+      "Name": "We All Need a Hobby",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishGame",
+      "SetID": "d3o713f",
+      "Name": "Peace on Toromi Island",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fisherman",
+      "SetID": "d3o713f",
+      "Name": "Determination Beats Luck",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InvRearrange",
+      "SetID": "d3o713f",
+      "Name": "Everything in its Right Place",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KiwiGrove",
+      "SetID": "d3o713f",
+      "Name": "Why Aren\u0027t They Sleeping?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KiwiKrew",
+      "SetID": "d3o713f",
+      "Name": "You Know Them Well!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MaxCoins",
+      "SetID": "d3o713f",
+      "Name": "Mr Moneybags",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Microwave",
+      "SetID": "d3o713f",
+      "Name": "The Competition is Heating Up!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PetRock",
+      "SetID": "d3o713f",
+      "Name": "I Shall Call Him Stephen",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pizza",
+      "SetID": "d3o713f",
+      "Name": "The Right Side of History",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RugbyFacility",
+      "SetID": "d3o713f",
+      "Name": "The Rugby Conspiracy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShootingRange",
+      "SetID": "d3o713f",
+      "Name": "Dead Eye",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Shovel",
+      "SetID": "d3o713f",
+      "Name": "Do You Want to Build a Sand Castle?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Snorkel",
+      "SetID": "d3o713f",
+      "Name": "Ain\u0027t No River Wide Enough",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TalkToDog",
+      "SetID": "d3o713f",
+      "Name": "Mr Millan, I Presume?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Try",
+      "SetID": "d3o713f",
+      "Name": "Legend in Training",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tuatara",
+      "SetID": "d3o713f",
+      "Name": "The Land Before Time",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WalkDog",
+      "SetID": "d3o713f",
+      "Name": "Walkies",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WheelShoes",
+      "SetID": "d3o713f",
+      "Name": "Gotta Go Fast!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WheelshoesInside",
+      "SetID": "d3o713f",
+      "Name": "There\u0027s a Time and Place for Everything",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WorldMap",
+      "SetID": "d3o713f",
+      "Name": "Just Like Captain Cook",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Yoyo",
+      "SetID": "d3o713f",
+      "Name": "Wind it Up!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d3o713f",
@@ -37,8 +319,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
-  "LastChanged_Achievements": "2023-06-28T09:05:55.0775708+00:00",
+  "LastChanged_Achievements": "2023-06-28T10:07:00.5892447+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:20.0506128+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:59:20.6105948+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:05:55.0775756+00:00"
+  "LastUpdate_Ratings": "2023-06-28T10:00:17.172705+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:07:00.5892735+00:00"
 }

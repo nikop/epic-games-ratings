@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~220 |
-| Where's that freaking Dwarf? | 87.00% | ~208 |
-| Sock! SOCK! | 69.00% | ~165 |
-| Fireproof Wizardess | 56.00% | ~134 |
+| Alt+F4 | 93.00% | ~223 |
+| Where's that freaking Dwarf? | 87.00% | ~209 |
+| Sock! SOCK! | 69.00% | ~166 |
+| Fireproof Wizardess | 55.00% | ~132 |
 | Livin' in a dwarven paradise | 53.00% | ~127 |
 | Déjà vu | 51.00% | ~122 |
 | GG EZ | 51.00% | ~122 |
@@ -17,7 +17,7 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 45.00% | ~108 |
 | Oh, when I'll be level 10... | 36.00% | ~86 |
 | Speedrun | 35.00% | ~84 |
-| A beer, two curses, three companions | 33.00% | ~79 |
+| A beer, two curses, three companions | 34.00% | ~82 |
 | The plot thickens... At the tavern | 33.00% | ~79 |
 | Team Building Exercise | 33.00% | ~79 |
 | I am the night | 31.00% | ~74 |
@@ -25,8 +25,8 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 30.00% | ~72 |
 | Thieves' Guild Accreditation | 28.00% | ~67 |
 | Look but don't touch | 26.00% | ~62 |
-| The demons' feast | 24.00% | ~57 |
-| The Great Library | 24.00% | ~57 |
+| The demons' feast | 24.00% | ~58 |
+| The Great Library | 24.00% | ~58 |
 | Shiny and Crôm | 22.00% | ~53 |
 | The Statuette of Gladeulfeurah | 22.00% | ~53 |
 | A tale of adventurers not quite like the others... | 22.00% | ~53 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 18.00% | ~43 |
 | The Blood Countess | 16.00% | ~38 |
 | Urik's Depths | 15.00% | ~36 |
-| Cursed die | 14.00% | ~33 |
+| Cursed die | 14.00% | ~34 |
 | Res Judicata | 13.00% | ~31 |
 | Law and Order | 13.00% | ~31 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~29 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 250)  
+Progressed: 240 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
 | 2023-06-27 | 234 | 0 |
-| 2023-06-28 | 239 | 0 |
+| 2023-06-28 | 240 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

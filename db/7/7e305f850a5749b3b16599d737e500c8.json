@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 31.25,
+  "EOS_Completed_Percentage": 30.86,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -461,6 +461,11 @@
       "Time": "2023-06-27T16:03:44.9493677+00:00",
       "NumProgressed": 80,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-28T10:04:16.4439527+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 18,
@@ -470,7 +475,7 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 150,
       "UsersEstimate": 26
     },
@@ -480,13 +485,13 @@
       "Name": "Dreamkeeper",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 58
     },
@@ -494,7 +499,7 @@
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 55
     },
@@ -502,7 +507,7 @@
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
       "UsersEstimate": 59
     },
@@ -510,7 +515,7 @@
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 56
     },
@@ -526,7 +531,7 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 50,
       "UsersEstimate": 55
     },
@@ -534,7 +539,7 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 49
     },
@@ -542,7 +547,7 @@
       "ID": "Justice",
       "SetID": "b7i210",
       "Name": "Justice",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
       "UsersEstimate": 36
     },
@@ -558,7 +563,7 @@
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -566,7 +571,7 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -574,7 +579,7 @@
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -582,7 +587,7 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 50
     },
@@ -590,7 +595,7 @@
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 49
     },
@@ -598,7 +603,7 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 50
     },
@@ -608,21 +613,21 @@
       "Name": "Troubleshooter",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "b7i210",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-28T09:04:02.176759+00:00",
+  "LastChanged_Achievements": "2023-06-28T10:04:16.4439522+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:57:34.4368633+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:04:02.176776+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:57:38.9165879+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:04:16.4439715+00:00"
 }

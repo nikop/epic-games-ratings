@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "getPoisoned",
@@ -148,17 +148,17 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "killElk50",
@@ -276,9 +276,9 @@
       "ID": "killStone500",
       "SetID": "ci65fo0",
       "Name": "Epic Stone Crusher",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "killTree100",
@@ -665,8 +665,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-06-28T09:03:26.0136534+00:00",
+  "LastChanged_Achievements": "2023-06-28T10:03:24.3558716+00:00",
   "LastUpdate_AppInfo": "2023-06-28T08:57:15.8387643+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:57:22.2276591+00:00",
-  "LastUpdate_Achievements": "2023-06-28T09:03:26.0137394+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:57:20.731084+00:00",
+  "LastUpdate_Achievements": "2023-06-28T10:03:24.3559455+00:00"
 }

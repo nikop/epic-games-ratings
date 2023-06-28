@@ -63,13 +63,13 @@
 | Scrambled Eggs | 8.00% | ~7 |
 | I want to throw up! | 7.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
+| Ancient Ruins of Imperfectly Designed Walls | 5.00% | ~4 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~3 |
-| Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
 | Fifty Shades of Gruyere | 2.00% | ~2 |
