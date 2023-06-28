@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Welcome to Olydri | 100.00% | ~1 |
 | Champion of the Coalition | 0.00% | ~0 |
 | Legendary Logs | 0.00% | ~0 |
 | MVP Drek | 0.00% | ~0 |
@@ -59,7 +60,6 @@
 | Baster's All Geared Up | 0.00% | ~0 |
 | Nolife | 0.00% | ~0 |
 | Rapier Wit | 0.00% | ~0 |
-| Welcome to Olydri | 0.00% | ~0 |
 | Chapter 3 Owned | 0.00% | ~0 |
 | Pro Gamer | 0.00% | ~0 |
 | Newbie | 0.00% | ~0 |
@@ -77,3 +77,10 @@
 | Warpzone | 0.00% | ~0 |
 | 2013 and 2017 records | 0.00% | ~0 |
 | Masks off | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 447)  
+Completed: 0 (0.00%) (Ranked 230)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-28 | 1 | 0 |

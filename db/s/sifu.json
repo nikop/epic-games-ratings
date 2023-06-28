@@ -4872,9 +4872,9 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710225,
+  "EOS_Progressed": 710227,
   "EOS_Completed": 12794,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11427,6 +11427,11 @@
       "Time": "2023-06-28T04:07:00.8088861+00:00",
       "NumProgressed": 710225,
       "NumCompleted": 12794
+    },
+    {
+      "Time": "2023-06-28T05:07:28.4828592+00:00",
+      "NumProgressed": 710227,
+      "NumCompleted": 12794
     }
   ],
   "TotalAchievements": 50,
@@ -11438,7 +11443,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14204
+      "UsersEstimate": 14205
     },
     {
       "ID": "02_Vengeance_H1",
@@ -11446,7 +11451,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14204
+      "UsersEstimate": 14205
     },
     {
       "ID": "03_Vengeance_H2",
@@ -11614,7 +11619,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14204
+      "UsersEstimate": 14205
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -11702,7 +11707,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14204
+      "UsersEstimate": 14205
     },
     {
       "ID": "35_WideStrike",
@@ -11837,21 +11842,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19526,
+      "Progressed": 19528,
       "Completed": 10325
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710225,
+      "Progressed": 710227,
       "Completed": 12794
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-27T23:58:52.8288872+00:00",
-  "LastChanged_Achievements": "2023-06-28T04:07:00.8088856+00:00",
+  "LastChanged_Achievements": "2023-06-28T05:07:28.4828588+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:59:26.0599075+00:00",
-  "LastUpdate_Achievements": "2023-06-28T04:07:00.8089509+00:00"
+  "LastUpdate_Ratings": "2023-06-28T04:59:38.1282149+00:00",
+  "LastUpdate_Achievements": "2023-06-28T05:07:28.4829393+00:00"
 }

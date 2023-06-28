@@ -6,7 +6,7 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13777,
+  "EOS_Progressed": 13780,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -7449,6 +7449,11 @@
       "Time": "2023-06-28T04:06:50.5005957+00:00",
       "NumProgressed": 13777,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-06-28T05:07:16.9810185+00:00",
+      "NumProgressed": 13780,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 20,
@@ -7492,7 +7497,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -7516,7 +7521,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -7564,7 +7569,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "GAME_FINISHED",
@@ -7580,7 +7585,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10471
+      "UsersEstimate": 10473
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7604,7 +7609,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "WEST_FINISHED",
@@ -7619,15 +7624,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13777,
+      "Progressed": 13780,
       "Completed": 290
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-28T04:06:50.5005951+00:00",
+  "LastChanged_Achievements": "2023-06-28T05:07:16.981018+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-28T04:00:33.7434234+00:00",
-  "LastUpdate_Achievements": "2023-06-28T04:06:50.5006406+00:00"
+  "LastUpdate_Ratings": "2023-06-28T05:01:00.338252+00:00",
+  "LastUpdate_Achievements": "2023-06-28T05:07:16.9811091+00:00"
 }

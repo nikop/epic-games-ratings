@@ -12,7 +12,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 31.00% | ~907 |
 | An Ill Omen | 30.00% | ~878 |
 | Purging Spree | 24.00% | ~702 |
-| Blood for the Blood God! | 18.00% | ~526 |
+| Blood for the Blood God! | 18.00% | ~527 |
 | Friendly Fire | 17.00% | ~497 |
 | Surgical Excision | 16.00% | ~468 |
 | Bloodless | 16.00% | ~468 |
@@ -33,13 +33,13 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 3.00% | ~88 |
 | Junk Banishment | 3.00% | ~88 |
 | Tactical Flexibility | 3.00% | ~88 |
-| Patron of Deimos | 2.00% | ~58 |
-| Exterminator | 2.00% | ~58 |
-| Hands-On Research | 2.00% | ~58 |
-| Only in Death | 2.00% | ~58 |
-| Preservationist | 2.00% | ~58 |
-| Engine Kill | 2.00% | ~58 |
-| Death Comes For All | 2.00% | ~58 |
+| Patron of Deimos | 2.00% | ~59 |
+| Exterminator | 2.00% | ~59 |
+| Hands-On Research | 2.00% | ~59 |
+| Only in Death | 2.00% | ~59 |
+| Preservationist | 2.00% | ~59 |
+| Engine Kill | 2.00% | ~59 |
+| Death Comes For All | 2.00% | ~59 |
 | Clean Slate | 1.00% | ~29 |
 | Fleetmaster | 1.00% | ~29 |
 | For the Machine God | 1.00% | ~29 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,925 (Ranked 148)  
+Progressed: 2,926 (Ranked 148)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 2,923 | 0 |
 | 2023-06-26 | 2,924 | 0 |
 | 2023-06-27 | 2,925 | 0 |
+| 2023-06-28 | 2,926 | 0 |
 ## Awards
 Max (Character Customization): 212  (Ranked 261)  
 Sum: 426 (Ranked 303)  

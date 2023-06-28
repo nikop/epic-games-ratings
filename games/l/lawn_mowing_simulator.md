@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~514,008 |
-| Every story has a beginning | 36.00% | ~228,448 |
-| The first of many | 32.00% | ~203,065 |
-| Positive word of mouth | 18.00% | ~114,224 |
-| Lawn in the U.S.A. | 15.00% | ~95,187 |
-| Blade Runner | 9.00% | ~57,112 |
-| Credible | 7.00% | ~44,420 |
+| The dream begins | 81.00% | ~514,019 |
+| Every story has a beginning | 36.00% | ~228,453 |
+| The first of many | 32.00% | ~203,069 |
+| Positive word of mouth | 18.00% | ~114,226 |
+| Lawn in the U.S.A. | 15.00% | ~95,189 |
+| Blade Runner | 9.00% | ~57,113 |
+| Credible | 7.00% | ~44,421 |
 | Teamwork makes the dream work | 6.00% | ~38,075 |
-| Where there's muck there's brass | 4.00% | ~25,383 |
-| Bigger and better | 4.00% | ~25,383 |
-| Aggressive expansion | 4.00% | ~25,383 |
-| Size isn't everything | 3.00% | ~19,037 |
-| Close shave | 3.00% | ~19,037 |
-| Established | 3.00% | ~19,037 |
+| Where there's muck there's brass | 4.00% | ~25,384 |
+| Bigger and better | 4.00% | ~25,384 |
+| Aggressive expansion | 4.00% | ~25,384 |
+| Size isn't everything | 3.00% | ~19,038 |
+| Close shave | 3.00% | ~19,038 |
+| Established | 3.00% | ~19,038 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,692 |
 | Every good deed… | 2.00% | ~12,692 |
 | Leaner and meaner | 2.00% | ~12,692 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~635 |
 | Mo mowers, mo problems | 0.10% | ~635 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634,578 (Ranked 22)  
+Progressed: 634,591 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 14 (0.00%) (Ranked 230)
 | 2023-06-25 | 633,549 | 14 |
 | 2023-06-26 | 634,021 | 14 |
 | 2023-06-27 | 634,508 | 14 |
-| 2023-06-28 | 634,578 | 14 |
+| 2023-06-28 | 634,591 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 278)  
 Sum: 966 (Ranked 235)  

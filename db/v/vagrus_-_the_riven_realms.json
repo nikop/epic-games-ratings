@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -486,9 +486,9 @@
       "ID": "Vanilla_CombatStrenghtTier1",
       "SetID": "27kik8p",
       "Name": "Tactician",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Vanilla_CombatStrenghtTier2",
@@ -598,9 +598,9 @@
       "ID": "Vanilla_DistantFreshNews",
       "SetID": "27kik8p",
       "Name": "Harbinger",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1143,8 +1143,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-06-28T04:07:02.0711402+00:00",
+  "LastChanged_Achievements": "2023-06-28T05:07:29.7954654+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:38.5763917+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:59:13.0616876+00:00",
-  "LastUpdate_Achievements": "2023-06-28T04:07:02.0712365+00:00"
+  "LastUpdate_Ratings": "2023-06-28T04:59:22.0354347+00:00",
+  "LastUpdate_Achievements": "2023-06-28T05:07:29.7956433+00:00"
 }

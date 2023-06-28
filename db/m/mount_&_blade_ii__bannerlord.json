@@ -5083,10 +5083,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13548,
       "NumberOfAwardsMax": 6725
+    },
+    {
+      "Time": "2023-06-28T05:00:28.6523731+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13550,
+      "NumberOfAwardsMax": 6725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13548,
+  "NumberOfAwards": 13550,
   "NumberOfAwardsMax": 6725,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5124,7 +5130,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 762
+      "Count": 764
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5163,9 +5169,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54380,
+  "EOS_Progressed": 54383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12208,6 +12214,11 @@
       "Time": "2023-06-28T04:07:00.4138749+00:00",
       "NumProgressed": 54380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T05:07:28.026244+00:00",
+      "NumProgressed": 54383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12227,7 +12238,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7614
     },
     {
       "ID": "Bannerlord",
@@ -12307,7 +12318,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "Entrepreneur",
@@ -12395,7 +12406,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "Jack of All Trades",
@@ -12443,7 +12454,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16858
+      "UsersEstimate": 16859
     },
     {
       "ID": "Lawbringer",
@@ -12451,7 +12462,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19577
+      "UsersEstimate": 19578
     },
     {
       "ID": "Lawmaker",
@@ -12579,7 +12590,7 @@
       "Name": "This Is Our Land",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "This is Sparta",
@@ -12619,22 +12630,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54380,
+      "Progressed": 54383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-28T04:00:07.1808975+00:00",
-  "LastChanged_Achievements": "2023-06-28T04:07:00.4138743+00:00",
+  "LastChanged": "2023-06-28T05:00:28.6523728+00:00",
+  "LastChanged_Achievements": "2023-06-28T05:07:28.0262435+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-28T04:00:07.1808982+00:00",
-  "LastUpdate_Achievements": "2023-06-28T04:07:00.4139405+00:00"
+  "LastUpdate_Ratings": "2023-06-28T05:00:28.6523738+00:00",
+  "LastUpdate_Achievements": "2023-06-28T05:07:28.0263448+00:00"
 }

@@ -12,10 +12,11 @@ Rating: 4.59 (Ranked 409)
 | A Wonderful Discovery | 0.30% | ~15 |
 | From Friends to Family | 0.30% | ~15 |
 | Stronger Together | 0.30% | ~15 |
+| Magical Synergy | 0.30% | ~15 |
 | Mighty Hoard | 0.30% | ~15 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
-| Magical Synergy | 0.20% | ~10 |
+| Digging for Treasure | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
 | Impenetrable Fortress | 0.20% | ~10 |
 | Here be Dragons | 0.20% | ~10 |
@@ -33,7 +34,6 @@ Rating: 4.59 (Ranked 409)
 | The Creator | 0.10% | ~5 |
 | Enchanted Archipelago | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
-| Digging for Treasure | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
