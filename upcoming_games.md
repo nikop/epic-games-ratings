@@ -13,7 +13,6 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-06-30 | - |  | - | - |
 | [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | 2023-06-30 | - |  | - | - |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
-| [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | - |  | - | - |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | - |  | - | - |
 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-06-30 | 16 (1,000 XP) | 1 | - | - |
@@ -93,6 +92,7 @@
 | [Dungeons and Bombs](games/d/dungeons_and_bombs.md) | 2023-09-30 | - |  | - | - |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-09-30 | - |  | - | - |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-30 | - |  | - | - |
+| [Iron Dungeon](games/i/iron_dungeon.md) | 2023-09-30 | - |  | - | - |
 | [MidEvil](games/c/c5a7105b5a09460b9bc3bfb9c8e5e719.md) | 2023-09-30 | - |  | - | - |
 | [Molten Horn](games/m/molten_horn.md) | 2023-09-30 | - |  | - | - |
 | [Murder Is Game Over - Streaming Death](games/m/murder_is_game_over_-_streaming_death.md) | 2023-09-30 | - |  | - | - |

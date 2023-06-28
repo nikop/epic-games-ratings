@@ -128,7 +128,7 @@
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 502 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,668 | 115 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 46 | 405 |
-| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,881 | 38 |
+| 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,898 | 38 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 502 |
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 344 | 222 |
 | 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 474 |
@@ -278,7 +278,7 @@
 | 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 271 |
 | 274 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 502 |
 | 274 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 126 |
-| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 328 | 224 |
+| 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 328 | 225 |
 | 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 502 |
 | 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 502 |
 | 274 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 502 |
@@ -663,7 +663,7 @@
 | 661 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 502 |
 | 661 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 63 | 380 |
 | 661 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 30 | 455 |
-| 661 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,272 | 30 |
+| 661 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,282 | 30 |
 | 661 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 502 |
 | 661 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,155 | 133 |
 | 661 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
@@ -678,7 +678,7 @@
 | 671 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 0 | 502 |
 | 671 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 502 |
 | 671 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.41 | 0 | 502 |
-| 671 | [MORDHAU](games/m/mordhau.md) | 4.41 | 326 | 225 |
+| 671 | [MORDHAU](games/m/mordhau.md) | 4.41 | 331 | 224 |
 | 671 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 502 |
 | 671 | [Othercide](games/o/othercide.md) | 4.41 | 0 | 502 |
 | 671 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.41 | 0 | 502 |
@@ -709,7 +709,7 @@
 | 702 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,711 | 32 |
 | 702 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 367 |
 | 702 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 502 |
-| 702 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 225 |
+| 702 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 226 |
 | 711 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 502 |
 | 711 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 502 |
 | 711 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 562 | 179 |
