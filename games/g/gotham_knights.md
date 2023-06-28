@@ -44,7 +44,7 @@ Rating: 4.17 (Ranked 857)
 | A Worthy Successor | 0.80% | ~529 |
 | Dressed to Impress | 0.70% | ~463 |
 | A Momentum Occasion | 0.50% | ~330 |
-| Bat Out of Hell | 0.40% | ~264 |
+| Bat Out of Hell | 0.50% | ~330 |
 | Hammer and Icicle | 0.30% | ~109 |
 | Practice Makes Perfect | 0.30% | ~198 |
 | He'd Be So Proud of You | 0.30% | ~198 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,079 (Ranked 72)  
+Progressed: 66,080 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,079 | 99 |
+| 2023-06-28 | 66,080 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,394  (Ranked 100)  
 Sum: 3,958 (Ranked 138)  

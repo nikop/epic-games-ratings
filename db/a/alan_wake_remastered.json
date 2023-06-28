@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56426,
+  "EOS_Progressed": 56432,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 0,
@@ -6362,6 +6362,11 @@
       "Time": "2023-06-28T18:02:17.1013814+00:00",
       "NumProgressed": 56426,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-28T19:02:15.684071+00:00",
+      "NumProgressed": 56432,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6373,7 +6378,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18621
+      "UsersEstimate": 18623
     },
     {
       "ID": "02",
@@ -6381,7 +6386,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11285
+      "UsersEstimate": 11286
     },
     {
       "ID": "03",
@@ -6389,7 +6394,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11285
+      "UsersEstimate": 11286
     },
     {
       "ID": "04",
@@ -6405,7 +6410,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9592
+      "UsersEstimate": 9593
     },
     {
       "ID": "06",
@@ -6437,7 +6442,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "10",
@@ -6469,7 +6474,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "14",
@@ -6477,7 +6482,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "15",
@@ -6485,7 +6490,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "16",
@@ -6509,7 +6514,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "19",
@@ -6533,7 +6538,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "22",
@@ -6541,7 +6546,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "23",
@@ -6557,7 +6562,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "25",
@@ -6573,7 +6578,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "27",
@@ -6597,7 +6602,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "30",
@@ -6605,7 +6610,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5078
+      "UsersEstimate": 5079
     },
     {
       "ID": "31",
@@ -6613,7 +6618,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7335
+      "UsersEstimate": 7336
     },
     {
       "ID": "32",
@@ -6621,7 +6626,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14106
+      "UsersEstimate": 14108
     },
     {
       "ID": "33",
@@ -6629,7 +6634,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "34",
@@ -6637,7 +6642,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "35",
@@ -6645,7 +6650,7 @@
       "Name": "Let There Be Light",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14671
+      "UsersEstimate": 14672
     },
     {
       "ID": "36",
@@ -6693,7 +6698,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7335
+      "UsersEstimate": 7336
     },
     {
       "ID": "42",
@@ -6733,7 +6738,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6771
+      "UsersEstimate": 6772
     },
     {
       "ID": "47",
@@ -6789,7 +6794,7 @@
       "Name": "Fast and Furious",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "54",
@@ -6908,21 +6913,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56426,
+      "Progressed": 56432,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19894,
+      "Progressed": 19900,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-28T18:02:17.1013807+00:00",
+  "LastChanged_Achievements": "2023-06-28T19:02:15.6840698+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-28T17:58:14.1629269+00:00",
-  "LastUpdate_Achievements": "2023-06-28T18:02:17.1014941+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:58:17.1612148+00:00",
+  "LastUpdate_Achievements": "2023-06-28T19:02:15.6841761+00:00"
 }

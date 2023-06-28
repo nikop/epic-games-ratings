@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,639 |
-| That's a Grand Army | 8.00% | ~5,013 |
-| That is mine! | 8.00% | ~5,013 |
-| Victorious! | 8.00% | ~5,013 |
-| Brothers in Arms | 6.00% | ~3,760 |
-| That's a Grand Navy | 6.00% | ~3,760 |
-| Seriously?! | 6.00% | ~3,760 |
-| For the Glory | 5.00% | ~3,133 |
-| Cold War | 4.00% | ~2,506 |
-| True Catholic | 4.00% | ~2,506 |
+| Until death do us apart | 9.00% | ~5,641 |
+| That's a Grand Army | 8.00% | ~5,014 |
+| That is mine! | 8.00% | ~5,014 |
+| Victorious! | 8.00% | ~5,014 |
+| Brothers in Arms | 6.00% | ~3,761 |
+| That's a Grand Navy | 6.00% | ~3,761 |
+| Seriously?! | 6.00% | ~3,761 |
+| For the Glory | 5.00% | ~3,134 |
+| Cold War | 4.00% | ~2,507 |
+| True Catholic | 4.00% | ~2,507 |
 | Defender of the Faith | 3.00% | ~1,880 |
 | It's all about the money | 3.00% | ~1,880 |
 | Respected | 3.00% | ~1,880 |
 | Truly Divine Ruler | 3.00% | ~1,880 |
-| Agressive Expander | 2.00% | ~1,253 |
-| Blockader | 2.00% | ~1,253 |
-| Combined Arms | 2.00% | ~1,253 |
-| Double the Love | 2.00% | ~1,253 |
-| Gentle Persuasion | 2.00% | ~1,253 |
-| It's all about luck | 2.00% | ~1,253 |
-| My armies are invincible! | 2.00% | ~1,253 |
-| Queen of Conquest | 2.00% | ~1,253 |
-| Royal Authority | 2.00% | ~1,253 |
-| The Princess is in this Castle | 2.00% | ~1,253 |
-| Total Control | 2.00% | ~1,253 |
+| Agressive Expander | 2.00% | ~1,254 |
+| Blockader | 2.00% | ~1,254 |
+| Combined Arms | 2.00% | ~1,254 |
+| Double the Love | 2.00% | ~1,254 |
+| Gentle Persuasion | 2.00% | ~1,254 |
+| It's all about luck | 2.00% | ~1,254 |
+| My armies are invincible! | 2.00% | ~1,254 |
+| Queen of Conquest | 2.00% | ~1,254 |
+| Royal Authority | 2.00% | ~1,254 |
+| The Princess is in this Castle | 2.00% | ~1,254 |
+| Total Control | 2.00% | ~1,254 |
 | All That's Thine Shall Be Mine | 1.00% | ~627 |
 | Azur semé de lis or | 1.00% | ~627 |
 | Bright Spark | 1.00% | ~627 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,660 (Ranked 77)  
+Progressed: 62,680 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 61,352 | 0 |
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
-| 2023-06-28 | 62,660 | 0 |
+| 2023-06-28 | 62,680 | 0 |
 ## Awards
 Max (Educational): 5,469  (Ranked 61)  
 Sum: 45,168 (Ranked 27)  

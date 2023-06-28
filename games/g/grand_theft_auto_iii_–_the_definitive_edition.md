@@ -5,37 +5,37 @@ Rating: 4.14 (Ranked 874)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~5,686 |
-| Disposing of the Evidence | 37.00% | ~2,534 |
-| Without a Scratch | 33.00% | ~2,260 |
+| First Day on the Job | 83.00% | ~5,687 |
+| Disposing of the Evidence | 37.00% | ~2,535 |
+| Without a Scratch | 33.00% | ~2,261 |
 | Wreckless Driving | 27.00% | ~1,850 |
 | A Marked Man | 24.00% | ~1,644 |
-| Street Sweeper | 17.00% | ~1,164 |
+| Street Sweeper | 17.00% | ~1,165 |
 | Liberty City Minute | 16.00% | ~1,096 |
-| Offshore Delivery | 13.00% | ~890 |
+| Offshore Delivery | 13.00% | ~891 |
 | Dirty Money | 12.00% | ~822 |
-| By a Mile | 9.00% | ~616 |
-| Not So Fast | 9.00% | ~616 |
-| Right-hand Man | 9.00% | ~616 |
+| By a Mile | 9.00% | ~617 |
+| Not So Fast | 9.00% | ~617 |
+| Right-hand Man | 9.00% | ~617 |
 | A Gift from the King | 7.00% | ~480 |
 | Full Artillery | 4.00% | ~274 |
 | Mob Boss | 2.00% | ~137 |
 | Splish Splash | 2.00% | ~137 |
 | Liberty City Secrets | 2.00% | ~137 |
-| Escape Artist | 1.00% | ~68 |
-| Planned Ahead | 1.00% | ~68 |
-| Got This Figured Out | 1.00% | ~68 |
-| Wheels Up | 1.00% | ~68 |
-| Come Out to Play-y-y-y | 1.00% | ~68 |
-| Where To? | 1.00% | ~68 |
-| Man Toyz | 1.00% | ~68 |
-| Playing Doctor | 1.00% | ~68 |
-| Going Rogue | 1.00% | ~68 |
+| Escape Artist | 1.00% | ~69 |
+| Planned Ahead | 1.00% | ~69 |
+| Got This Figured Out | 1.00% | ~69 |
+| Wheels Up | 1.00% | ~69 |
+| Come Out to Play-y-y-y | 1.00% | ~69 |
+| Where To? | 1.00% | ~69 |
+| Man Toyz | 1.00% | ~69 |
+| Playing Doctor | 1.00% | ~69 |
+| Going Rogue | 1.00% | ~69 |
 | Furious First Responder | 0.90% | ~62 |
 | Is That All You've Got? | 0.80% | ~55 |
 | King of Liberty City | 0.60% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,850 (Ranked 123)  
+Progressed: 6,852 (Ranked 123)  
 Completed: 40 (0.58%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 40 (0.58%) (Ranked 119)
 | 2023-06-25 | 6,834 | 39 |
 | 2023-06-26 | 6,840 | 39 |
 | 2023-06-27 | 6,847 | 40 |
-| 2023-06-28 | 6,850 | 40 |
+| 2023-06-28 | 6,852 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

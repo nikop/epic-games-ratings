@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -676,9 +676,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6325,
+  "EOS_Progressed": 6326,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3116,6 +3116,11 @@
       "Time": "2023-06-27T23:02:16.4676946+00:00",
       "NumProgressed": 6325,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-28T19:03:11.686935+00:00",
+      "NumProgressed": 6326,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3183,7 +3188,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -3231,7 +3236,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -3263,7 +3268,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -3295,7 +3300,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3375,7 +3380,7 @@
       "Name": "Silver Lining",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -3391,7 +3396,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -3423,7 +3428,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -3479,14 +3484,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6325,
+      "Progressed": 6326,
       "Completed": 8
     }
   ],
@@ -3494,8 +3499,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-26T19:57:59.6691095+00:00",
-  "LastChanged_Achievements": "2023-06-28T18:03:22.1686722+00:00",
+  "LastChanged_Achievements": "2023-06-28T19:03:11.6869343+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.3316297+00:00",
-  "LastUpdate_Ratings": "2023-06-28T17:57:57.5130845+00:00",
-  "LastUpdate_Achievements": "2023-06-28T18:03:22.1687283+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:57:58.4888158+00:00",
+  "LastUpdate_Achievements": "2023-06-28T19:03:11.6869927+00:00"
 }

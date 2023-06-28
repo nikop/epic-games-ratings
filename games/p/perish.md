@@ -24,6 +24,7 @@
 | Siege Unit | 3.00% | ~91 |
 | Eidola | 3.00% | ~91 |
 | Divine Assemblage | 3.00% | ~91 |
+| Ophiolatreia | 3.00% | ~91 |
 | Comedy and Tragedy | 2.00% | ~61 |
 | Forged in Fire | 2.00% | ~61 |
 | Chthonic Investor | 2.00% | ~61 |
@@ -32,7 +33,6 @@
 | Labour of Apollo | 2.00% | ~61 |
 | Vandili | 2.00% | ~61 |
 | Cloaca Maxima | 2.00% | ~61 |
-| Ophiolatreia | 2.00% | ~61 |
 | Halls of Marble | 2.00% | ~61 |
 | Mors Omnibus | 2.00% | ~61 |
 | Blot Out the Sky | 2.00% | ~61 |

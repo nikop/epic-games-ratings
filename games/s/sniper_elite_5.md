@@ -39,9 +39,9 @@ Rating: 4.47 (Ranked 594)
 | Fields of Glory | 0.80% | ~25 |
 | Shipbreaker | 0.70% | ~22 |
 | Strategist | 0.60% | ~19 |
+| It'll Buff Right Out | 0.60% | ~19 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Operation Foxley | 0.60% | ~19 |
-| It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Last Resort | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Sight Beyond Sights | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,158 (Ranked 144)  
+Progressed: 3,159 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
-| 2023-06-28 | 3,158 | 6 |
+| 2023-06-28 | 3,159 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

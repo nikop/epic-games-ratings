@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55458,
+  "EOS_Progressed": 55462,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4587,6 +4587,11 @@
       "Time": "2023-06-28T18:03:53.2124531+00:00",
       "NumProgressed": 55458,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-28T19:03:45.4633818+00:00",
+      "NumProgressed": 55462,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4686,7 +4691,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "FoolMeTwice",
@@ -4934,7 +4939,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "TimelySplash",
@@ -4989,7 +4994,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55458,
+      "Progressed": 55462,
       "Completed": 4
     }
   ],
@@ -4997,8 +5002,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-28T18:03:53.2124525+00:00",
+  "LastChanged_Achievements": "2023-06-28T19:03:45.4633807+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:50.6025347+00:00",
-  "LastUpdate_Ratings": "2023-06-28T18:01:19.4762168+00:00",
-  "LastUpdate_Achievements": "2023-06-28T18:03:53.212604+00:00"
+  "LastUpdate_Ratings": "2023-06-28T19:01:44.5859609+00:00",
+  "LastUpdate_Achievements": "2023-06-28T19:03:45.4634639+00:00"
 }

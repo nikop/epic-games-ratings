@@ -17,10 +17,10 @@
 | Just Some Improvements | 22.00% | ~8 |
 | A Little Extra Love | 19.00% | ~7 |
 | A New Strategy | 19.00% | ~7 |
+| My Precious Gems! | 16.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~6 |
 | A Generous Leader | 16.00% | ~6 |
 | Final Announcement | 16.00% | ~6 |
-| My Precious Gems! | 14.00% | ~5 |
 | Orcharion Boost | 14.00% | ~5 |
 | Case Closed | 14.00% | ~5 |
 | An Unexpected Visitor | 14.00% | ~5 |

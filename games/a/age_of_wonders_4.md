@@ -9,27 +9,27 @@ Rating: 4.59 (Ranked 409)
 | Tipping the Scales | 0.70% | ~34 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
+| From Friends to Family | 0.50% | ~24 |
+| Stronger Together | 0.50% | ~24 |
+| Magical Synergy | 0.50% | ~24 |
 | My Final Form | 0.50% | ~24 |
+| Here be Dragons | 0.50% | ~24 |
 | Mighty Hoard | 0.50% | ~24 |
-| From Friends to Family | 0.40% | ~19 |
-| Stronger Together | 0.40% | ~19 |
-| Magical Synergy | 0.40% | ~19 |
-| Here be Dragons | 0.40% | ~19 |
-| Walls Cannot Stop Us | 0.30% | ~15 |
-| Bone Peddler | 0.30% | ~15 |
+| Walls Cannot Stop Us | 0.40% | ~19 |
+| Bone Peddler | 0.40% | ~19 |
 | Seat of Power | 0.30% | ~15 |
+| Fiery Friend | 0.30% | ~15 |
 | Impenetrable Fortress | 0.30% | ~15 |
 | Blood of the Dragon | 0.30% | ~15 |
 | Valley of Wonders | 0.20% | ~10 |
+| There Can Only Be One! | 0.20% | ~10 |
 | Full Ascension | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Preparation Is Everything | 0.20% | ~10 |
-| Fiery Friend | 0.20% | ~10 |
 | Against the Odds | 0.20% | ~10 |
 | Intimidation Tactics | 0.20% | ~10 |
 | Duality | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
-| There Can Only Be One! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 409)
 | Betrayal Most Foul | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,866 (Ranked 133)  
+Progressed: 4,867 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
-| 2023-06-28 | 4,866 | 4 |
+| 2023-06-28 | 4,867 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

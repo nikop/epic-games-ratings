@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1126,7 +1126,7 @@
   ],
   "EOS_Progressed": 4199,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4148,9 +4148,9 @@
       "ID": "BUILD_ROOM",
       "SetID": "5349c2e",
       "Name": "Get A Room",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3065
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -4404,8 +4404,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-06-28T18:07:06.3481639+00:00",
+  "LastChanged_Achievements": "2023-06-28T19:07:19.7253766+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:57.9541614+00:00",
-  "LastUpdate_Ratings": "2023-06-28T18:00:34.6332829+00:00",
-  "LastUpdate_Achievements": "2023-06-28T18:07:06.348209+00:00"
+  "LastUpdate_Ratings": "2023-06-28T19:00:54.9403187+00:00",
+  "LastUpdate_Achievements": "2023-06-28T19:07:19.725421+00:00"
 }

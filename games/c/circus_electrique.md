@@ -8,17 +8,17 @@ Number of Ratings: 22  (23.09.2022)
 | ---- | ---------- | ----- |
 | Self Defense | 44.00% | ~198 |
 | Circus Electrique Proudly Presents... | 40.00% | ~180 |
-| Grand Opening | 39.00% | ~175 |
-| Path of Learning | 39.00% | ~175 |
+| Grand Opening | 39.00% | ~176 |
+| Path of Learning | 39.00% | ~176 |
 | Built in a Day | 33.00% | ~148 |
 | More Brain Than Brawn | 28.00% | ~126 |
-| Perfect Illusion | 23.00% | ~103 |
-| Hundred Percent First | 23.00% | ~103 |
-| Dirty Dozen | 19.00% | ~85 |
+| Perfect Illusion | 23.00% | ~104 |
+| Hundred Percent First | 23.00% | ~104 |
+| Dirty Dozen | 19.00% | ~86 |
 | Fan Service | 18.00% | ~81 |
 | Lion Tamer | 17.00% | ~76 |
 | Amazing! | 16.00% | ~72 |
-| King of District 1 | 15.00% | ~67 |
+| King of District 1 | 15.00% | ~68 |
 | Flawless Presentation | 14.00% | ~63 |
 | One More Thing... | 13.00% | ~58 |
 | Lucky Day | 13.00% | ~58 |
@@ -36,10 +36,10 @@ Number of Ratings: 22  (23.09.2022)
 | Club Champion | 5.00% | ~22 |
 | King of District 4 | 5.00% | ~22 |
 | King of District 5 | 4.00% | ~18 |
-| Hundred Percent Third | 3.00% | ~13 |
-| Hundred Percent Fourth | 3.00% | ~13 |
-| Circus Maximus | 3.00% | ~13 |
-| City Savior | 3.00% | ~13 |
+| Hundred Percent Third | 3.00% | ~14 |
+| Hundred Percent Fourth | 3.00% | ~14 |
+| Circus Maximus | 3.00% | ~14 |
+| City Savior | 3.00% | ~14 |
 | Accomplished Veteran | 2.00% | ~9 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 215)  
+Progressed: 450 (Ranked 215)  
 Completed: 1 (0.22%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 1 (0.22%) (Ranked 154)
 | 2023-06-18 | 447 | 1 |
 | 2023-06-19 | 448 | 1 |
 | 2023-06-22 | 449 | 1 |
+| 2023-06-28 | 450 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

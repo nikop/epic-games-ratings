@@ -6,40 +6,40 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~226 |
-| Where's that freaking Dwarf? | 87.00% | ~214 |
-| Sock! SOCK! | 69.00% | ~170 |
-| Fireproof Wizardess | 55.00% | ~135 |
-| Livin' in a dwarven paradise | 52.00% | ~128 |
-| Déjà vu | 52.00% | ~128 |
-| GG EZ | 52.00% | ~128 |
-| DM intervention | 46.00% | ~113 |
-| Way of the Wimp | 45.00% | ~111 |
-| Oh, when I'll be level 10... | 36.00% | ~89 |
-| Speedrun | 35.00% | ~86 |
-| A beer, two curses, three companions | 33.00% | ~81 |
-| Team Building Exercise | 33.00% | ~81 |
-| The plot thickens... At the tavern | 32.00% | ~79 |
-| I am the night | 31.00% | ~76 |
-| Dwarf Fortress | 30.00% | ~74 |
-| The Ranger of Chaos | 30.00% | ~74 |
-| Thieves' Guild Accreditation | 28.00% | ~69 |
-| Look but don't touch | 26.00% | ~64 |
-| The demons' feast | 24.00% | ~59 |
-| The Great Library | 24.00% | ~59 |
-| The Statuette of Gladeulfeurah | 22.00% | ~54 |
-| A tale of adventurers not quite like the others... | 22.00% | ~54 |
-| Gargantua | 22.00% | ~54 |
+| Alt+F4 | 92.00% | ~229 |
+| Where's that freaking Dwarf? | 87.00% | ~217 |
+| Sock! SOCK! | 69.00% | ~172 |
+| Fireproof Wizardess | 55.00% | ~137 |
+| Livin' in a dwarven paradise | 52.00% | ~129 |
+| Déjà vu | 52.00% | ~129 |
+| GG EZ | 52.00% | ~129 |
+| DM intervention | 46.00% | ~115 |
+| Way of the Wimp | 45.00% | ~112 |
+| Oh, when I'll be level 10... | 36.00% | ~90 |
+| Speedrun | 35.00% | ~87 |
+| A beer, two curses, three companions | 33.00% | ~82 |
+| The plot thickens... At the tavern | 32.00% | ~80 |
+| Team Building Exercise | 32.00% | ~80 |
+| I am the night | 31.00% | ~77 |
+| The Ranger of Chaos | 30.00% | ~75 |
+| Dwarf Fortress | 29.00% | ~72 |
+| Thieves' Guild Accreditation | 28.00% | ~70 |
+| Look but don't touch | 26.00% | ~65 |
+| The demons' feast | 24.00% | ~60 |
+| The Great Library | 23.00% | ~57 |
+| The Statuette of Gladeulfeurah | 22.00% | ~55 |
+| A tale of adventurers not quite like the others... | 22.00% | ~55 |
+| Gargantua | 22.00% | ~55 |
 | Shiny and Crôm | 21.00% | ~52 |
 | Torture and Sensibility | 21.00% | ~52 |
-| The beards of change | 21.00% | ~52 |
 | Material Girl | 21.00% | ~52 |
-| The Famous Dungeon of Naheulbeuk | 18.00% | ~44 |
-| In Navalu's footsteps | 18.00% | ~44 |
+| The beards of change | 20.00% | ~50 |
+| The Famous Dungeon of Naheulbeuk | 18.00% | ~45 |
+| In Navalu's footsteps | 18.00% | ~45 |
 | The Woman in the High Castle | 17.00% | ~42 |
 | Urik's Depths | 15.00% | ~37 |
 | The Blood Countess | 15.00% | ~37 |
-| Cursed die | 14.00% | ~34 |
+| Cursed die | 14.00% | ~35 |
 | Law and Order | 13.00% | ~32 |
 | Res Judicata | 12.00% | ~30 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~30 |
@@ -52,8 +52,8 @@ Number of Ratings: 118  (23.09.2022)
 | Egghead | 8.00% | ~20 |
 | Lëgal Legend | 8.00% | ~20 |
 | Lust and Debauchery | 8.00% | ~20 |
-| Elite Adventurers | 7.00% | ~17 |
 | Free customer service | 7.00% | ~17 |
+| Elite Adventurers | 6.00% | ~15 |
 | An old poacher makes the best gamekeeper | 6.00% | ~15 |
 | We come in peace | 6.00% | ~15 |
 | Friendly fire | 5.00% | ~12 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 250)  
+Progressed: 249 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
 | 2023-06-27 | 234 | 0 |
-| 2023-06-28 | 246 | 0 |
+| 2023-06-28 | 249 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  
