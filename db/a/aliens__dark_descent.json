@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1946,
+  "EOS_Progressed": 1947,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1365,
+  "EOS_NewPlayers": 1361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -930,6 +930,11 @@
       "Time": "2023-06-28T03:27:20.1042253+00:00",
       "NumProgressed": 1946,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T04:06:40.1597059+00:00",
+      "NumProgressed": 1947,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -955,9 +960,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "816efe",
       "Name": "One For Every Occasion",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -1037,7 +1042,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1053,7 +1058,7 @@
       "Name": "Call Me Snake",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1061,7 +1066,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1237,7 +1242,7 @@
       "Name": "Snatched Out",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1245,7 +1250,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1300,7 +1305,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 1946,
+      "Progressed": 1947,
       "Completed": 0
     }
   ],
@@ -1308,8 +1313,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-27T13:15:51.2005284+00:00",
-  "LastChanged_Achievements": "2023-06-28T03:27:20.1042249+00:00",
+  "LastChanged_Achievements": "2023-06-28T04:06:40.1597055+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.9793382+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:20:42.7801061+00:00",
-  "LastUpdate_Achievements": "2023-06-28T03:27:20.1042581+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:59:48.1869602+00:00",
+  "LastUpdate_Achievements": "2023-06-28T04:06:40.1597437+00:00"
 }

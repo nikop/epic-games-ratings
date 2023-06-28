@@ -8,17 +8,17 @@
 | Accessory Unlocked | 83.00% | ~53 |
 | Character Unlocked | 81.00% | ~52 |
 | Homer | 67.00% | ~43 |
+| Settle Down | 66.00% | ~42 |
 | Have a good trip! | 66.00% | ~42 |
-| Settle Down | 64.00% | ~41 |
+| First Win | 63.00% | ~40 |
+| Kickball Unlocked | 63.00% | ~40 |
 | Butter Fingers | 63.00% | ~40 |
 | Stay Hydrated | 63.00% | ~40 |
-| First Win | 61.00% | ~39 |
-| Kickball Unlocked | 61.00% | ~39 |
 | True Story! | 34.00% | ~22 |
 | Bedroom Secret Spot | 33.00% | ~21 |
 | Kick It | 30.00% | ~19 |
 | Grand Slam! | 28.00% | ~18 |
-| Have Mercy | 22.00% | ~14 |
+| Have Mercy | 23.00% | ~15 |
 | Save some water for the fishies | 20.00% | ~13 |
 | Spooky | 19.00% | ~12 |
 | Classroom Secret Spot | 17.00% | ~11 |
@@ -26,10 +26,10 @@
 | At least everyone still had fun | 17.00% | ~11 |
 | Angry Dad | 14.00% | ~9 |
 | Living Room Secret Spot | 13.00% | ~8 |
+| Hi Hungry, I'm Dad | 9.00% | ~6 |
 | Interference | 9.00% | ~6 |
-| Hi Hungry, I'm Dad | 8.00% | ~5 |
+| Angry Mom | 8.00% | ~5 |
 | Just how we drew it up | 8.00% | ~5 |
-| Angry Mom | 6.00% | ~4 |
 | Kitchen Secret Spot | 5.00% | ~3 |
 | You broke it, you bought it | 5.00% | ~3 |
 | Found the Secret Formula! | 5.00% | ~3 |

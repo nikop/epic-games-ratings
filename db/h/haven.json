@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-06-28T03:27:33.3954654+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-06-28T04:06:53.4106448+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1059,7 +1064,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "10",
@@ -1075,7 +1080,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "12",
@@ -1083,7 +1088,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "13",
@@ -1115,7 +1120,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "17",
@@ -1187,7 +1192,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "25",
@@ -1211,7 +1216,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "3",
@@ -1298,15 +1303,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-28T03:27:33.3954651+00:00",
+  "LastChanged_Achievements": "2023-06-28T04:06:53.410644+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:32.1212829+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:20:49.9949421+00:00",
-  "LastUpdate_Achievements": "2023-06-28T03:27:33.3954848+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:59:54.7312586+00:00",
+  "LastUpdate_Achievements": "2023-06-28T04:06:53.4106662+00:00"
 }

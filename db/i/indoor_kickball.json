@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "10",
@@ -332,17 +332,17 @@
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "14",
       "SetID": "39djiaj",
       "Name": "Settle Down",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "15",
@@ -460,9 +460,9 @@
       "ID": "28",
       "SetID": "39djiaj",
       "Name": "Hi Hungry, I\u0027m Dad",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "29",
@@ -516,9 +516,9 @@
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "35",
@@ -556,9 +556,9 @@
       "ID": "4",
       "SetID": "39djiaj",
       "Name": "Angry Mom",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "40",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-28T03:27:28.3265168+00:00",
+  "LastChanged_Achievements": "2023-06-28T04:06:48.283815+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:03.7152152+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:20:27.7177143+00:00",
-  "LastUpdate_Achievements": "2023-06-28T03:27:28.3265423+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:59:33.727229+00:00",
+  "LastUpdate_Achievements": "2023-06-28T04:06:48.2838435+00:00"
 }

@@ -17,6 +17,7 @@ Rating: 4.59 (Ranked 409)
 | Bone Peddler | 0.20% | ~10 |
 | Magical Synergy | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
+| Impenetrable Fortress | 0.20% | ~10 |
 | Here be Dragons | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
@@ -39,7 +40,6 @@ Rating: 4.59 (Ranked 409)
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
-| Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |

@@ -6,29 +6,29 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,562 |
-| Man of politics | 35.00% | ~4,748 |
-| Friends of sorts | 34.00% | ~4,612 |
-| Yet another secret | 34.00% | ~4,612 |
-| Let there be darkness | 33.00% | ~4,476 |
-| End of Book One | 31.00% | ~4,205 |
-| Garden of Eden | 25.00% | ~3,391 |
+| Tattletale | 41.00% | ~5,563 |
+| Man of politics | 35.00% | ~4,749 |
+| Friends of sorts | 34.00% | ~4,613 |
+| Yet another secret | 34.00% | ~4,613 |
+| Let there be darkness | 33.00% | ~4,477 |
+| End of Book One | 31.00% | ~4,206 |
+| Garden of Eden | 25.00% | ~3,392 |
 | Wannabe knight | 24.00% | ~3,256 |
 | Full house | 24.00% | ~3,256 |
-| Help an old friend | 22.00% | ~2,984 |
-| Two of us | 20.00% | ~2,713 |
-| Negotiation skills | 19.00% | ~2,577 |
-| Workers' union | 19.00% | ~2,577 |
+| Help an old friend | 22.00% | ~2,985 |
+| Two of us | 20.00% | ~2,714 |
+| Negotiation skills | 19.00% | ~2,578 |
+| Workers' union | 19.00% | ~2,578 |
 | End of Book Two | 18.00% | ~2,442 |
-| Everything's in order | 17.00% | ~2,306 |
+| Everything's in order | 17.00% | ~2,307 |
 | Jack was here! | 15.00% | ~2,035 |
-| Twist of Fate | 14.00% | ~1,899 |
-| Exterminator | 14.00% | ~1,899 |
-| Whodunnit | 13.00% | ~1,763 |
+| Twist of Fate | 14.00% | ~1,900 |
+| Exterminator | 14.00% | ~1,900 |
+| Whodunnit | 13.00% | ~1,764 |
 | Good midwife | 11.00% | ~1,492 |
 | Friar Tuck | 11.00% | ~1,492 |
 | First profit | 11.00% | ~1,492 |
-| Team player | 10.00% | ~1,356 |
+| Team player | 10.00% | ~1,357 |
 | Skilled merchant | 9.00% | ~1,221 |
 | Nothing but make-believe | 9.00% | ~1,221 |
 | Brother Marcus | 9.00% | ~1,221 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~407 |
 | Boy of mystery | 2.00% | ~271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,565 (Ranked 109)  
+Progressed: 13,568 (Ranked 109)  
 Completed: 103 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,6 +117,7 @@ Completed: 103 (0.76%) (Ranked 108)
 | 2023-06-25 | 13,516 | 103 |
 | 2023-06-26 | 13,540 | 103 |
 | 2023-06-27 | 13,565 | 103 |
+| 2023-06-28 | 13,568 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

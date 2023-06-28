@@ -5,8 +5,8 @@ Rating: 4.28 (Ranked 787)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~5,564 |
-| A Good Day To Die | 16.00% | ~4,451 |
+| Man 'O War | 20.00% | ~5,565 |
+| A Good Day To Die | 16.00% | ~4,452 |
 | Right Back Atcha | 6.00% | ~1,669 |
 | Killed by Death | 5.00% | ~1,391 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 5.00% | ~1,391 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 787)
 | Too Metal For Magic | 0.10% | ~28 |
 | Heart Of Steel | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,820 (Ranked 93)  
+Progressed: 27,823 (Ranked 93)  
 Completed: 20 (0.07%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 20 (0.07%) (Ranked 189)
 | 2023-06-25 | 27,496 | 20 |
 | 2023-06-26 | 27,630 | 20 |
 | 2023-06-27 | 27,795 | 20 |
-| 2023-06-28 | 27,820 | 20 |
+| 2023-06-28 | 27,823 | 20 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 305)  
 Sum: 125 (Ranked 397)  

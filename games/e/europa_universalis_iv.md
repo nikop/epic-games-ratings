@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~5,613 |
-| That's a Grand Army | 8.00% | ~4,989 |
-| That is mine! | 8.00% | ~4,989 |
-| Victorious! | 8.00% | ~4,989 |
+| That's a Grand Army | 8.00% | ~4,990 |
+| That is mine! | 8.00% | ~4,990 |
+| Victorious! | 8.00% | ~4,990 |
 | Brothers in Arms | 6.00% | ~3,742 |
 | That's a Grand Navy | 6.00% | ~3,742 |
 | Seriously?! | 6.00% | ~3,742 |
@@ -48,12 +48,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.60% | ~374 |
 | At every continent | 0.60% | ~374 |
 | Populists in Government | 0.60% | ~374 |
-| The pen is mightier than the sword | 0.60% | ~374 |
 | This is My Faith | 0.60% | ~374 |
 | Time Bandit | 0.60% | ~374 |
 | Early-Modern Warfare | 0.50% | ~312 |
 | One Family to Rule them All | 0.50% | ~312 |
 | Ruina Imperii | 0.50% | ~312 |
+| The pen is mightier than the sword | 0.50% | ~312 |
 | Trophy Hunter | 0.50% | ~312 |
 | Voting Streak | 0.50% | ~312 |
 | Absolutely | 0.40% | ~249 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,363 (Ranked 77)  
+Progressed: 62,369 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 61,352 | 0 |
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
-| 2023-06-28 | 62,363 | 0 |
+| 2023-06-28 | 62,369 | 0 |
 ## Awards
 Max (Educational): 5,461  (Ranked 61)  
 Sum: 45,122 (Ranked 27)  

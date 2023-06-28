@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,576 |
-| Landlord | 31.00% | ~16,857 |
-| Lawmaker | 22.00% | ~11,963 |
-| Bannerlord | 21.00% | ~11,419 |
-| Horde breaker | 21.00% | ~11,419 |
-| Trained | 21.00% | ~11,419 |
-| The king is pleased | 17.00% | ~9,244 |
-| King Solomon | 16.00% | ~8,700 |
+| Lawbringer | 36.00% | ~19,577 |
+| Landlord | 31.00% | ~16,858 |
+| Lawmaker | 22.00% | ~11,964 |
+| Bannerlord | 21.00% | ~11,420 |
+| Horde breaker | 21.00% | ~11,420 |
+| Trained | 21.00% | ~11,420 |
+| The king is pleased | 17.00% | ~9,245 |
+| King Solomon | 16.00% | ~8,701 |
 | I can do it | 15.00% | ~8,157 |
 | Apple of my eye | 14.00% | ~7,613 |
-| God of the Arena | 12.00% | ~6,525 |
+| God of the Arena | 12.00% | ~6,526 |
 | Against all odds | 10.00% | ~5,438 |
 | Swordbearer | 10.00% | ~5,438 |
 | Duelist | 9.00% | ~4,894 |
@@ -24,8 +24,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 8.00% | ~4,350 |
 | This Is Our Land | 8.00% | ~4,350 |
 | What have the Romans ever done for us? | 8.00% | ~4,350 |
-| Butterlord | 7.00% | ~3,806 |
-| Mastery | 7.00% | ~3,806 |
+| Butterlord | 7.00% | ~3,807 |
+| Mastery | 7.00% | ~3,807 |
 | Know your enemy | 6.00% | ~3,263 |
 | Crowdfunded | 4.00% | ~2,175 |
 | Crush your enemies | 4.00% | ~2,175 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,378 (Ranked 81)  
+Progressed: 54,380 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,10 +127,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 54,188 | 0 |
 | 2023-06-26 | 54,278 | 0 |
 | 2023-06-27 | 54,371 | 0 |
-| 2023-06-28 | 54,378 | 0 |
+| 2023-06-28 | 54,380 | 0 |
 ## Awards
 Max (Character Customization): 6,725  (Ranked 48)  
-Sum: 13,546 (Ranked 68)  
+Sum: 13,548 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): -20
 | This game is Highly Recommended | 804 |
 | This game is Extremely Fun | 767 |
 | This game has Amazing Storytelling | 762 |
-| This game is Relaxing | 744 |
+| This game is Relaxing | 746 |
 | This game has Quickly Understood Controls | 743 |
 | This game has Amazing Characters | 742 |
 | This game has a Creative Community | 553 |
@@ -313,3 +313,4 @@ Diff (max vs sum): -20
 | 2023-06-25 | 4.74 | - | 6,712 | 13,512 |
 | 2023-06-26 | 4.74 | - | 6,720 | 13,533 |
 | 2023-06-27 | 4.74 | - | 6,725 | 13,546 |
+| 2023-06-28 | 4.74 | - | 6,725 | 13,548 |

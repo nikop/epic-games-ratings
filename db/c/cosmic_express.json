@@ -4,7 +4,7 @@
   "ProductSlug": "cosmic-express",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8855378+00:00",
   "LastChanged": "2023-03-31T05:58:42.8855379+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.020417+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:21:38.6654921+00:00",
-  "LastUpdate_Achievements": "2023-06-28T03:27:06.1428641+00:00"
+  "LastUpdate_Ratings": "2023-06-28T04:00:41.4389595+00:00",
+  "LastUpdate_Achievements": "2023-06-28T04:06:26.0228212+00:00"
 }

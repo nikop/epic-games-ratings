@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 15,
@@ -5586,9 +5586,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 789921,
+  "EOS_Progressed": 789924,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12861,6 +12861,11 @@
       "Time": "2023-06-28T03:27:42.4416165+00:00",
       "NumProgressed": 789921,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-28T04:07:02.6049279+00:00",
+      "NumProgressed": 789924,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 82,
@@ -12896,7 +12901,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126387
+      "UsersEstimate": 126388
     },
     {
       "ID": "Awakening",
@@ -12904,7 +12909,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 157984
+      "UsersEstimate": 157985
     },
     {
       "ID": "BadGirl",
@@ -12984,7 +12989,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 197480
+      "UsersEstimate": 197481
     },
     {
       "ID": "Chivalrous",
@@ -13072,7 +13077,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181682
+      "UsersEstimate": 181683
     },
     {
       "ID": "Fighter",
@@ -13088,7 +13093,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118488
+      "UsersEstimate": 118489
     },
     {
       "ID": "Freud",
@@ -13272,7 +13277,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55294
+      "UsersEstimate": 55295
     },
     {
       "ID": "MercenarysHonor",
@@ -13352,7 +13357,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157984
+      "UsersEstimate": 157985
     },
     {
       "ID": "RevenantOfLedechko",
@@ -13376,7 +13381,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55294
+      "UsersEstimate": 55295
     },
     {
       "ID": "Saviour",
@@ -13392,7 +13397,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157984
+      "UsersEstimate": 157985
     },
     {
       "ID": "SerialKiller",
@@ -13408,7 +13413,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86891
+      "UsersEstimate": 86892
     },
     {
       "ID": "Sniper",
@@ -13527,15 +13532,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 789921,
+      "Progressed": 789924,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-06-28T02:22:51.6700401+00:00",
-  "LastChanged_Achievements": "2023-06-28T03:27:42.441616+00:00",
+  "LastChanged_Achievements": "2023-06-28T04:07:02.6049273+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:13.0177106+00:00",
-  "LastUpdate_Ratings": "2023-06-28T03:19:43.1353156+00:00",
-  "LastUpdate_Achievements": "2023-06-28T03:27:42.4417164+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:58:51.3519827+00:00",
+  "LastUpdate_Achievements": "2023-06-28T04:07:02.605029+00:00"
 }
