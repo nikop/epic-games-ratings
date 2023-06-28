@@ -49,10 +49,10 @@ Number of Ratings: 118  (23.09.2022)
 | Necrophilia | 9.00% | ~22 |
 | He’s alive! Aliiiive! | 9.00% | ~22 |
 | Scholar of the Lands of Fangh | 8.00% | ~20 |
+| Egghead | 8.00% | ~20 |
 | Lëgal Legend | 8.00% | ~20 |
 | Lust and Debauchery | 8.00% | ~20 |
 | Elite Adventurers | 7.00% | ~17 |
-| Egghead | 7.00% | ~17 |
 | Free customer service | 7.00% | ~17 |
 | An old poacher makes the best gamekeeper | 6.00% | ~15 |
 | We come in peace | 6.00% | ~15 |

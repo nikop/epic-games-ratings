@@ -2564,9 +2564,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49757,
+  "EOS_Progressed": 49758,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -8244,6 +8244,11 @@
       "Time": "2023-06-28T15:02:23.6794281+00:00",
       "NumProgressed": 49757,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-06-28T18:03:06.5110302+00:00",
+      "NumProgressed": 49758,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 45,
@@ -8279,7 +8284,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39308
+      "UsersEstimate": 39309
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8375,7 +8380,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22888
+      "UsersEstimate": 22889
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -8447,7 +8452,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28361
+      "UsersEstimate": 28362
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8495,7 +8500,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28859
+      "UsersEstimate": 28860
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8519,7 +8524,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48264
+      "UsersEstimate": 48265
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8559,7 +8564,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35327
+      "UsersEstimate": 35328
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8591,7 +8596,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26371
+      "UsersEstimate": 26372
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8607,22 +8612,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35825
+      "UsersEstimate": 35826
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49757,
+      "Progressed": 49758,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-28T13:17:32.8378993+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:01:32.0692649+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:03:06.5110293+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-28T17:01:03.2453824+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:01:32.0693288+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:01:25.2336184+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:03:06.5111502+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15731,
+  "EOS_Progressed": 15732,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -5906,6 +5906,11 @@
       "Time": "2023-06-28T17:06:20.9603837+00:00",
       "NumProgressed": 15731,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-06-28T18:06:57.7906833+00:00",
+      "NumProgressed": 15732,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -5917,7 +5922,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12427
+      "UsersEstimate": 12428
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -5973,7 +5978,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -6028,15 +6033,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15731,
+      "Progressed": 15732,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:06:20.9603833+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:06:57.7906826+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:38.5237346+00:00",
-  "LastUpdate_Ratings": "2023-06-28T17:00:47.8983848+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:06:20.9604194+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:01:08.732771+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:06:57.7907335+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3156,
+  "EOS_Progressed": 3158,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4457,6 +4457,11 @@
       "Time": "2023-06-28T16:06:27.2026978+00:00",
       "NumProgressed": 3156,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-28T18:07:16.0615685+00:00",
+      "NumProgressed": 3158,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4538,9 +4543,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -4650,9 +4655,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -5035,13 +5040,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3107,
-      "Completed": 8
+      "Progressed": 3109,
+      "Completed": 9
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3156,
+      "Progressed": 3158,
       "Completed": 6
     }
   ],
@@ -5049,8 +5054,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:06:38.6525183+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:07:16.0615679+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-28T17:00:57.3084608+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:06:38.6526086+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:01:18.7960823+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:07:16.0617365+00:00"
 }

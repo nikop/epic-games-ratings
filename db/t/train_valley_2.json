@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -609,9 +609,9 @@
       "ID": "AchievementBridgemania",
       "SetID": "76o014g",
       "Name": "Bridgemania",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 30
     },
     {
       "ID": "AchievementBuilder",
@@ -745,9 +745,9 @@
       "ID": "AchievementIndividualDelivery",
       "SetID": "76o014g",
       "Name": "Individual delivery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -841,9 +841,9 @@
       "ID": "AchievementMegaRailroad",
       "SetID": "76o014g",
       "Name": "Mega-railroad",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -1135,8 +1135,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:04:48.4583194+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:05:20.3022953+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.4841625+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:57:50.4568446+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:04:48.4584053+00:00"
+  "LastUpdate_Ratings": "2023-06-28T17:58:00.4174265+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:05:20.3024323+00:00"
 }

@@ -8,18 +8,19 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 10.00% | ~74 |
 | Full garage | 9.00% | ~67 |
+| Individual delivery | 8.00% | ~59 |
 | To the eyeballs! | 8.00% | ~59 |
-| Individual delivery | 7.00% | ~52 |
 | Juggler | 7.00% | ~52 |
 | Forgot something | 6.00% | ~44 |
+| Mega-railroad | 6.00% | ~44 |
 | Non-Stop | 6.00% | ~44 |
 | Close call! | 5.00% | ~37 |
 | Common cause | 5.00% | ~37 |
 | Get out my way | 5.00% | ~37 |
 | Just in time! | 5.00% | ~37 |
-| Mega-railroad | 5.00% | ~37 |
 | Need to think | 5.00% | ~37 |
 | Upgrade complete | 5.00% | ~37 |
+| Bridgemania | 4.00% | ~30 |
 | Builder | 4.00% | ~30 |
 | Critical care | 4.00% | ~30 |
 | Miner | 4.00% | ~3 |
@@ -27,7 +28,6 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 4.00% | ~3 |
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
-| Bridgemania | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |

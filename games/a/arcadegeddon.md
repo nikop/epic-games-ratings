@@ -8,8 +8,8 @@ Number of Ratings: 801  (23.09.2022)
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 91.00% | ~6,759 |
 | Photogenic | 88.00% | ~6,536 |
+| Plug It In | 85.00% | ~6,313 |
 | Surge Gauntlet Jockey | 85.00% | ~6,313 |
-| Plug It In | 84.00% | ~6,239 |
 | Adventure Time | 80.00% | ~5,942 |
 | Playing With Power | 77.00% | ~5,719 |
 | Coup d'Etat | 59.00% | ~4,382 |

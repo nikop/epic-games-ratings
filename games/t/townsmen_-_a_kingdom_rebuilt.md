@@ -97,11 +97,11 @@ Number of Ratings: 37  (23.09.2022)
 | Panacea | 0.30% | ~13 |
 | I've been everywhere X | 0.30% | ~13 |
 | Chief Inspector | 0.30% | ~13 |
+| LEGEN… wait for it… DARY | 0.30% | ~13 |
 | Waterways | 0.30% | ~13 |
 | You shall not pass | 0.30% | ~13 |
 | Malediction | 0.20% | ~8 |
 | Tired by festival | 0.20% | ~8 |
-| LEGEN… wait for it… DARY | 0.20% | ~8 |
 | War-zone | 0.20% | ~8 |
 | Good luck miner! | 0.10% | ~4 |
 | Just let it burn! | 0.10% | ~4 |

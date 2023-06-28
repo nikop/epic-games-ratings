@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 15.00% | ~109 |
+| Rail Rat | 14.00% | ~102 |
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
 | The Mysterious Stranger | 13.00% | ~95 |
-| Rail Rat | 13.00% | ~95 |
 | Cartographer | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~87 |
@@ -25,12 +25,12 @@
 | The Brass Boss | 12.00% | ~87 |
 | The Family Fortune | 12.00% | ~87 |
 | Like Clockwork | 11.00% | ~80 |
+| Street Style | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
 | Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
 | Right On Time | 10.00% | ~73 |
-| Street Style | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |
 | Chaincrawler Explorer | 8.00% | ~58 |
 | Family Memories | 7.00% | ~51 |

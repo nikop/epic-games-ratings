@@ -18,9 +18,9 @@ Rating: 4.66 (Ranked 274)
 | Satisfied Gus-tomer | 28.00% | ~6,425 |
 | Cold-Blooded Driller | 28.00% | ~6,425 |
 | Are You Packin'? | 25.00% | ~5,737 |
+| Sweezy Like Sunday Morning | 25.00% | ~5,737 |
 | G3 Graduation | 25.00% | ~5,737 |
 | RIP Davey Glutes | 24.00% | ~5,507 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,507 |
 | Hardest Battle In The Game | 22.00% | ~5,048 |
 | Series Wrap on Suit-O | 22.00% | ~5,048 |
 | Lezduit! | 20.00% | ~4,589 |

@@ -1341,9 +1341,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
       "SetID": "9eacipp",
       "Name": "LEGEN\u2026 wait for it\u2026 DARY",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_UNDERSIEGE",
@@ -1565,8 +1565,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:06:44.7557221+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:07:22.2798889+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:43.795347+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:58:24.3327148+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:06:44.7558385+00:00"
+  "LastUpdate_Ratings": "2023-06-28T17:58:35.5367342+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:07:22.2801113+00:00"
 }

@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4865,
+  "EOS_Progressed": 4866,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -4661,6 +4661,11 @@
       "Time": "2023-06-28T16:05:27.3870214+00:00",
       "NumProgressed": 4865,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-28T18:06:04.1308297+00:00",
+      "NumProgressed": 4866,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -5030,9 +5035,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "47",
@@ -5071,13 +5076,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4865,
+      "Progressed": 4866,
       "Completed": 4756
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4865,
+      "Progressed": 4866,
       "Completed": 4
     }
   ],
@@ -5085,8 +5090,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:05:29.6117928+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:06:04.130829+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:59:52.6554429+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:05:29.6118682+00:00"
+  "LastUpdate_Ratings": "2023-06-28T18:00:10.5727646+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:06:04.1309554+00:00"
 }

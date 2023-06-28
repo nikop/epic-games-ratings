@@ -15,12 +15,12 @@
 | Breached | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
 | Acquaintance | 4.00% | ~4 |
+| Tail-wind | 4.00% | ~4 |
 | Taskmaster | 4.00% | ~4 |
 | Scholar | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
 | Harbinger | 3.00% | ~3 |
 | Courier | 3.00% | ~3 |
-| Tail-wind | 3.00% | ~3 |
 | Quartermaster | 2.00% | ~2 |
 | Supercargo | 2.00% | ~2 |
 | Strategist | 2.00% | ~2 |

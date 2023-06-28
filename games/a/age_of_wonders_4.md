@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.80% | ~39 |
-| Tipping the Scales | 0.60% | ~29 |
+| Tipping the Scales | 0.70% | ~34 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
 | My Final Form | 0.50% | ~24 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 409)
 | Betrayal Most Foul | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,865 (Ranked 133)  
+Progressed: 4,866 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
-| 2023-06-28 | 4,865 | 4 |
+| 2023-06-28 | 4,866 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

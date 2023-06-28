@@ -2,9 +2,9 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -672,6 +672,11 @@
       "Time": "2023-06-27T21:06:54.0427527+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T18:07:17.4754541+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1009,9 +1014,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1067,7 +1072,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1299,7 +1304,7 @@
       "Name": "Soviet town",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "WELFARE_2",
@@ -1314,7 +1319,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
@@ -1322,8 +1327,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-28T17:06:39.8693229+00:00",
+  "LastChanged_Achievements": "2023-06-28T18:07:17.4754534+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:45.6174547+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:59:15.6115399+00:00",
-  "LastUpdate_Achievements": "2023-06-28T17:06:39.8694252+00:00"
+  "LastUpdate_Ratings": "2023-06-28T17:59:30.4717449+00:00",
+  "LastUpdate_Achievements": "2023-06-28T18:07:17.4756121+00:00"
 }
