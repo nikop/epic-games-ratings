@@ -13,7 +13,7 @@
 | 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.02% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.64% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.56% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -21,7 +21,7 @@
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.38% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.09% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -72,7 +72,7 @@
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.23% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -175,12 +175,12 @@
 | 173 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 173 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
 | 175 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 176 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 176 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
-| 176 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 176 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 176 | [Supraland](games/s/supraland.md) | 0.10% |
-| 176 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 176 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
+| 177 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 177 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 177 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
+| 177 | [Supraland](games/s/supraland.md) | 0.10% |
+| 177 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 182 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 182 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 182 | [Shop Titans](games/s/shop_titans.md) | 0.09% |

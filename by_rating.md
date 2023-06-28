@@ -345,9 +345,9 @@
 | 328 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 502 |
 | 344 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.62 | 0 | 502 |
 | 344 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 502 |
-| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 71,283 | 9 |
+| 344 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 71,403 | 9 |
 | 344 | [Dead Space](games/d/dead_space.md) | 4.62 | 67 | 372 |
-| 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 276 | 238 |
+| 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 277 | 238 |
 | 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 436 |
 | 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,355 | 123 |
 | 344 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 502 |
@@ -442,7 +442,7 @@
 | 438 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 405 |
 | 438 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 463 |
 | 438 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 502 |
-| 438 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.57 | 57 | 388 |
+| 438 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.57 | 58 | 387 |
 | 438 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 434 |
 | 438 | [Hob](games/h/hob.md) | 4.57 | 0 | 502 |
 | 438 | [IXION](games/i/ixion.md) | 4.57 | 0 | 502 |
@@ -452,7 +452,7 @@
 | 438 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 502 |
 | 438 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,324 | 86 |
 | 438 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 455 |
-| 438 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,776 | 19 |
+| 438 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,784 | 19 |
 | 438 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,753 | 113 |
 | 455 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 502 |
 | 455 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 502 |
@@ -625,7 +625,7 @@
 | 620 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 502 |
 | 620 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 502 |
 | 620 | [RiMS Racing](games/r/rims_racing.md) | 4.45 | 0 | 502 |
-| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,943 | 77 |
+| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,949 | 77 |
 | 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 502 |
 | 620 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 469 |
 | 620 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 315 |
@@ -793,7 +793,7 @@
 | 787 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 283 |
 | 792 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 502 |
 | 792 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 502 |
-| 792 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,479 | 95 |
+| 792 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,482 | 95 |
 | 792 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 233 |
 | 796 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 502 |
 | 796 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 502 |
