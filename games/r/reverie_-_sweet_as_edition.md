@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Not Your Standard Weapon | 200.00% | ~2 |
+| We All Need a Hobby | 200.00% | ~2 |
 | Ornithologist | 0.00% | ~0 |
 | Where Does He Fit Them All? | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Renegade Fighter | 0.00% | ~0 |
 | You're Making Me Violent | 0.00% | ~0 |
 | Stop Trying to Hit Me and Hit Me! | 0.00% | ~0 |
-| Not Your Standard Weapon | 0.00% | ~0 |
 | Nerf This! | 0.00% | ~0 |
 | Basement Dweller | 0.00% | ~0 |
 | Tree Climber | 0.00% | ~0 |
 | Beach Boy | 0.00% | ~0 |
 | Tomb Raider | 0.00% | ~0 |
 | Mountaineer | 0.00% | ~0 |
-| We All Need a Hobby | 0.00% | ~0 |
 | Peace on Toromi Island | 0.00% | ~0 |
 | Determination Beats Luck | 0.00% | ~0 |
 | Everything in its Right Place | 0.00% | ~0 |
@@ -39,3 +39,10 @@
 | There's a Time and Place for Everything | 0.00% | ~0 |
 | Just Like Captain Cook | 0.00% | ~0 |
 | Wind it Up! | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 448)  
+Completed: 0 (0.00%) (Ranked 230)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-28 | 1 | 0 |

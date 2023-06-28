@@ -2,10 +2,10 @@
   "ID": "0f58cd1c026441f49371d663a710fe83",
   "Name": "Out of Line",
   "ProductSlug": "out-of-line-209cbb",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-06-23T07:00:00+00:00",
     "PcReleaseDate": "2021-06-23T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4516384+00:00",
   "LastChanged": "2023-03-31T05:58:27.4516385+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.1000236+00:00",
-  "LastUpdate_Ratings": "2023-06-28T09:59:38.858611+00:00",
-  "LastUpdate_Achievements": "2023-06-28T10:02:19.0772282+00:00"
+  "LastUpdate_Ratings": "2023-06-28T10:59:49.4698934+00:00",
+  "LastUpdate_Achievements": "2023-06-28T11:02:29.9426382+00:00"
 }

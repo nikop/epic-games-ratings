@@ -6,21 +6,21 @@ Rating: 4.59 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.60% | ~29 |
+| A Wonderful Discovery | 0.40% | ~19 |
+| From Friends to Family | 0.40% | ~19 |
 | My Final Form | 0.40% | ~19 |
 | Tipping the Scales | 0.40% | ~19 |
 | Mighty Hoard | 0.40% | ~19 |
 | Realm Estate | 0.30% | ~15 |
-| A Wonderful Discovery | 0.30% | ~15 |
 | Bone Peddler | 0.30% | ~15 |
-| From Friends to Family | 0.30% | ~15 |
 | Stronger Together | 0.30% | ~15 |
 | Magical Synergy | 0.30% | ~15 |
+| Impenetrable Fortress | 0.30% | ~15 |
 | Here be Dragons | 0.30% | ~15 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
-| Impenetrable Fortress | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
 | Snap Out of It! | 0.10% | ~5 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -610,9 +610,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 252016,
+  "EOS_Progressed": 252018,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7585,6 +7585,11 @@
       "Time": "2023-06-28T10:04:52.732744+00:00",
       "NumProgressed": 252016,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-28T11:05:11.731237+00:00",
+      "NumProgressed": 252018,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7644,7 +7649,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78125
+      "UsersEstimate": 78126
     },
     {
       "ID": "BackHomeNTimes",
@@ -7868,7 +7873,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "KillOtherWithMine",
@@ -8043,7 +8048,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252016,
+      "Progressed": 252018,
       "Completed": 2
     }
   ],
@@ -8051,8 +8056,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-27T13:16:35.2177975+00:00",
-  "LastChanged_Achievements": "2023-06-28T10:04:52.7327434+00:00",
+  "LastChanged_Achievements": "2023-06-28T11:05:11.7312362+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-28T10:01:25.695968+00:00",
-  "LastUpdate_Achievements": "2023-06-28T10:04:52.7328889+00:00"
+  "LastUpdate_Ratings": "2023-06-28T11:01:37.602173+00:00",
+  "LastUpdate_Achievements": "2023-06-28T11:05:11.7313379+00:00"
 }

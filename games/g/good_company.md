@@ -1,13 +1,13 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.43 (Ranked 651)  
+Rating: 4.43 (Ranked 652)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level: Returning Home | 50.00% | ~2,528 |
-| Returning Home: Quick Learner | 26.00% | ~1,314 |
+| Returning Home: Quick Learner | 26.00% | ~1,315 |
 | Level: Charlie's Circuits | 22.00% | ~1,112 |
 | Level: Rising Markets | 9.00% | ~455 |
 | Peddler | 8.00% | ~404 |
@@ -42,7 +42,7 @@ Number of Ratings: 75  (23.09.2022)
 | Entrepreneur | 1.00% | ~51 |
 | Data Churn Type IV | 1.00% | ~51 |
 | Keen Eye | 1.00% | ~51 |
-| Level: Topple The Top | 0.90% | ~45 |
+| Level: Topple The Top | 0.90% | ~46 |
 | Bet On Bots: Safety First | 0.80% | ~40 |
 | Tycoon | 0.80% | ~40 |
 | Merry-Go-Around: Self-Made | 0.70% | ~35 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,055 (Ranked 131)  
+Progressed: 5,056 (Ranked 131)  
 Completed: 1 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.02%) (Ranked 210)
 | 2023-06-25 | 5,048 | 1 |
 | 2023-06-26 | 5,051 | 1 |
 | 2023-06-27 | 5,054 | 1 |
-| 2023-06-28 | 5,055 | 1 |
+| 2023-06-28 | 5,056 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

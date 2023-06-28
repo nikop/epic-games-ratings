@@ -43,6 +43,7 @@ Rating: 4.47 (Ranked 594)
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
 | Operation Foxley | 0.50% | ~16 |
+| Last Resort | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |
 | If You Go Down To The Woods Today | 0.50% | ~16 |
@@ -50,7 +51,6 @@ Rating: 4.47 (Ranked 594)
 | Tinkerer | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
-| Last Resort | 0.40% | ~12 |
 | Fight Another Day | 0.40% | ~12 |
 | The Long Game | 0.30% | ~9 |
 | Out of Scope | 0.30% | ~9 |

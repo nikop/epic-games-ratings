@@ -5,24 +5,24 @@ Rating: 4.53 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~630 |
-| And so it begins | 72.00% | ~605 |
+| Good start | 75.00% | ~631 |
+| And so it begins | 72.00% | ~606 |
 | No pressure | 69.00% | ~580 |
-| Memento | 61.00% | ~512 |
-| Let there be light | 58.00% | ~487 |
+| Memento | 61.00% | ~513 |
+| Let there be light | 58.00% | ~488 |
 | I think you dropped this | 54.00% | ~454 |
-| Soulmate? | 53.00% | ~445 |
-| Excellent service | 48.00% | ~403 |
-| Roll with it | 46.00% | ~386 |
-| Humble beginnings | 43.00% | ~361 |
-| Love is in the air | 43.00% | ~361 |
-| Fine, I'll do it myself | 41.00% | ~344 |
-| Moving up | 41.00% | ~344 |
+| Soulmate? | 53.00% | ~446 |
+| Excellent service | 48.00% | ~404 |
+| Roll with it | 46.00% | ~387 |
+| Humble beginnings | 43.00% | ~362 |
+| Love is in the air | 43.00% | ~362 |
+| Fine, I'll do it myself | 41.00% | ~345 |
+| Moving up | 41.00% | ~345 |
 | No need to call anyone | 39.00% | ~328 |
 | Big fortune | 32.00% | ~269 |
 | Still more work ahead | 28.00% | ~235 |
 | Hotel sleuthing | 27.00% | ~227 |
-| Aesop's fable | 26.00% | ~218 |
+| Aesop's fable | 26.00% | ~219 |
 | Kaboom | 25.00% | ~210 |
 | Nearly there | 24.00% | ~202 |
 | Broken heart | 22.00% | ~185 |
@@ -30,11 +30,11 @@ Rating: 4.53 (Ranked 505)
 | Unstoppable | 18.00% | ~151 |
 | You're a star | 18.00% | ~151 |
 | Reunited | 17.00% | ~143 |
-| King of hospitality | 11.00% | ~92 |
+| King of hospitality | 11.00% | ~93 |
 | Top spot in town | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 840 (Ranked 190)  
-Completed: 15 (1.79%) (Ranked 80)  
+Progressed: 841 (Ranked 190)  
+Completed: 15 (1.78%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 15 (1.79%) (Ranked 80)
 | 2023-06-23 | 834 | 15 |
 | 2023-06-25 | 837 | 15 |
 | 2023-06-26 | 839 | 15 |
-| 2023-06-28 | 840 | 15 |
+| 2023-06-28 | 841 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

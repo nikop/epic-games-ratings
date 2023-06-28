@@ -58,9 +58,9 @@
 | Grumpy Immortal | 10.00% | ~9 |
 | Free Of Chains | 10.00% | ~9 |
 | I drink, but I'm not a drunk! | 9.00% | ~8 |
+| Scrambled Eggs | 9.00% | ~8 |
 | Spoiler alert! | 8.00% | ~7 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~7 |
-| Scrambled Eggs | 8.00% | ~7 |
 | I want to throw up! | 7.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~4 |
 | Ancient Ruins of Imperfectly Designed Walls | 5.00% | ~4 |
@@ -68,14 +68,14 @@
 | Ancient Ruins of Inadequate Opportunities | 5.00% | ~4 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~4 |
 | Ancient Ruins of Leaky Roof | 5.00% | ~4 |
+| Fifty Shades of Gruyere | 3.00% | ~3 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~3 |
+| Ancient Ruins of Stuffed Pantrys | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
-| Fifty Shades of Gruyere | 2.00% | ~2 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
-| Ancient Ruins of Stuffed Pantrys | 2.00% | ~2 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~2 |
 | Consider it dealt with | 2.00% | ~2 |
 | Out of bounds | 2.00% | ~2 |

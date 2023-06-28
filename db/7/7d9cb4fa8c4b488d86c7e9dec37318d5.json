@@ -4,8 +4,8 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -604,9 +604,9 @@
       "ID": "Game Completed",
       "SetID": "1fffk9d",
       "Name": "Congrats",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "Statue Collector Complete",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-28T10:05:26.5836275+00:00",
+  "LastChanged_Achievements": "2023-06-28T11:05:44.5171832+00:00",
   "LastUpdate_AppInfo": "2023-06-27T20:57:05.5106299+00:00",
-  "LastUpdate_Ratings": "2023-06-28T09:57:33.111277+00:00",
-  "LastUpdate_Achievements": "2023-06-28T10:05:26.5836502+00:00"
+  "LastUpdate_Ratings": "2023-06-28T10:57:41.3724949+00:00",
+  "LastUpdate_Achievements": "2023-06-28T11:05:44.5171964+00:00"
 }

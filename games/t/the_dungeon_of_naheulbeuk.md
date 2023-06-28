@@ -6,25 +6,25 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~223 |
-| Where's that freaking Dwarf? | 87.00% | ~209 |
+| Alt+F4 | 93.00% | ~224 |
+| Where's that freaking Dwarf? | 87.00% | ~210 |
 | Sock! SOCK! | 69.00% | ~166 |
-| Fireproof Wizardess | 55.00% | ~132 |
-| Livin' in a dwarven paradise | 53.00% | ~127 |
-| Déjà vu | 51.00% | ~122 |
-| GG EZ | 51.00% | ~122 |
+| Fireproof Wizardess | 55.00% | ~133 |
+| Livin' in a dwarven paradise | 53.00% | ~128 |
+| Déjà vu | 51.00% | ~123 |
+| GG EZ | 51.00% | ~123 |
 | Way of the Wimp | 45.00% | ~108 |
 | DM intervention | 45.00% | ~108 |
-| Oh, when I'll be level 10... | 36.00% | ~86 |
+| Oh, when I'll be level 10... | 36.00% | ~87 |
 | Speedrun | 35.00% | ~84 |
 | A beer, two curses, three companions | 34.00% | ~82 |
-| The plot thickens... At the tavern | 33.00% | ~79 |
-| Team Building Exercise | 33.00% | ~79 |
-| I am the night | 31.00% | ~74 |
-| Dwarf Fortress | 30.00% | ~72 |
-| The Ranger of Chaos | 30.00% | ~72 |
+| The plot thickens... At the tavern | 33.00% | ~80 |
+| Team Building Exercise | 33.00% | ~80 |
+| I am the night | 32.00% | ~77 |
+| Dwarf Fortress | 29.00% | ~70 |
+| The Ranger of Chaos | 29.00% | ~70 |
 | Thieves' Guild Accreditation | 28.00% | ~67 |
-| Look but don't touch | 26.00% | ~62 |
+| Look but don't touch | 26.00% | ~63 |
 | The demons' feast | 24.00% | ~58 |
 | The Great Library | 24.00% | ~58 |
 | Shiny and Crôm | 22.00% | ~53 |
@@ -32,28 +32,28 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 22.00% | ~53 |
 | Gargantua | 22.00% | ~53 |
 | Material Girl | 22.00% | ~53 |
-| Torture and Sensibility | 21.00% | ~50 |
-| The beards of change | 21.00% | ~50 |
+| Torture and Sensibility | 21.00% | ~51 |
+| The beards of change | 21.00% | ~51 |
 | The Woman in the High Castle | 18.00% | ~43 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~43 |
 | In Navalu's footsteps | 18.00% | ~43 |
-| The Blood Countess | 16.00% | ~38 |
+| The Blood Countess | 16.00% | ~39 |
 | Urik's Depths | 15.00% | ~36 |
 | Cursed die | 14.00% | ~34 |
-| Res Judicata | 13.00% | ~31 |
 | Law and Order | 13.00% | ~31 |
+| Res Judicata | 12.00% | ~29 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~29 |
 | Dead for good | 12.00% | ~29 |
-| The Dungeon Master | 11.00% | ~26 |
+| The Dungeon Master | 11.00% | ~27 |
 | Necrophilia | 10.00% | ~24 |
 | It's been a hard day's night | 10.00% | ~24 |
 | He’s alive! Aliiiive! | 9.00% | ~22 |
 | Scholar of the Lands of Fangh | 8.00% | ~19 |
-| Egghead | 8.00% | ~19 |
-| Lëgal Legend | 8.00% | ~19 |
 | Lust and Debauchery | 8.00% | ~19 |
 | Elite Adventurers | 7.00% | ~17 |
+| Egghead | 7.00% | ~17 |
 | Free customer service | 7.00% | ~17 |
+| Lëgal Legend | 7.00% | ~17 |
 | An old poacher makes the best gamekeeper | 6.00% | ~14 |
 | We come in peace | 5.00% | ~12 |
 | Super-Ultra-Lydian | 5.00% | ~12 |
@@ -62,11 +62,11 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 4.00% | ~10 |
 | Hit snooze | 4.00% | ~10 |
 | I'd rather... Just... Sing! | 3.00% | ~7 |
-| Deep changes | 3.00% | ~7 |
 | Kudos from your DM | 3.00% | ~7 |
 | Insult to injury | 3.00% | ~7 |
 | Restless night | 2.00% | ~5 |
 | Take your time back in time | 2.00% | ~5 |
+| Deep changes | 2.00% | ~5 |
 | A broken clock… | 2.00% | ~5 |
 | Gloomy Dungeon | 2.00% | ~5 |
 | Power struggle | 2.00% | ~5 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 250)  
+Progressed: 241 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
 | 2023-06-27 | 234 | 0 |
-| 2023-06-28 | 240 | 0 |
+| 2023-06-28 | 241 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

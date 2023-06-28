@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -739,9 +739,9 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_ACT4",
@@ -755,9 +755,9 @@
       "ID": "ACH_ACT5",
       "SetID": "2310cb1",
       "Name": "Extendable Bridges",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ACT6",
@@ -892,8 +892,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-06-28T10:07:11.7523867+00:00",
+  "LastChanged_Achievements": "2023-06-28T11:07:29.9397145+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:58.1980416+00:00",
-  "LastUpdate_Ratings": "2023-06-28T09:58:00.4237963+00:00",
-  "LastUpdate_Achievements": "2023-06-28T10:07:11.7524071+00:00"
+  "LastUpdate_Ratings": "2023-06-28T10:58:09.5976781+00:00",
+  "LastUpdate_Achievements": "2023-06-28T11:07:29.9397544+00:00"
 }
