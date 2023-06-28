@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "deathlooper",
@@ -371,8 +371,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-28T21:06:22.6936295+00:00",
+  "LastChanged_Achievements": "2023-06-28T22:06:38.4031185+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:05.3081097+00:00",
-  "LastUpdate_Ratings": "2023-06-28T20:59:51.0782619+00:00",
-  "LastUpdate_Achievements": "2023-06-28T21:06:22.6936439+00:00"
+  "LastUpdate_Ratings": "2023-06-28T22:00:15.4629808+00:00",
+  "LastUpdate_Achievements": "2023-06-28T22:06:38.4031299+00:00"
 }

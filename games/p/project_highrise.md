@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~133 |
+| In the Black | 59.00% | ~135 |
 | Starting Skyward | 51.00% | ~117 |
 | Grime is Not Good | 45.00% | ~103 |
-| Campaign Launch | 39.00% | ~89 |
+| Campaign Launch | 40.00% | ~92 |
 | Floor Galore | 37.00% | ~85 |
 | Dinner Dash | 37.00% | ~85 |
 | Need a Consult | 34.00% | ~78 |
@@ -27,10 +27,10 @@
 | People Mover | 20.00% | ~46 |
 | Emporium Empire | 19.00% | ~44 |
 | Get Electrified | 19.00% | ~44 |
+| Artfully Done | 18.00% | ~41 |
 | Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
 | We Don't Need No Education | 18.00% | ~41 |
-| Artfully Done | 17.00% | ~39 |
 | Under One Roof | 15.00% | ~34 |
 | Established Fame | 15.00% | ~34 |
 | Cashflow Chief | 15.00% | ~34 |

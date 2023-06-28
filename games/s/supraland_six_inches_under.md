@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,108 |
-| Hit Rock Bottom | 97.00% | ~2,065 |
-| High Jump | 97.00% | ~2,065 |
-| Knee bending | 97.00% | ~2,065 |
-| Rocket Launched | 97.00% | ~2,065 |
-| Speed | 97.00% | ~2,065 |
-| Pickaxe | 95.00% | ~2,023 |
-| Revenge | 94.00% | ~2,001 |
-| Cage Town | 94.00% | ~2,001 |
-| Force Beam | 93.00% | ~1,980 |
-| Entered Cage Town | 93.00% | ~1,980 |
-| Stone Pickaxe | 93.00% | ~1,980 |
-| Surprise | 93.00% | ~1,980 |
-| Magnet | 90.00% | ~1,916 |
-| Industrial Area | 89.00% | ~1,895 |
+| Good Morning | 99.00% | ~2,109 |
+| Hit Rock Bottom | 97.00% | ~2,066 |
+| High Jump | 97.00% | ~2,066 |
+| Knee bending | 97.00% | ~2,066 |
+| Rocket Launched | 97.00% | ~2,066 |
+| Speed | 97.00% | ~2,066 |
+| Pickaxe | 95.00% | ~2,024 |
+| Revenge | 94.00% | ~2,002 |
+| Cage Town | 94.00% | ~2,002 |
+| Force Beam | 93.00% | ~1,981 |
+| Entered Cage Town | 93.00% | ~1,981 |
+| Stone Pickaxe | 93.00% | ~1,981 |
+| Surprise | 93.00% | ~1,981 |
+| Magnet | 90.00% | ~1,917 |
+| Industrial Area | 89.00% | ~1,896 |
 | Magnet Repel | 88.00% | ~1,874 |
-| Boomeraxe | 87.00% | ~1,852 |
-| You feel middle classy | 86.00% | ~1,831 |
-| Banking District | 86.00% | ~1,831 |
-| Iron Pickaxe | 86.00% | ~1,831 |
+| Boomeraxe | 87.00% | ~1,853 |
+| You feel middle classy | 86.00% | ~1,832 |
+| Banking District | 86.00% | ~1,832 |
+| Iron Pickaxe | 86.00% | ~1,832 |
 | Arrested | 85.00% | ~1,810 |
 | Zappy Gun | 85.00% | ~1,810 |
 | Got your own one now | 85.00% | ~1,810 |
 | Mission Unlikely | 85.00% | ~1,810 |
-| Don't draw dicks pls | 84.00% | ~1,788 |
-| Ripped | 84.00% | ~1,788 |
-| Beat the big arena | 82.00% | ~1,746 |
-| Force Cube | 82.00% | ~1,746 |
-| Got Battery | 80.00% | ~1,703 |
-| Guard Distracted | 80.00% | ~1,703 |
-| Translocator | 80.00% | ~1,703 |
-| Inner Peace | 77.00% | ~1,639 |
-| Diamond Pickaxe | 77.00% | ~1,639 |
-| Killed them all | 76.00% | ~1,618 |
-| Trickle Down Economy | 76.00% | ~1,618 |
-| Win | 75.00% | ~1,597 |
-| Greenhouse | 72.00% | ~1,533 |
-| Played with fire | 70.00% | ~1,490 |
-| You feel very sorry | 69.00% | ~1,469 |
+| Don't draw dicks pls | 84.00% | ~1,789 |
+| Ripped | 84.00% | ~1,789 |
+| Beat the big arena | 82.00% | ~1,747 |
+| Force Cube | 82.00% | ~1,747 |
+| Got Battery | 80.00% | ~1,704 |
+| Guard Distracted | 80.00% | ~1,704 |
+| Translocator | 79.00% | ~1,683 |
+| Inner Peace | 77.00% | ~1,640 |
+| Diamond Pickaxe | 76.00% | ~1,619 |
+| Killed them all | 76.00% | ~1,619 |
+| Trickle Down Economy | 76.00% | ~1,619 |
+| Win | 75.00% | ~1,598 |
+| Greenhouse | 72.00% | ~1,534 |
+| Played with fire | 70.00% | ~1,491 |
+| You feel very sorry | 69.00% | ~1,470 |
 | No Match for you | 65.00% | ~1,384 |
 | Bouncy | 61.00% | ~1,299 |
-| Plumbster | 60.00% | ~1,277 |
-| Faster | 60.00% | ~1,277 |
+| Plumbster | 60.00% | ~1,278 |
+| Faster | 60.00% | ~1,278 |
 | Much Magic | 57.00% | ~1,214 |
 | Chest Detector | 54.00% | ~1,150 |
-| Flames | 52.00% | ~1,107 |
+| Flames | 52.00% | ~1,108 |
 | Momentum | 45.00% | ~958 |
-| You're unsure if you broke the game or not | 42.00% | ~894 |
-| But wait... ...There's more... | 39.00% | ~830 |
+| You're unsure if you broke the game or not | 42.00% | ~895 |
+| But wait... ...There's more... | 39.00% | ~831 |
 | So much force | 34.00% | ~724 |
 | You feel fully engaged | 23.00% | ~490 |
 | Too hot | 19.00% | ~405 |
 | All the chests | 13.00% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,129 (Ranked 157)  
-Completed: 255 (11.98%) (Ranked 18)  
+Progressed: 2,130 (Ranked 157)  
+Completed: 255 (11.97%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 255 (11.98%) (Ranked 18)
 | 2023-06-25 | 2,122 | 254 |
 | 2023-06-26 | 2,124 | 254 |
 | 2023-06-27 | 2,126 | 254 |
-| 2023-06-28 | 2,129 | 255 |
+| 2023-06-28 | 2,130 | 255 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 331)  
 Sum: 98 (Ranked 408)  

@@ -7,6 +7,7 @@ Rating: 4.47 (Ranked 594)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 3.00% | ~95 |
 | Confirming Suspicions | 3.00% | ~95 |
+| The Kraken Wakes | 3.00% | ~95 |
 | It's Starting to Crack | 3.00% | ~95 |
 | Change the Channel | 3.00% | ~95 |
 | Taking it back | 3.00% | ~95 |
@@ -19,7 +20,6 @@ Rating: 4.47 (Ranked 594)
 | Resourceful | 2.00% | ~63 |
 | Der Geist | 2.00% | ~63 |
 | As Quiet as a Mouse | 2.00% | ~63 |
-| The Kraken Wakes | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
 | Climbing the Ladder | 1.00% | ~32 |
 | Opposing Force | 1.00% | ~32 |
@@ -40,9 +40,9 @@ Rating: 4.47 (Ranked 594)
 | Shipbreaker | 0.70% | ~22 |
 | Strategist | 0.60% | ~19 |
 | It'll Buff Right Out | 0.60% | ~19 |
+| Don't hold your breath | 0.60% | ~19 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Operation Foxley | 0.60% | ~19 |
-| Don't hold your breath | 0.50% | ~16 |
 | Last Resort | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |

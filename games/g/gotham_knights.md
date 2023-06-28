@@ -8,16 +8,16 @@ Rating: 4.17 (Ranked 857)
 | First Step Into the Knight | 6.00% | ~3,965 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,643 |
 | Loose Ends | 4.00% | ~2,643 |
-| The Batman Family | 3.00% | ~1,982 |
-| Something in the Clay | 3.00% | ~1,982 |
-| To the Victor Go the Spoils | 3.00% | ~1,982 |
-| Quartzer Life Crisis | 3.00% | ~1,982 |
-| Get ReQ'd | 3.00% | ~1,982 |
-| Working Hard or Harley Working? | 3.00% | ~1,982 |
-| Unstoppable Force | 3.00% | ~1,982 |
-| Knighthood | 3.00% | ~1,982 |
-| Whispered Words | 3.00% | ~1,982 |
-| Lock and Key | 3.00% | ~1,982 |
+| The Batman Family | 3.00% | ~1,983 |
+| Something in the Clay | 3.00% | ~1,983 |
+| To the Victor Go the Spoils | 3.00% | ~1,983 |
+| Quartzer Life Crisis | 3.00% | ~1,983 |
+| Get ReQ'd | 3.00% | ~1,983 |
+| Working Hard or Harley Working? | 3.00% | ~1,983 |
+| Unstoppable Force | 3.00% | ~1,983 |
+| Knighthood | 3.00% | ~1,983 |
+| Whispered Words | 3.00% | ~1,983 |
+| Lock and Key | 3.00% | ~1,983 |
 | End of an Era | 2.00% | ~1,322 |
 | In Your Element | 2.00% | ~1,322 |
 | Protector of Gotham | 2.00% | ~1,322 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,083 (Ranked 72)  
+Progressed: 66,084 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,17 +136,17 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,083 | 99 |
+| 2023-06-28 | 66,084 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,394  (Ranked 100)  
-Sum: 3,960 (Ranked 138)  
+Sum: 3,962 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,394 |
+| This game is Extremely Fun | 203 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Relaxing | 201 |
-| This game is Extremely Fun | 201 |
 | This game has Amazing Characters | 199 |
 | This game is Great for Beginners | 193 |
 | This game has Diverse Characters | 192 |
@@ -283,4 +283,4 @@ Diff (max vs sum): -38
 | 2023-06-25 | 4.17 | 2,381 | 3,939 |
 | 2023-06-26 | 4.17 | 2,381 | 3,942 |
 | 2023-06-27 | 4.17 | 2,387 | 3,951 |
-| 2023-06-28 | 4.17 | 2,394 | 3,960 |
+| 2023-06-28 | 4.17 | 2,394 | 3,962 |

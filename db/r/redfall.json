@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2100,9 +2100,9 @@
       "ID": "Achievement_012",
       "SetID": "6b34g18",
       "Name": "Neighborhood Watch",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_013",
@@ -2557,8 +2557,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-22T21:58:24.9023254+00:00",
-  "LastChanged_Achievements": "2023-06-28T21:03:08.8445287+00:00",
+  "LastChanged_Achievements": "2023-06-28T22:02:16.4961275+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:28.9867387+00:00",
-  "LastUpdate_Ratings": "2023-06-28T20:58:06.2321435+00:00",
-  "LastUpdate_Achievements": "2023-06-28T21:03:08.8446152+00:00"
+  "LastUpdate_Ratings": "2023-06-28T21:58:05.7032674+00:00",
+  "LastUpdate_Achievements": "2023-06-28T22:02:16.4961903+00:00"
 }

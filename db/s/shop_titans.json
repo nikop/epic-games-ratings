@@ -4724,10 +4724,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 26817,
       "NumberOfAwardsMax": 4637
+    },
+    {
+      "Time": "2023-06-28T21:58:40.3651419+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 26818,
+      "NumberOfAwardsMax": 4637
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26817,
+  "NumberOfAwards": 26818,
   "NumberOfAwardsMax": 4637,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4771,7 +4777,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3120
+      "Count": 3121
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4780,9 +4786,9 @@
       "Count": 3692
     }
   ],
-  "EOS_Progressed": 131578,
+  "EOS_Progressed": 131579,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11710,6 +11716,11 @@
       "Time": "2023-06-28T21:06:34.483841+00:00",
       "NumProgressed": 131578,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-06-28T22:06:51.5225967+00:00",
+      "NumProgressed": 131579,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 112,
@@ -11721,7 +11732,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 59210
+      "UsersEstimate": 59211
     },
     {
       "ID": "advlevel02",
@@ -11825,7 +11836,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 76315
+      "UsersEstimate": 76316
     },
     {
       "ID": "blueprint02",
@@ -11833,7 +11844,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32894
+      "UsersEstimate": 32895
     },
     {
       "ID": "blueprint03",
@@ -11849,7 +11860,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 34210
+      "UsersEstimate": 34211
     },
     {
       "ID": "boss01",
@@ -11857,7 +11868,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 57894
+      "UsersEstimate": 57895
     },
     {
       "ID": "boss02",
@@ -11881,7 +11892,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27631
+      "UsersEstimate": 27632
     },
     {
       "ID": "chest01",
@@ -11889,7 +11900,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 127631
+      "UsersEstimate": 127632
     },
     {
       "ID": "chest02",
@@ -11905,7 +11916,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "collection01",
@@ -11921,7 +11932,7 @@
       "Name": "Scrapbooker",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 21052
+      "UsersEstimate": 21053
     },
     {
       "ID": "collection03",
@@ -11953,7 +11964,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 119736
+      "UsersEstimate": 119737
     },
     {
       "ID": "commonres02",
@@ -12169,7 +12180,7 @@
       "Name": "A Legend is Born",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "fuseuncommon",
@@ -12193,7 +12204,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 113157
+      "UsersEstimate": 113158
     },
     {
       "ID": "gold02",
@@ -12201,7 +12212,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 74999
+      "UsersEstimate": 75000
     },
     {
       "ID": "gold03",
@@ -12217,7 +12228,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27631
+      "UsersEstimate": 27632
     },
     {
       "ID": "gold05",
@@ -12233,7 +12244,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "help01",
@@ -12273,7 +12284,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64473
+      "UsersEstimate": 64474
     },
     {
       "ID": "jackslot02",
@@ -12305,7 +12316,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 86841
+      "UsersEstimate": 86842
     },
     {
       "ID": "level02",
@@ -12433,7 +12444,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 46052
+      "UsersEstimate": 46053
     },
     {
       "ID": "quest02",
@@ -12537,7 +12548,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 126315
+      "UsersEstimate": 126316
     },
     {
       "ID": "twinenchant01",
@@ -12545,7 +12556,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27631
+      "UsersEstimate": 27632
     },
     {
       "ID": "typeunlock01",
@@ -12616,15 +12627,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 131578,
+      "Progressed": 131579,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-06-28T13:15:40.6025283+00:00",
-  "LastChanged_Achievements": "2023-06-28T21:06:34.4838404+00:00",
+  "LastChanged": "2023-06-28T21:58:40.3651418+00:00",
+  "LastChanged_Achievements": "2023-06-28T22:06:51.5225962+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.3551983+00:00",
-  "LastUpdate_Ratings": "2023-06-28T20:58:34.6918247+00:00",
-  "LastUpdate_Achievements": "2023-06-28T21:06:34.484037+00:00"
+  "LastUpdate_Ratings": "2023-06-28T21:58:40.3651423+00:00",
+  "LastUpdate_Achievements": "2023-06-28T22:06:51.5227472+00:00"
 }

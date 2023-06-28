@@ -6,29 +6,29 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,631 |
-| Titan's First Steps | 96.00% | ~126,315 |
-| Basic in Bulk | 91.00% | ~119,736 |
-| Tinkle of Coins | 86.00% | ~113,157 |
+| Sponsored by Argon | 97.00% | ~127,632 |
+| Titan's First Steps | 96.00% | ~126,316 |
+| Basic in Bulk | 91.00% | ~119,737 |
+| Tinkle of Coins | 86.00% | ~113,158 |
 | Disintermediation | 75.00% | ~98,684 |
 | Capitalism Ho! | 74.00% | ~97,368 |
 | It's Free Real Estate | 70.00% | ~92,105 |
-| Budding Merchant | 66.00% | ~86,841 |
+| Budding Merchant | 66.00% | ~86,842 |
 | Another Satisfied Customer | 61.00% | ~80,263 |
 | One Easy Payment | 60.00% | ~78,947 |
 | Own the Means of Production | 60.00% | ~78,947 |
-| Some Assembly Required | 58.00% | ~76,315 |
-| Pretty Penny | 57.00% | ~74,999 |
-| One-Armed Bandit | 49.00% | ~64,473 |
+| Some Assembly Required | 58.00% | ~76,316 |
+| Pretty Penny | 57.00% | ~75,000 |
+| One-Armed Bandit | 49.00% | ~64,474 |
 | Through Repetition, Perfection | 46.00% | ~60,526 |
-| The Daily Grind | 45.00% | ~59,210 |
-| Bounty Hunters | 44.00% | ~57,894 |
+| The Daily Grind | 45.00% | ~59,211 |
+| Bounty Hunters | 44.00% | ~57,895 |
 | Where it Hurts | 43.00% | ~56,579 |
 | Dungeon Imports | 42.00% | ~55,263 |
 | Flooding the Market | 41.00% | ~53,947 |
 | Demand for Supplies | 38.00% | ~50,000 |
 | Gild-Gotten Goods | 37.00% | ~48,684 |
-| Did we pack lunch? | 35.00% | ~46,052 |
+| Did we pack lunch? | 35.00% | ~46,053 |
 | Arcane Industries | 34.00% | ~44,737 |
 | Accomplished Merchant | 31.00% | ~40,789 |
 | On the Path to Greatness | 28.00% | ~36,842 |
@@ -37,19 +37,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 28.00% | ~36,842 |
 | Blank Page Syndrome | 27.00% | ~35,526 |
 | Efficient Floor Space | 27.00% | ~35,526 |
-| Vanity, Verily | 26.00% | ~34,210 |
-| Research & Development | 25.00% | ~32,894 |
+| Vanity, Verily | 26.00% | ~34,211 |
+| Research & Development | 25.00% | ~32,895 |
 | Power of Love | 24.00% | ~31,579 |
 | Flawless Fusion | 24.00% | ~31,579 |
 | Natural 20 | 23.00% | ~30,263 |
-| Fated Encounters | 21.00% | ~27,631 |
-| Royal Ransom | 21.00% | ~27,631 |
-| Magical Harmony | 21.00% | ~27,631 |
+| Fated Encounters | 21.00% | ~27,632 |
+| Royal Ransom | 21.00% | ~27,632 |
+| Magical Harmony | 21.00% | ~27,632 |
 | Tax not Included | 20.00% | ~26,316 |
 | Trash to Treasure | 19.00% | ~25,000 |
 | For the Hoard! | 18.00% | ~23,684 |
 | Special Ingredient | 17.00% | ~22,368 |
-| Scrapbooker | 16.00% | ~21,052 |
+| Scrapbooker | 16.00% | ~21,053 |
 | A Notch Above the Rest | 15.00% | ~19,737 |
 | This Power Level...! | 15.00% | ~19,737 |
 | Expansion in Session | 15.00% | ~19,737 |
@@ -77,9 +77,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 8.00% | ~10,526 |
 | The King's Caprice | 8.00% | ~10,526 |
 | Item of Renown | 8.00% | ~10,526 |
-| Booty by the Boatload | 7.00% | ~9,210 |
-| A Legend is Born | 7.00% | ~9,210 |
-| Wealth Beyond Measure | 7.00% | ~9,210 |
+| Booty by the Boatload | 7.00% | ~9,211 |
+| A Legend is Born | 7.00% | ~9,211 |
+| Wealth Beyond Measure | 7.00% | ~9,211 |
 | Thirst for Knowledge | 6.00% | ~7,895 |
 | Archivist | 6.00% | ~7,895 |
 | Bountiful Harvest | 6.00% | ~7,895 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~658 |
 | Capitalist Camaraderie | 0.20% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,578 (Ranked 59)  
+Progressed: 131,579 (Ranked 59)  
 Completed: 112 (0.09%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,10 +188,10 @@ Completed: 112 (0.09%) (Ranked 182)
 | 2023-06-25 | 131,406 | 110 |
 | 2023-06-26 | 131,474 | 110 |
 | 2023-06-27 | 131,533 | 111 |
-| 2023-06-28 | 131,578 | 112 |
+| 2023-06-28 | 131,579 | 112 |
 ## Awards
 Max (Great for Beginners): 4,637  (Ranked 68)  
-Sum: 26,817 (Ranked 46)  
+Sum: 26,818 (Ranked 46)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -201,7 +201,7 @@ Diff (max vs sum): 22
 | This game has Diverse Characters | 3,800 |
 | This game is Highly Recommended | 3,692 |
 | This game has Easy Combat | 3,636 |
-| This game has Playful Visuals | 3,120 |
+| This game has Playful Visuals | 3,121 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -361,4 +361,4 @@ Diff (max vs sum): 22
 | 2023-06-25 | 3.99 | - | 4,635 | 26,808 |
 | 2023-06-26 | 3.99 | - | 4,635 | 26,809 |
 | 2023-06-27 | 3.99 | - | 4,637 | 26,814 |
-| 2023-06-28 | 3.99 | - | 4,637 | 26,817 |
+| 2023-06-28 | 3.99 | - | 4,637 | 26,818 |

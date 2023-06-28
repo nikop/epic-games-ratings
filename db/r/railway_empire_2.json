@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1411,
+  "EOS_Progressed": 1412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2685,6 +2685,11 @@
       "Time": "2023-06-28T20:06:48.4355438+00:00",
       "NumProgressed": 1411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T22:06:47.148675+00:00",
+      "NumProgressed": 1412,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -2792,7 +2797,7 @@
       "Name": "Departure",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "A13",
@@ -2808,7 +2813,7 @@
       "Name": "A new Journey",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "A15",
@@ -2816,7 +2821,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "A16",
@@ -2856,7 +2861,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "A21",
@@ -2872,7 +2877,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "A23",
@@ -2920,7 +2925,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "A29",
@@ -3016,7 +3021,7 @@
       "Name": "Mind the Gap",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "A41",
@@ -3024,7 +3029,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "A42",
@@ -3056,7 +3061,7 @@
       "Name": "Settler",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "A46",
@@ -3064,7 +3069,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "A47",
@@ -3072,7 +3077,7 @@
       "Name": "Travel Company",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "A48",
@@ -3135,7 +3140,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1411,
+      "Progressed": 1412,
       "Completed": 0
     }
   ],
@@ -3143,8 +3148,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-28T07:58:22.6687164+00:00",
-  "LastChanged_Achievements": "2023-06-28T21:06:30.5441314+00:00",
+  "LastChanged_Achievements": "2023-06-28T22:06:47.1486746+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.8009478+00:00",
-  "LastUpdate_Ratings": "2023-06-28T20:58:18.6594067+00:00",
-  "LastUpdate_Achievements": "2023-06-28T21:06:30.5441949+00:00"
+  "LastUpdate_Ratings": "2023-06-28T21:58:21.2677078+00:00",
+  "LastUpdate_Achievements": "2023-06-28T22:06:47.1487229+00:00"
 }

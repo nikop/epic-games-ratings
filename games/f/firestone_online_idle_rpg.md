@@ -5,22 +5,22 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,427 |
-| World Map | 79.00% | ~1,199 |
-| Temple of Eternals | 57.00% | ~865 |
+| Victor | 94.00% | ~1,428 |
+| World Map | 79.00% | ~1,200 |
+| Temple of Eternals | 57.00% | ~866 |
 | Prestigious | 54.00% | ~820 |
-| Fellowship Power | 41.00% | ~622 |
+| Fellowship Power | 41.00% | ~623 |
 | Guild Power | 25.00% | ~380 |
 | Prestigious x10 | 21.00% | ~319 |
-| The game is on | 19.00% | ~288 |
+| The game is on | 19.00% | ~289 |
 | Exotic Merchant | 17.00% | ~258 |
 | Dragon Clicker | 16.00% | ~243 |
 | Miner Clicker | 16.00% | ~243 |
 | Full Party | 15.00% | ~228 |
 | Inspection | 15.00% | ~228 |
-| Enlightenment | 14.00% | ~213 |
 | Hero inspection | 14.00% | ~213 |
 | Dragon Master | 13.00% | ~197 |
+| Enlightenment | 13.00% | ~197 |
 | Lieutenant | 13.00% | ~197 |
 | Milestone collector | 12.00% | ~182 |
 | Mysterious Rock | 12.00% | ~182 |
@@ -34,11 +34,11 @@ Rating: 4.07 (Ranked 895)
 | Mastery | 9.00% | ~137 |
 | Scroll Master | 9.00% | ~137 |
 | The power of Awakening | 9.00% | ~137 |
-| Daily Quest Completionist | 8.00% | ~121 |
-| Four Leaf Clover | 8.00% | ~121 |
-| Frostfire Liberator | 8.00% | ~121 |
-| Moving Up The Ladder | 8.00% | ~121 |
-| Relic Of The Past | 8.00% | ~121 |
+| Daily Quest Completionist | 8.00% | ~122 |
+| Four Leaf Clover | 8.00% | ~122 |
+| Frostfire Liberator | 8.00% | ~122 |
+| Moving Up The Ladder | 8.00% | ~122 |
+| Relic Of The Past | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~106 |
 | Master Enchanter | 7.00% | ~106 |
 | How Do You Turn This On? | 6.00% | ~91 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,518 (Ranked 167)  
+Progressed: 1,519 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-25 | 1,500 | 1 |
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
-| 2023-06-28 | 1,518 | 1 |
+| 2023-06-28 | 1,519 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

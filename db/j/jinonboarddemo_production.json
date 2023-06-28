@@ -3,8 +3,8 @@
   "Name": "jinonboarddemo Production",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:16.328346+00:00",
-  "LastUpdate_Ratings": "2023-06-28T21:00:05.5582641+00:00",
-  "LastUpdate_Achievements": "2023-06-28T21:03:55.2618105+00:00"
+  "LastUpdate_Ratings": "2023-06-28T22:00:32.7162352+00:00",
+  "LastUpdate_Achievements": "2023-06-28T22:03:43.0622413+00:00"
 }
