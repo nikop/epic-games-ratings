@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -49,7 +49,7 @@
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.35% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.34% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.14% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
@@ -105,8 +105,8 @@
 | 103 | [Hades](games/h/hades.md) | 0.89% |
 | 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
-| 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
+| 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
 | 108 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Haven](games/h/haven.md) | 0.69% |
