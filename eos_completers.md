@@ -13,7 +13,7 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.95% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.48% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.41% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -26,7 +26,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.24% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
@@ -35,7 +35,7 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.77% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.10% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.09% |
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.81% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
