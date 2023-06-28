@@ -13,7 +13,7 @@
 | 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.15% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.79% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.71% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.82% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
@@ -183,12 +183,12 @@
 | 176 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 182 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 182 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 182 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
 | 182 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 185 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.08% |
-| 185 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 185 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
-| 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
-| 185 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 186 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.08% |
+| 186 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
+| 186 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 190 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 190 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
 | 190 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
