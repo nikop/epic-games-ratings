@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 20,396 | 4.53 | 505 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,776 | 4.57 | 438 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,461 | 4.89 | 13 |
-| 21 | [Warframe](games/w/warframe.md) | 15,674 | 4.61 | 363 |
+| 21 | [Warframe](games/w/warframe.md) | 15,690 | 4.61 | 363 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,623 | 4.76 | 119 |
 | 23 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,406 | 4.58 | 420 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 14,342 | 4.21 | 827 |
@@ -59,7 +59,7 @@
 | 57 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,797 | 4.66 | 275 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,590 | 4.82 | 65 |
 | 59 | [Prey](games/p/prey.md) | 5,587 | 4.62 | 344 |
-| 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,499 | 4.85 | 41 |
+| 60 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,500 | 4.85 | 41 |
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,461 | 4.69 | 221 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,331 | 4.75 | 132 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,070 | 4.34 | 742 |

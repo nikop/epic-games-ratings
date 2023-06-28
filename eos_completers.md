@@ -57,7 +57,7 @@
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 58 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
 | 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.83% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -71,8 +71,8 @@
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 73 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 74 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.93% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -366,6 +366,7 @@
 | 230 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 0.00% |
 | 230 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
 | 230 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 0.00% |
+| 230 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 0.00% |
 | 230 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |
 | 230 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
 | 230 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.00% |
