@@ -55,7 +55,7 @@
 | 51 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 257 |
 | 51 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 502 |
 | 51 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 409 | 205 |
-| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 257 | 244 |
+| 51 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 258 | 244 |
 | 57 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 502 |
 | 57 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 502 |
 | 57 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 502 |
@@ -132,7 +132,7 @@
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 502 |
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 344 | 222 |
 | 132 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 474 |
-| 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,331 | 62 |
+| 132 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,342 | 62 |
 | 132 | [Diabotical](games/d/diabotical.md) | 4.75 | 270 | 241 |
 | 132 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 880 | 149 |
 | 132 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 505 | 189 |
@@ -183,12 +183,12 @@
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 502 |
 | 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 362 |
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 502 |
-| 181 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 348 | 220 |
+| 181 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 349 | 220 |
 | 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 502 |
 | 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,560 | 50 |
 | 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
 | 181 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.71 | 903 | 148 |
-| 181 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,279 | 46 |
+| 181 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,280 | 46 |
 | 181 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 502 |
 | 181 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 502 |
 | 181 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 502 |
@@ -277,7 +277,7 @@
 | 274 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 415 |
 | 274 | [Crashlands](games/c/crashlands.md) | 4.66 | 191 | 271 |
 | 274 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 502 |
-| 274 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 126 |
+| 274 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,290 | 127 |
 | 274 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 328 | 225 |
 | 274 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 502 |
 | 274 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 502 |
@@ -527,7 +527,7 @@
 | 517 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
 | 517 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.52 | 0 | 502 |
 | 517 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 121 | 308 |
-| 517 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,290 | 126 |
+| 517 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,292 | 126 |
 | 517 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 502 |
 | 517 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 235 |
 | 517 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 502 |
@@ -555,7 +555,7 @@
 | 549 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 502 |
 | 549 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 89 | 344 |
 | 549 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 502 |
-| 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,294 | 13 |
+| 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,326 | 13 |
 | 549 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 502 |
 | 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,486 | 94 |
 | 549 | [Horace](games/h/horace.md) | 4.50 | 0 | 502 |
@@ -565,7 +565,7 @@
 | 549 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 0 | 502 |
 | 549 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 502 |
 | 549 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 706 | 160 |
-| 549 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 454,982 | 2 |
+| 549 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 456,947 | 2 |
 | 549 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 502 |
 | 549 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 33 | 440 |
 | 569 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 382 |
@@ -706,7 +706,7 @@
 | 702 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 502 |
 | 702 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 502 |
 | 702 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.39 | 28 | 461 |
-| 702 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,711 | 32 |
+| 702 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,713 | 32 |
 | 702 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 367 |
 | 702 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 502 |
 | 702 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 226 |
@@ -946,4 +946,4 @@
 | 944 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 502 |
 | 945 | [Redfall](games/r/redfall.md) | 3.51 | 0 | 502 |
 | 946 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.45 | 0 | 502 |
-| 947 | [Adios](games/a/adios.md) | 3.36 | 0 | 502 |
+| 947 | [Adios](games/a/adios.md) | 3.42 | 0 | 502 |
