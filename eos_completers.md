@@ -17,7 +17,7 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.97% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.43% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
@@ -67,9 +67,9 @@
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.33% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.23% |
+| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.22% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
