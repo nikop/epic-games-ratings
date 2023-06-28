@@ -6,16 +6,16 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's over, Jacob! | 0.10% | ~16 |
-| Armed to the Teeth | 0.10% | ~3 |
+| Armed to the Teeth | 0.10% | ~4 |
 | Giving Back | 0.10% | ~16 |
 | You Need a Gun | 0.10% | ~16 |
 | Flesh Wound | 0.10% | ~16 |
 | Grim Reaper | 0.10% | ~16 |
 | I Do Belong Here | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
-| Recidivist | 0.10% | ~3 |
-| Lifer | 0.10% | ~3 |
-| Parole Denied | 0.10% | ~3 |
+| Recidivist | 0.10% | ~4 |
+| Lifer | 0.10% | ~4 |
+| Parole Denied | 0.10% | ~4 |
 | Get a Grip | 0.10% | ~16 |
 | In Striking Distance | 0.10% | ~16 |
 | Two Heads Are Better Than One | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.00% | ~0 |
 | Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,573 (Ranked 105)  
+Progressed: 15,574 (Ranked 105)  
 Completed: 57 (0.37%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 57 (0.37%) (Ranked 134)
 | 2023-06-25 | 15,555 | 57 |
 | 2023-06-26 | 15,563 | 57 |
 | 2023-06-27 | 15,570 | 57 |
-| 2023-06-28 | 15,573 | 57 |
+| 2023-06-28 | 15,574 | 57 |
 ## Awards
 Max (Amazing Storytelling): 59  (Ranked 385)  
 Sum: 340 (Ranked 325)  

@@ -1,17 +1,17 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 275)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 10.00% | ~18,122 |
-| Thorough | 9.00% | ~16,309 |
-| A thief's beginning | 8.00% | ~14,497 |
-| Disguised | 7.00% | ~12,685 |
-| Rollin' | 7.00% | ~12,685 |
-| Tanuki Time | 7.00% | ~12,685 |
+| Thorough | 9.00% | ~16,310 |
+| A thief's beginning | 8.00% | ~14,498 |
+| Disguised | 7.00% | ~12,686 |
+| Rollin' | 7.00% | ~12,686 |
+| Tanuki Time | 7.00% | ~12,686 |
 | Chunin | 6.00% | ~10,873 |
 | Ice Ice Yuki | 6.00% | ~10,873 |
 | Jonin | 6.00% | ~10,873 |
@@ -25,11 +25,11 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 4.00% | ~7,249 |
 | Prisoners | 4.00% | ~7,249 |
 | Too Early | 4.00% | ~7,249 |
-| Gear up | 3.00% | ~5,436 |
-| Happy little accidents | 3.00% | ~5,436 |
-| Noboru | 3.00% | ~5,436 |
-| Still Rollin' | 3.00% | ~5,436 |
-| Stoned | 3.00% | ~5,436 |
+| Gear up | 3.00% | ~5,437 |
+| Happy little accidents | 3.00% | ~5,437 |
+| Noboru | 3.00% | ~5,437 |
+| Still Rollin' | 3.00% | ~5,437 |
+| Stoned | 3.00% | ~5,437 |
 | Atheist Ox | 2.00% | ~3,624 |
 | It's raining men | 2.00% | ~3,624 |
 | Old Man | 2.00% | ~3,624 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~181 |
 | Release the Kraken | 0.10% | ~181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,215 (Ranked 57)  
+Progressed: 181,223 (Ranked 57)  
 Completed: 55 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 55 (0.03%) (Ranked 202)
 | 2023-06-25 | 180,602 | 55 |
 | 2023-06-26 | 180,895 | 55 |
 | 2023-06-27 | 181,183 | 55 |
-| 2023-06-28 | 181,215 | 55 |
+| 2023-06-28 | 181,223 | 55 |
 ## Awards
 Max (Great for Beginners): 552  (Ranked 182)  
 Sum: 4,690 (Ranked 128)  

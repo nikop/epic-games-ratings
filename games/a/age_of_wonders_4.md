@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 0.50% | ~24 |
+| Secret Technique | 0.60% | ~29 |
 | My Final Form | 0.40% | ~19 |
 | Tipping the Scales | 0.40% | ~19 |
 | Realm Estate | 0.30% | ~15 |
@@ -16,6 +16,7 @@ Rating: 4.59 (Ranked 409)
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
 | Magical Synergy | 0.20% | ~10 |
+| Seat of Power | 0.20% | ~10 |
 | Here be Dragons | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
@@ -34,7 +35,6 @@ Rating: 4.59 (Ranked 409)
 | Digging for Treasure | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
-| Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "26",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-06-28T02:25:57.8916773+00:00",
+  "LastChanged_Achievements": "2023-06-28T03:22:20.2909497+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5683337+00:00",
-  "LastUpdate_Ratings": "2023-06-28T02:24:03.7222129+00:00",
-  "LastUpdate_Achievements": "2023-06-28T02:25:57.8917047+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:20:43.7768339+00:00",
+  "LastUpdate_Achievements": "2023-06-28T03:22:20.290968+00:00"
 }

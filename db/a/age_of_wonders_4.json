@@ -258,7 +258,7 @@
   "Tags": [],
   "EOS_Progressed": 4858,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4773,9 +4773,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "25",
@@ -4853,9 +4853,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "34",
@@ -5060,8 +5060,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-28T02:29:52.276585+00:00",
+  "LastChanged_Achievements": "2023-06-28T03:26:32.5783353+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-28T02:24:09.989605+00:00",
-  "LastUpdate_Achievements": "2023-06-28T02:29:52.2766777+00:00"
+  "LastUpdate_Ratings": "2023-06-28T03:20:48.8691544+00:00",
+  "LastUpdate_Achievements": "2023-06-28T03:26:32.5783911+00:00"
 }

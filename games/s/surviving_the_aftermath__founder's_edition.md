@@ -18,8 +18,8 @@ Number of Ratings: 836  (23.09.2022)
 | New Opportunities | 34.00% | ~2,335 |
 | Energized | 33.00% | ~2,266 |
 | The Long Haul | 33.00% | ~2,266 |
+| Survivor | 32.00% | ~2,197 |
 | The Great Healer | 31.00% | ~2,129 |
-| Survivor | 31.00% | ~2,129 |
 | Cleaner | 28.00% | ~1,923 |
 | Catastrofan | 28.00% | ~1,923 |
 | Legendary Explorer | 27.00% | ~1,854 |
@@ -32,8 +32,8 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 21.00% | ~1,442 |
 | War Never Changes | 19.00% | ~1,305 |
 | Rocket Surgeon | 19.00% | ~1,305 |
+| Friendly | 17.00% | ~1,167 |
 | Big Game Hunter | 17.00% | ~1,167 |
-| Friendly | 16.00% | ~1,099 |
 | Around the World | 16.00% | ~1,099 |
 | Spreading Influence | 16.00% | ~1,099 |
 | Bookworm | 15.00% | ~1,030 |

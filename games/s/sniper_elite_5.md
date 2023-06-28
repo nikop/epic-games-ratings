@@ -32,10 +32,10 @@ Rating: 4.47 (Ranked 594)
 | No Stone Unturned | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |
 | Rigged to Blow | 0.90% | ~28 |
+| My Little Friend | 0.90% | ~28 |
 | Opposing Force | 0.80% | ~25 |
 | Enemy at the Gates | 0.80% | ~25 |
 | Fields of Glory | 0.80% | ~25 |
-| My Little Friend | 0.80% | ~25 |
 | Die Nussknacker Sweet! | 0.80% | ~25 |
 | Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |

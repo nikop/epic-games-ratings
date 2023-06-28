@@ -11,7 +11,7 @@
 | Face to face | 76.00% | ~63 |
 | Now or never | 73.00% | ~61 |
 | Let's play a game… | 71.00% | ~59 |
-| Soundtrack | 60.00% | ~50 |
+| Soundtrack | 61.00% | ~51 |
 | First aid | 58.00% | ~48 |
 | Antidote | 45.00% | ~37 |
 | Pick the right door | 22.00% | ~18 |
@@ -23,9 +23,9 @@
 | Failed attempt | 11.00% | ~9 |
 | Good choice | 11.00% | ~9 |
 | Take the long way round | 11.00% | ~9 |
+| He who seeks, finds! | 11.00% | ~9 |
 | The real escape | 10.00% | ~8 |
 | Nightmare in the kitchen | 10.00% | ~8 |
-| He who seeks, finds! | 10.00% | ~8 |
 | Born again | 7.00% | ~6 |
 | 373 | 6.00% | ~5 |
 | The experiment | 5.00% | ~4 |
