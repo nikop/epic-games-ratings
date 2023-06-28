@@ -48,6 +48,7 @@ Rating: 4.17 (Ranked 857)
 | Hammer and Icicle | 0.30% | ~109 |
 | Practice Makes Perfect | 0.30% | ~198 |
 | He'd Be So Proud of You | 0.30% | ~198 |
+| Element of Surprise | 0.20% | ~73 |
 | Renewable Enemy Source | 0.20% | ~73 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
 | The Cold, the Bad and the Ugly | 0.20% | ~73 |
@@ -55,7 +56,6 @@ Rating: 4.17 (Ranked 857)
 | The Man-Bat Family | 0.20% | ~132 |
 | Batarang Collector | 0.20% | ~132 |
 | Claiming the Mural High Ground | 0.20% | ~132 |
-| Element of Surprise | 0.10% | ~36 |
 | It's Nice to Be Wanted | 0.10% | ~36 |
 | Gotham's Greatest Depths | 0.10% | ~36 |
 | Showdown Sovereign | 0.10% | ~36 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,078 (Ranked 72)  
+Progressed: 66,079 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,078 | 99 |
+| 2023-06-28 | 66,079 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,394  (Ranked 100)  
 Sum: 3,958 (Ranked 138)  

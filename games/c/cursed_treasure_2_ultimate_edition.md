@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Touch My Gems! | 98.00% | ~159 |
-| On the Crest of a Wave | 95.00% | ~154 |
-| Foreman of Darkness | 94.00% | ~152 |
+| On the Crest of a Wave | 96.00% | ~156 |
+| Foreman of Darkness | 95.00% | ~154 |
 | Brilliant Day | 93.00% | ~151 |
-| Evil Genius | 87.00% | ~141 |
+| Evil Genius | 88.00% | ~143 |
 | Air Defense | 85.00% | ~138 |
-| Tinned Corpse | 83.00% | ~134 |
-| Your War is Over | 81.00% | ~131 |
-| The Starry Night | 76.00% | ~123 |
+| Tinned Corpse | 84.00% | ~136 |
+| Your War is Over | 82.00% | ~133 |
+| The Starry Night | 77.00% | ~125 |
 | Go Home! | 75.00% | ~122 |
 | Brilliant: Meadowshire | 73.00% | ~118 |
 | Look After the Pence... | 73.00% | ~118 |

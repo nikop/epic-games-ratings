@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,631 |
-| That's a Grand Army | 8.00% | ~5,006 |
-| That is mine! | 8.00% | ~5,006 |
-| Victorious! | 8.00% | ~5,006 |
-| Brothers in Arms | 6.00% | ~3,754 |
-| That's a Grand Navy | 6.00% | ~3,754 |
-| Seriously?! | 6.00% | ~3,754 |
-| For the Glory | 5.00% | ~3,129 |
-| Cold War | 4.00% | ~2,503 |
-| True Catholic | 4.00% | ~2,503 |
-| Defender of the Faith | 3.00% | ~1,877 |
-| It's all about the money | 3.00% | ~1,877 |
-| Respected | 3.00% | ~1,877 |
-| Truly Divine Ruler | 3.00% | ~1,877 |
-| Agressive Expander | 2.00% | ~1,251 |
-| Blockader | 2.00% | ~1,251 |
-| Combined Arms | 2.00% | ~1,251 |
-| Double the Love | 2.00% | ~1,251 |
-| Gentle Persuasion | 2.00% | ~1,251 |
-| It's all about luck | 2.00% | ~1,251 |
-| My armies are invincible! | 2.00% | ~1,251 |
-| Queen of Conquest | 2.00% | ~1,251 |
-| Royal Authority | 2.00% | ~1,251 |
-| The Princess is in this Castle | 2.00% | ~1,251 |
-| Total Control | 2.00% | ~1,251 |
+| Until death do us apart | 9.00% | ~5,635 |
+| That's a Grand Army | 8.00% | ~5,009 |
+| That is mine! | 8.00% | ~5,009 |
+| Victorious! | 8.00% | ~5,009 |
+| Brothers in Arms | 6.00% | ~3,756 |
+| That's a Grand Navy | 6.00% | ~3,756 |
+| Seriously?! | 6.00% | ~3,756 |
+| For the Glory | 5.00% | ~3,130 |
+| Cold War | 4.00% | ~2,504 |
+| True Catholic | 4.00% | ~2,504 |
+| Defender of the Faith | 3.00% | ~1,878 |
+| It's all about the money | 3.00% | ~1,878 |
+| Respected | 3.00% | ~1,878 |
+| Truly Divine Ruler | 3.00% | ~1,878 |
+| Agressive Expander | 2.00% | ~1,252 |
+| Blockader | 2.00% | ~1,252 |
+| Combined Arms | 2.00% | ~1,252 |
+| Double the Love | 2.00% | ~1,252 |
+| Gentle Persuasion | 2.00% | ~1,252 |
+| It's all about luck | 2.00% | ~1,252 |
+| My armies are invincible! | 2.00% | ~1,252 |
+| Queen of Conquest | 2.00% | ~1,252 |
+| Royal Authority | 2.00% | ~1,252 |
+| The Princess is in this Castle | 2.00% | ~1,252 |
+| Total Control | 2.00% | ~1,252 |
 | All That's Thine Shall Be Mine | 1.00% | ~626 |
 | Azur semé de lis or | 1.00% | ~626 |
 | Bright Spark | 1.00% | ~626 |
@@ -45,12 +45,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.80% | ~501 |
 | Trustworthy | 0.80% | ~501 |
 | Electable! | 0.70% | ~438 |
-| All belongs to Mother Russia | 0.60% | ~375 |
-| At every continent | 0.60% | ~375 |
-| Populists in Government | 0.60% | ~375 |
-| The pen is mightier than the sword | 0.60% | ~375 |
-| This is My Faith | 0.60% | ~375 |
-| Time Bandit | 0.60% | ~375 |
+| All belongs to Mother Russia | 0.60% | ~376 |
+| At every continent | 0.60% | ~376 |
+| Populists in Government | 0.60% | ~376 |
+| The pen is mightier than the sword | 0.60% | ~376 |
+| This is My Faith | 0.60% | ~376 |
+| Time Bandit | 0.60% | ~376 |
 | Early-Modern Warfare | 0.50% | ~313 |
 | Grand Coalition | 0.50% | ~313 |
 | One Family to Rule them All | 0.50% | ~313 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,572 (Ranked 77)  
+Progressed: 62,608 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,10 +430,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 61,352 | 0 |
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
-| 2023-06-28 | 62,572 | 0 |
+| 2023-06-28 | 62,608 | 0 |
 ## Awards
 Max (Educational): 5,469  (Ranked 61)  
-Sum: 45,158 (Ranked 27)  
+Sum: 45,161 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -443,7 +443,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 5,189 |
 | This game has Diverse Characters | 5,146 |
 | This game is Relaxing | 5,063 |
-| This game has Competitive Players | 4,905 |
+| This game has Competitive Players | 4,908 |
 | This game has Amazing Storytelling | 4,648 |
 | This game has Amazing Characters | 4,289 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -612,4 +612,4 @@ Diff (max vs sum): 34
 | 2023-06-25 | 4.69 | - | 5,449 | 45,038 |
 | 2023-06-26 | 4.69 | - | 5,452 | 45,064 |
 | 2023-06-27 | 4.69 | - | 5,461 | 45,122 |
-| 2023-06-28 | 4.69 | - | 5,469 | 45,158 |
+| 2023-06-28 | 4.69 | - | 5,469 | 45,161 |

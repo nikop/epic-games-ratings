@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,567 |
-| Man of politics | 35.00% | ~4,752 |
+| Tattletale | 41.00% | ~5,568 |
+| Man of politics | 35.00% | ~4,753 |
 | Friends of sorts | 34.00% | ~4,617 |
 | Yet another secret | 34.00% | ~4,617 |
 | Let there be darkness | 33.00% | ~4,481 |
-| End of Book One | 31.00% | ~4,209 |
-| Garden of Eden | 25.00% | ~3,394 |
+| End of Book One | 31.00% | ~4,210 |
+| Garden of Eden | 25.00% | ~3,395 |
 | Wannabe knight | 24.00% | ~3,259 |
 | Full house | 24.00% | ~3,259 |
-| Help an old friend | 22.00% | ~2,987 |
+| Help an old friend | 22.00% | ~2,988 |
 | Two of us | 20.00% | ~2,716 |
 | Negotiation skills | 19.00% | ~2,580 |
 | Workers' union | 19.00% | ~2,580 |
 | End of Book Two | 18.00% | ~2,444 |
-| Everything's in order | 17.00% | ~2,308 |
+| Everything's in order | 17.00% | ~2,309 |
 | Jack was here! | 15.00% | ~2,037 |
 | Twist of Fate | 14.00% | ~1,901 |
 | Exterminator | 14.00% | ~1,901 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,222 |
 | The End. | 9.00% | ~1,222 |
 | A cry for help | 8.00% | ~1,086 |
-| Silentium est aureum | 7.00% | ~950 |
+| Silentium est aureum | 7.00% | ~951 |
 | Rebel without a cause | 6.00% | ~815 |
 | Staring contest champion | 5.00% | ~679 |
 | Lone wolf | 5.00% | ~679 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~407 |
 | Boy of mystery | 2.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,578 (Ranked 109)  
+Progressed: 13,580 (Ranked 109)  
 Completed: 103 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 103 (0.76%) (Ranked 108)
 | 2023-06-25 | 13,516 | 103 |
 | 2023-06-26 | 13,540 | 103 |
 | 2023-06-27 | 13,565 | 103 |
-| 2023-06-28 | 13,578 | 103 |
+| 2023-06-28 | 13,580 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

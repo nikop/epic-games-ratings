@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -1516,9 +1516,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 696
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -1717,8 +1717,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-06-28T15:03:28.2650622+00:00",
+  "LastChanged_Achievements": "2023-06-28T16:03:19.0092788+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:42.3989723+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:01:36.7462846+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:03:28.2650994+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:00:21.7848807+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:03:19.0093447+00:00"
 }

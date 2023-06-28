@@ -66,18 +66,18 @@ Number of Ratings: 87  (23.09.2022)
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |
+| Space Age | 0.50% | ~4 |
 | BBQ | 0.40% | ~3 |
 | Highlander | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
-| Space Age | 0.40% | ~3 |
 | The Hare | 0.40% | ~3 |
+| Voyager | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
 | The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
-| Voyager | 0.30% | ~2 |
 | Forgotten | 0.00% | ~0 |
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |

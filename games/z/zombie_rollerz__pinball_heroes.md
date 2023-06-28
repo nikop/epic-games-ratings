@@ -16,10 +16,10 @@
 | The Magician | 46.00% | ~51 |
 | The Tunneler | 41.00% | ~46 |
 | Level Up!! | 40.00% | ~44 |
-| The Shield | 39.00% | ~43 |
+| The Shield | 40.00% | ~44 |
 | Kill-streak | 33.00% | ~37 |
 | The Bird | 31.00% | ~34 |
-| The Ninja | 29.00% | ~32 |
+| The Ninja | 30.00% | ~33 |
 | Inferno Ruins | 28.00% | ~31 |
 | Topped up | 27.00% | ~30 |
 | The Idol | 27.00% | ~30 |

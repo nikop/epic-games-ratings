@@ -9,26 +9,26 @@ Rating: 3.51 (Ranked 945)
 | Home Is Where the Heart Is | 60.00% | ~1,024 |
 | Ne Plus Ultra | 60.00% | ~1,024 |
 | Wounded Whispers | 60.00% | ~1,024 |
-| Blood Will Have Blood | 50.00% | ~853 |
+| Blood Will Have Blood | 50.00% | ~854 |
 | ICU | 45.00% | ~768 |
 | Peek-a-boo | 44.00% | ~751 |
 | Catch and Release | 44.00% | ~751 |
 | Sucks To Be You | 43.00% | ~734 |
-| Welcome to the Neighborhood | 37.00% | ~631 |
-| Fly Fisher | 36.00% | ~614 |
+| Welcome to the Neighborhood | 37.00% | ~632 |
+| Fly Fisher | 36.00% | ~615 |
 | Throw The First Stone | 35.00% | ~597 |
 | Enter of Your Own Free Will | 32.00% | ~546 |
 | Heart Attack | 32.00% | ~546 |
 | Skin of Their Teeth | 31.00% | ~529 |
-| Grounded | 24.00% | ~409 |
+| Grounded | 24.00% | ~410 |
 | Bad Wiring | 21.00% | ~358 |
 | I Spit On Your Grave | 19.00% | ~324 |
 | Neighborhood Revitalization | 16.00% | ~273 |
 | Radio Silence | 16.00% | ~273 |
 | Helping Hand | 12.00% | ~205 |
 | You Clean It Up | 11.00% | ~188 |
-| Block Party | 8.00% | ~136 |
-| Starve the Beast | 8.00% | ~136 |
+| Block Party | 8.00% | ~137 |
+| Starve the Beast | 8.00% | ~137 |
 | From the Shadows | 6.00% | ~102 |
 | Revelations | 4.00% | ~68 |
 | Bell-ringer | 4.00% | ~68 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,706 (Ranked 164)  
+Progressed: 1,707 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 1,702 | 0 |
 | 2023-06-26 | 1,705 | 0 |
 | 2023-06-27 | 1,706 | 0 |
+| 2023-06-28 | 1,707 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

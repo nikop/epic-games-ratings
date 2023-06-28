@@ -716,10 +716,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 4998,
       "NumberOfAwardsMax": 3475
+    },
+    {
+      "Time": "2023-06-28T15:57:21.4473063+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 5015,
+      "NumberOfAwardsMax": 3475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4998,
+  "NumberOfAwards": 5015,
   "NumberOfAwardsMax": 3475,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -751,7 +757,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 148
+      "Count": 165
     },
     {
       "Text": "This game is Highly Recommended",
@@ -790,10 +796,10 @@
       "Count": 179
     }
   ],
-  "EOS_Progressed": 1362923,
-  "EOS_Completed": 259,
-  "EOS_NewPlayers": 87107,
-  "EOS_NewCompleters": 66,
+  "EOS_Progressed": 1363350,
+  "EOS_Completed": 261,
+  "EOS_NewPlayers": 86581,
+  "EOS_NewCompleters": 68,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -3055,6 +3061,11 @@
       "Time": "2023-06-28T15:07:51.0403801+00:00",
       "NumProgressed": 1362923,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-06-28T16:06:36.9358178+00:00",
+      "NumProgressed": 1363350,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 1328,
@@ -3608,9 +3619,9 @@
       "ID": "axe_59",
       "SetID": "bkjdbk8",
       "Name": ";)",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "axe_60",
@@ -3648,9 +3659,9 @@
       "ID": "axe_64",
       "SetID": "bkjdbk8",
       "Name": "Democracy at Work",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "axe_65",
@@ -3992,9 +4003,9 @@
       "ID": "bob_10",
       "SetID": "bkjdbk8",
       "Name": "Ghost Riders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "bob_3",
@@ -4584,9 +4595,9 @@
       "ID": "cac_6",
       "SetID": "bkjdbk8",
       "Name": "Just Shut up and Take My Money!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "cac_7",
@@ -4752,9 +4763,9 @@
       "ID": "charliesierra_9",
       "SetID": "bkjdbk8",
       "Name": "Reindeer Games",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "chas_1",
@@ -4768,9 +4779,9 @@
       "ID": "chas_10",
       "SetID": "bkjdbk8",
       "Name": "All the Gold in Chinatown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "chas_11",
@@ -5448,9 +5459,9 @@
       "ID": "death_27",
       "SetID": "bkjdbk8",
       "Name": "Tough Act to Follow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "death_28",
@@ -6264,9 +6275,9 @@
       "ID": "gage2_1",
       "SetID": "bkjdbk8",
       "Name": "Doctor Miserable",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "gage2_10",
@@ -6504,9 +6515,9 @@
       "ID": "gage4_12",
       "SetID": "bkjdbk8",
       "Name": "Four Monkeys",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "gage4_2",
@@ -7696,9 +7707,9 @@
       "ID": "halloween_10",
       "SetID": "bkjdbk8",
       "Name": "From Russia With Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "halloween_2",
@@ -7792,9 +7803,9 @@
       "ID": "halloween_nightmare_4",
       "SetID": "bkjdbk8",
       "Name": "Water Works",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "halloween_nightmare_5",
@@ -8096,9 +8107,9 @@
       "ID": "jerry_2",
       "SetID": "bkjdbk8",
       "Name": "Pinpoint Landing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "jerry_3",
@@ -8352,9 +8363,9 @@
       "ID": "mad_5",
       "SetID": "bkjdbk8",
       "Name": "Megalo-Mania",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "man_1",
@@ -8504,9 +8515,9 @@
       "ID": "mex2_9",
       "SetID": "bkjdbk8",
       "Name": "Heister Cocinero",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "mex_1",
@@ -8824,17 +8835,17 @@
       "ID": "orange_5",
       "SetID": "bkjdbk8",
       "Name": "A Long Night of Horrors",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "orange_6",
       "SetID": "bkjdbk8",
       "Name": "He\u0027s Got Experience",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "ovk_1",
@@ -8872,9 +8883,9 @@
       "ID": "ovk_4",
       "SetID": "bkjdbk8",
       "Name": "We Are Rockstars On This Job",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "ovk_5",
@@ -9072,9 +9083,9 @@
       "ID": "pent_9",
       "SetID": "bkjdbk8",
       "Name": "Crouching Bomber, Hidden Flamer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "peta_1",
@@ -10824,9 +10835,9 @@
       "ID": "tango_achieve_2",
       "SetID": "bkjdbk8",
       "Name": "Let Them Fly",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "tango_achieve_3",
@@ -13248,9 +13259,9 @@
       "ID": "trk_v_3",
       "SetID": "bkjdbk8",
       "Name": "Madman Absolution",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "trk_wd_0",
@@ -13689,22 +13700,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1362923,
-      "Completed": 259
+      "Progressed": 1363350,
+      "Completed": 261
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1362923,
+      "Progressed": 1363350,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-06-28T14:57:06.994256+00:00",
-  "LastChanged_Achievements": "2023-06-28T15:07:51.0403796+00:00",
+  "LastChanged": "2023-06-28T15:57:21.4473061+00:00",
+  "LastChanged_Achievements": "2023-06-28T16:06:36.9358173+00:00",
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.6840261+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:57:06.9942566+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:07:51.0563727+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:57:21.4473066+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:06:36.9511615+00:00"
 }

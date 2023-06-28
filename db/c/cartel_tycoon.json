@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -1038,9 +1038,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 299
     },
     {
       "ID": "play-at-night",
@@ -1094,9 +1094,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 237
     },
     {
       "ID": "unlock-residences",
@@ -1110,9 +1110,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 328
     },
     {
       "ID": "use-submarine",
@@ -1134,8 +1134,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-28T15:07:31.0810194+00:00",
+  "LastChanged_Achievements": "2023-06-28T16:06:18.2902714+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:19.8700177+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:01:13.272032+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:07:31.0810429+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:00:05.6628934+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:06:18.2902922+00:00"
 }

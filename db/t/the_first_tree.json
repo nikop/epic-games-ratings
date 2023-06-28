@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32759,
+  "EOS_Progressed": 32760,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6378,6 +6378,11 @@
       "Time": "2023-06-28T15:03:40.3851277+00:00",
       "NumProgressed": 32759,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-28T16:03:27.3809523+00:00",
+      "NumProgressed": 32760,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6405,7 +6410,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "allItems",
@@ -6477,7 +6482,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25552
+      "UsersEstimate": 25553
     },
     {
       "ID": "roots",
@@ -6500,15 +6505,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32759,
+      "Progressed": 32760,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-28T15:03:40.3851268+00:00",
+  "LastChanged_Achievements": "2023-06-28T16:03:27.3809514+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.7883343+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:01:21.2539862+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:03:40.3851777+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:00:11.5840937+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:03:27.3810017+00:00"
 }

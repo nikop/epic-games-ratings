@@ -11,6 +11,7 @@ Rating: 4.47 (Ranked 594)
 | Target America | 3.00% | ~95 |
 | Liberté | 2.00% | ~63 |
 | Meeting Resistance | 2.00% | ~63 |
+| Skirmisher | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
 | Confirming Suspicions | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
@@ -24,7 +25,6 @@ Rating: 4.47 (Ranked 594)
 | Just a Flesh Wound | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
-| Skirmisher | 1.00% | ~32 |
 | Set Europe Ablaze | 1.00% | ~32 |
 | Rigged to Blow | 1.00% | ~32 |
 | Close Quarters | 1.00% | ~32 |
@@ -65,6 +65,7 @@ Rating: 4.47 (Ranked 594)
 | From Führer Away | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
 | Alpha | 0.30% | ~9 |
+| Das Familienjuwel | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | Best of the Best | 0.20% | ~6 |
@@ -73,11 +74,10 @@ Rating: 4.47 (Ranked 594)
 | Master of Rifles | 0.20% | ~6 |
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
-| Das Familienjuwel | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,155 (Ranked 144)  
+Progressed: 3,156 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
-| 2023-06-28 | 3,155 | 6 |
+| 2023-06-28 | 3,156 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

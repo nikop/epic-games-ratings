@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 0.70% | ~34 |
+| Secret Technique | 0.80% | ~39 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
 | Tipping the Scales | 0.50% | ~24 |
@@ -26,6 +26,7 @@ Rating: 4.59 (Ranked 409)
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
 | Against the Odds | 0.20% | ~10 |
+| Intimidation Tactics | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
@@ -36,12 +37,12 @@ Rating: 4.59 (Ranked 409)
 | Arch Mage | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |
 | Enchanted Archipelago | 0.10% | ~5 |
+| The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
-| Intimidation Tactics | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
@@ -50,13 +51,12 @@ Rating: 4.59 (Ranked 409)
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
-| The Goddess of Nature | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,864 (Ranked 133)  
+Progressed: 4,865 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
-| 2023-06-28 | 4,864 | 4 |
+| 2023-06-28 | 4,865 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

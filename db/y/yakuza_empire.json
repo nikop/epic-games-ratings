@@ -4,8 +4,8 @@
   "ProductSlug": "yakuza-empire",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-23T23:56:56.8945902+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:57:50.9705292+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:06:07.4914494+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:57:50.5318132+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:05:18.8706558+00:00"
 }

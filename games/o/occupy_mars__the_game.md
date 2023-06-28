@@ -5,29 +5,29 @@ Rating: 3.89 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~553 |
-| Electrician | 34.00% | ~459 |
+| I don't feel so good | 41.00% | ~554 |
+| Electrician | 33.00% | ~446 |
 | Fear my botany powers, Mars | 32.00% | ~432 |
 | Zero Waste | 30.00% | ~405 |
-| Bob The Builder | 30.00% | ~405 |
+| Bob The Builder | 29.00% | ~392 |
 | I am the greatest botanist on this planet. | 28.00% | ~378 |
-| Miner | 25.00% | ~337 |
+| Miner | 25.00% | ~338 |
 | Gardener | 24.00% | ~324 |
 | Occupy Mars! | 22.00% | ~297 |
-| Houston we have a problem | 21.00% | ~283 |
+| Houston we have a problem | 21.00% | ~284 |
 | Detective | 18.00% | ~243 |
 | The Collector | 16.00% | ~216 |
-| Get your hands dirty | 9.00% | ~121 |
-| All Wheel Trouble | 7.00% | ~94 |
-| Space Forest | 7.00% | ~94 |
-| ITS crash site | 5.00% | ~67 |
+| Get your hands dirty | 9.00% | ~122 |
+| All Wheel Trouble | 7.00% | ~95 |
+| Space Forest | 7.00% | ~95 |
+| ITS crash site | 5.00% | ~68 |
 | “Aliens” | 4.00% | ~54 |
 | DeDust | 4.00% | ~54 |
 | Driver's License | 2.00% | ~27 |
 | Hard Landing | 2.00% | ~27 |
 | Plumber | 2.00% | ~27 |
 | To infinity and beyond! | 2.00% | ~27 |
-| Explosive Miner | 1.00% | ~13 |
+| Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 0.90% | ~12 |
 | Caveman | 0.70% | ~9 |
 | Thunderstruck | 0.70% | ~9 |
@@ -54,7 +54,7 @@ Rating: 3.89 (Ranked 928)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 170)  
+Progressed: 1,351 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 1,327 | 0 |
 | 2023-06-26 | 1,336 | 0 |
 | 2023-06-27 | 1,344 | 0 |
-| 2023-06-28 | 1,349 | 0 |
+| 2023-06-28 | 1,351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

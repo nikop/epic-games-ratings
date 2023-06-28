@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -667,7 +667,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 32366,
+  "EOS_Progressed": 32369,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
@@ -7527,6 +7527,11 @@
       "Time": "2023-06-28T15:03:06.4052863+00:00",
       "NumProgressed": 32366,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-28T16:02:24.0798814+00:00",
+      "NumProgressed": 32369,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -7554,7 +7559,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "ach_antiquarian10",
@@ -7602,7 +7607,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_cursestone",
@@ -7626,7 +7631,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_deathofermod",
@@ -7658,7 +7663,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11652
+      "UsersEstimate": 11653
     },
     {
       "ID": "ach_die10",
@@ -7706,7 +7711,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_invictus",
@@ -7746,7 +7751,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "ach_legacysalvager",
@@ -7762,7 +7767,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_newstories",
@@ -7946,7 +7951,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "ach_year10",
@@ -7969,15 +7974,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 32366,
+      "Progressed": 32369,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-06-28T15:03:06.4052857+00:00",
+  "LastChanged_Achievements": "2023-06-28T16:02:24.0798808+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2738248+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:00:36.9125087+00:00",
-  "LastUpdate_Achievements": "2023-06-28T15:03:06.4053776+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:59:40.8042749+00:00",
+  "LastUpdate_Achievements": "2023-06-28T16:02:24.0799731+00:00"
 }

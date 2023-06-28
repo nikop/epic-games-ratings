@@ -7,18 +7,18 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 33.00% | ~18,619 |
-| Let There Be Light | 26.00% | ~14,669 |
-| Float Like a Butterfly | 25.00% | ~14,105 |
+| Let There Be Light | 26.00% | ~14,670 |
+| Float Like a Butterfly | 25.00% | ~14,106 |
 | Nordic Walking | 20.00% | ~11,284 |
 | Bright Falls' Finest | 20.00% | ~11,284 |
-| Under a Thin Layer of Skin | 17.00% | ~9,591 |
+| Under a Thin Layer of Skin | 17.00% | ~9,592 |
 | Park Ranger | 14.00% | ~7,899 |
 | Paging Mr. Wake | 14.00% | ~7,899 |
 | Back! Back, I Say! | 13.00% | ~7,335 |
 | Finders Keepers | 13.00% | ~7,335 |
-| Sound and Fury | 12.00% | ~6,770 |
-| Missed by a Mile | 12.00% | ~6,770 |
-| Damn Good Cup of Coffee | 12.00% | ~6,770 |
+| Sound and Fury | 12.00% | ~6,771 |
+| Missed by a Mile | 12.00% | ~6,771 |
+| Damn Good Cup of Coffee | 12.00% | ~6,771 |
 | Wheels Within Wheels | 11.00% | ~6,206 |
 | They're Heeeeeere! | 11.00% | ~6,206 |
 | The Six-Gun Scribe | 11.00% | ~6,206 |
@@ -34,8 +34,8 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 8.00% | ~4,514 |
 | Energized! | 8.00% | ~4,514 |
 | A Friend in Need | 8.00% | ~1,591 |
-| What Light Through Yonder Window | 7.00% | ~3,949 |
-| Right of Way | 7.00% | ~3,949 |
+| What Light Through Yonder Window | 7.00% | ~3,950 |
+| Right of Way | 7.00% | ~3,950 |
 | Tornado Wrangler | 6.00% | ~3,385 |
 | Departure | 6.00% | ~3,385 |
 | A Friend Indeed | 6.00% | ~1,193 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,420 (Ranked 79)  
+Progressed: 56,422 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 56 (0.10%) (Ranked 176)
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
 | 2023-06-27 | 56,377 | 56 |
-| 2023-06-28 | 56,420 | 56 |
+| 2023-06-28 | 56,422 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -27,7 +27,7 @@
 | All Alone | 10.00% | ~21 |
 | Cataclysm | 10.00% | ~21 |
 | Final Charge | 9.00% | ~19 |
-| Summer Luvin' | 3.00% | ~6 |
+| Summer Luvin' | 4.00% | ~9 |
 | You Are Terminated | 0.50% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
