@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2023-06-27T12:06:31.4662247+00:00",
       "NumProgressed": 727,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-28T20:06:28.7068245+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1720,7 +1725,7 @@
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -1913,14 +1918,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-28T19:07:08.0909969+00:00",
+  "LastChanged_Achievements": "2023-06-28T20:06:28.706824+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-28T19:00:23.3389473+00:00",
-  "LastUpdate_Achievements": "2023-06-28T19:07:08.0910683+00:00"
+  "LastUpdate_Ratings": "2023-06-28T19:59:43.9810297+00:00",
+  "LastUpdate_Achievements": "2023-06-28T20:06:28.7068801+00:00"
 }

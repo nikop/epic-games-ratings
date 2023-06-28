@@ -54,11 +54,11 @@
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | Wildlife Protection | 0.70% | ~5 |
 | No Time to Waste | 0.70% | ~5 |
-| A Lesson in Precision | 0.60% | ~4 |
+| A Lesson in Precision | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 195)  
+Progressed: 728 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,3 +98,4 @@ Completed: 4 (0.55%) (Ranked 121)
 | 2023-06-25 | 723 | 4 |
 | 2023-06-26 | 725 | 4 |
 | 2023-06-27 | 727 | 4 |
+| 2023-06-28 | 728 | 4 |

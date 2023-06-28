@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -371,8 +371,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-28T19:07:20.6794899+00:00",
+  "LastChanged_Achievements": "2023-06-28T20:06:39.5794288+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:05.3081097+00:00",
-  "LastUpdate_Ratings": "2023-06-28T19:01:00.452538+00:00",
-  "LastUpdate_Achievements": "2023-06-28T19:07:20.6795063+00:00"
+  "LastUpdate_Ratings": "2023-06-28T20:00:15.9167477+00:00",
+  "LastUpdate_Achievements": "2023-06-28T20:06:39.5794504+00:00"
 }

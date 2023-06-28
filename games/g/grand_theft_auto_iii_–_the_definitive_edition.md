@@ -14,7 +14,7 @@ Rating: 4.14 (Ranked 874)
 | Liberty City Minute | 16.00% | ~1,096 |
 | Offshore Delivery | 13.00% | ~891 |
 | Dirty Money | 12.00% | ~822 |
-| By a Mile | 9.00% | ~617 |
+| By a Mile | 10.00% | ~685 |
 | Not So Fast | 9.00% | ~617 |
 | Right-hand Man | 9.00% | ~617 |
 | A Gift from the King | 7.00% | ~480 |

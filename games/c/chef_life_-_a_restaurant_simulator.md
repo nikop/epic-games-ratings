@@ -7,7 +7,7 @@
 | The Big Day | 67.00% | ~291 |
 | You're the Expert! | 32.00% | ~139 |
 | Home Cook | 29.00% | ~126 |
-| So Clean You Can Eat Off the Floor | 18.00% | ~78 |
+| So Clean You Can Eat Off the Floor | 19.00% | ~82 |
 | S is for Scrumptious | 17.00% | ~74 |
 | French Flair | 16.00% | ~69 |
 | Next Level Cuisine | 11.00% | ~48 |

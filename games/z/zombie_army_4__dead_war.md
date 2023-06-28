@@ -59,9 +59,9 @@ Number of Ratings: 743  (23.09.2022)
 | Not today you won't | 6.00% | ~2,576 |
 | Take a little bit of Italy with you | 6.00% | ~2,576 |
 | Staring at Shadows | 6.00% | ~2,576 |
+| I told you we should have gone to the beach | 6.00% | ~2,576 |
 | Hoarder | 6.00% | ~2,576 |
 | Kali Ma | 5.00% | ~2,147 |
-| I told you we should have gone to the beach | 5.00% | ~2,147 |
 | Have you tried turning it off and on again? | 5.00% | ~2,147 |
 | They're coming to get you Barbara | 4.00% | ~1,717 |
 | Total protonic reversal | 4.00% | ~1,717 |

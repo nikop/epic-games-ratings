@@ -5,13 +5,13 @@ Rating: 4.47 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 3.00% | ~95 |
 | Confirming Suspicions | 3.00% | ~95 |
 | It's Starting to Crack | 3.00% | ~95 |
 | Change the Channel | 3.00% | ~95 |
 | Taking it back | 3.00% | ~95 |
 | Target America | 3.00% | ~95 |
 | Liberté | 2.00% | ~63 |
-| Meeting Resistance | 2.00% | ~63 |
 | Skirmisher | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
@@ -26,17 +26,17 @@ Rating: 4.47 (Ranked 594)
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
 | Set Europe Ablaze | 1.00% | ~32 |
+| Rigged to Blow | 1.00% | ~32 |
 | Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~28 |
 | Opposing Force | 0.90% | ~28 |
 | Enemy at the Gates | 0.90% | ~28 |
+| Fields of Glory | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |
-| Rigged to Blow | 0.90% | ~28 |
 | My Little Friend | 0.90% | ~28 |
 | Die Nussknacker Sweet! | 0.90% | ~28 |
-| Fields of Glory | 0.80% | ~25 |
 | Shipbreaker | 0.70% | ~22 |
 | Strategist | 0.60% | ~19 |
 | It'll Buff Right Out | 0.60% | ~19 |
