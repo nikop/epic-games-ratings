@@ -39,8 +39,8 @@
 | 37 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.02% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
-| 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.87% |
+| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
+| 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
@@ -79,7 +79,7 @@
 | 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
-| 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.79% |
+| 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
 | 83 | [Poosh XL](games/p/poosh_xl.md) | 1.53% |
@@ -98,8 +98,8 @@
 | 96 | [Trifox](games/t/trifox.md) | 1.12% |
 | 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 99 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.06% |
 | 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
+| 100 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.05% |
 | 101 | [Sable](games/s/sable.md) | 0.96% |
 | 102 | [Adios](games/a/adios.md) | 0.92% |
 | 103 | [Hades](games/h/hades.md) | 0.89% |
@@ -124,9 +124,9 @@
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 124 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
-| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 128 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 129 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.45% |
@@ -154,10 +154,10 @@
 | 152 | [Blanc](games/b/blanc.md) | 0.24% |
 | 153 | [Filament](games/f/filament.md) | 0.23% |
 | 154 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 154 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
 | 154 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 157 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 157 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 159 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
 | 160 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 160 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
@@ -400,6 +400,7 @@
 | 230 | [Redout 2](games/r/redout_2.md) | 0.00% |
 | 230 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
 | 230 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 0.00% |
+| 230 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 0.00% |
 | 230 | [Rift Rangers](games/2/24e2970ac5124a649554e210843f6774.md) | 0.00% |
 | 230 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 230 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
