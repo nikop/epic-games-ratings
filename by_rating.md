@@ -71,7 +71,7 @@
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 440 |
 | 65 | [GRIT](games/g/grit.md) | 4.82 | 0 | 501 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 501 |
-| 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,425 | 96 |
+| 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,430 | 96 |
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,213 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
@@ -143,7 +143,7 @@
 | 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 415 |
 | 132 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 501 |
 | 143 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 501 |
-| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 597 | 174 |
+| 143 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 600 | 174 |
 | 143 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 786 | 154 |
 | 143 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 624 | 171 |
 | 143 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,725 | 48 |
@@ -359,7 +359,7 @@
 | 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 324 |
 | 344 | [Prey](games/p/prey.md) | 4.62 | 5,587 | 59 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 501 |
-| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 420 | 200 |
+| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 427 | 200 |
 | 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 377 |
 | 344 | [Wall World](games/w/wall_world.md) | 4.62 | 0 | 501 |
 | 363 | [20XX](games/2/20xx.md) | 4.61 | 36 | 431 |
@@ -534,7 +534,7 @@
 | 518 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 501 |
 | 518 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 0 | 501 |
 | 518 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 501 |
-| 535 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,631 | 117 |
+| 535 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,632 | 117 |
 | 535 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 337 |
 | 535 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,097 | 75 |
 | 535 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 501 |
@@ -915,7 +915,7 @@
 | 913 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 214 |
 | 913 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,637 | 68 |
 | 915 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 501 |
-| 915 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,425 | 96 |
+| 915 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,425 | 97 |
 | 917 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 501 |
 | 917 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.96 | 0 | 501 |
 | 919 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 408 |

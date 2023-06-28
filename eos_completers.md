@@ -5,7 +5,7 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 21.31% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.95% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
@@ -17,7 +17,7 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.95% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -40,7 +40,7 @@
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 40 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.90% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.87% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
@@ -269,6 +269,7 @@
 | 230 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
 | 230 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
 | 230 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
+| 230 | [Cloud Cutter](games/c/cloud_cutter.md) | 0.00% |
 | 230 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.00% |
 | 230 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
 | 230 | [Covid Carl](games/c/covid_carl.md) | 0.00% |

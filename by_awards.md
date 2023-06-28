@@ -95,8 +95,8 @@
 | 93 | [Among Us](games/a/among_us.md) | 2,498 | 4.57 | 438 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,481 | 4.50 | 550 |
 | 95 | [RAGE 2](games/r/rage_2.md) | 2,479 | 4.27 | 792 |
-| 96 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,425 | 4.82 | 65 |
-| 96 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,425 | 3.98 | 915 |
+| 96 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,430 | 4.82 | 65 |
+| 97 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,425 | 3.98 | 915 |
 | 98 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,417 | 4.80 | 81 |
 | 99 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,409 | 4.10 | 884 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,394 | 4.17 | 857 |
@@ -116,7 +116,7 @@
 | 114 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,750 | 4.63 | 328 |
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,668 | 4.76 | 119 |
 | 116 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,646 | 4.70 | 198 |
-| 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,631 | 4.51 | 535 |
+| 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,632 | 4.51 | 535 |
 | 118 | [Celeste](games/c/celeste.md) | 1,500 | 4.92 | 4 |
 | 119 | [Ring of Pain](games/r/ring_of_pain.md) | 1,482 | 4.58 | 420 |
 | 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,463 | 4.79 | 88 |
@@ -173,7 +173,7 @@
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 624 | 4.74 | 143 |
 | 172 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 615 | 4.74 | 143 |
 | 173 | [Dark Deity](games/d/dark_deity.md) | 608 | 4.16 | 861 |
-| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 597 | 4.74 | 143 |
+| 174 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 600 | 4.74 | 143 |
 | 175 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 593 | 4.62 | 344 |
 | 176 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 583 | 4.60 | 387 |
 | 177 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 581 | 4.73 | 157 |
@@ -199,7 +199,7 @@
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 457 | 4.60 | 387 |
 | 198 | [Second Extinction™](games/s/second_extinction™.md) | 448 | 4.05 | 900 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 445 | 4.61 | 363 |
-| 200 | [The Sims™ 4](games/t/the_sims™_4.md) | 420 | 4.62 | 344 |
+| 200 | [The Sims™ 4](games/t/the_sims™_4.md) | 427 | 4.62 | 344 |
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 419 | 4.40 | 688 |
 | 202 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 203 | [RimWorld](games/r/rimworld.md) | 417 | 4.89 | 13 |
