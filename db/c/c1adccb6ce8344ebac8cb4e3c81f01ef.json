@@ -2,10 +2,10 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "mai-in-the-mysterious-castle-a9a60a",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -108,6 +108,6 @@
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
   "LastChanged_Achievements": "2023-06-28T06:01:08.6882062+00:00",
   "LastUpdate_AppInfo": "2023-06-22T10:57:04.1404935+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:57:06.9712351+00:00",
+  "LastUpdate_Ratings": "2023-06-28T06:57:09.1104174+00:00",
   "LastUpdate_Achievements": "2023-06-28T06:01:08.6882165+00:00"
 }

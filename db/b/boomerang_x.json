@@ -2,7 +2,7 @@
   "ID": "362563bfd35c4188acdfda0ed6766683",
   "Name": "Boomerang X",
   "ProductSlug": "boomerang-x",
-  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 96,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8367275+00:00",
   "LastChanged": "2023-03-31T05:58:42.8367277+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:35.6799056+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:59:01.3552131+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:02:24.2540035+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:59:07.0265364+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:03:10.0551636+00:00"
 }

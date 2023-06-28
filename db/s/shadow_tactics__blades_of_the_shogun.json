@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1249,9 +1249,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 181246,
+  "EOS_Progressed": 181250,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2303,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8604,6 +8604,11 @@
       "Time": "2023-06-28T06:06:40.4116985+00:00",
       "NumProgressed": 181246,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-06-28T07:06:43.6681862+00:00",
+      "NumProgressed": 181250,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 44,
@@ -8655,7 +8660,7 @@
       "Name": "Disguised",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12687
+      "UsersEstimate": 12688
     },
     {
       "ID": "FiveShadows",
@@ -8679,7 +8684,7 @@
       "Name": "Gear up",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "Genin",
@@ -8695,7 +8700,7 @@
       "Name": "Happy little accidents",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "HappyPlanning",
@@ -8783,7 +8788,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "Okkoto",
@@ -8839,7 +8844,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 12687
+      "UsersEstimate": 12688
     },
     {
       "ID": "StillRollin",
@@ -8847,7 +8852,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "Stoned",
@@ -8855,7 +8860,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "StonedOx",
@@ -8871,7 +8876,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12687
+      "UsersEstimate": 12688
     },
     {
       "ID": "TheCave",
@@ -8879,7 +8884,7 @@
       "Name": "The Cave",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "TheEnd",
@@ -8966,15 +8971,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 181246,
+      "Progressed": 181250,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-26T17:59:02.1973432+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:06:40.4116979+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:06:43.6681848+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.3131444+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:59:19.2666333+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:06:40.4117768+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:59:24.880044+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:06:43.6682671+00:00"
 }

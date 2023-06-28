@@ -18,8 +18,8 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 37.00% | ~88 |
 | Speedrun | 35.00% | ~83 |
 | A beer, two curses, three companions | 33.00% | ~78 |
+| Team Building Exercise | 33.00% | ~78 |
 | The plot thickens... At the tavern | 32.00% | ~76 |
-| Team Building Exercise | 32.00% | ~76 |
 | I am the night | 31.00% | ~73 |
 | Dwarf Fortress | 30.00% | ~71 |
 | The Ranger of Chaos | 30.00% | ~71 |

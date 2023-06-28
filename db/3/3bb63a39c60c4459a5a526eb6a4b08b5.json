@@ -636,9 +636,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "LargeTerritories",
@@ -668,9 +668,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ManagementMaster",
@@ -692,9 +692,9 @@
       "ID": "Millionaire",
       "SetID": "1e89b4i",
       "Name": "Millionaire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "NewRecord",
@@ -812,9 +812,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "TimeForManagement",
@@ -843,8 +843,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:03:19.8968808+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:03:25.5603383+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:57:09.0455925+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:03:19.896918+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:57:11.411867+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:03:25.5603831+00:00"
 }

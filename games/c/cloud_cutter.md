@@ -38,3 +38,10 @@
 | Short Trip | 0.00% | ~0 |
 | Air to Ground | 0.00% | ~0 |
 | Diver | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 447)  
+Completed: 0 (0.00%) (Ranked 230)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-06-28 | 1 | 0 |

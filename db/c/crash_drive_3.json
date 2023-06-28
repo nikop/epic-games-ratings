@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -231,6 +231,11 @@
       "Time": "2023-06-27T10:01:05.9426434+00:00",
       "NumProgressed": 333,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-28T07:02:17.3096652+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -242,7 +247,7 @@
       "Name": "Brace for impact!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -272,9 +277,9 @@
       "ID": "COIN_COLLECT",
       "SetID": "20koof9",
       "Name": "The Collector",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 84
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -394,7 +399,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -426,7 +431,7 @@
       "Name": "Pushover",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HIT_ALIEN",
@@ -464,9 +469,9 @@
       "ID": "HONK_100_TIMES",
       "SetID": "20koof9",
       "Name": "Toot Toot!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -506,7 +511,7 @@
       "Name": "A Forest Walk",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -544,9 +549,9 @@
       "ID": "REACH_TANKBATTLE_LEVEL_10",
       "SetID": "20koof9",
       "Name": "To war!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "SPIN_1080",
@@ -562,7 +567,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -602,7 +607,7 @@
       "Name": "I see the light!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -666,22 +671,22 @@
       "Name": "You\u0027re it",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_TANK_BATTLES",
       "SetID": "20koof9",
       "Name": "Blasting away!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 2
     }
   ],
@@ -689,8 +694,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:02:11.1266068+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:02:17.3096645+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.9658503+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:59:02.9180709+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:02:11.1266568+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:59:08.5829488+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:02:17.3097147+00:00"
 }

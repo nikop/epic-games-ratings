@@ -6,55 +6,55 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 5.00% | ~30,681 |
-| Healthy Obsession | 4.00% | ~24,545 |
-| Preemptive Strike | 4.00% | ~24,545 |
-| Humanitarian | 4.00% | ~24,545 |
-| Wounded Healer | 3.00% | ~18,408 |
-| Close Shave | 3.00% | ~18,408 |
-| Flight to Freedom | 3.00% | ~18,408 |
-| Ancestor's Rite | 2.00% | ~12,272 |
-| Unforgettable Getaway | 2.00% | ~12,272 |
-| Cutting Out | 2.00% | ~12,272 |
-| Outrun Evil | 2.00% | ~12,272 |
-| First to the Punch | 2.00% | ~12,272 |
-| Operation: Survival | 2.00% | ~12,272 |
-| Grim Pilgrimage | 2.00% | ~12,272 |
-| Old West Oasis | 2.00% | ~12,272 |
-| Classy Act | 2.00% | ~12,272 |
-| Every Last Drop | 2.00% | ~12,272 |
-| Raccoon City Recruit | 2.00% | ~12,272 |
-| With Scars to Show | 2.00% | ~12,272 |
-| A Fast Death | 2.00% | ~12,272 |
-| Lifting The Fog | 2.00% | ~12,272 |
-| Chorus of Chaos | 2.00% | ~12,272 |
-| Devoted Gatekeeping | 1.00% | ~6,136 |
-| Shrine Apparatus | 1.00% | ~6,136 |
-| Broken Bodies | 1.00% | ~6,136 |
-| Selfless Survival | 1.00% | ~6,136 |
-| I See You | 1.00% | ~6,136 |
-| End of Days | 1.00% | ~6,136 |
-| Insult and Injury | 1.00% | ~6,136 |
-| Outrun the Overlap | 1.00% | ~6,136 |
-| Rebuilding The Borgo | 1.00% | ~6,136 |
-| Hack the Mainframe | 1.00% | ~6,136 |
+| Resurgence | 5.00% | ~30,685 |
+| Healthy Obsession | 4.00% | ~24,548 |
+| Close Shave | 4.00% | ~24,548 |
+| Preemptive Strike | 4.00% | ~24,548 |
+| Humanitarian | 4.00% | ~24,548 |
+| Wounded Healer | 3.00% | ~18,411 |
+| Flight to Freedom | 3.00% | ~18,411 |
+| Ancestor's Rite | 2.00% | ~12,274 |
+| Unforgettable Getaway | 2.00% | ~12,274 |
+| Cutting Out | 2.00% | ~12,274 |
+| Outrun Evil | 2.00% | ~12,274 |
+| First to the Punch | 2.00% | ~12,274 |
+| Operation: Survival | 2.00% | ~12,274 |
+| Grim Pilgrimage | 2.00% | ~12,274 |
+| Old West Oasis | 2.00% | ~12,274 |
+| Classy Act | 2.00% | ~12,274 |
+| Every Last Drop | 2.00% | ~12,274 |
+| Raccoon City Recruit | 2.00% | ~12,274 |
+| With Scars to Show | 2.00% | ~12,274 |
+| A Fast Death | 2.00% | ~12,274 |
+| Lifting The Fog | 2.00% | ~12,274 |
+| Chorus of Chaos | 2.00% | ~12,274 |
+| Devoted Gatekeeping | 1.00% | ~6,137 |
+| Shrine Apparatus | 1.00% | ~6,137 |
+| Broken Bodies | 1.00% | ~6,137 |
+| Selfless Survival | 1.00% | ~6,137 |
+| I See You | 1.00% | ~6,137 |
+| End of Days | 1.00% | ~6,137 |
+| Insult and Injury | 1.00% | ~6,137 |
+| Outrun the Overlap | 1.00% | ~6,137 |
+| Rebuilding The Borgo | 1.00% | ~6,137 |
+| Hack the Mainframe | 1.00% | ~6,137 |
 | Heavy Burden | 0.90% | ~5,523 |
 | Prowler | 0.90% | ~5,523 |
 | High Speed Pursuit | 0.90% | ~5,523 |
-| Power Moves | 0.80% | ~4,909 |
-| Punch Drunk | 0.80% | ~4,909 |
-| Triage | 0.70% | ~4,295 |
+| Power Moves | 0.80% | ~4,910 |
+| Punch Drunk | 0.80% | ~4,910 |
+| Triage | 0.70% | ~4,296 |
 | Death of Ignorance | 0.60% | ~3,682 |
 | Deranged Pursuit | 0.50% | ~3,068 |
 | Denied! | 0.50% | ~3,068 |
-| Dismantle | 0.40% | ~2,454 |
-| Left For Dead | 0.40% | ~2,454 |
-| Bodyguard | 0.40% | ~2,454 |
-| Speed Kills | 0.40% | ~2,454 |
-| Rescue Mission | 0.40% | ~2,454 |
-| One Thousand Cuts | 0.40% | ~2,454 |
-| Ghost in the Machine | 0.40% | ~2,454 |
-| From the Deep | 0.40% | ~2,454 |
+| Dismantle | 0.40% | ~2,455 |
+| Left For Dead | 0.40% | ~2,455 |
+| Bodyguard | 0.40% | ~2,455 |
+| Speed Kills | 0.40% | ~2,455 |
+| Rescue Mission | 0.40% | ~2,455 |
+| One Thousand Cuts | 0.40% | ~2,455 |
+| Ghost in the Machine | 0.40% | ~2,455 |
+| From the Deep | 0.40% | ~2,455 |
 | Silent Approach | 0.30% | ~1,841 |
 | Bound and Downed | 0.30% | ~1,841 |
 | Multi-tasker | 0.30% | ~1,841 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~614 |
 | Adept Gabriel | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613,616 (Ranked 23)  
+Progressed: 613,697 (Ranked 23)  
 Completed: 42 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 42 (0.01%) (Ranked 218)
 | 2023-06-25 | 604,244 | 42 |
 | 2023-06-26 | 608,559 | 42 |
 | 2023-06-27 | 612,690 | 42 |
-| 2023-06-28 | 613,616 | 42 |
+| 2023-06-28 | 613,697 | 42 |
 ## Awards
 Max (Diverse Characters): 29,163  (Ranked 15)  
 Sum: 231,974 (Ranked 12)  

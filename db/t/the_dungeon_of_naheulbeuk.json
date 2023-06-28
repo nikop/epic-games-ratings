@@ -1898,9 +1898,9 @@
       "ID": "SupportCount4",
       "SetID": "50chcgj",
       "Name": "Team Building Exercise",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "SystematicallyStupid",
@@ -1960,8 +1960,8 @@
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:06:12.4002371+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:06:14.4837825+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:56.5271845+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:59:21.7047501+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:06:12.4003364+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:59:27.0348704+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:06:14.4838989+00:00"
 }

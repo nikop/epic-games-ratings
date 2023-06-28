@@ -2,7 +2,7 @@
   "ID": "c55698c1101c4c9e9b1448e08bd29be2",
   "Name": "Prospect",
   "ProductSlug": "prospect-a438ca",
-  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 96,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-22T20:57:09.8201085+00:00",
-  "LastUpdate_Ratings": "2023-06-28T05:57:04.0709029+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:01:09.3663518+00:00"
+  "LastUpdate_Ratings": "2023-06-28T06:57:06.3450875+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:02:05.5470011+00:00"
 }

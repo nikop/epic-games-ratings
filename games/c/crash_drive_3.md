@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~113 |
+| Brace for impact! | 34.00% | ~114 |
 | Baby's First Car | 32.00% | ~107 |
-| Amateur Mechanic | 31.00% | ~103 |
-| Pushover | 31.00% | ~103 |
-| A Forest Walk | 31.00% | ~103 |
+| Amateur Mechanic | 31.00% | ~104 |
+| Pushover | 31.00% | ~104 |
+| A Forest Walk | 31.00% | ~104 |
 | C-C-C-Combo! | 29.00% | ~97 |
 | Multiply that! | 29.00% | ~97 |
 | Fore! | 26.00% | ~87 |
-| The Collector | 26.00% | ~87 |
 | Insurance fraud | 26.00% | ~87 |
 | The Wild West | 26.00% | ~87 |
 | Snow Fun! | 26.00% | ~87 |
-| Bag of Tricks | 25.00% | ~83 |
-| I see the light! | 25.00% | ~83 |
-| You're it | 25.00% | ~83 |
+| The Collector | 25.00% | ~84 |
+| Bag of Tricks | 25.00% | ~84 |
+| I see the light! | 25.00% | ~84 |
+| You're it | 25.00% | ~84 |
 | First Come, First Serve | 24.00% | ~80 |
 | To and Fro | 24.00% | ~80 |
 | Take that Frosty! | 24.00% | ~80 |
@@ -38,14 +38,14 @@
 | Assert Dominance | 18.00% | ~60 |
 | Out of this League | 16.00% | ~53 |
 | Special Forces | 15.00% | ~50 |
-| Toot Toot! | 14.00% | ~47 |
-| Blasting away! | 14.00% | ~47 |
 | Earth Defense Force | 13.00% | ~43 |
+| Toot Toot! | 13.00% | ~43 |
 | Rocketman | 13.00% | ~43 |
+| Blasting away! | 13.00% | ~43 |
 | High Roller | 12.00% | ~40 |
 | Event Pro | 11.00% | ~37 |
 | Space Crash | 8.00% | ~27 |
-| To war! | 8.00% | ~27 |
+| To war! | 7.00% | ~23 |
 | Hoarder | 7.00% | ~23 |
 | Event Master | 6.00% | ~20 |
 | A Starting Collector | 5.00% | ~17 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 231)  
+Progressed: 334 (Ranked 231)  
 Completed: 2 (0.60%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 2 (0.60%) (Ranked 118)
 | 2023-06-21 | 330 | 2 |
 | 2023-06-23 | 331 | 2 |
 | 2023-06-27 | 333 | 2 |
+| 2023-06-28 | 334 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

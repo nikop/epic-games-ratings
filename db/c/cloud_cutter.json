@@ -2,7 +2,7 @@
   "ID": "3d7bb6d94a3141c6bff3c63290d979e2",
   "Name": "Cloud Cutter",
   "ProductSlug": "cloud-cutter-46f961",
-  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 96,
@@ -18,12 +18,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-06-28T07:06:40.8043206+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "TotalAchievements": 34,
   "TotalAchievementsXP": 1000,
   "Achievements": [
@@ -304,13 +310,13 @@
     {
       "ID": "85daogm",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:06:37.3482392+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:06:40.8043199+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.1003023+00:00",
-  "LastUpdate_Ratings": "2023-06-28T06:00:30.6412661+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:06:37.3482639+00:00"
+  "LastUpdate_Ratings": "2023-06-28T07:00:36.7773986+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:06:40.8043476+00:00"
 }

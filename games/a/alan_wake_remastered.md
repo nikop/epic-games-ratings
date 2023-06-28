@@ -6,30 +6,30 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,610 |
-| Let There Be Light | 26.00% | ~14,662 |
-| Float Like a Butterfly | 25.00% | ~14,098 |
+| Follow the Light | 33.00% | ~18,611 |
+| Let There Be Light | 26.00% | ~14,663 |
+| Float Like a Butterfly | 25.00% | ~14,099 |
 | Nordic Walking | 20.00% | ~11,279 |
 | Bright Falls' Finest | 20.00% | ~11,279 |
 | Under a Thin Layer of Skin | 17.00% | ~9,587 |
-| Park Ranger | 14.00% | ~7,895 |
-| Paging Mr. Wake | 14.00% | ~7,895 |
-| Back! Back, I Say! | 13.00% | ~7,331 |
-| Finders Keepers | 13.00% | ~7,331 |
-| Sound and Fury | 12.00% | ~6,767 |
-| Missed by a Mile | 12.00% | ~6,767 |
-| Damn Good Cup of Coffee | 12.00% | ~6,767 |
-| Wheels Within Wheels | 11.00% | ~6,203 |
-| They're Heeeeeere! | 11.00% | ~6,203 |
-| The Six-Gun Scribe | 11.00% | ~6,203 |
-| Heavy Metal | 10.00% | ~5,639 |
-| Iron Horse | 10.00% | ~5,639 |
-| Perchance to Dream | 10.00% | ~5,639 |
-| Collateral Carnage | 10.00% | ~5,639 |
-| Come One, Come All | 10.00% | ~5,639 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,075 |
-| Thunder and Lightning | 9.00% | ~5,075 |
-| Two For the Price of One | 9.00% | ~5,075 |
+| Park Ranger | 14.00% | ~7,896 |
+| Paging Mr. Wake | 14.00% | ~7,896 |
+| Back! Back, I Say! | 13.00% | ~7,332 |
+| Finders Keepers | 13.00% | ~7,332 |
+| Sound and Fury | 12.00% | ~6,768 |
+| Missed by a Mile | 12.00% | ~6,768 |
+| Damn Good Cup of Coffee | 12.00% | ~6,768 |
+| Wheels Within Wheels | 11.00% | ~6,204 |
+| They're Heeeeeere! | 11.00% | ~6,204 |
+| The Six-Gun Scribe | 11.00% | ~6,204 |
+| Heavy Metal | 10.00% | ~5,640 |
+| Iron Horse | 10.00% | ~5,640 |
+| Perchance to Dream | 10.00% | ~5,640 |
+| Collateral Carnage | 10.00% | ~5,640 |
+| Come One, Come All | 10.00% | ~5,640 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,076 |
+| Thunder and Lightning | 9.00% | ~5,076 |
+| Two For the Price of One | 9.00% | ~5,076 |
 | Gatekeeper | 8.00% | ~4,512 |
 | The Lady of the Light | 8.00% | ~4,512 |
 | Energized! | 8.00% | ~4,512 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,394 (Ranked 79)  
+Progressed: 56,397 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 56 (0.10%) (Ranked 176)
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
 | 2023-06-27 | 56,377 | 56 |
-| 2023-06-28 | 56,394 | 56 |
+| 2023-06-28 | 56,397 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

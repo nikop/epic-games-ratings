@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225020,
+  "EOS_Progressed": 225022,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7294,6 +7294,11 @@
       "Time": "2023-06-28T06:01:12.9864899+00:00",
       "NumProgressed": 225020,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-28T07:02:09.924241+00:00",
+      "NumProgressed": 225022,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -7369,7 +7374,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81007
+      "UsersEstimate": 81008
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -7465,7 +7470,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49504
+      "UsersEstimate": 49505
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -7513,7 +7518,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38253
+      "UsersEstimate": 38254
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -7528,7 +7533,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225020,
+      "Progressed": 225022,
       "Completed": 3
     }
   ],
@@ -7536,8 +7541,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-06-28T06:01:12.9864893+00:00",
+  "LastChanged_Achievements": "2023-06-28T07:02:09.9242401+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:56.2681506+00:00",
-  "LastUpdate_Ratings": "2023-06-28T06:00:07.8494136+00:00",
-  "LastUpdate_Achievements": "2023-06-28T06:01:12.9865534+00:00"
+  "LastUpdate_Ratings": "2023-06-28T07:00:13.7834001+00:00",
+  "LastUpdate_Achievements": "2023-06-28T07:02:09.9243047+00:00"
 }
