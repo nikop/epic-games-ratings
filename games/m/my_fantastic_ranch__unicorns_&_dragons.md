@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 61.00% | ~11 |
-| Spirit of competition | 39.00% | ~7 |
-| Prized Possession | 39.00% | ~7 |
-| Creature Evolution | 33.00% | ~6 |
-| Think Positive | 28.00% | ~5 |
-| Kingdom Party Time | 17.00% | ~3 |
-| Festival Fever | 6.00% | ~1 |
-| Landscaper | 6.00% | ~1 |
-| Dream Big | 6.00% | ~1 |
-| Entering New Territory | 6.00% | ~1 |
-| Lecturer | 6.00% | ~1 |
-| Kindred Spirits | 6.00% | ~1 |
+| Let the Adventure Begin! | 58.00% | ~11 |
+| Spirit of competition | 37.00% | ~7 |
+| Prized Possession | 37.00% | ~7 |
+| Creature Evolution | 32.00% | ~6 |
+| Think Positive | 26.00% | ~5 |
+| Kingdom Party Time | 16.00% | ~3 |
+| Festival Fever | 5.00% | ~1 |
+| Landscaper | 5.00% | ~1 |
+| Dream Big | 5.00% | ~1 |
+| Entering New Territory | 5.00% | ~1 |
+| Lecturer | 5.00% | ~1 |
+| Kindred Spirits | 5.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | Neverending Story | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 368)  
+Progressed: 19 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,6 +51,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-14 | 16 | 0 |
 | 2023-06-17 | 17 | 0 |
 | 2023-06-25 | 18 | 0 |
+| 2023-06-28 | 19 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

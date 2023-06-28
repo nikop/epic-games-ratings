@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6129,9 +6129,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44684,
+  "EOS_Progressed": 44685,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12049,6 +12049,11 @@
       "Time": "2023-06-28T07:03:27.6287127+00:00",
       "NumProgressed": 44684,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-28T09:03:29.5370406+00:00",
+      "NumProgressed": 44685,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -12156,7 +12161,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27257
+      "UsersEstimate": 27258
     },
     {
       "ID": "DeliveryGrapes",
@@ -12188,7 +12193,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7149
+      "UsersEstimate": 7150
     },
     {
       "ID": "FertilizeFirst",
@@ -12196,7 +12201,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27257
+      "UsersEstimate": 27258
     },
     {
       "ID": "Harvested",
@@ -12212,7 +12217,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 33960
+      "UsersEstimate": 33961
     },
     {
       "ID": "HorseJumps",
@@ -12244,7 +12249,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 21001
+      "UsersEstimate": 21002
     },
     {
       "ID": "Mission",
@@ -12300,7 +12305,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7149
+      "UsersEstimate": 7150
     },
     {
       "ID": "NumVehiclesLarge",
@@ -12348,7 +12353,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28151
+      "UsersEstimate": 28152
     },
     {
       "ID": "Stones",
@@ -12364,7 +12369,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19214
+      "UsersEstimate": 19215
     },
     {
       "ID": "TruckDriving",
@@ -12372,7 +12377,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7149
+      "UsersEstimate": 7150
     },
     {
       "ID": "VehicleRepaint",
@@ -12403,15 +12408,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44684,
+      "Progressed": 44685,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-06-28T03:21:00.1958319+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:03:25.0004322+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:03:29.5370394+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:44.3659402+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:59:59.1038412+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:03:25.0004865+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:59:36.1388738+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:03:29.5371092+00:00"
 }

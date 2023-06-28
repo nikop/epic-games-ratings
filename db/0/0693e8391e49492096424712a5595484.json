@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 40,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -254,9 +254,9 @@
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BearPistol",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:04:17.0378588+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:04:12.1609828+00:00",
   "LastUpdate_AppInfo": "2023-06-27T13:13:41.8960408+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:57:08.6263555+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:04:17.0378894+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:57:20.1246111+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:04:12.1610292+00:00"
 }

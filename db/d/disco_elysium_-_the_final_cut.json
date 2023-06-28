@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122355,
+  "EOS_Progressed": 122357,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7811,6 +7811,11 @@
       "Time": "2023-06-28T07:06:42.4132285+00:00",
       "NumProgressed": 122355,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-28T09:06:11.9018965+00:00",
+      "NumProgressed": 122357,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -7870,7 +7875,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9789
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -7878,7 +7883,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29365
+      "UsersEstimate": 29366
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -7886,7 +7891,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9789
     },
     {
       "ID": "ACH_COP_DORK",
@@ -7902,7 +7907,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34259
+      "UsersEstimate": 34260
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -7958,7 +7963,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18353
+      "UsersEstimate": 18354
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -8141,15 +8146,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122355,
+      "Progressed": 122357,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:06:42.8127726+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:06:11.901896+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:59:26.4405807+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:06:42.8128283+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:59:09.0058307+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:06:11.9019707+00:00"
 }

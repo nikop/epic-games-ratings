@@ -55,9 +55,9 @@ Rating: 4.07 (Ranked 895)
 | Dragon Slayer | 4.00% | ~61 |
 | Engineer Mastery | 4.00% | ~61 |
 | Lock And Load | 4.00% | ~61 |
+| Arena Challenger | 3.00% | ~45 |
 | Sailor | 3.00% | ~45 |
 | Active Member | 2.00% | ~30 |
-| Arena Challenger | 2.00% | ~30 |
 | Ebony Jungle Liberator | 2.00% | ~30 |
 | Legendary | 2.00% | ~30 |
 | The Alchemist | 2.00% | ~30 |

@@ -13,8 +13,8 @@
 | Challenge Mastered | 5.00% | ~32 |
 | Terminated II | 5.00% | ~32 |
 | Terminated III | 5.00% | ~32 |
+| Nanonic II | 4.00% | ~25 |
 | Cybernetic | 3.00% | ~19 |
-| Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |
 | Supply Run | 3.00% | ~19 |
 | The Bigger They Are | 2.00% | ~13 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 633 (Ranked 204)  
+Progressed: 634 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 616 | 0 |
 | 2023-06-26 | 618 | 0 |
 | 2023-06-27 | 633 | 0 |
+| 2023-06-28 | 634 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2438,7 +2438,7 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 15507,
+  "EOS_Progressed": 15508,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
@@ -6113,6 +6113,11 @@
       "Time": "2023-06-28T04:07:00.4687316+00:00",
       "NumProgressed": 15507,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-28T09:06:15.5389557+00:00",
+      "NumProgressed": 15508,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6330,9 +6335,9 @@
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 310
     },
     {
       "ID": "WinNearOutpost",
@@ -6386,9 +6391,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 465
     },
     {
       "ID": "WinOnCursed",
@@ -6523,15 +6528,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15507,
+      "Progressed": 15508,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-27T23:59:42.0866999+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:06:47.1574898+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:06:15.5389552+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:00:20.2138667+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:06:47.1575409+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:59:53.0659429+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:06:15.539016+00:00"
 }

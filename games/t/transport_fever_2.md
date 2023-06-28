@@ -15,8 +15,8 @@ Number of Ratings: 180  (23.09.2022)
 | First bus arrived | 66.00% | ~889 |
 | First train station | 64.00% | ~862 |
 | First steam train arrived | 60.00% | ~808 |
+| Transport millionaire | 56.00% | ~754 |
 | First industry upgraded | 56.00% | ~754 |
-| Transport millionaire | 55.00% | ~741 |
 | Cargo hub | 54.00% | ~727 |
 | Transport master | 53.00% | ~714 |
 | Cadet | 53.00% | ~714 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,347 (Ranked 170)  
+Progressed: 1,347 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

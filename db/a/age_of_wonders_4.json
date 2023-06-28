@@ -5,7 +5,7 @@
   "Ranking_Rating": 409,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
-  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 97,
@@ -4938,17 +4938,17 @@
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "43",
       "SetID": "3aa2279",
       "Name": "The Grey Wizard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "44",
@@ -5002,9 +5002,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "46",
@@ -5034,9 +5034,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "50",
@@ -5065,8 +5065,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:05:40.0262873+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:05:19.5372471+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:59:48.4294338+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:05:40.0263424+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:59:27.2992554+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:05:19.5373228+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-portia",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
@@ -2587,6 +2587,6 @@
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
   "LastChanged": "2023-06-27T19:00:20.1155713+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:24.0881464+00:00",
-  "LastUpdate_Ratings": "2023-06-28T08:00:30.3469423+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:02:12.3377841+00:00"
+  "LastUpdate_Ratings": "2023-06-28T09:00:01.8534312+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:00:43.844394+00:00"
 }

@@ -8,19 +8,19 @@ Rating: 4.59 (Ranked 409)
 | Secret Technique | 0.60% | ~29 |
 | My Final Form | 0.40% | ~19 |
 | Tipping the Scales | 0.40% | ~19 |
+| Mighty Hoard | 0.40% | ~19 |
 | Realm Estate | 0.30% | ~15 |
 | A Wonderful Discovery | 0.30% | ~15 |
 | From Friends to Family | 0.30% | ~15 |
 | Stronger Together | 0.30% | ~15 |
 | Magical Synergy | 0.30% | ~15 |
-| Mighty Hoard | 0.30% | ~15 |
+| Here be Dragons | 0.30% | ~15 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
 | Impenetrable Fortress | 0.20% | ~10 |
-| Here be Dragons | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
 | Valley of Wonders | 0.10% | ~5 |
 | Snap Out of It! | 0.10% | ~5 |
@@ -43,6 +43,8 @@ Rating: 4.59 (Ranked 409)
 | The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
+| Master of Evilness | 0.10% | ~5 |
+| The Grey Wizard | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
@@ -50,13 +52,11 @@ Rating: 4.59 (Ranked 409)
 | Duality | 0.10% | ~5 |
 | The Goddess of Nature | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
-| Master of Evilness | 0.00% | ~0 |
-| The Grey Wizard | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,859 (Ranked 132)  
+Progressed: 4,859 (Ranked 133)  
 Completed: 3 (0.06%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

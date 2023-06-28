@@ -2,9 +2,9 @@
   "ID": "8b24875aea504fdc8032dff4fcdf31d4",
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2023-06-27T16:04:48.7784723+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T09:05:01.4777927+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -95,7 +100,7 @@
       "ID": "ACH_ALLWEAPONS",
       "SetID": "73kff7",
       "Name": "Armed to the teeth",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "ACH_CARKEY",
       "SetID": "73kff7",
       "Name": "Drive carefully",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_CATCHTHUG1",
       "SetID": "73kff7",
       "Name": "But why are you running?",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -119,7 +124,7 @@
       "ID": "ACH_CATCHTHUG2",
       "SetID": "73kff7",
       "Name": "But why are you hiding?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "ACH_CEMETERY",
       "SetID": "73kff7",
       "Name": "A place to rest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "ACH_CITYGATES",
       "SetID": "73kff7",
       "Name": "The city is yours",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "ACH_DESTROYWALL",
       "SetID": "73kff7",
       "Name": "Pyrotechnic performance",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "ACH_DRIVINGCHALLENGE",
       "SetID": "73kff7",
       "Name": "Peeling out",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "ACH_ELIZABETHSREST",
       "SetID": "73kff7",
       "Name": "Jumping in line",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "ACH_EXPLOREMOTHERSHIP",
       "SetID": "73kff7",
       "Name": "The mystery ship",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "ACH_FINDLUCIANO",
       "SetID": "73kff7",
       "Name": "Among rats and a foul stench",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_GAMECOMPLETED",
       "SetID": "73kff7",
       "Name": "We shouldn\u0027t have landed here in this place",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -191,15 +196,15 @@
       "ID": "ACH_GETTOTIMOTHYS",
       "SetID": "73kff7",
       "Name": "A drink, solitude and my memories",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_KILLSTOCKII",
       "SetID": "73kff7",
       "Name": "Free squid for a year",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -223,7 +228,7 @@
       "ID": "ACH_POLICESTATION",
       "SetID": "73kff7",
       "Name": "I\u0027d better leave soon",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "ACH_PORT",
       "SetID": "73kff7",
       "Name": "If the sea were ale, Timothy would go out to sail",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "ACH_REACHMOTHERSHIP",
       "SetID": "73kff7",
       "Name": "Towards the mouth of the wolf",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "ACH_SAVEELIZABETH",
       "SetID": "73kff7",
       "Name": "Being nice",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -256,13 +261,13 @@
     {
       "ID": "73kff7",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:05:17.9988791+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:05:01.4777922+00:00",
   "LastUpdate_AppInfo": "2023-06-21T11:57:17.0816335+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:57:25.6987984+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:05:17.9988938+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:57:33.7360385+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:05:01.4778094+00:00"
 }

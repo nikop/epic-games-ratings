@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 234439,
+  "EOS_Progressed": 234442,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1367,
+  "EOS_NewPlayers": 1368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7685,6 +7685,11 @@
       "Time": "2023-06-28T08:06:43.5637678+00:00",
       "NumProgressed": 234439,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-28T09:06:12.3066278+00:00",
+      "NumProgressed": 234442,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -7736,7 +7741,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25788
+      "UsersEstimate": 25789
     },
     {
       "ID": "ACH_ENJOY",
@@ -7840,7 +7845,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65643
+      "UsersEstimate": 65644
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -7912,7 +7917,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56265
+      "UsersEstimate": 56266
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -7976,7 +7981,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14066
+      "UsersEstimate": 14067
     },
     {
       "ID": "ACH_MEMORY5",
@@ -8111,7 +8116,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 234439,
+      "Progressed": 234442,
       "Completed": 7
     }
   ],
@@ -8119,8 +8124,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:06:43.5637675+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:06:12.3066273+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:37.8220282+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:58:14.4495379+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:06:43.5638367+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:58:12.5225259+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:06:12.306719+00:00"
 }

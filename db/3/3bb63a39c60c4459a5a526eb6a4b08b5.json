@@ -505,9 +505,9 @@
       "ID": "ABigLuck",
       "SetID": "1e89b4i",
       "Name": "Great Luck",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ActivePause",
@@ -848,8 +848,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-28T08:03:22.8720949+00:00",
+  "LastChanged_Achievements": "2023-06-28T09:03:27.657422+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-06-28T07:57:10.5454129+00:00",
-  "LastUpdate_Achievements": "2023-06-28T08:03:22.8721228+00:00"
+  "LastUpdate_Ratings": "2023-06-28T08:57:21.7648952+00:00",
+  "LastUpdate_Achievements": "2023-06-28T09:03:27.6574585+00:00"
 }
