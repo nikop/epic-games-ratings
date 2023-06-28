@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 81)  
+Rating: 4.80 (Ranked 80)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.80 (Ranked 81)
 | Whispers in the Woods I | 26.00% | ~625 |
 | Hijack | 26.00% | ~625 |
 | Ancient power | 24.00% | ~577 |
-| I chose my shackles | 22.00% | ~529 |
+| I chose my shackles | 23.00% | ~553 |
 | Sacred Woods | 21.00% | ~505 |
 | Capelworth | 21.00% | ~505 |
 | Little light | 20.00% | ~481 |

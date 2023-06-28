@@ -6,45 +6,45 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~436,554 |
-| The Three | 64.00% | ~336,620 |
-| The Banquet | 40.00% | ~210,388 |
-| Devara's Light | 30.00% | ~157,791 |
-| The Iron Ones | 18.00% | ~94,674 |
-| The Village | 16.00% | ~84,155 |
-| The Forest | 14.00% | ~73,636 |
-| Branded | 13.00% | ~68,376 |
-| The Imposter | 13.00% | ~68,376 |
-| The Keep | 13.00% | ~68,376 |
-| The Castle | 11.00% | ~57,857 |
-| The Dome | 9.00% | ~47,337 |
-| The Red Hall | 9.00% | ~47,337 |
+| Find Sanctuary | 83.00% | ~436,562 |
+| The Three | 64.00% | ~336,626 |
+| The Banquet | 40.00% | ~210,391 |
+| Devara's Light | 30.00% | ~157,793 |
+| The Iron Ones | 18.00% | ~94,676 |
+| The Village | 16.00% | ~84,156 |
+| The Forest | 14.00% | ~73,637 |
+| Branded | 13.00% | ~68,377 |
+| The Imposter | 13.00% | ~68,377 |
+| The Keep | 13.00% | ~68,377 |
+| The Castle | 11.00% | ~57,858 |
+| The Dome | 9.00% | ~47,338 |
+| The Red Hall | 9.00% | ~47,338 |
 | The Sacrifice | 8.00% | ~42,078 |
 | The Cave | 7.00% | ~36,818 |
 | The Stone Roots | 7.00% | ~36,818 |
 | The Ziggurat | 7.00% | ~36,818 |
-| Storied | 6.00% | ~31,558 |
-| The Construct | 6.00% | ~31,558 |
-| The Mire | 6.00% | ~31,558 |
-| The Ruins | 6.00% | ~31,558 |
-| The Alkymancery | 5.00% | ~26,298 |
-| The Lake | 5.00% | ~26,298 |
-| The Pitchwoods | 5.00% | ~26,298 |
+| Storied | 6.00% | ~31,559 |
+| The Construct | 6.00% | ~31,559 |
+| The Mire | 6.00% | ~31,559 |
+| The Ruins | 6.00% | ~31,559 |
+| The Alkymancery | 5.00% | ~26,299 |
+| The Lake | 5.00% | ~26,299 |
+| The Pitchwoods | 5.00% | ~26,299 |
 | Honed | 4.00% | ~21,039 |
 | The House of Splendor | 4.00% | ~21,039 |
 | The Crypt | 4.00% | ~21,039 |
 | The Palace | 4.00% | ~21,039 |
 | Find Salvation | 3.00% | ~15,779 |
 | The Unspeakable Deep | 3.00% | ~15,779 |
-| Coastrock | 2.00% | ~10,519 |
-| Devoted | 2.00% | ~10,519 |
-| Dominion | 2.00% | ~10,519 |
-| Keepers of Fire and Sky | 2.00% | ~10,519 |
-| Order of the Betrayer | 2.00% | ~10,519 |
-| Wise Words | 2.00% | ~10,519 |
+| Coastrock | 2.00% | ~10,520 |
+| Devoted | 2.00% | ~10,520 |
+| Dominion | 2.00% | ~10,520 |
+| Keepers of Fire and Sky | 2.00% | ~10,520 |
+| Order of the Betrayer | 2.00% | ~10,520 |
+| Wise Words | 2.00% | ~10,520 |
 | Fading Fast | 1.00% | ~5,260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,969 (Ranked 28)  
+Progressed: 525,978 (Ranked 28)  
 Completed: 1,462 (0.28%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1,462 (0.28%) (Ranked 147)
 | 2023-06-25 | 525,737 | 1,460 |
 | 2023-06-26 | 525,838 | 1,461 |
 | 2023-06-27 | 525,938 | 1,461 |
-| 2023-06-28 | 525,969 | 1,462 |
+| 2023-06-28 | 525,978 | 1,462 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,900 (Ranked 200)  

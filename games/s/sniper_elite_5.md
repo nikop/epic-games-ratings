@@ -60,6 +60,9 @@ Rating: 4.47 (Ranked 594)
 | Up close and personal | 0.30% | ~9 |
 | Shoot for the Moon | 0.30% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~9 |
+| Führerious Repetition | 0.30% | ~9 |
+| Reich To The Point | 0.30% | ~9 |
+| Covert Elimination | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | Best of the Best | 0.20% | ~6 |
@@ -68,16 +71,13 @@ Rating: 4.47 (Ranked 594)
 | Master of Rifles | 0.20% | ~6 |
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
-| Führerious Repetition | 0.20% | ~6 |
-| Reich To The Point | 0.20% | ~6 |
 | From Führer Away | 0.20% | ~6 |
-| Covert Elimination | 0.20% | ~6 |
 | Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
+| Operation Overlord | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |
-| Operation Overlord | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,154 (Ranked 144)  
+Progressed: 3,155 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-25 | 3,133 | 2 |
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
-| 2023-06-28 | 3,154 | 6 |
+| 2023-06-28 | 3,155 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

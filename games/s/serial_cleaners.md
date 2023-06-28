@@ -19,12 +19,12 @@
 | Something Rotten | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
 | The Wing and the Thigh | 2.00% | ~4 |
+| The Crush And Smash The Dino Four | 1.00% | ~1 |
+| … Women Inherit The Earth | 1.00% | ~1 |
 | Blood Capade | 0.50% | ~1 |
-| The Crush And Smash The Dino Four | 0.50% | ~0 |
-| … Women Inherit The Earth | 0.50% | ~0 |
+| Crazy SOB, You Did It | 0.50% | ~0 |
 | Bee Squat | 0.50% | ~1 |
 | The Germophobes | 0.50% | ~1 |
-| Crazy SOB, You Did It | 0.00% | ~0 |
 | Do-you-think-he-saurus | 0.00% | ~0 |
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |

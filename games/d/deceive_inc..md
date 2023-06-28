@@ -11,11 +11,11 @@ Rating: 4.64 (Ranked 313)
 | The Spy who eliminated me | 46.00% | ~3,214 |
 | Never Say Loser Again | 40.00% | ~2,795 |
 | For your Eyes only | 38.00% | ~2,655 |
-| From the Vault with Love | 37.00% | ~2,585 |
-| Tailor-Made | 37.00% | ~2,585 |
-| Fully Decked Out | 35.00% | ~2,445 |
+| From the Vault with Love | 37.00% | ~2,586 |
+| Tailor-Made | 37.00% | ~2,586 |
+| Fully Decked Out | 35.00% | ~2,446 |
 | You Only Live Twice | 32.00% | ~2,236 |
-| A view to Win | 27.00% | ~1,886 |
+| A view to Win | 27.00% | ~1,887 |
 | Smells Like Trouble | 25.00% | ~1,747 |
 | Assistant Accountant | 24.00% | ~1,677 |
 | The Living Portrait | 24.00% | ~1,677 |
@@ -31,8 +31,8 @@ Rating: 4.64 (Ranked 313)
 | Social of Solace | 8.00% | ~559 |
 | Safe Withdrawal | 6.00% | ~419 |
 | Live and let lie | 5.00% | ~349 |
-| Call Me Maybe | 4.00% | ~279 |
-| PHD in VIP | 4.00% | ~279 |
+| Call Me Maybe | 4.00% | ~280 |
+| PHD in VIP | 4.00% | ~280 |
 | Branch Manager | 3.00% | ~210 |
 | The terminals are not enough | 2.00% | ~140 |
 | Lose Another Day | 2.00% | ~140 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,987 (Ranked 121)  
+Progressed: 6,988 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 6,954 | 0 |
 | 2023-06-26 | 6,969 | 0 |
 | 2023-06-27 | 6,978 | 0 |
-| 2023-06-28 | 6,987 | 0 |
+| 2023-06-28 | 6,988 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

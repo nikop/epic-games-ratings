@@ -362,9 +362,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3154,
+  "EOS_Progressed": 3155,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4447,6 +4447,11 @@
       "Time": "2023-06-28T12:07:46.2912064+00:00",
       "NumProgressed": 3154,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-28T13:23:35.1556022+00:00",
+      "NumProgressed": 3155,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4880,17 +4885,17 @@
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
       "SetID": "83mdf7p",
       "Name": "F\u00FChrerious Repetition",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -4904,9 +4909,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -4968,9 +4973,9 @@
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
       "SetID": "83mdf7p",
       "Name": "Operation Overlord",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -5025,13 +5030,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3105,
+      "Progressed": 3106,
       "Completed": 7
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3154,
+      "Progressed": 3155,
       "Completed": 6
     }
   ],
@@ -5039,8 +5044,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:46.2912059+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:35.1556018+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:01:50.7678998+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:46.2913128+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:17:27.8009025+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:35.1557005+00:00"
 }

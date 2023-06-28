@@ -2,10 +2,10 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-06-28T02:27:16.7825781+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T13:20:46.8702043+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -236,7 +241,7 @@
       "Name": "Be water, my friend",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -490,9 +495,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 223
     },
     {
       "ID": "World2Boss",
@@ -500,7 +505,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "World3Boss",
@@ -516,7 +521,7 @@
       "Name": "Hit That Ball",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "World5Boss",
@@ -563,7 +568,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 0
     }
   ],
@@ -571,8 +576,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:03:33.9648851+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:20:46.8702036+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:14.5690216+00:00",
-  "LastUpdate_Ratings": "2023-06-28T11:57:44.4892945+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:03:33.9649206+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:14:42.7672872+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:20:46.8702469+00:00"
 }

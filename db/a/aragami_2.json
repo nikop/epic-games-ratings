@@ -6,7 +6,7 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36037,
+  "EOS_Progressed": 36038,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6754,6 +6754,11 @@
       "Time": "2023-06-28T12:04:12.4112839+00:00",
       "NumProgressed": 36037,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-06-28T13:21:06.9266379+00:00",
+      "NumProgressed": 36038,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 44,
@@ -6765,7 +6770,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20541
+      "UsersEstimate": 20542
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -6853,7 +6858,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -6861,7 +6866,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6885,7 +6890,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29191
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -6973,7 +6978,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7207
+      "UsersEstimate": 7208
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -7005,7 +7010,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 22703
+      "UsersEstimate": 22704
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -7029,7 +7034,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21622
+      "UsersEstimate": 21623
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -7037,7 +7042,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 24505
+      "UsersEstimate": 24506
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -7101,7 +7106,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 33514
+      "UsersEstimate": 33515
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -7109,14 +7114,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 18739
+      "UsersEstimate": 18740
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 36037,
+      "Progressed": 36038,
       "Completed": 180
     }
   ],
@@ -7124,8 +7129,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:04:12.4112834+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:21:06.9266372+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.5678333+00:00",
-  "LastUpdate_Ratings": "2023-06-28T11:59:11.2336099+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:04:12.41138+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:15:40.7231941+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:21:06.9267322+00:00"
 }

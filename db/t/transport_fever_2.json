@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -480,9 +480,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2170,6 +2170,11 @@
       "Time": "2023-06-28T11:07:51.6303991+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T13:23:38.5283017+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -2197,7 +2202,7 @@
       "Name": "Transport master",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "achAccumulate1B",
@@ -2341,7 +2346,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "achCreateLine",
@@ -2349,7 +2354,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "achCrowdInATrain",
@@ -2365,7 +2370,7 @@
       "Name": "Not in my backyard",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achEpec",
@@ -2379,9 +2384,9 @@
       "ID": "achFirstAircraftArrived",
       "SetID": "dgl390n",
       "Name": "First aircraft arrived",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 540
     },
     {
       "ID": "achFirstBusArrived",
@@ -2397,7 +2402,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -2405,7 +2410,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -2421,7 +2426,7 @@
       "Name": "First industry upgraded",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -2429,7 +2434,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -2437,7 +2442,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achFirstShipArrived",
@@ -2445,7 +2450,7 @@
       "Name": "First ship arrived",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -2637,7 +2642,7 @@
       "Name": "Now what?",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "achTrainFever",
@@ -2668,15 +2673,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-23T17:00:38.1565791+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:50.3306933+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:38.5283011+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:48.2488994+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:00:51.4252281+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:50.3307889+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:16:47.8708112+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:38.5283815+00:00"
 }

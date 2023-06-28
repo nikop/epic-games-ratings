@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -342,7 +342,7 @@
   "Tags": [],
   "EOS_Progressed": 6850,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5143,9 +5143,9 @@
       "ID": "ACH19",
       "SetID": "552d41m",
       "Name": "A Gift from the King",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH20",
@@ -5240,8 +5240,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-26T03:25:13.4061276+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:03:30.0948669+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:20:43.9215835+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:33.2635441+00:00",
-  "LastUpdate_Ratings": "2023-06-28T11:58:32.2766496+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:03:30.0949243+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:15:14.4177907+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:20:43.9216423+00:00"
 }

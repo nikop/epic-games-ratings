@@ -72,11 +72,11 @@
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~3 |
 | Ancient Ruins of Stuffed Pantrys | 3.00% | ~3 |
+| Ancient Ruins of Chilly Winds | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
-| Ancient Ruins of Chilly Winds | 2.00% | ~2 |
 | Consider it dealt with | 2.00% | ~2 |
 | Out of bounds | 2.00% | ~2 |
 | I'm getting full... | 0.00% | ~0 |

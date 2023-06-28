@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -1996,9 +1996,9 @@
       "ID": "CLEANER",
       "SetID": "64e5lgf",
       "Name": "CLEANER",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 696
     },
     {
       "ID": "DEBTOR",
@@ -2093,8 +2093,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:24.1155896+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:18.0975024+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:24.0524544+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:00:29.360586+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:24.1156203+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:16:32.6637641+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:18.0975422+00:00"
 }

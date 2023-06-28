@@ -9,7 +9,7 @@ Number of Ratings: 28  (23.09.2022)
 | Getting started | 76.00% | ~231 |
 | Close call! | 75.00% | ~228 |
 | Builder | 57.00% | ~173 |
-| Pangs of conscience | 51.00% | ~155 |
+| Pangs of conscience | 52.00% | ~158 |
 | Living it large! | 47.00% | ~143 |
 | Collector | 44.00% | ~134 |
 | Need to think | 42.00% | ~128 |

@@ -5,19 +5,19 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,425 |
+| Victor | 94.00% | ~1,426 |
 | World Map | 79.00% | ~1,198 |
-| Temple of Eternals | 57.00% | ~864 |
+| Temple of Eternals | 57.00% | ~865 |
 | Prestigious | 54.00% | ~819 |
 | Fellowship Power | 41.00% | ~622 |
 | Guild Power | 25.00% | ~379 |
-| Prestigious x10 | 21.00% | ~318 |
+| Prestigious x10 | 21.00% | ~319 |
 | The game is on | 19.00% | ~288 |
 | Exotic Merchant | 17.00% | ~258 |
 | Dragon Clicker | 16.00% | ~243 |
 | Miner Clicker | 16.00% | ~243 |
-| Full Party | 15.00% | ~227 |
-| Inspection | 15.00% | ~227 |
+| Full Party | 15.00% | ~228 |
+| Inspection | 15.00% | ~228 |
 | Enlightenment | 14.00% | ~212 |
 | Hero inspection | 14.00% | ~212 |
 | Dragon Master | 13.00% | ~197 |
@@ -28,13 +28,13 @@ Rating: 4.07 (Ranked 895)
 | Superior | 12.00% | ~182 |
 | The Unstoppable | 12.00% | ~182 |
 | Scientist | 10.00% | ~152 |
-| Challenger | 9.00% | ~136 |
-| Doing My Part | 9.00% | ~136 |
-| Hunter | 9.00% | ~136 |
-| Mastery | 9.00% | ~136 |
-| Relic Of The Past | 9.00% | ~136 |
-| Scroll Master | 9.00% | ~136 |
-| The power of Awakening | 9.00% | ~136 |
+| Challenger | 9.00% | ~137 |
+| Doing My Part | 9.00% | ~137 |
+| Hunter | 9.00% | ~137 |
+| Mastery | 9.00% | ~137 |
+| Relic Of The Past | 9.00% | ~137 |
+| Scroll Master | 9.00% | ~137 |
+| The power of Awakening | 9.00% | ~137 |
 | Daily Quest Completionist | 8.00% | ~121 |
 | Four Leaf Clover | 8.00% | ~121 |
 | Frostfire Liberator | 8.00% | ~121 |
@@ -55,8 +55,8 @@ Rating: 4.07 (Ranked 895)
 | Dragon Slayer | 4.00% | ~61 |
 | Engineer Mastery | 4.00% | ~61 |
 | Lock And Load | 4.00% | ~61 |
-| Arena Challenger | 3.00% | ~45 |
-| Sailor | 3.00% | ~45 |
+| Arena Challenger | 3.00% | ~46 |
+| Sailor | 3.00% | ~46 |
 | Active Member | 2.00% | ~30 |
 | Ebony Jungle Liberator | 2.00% | ~30 |
 | Legendary | 2.00% | ~30 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,516 (Ranked 167)  
+Progressed: 1,517 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-25 | 1,500 | 1 |
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
-| 2023-06-28 | 1,516 | 1 |
+| 2023-06-28 | 1,517 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

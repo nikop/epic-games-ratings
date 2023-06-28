@@ -12,7 +12,7 @@
 | French Flair | 16.00% | ~69 |
 | Next Level Cuisine | 11.00% | ~48 |
 | Haute Cuisine | 8.00% | ~35 |
-| Italian Style | 7.00% | ~30 |
+| Italian Style | 8.00% | ~35 |
 | Sous-Chef | 6.00% | ~26 |
 | Well-Stocked Kitchen | 5.00% | ~22 |
 | Culinary Arts | 4.00% | ~17 |

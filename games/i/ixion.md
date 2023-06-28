@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 438)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 20.00% | ~548 |
+| Wakey Wakey | 20.00% | ~549 |
 | Infinite Growth... | 17.00% | ~466 |
 | Sputnik 2049 | 17.00% | ~466 |
 | Without Breaking Some Eggs... | 16.00% | ~439 |
@@ -25,11 +25,11 @@ Rating: 4.57 (Ranked 438)
 | Power Outage | 5.00% | ~137 |
 | Please Make it Stop! | 5.00% | ~137 |
 | Sightseeing | 4.00% | ~110 |
-| Access Granted | 4.00% | ~110 |
 | Necessary Enhancement | 4.00% | ~110 |
 | Convenient Transport | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~82 |
+| Access Granted | 3.00% | ~82 |
 | BRAWL! | 3.00% | ~82 |
 | All in Good Health | 3.00% | ~82 |
 | What the Ruins Teach Us | 3.00% | ~82 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,742 (Ranked 151)  
+Progressed: 2,743 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 2,734 | 0 |
 | 2023-06-26 | 2,738 | 0 |
 | 2023-06-27 | 2,742 | 0 |
+| 2023-06-28 | 2,743 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

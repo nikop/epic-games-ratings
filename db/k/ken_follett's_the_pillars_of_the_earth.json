@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,10 +489,10 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13575,
+  "EOS_Progressed": 13577,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 166,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 168,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
@@ -5074,6 +5074,11 @@
       "Time": "2023-06-28T12:07:27.0428704+00:00",
       "NumProgressed": 13575,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-28T13:23:20.3268528+00:00",
+      "NumProgressed": 13577,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5093,7 +5098,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "tpote_achievement_11",
@@ -5165,7 +5170,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "tpote_achievement_2",
@@ -5189,7 +5194,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "tpote_achievement_22",
@@ -5237,7 +5242,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "tpote_achievement_28",
@@ -5285,7 +5290,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "tpote_achievement_33",
@@ -5349,7 +5354,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "tpote_achievement_40",
@@ -5397,7 +5402,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "tpote_achievement_9",
@@ -5405,22 +5410,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13575,
+      "Progressed": 13577,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:27.0428699+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:20.3268522+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:01:10.721147+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:27.0429387+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:17:01.4094776+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:20.3269173+00:00"
 }

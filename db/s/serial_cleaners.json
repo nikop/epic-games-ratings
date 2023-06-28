@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -403,7 +403,7 @@
       "ID": "DLC01_ACHIEVEMENT01",
       "SetID": "5jieak",
       "Name": "Crazy SOB, You Did It",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 125,
       "UsersEstimate": 0
     },
@@ -435,17 +435,17 @@
       "ID": "DLC01_ACHIEVEMENT05",
       "SetID": "5jieak",
       "Name": "The Crush And Smash The Dino Four",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT06",
       "SetID": "5jieak",
       "Name": "\u2026 Women Inherit The Earth",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LATI_SPRAY",
@@ -522,8 +522,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:36.421007+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:27.3111366+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:10.0801983+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:00:12.9560505+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:36.4210289+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:16:21.8613029+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:27.3111612+00:00"
 }

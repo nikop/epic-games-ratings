@@ -2,13 +2,13 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Ranking_Rating": 101,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2478,18 +2478,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6442,
       "NumberOfAwardsMax": 2326
+    },
+    {
+      "Time": "2023-06-28T13:17:32.8378995+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6446,
+      "NumberOfAwardsMax": 2330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6442,
-  "NumberOfAwardsMax": 2326,
+  "NumberOfAwards": 6446,
+  "NumberOfAwardsMax": 2330,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2326
+      "Count": 2330
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2558,7 +2564,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49755,
+  "EOS_Progressed": 49756,
   "EOS_Completed": 196,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 3,
@@ -8228,6 +8234,11 @@
       "Time": "2023-06-28T12:02:29.150511+00:00",
       "NumProgressed": 49755,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-06-28T13:20:14.1955621+00:00",
+      "NumProgressed": 49756,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 45,
@@ -8263,7 +8274,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39306
+      "UsersEstimate": 39307
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8351,7 +8362,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29355
+      "UsersEstimate": 29356
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8359,7 +8370,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -8383,7 +8394,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18409
+      "UsersEstimate": 18410
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8399,7 +8410,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12936
+      "UsersEstimate": 12937
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -8415,7 +8426,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 9453
+      "UsersEstimate": 9454
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -8431,7 +8442,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28360
+      "UsersEstimate": 28361
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8503,7 +8514,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48262
+      "UsersEstimate": 48263
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8543,7 +8554,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35326
+      "UsersEstimate": 35327
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8559,7 +8570,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18409
+      "UsersEstimate": 18410
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8575,7 +8586,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26370
+      "UsersEstimate": 26371
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8598,15 +8609,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49755,
+      "Progressed": 49756,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-27T12:00:55.5944058+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:02:29.1505106+00:00",
+  "LastChanged": "2023-06-28T13:17:32.8378993+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:20:14.1955612+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:01:57.8000042+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:02:29.1505815+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:17:32.8379+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:20:14.1956598+00:00"
 }

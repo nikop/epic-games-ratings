@@ -14,12 +14,12 @@ Rating: 4.77 (Ranked 108)
 | The Defender of Dragons | 8.00% | ~22,542 |
 | A Keen Sense of Spell | 8.00% | ~22,542 |
 | That's a Keeper | 8.00% | ~22,542 |
-| The Hero of Hogwarts | 7.00% | ~19,724 |
-| Challenge Accepted | 7.00% | ~19,724 |
-| Loom for Improvement | 7.00% | ~19,724 |
-| A Talent for Spending | 7.00% | ~19,724 |
-| Coasting Along | 7.00% | ~19,724 |
-| Rising From the Ashes | 7.00% | ~19,724 |
+| The Hero of Hogwarts | 7.00% | ~19,725 |
+| Challenge Accepted | 7.00% | ~19,725 |
+| Loom for Improvement | 7.00% | ~19,725 |
+| A Talent for Spending | 7.00% | ~19,725 |
+| Coasting Along | 7.00% | ~19,725 |
+| Rising From the Ashes | 7.00% | ~19,725 |
 | The Avenging Gazelle | 6.00% | ~16,907 |
 | A Sallow Grave | 6.00% | ~16,907 |
 | Flight the Good Flight | 6.00% | ~16,907 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,777 (Ranked 41)  
+Progressed: 281,779 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 413 (0.15%) (Ranked 167)
 | 2023-06-25 | 281,503 | 413 |
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
-| 2023-06-28 | 281,777 | 413 |
+| 2023-06-28 | 281,779 | 413 |
 ## Awards
 Max (Character Customization): 20,457  (Ranked 17)  
 Sum: 38,045 (Ranked 30)  

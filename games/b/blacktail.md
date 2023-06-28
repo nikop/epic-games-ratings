@@ -25,10 +25,10 @@ Rating: 4.68 (Ranked 240)
 | Baba Yaga | 4.00% | ~21 |
 | Extensive retelling | 3.00% | ~16 |
 | Both sides | 3.00% | ~16 |
+| Specialist | 3.00% | ~16 |
 | Witch's cookbook | 3.00% | ~16 |
 | Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |
-| Specialist | 2.00% | ~10 |
 | Always worth a try | 2.00% | ~10 |
 | Toxic | 2.00% | ~10 |
 | Entangled | 2.00% | ~10 |

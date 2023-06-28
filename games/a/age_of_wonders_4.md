@@ -5,29 +5,31 @@ Rating: 4.59 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 0.60% | ~29 |
+| Secret Technique | 0.70% | ~34 |
+| Tipping the Scales | 0.50% | ~24 |
 | Realm Estate | 0.40% | ~19 |
 | A Wonderful Discovery | 0.40% | ~19 |
 | From Friends to Family | 0.40% | ~19 |
+| Stronger Together | 0.40% | ~19 |
 | My Final Form | 0.40% | ~19 |
-| Tipping the Scales | 0.40% | ~19 |
 | Mighty Hoard | 0.40% | ~19 |
+| Walls Cannot Stop Us | 0.30% | ~15 |
 | Bone Peddler | 0.30% | ~15 |
-| Stronger Together | 0.30% | ~15 |
 | Magical Synergy | 0.30% | ~15 |
 | Impenetrable Fortress | 0.30% | ~15 |
 | Here be Dragons | 0.30% | ~15 |
-| Walls Cannot Stop Us | 0.20% | ~10 |
+| Valley of Wonders | 0.20% | ~10 |
+| Full Ascension | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
+| Preparation Is Everything | 0.20% | ~10 |
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
+| Against the Odds | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
-| Valley of Wonders | 0.10% | ~5 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| Full Ascension | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -36,9 +38,7 @@ Rating: 4.59 (Ranked 409)
 | Enchanted Archipelago | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
-| Preparation Is Everything | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
-| Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 409)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,860 (Ranked 133)  
+Progressed: 4,864 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 4 (0.08%) (Ranked 185)
 | 2023-06-25 | 4,839 | 3 |
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
-| 2023-06-28 | 4,860 | 4 |
+| 2023-06-28 | 4,864 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

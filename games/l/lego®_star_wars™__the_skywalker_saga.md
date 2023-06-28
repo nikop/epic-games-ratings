@@ -1,28 +1,28 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.78 (Ranked 101)  
+Rating: 4.78 (Ranked 100)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,262 |
-| ''I don't like you either!'' | 79.00% | ~39,306 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,263 |
+| ''I don't like you either!'' | 79.00% | ~39,307 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~35,824 |
-| ''Impressive, most impressive'' | 71.00% | ~35,326 |
-| The Phantom Menace | 59.00% | ~29,355 |
+| ''Impressive, most impressive'' | 71.00% | ~35,327 |
+| The Phantom Menace | 59.00% | ~29,356 |
 | ''Aggressive Negotiations'' | 58.00% | ~28,858 |
-| ''I can fly anything'' | 57.00% | ~28,360 |
-| ''And who gave you permission...?'' | 53.00% | ~26,370 |
+| ''I can fly anything'' | 57.00% | ~28,361 |
+| ''And who gave you permission...?'' | 53.00% | ~26,371 |
 | A New Hope | 47.00% | ~23,385 |
-| Attack of the Clones | 46.00% | ~22,887 |
+| Attack of the Clones | 46.00% | ~22,888 |
 | Revenge of the Sith | 40.00% | ~19,902 |
-| The Empire Strikes Back | 37.00% | ~18,409 |
-| ''A fine addition to my collection'' | 37.00% | ~18,409 |
+| The Empire Strikes Back | 37.00% | ~18,410 |
+| ''A fine addition to my collection'' | 37.00% | ~18,410 |
 | Return of the Jedi | 31.00% | ~15,424 |
-| The Force Awakens | 26.00% | ~12,936 |
+| The Force Awakens | 26.00% | ~12,937 |
 | The Last Jedi | 22.00% | ~10,946 |
-| The Rise of Skywalker | 19.00% | ~9,453 |
+| The Rise of Skywalker | 19.00% | ~9,454 |
 | ''It's true... all of it'' | 18.00% | ~8,956 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,956 |
 | ''Raw, untamed power'' | 8.00% | ~3,980 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~498 |
 | ''I've never seen a real one!'' | 0.80% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,755 (Ranked 83)  
+Progressed: 49,756 (Ranked 83)  
 Completed: 196 (0.39%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,14 +121,14 @@ Completed: 196 (0.39%) (Ranked 132)
 | 2023-06-25 | 49,732 | 194 |
 | 2023-06-26 | 49,743 | 195 |
 | 2023-06-27 | 49,750 | 195 |
-| 2023-06-28 | 49,755 | 196 |
+| 2023-06-28 | 49,756 | 196 |
 ## Awards
-Max (Great Boss Battles): 2,326  (Ranked 101)  
-Sum: 6,442 (Ranked 115)  
+Max (Great Boss Battles): 2,330  (Ranked 101)  
+Sum: 6,446 (Ranked 115)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,326 |
+| This game has Great Boss Battles | 2,330 |
 | This game has Diverse Characters | 483 |
 | This game is Great for Beginners | 482 |
 | This game has Amazing Characters | 478 |
@@ -286,3 +286,4 @@ Diff (max vs sum): -14
 | 2023-06-25 | 4.78 | - | 2,324 | 6,438 |
 | 2023-06-26 | 4.78 | - | 2,324 | 6,439 |
 | 2023-06-27 | 4.78 | - | 2,326 | 6,442 |
+| 2023-06-28 | 4.78 | - | 2,330 | 6,446 |

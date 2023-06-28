@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | BUSINESS OWNER | 98.00% | ~725 |
-| CLEANER | 93.00% | ~688 |
+| CLEANER | 94.00% | ~696 |
 | OH NO, HE'S LEAVING! | 77.00% | ~570 |
 | FIREFIGHTER | 55.00% | ~407 |
 | ADVANCED | 41.00% | ~303 |

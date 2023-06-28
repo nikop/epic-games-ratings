@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -309,9 +309,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "06_living",
@@ -597,8 +597,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:06:20.7828269+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:22:33.9269681+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:15.1798327+00:00",
-  "LastUpdate_Ratings": "2023-06-28T11:58:15.1057013+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:06:20.7828681+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:15:03.046189+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:22:33.9270015+00:00"
 }

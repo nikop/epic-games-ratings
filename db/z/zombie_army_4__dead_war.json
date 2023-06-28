@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1713,9 +1713,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42929,
+  "EOS_Progressed": 42930,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4403,6 +4403,11 @@
       "Time": "2023-06-28T11:07:50.2827193+00:00",
       "NumProgressed": 42929,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-28T13:23:37.4921343+00:00",
+      "NumProgressed": 42930,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4446,7 +4451,7 @@
       "Name": "Well equipped",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5151
+      "UsersEstimate": 5152
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -4518,7 +4523,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16742
+      "UsersEstimate": 16743
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -4582,7 +4587,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5151
+      "UsersEstimate": 5152
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -4606,7 +4611,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26616
+      "UsersEstimate": 26617
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4662,7 +4667,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21035
+      "UsersEstimate": 21036
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4670,7 +4675,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15454
+      "UsersEstimate": 15455
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -4686,7 +4691,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -4710,7 +4715,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18030
+      "UsersEstimate": 18031
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4718,7 +4723,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21464
+      "UsersEstimate": 21465
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -4734,7 +4739,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15454
+      "UsersEstimate": 15455
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -4766,7 +4771,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19747
+      "UsersEstimate": 19748
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -4790,7 +4795,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15454
+      "UsersEstimate": 15455
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -4910,7 +4915,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -4918,7 +4923,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6439
+      "UsersEstimate": 6440
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -4934,22 +4939,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15454
+      "UsersEstimate": 15455
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42929,
+      "Progressed": 42930,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-25T16:01:15.2581756+00:00",
-  "LastChanged_Achievements": "2023-06-28T12:07:49.1963953+00:00",
+  "LastChanged_Achievements": "2023-06-28T13:23:37.4921337+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:59.0106729+00:00",
-  "LastUpdate_Ratings": "2023-06-28T12:01:01.1373958+00:00",
-  "LastUpdate_Achievements": "2023-06-28T12:07:49.1964778+00:00"
+  "LastUpdate_Ratings": "2023-06-28T13:16:54.6568111+00:00",
+  "LastUpdate_Achievements": "2023-06-28T13:23:37.4922733+00:00"
 }
