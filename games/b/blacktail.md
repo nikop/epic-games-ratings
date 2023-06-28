@@ -15,10 +15,10 @@ Rating: 4.68 (Ranked 241)
 | Gold rush | 7.00% | ~36 |
 | Spirit animal | 7.00% | ~36 |
 | Sneak peek | 5.00% | ~26 |
+| Fishing fanatic | 5.00% | ~26 |
 | A friend in need... | 5.00% | ~26 |
 | Extensive retelling | 4.00% | ~21 |
 | Favorite | 4.00% | ~21 |
-| Fishing fanatic | 4.00% | ~21 |
 | The word around is... | 4.00% | ~21 |
 | Liar Liar | 4.00% | ~21 |
 | The cycle acknowledged | 4.00% | ~21 |

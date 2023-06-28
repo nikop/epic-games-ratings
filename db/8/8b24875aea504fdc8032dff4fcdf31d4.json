@@ -4,7 +4,7 @@
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_POLICESTATION",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-06-28T20:05:15.0656266+00:00",
+  "LastChanged_Achievements": "2023-06-28T21:05:11.358165+00:00",
   "LastUpdate_AppInfo": "2023-06-28T13:14:17.1080002+00:00",
-  "LastUpdate_Ratings": "2023-06-28T19:57:23.855269+00:00",
-  "LastUpdate_Achievements": "2023-06-28T20:05:15.0656434+00:00"
+  "LastUpdate_Ratings": "2023-06-28T20:57:32.5689132+00:00",
+  "LastUpdate_Achievements": "2023-06-28T21:05:11.3582021+00:00"
 }

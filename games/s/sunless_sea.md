@@ -10,7 +10,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sweet Sorrow | 18.00% | ~5,830 |
 | Rules the Waves | 17.00% | ~5,506 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,858 |
-| Rival | 14.00% | ~4,534 |
+| Rival | 14.00% | ~4,535 |
 | Correspondent | 12.00% | ~3,887 |
 | Lose Your Mind | 12.00% | ~3,887 |
 | Sound Mind? | 12.00% | ~3,887 |
@@ -23,8 +23,8 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,267 |
 | Open Your Ears | 7.00% | ~2,267 |
 | The Ascent of Man | 7.00% | ~2,267 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,619 |
-| Zee Fever | 5.00% | ~1,619 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,620 |
+| Zee Fever | 5.00% | ~1,620 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,296 |
 | Storm's Curse | 3.00% | ~972 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~972 |
@@ -43,11 +43,11 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~324 |
 | Under the zee | 1.00% | ~324 |
 | A current under zee | 1.00% | ~324 |
-| A zee-change | 0.90% | ~291 |
-| Never Stop Sinking... | 0.90% | ~291 |
-| Leviathan | 0.90% | ~291 |
-| No regrets | 0.90% | ~291 |
-| Depth charge | 0.90% | ~291 |
+| A zee-change | 0.90% | ~292 |
+| Never Stop Sinking... | 0.90% | ~292 |
+| Leviathan | 0.90% | ~292 |
+| No regrets | 0.90% | ~292 |
+| Depth charge | 0.90% | ~292 |
 | What lies beneath | 0.80% | ~259 |
 | Stone's Curse | 0.70% | ~227 |
 | Five Years at Zee | 0.50% | ~162 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,388 (Ranked 91)  
+Progressed: 32,390 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 3 (0.01%) (Ranked 218)
 | 2023-06-25 | 32,182 | 3 |
 | 2023-06-26 | 32,254 | 3 |
 | 2023-06-27 | 32,329 | 3 |
-| 2023-06-28 | 32,388 | 3 |
+| 2023-06-28 | 32,390 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 262)  
 Sum: 279 (Ranked 335)  

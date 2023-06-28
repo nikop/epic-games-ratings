@@ -27,13 +27,13 @@ Rating: 4.38 (Ranked 711)
 | Stoker | 33.00% | ~466 |
 | Bull and bear | 32.00% | ~452 |
 | Full Steam ahead | 31.00% | ~437 |
+| Mole | 29.00% | ~409 |
 | Financial Shark | 29.00% | ~409 |
 | All mine | 28.00% | ~395 |
-| Mole | 28.00% | ~395 |
 | Socializer | 27.00% | ~381 |
 | General Manager | 25.00% | ~353 |
 | Country Life | 25.00% | ~353 |
-| Hostile Takeover | 24.00% | ~339 |
+| Hostile Takeover | 25.00% | ~353 |
 | Seven at one stroke | 23.00% | ~325 |
 | Trailblazer | 20.00% | ~282 |
 | Breaking Ground | 19.00% | ~268 |

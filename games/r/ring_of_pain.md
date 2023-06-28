@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~222,331 |
+| First Steps | 96.00% | ~222,332 |
 | Uncharted Territory | 89.00% | ~206,120 |
-| Getting A Glimpse | 73.00% | ~169,064 |
+| Getting A Glimpse | 73.00% | ~169,065 |
 | A Quick Escape | 65.00% | ~150,537 |
-| Explorer | 62.00% | ~143,589 |
-| Defeat The Dark | 61.00% | ~141,273 |
-| An Offering | 61.00% | ~141,273 |
-| Colorful Corpse | 58.00% | ~134,325 |
-| That Was Quick | 56.00% | ~129,693 |
-| A Donation | 56.00% | ~129,693 |
-| Goodbye, Frog Friend | 54.00% | ~125,061 |
-| Heavy Hitter | 53.00% | ~122,745 |
+| Explorer | 62.00% | ~143,590 |
+| Defeat The Dark | 61.00% | ~141,274 |
+| An Offering | 61.00% | ~141,274 |
+| Colorful Corpse | 58.00% | ~134,326 |
+| That Was Quick | 56.00% | ~129,694 |
+| A Donation | 56.00% | ~129,694 |
+| Goodbye, Frog Friend | 54.00% | ~125,062 |
+| Heavy Hitter | 53.00% | ~122,746 |
 | Heartless | 46.00% | ~106,534 |
 | Spine Breaker | 46.00% | ~106,534 |
 | Deflection | 45.00% | ~104,218 |
@@ -28,13 +28,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 40.00% | ~92,638 |
 | Nothing To Lose | 39.00% | ~90,322 |
 | What's Yours Is Mine | 38.00% | ~88,006 |
-| R.I.P | 36.00% | ~83,374 |
-| Shootout | 35.00% | ~81,058 |
-| Cold Hearted | 34.00% | ~78,742 |
-| I Am Overburdened | 34.00% | ~78,742 |
-| Dig Your Own Grave | 33.00% | ~76,426 |
-| Toxic | 33.00% | ~76,426 |
-| Who To Trust? | 32.00% | ~74,110 |
+| R.I.P | 36.00% | ~83,375 |
+| Shootout | 35.00% | ~81,059 |
+| Cold Hearted | 34.00% | ~78,743 |
+| I Am Overburdened | 34.00% | ~78,743 |
+| Dig Your Own Grave | 33.00% | ~76,427 |
+| Toxic | 33.00% | ~76,427 |
+| Who To Trust? | 32.00% | ~74,111 |
 | Flesh Wound | 29.00% | ~67,163 |
 | Walk It Off | 27.00% | ~62,531 |
 | Stone Touch | 27.00% | ~62,531 |
@@ -59,8 +59,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 14.00% | ~32,423 |
 | A Rough Road | 13.00% | ~30,107 |
 | Chain Reaction | 13.00% | ~30,107 |
-| Berzerker | 12.00% | ~27,791 |
-| Antivenom | 11.00% | ~25,475 |
+| Berzerker | 12.00% | ~27,792 |
+| Antivenom | 11.00% | ~25,476 |
 | Thank You, Friend | 10.00% | ~23,160 |
 | Barbecue | 10.00% | ~23,160 |
 | Snake Sneak | 9.00% | ~20,844 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~926 |
 | Near Death Experience | 0.30% | ~695 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,595 (Ranked 46)  
+Progressed: 231,596 (Ranked 46)  
 Completed: 241 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 241 (0.10%) (Ranked 177)
 | 2023-06-25 | 231,434 | 240 |
 | 2023-06-26 | 231,493 | 240 |
 | 2023-06-27 | 231,545 | 241 |
-| 2023-06-28 | 231,595 | 241 |
+| 2023-06-28 | 231,596 | 241 |
 ## Awards
 Max (Quickly Understood Controls): 1,482  (Ranked 119)  
 Sum: 11,469 (Ranked 75)  

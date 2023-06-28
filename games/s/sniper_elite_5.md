@@ -22,6 +22,7 @@ Rating: 4.47 (Ranked 594)
 | The Kraken Wakes | 2.00% | ~63 |
 | The Kraken Sleeps | 2.00% | ~63 |
 | Climbing the Ladder | 1.00% | ~32 |
+| Opposing Force | 1.00% | ~32 |
 | Just a Flesh Wound | 1.00% | ~32 |
 | Organ Grinder | 1.00% | ~32 |
 | Gunslinger | 1.00% | ~32 |
@@ -31,7 +32,6 @@ Rating: 4.47 (Ranked 594)
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~28 |
-| Opposing Force | 0.90% | ~28 |
 | Enemy at the Gates | 0.90% | ~28 |
 | Fields of Glory | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |

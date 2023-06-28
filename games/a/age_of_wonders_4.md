@@ -17,29 +17,29 @@ Rating: 4.59 (Ranked 409)
 | Mighty Hoard | 0.50% | ~24 |
 | Walls Cannot Stop Us | 0.40% | ~19 |
 | Bone Peddler | 0.40% | ~19 |
+| Full Ascension | 0.30% | ~15 |
 | Seat of Power | 0.30% | ~15 |
 | Fiery Friend | 0.30% | ~15 |
+| Against the Odds | 0.30% | ~15 |
 | Impenetrable Fortress | 0.30% | ~15 |
+| Intimidation Tactics | 0.30% | ~15 |
 | Blood of the Dragon | 0.30% | ~15 |
 | Valley of Wonders | 0.20% | ~10 |
 | There Can Only Be One! | 0.20% | ~10 |
-| Full Ascension | 0.20% | ~10 |
+| Return of the Wizard King | 0.20% | ~10 |
+| Enchanted Archipelago | 0.20% | ~10 |
+| Eternal Lord | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Preparation Is Everything | 0.20% | ~10 |
-| Against the Odds | 0.20% | ~10 |
-| Intimidation Tactics | 0.20% | ~10 |
 | Duality | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| Return of the Wizard King | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |
-| Enchanted Archipelago | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
-| Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |

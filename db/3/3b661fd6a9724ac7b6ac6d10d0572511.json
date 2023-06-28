@@ -802,9 +802,9 @@
       "Count": 179
     }
   ],
-  "EOS_Progressed": 1365077,
-  "EOS_Completed": 261,
-  "EOS_NewPlayers": 84785,
+  "EOS_Progressed": 1365448,
+  "EOS_Completed": 262,
+  "EOS_NewPlayers": 84370,
   "EOS_NewCompleters": 66,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3092,6 +3092,11 @@
       "Time": "2023-06-28T20:06:57.5733407+00:00",
       "NumProgressed": 1365077,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2023-06-28T21:06:39.1286142+00:00",
+      "NumProgressed": 1365448,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 1328,
@@ -4303,7 +4308,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "brooklyn_2",
@@ -7717,9 +7722,9 @@
       "ID": "guilty_of_crime",
       "SetID": "61cefe3",
       "Name": "Guilty of Crime",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1365
+      "UsersEstimate": 2731
     },
     {
       "ID": "halloween_1",
@@ -8815,7 +8820,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "no_turning_back",
@@ -8823,7 +8828,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "orange_1",
@@ -13711,7 +13716,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "you_shall_not_pass",
@@ -13726,13 +13731,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1365077,
-      "Completed": 261
+      "Progressed": 1365448,
+      "Completed": 262
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1365077,
+      "Progressed": 1365448,
       "Completed": 5
     }
   ],
@@ -13740,8 +13745,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-06-28T19:57:08.4057609+00:00",
-  "LastChanged_Achievements": "2023-06-28T20:06:57.5733403+00:00",
+  "LastChanged_Achievements": "2023-06-28T21:06:39.1286134+00:00",
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.6840261+00:00",
-  "LastUpdate_Ratings": "2023-06-28T19:57:08.4057614+00:00",
-  "LastUpdate_Achievements": "2023-06-28T20:06:57.5888769+00:00"
+  "LastUpdate_Ratings": "2023-06-28T20:57:19.8200935+00:00",
+  "LastUpdate_Achievements": "2023-06-28T21:06:39.1446187+00:00"
 }

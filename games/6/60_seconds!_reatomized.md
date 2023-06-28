@@ -5,29 +5,29 @@ Rating: 4.62 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~4,091 |
-| All thumbs | 91.00% | ~4,047 |
-| I will survive! | 91.00% | ~4,047 |
-| Home, sweet home | 89.00% | ~3,958 |
-| Survivalist | 88.00% | ~3,913 |
-| One way ticket | 83.00% | ~3,691 |
-| Last man standing | 77.00% | ~3,424 |
-| Family guy | 76.00% | ~3,380 |
-| Out of the Bag | 73.00% | ~3,246 |
-| The Dark Side | 67.00% | ~2,979 |
-| Duck and cover! | 63.00% | ~2,802 |
-| Souper! | 61.00% | ~2,713 |
-| Pacifist | 56.00% | ~2,490 |
-| 2-1-6 | 55.00% | ~2,446 |
-| A gift | 51.00% | ~2,268 |
-| Girl Power | 44.00% | ~1,957 |
-| What goes around... | 41.00% | ~1,823 |
-| Be Prepared | 35.00% | ~1,556 |
-| Unbreakable | 34.00% | ~1,512 |
-| Atomic drill | 32.00% | ~1,423 |
-| This is the end | 32.00% | ~1,423 |
-| Gotta get 'em all | 30.00% | ~1,334 |
-| Disco Roach | 26.00% | ~1,156 |
+| Prepper | 92.00% | ~4,093 |
+| All thumbs | 91.00% | ~4,049 |
+| I will survive! | 91.00% | ~4,049 |
+| Home, sweet home | 89.00% | ~3,960 |
+| Survivalist | 88.00% | ~3,915 |
+| One way ticket | 83.00% | ~3,693 |
+| Last man standing | 77.00% | ~3,426 |
+| Family guy | 76.00% | ~3,381 |
+| Out of the Bag | 73.00% | ~3,248 |
+| The Dark Side | 67.00% | ~2,981 |
+| Duck and cover! | 63.00% | ~2,803 |
+| Souper! | 61.00% | ~2,714 |
+| Pacifist | 56.00% | ~2,491 |
+| 2-1-6 | 55.00% | ~2,447 |
+| A gift | 51.00% | ~2,269 |
+| Girl Power | 44.00% | ~1,958 |
+| What goes around... | 41.00% | ~1,824 |
+| Be Prepared | 35.00% | ~1,557 |
+| Unbreakable | 34.00% | ~1,513 |
+| Atomic drill | 32.00% | ~1,424 |
+| This is the end | 32.00% | ~1,424 |
+| Gotta get 'em all | 30.00% | ~1,335 |
+| Disco Roach | 26.00% | ~1,157 |
 | Dawkins Residence | 19.00% | ~845 |
 | Rescue time! | 17.00% | ~756 |
 | New species | 16.00% | ~712 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 344)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,447 (Ranked 136)  
+Progressed: 4,449 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 1 (0.02%) (Ranked 210)
 | 2023-06-25 | 4,420 | 1 |
 | 2023-06-26 | 4,429 | 1 |
 | 2023-06-27 | 4,441 | 1 |
-| 2023-06-28 | 4,447 | 1 |
+| 2023-06-28 | 4,449 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

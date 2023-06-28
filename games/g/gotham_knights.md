@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,082 (Ranked 72)  
+Progressed: 66,083 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,21 +136,21 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,082 | 99 |
+| 2023-06-28 | 66,083 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,394  (Ranked 100)  
-Sum: 3,958 (Ranked 138)  
+Sum: 3,960 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,394 |
 | This game has Quickly Understood Controls | 202 |
+| This game is Relaxing | 201 |
 | This game is Extremely Fun | 201 |
-| This game is Relaxing | 200 |
 | This game has Amazing Characters | 199 |
 | This game is Great for Beginners | 193 |
 | This game has Diverse Characters | 192 |
-| This game has Amazing Storytelling | 190 |
+| This game has Amazing Storytelling | 191 |
 | This game is Highly Recommended | 187 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -283,4 +283,4 @@ Diff (max vs sum): -38
 | 2023-06-25 | 4.17 | 2,381 | 3,939 |
 | 2023-06-26 | 4.17 | 2,381 | 3,942 |
 | 2023-06-27 | 4.17 | 2,387 | 3,951 |
-| 2023-06-28 | 4.17 | 2,394 | 3,958 |
+| 2023-06-28 | 4.17 | 2,394 | 3,960 |

@@ -26,6 +26,7 @@
 | Strategist | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
+| Been There | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Merchant | 2.00% | ~2 |
 | Trouble at Fort Larius | 2.00% | ~2 |
@@ -33,7 +34,6 @@
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
 | Despised | 0.90% | ~1 |
-| Been There | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |

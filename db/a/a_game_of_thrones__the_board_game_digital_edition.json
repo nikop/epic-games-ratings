@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17053,
+  "EOS_Progressed": 17055,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8442,6 +8442,11 @@
       "Time": "2023-06-28T20:06:31.5183149+00:00",
       "NumProgressed": 17053,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-28T21:06:15.52204+00:00",
+      "NumProgressed": 17055,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8581,7 +8586,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "1032",
@@ -8589,7 +8594,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "1033",
@@ -8613,7 +8618,7 @@
       "Name": "Royal Fleet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "1036",
@@ -8628,15 +8633,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17053,
+      "Progressed": 17055,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-06-28T20:06:31.5183147+00:00",
+  "LastChanged_Achievements": "2023-06-28T21:06:15.5220392+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:28.0071998+00:00",
-  "LastUpdate_Ratings": "2023-06-28T20:00:36.5218073+00:00",
-  "LastUpdate_Achievements": "2023-06-28T20:06:31.5183638+00:00"
+  "LastUpdate_Ratings": "2023-06-28T21:00:07.8503529+00:00",
+  "LastUpdate_Achievements": "2023-06-28T21:06:15.5221831+00:00"
 }

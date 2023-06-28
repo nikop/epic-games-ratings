@@ -11,17 +11,17 @@ Number of Ratings: 743  (23.09.2022)
 | Blood splattered | 65.00% | ~27,906 |
 | Choo choo! | 62.00% | ~26,618 |
 | Groovy | 61.00% | ~26,189 |
-| Cleanup on aisle 4! | 57.00% | ~24,471 |
+| Cleanup on aisle 4! | 57.00% | ~24,472 |
 | Gold | 50.00% | ~21,466 |
 | The boat can leave now...tell the crew | 49.00% | ~21,037 |
-| Stand back boy! | 47.00% | ~20,178 |
+| Stand back boy! | 47.00% | ~20,179 |
 | Give me something to shoot! | 46.00% | ~19,749 |
-| Weird science | 44.00% | ~18,890 |
-| Chain reaction | 44.00% | ~18,890 |
-| What did you say, Blain? | 42.00% | ~18,031 |
-| Look mummy! A shark! | 41.00% | ~17,602 |
-| In the dark dark woods... | 39.00% | ~16,743 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,314 |
+| Weird science | 44.00% | ~18,891 |
+| Chain reaction | 44.00% | ~18,891 |
+| What did you say, Blain? | 42.00% | ~18,032 |
+| Look mummy! A shark! | 41.00% | ~17,603 |
+| In the dark dark woods... | 39.00% | ~16,744 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,315 |
 | Double tap | 37.00% | ~15,885 |
 | All of this has happened before… | 36.00% | ~15,456 |
 | Cranial blowout! | 36.00% | ~15,456 |
@@ -40,10 +40,10 @@ Number of Ratings: 743  (23.09.2022)
 | Leave the limbs you've lost | 22.00% | ~9,445 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,728 |
 | Take them down screaming | 18.00% | ~7,728 |
-| Bad Blood | 17.00% | ~7,298 |
-| Weapons expert | 17.00% | ~7,298 |
+| Bad Blood | 17.00% | ~7,299 |
+| Weapons expert | 17.00% | ~7,299 |
 | The bigger they are... | 15.00% | ~6,440 |
-| I'm going deeper underground | 14.00% | ~6,010 |
+| I'm going deeper underground | 14.00% | ~6,011 |
 | Well equipped | 12.00% | ~5,152 |
 | Into the deep | 12.00% | ~5,152 |
 | Damnedbusters | 9.00% | ~3,864 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~429 |
 | None more hard | 0.50% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,932 (Ranked 86)  
+Progressed: 42,933 (Ranked 86)  
 Completed: 25 (0.06%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,14 +142,14 @@ Completed: 25 (0.06%) (Ranked 194)
 | 2023-06-25 | 42,910 | 25 |
 | 2023-06-26 | 42,920 | 25 |
 | 2023-06-27 | 42,927 | 25 |
-| 2023-06-28 | 42,932 | 25 |
+| 2023-06-28 | 42,933 | 25 |
 ## Awards
-Max (Great Boss Battles): 795  (Ranked 152)  
-Sum: 2,419 (Ranked 173)  
+Max (Great Boss Battles): 796  (Ranked 152)  
+Sum: 2,420 (Ranked 173)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 795 |
+| This game has Great Boss Battles | 796 |
 | This game is Great for Beginners | 245 |
 | This game has Diverse Characters | 207 |
 | This game has Amazing Storytelling | 206 |
@@ -303,3 +303,4 @@ Diff (max vs sum): -21
 | 2023-06-23 | 4.69 | - | 794 | 2,417 |
 | 2023-06-24 | 4.69 | - | 795 | 2,418 |
 | 2023-06-25 | 4.69 | - | 795 | 2,419 |
+| 2023-06-28 | 4.69 | - | 796 | 2,420 |

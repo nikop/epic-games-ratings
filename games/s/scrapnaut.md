@@ -28,13 +28,13 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 17.00% | ~49 |
 | Mythical Smelter | 12.00% | ~34 |
 | Blacksmith | 11.00% | ~32 |
+| Forest Lord | 10.00% | ~29 |
 | Fuel | 10.00% | ~29 |
 | Master Of Management | 9.00% | ~26 |
-| Forest Lord | 9.00% | ~26 |
 | Smelting Master | 9.00% | ~26 |
 | Black Gold | 8.00% | ~23 |
 | Traveler | 4.00% | ~11 |
-| Survival Master | 3.00% | ~9 |
+| Survival Master | 4.00% | ~11 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
