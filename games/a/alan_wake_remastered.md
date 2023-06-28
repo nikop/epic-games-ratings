@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,616 |
-| Let There Be Light | 26.00% | ~14,667 |
-| Float Like a Butterfly | 25.00% | ~14,103 |
+| Follow the Light | 33.00% | ~18,617 |
+| Let There Be Light | 26.00% | ~14,668 |
+| Float Like a Butterfly | 25.00% | ~14,104 |
 | Nordic Walking | 20.00% | ~11,283 |
 | Bright Falls' Finest | 20.00% | ~11,283 |
 | Under a Thin Layer of Skin | 17.00% | ~9,590 |
@@ -19,9 +19,9 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 12.00% | ~6,770 |
 | Missed by a Mile | 12.00% | ~6,770 |
 | Damn Good Cup of Coffee | 12.00% | ~6,770 |
-| Wheels Within Wheels | 11.00% | ~6,205 |
-| They're Heeeeeere! | 11.00% | ~6,205 |
-| The Six-Gun Scribe | 11.00% | ~6,205 |
+| Wheels Within Wheels | 11.00% | ~6,206 |
+| They're Heeeeeere! | 11.00% | ~6,206 |
+| The Six-Gun Scribe | 11.00% | ~6,206 |
 | Heavy Metal | 10.00% | ~5,641 |
 | Iron Horse | 10.00% | ~5,641 |
 | Perchance to Dream | 10.00% | ~5,641 |
@@ -33,7 +33,7 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 9.00% | ~5,077 |
 | The Lady of the Light | 8.00% | ~4,513 |
 | Energized! | 8.00% | ~4,513 |
-| A Friend in Need | 8.00% | ~1,590 |
+| A Friend in Need | 8.00% | ~1,591 |
 | What Light Through Yonder Window | 7.00% | ~3,949 |
 | Right of Way | 7.00% | ~3,949 |
 | Tornado Wrangler | 6.00% | ~3,385 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,413 (Ranked 79)  
+Progressed: 56,414 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 56 (0.10%) (Ranked 176)
 | 2023-06-25 | 56,240 | 56 |
 | 2023-06-26 | 56,301 | 56 |
 | 2023-06-27 | 56,377 | 56 |
-| 2023-06-28 | 56,413 | 56 |
+| 2023-06-28 | 56,414 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

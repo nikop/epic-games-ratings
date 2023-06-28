@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,627 |
-| That's a Grand Army | 8.00% | ~5,001 |
-| That is mine! | 8.00% | ~5,001 |
-| Victorious! | 8.00% | ~5,001 |
-| Brothers in Arms | 6.00% | ~3,751 |
-| That's a Grand Navy | 6.00% | ~3,751 |
-| Seriously?! | 6.00% | ~3,751 |
-| For the Glory | 5.00% | ~3,126 |
+| Until death do us apart | 9.00% | ~5,628 |
+| That's a Grand Army | 8.00% | ~5,003 |
+| That is mine! | 8.00% | ~5,003 |
+| Victorious! | 8.00% | ~5,003 |
+| Brothers in Arms | 6.00% | ~3,752 |
+| That's a Grand Navy | 6.00% | ~3,752 |
+| Seriously?! | 6.00% | ~3,752 |
+| For the Glory | 5.00% | ~3,127 |
 | Cold War | 4.00% | ~2,501 |
 | True Catholic | 4.00% | ~2,501 |
 | Defender of the Faith | 3.00% | ~1,876 |
 | It's all about the money | 3.00% | ~1,876 |
 | Respected | 3.00% | ~1,876 |
 | Truly Divine Ruler | 3.00% | ~1,876 |
-| Agressive Expander | 2.00% | ~1,250 |
-| Blockader | 2.00% | ~1,250 |
-| Combined Arms | 2.00% | ~1,250 |
-| Double the Love | 2.00% | ~1,250 |
-| Gentle Persuasion | 2.00% | ~1,250 |
-| It's all about luck | 2.00% | ~1,250 |
-| My armies are invincible! | 2.00% | ~1,250 |
-| Queen of Conquest | 2.00% | ~1,250 |
-| Royal Authority | 2.00% | ~1,250 |
-| The Princess is in this Castle | 2.00% | ~1,250 |
-| Total Control | 2.00% | ~1,250 |
+| Agressive Expander | 2.00% | ~1,251 |
+| Blockader | 2.00% | ~1,251 |
+| Combined Arms | 2.00% | ~1,251 |
+| Double the Love | 2.00% | ~1,251 |
+| Gentle Persuasion | 2.00% | ~1,251 |
+| It's all about luck | 2.00% | ~1,251 |
+| My armies are invincible! | 2.00% | ~1,251 |
+| Queen of Conquest | 2.00% | ~1,251 |
+| Royal Authority | 2.00% | ~1,251 |
+| The Princess is in this Castle | 2.00% | ~1,251 |
+| Total Control | 2.00% | ~1,251 |
 | All That's Thine Shall Be Mine | 1.00% | ~625 |
 | Azur semé de lis or | 1.00% | ~625 |
 | Bright Spark | 1.00% | ~625 |
@@ -108,6 +108,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | AEIOU | 0.10% | ~63 |
 | African Power | 0.10% | ~63 |
 | Albania or Iberia | 0.10% | ~63 |
+| All Blue | 0.10% | ~63 |
 | Almost Prussian Blue | 0.10% | ~63 |
 | An Unlikely Candidate | 0.10% | ~63 |
 | Anglophile | 0.10% | ~63 |
@@ -325,7 +326,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Conqueror | 0.10% | ~63 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~63 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~63 |
-| All Blue | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,518 (Ranked 77)  
+Progressed: 62,537 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 61,352 | 0 |
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
-| 2023-06-28 | 62,518 | 0 |
+| 2023-06-28 | 62,537 | 0 |
 ## Awards
 Max (Educational): 5,461  (Ranked 61)  
 Sum: 45,139 (Ranked 27)  

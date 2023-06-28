@@ -20,15 +20,15 @@
 | I did it | 70.00% | ~7 |
 | Feels like springtime | 60.00% | ~6 |
 | Fashion victim | 60.00% | ~6 |
-| In this together | 40.00% | ~4 |
+| In this together | 50.00% | ~5 |
 | Peace walker | 40.00% | ~4 |
 | Half the way | 40.00% | ~4 |
 | Open door | 40.00% | ~4 |
 | Free at last | 30.00% | ~3 |
 | A great audience | 30.00% | ~3 |
+| For its own good | 30.00% | ~3 |
 | A Link to the Past | 30.00% | ~3 |
 | Alchemists Express | 30.00% | ~3 |
-| For its own good | 20.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 388)  
 Completed: 2 (20.00%) (Ranked 9)  

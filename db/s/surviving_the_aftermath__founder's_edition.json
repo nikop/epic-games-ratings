@@ -1095,7 +1095,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6879,
+  "EOS_Progressed": 6880,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
@@ -6795,6 +6795,11 @@
       "Time": "2023-06-28T13:21:13.1109174+00:00",
       "NumProgressed": 6879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T14:04:18.8894499+00:00",
+      "NumProgressed": 6880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6806,7 +6811,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4196
+      "UsersEstimate": 4197
     },
     {
       "ID": "10",
@@ -6814,7 +6819,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "11",
@@ -6854,15 +6859,15 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2890
     },
     {
       "ID": "17",
@@ -6910,7 +6915,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "22",
@@ -6918,7 +6923,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4884
+      "UsersEstimate": 4885
     },
     {
       "ID": "23",
@@ -6950,7 +6955,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "27",
@@ -6982,7 +6987,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "30",
@@ -7158,7 +7163,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "50",
@@ -7254,7 +7259,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "8",
@@ -7262,7 +7267,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "9",
@@ -7277,15 +7282,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6879,
+      "Progressed": 6880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-06-28T13:21:13.1109169+00:00",
+  "LastChanged_Achievements": "2023-06-28T14:04:18.8894493+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.3280658+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:17:00.3754547+00:00",
-  "LastUpdate_Achievements": "2023-06-28T13:21:13.1110762+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:01:04.3677547+00:00",
+  "LastUpdate_Achievements": "2023-06-28T14:04:18.8895508+00:00"
 }

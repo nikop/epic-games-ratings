@@ -6,13 +6,13 @@ Rating: 4.59 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.70% | ~34 |
+| Realm Estate | 0.50% | ~24 |
 | Tipping the Scales | 0.50% | ~24 |
-| Realm Estate | 0.40% | ~19 |
+| Mighty Hoard | 0.50% | ~24 |
 | A Wonderful Discovery | 0.40% | ~19 |
 | From Friends to Family | 0.40% | ~19 |
 | Stronger Together | 0.40% | ~19 |
 | My Final Form | 0.40% | ~19 |
-| Mighty Hoard | 0.40% | ~19 |
 | Walls Cannot Stop Us | 0.30% | ~15 |
 | Bone Peddler | 0.30% | ~15 |
 | Magical Synergy | 0.30% | ~15 |
@@ -57,7 +57,7 @@ Rating: 4.59 (Ranked 409)
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,864 (Ranked 133)  
-Completed: 4 (0.08%) (Ranked 185)  
+Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -42,11 +42,11 @@ Rating: 3.51 (Ranked 945)
 | Good Morning | 3.00% | ~51 |
 | Harvest’s End | 3.00% | ~51 |
 | Blacklight Down | 3.00% | ~51 |
+| Curious Finch | 3.00% | ~51 |
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
 | Dexterity Save | 2.00% | ~34 |
-| Curious Finch | 2.00% | ~34 |
 | Neighborhood Watch | 1.00% | ~17 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |

@@ -26,6 +26,7 @@ Rating: 4.47 (Ranked 594)
 | Gunslinger | 1.00% | ~32 |
 | Skirmisher | 1.00% | ~32 |
 | Set Europe Ablaze | 1.00% | ~32 |
+| Rigged to Blow | 1.00% | ~32 |
 | Close Quarters | 1.00% | ~32 |
 | Snake in the Grass | 1.00% | ~32 |
 | Brains of the Operation | 1.00% | ~32 |
@@ -33,16 +34,15 @@ Rating: 4.47 (Ranked 594)
 | Opposing Force | 0.90% | ~28 |
 | Enemy at the Gates | 0.90% | ~28 |
 | Precision Is Key | 0.90% | ~28 |
-| Rigged to Blow | 0.90% | ~28 |
 | My Little Friend | 0.90% | ~28 |
 | Die Nussknacker Sweet! | 0.90% | ~28 |
 | Fields of Glory | 0.80% | ~25 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
+| Operation Foxley | 0.60% | ~19 |
 | Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
-| Operation Foxley | 0.50% | ~16 |
 | Last Resort | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |
 | Ghost of Falaise | 0.50% | ~16 |
@@ -62,7 +62,9 @@ Rating: 4.47 (Ranked 594)
 | Can't Outrun A Bullet | 0.30% | ~9 |
 | Führerious Repetition | 0.30% | ~9 |
 | Reich To The Point | 0.30% | ~9 |
+| From Führer Away | 0.30% | ~9 |
 | Covert Elimination | 0.30% | ~9 |
+| Alpha | 0.30% | ~9 |
 | Sink or Swim | 0.30% | ~9 |
 | Going Overboard | 0.30% | ~9 |
 | Best of the Best | 0.20% | ~6 |
@@ -71,8 +73,6 @@ Rating: 4.47 (Ranked 594)
 | Master of Rifles | 0.20% | ~6 |
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
-| From Führer Away | 0.20% | ~6 |
-| Alpha | 0.20% | ~6 |
 | Das Familienjuwel | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 | Stroll in the Woods | 0.20% | ~6 |

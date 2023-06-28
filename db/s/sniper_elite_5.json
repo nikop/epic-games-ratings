@@ -3,11 +3,11 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 594,
-  "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 501,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -364,7 +364,7 @@
   "Tags": [],
   "EOS_Progressed": 3155,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4645,9 +4645,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4901,9 +4901,9 @@
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
       "SetID": "83mdf7p",
       "Name": "From F\u00FChrer Away",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -4917,9 +4917,9 @@
       "ID": "REWARD_DLC01_05_ALPHA",
       "SetID": "83mdf7p",
       "Name": "Alpha",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -4933,9 +4933,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -5044,8 +5044,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-23T20:00:11.2614261+00:00",
-  "LastChanged_Achievements": "2023-06-28T13:23:35.1556018+00:00",
+  "LastChanged_Achievements": "2023-06-28T14:07:39.5240574+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:17:27.8009025+00:00",
-  "LastUpdate_Achievements": "2023-06-28T13:23:35.1557005+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:01:47.273865+00:00",
+  "LastUpdate_Achievements": "2023-06-28T14:07:39.5241761+00:00"
 }
