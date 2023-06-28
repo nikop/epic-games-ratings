@@ -2,19 +2,19 @@
 | - | ---- | --------- |
 | 1 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 33.33% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.86% |
-| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.95% |
-| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 20.00% |
+| 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
+| 5 | [Overloop](games/o/overloop.md) | 25.00% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.58% |
+| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.58% |
 | 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.15% |
 | 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.71% |
-| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
+| 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
@@ -43,7 +43,7 @@
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.83% |
-| 44 | [Doodle God](games/d/doodle_god.md) | 3.69% |
+| 44 | [Doodle God](games/d/doodle_god.md) | 3.67% |
 | 45 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.57% |
@@ -64,18 +64,18 @@
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.60% |
-| 65 | [FORECLOSED](games/f/foreclosed.md) | 2.50% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 66 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.37% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 73 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 74 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.93% |
-| 76 | [Frogun](games/f/frogun.md) | 1.92% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.92% |
+| 75 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
