@@ -230,6 +230,7 @@
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
 | [Last Labyrinth](../games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 35 | 1,000 |
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
+| [Reverie - Sweet As Edition](../games/r/reverie_-_sweet_as_edition.md) | 35 | 1,000 |
 | [Sonic Origins](../games/s/sonic_origins.md) | 35 | 1,000 |
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
@@ -317,6 +318,7 @@
 | [Recollection](../games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 26 | 1,000 |
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
+| [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |
 | [Chants of Sennaar](../games/c/chants_of_sennaar.md) | 25 | 1,000 |

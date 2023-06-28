@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 31.25% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.86% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -22,12 +22,12 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 9.38% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.57% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.25% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -69,7 +69,7 @@
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.38% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
-| 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
+| 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 73 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
@@ -184,18 +184,18 @@
 | 182 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 182 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 182 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 185 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.08% |
 | 185 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 185 | [Shop Titans](games/s/shop_titans.md) | 0.08% |
 | 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
 | 185 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
-| 189 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
-| 189 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
-| 189 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 189 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 193 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.06% |
-| 193 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
-| 193 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 193 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 190 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
+| 190 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
+| 190 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 190 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 194 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
+| 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 194 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 197 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 197 | [House Party](games/h/house_party.md) | 0.05% |
 | 197 | [Saints Row](games/s/saints_row.md) | 0.05% |
@@ -231,6 +231,7 @@
 | 218 | [Verdun](games/v/verdun.md) | 0.01% |
 | 230 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.00% |
 | 230 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
+| 230 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 230 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 230 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
 | 230 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
@@ -474,4 +475,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,845 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,846 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

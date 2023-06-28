@@ -35,6 +35,7 @@
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
 | [](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
+| [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [60 Seconds! Reatomized](../games/6/60_seconds!_reatomized.md) | 60 | 1,000 |
 | [A Game Of Thrones: The Board Game Digital Edition](../games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 22 | 1,000 |
@@ -347,6 +348,7 @@
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
+| [Reverie - Sweet As Edition](../games/r/reverie_-_sweet_as_edition.md) | 35 | 1,000 |
 | [Reyna Darkness](../games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 13 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
