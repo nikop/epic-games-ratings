@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 501 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.93 | 0 | 501 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 21 | 489 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,498 | 118 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,500 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,149 | 89 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 501 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 501 |
@@ -75,7 +75,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,213 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
-| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,415 | 121 |
+| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,419 | 121 |
 | 75 | [Journey](games/j/journey.md) | 4.81 | 0 | 501 |
 | 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 214 | 259 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 463 |
@@ -200,7 +200,7 @@
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,538 | 69 |
 | 198 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 370 | 215 |
 | 198 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,444 | 70 |
-| 198 | [For The King](games/f/for_the_king.md) | 4.70 | 371 | 214 |
+| 198 | [For The King](games/f/for_the_king.md) | 4.70 | 373 | 213 |
 | 198 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 501 |
 | 198 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 501 |
 | 198 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.70 | 0 | 501 |
@@ -291,7 +291,7 @@
 | 273 | [SOMA](games/s/soma.md) | 4.66 | 0 | 501 |
 | 273 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 445 |
 | 273 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.66 | 0 | 501 |
-| 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 488 | 192 |
+| 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 490 | 192 |
 | 273 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 73 | 362 |
 | 273 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 501 |
 | 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,797 | 57 |
@@ -416,11 +416,11 @@
 | 409 | [Returnal™](games/r/returnal™.md) | 4.59 | 49 | 399 |
 | 409 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
 | 409 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 289 | 234 |
-| 409 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 697 | 162 |
+| 409 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 698 | 161 |
 | 409 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 261 |
 | 409 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
 | 420 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 501 |
-| 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,347 | 11 |
+| 420 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,391 | 11 |
 | 420 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
 | 420 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 501 |
 | 420 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,064 | 40 |
@@ -608,7 +608,7 @@
 | 604 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 501 |
 | 604 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 501 |
 | 604 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 49 | 399 |
-| 604 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,393 | 82 |
+| 604 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,396 | 82 |
 | 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.46 | 0 | 501 |
 | 604 | [Faeria](games/f/faeria.md) | 4.46 | 108 | 320 |
 | 604 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 321 |
@@ -765,12 +765,12 @@
 | 759 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.32 | 0 | 501 |
 | 759 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 458 |
 | 759 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 501 |
+| 759 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.32 | 41 | 415 |
 | 759 | [Vampyr](games/v/vampyr.md) | 4.32 | 549 | 183 |
-| 767 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 501 |
-| 767 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 74 | 359 |
-| 767 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 952 | 145 |
-| 767 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 501 |
-| 767 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.31 | 41 | 415 |
+| 768 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 501 |
+| 768 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 74 | 359 |
+| 768 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 952 | 145 |
+| 768 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 501 |
 | 772 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 501 |
 | 772 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 501 |
 | 772 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 501 |
@@ -912,7 +912,7 @@
 | 910 | [Banished](games/b/banished.md) | 4.00 | 0 | 501 |
 | 910 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 501 |
 | 910 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 501 |
-| 913 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 213 |
+| 913 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 214 |
 | 913 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,637 | 68 |
 | 915 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 501 |
 | 915 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,425 | 96 |
