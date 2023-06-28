@@ -4757,9 +4757,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "23",
@@ -4773,9 +4773,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "25",
@@ -5005,9 +5005,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "47",
@@ -5060,8 +5060,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-27T23:05:05.4909359+00:00",
+  "LastChanged_Achievements": "2023-06-28T00:05:03.9377956+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:59:18.6360062+00:00",
-  "LastUpdate_Achievements": "2023-06-27T23:05:05.4910099+00:00"
+  "LastUpdate_Ratings": "2023-06-27T23:59:15.9900482+00:00",
+  "LastUpdate_Achievements": "2023-06-28T00:05:03.9378512+00:00"
 }

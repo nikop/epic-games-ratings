@@ -8,10 +8,10 @@ Number of Ratings: 209  (23.09.2022)
 | ---- | ---------- | ----- |
 | Good Morning | 99.00% | ~2,105 |
 | Hit Rock Bottom | 97.00% | ~2,062 |
+| High Jump | 97.00% | ~2,062 |
+| Knee bending | 97.00% | ~2,062 |
 | Rocket Launched | 97.00% | ~2,062 |
 | Speed | 97.00% | ~2,062 |
-| High Jump | 96.00% | ~2,041 |
-| Knee bending | 96.00% | ~2,041 |
 | Pickaxe | 94.00% | ~1,998 |
 | Revenge | 94.00% | ~1,998 |
 | Cage Town | 94.00% | ~1,998 |

@@ -1,26 +1,26 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 767)  
+Rating: 4.31 (Ranked 768)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,629 |
-| Powergamer | 27.00% | ~63,285 |
-| Barely scratched the surface | 25.00% | ~58,597 |
-| Write that down | 24.00% | ~56,253 |
+| I will finish what you started | 28.00% | ~65,630 |
+| Powergamer | 27.00% | ~63,286 |
+| Barely scratched the surface | 25.00% | ~58,598 |
+| Write that down | 24.00% | ~56,255 |
 | Guns, lots of guns | 12.00% | ~28,127 |
 | Collector | 11.00% | ~25,783 |
 | Elementary! | 9.00% | ~21,095 |
-| Pumpkin Jack | 8.00% | ~18,751 |
-| Wake up! | 8.00% | ~18,751 |
-| It's honest work | 7.00% | ~16,407 |
-| Griever | 7.00% | ~16,407 |
-| Me smart | 6.00% | ~14,063 |
-| Good listener | 5.00% | ~11,719 |
-| Trash compactor | 5.00% | ~11,719 |
-| Valedictorian | 5.00% | ~11,719 |
+| Pumpkin Jack | 8.00% | ~18,752 |
+| Wake up! | 8.00% | ~18,752 |
+| It's honest work | 7.00% | ~16,408 |
+| Griever | 7.00% | ~16,408 |
+| Me smart | 6.00% | ~14,064 |
+| Good listener | 5.00% | ~11,720 |
+| Trash compactor | 5.00% | ~11,720 |
+| Valedictorian | 5.00% | ~11,720 |
 | BOY! | 4.00% | ~9,376 |
 | Ka-ching! | 4.00% | ~9,376 |
 | So you like to read? | 4.00% | ~9,376 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~469 |
 | Memory 5 | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,389 (Ranked 44)  
+Progressed: 234,394 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 7 (0.00%) (Ranked 230)
 | 2023-06-25 | 234,034 | 7 |
 | 2023-06-26 | 234,200 | 7 |
 | 2023-06-27 | 234,389 | 7 |
+| 2023-06-28 | 234,394 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 359)  
 Sum: 74 (Ranked 422)  

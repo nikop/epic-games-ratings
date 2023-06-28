@@ -10,9 +10,9 @@
 | Nanonic I | 6.00% | ~38 |
 | Terminated I | 6.00% | ~38 |
 | Unlocked and Loaded | 6.00% | ~38 |
+| Challenge Mastered | 5.00% | ~32 |
 | Terminated II | 5.00% | ~32 |
 | Terminated III | 5.00% | ~32 |
-| Challenge Mastered | 4.00% | ~25 |
 | Cybernetic | 3.00% | ~19 |
 | Nanonic II | 3.00% | ~19 |
 | Nanonic III | 3.00% | ~19 |

@@ -16,8 +16,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 0.70% | ~157 |
 | King and Kin | 0.60% | ~134 |
 | Prequel to the Sequel | 0.60% | ~134 |
+| Truly Blessed | 0.40% | ~90 |
 | For Glory | 0.40% | ~90 |
-| Truly Blessed | 0.30% | ~67 |
 | Pillow Investments | 0.30% | ~67 |
 | Looks Familiar | 0.30% | ~67 |
 | For Justice | 0.20% | ~45 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,376 (Ranked 97)  
+Progressed: 22,377 (Ranked 97)  
 Completed: 35 (0.16%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,9 +115,10 @@ Completed: 35 (0.16%) (Ranked 164)
 | 2023-06-25 | 22,362 | 35 |
 | 2023-06-26 | 22,368 | 35 |
 | 2023-06-27 | 22,376 | 35 |
+| 2023-06-28 | 22,377 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 254)  
-Sum: 1,653 (Ranked 207)  
+Sum: 1,654 (Ranked 207)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -127,8 +128,8 @@ Diff (max vs sum): 47
 | This game has Challenging Combat | 191 |
 | This game is Highly Recommended | 189 |
 | This game is Relaxing | 182 |
+| This game has Amazing Characters | 163 |
 | This game has Amazing Storytelling | 162 |
-| This game has Amazing Characters | 162 |
 | This game has Playful Visuals | 151 |
 | This game has Obsessive Gameplay | 123 |
 ## Ratings History
@@ -223,3 +224,4 @@ Diff (max vs sum): 47
 | 2023-06-17 | 4.85 | - | 218 | 1,650 |
 | 2023-06-19 | 4.85 | - | 218 | 1,652 |
 | 2023-06-25 | 4.85 | - | 218 | 1,653 |
+| 2023-06-27 | 4.85 | - | 218 | 1,654 |

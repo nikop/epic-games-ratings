@@ -5,12 +5,12 @@ Rating: 4.59 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 0.40% | ~19 |
+| Secret Technique | 0.50% | ~24 |
+| Tipping the Scales | 0.40% | ~19 |
+| Realm Estate | 0.30% | ~15 |
 | A Wonderful Discovery | 0.30% | ~15 |
 | My Final Form | 0.30% | ~15 |
-| Tipping the Scales | 0.30% | ~15 |
 | Mighty Hoard | 0.30% | ~15 |
-| Realm Estate | 0.20% | ~10 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
 | From Friends to Family | 0.20% | ~10 |

@@ -7,17 +7,17 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 72.00% | ~3,007 |
-| Having A Field Day | 71.00% | ~2,965 |
+| Having A Field Day | 72.00% | ~3,007 |
 | Reap What You Sow | 69.00% | ~2,881 |
 | The First Day | 66.00% | ~2,756 |
 | Green Thumb | 65.00% | ~2,714 |
 | Novice Researcher | 63.00% | ~2,631 |
 | Putting Food on the Table | 59.00% | ~2,464 |
 | Onward | 54.00% | ~2,255 |
-| Home Cooked Meal | 52.00% | ~2,172 |
+| Home Cooked Meal | 53.00% | ~2,213 |
 | The First Week | 52.00% | ~2,172 |
+| Studious Researcher | 50.00% | ~2,088 |
 | Feast or Famine | 49.00% | ~2,046 |
-| Studious Researcher | 49.00% | ~2,046 |
 | Beam Me Up | 48.00% | ~2,004 |
 | Adept Researcher | 44.00% | ~1,837 |
 | Retribution | 38.00% | ~1,587 |

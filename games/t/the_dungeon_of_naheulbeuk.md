@@ -6,54 +6,54 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 93.00% | ~218 |
-| Where's that freaking Dwarf? | 87.00% | ~204 |
-| Sock! SOCK! | 70.00% | ~164 |
-| Fireproof Wizardess | 56.00% | ~131 |
-| Livin' in a dwarven paradise | 53.00% | ~124 |
-| Déjà vu | 52.00% | ~122 |
-| GG EZ | 51.00% | ~119 |
-| Way of the Wimp | 45.00% | ~105 |
-| DM intervention | 45.00% | ~105 |
-| Oh, when I'll be level 10... | 37.00% | ~87 |
-| Speedrun | 35.00% | ~82 |
-| A beer, two curses, three companions | 34.00% | ~80 |
-| The plot thickens... At the tavern | 33.00% | ~77 |
-| Team Building Exercise | 32.00% | ~75 |
+| Alt+F4 | 92.00% | ~217 |
+| Where's that freaking Dwarf? | 86.00% | ~203 |
+| Sock! SOCK! | 69.00% | ~163 |
+| Fireproof Wizardess | 56.00% | ~132 |
+| Livin' in a dwarven paradise | 53.00% | ~125 |
+| Déjà vu | 51.00% | ~120 |
+| GG EZ | 50.00% | ~118 |
+| DM intervention | 45.00% | ~106 |
+| Way of the Wimp | 44.00% | ~104 |
+| Oh, when I'll be level 10... | 36.00% | ~85 |
+| Speedrun | 34.00% | ~80 |
+| A beer, two curses, three companions | 33.00% | ~78 |
+| The plot thickens... At the tavern | 33.00% | ~78 |
+| Team Building Exercise | 32.00% | ~76 |
 | I am the night | 31.00% | ~73 |
-| Dwarf Fortress | 30.00% | ~70 |
-| The Ranger of Chaos | 30.00% | ~70 |
-| Thieves' Guild Accreditation | 29.00% | ~68 |
+| Dwarf Fortress | 30.00% | ~71 |
+| The Ranger of Chaos | 30.00% | ~71 |
+| Thieves' Guild Accreditation | 28.00% | ~66 |
 | Look but don't touch | 26.00% | ~61 |
-| The demons' feast | 24.00% | ~56 |
-| The Great Library | 24.00% | ~56 |
-| Shiny and Crôm | 22.00% | ~51 |
-| The Statuette of Gladeulfeurah | 22.00% | ~51 |
-| A tale of adventurers not quite like the others... | 22.00% | ~51 |
-| Gargantua | 22.00% | ~51 |
-| Material Girl | 22.00% | ~51 |
-| Torture and Sensibility | 21.00% | ~49 |
-| The beards of change | 21.00% | ~49 |
-| In Navalu's footsteps | 19.00% | ~44 |
+| The demons' feast | 24.00% | ~57 |
+| The Great Library | 24.00% | ~57 |
+| Shiny and Crôm | 22.00% | ~52 |
+| The Statuette of Gladeulfeurah | 22.00% | ~52 |
+| A tale of adventurers not quite like the others... | 22.00% | ~52 |
+| Gargantua | 22.00% | ~52 |
+| Material Girl | 22.00% | ~52 |
+| Torture and Sensibility | 21.00% | ~50 |
+| The beards of change | 21.00% | ~50 |
+| In Navalu's footsteps | 19.00% | ~45 |
 | The Woman in the High Castle | 18.00% | ~42 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~42 |
-| Urik's Depths | 16.00% | ~37 |
-| The Blood Countess | 16.00% | ~37 |
+| Urik's Depths | 16.00% | ~38 |
+| The Blood Countess | 16.00% | ~38 |
 | Cursed die | 14.00% | ~33 |
-| Law and Order | 13.00% | ~30 |
-| The Dungeon Master | 12.00% | ~28 |
+| Law and Order | 13.00% | ~31 |
 | Res Judicata | 12.00% | ~28 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~28 |
 | Dead for good | 12.00% | ~28 |
-| It's been a hard day's night | 10.00% | ~23 |
+| The Dungeon Master | 11.00% | ~26 |
+| It's been a hard day's night | 10.00% | ~24 |
 | Necrophilia | 9.00% | ~21 |
-| He’s alive! Aliiiive! | 9.00% | ~21 |
 | Scholar of the Lands of Fangh | 8.00% | ~19 |
+| He’s alive! Aliiiive! | 8.00% | ~19 |
 | Egghead | 8.00% | ~19 |
 | Lust and Debauchery | 8.00% | ~19 |
-| Elite Adventurers | 7.00% | ~16 |
-| Free customer service | 7.00% | ~16 |
-| Lëgal Legend | 7.00% | ~16 |
+| Elite Adventurers | 7.00% | ~17 |
+| Free customer service | 7.00% | ~17 |
+| Lëgal Legend | 7.00% | ~17 |
 | An old poacher makes the best gamekeeper | 6.00% | ~14 |
 | We come in peace | 6.00% | ~14 |
 | Inception | 6.00% | ~14 |
@@ -75,14 +75,14 @@ Number of Ratings: 118  (23.09.2022)
 | Demisemiquaver | 2.00% | ~5 |
 | The number of the counting shalt be 7 | 1.00% | ~2 |
 | Mystical Dungeon | 1.00% | ~2 |
-| King of the Arena | 0.90% | ~2 |
-| Finally free | 0.90% | ~2 |
-| Imposture and Trowels | 0.90% | ~2 |
-| Cute Dungeon | 0.90% | ~2 |
-| And they lived happily ever after... | 0.90% | ~2 |
-| Star-crossed lovers | 0.90% | ~2 |
-| Pyrrhic victory | 0.90% | ~2 |
-| 100% satisfaction guarantee | 0.90% | ~2 |
+| King of the Arena | 0.80% | ~2 |
+| Finally free | 0.80% | ~2 |
+| Imposture and Trowels | 0.80% | ~2 |
+| Cute Dungeon | 0.80% | ~2 |
+| And they lived happily ever after... | 0.80% | ~2 |
+| Star-crossed lovers | 0.80% | ~2 |
+| Pyrrhic victory | 0.80% | ~2 |
+| 100% satisfaction guarantee | 0.80% | ~2 |
 | Hoarding | 0.40% | ~1 |
 | Staff cut | 0.40% | ~1 |
 | Legendary brew | 0.40% | ~1 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 251)  
+Progressed: 236 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 219 | 0 |
 | 2023-06-26 | 229 | 0 |
 | 2023-06-27 | 234 | 0 |
+| 2023-06-28 | 236 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

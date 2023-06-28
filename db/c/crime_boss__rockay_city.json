@@ -2274,9 +2274,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67885,
+  "EOS_Progressed": 67886,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9454,6 +9454,11 @@
       "Time": "2023-06-27T23:03:21.3439328+00:00",
       "NumProgressed": 67885,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-28T00:03:20.2178816+00:00",
+      "NumProgressed": 67886,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 37,
@@ -9465,7 +9470,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 33942
+      "UsersEstimate": 33943
     },
     {
       "ID": "ACH_0011",
@@ -9561,7 +9566,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6788
+      "UsersEstimate": 6789
     },
     {
       "ID": "ACH_0061",
@@ -9609,7 +9614,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44125
+      "UsersEstimate": 44126
     },
     {
       "ID": "ACH_0210",
@@ -9617,7 +9622,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50235
+      "UsersEstimate": 50236
     },
     {
       "ID": "ACH_0211",
@@ -9737,7 +9742,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11540
+      "UsersEstimate": 11541
     },
     {
       "ID": "ACH_0460",
@@ -9760,7 +9765,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67885,
+      "Progressed": 67886,
       "Completed": 34
     }
   ],
@@ -9768,8 +9773,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-27T12:00:15.5003854+00:00",
-  "LastChanged_Achievements": "2023-06-27T23:03:21.3439323+00:00",
+  "LastChanged_Achievements": "2023-06-28T00:03:20.2178813+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:59:42.3222176+00:00",
-  "LastUpdate_Achievements": "2023-06-27T23:03:21.3440049+00:00"
+  "LastUpdate_Ratings": "2023-06-27T23:59:40.5442301+00:00",
+  "LastUpdate_Achievements": "2023-06-28T00:03:20.2179346+00:00"
 }

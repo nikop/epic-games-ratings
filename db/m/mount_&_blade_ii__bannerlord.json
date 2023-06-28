@@ -5157,9 +5157,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54371,
+  "EOS_Progressed": 54372,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12182,6 +12182,11 @@
       "Time": "2023-06-27T23:06:03.5436335+00:00",
       "NumProgressed": 54371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T00:06:01.5554086+00:00",
+      "NumProgressed": 54372,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12385,7 +12390,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8699
+      "UsersEstimate": 8700
     },
     {
       "ID": "Kingslayer",
@@ -12600,15 +12605,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54371,
+      "Progressed": 54372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-27T18:59:51.1473072+00:00",
-  "LastChanged_Achievements": "2023-06-27T23:06:03.5436327+00:00",
+  "LastChanged_Achievements": "2023-06-28T00:06:01.5554082+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-27T22:59:29.663547+00:00",
-  "LastUpdate_Achievements": "2023-06-27T23:06:03.5437093+00:00"
+  "LastUpdate_Ratings": "2023-06-27T23:59:27.5779656+00:00",
+  "LastUpdate_Achievements": "2023-06-28T00:06:01.5554721+00:00"
 }
