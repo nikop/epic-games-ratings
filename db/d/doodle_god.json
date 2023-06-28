@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.67,
+  "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-06-28T15:07:31.6011752+00:00",
       "NumProgressed": 218,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-28T17:06:29.5497138+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -170,9 +175,9 @@
       "ID": "605732",
       "SetID": "4lpaifm",
       "Name": "Good Start",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "605742",
@@ -188,7 +193,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "605762",
@@ -196,7 +201,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "605772",
@@ -218,9 +223,9 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "605802",
@@ -282,9 +287,9 @@
       "ID": "605872",
       "SetID": "4lpaifm",
       "Name": "Practice Makes Perfect",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "605892",
@@ -292,15 +297,15 @@
       "Name": "Similar to Similar",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "605912",
       "SetID": "4lpaifm",
       "Name": "Master of Alchemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "605942",
@@ -316,7 +321,7 @@
       "Name": "Greatest inventor",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "610001",
@@ -347,7 +352,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 8
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:06:18.6889624+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:06:29.549713+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:26.7283835+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:59:31.1282187+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:06:18.6889794+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:59:50.6704648+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:06:29.5497412+00:00"
 }

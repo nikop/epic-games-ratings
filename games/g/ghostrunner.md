@@ -7,8 +7,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 77.00% | ~8,432 |
-| Sword Runner | 63.00% | ~6,898 |
-| Wallrunner | 56.00% | ~6,132 |
+| Sword Runner | 63.00% | ~6,899 |
+| Wallrunner | 56.00% | ~6,133 |
 | Running out of breath | 55.00% | ~6,023 |
 | Homerunner | 46.00% | ~5,037 |
 | Out of order | 46.00% | ~5,037 |
@@ -16,18 +16,18 @@ Number of Ratings: 1,047  (23.09.2022)
 | Where are my Keys? | 42.00% | ~4,599 |
 | Back to hell | 38.00% | ~4,161 |
 | Perfection | 33.00% | ~3,614 |
-| Why not both | 31.00% | ~3,394 |
+| Why not both | 31.00% | ~3,395 |
 | Sword to a gunfight | 30.00% | ~3,285 |
 | Upgrades not mandatory | 30.00% | ~3,285 |
 | Artificial selection | 29.00% | ~3,176 |
 | Control freak | 28.00% | ~3,066 |
 | Running Wild | 28.00% | ~3,066 |
-| Finish line | 27.00% | ~2,956 |
+| Finish line | 27.00% | ~2,957 |
 | Unstoppable force | 24.00% | ~2,628 |
 | Wave of mutilation | 22.00% | ~2,409 |
 | Can't Run Can't Hide | 18.00% | ~1,971 |
 | R is for Running | 17.00% | ~1,862 |
-| Dead in the air | 15.00% | ~1,642 |
+| Dead in the air | 15.00% | ~1,643 |
 | Improvise, adapt, overrun | 14.00% | ~1,533 |
 | Pre-empative strike | 14.00% | ~1,533 |
 | Strike | 13.00% | ~1,424 |
@@ -40,9 +40,9 @@ Number of Ratings: 1,047  (23.09.2022)
 | About Adam | 4.00% | ~438 |
 | Scrapped | 4.00% | ~438 |
 | Strafing Run | 4.00% | ~438 |
-| Junkrunner | 3.00% | ~328 |
-| Just A Man | 3.00% | ~328 |
-| One man's trash | 3.00% | ~328 |
+| Junkrunner | 3.00% | ~329 |
+| Just A Man | 3.00% | ~329 |
+| One man's trash | 3.00% | ~329 |
 | Hit me if you can | 2.00% | ~219 |
 | Obedient Machine | 0.80% | ~88 |
 | Everyone Needs A Hobby | 0.70% | ~77 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~44 |
 | Up Close And Personal | 0.40% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,950 (Ranked 112)  
+Progressed: 10,951 (Ranked 112)  
 Completed: 49 (0.45%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,11 +121,11 @@ Completed: 49 (0.45%) (Ranked 129)
 | 2023-06-25 | 10,677 | 49 |
 | 2023-06-26 | 10,776 | 49 |
 | 2023-06-27 | 10,884 | 49 |
-| 2023-06-28 | 10,950 | 49 |
+| 2023-06-28 | 10,951 | 49 |
 ## Awards
-Max (Great Boss Battles): 468  (Ranked 194)  
+Max (Great Boss Battles): 468  (Ranked 195)  
 Sum: 605 (Ranked 287)  
-Diff (max vs sum): -93  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 468 |

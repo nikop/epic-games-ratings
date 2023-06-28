@@ -23,6 +23,7 @@
 | Tail-wind | 3.00% | ~3 |
 | Quartermaster | 2.00% | ~2 |
 | Supercargo | 2.00% | ~2 |
+| Strategist | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
@@ -30,7 +31,6 @@
 | Trouble at Fort Larius | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
-| Strategist | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
 | Despised | 0.90% | ~1 |
 | Been There | 0.90% | ~1 |

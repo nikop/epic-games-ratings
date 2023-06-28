@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2279,9 +2279,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 549
     },
     {
       "ID": "GIANT_KILLER",
@@ -2488,8 +2488,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-06-26T16:58:23.2317253+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:02:08.2493305+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:01:23.7483242+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:02.6286148+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:58:32.3062006+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:02:08.2493818+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:58:39.6811122+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:01:23.7483766+00:00"
 }

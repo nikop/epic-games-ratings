@@ -5,36 +5,36 @@ Rating: 4.85 (Ranked 41)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~209,186 |
-| Private Club | 74.00% | ~170,108 |
-| Rogue Guild | 65.00% | ~149,419 |
-| I Watched the Intro | 57.00% | ~131,029 |
-| Covert Consortium | 55.00% | ~126,431 |
-| Goat Queen | 53.00% | ~121,834 |
-| Reach the Stratosphere | 50.00% | ~114,938 |
-| Synchronization Complete | 47.00% | ~108,041 |
-| Secret Society | 45.00% | ~103,444 |
-| Shadow Syndicate | 37.00% | ~85,054 |
-| What a Waste of Money | 33.00% | ~75,859 |
-| New Goat Order | 30.00% | ~68,962 |
-| Don't touch the servers | 28.00% | ~64,365 |
-| San Angora: Become Human | 26.00% | ~59,768 |
-| Raider of the Lost Parking Garage | 26.00% | ~59,768 |
-| Real Buoy | 26.00% | ~59,768 |
-| Welcome to Earth | 25.00% | ~57,469 |
-| Into the Matrix | 19.00% | ~43,676 |
-| Where is It? | 17.00% | ~39,079 |
-| Egg Simulator | 16.00% | ~36,780 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~34,481 |
-| Black Market | 14.00% | ~32,183 |
-| 401(K.O.) | 14.00% | ~32,183 |
-| Car Cave | 12.00% | ~27,585 |
-| Club Mohair | 8.00% | ~18,390 |
-| A Center for Ants? | 8.00% | ~18,390 |
-| French Fika | 7.00% | ~16,091 |
-| Who Baywatches the Baywatch? | 4.00% | ~9,195 |
-| Nasty! | 4.00% | ~9,195 |
-| [REDACTED] | 4.00% | ~9,195 |
+| Forgotten Sorority | 91.00% | ~209,202 |
+| Private Club | 74.00% | ~170,120 |
+| Rogue Guild | 65.00% | ~149,430 |
+| I Watched the Intro | 57.00% | ~131,038 |
+| Covert Consortium | 55.00% | ~126,441 |
+| Goat Queen | 53.00% | ~121,843 |
+| Reach the Stratosphere | 50.00% | ~114,946 |
+| Synchronization Complete | 47.00% | ~108,049 |
+| Secret Society | 45.00% | ~103,451 |
+| Shadow Syndicate | 37.00% | ~85,060 |
+| What a Waste of Money | 33.00% | ~75,864 |
+| New Goat Order | 30.00% | ~68,968 |
+| Don't touch the servers | 28.00% | ~64,370 |
+| San Angora: Become Human | 26.00% | ~59,772 |
+| Raider of the Lost Parking Garage | 26.00% | ~59,772 |
+| Real Buoy | 26.00% | ~59,772 |
+| Welcome to Earth | 25.00% | ~57,473 |
+| Into the Matrix | 19.00% | ~43,679 |
+| Where is It? | 17.00% | ~39,082 |
+| Egg Simulator | 16.00% | ~36,783 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~34,484 |
+| Black Market | 14.00% | ~32,185 |
+| 401(K.O.) | 14.00% | ~32,185 |
+| Car Cave | 12.00% | ~27,587 |
+| Club Mohair | 8.00% | ~18,391 |
+| A Center for Ants? | 8.00% | ~18,391 |
+| French Fika | 7.00% | ~16,092 |
+| Who Baywatches the Baywatch? | 4.00% | ~9,196 |
+| Nasty! | 4.00% | ~9,196 |
+| [REDACTED] | 4.00% | ~9,196 |
 | Cannibanana | 2.00% | ~4,598 |
 | Daredevil | 2.00% | ~4,598 |
 | You Trusted Your Instincts | 1.00% | ~2,299 |
@@ -45,8 +45,8 @@ Rating: 4.85 (Ranked 41)
 | Move! That! Bus! | 0.60% | ~1,379 |
 | G.O.A.T | 0.30% | ~690 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,875 (Ranked 47)  
-Completed: 754 (0.33%) (Ranked 138)  
+Progressed: 229,892 (Ranked 47)  
+Completed: 755 (0.33%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,14 +114,14 @@ Completed: 754 (0.33%) (Ranked 138)
 | 2023-06-25 | 229,295 | 752 |
 | 2023-06-26 | 229,544 | 753 |
 | 2023-06-27 | 229,775 | 753 |
-| 2023-06-28 | 229,875 | 754 |
+| 2023-06-28 | 229,892 | 755 |
 ## Awards
-Max (Great for Beginners): 355  (Ranked 218)  
-Sum: 2,952 (Ranked 158)  
+Max (Great for Beginners): 357  (Ranked 218)  
+Sum: 2,955 (Ranked 158)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 355 |
+| This game is Great for Beginners | 357 |
 | This game has Diverse Characters | 332 |
 | This game is Highly Recommended | 318 |
 | This game has Amazing Characters | 298 |
@@ -129,7 +129,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 286 |
 | This game has Amazing Storytelling | 284 |
 | This game has Quickly Understood Controls | 280 |
-| This game has a Silly Community | 262 |
+| This game has a Silly Community | 263 |
 | This game has Easy Combat | 244 |
 | This game is Educational | 158 |
 ## Ratings History
@@ -233,4 +233,4 @@ Diff (max vs sum): 60
 | 2023-06-25 | 4.85 | 354 | 2,931 |
 | 2023-06-26 | 4.85 | 354 | 2,940 |
 | 2023-06-27 | 4.85 | 355 | 2,950 |
-| 2023-06-28 | 4.85 | 355 | 2,952 |
+| 2023-06-28 | 4.85 | 357 | 2,955 |

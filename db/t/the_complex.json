@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.14,
+  "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -362,6 +362,11 @@
       "Time": "2023-06-26T11:07:28.1575966+00:00",
       "NumProgressed": 510,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-06-28T17:06:30.7854193+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -373,7 +378,7 @@
       "Name": "Beat It",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "blast_from_the_past",
@@ -429,7 +434,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ending_6",
@@ -451,9 +456,9 @@
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "falling_for_you",
@@ -523,16 +528,16 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 479
+      "UsersEstimate": 475
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 16
     }
   ],
@@ -540,8 +545,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:06:19.7759636+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:06:30.7854187+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:12.470293+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:57:36.5207332+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:06:19.7759826+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:57:32.0789151+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:06:30.7854338+00:00"
 }

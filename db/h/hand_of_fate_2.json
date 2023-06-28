@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658558,
+  "EOS_Progressed": 658562,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7336,6 +7336,11 @@
       "Time": "2023-06-28T16:06:21.86384+00:00",
       "NumProgressed": 658558,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-06-28T17:06:32.4470642+00:00",
+      "NumProgressed": 658562,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7347,7 +7352,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474162
+      "UsersEstimate": 474165
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7355,7 +7360,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 381964
+      "UsersEstimate": 381966
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7363,7 +7368,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151468
+      "UsersEstimate": 151469
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -7371,7 +7376,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39513
+      "UsersEstimate": 39514
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -7483,7 +7488,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151468
+      "UsersEstimate": 151469
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -7491,7 +7496,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92198
+      "UsersEstimate": 92199
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -7499,7 +7504,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111955
+      "UsersEstimate": 111956
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -7507,7 +7512,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39513
+      "UsersEstimate": 39514
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -7627,7 +7632,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59270
+      "UsersEstimate": 59271
     },
     {
       "ID": "Achievement_37_Champion",
@@ -7730,15 +7735,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658558,
+      "Progressed": 658562,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:06:21.8638393+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:06:32.4470638+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:12.6606058+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:57:59.3257609+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:06:21.8639222+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:58:00.438351+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:06:32.4471642+00:00"
 }

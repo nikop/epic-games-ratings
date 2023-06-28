@@ -5,6 +5,7 @@ Rating: 4.47 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Confirming Suspicions | 3.00% | ~95 |
 | It's Starting to Crack | 3.00% | ~95 |
 | Change the Channel | 3.00% | ~95 |
 | Taking it back | 3.00% | ~95 |
@@ -13,7 +14,6 @@ Rating: 4.47 (Ranked 594)
 | Meeting Resistance | 2.00% | ~63 |
 | Skirmisher | 2.00% | ~63 |
 | Sharpshooter | 2.00% | ~63 |
-| Confirming Suspicions | 2.00% | ~63 |
 | Explosive Efficiency | 2.00% | ~63 |
 | Lord of War | 2.00% | ~63 |
 | Resourceful | 2.00% | ~63 |
@@ -37,9 +37,9 @@ Rating: 4.47 (Ranked 594)
 | My Little Friend | 0.90% | ~28 |
 | Die Nussknacker Sweet! | 0.90% | ~28 |
 | Fields of Glory | 0.80% | ~25 |
+| Shipbreaker | 0.70% | ~22 |
 | Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Operation Foxley | 0.60% | ~19 |
-| Shipbreaker | 0.60% | ~19 |
 | Strategist | 0.50% | ~16 |
 | It'll Buff Right Out | 0.50% | ~16 |
 | Don't hold your breath | 0.50% | ~16 |
@@ -52,6 +52,8 @@ Rating: 4.47 (Ranked 594)
 | Tinkerer | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
+| Sink or Swim | 0.40% | ~12 |
+| Going Overboard | 0.40% | ~12 |
 | The Long Game | 0.30% | ~9 |
 | Out of Scope | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
@@ -66,8 +68,7 @@ Rating: 4.47 (Ranked 594)
 | Covert Elimination | 0.30% | ~9 |
 | Alpha | 0.30% | ~9 |
 | Das Familienjuwel | 0.30% | ~9 |
-| Sink or Swim | 0.30% | ~9 |
-| Going Overboard | 0.30% | ~9 |
+| Stroll in the Woods | 0.30% | ~9 |
 | Best of the Best | 0.20% | ~6 |
 | Master of Pistols | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
@@ -75,7 +76,6 @@ Rating: 4.47 (Ranked 594)
 | Master-at-arms | 0.20% | ~6 |
 | Sight Beyond Sights | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
-| Stroll in the Woods | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,156 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  

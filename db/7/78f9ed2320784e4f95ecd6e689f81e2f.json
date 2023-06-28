@@ -4,7 +4,7 @@
   "ProductSlug": "geojelly-a44cfe",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -166,6 +166,11 @@
       "Time": "2023-06-26T15:02:11.3017243+00:00",
       "NumProgressed": 28,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-28T17:01:10.4338927+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 7,
@@ -249,15 +254,15 @@
       "Name": "Jumper 100",
       "Percentage": 86,
       "XP": 145,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 145,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "JUMPER_5000",
@@ -272,14 +277,14 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:00:36.1183377+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:01:10.4338918+00:00",
   "LastUpdate_AppInfo": "2023-06-27T13:13:42.2491847+00:00",
-  "LastUpdate_Ratings": "2023-06-28T15:57:34.4133602+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:00:36.1183537+00:00"
+  "LastUpdate_Ratings": "2023-06-28T16:57:29.3635986+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:01:10.4339041+00:00"
 }

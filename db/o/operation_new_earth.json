@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -851,6 +851,11 @@
       "Time": "2023-06-28T16:04:16.7491153+00:00",
       "NumProgressed": 264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T17:04:05.1676521+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -870,7 +875,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_players_10",
@@ -940,9 +945,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_headquarters_15",
@@ -966,7 +971,7 @@
       "Name": "Facility Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -974,7 +979,7 @@
       "Name": "Corporal",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -982,15 +987,15 @@
       "Name": "Sergeant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1038,7 +1043,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1100,9 +1105,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1165,14 +1170,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:04:16.7491147+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:04:05.1676513+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:00:21.0486213+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:04:16.7491502+00:00"
+  "LastUpdate_Ratings": "2023-06-28T17:00:50.4918637+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:04:05.1676961+00:00"
 }

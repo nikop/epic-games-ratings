@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76706,
+  "EOS_Progressed": 76711,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -7673,6 +7673,11 @@
       "Time": "2023-06-28T16:02:19.0848394+00:00",
       "NumProgressed": 76706,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2023-06-28T17:02:06.6554201+00:00",
+      "NumProgressed": 76711,
+      "NumCompleted": 365
     }
   ],
   "TotalAchievements": 10,
@@ -7684,7 +7689,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "Drawings01",
@@ -7748,7 +7753,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 26847
+      "UsersEstimate": 26849
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -7763,15 +7768,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 76706,
+      "Progressed": 76711,
       "Completed": 365
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-06-28T16:02:19.0848387+00:00",
+  "LastChanged_Achievements": "2023-06-28T17:02:06.6554191+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.9671722+00:00",
-  "LastUpdate_Ratings": "2023-06-28T16:00:21.3543389+00:00",
-  "LastUpdate_Achievements": "2023-06-28T16:02:19.0848946+00:00"
+  "LastUpdate_Ratings": "2023-06-28T17:00:50.8362759+00:00",
+  "LastUpdate_Achievements": "2023-06-28T17:02:06.6554682+00:00"
 }

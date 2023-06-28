@@ -19,6 +19,7 @@ Number of Ratings: 87  (23.09.2022)
 | Just in time! | 5.00% | ~37 |
 | Mega-railroad | 5.00% | ~37 |
 | Need to think | 5.00% | ~37 |
+| Upgrade complete | 5.00% | ~37 |
 | Builder | 4.00% | ~30 |
 | Critical care | 4.00% | ~30 |
 | Miner | 4.00% | ~3 |
@@ -26,7 +27,6 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 4.00% | ~3 |
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
-| Upgrade complete | 4.00% | ~30 |
 | Bridgemania | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
@@ -57,12 +57,12 @@ Number of Ratings: 87  (23.09.2022)
 | Ouroboros | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.90% | ~1 |
+| Information Age | 0.90% | ~1 |
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
 | Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |
 | Digital Age | 0.80% | ~1 |
-| Information Age | 0.80% | ~1 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |

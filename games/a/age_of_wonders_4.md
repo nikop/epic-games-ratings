@@ -6,27 +6,28 @@ Rating: 4.59 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.80% | ~39 |
+| Tipping the Scales | 0.60% | ~29 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
-| Tipping the Scales | 0.50% | ~24 |
+| My Final Form | 0.50% | ~24 |
 | Mighty Hoard | 0.50% | ~24 |
 | From Friends to Family | 0.40% | ~19 |
 | Stronger Together | 0.40% | ~19 |
-| My Final Form | 0.40% | ~19 |
+| Magical Synergy | 0.40% | ~19 |
+| Here be Dragons | 0.40% | ~19 |
 | Walls Cannot Stop Us | 0.30% | ~15 |
 | Bone Peddler | 0.30% | ~15 |
-| Magical Synergy | 0.30% | ~15 |
+| Seat of Power | 0.30% | ~15 |
 | Impenetrable Fortress | 0.30% | ~15 |
-| Here be Dragons | 0.30% | ~15 |
 | Blood of the Dragon | 0.30% | ~15 |
 | Valley of Wonders | 0.20% | ~10 |
 | Full Ascension | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
 | Preparation Is Everything | 0.20% | ~10 |
-| Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
 | Against the Odds | 0.20% | ~10 |
 | Intimidation Tactics | 0.20% | ~10 |
+| Duality | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
@@ -50,10 +51,9 @@ Rating: 4.59 (Ranked 409)
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
-| Duality | 0.10% | ~5 |
+| I'll Fight You All | 0.10% | ~5 |
 | I Want to Break Free | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
-| I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,865 (Ranked 133)  
