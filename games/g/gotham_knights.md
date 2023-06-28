@@ -6,8 +6,8 @@ Rating: 4.17 (Ranked 857)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,964 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,642 |
-| Loose Ends | 4.00% | ~2,642 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,643 |
+| Loose Ends | 4.00% | ~2,643 |
 | The Batman Family | 3.00% | ~1,982 |
 | Something in the Clay | 3.00% | ~1,982 |
 | To the Victor Go the Spoils | 3.00% | ~1,982 |
@@ -40,7 +40,7 @@ Rating: 4.17 (Ranked 857)
 | Solid Alibi | 1.00% | ~661 |
 | Fusion Expert | 0.90% | ~595 |
 | Family Meeting | 0.90% | ~595 |
-| A Worthy Successor | 0.80% | ~528 |
+| A Worthy Successor | 0.80% | ~529 |
 | Expert Crime Fighter | 0.70% | ~462 |
 | Dressed to Impress | 0.60% | ~396 |
 | A Momentum Occasion | 0.50% | ~330 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,060 (Ranked 72)  
+Progressed: 66,063 (Ranked 72)  
 Completed: 98 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,14 +136,14 @@ Completed: 98 (0.15%) (Ranked 167)
 | 2023-06-25 | 65,987 | 98 |
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
-| 2023-06-28 | 66,060 | 98 |
+| 2023-06-28 | 66,063 | 98 |
 ## Awards
-Max (Great Boss Battles): 2,387  (Ranked 100)  
-Sum: 3,951 (Ranked 138)  
+Max (Great Boss Battles): 2,394  (Ranked 100)  
+Sum: 3,958 (Ranked 138)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,387 |
+| This game has Great Boss Battles | 2,394 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Extremely Fun | 201 |
 | This game is Relaxing | 200 |
@@ -283,3 +283,4 @@ Diff (max vs sum): -38
 | 2023-06-25 | 4.17 | 2,381 | 3,939 |
 | 2023-06-26 | 4.17 | 2,381 | 3,942 |
 | 2023-06-27 | 4.17 | 2,387 | 3,951 |
+| 2023-06-28 | 4.17 | 2,394 | 3,958 |

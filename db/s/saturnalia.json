@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64298,
+  "EOS_Progressed": 64302,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4425,6 +4425,11 @@
       "Time": "2023-06-27T21:03:59.3921454+00:00",
       "NumProgressed": 64298,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-06-28T02:27:47.8314852+00:00",
+      "NumProgressed": 64302,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4516,7 +4521,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -4595,7 +4600,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64298,
+      "Progressed": 64302,
       "Completed": 13
     }
   ],
@@ -4603,8 +4608,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-06-28T00:03:36.2126129+00:00",
+  "LastChanged_Achievements": "2023-06-28T02:27:47.8314846+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.0170383+00:00",
-  "LastUpdate_Ratings": "2023-06-27T23:57:39.2174448+00:00",
-  "LastUpdate_Achievements": "2023-06-28T00:03:36.2126449+00:00"
+  "LastUpdate_Ratings": "2023-06-28T02:21:43.9273199+00:00",
+  "LastUpdate_Achievements": "2023-06-28T02:27:47.8315364+00:00"
 }

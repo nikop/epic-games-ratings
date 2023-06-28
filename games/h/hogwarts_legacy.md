@@ -5,32 +5,32 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 10.00% | ~28,173 |
-| First Class Student | 9.00% | ~25,356 |
-| Troll with the Punches | 9.00% | ~25,356 |
+| The Sort Who Makes an Entrance | 10.00% | ~28,174 |
+| First Class Student | 9.00% | ~25,357 |
+| Troll with the Punches | 9.00% | ~25,357 |
 | Grappling with a Graphorn | 8.00% | ~22,539 |
 | The One Who Mastered Memories | 8.00% | ~22,539 |
 | The Hallowed Hero | 8.00% | ~22,539 |
 | The Defender of Dragons | 8.00% | ~22,539 |
 | A Keen Sense of Spell | 8.00% | ~22,539 |
 | That's a Keeper | 8.00% | ~22,539 |
-| The Hero of Hogwarts | 7.00% | ~19,721 |
-| Challenge Accepted | 7.00% | ~19,721 |
-| Loom for Improvement | 7.00% | ~19,721 |
-| A Talent for Spending | 7.00% | ~19,721 |
-| Coasting Along | 7.00% | ~19,721 |
-| Rising From the Ashes | 7.00% | ~19,721 |
-| The Avenging Gazelle | 6.00% | ~16,904 |
-| A Sallow Grave | 6.00% | ~16,904 |
-| Flight the Good Flight | 6.00% | ~16,904 |
-| Followed the Butterflies | 6.00% | ~16,904 |
-| The Spell Master | 6.00% | ~16,904 |
+| The Hero of Hogwarts | 7.00% | ~19,722 |
+| Challenge Accepted | 7.00% | ~19,722 |
+| Loom for Improvement | 7.00% | ~19,722 |
+| A Talent for Spending | 7.00% | ~19,722 |
+| Coasting Along | 7.00% | ~19,722 |
+| Rising From the Ashes | 7.00% | ~19,722 |
+| The Avenging Gazelle | 6.00% | ~16,905 |
+| A Sallow Grave | 6.00% | ~16,905 |
+| Flight the Good Flight | 6.00% | ~16,905 |
+| Followed the Butterflies | 6.00% | ~16,905 |
+| The Spell Master | 6.00% | ~16,905 |
 | Beast Friends | 5.00% | ~14,087 |
-| The Seeker of Knowledge | 4.00% | ~11,269 |
-| The Root of the Problem | 4.00% | ~11,269 |
-| Third Time's a Charm | 4.00% | ~11,269 |
-| The Ends Petrify the Means | 4.00% | ~11,269 |
-| Raising Expectations | 4.00% | ~11,269 |
+| The Seeker of Knowledge | 4.00% | ~11,270 |
+| The Root of the Problem | 4.00% | ~11,270 |
+| Third Time's a Charm | 4.00% | ~11,270 |
+| The Ends Petrify the Means | 4.00% | ~11,270 |
+| Raising Expectations | 4.00% | ~11,270 |
 | The Toast of the Town | 3.00% | ~8,452 |
 | Going Through the Potions | 3.00% | ~8,452 |
 | Room with a View | 3.00% | ~8,452 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,733 (Ranked 41)  
+Progressed: 281,743 (Ranked 41)  
 Completed: 413 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 413 (0.15%) (Ranked 167)
 | 2023-06-25 | 281,503 | 413 |
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
-| 2023-06-28 | 281,733 | 413 |
+| 2023-06-28 | 281,743 | 413 |
 ## Awards
 Max (Character Customization): 20,457  (Ranked 17)  
 Sum: 38,041 (Ranked 30)  

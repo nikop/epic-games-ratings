@@ -20,7 +20,7 @@ Number of Ratings: 425  (23.09.2022)
 | Perf Dirt | 56.00% | ~15,578 |
 | Vacation's End | 52.00% | ~14,465 |
 | Bossy Bugs | 46.00% | ~12,796 |
-| Survivor | 44.00% | ~12,240 |
+| Survivor | 45.00% | ~12,518 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,962 |
 | Sidetracked | 40.00% | ~11,127 |
 | Film Buff | 38.00% | ~10,571 |

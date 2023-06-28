@@ -25,17 +25,17 @@ Rating: 4.33 (Ranked 753)
 | Access granted | 35.00% | ~489 |
 | Going once, going twice, sold | 34.00% | ~475 |
 | Stoker | 33.00% | ~461 |
+| Bull and bear | 32.00% | ~447 |
 | Full Steam ahead | 31.00% | ~433 |
-| Bull and bear | 31.00% | ~433 |
 | Financial Shark | 29.00% | ~405 |
 | All mine | 28.00% | ~391 |
 | Mole | 28.00% | ~391 |
 | Country Life | 26.00% | ~363 |
 | Socializer | 26.00% | ~363 |
+| Hostile Takeover | 25.00% | ~350 |
 | General Manager | 24.00% | ~336 |
-| Hostile Takeover | 24.00% | ~336 |
 | Seven at one stroke | 23.00% | ~322 |
-| Trailblazer | 19.00% | ~266 |
+| Trailblazer | 20.00% | ~280 |
 | Breaking Ground | 19.00% | ~266 |
 | Traffic Junction | 18.00% | ~252 |
 | Traffic Jam | 17.00% | ~238 |

@@ -20,7 +20,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Glory | 0.40% | ~90 |
 | Pillow Investments | 0.30% | ~67 |
 | Looks Familiar | 0.30% | ~67 |
-| For Justice | 0.20% | ~45 |
+| For Justice | 0.30% | ~67 |
 | For Wrath | 0.20% | ~45 |
 | For Survival | 0.20% | ~45 |
 | For Love | 0.20% | ~45 |

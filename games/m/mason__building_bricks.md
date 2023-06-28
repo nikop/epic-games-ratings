@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Novice Mason | 48.00% | ~15 |
-| Constructor | 35.00% | ~11 |
-| Expert Mason | 16.00% | ~5 |
+| Novice Mason | 50.00% | ~16 |
+| Constructor | 34.00% | ~11 |
+| Expert Mason | 19.00% | ~6 |
 | Arch Mason | 13.00% | ~4 |
-| Grand Mason | 10.00% | ~3 |
+| Grand Mason | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 352)  
-Completed: 3 (9.68%) (Ranked 22)  
+Progressed: 32 (Ranked 351)  
+Completed: 3 (9.38%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -28,6 +28,7 @@ Completed: 3 (9.68%) (Ranked 22)
 | 2023-06-24 | 28 | 3 |
 | 2023-06-25 | 30 | 3 |
 | 2023-06-26 | 31 | 3 |
+| 2023-06-28 | 32 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

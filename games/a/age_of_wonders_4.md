@@ -6,15 +6,15 @@ Rating: 4.59 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.50% | ~24 |
+| My Final Form | 0.40% | ~19 |
 | Tipping the Scales | 0.40% | ~19 |
 | Realm Estate | 0.30% | ~15 |
 | A Wonderful Discovery | 0.30% | ~15 |
-| My Final Form | 0.30% | ~15 |
+| From Friends to Family | 0.30% | ~15 |
+| Stronger Together | 0.30% | ~15 |
 | Mighty Hoard | 0.30% | ~15 |
 | Walls Cannot Stop Us | 0.20% | ~10 |
 | Bone Peddler | 0.20% | ~10 |
-| From Friends to Family | 0.20% | ~10 |
-| Stronger Together | 0.20% | ~10 |
 | Magical Synergy | 0.20% | ~10 |
 | Here be Dragons | 0.20% | ~10 |
 | Blood of the Dragon | 0.20% | ~10 |
