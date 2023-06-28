@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 388,
-  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
     "PcReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 10,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 20,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 30,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-06-27T14:02:49.6929228+00:00",
       "NumProgressed": 10,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-28T15:02:22.4307916+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 25,
@@ -219,9 +224,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -293,12 +298,12 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 10,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:02:25.4434825+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:02:22.430791+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.0799684+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:59:55.6450366+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:02:25.4435027+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:59:51.9782221+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:02:22.4308105+00:00"
 }

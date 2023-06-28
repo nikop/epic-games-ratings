@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 313,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.93,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -716,6 +716,11 @@
       "Time": "2023-06-28T03:24:49.9280859+00:00",
       "NumProgressed": 311,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-28T15:04:13.1113288+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -727,7 +732,7 @@
       "Name": "Pit-house",
       "Percentage": 95,
       "XP": 45,
-      "UsersEstimate": 295
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_003",
@@ -735,7 +740,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 267
+      "UsersEstimate": 269
     },
     {
       "ID": "LEVEL_004",
@@ -743,7 +748,7 @@
       "Name": "Two-story house",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "LEVEL_006",
@@ -751,7 +756,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "LEVEL_012",
@@ -759,7 +764,7 @@
       "Name": "Poultry house",
       "Percentage": 27,
       "XP": 95,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_017",
@@ -814,14 +819,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 313,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:04:14.2361152+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:04:13.1113282+00:00",
   "LastUpdate_AppInfo": "2023-06-26T15:57:12.2343117+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:57:21.9968527+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:04:14.2361322+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:57:13.321472+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:04:13.1113439+00:00"
 }

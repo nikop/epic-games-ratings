@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3031,
+  "EOS_Progressed": 3032,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2324,6 +2324,11 @@
       "Time": "2023-06-28T13:17:42.4805071+00:00",
       "NumProgressed": 3031,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-28T15:02:08.7450534+00:00",
+      "NumProgressed": 3032,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2415,7 +2420,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "campaign14",
@@ -2423,7 +2428,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "campaign15",
@@ -2439,7 +2444,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "campaign17",
@@ -2471,7 +2476,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "campaign20",
@@ -2487,7 +2492,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "campaign4",
@@ -2598,7 +2603,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3031,
+      "Progressed": 3032,
       "Completed": 10
     }
   ],
@@ -2606,8 +2611,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:02:11.7077537+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:02:08.7450527+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.8425638+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:01:22.5440296+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:02:11.7078174+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:01:18.9708786+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:02:08.7451143+00:00"
 }

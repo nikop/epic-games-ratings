@@ -710,10 +710,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 4988,
       "NumberOfAwardsMax": 3475
+    },
+    {
+      "Time": "2023-06-28T14:57:06.9942561+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 4998,
+      "NumberOfAwardsMax": 3475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4988,
+  "NumberOfAwards": 4998,
   "NumberOfAwardsMax": 3475,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -757,7 +763,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 152
+      "Count": 162
     },
     {
       "Text": "This game has Unique Visuals",
@@ -784,9 +790,9 @@
       "Count": 179
     }
   ],
-  "EOS_Progressed": 1362522,
+  "EOS_Progressed": 1362923,
   "EOS_Completed": 259,
-  "EOS_NewPlayers": 87610,
+  "EOS_NewPlayers": 87107,
   "EOS_NewCompleters": 66,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3044,6 +3050,11 @@
       "Time": "2023-06-28T14:07:48.9440102+00:00",
       "NumProgressed": 1362522,
       "NumCompleted": 259
+    },
+    {
+      "Time": "2023-06-28T15:07:51.0403801+00:00",
+      "NumProgressed": 1362923,
+      "NumCompleted": 259
     }
   ],
   "TotalAchievements": 1328,
@@ -3197,9 +3208,9 @@
       "ID": "armored_7",
       "SetID": "bkjdbk8",
       "Name": "I\u0027m Not a Crook!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "armored_8",
@@ -6565,9 +6576,9 @@
       "ID": "gage5_1",
       "SetID": "bkjdbk8",
       "Name": "Precision Aiming",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "gage5_10",
@@ -10373,9 +10384,9 @@
       "ID": "skm_19",
       "SetID": "bkjdbk8",
       "Name": "A Different Kind of Exchange in the Docks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "skm_2",
@@ -11797,9 +11808,9 @@
       "ID": "trk_d_4",
       "SetID": "bkjdbk8",
       "Name": "Doctor of Crime",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1363
     },
     {
       "ID": "trk_d_5",
@@ -13678,22 +13689,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1362522,
+      "Progressed": 1362923,
       "Completed": 259
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1362522,
+      "Progressed": 1362923,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-06-28T13:57:16.0069121+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:07:48.9440097+00:00",
+  "LastChanged": "2023-06-28T14:57:06.994256+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:07:51.0403796+00:00",
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.6840261+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:57:16.0069128+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:07:48.9884439+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:57:06.9942566+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:07:51.0563727+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 387,
   "Ranking_Popularity": 168,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -1057,18 +1057,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 673,
       "NumberOfAwardsMax": 648
+    },
+    {
+      "Time": "2023-06-28T15:01:25.5063199+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 675,
+      "NumberOfAwardsMax": 650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 673,
-  "NumberOfAwardsMax": 648,
+  "NumberOfAwards": 675,
+  "NumberOfAwardsMax": 650,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 648
+      "Count": 650
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1100,8 +1106,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-06-27T11:00:30.962624+00:00",
+  "LastChanged": "2023-06-28T15:01:25.5063198+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:32.2375876+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:01:29.2668406+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:06:51.7663502+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:01:25.5063203+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:06:53.7250837+00:00"
 }

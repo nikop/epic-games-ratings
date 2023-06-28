@@ -18,8 +18,8 @@
 | A good beginning | 80.00% | ~8 |
 | True G4M3R | 80.00% | ~8 |
 | I did it | 70.00% | ~7 |
+| Fashion victim | 70.00% | ~7 |
 | Feels like springtime | 60.00% | ~6 |
-| Fashion victim | 60.00% | ~6 |
 | In this together | 50.00% | ~5 |
 | Peace walker | 40.00% | ~4 |
 | Half the way | 40.00% | ~4 |
@@ -31,7 +31,7 @@
 | Alchemists Express | 30.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 388)  
-Completed: 2 (20.00%) (Ranked 9)  
+Completed: 3 (30.00%) (Ranked 3)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,3 +45,4 @@ Completed: 2 (20.00%) (Ranked 9)
 | 2023-06-21 | 8 | 1 |
 | 2023-06-26 | 9 | 2 |
 | 2023-06-27 | 10 | 2 |
+| 2023-06-28 | 10 | 3 |

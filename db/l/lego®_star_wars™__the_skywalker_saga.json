@@ -2564,9 +2564,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49756,
+  "EOS_Progressed": 49757,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -8239,6 +8239,11 @@
       "Time": "2023-06-28T13:20:14.1955621+00:00",
       "NumProgressed": 49756,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2023-06-28T15:02:23.6794281+00:00",
+      "NumProgressed": 49757,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 45,
@@ -8274,7 +8279,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39307
+      "UsersEstimate": 39308
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8362,7 +8367,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29356
+      "UsersEstimate": 29357
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8378,7 +8383,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19902
+      "UsersEstimate": 19903
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8386,7 +8391,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8402,7 +8407,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15424
+      "UsersEstimate": 15425
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -8418,7 +8423,7 @@
       "Name": "The Last Jedi",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 10946
+      "UsersEstimate": 10947
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -8490,7 +8495,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28858
+      "UsersEstimate": 28859
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8514,7 +8519,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48263
+      "UsersEstimate": 48264
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8530,7 +8535,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -8602,22 +8607,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35824
+      "UsersEstimate": 35825
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49756,
+      "Progressed": 49757,
       "Completed": 196
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-28T13:17:32.8378993+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:02:26.6696457+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:02:23.6794275+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:01:54.428439+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:02:26.6697169+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:01:50.6081405+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:02:23.6795067+00:00"
 }

@@ -1790,9 +1790,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66077,
+  "EOS_Progressed": 66078,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7945,6 +7945,11 @@
       "Time": "2023-06-28T14:07:39.5562973+00:00",
       "NumProgressed": 66077,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-28T15:07:41.6977289+00:00",
+      "NumProgressed": 66078,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8090,9 +8095,9 @@
       "ID": "CRAFTING_LEGENDARY_SET",
       "SetID": "4eo5ebm",
       "Name": "Dressed to Impress",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 463
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -8443,13 +8448,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66077,
+      "Progressed": 66078,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36357,
+      "Progressed": 36358,
       "Completed": 2647
     }
   ],
@@ -8457,8 +8462,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-28T02:24:32.6732466+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:07:39.5562969+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:07:41.6977283+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:00:51.1078282+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:07:39.5563914+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:00:47.7836724+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:07:41.697836+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1568,9 +1568,9 @@
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
       "SetID": "8j30i9k",
       "Name": "The Philosopher\u2019s Stone",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -1656,8 +1656,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:02:27.1711672+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:02:24.1931272+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.0833954+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:59:13.0233703+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:02:27.1712142+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:59:08.394673+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:02:24.1931802+00:00"
 }

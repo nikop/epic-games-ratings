@@ -23,8 +23,8 @@ Rating: 4.34 (Ranked 743)
 | Technophobe | 36.00% | ~429 |
 | Recycler | 34.00% | ~406 |
 | Are you not entertained? | 30.00% | ~358 |
+| Ganglord | 30.00% | ~358 |
 | Jarhead | 30.00% | ~358 |
-| Ganglord | 29.00% | ~346 |
 | Infiltrator | 29.00% | ~346 |
 | Pushing Daisy | 28.00% | ~334 |
 | Experienced | 26.00% | ~310 |

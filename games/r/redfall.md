@@ -60,7 +60,7 @@ Rating: 3.51 (Ranked 945)
 | Good Samaritan | 0.60% | ~10 |
 | A Cry in the Dark | 0.40% | ~7 |
 | Someplace to Be | 0.40% | ~7 |
-| Bob’s Final Hour | 0.30% | ~5 |
+| Bob’s Final Hour | 0.40% | ~7 |
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |

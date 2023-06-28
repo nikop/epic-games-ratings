@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15787,
+  "EOS_Progressed": 15788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2656,6 +2656,11 @@
       "Time": "2023-06-28T13:23:30.0058006+00:00",
       "NumProgressed": 15787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T15:07:34.8918205+00:00",
+      "NumProgressed": 15788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2667,7 +2672,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14998
+      "UsersEstimate": 14999
     },
     {
       "ID": "ACH001",
@@ -2675,7 +2680,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13735
+      "UsersEstimate": 13736
     },
     {
       "ID": "ACH0010",
@@ -2851,7 +2856,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "ACH008",
@@ -2874,7 +2879,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15787,
+      "Progressed": 15788,
       "Completed": 0
     }
   ],
@@ -2882,8 +2887,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-16T22:00:35.1733965+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:07:32.8764818+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:07:34.8918195+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.0283216+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:01:26.9424382+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:07:32.8765189+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:01:23.1838267+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:07:34.8918619+00:00"
 }

@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225041,
+  "EOS_Progressed": 225044,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7329,6 +7329,11 @@
       "Time": "2023-06-28T13:20:13.219928+00:00",
       "NumProgressed": 225041,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-28T15:02:22.2827095+00:00",
+      "NumProgressed": 225044,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -7404,7 +7409,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81015
+      "UsersEstimate": 81016
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -7484,7 +7489,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76514
+      "UsersEstimate": 76515
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -7500,7 +7505,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49509
+      "UsersEstimate": 49510
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -7563,7 +7568,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225041,
+      "Progressed": 225044,
       "Completed": 3
     }
   ],
@@ -7571,8 +7576,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:02:25.3625646+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:02:22.2827089+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:56.2681506+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:00:53.482322+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:02:25.3626504+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:00:50.3502658+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:02:22.2828176+00:00"
 }

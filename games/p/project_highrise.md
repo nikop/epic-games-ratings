@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~132 |
-| Starting Skyward | 51.00% | ~116 |
+| In the Black | 58.00% | ~133 |
+| Starting Skyward | 51.00% | ~117 |
 | Grime is Not Good | 45.00% | ~103 |
 | Campaign Launch | 39.00% | ~89 |
-| Floor Galore | 37.00% | ~84 |
-| Dinner Dash | 37.00% | ~84 |
+| Floor Galore | 37.00% | ~85 |
+| Dinner Dash | 37.00% | ~85 |
 | Need a Consult | 34.00% | ~78 |
 | It's Technical | 34.00% | ~78 |
 | Upgrade Unlock | 32.00% | ~73 |
 | Delegate Maintenance | 32.00% | ~73 |
-| Proper Walls | 30.00% | ~68 |
+| Proper Walls | 30.00% | ~69 |
 | Destination Destiny | 27.00% | ~62 |
-| Happy Tenants | 25.00% | ~57 |
-| Your Prestige is Rising | 23.00% | ~52 |
-| Potent Potables | 23.00% | ~52 |
-| Smooth Service | 23.00% | ~52 |
+| Happy Tenants | 24.00% | ~55 |
+| Your Prestige is Rising | 23.00% | ~53 |
+| Potent Potables | 23.00% | ~53 |
+| Smooth Service | 23.00% | ~53 |
 | Retail Revenue | 22.00% | ~50 |
 | Lux Living | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | People Mover | 20.00% | ~46 |
-| Emporium Empire | 19.00% | ~43 |
-| Get Electrified | 19.00% | ~43 |
-| Artfully Done | 18.00% | ~41 |
+| Emporium Empire | 19.00% | ~44 |
+| Get Electrified | 19.00% | ~44 |
 | Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
 | We Don't Need No Education | 18.00% | ~41 |
+| Artfully Done | 17.00% | ~39 |
 | Under One Roof | 15.00% | ~34 |
 | Established Fame | 15.00% | ~34 |
 | Cashflow Chief | 15.00% | ~34 |
@@ -62,15 +62,15 @@
 | It's a Gas | 6.00% | ~14 |
 | Baron of Business | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
-| Apartment Awareness | 4.00% | ~9 |
 | Office Bigwigs | 4.00% | ~9 |
-| Luxury Boutiques | 4.00% | ~9 |
-| Three of a Kind | 4.00% | ~9 |
-| Sandbagger | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~7 |
+| Apartment Awareness | 3.00% | ~7 |
 | Loft Life | 3.00% | ~7 |
+| Luxury Boutiques | 3.00% | ~7 |
 | Plebs Are Needed | 3.00% | ~7 |
+| Three of a Kind | 3.00% | ~7 |
 | Four of a Kind | 3.00% | ~7 |
+| Sandbagger | 3.00% | ~7 |
 | In the Money | 3.00% | ~7 |
 | Curated Class | 2.00% | ~5 |
 | Glut of Gastronomy | 2.00% | ~5 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 253)  
+Progressed: 229 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-23 | 225 | 0 |
 | 2023-06-24 | 227 | 0 |
 | 2023-06-25 | 228 | 0 |
+| 2023-06-28 | 229 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

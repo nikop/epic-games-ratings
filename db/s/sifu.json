@@ -4878,9 +4878,9 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710242,
+  "EOS_Progressed": 710248,
   "EOS_Completed": 12794,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11473,6 +11473,11 @@
       "Time": "2023-06-28T14:07:38.6011031+00:00",
       "NumProgressed": 710242,
       "NumCompleted": 12794
+    },
+    {
+      "Time": "2023-06-28T15:07:40.6875524+00:00",
+      "NumProgressed": 710248,
+      "NumCompleted": 12794
     }
   ],
   "TotalAchievements": 50,
@@ -11714,9 +11719,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 5682
+      "UsersEstimate": 6392
     },
     {
       "ID": "31_ComboHigh",
@@ -11883,21 +11888,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19543,
+      "Progressed": 19549,
       "Completed": 10325
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710242,
+      "Progressed": 710248,
       "Completed": 12794
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-28T11:00:03.1089722+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:07:38.6011021+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:07:40.6875517+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:59:52.5451978+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:07:38.6011881+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:59:48.9812224+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:07:40.6876318+00:00"
 }

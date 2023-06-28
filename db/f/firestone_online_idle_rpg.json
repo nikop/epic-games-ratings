@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1517,
+  "EOS_Progressed": 1518,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3617,6 +3617,11 @@
       "Time": "2023-06-28T13:23:33.8146049+00:00",
       "NumProgressed": 1517,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-28T15:07:39.7080985+00:00",
+      "NumProgressed": 1518,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3722,9 +3727,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 121
     },
     {
       "ID": "dragonclicker",
@@ -3796,7 +3801,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "exoticmerchant",
@@ -3860,7 +3865,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "herewegoagain",
@@ -3876,7 +3881,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "howdoyouturnthison",
@@ -4020,7 +4025,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "prestigiousx10",
@@ -4034,9 +4039,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 121
     },
     {
       "ID": "sailor",
@@ -4188,7 +4193,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "warmachinesarmy",
@@ -4220,14 +4225,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1517,
+      "Progressed": 1518,
       "Completed": 1
     }
   ],
@@ -4235,8 +4240,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:07:37.6393865+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:07:39.7080978+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:58:38.3187152+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:07:37.6394723+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:58:32.4203228+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:07:39.7082318+00:00"
 }

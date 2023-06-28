@@ -31,7 +31,7 @@ Number of Ratings: 28  (23.09.2022)
 | Engineer | 13.00% | ~40 |
 | Achtung! | 13.00% | ~40 |
 | Japan | 10.00% | ~30 |
-| Tycoon | 8.00% | ~24 |
+| Tycoon | 9.00% | ~27 |
 | Germany | 7.00% | ~21 |
 | Chuck Norris | 6.00% | ~18 |
 | Supercrash! | 5.00% | ~15 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1814,6 +1814,11 @@
       "Time": "2023-06-28T04:03:41.1175638+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-28T15:03:35.0630072+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1825,7 +1830,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "Collect20Gold",
@@ -1881,7 +1886,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "CompleteChefsBook",
@@ -1905,7 +1910,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "CompleteHunterFaction",
@@ -1945,7 +1950,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -1961,7 +1966,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "GetRangedWeapon",
@@ -1977,7 +1982,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "Kill25Bugs",
@@ -1985,7 +1990,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "Kill25Frogs",
@@ -2001,7 +2006,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "MeetTheMoles",
@@ -2009,7 +2014,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2025,7 +2030,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "RepairSmith",
@@ -2057,29 +2062,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 370,
-      "Completed": 370
+      "Progressed": 371,
+      "Completed": 371
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:03:38.1829662+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:03:35.0630065+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:10.1249497+00:00",
-  "LastUpdate_Ratings": "2023-06-28T13:59:05.9867667+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:03:38.1830149+00:00"
+  "LastUpdate_Ratings": "2023-06-28T14:59:01.8077314+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:03:35.0630403+00:00"
 }

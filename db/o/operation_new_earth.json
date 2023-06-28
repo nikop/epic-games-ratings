@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 98,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -841,6 +841,11 @@
       "Time": "2023-06-28T13:21:27.1859606+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-28T15:04:37.7909949+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -852,7 +857,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -876,7 +881,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -954,17 +959,17 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1026,17 +1031,17 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1108,7 +1113,7 @@
       "Name": "Defenses Online",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1155,14 +1160,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-28T14:04:38.2523737+00:00",
+  "LastChanged_Achievements": "2023-06-28T15:04:37.7909943+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-28T14:01:38.7354764+00:00",
-  "LastUpdate_Achievements": "2023-06-28T14:04:38.2524072+00:00"
+  "LastUpdate_Ratings": "2023-06-28T15:01:35.5858628+00:00",
+  "LastUpdate_Achievements": "2023-06-28T15:04:37.7910256+00:00"
 }

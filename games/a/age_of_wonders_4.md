@@ -7,9 +7,9 @@ Rating: 4.59 (Ranked 409)
 | ---- | ---------- | ----- |
 | Secret Technique | 0.70% | ~34 |
 | Realm Estate | 0.50% | ~24 |
+| A Wonderful Discovery | 0.50% | ~24 |
 | Tipping the Scales | 0.50% | ~24 |
 | Mighty Hoard | 0.50% | ~24 |
-| A Wonderful Discovery | 0.40% | ~19 |
 | From Friends to Family | 0.40% | ~19 |
 | Stronger Together | 0.40% | ~19 |
 | My Final Form | 0.40% | ~19 |
@@ -18,6 +18,7 @@ Rating: 4.59 (Ranked 409)
 | Magical Synergy | 0.30% | ~15 |
 | Impenetrable Fortress | 0.30% | ~15 |
 | Here be Dragons | 0.30% | ~15 |
+| Blood of the Dragon | 0.30% | ~15 |
 | Valley of Wonders | 0.20% | ~10 |
 | Full Ascension | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
@@ -25,7 +26,6 @@ Rating: 4.59 (Ranked 409)
 | Seat of Power | 0.20% | ~10 |
 | Fiery Friend | 0.20% | ~10 |
 | Against the Odds | 0.20% | ~10 |
-| Blood of the Dragon | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
