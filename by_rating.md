@@ -165,6 +165,7 @@
 | 157 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 501 |
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
 | 165 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 71 | 369 |
+| 165 | [Fez](games/f/fez.md) | 4.72 | 23 | 478 |
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 468 | 194 |
 | 165 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 501 |
 | 165 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 296 |
@@ -179,24 +180,23 @@
 | 165 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 501 |
 | 165 | [Timberborn](games/t/timberborn.md) | 4.72 | 127 | 303 |
 | 165 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 501 |
-| 180 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 501 |
-| 180 | [Barony](games/b/barony.md) | 4.71 | 73 | 362 |
-| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 501 |
-| 180 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 348 | 220 |
-| 180 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 501 |
-| 180 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,550 | 50 |
-| 180 | [Fez](games/f/fez.md) | 4.71 | 23 | 478 |
-| 180 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
-| 180 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.71 | 800 | 151 |
-| 180 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,279 | 46 |
-| 180 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 501 |
-| 180 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 501 |
-| 180 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 501 |
-| 180 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 501 |
-| 180 | [shapez](games/s/shapez.md) | 4.71 | 196 | 269 |
-| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 314 |
-| 180 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 501 |
-| 180 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 501 |
+| 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 501 |
+| 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 362 |
+| 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 501 |
+| 181 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 348 | 220 |
+| 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 501 |
+| 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,550 | 50 |
+| 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
+| 181 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.71 | 800 | 151 |
+| 181 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,279 | 46 |
+| 181 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.71 | 0 | 501 |
+| 181 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 501 |
+| 181 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 501 |
+| 181 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 501 |
+| 181 | [shapez](games/s/shapez.md) | 4.71 | 196 | 269 |
+| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 314 |
+| 181 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 501 |
+| 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 501 |
 | 198 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,538 | 69 |
 | 198 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 370 | 215 |
 | 198 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,444 | 70 |

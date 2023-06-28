@@ -13,7 +13,7 @@
 | 11 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.15% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.95% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.87% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.04% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -71,8 +71,8 @@
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.22% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 72 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 72 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.11% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 1.93% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -98,8 +98,8 @@
 | 96 | [Trifox](games/t/trifox.md) | 1.12% |
 | 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 99 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.07% |
-| 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
+| 99 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.06% |
+| 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
 | 101 | [Sable](games/s/sable.md) | 0.96% |
 | 102 | [Adios](games/a/adios.md) | 0.92% |
 | 103 | [Hades](games/h/hades.md) | 0.89% |
