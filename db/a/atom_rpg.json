@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-06-28T21:06:24.3026216+00:00",
       "NumProgressed": 999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T14:07:46.604075+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1600,7 +1605,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "EXPERT_1",
@@ -1831,15 +1836,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-06-29T13:22:11.1095833+00:00",
+  "LastChanged_Achievements": "2023-06-29T14:07:46.6040742+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:21.722728+00:00",
-  "LastUpdate_Ratings": "2023-06-29T13:15:39.2124479+00:00",
-  "LastUpdate_Achievements": "2023-06-29T13:22:11.1096162+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:01:30.7083248+00:00",
+  "LastUpdate_Achievements": "2023-06-29T14:07:46.6041168+00:00"
 }

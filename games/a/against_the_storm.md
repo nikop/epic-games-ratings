@@ -7,6 +7,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Real Expedition | 3.00% | ~466 |
+| Overcoming Difficulty | 3.00% | ~466 |
 | Fertile Meadows | 3.00% | ~466 |
 | Coral Forest | 3.00% | ~466 |
 | The Marshlands | 3.00% | ~466 |
@@ -14,11 +15,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 3.00% | ~466 |
 | No Deaths | 3.00% | ~466 |
 | Homesick | 2.00% | ~310 |
-| Overcoming Difficulty | 2.00% | ~310 |
 | Bandit Camp | 2.00% | ~310 |
 | Barren Lands | 2.00% | ~310 |
 | Ancient Battleground | 2.00% | ~310 |
 | Sparkdew Crystals | 2.00% | ~310 |
+| Levitating Monument | 2.00% | ~310 |
+| Flooded Mines | 2.00% | ~310 |
 | Monastery of the Holy Flame | 2.00% | ~310 |
 | Royal Outpost | 2.00% | ~310 |
 | Lost Colonies | 2.00% | ~310 |
@@ -34,15 +36,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 1.00% | ~155 |
 | Forbidden Lands | 1.00% | ~155 |
 | Haunted Forest | 1.00% | ~155 |
-| Levitating Monument | 1.00% | ~155 |
-| Flooded Mines | 1.00% | ~155 |
 | Statue of the Forefathers | 1.00% | ~155 |
 | Forsaken Gods Temple | 1.00% | ~155 |
 | Corrosive Torrent | 1.00% | ~155 |
 | Defying the Crown | 1.00% | ~155 |
 | Into the Forest | 1.00% | ~155 |
 | Fishmen Ritual Site | 0.80% | ~124 |
-| Efficient Explorer | 0.60% | ~93 |
+| Efficient Explorer | 0.70% | ~109 |
 | Prestigious Expedition | 0.60% | ~93 |
 | Blood Flower Farmer | 0.60% | ~93 |
 | Victory through Prosperity | 0.60% | ~93 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,517 (Ranked 106)  
+Progressed: 15,519 (Ranked 106)  
 Completed: 39 (0.25%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 39 (0.25%) (Ranked 149)
 | 2023-06-26 | 15,493 | 38 |
 | 2023-06-27 | 15,505 | 39 |
 | 2023-06-28 | 15,511 | 39 |
-| 2023-06-29 | 15,517 | 39 |
+| 2023-06-29 | 15,519 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,057 (Ranked 156)  

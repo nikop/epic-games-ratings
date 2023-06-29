@@ -5,30 +5,30 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
-| Secret Technique | 0.90% | ~44 |
+| A Wonderful Discovery | 0.70% | ~34 |
 | My Final Form | 0.70% | ~34 |
 | Realm Estate | 0.60% | ~29 |
-| A Wonderful Discovery | 0.60% | ~29 |
+| From Friends to Family | 0.60% | ~29 |
 | Stronger Together | 0.60% | ~29 |
 | Magical Synergy | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Blood of the Dragon | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
 | Walls Cannot Stop Us | 0.50% | ~24 |
-| From Friends to Family | 0.50% | ~24 |
 | Impenetrable Fortress | 0.50% | ~24 |
 | Bone Peddler | 0.40% | ~19 |
 | Seat of Power | 0.40% | ~19 |
 | Fiery Friend | 0.40% | ~19 |
 | Against the Odds | 0.40% | ~19 |
+| Intimidation Tactics | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |
 | Return of the Wizard King | 0.30% | ~15 |
 | Digging for Treasure | 0.30% | ~15 |
 | Preparation Is Everything | 0.30% | ~15 |
-| Intimidation Tactics | 0.30% | ~15 |
 | Duality | 0.30% | ~15 |
 | The Magic That Empowers Me! | 0.20% | ~10 |
 | Arch Mage | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,871 (Ranked 133)  
+Progressed: 4,873 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
-| 2023-06-29 | 4,871 | 4 |
+| 2023-06-29 | 4,873 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

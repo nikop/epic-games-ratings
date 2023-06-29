@@ -1,12 +1,12 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.46 (Ranked 604)  
+Rating: 4.46 (Ranked 603)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~989 |
+| Atom Agent | 99.00% | ~990 |
 | One HIT wonder | 35.00% | ~350 |
 | Wanderer | 35.00% | ~350 |
 | One shot, one kill | 29.00% | ~290 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 186)  
+Progressed: 1,000 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 995 | 0 |
 | 2023-06-27 | 997 | 0 |
 | 2023-06-28 | 999 | 0 |
+| 2023-06-29 | 1,000 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 399)  
 Sum: 49 (Ranked 445)  

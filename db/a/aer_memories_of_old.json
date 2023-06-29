@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13892,
+  "EOS_Progressed": 13894,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -7599,6 +7599,11 @@
       "Time": "2023-06-29T13:22:06.6381909+00:00",
       "NumProgressed": 13892,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-06-29T14:07:41.2996974+00:00",
+      "NumProgressed": 13894,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 20,
@@ -7658,7 +7663,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -7714,7 +7719,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "GAME_FINISHED",
@@ -7730,7 +7735,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10558
+      "UsersEstimate": 10559
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7754,7 +7759,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "WEST_FINISHED",
@@ -7762,22 +7767,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13892,
+      "Progressed": 13894,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-29T13:22:06.6381903+00:00",
+  "LastChanged_Achievements": "2023-06-29T14:07:41.2996968+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-29T13:15:39.4716279+00:00",
-  "LastUpdate_Achievements": "2023-06-29T13:22:06.6382483+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:01:31.0441998+00:00",
+  "LastUpdate_Achievements": "2023-06-29T14:07:41.2997576+00:00"
 }

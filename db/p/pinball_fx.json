@@ -1576,7 +1576,7 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 234520,
+  "EOS_Progressed": 234531,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3201,
   "EOS_NewCompleters": 0,
@@ -9051,6 +9051,11 @@
       "Time": "2023-06-29T13:18:39.300764+00:00",
       "NumProgressed": 234520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T14:03:28.7340281+00:00",
+      "NumProgressed": 234531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -9110,7 +9115,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25797
+      "UsersEstimate": 25798
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -9230,7 +9235,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -9286,7 +9291,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 192306
+      "UsersEstimate": 192315
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -9294,22 +9299,22 @@
       "Name": "I know the Rules",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 96153
+      "UsersEstimate": 96158
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 234520,
+      "Progressed": 234531,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-06-27T17:00:00.4463689+00:00",
-  "LastChanged_Achievements": "2023-06-29T13:18:39.3007636+00:00",
+  "LastChanged_Achievements": "2023-06-29T14:03:28.7340276+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:53.6263035+00:00",
-  "LastUpdate_Ratings": "2023-06-29T13:14:27.3495276+00:00",
-  "LastUpdate_Achievements": "2023-06-29T13:18:39.3008345+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:00:02.8392937+00:00",
+  "LastUpdate_Achievements": "2023-06-29T14:03:28.7341109+00:00"
 }

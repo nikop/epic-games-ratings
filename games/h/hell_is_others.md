@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,141 |
-| Predator I | 22.00% | ~55,455 |
+| Survivor | 31.00% | ~78,142 |
+| Predator I | 22.00% | ~55,456 |
 | Fixer I | 10.00% | ~25,207 |
 | A week in Century City | 10.00% | ~25,207 |
 | The Wait | 7.00% | ~17,645 |
 | Green thumb I | 6.00% | ~15,124 |
 | Cleaning Company | 6.00% | ~15,124 |
-| Well-oiled machine | 5.00% | ~12,603 |
-| Saver I | 5.00% | ~12,603 |
+| Well-oiled machine | 5.00% | ~12,604 |
+| Saver I | 5.00% | ~12,604 |
 | The Ascent | 4.00% | ~10,083 |
 | Pacifist | 4.00% | ~10,083 |
 | Vandalism | 4.00% | ~10,083 |
@@ -36,7 +36,7 @@ Rating: 4.44 (Ranked 634)
 | Bricklayer | 1.00% | ~2,521 |
 | Run the Economy | 1.00% | ~2,521 |
 | Committed Relationship | 0.80% | ~2,017 |
-| Number 1 | 0.70% | ~1,764 |
+| Number 1 | 0.70% | ~1,765 |
 | Interior designer | 0.60% | ~1,512 |
 | The Gamble | 0.50% | ~1,260 |
 | The Descent | 0.50% | ~1,260 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 634)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,068 (Ranked 42)  
+Progressed: 252,072 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-26 | 251,938 | 2 |
 | 2023-06-27 | 251,990 | 2 |
 | 2023-06-28 | 252,047 | 2 |
-| 2023-06-29 | 252,068 | 2 |
+| 2023-06-29 | 252,072 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 451)  
 Sum: 170 (Ranked 376)  

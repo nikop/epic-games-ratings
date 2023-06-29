@@ -1,10 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 594)  
+Rating: 4.45 (Ranked 618)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Confirming Suspicions | 0.10% | ~3 |
+| Tinkerer | 0.10% | ~3 |
+| Change the Channel | 0.10% | ~3 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
@@ -26,7 +29,6 @@ Rating: 4.47 (Ranked 594)
 | The Long Game | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
-| Confirming Suspicions | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
@@ -43,11 +45,9 @@ Rating: 4.47 (Ranked 594)
 | Burn after reading | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
-| Tinkerer | 0.00% | ~0 |
 | It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
-| Change the Channel | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
@@ -203,3 +203,4 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-21 | 4.48 | 0 | 0 |
 | 2023-06-22 | 4.46 | 0 | 0 |
 | 2023-06-23 | 4.47 | 0 | 0 |
+| 2023-06-29 | 4.45 | 0 | 0 |

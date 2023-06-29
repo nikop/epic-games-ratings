@@ -5,12 +5,12 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,431 |
-| World Map | 79.00% | ~1,202 |
+| Victor | 94.00% | ~1,432 |
+| World Map | 79.00% | ~1,203 |
 | Temple of Eternals | 57.00% | ~868 |
 | Prestigious | 54.00% | ~822 |
 | Fellowship Power | 41.00% | ~624 |
-| Guild Power | 25.00% | ~380 |
+| Guild Power | 25.00% | ~381 |
 | Prestigious x10 | 21.00% | ~320 |
 | The game is on | 19.00% | ~289 |
 | Exotic Merchant | 17.00% | ~259 |
@@ -27,7 +27,7 @@ Rating: 4.07 (Ranked 895)
 | Natural Talent | 12.00% | ~183 |
 | Superior | 12.00% | ~183 |
 | The Unstoppable | 12.00% | ~183 |
-| Scientist | 11.00% | ~167 |
+| Scientist | 11.00% | ~168 |
 | Challenger | 9.00% | ~137 |
 | Doing My Part | 9.00% | ~137 |
 | Hunter | 9.00% | ~137 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,522 (Ranked 167)  
+Progressed: 1,523 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
-| 2023-06-29 | 1,522 | 1 |
+| 2023-06-29 | 1,523 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

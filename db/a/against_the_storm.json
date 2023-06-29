@@ -2438,9 +2438,9 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 15517,
+  "EOS_Progressed": 15519,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6148,6 +6148,11 @@
       "Time": "2023-06-29T08:07:26.8337622+00:00",
       "NumProgressed": 15517,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-29T14:07:53.1082304+00:00",
+      "NumProgressed": 15519,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6221,9 +6226,9 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 109
     },
     {
       "ID": "MetalChain",
@@ -6253,9 +6258,9 @@
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 466
     },
     {
       "ID": "WinImpossible",
@@ -6349,17 +6354,17 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 310
     },
     {
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 310
     },
     {
       "ID": "WinNearMonastery",
@@ -6558,15 +6563,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15517,
+      "Progressed": 15519,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-27T23:59:42.0866999+00:00",
-  "LastChanged_Achievements": "2023-06-29T13:22:16.9280214+00:00",
+  "LastChanged_Achievements": "2023-06-29T14:07:53.1082297+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-29T13:15:30.4419108+00:00",
-  "LastUpdate_Achievements": "2023-06-29T13:22:16.9280833+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:01:20.0571551+00:00",
+  "LastUpdate_Achievements": "2023-06-29T14:07:53.1083123+00:00"
 }
