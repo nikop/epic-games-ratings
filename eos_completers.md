@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.09% |
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.80% |
-| 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
@@ -476,4 +476,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,851 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,853 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

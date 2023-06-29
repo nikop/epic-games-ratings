@@ -293,6 +293,7 @@
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Filthy Animals \| Heist Simulator](../games/f/filthy_animals___heist_simulator.md) | 28 | 1,000 |
+| [FRONT MISSION 1st: Remake](../games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 28 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
 | [MultiVersus](../games/m/multiversus.md) | 28 | 1,000 |

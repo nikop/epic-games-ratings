@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [The Backrooms 1998 - Found Footage Survival Horror Game](games/b/b9a7d92240b44ea38a75c31f8860d40d.md) | 2023-06-29 | - |  | - | - |
 | [Frightence](games/0/00f00dd1769a46568868a5fdb61748d4.md) | 2023-06-29 | - |  | - | - |
-| [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | - |  | - | - |
+| [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 2023-06-29 | 28 (1,000 XP) | 0 | - | - |
 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 2023-06-29 | 16 (1,000 XP) | 3 | - | - |
 | [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | - |  | - | - |
 | [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | 2023-06-30 | - |  | - | - |
@@ -248,6 +248,7 @@
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | - |  | - | - |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
+| [Dimension Drive](games/d/d76f74c986a7462e95442dd6dd211357.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dust Fleet](games/d/dust_fleet.md) | 2099-01-01 | - |  | - | - |
@@ -292,6 +293,7 @@
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | - |  | - | - |
 | [Lightyear Frontier](games/l/lightyear_frontier.md) | 2099-01-01 | - |  | - | - |
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
+| [Lost Wing](games/c/c3900988383a48b4959c3292a8a555eb.md) | 2099-01-01 | - |  | - | - |
 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2099-01-01 | - |  | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [LunarLux](games/l/lunarlux.md) | 2099-01-01 | - |  | - | - |
