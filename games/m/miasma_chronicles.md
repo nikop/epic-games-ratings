@@ -54,7 +54,7 @@ Rating: 4.35 (Ranked 734)
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
 | Attenborough | 0.30% | ~4 |
-| Master Editor | 0.20% | ~2 |
+| Master Editor | 0.30% | ~4 |
 | Bookworm | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,195 (Ranked 178)  

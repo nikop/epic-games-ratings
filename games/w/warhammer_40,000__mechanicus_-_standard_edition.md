@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,957 |
-| This is only the beginning | 19.00% | ~41,007 |
-| Knowledge is power | 12.00% | ~25,899 |
-| Power Ranger | 9.00% | ~19,424 |
-| Galvanic Rifle | 9.00% | ~19,424 |
-| Taser Goad | 9.00% | ~19,424 |
-| Radium Ready | 9.00% | ~19,424 |
-| Half a cog | 9.00% | ~19,424 |
+| No aid from the Omnissiah | 25.00% | ~53,958 |
+| This is only the beginning | 19.00% | ~41,008 |
+| Knowledge is power | 12.00% | ~25,900 |
+| Power Ranger | 9.00% | ~19,425 |
+| Galvanic Rifle | 9.00% | ~19,425 |
+| Taser Goad | 9.00% | ~19,425 |
+| Radium Ready | 9.00% | ~19,425 |
+| Half a cog | 9.00% | ~19,425 |
 | Watch them crumble | 6.00% | ~12,950 |
 | Competent Cohort | 4.00% | ~8,633 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,633 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 651)
 | Perma-live | 0.10% | ~216 |
 | Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,827 (Ranked 50)  
+Progressed: 215,830 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,15 +110,15 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-26 | 215,553 | 4 |
 | 2023-06-27 | 215,643 | 4 |
 | 2023-06-28 | 215,743 | 4 |
-| 2023-06-29 | 215,827 | 4 |
+| 2023-06-29 | 215,830 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
-Sum: 2,113 (Ranked 188)  
+Sum: 2,114 (Ranked 188)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 280 |
-| This game has Quickly Understood Controls | 271 |
+| This game has Quickly Understood Controls | 272 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 259 |
 | This game has Diverse Characters | 254 |
@@ -169,3 +169,4 @@ Diff (max vs sum): 49
 | 2023-06-20 | 4.43 | 280 | 2,111 |
 | 2023-06-22 | 4.43 | 280 | 2,112 |
 | 2023-06-28 | 4.43 | 280 | 2,113 |
+| 2023-06-29 | 4.43 | 280 | 2,114 |

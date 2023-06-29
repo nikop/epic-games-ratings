@@ -5,6 +5,7 @@ Rating: 4.45 (Ranked 618)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kraken Wakes | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
 | Liberté | 0.10% | ~3 |
 | No Stone Unturned | 0.10% | ~3 |
@@ -12,6 +13,7 @@ Rating: 4.45 (Ranked 618)
 | Enemy at the Gates | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
+| Organ Grinder | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
@@ -25,8 +27,8 @@ Rating: 4.45 (Ranked 618)
 | Resourceful | 0.10% | ~3 |
 | Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
-| The Kraken Wakes | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
+| Snake in the Grass | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Burn after reading | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
@@ -43,11 +45,12 @@ Rating: 4.45 (Ranked 618)
 | Last Resort | 0.10% | ~3 |
 | Siegebreaker | 0.10% | ~3 |
 | Ghost of Falaise | 0.10% | ~3 |
+| If You Go Down To The Woods Today | 0.10% | ~3 |
+| Fight Another Day | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
 | Sink or Swim | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 | Best of the Best | 0.00% | ~0 |
-| Organ Grinder | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
@@ -57,7 +60,6 @@ Rating: 4.45 (Ranked 618)
 | Out of Scope | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
-| Snake in the Grass | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
@@ -73,8 +75,6 @@ Rating: 4.45 (Ranked 618)
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
-| If You Go Down To The Woods Today | 0.00% | ~0 |
-| Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,164 (Ranked 145)  

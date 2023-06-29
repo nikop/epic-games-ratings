@@ -5,26 +5,26 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,728 |
-| Start with a bang! | 80.00% | ~2,694 |
-| You can pet the cat! | 75.00% | ~2,526 |
-| Who put gears in there? | 68.00% | ~2,290 |
+| Feeling the beat! | 81.00% | ~2,729 |
+| Start with a bang! | 80.00% | ~2,695 |
+| You can pet the cat! | 75.00% | ~2,527 |
+| Who put gears in there? | 68.00% | ~2,291 |
 | Cream of the Crop | 63.00% | ~2,122 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,088 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,089 |
 | You got this, Peppermint? | 57.00% | ~1,920 |
-| Perfect Parry | 55.00% | ~1,852 |
+| Perfect Parry | 55.00% | ~1,853 |
 | Alright, that felt AWESOME! | 54.00% | ~1,819 |
 | I play my own way! | 50.00% | ~1,684 |
 | This will cost you big time | 48.00% | ~1,617 |
 | Uh, they were broken when I got here | 47.00% | ~1,583 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,549 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,550 |
 | Kissing the sky! | 44.00% | ~1,482 |
 | Does that say weakpoint? | 41.00% | ~1,381 |
-| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,347 |
+| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,348 |
 | The Negotiator | 39.00% | ~1,314 |
 | You must like calling me in, Chai | 34.00% | ~1,145 |
 | Out in a puff of smoke | 34.00% | ~1,145 |
-| Headliner | 33.00% | ~1,111 |
+| Headliner | 33.00% | ~1,112 |
 | Time to pay up! | 31.00% | ~1,044 |
 | Who's the boss now? | 29.00% | ~977 |
 | I have to read these things? | 29.00% | ~977 |
@@ -37,8 +37,8 @@ Rating: 4.89 (Ranked 12)
 | I told you I'd be fine, Peppermint! | 17.00% | ~573 |
 | Wanna hear my playlist? | 12.00% | ~404 |
 | Check out my moves! | 12.00% | ~404 |
-| Chip-tuned | 11.00% | ~370 |
-| We're Jammin' | 8.00% | ~269 |
+| Chip-tuned | 11.00% | ~371 |
+| We're Jammin' | 8.00% | ~270 |
 | I think I deserve some praise, here! | 7.00% | ~236 |
 | I think I found your calling, Macaron | 7.00% | ~236 |
 | I'm not done with you yet | 7.00% | ~236 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,368 (Ranked 144)  
+Progressed: 3,369 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 5 (0.15%) (Ranked 167)
 | 2023-06-26 | 3,351 | 5 |
 | 2023-06-27 | 3,355 | 5 |
 | 2023-06-28 | 3,362 | 5 |
-| 2023-06-29 | 3,368 | 5 |
+| 2023-06-29 | 3,369 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

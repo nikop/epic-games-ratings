@@ -5,7 +5,7 @@ Rating: 4.64 (Ranked 313)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 65.00% | ~4,556 |
+| On Deceive Inc.'s Secret Service | 65.00% | ~4,557 |
 | Mainframe Hacker | 47.00% | ~3,295 |
 | Tomorrow Never Dyes | 46.00% | ~3,225 |
 | The Spy who eliminated me | 46.00% | ~3,225 |
@@ -14,23 +14,23 @@ Rating: 4.64 (Ranked 313)
 | From the Vault with Love | 37.00% | ~2,594 |
 | Tailor-Made | 37.00% | ~2,594 |
 | Fully Decked Out | 35.00% | ~2,454 |
-| You Only Live Twice | 32.00% | ~2,243 |
+| You Only Live Twice | 32.00% | ~2,244 |
 | A view to Win | 27.00% | ~1,893 |
-| Smells Like Trouble | 25.00% | ~1,752 |
-| Assistant Accountant | 24.00% | ~1,682 |
-| The Living Portrait | 24.00% | ~1,682 |
-| Private Collection | 24.00% | ~1,682 |
-| Killer Looks | 24.00% | ~1,682 |
-| Hostile Takeover | 24.00% | ~1,682 |
-| Keycards Royale | 23.00% | ~1,612 |
-| Dr. No Kill | 23.00% | ~1,612 |
-| My Motto, My Creed | 23.00% | ~1,612 |
+| Smells Like Trouble | 25.00% | ~1,753 |
+| Assistant Accountant | 24.00% | ~1,683 |
+| The Living Portrait | 24.00% | ~1,683 |
+| Private Collection | 24.00% | ~1,683 |
+| Killer Looks | 24.00% | ~1,683 |
+| Hostile Takeover | 24.00% | ~1,683 |
+| Keycards Royale | 23.00% | ~1,613 |
+| Dr. No Kill | 23.00% | ~1,613 |
+| My Motto, My Creed | 23.00% | ~1,613 |
 | In It to Win It | 22.00% | ~1,542 |
 | Security Supervisor | 10.00% | ~701 |
 | License to Thrill | 8.00% | ~561 |
 | Social of Solace | 8.00% | ~561 |
 | Safe Withdrawal | 6.00% | ~421 |
-| Live and let lie | 5.00% | ~350 |
+| Live and let lie | 5.00% | ~351 |
 | Call Me Maybe | 4.00% | ~280 |
 | PHD in VIP | 4.00% | ~280 |
 | Branch Manager | 3.00% | ~210 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,010 (Ranked 122)  
+Progressed: 7,011 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 6,969 | 0 |
 | 2023-06-27 | 6,978 | 0 |
 | 2023-06-28 | 6,997 | 0 |
-| 2023-06-29 | 7,010 | 0 |
+| 2023-06-29 | 7,011 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

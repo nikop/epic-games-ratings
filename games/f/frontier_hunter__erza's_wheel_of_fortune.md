@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Training Simulation | 90.00% | ~38 |
-| Travel Streamer | 88.00% | ~37 |
+| Training Simulation | 93.00% | ~39 |
+| Travel Streamer | 90.00% | ~38 |
 | Kuku Bird Hunter | 86.00% | ~36 |
 | Wolf King Killer | 81.00% | ~34 |
 | Storm Traveller | 79.00% | ~33 |

@@ -26,10 +26,10 @@ Rating: 4.57 (Ranked 438)
 | Convenient Transport | 5.00% | ~138 |
 | Please Make it Stop! | 5.00% | ~138 |
 | Sightseeing | 4.00% | ~110 |
+| Access Granted | 4.00% | ~110 |
 | Necessary Enhancement | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~82 |
-| Access Granted | 3.00% | ~82 |
 | BRAWL! | 3.00% | ~82 |
 | All in Good Health | 3.00% | ~82 |
 | What the Ruins Teach Us | 3.00% | ~82 |

@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7010,
+  "EOS_Progressed": 7011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4952,6 +4952,11 @@
       "Time": "2023-06-29T19:07:03.780225+00:00",
       "NumProgressed": 7010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T22:07:25.9535188+00:00",
+      "NumProgressed": 7011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -4963,7 +4968,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "0002",
@@ -4979,7 +4984,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0004",
@@ -5051,7 +5056,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "0013",
@@ -5059,7 +5064,7 @@
       "Name": "Keycards Royale",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "0014",
@@ -5083,7 +5088,7 @@
       "Name": "Live and let lie",
       "Percentage": 5,
       "XP": 115,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "0017",
@@ -5115,7 +5120,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 23,
       "XP": 115,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "0021",
@@ -5163,7 +5168,7 @@
       "Name": "The Living Portrait",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0027",
@@ -5171,7 +5176,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "0028",
@@ -5203,7 +5208,7 @@
       "Name": "Private Collection",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0032",
@@ -5211,7 +5216,7 @@
       "Name": "Killer Looks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0033",
@@ -5219,7 +5224,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "0034",
@@ -5227,7 +5232,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "0035",
@@ -5250,7 +5255,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7010,
+      "Progressed": 7011,
       "Completed": 0
     }
   ],
@@ -5258,8 +5263,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:07:46.9316293+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:07:25.9535183+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:46.3450857+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:01:10.0292389+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:07:46.931687+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:00:35.6593322+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:07:25.9535879+00:00"
 }

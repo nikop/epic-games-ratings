@@ -10,32 +10,32 @@ Rating: 4.64 (Ranked 313)
 | High Profile | 57.00% | ~286 |
 | Whispers In The Dark | 56.00% | ~281 |
 | Fond Memories | 53.00% | ~266 |
+| A Method To His Madness | 52.00% | ~261 |
 | History Check | 51.00% | ~256 |
-| A Method To His Madness | 51.00% | ~256 |
-| The New World | 47.00% | ~235 |
-| Open Sesame | 47.00% | ~235 |
-| Lock, Stock, And Barrel | 46.00% | ~230 |
-| Gaze Into The Abyss | 46.00% | ~230 |
-| Sticky Fingers | 46.00% | ~230 |
-| Knives Out | 46.00% | ~230 |
-| Back In The Saddle | 45.00% | ~225 |
-| Land, Ho! | 45.00% | ~225 |
-| No Man Is An Island | 44.00% | ~220 |
-| At Wits' End | 43.00% | ~215 |
-| Fhtagn! | 41.00% | ~205 |
-| Bookworm | 40.00% | ~200 |
-| Up In Flames | 40.00% | ~200 |
-| Going Once... | 38.00% | ~190 |
-| Let Me Be Frank | 37.00% | ~185 |
-| Brain Food | 35.00% | ~175 |
-| No Stone Unturned | 34.00% | ~170 |
+| The New World | 47.00% | ~236 |
+| Lock, Stock, And Barrel | 46.00% | ~231 |
+| Gaze Into The Abyss | 46.00% | ~231 |
+| Open Sesame | 46.00% | ~231 |
+| Sticky Fingers | 46.00% | ~231 |
+| Knives Out | 46.00% | ~231 |
+| Back In The Saddle | 45.00% | ~226 |
+| Land, Ho! | 45.00% | ~226 |
+| No Man Is An Island | 43.00% | ~216 |
+| At Wits' End | 42.00% | ~211 |
+| Fhtagn! | 41.00% | ~206 |
+| Up In Flames | 40.00% | ~201 |
+| Bookworm | 39.00% | ~196 |
+| Going Once... | 38.00% | ~191 |
+| Let Me Be Frank | 36.00% | ~181 |
+| Brain Food | 34.00% | ~171 |
+| No Stone Unturned | 34.00% | ~171 |
 | Curiosity Killed The Cat | 21.00% | ~105 |
 | Read It And Weep | 21.00% | ~105 |
 | Big Breakthrough | 14.00% | ~70 |
 | Reawakened | 6.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501 (Ranked 210)  
-Completed: 24 (4.79%) (Ranked 38)  
+Progressed: 502 (Ranked 210)  
+Completed: 24 (4.78%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 24 (4.79%) (Ranked 38)
 | 2023-06-26 | 496 | 25 |
 | 2023-06-27 | 498 | 25 |
 | 2023-06-28 | 499 | 24 |
-| 2023-06-29 | 501 | 24 |
+| 2023-06-29 | 502 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

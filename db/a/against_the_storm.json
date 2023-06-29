@@ -5,10 +5,10 @@
   "Ranking_Rating": 75,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 156,
-  "Ranking_EOS_Progress": 106,
+  "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2444,9 +2444,9 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 15525,
+  "EOS_Progressed": 15526,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -6179,6 +6179,11 @@
       "Time": "2023-06-29T20:07:14.2764623+00:00",
       "NumProgressed": 15525,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-06-29T22:07:31.3128617+00:00",
+      "NumProgressed": 15526,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6270,7 +6275,7 @@
       "Name": "Homesick",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinFirstGame",
@@ -6310,7 +6315,7 @@
       "Name": "Bandit Camp",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearBarren",
@@ -6318,7 +6323,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearBattleground",
@@ -6326,7 +6331,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearCrystals",
@@ -6334,7 +6339,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearDangerous",
@@ -6382,7 +6387,7 @@
       "Name": "Levitating Monument",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearMines",
@@ -6390,7 +6395,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearMonastery",
@@ -6398,7 +6403,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearOutpost",
@@ -6406,7 +6411,7 @@
       "Name": "Royal Outpost",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearRuins",
@@ -6414,7 +6419,7 @@
       "Name": "Lost Colonies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinNearStatue",
@@ -6446,7 +6451,7 @@
       "Name": "Watchtower",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinOnCoral",
@@ -6462,7 +6467,7 @@
       "Name": "Cursed Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinOnMarshlands",
@@ -6502,7 +6507,7 @@
       "Name": "A Real Challenge",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinWIthCaches",
@@ -6550,7 +6555,7 @@
       "Name": "Like a Machine",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -6558,7 +6563,7 @@
       "Name": "Trade Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "WinWithoutDeath",
@@ -6589,15 +6594,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15525,
+      "Progressed": 15526,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-06-29T19:00:41.0774748+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:07:51.5591574+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:07:31.3128612+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.1280074+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:01:29.9886179+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:07:51.5592201+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:01:00.1043933+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:07:31.3129352+00:00"
 }

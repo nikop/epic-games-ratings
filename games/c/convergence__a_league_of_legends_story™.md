@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 16.00% | ~117 |
+| The Mysterious Stranger | 14.00% | ~102 |
 | Rail Rat | 14.00% | ~102 |
 | Cartographer | 14.00% | ~102 |
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
-| The Mysterious Stranger | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |

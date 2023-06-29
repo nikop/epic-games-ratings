@@ -5,11 +5,13 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You Need a Gun | 0.20% | ~31 |
+| Get a Grip | 0.20% | ~31 |
+| Two Heads Are Better Than One | 0.20% | ~31 |
 | Paper Jams | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Giving Back | 0.10% | ~16 |
-| You Need a Gun | 0.10% | ~16 |
 | Flesh Wound | 0.10% | ~16 |
 | Grim Reaper | 0.10% | ~16 |
 | I Do Belong Here | 0.10% | ~16 |
@@ -17,9 +19,7 @@ Rating: 4.19 (Ranked 844)
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
 | Parole Denied | 0.10% | ~4 |
-| Get a Grip | 0.10% | ~16 |
 | In Striking Distance | 0.10% | ~16 |
-| Two Heads Are Better Than One | 0.10% | ~16 |
 | Chew 'Em Up | 0.10% | ~16 |
 | Terminated | 0.10% | ~16 |
 | Workplace Hazard | 0.10% | ~16 |
@@ -38,6 +38,7 @@ Rating: 4.19 (Ranked 844)
 | Power Up | 0.10% | ~16 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
+| One Last Job | 0.10% | ~4 |
 | Keep Fighting | 0.10% | ~4 |
 | It's Time | 0.10% | ~4 |
 | Quick Pick | 0.10% | ~4 |
@@ -51,9 +52,8 @@ Rating: 4.19 (Ranked 844)
 | Subject Alpha | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Information Overload | 0.00% | ~0 |
-| One Last Job | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,589 (Ranked 105)  
+Progressed: 15,589 (Ranked 106)  
 Completed: 59 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |

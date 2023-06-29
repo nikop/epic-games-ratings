@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63966,
+  "EOS_Progressed": 63970,
   "EOS_Completed": 588,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1146,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7592,6 +7592,11 @@
       "Time": "2023-06-29T21:07:38.6062156+00:00",
       "NumProgressed": 63966,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2023-06-29T22:07:16.9900519+00:00",
+      "NumProgressed": 63970,
+      "NumCompleted": 588
     }
   ],
   "TotalAchievements": 25,
@@ -7619,7 +7624,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11514
+      "UsersEstimate": 11515
     },
     {
       "ID": "Audiophile",
@@ -7643,7 +7648,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10874
+      "UsersEstimate": 10875
     },
     {
       "ID": "Butcher",
@@ -7675,7 +7680,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12793
+      "UsersEstimate": 12794
     },
     {
       "ID": "Hearty",
@@ -7707,7 +7712,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12793
+      "UsersEstimate": 12794
     },
     {
       "ID": "Meaty",
@@ -7802,7 +7807,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 63966,
+      "Progressed": 63970,
       "Completed": 588
     }
   ],
@@ -7810,8 +7815,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:07:38.6062143+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:07:16.9900515+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:02:02.7647384+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:07:38.606356+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:01:37.1981705+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:07:16.9901352+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -880,10 +880,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-06-29T22:01:14.7071632+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 659,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 658,
+  "NumberOfAwards": 659,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -891,7 +897,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Relaxing",
@@ -954,9 +960,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3879,
+  "EOS_Progressed": 3880,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5264,6 +5270,11 @@
       "Time": "2023-06-29T19:04:20.2786044+00:00",
       "NumProgressed": 3879,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T22:04:19.7495562+00:00",
+      "NumProgressed": 3880,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5379,7 +5390,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5435,7 +5446,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5547,7 +5558,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5594,15 +5605,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3879,
+      "Progressed": 3880,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-28T03:21:33.4351968+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:05:07.4100839+00:00",
+  "LastChanged": "2023-06-29T22:01:14.707163+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:04:19.7495554+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:01:43.1314879+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:05:07.4101422+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:01:14.7071637+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:04:19.7496318+00:00"
 }

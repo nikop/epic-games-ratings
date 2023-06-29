@@ -29,7 +29,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~303 |
 | Next-Door Play | 3.00% | ~303 |
 | Get the Toad | 3.00% | ~303 |
-| Beware Still Water | 3.00% | ~266 |
+| Beware Still Water | 3.00% | ~267 |
 | Heart of the Fallen Land | 2.00% | ~202 |
 | Path of the Trickster | 2.00% | ~202 |
 | Path of the Lich | 2.00% | ~202 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,101 (Ranked 116)  
+Progressed: 10,102 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 10,073 | 0 |
 | 2023-06-27 | 10,083 | 0 |
 | 2023-06-28 | 10,094 | 0 |
-| 2023-06-29 | 10,101 | 0 |
+| 2023-06-29 | 10,102 | 0 |
 ## Awards
 Max (Character Customization): 1,669  (Ranked 115)  
 Sum: 6,782 (Ranked 111)  

@@ -2570,9 +2570,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49768,
+  "EOS_Progressed": 49769,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -8300,6 +8300,11 @@
       "Time": "2023-06-29T20:02:11.9548262+00:00",
       "NumProgressed": 49768,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-06-29T22:02:09.4500084+00:00",
+      "NumProgressed": 49769,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 45,
@@ -8335,7 +8340,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39317
+      "UsersEstimate": 39318
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8423,7 +8428,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29363
+      "UsersEstimate": 29364
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8431,7 +8436,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22893
+      "UsersEstimate": 22894
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -8439,7 +8444,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8455,7 +8460,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18414
+      "UsersEstimate": 18415
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8551,7 +8556,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28865
+      "UsersEstimate": 28866
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8575,7 +8580,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48275
+      "UsersEstimate": 48276
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8591,7 +8596,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -8615,7 +8620,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35335
+      "UsersEstimate": 35336
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8631,7 +8636,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18414
+      "UsersEstimate": 18415
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8647,7 +8652,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26377
+      "UsersEstimate": 26378
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8663,22 +8668,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35833
+      "UsersEstimate": 35834
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49768,
+      "Progressed": 49769,
       "Completed": 197
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-29T13:16:08.1946991+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:03:09.0847817+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:02:09.4500079+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:02:10.2730362+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:03:09.0848565+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:01:46.4403659+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:02:09.4500812+00:00"
 }

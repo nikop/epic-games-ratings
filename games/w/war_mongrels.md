@@ -33,9 +33,9 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 16.00% | ~62 |
 | Collectibles of Chapter III | 15.00% | ~58 |
 | Collectibles of Chapter IV | 15.00% | ~58 |
-| Atonement | 14.00% | ~54 |
+| Atonement | 15.00% | ~58 |
 | Helping Hand | 14.00% | ~54 |
-| Without a Second Thought | 12.00% | ~47 |
+| Without a Second Thought | 13.00% | ~51 |
 | Collectibles of Chapter V | 10.00% | ~39 |
 | Tiptoe Around | 8.00% | ~31 |
 | Such is War! | 7.00% | ~27 |

@@ -238,9 +238,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -326,9 +326,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 90,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-06-29T21:07:39.838585+00:00",
+  "LastChanged_Achievements": "2023-06-29T22:07:18.4608209+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.9611014+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:01:11.1627528+00:00",
-  "LastUpdate_Achievements": "2023-06-29T21:07:39.8386249+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:00:37.23993+00:00",
+  "LastUpdate_Achievements": "2023-06-29T22:07:18.4608725+00:00"
 }
