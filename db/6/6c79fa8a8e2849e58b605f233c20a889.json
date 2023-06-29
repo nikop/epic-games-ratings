@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1815,
+  "EOS_Progressed": 1816,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -2906,6 +2906,11 @@
       "Time": "2023-06-28T23:05:18.7220431+00:00",
       "NumProgressed": 1815,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T04:04:59.6490701+00:00",
+      "NumProgressed": 1816,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2915,9 +2920,9 @@
       "ID": "AGGRO",
       "SetID": "8lhbnh7",
       "Name": "Aggressor",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 109
     },
     {
       "ID": "AI_DRAW",
@@ -3092,14 +3097,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1815,
+      "Progressed": 1816,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-29T03:23:31.4454517+00:00",
+  "LastChanged_Achievements": "2023-06-29T04:04:59.6490696+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:15:36.7802078+00:00",
-  "LastUpdate_Achievements": "2023-06-29T03:23:31.4454861+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:57:26.9517456+00:00",
+  "LastUpdate_Achievements": "2023-06-29T04:04:59.6491027+00:00"
 }

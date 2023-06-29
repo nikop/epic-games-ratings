@@ -840,9 +840,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "CULTURE_2",
@@ -912,9 +912,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "FAITH_2",
@@ -968,9 +968,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "FELIZ_2",
@@ -1216,9 +1216,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "SPORTS_2",
@@ -1337,8 +1337,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-29T03:25:58.3638632+00:00",
+  "LastChanged_Achievements": "2023-06-29T04:07:00.8192892+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:45.6174547+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:17:51.3758596+00:00",
-  "LastUpdate_Achievements": "2023-06-29T03:25:58.3639535+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:59:17.1381736+00:00",
+  "LastUpdate_Achievements": "2023-06-29T04:07:00.8193814+00:00"
 }

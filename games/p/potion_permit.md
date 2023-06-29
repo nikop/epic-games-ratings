@@ -16,7 +16,7 @@ Rating: 3.82 (Ranked 935)
 | K.O.! | 42.00% | ~609 |
 | Intermediate Chemist | 39.00% | ~566 |
 | Decorative Mind | 31.00% | ~450 |
-| Lumber Specialist | 30.00% | ~435 |
+| Lumber Specialist | 31.00% | ~450 |
 | Kind-hearted | 24.00% | ~348 |
 | Catch of the Day | 24.00% | ~348 |
 | Amateur Chef | 21.00% | ~305 |

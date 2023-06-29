@@ -8,7 +8,7 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Alt+F4 | 92.00% | ~235 |
 | Where's that freaking Dwarf? | 87.00% | ~222 |
-| Sock! SOCK! | 68.00% | ~173 |
+| Sock! SOCK! | 69.00% | ~176 |
 | Fireproof Wizardess | 55.00% | ~140 |
 | Déjà vu | 53.00% | ~135 |
 | GG EZ | 53.00% | ~135 |

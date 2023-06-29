@@ -1604,7 +1604,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 49403,
+  "EOS_Progressed": 49404,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 0,
@@ -8879,6 +8879,11 @@
       "Time": "2023-06-29T03:21:21.1875995+00:00",
       "NumProgressed": 49403,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-29T04:03:30.3472033+00:00",
+      "NumProgressed": 49404,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -9154,7 +9159,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19761
+      "UsersEstimate": 19762
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -9178,7 +9183,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 31124
+      "UsersEstimate": 31125
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -9258,7 +9263,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 38040
+      "UsersEstimate": 38041
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -9306,7 +9311,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6423
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -9361,15 +9366,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 49403,
+      "Progressed": 49404,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-26T20:59:14.6303029+00:00",
-  "LastChanged_Achievements": "2023-06-29T03:21:21.1875983+00:00",
+  "LastChanged_Achievements": "2023-06-29T04:03:30.3472027+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.7675909+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:17:13.9158686+00:00",
-  "LastUpdate_Achievements": "2023-06-29T03:21:21.1878422+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:58:46.3031005+00:00",
+  "LastUpdate_Achievements": "2023-06-29T04:03:30.3473026+00:00"
 }

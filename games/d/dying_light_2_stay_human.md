@@ -7,11 +7,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Never Forget Your First... | 11.00% | ~64,260 |
-| Into the Unknown | 10.00% | ~58,418 |
-| First Shot | 10.00% | ~58,418 |
-| Herzlich Wilkommen! | 9.00% | ~52,576 |
-| Good Night & Good Luck | 9.00% | ~52,576 |
-| Sancho Panza | 8.00% | ~46,734 |
+| Into the Unknown | 10.00% | ~58,419 |
+| First Shot | 10.00% | ~58,419 |
+| Herzlich Wilkommen! | 9.00% | ~52,577 |
+| Good Night & Good Luck | 9.00% | ~52,577 |
+| Sancho Panza | 8.00% | ~46,735 |
 | Under Pressure | 7.00% | ~40,893 |
 | On the Trail of the Enemy | 7.00% | ~40,893 |
 | Flag Burning | 7.00% | ~40,893 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,367 |
 | Terminal Headache | 4.00% | ~23,367 |
 | Slowpoke! | 4.00% | ~23,367 |
-| You're Going Down! | 3.00% | ~17,525 |
+| You're Going Down! | 3.00% | ~17,526 |
 | Municipal Services | 2.00% | ~11,684 |
 | Tickets, Please! | 2.00% | ~11,684 |
 | Ban Hammer | 2.00% | ~11,684 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~230 |
 | Connoisseur | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,181 (Ranked 26)  
+Progressed: 584,186 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 58 (0.01%) (Ranked 218)
 | 2023-06-26 | 583,355 | 58 |
 | 2023-06-27 | 583,754 | 58 |
 | 2023-06-28 | 584,145 | 58 |
-| 2023-06-29 | 584,181 | 58 |
+| 2023-06-29 | 584,186 | 58 |
 ## Awards
 Max (Character Customization): 8,082  (Ranked 40)  
 Sum: 18,828 (Ranked 55)  

@@ -7,7 +7,7 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 3.00% | ~170 |
-| Smooth Operator: Madison | 2.00% | ~113 |
+| Smooth Operator: Madison | 2.00% | ~114 |
 | The Brahdyssey | 1.00% | ~57 |
 | Caught in the Act | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,674 (Ranked 128)  
+Progressed: 5,675 (Ranked 128)  
 Completed: 3 (0.05%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 3 (0.05%) (Ranked 197)
 | 2023-06-26 | 5,655 | 3 |
 | 2023-06-27 | 5,662 | 3 |
 | 2023-06-28 | 5,673 | 3 |
-| 2023-06-29 | 5,674 | 3 |
+| 2023-06-29 | 5,675 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

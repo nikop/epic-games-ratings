@@ -1,46 +1,46 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 688)  
+Rating: 4.40 (Ranked 687)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 78.00% | ~76,764 |
+| A Family Heirloom | 78.00% | ~76,765 |
 | 74 miles East of Otaheité | 55.00% | ~54,129 |
 | Interesting... | 41.00% | ~40,351 |
-| The Everhart Expedition | 39.00% | ~38,382 |
+| The Everhart Expedition | 39.00% | ~38,383 |
 | The Vanishing of the Lady Shannon | 29.00% | ~28,541 |
 | Seaside Serenade | 29.00% | ~28,541 |
-| Halfway there | 28.00% | ~27,556 |
-| A brigantine, a brig and a barque | 27.00% | ~26,572 |
-| Weekend at Walakea's | 27.00% | ~26,572 |
-| 506 East Hampden Avenue | 27.00% | ~26,572 |
+| Halfway there | 28.00% | ~27,557 |
+| A brigantine, a brig and a barque | 27.00% | ~26,573 |
+| Weekend at Walakea's | 27.00% | ~26,573 |
+| 506 East Hampden Avenue | 27.00% | ~26,573 |
 | Quite a Show | 26.00% | ~25,588 |
 | Dark Water Ride | 23.00% | ~22,636 |
 | Sunken | 23.00% | ~22,636 |
 | Deep Cut | 23.00% | ~22,636 |
-| FHALGOF'N' | 21.00% | ~20,667 |
+| FHALGOF'N' | 21.00% | ~20,668 |
 | Marsh Cannery | 20.00% | ~19,683 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~16,731 |
-| The only thing I have now | 15.00% | ~14,762 |
-| Not Another Boring Slideshow! | 15.00% | ~14,762 |
-| Naacalvision | 15.00% | ~14,762 |
-| I'll make a note of that... | 9.00% | ~8,857 |
-| The Norahnomicon | 9.00% | ~8,857 |
+| The only thing I have now | 15.00% | ~14,763 |
+| Not Another Boring Slideshow! | 15.00% | ~14,763 |
+| Naacalvision | 15.00% | ~14,763 |
+| I'll make a note of that... | 9.00% | ~8,858 |
+| The Norahnomicon | 9.00% | ~8,858 |
 | Written in Stone | 6.00% | ~5,905 |
 | Play it again, Norah | 6.00% | ~5,905 |
 | Underwater Royalty | 6.00% | ~5,905 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~3,937 |
 | Fawning Developers | 4.00% | ~3,937 |
 | Candid Photo | 4.00% | ~3,937 |
-| The Lady Shannon Recording | 3.00% | ~2,952 |
+| The Lady Shannon Recording | 3.00% | ~2,953 |
 | You looked that up in a guide! | 2.00% | ~1,968 |
 | Soundcheck | 2.00% | ~1,968 |
 | Otherwordly Portal | 2.00% | ~1,968 |
 | Gently down the stream... | 1.00% | ~984 |
 | Meta-reference | 1.00% | ~984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,416 (Ranked 65)  
+Progressed: 98,417 (Ranked 65)  
 Completed: 750 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 750 (0.76%) (Ranked 108)
 | 2023-06-26 | 97,690 | 743 |
 | 2023-06-27 | 98,029 | 749 |
 | 2023-06-28 | 98,370 | 750 |
-| 2023-06-29 | 98,416 | 750 |
+| 2023-06-29 | 98,417 | 750 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

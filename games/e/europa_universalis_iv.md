@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,652 |
-| That's a Grand Army | 8.00% | ~5,024 |
-| That is mine! | 8.00% | ~5,024 |
-| Victorious! | 8.00% | ~5,024 |
-| Brothers in Arms | 6.00% | ~3,768 |
-| That's a Grand Navy | 6.00% | ~3,768 |
-| Seriously?! | 6.00% | ~3,768 |
-| For the Glory | 5.00% | ~3,140 |
-| Cold War | 4.00% | ~2,512 |
-| True Catholic | 4.00% | ~2,512 |
-| Defender of the Faith | 3.00% | ~1,884 |
-| It's all about the money | 3.00% | ~1,884 |
-| Respected | 3.00% | ~1,884 |
-| Truly Divine Ruler | 3.00% | ~1,884 |
+| Until death do us apart | 9.00% | ~5,654 |
+| That's a Grand Army | 8.00% | ~5,025 |
+| That is mine! | 8.00% | ~5,025 |
+| Victorious! | 8.00% | ~5,025 |
+| Brothers in Arms | 6.00% | ~3,769 |
+| That's a Grand Navy | 6.00% | ~3,769 |
+| Seriously?! | 6.00% | ~3,769 |
+| For the Glory | 5.00% | ~3,141 |
+| Cold War | 4.00% | ~2,513 |
+| True Catholic | 4.00% | ~2,513 |
+| Defender of the Faith | 3.00% | ~1,885 |
+| It's all about the money | 3.00% | ~1,885 |
+| Respected | 3.00% | ~1,885 |
+| Truly Divine Ruler | 3.00% | ~1,885 |
 | Agressive Expander | 2.00% | ~1,256 |
 | Blockader | 2.00% | ~1,256 |
 | Combined Arms | 2.00% | ~1,256 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~565 |
 | Isn't this the way to India? | 0.90% | ~565 |
 | Market Control | 0.90% | ~565 |
-| Down Under | 0.80% | ~502 |
-| Trustworthy | 0.80% | ~502 |
+| Down Under | 0.80% | ~503 |
+| Trustworthy | 0.80% | ~503 |
 | Electable! | 0.70% | ~440 |
 | All belongs to Mother Russia | 0.60% | ~377 |
 | At every continent | 0.60% | ~377 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,804 (Ranked 77)  
+Progressed: 62,818 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
-| 2023-06-29 | 62,804 | 0 |
+| 2023-06-29 | 62,818 | 0 |
 ## Awards
 Max (Educational): 5,469  (Ranked 61)  
 Sum: 45,178 (Ranked 27)  
