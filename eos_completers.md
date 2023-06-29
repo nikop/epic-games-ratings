@@ -23,7 +23,7 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.24% |
@@ -31,10 +31,10 @@
 | 29 | [Scorn](games/s/scorn.md) | 6.88% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 32 | [Without Escape](games/w/without_escape.md) | 5.88% |
-| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
-| 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
-| 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
+| 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
+| 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 34 | [Without Escape](games/w/without_escape.md) | 5.56% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.79% |
@@ -69,8 +69,8 @@
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.31% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.21% |
-| 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
+| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.20% |
+| 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
@@ -86,8 +86,8 @@
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
-| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
-| 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
+| 87 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
+| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
 | 89 | [Five Dates](games/f/five_dates.md) | 1.31% |
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
