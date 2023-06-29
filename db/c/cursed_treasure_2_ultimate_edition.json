@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Free Coast",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
@@ -455,9 +455,9 @@
       "ID": "BADGE_HOSTILE_WATERS",
       "SetID": "ak6pfjk",
       "Name": "Hostile Waters",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "BADGE_LOVELESS",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:04:23.1764473+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:04:44.4985329+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:58:38.848058+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:04:23.1764915+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:58:54.7415146+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:04:44.4985751+00:00"
 }

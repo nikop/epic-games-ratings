@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 93,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -891,6 +891,11 @@
       "Time": "2023-06-29T11:03:57.8497916+00:00",
       "NumProgressed": 276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T12:04:14.8228612+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1006,7 +1011,7 @@
       "Name": "Facility Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1030,7 +1035,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1076,9 +1081,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1126,7 +1131,7 @@
       "Name": "On Target",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1158,7 +1163,7 @@
       "Name": "Defenses Online",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1205,14 +1210,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:03:57.8497911+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:04:14.8228607+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:00:11.2153435+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:03:57.8498257+00:00"
+  "LastUpdate_Ratings": "2023-06-29T12:00:48.172315+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:04:14.8228877+00:00"
 }

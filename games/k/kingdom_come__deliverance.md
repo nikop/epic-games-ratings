@@ -6,18 +6,18 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,924 |
-| Cavalier | 25.00% | ~197,520 |
-| Fatso | 23.00% | ~181,718 |
-| Awakening | 20.00% | ~158,016 |
-| Ranger | 20.00% | ~158,016 |
-| Scrooge | 20.00% | ~158,016 |
+| Blacksmith's Son | 31.00% | ~244,926 |
+| Cavalier | 25.00% | ~197,521 |
+| Fatso | 23.00% | ~181,719 |
+| Awakening | 20.00% | ~158,017 |
+| Ranger | 20.00% | ~158,017 |
+| Scrooge | 20.00% | ~158,017 |
 | Anorectic | 16.00% | ~126,413 |
 | Firestarter | 15.00% | ~118,512 |
-| Bookworm | 14.00% | ~110,611 |
-| Insomniac | 13.00% | ~102,710 |
-| Buddy | 12.00% | ~94,809 |
-| Thief | 12.00% | ~94,809 |
+| Bookworm | 14.00% | ~110,612 |
+| Insomniac | 13.00% | ~102,711 |
+| Buddy | 12.00% | ~94,810 |
+| Thief | 12.00% | ~94,810 |
 | Sinner | 11.00% | ~86,909 |
 | Convict | 10.00% | ~79,008 |
 | Traveller | 10.00% | ~79,008 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,079 (Ranked 15)  
+Progressed: 790,083 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,16 +159,16 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-26 | 789,739 | 43 |
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
-| 2023-06-29 | 790,079 | 43 |
+| 2023-06-29 | 790,083 | 43 |
 ## Awards
 Max (Character Customization): 7,280  (Ranked 46)  
-Sum: 27,165 (Ranked 43)  
+Sum: 27,167 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,280 |
 | This game has Great Boss Battles | 5,351 |
-| This game has Challenging Combat | 1,705 |
+| This game has Challenging Combat | 1,707 |
 | This game has Amazing Storytelling | 1,665 |
 | This game is Extremely Fun | 1,639 |
 | This game has Diverse Characters | 1,639 |
@@ -336,3 +336,4 @@ Diff (max vs sum): 3
 | 2023-06-26 | 4.71 | - | 7,276 | 27,146 |
 | 2023-06-27 | 4.71 | - | 7,279 | 27,156 |
 | 2023-06-28 | 4.71 | - | 7,280 | 27,165 |
+| 2023-06-29 | 4.71 | - | 7,280 | 27,167 |

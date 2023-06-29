@@ -695,9 +695,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "Librarian",
@@ -904,8 +904,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:06:02.8711028+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:06:42.5392201+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:38.2734684+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:59:27.657574+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:06:02.8711382+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:59:55.0626555+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:06:42.5392485+00:00"
 }

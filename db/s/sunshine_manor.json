@@ -2,7 +2,7 @@
   "ID": "13757d00c8d345449b71d27943019ca1",
   "Name": "Sunshine Manor",
   "ProductSlug": "sunshine-manor-bc9b28",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 93,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.8137821+00:00",
   "LastChanged": "2023-03-31T05:58:47.8137822+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:18.287425+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:59:15.5492908+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:05:14.4763904+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:59:40.22843+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:05:46.0426709+00:00"
 }

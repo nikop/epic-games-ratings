@@ -50,13 +50,13 @@
 | Dwarven Countdown | 28.00% | ~45 |
 | Starry: Wasteland | 28.00% | ~45 |
 | Deadman's Chest | 27.00% | ~44 |
+| Brilliant: Free Coast | 25.00% | ~40 |
 | Monument Keeper | 25.00% | ~40 |
-| Brilliant: Free Coast | 24.00% | ~39 |
 | Brilliant: The Deep | 23.00% | ~37 |
 | Starry: Free Coast | 22.00% | ~36 |
 | Starry: The Deep | 20.00% | ~32 |
+| Hostile Waters | 16.00% | ~26 |
 | Loveless | 16.00% | ~26 |
-| Hostile Waters | 15.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 162 (Ranked 273)  
 Completed: 21 (12.96%) (Ranked 15)  

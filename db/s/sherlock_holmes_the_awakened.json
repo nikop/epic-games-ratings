@@ -1741,9 +1741,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "MQ04_3",
@@ -1878,8 +1878,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:04:44.6455088+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:05:09.9595802+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:15.3661664+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:57:27.6718232+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:04:44.6455465+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:57:29.5722493+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:05:09.9596046+00:00"
 }

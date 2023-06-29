@@ -105,9 +105,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "explodeItem100",
@@ -670,8 +670,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:03:10.3677937+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:03:20.4874949+00:00",
   "LastUpdate_AppInfo": "2023-06-28T08:57:15.8387643+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:57:09.1249738+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:03:10.3678713+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:57:06.3665372+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:03:20.4875613+00:00"
 }

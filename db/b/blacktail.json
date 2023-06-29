@@ -1169,9 +1169,9 @@
       "ID": "Goal",
       "SetID": "2aagp3d",
       "Name": "Goal!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 16
     },
     {
       "ID": "GoldRush",
@@ -1209,9 +1209,9 @@
       "ID": "LiarLiar",
       "SetID": "2aagp3d",
       "Name": "Liar Liar",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "LittleHelper",
@@ -1354,8 +1354,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:05:59.5035339+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:06:38.7342936+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:36.1540156+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:58:02.7336956+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:05:59.5035643+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:58:11.016477+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:06:38.7343185+00:00"
 }

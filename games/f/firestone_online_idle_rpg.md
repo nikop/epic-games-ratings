@@ -5,17 +5,17 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,430 |
+| Victor | 94.00% | ~1,431 |
 | World Map | 79.00% | ~1,202 |
-| Temple of Eternals | 57.00% | ~867 |
-| Prestigious | 54.00% | ~821 |
+| Temple of Eternals | 57.00% | ~868 |
+| Prestigious | 54.00% | ~822 |
 | Fellowship Power | 41.00% | ~624 |
 | Guild Power | 25.00% | ~380 |
-| Prestigious x10 | 21.00% | ~319 |
+| Prestigious x10 | 21.00% | ~320 |
 | The game is on | 19.00% | ~289 |
 | Exotic Merchant | 17.00% | ~259 |
-| Dragon Clicker | 16.00% | ~243 |
-| Miner Clicker | 16.00% | ~243 |
+| Dragon Clicker | 16.00% | ~244 |
+| Miner Clicker | 16.00% | ~244 |
 | Full Party | 15.00% | ~228 |
 | Inspection | 15.00% | ~228 |
 | Enlightenment | 14.00% | ~213 |
@@ -39,8 +39,8 @@ Rating: 4.07 (Ranked 895)
 | Frostfire Liberator | 8.00% | ~122 |
 | Moving Up The Ladder | 8.00% | ~122 |
 | Relic Of The Past | 8.00% | ~122 |
-| Here We Go Again | 7.00% | ~106 |
-| Master Enchanter | 7.00% | ~106 |
+| Here We Go Again | 7.00% | ~107 |
+| Master Enchanter | 7.00% | ~107 |
 | How Do You Turn This On? | 6.00% | ~91 |
 | The Expeditioner | 6.00% | ~91 |
 | The father of Dragons | 6.00% | ~91 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,521 (Ranked 167)  
+Progressed: 1,522 (Ranked 167)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
-| 2023-06-29 | 1,521 | 1 |
+| 2023-06-29 | 1,522 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

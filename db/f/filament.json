@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 53,
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194844,
+  "EOS_Progressed": 194849,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -7530,6 +7530,11 @@
       "Time": "2023-06-29T11:05:50.1839631+00:00",
       "NumProgressed": 194844,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-06-29T12:06:27.7873847+00:00",
+      "NumProgressed": 194849,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 29,
@@ -7565,7 +7570,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183153
+      "UsersEstimate": 183158
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7725,7 +7730,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19484
+      "UsersEstimate": 19485
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -7772,7 +7777,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194844,
+      "Progressed": 194849,
       "Completed": 451
     }
   ],
@@ -7780,8 +7785,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:05:50.1839627+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:06:27.7873843+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:58:49.0888539+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:05:50.1840344+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:59:08.554497+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:06:27.7874413+00:00"
 }

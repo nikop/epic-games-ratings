@@ -2,7 +2,7 @@
   "ID": "b4535bde10e34515ba22ca30a48d5964",
   "Name": "Spinch",
   "ProductSlug": "spinch-239b03",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 93,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.6589612+00:00",
   "LastChanged": "2023-03-31T05:58:17.6589613+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:43.6218133+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:00:12.2277107+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:04:00.9334826+00:00"
+  "LastUpdate_Ratings": "2023-06-29T12:00:49.0952386+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:04:18.3541737+00:00"
 }

@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 759)  
+Rating: 4.32 (Ranked 760)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -35,6 +35,7 @@ Number of Ratings: 177  (23.09.2022)
 | Te Amo Lety | 0.30% | ~17 |
 | Ashley | 0.20% | ~11 |
 | Benedict Brahrnold | 0.20% | ~11 |
+| The Bride | 0.20% | ~11 |
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
@@ -45,7 +46,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
 | Beyond the Call of Dude-y | 0.10% | ~6 |
-| The Bride | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
 | Deck the Balls | 0.10% | ~3 |

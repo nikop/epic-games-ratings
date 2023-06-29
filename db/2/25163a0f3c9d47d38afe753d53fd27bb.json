@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 211,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 482,
+  "EOS_Progressed": 483,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.83,
+  "EOS_Completed_Percentage": 11.8,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1421,6 +1421,11 @@
       "Time": "2023-06-29T11:04:38.2078656+00:00",
       "NumProgressed": 482,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-06-29T12:05:01.855011+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 30,
@@ -1432,7 +1437,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "LEVEL_002",
@@ -1480,7 +1485,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LEVEL_008",
@@ -1504,7 +1509,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_011",
@@ -1574,9 +1579,9 @@
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_020",
@@ -1584,7 +1589,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_021",
@@ -1671,14 +1676,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 482,
+      "Progressed": 483,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:04:38.207865+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:05:01.8550105+00:00",
   "LastUpdate_AppInfo": "2023-06-26T15:57:12.2730858+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:57:19.9149344+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:04:38.207899+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:57:19.6141804+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:05:01.8550357+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b29663f909b94b0b83deb76f147e9e4f",
   "Name": "Cook, Serve, Delicious! 3?!",
   "ProductSlug": "cook-serve-delicious-3-fb9aae",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 269,
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 93,
@@ -1263,6 +1263,6 @@
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
   "LastChanged": "2023-06-28T13:16:33.205517+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:26.5501632+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:59:19.9584425+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:03:43.1372369+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:59:45.5844122+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:03:58.1232305+00:00"
 }

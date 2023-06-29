@@ -8,13 +8,13 @@ Rating: 4.77 (Ranked 108)
 | The Sort Who Makes an Entrance | 10.00% | ~28,187 |
 | First Class Student | 9.00% | ~25,368 |
 | Troll with the Punches | 9.00% | ~25,368 |
-| Grappling with a Graphorn | 8.00% | ~22,549 |
-| The One Who Mastered Memories | 8.00% | ~22,549 |
-| The Hallowed Hero | 8.00% | ~22,549 |
-| The Defender of Dragons | 8.00% | ~22,549 |
-| A Keen Sense of Spell | 8.00% | ~22,549 |
-| Coasting Along | 8.00% | ~22,549 |
-| That's a Keeper | 8.00% | ~22,549 |
+| Grappling with a Graphorn | 8.00% | ~22,550 |
+| The One Who Mastered Memories | 8.00% | ~22,550 |
+| The Hallowed Hero | 8.00% | ~22,550 |
+| The Defender of Dragons | 8.00% | ~22,550 |
+| A Keen Sense of Spell | 8.00% | ~22,550 |
+| Coasting Along | 8.00% | ~22,550 |
+| That's a Keeper | 8.00% | ~22,550 |
 | The Hero of Hogwarts | 7.00% | ~19,731 |
 | Challenge Accepted | 7.00% | ~19,731 |
 | Loom for Improvement | 7.00% | ~19,731 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,868 (Ranked 41)  
+Progressed: 281,872 (Ranked 41)  
 Completed: 414 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,16 +121,16 @@ Completed: 414 (0.15%) (Ranked 167)
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
 | 2023-06-28 | 281,822 | 413 |
-| 2023-06-29 | 281,868 | 414 |
+| 2023-06-29 | 281,872 | 414 |
 ## Awards
 Max (Character Customization): 20,491  (Ranked 17)  
-Sum: 38,123 (Ranked 30)  
+Sum: 38,126 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20,491 |
 | This game has Great Boss Battles | 9,749 |
-| This game is Great for Beginners | 871 |
+| This game is Great for Beginners | 874 |
 | This game is Extremely Fun | 860 |
 | This game is Relaxing | 854 |
 | This game has Amazing Storytelling | 844 |
@@ -240,4 +240,4 @@ Diff (max vs sum): -13
 | 2023-06-26 | 4.77 | 20,422 | 37,969 |
 | 2023-06-27 | 4.77 | 20,457 | 38,041 |
 | 2023-06-28 | 4.77 | 20,491 | 38,117 |
-| 2023-06-29 | 4.77 | 20,491 | 38,123 |
+| 2023-06-29 | 4.77 | 20,491 | 38,126 |

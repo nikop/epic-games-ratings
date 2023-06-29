@@ -5,18 +5,18 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tipping the Scales | 1.00% | ~49 |
 | Secret Technique | 0.90% | ~44 |
-| Tipping the Scales | 0.90% | ~44 |
+| My Final Form | 0.70% | ~34 |
 | Realm Estate | 0.60% | ~29 |
 | A Wonderful Discovery | 0.60% | ~29 |
+| Stronger Together | 0.60% | ~29 |
 | Magical Synergy | 0.60% | ~29 |
-| My Final Form | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Blood of the Dragon | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
 | Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
-| Stronger Together | 0.50% | ~24 |
 | Impenetrable Fortress | 0.50% | ~24 |
 | Bone Peddler | 0.40% | ~19 |
 | Seat of Power | 0.40% | ~19 |
@@ -24,13 +24,13 @@ Rating: 4.59 (Ranked 410)
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |
+| Return of the Wizard King | 0.30% | ~15 |
 | Digging for Treasure | 0.30% | ~15 |
 | Preparation Is Everything | 0.30% | ~15 |
 | Against the Odds | 0.30% | ~15 |
 | Intimidation Tactics | 0.30% | ~15 |
 | Duality | 0.30% | ~15 |
 | The Magic That Empowers Me! | 0.20% | ~10 |
-| Return of the Wizard King | 0.20% | ~10 |
 | Arch Mage | 0.20% | ~10 |
 | The Creator | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |

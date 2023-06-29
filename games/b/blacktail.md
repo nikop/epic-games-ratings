@@ -16,18 +16,18 @@ Rating: 4.68 (Ranked 241)
 | Spirit animal | 7.00% | ~37 |
 | Sneak peek | 5.00% | ~26 |
 | Fishing fanatic | 5.00% | ~26 |
+| Liar Liar | 5.00% | ~26 |
 | A friend in need... | 5.00% | ~26 |
 | Extensive retelling | 4.00% | ~21 |
 | Favorite | 4.00% | ~21 |
 | The word around is... | 4.00% | ~21 |
-| Liar Liar | 4.00% | ~21 |
 | The cycle acknowledged | 4.00% | ~21 |
 | Queen | 4.00% | ~21 |
 | Baba Yaga | 4.00% | ~21 |
+| Goal! | 3.00% | ~16 |
 | Both sides | 3.00% | ~16 |
 | Specialist | 3.00% | ~16 |
 | Witch's cookbook | 3.00% | ~16 |
-| Goal! | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |
 | Always worth a try | 2.00% | ~10 |
 | Toxic | 2.00% | ~10 |

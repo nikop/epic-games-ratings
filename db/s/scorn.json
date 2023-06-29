@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2150,
+  "EOS_Progressed": 2151,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 6.88,
   "EosHistory": [
@@ -1558,6 +1558,11 @@
       "Time": "2023-06-29T02:26:40.709321+00:00",
       "NumProgressed": 2150,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-06-29T12:06:26.1831993+00:00",
+      "NumProgressed": 2151,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 12,
@@ -1617,7 +1622,7 @@
       "Name": "007",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "008",
@@ -1625,7 +1630,7 @@
       "Name": "008",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "009",
@@ -1633,7 +1638,7 @@
       "Name": "009",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "010",
@@ -1641,7 +1646,7 @@
       "Name": "010",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "011",
@@ -1649,7 +1654,7 @@
       "Name": "011",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "012",
@@ -1657,14 +1662,14 @@
       "Name": "012",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2150,
+      "Progressed": 2151,
       "Completed": 148
     }
   ],
@@ -1672,8 +1677,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:05:48.7334291+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:06:26.1831984+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:46.9109993+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:58:10.6107366+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:05:48.733448+00:00"
+  "LastUpdate_Ratings": "2023-06-29T11:58:20.940471+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:06:26.1832193+00:00"
 }

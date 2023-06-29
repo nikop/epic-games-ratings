@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1814,9 +1814,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66098,
+  "EOS_Progressed": 66101,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8044,6 +8044,11 @@
       "Time": "2023-06-29T11:06:05.9822611+00:00",
       "NumProgressed": 66098,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-29T12:06:46.1921985+00:00",
+      "NumProgressed": 66101,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8415,7 +8420,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -8535,20 +8540,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66098,
+      "Progressed": 66101,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36378,
+      "Progressed": 36381,
       "Completed": 2647
     }
   ],
@@ -8556,8 +8561,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-29T05:00:14.2117772+00:00",
-  "LastChanged_Achievements": "2023-06-29T11:06:05.9822605+00:00",
+  "LastChanged_Achievements": "2023-06-29T12:06:46.1921976+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-29T10:59:39.1152435+00:00",
-  "LastUpdate_Achievements": "2023-06-29T11:06:05.9823617+00:00"
+  "LastUpdate_Ratings": "2023-06-29T12:00:08.4207111+00:00",
+  "LastUpdate_Achievements": "2023-06-29T12:06:46.1922754+00:00"
 }

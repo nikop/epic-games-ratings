@@ -6,32 +6,32 @@ Rating: 4.89 (Ranked 12)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 81.00% | ~2,726 |
-| Start with a bang! | 80.00% | ~2,692 |
+| Start with a bang! | 80.00% | ~2,693 |
 | You can pet the cat! | 75.00% | ~2,524 |
-| Who put gears in there? | 68.00% | ~2,288 |
-| Cream of the Crop | 63.00% | ~2,120 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,086 |
-| You got this, Peppermint? | 57.00% | ~1,918 |
+| Who put gears in there? | 68.00% | ~2,289 |
+| Cream of the Crop | 63.00% | ~2,121 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,087 |
+| You got this, Peppermint? | 57.00% | ~1,919 |
 | Perfect Parry | 55.00% | ~1,851 |
-| Alright, that felt AWESOME! | 54.00% | ~1,817 |
-| I play my own way! | 50.00% | ~1,682 |
-| This will cost you big time | 48.00% | ~1,615 |
+| Alright, that felt AWESOME! | 54.00% | ~1,818 |
+| I play my own way! | 50.00% | ~1,683 |
+| This will cost you big time | 48.00% | ~1,616 |
 | Uh, they were broken when I got here | 47.00% | ~1,582 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,514 |
+| Z-shielding's got nothing on us! | 45.00% | ~1,515 |
 | Kissing the sky! | 44.00% | ~1,481 |
 | Does that say weakpoint? | 41.00% | ~1,380 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,346 |
-| The Negotiator | 39.00% | ~1,312 |
+| The Negotiator | 39.00% | ~1,313 |
 | You must like calling me in, Chai | 34.00% | ~1,144 |
 | Out in a puff of smoke | 34.00% | ~1,144 |
-| Headliner | 33.00% | ~1,110 |
+| Headliner | 33.00% | ~1,111 |
 | Time to pay up! | 30.00% | ~1,010 |
 | Who's the boss now? | 29.00% | ~976 |
 | Perfecter Parry-er! | 29.00% | ~976 |
 | I have to read these things? | 28.00% | ~942 |
 | I look cool. But I can look COOLER. | 28.00% | ~942 |
-| There's such a thing as TOO helpful | 22.00% | ~740 |
-| That's a lot of junk metal… | 19.00% | ~639 |
+| There's such a thing as TOO helpful | 22.00% | ~741 |
+| That's a lot of junk metal… | 19.00% | ~640 |
 | Beat-hit mania | 18.00% | ~606 |
 | Well that was a rush! | 17.00% | ~572 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~572 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,365 (Ranked 143)  
+Progressed: 3,366 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 5 (0.15%) (Ranked 167)
 | 2023-06-26 | 3,351 | 5 |
 | 2023-06-27 | 3,355 | 5 |
 | 2023-06-28 | 3,362 | 5 |
-| 2023-06-29 | 3,365 | 5 |
+| 2023-06-29 | 3,366 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
