@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -428,9 +428,9 @@
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_24",
@@ -564,9 +564,9 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_41",
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:03:23.2418322+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:23:19.546026+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:03.9931762+00:00",
-  "LastUpdate_Ratings": "2023-06-29T00:01:09.1711016+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:03:23.2418806+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:20:35.5270791+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:23:19.5460649+00:00"
 }

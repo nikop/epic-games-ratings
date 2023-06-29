@@ -48,19 +48,19 @@ Rating: 4.47 (Ranked 594)
 | Ghost of Falaise | 0.50% | ~16 |
 | If You Go Down To The Woods Today | 0.50% | ~16 |
 | Fight Another Day | 0.50% | ~16 |
+| The Long Game | 0.40% | ~13 |
 | Burn after reading | 0.40% | ~13 |
 | Tinkerer | 0.40% | ~13 |
 | Locomotion Commotion | 0.40% | ~13 |
 | Road Rage | 0.40% | ~13 |
+| Shoot for the Moon | 0.40% | ~13 |
 | Sink or Swim | 0.40% | ~12 |
 | Going Overboard | 0.40% | ~12 |
-| The Long Game | 0.30% | ~9 |
 | Out of Scope | 0.30% | ~9 |
 | From Paris with Love | 0.30% | ~9 |
 | Souvenir hunter | 0.30% | ~9 |
 | Eagle Eyed | 0.30% | ~9 |
 | Up close and personal | 0.30% | ~9 |
-| Shoot for the Moon | 0.30% | ~9 |
 | Can't Outrun A Bullet | 0.30% | ~9 |
 | Führerious Repetition | 0.30% | ~9 |
 | Reich To The Point | 0.30% | ~9 |

@@ -9,10 +9,10 @@
 | Space | 53.00% | ~33 |
 | Haunted Mansion | 47.00% | ~29 |
 | Science Laboratory | 35.00% | ~22 |
-| Ball Disposal Facility | 27.00% | ~17 |
-| Mecha Wars | 26.00% | ~16 |
-| Sewer | 26.00% | ~16 |
-| Arcade | 26.00% | ~16 |
+| Ball Disposal Facility | 29.00% | ~18 |
+| Mecha Wars | 27.00% | ~17 |
+| Sewer | 27.00% | ~17 |
+| Arcade | 27.00% | ~17 |
 | Custom Court | 26.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62 (Ranked 321)  

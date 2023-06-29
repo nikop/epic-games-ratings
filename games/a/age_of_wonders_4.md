@@ -5,38 +5,38 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 0.80% | ~39 |
+| Secret Technique | 0.90% | ~44 |
 | Tipping the Scales | 0.80% | ~39 |
+| Magical Synergy | 0.60% | ~29 |
 | My Final Form | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
 | Realm Estate | 0.50% | ~24 |
 | A Wonderful Discovery | 0.50% | ~24 |
+| Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |
-| Magical Synergy | 0.50% | ~24 |
 | Here be Dragons | 0.50% | ~24 |
-| Walls Cannot Stop Us | 0.40% | ~19 |
 | Bone Peddler | 0.40% | ~19 |
+| Impenetrable Fortress | 0.40% | ~19 |
 | Blood of the Dragon | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |
+| Preparation Is Everything | 0.30% | ~15 |
 | Seat of Power | 0.30% | ~15 |
 | Fiery Friend | 0.30% | ~15 |
 | Against the Odds | 0.30% | ~15 |
-| Impenetrable Fortress | 0.30% | ~15 |
 | Intimidation Tactics | 0.30% | ~15 |
 | Duality | 0.30% | ~15 |
+| The Magic That Empowers Me! | 0.20% | ~10 |
 | Return of the Wizard King | 0.20% | ~10 |
 | Arch Mage | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |
 | Eternal Lord | 0.20% | ~10 |
 | Digging for Treasure | 0.20% | ~10 |
-| Preparation Is Everything | 0.20% | ~10 |
 | In a Liege of Your Own | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
-| The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |
@@ -51,9 +51,9 @@ Rating: 4.59 (Ranked 410)
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
+| Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
 | I Want to Break Free | 0.00% | ~0 |
-| Betrayal Most Foul | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,867 (Ranked 133)  

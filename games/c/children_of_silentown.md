@@ -16,17 +16,17 @@
 | Glass shards | 46.00% | ~80 |
 | Complicated padlock | 42.00% | ~74 |
 | Big metal ruler | 42.00% | ~74 |
-| Windmill | 38.00% | ~66 |
-| Doll | 37.00% | ~65 |
+| Windmill | 39.00% | ~68 |
+| Doll | 38.00% | ~66 |
 | Mysterious paintings | 34.00% | ~60 |
 | Cat | 32.00% | ~56 |
 | Depths of the well | 25.00% | ~44 |
 | Children | 23.00% | ~40 |
 | Huge Snail | 16.00% | ~28 |
 | Flower of hope | 14.00% | ~25 |
+| Friend | 12.00% | ~21 |
 | Back Home | 11.00% | ~19 |
 | Forest Howl | 11.00% | ~19 |
-| Friend | 11.00% | ~19 |
 | Old kettle | 10.00% | ~18 |
 | Hope | 5.00% | ~9 |
 | Hairball | 0.00% | ~0 |

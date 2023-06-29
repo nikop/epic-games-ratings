@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -677,6 +677,11 @@
       "Time": "2023-06-28T18:07:17.4754541+00:00",
       "NumProgressed": 264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T02:27:03.3893128+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -958,9 +963,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "FELIZ_2",
@@ -1040,7 +1045,7 @@
       "Name": "The woodcutter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MILLS",
@@ -1080,7 +1085,7 @@
       "Name": "What would we do if we can\u0027t go out with friends?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -1120,7 +1125,7 @@
       "Name": "Small town",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "POPULATION_2",
@@ -1319,7 +1324,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 0
     }
   ],
@@ -1327,8 +1332,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:07:49.8870078+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:27:03.389312+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:45.6174547+00:00",
-  "LastUpdate_Ratings": "2023-06-28T23:59:50.8311314+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:07:49.8871036+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:19:30.7081465+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:27:03.3894003+00:00"
 }

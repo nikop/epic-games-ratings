@@ -2,9 +2,9 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -866,6 +866,11 @@
       "Time": "2023-06-28T22:04:12.1478676+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T02:24:28.8868598+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -893,7 +898,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_defeat_players_100",
@@ -979,9 +984,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -989,7 +994,7 @@
       "Name": "Corporal",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1013,7 +1018,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1053,7 +1058,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1125,7 +1130,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1133,7 +1138,7 @@
       "Name": "Defenses Online",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1180,14 +1185,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:04:47.0627567+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:24:28.8868594+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-29T00:01:47.4139166+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:04:47.0627953+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:21:06.6739546+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:24:28.8868868+00:00"
 }

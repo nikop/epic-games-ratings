@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -616,9 +616,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 252048,
+  "EOS_Progressed": 252050,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7651,6 +7651,11 @@
       "Time": "2023-06-29T00:05:09.827225+00:00",
       "NumProgressed": 252048,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-29T02:24:47.3284561+00:00",
+      "NumProgressed": 252050,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7662,7 +7667,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17643
+      "UsersEstimate": 17644
     },
     {
       "ID": "Act2",
@@ -7710,7 +7715,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78135
+      "UsersEstimate": 78136
     },
     {
       "ID": "BackHomeNTimes",
@@ -7934,7 +7939,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7561
+      "UsersEstimate": 7562
     },
     {
       "ID": "KillOtherWithMine",
@@ -8109,7 +8114,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252048,
+      "Progressed": 252050,
       "Completed": 2
     }
   ],
@@ -8117,8 +8122,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-28T23:01:45.4537695+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:05:09.8272243+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:24:47.3284554+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-29T00:01:37.3991042+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:05:09.8273157+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:20:59.1667425+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:24:47.328547+00:00"
 }

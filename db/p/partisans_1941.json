@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -297,7 +297,7 @@
   "Tags": [],
   "EOS_Progressed": 1077,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1404,9 +1404,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 366
     },
     {
       "ID": "Everyone_is_here",
@@ -1572,8 +1572,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:07:42.1211011+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:26:56.0132615+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:10.5622483+00:00",
-  "LastUpdate_Ratings": "2023-06-29T00:00:16.2314093+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:07:42.1211351+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:19:51.8481633+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:26:56.0132917+00:00"
 }

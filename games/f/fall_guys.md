@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 9.00% | ~3,036,896 |
-| Snowflake | 9.00% | ~3,036,896 |
-| Fall Throttle | 7.00% | ~2,362,030 |
-| Big Bully | 6.00% | ~2,024,597 |
-| Face First | 6.00% | ~2,024,597 |
-| One to Watch | 5.00% | ~1,687,164 |
-| Fall Bae | 5.00% | ~1,687,164 |
-| Ahead of the Pack | 5.00% | ~1,687,164 |
-| Style Points | 5.00% | ~1,687,164 |
-| Troublemaker | 5.00% | ~1,687,164 |
-| Bargain Bucket | 4.00% | ~1,349,731 |
-| Flawless Victory | 4.00% | ~1,349,731 |
-| Stumble Chums | 4.00% | ~1,349,731 |
-| Victory! | 4.00% | ~1,349,731 |
-| Catwalk Model | 2.00% | ~674,866 |
-| Down to the Wire | 2.00% | ~674,866 |
-| Household Name | 2.00% | ~674,866 |
-| Head Turner | 2.00% | ~674,866 |
-| One giant leap | 2.00% | ~674,866 |
-| Quite Dashing | 2.00% | ~674,866 |
-| Squad Goals | 2.00% | ~674,866 |
-| Big Air | 1.00% | ~337,433 |
-| Star of the Show | 1.00% | ~337,433 |
-| Shopping Spree | 1.00% | ~337,433 |
-| Low Baller | 0.90% | ~303,690 |
-| Mad Trendy | 0.90% | ~303,690 |
-| Top Tier | 0.90% | ~303,690 |
-| Veteran Status | 0.50% | ~168,716 |
-| Show Off | 0.50% | ~168,716 |
-| Golden Guy | 0.40% | ~134,973 |
-| Track Star | 0.30% | ~101,230 |
-| Big Tease | 0.20% | ~67,487 |
-| Fall Guy Fashionista | 0.20% | ~67,487 |
-| Infallible | 0.10% | ~33,743 |
+| One small trip | 9.00% | ~3,037,066 |
+| Snowflake | 9.00% | ~3,037,066 |
+| Fall Throttle | 7.00% | ~2,362,163 |
+| Big Bully | 6.00% | ~2,024,711 |
+| Face First | 6.00% | ~2,024,711 |
+| One to Watch | 5.00% | ~1,687,259 |
+| Fall Bae | 5.00% | ~1,687,259 |
+| Ahead of the Pack | 5.00% | ~1,687,259 |
+| Style Points | 5.00% | ~1,687,259 |
+| Troublemaker | 5.00% | ~1,687,259 |
+| Bargain Bucket | 4.00% | ~1,349,807 |
+| Flawless Victory | 4.00% | ~1,349,807 |
+| Stumble Chums | 4.00% | ~1,349,807 |
+| Victory! | 4.00% | ~1,349,807 |
+| Catwalk Model | 2.00% | ~674,904 |
+| Down to the Wire | 2.00% | ~674,904 |
+| Household Name | 2.00% | ~674,904 |
+| Head Turner | 2.00% | ~674,904 |
+| One giant leap | 2.00% | ~674,904 |
+| Quite Dashing | 2.00% | ~674,904 |
+| Squad Goals | 2.00% | ~674,904 |
+| Big Air | 1.00% | ~337,452 |
+| Star of the Show | 1.00% | ~337,452 |
+| Shopping Spree | 1.00% | ~337,452 |
+| Low Baller | 0.90% | ~303,707 |
+| Mad Trendy | 0.90% | ~303,707 |
+| Top Tier | 0.90% | ~303,707 |
+| Veteran Status | 0.50% | ~168,726 |
+| Show Off | 0.50% | ~168,726 |
+| Golden Guy | 0.40% | ~134,981 |
+| Track Star | 0.30% | ~101,236 |
+| Big Tease | 0.20% | ~67,490 |
+| Fall Guy Fashionista | 0.20% | ~67,490 |
+| Infallible | 0.10% | ~33,745 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,743,285 (Ranked 1)  
-Completed: 35,451 (0.11%) (Ranked 176)  
+Progressed: 33,745,179 (Ranked 1)  
+Completed: 35,468 (0.11%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,16 +111,16 @@ Completed: 35,451 (0.11%) (Ranked 176)
 | 2023-06-26 | 33,695,631 | 35,143 |
 | 2023-06-27 | 33,719,859 | 35,310 |
 | 2023-06-28 | 33,742,531 | 35,450 |
-| 2023-06-29 | 33,743,285 | 35,451 |
+| 2023-06-29 | 33,745,179 | 35,468 |
 ## Awards
-Max (Great for Beginners): 142,865  (Ranked 7)  
-Sum: 1,326,758 (Ranked 5)  
+Max (Great for Beginners): 142,968  (Ranked 7)  
+Sum: 1,326,910 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 142,865 |
+| This game is Great for Beginners | 142,968 |
 | This game is Relaxing | 132,201 |
-| This game has Competitive Players | 129,599 |
+| This game has Competitive Players | 129,648 |
 | This game has Quickly Understood Controls | 129,426 |
 | This game is Great for Quick Sessions | 126,177 |
 | This game has Diverse Characters | 123,251 |
@@ -287,3 +287,4 @@ Diff (max vs sum): 2
 | 2023-06-26 | 4.52 | - | 142,696 | 1,325,433 |
 | 2023-06-27 | 4.52 | - | 142,766 | 1,326,005 |
 | 2023-06-28 | 4.52 | - | 142,865 | 1,326,758 |
+| 2023-06-29 | 4.52 | - | 142,968 | 1,326,910 |

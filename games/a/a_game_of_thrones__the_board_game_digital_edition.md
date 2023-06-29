@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,828 |
-| Battering Crew | 20.00% | ~3,414 |
-| The Kingsroad | 18.00% | ~3,072 |
-| Well Stocked | 14.00% | ~2,390 |
-| Royal Fleet | 14.00% | ~2,390 |
-| The Kraken’s Grasp | 9.00% | ~1,536 |
-| Alliance | 9.00% | ~1,536 |
+| Conqueror | 40.00% | ~6,832 |
+| Battering Crew | 20.00% | ~3,416 |
+| The Kingsroad | 18.00% | ~3,074 |
+| Well Stocked | 14.00% | ~2,391 |
+| Royal Fleet | 14.00% | ~2,391 |
+| The Kraken’s Grasp | 9.00% | ~1,537 |
+| Alliance | 9.00% | ~1,537 |
 | Daggers in the Dark | 8.00% | ~1,366 |
 | Oathkeeper | 8.00% | ~1,366 |
 | A Long Journey | 8.00% | ~1,366 |
-| Ours is the Fury | 7.00% | ~1,195 |
-| Winter is Coming | 7.00% | ~1,195 |
-| Influential | 7.00% | ~1,195 |
-| We Do Not Sow | 6.00% | ~1,024 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,024 |
-| Hear me Roar! | 6.00% | ~1,024 |
-| Defender of the Wall | 6.00% | ~1,024 |
-| Growing Strong | 5.00% | ~853 |
+| Ours is the Fury | 7.00% | ~1,196 |
+| Winter is Coming | 7.00% | ~1,196 |
+| Influential | 7.00% | ~1,196 |
+| We Do Not Sow | 6.00% | ~1,025 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,025 |
+| Hear me Roar! | 6.00% | ~1,025 |
+| Defender of the Wall | 6.00% | ~1,025 |
+| Growing Strong | 5.00% | ~854 |
 | What is Dead may Never Die | 3.00% | ~512 |
 | The Swift | 3.00% | ~512 |
-| King in the North | 2.00% | ~341 |
+| King in the North | 2.00% | ~342 |
 | War of the Five Kings | 1.00% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,069 (Ranked 102)  
+Progressed: 17,080 (Ranked 102)  
 Completed: 34 (0.20%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 34 (0.20%) (Ranked 159)
 | 2023-06-26 | 16,854 | 34 |
 | 2023-06-27 | 16,975 | 34 |
 | 2023-06-28 | 17,063 | 34 |
-| 2023-06-29 | 17,069 | 34 |
+| 2023-06-29 | 17,080 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 306)  
 Sum: 784 (Ranked 259)  

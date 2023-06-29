@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -383,9 +383,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -471,9 +471,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:05:23.252999+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:24:58.6531542+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:27.6832007+00:00",
-  "LastUpdate_Ratings": "2023-06-28T23:59:31.6448574+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:05:23.2530467+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:19:14.5050703+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:24:58.6531953+00:00"
 }

@@ -14,11 +14,11 @@
 | Your War is Over | 82.00% | ~133 |
 | The Starry Night | 77.00% | ~125 |
 | Go Home! | 75.00% | ~122 |
-| Brilliant: Meadowshire | 73.00% | ~118 |
+| Brilliant: Meadowshire | 74.00% | ~120 |
 | Look After the Pence... | 73.00% | ~118 |
+| Drunken Master | 73.00% | ~118 |
 | Sergeant of the Evil | 73.00% | ~118 |
-| Drunken Master | 72.00% | ~117 |
-| V.I.P. Cemetery | 70.00% | ~113 |
+| V.I.P. Cemetery | 71.00% | ~115 |
 | Takeover | 69.00% | ~112 |
 | Woodcutter | 69.00% | ~112 |
 | Architect of Darkness | 69.00% | ~112 |

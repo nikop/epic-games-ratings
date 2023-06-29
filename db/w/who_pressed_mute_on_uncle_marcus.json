@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 193,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 10.88,
   "EosHistory": [
@@ -456,8 +456,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-06-29T00:07:32.4419441+00:00",
+  "LastChanged_Achievements": "2023-06-29T02:26:46.5272925+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:17.5674445+00:00",
-  "LastUpdate_Ratings": "2023-06-29T00:01:21.9835128+00:00",
-  "LastUpdate_Achievements": "2023-06-29T00:07:32.4419625+00:00"
+  "LastUpdate_Ratings": "2023-06-29T02:20:46.2378483+00:00",
+  "LastUpdate_Achievements": "2023-06-29T02:26:46.5273068+00:00"
 }

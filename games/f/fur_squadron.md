@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 78.00% | ~31 |
-| Do a barrel roll! | 63.00% | ~25 |
-| Huh? What was that? | 48.00% | ~19 |
-| Whatever it is, fix it! | 35.00% | ~14 |
-| The opposite of good news | 30.00% | ~12 |
-| Priceless company | 25.00% | ~10 |
-| My Emperor... I've failed you! | 23.00% | ~9 |
-| Enemy shield analyzed | 8.00% | ~3 |
+| All systems go | 78.00% | ~32 |
+| Do a barrel roll! | 61.00% | ~25 |
+| Huh? What was that? | 46.00% | ~19 |
+| Whatever it is, fix it! | 34.00% | ~14 |
+| The opposite of good news | 29.00% | ~12 |
+| Priceless company | 24.00% | ~10 |
+| My Emperor... I've failed you! | 22.00% | ~9 |
+| Enemy shield analyzed | 7.00% | ~3 |
 | Piece of cake | 5.00% | ~2 |
 | No need to say goodbye | 5.00% | ~2 |
-| Better hurry up | 3.00% | ~1 |
-| I call her the BF-Worm | 3.00% | ~1 |
-| Axel? | 3.00% | ~1 |
-| You won't escape that easy!! | 3.00% | ~1 |
-| I'm ready, anytime | 3.00% | ~1 |
-| Actually it's called aileron roll | 3.00% | ~1 |
-| I have a bad feeling about this | 3.00% | ~1 |
-| Any other day at work | 3.00% | ~1 |
-| I've had enough! | 3.00% | ~1 |
-| I. Am. Bored | 3.00% | ~1 |
+| Better hurry up | 2.00% | ~1 |
+| I call her the BF-Worm | 2.00% | ~1 |
+| Axel? | 2.00% | ~1 |
+| You won't escape that easy!! | 2.00% | ~1 |
+| I'm ready, anytime | 2.00% | ~1 |
+| Actually it's called aileron roll | 2.00% | ~1 |
+| I have a bad feeling about this | 2.00% | ~1 |
+| Any other day at work | 2.00% | ~1 |
+| I've had enough! | 2.00% | ~1 |
+| I. Am. Bored | 2.00% | ~1 |
 | See you on the other side | 0.00% | ~0 |
 | Like it's nothing | 0.00% | ~0 |
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 341)  
+Progressed: 41 (Ranked 339)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,3 +59,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 37 | 0 |
 | 2023-06-27 | 39 | 0 |
 | 2023-06-28 | 40 | 0 |
+| 2023-06-29 | 41 | 0 |

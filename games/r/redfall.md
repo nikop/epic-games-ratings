@@ -5,24 +5,24 @@ Rating: 3.51 (Ranked 945)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,314 |
-| Home Is Where the Heart Is | 60.00% | ~1,024 |
-| Ne Plus Ultra | 60.00% | ~1,024 |
-| Wounded Whispers | 60.00% | ~1,024 |
+| I Like My Stakes Rare! | 77.00% | ~1,315 |
+| Home Is Where the Heart Is | 60.00% | ~1,025 |
+| Ne Plus Ultra | 60.00% | ~1,025 |
+| Wounded Whispers | 60.00% | ~1,025 |
 | Blood Will Have Blood | 50.00% | ~854 |
-| ICU | 45.00% | ~768 |
-| Peek-a-boo | 44.00% | ~751 |
-| Catch and Release | 44.00% | ~751 |
+| ICU | 45.00% | ~769 |
+| Peek-a-boo | 44.00% | ~752 |
+| Catch and Release | 44.00% | ~752 |
 | Sucks To Be You | 43.00% | ~734 |
 | Welcome to the Neighborhood | 37.00% | ~632 |
 | Fly Fisher | 36.00% | ~615 |
-| Throw The First Stone | 35.00% | ~597 |
-| Enter of Your Own Free Will | 32.00% | ~546 |
-| Heart Attack | 32.00% | ~546 |
+| Throw The First Stone | 35.00% | ~598 |
+| Enter of Your Own Free Will | 32.00% | ~547 |
+| Heart Attack | 32.00% | ~547 |
 | Skin of Their Teeth | 31.00% | ~529 |
 | Grounded | 24.00% | ~410 |
-| Bad Wiring | 21.00% | ~358 |
-| I Spit On Your Grave | 19.00% | ~324 |
+| Bad Wiring | 21.00% | ~359 |
+| I Spit On Your Grave | 19.00% | ~325 |
 | Neighborhood Revitalization | 16.00% | ~273 |
 | Radio Silence | 16.00% | ~273 |
 | Helping Hand | 12.00% | ~205 |
@@ -52,11 +52,11 @@ Rating: 3.51 (Ranked 945)
 | Friendgineering | 1.00% | ~17 |
 | What Lies Below | 1.00% | ~17 |
 | Bloody Initiate | 1.00% | ~17 |
+| So Anyway I Started Blasting | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
-| So Anyway I Started Blasting | 0.90% | ~15 |
 | Good Samaritan | 0.60% | ~10 |
 | Someplace to Be | 0.50% | ~9 |
 | A Cry in the Dark | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,707 (Ranked 164)  
+Progressed: 1,708 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 1,705 | 0 |
 | 2023-06-27 | 1,706 | 0 |
 | 2023-06-28 | 1,707 | 0 |
+| 2023-06-29 | 1,708 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

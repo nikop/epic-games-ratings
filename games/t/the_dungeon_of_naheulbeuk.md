@@ -27,10 +27,10 @@ Number of Ratings: 118  (23.09.2022)
 | Look but don't touch | 25.00% | ~64 |
 | The demons' feast | 24.00% | ~61 |
 | The Great Library | 24.00% | ~61 |
+| Torture and Sensibility | 22.00% | ~56 |
 | The Statuette of Gladeulfeurah | 22.00% | ~56 |
 | A tale of adventurers not quite like the others... | 22.00% | ~56 |
 | Gargantua | 22.00% | ~56 |
-| Torture and Sensibility | 21.00% | ~54 |
 | Shiny and Crôm | 20.00% | ~51 |
 | The beards of change | 20.00% | ~51 |
 | Material Girl | 20.00% | ~51 |

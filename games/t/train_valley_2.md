@@ -33,6 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Star Sapphire | 3.00% | ~2 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
+| At the last moment! | 2.00% | ~15 |
 | Beginner | 2.00% | ~15 |
 | Bridge builder | 2.00% | ~15 |
 | Electrical Age | 2.00% | ~15 |
@@ -51,7 +52,6 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 2.00% | ~15 |
 | Vandal | 2.00% | ~15 |
 | Astronomer | 1.00% | ~7 |
-| At the last moment! | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
 | Innovator | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
