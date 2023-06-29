@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 10.00% | ~28,185 |
-| First Class Student | 9.00% | ~25,366 |
-| Troll with the Punches | 9.00% | ~25,366 |
+| First Class Student | 9.00% | ~25,367 |
+| Troll with the Punches | 9.00% | ~25,367 |
 | Grappling with a Graphorn | 8.00% | ~22,548 |
 | The One Who Mastered Memories | 8.00% | ~22,548 |
 | The Hallowed Hero | 8.00% | ~22,548 |
@@ -40,18 +40,18 @@ Rating: 4.77 (Ranked 108)
 | Put Down Roots | 2.00% | ~5,637 |
 | The Auror's Apprentice | 2.00% | ~5,637 |
 | Floo Around the World | 2.00% | ~5,637 |
-| The Good Samaritan | 1.00% | ~2,818 |
-| Savvy Spender | 1.00% | ~2,818 |
-| Rise to the Challenges | 1.00% | ~2,818 |
-| Demiguise Dread | 1.00% | ~2,818 |
-| Finishing Touches | 1.00% | ~2,818 |
-| A Forte for Achievement | 1.00% | ~2,818 |
+| The Good Samaritan | 1.00% | ~2,819 |
+| Savvy Spender | 1.00% | ~2,819 |
+| Rise to the Challenges | 1.00% | ~2,819 |
+| Demiguise Dread | 1.00% | ~2,819 |
+| Finishing Touches | 1.00% | ~2,819 |
+| A Forte for Achievement | 1.00% | ~2,819 |
 | Merlin's Beard! | 0.70% | ~1,973 |
 | Spilled Milk | 0.60% | ~1,691 |
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,850 (Ranked 41)  
+Progressed: 281,852 (Ranked 41)  
 Completed: 414 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,10 +121,10 @@ Completed: 414 (0.15%) (Ranked 167)
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
 | 2023-06-28 | 281,822 | 413 |
-| 2023-06-29 | 281,850 | 414 |
+| 2023-06-29 | 281,852 | 414 |
 ## Awards
 Max (Character Customization): 20,491  (Ranked 17)  
-Sum: 38,117 (Ranked 30)  
+Sum: 38,118 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -135,7 +135,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 854 |
 | This game has Amazing Storytelling | 844 |
 | This game has Diverse Characters | 839 |
-| This game has Amazing Characters | 823 |
+| This game has Amazing Characters | 824 |
 | This game is Highly Recommended | 799 |
 | This game has Quickly Understood Controls | 756 |
 | This game has Beautiful Visuals | 701 |
@@ -240,3 +240,4 @@ Diff (max vs sum): -13
 | 2023-06-26 | 4.77 | 20,422 | 37,969 |
 | 2023-06-27 | 4.77 | 20,457 | 38,041 |
 | 2023-06-28 | 4.77 | 20,491 | 38,117 |
+| 2023-06-29 | 4.77 | 20,491 | 38,118 |

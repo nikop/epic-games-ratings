@@ -68,16 +68,16 @@ Number of Ratings: 118  (23.09.2022)
 | Take your time back in time | 2.00% | ~5 |
 | Deep changes | 2.00% | ~5 |
 | A broken clock… | 2.00% | ~5 |
+| Mystical Dungeon | 2.00% | ~5 |
 | Gloomy Dungeon | 2.00% | ~5 |
 | Power struggle | 2.00% | ~5 |
 | Living legends of the Lands of Fangh | 2.00% | ~5 |
 | Death is for wimps | 2.00% | ~5 |
 | Demisemiquaver | 2.00% | ~5 |
 | The number of the counting shalt be 7 | 1.00% | ~3 |
-| Mystical Dungeon | 1.00% | ~3 |
+| Imposture and Trowels | 1.00% | ~3 |
 | King of the Arena | 0.80% | ~2 |
 | Finally free | 0.80% | ~2 |
-| Imposture and Trowels | 0.80% | ~2 |
 | Cute Dungeon | 0.80% | ~2 |
 | And they lived happily ever after... | 0.80% | ~2 |
 | Star-crossed lovers | 0.80% | ~2 |

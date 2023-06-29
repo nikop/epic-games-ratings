@@ -2,7 +2,7 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 94,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
+  "EOS_Progressed": 1817,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2911,6 +2911,11 @@
       "Time": "2023-06-29T04:04:59.6490701+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T06:05:33.4682796+00:00",
+      "NumProgressed": 1817,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -2954,7 +2959,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -3000,9 +3005,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 709
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3010,7 +3015,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -3026,7 +3031,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "GUARD_MAKER",
@@ -3050,7 +3055,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -3058,7 +3063,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -3097,14 +3102,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1816,
+      "Progressed": 1817,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-29T05:05:04.7386741+00:00",
+  "LastChanged_Achievements": "2023-06-29T06:05:33.468279+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-06-29T04:57:26.4652752+00:00",
-  "LastUpdate_Achievements": "2023-06-29T05:05:04.7387493+00:00"
+  "LastUpdate_Ratings": "2023-06-29T05:57:46.2995997+00:00",
+  "LastUpdate_Achievements": "2023-06-29T06:05:33.4683158+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,261 |
-| Into the Unknown | 10.00% | ~58,419 |
-| First Shot | 10.00% | ~58,419 |
-| Herzlich Wilkommen! | 9.00% | ~52,577 |
-| Good Night & Good Luck | 9.00% | ~52,577 |
+| You Never Forget Your First... | 11.00% | ~64,262 |
+| Into the Unknown | 10.00% | ~58,420 |
+| First Shot | 10.00% | ~58,420 |
+| Herzlich Wilkommen! | 9.00% | ~52,578 |
+| Good Night & Good Luck | 9.00% | ~52,578 |
 | Sancho Panza | 8.00% | ~46,736 |
 | Under Pressure | 7.00% | ~40,894 |
 | On the Trail of the Enemy | 7.00% | ~40,894 |
@@ -54,8 +54,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Who Wants To Be a... | 0.80% | ~4,674 |
 | Night of Terrors | 0.80% | ~1,837 |
 | Get the Point? | 0.70% | ~4,089 |
-| My Friend, Ciro | 0.70% | ~1,607 |
-| Skullcrusher | 0.70% | ~1,607 |
+| My Friend, Ciro | 0.70% | ~1,608 |
+| Skullcrusher | 0.70% | ~1,608 |
 | Revenants | 0.60% | ~3,505 |
 | Tanning Salon | 0.60% | ~3,505 |
 | Lightning Reflexes | 0.40% | ~2,337 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~230 |
 | Connoisseur | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,194 (Ranked 26)  
+Progressed: 584,201 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 58 (0.01%) (Ranked 218)
 | 2023-06-26 | 583,355 | 58 |
 | 2023-06-27 | 583,754 | 58 |
 | 2023-06-28 | 584,145 | 58 |
-| 2023-06-29 | 584,194 | 58 |
+| 2023-06-29 | 584,201 | 58 |
 ## Awards
 Max (Character Customization): 8,082  (Ranked 40)  
 Sum: 18,828 (Ranked 55)  

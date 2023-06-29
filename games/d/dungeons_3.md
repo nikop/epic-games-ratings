@@ -6,9 +6,9 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~15,396 |
-| The Evilest Evil | 59.00% | ~12,977 |
-| Twistram is devastated | 58.00% | ~12,757 |
+| The Shadow strikes | 70.00% | ~15,397 |
+| The Evilest Evil | 59.00% | ~12,978 |
+| Twistram is devastated | 58.00% | ~12,758 |
 | The Gehenna Stones | 50.00% | ~10,998 |
 | No one has to die today! | 47.00% | ~10,338 |
 | Death and destruction! | 46.00% | ~10,118 |
@@ -17,12 +17,12 @@ Number of Ratings: 1,635  (23.09.2022)
 | Rusty Steel | 41.00% | ~9,018 |
 | The last burger | 38.00% | ~8,358 |
 | Braiiiiins! | 38.00% | ~8,358 |
-| Hands off the Dungeonheart! | 37.00% | ~8,138 |
-| A trip on sea, what fun it can be | 35.00% | ~7,698 |
-| Damned good | 34.00% | ~7,478 |
-| Stock Market Crash | 32.00% | ~7,038 |
-| Factory farming | 32.00% | ~7,038 |
-| Not-So-Overproud | 31.00% | ~6,818 |
+| Hands off the Dungeonheart! | 37.00% | ~8,139 |
+| A trip on sea, what fun it can be | 35.00% | ~7,699 |
+| Damned good | 34.00% | ~7,479 |
+| Stock Market Crash | 32.00% | ~7,039 |
+| Factory farming | 32.00% | ~7,039 |
+| Not-So-Overproud | 31.00% | ~6,819 |
 | For a handfull of Catapults | 29.00% | ~6,379 |
 | Shadow hunter | 29.00% | ~6,379 |
 | Thirst quencher | 28.00% | ~6,159 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Flat as a pancake | 17.00% | ~3,739 |
 | Can’t stand the sight of Dark Elf blood | 16.00% | ~3,519 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,859 |
-| Then let them eat cake! | 12.00% | ~2,639 |
-| Please, no interruptions! | 11.00% | ~2,419 |
+| Then let them eat cake! | 12.00% | ~2,640 |
+| Please, no interruptions! | 11.00% | ~2,420 |
 | The White Knight | 10.00% | ~2,200 |
 | Use the terrain | 9.00% | ~1,980 |
 | Master of Traps | 9.00% | ~1,980 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~440 |
 | Sacrifices! | 2.00% | ~440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,995 (Ranked 98)  
+Progressed: 21,996 (Ranked 98)  
 Completed: 183 (0.83%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 183 (0.83%) (Ranked 105)
 | 2023-06-26 | 21,760 | 181 |
 | 2023-06-27 | 21,876 | 183 |
 | 2023-06-28 | 21,978 | 183 |
-| 2023-06-29 | 21,995 | 183 |
+| 2023-06-29 | 21,996 | 183 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 225)  
 Sum: 2,310 (Ranked 178)  

@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 438)
 | Space Society | 11.00% | ~302 |
 | A Thousand Strong | 11.00% | ~302 |
 | Ready for a New World | 11.00% | ~302 |
-| Permanent Redesigns | 10.00% | ~274 |
+| Permanent Redesigns | 10.00% | ~275 |
 | Fully Recycled | 9.00% | ~247 |
 | Ain't Nobody Got Time for That | 9.00% | ~247 |
 | Guy de Borderlands | 8.00% | ~220 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,745 (Ranked 151)  
+Progressed: 2,746 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 2,738 | 0 |
 | 2023-06-27 | 2,742 | 0 |
 | 2023-06-28 | 2,744 | 0 |
-| 2023-06-29 | 2,745 | 0 |
+| 2023-06-29 | 2,746 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

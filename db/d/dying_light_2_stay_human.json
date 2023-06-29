@@ -6355,9 +6355,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 584194,
+  "EOS_Progressed": 584201,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 3045,
+  "EOS_NewPlayers": 3032,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13820,6 +13820,11 @@
       "Time": "2023-06-29T05:07:07.9957911+00:00",
       "NumProgressed": 584194,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-29T06:07:56.7306682+00:00",
+      "NumProgressed": 584201,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -13831,7 +13836,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58419
+      "UsersEstimate": 58420
     },
     {
       "ID": "achievement_02",
@@ -13839,7 +13844,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58419
+      "UsersEstimate": 58420
     },
     {
       "ID": "achievement_03",
@@ -13847,7 +13852,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52577
+      "UsersEstimate": 52578
     },
     {
       "ID": "achievement_04",
@@ -14039,7 +14044,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64261
+      "UsersEstimate": 64262
     },
     {
       "ID": "achievement_28",
@@ -14119,7 +14124,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52577
+      "UsersEstimate": 52578
     },
     {
       "ID": "achievement_38",
@@ -14311,7 +14316,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_62",
@@ -14319,7 +14324,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "achievement_63",
@@ -14350,21 +14355,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 584194,
+      "Progressed": 584201,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 229638,
+      "Progressed": 229645,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-28T23:01:16.4502365+00:00",
-  "LastChanged_Achievements": "2023-06-29T05:07:07.9957905+00:00",
+  "LastChanged_Achievements": "2023-06-29T06:07:56.7306677+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-29T05:00:20.503825+00:00",
-  "LastUpdate_Achievements": "2023-06-29T05:07:07.995907+00:00"
+  "LastUpdate_Ratings": "2023-06-29T06:01:15.2376215+00:00",
+  "LastUpdate_Achievements": "2023-06-29T06:07:56.7308134+00:00"
 }

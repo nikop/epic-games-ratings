@@ -16,10 +16,10 @@ Rating: 4.59 (Ranked 410)
 | Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |
+| Blood of the Dragon | 0.50% | ~24 |
 | Bone Peddler | 0.40% | ~19 |
 | Seat of Power | 0.40% | ~19 |
 | Impenetrable Fortress | 0.40% | ~19 |
-| Blood of the Dragon | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |

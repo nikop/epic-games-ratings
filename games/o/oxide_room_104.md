@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What's going on here? | 90.00% | ~82 |
-| Brute force | 86.00% | ~78 |
+| Brute force | 87.00% | ~79 |
 | Nimble fingers | 78.00% | ~71 |
 | Room 104 | 77.00% | ~70 |
 | Face to face | 76.00% | ~69 |
@@ -16,9 +16,9 @@
 | Antidote | 43.00% | ~39 |
 | Pick the right door | 22.00% | ~20 |
 | The third floor | 15.00% | ~14 |
-| On the right path | 13.00% | ~12 |
-| One-way | 13.00% | ~12 |
-| It can't be true | 12.00% | ~11 |
+| On the right path | 14.00% | ~13 |
+| One-way | 14.00% | ~13 |
+| It can't be true | 13.00% | ~12 |
 | I'm close now | 11.00% | ~10 |
 | Failed attempt | 11.00% | ~10 |
 | Good choice | 11.00% | ~10 |
@@ -27,7 +27,7 @@
 | Nightmare in the kitchen | 10.00% | ~9 |
 | He who seeks, finds! | 10.00% | ~9 |
 | Born again | 8.00% | ~7 |
-| 373 | 5.00% | ~5 |
+| 373 | 7.00% | ~6 |
 | The experiment | 5.00% | ~5 |
 | Matthew's revenge | 5.00% | ~5 |
 | Horror book | 2.00% | ~2 |

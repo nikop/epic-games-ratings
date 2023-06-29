@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1898,9 +1898,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "Zarkon1Defeated",
@@ -1929,8 +1929,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-06-29T05:06:46.1539629+00:00",
+  "LastChanged_Achievements": "2023-06-29T06:07:32.6554327+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:22.5812898+00:00",
-  "LastUpdate_Ratings": "2023-06-29T04:59:50.3127219+00:00",
-  "LastUpdate_Achievements": "2023-06-29T05:06:46.1540224+00:00"
+  "LastUpdate_Ratings": "2023-06-29T06:00:38.9680347+00:00",
+  "LastUpdate_Achievements": "2023-06-29T06:07:32.6555017+00:00"
 }

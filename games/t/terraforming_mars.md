@@ -6,23 +6,23 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~24,649 |
-| Final touch | 38.00% | ~24,649 |
+| It's a steal! | 38.00% | ~24,650 |
+| Final touch | 38.00% | ~24,650 |
 | Prop-M Rover | 33.00% | ~21,406 |
-| Changing the Planet | 29.00% | ~18,811 |
+| Changing the Planet | 29.00% | ~18,812 |
 | Sojourner | 28.00% | ~18,163 |
 | New Home | 25.00% | ~16,217 |
 | Beagle 2 | 25.00% | ~16,217 |
-| Winner Winner Terraformer | 23.00% | ~14,919 |
+| Winner Winner Terraformer | 23.00% | ~14,920 |
 | Project Manager | 21.00% | ~13,622 |
-| Curiosity | 20.00% | ~12,973 |
-| Collector | 20.00% | ~12,973 |
-| Self-sufficient | 20.00% | ~12,973 |
-| Master | 20.00% | ~12,973 |
+| Curiosity | 20.00% | ~12,974 |
+| Collector | 20.00% | ~12,974 |
+| Self-sufficient | 20.00% | ~12,974 |
+| Master | 20.00% | ~12,974 |
 | No Longer Red | 19.00% | ~12,325 |
 | Money money | 16.00% | ~10,379 |
 | Biggest Reward | 15.00% | ~9,730 |
-| Acquired knowledge | 14.00% | ~9,081 |
+| Acquired knowledge | 14.00% | ~9,082 |
 | Hellenic Elysium | 13.00% | ~8,433 |
 | First Journey | 12.00% | ~7,784 |
 | Most Achievements | 12.00% | ~7,784 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,946 |
 | Opportunity | 3.00% | ~1,946 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,867 (Ranked 74)  
+Progressed: 64,868 (Ranked 74)  
 Completed: 67 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 67 (0.10%) (Ranked 177)
 | 2023-06-26 | 64,537 | 67 |
 | 2023-06-27 | 64,699 | 67 |
 | 2023-06-28 | 64,843 | 67 |
-| 2023-06-29 | 64,867 | 67 |
+| 2023-06-29 | 64,868 | 67 |
 ## Awards
 Max (Relaxing): 502  (Ranked 191)  
 Sum: 3,094 (Ranked 154)  
