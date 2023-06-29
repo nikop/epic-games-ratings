@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,310 |
+| Downed but Not Outed | 74.00% | ~50,311 |
 | First One’s Free | 65.00% | ~44,192 |
 | Neophyte Ninja | 50.00% | ~33,994 |
 | Too Old for This | 47.00% | ~31,954 |
-| Fancy Pants | 35.00% | ~23,795 |
+| Fancy Pants | 35.00% | ~23,796 |
 | Case Closed | 34.00% | ~23,116 |
 | King of the Hill | 34.00% | ~23,116 |
-| Underworld Initiate | 29.00% | ~19,716 |
+| Underworld Initiate | 29.00% | ~19,717 |
 | Roid Ranger | 21.00% | ~14,277 |
 | True Player | 19.00% | ~12,918 |
 | Off the Rocks | 19.00% | ~12,918 |
@@ -29,10 +29,10 @@ Rating: 3.93 (Ranked 921)
 | Foo Finder | 7.00% | ~4,759 |
 | Legend Looter | 5.00% | ~3,399 |
 | Savvy Seeker | 5.00% | ~3,399 |
-| Imports and Exports | 4.00% | ~2,719 |
-| Olympus Ascended | 4.00% | ~2,719 |
-| Cracked the Jack | 4.00% | ~2,719 |
-| Red Star | 4.00% | ~2,719 |
+| Imports and Exports | 4.00% | ~2,720 |
+| Olympus Ascended | 4.00% | ~2,720 |
+| Cracked the Jack | 4.00% | ~2,720 |
+| Red Star | 4.00% | ~2,720 |
 | Privateer | 3.00% | ~2,040 |
 | Groundhog Days | 3.00% | ~2,040 |
 | Rockay Raider | 2.00% | ~1,360 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 921)
 | Geek Out | 0.50% | ~340 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,987 (Ranked 71)  
+Progressed: 67,988 (Ranked 71)  
 Completed: 35 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,17 +113,17 @@ Completed: 35 (0.05%) (Ranked 196)
 | 2023-06-26 | 67,835 | 34 |
 | 2023-06-27 | 67,885 | 34 |
 | 2023-06-28 | 67,956 | 35 |
-| 2023-06-29 | 67,987 | 35 |
+| 2023-06-29 | 67,988 | 35 |
 ## Awards
 Max (Diverse Characters): 346  (Ranked 221)  
-Sum: 1,655 (Ranked 206)  
+Sum: 1,658 (Ranked 206)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 346 |
 | This game is Highly Recommended | 340 |
 | This game has Quickly Understood Controls | 331 |
-| This game has Challenging Combat | 320 |
+| This game has Challenging Combat | 323 |
 | This game has Amazing Characters | 318 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -223,4 +223,4 @@ Diff (max vs sum): 15
 | 2023-06-26 | 3.94 | 344 | 1,643 |
 | 2023-06-27 | 3.93 | 344 | 1,647 |
 | 2023-06-28 | 3.93 | 346 | 1,651 |
-| 2023-06-29 | 3.93 | 346 | 1,655 |
+| 2023-06-29 | 3.93 | 346 | 1,658 |

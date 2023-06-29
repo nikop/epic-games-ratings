@@ -31,9 +31,9 @@ Number of Ratings: 125  (23.09.2022)
 | Elusive Prey | 12.00% | ~201 |
 | Out on the Ebb Tide | 12.00% | ~201 |
 | Power Behind the Pulpit | 12.00% | ~201 |
+| Something Wicked This Way Comes… | 12.00% | ~201 |
+| There is Hope | 12.00% | ~201 |
 | Turning the Tables | 12.00% | ~201 |
-| Something Wicked This Way Comes… | 11.00% | ~184 |
-| There is Hope | 11.00% | ~184 |
 | The Philosopher’s Stone | 10.00% | ~167 |
 | Loyalty to the Pack | 9.00% | ~150 |
 | Eternity Can Wait | 9.00% | ~150 |

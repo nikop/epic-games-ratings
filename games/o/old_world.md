@@ -40,10 +40,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 42.00% | ~5,206 |
 | Roman Paganism | 41.00% | ~5,082 |
 | Great Ziggurat | 40.00% | ~4,958 |
+| Lighthouse | 40.00% | ~4,958 |
 | Christianity | 40.00% | ~4,958 |
 | Great | 39.00% | ~4,834 |
 | Able Difficulty | 39.00% | ~4,834 |
-| Lighthouse | 39.00% | ~4,834 |
 | Ambitious | 38.00% | ~4,710 |
 | Carthaginian Paganism | 37.00% | ~4,587 |
 | Necropolis | 36.00% | ~4,463 |

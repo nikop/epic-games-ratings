@@ -4817,9 +4817,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "23",
@@ -4897,9 +4897,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "32",
@@ -5089,9 +5089,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "50",
@@ -5120,8 +5120,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-29T14:06:33.0994607+00:00",
+  "LastChanged_Achievements": "2023-06-29T15:05:39.9971485+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-29T14:00:39.9457931+00:00",
-  "LastUpdate_Achievements": "2023-06-29T14:06:33.099549+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:59:39.355498+00:00",
+  "LastUpdate_Achievements": "2023-06-29T15:05:39.997224+00:00"
 }

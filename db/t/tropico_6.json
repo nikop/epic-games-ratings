@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -954,9 +954,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3871,
+  "EOS_Progressed": 3872,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5244,6 +5244,11 @@
       "Time": "2023-06-29T14:04:40.920349+00:00",
       "NumProgressed": 3871,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T15:04:17.8038881+00:00",
+      "NumProgressed": 3872,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5311,7 +5316,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5327,7 +5332,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5415,7 +5420,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5511,7 +5516,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5527,7 +5532,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5574,15 +5579,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3871,
+      "Progressed": 3872,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-28T03:21:33.4351968+00:00",
-  "LastChanged_Achievements": "2023-06-29T14:04:40.9203483+00:00",
+  "LastChanged_Achievements": "2023-06-29T15:04:17.8038876+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-29T14:01:34.9738559+00:00",
-  "LastUpdate_Achievements": "2023-06-29T14:04:40.9204232+00:00"
+  "LastUpdate_Ratings": "2023-06-29T15:00:16.6408215+00:00",
+  "LastUpdate_Achievements": "2023-06-29T15:04:17.8039473+00:00"
 }

@@ -10,8 +10,8 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~4,217 |
 | Explorer | 53.00% | ~3,664 |
 | Healer | 53.00% | ~3,664 |
-| Aspiring Inventor | 44.00% | ~3,042 |
-| Adventurer | 41.00% | ~2,834 |
+| Aspiring Inventor | 45.00% | ~3,111 |
+| Adventurer | 42.00% | ~2,903 |
 | Famous Healer | 38.00% | ~2,627 |
 | Local Leader | 35.00% | ~2,420 |
 | Famous Explorer | 34.00% | ~2,350 |
@@ -33,9 +33,9 @@ Number of Ratings: 836  (23.09.2022)
 | Rocket Surgeon | 20.00% | ~1,383 |
 | War Never Changes | 19.00% | ~1,313 |
 | Big Game Hunter | 17.00% | ~1,175 |
+| Spreading Influence | 17.00% | ~1,175 |
 | Friendly | 16.00% | ~1,106 |
 | Around the World | 16.00% | ~1,106 |
-| Spreading Influence | 16.00% | ~1,106 |
 | Bookworm | 15.00% | ~1,037 |
 | Famous Adventurer | 13.00% | ~899 |
 | Prepared for Anything | 13.00% | ~899 |

@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 17.76,
+  "EOS_Completed_Percentage": 17.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1708,6 +1708,11 @@
       "Time": "2023-06-29T05:06:46.35978+00:00",
       "NumProgressed": 366,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-06-29T15:06:21.0421884+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 22,
@@ -1719,7 +1724,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "LEVEL_002",
@@ -1727,7 +1732,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "LEVEL_003",
@@ -1735,7 +1740,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "LEVEL_004",
@@ -1751,7 +1756,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_006",
@@ -1759,7 +1764,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_007",
@@ -1894,7 +1899,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 65
     }
   ],
@@ -1902,8 +1907,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-06-29T14:07:31.9324249+00:00",
+  "LastChanged_Achievements": "2023-06-29T15:06:21.0421878+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:44.3952844+00:00",
-  "LastUpdate_Ratings": "2023-06-29T13:58:46.8657084+00:00",
-  "LastUpdate_Achievements": "2023-06-29T14:07:31.9324553+00:00"
+  "LastUpdate_Ratings": "2023-06-29T14:58:25.1790444+00:00",
+  "LastUpdate_Achievements": "2023-06-29T15:06:21.0422143+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 4.89 (Ranked 12)
 | I play my own way! | 50.00% | ~1,684 |
 | This will cost you big time | 48.00% | ~1,617 |
 | Uh, they were broken when I got here | 47.00% | ~1,583 |
-| Z-shielding's got nothing on us! | 45.00% | ~1,516 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,549 |
 | Kissing the sky! | 44.00% | ~1,482 |
 | Does that say weakpoint? | 41.00% | ~1,381 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,347 |

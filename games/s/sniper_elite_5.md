@@ -5,20 +5,26 @@ Rating: 4.45 (Ranked 618)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Opposing Force | 0.10% | ~3 |
+| Enemy at the Gates | 0.10% | ~3 |
+| Strategist | 0.10% | ~3 |
+| Meeting Resistance | 0.10% | ~3 |
+| Set Europe Ablaze | 0.10% | ~3 |
 | Confirming Suspicions | 0.10% | ~3 |
+| My Little Friend | 0.10% | ~3 |
+| Close Quarters | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
 | Change the Channel | 0.10% | ~3 |
+| Last Resort | 0.10% | ~3 |
+| Shipbreaker | 0.10% | ~3 |
+| Sink or Swim | 0.10% | ~3 |
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
-| Opposing Force | 0.00% | ~0 |
-| Enemy at the Gates | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
-| Strategist | 0.00% | ~0 |
-| Meeting Resistance | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
@@ -27,11 +33,9 @@ Rating: 4.45 (Ranked 618)
 | Skirmisher | 0.00% | ~0 |
 | Sharpshooter | 0.00% | ~0 |
 | The Long Game | 0.00% | ~0 |
-| Set Europe Ablaze | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
-| My Little Friend | 0.00% | ~0 |
 | Explosive Efficiency | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
@@ -39,7 +43,6 @@ Rating: 4.45 (Ranked 618)
 | Der Geist | 0.00% | ~0 |
 | As Quiet as a Mouse | 0.00% | ~0 |
 | The Kraken Wakes | 0.00% | ~0 |
-| Close Quarters | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Burn after reading | 0.00% | ~0 |
@@ -66,18 +69,15 @@ Rating: 4.45 (Ranked 618)
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Last Resort | 0.00% | ~0 |
 | Siegebreaker | 0.00% | ~0 |
 | Ghost of Falaise | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
 | If You Go Down To The Woods Today | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
-| Shipbreaker | 0.00% | ~0 |
-| Sink or Swim | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,162 (Ranked 144)  
+Progressed: 3,163 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
-| 2023-06-29 | 3,162 | 6 |
+| 2023-06-29 | 3,163 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

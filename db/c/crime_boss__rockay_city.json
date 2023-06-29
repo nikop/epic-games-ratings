@@ -2242,10 +2242,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1655,
       "NumberOfAwardsMax": 346
+    },
+    {
+      "Time": "2023-06-29T15:00:05.2125865+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1658,
+      "NumberOfAwardsMax": 346
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1655,
+  "NumberOfAwards": 1658,
   "NumberOfAwardsMax": 346,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2277,7 +2283,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 320
+      "Count": 323
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2298,9 +2304,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67987,
+  "EOS_Progressed": 67988,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9658,6 +9664,11 @@
       "Time": "2023-06-29T13:19:00.9349293+00:00",
       "NumProgressed": 67987,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-29T15:03:41.1800605+00:00",
+      "NumProgressed": 67988,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9677,7 +9688,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19716
+      "UsersEstimate": 19717
     },
     {
       "ID": "ACH_0012",
@@ -9717,7 +9728,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_0021",
@@ -9821,7 +9832,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50310
+      "UsersEstimate": 50311
     },
     {
       "ID": "ACH_0211",
@@ -9845,7 +9856,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_0310",
@@ -9853,7 +9864,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_0330",
@@ -9869,7 +9880,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_0350",
@@ -9901,7 +9912,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23795
+      "UsersEstimate": 23796
     },
     {
       "ID": "ACH_0431",
@@ -9964,16 +9975,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67987,
+      "Progressed": 67988,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-06-29T09:59:46.5927669+00:00",
-  "LastChanged_Achievements": "2023-06-29T14:03:54.2149165+00:00",
+  "LastChanged": "2023-06-29T15:00:05.2125864+00:00",
+  "LastChanged_Achievements": "2023-06-29T15:03:41.1800597+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-29T14:01:17.6301372+00:00",
-  "LastUpdate_Achievements": "2023-06-29T14:03:54.2150073+00:00"
+  "LastUpdate_Ratings": "2023-06-29T15:00:05.2125873+00:00",
+  "LastUpdate_Achievements": "2023-06-29T15:03:41.1801548+00:00"
 }
