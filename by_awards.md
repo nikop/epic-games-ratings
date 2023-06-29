@@ -65,7 +65,7 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,078 | 4.34 | 744 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,975 | 4.06 | 898 |
 | 65 | [Dead Island 2](games/d/dead_island_2.md) | 4,892 | 4.54 | 489 |
-| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,812 | 4.65 | 299 |
+| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,822 | 4.65 | 299 |
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 456 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,637 | 3.99 | 913 |
 | 69 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,538 | 4.70 | 198 |
@@ -241,8 +241,8 @@
 | 239 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 273 | 4.49 | 569 |
 | 239 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 273 | 4.61 | 362 |
 | 241 | [Diabotical](games/d/diabotical.md) | 270 | 4.75 | 132 |
+| 242 | [Dead Cells](games/d/dead_cells.md) | 267 | 4.88 | 19 |
 | 242 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 661 |
-| 243 | [Dead Cells](games/d/dead_cells.md) | 266 | 4.88 | 19 |
 | 244 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 258 | 4.84 | 51 |
 | 245 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 249 | 4.58 | 420 |
 | 246 | [Crysis Remastered](games/c/crysis_remastered.md) | 247 | 4.40 | 687 |
