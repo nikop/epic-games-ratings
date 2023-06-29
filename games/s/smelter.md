@@ -20,10 +20,10 @@
 | My Precious Gems! | 16.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~6 |
 | A Generous Leader | 16.00% | ~6 |
+| An Unexpected Visitor | 16.00% | ~6 |
 | Final Announcement | 16.00% | ~6 |
 | Orcharion Boost | 14.00% | ~5 |
 | Case Closed | 14.00% | ~5 |
-| An Unexpected Visitor | 14.00% | ~5 |
 | A Terrible Way to Go | 14.00% | ~5 |
 | Dr. Dreinstein III | 11.00% | ~4 |
 | Fishing for Fissures | 11.00% | ~4 |

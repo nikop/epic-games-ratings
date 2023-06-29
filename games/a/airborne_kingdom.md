@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~134 |
 | A True Challenge | 2.00% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,714 (Ranked 124)  
+Progressed: 6,714 (Ranked 125)  
 Completed: 52 (0.77%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

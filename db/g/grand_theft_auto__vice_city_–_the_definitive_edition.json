@@ -2,10 +2,10 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 439,
-  "Ranking_EOS_Progress": 117,
+  "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 42,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -476,6 +476,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-06-29T18:58:47.390168+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
@@ -490,7 +496,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 8816,
+  "EOS_Progressed": 8818,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 3,
@@ -5655,6 +5661,11 @@
       "Time": "2023-06-29T15:00:54.8892654+00:00",
       "NumProgressed": 8816,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-29T19:02:13.87951+00:00",
+      "NumProgressed": 8818,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 34,
@@ -5682,7 +5693,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH04",
@@ -5706,7 +5717,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH07",
@@ -5714,7 +5725,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH08",
@@ -5730,7 +5741,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH10",
@@ -5770,7 +5781,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "ACH15",
@@ -5810,7 +5821,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH20",
@@ -5826,7 +5837,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3879
+      "UsersEstimate": 3880
     },
     {
       "ID": "ACH22",
@@ -5850,7 +5861,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH25",
@@ -5858,7 +5869,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH26",
@@ -5866,7 +5877,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH27",
@@ -5937,16 +5948,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8816,
+      "Progressed": 8818,
       "Completed": 40
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-28T17:58:48.995149+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:02:10.5805461+00:00",
+  "LastChanged": "2023-06-29T18:58:47.3901678+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:02:13.8795094+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.402576+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:58:21.1464174+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:02:10.5805913+00:00"
+  "LastUpdate_Ratings": "2023-06-29T18:58:47.3901685+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:02:13.8795646+00:00"
 }

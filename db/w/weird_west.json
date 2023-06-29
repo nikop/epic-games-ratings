@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1673,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-06-29T13:18:28.1309781+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-29T19:03:13.0742568+00:00",
+      "NumProgressed": 1673,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1231,7 +1236,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -1239,7 +1244,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1255,7 +1260,7 @@
       "Name": "Dishonored",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -1383,7 +1388,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1407,7 +1412,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -1415,7 +1420,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -1455,7 +1460,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -1463,7 +1468,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1527,7 +1532,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1607,7 +1612,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1615,7 +1620,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1654,15 +1659,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1673,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:02:27.0428505+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:03:13.0742559+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.0833954+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:58:32.2861694+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:02:27.0429104+00:00"
+  "LastUpdate_Ratings": "2023-06-29T18:59:02.0527135+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:03:13.0743419+00:00"
 }

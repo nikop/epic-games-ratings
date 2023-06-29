@@ -1,19 +1,19 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.57 (Ranked 438)  
+Rating: 4.56 (Ranked 454)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 44.00% | ~3,879 |
-| Greasy Palms | 40.00% | ~3,526 |
+| Legal Counsel | 44.00% | ~3,880 |
+| Greasy Palms | 40.00% | ~3,527 |
 | South American Connection | 24.00% | ~2,116 |
 | Life of the Party | 19.00% | ~1,675 |
-| Big Heat from Little Havana | 14.00% | ~1,234 |
-| Chauffeur | 14.00% | ~1,234 |
-| Tommy Two-Wheels | 14.00% | ~1,234 |
+| Big Heat from Little Havana | 14.00% | ~1,235 |
+| Chauffeur | 14.00% | ~1,235 |
+| Tommy Two-Wheels | 14.00% | ~1,235 |
 | Salutations My Little Friend | 10.00% | ~882 |
-| Iron-y | 9.00% | ~793 |
+| Iron-y | 9.00% | ~794 |
 | Gun for Hire | 8.00% | ~705 |
 | Mischief Managed | 8.00% | ~705 |
 | Vice City Mogul | 6.00% | ~529 |
@@ -22,10 +22,10 @@ Rating: 4.57 (Ranked 438)
 | Grand Theft Auto | 5.00% | ~441 |
 | Not my First Time | 4.00% | ~353 |
 | Pie Guy | 4.00% | ~353 |
-| Point A to Point B | 3.00% | ~264 |
-| High Quality H2O | 3.00% | ~264 |
-| Bull in a China Shop | 3.00% | ~264 |
-| Don't Need Roads | 3.00% | ~264 |
+| Point A to Point B | 3.00% | ~265 |
+| High Quality H2O | 3.00% | ~265 |
+| Bull in a China Shop | 3.00% | ~265 |
+| Don't Need Roads | 3.00% | ~265 |
 | Running Rampant | 2.00% | ~176 |
 | One is Better Than Two | 2.00% | ~176 |
 | Somebody Call the Wambulance? | 2.00% | ~176 |
@@ -40,7 +40,7 @@ Rating: 4.57 (Ranked 438)
 | Done it All | 0.80% | ~71 |
 | Kingpin | 0.50% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,816 (Ranked 117)  
+Progressed: 8,818 (Ranked 118)  
 Completed: 40 (0.45%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 40 (0.45%) (Ranked 129)
 | 2023-06-26 | 8,771 | 39 |
 | 2023-06-27 | 8,785 | 40 |
 | 2023-06-28 | 8,805 | 40 |
-| 2023-06-29 | 8,816 | 40 |
+| 2023-06-29 | 8,818 | 40 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 387)  
 Sum: 58 (Ranked 439)  
@@ -199,3 +199,4 @@ Diff (max vs sum): -52
 | 2023-06-24 | 4.59 | 57 | 57 |
 | 2023-06-25 | 4.57 | 57 | 57 |
 | 2023-06-28 | 4.57 | 58 | 58 |
+| 2023-06-29 | 4.56 | 58 | 58 |

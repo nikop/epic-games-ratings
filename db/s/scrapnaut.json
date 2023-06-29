@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -135,9 +135,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-06-27T00:02:17.755026+00:00",
       "NumProgressed": 287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T19:02:15.7192615+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -749,7 +754,7 @@
       "Name": "Traveler",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BUILD_RAFINERY",
@@ -781,7 +786,7 @@
       "Name": "Herbalist",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -805,7 +810,7 @@
       "Name": "Blacksmith",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -821,7 +826,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -829,15 +834,15 @@
       "Name": "Scrap Gatherer",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -851,9 +856,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -877,7 +882,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_KILL_100",
@@ -949,7 +954,7 @@
       "Name": "Smelter",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -963,9 +968,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -973,7 +978,7 @@
       "Name": "Survival Master",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TELEPORT",
@@ -988,7 +993,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 1
     }
   ],
@@ -996,8 +1001,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:02:11.9940046+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:02:15.7192609+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:17.1847858+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:58:32.0212053+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:02:11.9940272+00:00"
+  "LastUpdate_Ratings": "2023-06-29T18:59:01.7229799+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:02:15.7193058+00:00"
 }

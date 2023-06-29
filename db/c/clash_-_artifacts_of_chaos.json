@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -262,17 +262,17 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement20",
@@ -359,8 +359,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:06:06.6845501+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:07:02.7275292+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.3443679+00:00",
-  "LastUpdate_Ratings": "2023-06-29T17:00:05.53994+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:06:06.6845638+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:00:58.2800009+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:07:02.7275525+00:00"
 }

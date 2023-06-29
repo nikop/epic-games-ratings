@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -247,9 +247,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "deathlooper",
@@ -303,9 +303,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "super_seducer",
@@ -319,9 +319,9 @@
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "thats_my_boy",
@@ -335,9 +335,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "tried_to_warn_you",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:06:04.739888+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:07:00.3862744+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:05.3081097+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:59:47.2436608+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:06:04.7399144+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:00:35.8839983+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:07:00.3862945+00:00"
 }

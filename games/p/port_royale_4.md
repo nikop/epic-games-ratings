@@ -37,8 +37,8 @@ Number of Ratings: 53  (23.09.2022)
 | Maker | 7.00% | ~49 |
 | Conglomerate | 6.00% | ~42 |
 | Buccaneer | 5.00% | ~35 |
+| Flying Dutchman | 5.00% | ~35 |
 | The Grande Bouffe | 5.00% | ~35 |
-| Flying Dutchman | 4.00% | ~28 |
 | Overpopulation | 4.00% | ~28 |
 | Premier Maître | 3.00% | ~21 |
 | Supreme conqueror | 3.00% | ~21 |

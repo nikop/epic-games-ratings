@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.56 (Ranked 455)  
+Rating: 4.56 (Ranked 454)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,15 +12,15 @@ Rating: 4.56 (Ranked 455)
 | Big Spender | 38.00% | ~244 |
 | The things they print nowadays | 38.00% | ~244 |
 | That's gotta hurt | 36.00% | ~231 |
+| I think it's broke | 26.00% | ~167 |
 | The Ann Flores Combo Experience | 26.00% | ~167 |
-| I think it's broke | 25.00% | ~160 |
 | Club Star | 24.00% | ~154 |
 | Fire in the hole! | 20.00% | ~128 |
 | The Warlord | 20.00% | ~128 |
 | Omnipotence | 19.00% | ~122 |
 | You are the One | 19.00% | ~122 |
 | Deadly Kombationem | 18.00% | ~116 |
-| The truth is out there | 15.00% | ~96 |
+| The truth is out there | 16.00% | ~103 |
 | Annakin Skyscroller | 14.00% | ~90 |
 | In the smacker...I think | 10.00% | ~64 |
 | Arm Wrestlin' | 9.00% | ~58 |

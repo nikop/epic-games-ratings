@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 181,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -268,10 +268,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 1252,
       "NumberOfAwardsMax": 1027
+    },
+    {
+      "Time": "2023-06-29T19:01:11.7298264+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 1295,
+      "NumberOfAwardsMax": 1027
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1252,
+  "NumberOfAwards": 1295,
   "NumberOfAwardsMax": 1027,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -322,6 +328,18 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 24
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 22
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -336,8 +354,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-06-29T17:00:15.9043488+00:00",
+  "LastChanged": "2023-06-29T19:01:11.7298261+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:45.7366365+00:00",
-  "LastUpdate_Ratings": "2023-06-29T17:00:15.9043496+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:03:59.2105553+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:01:11.7298267+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:04:27.9223587+00:00"
 }

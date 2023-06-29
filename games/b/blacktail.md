@@ -18,12 +18,12 @@ Rating: 4.68 (Ranked 240)
 | Fishing fanatic | 5.00% | ~26 |
 | Liar Liar | 5.00% | ~26 |
 | A friend in need... | 5.00% | ~26 |
+| Baba Yaga | 5.00% | ~26 |
 | Extensive retelling | 4.00% | ~21 |
 | Favorite | 4.00% | ~21 |
 | The word around is... | 4.00% | ~21 |
 | The cycle acknowledged | 4.00% | ~21 |
 | Queen | 4.00% | ~21 |
-| Baba Yaga | 4.00% | ~21 |
 | Goal! | 3.00% | ~16 |
 | Both sides | 3.00% | ~16 |
 | Specialist | 3.00% | ~16 |

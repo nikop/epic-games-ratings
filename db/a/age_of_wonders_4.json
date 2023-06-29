@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,7 +256,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4874,
+  "EOS_Progressed": 4876,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
@@ -4701,6 +4701,11 @@
       "Time": "2023-06-29T17:05:13.9764444+00:00",
       "NumProgressed": 4874,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-29T19:05:58.8144014+00:00",
+      "NumProgressed": 4876,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4728,7 +4733,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "12",
@@ -4750,9 +4755,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "15",
@@ -4814,9 +4819,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "22",
@@ -4846,9 +4851,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "26",
@@ -4870,9 +4875,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "29",
@@ -4902,9 +4907,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "32",
@@ -4918,9 +4923,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "34",
@@ -4942,9 +4947,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 24
     },
     {
       "ID": "37",
@@ -4952,7 +4957,7 @@
       "Name": "Against the Odds",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "38",
@@ -4984,7 +4989,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "41",
@@ -5111,13 +5116,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4874,
+      "Progressed": 4876,
       "Completed": 4756
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4874,
+      "Progressed": 4876,
       "Completed": 4
     }
   ],
@@ -5125,8 +5130,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:05:13.9764438+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:05:58.8144007+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:59:24.6356333+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:05:13.9765006+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:00:08.0665294+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:05:58.8145083+00:00"
 }

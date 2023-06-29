@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 34.00% | ~114 |
+| Brace for impact! | 33.00% | ~111 |
 | Baby's First Car | 32.00% | ~107 |
 | Amateur Mechanic | 31.00% | ~104 |
 | Pushover | 31.00% | ~104 |
-| A Forest Walk | 31.00% | ~104 |
+| A Forest Walk | 30.00% | ~100 |
 | C-C-C-Combo! | 29.00% | ~97 |
 | Multiply that! | 29.00% | ~97 |
 | Fore! | 26.00% | ~87 |
@@ -17,31 +17,31 @@
 | Snow Fun! | 26.00% | ~87 |
 | The Collector | 25.00% | ~84 |
 | Bag of Tricks | 25.00% | ~84 |
-| I see the light! | 25.00% | ~84 |
 | You're it | 25.00% | ~84 |
 | First Come, First Serve | 24.00% | ~80 |
 | To and Fro | 24.00% | ~80 |
 | Take that Frosty! | 24.00% | ~80 |
 | Goodbye cruel world | 24.00% | ~80 |
+| I see the light! | 24.00% | ~80 |
 | In the Bag! | 24.00% | ~80 |
 | Disoriented | 23.00% | ~77 |
 | Beach Party! | 23.00% | ~77 |
-| Car-Tapult | 22.00% | ~73 |
-| Anger Issues | 22.00% | ~73 |
-| Your Highness | 22.00% | ~73 |
+| Car-Tapult | 22.00% | ~74 |
+| Anger Issues | 22.00% | ~74 |
+| Your Highness | 22.00% | ~74 |
 | Event Amateur | 21.00% | ~70 |
 | Feeling Dizzy? | 20.00% | ~67 |
-| Drift King! | 19.00% | ~63 |
-| Feeling Hot Hot Hot! | 19.00% | ~63 |
-| Ferry Good! | 19.00% | ~63 |
-| Speed of light | 19.00% | ~63 |
+| Drift King! | 19.00% | ~64 |
+| Feeling Hot Hot Hot! | 19.00% | ~64 |
+| Ferry Good! | 19.00% | ~64 |
+| Speed of light | 19.00% | ~64 |
 | Assert Dominance | 18.00% | ~60 |
-| Out of this League | 16.00% | ~53 |
+| Out of this League | 16.00% | ~54 |
 | Special Forces | 15.00% | ~50 |
-| Earth Defense Force | 13.00% | ~43 |
-| Toot Toot! | 13.00% | ~43 |
-| Rocketman | 13.00% | ~43 |
-| Blasting away! | 13.00% | ~43 |
+| Earth Defense Force | 13.00% | ~44 |
+| Toot Toot! | 13.00% | ~44 |
+| Rocketman | 13.00% | ~44 |
+| Blasting away! | 13.00% | ~44 |
 | High Roller | 12.00% | ~40 |
 | Event Pro | 11.00% | ~37 |
 | Space Crash | 8.00% | ~27 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 232)  
+Progressed: 335 (Ranked 232)  
 Completed: 2 (0.60%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 2 (0.60%) (Ranked 118)
 | 2023-06-23 | 331 | 2 |
 | 2023-06-27 | 333 | 2 |
 | 2023-06-28 | 334 | 2 |
+| 2023-06-29 | 335 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

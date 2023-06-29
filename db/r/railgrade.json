@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -450,9 +450,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19118,
+  "EOS_Progressed": 19120,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3580,6 +3580,11 @@
       "Time": "2023-06-29T17:06:02.6061666+00:00",
       "NumProgressed": 19118,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-06-29T19:06:57.8962221+00:00",
+      "NumProgressed": 19120,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 37,
@@ -3599,7 +3604,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "ach.030.deertastic",
@@ -3623,7 +3628,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15868
+      "UsersEstimate": 15870
     },
     {
       "ID": "ach.060.goingdistance",
@@ -3631,7 +3636,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "ach.070.8kenough",
@@ -3647,7 +3652,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13383
+      "UsersEstimate": 13384
     },
     {
       "ID": "ach.090.perfectionist",
@@ -3655,7 +3660,7 @@
       "Name": "Perfectionist",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "ach.100.indecisive",
@@ -3663,7 +3668,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "ach.110.multiverse",
@@ -3679,7 +3684,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "ach.130.minimalist",
@@ -3687,7 +3692,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17206
+      "UsersEstimate": 17208
     },
     {
       "ID": "ach.140.legacy",
@@ -3695,7 +3700,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18736
+      "UsersEstimate": 18738
     },
     {
       "ID": "ach.150.pocket",
@@ -3703,7 +3708,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12427
+      "UsersEstimate": 12428
     },
     {
       "ID": "ach.160.box",
@@ -3711,7 +3716,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     },
     {
       "ID": "ach.170.room",
@@ -3727,7 +3732,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11280
+      "UsersEstimate": 11281
     },
     {
       "ID": "ach.190.scenic",
@@ -3783,7 +3788,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17780
+      "UsersEstimate": 17782
     },
     {
       "ID": "ach.260.investor",
@@ -3847,7 +3852,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17397
+      "UsersEstimate": 17399
     },
     {
       "ID": "ach.340.steel",
@@ -3863,7 +3868,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "ach.360.lightning",
@@ -3886,7 +3891,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19118,
+      "Progressed": 19120,
       "Completed": 31
     }
   ],
@@ -3894,8 +3899,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-06-16T10:00:30.573746+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:06:02.606166+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:06:57.8962215+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.1465348+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:59:20.075576+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:06:02.6062057+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:00:01.9590276+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:06:57.8963021+00:00"
 }

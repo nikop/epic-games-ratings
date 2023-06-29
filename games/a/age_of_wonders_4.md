@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.59 (Ranked 410)  
+Rating: 4.59 (Ranked 411)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,24 +9,25 @@ Rating: 4.59 (Ranked 410)
 | Tipping the Scales | 1.00% | ~49 |
 | Realm Estate | 0.80% | ~39 |
 | A Wonderful Discovery | 0.80% | ~39 |
-| Magical Synergy | 0.70% | ~34 |
+| Magical Synergy | 0.80% | ~39 |
+| Walls Cannot Stop Us | 0.70% | ~34 |
+| From Friends to Family | 0.70% | ~34 |
 | My Final Form | 0.70% | ~34 |
 | Mighty Hoard | 0.70% | ~34 |
-| Walls Cannot Stop Us | 0.60% | ~29 |
-| From Friends to Family | 0.60% | ~29 |
 | Stronger Together | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Blood of the Dragon | 0.60% | ~29 |
 | Bone Peddler | 0.50% | ~24 |
+| Seat of Power | 0.50% | ~24 |
+| Fiery Friend | 0.50% | ~24 |
 | Impenetrable Fortress | 0.50% | ~24 |
-| There Can Only Be One! | 0.40% | ~19 |
-| Seat of Power | 0.40% | ~19 |
-| Fiery Friend | 0.40% | ~19 |
-| Against the Odds | 0.40% | ~19 |
-| Intimidation Tactics | 0.40% | ~19 |
+| There Can Only Be One! | 0.40% | ~20 |
+| Full Ascension | 0.40% | ~20 |
+| Against the Odds | 0.40% | ~20 |
+| Intimidation Tactics | 0.40% | ~20 |
 | Valley of Wonders | 0.30% | ~15 |
-| Full Ascension | 0.30% | ~15 |
 | Return of the Wizard King | 0.30% | ~15 |
+| Eternal Lord | 0.30% | ~15 |
 | Digging for Treasure | 0.30% | ~15 |
 | Preparation Is Everything | 0.30% | ~15 |
 | Duality | 0.30% | ~15 |
@@ -34,7 +35,6 @@ Rating: 4.59 (Ranked 410)
 | Arch Mage | 0.20% | ~10 |
 | The Creator | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |
-| Eternal Lord | 0.20% | ~10 |
 | In a Liege of Your Own | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,874 (Ranked 134)  
+Progressed: 4,876 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
-| 2023-06-29 | 4,874 | 4 |
+| 2023-06-29 | 4,876 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

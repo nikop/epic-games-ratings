@@ -36,6 +36,11 @@ Rating: 4.19 (Ranked 844)
 | Crash Site | 0.10% | ~16 |
 | Full Circle | 0.10% | ~16 |
 | Power Up | 0.10% | ~16 |
+| Don't Let It Mellow | 0.10% | ~4 |
+| This Isn't About Escape | 0.10% | ~4 |
+| Keep Fighting | 0.10% | ~4 |
+| It's Time | 0.10% | ~4 |
+| Quick Pick | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
@@ -45,16 +50,11 @@ Rating: 4.19 (Ranked 844)
 | Hoard Mode | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
-| Don't Let It Mellow | 0.00% | ~0 |
 | Information Overload | 0.00% | ~0 |
-| This Isn't About Escape | 0.00% | ~0 |
 | One Last Job | 0.00% | ~0 |
-| Keep Fighting | 0.00% | ~0 |
-| It's Time | 0.00% | ~0 |
-| Quick Pick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,586 (Ranked 105)  
-Completed: 57 (0.37%) (Ranked 134)  
+Completed: 58 (0.37%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,16 +122,16 @@ Completed: 57 (0.37%) (Ranked 134)
 | 2023-06-26 | 15,563 | 57 |
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
-| 2023-06-29 | 15,586 | 57 |
+| 2023-06-29 | 15,586 | 58 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
-Sum: 343 (Ranked 323)  
+Sum: 347 (Ranked 323)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 61 |
-| This game is Highly Recommended | 57 |
-| This game has Amazing Characters | 57 |
+| This game is Highly Recommended | 59 |
+| This game has Amazing Characters | 59 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 49 |
 | This game has Challenging Combat | 41 |
@@ -217,4 +217,4 @@ Diff (max vs sum): 61
 | 2023-06-25 | 4.19 | 57 | 334 |
 | 2023-06-26 | 4.19 | 57 | 335 |
 | 2023-06-27 | 4.19 | 59 | 340 |
-| 2023-06-29 | 4.19 | 61 | 343 |
+| 2023-06-29 | 4.19 | 61 | 347 |

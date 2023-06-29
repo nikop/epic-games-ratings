@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,319 |
-| First One’s Free | 65.00% | ~44,199 |
-| Neophyte Ninja | 50.00% | ~33,999 |
-| Too Old for This | 47.00% | ~31,959 |
-| Fancy Pants | 35.00% | ~23,799 |
-| Case Closed | 34.00% | ~23,119 |
-| King of the Hill | 34.00% | ~23,119 |
-| Underworld Initiate | 29.00% | ~19,719 |
+| Downed but Not Outed | 74.00% | ~50,321 |
+| First One’s Free | 65.00% | ~44,201 |
+| Neophyte Ninja | 50.00% | ~34,001 |
+| Too Old for This | 47.00% | ~31,961 |
+| Fancy Pants | 35.00% | ~23,801 |
+| Case Closed | 34.00% | ~23,121 |
+| King of the Hill | 34.00% | ~23,121 |
+| Underworld Initiate | 29.00% | ~19,721 |
 | Roid Ranger | 21.00% | ~14,280 |
 | True Player | 19.00% | ~12,920 |
 | Off the Rocks | 19.00% | ~12,920 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 921)
 | Geek Out | 0.50% | ~340 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,998 (Ranked 71)  
+Progressed: 68,002 (Ranked 71)  
 Completed: 35 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,15 +113,15 @@ Completed: 35 (0.05%) (Ranked 196)
 | 2023-06-26 | 67,835 | 34 |
 | 2023-06-27 | 67,885 | 34 |
 | 2023-06-28 | 67,956 | 35 |
-| 2023-06-29 | 67,998 | 35 |
+| 2023-06-29 | 68,002 | 35 |
 ## Awards
 Max (Diverse Characters): 346  (Ranked 221)  
-Sum: 1,658 (Ranked 206)  
+Sum: 1,660 (Ranked 206)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 346 |
-| This game is Highly Recommended | 340 |
+| This game is Highly Recommended | 342 |
 | This game has Quickly Understood Controls | 331 |
 | This game has Challenging Combat | 323 |
 | This game has Amazing Characters | 318 |
@@ -223,4 +223,4 @@ Diff (max vs sum): 15
 | 2023-06-26 | 3.94 | 344 | 1,643 |
 | 2023-06-27 | 3.93 | 344 | 1,647 |
 | 2023-06-28 | 3.93 | 346 | 1,651 |
-| 2023-06-29 | 3.93 | 346 | 1,658 |
+| 2023-06-29 | 3.93 | 346 | 1,660 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1246,10 +1246,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2137,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2023-06-29T18:59:33.3371264+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2138,
+      "NumberOfAwardsMax": 239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2137,
+  "NumberOfAwards": 2138,
   "NumberOfAwardsMax": 239,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1281,7 +1287,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1326,9 +1332,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23853,
+  "EOS_Progressed": 23854,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6816,6 +6822,11 @@
       "Time": "2023-06-29T17:03:11.2819623+00:00",
       "NumProgressed": 23853,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-06-29T19:03:29.5611131+00:00",
+      "NumProgressed": 23854,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -6851,7 +6862,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -6875,7 +6886,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12165
+      "UsersEstimate": 12166
     },
     {
       "ID": "Collector",
@@ -6907,7 +6918,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "Discovery",
@@ -6915,7 +6926,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "Dont_Need_These",
@@ -6939,7 +6950,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15266
+      "UsersEstimate": 15267
     },
     {
       "ID": "Escape_Artist",
@@ -6947,7 +6958,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "Fragile_Panes",
@@ -6995,7 +7006,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Liability",
@@ -7091,7 +7102,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "Side_Hustle",
@@ -7139,7 +7150,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Surprise",
@@ -7155,7 +7166,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 13119
+      "UsersEstimate": 13120
     },
     {
       "ID": "Teamwork",
@@ -7163,7 +7174,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10495
+      "UsersEstimate": 10496
     },
     {
       "ID": "Terrifying",
@@ -7211,7 +7222,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11449
+      "UsersEstimate": 11450
     },
     {
       "ID": "Welcome_Crew",
@@ -7234,16 +7245,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23853,
+      "Progressed": 23854,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-06-29T06:00:06.7287151+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:03:11.2819617+00:00",
+  "LastChanged": "2023-06-29T18:59:33.3371262+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:03:29.5611125+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.3306533+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:58:58.4922259+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:03:11.2820253+00:00"
+  "LastUpdate_Ratings": "2023-06-29T18:59:33.337127+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:03:29.5612445+00:00"
 }

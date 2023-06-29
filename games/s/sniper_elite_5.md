@@ -8,15 +8,19 @@ Rating: 4.45 (Ranked 618)
 | Liberté | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
 | Enemy at the Gates | 0.10% | ~3 |
+| Fields of Glory | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
 | Sharpshooter | 0.10% | ~3 |
+| The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
 | Confirming Suspicions | 0.10% | ~3 |
+| Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
+| Resourceful | 0.10% | ~3 |
 | Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | The Kraken Wakes | 0.10% | ~3 |
@@ -26,10 +30,13 @@ Rating: 4.45 (Ranked 618)
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
+| It's Starting to Crack | 0.10% | ~3 |
 | Change the Channel | 0.10% | ~3 |
+| Taking it back | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
 | The Kraken Sleeps | 0.10% | ~3 |
+| Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
 | Siegebreaker | 0.10% | ~3 |
 | Ghost of Falaise | 0.10% | ~3 |
@@ -39,28 +46,22 @@ Rating: 4.45 (Ranked 618)
 | Climbing the Ladder | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
-| Fields of Glory | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Skirmisher | 0.00% | ~0 |
-| The Long Game | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| Rigged to Blow | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
-| Resourceful | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
-| It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Locomotion Commotion | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Don't hold your breath | 0.00% | ~0 |
-| Taking it back | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
@@ -69,7 +70,6 @@ Rating: 4.45 (Ranked 618)
 | From Führer Away | 0.00% | ~0 |
 | Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
-| Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 618)
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,163 (Ranked 145)  
+Progressed: 3,164 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
-| 2023-06-29 | 3,163 | 6 |
+| 2023-06-29 | 3,164 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

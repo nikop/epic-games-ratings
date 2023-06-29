@@ -24,8 +24,8 @@ Number of Ratings: 38  (23.09.2022)
 | Flower Powered | 12.00% | ~156 |
 | Perfect timing | 10.00% | ~130 |
 | Unstoppable | 10.00% | ~130 |
+| Ain't no mountain high enough | 9.00% | ~117 |
 | Self-sustainability | 8.00% | ~104 |
-| Ain't no mountain high enough | 8.00% | ~104 |
 | Can't get wetter... | 5.00% | ~65 |
 | Spring cleaning | 5.00% | ~65 |
 | An eye for an eye | 5.00% | ~65 |

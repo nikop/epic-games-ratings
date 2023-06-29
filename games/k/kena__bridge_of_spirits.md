@@ -6,24 +6,24 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~405,069 |
-| Haikyo | 80.00% | ~341,110 |
-| Good as New | 72.00% | ~306,999 |
+| Found a Friend | 95.00% | ~405,070 |
+| Haikyo | 80.00% | ~341,111 |
+| Good as New | 72.00% | ~307,000 |
 | Into the Woods | 69.00% | ~294,208 |
 | Hunter in the Forest | 60.00% | ~255,833 |
 | Rot Commander | 60.00% | ~255,833 |
-| Taro's Fear | 56.00% | ~238,777 |
-| Between the Eyes | 46.00% | ~196,138 |
+| Taro's Fear | 56.00% | ~238,778 |
+| Between the Eyes | 46.00% | ~196,139 |
 | Taro's Love | 45.00% | ~191,875 |
 | Taro's Regret | 43.00% | ~183,347 |
 | Spirit Guide | 42.00% | ~179,083 |
-| Harness Your Power | 38.00% | ~162,027 |
+| Harness Your Power | 38.00% | ~162,028 |
 | The Open Range | 37.00% | ~157,764 |
 | Adira's Love | 34.00% | ~144,972 |
 | Adira's Fear | 32.00% | ~136,444 |
-| Weigh Them Down | 31.00% | ~132,180 |
-| Adira's Regret | 31.00% | ~132,180 |
-| A Heavy Hammer | 30.00% | ~127,916 |
+| Weigh Them Down | 31.00% | ~132,181 |
+| Adira's Regret | 31.00% | ~132,181 |
+| A Heavy Hammer | 30.00% | ~127,917 |
 | Crossing Over | 29.00% | ~123,653 |
 | Quick Draw | 29.00% | ~123,653 |
 | Toshi's Fear | 27.00% | ~115,125 |
@@ -45,10 +45,10 @@ Number of Ratings: 3,313  (23.09.2022)
 | Sharpshooter | 2.00% | ~8,528 |
 | Triple Tap | 1.00% | ~4,264 |
 | Return to Sender | 1.00% | ~4,264 |
-| Triple Threat | 0.90% | ~3,837 |
+| Triple Threat | 0.90% | ~3,838 |
 | Master Spirit Guide | 0.30% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426,388 (Ranked 36)  
+Progressed: 426,389 (Ranked 36)  
 Completed: 513 (0.12%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 513 (0.12%) (Ranked 175)
 | 2023-06-26 | 426,335 | 510 |
 | 2023-06-27 | 426,354 | 511 |
 | 2023-06-28 | 426,369 | 513 |
-| 2023-06-29 | 426,388 | 513 |
+| 2023-06-29 | 426,389 | 513 |
 ## Awards
 Max (Great Boss Battles): 1,302  (Ranked 124)  
 Sum: 1,675 (Ranked 205)  

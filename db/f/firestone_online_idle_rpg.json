@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3652,6 +3652,11 @@
       "Time": "2023-06-29T15:06:35.9097718+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T19:07:06.7585216+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3775,7 +3780,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "dragonslayer",
@@ -3831,7 +3836,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "exoticmerchant",
@@ -3911,7 +3916,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "howdoyouturnthison",
@@ -3919,7 +3924,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "hunter",
@@ -4055,7 +4060,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "prestigiousx10",
@@ -4135,7 +4140,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "thefatherofdragons",
@@ -4143,7 +4148,7 @@
       "Name": "The father of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "thegameison",
@@ -4183,7 +4188,7 @@
       "Name": "Trader",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -4223,7 +4228,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "warmachinesarmy",
@@ -4255,14 +4260,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 1
     }
   ],
@@ -4270,8 +4275,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-29T17:06:10.2159146+00:00",
+  "LastChanged_Achievements": "2023-06-29T19:07:06.7585209+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:58:08.8693114+00:00",
-  "LastUpdate_Achievements": "2023-06-29T17:06:10.2159947+00:00"
+  "LastUpdate_Ratings": "2023-06-29T18:58:30.7541622+00:00",
+  "LastUpdate_Achievements": "2023-06-29T19:07:06.7586915+00:00"
 }

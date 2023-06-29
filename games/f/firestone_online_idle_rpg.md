@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,433 |
-| World Map | 79.00% | ~1,204 |
+| Victor | 94.00% | ~1,434 |
+| World Map | 79.00% | ~1,205 |
 | Temple of Eternals | 57.00% | ~869 |
-| Prestigious | 54.00% | ~823 |
+| Prestigious | 54.00% | ~824 |
 | Fellowship Power | 41.00% | ~625 |
 | Guild Power | 25.00% | ~381 |
 | Prestigious x10 | 21.00% | ~320 |
@@ -18,9 +18,9 @@ Rating: 4.07 (Ranked 895)
 | Miner Clicker | 16.00% | ~244 |
 | Full Party | 15.00% | ~229 |
 | Inspection | 15.00% | ~229 |
-| Dragon Master | 14.00% | ~213 |
-| Enlightenment | 14.00% | ~213 |
-| Hero inspection | 14.00% | ~213 |
+| Dragon Master | 14.00% | ~214 |
+| Enlightenment | 14.00% | ~214 |
+| Hero inspection | 14.00% | ~214 |
 | Lieutenant | 13.00% | ~198 |
 | Milestone collector | 12.00% | ~183 |
 | Mysterious Rock | 12.00% | ~183 |
@@ -41,10 +41,10 @@ Rating: 4.07 (Ranked 895)
 | Relic Of The Past | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |
-| How Do You Turn This On? | 6.00% | ~91 |
-| The Expeditioner | 6.00% | ~91 |
-| The father of Dragons | 6.00% | ~91 |
-| Trader | 6.00% | ~91 |
+| How Do You Turn This On? | 6.00% | ~92 |
+| The Expeditioner | 6.00% | ~92 |
+| The father of Dragons | 6.00% | ~92 |
+| Trader | 6.00% | ~92 |
 | Ancient Knowledge | 5.00% | ~76 |
 | Crystal Mining | 5.00% | ~76 |
 | Enchanting skill | 5.00% | ~76 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,524 (Ranked 168)  
+Progressed: 1,525 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
-| 2023-06-29 | 1,524 | 1 |
+| 2023-06-29 | 1,525 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -46,8 +46,8 @@
 | Fairgrounds Explorer | 6.00% | ~44 |
 | Syron for Hope | 6.00% | ~44 |
 | Golem Hunter | 5.00% | ~36 |
+| Clovemary for Remembering | 4.00% | ~29 |
 | Rungs Was Right | 4.00% | ~29 |
-| Clovemary for Remembering | 3.00% | ~22 |
 | Hexlock for Protection | 3.00% | ~22 |
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |

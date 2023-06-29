@@ -13,12 +13,12 @@
 | Armored | 29.00% | ~25 |
 | Your Training Continues | 28.00% | ~24 |
 | Freedom | 27.00% | ~23 |
+| Winner | 26.00% | ~22 |
 | The Pride of Moozhaw | 25.00% | ~21 |
-| Winner | 25.00% | ~21 |
 | Omnia Vincit Amor | 22.00% | ~19 |
 | Stilt House | 16.00% | ~14 |
 | Armor Collector | 14.00% | ~12 |
-| Corwid Hill | 12.00% | ~10 |
+| Corwid Hill | 13.00% | ~11 |
 | Dreamwalker | 11.00% | ~9 |
 | Your Training Is Complete | 7.00% | ~6 |
 | Total Eclipse | 7.00% | ~6 |

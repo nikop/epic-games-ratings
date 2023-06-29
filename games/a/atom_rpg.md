@@ -27,8 +27,8 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~50 |
 | Indy | 4.00% | ~40 |
 | Sacrifice | 4.00% | ~40 |
+| Wishmaster | 3.00% | ~30 |
 | Career criminal | 2.00% | ~20 |
-| Wishmaster | 2.00% | ~20 |
 | Neanderthal | 1.00% | ~10 |
 | It was worth a shot | 1.00% | ~10 |
 | Cosmic Horror | 1.00% | ~10 |

@@ -34,6 +34,7 @@
 | Labour of Apollo | 2.00% | ~61 |
 | Vandili | 2.00% | ~61 |
 | Cloaca Maxima | 2.00% | ~61 |
+| Baby Crabs They Ain't | 2.00% | ~61 |
 | Halls of Marble | 2.00% | ~61 |
 | Mors Omnibus | 2.00% | ~61 |
 | Blot Out the Sky | 2.00% | ~61 |
@@ -51,7 +52,6 @@
 | The Archimedes Principle | 1.00% | ~31 |
 | Rites at Sea | 1.00% | ~31 |
 | Close Shut the Doors | 1.00% | ~31 |
-| Baby Crabs They Ain't | 1.00% | ~31 |
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~24 |
 | Athenian Treasury | 0.70% | ~21 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,054 (Ranked 146)  
+Progressed: 3,056 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 3,037 | 0 |
 | 2023-06-27 | 3,041 | 0 |
 | 2023-06-28 | 3,044 | 0 |
-| 2023-06-29 | 3,054 | 0 |
+| 2023-06-29 | 3,056 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
