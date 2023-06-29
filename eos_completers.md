@@ -128,8 +128,8 @@
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 128 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 129 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.45% |
-| 130 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 131 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
 | 133 | [Tchia](games/t/tchia.md) | 0.38% |
