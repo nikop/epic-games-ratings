@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -3082,9 +3082,9 @@
       "ID": "15",
       "SetID": "9p3jgda",
       "Name": "FRAMED!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 114
     },
     {
       "ID": "16",
@@ -3232,8 +3232,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-06-29T12:04:53.3515651+00:00",
+  "LastChanged_Achievements": "2023-06-29T13:20:21.9628866+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:53.1588974+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:59:18.0801146+00:00",
-  "LastUpdate_Achievements": "2023-06-29T12:04:53.3515939+00:00"
+  "LastUpdate_Ratings": "2023-06-29T13:14:25.8378436+00:00",
+  "LastUpdate_Achievements": "2023-06-29T13:20:21.9629219+00:00"
 }

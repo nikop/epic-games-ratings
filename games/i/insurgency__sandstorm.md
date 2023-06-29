@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~19,978 |
 | Wallbanger | 5.00% | ~19,978 |
-| Exploitative | 4.00% | ~15,982 |
-| High Speed Low Drag | 4.00% | ~15,982 |
-| Wet Feet | 4.00% | ~15,982 |
+| Exploitative | 4.00% | ~15,983 |
+| High Speed Low Drag | 4.00% | ~15,983 |
+| Wet Feet | 4.00% | ~15,983 |
 | Checkpoint Victory | 3.00% | ~11,987 |
 | Lucky | 3.00% | ~11,987 |
 | Stylin' | 3.00% | ~11,987 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~3,596 |
 | Mount & Gun | 0.90% | ~3,596 |
 | Personal | 0.90% | ~3,596 |
-| Grounded | 0.80% | ~3,196 |
-| Play to Win | 0.80% | ~3,196 |
+| Grounded | 0.80% | ~3,197 |
+| Play to Win | 0.80% | ~3,197 |
 | #1 | 0.70% | ~2,797 |
 | Special Delivery | 0.70% | ~2,797 |
 | Firefight Victory | 0.60% | ~2,397 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~400 |
 | Road Hazard | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,551 (Ranked 39)  
+Progressed: 399,567 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-26 | 398,342 | 2 |
 | 2023-06-27 | 398,824 | 2 |
 | 2023-06-28 | 399,320 | 2 |
-| 2023-06-29 | 399,551 | 2 |
+| 2023-06-29 | 399,567 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
-Sum: 2,746 (Ranked 166)  
+Sum: 2,747 (Ranked 166)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -124,8 +124,8 @@ Diff (max vs sum): 51
 | This game is Extremely Fun | 322 |
 | This game has Competitive Players | 320 |
 | This game has Realistic Visuals | 296 |
+| This game is Highly Recommended | 293 |
 | This game has Amazing Storytelling | 292 |
-| This game is Highly Recommended | 292 |
 | This game has Amazing Characters | 284 |
 | This game has a Competitive Community | 248 |
 | This game has Obsessive Gameplay | 156 |
@@ -296,4 +296,4 @@ Diff (max vs sum): 51
 | 2023-06-25 | 4.62 | - | 361 | 2,740 |
 | 2023-06-26 | 4.62 | - | 361 | 2,743 |
 | 2023-06-27 | 4.61 | - | 361 | 2,744 |
-| 2023-06-29 | 4.61 | - | 361 | 2,746 |
+| 2023-06-29 | 4.61 | - | 361 | 2,747 |

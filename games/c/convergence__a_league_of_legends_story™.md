@@ -11,20 +11,20 @@
 | Treasure Trove | 13.00% | ~95 |
 | The Mysterious Stranger | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
-| The Betrayer | 12.00% | ~87 |
-| The Man Who Shattered Time | 12.00% | ~87 |
-| The Loose Cannon | 12.00% | ~87 |
-| Make Up For Lost Time | 12.00% | ~87 |
-| Time Flies | 12.00% | ~87 |
-| The Harder They Fall | 12.00% | ~87 |
-| No, Thanks! | 12.00% | ~87 |
-| Breaking Down Barriers | 12.00% | ~87 |
-| The Prince in Heels | 12.00% | ~87 |
-| Fast Learner | 12.00% | ~87 |
-| Check Your Pulse | 12.00% | ~87 |
-| Immaculate Aim | 12.00% | ~87 |
-| The Brass Boss | 12.00% | ~87 |
-| The Family Fortune | 12.00% | ~87 |
+| The Betrayer | 12.00% | ~88 |
+| The Man Who Shattered Time | 12.00% | ~88 |
+| The Loose Cannon | 12.00% | ~88 |
+| Make Up For Lost Time | 12.00% | ~88 |
+| Time Flies | 12.00% | ~88 |
+| The Harder They Fall | 12.00% | ~88 |
+| No, Thanks! | 12.00% | ~88 |
+| Breaking Down Barriers | 12.00% | ~88 |
+| The Prince in Heels | 12.00% | ~88 |
+| Fast Learner | 12.00% | ~88 |
+| Check Your Pulse | 12.00% | ~88 |
+| Immaculate Aim | 12.00% | ~88 |
+| The Brass Boss | 12.00% | ~88 |
+| The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~80 |
 | Street Style | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 729 (Ranked 195)  
+Progressed: 730 (Ranked 195)  
 Completed: 4 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 4 (0.55%) (Ranked 121)
 | 2023-06-26 | 725 | 4 |
 | 2023-06-27 | 727 | 4 |
 | 2023-06-28 | 728 | 4 |
-| 2023-06-29 | 729 | 4 |
+| 2023-06-29 | 730 | 4 |

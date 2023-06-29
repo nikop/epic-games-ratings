@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4362,9 +4362,9 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 281872,
+  "EOS_Progressed": 281876,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11747,6 +11747,11 @@
       "Time": "2023-06-29T12:05:50.5763216+00:00",
       "NumProgressed": 281872,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-06-29T13:21:19.5523591+00:00",
+      "NumProgressed": 281876,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 45,
@@ -11758,7 +11763,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28187
+      "UsersEstimate": 28188
     },
     {
       "ID": "PFA_10",
@@ -11806,7 +11811,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_16",
@@ -11822,7 +11827,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_18",
@@ -11830,7 +11835,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_19",
@@ -11838,7 +11843,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_2",
@@ -11918,7 +11923,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "PFA_29",
@@ -11934,7 +11939,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "PFA_30",
@@ -11974,7 +11979,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5637
+      "UsersEstimate": 5638
     },
     {
       "ID": "PFA_35",
@@ -11982,7 +11987,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_36",
@@ -12062,7 +12067,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "PFA_45",
@@ -12086,7 +12091,7 @@
       "Name": "First Class Student",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25368
+      "UsersEstimate": 25369
     },
     {
       "ID": "PFA_7",
@@ -12094,7 +12099,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25368
+      "UsersEstimate": 25369
     },
     {
       "ID": "PFA_8",
@@ -12117,7 +12122,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281872,
+      "Progressed": 281876,
       "Completed": 414
     }
   ],
@@ -12125,8 +12130,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-29T11:57:35.7827796+00:00",
-  "LastChanged_Achievements": "2023-06-29T12:05:50.5763212+00:00",
+  "LastChanged_Achievements": "2023-06-29T13:21:19.5523583+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:57:35.7827804+00:00",
-  "LastUpdate_Achievements": "2023-06-29T12:05:50.57639+00:00"
+  "LastUpdate_Ratings": "2023-06-29T13:12:42.1500365+00:00",
+  "LastUpdate_Achievements": "2023-06-29T13:21:19.552438+00:00"
 }

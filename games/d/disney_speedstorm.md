@@ -27,7 +27,7 @@
 | THE EYE OF THE HUNTER | 10.00% | ~285 |
 | ACE TRICKSTER | 8.00% | ~228 |
 | EXPERIENCED CREW | 4.00% | ~114 |
-| FRAMED! | 3.00% | ~85 |
+| FRAMED! | 4.00% | ~114 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,847 (Ranked 149)  
 Completed: 75 (2.63%) (Ranked 64)  

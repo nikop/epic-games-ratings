@@ -4,7 +4,7 @@
   "ProductSlug": "ashwalkers",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.9767207+00:00",
   "LastChanged": "2023-03-31T05:58:45.9767208+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:32.7400094+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:58:07.5977469+00:00",
-  "LastUpdate_Achievements": "2023-06-29T12:05:10.2925422+00:00"
+  "LastUpdate_Ratings": "2023-06-29T13:13:14.9720155+00:00",
+  "LastUpdate_Achievements": "2023-06-29T13:20:38.5280016+00:00"
 }

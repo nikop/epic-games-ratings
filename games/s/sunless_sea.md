@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,668 |
-| Sweet Sorrow | 18.00% | ~5,834 |
-| Rules the Waves | 17.00% | ~5,510 |
+| Sink Beneath the Waves | 36.00% | ~11,669 |
+| Sweet Sorrow | 18.00% | ~5,835 |
+| Rules the Waves | 17.00% | ~5,511 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,862 |
 | Rival | 14.00% | ~4,538 |
-| Correspondent | 12.00% | ~3,889 |
-| Lose Your Mind | 12.00% | ~3,889 |
-| Sound Mind? | 12.00% | ~3,889 |
-| Salt's Curse | 11.00% | ~3,565 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,565 |
-| The Fall of the House | 11.00% | ~3,565 |
-| Shipmate | 11.00% | ~3,565 |
+| Correspondent | 12.00% | ~3,890 |
+| Lose Your Mind | 12.00% | ~3,890 |
+| Sound Mind? | 12.00% | ~3,890 |
+| Salt's Curse | 11.00% | ~3,566 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,566 |
+| The Fall of the House | 11.00% | ~3,566 |
+| Shipmate | 11.00% | ~3,566 |
 | One Year at Zee | 8.00% | ~2,593 |
 | Pupil | 7.00% | ~2,269 |
 | Salvager | 7.00% | ~2,269 |
@@ -25,7 +25,7 @@ Number of Ratings: 401  (23.09.2022)
 | The Ascent of Man | 7.00% | ~2,269 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,621 |
 | Zee Fever | 5.00% | ~1,621 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,296 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,297 |
 | Storm's Curse | 3.00% | ~972 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~972 |
 | Come Closer | 3.00% | ~972 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,411 (Ranked 91)  
+Progressed: 32,415 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.01%) (Ranked 218)
 | 2023-06-26 | 32,254 | 3 |
 | 2023-06-27 | 32,329 | 3 |
 | 2023-06-28 | 32,395 | 3 |
-| 2023-06-29 | 32,411 | 3 |
+| 2023-06-29 | 32,415 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

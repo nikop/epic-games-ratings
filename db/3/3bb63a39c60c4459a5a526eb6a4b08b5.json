@@ -765,9 +765,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "NoTimeForModernization",
@@ -813,9 +813,9 @@
       "ID": "RacingAgainstTime",
       "SetID": "1e89b4i",
       "Name": "Race Against Time",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "Reaction",
@@ -829,9 +829,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ResourceEconomy",
@@ -908,8 +908,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-29T12:03:21.6782503+00:00",
+  "LastChanged_Achievements": "2023-06-29T13:18:48.1528282+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-06-29T11:57:06.0436436+00:00",
-  "LastUpdate_Achievements": "2023-06-29T12:03:21.6782797+00:00"
+  "LastUpdate_Ratings": "2023-06-29T13:12:12.8397891+00:00",
+  "LastUpdate_Achievements": "2023-06-29T13:18:48.152863+00:00"
 }

@@ -7,22 +7,23 @@
 | Tributes of Caladrias | 21.00% | ~3 |
 | Find Allies | 14.00% | ~2 |
 | Monsalar: Wildlands | 14.00% | ~2 |
+| Geared up | 14.00% | ~2 |
+| Fashion Victim | 14.00% | ~2 |
+| Alchemist | 14.00% | ~2 |
 | Stone collection | 14.00% | ~2 |
 | Powerful Allies | 7.00% | ~1 |
+| To battle | 7.00% | ~1 |
+| Godslayer | 7.00% | ~1 |
 | A taste of wrath | 7.00% | ~1 |
 | Trinity | 7.00% | ~1 |
 | Adventurer | 7.00% | ~1 |
 | Airborne | 7.00% | ~1 |
 | Shatter them all | 7.00% | ~1 |
-| Geared up | 7.00% | ~1 |
-| Fashion Victim | 7.00% | ~1 |
+| Flawless Victory | 7.00% | ~1 |
 | Scholar | 7.00% | ~1 |
 | I found it | 7.00% | ~1 |
-| Alchemist | 7.00% | ~1 |
 | Miner | 7.00% | ~1 |
 | The collector | 7.00% | ~1 |
-| To battle | 0.00% | ~0 |
-| Godslayer | 0.00% | ~0 |
 | Clear sight | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
 | Big bazar | 0.00% | ~0 |
 | Fine feathers make fine birds | 0.00% | ~0 |
 | All there is | 0.00% | ~0 |

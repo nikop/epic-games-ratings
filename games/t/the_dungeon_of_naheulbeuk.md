@@ -34,8 +34,8 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 21.00% | ~54 |
 | Material Girl | 21.00% | ~54 |
 | Shiny and Crôm | 20.00% | ~51 |
+| The Woman in the High Castle | 18.00% | ~46 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~46 |
-| The Woman in the High Castle | 17.00% | ~44 |
 | In Navalu's footsteps | 17.00% | ~44 |
 | Urik's Depths | 15.00% | ~39 |
 | The Blood Countess | 15.00% | ~39 |

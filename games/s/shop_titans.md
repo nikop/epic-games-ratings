@@ -6,55 +6,55 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,658 |
-| Titan's First Steps | 96.00% | ~126,342 |
-| Basic in Bulk | 91.00% | ~119,761 |
-| Tinkle of Coins | 86.00% | ~113,181 |
-| Disintermediation | 75.00% | ~98,704 |
-| Capitalism Ho! | 74.00% | ~97,388 |
-| It's Free Real Estate | 70.00% | ~92,124 |
-| Budding Merchant | 66.00% | ~86,860 |
-| Another Satisfied Customer | 61.00% | ~80,280 |
-| One Easy Payment | 60.00% | ~78,964 |
-| Own the Means of Production | 60.00% | ~78,964 |
-| Some Assembly Required | 58.00% | ~76,331 |
-| Pretty Penny | 57.00% | ~75,015 |
-| One-Armed Bandit | 49.00% | ~64,487 |
-| Through Repetition, Perfection | 46.00% | ~60,539 |
-| The Daily Grind | 45.00% | ~59,223 |
-| Bounty Hunters | 44.00% | ~57,907 |
-| Where it Hurts | 43.00% | ~56,591 |
-| Dungeon Imports | 42.00% | ~55,275 |
-| Flooding the Market | 41.00% | ~53,958 |
-| Demand for Supplies | 38.00% | ~50,010 |
-| Gild-Gotten Goods | 37.00% | ~48,694 |
-| Did we pack lunch? | 35.00% | ~46,062 |
-| Arcane Industries | 34.00% | ~44,746 |
-| Accomplished Merchant | 31.00% | ~40,798 |
-| On the Path to Greatness | 28.00% | ~36,850 |
-| Ascended | 28.00% | ~36,850 |
-| Gem Expert | 28.00% | ~36,850 |
-| Helping Hand | 28.00% | ~36,850 |
-| Blank Page Syndrome | 27.00% | ~35,534 |
-| Efficient Floor Space | 27.00% | ~35,534 |
-| Vanity, Verily | 26.00% | ~34,218 |
+| Sponsored by Argon | 97.00% | ~127,662 |
+| Titan's First Steps | 96.00% | ~126,346 |
+| Basic in Bulk | 91.00% | ~119,765 |
+| Tinkle of Coins | 86.00% | ~113,185 |
+| Disintermediation | 75.00% | ~98,708 |
+| Capitalism Ho! | 74.00% | ~97,391 |
+| It's Free Real Estate | 70.00% | ~92,127 |
+| Budding Merchant | 66.00% | ~86,863 |
+| Another Satisfied Customer | 61.00% | ~80,282 |
+| One Easy Payment | 60.00% | ~78,966 |
+| Own the Means of Production | 60.00% | ~78,966 |
+| Some Assembly Required | 58.00% | ~76,334 |
+| Pretty Penny | 57.00% | ~75,018 |
+| One-Armed Bandit | 49.00% | ~64,489 |
+| Through Repetition, Perfection | 46.00% | ~60,541 |
+| The Daily Grind | 45.00% | ~59,224 |
+| Bounty Hunters | 44.00% | ~57,908 |
+| Where it Hurts | 43.00% | ~56,592 |
+| Dungeon Imports | 42.00% | ~55,276 |
+| Flooding the Market | 41.00% | ~53,960 |
+| Demand for Supplies | 38.00% | ~50,012 |
+| Gild-Gotten Goods | 37.00% | ~48,696 |
+| Did we pack lunch? | 35.00% | ~46,064 |
+| Arcane Industries | 34.00% | ~44,747 |
+| Accomplished Merchant | 31.00% | ~40,799 |
+| On the Path to Greatness | 28.00% | ~36,851 |
+| Ascended | 28.00% | ~36,851 |
+| Gem Expert | 28.00% | ~36,851 |
+| Helping Hand | 28.00% | ~36,851 |
+| Blank Page Syndrome | 27.00% | ~35,535 |
+| Efficient Floor Space | 27.00% | ~35,535 |
+| Vanity, Verily | 26.00% | ~34,219 |
 | Research & Development | 25.00% | ~32,902 |
-| Power of Love | 24.00% | ~31,585 |
-| Flawless Fusion | 24.00% | ~31,585 |
-| Natural 20 | 23.00% | ~30,269 |
-| Fated Encounters | 21.00% | ~27,637 |
-| Royal Ransom | 21.00% | ~27,637 |
-| Magical Harmony | 21.00% | ~27,637 |
-| Tax not Included | 20.00% | ~26,321 |
-| Trash to Treasure | 19.00% | ~25,005 |
-| For the Hoard! | 18.00% | ~23,689 |
-| Special Ingredient | 17.00% | ~22,373 |
-| Scrapbooker | 16.00% | ~21,057 |
-| A Notch Above the Rest | 15.00% | ~19,741 |
-| This Power Level...! | 15.00% | ~19,741 |
-| Expansion in Session | 15.00% | ~19,741 |
-| Seasoned Journeyman | 15.00% | ~19,741 |
-| Black Friday Special | 15.00% | ~19,741 |
+| Power of Love | 24.00% | ~31,586 |
+| Flawless Fusion | 24.00% | ~31,586 |
+| Natural 20 | 23.00% | ~30,270 |
+| Fated Encounters | 21.00% | ~27,638 |
+| Royal Ransom | 21.00% | ~27,638 |
+| Magical Harmony | 21.00% | ~27,638 |
+| Tax not Included | 20.00% | ~26,322 |
+| Trash to Treasure | 19.00% | ~25,006 |
+| For the Hoard! | 18.00% | ~23,690 |
+| Special Ingredient | 17.00% | ~22,374 |
+| Scrapbooker | 16.00% | ~21,058 |
+| A Notch Above the Rest | 15.00% | ~19,742 |
+| This Power Level...! | 15.00% | ~19,742 |
+| Expansion in Session | 15.00% | ~19,742 |
+| Seasoned Journeyman | 15.00% | ~19,742 |
+| Black Friday Special | 15.00% | ~19,742 |
 | Big Game Hunting | 14.00% | ~18,425 |
 | Locally Sourced | 14.00% | ~18,425 |
 | Flying off the Shelves | 14.00% | ~18,425 |
@@ -74,17 +74,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 9.00% | ~11,845 |
 | Master Merchant | 9.00% | ~11,845 |
 | Glittering Collection | 9.00% | ~11,845 |
-| Cream of the Crop | 8.00% | ~10,528 |
-| The King's Caprice | 8.00% | ~10,528 |
-| Item of Renown | 8.00% | ~10,528 |
-| Booty by the Boatload | 7.00% | ~9,212 |
-| A Legend is Born | 7.00% | ~9,212 |
-| Wealth Beyond Measure | 7.00% | ~9,212 |
-| Thirst for Knowledge | 6.00% | ~7,896 |
-| Archivist | 6.00% | ~7,896 |
-| Bountiful Harvest | 6.00% | ~7,896 |
-| Treasure Trove | 6.00% | ~7,896 |
-| All Accounted For | 6.00% | ~7,896 |
+| Cream of the Crop | 8.00% | ~10,529 |
+| The King's Caprice | 8.00% | ~10,529 |
+| Item of Renown | 8.00% | ~10,529 |
+| Booty by the Boatload | 7.00% | ~9,213 |
+| A Legend is Born | 7.00% | ~9,213 |
+| Wealth Beyond Measure | 7.00% | ~9,213 |
+| Thirst for Knowledge | 6.00% | ~7,897 |
+| Archivist | 6.00% | ~7,897 |
+| Bountiful Harvest | 6.00% | ~7,897 |
+| Treasure Trove | 6.00% | ~7,897 |
+| All Accounted For | 6.00% | ~7,897 |
 | Precision Engineering | 5.00% | ~6,580 |
 | Proud Paladin | 4.00% | ~5,264 |
 | Constellated | 4.00% | ~5,264 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~658 |
 | Capitalist Camaraderie | 0.20% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,606 (Ranked 59)  
+Progressed: 131,610 (Ranked 59)  
 Completed: 112 (0.09%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 112 (0.09%) (Ranked 182)
 | 2023-06-26 | 131,474 | 110 |
 | 2023-06-27 | 131,533 | 111 |
 | 2023-06-28 | 131,581 | 112 |
-| 2023-06-29 | 131,606 | 112 |
+| 2023-06-29 | 131,610 | 112 |
 ## Awards
 Max (Great for Beginners): 4,637  (Ranked 68)  
 Sum: 26,821 (Ranked 46)  
