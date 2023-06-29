@@ -6,24 +6,24 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,416 |
-| Settler | 81.00% | ~10,044 |
-| Explorer | 79.00% | ~9,796 |
-| Friendly Family | 75.00% | ~9,300 |
-| Intrepid | 69.00% | ~8,556 |
-| Architect | 61.00% | ~7,564 |
-| Mason | 61.00% | ~7,564 |
-| Able | 60.00% | ~7,440 |
-| Strong | 59.00% | ~7,316 |
-| Hanging Gardens | 59.00% | ~7,316 |
-| Noble | 57.00% | ~7,068 |
-| Oracle | 57.00% | ~7,068 |
-| Good | 55.00% | ~6,820 |
-| Just | 54.00% | ~6,696 |
-| Keystone | 54.00% | ~6,696 |
-| Judaism | 54.00% | ~6,696 |
-| Glorious | 52.00% | ~6,448 |
-| Trade Caravan | 52.00% | ~6,448 |
+| Play a Single Player Game | 84.00% | ~10,417 |
+| Settler | 81.00% | ~10,045 |
+| Explorer | 79.00% | ~9,797 |
+| Friendly Family | 75.00% | ~9,301 |
+| Intrepid | 69.00% | ~8,557 |
+| Architect | 61.00% | ~7,565 |
+| Mason | 61.00% | ~7,565 |
+| Able | 60.00% | ~7,441 |
+| Strong | 59.00% | ~7,317 |
+| Hanging Gardens | 59.00% | ~7,317 |
+| Noble | 57.00% | ~7,069 |
+| Oracle | 57.00% | ~7,069 |
+| Good | 55.00% | ~6,821 |
+| Just | 54.00% | ~6,697 |
+| Keystone | 54.00% | ~6,697 |
+| Judaism | 54.00% | ~6,697 |
+| Glorious | 52.00% | ~6,449 |
+| Trade Caravan | 52.00% | ~6,449 |
 | Naming Landmarks | 50.00% | ~6,200 |
 | Learned | 49.00% | ~6,076 |
 | Fountainhead | 48.00% | ~5,952 |
@@ -62,7 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 30.00% | ~3,720 |
 | Wise | 29.00% | ~3,596 |
 | Just Difficulty | 29.00% | ~3,596 |
-| Mausoleum | 28.00% | ~3,472 |
+| Mausoleum | 29.00% | ~3,596 |
 | Intercessor | 26.00% | ~3,224 |
 | Valiant | 26.00% | ~3,224 |
 | Sages | 25.00% | ~3,100 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,400 (Ranked 110)  
+Progressed: 12,401 (Ranked 111)  
 Completed: 4 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,7 +362,7 @@ Completed: 4 (0.03%) (Ranked 202)
 | 2023-06-26 | 12,335 | 4 |
 | 2023-06-27 | 12,359 | 4 |
 | 2023-06-28 | 12,384 | 4 |
-| 2023-06-29 | 12,400 | 4 |
+| 2023-06-29 | 12,401 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 254)  
 Sum: 1,774 (Ranked 203)  

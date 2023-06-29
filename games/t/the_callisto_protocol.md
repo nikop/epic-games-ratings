@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 844)
 | Information Overload | 0.00% | ~0 |
 | One Last Job | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,586 (Ranked 105)  
-Completed: 58 (0.37%) (Ranked 134)  
+Progressed: 15,587 (Ranked 105)  
+Completed: 59 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 58 (0.37%) (Ranked 134)
 | 2023-06-26 | 15,563 | 57 |
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
-| 2023-06-29 | 15,586 | 58 |
+| 2023-06-29 | 15,587 | 59 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 347 (Ranked 323)  

@@ -10,8 +10,8 @@
 | Terminated I | 7.00% | ~45 |
 | Unlocked and Loaded | 7.00% | ~45 |
 | The City | 6.00% | ~39 |
+| Terminated II | 6.00% | ~39 |
 | Challenge Mastered | 5.00% | ~32 |
-| Terminated II | 5.00% | ~32 |
 | Terminated III | 5.00% | ~32 |
 | Nanonic II | 4.00% | ~26 |
 | Cybernetic | 3.00% | ~19 |
@@ -21,8 +21,8 @@
 | Starship Docks | 2.00% | ~13 |
 | Rookie | 2.00% | ~13 |
 | Up Close And Personal | 2.00% | ~13 |
+| Eden Heights | 0.90% | ~6 |
 | Outer Core | 0.80% | ~5 |
-| Eden Heights | 0.60% | ~4 |
 | Integration | 0.60% | ~4 |
 | Inner Core | 0.50% | ~3 |
 | Ripperdoc | 0.30% | ~2 |

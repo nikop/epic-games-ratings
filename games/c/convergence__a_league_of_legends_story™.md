@@ -17,18 +17,18 @@
 | Make Up For Lost Time | 12.00% | ~88 |
 | Time Flies | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
-| No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |
 | The Prince in Heels | 12.00% | ~88 |
 | Fast Learner | 12.00% | ~88 |
-| Check Your Pulse | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
 | The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~80 |
 | Street Style | 11.00% | ~80 |
+| No, Thanks! | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
+| Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
 | Right On Time | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |
@@ -45,7 +45,7 @@
 | Factorywood Explorer | 6.00% | ~44 |
 | Fairgrounds Explorer | 6.00% | ~44 |
 | Syron for Hope | 6.00% | ~44 |
-| Golem Hunter | 5.00% | ~36 |
+| Golem Hunter | 5.00% | ~37 |
 | Clovemary for Remembering | 4.00% | ~29 |
 | Rungs Was Right | 4.00% | ~29 |
 | Hexlock for Protection | 3.00% | ~22 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730 (Ranked 196)  
+Progressed: 731 (Ranked 196)  
 Completed: 4 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,4 +99,4 @@ Completed: 4 (0.55%) (Ranked 121)
 | 2023-06-26 | 725 | 4 |
 | 2023-06-27 | 727 | 4 |
 | 2023-06-28 | 728 | 4 |
-| 2023-06-29 | 730 | 4 |
+| 2023-06-29 | 731 | 4 |

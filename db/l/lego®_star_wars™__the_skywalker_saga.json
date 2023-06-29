@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2570,9 +2570,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49767,
+  "EOS_Progressed": 49768,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -8295,6 +8295,11 @@
       "Time": "2023-06-29T19:02:08.3422129+00:00",
       "NumProgressed": 49767,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-06-29T20:02:11.9548262+00:00",
+      "NumProgressed": 49768,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 45,
@@ -8330,7 +8335,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39316
+      "UsersEstimate": 39317
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8442,7 +8447,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23390
+      "UsersEstimate": 23391
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8466,7 +8471,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12939
+      "UsersEstimate": 12940
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -8498,7 +8503,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28367
+      "UsersEstimate": 28368
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8570,7 +8575,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48274
+      "UsersEstimate": 48275
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8658,22 +8663,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35832
+      "UsersEstimate": 35833
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49767,
+      "Progressed": 49768,
       "Completed": 197
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-29T13:16:08.1946991+00:00",
-  "LastChanged_Achievements": "2023-06-29T19:02:08.342212+00:00",
+  "LastChanged_Achievements": "2023-06-29T20:02:11.9548254+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:01:20.6590952+00:00",
-  "LastUpdate_Achievements": "2023-06-29T19:02:08.3423856+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:01:14.1548485+00:00",
+  "LastUpdate_Achievements": "2023-06-29T20:02:11.9548824+00:00"
 }

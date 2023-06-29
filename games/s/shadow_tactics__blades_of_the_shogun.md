@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~18,173 |
-| Thorough | 9.00% | ~16,356 |
-| A thief's beginning | 8.00% | ~14,538 |
-| Disguised | 7.00% | ~12,721 |
-| Rescue Takuma | 7.00% | ~12,721 |
-| Rollin' | 7.00% | ~12,721 |
-| Tanuki Time | 7.00% | ~12,721 |
-| Chunin | 6.00% | ~10,904 |
-| Ice Ice Yuki | 6.00% | ~10,904 |
-| Jonin | 6.00% | ~10,904 |
-| Stoned Ox | 6.00% | ~10,904 |
-| Yabu | 6.00% | ~10,904 |
-| Flying Rocks | 5.00% | ~9,086 |
-| Happy Planning | 5.00% | ~9,086 |
-| Mugen Unchained | 5.00% | ~9,086 |
-| Warzone | 5.00% | ~9,086 |
-| Okkoto | 4.00% | ~7,269 |
-| Prisoners | 4.00% | ~7,269 |
-| Too Early | 4.00% | ~7,269 |
+| Genin | 10.00% | ~18,174 |
+| Thorough | 9.00% | ~16,357 |
+| A thief's beginning | 8.00% | ~14,539 |
+| Disguised | 7.00% | ~12,722 |
+| Rescue Takuma | 7.00% | ~12,722 |
+| Rollin' | 7.00% | ~12,722 |
+| Tanuki Time | 7.00% | ~12,722 |
+| Chunin | 6.00% | ~10,905 |
+| Ice Ice Yuki | 6.00% | ~10,905 |
+| Jonin | 6.00% | ~10,905 |
+| Stoned Ox | 6.00% | ~10,905 |
+| Yabu | 6.00% | ~10,905 |
+| Flying Rocks | 5.00% | ~9,087 |
+| Happy Planning | 5.00% | ~9,087 |
+| Mugen Unchained | 5.00% | ~9,087 |
+| Warzone | 5.00% | ~9,087 |
+| Okkoto | 4.00% | ~7,270 |
+| Prisoners | 4.00% | ~7,270 |
+| Too Early | 4.00% | ~7,270 |
 | Gear up | 3.00% | ~5,452 |
 | Happy little accidents | 3.00% | ~5,452 |
 | Noboru | 3.00% | ~5,452 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~182 |
 | Release the Kraken | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,729 (Ranked 57)  
+Progressed: 181,742 (Ranked 57)  
 Completed: 55 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 55 (0.03%) (Ranked 202)
 | 2023-06-26 | 180,895 | 55 |
 | 2023-06-27 | 181,183 | 55 |
 | 2023-06-28 | 181,481 | 55 |
-| 2023-06-29 | 181,729 | 55 |
+| 2023-06-29 | 181,742 | 55 |
 ## Awards
 Max (Great for Beginners): 552  (Ranked 182)  
 Sum: 4,690 (Ranked 129)  

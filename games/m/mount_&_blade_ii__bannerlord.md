@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,619 |
-| Landlord | 31.00% | ~16,894 |
-| Lawmaker | 22.00% | ~11,990 |
-| Bannerlord | 21.00% | ~11,445 |
-| Horde breaker | 21.00% | ~11,445 |
-| Trained | 21.00% | ~11,445 |
-| The king is pleased | 17.00% | ~9,265 |
-| King Solomon | 16.00% | ~8,720 |
-| I can do it | 15.00% | ~8,175 |
-| Apple of my eye | 14.00% | ~7,630 |
+| Lawbringer | 36.00% | ~19,621 |
+| Landlord | 31.00% | ~16,896 |
+| Lawmaker | 22.00% | ~11,991 |
+| Bannerlord | 21.00% | ~11,446 |
+| Horde breaker | 21.00% | ~11,446 |
+| Trained | 21.00% | ~11,446 |
+| The king is pleased | 17.00% | ~9,266 |
+| King Solomon | 16.00% | ~8,721 |
+| I can do it | 15.00% | ~8,176 |
+| Apple of my eye | 14.00% | ~7,631 |
 | God of the Arena | 12.00% | ~6,540 |
 | Against all odds | 10.00% | ~5,450 |
 | Swordbearer | 10.00% | ~5,450 |
@@ -39,26 +39,26 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crackshot | 0.80% | ~436 |
 | Undercover | 0.80% | ~436 |
 | Fat Cat | 0.60% | ~327 |
-| Catch | 0.50% | ~272 |
+| Catch | 0.50% | ~273 |
 | Slice 'n dice | 0.40% | ~218 |
-| Mounted Archery | 0.30% | ~163 |
-| Ride it like you stole it | 0.30% | ~163 |
+| Mounted Archery | 0.30% | ~164 |
+| Ride it like you stole it | 0.30% | ~164 |
 | Strike! | 0.20% | ~109 |
-| Best served cold | 0.10% | ~54 |
-| Butcher of Calradia | 0.10% | ~54 |
-| Explorer | 0.10% | ~54 |
-| Great Granny | 0.10% | ~54 |
-| Headhunter | 0.10% | ~54 |
-| Heartbreaker | 0.10% | ~54 |
-| Kingslayer | 0.10% | ~54 |
-| Lance-a-lot | 0.10% | ~54 |
-| Minor Clan | 0.10% | ~54 |
-| Roadkill | 0.10% | ~54 |
-| This is Sparta! | 0.10% | ~54 |
+| Best served cold | 0.10% | ~55 |
+| Butcher of Calradia | 0.10% | ~55 |
+| Explorer | 0.10% | ~55 |
+| Great Granny | 0.10% | ~55 |
+| Headhunter | 0.10% | ~55 |
+| Heartbreaker | 0.10% | ~55 |
+| Kingslayer | 0.10% | ~55 |
+| Lance-a-lot | 0.10% | ~55 |
+| Minor Clan | 0.10% | ~55 |
+| Roadkill | 0.10% | ~55 |
+| This is Sparta! | 0.10% | ~55 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,498 (Ranked 81)  
+Progressed: 54,504 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,16 +128,16 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 54,278 | 0 |
 | 2023-06-27 | 54,371 | 0 |
 | 2023-06-28 | 54,434 | 0 |
-| 2023-06-29 | 54,498 | 0 |
+| 2023-06-29 | 54,504 | 0 |
 ## Awards
 Max (Character Customization): 6,738  (Ranked 48)  
-Sum: 13,573 (Ranked 68)  
+Sum: 13,576 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,738 |
 | This game is Great for Beginners | 868 |
-| This game has Diverse Characters | 842 |
+| This game has Diverse Characters | 845 |
 | This game is Highly Recommended | 807 |
 | This game is Extremely Fun | 768 |
 | This game has Amazing Storytelling | 764 |
@@ -315,4 +315,4 @@ Diff (max vs sum): -20
 | 2023-06-26 | 4.74 | - | 6,720 | 13,533 |
 | 2023-06-27 | 4.74 | - | 6,725 | 13,546 |
 | 2023-06-28 | 4.74 | - | 6,730 | 13,563 |
-| 2023-06-29 | 4.74 | - | 6,738 | 13,573 |
+| 2023-06-29 | 4.74 | - | 6,738 | 13,576 |

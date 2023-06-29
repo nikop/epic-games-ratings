@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -784,9 +784,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-29T19:02:15.7192609+00:00",
+  "LastChanged_Achievements": "2023-06-29T20:02:19.3819386+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:17.1847858+00:00",
-  "LastUpdate_Ratings": "2023-06-29T18:59:01.7229799+00:00",
-  "LastUpdate_Achievements": "2023-06-29T19:02:15.7193058+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:58:57.0400223+00:00",
+  "LastUpdate_Achievements": "2023-06-29T20:02:19.3819586+00:00"
 }

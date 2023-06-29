@@ -63,9 +63,9 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |
 | Digital Age | 0.80% | ~1 |
+| Astrochemist | 0.70% | ~1 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
-| Astrochemist | 0.50% | ~0 |
 | Highlander | 0.50% | ~4 |
 | Space Age | 0.50% | ~4 |
 | BBQ | 0.40% | ~3 |

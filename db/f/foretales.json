@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -107,6 +107,11 @@
       "Time": "2023-06-27T02:28:33.7623043+00:00",
       "NumProgressed": 264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T20:03:38.625046+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -142,7 +147,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "chapter2",
@@ -238,7 +243,7 @@
       "Name": "A grave matter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "itsNotCheating",
@@ -252,9 +257,9 @@
       "ID": "meetYourMaker",
       "SetID": "5bkacmp",
       "Name": "Meet your maker",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "mesmerecital",
@@ -278,7 +283,7 @@
       "Name": "The pelican brief",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "oneShotBlade",
@@ -294,7 +299,7 @@
       "Name": "Peaceful protest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "pacifistFanatic",
@@ -310,15 +315,15 @@
       "Name": "Say hello to my little friends",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "stronk",
@@ -350,7 +355,7 @@
       "Name": "The Good Place",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "theGreatScam",
@@ -382,7 +387,7 @@
       "Name": "A gift horse",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "thePirate",
@@ -398,7 +403,7 @@
       "Name": "Elephant in the room",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "theRanger",
@@ -414,7 +419,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "trialByCombat",
@@ -422,7 +427,7 @@
       "Name": "Trial by combat",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "welcomeToForteAiles",
@@ -438,14 +443,14 @@
       "Name": "You sssaved me",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 0
     }
   ],
@@ -453,8 +458,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-06-29T19:03:35.5774939+00:00",
+  "LastChanged_Achievements": "2023-06-29T20:03:38.6250454+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.0954286+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:01:13.2066695+00:00",
-  "LastUpdate_Achievements": "2023-06-29T19:03:35.5775495+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:01:07.511693+00:00",
+  "LastUpdate_Achievements": "2023-06-29T20:03:38.6250717+00:00"
 }

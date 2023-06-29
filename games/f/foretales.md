@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 62.00% | ~164 |
-| Gorilla warfare | 58.00% | ~153 |
-| Isenburg's fall | 49.00% | ~129 |
+| Gorilla warfare | 58.00% | ~154 |
+| Isenburg's fall | 49.00% | ~130 |
 | Pieces of eight! | 42.00% | ~111 |
 | Aboard the Sea Bird | 31.00% | ~82 |
-| Elephant in the room | 30.00% | ~79 |
+| Elephant in the room | 30.00% | ~80 |
 | Dark and stinky | 29.00% | ~77 |
-| Sneak in, sneak out | 27.00% | ~71 |
+| Sneak in, sneak out | 26.00% | ~69 |
 | Is this the end? | 25.00% | ~66 |
-| A gift horse | 24.00% | ~63 |
-| You sssaved me | 24.00% | ~63 |
-| Say hello to my little friends | 21.00% | ~55 |
+| A gift horse | 24.00% | ~64 |
+| You sssaved me | 24.00% | ~64 |
+| Say hello to my little friends | 21.00% | ~56 |
 | Gotcha | 18.00% | ~48 |
 | Heal thyself | 18.00% | ~48 |
 | It's not cheating | 17.00% | ~45 |
@@ -23,14 +23,14 @@
 | Stronk | 15.00% | ~40 |
 | Welcome to Forte Ailes | 13.00% | ~34 |
 | Super Moth Boy | 12.00% | ~32 |
+| Meet your maker | 9.00% | ~24 |
 | The Bad Place | 9.00% | ~24 |
-| Meet your maker | 8.00% | ~21 |
 | Pacifist fanatic | 8.00% | ~21 |
-| A grave matter | 7.00% | ~18 |
-| The pelican brief | 7.00% | ~18 |
-| Peaceful protest | 7.00% | ~18 |
-| The Good Place | 7.00% | ~18 |
-| Trial by combat | 7.00% | ~18 |
+| A grave matter | 7.00% | ~19 |
+| The pelican brief | 7.00% | ~19 |
+| Peaceful protest | 7.00% | ~19 |
+| The Good Place | 7.00% | ~19 |
+| Trial by combat | 7.00% | ~19 |
 | A bard day's night | 5.00% | ~13 |
 | Money talks | 5.00% | ~13 |
 | Squid Game | 4.00% | ~11 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 248)  
+Progressed: 265 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,6 +62,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-05 | 259 | 0 |
 | 2023-06-10 | 263 | 0 |
 | 2023-06-27 | 264 | 0 |
+| 2023-06-29 | 265 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

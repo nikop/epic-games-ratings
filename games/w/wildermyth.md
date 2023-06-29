@@ -6,28 +6,28 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 35.00% | ~446 |
-| Me and My Familiar | 33.00% | ~420 |
+| The Cost of Heroism | 35.00% | ~447 |
+| Me and My Familiar | 33.00% | ~421 |
 | This Too Shall Pass | 28.00% | ~357 |
-| Passing Shadow | 27.00% | ~344 |
-| Cutthroat Competitors | 27.00% | ~344 |
-| How Romantic! | 25.00% | ~318 |
+| Passing Shadow | 27.00% | ~345 |
+| Cutthroat Competitors | 27.00% | ~345 |
+| How Romantic! | 25.00% | ~319 |
 | Daybreak | 24.00% | ~306 |
-| Gotta Ca... Must Collect All of Them | 22.00% | ~280 |
+| Gotta Ca... Must Collect All of Them | 22.00% | ~281 |
 | Completing the Look | 13.00% | ~166 |
 | War Endured | 13.00% | ~166 |
 | A Mythic Menagerie | 12.00% | ~153 |
 | Who's Counting? | 12.00% | ~153 |
 | Core Failure | 12.00% | ~153 |
-| Pyrrhic Victory | 10.00% | ~127 |
+| Pyrrhic Victory | 10.00% | ~128 |
 | Thematic Divergence | 8.00% | ~102 |
 | Chain Reaction | 8.00% | ~102 |
 | Echoes Die | 8.00% | ~102 |
 | Everfading | 7.00% | ~89 |
 | A Story of Heroes | 7.00% | ~89 |
-| Let Me Get My Chisel | 6.00% | ~76 |
-| Plague Doctor | 6.00% | ~76 |
-| Another Tale to Tell | 6.00% | ~76 |
+| Let Me Get My Chisel | 6.00% | ~77 |
+| Plague Doctor | 6.00% | ~77 |
+| Another Tale to Tell | 6.00% | ~77 |
 | In Soil, In Smoke | 5.00% | ~64 |
 | Wingknight's Prowess | 5.00% | ~64 |
 | All My Birds, Safely Home | 5.00% | ~64 |
@@ -44,16 +44,16 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 3.00% | ~38 |
 | Astrology | 3.00% | ~38 |
 | Lochias's Hunger | 3.00% | ~38 |
-| The Power of Friendship | 2.00% | ~25 |
-| Empty the Caves | 2.00% | ~25 |
-| Drauvenslayers | 2.00% | ~25 |
-| Back into the Sea | 2.00% | ~25 |
-| Bonebreakers | 2.00% | ~25 |
-| War-Ender | 2.00% | ~25 |
-| Fight Like a Bird | 2.00% | ~25 |
-| Some Say I'm Too Flashy | 2.00% | ~25 |
-| Symbiosis | 2.00% | ~25 |
-| Tempest | 2.00% | ~25 |
+| The Power of Friendship | 2.00% | ~26 |
+| Empty the Caves | 2.00% | ~26 |
+| Drauvenslayers | 2.00% | ~26 |
+| Back into the Sea | 2.00% | ~26 |
+| Bonebreakers | 2.00% | ~26 |
+| War-Ender | 2.00% | ~26 |
+| Fight Like a Bird | 2.00% | ~26 |
+| Some Say I'm Too Flashy | 2.00% | ~26 |
+| Symbiosis | 2.00% | ~26 |
+| Tempest | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
 | Solid as the Hills | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.60% | ~8 |
 | Peacemaker | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,274 (Ranked 174)  
+Progressed: 1,276 (Ranked 174)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-06-24 | 1,269 | 4 |
 | 2023-06-25 | 1,270 | 4 |
 | 2023-06-26 | 1,273 | 4 |
-| 2023-06-29 | 1,274 | 4 |
+| 2023-06-29 | 1,276 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 463)  
 Sum: 27 (Ranked 473)  

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~981 |
-| Waff! | 94.00% | ~961 |
-| Into the Barn | 86.00% | ~879 |
-| A Prophecy | 85.00% | ~869 |
-| Sword, Shield, Fight! | 75.00% | ~766 |
+| Once Upon a Time | 96.00% | ~982 |
+| Waff! | 94.00% | ~962 |
+| Into the Barn | 86.00% | ~880 |
+| A Prophecy | 85.00% | ~870 |
+| Sword, Shield, Fight! | 75.00% | ~767 |
 | A Grand Visit | 71.00% | ~726 |
 | Fun Guy | 62.00% | ~634 |
-| Vibing | 61.00% | ~623 |
+| Vibing | 61.00% | ~624 |
 | Tragic Brave | 53.00% | ~542 |
-| Little Shop | 50.00% | ~511 |
-| Awakened Spirits | 50.00% | ~511 |
+| Little Shop | 50.00% | ~512 |
+| Awakened Spirits | 50.00% | ~512 |
 | Surprise! | 45.00% | ~460 |
 | An Actor! | 45.00% | ~460 |
 | Curtain Call | 44.00% | ~450 |
-| Glimmer of Hope | 42.00% | ~429 |
+| Glimmer of Hope | 42.00% | ~430 |
 | Piece of Cake | 41.00% | ~419 |
 | Gooey Delight! | 41.00% | ~419 |
 | Teacups for Toppy | 40.00% | ~409 |
@@ -26,37 +26,37 @@
 | Nightmare Fuel | 39.00% | ~399 |
 | Take Heart | 39.00% | ~399 |
 | The Guardian | 39.00% | ~399 |
-| Ancient Wisdom | 38.00% | ~388 |
-| All That Glistens | 38.00% | ~388 |
-| Stronger! | 38.00% | ~388 |
-| Frog Facts! | 37.00% | ~378 |
+| Ancient Wisdom | 38.00% | ~389 |
+| All That Glistens | 38.00% | ~389 |
+| Stronger! | 38.00% | ~389 |
+| Frog Facts! | 37.00% | ~379 |
 | Spellbound | 36.00% | ~368 |
-| Extinct Again! | 36.00% | ~368 |
 | All Skilled Up! | 36.00% | ~368 |
 | It's Pointy! | 36.00% | ~368 |
+| Extinct Again! | 35.00% | ~358 |
 | Bird of Prey | 35.00% | ~358 |
 | Stardust | 35.00% | ~358 |
 | Heartbreaker | 35.00% | ~358 |
 | Kidnapped! | 35.00% | ~358 |
-| Pull the Plug | 34.00% | ~347 |
-| All Heart | 34.00% | ~347 |
-| Trick Question! | 34.00% | ~347 |
-| Soul Slayer | 33.00% | ~337 |
-| The Downfall | 33.00% | ~337 |
-| Final Showdown | 33.00% | ~337 |
-| Spot of Tea? | 33.00% | ~337 |
-| Going Home | 33.00% | ~337 |
+| Pull the Plug | 34.00% | ~348 |
+| All Heart | 34.00% | ~348 |
+| Trick Question! | 34.00% | ~348 |
+| Soul Slayer | 33.00% | ~338 |
+| The Downfall | 33.00% | ~338 |
+| Final Showdown | 33.00% | ~338 |
+| Spot of Tea? | 33.00% | ~338 |
+| Going Home | 33.00% | ~338 |
 | Extraordinary! | 32.00% | ~327 |
 | Mirror, Mirror | 31.00% | ~317 |
 | Flower Power | 27.00% | ~276 |
-| Shopping Spree! | 24.00% | ~245 |
+| Shopping Spree! | 24.00% | ~246 |
 | Crowned | 23.00% | ~235 |
 | Max Level! | 15.00% | ~153 |
 | Dance Master | 9.00% | ~92 |
 | Bombs Away! | 9.00% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,022 (Ranked 185)  
-Completed: 74 (7.24%) (Ranked 27)  
+Progressed: 1,023 (Ranked 185)  
+Completed: 74 (7.23%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,6 +121,7 @@ Completed: 74 (7.24%) (Ranked 27)
 | 2023-06-26 | 1,020 | 74 |
 | 2023-06-27 | 1,021 | 74 |
 | 2023-06-28 | 1,022 | 74 |
+| 2023-06-29 | 1,023 | 74 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

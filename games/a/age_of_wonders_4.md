@@ -25,20 +25,20 @@ Rating: 4.59 (Ranked 411)
 | Full Ascension | 0.40% | ~20 |
 | Against the Odds | 0.40% | ~20 |
 | Intimidation Tactics | 0.40% | ~20 |
+| Duality | 0.40% | ~20 |
 | Valley of Wonders | 0.30% | ~15 |
 | Return of the Wizard King | 0.30% | ~15 |
+| Arch Mage | 0.30% | ~15 |
 | Eternal Lord | 0.30% | ~15 |
 | Digging for Treasure | 0.30% | ~15 |
 | Preparation Is Everything | 0.30% | ~15 |
-| Duality | 0.30% | ~15 |
+| In a Liege of Your Own | 0.30% | ~15 |
 | The Magic That Empowers Me! | 0.20% | ~10 |
-| Arch Mage | 0.20% | ~10 |
+| God Emperor | 0.20% | ~10 |
 | The Creator | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |
-| In a Liege of Your Own | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
-| God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |

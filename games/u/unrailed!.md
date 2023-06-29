@@ -6,22 +6,22 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~91,804 |
-| Incurious | 15.00% | ~91,804 |
-| Stroller | 13.00% | ~79,563 |
-| Climate Change | 13.00% | ~79,563 |
-| Advanced Hiker | 11.00% | ~67,323 |
-| Toy Train | 11.00% | ~67,323 |
-| Hiker | 10.00% | ~61,202 |
-| Mojave Courier | 5.00% | ~30,601 |
+| Advanced Stroller | 15.00% | ~91,806 |
+| Incurious | 15.00% | ~91,806 |
+| Stroller | 13.00% | ~79,566 |
+| Climate Change | 13.00% | ~79,566 |
+| Advanced Hiker | 11.00% | ~67,325 |
+| Toy Train | 11.00% | ~67,325 |
+| Hiker | 10.00% | ~61,204 |
+| Mojave Courier | 5.00% | ~30,602 |
 | Voyager | 3.00% | ~18,361 |
 | Advanced Voyager | 3.00% | ~18,361 |
 | Expert Stroller | 3.00% | ~18,361 |
 | Orient Express | 3.00% | ~18,361 |
 | Saved by Nausicaä | 3.00% | ~18,361 |
-| Expert Hiker | 2.00% | ~12,240 |
-| Marathon | 2.00% | ~12,240 |
-| Destructionist | 2.00% | ~12,240 |
+| Expert Hiker | 2.00% | ~12,241 |
+| Marathon | 2.00% | ~12,241 |
+| Destructionist | 2.00% | ~12,241 |
 | Lost | 1.00% | ~6,120 |
 | Rocketman | 0.60% | ~3,672 |
 | Shopaholic | 0.60% | ~3,672 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~612 |
 | 20 Miles under the Sea | 0.10% | ~612 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612,025 (Ranked 24)  
+Progressed: 612,043 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 7 (0.00%) (Ranked 230)
 | 2023-06-26 | 610,866 | 7 |
 | 2023-06-27 | 611,279 | 7 |
 | 2023-06-28 | 611,682 | 7 |
-| 2023-06-29 | 612,025 | 7 |
+| 2023-06-29 | 612,043 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 272)  
-Sum: 1,530 (Ranked 214)  
+Sum: 1,531 (Ranked 214)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 180 |
 | This game is Relaxing | 179 |
 | This game has Amazing Characters | 161 |
-| This game is Highly Recommended | 154 |
+| This game is Highly Recommended | 155 |
 | This game has Playful Visuals | 152 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 138 |
@@ -240,4 +240,4 @@ Diff (max vs sum): 58
 | 2023-06-24 | 4.64 | - | 190 | 1,526 |
 | 2023-06-25 | 4.64 | - | 190 | 1,527 |
 | 2023-06-27 | 4.64 | - | 190 | 1,529 |
-| 2023-06-29 | 4.64 | - | 190 | 1,530 |
+| 2023-06-29 | 4.64 | - | 190 | 1,531 |

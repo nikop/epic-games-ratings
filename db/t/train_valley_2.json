@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -550,9 +550,9 @@
       "ID": "AchievementAstrochemist_NAME",
       "SetID": "55bbbe2",
       "Name": "Astrochemist",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchievementAstronomer",
@@ -1140,8 +1140,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-06-29T19:05:17.252115+00:00",
+  "LastChanged_Achievements": "2023-06-29T20:05:24.4536304+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.4841625+00:00",
-  "LastUpdate_Ratings": "2023-06-29T18:57:56.8678693+00:00",
-  "LastUpdate_Achievements": "2023-06-29T19:05:17.2522526+00:00"
+  "LastUpdate_Ratings": "2023-06-29T19:57:55.5439547+00:00",
+  "LastUpdate_Achievements": "2023-06-29T20:05:24.4536919+00:00"
 }

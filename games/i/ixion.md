@@ -6,25 +6,25 @@ Rating: 4.57 (Ranked 438)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 20.00% | ~550 |
-| Infinite Growth... | 17.00% | ~467 |
-| Sputnik 2049 | 17.00% | ~467 |
+| Infinite Growth... | 17.00% | ~468 |
+| Sputnik 2049 | 17.00% | ~468 |
 | Without Breaking Some Eggs... | 16.00% | ~440 |
 | Space Society | 11.00% | ~302 |
 | A Thousand Strong | 11.00% | ~302 |
 | Ready for a New World | 11.00% | ~302 |
 | Permanent Redesigns | 10.00% | ~275 |
-| Fully Recycled | 9.00% | ~247 |
-| Ain't Nobody Got Time for That | 9.00% | ~247 |
+| Fully Recycled | 9.00% | ~248 |
+| Ain't Nobody Got Time for That | 9.00% | ~248 |
 | Guy de Borderlands | 8.00% | ~220 |
 | The Ship of Theseus | 8.00% | ~220 |
 | Hope Seeker | 8.00% | ~220 |
-| A Hunk of Junk | 7.00% | ~192 |
-| Exceeding Capacity | 7.00% | ~192 |
-| Breaking Protocol | 7.00% | ~192 |
-| Man's Best Friend | 5.00% | ~137 |
-| Power Outage | 5.00% | ~137 |
-| Convenient Transport | 5.00% | ~137 |
-| Please Make it Stop! | 5.00% | ~137 |
+| A Hunk of Junk | 7.00% | ~193 |
+| Exceeding Capacity | 7.00% | ~193 |
+| Breaking Protocol | 7.00% | ~193 |
+| Man's Best Friend | 5.00% | ~138 |
+| Power Outage | 5.00% | ~138 |
+| Convenient Transport | 5.00% | ~138 |
+| Please Make it Stop! | 5.00% | ~138 |
 | Sightseeing | 4.00% | ~110 |
 | Necessary Enhancement | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
@@ -40,21 +40,21 @@ Rating: 4.57 (Ranked 438)
 | Delivery! | 2.00% | ~55 |
 | Pedal to the Metal | 2.00% | ~55 |
 | Pulsar Disciple | 2.00% | ~55 |
-| Mutual Loyalty | 1.00% | ~27 |
-| Tiqqun Contender | 1.00% | ~27 |
-| Catastrophe Avoided | 1.00% | ~27 |
-| Praise the Hull! | 1.00% | ~27 |
-| Space Greenhouse | 1.00% | ~27 |
-| Help of the Forgotten Member | 1.00% | ~27 |
+| Mutual Loyalty | 1.00% | ~28 |
+| Tiqqun Contender | 1.00% | ~28 |
+| Catastrophe Avoided | 1.00% | ~28 |
+| Praise the Hull! | 1.00% | ~28 |
+| Space Greenhouse | 1.00% | ~28 |
+| Help of the Forgotten Member | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~25 |
 | Tiqqun Unchained | 0.90% | ~25 |
+| Scientifically Accurate | 0.90% | ~25 |
 | Gregor Spinoza | 0.80% | ~22 |
-| Scientifically Accurate | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |
 | Remember the Dead | 0.40% | ~11 |
 | Work Harder | 0.30% | ~8 |
 | Soylent Green | 0.30% | ~8 |
-| Crunch Culture | 0.20% | ~5 |
+| Crunch Culture | 0.20% | ~6 |
 | Suburban Perfection | 0.10% | ~3 |
 | A Junker's Dream | 0.10% | ~3 |
 | Scenic View | 0.10% | ~3 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 438)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,749 (Ranked 152)  
+Progressed: 2,750 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 2,738 | 0 |
 | 2023-06-27 | 2,742 | 0 |
 | 2023-06-28 | 2,744 | 0 |
-| 2023-06-29 | 2,749 | 0 |
+| 2023-06-29 | 2,750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

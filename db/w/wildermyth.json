@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-06-29T03:21:37.660745+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-29T20:03:41.7524798+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -947,7 +952,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -979,7 +984,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -995,7 +1000,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1003,7 +1008,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1011,7 +1016,7 @@
       "Name": "The Power of Friendship",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_fullTransformation",
@@ -1027,7 +1032,7 @@
       "Name": "Empty the Caves",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -1035,7 +1040,7 @@
       "Name": "Drauvenslayers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_kill1000Gorgons",
@@ -1043,7 +1048,7 @@
       "Name": "Back into the Sea",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_kill1000Monsters",
@@ -1059,7 +1064,7 @@
       "Name": "Bonebreakers",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -1083,7 +1088,7 @@
       "Name": "Plague Doctor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_loseBattle",
@@ -1099,7 +1104,7 @@
       "Name": "How Romantic!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_maimedHero",
@@ -1107,7 +1112,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "achievement_mythwalker",
@@ -1123,7 +1128,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1147,7 +1152,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "completedStory_cvawn",
@@ -1179,7 +1184,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "completedStory_monarchs",
@@ -1243,7 +1248,7 @@
       "Name": "War-Ender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -1267,7 +1272,7 @@
       "Name": "Fight Like a Bird",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -1291,7 +1296,7 @@
       "Name": "Some Say I\u0027m Too Flashy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "theme_green_kill3Enemies",
@@ -1315,7 +1320,7 @@
       "Name": "Symbiosis",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -1339,7 +1344,7 @@
       "Name": "Tempest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -1378,15 +1383,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1276,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-29T19:03:39.0704191+00:00",
+  "LastChanged_Achievements": "2023-06-29T20:03:41.7524792+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:01:20.2531836+00:00",
-  "LastUpdate_Achievements": "2023-06-29T19:03:39.0705096+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:01:13.8095481+00:00",
+  "LastUpdate_Achievements": "2023-06-29T20:03:41.7525213+00:00"
 }

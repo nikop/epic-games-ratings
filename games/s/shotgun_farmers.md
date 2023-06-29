@@ -30,10 +30,10 @@
 | Eggtraordinary | 11.00% | ~15 |
 | Oh My Gourd | 9.00% | ~8 |
 | Pyromaniac | 9.00% | ~8 |
+| Fresh Pancake | 8.00% | ~11 |
 | Perfect | 8.00% | ~7 |
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
-| Fresh Pancake | 7.00% | ~10 |
 | Quit Horsin' Around | 7.00% | ~10 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~4 |
