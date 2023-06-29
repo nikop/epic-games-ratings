@@ -19,14 +19,14 @@
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 417 | 203 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,504 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
+| 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 266 | 243 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,111 | 74 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 154,531 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,314 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 482 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 502 |
-| 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 266 | 243 |
-| 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,406 | 122 |
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,011 | 141 |
+| 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,406 | 122 |
+| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,011 | 141 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 502 |
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 489 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 295 |
@@ -193,7 +193,7 @@
 | 181 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 502 |
 | 181 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 502 |
 | 181 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 502 |
-| 181 | [shapez](games/s/shapez.md) | 4.71 | 196 | 270 |
+| 181 | [shapez](games/s/shapez.md) | 4.71 | 198 | 268 |
 | 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 314 |
 | 181 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 502 |
 | 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 502 |
@@ -349,7 +349,7 @@
 | 344 | [Dead Space](games/d/dead_space.md) | 4.62 | 67 | 372 |
 | 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 277 | 238 |
 | 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 436 |
-| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,355 | 123 |
+| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,357 | 123 |
 | 344 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 502 |
 | 344 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 546 | 185 |
 | 344 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 502 |
@@ -651,7 +651,7 @@
 | 634 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 385 |
 | 634 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 502 |
 | 651 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 502 |
-| 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 197 | 268 |
+| 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 197 | 269 |
 | 651 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 502 |
 | 651 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 502 |
 | 651 | [Predecessor](games/p/predecessor.md) | 4.43 | 124 | 306 |
@@ -858,7 +858,7 @@
 | 850 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 502 |
 | 857 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 469 |
 | 857 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 502 |
-| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,394 | 100 |
+| 857 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,401 | 100 |
 | 857 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 502 |
 | 861 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 502 |
 | 861 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 173 |
@@ -870,7 +870,7 @@
 | 866 | [Forspoken](games/f/forspoken.md) | 4.15 | 20 | 497 |
 | 866 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 502 |
 | 866 | [Pine](games/p/pine.md) | 4.15 | 0 | 502 |
-| 866 | [Relicta](games/r/relicta.md) | 4.15 | 197 | 268 |
+| 866 | [Relicta](games/r/relicta.md) | 4.15 | 197 | 269 |
 | 866 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 502 |
 | 866 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 502 |
 | 866 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 502 |
