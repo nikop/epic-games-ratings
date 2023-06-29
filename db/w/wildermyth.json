@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1273,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -915,6 +915,11 @@
       "Time": "2023-06-26T17:03:06.5011652+00:00",
       "NumProgressed": 1273,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-29T03:21:37.660745+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1014,7 +1019,7 @@
       "Name": "Completing the Look",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1086,7 +1091,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1166,7 +1171,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "completedStory_legacy",
@@ -1196,9 +1201,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 306
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1373,15 +1378,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-29T02:23:39.943353+00:00",
+  "LastChanged_Achievements": "2023-06-29T03:21:37.6607446+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:21:18.1503245+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:23:39.9434199+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:20:02.80132+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:21:37.660794+00:00"
 }

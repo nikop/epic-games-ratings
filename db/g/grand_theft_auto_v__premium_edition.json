@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5936,11 +5936,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1504693,
       "NumberOfAwardsMax": 191293
+    },
+    {
+      "Time": "2023-06-29T03:19:31.1128624+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1506200,
+      "NumberOfAwardsMax": 191844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1504693,
-  "NumberOfAwardsMax": 191293,
+  "NumberOfAwards": 1506200,
+  "NumberOfAwardsMax": 191844,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5953,13 +5959,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 160699
+      "Count": 161147
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 175935
+      "Count": 176443
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6001,7 +6007,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 191293
+      "Count": 191844
     }
   ],
   "EOS_Progressed": 0,
@@ -6015,8 +6021,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-28T07:00:35.1192029+00:00",
+  "LastChanged": "2023-06-29T03:19:31.1128622+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:22.0817845+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:20:51.7927131+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:25:29.8917297+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:19:31.1128632+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:24:09.007694+00:00"
 }

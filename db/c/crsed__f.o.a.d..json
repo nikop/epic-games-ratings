@@ -2,13 +2,13 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 733,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -1120,6 +1120,6 @@
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "LastChanged": "2023-06-19T09:59:58.6464026+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:42.9109098+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:20:18.2560791+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:25:57.9659304+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:18:48.8997809+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:24:43.394224+00:00"
 }

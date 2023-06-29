@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1151,9 +1151,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -1254,8 +1254,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-29T02:23:41.5141103+00:00",
+  "LastChanged_Achievements": "2023-06-29T03:21:39.7058881+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:06.2587836+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:18:56.8029529+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:23:41.5141837+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:17:11.0003954+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:21:39.7059695+00:00"
 }

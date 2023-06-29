@@ -2,13 +2,13 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 733,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -965,6 +965,11 @@
       "Time": "2023-06-28T03:27:32.026773+00:00",
       "NumProgressed": 415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-29T03:25:46.4503051+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -976,7 +981,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "cool-shirts",
@@ -1038,9 +1043,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 295
     },
     {
       "ID": "play-at-night",
@@ -1048,7 +1053,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "product-profit",
@@ -1078,9 +1083,9 @@
       "ID": "rob-village",
       "SetID": "bed33dd",
       "Name": "Bite the Blow",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "sell-variety",
@@ -1112,7 +1117,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "use-submarine",
@@ -1127,15 +1132,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-06-29T02:26:51.0304405+00:00",
+  "LastChanged_Achievements": "2023-06-29T03:25:46.4503048+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:19.8700177+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:20:48.183319+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:26:51.0304569+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:19:26.7681739+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:25:46.4503226+00:00"
 }

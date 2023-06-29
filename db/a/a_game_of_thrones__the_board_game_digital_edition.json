@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 306,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 159,
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17080,
+  "EOS_Progressed": 17082,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -8467,6 +8467,11 @@
       "Time": "2023-06-29T02:26:43.9398637+00:00",
       "NumProgressed": 17080,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-29T03:25:38.2818797+00:00",
+      "NumProgressed": 17082,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8550,7 +8555,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "1025",
@@ -8566,7 +8571,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "1027",
@@ -8582,7 +8587,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "1029",
@@ -8614,7 +8619,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6832
+      "UsersEstimate": 6833
     },
     {
       "ID": "1033",
@@ -8646,22 +8651,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17080,
+      "Progressed": 17082,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-06-29T02:26:43.9398632+00:00",
+  "LastChanged_Achievements": "2023-06-29T03:25:38.2818794+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:28.0071998+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:20:55.6845286+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:26:43.9399286+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:19:35.3671852+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:25:38.2819356+00:00"
 }

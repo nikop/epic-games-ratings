@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 0.90% | ~44 |
-| Tipping the Scales | 0.80% | ~39 |
+| Tipping the Scales | 0.90% | ~44 |
 | Magical Synergy | 0.60% | ~29 |
 | My Final Form | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
@@ -17,13 +17,13 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 0.50% | ~24 |
 | Here be Dragons | 0.50% | ~24 |
 | Bone Peddler | 0.40% | ~19 |
+| Seat of Power | 0.40% | ~19 |
 | Impenetrable Fortress | 0.40% | ~19 |
 | Blood of the Dragon | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |
 | Preparation Is Everything | 0.30% | ~15 |
-| Seat of Power | 0.30% | ~15 |
 | Fiery Friend | 0.30% | ~15 |
 | Against the Odds | 0.30% | ~15 |
 | Intimidation Tactics | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I Want to Break Free | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,867 (Ranked 133)  
+Progressed: 4,868 (Ranked 133)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-26 | 4,849 | 3 |
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
+| 2023-06-29 | 4,868 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

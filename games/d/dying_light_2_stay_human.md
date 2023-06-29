@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,259 |
-| Into the Unknown | 10.00% | ~58,417 |
-| First Shot | 10.00% | ~58,417 |
+| You Never Forget Your First... | 11.00% | ~64,260 |
+| Into the Unknown | 10.00% | ~58,418 |
+| First Shot | 10.00% | ~58,418 |
 | Herzlich Wilkommen! | 9.00% | ~52,576 |
 | Good Night & Good Luck | 9.00% | ~52,576 |
 | Sancho Panza | 8.00% | ~46,734 |
-| Under Pressure | 7.00% | ~40,892 |
-| On the Trail of the Enemy | 7.00% | ~40,892 |
-| Flag Burning | 7.00% | ~40,892 |
-| Oh, So This Is How It Works! | 7.00% | ~40,892 |
-| Night Hunter | 7.00% | ~40,892 |
-| Light in the Darkness | 6.00% | ~35,050 |
-| Get Outta My House! | 6.00% | ~35,050 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,050 |
-| Being All Social | 6.00% | ~35,050 |
+| Under Pressure | 7.00% | ~40,893 |
+| On the Trail of the Enemy | 7.00% | ~40,893 |
+| Flag Burning | 7.00% | ~40,893 |
+| Oh, So This Is How It Works! | 7.00% | ~40,893 |
+| Night Hunter | 7.00% | ~40,893 |
+| Light in the Darkness | 6.00% | ~35,051 |
+| Get Outta My House! | 6.00% | ~35,051 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,051 |
+| Being All Social | 6.00% | ~35,051 |
 | Debris and Ashes | 5.00% | ~29,209 |
 | We Will Be Heard! | 5.00% | ~29,209 |
 | Known Associate | 5.00% | ~29,209 |
@@ -35,11 +35,11 @@ Number of Ratings: 7,305  (23.09.2022)
 | Terminal Headache | 4.00% | ~23,367 |
 | Slowpoke! | 4.00% | ~23,367 |
 | You're Going Down! | 3.00% | ~17,525 |
-| Municipal Services | 2.00% | ~11,683 |
-| Tickets, Please! | 2.00% | ~11,683 |
-| Ban Hammer | 2.00% | ~11,683 |
-| Parkour Master | 2.00% | ~11,683 |
-| Combat Master | 2.00% | ~11,683 |
+| Municipal Services | 2.00% | ~11,684 |
+| Tickets, Please! | 2.00% | ~11,684 |
+| Ban Hammer | 2.00% | ~11,684 |
+| Parkour Master | 2.00% | ~11,684 |
+| Combat Master | 2.00% | ~11,684 |
 | Tube Map | 1.00% | ~5,842 |
 | Don Quixote | 1.00% | ~5,842 |
 | Can't You Read the Signs? | 1.00% | ~5,842 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~230 |
 | Connoisseur | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,173 (Ranked 26)  
+Progressed: 584,181 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 58 (0.01%) (Ranked 218)
 | 2023-06-26 | 583,355 | 58 |
 | 2023-06-27 | 583,754 | 58 |
 | 2023-06-28 | 584,145 | 58 |
-| 2023-06-29 | 584,173 | 58 |
+| 2023-06-29 | 584,181 | 58 |
 ## Awards
 Max (Character Customization): 8,082  (Ranked 40)  
 Sum: 18,828 (Ranked 55)  

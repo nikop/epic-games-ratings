@@ -4,8 +4,8 @@
   "ProductSlug": "the-fabled-woods",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-25T16:00:00+00:00",
     "PcReleaseDate": "2021-03-25T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.9344091+00:00",
   "LastChanged": "2023-03-31T05:58:32.9344092+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:23.7078678+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:19:11.0791733+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:25:28.6931836+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:17:28.404452+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:24:07.7116456+00:00"
 }

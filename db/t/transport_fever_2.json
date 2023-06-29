@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2235,9 +2235,9 @@
       "ID": "achAccumulate1M",
       "SetID": "dgl390n",
       "Name": "Transport millionaire",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 756
     },
     {
       "ID": "achAircraftEarnings",
@@ -2395,9 +2395,9 @@
       "ID": "achFirstAircraftArrived",
       "SetID": "dgl390n",
       "Name": "First aircraft arrived",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 554
     },
     {
       "ID": "achFirstBusArrived",
@@ -2691,8 +2691,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-06-29T02:27:05.9265149+00:00",
+  "LastChanged_Achievements": "2023-06-29T03:26:01.3401067+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:48.2488994+00:00",
-  "LastUpdate_Ratings": "2023-06-29T02:20:23.4277592+00:00",
-  "LastUpdate_Achievements": "2023-06-29T02:27:05.9265715+00:00"
+  "LastUpdate_Ratings": "2023-06-29T03:18:55.4567259+00:00",
+  "LastUpdate_Achievements": "2023-06-29T03:26:01.3401769+00:00"
 }
