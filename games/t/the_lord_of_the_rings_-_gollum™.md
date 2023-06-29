@@ -24,7 +24,7 @@
 | The Friend | 7.00% | ~32 |
 | Master of the Old Game | 5.00% | ~23 |
 | So Silly! | 5.00% | ~23 |
-| Made a Song | 4.00% | ~18 |
+| Made a Song | 5.00% | ~23 |
 | So Tasty! | 4.00% | ~18 |
 | Break a Leg! | 3.00% | ~14 |
 | And now we wish... | 2.00% | ~9 |

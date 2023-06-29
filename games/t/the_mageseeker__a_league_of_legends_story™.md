@@ -32,7 +32,7 @@ Rating: 4.80 (Ranked 80)
 | Iffighain Headquarters | 20.00% | ~481 |
 | Glyndemere | 19.00% | ~457 |
 | Full equipped | 19.00% | ~457 |
-| Whispers in the Woods II | 16.00% | ~385 |
+| Whispers in the Woods II | 17.00% | ~409 |
 | Quickmoore Headquarters | 16.00% | ~385 |
 | Whispers in the Woods III | 15.00% | ~361 |
 | No more holding back | 15.00% | ~361 |
@@ -59,7 +59,7 @@ Rating: 4.80 (Ranked 80)
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,405 (Ranked 154)  
+Progressed: 2,405 (Ranked 155)  
 Completed: 2 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |

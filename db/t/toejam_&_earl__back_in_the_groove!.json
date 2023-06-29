@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55473,
+  "EOS_Progressed": 55475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4647,6 +4647,11 @@
       "Time": "2023-06-29T14:04:06.6010925+00:00",
       "NumProgressed": 55473,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-29T17:03:28.0864159+00:00",
+      "NumProgressed": 55475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -4666,7 +4671,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "BoomBox",
@@ -4818,7 +4823,7 @@
       "Name": "Hi Fiver",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "IsThisPossible",
@@ -4914,7 +4919,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "RhythmStar",
@@ -4954,7 +4959,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "StruckLove",
@@ -5002,7 +5007,7 @@
       "Name": "A Timely Splash",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "TotalBummer",
@@ -5049,7 +5054,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55473,
+      "Progressed": 55475,
       "Completed": 4
     }
   ],
@@ -5057,8 +5062,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-06-29T16:03:50.3269661+00:00",
+  "LastChanged_Achievements": "2023-06-29T17:03:28.0864154+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:50.6025347+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:01:27.8515685+00:00",
-  "LastUpdate_Achievements": "2023-06-29T16:03:50.3270369+00:00"
+  "LastUpdate_Ratings": "2023-06-29T17:00:18.6958699+00:00",
+  "LastUpdate_Achievements": "2023-06-29T17:03:28.0864719+00:00"
 }

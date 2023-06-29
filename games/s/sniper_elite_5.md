@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 618)
 | Liberté | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
 | Enemy at the Gates | 0.10% | ~3 |
+| Just a Flesh Wound | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
@@ -16,6 +17,7 @@ Rating: 4.45 (Ranked 618)
 | Confirming Suspicions | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
+| Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | The Kraken Wakes | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
@@ -29,6 +31,8 @@ Rating: 4.45 (Ranked 618)
 | Target America | 0.10% | ~3 |
 | The Kraken Sleeps | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
+| Siegebreaker | 0.10% | ~3 |
+| Ghost of Falaise | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
 | Sink or Swim | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
@@ -36,7 +40,6 @@ Rating: 4.45 (Ranked 618)
 | Best of the Best | 0.00% | ~0 |
 | No Stone Unturned | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
-| Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
@@ -50,7 +53,6 @@ Rating: 4.45 (Ranked 618)
 | Lord of War | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Resourceful | 0.00% | ~0 |
-| Der Geist | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
 | It's Starting to Crack | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
@@ -70,14 +72,12 @@ Rating: 4.45 (Ranked 618)
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Siegebreaker | 0.00% | ~0 |
-| Ghost of Falaise | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
 | If You Go Down To The Woods Today | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,163 (Ranked 144)  
+Progressed: 3,163 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |

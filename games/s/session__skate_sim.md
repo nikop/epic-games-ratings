@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 5.00% | ~124 |
 | Fulfilled the dream | 5.00% | ~124 |
 | G'Day Mate! | 5.00% | ~124 |
+| Globetrotter | 5.00% | ~124 |
 | NAHELL! | 5.00% | ~124 |
 | Purple passion | 5.00% | ~124 |
 | Squad goals | 5.00% | ~124 |
@@ -32,7 +33,6 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~99 |
 | Cops called! | 4.00% | ~99 |
 | DIY Boss | 4.00% | ~99 |
-| Globetrotter | 4.00% | ~99 |
 | Laid back | 4.00% | ~99 |
 | Lines for days | 4.00% | ~99 |
 | Manny Destroys All | 4.00% | ~99 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,487 (Ranked 153)  
+Progressed: 2,487 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "8d473e8643ba4e50a5b3a01f31b80c8c",
   "Name": "Don\u0027t Byte Your Tongue",
   "ProductSlug": "dont-byte-your-tongue-da237b",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-07T07:00:00+00:00",
     "PcReleaseDate": "2023-04-07T07:00:00+00:00",
@@ -317,8 +317,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
-  "LastChanged_Achievements": "2023-06-29T16:07:17.7871395+00:00",
+  "LastChanged_Achievements": "2023-06-29T17:06:03.1506827+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:25.8996474+00:00",
-  "LastUpdate_Ratings": "2023-06-29T16:00:08.2894053+00:00",
-  "LastUpdate_Achievements": "2023-06-29T16:07:17.7871635+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:59:22.6430419+00:00",
+  "LastUpdate_Achievements": "2023-06-29T17:06:03.150698+00:00"
 }

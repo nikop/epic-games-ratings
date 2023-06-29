@@ -51,8 +51,8 @@ Rating: 4.35 (Ranked 734)
 | Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
+| Silent but Violent | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
-| Silent but Violent | 0.30% | ~4 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

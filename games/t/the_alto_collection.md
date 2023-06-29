@@ -6,19 +6,19 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,481 |
-| Rookie | 25.00% | ~7,194 |
-| Nomad | 18.00% | ~5,179 |
-| Picking Up Speed | 17.00% | ~4,892 |
-| Welcome Maya | 16.00% | ~4,604 |
-| Sightseer | 11.00% | ~3,165 |
-| Scout | 10.00% | ~2,877 |
+| Finding Your Footing | 26.00% | ~7,483 |
+| Rookie | 25.00% | ~7,195 |
+| Nomad | 18.00% | ~5,181 |
+| Picking Up Speed | 17.00% | ~4,893 |
+| Welcome Maya | 16.00% | ~4,605 |
+| Sightseer | 11.00% | ~3,166 |
+| Scout | 10.00% | ~2,878 |
 | Amateur | 9.00% | ~2,590 |
 | Wanderer | 9.00% | ~2,590 |
 | Enter Paz | 8.00% | ~2,302 |
-| Unlock Maya | 7.00% | ~2,014 |
-| Aviator | 6.00% | ~1,726 |
-| One With The Board | 6.00% | ~1,726 |
+| Unlock Maya | 7.00% | ~2,015 |
+| Aviator | 6.00% | ~1,727 |
+| One With The Board | 6.00% | ~1,727 |
 | My Little Friend | 5.00% | ~1,439 |
 | Voyager | 5.00% | ~1,439 |
 | Sandboarder | 4.00% | ~1,151 |
@@ -27,9 +27,9 @@ Number of Ratings: 332  (23.09.2022)
 | Traveler | 3.00% | ~863 |
 | Journeyer | 3.00% | ~863 |
 | Unlock Paz | 3.00% | ~863 |
-| Pro | 2.00% | ~575 |
-| Human Flight | 2.00% | ~575 |
-| Here Comes Felipe | 2.00% | ~575 |
+| Pro | 2.00% | ~576 |
+| Human Flight | 2.00% | ~576 |
+| Here Comes Felipe | 2.00% | ~576 |
 | Explorer | 1.00% | ~288 |
 | Hoist the Mainsail | 1.00% | ~288 |
 | Unlock Izel | 1.00% | ~288 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~29 |
 | Windswept | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,774 (Ranked 92)  
+Progressed: 28,781 (Ranked 92)  
 Completed: 5 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 5 (0.02%) (Ranked 210)
 | 2023-06-26 | 28,358 | 5 |
 | 2023-06-27 | 28,530 | 5 |
 | 2023-06-28 | 28,676 | 5 |
-| 2023-06-29 | 28,774 | 5 |
+| 2023-06-29 | 28,781 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 350 (Ranked 321)  

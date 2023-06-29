@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2978,9 +2978,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10100,
+  "EOS_Progressed": 10101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7478,6 +7478,11 @@
       "Time": "2023-06-29T15:06:41.1882414+00:00",
       "NumProgressed": 10100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T17:06:15.940831+00:00",
+      "NumProgressed": 10101,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7665,7 +7670,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "24_Legacy",
@@ -8416,21 +8421,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8882,
+      "Progressed": 8883,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10100,
+      "Progressed": 10101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-29T03:17:14.3724092+00:00",
-  "LastChanged_Achievements": "2023-06-29T16:07:33.1001846+00:00",
+  "LastChanged_Achievements": "2023-06-29T17:06:15.9408304+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:08.2601026+00:00",
-  "LastUpdate_Ratings": "2023-06-29T15:58:50.0141407+00:00",
-  "LastUpdate_Achievements": "2023-06-29T16:07:33.1003896+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:58:27.2769631+00:00",
+  "LastUpdate_Achievements": "2023-06-29T17:06:15.9409836+00:00"
 }

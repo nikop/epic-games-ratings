@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 844,
-  "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 325,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -726,11 +726,17 @@
       "Rating": 4.19,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-06-29T16:58:02.2949139+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 343,
+  "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -761,7 +767,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Challenging Combat",
@@ -778,7 +784,7 @@
   ],
   "EOS_Progressed": 15586,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -5330,9 +5336,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-29T06:58:32.2575789+00:00",
-  "LastChanged_Achievements": "2023-06-29T16:05:49.8741562+00:00",
+  "LastChanged": "2023-06-29T16:58:02.2949137+00:00",
+  "LastChanged_Achievements": "2023-06-29T17:04:57.5224719+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:34.7766534+00:00",
-  "LastUpdate_Ratings": "2023-06-29T15:58:16.3250136+00:00",
-  "LastUpdate_Achievements": "2023-06-29T16:05:49.8742252+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:58:02.2949143+00:00",
+  "LastUpdate_Achievements": "2023-06-29T17:04:57.5225234+00:00"
 }
