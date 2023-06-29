@@ -13,7 +13,7 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.95% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.19% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.66% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -63,7 +63,7 @@
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.60% |
+| 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.63% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
@@ -76,8 +76,8 @@
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
-| 77 | [Iron Danger](games/i/iron_danger.md) | 1.84% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 78 | [Iron Danger](games/i/iron_danger.md) | 1.83% |
 | 79 | [Sifu](games/s/sifu.md) | 1.80% |
 | 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
@@ -476,4 +476,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,850 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,851 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

@@ -7,21 +7,21 @@
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,500 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,153 | 89 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 502 |
-| 7 | [Flatout 2](games/f/flatout_2.md) | 4.91 | 0 | 502 |
-| 9 | [Mago](games/m/mago.md) | 4.90 | 0 | 502 |
-| 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 502 |
-| 9 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,834 | 110 |
-| 9 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 502 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,583 | 43 |
-| 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 502 |
-| 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 502 |
-| 13 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 502 |
-| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 417 | 203 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,504 | 20 |
+| 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 502 |
+| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 502 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,834 | 110 |
+| 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 502 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,583 | 43 |
+| 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 502 |
+| 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 502 |
+| 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 502 |
+| 12 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 502 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 417 | 203 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,504 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 266 | 243 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,111 | 74 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 154,531 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 154,895 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,314 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 482 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 502 |
@@ -82,23 +82,23 @@
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,327 | 51 |
 | 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,418 | 98 |
 | 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
+| 80 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 20 | 497 |
 | 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 502 |
 | 80 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 502 |
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 321 | 227 |
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 502 |
-| 87 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,463 | 120 |
-| 87 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 408 | 206 |
-| 87 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
-| 87 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 502 |
-| 87 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 502 |
-| 87 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 676 | 164 |
-| 87 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,251 | 129 |
-| 87 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,900 | 56 |
-| 87 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 43 | 412 |
-| 87 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 375 | 212 |
-| 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
-| 87 | [Star Atlas](games/s/star_atlas.md) | 4.79 | 20 | 497 |
-| 87 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 502 |
+| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,463 | 120 |
+| 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 408 | 206 |
+| 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
+| 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 502 |
+| 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 502 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 676 | 164 |
+| 88 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,251 | 129 |
+| 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,900 | 56 |
+| 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 43 | 412 |
+| 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 375 | 212 |
+| 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
+| 88 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 502 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 502 |
 | 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,365 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 502 |
@@ -159,7 +159,7 @@
 | 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 206 |
 | 157 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 469 |
 | 157 | [Haven](games/h/haven.md) | 4.73 | 0 | 502 |
-| 157 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 581 | 177 |
+| 157 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 582 | 177 |
 | 157 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 229 | 252 |
 | 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 502 |
 | 157 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 502 |
@@ -880,9 +880,9 @@
 | 877 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 502 |
 | 877 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 502 |
 | 880 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 82 | 352 |
+| 880 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.12 | 111 | 318 |
 | 880 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 72 | 367 |
-| 882 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 502 |
-| 882 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.11 | 111 | 318 |
+| 883 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 502 |
 | 884 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 502 |
 | 884 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 391 |
 | 884 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,412 | 99 |
