@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "axe_of_kindness",
@@ -272,9 +272,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "easy_listening",
@@ -465,8 +465,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-06-29T20:05:57.150028+00:00",
+  "LastChanged_Achievements": "2023-06-29T21:06:35.8794421+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:08.8958836+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:59:43.8756473+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:05:57.1500455+00:00"
+  "LastUpdate_Ratings": "2023-06-29T21:00:37.8590162+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:06:35.8794655+00:00"
 }

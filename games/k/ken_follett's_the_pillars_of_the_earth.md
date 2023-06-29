@@ -12,7 +12,7 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 34.00% | ~4,626 |
 | Let there be darkness | 33.00% | ~4,490 |
 | End of Book One | 31.00% | ~4,218 |
-| Garden of Eden | 25.00% | ~3,401 |
+| Garden of Eden | 25.00% | ~3,402 |
 | Wannabe knight | 24.00% | ~3,265 |
 | Full house | 24.00% | ~3,265 |
 | Help an old friend | 22.00% | ~2,993 |
@@ -28,13 +28,13 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,497 |
 | Friar Tuck | 11.00% | ~1,497 |
 | First profit | 11.00% | ~1,497 |
-| Team player | 10.00% | ~1,360 |
-| Skilled merchant | 9.00% | ~1,224 |
-| Nothing but make-believe | 9.00% | ~1,224 |
-| Brother Marcus | 9.00% | ~1,224 |
-| The oath | 9.00% | ~1,224 |
-| The truth revealed | 9.00% | ~1,224 |
-| The End. | 9.00% | ~1,224 |
+| Team player | 10.00% | ~1,361 |
+| Skilled merchant | 9.00% | ~1,225 |
+| Nothing but make-believe | 9.00% | ~1,225 |
+| Brother Marcus | 9.00% | ~1,225 |
+| The oath | 9.00% | ~1,225 |
+| The truth revealed | 9.00% | ~1,225 |
+| The End. | 9.00% | ~1,225 |
 | A cry for help | 8.00% | ~1,088 |
 | Silentium est aureum | 7.00% | ~952 |
 | Rebel without a cause | 6.00% | ~816 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~408 |
 | Boy of mystery | 2.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,605 (Ranked 109)  
+Progressed: 13,606 (Ranked 110)  
 Completed: 103 (0.76%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 103 (0.76%) (Ranked 108)
 | 2023-06-26 | 13,540 | 103 |
 | 2023-06-27 | 13,565 | 103 |
 | 2023-06-28 | 13,591 | 103 |
-| 2023-06-29 | 13,605 | 103 |
+| 2023-06-29 | 13,606 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

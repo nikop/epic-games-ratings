@@ -2,13 +2,13 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-04-29T18:06:30+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 431,
   "RatingHistory": [
     {
@@ -1377,6 +1377,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 1356,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2023-06-29T21:01:34.0185498+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1356,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
@@ -1462,8 +1468,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-06-28T20:59:58.0507883+00:00",
+  "LastChanged": "2023-06-29T21:01:34.0185497+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:15.8069276+00:00",
-  "LastUpdate_Ratings": "2023-06-29T20:00:39.6571587+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:03:55.3531402+00:00"
+  "LastUpdate_Ratings": "2023-06-29T21:01:34.0185503+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:04:40.7593858+00:00"
 }

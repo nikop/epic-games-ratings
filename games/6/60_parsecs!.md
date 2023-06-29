@@ -13,8 +13,8 @@
 | Dust to Dust | 57.00% | ~374 |
 | Across The Stars | 47.00% | ~309 |
 | Crafty | 46.00% | ~302 |
-| All Seats Taken | 36.00% | ~237 |
-| For Science! | 32.00% | ~210 |
+| All Seats Taken | 37.00% | ~243 |
+| For Science! | 33.00% | ~217 |
 | Meet the Petersons | 31.00% | ~204 |
 | Stay Cool | 28.00% | ~184 |
 | KIA | 26.00% | ~171 |

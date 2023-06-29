@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,684 |
-| That's a Grand Army | 8.00% | ~5,052 |
-| That is mine! | 8.00% | ~5,052 |
-| Victorious! | 8.00% | ~5,052 |
-| Brothers in Arms | 6.00% | ~3,789 |
-| That's a Grand Navy | 6.00% | ~3,789 |
-| Seriously?! | 6.00% | ~3,789 |
+| Until death do us apart | 9.00% | ~5,685 |
+| That's a Grand Army | 8.00% | ~5,053 |
+| That is mine! | 8.00% | ~5,053 |
+| Victorious! | 8.00% | ~5,053 |
+| Brothers in Arms | 6.00% | ~3,790 |
+| That's a Grand Navy | 6.00% | ~3,790 |
+| Seriously?! | 6.00% | ~3,790 |
 | For the Glory | 5.00% | ~3,158 |
-| Cold War | 4.00% | ~2,526 |
-| True Catholic | 4.00% | ~2,526 |
-| Defender of the Faith | 3.00% | ~1,894 |
-| It's all about the money | 3.00% | ~1,894 |
-| Respected | 3.00% | ~1,894 |
-| Truly Divine Ruler | 3.00% | ~1,894 |
+| Cold War | 4.00% | ~2,527 |
+| True Catholic | 4.00% | ~2,527 |
+| Defender of the Faith | 3.00% | ~1,895 |
+| It's all about the money | 3.00% | ~1,895 |
+| Respected | 3.00% | ~1,895 |
+| Truly Divine Ruler | 3.00% | ~1,895 |
 | Agressive Expander | 2.00% | ~1,263 |
 | Blockader | 2.00% | ~1,263 |
 | Combined Arms | 2.00% | ~1,263 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,150 (Ranked 77)  
+Progressed: 63,165 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,10 +431,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
-| 2023-06-29 | 63,150 | 0 |
+| 2023-06-29 | 63,165 | 0 |
 ## Awards
 Max (Educational): 5,476  (Ranked 61)  
-Sum: 45,206 (Ranked 27)  
+Sum: 45,212 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -444,9 +444,9 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 5,196 |
 | This game has Diverse Characters | 5,152 |
 | This game is Relaxing | 5,073 |
-| This game has Competitive Players | 4,908 |
+| This game has Competitive Players | 4,912 |
 | This game has Amazing Storytelling | 4,648 |
-| This game has Amazing Characters | 4,296 |
+| This game has Amazing Characters | 4,298 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -614,4 +614,4 @@ Diff (max vs sum): 34
 | 2023-06-26 | 4.69 | - | 5,452 | 45,064 |
 | 2023-06-27 | 4.69 | - | 5,461 | 45,122 |
 | 2023-06-28 | 4.69 | - | 5,469 | 45,178 |
-| 2023-06-29 | 4.69 | - | 5,476 | 45,206 |
+| 2023-06-29 | 4.69 | - | 5,476 | 45,212 |

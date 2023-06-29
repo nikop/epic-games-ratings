@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 161,
+  "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 210,
@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122419,
+  "EOS_Progressed": 122421,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7926,6 +7926,11 @@
       "Time": "2023-06-29T20:07:08.9069924+00:00",
       "NumProgressed": 122419,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-29T21:07:46.6964089+00:00",
+      "NumProgressed": 122421,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -7969,7 +7974,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22035
+      "UsersEstimate": 22036
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8017,7 +8022,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34277
+      "UsersEstimate": 34278
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8065,7 +8070,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15914
+      "UsersEstimate": 15915
     },
     {
       "ID": "ACH_COP_STAR",
@@ -8217,7 +8222,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15914
+      "UsersEstimate": 15915
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -8256,15 +8261,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122419,
+      "Progressed": 122421,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-29T20:07:08.9069921+00:00",
+  "LastChanged_Achievements": "2023-06-29T21:07:46.6964081+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:59:39.4967918+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:07:08.9070457+00:00"
+  "LastUpdate_Ratings": "2023-06-29T21:00:33.5726425+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:07:46.6964736+00:00"
 }

@@ -1,15 +1,15 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 298)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,417 |
-| Settler | 81.00% | ~10,045 |
-| Explorer | 79.00% | ~9,797 |
-| Friendly Family | 75.00% | ~9,301 |
+| Play a Single Player Game | 84.00% | ~10,418 |
+| Settler | 81.00% | ~10,046 |
+| Explorer | 79.00% | ~9,798 |
+| Friendly Family | 75.00% | ~9,302 |
 | Intrepid | 69.00% | ~8,557 |
 | Architect | 61.00% | ~7,565 |
 | Mason | 61.00% | ~7,565 |
@@ -24,47 +24,47 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 54.00% | ~6,697 |
 | Glorious | 52.00% | ~6,449 |
 | Trade Caravan | 52.00% | ~6,449 |
-| Naming Landmarks | 50.00% | ~6,200 |
-| Learned | 49.00% | ~6,076 |
-| Fountainhead | 48.00% | ~5,952 |
-| Pioneer | 48.00% | ~5,952 |
-| Zoroastrianism | 48.00% | ~5,952 |
-| Developing Cities | 47.00% | ~5,828 |
-| Magnificent | 45.00% | ~5,580 |
-| Strong Cities | 45.00% | ~5,580 |
-| Pyramids | 45.00% | ~5,580 |
-| Warrior | 44.00% | ~5,456 |
-| Ishtar Gate | 44.00% | ~5,456 |
-| Greek Paganism | 44.00% | ~5,456 |
-| Babylonian Paganism | 43.00% | ~5,332 |
-| Enlightened | 42.00% | ~5,208 |
-| Roman Paganism | 41.00% | ~5,084 |
-| Great Ziggurat | 40.00% | ~4,960 |
-| Lighthouse | 40.00% | ~4,960 |
-| Christianity | 40.00% | ~4,960 |
-| Great | 39.00% | ~4,836 |
-| Able Difficulty | 39.00% | ~4,836 |
-| Ambitious | 38.00% | ~4,712 |
-| Carthaginian Paganism | 37.00% | ~4,588 |
-| Necropolis | 36.00% | ~4,464 |
-| Egyptian Paganism | 36.00% | ~4,464 |
-| Apadana | 35.00% | ~4,340 |
-| Musaeum | 35.00% | ~4,340 |
-| Manichaeism | 35.00% | ~4,340 |
-| Brilliant | 34.00% | ~4,216 |
-| Drillmaster | 32.00% | ~3,968 |
-| Colossus | 32.00% | ~3,968 |
-| Legendary Cities | 31.00% | ~3,844 |
-| Furious Family | 31.00% | ~3,844 |
-| Learn to Play 1 | 31.00% | ~3,844 |
-| Artisans | 30.00% | ~3,720 |
-| Acropolis | 30.00% | ~3,720 |
-| Mythology | 30.00% | ~3,720 |
-| Wise | 29.00% | ~3,596 |
-| Just Difficulty | 29.00% | ~3,596 |
-| Mausoleum | 29.00% | ~3,596 |
-| Intercessor | 26.00% | ~3,224 |
-| Valiant | 26.00% | ~3,224 |
+| Naming Landmarks | 50.00% | ~6,201 |
+| Learned | 49.00% | ~6,077 |
+| Fountainhead | 48.00% | ~5,953 |
+| Pioneer | 48.00% | ~5,953 |
+| Zoroastrianism | 48.00% | ~5,953 |
+| Developing Cities | 47.00% | ~5,829 |
+| Magnificent | 45.00% | ~5,581 |
+| Strong Cities | 45.00% | ~5,581 |
+| Pyramids | 45.00% | ~5,581 |
+| Warrior | 44.00% | ~5,457 |
+| Ishtar Gate | 44.00% | ~5,457 |
+| Greek Paganism | 44.00% | ~5,457 |
+| Babylonian Paganism | 43.00% | ~5,333 |
+| Enlightened | 42.00% | ~5,209 |
+| Roman Paganism | 41.00% | ~5,085 |
+| Great Ziggurat | 40.00% | ~4,961 |
+| Lighthouse | 40.00% | ~4,961 |
+| Christianity | 40.00% | ~4,961 |
+| Great | 39.00% | ~4,837 |
+| Able Difficulty | 39.00% | ~4,837 |
+| Ambitious | 38.00% | ~4,713 |
+| Carthaginian Paganism | 37.00% | ~4,589 |
+| Necropolis | 36.00% | ~4,465 |
+| Egyptian Paganism | 36.00% | ~4,465 |
+| Apadana | 35.00% | ~4,341 |
+| Musaeum | 35.00% | ~4,341 |
+| Manichaeism | 35.00% | ~4,341 |
+| Brilliant | 34.00% | ~4,217 |
+| Drillmaster | 32.00% | ~3,969 |
+| Colossus | 32.00% | ~3,969 |
+| Legendary Cities | 31.00% | ~3,845 |
+| Furious Family | 31.00% | ~3,845 |
+| Learn to Play 1 | 31.00% | ~3,845 |
+| Artisans | 30.00% | ~3,721 |
+| Acropolis | 30.00% | ~3,721 |
+| Mythology | 30.00% | ~3,721 |
+| Wise | 29.00% | ~3,597 |
+| Just Difficulty | 29.00% | ~3,597 |
+| Mausoleum | 29.00% | ~3,597 |
+| Intercessor | 26.00% | ~3,225 |
+| Valiant | 26.00% | ~3,225 |
 | Sages | 25.00% | ~3,100 |
 | Hanging Gardens in Babylon | 24.00% | ~2,976 |
 | Learn to Play 2 | 24.00% | ~2,976 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,401 (Ranked 111)  
+Progressed: 12,402 (Ranked 111)  
 Completed: 4 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,11 +362,11 @@ Completed: 4 (0.03%) (Ranked 202)
 | 2023-06-26 | 12,335 | 4 |
 | 2023-06-27 | 12,359 | 4 |
 | 2023-06-28 | 12,384 | 4 |
-| 2023-06-29 | 12,401 | 4 |
+| 2023-06-29 | 12,402 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 254)  
-Sum: 1,774 (Ranked 203)  
-Diff (max vs sum): 51  
+Sum: 1,774 (Ranked 204)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 218 |

@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6714,
+  "EOS_Progressed": 6715,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2303,6 +2303,11 @@
       "Time": "2023-06-29T00:07:31.698861+00:00",
       "NumProgressed": 6714,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-06-29T21:07:37.0846291+00:00",
+      "NumProgressed": 6715,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2346,7 +2351,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3559
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2370,7 +2375,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2378,7 +2383,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2529,15 +2534,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6714,
+      "Progressed": 6715,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-06-29T20:06:59.3892735+00:00",
+  "LastChanged_Achievements": "2023-06-29T21:07:37.0846284+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:55.11484+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:57:52.4526134+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:06:59.3892989+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:58:44.2042086+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:07:37.084661+00:00"
 }

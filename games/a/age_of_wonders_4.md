@@ -10,11 +10,11 @@ Rating: 4.59 (Ranked 411)
 | Realm Estate | 0.80% | ~39 |
 | A Wonderful Discovery | 0.80% | ~39 |
 | Magical Synergy | 0.80% | ~39 |
+| My Final Form | 0.80% | ~39 |
 | Walls Cannot Stop Us | 0.70% | ~34 |
 | From Friends to Family | 0.70% | ~34 |
-| My Final Form | 0.70% | ~34 |
+| Stronger Together | 0.70% | ~34 |
 | Mighty Hoard | 0.70% | ~34 |
-| Stronger Together | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Blood of the Dragon | 0.60% | ~29 |
 | Bone Peddler | 0.50% | ~24 |
@@ -37,13 +37,13 @@ Rating: 4.59 (Ranked 411)
 | God Emperor | 0.20% | ~10 |
 | The Creator | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |
+| Manufactured War | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
-| Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |

@@ -5,6 +5,7 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Paper Jams | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Giving Back | 0.10% | ~16 |
@@ -25,7 +26,6 @@ Rating: 4.19 (Ranked 844)
 | The Commonality | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
 | Reforged | 0.10% | ~16 |
-| Paper Jams | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | The Outer Way | 0.10% | ~16 |
 | If the SHU Fits... | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | Information Overload | 0.00% | ~0 |
 | One Last Job | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,587 (Ranked 105)  
+Progressed: 15,589 (Ranked 105)  
 Completed: 59 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 59 (0.38%) (Ranked 133)
 | 2023-06-26 | 15,563 | 57 |
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
-| 2023-06-29 | 15,587 | 59 |
+| 2023-06-29 | 15,589 | 59 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 347 (Ranked 323)  

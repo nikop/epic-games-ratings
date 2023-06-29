@@ -8,8 +8,8 @@
 | Defenses Online | 45.00% | ~126 |
 | Facility Online | 42.00% | ~117 |
 | Corporal | 29.00% | ~81 |
+| Covert Operative | 22.00% | ~61 |
 | Sergeant | 21.00% | ~59 |
-| Covert Operative | 21.00% | ~59 |
 | Stocking Up | 16.00% | ~45 |
 | Lieutenant | 15.00% | ~42 |
 | On Target | 15.00% | ~42 |

@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_first_first_blood",
@@ -719,9 +719,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -1103,31 +1103,31 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -1254,8 +1254,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-06-29T20:03:43.8300269+00:00",
+  "LastChanged_Achievements": "2023-06-29T21:04:28.9254086+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:06.2587836+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:58:48.4280737+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:03:43.8300898+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:59:42.6191381+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:04:28.9254889+00:00"
 }

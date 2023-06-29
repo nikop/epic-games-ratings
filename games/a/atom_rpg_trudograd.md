@@ -6,7 +6,7 @@ Rating: 4.52 (Ranked 518)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fresh Prince of Trudograd | 87.00% | ~976 |
-| Household | 6.00% | ~67 |
+| Household | 7.00% | ~79 |
 | An Old Friend | 6.00% | ~67 |
 | Atomic Soda | 4.00% | ~45 |
 | Lot 49 | 4.00% | ~45 |

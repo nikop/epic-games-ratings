@@ -11,8 +11,8 @@ Number of Ratings: 34  (23.09.2022)
 | NO LIFE IS WORTH SAVING... | 47.00% | ~183 |
 | Eat Lead! | 45.00% | ~175 |
 | Prospector | 41.00% | ~159 |
+| The Breaking Point | 41.00% | ~159 |
 | Here Comes the Boom | 41.00% | ~159 |
-| The Breaking Point | 40.00% | ~156 |
 | Treasure Hunter | 38.00% | ~148 |
 | Sniper Wolf | 36.00% | ~140 |
 | The Motivation | 35.00% | ~136 |

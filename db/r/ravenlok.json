@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 1023,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
@@ -2867,9 +2867,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 890
     },
     {
       "ID": "49",
@@ -2940,8 +2940,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-29T20:07:00.082934+00:00",
+  "LastChanged_Achievements": "2023-06-29T21:07:37.7511357+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-29T19:57:51.0348113+00:00",
-  "LastUpdate_Achievements": "2023-06-29T20:07:00.0829764+00:00"
+  "LastUpdate_Ratings": "2023-06-29T20:58:42.8662578+00:00",
+  "LastUpdate_Achievements": "2023-06-29T21:07:37.7511945+00:00"
 }

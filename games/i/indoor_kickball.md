@@ -24,8 +24,8 @@
 | Bathroom Secret Spot | 18.00% | ~12 |
 | At least everyone still had fun | 18.00% | ~12 |
 | Classroom Secret Spot | 17.00% | ~11 |
+| Angry Dad | 15.00% | ~10 |
 | Living Room Secret Spot | 14.00% | ~9 |
-| Angry Dad | 14.00% | ~9 |
 | Hi Hungry, I'm Dad | 9.00% | ~6 |
 | Interference | 9.00% | ~6 |
 | Angry Mom | 8.00% | ~5 |
