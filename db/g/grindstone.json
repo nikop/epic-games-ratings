@@ -2,13 +2,13 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -863,9 +863,9 @@
       "ID": "ACHIEVE_KILL_JERKS_20",
       "SetID": "b8l3p0g",
       "Name": "Killed 20 Jerks",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2769
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1039,8 +1039,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-06-29T07:02:27.6743252+00:00",
+  "LastChanged_Achievements": "2023-06-29T08:03:19.7441709+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.9943738+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:01:12.2666399+00:00",
-  "LastUpdate_Achievements": "2023-06-29T07:02:27.6743683+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:00:46.6887721+00:00",
+  "LastUpdate_Achievements": "2023-06-29T08:03:19.7442171+00:00"
 }

@@ -27,7 +27,7 @@ Rating: 4.07 (Ranked 895)
 | Natural Talent | 12.00% | ~182 |
 | Superior | 12.00% | ~182 |
 | The Unstoppable | 12.00% | ~182 |
-| Scientist | 10.00% | ~152 |
+| Scientist | 11.00% | ~167 |
 | Challenger | 9.00% | ~137 |
 | Doing My Part | 9.00% | ~137 |
 | Hunter | 9.00% | ~137 |
@@ -68,14 +68,14 @@ Rating: 4.07 (Ranked 895)
 | Cauldron Liberator | 0.50% | ~8 |
 | Enchanting skill x5 | 0.50% | ~8 |
 | Gear Enchanting | 0.50% | ~8 |
+| Guardian Master | 0.50% | ~8 |
 | Pokerface | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
-| Guardian Master | 0.40% | ~6 |
 | Angel Power | 0.30% | ~5 |
 | Beast War Machines | 0.30% | ~5 |
+| Conqueror | 0.30% | ~5 |
 | Enhanced War Machines | 0.30% | ~5 |
 | Titan Power | 0.30% | ~5 |
-| Conqueror | 0.20% | ~3 |
 | Ultimate War Machines | 0.20% | ~3 |
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |

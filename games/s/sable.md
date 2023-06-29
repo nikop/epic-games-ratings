@@ -13,14 +13,14 @@ Number of Ratings: 43  (23.09.2022)
 | Got Your Nose | 24.00% | ~17,522 |
 | The Gift of Gab | 24.00% | ~17,522 |
 | Wrapping Up | 22.00% | ~16,062 |
-| More Than A Box Of Sand | 18.00% | ~13,141 |
-| Chum Novice | 17.00% | ~12,411 |
-| The Dunboyne | 17.00% | ~12,411 |
-| Badge Hobbyist | 17.00% | ~12,411 |
-| Sticky Paws | 17.00% | ~12,411 |
-| Silver-Tongued Sable | 16.00% | ~11,681 |
-| Bubble Up | 16.00% | ~11,681 |
-| Thread The Needle | 15.00% | ~10,951 |
+| More Than A Box Of Sand | 18.00% | ~13,142 |
+| Chum Novice | 17.00% | ~12,412 |
+| The Dunboyne | 17.00% | ~12,412 |
+| Badge Hobbyist | 17.00% | ~12,412 |
+| Sticky Paws | 17.00% | ~12,412 |
+| Silver-Tongued Sable | 16.00% | ~11,682 |
+| Bubble Up | 16.00% | ~11,682 |
+| Thread The Needle | 15.00% | ~10,952 |
 | Power to the People | 14.00% | ~10,221 |
 | Take That! | 13.00% | ~9,491 |
 | Nesting Giant | 13.00% | ~9,491 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~5,111 |
 | Honorary Chum | 7.00% | ~5,111 |
 | Smoked Out | 7.00% | ~5,111 |
-| The Climber Mask | 6.00% | ~4,380 |
-| The Merchant Mask | 6.00% | ~4,380 |
-| A Hard Place | 6.00% | ~4,380 |
-| Bikes Don't Fly | 6.00% | ~4,380 |
+| The Climber Mask | 6.00% | ~4,381 |
+| The Merchant Mask | 6.00% | ~4,381 |
+| A Hard Place | 6.00% | ~4,381 |
+| Bikes Don't Fly | 6.00% | ~4,381 |
 | The Entertainer Mask | 5.00% | ~3,650 |
 | The Gliding | 4.00% | ~2,920 |
 | The Quick and the Curious | 4.00% | ~2,920 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,190 |
 | Vivacious Vivarium | 2.00% | ~1,460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,008 (Ranked 70)  
+Progressed: 73,010 (Ranked 70)  
 Completed: 699 (0.96%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 699 (0.96%) (Ranked 101)
 | 2023-06-26 | 72,414 | 691 |
 | 2023-06-27 | 72,691 | 697 |
 | 2023-06-28 | 72,941 | 698 |
-| 2023-06-29 | 73,008 | 699 |
+| 2023-06-29 | 73,010 | 699 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

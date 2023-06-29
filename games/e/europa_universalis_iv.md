@@ -16,10 +16,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 5.00% | ~3,142 |
 | Cold War | 4.00% | ~2,514 |
 | True Catholic | 4.00% | ~2,514 |
-| Defender of the Faith | 3.00% | ~1,885 |
-| It's all about the money | 3.00% | ~1,885 |
-| Respected | 3.00% | ~1,885 |
-| Truly Divine Ruler | 3.00% | ~1,885 |
+| Defender of the Faith | 3.00% | ~1,886 |
+| It's all about the money | 3.00% | ~1,886 |
+| Respected | 3.00% | ~1,886 |
+| Truly Divine Ruler | 3.00% | ~1,886 |
 | Agressive Expander | 2.00% | ~1,257 |
 | Blockader | 2.00% | ~1,257 |
 | Combined Arms | 2.00% | ~1,257 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,844 (Ranked 77)  
+Progressed: 62,850 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
-| 2023-06-29 | 62,844 | 0 |
+| 2023-06-29 | 62,850 | 0 |
 ## Awards
 Max (Educational): 5,469  (Ranked 61)  
 Sum: 45,188 (Ranked 27)  

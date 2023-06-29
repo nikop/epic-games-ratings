@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 594)
 | Sight Beyond Sights | 0.20% | ~6 |
 | Operation Overlord | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,160 (Ranked 144)  
+Progressed: 3,161 (Ranked 144)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-26 | 3,147 | 3 |
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
+| 2023-06-29 | 3,161 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~883,046 |
-| I Need a Bigger Garage | 63.00% | ~625,078 |
-| Pump my Ride | 46.00% | ~456,406 |
-| Ghostbuster | 32.00% | ~317,500 |
-| That Was Close | 18.00% | ~178,594 |
-| Call Roadside Assistance | 17.00% | ~168,672 |
-| Quickie | 10.00% | ~99,219 |
-| California Dreamer | 7.00% | ~69,453 |
-| Can't Touch This | 5.00% | ~49,609 |
+| The First of Many | 89.00% | ~883,065 |
+| I Need a Bigger Garage | 63.00% | ~625,091 |
+| Pump my Ride | 46.00% | ~456,416 |
+| Ghostbuster | 32.00% | ~317,507 |
+| That Was Close | 18.00% | ~178,597 |
+| Call Roadside Assistance | 17.00% | ~168,675 |
+| Quickie | 10.00% | ~99,221 |
+| California Dreamer | 7.00% | ~69,455 |
+| Can't Touch This | 5.00% | ~49,610 |
 | Carménère Taster | 3.00% | ~29,766 |
 | Comeback | 3.00% | ~29,766 |
 | Marathonist | 3.00% | ~29,766 |
@@ -32,9 +32,9 @@ Number of Ratings: 1,343  (23.09.2022)
 | Golden Passport | 1.00% | ~9,922 |
 | Brave and Bold | 1.00% | ~9,922 |
 | Bollywood Star | 0.90% | ~8,930 |
-| Crocodile Hunter | 0.80% | ~7,937 |
-| Old Master | 0.80% | ~7,937 |
-| Otaku | 0.80% | ~7,937 |
+| Crocodile Hunter | 0.80% | ~7,938 |
+| Old Master | 0.80% | ~7,938 |
+| Otaku | 0.80% | ~7,938 |
 | Volcano Surfer | 0.70% | ~6,945 |
 | Survivor | 0.60% | ~5,953 |
 | King of the World | 0.50% | ~4,961 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~992 |
 | Look Mom, No Hands! | 0.10% | ~992 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 992,187 (Ranked 12)  
+Progressed: 992,208 (Ranked 12)  
 Completed: 332 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 332 (0.03%) (Ranked 202)
 | 2023-06-26 | 990,179 | 326 |
 | 2023-06-27 | 991,089 | 330 |
 | 2023-06-28 | 991,958 | 332 |
-| 2023-06-29 | 992,187 | 332 |
+| 2023-06-29 | 992,208 | 332 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 293)  
 Sum: 1,183 (Ranked 228)  

@@ -677,7 +677,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27825,
+  "EOS_Progressed": 27826,
   "EOS_Completed": 1292,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 5,
@@ -2882,6 +2882,11 @@
       "Time": "2023-06-29T02:24:40.0858112+00:00",
       "NumProgressed": 27825,
       "NumCompleted": 1292
+    },
+    {
+      "Time": "2023-06-29T08:05:06.3008907+00:00",
+      "NumProgressed": 27826,
+      "NumCompleted": 1292
     }
   ],
   "TotalAchievements": 30,
@@ -2893,7 +2898,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12521
+      "UsersEstimate": 12522
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -2901,7 +2906,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -2949,7 +2954,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18364
+      "UsersEstimate": 18365
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -2957,7 +2962,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21425
+      "UsersEstimate": 21426
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -2981,7 +2986,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 16138
+      "UsersEstimate": 16139
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -2989,7 +2994,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 26990
+      "UsersEstimate": 26991
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -2997,7 +3002,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19199
+      "UsersEstimate": 19200
     },
     {
       "ID": "ACH_GOLEM",
@@ -3029,7 +3034,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16973
+      "UsersEstimate": 16974
     },
     {
       "ID": "ACH_LAUNCH",
@@ -3037,7 +3042,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15582
+      "UsersEstimate": 15583
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -3045,7 +3050,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14469
+      "UsersEstimate": 14470
     },
     {
       "ID": "ACH_PUZZLE",
@@ -3085,7 +3090,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25877
+      "UsersEstimate": 25878
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -3093,7 +3098,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15582
+      "UsersEstimate": 15583
     },
     {
       "ID": "ACH_SUNDAE",
@@ -3117,7 +3122,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 20869
+      "UsersEstimate": 20870
     },
     {
       "ID": "ACH_WATERFALL",
@@ -3125,22 +3130,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24208
+      "UsersEstimate": 24209
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27825,
+      "Progressed": 27826,
       "Completed": 1292
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-23T18:59:45.0820026+00:00",
-  "LastChanged_Achievements": "2023-06-29T07:04:50.2120352+00:00",
+  "LastChanged_Achievements": "2023-06-29T08:05:06.3008901+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:58.8378679+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:00:59.50482+00:00",
-  "LastUpdate_Achievements": "2023-06-29T07:04:50.2120885+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:00:35.5974002+00:00",
+  "LastUpdate_Achievements": "2023-06-29T08:05:06.3009318+00:00"
 }

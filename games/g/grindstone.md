@@ -1,7 +1,7 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 51)  
+Rating: 4.84 (Ranked 50)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 63  (23.09.2022)
 | Royal Flush | 62.00% | ~3,179 |
 | Timber! | 60.00% | ~3,076 |
 | Survive the Bombsequences | 59.00% | ~3,025 |
-| Killed 20 Jerks | 53.00% | ~2,717 |
+| Killed 20 Jerks | 54.00% | ~2,769 |
 | Death Defied | 53.00% | ~2,717 |
 | Fortunate Soul | 49.00% | ~2,512 |
 | Jerk-Slayer | 43.00% | ~2,205 |
