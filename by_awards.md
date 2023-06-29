@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 191,293 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 184,893 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 154,531 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 142,865 | 4.52 | 517 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 142,968 | 4.52 | 517 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,079 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,403 | 4.62 | 344 |
 | 10 | [VALORANT](games/v/valorant.md) | 58,649 | 4.53 | 504 |
@@ -17,7 +17,7 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,235 | 4.52 | 517 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,613 | 4.65 | 299 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,491 | 4.77 | 108 |
-| 18 | [Dauntless](games/d/dauntless.md) | 20,396 | 4.53 | 504 |
+| 18 | [Dauntless](games/d/dauntless.md) | 20,419 | 4.53 | 504 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,784 | 4.57 | 438 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,504 | 4.89 | 13 |
 | 21 | [Warframe](games/w/warframe.md) | 15,690 | 4.61 | 362 |
@@ -35,7 +35,7 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,287 | 4.69 | 220 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,686 | 4.45 | 620 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,314 | 4.88 | 19 |
-| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,353 | 4.78 | 100 |
+| 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,365 | 4.78 | 100 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,329 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,898 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,369 | 4.60 | 387 |
@@ -266,10 +266,10 @@
 | 264 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 824 |
 | 265 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 734 |
 | 266 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 313 |
-| 267 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 197 | 4.43 | 651 |
-| 267 | [Relicta](games/r/relicta.md) | 197 | 4.15 | 866 |
-| 269 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 196 | 4.56 | 456 |
-| 269 | [shapez](games/s/shapez.md) | 196 | 4.71 | 181 |
+| 267 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 199 | 4.56 | 456 |
+| 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 197 | 4.43 | 651 |
+| 268 | [Relicta](games/r/relicta.md) | 197 | 4.15 | 866 |
+| 270 | [shapez](games/s/shapez.md) | 196 | 4.71 | 181 |
 | 271 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 274 |
 | 272 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 313 |
 | 273 | [Brawlhalla](games/b/brawlhalla.md) | 189 | 4.59 | 410 |
@@ -389,9 +389,9 @@
 | 387 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 58 | 4.57 | 438 |
 | 387 | [Heavy Rain](games/h/heavy_rain.md) | 58 | 4.60 | 387 |
 | 389 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 54 | 4.33 | 754 |
-| 390 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 884 |
-| 390 | [The Escapists 2](games/t/the_escapists_2.md) | 52 | 4.58 | 420 |
-| 390 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 52 | 4.56 | 456 |
+| 390 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 53 | 4.56 | 456 |
+| 391 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 884 |
+| 391 | [The Escapists 2](games/t/the_escapists_2.md) | 52 | 4.58 | 420 |
 | 393 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.84 | 51 |
 | 393 | [Ranch Simulator](games/r/ranch_simulator.md) | 51 | 4.44 | 634 |
 | 393 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 51 | 4.66 | 274 |
