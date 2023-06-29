@@ -25,9 +25,235 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-06-29T10:00:33.4680773+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_id_1",
+      "SetID": "95c9ld5",
+      "Name": "RECRUITER",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_10",
+      "SetID": "95c9ld5",
+      "Name": "TILL THE VERY END...",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_11",
+      "SetID": "95c9ld5",
+      "Name": "FOR WHAT WE BELIEVE IN",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_12",
+      "SetID": "95c9ld5",
+      "Name": "WHEN THE WAR BEGAN",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_13",
+      "SetID": "95c9ld5",
+      "Name": "HOT-BLOODED",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_14",
+      "SetID": "95c9ld5",
+      "Name": "ONE AGAINST ALL",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_15",
+      "SetID": "95c9ld5",
+      "Name": "HELL YEA",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_16",
+      "SetID": "95c9ld5",
+      "Name": "OUTDAMAGED",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_17",
+      "SetID": "95c9ld5",
+      "Name": "BORDER DEFENDER",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_18",
+      "SetID": "95c9ld5",
+      "Name": "MAD LECTER",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_19",
+      "SetID": "95c9ld5",
+      "Name": "NEW SCARS",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_2",
+      "SetID": "95c9ld5",
+      "Name": "SHOULDER TO SHOULDER",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_20",
+      "SetID": "95c9ld5",
+      "Name": "CASStOWAYS",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_21",
+      "SetID": "95c9ld5",
+      "Name": "IMPOSSIBLE SPARRING",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_22",
+      "SetID": "95c9ld5",
+      "Name": "WHATEVER THE COMMAND MAY BE",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_23",
+      "SetID": "95c9ld5",
+      "Name": "DEFENSIVE FORMATION",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_24",
+      "SetID": "95c9ld5",
+      "Name": "HEROES DON\u0027T DIE",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_25",
+      "SetID": "95c9ld5",
+      "Name": "I\u0027M STRONGER THAN YOU",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_26",
+      "SetID": "95c9ld5",
+      "Name": "SAKATA\u0027S SHAREHOLDER",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_27",
+      "SetID": "95c9ld5",
+      "Name": "HERO LEAGUE",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_28",
+      "SetID": "95c9ld5",
+      "Name": "SAFE RETURN",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_3",
+      "SetID": "95c9ld5",
+      "Name": "I HAVE MY OWN SYSTEM",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_4",
+      "SetID": "95c9ld5",
+      "Name": "OUTSTANDING CAPTAIN",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_5",
+      "SetID": "95c9ld5",
+      "Name": "ACE PILOT",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_6",
+      "SetID": "95c9ld5",
+      "Name": "THE BEST MATERIAL",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_7",
+      "SetID": "95c9ld5",
+      "Name": "VETERAN",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_8",
+      "SetID": "95c9ld5",
+      "Name": "KABUUM!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_id_9",
+      "SetID": "95c9ld5",
+      "Name": "BUBBLEGUM CRISIS",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "95c9ld5",
@@ -37,8 +263,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-26T08:01:45.5503063+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:02:11.3484354+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:00:33.4680756+00:00",
   "LastUpdate_AppInfo": "2023-06-26T07:57:04.8102476+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:57:54.7603611+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:02:11.348438+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:57:05.9608065+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:00:33.4681005+00:00"
 }

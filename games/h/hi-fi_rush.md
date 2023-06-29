@@ -5,27 +5,27 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,725 |
-| Start with a bang! | 80.00% | ~2,691 |
-| You can pet the cat! | 75.00% | ~2,523 |
+| Feeling the beat! | 81.00% | ~2,726 |
+| Start with a bang! | 80.00% | ~2,692 |
+| You can pet the cat! | 75.00% | ~2,524 |
 | Who put gears in there? | 68.00% | ~2,288 |
-| Cream of the Crop | 63.00% | ~2,119 |
+| Cream of the Crop | 63.00% | ~2,120 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,086 |
-| You got this, Peppermint? | 57.00% | ~1,917 |
-| Perfect Parry | 55.00% | ~1,850 |
+| You got this, Peppermint? | 57.00% | ~1,918 |
+| Perfect Parry | 55.00% | ~1,851 |
 | Alright, that felt AWESOME! | 54.00% | ~1,817 |
 | I play my own way! | 50.00% | ~1,682 |
 | This will cost you big time | 48.00% | ~1,615 |
-| Uh, they were broken when I got here | 47.00% | ~1,581 |
+| Uh, they were broken when I got here | 47.00% | ~1,582 |
 | Z-shielding's got nothing on us! | 45.00% | ~1,514 |
-| Kissing the sky! | 44.00% | ~1,480 |
-| Does that say weakpoint? | 41.00% | ~1,379 |
+| Kissing the sky! | 44.00% | ~1,481 |
+| Does that say weakpoint? | 41.00% | ~1,380 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,346 |
 | The Negotiator | 39.00% | ~1,312 |
 | You must like calling me in, Chai | 34.00% | ~1,144 |
 | Out in a puff of smoke | 34.00% | ~1,144 |
 | Headliner | 33.00% | ~1,110 |
-| Time to pay up! | 30.00% | ~1,009 |
+| Time to pay up! | 30.00% | ~1,010 |
 | Who's the boss now? | 29.00% | ~976 |
 | Perfecter Parry-er! | 29.00% | ~976 |
 | I have to read these things? | 28.00% | ~942 |
@@ -39,11 +39,11 @@ Rating: 4.89 (Ranked 12)
 | Check out my moves! | 12.00% | ~404 |
 | Chip-tuned | 11.00% | ~370 |
 | We're Jammin' | 8.00% | ~269 |
-| I think I deserve some praise, here! | 7.00% | ~235 |
-| I think I found your calling, Macaron | 7.00% | ~235 |
-| I'm not done with you yet | 7.00% | ~235 |
-| First we parry, then we counter | 7.00% | ~235 |
-| I hit things with a guitar really well. | 7.00% | ~235 |
+| I think I deserve some praise, here! | 7.00% | ~236 |
+| I think I found your calling, Macaron | 7.00% | ~236 |
+| I'm not done with you yet | 7.00% | ~236 |
+| First we parry, then we counter | 7.00% | ~236 |
+| I hit things with a guitar really well. | 7.00% | ~236 |
 | You ever parry a volcano? | 6.00% | ~202 |
 | This is a breeze! | 4.00% | ~135 |
 | Easy Listening | 3.00% | ~101 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,364 (Ranked 143)  
+Progressed: 3,365 (Ranked 143)  
 Completed: 5 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 5 (0.15%) (Ranked 167)
 | 2023-06-26 | 3,351 | 5 |
 | 2023-06-27 | 3,355 | 5 |
 | 2023-06-28 | 3,362 | 5 |
-| 2023-06-29 | 3,364 | 5 |
+| 2023-06-29 | 3,365 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -288,9 +288,9 @@
       "ID": "backstory_buff",
       "SetID": "5anb57n",
       "Name": "Backstory Buff",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "bathroom_brawler",
@@ -312,9 +312,9 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "escape_artist",
@@ -400,9 +400,9 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "snitch",
@@ -431,8 +431,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:05:24.5582173+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:04:18.0310989+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:45.7718683+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:59:15.6900505+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:05:24.5582297+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:58:10.6092963+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:04:18.0311173+00:00"
 }

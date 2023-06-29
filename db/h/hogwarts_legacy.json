@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4350,9 +4350,9 @@
       "Count": 533
     }
   ],
-  "EOS_Progressed": 281862,
+  "EOS_Progressed": 281866,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -11720,6 +11720,11 @@
       "Time": "2023-06-29T09:06:42.8549275+00:00",
       "NumProgressed": 281862,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-06-29T10:05:21.8902044+00:00",
+      "NumProgressed": 281866,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 45,
@@ -11731,7 +11736,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28186
+      "UsersEstimate": 28187
     },
     {
       "ID": "PFA_10",
@@ -11763,7 +11768,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19730
+      "UsersEstimate": 19731
     },
     {
       "ID": "PFA_14",
@@ -11771,7 +11776,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "PFA_15",
@@ -11835,7 +11840,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19730
+      "UsersEstimate": 19731
     },
     {
       "ID": "PFA_22",
@@ -11859,7 +11864,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19730
+      "UsersEstimate": 19731
     },
     {
       "ID": "PFA_25",
@@ -11867,7 +11872,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "PFA_26",
@@ -11899,7 +11904,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "PFA_3",
@@ -11915,7 +11920,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19730
+      "UsersEstimate": 19731
     },
     {
       "ID": "PFA_31",
@@ -12011,7 +12016,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "PFA_42",
@@ -12019,7 +12024,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "PFA_43",
@@ -12083,14 +12088,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19730
+      "UsersEstimate": 19731
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281862,
+      "Progressed": 281866,
       "Completed": 414
     }
   ],
@@ -12098,8 +12103,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-06-29T08:58:30.7471915+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:06:42.8549271+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:05:21.8902035+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:58:30.747192+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:06:42.8549901+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:57:35.04594+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:05:21.8903012+00:00"
 }

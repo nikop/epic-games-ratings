@@ -27,8 +27,8 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 14.00% | ~886 |
 | Dirty Dozen | 13.00% | ~823 |
 | Shaken, Not Stirred | 13.00% | ~823 |
+| Die Bosniaken Kommen! | 12.00% | ~759 |
 | Machiavelli | 12.00% | ~759 |
-| Die Bosniaken Kommen! | 11.00% | ~696 |
 | The Devil's Paintbrush | 11.00% | ~696 |
 | Dante's Inferno | 10.00% | ~633 |
 | I Have the High Ground | 10.00% | ~633 |

@@ -9,14 +9,14 @@
 | Tour Guide Extraordinaire | 33.00% | ~16 |
 | Puzzle Prodigy | 24.00% | ~12 |
 | Snitch | 22.00% | ~11 |
+| Codebreaker | 20.00% | ~10 |
 | Explosive End | 20.00% | ~10 |
+| Set Sail | 20.00% | ~10 |
 | A Box of Tricks | 18.00% | ~9 |
 | Bathroom Brawler | 18.00% | ~9 |
 | Breathless End | 18.00% | ~9 |
-| Codebreaker | 18.00% | ~9 |
-| Set Sail | 18.00% | ~9 |
+| Backstory Buff | 16.00% | ~8 |
 | Finger-Lickin' Bad | 16.00% | ~8 |
-| Backstory Buff | 14.00% | ~7 |
 | Flying High | 14.00% | ~7 |
 | Fool's Gold | 4.00% | ~2 |
 | Freedum Fighter | 4.00% | ~2 |

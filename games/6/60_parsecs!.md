@@ -22,8 +22,8 @@
 | Et tu, Astrocitizen? | 19.00% | ~125 |
 | Eco-Shuttle | 18.00% | ~118 |
 | Space Explorer | 15.00% | ~99 |
+| Hands Full | 13.00% | ~85 |
 | Gold Medalist | 12.00% | ~79 |
-| Hands Full | 12.00% | ~79 |
 | Non-Fiction | 11.00% | ~72 |
 | No Man Left Behind | 9.00% | ~59 |
 | Fix-It Felix | 7.00% | ~46 |

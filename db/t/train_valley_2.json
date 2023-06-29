@@ -630,9 +630,9 @@
       "ID": "AchievementCloseCall",
       "SetID": "76o014g",
       "Name": "Close call!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "AchievementCommonCause",
@@ -806,9 +806,9 @@
       "ID": "AchievementJuggler",
       "SetID": "76o014g",
       "Name": "Juggler",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "AchievementJustInTime",
@@ -1140,8 +1140,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:05:51.3603513+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:04:40.0500281+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:00.4841625+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:58:38.8498916+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:05:51.3604294+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:57:41.710368+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:04:40.0501182+00:00"
 }

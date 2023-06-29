@@ -4600,9 +4600,9 @@
       "Count": 3275
     }
   ],
-  "EOS_Progressed": 197964,
+  "EOS_Progressed": 197967,
   "EOS_Completed": 2021,
-  "EOS_NewPlayers": 95746,
+  "EOS_NewPlayers": 95689,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -11915,6 +11915,11 @@
       "Time": "2023-06-29T08:07:34.9714386+00:00",
       "NumProgressed": 197964,
       "NumCompleted": 2021
+    },
+    {
+      "Time": "2023-06-29T10:06:16.1476455+00:00",
+      "NumProgressed": 197967,
+      "NumCompleted": 2021
     }
   ],
   "TotalAchievements": 503,
@@ -13598,7 +13603,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 25735
+      "UsersEstimate": 25736
     },
     {
       "ID": "objective_completed_34",
@@ -15070,7 +15075,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19796
+      "UsersEstimate": 19797
     },
     {
       "ID": "objective_completed_70",
@@ -15949,21 +15954,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 164238,
+      "Progressed": 164241,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 197964,
+      "Progressed": 197967,
       "Completed": 2021
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-06-29T04:58:30.4364677+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:07:46.6476904+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:06:16.147645+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:48.1551569+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:59:18.9856398+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:07:46.6499352+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:58:12.8063857+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:06:16.1507339+00:00"
 }

@@ -7,12 +7,12 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | Secret Technique | 0.90% | ~44 |
 | Tipping the Scales | 0.90% | ~44 |
+| Realm Estate | 0.60% | ~29 |
 | A Wonderful Discovery | 0.60% | ~29 |
 | Magical Synergy | 0.60% | ~29 |
 | My Final Form | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
-| Realm Estate | 0.50% | ~24 |
 | Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |
@@ -32,6 +32,7 @@ Rating: 4.59 (Ranked 410)
 | The Magic That Empowers Me! | 0.20% | ~10 |
 | Return of the Wizard King | 0.20% | ~10 |
 | Arch Mage | 0.20% | ~10 |
+| The Creator | 0.20% | ~10 |
 | Enchanted Archipelago | 0.20% | ~10 |
 | Eternal Lord | 0.20% | ~10 |
 | In a Liege of Your Own | 0.20% | ~10 |
@@ -39,7 +40,6 @@ Rating: 4.59 (Ranked 410)
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
-| The Creator | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |

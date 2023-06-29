@@ -6,8 +6,8 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 13.00% | ~25,735 |
-| The Mad Wizard | 10.00% | ~19,796 |
+| The Cursed Farmer | 13.00% | ~25,736 |
+| The Mad Wizard | 10.00% | ~19,797 |
 | The Ring of Regeneration | 6.00% | ~11,878 |
 | Are Ya Chicken? | 6.00% | ~11,878 |
 | Were-verpowered | 5.00% | ~9,898 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197,964 (Ranked 52)  
+Progressed: 197,967 (Ranked 52)  
 Completed: 2,021 (1.02%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 2,021 (1.02%) (Ranked 100)
 | 2023-06-26 | 180,291 | 2,016 |
 | 2023-06-27 | 188,215 | 2,018 |
 | 2023-06-28 | 195,713 | 2,020 |
-| 2023-06-29 | 197,964 | 2,021 |
+| 2023-06-29 | 197,967 | 2,021 |
 ## Awards
 Max (Diverse Characters): 4,975  (Ranked 64)  
 Sum: 30,284 (Ranked 37)  

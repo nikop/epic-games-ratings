@@ -3212,9 +3212,9 @@
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
       "SetID": "akchbl3",
       "Name": "Die Bosniaken Kommen!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 759
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -3509,8 +3509,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-26T19:57:59.6691095+00:00",
-  "LastChanged_Achievements": "2023-06-29T09:03:33.4991488+00:00",
+  "LastChanged_Achievements": "2023-06-29T10:02:29.5109511+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.3316297+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:58:36.1821544+00:00",
-  "LastUpdate_Achievements": "2023-06-29T09:03:33.4991909+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:57:39.375652+00:00",
+  "LastUpdate_Achievements": "2023-06-29T10:02:29.5110058+00:00"
 }

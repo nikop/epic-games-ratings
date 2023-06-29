@@ -6,26 +6,26 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,024 |
-| The Journey Begins | 98.00% | ~5,024 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,999 |
-| There is No Escape | 71.00% | ~3,640 |
+| Quinceañera Time | 98.00% | ~5,025 |
+| The Journey Begins | 98.00% | ~5,025 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,000 |
+| There is No Escape | 71.00% | ~3,641 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,179 |
 | Royal Flush | 62.00% | ~3,179 |
-| Timber! | 60.00% | ~3,076 |
-| Survive the Bombsequences | 59.00% | ~3,025 |
-| Killed 20 Jerks | 54.00% | ~2,769 |
-| Death Defied | 53.00% | ~2,717 |
-| Fortunate Soul | 49.00% | ~2,512 |
+| Timber! | 60.00% | ~3,077 |
+| Survive the Bombsequences | 59.00% | ~3,026 |
+| Killed 20 Jerks | 53.00% | ~2,718 |
+| Death Defied | 53.00% | ~2,718 |
+| Fortunate Soul | 49.00% | ~2,513 |
 | Jerk-Slayer | 43.00% | ~2,205 |
 | Employee of the Month | 37.00% | ~1,897 |
 | I Believe I Can Fly | 37.00% | ~1,897 |
-| Bone Collector | 35.00% | ~1,794 |
-| Fe-Festival | 35.00% | ~1,794 |
+| Bone Collector | 35.00% | ~1,795 |
+| Fe-Festival | 35.00% | ~1,795 |
 | Top of the Food Chain | 32.00% | ~1,641 |
 | Pardon my Slob | 32.00% | ~1,641 |
-| Humerus Achievement | 31.00% | ~1,589 |
-| Ghost Facers! | 27.00% | ~1,384 |
+| Humerus Achievement | 31.00% | ~1,590 |
+| Ghost Facers! | 27.00% | ~1,385 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,077 |
 | Royal Flush, Again | 19.00% | ~974 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~923 |
@@ -40,9 +40,9 @@ Number of Ratings: 63  (23.09.2022)
 | Stop Hitting Each Other | 13.00% | ~667 |
 | Ultimate Jerk | 13.00% | ~667 |
 | Hot Potato | 10.00% | ~513 |
-| Off the Beaten Path | 9.00% | ~461 |
-| It's Been a Blast | 9.00% | ~461 |
-| For Rock and Stone! | 9.00% | ~461 |
+| Off the Beaten Path | 9.00% | ~462 |
+| It's Been a Blast | 9.00% | ~462 |
+| For Rock and Stone! | 9.00% | ~462 |
 | Don't Get Too Greedy | 7.00% | ~359 |
 | You're In a Cult, Call Your Dad | 6.00% | ~308 |
 | Survived The Slaughter | 5.00% | ~256 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,127 (Ranked 130)  
+Progressed: 5,128 (Ranked 130)  
 Completed: 29 (0.57%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 29 (0.57%) (Ranked 120)
 | 2023-06-20 | 5,126 | 28 |
 | 2023-06-23 | 5,126 | 29 |
 | 2023-06-25 | 5,127 | 29 |
+| 2023-06-29 | 5,128 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
