@@ -13,17 +13,17 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.44% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.37% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.23% |
@@ -72,7 +72,7 @@
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.20% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.04% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -163,9 +163,9 @@
 | 160 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 160 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
 | 163 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 164 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 164 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
-| 164 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 164 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 165 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 165 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 167 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
 | 167 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 167 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
