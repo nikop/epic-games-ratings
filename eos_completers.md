@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.24% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 29 | [Scorn](games/s/scorn.md) | 6.84% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.42% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -41,8 +41,8 @@
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.65% |
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -72,7 +72,7 @@
 | 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.22% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
