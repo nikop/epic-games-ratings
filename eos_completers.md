@@ -17,7 +17,7 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.24% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.03% |
 | 29 | [Scorn](games/s/scorn.md) | 6.88% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -41,8 +41,8 @@
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.64% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.82% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.65% |
 | 44 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.65% |
 | 46 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -74,7 +74,7 @@
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
-| 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.08% |
+| 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.04% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Iron Danger](games/i/iron_danger.md) | 1.83% |
@@ -193,12 +193,12 @@
 | 190 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
 | 190 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 190 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 194 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.06% |
 | 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 194 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 197 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 197 | [House Party](games/h/house_party.md) | 0.05% |
-| 197 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 196 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 196 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
+| 196 | [House Party](games/h/house_party.md) | 0.05% |
+| 196 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 200 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 200 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
 | 202 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
