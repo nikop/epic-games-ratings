@@ -6,13 +6,13 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Need a Gun | 0.20% | ~31 |
+| Flesh Wound | 0.20% | ~31 |
 | Get a Grip | 0.20% | ~31 |
 | Two Heads Are Better Than One | 0.20% | ~31 |
 | Paper Jams | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Giving Back | 0.10% | ~16 |
-| Flesh Wound | 0.10% | ~16 |
 | Grim Reaper | 0.10% | ~16 |
 | I Do Belong Here | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |

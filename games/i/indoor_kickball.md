@@ -16,17 +16,17 @@
 | Kickball Unlocked | 62.00% | ~41 |
 | True Story! | 35.00% | ~23 |
 | Bedroom Secret Spot | 33.00% | ~22 |
-| Kick It | 29.00% | ~19 |
+| Kick It | 30.00% | ~20 |
 | Grand Slam! | 27.00% | ~18 |
 | Have Mercy | 24.00% | ~16 |
-| Save some water for the fishies | 20.00% | ~13 |
+| Save some water for the fishies | 21.00% | ~14 |
 | Spooky | 20.00% | ~13 |
 | Bathroom Secret Spot | 18.00% | ~12 |
 | At least everyone still had fun | 18.00% | ~12 |
 | Classroom Secret Spot | 17.00% | ~11 |
 | Angry Dad | 15.00% | ~10 |
 | Living Room Secret Spot | 14.00% | ~9 |
-| Hi Hungry, I'm Dad | 9.00% | ~6 |
+| Hi Hungry, I'm Dad | 11.00% | ~7 |
 | Interference | 9.00% | ~6 |
 | Angry Mom | 8.00% | ~5 |
 | Just how we drew it up | 8.00% | ~5 |

@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 604)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~130,246 |
-| My First Runbow | 50.00% | ~122,874 |
-| It's The Fall | 26.00% | ~63,894 |
-| Be Aggressive | 21.00% | ~51,607 |
-| The Stunner | 21.00% | ~51,607 |
+| In The Zone | 53.00% | ~130,248 |
+| My First Runbow | 50.00% | ~122,875 |
+| It's The Fall | 26.00% | ~63,895 |
+| Be Aggressive | 21.00% | ~51,608 |
+| The Stunner | 21.00% | ~51,608 |
 | Curator | 20.00% | ~49,150 |
 | Crowning Around | 18.00% | ~44,235 |
-| Can You Dig It? | 17.00% | ~41,777 |
+| Can You Dig It? | 17.00% | ~41,778 |
 | You Juan-A-Go? | 16.00% | ~39,320 |
 | Chan-tastic | 15.00% | ~36,862 |
 | Muddy Waters | 14.00% | ~34,405 |
-| Toasty! | 13.00% | ~31,947 |
+| Toasty! | 13.00% | ~31,948 |
 | Lazy Laser | 8.00% | ~19,660 |
 | Into The Drift | 7.00% | ~17,202 |
 | Ready? Fight! | 7.00% | ~17,202 |
@@ -27,19 +27,19 @@ Rating: 4.46 (Ranked 604)
 | And You're Okay | 2.00% | ~4,915 |
 | Blotbuster | 2.00% | ~4,915 |
 | Thunderstruck | 2.00% | ~4,915 |
-| Just A Bit | 1.00% | ~2,457 |
-| Tubular, Dude | 1.00% | ~2,457 |
+| Just A Bit | 1.00% | ~2,458 |
+| Tubular, Dude | 1.00% | ~2,458 |
 | What A Trip | 0.90% | ~2,212 |
 | Here We Go! | 0.80% | ~1,966 |
 | Please The King | 0.80% | ~1,966 |
 | Clear-Cut | 0.50% | ~1,229 |
 | Breaking Out | 0.40% | ~983 |
 | Disposable | 0.30% | ~737 |
-| A Winner Is You | 0.20% | ~491 |
-| Final Nightmare | 0.20% | ~491 |
-| I'm Here All Night | 0.20% | ~491 |
-| Ride The Wave | 0.20% | ~491 |
-| Tree Medalist | 0.20% | ~491 |
+| A Winner Is You | 0.20% | ~492 |
+| Final Nightmare | 0.20% | ~492 |
+| I'm Here All Night | 0.20% | ~492 |
+| Ride The Wave | 0.20% | ~492 |
+| Tree Medalist | 0.20% | ~492 |
 | Can't Be Kept Down | 0.10% | ~246 |
 | Completionist | 0.10% | ~246 |
 | Did Your Time | 0.10% | ~246 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 604)
 | Talent Scout | 0.10% | ~246 |
 | True Completionist | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,748 (Ranked 43)  
+Progressed: 245,750 (Ranked 43)  
 Completed: 3 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 3 (0.00%) (Ranked 230)
 | 2023-06-26 | 245,616 | 3 |
 | 2023-06-27 | 245,653 | 3 |
 | 2023-06-28 | 245,707 | 3 |
-| 2023-06-29 | 245,748 | 3 |
+| 2023-06-29 | 245,750 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

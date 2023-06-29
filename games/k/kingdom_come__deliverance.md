@@ -1,29 +1,29 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 182)  
+Rating: 4.71 (Ranked 181)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,951 |
-| Cavalier | 25.00% | ~197,541 |
-| Fatso | 23.00% | ~181,737 |
-| Awakening | 20.00% | ~158,033 |
-| Ranger | 20.00% | ~158,033 |
-| Scrooge | 20.00% | ~158,033 |
-| Anorectic | 16.00% | ~126,426 |
-| Firestarter | 15.00% | ~118,524 |
-| Bookworm | 14.00% | ~110,623 |
-| Insomniac | 13.00% | ~102,721 |
+| Blacksmith's Son | 31.00% | ~244,952 |
+| Cavalier | 25.00% | ~197,542 |
+| Fatso | 23.00% | ~181,739 |
+| Awakening | 20.00% | ~158,034 |
+| Ranger | 20.00% | ~158,034 |
+| Scrooge | 20.00% | ~158,034 |
+| Anorectic | 16.00% | ~126,427 |
+| Firestarter | 15.00% | ~118,525 |
+| Bookworm | 14.00% | ~110,624 |
+| Insomniac | 13.00% | ~102,722 |
 | Buddy | 12.00% | ~94,820 |
 | Thief | 12.00% | ~94,820 |
 | Sinner | 11.00% | ~86,918 |
-| Convict | 10.00% | ~79,016 |
-| Traveller | 10.00% | ~79,016 |
+| Convict | 10.00% | ~79,017 |
+| Traveller | 10.00% | ~79,017 |
 | Haggler | 9.00% | ~71,115 |
-| McLovin | 7.00% | ~55,311 |
-| Runt | 7.00% | ~55,311 |
+| McLovin | 7.00% | ~55,312 |
+| Runt | 7.00% | ~55,312 |
 | Casanova | 6.00% | ~47,410 |
 | Bad Trip | 5.00% | ~39,508 |
 | Monk | 5.00% | ~39,508 |
@@ -51,7 +51,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,902 |
 | Master Huntsman | 1.00% | ~7,902 |
 | Stealth Killer | 1.00% | ~7,902 |
-| Bailiff | 0.90% | ~7,111 |
+| Bailiff | 0.90% | ~7,112 |
 | Tracker | 0.80% | ~6,321 |
 | David Horak | 0.70% | ~5,531 |
 | Mercenary's Honour | 0.70% | ~5,531 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Fighter | 0.60% | ~4,741 |
 | I Can Quit Anytime | 0.50% | ~3,951 |
 | Perfectionist | 0.40% | ~3,161 |
-| Alcoholic | 0.30% | ~2,370 |
-| Sniper | 0.30% | ~2,370 |
+| Alcoholic | 0.30% | ~2,371 |
+| Sniper | 0.30% | ~2,371 |
 | Angel of Mercy | 0.20% | ~1,580 |
 | Christian Burial | 0.20% | ~1,580 |
 | Friends without benefits | 0.20% | ~1,580 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,163 (Ranked 15)  
+Progressed: 790,168 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-26 | 789,739 | 43 |
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
-| 2023-06-29 | 790,163 | 43 |
+| 2023-06-29 | 790,168 | 43 |
 ## Awards
 Max (Character Customization): 7,280  (Ranked 46)  
 Sum: 27,167 (Ranked 43)  

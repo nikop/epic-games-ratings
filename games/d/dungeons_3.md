@@ -7,18 +7,18 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~15,455 |
-| The Evilest Evil | 59.00% | ~13,026 |
-| Twistram is devastated | 58.00% | ~12,805 |
-| The Gehenna Stones | 50.00% | ~11,039 |
+| The Evilest Evil | 59.00% | ~13,027 |
+| Twistram is devastated | 58.00% | ~12,806 |
+| The Gehenna Stones | 50.00% | ~11,040 |
 | No one has to die today! | 47.00% | ~10,377 |
-| Death and destruction! | 45.00% | ~9,935 |
-| The Swamplanders from the swamplands | 44.00% | ~9,714 |
+| Death and destruction! | 45.00% | ~9,936 |
+| The Swamplanders from the swamplands | 44.00% | ~9,715 |
 | The One-Huge-Army-Building Evil | 41.00% | ~9,052 |
 | Rusty Steel | 41.00% | ~9,052 |
 | The last burger | 38.00% | ~8,390 |
 | Braiiiiins! | 38.00% | ~8,390 |
 | Hands off the Dungeonheart! | 37.00% | ~8,169 |
-| A trip on sea, what fun it can be | 35.00% | ~7,727 |
+| A trip on sea, what fun it can be | 35.00% | ~7,728 |
 | Damned good | 34.00% | ~7,507 |
 | Stock Market Crash | 32.00% | ~7,065 |
 | Factory farming | 32.00% | ~7,065 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 28.00% | ~6,182 |
 | Destroy the thing | 27.00% | ~5,961 |
 | Tide Master | 27.00% | ~5,961 |
-| Difficult family relationships | 26.00% | ~5,740 |
+| Difficult family relationships | 26.00% | ~5,741 |
 | MASS-O-BOT | 25.00% | ~5,520 |
 | Prepare the grave | 25.00% | ~5,520 |
 | Angel of Fire | 25.00% | ~5,520 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~3,974 |
 | Lifeguard | 18.00% | ~3,974 |
 | Flat as a pancake | 17.00% | ~3,753 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,532 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,533 |
 | This is fun, I’m going to keep doing this! | 13.00% | ~2,870 |
 | Then let them eat cake! | 12.00% | ~2,649 |
 | Please, no interruptions! | 11.00% | ~2,429 |
@@ -54,9 +54,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Hearts of Iron | 8.00% | ~1,766 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~1,766 |
 | Lifesaver | 8.00% | ~1,766 |
-| Spawner Killer | 7.00% | ~1,545 |
-| A little something extra | 7.00% | ~1,545 |
-| Hearts are trump | 7.00% | ~1,545 |
+| Spawner Killer | 7.00% | ~1,546 |
+| A little something extra | 7.00% | ~1,546 |
+| Hearts are trump | 7.00% | ~1,546 |
 | The Benevolent Evil | 6.00% | ~1,325 |
 | Band of Brothers | 5.00% | ~1,104 |
 | Night of the Living Dead (on Speed) | 4.00% | ~883 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~442 |
 | Sacrifices! | 2.00% | ~442 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,078 (Ranked 98)  
+Progressed: 22,079 (Ranked 98)  
 Completed: 183 (0.83%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 183 (0.83%) (Ranked 105)
 | 2023-06-26 | 21,760 | 181 |
 | 2023-06-27 | 21,876 | 183 |
 | 2023-06-28 | 21,978 | 183 |
-| 2023-06-29 | 22,078 | 183 |
+| 2023-06-29 | 22,079 | 183 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 225)  
 Sum: 2,311 (Ranked 178)  

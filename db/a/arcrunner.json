@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1356,9 +1356,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_CITY",
@@ -1532,9 +1532,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1579,8 +1579,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:03:36.4181456+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:03:09.5264001+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:00:32.6935794+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:03:36.4182029+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:59:20.6549391+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:03:09.5264231+00:00"
 }

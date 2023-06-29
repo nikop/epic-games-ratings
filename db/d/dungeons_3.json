@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2284,9 +2284,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 22078,
+  "EOS_Progressed": 22079,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -9624,6 +9624,11 @@
       "Time": "2023-06-29T22:06:23.521431+00:00",
       "NumProgressed": 22078,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-06-29T23:05:06.0296403+00:00",
+      "NumProgressed": 22079,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 60,
@@ -9635,7 +9640,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 13026
+      "UsersEstimate": 13027
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -9651,7 +9656,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 12805
+      "UsersEstimate": 12806
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -9699,7 +9704,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 5740
+      "UsersEstimate": 5741
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -9723,7 +9728,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 7727
+      "UsersEstimate": 7728
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -9747,7 +9752,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11039
+      "UsersEstimate": 11040
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -9755,7 +9760,7 @@
       "Name": "Spawner Killer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -9843,7 +9848,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 9714
+      "UsersEstimate": 9715
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -9971,7 +9976,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -10003,7 +10008,7 @@
       "Name": "A little something extra",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -10019,7 +10024,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 9935
+      "UsersEstimate": 9936
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -10075,7 +10080,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -10114,15 +10119,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 22078,
+      "Progressed": 22079,
       "Completed": 183
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-06-29T16:59:10.5535042+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:06:23.5214305+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:05:06.0296398+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:09.3371298+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:00:00.5936438+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:06:23.5215416+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:58:58.7548023+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:05:06.0297163+00:00"
 }

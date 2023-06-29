@@ -1152,10 +1152,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4334,
       "NumberOfAwardsMax": 1862
+    },
+    {
+      "Time": "2023-06-29T22:57:08.5641956+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4341,
+      "NumberOfAwardsMax": 1862
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4334,
+  "NumberOfAwards": 4341,
   "NumberOfAwardsMax": 1862,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1181,7 +1187,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 199
+      "Count": 206
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1232,9 +1238,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 674821,
+  "EOS_Progressed": 674923,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 21259,
+  "EOS_NewPlayers": 21216,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5257,6 +5263,11 @@
       "Time": "2023-06-29T22:05:40.7256818+00:00",
       "NumProgressed": 674821,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-06-29T23:04:37.2139433+00:00",
+      "NumProgressed": 674923,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 75,
@@ -5268,7 +5279,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 80979
+      "UsersEstimate": 80991
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -5300,7 +5311,7 @@
       "Name": "Assemble Your Crew",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_BLAST_MASTERY",
@@ -5308,7 +5319,7 @@
       "Name": "Blast Mastery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -5324,7 +5335,7 @@
       "Name": "Cardiac Arrest!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_CASH_OUT",
@@ -5332,7 +5343,7 @@
       "Name": "Cash Out",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "ACHIEVEMENT_COMBAT_VETERAN",
@@ -5348,7 +5359,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -5356,7 +5367,7 @@
       "Name": "Condemned to Repeat It",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_CRAFTY",
@@ -5364,7 +5375,7 @@
       "Name": "Crafty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -5372,7 +5383,7 @@
       "Name": "Curios and Relics",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -5388,7 +5399,7 @@
       "Name": "Double Down",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_ED_ECATED",
@@ -5404,7 +5415,7 @@
       "Name": "Eureka!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -5412,7 +5423,7 @@
       "Name": "For the Republic",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACHIEVEMENT_GI_BLUES",
@@ -5420,7 +5431,7 @@
       "Name": "G.I. Blues",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -5452,7 +5463,7 @@
       "Name": "Having a Ball",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "ACHIEVEMENT_HOMETOWN_HERO",
@@ -5468,7 +5479,7 @@
       "Name": "In a Foreign Land",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_JURY_RIGGER",
@@ -5476,7 +5487,7 @@
       "Name": "Jury Rigger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -5492,7 +5503,7 @@
       "Name": "Lead Dealer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -5500,7 +5511,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -5508,7 +5519,7 @@
       "Name": "Love the Bomb",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "ACHIEVEMENT_MAKE_UP_YOUR_MIND",
@@ -5516,7 +5527,7 @@
       "Name": "Make up your Mind",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_MAKING_FRIENDS",
@@ -5524,7 +5535,7 @@
       "Name": "Making Friends",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_MASTER_OF_THE_ARSENAL",
@@ -5532,7 +5543,7 @@
       "Name": "Master of the Arsenal",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_MASTER_OF_THE_MOJAVE",
@@ -5540,7 +5551,7 @@
       "Name": "Master of the Mojave",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_MAY_MY_HAND_FORGET_ITS_SKILL",
@@ -5564,7 +5575,7 @@
       "Name": "New Kid",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -5572,7 +5583,7 @@
       "Name": "New Vegas Samurai",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_NO_GODS_NO_MASTERS",
@@ -5580,7 +5591,7 @@
       "Name": "No Gods, No Masters",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "ACHIEVEMENT_NO_TUMBLER_FUMBLER",
@@ -5588,7 +5599,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -5596,7 +5607,7 @@
       "Name": "Old-Tyme Brawler",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACHIEVEMENT_OL_BUDDY_OL_PAL",
@@ -5604,7 +5615,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -5612,7 +5623,7 @@
       "Name": "One Armed Bandit",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "ACHIEVEMENT_OUTSMARTED",
@@ -5620,7 +5631,7 @@
       "Name": "Outsmarted",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_OUTSTANDING_ORATOR",
@@ -5628,7 +5639,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -5636,7 +5647,7 @@
       "Name": "O Daughter of Babylon",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "ACHIEVEMENT_PROS_ONLY",
@@ -5660,7 +5671,7 @@
       "Name": "Restore Our Fortunes",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_RETURN_TO_SENDER",
@@ -5676,7 +5687,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -5692,7 +5703,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -5700,7 +5711,7 @@
       "Name": "Sierra Souvenir Aficionado",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_SPINAL_TAPPED",
@@ -5708,7 +5719,7 @@
       "Name": "Spinal-Tapped",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_STI_MPLY_AMAZING",
@@ -5716,7 +5727,7 @@
       "Name": "Stim-ply Amazing",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "ACHIEVEMENT_TALENT_POOL",
@@ -5724,7 +5735,7 @@
       "Name": "Talent Pool",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
@@ -5732,7 +5743,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -5740,7 +5751,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -5748,7 +5759,7 @@
       "Name": "The Boss",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -5780,7 +5791,7 @@
       "Name": "The Whole Gang\u0027s Here",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACHIEVEMENT_UP_AND_COMER",
@@ -5788,7 +5799,7 @@
       "Name": "Up and Comer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -5812,7 +5823,7 @@
       "Name": "Volare!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13498
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -5820,7 +5831,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -5836,7 +5847,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6748
+      "UsersEstimate": 6749
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -5860,29 +5871,29 @@
       "Name": "You Run Barter Town",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20245
+      "UsersEstimate": 20248
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 674821,
-      "Completed": 75
+      "Progressed": 674923,
+      "Completed": 76
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 674821,
+      "Progressed": 674923,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-06-29T19:57:27.845333+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:05:40.7256812+00:00",
+  "LastChanged": "2023-06-29T22:57:08.5641955+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:04:37.2139428+00:00",
   "LastUpdate_AppInfo": "2023-06-29T18:57:08.2648645+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:57:19.5924651+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:05:40.7257962+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:57:08.564196+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:04:37.2140235+00:00"
 }

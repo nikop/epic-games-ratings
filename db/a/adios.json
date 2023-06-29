@@ -72,10 +72,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63970,
-  "EOS_Completed": 588,
-  "EOS_NewPlayers": 1146,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 63971,
+  "EOS_Completed": 589,
+  "EOS_NewPlayers": 1139,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
@@ -7597,6 +7597,11 @@
       "Time": "2023-06-29T22:07:16.9900519+00:00",
       "NumProgressed": 63970,
       "NumCompleted": 588
+    },
+    {
+      "Time": "2023-06-29T23:05:43.9523899+00:00",
+      "NumProgressed": 63971,
+      "NumCompleted": 589
     }
   ],
   "TotalAchievements": 25,
@@ -7640,7 +7645,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14073
+      "UsersEstimate": 14074
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -7664,7 +7669,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "Fair\u0027sFair",
@@ -7807,16 +7812,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 63970,
-      "Completed": 588
+      "Progressed": 63971,
+      "Completed": 589
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:07:16.9900515+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:05:43.9523894+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:01:37.1981705+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:07:16.9901352+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:00:06.9938437+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:05:43.9524409+00:00"
 }

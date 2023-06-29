@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122422,
+  "EOS_Progressed": 122425,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7936,6 +7936,11 @@
       "Time": "2023-06-29T22:07:25.9032621+00:00",
       "NumProgressed": 122422,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-29T23:05:50.8681938+00:00",
+      "NumProgressed": 122425,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8003,7 +8008,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29381
+      "UsersEstimate": 29382
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8027,7 +8032,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34278
+      "UsersEstimate": 34279
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8059,7 +8064,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24484
+      "UsersEstimate": 24485
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8083,7 +8088,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18364
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -8091,7 +8096,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13466
+      "UsersEstimate": 13467
     },
     {
       "ID": "ACH_CUNO",
@@ -8139,7 +8144,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7345
+      "UsersEstimate": 7346
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -8163,7 +8168,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17139
+      "UsersEstimate": 17140
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -8266,15 +8271,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122422,
+      "Progressed": 122425,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:07:25.9032616+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:05:50.8681933+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:59:53.6112111+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:07:25.9033495+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:58:54.2848294+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:05:50.8682511+00:00"
 }

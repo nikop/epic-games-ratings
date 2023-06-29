@@ -6,11 +6,11 @@ Rating: 4.07 (Ranked 895)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,434 |
-| World Map | 79.00% | ~1,205 |
-| Temple of Eternals | 57.00% | ~869 |
+| World Map | 79.00% | ~1,206 |
+| Temple of Eternals | 57.00% | ~870 |
 | Prestigious | 54.00% | ~824 |
-| Fellowship Power | 41.00% | ~625 |
-| Guild Power | 25.00% | ~381 |
+| Fellowship Power | 41.00% | ~626 |
+| Guild Power | 25.00% | ~382 |
 | Prestigious x10 | 21.00% | ~320 |
 | The game is on | 19.00% | ~290 |
 | Exotic Merchant | 17.00% | ~259 |
@@ -18,16 +18,16 @@ Rating: 4.07 (Ranked 895)
 | Miner Clicker | 16.00% | ~244 |
 | Full Party | 15.00% | ~229 |
 | Inspection | 15.00% | ~229 |
-| Dragon Master | 14.00% | ~214 |
 | Enlightenment | 14.00% | ~214 |
 | Hero inspection | 14.00% | ~214 |
+| Dragon Master | 13.00% | ~198 |
 | Lieutenant | 13.00% | ~198 |
 | Milestone collector | 12.00% | ~183 |
 | Mysterious Rock | 12.00% | ~183 |
 | Natural Talent | 12.00% | ~183 |
 | Superior | 12.00% | ~183 |
 | The Unstoppable | 12.00% | ~183 |
-| Scientist | 10.00% | ~152 |
+| Scientist | 11.00% | ~168 |
 | Challenger | 9.00% | ~137 |
 | Doing My Part | 9.00% | ~137 |
 | Hunter | 9.00% | ~137 |
@@ -56,12 +56,12 @@ Rating: 4.07 (Ranked 895)
 | Dragon Slayer | 4.00% | ~61 |
 | Lock And Load | 4.00% | ~61 |
 | Sailor | 3.00% | ~46 |
-| Active Member | 2.00% | ~30 |
-| Arena Challenger | 2.00% | ~30 |
-| Ebony Jungle Liberator | 2.00% | ~30 |
-| Legendary | 2.00% | ~30 |
-| The Alchemist | 2.00% | ~30 |
-| What lies behind the bush | 2.00% | ~30 |
+| Active Member | 2.00% | ~31 |
+| Arena Challenger | 2.00% | ~31 |
+| Ebony Jungle Liberator | 2.00% | ~31 |
+| Legendary | 2.00% | ~31 |
+| The Alchemist | 2.00% | ~31 |
+| What lies behind the bush | 2.00% | ~31 |
 | Mythic Power | 1.00% | ~15 |
 | Training makes a Pro player | 0.70% | ~11 |
 | Transmute | 0.60% | ~9 |
@@ -76,12 +76,12 @@ Rating: 4.07 (Ranked 895)
 | Conqueror | 0.30% | ~5 |
 | Enhanced War Machines | 0.30% | ~5 |
 | Titan Power | 0.30% | ~5 |
-| Ultimate War Machines | 0.20% | ~3 |
+| Ultimate War Machines | 0.30% | ~5 |
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,525 (Ranked 168)  
+Progressed: 1,526 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-26 | 1,507 | 1 |
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
-| 2023-06-29 | 1,525 | 1 |
+| 2023-06-29 | 1,526 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,687 |
-| That's a Grand Army | 8.00% | ~5,055 |
-| That is mine! | 8.00% | ~5,055 |
-| Victorious! | 8.00% | ~5,055 |
-| Brothers in Arms | 6.00% | ~3,791 |
-| That's a Grand Navy | 6.00% | ~3,791 |
-| Seriously?! | 6.00% | ~3,791 |
-| For the Glory | 5.00% | ~3,159 |
-| Cold War | 4.00% | ~2,527 |
-| True Catholic | 4.00% | ~2,527 |
+| Until death do us apart | 9.00% | ~5,688 |
+| That's a Grand Army | 8.00% | ~5,056 |
+| That is mine! | 8.00% | ~5,056 |
+| Victorious! | 8.00% | ~5,056 |
+| Brothers in Arms | 6.00% | ~3,792 |
+| That's a Grand Navy | 6.00% | ~3,792 |
+| Seriously?! | 6.00% | ~3,792 |
+| For the Glory | 5.00% | ~3,160 |
+| Cold War | 4.00% | ~2,528 |
+| True Catholic | 4.00% | ~2,528 |
 | Defender of the Faith | 3.00% | ~1,896 |
 | It's all about the money | 3.00% | ~1,896 |
 | Respected | 3.00% | ~1,896 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~569 |
 | Isn't this the way to India? | 0.90% | ~569 |
 | Market Control | 0.90% | ~569 |
-| Down Under | 0.80% | ~505 |
-| Trustworthy | 0.80% | ~505 |
+| Down Under | 0.80% | ~506 |
+| Trustworthy | 0.80% | ~506 |
 | Electable! | 0.70% | ~442 |
 | All belongs to Mother Russia | 0.60% | ~379 |
 | At every continent | 0.60% | ~379 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,184 (Ranked 77)  
+Progressed: 63,199 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,10 +431,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
-| 2023-06-29 | 63,184 | 0 |
+| 2023-06-29 | 63,199 | 0 |
 ## Awards
 Max (Educational): 5,476  (Ranked 61)  
-Sum: 45,212 (Ranked 27)  
+Sum: 45,214 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -445,7 +445,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 5,152 |
 | This game is Relaxing | 5,073 |
 | This game has Competitive Players | 4,912 |
-| This game has Amazing Storytelling | 4,648 |
+| This game has Amazing Storytelling | 4,650 |
 | This game has Amazing Characters | 4,298 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -614,4 +614,4 @@ Diff (max vs sum): 34
 | 2023-06-26 | 4.69 | - | 5,452 | 45,064 |
 | 2023-06-27 | 4.69 | - | 5,461 | 45,122 |
 | 2023-06-28 | 4.69 | - | 5,469 | 45,178 |
-| 2023-06-29 | 4.69 | - | 5,476 | 45,212 |
+| 2023-06-29 | 4.69 | - | 5,476 | 45,214 |

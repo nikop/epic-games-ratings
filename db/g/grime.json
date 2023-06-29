@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 606,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -600,6 +600,11 @@
       "Time": "2023-06-29T19:03:24.5720249+00:00",
       "NumProgressed": 605,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T23:02:26.3073184+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -675,15 +680,15 @@
       "Name": "Taste",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 127
+      "UsersEstimate": 133
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -707,7 +712,7 @@
       "Name": "Shapely",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -723,7 +728,7 @@
       "Name": "Glare",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -771,7 +776,7 @@
       "Name": "Celebration",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -795,7 +800,7 @@
       "Name": "Watcher",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -825,9 +830,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 170
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -946,21 +951,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 21
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 606,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:03:18.1022554+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:02:26.3073177+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.6465863+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:01:29.2513061+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:03:18.1023161+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:00:00.684759+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:02:26.3073463+00:00"
 }

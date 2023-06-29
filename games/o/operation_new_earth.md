@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 49.00% | ~137 |
-| Defenses Online | 45.00% | ~126 |
-| Facility Online | 42.00% | ~117 |
+| It's Good to have Allies | 49.00% | ~138 |
+| Defenses Online | 44.00% | ~124 |
+| Facility Online | 41.00% | ~115 |
 | Corporal | 29.00% | ~81 |
-| Covert Operative | 22.00% | ~61 |
+| Covert Operative | 22.00% | ~62 |
 | Sergeant | 21.00% | ~59 |
 | Stocking Up | 16.00% | ~45 |
 | Lieutenant | 15.00% | ~42 |
 | On Target | 15.00% | ~42 |
-| Getting Deployment | 13.00% | ~36 |
-| Infantry Reporting | 12.00% | ~33 |
+| Getting Deployment | 13.00% | ~37 |
+| Infantry Reporting | 12.00% | ~34 |
 | Fighting for Survival | 11.00% | ~31 |
 | Keeping Busy | 11.00% | ~31 |
-| Silver Competitor | 9.00% | ~25 |
-| Captain | 8.00% | ~22 |
-| Factory Expansion | 8.00% | ~22 |
+| Silver Competitor | 10.00% | ~28 |
 | Exterminator | 7.00% | ~20 |
+| Captain | 7.00% | ~20 |
 | Brothers in Arms | 7.00% | ~20 |
+| Factory Expansion | 7.00% | ~20 |
 | Moving On Up | 5.00% | ~14 |
 | Know The Enemy | 4.00% | ~11 |
 | Player Betrayer | 4.00% | ~11 |
-| Gold Achiever | 3.00% | ~8 |
 | Silver Achiever | 3.00% | ~8 |
 | Advanced Warfare | 3.00% | ~8 |
 | Major | 3.00% | ~8 |
-| Colonel | 3.00% | ~8 |
 | Battle Ready | 3.00% | ~8 |
-| Control the Skies | 3.00% | ~8 |
+| Gold Achiever | 2.00% | ~6 |
+| Colonel | 2.00% | ~6 |
 | General | 2.00% | ~6 |
 | Seek & Destroy | 2.00% | ~6 |
 | Resourceful | 2.00% | ~6 |
+| Control the Skies | 2.00% | ~6 |
 | Titan Tanks | 1.00% | ~3 |
 | Shock Troops | 1.00% | ~3 |
 | Jet Troops | 1.00% | ~3 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 244)  
+Progressed: 281 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 245 | 0 |
 | 2023-06-27 | 257 | 0 |
 | 2023-06-28 | 267 | 0 |
-| 2023-06-29 | 279 | 0 |
+| 2023-06-29 | 281 | 0 |

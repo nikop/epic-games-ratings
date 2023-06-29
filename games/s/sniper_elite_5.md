@@ -5,10 +5,11 @@ Rating: 4.45 (Ranked 618)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| No Stone Unturned | 0.20% | ~6 |
+| Resourceful | 0.20% | ~6 |
 | The Kraken Wakes | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
 | Liberté | 0.10% | ~3 |
-| No Stone Unturned | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
 | Enemy at the Gates | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
@@ -17,6 +18,7 @@ Rating: 4.45 (Ranked 618)
 | Strategist | 0.10% | ~3 |
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
+| Skirmisher | 0.10% | ~3 |
 | Sharpshooter | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
@@ -24,7 +26,6 @@ Rating: 4.45 (Ranked 618)
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
-| Resourceful | 0.10% | ~3 |
 | Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
@@ -37,6 +38,7 @@ Rating: 4.45 (Ranked 618)
 | It's Starting to Crack | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Change the Channel | 0.10% | ~3 |
+| Don't hold your breath | 0.10% | ~3 |
 | Taking it back | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
@@ -55,7 +57,6 @@ Rating: 4.45 (Ranked 618)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Skirmisher | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
@@ -63,7 +64,6 @@ Rating: 4.45 (Ranked 618)
 | It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
-| Don't hold your breath | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |

@@ -37,10 +37,10 @@
 | Ember | 15.00% | ~17 |
 | Turquoise | 15.00% | ~17 |
 | Verse | 14.00% | ~16 |
+| The Droid | 12.00% | ~13 |
 | Iron | 12.00% | ~13 |
-| The Droid | 11.00% | ~12 |
+| The Bomber | 9.00% | ~10 |
 | Tested | 9.00% | ~10 |
-| The Bomber | 8.00% | ~9 |
 | The Astronaut | 6.00% | ~7 |
 | Highway to Hell | 6.00% | ~7 |
 | Power Overwhelming | 5.00% | ~6 |
@@ -68,6 +68,7 @@
 | Rocket | 0.90% | ~1 |
 | Inferno | 0.90% | ~1 |
 | Sapphire | 0.90% | ~1 |
+| Adamantite | 0.90% | ~1 |
 | Warp Drive Spacecraft | 0.90% | ~1 |
 | Wu-wei | 0.90% | ~1 |
 | Satellite | 0.90% | ~1 |
@@ -75,7 +76,6 @@
 | Divinity | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 | Encore | 0.00% | ~0 |
-| Adamantite | 0.00% | ~0 |
 | Zombie Exterminator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 288)  

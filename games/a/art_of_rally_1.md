@@ -9,7 +9,7 @@ Number of Ratings: 56  (23.09.2022)
 | light attack | 96.00% | ~9,756 |
 | keep it tidy | 77.00% | ~7,825 |
 | podium | 72.00% | ~7,317 |
-| medium attack | 59.00% | ~5,996 |
+| medium attack | 60.00% | ~6,097 |
 | brail | 56.00% | ~5,691 |
 | good drivers have dead flies on the side windows | 41.00% | ~4,166 |
 | grocery-getter | 39.00% | ~3,963 |

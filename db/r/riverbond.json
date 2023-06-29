@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520848,
+  "EOS_Progressed": 520849,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7680,6 +7680,11 @@
       "Time": "2023-06-29T22:02:14.6685231+00:00",
       "NumProgressed": 520848,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-06-29T23:00:33.0572035+00:00",
+      "NumProgressed": 520849,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 57,
@@ -7947,7 +7952,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177088
+      "UsersEstimate": 177089
     },
     {
       "ID": "4",
@@ -8035,7 +8040,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177088
+      "UsersEstimate": 177089
     },
     {
       "ID": "5",
@@ -8067,7 +8072,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239590
+      "UsersEstimate": 239591
     },
     {
       "ID": "53",
@@ -8146,15 +8151,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 520848,
+      "Progressed": 520849,
       "Completed": 435
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-29T22:02:14.6685223+00:00",
+  "LastChanged_Achievements": "2023-06-29T23:00:33.0572031+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:20.6540643+00:00",
-  "LastUpdate_Ratings": "2023-06-29T21:57:40.571723+00:00",
-  "LastUpdate_Achievements": "2023-06-29T22:02:14.6686191+00:00"
+  "LastUpdate_Ratings": "2023-06-29T22:57:23.3731824+00:00",
+  "LastUpdate_Achievements": "2023-06-29T23:00:33.0572777+00:00"
 }
