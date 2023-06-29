@@ -26,11 +26,11 @@
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
+| We Don't Need No Education | 19.00% | ~44 |
 | Get Electrified | 19.00% | ~44 |
 | Artfully Done | 18.00% | ~41 |
 | Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
-| We Don't Need No Education | 18.00% | ~41 |
 | Under One Roof | 15.00% | ~34 |
 | Established Fame | 15.00% | ~34 |
 | Cashflow Chief | 15.00% | ~34 |

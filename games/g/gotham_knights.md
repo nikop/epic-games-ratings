@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,965 |
+| First Step Into the Knight | 6.00% | ~3,966 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,644 |
 | Loose Ends | 4.00% | ~2,644 |
 | The Batman Family | 3.00% | ~1,983 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 857)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,091 (Ranked 72)  
+Progressed: 66,093 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,14 +137,14 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-26 | 66,019 | 98 |
 | 2023-06-27 | 66,058 | 98 |
 | 2023-06-28 | 66,086 | 99 |
-| 2023-06-29 | 66,091 | 99 |
+| 2023-06-29 | 66,093 | 99 |
 ## Awards
-Max (Great Boss Battles): 2,394  (Ranked 100)  
-Sum: 3,964 (Ranked 137)  
+Max (Great Boss Battles): 2,401  (Ranked 100)  
+Sum: 3,971 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,394 |
+| This game has Great Boss Battles | 2,401 |
 | This game is Extremely Fun | 203 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Relaxing | 201 |
@@ -285,4 +285,4 @@ Diff (max vs sum): -37
 | 2023-06-26 | 4.17 | 2,381 | 3,942 |
 | 2023-06-27 | 4.17 | 2,387 | 3,951 |
 | 2023-06-28 | 4.17 | 2,394 | 3,962 |
-| 2023-06-29 | 4.17 | 2,394 | 3,964 |
+| 2023-06-29 | 4.17 | 2,401 | 3,971 |

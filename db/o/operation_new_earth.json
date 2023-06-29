@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -871,6 +871,11 @@
       "Time": "2023-06-29T02:24:28.8868598+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T05:04:35.8865087+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -960,9 +965,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "objective_headquarters_15",
@@ -970,7 +975,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_headquarters_20",
@@ -984,9 +989,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1002,7 +1007,7 @@
       "Name": "Sergeant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1010,7 +1015,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1056,9 +1061,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1066,7 +1071,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1106,7 +1111,7 @@
       "Name": "On Target",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1122,7 +1127,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1138,7 +1143,7 @@
       "Name": "Defenses Online",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1185,14 +1190,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 271,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:04:30.8032212+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:04:35.8865081+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-29T04:00:49.2767338+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:04:30.8032577+00:00"
+  "LastUpdate_Ratings": "2023-06-29T05:00:52.9702711+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:04:35.8865407+00:00"
 }

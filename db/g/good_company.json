@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5057,
+  "EOS_Progressed": 5058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1904,6 +1904,11 @@
       "Time": "2023-06-28T13:20:48.6035845+00:00",
       "NumProgressed": 5057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T05:03:52.7917753+00:00",
+      "NumProgressed": 5058,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2027,7 +2032,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2305,9 +2310,9 @@
       "ID": "ach_frp_many_products2",
       "SetID": "8cb3id7",
       "Name": "Salesperson",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_frp_many_products3",
@@ -2522,15 +2527,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5057,
+      "Progressed": 5058,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:03:47.9445615+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:03:52.7917747+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.7705424+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:59:22.803556+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:03:47.9446614+00:00"
+  "LastUpdate_Ratings": "2023-06-29T04:59:22.4261016+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:03:52.7918884+00:00"
 }

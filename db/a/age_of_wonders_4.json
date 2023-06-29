@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -258,7 +258,7 @@
   "Tags": [],
   "EOS_Progressed": 4868,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4837,9 +4837,9 @@
       "ID": "27",
       "SetID": "3aa2279",
       "Name": "Digging for Treasure",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "28",
@@ -4909,9 +4909,9 @@
       "ID": "35",
       "SetID": "3aa2279",
       "Name": "I Want to Break Free",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "36",
@@ -5037,9 +5037,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "46",
@@ -5100,8 +5100,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:05:52.4044417+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:05:57.7786605+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:59:53.6734445+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:05:52.4045162+00:00"
+  "LastUpdate_Ratings": "2023-06-29T04:59:54.6152004+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:05:57.7787321+00:00"
 }

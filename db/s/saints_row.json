@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2856,9 +2856,9 @@
       "Count": 1045
     }
   ],
-  "EOS_Progressed": 49925,
+  "EOS_Progressed": 49927,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1721,
+  "EOS_NewPlayers": 1714,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10191,6 +10191,11 @@
       "Time": "2023-06-29T04:03:24.3524336+00:00",
       "NumProgressed": 49925,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-29T05:03:28.0558661+00:00",
+      "NumProgressed": 49927,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 53,
@@ -10218,7 +10223,7 @@
       "Name": "Quality Time",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -10226,7 +10231,7 @@
       "Name": "Shopping Spree",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -10250,7 +10255,7 @@
       "Name": "Finders Keepers",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "complet_epilogue_mission",
@@ -10274,7 +10279,7 @@
       "Name": "Always Be Hustling",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "complete_challenge_packs",
@@ -10354,7 +10359,7 @@
       "Name": "Bonus Round",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "disorganized_crime_instaces",
@@ -10378,7 +10383,7 @@
       "Name": "A Young Empire",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8986
+      "UsersEstimate": 8987
     },
     {
       "ID": "empire_tier_3",
@@ -10386,7 +10391,7 @@
       "Name": "Power Players",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "empire_tier_4",
@@ -10418,7 +10423,7 @@
       "Name": "Work Ethic",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8487
+      "UsersEstimate": 8488
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -10434,7 +10439,7 @@
       "Name": "Kitted Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "get_betrayed",
@@ -10450,7 +10455,7 @@
       "Name": "Performance Review",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12980
+      "UsersEstimate": 12981
     },
     {
       "ID": "hit_max_level",
@@ -10498,7 +10503,7 @@
       "Name": "Making a Name",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 12481
+      "UsersEstimate": 12482
     },
     {
       "ID": "one_third_purple",
@@ -10562,7 +10567,7 @@
       "Name": "Community Outreach",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -10618,29 +10623,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 49925,
+      "Progressed": 49927,
       "Completed": 26
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 21562,
-      "Completed": 2278
+      "Progressed": 21564,
+      "Completed": 2279
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-06-28T07:00:05.291566+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:03:24.3524331+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:03:28.0558656+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.0215524+00:00",
-  "LastUpdate_Ratings": "2023-06-29T04:00:05.7248789+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:03:24.3525255+00:00"
+  "LastUpdate_Ratings": "2023-06-29T05:00:07.2621385+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:03:28.0559553+00:00"
 }

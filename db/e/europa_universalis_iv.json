@@ -6466,10 +6466,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45178,
       "NumberOfAwardsMax": 5469
+    },
+    {
+      "Time": "2023-06-29T04:57:41.2295712+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45188,
+      "NumberOfAwardsMax": 5469
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45178,
+  "NumberOfAwards": 45188,
   "NumberOfAwardsMax": 5469,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6519,7 +6525,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5063
+      "Count": 5073
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6540,9 +6546,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 62818,
+  "EOS_Progressed": 62824,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3666,
+  "EOS_NewPlayers": 3660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14000,6 +14006,11 @@
       "Time": "2023-06-29T04:07:06.5625946+00:00",
       "NumProgressed": 62818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T05:07:12.1022252+00:00",
+      "NumProgressed": 62824,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15011,7 +15022,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "achievement_grand_coalition",
@@ -16291,7 +16302,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -16707,7 +16718,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -16842,21 +16853,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 62818,
+      "Progressed": 62824,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 62818,
+      "Progressed": 62824,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-06-28T22:58:01.0389915+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:07:06.5625938+00:00",
+  "LastChanged": "2023-06-29T04:57:41.229571+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:07:12.1022245+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:17.6471753+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:57:41.9218892+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:07:06.5638861+00:00"
+  "LastUpdate_Ratings": "2023-06-29T04:57:41.2295718+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:07:12.1034697+00:00"
 }

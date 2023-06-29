@@ -6,30 +6,30 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~706,850 |
-| The Blues | 85.00% | ~606,892 |
-| Fast | 66.00% | ~471,233 |
-| Healthbar | 55.00% | ~392,695 |
-| Force Cube | 53.00% | ~378,415 |
-| Double Jump | 48.00% | ~342,715 |
-| Regeneration | 47.00% | ~335,575 |
-| Climb the hill | 42.00% | ~299,876 |
-| Triple Jump | 42.00% | ~299,876 |
-| Through the fire pipe | 38.00% | ~271,316 |
-| MacGuffin | 37.00% | ~264,176 |
-| Just once | 36.00% | ~257,036 |
-| Armor | 30.00% | ~214,197 |
-| True holy spirit | 27.00% | ~192,777 |
-| That's how electronics work obviously | 26.00% | ~185,637 |
-| Force Cube Catapult | 25.00% | ~178,498 |
-| Holy Sword | 23.00% | ~164,218 |
-| Telefrag | 22.00% | ~157,078 |
-| Freed from prison | 21.00% | ~149,938 |
-| Stomp | 21.00% | ~149,938 |
-| Double Health | 18.00% | ~128,518 |
-| Buckle | 17.00% | ~121,378 |
-| Green Keycard | 17.00% | ~121,378 |
-| Rattle Hag | 15.00% | ~107,098 |
+| Out of bed | 99.00% | ~706,855 |
+| The Blues | 85.00% | ~606,896 |
+| Fast | 66.00% | ~471,237 |
+| Healthbar | 55.00% | ~392,697 |
+| Force Cube | 53.00% | ~378,417 |
+| Double Jump | 48.00% | ~342,718 |
+| Regeneration | 47.00% | ~335,578 |
+| Climb the hill | 42.00% | ~299,878 |
+| Triple Jump | 42.00% | ~299,878 |
+| Through the fire pipe | 38.00% | ~271,318 |
+| MacGuffin | 37.00% | ~264,178 |
+| Just once | 36.00% | ~257,038 |
+| Armor | 30.00% | ~214,198 |
+| True holy spirit | 27.00% | ~192,779 |
+| That's how electronics work obviously | 26.00% | ~185,639 |
+| Force Cube Catapult | 25.00% | ~178,499 |
+| Holy Sword | 23.00% | ~164,219 |
+| Telefrag | 22.00% | ~157,079 |
+| Freed from prison | 21.00% | ~149,939 |
+| Stomp | 21.00% | ~149,939 |
+| Double Health | 18.00% | ~128,519 |
+| Buckle | 17.00% | ~121,379 |
+| Green Keycard | 17.00% | ~121,379 |
+| Rattle Hag | 15.00% | ~107,099 |
 | All Shells | 14.00% | ~99,959 |
 | Beam | 14.00% | ~99,959 |
 | 9 | 13.00% | ~92,819 |
@@ -42,21 +42,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~78,539 |
 | Infiltrated | 11.00% | ~78,539 |
 | Robbed | 11.00% | ~78,539 |
-| Payback | 10.00% | ~71,399 |
-| Got the coins back | 10.00% | ~71,399 |
-| Cave Flies | 10.00% | ~71,399 |
-| Gold Scam | 10.00% | ~71,399 |
-| Gold Scam Uncovered | 10.00% | ~71,399 |
-| Translocator | 10.00% | ~71,399 |
-| Yellow Shot Button | 10.00% | ~71,399 |
-| Fire Flies | 9.00% | ~64,259 |
-| Moon Door | 9.00% | ~64,259 |
-| Momentum | 9.00% | ~64,259 |
-| Panic Lights | 9.00% | ~64,259 |
-| Through the tiny pipe | 8.00% | ~57,119 |
-| Win! | 8.00% | ~57,119 |
-| The real real teleported man | 7.00% | ~49,979 |
-| Well deserved | 6.00% | ~42,839 |
+| Payback | 10.00% | ~71,400 |
+| Got the coins back | 10.00% | ~71,400 |
+| Cave Flies | 10.00% | ~71,400 |
+| Gold Scam | 10.00% | ~71,400 |
+| Gold Scam Uncovered | 10.00% | ~71,400 |
+| Translocator | 10.00% | ~71,400 |
+| Yellow Shot Button | 10.00% | ~71,400 |
+| Fire Flies | 9.00% | ~64,260 |
+| Moon Door | 9.00% | ~64,260 |
+| Momentum | 9.00% | ~64,260 |
+| Panic Lights | 9.00% | ~64,260 |
+| Through the tiny pipe | 8.00% | ~57,120 |
+| Win! | 8.00% | ~57,120 |
+| The real real teleported man | 7.00% | ~49,980 |
+| Well deserved | 6.00% | ~42,840 |
 | Happiness | 3.00% | ~21,420 |
 | Super Sword | 3.00% | ~21,420 |
 | All Chests | 2.00% | ~14,280 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~714 |
 | DLC: Top of the world | 0.10% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,990 (Ranked 16)  
+Progressed: 713,995 (Ranked 16)  
 Completed: 701 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 701 (0.10%) (Ranked 177)
 | 2023-06-26 | 713,584 | 700 |
 | 2023-06-27 | 713,776 | 701 |
 | 2023-06-28 | 713,964 | 701 |
-| 2023-06-29 | 713,990 | 701 |
+| 2023-06-29 | 713,995 | 701 |
 ## Awards
 Max (Challenging Puzzles): 7,631  (Ranked 42)  
 Sum: 9,941 (Ranked 81)  

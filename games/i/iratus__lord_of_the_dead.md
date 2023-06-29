@@ -6,14 +6,14 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~28,474 |
-| Blood Moon | 73.00% | ~24,454 |
-| Path of the Necromancer | 66.00% | ~22,109 |
-| Chainbreaker - I | 60.00% | ~20,099 |
-| Cursed Creature | 57.00% | ~19,094 |
-| Extraction | 57.00% | ~19,094 |
-| Chainbreaker - II | 55.00% | ~18,424 |
-| Necromancer's Apprentice | 51.00% | ~17,084 |
+| Improvement | 85.00% | ~28,475 |
+| Blood Moon | 73.00% | ~24,455 |
+| Path of the Necromancer | 66.00% | ~22,110 |
+| Chainbreaker - I | 60.00% | ~20,100 |
+| Cursed Creature | 57.00% | ~19,095 |
+| Extraction | 57.00% | ~19,095 |
+| Chainbreaker - II | 55.00% | ~18,425 |
+| Necromancer's Apprentice | 51.00% | ~17,085 |
 | Keeper of Keys | 47.00% | ~15,745 |
 | Distillation | 43.00% | ~14,405 |
 | Mountain King - I | 42.00% | ~14,070 |
@@ -76,13 +76,13 @@ Number of Ratings: 10,109  (23.09.2022)
 | Evil Always Wins! | 2.00% | ~670 |
 | Graveyard Call - II | 2.00% | ~670 |
 | Sweet Revenge | 2.00% | ~670 |
-| Graveyard Call - III | 0.90% | ~301 |
+| Graveyard Call - III | 0.90% | ~302 |
 | I'll Be Back! | 0.80% | ~268 |
 | Doctorate in Potion Brewing | 0.80% | ~268 |
-| Unrivaled | 0.50% | ~167 |
-| Renowned Researcher | 0.10% | ~33 |
+| Unrivaled | 0.50% | ~168 |
+| Renowned Researcher | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,499 (Ranked 89)  
+Progressed: 33,500 (Ranked 89)  
 Completed: 22 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 22 (0.07%) (Ranked 190)
 | 2023-06-26 | 33,319 | 22 |
 | 2023-06-27 | 33,403 | 22 |
 | 2023-06-28 | 33,487 | 22 |
-| 2023-06-29 | 33,499 | 22 |
+| 2023-06-29 | 33,500 | 22 |
 ## Awards
 Max (Character Customization): 2,139  (Ranked 105)  
 Sum: 4,144 (Ranked 136)  

@@ -2,7 +2,7 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 25,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 478,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.88,
   "NumberOfRatings": 1319,
   "RatingHistory": [
     {
@@ -2096,6 +2096,12 @@
       "Rating": 4.87,
       "NumberOfAwards": 2055,
       "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2023-06-29T04:58:37.8847658+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 2055,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
@@ -2187,8 +2193,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-06-27T10:58:26.2127671+00:00",
+  "LastChanged": "2023-06-29T04:58:37.8847656+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:57.1740695+00:00",
-  "LastUpdate_Ratings": "2023-06-29T03:58:37.7380966+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:05:31.289747+00:00"
+  "LastUpdate_Ratings": "2023-06-29T04:58:37.8847663+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:05:36.8265511+00:00"
 }

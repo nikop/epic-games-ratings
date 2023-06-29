@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 27940,
+  "EOS_Progressed": 27942,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7601,6 +7601,11 @@
       "Time": "2023-06-29T04:06:45.4919129+00:00",
       "NumProgressed": 27940,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-29T05:06:50.6514442+00:00",
+      "NumProgressed": 27942,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -7612,7 +7617,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -7772,7 +7777,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -7843,7 +7848,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 27940,
+      "Progressed": 27942,
       "Completed": 20
     }
   ],
@@ -7851,8 +7856,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-29T04:06:45.4919121+00:00",
+  "LastChanged_Achievements": "2023-06-29T05:06:50.6514436+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.3095704+00:00",
-  "LastUpdate_Ratings": "2023-06-29T04:00:24.9228008+00:00",
-  "LastUpdate_Achievements": "2023-06-29T04:06:45.4920024+00:00"
+  "LastUpdate_Ratings": "2023-06-29T05:00:27.4031016+00:00",
+  "LastUpdate_Achievements": "2023-06-29T05:06:50.6515099+00:00"
 }
