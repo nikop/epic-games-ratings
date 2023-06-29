@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 22.58% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.86% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.81% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.95% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
@@ -49,7 +49,7 @@
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.34% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.33% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
