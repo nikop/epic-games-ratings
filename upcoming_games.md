@@ -11,7 +11,6 @@
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-06-30 | 16 (1,000 XP) | 1 | - | - |
-| [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | - |  | - | - |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | - |  | - | - |
 | [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
@@ -47,6 +46,7 @@
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-31 | - |  | - | - |
 | [Murder Is Game Over - Streaming Death](games/m/murder_is_game_over_-_streaming_death.md) | 2023-07-31 | - |  | - | - |
 | [My Summer Adventure: Memories of Another Life](games/0/02bd18d5942c422db72bcff5b641b0e7.md) | 2023-07-31 | - |  | - | - |
+| [Probo Rush](games/p/probo_rush.md) | 2023-07-31 | - |  | - | - |
 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 2023-07-31 | 13 (1,000 XP) | 0 | - | - |
 | [Run A Cafe](games/7/752a74d471e54cb79d4bf96d7e6b9cde.md) | 2023-07-31 | - |  | - | - |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | - |  | - | - |
