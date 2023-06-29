@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 108)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 10.00% | ~28,186 |
-| First Class Student | 9.00% | ~25,367 |
-| Troll with the Punches | 9.00% | ~25,367 |
+| First Class Student | 9.00% | ~25,368 |
+| Troll with the Punches | 9.00% | ~25,368 |
 | Grappling with a Graphorn | 8.00% | ~22,549 |
 | The One Who Mastered Memories | 8.00% | ~22,549 |
 | The Hallowed Hero | 8.00% | ~22,549 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,409 |
 | Collector's Edition | 0.20% | ~564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281,859 (Ranked 41)  
+Progressed: 281,862 (Ranked 41)  
 Completed: 414 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,10 +121,10 @@ Completed: 414 (0.15%) (Ranked 167)
 | 2023-06-26 | 281,619 | 413 |
 | 2023-06-27 | 281,725 | 413 |
 | 2023-06-28 | 281,822 | 413 |
-| 2023-06-29 | 281,859 | 414 |
+| 2023-06-29 | 281,862 | 414 |
 ## Awards
 Max (Character Customization): 20,491  (Ranked 17)  
-Sum: 38,118 (Ranked 30)  
+Sum: 38,121 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -139,7 +139,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 799 |
 | This game has Quickly Understood Controls | 756 |
 | This game has Beautiful Visuals | 701 |
-| This game has a Creative Community | 530 |
+| This game has a Creative Community | 533 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -240,4 +240,4 @@ Diff (max vs sum): -13
 | 2023-06-26 | 4.77 | 20,422 | 37,969 |
 | 2023-06-27 | 4.77 | 20,457 | 38,041 |
 | 2023-06-28 | 4.77 | 20,491 | 38,117 |
-| 2023-06-29 | 4.77 | 20,491 | 38,118 |
+| 2023-06-29 | 4.77 | 20,491 | 38,121 |

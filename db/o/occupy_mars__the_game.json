@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1353,
+  "EOS_Progressed": 1354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2473,6 +2473,11 @@
       "Time": "2023-06-29T02:25:13.3707052+00:00",
       "NumProgressed": 1353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T09:05:52.3655058+00:00",
+      "NumProgressed": 1354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2556,7 +2561,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -2658,9 +2663,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 460
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -2867,7 +2872,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1353,
+      "Progressed": 1354,
       "Completed": 0
     }
   ],
@@ -2875,8 +2880,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:05:40.0067894+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:05:52.3655054+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:58:01.839333+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:05:40.0068413+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:58:35.0698862+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:05:52.3655505+00:00"
 }

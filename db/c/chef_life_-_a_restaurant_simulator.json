@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1804,6 +1804,11 @@
       "Time": "2023-06-28T18:03:27.421371+00:00",
       "NumProgressed": 434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T09:04:07.2035864+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1863,7 +1868,7 @@
       "Name": "French Flair",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1871,7 +1876,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Clothes10",
@@ -1989,9 +1994,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 287
     },
     {
       "ID": "Packing20",
@@ -2134,7 +2139,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 0
     }
   ],
@@ -2142,8 +2147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:03:43.3788338+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:04:07.2035856+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:14.5557686+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:59:06.2918527+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:03:43.3788965+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:59:38.3380013+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:04:07.2036185+00:00"
 }

@@ -7,12 +7,12 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | Secret Technique | 0.90% | ~44 |
 | Tipping the Scales | 0.90% | ~44 |
+| A Wonderful Discovery | 0.60% | ~29 |
 | Magical Synergy | 0.60% | ~29 |
 | My Final Form | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
 | Realm Estate | 0.50% | ~24 |
-| A Wonderful Discovery | 0.50% | ~24 |
 | Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |

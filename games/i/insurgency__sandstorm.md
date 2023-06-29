@@ -6,11 +6,11 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,975 |
-| Wallbanger | 5.00% | ~19,975 |
-| Exploitative | 4.00% | ~15,980 |
-| High Speed Low Drag | 4.00% | ~15,980 |
-| Wet Feet | 4.00% | ~15,980 |
+| Point Shooting | 5.00% | ~19,976 |
+| Wallbanger | 5.00% | ~19,976 |
+| Exploitative | 4.00% | ~15,981 |
+| High Speed Low Drag | 4.00% | ~15,981 |
+| Wet Feet | 4.00% | ~15,981 |
 | Checkpoint Victory | 3.00% | ~11,985 |
 | Lucky | 3.00% | ~11,985 |
 | Stylin' | 3.00% | ~11,985 |
@@ -24,25 +24,25 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 1.00% | ~3,995 |
 | Ruthless | 1.00% | ~3,995 |
 | Semper Paratus | 1.00% | ~3,995 |
-| Carrying | 0.90% | ~3,595 |
-| Mount & Gun | 0.90% | ~3,595 |
-| Personal | 0.90% | ~3,595 |
+| Carrying | 0.90% | ~3,596 |
+| Mount & Gun | 0.90% | ~3,596 |
+| Personal | 0.90% | ~3,596 |
 | Grounded | 0.80% | ~3,196 |
 | Play to Win | 0.80% | ~3,196 |
-| #1 | 0.70% | ~2,796 |
-| Special Delivery | 0.70% | ~2,796 |
+| #1 | 0.70% | ~2,797 |
+| Special Delivery | 0.70% | ~2,797 |
 | Firefight Victory | 0.60% | ~2,397 |
-| Cinematic | 0.50% | ~1,997 |
+| Cinematic | 0.50% | ~1,998 |
 | Thanks Station! | 0.40% | ~1,598 |
-| Knock Knock | 0.30% | ~1,198 |
-| There For You | 0.30% | ~1,198 |
+| Knock Knock | 0.30% | ~1,199 |
+| There For You | 0.30% | ~1,199 |
 | Hit and Run | 0.20% | ~799 |
-| Designated Driver | 0.10% | ~399 |
-| J.R. .50 | 0.10% | ~399 |
-| It's All in the Reflexes | 0.10% | ~399 |
-| Road Hazard | 0.10% | ~399 |
+| Designated Driver | 0.10% | ~400 |
+| J.R. .50 | 0.10% | ~400 |
+| It's All in the Reflexes | 0.10% | ~400 |
+| Road Hazard | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,499 (Ranked 39)  
+Progressed: 399,513 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,11 +112,11 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-26 | 398,342 | 2 |
 | 2023-06-27 | 398,824 | 2 |
 | 2023-06-28 | 399,320 | 2 |
-| 2023-06-29 | 399,499 | 2 |
+| 2023-06-29 | 399,513 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
-Sum: 2,745 (Ranked 167)  
-Diff (max vs sum): 50  
+Sum: 2,746 (Ranked 166)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 361 |
@@ -126,7 +126,7 @@ Diff (max vs sum): 50
 | This game has Realistic Visuals | 296 |
 | This game has Amazing Storytelling | 292 |
 | This game is Highly Recommended | 292 |
-| This game has Amazing Characters | 283 |
+| This game has Amazing Characters | 284 |
 | This game has a Competitive Community | 248 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -296,4 +296,4 @@ Diff (max vs sum): 50
 | 2023-06-25 | 4.62 | - | 361 | 2,740 |
 | 2023-06-26 | 4.62 | - | 361 | 2,743 |
 | 2023-06-27 | 4.61 | - | 361 | 2,744 |
-| 2023-06-29 | 4.61 | - | 361 | 2,745 |
+| 2023-06-29 | 4.61 | - | 361 | 2,746 |

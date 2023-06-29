@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13868,
+  "EOS_Progressed": 13870,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 744,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 743,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -7574,6 +7574,11 @@
       "Time": "2023-06-29T07:07:20.4174533+00:00",
       "NumProgressed": 13868,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-06-29T09:07:28.5658089+00:00",
+      "NumProgressed": 13870,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 20,
@@ -7585,7 +7590,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -7633,7 +7638,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -7657,7 +7662,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -7705,7 +7710,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10540
+      "UsersEstimate": 10541
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7713,7 +7718,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "NORTH_FINISHED",
@@ -7744,15 +7749,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13868,
+      "Progressed": 13870,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:07:16.3553527+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:07:28.5658084+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:00:52.7248583+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:07:16.3554518+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:01:26.6772909+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:07:28.5658534+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 209,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
@@ -432,9 +432,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -464,9 +464,9 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "Level_completed_003_001",
@@ -480,9 +480,9 @@
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Level_completed_005_003",
@@ -577,8 +577,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:07:15.0908148+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:07:27.3780545+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:58.7687209+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:00:35.4612029+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:07:15.0908379+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:01:09.1696719+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:07:27.3780741+00:00"
 }

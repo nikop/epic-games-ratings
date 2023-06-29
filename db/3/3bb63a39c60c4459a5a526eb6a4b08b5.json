@@ -624,9 +624,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -696,9 +696,9 @@
       "ID": "LargeAirport",
       "SetID": "1e89b4i",
       "Name": "Large Airport",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "LargeTerritories",
@@ -888,9 +888,9 @@
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
@@ -903,8 +903,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:03:51.0843152+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:04:14.9482386+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:57:26.5674827+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:03:51.0843533+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:58:01.0112554+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:04:14.9482663+00:00"
 }

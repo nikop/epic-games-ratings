@@ -6,7 +6,7 @@
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
@@ -2856,9 +2856,9 @@
       "Count": 1045
     }
   ],
-  "EOS_Progressed": 49943,
+  "EOS_Progressed": 49945,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1706,
+  "EOS_NewPlayers": 1703,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10211,6 +10211,11 @@
       "Time": "2023-06-29T08:03:36.1697927+00:00",
       "NumProgressed": 49943,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-29T09:03:30.4165502+00:00",
+      "NumProgressed": 49945,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 53,
@@ -10254,7 +10259,7 @@
       "Name": "Hijacked",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -10262,7 +10267,7 @@
       "Name": "The Collector",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "collect_low_amount_hero_props",
@@ -10334,7 +10339,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 17480
+      "UsersEstimate": 17481
     },
     {
       "ID": "customize_a_vehicle",
@@ -10342,7 +10347,7 @@
       "Name": "Tune Up",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11986
+      "UsersEstimate": 11987
     },
     {
       "ID": "customize_a_weapon",
@@ -10414,7 +10419,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 3995
+      "UsersEstimate": 3996
     },
     {
       "ID": "empire_tier_5",
@@ -10438,7 +10443,7 @@
       "Name": "Work Ethic",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 8490
+      "UsersEstimate": 8491
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -10470,7 +10475,7 @@
       "Name": "Performance Review",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12985
+      "UsersEstimate": 12986
     },
     {
       "ID": "hit_max_level",
@@ -10606,7 +10611,7 @@
       "Name": "To The Nines",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 15482
+      "UsersEstimate": 15483
     },
     {
       "ID": "whole_map_purple",
@@ -10645,22 +10650,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 49943,
+      "Progressed": 49945,
       "Completed": 26
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 21580,
-      "Completed": 2279
+      "Progressed": 21582,
+      "Completed": 2280
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-06-28T07:00:05.291566+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:03:36.169792+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:03:30.4165496+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.0215524+00:00",
-  "LastUpdate_Ratings": "2023-06-29T08:00:23.9182246+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:03:36.1699012+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:00:57.1039512+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:03:30.4166198+00:00"
 }

@@ -4878,9 +4878,9 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710275,
+  "EOS_Progressed": 710279,
   "EOS_Completed": 12795,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11543,6 +11543,11 @@
       "Time": "2023-06-29T07:07:31.5104309+00:00",
       "NumProgressed": 710275,
       "NumCompleted": 12795
+    },
+    {
+      "Time": "2023-06-29T09:07:38.5609841+00:00",
+      "NumProgressed": 710279,
+      "NumCompleted": 12795
     }
   ],
   "TotalAchievements": 50,
@@ -11624,9 +11629,9 @@
       "ID": "10_Wude_H4",
       "SetID": "adcm20g",
       "Name": "Iron Money",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3551
+      "UsersEstimate": 4262
     },
     {
       "ID": "11_Wude_H5",
@@ -11642,7 +11647,7 @@
       "Name": "Scareless",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "13_LowAge",
@@ -11746,7 +11751,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "26_ShrineSpirit",
@@ -11786,7 +11791,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "31_ComboHigh",
@@ -11826,7 +11831,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -11953,21 +11958,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19576,
+      "Progressed": 19580,
       "Completed": 10326
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710275,
+      "Progressed": 710279,
       "Completed": 12795
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-28T11:00:03.1089722+00:00",
-  "LastChanged_Achievements": "2023-06-29T08:07:26.5743038+00:00",
+  "LastChanged_Achievements": "2023-06-29T09:07:38.5609836+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:59:42.6620231+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:07:26.5744362+00:00"
+  "LastUpdate_Ratings": "2023-06-29T09:00:15.2767711+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:07:38.561047+00:00"
 }

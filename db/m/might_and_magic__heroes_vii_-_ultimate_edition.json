@@ -2,12 +2,12 @@
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 96,
   "RatingHistory": [
     {
@@ -535,10 +535,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-06-29T08:59:44.5404331+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -570,7 +576,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -590,8 +596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-06-27T22:58:32.615967+00:00",
+  "LastChanged": "2023-06-29T08:59:44.5404329+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:20.0223767+00:00",
-  "LastUpdate_Ratings": "2023-06-29T07:59:12.1720467+00:00",
-  "LastUpdate_Achievements": "2023-06-29T08:03:53.6533033+00:00"
+  "LastUpdate_Ratings": "2023-06-29T08:59:44.5404334+00:00",
+  "LastUpdate_Achievements": "2023-06-29T09:04:17.5987748+00:00"
 }

@@ -28,18 +28,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,103 |
 | Bloody Sport | 1.00% | ~196 |
 | The best strikes are the ones we avoid | 1.00% | ~196 |
-| Scareless | 0.90% | ~6,392 |
-| Qi Gong: Mind | 0.90% | ~6,392 |
-| I know Kung-Fu | 0.90% | ~6,392 |
-| Kung-Fu Tussle | 0.90% | ~6,392 |
+| Scareless | 0.90% | ~6,393 |
+| Qi Gong: Mind | 0.90% | ~6,393 |
+| I know Kung-Fu | 0.90% | ~6,393 |
+| Kung-Fu Tussle | 0.90% | ~6,393 |
 | Dance of the Praying Mantis | 0.80% | ~5,682 |
 | Deadly Venom | 0.70% | ~137 |
 | Muk Yan Master | 0.60% | ~4,262 |
 | Tiger on Fire | 0.60% | ~4,262 |
 | Source of Flying Daggers | 0.60% | ~4,262 |
+| Iron Money | 0.60% | ~4,262 |
 | Detective Story | 0.60% | ~4,262 |
 | A Touch of Acumen | 0.60% | ~117 |
-| Iron Money | 0.50% | ~3,551 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,551 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,551 |
 | Sword Stained With Blood | 0.50% | ~3,551 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,275 (Ranked 17)  
+Progressed: 710,279 (Ranked 17)  
 Completed: 12,795 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 12,795 (1.80%) (Ranked 79)
 | 2023-06-26 | 710,168 | 12,793 |
 | 2023-06-27 | 710,214 | 12,794 |
 | 2023-06-28 | 710,263 | 12,795 |
-| 2023-06-29 | 710,275 | 12,795 |
+| 2023-06-29 | 710,279 | 12,795 |
 ## Awards
 Max (Great Boss Battles): 6,215  (Ranked 52)  
 Sum: 10,635 (Ranked 78)  
