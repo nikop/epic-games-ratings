@@ -6,11 +6,11 @@ Rating: 4.15 (Ranked 866)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~5,690 |
-| Disposing of the Evidence | 37.00% | ~2,536 |
+| Disposing of the Evidence | 37.00% | ~2,537 |
 | Without a Scratch | 33.00% | ~2,262 |
 | Wreckless Driving | 27.00% | ~1,851 |
 | A Marked Man | 24.00% | ~1,645 |
-| Street Sweeper | 17.00% | ~1,165 |
+| Street Sweeper | 17.00% | ~1,166 |
 | Liberty City Minute | 16.00% | ~1,097 |
 | Offshore Delivery | 13.00% | ~891 |
 | Dirty Money | 12.00% | ~823 |
@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 866)
 | Is That All You've Got? | 0.80% | ~55 |
 | King of Liberty City | 0.60% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,855 (Ranked 123)  
+Progressed: 6,856 (Ranked 123)  
 Completed: 40 (0.58%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 40 (0.58%) (Ranked 119)
 | 2023-06-26 | 6,840 | 39 |
 | 2023-06-27 | 6,847 | 40 |
 | 2023-06-28 | 6,852 | 40 |
-| 2023-06-29 | 6,855 | 40 |
+| 2023-06-29 | 6,856 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

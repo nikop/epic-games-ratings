@@ -3814,9 +3814,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 213
     },
     {
       "ID": "exoticmerchant",
@@ -4255,8 +4255,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-06-29T10:06:07.082299+00:00",
+  "LastChanged_Achievements": "2023-06-29T11:06:03.9764019+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:42.9318105+00:00",
-  "LastUpdate_Ratings": "2023-06-29T09:58:07.9200167+00:00",
-  "LastUpdate_Achievements": "2023-06-29T10:06:07.0824072+00:00"
+  "LastUpdate_Ratings": "2023-06-29T10:58:07.5956642+00:00",
+  "LastUpdate_Achievements": "2023-06-29T11:06:03.9765036+00:00"
 }

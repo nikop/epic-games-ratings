@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,634 |
+| Follow the Light | 33.00% | ~18,635 |
 | Let There Be Light | 26.00% | ~14,682 |
-| Float Like a Butterfly | 25.00% | ~14,117 |
+| Float Like a Butterfly | 25.00% | ~14,118 |
 | Nordic Walking | 20.00% | ~11,294 |
 | Bright Falls' Finest | 20.00% | ~11,294 |
 | Under a Thin Layer of Skin | 17.00% | ~9,600 |
@@ -16,12 +16,12 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 14.00% | ~7,906 |
 | Back! Back, I Say! | 13.00% | ~7,341 |
 | Finders Keepers | 13.00% | ~7,341 |
-| Sound and Fury | 12.00% | ~6,776 |
-| Missed by a Mile | 12.00% | ~6,776 |
-| Damn Good Cup of Coffee | 12.00% | ~6,776 |
-| Wheels Within Wheels | 11.00% | ~6,211 |
-| They're Heeeeeere! | 11.00% | ~6,211 |
-| The Six-Gun Scribe | 11.00% | ~6,211 |
+| Sound and Fury | 12.00% | ~6,777 |
+| Missed by a Mile | 12.00% | ~6,777 |
+| Damn Good Cup of Coffee | 12.00% | ~6,777 |
+| Wheels Within Wheels | 11.00% | ~6,212 |
+| They're Heeeeeere! | 11.00% | ~6,212 |
+| The Six-Gun Scribe | 11.00% | ~6,212 |
 | Heavy Metal | 10.00% | ~5,647 |
 | Iron Horse | 10.00% | ~5,647 |
 | Perchance to Dream | 10.00% | ~5,647 |
@@ -31,16 +31,16 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 9.00% | ~5,082 |
 | Thunder and Lightning | 9.00% | ~5,082 |
 | Two For the Price of One | 9.00% | ~5,082 |
-| The Lady of the Light | 8.00% | ~4,517 |
-| Energized! | 8.00% | ~4,517 |
+| The Lady of the Light | 8.00% | ~4,518 |
+| Energized! | 8.00% | ~4,518 |
 | A Friend in Need | 8.00% | ~1,595 |
 | What Light Through Yonder Window | 7.00% | ~3,953 |
 | Right of Way | 7.00% | ~3,953 |
 | Tornado Wrangler | 6.00% | ~3,388 |
 | Departure | 6.00% | ~3,388 |
 | A Friend Indeed | 6.00% | ~1,196 |
-| Drink 'Em Both Up | 5.00% | ~2,823 |
-| Hardboiled Writer | 5.00% | ~2,823 |
+| Drink 'Em Both Up | 5.00% | ~2,824 |
+| Hardboiled Writer | 5.00% | ~2,824 |
 | Ding! | 5.00% | ~997 |
 | Children of the Elder God | 4.00% | ~2,259 |
 | KBF-FM | 4.00% | ~2,259 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~56 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,468 (Ranked 79)  
+Progressed: 56,471 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 56 (0.10%) (Ranked 177)
 | 2023-06-26 | 56,301 | 56 |
 | 2023-06-27 | 56,377 | 56 |
 | 2023-06-28 | 56,442 | 56 |
-| 2023-06-29 | 56,468 | 56 |
+| 2023-06-29 | 56,471 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

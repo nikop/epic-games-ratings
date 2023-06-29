@@ -12,8 +12,8 @@
 | Now or never | 74.00% | ~68 |
 | Let's play a game… | 72.00% | ~66 |
 | Soundtrack | 61.00% | ~56 |
-| First aid | 58.00% | ~53 |
-| Antidote | 45.00% | ~41 |
+| First aid | 59.00% | ~54 |
+| Antidote | 46.00% | ~42 |
 | Pick the right door | 22.00% | ~20 |
 | The third floor | 15.00% | ~14 |
 | On the right path | 14.00% | ~13 |

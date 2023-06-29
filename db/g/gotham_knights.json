@@ -1814,9 +1814,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66097,
+  "EOS_Progressed": 66098,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8039,6 +8039,11 @@
       "Time": "2023-06-29T10:06:09.0503472+00:00",
       "NumProgressed": 66097,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-29T11:06:05.9822611+00:00",
+      "NumProgressed": 66098,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8400,9 +8405,9 @@
       "ID": "HERO_PROGRESSION_2",
       "SetID": "4eo5ebm",
       "Name": "He\u0027d Be So Proud of You",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 264
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -8537,13 +8542,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66097,
+      "Progressed": 66098,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36377,
+      "Progressed": 36378,
       "Completed": 2647
     }
   ],
@@ -8551,8 +8556,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-29T05:00:14.2117772+00:00",
-  "LastChanged_Achievements": "2023-06-29T10:06:09.0503467+00:00",
+  "LastChanged_Achievements": "2023-06-29T11:06:05.9822605+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-29T09:59:37.6716776+00:00",
-  "LastUpdate_Achievements": "2023-06-29T10:06:09.0504672+00:00"
+  "LastUpdate_Ratings": "2023-06-29T10:59:39.1152435+00:00",
+  "LastUpdate_Achievements": "2023-06-29T11:06:05.9823617+00:00"
 }

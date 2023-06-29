@@ -3,24 +3,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 23.00% | ~3 |
-| Find Allies | 15.00% | ~2 |
-| Tributes of Caladrias | 15.00% | ~2 |
-| Stone collection | 15.00% | ~2 |
-| Powerful Allies | 8.00% | ~1 |
-| Monsalar: Wildlands | 8.00% | ~1 |
-| A taste of wrath | 8.00% | ~1 |
-| Trinity | 8.00% | ~1 |
-| Adventurer | 8.00% | ~1 |
-| Airborne | 8.00% | ~1 |
-| Shatter them all | 8.00% | ~1 |
-| Geared up | 8.00% | ~1 |
-| Fashion Victim | 8.00% | ~1 |
-| Scholar | 8.00% | ~1 |
-| I found it | 8.00% | ~1 |
-| Alchemist | 8.00% | ~1 |
-| Miner | 8.00% | ~1 |
-| The collector | 8.00% | ~1 |
+| Break out | 21.00% | ~3 |
+| Tributes of Caladrias | 21.00% | ~3 |
+| Find Allies | 14.00% | ~2 |
+| Monsalar: Wildlands | 14.00% | ~2 |
+| Stone collection | 14.00% | ~2 |
+| Powerful Allies | 7.00% | ~1 |
+| A taste of wrath | 7.00% | ~1 |
+| Trinity | 7.00% | ~1 |
+| Adventurer | 7.00% | ~1 |
+| Airborne | 7.00% | ~1 |
+| Shatter them all | 7.00% | ~1 |
+| Geared up | 7.00% | ~1 |
+| Fashion Victim | 7.00% | ~1 |
+| Scholar | 7.00% | ~1 |
+| I found it | 7.00% | ~1 |
+| Alchemist | 7.00% | ~1 |
+| Miner | 7.00% | ~1 |
+| The collector | 7.00% | ~1 |
 | To battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear sight | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | A Queen's tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 377)  
+Progressed: 14 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,3 +48,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-23 | 2 | 0 |
 | 2023-06-26 | 12 | 0 |
 | 2023-06-28 | 13 | 0 |
+| 2023-06-29 | 14 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -842,9 +842,9 @@
       "ID": "church",
       "SetID": "ap7g2g4",
       "Name": "Church",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "circus",
@@ -1009,8 +1009,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-06-29T10:02:23.182813+00:00",
+  "LastChanged_Achievements": "2023-06-29T11:02:06.8537715+00:00",
   "LastUpdate_AppInfo": "2023-06-22T13:57:33.7128654+00:00",
-  "LastUpdate_Ratings": "2023-06-29T09:57:19.9990738+00:00",
-  "LastUpdate_Achievements": "2023-06-29T10:02:23.1828376+00:00"
+  "LastUpdate_Ratings": "2023-06-29T10:57:17.9558593+00:00",
+  "LastUpdate_Achievements": "2023-06-29T11:02:06.8537951+00:00"
 }

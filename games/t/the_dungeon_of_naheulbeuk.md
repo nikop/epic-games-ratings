@@ -20,9 +20,9 @@ Number of Ratings: 118  (23.09.2022)
 | A beer, two curses, three companions | 33.00% | ~85 |
 | The plot thickens... At the tavern | 32.00% | ~82 |
 | Team Building Exercise | 32.00% | ~82 |
+| The Ranger of Chaos | 30.00% | ~77 |
 | I am the night | 30.00% | ~77 |
 | Dwarf Fortress | 29.00% | ~75 |
-| The Ranger of Chaos | 29.00% | ~75 |
 | Thieves' Guild Accreditation | 28.00% | ~72 |
 | Look but don't touch | 25.00% | ~64 |
 | The demons' feast | 24.00% | ~62 |

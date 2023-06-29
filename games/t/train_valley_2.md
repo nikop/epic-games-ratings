@@ -66,9 +66,9 @@ Number of Ratings: 87  (23.09.2022)
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Astrochemist | 0.50% | ~0 |
+| Highlander | 0.50% | ~4 |
 | Space Age | 0.50% | ~4 |
 | BBQ | 0.40% | ~3 |
-| Highlander | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
 | The Hare | 0.40% | ~3 |
 | Voyager | 0.40% | ~3 |

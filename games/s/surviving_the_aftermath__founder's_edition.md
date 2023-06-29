@@ -30,8 +30,8 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 22.00% | ~1,520 |
 | Real Survivor | 22.00% | ~1,520 |
 | Merchant | 21.00% | ~1,450 |
+| Rocket Surgeon | 20.00% | ~1,381 |
 | War Never Changes | 19.00% | ~1,312 |
-| Rocket Surgeon | 19.00% | ~1,312 |
 | Big Game Hunter | 17.00% | ~1,174 |
 | Friendly | 16.00% | ~1,105 |
 | Around the World | 16.00% | ~1,105 |

@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 56.00% | ~112 |
-| Chest ✔ | 55.00% | ~110 |
-| Inventory ✔ | 52.00% | ~104 |
-| Police officers ✔ | 27.00% | ~54 |
-| Mutation ✔ | 25.00% | ~50 |
-| Doberman ✔ | 14.00% | ~28 |
-| Chess ✔ | 10.00% | ~20 |
-| Weapon ✔ | 10.00% | ~20 |
+| Fright ✔ | 56.00% | ~113 |
+| Chest ✔ | 54.00% | ~109 |
+| Inventory ✔ | 52.00% | ~105 |
+| Police officers ✔ | 26.00% | ~52 |
+| Mutation ✔ | 24.00% | ~48 |
+| Doberman ✔ | 13.00% | ~26 |
+| Chess ✔ | 9.00% | ~18 |
+| Weapon ✔ | 9.00% | ~18 |
 | Survival ✔ | 8.00% | ~16 |
 | Master of Unlocking ✔ | 8.00% | ~16 |
-| Hospital ✔ | 7.00% | ~14 |
 | Thirst ✔ | 7.00% | ~14 |
-| Antivirus ✔ | 6.00% | ~12 |
-| Betty ✔ | 6.00% | ~12 |
 | Cheats ✔ | 6.00% | ~12 |
 | City ✔ | 6.00% | ~12 |
+| Hospital ✔ | 6.00% | ~12 |
 | Fraternal help ✔ | 6.00% | ~12 |
 | King of survival ✔ | 6.00% | ~12 |
 | Alice ✔ | 5.00% | ~10 |
+| Antivirus ✔ | 5.00% | ~10 |
+| Betty ✔ | 5.00% | ~10 |
 | Brain ✔ | 5.00% | ~10 |
-| Eva ✔ | 5.00% | ~10 |
 | Food ✔ | 5.00% | ~10 |
-| Mutant fight ✔ | 5.00% | ~10 |
-| Sheriff ✔ | 5.00% | ~10 |
-| Infected ✔ | 5.00% | ~10 |
 | All secrets revealed ✔ | 5.00% | ~10 |
-| Broadcasting ✔ | 5.00% | ~10 |
 | Boss 1 ✔ | 4.00% | ~8 |
+| Eva ✔ | 4.00% | ~8 |
 | Group Alpha ✔ | 4.00% | ~8 |
-| Mutant run ✔ | 4.00% | ~8 |
+| Mutant fight ✔ | 4.00% | ~8 |
+| Sheriff ✔ | 4.00% | ~8 |
 | City on fire ✔ | 4.00% | ~8 |
+| Infected ✔ | 4.00% | ~8 |
 | Priest ✔ | 4.00% | ~8 |
-| Rank A ✔ | 4.00% | ~8 |
-| Boss 3 ✔ | 4.00% | ~8 |
-| Car ✔ | 3.00% | ~6 |
+| Broadcasting ✔ | 4.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~6 |
 | Secret ✔ | 3.00% | ~6 |
-| Boss 2 ✔ | 3.00% | ~6 |
+| Mutant run ✔ | 3.00% | ~6 |
 | Osipov's video message ✔ | 3.00% | ~6 |
-| The escape ✔ | 3.00% | ~6 |
-| Rank B+ ✔ | 3.00% | ~6 |
+| Rank A ✔ | 3.00% | ~6 |
+| Boss 3 ✔ | 3.00% | ~6 |
+| Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
-| Seeker Three ✔ | 2.00% | ~4 |
-| Crocodile Escape ✔ | 2.00% | ~4 |
-| VIP ✔ | 2.00% | ~4 |
+| Boss 2 ✔ | 2.00% | ~4 |
+| The escape ✔ | 2.00% | ~4 |
+| Rank B+ ✔ | 2.00% | ~4 |
+| Seeker Three ✔ | 1.00% | ~2 |
+| Crocodile Escape ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |
+| VIP ✔ | 1.00% | ~2 |
 | Seeker Two ✔ | 0.50% | ~1 |
 | Rank A+ ✔ | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 264)  
+Progressed: 201 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-22 | 197 | 0 |
 | 2023-06-25 | 199 | 0 |
 | 2023-06-26 | 200 | 0 |
+| 2023-06-29 | 201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

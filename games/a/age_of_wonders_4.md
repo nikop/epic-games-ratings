@@ -12,15 +12,15 @@ Rating: 4.59 (Ranked 410)
 | Magical Synergy | 0.60% | ~29 |
 | My Final Form | 0.60% | ~29 |
 | Here be Dragons | 0.60% | ~29 |
+| Blood of the Dragon | 0.60% | ~29 |
 | Mighty Hoard | 0.60% | ~29 |
 | Walls Cannot Stop Us | 0.50% | ~24 |
 | From Friends to Family | 0.50% | ~24 |
 | Stronger Together | 0.50% | ~24 |
-| Blood of the Dragon | 0.50% | ~24 |
+| Impenetrable Fortress | 0.50% | ~24 |
 | Bone Peddler | 0.40% | ~19 |
 | Seat of Power | 0.40% | ~19 |
 | Fiery Friend | 0.40% | ~19 |
-| Impenetrable Fortress | 0.40% | ~19 |
 | Valley of Wonders | 0.30% | ~15 |
 | There Can Only Be One! | 0.30% | ~15 |
 | Full Ascension | 0.30% | ~15 |
