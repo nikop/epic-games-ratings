@@ -6,50 +6,50 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~24,821 |
-| Just The Two of Us | 33.00% | ~24,091 |
-| Up On High | 25.00% | ~18,250 |
-| Under The Hood | 25.00% | ~18,250 |
-| Got Your Nose | 24.00% | ~17,520 |
-| The Gift of Gab | 24.00% | ~17,520 |
-| Wrapping Up | 22.00% | ~16,060 |
-| More Than A Box Of Sand | 18.00% | ~13,140 |
-| Chum Novice | 17.00% | ~12,410 |
-| The Dunboyne | 17.00% | ~12,410 |
-| Badge Hobbyist | 17.00% | ~12,410 |
-| Sticky Paws | 17.00% | ~12,410 |
-| Silver-Tongued Sable | 16.00% | ~11,680 |
-| Bubble Up | 16.00% | ~11,680 |
-| Thread The Needle | 15.00% | ~10,950 |
-| Power to the People | 14.00% | ~10,220 |
-| Take That! | 13.00% | ~9,490 |
-| Nesting Giant | 13.00% | ~9,490 |
-| Treasure Tracker | 13.00% | ~9,490 |
-| Big Spender | 13.00% | ~9,490 |
-| Badge Collector | 12.00% | ~8,760 |
-| Quite The Catch | 12.00% | ~8,760 |
-| Rowleys Way | 11.00% | ~8,030 |
-| The Machinist Mask | 10.00% | ~7,300 |
-| The Cartographer Mask | 10.00% | ~7,300 |
-| Balfron Connection | 10.00% | ~7,300 |
-| Ceiling Of Stars | 10.00% | ~7,300 |
-| Playing Dress Up | 10.00% | ~7,300 |
-| Many Different Faces | 9.00% | ~6,570 |
-| Trellick's Pillar | 9.00% | ~6,570 |
-| Centre Of Brunswick | 9.00% | ~6,570 |
-| Bike Collector | 9.00% | ~6,570 |
-| Not That Kind Of Gliding | 9.00% | ~6,570 |
-| The Scrapper Mask | 8.00% | ~5,840 |
-| Shadow Of Neave | 8.00% | ~5,840 |
-| Fragile Goods | 8.00% | ~5,840 |
-| Glider on the Storm | 8.00% | ~5,840 |
-| Squeeze One Out | 8.00% | ~5,840 |
-| Dune Rider | 8.00% | ~5,840 |
-| Amateur Historian | 7.00% | ~5,110 |
-| The Beetle Mask | 7.00% | ~5,110 |
-| The Guard Mask | 7.00% | ~5,110 |
-| Honorary Chum | 7.00% | ~5,110 |
-| Smoked Out | 7.00% | ~5,110 |
+| Simoon | 34.00% | ~24,823 |
+| Just The Two of Us | 33.00% | ~24,093 |
+| Up On High | 25.00% | ~18,252 |
+| Under The Hood | 25.00% | ~18,252 |
+| Got Your Nose | 24.00% | ~17,522 |
+| The Gift of Gab | 24.00% | ~17,522 |
+| Wrapping Up | 22.00% | ~16,062 |
+| More Than A Box Of Sand | 18.00% | ~13,141 |
+| Chum Novice | 17.00% | ~12,411 |
+| The Dunboyne | 17.00% | ~12,411 |
+| Badge Hobbyist | 17.00% | ~12,411 |
+| Sticky Paws | 17.00% | ~12,411 |
+| Silver-Tongued Sable | 16.00% | ~11,681 |
+| Bubble Up | 16.00% | ~11,681 |
+| Thread The Needle | 15.00% | ~10,951 |
+| Power to the People | 14.00% | ~10,221 |
+| Take That! | 13.00% | ~9,491 |
+| Nesting Giant | 13.00% | ~9,491 |
+| Treasure Tracker | 13.00% | ~9,491 |
+| Big Spender | 13.00% | ~9,491 |
+| Badge Collector | 12.00% | ~8,761 |
+| Quite The Catch | 12.00% | ~8,761 |
+| Rowleys Way | 11.00% | ~8,031 |
+| The Machinist Mask | 10.00% | ~7,301 |
+| The Cartographer Mask | 10.00% | ~7,301 |
+| Balfron Connection | 10.00% | ~7,301 |
+| Ceiling Of Stars | 10.00% | ~7,301 |
+| Playing Dress Up | 10.00% | ~7,301 |
+| Many Different Faces | 9.00% | ~6,571 |
+| Trellick's Pillar | 9.00% | ~6,571 |
+| Centre Of Brunswick | 9.00% | ~6,571 |
+| Bike Collector | 9.00% | ~6,571 |
+| Not That Kind Of Gliding | 9.00% | ~6,571 |
+| The Scrapper Mask | 8.00% | ~5,841 |
+| Shadow Of Neave | 8.00% | ~5,841 |
+| Fragile Goods | 8.00% | ~5,841 |
+| Glider on the Storm | 8.00% | ~5,841 |
+| Squeeze One Out | 8.00% | ~5,841 |
+| Dune Rider | 8.00% | ~5,841 |
+| Amateur Historian | 7.00% | ~5,111 |
+| The Beetle Mask | 7.00% | ~5,111 |
+| The Guard Mask | 7.00% | ~5,111 |
+| Honorary Chum | 7.00% | ~5,111 |
+| Smoked Out | 7.00% | ~5,111 |
 | The Climber Mask | 6.00% | ~4,380 |
 | The Merchant Mask | 6.00% | ~4,380 |
 | A Hard Place | 6.00% | ~4,380 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,190 |
 | Vivacious Vivarium | 2.00% | ~1,460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,002 (Ranked 70)  
+Progressed: 73,008 (Ranked 70)  
 Completed: 699 (0.96%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 699 (0.96%) (Ranked 101)
 | 2023-06-26 | 72,414 | 691 |
 | 2023-06-27 | 72,691 | 697 |
 | 2023-06-28 | 72,941 | 698 |
-| 2023-06-29 | 73,002 | 699 |
+| 2023-06-29 | 73,008 | 699 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

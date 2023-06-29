@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526302,
+  "EOS_Progressed": 1526309,
   "EOS_Completed": 638,
-  "EOS_NewPlayers": 1567,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7855,6 +7855,11 @@
       "Time": "2023-06-29T06:05:44.608446+00:00",
       "NumProgressed": 1526302,
       "NumCompleted": 638
+    },
+    {
+      "Time": "2023-06-29T07:05:22.5941942+00:00",
+      "NumProgressed": 1526309,
+      "NumCompleted": 638
     }
   ],
   "TotalAchievements": 20,
@@ -7874,7 +7879,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106841
+      "UsersEstimate": 106842
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -7914,7 +7919,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137367
+      "UsersEstimate": 137368
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -7962,7 +7967,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152630
+      "UsersEstimate": 152631
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -7978,7 +7983,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137367
+      "UsersEstimate": 137368
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -8025,15 +8030,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1526302,
+      "Progressed": 1526309,
       "Completed": 638
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-06-29T06:05:44.6084454+00:00",
+  "LastChanged_Achievements": "2023-06-29T07:05:22.5941936+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:14.0971586+00:00",
-  "LastUpdate_Ratings": "2023-06-29T06:01:25.9096064+00:00",
-  "LastUpdate_Achievements": "2023-06-29T06:05:44.6085171+00:00"
+  "LastUpdate_Ratings": "2023-06-29T07:01:12.0045964+00:00",
+  "LastUpdate_Achievements": "2023-06-29T07:05:22.5942685+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 48.00% | ~130 |
+| It's Good to have Allies | 49.00% | ~133 |
 | Defenses Online | 45.00% | ~122 |
 | Facility Online | 41.00% | ~111 |
 | Corporal | 30.00% | ~81 |
@@ -14,9 +14,9 @@
 | Lieutenant | 15.00% | ~41 |
 | On Target | 15.00% | ~41 |
 | Getting Deployment | 13.00% | ~35 |
+| Keeping Busy | 12.00% | ~33 |
 | Infantry Reporting | 12.00% | ~33 |
 | Fighting for Survival | 11.00% | ~30 |
-| Keeping Busy | 11.00% | ~30 |
 | Silver Competitor | 10.00% | ~27 |
 | Captain | 8.00% | ~22 |
 | Factory Expansion | 8.00% | ~22 |

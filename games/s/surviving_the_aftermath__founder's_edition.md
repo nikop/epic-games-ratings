@@ -36,7 +36,7 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,105 |
 | Around the World | 16.00% | ~1,105 |
 | Spreading Influence | 16.00% | ~1,105 |
-| Bookworm | 14.00% | ~967 |
+| Bookworm | 15.00% | ~1,036 |
 | Famous Adventurer | 13.00% | ~898 |
 | Prepared for Anything | 13.00% | ~898 |
 | Big Catastrofan | 12.00% | ~829 |

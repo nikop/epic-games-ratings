@@ -10,6 +10,7 @@
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
 | The Mysterious Stranger | 13.00% | ~95 |
+| The Wicked Twins | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~87 |
 | The Man Who Shattered Time | 12.00% | ~87 |
 | The Loose Cannon | 12.00% | ~87 |
@@ -18,9 +19,9 @@
 | The Harder They Fall | 12.00% | ~87 |
 | No, Thanks! | 12.00% | ~87 |
 | Breaking Down Barriers | 12.00% | ~87 |
-| The Wicked Twins | 12.00% | ~87 |
 | The Prince in Heels | 12.00% | ~87 |
 | Fast Learner | 12.00% | ~87 |
+| Check Your Pulse | 12.00% | ~87 |
 | Immaculate Aim | 12.00% | ~87 |
 | The Brass Boss | 12.00% | ~87 |
 | The Family Fortune | 12.00% | ~87 |
@@ -28,7 +29,6 @@
 | Street Style | 11.00% | ~80 |
 | Honest Mistake | 11.00% | ~80 |
 | Golem Chaser | 11.00% | ~80 |
-| Check Your Pulse | 11.00% | ~80 |
 | Immaculate Aim | 11.00% | ~80 |
 | Right On Time | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |

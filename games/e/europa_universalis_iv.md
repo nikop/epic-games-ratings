@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,655 |
-| That's a Grand Army | 8.00% | ~5,027 |
-| That is mine! | 8.00% | ~5,027 |
-| Victorious! | 8.00% | ~5,027 |
-| Brothers in Arms | 6.00% | ~3,770 |
-| That's a Grand Navy | 6.00% | ~3,770 |
-| Seriously?! | 6.00% | ~3,770 |
+| Until death do us apart | 9.00% | ~5,656 |
+| That's a Grand Army | 8.00% | ~5,028 |
+| That is mine! | 8.00% | ~5,028 |
+| Victorious! | 8.00% | ~5,028 |
+| Brothers in Arms | 6.00% | ~3,771 |
+| That's a Grand Navy | 6.00% | ~3,771 |
+| Seriously?! | 6.00% | ~3,771 |
 | For the Glory | 5.00% | ~3,142 |
 | Cold War | 4.00% | ~2,514 |
 | True Catholic | 4.00% | ~2,514 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,838 (Ranked 77)  
+Progressed: 62,844 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -431,7 +431,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 61,845 | 0 |
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
-| 2023-06-29 | 62,838 | 0 |
+| 2023-06-29 | 62,844 | 0 |
 ## Awards
 Max (Educational): 5,469  (Ranked 61)  
 Sum: 45,188 (Ranked 27)  

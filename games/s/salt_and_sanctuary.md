@@ -6,11 +6,11 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~436,619 |
-| The Three | 64.00% | ~336,670 |
+| Find Sanctuary | 83.00% | ~436,620 |
+| The Three | 64.00% | ~336,671 |
 | The Banquet | 40.00% | ~210,419 |
 | Devara's Light | 30.00% | ~157,814 |
-| The Iron Ones | 18.00% | ~94,688 |
+| The Iron Ones | 18.00% | ~94,689 |
 | The Village | 16.00% | ~84,168 |
 | The Forest | 14.00% | ~73,647 |
 | Branded | 13.00% | ~68,386 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,521 |
 | Fading Fast | 1.00% | ~5,260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,047 (Ranked 28)  
+Progressed: 526,048 (Ranked 28)  
 Completed: 1,462 (0.28%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1,462 (0.28%) (Ranked 147)
 | 2023-06-26 | 525,838 | 1,461 |
 | 2023-06-27 | 525,938 | 1,461 |
 | 2023-06-28 | 526,020 | 1,462 |
-| 2023-06-29 | 526,047 | 1,462 |
+| 2023-06-29 | 526,048 | 1,462 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,901 (Ranked 201)  
