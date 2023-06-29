@@ -6,34 +6,34 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 92.00% | ~233 |
-| Where's that freaking Dwarf? | 88.00% | ~223 |
-| Sock! SOCK! | 68.00% | ~172 |
-| Fireproof Wizardess | 55.00% | ~139 |
-| Déjà vu | 53.00% | ~134 |
-| GG EZ | 53.00% | ~134 |
-| Livin' in a dwarven paradise | 52.00% | ~132 |
-| DM intervention | 46.00% | ~116 |
-| Way of the Wimp | 45.00% | ~114 |
-| Oh, when I'll be level 10... | 36.00% | ~91 |
+| Alt+F4 | 92.00% | ~235 |
+| Where's that freaking Dwarf? | 87.00% | ~222 |
+| Sock! SOCK! | 68.00% | ~173 |
+| Fireproof Wizardess | 55.00% | ~140 |
+| Déjà vu | 53.00% | ~135 |
+| GG EZ | 53.00% | ~135 |
+| Livin' in a dwarven paradise | 51.00% | ~130 |
+| DM intervention | 46.00% | ~117 |
+| Way of the Wimp | 45.00% | ~115 |
+| Oh, when I'll be level 10... | 36.00% | ~92 |
 | Speedrun | 35.00% | ~89 |
-| A beer, two curses, three companions | 33.00% | ~83 |
-| The plot thickens... At the tavern | 33.00% | ~83 |
-| Team Building Exercise | 32.00% | ~81 |
+| A beer, two curses, three companions | 33.00% | ~84 |
+| The plot thickens... At the tavern | 33.00% | ~84 |
+| Team Building Exercise | 32.00% | ~82 |
 | I am the night | 30.00% | ~76 |
-| Dwarf Fortress | 29.00% | ~73 |
-| The Ranger of Chaos | 29.00% | ~73 |
-| Thieves' Guild Accreditation | 28.00% | ~71 |
-| Look but don't touch | 25.00% | ~63 |
+| Dwarf Fortress | 29.00% | ~74 |
+| The Ranger of Chaos | 29.00% | ~74 |
+| Thieves' Guild Accreditation | 27.00% | ~69 |
+| Look but don't touch | 25.00% | ~64 |
 | The demons' feast | 24.00% | ~61 |
 | The Great Library | 24.00% | ~61 |
 | The Statuette of Gladeulfeurah | 22.00% | ~56 |
 | A tale of adventurers not quite like the others... | 22.00% | ~56 |
 | Gargantua | 22.00% | ~56 |
-| Shiny and Crôm | 21.00% | ~53 |
-| Torture and Sensibility | 21.00% | ~53 |
-| The beards of change | 21.00% | ~53 |
-| Material Girl | 21.00% | ~53 |
+| Torture and Sensibility | 21.00% | ~54 |
+| Shiny and Crôm | 20.00% | ~51 |
+| The beards of change | 20.00% | ~51 |
+| Material Girl | 20.00% | ~51 |
 | The Famous Dungeon of Naheulbeuk | 18.00% | ~46 |
 | The Woman in the High Castle | 17.00% | ~43 |
 | In Navalu's footsteps | 17.00% | ~43 |
@@ -41,22 +41,22 @@ Number of Ratings: 118  (23.09.2022)
 | The Blood Countess | 15.00% | ~38 |
 | Cursed die | 13.00% | ~33 |
 | Law and Order | 13.00% | ~33 |
-| Res Judicata | 12.00% | ~30 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~30 |
+| Res Judicata | 12.00% | ~31 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 12.00% | ~31 |
 | The Dungeon Master | 11.00% | ~28 |
 | Dead for good | 11.00% | ~28 |
-| It's been a hard day's night | 10.00% | ~25 |
+| It's been a hard day's night | 10.00% | ~26 |
 | Necrophilia | 9.00% | ~23 |
 | He’s alive! Aliiiive! | 9.00% | ~23 |
 | Scholar of the Lands of Fangh | 8.00% | ~20 |
-| Egghead | 8.00% | ~20 |
 | Lëgal Legend | 8.00% | ~20 |
-| Lust and Debauchery | 8.00% | ~20 |
+| Egghead | 7.00% | ~18 |
 | Free customer service | 7.00% | ~18 |
+| Lust and Debauchery | 7.00% | ~18 |
 | Elite Adventurers | 6.00% | ~15 |
 | An old poacher makes the best gamekeeper | 6.00% | ~15 |
-| We come in peace | 6.00% | ~15 |
 | Friendly fire | 5.00% | ~13 |
+| We come in peace | 5.00% | ~13 |
 | Inception | 5.00% | ~13 |
 | Holistic Adventuring Party | 4.00% | ~10 |
 | I'd rather... Just... Sing! | 4.00% | ~10 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.00% | ~0 |
 | Dwarf Candy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 249)  
+Progressed: 255 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-26 | 229 | 0 |
 | 2023-06-27 | 234 | 0 |
 | 2023-06-28 | 253 | 0 |
+| 2023-06-29 | 255 | 0 |
 ## Awards
 Max (Character Customization): 61  (Ranked 384)  
 Sum: 61 (Ranked 436)  

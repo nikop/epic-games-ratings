@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2286,7 +2286,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 67956,
+  "EOS_Progressed": 67957,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 1,
@@ -9581,6 +9581,11 @@
       "Time": "2023-06-28T23:03:34.0297596+00:00",
       "NumProgressed": 67956,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-29T00:03:58.7764724+00:00",
+      "NumProgressed": 67957,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9600,7 +9605,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     },
     {
       "ID": "ACH_0012",
@@ -9672,7 +9677,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "ACH_0050",
@@ -9704,7 +9709,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "ACH_0101",
@@ -9736,7 +9741,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44171
+      "UsersEstimate": 44172
     },
     {
       "ID": "ACH_0210",
@@ -9744,7 +9749,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50287
+      "UsersEstimate": 50288
     },
     {
       "ID": "ACH_0211",
@@ -9760,7 +9765,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31939
+      "UsersEstimate": 31940
     },
     {
       "ID": "ACH_0300",
@@ -9784,7 +9789,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "ACH_0340",
@@ -9887,7 +9892,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 67956,
+      "Progressed": 67957,
       "Completed": 35
     }
   ],
@@ -9895,8 +9900,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-28T10:01:02.6682044+00:00",
-  "LastChanged_Achievements": "2023-06-28T23:03:34.0297588+00:00",
+  "LastChanged_Achievements": "2023-06-29T00:03:58.7764717+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-28T23:01:21.9216859+00:00",
-  "LastUpdate_Achievements": "2023-06-28T23:03:34.0298844+00:00"
+  "LastUpdate_Ratings": "2023-06-29T00:01:13.1931948+00:00",
+  "LastUpdate_Achievements": "2023-06-29T00:03:58.7765958+00:00"
 }

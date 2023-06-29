@@ -7,7 +7,7 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 73.00% | ~3,069 |
-| Having A Field Day | 71.00% | ~2,985 |
+| Having A Field Day | 72.00% | ~3,027 |
 | Reap What You Sow | 69.00% | ~2,901 |
 | The First Day | 66.00% | ~2,775 |
 | Green Thumb | 65.00% | ~2,733 |
@@ -21,8 +21,8 @@ Number of Ratings: 706  (23.09.2022)
 | Beam Me Up | 48.00% | ~2,018 |
 | Adept Researcher | 44.00% | ~1,850 |
 | Retribution | 39.00% | ~1,640 |
+| ...And Don’t Come Back! | 39.00% | ~1,640 |
 | Fit For A King | 38.00% | ~1,598 |
-| ...And Don’t Come Back! | 38.00% | ~1,598 |
 | Luminary Researcher | 34.00% | ~1,429 |
 | Heating Up | 27.00% | ~1,135 |
 | Winter Is Coming | 24.00% | ~1,009 |

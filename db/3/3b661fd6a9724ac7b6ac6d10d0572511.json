@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 8,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-06-09T03:57:04.3869037+00:00",
@@ -728,6 +728,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 5045,
       "NumberOfAwardsMax": 3475
+    },
+    {
+      "Time": "2023-06-28T23:57:21.6383012+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 5045,
+      "NumberOfAwardsMax": 3475
     }
   ],
   "ReviewsDisabled": false,
@@ -802,10 +808,10 @@
       "Count": 179
     }
   ],
-  "EOS_Progressed": 1366122,
-  "EOS_Completed": 262,
-  "EOS_NewPlayers": 83858,
-  "EOS_NewCompleters": 66,
+  "EOS_Progressed": 1366404,
+  "EOS_Completed": 263,
+  "EOS_NewPlayers": 83668,
+  "EOS_NewCompleters": 67,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -3107,6 +3113,11 @@
       "Time": "2023-06-28T23:07:55.6761989+00:00",
       "NumProgressed": 1366122,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-06-29T00:07:58.9935458+00:00",
+      "NumProgressed": 1366404,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 1328,
@@ -3172,9 +3183,9 @@
       "ID": "ameno_8",
       "SetID": "bkjdbk8",
       "Name": "The Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 2733
     },
     {
       "ID": "armed_and_dangerous",
@@ -3188,9 +3199,9 @@
       "ID": "armed_to_the_teeth",
       "SetID": "61cefe3",
       "Name": "Would You Like Your Receipt?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 2733
     },
     {
       "ID": "armored_1",
@@ -4318,7 +4329,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "brooklyn_2",
@@ -4542,7 +4553,7 @@
       "Name": "Virus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "cac_29",
@@ -7734,7 +7745,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "halloween_1",
@@ -7870,7 +7881,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -8830,7 +8841,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "no_turning_back",
@@ -8838,7 +8849,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "orange_1",
@@ -13620,9 +13631,9 @@
       "ID": "would_you_like_your_receipt",
       "SetID": "61cefe3",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 2733
     },
     {
       "ID": "wwh_1",
@@ -13726,7 +13737,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "you_shall_not_pass",
@@ -13741,22 +13752,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1366122,
-      "Completed": 262
+      "Progressed": 1366404,
+      "Completed": 263
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1366122,
+      "Progressed": 1366404,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-06-28T19:57:08.4057609+00:00",
-  "LastChanged_Achievements": "2023-06-28T23:07:55.6761981+00:00",
+  "LastChanged": "2023-06-28T23:57:21.638301+00:00",
+  "LastChanged_Achievements": "2023-06-29T00:07:58.9935453+00:00",
   "LastUpdate_AppInfo": "2023-06-22T15:57:06.6840261+00:00",
-  "LastUpdate_Ratings": "2023-06-28T22:57:28.6869378+00:00",
-  "LastUpdate_Achievements": "2023-06-28T23:07:55.6949199+00:00"
+  "LastUpdate_Ratings": "2023-06-28T23:57:21.6383015+00:00",
+  "LastUpdate_Achievements": "2023-06-29T00:07:59.0122037+00:00"
 }

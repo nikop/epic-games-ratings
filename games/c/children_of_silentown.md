@@ -22,7 +22,7 @@
 | Cat | 32.00% | ~56 |
 | Depths of the well | 25.00% | ~44 |
 | Children | 23.00% | ~40 |
-| Huge Snail | 15.00% | ~26 |
+| Huge Snail | 16.00% | ~28 |
 | Flower of hope | 14.00% | ~25 |
 | Back Home | 11.00% | ~19 |
 | Forest Howl | 11.00% | ~19 |

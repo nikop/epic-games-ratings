@@ -21,9 +21,9 @@ Rating: 4.25 (Ranked 801)
 | Chain Breaker | 0.60% | ~386 |
 | Let there be light | 0.50% | ~322 |
 | Silent Advisor | 0.50% | ~322 |
+| Are you still there? | 0.40% | ~257 |
 | Soda addiction | 0.30% | ~193 |
 | Paparazzi | 0.30% | ~193 |
-| Are you still there? | 0.30% | ~193 |
 | Ear Ringing | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,308 (Ranked 75)  

@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,911 |
-| Cavalier | 25.00% | ~197,509 |
-| Fatso | 23.00% | ~181,708 |
-| Awakening | 20.00% | ~158,007 |
-| Ranger | 20.00% | ~158,007 |
-| Scrooge | 20.00% | ~158,007 |
+| Blacksmith's Son | 31.00% | ~244,912 |
+| Cavalier | 25.00% | ~197,510 |
+| Fatso | 23.00% | ~181,709 |
+| Awakening | 20.00% | ~158,008 |
+| Ranger | 20.00% | ~158,008 |
+| Scrooge | 20.00% | ~158,008 |
 | Anorectic | 16.00% | ~126,406 |
-| Firestarter | 15.00% | ~118,505 |
-| Bookworm | 14.00% | ~110,605 |
+| Firestarter | 15.00% | ~118,506 |
+| Bookworm | 14.00% | ~110,606 |
 | Insomniac | 13.00% | ~102,705 |
-| Buddy | 12.00% | ~94,804 |
-| Thief | 12.00% | ~94,804 |
+| Buddy | 12.00% | ~94,805 |
+| Thief | 12.00% | ~94,805 |
 | Sinner | 11.00% | ~86,904 |
 | Convict | 10.00% | ~79,004 |
 | Traveller | 10.00% | ~79,004 |
-| Haggler | 9.00% | ~71,103 |
+| Haggler | 9.00% | ~71,104 |
 | McLovin | 7.00% | ~55,303 |
 | Runt | 7.00% | ~55,303 |
 | Casanova | 6.00% | ~47,402 |
 | Bad Trip | 5.00% | ~39,502 |
 | Monk | 5.00% | ~39,502 |
 | Serial Killer | 5.00% | ~39,502 |
-| Bastard | 4.00% | ~31,601 |
-| Hunter | 4.00% | ~31,601 |
-| Plague Doctor | 4.00% | ~31,601 |
+| Bastard | 4.00% | ~31,602 |
+| Hunter | 4.00% | ~31,602 |
+| Plague Doctor | 4.00% | ~31,602 |
 | Bard | 3.00% | ~23,701 |
 | Conqueror | 3.00% | ~23,701 |
 | Ginger in a Pickle | 3.00% | ~23,701 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,036 (Ranked 15)  
+Progressed: 790,040 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-26 | 789,739 | 43 |
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
+| 2023-06-29 | 790,040 | 43 |
 ## Awards
 Max (Character Customization): 7,280  (Ranked 46)  
 Sum: 27,165 (Ranked 43)  

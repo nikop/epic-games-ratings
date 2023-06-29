@@ -8,24 +8,24 @@
 | Starting Skyward | 51.00% | ~117 |
 | Grime is Not Good | 45.00% | ~103 |
 | Campaign Launch | 40.00% | ~92 |
-| Floor Galore | 37.00% | ~85 |
+| Floor Galore | 38.00% | ~87 |
 | Dinner Dash | 37.00% | ~85 |
 | Need a Consult | 34.00% | ~78 |
 | It's Technical | 34.00% | ~78 |
-| Upgrade Unlock | 32.00% | ~73 |
+| Upgrade Unlock | 33.00% | ~76 |
 | Delegate Maintenance | 32.00% | ~73 |
-| Proper Walls | 30.00% | ~69 |
-| Destination Destiny | 27.00% | ~62 |
-| Happy Tenants | 24.00% | ~55 |
+| Proper Walls | 31.00% | ~71 |
+| Destination Destiny | 28.00% | ~64 |
+| Happy Tenants | 25.00% | ~57 |
 | Your Prestige is Rising | 23.00% | ~53 |
 | Potent Potables | 23.00% | ~53 |
+| Retail Revenue | 23.00% | ~53 |
 | Smooth Service | 23.00% | ~53 |
-| Retail Revenue | 22.00% | ~50 |
 | Lux Living | 21.00% | ~48 |
+| People Mover | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |
-| People Mover | 20.00% | ~46 |
-| Emporium Empire | 19.00% | ~44 |
+| Emporium Empire | 20.00% | ~46 |
 | Get Electrified | 19.00% | ~44 |
 | Artfully Done | 18.00% | ~41 |
 | Rehab Expert | 18.00% | ~41 |
@@ -50,13 +50,13 @@
 | Revenue Royalty | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
+| Water Features | 7.00% | ~16 |
 | Meet Me at HQ | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
 | Phoning It In | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Careful Constructor | 6.00% | ~14 |
-| Water Features | 6.00% | ~14 |
 | Sky High Stature | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
 | It's a Gas | 6.00% | ~14 |

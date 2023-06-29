@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3445,
+  "EOS_Progressed": 3446,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -603,6 +603,11 @@
       "Time": "2023-06-28T16:06:17.5073518+00:00",
       "NumProgressed": 3445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-29T00:07:36.6657684+00:00",
+      "NumProgressed": 3446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -654,7 +659,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -726,7 +731,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -734,7 +739,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -821,7 +826,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3445,
+      "Progressed": 3446,
       "Completed": 0
     }
   ],
@@ -829,8 +834,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-06-28T23:07:32.7950538+00:00",
+  "LastChanged_Achievements": "2023-06-29T00:07:36.6657677+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:27.9131508+00:00",
-  "LastUpdate_Ratings": "2023-06-28T23:00:43.5107593+00:00",
-  "LastUpdate_Achievements": "2023-06-28T23:07:32.795077+00:00"
+  "LastUpdate_Ratings": "2023-06-29T00:00:34.3491816+00:00",
+  "LastUpdate_Achievements": "2023-06-29T00:07:36.6657883+00:00"
 }

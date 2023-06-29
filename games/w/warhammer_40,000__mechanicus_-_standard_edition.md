@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,936 |
-| This is only the beginning | 19.00% | ~40,991 |
-| Knowledge is power | 12.00% | ~25,889 |
-| Power Ranger | 9.00% | ~19,417 |
-| Galvanic Rifle | 9.00% | ~19,417 |
-| Taser Goad | 9.00% | ~19,417 |
-| Radium Ready | 9.00% | ~19,417 |
-| Half a cog | 9.00% | ~19,417 |
+| No aid from the Omnissiah | 25.00% | ~53,938 |
+| This is only the beginning | 19.00% | ~40,993 |
+| Knowledge is power | 12.00% | ~25,890 |
+| Power Ranger | 9.00% | ~19,418 |
+| Galvanic Rifle | 9.00% | ~19,418 |
+| Taser Goad | 9.00% | ~19,418 |
+| Radium Ready | 9.00% | ~19,418 |
+| Half a cog | 9.00% | ~19,418 |
 | Watch them crumble | 6.00% | ~12,945 |
 | Competent Cohort | 4.00% | ~8,630 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,630 |
 | One with the Machine | 4.00% | ~8,630 |
-| Legio Cybernetica | 3.00% | ~6,472 |
-| Fleshy Disposal | 3.00% | ~6,472 |
+| Legio Cybernetica | 3.00% | ~6,473 |
+| Fleshy Disposal | 3.00% | ~6,473 |
 | Battle Servitor | 2.00% | ~4,315 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,315 |
 | Impatient destruction | 2.00% | ~4,315 |
@@ -27,8 +27,8 @@ Rating: 4.43 (Ranked 651)
 | Cohortus Maximus | 0.80% | ~1,726 |
 | Mother of Xenarites | 0.40% | ~863 |
 | False God | 0.30% | ~647 |
-| Hard | 0.20% | ~431 |
-| Transonic Blur | 0.20% | ~431 |
+| Hard | 0.20% | ~432 |
+| Transonic Blur | 0.20% | ~432 |
 | Sterile Perfection | 0.10% | ~216 |
 | Impossible | 0.10% | ~216 |
 | Sensory overload | 0.10% | ~216 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 651)
 | Perma-live | 0.10% | ~216 |
 | Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,743 (Ranked 50)  
+Progressed: 215,751 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,9 +110,10 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-26 | 215,553 | 4 |
 | 2023-06-27 | 215,643 | 4 |
 | 2023-06-28 | 215,743 | 4 |
+| 2023-06-29 | 215,751 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 236)  
-Sum: 2,112 (Ranked 188)  
+Sum: 2,113 (Ranked 188)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -123,7 +124,7 @@ Diff (max vs sum): 48
 | This game has Diverse Characters | 254 |
 | This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
-| This game has Unique Visuals | 205 |
+| This game has Unique Visuals | 206 |
 | This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -167,3 +168,4 @@ Diff (max vs sum): 48
 | 2023-06-18 | 4.43 | 280 | 2,109 |
 | 2023-06-20 | 4.43 | 280 | 2,111 |
 | 2023-06-22 | 4.43 | 280 | 2,112 |
+| 2023-06-28 | 4.43 | 280 | 2,113 |

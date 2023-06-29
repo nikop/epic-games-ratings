@@ -37,11 +37,11 @@ Rating: 4.47 (Ranked 594)
 | Precision Is Key | 0.90% | ~28 |
 | My Little Friend | 0.90% | ~28 |
 | Die Nussknacker Sweet! | 0.90% | ~28 |
+| Herr Today, Gone Tomorrow | 0.70% | ~22 |
 | Shipbreaker | 0.70% | ~22 |
 | Strategist | 0.60% | ~19 |
 | It'll Buff Right Out | 0.60% | ~19 |
 | Don't hold your breath | 0.60% | ~19 |
-| Herr Today, Gone Tomorrow | 0.60% | ~19 |
 | Operation Foxley | 0.60% | ~19 |
 | Last Resort | 0.50% | ~16 |
 | Siegebreaker | 0.50% | ~16 |

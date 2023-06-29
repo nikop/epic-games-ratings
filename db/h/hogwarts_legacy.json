@@ -4252,10 +4252,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 38113,
       "NumberOfAwardsMax": 20491
+    },
+    {
+      "Time": "2023-06-28T23:57:56.6956996+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 38117,
+      "NumberOfAwardsMax": 20491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38113,
+  "NumberOfAwards": 38117,
   "NumberOfAwardsMax": 20491,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4323,7 +4329,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 752
+      "Count": 756
     },
     {
       "Text": "This game has a Creative Community",
@@ -4332,7 +4338,7 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 281822,
+  "EOS_Progressed": 281827,
   "EOS_Completed": 413,
   "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 5,
@@ -11657,6 +11663,11 @@
       "Time": "2023-06-28T23:06:37.8235416+00:00",
       "NumProgressed": 281822,
       "NumCompleted": 413
+    },
+    {
+      "Time": "2023-06-29T00:06:41.2445003+00:00",
+      "NumProgressed": 281827,
+      "NumCompleted": 413
     }
   ],
   "TotalAchievements": 45,
@@ -11668,7 +11679,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28182
+      "UsersEstimate": 28183
     },
     {
       "ID": "PFA_10",
@@ -11716,7 +11727,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "PFA_16",
@@ -11740,7 +11751,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "PFA_19",
@@ -11748,7 +11759,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "PFA_2",
@@ -11828,7 +11839,7 @@
       "Name": "Put Down Roots",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "PFA_29",
@@ -11844,7 +11855,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "PFA_30",
@@ -11884,7 +11895,7 @@
       "Name": "Floo Around the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5637
     },
     {
       "ID": "PFA_35",
@@ -11892,7 +11903,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "PFA_36",
@@ -11972,7 +11983,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "PFA_45",
@@ -12027,16 +12038,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 281822,
+      "Progressed": 281827,
       "Completed": 413
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-06-28T22:58:03.7884781+00:00",
-  "LastChanged_Achievements": "2023-06-28T23:06:37.8235409+00:00",
+  "LastChanged": "2023-06-28T23:57:56.6956994+00:00",
+  "LastChanged_Achievements": "2023-06-29T00:06:41.2444995+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:21.4766947+00:00",
-  "LastUpdate_Ratings": "2023-06-28T22:58:03.7884791+00:00",
-  "LastUpdate_Achievements": "2023-06-28T23:06:37.8236421+00:00"
+  "LastUpdate_Ratings": "2023-06-28T23:57:56.6957003+00:00",
+  "LastUpdate_Achievements": "2023-06-29T00:06:41.2446216+00:00"
 }
