@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -3040,9 +3040,9 @@
       "ID": "ACH_GOOD-VIBES",
       "SetID": "72olkc5",
       "Name": "Good vibes",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_HOARDER",
@@ -3304,8 +3304,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-06-27T17:00:06.3636435+00:00",
-  "LastChanged_Achievements": "2023-06-29T15:06:32.5901995+00:00",
+  "LastChanged_Achievements": "2023-06-29T16:07:22.3362026+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:59.8726484+00:00",
-  "LastUpdate_Ratings": "2023-06-29T14:59:18.3580563+00:00",
-  "LastUpdate_Achievements": "2023-06-29T15:06:32.590254+00:00"
+  "LastUpdate_Ratings": "2023-06-29T15:59:40.0999478+00:00",
+  "LastUpdate_Achievements": "2023-06-29T16:07:22.3362564+00:00"
 }

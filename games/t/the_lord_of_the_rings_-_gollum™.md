@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456 (Ranked 214)  
+Progressed: 456 (Ranked 215)  
 Completed: 1 (0.22%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |

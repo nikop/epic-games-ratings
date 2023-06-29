@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 165,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -600,9 +600,9 @@
       "ID": "CgkIgaGB2J0LEAIQBQ",
       "SetID": "4ocea6d",
       "Name": "Flying Machine",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -615,8 +615,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-06-29T15:03:37.1202478+00:00",
+  "LastChanged_Achievements": "2023-06-29T16:03:43.2252565+00:00",
   "LastUpdate_AppInfo": "2023-06-29T11:56:57.2789666+00:00",
-  "LastUpdate_Ratings": "2023-06-29T14:57:26.1769055+00:00",
-  "LastUpdate_Achievements": "2023-06-29T15:03:37.1202589+00:00"
+  "LastUpdate_Ratings": "2023-06-29T15:57:04.8373536+00:00",
+  "LastUpdate_Achievements": "2023-06-29T16:03:43.2252674+00:00"
 }

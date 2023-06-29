@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 809)
 | Swiss Army Drone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,818 (Ranked 161)  
+Progressed: 1,818 (Ranked 162)  
 Completed: 10 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |

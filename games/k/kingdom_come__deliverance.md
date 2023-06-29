@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,933 |
-| Cavalier | 25.00% | ~197,526 |
-| Fatso | 23.00% | ~181,724 |
-| Awakening | 20.00% | ~158,021 |
-| Ranger | 20.00% | ~158,021 |
-| Scrooge | 20.00% | ~158,021 |
-| Anorectic | 16.00% | ~126,417 |
-| Firestarter | 15.00% | ~118,516 |
-| Bookworm | 14.00% | ~110,615 |
-| Insomniac | 13.00% | ~102,714 |
-| Buddy | 12.00% | ~94,813 |
-| Thief | 12.00% | ~94,813 |
-| Sinner | 11.00% | ~86,912 |
-| Convict | 10.00% | ~79,010 |
-| Traveller | 10.00% | ~79,010 |
-| Haggler | 9.00% | ~71,109 |
-| McLovin | 7.00% | ~55,307 |
-| Runt | 7.00% | ~55,307 |
-| Casanova | 6.00% | ~47,406 |
-| Bad Trip | 5.00% | ~39,505 |
-| Monk | 5.00% | ~39,505 |
-| Serial Killer | 5.00% | ~39,505 |
-| Bastard | 4.00% | ~31,604 |
-| Hunter | 4.00% | ~31,604 |
-| Plague Doctor | 4.00% | ~31,604 |
+| Blacksmith's Son | 31.00% | ~244,935 |
+| Cavalier | 25.00% | ~197,528 |
+| Fatso | 23.00% | ~181,726 |
+| Awakening | 20.00% | ~158,023 |
+| Ranger | 20.00% | ~158,023 |
+| Scrooge | 20.00% | ~158,023 |
+| Anorectic | 16.00% | ~126,418 |
+| Firestarter | 15.00% | ~118,517 |
+| Bookworm | 14.00% | ~110,616 |
+| Insomniac | 13.00% | ~102,715 |
+| Buddy | 12.00% | ~94,814 |
+| Thief | 12.00% | ~94,814 |
+| Sinner | 11.00% | ~86,913 |
+| Convict | 10.00% | ~79,011 |
+| Traveller | 10.00% | ~79,011 |
+| Haggler | 9.00% | ~71,110 |
+| McLovin | 7.00% | ~55,308 |
+| Runt | 7.00% | ~55,308 |
+| Casanova | 6.00% | ~47,407 |
+| Bad Trip | 5.00% | ~39,506 |
+| Monk | 5.00% | ~39,506 |
+| Serial Killer | 5.00% | ~39,506 |
+| Bastard | 4.00% | ~31,605 |
+| Hunter | 4.00% | ~31,605 |
+| Plague Doctor | 4.00% | ~31,605 |
 | Bard | 3.00% | ~23,703 |
 | Conqueror | 3.00% | ~23,703 |
 | Ginger in a Pickle | 3.00% | ~23,703 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,105 (Ranked 15)  
+Progressed: 790,114 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-26 | 789,739 | 43 |
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
-| 2023-06-29 | 790,105 | 43 |
+| 2023-06-29 | 790,114 | 43 |
 ## Awards
 Max (Character Customization): 7,280  (Ranked 46)  
 Sum: 27,167 (Ranked 43)  

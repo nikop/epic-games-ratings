@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -954,9 +954,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3872,
+  "EOS_Progressed": 3876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5249,6 +5249,11 @@
       "Time": "2023-06-29T15:04:17.8038881+00:00",
       "NumProgressed": 3872,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-29T16:04:23.4002328+00:00",
+      "NumProgressed": 3876,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5260,7 +5265,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -5340,7 +5345,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -5348,7 +5353,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -5356,7 +5361,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1744
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5364,7 +5369,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5372,7 +5377,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -5380,7 +5385,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5412,7 +5417,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5420,7 +5425,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2946
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5436,7 +5441,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -5444,7 +5449,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5452,7 +5457,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_MYWAYS",
@@ -5484,7 +5489,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -5500,7 +5505,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -5508,7 +5513,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -5516,7 +5521,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5532,7 +5537,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5548,7 +5553,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -5572,22 +5577,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3872,
+      "Progressed": 3876,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-28T03:21:33.4351968+00:00",
-  "LastChanged_Achievements": "2023-06-29T15:04:17.8038876+00:00",
+  "LastChanged_Achievements": "2023-06-29T16:04:23.4002323+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-29T15:00:16.6408215+00:00",
-  "LastUpdate_Achievements": "2023-06-29T15:04:17.8039473+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:01:02.9690369+00:00",
+  "LastUpdate_Achievements": "2023-06-29T16:04:23.4002912+00:00"
 }

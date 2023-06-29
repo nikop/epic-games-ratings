@@ -55,7 +55,7 @@
 | Dance Master | 9.00% | ~92 |
 | Bombs Away! | 9.00% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,022 (Ranked 184)  
+Progressed: 1,022 (Ranked 185)  
 Completed: 74 (7.24%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10,7 +10,7 @@ Rating: 3.51 (Ranked 945)
 | Ne Plus Ultra | 60.00% | ~1,025 |
 | Wounded Whispers | 60.00% | ~1,025 |
 | Blood Will Have Blood | 50.00% | ~854 |
-| ICU | 45.00% | ~769 |
+| ICU | 46.00% | ~786 |
 | Peek-a-boo | 44.00% | ~752 |
 | Catch and Release | 44.00% | ~752 |
 | Sucks To Be You | 43.00% | ~734 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,708 (Ranked 164)  
+Progressed: 1,708 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -370,7 +370,7 @@
   "Tags": [],
   "EOS_Progressed": 3163,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4510,9 +4510,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4622,9 +4622,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -4638,9 +4638,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -4702,9 +4702,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -4742,17 +4742,17 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4774,33 +4774,33 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_43_X_FILES",
       "SetID": "bm6el81",
       "Name": "Burn after reading",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
       "SetID": "bm6el81",
       "Name": "Eagle Eyed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -4878,9 +4878,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -4894,9 +4894,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -4910,9 +4910,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -5062,9 +5062,9 @@
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
       "SetID": "83mdf7p",
       "Name": "Going Overboard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -5085,8 +5085,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-06-29T15:06:38.0027912+00:00",
+  "LastChanged_Achievements": "2023-06-29T16:07:29.3690563+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-29T15:00:34.4631748+00:00",
-  "LastUpdate_Achievements": "2023-06-29T15:06:38.0028935+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:01:27.1464029+00:00",
+  "LastUpdate_Achievements": "2023-06-29T16:07:29.3691569+00:00"
 }

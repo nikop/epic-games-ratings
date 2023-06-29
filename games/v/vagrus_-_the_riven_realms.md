@@ -14,11 +14,11 @@
 | Fight Another Day | 6.00% | ~7 |
 | Breached | 5.00% | ~6 |
 | Conciliator | 4.00% | ~4 |
+| Scholar | 4.00% | ~4 |
 | Acquaintance | 4.00% | ~4 |
 | Tail-wind | 4.00% | ~4 |
 | Taskmaster | 4.00% | ~4 |
 | Quartermaster | 3.00% | ~3 |
-| Scholar | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
 | Harbinger | 3.00% | ~3 |
 | Courier | 3.00% | ~3 |

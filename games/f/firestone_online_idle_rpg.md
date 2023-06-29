@@ -18,9 +18,9 @@ Rating: 4.07 (Ranked 895)
 | Miner Clicker | 16.00% | ~244 |
 | Full Party | 15.00% | ~229 |
 | Inspection | 15.00% | ~229 |
+| Dragon Master | 14.00% | ~213 |
 | Enlightenment | 14.00% | ~213 |
 | Hero inspection | 14.00% | ~213 |
-| Dragon Master | 13.00% | ~198 |
 | Lieutenant | 13.00% | ~198 |
 | Milestone collector | 12.00% | ~183 |
 | Mysterious Rock | 12.00% | ~183 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,524 (Ranked 167)  
+Progressed: 1,524 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |

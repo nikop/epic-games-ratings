@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3034,
+  "EOS_Progressed": 3035,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -2339,6 +2339,11 @@
       "Time": "2023-06-29T15:00:46.0599129+00:00",
       "NumProgressed": 3034,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-29T16:02:05.3709492+00:00",
+      "NumProgressed": 3035,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2398,7 +2403,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "campaign10",
@@ -2486,7 +2491,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "campaign20",
@@ -2502,7 +2507,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "campaign4",
@@ -2516,9 +2521,9 @@
       "ID": "campaign5",
       "SetID": "2h56gn1",
       "Name": "Clay Fighter",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 516
     },
     {
       "ID": "campaign6",
@@ -2542,7 +2547,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "campaign9",
@@ -2613,7 +2618,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3034,
+      "Progressed": 3035,
       "Completed": 10
     }
   ],
@@ -2621,8 +2626,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-29T15:00:46.0599122+00:00",
+  "LastChanged_Achievements": "2023-06-29T16:02:05.3709487+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.8425638+00:00",
-  "LastUpdate_Ratings": "2023-06-29T15:00:16.8121374+00:00",
-  "LastUpdate_Achievements": "2023-06-29T15:00:46.0599592+00:00"
+  "LastUpdate_Ratings": "2023-06-29T16:01:03.3094013+00:00",
+  "LastUpdate_Achievements": "2023-06-29T16:02:05.3709961+00:00"
 }

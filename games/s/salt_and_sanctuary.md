@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~436,647 |
-| The Three | 64.00% | ~336,692 |
-| The Banquet | 40.00% | ~210,432 |
-| Devara's Light | 30.00% | ~157,824 |
+| Find Sanctuary | 83.00% | ~436,651 |
+| The Three | 64.00% | ~336,694 |
+| The Banquet | 40.00% | ~210,434 |
+| Devara's Light | 30.00% | ~157,826 |
 | The Iron Ones | 18.00% | ~94,695 |
-| The Village | 16.00% | ~84,173 |
-| The Forest | 14.00% | ~73,651 |
+| The Village | 16.00% | ~84,174 |
+| The Forest | 14.00% | ~73,652 |
 | Branded | 13.00% | ~68,391 |
 | The Imposter | 13.00% | ~68,391 |
 | The Keep | 13.00% | ~68,391 |
 | The Castle | 11.00% | ~57,869 |
-| The Dome | 9.00% | ~47,347 |
-| The Red Hall | 9.00% | ~47,347 |
-| The Sacrifice | 8.00% | ~42,086 |
+| The Dome | 9.00% | ~47,348 |
+| The Red Hall | 9.00% | ~47,348 |
+| The Sacrifice | 8.00% | ~42,087 |
 | The Cave | 7.00% | ~36,826 |
 | The Stone Roots | 7.00% | ~36,826 |
 | The Ziggurat | 7.00% | ~36,826 |
@@ -34,8 +34,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The House of Splendor | 4.00% | ~21,043 |
 | The Crypt | 4.00% | ~21,043 |
 | The Palace | 4.00% | ~21,043 |
-| Find Salvation | 3.00% | ~15,782 |
-| The Unspeakable Deep | 3.00% | ~15,782 |
+| Find Salvation | 3.00% | ~15,783 |
+| The Unspeakable Deep | 3.00% | ~15,783 |
 | Coastrock | 2.00% | ~10,522 |
 | Devoted | 2.00% | ~10,522 |
 | Dominion | 2.00% | ~10,522 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,522 |
 | Fading Fast | 1.00% | ~5,261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,081 (Ranked 28)  
+Progressed: 526,085 (Ranked 28)  
 Completed: 1,463 (0.28%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,10 +114,10 @@ Completed: 1,463 (0.28%) (Ranked 147)
 | 2023-06-26 | 525,838 | 1,461 |
 | 2023-06-27 | 525,938 | 1,461 |
 | 2023-06-28 | 526,020 | 1,462 |
-| 2023-06-29 | 526,081 | 1,463 |
+| 2023-06-29 | 526,085 | 1,463 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
-Sum: 1,902 (Ranked 200)  
+Sum: 1,903 (Ranked 200)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -125,7 +125,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 254 |
 | This game is Highly Recommended | 249 |
 | This game is Extremely Fun | 233 |
-| This game has Diverse Characters | 229 |
+| This game has Diverse Characters | 230 |
 | This game has Amazing Storytelling | 227 |
 | This game has Amazing Characters | 222 |
 | This game has Unique Visuals | 215 |
@@ -259,4 +259,4 @@ Diff (max vs sum): 39
 | 2023-06-21 | 4.61 | - | 273 | 1,899 |
 | 2023-06-25 | 4.61 | - | 273 | 1,900 |
 | 2023-06-28 | 4.61 | - | 273 | 1,901 |
-| 2023-06-29 | 4.61 | - | 273 | 1,902 |
+| 2023-06-29 | 4.61 | - | 273 | 1,903 |
