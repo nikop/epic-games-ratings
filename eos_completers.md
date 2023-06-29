@@ -18,7 +18,7 @@
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.85% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.83% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.88% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -35,12 +35,12 @@
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.09% |
+| 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.08% |
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.80% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
-| 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
+| 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
 | 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.65% |
@@ -58,11 +58,11 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.85% |
-| 58 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.85% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 62 | [Lamentum](games/l/lamentum.md) | 2.68% |
-| 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
+| 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
+| 62 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 64 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.63% |
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
