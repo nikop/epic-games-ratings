@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,693 |
-| That's a Grand Army | 8.00% | ~5,060 |
-| That is mine! | 8.00% | ~5,060 |
-| Victorious! | 8.00% | ~5,060 |
-| Brothers in Arms | 6.00% | ~3,795 |
-| That's a Grand Navy | 6.00% | ~3,795 |
-| Seriously?! | 6.00% | ~3,795 |
+| Until death do us apart | 9.00% | ~5,694 |
+| That's a Grand Army | 8.00% | ~5,061 |
+| That is mine! | 8.00% | ~5,061 |
+| Victorious! | 8.00% | ~5,061 |
+| Brothers in Arms | 6.00% | ~3,796 |
+| That's a Grand Navy | 6.00% | ~3,796 |
+| Seriously?! | 6.00% | ~3,796 |
 | For the Glory | 5.00% | ~3,163 |
-| Cold War | 4.00% | ~2,530 |
-| True Catholic | 4.00% | ~2,530 |
+| Cold War | 4.00% | ~2,531 |
+| True Catholic | 4.00% | ~2,531 |
 | Defender of the Faith | 3.00% | ~1,898 |
 | It's all about the money | 3.00% | ~1,898 |
 | Respected | 3.00% | ~1,898 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,254 (Ranked 77)  
+Progressed: 63,263 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,10 +432,10 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
 | 2023-06-29 | 63,199 | 0 |
-| 2023-06-30 | 63,254 | 0 |
+| 2023-06-30 | 63,263 | 0 |
 ## Awards
 Max (Educational): 5,476  (Ranked 61)  
-Sum: 45,217 (Ranked 27)  
+Sum: 45,224 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -444,7 +444,7 @@ Diff (max vs sum): 34
 | This game has Challenging Combat | 5,210 |
 | This game is Extremely Fun | 5,199 |
 | This game has Diverse Characters | 5,152 |
-| This game is Relaxing | 5,073 |
+| This game is Relaxing | 5,080 |
 | This game has Competitive Players | 4,912 |
 | This game has Amazing Storytelling | 4,650 |
 | This game has Amazing Characters | 4,298 |
@@ -616,3 +616,4 @@ Diff (max vs sum): 34
 | 2023-06-27 | 4.69 | - | 5,461 | 45,122 |
 | 2023-06-28 | 4.69 | - | 5,469 | 45,178 |
 | 2023-06-29 | 4.69 | - | 5,476 | 45,217 |
+| 2023-06-30 | 4.69 | - | 5,476 | 45,224 |

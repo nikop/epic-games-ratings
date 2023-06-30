@@ -37,7 +37,9 @@ Rating: 4.19 (Ranked 844)
 | Terminated | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
+| Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
+| Information Overload | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |
 | It's Time | 0.10% | ~4 |
@@ -50,8 +52,6 @@ Rating: 4.19 (Ranked 844)
 | Bear Trap | 0.00% | ~0 |
 | Hoard Mode | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
-| Big Spender | 0.00% | ~0 |
-| Information Overload | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,591 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  

@@ -9,10 +9,10 @@ Rating: 4.59 (Ranked 410)
 | Tipping the Scales | 1.00% | ~49 |
 | Realm Estate | 0.90% | ~44 |
 | Magical Synergy | 0.90% | ~44 |
+| Mighty Hoard | 0.90% | ~44 |
 | A Wonderful Discovery | 0.80% | ~39 |
 | Walls Cannot Stop Us | 0.80% | ~39 |
 | My Final Form | 0.80% | ~39 |
-| Mighty Hoard | 0.80% | ~39 |
 | From Friends to Family | 0.70% | ~34 |
 | Stronger Together | 0.70% | ~34 |
 | Here be Dragons | 0.70% | ~34 |

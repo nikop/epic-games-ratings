@@ -13,9 +13,9 @@ Rating: 4.64 (Ranked 312)
 | A Method To His Madness | 52.00% | ~261 |
 | History Check | 51.00% | ~256 |
 | The New World | 47.00% | ~236 |
+| Open Sesame | 47.00% | ~236 |
 | Lock, Stock, And Barrel | 46.00% | ~231 |
 | Gaze Into The Abyss | 46.00% | ~231 |
-| Open Sesame | 46.00% | ~231 |
 | Sticky Fingers | 46.00% | ~231 |
 | Knives Out | 46.00% | ~231 |
 | Back In The Saddle | 45.00% | ~226 |
@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 312)
 | No Man Is An Island | 43.00% | ~216 |
 | At Wits' End | 42.00% | ~211 |
 | Fhtagn! | 41.00% | ~206 |
+| Bookworm | 40.00% | ~201 |
 | Up In Flames | 40.00% | ~201 |
-| Bookworm | 39.00% | ~196 |
 | Going Once... | 38.00% | ~191 |
 | Let Me Be Frank | 36.00% | ~181 |
 | Brain Food | 34.00% | ~171 |

@@ -5104,9 +5104,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "50",
@@ -5135,8 +5135,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-30T05:05:17.960705+00:00",
+  "LastChanged_Achievements": "2023-06-30T06:05:50.9168252+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-30T04:59:15.73168+00:00",
-  "LastUpdate_Achievements": "2023-06-30T05:05:17.9607617+00:00"
+  "LastUpdate_Ratings": "2023-06-30T05:59:53.6997832+00:00",
+  "LastUpdate_Achievements": "2023-06-30T06:05:50.9168838+00:00"
 }

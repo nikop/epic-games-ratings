@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2929,
+  "EOS_Progressed": 2930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2015,6 +2015,11 @@
       "Time": "2023-06-29T02:27:04.445487+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T06:06:57.8433108+00:00",
+      "NumProgressed": 2930,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2040,9 +2045,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 938
     },
     {
       "ID": "BloodAndIron",
@@ -2114,7 +2119,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2250,7 +2255,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "Kills_Streak",
@@ -2290,7 +2295,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2497,21 +2502,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2929,
+      "Progressed": 2930,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2929,
+      "Progressed": 2930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-06-30T05:06:16.8104725+00:00",
+  "LastChanged_Achievements": "2023-06-30T06:06:57.8433104+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:32.207379+00:00",
-  "LastUpdate_Ratings": "2023-06-30T04:58:34.5790269+00:00",
-  "LastUpdate_Achievements": "2023-06-30T05:06:16.8105207+00:00"
+  "LastUpdate_Ratings": "2023-06-30T05:59:03.526648+00:00",
+  "LastUpdate_Achievements": "2023-06-30T06:06:57.8433586+00:00"
 }

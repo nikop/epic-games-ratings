@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,650 |
-| Let There Be Light | 27.00% | ~15,259 |
+| Follow the Light | 33.00% | ~18,651 |
+| Let There Be Light | 27.00% | ~15,260 |
 | Float Like a Butterfly | 25.00% | ~14,129 |
 | Nordic Walking | 20.00% | ~11,303 |
 | Bright Falls' Finest | 20.00% | ~11,303 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 10.00% | ~5,652 |
 | Collateral Carnage | 10.00% | ~5,652 |
 | Come One, Come All | 10.00% | ~5,652 |
-| Gatekeeper | 9.00% | ~5,086 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,086 |
-| Thunder and Lightning | 9.00% | ~5,086 |
-| Two For the Price of One | 9.00% | ~5,086 |
+| Gatekeeper | 9.00% | ~5,087 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,087 |
+| Thunder and Lightning | 9.00% | ~5,087 |
+| Two For the Price of One | 9.00% | ~5,087 |
 | The Lady of the Light | 8.00% | ~4,521 |
 | Energized! | 8.00% | ~4,521 |
 | A Friend in Need | 8.00% | ~1,599 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,261 |
 | If It Flies, It Burns | 4.00% | ~2,261 |
 | KBF-FM | 4.00% | ~2,261 |
-| Boob Tube | 3.00% | ~1,695 |
+| Boob Tube | 3.00% | ~1,696 |
 | Kill Your Darlings | 3.00% | ~600 |
 | Heartbreaker | 3.00% | ~600 |
 | Medical Opinions | 2.00% | ~1,130 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,516 (Ranked 79)  
+Progressed: 56,517 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 56 (0.10%) (Ranked 177)
 | 2023-06-27 | 56,377 | 56 |
 | 2023-06-28 | 56,442 | 56 |
 | 2023-06-29 | 56,498 | 56 |
-| 2023-06-30 | 56,516 | 56 |
+| 2023-06-30 | 56,517 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

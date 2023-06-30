@@ -22,7 +22,7 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 12.00% | ~542 |
 | Diamond in the Rough | 12.00% | ~542 |
 | Hook, Line and Sinker | 8.00% | ~362 |
-| Marathon | 7.00% | ~316 |
+| Marathon | 8.00% | ~362 |
 | Big Fish Small Pond | 6.00% | ~271 |
 | I'm the Captain Now | 5.00% | ~226 |
 | School's Out for Summer | 4.00% | ~181 |

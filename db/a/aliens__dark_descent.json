@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2145,
+  "EOS_Progressed": 2146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1172,6 +1172,11 @@
       "Time": "2023-06-30T05:05:56.0627349+00:00",
       "NumProgressed": 2145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T06:06:34.8258968+00:00",
+      "NumProgressed": 2146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1239,7 +1244,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -1301,9 +1306,9 @@
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1357,9 +1362,9 @@
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -1375,7 +1380,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1407,7 +1412,7 @@
       "Name": "Where It All Begun",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1423,7 +1428,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_MISSION_08",
@@ -1495,7 +1500,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1535,14 +1540,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2145,
+      "Progressed": 2146,
       "Completed": 0
     }
   ],
@@ -1550,8 +1555,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-29T11:59:43.2550605+00:00",
-  "LastChanged_Achievements": "2023-06-30T05:05:56.0627346+00:00",
+  "LastChanged_Achievements": "2023-06-30T06:06:34.8258963+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.9793382+00:00",
-  "LastUpdate_Ratings": "2023-06-30T04:59:10.5284411+00:00",
-  "LastUpdate_Achievements": "2023-06-30T05:05:56.0627679+00:00"
+  "LastUpdate_Ratings": "2023-06-30T05:59:47.1296149+00:00",
+  "LastUpdate_Achievements": "2023-06-30T06:06:34.8259321+00:00"
 }

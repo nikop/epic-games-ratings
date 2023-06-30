@@ -8,12 +8,12 @@ Number of Ratings: 9,133  (23.09.2022)
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 31.00% | ~244,957 |
 | Cavalier | 25.00% | ~197,546 |
-| Fatso | 23.00% | ~181,742 |
+| Fatso | 23.00% | ~181,743 |
 | Awakening | 20.00% | ~158,037 |
 | Ranger | 20.00% | ~158,037 |
 | Scrooge | 20.00% | ~158,037 |
-| Anorectic | 16.00% | ~126,429 |
-| Firestarter | 15.00% | ~118,527 |
+| Anorectic | 16.00% | ~126,430 |
+| Firestarter | 15.00% | ~118,528 |
 | Bookworm | 14.00% | ~110,626 |
 | Insomniac | 13.00% | ~102,724 |
 | Buddy | 12.00% | ~94,822 |
@@ -21,7 +21,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Sinner | 11.00% | ~86,920 |
 | Convict | 10.00% | ~79,018 |
 | Traveller | 10.00% | ~79,018 |
-| Haggler | 9.00% | ~71,116 |
+| Haggler | 9.00% | ~71,117 |
 | McLovin | 7.00% | ~55,313 |
 | Runt | 7.00% | ~55,313 |
 | Casanova | 6.00% | ~47,411 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~31,607 |
 | Hunter | 4.00% | ~31,607 |
 | Plague Doctor | 4.00% | ~31,607 |
-| Bard | 3.00% | ~23,705 |
-| Conqueror | 3.00% | ~23,705 |
-| Ginger in a Pickle | 3.00% | ~23,705 |
-| Kingdom did not come | 3.00% | ~23,705 |
+| Bard | 3.00% | ~23,706 |
+| Conqueror | 3.00% | ~23,706 |
+| Ginger in a Pickle | 3.00% | ~23,706 |
+| Kingdom did not come | 3.00% | ~23,706 |
 | Completionist | 2.00% | ~15,804 |
 | Death by splinter | 2.00% | ~15,804 |
 | King Charming | 2.00% | ~15,804 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,183 (Ranked 15)  
+Progressed: 790,185 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
 | 2023-06-29 | 790,168 | 43 |
-| 2023-06-30 | 790,183 | 43 |
+| 2023-06-30 | 790,185 | 43 |
 ## Awards
 Max (Character Customization): 7,284  (Ranked 46)  
 Sum: 27,174 (Ranked 43)  

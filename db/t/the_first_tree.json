@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32825,
+  "EOS_Progressed": 32826,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6503,6 +6503,11 @@
       "Time": "2023-06-30T03:17:10.6979275+00:00",
       "NumProgressed": 32825,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-30T06:01:30.907612+00:00",
+      "NumProgressed": 32826,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6530,7 +6535,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8534
+      "UsersEstimate": 8535
     },
     {
       "ID": "allItems",
@@ -6538,7 +6543,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "allSecrets",
@@ -6625,15 +6630,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32825,
+      "Progressed": 32826,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-30T05:02:14.2241326+00:00",
+  "LastChanged_Achievements": "2023-06-30T06:01:30.9076112+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.7883343+00:00",
-  "LastUpdate_Ratings": "2023-06-30T04:59:53.4228304+00:00",
-  "LastUpdate_Achievements": "2023-06-30T05:02:14.2241749+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:00:40.872597+00:00",
+  "LastUpdate_Achievements": "2023-06-30T06:01:30.9076517+00:00"
 }

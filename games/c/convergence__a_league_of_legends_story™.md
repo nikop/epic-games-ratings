@@ -10,13 +10,14 @@
 | Cartographer | 14.00% | ~102 |
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
+| Time Flies | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
 | Make Up For Lost Time | 12.00% | ~88 |
-| Time Flies | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
+| No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |
 | The Prince in Heels | 12.00% | ~88 |
 | Fast Learner | 12.00% | ~88 |
@@ -25,7 +26,6 @@
 | The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
 | Street Style | 11.00% | ~81 |
-| No, Thanks! | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
 | Golem Chaser | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |
