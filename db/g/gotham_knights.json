@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1814,9 +1814,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66126,
+  "EOS_Progressed": 66129,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8099,6 +8099,11 @@
       "Time": "2023-06-30T04:05:59.3999477+00:00",
       "NumProgressed": 66126,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-30T05:06:14.9955964+00:00",
+      "NumProgressed": 66129,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8444,9 +8449,9 @@
       "ID": "HARLEY_SHOWDOWN_1",
       "SetID": "18c818l",
       "Name": "A Sophisticated Mallet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 73
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -8597,22 +8602,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66126,
+      "Progressed": 66129,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36406,
-      "Completed": 2647
+      "Progressed": 36409,
+      "Completed": 2648
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-29T05:00:14.2117772+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:05:59.3999472+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:06:14.9955959+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:59:23.7386585+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:05:59.4000386+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:59:30.2186967+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:06:14.9956709+00:00"
 }

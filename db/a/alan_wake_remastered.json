@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56514,
+  "EOS_Progressed": 56516,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6482,6 +6482,11 @@
       "Time": "2023-06-30T03:16:48.8640776+00:00",
       "NumProgressed": 56514,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-30T05:00:20.8853949+00:00",
+      "NumProgressed": 56516,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6525,7 +6530,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9607
+      "UsersEstimate": 9608
     },
     {
       "ID": "06",
@@ -6541,7 +6546,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5652
     },
     {
       "ID": "08",
@@ -6549,7 +6554,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5652
     },
     {
       "ID": "09",
@@ -6581,7 +6586,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5652
     },
     {
       "ID": "13",
@@ -6701,7 +6706,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5652
     },
     {
       "ID": "28",
@@ -6709,7 +6714,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5652
     },
     {
       "ID": "29",
@@ -6741,7 +6746,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14128
+      "UsersEstimate": 14129
     },
     {
       "ID": "33",
@@ -6965,7 +6970,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "61",
@@ -7021,28 +7026,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56514,
+      "Progressed": 56516,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19982,
+      "Progressed": 19984,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:00:13.1070522+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:00:20.8853943+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:57:37.7602434+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:00:13.1071378+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:57:44.5390056+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:00:20.8854783+00:00"
 }

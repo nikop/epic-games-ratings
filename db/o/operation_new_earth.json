@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-06-29T23:03:47.9988744+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T05:04:06.5441596+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1026,15 +1031,15 @@
       "Name": "Facility Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1225,14 +1230,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:03:52.0784722+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:04:06.5441591+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:59:57.0947214+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:03:52.0784991+00:00"
+  "LastUpdate_Ratings": "2023-06-30T05:00:03.584382+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:04:06.5441856+00:00"
 }

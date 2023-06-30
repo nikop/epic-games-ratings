@@ -1095,7 +1095,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6931,
+  "EOS_Progressed": 6932,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
@@ -6920,6 +6920,11 @@
       "Time": "2023-06-30T03:19:06.32272+00:00",
       "NumProgressed": 6931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T05:03:54.2692629+00:00",
+      "NumProgressed": 6932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -6931,7 +6936,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "10",
@@ -6963,7 +6968,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "14",
@@ -7011,7 +7016,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "2",
@@ -7043,7 +7048,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "23",
@@ -7083,7 +7088,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "28",
@@ -7099,7 +7104,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "3",
@@ -7203,7 +7208,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "41",
@@ -7259,7 +7264,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "48",
@@ -7289,9 +7294,9 @@
       "ID": "50",
       "SetID": "8idi9ml",
       "Name": "Bookworm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1040
+      "UsersEstimate": 970
     },
     {
       "ID": "51",
@@ -7402,15 +7407,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6931,
+      "Progressed": 6932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:03:39.6751554+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:03:54.2692624+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.3280658+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:59:33.1818478+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:03:39.6752268+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:59:40.2092017+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:03:54.2693351+00:00"
 }

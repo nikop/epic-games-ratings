@@ -3,8 +3,8 @@
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.65,
+  "EOS_Completed_Percentage": 3.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -201,6 +201,11 @@
       "Time": "2023-06-24T13:16:15.2290307+00:00",
       "NumProgressed": 192,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-06-30T05:00:17.716291+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -340,7 +345,7 @@
       "Name": "Safety first",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_SPEEDY",
@@ -348,14 +353,14 @@
       "Name": "ASAP",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 7
     }
   ],
@@ -363,8 +368,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:00:09.7381988+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:00:17.7162905+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:24.6658248+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:59:06.6112476+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:00:09.7382244+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:59:13.6101591+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:00:17.7163122+00:00"
 }

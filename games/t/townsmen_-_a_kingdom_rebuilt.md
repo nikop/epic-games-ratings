@@ -45,6 +45,7 @@ Number of Ratings: 37  (23.09.2022)
 | Five brews are a schnitzel | 2.00% | ~84 |
 | I like to build stuff... V | 2.00% | ~84 |
 | The King's new clothes II | 2.00% | ~84 |
+| The King's new clothes III | 2.00% | ~84 |
 | Saint Florian | 2.00% | ~84 |
 | My precious... II | 2.00% | ~84 |
 | Cosmas and Damian | 2.00% | ~84 |
@@ -56,7 +57,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade III | 2.00% | ~84 |
 | Out of the frying pan | 2.00% | ~84 |
 | The Art of War | 1.00% | ~42 |
-| The King's new clothes III | 1.00% | ~42 |
 | Survivalist | 1.00% | ~42 |
 | My precious... III | 1.00% | ~42 |
 | Lord of War | 1.00% | ~42 |

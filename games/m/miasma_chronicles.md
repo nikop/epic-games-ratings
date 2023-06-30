@@ -45,15 +45,15 @@ Rating: 4.35 (Ranked 734)
 | Bot Whisperer | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
+| Silent but Violent | 4.00% | ~48 |
 | Cruelty | 3.00% | ~36 |
-| Silent but Violent | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
+| Master Editor | 0.70% | ~8 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
-| Master Editor | 0.60% | ~7 |
 | Attenborough | 0.30% | ~4 |
 | Bookworm | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

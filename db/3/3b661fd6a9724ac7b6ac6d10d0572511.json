@@ -868,10 +868,10 @@
       "Count": 195
     }
   ],
-  "EOS_Progressed": 1375520,
-  "EOS_Completed": 271,
-  "EOS_NewPlayers": 76361,
-  "EOS_NewCompleters": 59,
+  "EOS_Progressed": 1375748,
+  "EOS_Completed": 272,
+  "EOS_NewPlayers": 76238,
+  "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
@@ -3303,6 +3303,11 @@
       "Time": "2023-06-30T04:06:08.58186+00:00",
       "NumProgressed": 1375520,
       "NumCompleted": 271
+    },
+    {
+      "Time": "2023-06-30T05:06:24.4812601+00:00",
+      "NumProgressed": 1375748,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 1328,
@@ -3370,7 +3375,7 @@
       "Name": "The Collector",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "armed_and_dangerous",
@@ -3386,7 +3391,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "armored_1",
@@ -4514,7 +4519,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 12380
+      "UsersEstimate": 12382
     },
     {
       "ID": "brooklyn_2",
@@ -4738,7 +4743,7 @@
       "Name": "Virus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8254
     },
     {
       "ID": "cac_29",
@@ -7786,7 +7791,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "gorilla_1",
@@ -7930,7 +7935,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8253
+      "UsersEstimate": 8254
     },
     {
       "ID": "halloween_1",
@@ -8066,7 +8071,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -9026,7 +9031,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     },
     {
       "ID": "no_turning_back",
@@ -9034,7 +9039,7 @@
       "Name": "No Turning Back",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     },
     {
       "ID": "orange_1",
@@ -12872,9 +12877,9 @@
       "ID": "trk_nc_0",
       "SetID": "61cefe3",
       "Name": "Heist Fever",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1376
+      "UsersEstimate": 2751
     },
     {
       "ID": "trk_nc_1",
@@ -13818,7 +13823,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "wwh_1",
@@ -13920,9 +13925,9 @@
       "ID": "you_gotta_start_somewhere",
       "SetID": "61cefe3",
       "Name": "You Gotta Start Somewhere",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 9629
+      "UsersEstimate": 11006
     },
     {
       "ID": "you_shall_not_pass",
@@ -13937,13 +13942,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1375520,
-      "Completed": 271
+      "Progressed": 1375748,
+      "Completed": 272
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1375520,
+      "Progressed": 1375748,
       "Completed": 5
     }
   ],
@@ -13951,8 +13956,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-06-30T03:56:54.9476521+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:06:08.5818595+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:06:24.4812595+00:00",
   "LastUpdate_AppInfo": "2023-06-29T16:57:00.3834028+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:56:54.9476533+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:06:08.5962952+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:57:02.6328235+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:06:24.4946163+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2065,
+  "EOS_Progressed": 2067,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1143,6 +1143,11 @@
       "Time": "2023-06-29T22:02:18.3616267+00:00",
       "NumProgressed": 2065,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-30T05:00:20.6365541+00:00",
+      "NumProgressed": 2067,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1178,7 +1183,7 @@
       "Name": "Helping the little ones",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MOVE_ON",
@@ -1226,7 +1231,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "THE_END",
@@ -1257,7 +1262,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2065,
+      "Progressed": 2067,
       "Completed": 5
     }
   ],
@@ -1265,8 +1270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:00:12.8033075+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:00:20.6365535+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:13.5247061+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:58:56.6182675+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:00:12.8033272+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:59:03.1689481+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:00:20.6365726+00:00"
 }

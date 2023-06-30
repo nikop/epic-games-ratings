@@ -7,11 +7,11 @@ Rating: 4.19 (Ranked 844)
 | ---- | ---------- | ----- |
 | You Need a Gun | 0.30% | ~47 |
 | Get a Grip | 0.30% | ~47 |
+| Two Heads Are Better Than One | 0.30% | ~47 |
 | Paper Jams | 0.30% | ~47 |
 | Giving Back | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
-| Two Heads Are Better Than One | 0.20% | ~31 |
 | Chew 'Em Up | 0.20% | ~31 |
 | Workplace Hazard | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 844)
 | Big Spender | 0.00% | ~0 |
 | Information Overload | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,590 (Ranked 106)  
-Completed: 59 (0.38%) (Ranked 133)  
+Progressed: 15,591 (Ranked 106)  
+Completed: 60 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 59 (0.38%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
-| 2023-06-30 | 15,590 | 59 |
+| 2023-06-30 | 15,591 | 60 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 347 (Ranked 323)  

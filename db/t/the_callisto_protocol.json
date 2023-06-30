@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -788,10 +788,10 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15590,
-  "EOS_Completed": 59,
-  "EOS_NewPlayers": 83,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 15591,
+  "EOS_Completed": 60,
+  "EOS_NewPlayers": 84,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -4963,6 +4963,11 @@
       "Time": "2023-06-30T02:22:52.9586713+00:00",
       "NumProgressed": 15590,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-06-30T05:05:02.3209162+00:00",
+      "NumProgressed": 15591,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 47,
@@ -5092,9 +5097,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -5349,13 +5354,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15590,
-      "Completed": 59
+      "Progressed": 15591,
+      "Completed": 60
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3516,
+      "Progressed": 3517,
       "Completed": 29
     }
   ],
@@ -5363,8 +5368,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-29T18:58:22.9661054+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:04:46.3015752+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:05:02.3209158+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:34.7766534+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:57:47.792987+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:04:46.301629+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:57:54.2951194+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:05:02.3209681+00:00"
 }

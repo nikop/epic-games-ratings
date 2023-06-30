@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,692 |
+| Until death do us apart | 9.00% | ~5,693 |
 | That's a Grand Army | 8.00% | ~5,060 |
 | That is mine! | 8.00% | ~5,060 |
 | Victorious! | 8.00% | ~5,060 |
 | Brothers in Arms | 6.00% | ~3,795 |
 | That's a Grand Navy | 6.00% | ~3,795 |
 | Seriously?! | 6.00% | ~3,795 |
-| For the Glory | 5.00% | ~3,162 |
+| For the Glory | 5.00% | ~3,163 |
 | Cold War | 4.00% | ~2,530 |
 | True Catholic | 4.00% | ~2,530 |
-| Defender of the Faith | 3.00% | ~1,897 |
-| It's all about the money | 3.00% | ~1,897 |
-| Respected | 3.00% | ~1,897 |
-| Truly Divine Ruler | 3.00% | ~1,897 |
+| Defender of the Faith | 3.00% | ~1,898 |
+| It's all about the money | 3.00% | ~1,898 |
+| Respected | 3.00% | ~1,898 |
+| Truly Divine Ruler | 3.00% | ~1,898 |
 | Agressive Expander | 2.00% | ~1,265 |
 | Blockader | 2.00% | ~1,265 |
 | Combined Arms | 2.00% | ~1,265 |
@@ -31,26 +31,26 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~1,265 |
 | The Princess is in this Castle | 2.00% | ~1,265 |
 | Total Control | 2.00% | ~1,265 |
-| All That's Thine Shall Be Mine | 1.00% | ~632 |
-| Azur semé de lis or | 1.00% | ~632 |
-| Bright Spark | 1.00% | ~632 |
-| City of Cities | 1.00% | ~632 |
-| Factionalism | 1.00% | ~632 |
-| A Golden Empire | 1.00% | ~632 |
-| The Five Colonies | 1.00% | ~632 |
-| This navy can take it all | 1.00% | ~632 |
+| All That's Thine Shall Be Mine | 1.00% | ~633 |
+| Azur semé de lis or | 1.00% | ~633 |
+| Bright Spark | 1.00% | ~633 |
+| City of Cities | 1.00% | ~633 |
+| Factionalism | 1.00% | ~633 |
+| A Golden Empire | 1.00% | ~633 |
+| The Five Colonies | 1.00% | ~633 |
+| This navy can take it all | 1.00% | ~633 |
 | The Emperors new clothes | 0.90% | ~569 |
 | Isn't this the way to India? | 0.90% | ~569 |
 | Market Control | 0.90% | ~569 |
 | Down Under | 0.80% | ~506 |
 | Trustworthy | 0.80% | ~506 |
 | Electable! | 0.70% | ~443 |
-| All belongs to Mother Russia | 0.60% | ~379 |
-| At every continent | 0.60% | ~379 |
-| Populists in Government | 0.60% | ~379 |
-| The pen is mightier than the sword | 0.60% | ~379 |
-| This is My Faith | 0.60% | ~379 |
-| Time Bandit | 0.60% | ~379 |
+| All belongs to Mother Russia | 0.60% | ~380 |
+| At every continent | 0.60% | ~380 |
+| Populists in Government | 0.60% | ~380 |
+| The pen is mightier than the sword | 0.60% | ~380 |
+| This is My Faith | 0.60% | ~380 |
+| Time Bandit | 0.60% | ~380 |
 | Early-Modern Warfare | 0.50% | ~316 |
 | Grand Coalition | 0.50% | ~316 |
 | One Family to Rule them All | 0.50% | ~316 |
@@ -82,20 +82,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.30% | ~190 |
 | Wonderful | 0.30% | ~190 |
 | World Discoverer | 0.30% | ~190 |
-| A Protected Market | 0.20% | ~126 |
-| AAA Credit | 0.20% | ~126 |
-| An early Reich | 0.20% | ~126 |
-| Center of Attention | 0.20% | ~126 |
-| Fine Financials | 0.20% | ~126 |
-| A Fine Goosestep | 0.20% | ~126 |
-| Full House | 0.20% | ~126 |
-| Imperio español | 0.20% | ~126 |
-| Industrial Powerhouse | 0.20% | ~126 |
-| Je maintiendrai | 0.20% | ~126 |
-| Magellan’s Voyage | 0.20% | ~126 |
-| Pyramid of Skulls | 0.20% | ~126 |
-| Viva la Revolución! | 0.20% | ~126 |
-| We bled for this | 0.20% | ~126 |
+| A Protected Market | 0.20% | ~127 |
+| AAA Credit | 0.20% | ~127 |
+| An early Reich | 0.20% | ~127 |
+| Center of Attention | 0.20% | ~127 |
+| Fine Financials | 0.20% | ~127 |
+| A Fine Goosestep | 0.20% | ~127 |
+| Full House | 0.20% | ~127 |
+| Imperio español | 0.20% | ~127 |
+| Industrial Powerhouse | 0.20% | ~127 |
+| Je maintiendrai | 0.20% | ~127 |
+| Magellan’s Voyage | 0.20% | ~127 |
+| Pyramid of Skulls | 0.20% | ~127 |
+| Viva la Revolución! | 0.20% | ~127 |
+| We bled for this | 0.20% | ~127 |
 | The 52 Garhs | 0.10% | ~63 |
 | I don't like sand | 0.10% | ~63 |
 | A Blessed Nation | 0.10% | ~63 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,247 (Ranked 77)  
+Progressed: 63,254 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
 | 2023-06-29 | 63,199 | 0 |
-| 2023-06-30 | 63,247 | 0 |
+| 2023-06-30 | 63,254 | 0 |
 ## Awards
 Max (Educational): 5,476  (Ranked 61)  
 Sum: 45,217 (Ranked 27)  

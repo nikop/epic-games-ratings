@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2144,
+  "EOS_Progressed": 2145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1030,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1167,6 +1167,11 @@
       "Time": "2023-06-30T04:05:40.4324125+00:00",
       "NumProgressed": 2144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T05:05:56.0627349+00:00",
+      "NumProgressed": 2145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1210,7 +1215,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1218,7 +1223,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1274,7 +1279,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1290,15 +1295,15 @@
       "Name": "Call Me Snake",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1386,7 +1391,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_MISSION_04",
@@ -1394,7 +1399,7 @@
       "Name": "Making a Stand",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_MISSION_05",
@@ -1474,7 +1479,7 @@
       "Name": "Snatched Out",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1482,7 +1487,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1498,7 +1503,7 @@
       "Name": "People Person",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1537,7 +1542,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2144,
+      "Progressed": 2145,
       "Completed": 0
     }
   ],
@@ -1545,8 +1550,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-29T11:59:43.2550605+00:00",
-  "LastChanged_Achievements": "2023-06-30T04:05:40.4324122+00:00",
+  "LastChanged_Achievements": "2023-06-30T05:05:56.0627346+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.9793382+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:59:03.605025+00:00",
-  "LastUpdate_Achievements": "2023-06-30T04:05:40.432454+00:00"
+  "LastUpdate_Ratings": "2023-06-30T04:59:10.5284411+00:00",
+  "LastUpdate_Achievements": "2023-06-30T05:05:56.0627679+00:00"
 }
