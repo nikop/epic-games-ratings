@@ -3,12 +3,12 @@
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 99,
+  "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -5636,18 +5636,24 @@
       "Rating": 4.1,
       "NumberOfAwards": 13640,
       "NumberOfAwardsMax": 2417
+    },
+    {
+      "Time": "2023-06-30T20:58:25.1728811+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13644,
+      "NumberOfAwardsMax": 2421
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13640,
-  "NumberOfAwardsMax": 2417,
+  "NumberOfAwards": 13644,
+  "NumberOfAwardsMax": 2421,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2417
+      "Count": 2421
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5697,8 +5703,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-06-30T16:58:27.5555879+00:00",
+  "LastChanged": "2023-06-30T20:58:25.172881+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:04.2541027+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:58:36.8884655+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:02:13.332875+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:58:25.1728819+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:02:17.4682385+00:00"
 }

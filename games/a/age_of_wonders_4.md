@@ -5,12 +5,12 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tipping the Scales | 2.00% | ~98 |
 | Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
 | Secret Technique | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
 | My Final Form | 1.00% | ~49 |
-| Tipping the Scales | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | Walls Cannot Stop Us | 0.90% | ~44 |
 | From Friends to Family | 0.90% | ~44 |
@@ -25,8 +25,8 @@ Rating: 4.59 (Ranked 410)
 | Against the Odds | 0.60% | ~29 |
 | Impenetrable Fortress | 0.60% | ~29 |
 | Intimidation Tactics | 0.60% | ~29 |
+| Duality | 0.60% | ~29 |
 | Digging for Treasure | 0.50% | ~24 |
-| Duality | 0.50% | ~24 |
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Arch Mage | 0.40% | ~20 |

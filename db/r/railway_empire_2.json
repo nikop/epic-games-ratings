@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -2977,9 +2977,9 @@
       "ID": "A26",
       "SetID": "9b7p7eo",
       "Name": "Max Power",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 186
     },
     {
       "ID": "A27",
@@ -3218,8 +3218,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-06-28T07:58:22.6687164+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:06:49.5369927+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:06:12.2534592+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:47.8009478+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:58:20.7501181+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:06:49.5370434+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:58:14.297166+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:06:12.2535257+00:00"
 }

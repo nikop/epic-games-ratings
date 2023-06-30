@@ -30,7 +30,7 @@ Number of Ratings: 58  (23.09.2022)
 | It Was An Accident | 40.00% | ~404 |
 | Set in Motion | 38.00% | ~384 |
 | In the Eye of the Storm | 38.00% | ~384 |
-| The Crimson Void | 34.00% | ~344 |
+| The Crimson Void | 35.00% | ~354 |
 | The Nameless Dread | 33.00% | ~334 |
 | Time to Spear | 30.00% | ~303 |
 | Mastery of Weapons | 29.00% | ~293 |
@@ -38,7 +38,7 @@ Number of Ratings: 58  (23.09.2022)
 | Two Birds | 25.00% | ~253 |
 | Uneasy Alliance | 24.00% | ~243 |
 | Ghosts | 24.00% | ~243 |
-| Mastery of Combat | 21.00% | ~212 |
+| Mastery of Combat | 22.00% | ~222 |
 | Retaliate | 21.00% | ~212 |
 | Mastery of Rites | 20.00% | ~202 |
 | Power Chord | 20.00% | ~202 |

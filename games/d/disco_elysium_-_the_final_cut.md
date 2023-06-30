@@ -7,16 +7,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~34,289 |
-| Biggest Communism Builder | 24.00% | ~29,390 |
+| Biggest Communism Builder | 24.00% | ~29,391 |
 | The World's Most Laughable Centrist | 20.00% | ~24,492 |
 | Il Coppo Del'Arte! | 18.00% | ~22,043 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,594 |
 | Hyperstellar Law Official | 15.00% | ~18,369 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,144 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,145 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,920 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,920 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,471 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,021 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,022 |
 | Unbelievably Boring **** | 8.00% | ~9,797 |
 | Enemy Of The Physical Realm | 8.00% | ~9,797 |
 | Hardie's Heroes | 6.00% | ~7,348 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,460 (Ranked 60)  
+Progressed: 122,462 (Ranked 60)  
 Completed: 26 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,14 +118,14 @@ Completed: 26 (0.02%) (Ranked 210)
 | 2023-06-27 | 122,349 | 26 |
 | 2023-06-28 | 122,380 | 26 |
 | 2023-06-29 | 122,425 | 26 |
-| 2023-06-30 | 122,460 | 26 |
+| 2023-06-30 | 122,462 | 26 |
 ## Awards
-Max (Character Customization): 698  (Ranked 162)  
-Sum: 1,058 (Ranked 233)  
+Max (Character Customization): 699  (Ranked 162)  
+Sum: 1,059 (Ranked 233)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 698 |
+| This game has Inclusive Character Customization | 699 |
 | This game has Amazing Storytelling | 46 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -246,3 +246,4 @@ Diff (max vs sum): -71
 | 2023-06-13 | 4.86 | - | 696 | 1,056 |
 | 2023-06-18 | 4.86 | - | 697 | 1,057 |
 | 2023-06-23 | 4.86 | - | 698 | 1,058 |
+| 2023-06-30 | 4.86 | - | 699 | 1,059 |

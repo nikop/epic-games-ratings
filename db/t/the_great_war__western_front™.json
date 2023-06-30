@@ -4,8 +4,8 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2023-06-30T15:04:12.6533815+00:00",
       "NumProgressed": 270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T21:04:16.8255192+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1212,9 +1217,9 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -1285,7 +1290,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 0
     }
   ],
@@ -1293,8 +1298,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:04:29.4618919+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:04:16.8255182+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:21.4178245+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:58:51.9116071+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:04:29.4619045+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:58:37.1257291+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:04:16.8255548+00:00"
 }

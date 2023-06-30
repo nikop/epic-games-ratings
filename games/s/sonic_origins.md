@@ -6,7 +6,7 @@ Number of Ratings: 154  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Sonic the Hedgehog | 97.00% | ~199 |
+| Welcome to Sonic the Hedgehog | 98.00% | ~201 |
 | Newbie Hero | 87.00% | ~178 |
 | Welcome to Sonic the Hedgehog 2 | 80.00% | ~164 |
 | Welcome to Sonic CD | 79.00% | ~162 |
@@ -16,16 +16,16 @@ Number of Ratings: 154  (23.09.2022)
 | Knuckles the Echidna | 71.00% | ~146 |
 | Everyone's Hero | 71.00% | ~146 |
 | Bubbly Breath | 68.00% | ~139 |
+| Easy Peasy with Shields | 68.00% | ~139 |
 | Gallant Spin Dash | 68.00% | ~139 |
-| Easy Peasy with Shields | 67.00% | ~137 |
 | Miles "Tails" Prower | 67.00% | ~137 |
-| Boss Rush Attempt | 61.00% | ~125 |
+| Boss Rush Attempt | 62.00% | ~127 |
+| Very First Mission Clear! | 58.00% | ~119 |
 | Cleared Sonic the Hedgehog | 58.00% | ~119 |
-| Very First Mission Clear! | 57.00% | ~117 |
 | Museum Time | 55.00% | ~113 |
 | Beware Stingers! | 51.00% | ~105 |
+| Super Sonic | 51.00% | ~105 |
 | Shut Down Metal Sonic | 50.00% | ~102 |
-| Super Sonic | 50.00% | ~102 |
 | Cleared Sonic CD | 49.00% | ~100 |
 | Beware Moto Bugs! | 46.00% | ~94 |
 | Cleared Sonic the Hedgehog 2 | 46.00% | ~94 |

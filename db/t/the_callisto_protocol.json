@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -794,9 +794,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15596,
+  "EOS_Progressed": 15597,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -4999,6 +4999,11 @@
       "Time": "2023-06-30T20:05:23.7777998+00:00",
       "NumProgressed": 15596,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-06-30T21:05:02.4646714+00:00",
+      "NumProgressed": 15597,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5112,9 +5117,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5136,9 +5141,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "KILL_ROBOT",
@@ -5360,9 +5365,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -5385,13 +5390,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15596,
+      "Progressed": 15597,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3522,
+      "Progressed": 3523,
       "Completed": 29
     }
   ],
@@ -5399,8 +5404,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-30T13:12:24.9478175+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:05:23.7777994+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:05:02.4646709+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:34.7766534+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:58:07.8213149+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:05:23.7778501+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:58:05.713473+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:05:02.4647403+00:00"
 }

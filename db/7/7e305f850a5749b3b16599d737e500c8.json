@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 82,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 35.37,
   "EosHistory": [
@@ -618,9 +618,9 @@
       "ID": "Tower_builder",
       "SetID": "b7i210",
       "Name": "Tower builder",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Troubleshooter",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:04:03.8957386+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:03:56.0761376+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:57:22.3121162+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:04:03.8957517+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:57:27.6346221+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:03:56.0761543+00:00"
 }

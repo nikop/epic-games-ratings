@@ -5,15 +5,15 @@ Rating: 4.44 (Ranked 633)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,165 |
-| Predator I | 22.00% | ~55,472 |
+| Survivor | 31.00% | ~78,166 |
+| Predator I | 22.00% | ~55,473 |
 | Fixer I | 10.00% | ~25,215 |
 | A week in Century City | 10.00% | ~25,215 |
 | The Wait | 7.00% | ~17,650 |
 | Green thumb I | 6.00% | ~15,129 |
 | Cleaning Company | 6.00% | ~15,129 |
-| Well-oiled machine | 5.00% | ~12,607 |
-| Saver I | 5.00% | ~12,607 |
+| Well-oiled machine | 5.00% | ~12,608 |
+| Saver I | 5.00% | ~12,608 |
 | The Ascent | 4.00% | ~10,086 |
 | Pacifist | 4.00% | ~10,086 |
 | Vandalism | 4.00% | ~10,086 |
@@ -27,14 +27,14 @@ Rating: 4.44 (Ranked 633)
 | Predator II | 2.00% | ~5,043 |
 | Truffle Dog | 2.00% | ~5,043 |
 | A month in Century City | 2.00% | ~5,043 |
-| The Strengthening | 1.00% | ~2,521 |
-| Saver II | 1.00% | ~2,521 |
-| It's the last one, I swear | 1.00% | ~2,521 |
-| Botanist | 1.00% | ~2,521 |
-| Green thumb II | 1.00% | ~2,521 |
-| Don't try this at home | 1.00% | ~2,521 |
-| Bricklayer | 1.00% | ~2,521 |
-| Run the Economy | 1.00% | ~2,521 |
+| The Strengthening | 1.00% | ~2,522 |
+| Saver II | 1.00% | ~2,522 |
+| It's the last one, I swear | 1.00% | ~2,522 |
+| Botanist | 1.00% | ~2,522 |
+| Green thumb II | 1.00% | ~2,522 |
+| Don't try this at home | 1.00% | ~2,522 |
+| Bricklayer | 1.00% | ~2,522 |
+| Run the Economy | 1.00% | ~2,522 |
 | Committed Relationship | 0.80% | ~2,017 |
 | Number 1 | 0.70% | ~1,765 |
 | Interior designer | 0.60% | ~1,513 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 633)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,146 (Ranked 42)  
+Progressed: 252,150 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-27 | 251,990 | 2 |
 | 2023-06-28 | 252,047 | 2 |
 | 2023-06-29 | 252,095 | 2 |
-| 2023-06-30 | 252,146 | 2 |
+| 2023-06-30 | 252,150 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 451)  
 Sum: 171 (Ranked 375)  

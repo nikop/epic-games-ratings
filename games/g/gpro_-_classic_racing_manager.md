@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 78.00% | ~168 |
-| Better than cake | 9.00% | ~19 |
-| No brakes | 8.00% | ~17 |
-| Photo shoot | 8.00% | ~17 |
-| Wannabe | 6.00% | ~13 |
-| First taste | 3.00% | ~6 |
-| Amateur hitchhiker | 3.00% | ~6 |
+| Newbie | 79.00% | ~181 |
+| Photo shoot | 10.00% | ~23 |
+| Better than cake | 8.00% | ~18 |
+| No brakes | 8.00% | ~18 |
+| Wannabe | 7.00% | ~16 |
+| First taste | 3.00% | ~7 |
+| Amateur hitchhiker | 3.00% | ~7 |
 | Hero | 1.00% | ~2 |
 | Loyalty | 0.90% | ~2 |
 | Drama queen | 0.90% | ~2 |
@@ -18,20 +18,20 @@
 | Hattrick | 0.90% | ~2 |
 | Tutorial master | 0.90% | ~2 |
 | Weatherman | 0.90% | ~2 |
-| Amateur newbie | 0.50% | ~1 |
-| Pro newbie | 0.50% | ~1 |
-| Monster Amateur car | 0.50% | ~1 |
-| Pro hitchhiker | 0.50% | ~1 |
-| Amateur wannabe | 0.50% | ~1 |
-| Knockout Amateur | 0.50% | ~1 |
-| No brakes Amateur | 0.50% | ~1 |
-| First Amateur taste | 0.50% | ~1 |
-| Addict | 0.50% | ~1 |
-| Shepherd | 0.50% | ~1 |
-| Amateur hattrick | 0.50% | ~1 |
-| Untouchable | 0.50% | ~1 |
-| Amateur photo shoot | 0.50% | ~1 |
-| On the top | 0.50% | ~1 |
+| Amateur newbie | 0.40% | ~1 |
+| Pro newbie | 0.40% | ~1 |
+| Monster Amateur car | 0.40% | ~1 |
+| Pro hitchhiker | 0.40% | ~1 |
+| Amateur wannabe | 0.40% | ~1 |
+| Knockout Amateur | 0.40% | ~1 |
+| No brakes Amateur | 0.40% | ~1 |
+| First Amateur taste | 0.40% | ~1 |
+| Addict | 0.40% | ~1 |
+| Shepherd | 0.40% | ~1 |
+| Amateur hattrick | 0.40% | ~1 |
+| Untouchable | 0.40% | ~1 |
+| Amateur photo shoot | 0.40% | ~1 |
+| On the top | 0.40% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 259)  
+Progressed: 229 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,4 +210,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-24 | 203 | 0 |
 | 2023-06-27 | 204 | 0 |
 | 2023-06-28 | 205 | 0 |
-| 2023-06-30 | 216 | 0 |
+| 2023-06-30 | 229 | 0 |

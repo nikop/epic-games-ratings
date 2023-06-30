@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -348,11 +348,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2522,
+  "EOS_Progressed": 2523,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.97,
+  "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -1623,6 +1623,11 @@
       "Time": "2023-06-30T12:04:02.3591521+00:00",
       "NumProgressed": 2522,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-06-30T21:03:38.1686326+00:00",
+      "NumProgressed": 2523,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1650,7 +1655,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1666,7 +1671,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -1690,7 +1695,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -1714,7 +1719,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -1745,7 +1750,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2522,
+      "Progressed": 2523,
       "Completed": 100
     }
   ],
@@ -1753,8 +1758,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-28T11:01:39.862612+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:03:42.0098428+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:03:38.1686318+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:34.7093496+00:00",
-  "LastUpdate_Ratings": "2023-06-30T20:00:43.5070445+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:03:42.0098568+00:00"
+  "LastUpdate_Ratings": "2023-06-30T21:00:12.6984143+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:03:38.1686727+00:00"
 }

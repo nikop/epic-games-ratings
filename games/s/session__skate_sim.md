@@ -123,12 +123,12 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 2,486 | 0 |
 | 2023-06-29 | 2,487 | 0 |
 ## Awards
-Max (Highly Recommended): 49  (Ranked 400)  
-Sum: 430 (Ranked 303)  
-Diff (max vs sum): 97  
+Max (Highly Recommended): 50  (Ranked 397)  
+Sum: 431 (Ranked 303)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 49 |
+| This game is Highly Recommended | 50 |
 | This game is Great for Quick Sessions | 43 |
 | This game has a Creative Community | 41 |
 | This game has Amazing Characters | 40 |
@@ -253,3 +253,4 @@ Diff (max vs sum): 97
 | 2023-06-25 | 4.67 | - | 49 | 428 |
 | 2023-06-26 | 4.67 | - | 49 | 429 |
 | 2023-06-27 | 4.67 | - | 49 | 430 |
+| 2023-06-30 | 4.67 | - | 50 | 431 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1278,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -930,6 +930,11 @@
       "Time": "2023-06-30T06:03:39.9646168+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T21:03:27.7879201+00:00",
+      "NumProgressed": 1278,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -957,7 +962,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1109,7 +1114,7 @@
       "Name": "How Romantic!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_maimedHero",
@@ -1213,7 +1218,7 @@
       "Name": "Daybreak",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1283,9 +1288,9 @@
       "ID": "theme_fire_hit5EnemiesAtOnce",
       "SetID": "95dc8p",
       "Name": "Grillmaster",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 51
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -1388,15 +1393,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1278,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:03:30.0156166+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:03:27.7879196+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-30T20:01:02.0915848+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:03:30.0156615+00:00"
+  "LastUpdate_Ratings": "2023-06-30T21:00:28.289207+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:03:27.7879755+00:00"
 }

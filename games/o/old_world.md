@@ -54,9 +54,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 34.00% | ~4,227 |
 | Drillmaster | 32.00% | ~3,978 |
 | Colossus | 32.00% | ~3,978 |
+| Legendary Cities | 31.00% | ~3,854 |
 | Furious Family | 31.00% | ~3,854 |
 | Learn to Play 1 | 31.00% | ~3,854 |
-| Legendary Cities | 30.00% | ~3,729 |
 | Artisans | 30.00% | ~3,729 |
 | Acropolis | 30.00% | ~3,729 |
 | Mythology | 30.00% | ~3,729 |

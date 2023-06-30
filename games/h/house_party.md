@@ -37,6 +37,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.20% | ~11 |
 | The Bride | 0.20% | ~11 |
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
+| The Harder They Fall...Dood | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
 | Rachael | 0.20% | ~11 |
 | A Striking Resemblance | 0.20% | ~11 |
@@ -55,7 +56,6 @@ Number of Ratings: 177  (23.09.2022)
 | First Impressions | 0.10% | ~6 |
 | Good Riddance! | 0.10% | ~6 |
 | I Know Grump-Fu | 0.10% | ~6 |
-| The Harder They Fall...Dood | 0.10% | ~6 |
 | Hijinks Averted | 0.10% | ~6 |
 | Host Hijinks | 0.10% | ~6 |
 | Hungry Hungry Hot Tubs | 0.10% | ~3 |

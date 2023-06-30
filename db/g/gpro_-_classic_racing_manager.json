@@ -2,10 +2,10 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -441,6 +441,11 @@
       "Time": "2023-06-30T20:06:35.389395+00:00",
       "NumProgressed": 216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T21:06:00.6515054+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -452,7 +457,7 @@
       "Name": "First taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -514,15 +519,15 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -530,7 +535,7 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "76k7b7p",
       "Name": "Pro newbie",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -554,7 +559,7 @@
       "ID": "ACHIEVEMENT_183",
       "SetID": "76k7b7p",
       "Name": "Monster Amateur car",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -588,13 +593,13 @@
       "Name": "Amateur hitchhiker",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_189",
       "SetID": "76k7b7p",
       "Name": "Pro hitchhiker",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -602,9 +607,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -690,9 +695,9 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -746,7 +751,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "76k7b7p",
       "Name": "Amateur wannabe",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -906,7 +911,7 @@
       "ID": "ACHIEVEMENT_233",
       "SetID": "76k7b7p",
       "Name": "Knockout Amateur",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -956,13 +961,13 @@
       "Name": "No brakes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_27",
       "SetID": "76k7b7p",
       "Name": "No brakes Amateur",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1082,7 +1087,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "76k7b7p",
       "Name": "First Amateur taste",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1130,7 +1135,7 @@
       "ID": "ACHIEVEMENT_304",
       "SetID": "76k7b7p",
       "Name": "Addict",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1138,7 +1143,7 @@
       "ID": "ACHIEVEMENT_305",
       "SetID": "76k7b7p",
       "Name": "Shepherd",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1290,7 +1295,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "76k7b7p",
       "Name": "Amateur hattrick",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1570,9 +1575,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "76k7b7p",
       "Name": "Photo shoot",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1642,7 +1647,7 @@
       "ID": "ACHIEVEMENT_85",
       "SetID": "76k7b7p",
       "Name": "Untouchable",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1674,7 +1679,7 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "76k7b7p",
       "Name": "Amateur photo shoot",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1690,7 +1695,7 @@
       "ID": "ACHIEVEMENT_91",
       "SetID": "76k7b7p",
       "Name": "On the top",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1747,14 +1752,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:06:35.3893945+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:06:00.651505+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:10.8127906+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:57:19.9076618+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:06:35.3896731+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:57:25.3172643+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:06:00.6518723+00:00"
 }

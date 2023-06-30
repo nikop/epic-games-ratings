@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Scholar | 25.00% | ~418 |
 | Dishonored | 24.00% | ~402 |
 | The Great Escape | 23.00% | ~385 |
-| That’s All, Folks | 18.00% | ~301 |
+| That’s All, Folks | 19.00% | ~318 |
 | Fallen Star | 16.00% | ~268 |
 | For Balance | 16.00% | ~268 |
 | Here Comes Santa Claus | 16.00% | ~268 |

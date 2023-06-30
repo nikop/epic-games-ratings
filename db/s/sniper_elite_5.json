@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3168,
+  "EOS_Progressed": 3169,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4518,6 +4518,11 @@
       "Time": "2023-06-30T15:06:09.8883072+00:00",
       "NumProgressed": 3168,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-30T21:06:12.7139419+00:00",
+      "NumProgressed": 3169,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4719,9 +4724,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -5096,13 +5101,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3119,
+      "Progressed": 3120,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3168,
+      "Progressed": 3169,
       "Completed": 6
     }
   ],
@@ -5110,8 +5115,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-06-30T20:06:50.079915+00:00",
+  "LastChanged_Achievements": "2023-06-30T21:06:12.7139414+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-30T20:00:56.247555+00:00",
-  "LastUpdate_Achievements": "2023-06-30T20:06:50.0799907+00:00"
+  "LastUpdate_Ratings": "2023-06-30T21:00:23.6555909+00:00",
+  "LastUpdate_Achievements": "2023-06-30T21:06:12.7140402+00:00"
 }

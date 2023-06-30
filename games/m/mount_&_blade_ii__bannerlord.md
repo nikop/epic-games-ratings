@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,655 |
-| Landlord | 31.00% | ~16,925 |
-| Lawmaker | 22.00% | ~12,011 |
-| Bannerlord | 21.00% | ~11,465 |
-| Horde breaker | 21.00% | ~11,465 |
-| Trained | 21.00% | ~11,465 |
-| The king is pleased | 17.00% | ~9,281 |
-| King Solomon | 16.00% | ~8,735 |
-| I can do it | 15.00% | ~8,189 |
-| Apple of my eye | 14.00% | ~7,643 |
+| Lawbringer | 36.00% | ~19,657 |
+| Landlord | 31.00% | ~16,927 |
+| Lawmaker | 22.00% | ~12,012 |
+| Bannerlord | 21.00% | ~11,466 |
+| Horde breaker | 21.00% | ~11,466 |
+| Trained | 21.00% | ~11,466 |
+| The king is pleased | 17.00% | ~9,282 |
+| King Solomon | 16.00% | ~8,736 |
+| I can do it | 15.00% | ~8,190 |
+| Apple of my eye | 14.00% | ~7,644 |
 | God of the Arena | 12.00% | ~6,552 |
 | Against all odds | 10.00% | ~5,460 |
 | Swordbearer | 10.00% | ~5,460 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,596 (Ranked 81)  
+Progressed: 54,602 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,15 +129,15 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 54,371 | 0 |
 | 2023-06-28 | 54,434 | 0 |
 | 2023-06-29 | 54,516 | 0 |
-| 2023-06-30 | 54,596 | 0 |
+| 2023-06-30 | 54,602 | 0 |
 ## Awards
 Max (Character Customization): 6,742  (Ranked 48)  
-Sum: 13,581 (Ranked 68)  
+Sum: 13,584 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,742 |
-| This game is Great for Beginners | 868 |
+| This game is Great for Beginners | 871 |
 | This game has Diverse Characters | 845 |
 | This game is Highly Recommended | 807 |
 | This game is Extremely Fun | 769 |
@@ -317,4 +317,4 @@ Diff (max vs sum): -20
 | 2023-06-27 | 4.74 | - | 6,725 | 13,546 |
 | 2023-06-28 | 4.74 | - | 6,730 | 13,563 |
 | 2023-06-29 | 4.74 | - | 6,738 | 13,576 |
-| 2023-06-30 | 4.74 | - | 6,742 | 13,581 |
+| 2023-06-30 | 4.74 | - | 6,742 | 13,584 |
