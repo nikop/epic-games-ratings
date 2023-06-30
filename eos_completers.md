@@ -48,8 +48,8 @@
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
-| 49 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.36% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.40% |
+| 50 | [JARS](games/j/jars.md) | 3.39% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.81% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.80% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
@@ -67,7 +67,7 @@
 | 65 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 66 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
+| 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.31% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
@@ -99,7 +99,7 @@
 | 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
-| 100 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
+| 100 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 101 | [Sable](games/s/sable.md) | 0.96% |
 | 102 | [Adios](games/a/adios.md) | 0.92% |
 | 103 | [Hades](games/h/hades.md) | 0.89% |
@@ -191,24 +191,24 @@
 | 186 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 190 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.07% |
 | 190 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.07% |
+| 190 | [Outward Definitive Edition](games/o/outward.md) | 0.07% |
 | 190 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 190 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 194 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 196 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 196 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
-| 196 | [House Party](games/h/house_party.md) | 0.05% |
-| 196 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 200 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 200 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 202 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 202 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 202 | [High On Life](games/h/high_on_life.md) | 0.03% |
-| 202 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 202 | [Old World](games/o/old_world.md) | 0.03% |
-| 202 | [Outward Definitive Edition](games/o/outward.md) | 0.03% |
-| 202 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 202 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 195 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 197 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 197 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
+| 197 | [House Party](games/h/house_party.md) | 0.05% |
+| 197 | [Saints Row](games/s/saints_row.md) | 0.05% |
+| 201 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 201 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 203 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 203 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 203 | [High On Life](games/h/high_on_life.md) | 0.03% |
+| 203 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 203 | [Old World](games/o/old_world.md) | 0.03% |
+| 203 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 203 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 210 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 210 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 210 | [Good Company](games/g/good_company.md) | 0.02% |
