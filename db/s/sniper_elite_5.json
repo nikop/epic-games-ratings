@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3166,
+  "EOS_Progressed": 3167,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4508,6 +4508,11 @@
       "Time": "2023-06-30T12:07:44.3813001+00:00",
       "NumProgressed": 3166,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-30T14:05:58.7484992+00:00",
+      "NumProgressed": 3167,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4653,9 +4658,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -4767,7 +4772,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -5086,13 +5091,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3117,
+      "Progressed": 3118,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3166,
+      "Progressed": 3167,
       "Completed": 6
     }
   ],
@@ -5100,8 +5105,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-06-30T13:20:37.4480133+00:00",
+  "LastChanged_Achievements": "2023-06-30T14:05:58.7484987+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:14:58.9209721+00:00",
-  "LastUpdate_Achievements": "2023-06-30T13:20:37.4480877+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:00:17.1231807+00:00",
+  "LastUpdate_Achievements": "2023-06-30T14:05:58.7485992+00:00"
 }

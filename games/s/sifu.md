@@ -8,11 +8,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~981 |
 | Project Arena | 4.00% | ~785 |
-| The Old Grandmaster | 2.00% | ~14,206 |
-| The Assault | 2.00% | ~14,206 |
-| The Hateful Pole Fighter | 2.00% | ~14,206 |
-| Life is your teacher | 2.00% | ~14,206 |
-| Lightning Hands | 2.00% | ~14,206 |
+| The Old Grandmaster | 2.00% | ~14,207 |
+| The Assault | 2.00% | ~14,207 |
+| The Hateful Pole Fighter | 2.00% | ~14,207 |
+| Life is your teacher | 2.00% | ~14,207 |
+| Lightning Hands | 2.00% | ~14,207 |
 | A Lady's Blood in the Snow | 1.00% | ~7,103 |
 | Lady Wing Chun | 1.00% | ~7,103 |
 | Furious Fists | 1.00% | ~7,103 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,552 |
 | Sword Stained With Blood | 0.50% | ~3,552 |
 | Prodigal Child | 0.40% | ~2,841 |
-| Martial Hub | 0.40% | ~78 |
-| Secure, Protect, Leave | 0.40% | ~78 |
+| Martial Hub | 0.40% | ~79 |
+| Secure, Protect, Leave | 0.40% | ~79 |
 | Drunken Fighter | 0.30% | ~2,131 |
 | Martial Artist | 0.30% | ~2,131 |
 | Knowledge Greed | 0.30% | ~2,131 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,324 (Ranked 17)  
-Completed: 12,797 (1.80%) (Ranked 79)  
+Progressed: 710,328 (Ranked 17)  
+Completed: 12,798 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 12,797 (1.80%) (Ranked 79)
 | 2023-06-27 | 710,214 | 12,794 |
 | 2023-06-28 | 710,263 | 12,795 |
 | 2023-06-29 | 710,306 | 12,795 |
-| 2023-06-30 | 710,324 | 12,797 |
+| 2023-06-30 | 710,328 | 12,798 |
 ## Awards
 Max (Great Boss Battles): 6,219  (Ranked 52)  
 Sum: 10,642 (Ranked 78)  

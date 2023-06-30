@@ -55,12 +55,12 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 1.00% | ~7 |
 | Innovator | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
+| Will work | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.90% | ~1 |
 | Information Age | 0.90% | ~1 |
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
-| Will work | 0.90% | ~7 |
 | Achiever | 0.80% | ~6 |
 | Digital Age | 0.80% | ~1 |
 | Astrochemist | 0.70% | ~1 |

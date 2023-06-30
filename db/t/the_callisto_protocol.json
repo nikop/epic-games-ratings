@@ -796,7 +796,7 @@
   ],
   "EOS_Progressed": 15592,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -5092,9 +5092,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5116,9 +5116,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "KILL_ROBOT",
@@ -5196,9 +5196,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "STORY_HANGAR",
@@ -5212,9 +5212,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -5276,9 +5276,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -5379,8 +5379,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-30T13:12:24.9478175+00:00",
-  "LastChanged_Achievements": "2023-06-30T13:19:23.0404933+00:00",
+  "LastChanged_Achievements": "2023-06-30T14:04:45.0657845+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:34.7766534+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:12:24.9478178+00:00",
-  "LastUpdate_Achievements": "2023-06-30T13:19:23.040542+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:57:54.1725874+00:00",
+  "LastUpdate_Achievements": "2023-06-30T14:04:45.0658495+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Get a Grip | 0.50% | ~78 |
 | You Need a Gun | 0.40% | ~62 |
-| Get a Grip | 0.40% | ~62 |
 | Two Heads Are Better Than One | 0.40% | ~62 |
 | Paper Jams | 0.40% | ~62 |
 | Keep Fighting | 0.40% | ~14 |
 | Giving Back | 0.30% | ~47 |
 | Flesh Wound | 0.30% | ~47 |
 | I Do Belong Here | 0.30% | ~47 |
+| Chew 'Em Up | 0.30% | ~47 |
 | Reforged | 0.30% | ~47 |
+| Without A Paddle | 0.30% | ~47 |
 | In the Pipe, Five by Five | 0.30% | ~47 |
+| What Lies Beneath | 0.30% | ~47 |
 | Crash Site | 0.30% | ~47 |
 | Power Up | 0.30% | ~47 |
-| Chew 'Em Up | 0.20% | ~31 |
 | Terminated | 0.20% | ~31 |
 | Workplace Hazard | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
 | Float Like A Butterfly | 0.20% | ~31 |
 | The Outer Way | 0.20% | ~31 |
 | If the SHU Fits... | 0.20% | ~31 |
-| Without A Paddle | 0.20% | ~31 |
-| What Lies Beneath | 0.20% | ~31 |
 | Desperate Times | 0.20% | ~31 |
 | Full Circle | 0.20% | ~31 |
 | It's Time | 0.20% | ~7 |
@@ -39,6 +39,7 @@ Rating: 4.19 (Ranked 844)
 | In Striking Distance | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | Instigator | 0.10% | ~4 |
+| Bear Trap | 0.10% | ~4 |
 | Hoard Mode | 0.10% | ~4 |
 | Subject Alpha | 0.10% | ~4 |
 | Big Spender | 0.10% | ~4 |
@@ -51,7 +52,6 @@ Rating: 4.19 (Ranked 844)
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
-| Bear Trap | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,592 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  

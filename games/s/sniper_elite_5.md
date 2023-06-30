@@ -5,9 +5,10 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Kraken Wakes | 0.30% | ~9 |
+| The Kraken Wakes | 0.30% | ~10 |
 | Liberté | 0.20% | ~6 |
 | No Stone Unturned | 0.20% | ~6 |
+| Sharpshooter | 0.20% | ~6 |
 | Confirming Suspicions | 0.20% | ~6 |
 | Resourceful | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
@@ -25,7 +26,6 @@ Rating: 4.45 (Ranked 616)
 | Meeting Resistance | 0.10% | ~3 |
 | Gunslinger | 0.10% | ~3 |
 | Skirmisher | 0.10% | ~3 |
-| Sharpshooter | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
 | Precision Is Key | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 616)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,166 (Ranked 145)  
+Progressed: 3,167 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
-| 2023-06-30 | 3,166 | 6 |
+| 2023-06-30 | 3,167 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

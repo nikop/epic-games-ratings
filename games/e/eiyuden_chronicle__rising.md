@@ -13,7 +13,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Road to Recovery | 63.00% | ~427 |
 | Partners? | 62.00% | ~420 |
 | Magical Mineral Golem | 55.00% | ~373 |
-| On Outlander Lane | 54.00% | ~366 |
+| On Outlander Lane | 55.00% | ~373 |
 | First Time Fishing | 52.00% | ~353 |
 | A Girl About the Town | 51.00% | ~346 |
 | First Time Hunting | 49.00% | ~332 |

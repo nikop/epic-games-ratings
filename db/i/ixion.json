@@ -3642,9 +3642,9 @@
       "ID": "ACH_BASE_63",
       "SetID": "92iocjf",
       "Name": "Help of the Forgotten Member",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_BASE_64",
@@ -3697,8 +3697,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-06-30T13:17:33.0899979+00:00",
+  "LastChanged_Achievements": "2023-06-30T14:02:25.9031024+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.8894875+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:12:58.1057271+00:00",
-  "LastUpdate_Achievements": "2023-06-30T13:17:33.0900576+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:58:27.0806485+00:00",
+  "LastUpdate_Achievements": "2023-06-30T14:02:25.9031803+00:00"
 }

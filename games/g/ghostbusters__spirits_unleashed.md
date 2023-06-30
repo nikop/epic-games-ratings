@@ -5,25 +5,25 @@ Rating: 4.49 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,533 |
-| Advancement | 73.00% | ~17,429 |
+| Stylish | 86.00% | ~20,534 |
+| Advancement | 73.00% | ~17,430 |
 | Meticulously Efficient | 64.00% | ~15,281 |
-| Discovery | 61.00% | ~14,564 |
+| Discovery | 61.00% | ~14,565 |
 | Swift Rift Removers | 55.00% | ~13,132 |
-| Fully Upgraded | 54.00% | ~12,893 |
+| Fully Upgraded | 54.00% | ~12,894 |
 | Cultured | 52.00% | ~12,416 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,177 |
-| Vaporous Expansion | 48.00% | ~11,460 |
-| Teamwork | 44.00% | ~10,505 |
+| Vaporous Expansion | 48.00% | ~11,461 |
+| Teamwork | 44.00% | ~10,506 |
 | There you are! | 43.00% | ~10,267 |
-| Clutch Capture | 41.00% | ~9,789 |
+| Clutch Capture | 41.00% | ~9,790 |
 | Back Off | 35.00% | ~8,357 |
 | Daily Dose | 35.00% | ~8,357 |
-| Solo Capture | 32.00% | ~7,640 |
-| Welcome to the Crew | 32.00% | ~7,640 |
+| Solo Capture | 32.00% | ~7,641 |
+| Welcome to the Crew | 32.00% | ~7,641 |
 | Ghostbuster In Training | 30.00% | ~7,163 |
 | Icing on the Cake | 30.00% | ~7,163 |
-| Side Hustle | 28.00% | ~6,685 |
+| Side Hustle | 28.00% | ~6,686 |
 | We have the best insurance | 27.00% | ~6,447 |
 | Legions | 27.00% | ~6,447 |
 | Summoner | 27.00% | ~6,447 |
@@ -32,8 +32,8 @@ Rating: 4.49 (Ranked 569)
 | Stunner | 26.00% | ~6,208 |
 | Animated | 24.00% | ~5,730 |
 | Skilled | 24.00% | ~5,730 |
-| Collector | 23.00% | ~5,491 |
-| Ectoplasmic Entity | 23.00% | ~5,491 |
+| Collector | 23.00% | ~5,492 |
+| Ectoplasmic Entity | 23.00% | ~5,492 |
 | Rift Destroyer | 20.00% | ~4,775 |
 | Terrifying | 18.00% | ~4,298 |
 | Tobin's Prodigy | 18.00% | ~4,298 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 569)
 | Mycophile | 1.00% | ~239 |
 | I don't need these | 0.90% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,876 (Ranked 96)  
+Progressed: 23,877 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 46 (0.19%) (Ranked 160)
 | 2023-06-27 | 23,799 | 46 |
 | 2023-06-28 | 23,837 | 46 |
 | 2023-06-29 | 23,862 | 46 |
-| 2023-06-30 | 23,876 | 46 |
+| 2023-06-30 | 23,877 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
 Sum: 2,139 (Ranked 186)  

@@ -250,9 +250,9 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
@@ -298,9 +298,9 @@
       "ID": "A_Pancake_Day",
       "SetID": "56632p4",
       "Name": "Pancake Day",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_Ray_Of_Sunshine",
@@ -355,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-06-30T13:17:47.3675411+00:00",
+  "LastChanged_Achievements": "2023-06-30T14:03:10.3898517+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:48.689196+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:13:20.9493914+00:00",
-  "LastUpdate_Achievements": "2023-06-30T13:17:47.3675541+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:58:49.5988207+00:00",
+  "LastUpdate_Achievements": "2023-06-30T14:03:10.3898703+00:00"
 }

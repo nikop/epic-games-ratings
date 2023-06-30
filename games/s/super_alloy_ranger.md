@@ -17,8 +17,8 @@
 | Phew! | 15.00% | ~7 |
 | The Hidden Secret | 13.00% | ~6 |
 | Mr. Want It All | 11.00% | ~5 |
-| Grand Escape | 7.00% | ~3 |
-| Space Warrior: Prologue | 7.00% | ~3 |
+| Grand Escape | 9.00% | ~4 |
+| Space Warrior: Prologue | 9.00% | ~4 |
 | Keep it Up, rookie! | 7.00% | ~3 |
 | Air Interception | 7.00% | ~3 |
 | Decapitation Strike | 7.00% | ~3 |

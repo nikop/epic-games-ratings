@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -931,6 +931,11 @@
       "Time": "2023-06-30T13:18:26.1298882+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T14:03:48.7565224+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -958,7 +963,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1022,7 +1027,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_headquarters_15",
@@ -1044,9 +1049,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1118,7 +1123,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1245,14 +1250,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-30T13:18:26.1298878+00:00",
+  "LastChanged_Achievements": "2023-06-30T14:03:48.7565211+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:14:52.9810385+00:00",
-  "LastUpdate_Achievements": "2023-06-30T13:18:26.1299146+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:00:12.2264984+00:00",
+  "LastUpdate_Achievements": "2023-06-30T14:03:48.7565624+00:00"
 }

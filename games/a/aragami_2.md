@@ -6,12 +6,12 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~33,637 |
-| First Steps | 81.00% | ~29,297 |
-| Control the Shadows | 68.00% | ~24,595 |
-| Tools of the Trade | 63.00% | ~22,786 |
-| Apprentice | 60.00% | ~21,701 |
-| Secret Seeker | 57.00% | ~20,616 |
+| Awakening | 93.00% | ~33,638 |
+| First Steps | 81.00% | ~29,298 |
+| Control the Shadows | 68.00% | ~24,596 |
+| Tools of the Trade | 63.00% | ~22,787 |
+| Apprentice | 60.00% | ~21,702 |
+| Secret Seeker | 57.00% | ~20,617 |
 | Forge of Assassins | 56.00% | ~20,255 |
 | Revenant | 52.00% | ~18,808 |
 | I don’t Care! | 45.00% | ~16,276 |
@@ -21,9 +21,9 @@ Number of Ratings: 88  (23.09.2022)
 | Fashionable Assassin | 27.00% | ~9,766 |
 | Apex Predator | 24.00% | ~8,681 |
 | Soul Reaver | 22.00% | ~7,957 |
-| Embers | 21.00% | ~7,595 |
+| Embers | 21.00% | ~7,596 |
 | Wall Lizard | 20.00% | ~7,234 |
-| Clinging to Life | 18.00% | ~6,510 |
+| Clinging to Life | 18.00% | ~6,511 |
 | Burning | 17.00% | ~6,149 |
 | Look Behind You | 16.00% | ~5,787 |
 | Sleeping on the Job | 16.00% | ~5,787 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~362 |
 | Anger Management | 1.00% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,169 (Ranked 89)  
+Progressed: 36,170 (Ranked 89)  
 Completed: 181 (0.50%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 181 (0.50%) (Ranked 123)
 | 2023-06-27 | 35,997 | 180 |
 | 2023-06-28 | 36,077 | 180 |
 | 2023-06-29 | 36,136 | 181 |
-| 2023-06-30 | 36,169 | 181 |
+| 2023-06-30 | 36,170 | 181 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

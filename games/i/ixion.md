@@ -39,13 +39,13 @@ Rating: 4.57 (Ranked 438)
 | In Dolos We Trust | 2.00% | ~55 |
 | Delivery! | 2.00% | ~55 |
 | Pedal to the Metal | 2.00% | ~55 |
+| Help of the Forgotten Member | 2.00% | ~55 |
 | Pulsar Disciple | 2.00% | ~55 |
 | Mutual Loyalty | 1.00% | ~28 |
 | Tiqqun Contender | 1.00% | ~28 |
 | Catastrophe Avoided | 1.00% | ~28 |
 | Praise the Hull! | 1.00% | ~28 |
 | Space Greenhouse | 1.00% | ~28 |
-| Help of the Forgotten Member | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~25 |
 | Tiqqun Unchained | 0.90% | ~25 |
 | Scientifically Accurate | 0.90% | ~25 |

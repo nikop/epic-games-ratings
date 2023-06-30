@@ -10,7 +10,7 @@
 | Campaign Launch | 40.00% | ~92 |
 | Floor Galore | 38.00% | ~87 |
 | Dinner Dash | 38.00% | ~87 |
-| Need a Consult | 34.00% | ~78 |
+| Need a Consult | 35.00% | ~80 |
 | It's Technical | 34.00% | ~78 |
 | Upgrade Unlock | 33.00% | ~76 |
 | Delegate Maintenance | 33.00% | ~76 |
@@ -26,9 +26,9 @@
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
+| Artfully Done | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Get Electrified | 19.00% | ~44 |
-| Artfully Done | 18.00% | ~41 |
 | Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
 | Under One Roof | 15.00% | ~34 |
