@@ -15,19 +15,19 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.82% |
+| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.76% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.58% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.08% |
 | 29 | [Scorn](games/s/scorn.md) | 6.87% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -88,7 +88,7 @@
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.41% |
-| 89 | [Five Dates](games/f/five_dates.md) | 1.31% |
+| 89 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 92 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
@@ -122,8 +122,8 @@
 | 120 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 121 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 124 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
@@ -202,13 +202,13 @@
 | 197 | [Saints Row](games/s/saints_row.md) | 0.05% |
 | 201 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 201 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 203 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
-| 203 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 203 | [High On Life](games/h/high_on_life.md) | 0.03% |
-| 203 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
-| 203 | [Old World](games/o/old_world.md) | 0.03% |
-| 203 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
-| 203 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 201 | [Old World](games/o/old_world.md) | 0.04% |
+| 204 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 204 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 204 | [High On Life](games/h/high_on_life.md) | 0.03% |
+| 204 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
+| 204 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
+| 204 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 210 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 210 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 210 | [Good Company](games/g/good_company.md) | 0.02% |
@@ -478,4 +478,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,864 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,866 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

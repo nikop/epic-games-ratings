@@ -281,6 +281,7 @@
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
+| [Metro Simulator 2](../games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 8 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |

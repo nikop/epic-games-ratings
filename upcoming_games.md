@@ -5,6 +5,7 @@
 | [Corrupt - Political Simulator](games/8/898948344c0c49218e067f34221acd08.md) | 2023-07-01 | - |  | - | - |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | - |
 | [Arcatron-Z](games/b/b7a1153cbf0f49e497f70e3e9d2e28ba.md) | 2023-07-01 | - |  | - | - |
+| [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-07-02 | - |  | - | - |
 | [Eigengrau](games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 2023-07-03 | 62 (1,000 XP) | 2 | - | - |
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 2023-07-04 | 22 (1,000 XP) | 1 | - | - |
@@ -290,7 +291,7 @@
 | [Mega City Police](games/m/mega_city_police.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
-| [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 2099-01-01 | - |  | - | - |
+| [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 2099-01-01 | 8 (1,000 XP) | 0 | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
@@ -375,6 +376,7 @@
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | - |  | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | - |  | - | - |
+| [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 2099-01-01 | - |  | - | - |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | 2099-01-01 | - |  | - | - |
 | [Binary Smoke](games/b/binary_smoke.md) | 2099-01-02 | - |  | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2099-01-02 | - |  | - | - |
@@ -420,7 +422,6 @@
 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 2099-04-12 | - |  | - | - |
 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2099-06-08 | - |  | 4.10 | 2,417 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | 2099-06-26 | - |  | - | - |
-| [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2099-06-30 | - |  | - | - |
 | [Matchpoint - Tennis Championships](games/m/matchpoint_-_tennis_championships.md) | 2099-07-07 | - |  | - | 0 |
 | [Video Horror Society](games/v/video_horror_society.md) | 2099-07-18 | - |  | 4.27 | 297 |
 | [The Siege and the Sandfox](games/t/the_siege_and_the_sandfox.md) | 2099-07-28 | - |  | - | - |
