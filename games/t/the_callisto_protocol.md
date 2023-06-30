@@ -6,30 +6,30 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 0.60% | ~94 |
+| You Need a Gun | 0.50% | ~78 |
 | Two Heads Are Better Than One | 0.50% | ~78 |
 | Paper Jams | 0.50% | ~78 |
 | Keep Fighting | 0.50% | ~18 |
-| You Need a Gun | 0.40% | ~62 |
+| Giving Back | 0.40% | ~62 |
 | Flesh Wound | 0.40% | ~62 |
 | I Do Belong Here | 0.40% | ~62 |
+| Workplace Hazard | 0.40% | ~62 |
 | Reforged | 0.40% | ~62 |
+| If the SHU Fits... | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
 | In the Pipe, Five by Five | 0.40% | ~62 |
 | Crash Site | 0.40% | ~62 |
-| Giving Back | 0.30% | ~47 |
+| Power Up | 0.40% | ~62 |
 | Chew 'Em Up | 0.30% | ~47 |
 | Terminated | 0.30% | ~47 |
-| Workplace Hazard | 0.30% | ~47 |
 | The Commonality | 0.30% | ~47 |
 | Float Like A Butterfly | 0.30% | ~47 |
 | The Outer Way | 0.30% | ~47 |
-| If the SHU Fits... | 0.30% | ~47 |
 | What Lies Beneath | 0.30% | ~47 |
+| Desperate Times | 0.30% | ~47 |
 | Full Circle | 0.30% | ~47 |
-| Power Up | 0.30% | ~47 |
 | It's Time | 0.30% | ~11 |
 | In Striking Distance | 0.20% | ~31 |
-| Desperate Times | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Grim Reaper | 0.10% | ~16 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,595 (Ranked 106)  
-Completed: 61 (0.39%) (Ranked 133)  
+Progressed: 15,596 (Ranked 106)  
+Completed: 62 (0.40%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 61 (0.39%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
-| 2023-06-30 | 15,595 | 61 |
+| 2023-06-30 | 15,596 | 62 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 348 (Ranked 322)  

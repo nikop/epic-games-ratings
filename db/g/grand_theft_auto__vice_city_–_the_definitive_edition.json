@@ -502,9 +502,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8825,
+  "EOS_Progressed": 8826,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5702,6 +5702,11 @@
       "Time": "2023-06-30T17:00:51.4936461+00:00",
       "NumProgressed": 8825,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-06-30T20:01:03.5750043+00:00",
+      "NumProgressed": 8826,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 34,
@@ -5721,7 +5726,7 @@
       "Name": "Running Rampant",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH03",
@@ -5745,7 +5750,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH06",
@@ -5793,7 +5798,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "ACH12",
@@ -5809,7 +5814,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH14",
@@ -5825,7 +5830,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH16",
@@ -5937,7 +5942,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH30",
@@ -5961,7 +5966,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH33",
@@ -5984,7 +5989,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8825,
+      "Progressed": 8826,
       "Completed": 40
     }
   ],
@@ -5992,8 +5997,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-06-30T13:12:43.345424+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:02:15.1209228+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:01:03.5750039+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:00.402576+00:00",
-  "LastUpdate_Ratings": "2023-06-30T18:59:07.5527281+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:02:15.1211235+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:58:33.0108305+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:01:03.5750594+00:00"
 }

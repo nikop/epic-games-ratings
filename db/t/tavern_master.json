@@ -4,7 +4,7 @@
   "ProductSlug": "tavern-master-ee18ab",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-14T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.2935408+00:00",
   "LastChanged": "2023-03-31T05:58:23.2935409+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.4590249+00:00",
-  "LastUpdate_Ratings": "2023-06-30T18:58:46.4239598+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:05:52.6483755+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:58:13.5444663+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:05:25.5905501+00:00"
 }

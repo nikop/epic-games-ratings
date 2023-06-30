@@ -2,7 +2,7 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 753,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 184,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2022-10-20T13:00:36.1264313+00:00",
@@ -156,6 +156,12 @@
     {
       "Time": "2023-06-13T02:10:34.129816+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-06-30T20:00:05.6923211+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1220,9 +1226,9 @@
   "FirstSeen": "2022-10-14T09:31:01.0806081+00:00",
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
-  "LastChanged": "2023-06-13T02:10:34.1298157+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:07:20.9292387+00:00",
+  "LastChanged": "2023-06-30T20:00:05.692321+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:06:39.6109396+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.1474887+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:01:00.5509397+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:07:20.9292712+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:00:05.6923214+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:06:39.6109553+00:00"
 }

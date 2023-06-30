@@ -14,8 +14,8 @@ Number of Ratings: 425  (23.09.2022)
 | I'm Stuffed | 69.00% | ~19,209 |
 | Got to Catch a Lot | 66.00% | ~18,374 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~16,982 |
+| In the Arms of the Gramble | 59.00% | ~16,425 |
 | Know Thy Neighbor | 59.00% | ~16,425 |
-| In the Arms of the Gramble | 58.00% | ~16,147 |
 | Launch Party | 56.00% | ~15,590 |
 | Perf Dirt | 56.00% | ~15,590 |
 | Vacation's End | 52.00% | ~14,476 |

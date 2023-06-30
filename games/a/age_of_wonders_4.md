@@ -17,9 +17,9 @@ Rating: 4.59 (Ranked 410)
 | Blood of the Dragon | 0.90% | ~44 |
 | Stronger Together | 0.80% | ~39 |
 | Here be Dragons | 0.80% | ~39 |
+| Bone Peddler | 0.70% | ~34 |
 | There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
-| Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
 | Fiery Friend | 0.60% | ~29 |
 | Against the Odds | 0.60% | ~29 |
@@ -30,13 +30,13 @@ Rating: 4.59 (Ranked 410)
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Arch Mage | 0.40% | ~20 |
+| The Creator | 0.40% | ~20 |
 | Eternal Lord | 0.40% | ~20 |
 | Preparation Is Everything | 0.40% | ~20 |
 | In a Liege of Your Own | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
-| The Creator | 0.30% | ~15 |
+| God Emperor | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
-| God Emperor | 0.20% | ~10 |
 | Lord of Chaos | 0.20% | ~10 |
 | The Goddess of Nature | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |

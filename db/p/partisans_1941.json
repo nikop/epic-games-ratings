@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1079,
+  "EOS_Progressed": 1080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1325,6 +1325,11 @@
       "Time": "2023-06-29T17:06:07.1549998+00:00",
       "NumProgressed": 1079,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-30T20:06:43.5709977+00:00",
+      "NumProgressed": 1080,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1448,7 +1453,7 @@
       "Name": "Grenadier",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "Hard_Serpent",
@@ -1478,9 +1483,9 @@
       "ID": "How",
       "SetID": "85nb4h3",
       "Name": "How?!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Its_very_spicy",
@@ -1568,22 +1573,22 @@
       "Name": "Your Answer",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1079,
+      "Progressed": 1080,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:07:25.0107925+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:06:43.5709974+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:10.5622483+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:00:22.8493426+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:07:25.0108216+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:59:35.0870358+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:06:43.5710156+00:00"
 }

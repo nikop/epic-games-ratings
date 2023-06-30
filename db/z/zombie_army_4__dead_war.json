@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1725,9 +1725,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42941,
+  "EOS_Progressed": 42942,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4465,6 +4465,11 @@
       "Time": "2023-06-30T12:07:47.4194753+00:00",
       "NumProgressed": 42941,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-06-30T20:06:52.3329294+00:00",
+      "NumProgressed": 42942,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4476,7 +4481,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26194
+      "UsersEstimate": 26195
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -4532,7 +4537,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12023
+      "UsersEstimate": 12024
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -4604,7 +4609,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -4628,7 +4633,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -4636,7 +4641,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -4652,7 +4657,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -4660,7 +4665,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -4668,7 +4673,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26623
+      "UsersEstimate": 26624
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4716,7 +4721,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -4724,7 +4729,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4756,7 +4761,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -4764,7 +4769,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15888
+      "UsersEstimate": 15889
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4772,7 +4777,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18035
+      "UsersEstimate": 18036
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4780,7 +4785,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21470
+      "UsersEstimate": 21471
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -4804,7 +4809,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29200
+      "UsersEstimate": 29201
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4820,7 +4825,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 12882
+      "UsersEstimate": 12883
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -4836,7 +4841,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24476
+      "UsersEstimate": 24477
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4844,7 +4849,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20182
+      "UsersEstimate": 20183
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4988,7 +4993,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -5003,15 +5008,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42941,
+      "Progressed": 42942,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-06-29T02:20:31.7869173+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:07:34.253354+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:06:52.332929+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:59.0106729+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:01:13.2726794+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:07:34.2534355+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:00:15.5209017+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:06:52.3329951+00:00"
 }

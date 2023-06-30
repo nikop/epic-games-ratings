@@ -4,16 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~153 |
-| Lochos | 5.00% | ~153 |
-| Initiate's Resolve | 5.00% | ~153 |
+| To Suffer is to Learn | 5.00% | ~154 |
+| Lochos | 5.00% | ~154 |
+| Strength of Herakles | 5.00% | ~154 |
+| Initiate's Resolve | 5.00% | ~154 |
 | Go For the Head | 4.00% | ~123 |
 | Missilis | 4.00% | ~123 |
 | Modest Earnings | 4.00% | ~123 |
 | Armaments of the Pantheon | 4.00% | ~123 |
 | Persephone's Guidance | 4.00% | ~123 |
 | The Sons of Minos | 4.00% | ~123 |
-| Strength of Herakles | 4.00% | ~123 |
+| Eidola | 4.00% | ~123 |
 | Reign in Blood | 4.00% | ~123 |
 | Pillars of Eternity | 3.00% | ~92 |
 | Immolator | 3.00% | ~92 |
@@ -22,7 +23,6 @@
 | Symbols of Heresy | 3.00% | ~92 |
 | Sisters of the Pantheon | 3.00% | ~92 |
 | Siege Unit | 3.00% | ~92 |
-| Eidola | 3.00% | ~92 |
 | Divine Assemblage | 3.00% | ~92 |
 | Ophiolatreia | 3.00% | ~92 |
 | Comedy and Tragedy | 2.00% | ~61 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,068 (Ranked 146)  
+Progressed: 3,071 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 3,041 | 0 |
 | 2023-06-28 | 3,044 | 0 |
 | 2023-06-29 | 3,061 | 0 |
-| 2023-06-30 | 3,068 | 0 |
+| 2023-06-30 | 3,071 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,7 +12,7 @@ Rating: 4.56 (Ranked 455)
 | Big Heat from Little Havana | 14.00% | ~1,236 |
 | Chauffeur | 14.00% | ~1,236 |
 | Tommy Two-Wheels | 14.00% | ~1,236 |
-| Salutations My Little Friend | 10.00% | ~882 |
+| Salutations My Little Friend | 10.00% | ~883 |
 | Iron-y | 9.00% | ~794 |
 | Gun for Hire | 8.00% | ~706 |
 | Mischief Managed | 8.00% | ~706 |
@@ -26,12 +26,12 @@ Rating: 4.56 (Ranked 455)
 | High Quality H2O | 3.00% | ~265 |
 | Bull in a China Shop | 3.00% | ~265 |
 | Don't Need Roads | 3.00% | ~265 |
-| Running Rampant | 2.00% | ~176 |
-| One is Better Than Two | 2.00% | ~176 |
-| Somebody Call the Wambulance? | 2.00% | ~176 |
-| Just Like the Real Thing | 2.00% | ~176 |
-| Take the Cannoli | 2.00% | ~176 |
-| City Sleuth | 2.00% | ~176 |
+| Running Rampant | 2.00% | ~177 |
+| One is Better Than Two | 2.00% | ~177 |
+| Somebody Call the Wambulance? | 2.00% | ~177 |
+| Just Like the Real Thing | 2.00% | ~177 |
+| Take the Cannoli | 2.00% | ~177 |
+| City Sleuth | 2.00% | ~177 |
 | Daredevil | 1.00% | ~88 |
 | Chopper’d Up | 1.00% | ~88 |
 | Born in the 80’s | 0.90% | ~79 |
@@ -40,7 +40,7 @@ Rating: 4.56 (Ranked 455)
 | Done it All | 0.80% | ~71 |
 | Kingpin | 0.50% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,825 (Ranked 118)  
+Progressed: 8,826 (Ranked 118)  
 Completed: 40 (0.45%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 40 (0.45%) (Ranked 129)
 | 2023-06-27 | 8,785 | 40 |
 | 2023-06-28 | 8,805 | 40 |
 | 2023-06-29 | 8,818 | 40 |
-| 2023-06-30 | 8,825 | 40 |
+| 2023-06-30 | 8,826 | 40 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 386)  
 Sum: 59 (Ranked 439)  

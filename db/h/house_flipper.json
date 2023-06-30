@@ -1668,7 +1668,7 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 19810,
+  "EOS_Progressed": 19811,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -5318,6 +5318,11 @@
       "Time": "2023-06-30T17:06:04.107252+00:00",
       "NumProgressed": 19810,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-06-30T20:06:30.3877275+00:00",
+      "NumProgressed": 19811,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5369,7 +5374,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "FirstMoney",
@@ -5377,7 +5382,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18621
+      "UsersEstimate": 18622
     },
     {
       "ID": "GameOver",
@@ -5433,7 +5438,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "MrAndMrsJantart",
@@ -5457,7 +5462,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "RafaelErko",
@@ -5512,15 +5517,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19810,
+      "Progressed": 19811,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-06-29T16:59:25.206997+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:07:10.5323312+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:06:30.3877268+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.5603172+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:00:46.0042993+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:07:10.5323778+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:59:53.9197552+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:06:30.3877556+00:00"
 }

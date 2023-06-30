@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1380,9 +1380,9 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -1396,9 +1396,9 @@
       "ID": "ACHV_CHALLENGEMASTERED",
       "SetID": "cceobco",
       "Name": "Challenge Mastered",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHV_CITY",
@@ -1452,9 +1452,9 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -1524,9 +1524,9 @@
       "ID": "ACHV_ROOKIE",
       "SetID": "cceobco",
       "Name": "Rookie",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHV_SUPPLYRUN",
@@ -1619,8 +1619,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:03:36.3165457+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:03:31.3429612+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:00:57.1380114+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:03:36.3165947+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:00:02.7064673+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:03:31.3429841+00:00"
 }

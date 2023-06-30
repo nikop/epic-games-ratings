@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -3070,9 +3070,9 @@
       "ID": "ACH_DONATE",
       "SetID": "2m0copd",
       "Name": "In the Arms of the Gramble",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16147
+      "UsersEstimate": 16425
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -3230,8 +3230,8 @@
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-30T16:01:06.9370828+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:04:45.4670347+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:04:29.4857955+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:58.8378679+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:01:14.249771+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:04:45.467081+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:00:16.3542353+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:04:29.4858246+00:00"
 }

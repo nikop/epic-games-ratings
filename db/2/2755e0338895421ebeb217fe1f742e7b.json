@@ -4,7 +4,7 @@
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -106,17 +106,17 @@
       "ID": "Nocturnal_Achivement_5_Berserker",
       "SetID": "329ifed",
       "Name": "Stand Your Ground",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
@@ -130,9 +130,9 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -152,8 +152,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:03:15.0546016+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:03:13.5535645+00:00",
   "LastUpdate_AppInfo": "2023-06-26T15:57:12.0022503+00:00",
-  "LastUpdate_Ratings": "2023-06-30T18:57:19.5311367+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:03:15.0546144+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:57:02.345451+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:03:13.5535747+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -258,7 +258,7 @@
   "Tags": [],
   "EOS_Progressed": 4882,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4796,9 +4796,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "17",
@@ -4820,9 +4820,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "2",
@@ -4884,9 +4884,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "27",
@@ -5155,8 +5155,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:06:12.4998285+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:05:42.1515963+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:00:45.3532376+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:06:12.499914+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:59:52.8094671+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:05:42.1516536+00:00"
 }

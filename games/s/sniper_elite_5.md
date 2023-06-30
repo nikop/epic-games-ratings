@@ -5,9 +5,11 @@ Rating: 4.45 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resourceful | 0.40% | ~13 |
+| The Kraken Wakes | 0.40% | ~13 |
 | No Stone Unturned | 0.30% | ~10 |
-| Resourceful | 0.30% | ~10 |
-| The Kraken Wakes | 0.30% | ~10 |
+| It's Starting to Crack | 0.30% | ~10 |
+| Change the Channel | 0.30% | ~10 |
 | Climbing the Ladder | 0.20% | ~6 |
 | Liberté | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
@@ -19,8 +21,6 @@ Rating: 4.45 (Ranked 617)
 | Lord of War | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
-| It's Starting to Crack | 0.20% | ~6 |
-| Change the Channel | 0.20% | ~6 |
 | Taking it back | 0.20% | ~6 |
 | Target America | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
@@ -43,6 +43,7 @@ Rating: 4.45 (Ranked 617)
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
+| It'll Buff Right Out | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
@@ -62,7 +63,6 @@ Rating: 4.45 (Ranked 617)
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |

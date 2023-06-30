@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -55,17 +55,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Konec",
@@ -111,25 +111,25 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tuleni",
@@ -149,8 +149,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:02:26.4579193+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:01:13.1028447+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.2071405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T18:57:10.7995074+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:02:26.4579339+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:56:54.9907084+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:01:13.1028579+00:00"
 }

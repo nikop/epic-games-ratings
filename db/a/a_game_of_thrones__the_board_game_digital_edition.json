@@ -1257,7 +1257,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17227,
+  "EOS_Progressed": 17231,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 0,
@@ -8657,6 +8657,11 @@
       "Time": "2023-06-30T19:07:11.4763725+00:00",
       "NumProgressed": 17227,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-06-30T20:06:31.2562978+00:00",
+      "NumProgressed": 17231,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8708,7 +8713,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "1021",
@@ -8764,7 +8769,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "1028",
@@ -8772,7 +8777,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     },
     {
       "ID": "1029",
@@ -8788,7 +8793,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "1031",
@@ -8804,7 +8809,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6891
+      "UsersEstimate": 6892
     },
     {
       "ID": "1033",
@@ -8843,15 +8848,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17227,
+      "Progressed": 17231,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-06-30T19:07:11.4763719+00:00",
+  "LastChanged_Achievements": "2023-06-30T20:06:31.2562974+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:28.0071998+00:00",
-  "LastUpdate_Ratings": "2023-06-30T19:01:43.6049234+00:00",
-  "LastUpdate_Achievements": "2023-06-30T19:07:11.4764497+00:00"
+  "LastUpdate_Ratings": "2023-06-30T20:00:38.7051364+00:00",
+  "LastUpdate_Achievements": "2023-06-30T20:06:31.2563408+00:00"
 }

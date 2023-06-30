@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.46 (Ranked 603)  
+Rating: 4.46 (Ranked 602)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,465 (Ranked 136)  
+Progressed: 4,465 (Ranked 137)  
 Completed: 14 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |

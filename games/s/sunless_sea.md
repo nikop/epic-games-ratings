@@ -44,24 +44,24 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~325 |
 | Under the zee | 1.00% | ~325 |
 | A current under zee | 1.00% | ~325 |
-| A zee-change | 0.90% | ~292 |
-| Never Stop Sinking... | 0.90% | ~292 |
-| Leviathan | 0.90% | ~292 |
-| Depth charge | 0.90% | ~292 |
+| A zee-change | 0.90% | ~293 |
+| Never Stop Sinking... | 0.90% | ~293 |
+| Leviathan | 0.90% | ~293 |
+| Depth charge | 0.90% | ~293 |
 | What lies beneath | 0.80% | ~260 |
-| Stone's Curse | 0.70% | ~227 |
-| Five Years at Zee | 0.50% | ~162 |
+| Stone's Curse | 0.70% | ~228 |
+| Five Years at Zee | 0.50% | ~163 |
 | The Lady's Parlour | 0.20% | ~65 |
 | A Past Wreathed in Shadows | 0.20% | ~65 |
 | Under pressure | 0.20% | ~65 |
-| A Drownie devotee | 0.10% | ~32 |
-| Romans 6:9 | 0.10% | ~32 |
-| Ofermod | 0.10% | ~32 |
-| Consider Phlebas | 0.10% | ~32 |
-| Death By Water | 0.10% | ~32 |
-| Ten Years at Zee | 0.10% | ~32 |
+| A Drownie devotee | 0.10% | ~33 |
+| Romans 6:9 | 0.10% | ~33 |
+| Ofermod | 0.10% | ~33 |
+| Consider Phlebas | 0.10% | ~33 |
+| Death By Water | 0.10% | ~33 |
+| Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,499 (Ranked 92)  
+Progressed: 32,501 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.01%) (Ranked 218)
 | 2023-06-27 | 32,329 | 3 |
 | 2023-06-28 | 32,395 | 3 |
 | 2023-06-29 | 32,441 | 3 |
-| 2023-06-30 | 32,499 | 3 |
+| 2023-06-30 | 32,501 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

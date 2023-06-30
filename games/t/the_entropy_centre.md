@@ -21,10 +21,10 @@
 | Fashionista | 15.00% | ~32 |
 | Kaboom! | 12.00% | ~26 |
 | Looper | 12.00% | ~26 |
+| All Alone | 11.00% | ~23 |
 | Reunited | 11.00% | ~23 |
 | So Close | 10.00% | ~21 |
 | Transformers, cubes in disguise | 10.00% | ~21 |
-| All Alone | 10.00% | ~21 |
 | Cataclysm | 10.00% | ~21 |
 | Final Charge | 9.00% | ~19 |
 | Summer Luvin' | 4.00% | ~9 |
@@ -32,7 +32,7 @@
 | So, this is the End? | 0.00% | ~0 |
 | Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 259)  
+Progressed: 213 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
