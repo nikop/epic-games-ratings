@@ -168,6 +168,7 @@
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
 | [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
+| [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |

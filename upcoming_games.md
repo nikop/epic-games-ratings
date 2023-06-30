@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SCARY AND DOT](games/b/b9cad2ee3e58423ca7c46a5f8ffee059.md) | 2023-06-30 | - |  | - | - |
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | - |
 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 6 | - | - |
 | [Corrupt - Political Simulator](games/8/898948344c0c49218e067f34221acd08.md) | 2023-07-01 | - |  | - | - |
@@ -17,6 +16,7 @@
 | [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | 2023-07-19 | - |  | - | - |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | - |  | - | - |
 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2023-07-20 | - |  | - | - |
+| [Elemental War 2](games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 2023-07-20 | 42 (1,000 XP) | 1 | - | - |
 | [One Military Camp](games/o/one_military_camp.md) | 2023-07-20 | - |  | - | - |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-07-20 | - |  | - | - |
 | [Sakura Bunny Girls](games/9/94c1c4aa628f404abe30a093cdb99bda.md) | 2023-07-23 | - |  | - | - |
@@ -85,7 +85,7 @@
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
 | [Team Disorder](games/9/9c9cc8a992404fb8925827eed7a7f500.md) | 2023-09-30 | - |  | - | - |
-| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 18 | - | - |
+| [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 14 (1,000 XP) | 19 | - | - |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | - |  | - | - |
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-09-30 | - |  | - | - |
@@ -296,6 +296,7 @@
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2099-01-01 | - |  | - | - |
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
+| [NOSTALGIC TRAIN](games/2/268e9595ebc040dcbbdc822aea06a632.md) | 2099-01-01 | - |  | - | - |
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [PACK MY STUFF](games/d/d71669b3eabc4ca3869613ccaf16bdd8.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |

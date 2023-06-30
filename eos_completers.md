@@ -22,11 +22,11 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
+| 23 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.59% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.22% |
+| 27 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 29 | [Scorn](games/s/scorn.md) | 6.87% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -39,7 +39,7 @@
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.78% |
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
-| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
+| 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.80% |
@@ -74,7 +74,7 @@
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
-| 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.04% |
+| 75 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 76 | [Frogun](games/f/frogun.md) | 1.92% |
 | 77 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 78 | [Iron Danger](games/i/iron_danger.md) | 1.83% |
@@ -295,6 +295,7 @@
 | 230 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 0.00% |
 | 230 | [Eigengrau](games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 0.00% |
 | 230 | [ELEGIES Aya](games/e/elegies_aya.md) | 0.00% |
+| 230 | [Elemental War 2](games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 0.00% |
 | 230 | [Elypse](games/e/elypse.md) | 0.00% |
 | 230 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 230 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
@@ -477,4 +478,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,857 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,859 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

@@ -161,6 +161,7 @@
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 62 | 1,000 |
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
 | [ELEGIES Aya](../games/e/elegies_aya.md) | 13 | 1,000 |
+| [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
