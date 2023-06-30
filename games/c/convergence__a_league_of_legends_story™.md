@@ -23,17 +23,17 @@
 | Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
 | The Family Fortune | 12.00% | ~88 |
-| Like Clockwork | 11.00% | ~80 |
-| Street Style | 11.00% | ~80 |
-| No, Thanks! | 11.00% | ~80 |
-| Honest Mistake | 11.00% | ~80 |
-| Golem Chaser | 11.00% | ~80 |
-| Check Your Pulse | 11.00% | ~80 |
-| Immaculate Aim | 11.00% | ~80 |
+| Like Clockwork | 11.00% | ~81 |
+| Street Style | 11.00% | ~81 |
+| No, Thanks! | 11.00% | ~81 |
+| Honest Mistake | 11.00% | ~81 |
+| Golem Chaser | 11.00% | ~81 |
+| Check Your Pulse | 11.00% | ~81 |
+| Immaculate Aim | 11.00% | ~81 |
 | Right On Time | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |
-| Chaincrawler Explorer | 8.00% | ~58 |
-| Good Neighbor | 8.00% | ~58 |
+| Chaincrawler Explorer | 8.00% | ~59 |
+| Good Neighbor | 8.00% | ~59 |
 | Family Memories | 7.00% | ~51 |
 | Sump Explorer | 7.00% | ~51 |
 | Theater Explorer | 7.00% | ~51 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731 (Ranked 196)  
+Progressed: 732 (Ranked 196)  
 Completed: 4 (0.55%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,3 +100,4 @@ Completed: 4 (0.55%) (Ranked 121)
 | 2023-06-27 | 727 | 4 |
 | 2023-06-28 | 728 | 4 |
 | 2023-06-29 | 731 | 4 |
+| 2023-06-30 | 732 | 4 |

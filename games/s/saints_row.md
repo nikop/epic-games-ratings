@@ -7,24 +7,24 @@ Number of Ratings: 22,103  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 35.00% | ~17,542 |
-| To The Nines | 31.00% | ~15,537 |
-| Optimized | 27.00% | ~13,532 |
+| To The Nines | 31.00% | ~15,538 |
+| Optimized | 27.00% | ~13,533 |
 | Performance Review | 26.00% | ~13,031 |
 | Making a Name | 25.00% | ~12,530 |
 | Tune Up | 24.00% | ~12,029 |
-| The Side Job | 23.00% | ~11,527 |
-| Wet Work | 23.00% | ~11,527 |
-| Landlord | 23.00% | ~11,527 |
+| The Side Job | 23.00% | ~11,528 |
+| Wet Work | 23.00% | ~11,528 |
+| Landlord | 23.00% | ~11,528 |
 | Wrecking Ball | 20.00% | ~10,024 |
 | Food for Thought | 20.00% | ~10,024 |
-| Finders Keepers | 18.00% | ~9,021 |
-| A Young Empire | 18.00% | ~9,021 |
-| Work Ethic | 17.00% | ~8,520 |
+| Finders Keepers | 18.00% | ~9,022 |
+| A Young Empire | 18.00% | ~9,022 |
+| Work Ethic | 17.00% | ~8,521 |
 | Picking Fights | 14.00% | ~7,017 |
-| Quality Time | 13.00% | ~6,515 |
-| Power Players | 13.00% | ~6,515 |
-| Et tu? | 12.00% | ~6,014 |
-| Took It to The Limit | 12.00% | ~6,014 |
+| Quality Time | 13.00% | ~6,516 |
+| Power Players | 13.00% | ~6,516 |
+| Et tu? | 12.00% | ~6,015 |
+| Took It to The Limit | 12.00% | ~6,015 |
 | Showdown | 11.00% | ~5,513 |
 | Kitted Out | 10.00% | ~5,012 |
 | Hijacked | 8.00% | ~4,010 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~50 |
 | Fiesta Time | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,119 (Ranked 82)  
+Progressed: 50,121 (Ranked 82)  
 Completed: 26 (0.05%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 26 (0.05%) (Ranked 196)
 | 2023-06-27 | 49,653 | 26 |
 | 2023-06-28 | 49,890 | 26 |
 | 2023-06-29 | 50,074 | 26 |
-| 2023-06-30 | 50,119 | 26 |
+| 2023-06-30 | 50,121 | 26 |
 ## Awards
 Max (Extremely Fun): 1,045  (Ranked 138)  
 Sum: 8,477 (Ranked 91)  

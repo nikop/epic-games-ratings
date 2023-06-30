@@ -8,9 +8,9 @@ Rating: 4.59 (Ranked 410)
 | Secret Technique | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
 | Realm Estate | 0.90% | ~44 |
+| Magical Synergy | 0.90% | ~44 |
 | A Wonderful Discovery | 0.80% | ~39 |
 | Walls Cannot Stop Us | 0.80% | ~39 |
-| Magical Synergy | 0.80% | ~39 |
 | My Final Form | 0.80% | ~39 |
 | Mighty Hoard | 0.80% | ~39 |
 | From Friends to Family | 0.70% | ~34 |
@@ -22,10 +22,10 @@ Rating: 4.59 (Ranked 410)
 | Fiery Friend | 0.50% | ~24 |
 | Against the Odds | 0.50% | ~24 |
 | Impenetrable Fortress | 0.50% | ~24 |
+| Intimidation Tactics | 0.50% | ~24 |
 | There Can Only Be One! | 0.40% | ~20 |
 | Full Ascension | 0.40% | ~20 |
 | Digging for Treasure | 0.40% | ~20 |
-| Intimidation Tactics | 0.40% | ~20 |
 | Duality | 0.40% | ~20 |
 | Valley of Wonders | 0.30% | ~15 |
 | Return of the Wizard King | 0.30% | ~15 |

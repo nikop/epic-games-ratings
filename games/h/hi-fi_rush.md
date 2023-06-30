@@ -5,38 +5,38 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,730 |
-| Start with a bang! | 80.00% | ~2,696 |
+| Feeling the beat! | 81.00% | ~2,731 |
+| Start with a bang! | 80.00% | ~2,697 |
 | You can pet the cat! | 75.00% | ~2,528 |
 | Who put gears in there? | 68.00% | ~2,292 |
-| Cream of the Crop | 63.00% | ~2,123 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,089 |
+| Cream of the Crop | 63.00% | ~2,124 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,090 |
 | You got this, Peppermint? | 57.00% | ~1,921 |
 | Perfect Parry | 55.00% | ~1,854 |
 | Alright, that felt AWESOME! | 54.00% | ~1,820 |
-| I play my own way! | 50.00% | ~1,685 |
+| I play my own way! | 50.00% | ~1,686 |
 | This will cost you big time | 48.00% | ~1,618 |
 | Uh, they were broken when I got here | 47.00% | ~1,584 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,550 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,551 |
 | Kissing the sky! | 44.00% | ~1,483 |
 | Does that say weakpoint? | 41.00% | ~1,382 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,348 |
-| The Negotiator | 39.00% | ~1,314 |
+| The Negotiator | 39.00% | ~1,315 |
 | You must like calling me in, Chai | 34.00% | ~1,146 |
 | Out in a puff of smoke | 34.00% | ~1,146 |
 | Headliner | 33.00% | ~1,112 |
 | Time to pay up! | 31.00% | ~1,045 |
-| Who's the boss now? | 29.00% | ~977 |
-| I have to read these things? | 29.00% | ~977 |
-| Perfecter Parry-er! | 29.00% | ~977 |
+| Who's the boss now? | 29.00% | ~978 |
+| I have to read these things? | 29.00% | ~978 |
+| Perfecter Parry-er! | 29.00% | ~978 |
 | I look cool. But I can look COOLER. | 28.00% | ~944 |
-| There's such a thing as TOO helpful | 22.00% | ~741 |
+| There's such a thing as TOO helpful | 22.00% | ~742 |
 | That's a lot of junk metal… | 19.00% | ~640 |
 | Beat-hit mania | 18.00% | ~607 |
 | Well that was a rush! | 17.00% | ~573 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~573 |
-| Wanna hear my playlist? | 12.00% | ~404 |
-| Check out my moves! | 12.00% | ~404 |
+| Wanna hear my playlist? | 12.00% | ~405 |
+| Check out my moves! | 12.00% | ~405 |
 | Chip-tuned | 11.00% | ~371 |
 | We're Jammin' | 8.00% | ~270 |
 | I think I deserve some praise, here! | 7.00% | ~236 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,370 (Ranked 144)  
+Progressed: 3,371 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 5 (0.15%) (Ranked 167)
 | 2023-06-27 | 3,355 | 5 |
 | 2023-06-28 | 3,362 | 5 |
 | 2023-06-29 | 3,369 | 5 |
-| 2023-06-30 | 3,370 | 5 |
+| 2023-06-30 | 3,371 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

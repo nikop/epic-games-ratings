@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -325,9 +325,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4464,
+  "EOS_Progressed": 4465,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1530,6 +1530,11 @@
       "Time": "2023-06-29T06:02:33.4398181+00:00",
       "NumProgressed": 4464,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-06-30T04:00:17.8090049+00:00",
+      "NumProgressed": 4465,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1589,7 +1594,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -1597,7 +1602,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4196
+      "UsersEstimate": 4197
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1605,7 +1610,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1733,7 +1738,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -1749,7 +1754,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -1757,7 +1762,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1765,7 +1770,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -1789,7 +1794,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1877,7 +1882,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -2069,22 +2074,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4464,
+      "Progressed": 4465,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-06-11T20:57:41.8939176+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:16:55.2078333+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:00:17.8090042+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:40.1811955+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:13:26.2382298+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:16:55.2079849+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:57:52.1385055+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:00:17.8090719+00:00"
 }

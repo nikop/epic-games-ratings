@@ -5,10 +5,10 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You Need a Gun | 0.30% | ~47 |
 | Get a Grip | 0.30% | ~47 |
 | Paper Jams | 0.30% | ~47 |
 | Giving Back | 0.20% | ~31 |
-| You Need a Gun | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
 | Two Heads Are Better Than One | 0.20% | ~31 |
@@ -17,6 +17,7 @@ Rating: 4.19 (Ranked 844)
 | The Commonality | 0.20% | ~31 |
 | Reforged | 0.20% | ~31 |
 | The Outer Way | 0.20% | ~31 |
+| If the SHU Fits... | 0.20% | ~31 |
 | Without A Paddle | 0.20% | ~31 |
 | In the Pipe, Five by Five | 0.20% | ~31 |
 | What Lies Beneath | 0.20% | ~31 |
@@ -36,7 +37,6 @@ Rating: 4.19 (Ranked 844)
 | Terminated | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
-| If the SHU Fits... | 0.10% | ~16 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |

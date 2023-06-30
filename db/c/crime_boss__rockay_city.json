@@ -2310,9 +2310,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68012,
+  "EOS_Progressed": 68013,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9720,6 +9720,11 @@
       "Time": "2023-06-30T02:21:07.5391754+00:00",
       "NumProgressed": 68012,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-30T04:03:19.6925229+00:00",
+      "NumProgressed": 68013,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9739,7 +9744,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19723
+      "UsersEstimate": 19724
     },
     {
       "ID": "ACH_0012",
@@ -9779,7 +9784,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "ACH_0021",
@@ -9883,7 +9888,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50329
+      "UsersEstimate": 50330
     },
     {
       "ID": "ACH_0211",
@@ -9907,7 +9912,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "ACH_0310",
@@ -9915,7 +9920,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "ACH_0330",
@@ -9931,7 +9936,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "ACH_0350",
@@ -9963,7 +9968,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23804
+      "UsersEstimate": 23805
     },
     {
       "ID": "ACH_0431",
@@ -10026,7 +10031,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68012,
+      "Progressed": 68013,
       "Completed": 35
     }
   ],
@@ -10034,8 +10039,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-29T19:00:39.1951355+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:18:38.2082416+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:03:19.6925219+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:15:54.994101+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:18:38.2083207+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:59:33.5630983+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:03:19.6925793+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 3.53 (Ranked 945)
 | Welcome to the Neighborhood | 37.00% | ~632 |
 | Fly Fisher | 36.00% | ~615 |
 | Throw The First Stone | 35.00% | ~598 |
-| Enter of Your Own Free Will | 32.00% | ~547 |
+| Enter of Your Own Free Will | 33.00% | ~564 |
 | Heart Attack | 32.00% | ~547 |
 | Skin of Their Teeth | 31.00% | ~529 |
 | Grounded | 24.00% | ~410 |

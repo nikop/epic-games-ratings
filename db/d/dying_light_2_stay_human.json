@@ -6409,7 +6409,7 @@
       "Count": 532
     }
   ],
-  "EOS_Progressed": 584613,
+  "EOS_Progressed": 584620,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 3020,
   "EOS_NewCompleters": 1,
@@ -13974,6 +13974,11 @@
       "Time": "2023-06-30T03:22:24.2756115+00:00",
       "NumProgressed": 584613,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-06-30T04:06:01.7629303+00:00",
+      "NumProgressed": 584620,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -13985,7 +13990,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58461
+      "UsersEstimate": 58462
     },
     {
       "ID": "achievement_02",
@@ -13993,7 +13998,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58461
+      "UsersEstimate": 58462
     },
     {
       "ID": "achievement_03",
@@ -14001,7 +14006,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52615
+      "UsersEstimate": 52616
     },
     {
       "ID": "achievement_04",
@@ -14121,7 +14126,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46769
+      "UsersEstimate": 46770
     },
     {
       "ID": "achievement_19",
@@ -14193,7 +14198,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64307
+      "UsersEstimate": 64308
     },
     {
       "ID": "achievement_28",
@@ -14273,7 +14278,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52615
+      "UsersEstimate": 52616
     },
     {
       "ID": "achievement_38",
@@ -14377,7 +14382,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17538
+      "UsersEstimate": 17539
     },
     {
       "ID": "achievement_51",
@@ -14457,7 +14462,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "achievement_61",
@@ -14504,21 +14509,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 584613,
+      "Progressed": 584620,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 230057,
+      "Progressed": 230064,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-06-29T23:59:42.0677589+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:22:24.2756111+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:06:01.76293+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:02.2200313+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:15:49.5554229+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:22:24.2757426+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:59:29.3758743+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:06:01.763021+00:00"
 }

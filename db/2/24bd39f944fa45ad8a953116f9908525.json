@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "ach_31_skin1",
       "SetID": "16n29hg",
       "Name": "Cheapo",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_32_bringCatHome",
@@ -494,8 +494,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:16:45.4147043+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:00:10.5546445+00:00",
   "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:12:07.3260382+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:16:45.4147546+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:56:58.6886482+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:00:10.5546894+00:00"
 }

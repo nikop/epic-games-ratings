@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5211,9 +5211,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54525,
+  "EOS_Progressed": 54526,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12471,6 +12471,11 @@
       "Time": "2023-06-30T03:22:19.8638794+00:00",
       "NumProgressed": 54525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T04:05:58.1880463+00:00",
+      "NumProgressed": 54526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12482,7 +12487,7 @@
       "Name": "Against all odds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "Apple of my eye",
@@ -12578,7 +12583,7 @@
       "Name": "Entrepreneur",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "Explorer",
@@ -12730,7 +12735,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "Mastery",
@@ -12826,7 +12831,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "The king is pleased",
@@ -12889,15 +12894,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54525,
+      "Progressed": 54526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-29T20:00:18.2495865+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:22:19.8638789+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:05:58.1880457+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:15:36.6021147+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:22:19.86395+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:59:20.5498335+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:05:58.1881138+00:00"
 }

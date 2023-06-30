@@ -6,12 +6,12 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,307 |
-| Into the Unknown | 10.00% | ~58,461 |
-| First Shot | 10.00% | ~58,461 |
-| Herzlich Wilkommen! | 9.00% | ~52,615 |
-| Good Night & Good Luck | 9.00% | ~52,615 |
-| Sancho Panza | 8.00% | ~46,769 |
+| You Never Forget Your First... | 11.00% | ~64,308 |
+| Into the Unknown | 10.00% | ~58,462 |
+| First Shot | 10.00% | ~58,462 |
+| Herzlich Wilkommen! | 9.00% | ~52,616 |
+| Good Night & Good Luck | 9.00% | ~52,616 |
+| Sancho Panza | 8.00% | ~46,770 |
 | Under Pressure | 7.00% | ~40,923 |
 | On the Trail of the Enemy | 7.00% | ~40,923 |
 | Flag Burning | 7.00% | ~40,923 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,385 |
 | Terminal Headache | 4.00% | ~23,385 |
 | Slowpoke! | 4.00% | ~23,385 |
-| You're Going Down! | 3.00% | ~17,538 |
+| You're Going Down! | 3.00% | ~17,539 |
 | Municipal Services | 2.00% | ~11,692 |
 | Tickets, Please! | 2.00% | ~11,692 |
 | Ban Hammer | 2.00% | ~11,692 |
@@ -52,7 +52,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Find Anything Interesting? | 0.80% | ~4,677 |
 | Boot Licker | 0.80% | ~4,677 |
 | Who Wants To Be a... | 0.80% | ~4,677 |
-| Night of Terrors | 0.80% | ~1,840 |
+| Night of Terrors | 0.80% | ~1,841 |
 | Get the Point? | 0.70% | ~4,092 |
 | My Friend, Ciro | 0.70% | ~1,610 |
 | Skullcrusher | 0.70% | ~1,610 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~230 |
 | Connoisseur | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,613 (Ranked 26)  
+Progressed: 584,620 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 58 (0.01%) (Ranked 218)
 | 2023-06-27 | 583,754 | 58 |
 | 2023-06-28 | 584,145 | 58 |
 | 2023-06-29 | 584,539 | 58 |
-| 2023-06-30 | 584,613 | 58 |
+| 2023-06-30 | 584,620 | 58 |
 ## Awards
 Max (Character Customization): 8,104  (Ranked 40)  
 Sum: 18,888 (Ranked 55)  

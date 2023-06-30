@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,111 |
-| The Mad Wizard | 10.00% | ~20,079 |
-| The Ring of Regeneration | 6.00% | ~12,048 |
-| Are Ya Chicken? | 6.00% | ~12,048 |
-| Were-verpowered | 5.00% | ~10,040 |
-| Seeking Allies | 4.00% | ~8,032 |
-| Mad Cow Disease | 4.00% | ~8,032 |
-| Friendly Imps | 4.00% | ~8,032 |
-| Pure Energy | 4.00% | ~8,032 |
-| A Persistent Buzzing | 3.00% | ~6,024 |
-| Terror in the Dark | 3.00% | ~6,024 |
-| The Crumbling Temple | 3.00% | ~6,024 |
-| Beast Mode | 2.00% | ~4,016 |
-| A Mysterious Summons | 2.00% | ~4,016 |
-| Unearthed Evil | 2.00% | ~4,016 |
-| Useless Allies | 2.00% | ~4,016 |
-| Exploring Port Nyanzaru | 2.00% | ~4,016 |
-| Running of the Saurs | 2.00% | ~4,016 |
-| The Contagious Curse | 2.00% | ~4,016 |
-| Escort to Waterdeep | 2.00% | ~4,016 |
-| Waterdeep Detours | 2.00% | ~4,016 |
+| The Cursed Farmer | 14.00% | ~28,119 |
+| The Mad Wizard | 10.00% | ~20,085 |
+| The Ring of Regeneration | 6.00% | ~12,051 |
+| Are Ya Chicken? | 6.00% | ~12,051 |
+| Were-verpowered | 5.00% | ~10,042 |
+| Seeking Allies | 4.00% | ~8,034 |
+| Mad Cow Disease | 4.00% | ~8,034 |
+| Friendly Imps | 4.00% | ~8,034 |
+| Pure Energy | 4.00% | ~8,034 |
+| A Persistent Buzzing | 3.00% | ~6,025 |
+| Terror in the Dark | 3.00% | ~6,025 |
+| The Crumbling Temple | 3.00% | ~6,025 |
+| Beast Mode | 2.00% | ~4,017 |
+| A Mysterious Summons | 2.00% | ~4,017 |
+| Unearthed Evil | 2.00% | ~4,017 |
+| Useless Allies | 2.00% | ~4,017 |
+| Exploring Port Nyanzaru | 2.00% | ~4,017 |
+| Running of the Saurs | 2.00% | ~4,017 |
+| The Contagious Curse | 2.00% | ~4,017 |
+| Escort to Waterdeep | 2.00% | ~4,017 |
+| Waterdeep Detours | 2.00% | ~4,017 |
 | Low Initiative | 1.00% | ~2,008 |
 | Building Trust | 1.00% | ~2,008 |
 | March of the Undead | 1.00% | ~2,008 |
@@ -38,13 +38,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,008 |
 | The Templar's Camp | 1.00% | ~2,008 |
 | Rescue in the Jungle | 1.00% | ~2,008 |
-| Invisible Shadows | 0.90% | ~1,807 |
-| The Botched Kidnapping | 0.90% | ~1,807 |
-| Premature Betrayal | 0.90% | ~1,807 |
-| Constant Banditry | 0.90% | ~1,807 |
-| Street War | 0.80% | ~1,606 |
-| A Tale of Two Cities | 0.80% | ~1,606 |
-| Close Escort | 0.80% | ~1,606 |
+| Invisible Shadows | 0.90% | ~1,808 |
+| The Botched Kidnapping | 0.90% | ~1,808 |
+| Premature Betrayal | 0.90% | ~1,808 |
+| Constant Banditry | 0.90% | ~1,808 |
+| Street War | 0.80% | ~1,607 |
+| A Tale of Two Cities | 0.80% | ~1,607 |
+| Close Escort | 0.80% | ~1,607 |
 | Homecoming | 0.70% | ~1,406 |
 | The Lost Heir of Omu | 0.70% | ~1,406 |
 | Trollskull Manor | 0.70% | ~1,406 |
@@ -70,7 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.50% | ~1,004 |
 | The Darkness Runs Deeper | 0.50% | ~1,004 |
 | Market Fluctuations | 0.50% | ~1,004 |
-| The Giant's Bane Tavern | 0.50% | ~835 |
+| The Giant's Bane Tavern | 0.50% | ~836 |
 | Rude Welcome | 0.50% | ~1,004 |
 | Durable Deep | 0.50% | ~1,004 |
 | The Haunted Jungle | 0.50% | ~1,004 |
@@ -92,37 +92,37 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.40% | ~803 |
 | The Everlasting Rime | 0.40% | ~668 |
 | Expert Opinion | 0.40% | ~803 |
-| Anti-Dexterous Explorers | 0.30% | ~602 |
-| Not Very Charming | 0.30% | ~602 |
-| Lobsterfolk Assault | 0.30% | ~602 |
-| Periodic Petrification | 0.30% | ~602 |
-| Home Field Advantage | 0.30% | ~602 |
-| Double Vision | 0.30% | ~602 |
-| Vajra's Guards | 0.30% | ~602 |
+| Anti-Dexterous Explorers | 0.30% | ~603 |
+| Not Very Charming | 0.30% | ~603 |
+| Lobsterfolk Assault | 0.30% | ~603 |
+| Periodic Petrification | 0.30% | ~603 |
+| Home Field Advantage | 0.30% | ~603 |
+| Double Vision | 0.30% | ~603 |
+| Vajra's Guards | 0.30% | ~603 |
 | The Newcomers of Notoriety | 0.30% | ~501 |
-| Azaka's Procession - Part 1 | 0.30% | ~602 |
-| Azaka's Procession - Part 2 | 0.30% | ~602 |
-| The Hunt for Owl-y | 0.30% | ~602 |
-| Werewolves in the Mist | 0.30% | ~602 |
-| We're not in Faerûn Anymore | 0.30% | ~602 |
-| Modron Assistance | 0.30% | ~602 |
-| Domesticated Owlbears | 0.30% | ~602 |
-| House of Darkness | 0.30% | ~602 |
-| The Trepidatious Trio | 0.30% | ~602 |
-| Our Time To Shine | 0.30% | ~602 |
-| Backtracking Through Barovia | 0.30% | ~602 |
-| Nimblest Escape | 0.30% | ~602 |
-| Excavating History | 0.30% | ~602 |
-| Towering Expectations | 0.30% | ~602 |
-| Cramped Quarters | 0.30% | ~602 |
-| Who Lurks in Lurkwood | 0.30% | ~602 |
-| A Tale of Two Fiends | 0.30% | ~602 |
-| Slow and Steady | 0.30% | ~602 |
-| Patience is Key | 0.30% | ~602 |
-| Champions of Waterdeep | 0.30% | ~602 |
-| Resolve Amongst Chaos | 0.30% | ~602 |
-| Once More Into The Breach | 0.30% | ~602 |
-| Wyllowwood | 0.30% | ~602 |
+| Azaka's Procession - Part 1 | 0.30% | ~603 |
+| Azaka's Procession - Part 2 | 0.30% | ~603 |
+| The Hunt for Owl-y | 0.30% | ~603 |
+| Werewolves in the Mist | 0.30% | ~603 |
+| We're not in Faerûn Anymore | 0.30% | ~603 |
+| Modron Assistance | 0.30% | ~603 |
+| Domesticated Owlbears | 0.30% | ~603 |
+| House of Darkness | 0.30% | ~603 |
+| The Trepidatious Trio | 0.30% | ~603 |
+| Our Time To Shine | 0.30% | ~603 |
+| Backtracking Through Barovia | 0.30% | ~603 |
+| Nimblest Escape | 0.30% | ~603 |
+| Excavating History | 0.30% | ~603 |
+| Towering Expectations | 0.30% | ~603 |
+| Cramped Quarters | 0.30% | ~603 |
+| Who Lurks in Lurkwood | 0.30% | ~603 |
+| A Tale of Two Fiends | 0.30% | ~603 |
+| Slow and Steady | 0.30% | ~603 |
+| Patience is Key | 0.30% | ~603 |
+| Champions of Waterdeep | 0.30% | ~603 |
+| Resolve Amongst Chaos | 0.30% | ~603 |
+| Once More Into The Breach | 0.30% | ~603 |
+| Wyllowwood | 0.30% | ~603 |
 | An Illithid Undertaking | 0.30% | ~501 |
 | Déjà Vu | 0.30% | ~501 |
 | Into The Fire | 0.30% | ~501 |
@@ -133,7 +133,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.30% | ~501 |
 | Civilization | 0.30% | ~501 |
 | Dwarven Rumors | 0.30% | ~501 |
-| Poor Guidance | 0.30% | ~602 |
+| Poor Guidance | 0.30% | ~603 |
 | Struggling Toward Omu | 0.20% | ~402 |
 | Taking Responsibility | 0.20% | ~402 |
 | No Good at All | 0.20% | ~402 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,794 (Ranked 52)  
+Progressed: 200,847 (Ranked 52)  
 Completed: 2,022 (1.01%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 2,022 (1.01%) (Ranked 100)
 | 2023-06-27 | 188,215 | 2,018 |
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
-| 2023-06-30 | 200,794 | 2,022 |
+| 2023-06-30 | 200,847 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,985  (Ranked 64)  
 Sum: 30,308 (Ranked 37)  

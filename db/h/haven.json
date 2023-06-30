@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1228,9 +1228,9 @@
       "ID": "25",
       "SetID": "n50no0",
       "Name": "Heartstrings",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 183
     },
     {
       "ID": "27",
@@ -1340,8 +1340,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-06-30T03:22:12.286179+00:00",
+  "LastChanged_Achievements": "2023-06-30T04:05:52.1184854+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:32.1212829+00:00",
-  "LastUpdate_Ratings": "2023-06-30T03:15:18.7149329+00:00",
-  "LastUpdate_Achievements": "2023-06-30T03:22:12.2862061+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:59:08.7596027+00:00",
+  "LastUpdate_Achievements": "2023-06-30T04:05:52.1185079+00:00"
 }

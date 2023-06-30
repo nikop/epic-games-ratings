@@ -1,23 +1,23 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.45 (Ranked 618)  
+Rating: 4.45 (Ranked 617)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,196 |
-| I'll Be Back | 85.00% | ~3,794 |
-| Sorry, I Dropped This | 77.00% | ~3,437 |
-| First Day on the Job | 77.00% | ~3,437 |
-| Butcher's Bill | 55.00% | ~2,455 |
+| On My Own Two Feet | 94.00% | ~4,197 |
+| I'll Be Back | 85.00% | ~3,795 |
+| Sorry, I Dropped This | 77.00% | ~3,438 |
+| First Day on the Job | 77.00% | ~3,438 |
+| Butcher's Bill | 55.00% | ~2,456 |
 | P.A.X | 37.00% | ~1,652 |
 | Hey Listen | 37.00% | ~1,652 |
 | OPERATOR | 36.00% | ~1,607 |
 | It's Blue Light | 33.00% | ~1,473 |
 | Most Wanted | 26.00% | ~1,161 |
 | Infidel | 23.00% | ~1,027 |
-| GOLIATH | 21.00% | ~937 |
+| GOLIATH | 21.00% | ~938 |
 | Firebug | 20.00% | ~893 |
 | Nothing to Lose | 18.00% | ~804 |
 | I Choose You | 17.00% | ~759 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~357 |
 | No More Marching | 8.00% | ~357 |
 | Is This Real Life? | 8.00% | ~357 |
-| Duty-Bound | 7.00% | ~312 |
-| Follow the White Rabbit | 7.00% | ~312 |
-| Liberation | 7.00% | ~312 |
-| Risk Assessment | 7.00% | ~312 |
+| Duty-Bound | 7.00% | ~313 |
+| Follow the White Rabbit | 7.00% | ~313 |
+| Liberation | 7.00% | ~313 |
+| Risk Assessment | 7.00% | ~313 |
 | Sunglasses at Night | 6.00% | ~268 |
 | Carbon Cat | 6.00% | ~268 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~223 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~22 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,464 (Ranked 136)  
+Progressed: 4,465 (Ranked 136)  
 Completed: 14 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 14 (0.31%) (Ranked 142)
 | 2023-06-27 | 4,462 | 14 |
 | 2023-06-28 | 4,463 | 14 |
 | 2023-06-29 | 4,464 | 14 |
+| 2023-06-30 | 4,465 | 14 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 469)  
 Sum: 26 (Ranked 476)  
