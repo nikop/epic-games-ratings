@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,282 |
+| Goodest Of The Good Cops | 28.00% | ~34,283 |
 | Biggest Communism Builder | 24.00% | ~29,385 |
-| The World's Most Laughable Centrist | 20.00% | ~24,487 |
+| The World's Most Laughable Centrist | 20.00% | ~24,488 |
 | Il Coppo Del'Arte! | 18.00% | ~22,039 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,590 |
 | Hyperstellar Law Official | 15.00% | ~18,366 |
@@ -16,12 +16,12 @@ Number of Ratings: 1,611  (23.09.2022)
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,917 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,917 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,468 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,019 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,020 |
 | Unbelievably Boring **** | 8.00% | ~9,795 |
 | Enemy Of The Physical Realm | 8.00% | ~9,795 |
 | Hardie's Heroes | 6.00% | ~7,346 |
-| The Lawbringer | 4.00% | ~4,897 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,897 |
+| The Lawbringer | 4.00% | ~4,898 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~4,898 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,673 |
 | Bother Kim After Hours | 3.00% | ~3,673 |
 | Baddest Of the Bad Cops | 2.00% | ~2,449 |
@@ -31,9 +31,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Massive Torque Dork | 1.00% | ~1,224 |
 | Avowed Inframaterialist | 1.00% | ~1,224 |
 | Real Musor | 0.90% | ~1,102 |
-| Baddest Brow in Town | 0.80% | ~979 |
-| Committee of la Responsabilité | 0.80% | ~979 |
-| Venture into the HARDCORE | 0.80% | ~979 |
+| Baddest Brow in Town | 0.80% | ~980 |
+| Committee of la Responsabilité | 0.80% | ~980 |
+| Venture into the HARDCORE | 0.80% | ~980 |
 | Networthy Individual | 0.70% | ~857 |
 | Leopard Mindset | 0.60% | ~735 |
 | Modus: Mullen | 0.30% | ~367 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~122 |
 | What body? | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,437 (Ranked 60)  
+Progressed: 122,439 (Ranked 60)  
 Completed: 26 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 26 (0.02%) (Ranked 210)
 | 2023-06-27 | 122,349 | 26 |
 | 2023-06-28 | 122,380 | 26 |
 | 2023-06-29 | 122,425 | 26 |
-| 2023-06-30 | 122,437 | 26 |
+| 2023-06-30 | 122,439 | 26 |
 ## Awards
 Max (Character Customization): 698  (Ranked 162)  
 Sum: 1,058 (Ranked 233)  

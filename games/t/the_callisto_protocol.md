@@ -5,25 +5,27 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Get a Grip | 0.40% | ~62 |
 | You Need a Gun | 0.30% | ~47 |
-| Get a Grip | 0.30% | ~47 |
 | Two Heads Are Better Than One | 0.30% | ~47 |
 | Paper Jams | 0.30% | ~47 |
+| In the Pipe, Five by Five | 0.30% | ~47 |
+| Crash Site | 0.30% | ~47 |
 | Keep Fighting | 0.30% | ~11 |
 | Giving Back | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
 | Chew 'Em Up | 0.20% | ~31 |
+| Terminated | 0.20% | ~31 |
 | Workplace Hazard | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
+| Float Like A Butterfly | 0.20% | ~31 |
 | Reforged | 0.20% | ~31 |
 | The Outer Way | 0.20% | ~31 |
 | If the SHU Fits... | 0.20% | ~31 |
 | Without A Paddle | 0.20% | ~31 |
-| In the Pipe, Five by Five | 0.20% | ~31 |
 | What Lies Beneath | 0.20% | ~31 |
 | Desperate Times | 0.20% | ~31 |
-| Crash Site | 0.20% | ~31 |
 | Full Circle | 0.20% | ~31 |
 | Power Up | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -34,8 +36,6 @@ Rating: 4.19 (Ranked 844)
 | Lifer | 0.10% | ~4 |
 | Parole Denied | 0.10% | ~4 |
 | In Striking Distance | 0.10% | ~16 |
-| Terminated | 0.10% | ~16 |
-| Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | Instigator | 0.10% | ~4 |
 | Subject Alpha | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | Bear Trap | 0.00% | ~0 |
 | Hoard Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,591 (Ranked 106)  
+Progressed: 15,592 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 60 (0.38%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
-| 2023-06-30 | 15,591 | 60 |
+| 2023-06-30 | 15,592 | 60 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 347 (Ranked 323)  

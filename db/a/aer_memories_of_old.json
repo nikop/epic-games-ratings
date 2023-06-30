@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13960,
+  "EOS_Progressed": 13963,
   "EOS_Completed": 293,
-  "EOS_NewPlayers": 721,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -7689,6 +7689,11 @@
       "Time": "2023-06-30T09:06:05.3235068+00:00",
       "NumProgressed": 13960,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-06-30T10:05:59.4771583+00:00",
+      "NumProgressed": 13963,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 20,
@@ -7724,7 +7729,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -7732,7 +7737,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -7756,7 +7761,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -7796,7 +7801,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -7820,7 +7825,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10610
+      "UsersEstimate": 10612
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7828,7 +7833,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "NORTH_FINISHED",
@@ -7836,7 +7841,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -7852,22 +7857,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13960,
+      "Progressed": 13963,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-30T09:06:05.3235063+00:00",
+  "LastChanged_Achievements": "2023-06-30T10:05:59.4771578+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:00:00.2434634+00:00",
-  "LastUpdate_Achievements": "2023-06-30T09:06:05.3235675+00:00"
+  "LastUpdate_Ratings": "2023-06-30T09:59:47.5142928+00:00",
+  "LastUpdate_Achievements": "2023-06-30T10:05:59.4772017+00:00"
 }

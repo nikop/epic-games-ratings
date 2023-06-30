@@ -15,8 +15,8 @@ Rating: 4.59 (Ranked 410)
 | From Friends to Family | 0.80% | ~39 |
 | Stronger Together | 0.80% | ~39 |
 | My Final Form | 0.80% | ~39 |
-| Here be Dragons | 0.70% | ~34 |
-| Blood of the Dragon | 0.70% | ~34 |
+| Here be Dragons | 0.80% | ~39 |
+| Blood of the Dragon | 0.80% | ~39 |
 | Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
 | There Can Only Be One! | 0.50% | ~24 |

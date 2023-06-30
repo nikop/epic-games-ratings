@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.49 (Ranked 569)  
+Rating: 4.48 (Ranked 584)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,8 +14,8 @@ Number of Ratings: 48  (23.09.2022)
 | Partners? | 62.00% | ~420 |
 | Magical Mineral Golem | 55.00% | ~373 |
 | On Outlander Lane | 54.00% | ~366 |
+| First Time Fishing | 52.00% | ~353 |
 | A Girl About the Town | 51.00% | ~346 |
-| First Time Fishing | 51.00% | ~346 |
 | First Time Hunting | 49.00% | ~332 |
 | Rune Wall Wreckage | 48.00% | ~325 |
 | ...And Your Tax Money | 46.00% | ~312 |
@@ -108,3 +108,4 @@ Completed: 58 (8.55%) (Ranked 23)
 | 2022-11-29 | 4.50 | - | - | - |
 | 2022-12-03 | 4.49 | - | - | - |
 | 2023-03-31 | 4.49 | - | 0 | 0 |
+| 2023-06-30 | 4.48 | - | 0 | 0 |

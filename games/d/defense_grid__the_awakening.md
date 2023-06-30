@@ -6,44 +6,44 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~389,127 |
-| Hey! That's mine! | 78.00% | ~374,715 |
-| Happy Returns | 77.00% | ~369,911 |
-| Field Promotion | 74.00% | ~355,499 |
-| Leadhead | 71.00% | ~341,087 |
-| Eradicator | 67.00% | ~321,871 |
-| Surplus | 65.00% | ~312,263 |
-| I Spy | 64.00% | ~307,459 |
-| Burn Baby Burn | 59.00% | ~283,438 |
-| Yellow Beats Green | 55.00% | ~264,222 |
-| Salvage Rights | 53.00% | ~254,614 |
-| Pew Pew | 50.00% | ~240,202 |
-| What IS that? | 50.00% | ~240,202 |
-| Close Call | 49.00% | ~235,398 |
-| Penny Pincher | 49.00% | ~235,398 |
-| Arsenal | 46.00% | ~220,986 |
-| Boot Camp | 45.00% | ~216,182 |
-| Flawless Victory | 42.00% | ~201,770 |
-| Confident | 40.00% | ~192,162 |
-| Exterminator | 36.00% | ~172,945 |
-| Sharpshooter | 33.00% | ~158,533 |
-| Great Ball of Fire | 32.00% | ~153,729 |
-| Not So Fast | 32.00% | ~153,729 |
-| No Sale | 30.00% | ~144,121 |
-| Kaboom! | 29.00% | ~139,317 |
-| Liquidator | 29.00% | ~139,317 |
-| High Voltage | 24.00% | ~115,297 |
-| Filthy Rich | 19.00% | ~91,277 |
+| First Blood | 81.00% | ~389,130 |
+| Hey! That's mine! | 78.00% | ~374,718 |
+| Happy Returns | 77.00% | ~369,914 |
+| Field Promotion | 74.00% | ~355,502 |
+| Leadhead | 71.00% | ~341,090 |
+| Eradicator | 67.00% | ~321,873 |
+| Surplus | 65.00% | ~312,265 |
+| I Spy | 64.00% | ~307,461 |
+| Burn Baby Burn | 59.00% | ~283,441 |
+| Yellow Beats Green | 55.00% | ~264,224 |
+| Salvage Rights | 53.00% | ~254,616 |
+| Pew Pew | 50.00% | ~240,204 |
+| What IS that? | 50.00% | ~240,204 |
+| Close Call | 49.00% | ~235,400 |
+| Penny Pincher | 49.00% | ~235,400 |
+| Arsenal | 46.00% | ~220,988 |
+| Boot Camp | 45.00% | ~216,184 |
+| Flawless Victory | 42.00% | ~201,771 |
+| Confident | 40.00% | ~192,163 |
+| Exterminator | 36.00% | ~172,947 |
+| Sharpshooter | 33.00% | ~158,535 |
+| Great Ball of Fire | 32.00% | ~153,731 |
+| Not So Fast | 32.00% | ~153,731 |
+| No Sale | 30.00% | ~144,122 |
+| Kaboom! | 29.00% | ~139,318 |
+| Liquidator | 29.00% | ~139,318 |
+| High Voltage | 24.00% | ~115,298 |
+| Filthy Rich | 19.00% | ~91,278 |
 | The Not-So-Friendly Skies | 18.00% | ~86,473 |
 | Power Builder | 17.00% | ~81,669 |
 | Pyrrhic Victory | 17.00% | ~81,669 |
 | Death From Above | 16.00% | ~76,865 |
 | Retry | 16.00% | ~76,865 |
-| Head Trauma | 12.00% | ~57,648 |
-| Full Defense | 10.00% | ~48,040 |
-| Overseer | 9.00% | ~43,236 |
-| Annihilator | 8.00% | ~38,432 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~38,432 |
+| Head Trauma | 12.00% | ~57,649 |
+| Full Defense | 10.00% | ~48,041 |
+| Overseer | 9.00% | ~43,237 |
+| Annihilator | 8.00% | ~38,433 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~38,433 |
 | Indecisive | 6.00% | ~28,824 |
 | Base Defender | 5.00% | ~24,020 |
 | Relay Race | 5.00% | ~24,020 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~480 |
 | You Monster | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,404 (Ranked 32)  
+Progressed: 480,408 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,15 +165,15 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-27 | 480,249 | 4 |
 | 2023-06-28 | 480,319 | 4 |
 | 2023-06-29 | 480,382 | 4 |
-| 2023-06-30 | 480,404 | 4 |
+| 2023-06-30 | 480,408 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
-Sum: 1,655 (Ranked 207)  
+Sum: 1,656 (Ranked 207)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 236 |
-| This game has Quickly Understood Controls | 220 |
+| This game has Quickly Understood Controls | 221 |
 | This game is Relaxing | 213 |
 | This game is Extremely Fun | 202 |
 | This game is Highly Recommended | 187 |
@@ -280,3 +280,4 @@ Diff (max vs sum): 43
 | 2023-06-19 | 4.45 | - | 235 | 1,651 |
 | 2023-06-22 | 4.45 | - | 235 | 1,652 |
 | 2023-06-25 | 4.45 | - | 236 | 1,655 |
+| 2023-06-30 | 4.45 | - | 236 | 1,656 |

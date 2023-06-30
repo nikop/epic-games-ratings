@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -7187,9 +7187,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3120
     },
     {
       "ID": "39",
@@ -7299,9 +7299,9 @@
       "ID": "50",
       "SetID": "8idi9ml",
       "Name": "Bookworm",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 1040
     },
     {
       "ID": "51",
@@ -7419,8 +7419,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-06-30T09:03:56.3675164+00:00",
+  "LastChanged_Achievements": "2023-06-30T10:03:50.7270593+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.3280658+00:00",
-  "LastUpdate_Ratings": "2023-06-30T08:59:50.0295373+00:00",
-  "LastUpdate_Achievements": "2023-06-30T09:03:56.3676093+00:00"
+  "LastUpdate_Ratings": "2023-06-30T09:59:37.8887246+00:00",
+  "LastUpdate_Achievements": "2023-06-30T10:03:50.7271299+00:00"
 }

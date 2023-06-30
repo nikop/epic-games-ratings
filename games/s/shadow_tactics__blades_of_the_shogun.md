@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~18,186 |
-| Thorough | 9.00% | ~16,367 |
-| A thief's beginning | 8.00% | ~14,549 |
-| Disguised | 7.00% | ~12,730 |
-| Rescue Takuma | 7.00% | ~12,730 |
-| Rollin' | 7.00% | ~12,730 |
-| Tanuki Time | 7.00% | ~12,730 |
+| Genin | 10.00% | ~18,187 |
+| Thorough | 9.00% | ~16,368 |
+| A thief's beginning | 8.00% | ~14,550 |
+| Disguised | 7.00% | ~12,731 |
+| Rescue Takuma | 7.00% | ~12,731 |
+| Rollin' | 7.00% | ~12,731 |
+| Tanuki Time | 7.00% | ~12,731 |
 | Chunin | 6.00% | ~10,912 |
 | Ice Ice Yuki | 6.00% | ~10,912 |
 | Jonin | 6.00% | ~10,912 |
 | Stoned Ox | 6.00% | ~10,912 |
 | Yabu | 6.00% | ~10,912 |
-| Flying Rocks | 5.00% | ~9,093 |
-| Happy Planning | 5.00% | ~9,093 |
-| Mugen Unchained | 5.00% | ~9,093 |
-| Warzone | 5.00% | ~9,093 |
-| Okkoto | 4.00% | ~7,274 |
-| Prisoners | 4.00% | ~7,274 |
-| Too Early | 4.00% | ~7,274 |
+| Flying Rocks | 5.00% | ~9,094 |
+| Happy Planning | 5.00% | ~9,094 |
+| Mugen Unchained | 5.00% | ~9,094 |
+| Warzone | 5.00% | ~9,094 |
+| Okkoto | 4.00% | ~7,275 |
+| Prisoners | 4.00% | ~7,275 |
+| Too Early | 4.00% | ~7,275 |
 | Gear up | 3.00% | ~5,456 |
 | Happy little accidents | 3.00% | ~5,456 |
 | Noboru | 3.00% | ~5,456 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~182 |
 | Release the Kraken | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,861 (Ranked 57)  
-Completed: 55 (0.03%) (Ranked 202)  
+Progressed: 181,870 (Ranked 57)  
+Completed: 55 (0.03%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,7 +122,7 @@ Completed: 55 (0.03%) (Ranked 202)
 | 2023-06-27 | 181,183 | 55 |
 | 2023-06-28 | 181,481 | 55 |
 | 2023-06-29 | 181,766 | 55 |
-| 2023-06-30 | 181,861 | 55 |
+| 2023-06-30 | 181,870 | 55 |
 ## Awards
 Max (Great for Beginners): 552  (Ranked 182)  
 Sum: 4,690 (Ranked 129)  

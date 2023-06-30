@@ -12,10 +12,10 @@
 | Selfish Shellfish | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
+| Folklore | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
-| Folklore | 0.30% | ~1 |
 | From Beyond | 0.30% | ~1 |
 | Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |

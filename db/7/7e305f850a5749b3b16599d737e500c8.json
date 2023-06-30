@@ -4,7 +4,7 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 2,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -528,9 +528,9 @@
       "ID": "Fixer",
       "SetID": "b7i210",
       "Name": "Fixer",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Florist",
@@ -544,9 +544,9 @@
       "ID": "Game_changer",
       "SetID": "b7i210",
       "Name": "Game changer",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Justice",
@@ -592,33 +592,33 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Street_food",
       "SetID": "b7i210",
       "Name": "Street food",
-      "Percentage": 61,
-      "XP": 50,
-      "UsersEstimate": 50
-    },
-    {
-      "ID": "Tower_builder",
-      "SetID": "b7i210",
-      "Name": "Tower builder",
       "Percentage": 62,
       "XP": 50,
       "UsersEstimate": 51
     },
     {
+      "ID": "Tower_builder",
+      "SetID": "b7i210",
+      "Name": "Tower builder",
+      "Percentage": 63,
+      "XP": 50,
+      "UsersEstimate": 52
+    },
+    {
       "ID": "Troubleshooter",
       "SetID": "b7i210",
       "Name": "Troubleshooter",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
@@ -631,8 +631,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-06-30T09:03:57.9135421+00:00",
+  "LastChanged_Achievements": "2023-06-30T10:03:52.3236307+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-06-30T08:57:24.6146581+00:00",
-  "LastUpdate_Achievements": "2023-06-30T09:03:57.9135568+00:00"
+  "LastUpdate_Ratings": "2023-06-30T09:57:10.9786673+00:00",
+  "LastUpdate_Achievements": "2023-06-30T10:03:52.3236423+00:00"
 }

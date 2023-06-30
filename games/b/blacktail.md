@@ -28,11 +28,11 @@ Rating: 4.68 (Ranked 239)
 | Both sides | 3.00% | ~16 |
 | Specialist | 3.00% | ~16 |
 | Witch's cookbook | 3.00% | ~16 |
+| Bad apple | 2.00% | ~10 |
 | Gnowlledgeable | 2.00% | ~10 |
 | Always worth a try | 2.00% | ~10 |
 | Toxic | 2.00% | ~10 |
 | Entangled | 2.00% | ~10 |
-| Bad apple | 1.00% | ~5 |
 | Loremaster | 1.00% | ~5 |
 | Awards unwarded | 1.00% | ~5 |
 | Mushrooming enthusiast | 0.40% | ~2 |

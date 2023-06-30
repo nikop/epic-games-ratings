@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~4,229 |
 | Explorer | 53.00% | ~3,674 |
 | Healer | 53.00% | ~3,674 |
-| Aspiring Inventor | 44.00% | ~3,051 |
+| Aspiring Inventor | 45.00% | ~3,120 |
 | Adventurer | 42.00% | ~2,912 |
 | Famous Healer | 38.00% | ~2,635 |
 | Local Leader | 35.00% | ~2,427 |
@@ -36,8 +36,8 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~1,109 |
 | Around the World | 16.00% | ~1,109 |
 | Spreading Influence | 16.00% | ~1,109 |
+| Bookworm | 15.00% | ~1,040 |
 | Famous Adventurer | 14.00% | ~971 |
-| Bookworm | 14.00% | ~971 |
 | Prepared for Anything | 13.00% | ~901 |
 | Big Catastrofan | 12.00% | ~832 |
 | It's a Finnish Thing | 10.00% | ~693 |
