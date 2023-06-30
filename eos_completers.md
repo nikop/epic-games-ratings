@@ -13,11 +13,11 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.09% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.02% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
@@ -28,7 +28,7 @@
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.23% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
-| 29 | [Scorn](games/s/scorn.md) | 6.88% |
+| 29 | [Scorn](games/s/scorn.md) | 6.87% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
@@ -38,7 +38,7 @@
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.07% |
 | 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 38 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.78% |
-| 39 | [Bugsnax](games/b/bugsnax.md) | 4.65% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.52% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.82% |
