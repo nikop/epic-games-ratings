@@ -2602,9 +2602,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 348
     },
     {
       "ID": "17",
@@ -2890,9 +2890,9 @@
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 348
     },
     {
       "ID": "5",
@@ -2955,8 +2955,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-30T17:06:07.168556+00:00",
+  "LastChanged_Achievements": "2023-06-30T18:06:46.5575824+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:57:40.8133562+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:06:07.1686026+00:00"
+  "LastUpdate_Ratings": "2023-06-30T17:57:48.0933966+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:06:46.5576285+00:00"
 }

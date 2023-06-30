@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 7.08,
+  "EOS_Completed_Percentage": 7.07,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -3729,6 +3729,11 @@
       "Time": "2023-06-30T15:05:48.7363932+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-06-30T18:06:36.5671372+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 5,
@@ -3740,7 +3745,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "2",
@@ -3754,9 +3759,9 @@
       "ID": "3",
       "SetID": "dg4cch5",
       "Name": "Jill the Brave",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 112
     },
     {
       "ID": "4",
@@ -3764,7 +3769,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "5",
@@ -3779,7 +3784,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 88
     }
   ],
@@ -3787,8 +3792,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-06-30T17:05:58.8411715+00:00",
+  "LastChanged_Achievements": "2023-06-30T18:06:36.5671368+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:12.7937805+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:57:27.9344536+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:05:58.8411941+00:00"
+  "LastUpdate_Ratings": "2023-06-30T17:57:33.1792354+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:06:36.5671595+00:00"
 }

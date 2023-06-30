@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1840,
+  "EOS_Progressed": 1842,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3011,6 +3011,11 @@
       "Time": "2023-06-30T17:04:34.0307671+00:00",
       "NumProgressed": 1840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-30T18:04:56.1406708+00:00",
+      "NumProgressed": 1842,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3022,7 +3027,7 @@
       "Name": "Aggressor",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AI_DRAW",
@@ -3102,7 +3107,7 @@
       "Name": "Novice",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3118,7 +3123,7 @@
       "Name": "Gonna Fly Now",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "GRASSHOPPER",
@@ -3126,7 +3131,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "GUARD_MAKER",
@@ -3197,14 +3202,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1840,
+      "Progressed": 1842,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-30T17:04:34.0307663+00:00",
+  "LastChanged_Achievements": "2023-06-30T18:04:56.1406703+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:57:21.4115306+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:04:34.0307919+00:00"
+  "LastUpdate_Ratings": "2023-06-30T17:57:25.6056283+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:04:56.1406966+00:00"
 }

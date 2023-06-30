@@ -518,10 +518,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 287,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-06-30T17:59:42.4141746+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 288,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287,
+  "NumberOfAwards": 288,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -589,7 +595,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has a Competitive Community",
@@ -609,8 +615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2023-05-27T21:59:00.3901646+00:00",
+  "LastChanged": "2023-06-30T17:59:42.4141745+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:07.0660299+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:59:17.496392+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:03:54.740429+00:00"
+  "LastUpdate_Ratings": "2023-06-30T17:59:42.4141752+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:04:08.7091696+00:00"
 }

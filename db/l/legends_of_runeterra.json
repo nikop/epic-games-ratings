@@ -1389,10 +1389,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1358,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2023-06-30T18:00:38.7420287+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1359,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1358,
+  "NumberOfAwards": 1359,
   "NumberOfAwardsMax": 156,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1406,7 +1412,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 149
+      "Count": 150
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1474,8 +1480,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-06-30T13:14:24.2319058+00:00",
+  "LastChanged": "2023-06-30T18:00:38.7420282+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:15.8069276+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:00:06.3523405+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:03:38.4638157+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:00:38.742029+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:03:49.3655127+00:00"
 }

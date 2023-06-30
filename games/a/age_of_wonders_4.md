@@ -8,11 +8,11 @@ Rating: 4.59 (Ranked 410)
 | Realm Estate | 1.00% | ~49 |
 | Secret Technique | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
+| My Final Form | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | A Wonderful Discovery | 0.90% | ~44 |
 | Walls Cannot Stop Us | 0.90% | ~44 |
-| My Final Form | 0.90% | ~44 |
 | Blood of the Dragon | 0.90% | ~44 |
 | From Friends to Family | 0.80% | ~39 |
 | Stronger Together | 0.80% | ~39 |
@@ -21,21 +21,21 @@ Rating: 4.59 (Ranked 410)
 | Full Ascension | 0.60% | ~29 |
 | Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
+| Fiery Friend | 0.60% | ~29 |
+| Against the Odds | 0.60% | ~29 |
 | Impenetrable Fortress | 0.60% | ~29 |
 | Intimidation Tactics | 0.60% | ~29 |
 | Digging for Treasure | 0.50% | ~24 |
-| Fiery Friend | 0.50% | ~24 |
-| Against the Odds | 0.50% | ~24 |
 | Duality | 0.50% | ~24 |
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Arch Mage | 0.40% | ~20 |
+| Eternal Lord | 0.40% | ~20 |
 | Preparation Is Everything | 0.40% | ~20 |
 | In a Liege of Your Own | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | The Creator | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
-| Eternal Lord | 0.30% | ~15 |
 | God Emperor | 0.20% | ~10 |
 | Lord of Chaos | 0.20% | ~10 |
 | The Goddess of Nature | 0.20% | ~10 |

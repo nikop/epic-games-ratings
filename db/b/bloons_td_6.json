@@ -4546,10 +4546,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 20241,
       "NumberOfAwardsMax": 3499
+    },
+    {
+      "Time": "2023-06-30T18:00:53.7883051+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 20256,
+      "NumberOfAwardsMax": 3499
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20241,
+  "NumberOfAwards": 20256,
   "NumberOfAwardsMax": 3499,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4587,7 +4593,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 2099
+      "Count": 2101
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4623,7 +4629,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1784
+      "Count": 1797
     },
     {
       "Text": "This game has Competitive Players",
@@ -4644,8 +4650,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-06-30T17:00:19.6590905+00:00",
+  "LastChanged": "2023-06-30T18:00:53.7883049+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:33.473988+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:00:19.6590911+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:05:36.2397204+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:00:53.7883055+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:06:09.704498+00:00"
 }

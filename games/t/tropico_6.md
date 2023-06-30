@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,956 |
-| Un-Lonely Island | 48.00% | ~1,867 |
-| The Beginning of a Servantship | 45.00% | ~1,750 |
-| Trade Is My Trait | 37.00% | ~1,439 |
-| Number 18 | 24.00% | ~933 |
+| Just One...More...Term... | 76.00% | ~2,957 |
+| Un-Lonely Island | 48.00% | ~1,868 |
+| The Beginning of a Servantship | 45.00% | ~1,751 |
+| Trade Is My Trait | 37.00% | ~1,440 |
+| Number 18 | 24.00% | ~934 |
 | The Governator | 19.00% | ~739 |
 | We Don't Have Time For That | 19.00% | ~739 |
 | The Legend of Langostino | 17.00% | ~661 |
-| Caribbean Comrade | 16.00% | ~622 |
-| The Dreamer of Dreams | 16.00% | ~622 |
+| Caribbean Comrade | 16.00% | ~623 |
+| The Dreamer of Dreams | 16.00% | ~623 |
 | Happy Ending? | 11.00% | ~428 |
 | Go Sovereigns! | 11.00% | ~428 |
 | For Science! | 11.00% | ~428 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 6.00% | ~233 |
 | I Owe You Nothing | 6.00% | ~233 |
 | Watch The World Burn | 6.00% | ~233 |
-| Viva Tropico! | 5.00% | ~194 |
-| Computer Says "No" | 5.00% | ~194 |
-| Fairy Tale Come True | 5.00% | ~194 |
+| Viva Tropico! | 5.00% | ~195 |
+| Computer Says "No" | 5.00% | ~195 |
+| Fairy Tale Come True | 5.00% | ~195 |
 | Apocalypso | 4.00% | ~156 |
 | Been there, Done That | 3.00% | ~117 |
 | Narcissist | 3.00% | ~117 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~39 |
 | My Ways | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,889 (Ranked 140)  
+Progressed: 3,891 (Ranked 140)  
 Completed: 1 (0.03%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.03%) (Ranked 204)
 | 2023-06-27 | 3,849 | 1 |
 | 2023-06-28 | 3,865 | 1 |
 | 2023-06-29 | 3,880 | 1 |
-| 2023-06-30 | 3,889 | 1 |
+| 2023-06-30 | 3,891 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 659 (Ranked 279)  

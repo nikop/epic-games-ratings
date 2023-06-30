@@ -5223,9 +5223,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54582,
+  "EOS_Progressed": 54584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12553,6 +12553,11 @@
       "Time": "2023-06-30T17:06:19.2607772+00:00",
       "NumProgressed": 54582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T18:07:00.6235441+00:00",
+      "NumProgressed": 54584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12572,7 +12577,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7641
+      "UsersEstimate": 7642
     },
     {
       "ID": "Bannerlord",
@@ -12580,7 +12585,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11462
+      "UsersEstimate": 11463
     },
     {
       "ID": "Best served cold",
@@ -12644,7 +12649,7 @@
       "Name": "Duelist",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "Dynasty",
@@ -12676,7 +12681,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Freedom",
@@ -12684,7 +12689,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "God of the Arena",
@@ -12724,7 +12729,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11462
+      "UsersEstimate": 11463
     },
     {
       "ID": "I can do it",
@@ -12732,7 +12737,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "I spit on your grave",
@@ -12740,7 +12745,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "Jack of All Trades",
@@ -12788,7 +12793,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16920
+      "UsersEstimate": 16921
     },
     {
       "ID": "Lawbringer",
@@ -12852,7 +12857,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "Ride it like you stole it",
@@ -12940,7 +12945,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11462
+      "UsersEstimate": 11463
     },
     {
       "ID": "Undercover",
@@ -12964,22 +12969,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54582,
+      "Progressed": 54584,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-06-30T16:00:56.2290593+00:00",
-  "LastChanged_Achievements": "2023-06-30T17:06:19.2607764+00:00",
+  "LastChanged_Achievements": "2023-06-30T18:07:00.6235436+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:59:48.8744285+00:00",
-  "LastUpdate_Achievements": "2023-06-30T17:06:19.2608476+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:00:18.0213768+00:00",
+  "LastUpdate_Achievements": "2023-06-30T18:07:00.6236107+00:00"
 }

@@ -14,7 +14,7 @@ Number of Ratings: 63  (23.09.2022)
 | Royal Flush | 62.00% | ~3,179 |
 | Timber! | 60.00% | ~3,077 |
 | Survive the Bombsequences | 59.00% | ~3,026 |
-| Killed 20 Jerks | 53.00% | ~2,718 |
+| Killed 20 Jerks | 54.00% | ~2,769 |
 | Death Defied | 53.00% | ~2,718 |
 | Fortunate Soul | 49.00% | ~2,513 |
 | Jerk-Slayer | 43.00% | ~2,205 |

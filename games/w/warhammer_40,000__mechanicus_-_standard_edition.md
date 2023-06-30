@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 651)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~53,973 |
-| This is only the beginning | 19.00% | ~41,020 |
-| Knowledge is power | 12.00% | ~25,907 |
-| Power Ranger | 9.00% | ~19,430 |
-| Galvanic Rifle | 9.00% | ~19,430 |
-| Taser Goad | 9.00% | ~19,430 |
-| Radium Ready | 9.00% | ~19,430 |
-| Half a cog | 9.00% | ~19,430 |
+| No aid from the Omnissiah | 25.00% | ~53,975 |
+| This is only the beginning | 19.00% | ~41,021 |
+| Knowledge is power | 12.00% | ~25,908 |
+| Power Ranger | 9.00% | ~19,431 |
+| Galvanic Rifle | 9.00% | ~19,431 |
+| Taser Goad | 9.00% | ~19,431 |
+| Radium Ready | 9.00% | ~19,431 |
+| Half a cog | 9.00% | ~19,431 |
 | Watch them crumble | 6.00% | ~12,954 |
 | Competent Cohort | 4.00% | ~8,636 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,636 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 651)
 | Perma-live | 0.10% | ~216 |
 | Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,893 (Ranked 50)  
+Progressed: 215,901 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,10 +111,10 @@ Completed: 4 (0.00%) (Ranked 230)
 | 2023-06-27 | 215,643 | 4 |
 | 2023-06-28 | 215,743 | 4 |
 | 2023-06-29 | 215,833 | 4 |
-| 2023-06-30 | 215,893 | 4 |
+| 2023-06-30 | 215,901 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
-Sum: 2,114 (Ranked 188)  
+Sum: 2,115 (Ranked 188)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -122,7 +122,7 @@ Diff (max vs sum): 49
 | This game has Quickly Understood Controls | 272 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 259 |
-| This game has Diverse Characters | 254 |
+| This game has Diverse Characters | 255 |
 | This game has Amazing Storytelling | 242 |
 | This game is Relaxing | 236 |
 | This game has Unique Visuals | 206 |
@@ -171,3 +171,4 @@ Diff (max vs sum): 49
 | 2023-06-22 | 4.43 | 280 | 2,112 |
 | 2023-06-28 | 4.43 | 280 | 2,113 |
 | 2023-06-29 | 4.43 | 280 | 2,114 |
+| 2023-06-30 | 4.43 | 280 | 2,115 |
