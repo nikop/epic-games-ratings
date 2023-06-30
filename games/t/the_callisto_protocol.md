@@ -10,25 +10,25 @@ Rating: 4.19 (Ranked 844)
 | Paper Jams | 0.50% | ~78 |
 | Keep Fighting | 0.50% | ~18 |
 | You Need a Gun | 0.40% | ~62 |
+| Flesh Wound | 0.40% | ~62 |
 | I Do Belong Here | 0.40% | ~62 |
 | Reforged | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
 | In the Pipe, Five by Five | 0.40% | ~62 |
 | Crash Site | 0.40% | ~62 |
 | Giving Back | 0.30% | ~47 |
-| Flesh Wound | 0.30% | ~47 |
 | Chew 'Em Up | 0.30% | ~47 |
 | Terminated | 0.30% | ~47 |
 | Workplace Hazard | 0.30% | ~47 |
 | The Commonality | 0.30% | ~47 |
 | Float Like A Butterfly | 0.30% | ~47 |
+| The Outer Way | 0.30% | ~47 |
 | If the SHU Fits... | 0.30% | ~47 |
 | What Lies Beneath | 0.30% | ~47 |
 | Full Circle | 0.30% | ~47 |
 | Power Up | 0.30% | ~47 |
 | It's Time | 0.30% | ~11 |
 | In Striking Distance | 0.20% | ~31 |
-| The Outer Way | 0.20% | ~31 |
 | Desperate Times | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |

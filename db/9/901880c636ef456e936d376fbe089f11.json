@@ -368,9 +368,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -631,8 +631,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-06-30T18:04:30.4376227+00:00",
+  "LastChanged_Achievements": "2023-06-30T19:04:36.1854118+00:00",
   "LastUpdate_AppInfo": "2023-06-27T03:57:08.4419995+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:57:15.3244034+00:00",
-  "LastUpdate_Achievements": "2023-06-30T18:04:30.4376615+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:57:23.1795946+00:00",
+  "LastUpdate_Achievements": "2023-06-30T19:04:36.1854931+00:00"
 }

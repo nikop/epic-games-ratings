@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,957 |
-| Un-Lonely Island | 48.00% | ~1,868 |
-| The Beginning of a Servantship | 45.00% | ~1,751 |
+| Just One...More...Term... | 76.00% | ~2,959 |
+| Un-Lonely Island | 48.00% | ~1,869 |
+| The Beginning of a Servantship | 45.00% | ~1,752 |
 | Trade Is My Trait | 37.00% | ~1,440 |
 | Number 18 | 24.00% | ~934 |
-| The Governator | 19.00% | ~739 |
-| We Don't Have Time For That | 19.00% | ~739 |
-| The Legend of Langostino | 17.00% | ~661 |
+| We Don't Have Time For That | 19.00% | ~740 |
+| The Governator | 18.00% | ~701 |
+| The Legend of Langostino | 17.00% | ~662 |
 | Caribbean Comrade | 16.00% | ~623 |
 | The Dreamer of Dreams | 16.00% | ~623 |
 | Happy Ending? | 11.00% | ~428 |
@@ -25,10 +25,10 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 8.00% | ~311 |
 | Make Tropico Great Again! | 8.00% | ~311 |
 | French Connection | 8.00% | ~311 |
-| Don't Panic! | 7.00% | ~272 |
-| Beware The Betman | 6.00% | ~233 |
-| I Owe You Nothing | 6.00% | ~233 |
-| Watch The World Burn | 6.00% | ~233 |
+| Don't Panic! | 7.00% | ~273 |
+| Beware The Betman | 6.00% | ~234 |
+| I Owe You Nothing | 6.00% | ~234 |
+| Watch The World Burn | 6.00% | ~234 |
 | Viva Tropico! | 5.00% | ~195 |
 | Computer Says "No" | 5.00% | ~195 |
 | Fairy Tale Come True | 5.00% | ~195 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~39 |
 | My Ways | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,891 (Ranked 140)  
+Progressed: 3,893 (Ranked 140)  
 Completed: 1 (0.03%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.03%) (Ranked 204)
 | 2023-06-27 | 3,849 | 1 |
 | 2023-06-28 | 3,865 | 1 |
 | 2023-06-29 | 3,880 | 1 |
-| 2023-06-30 | 3,891 | 1 |
+| 2023-06-30 | 3,893 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
 Sum: 659 (Ranked 279)  

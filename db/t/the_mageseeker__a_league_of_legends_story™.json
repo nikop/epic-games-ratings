@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 80,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 155,
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2405,
+  "EOS_Progressed": 2406,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2823,6 +2823,11 @@
       "Time": "2023-06-28T07:06:45.2015187+00:00",
       "NumProgressed": 2405,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-30T19:07:28.5895152+00:00",
+      "NumProgressed": 2406,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -2842,7 +2847,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -2874,15 +2879,15 @@
       "Name": "Hijack",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_CRITICAL_HITS",
       "SetID": "3pe2bac",
       "Name": "Elemental master",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 794
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -2898,7 +2903,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2914,7 +2919,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -2970,7 +2975,7 @@
       "Name": "Old friend",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -3002,7 +3007,7 @@
       "Name": "Chains master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3010,7 +3015,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3018,7 +3023,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3034,7 +3039,7 @@
       "Name": "The end of the experiments",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3050,7 +3055,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3074,7 +3079,7 @@
       "Name": "Devineur",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3122,7 +3127,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3130,7 +3135,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "STB_PET_DOG",
@@ -3138,7 +3143,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3146,7 +3151,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "STB_PLATINUM",
@@ -3162,7 +3167,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -3234,7 +3239,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3250,14 +3255,14 @@
       "Name": "Petricite Burst",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2405,
+      "Progressed": 2406,
       "Completed": 2
     }
   ],
@@ -3265,8 +3270,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-06-30T18:06:59.4122395+00:00",
+  "LastChanged_Achievements": "2023-06-30T19:07:28.5895147+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:09.5701375+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:57:59.0111577+00:00",
-  "LastUpdate_Achievements": "2023-06-30T18:06:59.4122876+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:58:16.5468325+00:00",
+  "LastUpdate_Achievements": "2023-06-30T19:07:28.5895819+00:00"
 }

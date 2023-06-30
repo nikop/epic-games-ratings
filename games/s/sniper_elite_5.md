@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 616)  
+Rating: 4.45 (Ranked 617)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,19 +10,21 @@ Rating: 4.45 (Ranked 616)
 | The Kraken Wakes | 0.30% | ~10 |
 | Climbing the Ladder | 0.20% | ~6 |
 | Liberté | 0.20% | ~6 |
+| Enemy at the Gates | 0.20% | ~6 |
 | Meeting Resistance | 0.20% | ~6 |
 | Gunslinger | 0.20% | ~6 |
 | Sharpshooter | 0.20% | ~6 |
 | Confirming Suspicions | 0.20% | ~6 |
 | Explosive Efficiency | 0.20% | ~6 |
+| Lord of War | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
 | It's Starting to Crack | 0.20% | ~6 |
 | Change the Channel | 0.20% | ~6 |
 | Taking it back | 0.20% | ~6 |
+| Target America | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Opposing Force | 0.10% | ~3 |
-| Enemy at the Gates | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
 | Organ Grinder | 0.10% | ~3 |
@@ -33,7 +35,6 @@ Rating: 4.45 (Ranked 616)
 | Precision Is Key | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
-| Lord of War | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
@@ -45,7 +46,6 @@ Rating: 4.45 (Ranked 616)
 | Locomotion Commotion | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
-| Target America | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |

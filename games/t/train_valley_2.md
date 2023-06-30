@@ -28,10 +28,10 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 4.00% | ~3 |
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
+| Trapiche Emerald | 4.00% | ~3 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~2 |
-| Trapiche Emerald | 3.00% | ~2 |
 | Without a lunch break | 3.00% | ~22 |
 | At the last moment! | 2.00% | ~15 |
 | Beginner | 2.00% | ~15 |

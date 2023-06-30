@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1358,6 +1358,11 @@
       "Time": "2023-06-30T17:03:28.4412951+00:00",
       "NumProgressed": 665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T19:03:36.3165464+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1369,7 +1374,7 @@
       "Name": "Augmented",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1385,7 +1390,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1415,7 +1420,7 @@
       "ID": "ACHV_CYBORG",
       "SetID": "cceobco",
       "Name": "Cyborg",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1423,7 +1428,7 @@
       "ID": "ACHV_DESTRUCTION",
       "SetID": "cceobco",
       "Name": "Destruction",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -1447,7 +1452,7 @@
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -1455,7 +1460,7 @@
       "ID": "ACHV_HARDBOILED",
       "SetID": "cceobco",
       "Name": "Hard Boiled",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1463,7 +1468,7 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -1495,9 +1500,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1535,9 +1540,9 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1567,9 +1572,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -1600,13 +1605,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 667,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 91,
+      "Progressed": 93,
       "Completed": 3
     }
   ],
@@ -1614,8 +1619,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-30T18:03:38.5050331+00:00",
+  "LastChanged_Achievements": "2023-06-30T19:03:36.3165457+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-30T18:00:12.9858442+00:00",
-  "LastUpdate_Achievements": "2023-06-30T18:03:38.505057+00:00"
+  "LastUpdate_Ratings": "2023-06-30T19:00:57.1380114+00:00",
+  "LastUpdate_Achievements": "2023-06-30T19:03:36.3165947+00:00"
 }

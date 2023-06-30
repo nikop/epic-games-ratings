@@ -1747,9 +1747,9 @@
       "ID": "ACH_LOVEUNCOVERER",
       "SetID": "7pam6gn",
       "Name": "Love Uncoverer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 100
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -1812,8 +1812,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-06-30T18:06:40.6398152+00:00",
+  "LastChanged_Achievements": "2023-06-30T19:07:08.1135843+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:28.0554967+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:59:06.5476349+00:00",
-  "LastUpdate_Achievements": "2023-06-30T18:06:40.6398308+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:59:35.6905071+00:00",
+  "LastUpdate_Achievements": "2023-06-30T19:07:08.1136074+00:00"
 }

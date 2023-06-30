@@ -1,62 +1,62 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 79)  
+Rating: 4.80 (Ranked 80)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~232,766 |
-| First Victory | 50.00% | ~232,766 |
-| Clean Sheet | 49.00% | ~228,111 |
-| He's Sold! | 47.00% | ~218,801 |
-| I'm The Boss! | 41.00% | ~190,869 |
-| Hat-trick | 41.00% | ~190,869 |
-| Thumping | 37.00% | ~172,247 |
-| Scoring Streak | 37.00% | ~172,247 |
-| Unbeatable! | 36.00% | ~167,592 |
-| Superb Dressing Room Atmosphere | 35.00% | ~162,937 |
-| Total Support | 32.00% | ~148,971 |
-| Record Signing | 32.00% | ~148,971 |
-| Millionaire's Club | 31.00% | ~144,315 |
-| Team Performance | 30.00% | ~139,660 |
-| He's a Natural | 30.00% | ~139,660 |
-| Parked The Bus | 29.00% | ~135,005 |
-| Shrewd Spender | 29.00% | ~135,005 |
-| Star Man | 29.00% | ~135,005 |
-| Attack! | 27.00% | ~125,694 |
-| You're On Fire | 26.00% | ~121,039 |
-| Tremendous Trio | 26.00% | ~121,039 |
-| Record Sale | 26.00% | ~121,039 |
-| On A Roll | 25.00% | ~116,383 |
-| Unstoppable Force | 25.00% | ~116,383 |
-| Fantastic Five | 24.00% | ~111,728 |
-| Full Faith | 24.00% | ~111,728 |
-| The Boss | 24.00% | ~111,728 |
-| Armchair Expert | 24.00% | ~111,728 |
-| Iron Curtain | 23.00% | ~107,073 |
-| What A Goal! | 22.00% | ~102,417 |
-| Top Of The Class | 22.00% | ~102,417 |
-| Goal Machine | 22.00% | ~102,417 |
-| Cup Glory! | 22.00% | ~102,417 |
-| Splashing The Cash | 21.00% | ~97,762 |
-| Clean Bill of Health | 21.00% | ~97,762 |
-| Irresistible Force | 19.00% | ~88,451 |
-| Excellent Match Cohesion | 19.00% | ~88,451 |
-| Do The Double | 18.00% | ~83,796 |
+| He's Signed! | 50.00% | ~232,769 |
+| First Victory | 50.00% | ~232,769 |
+| Clean Sheet | 49.00% | ~228,114 |
+| He's Sold! | 47.00% | ~218,803 |
+| I'm The Boss! | 41.00% | ~190,871 |
+| Hat-trick | 41.00% | ~190,871 |
+| Thumping | 37.00% | ~172,249 |
+| Scoring Streak | 37.00% | ~172,249 |
+| Unbeatable! | 36.00% | ~167,594 |
+| Superb Dressing Room Atmosphere | 35.00% | ~162,938 |
+| Total Support | 32.00% | ~148,972 |
+| Record Signing | 32.00% | ~148,972 |
+| Millionaire's Club | 31.00% | ~144,317 |
+| Team Performance | 30.00% | ~139,661 |
+| He's a Natural | 30.00% | ~139,661 |
+| Parked The Bus | 29.00% | ~135,006 |
+| Shrewd Spender | 29.00% | ~135,006 |
+| Star Man | 29.00% | ~135,006 |
+| Attack! | 27.00% | ~125,695 |
+| You're On Fire | 26.00% | ~121,040 |
+| Tremendous Trio | 26.00% | ~121,040 |
+| Record Sale | 26.00% | ~121,040 |
+| On A Roll | 25.00% | ~116,384 |
+| Unstoppable Force | 25.00% | ~116,384 |
+| Fantastic Five | 24.00% | ~111,729 |
+| Full Faith | 24.00% | ~111,729 |
+| The Boss | 24.00% | ~111,729 |
+| Armchair Expert | 24.00% | ~111,729 |
+| Iron Curtain | 23.00% | ~107,074 |
+| What A Goal! | 22.00% | ~102,418 |
+| Top Of The Class | 22.00% | ~102,418 |
+| Goal Machine | 22.00% | ~102,418 |
+| Cup Glory! | 22.00% | ~102,418 |
+| Splashing The Cash | 21.00% | ~97,763 |
+| Clean Bill of Health | 21.00% | ~97,763 |
+| Irresistible Force | 19.00% | ~88,452 |
+| Excellent Match Cohesion | 19.00% | ~88,452 |
+| Do The Double | 18.00% | ~83,797 |
 | Top Form | 17.00% | ~79,141 |
 | Cash To Burn | 17.00% | ~79,141 |
-| Beating Expectations | 15.00% | ~69,830 |
-| Overachiever! | 15.00% | ~69,830 |
-| Rushed signing | 15.00% | ~69,830 |
-| Window Shopping | 15.00% | ~69,830 |
+| Beating Expectations | 15.00% | ~69,831 |
+| Overachiever! | 15.00% | ~69,831 |
+| Rushed signing | 15.00% | ~69,831 |
+| Window Shopping | 15.00% | ~69,831 |
 | Eyes and Ears | 14.00% | ~65,175 |
-| Comeback King! | 13.00% | ~60,519 |
-| You're Up! | 13.00% | ~60,519 |
-| Money, Money, Money | 12.00% | ~55,864 |
-| Superb Strike | 10.00% | ~46,553 |
-| Invincible! | 10.00% | ~46,553 |
-| Best In The World | 10.00% | ~46,553 |
+| Comeback King! | 13.00% | ~60,520 |
+| You're Up! | 13.00% | ~60,520 |
+| Money, Money, Money | 12.00% | ~55,865 |
+| Superb Strike | 10.00% | ~46,554 |
+| Invincible! | 10.00% | ~46,554 |
+| Best In The World | 10.00% | ~46,554 |
 | Best In Europe | 9.00% | ~41,898 |
 | Headhunted | 9.00% | ~41,898 |
 | International Superstar | 9.00% | ~41,898 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~466 |
 | Shoestring Budget | 0.10% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,533 (Ranked 33)  
+Progressed: 465,538 (Ranked 33)  
 Completed: 19 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 19 (0.00%) (Ranked 230)
 | 2023-06-27 | 465,229 | 19 |
 | 2023-06-28 | 465,345 | 19 |
 | 2023-06-29 | 465,457 | 19 |
-| 2023-06-30 | 465,533 | 19 |
+| 2023-06-30 | 465,538 | 19 |
 ## Awards
 Max (Relaxing): 6,334  (Ranked 51)  
 Sum: 49,914 (Ranked 24)  

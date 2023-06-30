@@ -49,8 +49,8 @@ Rating: 4.35 (Ranked 733)
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
+| Master Editor | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
-| Master Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |

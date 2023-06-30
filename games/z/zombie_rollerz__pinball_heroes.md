@@ -52,11 +52,11 @@
 | Combo Master | 3.00% | ~3 |
 | It's a Trap! | 3.00% | ~3 |
 | Tongs | 3.00% | ~3 |
+| Concluded | 3.00% | ~3 |
 | Chorus | 2.00% | ~2 |
 | TNT | 2.00% | ~2 |
 | Titanium | 2.00% | ~2 |
 | Nuclear Bomb | 2.00% | ~2 |
-| Concluded | 2.00% | ~2 |
 | Divinity | 2.00% | ~2 |
 | Platinum | 2.00% | ~2 |
 | Hammer | 2.00% | ~2 |

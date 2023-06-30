@@ -13,11 +13,11 @@
 | Specialist | 34.00% | ~45 |
 | Opulent | 33.00% | ~44 |
 | Sparkly | 30.00% | ~40 |
+| Teamwork | 24.00% | ~32 |
 | Ready to Rock | 23.00% | ~30 |
-| Teamwork | 23.00% | ~30 |
 | Determined | 21.00% | ~28 |
 | Beginning of the End | 20.00% | ~26 |
-| Bling | 19.00% | ~25 |
+| Bling | 20.00% | ~26 |
 | Geared | 17.00% | ~22 |
 | Master Crafter | 13.00% | ~17 |
 | Master Trader | 13.00% | ~17 |

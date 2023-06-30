@@ -1,24 +1,24 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 197)  
+Rating: 4.70 (Ranked 196)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,524 |
-| Rookie | 25.00% | ~7,235 |
-| Nomad | 18.00% | ~5,209 |
-| Picking Up Speed | 17.00% | ~4,920 |
-| Welcome Maya | 16.00% | ~4,630 |
-| Sightseer | 11.00% | ~3,183 |
-| Scout | 10.00% | ~2,894 |
+| Finding Your Footing | 26.00% | ~7,526 |
+| Rookie | 25.00% | ~7,236 |
+| Nomad | 18.00% | ~5,210 |
+| Picking Up Speed | 17.00% | ~4,921 |
+| Welcome Maya | 16.00% | ~4,631 |
+| Sightseer | 11.00% | ~3,184 |
+| Scout | 10.00% | ~2,895 |
 | Amateur | 9.00% | ~2,605 |
 | Wanderer | 9.00% | ~2,605 |
-| Enter Paz | 8.00% | ~2,315 |
+| Enter Paz | 8.00% | ~2,316 |
 | Unlock Maya | 7.00% | ~2,026 |
-| Aviator | 6.00% | ~1,736 |
-| One With The Board | 6.00% | ~1,736 |
+| Aviator | 6.00% | ~1,737 |
+| One With The Board | 6.00% | ~1,737 |
 | My Little Friend | 5.00% | ~1,447 |
 | Voyager | 5.00% | ~1,447 |
 | Sandboarder | 4.00% | ~1,158 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~289 |
 | Introducing Sumara | 1.00% | ~289 |
 | Vandal | 1.00% | ~289 |
-| Daredevil | 0.90% | ~260 |
+| Daredevil | 0.90% | ~261 |
 | Unlock Felipe | 0.70% | ~203 |
 | Adventurer | 0.60% | ~174 |
 | Unlock Tupa | 0.40% | ~116 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~29 |
 | Windswept | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,939 (Ranked 93)  
+Progressed: 28,946 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 5 (0.02%) (Ranked 210)
 | 2023-06-27 | 28,530 | 5 |
 | 2023-06-28 | 28,676 | 5 |
 | 2023-06-29 | 28,828 | 5 |
-| 2023-06-30 | 28,939 | 5 |
+| 2023-06-30 | 28,946 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 350 (Ranked 321)  

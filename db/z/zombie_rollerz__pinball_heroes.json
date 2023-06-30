@@ -769,9 +769,9 @@
       "ID": "PRG_HELL_10006",
       "SetID": "89cjc9l",
       "Name": "Concluded",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10007",
@@ -938,8 +938,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-30T18:07:05.2568947+00:00",
+  "LastChanged_Achievements": "2023-06-30T19:07:34.9588548+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:53.58574+00:00",
-  "LastUpdate_Ratings": "2023-06-30T17:57:48.244856+00:00",
-  "LastUpdate_Achievements": "2023-06-30T18:07:05.2569556+00:00"
+  "LastUpdate_Ratings": "2023-06-30T18:58:03.868569+00:00",
+  "LastUpdate_Achievements": "2023-06-30T19:07:34.9589411+00:00"
 }
