@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| No Stone Unturned | 0.30% | ~10 |
+| Resourceful | 0.30% | ~10 |
 | The Kraken Wakes | 0.30% | ~10 |
 | Liberté | 0.20% | ~6 |
-| No Stone Unturned | 0.20% | ~6 |
 | Sharpshooter | 0.20% | ~6 |
 | Confirming Suspicions | 0.20% | ~6 |
-| Resourceful | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
 | It's Starting to Crack | 0.20% | ~6 |

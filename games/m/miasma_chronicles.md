@@ -16,10 +16,10 @@ Rating: 4.35 (Ranked 733)
 | From Darkness to Light | 46.00% | ~550 |
 | Editor Adept | 45.00% | ~538 |
 | Exorcist | 45.00% | ~538 |
+| Firestarter | 42.00% | ~502 |
 | Giant Killer | 42.00% | ~502 |
-| Firestarter | 41.00% | ~490 |
 | Sensei | 41.00% | ~490 |
-| The meaning of Kain | 38.00% | ~454 |
+| The meaning of Kain | 39.00% | ~466 |
 | Technophobe | 36.00% | ~431 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
@@ -28,16 +28,16 @@ Rating: 4.35 (Ranked 733)
 | Infiltrator | 29.00% | ~347 |
 | Pushing Daisy | 28.00% | ~335 |
 | Experienced | 26.00% | ~311 |
+| Endgame | 23.00% | ~275 |
 | Hold The Line | 23.00% | ~275 |
 | There Can Be Only One! | 23.00% | ~275 |
 | Chain Killer | 22.00% | ~263 |
-| Endgame | 22.00% | ~263 |
 | Savior | 22.00% | ~263 |
 | The Watchers | 19.00% | ~227 |
 | Newtonian Knockout | 16.00% | ~191 |
+| Dr Jones | 14.00% | ~167 |
 | Ruthless | 14.00% | ~167 |
 | Chaos Theory | 13.00% | ~155 |
-| Dr Jones | 13.00% | ~155 |
 | Commando | 12.00% | ~144 |
 | Chain Reaction | 9.00% | ~108 |
 | Side Order | 9.00% | ~108 |

@@ -5,9 +5,9 @@ Rating: 4.59 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Realm Estate | 1.00% | ~49 |
 | Secret Technique | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
-| Realm Estate | 0.90% | ~44 |
 | A Wonderful Discovery | 0.90% | ~44 |
 | Walls Cannot Stop Us | 0.90% | ~44 |
 | Magical Synergy | 0.90% | ~44 |
@@ -17,12 +17,12 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 0.80% | ~39 |
 | Here be Dragons | 0.80% | ~39 |
 | Blood of the Dragon | 0.80% | ~39 |
+| There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
 | Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
 | Impenetrable Fortress | 0.60% | ~29 |
 | Intimidation Tactics | 0.60% | ~29 |
-| There Can Only Be One! | 0.50% | ~24 |
 | Digging for Treasure | 0.50% | ~24 |
 | Fiery Friend | 0.50% | ~24 |
 | Against the Odds | 0.50% | ~24 |
@@ -37,26 +37,26 @@ Rating: 4.59 (Ranked 410)
 | Enchanted Archipelago | 0.30% | ~15 |
 | Eternal Lord | 0.30% | ~15 |
 | God Emperor | 0.20% | ~10 |
+| Lord of Chaos | 0.20% | ~10 |
 | The Goddess of Nature | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
 | The Eternal Court | 0.20% | ~10 |
 | Jack of All Tomes | 0.20% | ~10 |
 | Pruning for Progress | 0.20% | ~10 |
+| Grexolis | 0.20% | ~10 |
+| One for All, All for One | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
-| Lord of Chaos | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
-| Grexolis | 0.10% | ~5 |
-| One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,881 (Ranked 134)  
+Progressed: 4,882 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
-| 2023-06-30 | 4,881 | 4 |
+| 2023-06-30 | 4,882 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

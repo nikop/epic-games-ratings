@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Leaver | 82.00% | ~907 |
-| Journal Beautifier | 82.00% | ~907 |
+| Home Leaver | 83.00% | ~918 |
+| Journal Beautifier | 83.00% | ~918 |
 | Outside World Seer | 64.00% | ~708 |
 | Stranger Encounterer | 38.00% | ~420 |
 | Grey Hands Praxis 101 | 29.00% | ~321 |

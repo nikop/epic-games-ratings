@@ -2802,9 +2802,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 379
     },
     {
       "ID": "4",
@@ -2834,9 +2834,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 256
     },
     {
       "ID": "43",
@@ -2955,8 +2955,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-30T15:05:57.1919045+00:00",
+  "LastChanged_Achievements": "2023-06-30T16:07:26.985521+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:57:33.8050474+00:00",
-  "LastUpdate_Achievements": "2023-06-30T15:05:57.1919492+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:57:54.4036467+00:00",
+  "LastUpdate_Achievements": "2023-06-30T16:07:26.9856245+00:00"
 }

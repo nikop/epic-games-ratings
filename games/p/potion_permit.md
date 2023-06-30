@@ -17,8 +17,8 @@ Rating: 3.82 (Ranked 934)
 | Intermediate Chemist | 39.00% | ~567 |
 | Decorative Mind | 31.00% | ~450 |
 | Lumber Specialist | 30.00% | ~436 |
+| Kind-hearted | 24.00% | ~349 |
 | Catch of the Day | 24.00% | ~349 |
-| Kind-hearted | 23.00% | ~334 |
 | Amateur Chef | 21.00% | ~305 |
 | Fishing Guru | 19.00% | ~276 |
 | Spark of Love | 16.00% | ~232 |

@@ -4896,9 +4896,9 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710333,
+  "EOS_Progressed": 710334,
   "EOS_Completed": 12798,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11691,6 +11691,11 @@
       "Time": "2023-06-30T15:06:08.8468062+00:00",
       "NumProgressed": 710333,
       "NumCompleted": 12798
+    },
+    {
+      "Time": "2023-06-30T16:07:43.162153+00:00",
+      "NumProgressed": 710334,
+      "NumCompleted": 12798
     }
   ],
   "TotalAchievements": 50,
@@ -11788,9 +11793,9 @@
       "ID": "12_MidAge",
       "SetID": "adcm20g",
       "Name": "Scareless",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6393
+      "UsersEstimate": 7103
     },
     {
       "ID": "13_LowAge",
@@ -12101,21 +12106,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19634,
+      "Progressed": 19635,
       "Completed": 10338
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710333,
+      "Progressed": 710334,
       "Completed": 12798
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-06-30T09:58:47.7855204+00:00",
-  "LastChanged_Achievements": "2023-06-30T15:06:08.8468058+00:00",
+  "LastChanged_Achievements": "2023-06-30T16:07:43.1621523+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:59:00.5988674+00:00",
-  "LastUpdate_Achievements": "2023-06-30T15:06:08.8468694+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:59:59.4650176+00:00",
+  "LastUpdate_Achievements": "2023-06-30T16:07:43.1623028+00:00"
 }

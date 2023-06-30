@@ -5,8 +5,8 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,437 |
-| World Map | 79.00% | ~1,208 |
+| Victor | 94.00% | ~1,438 |
+| World Map | 79.00% | ~1,209 |
 | Temple of Eternals | 57.00% | ~872 |
 | Prestigious | 54.00% | ~826 |
 | Fellowship Power | 41.00% | ~627 |
@@ -16,21 +16,20 @@ Rating: 4.07 (Ranked 895)
 | Exotic Merchant | 17.00% | ~260 |
 | Dragon Clicker | 16.00% | ~245 |
 | Miner Clicker | 16.00% | ~245 |
-| Full Party | 15.00% | ~229 |
-| Inspection | 15.00% | ~229 |
+| Full Party | 15.00% | ~230 |
+| Inspection | 15.00% | ~230 |
+| Dragon Master | 14.00% | ~214 |
 | Enlightenment | 14.00% | ~214 |
 | Hero inspection | 14.00% | ~214 |
-| Dragon Master | 13.00% | ~199 |
 | Lieutenant | 13.00% | ~199 |
-| Milestone collector | 12.00% | ~183 |
-| Mysterious Rock | 12.00% | ~183 |
-| Natural Talent | 12.00% | ~183 |
-| Superior | 12.00% | ~183 |
-| The Unstoppable | 12.00% | ~183 |
+| Milestone collector | 12.00% | ~184 |
+| Mysterious Rock | 12.00% | ~184 |
+| Natural Talent | 12.00% | ~184 |
+| Superior | 12.00% | ~184 |
+| The Unstoppable | 12.00% | ~184 |
 | Scientist | 11.00% | ~168 |
 | Challenger | 9.00% | ~138 |
 | Doing My Part | 9.00% | ~138 |
-| Frostfire Liberator | 9.00% | ~138 |
 | Hunter | 9.00% | ~138 |
 | Mastery | 9.00% | ~138 |
 | Relic Of The Past | 9.00% | ~138 |
@@ -38,6 +37,7 @@ Rating: 4.07 (Ranked 895)
 | The power of Awakening | 9.00% | ~138 |
 | Daily Quest Completionist | 8.00% | ~122 |
 | Four Leaf Clover | 8.00% | ~122 |
+| Frostfire Liberator | 8.00% | ~122 |
 | Moving Up The Ladder | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,529 (Ranked 168)  
+Progressed: 1,530 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
-| 2023-06-30 | 1,529 | 1 |
+| 2023-06-30 | 1,530 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

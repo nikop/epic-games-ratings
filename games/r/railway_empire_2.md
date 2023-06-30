@@ -7,8 +7,8 @@ Rating: 4.38 (Ranked 709)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 73.00% | ~1,042 |
 | A new Journey | 72.00% | ~1,027 |
+| From X to Y | 71.00% | ~1,013 |
 | Departure | 71.00% | ~1,013 |
-| From X to Y | 70.00% | ~999 |
 | Way of Iron | 69.00% | ~985 |
 | Mystery Tour | 67.00% | ~956 |
 | We brake for nobody | 66.00% | ~942 |
@@ -37,8 +37,8 @@ Rating: 4.38 (Ranked 709)
 | Seven at one stroke | 23.00% | ~328 |
 | Trailblazer | 20.00% | ~285 |
 | Breaking Ground | 19.00% | ~271 |
+| Traffic Jam | 18.00% | ~257 |
 | Traffic Junction | 18.00% | ~257 |
-| Traffic Jam | 17.00% | ~243 |
 | Assimilated | 16.00% | ~228 |
 | Locusts | 16.00% | ~228 |
 | Networker | 16.00% | ~228 |
