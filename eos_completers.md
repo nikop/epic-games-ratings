@@ -16,7 +16,7 @@
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
-| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.20% |
+| 17 | [Sonic Origins](games/s/sonic_origins.md) | 12.14% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
@@ -82,8 +82,8 @@
 | 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
-| 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
-| 84 | [Poosh XL](games/p/poosh_xl.md) | 1.52% |
+| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.52% |
+| 83 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
