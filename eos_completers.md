@@ -13,7 +13,7 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.23% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.16% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -58,7 +58,7 @@
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 56 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 58 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.82% |
+| 59 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.81% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |

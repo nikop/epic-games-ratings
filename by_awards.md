@@ -39,7 +39,7 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,336 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,918 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,371 | 4.60 | 387 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,082 | 4.58 | 421 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,104 | 4.58 | 421 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,659 | 4.85 | 41 |
 | 42 | [Supraland](games/s/supraland.md) | 7,631 | 4.61 | 362 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,591 | 4.89 | 12 |
@@ -117,7 +117,7 @@
 | 115 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,669 | 4.76 | 119 |
 | 116 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,650 | 4.70 | 198 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,634 | 4.51 | 536 |
-| 118 | [Celeste](games/c/celeste.md) | 1,500 | 4.92 | 4 |
+| 118 | [Celeste](games/c/celeste.md) | 1,502 | 4.92 | 4 |
 | 119 | [Ring of Pain](games/r/ring_of_pain.md) | 1,482 | 4.58 | 421 |
 | 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,463 | 4.79 | 88 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,419 | 4.81 | 75 |

@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 502 |
 | 3 | [Rain World](games/r/rain_world.md) | 4.93 | 0 | 502 |
 | 4 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.92 | 21 | 489 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,500 | 118 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,502 | 118 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,157 | 89 |
 | 7 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 502 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 502 |
@@ -424,7 +424,7 @@
 | 421 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,432 | 11 |
 | 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
 | 421 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 502 |
-| 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,082 | 40 |
+| 421 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,104 | 40 |
 | 421 | [Everything](games/e/everything.md) | 4.58 | 0 | 502 |
 | 421 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
 | 421 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 427 |
