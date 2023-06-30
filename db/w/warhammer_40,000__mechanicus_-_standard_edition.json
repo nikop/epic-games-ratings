@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 215856,
+  "EOS_Progressed": 215859,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7951,6 +7951,11 @@
       "Time": "2023-06-30T07:04:57.2407007+00:00",
       "NumProgressed": 215856,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T08:04:44.9496566+00:00",
+      "NumProgressed": 215859,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -7970,7 +7975,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53964
+      "UsersEstimate": 53965
     },
     {
       "ID": "ACH_BASE_11",
@@ -8042,7 +8047,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12951
+      "UsersEstimate": 12952
     },
     {
       "ID": "ACH_BASE_20",
@@ -8233,7 +8238,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 215856,
+      "Progressed": 215859,
       "Completed": 4
     }
   ],
@@ -8241,8 +8246,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-29T21:59:07.0791506+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:04:57.2406998+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:04:44.9496558+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:20.1970485+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:59:04.2960857+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:04:57.240819+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:58:51.863431+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:04:44.9497181+00:00"
 }

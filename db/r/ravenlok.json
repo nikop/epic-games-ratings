@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2568,9 +2568,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 369
     },
     {
       "ID": "14",
@@ -2945,8 +2945,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:06:53.6596624+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:06:33.4948245+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:57:51.616684+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:06:53.6597376+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:57:44.7153547+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:06:33.4948716+00:00"
 }

@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,227 |
 | Dapper Capper | 6.00% | ~1,670 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,834 (Ranked 94)  
+Progressed: 27,834 (Ranked 95)  
 Completed: 1,296 (4.66%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

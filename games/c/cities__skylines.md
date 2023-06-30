@@ -6,45 +6,45 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~617,444 |
-| Green Energy | 60.00% | ~521,784 |
-| Foggy Weather | 59.00% | ~513,088 |
-| Singing In The- | 59.00% | ~513,088 |
-| Unpopular Mayor | 41.00% | ~356,552 |
-| Power at Your Fingertips | 33.00% | ~286,981 |
-| City Planner | 23.00% | ~200,017 |
-| Rolling in Dough | 20.00% | ~173,928 |
-| Does My Bum Look Big In This? | 17.00% | ~147,839 |
-| Climbing the Social Ladder | 16.00% | ~139,142 |
-| Safe City | 14.00% | ~121,750 |
-| Quay-King | 11.00% | ~95,660 |
-| Lawmaker | 10.00% | ~86,964 |
-| With Canals You Can! | 10.00% | ~86,964 |
-| Nomen Est Omen | 7.00% | ~60,875 |
-| Well Informed | 6.00% | ~52,178 |
-| Fire Watch | 5.00% | ~43,482 |
-| Greenest City | 4.00% | ~34,786 |
-| Heavenly City | 3.00% | ~26,089 |
-| Reporting! | 3.00% | ~26,089 |
-| SIMulated City | 3.00% | ~26,089 |
-| The Safest Town | 3.00% | ~26,089 |
-| Professional Dumper | 2.00% | ~17,393 |
-| City in Motion | 1.00% | ~8,696 |
-| Earthloving City | 1.00% | ~8,696 |
-| Metropolis | 1.00% | ~8,696 |
-| Beam Me Up | 0.70% | ~6,087 |
-| Higher Education | 0.70% | ~6,087 |
+| Pioneer | 71.00% | ~617,494 |
+| Green Energy | 60.00% | ~521,826 |
+| Foggy Weather | 59.00% | ~513,129 |
+| Singing In The- | 59.00% | ~513,129 |
+| Unpopular Mayor | 41.00% | ~356,581 |
+| Power at Your Fingertips | 33.00% | ~287,004 |
+| City Planner | 23.00% | ~200,033 |
+| Rolling in Dough | 20.00% | ~173,942 |
+| Does My Bum Look Big In This? | 17.00% | ~147,851 |
+| Climbing the Social Ladder | 16.00% | ~139,154 |
+| Safe City | 14.00% | ~121,759 |
+| Quay-King | 11.00% | ~95,668 |
+| Lawmaker | 10.00% | ~86,971 |
+| With Canals You Can! | 10.00% | ~86,971 |
+| Nomen Est Omen | 7.00% | ~60,880 |
+| Well Informed | 6.00% | ~52,183 |
+| Fire Watch | 5.00% | ~43,486 |
+| Greenest City | 4.00% | ~34,788 |
+| Heavenly City | 3.00% | ~26,091 |
+| Reporting! | 3.00% | ~26,091 |
+| SIMulated City | 3.00% | ~26,091 |
+| The Safest Town | 3.00% | ~26,091 |
+| Professional Dumper | 2.00% | ~17,394 |
+| City in Motion | 1.00% | ~8,697 |
+| Earthloving City | 1.00% | ~8,697 |
+| Metropolis | 1.00% | ~8,697 |
+| Beam Me Up | 0.70% | ~6,088 |
+| Higher Education | 0.70% | ~6,088 |
 | Full Capacity | 0.60% | ~5,218 |
 | Terraformer | 0.60% | ~5,218 |
 | The Waters of Our Lives | 0.60% | ~5,218 |
-| Decorator | 0.50% | ~4,348 |
-| Drop the Base | 0.50% | ~4,348 |
-| It's heading right for us! | 0.50% | ~4,348 |
-| Postman | 0.50% | ~4,348 |
-| Shake It Up! | 0.50% | ~4,348 |
-| Speed up! | 0.50% | ~4,348 |
-| Thunder and Lightning | 0.50% | ~4,348 |
-| Twist and shout | 0.50% | ~4,348 |
+| Decorator | 0.50% | ~4,349 |
+| Drop the Base | 0.50% | ~4,349 |
+| It's heading right for us! | 0.50% | ~4,349 |
+| Postman | 0.50% | ~4,349 |
+| Shake It Up! | 0.50% | ~4,349 |
+| Speed up! | 0.50% | ~4,349 |
+| Thunder and Lightning | 0.50% | ~4,349 |
+| Twist and shout | 0.50% | ~4,349 |
 | Airfield Expertise | 0.40% | ~3,479 |
 | Airlifter | 0.40% | ~3,479 |
 | Are They Naked In There? | 0.40% | ~3,479 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~870 |
 | Z00 | 0.10% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869,640 (Ranked 13)  
+Progressed: 869,710 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,15 +197,15 @@ Completed: 9 (0.00%) (Ranked 230)
 | 2023-06-27 | 863,857 | 9 |
 | 2023-06-28 | 866,419 | 9 |
 | 2023-06-29 | 869,076 | 9 |
-| 2023-06-30 | 869,640 | 9 |
+| 2023-06-30 | 869,710 | 9 |
 ## Awards
-Max (Great for Beginners): 4,823  (Ranked 66)  
-Sum: 36,740 (Ranked 33)  
+Max (Relaxing): 4,837  (Ranked 66)  
+Sum: 36,755 (Ranked 33)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 4,837 |
 | This game is Great for Beginners | 4,823 |
-| This game is Relaxing | 4,822 |
 | This game has Quickly Understood Controls | 4,535 |
 | This game is Educational | 4,513 |
 | This game is Extremely Fun | 4,220 |
@@ -372,4 +372,4 @@ Diff (max vs sum): 33
 | 2023-06-27 | 4.65 | - | 4,806 | 36,592 |
 | 2023-06-28 | 4.65 | - | 4,812 | 36,655 |
 | 2023-06-29 | 4.65 | - | 4,823 | 36,728 |
-| 2023-06-30 | 4.65 | - | 4,823 | 36,740 |
+| 2023-06-30 | 4.65 | - | 4,837 | 36,755 |

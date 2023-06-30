@@ -13,7 +13,7 @@
 | Let's play a game… | 72.00% | ~72 |
 | Soundtrack | 61.00% | ~61 |
 | First aid | 57.00% | ~57 |
-| Antidote | 44.00% | ~44 |
+| Antidote | 45.00% | ~45 |
 | Pick the right door | 21.00% | ~21 |
 | The third floor | 14.00% | ~14 |
 | On the right path | 13.00% | ~13 |
@@ -23,9 +23,9 @@
 | Failed attempt | 10.00% | ~10 |
 | Good choice | 10.00% | ~10 |
 | Take the long way round | 10.00% | ~10 |
+| He who seeks, finds! | 10.00% | ~10 |
 | The real escape | 9.00% | ~9 |
 | Nightmare in the kitchen | 9.00% | ~9 |
-| He who seeks, finds! | 9.00% | ~9 |
 | Born again | 7.00% | ~7 |
 | 373 | 6.00% | ~6 |
 | The experiment | 5.00% | ~5 |

@@ -29,6 +29,7 @@ Rating: 4.45 (Ranked 617)
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
+| Lord of War | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
@@ -60,7 +61,6 @@ Rating: 4.45 (Ranked 617)
 | Master-at-arms | 0.00% | ~0 |
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| Lord of War | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |

@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520870,
+  "EOS_Progressed": 520872,
   "EOS_Completed": 435,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 3,
@@ -7715,6 +7715,11 @@
       "Time": "2023-06-30T07:01:27.9603456+00:00",
       "NumProgressed": 520870,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-06-30T08:01:06.7603896+00:00",
+      "NumProgressed": 520872,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 57,
@@ -7726,7 +7731,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 119800
+      "UsersEstimate": 119801
     },
     {
       "ID": "10",
@@ -7742,7 +7747,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 364609
+      "UsersEstimate": 364610
     },
     {
       "ID": "12",
@@ -7750,7 +7755,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 114591
+      "UsersEstimate": 114592
     },
     {
       "ID": "13",
@@ -7798,7 +7803,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78130
+      "UsersEstimate": 78131
     },
     {
       "ID": "19",
@@ -7806,7 +7811,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 322939
+      "UsersEstimate": 322941
     },
     {
       "ID": "2",
@@ -7950,7 +7955,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260435
+      "UsersEstimate": 260436
     },
     {
       "ID": "36",
@@ -7958,7 +7963,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83339
+      "UsersEstimate": 83340
     },
     {
       "ID": "37",
@@ -8054,7 +8059,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 322939
+      "UsersEstimate": 322941
     },
     {
       "ID": "48",
@@ -8102,7 +8107,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239600
+      "UsersEstimate": 239601
     },
     {
       "ID": "53",
@@ -8110,7 +8115,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 119800
+      "UsersEstimate": 119801
     },
     {
       "ID": "54",
@@ -8181,15 +8186,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 520870,
+      "Progressed": 520872,
       "Completed": 435
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:01:27.960318+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:01:06.7603885+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:20.6540643+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:57:45.073903+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:01:27.9614806+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:57:39.3566321+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:01:06.760511+00:00"
 }

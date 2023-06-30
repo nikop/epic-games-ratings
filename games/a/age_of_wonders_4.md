@@ -28,13 +28,13 @@ Rating: 4.59 (Ranked 410)
 | Full Ascension | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Digging for Treasure | 0.40% | ~20 |
+| Preparation Is Everything | 0.40% | ~20 |
 | Valley of Wonders | 0.30% | ~15 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | Arch Mage | 0.30% | ~15 |
 | The Creator | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
 | Eternal Lord | 0.30% | ~15 |
-| Preparation Is Everything | 0.30% | ~15 |
 | In a Liege of Your Own | 0.30% | ~15 |
 | God Emperor | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |

@@ -2576,9 +2576,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49773,
+  "EOS_Progressed": 49774,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -8331,6 +8331,11 @@
       "Time": "2023-06-30T06:01:30.774644+00:00",
       "NumProgressed": 49773,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-06-30T08:02:13.4262167+00:00",
+      "NumProgressed": 49774,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 45,
@@ -8454,7 +8459,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29366
+      "UsersEstimate": 29367
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8470,7 +8475,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19909
+      "UsersEstimate": 19910
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8478,7 +8483,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23393
+      "UsersEstimate": 23394
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8582,7 +8587,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28868
+      "UsersEstimate": 28869
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8606,7 +8611,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48280
+      "UsersEstimate": 48281
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8646,7 +8651,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35339
+      "UsersEstimate": 35340
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8701,15 +8706,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49773,
+      "Progressed": 49774,
       "Completed": 197
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-30T03:16:42.0044826+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:02:07.6462521+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:02:13.4262158+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-30T07:01:27.1557801+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:02:07.6463393+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:01:04.9013165+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:02:13.4262714+00:00"
 }

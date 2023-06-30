@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56517,
+  "EOS_Progressed": 56518,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6492,6 +6492,11 @@
       "Time": "2023-06-30T06:01:15.9690886+00:00",
       "NumProgressed": 56517,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-30T08:01:18.9518591+00:00",
+      "NumProgressed": 56518,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6511,7 +6516,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11303
+      "UsersEstimate": 11304
     },
     {
       "ID": "03",
@@ -6519,7 +6524,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11303
+      "UsersEstimate": 11304
     },
     {
       "ID": "04",
@@ -6543,7 +6548,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7912
+      "UsersEstimate": 7913
     },
     {
       "ID": "07",
@@ -6751,7 +6756,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "33",
@@ -6839,7 +6844,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7912
+      "UsersEstimate": 7913
     },
     {
       "ID": "44",
@@ -7038,21 +7043,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56517,
+      "Progressed": 56518,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19985,
+      "Progressed": 19986,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:01:41.3148139+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:01:18.9518586+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:58:10.4447378+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:01:41.3149655+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:58:02.0036236+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:01:18.9519418+00:00"
 }

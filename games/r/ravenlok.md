@@ -31,9 +31,9 @@
 | Stronger! | 38.00% | ~389 |
 | Frog Facts! | 37.00% | ~379 |
 | Spellbound | 36.00% | ~369 |
+| Extinct Again! | 36.00% | ~369 |
 | All Skilled Up! | 36.00% | ~369 |
 | It's Pointy! | 36.00% | ~369 |
-| Extinct Again! | 35.00% | ~358 |
 | Bird of Prey | 35.00% | ~358 |
 | Stardust | 35.00% | ~358 |
 | Heartbreaker | 35.00% | ~358 |

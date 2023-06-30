@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "play_it_again_sam",
@@ -388,8 +388,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-06-30T07:03:50.9961263+00:00",
+  "LastChanged_Achievements": "2023-06-30T08:03:33.7426011+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.7658908+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:59:20.6082642+00:00",
-  "LastUpdate_Achievements": "2023-06-30T07:03:50.9961492+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:59:06.4483647+00:00",
+  "LastUpdate_Achievements": "2023-06-30T08:03:33.742615+00:00"
 }
