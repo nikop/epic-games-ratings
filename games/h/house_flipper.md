@@ -13,7 +13,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Pro-creative | 18.00% | ~3,565 |
 | Worth Every Penny | 15.00% | ~2,971 |
 | Family man | 13.00% | ~2,575 |
-| Junior Estate Agent | 12.00% | ~2,376 |
+| Junior Estate Agent | 13.00% | ~2,575 |
 | Mystery | 10.00% | ~1,980 |
 | Artistic soul | 10.00% | ~1,980 |
 | Estate Agent | 5.00% | ~990 |

@@ -63,8 +63,8 @@ Rating: 4.89 (Ranked 12)
 | Have we met before? | 0.60% | ~20 |
 | I have to read ALL of these things? | 0.50% | ~17 |
 | I'm untouchable! | 0.50% | ~17 |
+| Didn't skip a beat! | 0.30% | ~10 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
-| Didn't skip a beat! | 0.20% | ~7 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,371 (Ranked 144)  

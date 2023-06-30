@@ -8,7 +8,7 @@
 | Bullseye! | 86.00% | ~95 |
 | Graduation! | 80.00% | ~89 |
 | Villfir Forest | 78.00% | ~87 |
-| Right in the kisser! | 64.00% | ~71 |
+| Right in the kisser! | 65.00% | ~72 |
 | Duscot Steamcity | 52.00% | ~58 |
 | The Shaman | 50.00% | ~56 |
 | The Thrower | 49.00% | ~54 |
@@ -26,16 +26,16 @@
 | I'm Rich | 25.00% | ~28 |
 | Untouchable | 24.00% | ~27 |
 | 1 is all I need | 23.00% | ~26 |
-| The Slime | 22.00% | ~24 |
-| The Giant | 20.00% | ~22 |
+| The Slime | 23.00% | ~26 |
+| The Giant | 21.00% | ~23 |
 | The Flower | 19.00% | ~21 |
 | Out of the Frying Pan... | 19.00% | ~21 |
 | The Blacksmith | 18.00% | ~20 |
 | The Ooze | 17.00% | ~19 |
+| Turquoise | 16.00% | ~18 |
 | The Assistant | 15.00% | ~17 |
 | The Steampunk | 15.00% | ~17 |
 | Ember | 15.00% | ~17 |
-| Turquoise | 15.00% | ~17 |
 | Verse | 14.00% | ~16 |
 | The Droid | 12.00% | ~13 |
 | Iron | 12.00% | ~13 |

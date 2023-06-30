@@ -4,9 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 33.00% | ~2 |
+| Self-Defence | 50.00% | ~3 |
+| Tinkerer | 33.00% | ~2 |
+| Don't Cry Wolf | 33.00% | ~2 |
+| A new World ahead | 33.00% | ~2 |
+| Apprentice | 33.00% | ~2 |
 | Mirror, Mirror on the Wall | 17.00% | ~1 |
-| Tinkerer | 17.00% | ~1 |
 | Defeat Ingla | 17.00% | ~1 |
 | Defeat Tezuth | 17.00% | ~1 |
 | Defeat Uskol | 17.00% | ~1 |
@@ -17,11 +20,8 @@
 | Finally! | 17.00% | ~1 |
 | Welcome to the Club | 17.00% | ~1 |
 | The End | 17.00% | ~1 |
-| Don't Cry Wolf | 17.00% | ~1 |
-| A new World ahead | 17.00% | ~1 |
 | Can't touch this | 17.00% | ~1 |
 | But what of the Acreans? | 17.00% | ~1 |
-| Apprentice | 17.00% | ~1 |
 | The Golden Flash | 17.00% | ~1 |
 | The Power of the Mountains | 17.00% | ~1 |
 | Changing the World | 17.00% | ~1 |

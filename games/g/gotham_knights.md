@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 856)  
+Rating: 4.18 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,6 +18,7 @@ Rating: 4.17 (Ranked 856)
 | Knighthood | 3.00% | ~1,984 |
 | Whispered Words | 3.00% | ~1,984 |
 | Lock and Key | 3.00% | ~1,984 |
+| Bad Apples in Every Orchard | 3.00% | ~1,984 |
 | End of an Era | 2.00% | ~1,323 |
 | In Your Element | 2.00% | ~1,323 |
 | Protector of Gotham | 2.00% | ~1,323 |
@@ -29,7 +30,6 @@ Rating: 4.17 (Ranked 856)
 | Snow Problem | 2.00% | ~1,323 |
 | Cooldown | 2.00% | ~1,323 |
 | Universal Health Scare | 2.00% | ~1,323 |
-| Bad Apples in Every Orchard | 2.00% | ~1,323 |
 | From Inside Gotham's Walls | 2.00% | ~1,323 |
 | Voiceless | 2.00% | ~1,323 |
 | Seeking Asylum | 2.00% | ~1,323 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 856)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,133 (Ranked 72)  
+Progressed: 66,134 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-27 | 66,058 | 98 |
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
-| 2023-06-30 | 66,133 | 99 |
+| 2023-06-30 | 66,134 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,401  (Ranked 100)  
 Sum: 3,971 (Ranked 137)  
@@ -287,3 +287,4 @@ Diff (max vs sum): -37
 | 2023-06-27 | 4.17 | 2,387 | 3,951 |
 | 2023-06-28 | 4.17 | 2,394 | 3,962 |
 | 2023-06-29 | 4.17 | 2,401 | 3,971 |
+| 2023-06-30 | 4.18 | 2,401 | 3,971 |

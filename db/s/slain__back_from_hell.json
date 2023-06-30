@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28081,
+  "EOS_Progressed": 28084,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 0,
@@ -7726,6 +7726,11 @@
       "Time": "2023-06-30T07:06:51.98242+00:00",
       "NumProgressed": 28081,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-06-30T09:06:01.6913774+00:00",
+      "NumProgressed": 28084,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -7745,7 +7750,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -7753,7 +7758,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -7913,7 +7918,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -7968,7 +7973,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28081,
+      "Progressed": 28084,
       "Completed": 20
     }
   ],
@@ -7976,8 +7981,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:06:31.8858513+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:06:01.691377+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:09.3095704+00:00",
-  "LastUpdate_Ratings": "2023-06-30T08:00:26.6458206+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:06:31.8859042+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:59:52.1672396+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:06:01.6914421+00:00"
 }

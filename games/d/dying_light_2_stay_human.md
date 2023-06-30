@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,315 |
-| Into the Unknown | 10.00% | ~58,468 |
-| First Shot | 10.00% | ~58,468 |
-| Herzlich Wilkommen! | 9.00% | ~52,621 |
-| Good Night & Good Luck | 9.00% | ~52,621 |
-| Sancho Panza | 8.00% | ~46,774 |
-| Under Pressure | 7.00% | ~40,928 |
-| On the Trail of the Enemy | 7.00% | ~40,928 |
-| Flag Burning | 7.00% | ~40,928 |
-| Oh, So This Is How It Works! | 7.00% | ~40,928 |
-| Night Hunter | 7.00% | ~40,928 |
-| Light in the Darkness | 6.00% | ~35,081 |
-| Get Outta My House! | 6.00% | ~35,081 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,081 |
-| Being All Social | 6.00% | ~35,081 |
-| Debris and Ashes | 5.00% | ~29,234 |
-| We Will Be Heard! | 5.00% | ~29,234 |
-| Known Associate | 5.00% | ~29,234 |
-| Tunnel Entrance | 5.00% | ~29,234 |
-| After the Fall | 5.00% | ~29,234 |
-| Can't Touch This! | 5.00% | ~29,234 |
-| Brush with Death | 4.00% | ~23,387 |
-| Going Down | 4.00% | ~23,387 |
-| Family First | 4.00% | ~23,387 |
-| Your World, Your Rules | 4.00% | ~23,387 |
-| Death From Afar | 4.00% | ~23,387 |
-| Terminal Headache | 4.00% | ~23,387 |
-| Slowpoke! | 4.00% | ~23,387 |
-| You're Going Down! | 3.00% | ~17,540 |
+| You Never Forget Your First... | 11.00% | ~64,317 |
+| Into the Unknown | 10.00% | ~58,470 |
+| First Shot | 10.00% | ~58,470 |
+| Herzlich Wilkommen! | 9.00% | ~52,623 |
+| Good Night & Good Luck | 9.00% | ~52,623 |
+| Sancho Panza | 8.00% | ~46,776 |
+| Under Pressure | 7.00% | ~40,929 |
+| On the Trail of the Enemy | 7.00% | ~40,929 |
+| Flag Burning | 7.00% | ~40,929 |
+| Oh, So This Is How It Works! | 7.00% | ~40,929 |
+| Night Hunter | 7.00% | ~40,929 |
+| Light in the Darkness | 6.00% | ~35,082 |
+| Get Outta My House! | 6.00% | ~35,082 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,082 |
+| Being All Social | 6.00% | ~35,082 |
+| Debris and Ashes | 5.00% | ~29,235 |
+| We Will Be Heard! | 5.00% | ~29,235 |
+| Known Associate | 5.00% | ~29,235 |
+| Tunnel Entrance | 5.00% | ~29,235 |
+| After the Fall | 5.00% | ~29,235 |
+| Can't Touch This! | 5.00% | ~29,235 |
+| Brush with Death | 4.00% | ~23,388 |
+| Going Down | 4.00% | ~23,388 |
+| Family First | 4.00% | ~23,388 |
+| Your World, Your Rules | 4.00% | ~23,388 |
+| Death From Afar | 4.00% | ~23,388 |
+| Terminal Headache | 4.00% | ~23,388 |
+| Slowpoke! | 4.00% | ~23,388 |
+| You're Going Down! | 3.00% | ~17,541 |
 | Municipal Services | 2.00% | ~11,694 |
 | Tickets, Please! | 2.00% | ~11,694 |
 | Ban Hammer | 2.00% | ~11,694 |
@@ -49,9 +49,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ironheart | 1.00% | ~5,847 |
 | Nemesis | 1.00% | ~2,301 |
 | Enter the Hall | 1.00% | ~2,301 |
-| Find Anything Interesting? | 0.80% | ~4,677 |
-| Boot Licker | 0.80% | ~4,677 |
-| Who Wants To Be a... | 0.80% | ~4,677 |
+| Boot Licker | 0.90% | ~5,262 |
+| Find Anything Interesting? | 0.80% | ~4,678 |
+| Who Wants To Be a... | 0.80% | ~4,678 |
 | Night of Terrors | 0.80% | ~1,841 |
 | Get the Point? | 0.70% | ~4,093 |
 | My Friend, Ciro | 0.70% | ~1,611 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~230 |
 | Connoisseur | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,681 (Ranked 26)  
+Progressed: 584,698 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,15 +143,15 @@ Completed: 58 (0.01%) (Ranked 218)
 | 2023-06-27 | 583,754 | 58 |
 | 2023-06-28 | 584,145 | 58 |
 | 2023-06-29 | 584,539 | 58 |
-| 2023-06-30 | 584,681 | 58 |
+| 2023-06-30 | 584,698 | 58 |
 ## Awards
 Max (Character Customization): 8,104  (Ranked 40)  
-Sum: 18,895 (Ranked 55)  
+Sum: 18,918 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,104 |
-| This game has Great Boss Battles | 4,732 |
+| This game has Great Boss Battles | 4,755 |
 | This game is Great for Beginners | 761 |
 | This game is Highly Recommended | 716 |
 | This game has Diverse Characters | 705 |
@@ -334,4 +334,4 @@ Diff (max vs sum): -15
 | 2023-06-27 | 4.58 | - | 8,064 | 18,767 |
 | 2023-06-28 | 4.58 | - | 8,082 | 18,828 |
 | 2023-06-29 | 4.58 | - | 8,104 | 18,888 |
-| 2023-06-30 | 4.58 | - | 8,104 | 18,895 |
+| 2023-06-30 | 4.58 | - | 8,104 | 18,918 |

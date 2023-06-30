@@ -2401,9 +2401,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 231670,
+  "EOS_Progressed": 231671,
   "EOS_Completed": 242,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9426,6 +9426,11 @@
       "Time": "2023-06-30T08:06:52.0365892+00:00",
       "NumProgressed": 231670,
       "NumCompleted": 242
+    },
+    {
+      "Time": "2023-06-30T09:06:19.9820919+00:00",
+      "NumProgressed": 231671,
+      "NumCompleted": 242
     }
   ],
   "TotalAchievements": 122,
@@ -9469,7 +9474,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 222403
+      "UsersEstimate": 222404
     },
     {
       "ID": "CURSE1HP",
@@ -9477,7 +9482,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 90351
+      "UsersEstimate": 90352
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -9517,7 +9522,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122785
+      "UsersEstimate": 122786
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -9533,7 +9538,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 97301
+      "UsersEstimate": 97302
     },
     {
       "ID": "DEPTH12HARD",
@@ -9557,7 +9562,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169119
+      "UsersEstimate": 169120
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -9589,7 +9594,7 @@
       "Name": "R.I.P",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 83401
+      "UsersEstimate": 83402
     },
     {
       "ID": "DIEBOSS",
@@ -9613,7 +9618,7 @@
       "Name": "That Was Quick",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129735
+      "UsersEstimate": 129736
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -9653,7 +9658,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 74134
+      "UsersEstimate": 74135
     },
     {
       "ID": "ENDWOUNDED",
@@ -9757,7 +9762,7 @@
       "Name": "Berzerker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 27800
+      "UsersEstimate": 27801
     },
     {
       "ID": "HIGHCLARITY",
@@ -9933,7 +9938,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106568
+      "UsersEstimate": 106569
     },
     {
       "ID": "KILLPARANOIA",
@@ -9965,7 +9970,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106568
+      "UsersEstimate": 106569
     },
     {
       "ID": "KILLSPITTER",
@@ -9973,7 +9978,7 @@
       "Name": "Shootout",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 81084
+      "UsersEstimate": 81085
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -10021,7 +10026,7 @@
       "Name": "A Donation",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 129735
+      "UsersEstimate": 129736
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -10109,7 +10114,7 @@
       "Name": "Spreading Plague",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 34750
+      "UsersEstimate": 34751
     },
     {
       "ID": "POISON30TIMES",
@@ -10181,7 +10186,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 206186
+      "UsersEstimate": 206187
     },
     {
       "ID": "SPECIALROOMS10",
@@ -10189,7 +10194,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 143635
+      "UsersEstimate": 143636
     },
     {
       "ID": "SPEEDRUN10",
@@ -10205,7 +10210,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 99618
+      "UsersEstimate": 99619
     },
     {
       "ID": "STEALTH100",
@@ -10221,7 +10226,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 67184
+      "UsersEstimate": 67185
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -10412,7 +10417,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231670,
+      "Progressed": 231671,
       "Completed": 242
     }
   ],
@@ -10420,8 +10425,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-06-29T16:59:26.2419636+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:06:52.0365888+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:06:19.9820914+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:30.1939429+00:00",
-  "LastUpdate_Ratings": "2023-06-30T07:59:55.7792538+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:06:52.0367592+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:59:26.9284256+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:06:19.9823181+00:00"
 }

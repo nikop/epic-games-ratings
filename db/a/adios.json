@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64012,
+  "EOS_Progressed": 64013,
   "EOS_Completed": 591,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7642,6 +7642,11 @@
       "Time": "2023-06-30T08:06:34.3363344+00:00",
       "NumProgressed": 64012,
       "NumCompleted": 591
+    },
+    {
+      "Time": "2023-06-30T09:06:03.8498263+00:00",
+      "NumProgressed": 64013,
+      "NumCompleted": 591
     }
   ],
   "TotalAchievements": 25,
@@ -7701,7 +7706,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "Cut Call",
@@ -7725,7 +7730,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12802
+      "UsersEstimate": 12803
     },
     {
       "ID": "Hearty",
@@ -7749,7 +7754,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "Master, Commander",
@@ -7757,7 +7762,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12802
+      "UsersEstimate": 12803
     },
     {
       "ID": "Meaty",
@@ -7821,7 +7826,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "Taco Toto",
@@ -7852,7 +7857,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64012,
+      "Progressed": 64013,
       "Completed": 591
     }
   ],
@@ -7860,8 +7865,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:06:34.3363336+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:06:03.8498258+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-30T08:00:57.5137869+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:06:34.3363846+00:00"
+  "LastUpdate_Ratings": "2023-06-30T09:00:18.3871158+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:06:03.8498909+00:00"
 }

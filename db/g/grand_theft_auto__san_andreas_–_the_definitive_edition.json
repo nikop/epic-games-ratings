@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -496,7 +496,7 @@
       "Count": 199
     }
   ],
-  "EOS_Progressed": 10887,
+  "EOS_Progressed": 10888,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 4,
@@ -5896,6 +5896,11 @@
       "Time": "2023-06-30T07:07:03.888788+00:00",
       "NumProgressed": 10887,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-06-30T09:06:11.5277803+00:00",
+      "NumProgressed": 10888,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -6019,7 +6024,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH16",
@@ -6051,7 +6056,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH20",
@@ -6186,7 +6191,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10887,
+      "Progressed": 10888,
       "Completed": 24
     }
   ],
@@ -6194,8 +6199,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-06-29T02:20:55.8473436+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:06:43.1249783+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:06:11.5277798+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:29.5561268+00:00",
-  "LastUpdate_Ratings": "2023-06-30T08:00:40.8897234+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:06:43.1250248+00:00"
+  "LastUpdate_Ratings": "2023-06-30T09:00:04.6321851+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:06:11.5278417+00:00"
 }

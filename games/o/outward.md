@@ -47,7 +47,7 @@ Number of Ratings: 266  (23.09.2022)
 | Through fire and flame. | 0.70% | ~21 |
 | Legacy of a master hunter | 0.40% | ~12 |
 | Master of Aurai | 0.30% | ~9 |
-| The Absolute Pinnacle. | 0.20% | ~6 |
+| The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,981 (Ranked 148)  
 Completed: 1 (0.03%) (Ranked 202)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7870,
+  "EOS_Progressed": 7871,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3193,6 +3193,11 @@
       "Time": "2023-06-29T13:18:53.048487+00:00",
       "NumProgressed": 7870,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-06-30T09:03:29.4084086+00:00",
+      "NumProgressed": 7871,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3228,7 +3233,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "DemonCastleRestoration",
@@ -3244,7 +3249,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "FakeGoddessGone",
@@ -3252,7 +3257,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -3332,7 +3337,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "SavedElderEnt_2",
@@ -3364,7 +3369,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3388,22 +3393,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7870,
+      "Progressed": 7871,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-28T09:59:48.1706384+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:03:20.5281275+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:03:29.408408+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:49.8787805+00:00",
-  "LastUpdate_Ratings": "2023-06-30T07:59:20.1781784+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:03:20.5281531+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:58:57.1229214+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:03:29.4084407+00:00"
 }

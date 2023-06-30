@@ -5,15 +5,15 @@ Rating: 4.23 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~335,599 |
-| Well educated | 37.00% | ~258,691 |
-| City Planner | 19.00% | ~132,841 |
-| Deforester | 17.00% | ~118,858 |
-| Big Hauling | 15.00% | ~104,875 |
-| Exporter | 13.00% | ~90,891 |
-| I would drive 500 tiles... | 12.00% | ~83,900 |
-| Apprentice Manufacturer | 12.00% | ~83,900 |
-| Landscaper | 12.00% | ~83,900 |
+| Entrepreneur | 48.00% | ~335,604 |
+| Well educated | 37.00% | ~258,694 |
+| City Planner | 19.00% | ~132,843 |
+| Deforester | 17.00% | ~118,860 |
+| Big Hauling | 15.00% | ~104,876 |
+| Exporter | 13.00% | ~90,893 |
+| I would drive 500 tiles... | 12.00% | ~83,901 |
+| Apprentice Manufacturer | 12.00% | ~83,901 |
+| Landscaper | 12.00% | ~83,901 |
 | Railwayman | 7.00% | ~48,942 |
 | Penniless | 6.00% | ~41,950 |
 | Massive Gains | 6.00% | ~41,950 |
@@ -23,8 +23,8 @@ Rating: 4.23 (Ranked 821)
 | Captain | 0.80% | ~5,593 |
 | Billionaire | 0.60% | ~4,195 |
 | Vroom Vroom | 0.40% | ~2,797 |
-| Excavator | 0.30% | ~2,097 |
-| Loan Ranger | 0.30% | ~2,097 |
+| Excavator | 0.30% | ~2,098 |
+| Loan Ranger | 0.30% | ~2,098 |
 | [2130] Nature Lover | 0.10% | ~699 |
 | [2130] No Quarter Given | 0.10% | ~699 |
 | [2130] Dumpster Diving | 0.10% | ~699 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 821)
 | Master Builder | 0.10% | ~699 |
 | Hard working | 0.10% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,165 (Ranked 18)  
+Progressed: 699,174 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 3 (0.00%) (Ranked 230)
 | 2023-06-27 | 698,010 | 3 |
 | 2023-06-28 | 698,523 | 3 |
 | 2023-06-29 | 699,034 | 3 |
-| 2023-06-30 | 699,165 | 3 |
+| 2023-06-30 | 699,174 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

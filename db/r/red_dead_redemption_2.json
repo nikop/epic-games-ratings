@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -8546,10 +8546,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 396571,
       "NumberOfAwardsMax": 155206
+    },
+    {
+      "Time": "2023-06-30T08:59:04.0508471+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 396794,
+      "NumberOfAwardsMax": 155206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396571,
+  "NumberOfAwards": 396794,
   "NumberOfAwardsMax": 155206,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -8563,7 +8569,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 84394
+      "Count": 84562
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8593,7 +8599,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 13894
+      "Count": 13930
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8629,7 +8635,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 14133
+      "Count": 14152
     },
     {
       "Text": "This game has a Creative Community",
@@ -8649,8 +8655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-06-30T06:59:43.6897465+00:00",
+  "LastChanged": "2023-06-30T08:59:04.0508469+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:00.0930463+00:00",
-  "LastUpdate_Ratings": "2023-06-30T07:59:29.1008981+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:03:31.3588824+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:59:04.0508477+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:03:38.463881+00:00"
 }

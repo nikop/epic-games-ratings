@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 194926,
+  "EOS_Progressed": 194932,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 705,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -7620,6 +7620,11 @@
       "Time": "2023-06-30T07:06:48.8293253+00:00",
       "NumProgressed": 194926,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-06-30T09:05:59.2786736+00:00",
+      "NumProgressed": 194932,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 29,
@@ -7655,7 +7660,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183230
+      "UsersEstimate": 183236
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7663,7 +7668,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -7687,7 +7692,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -7711,7 +7716,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -7727,7 +7732,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -7791,7 +7796,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9746
+      "UsersEstimate": 9747
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -7839,7 +7844,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -7862,7 +7867,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 194926,
+      "Progressed": 194932,
       "Completed": 452
     }
   ],
@@ -7870,8 +7875,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-06-30T08:06:28.5780253+00:00",
+  "LastChanged_Achievements": "2023-06-30T09:05:59.2786732+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:42.289867+00:00",
-  "LastUpdate_Ratings": "2023-06-30T07:59:11.2171653+00:00",
-  "LastUpdate_Achievements": "2023-06-30T08:06:28.5780739+00:00"
+  "LastUpdate_Ratings": "2023-06-30T08:58:50.3511314+00:00",
+  "LastUpdate_Achievements": "2023-06-30T09:05:59.2787388+00:00"
 }

@@ -7,13 +7,13 @@
 | Small town | 63.00% | ~168 |
 | I like parks | 51.00% | ~136 |
 | It is nice to share with friends in the city | 26.00% | ~69 |
-| Sport is good for you | 25.00% | ~66 |
+| Sport is good for you | 25.00% | ~67 |
 | The spiritual world... | 23.00% | ~61 |
 | The woodcutter | 21.00% | ~56 |
 | I like books | 20.00% | ~53 |
 | I like my life | 19.00% | ~51 |
 | Soviet town | 18.00% | ~48 |
-| Clean energy | 17.00% | ~45 |
+| Clean energy | 16.00% | ~43 |
 | Bucolic city | 14.00% | ~37 |
 | I love books! | 8.00% | ~21 |
 | King of fish | 8.00% | ~21 |
@@ -26,25 +26,25 @@
 | Rebel city | 3.00% | ~8 |
 | Sport is the best thing | 3.00% | ~8 |
 | Banking city | 2.00% | ~5 |
-| Food provider master | 2.00% | ~5 |
 | City crisis | 2.00% | ~5 |
 | Read! Everyone should read! | 2.00% | ~5 |
-| What is there after death? | 2.00% | ~5 |
 | Oh, I love parks, listening to birds! | 2.00% | ~5 |
 | Temperate builder | 2.00% | ~5 |
-| Temperate urban planner | 2.00% | ~5 |
 | Anarchist Utopia | 1.00% | ~3 |
 | Archipelago builder | 1.00% | ~3 |
+| Food provider master | 1.00% | ~3 |
+| What is there after death? | 1.00% | ~3 |
 | Oh, I am sad | 1.00% | ~3 |
 | Freedom to go to the mall! | 1.00% | ~3 |
 | Town planner | 1.00% | ~3 |
-| Archipelago urban planner | 0.80% | ~2 |
-| I can't see the sky | 0.80% | ~2 |
-| Perfect city | 0.80% | ~2 |
-| Farming Frenzy | 0.80% | ~2 |
-| Metropolurbek Plus | 0.80% | ~2 |
-| Restorer | 0.80% | ~2 |
-| Welfare state | 0.80% | ~2 |
+| Temperate urban planner | 1.00% | ~3 |
+| Archipelago urban planner | 0.70% | ~2 |
+| I can't see the sky | 0.70% | ~2 |
+| Perfect city | 0.70% | ~2 |
+| Farming Frenzy | 0.70% | ~2 |
+| Metropolurbek Plus | 0.70% | ~2 |
+| Restorer | 0.70% | ~2 |
+| Welfare state | 0.70% | ~2 |
 | Anarchist paradise | 0.40% | ~1 |
 | I can't breathe | 0.40% | ~1 |
 | Urban style | 0.40% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 247)  
+Progressed: 267 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 263 | 0 |
 | 2023-06-28 | 264 | 0 |
 | 2023-06-29 | 266 | 0 |
+| 2023-06-30 | 267 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

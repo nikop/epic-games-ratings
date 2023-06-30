@@ -33,8 +33,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.90% | ~6,393 |
 | Kung-Fu Tussle | 0.90% | ~6,393 |
 | Dance of the Praying Mantis | 0.80% | ~5,683 |
+| Muk Yan Master | 0.70% | ~4,972 |
 | Deadly Venom | 0.70% | ~137 |
-| Muk Yan Master | 0.60% | ~4,262 |
 | Tiger on Fire | 0.60% | ~4,262 |
 | Source of Flying Daggers | 0.60% | ~4,262 |
 | Iron Money | 0.60% | ~4,262 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,317 (Ranked 17)  
+Progressed: 710,318 (Ranked 17)  
 Completed: 12,795 (1.80%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 12,795 (1.80%) (Ranked 79)
 | 2023-06-27 | 710,214 | 12,794 |
 | 2023-06-28 | 710,263 | 12,795 |
 | 2023-06-29 | 710,306 | 12,795 |
-| 2023-06-30 | 710,317 | 12,795 |
+| 2023-06-30 | 710,318 | 12,795 |
 ## Awards
 Max (Great Boss Battles): 6,219  (Ranked 52)  
-Sum: 10,639 (Ranked 78)  
+Sum: 10,641 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): -26
 | This game is Extremely Fun | 513 |
 | This game has Amazing Storytelling | 511 |
 | This game is Highly Recommended | 496 |
-| This game has Amazing Characters | 492 |
+| This game has Amazing Characters | 494 |
 | This game has Unique Visuals | 470 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 359 |
@@ -314,3 +314,4 @@ Diff (max vs sum): -26
 | 2023-06-27 | 4.82 | - | 6,213 | 10,632 |
 | 2023-06-28 | 4.82 | - | 6,215 | 10,635 |
 | 2023-06-29 | 4.82 | - | 6,219 | 10,639 |
+| 2023-06-30 | 4.82 | - | 6,219 | 10,641 |
