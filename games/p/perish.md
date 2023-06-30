@@ -12,6 +12,7 @@
 | Modest Earnings | 4.00% | ~122 |
 | Armaments of the Pantheon | 4.00% | ~122 |
 | Persephone's Guidance | 4.00% | ~122 |
+| The Sons of Minos | 4.00% | ~122 |
 | Strength of Herakles | 4.00% | ~122 |
 | Reign in Blood | 4.00% | ~122 |
 | Pillars of Eternity | 3.00% | ~92 |
@@ -19,7 +20,6 @@
 | Spartan Sandal | 3.00% | ~92 |
 | War Chest | 3.00% | ~92 |
 | Symbols of Heresy | 3.00% | ~92 |
-| The Sons of Minos | 3.00% | ~92 |
 | Sisters of the Pantheon | 3.00% | ~92 |
 | Siege Unit | 3.00% | ~92 |
 | Eidola | 3.00% | ~92 |

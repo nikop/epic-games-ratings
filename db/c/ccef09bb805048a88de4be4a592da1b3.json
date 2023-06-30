@@ -2,10 +2,10 @@
   "ID": "ccef09bb805048a88de4be4a592da1b3",
   "Name": "Ultimate Fishing Simulator",
   "ProductSlug": "ultimate-fishing-simulator-0ae59f",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2018-08-30T01:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-27T10:57:00.3475799+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:57:05.8198989+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:02:09.8828818+00:00"
+  "LastUpdate_Ratings": "2023-06-30T10:57:34.8852409+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:02:32.2572169+00:00"
 }

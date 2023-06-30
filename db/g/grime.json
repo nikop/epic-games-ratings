@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2023-06-30T02:20:25.7856869+00:00",
       "NumProgressed": 607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T11:03:30.5609248+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -645,7 +650,7 @@
       "Name": "Assimilation",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -701,7 +706,7 @@
       "Name": "Hunt Down",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -709,7 +714,7 @@
       "Name": "Artisan",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -819,9 +824,9 @@
       "ID": "MISC_ABSORBMANY",
       "SetID": "ccc0dlh",
       "Name": "Devourer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -843,9 +848,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -907,9 +912,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "QUEST_CHILD",
@@ -956,21 +961,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 21
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-30T10:03:09.6691001+00:00",
+  "LastChanged_Achievements": "2023-06-30T11:03:30.5609239+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.6465863+00:00",
-  "LastUpdate_Ratings": "2023-06-30T10:00:00.6358394+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:03:09.6691282+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:01:50.5426851+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:03:30.5609688+00:00"
 }

@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122439,
+  "EOS_Progressed": 122440,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7981,6 +7981,11 @@
       "Time": "2023-06-30T10:06:04.9018769+00:00",
       "NumProgressed": 122439,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-30T11:07:55.39614+00:00",
+      "NumProgressed": 122440,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8048,7 +8053,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29385
+      "UsersEstimate": 29386
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8208,7 +8213,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17141
+      "UsersEstimate": 17142
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -8311,15 +8316,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122439,
+      "Progressed": 122440,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-30T10:06:04.9018764+00:00",
+  "LastChanged_Achievements": "2023-06-30T11:07:55.3961392+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:58:52.7825439+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:06:04.9019321+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:00:10.9418022+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:07:55.3962274+00:00"
 }

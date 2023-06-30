@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kraken Wakes | 0.30% | ~9 |
 | Liberté | 0.20% | ~6 |
 | No Stone Unturned | 0.20% | ~6 |
 | Confirming Suspicions | 0.20% | ~6 |
 | Resourceful | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
-| The Kraken Wakes | 0.20% | ~6 |
 | Change the Channel | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
@@ -26,6 +26,7 @@ Rating: 4.45 (Ranked 617)
 | Sharpshooter | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
+| Precision Is Key | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
@@ -59,7 +60,6 @@ Rating: 4.45 (Ranked 617)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |

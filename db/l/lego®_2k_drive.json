@@ -2,13 +2,13 @@
   "ID": "130de7f2c9bd4d65bd7e52b8600aaad0",
   "Name": "LEGO\u00AE 2K Drive",
   "ProductSlug": "lego-2k-drive",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-19T04:00:00+00:00",
     "PcReleaseDate": "2023-05-19T04:00:00+00:00",
@@ -92,6 +92,6 @@
   "FirstSeenRating": "2023-06-05T10:57:21.5213731+00:00",
   "LastChanged": "2023-06-29T14:57:50.2394937+00:00",
   "LastUpdate_AppInfo": "2023-06-23T22:57:22.0654581+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:57:21.3537338+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:03:52.2175125+00:00"
+  "LastUpdate_Ratings": "2023-06-30T10:57:57.144582+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:04:45.6741415+00:00"
 }

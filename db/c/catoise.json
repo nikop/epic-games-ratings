@@ -2,10 +2,10 @@
   "ID": "518534ba2150487d87de849bde94595a",
   "Name": "Catoise",
   "ProductSlug": "catoise-a45568",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-21T19:00:00+00:00",
     "PcReleaseDate": "2023-03-21T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-01T07:59:43.9003537+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:08.8008517+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:58:58.3798199+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:02:31.8234946+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:00:18.4464179+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:03:21.9361204+00:00"
 }

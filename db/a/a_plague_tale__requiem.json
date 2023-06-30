@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -332,7 +332,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11886,
+  "EOS_Progressed": 11887,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -4612,6 +4612,11 @@
       "Time": "2023-06-30T10:06:05.1767396+00:00",
       "NumProgressed": 11886,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-30T11:07:55.795128+00:00",
+      "NumProgressed": 11887,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -4623,7 +4628,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10935
+      "UsersEstimate": 10936
     },
     {
       "ID": "ACH_02",
@@ -4631,7 +4636,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9271
+      "UsersEstimate": 9272
     },
     {
       "ID": "ACH_03",
@@ -4639,7 +4644,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8677
+      "UsersEstimate": 8678
     },
     {
       "ID": "ACH_04",
@@ -4647,7 +4652,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8201
+      "UsersEstimate": 8202
     },
     {
       "ID": "ACH_05",
@@ -4663,7 +4668,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "ACH_07",
@@ -4671,7 +4676,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "ACH_08",
@@ -4687,7 +4692,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6656
+      "UsersEstimate": 6657
     },
     {
       "ID": "ACH_10",
@@ -4703,7 +4708,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "ACH_12",
@@ -4791,7 +4796,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_23",
@@ -4799,7 +4804,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ACH_24",
@@ -4823,7 +4828,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_27",
@@ -4831,7 +4836,7 @@
       "Name": "Night guard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4992
+      "UsersEstimate": 4993
     },
     {
       "ID": "ACH_28",
@@ -4902,7 +4907,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11886,
+      "Progressed": 11887,
       "Completed": 36
     }
   ],
@@ -4910,8 +4915,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-29T19:00:02.4531675+00:00",
-  "LastChanged_Achievements": "2023-06-30T10:06:05.1767391+00:00",
+  "LastChanged_Achievements": "2023-06-30T11:07:55.7951273+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.495104+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:59:08.3688859+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:06:05.1767794+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:00:35.5421491+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:07:55.7951903+00:00"
 }

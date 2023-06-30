@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13610,
+  "EOS_Progressed": 13611,
   "EOS_Completed": 103,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -5189,6 +5189,11 @@
       "Time": "2023-06-30T08:06:30.6259559+00:00",
       "NumProgressed": 13610,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-30T11:07:42.1242065+00:00",
+      "NumProgressed": 13611,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5216,7 +5221,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "tpote_achievement_12",
@@ -5224,7 +5229,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "tpote_achievement_13",
@@ -5232,7 +5237,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "tpote_achievement_14",
@@ -5240,7 +5245,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     },
     {
       "ID": "tpote_achievement_15",
@@ -5256,7 +5261,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "tpote_achievement_17",
@@ -5288,7 +5293,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     },
     {
       "ID": "tpote_achievement_20",
@@ -5344,7 +5349,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "tpote_achievement_27",
@@ -5376,7 +5381,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4492
     },
     {
       "ID": "tpote_achievement_30",
@@ -5440,7 +5445,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "tpote_achievement_38",
@@ -5464,7 +5469,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5580
+      "UsersEstimate": 5581
     },
     {
       "ID": "tpote_achievement_40",
@@ -5488,7 +5493,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3402
+      "UsersEstimate": 3403
     },
     {
       "ID": "tpote_achievement_6",
@@ -5496,7 +5501,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "tpote_achievement_7",
@@ -5527,15 +5532,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13610,
+      "Progressed": 13611,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-30T10:05:54.6989539+00:00",
+  "LastChanged_Achievements": "2023-06-30T11:07:42.1242058+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-30T09:59:38.7743273+00:00",
-  "LastUpdate_Achievements": "2023-06-30T10:05:54.6990007+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:01:20.1123286+00:00",
+  "LastUpdate_Achievements": "2023-06-30T11:07:42.1242809+00:00"
 }

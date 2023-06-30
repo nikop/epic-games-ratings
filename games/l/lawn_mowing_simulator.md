@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 81.00% | ~514,744 |
-| Every story has a beginning | 36.00% | ~228,775 |
-| The first of many | 32.00% | ~203,356 |
-| Positive word of mouth | 18.00% | ~114,388 |
-| Lawn in the U.S.A. | 15.00% | ~95,323 |
-| Blade Runner | 9.00% | ~57,194 |
-| Credible | 7.00% | ~44,484 |
-| Teamwork makes the dream work | 6.00% | ~38,129 |
-| Where there's muck there's brass | 4.00% | ~25,419 |
-| Bigger and better | 4.00% | ~25,419 |
-| Aggressive expansion | 4.00% | ~25,419 |
+| The dream begins | 81.00% | ~514,755 |
+| Every story has a beginning | 36.00% | ~228,780 |
+| The first of many | 32.00% | ~203,360 |
+| Positive word of mouth | 18.00% | ~114,390 |
+| Lawn in the U.S.A. | 15.00% | ~95,325 |
+| Blade Runner | 9.00% | ~57,195 |
+| Credible | 7.00% | ~44,485 |
+| Teamwork makes the dream work | 6.00% | ~38,130 |
+| Where there's muck there's brass | 4.00% | ~25,420 |
+| Bigger and better | 4.00% | ~25,420 |
+| Aggressive expansion | 4.00% | ~25,420 |
 | Size isn't everything | 3.00% | ~19,065 |
 | Close shave | 3.00% | ~19,065 |
 | Established | 3.00% | ~19,065 |
@@ -27,10 +27,10 @@ Number of Ratings: 5,086  (23.09.2022)
 | First step on the ladder | 2.00% | ~12,710 |
 | Trusted | 2.00% | ~12,710 |
 | The top of the mountain | 1.00% | ~6,355 |
-| Earn your stripes | 0.90% | ~5,719 |
-| Lawn & Order | 0.90% | ~5,719 |
-| Jack of all trades | 0.90% | ~5,719 |
-| Professional | 0.90% | ~5,719 |
+| Earn your stripes | 0.90% | ~5,720 |
+| Lawn & Order | 0.90% | ~5,720 |
+| Jack of all trades | 0.90% | ~5,720 |
+| Professional | 0.90% | ~5,720 |
 | All hands on deck | 0.80% | ~5,084 |
 | Worked your grass off | 0.80% | ~5,084 |
 | The grass is always greener | 0.70% | ~4,448 |
@@ -40,28 +40,28 @@ Number of Ratings: 5,086  (23.09.2022)
 | In it for the long haul | 0.20% | ~1,271 |
 | Hard times | 0.20% | ~1,271 |
 | Distinguished | 0.20% | ~1,271 |
-| Amateur mower | 0.10% | ~635 |
-| Expert mower | 0.10% | ~635 |
-| Professional mower | 0.10% | ~635 |
-| Lawn on the 4th of July | 0.10% | ~635 |
-| Zero to hero | 0.10% | ~635 |
-| A seat at the round table | 0.10% | ~635 |
-| Home game | 0.10% | ~635 |
-| Excalibur? | 0.10% | ~635 |
-| An axe to grind | 0.10% | ~635 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~635 |
-| Head of the family | 0.10% | ~635 |
-| Spared no expense | 0.10% | ~635 |
-| We’re going to make a fortune with this place | 0.10% | ~635 |
-| Don’t go into the long grass! | 0.10% | ~635 |
-| Clever girl | 0.10% | ~635 |
-| We have a T-Rex | 0.10% | ~635 |
-| Welcome to Dino Safari! | 0.10% | ~635 |
-| Centurion | 0.10% | ~635 |
-| Lawn Enforcement Officer | 0.10% | ~635 |
-| Mo mowers, mo problems | 0.10% | ~635 |
+| Amateur mower | 0.10% | ~636 |
+| Expert mower | 0.10% | ~636 |
+| Professional mower | 0.10% | ~636 |
+| Lawn on the 4th of July | 0.10% | ~636 |
+| Zero to hero | 0.10% | ~636 |
+| A seat at the round table | 0.10% | ~636 |
+| Home game | 0.10% | ~636 |
+| Excalibur? | 0.10% | ~636 |
+| An axe to grind | 0.10% | ~636 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~636 |
+| Head of the family | 0.10% | ~636 |
+| Spared no expense | 0.10% | ~636 |
+| We’re going to make a fortune with this place | 0.10% | ~636 |
+| Don’t go into the long grass! | 0.10% | ~636 |
+| Clever girl | 0.10% | ~636 |
+| We have a T-Rex | 0.10% | ~636 |
+| Welcome to Dino Safari! | 0.10% | ~636 |
+| Centurion | 0.10% | ~636 |
+| Lawn Enforcement Officer | 0.10% | ~636 |
+| Mo mowers, mo problems | 0.10% | ~636 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635,487 (Ranked 22)  
+Progressed: 635,500 (Ranked 22)  
 Completed: 14 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 14 (0.00%) (Ranked 230)
 | 2023-06-27 | 634,508 | 14 |
 | 2023-06-28 | 634,945 | 14 |
 | 2023-06-29 | 635,359 | 14 |
-| 2023-06-30 | 635,487 | 14 |
+| 2023-06-30 | 635,500 | 14 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 278)  
 Sum: 966 (Ranked 236)  

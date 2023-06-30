@@ -19,17 +19,17 @@ Rating: 4.59 (Ranked 410)
 | Blood of the Dragon | 0.80% | ~39 |
 | Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
+| Intimidation Tactics | 0.60% | ~29 |
 | There Can Only Be One! | 0.50% | ~24 |
+| Full Ascension | 0.50% | ~24 |
 | Digging for Treasure | 0.50% | ~24 |
 | Fiery Friend | 0.50% | ~24 |
 | Against the Odds | 0.50% | ~24 |
 | Impenetrable Fortress | 0.50% | ~24 |
-| Intimidation Tactics | 0.50% | ~24 |
 | Duality | 0.50% | ~24 |
-| Full Ascension | 0.40% | ~20 |
+| Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Preparation Is Everything | 0.40% | ~20 |
-| Valley of Wonders | 0.30% | ~15 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | Arch Mage | 0.30% | ~15 |
 | The Creator | 0.30% | ~15 |
