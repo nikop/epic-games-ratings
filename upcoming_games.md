@@ -1,20 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | - |  | - | - |
-| [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | 2023-06-30 | - |  | - | - |
-| [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | - |  | - | - |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-06-30 | - |  | - | - |
-| [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | 2023-06-30 | - |  | - | - |
-| [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | - |  | - | - |
-| [Klang 2](games/k/klang_2.md) | 2023-06-30 | - |  | - | - |
-| [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-06-30 | 16 (1,000 XP) | 1 | - | - |
-| [SHAFTED](games/s/shafted.md) | 2023-06-30 | - |  | - | - |
-| [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-06-30 | - |  | - | - |
-| [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | - |  | - | - |
-| [Traffic Brains 2](games/f/f6a9fcbf437b48b59cf3d54a75c20932.md) | 2023-06-30 | - |  | - | - |
-| [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | - |  | - | - |
-| [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 2023-06-30 | - |  | - | - |
-| [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 2023-06-30 | 55 (1,000 XP) | 1 | - | - |
 | [SCARY AND DOT](games/b/b9cad2ee3e58423ca7c46a5f8ffee059.md) | 2023-06-30 | - |  | - | - |
 | [Vaudeville](games/2/2b5e1a8f075848f29b2617c7dca5d01a.md) | 2023-06-30 | - |  | - | - |
 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 2023-07-01 | 66 (1,000 XP) | 6 | - | - |

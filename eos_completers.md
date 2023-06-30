@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.23% |
@@ -52,7 +52,7 @@
 | 50 | [ZZT!](games/z/zzt!.md) | 3.33% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
+| 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
 | 54 | [Bunny Park](games/b/bunny_park.md) | 3.08% |
 | 55 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 56 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -106,9 +106,9 @@
 | 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 108 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Haven](games/h/haven.md) | 0.69% |
 | 111 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 112 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
@@ -122,8 +122,8 @@
 | 120 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 121 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 124 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
@@ -477,4 +477,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,855 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,856 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
