@@ -11,29 +11,29 @@ Rating: 4.59 (Ranked 410)
 | Secret Technique | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
 | My Final Form | 1.00% | ~49 |
+| Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | Walls Cannot Stop Us | 0.90% | ~44 |
 | From Friends to Family | 0.90% | ~44 |
-| Blood of the Dragon | 0.90% | ~44 |
 | Stronger Together | 0.80% | ~39 |
 | Here be Dragons | 0.80% | ~39 |
 | Bone Peddler | 0.70% | ~34 |
+| Seat of Power | 0.70% | ~34 |
+| Intimidation Tactics | 0.70% | ~34 |
 | There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
-| Seat of Power | 0.60% | ~29 |
 | Fiery Friend | 0.60% | ~29 |
 | Against the Odds | 0.60% | ~29 |
 | Impenetrable Fortress | 0.60% | ~29 |
-| Intimidation Tactics | 0.60% | ~29 |
 | Duality | 0.60% | ~29 |
 | Digging for Treasure | 0.50% | ~24 |
+| In a Liege of Your Own | 0.50% | ~24 |
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Arch Mage | 0.40% | ~20 |
 | The Creator | 0.40% | ~20 |
 | Eternal Lord | 0.40% | ~20 |
 | Preparation Is Everything | 0.40% | ~20 |
-| In a Liege of Your Own | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | God Emperor | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,882 (Ranked 134)  
+Progressed: 4,883 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
-| 2023-06-30 | 4,882 | 4 |
+| 2023-06-30 | 4,883 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,8 +5,8 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,439 |
-| World Map | 79.00% | ~1,209 |
+| Victor | 94.00% | ~1,440 |
+| World Map | 79.00% | ~1,210 |
 | Temple of Eternals | 57.00% | ~873 |
 | Prestigious | 54.00% | ~827 |
 | Fellowship Power | 41.00% | ~628 |
@@ -27,7 +27,7 @@ Rating: 4.07 (Ranked 895)
 | Natural Talent | 12.00% | ~184 |
 | Superior | 12.00% | ~184 |
 | The Unstoppable | 12.00% | ~184 |
-| Scientist | 11.00% | ~168 |
+| Scientist | 11.00% | ~169 |
 | Challenger | 9.00% | ~138 |
 | Doing My Part | 9.00% | ~138 |
 | Frostfire Liberator | 9.00% | ~138 |
@@ -36,9 +36,9 @@ Rating: 4.07 (Ranked 895)
 | Relic Of The Past | 9.00% | ~138 |
 | Scroll Master | 9.00% | ~138 |
 | The power of Awakening | 9.00% | ~138 |
-| Daily Quest Completionist | 8.00% | ~122 |
-| Four Leaf Clover | 8.00% | ~122 |
-| Moving Up The Ladder | 8.00% | ~122 |
+| Daily Quest Completionist | 8.00% | ~123 |
+| Four Leaf Clover | 8.00% | ~123 |
+| Moving Up The Ladder | 8.00% | ~123 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |
 | The father of Dragons | 7.00% | ~107 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,531 (Ranked 168)  
+Progressed: 1,532 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
-| 2023-06-30 | 1,531 | 1 |
+| 2023-06-30 | 1,532 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

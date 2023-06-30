@@ -7,28 +7,28 @@ Rating: 4.45 (Ranked 617)
 | ---- | ---------- | ----- |
 | Resourceful | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
+| Change the Channel | 0.40% | ~13 |
 | No Stone Unturned | 0.30% | ~10 |
+| Confirming Suspicions | 0.30% | ~10 |
 | It's Starting to Crack | 0.30% | ~10 |
-| Change the Channel | 0.30% | ~10 |
+| Taking it back | 0.30% | ~10 |
+| Target America | 0.30% | ~10 |
 | Climbing the Ladder | 0.20% | ~6 |
 | Liberté | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
+| Organ Grinder | 0.20% | ~6 |
 | Meeting Resistance | 0.20% | ~6 |
 | Gunslinger | 0.20% | ~6 |
 | Sharpshooter | 0.20% | ~6 |
-| Confirming Suspicions | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
 | Explosive Efficiency | 0.20% | ~6 |
 | Lord of War | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
-| Taking it back | 0.20% | ~6 |
-| Target America | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Opposing Force | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
 | Just a Flesh Wound | 0.10% | ~3 |
-| Organ Grinder | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | Skirmisher | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |

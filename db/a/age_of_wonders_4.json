@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4882,
+  "EOS_Progressed": 4883,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4731,6 +4731,11 @@
       "Time": "2023-06-30T16:06:23.3016204+00:00",
       "NumProgressed": 4882,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T22:05:43.9409662+00:00",
+      "NumProgressed": 4883,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4948,17 +4953,17 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "35",
@@ -5012,9 +5017,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "41",
@@ -5116,9 +5121,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "49",
@@ -5141,13 +5146,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4882,
+      "Progressed": 4883,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4882,
+      "Progressed": 4883,
       "Completed": 4
     }
   ],
@@ -5155,8 +5160,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-06-30T21:05:17.1875947+00:00",
+  "LastChanged_Achievements": "2023-06-30T22:05:43.9409657+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-06-30T20:59:26.7281976+00:00",
-  "LastUpdate_Achievements": "2023-06-30T21:05:17.1876687+00:00"
+  "LastUpdate_Ratings": "2023-06-30T21:59:52.0293487+00:00",
+  "LastUpdate_Achievements": "2023-06-30T22:05:43.9410198+00:00"
 }

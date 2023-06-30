@@ -35,7 +35,7 @@ Number of Ratings: 58  (23.09.2022)
 | Time to Spear | 30.00% | ~303 |
 | Mastery of Weapons | 29.00% | ~293 |
 | Disciple | 29.00% | ~293 |
-| Two Birds | 25.00% | ~253 |
+| Two Birds | 26.00% | ~263 |
 | Uneasy Alliance | 24.00% | ~243 |
 | Ghosts | 24.00% | ~243 |
 | Mastery of Combat | 22.00% | ~222 |

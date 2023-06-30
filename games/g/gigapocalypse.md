@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Too Cool For School | 87.00% | ~137 |
-| Caretaker | 84.00% | ~133 |
+| Caretaker | 85.00% | ~134 |
 | Feng Shui | 73.00% | ~115 |
 | Who's A Good Boy | 70.00% | ~111 |
 | Power Up | 70.00% | ~111 |

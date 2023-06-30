@@ -20,7 +20,7 @@ Rating: 4.35 (Ranked 733)
 | Giant Killer | 42.00% | ~503 |
 | Sensei | 41.00% | ~491 |
 | The meaning of Kain | 39.00% | ~467 |
-| Technophobe | 36.00% | ~431 |
+| Technophobe | 37.00% | ~443 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
 | Ganglord | 30.00% | ~359 |

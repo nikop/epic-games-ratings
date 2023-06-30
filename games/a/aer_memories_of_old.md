@@ -12,8 +12,8 @@ Number of Ratings: 170  (23.09.2022)
 | Cartographer | 18.00% | ~2,522 |
 | Knowledge for Power | 15.00% | ~2,102 |
 | Antlers of Stone | 15.00% | ~2,102 |
-| Gaze into the abyss | 14.00% | ~1,961 |
-| Mausoleum of Ice | 14.00% | ~1,961 |
+| Gaze into the abyss | 14.00% | ~1,962 |
+| Mausoleum of Ice | 14.00% | ~1,962 |
 | Equilibrium | 13.00% | ~1,821 |
 | In the belly of the beast | 12.00% | ~1,681 |
 | Wings of Stone | 12.00% | ~1,681 |
@@ -25,9 +25,9 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 6.00% | ~841 |
 | Tails of Stone | 6.00% | ~841 |
 | Baa from the past | 6.00% | ~841 |
-| Hide and Seek | 5.00% | ~700 |
+| Hide and Seek | 5.00% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,010 (Ranked 109)  
+Progressed: 14,011 (Ranked 109)  
 Completed: 296 (2.11%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 296 (2.11%) (Ranked 73)
 | 2023-06-27 | 13,758 | 290 |
 | 2023-06-28 | 13,852 | 293 |
 | 2023-06-29 | 13,934 | 293 |
-| 2023-06-30 | 14,010 | 296 |
+| 2023-06-30 | 14,011 | 296 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

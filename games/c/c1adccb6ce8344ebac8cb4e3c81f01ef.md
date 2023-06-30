@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Orange Skeleton | 60.00% | ~3 |
 | Red Skeleton | 60.00% | ~3 |
 | Blue Skeleton | 40.00% | ~2 |
-| Orange Skeleton | 40.00% | ~2 |
 | Black Skeleton | 20.00% | ~1 |
 | Green Skeleton | 20.00% | ~1 |
 | Yellow Skeleton | 20.00% | ~1 |

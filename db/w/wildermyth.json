@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1278,
+  "EOS_Progressed": 1279,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -935,6 +935,11 @@
       "Time": "2023-06-30T21:03:27.7879201+00:00",
       "NumProgressed": 1278,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T22:03:33.5313146+00:00",
+      "NumProgressed": 1279,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1008,9 +1013,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1122,7 +1127,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_mythwalker",
@@ -1178,7 +1183,7 @@
       "Name": "Everfading",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1210,7 +1215,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1393,15 +1398,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1278,
+      "Progressed": 1279,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-06-30T21:03:27.7879196+00:00",
+  "LastChanged_Achievements": "2023-06-30T22:03:33.5313141+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.8542868+00:00",
-  "LastUpdate_Ratings": "2023-06-30T21:00:28.289207+00:00",
-  "LastUpdate_Achievements": "2023-06-30T21:03:27.7879755+00:00"
+  "LastUpdate_Ratings": "2023-06-30T22:01:03.5512817+00:00",
+  "LastUpdate_Achievements": "2023-06-30T22:03:33.5313549+00:00"
 }

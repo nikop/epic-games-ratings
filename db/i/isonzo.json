@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -3347,9 +3347,9 @@
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
       "SetID": "akchbl3",
       "Name": "Peak Performance",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3483
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3524,8 +3524,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-26T19:57:59.6691095+00:00",
-  "LastChanged_Achievements": "2023-06-30T21:03:17.6900158+00:00",
+  "LastChanged_Achievements": "2023-06-30T22:03:21.4201423+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:54.3316297+00:00",
-  "LastUpdate_Ratings": "2023-06-30T20:57:41.7201766+00:00",
-  "LastUpdate_Achievements": "2023-06-30T21:03:17.6900682+00:00"
+  "LastUpdate_Ratings": "2023-06-30T21:57:43.1503611+00:00",
+  "LastUpdate_Achievements": "2023-06-30T22:03:21.4201815+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32858,
+  "EOS_Progressed": 32859,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6578,6 +6578,11 @@
       "Time": "2023-06-30T21:02:30.2225677+00:00",
       "NumProgressed": 32858,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-06-30T22:02:32.2226197+00:00",
+      "NumProgressed": 32859,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6669,7 +6674,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8214
+      "UsersEstimate": 8215
     },
     {
       "ID": "firstItem",
@@ -6677,7 +6682,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25629
+      "UsersEstimate": 25630
     },
     {
       "ID": "roots",
@@ -6700,15 +6705,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32858,
+      "Progressed": 32859,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-06-30T21:02:30.2225672+00:00",
+  "LastChanged_Achievements": "2023-06-30T22:02:32.2226192+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:27.7883343+00:00",
-  "LastUpdate_Ratings": "2023-06-30T21:00:08.8147257+00:00",
-  "LastUpdate_Achievements": "2023-06-30T21:02:30.2226196+00:00"
+  "LastUpdate_Ratings": "2023-06-30T22:00:39.830727+00:00",
+  "LastUpdate_Achievements": "2023-06-30T22:02:32.2226574+00:00"
 }

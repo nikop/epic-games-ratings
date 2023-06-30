@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 850)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,970 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,646 |
-| Loose Ends | 4.00% | ~2,646 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,647 |
+| Loose Ends | 4.00% | ~2,647 |
 | The Batman Family | 3.00% | ~1,985 |
 | Something in the Clay | 3.00% | ~1,985 |
 | To the Victor Go the Spoils | 3.00% | ~1,985 |
@@ -38,8 +38,8 @@ Rating: 4.18 (Ranked 850)
 | Out of Their League | 1.00% | ~662 |
 | Drone You Out | 1.00% | ~662 |
 | Solid Alibi | 1.00% | ~662 |
-| Fusion Expert | 0.90% | ~595 |
-| Family Meeting | 0.90% | ~595 |
+| Fusion Expert | 0.90% | ~596 |
+| Family Meeting | 0.90% | ~596 |
 | Expert Crime Fighter | 0.80% | ~529 |
 | A Worthy Successor | 0.80% | ~529 |
 | Dressed to Impress | 0.70% | ~463 |
@@ -48,7 +48,7 @@ Rating: 4.18 (Ranked 850)
 | He'd Be So Proud of You | 0.40% | ~265 |
 | Hammer and Icicle | 0.30% | ~109 |
 | Renewable Enemy Source | 0.30% | ~109 |
-| Practice Makes Perfect | 0.30% | ~198 |
+| Practice Makes Perfect | 0.30% | ~199 |
 | Element of Surprise | 0.20% | ~73 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
 | The Cold, the Bad and the Ugly | 0.20% | ~73 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,162 (Ranked 72)  
+Progressed: 66,168 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-27 | 66,058 | 98 |
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
-| 2023-06-30 | 66,162 | 99 |
+| 2023-06-30 | 66,168 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,405  (Ranked 100)  
 Sum: 3,978 (Ranked 137)  
