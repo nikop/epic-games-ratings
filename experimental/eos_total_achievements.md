@@ -274,6 +274,7 @@
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
+| [Samorost 3](../games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 30 | 1,000 |
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
@@ -462,6 +463,7 @@
 | [MY LITTLE PONY A Maretime Bay Adventure](../games/m/my_little_pony_a_maretime_bay_adventure.md) | 13 | 1,000 |
 | [Panic Porcupine](../games/p/panic_porcupine.md) | 13 | 1,000 |
 | [Reyna Darkness](../games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 13 | 1,000 |
+| [Samorost 2](../games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 13 | 1,000 |
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Dungeon Knight](../games/b/bb813cebe527480abb7d459661931369.md) | 12 | 1,000 |
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |

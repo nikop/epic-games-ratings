@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.58% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.66% |
@@ -14,8 +14,8 @@
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
-| 15 | [Sonic Origins](games/s/sonic_origins.md) | 12.95% |
-| 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.89% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
@@ -41,8 +41,8 @@
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 40 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 41 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
-| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.81% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.80% |
+| 42 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.80% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.80% |
 | 44 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 44 | [Doodle God](games/d/doodle_god.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
@@ -124,9 +124,9 @@
 | 121 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 123 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 123 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 125 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 125 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 125 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
-| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 128 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 129 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.45% |
@@ -478,4 +478,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,859 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,863 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

@@ -370,6 +370,8 @@
 | [Saints Row IV Re-Elected](../games/s/saints_row_iv_re-elected.md) | 72 | 1,000 |
 | [Salt and Sacrifice](../games/s/salt_and_sacrifice.md) | 53 | 1,000 |
 | [Salt and Sanctuary](../games/s/salt_and_sanctuary.md) | 37 | 1,000 |
+| [Samorost 2](../games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 13 | 1,000 |
+| [Samorost 3](../games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 30 | 1,000 |
 | [Saturnalia](../games/s/saturnalia.md) | 20 | 1,000 |
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
