@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2539,9 +2539,9 @@
       "ID": "10",
       "SetID": "d0g98p",
       "Name": "Piece of Cake",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 430
     },
     {
       "ID": "11",
@@ -2827,9 +2827,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 471
     },
     {
       "ID": "44",
@@ -2940,8 +2940,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:06:01.4045708+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:24:04.9935058+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:57:35.7850567+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:06:01.4046238+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:15:20.7582639+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:24:04.9935522+00:00"
 }

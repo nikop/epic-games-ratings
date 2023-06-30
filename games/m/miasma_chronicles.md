@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.35 (Ranked 734)  
+Rating: 4.35 (Ranked 733)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.35 (Ranked 734)
 | Exorcist | 45.00% | ~538 |
 | Giant Killer | 42.00% | ~502 |
 | Firestarter | 41.00% | ~490 |
-| Sensei | 40.00% | ~478 |
+| Sensei | 41.00% | ~490 |
 | The meaning of Kain | 38.00% | ~454 |
 | Technophobe | 36.00% | ~430 |
 | Recycler | 35.00% | ~418 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 734)
 | Shadow Boxin' | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Goaaaaal! | 0.60% | ~7 |
-| Master Editor | 0.40% | ~5 |
+| Master Editor | 0.60% | ~7 |
 | Attenborough | 0.30% | ~4 |
 | Bookworm | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

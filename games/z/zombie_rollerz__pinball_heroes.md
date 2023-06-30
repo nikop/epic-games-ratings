@@ -17,7 +17,7 @@
 | The Tunneler | 41.00% | ~46 |
 | Level Up!! | 40.00% | ~44 |
 | The Shield | 40.00% | ~44 |
-| Kill-streak | 33.00% | ~37 |
+| Kill-streak | 34.00% | ~38 |
 | The Bird | 31.00% | ~34 |
 | The Ninja | 30.00% | ~33 |
 | The Idol | 28.00% | ~31 |

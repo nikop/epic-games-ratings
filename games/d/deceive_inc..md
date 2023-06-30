@@ -1,32 +1,32 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 313)  
+Rating: 4.64 (Ranked 312)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 65.00% | ~4,559 |
-| Mainframe Hacker | 47.00% | ~3,297 |
-| Tomorrow Never Dyes | 46.00% | ~3,226 |
-| The Spy who eliminated me | 46.00% | ~3,226 |
+| On Deceive Inc.'s Secret Service | 65.00% | ~4,560 |
+| Mainframe Hacker | 47.00% | ~3,298 |
+| Tomorrow Never Dyes | 46.00% | ~3,227 |
+| The Spy who eliminated me | 46.00% | ~3,227 |
 | Never Say Loser Again | 40.00% | ~2,806 |
-| For your Eyes only | 38.00% | ~2,665 |
-| From the Vault with Love | 37.00% | ~2,595 |
-| Tailor-Made | 37.00% | ~2,595 |
-| Fully Decked Out | 35.00% | ~2,455 |
-| You Only Live Twice | 32.00% | ~2,244 |
+| For your Eyes only | 39.00% | ~2,736 |
+| From the Vault with Love | 37.00% | ~2,596 |
+| Tailor-Made | 37.00% | ~2,596 |
+| Fully Decked Out | 35.00% | ~2,456 |
+| You Only Live Twice | 32.00% | ~2,245 |
 | A view to Win | 27.00% | ~1,894 |
 | Smells Like Trouble | 25.00% | ~1,754 |
-| Assistant Accountant | 24.00% | ~1,683 |
-| The Living Portrait | 24.00% | ~1,683 |
-| Private Collection | 24.00% | ~1,683 |
-| Killer Looks | 24.00% | ~1,683 |
-| Hostile Takeover | 24.00% | ~1,683 |
-| Keycards Royale | 23.00% | ~1,613 |
-| Dr. No Kill | 23.00% | ~1,613 |
-| My Motto, My Creed | 23.00% | ~1,613 |
-| In It to Win It | 22.00% | ~1,543 |
-| Security Supervisor | 10.00% | ~701 |
+| Assistant Accountant | 24.00% | ~1,684 |
+| The Living Portrait | 24.00% | ~1,684 |
+| Private Collection | 24.00% | ~1,684 |
+| Killer Looks | 24.00% | ~1,684 |
+| Hostile Takeover | 24.00% | ~1,684 |
+| Keycards Royale | 23.00% | ~1,614 |
+| Dr. No Kill | 23.00% | ~1,614 |
+| My Motto, My Creed | 23.00% | ~1,614 |
+| In It to Win It | 22.00% | ~1,544 |
+| Security Supervisor | 10.00% | ~702 |
 | License to Thrill | 8.00% | ~561 |
 | Social of Solace | 8.00% | ~561 |
 | Safe Withdrawal | 6.00% | ~421 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 313)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,014 (Ranked 122)  
+Progressed: 7,016 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 6,978 | 0 |
 | 2023-06-28 | 6,997 | 0 |
 | 2023-06-29 | 7,014 | 0 |
+| 2023-06-30 | 7,016 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

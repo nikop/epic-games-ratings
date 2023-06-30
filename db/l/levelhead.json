@@ -4,7 +4,7 @@
   "ProductSlug": "levelhead",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:33.1562463+00:00",
   "LastChanged": "2023-03-31T05:57:33.1562464+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:19.0650165+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:58:28.794927+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:04:13.949366+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:16:29.7469291+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:21:55.9554107+00:00"
 }

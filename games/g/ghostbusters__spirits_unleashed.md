@@ -5,25 +5,25 @@ Rating: 4.49 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,521 |
-| Advancement | 73.00% | ~17,419 |
+| Stylish | 86.00% | ~20,522 |
+| Advancement | 73.00% | ~17,420 |
 | Meticulously Efficient | 64.00% | ~15,272 |
 | Discovery | 61.00% | ~14,556 |
-| Swift Rift Removers | 55.00% | ~13,124 |
-| Fully Upgraded | 54.00% | ~12,885 |
-| Cultured | 52.00% | ~12,408 |
+| Swift Rift Removers | 55.00% | ~13,125 |
+| Fully Upgraded | 54.00% | ~12,886 |
+| Cultured | 52.00% | ~12,409 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,170 |
 | Vaporous Expansion | 48.00% | ~11,454 |
-| Teamwork | 44.00% | ~10,499 |
+| Teamwork | 44.00% | ~10,500 |
 | There you are! | 43.00% | ~10,261 |
-| Clutch Capture | 41.00% | ~9,783 |
-| Back Off | 36.00% | ~8,590 |
+| Clutch Capture | 41.00% | ~9,784 |
+| Back Off | 36.00% | ~8,591 |
 | Daily Dose | 35.00% | ~8,352 |
 | Solo Capture | 32.00% | ~7,636 |
 | Welcome to the Crew | 32.00% | ~7,636 |
 | Ghostbuster In Training | 30.00% | ~7,159 |
 | Icing on the Cake | 30.00% | ~7,159 |
-| Side Hustle | 28.00% | ~6,681 |
+| Side Hustle | 28.00% | ~6,682 |
 | We have the best insurance | 27.00% | ~6,443 |
 | Legions | 27.00% | ~6,443 |
 | Summoner | 27.00% | ~6,443 |
@@ -34,7 +34,7 @@ Rating: 4.49 (Ranked 569)
 | Skilled | 24.00% | ~5,727 |
 | Collector | 23.00% | ~5,488 |
 | Ectoplasmic Entity | 23.00% | ~5,488 |
-| Rift Destroyer | 20.00% | ~4,772 |
+| Rift Destroyer | 20.00% | ~4,773 |
 | Terrifying | 18.00% | ~4,295 |
 | Tobin's Prodigy | 18.00% | ~4,295 |
 | Reckless | 17.00% | ~4,057 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 569)
 | Mycophile | 1.00% | ~239 |
 | I don't need these | 0.90% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,862 (Ranked 95)  
+Progressed: 23,863 (Ranked 95)  
 Completed: 46 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,9 +128,10 @@ Completed: 46 (0.19%) (Ranked 160)
 | 2023-06-27 | 23,799 | 46 |
 | 2023-06-28 | 23,837 | 46 |
 | 2023-06-29 | 23,862 | 46 |
+| 2023-06-30 | 23,863 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
-Sum: 2,138 (Ranked 186)  
+Sum: 2,139 (Ranked 186)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -138,7 +139,7 @@ Diff (max vs sum): 63
 | This game is Great for Beginners | 227 |
 | This game has Competitive Players | 221 |
 | This game has Diverse Characters | 216 |
-| This game has Amazing Storytelling | 214 |
+| This game has Amazing Storytelling | 215 |
 | This game is Extremely Fun | 210 |
 | This game is Highly Recommended | 207 |
 | This game is Relaxing | 207 |
@@ -248,3 +249,4 @@ Diff (max vs sum): 63
 | 2023-06-26 | 4.49 | 239 | 2,135 |
 | 2023-06-28 | 4.49 | 239 | 2,136 |
 | 2023-06-29 | 4.49 | 239 | 2,138 |
+| 2023-06-30 | 4.49 | 239 | 2,139 |

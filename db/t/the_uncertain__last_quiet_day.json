@@ -2,9 +2,9 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.11,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -326,6 +326,11 @@
       "Time": "2023-06-24T21:05:30.9635964+00:00",
       "NumProgressed": 483,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-06-30T02:24:07.4461199+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -505,7 +510,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PLEASE",
@@ -553,7 +558,7 @@
       "Name": "Sysadmin",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -561,7 +566,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -592,7 +597,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 15
     }
   ],
@@ -600,8 +605,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:06:03.4785608+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:24:07.4461193+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:36.2429257+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:58:43.944913+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:06:03.4785807+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:16:47.8456021+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:24:07.4461442+00:00"
 }

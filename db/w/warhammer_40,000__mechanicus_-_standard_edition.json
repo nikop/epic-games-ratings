@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 50,
@@ -501,9 +501,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 215837,
+  "EOS_Progressed": 215846,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7921,6 +7921,11 @@
       "Time": "2023-06-30T00:04:30.3383735+00:00",
       "NumProgressed": 215837,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T02:22:14.9303739+00:00",
+      "NumProgressed": 215846,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -7932,7 +7937,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41009
+      "UsersEstimate": 41011
     },
     {
       "ID": "ACH_BASE_10",
@@ -7940,7 +7945,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53959
+      "UsersEstimate": 53962
     },
     {
       "ID": "ACH_BASE_11",
@@ -7956,7 +7961,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACH_BASE_13",
@@ -7972,7 +7977,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "ACH_BASE_16",
@@ -7980,7 +7985,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "ACH_BASE_17",
@@ -7988,7 +7993,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "ACH_BASE_18",
@@ -7996,7 +8001,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     },
     {
       "ID": "ACH_BASE_19",
@@ -8012,7 +8017,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12950
+      "UsersEstimate": 12951
     },
     {
       "ID": "ACH_BASE_20",
@@ -8100,7 +8105,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACH_BASE_30",
@@ -8180,7 +8185,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25900
+      "UsersEstimate": 25902
     },
     {
       "ID": "ACH_BASE_8",
@@ -8188,7 +8193,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8633
+      "UsersEstimate": 8634
     },
     {
       "ID": "ACH_BASE_9",
@@ -8196,14 +8201,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19425
+      "UsersEstimate": 19426
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 215837,
+      "Progressed": 215846,
       "Completed": 4
     }
   ],
@@ -8211,8 +8216,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-29T21:59:07.0791506+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:04:30.338373+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:22:14.9303734+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:20.1970485+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:58:29.827943+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:04:30.3384263+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:16:30.9171753+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:22:14.9304281+00:00"
 }

@@ -385,9 +385,9 @@
       "ID": "CLG_LEVEL_KILLSTREAK",
       "SetID": "89cjc9l",
       "Name": "Kill-streak",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -938,8 +938,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:06:16.8717147+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:24:23.179434+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:53.58574+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:57:36.1880591+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:06:16.8717739+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:15:21.2480654+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:24:23.1794962+00:00"
 }

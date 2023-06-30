@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~76,490 |
-| No Escape | 86.00% | ~67,816 |
-| Seeker of Power | 85.00% | ~67,028 |
-| Hopes and Dreams | 82.00% | ~64,662 |
-| Lantern Smasher | 78.00% | ~61,508 |
-| The Pirate's Way | 74.00% | ~58,353 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,988 |
-| The King of the Dark Elves | 68.00% | ~53,622 |
-| Memories of the Distant Past | 66.00% | ~52,045 |
-| Distortion's Progeny | 63.00% | ~49,679 |
-| Savant | 62.00% | ~48,891 |
-| A Landscape of Memory | 58.00% | ~45,736 |
-| The Wind's Light | 54.00% | ~42,582 |
-| Vague Remembrances | 49.00% | ~38,639 |
-| The Fire's Light | 47.00% | ~37,062 |
-| Phantom Memories | 47.00% | ~37,062 |
-| Imbued Memories | 46.00% | ~36,274 |
-| The Earth's Light | 45.00% | ~35,485 |
+| Manifestation of the Soul | 97.00% | ~76,492 |
+| No Escape | 86.00% | ~67,818 |
+| Seeker of Power | 85.00% | ~67,029 |
+| Hopes and Dreams | 82.00% | ~64,664 |
+| Lantern Smasher | 78.00% | ~61,509 |
+| The Pirate's Way | 74.00% | ~58,355 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,989 |
+| The King of the Dark Elves | 68.00% | ~53,623 |
+| Memories of the Distant Past | 66.00% | ~52,046 |
+| Distortion's Progeny | 63.00% | ~49,681 |
+| Savant | 62.00% | ~48,892 |
+| A Landscape of Memory | 58.00% | ~45,738 |
+| The Wind's Light | 54.00% | ~42,583 |
+| Vague Remembrances | 49.00% | ~38,640 |
+| The Fire's Light | 47.00% | ~37,063 |
+| Phantom Memories | 47.00% | ~37,063 |
+| Imbued Memories | 46.00% | ~36,275 |
+| The Earth's Light | 45.00% | ~35,486 |
 | Shared Recollections | 42.00% | ~33,120 |
-| The Water's Light | 40.00% | ~31,542 |
-| Path of the Sage | 40.00% | ~31,542 |
+| The Water's Light | 40.00% | ~31,543 |
+| Path of the Sage | 40.00% | ~31,543 |
 | Malice Takes Root | 37.00% | ~29,177 |
 | Path of the Dark Knight | 37.00% | ~29,177 |
 | Path of the Paladin | 37.00% | ~29,177 |
 | Path of the Breaker | 37.00% | ~29,177 |
-| Duty's Course | 36.00% | ~28,388 |
+| Duty's Course | 36.00% | ~28,389 |
 | Path of the Liberator | 35.00% | ~27,600 |
 | Path of the Tyrant | 35.00% | ~27,600 |
-| Led by the Nose | 34.00% | ~26,811 |
-| Path of the Void Knight | 34.00% | ~26,811 |
-| Path of the Ninja | 33.00% | ~26,022 |
-| Terminus of Fate | 32.00% | ~25,234 |
-| Path of the Assassin | 32.00% | ~25,234 |
-| His Name Is Garland | 32.00% | ~25,234 |
+| Led by the Nose | 34.00% | ~26,812 |
+| Path of the Void Knight | 34.00% | ~26,812 |
+| Path of the Ninja | 33.00% | ~26,023 |
+| Terminus of Fate | 32.00% | ~25,235 |
+| Path of the Assassin | 32.00% | ~25,235 |
+| His Name Is Garland | 32.00% | ~25,235 |
 | Seeker of Ultimate Power | 23.00% | ~18,137 |
-| Artifact Collector | 22.00% | ~17,348 |
+| Artifact Collector | 22.00% | ~17,349 |
 | True Potential | 21.00% | ~16,560 |
 | Polymath | 21.00% | ~16,560 |
-| Origin of True Chaos | 20.00% | ~15,771 |
+| Origin of True Chaos | 20.00% | ~15,772 |
 | Master's Awakening | 19.00% | ~14,983 |
 | Jack-of-All-Trades | 19.00% | ~14,983 |
 | Cycle of Darkness | 16.00% | ~12,617 |
-| Job Master | 8.00% | ~6,308 |
+| Job Master | 8.00% | ~6,309 |
 | Crest Bearer | 7.00% | ~5,520 |
 | Strangers' Memories | 3.00% | ~2,366 |
 | A Tale of Origins and Endings | 2.00% | ~1,577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,856 (Ranked 67)  
+Progressed: 78,858 (Ranked 67)  
 Completed: 2,145 (2.72%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,14 +124,15 @@ Completed: 2,145 (2.72%) (Ranked 61)
 | 2023-06-27 | 78,819 | 2,144 |
 | 2023-06-28 | 78,837 | 2,145 |
 | 2023-06-29 | 78,856 | 2,145 |
+| 2023-06-30 | 78,858 | 2,145 |
 ## Awards
 Max (Character Customization): 1,024  (Ranked 141)  
-Sum: 2,580 (Ranked 171)  
+Sum: 2,581 (Ranked 171)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |
-| This game has Great Boss Battles | 754 |
+| This game has Great Boss Battles | 755 |
 | This game is Highly Recommended | 113 |
 | This game is Extremely Fun | 112 |
 | This game has Diverse Characters | 106 |
@@ -233,3 +234,4 @@ Diff (max vs sum): -30
 | 2023-06-20 | 4.51 | - | 754 | 1,555 |
 | 2023-06-22 | 4.51 | - | 1,024 | 2,579 |
 | 2023-06-23 | 4.51 | - | 1,024 | 2,580 |
+| 2023-06-30 | 4.51 | - | 1,024 | 2,581 |

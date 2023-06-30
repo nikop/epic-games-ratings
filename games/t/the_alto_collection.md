@@ -1,28 +1,28 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 198)  
+Rating: 4.70 (Ranked 197)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,496 |
-| Rookie | 25.00% | ~7,208 |
-| Nomad | 18.00% | ~5,190 |
-| Picking Up Speed | 17.00% | ~4,901 |
-| Welcome Maya | 16.00% | ~4,613 |
-| Sightseer | 11.00% | ~3,172 |
-| Scout | 10.00% | ~2,883 |
-| Amateur | 9.00% | ~2,595 |
-| Wanderer | 9.00% | ~2,595 |
+| Finding Your Footing | 26.00% | ~7,499 |
+| Rookie | 25.00% | ~7,210 |
+| Nomad | 18.00% | ~5,192 |
+| Picking Up Speed | 17.00% | ~4,903 |
+| Welcome Maya | 16.00% | ~4,615 |
+| Sightseer | 11.00% | ~3,173 |
+| Scout | 10.00% | ~2,884 |
+| Amateur | 9.00% | ~2,596 |
+| Wanderer | 9.00% | ~2,596 |
 | Enter Paz | 8.00% | ~2,307 |
-| Unlock Maya | 7.00% | ~2,018 |
-| Aviator | 6.00% | ~1,730 |
-| One With The Board | 6.00% | ~1,730 |
+| Unlock Maya | 7.00% | ~2,019 |
+| Aviator | 6.00% | ~1,731 |
+| One With The Board | 6.00% | ~1,731 |
 | My Little Friend | 5.00% | ~1,442 |
 | Voyager | 5.00% | ~1,442 |
-| Sandboarder | 4.00% | ~1,153 |
-| Izel Has Arrived | 4.00% | ~1,153 |
+| Sandboarder | 4.00% | ~1,154 |
+| Izel Has Arrived | 4.00% | ~1,154 |
 | Junkie | 3.00% | ~865 |
 | Traveler | 3.00% | ~865 |
 | Journeyer | 3.00% | ~865 |
@@ -35,18 +35,18 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~288 |
 | Introducing Sumara | 1.00% | ~288 |
 | Vandal | 1.00% | ~288 |
-| Daredevil | 0.90% | ~259 |
+| Daredevil | 0.90% | ~260 |
 | Unlock Felipe | 0.70% | ~202 |
 | Adventurer | 0.60% | ~173 |
 | Unlock Tupa | 0.40% | ~115 |
-| Master Of The Sands | 0.30% | ~86 |
+| Master Of The Sands | 0.30% | ~87 |
 | Master | 0.20% | ~58 |
 | Life Aquatic | 0.10% | ~29 |
 | Survivalist | 0.10% | ~29 |
 | The Ultimate Challenge | 0.10% | ~29 |
 | Windswept | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,832 (Ranked 92)  
+Progressed: 28,842 (Ranked 92)  
 Completed: 5 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 5 (0.02%) (Ranked 210)
 | 2023-06-27 | 28,530 | 5 |
 | 2023-06-28 | 28,676 | 5 |
 | 2023-06-29 | 28,828 | 5 |
-| 2023-06-30 | 28,832 | 5 |
+| 2023-06-30 | 28,842 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 350 (Ranked 321)  

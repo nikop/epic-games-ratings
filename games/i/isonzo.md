@@ -12,7 +12,7 @@ Number of Ratings: 98  (23.09.2022)
 | Avanti Savoia! | 47.00% | ~2,975 |
 | Mamma Mia! | 37.00% | ~2,342 |
 | Conrad von Hotzensocks | 36.00% | ~2,279 |
-| Gabriele D'Annunzio | 32.00% | ~2,026 |
+| Gabriele D'Annunzio | 33.00% | ~2,089 |
 | Silver Lining | 29.00% | ~1,836 |
 | Aurelio Baruzzi | 22.00% | ~1,393 |
 | Veni Vidi Vici | 22.00% | ~1,393 |

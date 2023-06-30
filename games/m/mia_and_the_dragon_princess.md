@@ -23,7 +23,7 @@
 | Escape Artist | 2.00% | ~1 |
 | Key Keeper's Curse | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 329)  
+Progressed: 49 (Ranked 330)  
 Completed: 1 (2.04%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

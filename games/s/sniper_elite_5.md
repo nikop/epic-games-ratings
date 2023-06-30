@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 618)
 | No Stone Unturned | 0.20% | ~6 |
 | Resourceful | 0.20% | ~6 |
 | The Kraken Wakes | 0.20% | ~6 |
+| Change the Channel | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
 | Liberté | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
@@ -26,6 +27,7 @@ Rating: 4.45 (Ranked 618)
 | Rigged to Blow | 0.10% | ~3 |
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
+| Die Nussknacker Sweet! | 0.10% | ~3 |
 | Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
@@ -37,7 +39,6 @@ Rating: 4.45 (Ranked 618)
 | Tinkerer | 0.10% | ~3 |
 | It's Starting to Crack | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
-| Change the Channel | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Taking it back | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
@@ -60,7 +61,6 @@ Rating: 4.45 (Ranked 618)
 | Precision Is Key | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Lord of War | 0.00% | ~0 |
-| Die Nussknacker Sweet! | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 618)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,164 (Ranked 145)  
+Progressed: 3,165 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
+| 2023-06-30 | 3,165 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

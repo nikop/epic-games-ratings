@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2023-06-29T23:02:26.3073184+00:00",
       "NumProgressed": 606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T02:20:25.7856869+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -662,9 +667,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -678,9 +683,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 170
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -688,7 +693,7 @@
       "Name": "Weeper",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -720,7 +725,7 @@
       "Name": "Scion",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -784,7 +789,7 @@
       "Name": "Inevitable",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -840,7 +845,7 @@
       "Name": "Predator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -886,9 +891,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 146
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -951,21 +956,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 21
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:03:14.2353778+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:20:25.7856866+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.6465863+00:00",
-  "LastUpdate_Ratings": "2023-06-30T00:00:08.5644738+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:03:14.235406+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:18:29.190075+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:20:25.7857158+00:00"
 }

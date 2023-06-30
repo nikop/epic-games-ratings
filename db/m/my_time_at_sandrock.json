@@ -2,12 +2,12 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -965,8 +965,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-06-29T16:58:14.5544723+00:00",
-  "LastChanged_Achievements": "2023-06-30T00:04:28.457008+00:00",
+  "LastChanged_Achievements": "2023-06-30T02:22:12.6249164+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:51.1844328+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:58:11.159262+00:00",
-  "LastUpdate_Achievements": "2023-06-30T00:04:28.4570108+00:00"
+  "LastUpdate_Ratings": "2023-06-30T02:16:06.9194637+00:00",
+  "LastUpdate_Achievements": "2023-06-30T02:22:12.6249202+00:00"
 }

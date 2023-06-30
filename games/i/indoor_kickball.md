@@ -7,9 +7,9 @@
 | Hat Unlocked | 82.00% | ~54 |
 | Accessory Unlocked | 82.00% | ~54 |
 | Character Unlocked | 80.00% | ~53 |
+| Homer | 68.00% | ~45 |
 | Settle Down | 67.00% | ~44 |
-| Homer | 67.00% | ~44 |
-| Have a good trip! | 65.00% | ~43 |
+| Have a good trip! | 67.00% | ~44 |
 | Butter Fingers | 64.00% | ~42 |
 | Stay Hydrated | 64.00% | ~42 |
 | First Win | 62.00% | ~41 |

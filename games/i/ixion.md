@@ -9,8 +9,8 @@ Rating: 4.57 (Ranked 438)
 | Infinite Growth... | 17.00% | ~468 |
 | Sputnik 2049 | 17.00% | ~468 |
 | Without Breaking Some Eggs... | 16.00% | ~440 |
+| Space Society | 12.00% | ~330 |
 | Ready for a New World | 12.00% | ~330 |
-| Space Society | 11.00% | ~302 |
 | A Thousand Strong | 11.00% | ~302 |
 | Permanent Redesigns | 10.00% | ~275 |
 | Fully Recycled | 9.00% | ~248 |
@@ -30,10 +30,10 @@ Rating: 4.57 (Ranked 438)
 | Necessary Enhancement | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~82 |
+| What They Hide From Us | 3.00% | ~82 |
 | BRAWL! | 3.00% | ~82 |
 | All in Good Health | 3.00% | ~82 |
 | What the Ruins Teach Us | 3.00% | ~82 |
-| What They Hide From Us | 2.00% | ~55 |
 | ...  in a finite world | 2.00% | ~55 |
 | Sustainable Energy | 2.00% | ~55 |
 | In Dolos We Trust | 2.00% | ~55 |

@@ -5,21 +5,25 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Paper Jams | 0.30% | ~47 |
+| Giving Back | 0.20% | ~31 |
 | You Need a Gun | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
 | Get a Grip | 0.20% | ~31 |
 | Two Heads Are Better Than One | 0.20% | ~31 |
 | Chew 'Em Up | 0.20% | ~31 |
+| Workplace Hazard | 0.20% | ~31 |
+| The Commonality | 0.20% | ~31 |
 | Reforged | 0.20% | ~31 |
-| Paper Jams | 0.20% | ~31 |
+| The Outer Way | 0.20% | ~31 |
 | Without A Paddle | 0.20% | ~31 |
 | In the Pipe, Five by Five | 0.20% | ~31 |
 | Crash Site | 0.20% | ~31 |
 | Power Up | 0.20% | ~31 |
+| Keep Fighting | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
-| Giving Back | 0.10% | ~16 |
 | Grim Reaper | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
@@ -27,11 +31,8 @@ Rating: 4.19 (Ranked 844)
 | Parole Denied | 0.10% | ~4 |
 | In Striking Distance | 0.10% | ~16 |
 | Terminated | 0.10% | ~16 |
-| Workplace Hazard | 0.10% | ~16 |
-| The Commonality | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
-| The Outer Way | 0.10% | ~16 |
 | If the SHU Fits... | 0.10% | ~16 |
 | What Lies Beneath | 0.10% | ~16 |
 | Desperate Times | 0.10% | ~16 |
@@ -39,7 +40,6 @@ Rating: 4.19 (Ranked 844)
 | Don't Let It Mellow | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |
-| Keep Fighting | 0.10% | ~4 |
 | It's Time | 0.10% | ~4 |
 | Quick Pick | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | Big Spender | 0.00% | ~0 |
 | Information Overload | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,589 (Ranked 106)  
+Progressed: 15,590 (Ranked 106)  
 Completed: 59 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 59 (0.38%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
+| 2023-06-30 | 15,590 | 59 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 347 (Ranked 323)  

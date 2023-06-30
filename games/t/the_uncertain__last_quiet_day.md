@@ -14,7 +14,7 @@
 | Everybody lies | 36.00% | ~174 |
 | Trick or Treat? | 24.00% | ~116 |
 | There is another way | 23.00% | ~111 |
-| Sysadmin | 21.00% | ~101 |
+| Sysadmin | 21.00% | ~102 |
 | Annoying | 20.00% | ~97 |
 | Every little helps | 20.00% | ~97 |
 | Hacker | 20.00% | ~97 |
@@ -28,17 +28,17 @@
 | Please oh pleeease! | 17.00% | ~82 |
 | Found it! | 16.00% | ~77 |
 | Not what it seems | 16.00% | ~77 |
-| That's much better! | 15.00% | ~72 |
+| That's much better! | 15.00% | ~73 |
 | Not as clumsy or random | 13.00% | ~63 |
 | Blade Runner | 10.00% | ~48 |
-| Perfect hearing | 9.00% | ~43 |
+| Perfect hearing | 9.00% | ~44 |
 | Meticulous | 8.00% | ~39 |
 | Lucky dog | 5.00% | ~24 |
 | Accurate | 5.00% | ~24 |
 | Silent | 4.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483 (Ranked 212)  
-Completed: 15 (3.11%) (Ranked 53)  
+Progressed: 484 (Ranked 211)  
+Completed: 15 (3.10%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 15 (3.11%) (Ranked 53)
 | 2023-06-20 | 480 | 15 |
 | 2023-06-22 | 481 | 15 |
 | 2023-06-24 | 483 | 15 |
+| 2023-06-30 | 484 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
