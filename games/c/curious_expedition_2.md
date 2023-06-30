@@ -31,9 +31,9 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 15.00% | ~48 |
 | A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
+| The New Director | 14.00% | ~45 |
 | The Director is Dead | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
-| The New Director | 13.00% | ~41 |
 | Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |

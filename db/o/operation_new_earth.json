@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 289,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -936,6 +936,11 @@
       "Time": "2023-06-30T14:03:48.7565224+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T15:04:01.578764+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -971,7 +976,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -1033,9 +1038,9 @@
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_headquarters_20",
@@ -1051,7 +1056,7 @@
       "Name": "Facility Online",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1059,7 +1064,7 @@
       "Name": "Corporal",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1067,7 +1072,7 @@
       "Name": "Sergeant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1121,25 +1126,25 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1187,7 +1192,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1203,7 +1208,7 @@
       "Name": "Defenses Online",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1250,14 +1255,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 289,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:03:48.7565211+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:04:01.5787637+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:00:12.2264984+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:03:48.7565624+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:00:14.6956633+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:04:01.5787899+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.83,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-06-29T06:07:46.4186166+00:00",
       "NumProgressed": 218,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T15:06:03.7468391+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -320,9 +325,9 @@
       "ID": "ACH_BIG_FISH",
       "SetID": "ao59f0i",
       "Name": "Big Fish",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -330,7 +335,7 @@
       "Name": "Champion of Kalevala",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FORAGER",
@@ -386,7 +391,7 @@
       "Name": "Found the Healer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -418,7 +423,7 @@
       "Name": "Death is Merely a Setback",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_RINGFIRE",
@@ -472,9 +477,9 @@
       "ID": "ACH_SHARD_5",
       "SetID": "ao59f0i",
       "Name": "Fifth Shard",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TROLL",
@@ -505,7 +510,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 4
     }
   ],
@@ -513,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:05:52.3066792+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:06:03.7468388+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:12.6633055+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:59:49.6998056+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:05:52.3066981+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:59:53.7147431+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:06:03.7468722+00:00"
 }

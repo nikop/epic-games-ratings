@@ -14,20 +14,20 @@ Rating: 4.19 (Ranked 844)
 | Flesh Wound | 0.30% | ~47 |
 | I Do Belong Here | 0.30% | ~47 |
 | Chew 'Em Up | 0.30% | ~47 |
+| Workplace Hazard | 0.30% | ~47 |
 | Reforged | 0.30% | ~47 |
+| If the SHU Fits... | 0.30% | ~47 |
 | Without A Paddle | 0.30% | ~47 |
 | In the Pipe, Five by Five | 0.30% | ~47 |
 | What Lies Beneath | 0.30% | ~47 |
 | Crash Site | 0.30% | ~47 |
+| Full Circle | 0.30% | ~47 |
 | Power Up | 0.30% | ~47 |
 | Terminated | 0.20% | ~31 |
-| Workplace Hazard | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
 | Float Like A Butterfly | 0.20% | ~31 |
 | The Outer Way | 0.20% | ~31 |
-| If the SHU Fits... | 0.20% | ~31 |
 | Desperate Times | 0.20% | ~31 |
-| Full Circle | 0.20% | ~31 |
 | It's Time | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,592 (Ranked 106)  
+Progressed: 15,593 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 60 (0.38%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
-| 2023-06-30 | 15,592 | 60 |
+| 2023-06-30 | 15,593 | 60 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 348 (Ranked 322)  

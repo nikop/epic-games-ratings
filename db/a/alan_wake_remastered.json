@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56528,
+  "EOS_Progressed": 56529,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6522,6 +6522,11 @@
       "Time": "2023-06-30T14:00:40.4682103+00:00",
       "NumProgressed": 56528,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-30T15:02:14.6608336+00:00",
+      "NumProgressed": 56529,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6533,7 +6538,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18654
+      "UsersEstimate": 18655
     },
     {
       "ID": "02",
@@ -7068,21 +7073,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56528,
+      "Progressed": 56529,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19996,
+      "Progressed": 19997,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:00:40.4682092+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:02:14.6608332+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:57:44.5447293+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:00:40.4683036+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:57:49.0150276+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:02:14.6609119+00:00"
 }

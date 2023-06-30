@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,7 +368,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3167,
+  "EOS_Progressed": 3168,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
@@ -4513,6 +4513,11 @@
       "Time": "2023-06-30T14:05:58.7484992+00:00",
       "NumProgressed": 3167,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-06-30T15:06:09.8883072+00:00",
+      "NumProgressed": 3168,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4994,9 +4999,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -5091,13 +5096,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3118,
+      "Progressed": 3119,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3167,
+      "Progressed": 3168,
       "Completed": 6
     }
   ],
@@ -5105,8 +5110,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:05:58.7484987+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:06:09.8883067+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:00:17.1231807+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:05:58.7485992+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:00:20.2489588+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:06:09.8883819+00:00"
 }

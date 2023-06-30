@@ -4,8 +4,8 @@
   "ProductSlug": "metro-simulator-2-532ff8",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-12-15T10:00:00+00:00",
@@ -25,9 +25,75 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-06-30T15:02:22.6332118+00:00",
+  "TotalAchievements": 8,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ExperiencedWorker",
+      "SetID": "bfbjb50",
+      "Name": "Experienced worker",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstDay",
+      "SetID": "bfbjb50",
+      "Name": "First working day",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstThousand",
+      "SetID": "bfbjb50",
+      "Name": "First thousand",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodWork",
+      "SetID": "bfbjb50",
+      "Name": "Good job",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NomernoyDrive",
+      "SetID": "bfbjb50",
+      "Name": "Perfect ride on Nomernoy",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OkaDrive",
+      "SetID": "bfbjb50",
+      "Name": "Perfect ride on Oka",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TrainDriver",
+      "SetID": "bfbjb50",
+      "Name": "Train driver",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Turnover",
+      "SetID": "bfbjb50",
+      "Name": "Turn around",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bfbjb50",
@@ -37,8 +103,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T09:00:36.7536566+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:02:09.3010228+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:02:22.6332102+00:00",
   "LastUpdate_AppInfo": "2023-06-24T15:57:05.4458437+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:57:01.2574401+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:02:09.3010267+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:57:06.4106156+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:02:22.6332168+00:00"
 }

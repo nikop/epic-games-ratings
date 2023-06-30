@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2582,7 +2582,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49777,
+  "EOS_Progressed": 49778,
   "EOS_Completed": 198,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 4,
@@ -8357,6 +8357,11 @@
       "Time": "2023-06-30T13:17:17.3233384+00:00",
       "NumProgressed": 49777,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-06-30T15:02:23.1569489+00:00",
+      "NumProgressed": 49778,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 45,
@@ -8392,7 +8397,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39324
+      "UsersEstimate": 39325
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8480,7 +8485,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29368
+      "UsersEstimate": 29369
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8488,7 +8493,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22897
+      "UsersEstimate": 22898
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -8504,7 +8509,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23395
+      "UsersEstimate": 23396
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8512,7 +8517,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18417
+      "UsersEstimate": 18418
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -8632,7 +8637,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48284
+      "UsersEstimate": 48285
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8688,7 +8693,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 18417
+      "UsersEstimate": 18418
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -8720,22 +8725,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 35839
+      "UsersEstimate": 35840
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49777,
+      "Progressed": 49778,
       "Completed": 198
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-30T10:00:13.5297442+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:02:09.799982+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:02:23.1569484+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:00:22.58144+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:02:09.8000529+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:00:25.6153677+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:02:23.1570021+00:00"
 }

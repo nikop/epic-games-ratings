@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2170,
+  "EOS_Progressed": 2172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1218,6 +1218,11 @@
       "Time": "2023-06-30T14:05:39.6219099+00:00",
       "NumProgressed": 2170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T15:05:51.0746095+00:00",
+      "NumProgressed": 2172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1259,9 +1264,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1325,7 +1330,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1341,7 +1346,7 @@
       "Name": "Call Me Snake",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1349,7 +1354,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1419,9 +1424,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1445,7 +1450,7 @@
       "Name": "Making a Stand",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_MISSION_05",
@@ -1453,7 +1458,7 @@
       "Name": "Where It All Begun",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1525,7 +1530,7 @@
       "Name": "Snatched Out",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1533,7 +1538,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1541,7 +1546,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1549,7 +1554,7 @@
       "Name": "People Person",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1557,7 +1562,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -1581,14 +1586,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2170,
+      "Progressed": 2172,
       "Completed": 0
     }
   ],
@@ -1596,8 +1601,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-30T12:00:24.7632521+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:05:39.6219093+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:05:51.0746091+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.9793382+00:00",
-  "LastUpdate_Ratings": "2023-06-30T13:59:14.4773218+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:05:39.6219556+00:00"
+  "LastUpdate_Ratings": "2023-06-30T14:59:19.6697214+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:05:51.0746446+00:00"
 }

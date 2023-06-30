@@ -36,6 +36,7 @@
 | Despised | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
+| Life... Finds a Way | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
 | Unseen Patterns | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
@@ -92,7 +93,6 @@
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |
 | The Last Voyage | 0.00% | ~0 |
-| Life... Finds a Way | 0.00% | ~0 |
 | Tax Evasion | 0.00% | ~0 |
 | Theory to Practice | 0.00% | ~0 |
 | Wyrmslayer | 0.00% | ~0 |

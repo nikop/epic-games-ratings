@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~90 |
-| Brute force | 85.00% | ~87 |
+| What's going on here? | 87.00% | ~90 |
+| Brute force | 85.00% | ~88 |
 | Nimble fingers | 77.00% | ~79 |
 | Room 104 | 76.00% | ~78 |
-| Face to face | 75.00% | ~76 |
-| Now or never | 73.00% | ~74 |
-| Let's play a game… | 71.00% | ~72 |
-| Soundtrack | 60.00% | ~61 |
-| First aid | 57.00% | ~58 |
+| Face to face | 75.00% | ~77 |
+| Now or never | 73.00% | ~75 |
+| Let's play a game… | 70.00% | ~72 |
+| Soundtrack | 60.00% | ~62 |
+| First aid | 56.00% | ~58 |
 | Antidote | 45.00% | ~46 |
-| Pick the right door | 21.00% | ~21 |
+| Pick the right door | 20.00% | ~21 |
 | The third floor | 14.00% | ~14 |
 | On the right path | 13.00% | ~13 |
 | One-way | 13.00% | ~13 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 296)  
+Progressed: 103 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 81 | 0 |
 | 2023-06-28 | 91 | 0 |
 | 2023-06-29 | 99 | 0 |
-| 2023-06-30 | 102 | 0 |
+| 2023-06-30 | 103 | 0 |

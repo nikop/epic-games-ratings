@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3037,
+  "EOS_Progressed": 3038,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2349,6 +2349,11 @@
       "Time": "2023-06-30T02:18:52.4846339+00:00",
       "NumProgressed": 3037,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-06-30T15:02:08.5145423+00:00",
+      "NumProgressed": 3038,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2384,7 +2389,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "bonus5",
@@ -2408,7 +2413,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "campaign10",
@@ -2424,7 +2429,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "campaign12",
@@ -2480,7 +2485,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "campaign19",
@@ -2496,7 +2501,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2400
     },
     {
       "ID": "campaign20",
@@ -2512,7 +2517,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "campaign4",
@@ -2520,7 +2525,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "campaign5",
@@ -2544,7 +2549,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "campaign8",
@@ -2568,7 +2573,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "scenario2",
@@ -2576,7 +2581,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "scenario3",
@@ -2600,7 +2605,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "scenario6",
@@ -2608,7 +2613,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "scenario7",
@@ -2623,7 +2628,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3037,
+      "Progressed": 3038,
       "Completed": 10
     }
   ],
@@ -2631,8 +2636,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-06-30T14:00:34.1137865+00:00",
+  "LastChanged_Achievements": "2023-06-30T15:02:08.5145416+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.8425638+00:00",
-  "LastUpdate_Ratings": "2023-06-30T14:00:00.612548+00:00",
-  "LastUpdate_Achievements": "2023-06-30T14:00:34.113828+00:00"
+  "LastUpdate_Ratings": "2023-06-30T15:00:03.7594033+00:00",
+  "LastUpdate_Achievements": "2023-06-30T15:02:08.514574+00:00"
 }

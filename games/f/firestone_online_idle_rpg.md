@@ -30,6 +30,7 @@ Rating: 4.07 (Ranked 895)
 | Scientist | 11.00% | ~168 |
 | Challenger | 9.00% | ~138 |
 | Doing My Part | 9.00% | ~138 |
+| Frostfire Liberator | 9.00% | ~138 |
 | Hunter | 9.00% | ~138 |
 | Mastery | 9.00% | ~138 |
 | Relic Of The Past | 9.00% | ~138 |
@@ -37,7 +38,6 @@ Rating: 4.07 (Ranked 895)
 | The power of Awakening | 9.00% | ~138 |
 | Daily Quest Completionist | 8.00% | ~122 |
 | Four Leaf Clover | 8.00% | ~122 |
-| Frostfire Liberator | 8.00% | ~122 |
 | Moving Up The Ladder | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |

@@ -47,6 +47,7 @@ Rating: 4.45 (Ranked 616)
 | Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
+| Operation Foxley | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
 | Siegebreaker | 0.10% | ~3 |
 | Ghost of Falaise | 0.10% | ~3 |
@@ -72,12 +73,11 @@ Rating: 4.45 (Ranked 616)
 | From Führer Away | 0.00% | ~0 |
 | Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
-| Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,167 (Ranked 145)  
+Progressed: 3,168 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-27 | 3,151 | 6 |
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
-| 2023-06-30 | 3,167 | 6 |
+| 2023-06-30 | 3,168 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | START | 91.00% | ~49 |
-| Ram Corporal | 81.00% | ~44 |
-| Ram Sergeant | 59.00% | ~32 |
-| Ram Staff Sergeant | 57.00% | ~31 |
+| Ram Corporal | 83.00% | ~45 |
+| Ram Sergeant | 61.00% | ~33 |
+| Ram Staff Sergeant | 59.00% | ~32 |
 | Ram First Sergeant | 52.00% | ~28 |
 | Senior Sergeant Baran | 52.00% | ~28 |
 | Sergeant Major Baran | 41.00% | ~22 |

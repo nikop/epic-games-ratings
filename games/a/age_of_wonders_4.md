@@ -17,30 +17,31 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 0.80% | ~39 |
 | Here be Dragons | 0.80% | ~39 |
 | Blood of the Dragon | 0.80% | ~39 |
+| Full Ascension | 0.60% | ~29 |
 | Bone Peddler | 0.60% | ~29 |
 | Seat of Power | 0.60% | ~29 |
+| Impenetrable Fortress | 0.60% | ~29 |
 | Intimidation Tactics | 0.60% | ~29 |
 | There Can Only Be One! | 0.50% | ~24 |
-| Full Ascension | 0.50% | ~24 |
 | Digging for Treasure | 0.50% | ~24 |
 | Fiery Friend | 0.50% | ~24 |
 | Against the Odds | 0.50% | ~24 |
-| Impenetrable Fortress | 0.50% | ~24 |
 | Duality | 0.50% | ~24 |
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
+| Arch Mage | 0.40% | ~20 |
 | Preparation Is Everything | 0.40% | ~20 |
+| In a Liege of Your Own | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
-| Arch Mage | 0.30% | ~15 |
 | The Creator | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
 | Eternal Lord | 0.30% | ~15 |
-| In a Liege of Your Own | 0.30% | ~15 |
 | God Emperor | 0.20% | ~10 |
 | The Goddess of Nature | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
 | The Eternal Court | 0.20% | ~10 |
 | Jack of All Tomes | 0.20% | ~10 |
+| Pruning for Progress | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -48,7 +49,6 @@ Rating: 4.59 (Ranked 410)
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
-| Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |

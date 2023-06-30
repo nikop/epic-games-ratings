@@ -6,7 +6,7 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,654 |
+| Follow the Light | 33.00% | ~18,655 |
 | Let There Be Light | 27.00% | ~15,263 |
 | Float Like a Butterfly | 25.00% | ~14,132 |
 | Nordic Walking | 20.00% | ~11,306 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,528 (Ranked 79)  
+Progressed: 56,529 (Ranked 79)  
 Completed: 56 (0.10%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 56 (0.10%) (Ranked 177)
 | 2023-06-27 | 56,377 | 56 |
 | 2023-06-28 | 56,442 | 56 |
 | 2023-06-29 | 56,498 | 56 |
-| 2023-06-30 | 56,528 | 56 |
+| 2023-06-30 | 56,529 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
