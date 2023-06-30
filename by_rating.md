@@ -222,7 +222,6 @@
 | 219 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 502 |
 | 219 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 502 |
 | 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,476 | 61 |
-| 219 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.69 | 0 | 502 |
 | 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 300 | 232 |
 | 219 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 502 |
 | 219 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 502 |
@@ -239,23 +238,24 @@
 | 219 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 502 |
 | 219 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 502 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 796 | 152 |
-| 240 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,333 | 86 |
-| 240 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,226 | 88 |
-| 240 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 502 |
-| 240 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 502 |
-| 240 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,223 | 47 |
-| 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,854 | 78 |
-| 240 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 502 |
-| 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,557 | 3 |
-| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 192,285 | 4 |
-| 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 204 |
-| 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
-| 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 673 | 165 |
-| 240 | [Revita](games/r/revita.md) | 4.68 | 0 | 502 |
-| 240 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 183 | 275 |
-| 240 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 463 |
-| 240 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 502 |
-| 240 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 87 | 346 |
+| 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,333 | 86 |
+| 239 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,226 | 88 |
+| 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 502 |
+| 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 502 |
+| 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,223 | 47 |
+| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,854 | 78 |
+| 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 502 |
+| 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,557 | 3 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 192,285 | 4 |
+| 239 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.68 | 0 | 502 |
+| 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 204 |
+| 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
+| 239 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 673 | 165 |
+| 239 | [Revita](games/r/revita.md) | 4.68 | 0 | 502 |
+| 239 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 183 | 275 |
+| 239 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 27 | 463 |
+| 239 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 502 |
+| 239 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 87 | 346 |
 | 257 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 502 |
 | 257 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 658 | 167 |
 | 257 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 69 | 371 |
@@ -750,7 +750,7 @@
 | 742 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 502 |
 | 742 | [Paladins](games/p/paladins.md) | 4.34 | 3,354 | 84 |
 | 742 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 502 |
-| 742 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,078 | 63 |
+| 742 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,082 | 63 |
 | 742 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 244 | 247 |
 | 742 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 489 |
 | 754 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 313 |
