@@ -6,30 +6,30 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 84.00% | ~10,425 |
-| Settler | 81.00% | ~10,053 |
+| Play a Single Player Game | 84.00% | ~10,426 |
+| Settler | 81.00% | ~10,054 |
 | Explorer | 79.00% | ~9,805 |
-| Friendly Family | 75.00% | ~9,308 |
+| Friendly Family | 75.00% | ~9,309 |
 | Intrepid | 69.00% | ~8,564 |
 | Architect | 61.00% | ~7,571 |
 | Mason | 61.00% | ~7,571 |
 | Able | 60.00% | ~7,447 |
-| Strong | 59.00% | ~7,322 |
-| Hanging Gardens | 59.00% | ~7,322 |
-| Noble | 57.00% | ~7,074 |
-| Oracle | 57.00% | ~7,074 |
-| Good | 55.00% | ~6,826 |
+| Strong | 59.00% | ~7,323 |
+| Hanging Gardens | 59.00% | ~7,323 |
+| Noble | 57.00% | ~7,075 |
+| Oracle | 57.00% | ~7,075 |
+| Good | 55.00% | ~6,827 |
 | Just | 54.00% | ~6,702 |
 | Keystone | 54.00% | ~6,702 |
 | Judaism | 54.00% | ~6,702 |
 | Glorious | 52.00% | ~6,454 |
 | Trade Caravan | 51.00% | ~6,330 |
 | Naming Landmarks | 50.00% | ~6,206 |
-| Learned | 49.00% | ~6,081 |
-| Fountainhead | 48.00% | ~5,957 |
-| Pioneer | 48.00% | ~5,957 |
-| Zoroastrianism | 48.00% | ~5,957 |
-| Developing Cities | 47.00% | ~5,833 |
+| Learned | 49.00% | ~6,082 |
+| Fountainhead | 48.00% | ~5,958 |
+| Pioneer | 48.00% | ~5,958 |
+| Zoroastrianism | 48.00% | ~5,958 |
+| Developing Cities | 47.00% | ~5,834 |
 | Magnificent | 45.00% | ~5,585 |
 | Strong Cities | 45.00% | ~5,585 |
 | Pyramids | 45.00% | ~5,585 |
@@ -39,12 +39,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 43.00% | ~5,337 |
 | Enlightened | 42.00% | ~5,213 |
 | Roman Paganism | 41.00% | ~5,089 |
-| Great Ziggurat | 40.00% | ~4,964 |
-| Christianity | 40.00% | ~4,964 |
-| Great | 39.00% | ~4,840 |
-| Able Difficulty | 39.00% | ~4,840 |
-| Lighthouse | 39.00% | ~4,840 |
-| Ambitious | 38.00% | ~4,716 |
+| Great Ziggurat | 40.00% | ~4,965 |
+| Christianity | 40.00% | ~4,965 |
+| Great | 39.00% | ~4,841 |
+| Able Difficulty | 39.00% | ~4,841 |
+| Lighthouse | 39.00% | ~4,841 |
+| Ambitious | 38.00% | ~4,717 |
 | Carthaginian Paganism | 37.00% | ~4,592 |
 | Necropolis | 36.00% | ~4,468 |
 | Egyptian Paganism | 36.00% | ~4,468 |
@@ -54,12 +54,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 34.00% | ~4,220 |
 | Drillmaster | 32.00% | ~3,972 |
 | Colossus | 32.00% | ~3,972 |
-| Legendary Cities | 31.00% | ~3,847 |
-| Furious Family | 31.00% | ~3,847 |
-| Learn to Play 1 | 31.00% | ~3,847 |
-| Artisans | 30.00% | ~3,723 |
-| Acropolis | 30.00% | ~3,723 |
-| Mythology | 30.00% | ~3,723 |
+| Legendary Cities | 31.00% | ~3,848 |
+| Furious Family | 31.00% | ~3,848 |
+| Learn to Play 1 | 31.00% | ~3,848 |
+| Artisans | 30.00% | ~3,724 |
+| Acropolis | 30.00% | ~3,724 |
+| Mythology | 30.00% | ~3,724 |
 | Wise | 29.00% | ~3,599 |
 | Just Difficulty | 29.00% | ~3,599 |
 | Mausoleum | 28.00% | ~3,475 |
@@ -76,10 +76,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 23.00% | ~2,855 |
 | Power to the People | 23.00% | ~2,855 |
 | Building Wonders | 23.00% | ~2,855 |
-| Patrons | 22.00% | ~2,730 |
-| Legalism | 22.00% | ~2,730 |
-| Hittite Iron | 21.00% | ~2,606 |
-| Via Recta Souk | 21.00% | ~2,606 |
+| Patrons | 22.00% | ~2,731 |
+| Legalism | 22.00% | ~2,731 |
+| Hittite Iron | 21.00% | ~2,607 |
+| Via Recta Souk | 21.00% | ~2,607 |
 | Mighty | 20.00% | ~2,482 |
 | Hagia Sophia | 20.00% | ~2,482 |
 | Dualism | 20.00% | ~2,482 |
@@ -123,9 +123,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 14.00% | ~1,738 |
 | Carthage | 14.00% | ~1,738 |
 | Turreted Elephant | 14.00% | ~1,738 |
-| Regicide | 13.00% | ~1,613 |
-| Clerics | 13.00% | ~1,613 |
-| Rome | 13.00% | ~1,613 |
+| Regicide | 13.00% | ~1,614 |
+| Clerics | 13.00% | ~1,614 |
+| Rome | 13.00% | ~1,614 |
 | Peacemaker | 12.00% | ~1,489 |
 | Egypt | 12.00% | ~1,489 |
 | One True Faith | 12.00% | ~1,489 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~12 |
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,411 (Ranked 111)  
+Progressed: 12,412 (Ranked 111)  
 Completed: 4 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 4 (0.03%) (Ranked 202)
 | 2023-06-27 | 12,359 | 4 |
 | 2023-06-28 | 12,384 | 4 |
 | 2023-06-29 | 12,403 | 4 |
-| 2023-06-30 | 12,411 | 4 |
+| 2023-06-30 | 12,412 | 4 |
 ## Awards
 Max (Relaxing): 218  (Ranked 254)  
 Sum: 1,774 (Ranked 204)  

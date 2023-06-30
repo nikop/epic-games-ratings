@@ -9,6 +9,7 @@ Rating: 4.19 (Ranked 844)
 | Get a Grip | 0.30% | ~47 |
 | Two Heads Are Better Than One | 0.30% | ~47 |
 | Paper Jams | 0.30% | ~47 |
+| Keep Fighting | 0.30% | ~11 |
 | Giving Back | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
@@ -25,7 +26,6 @@ Rating: 4.19 (Ranked 844)
 | Crash Site | 0.20% | ~31 |
 | Full Circle | 0.20% | ~31 |
 | Power Up | 0.20% | ~31 |
-| Keep Fighting | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Grim Reaper | 0.10% | ~16 |
@@ -37,6 +37,8 @@ Rating: 4.19 (Ranked 844)
 | Terminated | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
+| Instigator | 0.10% | ~4 |
+| Subject Alpha | 0.10% | ~4 |
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | Information Overload | 0.10% | ~4 |
@@ -47,11 +49,9 @@ Rating: 4.19 (Ranked 844)
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |
-| Instigator | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 | Bear Trap | 0.00% | ~0 |
 | Hoard Mode | 0.00% | ~0 |
-| Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,591 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  

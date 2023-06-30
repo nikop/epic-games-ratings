@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Self-Defence | 33.00% | ~2 |
 | Mirror, Mirror on the Wall | 17.00% | ~1 |
 | Tinkerer | 17.00% | ~1 |
 | Defeat Ingla | 17.00% | ~1 |
 | Defeat Tezuth | 17.00% | ~1 |
 | Defeat Uskol | 17.00% | ~1 |
 | Bringing guns to a sword fight | 17.00% | ~1 |
-| Self-Defence | 17.00% | ~1 |
 | Freezing Cold | 17.00% | ~1 |
 | Searing Heat | 17.00% | ~1 |
 | Through Dangers Untold | 17.00% | ~1 |

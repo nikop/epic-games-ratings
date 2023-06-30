@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:03:32.9481883+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:03:29.3590118+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:31.7731249+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:58:11.7633392+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:03:32.9482202+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:58:20.9237856+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:03:29.3590553+00:00"
 }

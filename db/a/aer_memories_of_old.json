@@ -374,7 +374,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13955,
+  "EOS_Progressed": 13958,
   "EOS_Completed": 293,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 16,
@@ -7674,6 +7674,11 @@
       "Time": "2023-06-30T06:06:44.8256004+00:00",
       "NumProgressed": 13955,
       "NumCompleted": 293
+    },
+    {
+      "Time": "2023-06-30T07:06:56.5725647+00:00",
+      "NumProgressed": 13958,
+      "NumCompleted": 293
     }
   ],
   "TotalAchievements": 20,
@@ -7701,7 +7706,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -7733,7 +7738,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -7749,7 +7754,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "FOUND_ERIN",
@@ -7797,7 +7802,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "INTRO_FINISHED",
@@ -7805,7 +7810,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10606
+      "UsersEstimate": 10608
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -7813,7 +7818,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3907
+      "UsersEstimate": 3908
     },
     {
       "ID": "NORTH_FINISHED",
@@ -7837,22 +7842,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 13955,
+      "Progressed": 13958,
       "Completed": 293
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:44.8255999+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:06:56.5725641+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:20.9391077+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:00:35.9395798+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:44.8256459+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:00:55.9101537+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:06:56.5726398+00:00"
 }

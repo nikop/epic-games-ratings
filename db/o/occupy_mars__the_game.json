@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1361,
+  "EOS_Progressed": 1362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2493,6 +2493,11 @@
       "Time": "2023-06-29T19:05:17.2182787+00:00",
       "NumProgressed": 1361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T07:05:15.1243+00:00",
+      "NumProgressed": 1362,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2584,7 +2589,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -2704,7 +2709,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -2776,7 +2781,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2864,7 +2869,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2887,7 +2892,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1361,
+      "Progressed": 1362,
       "Completed": 0
     }
   ],
@@ -2895,8 +2900,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:05:11.8099377+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:05:15.1242991+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.2474768+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:57:46.172196+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:05:11.8099802+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:57:52.1503974+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:05:15.1243591+00:00"
 }

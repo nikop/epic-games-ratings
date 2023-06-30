@@ -2,7 +2,7 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 172,
@@ -2236,9 +2236,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 719
     },
     {
       "ID": "achAccumulate1B",
@@ -2716,8 +2716,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:58.805665+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:07:11.1875463+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:48.2488994+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:00:08.9072827+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:58.805715+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:00:25.7971164+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:07:11.1876147+00:00"
 }

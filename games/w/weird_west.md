@@ -8,7 +8,7 @@ Number of Ratings: 125  (23.09.2022)
 | ---- | ---------- | ----- |
 | Unforgiven | 87.00% | ~1,456 |
 | Self-Improvement | 72.00% | ~1,205 |
-| Perky | 66.00% | ~1,104 |
+| Perky | 66.00% | ~1,105 |
 | Let’s Ride | 60.00% | ~1,004 |
 | Welcome to the Weird West | 57.00% | ~954 |
 | Dead or Alive | 56.00% | ~937 |
@@ -26,18 +26,18 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 16.00% | ~268 |
 | Here Comes Santa Claus | 16.00% | ~268 |
 | Winds of War | 16.00% | ~268 |
-| Dog Days | 13.00% | ~217 |
-| Workers' Rights | 13.00% | ~217 |
+| Dog Days | 13.00% | ~218 |
+| Workers' Rights | 13.00% | ~218 |
 | Elusive Prey | 12.00% | ~201 |
 | Out on the Ebb Tide | 12.00% | ~201 |
 | Power Behind the Pulpit | 12.00% | ~201 |
 | Something Wicked This Way Comes… | 12.00% | ~201 |
 | There is Hope | 12.00% | ~201 |
 | Turning the Tables | 12.00% | ~201 |
-| The Philosopher’s Stone | 10.00% | ~167 |
 | Loyalty to the Pack | 9.00% | ~151 |
 | Eternity Can Wait | 9.00% | ~151 |
 | Mystery Machine | 9.00% | ~151 |
+| The Philosopher’s Stone | 9.00% | ~151 |
 | Gold Digger | 8.00% | ~134 |
 | Knuckle Sandwich | 8.00% | ~134 |
 | Do Not Pass Go… | 7.00% | ~117 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,673 (Ranked 166)  
+Progressed: 1,674 (Ranked 166)  
 Completed: 3 (0.18%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 3 (0.18%) (Ranked 163)
 | 2023-06-26 | 1,670 | 3 |
 | 2023-06-28 | 1,671 | 3 |
 | 2023-06-29 | 1,673 | 3 |
+| 2023-06-30 | 1,674 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 474)  
 Sum: 24 (Ranked 479)  

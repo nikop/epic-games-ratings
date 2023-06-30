@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,137 |
-| The Mad Wizard | 10.00% | ~20,098 |
-| The Ring of Regeneration | 6.00% | ~12,059 |
-| Are Ya Chicken? | 6.00% | ~12,059 |
-| Were-verpowered | 5.00% | ~10,049 |
-| Seeking Allies | 4.00% | ~8,039 |
-| Mad Cow Disease | 4.00% | ~8,039 |
-| Friendly Imps | 4.00% | ~8,039 |
-| Pure Energy | 4.00% | ~8,039 |
-| A Persistent Buzzing | 3.00% | ~6,029 |
-| Terror in the Dark | 3.00% | ~6,029 |
-| The Crumbling Temple | 3.00% | ~6,029 |
-| Beast Mode | 2.00% | ~4,020 |
-| A Mysterious Summons | 2.00% | ~4,020 |
-| Unearthed Evil | 2.00% | ~4,020 |
-| Useless Allies | 2.00% | ~4,020 |
-| Exploring Port Nyanzaru | 2.00% | ~4,020 |
-| Running of the Saurs | 2.00% | ~4,020 |
-| The Contagious Curse | 2.00% | ~4,020 |
-| Escort to Waterdeep | 2.00% | ~4,020 |
-| Waterdeep Detours | 2.00% | ~4,020 |
+| The Cursed Farmer | 14.00% | ~28,144 |
+| The Mad Wizard | 10.00% | ~20,103 |
+| The Ring of Regeneration | 6.00% | ~12,062 |
+| Are Ya Chicken? | 6.00% | ~12,062 |
+| Were-verpowered | 5.00% | ~10,052 |
+| Seeking Allies | 4.00% | ~8,041 |
+| Mad Cow Disease | 4.00% | ~8,041 |
+| Friendly Imps | 4.00% | ~8,041 |
+| Pure Energy | 4.00% | ~8,041 |
+| A Persistent Buzzing | 3.00% | ~6,031 |
+| Terror in the Dark | 3.00% | ~6,031 |
+| The Crumbling Temple | 3.00% | ~6,031 |
+| Beast Mode | 2.00% | ~4,021 |
+| A Mysterious Summons | 2.00% | ~4,021 |
+| Unearthed Evil | 2.00% | ~4,021 |
+| Useless Allies | 2.00% | ~4,021 |
+| Exploring Port Nyanzaru | 2.00% | ~4,021 |
+| Running of the Saurs | 2.00% | ~4,021 |
+| The Contagious Curse | 2.00% | ~4,021 |
+| Escort to Waterdeep | 2.00% | ~4,021 |
+| Waterdeep Detours | 2.00% | ~4,021 |
 | Low Initiative | 1.00% | ~2,010 |
 | Building Trust | 1.00% | ~2,010 |
 | March of the Undead | 1.00% | ~2,010 |
@@ -71,7 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.50% | ~1,005 |
 | The Darkness Runs Deeper | 0.50% | ~1,005 |
 | Market Fluctuations | 0.50% | ~1,005 |
-| The Giant's Bane Tavern | 0.50% | ~836 |
+| The Giant's Bane Tavern | 0.50% | ~837 |
 | Rude Welcome | 0.50% | ~1,005 |
 | Durable Deep | 0.50% | ~1,005 |
 | Force Grey Unleashed | 0.40% | ~804 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,979 (Ranked 52)  
+Progressed: 201,032 (Ranked 52)  
 Completed: 2,022 (1.01%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 2,022 (1.01%) (Ranked 100)
 | 2023-06-27 | 188,215 | 2,018 |
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
-| 2023-06-30 | 200,979 | 2,022 |
+| 2023-06-30 | 201,032 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,985  (Ranked 64)  
 Sum: 30,308 (Ranked 37)  

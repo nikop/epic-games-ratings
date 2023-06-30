@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2712,9 +2712,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 635
     },
     {
       "ID": "30",
@@ -2945,8 +2945,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:42.1395372+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:06:53.6596624+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:56:52.8104045+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:57:45.4728165+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:42.1395833+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:57:51.616684+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:06:53.6597376+00:00"
 }

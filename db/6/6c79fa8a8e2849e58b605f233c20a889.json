@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1832,
+  "EOS_Progressed": 1834,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -2976,6 +2976,11 @@
       "Time": "2023-06-30T05:04:31.1270939+00:00",
       "NumProgressed": 1832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-30T07:04:58.7363536+00:00",
+      "NumProgressed": 1834,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3067,7 +3072,7 @@
       "Name": "Novice",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3091,7 +3096,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "GUARD_MAKER",
@@ -3131,7 +3136,7 @@
       "Name": "Chief Physician",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -3147,7 +3152,7 @@
       "Name": "Smarter than a Bear",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WIZARD_MASTERY",
@@ -3162,14 +3167,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1832,
+      "Progressed": 1834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:04:56.3318513+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:04:58.7363532+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:57:24.0095547+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:04:56.3318782+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:57:27.5467922+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:04:58.7363933+00:00"
 }

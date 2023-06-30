@@ -697,9 +697,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 28856,
+  "EOS_Progressed": 28859,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8192,6 +8192,11 @@
       "Time": "2023-06-30T06:06:41.7457552+00:00",
       "NumProgressed": 28856,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-30T07:06:53.1740056+00:00",
+      "NumProgressed": 28859,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -8243,7 +8248,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 7214
+      "UsersEstimate": 7215
     },
     {
       "ID": "goals180",
@@ -8283,7 +8288,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "journeyer",
@@ -8323,7 +8328,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "novice",
@@ -8395,7 +8400,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "proximityFly1000",
@@ -8475,7 +8480,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "vandal",
@@ -8514,15 +8519,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 28856,
+      "Progressed": 28859,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-28T23:00:30.7076755+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:41.7457547+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:06:53.1740048+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:14.4483031+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:59:40.7769304+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:41.7458146+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:59:56.8730848+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:06:53.1740844+00:00"
 }

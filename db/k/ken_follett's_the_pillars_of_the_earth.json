@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13607,
+  "EOS_Progressed": 13608,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5179,6 +5179,11 @@
       "Time": "2023-06-30T06:06:39.0821705+00:00",
       "NumProgressed": 13607,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-30T07:06:50.6213524+00:00",
+      "NumProgressed": 13608,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5230,7 +5235,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4627
     },
     {
       "ID": "tpote_achievement_15",
@@ -5270,7 +5275,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "tpote_achievement_2",
@@ -5278,7 +5283,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4627
     },
     {
       "ID": "tpote_achievement_20",
@@ -5302,7 +5307,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "tpote_achievement_23",
@@ -5342,7 +5347,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "tpote_achievement_28",
@@ -5366,7 +5371,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4490
+      "UsersEstimate": 4491
     },
     {
       "ID": "tpote_achievement_30",
@@ -5494,7 +5499,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "tpote_achievement_8",
@@ -5510,22 +5515,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13607,
+      "Progressed": 13608,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:39.08217+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:06:50.6213518+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:00:25.7668468+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:39.0822188+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:00:43.9659877+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:06:50.6214292+00:00"
 }

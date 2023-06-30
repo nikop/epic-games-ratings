@@ -1,11 +1,11 @@
 # Borderlands 3
 [Store](https://store.epicgames.com/en-US/p/borderlands-3)  
 [View Rawdata](../../db/b/borderlands_3.json)  
-Rating: 4.69 (Ranked 219)  
+Rating: 4.69 (Ranked 220)  
 Number of Ratings: 151,211  (23.09.2022)  
 ## Awards
 Max (Character Customization): 112,132  (Ranked 8)  
-Sum: 351,696 (Ranked 9)  
+Sum: 351,709 (Ranked 9)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 24,368 |
 | This game has Quickly Understood Controls | 24,152 |
 | This game is Relaxing | 23,788 |
-| This game has Amazing Characters | 23,602 |
+| This game has Amazing Characters | 23,615 |
 | This game has Unique Visuals | 23,290 |
 | This game has a Creative Community | 17,060 |
 ## Ratings History
@@ -178,4 +178,4 @@ Diff (max vs sum): -1
 | 2023-06-27 | 4.69 | - | 112,024 | 351,258 |
 | 2023-06-28 | 4.69 | - | 112,079 | 351,463 |
 | 2023-06-29 | 4.69 | - | 112,132 | 351,664 |
-| 2023-06-30 | 4.69 | - | 112,132 | 351,696 |
+| 2023-06-30 | 4.69 | - | 112,132 | 351,709 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2824,
-  "EOS_Completed": 94,
+  "EOS_Progressed": 2825,
+  "EOS_Completed": 95,
   "EOS_NewPlayers": 49,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -2831,6 +2831,11 @@
       "Time": "2023-06-30T02:23:55.8945341+00:00",
       "NumProgressed": 2824,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-06-30T07:06:43.6228785+00:00",
+      "NumProgressed": 2825,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 5,
@@ -2842,7 +2847,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "2",
@@ -2881,16 +2886,16 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2824,
-      "Completed": 94
+      "Progressed": 2825,
+      "Completed": 95
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:06:33.0382898+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:06:43.622878+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:09.3105494+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:58:42.8748254+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:06:33.0383395+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:58:55.2497337+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:06:43.6229092+00:00"
 }

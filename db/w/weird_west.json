@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1673,
+  "EOS_Progressed": 1674,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1225,6 +1225,11 @@
       "Time": "2023-06-29T19:03:13.0742568+00:00",
       "NumProgressed": 1673,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-06-30T07:01:39.8725888+00:00",
+      "NumProgressed": 1674,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1268,7 +1273,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1484,7 +1489,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1578,9 +1583,9 @@
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
       "SetID": "8j30i9k",
       "Name": "The Philosopher\u2019s Stone",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -1652,22 +1657,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1673,
+      "Progressed": 1674,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:01:14.6174127+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:01:39.8725884+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:18.0833954+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:58:49.6526894+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:01:14.6174566+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:59:02.4005998+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:01:39.8726642+00:00"
 }

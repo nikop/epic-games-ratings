@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "Combine",
       "SetID": "gl7plp",
       "Name": "1\u002B1\u003E2",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "Deadly_Kombationem",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:03:18.0864649+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:03:13.500015+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:10.9888642+00:00",
-  "LastUpdate_Ratings": "2023-06-30T05:57:56.2024054+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:03:18.0864864+00:00"
+  "LastUpdate_Ratings": "2023-06-30T06:58:03.9888839+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:03:13.5000445+00:00"
 }

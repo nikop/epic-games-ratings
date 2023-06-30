@@ -8,7 +8,7 @@ Number of Ratings: 401  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~11,682 |
 | Sweet Sorrow | 18.00% | ~5,841 |
-| Rules the Waves | 17.00% | ~5,516 |
+| Rules the Waves | 17.00% | ~5,517 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,868 |
 | Rival | 14.00% | ~4,543 |
 | Correspondent | 12.00% | ~3,894 |
@@ -23,27 +23,27 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,272 |
 | Open Your Ears | 7.00% | ~2,272 |
 | The Ascent of Man | 7.00% | ~2,272 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,622 |
-| Zee Fever | 5.00% | ~1,622 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,623 |
+| Zee Fever | 5.00% | ~1,623 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,298 |
 | Storm's Curse | 3.00% | ~974 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~974 |
 | Come Closer | 3.00% | ~974 |
 | Roaring Rise | 2.00% | ~649 |
 | I am the Captain of my Soul | 2.00% | ~649 |
-| A buoyant escape | 1.00% | ~324 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~324 |
-| The Bell Tolls | 1.00% | ~324 |
-| His bones in whispers | 1.00% | ~324 |
-| The beauty of the deep | 1.00% | ~324 |
-| The dragon in the zee | 1.00% | ~324 |
-| Thanks for all the fish | 1.00% | ~324 |
-| Knife, Cup and Bone | 1.00% | ~324 |
-| Those are pearls that were his eyes | 1.00% | ~324 |
-| No regrets | 1.00% | ~324 |
-| Rosewater sailor | 1.00% | ~324 |
-| Under the zee | 1.00% | ~324 |
-| A current under zee | 1.00% | ~324 |
+| A buoyant escape | 1.00% | ~325 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~325 |
+| The Bell Tolls | 1.00% | ~325 |
+| His bones in whispers | 1.00% | ~325 |
+| The beauty of the deep | 1.00% | ~325 |
+| The dragon in the zee | 1.00% | ~325 |
+| Thanks for all the fish | 1.00% | ~325 |
+| Knife, Cup and Bone | 1.00% | ~325 |
+| Those are pearls that were his eyes | 1.00% | ~325 |
+| No regrets | 1.00% | ~325 |
+| Rosewater sailor | 1.00% | ~325 |
+| Under the zee | 1.00% | ~325 |
+| A current under zee | 1.00% | ~325 |
 | A zee-change | 0.90% | ~292 |
 | Never Stop Sinking... | 0.90% | ~292 |
 | Leviathan | 0.90% | ~292 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~32 |
 | Ten Years at Zee | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,450 (Ranked 91)  
+Progressed: 32,451 (Ranked 91)  
 Completed: 3 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.01%) (Ranked 218)
 | 2023-06-27 | 32,329 | 3 |
 | 2023-06-28 | 32,395 | 3 |
 | 2023-06-29 | 32,441 | 3 |
-| 2023-06-30 | 32,450 | 3 |
+| 2023-06-30 | 32,451 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

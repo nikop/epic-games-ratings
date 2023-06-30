@@ -24,7 +24,7 @@ Rating: 4.56 (Ranked 454)
 | Annakin Skyscroller | 14.00% | ~90 |
 | In the smacker...I think | 10.00% | ~64 |
 | Arm Wrestlin' | 9.00% | ~58 |
-| 1+1>2 | 8.00% | ~51 |
+| 1+1>2 | 9.00% | ~58 |
 | This can't be right… | 8.00% | ~51 |
 | Clarity of Mind | 7.00% | ~45 |
 | I'm walking here! | 7.00% | ~45 |

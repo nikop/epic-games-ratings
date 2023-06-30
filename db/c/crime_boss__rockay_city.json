@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2310,9 +2310,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68019,
+  "EOS_Progressed": 68020,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9735,6 +9735,11 @@
       "Time": "2023-06-30T06:03:47.6976724+00:00",
       "NumProgressed": 68019,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-30T07:03:45.2811662+00:00",
+      "NumProgressed": 68020,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9770,7 +9775,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8842
+      "UsersEstimate": 8843
     },
     {
       "ID": "ACH_0014",
@@ -9890,7 +9895,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44212
+      "UsersEstimate": 44213
     },
     {
       "ID": "ACH_0210",
@@ -9898,7 +9903,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50334
+      "UsersEstimate": 50335
     },
     {
       "ID": "ACH_0211",
@@ -9962,7 +9967,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23126
+      "UsersEstimate": 23127
     },
     {
       "ID": "ACH_0420",
@@ -9970,7 +9975,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23126
+      "UsersEstimate": 23127
     },
     {
       "ID": "ACH_0430",
@@ -10041,7 +10046,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68019,
+      "Progressed": 68020,
       "Completed": 35
     }
   ],
@@ -10049,8 +10054,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-29T19:00:39.1951355+00:00",
-  "LastChanged_Achievements": "2023-06-30T06:03:47.6976719+00:00",
+  "LastChanged_Achievements": "2023-06-30T07:03:45.2811656+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-30T06:00:25.2555994+00:00",
-  "LastUpdate_Achievements": "2023-06-30T06:03:47.6977262+00:00"
+  "LastUpdate_Ratings": "2023-06-30T07:00:43.8569962+00:00",
+  "LastUpdate_Achievements": "2023-06-30T07:03:45.2812501+00:00"
 }
