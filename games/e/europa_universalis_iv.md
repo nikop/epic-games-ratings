@@ -6,20 +6,19 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,688 |
-| That's a Grand Army | 8.00% | ~5,056 |
-| That is mine! | 8.00% | ~5,056 |
-| Victorious! | 8.00% | ~5,056 |
-| Brothers in Arms | 6.00% | ~3,792 |
-| That's a Grand Navy | 6.00% | ~3,792 |
-| Seriously?! | 6.00% | ~3,792 |
+| Until death do us apart | 9.00% | ~5,689 |
+| That's a Grand Army | 8.00% | ~5,057 |
+| That is mine! | 8.00% | ~5,057 |
+| Victorious! | 8.00% | ~5,057 |
+| Brothers in Arms | 6.00% | ~3,793 |
+| That's a Grand Navy | 6.00% | ~3,793 |
+| Seriously?! | 6.00% | ~3,793 |
 | For the Glory | 5.00% | ~3,160 |
 | Cold War | 4.00% | ~2,528 |
 | True Catholic | 4.00% | ~2,528 |
 | Defender of the Faith | 3.00% | ~1,896 |
 | It's all about the money | 3.00% | ~1,896 |
 | Respected | 3.00% | ~1,896 |
-| The Princess is in this Castle | 3.00% | ~1,896 |
 | Truly Divine Ruler | 3.00% | ~1,896 |
 | Agressive Expander | 2.00% | ~1,264 |
 | Blockader | 2.00% | ~1,264 |
@@ -30,6 +29,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 2.00% | ~1,264 |
 | Queen of Conquest | 2.00% | ~1,264 |
 | Royal Authority | 2.00% | ~1,264 |
+| The Princess is in this Castle | 2.00% | ~1,264 |
 | Total Control | 2.00% | ~1,264 |
 | All That's Thine Shall Be Mine | 1.00% | ~632 |
 | Azur semé de lis or | 1.00% | ~632 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,199 (Ranked 77)  
+Progressed: 63,209 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,16 +432,17 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 62,321 | 0 |
 | 2023-06-28 | 62,759 | 0 |
 | 2023-06-29 | 63,199 | 0 |
+| 2023-06-30 | 63,209 | 0 |
 ## Awards
 Max (Educational): 5,476  (Ranked 61)  
-Sum: 45,214 (Ranked 27)  
+Sum: 45,217 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,476 |
 | This game is Highly Recommended | 5,247 |
 | This game has Challenging Combat | 5,210 |
-| This game is Extremely Fun | 5,196 |
+| This game is Extremely Fun | 5,199 |
 | This game has Diverse Characters | 5,152 |
 | This game is Relaxing | 5,073 |
 | This game has Competitive Players | 4,912 |
@@ -614,4 +615,4 @@ Diff (max vs sum): 34
 | 2023-06-26 | 4.69 | - | 5,452 | 45,064 |
 | 2023-06-27 | 4.69 | - | 5,461 | 45,122 |
 | 2023-06-28 | 4.69 | - | 5,469 | 45,178 |
-| 2023-06-29 | 4.69 | - | 5,476 | 45,214 |
+| 2023-06-29 | 4.69 | - | 5,476 | 45,217 |

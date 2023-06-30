@@ -1814,9 +1814,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66114,
+  "EOS_Progressed": 66118,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8079,6 +8079,11 @@
       "Time": "2023-06-29T23:05:55.8883639+00:00",
       "NumProgressed": 66114,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-30T00:06:13.6981313+00:00",
+      "NumProgressed": 66118,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8138,7 +8143,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -8194,7 +8199,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "CLAYFACE_2",
@@ -8314,7 +8319,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "FREEZE_1_5",
@@ -8322,7 +8327,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "FREEZE_2",
@@ -8402,7 +8407,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "HARLEY_3",
@@ -8410,7 +8415,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "HARLEY_4",
@@ -8458,7 +8463,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -8466,7 +8471,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -8490,7 +8495,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "MYSTERY_03",
@@ -8498,7 +8503,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "MYSTERY_04",
@@ -8544,9 +8549,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 1322
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -8577,13 +8582,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66114,
+      "Progressed": 66118,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36394,
+      "Progressed": 36398,
       "Completed": 2647
     }
   ],
@@ -8591,8 +8596,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-06-29T05:00:14.2117772+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:05:55.8883634+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:06:13.6981308+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:59:29.0096349+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:05:55.8884383+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:59:36.4506192+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:06:13.6982593+00:00"
 }

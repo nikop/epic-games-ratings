@@ -790,7 +790,7 @@
   ],
   "EOS_Progressed": 15589,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -5031,9 +5031,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -5095,9 +5095,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "KILL_ROBOT",
@@ -5135,9 +5135,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "PRINT_WEAPON",
@@ -5175,17 +5175,17 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "STORY_MINETOWN",
@@ -5207,9 +5207,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "STORY_TOWER",
@@ -5223,9 +5223,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "DISMEMBER_100",
@@ -5358,8 +5358,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-06-29T18:58:22.9661054+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:04:43.3526637+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:05:01.9534613+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:34.7766534+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:57:52.1114291+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:04:43.3527162+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:57:59.6917499+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:05:01.9535108+00:00"
 }

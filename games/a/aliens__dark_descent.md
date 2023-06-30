@@ -5,17 +5,17 @@ Rating: 4.53 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,646 |
-| Snatched Out | 69.00% | ~1,475 |
-| Keep 'Em Coming | 68.00% | ~1,454 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~1,647 |
+| Snatched Out | 69.00% | ~1,476 |
+| Keep 'Em Coming | 68.00% | ~1,455 |
 | Cleaning Lethe, One Nest At A Time | 57.00% | ~1,219 |
-| Call Me Snake | 51.00% | ~1,090 |
-| Something Lurks Under The Hills | 50.00% | ~1,069 |
+| Call Me Snake | 51.00% | ~1,091 |
+| Something Lurks Under The Hills | 50.00% | ~1,070 |
 | This Was No Papercut | 49.00% | ~1,048 |
-| The Shrink Hates Me | 45.00% | ~962 |
+| The Shrink Hates Me | 45.00% | ~963 |
 | Use The Bumper, That's What It's For | 42.00% | ~898 |
 | People Person | 42.00% | ~898 |
-| First Steps Into Madness | 38.00% | ~812 |
+| First Steps Into Madness | 38.00% | ~813 |
 | Colonial Barrels | 37.00% | ~791 |
 | Damn Dude, You Gotta Lose Some Weight! | 33.00% | ~706 |
 | Harper's Hell | 28.00% | ~599 |
@@ -27,8 +27,8 @@ Rating: 4.53 (Ranked 504)
 | Living Nightmare | 13.00% | ~278 |
 | Stuff Of Nightmares | 12.00% | ~257 |
 | The Darwin Era Was Here | 10.00% | ~214 |
-| Come on, You Wanna Live Forever? | 9.00% | ~192 |
-| Deep Into Insanity | 9.00% | ~192 |
+| Come on, You Wanna Live Forever? | 9.00% | ~193 |
+| Deep Into Insanity | 9.00% | ~193 |
 | El Riesgo Siempre Vive | 8.00% | ~171 |
 | The Passenger | 8.00% | ~171 |
 | One For Every Occasion | 7.00% | ~150 |
@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 504)
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,138 (Ranked 158)  
+Progressed: 2,139 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 1,934 | 0 |
 | 2023-06-28 | 2,037 | 0 |
 | 2023-06-29 | 2,138 | 0 |
+| 2023-06-30 | 2,139 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

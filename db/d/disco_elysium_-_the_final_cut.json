@@ -1151,9 +1151,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122425,
+  "EOS_Progressed": 122426,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7941,6 +7941,11 @@
       "Time": "2023-06-29T23:05:50.8681938+00:00",
       "NumProgressed": 122425,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-06-30T00:06:08.8553075+00:00",
+      "NumProgressed": 122426,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -7984,7 +7989,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22036
+      "UsersEstimate": 22037
     },
     {
       "ID": "ACH_COP_BAD",
@@ -7992,7 +7997,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_COP_BORING",
@@ -8072,7 +8077,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -8104,7 +8109,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_DOLORES",
@@ -8240,7 +8245,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -8271,15 +8276,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122425,
+      "Progressed": 122426,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-23T02:22:28.7645217+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:05:50.8681933+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:06:08.855307+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:01.6581379+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:58:54.2848294+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:05:50.8682511+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:59:02.6542941+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:06:08.8553654+00:00"
 }

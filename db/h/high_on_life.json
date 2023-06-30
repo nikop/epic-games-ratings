@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22950,
+  "EOS_Progressed": 22951,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1919,6 +1919,11 @@
       "Time": "2023-06-29T21:06:37.4109041+00:00",
       "NumProgressed": 22950,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-06-30T00:05:12.1985775+00:00",
+      "NumProgressed": 22951,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1954,7 +1959,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9868
+      "UsersEstimate": 9869
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -1970,7 +1975,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6655
+      "UsersEstimate": 6656
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2034,7 +2039,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19048
+      "UsersEstimate": 19049
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2050,7 +2055,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13082
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2058,7 +2063,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13540
+      "UsersEstimate": 13541
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2098,7 +2103,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -2185,22 +2190,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22950,
+      "Progressed": 22951,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 243,
-      "Completed": 243
+      "Progressed": 244,
+      "Completed": 244
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:04:53.6260814+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:05:12.198577+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:41.019228+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:57:57.8705148+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:04:53.6261083+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:58:05.3491435+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:05:12.1986033+00:00"
 }

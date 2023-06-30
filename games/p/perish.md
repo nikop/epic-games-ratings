@@ -7,6 +7,7 @@
 | To Suffer is to Learn | 5.00% | ~153 |
 | Lochos | 5.00% | ~153 |
 | Initiate's Resolve | 5.00% | ~153 |
+| Go For the Head | 4.00% | ~122 |
 | Missilis | 4.00% | ~122 |
 | Modest Earnings | 4.00% | ~122 |
 | Armaments of the Pantheon | 4.00% | ~122 |
@@ -15,7 +16,6 @@
 | Reign in Blood | 4.00% | ~122 |
 | Pillars of Eternity | 3.00% | ~92 |
 | Immolator | 3.00% | ~92 |
-| Go For the Head | 3.00% | ~92 |
 | Spartan Sandal | 3.00% | ~92 |
 | War Chest | 3.00% | ~92 |
 | Symbols of Heresy | 3.00% | ~92 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2570,9 +2570,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49769,
+  "EOS_Progressed": 49770,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -8305,6 +8305,11 @@
       "Time": "2023-06-29T22:02:09.4500084+00:00",
       "NumProgressed": 49769,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-06-30T00:02:08.0883674+00:00",
+      "NumProgressed": 49770,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 45,
@@ -8452,7 +8457,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23391
+      "UsersEstimate": 23392
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8468,7 +8473,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15428
+      "UsersEstimate": 15429
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -8508,7 +8513,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28368
+      "UsersEstimate": 28369
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8540,7 +8545,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -8556,7 +8561,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28866
+      "UsersEstimate": 28867
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8564,7 +8569,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8958
+      "UsersEstimate": 8959
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -8580,7 +8585,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48276
+      "UsersEstimate": 48277
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8620,7 +8625,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35336
+      "UsersEstimate": 35337
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8675,15 +8680,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49769,
+      "Progressed": 49770,
       "Completed": 197
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-06-29T13:16:08.1946991+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:00:29.3832009+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:02:08.088367+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:56.4027188+00:00",
-  "LastUpdate_Ratings": "2023-06-29T23:00:13.2742873+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:00:29.3832558+00:00"
+  "LastUpdate_Ratings": "2023-06-30T00:00:20.4844649+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:02:08.0884257+00:00"
 }

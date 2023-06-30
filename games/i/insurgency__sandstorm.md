@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~19,995 |
-| Wallbanger | 5.00% | ~19,995 |
-| Exploitative | 4.00% | ~15,996 |
-| High Speed Low Drag | 4.00% | ~15,996 |
-| Wet Feet | 4.00% | ~15,996 |
-| Checkpoint Victory | 3.00% | ~11,997 |
-| Lucky | 3.00% | ~11,997 |
-| Stylin' | 3.00% | ~11,997 |
-| Turf War | 3.00% | ~11,997 |
-| Banged | 2.00% | ~7,998 |
-| First Blood | 2.00% | ~7,998 |
-| Flaccid Paralysis | 2.00% | ~7,998 |
-| Push Victory | 2.00% | ~7,998 |
-| Self-destructive | 2.00% | ~7,998 |
+| Point Shooting | 5.00% | ~19,997 |
+| Wallbanger | 5.00% | ~19,997 |
+| Exploitative | 4.00% | ~15,997 |
+| High Speed Low Drag | 4.00% | ~15,997 |
+| Wet Feet | 4.00% | ~15,997 |
+| Checkpoint Victory | 3.00% | ~11,998 |
+| Lucky | 3.00% | ~11,998 |
+| Stylin' | 3.00% | ~11,998 |
+| Turf War | 3.00% | ~11,998 |
+| Banged | 2.00% | ~7,999 |
+| First Blood | 2.00% | ~7,999 |
+| Flaccid Paralysis | 2.00% | ~7,999 |
+| Push Victory | 2.00% | ~7,999 |
+| Self-destructive | 2.00% | ~7,999 |
 | Blindfire | 1.00% | ~3,999 |
 | Efficient | 1.00% | ~3,999 |
 | Ruthless | 1.00% | ~3,999 |
@@ -29,10 +29,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~3,599 |
 | Grounded | 0.80% | ~3,199 |
 | Play to Win | 0.80% | ~3,199 |
-| #1 | 0.70% | ~2,799 |
-| Special Delivery | 0.70% | ~2,799 |
-| Firefight Victory | 0.60% | ~2,399 |
-| Cinematic | 0.50% | ~1,999 |
+| #1 | 0.70% | ~2,800 |
+| Special Delivery | 0.70% | ~2,800 |
+| Firefight Victory | 0.60% | ~2,400 |
+| Cinematic | 0.50% | ~2,000 |
 | Thanks Station! | 0.40% | ~1,600 |
 | Knock Knock | 0.30% | ~1,200 |
 | There For You | 0.30% | ~1,200 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~400 |
 | Road Hazard | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,892 (Ranked 39)  
+Progressed: 399,935 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 2 (0.00%) (Ranked 230)
 | 2023-06-27 | 398,824 | 2 |
 | 2023-06-28 | 399,320 | 2 |
 | 2023-06-29 | 399,892 | 2 |
+| 2023-06-30 | 399,935 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 361  (Ranked 217)  
 Sum: 2,748 (Ranked 166)  

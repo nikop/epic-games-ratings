@@ -11,10 +11,10 @@ Rating: 4.59 (Ranked 411)
 | A Wonderful Discovery | 0.80% | ~39 |
 | Magical Synergy | 0.80% | ~39 |
 | My Final Form | 0.80% | ~39 |
+| Mighty Hoard | 0.80% | ~39 |
 | Walls Cannot Stop Us | 0.70% | ~34 |
 | From Friends to Family | 0.70% | ~34 |
 | Stronger Together | 0.70% | ~34 |
-| Mighty Hoard | 0.70% | ~34 |
 | Here be Dragons | 0.60% | ~29 |
 | Blood of the Dragon | 0.60% | ~29 |
 | Bone Peddler | 0.50% | ~24 |

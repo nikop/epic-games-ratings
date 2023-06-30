@@ -7,7 +7,7 @@ Number of Ratings: 75  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level: Returning Home | 50.00% | ~2,532 |
-| Returning Home: Quick Learner | 26.00% | ~1,316 |
+| Returning Home: Quick Learner | 26.00% | ~1,317 |
 | Level: Charlie's Circuits | 22.00% | ~1,114 |
 | Level: Rising Markets | 9.00% | ~456 |
 | Peddler | 8.00% | ~405 |
@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~304 |
 | Extra Life: Wish Granted | 5.00% | ~253 |
 | Data Churn Type II | 5.00% | ~253 |
+| Speedy | 5.00% | ~253 |
 | High Five! | 4.00% | ~203 |
 | Modular Progress | 4.00% | ~203 |
-| Speedy | 4.00% | ~203 |
 | Campaign: Lesson Learned | 3.00% | ~152 |
 | Level: Bet On Bots | 3.00% | ~152 |
 | Modular Performance | 3.00% | ~152 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,063 (Ranked 133)  
+Progressed: 5,064 (Ranked 133)  
 Completed: 1 (0.02%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 1 (0.02%) (Ranked 210)
 | 2023-06-27 | 5,054 | 1 |
 | 2023-06-28 | 5,057 | 1 |
 | 2023-06-29 | 5,063 | 1 |
+| 2023-06-30 | 5,064 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

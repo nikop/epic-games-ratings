@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -1816,6 +1816,11 @@
       "Time": "2023-06-29T22:01:54.612228+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T00:00:28.3054403+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1873,9 +1878,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "call_of_mana_2",
@@ -1929,7 +1934,7 @@
       "ID": "collector_2",
       "SetID": "53c1p3k",
       "Name": "Collector 2",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2049,7 +2054,7 @@
       "ID": "from_day_to_day_2",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 2",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -2065,9 +2070,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2089,7 +2094,7 @@
       "ID": "good_host_1",
       "SetID": "53c1p3k",
       "Name": "Good Host 1",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2241,7 +2246,7 @@
       "ID": "sophisticated_alchemist_2",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 2",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -2354,14 +2359,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-06-29T23:00:19.1682605+00:00",
+  "LastChanged_Achievements": "2023-06-30T00:00:28.3054397+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-06-29T22:57:01.035996+00:00",
-  "LastUpdate_Achievements": "2023-06-29T23:00:19.1683232+00:00"
+  "LastUpdate_Ratings": "2023-06-29T23:57:10.1969882+00:00",
+  "LastUpdate_Achievements": "2023-06-30T00:00:28.3055013+00:00"
 }

@@ -7,35 +7,35 @@ Rating: 4.19 (Ranked 844)
 | ---- | ---------- | ----- |
 | You Need a Gun | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
+| I Do Belong Here | 0.20% | ~31 |
 | Get a Grip | 0.20% | ~31 |
 | Two Heads Are Better Than One | 0.20% | ~31 |
+| Chew 'Em Up | 0.20% | ~31 |
+| Reforged | 0.20% | ~31 |
 | Paper Jams | 0.20% | ~31 |
+| Without A Paddle | 0.20% | ~31 |
+| In the Pipe, Five by Five | 0.20% | ~31 |
+| Crash Site | 0.20% | ~31 |
+| Power Up | 0.20% | ~31 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Giving Back | 0.10% | ~16 |
 | Grim Reaper | 0.10% | ~16 |
-| I Do Belong Here | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
 | Parole Denied | 0.10% | ~4 |
 | In Striking Distance | 0.10% | ~16 |
-| Chew 'Em Up | 0.10% | ~16 |
 | Terminated | 0.10% | ~16 |
 | Workplace Hazard | 0.10% | ~16 |
 | The Commonality | 0.10% | ~16 |
 | Float Like A Butterfly | 0.10% | ~16 |
-| Reforged | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | The Outer Way | 0.10% | ~16 |
 | If the SHU Fits... | 0.10% | ~16 |
-| Without A Paddle | 0.10% | ~16 |
-| In the Pipe, Five by Five | 0.10% | ~16 |
 | What Lies Beneath | 0.10% | ~16 |
 | Desperate Times | 0.10% | ~16 |
-| Crash Site | 0.10% | ~16 |
 | Full Circle | 0.10% | ~16 |
-| Power Up | 0.10% | ~16 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |

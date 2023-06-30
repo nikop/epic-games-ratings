@@ -6,45 +6,45 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 5.00% | ~30,997 |
-| Resurgence | 5.00% | ~30,997 |
-| Close Shave | 4.00% | ~24,797 |
-| Preemptive Strike | 4.00% | ~24,797 |
-| Humanitarian | 4.00% | ~24,797 |
-| Unforgettable Getaway | 3.00% | ~18,598 |
-| Wounded Healer | 3.00% | ~18,598 |
-| First to the Punch | 3.00% | ~18,598 |
-| Old West Oasis | 3.00% | ~18,598 |
-| With Scars to Show | 3.00% | ~18,598 |
-| Flight to Freedom | 3.00% | ~18,598 |
-| Ancestor's Rite | 2.00% | ~12,399 |
-| Shrine Apparatus | 2.00% | ~12,399 |
-| Cutting Out | 2.00% | ~12,399 |
-| Outrun Evil | 2.00% | ~12,399 |
-| Operation: Survival | 2.00% | ~12,399 |
-| Grim Pilgrimage | 2.00% | ~12,399 |
-| Classy Act | 2.00% | ~12,399 |
-| Every Last Drop | 2.00% | ~12,399 |
-| End of Days | 2.00% | ~12,399 |
-| Raccoon City Recruit | 2.00% | ~12,399 |
-| A Fast Death | 2.00% | ~12,399 |
-| Lifting The Fog | 2.00% | ~12,399 |
-| Chorus of Chaos | 2.00% | ~12,399 |
-| Heavy Burden | 1.00% | ~6,199 |
-| Devoted Gatekeeping | 1.00% | ~6,199 |
-| Broken Bodies | 1.00% | ~6,199 |
-| Selfless Survival | 1.00% | ~6,199 |
-| I See You | 1.00% | ~6,199 |
-| Insult and Injury | 1.00% | ~6,199 |
-| Prowler | 1.00% | ~6,199 |
-| Outrun the Overlap | 1.00% | ~6,199 |
-| High Speed Pursuit | 1.00% | ~6,199 |
-| Rebuilding The Borgo | 1.00% | ~6,199 |
-| Hack the Mainframe | 1.00% | ~6,199 |
-| Power Moves | 0.90% | ~5,579 |
-| Punch Drunk | 0.90% | ~5,579 |
-| Triage | 0.80% | ~4,959 |
-| Death of Ignorance | 0.70% | ~4,340 |
+| Healthy Obsession | 5.00% | ~31,004 |
+| Resurgence | 5.00% | ~31,004 |
+| Close Shave | 4.00% | ~24,803 |
+| Preemptive Strike | 4.00% | ~24,803 |
+| Humanitarian | 4.00% | ~24,803 |
+| Unforgettable Getaway | 3.00% | ~18,603 |
+| Wounded Healer | 3.00% | ~18,603 |
+| First to the Punch | 3.00% | ~18,603 |
+| Old West Oasis | 3.00% | ~18,603 |
+| With Scars to Show | 3.00% | ~18,603 |
+| Flight to Freedom | 3.00% | ~18,603 |
+| Ancestor's Rite | 2.00% | ~12,402 |
+| Shrine Apparatus | 2.00% | ~12,402 |
+| Cutting Out | 2.00% | ~12,402 |
+| Outrun Evil | 2.00% | ~12,402 |
+| Operation: Survival | 2.00% | ~12,402 |
+| Grim Pilgrimage | 2.00% | ~12,402 |
+| Classy Act | 2.00% | ~12,402 |
+| Every Last Drop | 2.00% | ~12,402 |
+| End of Days | 2.00% | ~12,402 |
+| Raccoon City Recruit | 2.00% | ~12,402 |
+| A Fast Death | 2.00% | ~12,402 |
+| Lifting The Fog | 2.00% | ~12,402 |
+| Chorus of Chaos | 2.00% | ~12,402 |
+| Heavy Burden | 1.00% | ~6,201 |
+| Devoted Gatekeeping | 1.00% | ~6,201 |
+| Broken Bodies | 1.00% | ~6,201 |
+| Selfless Survival | 1.00% | ~6,201 |
+| I See You | 1.00% | ~6,201 |
+| Insult and Injury | 1.00% | ~6,201 |
+| Prowler | 1.00% | ~6,201 |
+| Outrun the Overlap | 1.00% | ~6,201 |
+| High Speed Pursuit | 1.00% | ~6,201 |
+| Rebuilding The Borgo | 1.00% | ~6,201 |
+| Hack the Mainframe | 1.00% | ~6,201 |
+| Power Moves | 0.90% | ~5,581 |
+| Punch Drunk | 0.90% | ~5,581 |
+| Triage | 0.80% | ~4,961 |
+| Death of Ignorance | 0.70% | ~4,341 |
 | Deranged Pursuit | 0.50% | ~3,100 |
 | Denied! | 0.50% | ~3,100 |
 | Dismantle | 0.40% | ~2,480 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~620 |
 | Adept Gabriel | 0.10% | ~620 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619,932 (Ranked 23)  
+Progressed: 620,084 (Ranked 23)  
 Completed: 42 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,9 +298,10 @@ Completed: 42 (0.01%) (Ranked 218)
 | 2023-06-27 | 612,690 | 42 |
 | 2023-06-28 | 616,341 | 42 |
 | 2023-06-29 | 619,932 | 42 |
+| 2023-06-30 | 620,084 | 42 |
 ## Awards
 Max (Diverse Characters): 29,284  (Ranked 15)  
-Sum: 232,722 (Ranked 12)  
+Sum: 232,760 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +313,7 @@ Diff (max vs sum): 3
 | This game has Quickly Understood Controls | 26,010 |
 | This game has Challenging Combat | 25,451 |
 | This game has Amazing Storytelling | 23,994 |
-| This game has a Competitive Community | 22,191 |
+| This game has a Competitive Community | 22,229 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -475,3 +476,4 @@ Diff (max vs sum): 3
 | 2023-06-27 | 4.52 | - | 29,163 | 231,974 |
 | 2023-06-28 | 4.52 | - | 29,235 | 232,351 |
 | 2023-06-29 | 4.52 | - | 29,284 | 232,722 |
+| 2023-06-30 | 4.52 | - | 29,284 | 232,760 |

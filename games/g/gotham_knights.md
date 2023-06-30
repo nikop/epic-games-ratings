@@ -8,16 +8,16 @@ Rating: 4.17 (Ranked 856)
 | First Step Into the Knight | 6.00% | ~3,967 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,645 |
 | Loose Ends | 4.00% | ~2,645 |
-| The Batman Family | 3.00% | ~1,983 |
-| Something in the Clay | 3.00% | ~1,983 |
-| To the Victor Go the Spoils | 3.00% | ~1,983 |
-| Quartzer Life Crisis | 3.00% | ~1,983 |
-| Get ReQ'd | 3.00% | ~1,983 |
-| Working Hard or Harley Working? | 3.00% | ~1,983 |
-| Unstoppable Force | 3.00% | ~1,983 |
-| Knighthood | 3.00% | ~1,983 |
-| Whispered Words | 3.00% | ~1,983 |
-| Lock and Key | 3.00% | ~1,983 |
+| The Batman Family | 3.00% | ~1,984 |
+| Something in the Clay | 3.00% | ~1,984 |
+| To the Victor Go the Spoils | 3.00% | ~1,984 |
+| Quartzer Life Crisis | 3.00% | ~1,984 |
+| Get ReQ'd | 3.00% | ~1,984 |
+| Working Hard or Harley Working? | 3.00% | ~1,984 |
+| Unstoppable Force | 3.00% | ~1,984 |
+| Knighthood | 3.00% | ~1,984 |
+| Whispered Words | 3.00% | ~1,984 |
+| Lock and Key | 3.00% | ~1,984 |
 | End of an Era | 2.00% | ~1,322 |
 | In Your Element | 2.00% | ~1,322 |
 | Protector of Gotham | 2.00% | ~1,322 |
@@ -34,9 +34,9 @@ Rating: 4.17 (Ranked 856)
 | Voiceless | 2.00% | ~1,322 |
 | Seeking Asylum | 2.00% | ~1,322 |
 | Gotham Knight | 2.00% | ~1,322 |
+| Gotham City Confidential | 2.00% | ~1,322 |
 | Out of Their League | 1.00% | ~661 |
 | Drone You Out | 1.00% | ~661 |
-| Gotham City Confidential | 1.00% | ~661 |
 | Solid Alibi | 1.00% | ~661 |
 | Fusion Expert | 0.90% | ~595 |
 | Family Meeting | 0.90% | ~595 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 856)
 | A Sophisticated Mallet | 0.10% | ~36 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,114 (Ranked 72)  
+Progressed: 66,118 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-27 | 66,058 | 98 |
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
+| 2023-06-30 | 66,118 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,401  (Ranked 100)  
 Sum: 3,971 (Ranked 137)  
