@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.23% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.10% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.09% |
 | 29 | [Scorn](games/s/scorn.md) | 6.87% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -69,8 +69,8 @@
 | 67 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 68 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.36% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.31% |
-| 70 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.20% |
 | 70 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 73 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |

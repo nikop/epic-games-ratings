@@ -327,7 +327,6 @@
 | [Star★Vaders](games/s/star★vaders.md) | 2099-01-01 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2099-01-01 | - |  | - | - |
 | [Strange House](games/s/strange_house.md) | 2099-01-01 | - |  | - | - |
-| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2099-01-01 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2099-01-01 | - |  | - | - |
 | [Subterrain Mines of Titan](games/s/subterrain_mines_of_titan.md) | 2099-01-01 | - |  | - | - |
 | [Sugar Shack](games/s/sugar_shack.md) | 2099-01-01 | - |  | - | - |
