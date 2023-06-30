@@ -49,7 +49,7 @@
 | 47 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 48 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 49 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.33% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.36% |
 | 51 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 52 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
@@ -82,8 +82,8 @@
 | 80 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 81 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
 | 82 | [Somerville](games/s/somerville.md) | 1.57% |
-| 83 | [Poosh XL](games/p/poosh_xl.md) | 1.53% |
 | 83 | [Ten Dates](games/t/ten_dates.md) | 1.53% |
+| 84 | [Poosh XL](games/p/poosh_xl.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
@@ -98,7 +98,7 @@
 | 96 | [Trifox](games/t/trifox.md) | 1.12% |
 | 97 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 97 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.06% |
+| 99 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 100 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.01% |
 | 101 | [Sable](games/s/sable.md) | 0.96% |
 | 102 | [Adios](games/a/adios.md) | 0.92% |
