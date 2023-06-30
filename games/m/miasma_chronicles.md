@@ -5,21 +5,21 @@ Rating: 4.35 (Ranked 733)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,100 |
-| Ranidaphobia | 77.00% | ~921 |
-| Aspiring Editor | 74.00% | ~885 |
-| Gun for Hire | 70.00% | ~837 |
-| I am the law! | 63.00% | ~753 |
+| First Blood | 92.00% | ~1,101 |
+| Ranidaphobia | 77.00% | ~922 |
+| Aspiring Editor | 74.00% | ~886 |
+| Gun for Hire | 70.00% | ~838 |
+| I am the law! | 63.00% | ~754 |
 | Lumberjack | 52.00% | ~622 |
-| Croaked | 47.00% | ~562 |
-| Limp Richard | 46.00% | ~550 |
-| From Darkness to Light | 46.00% | ~550 |
-| Editor Adept | 45.00% | ~538 |
-| Exorcist | 45.00% | ~538 |
-| Firestarter | 42.00% | ~502 |
-| Giant Killer | 42.00% | ~502 |
-| Sensei | 41.00% | ~490 |
-| The meaning of Kain | 39.00% | ~466 |
+| Croaked | 47.00% | ~563 |
+| Limp Richard | 46.00% | ~551 |
+| From Darkness to Light | 46.00% | ~551 |
+| Editor Adept | 45.00% | ~539 |
+| Exorcist | 45.00% | ~539 |
+| Firestarter | 42.00% | ~503 |
+| Giant Killer | 42.00% | ~503 |
+| Sensei | 41.00% | ~491 |
+| The meaning of Kain | 39.00% | ~467 |
 | Technophobe | 36.00% | ~431 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
@@ -34,10 +34,10 @@ Rating: 4.35 (Ranked 733)
 | Chain Killer | 22.00% | ~263 |
 | Savior | 22.00% | ~263 |
 | The Watchers | 19.00% | ~227 |
-| Newtonian Knockout | 16.00% | ~191 |
-| Dr Jones | 14.00% | ~167 |
-| Ruthless | 14.00% | ~167 |
-| Chaos Theory | 13.00% | ~155 |
+| Newtonian Knockout | 16.00% | ~192 |
+| Dr Jones | 14.00% | ~168 |
+| Ruthless | 14.00% | ~168 |
+| Chaos Theory | 13.00% | ~156 |
 | Commando | 12.00% | ~144 |
 | Chain Reaction | 9.00% | ~108 |
 | Side Order | 9.00% | ~108 |
@@ -45,7 +45,7 @@ Rating: 4.35 (Ranked 733)
 | Bot Whisperer | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
-| Silent but Violent | 4.00% | ~48 |
+| Silent but Violent | 5.00% | ~60 |
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
@@ -57,7 +57,7 @@ Rating: 4.35 (Ranked 733)
 | Attenborough | 0.40% | ~5 |
 | Bookworm | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,196 (Ranked 178)  
+Progressed: 1,197 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 1,191 | 0 |
 | 2023-06-27 | 1,193 | 0 |
 | 2023-06-29 | 1,195 | 0 |
-| 2023-06-30 | 1,196 | 0 |
+| 2023-06-30 | 1,197 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

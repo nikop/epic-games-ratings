@@ -9,12 +9,15 @@ Rating: 4.45 (Ranked 616)
 | Resourceful | 0.30% | ~10 |
 | The Kraken Wakes | 0.30% | ~10 |
 | Liberté | 0.20% | ~6 |
+| Meeting Resistance | 0.20% | ~6 |
+| Gunslinger | 0.20% | ~6 |
 | Sharpshooter | 0.20% | ~6 |
 | Confirming Suspicions | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
 | It's Starting to Crack | 0.20% | ~6 |
 | Change the Channel | 0.20% | ~6 |
+| Taking it back | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
@@ -23,8 +26,6 @@ Rating: 4.45 (Ranked 616)
 | Just a Flesh Wound | 0.10% | ~3 |
 | Organ Grinder | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
-| Meeting Resistance | 0.10% | ~3 |
-| Gunslinger | 0.10% | ~3 |
 | Skirmisher | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Set Europe Ablaze | 0.10% | ~3 |
@@ -43,7 +44,6 @@ Rating: 4.45 (Ranked 616)
 | Tinkerer | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
-| Taking it back | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |

@@ -17,7 +17,7 @@ Rating: 4.49 (Ranked 569)
 | Teamwork | 44.00% | ~10,506 |
 | There you are! | 43.00% | ~10,268 |
 | Clutch Capture | 41.00% | ~9,790 |
-| Back Off | 35.00% | ~8,357 |
+| Back Off | 36.00% | ~8,596 |
 | Daily Dose | 35.00% | ~8,357 |
 | Solo Capture | 32.00% | ~7,641 |
 | Welcome to the Crew | 32.00% | ~7,641 |

@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 768)  
+Rating: 4.31 (Ranked 767)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~65,761 |
-| Powergamer | 27.00% | ~63,412 |
-| Barely scratched the surface | 25.00% | ~58,715 |
-| Write that down | 24.00% | ~56,366 |
-| Guns, lots of guns | 12.00% | ~28,183 |
+| I will finish what you started | 28.00% | ~65,762 |
+| Powergamer | 27.00% | ~63,413 |
+| Barely scratched the surface | 25.00% | ~58,716 |
+| Write that down | 24.00% | ~56,367 |
+| Guns, lots of guns | 12.00% | ~28,184 |
 | Collector | 11.00% | ~25,835 |
-| Elementary! | 9.00% | ~21,137 |
+| Elementary! | 9.00% | ~21,138 |
 | Pumpkin Jack | 8.00% | ~18,789 |
 | Wake up! | 8.00% | ~18,789 |
 | It's honest work | 7.00% | ~16,440 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Good listener | 5.00% | ~11,743 |
 | Trash compactor | 5.00% | ~11,743 |
 | Valedictorian | 5.00% | ~11,743 |
-| BOY! | 4.00% | ~9,394 |
-| Ka-ching! | 4.00% | ~9,394 |
-| So you like to read? | 4.00% | ~9,394 |
+| BOY! | 4.00% | ~9,395 |
+| Ka-ching! | 4.00% | ~9,395 |
+| So you like to read? | 4.00% | ~9,395 |
 | I like to sniff around | 3.00% | ~7,046 |
 | Mind reader | 3.00% | ~7,046 |
 | Gentleman's classic | 2.00% | ~4,697 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~470 |
 | Memory 5 | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,860 (Ranked 45)  
+Progressed: 234,864 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 7 (0.00%) (Ranked 230)
 | 2023-06-27 | 234,389 | 7 |
 | 2023-06-28 | 234,559 | 7 |
 | 2023-06-29 | 234,753 | 7 |
-| 2023-06-30 | 234,860 | 7 |
+| 2023-06-30 | 234,864 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 360)  
 Sum: 74 (Ranked 422)  

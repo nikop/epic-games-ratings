@@ -6918,9 +6918,9 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8357
+      "UsersEstimate": 8596
     },
     {
       "ID": "Best_Insurance",
@@ -7319,8 +7319,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-06-30T02:17:00.7275036+00:00",
-  "LastChanged_Achievements": "2023-06-30T16:03:21.8781574+00:00",
+  "LastChanged_Achievements": "2023-06-30T17:03:20.9267245+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:51.3306533+00:00",
-  "LastUpdate_Ratings": "2023-06-30T15:59:55.4690455+00:00",
-  "LastUpdate_Achievements": "2023-06-30T16:03:21.8782402+00:00"
+  "LastUpdate_Ratings": "2023-06-30T16:59:07.728769+00:00",
+  "LastUpdate_Achievements": "2023-06-30T17:03:20.9267819+00:00"
 }

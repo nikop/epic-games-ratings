@@ -6,23 +6,24 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 0.50% | ~78 |
+| Keep Fighting | 0.50% | ~18 |
 | You Need a Gun | 0.40% | ~62 |
+| I Do Belong Here | 0.40% | ~62 |
 | Two Heads Are Better Than One | 0.40% | ~62 |
 | Paper Jams | 0.40% | ~62 |
-| Keep Fighting | 0.40% | ~14 |
+| In the Pipe, Five by Five | 0.40% | ~62 |
+| Crash Site | 0.40% | ~62 |
 | Giving Back | 0.30% | ~47 |
 | Flesh Wound | 0.30% | ~47 |
-| I Do Belong Here | 0.30% | ~47 |
 | Chew 'Em Up | 0.30% | ~47 |
 | Workplace Hazard | 0.30% | ~47 |
 | Reforged | 0.30% | ~47 |
 | If the SHU Fits... | 0.30% | ~47 |
 | Without A Paddle | 0.30% | ~47 |
-| In the Pipe, Five by Five | 0.30% | ~47 |
 | What Lies Beneath | 0.30% | ~47 |
-| Crash Site | 0.30% | ~47 |
 | Full Circle | 0.30% | ~47 |
 | Power Up | 0.30% | ~47 |
+| In Striking Distance | 0.20% | ~31 |
 | Terminated | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
 | Float Like A Butterfly | 0.20% | ~31 |
@@ -36,7 +37,6 @@ Rating: 4.19 (Ranked 844)
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
 | Parole Denied | 0.10% | ~4 |
-| In Striking Distance | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | Instigator | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,593 (Ranked 106)  
+Progressed: 15,595 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 60 (0.38%) (Ranked 133)
 | 2023-06-27 | 15,570 | 57 |
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
-| 2023-06-30 | 15,593 | 60 |
+| 2023-06-30 | 15,595 | 60 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 348 (Ranked 322)  

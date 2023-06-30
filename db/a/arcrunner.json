@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1353,6 +1353,11 @@
       "Time": "2023-06-30T16:03:31.9108127+00:00",
       "NumProgressed": 663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T17:03:28.4412951+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1434,17 +1439,17 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHV_FULLYMODDED",
       "SetID": "cceobco",
       "Name": "Fully Modded",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -1540,7 +1545,7 @@
       "Name": "Terminated II",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1595,13 +1600,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 665,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 89,
+      "Progressed": 91,
       "Completed": 3
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-30T16:03:31.9108121+00:00",
+  "LastChanged_Achievements": "2023-06-30T17:03:28.4412947+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:00:50.356268+00:00",
-  "LastUpdate_Achievements": "2023-06-30T16:03:31.910846+00:00"
+  "LastUpdate_Ratings": "2023-06-30T16:59:44.0247513+00:00",
+  "LastUpdate_Achievements": "2023-06-30T17:03:28.4413169+00:00"
 }

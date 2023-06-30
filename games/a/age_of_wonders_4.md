@@ -7,16 +7,16 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | Realm Estate | 1.00% | ~49 |
 | Secret Technique | 1.00% | ~49 |
+| Magical Synergy | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
+| Mighty Hoard | 1.00% | ~49 |
 | A Wonderful Discovery | 0.90% | ~44 |
 | Walls Cannot Stop Us | 0.90% | ~44 |
-| Magical Synergy | 0.90% | ~44 |
 | My Final Form | 0.90% | ~44 |
-| Mighty Hoard | 0.90% | ~44 |
+| Blood of the Dragon | 0.90% | ~44 |
 | From Friends to Family | 0.80% | ~39 |
 | Stronger Together | 0.80% | ~39 |
 | Here be Dragons | 0.80% | ~39 |
-| Blood of the Dragon | 0.80% | ~39 |
 | There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
 | Bone Peddler | 0.60% | ~29 |

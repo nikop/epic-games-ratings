@@ -1758,18 +1758,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 3973,
       "NumberOfAwardsMax": 2401
+    },
+    {
+      "Time": "2023-06-30T16:59:52.1932815+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3978,
+      "NumberOfAwardsMax": 2405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3973,
-  "NumberOfAwardsMax": 2401,
+  "NumberOfAwards": 3978,
+  "NumberOfAwardsMax": 2405,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2401
+      "Count": 2405
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1817,7 +1823,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1826,9 +1832,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66148,
+  "EOS_Progressed": 66151,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8161,6 +8167,11 @@
       "Time": "2023-06-30T16:07:44.7592615+00:00",
       "NumProgressed": 66148,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-06-30T17:06:20.4318996+00:00",
+      "NumProgressed": 66151,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 61,
@@ -8220,7 +8231,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -8276,7 +8287,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "CLAYFACE_2",
@@ -8356,7 +8367,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -8388,7 +8399,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "FREEZE_1",
@@ -8396,7 +8407,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "FREEZE_1_5",
@@ -8404,7 +8415,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "FREEZE_2",
@@ -8484,7 +8495,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "HARLEY_3",
@@ -8492,7 +8503,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "HARLEY_4",
@@ -8540,7 +8551,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -8548,7 +8559,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -8572,7 +8583,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "MYSTERY_03",
@@ -8580,7 +8591,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "MYSTERY_04",
@@ -8588,7 +8599,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "MYSTERY_05",
@@ -8636,7 +8647,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -8659,22 +8670,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66148,
+      "Progressed": 66151,
       "Completed": 99
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36428,
+      "Progressed": 36431,
       "Completed": 2648
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-06-30T09:59:28.5388077+00:00",
-  "LastChanged_Achievements": "2023-06-30T16:07:44.7592597+00:00",
+  "LastChanged": "2023-06-30T16:59:52.1932813+00:00",
+  "LastChanged_Achievements": "2023-06-30T17:06:20.4318991+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:51.2252566+00:00",
-  "LastUpdate_Ratings": "2023-06-30T16:01:01.1445986+00:00",
-  "LastUpdate_Achievements": "2023-06-30T16:07:44.7593651+00:00"
+  "LastUpdate_Ratings": "2023-06-30T16:59:52.1932818+00:00",
+  "LastUpdate_Achievements": "2023-06-30T17:06:20.4319724+00:00"
 }

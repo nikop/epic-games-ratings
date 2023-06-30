@@ -6,7 +6,6 @@
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 5.00% | ~153 |
 | Lochos | 5.00% | ~153 |
-| Strength of Herakles | 5.00% | ~153 |
 | Initiate's Resolve | 5.00% | ~153 |
 | Go For the Head | 4.00% | ~123 |
 | Missilis | 4.00% | ~123 |
@@ -14,6 +13,7 @@
 | Armaments of the Pantheon | 4.00% | ~123 |
 | Persephone's Guidance | 4.00% | ~123 |
 | The Sons of Minos | 4.00% | ~123 |
+| Strength of Herakles | 4.00% | ~123 |
 | Reign in Blood | 4.00% | ~123 |
 | Pillars of Eternity | 3.00% | ~92 |
 | Immolator | 3.00% | ~92 |
@@ -26,7 +26,6 @@
 | Divine Assemblage | 3.00% | ~92 |
 | Ophiolatreia | 3.00% | ~92 |
 | Comedy and Tragedy | 2.00% | ~61 |
-| Wayward Son of Hephaestus | 2.00% | ~61 |
 | Forged in Fire | 2.00% | ~61 |
 | Chthonic Investor | 2.00% | ~61 |
 | First Fragment | 2.00% | ~61 |
@@ -34,12 +33,12 @@
 | Labour of Apollo | 2.00% | ~61 |
 | Vandili | 2.00% | ~61 |
 | Cloaca Maxima | 2.00% | ~61 |
-| Baby Crabs They Ain't | 2.00% | ~61 |
 | Halls of Marble | 2.00% | ~61 |
 | Mors Omnibus | 2.00% | ~61 |
 | Blot Out the Sky | 2.00% | ~61 |
 | Serpentine | 2.00% | ~61 |
 | The Nameless One | 1.00% | ~31 |
+| Wayward Son of Hephaestus | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
 | Rock and a Hard Place | 1.00% | ~31 |
@@ -52,6 +51,7 @@
 | The Archimedes Principle | 1.00% | ~31 |
 | Rites at Sea | 1.00% | ~31 |
 | Close Shut the Doors | 1.00% | ~31 |
+| Baby Crabs They Ain't | 1.00% | ~31 |
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~21 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,064 (Ranked 146)  
+Progressed: 3,067 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 3,041 | 0 |
 | 2023-06-28 | 3,044 | 0 |
 | 2023-06-29 | 3,061 | 0 |
-| 2023-06-30 | 3,064 | 0 |
+| 2023-06-30 | 3,067 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

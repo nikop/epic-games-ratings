@@ -3,11 +3,11 @@
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
   "Ranking_Rating": 593,
-  "Ranking_Popularity": 81,
+  "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1263,6 +1263,6 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "LastChanged": "2023-06-30T03:13:19.4362841+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:32.9091208+00:00",
-  "LastUpdate_Ratings": "2023-06-30T15:58:31.5932554+00:00",
-  "LastUpdate_Achievements": "2023-06-30T16:05:24.9439528+00:00"
+  "LastUpdate_Ratings": "2023-06-30T16:58:04.3365322+00:00",
+  "LastUpdate_Achievements": "2023-06-30T17:04:41.4481448+00:00"
 }

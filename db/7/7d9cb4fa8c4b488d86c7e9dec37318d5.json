@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -611,6 +611,11 @@
       "Time": "2023-06-29T23:04:26.4032893+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T17:04:47.9759513+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -636,7 +641,7 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 135
     },
@@ -660,9 +665,9 @@
       "ID": "Statue Collector Intermediate",
       "SetID": "1fffk9d",
       "Name": "10 Suicide Guy statues",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "Statue Collector Master",
@@ -678,15 +683,15 @@
       "Name": "5 Suicide Guy statues",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "The Breaker",
@@ -701,14 +706,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-06-30T16:05:34.2067169+00:00",
+  "LastChanged_Achievements": "2023-06-30T17:04:47.9759509+00:00",
   "LastUpdate_AppInfo": "2023-06-27T20:57:05.5106299+00:00",
-  "LastUpdate_Ratings": "2023-06-30T15:57:25.1022429+00:00",
-  "LastUpdate_Achievements": "2023-06-30T16:05:34.2067362+00:00"
+  "LastUpdate_Ratings": "2023-06-30T16:57:20.8007796+00:00",
+  "LastUpdate_Achievements": "2023-06-30T17:04:47.9759602+00:00"
 }

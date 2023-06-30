@@ -5,13 +5,13 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,438 |
+| Victor | 94.00% | ~1,439 |
 | World Map | 79.00% | ~1,209 |
-| Temple of Eternals | 57.00% | ~872 |
-| Prestigious | 54.00% | ~826 |
-| Fellowship Power | 41.00% | ~627 |
-| Guild Power | 25.00% | ~382 |
-| Prestigious x10 | 21.00% | ~321 |
+| Temple of Eternals | 57.00% | ~873 |
+| Prestigious | 54.00% | ~827 |
+| Fellowship Power | 41.00% | ~628 |
+| Guild Power | 25.00% | ~383 |
+| Prestigious x10 | 21.00% | ~322 |
 | The game is on | 19.00% | ~291 |
 | Exotic Merchant | 17.00% | ~260 |
 | Dragon Clicker | 16.00% | ~245 |
@@ -30,6 +30,7 @@ Rating: 4.07 (Ranked 895)
 | Scientist | 11.00% | ~168 |
 | Challenger | 9.00% | ~138 |
 | Doing My Part | 9.00% | ~138 |
+| Frostfire Liberator | 9.00% | ~138 |
 | Hunter | 9.00% | ~138 |
 | Mastery | 9.00% | ~138 |
 | Relic Of The Past | 9.00% | ~138 |
@@ -37,7 +38,6 @@ Rating: 4.07 (Ranked 895)
 | The power of Awakening | 9.00% | ~138 |
 | Daily Quest Completionist | 8.00% | ~122 |
 | Four Leaf Clover | 8.00% | ~122 |
-| Frostfire Liberator | 8.00% | ~122 |
 | Moving Up The Ladder | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |
@@ -45,22 +45,22 @@ Rating: 4.07 (Ranked 895)
 | How Do You Turn This On? | 6.00% | ~92 |
 | The Expeditioner | 6.00% | ~92 |
 | Trader | 6.00% | ~92 |
-| Ancient Knowledge | 5.00% | ~76 |
-| Crystal Mining | 5.00% | ~76 |
-| Dragon Slayer | 5.00% | ~76 |
-| Enchanting skill | 5.00% | ~76 |
-| Engineer Mastery | 5.00% | ~76 |
-| Missions Dedication | 5.00% | ~76 |
-| Weekly Quest Completionist | 5.00% | ~76 |
+| Ancient Knowledge | 5.00% | ~77 |
+| Crystal Mining | 5.00% | ~77 |
+| Dragon Slayer | 5.00% | ~77 |
+| Enchanting skill | 5.00% | ~77 |
+| Engineer Mastery | 5.00% | ~77 |
+| Missions Dedication | 5.00% | ~77 |
+| Weekly Quest Completionist | 5.00% | ~77 |
 | Background Story | 4.00% | ~61 |
 | Blueprint Upgrades | 4.00% | ~61 |
 | Lock And Load | 4.00% | ~61 |
 | Arena Challenger | 3.00% | ~46 |
 | Sailor | 3.00% | ~46 |
+| The Alchemist | 3.00% | ~46 |
 | Active Member | 2.00% | ~31 |
 | Ebony Jungle Liberator | 2.00% | ~31 |
 | Legendary | 2.00% | ~31 |
-| The Alchemist | 2.00% | ~31 |
 | What lies behind the bush | 2.00% | ~31 |
 | Mythic Power | 1.00% | ~15 |
 | Training makes a Pro player | 0.70% | ~11 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 168)  
+Progressed: 1,531 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
-| 2023-06-30 | 1,530 | 1 |
+| 2023-06-30 | 1,531 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
