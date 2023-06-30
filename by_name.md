@@ -115,7 +115,7 @@
 | [Anna's Quest](games/a/anna's_quest.md) | - | - | 0 | - |
 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 100 | 0 | 502 |
 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 489 | 0 | 502 |
-| [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 75 | 1,419 | 121 |
+| [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 75 | 1,422 | 121 |
 | [Anno 2070](games/a/anno_2070.md) | 4.46 | 604 | 0 | 502 |
 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 594 | 0 | 502 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 454 | 0 | 502 |
@@ -766,7 +766,7 @@
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 7 | 0 | 502 |
 | [Eville](games/e/eville.md) | - | - | - | - |
 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 569 | 273 | 239 |
-| [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 856 | 0 | 502 |
+| [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 857 | 0 | 502 |
 | [Exo One](games/e/exo_one.md) | - | - | 0 | - |
 | [Exotic Cars VI](games/e/exotic_cars_vi.md) | - | - | - | - |
 | [Expedition Zero](games/e/expedition_zero.md) | - | - | 0 | - |
@@ -948,7 +948,7 @@
 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 41 | 359 | 218 |
 | [Goblins of Elderstone](games/g/goblins_of_elderstone.md) | - | - | 0 | - |
 | [God of War](games/g/god_of_war.md) | 4.88 | 19 | 4,111 | 74 |
-| [God's Trigger](games/g/god's_trigger.md) | 4.17 | 856 | 26 | 469 |
+| [God's Trigger](games/g/god's_trigger.md) | 4.17 | 857 | 26 | 469 |
 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 895 | 524 | 187 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 800 | 0 | 502 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | - | - | 0 | - |
@@ -963,15 +963,15 @@
 | [goldenbrown Production](games/g/goldenbrown_production.md) | - | - | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | - | - | - | - |
 | [Golf Club Wasteland](games/g/golf_club_wasteland.md) | - | - | 0 | - |
-| [Gone Home](games/g/gone_home.md) | 4.17 | 856 | 0 | 502 |
+| [Gone Home](games/g/gone_home.md) | 4.17 | 857 | 0 | 502 |
 | [Gone Viral](games/g/gone_viral.md) | - | - | 0 | - |
 | [GoNNER](games/g/gonner.md) | 4.70 | 197 | 0 | 502 |
 | [Good Company](games/g/good_company.md) | 4.43 | 652 | 0 | 502 |
 | [Good Heavens!](games/g/good_heavens!.md) | - | - | - | - |
 | [Gorogoa](games/g/gorogoa.md) | - | - | 0 | - |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 856 | 2,401 | 100 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 850 | 2,401 | 100 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | - | - | 0 | - |
-| [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 856 | 0 | 502 |
+| [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 857 | 0 | 502 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 866 | 0 | 502 |
 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 239 | 192,285 | 4 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 454 | 199 | 267 |
@@ -1179,8 +1179,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 421 | 37 | 427 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 344 | 546 | 185 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 143 | 626 | 170 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 778 | 3,659 | 80 |
@@ -1308,8 +1308,8 @@
 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 742 | 0 | 502 |
 | [Little Inferno](games/l/little_inferno.md) | 4.60 | 387 | 0 | 502 |
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
-| [Live](games/l/live_130.md) | - | - | - | - |
 | [Live](games/l/live_79.md) | - | - | - | - |
+| [Live](games/l/live_130.md) | - | - | - | - |
 | [Locks Quest](games/l/locks_quest.md) | - | - | 0 | - |
 | [Lonesome Village](games/l/lonesome_village.md) | - | - | 0 | - |
 | [Loop](games/l/loop.md) | - | - | - | - |
@@ -1667,7 +1667,7 @@
 | [Patron](games/p/patron.md) | 3.94 | 920 | 0 | 502 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | - | - | 0 | - |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | - | - | - | - |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 438 | 3,664 | 79 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 438 | 3,797 | 79 |
 | [PAYDAY 3 Pre Purchase](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | - | - | - | - |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 272 | 1,051 | 137 |
 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 362 | 641 | 169 |
@@ -1978,8 +1978,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 182 | 198 | 268 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 661 | 267 | 242 |

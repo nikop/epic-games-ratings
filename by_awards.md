@@ -78,7 +78,7 @@
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,097 | 4.51 | 536 |
 | 77 | [SMITE](games/s/smite.md) | 3,954 | 4.45 | 617 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,854 | 4.68 | 239 |
-| 79 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 3,664 | 4.57 | 438 |
+| 79 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 3,797 | 4.57 | 438 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,659 | 4.29 | 778 |
 | 81 | [Gloomhaven](games/g/gloomhaven.md) | 3,484 | 4.47 | 594 |
 | 82 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,482 | 4.77 | 108 |
@@ -99,7 +99,7 @@
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,434 | 4.82 | 65 |
 | 98 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,418 | 4.80 | 79 |
 | 99 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,417 | 4.10 | 884 |
-| 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,401 | 4.17 | 856 |
+| 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,401 | 4.18 | 850 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,332 | 4.78 | 100 |
 | 102 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,231 | 4.67 | 257 |
 | 103 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,181 | 4.41 | 672 |
@@ -120,7 +120,7 @@
 | 118 | [Celeste](games/c/celeste.md) | 1,502 | 4.92 | 4 |
 | 119 | [Ring of Pain](games/r/ring_of_pain.md) | 1,482 | 4.58 | 421 |
 | 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,463 | 4.79 | 88 |
-| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,419 | 4.81 | 75 |
+| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,422 | 4.81 | 75 |
 | 122 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,406 | 4.87 | 26 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,357 | 4.62 | 344 |
 | 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,302 | 4.70 | 197 |
@@ -469,7 +469,7 @@
 | 463 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 27 | 4.81 | 75 |
 | 463 | [Wildermyth](games/w/wildermyth.md) | 27 | 4.77 | 108 |
 | 469 | [DOOM II](games/d/doom_ii.md) | 26 | 4.73 | 157 |
-| 469 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.17 | 856 |
+| 469 | [God's Trigger](games/g/god's_trigger.md) | 26 | 4.17 | 857 |
 | 469 | [The Surge](games/t/the_surge.md) | 26 | 4.45 | 617 |
 | 472 | [Spirit of the North](games/s/spirit_of_the_north.md) | 25 | 4.36 | 727 |
 | 472 | [Warpips](games/w/warpips.md) | 25 | 4.41 | 672 |

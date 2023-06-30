@@ -75,7 +75,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,219 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
-| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,419 | 121 |
+| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,422 | 121 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 463 |
 | 75 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 502 |
 | 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,334 | 51 |
@@ -447,7 +447,7 @@
 | 438 | [IXION](games/i/ixion.md) | 4.57 | 0 | 502 |
 | 438 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,514 | 44 |
 | 438 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,145 | 90 |
-| 438 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 3,664 | 79 |
+| 438 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 3,797 | 79 |
 | 438 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 119 | 311 |
 | 438 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,336 | 85 |
 | 438 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 456 |
@@ -850,16 +850,16 @@
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 502 |
 | 844 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 61 | 384 |
 | 850 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 342 |
+| 850 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,401 | 100 |
 | 850 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 502 |
 | 850 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 335 |
 | 850 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 502 |
 | 850 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 502 |
 | 850 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 502 |
-| 856 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 502 |
-| 856 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 469 |
-| 856 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 502 |
-| 856 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,401 | 100 |
-| 856 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 502 |
+| 857 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 502 |
+| 857 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 469 |
+| 857 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 502 |
+| 857 | [Grand Tactician The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.17 | 0 | 502 |
 | 861 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 502 |
 | 861 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 608 | 173 |
 | 861 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 0 | 502 |
