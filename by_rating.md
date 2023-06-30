@@ -17,7 +17,7 @@
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 502 |
 | 12 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.89 | 0 | 502 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 417 | 203 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,537 | 20 |
+| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,562 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,111 | 74 |
@@ -65,7 +65,7 @@
 | 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 84 | 350 |
 | 57 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 502 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 502 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,596 | 58 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,601 | 58 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 502 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 502 |
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 440 |
@@ -107,9 +107,9 @@
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 502 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 918 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 502 |
-| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,482 | 82 |
+| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,499 | 81 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,046 | 54 |
-| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,520 | 17 |
+| 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,544 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 502 |
 | 108 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 502 |
 | 108 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 37 | 427 |
@@ -126,7 +126,7 @@
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,225 | 73 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 502 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 502 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,669 | 115 |
+| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,670 | 115 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 46 | 405 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,918 | 38 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 502 |
@@ -434,7 +434,7 @@
 | 421 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 263 |
 | 421 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 502 |
 | 421 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 391 |
-| 421 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,199 | 53 |
+| 421 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,202 | 53 |
 | 421 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 502 |
 | 421 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,406 | 24 |
 | 438 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 502 |
@@ -482,7 +482,7 @@
 | 477 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 218 | 254 |
 | 477 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 451 |
 | 477 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 502 |
-| 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 875 | 150 |
+| 477 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 877 | 150 |
 | 477 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 89 | 344 |
 | 477 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 502 |
 | 477 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.55 | 0 | 502 |
@@ -595,7 +595,7 @@
 | 593 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.47 | 0 | 502 |
 | 593 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 502 |
 | 593 | [Figment](games/f/figment.md) | 4.47 | 20 | 498 |
-| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,484 | 81 |
+| 593 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,484 | 82 |
 | 593 | [Mars Horizon](games/m/mars_horizon.md) | 4.47 | 0 | 502 |
 | 593 | [Riverbond](games/r/riverbond.md) | 4.47 | 0 | 502 |
 | 593 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.47 | 0 | 502 |
@@ -759,7 +759,6 @@
 | 753 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 43 | 412 |
 | 753 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 502 |
 | 759 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.32 | 0 | 502 |
-| 759 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 351 | 219 |
 | 759 | [Filament](games/f/filament.md) | 4.32 | 558 | 181 |
 | 759 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.32 | 0 | 502 |
 | 759 | [House Party](games/h/house_party.md) | 4.32 | 0 | 502 |
@@ -767,10 +766,11 @@
 | 759 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 458 |
 | 759 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 502 |
 | 759 | [Vampyr](games/v/vampyr.md) | 4.32 | 550 | 183 |
-| 768 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 502 |
-| 768 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 74 | 360 |
-| 768 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 953 | 146 |
-| 768 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 502 |
+| 767 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 502 |
+| 767 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 351 | 219 |
+| 767 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 74 | 360 |
+| 767 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 953 | 146 |
+| 767 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 502 |
 | 772 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 502 |
 | 772 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.30 | 0 | 502 |
 | 772 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 502 |
@@ -850,7 +850,7 @@
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 502 |
 | 844 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 61 | 384 |
 | 850 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 342 |
-| 850 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,401 | 100 |
+| 850 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,405 | 100 |
 | 850 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 502 |
 | 850 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 335 |
 | 850 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 502 |
