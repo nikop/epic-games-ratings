@@ -1,10 +1,10 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.37% |
-| 2 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 33.33% |
-| 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
-| 5 | [Overloop](games/o/overloop.md) | 25.00% |
+| 2 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
+| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
+| 4 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 25.00% |
+| 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 23.81% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
@@ -15,8 +15,8 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.32% |
-| 17 | [Remains](games/r/remains.md) | 12.20% |
+| 16 | [Remains](games/r/remains.md) | 12.20% |
+| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
@@ -28,7 +28,7 @@
 | 26 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 27 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.07% |
-| 29 | [Scorn](games/s/scorn.md) | 6.87% |
+| 29 | [Scorn](games/s/scorn.md) | 6.92% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
@@ -106,9 +106,9 @@
 | 104 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 105 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 106 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
-| 106 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 106 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 108 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 108 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 110 | [Haven](games/h/haven.md) | 0.69% |
 | 111 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 112 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
@@ -412,6 +412,7 @@
 | 230 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
 | 230 | [Runbow](games/r/runbow.md) | 0.00% |
 | 230 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
+| 230 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 0.00% |
 | 230 | [Scathe](games/s/scathe.md) | 0.00% |
 | 230 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 230 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
