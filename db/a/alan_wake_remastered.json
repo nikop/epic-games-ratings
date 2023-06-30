@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56523,
+  "EOS_Progressed": 56526,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6512,6 +6512,11 @@
       "Time": "2023-06-30T12:02:20.5228375+00:00",
       "NumProgressed": 56523,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-06-30T13:15:21.3291081+00:00",
+      "NumProgressed": 56526,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6523,7 +6528,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18653
+      "UsersEstimate": 18654
     },
     {
       "ID": "02",
@@ -6563,7 +6568,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "07",
@@ -6571,7 +6576,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "08",
@@ -6579,7 +6584,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "09",
@@ -6595,7 +6600,7 @@
       "Name": "Medical Opinions",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "11",
@@ -6611,7 +6616,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "13",
@@ -6643,7 +6648,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "17",
@@ -6651,7 +6656,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "18",
@@ -6699,7 +6704,7 @@
       "Name": "Taken Season",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "24",
@@ -6731,7 +6736,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "28",
@@ -6739,7 +6744,7 @@
       "Name": "Come One, Come All",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "29",
@@ -6771,7 +6776,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14131
+      "UsersEstimate": 14132
     },
     {
       "ID": "33",
@@ -6795,7 +6800,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15261
+      "UsersEstimate": 15262
     },
     {
       "ID": "36",
@@ -6803,7 +6808,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "37",
@@ -6819,7 +6824,7 @@
       "Name": "An Idyllic Small Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "39",
@@ -6859,7 +6864,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "44",
@@ -6923,7 +6928,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "52",
@@ -6931,7 +6936,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "53",
@@ -7058,21 +7063,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56523,
+      "Progressed": 56526,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 19991,
+      "Progressed": 19994,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-06-30T12:02:20.522837+00:00",
+  "LastChanged_Achievements": "2023-06-30T13:15:21.3291076+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:16.0347159+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:58:15.9522277+00:00",
-  "LastUpdate_Achievements": "2023-06-30T12:02:20.5229847+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:12:15.2211673+00:00",
+  "LastUpdate_Achievements": "2023-06-30T13:15:21.3291856+00:00"
 }

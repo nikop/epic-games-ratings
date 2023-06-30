@@ -37,6 +37,7 @@
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Inquisitions of Discord | 0.90% | ~1 |
+| Unseen Patterns | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -98,7 +99,6 @@
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Merchant Lord | 0.00% | ~0 |
-| Unseen Patterns | 0.00% | ~0 |
 | Glorious leader | 0.00% | ~0 |
 | Voracity Confronted | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |

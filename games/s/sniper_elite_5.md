@@ -11,6 +11,8 @@ Rating: 4.45 (Ranked 616)
 | Confirming Suspicions | 0.20% | ~6 |
 | Resourceful | 0.20% | ~6 |
 | Der Geist | 0.20% | ~6 |
+| As Quiet as a Mouse | 0.20% | ~6 |
+| It's Starting to Crack | 0.20% | ~6 |
 | Change the Channel | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
@@ -32,7 +34,6 @@ Rating: 4.45 (Ranked 616)
 | Explosive Efficiency | 0.10% | ~3 |
 | Lord of War | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
-| As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
@@ -40,7 +41,6 @@ Rating: 4.45 (Ranked 616)
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
 | Tinkerer | 0.10% | ~3 |
-| It's Starting to Crack | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Taking it back | 0.10% | ~3 |

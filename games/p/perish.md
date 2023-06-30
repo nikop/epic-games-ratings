@@ -7,14 +7,14 @@
 | To Suffer is to Learn | 5.00% | ~153 |
 | Lochos | 5.00% | ~153 |
 | Initiate's Resolve | 5.00% | ~153 |
-| Go For the Head | 4.00% | ~122 |
-| Missilis | 4.00% | ~122 |
-| Modest Earnings | 4.00% | ~122 |
-| Armaments of the Pantheon | 4.00% | ~122 |
-| Persephone's Guidance | 4.00% | ~122 |
-| The Sons of Minos | 4.00% | ~122 |
-| Strength of Herakles | 4.00% | ~122 |
-| Reign in Blood | 4.00% | ~122 |
+| Go For the Head | 4.00% | ~123 |
+| Missilis | 4.00% | ~123 |
+| Modest Earnings | 4.00% | ~123 |
+| Armaments of the Pantheon | 4.00% | ~123 |
+| Persephone's Guidance | 4.00% | ~123 |
+| The Sons of Minos | 4.00% | ~123 |
+| Strength of Herakles | 4.00% | ~123 |
+| Reign in Blood | 4.00% | ~123 |
 | Pillars of Eternity | 3.00% | ~92 |
 | Immolator | 3.00% | ~92 |
 | Spartan Sandal | 3.00% | ~92 |
@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~31 |
 | Close Shut the Doors | 1.00% | ~31 |
 | Scrap Metal | 1.00% | ~31 |
-| Invicta | 0.80% | ~24 |
+| Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~21 |
 | Hipparchia's Labour | 0.50% | ~15 |
 | Olympian | 0.50% | ~15 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,062 (Ranked 146)  
+Progressed: 3,063 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 3,041 | 0 |
 | 2023-06-28 | 3,044 | 0 |
 | 2023-06-29 | 3,061 | 0 |
-| 2023-06-30 | 3,062 | 0 |
+| 2023-06-30 | 3,063 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

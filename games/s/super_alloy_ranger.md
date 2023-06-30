@@ -24,13 +24,13 @@
 | Decapitation Strike | 7.00% | ~3 |
 | The Abyss Conqueror | 4.00% | ~2 |
 | The Paradox Coordinate Conqueror | 4.00% | ~2 |
+| The Hypergravitational Abyss Conqueror | 4.00% | ~2 |
 | Antaeus | 4.00% | ~2 |
 | The Deep Frozen Conqueror | 2.00% | ~1 |
 | The Infinite Train Conqueror | 2.00% | ~1 |
 | The Fortress Conqueror | 2.00% | ~1 |
 | The Zero Dimensional Capital Conqueror | 2.00% | ~1 |
 | The Inactivated Frozen Conqueror | 2.00% | ~1 |
-| The Hypergravitational Abyss Conqueror | 2.00% | ~1 |
 | Death Bringer Conqueror | 2.00% | ~1 |
 | he Ultra Fortress Conqueror | 2.00% | ~1 |
 | Break Through the Forbidden | 2.00% | ~1 |

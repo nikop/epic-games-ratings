@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -926,6 +926,11 @@
       "Time": "2023-06-30T12:04:43.0206666+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T13:18:26.1298882+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -935,9 +940,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1193,7 +1198,7 @@
       "Name": "Defenses Online",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1240,14 +1245,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-06-30T12:04:43.0206661+00:00",
+  "LastChanged_Achievements": "2023-06-30T13:18:26.1298878+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:41.8543405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T12:01:43.6057787+00:00",
-  "LastUpdate_Achievements": "2023-06-30T12:04:43.0207029+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:14:52.9810385+00:00",
+  "LastUpdate_Achievements": "2023-06-30T13:18:26.1299146+00:00"
 }

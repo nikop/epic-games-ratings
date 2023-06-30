@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3885,
+  "EOS_Progressed": 3886,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5295,6 +5295,11 @@
       "Time": "2023-06-30T07:04:17.5896873+00:00",
       "NumProgressed": 3885,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-30T13:18:18.9643936+00:00",
+      "NumProgressed": 3886,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5402,7 +5407,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5410,7 +5415,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5418,7 +5423,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -5426,7 +5431,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5578,7 +5583,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5625,15 +5630,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3885,
+      "Progressed": 3886,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-29T22:01:14.707163+00:00",
-  "LastChanged_Achievements": "2023-06-30T12:04:33.1977792+00:00",
+  "LastChanged_Achievements": "2023-06-30T13:18:18.9643931+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-30T12:01:26.9024098+00:00",
-  "LastUpdate_Achievements": "2023-06-30T12:04:33.1978489+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:14:34.4160063+00:00",
+  "LastUpdate_Achievements": "2023-06-30T13:18:18.9644396+00:00"
 }

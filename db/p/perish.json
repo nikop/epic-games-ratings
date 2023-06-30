@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1593,6 +1593,11 @@
       "Time": "2023-06-30T10:04:16.4273947+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T13:18:40.043558+00:00",
+      "NumProgressed": 3063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1684,7 +1689,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_K_A2",
@@ -1700,7 +1705,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_MC",
@@ -1740,7 +1745,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_M_D2",
@@ -1796,7 +1801,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_M_SC",
@@ -1812,7 +1817,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_OB_BB",
@@ -1852,7 +1857,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_OB_CS",
@@ -1940,7 +1945,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_OB_SD",
@@ -2028,7 +2033,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_TP",
@@ -2052,7 +2057,7 @@
       "Name": "Invicta",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KBK",
@@ -2107,7 +2112,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3063,
       "Completed": 0
     }
   ],
@@ -2115,8 +2120,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-06-30T12:05:02.3583457+00:00",
+  "LastChanged_Achievements": "2023-06-30T13:18:40.0435575+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:49.1863388+00:00",
-  "LastUpdate_Ratings": "2023-06-30T12:00:51.6355838+00:00",
-  "LastUpdate_Achievements": "2023-06-30T12:05:02.3584215+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:14:05.5298171+00:00",
+  "LastUpdate_Achievements": "2023-06-30T13:18:40.0436124+00:00"
 }

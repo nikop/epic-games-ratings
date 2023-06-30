@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You Need a Gun | 0.40% | ~62 |
 | Get a Grip | 0.40% | ~62 |
+| Two Heads Are Better Than One | 0.40% | ~62 |
 | Paper Jams | 0.40% | ~62 |
+| Keep Fighting | 0.40% | ~14 |
 | Giving Back | 0.30% | ~47 |
-| You Need a Gun | 0.30% | ~47 |
+| Flesh Wound | 0.30% | ~47 |
 | I Do Belong Here | 0.30% | ~47 |
-| Two Heads Are Better Than One | 0.30% | ~47 |
+| Reforged | 0.30% | ~47 |
 | In the Pipe, Five by Five | 0.30% | ~47 |
 | Crash Site | 0.30% | ~47 |
-| Keep Fighting | 0.30% | ~11 |
-| Flesh Wound | 0.20% | ~31 |
+| Power Up | 0.30% | ~47 |
 | Chew 'Em Up | 0.20% | ~31 |
 | Terminated | 0.20% | ~31 |
 | Workplace Hazard | 0.20% | ~31 |
 | The Commonality | 0.20% | ~31 |
 | Float Like A Butterfly | 0.20% | ~31 |
-| Reforged | 0.20% | ~31 |
 | The Outer Way | 0.20% | ~31 |
 | If the SHU Fits... | 0.20% | ~31 |
 | Without A Paddle | 0.20% | ~31 |
 | What Lies Beneath | 0.20% | ~31 |
 | Desperate Times | 0.20% | ~31 |
 | Full Circle | 0.20% | ~31 |
-| Power Up | 0.20% | ~31 |
 | It's Time | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
@@ -39,6 +39,7 @@ Rating: 4.19 (Ranked 844)
 | In Striking Distance | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | Instigator | 0.10% | ~4 |
+| Hoard Mode | 0.10% | ~4 |
 | Subject Alpha | 0.10% | ~4 |
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
@@ -51,7 +52,6 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 | Bear Trap | 0.00% | ~0 |
-| Hoard Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,592 (Ranked 106)  
 Completed: 60 (0.38%) (Ranked 133)  
@@ -126,15 +126,15 @@ Completed: 60 (0.38%) (Ranked 133)
 | 2023-06-30 | 15,592 | 60 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
-Sum: 347 (Ranked 323)  
-Diff (max vs sum): 61  
+Sum: 348 (Ranked 322)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 61 |
 | This game is Highly Recommended | 59 |
 | This game has Amazing Characters | 59 |
 | This game has Quickly Understood Controls | 56 |
-| This game is Extremely Fun | 49 |
+| This game is Extremely Fun | 50 |
 | This game has Challenging Combat | 41 |
 | This game has a Creative Community | 22 |
 ## Ratings History
@@ -219,3 +219,4 @@ Diff (max vs sum): 61
 | 2023-06-26 | 4.19 | 57 | 335 |
 | 2023-06-27 | 4.19 | 59 | 340 |
 | 2023-06-29 | 4.19 | 61 | 347 |
+| 2023-06-30 | 4.19 | 61 | 348 |

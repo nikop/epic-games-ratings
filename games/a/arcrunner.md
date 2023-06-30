@@ -25,16 +25,16 @@
 | Eden Heights | 0.90% | ~6 |
 | Inner Core | 0.80% | ~5 |
 | Integration | 0.60% | ~4 |
+| Destruction | 0.50% | ~3 |
 | Ripperdoc | 0.30% | ~2 |
 | Cyborg | 0.20% | ~1 |
-| Destruction | 0.20% | ~1 |
 | Hard Boiled | 0.20% | ~1 |
 | Trickshot | 0.20% | ~1 |
 | Fully Modded | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648 (Ranked 203)  
+Progressed: 649 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 633 | 0 |
 | 2023-06-28 | 639 | 0 |
 | 2023-06-29 | 646 | 0 |
-| 2023-06-30 | 648 | 0 |
+| 2023-06-30 | 649 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

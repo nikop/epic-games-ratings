@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -72,10 +72,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64023,
+  "EOS_Progressed": 64028,
   "EOS_Completed": 591,
-  "EOS_NewPlayers": 1106,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 1102,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
@@ -7662,6 +7662,11 @@
       "Time": "2023-06-30T12:07:29.3161166+00:00",
       "NumProgressed": 64023,
       "NumCompleted": 591
+    },
+    {
+      "Time": "2023-06-30T13:20:25.214156+00:00",
+      "NumProgressed": 64028,
+      "NumCompleted": 591
     }
   ],
   "TotalAchievements": 25,
@@ -7689,7 +7694,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11524
+      "UsersEstimate": 11525
     },
     {
       "ID": "Audiophile",
@@ -7697,7 +7702,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "Be Seeing You",
@@ -7705,7 +7710,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14085
+      "UsersEstimate": 14086
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -7713,7 +7718,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10884
+      "UsersEstimate": 10885
     },
     {
       "ID": "Butcher",
@@ -7745,7 +7750,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12805
+      "UsersEstimate": 12806
     },
     {
       "ID": "Hearty",
@@ -7761,7 +7766,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "Magnetic Miracles",
@@ -7777,7 +7782,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12805
+      "UsersEstimate": 12806
     },
     {
       "ID": "Meaty",
@@ -7793,7 +7798,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "Nice Try",
@@ -7809,7 +7814,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3841
+      "UsersEstimate": 3842
     },
     {
       "ID": "Piano Man",
@@ -7817,7 +7822,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "Right On Target",
@@ -7825,7 +7830,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "Sniper",
@@ -7857,7 +7862,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "Vinyl Vibes",
@@ -7872,7 +7877,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64023,
+      "Progressed": 64028,
       "Completed": 591
     }
   ],
@@ -7880,8 +7885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-06-30T12:07:29.316116+00:00",
+  "LastChanged_Achievements": "2023-06-30T13:20:25.2141556+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:46.5286489+00:00",
-  "LastUpdate_Ratings": "2023-06-30T12:01:48.8107588+00:00",
-  "LastUpdate_Achievements": "2023-06-30T12:07:29.316199+00:00"
+  "LastUpdate_Ratings": "2023-06-30T13:14:57.5610991+00:00",
+  "LastUpdate_Achievements": "2023-06-30T13:20:25.2142036+00:00"
 }

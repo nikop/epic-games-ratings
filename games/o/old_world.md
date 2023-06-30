@@ -62,7 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 30.00% | ~3,724 |
 | Wise | 29.00% | ~3,600 |
 | Just Difficulty | 29.00% | ~3,600 |
-| Mausoleum | 28.00% | ~3,476 |
+| Mausoleum | 29.00% | ~3,600 |
 | Intercessor | 26.00% | ~3,228 |
 | Valiant | 26.00% | ~3,228 |
 | Sages | 25.00% | ~3,104 |

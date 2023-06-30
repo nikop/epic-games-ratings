@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,968 |
+| First Step Into the Knight | 6.00% | ~3,969 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,646 |
 | Loose Ends | 4.00% | ~2,646 |
 | The Batman Family | 3.00% | ~1,984 |
@@ -47,9 +47,9 @@ Rating: 4.18 (Ranked 850)
 | Bat Out of Hell | 0.50% | ~331 |
 | He'd Be So Proud of You | 0.40% | ~265 |
 | Hammer and Icicle | 0.30% | ~109 |
+| Renewable Enemy Source | 0.30% | ~109 |
 | Practice Makes Perfect | 0.30% | ~198 |
 | Element of Surprise | 0.20% | ~73 |
-| Renewable Enemy Source | 0.20% | ~73 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
 | The Cold, the Bad and the Ugly | 0.20% | ~73 |
 | Talonted | 0.20% | ~132 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,140 (Ranked 72)  
+Progressed: 66,144 (Ranked 72)  
 Completed: 99 (0.15%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 99 (0.15%) (Ranked 167)
 | 2023-06-27 | 66,058 | 98 |
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
-| 2023-06-30 | 66,140 | 99 |
+| 2023-06-30 | 66,144 | 99 |
 ## Awards
 Max (Great Boss Battles): 2,401  (Ranked 100)  
 Sum: 3,973 (Ranked 137)  

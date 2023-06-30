@@ -75,10 +75,10 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VI | 0.70% | ~29 |
 | Last man standing | 0.60% | ~25 |
 | Builder V | 0.60% | ~25 |
+| Buried | 0.60% | ~25 |
 | Ten-Hut! | 0.60% | ~25 |
 | Penny pincher | 0.60% | ~25 |
 | The wood shortage | 0.60% | ~25 |
-| Buried | 0.50% | ~21 |
 | Craftsmen challenge | 0.50% | ~21 |
 | Made my choice | 0.50% | ~21 |
 | An honorable departure | 0.50% | ~21 |
