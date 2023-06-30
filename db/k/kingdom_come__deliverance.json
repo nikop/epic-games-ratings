@@ -5530,10 +5530,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 27173,
       "NumberOfAwardsMax": 7284
+    },
+    {
+      "Time": "2023-06-30T03:13:58.8508414+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27174,
+      "NumberOfAwardsMax": 7284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27173,
+  "NumberOfAwards": 27174,
   "NumberOfAwardsMax": 7284,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5601,7 +5607,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1492
+      "Count": 1493
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5616,7 +5622,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 790177,
+  "EOS_Progressed": 790179,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 0,
@@ -13111,6 +13117,11 @@
       "Time": "2023-06-30T02:24:20.1782109+00:00",
       "NumProgressed": 790177,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-06-30T03:22:21.9907956+00:00",
+      "NumProgressed": 790179,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 82,
@@ -13146,7 +13157,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126428
+      "UsersEstimate": 126429
     },
     {
       "ID": "Awakening",
@@ -13154,7 +13165,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158035
+      "UsersEstimate": 158036
     },
     {
       "ID": "BadGirl",
@@ -13234,7 +13245,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 197544
+      "UsersEstimate": 197545
     },
     {
       "ID": "Chivalrous",
@@ -13522,7 +13533,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55312
+      "UsersEstimate": 55313
     },
     {
       "ID": "MercenarysHonor",
@@ -13602,7 +13613,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158035
+      "UsersEstimate": 158036
     },
     {
       "ID": "RevenantOfLedechko",
@@ -13626,7 +13637,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55312
+      "UsersEstimate": 55313
     },
     {
       "ID": "Saviour",
@@ -13642,7 +13653,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158035
+      "UsersEstimate": 158036
     },
     {
       "ID": "SerialKiller",
@@ -13658,7 +13669,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86919
+      "UsersEstimate": 86920
     },
     {
       "ID": "Sniper",
@@ -13777,15 +13788,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 790177,
+      "Progressed": 790179,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-06-30T02:16:25.5447613+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:24:20.1782103+00:00",
+  "LastChanged": "2023-06-30T03:13:58.8508413+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:22:21.990795+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:13.0177106+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:16:25.544762+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:24:20.1783181+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:13:58.8508486+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:22:21.9909581+00:00"
 }

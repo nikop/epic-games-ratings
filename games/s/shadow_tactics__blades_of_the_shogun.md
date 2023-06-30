@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~182 |
 | Release the Kraken | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,795 (Ranked 57)  
+Progressed: 181,802 (Ranked 57)  
 Completed: 55 (0.03%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 55 (0.03%) (Ranked 202)
 | 2023-06-27 | 181,183 | 55 |
 | 2023-06-28 | 181,481 | 55 |
 | 2023-06-29 | 181,766 | 55 |
-| 2023-06-30 | 181,795 | 55 |
+| 2023-06-30 | 181,802 | 55 |
 ## Awards
 Max (Great for Beginners): 552  (Ranked 182)  
 Sum: 4,690 (Ranked 129)  

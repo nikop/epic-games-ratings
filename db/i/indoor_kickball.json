@@ -2,9 +2,9 @@
   "ID": "966985c3df584749946cdae64509bb85",
   "Name": "Indoor Kickball",
   "ProductSlug": "indoor-kickball-843529",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -342,9 +342,9 @@
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "14",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:24:05.6102226+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:22:06.0151863+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:03.7152152+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:17:11.2824234+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:24:05.6102486+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:14:52.9551701+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:22:06.0152176+00:00"
 }

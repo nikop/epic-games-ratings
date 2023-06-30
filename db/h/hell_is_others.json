@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 252099,
+  "EOS_Progressed": 252101,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7757,6 +7757,11 @@
       "Time": "2023-06-30T02:22:06.5171148+00:00",
       "NumProgressed": 252099,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-06-30T03:19:46.6909905+00:00",
+      "NumProgressed": 252101,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7792,7 +7797,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Act5",
@@ -7800,7 +7805,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -7848,7 +7853,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "BuyNWeapons",
@@ -8215,7 +8220,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252099,
+      "Progressed": 252101,
       "Completed": 2
     }
   ],
@@ -8223,8 +8228,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-29T22:01:21.9237909+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:22:06.5171142+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:19:46.6909899+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:31.9458686+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:18:22.9195212+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:22:06.5171852+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:16:18.2664567+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:19:46.69115+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~10,597 |
-| Mama? | 28.00% | ~3,904 |
-| People's Haven | 19.00% | ~2,649 |
-| Cartographer | 18.00% | ~2,510 |
-| Knowledge for Power | 15.00% | ~2,091 |
-| Antlers of Stone | 15.00% | ~2,091 |
-| Gaze into the abyss | 14.00% | ~1,952 |
-| Mausoleum of Ice | 14.00% | ~1,952 |
+| Light at the end of the tunnel | 76.00% | ~10,600 |
+| Mama? | 28.00% | ~3,905 |
+| People's Haven | 19.00% | ~2,650 |
+| Cartographer | 18.00% | ~2,511 |
+| Knowledge for Power | 15.00% | ~2,092 |
+| Antlers of Stone | 15.00% | ~2,092 |
+| Gaze into the abyss | 14.00% | ~1,953 |
+| Mausoleum of Ice | 14.00% | ~1,953 |
 | Equilibrium | 13.00% | ~1,813 |
-| In the belly of the beast | 12.00% | ~1,673 |
-| Wings of Stone | 12.00% | ~1,673 |
-| Condor condo | 10.00% | ~1,394 |
+| In the belly of the beast | 12.00% | ~1,674 |
+| Wings of Stone | 12.00% | ~1,674 |
+| Condor condo | 10.00% | ~1,395 |
 | Memorial | 9.00% | ~1,255 |
-| An uninvited guest | 8.00% | ~1,115 |
+| An uninvited guest | 8.00% | ~1,116 |
 | Written in stone | 7.00% | ~976 |
 | Talk to all the spirit animals | 7.00% | ~976 |
 | Ripples on the surface | 6.00% | ~837 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~837 |
 | Hide and Seek | 5.00% | ~697 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,943 (Ranked 109)  
+Progressed: 13,948 (Ranked 109)  
 Completed: 293 (2.10%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 293 (2.10%) (Ranked 73)
 | 2023-06-27 | 13,758 | 290 |
 | 2023-06-28 | 13,852 | 293 |
 | 2023-06-29 | 13,934 | 293 |
-| 2023-06-30 | 13,943 | 293 |
+| 2023-06-30 | 13,948 | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

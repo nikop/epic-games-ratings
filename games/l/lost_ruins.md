@@ -9,8 +9,8 @@
 | Bug Hunter | 25.00% | ~98 |
 | Boss Killer | 24.00% | ~94 |
 | The Fallen | 22.00% | ~86 |
+| Artifact Collector | 21.00% | ~83 |
 | Trap Master | 21.00% | ~83 |
-| Artifact Collector | 20.00% | ~79 |
 | Ghost Buster | 16.00% | ~63 |
 | Reincarnation | 16.00% | ~63 |
 | Iconoclasm | 14.00% | ~55 |

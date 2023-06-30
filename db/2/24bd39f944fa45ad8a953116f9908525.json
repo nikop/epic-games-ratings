@@ -2,9 +2,9 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34,6 +34,11 @@
       "Time": "2023-06-30T02:18:44.4833193+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T03:16:45.4147053+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -43,25 +48,25 @@
       "ID": "ach_00_glove",
       "SetID": "16n29hg",
       "Name": "Fully Charged",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_01_defeatPing",
       "SetID": "16n29hg",
       "Name": "He ran away!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_02_journeyStart",
       "SetID": "16n29hg",
       "Name": "The journey begins",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_03_anyTrain",
@@ -91,25 +96,25 @@
       "ID": "ach_06_spikeDeath",
       "SetID": "16n29hg",
       "Name": "Just like the Local",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_07_foundHidden",
       "SetID": "16n29hg",
       "Name": "Hidden Corner",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_08_hpFrag3",
       "SetID": "16n29hg",
       "Name": "Muscular Guy",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_09_acidDeath10",
@@ -123,9 +128,9 @@
       "ID": "ach_10_scarvenger1",
       "SetID": "16n29hg",
       "Name": "Scavenger",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_11_scarvengerEA",
@@ -139,41 +144,41 @@
       "ID": "ach_12_worldMap",
       "SetID": "16n29hg",
       "Name": "Welcome to Sanho",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_13_supplyBig10",
       "SetID": "16n29hg",
       "Name": "Treasure Hunter",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_14_squeezeDeath",
       "SetID": "16n29hg",
       "Name": "Physics Lesson",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_15_breakTile100",
       "SetID": "16n29hg",
       "Name": "Destroyer",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_16_defeatPing3",
       "SetID": "16n29hg",
       "Name": "Who\u0027s your daddy?",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_17_station2h",
@@ -195,7 +200,7 @@
       "ID": "ach_19_dogDeath3",
       "SetID": "16n29hg",
       "Name": "Beware of Attack Dog",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -299,9 +304,9 @@
       "ID": "ach_33_useTpToilet",
       "SetID": "16n29hg",
       "Name": "Smells Interesting",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_34_perfectJump",
@@ -484,13 +489,13 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:18:44.4833188+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:16:45.4147043+00:00",
   "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:14:50.7934146+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:18:44.4833658+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:12:07.3260382+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:16:45.4147546+00:00"
 }

@@ -7,23 +7,23 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 31.00% | ~244,955 |
-| Cavalier | 25.00% | ~197,544 |
+| Cavalier | 25.00% | ~197,545 |
 | Fatso | 23.00% | ~181,741 |
-| Awakening | 20.00% | ~158,035 |
-| Ranger | 20.00% | ~158,035 |
-| Scrooge | 20.00% | ~158,035 |
-| Anorectic | 16.00% | ~126,428 |
+| Awakening | 20.00% | ~158,036 |
+| Ranger | 20.00% | ~158,036 |
+| Scrooge | 20.00% | ~158,036 |
+| Anorectic | 16.00% | ~126,429 |
 | Firestarter | 15.00% | ~118,527 |
 | Bookworm | 14.00% | ~110,625 |
 | Insomniac | 13.00% | ~102,723 |
 | Buddy | 12.00% | ~94,821 |
 | Thief | 12.00% | ~94,821 |
-| Sinner | 11.00% | ~86,919 |
+| Sinner | 11.00% | ~86,920 |
 | Convict | 10.00% | ~79,018 |
 | Traveller | 10.00% | ~79,018 |
 | Haggler | 9.00% | ~71,116 |
-| McLovin | 7.00% | ~55,312 |
-| Runt | 7.00% | ~55,312 |
+| McLovin | 7.00% | ~55,313 |
+| Runt | 7.00% | ~55,313 |
 | Casanova | 6.00% | ~47,411 |
 | Bad Trip | 5.00% | ~39,509 |
 | Monk | 5.00% | ~39,509 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,177 (Ranked 15)  
+Progressed: 790,179 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 43 (0.01%) (Ranked 218)
 | 2023-06-27 | 789,898 | 43 |
 | 2023-06-28 | 790,036 | 43 |
 | 2023-06-29 | 790,168 | 43 |
-| 2023-06-30 | 790,177 | 43 |
+| 2023-06-30 | 790,179 | 43 |
 ## Awards
 Max (Character Customization): 7,284  (Ranked 46)  
-Sum: 27,173 (Ranked 43)  
+Sum: 27,174 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -177,7 +177,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 1,617 |
 | This game has Realistic Visuals | 1,601 |
 | This game is Educational | 1,554 |
-| This game is Relaxing | 1,492 |
+| This game is Relaxing | 1,493 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -338,4 +338,4 @@ Diff (max vs sum): 3
 | 2023-06-27 | 4.71 | - | 7,279 | 27,156 |
 | 2023-06-28 | 4.71 | - | 7,280 | 27,165 |
 | 2023-06-29 | 4.71 | - | 7,280 | 27,167 |
-| 2023-06-30 | 4.71 | - | 7,284 | 27,173 |
+| 2023-06-30 | 4.71 | - | 7,284 | 27,174 |

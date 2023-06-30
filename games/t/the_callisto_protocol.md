@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Get a Grip | 0.30% | ~47 |
 | Paper Jams | 0.30% | ~47 |
 | Giving Back | 0.20% | ~31 |
 | You Need a Gun | 0.20% | ~31 |
 | Flesh Wound | 0.20% | ~31 |
 | I Do Belong Here | 0.20% | ~31 |
-| Get a Grip | 0.20% | ~31 |
 | Two Heads Are Better Than One | 0.20% | ~31 |
 | Chew 'Em Up | 0.20% | ~31 |
 | Workplace Hazard | 0.20% | ~31 |
@@ -19,7 +19,10 @@ Rating: 4.19 (Ranked 844)
 | The Outer Way | 0.20% | ~31 |
 | Without A Paddle | 0.20% | ~31 |
 | In the Pipe, Five by Five | 0.20% | ~31 |
+| What Lies Beneath | 0.20% | ~31 |
+| Desperate Times | 0.20% | ~31 |
 | Crash Site | 0.20% | ~31 |
+| Full Circle | 0.20% | ~31 |
 | Power Up | 0.20% | ~31 |
 | Keep Fighting | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -34,9 +37,6 @@ Rating: 4.19 (Ranked 844)
 | Float Like A Butterfly | 0.10% | ~16 |
 | Mugshot | 0.10% | ~16 |
 | If the SHU Fits... | 0.10% | ~16 |
-| What Lies Beneath | 0.10% | ~16 |
-| Desperate Times | 0.10% | ~16 |
-| Full Circle | 0.10% | ~16 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |

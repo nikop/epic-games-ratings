@@ -75,11 +75,11 @@
 | Ancient Ruins of Chilly Winds | 3.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~3 |
 | European karaoke king | 3.00% | ~3 |
+| Out of bounds | 3.00% | ~3 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
 | Consider it dealt with | 2.00% | ~2 |
-| Out of bounds | 2.00% | ~2 |
-| I'm getting full... | 0.00% | ~0 |
+| I'm getting full... | 1.00% | ~1 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |

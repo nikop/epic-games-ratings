@@ -4520,9 +4520,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -4744,9 +4744,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -4920,9 +4920,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -5095,8 +5095,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:24:19.5826052+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:22:21.3395827+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:47.7386023+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:18:37.4287449+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:24:19.5826988+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:16:35.5124596+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:22:21.3396722+00:00"
 }

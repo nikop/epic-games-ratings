@@ -5,12 +5,14 @@ Rating: 4.45 (Ranked 618)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Liberté | 0.20% | ~6 |
 | No Stone Unturned | 0.20% | ~6 |
 | Resourceful | 0.20% | ~6 |
+| Der Geist | 0.20% | ~6 |
 | The Kraken Wakes | 0.20% | ~6 |
 | Change the Channel | 0.20% | ~6 |
+| The Kraken Sleeps | 0.20% | ~6 |
 | Climbing the Ladder | 0.10% | ~3 |
-| Liberté | 0.10% | ~3 |
 | Opposing Force | 0.10% | ~3 |
 | Enemy at the Gates | 0.10% | ~3 |
 | Fields of Glory | 0.10% | ~3 |
@@ -28,7 +30,6 @@ Rating: 4.45 (Ranked 618)
 | My Little Friend | 0.10% | ~3 |
 | Explosive Efficiency | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
-| Der Geist | 0.10% | ~3 |
 | As Quiet as a Mouse | 0.10% | ~3 |
 | Close Quarters | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
@@ -43,7 +44,6 @@ Rating: 4.45 (Ranked 618)
 | Taking it back | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
 | Target America | 0.10% | ~3 |
-| The Kraken Sleeps | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
 | Siegebreaker | 0.10% | ~3 |

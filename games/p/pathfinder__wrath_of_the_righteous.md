@@ -48,8 +48,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | The Final Threshold | 0.90% | ~91 |
 | Strategic Victory | 0.90% | ~91 |
 | This Wall Won't Fall | 0.90% | ~80 |
+| Not the Last Sarkorian | 0.90% | ~80 |
 | End of Eternal Guard | 0.80% | ~81 |
-| Not the Last Sarkorian | 0.80% | ~71 |
 | Path of the Legend | 0.70% | ~71 |
 | Playful Mood | 0.70% | ~71 |
 | Path of the Dragon | 0.60% | ~61 |

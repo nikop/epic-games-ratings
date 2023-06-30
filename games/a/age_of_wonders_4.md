@@ -7,7 +7,7 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | Secret Technique | 1.00% | ~49 |
 | Tipping the Scales | 1.00% | ~49 |
-| Realm Estate | 0.80% | ~39 |
+| Realm Estate | 0.90% | ~44 |
 | A Wonderful Discovery | 0.80% | ~39 |
 | Walls Cannot Stop Us | 0.80% | ~39 |
 | Magical Synergy | 0.80% | ~39 |
@@ -15,8 +15,8 @@ Rating: 4.59 (Ranked 410)
 | Mighty Hoard | 0.80% | ~39 |
 | From Friends to Family | 0.70% | ~34 |
 | Stronger Together | 0.70% | ~34 |
+| Here be Dragons | 0.70% | ~34 |
 | Blood of the Dragon | 0.70% | ~34 |
-| Here be Dragons | 0.60% | ~29 |
 | Bone Peddler | 0.50% | ~24 |
 | Seat of Power | 0.50% | ~24 |
 | Fiery Friend | 0.50% | ~24 |
@@ -38,13 +38,13 @@ Rating: 4.59 (Ranked 410)
 | The Magic That Empowers Me! | 0.20% | ~10 |
 | God Emperor | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
+| The Eternal Court | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
-| The Eternal Court | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
@@ -54,9 +54,9 @@ Rating: 4.59 (Ranked 410)
 | Returning Circle | 0.10% | ~5 |
 | Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
-| Draconic Connoisseur | 0.00% | ~0 |
+| Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,876 (Ranked 134)  
+Progressed: 4,877 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 4 (0.08%) (Ranked 186)
 | 2023-06-27 | 4,858 | 3 |
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
+| 2023-06-30 | 4,877 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

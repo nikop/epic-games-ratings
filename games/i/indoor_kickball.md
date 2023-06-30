@@ -10,10 +10,10 @@
 | Homer | 68.00% | ~45 |
 | Settle Down | 67.00% | ~44 |
 | Have a good trip! | 67.00% | ~44 |
+| Kickball Unlocked | 64.00% | ~42 |
 | Butter Fingers | 64.00% | ~42 |
 | Stay Hydrated | 64.00% | ~42 |
 | First Win | 62.00% | ~41 |
-| Kickball Unlocked | 62.00% | ~41 |
 | True Story! | 35.00% | ~23 |
 | Bedroom Secret Spot | 33.00% | ~22 |
 | Kick It | 30.00% | ~20 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 318)  
+Progressed: 66 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

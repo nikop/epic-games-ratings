@@ -415,9 +415,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 326293,
+  "EOS_Progressed": 326301,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1979,
+  "EOS_NewPlayers": 1982,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7905,6 +7905,11 @@
       "Time": "2023-06-30T02:22:39.4512137+00:00",
       "NumProgressed": 326293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-06-30T03:20:25.7931393+00:00",
+      "NumProgressed": 326301,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -7932,7 +7937,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39155
+      "UsersEstimate": 39156
     },
     {
       "ID": "ach004",
@@ -7972,7 +7977,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 39155
+      "UsersEstimate": 39156
     },
     {
       "ID": "ach009",
@@ -8004,7 +8009,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26103
+      "UsersEstimate": 26104
     },
     {
       "ID": "ach013",
@@ -8020,7 +8025,7 @@
       "Name": "Fronting the Money",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45681
+      "UsersEstimate": 45682
     },
     {
       "ID": "ach015",
@@ -8044,7 +8049,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 42418
+      "UsersEstimate": 42419
     },
     {
       "ID": "ach018",
@@ -8124,7 +8129,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 150095
+      "UsersEstimate": 150098
     },
     {
       "ID": "ach028",
@@ -8140,7 +8145,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32629
+      "UsersEstimate": 32630
     },
     {
       "ID": "ach030",
@@ -8220,7 +8225,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32629
+      "UsersEstimate": 32630
     },
     {
       "ID": "ach040",
@@ -8268,7 +8273,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42418
+      "UsersEstimate": 42419
     },
     {
       "ID": "ach046",
@@ -8316,7 +8321,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 35892
+      "UsersEstimate": 35893
     },
     {
       "ID": "ach052",
@@ -8380,7 +8385,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32629
+      "UsersEstimate": 32630
     },
     {
       "ID": "ach060",
@@ -8428,7 +8433,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45681
+      "UsersEstimate": 45682
     },
     {
       "ID": "ach067",
@@ -8444,7 +8449,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52207
+      "UsersEstimate": 52208
     },
     {
       "ID": "ach069",
@@ -8452,7 +8457,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 45681
+      "UsersEstimate": 45682
     },
     {
       "ID": "ach070",
@@ -8555,7 +8560,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 326293,
+      "Progressed": 326301,
       "Completed": 5
     }
   ],
@@ -8563,8 +8568,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-06-29T13:13:05.4965236+00:00",
-  "LastChanged_Achievements": "2023-06-30T02:22:39.4512133+00:00",
+  "LastChanged_Achievements": "2023-06-30T03:20:25.7931387+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:18.7333048+00:00",
-  "LastUpdate_Ratings": "2023-06-30T02:15:40.2637698+00:00",
-  "LastUpdate_Achievements": "2023-06-30T02:22:39.4513173+00:00"
+  "LastUpdate_Ratings": "2023-06-30T03:13:05.4818637+00:00",
+  "LastUpdate_Achievements": "2023-06-30T03:20:25.7932839+00:00"
 }
