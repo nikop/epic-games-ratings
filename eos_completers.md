@@ -13,7 +13,7 @@
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
 | 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.16% |
+| 14 | [Sonic Origins](games/s/sonic_origins.md) | 13.09% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
@@ -87,7 +87,7 @@
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
 | 87 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 87 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
+| 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.41% |
 | 89 | [Five Dates](games/f/five_dates.md) | 1.31% |
 | 90 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 91 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
@@ -114,9 +114,9 @@
 | 112 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 112 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
 | 114 | [Train Valley](games/t/train_valley.md) | 0.66% |
-| 115 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 115 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
-| 117 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.62% |
+| 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 116 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.62% |
 | 118 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 119 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 120 | [Grindstone](games/g/grindstone.md) | 0.57% |
@@ -477,4 +477,4 @@
 | 230 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 230 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,856 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,857 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
