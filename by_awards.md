@@ -38,7 +38,7 @@
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,365 | 4.78 | 100 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,336 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,918 | 4.76 | 119 |
-| 39 | [Control](games/c/control.md) | 8,371 | 4.60 | 387 |
+| 39 | [Control](games/c/control.md) | 8,375 | 4.60 | 387 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,104 | 4.58 | 421 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,659 | 4.85 | 41 |
 | 42 | [Supraland](games/s/supraland.md) | 7,631 | 4.61 | 362 |

@@ -389,7 +389,7 @@
 | 387 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 654 | 168 |
 | 387 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,590 | 28 |
 | 387 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 189 | 273 |
-| 387 | [Control](games/c/control.md) | 4.60 | 8,371 | 39 |
+| 387 | [Control](games/c/control.md) | 4.60 | 8,375 | 39 |
 | 387 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 216 | 257 |
 | 387 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 360 |
 | 387 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.60 | 39,615 | 12 |
