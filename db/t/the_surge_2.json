@@ -6,9 +6,9 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 162,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -1894,9 +1894,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHV_53",
@@ -1951,8 +1951,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-06-30T22:06:51.3469843+00:00",
+  "LastChanged_Achievements": "2023-06-30T23:06:53.9363886+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:44.728942+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:00:54.43079+00:00",
-  "LastUpdate_Achievements": "2023-06-30T22:06:51.3470298+00:00"
+  "LastUpdate_Ratings": "2023-06-30T23:00:55.8538256+00:00",
+  "LastUpdate_Achievements": "2023-06-30T23:06:53.9364345+00:00"
 }

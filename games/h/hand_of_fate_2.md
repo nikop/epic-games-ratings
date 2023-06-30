@@ -6,14 +6,14 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,255 |
-| Apprentice | 58.00% | ~382,038 |
-| Close Shave | 25.00% | ~164,672 |
-| Mercenary | 23.00% | ~151,498 |
-| Ninja | 23.00% | ~151,498 |
-| Northern Scourge | 17.00% | ~111,977 |
-| Thief Bane | 14.00% | ~92,216 |
-| Master of Arms | 12.00% | ~79,042 |
+| The Fool | 72.00% | ~474,258 |
+| Apprentice | 58.00% | ~382,041 |
+| Close Shave | 25.00% | ~164,673 |
+| Mercenary | 23.00% | ~151,499 |
+| Ninja | 23.00% | ~151,499 |
+| Northern Scourge | 17.00% | ~111,978 |
+| Thief Bane | 14.00% | ~92,217 |
+| Master of Arms | 12.00% | ~79,043 |
 | Gambler | 10.00% | ~65,869 |
 | Dice Master | 10.00% | ~65,869 |
 | Swordsman | 9.00% | ~59,282 |
@@ -24,10 +24,10 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,108 |
 | Devil Dice | 7.00% | ~46,108 |
 | Broken Heart | 7.00% | ~46,108 |
-| Adventurer | 6.00% | ~39,521 |
-| Empire's Bane | 6.00% | ~39,521 |
-| Jack of all Trades | 5.00% | ~32,934 |
-| Smithy | 5.00% | ~32,934 |
+| Adventurer | 6.00% | ~39,522 |
+| Empire's Bane | 6.00% | ~39,522 |
+| Jack of all Trades | 5.00% | ~32,935 |
+| Smithy | 5.00% | ~32,935 |
 | Leap of Faith | 3.00% | ~19,761 |
 | Combat Ready | 3.00% | ~19,761 |
 | Stuffed Potato | 3.00% | ~19,761 |
@@ -39,8 +39,8 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,587 |
 | Champion | 1.00% | ~6,587 |
 | Final Death | 1.00% | ~6,587 |
-| Ally | 0.80% | ~5,269 |
-| Thomas' Bane | 0.80% | ~5,269 |
+| Ally | 0.80% | ~5,270 |
+| Thomas' Bane | 0.80% | ~5,270 |
 | Gamester | 0.70% | ~4,611 |
 | Hero | 0.60% | ~3,952 |
 | Rebel | 0.60% | ~3,952 |
@@ -55,8 +55,8 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,687 (Ranked 21)  
-Completed: 165 (0.03%) (Ranked 204)  
+Progressed: 658,692 (Ranked 21)  
+Completed: 165 (0.03%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 165 (0.03%) (Ranked 204)
 | 2023-06-27 | 658,535 | 165 |
 | 2023-06-28 | 658,581 | 165 |
 | 2023-06-29 | 658,632 | 165 |
-| 2023-06-30 | 658,687 | 165 |
+| 2023-06-30 | 658,692 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 371)  

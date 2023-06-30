@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 54.00% | ~60 |
+| A Second Chance | 54.00% | ~61 |
 | Press-ganged | 39.00% | ~44 |
 | The Package | 21.00% | ~24 |
 | Randomized | 14.00% | ~16 |
@@ -13,14 +13,14 @@
 | Tactician | 6.00% | ~7 |
 | Fight Another Day | 6.00% | ~7 |
 | Breached | 5.00% | ~6 |
-| Conciliator | 4.00% | ~4 |
-| Scholar | 4.00% | ~4 |
-| Acquaintance | 4.00% | ~4 |
-| Tail-wind | 4.00% | ~4 |
-| Taskmaster | 4.00% | ~4 |
+| Conciliator | 4.00% | ~5 |
+| Scholar | 4.00% | ~5 |
+| Harbinger | 4.00% | ~5 |
+| Acquaintance | 4.00% | ~5 |
+| Tail-wind | 4.00% | ~5 |
+| Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
-| Harbinger | 3.00% | ~3 |
 | Courier | 3.00% | ~3 |
 | Supercargo | 2.00% | ~2 |
 | Strategist | 2.00% | ~2 |
@@ -104,8 +104,8 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 230)  
+Progressed: 113 (Ranked 289)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-18 | 108 | 0 |
 | 2023-06-20 | 110 | 0 |
 | 2023-06-21 | 112 | 0 |
+| 2023-06-30 | 113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~10,648 |
-| Mama? | 28.00% | ~3,923 |
-| People's Haven | 19.00% | ~2,662 |
-| Cartographer | 18.00% | ~2,522 |
-| Knowledge for Power | 15.00% | ~2,102 |
-| Antlers of Stone | 15.00% | ~2,102 |
-| Gaze into the abyss | 14.00% | ~1,962 |
-| Mausoleum of Ice | 14.00% | ~1,962 |
-| Equilibrium | 13.00% | ~1,821 |
-| In the belly of the beast | 12.00% | ~1,681 |
-| Wings of Stone | 12.00% | ~1,681 |
-| Condor condo | 10.00% | ~1,401 |
-| Memorial | 9.00% | ~1,261 |
-| An uninvited guest | 8.00% | ~1,121 |
+| Light at the end of the tunnel | 76.00% | ~10,656 |
+| Mama? | 28.00% | ~3,926 |
+| People's Haven | 19.00% | ~2,664 |
+| Cartographer | 18.00% | ~2,524 |
+| Knowledge for Power | 15.00% | ~2,103 |
+| Antlers of Stone | 15.00% | ~2,103 |
+| Gaze into the abyss | 14.00% | ~1,963 |
+| Mausoleum of Ice | 14.00% | ~1,963 |
+| Equilibrium | 13.00% | ~1,823 |
+| In the belly of the beast | 12.00% | ~1,683 |
+| Wings of Stone | 12.00% | ~1,683 |
+| Condor condo | 10.00% | ~1,402 |
+| Memorial | 9.00% | ~1,262 |
+| An uninvited guest | 8.00% | ~1,122 |
 | Written in stone | 7.00% | ~981 |
 | Talk to all the spirit animals | 7.00% | ~981 |
 | Ripples on the surface | 6.00% | ~841 |
@@ -27,8 +27,8 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~841 |
 | Hide and Seek | 5.00% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,011 (Ranked 109)  
-Completed: 296 (2.11%) (Ranked 73)  
+Progressed: 14,021 (Ranked 109)  
+Completed: 296 (2.11%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 296 (2.11%) (Ranked 73)
 | 2023-06-27 | 13,758 | 290 |
 | 2023-06-28 | 13,852 | 293 |
 | 2023-06-29 | 13,934 | 293 |
-| 2023-06-30 | 14,011 | 296 |
+| 2023-06-30 | 14,021 | 296 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

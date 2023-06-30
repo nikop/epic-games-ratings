@@ -57,9 +57,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.60% | ~61 |
 | Masterful Charge | 0.50% | ~51 |
 | Prelate's Nemesis | 0.40% | ~40 |
+| Ashes to Ashes | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
-| Ashes to Ashes | 0.20% | ~20 |
 | Path of the Swarm | 0.10% | ~10 |
 | Equal to Aroden | 0.10% | ~10 |
 | Spirit of Adventure | 0.10% | ~10 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,110 (Ranked 116)  
-Completed: 0 (0.00%) (Ranked 230)  
+Progressed: 10,111 (Ranked 116)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-27 | 10,083 | 0 |
 | 2023-06-28 | 10,094 | 0 |
 | 2023-06-29 | 10,102 | 0 |
-| 2023-06-30 | 10,110 | 0 |
+| 2023-06-30 | 10,111 | 0 |
 ## Awards
 Max (Character Customization): 1,670  (Ranked 115)  
 Sum: 6,785 (Ranked 111)  

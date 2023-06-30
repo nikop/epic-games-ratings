@@ -7,7 +7,7 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 73.00% | ~3,098 |
-| Having A Field Day | 71.00% | ~3,013 |
+| Having A Field Day | 72.00% | ~3,056 |
 | Reap What You Sow | 69.00% | ~2,928 |
 | The First Day | 66.00% | ~2,801 |
 | Green Thumb | 65.00% | ~2,759 |
@@ -17,8 +17,8 @@ Number of Ratings: 706  (23.09.2022)
 | Home Cooked Meal | 53.00% | ~2,249 |
 | The First Week | 52.00% | ~2,207 |
 | Studious Researcher | 50.00% | ~2,122 |
+| Beam Me Up | 49.00% | ~2,080 |
 | Feast or Famine | 49.00% | ~2,080 |
-| Beam Me Up | 48.00% | ~2,037 |
 | Adept Researcher | 44.00% | ~1,867 |
 | Retribution | 39.00% | ~1,655 |
 | ...And Don’t Come Back! | 39.00% | ~1,655 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.70% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,244 (Ranked 138)  
-Completed: 9 (0.21%) (Ranked 157)  
+Completed: 9 (0.21%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

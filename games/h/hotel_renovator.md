@@ -9,8 +9,8 @@ Rating: 4.53 (Ranked 504)
 | And so it begins | 72.00% | ~606 |
 | No pressure | 69.00% | ~581 |
 | Memento | 62.00% | ~522 |
-| Let there be light | 58.00% | ~488 |
-| I think you dropped this | 54.00% | ~455 |
+| Let there be light | 59.00% | ~497 |
+| I think you dropped this | 55.00% | ~463 |
 | Soulmate? | 53.00% | ~446 |
 | Excellent service | 48.00% | ~404 |
 | Roll with it | 46.00% | ~387 |
@@ -34,7 +34,7 @@ Rating: 4.53 (Ranked 504)
 | Top spot in town | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 842 (Ranked 191)  
-Completed: 15 (1.78%) (Ranked 80)  
+Completed: 15 (1.78%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

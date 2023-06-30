@@ -35,6 +35,7 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |
 | Ashley | 0.20% | ~11 |
+| Beyond the Call of Dude-y | 0.20% | ~11 |
 | The Bride | 0.20% | ~11 |
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
 | The Harder They Fall...Dood | 0.20% | ~11 |
@@ -46,7 +47,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
-| Beyond the Call of Dude-y | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
 | Deck the Balls | 0.10% | ~3 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,682 (Ranked 129)  
-Completed: 3 (0.05%) (Ranked 197)  
+Progressed: 5,682 (Ranked 130)  
+Completed: 3 (0.05%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

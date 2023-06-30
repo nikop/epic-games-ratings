@@ -44,11 +44,11 @@ Rating: 4.24 (Ranked 809)
 | Reverse Engineering | 7.00% | ~127 |
 | Remote Surgery | 6.00% | ~109 |
 | Turbo Booster | 6.00% | ~109 |
+| Juiced Up | 6.00% | ~109 |
 | Squid Pro Quo | 6.00% | ~109 |
 | Reborn | 5.00% | ~91 |
 | Counter-Sniper | 5.00% | ~91 |
 | Shrimp Cocktail | 5.00% | ~91 |
-| Juiced Up | 5.00% | ~91 |
 | Hello Darkness My Old Friend | 4.00% | ~73 |
 | Geronimo! | 4.00% | ~73 |
 | Homewrecker | 4.00% | ~73 |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 809)
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,819 (Ranked 162)  
-Completed: 10 (0.55%) (Ranked 121)  
+Completed: 10 (0.55%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

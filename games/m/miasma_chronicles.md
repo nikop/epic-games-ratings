@@ -25,7 +25,7 @@ Rating: 4.35 (Ranked 733)
 | Are you not entertained? | 31.00% | ~371 |
 | Ganglord | 30.00% | ~359 |
 | Jarhead | 30.00% | ~359 |
-| Infiltrator | 29.00% | ~347 |
+| Infiltrator | 30.00% | ~359 |
 | Pushing Daisy | 28.00% | ~335 |
 | Experienced | 26.00% | ~311 |
 | Endgame | 23.00% | ~275 |
@@ -58,7 +58,7 @@ Rating: 4.35 (Ranked 733)
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,197 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

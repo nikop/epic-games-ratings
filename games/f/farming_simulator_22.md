@@ -7,13 +7,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~34,050 |
-| I read Shakespeare and stuff | 64.00% | ~28,673 |
-| Just a sprinkle | 63.00% | ~28,225 |
-| I'm stumped | 61.00% | ~27,329 |
-| Plant get enough | 61.00% | ~27,329 |
-| This is just my weekend vehicle | 58.00% | ~25,985 |
-| It's just the beginning | 58.00% | ~25,985 |
-| Hard work pays off | 53.00% | ~23,745 |
+| I read Shakespeare and stuff | 64.00% | ~28,674 |
+| Just a sprinkle | 63.00% | ~28,226 |
+| I'm stumped | 61.00% | ~27,330 |
+| Plant get enough | 61.00% | ~27,330 |
+| This is just my weekend vehicle | 58.00% | ~25,986 |
+| It's just the beginning | 58.00% | ~25,986 |
+| Hard work pays off | 53.00% | ~23,746 |
 | It's never too late to farm | 48.00% | ~21,505 |
 | All out of Land | 44.00% | ~19,713 |
 | Field Trip | 43.00% | ~19,265 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Help me to help you | 38.00% | ~17,025 |
 | Ultimutt Pawesomeness | 28.00% | ~12,545 |
 | Van Gogh | 26.00% | ~11,649 |
-| You wood not believe it | 21.00% | ~9,408 |
-| Vehicle fleet | 21.00% | ~9,408 |
+| You wood not believe it | 21.00% | ~9,409 |
+| Vehicle fleet | 21.00% | ~9,409 |
 | The plot thickens | 16.00% | ~7,168 |
 | Well-Oiled Machine | 16.00% | ~7,168 |
 | Long haul | 16.00% | ~7,168 |
@@ -50,8 +50,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~179 |
 | Raisin the stakes | 0.30% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,802 (Ranked 86)  
-Completed: 5 (0.01%) (Ranked 218)  
+Progressed: 44,803 (Ranked 86)  
+Completed: 5 (0.01%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 5 (0.01%) (Ranked 218)
 | 2023-06-27 | 44,674 | 5 |
 | 2023-06-28 | 44,721 | 5 |
 | 2023-06-29 | 44,764 | 5 |
-| 2023-06-30 | 44,802 | 5 |
+| 2023-06-30 | 44,803 | 5 |
 ## Awards
 Max (Great for Beginners): 4,465  (Ranked 70)  
 Sum: 37,742 (Ranked 31)  

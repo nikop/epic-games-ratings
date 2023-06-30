@@ -37,8 +37,9 @@ Rating: 4.59 (Ranked 410)
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | God Emperor | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
+| The Goddess of Nature | 0.30% | ~15 |
 | Lord of Chaos | 0.20% | ~10 |
-| The Goddess of Nature | 0.20% | ~10 |
+| Crimson Caldera | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
 | The Eternal Court | 0.20% | ~10 |
 | Jack of All Tomes | 0.20% | ~10 |
@@ -47,7 +48,6 @@ Rating: 4.59 (Ranked 410)
 | One for All, All for One | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
-| Crimson Caldera | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.59 (Ranked 410)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,883 (Ranked 134)  
-Completed: 4 (0.08%) (Ranked 186)  
+Completed: 4 (0.08%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

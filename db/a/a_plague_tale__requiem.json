@@ -6,9 +6,9 @@
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -332,9 +332,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11894,
+  "EOS_Progressed": 11895,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4642,6 +4642,11 @@
       "Time": "2023-06-30T20:06:44.061718+00:00",
       "NumProgressed": 11894,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-06-30T23:06:46.7384395+00:00",
+      "NumProgressed": 11895,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -4653,7 +4658,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10942
+      "UsersEstimate": 10943
     },
     {
       "ID": "ACH_02",
@@ -4661,7 +4666,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "ACH_03",
@@ -4677,7 +4682,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8207
+      "UsersEstimate": 8208
     },
     {
       "ID": "ACH_05",
@@ -4685,7 +4690,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "ACH_06",
@@ -4693,7 +4698,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7612
+      "UsersEstimate": 7613
     },
     {
       "ID": "ACH_07",
@@ -4701,7 +4706,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7255
+      "UsersEstimate": 7256
     },
     {
       "ID": "ACH_08",
@@ -4709,7 +4714,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "ACH_09",
@@ -4733,7 +4738,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "ACH_12",
@@ -4741,7 +4746,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "ACH_13",
@@ -4829,7 +4834,7 @@
       "Name": "Improved crossbow",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "ACH_24",
@@ -4861,7 +4866,7 @@
       "Name": "Night guard",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "ACH_28",
@@ -4869,7 +4874,7 @@
       "Name": "Alchemist",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "ACH_29",
@@ -4932,7 +4937,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11894,
+      "Progressed": 11895,
       "Completed": 36
     }
   ],
@@ -4940,8 +4945,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-06-29T19:00:02.4531675+00:00",
-  "LastChanged_Achievements": "2023-06-30T22:06:44.5667439+00:00",
+  "LastChanged_Achievements": "2023-06-30T23:06:46.738439+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:21.495104+00:00",
-  "LastUpdate_Ratings": "2023-06-30T21:59:47.5711956+00:00",
-  "LastUpdate_Achievements": "2023-06-30T22:06:44.5667832+00:00"
+  "LastUpdate_Ratings": "2023-06-30T22:59:47.1822507+00:00",
+  "LastUpdate_Achievements": "2023-06-30T23:06:46.7384874+00:00"
 }

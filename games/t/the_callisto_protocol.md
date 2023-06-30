@@ -30,6 +30,7 @@ Rating: 4.20 (Ranked 834)
 | Full Circle | 0.30% | ~47 |
 | It's Time | 0.30% | ~11 |
 | In Striking Distance | 0.20% | ~31 |
+| This Isn't About Escape | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Grim Reaper | 0.10% | ~16 |
@@ -45,7 +46,6 @@ Rating: 4.20 (Ranked 834)
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | Information Overload | 0.10% | ~4 |
-| This Isn't About Escape | 0.10% | ~4 |
 | One Last Job | 0.10% | ~4 |
 | Quick Pick | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 834)
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,597 (Ranked 106)  
-Completed: 62 (0.40%) (Ranked 132)  
+Completed: 62 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

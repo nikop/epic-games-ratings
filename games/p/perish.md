@@ -9,6 +9,7 @@
 | Strength of Herakles | 5.00% | ~154 |
 | Initiate's Resolve | 5.00% | ~154 |
 | Go For the Head | 4.00% | ~123 |
+| Spartan Sandal | 4.00% | ~123 |
 | Missilis | 4.00% | ~123 |
 | Modest Earnings | 4.00% | ~123 |
 | Armaments of the Pantheon | 4.00% | ~123 |
@@ -18,7 +19,6 @@
 | Reign in Blood | 4.00% | ~123 |
 | Pillars of Eternity | 3.00% | ~92 |
 | Immolator | 3.00% | ~92 |
-| Spartan Sandal | 3.00% | ~92 |
 | War Chest | 3.00% | ~92 |
 | Symbols of Heresy | 3.00% | ~92 |
 | Sisters of the Pantheon | 3.00% | ~92 |
@@ -69,7 +69,7 @@
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,074 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 230)  
+Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2316,9 +2316,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68070,
+  "EOS_Progressed": 68072,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9816,6 +9816,11 @@
       "Time": "2023-06-30T22:03:41.6319727+00:00",
       "NumProgressed": 68070,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-06-30T23:03:41.8079465+00:00",
+      "NumProgressed": 68072,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9827,7 +9832,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34035
+      "UsersEstimate": 34036
     },
     {
       "ID": "ACH_0011",
@@ -9835,7 +9840,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19740
+      "UsersEstimate": 19741
     },
     {
       "ID": "ACH_0012",
@@ -9971,7 +9976,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44246
+      "UsersEstimate": 44247
     },
     {
       "ID": "ACH_0210",
@@ -9979,7 +9984,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50372
+      "UsersEstimate": 50373
     },
     {
       "ID": "ACH_0211",
@@ -9995,7 +10000,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 31993
+      "UsersEstimate": 31994
     },
     {
       "ID": "ACH_0300",
@@ -10059,7 +10064,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23824
+      "UsersEstimate": 23825
     },
     {
       "ID": "ACH_0431",
@@ -10075,7 +10080,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12933
+      "UsersEstimate": 12934
     },
     {
       "ID": "ACH_0450",
@@ -10083,7 +10088,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12933
+      "UsersEstimate": 12934
     },
     {
       "ID": "ACH_0451",
@@ -10091,7 +10096,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10891
+      "UsersEstimate": 10892
     },
     {
       "ID": "ACH_0452",
@@ -10122,7 +10127,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68070,
+      "Progressed": 68072,
       "Completed": 35
     }
   ],
@@ -10130,8 +10135,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-06-30T16:01:15.2801434+00:00",
-  "LastChanged_Achievements": "2023-06-30T22:03:41.6319722+00:00",
+  "LastChanged_Achievements": "2023-06-30T23:03:41.807946+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:08.7775467+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:00:24.4834679+00:00",
-  "LastUpdate_Achievements": "2023-06-30T22:03:41.6320272+00:00"
+  "LastUpdate_Ratings": "2023-06-30T23:00:25.6278634+00:00",
+  "LastUpdate_Achievements": "2023-06-30T23:03:41.8080015+00:00"
 }

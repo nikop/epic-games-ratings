@@ -3,9 +3,9 @@
   "Name": null,
   "ProductSlug": "outplayed",
   "Ranking_EOS_Progress": 481,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.3267889+00:00",
   "LastChanged": "2023-03-31T05:57:42.326789+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:05.2697536+00:00",
-  "LastUpdate_Ratings": "2023-06-30T21:57:49.83404+00:00",
-  "LastUpdate_Achievements": "2023-06-30T22:05:14.6353107+00:00"
+  "LastUpdate_Ratings": "2023-06-30T22:57:47.1150608+00:00",
+  "LastUpdate_Achievements": "2023-06-30T23:05:15.0302735+00:00"
 }

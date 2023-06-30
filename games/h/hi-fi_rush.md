@@ -32,8 +32,8 @@ Rating: 4.89 (Ranked 12)
 | I look cool. But I can look COOLER. | 28.00% | ~945 |
 | There's such a thing as TOO helpful | 22.00% | ~742 |
 | That's a lot of junk metal… | 19.00% | ~641 |
+| Well that was a rush! | 18.00% | ~608 |
 | Beat-hit mania | 18.00% | ~608 |
-| Well that was a rush! | 17.00% | ~574 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~574 |
 | Wanna hear my playlist? | 12.00% | ~405 |
 | Check out my moves! | 12.00% | ~405 |
@@ -68,7 +68,7 @@ Rating: 4.89 (Ranked 12)
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,375 (Ranked 144)  
-Completed: 5 (0.15%) (Ranked 167)  
+Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -960,9 +960,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3896,
+  "EOS_Progressed": 3897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5335,6 +5335,11 @@
       "Time": "2023-06-30T22:04:12.3736075+00:00",
       "NumProgressed": 3896,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-06-30T23:04:12.2644004+00:00",
+      "NumProgressed": 3897,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5402,7 +5407,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5418,7 +5423,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5442,7 +5447,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5506,7 +5511,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5602,7 +5607,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5665,15 +5670,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3896,
+      "Progressed": 3897,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-06-29T22:01:14.707163+00:00",
-  "LastChanged_Achievements": "2023-06-30T22:04:12.3736071+00:00",
+  "LastChanged_Achievements": "2023-06-30T23:04:12.2643999+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:00:37.6229442+00:00",
-  "LastUpdate_Achievements": "2023-06-30T22:04:12.3736512+00:00"
+  "LastUpdate_Ratings": "2023-06-30T23:00:39.2770087+00:00",
+  "LastUpdate_Achievements": "2023-06-30T23:04:12.2644433+00:00"
 }
