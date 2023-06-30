@@ -2,13 +2,13 @@
   "ID": "163f3727bb6945a48d902fc5632626ac",
   "Name": "Banners of Ruin",
   "ProductSlug": "banners-of-ruin",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-07-29T17:00:00+00:00",
     "PcReleaseDate": "2021-07-29T17:00:00+00:00",
@@ -102,6 +102,6 @@
   "FirstSeenRating": "2022-10-06T05:31:48.7730935+00:00",
   "LastChanged": "2023-05-29T07:00:39.3955056+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:36.3830685+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:01:47.2410191+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:05:01.1194868+00:00"
+  "LastUpdate_Ratings": "2023-06-30T12:01:37.8545415+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:04:42.7416156+00:00"
 }

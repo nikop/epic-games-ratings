@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Choking Hazard | 43.00% | ~70 |
-| Animal Lover | 32.00% | ~52 |
+| Animal Lover | 33.00% | ~53 |
 | Don't Breathe | 30.00% | ~49 |
 | Rapturous Applause! | 13.00% | ~21 |
 | Smooth Operator | 13.00% | ~21 |

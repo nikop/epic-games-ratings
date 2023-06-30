@@ -2,13 +2,13 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -4120,6 +4120,6 @@
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
   "LastChanged": "2023-06-29T22:59:24.1502315+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:45.3258674+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:00:58.8657324+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:05:22.1122271+00:00"
+  "LastUpdate_Ratings": "2023-06-30T12:00:49.0698379+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:05:03.3206152+00:00"
 }

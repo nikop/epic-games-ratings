@@ -21,15 +21,15 @@
 | Starship Docks | 2.00% | ~13 |
 | Rookie | 2.00% | ~13 |
 | Up Close And Personal | 2.00% | ~13 |
+| Outer Core | 1.00% | ~6 |
 | Eden Heights | 0.90% | ~6 |
-| Outer Core | 0.80% | ~5 |
+| Inner Core | 0.80% | ~5 |
 | Integration | 0.60% | ~4 |
-| Inner Core | 0.50% | ~3 |
 | Ripperdoc | 0.30% | ~2 |
+| Cyborg | 0.20% | ~1 |
 | Destruction | 0.20% | ~1 |
 | Hard Boiled | 0.20% | ~1 |
 | Trickshot | 0.20% | ~1 |
-| Cyborg | 0.00% | ~0 |
 | Fully Modded | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 | Hell Raiser | 0.00% | ~0 |

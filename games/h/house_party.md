@@ -1,7 +1,7 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.32 (Ranked 760)  
+Rating: 4.32 (Ranked 759)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 0.60% | ~34 |
 | Inspector | 0.60% | ~34 |
 | Newcomer: Vickie | 0.60% | ~34 |
-| Social Butterfly | 0.50% | ~28 |
+| Social Butterfly | 0.60% | ~34 |
 | Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |

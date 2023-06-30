@@ -1,29 +1,29 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.33 (Ranked 754)  
+Rating: 4.33 (Ranked 753)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~245 |
-| Cowardice | 55.00% | ~214 |
+| Explorer | 63.00% | ~246 |
+| Cowardice | 55.00% | ~215 |
 | NO LIFE IS WORTH SAVING... | 47.00% | ~183 |
-| Eat Lead! | 45.00% | ~175 |
-| Prospector | 41.00% | ~159 |
-| The Breaking Point | 41.00% | ~159 |
-| Here Comes the Boom | 41.00% | ~159 |
-| Treasure Hunter | 38.00% | ~148 |
+| Eat Lead! | 45.00% | ~176 |
+| Prospector | 41.00% | ~160 |
+| The Breaking Point | 41.00% | ~160 |
+| Here Comes the Boom | 41.00% | ~160 |
+| Treasure Hunter | 37.00% | ~144 |
 | Sniper Wolf | 36.00% | ~140 |
 | The Motivation | 35.00% | ~136 |
-| Collectibles of Chapter I | 33.00% | ~128 |
-| Heroism | 33.00% | ~128 |
-| Missing in Action | 33.00% | ~128 |
+| Collectibles of Chapter I | 33.00% | ~129 |
+| Heroism | 33.00% | ~129 |
+| Missing in Action | 33.00% | ~129 |
 | Consequences | 29.00% | ~113 |
 | King of Knives | 29.00% | ~113 |
-| Opportunities | 28.00% | ~109 |
+| Opportunities | 27.00% | ~105 |
 | The Horror | 26.00% | ~101 |
-| The Difference | 23.00% | ~89 |
+| The Difference | 23.00% | ~90 |
 | Collectibles of Chapter II | 22.00% | ~86 |
 | Vengeance | 22.00% | ~86 |
 | It's Just an Accident | 22.00% | ~86 |
@@ -34,15 +34,15 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 15.00% | ~58 |
 | Collectibles of Chapter IV | 15.00% | ~58 |
 | Atonement | 15.00% | ~58 |
-| Helping Hand | 14.00% | ~54 |
+| Helping Hand | 14.00% | ~55 |
 | Without a Second Thought | 13.00% | ~51 |
-| Collectibles of Chapter V | 10.00% | ~39 |
+| Collectibles of Chapter V | 9.00% | ~35 |
 | Tiptoe Around | 8.00% | ~31 |
 | Such is War! | 7.00% | ~27 |
 | Collectibles of Chapter XII | 6.00% | ~23 |
 | Piece of Cake | 6.00% | ~23 |
-| Collectibles of Chapter VII | 5.00% | ~19 |
-| It Will Rain | 5.00% | ~19 |
+| Collectibles of Chapter VII | 5.00% | ~20 |
+| It Will Rain | 5.00% | ~20 |
 | Collectibles of Chapter VIII | 4.00% | ~16 |
 | Collectibles of Chapter X | 4.00% | ~16 |
 | Collectibles of Chapter XI | 4.00% | ~16 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 226)  
+Progressed: 390 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 230)
 | 2023-06-25 | 383 | 0 |
 | 2023-06-26 | 386 | 0 |
 | 2023-06-27 | 389 | 0 |
+| 2023-06-30 | 390 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

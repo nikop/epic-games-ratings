@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 594)  
+Rating: 4.47 (Ranked 593)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,8 +32,8 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 21.00% | ~1,456 |
 | Rocket Surgeon | 20.00% | ~1,387 |
 | War Never Changes | 19.00% | ~1,317 |
+| Friendly | 17.00% | ~1,179 |
 | Big Game Hunter | 17.00% | ~1,179 |
-| Friendly | 16.00% | ~1,109 |
 | Around the World | 16.00% | ~1,109 |
 | Spreading Influence | 16.00% | ~1,109 |
 | Bookworm | 15.00% | ~1,040 |

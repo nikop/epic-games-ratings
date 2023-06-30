@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 651,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 215869,
+  "EOS_Progressed": 215871,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7971,6 +7971,11 @@
       "Time": "2023-06-30T11:05:34.5369423+00:00",
       "NumProgressed": 215869,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-06-30T12:05:17.36853+00:00",
+      "NumProgressed": 215871,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -7990,7 +7995,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 53967
+      "UsersEstimate": 53968
     },
     {
       "ID": "ACH_BASE_11",
@@ -8230,7 +8235,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25904
+      "UsersEstimate": 25905
     },
     {
       "ID": "ACH_BASE_8",
@@ -8253,7 +8258,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 215869,
+      "Progressed": 215871,
       "Completed": 4
     }
   ],
@@ -8261,8 +8266,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-06-29T21:59:07.0791506+00:00",
-  "LastChanged_Achievements": "2023-06-30T11:05:34.5369418+00:00",
+  "LastChanged_Achievements": "2023-06-30T12:05:17.3685295+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:20.1970485+00:00",
-  "LastUpdate_Ratings": "2023-06-30T10:59:23.3565838+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:05:34.5370284+00:00"
+  "LastUpdate_Ratings": "2023-06-30T11:59:17.7304239+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:05:17.3686355+00:00"
 }

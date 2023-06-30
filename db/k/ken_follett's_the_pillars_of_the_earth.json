@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 517,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13611,
+  "EOS_Progressed": 13612,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5194,6 +5194,11 @@
       "Time": "2023-06-30T11:07:42.1242065+00:00",
       "NumProgressed": 13611,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-06-30T12:07:25.116709+00:00",
+      "NumProgressed": 13612,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5309,7 +5314,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "tpote_achievement_22",
@@ -5365,7 +5370,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "tpote_achievement_29",
@@ -5517,7 +5522,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "tpote_achievement_9",
@@ -5532,15 +5537,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13611,
+      "Progressed": 13612,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-06-30T11:07:42.1242058+00:00",
+  "LastChanged_Achievements": "2023-06-30T12:07:25.1167085+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:10.800394+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:01:20.1123286+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:07:42.1242809+00:00"
+  "LastUpdate_Ratings": "2023-06-30T12:01:10.1047784+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:07:25.1167796+00:00"
 }

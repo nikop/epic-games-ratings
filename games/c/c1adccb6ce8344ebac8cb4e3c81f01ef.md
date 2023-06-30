@@ -12,7 +12,7 @@
 | Yellow Skeleton | 33.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 421)  
-Completed: 1 (33.33%) (Ranked 1)  
+Completed: 1 (33.33%) (Ranked 2)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.37 (Ranked 719)  
+Rating: 4.37 (Ranked 718)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.37 (Ranked 719)
 | Better Than the Devs | 4.00% | ~86 |
 | So do we just stay up here, or?... | 2.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,162 (Ranked 156)  
+Progressed: 2,162 (Ranked 157)  
 Completed: 9 (0.42%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |

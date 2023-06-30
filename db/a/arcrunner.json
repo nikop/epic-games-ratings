@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1390,9 +1390,9 @@
       "ID": "ACHV_CYBORG",
       "SetID": "cceobco",
       "Name": "Cyborg",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_DESTRUCTION",
@@ -1438,9 +1438,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -1478,9 +1478,9 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -1589,8 +1589,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-06-30T11:04:07.073202+00:00",
+  "LastChanged_Achievements": "2023-06-30T12:03:49.6323172+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:43.2331061+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:00:53.9714813+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:04:07.0732355+00:00"
+  "LastUpdate_Ratings": "2023-06-30T12:00:44.5664855+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:03:49.6323489+00:00"
 }

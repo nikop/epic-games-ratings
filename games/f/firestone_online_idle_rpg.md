@@ -5,9 +5,9 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,435 |
-| World Map | 79.00% | ~1,206 |
-| Temple of Eternals | 57.00% | ~870 |
+| Victor | 94.00% | ~1,436 |
+| World Map | 79.00% | ~1,207 |
+| Temple of Eternals | 57.00% | ~871 |
 | Prestigious | 54.00% | ~825 |
 | Fellowship Power | 41.00% | ~626 |
 | Guild Power | 25.00% | ~382 |
@@ -28,22 +28,22 @@ Rating: 4.07 (Ranked 895)
 | Superior | 12.00% | ~183 |
 | The Unstoppable | 12.00% | ~183 |
 | Scientist | 11.00% | ~168 |
-| Challenger | 9.00% | ~137 |
-| Doing My Part | 9.00% | ~137 |
-| Hunter | 9.00% | ~137 |
-| Mastery | 9.00% | ~137 |
-| Relic Of The Past | 9.00% | ~137 |
-| Scroll Master | 9.00% | ~137 |
-| The power of Awakening | 9.00% | ~137 |
+| Challenger | 9.00% | ~138 |
+| Doing My Part | 9.00% | ~138 |
+| Hunter | 9.00% | ~138 |
+| Mastery | 9.00% | ~138 |
+| Relic Of The Past | 9.00% | ~138 |
+| Scroll Master | 9.00% | ~138 |
+| The power of Awakening | 9.00% | ~138 |
 | Daily Quest Completionist | 8.00% | ~122 |
 | Four Leaf Clover | 8.00% | ~122 |
 | Frostfire Liberator | 8.00% | ~122 |
 | Moving Up The Ladder | 8.00% | ~122 |
 | Here We Go Again | 7.00% | ~107 |
 | Master Enchanter | 7.00% | ~107 |
+| The father of Dragons | 7.00% | ~107 |
 | How Do You Turn This On? | 6.00% | ~92 |
 | The Expeditioner | 6.00% | ~92 |
-| The father of Dragons | 6.00% | ~92 |
 | Trader | 6.00% | ~92 |
 | Ancient Knowledge | 5.00% | ~76 |
 | Crystal Mining | 5.00% | ~76 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,527 (Ranked 168)  
+Progressed: 1,528 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 1 (0.07%) (Ranked 190)
 | 2023-06-27 | 1,515 | 1 |
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
-| 2023-06-30 | 1,527 | 1 |
+| 2023-06-30 | 1,528 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

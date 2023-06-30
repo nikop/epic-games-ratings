@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-06-30T11:03:30.5609248+00:00",
       "NumProgressed": 608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-06-30T12:03:33.4314914+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -690,7 +695,7 @@
       "Name": "Taste",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -728,9 +733,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -754,7 +759,7 @@
       "Name": "Hush",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -826,7 +831,7 @@
       "Name": "Devourer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -834,7 +839,7 @@
       "Name": "All-Seeing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -842,7 +847,7 @@
       "Name": "Imprint",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -914,7 +919,7 @@
       "Name": "Passage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "QUEST_CHILD",
@@ -938,7 +943,7 @@
       "Name": "Kin",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "QUEST_LISTENER",
@@ -961,21 +966,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 21
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-06-30T11:03:30.5609239+00:00",
+  "LastChanged_Achievements": "2023-06-30T12:03:33.4314908+00:00",
   "LastUpdate_AppInfo": "2023-06-24T00:00:40.6465863+00:00",
-  "LastUpdate_Ratings": "2023-06-30T11:01:50.5426851+00:00",
-  "LastUpdate_Achievements": "2023-06-30T11:03:30.5609688+00:00"
+  "LastUpdate_Ratings": "2023-06-30T12:01:41.3210187+00:00",
+  "LastUpdate_Achievements": "2023-06-30T12:03:33.4315482+00:00"
 }
