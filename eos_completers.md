@@ -94,7 +94,7 @@
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 95 | [Chorus](games/c/chorus.md) | 1.19% |
+| 95 | [Chorus](games/c/chorus.md) | 1.18% |
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.12% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
@@ -479,4 +479,4 @@
 | 231 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 231 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 231 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,868 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,869 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |

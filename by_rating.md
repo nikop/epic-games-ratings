@@ -653,7 +653,7 @@
 | 633 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 502 |
 | 652 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 502 |
 | 652 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 502 |
-| 652 | [Predecessor](games/p/predecessor.md) | 4.43 | 124 | 306 |
+| 652 | [Predecessor](games/p/predecessor.md) | 4.43 | 125 | 305 |
 | 652 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 502 |
 | 652 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 374 |
 | 652 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 502 |

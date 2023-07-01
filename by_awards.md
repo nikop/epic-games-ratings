@@ -304,8 +304,8 @@
 | 302 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 363 |
 | 303 | [Timberborn](games/t/timberborn.md) | 128 | 4.72 | 165 |
 | 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 127 | 4.86 | 28 |
+| 305 | [Predecessor](games/p/predecessor.md) | 125 | 4.43 | 652 |
 | 305 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 787 |
-| 306 | [Predecessor](games/p/predecessor.md) | 124 | 4.43 | 652 |
 | 307 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 834 |
 | 308 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 121 | 4.52 | 517 |
 | 309 | [Aven Colony](games/a/aven_colony.md) | 120 | 4.20 | 834 |
