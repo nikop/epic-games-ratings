@@ -11,10 +11,10 @@ Number of Ratings: 38  (23.09.2022)
 | Life’s short, ride long | 45.00% | ~587 |
 | Hug therapy | 44.00% | ~574 |
 | Over my dead body | 41.00% | ~535 |
-| Shake the rust off their feet | 21.00% | ~274 |
+| Shake the rust off their feet | 22.00% | ~287 |
 | My little pony | 20.00% | ~261 |
 | Strike! | 19.00% | ~248 |
-| A love supreme | 18.00% | ~235 |
+| A love supreme | 19.00% | ~248 |
 | In my shoes | 17.00% | ~222 |
 | Like new! | 15.00% | ~196 |
 | Heartstrings | 14.00% | ~183 |

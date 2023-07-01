@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-06-29T14:07:46.604075+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T11:07:13.9416503+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1605,7 +1610,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "EXPERT_1",
@@ -1827,24 +1832,24 @@
       "ID": "WISHMASTER_1",
       "SetID": "bf13m8j",
       "Name": "Wishmaster",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-06-11T18:59:46.5771351+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:47.7940658+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:13.9416495+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.2252712+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:01:27.6473497+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:47.7941253+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:01:06.0263478+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:13.9416766+00:00"
 }

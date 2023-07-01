@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4834,18 +4834,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10648,
       "NumberOfAwardsMax": 6219
+    },
+    {
+      "Time": "2023-07-01T10:59:54.2390145+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10650,
+      "NumberOfAwardsMax": 6221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10648,
-  "NumberOfAwardsMax": 6219,
+  "NumberOfAwards": 10650,
+  "NumberOfAwardsMax": 6221,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6219
+      "Count": 6221
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4916,7 +4922,7 @@
   ],
   "EOS_Progressed": 710359,
   "EOS_Completed": 12800,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12175,7 +12181,7 @@
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 19660,
-      "Completed": 10341
+      "Completed": 10342
     },
     {
       "ID": "adcm20g",
@@ -12186,9 +12192,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-01T08:59:16.8703323+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:54.4219183+00:00",
+  "LastChanged": "2023-07-01T10:59:54.2390143+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:19.3666433+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:00:01.0418338+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:54.4220684+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:59:54.239015+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:19.3667095+00:00"
 }

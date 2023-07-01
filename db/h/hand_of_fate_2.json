@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658711,
+  "EOS_Progressed": 658712,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7626,6 +7626,11 @@
       "Time": "2023-07-01T10:07:49.0325994+00:00",
       "NumProgressed": 658711,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-01T11:07:15.0070502+00:00",
+      "NumProgressed": 658712,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7637,7 +7642,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474272
+      "UsersEstimate": 474273
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7645,7 +7650,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382052
+      "UsersEstimate": 382053
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8020,15 +8025,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658711,
+      "Progressed": 658712,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:49.0325988+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:15.0070498+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:13.5159736+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:49.0327449+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:19.8880595+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:15.0071126+00:00"
 }

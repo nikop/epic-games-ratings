@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2990,9 +2990,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10115,
+  "EOS_Progressed": 10117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7555,6 +7555,11 @@
       "Time": "2023-07-01T08:05:59.2548552+00:00",
       "NumProgressed": 10115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T11:07:24.3136644+00:00",
+      "NumProgressed": 10117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7638,7 +7643,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "11_PathOfAeon",
@@ -7750,7 +7755,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "25_MasterfulDispell",
@@ -7766,7 +7771,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "28_GreatUpstart",
@@ -7798,7 +7803,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "32_MythicReinforcements",
@@ -7806,7 +7811,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "33_DefendersHeart",
@@ -7942,7 +7947,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -7950,7 +7955,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -7990,7 +7995,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "56_GetToad",
@@ -7998,7 +8003,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "57_PathOfDevil",
@@ -8493,21 +8498,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8897,
+      "Progressed": 8899,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10115,
+      "Progressed": 10117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-30T16:58:33.3333902+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:59.5551154+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:24.3136639+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:59:11.8589347+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:59.5553141+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:59:09.991508+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:24.3138098+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 16.00% | ~117 |
+| Time Heals All Wounds | 16.00% | ~118 |
 | The Mysterious Stranger | 14.00% | ~103 |
 | Rail Rat | 14.00% | ~103 |
-| The Steel Shadow | 13.00% | ~95 |
-| Treasure Trove | 13.00% | ~95 |
-| Make Up For Lost Time | 13.00% | ~95 |
-| Cartographer | 13.00% | ~95 |
-| Time Flies | 13.00% | ~95 |
-| The Wicked Twins | 13.00% | ~95 |
-| The Family Fortune | 13.00% | ~95 |
+| The Steel Shadow | 13.00% | ~96 |
+| Treasure Trove | 13.00% | ~96 |
+| Make Up For Lost Time | 13.00% | ~96 |
+| Cartographer | 13.00% | ~96 |
+| Time Flies | 13.00% | ~96 |
+| The Wicked Twins | 13.00% | ~96 |
+| The Family Fortune | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
@@ -29,9 +29,9 @@
 | Honest Mistake | 11.00% | ~81 |
 | Golem Chaser | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |
-| Right On Time | 10.00% | ~73 |
-| Street Style | 10.00% | ~73 |
-| Whiz Kid | 10.00% | ~73 |
+| Right On Time | 10.00% | ~74 |
+| Street Style | 10.00% | ~74 |
+| Whiz Kid | 10.00% | ~74 |
 | Chaincrawler Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
 | Family Memories | 7.00% | ~51 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 734 (Ranked 196)  
+Progressed: 735 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 4 (0.54%) (Ranked 123)
 | 2023-06-28 | 728 | 4 |
 | 2023-06-29 | 731 | 4 |
 | 2023-06-30 | 733 | 4 |
-| 2023-07-01 | 734 | 4 |
+| 2023-07-01 | 735 | 4 |

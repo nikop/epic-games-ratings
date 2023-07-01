@@ -10,8 +10,8 @@
 | Terminated I | 11.00% | ~75 |
 | The City | 10.00% | ~68 |
 | Nanonic I | 10.00% | ~68 |
-| Terminated II | 8.00% | ~55 |
-| Challenge Mastered | 7.00% | ~48 |
+| Terminated II | 9.00% | ~62 |
+| Challenge Mastered | 8.00% | ~55 |
 | Nanonic II | 6.00% | ~41 |
 | Terminated III | 6.00% | ~41 |
 | Cybernetic | 4.00% | ~27 |

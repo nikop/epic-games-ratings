@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1095,6 +1095,11 @@
       "Time": "2023-07-01T10:07:47.2882135+00:00",
       "NumProgressed": 525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T11:07:13.4869315+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1114,7 +1119,7 @@
       "Name": "Bad apple",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ChaoticNeutral",
@@ -1210,7 +1215,7 @@
       "Name": "Gnowlledgeable",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HexMaster",
@@ -1314,7 +1319,7 @@
       "Name": "Always worth a try",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ToothFairy",
@@ -1322,7 +1327,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Toxic",
@@ -1330,7 +1335,7 @@
       "Name": "Toxic",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Webbed",
@@ -1338,7 +1343,7 @@
       "Name": "Entangled",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "YagaHood",
@@ -1361,7 +1366,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 1
     }
   ],
@@ -1369,8 +1374,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:47.2882128+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:13.4869312+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:20.5362964+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:35.6250299+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:47.2882637+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:37.4751042+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:13.4869517+00:00"
 }

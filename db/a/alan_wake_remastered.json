@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56576,
+  "EOS_Progressed": 56577,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6597,6 +6597,11 @@
       "Time": "2023-07-01T09:02:21.886506+00:00",
       "NumProgressed": 56576,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-01T11:02:13.5328055+00:00",
+      "NumProgressed": 56577,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6926,9 +6931,9 @@
       "ID": "41",
       "SetID": "212770e",
       "Name": "Finders Keepers",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7355
+      "UsersEstimate": 7921
     },
     {
       "ID": "42",
@@ -7143,21 +7148,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56576,
+      "Progressed": 56577,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20044,
+      "Progressed": 20045,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:03:06.0055679+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:02:13.532805+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:17.1499459+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:03:06.0057879+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:23.4731706+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:02:13.5328941+00:00"
 }

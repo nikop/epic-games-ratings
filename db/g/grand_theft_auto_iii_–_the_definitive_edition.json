@@ -346,9 +346,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6873,
+  "EOS_Progressed": 6874,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5091,6 +5091,11 @@
       "Time": "2023-07-01T05:03:21.4832493+00:00",
       "NumProgressed": 6873,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-01T11:03:28.002642+00:00",
+      "NumProgressed": 6874,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5230,7 +5235,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH18",
@@ -5333,7 +5338,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6873,
+      "Progressed": 6874,
       "Completed": 40
     }
   ],
@@ -5341,8 +5346,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-29T03:58:17.2895321+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:03:45.1978163+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:03:28.0026413+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:32.1683757+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:03:45.1979058+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:34.8454133+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:03:28.0026792+00:00"
 }

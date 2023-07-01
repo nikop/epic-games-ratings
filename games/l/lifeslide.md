@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 95.00% | ~305 |
+| All Starts Here | 96.00% | ~308 |
 | Road to Improvement | 72.00% | ~231 |
 | Wonderful World | 60.00% | ~193 |
 | Second Wind | 58.00% | ~186 |

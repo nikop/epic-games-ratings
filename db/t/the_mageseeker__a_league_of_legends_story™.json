@@ -3133,9 +3133,9 @@
       "ID": "STB_MISSION9_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Truth is a dark mirror",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 241
     },
     {
       "ID": "STB_PET_DOG",
@@ -3270,8 +3270,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:53.4988911+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:18.538687+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:52.9751016+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:08.5056192+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:53.4989592+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:16.36001+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:18.5387356+00:00"
 }

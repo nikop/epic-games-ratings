@@ -4948,9 +4948,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "3",
@@ -4996,9 +4996,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "35",
@@ -5012,9 +5012,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "37",
@@ -5195,8 +5195,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:06:38.8924933+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:06:03.8192543+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:00:35.8148095+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:06:38.892625+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:00:23.7999363+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:06:03.8193103+00:00"
 }

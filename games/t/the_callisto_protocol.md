@@ -5,21 +5,21 @@ Rating: 4.19 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 0.80% | ~125 |
+| Get a Grip | 0.90% | ~140 |
 | Keep Fighting | 0.80% | ~28 |
 | Paper Jams | 0.70% | ~109 |
 | You Need a Gun | 0.60% | ~94 |
 | Two Heads Are Better Than One | 0.60% | ~94 |
 | Flesh Wound | 0.50% | ~78 |
 | I Do Belong Here | 0.50% | ~78 |
+| Chew 'Em Up | 0.50% | ~78 |
+| Workplace Hazard | 0.50% | ~78 |
 | Reforged | 0.50% | ~78 |
 | If the SHU Fits... | 0.50% | ~78 |
 | In the Pipe, Five by Five | 0.50% | ~78 |
 | Crash Site | 0.50% | ~78 |
 | Power Up | 0.50% | ~78 |
 | Giving Back | 0.40% | ~62 |
-| Chew 'Em Up | 0.40% | ~62 |
-| Workplace Hazard | 0.40% | ~62 |
 | The Commonality | 0.40% | ~62 |
 | Float Like A Butterfly | 0.40% | ~62 |
 | The Outer Way | 0.40% | ~62 |
@@ -30,11 +30,11 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.40% | ~14 |
 | Terminated | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
+| Grim Reaper | 0.20% | ~31 |
 | In Striking Distance | 0.20% | ~31 |
 | This Isn't About Escape | 0.20% | ~7 |
 | One Last Job | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
-| Grim Reaper | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,604 (Ranked 106)  
+Progressed: 15,605 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
 | 2023-06-30 | 15,597 | 62 |
-| 2023-07-01 | 15,604 | 62 |
+| 2023-07-01 | 15,605 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
 Sum: 353 (Ranked 321)  

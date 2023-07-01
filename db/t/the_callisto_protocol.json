@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -812,9 +812,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15604,
+  "EOS_Progressed": 15605,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5052,6 +5052,11 @@
       "Time": "2023-07-01T09:05:20.4402641+00:00",
       "NumProgressed": 15604,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T11:05:44.5419719+00:00",
+      "NumProgressed": 15605,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5101,9 +5106,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -5165,9 +5170,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 140
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5189,9 +5194,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "KILL_ROBOT",
@@ -5205,9 +5210,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -5438,13 +5443,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15604,
+      "Progressed": 15605,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3530,
+      "Progressed": 3531,
       "Completed": 29
     }
   ],
@@ -5452,8 +5457,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T06:58:21.699348+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:06:17.4905221+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:05:44.5419714+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:58:33.7011524+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:06:17.4905889+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:58:35.8189992+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:05:44.542022+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1514,6 +1514,11 @@
       "Time": "2023-07-01T10:07:35.0783305+00:00",
       "NumProgressed": 734,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T11:06:53.1540045+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1533,7 +1538,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -1549,7 +1554,7 @@
       "Name": "Treasure Trove",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -1557,7 +1562,7 @@
       "Name": "Right On Time",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1597,7 +1602,7 @@
       "Name": "Street Style",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CultivairChests1",
@@ -1677,7 +1682,7 @@
       "Name": "Whiz Kid",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "GrindingTime1",
@@ -1717,7 +1722,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MapCompletion1",
@@ -1725,7 +1730,7 @@
       "Name": "Cartographer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NoCritterSump",
@@ -1765,7 +1770,7 @@
       "Name": "Time Flies",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ParryBoss",
@@ -1797,7 +1802,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "PidgeDefeated",
@@ -1813,7 +1818,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "RewindParry",
@@ -1941,21 +1946,21 @@
       "Name": "The Family Fortune",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:35.07833+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:06:53.1540041+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:00:30.8237917+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:35.0783897+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:00:19.3837274+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:06:53.154045+00:00"
 }

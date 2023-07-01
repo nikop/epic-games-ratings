@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -496,17 +496,17 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_BATHROOM",
@@ -720,9 +720,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
@@ -735,8 +735,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:07:41.4294416+00:00",
+  "LastChanged_Achievements": "2023-07-01T11:07:08.7073376+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.2832968+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:57:42.5845975+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:07:41.4294919+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:57:55.1028746+00:00",
+  "LastUpdate_Achievements": "2023-07-01T11:07:08.7073578+00:00"
 }

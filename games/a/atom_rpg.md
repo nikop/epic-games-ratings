@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~990 |
+| Atom Agent | 99.00% | ~991 |
 | One HIT wonder | 35.00% | ~350 |
 | Wanderer | 35.00% | ~350 |
 | One shot, one kill | 29.00% | ~290 |
@@ -27,8 +27,8 @@ Number of Ratings: 54  (23.09.2022)
 | Secret room | 5.00% | ~50 |
 | Indy | 4.00% | ~40 |
 | Sacrifice | 4.00% | ~40 |
-| Wishmaster | 3.00% | ~30 |
 | Career criminal | 2.00% | ~20 |
+| Wishmaster | 2.00% | ~20 |
 | Neanderthal | 1.00% | ~10 |
 | It was worth a shot | 1.00% | ~10 |
 | Cosmic Horror | 1.00% | ~10 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 187)  
+Progressed: 1,001 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-27 | 997 | 0 |
 | 2023-06-28 | 999 | 0 |
 | 2023-06-29 | 1,000 | 0 |
+| 2023-07-01 | 1,001 | 0 |
 ## Awards
 Max (Character Customization): 49  (Ranked 401)  
 Sum: 49 (Ranked 446)  

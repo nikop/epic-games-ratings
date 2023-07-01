@@ -6,26 +6,26 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,059 |
+| Own use | 76.00% | ~34,060 |
 | I read Shakespeare and stuff | 64.00% | ~28,682 |
-| Just a sprinkle | 63.00% | ~28,233 |
-| I'm stumped | 61.00% | ~27,337 |
-| Plant get enough | 61.00% | ~27,337 |
+| Just a sprinkle | 63.00% | ~28,234 |
+| I'm stumped | 61.00% | ~27,338 |
+| Plant get enough | 61.00% | ~27,338 |
 | This is just my weekend vehicle | 58.00% | ~25,993 |
 | It's just the beginning | 58.00% | ~25,993 |
 | Hard work pays off | 53.00% | ~23,752 |
-| It's never too late to farm | 48.00% | ~21,511 |
+| It's never too late to farm | 48.00% | ~21,512 |
 | All out of Land | 44.00% | ~19,719 |
-| Field Trip | 43.00% | ~19,270 |
+| Field Trip | 43.00% | ~19,271 |
 | I like to switch it up | 40.00% | ~17,926 |
 | Help me to help you | 38.00% | ~17,030 |
 | Ultimutt Pawesomeness | 28.00% | ~12,548 |
 | Van Gogh | 26.00% | ~11,652 |
 | You wood not believe it | 21.00% | ~9,411 |
 | Vehicle fleet | 21.00% | ~9,411 |
-| The plot thickens | 16.00% | ~7,170 |
-| Well-Oiled Machine | 16.00% | ~7,170 |
-| Long haul | 16.00% | ~7,170 |
+| The plot thickens | 16.00% | ~7,171 |
+| Well-Oiled Machine | 16.00% | ~7,171 |
+| Long haul | 16.00% | ~7,171 |
 | Clucky Streak | 15.00% | ~6,722 |
 | Large-scale supplier | 15.00% | ~6,722 |
 | That's a wrap | 14.00% | ~6,274 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~179 |
 | Raisin the stakes | 0.30% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,815 (Ranked 86)  
+Progressed: 44,816 (Ranked 86)  
 Completed: 5 (0.01%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,21 +122,21 @@ Completed: 5 (0.01%) (Ranked 219)
 | 2023-06-28 | 44,721 | 5 |
 | 2023-06-29 | 44,764 | 5 |
 | 2023-06-30 | 44,803 | 5 |
-| 2023-07-01 | 44,815 | 5 |
+| 2023-07-01 | 44,816 | 5 |
 ## Awards
 Max (Great for Beginners): 4,465  (Ranked 70)  
-Sum: 37,746 (Ranked 31)  
+Sum: 37,753 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,465 |
 | This game is Relaxing | 4,000 |
-| This game is Educational | 3,957 |
+| This game is Educational | 3,959 |
 | This game has Quickly Understood Controls | 3,919 |
 | This game is Highly Recommended | 3,786 |
 | This game is Extremely Fun | 3,778 |
 | This game has Diverse Characters | 3,773 |
-| This game has Amazing Storytelling | 3,673 |
+| This game has Amazing Storytelling | 3,678 |
 | This game has Amazing Characters | 3,289 |
 | This game has a Creative Community | 3,106 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -309,4 +309,4 @@ Diff (max vs sum): 39
 | 2023-06-28 | 4.70 | - | 4,453 | 37,696 |
 | 2023-06-29 | 4.70 | - | 4,461 | 37,722 |
 | 2023-06-30 | 4.70 | - | 4,465 | 37,742 |
-| 2023-07-01 | 4.70 | - | 4,465 | 37,746 |
+| 2023-07-01 | 4.70 | - | 4,465 | 37,753 |

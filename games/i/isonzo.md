@@ -6,32 +6,32 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,420 |
-| Tutti Eroi! | 54.00% | ~3,420 |
+| Peak Performance | 54.00% | ~3,421 |
+| Tutti Eroi! | 54.00% | ~3,421 |
 | You Shall Not Pass | 52.00% | ~3,294 |
 | Avanti Savoia! | 47.00% | ~2,977 |
 | Mamma Mia! | 37.00% | ~2,344 |
-| Conrad von Hotzensocks | 36.00% | ~2,280 |
-| Gabriele D'Annunzio | 33.00% | ~2,090 |
+| Conrad von Hotzensocks | 36.00% | ~2,281 |
+| Gabriele D'Annunzio | 33.00% | ~2,091 |
 | Silver Lining | 29.00% | ~1,837 |
-| Aurelio Baruzzi | 22.00% | ~1,393 |
-| Veni Vidi Vici | 22.00% | ~1,393 |
+| Aurelio Baruzzi | 22.00% | ~1,394 |
+| Veni Vidi Vici | 22.00% | ~1,394 |
 | Donatello | 21.00% | ~1,330 |
 | Decimation | 20.00% | ~1,267 |
 | The Italian Job | 20.00% | ~1,267 |
-| Insubordination | 19.00% | ~1,203 |
+| Insubordination | 19.00% | ~1,204 |
 | The Lion of the Isonzo | 18.00% | ~1,140 |
 | Ragazzi del '99 | 17.00% | ~1,077 |
 | Luigi Cadorna | 14.00% | ~887 |
 | Thus With A Kiss | 14.00% | ~887 |
 | Uomo Universale | 14.00% | ~887 |
-| Dirty Dozen | 13.00% | ~823 |
-| Shaken, Not Stirred | 13.00% | ~823 |
+| Dirty Dozen | 13.00% | ~824 |
+| Shaken, Not Stirred | 13.00% | ~824 |
 | Die Bosniaken Kommen! | 12.00% | ~760 |
 | Machiavelli | 12.00% | ~760 |
 | The Devil's Paintbrush | 11.00% | ~697 |
-| Dante's Inferno | 10.00% | ~633 |
-| I Have the High Ground | 10.00% | ~633 |
+| Dante's Inferno | 10.00% | ~634 |
+| I Have the High Ground | 10.00% | ~634 |
 | Millenial | 9.00% | ~570 |
 | The Show Must Go On | 8.00% | ~507 |
 | Tosca | 8.00% | ~507 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~25 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,334 (Ranked 127)  
+Progressed: 6,335 (Ranked 127)  
 Completed: 8 (0.13%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 8 (0.13%) (Ranked 174)
 | 2023-06-28 | 6,326 | 8 |
 | 2023-06-29 | 6,330 | 8 |
 | 2023-06-30 | 6,332 | 8 |
-| 2023-07-01 | 6,334 | 8 |
+| 2023-07-01 | 6,335 | 8 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 436)  
 Sum: 255 (Ranked 346)  
