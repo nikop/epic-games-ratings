@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.73% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.39% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.62% |
@@ -14,15 +14,15 @@
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 12.50% |
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
-| 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.93% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
-| 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 16 | [Remains](games/r/remains.md) | 12.20% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.93% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
+| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
+| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 10.00% |
 | 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
@@ -71,7 +71,7 @@
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.33% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.18% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
@@ -121,13 +121,13 @@
 | 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 123 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 124 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
-| 126 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
-| 126 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
+| 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
+| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 130 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.45% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
