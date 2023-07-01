@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -750,8 +750,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-07-01T16:01:40.1855682+00:00",
+  "LastChanged_Achievements": "2023-07-01T17:02:45.4720123+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:06.7652241+00:00",
-  "LastUpdate_Ratings": "2023-07-01T15:58:12.9100524+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:01:40.1855814+00:00"
+  "LastUpdate_Ratings": "2023-07-01T16:58:25.865036+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:02:45.472032+00:00"
 }

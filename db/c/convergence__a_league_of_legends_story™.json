@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1524,6 +1524,11 @@
       "Time": "2023-07-01T16:06:29.4743005+00:00",
       "NumProgressed": 736,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T17:07:35.7125705+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1725,9 +1730,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 88
     },
     {
       "ID": "MapCompletion1",
@@ -1773,9 +1778,9 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 88
     },
     {
       "ID": "ParryBoss",
@@ -1949,23 +1954,23 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-01T16:06:29.4743+00:00",
+  "LastChanged_Achievements": "2023-07-01T17:07:35.71257+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:00:00.1985657+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:06:29.4743431+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:00:38.1304932+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:07:35.7126255+00:00"
 }

@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 439)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,758 (Ranked 152)  
+Progressed: 2,759 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-28 | 2,744 | 0 |
 | 2023-06-29 | 2,750 | 0 |
 | 2023-06-30 | 2,756 | 0 |
-| 2023-07-01 | 2,758 | 0 |
+| 2023-07-01 | 2,759 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,7 +224,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36263,
+  "EOS_Progressed": 36264,
   "EOS_Completed": 181,
   "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 3,
@@ -7079,6 +7079,11 @@
       "Time": "2023-07-01T16:03:54.5194686+00:00",
       "NumProgressed": 36263,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-07-01T17:04:21.8549136+00:00",
+      "NumProgressed": 36264,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 44,
@@ -7210,7 +7215,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29373
+      "UsersEstimate": 29374
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -7282,7 +7287,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 13417
+      "UsersEstimate": 13418
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -7290,7 +7295,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -7314,7 +7319,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 20307
+      "UsersEstimate": 20308
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -7362,7 +7367,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 24659
+      "UsersEstimate": 24660
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -7394,7 +7399,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 16318
+      "UsersEstimate": 16319
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -7426,7 +7431,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 33725
+      "UsersEstimate": 33726
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -7441,7 +7446,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 36263,
+      "Progressed": 36264,
       "Completed": 181
     }
   ],
@@ -7449,8 +7454,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-01T16:03:54.5194681+00:00",
+  "LastChanged_Achievements": "2023-07-01T17:04:21.8549129+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.8892651+00:00",
-  "LastUpdate_Ratings": "2023-07-01T15:58:55.2845961+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:03:54.5195446+00:00"
+  "LastUpdate_Ratings": "2023-07-01T16:59:16.3924782+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:04:21.8550552+00:00"
 }

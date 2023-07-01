@@ -34,6 +34,7 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 3.00% | ~88 |
 | Tactical Flexibility | 3.00% | ~88 |
 | Patron of Deimos | 2.00% | ~59 |
+| Strike Force | 2.00% | ~59 |
 | Exterminator | 2.00% | ~59 |
 | Hands-On Research | 2.00% | ~59 |
 | Only in Death | 2.00% | ~59 |
@@ -44,7 +45,6 @@ Number of Ratings: 371  (23.09.2022)
 | Fleetmaster | 1.00% | ~29 |
 | For the Machine God | 1.00% | ~29 |
 | Unstable Immaterium | 1.00% | ~29 |
-| Strike Force | 1.00% | ~29 |
 | Exercise in Restraint | 0.90% | ~26 |
 | True Mastery | 0.60% | ~18 |
 | The Flesh is Weak | 0.50% | ~15 |

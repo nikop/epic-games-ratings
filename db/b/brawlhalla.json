@@ -2,12 +2,12 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -3526,6 +3526,6 @@
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
   "LastChanged": "2023-07-01T16:00:14.3486809+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.7846753+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:00:14.3486817+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:03:59.0390031+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:00:58.8037668+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:04:27.9072446+00:00"
 }

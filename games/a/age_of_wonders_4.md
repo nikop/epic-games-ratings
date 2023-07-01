@@ -17,10 +17,10 @@ Rating: 4.59 (Ranked 410)
 | Here be Dragons | 1.00% | ~49 |
 | Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
+| There Can Only Be One! | 0.90% | ~44 |
 | Bone Peddler | 0.90% | ~44 |
 | Impenetrable Fortress | 0.90% | ~44 |
 | Intimidation Tactics | 0.90% | ~44 |
-| There Can Only Be One! | 0.80% | ~39 |
 | Full Ascension | 0.80% | ~39 |
 | Seat of Power | 0.80% | ~39 |
 | Fiery Friend | 0.80% | ~39 |
@@ -29,8 +29,8 @@ Rating: 4.59 (Ranked 410)
 | In a Liege of Your Own | 0.70% | ~34 |
 | Against the Odds | 0.70% | ~34 |
 | Duality | 0.70% | ~34 |
+| Valley of Wonders | 0.60% | ~29 |
 | Return of the Wizard King | 0.60% | ~29 |
-| Valley of Wonders | 0.50% | ~24 |
 | Arch Mage | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
 | Eternal Lord | 0.50% | ~24 |
@@ -39,10 +39,10 @@ Rating: 4.59 (Ranked 410)
 | Enchanted Archipelago | 0.40% | ~20 |
 | Lord of Chaos | 0.30% | ~15 |
 | The Goddess of Nature | 0.30% | ~15 |
+| Crimson Caldera | 0.30% | ~15 |
 | The Eternal Court | 0.30% | ~15 |
 | Jack of All Tomes | 0.30% | ~15 |
 | I've Got Everything I Need Right Here | 0.20% | ~10 |
-| Crimson Caldera | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
 | Pruning for Progress | 0.20% | ~10 |
 | Grexolis | 0.20% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,893 (Ranked 134)  
+Progressed: 4,894 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
-| 2023-07-01 | 4,893 | 4 |
+| 2023-07-01 | 4,894 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

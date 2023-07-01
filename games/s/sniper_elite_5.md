@@ -6,27 +6,27 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 0.50% | ~16 |
+| Taking it back | 0.50% | ~16 |
 | Target America | 0.50% | ~16 |
 | Meeting Resistance | 0.40% | ~13 |
 | Confirming Suspicions | 0.40% | ~13 |
 | Lord of War | 0.40% | ~13 |
+| Der Geist | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
 | It's Starting to Crack | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
-| Taking it back | 0.40% | ~13 |
 | Climbing the Ladder | 0.30% | ~10 |
 | Liberté | 0.30% | ~10 |
 | No Stone Unturned | 0.30% | ~10 |
 | Opposing Force | 0.30% | ~10 |
 | Enemy at the Gates | 0.30% | ~10 |
+| Just a Flesh Wound | 0.30% | ~10 |
 | Organ Grinder | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Sharpshooter | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
-| Der Geist | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
 | The Kraken Sleeps | 0.30% | ~10 |
-| Just a Flesh Wound | 0.20% | ~6 |
 | Skirmisher | 0.20% | ~6 |
 | Set Europe Ablaze | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |

@@ -1,26 +1,26 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 844)  
+Rating: 4.20 (Ranked 834)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 1.00% | ~156 |
 | Keep Fighting | 0.90% | ~32 |
 | Paper Jams | 0.80% | ~125 |
-| You Need a Gun | 0.60% | ~94 |
+| You Need a Gun | 0.70% | ~109 |
+| Two Heads Are Better Than One | 0.70% | ~109 |
 | Flesh Wound | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
-| Two Heads Are Better Than One | 0.60% | ~94 |
 | Chew 'Em Up | 0.60% | ~94 |
 | Workplace Hazard | 0.60% | ~94 |
 | Reforged | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
+| Without A Paddle | 0.60% | ~94 |
+| In the Pipe, Five by Five | 0.60% | ~94 |
 | Giving Back | 0.50% | ~78 |
 | Float Like A Butterfly | 0.50% | ~78 |
 | The Outer Way | 0.50% | ~78 |
-| Without A Paddle | 0.50% | ~78 |
-| In the Pipe, Five by Five | 0.50% | ~78 |
 | Crash Site | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
 | Power Up | 0.50% | ~78 |
@@ -29,9 +29,9 @@ Rating: 4.19 (Ranked 844)
 | The Commonality | 0.40% | ~62 |
 | What Lies Beneath | 0.40% | ~62 |
 | Desperate Times | 0.40% | ~62 |
+| In Striking Distance | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
-| In Striking Distance | 0.20% | ~31 |
 | This Isn't About Escape | 0.20% | ~7 |
 | One Last Job | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -221,4 +221,4 @@ Diff (max vs sum): 59
 | 2023-06-27 | 4.19 | 59 | 340 |
 | 2023-06-29 | 4.19 | 61 | 347 |
 | 2023-06-30 | 4.20 | 61 | 349 |
-| 2023-07-01 | 4.19 | 63 | 353 |
+| 2023-07-01 | 4.20 | 63 | 353 |

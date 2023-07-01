@@ -9,14 +9,13 @@
 | Rail Rat | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~96 |
 | Treasure Trove | 13.00% | ~96 |
-| Make Up For Lost Time | 13.00% | ~96 |
 | Cartographer | 13.00% | ~96 |
-| Time Flies | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |
-| The Family Fortune | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
+| Make Up For Lost Time | 12.00% | ~88 |
+| Time Flies | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
 | No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |
@@ -25,6 +24,7 @@
 | Immaculate Aim | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
+| The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
 | Golem Chaser | 11.00% | ~81 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 736 (Ranked 196)  
+Progressed: 737 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-06-28 | 728 | 4 |
 | 2023-06-29 | 731 | 4 |
 | 2023-06-30 | 733 | 4 |
-| 2023-07-01 | 736 | 4 |
+| 2023-07-01 | 737 | 4 |

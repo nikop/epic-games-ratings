@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 200
     }
   ],
-  "EOS_Progressed": 10903,
+  "EOS_Progressed": 10905,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -5967,6 +5967,11 @@
       "Time": "2023-07-01T12:06:14.3105414+00:00",
       "NumProgressed": 10903,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-01T17:07:50.2056762+00:00",
+      "NumProgressed": 10905,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -5978,7 +5983,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8831
+      "UsersEstimate": 8833
     },
     {
       "ID": "ACH02",
@@ -6098,7 +6103,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "ACH17",
@@ -6146,7 +6151,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH23",
@@ -6202,7 +6207,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACH30",
@@ -6257,7 +6262,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10903,
+      "Progressed": 10905,
       "Completed": 24
     }
   ],
@@ -6265,8 +6270,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-01T16:06:42.3145038+00:00",
+  "LastChanged_Achievements": "2023-07-01T17:07:50.2056756+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:00:52.9248636+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:06:42.3145509+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:01:45.6618067+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:07:50.2057411+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2023-07-01T14:03:15.8771082+00:00",
       "NumProgressed": 697,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T17:03:47.3512349+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1158,7 +1163,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH002",
@@ -1206,7 +1211,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH008",
@@ -1246,7 +1251,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH013",
@@ -1284,9 +1289,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH018",
@@ -1334,7 +1339,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH024",
@@ -1350,7 +1355,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH026",
@@ -1390,7 +1395,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH031",
@@ -1438,7 +1443,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH037",
@@ -1454,7 +1459,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH039",
@@ -1542,22 +1547,22 @@
       "Name": "Wholesale",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-07-01T16:03:33.3344391+00:00",
+  "LastChanged_Achievements": "2023-07-01T17:03:47.3512342+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.6916632+00:00",
-  "LastUpdate_Ratings": "2023-07-01T15:59:00.8906609+00:00",
-  "LastUpdate_Achievements": "2023-07-01T16:03:33.3344768+00:00"
+  "LastUpdate_Ratings": "2023-07-01T16:59:23.4768416+00:00",
+  "LastUpdate_Achievements": "2023-07-01T17:03:47.3513171+00:00"
 }

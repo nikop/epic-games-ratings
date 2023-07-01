@@ -7,12 +7,12 @@
 | The T-Rex plain. | 54.00% | ~103 |
 | Crazy Jungle. | 35.00% | ~67 |
 | In the treetops. | 21.00% | ~40 |
-| A turbulent river. | 20.00% | ~38 |
-| At the top of the mountain. | 17.00% | ~32 |
+| A turbulent river. | 21.00% | ~40 |
+| At the top of the mountain. | 18.00% | ~34 |
 | Aggressive rocks. | 17.00% | ~32 |
 | Dino Ride. | 15.00% | ~29 |
+| Rocky fall. | 11.00% | ~21 |
 | In the heart of the volcano. | 10.00% | ~19 |
-| Rocky fall. | 10.00% | ~19 |
 | Swimming on a dino's back. | 9.00% | ~17 |
 | Dinosaur graveyard. | 9.00% | ~17 |
 | The mountain of peril. | 7.00% | ~13 |
