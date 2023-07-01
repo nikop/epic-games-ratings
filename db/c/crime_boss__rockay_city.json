@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 921,
   "Ranking_Popularity": 221,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68136,
+  "EOS_Progressed": 68138,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9918,6 +9918,11 @@
       "Time": "2023-07-01T17:03:51.4422222+00:00",
       "NumProgressed": 68136,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-01T18:03:49.114855+00:00",
+      "NumProgressed": 68138,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -9929,7 +9934,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34068
+      "UsersEstimate": 34069
     },
     {
       "ID": "ACH_0011",
@@ -9937,7 +9942,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19759
+      "UsersEstimate": 19760
     },
     {
       "ID": "ACH_0012",
@@ -9977,7 +9982,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH_0021",
@@ -10073,7 +10078,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44288
+      "UsersEstimate": 44290
     },
     {
       "ID": "ACH_0210",
@@ -10081,7 +10086,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50421
+      "UsersEstimate": 50422
     },
     {
       "ID": "ACH_0211",
@@ -10097,7 +10102,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32024
+      "UsersEstimate": 32025
     },
     {
       "ID": "ACH_0300",
@@ -10105,7 +10110,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH_0310",
@@ -10113,7 +10118,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH_0330",
@@ -10129,7 +10134,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH_0350",
@@ -10145,7 +10150,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23166
+      "UsersEstimate": 23167
     },
     {
       "ID": "ACH_0420",
@@ -10153,7 +10158,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23166
+      "UsersEstimate": 23167
     },
     {
       "ID": "ACH_0430",
@@ -10224,7 +10229,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68136,
+      "Progressed": 68138,
       "Completed": 35
     }
   ],
@@ -10232,8 +10237,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-01T04:59:47.6104642+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:03:51.4422218+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:03:49.1148544+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:01:26.9651621+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:03:51.4423116+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:01:06.4365602+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:03:49.1149332+00:00"
 }

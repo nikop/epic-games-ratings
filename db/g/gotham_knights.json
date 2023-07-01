@@ -1770,18 +1770,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 3979,
       "NumberOfAwardsMax": 2405
+    },
+    {
+      "Time": "2023-07-01T18:00:50.7848852+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3981,
+      "NumberOfAwardsMax": 2407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3979,
-  "NumberOfAwardsMax": 2405,
+  "NumberOfAwards": 3981,
+  "NumberOfAwardsMax": 2407,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2405
+      "Count": 2407
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1838,9 +1844,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66210,
+  "EOS_Progressed": 66214,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8278,6 +8284,11 @@
       "Time": "2023-07-01T16:06:46.0568252+00:00",
       "NumProgressed": 66210,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T18:07:34.0302843+00:00",
+      "NumProgressed": 66214,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8593,7 +8604,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "HARLEY_2",
@@ -8681,7 +8692,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "MYSTERY_02",
@@ -8776,22 +8787,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66210,
+      "Progressed": 66214,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36490,
+      "Progressed": 36494,
       "Completed": 2649
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-01T03:29:37.4133843+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:07:54.1021024+00:00",
+  "LastChanged": "2023-07-01T18:00:50.784885+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:07:34.030284+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:01:10.4306704+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:07:54.1022205+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:00:50.7848857+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:07:34.030383+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.56 (Ranked 456)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 88.00% | ~320 |
-| And again, and again, and... | 64.00% | ~233 |
-| Burn, Elysium, burn! | 63.00% | ~229 |
-| Kuvaq Minigame-Master | 61.00% | ~222 |
-| FunScore | 55.00% | ~200 |
+| Huzza, he's back. | 88.00% | ~321 |
+| And again, and again, and... | 64.00% | ~234 |
+| Burn, Elysium, burn! | 62.00% | ~226 |
+| Kuvaq Minigame-Master | 61.00% | ~223 |
+| FunScore | 55.00% | ~201 |
 | Funtime's over | 53.00% | ~193 |
-| Chunky | 51.00% | ~186 |
-| Shall we play a game? | 49.00% | ~178 |
+| Chunky | 50.00% | ~182 |
+| Shall we play a game? | 48.00% | ~175 |
 | Boat of love, boat of love | 48.00% | ~175 |
 | School's out | 43.00% | ~157 |
 | Scaffolding Expert | 37.00% | ~135 |
 | Elysian Minigame-Master | 37.00% | ~135 |
 | Sole Music | 36.00% | ~131 |
-| Portals come in packs | 30.00% | ~109 |
+| Portals come in packs | 30.00% | ~110 |
 | No man left behind! | 29.00% | ~106 |
 | Photo Friend | 26.00% | ~95 |
 | Brainfreeze | 22.00% | ~80 |
@@ -34,16 +34,16 @@ Rating: 4.56 (Ranked 456)
 | Paradox! | 10.00% | ~36 |
 | Weapons 101 | 8.00% | ~29 |
 | Sadist | 8.00% | ~29 |
-| The customer is always right | 7.00% | ~25 |
-| Apoca...huh? | 7.00% | ~25 |
+| The customer is always right | 7.00% | ~26 |
+| Apoca...huh? | 7.00% | ~26 |
 | Pacifist | 6.00% | ~22 |
 | Against better judgement | 6.00% | ~22 |
 | Distraction | 5.00% | ~18 |
 | Every man for himself! | 5.00% | ~18 |
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364 (Ranked 229)  
-Completed: 6 (1.65%) (Ranked 82)  
+Progressed: 365 (Ranked 229)  
+Completed: 6 (1.64%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,6 +58,7 @@ Completed: 6 (1.65%) (Ranked 82)
 | 2023-06-02 | 362 | 6 |
 | 2023-06-10 | 363 | 6 |
 | 2023-06-19 | 364 | 6 |
+| 2023-07-01 | 365 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -591,9 +591,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "631ndc2",
       "Name": "City Savior",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -792,8 +792,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:07:53.595879+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:07:33.4548767+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:45.0782701+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:59:58.4723391+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:07:53.5959333+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:59:42.0872746+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:07:33.4549602+00:00"
 }

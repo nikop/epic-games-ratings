@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1281,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -945,6 +945,11 @@
       "Time": "2023-07-01T12:03:33.9613283+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T18:03:41.6071492+00:00",
+      "NumProgressed": 1281,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -972,7 +977,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1018,9 +1023,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1044,7 +1049,7 @@
       "Name": "Completing the Look",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1116,7 +1121,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1196,7 +1201,7 @@
       "Name": "War Endured",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "completedStory_legacy",
@@ -1403,15 +1408,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1281,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:03:43.819036+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:03:41.6071487+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:02:16.8689252+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:03:43.8190882+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:01:55.4627551+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:03:41.6072075+00:00"
 }

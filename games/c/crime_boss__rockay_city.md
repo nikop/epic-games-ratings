@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,421 |
-| First One’s Free | 65.00% | ~44,288 |
-| Neophyte Ninja | 50.00% | ~34,068 |
-| Too Old for This | 47.00% | ~32,024 |
+| Downed but Not Outed | 74.00% | ~50,422 |
+| First One’s Free | 65.00% | ~44,290 |
+| Neophyte Ninja | 50.00% | ~34,069 |
+| Too Old for This | 47.00% | ~32,025 |
 | Fancy Pants | 35.00% | ~23,848 |
-| Case Closed | 34.00% | ~23,166 |
-| King of the Hill | 34.00% | ~23,166 |
-| Underworld Initiate | 29.00% | ~19,759 |
+| Case Closed | 34.00% | ~23,167 |
+| King of the Hill | 34.00% | ~23,167 |
+| Underworld Initiate | 29.00% | ~19,760 |
 | Roid Ranger | 21.00% | ~14,309 |
 | True Player | 19.00% | ~12,946 |
 | Off the Rocks | 19.00% | ~12,946 |
@@ -29,10 +29,10 @@ Rating: 3.93 (Ranked 921)
 | Foo Finder | 7.00% | ~4,770 |
 | Legend Looter | 5.00% | ~3,407 |
 | Savvy Seeker | 5.00% | ~3,407 |
-| Imports and Exports | 4.00% | ~2,725 |
-| Olympus Ascended | 4.00% | ~2,725 |
-| Cracked the Jack | 4.00% | ~2,725 |
-| Red Star | 4.00% | ~2,725 |
+| Imports and Exports | 4.00% | ~2,726 |
+| Olympus Ascended | 4.00% | ~2,726 |
+| Cracked the Jack | 4.00% | ~2,726 |
+| Red Star | 4.00% | ~2,726 |
 | Privateer | 3.00% | ~2,044 |
 | Groundhog Days | 3.00% | ~2,044 |
 | Rockay Raider | 2.00% | ~1,363 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 921)
 | Geek Out | 0.50% | ~341 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,136 (Ranked 72)  
+Progressed: 68,138 (Ranked 72)  
 Completed: 35 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,11 +115,11 @@ Completed: 35 (0.05%) (Ranked 199)
 | 2023-06-28 | 67,956 | 35 |
 | 2023-06-29 | 68,010 | 35 |
 | 2023-06-30 | 68,072 | 35 |
-| 2023-07-01 | 68,136 | 35 |
+| 2023-07-01 | 68,138 | 35 |
 ## Awards
 Max (Diverse Characters): 348  (Ranked 221)  
-Sum: 1,667 (Ranked 206)  
-Diff (max vs sum): 15  
+Sum: 1,667 (Ranked 207)  
+Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 348 |

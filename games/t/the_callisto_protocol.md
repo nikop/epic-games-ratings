@@ -6,7 +6,7 @@ Rating: 4.20 (Ranked 834)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 1.00% | ~156 |
-| Keep Fighting | 0.90% | ~32 |
+| Keep Fighting | 1.00% | ~35 |
 | Paper Jams | 0.80% | ~125 |
 | You Need a Gun | 0.70% | ~109 |
 | Two Heads Are Better Than One | 0.70% | ~109 |
@@ -18,10 +18,10 @@ Rating: 4.20 (Ranked 834)
 | If the SHU Fits... | 0.60% | ~94 |
 | Without A Paddle | 0.60% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~94 |
+| Crash Site | 0.60% | ~94 |
 | Giving Back | 0.50% | ~78 |
 | Float Like A Butterfly | 0.50% | ~78 |
 | The Outer Way | 0.50% | ~78 |
-| Crash Site | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
 | Power Up | 0.50% | ~78 |
 | It's Time | 0.50% | ~18 |
@@ -127,13 +127,13 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-07-01 | 15,607 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
-Sum: 353 (Ranked 321)  
+Sum: 354 (Ranked 321)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 63 |
 | This game is Highly Recommended | 61 |
-| This game has Amazing Characters | 59 |
+| This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 50 |
 | This game has Challenging Combat | 42 |
@@ -221,4 +221,4 @@ Diff (max vs sum): 59
 | 2023-06-27 | 4.19 | 59 | 340 |
 | 2023-06-29 | 4.19 | 61 | 347 |
 | 2023-06-30 | 4.20 | 61 | 349 |
-| 2023-07-01 | 4.20 | 63 | 353 |
+| 2023-07-01 | 4.20 | 63 | 354 |

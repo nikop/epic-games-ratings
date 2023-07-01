@@ -6,19 +6,19 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,456 |
-| Self-Improvement | 72.00% | ~1,205 |
-| Perky | 66.00% | ~1,105 |
-| Let’s Ride | 60.00% | ~1,004 |
-| Welcome to the Weird West | 57.00% | ~954 |
-| Dead or Alive | 56.00% | ~937 |
-| Full House | 37.00% | ~619 |
-| Off the Trail | 34.00% | ~569 |
-| Justice Served | 29.00% | ~485 |
+| Unforgiven | 87.00% | ~1,457 |
+| Self-Improvement | 72.00% | ~1,206 |
+| Perky | 66.00% | ~1,106 |
+| Let’s Ride | 60.00% | ~1,005 |
+| Welcome to the Weird West | 57.00% | ~955 |
+| Dead or Alive | 56.00% | ~938 |
+| Full House | 37.00% | ~620 |
+| Off the Trail | 34.00% | ~570 |
+| Justice Served | 29.00% | ~486 |
 | Chain Reaction | 27.00% | ~452 |
-| Through Their Eyes | 26.00% | ~435 |
-| Rain of Death | 25.00% | ~418 |
-| Scholar | 25.00% | ~418 |
+| Through Their Eyes | 26.00% | ~436 |
+| Rain of Death | 25.00% | ~419 |
+| Scholar | 25.00% | ~419 |
 | Dishonored | 24.00% | ~402 |
 | The Great Escape | 23.00% | ~385 |
 | That’s All, Folks | 19.00% | ~318 |
@@ -34,7 +34,7 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~201 |
 | There is Hope | 12.00% | ~201 |
 | Turning the Tables | 12.00% | ~201 |
-| The Philosopher’s Stone | 10.00% | ~167 |
+| The Philosopher’s Stone | 10.00% | ~168 |
 | Loyalty to the Pack | 9.00% | ~151 |
 | Eternity Can Wait | 9.00% | ~151 |
 | Mystery Machine | 9.00% | ~151 |
@@ -49,7 +49,7 @@ Number of Ratings: 125  (23.09.2022)
 | What’s in the Box? | 5.00% | ~84 |
 | Ghost Town | 3.00% | ~50 |
 | Moondrunk | 3.00% | ~50 |
-| Lord Inut Sends His Regards | 2.00% | ~33 |
+| Lord Inut Sends His Regards | 2.00% | ~34 |
 | I Kicked a Bird and I Liked it | 1.00% | ~17 |
 | Hog Wild | 1.00% | ~17 |
 | 'Ma Barker | 1.00% | ~17 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,674 (Ranked 166)  
+Progressed: 1,675 (Ranked 166)  
 Completed: 3 (0.18%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 3 (0.18%) (Ranked 165)
 | 2023-06-28 | 1,671 | 3 |
 | 2023-06-29 | 1,673 | 3 |
 | 2023-06-30 | 1,674 | 3 |
+| 2023-07-01 | 1,675 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 474)  
 Sum: 24 (Ranked 479)  

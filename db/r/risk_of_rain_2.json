@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
@@ -1722,10 +1722,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2309,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-07-01T18:00:12.3859325+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2310,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2309,
+  "NumberOfAwards": 2310,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1757,7 +1763,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1813,8 +1819,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-06-30T03:58:58.4694977+00:00",
+  "LastChanged": "2023-07-01T18:00:12.3859322+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.5701366+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:00:29.934835+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:02:55.8204196+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:00:12.3859331+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:02:34.7958579+00:00"
 }

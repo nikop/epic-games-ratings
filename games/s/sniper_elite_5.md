@@ -5,16 +5,17 @@ Rating: 4.45 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resourceful | 0.50% | ~16 |
+| Resourceful | 0.60% | ~19 |
+| Lord of War | 0.50% | ~16 |
 | Taking it back | 0.50% | ~16 |
 | Target America | 0.50% | ~16 |
 | Meeting Resistance | 0.40% | ~13 |
 | Confirming Suspicions | 0.40% | ~13 |
-| Lord of War | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
 | It's Starting to Crack | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
+| The Kraken Sleeps | 0.40% | ~13 |
 | Climbing the Ladder | 0.30% | ~10 |
 | Liberté | 0.30% | ~10 |
 | No Stone Unturned | 0.30% | ~10 |
@@ -26,9 +27,9 @@ Rating: 4.45 (Ranked 617)
 | Sharpshooter | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
-| The Kraken Sleeps | 0.30% | ~10 |
 | Skirmisher | 0.20% | ~6 |
 | Set Europe Ablaze | 0.20% | ~6 |
+| Precision Is Key | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
 | Die Nussknacker Sweet! | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
@@ -38,7 +39,6 @@ Rating: 4.45 (Ranked 617)
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
-| Precision Is Key | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
@@ -59,6 +59,7 @@ Rating: 4.45 (Ranked 617)
 | Operation Overlord | 0.10% | ~3 |
 | If You Go Down To The Woods Today | 0.10% | ~3 |
 | Fight Another Day | 0.10% | ~3 |
+| Stroll in the Woods | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
 | Sink or Swim | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
@@ -75,7 +76,6 @@ Rating: 4.45 (Ranked 617)
 | Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,183 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 162)  

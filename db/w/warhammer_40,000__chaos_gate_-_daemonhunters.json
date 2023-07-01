@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2930,
+  "EOS_Progressed": 2931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2020,6 +2020,11 @@
       "Time": "2023-06-30T06:06:57.8433108+00:00",
       "NumProgressed": 2930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T18:07:36.7256623+00:00",
+      "NumProgressed": 2931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2199,7 +2204,7 @@
       "Name": "Not So Fast...",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "Kills_Bleed",
@@ -2207,7 +2212,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2223,7 +2228,7 @@
       "Name": "Executioner",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "Kills_Exterminator",
@@ -2455,7 +2460,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -2502,21 +2507,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2930,
+      "Progressed": 2931,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2930,
+      "Progressed": 2931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:08:06.9018947+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:07:36.7256616+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:59:40.0469973+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:08:06.9021143+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:59:24.3406676+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:07:36.7257272+00:00"
 }

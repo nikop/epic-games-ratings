@@ -5,28 +5,28 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,444 |
-| World Map | 79.00% | ~1,213 |
-| Temple of Eternals | 57.00% | ~876 |
-| Prestigious | 54.00% | ~829 |
-| Fellowship Power | 41.00% | ~630 |
+| Victor | 94.00% | ~1,446 |
+| World Map | 79.00% | ~1,215 |
+| Temple of Eternals | 57.00% | ~877 |
+| Prestigious | 54.00% | ~831 |
+| Fellowship Power | 41.00% | ~631 |
 | Guild Power | 25.00% | ~384 |
 | Prestigious x10 | 21.00% | ~323 |
 | The game is on | 19.00% | ~292 |
 | Exotic Merchant | 17.00% | ~261 |
 | Dragon Clicker | 16.00% | ~246 |
 | Miner Clicker | 16.00% | ~246 |
-| Full Party | 15.00% | ~230 |
-| Inspection | 15.00% | ~230 |
+| Full Party | 15.00% | ~231 |
+| Inspection | 15.00% | ~231 |
 | Enlightenment | 14.00% | ~215 |
 | Hero inspection | 14.00% | ~215 |
 | Dragon Master | 13.00% | ~200 |
 | Lieutenant | 13.00% | ~200 |
-| Milestone collector | 12.00% | ~184 |
-| Mysterious Rock | 12.00% | ~184 |
-| Natural Talent | 12.00% | ~184 |
-| Superior | 12.00% | ~184 |
-| The Unstoppable | 12.00% | ~184 |
+| Milestone collector | 12.00% | ~185 |
+| Mysterious Rock | 12.00% | ~185 |
+| Natural Talent | 12.00% | ~185 |
+| Superior | 12.00% | ~185 |
+| The Unstoppable | 12.00% | ~185 |
 | Scientist | 11.00% | ~169 |
 | Challenger | 9.00% | ~138 |
 | Doing My Part | 9.00% | ~138 |
@@ -51,10 +51,10 @@ Rating: 4.07 (Ranked 895)
 | Engineer Mastery | 5.00% | ~77 |
 | Missions Dedication | 5.00% | ~77 |
 | Weekly Quest Completionist | 5.00% | ~77 |
-| Background Story | 4.00% | ~61 |
-| Blueprint Upgrades | 4.00% | ~61 |
-| Dragon Slayer | 4.00% | ~61 |
-| Lock And Load | 4.00% | ~61 |
+| Background Story | 4.00% | ~62 |
+| Blueprint Upgrades | 4.00% | ~62 |
+| Dragon Slayer | 4.00% | ~62 |
+| Lock And Load | 4.00% | ~62 |
 | Arena Challenger | 3.00% | ~46 |
 | Sailor | 3.00% | ~46 |
 | The Alchemist | 3.00% | ~46 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,536 (Ranked 168)  
+Progressed: 1,538 (Ranked 168)  
 Completed: 1 (0.07%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 1 (0.07%) (Ranked 192)
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
 | 2023-06-30 | 1,532 | 1 |
-| 2023-07-01 | 1,536 | 1 |
+| 2023-07-01 | 1,538 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

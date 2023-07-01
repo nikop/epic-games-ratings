@@ -35,11 +35,11 @@ Number of Ratings: 22  (23.09.2022)
 | Around the Clock | 5.00% | ~22 |
 | Club Champion | 5.00% | ~22 |
 | King of District 4 | 5.00% | ~22 |
+| City Savior | 4.00% | ~18 |
 | King of District 5 | 4.00% | ~18 |
 | Hundred Percent Third | 3.00% | ~14 |
 | Hundred Percent Fourth | 3.00% | ~14 |
 | Circus Maximus | 3.00% | ~14 |
-| City Savior | 3.00% | ~14 |
 | Accomplished Veteran | 2.00% | ~9 |
 | Unmatched Skills | 2.00% | ~9 |
 | Hundred Percent Fifth | 2.00% | ~9 |

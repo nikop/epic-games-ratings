@@ -26,15 +26,15 @@ Number of Ratings: 20  (23.09.2022)
 | Roll to Save | 21.00% | ~67 |
 | Red Flag Pirate | 19.00% | ~60 |
 | Veteran Explorer | 19.00% | ~60 |
-| Iron Man | 16.00% | ~51 |
+| Iron Man | 17.00% | ~54 |
 | For the Club! | 15.00% | ~48 |
 | Shortening of the Way | 15.00% | ~48 |
 | A Gentle Beast | 15.00% | ~48 |
 | Practical Palaeontology | 15.00% | ~48 |
 | The New Director | 14.00% | ~45 |
 | The Director is Dead | 14.00% | ~45 |
+| Adventurer | 14.00% | ~45 |
 | Dapper | 14.00% | ~45 |
-| Adventurer | 13.00% | ~41 |
 | Discovery | 13.00% | ~41 |
 | Plays Well With Others | 13.00% | ~41 |
 | And Here Is Your Statue | 12.00% | ~38 |

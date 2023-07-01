@@ -9,7 +9,7 @@ Rating: 3.53 (Ranked 945)
 | Home Is Where the Heart Is | 60.00% | ~1,025 |
 | Ne Plus Ultra | 60.00% | ~1,025 |
 | Wounded Whispers | 60.00% | ~1,025 |
-| Blood Will Have Blood | 50.00% | ~854 |
+| Blood Will Have Blood | 51.00% | ~871 |
 | ICU | 46.00% | ~786 |
 | Peek-a-boo | 44.00% | ~752 |
 | Catch and Release | 44.00% | ~752 |

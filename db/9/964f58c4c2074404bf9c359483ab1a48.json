@@ -438,9 +438,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1205482,
+  "EOS_Progressed": 1205588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17841,
+  "EOS_NewPlayers": 17743,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2023-07-01T17:03:54.2958968+00:00",
       "NumProgressed": 1205482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T18:03:52.4005454+00:00",
+      "NumProgressed": 1205588,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -3839,7 +3844,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_corruption_kills",
@@ -3847,7 +3852,7 @@
       "Name": "Corruption Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_doppelganger_kills",
@@ -3855,7 +3860,7 @@
       "Name": "Doppelganger Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_ghost_kills",
@@ -3871,7 +3876,7 @@
       "Name": "100 Ghost Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_hero_prop_kills",
@@ -3879,7 +3884,7 @@
       "Name": "100 Kills as a Hero Prop!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_hunter_kills",
@@ -3887,7 +3892,7 @@
       "Name": "100 Kills as a Hunter!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "100_hunter_wins",
@@ -3895,7 +3900,7 @@
       "Name": "100 Hunter Wins!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_lamp_kills",
@@ -3919,7 +3924,7 @@
       "Name": "Poltergeist Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_prop_headshots",
@@ -3927,7 +3932,7 @@
       "Name": "100 Headshots as A Prop!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_shoves",
@@ -3935,7 +3940,7 @@
       "Name": "Shover of Hunters",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "100_telekinesis_kills",
@@ -3943,7 +3948,7 @@
       "Name": "Telekinesis Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "10_ghost_kills",
@@ -3951,7 +3956,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 132603
+      "UsersEstimate": 132615
     },
     {
       "ID": "10_ghost_wins",
@@ -3959,7 +3964,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 96439
+      "UsersEstimate": 96447
     },
     {
       "ID": "10_hero_prop_kills",
@@ -3975,7 +3980,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 192877
+      "UsersEstimate": 192894
     },
     {
       "ID": "10_hunter_wins",
@@ -3983,7 +3988,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 72329
+      "UsersEstimate": 72335
     },
     {
       "ID": "10_prop_headshots",
@@ -3991,7 +3996,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24110
+      "UsersEstimate": 24112
     },
     {
       "ID": "250_c4_kills",
@@ -4007,7 +4012,7 @@
       "Name": "Flamethrower Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_frostbite_kills",
@@ -4015,7 +4020,7 @@
       "Name": "Frostbite Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_ghostsmasher_kills",
@@ -4023,7 +4028,7 @@
       "Name": "Ghostsmasher Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_grenade_kills",
@@ -4047,7 +4052,7 @@
       "Name": "Project X Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_reaper_kills",
@@ -4055,7 +4060,7 @@
       "Name": "Reaper Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_salt_shotgun_kills",
@@ -4063,7 +4068,7 @@
       "Name": "Salt Shotgun Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_sledgehammer_kills",
@@ -4079,7 +4084,7 @@
       "Name": "Spectral Cannon Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "250_taunts",
@@ -4087,7 +4092,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12055
+      "UsersEstimate": 12056
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -4095,7 +4100,7 @@
       "Name": "Unlock 25 Cosmetics!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "25_taunts_single_game",
@@ -4103,7 +4108,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48219
+      "UsersEstimate": 48224
     },
     {
       "ID": "50_riot_shield_kills",
@@ -4111,7 +4116,7 @@
       "Name": "Riot Shield Master",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "5_aces",
@@ -4119,7 +4124,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9644
+      "UsersEstimate": 9645
     },
     {
       "ID": "ace",
@@ -4127,7 +4132,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 120548
+      "UsersEstimate": 120559
     },
     {
       "ID": "ghost_win",
@@ -4135,7 +4140,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 723289
+      "UsersEstimate": 723353
     },
     {
       "ID": "hunter_win",
@@ -4143,7 +4148,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 663015
+      "UsersEstimate": 663073
     },
     {
       "ID": "master_of_loadouts",
@@ -4159,7 +4164,7 @@
       "Name": "Unlock All Cosmetics!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "unlock_cosmetic",
@@ -4167,14 +4172,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 277261
+      "UsersEstimate": 277285
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1205482,
+      "Progressed": 1205588,
       "Completed": 0
     }
   ],
@@ -4182,8 +4187,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-07-01T13:56:57.4819705+00:00",
-  "LastChanged_Achievements": "2023-07-01T17:03:54.2958962+00:00",
+  "LastChanged_Achievements": "2023-07-01T18:03:52.4005449+00:00",
   "LastUpdate_AppInfo": "2023-06-29T18:57:06.4814338+00:00",
-  "LastUpdate_Ratings": "2023-07-01T16:57:23.8606792+00:00",
-  "LastUpdate_Achievements": "2023-07-01T17:03:54.2959928+00:00"
+  "LastUpdate_Ratings": "2023-07-01T17:57:09.6043884+00:00",
+  "LastUpdate_Achievements": "2023-07-01T18:03:52.4006+00:00"
 }
