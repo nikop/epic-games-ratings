@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1844,10 +1844,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66216,
+  "EOS_Progressed": 66224,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 286,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 290,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -8294,6 +8294,11 @@
       "Time": "2023-07-01T19:06:57.7674753+00:00",
       "NumProgressed": 66216,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T20:06:49.1797821+00:00",
+      "NumProgressed": 66224,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8305,7 +8310,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -8321,7 +8326,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -8329,7 +8334,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -8353,7 +8358,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -8361,7 +8366,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -8369,7 +8374,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -8409,7 +8414,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "CLAYFACE_2",
@@ -8433,7 +8438,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -8529,7 +8534,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "FREEZE_1_5",
@@ -8537,7 +8542,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "FREEZE_2",
@@ -8545,7 +8550,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "FREEZE_3",
@@ -8561,7 +8566,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -8569,7 +8574,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -8617,7 +8622,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "HARLEY_3",
@@ -8625,7 +8630,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "HARLEY_4",
@@ -8673,7 +8678,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -8681,7 +8686,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -8705,7 +8710,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "MYSTERY_03",
@@ -8713,7 +8718,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "MYSTERY_04",
@@ -8721,7 +8726,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "MYSTERY_05",
@@ -8777,7 +8782,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -8792,13 +8797,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66216,
+      "Progressed": 66224,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36496,
+      "Progressed": 36504,
       "Completed": 2649
     }
   ],
@@ -8806,8 +8811,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-01T18:00:50.784885+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:57.7674749+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:49.1797816+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:00:18.285391+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:57.7675496+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:00:20.5585286+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:49.1799032+00:00"
 }

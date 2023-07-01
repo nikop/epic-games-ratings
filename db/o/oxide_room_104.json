@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -481,6 +481,11 @@
       "Time": "2023-07-01T18:07:20.5806155+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T20:06:36.9309531+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -498,15 +503,15 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 50
     },
@@ -514,7 +519,7 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -524,7 +529,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -540,7 +545,7 @@
       "Name": "The experiment",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -586,9 +591,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_GOODENDING",
@@ -604,7 +609,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_KITCHEN",
@@ -626,7 +631,7 @@
       "ID": "ACH_MUSICRADIO",
       "SetID": "511e31d",
       "Name": "Soundtrack",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 65
     },
@@ -660,7 +665,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -676,7 +681,7 @@
       "Name": "Matthew\u0027s revenge",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ROOM104",
@@ -684,7 +689,7 @@
       "Name": "Room 104",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ROOM203",
@@ -730,23 +735,23 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:45.9732616+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:36.9309526+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.2832968+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:57:33.343971+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:45.973283+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:57:31.0909388+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:36.9309784+00:00"
 }

@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28311,
+  "EOS_Progressed": 28320,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7891,6 +7891,11 @@
       "Time": "2023-07-01T19:02:13.0291821+00:00",
       "NumProgressed": 28311,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-01T20:01:29.9023049+00:00",
+      "NumProgressed": 28320,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -7902,7 +7907,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4530
+      "UsersEstimate": 4531
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -7910,7 +7915,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5664
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -7926,7 +7931,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -7950,7 +7955,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -8046,15 +8051,15 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
       "SetID": "443p4o4",
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1699
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -8070,7 +8075,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -8133,7 +8138,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28311,
+      "Progressed": 28320,
       "Completed": 20
     }
   ],
@@ -8141,8 +8146,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:02:13.0291816+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:01:29.9023043+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:00:31.7464424+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:02:13.029239+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:00:34.4928729+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:01:29.9024235+00:00"
 }

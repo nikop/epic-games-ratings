@@ -22,7 +22,7 @@
 | Diaper Time! | 41.00% | ~65 |
 | Target Practice | 41.00% | ~65 |
 | The Duelist | 40.00% | ~63 |
-| Meat Larder | 38.00% | ~60 |
+| Meat Larder | 39.00% | ~62 |
 | Mutant And Proud | 37.00% | ~58 |
 | The Emperor's New Clothes | 32.00% | ~51 |
 | Godlike Power | 30.00% | ~47 |

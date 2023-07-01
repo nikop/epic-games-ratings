@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -78,17 +78,17 @@
       "ID": "ach_01_defeatPing",
       "SetID": "16n29hg",
       "Name": "He ran away!",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_02_journeyStart",
       "SetID": "16n29hg",
       "Name": "The journey begins",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_03_anyTrain",
@@ -118,25 +118,25 @@
       "ID": "ach_06_spikeDeath",
       "SetID": "16n29hg",
       "Name": "Just like the Local",
-      "Percentage": 38,
-      "XP": 10,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "ach_07_foundHidden",
-      "SetID": "16n29hg",
-      "Name": "Hidden Corner",
       "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 4
     },
     {
+      "ID": "ach_07_foundHidden",
+      "SetID": "16n29hg",
+      "Name": "Hidden Corner",
+      "Percentage": 63,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
       "ID": "ach_08_hpFrag3",
       "SetID": "16n29hg",
       "Name": "Muscular Guy",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_09_acidDeath10",
@@ -150,9 +150,9 @@
       "ID": "ach_10_scarvenger1",
       "SetID": "16n29hg",
       "Name": "Scavenger",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_11_scarvengerEA",
@@ -166,9 +166,9 @@
       "ID": "ach_12_worldMap",
       "SetID": "16n29hg",
       "Name": "Welcome to Sanho",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_13_supplyBig10",
@@ -190,17 +190,17 @@
       "ID": "ach_15_breakTile100",
       "SetID": "16n29hg",
       "Name": "Destroyer",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_16_defeatPing3",
       "SetID": "16n29hg",
       "Name": "Who\u0027s your daddy?",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_17_station2h",
@@ -326,9 +326,9 @@
       "ID": "ach_33_useTpToilet",
       "SetID": "16n29hg",
       "Name": "Smells Interesting",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_34_perfectJump",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:01:13.5407658+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:01:20.48338+00:00",
   "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:57:14.1236175+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:01:13.5408128+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:57:10.5259101+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:01:20.4834697+00:00"
 }

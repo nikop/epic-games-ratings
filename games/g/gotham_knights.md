@@ -8,18 +8,18 @@ Rating: 4.18 (Ranked 850)
 | First Step Into the Knight | 6.00% | ~3,973 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,649 |
 | Loose Ends | 4.00% | ~2,649 |
-| The Batman Family | 3.00% | ~1,986 |
-| Something in the Clay | 3.00% | ~1,986 |
-| To the Victor Go the Spoils | 3.00% | ~1,986 |
-| Quartzer Life Crisis | 3.00% | ~1,986 |
-| Snow Problem | 3.00% | ~1,986 |
-| Get ReQ'd | 3.00% | ~1,986 |
-| Working Hard or Harley Working? | 3.00% | ~1,986 |
-| Unstoppable Force | 3.00% | ~1,986 |
-| Knighthood | 3.00% | ~1,986 |
-| Whispered Words | 3.00% | ~1,986 |
-| Lock and Key | 3.00% | ~1,986 |
-| Bad Apples in Every Orchard | 3.00% | ~1,986 |
+| The Batman Family | 3.00% | ~1,987 |
+| Something in the Clay | 3.00% | ~1,987 |
+| To the Victor Go the Spoils | 3.00% | ~1,987 |
+| Quartzer Life Crisis | 3.00% | ~1,987 |
+| Snow Problem | 3.00% | ~1,987 |
+| Get ReQ'd | 3.00% | ~1,987 |
+| Working Hard or Harley Working? | 3.00% | ~1,987 |
+| Unstoppable Force | 3.00% | ~1,987 |
+| Knighthood | 3.00% | ~1,987 |
+| Whispered Words | 3.00% | ~1,987 |
+| Lock and Key | 3.00% | ~1,987 |
+| Bad Apples in Every Orchard | 3.00% | ~1,987 |
 | End of an Era | 2.00% | ~1,324 |
 | In Your Element | 2.00% | ~1,324 |
 | Protector of Gotham | 2.00% | ~1,324 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 850)
 | A Momentum Occasion | 0.50% | ~331 |
 | Bat Out of Hell | 0.50% | ~331 |
 | He'd Be So Proud of You | 0.40% | ~265 |
-| Hammer and Icicle | 0.30% | ~109 |
-| Renewable Enemy Source | 0.30% | ~109 |
+| Hammer and Icicle | 0.30% | ~110 |
+| Renewable Enemy Source | 0.30% | ~110 |
 | Practice Makes Perfect | 0.30% | ~199 |
 | Element of Surprise | 0.20% | ~73 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
@@ -57,17 +57,17 @@ Rating: 4.18 (Ranked 850)
 | Batarang Collector | 0.20% | ~132 |
 | Claiming the Mural High Ground | 0.20% | ~132 |
 | A Sophisticated Mallet | 0.20% | ~73 |
-| It's Nice to Be Wanted | 0.10% | ~36 |
-| Gotham's Greatest Depths | 0.10% | ~36 |
-| Showdown Sovereign | 0.10% | ~36 |
-| That's Showbiz, Clayby | 0.10% | ~36 |
-| Icebreaker | 0.10% | ~36 |
-| Don't Mecha Big Deal About It | 0.10% | ~36 |
+| It's Nice to Be Wanted | 0.10% | ~37 |
+| Gotham's Greatest Depths | 0.10% | ~37 |
+| Showdown Sovereign | 0.10% | ~37 |
+| That's Showbiz, Clayby | 0.10% | ~37 |
+| Icebreaker | 0.10% | ~37 |
+| Don't Mecha Big Deal About It | 0.10% | ~37 |
 | Read Owl About It | 0.10% | ~66 |
 | History Major | 0.10% | ~66 |
-| Confronting Your Demon | 0.10% | ~36 |
+| Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,216 (Ranked 73)  
+Progressed: 66,224 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
 | 2023-06-30 | 66,172 | 99 |
-| 2023-07-01 | 66,216 | 100 |
+| 2023-07-01 | 66,224 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,407  (Ranked 100)  
 Sum: 3,981 (Ranked 137)  

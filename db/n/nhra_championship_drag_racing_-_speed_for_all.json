@@ -344,9 +344,9 @@
       "ID": "14",
       "SetID": "4n5bj21",
       "Name": "Trouble with the swerve",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 495
     },
     {
       "ID": "15",
@@ -585,8 +585,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:42.9171329+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:33.8681886+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.1108446+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:58:44.8520569+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:42.9171521+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:58:45.2976606+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:33.868213+00:00"
 }

@@ -6,10 +6,10 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 0.60% | ~19 |
+| Taking it back | 0.60% | ~19 |
+| Meeting Resistance | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
-| Taking it back | 0.50% | ~16 |
 | Target America | 0.50% | ~16 |
-| Meeting Resistance | 0.40% | ~13 |
 | Confirming Suspicions | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,185 (Ranked 145)  
+Progressed: 3,187 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 6 (0.19%) (Ranked 162)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
-| 2023-07-01 | 3,185 | 6 |
+| 2023-07-01 | 3,187 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

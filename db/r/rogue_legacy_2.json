@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 208,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 146,
@@ -1233,9 +1233,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22396,
+  "EOS_Progressed": 22397,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4903,6 +4903,11 @@
       "Time": "2023-07-01T13:17:27.0878774+00:00",
       "NumProgressed": 22396,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-01T20:06:43.037284+00:00",
+      "NumProgressed": 22397,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5225,21 +5230,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22396,
+      "Progressed": 22397,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-06-30T20:59:11.9024543+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:52.0744988+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:43.0372832+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:09.7977481+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:59:37.3153577+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:52.074541+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:59:37.7139079+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:43.0373983+00:00"
 }

@@ -13,17 +13,17 @@
 | Not so hip anymore! | 83.00% | ~74 |
 | Nerd | 83.00% | ~74 |
 | Blurry depth perception | 81.00% | ~72 |
-| Up and down | 75.00% | ~67 |
+| Up and down | 76.00% | ~68 |
 | Rolling, Rolling, Rolling | 71.00% | ~63 |
 | Fire-fighter! | 67.00% | ~60 |
 | Oh, you're up to no gouda! | 61.00% | ~54 |
 | Make Love not War-Craft a Mistlefoe | 61.00% | ~54 |
-| Meat grinder | 58.00% | ~52 |
+| Meat grinder | 60.00% | ~53 |
 | You're not going to blow me up! | 54.00% | ~48 |
-| Mushroom soup of the day | 51.00% | ~45 |
+| Mushroom soup of the day | 52.00% | ~46 |
 | Honk honk! | 49.00% | ~44 |
-| Butcher | 48.00% | ~43 |
-| Spare Ribs | 48.00% | ~43 |
+| Butcher | 49.00% | ~44 |
+| Spare Ribs | 49.00% | ~44 |
 | Cockadoodledoo! | 48.00% | ~43 |
 | My pants squeak when I walk | 46.00% | ~41 |
 | Thats disgusting! | 46.00% | ~41 |

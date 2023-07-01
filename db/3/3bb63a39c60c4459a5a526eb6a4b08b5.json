@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -787,9 +787,9 @@
       "ID": "Millionaire",
       "SetID": "1e89b4i",
       "Name": "Millionaire",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NewRecord",
@@ -938,8 +938,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:03:38.3398965+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:03:25.9993946+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:57:10.9285855+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:03:38.3399246+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:57:07.2000752+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:03:25.9994424+00:00"
 }

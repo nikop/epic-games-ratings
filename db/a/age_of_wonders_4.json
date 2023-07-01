@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4894,
+  "EOS_Progressed": 4895,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4786,6 +4786,11 @@
       "Time": "2023-07-01T17:06:38.5228221+00:00",
       "NumProgressed": 4894,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T20:05:42.9745331+00:00",
+      "NumProgressed": 4895,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4979,9 +4984,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "31",
@@ -5196,13 +5201,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4894,
+      "Progressed": 4895,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4894,
+      "Progressed": 4895,
       "Completed": 4
     }
   ],
@@ -5210,8 +5215,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:05:52.2574449+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:05:42.9745325+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:59:57.6628342+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:05:52.2575018+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:59:59.7525673+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:05:42.9746073+00:00"
 }

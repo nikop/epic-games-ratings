@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -996,6 +996,11 @@
       "Time": "2023-07-01T18:04:34.8895228+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T20:04:15.6652231+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1310,14 +1315,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:04:27.7580853+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:04:15.6652225+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:00:56.6505045+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:04:27.7581114+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:01:02.4181597+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:04:15.665283+00:00"
 }

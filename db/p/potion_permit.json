@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "ID": "ACHIEVEMENTS_06",
       "SetID": "d4o538a",
       "Name": "Acrobatic Adventurer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -1742,8 +1742,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:03:35.9097848+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:03:23.5066654+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.9908371+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:00:56.5004744+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:03:35.9098136+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:01:02.2671944+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:03:23.5067027+00:00"
 }

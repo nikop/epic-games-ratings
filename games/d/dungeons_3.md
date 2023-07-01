@@ -6,44 +6,44 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~15,608 |
-| The Evilest Evil | 59.00% | ~13,155 |
-| Twistram is devastated | 58.00% | ~12,932 |
-| The Gehenna Stones | 50.00% | ~11,148 |
-| No one has to die today! | 47.00% | ~10,480 |
-| Death and destruction! | 46.00% | ~10,257 |
-| The Swamplanders from the swamplands | 44.00% | ~9,811 |
-| The One-Huge-Army-Building Evil | 41.00% | ~9,142 |
-| Rusty Steel | 41.00% | ~9,142 |
-| The last burger | 38.00% | ~8,473 |
-| Braiiiiins! | 38.00% | ~8,473 |
-| Hands off the Dungeonheart! | 37.00% | ~8,250 |
-| A trip on sea, what fun it can be | 35.00% | ~7,804 |
-| Damned good | 34.00% | ~7,581 |
-| Stock Market Crash | 32.00% | ~7,135 |
-| Factory farming | 32.00% | ~7,135 |
-| Not-So-Overproud | 31.00% | ~6,912 |
-| For a handfull of Catapults | 29.00% | ~6,466 |
-| Shadow hunter | 29.00% | ~6,466 |
-| Thirst quencher | 28.00% | ~6,243 |
-| Ogre Solo! | 28.00% | ~6,243 |
-| Destroy the thing | 27.00% | ~6,020 |
-| Tide Master | 27.00% | ~6,020 |
-| Difficult family relationships | 26.00% | ~5,797 |
-| MASS-O-BOT | 25.00% | ~5,574 |
-| Prepare the grave | 25.00% | ~5,574 |
-| Angel of Fire | 25.00% | ~5,574 |
-| Where there is Light, there is Shadow | 24.00% | ~5,351 |
-| At the foot of Mount Destiny | 23.00% | ~5,128 |
-| The Force disturbed | 22.00% | ~4,905 |
-| Chorus of damnation | 20.00% | ~4,459 |
-| The Victorious Evil | 20.00% | ~4,459 |
-| We don’t have time! | 20.00% | ~4,459 |
-| The Stones’ Power | 18.00% | ~4,013 |
-| Lifeguard | 18.00% | ~4,013 |
-| Flat as a pancake | 17.00% | ~3,790 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,568 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,899 |
+| The Shadow strikes | 70.00% | ~15,613 |
+| The Evilest Evil | 59.00% | ~13,159 |
+| Twistram is devastated | 58.00% | ~12,936 |
+| The Gehenna Stones | 50.00% | ~11,152 |
+| No one has to die today! | 47.00% | ~10,483 |
+| Death and destruction! | 46.00% | ~10,260 |
+| The Swamplanders from the swamplands | 44.00% | ~9,814 |
+| The One-Huge-Army-Building Evil | 41.00% | ~9,145 |
+| Rusty Steel | 41.00% | ~9,145 |
+| The last burger | 38.00% | ~8,476 |
+| Braiiiiins! | 38.00% | ~8,476 |
+| Hands off the Dungeonheart! | 37.00% | ~8,252 |
+| A trip on sea, what fun it can be | 35.00% | ~7,806 |
+| Damned good | 34.00% | ~7,583 |
+| Stock Market Crash | 32.00% | ~7,137 |
+| Factory farming | 32.00% | ~7,137 |
+| Not-So-Overproud | 31.00% | ~6,914 |
+| For a handfull of Catapults | 29.00% | ~6,468 |
+| Shadow hunter | 29.00% | ~6,468 |
+| Thirst quencher | 28.00% | ~6,245 |
+| Ogre Solo! | 28.00% | ~6,245 |
+| Destroy the thing | 27.00% | ~6,022 |
+| Tide Master | 27.00% | ~6,022 |
+| Difficult family relationships | 26.00% | ~5,799 |
+| MASS-O-BOT | 25.00% | ~5,576 |
+| Prepare the grave | 25.00% | ~5,576 |
+| Angel of Fire | 25.00% | ~5,576 |
+| Where there is Light, there is Shadow | 24.00% | ~5,353 |
+| At the foot of Mount Destiny | 23.00% | ~5,130 |
+| The Force disturbed | 22.00% | ~4,907 |
+| Chorus of damnation | 20.00% | ~4,461 |
+| The Victorious Evil | 20.00% | ~4,461 |
+| We don’t have time! | 20.00% | ~4,461 |
+| The Stones’ Power | 18.00% | ~4,015 |
+| Lifeguard | 18.00% | ~4,015 |
+| Flat as a pancake | 17.00% | ~3,792 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,569 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,900 |
 | Then let them eat cake! | 12.00% | ~2,676 |
 | The White Knight | 10.00% | ~2,230 |
 | Please, no interruptions! | 10.00% | ~2,230 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~446 |
 | Sacrifices! | 2.00% | ~446 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,297 (Ranked 99)  
+Progressed: 22,304 (Ranked 99)  
 Completed: 187 (0.84%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 187 (0.84%) (Ranked 106)
 | 2023-06-28 | 21,978 | 183 |
 | 2023-06-29 | 22,079 | 183 |
 | 2023-06-30 | 22,187 | 184 |
-| 2023-07-01 | 22,297 | 187 |
+| 2023-07-01 | 22,304 | 187 |
 ## Awards
 Max (Great for Beginners): 329  (Ranked 225)  
 Sum: 2,314 (Ranked 178)  

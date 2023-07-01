@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3185,
+  "EOS_Progressed": 3187,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4563,6 +4563,11 @@
       "Time": "2023-07-01T19:06:58.6775145+00:00",
       "NumProgressed": 3185,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-01T20:06:50.1381131+00:00",
+      "NumProgressed": 3187,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4652,9 +4657,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4940,9 +4945,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -5141,13 +5146,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3136,
+      "Progressed": 3138,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3185,
+      "Progressed": 3187,
       "Completed": 6
     }
   ],
@@ -5155,8 +5160,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:58.677514+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:50.1381124+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:01:03.9405849+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:58.6775916+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:01:10.0819218+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:50.1382841+00:00"
 }

@@ -651,9 +651,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ENEMIES_2",
@@ -707,9 +707,9 @@
       "ID": "FUNGOID_1",
       "SetID": "9gfkh7c",
       "Name": "Mushroom soup of the day",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GLASSES_1",
@@ -835,9 +835,9 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "JUMP_2",
@@ -995,17 +995,17 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -1058,8 +1058,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:59.5416397+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:50.8431876+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.6800078+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:57:27.3634004+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:59.5417127+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:57:24.0865788+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:50.8433495+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 89,
@@ -848,9 +848,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_REUINTED",
@@ -897,8 +897,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:43.3304775+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:34.0984548+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.1466198+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:57:45.2930433+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:43.3304954+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:57:44.1820414+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:34.0984938+00:00"
 }

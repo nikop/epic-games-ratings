@@ -9,13 +9,13 @@
 | Rail Rat | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~96 |
 | Treasure Trove | 13.00% | ~96 |
+| Make Up For Lost Time | 13.00% | ~96 |
 | Cartographer | 13.00% | ~96 |
+| Time Flies | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
-| Make Up For Lost Time | 12.00% | ~88 |
-| Time Flies | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
 | No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |
@@ -37,6 +37,7 @@
 | Family Memories | 7.00% | ~52 |
 | Fairgrounds Explorer | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |
+| Syron for Hope | 7.00% | ~52 |
 | Theater Explorer | 7.00% | ~52 |
 | Ask Questions Later | 7.00% | ~52 |
 | Corin Goes Home | 6.00% | ~44 |
@@ -44,7 +45,6 @@
 | Cultivair Explorer | 6.00% | ~44 |
 | Entresol Explorer | 6.00% | ~44 |
 | Factorywood Explorer | 6.00% | ~44 |
-| Syron for Hope | 6.00% | ~44 |
 | Golem Hunter | 5.00% | ~37 |
 | Clovemary for Remembering | 4.00% | ~29 |
 | Rungs Was Right | 4.00% | ~29 |

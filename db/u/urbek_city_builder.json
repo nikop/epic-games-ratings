@@ -1085,9 +1085,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1342,8 +1342,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-07-01T19:06:59.2364656+00:00",
+  "LastChanged_Achievements": "2023-07-01T20:06:50.5328837+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:41.6628377+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:59:17.0589218+00:00",
-  "LastUpdate_Achievements": "2023-07-01T19:06:59.2365361+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:59:18.9953044+00:00",
+  "LastUpdate_Achievements": "2023-07-01T20:06:50.5330423+00:00"
 }
