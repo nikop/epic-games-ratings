@@ -6,17 +6,17 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~15,542 |
+| The Shadow strikes | 70.00% | ~15,543 |
 | The Evilest Evil | 59.00% | ~13,100 |
 | Twistram is devastated | 58.00% | ~12,878 |
 | The Gehenna Stones | 50.00% | ~11,102 |
-| No one has to die today! | 47.00% | ~10,435 |
-| Death and destruction! | 46.00% | ~10,213 |
-| The Swamplanders from the swamplands | 44.00% | ~9,769 |
-| The One-Huge-Army-Building Evil | 41.00% | ~9,103 |
-| Rusty Steel | 41.00% | ~9,103 |
-| The last burger | 38.00% | ~8,437 |
-| Braiiiiins! | 38.00% | ~8,437 |
+| No one has to die today! | 47.00% | ~10,436 |
+| Death and destruction! | 46.00% | ~10,214 |
+| The Swamplanders from the swamplands | 44.00% | ~9,770 |
+| The One-Huge-Army-Building Evil | 41.00% | ~9,104 |
+| Rusty Steel | 41.00% | ~9,104 |
+| The last burger | 38.00% | ~8,438 |
+| Braiiiiins! | 38.00% | ~8,438 |
 | Hands off the Dungeonheart! | 37.00% | ~8,215 |
 | A trip on sea, what fun it can be | 35.00% | ~7,771 |
 | Damned good | 34.00% | ~7,549 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~3,997 |
 | Lifeguard | 18.00% | ~3,997 |
 | Flat as a pancake | 17.00% | ~3,775 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,552 |
-| This is fun, I’m going to keep doing this! | 13.00% | ~2,886 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,553 |
+| This is fun, I’m going to keep doing this! | 13.00% | ~2,887 |
 | Then let them eat cake! | 12.00% | ~2,664 |
 | The White Knight | 10.00% | ~2,220 |
 | Please, no interruptions! | 10.00% | ~2,220 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~444 |
 | Sacrifices! | 2.00% | ~444 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,203 (Ranked 99)  
+Progressed: 22,204 (Ranked 99)  
 Completed: 184 (0.83%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 184 (0.83%) (Ranked 106)
 | 2023-06-28 | 21,978 | 183 |
 | 2023-06-29 | 22,079 | 183 |
 | 2023-06-30 | 22,187 | 184 |
-| 2023-07-01 | 22,203 | 184 |
+| 2023-07-01 | 22,204 | 184 |
 ## Awards
 Max (Great for Beginners): 328  (Ranked 225)  
 Sum: 2,313 (Ranked 178)  

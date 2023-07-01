@@ -479,9 +479,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:34:24.6965115+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:04:15.6224748+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:28:17.8725048+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:34:24.6965887+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:58:32.6148033+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:04:15.6225174+00:00"
 }

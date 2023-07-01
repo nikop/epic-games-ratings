@@ -266,9 +266,9 @@
       "Count": 183
     }
   ],
-  "EOS_Progressed": 421040,
+  "EOS_Progressed": 421045,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 2304,
+  "EOS_NewPlayers": 2300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7916,6 +7916,11 @@
       "Time": "2023-07-01T03:34:00.2211176+00:00",
       "NumProgressed": 421040,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-01T04:03:45.5938622+00:00",
+      "NumProgressed": 421045,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -7935,7 +7940,7 @@
       "Name": "100 KILLS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54735
+      "UsersEstimate": 54736
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -7943,7 +7948,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 33683
+      "UsersEstimate": 33684
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -8007,7 +8012,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 25262
+      "UsersEstimate": 25263
     },
     {
       "ID": "CHAPTER4",
@@ -8342,7 +8347,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 421040,
+      "Progressed": 421045,
       "Completed": 38
     }
   ],
@@ -8350,8 +8355,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-06-26T21:59:32.8561923+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:34:00.2211169+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:03:45.5938619+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:37.6629977+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:29:18.9093278+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:34:00.2212757+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:59:25.14793+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:03:45.5939283+00:00"
 }

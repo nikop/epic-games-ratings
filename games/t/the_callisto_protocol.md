@@ -1,18 +1,19 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 834)  
+Rating: 4.19 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 0.80% | ~125 |
+| Keep Fighting | 0.70% | ~25 |
 | Paper Jams | 0.60% | ~94 |
-| Keep Fighting | 0.60% | ~21 |
 | You Need a Gun | 0.50% | ~78 |
 | I Do Belong Here | 0.50% | ~78 |
 | Two Heads Are Better Than One | 0.50% | ~78 |
 | Reforged | 0.50% | ~78 |
 | In the Pipe, Five by Five | 0.50% | ~78 |
+| Crash Site | 0.50% | ~78 |
 | Giving Back | 0.40% | ~62 |
 | Flesh Wound | 0.40% | ~62 |
 | Chew 'Em Up | 0.40% | ~62 |
@@ -21,7 +22,6 @@ Rating: 4.20 (Ranked 834)
 | If the SHU Fits... | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
 | What Lies Beneath | 0.40% | ~62 |
-| Crash Site | 0.40% | ~62 |
 | Full Circle | 0.40% | ~62 |
 | Power Up | 0.40% | ~62 |
 | Terminated | 0.30% | ~47 |
@@ -126,12 +126,12 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-06-30 | 15,597 | 62 |
 | 2023-07-01 | 15,600 | 62 |
 ## Awards
-Max (Amazing Storytelling): 61  (Ranked 384)  
-Sum: 349 (Ranked 322)  
-Diff (max vs sum): 62  
+Max (Amazing Storytelling): 63  (Ranked 380)  
+Sum: 351 (Ranked 321)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 61 |
+| This game has Amazing Storytelling | 63 |
 | This game is Highly Recommended | 59 |
 | This game has Amazing Characters | 59 |
 | This game has Quickly Understood Controls | 56 |
@@ -221,3 +221,4 @@ Diff (max vs sum): 62
 | 2023-06-27 | 4.19 | 59 | 340 |
 | 2023-06-29 | 4.19 | 61 | 347 |
 | 2023-06-30 | 4.20 | 61 | 349 |
+| 2023-07-01 | 4.19 | 63 | 351 |

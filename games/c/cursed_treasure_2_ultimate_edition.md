@@ -21,9 +21,9 @@
 | V.I.P. Cemetery | 71.00% | ~115 |
 | Takeover | 69.00% | ~112 |
 | Woodcutter | 69.00% | ~112 |
+| Sharpshooter | 69.00% | ~112 |
 | Architect of Darkness | 69.00% | ~112 |
 | Top of the World | 68.00% | ~110 |
-| Sharpshooter | 68.00% | ~110 |
 | The Apotheosis of War | 66.00% | ~107 |
 | Stasis Alcatraz | 65.00% | ~105 |
 | Tastes Like Chicken | 62.00% | ~100 |

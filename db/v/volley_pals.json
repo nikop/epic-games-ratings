@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 23.08,
+  "EOS_Completed_Percentage": 22.73,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-07-01T03:36:00.732425+00:00",
       "NumProgressed": 65,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-01T04:05:34.8874193+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 10,
@@ -340,13 +345,13 @@
       "Name": "Beach",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 44
     },
@@ -362,7 +367,7 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 30
     },
@@ -386,7 +391,7 @@
       "ID": "LEVEL_6",
       "SetID": "1fnbp5h",
       "Name": "Mecha Wars",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -394,7 +399,7 @@
       "ID": "LEVEL_7",
       "SetID": "1fnbp5h",
       "Name": "Sewer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -402,7 +407,7 @@
       "ID": "LEVEL_8",
       "SetID": "1fnbp5h",
       "Name": "Arcade",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -419,13 +424,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 15
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:36:00.7324243+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:05:34.8874188+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.844109+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:26:49.0813421+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:36:00.7324404+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:57:19.8057552+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:05:34.8874364+00:00"
 }

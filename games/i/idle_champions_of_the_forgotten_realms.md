@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,351 |
-| The Mad Wizard | 10.00% | ~20,251 |
-| The Ring of Regeneration | 6.00% | ~12,150 |
-| Are Ya Chicken? | 6.00% | ~12,150 |
-| Were-verpowered | 5.00% | ~10,125 |
-| Friendly Imps | 5.00% | ~10,125 |
-| Seeking Allies | 4.00% | ~8,100 |
-| Mad Cow Disease | 4.00% | ~8,100 |
-| Pure Energy | 4.00% | ~8,100 |
-| A Persistent Buzzing | 3.00% | ~6,075 |
-| Terror in the Dark | 3.00% | ~6,075 |
-| The Crumbling Temple | 3.00% | ~6,075 |
-| The Contagious Curse | 3.00% | ~6,075 |
-| Beast Mode | 2.00% | ~4,050 |
-| A Mysterious Summons | 2.00% | ~4,050 |
-| Unearthed Evil | 2.00% | ~4,050 |
-| Useless Allies | 2.00% | ~4,050 |
-| Exploring Port Nyanzaru | 2.00% | ~4,050 |
-| Running of the Saurs | 2.00% | ~4,050 |
-| Escort to Waterdeep | 2.00% | ~4,050 |
-| Waterdeep Detours | 2.00% | ~4,050 |
+| The Cursed Farmer | 14.00% | ~28,354 |
+| The Mad Wizard | 10.00% | ~20,253 |
+| The Ring of Regeneration | 6.00% | ~12,152 |
+| Are Ya Chicken? | 6.00% | ~12,152 |
+| Were-verpowered | 5.00% | ~10,126 |
+| Friendly Imps | 5.00% | ~10,126 |
+| Seeking Allies | 4.00% | ~8,101 |
+| Mad Cow Disease | 4.00% | ~8,101 |
+| Pure Energy | 4.00% | ~8,101 |
+| A Persistent Buzzing | 3.00% | ~6,076 |
+| Terror in the Dark | 3.00% | ~6,076 |
+| The Crumbling Temple | 3.00% | ~6,076 |
+| The Contagious Curse | 3.00% | ~6,076 |
+| Beast Mode | 2.00% | ~4,051 |
+| A Mysterious Summons | 2.00% | ~4,051 |
+| Unearthed Evil | 2.00% | ~4,051 |
+| Useless Allies | 2.00% | ~4,051 |
+| Exploring Port Nyanzaru | 2.00% | ~4,051 |
+| Running of the Saurs | 2.00% | ~4,051 |
+| Escort to Waterdeep | 2.00% | ~4,051 |
+| Waterdeep Detours | 2.00% | ~4,051 |
 | Low Initiative | 1.00% | ~2,025 |
 | Building Trust | 1.00% | ~2,025 |
 | March of the Undead | 1.00% | ~2,025 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,507 (Ranked 52)  
+Progressed: 202,528 (Ranked 52)  
 Completed: 2,022 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,022 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 202,507 | 2,022 |
+| 2023-07-01 | 202,528 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,329 (Ranked 37)  

@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6950,
+  "EOS_Progressed": 6951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6985,6 +6985,11 @@
       "Time": "2023-07-01T03:33:37.3236026+00:00",
       "NumProgressed": 6950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T04:03:27.324951+00:00",
+      "NumProgressed": 6951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7084,7 +7089,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "20",
@@ -7100,7 +7105,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "22",
@@ -7108,7 +7113,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4934
+      "UsersEstimate": 4935
     },
     {
       "ID": "23",
@@ -7180,7 +7185,7 @@
       "Name": "Mogul",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "31",
@@ -7188,7 +7193,7 @@
       "Name": "Ranch Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "32",
@@ -7212,7 +7217,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "35",
@@ -7220,7 +7225,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "36",
@@ -7340,7 +7345,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "5",
@@ -7356,7 +7361,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "51",
@@ -7467,15 +7472,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6950,
+      "Progressed": 6951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:33:37.3236021+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:03:27.3249504+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:29:48.8448797+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:33:37.3237645+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:59:46.6090793+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:03:27.3250231+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 107,
+  "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -226,11 +226,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99084,
+  "EOS_Progressed": 99086,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 2645,
+  "EOS_NewPlayers": 2638,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:18.2456024+00:00",
@@ -7906,6 +7906,11 @@
       "Time": "2023-07-01T03:36:16.5650351+00:00",
       "NumProgressed": 99084,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-07-01T04:05:48.4197827+00:00",
+      "NumProgressed": 99086,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 34,
@@ -7933,7 +7938,7 @@
       "Name": "Interesting...",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 40624
+      "UsersEstimate": 40625
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -7973,7 +7978,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 77286
+      "UsersEstimate": 77287
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -7989,7 +7994,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 54496
+      "UsersEstimate": 54497
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -8005,7 +8010,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 38643
+      "UsersEstimate": 38644
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -8029,7 +8034,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 28734
+      "UsersEstimate": 28735
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -8045,7 +8050,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 28734
+      "UsersEstimate": 28735
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -8101,7 +8106,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 16844
+      "UsersEstimate": 16845
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -8125,7 +8130,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -8133,7 +8138,7 @@
       "Name": "Sunken",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -8165,7 +8170,7 @@
       "Name": "Deep Cut",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -8188,7 +8193,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 99084,
+      "Progressed": 99086,
       "Completed": 758
     }
   ],
@@ -8196,8 +8201,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-06-22T22:00:17.3427502+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:36:16.5650345+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:05:48.419782+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.3267391+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:29:10.0855222+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:36:16.5651604+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:59:18.4078035+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:05:48.4198359+00:00"
 }

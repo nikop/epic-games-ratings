@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,789 |
-| Photogenic | 88.00% | ~6,565 |
-| Plug It In | 85.00% | ~6,341 |
-| Surge Gauntlet Jockey | 85.00% | ~6,341 |
-| Adventure Time | 80.00% | ~5,968 |
-| Playing With Power | 78.00% | ~5,819 |
-| Coup d'Etat | 59.00% | ~4,401 |
+| Let's Get This Party Started | 91.00% | ~6,790 |
+| Photogenic | 88.00% | ~6,566 |
+| Plug It In | 85.00% | ~6,342 |
+| Surge Gauntlet Jockey | 85.00% | ~6,342 |
+| Adventure Time | 80.00% | ~5,969 |
+| Playing With Power | 78.00% | ~5,820 |
+| Coup d'Etat | 59.00% | ~4,402 |
 | You're Fired | 58.00% | ~4,327 |
 | Get Furious | 56.00% | ~4,178 |
-| Gunplay And Cosplay | 55.00% | ~4,103 |
-| Hacks In Stacks | 55.00% | ~4,103 |
-| Meching Enemies | 49.00% | ~3,655 |
-| Ticket Toddler | 44.00% | ~3,282 |
+| Gunplay And Cosplay | 55.00% | ~4,104 |
+| Hacks In Stacks | 55.00% | ~4,104 |
+| Meching Enemies | 49.00% | ~3,656 |
+| Ticket Toddler | 44.00% | ~3,283 |
 | Booty Bashing | 43.00% | ~3,208 |
 | Field Medic | 38.00% | ~2,835 |
 | Here Comes a New Challenger | 38.00% | ~2,835 |
@@ -28,9 +28,9 @@ Number of Ratings: 801  (23.09.2022)
 | Guardian Angel | 30.00% | ~2,238 |
 | Poppin Noggins | 25.00% | ~1,865 |
 | Clips and Crits | 21.00% | ~1,567 |
-| Grey Goo | 19.00% | ~1,417 |
+| Grey Goo | 19.00% | ~1,418 |
 | Boss of Bosses | 15.00% | ~1,119 |
-| The Final Blow | 14.00% | ~1,044 |
+| The Final Blow | 14.00% | ~1,045 |
 | Light My Fire | 13.00% | ~970 |
 | To Be Continued | 13.00% | ~970 |
 | Seasoned Adventurer | 12.00% | ~895 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~37 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,460 (Ranked 120)  
+Progressed: 7,461 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,11 +129,11 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 7,432 | 0 |
 | 2023-06-29 | 7,451 | 0 |
 | 2023-06-30 | 7,458 | 0 |
-| 2023-07-01 | 7,460 | 0 |
+| 2023-07-01 | 7,461 | 0 |
 ## Awards
-Max (Great for Beginners): 62  (Ranked 382)  
+Max (Great for Beginners): 62  (Ranked 383)  
 Sum: 486 (Ranked 297)  
-Diff (max vs sum): 85  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 62 |

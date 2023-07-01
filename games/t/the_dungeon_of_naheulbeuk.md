@@ -6,26 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 55.00% | ~34,109 |
-| Where's that freaking Dwarf? | 38.00% | ~23,566 |
-| GG EZ | 26.00% | ~16,124 |
-| Speedrun | 22.00% | ~13,644 |
-| Déjà vu | 14.00% | ~8,682 |
-| DM intervention | 7.00% | ~4,341 |
-| Sock! SOCK! | 4.00% | ~2,481 |
-| A beer, two curses, three companions | 2.00% | ~1,240 |
-| Livin' in a dwarven paradise | 1.00% | ~620 |
-| Way of the Wimp | 1.00% | ~620 |
-| The Woman in the High Castle | 1.00% | ~620 |
-| Fireproof Wizardess | 1.00% | ~620 |
-| Res Judicata | 0.70% | ~434 |
-| Team Building Exercise | 0.70% | ~434 |
-| The plot thickens... At the tavern | 0.50% | ~310 |
-| Dwarf Fortress | 0.20% | ~124 |
-| The Ranger of Chaos | 0.20% | ~124 |
-| I am the night | 0.20% | ~124 |
-| Thieves' Guild Accreditation | 0.20% | ~124 |
-| Oh, when I'll be level 10... | 0.20% | ~124 |
+| Alt+F4 | 55.00% | ~34,329 |
+| Where's that freaking Dwarf? | 38.00% | ~23,718 |
+| GG EZ | 26.00% | ~16,228 |
+| Speedrun | 22.00% | ~13,732 |
+| Déjà vu | 14.00% | ~8,738 |
+| DM intervention | 7.00% | ~4,369 |
+| Sock! SOCK! | 4.00% | ~2,497 |
+| A beer, two curses, three companions | 2.00% | ~1,248 |
+| Livin' in a dwarven paradise | 1.00% | ~624 |
+| Way of the Wimp | 1.00% | ~624 |
+| The Woman in the High Castle | 1.00% | ~624 |
+| Fireproof Wizardess | 1.00% | ~624 |
+| Res Judicata | 0.70% | ~437 |
+| Team Building Exercise | 0.70% | ~437 |
+| The plot thickens... At the tavern | 0.50% | ~312 |
+| I'd rather... Just... Sing! | 0.20% | ~125 |
+| Dwarf Fortress | 0.20% | ~125 |
+| The Ranger of Chaos | 0.20% | ~125 |
+| I am the night | 0.20% | ~125 |
+| Thieves' Guild Accreditation | 0.20% | ~125 |
+| Oh, when I'll be level 10... | 0.20% | ~125 |
 | Cursed die | 0.10% | ~62 |
 | Holistic Adventuring Party | 0.10% | ~62 |
 | Shiny and Crôm | 0.10% | ~62 |
@@ -37,7 +38,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 0.10% | ~62 |
 | The Statuette of Gladeulfeurah | 0.10% | ~62 |
 | Friendly fire | 0.10% | ~62 |
-| I'd rather... Just... Sing! | 0.10% | ~62 |
 | The number of the counting shalt be 7 | 0.10% | ~62 |
 | Necrophilia | 0.10% | ~62 |
 | The Blood Countess | 0.10% | ~62 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,017 (Ranked 78)  
+Progressed: 62,417 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,11 +126,11 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 253 | 0 |
 | 2023-06-29 | 18,445 | 0 |
 | 2023-06-30 | 56,846 | 0 |
-| 2023-07-01 | 62,017 | 0 |
+| 2023-07-01 | 62,417 | 0 |
 ## Awards
-Max (Character Customization): 61  (Ranked 384)  
+Max (Character Customization): 61  (Ranked 385)  
 Sum: 61 (Ranked 437)  
-Diff (max vs sum): -53  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 61 |

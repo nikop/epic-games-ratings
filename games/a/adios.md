@@ -14,7 +14,7 @@ Rating: 3.42 (Ranked 947)
 | Nice Try | 16.00% | ~10,259 |
 | Right On Target | 13.00% | ~8,335 |
 | Piano Man | 10.00% | ~6,412 |
-| Lazy Bones | 9.00% | ~5,770 |
+| Lazy Bones | 9.00% | ~5,771 |
 | Sniper | 7.00% | ~4,488 |
 | Vinyl Vibes | 7.00% | ~4,488 |
 | Nothing Left to Say | 6.00% | ~3,847 |
@@ -22,16 +22,16 @@ Rating: 3.42 (Ranked 947)
 | Butcher | 4.00% | ~2,565 |
 | Magnetic Miracles | 4.00% | ~2,565 |
 | Spicy | 4.00% | ~2,565 |
-| A Man Of Taste | 3.00% | ~1,923 |
-| Ace in the Hole | 3.00% | ~1,923 |
-| Fair's Fair | 3.00% | ~1,923 |
-| Hearty | 3.00% | ~1,923 |
-| Meaty | 3.00% | ~1,923 |
-| Taco Toto | 3.00% | ~1,923 |
+| A Man Of Taste | 3.00% | ~1,924 |
+| Ace in the Hole | 3.00% | ~1,924 |
+| Fair's Fair | 3.00% | ~1,924 |
+| Hearty | 3.00% | ~1,924 |
+| Meaty | 3.00% | ~1,924 |
+| Taco Toto | 3.00% | ~1,924 |
 | Audiophile | 2.00% | ~1,282 |
 | Tape Head | 2.00% | ~1,282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,116 (Ranked 76)  
+Progressed: 64,117 (Ranked 76)  
 Completed: 593 (0.92%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 593 (0.92%) (Ranked 103)
 | 2023-06-28 | 63,858 | 587 |
 | 2023-06-29 | 63,971 | 589 |
 | 2023-06-30 | 64,097 | 593 |
-| 2023-07-01 | 64,116 | 593 |
+| 2023-07-01 | 64,117 | 593 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

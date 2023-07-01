@@ -17,9 +17,9 @@
 | Master of the Rope | 36.00% | ~4 |
 | Training Day | 36.00% | ~4 |
 | The Fastest | 36.00% | ~4 |
+| Animal Sighting | 36.00% | ~4 |
 | Mandy Family | 36.00% | ~4 |
 | Never Miss | 27.00% | ~3 |
-| Animal Sighting | 27.00% | ~3 |
 | Everything Under Control | 18.00% | ~2 |
 | In the Air | 18.00% | ~2 |
 | Clear the Road | 18.00% | ~2 |

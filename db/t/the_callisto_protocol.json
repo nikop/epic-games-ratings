@@ -2,20 +2,20 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 834,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 322,
+  "Ranking_Rating": 844,
+  "Ranking_Popularity": 380,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -750,11 +750,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2023-07-01T03:57:51.4496847+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 351,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 351,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -785,7 +791,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has Challenging Combat",
@@ -802,7 +808,7 @@
   ],
   "EOS_Progressed": 15600,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5269,9 +5275,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "STORY_TOWER",
@@ -5381,9 +5387,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -5419,9 +5425,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-06-30T21:58:09.5244226+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:35:00.3242732+00:00",
+  "LastChanged": "2023-07-01T03:57:51.4496843+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:04:44.8906483+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:27:29.2333073+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:35:00.3243823+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:57:51.4496852+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:04:44.8907016+00:00"
 }

@@ -11,14 +11,14 @@
 | Green Ticket Roundup | 18.00% | ~324 |
 | Arranging Boxes | 14.00% | ~252 |
 | Jakob | 13.00% | ~234 |
-| Jude | 13.00% | ~234 |
 | Le Juif et la France | 13.00% | ~234 |
 | Bernard | 12.00% | ~216 |
+| Jude | 12.00% | ~216 |
 | Nuremberg Laws | 11.00% | ~198 |
 | May Their Memories be a Blessing | 9.00% | ~162 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 163)  
-Completed: 154 (8.56%) (Ranked 24)  
+Progressed: 1,801 (Ranked 163)  
+Completed: 154 (8.55%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,7 +89,7 @@ Completed: 154 (8.56%) (Ranked 24)
 | 2023-06-28 | 1,781 | 152 |
 | 2023-06-29 | 1,791 | 153 |
 | 2023-06-30 | 1,799 | 154 |
-| 2023-07-01 | 1,800 | 154 |
+| 2023-07-01 | 1,801 | 154 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

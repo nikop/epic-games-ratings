@@ -5640,9 +5640,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 790318,
+  "EOS_Progressed": 790320,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13255,6 +13255,11 @@
       "Time": "2023-07-01T03:36:24.910846+00:00",
       "NumProgressed": 790318,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-01T04:06:05.669446+00:00",
+      "NumProgressed": 790320,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 82,
@@ -13466,7 +13471,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181773
+      "UsersEstimate": 181774
     },
     {
       "ID": "Fighter",
@@ -13586,7 +13591,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102741
+      "UsersEstimate": 102742
     },
     {
       "ID": "Judas",
@@ -13921,15 +13926,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 790318,
+      "Progressed": 790320,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-01T03:28:03.9138155+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:36:24.9108456+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:06:05.6694455+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:02.8494084+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:28:03.9138164+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:36:24.9109863+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:58:21.0142714+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:06:05.6695455+00:00"
 }

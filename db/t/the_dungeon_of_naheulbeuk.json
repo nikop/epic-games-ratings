@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 196,
-  "Ranking_Popularity": 384,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 231,
@@ -378,9 +378,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 62017,
+  "EOS_Progressed": 62417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61838,
+  "EOS_NewPlayers": 62238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1473,6 +1473,11 @@
       "Time": "2023-07-01T03:35:54.6041568+00:00",
       "NumProgressed": 62017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T04:05:29.978728+00:00",
+      "NumProgressed": 62417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1484,7 +1489,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 624
     },
     {
       "ID": "100Fail",
@@ -1516,7 +1521,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 624
     },
     {
       "ID": "BookCollection",
@@ -1532,7 +1537,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8738
     },
     {
       "ID": "Chapter2",
@@ -1540,7 +1545,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1248
     },
     {
       "ID": "Chapter3",
@@ -1548,7 +1553,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 312
     },
     {
       "ID": "Chapter4",
@@ -1610,9 +1615,9 @@
       "ID": "CompanionMinstrel",
       "SetID": "50chcgj",
       "Name": "I\u0027d rather... Just... Sing!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 125
     },
     {
       "ID": "CompanionNone",
@@ -1628,7 +1633,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 437
     },
     {
       "ID": "CompanionPriestress",
@@ -1636,7 +1641,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 624
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -1884,7 +1889,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23566
+      "UsersEstimate": 23718
     },
     {
       "ID": "DwarfElf15Support",
@@ -1900,7 +1905,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "DwarfInsultWin",
@@ -1916,7 +1921,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2497
     },
     {
       "ID": "ElfEpic",
@@ -1948,7 +1953,7 @@
       "Name": "GG EZ",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16124
+      "UsersEstimate": 16228
     },
     {
       "ID": "EndCombatOneHp",
@@ -1956,7 +1961,7 @@
       "Name": "DM intervention",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4369
     },
     {
       "ID": "EndGameCursed",
@@ -1980,7 +1985,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 34109
+      "UsersEstimate": 34329
     },
     {
       "ID": "FollowBraztok",
@@ -2108,7 +2113,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Rogue30Backstab",
@@ -2116,7 +2121,7 @@
       "Name": "I am the night",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "RogueEpic",
@@ -2124,7 +2129,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Speedrun",
@@ -2132,7 +2137,7 @@
       "Name": "Speedrun",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13644
+      "UsersEstimate": 13732
     },
     {
       "ID": "SupportCount4",
@@ -2140,7 +2145,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 437
     },
     {
       "ID": "SystematicallyStupid",
@@ -2164,7 +2169,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "WizardEpic",
@@ -2180,28 +2185,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 624
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 62017,
+      "Progressed": 62417,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 62017,
+      "Progressed": 62417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-05-27T05:59:35.6849189+00:00",
-  "LastChanged_Achievements": "2023-07-01T03:35:54.6041562+00:00",
+  "LastChanged_Achievements": "2023-07-01T04:05:29.9787275+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:58.0447484+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:28:48.1632028+00:00",
-  "LastUpdate_Achievements": "2023-07-01T03:35:54.6043591+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:59:01.6872008+00:00",
+  "LastUpdate_Achievements": "2023-07-01T04:05:29.9788117+00:00"
 }
