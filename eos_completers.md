@@ -15,10 +15,10 @@
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
-| 16 | [Remains](games/r/remains.md) | 12.20% |
-| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.14% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
+| 16 | [Sonic Origins](games/s/sonic_origins.md) | 12.21% |
+| 17 | [Remains](games/r/remains.md) | 12.20% |
+| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.14% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -33,8 +33,8 @@
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
-| 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
-| 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
+| 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.14% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
@@ -42,7 +42,7 @@
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
@@ -64,7 +64,7 @@
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
-| 65 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.63% |
+| 65 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.66% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
@@ -105,7 +105,7 @@
 | 103 | [Adios](games/a/adios.md) | 0.92% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
@@ -147,9 +147,9 @@
 | 143 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 143 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
-| 148 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.29% |
-| 149 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
-| 149 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
+| 148 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.28% |
+| 148 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 151 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 151 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 151 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
