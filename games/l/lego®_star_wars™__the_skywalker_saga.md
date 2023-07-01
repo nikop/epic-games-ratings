@@ -9,14 +9,14 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You guys got yourself a ship!'' | 97.00% | ~48,290 |
 | ''I don't like you either!'' | 79.00% | ~39,329 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~35,844 |
-| ''Impressive, most impressive'' | 71.00% | ~35,346 |
-| The Phantom Menace | 59.00% | ~29,372 |
-| ''Aggressive Negotiations'' | 58.00% | ~28,874 |
-| ''I can fly anything'' | 57.00% | ~28,376 |
-| ''And who gave you permission...?'' | 53.00% | ~26,385 |
+| ''Impressive, most impressive'' | 71.00% | ~35,347 |
+| The Phantom Menace | 59.00% | ~29,373 |
+| ''Aggressive Negotiations'' | 58.00% | ~28,875 |
+| ''I can fly anything'' | 57.00% | ~28,377 |
+| ''And who gave you permission...?'' | 53.00% | ~26,386 |
 | A New Hope | 47.00% | ~23,398 |
-| Attack of the Clones | 46.00% | ~22,900 |
-| Revenge of the Sith | 40.00% | ~19,913 |
+| Attack of the Clones | 46.00% | ~22,901 |
+| Revenge of the Sith | 40.00% | ~19,914 |
 | The Empire Strikes Back | 37.00% | ~18,420 |
 | ''A fine addition to my collection'' | 37.00% | ~18,420 |
 | Return of the Jedi | 32.00% | ~15,931 |
@@ -28,11 +28,11 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Raw, untamed power'' | 8.00% | ~3,983 |
 | Rishi Maze | 4.00% | ~1,991 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,991 |
-| ''You may fire when ready'' | 3.00% | ~1,493 |
-| ''What have you done with those plans?'' | 3.00% | ~1,493 |
-| ''GONK!'' | 3.00% | ~1,493 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,493 |
-| The Slice | 3.00% | ~1,493 |
+| ''You may fire when ready'' | 3.00% | ~1,494 |
+| ''What have you done with those plans?'' | 3.00% | ~1,494 |
+| ''GONK!'' | 3.00% | ~1,494 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,494 |
+| The Slice | 3.00% | ~1,494 |
 | ''Hello there!'' | 2.00% | ~996 |
 | Unknown Regions | 2.00% | ~996 |
 | ''Do or do not. There is no try'' | 2.00% | ~996 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~498 |
 | ''I've never seen a real one!'' | 0.80% | ~398 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,783 (Ranked 84)  
+Progressed: 49,784 (Ranked 84)  
 Completed: 198 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,13 +124,14 @@ Completed: 198 (0.40%) (Ranked 133)
 | 2023-06-28 | 49,760 | 197 |
 | 2023-06-29 | 49,769 | 197 |
 | 2023-06-30 | 49,783 | 198 |
+| 2023-07-01 | 49,784 | 198 |
 ## Awards
-Max (Great Boss Battles): 2,332  (Ranked 101)  
-Sum: 6,451 (Ranked 115)  
+Max (Great Boss Battles): 2,334  (Ranked 101)  
+Sum: 6,453 (Ranked 115)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,332 |
+| This game has Great Boss Battles | 2,334 |
 | This game is Great for Beginners | 483 |
 | This game has Diverse Characters | 483 |
 | This game has Amazing Characters | 478 |
@@ -291,3 +292,4 @@ Diff (max vs sum): -14
 | 2023-06-28 | 4.78 | - | 2,330 | 6,446 |
 | 2023-06-29 | 4.78 | - | 2,332 | 6,448 |
 | 2023-06-30 | 4.78 | - | 2,332 | 6,451 |
+| 2023-07-01 | 4.78 | - | 2,334 | 6,453 |

@@ -20,7 +20,7 @@ Rating: 4.37 (Ranked 718)
 | Giant Killer | 42.00% | ~503 |
 | Sensei | 41.00% | ~491 |
 | The meaning of Kain | 39.00% | ~467 |
-| Technophobe | 36.00% | ~431 |
+| Technophobe | 37.00% | ~443 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
 | Ganglord | 31.00% | ~371 |
@@ -33,7 +33,7 @@ Rating: 4.37 (Ranked 718)
 | Savior | 23.00% | ~276 |
 | There Can Be Only One! | 23.00% | ~276 |
 | Chain Killer | 22.00% | ~264 |
-| The Watchers | 19.00% | ~228 |
+| The Watchers | 20.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~192 |
 | Dr Jones | 14.00% | ~168 |
 | Ruthless | 14.00% | ~168 |
@@ -43,17 +43,17 @@ Rating: 4.37 (Ranked 718)
 | Side Order | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
 | Bot Whisperer | 7.00% | ~84 |
+| Silent but Violent | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
-| Silent but Violent | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Master Editor | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
+| Attenborough | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
-| Attenborough | 0.70% | ~8 |
 | Goaaaaal! | 0.70% | ~8 |
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)

@@ -35,6 +35,7 @@ Rating: 4.45 (Ranked 617)
 | Strategist | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Precision Is Key | 0.10% | ~3 |
+| Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
@@ -65,7 +66,6 @@ Rating: 4.45 (Ranked 617)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Out of Scope | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |

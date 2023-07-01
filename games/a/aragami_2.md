@@ -1,29 +1,29 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 478)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~33,713 |
-| First Steps | 81.00% | ~29,363 |
-| Control the Shadows | 68.00% | ~24,651 |
-| Tools of the Trade | 63.00% | ~22,838 |
-| Apprentice | 60.00% | ~21,751 |
-| Secret Seeker | 57.00% | ~20,663 |
-| Forge of Assassins | 56.00% | ~20,301 |
-| Revenant | 52.00% | ~18,851 |
-| I don’t Care! | 45.00% | ~16,313 |
-| Bird of Prey | 37.00% | ~13,413 |
-| Engraved with Power | 32.00% | ~11,600 |
-| Lady | 30.00% | ~10,875 |
+| Awakening | 93.00% | ~33,715 |
+| First Steps | 81.00% | ~29,365 |
+| Control the Shadows | 68.00% | ~24,652 |
+| Tools of the Trade | 63.00% | ~22,839 |
+| Apprentice | 60.00% | ~21,752 |
+| Secret Seeker | 57.00% | ~20,664 |
+| Forge of Assassins | 56.00% | ~20,302 |
+| Revenant | 52.00% | ~18,852 |
+| I don’t Care! | 45.00% | ~16,314 |
+| Bird of Prey | 37.00% | ~13,414 |
+| Engraved with Power | 32.00% | ~11,601 |
+| Lady | 30.00% | ~10,876 |
 | Fashionable Assassin | 27.00% | ~9,788 |
-| Apex Predator | 24.00% | ~8,700 |
-| Soul Reaver | 22.00% | ~7,975 |
+| Apex Predator | 24.00% | ~8,701 |
+| Soul Reaver | 22.00% | ~7,976 |
 | Embers | 21.00% | ~7,613 |
-| Wall Lizard | 20.00% | ~7,250 |
-| Clinging to Life | 18.00% | ~6,525 |
+| Wall Lizard | 20.00% | ~7,251 |
+| Clinging to Life | 18.00% | ~6,526 |
 | Burning | 17.00% | ~6,163 |
 | Look Behind You | 16.00% | ~5,800 |
 | Sleeping on the Job | 16.00% | ~5,800 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~363 |
 | Anger Management | 1.00% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,251 (Ranked 89)  
-Completed: 181 (0.50%) (Ranked 125)  
+Progressed: 36,253 (Ranked 89)  
+Completed: 181 (0.50%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 181 (0.50%) (Ranked 125)
 | 2023-06-28 | 36,077 | 180 |
 | 2023-06-29 | 36,136 | 181 |
 | 2023-06-30 | 36,208 | 181 |
-| 2023-07-01 | 36,251 | 181 |
+| 2023-07-01 | 36,253 | 181 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

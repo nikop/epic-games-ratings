@@ -46,7 +46,7 @@ Rating: 4.80 (Ranked 80)
 | Whispers in the Woods IV | 12.00% | ~289 |
 | Embrace the darkness | 11.00% | ~265 |
 | I smell fear | 11.00% | ~265 |
-| The end of the experiments | 10.00% | ~241 |
+| The end of the experiments | 11.00% | ~265 |
 | The Great City of Demacia | 10.00% | ~241 |
 | Truth is a dark mirror | 10.00% | ~241 |
 | Back to sleep, then... | 10.00% | ~241 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32874,
+  "EOS_Progressed": 32875,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6633,6 +6633,11 @@
       "Time": "2023-07-01T12:03:11.0790174+00:00",
       "NumProgressed": 32874,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-01T13:14:25.7802982+00:00",
+      "NumProgressed": 32875,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6652,7 +6657,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "50stars",
@@ -6660,7 +6665,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "allItems",
@@ -6668,7 +6673,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "allSecrets",
@@ -6676,7 +6681,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "bigBunny",
@@ -6700,7 +6705,7 @@
       "Name": "Completionist",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "dejaVu",
@@ -6708,7 +6713,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ending",
@@ -6724,7 +6729,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8218
+      "UsersEstimate": 8219
     },
     {
       "ID": "firstItem",
@@ -6755,15 +6760,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32874,
+      "Progressed": 32875,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:03:11.0790167+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:14:25.7802976+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.7385643+00:00",
-  "LastUpdate_Ratings": "2023-07-01T12:00:12.8611873+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:03:11.0790659+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:11:28.4535785+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:14:25.7803475+00:00"
 }

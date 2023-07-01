@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 511,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.13,
   "EosHistory": [
@@ -545,8 +545,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:06:10.773201+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:17:25.5873016+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:07.5197874+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:57:21.000224+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:06:10.773216+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:08:44.675727+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:17:25.5873189+00:00"
 }

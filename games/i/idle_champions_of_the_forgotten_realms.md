@@ -6,31 +6,32 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,413 |
-| The Mad Wizard | 10.00% | ~20,295 |
-| The Ring of Regeneration | 6.00% | ~12,177 |
-| Are Ya Chicken? | 6.00% | ~12,177 |
-| Were-verpowered | 5.00% | ~10,148 |
-| Friendly Imps | 5.00% | ~10,148 |
-| Seeking Allies | 4.00% | ~8,118 |
-| Mad Cow Disease | 4.00% | ~8,118 |
-| Pure Energy | 4.00% | ~8,118 |
-| A Persistent Buzzing | 3.00% | ~6,089 |
-| Terror in the Dark | 3.00% | ~6,089 |
-| The Crumbling Temple | 3.00% | ~6,089 |
-| The Contagious Curse | 3.00% | ~6,089 |
-| Beast Mode | 2.00% | ~4,059 |
-| A Mysterious Summons | 2.00% | ~4,059 |
-| Unearthed Evil | 2.00% | ~4,059 |
-| Useless Allies | 2.00% | ~4,059 |
-| Exploring Port Nyanzaru | 2.00% | ~4,059 |
-| Running of the Saurs | 2.00% | ~4,059 |
-| Escort to Waterdeep | 2.00% | ~4,059 |
-| Waterdeep Detours | 2.00% | ~4,059 |
+| The Cursed Farmer | 14.00% | ~28,422 |
+| The Mad Wizard | 10.00% | ~20,301 |
+| The Ring of Regeneration | 6.00% | ~12,181 |
+| Are Ya Chicken? | 6.00% | ~12,181 |
+| Were-verpowered | 5.00% | ~10,151 |
+| Friendly Imps | 5.00% | ~10,151 |
+| Seeking Allies | 4.00% | ~8,121 |
+| Mad Cow Disease | 4.00% | ~8,121 |
+| Pure Energy | 4.00% | ~8,121 |
+| A Persistent Buzzing | 3.00% | ~6,090 |
+| Terror in the Dark | 3.00% | ~6,090 |
+| The Crumbling Temple | 3.00% | ~6,090 |
+| The Contagious Curse | 3.00% | ~6,090 |
+| Beast Mode | 2.00% | ~4,060 |
+| A Mysterious Summons | 2.00% | ~4,060 |
+| Unearthed Evil | 2.00% | ~4,060 |
+| Useless Allies | 2.00% | ~4,060 |
+| Exploring Port Nyanzaru | 2.00% | ~4,060 |
+| Running of the Saurs | 2.00% | ~4,060 |
+| Escort to Waterdeep | 2.00% | ~4,060 |
+| Waterdeep Detours | 2.00% | ~4,060 |
 | Low Initiative | 1.00% | ~2,030 |
 | Building Trust | 1.00% | ~2,030 |
 | March of the Undead | 1.00% | ~2,030 |
 | No Time To Rest | 1.00% | ~2,030 |
+| Invisible Shadows | 1.00% | ~2,030 |
 | The Dinner Party | 1.00% | ~2,030 |
 | The Death Curse | 1.00% | ~2,030 |
 | Flying Monkey Skulls of Doom | 1.00% | ~2,030 |
@@ -38,7 +39,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,030 |
 | The Templar's Camp | 1.00% | ~2,030 |
 | Rescue in the Jungle | 1.00% | ~2,030 |
-| Invisible Shadows | 0.90% | ~1,827 |
 | The Botched Kidnapping | 0.90% | ~1,827 |
 | Premature Betrayal | 0.90% | ~1,827 |
 | Close Escort | 0.90% | ~1,827 |
@@ -142,13 +142,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.20% | ~406 |
 | No Good at All | 0.20% | ~406 |
 | Never Split the Party | 0.20% | ~406 |
-| Snakes on our Plane | 0.20% | ~338 |
+| Snakes on our Plane | 0.20% | ~339 |
 | The Soulmonger Calls | 0.20% | ~406 |
 | Haunted Fortunes | 0.20% | ~406 |
 | Poor Fortune | 0.20% | ~406 |
 | Relentless Misfortune | 0.20% | ~406 |
-| Thine Bounty is Mine! | 0.20% | ~338 |
-| This Quest Stinks! | 0.20% | ~338 |
+| Thine Bounty is Mine! | 0.20% | ~339 |
+| This Quest Stinks! | 0.20% | ~339 |
 | Hold for the Red Wizards | 0.20% | ~406 |
 | Form Ranks | 0.20% | ~406 |
 | They Who Smelt It | 0.20% | ~406 |
@@ -157,7 +157,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~406 |
 | Visions of Strahd | 0.20% | ~406 |
 | Seeds of Corruption | 0.20% | ~406 |
-| Home Not So Alone | 0.20% | ~338 |
+| Home Not So Alone | 0.20% | ~339 |
 | A Saurial's Lament | 0.20% | ~406 |
 | The Killer Mists | 0.20% | ~406 |
 | Diversity Day-Trip | 0.20% | ~406 |
@@ -183,46 +183,47 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.20% | ~406 |
 | Madcap Adventures | 0.20% | ~406 |
 | Vault of Pixies | 0.20% | ~406 |
+| Vault of Poison | 0.20% | ~406 |
 | On The Job Learning | 0.20% | ~406 |
 | Lost in the Goblin Halls | 0.20% | ~406 |
 | The Twilight Grove | 0.20% | ~406 |
 | Everything is Awful | 0.20% | ~406 |
-| Earthquake! | 0.20% | ~338 |
+| Earthquake! | 0.20% | ~339 |
 | All You Know Is Wrong | 0.20% | ~406 |
-| Shadow Stalkers | 0.20% | ~338 |
+| Shadow Stalkers | 0.20% | ~339 |
 | Displaced Anger | 0.20% | ~406 |
 | Relay Race | 0.20% | ~406 |
-| An Illithid Ambush | 0.20% | ~338 |
-| A Difficult Descent | 0.20% | ~338 |
-| Dream Gauntlet | 0.20% | ~338 |
-| Zombie Dreams | 0.20% | ~338 |
-| The Path of Redcaps | 0.20% | ~338 |
-| Elder Rune Attack | 0.20% | ~338 |
-| The Gargoyle | 0.20% | ~338 |
-| Madcap Adventures Redux | 0.20% | ~338 |
-| Tiamat's Army | 0.20% | ~338 |
-| Questlines | 0.20% | ~338 |
-| Bel's Forge | 0.20% | ~338 |
-| Into the Unknown | 0.20% | ~338 |
-| The Prison of Velkynvelve | 0.20% | ~338 |
-| Rime Bandits | 0.20% | ~338 |
-| Enemy Summit | 0.20% | ~338 |
-| An Awakened Axe | 0.20% | ~338 |
-| The Sibriex | 0.20% | ~338 |
-| Wrecked Flying Fortress | 0.20% | ~338 |
-| The Bleeding Citadel | 0.20% | ~338 |
-| Idyllglen | 0.20% | ~338 |
-| The Radiant Nightmare | 0.20% | ~338 |
-| Waiting on Sunrise | 0.20% | ~338 |
-| Deekin's Mission | 0.20% | ~338 |
-| Frozen Vengeance | 0.20% | ~338 |
-| The Battle of High Hall Tower | 0.20% | ~338 |
-| Elturel's Last Stand | 0.20% | ~338 |
-| Lost in the Underdark | 0.20% | ~338 |
-| Ending the Rime - Part 1 | 0.20% | ~338 |
-| Ending the Rime - Part 2 | 0.20% | ~338 |
-| Reghed Glacier Mysteries | 0.20% | ~338 |
-| Tekeli-li's Hunt | 0.20% | ~338 |
+| An Illithid Ambush | 0.20% | ~339 |
+| A Difficult Descent | 0.20% | ~339 |
+| Dream Gauntlet | 0.20% | ~339 |
+| Zombie Dreams | 0.20% | ~339 |
+| The Path of Redcaps | 0.20% | ~339 |
+| Elder Rune Attack | 0.20% | ~339 |
+| The Gargoyle | 0.20% | ~339 |
+| Madcap Adventures Redux | 0.20% | ~339 |
+| Tiamat's Army | 0.20% | ~339 |
+| Questlines | 0.20% | ~339 |
+| Bel's Forge | 0.20% | ~339 |
+| Into the Unknown | 0.20% | ~339 |
+| The Prison of Velkynvelve | 0.20% | ~339 |
+| Rime Bandits | 0.20% | ~339 |
+| Enemy Summit | 0.20% | ~339 |
+| An Awakened Axe | 0.20% | ~339 |
+| The Sibriex | 0.20% | ~339 |
+| Wrecked Flying Fortress | 0.20% | ~339 |
+| The Bleeding Citadel | 0.20% | ~339 |
+| Idyllglen | 0.20% | ~339 |
+| The Radiant Nightmare | 0.20% | ~339 |
+| Waiting on Sunrise | 0.20% | ~339 |
+| Deekin's Mission | 0.20% | ~339 |
+| Frozen Vengeance | 0.20% | ~339 |
+| The Battle of High Hall Tower | 0.20% | ~339 |
+| Elturel's Last Stand | 0.20% | ~339 |
+| Lost in the Underdark | 0.20% | ~339 |
+| Ending the Rime - Part 1 | 0.20% | ~339 |
+| Ending the Rime - Part 2 | 0.20% | ~339 |
+| Reghed Glacier Mysteries | 0.20% | ~339 |
+| Tekeli-li's Hunt | 0.20% | ~339 |
 | Overwhelming Force | 0.20% | ~406 |
 | Frail Doesn't Mean Broken | 0.10% | ~169 |
 | The Castle of a Thousand Vecnas | 0.10% | ~169 |
@@ -294,7 +295,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.10% | ~169 |
 | Faerûn's Most Wanted | 0.10% | ~169 |
 | Faerûn's Most Neglected | 0.10% | ~169 |
-| Vault of Poison | 0.10% | ~203 |
 | Vault of Cuteness | 0.10% | ~169 |
 | Strike! | 0.10% | ~169 |
 | Take Five | 0.10% | ~169 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,953 (Ranked 52)  
+Progressed: 203,014 (Ranked 52)  
 Completed: 2,023 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,023 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 202,953 | 2,023 |
+| 2023-07-01 | 203,014 | 2,023 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,336 (Ranked 37)  

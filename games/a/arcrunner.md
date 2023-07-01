@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 15.00% | ~103 |
+| Augmented | 16.00% | ~110 |
 | Challenge Accepted | 13.00% | ~89 |
 | Terminated I | 12.00% | ~82 |
 | Unlocked and Loaded | 12.00% | ~82 |
@@ -26,8 +26,8 @@
 | Outer Core | 1.00% | ~7 |
 | Inner Core | 0.70% | ~5 |
 | Integration | 0.60% | ~4 |
+| Trickshot | 0.60% | ~4 |
 | Destruction | 0.40% | ~3 |
-| Trickshot | 0.40% | ~3 |
 | Ripperdoc | 0.30% | ~2 |
 | Cyborg | 0.10% | ~1 |
 | Hard Boiled | 0.10% | ~1 |

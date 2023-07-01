@@ -2502,18 +2502,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 6451,
       "NumberOfAwardsMax": 2332
+    },
+    {
+      "Time": "2023-07-01T13:11:48.1001296+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6453,
+      "NumberOfAwardsMax": 2334
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6451,
-  "NumberOfAwardsMax": 2332,
+  "NumberOfAwards": 6453,
+  "NumberOfAwardsMax": 2334,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2332
+      "Count": 2334
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2582,7 +2588,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49783,
+  "EOS_Progressed": 49784,
   "EOS_Completed": 198,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
@@ -8377,6 +8383,11 @@
       "Time": "2023-06-30T21:02:30.7162907+00:00",
       "NumProgressed": 49783,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-07-01T13:14:26.8888906+00:00",
+      "NumProgressed": 49784,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 45,
@@ -8396,7 +8407,7 @@
       "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "COLLECT_EVERY_DATACARD",
@@ -8404,7 +8415,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -8444,7 +8455,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -8500,7 +8511,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29372
+      "UsersEstimate": 29373
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8508,7 +8519,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 22900
+      "UsersEstimate": 22901
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -8516,7 +8527,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19913
+      "UsersEstimate": 19914
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8572,7 +8583,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -8580,7 +8591,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 28376
+      "UsersEstimate": 28377
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -8604,7 +8615,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -8628,7 +8639,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28874
+      "UsersEstimate": 28875
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8692,7 +8703,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35346
+      "UsersEstimate": 35347
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8724,7 +8735,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26385
+      "UsersEstimate": 26386
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8747,15 +8758,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49783,
+      "Progressed": 49784,
       "Completed": 198
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-06-30T10:00:13.5297442+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:03:12.0779028+00:00",
+  "LastChanged": "2023-07-01T13:11:48.1001295+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:14:26.8888898+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-01T12:00:34.2034644+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:03:12.0779737+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:11:48.1001301+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:14:26.8889615+00:00"
 }

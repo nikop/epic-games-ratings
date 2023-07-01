@@ -16,11 +16,11 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type I | 7.00% | ~355 |
 | Millionaire | 6.00% | ~304 |
 | Data Churn Type II | 5.00% | ~254 |
+| Speedy | 5.00% | ~254 |
 | Extra Life: Wish Granted | 4.00% | ~203 |
 | High Five! | 4.00% | ~203 |
 | Modular Progress | 4.00% | ~203 |
 | Salesperson | 4.00% | ~203 |
-| Speedy | 4.00% | ~203 |
 | Campaign: Lesson Learned | 3.00% | ~152 |
 | Level: Bet On Bots | 3.00% | ~152 |
 | Modular Performance | 3.00% | ~152 |

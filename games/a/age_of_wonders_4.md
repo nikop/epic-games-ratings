@@ -13,29 +13,29 @@ Rating: 4.59 (Ranked 410)
 | From Friends to Family | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
 | My Final Form | 1.00% | ~49 |
+| Here be Dragons | 1.00% | ~49 |
 | Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | Stronger Together | 0.90% | ~44 |
 | Intimidation Tactics | 0.90% | ~44 |
-| Here be Dragons | 0.90% | ~44 |
+| There Can Only Be One! | 0.80% | ~39 |
+| Full Ascension | 0.80% | ~39 |
 | Bone Peddler | 0.80% | ~39 |
 | Seat of Power | 0.80% | ~39 |
 | Fiery Friend | 0.80% | ~39 |
 | Impenetrable Fortress | 0.80% | ~39 |
-| There Can Only Be One! | 0.70% | ~34 |
-| Full Ascension | 0.70% | ~34 |
+| Preparation Is Everything | 0.70% | ~34 |
+| In a Liege of Your Own | 0.70% | ~34 |
 | Against the Odds | 0.70% | ~34 |
+| Duality | 0.70% | ~34 |
 | Digging for Treasure | 0.60% | ~29 |
-| Preparation Is Everything | 0.60% | ~29 |
-| In a Liege of Your Own | 0.60% | ~29 |
-| Duality | 0.60% | ~29 |
 | Valley of Wonders | 0.50% | ~24 |
 | Return of the Wizard King | 0.50% | ~24 |
 | Arch Mage | 0.50% | ~24 |
+| The Creator | 0.50% | ~24 |
 | Eternal Lord | 0.50% | ~24 |
 | The Magic That Empowers Me! | 0.40% | ~20 |
 | God Emperor | 0.40% | ~20 |
-| The Creator | 0.40% | ~20 |
 | Enchanted Archipelago | 0.40% | ~20 |
 | Lord of Chaos | 0.30% | ~15 |
 | The Goddess of Nature | 0.30% | ~15 |

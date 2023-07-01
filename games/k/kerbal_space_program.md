@@ -1,10 +1,10 @@
 # Kerbal Space Program
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program)  
 [View Rawdata](../../db/k/kerbal_space_program.json)  
-Rating: 4.79 (Ranked 89)  
+Rating: 4.79 (Ranked 88)  
 ## Awards
 Max (Educational): 681  (Ranked 164)  
-Sum: 4,442 (Ranked 134)  
+Sum: 4,444 (Ranked 134)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 584 |
 | This game is Highly Recommended | 580 |
 | This game is Relaxing | 566 |
-| This game has Amazing Characters | 543 |
+| This game has Amazing Characters | 545 |
 | This game has a Creative Community | 540 |
 | This game has Amazing Storytelling | 505 |
 | This game has Challenging Combat | 443 |
@@ -120,4 +120,4 @@ Diff (max vs sum): 30
 | 2023-06-28 | 4.79 | 676 | 4,412 |
 | 2023-06-29 | 4.79 | 679 | 4,424 |
 | 2023-06-30 | 4.79 | 681 | 4,441 |
-| 2023-07-01 | 4.79 | 681 | 4,442 |
+| 2023-07-01 | 4.79 | 681 | 4,444 |

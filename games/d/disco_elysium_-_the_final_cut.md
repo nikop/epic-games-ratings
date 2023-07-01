@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,300 |
+| Goodest Of The Good Cops | 28.00% | ~34,301 |
 | Biggest Communism Builder | 24.00% | ~29,400 |
 | The World's Most Laughable Centrist | 20.00% | ~24,500 |
 | Il Coppo Del'Arte! | 18.00% | ~22,050 |
@@ -30,24 +30,24 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,450 |
 | Massive Torque Dork | 1.00% | ~1,225 |
 | Avowed Inframaterialist | 1.00% | ~1,225 |
-| Real Musor | 0.90% | ~1,102 |
+| Real Musor | 0.90% | ~1,103 |
 | Baddest Brow in Town | 0.80% | ~980 |
 | Committee of la Responsabilité | 0.80% | ~980 |
 | Venture into the HARDCORE | 0.80% | ~980 |
-| Networthy Individual | 0.70% | ~857 |
+| Networthy Individual | 0.70% | ~858 |
 | Leopard Mindset | 0.60% | ~735 |
-| Modus: Mullen | 0.30% | ~367 |
-| Palerunner | 0.30% | ~367 |
+| Modus: Mullen | 0.30% | ~368 |
+| Palerunner | 0.30% | ~368 |
 | Cause a ****storm | 0.20% | ~245 |
 | True Detective | 0.20% | ~245 |
 | The Icebreaker | 0.20% | ~245 |
-| The Most Honourable Cop in The Land | 0.10% | ~122 |
-| Gluten-Free Topping Pie | 0.10% | ~122 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~122 |
-| Medal dispenser | 0.10% | ~122 |
-| What body? | 0.10% | ~122 |
+| The Most Honourable Cop in The Land | 0.10% | ~123 |
+| Gluten-Free Topping Pie | 0.10% | ~123 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~123 |
+| Medal dispenser | 0.10% | ~123 |
+| What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,499 (Ranked 60)  
+Progressed: 122,502 (Ranked 60)  
 Completed: 26 (0.02%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 26 (0.02%) (Ranked 211)
 | 2023-06-28 | 122,380 | 26 |
 | 2023-06-29 | 122,425 | 26 |
 | 2023-06-30 | 122,470 | 26 |
-| 2023-07-01 | 122,499 | 26 |
+| 2023-07-01 | 122,502 | 26 |
 ## Awards
 Max (Character Customization): 699  (Ranked 162)  
 Sum: 1,059 (Ranked 233)  

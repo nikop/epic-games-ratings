@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3237,6 +3237,11 @@
       "Time": "2023-07-01T09:03:12.6087086+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T13:14:36.6302458+00:00",
+      "NumProgressed": 2758,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3336,7 +3341,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_BASE_22",
@@ -3703,13 +3708,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2758,
       "Completed": 0
     }
   ],
@@ -3717,8 +3722,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:03:22.0329213+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:14:36.6302452+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:35.6298541+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:03:22.0329984+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:09:54.7517259+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:14:36.6303247+00:00"
 }

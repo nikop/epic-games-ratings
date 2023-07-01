@@ -8,8 +8,8 @@ Number of Ratings: 154  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 98.00% | ~208 |
 | Newbie Hero | 88.00% | ~187 |
+| Welcome to Sonic the Hedgehog 2 | 80.00% | ~170 |
 | Welcome to Sonic CD | 79.00% | ~167 |
-| Welcome to Sonic the Hedgehog 2 | 79.00% | ~167 |
 | Welcome to Sonic 3 & Knuckles | 78.00% | ~165 |
 | Ring Collector | 76.00% | ~161 |
 | Time Traveler | 74.00% | ~157 |
@@ -18,7 +18,7 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 69.00% | ~146 |
 | Easy Peasy with Shields | 69.00% | ~146 |
 | Gallant Spin Dash | 68.00% | ~144 |
-| Miles "Tails" Prower | 67.00% | ~142 |
+| Miles "Tails" Prower | 68.00% | ~144 |
 | Boss Rush Attempt | 62.00% | ~131 |
 | Cleared Sonic the Hedgehog | 59.00% | ~125 |
 | Very First Mission Clear! | 57.00% | ~121 |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 17.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 212 (Ranked 261)  
-Completed: 25 (11.79%) (Ranked 20)  
+Completed: 25 (11.79%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

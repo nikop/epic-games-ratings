@@ -5098,9 +5098,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5226,17 +5226,17 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "PRINT_WEAPON",
@@ -5426,9 +5426,9 @@
       "ID": "KINETIC_HAMMER",
       "SetID": "6j5ggkc",
       "Name": "It\u0027s Time",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -5457,8 +5457,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T06:58:21.699348+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:05:06.3344496+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:16:21.12798+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:00.544501+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:05:06.3345083+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:09:22.6082967+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:16:21.1280478+00:00"
 }

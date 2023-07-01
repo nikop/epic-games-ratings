@@ -1,7 +1,7 @@
 # Ranch Simulator
 [Store](https://store.epicgames.com/en-US/p/ranch-simulator)  
 [View Rawdata](../../db/r/ranch_simulator.json)  
-Rating: 4.44 (Ranked 633)  
+Rating: 4.45 (Ranked 617)  
 Number of Ratings: 338  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 51  (Ranked 394)  
@@ -140,3 +140,4 @@ Diff (max vs sum): 66
 | 2023-06-19 | 4.44 | - | 50 | 322 |
 | 2023-06-20 | 4.44 | - | 51 | 323 |
 | 2023-06-22 | 4.44 | - | 51 | 324 |
+| 2023-07-01 | 4.45 | - | 51 | 324 |

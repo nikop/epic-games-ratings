@@ -2,13 +2,13 @@
   "ID": "742f165671424189aecdfdadf5ea9755",
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne",
-  "Ranking_Rating": 80,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-11-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 631,
   "RatingHistory": [
     {
@@ -1078,6 +1078,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 1205,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2023-07-01T13:10:00.9982794+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1205,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
@@ -1175,8 +1181,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2023-06-30T13:13:03.2878867+00:00",
+  "LastChanged": "2023-07-01T13:10:00.9982792+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:18.8352645+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:41.5464685+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:03:13.2379866+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:10:00.9982799+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:14:27.6410162+00:00"
 }

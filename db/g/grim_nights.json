@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -182,9 +182,9 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 150,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_boss2",
@@ -311,8 +311,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:06:00.1870154+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:17:14.894454+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:56.4736161+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:59:04.1627928+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:06:00.1870267+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:10:22.990297+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:17:14.8944663+00:00"
 }

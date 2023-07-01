@@ -2,20 +2,20 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -488,6 +488,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 59,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-07-01T13:09:42.8118038+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 59,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
@@ -504,7 +510,7 @@
   ],
   "EOS_Progressed": 8834,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -6026,9 +6032,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-06-30T13:12:43.345424+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:00:47.4862432+00:00",
+  "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:12:03.8785064+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:21.2018533+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:00:47.4863004+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:09:42.8118042+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:12:03.878578+00:00"
 }

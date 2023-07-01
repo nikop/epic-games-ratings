@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2132,9 +2132,9 @@
       "ID": "ATTENBOROUGH",
       "SetID": "9a4jnji",
       "Name": "Attenborough",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "BOOKWORM",
@@ -2468,17 +2468,17 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 84
     },
     {
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 443
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -2500,9 +2500,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 240
     },
     {
       "ID": "WIPE_OUT",
@@ -2525,8 +2525,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-01T03:58:14.0195394+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:00:34.8163067+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:11:50.6506349+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:23.5611013+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:00:34.8164421+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:09:45.1285838+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:11:50.6506967+00:00"
 }

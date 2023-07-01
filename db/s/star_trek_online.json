@@ -2,13 +2,13 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
     "PcReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -1696,10 +1696,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2255,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-07-01T13:10:41.5817108+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2256,
+      "NumberOfAwardsMax": 550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2255,
+  "NumberOfAwards": 2256,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1719,7 +1725,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game is Relaxing",
@@ -1781,8 +1787,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-06-30T13:59:14.3581056+00:00",
+  "LastChanged": "2023-07-01T13:10:41.5817107+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6190685+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:59:23.6071023+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:05:04.7520242+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:10:41.5817112+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:16:19.4491642+00:00"
 }

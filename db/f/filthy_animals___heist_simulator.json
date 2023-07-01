@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7158,
+  "EOS_Progressed": 7160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2023-07-01T12:06:02.1721141+00:00",
       "NumProgressed": 7158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T13:17:16.9039723+00:00",
+      "NumProgressed": 7160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -2565,14 +2570,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 7158,
+      "Progressed": 7160,
       "Completed": 0
     }
   ],
@@ -2580,8 +2585,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-07-01T12:06:02.1721135+00:00",
+  "LastChanged_Achievements": "2023-07-01T13:17:16.9039714+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:32.4092257+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:58:09.3242207+00:00",
-  "LastUpdate_Achievements": "2023-07-01T12:06:02.1721478+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:09:31.5118341+00:00",
+  "LastUpdate_Achievements": "2023-07-01T13:17:16.9040115+00:00"
 }
