@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4574,9 +4574,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -4942,9 +4942,9 @@
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -4966,9 +4966,9 @@
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
       "SetID": "83mdf7p",
       "Name": "F\u00FChrerious Repetition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -5125,8 +5125,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-01T04:06:05.9740587+00:00",
+  "LastChanged_Achievements": "2023-07-01T05:06:06.0757931+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:00:18.5808521+00:00",
-  "LastUpdate_Achievements": "2023-07-01T04:06:05.9741317+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:00:18.4349241+00:00",
+  "LastUpdate_Achievements": "2023-07-01T05:06:06.0758955+00:00"
 }

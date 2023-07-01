@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56566,
+  "EOS_Progressed": 56569,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6577,6 +6577,11 @@
       "Time": "2023-07-01T02:36:16.8953775+00:00",
       "NumProgressed": 56566,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-01T05:02:20.2505125+00:00",
+      "NumProgressed": 56569,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6588,7 +6593,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18667
+      "UsersEstimate": 18668
     },
     {
       "ID": "02",
@@ -6596,7 +6601,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11313
+      "UsersEstimate": 11314
     },
     {
       "ID": "03",
@@ -6604,7 +6609,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11313
+      "UsersEstimate": 11314
     },
     {
       "ID": "04",
@@ -6620,7 +6625,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9616
+      "UsersEstimate": 9617
     },
     {
       "ID": "06",
@@ -6628,7 +6633,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "07",
@@ -6652,7 +6657,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "10",
@@ -6700,7 +6705,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "16",
@@ -6756,7 +6761,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "23",
@@ -6836,7 +6841,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14707
+      "UsersEstimate": 14708
     },
     {
       "ID": "33",
@@ -6852,7 +6857,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4525
+      "UsersEstimate": 4526
     },
     {
       "ID": "35",
@@ -6860,7 +6865,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15273
+      "UsersEstimate": 15274
     },
     {
       "ID": "36",
@@ -6924,7 +6929,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "44",
@@ -7123,21 +7128,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56566,
+      "Progressed": 56569,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20034,
+      "Progressed": 20037,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-01T04:00:48.1420218+00:00",
+  "LastChanged_Achievements": "2023-07-01T05:02:20.2505119+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-01T03:57:41.9071953+00:00",
-  "LastUpdate_Achievements": "2023-07-01T04:00:48.1420987+00:00"
+  "LastUpdate_Ratings": "2023-07-01T04:57:46.3164949+00:00",
+  "LastUpdate_Achievements": "2023-07-01T05:02:20.2506023+00:00"
 }

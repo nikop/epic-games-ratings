@@ -9,6 +9,7 @@ Rating: 4.45 (Ranked 617)
 | The Kraken Wakes | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
 | No Stone Unturned | 0.30% | ~10 |
+| Opposing Force | 0.30% | ~10 |
 | Meeting Resistance | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Sharpshooter | 0.30% | ~10 |
@@ -21,7 +22,6 @@ Rating: 4.45 (Ranked 617)
 | Target America | 0.30% | ~10 |
 | Climbing the Ladder | 0.20% | ~6 |
 | Liberté | 0.20% | ~6 |
-| Opposing Force | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
@@ -47,6 +47,8 @@ Rating: 4.45 (Ranked 617)
 | Locomotion Commotion | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
+| Shoot for the Moon | 0.10% | ~3 |
+| Führerious Repetition | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
@@ -66,9 +68,7 @@ Rating: 4.45 (Ranked 617)
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
-| Shoot for the Moon | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
-| Führerious Repetition | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
 | Covert Elimination | 0.00% | ~0 |

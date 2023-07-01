@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~92 |
-| Brute force | 86.00% | ~90 |
-| Nimble fingers | 77.00% | ~81 |
-| Room 104 | 76.00% | ~80 |
-| Face to face | 75.00% | ~79 |
+| What's going on here? | 87.00% | ~92 |
+| Brute force | 85.00% | ~90 |
+| Nimble fingers | 76.00% | ~81 |
+| Room 104 | 75.00% | ~80 |
+| Face to face | 75.00% | ~80 |
 | Now or never | 73.00% | ~77 |
 | Let's play a game… | 71.00% | ~75 |
-| Soundtrack | 61.00% | ~64 |
+| Soundtrack | 60.00% | ~64 |
 | First aid | 57.00% | ~60 |
-| Antidote | 45.00% | ~47 |
+| Antidote | 44.00% | ~47 |
 | Pick the right door | 21.00% | ~22 |
 | The third floor | 14.00% | ~15 |
 | On the right path | 13.00% | ~14 |
 | One-way | 13.00% | ~14 |
 | It can't be true | 12.00% | ~13 |
-| I'm close now | 10.00% | ~10 |
-| Failed attempt | 10.00% | ~10 |
-| The real escape | 10.00% | ~10 |
-| Nightmare in the kitchen | 10.00% | ~10 |
-| Good choice | 10.00% | ~10 |
-| Take the long way round | 10.00% | ~10 |
-| He who seeks, finds! | 10.00% | ~10 |
+| I'm close now | 10.00% | ~11 |
+| Failed attempt | 10.00% | ~11 |
+| Good choice | 10.00% | ~11 |
+| Take the long way round | 10.00% | ~11 |
+| The real escape | 9.00% | ~10 |
+| Nightmare in the kitchen | 9.00% | ~10 |
+| He who seeks, finds! | 9.00% | ~10 |
 | Born again | 7.00% | ~7 |
 | 373 | 6.00% | ~6 |
 | The experiment | 5.00% | ~5 |
 | Matthew's revenge | 5.00% | ~5 |
 | Horror book | 2.00% | ~2 |
-| Eva's diary | 1.00% | ~1 |
-| A dark past | 1.00% | ~1 |
+| Eva's diary | 0.90% | ~1 |
+| A dark past | 0.90% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 295)  
+Progressed: 106 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 91 | 0 |
 | 2023-06-29 | 99 | 0 |
 | 2023-06-30 | 105 | 0 |
+| 2023-07-01 | 106 | 0 |

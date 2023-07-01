@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -2769,9 +2769,9 @@
       "ID": "ACH001",
       "SetID": "6749a6l",
       "Name": "Personal Matter",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13594
+      "UsersEstimate": 13752
     },
     {
       "ID": "ACH0010",
@@ -2978,8 +2978,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-29T22:59:53.1657282+00:00",
-  "LastChanged_Achievements": "2023-07-01T04:05:49.0274693+00:00",
+  "LastChanged_Achievements": "2023-07-01T05:05:59.3091624+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.9410166+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:00:02.8714461+00:00",
-  "LastUpdate_Achievements": "2023-07-01T04:05:49.0274951+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:00:02.6916436+00:00",
+  "LastUpdate_Achievements": "2023-07-01T05:05:59.3091981+00:00"
 }
