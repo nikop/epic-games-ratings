@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -940,6 +940,11 @@
       "Time": "2023-06-30T22:03:33.5313146+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T12:03:33.9613283+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -983,7 +988,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1023,7 +1028,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1095,7 +1100,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1143,7 +1148,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1255,7 +1260,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1398,15 +1403,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:03:29.3923937+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:03:33.9613276+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:01:36.208327+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:03:29.3924527+00:00"
+  "LastUpdate_Ratings": "2023-07-01T12:00:33.9448827+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:03:33.9613819+00:00"
 }

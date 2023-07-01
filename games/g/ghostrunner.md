@@ -7,7 +7,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 77.00% | ~8,663 |
-| Sword Runner | 62.00% | ~6,976 |
+| Sword Runner | 63.00% | ~7,088 |
 | Wallrunner | 56.00% | ~6,301 |
 | Running out of breath | 55.00% | ~6,188 |
 | Homerunner | 46.00% | ~5,175 |

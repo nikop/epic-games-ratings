@@ -9,6 +9,7 @@ Rating: 4.45 (Ranked 617)
 | The Kraken Wakes | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
 | Target America | 0.40% | ~13 |
+| Climbing the Ladder | 0.30% | ~10 |
 | Liberté | 0.30% | ~10 |
 | No Stone Unturned | 0.30% | ~10 |
 | Opposing Force | 0.30% | ~10 |
@@ -24,15 +25,14 @@ Rating: 4.45 (Ranked 617)
 | It's Starting to Crack | 0.30% | ~10 |
 | Taking it back | 0.30% | ~10 |
 | The Kraken Sleeps | 0.30% | ~10 |
-| Climbing the Ladder | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
+| Skirmisher | 0.20% | ~6 |
 | Set Europe Ablaze | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
-| Skirmisher | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Precision Is Key | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |

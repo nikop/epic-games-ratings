@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1851,
+  "EOS_Progressed": 1852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3051,6 +3051,11 @@
       "Time": "2023-07-01T11:05:05.0985441+00:00",
       "NumProgressed": 1851,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T12:04:35.0369591+00:00",
+      "NumProgressed": 1852,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3140,9 +3145,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 722
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3166,7 +3171,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "GUARD_MAKER",
@@ -3237,14 +3242,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1851,
+      "Progressed": 1852,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:05:05.0985436+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:04:35.0369583+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:57:41.8418627+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:05:05.0985702+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:57:14.6209015+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:04:35.0369931+00:00"
 }

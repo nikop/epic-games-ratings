@@ -6,44 +6,44 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,016 |
-| Cavalier | 25.00% | ~197,594 |
-| Fatso | 23.00% | ~181,786 |
-| Awakening | 20.00% | ~158,075 |
-| Ranger | 20.00% | ~158,075 |
-| Scrooge | 20.00% | ~158,075 |
-| Anorectic | 16.00% | ~126,460 |
-| Firestarter | 15.00% | ~118,556 |
-| Bookworm | 14.00% | ~110,652 |
-| Insomniac | 13.00% | ~102,749 |
-| Buddy | 12.00% | ~94,845 |
-| Thief | 12.00% | ~94,845 |
-| Sinner | 11.00% | ~86,941 |
-| Convict | 10.00% | ~79,037 |
-| Traveller | 10.00% | ~79,037 |
-| Haggler | 9.00% | ~71,134 |
-| McLovin | 7.00% | ~55,326 |
-| Runt | 7.00% | ~55,326 |
-| Casanova | 6.00% | ~47,422 |
-| Bad Trip | 5.00% | ~39,519 |
-| Monk | 5.00% | ~39,519 |
-| Serial Killer | 5.00% | ~39,519 |
-| Bastard | 4.00% | ~31,615 |
-| Hunter | 4.00% | ~31,615 |
-| Plague Doctor | 4.00% | ~31,615 |
-| Bard | 3.00% | ~23,711 |
-| Conqueror | 3.00% | ~23,711 |
-| Ginger in a Pickle | 3.00% | ~23,711 |
-| Kingdom did not come | 3.00% | ~23,711 |
-| Completionist | 2.00% | ~15,807 |
-| Death by splinter | 2.00% | ~15,807 |
-| King Charming | 2.00% | ~15,807 |
-| Knightrider | 2.00% | ~15,807 |
-| Level Cap | 2.00% | ~15,807 |
-| Arena Master | 2.00% | ~15,807 |
-| Robber Baron | 2.00% | ~15,807 |
-| Talmberger | 2.00% | ~15,807 |
-| The End | 2.00% | ~15,807 |
+| Blacksmith's Son | 31.00% | ~245,021 |
+| Cavalier | 25.00% | ~197,598 |
+| Fatso | 23.00% | ~181,790 |
+| Awakening | 20.00% | ~158,078 |
+| Ranger | 20.00% | ~158,078 |
+| Scrooge | 20.00% | ~158,078 |
+| Anorectic | 16.00% | ~126,462 |
+| Firestarter | 15.00% | ~118,558 |
+| Bookworm | 14.00% | ~110,655 |
+| Insomniac | 13.00% | ~102,751 |
+| Buddy | 12.00% | ~94,847 |
+| Thief | 12.00% | ~94,847 |
+| Sinner | 11.00% | ~86,943 |
+| Convict | 10.00% | ~79,039 |
+| Traveller | 10.00% | ~79,039 |
+| Haggler | 9.00% | ~71,135 |
+| McLovin | 7.00% | ~55,327 |
+| Runt | 7.00% | ~55,327 |
+| Casanova | 6.00% | ~47,423 |
+| Bad Trip | 5.00% | ~39,520 |
+| Monk | 5.00% | ~39,520 |
+| Serial Killer | 5.00% | ~39,520 |
+| Bastard | 4.00% | ~31,616 |
+| Hunter | 4.00% | ~31,616 |
+| Plague Doctor | 4.00% | ~31,616 |
+| Bard | 3.00% | ~23,712 |
+| Conqueror | 3.00% | ~23,712 |
+| Ginger in a Pickle | 3.00% | ~23,712 |
+| Kingdom did not come | 3.00% | ~23,712 |
+| Completionist | 2.00% | ~15,808 |
+| Death by splinter | 2.00% | ~15,808 |
+| King Charming | 2.00% | ~15,808 |
+| Knightrider | 2.00% | ~15,808 |
+| Level Cap | 2.00% | ~15,808 |
+| Arena Master | 2.00% | ~15,808 |
+| Robber Baron | 2.00% | ~15,808 |
+| Talmberger | 2.00% | ~15,808 |
+| The End | 2.00% | ~15,808 |
 | Woman's Lot | 1.00% | ~7,904 |
 | Chivalrous Soul | 1.00% | ~7,904 |
 | Spoilsport | 1.00% | ~7,904 |
@@ -51,7 +51,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,904 |
 | Master Huntsman | 1.00% | ~7,904 |
 | Stealth Killer | 1.00% | ~7,904 |
-| Bailiff | 0.90% | ~7,113 |
+| Bailiff | 0.90% | ~7,114 |
 | Tracker | 0.80% | ~6,323 |
 | David Horak | 0.70% | ~5,533 |
 | Mercenary's Honour | 0.70% | ~5,533 |
@@ -59,7 +59,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,742 |
 | Fighter | 0.60% | ~4,742 |
 | I Can Quit Anytime | 0.50% | ~3,952 |
-| Perfectionist | 0.40% | ~3,161 |
+| Perfectionist | 0.40% | ~3,162 |
 | Alcoholic | 0.30% | ~2,371 |
 | Sniper | 0.30% | ~2,371 |
 | Angel of Mercy | 0.20% | ~1,581 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,374 (Ranked 15)  
+Progressed: 790,390 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 43 (0.01%) (Ranked 219)
 | 2023-06-28 | 790,036 | 43 |
 | 2023-06-29 | 790,168 | 43 |
 | 2023-06-30 | 790,301 | 43 |
-| 2023-07-01 | 790,374 | 43 |
+| 2023-07-01 | 790,390 | 43 |
 ## Awards
 Max (Character Customization): 7,287  (Ranked 46)  
 Sum: 27,185 (Ranked 43)  

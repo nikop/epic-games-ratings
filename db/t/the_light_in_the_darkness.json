@@ -3,8 +3,8 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 8.55,
+  "EOS_Completed_Percentage": 8.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3308,6 +3308,11 @@
       "Time": "2023-07-01T09:01:18.4811235+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-07-01T12:00:46.9007934+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 12,
@@ -3335,7 +3340,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3343,7 +3348,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Jacques a Dit",
@@ -3399,7 +3404,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "Nuremberg Laws",
@@ -3414,7 +3419,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1803,
       "Completed": 154
     }
   ],
@@ -3422,8 +3427,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:01:49.8685271+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:00:46.9007926+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:00:27.7753918+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:01:49.8687568+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:59:33.7793721+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:00:46.9008218+00:00"
 }

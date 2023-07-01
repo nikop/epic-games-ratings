@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "BADGE_ENEMIES_KILL",
       "SetID": "ak6pfjk",
       "Name": "The Apotheosis of War",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:05:07.5134796+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:04:37.1654261+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:59:25.8356891+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:05:07.5135121+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:58:42.9598029+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:04:37.1654709+00:00"
 }

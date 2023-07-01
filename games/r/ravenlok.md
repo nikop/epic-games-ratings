@@ -13,10 +13,10 @@
 | Vibing | 62.00% | ~637 |
 | Fun Guy | 62.00% | ~637 |
 | Tragic Brave | 53.00% | ~544 |
+| Awakened Spirits | 51.00% | ~524 |
 | Little Shop | 50.00% | ~514 |
-| Awakened Spirits | 50.00% | ~514 |
+| Surprise! | 46.00% | ~472 |
 | An Actor! | 46.00% | ~472 |
-| Surprise! | 45.00% | ~462 |
 | Curtain Call | 44.00% | ~452 |
 | Piece of Cake | 42.00% | ~431 |
 | Glimmer of Hope | 42.00% | ~431 |
@@ -34,8 +34,8 @@
 | Spellbound | 36.00% | ~370 |
 | Extinct Again! | 36.00% | ~370 |
 | Bird of Prey | 36.00% | ~370 |
+| Stardust | 36.00% | ~370 |
 | It's Pointy! | 36.00% | ~370 |
-| Stardust | 35.00% | ~359 |
 | Heartbreaker | 35.00% | ~359 |
 | Kidnapped! | 35.00% | ~359 |
 | Pull the Plug | 34.00% | ~349 |

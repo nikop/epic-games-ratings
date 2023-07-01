@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -156,7 +156,7 @@
   "Tags": [],
   "EOS_Progressed": 1198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2180,9 +2180,9 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 156
     },
     {
       "ID": "CROAKED",
@@ -2212,9 +2212,9 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 371
     },
     {
       "ID": "DEAD_DICK",
@@ -2404,9 +2404,9 @@
       "ID": "QA_HAS_SUFFERED",
       "SetID": "9a4jnji",
       "Name": "QA Has Suffered! (Redux)",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "RANIDAPHOBIA",
@@ -2525,8 +2525,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-01T03:58:14.0195394+00:00",
-  "LastChanged_Achievements": "2023-07-01T10:03:19.1699431+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:00:34.8163067+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-01T10:59:03.4400607+00:00",
-  "LastUpdate_Achievements": "2023-07-01T10:03:19.1700323+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:58:23.5611013+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:00:34.8164421+00:00"
 }

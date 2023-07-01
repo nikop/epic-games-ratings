@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1398,6 +1398,11 @@
       "Time": "2023-07-01T10:03:47.2991939+00:00",
       "NumProgressed": 684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T12:03:34.4663238+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1441,7 +1446,7 @@
       "Name": "The City",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1479,9 +1484,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -1521,7 +1526,7 @@
       "Name": "Nanonic I",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1575,9 +1580,9 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -1591,9 +1596,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1640,13 +1645,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 686,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 110,
+      "Progressed": 112,
       "Completed": 3
     }
   ],
@@ -1654,8 +1659,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:03:29.9656772+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:03:34.4663231+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:00:33.0559487+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:03:29.965705+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:59:38.9941127+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:03:34.4663549+00:00"
 }

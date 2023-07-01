@@ -23,8 +23,8 @@ Rating: 4.37 (Ranked 718)
 | Technophobe | 36.00% | ~431 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
+| Ganglord | 31.00% | ~371 |
 | Jarhead | 31.00% | ~371 |
-| Ganglord | 30.00% | ~359 |
 | Infiltrator | 30.00% | ~359 |
 | Pushing Daisy | 28.00% | ~335 |
 | Experienced | 26.00% | ~311 |
@@ -38,7 +38,7 @@ Rating: 4.37 (Ranked 718)
 | Dr Jones | 14.00% | ~168 |
 | Ruthless | 14.00% | ~168 |
 | Chaos Theory | 13.00% | ~156 |
-| Commando | 12.00% | ~144 |
+| Commando | 13.00% | ~156 |
 | Chain Reaction | 9.00% | ~108 |
 | Side Order | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
@@ -51,10 +51,10 @@ Rating: 4.37 (Ranked 718)
 | Master Editor | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
+| QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | Attenborough | 0.70% | ~8 |
 | Goaaaaal! | 0.70% | ~8 |
-| QA Has Suffered! (Redux) | 0.70% | ~8 |
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,198 (Ranked 178)  

@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4890,
+  "EOS_Progressed": 4892,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4771,6 +4771,11 @@
       "Time": "2023-07-01T09:05:38.379927+00:00",
       "NumProgressed": 4890,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T12:05:21.5277572+00:00",
+      "NumProgressed": 4892,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4836,9 +4841,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "17",
@@ -4868,9 +4873,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "20",
@@ -4884,9 +4889,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "22",
@@ -4932,9 +4937,9 @@
       "ID": "27",
       "SetID": "3aa2279",
       "Name": "Digging for Treasure",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "28",
@@ -4988,9 +4993,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "34",
@@ -5036,9 +5041,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "4",
@@ -5052,17 +5057,17 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "42",
@@ -5181,13 +5186,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4890,
+      "Progressed": 4892,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4890,
+      "Progressed": 4892,
       "Completed": 4
     }
   ],
@@ -5195,8 +5200,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T11:06:03.8192543+00:00",
+  "LastChanged_Achievements": "2023-07-01T12:05:21.5277565+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T11:00:23.7999363+00:00",
-  "LastUpdate_Achievements": "2023-07-01T11:06:03.8193103+00:00"
+  "LastUpdate_Ratings": "2023-07-01T11:59:29.1536771+00:00",
+  "LastUpdate_Achievements": "2023-07-01T12:05:21.5278276+00:00"
 }

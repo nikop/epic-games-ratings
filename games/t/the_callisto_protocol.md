@@ -10,25 +10,25 @@ Rating: 4.19 (Ranked 844)
 | Paper Jams | 0.70% | ~109 |
 | You Need a Gun | 0.60% | ~94 |
 | Two Heads Are Better Than One | 0.60% | ~94 |
+| Giving Back | 0.50% | ~78 |
 | Flesh Wound | 0.50% | ~78 |
 | I Do Belong Here | 0.50% | ~78 |
 | Chew 'Em Up | 0.50% | ~78 |
 | Workplace Hazard | 0.50% | ~78 |
 | Reforged | 0.50% | ~78 |
 | If the SHU Fits... | 0.50% | ~78 |
+| Without A Paddle | 0.50% | ~78 |
 | In the Pipe, Five by Five | 0.50% | ~78 |
 | Crash Site | 0.50% | ~78 |
 | Power Up | 0.50% | ~78 |
-| Giving Back | 0.40% | ~62 |
+| Terminated | 0.40% | ~62 |
 | The Commonality | 0.40% | ~62 |
 | Float Like A Butterfly | 0.40% | ~62 |
 | The Outer Way | 0.40% | ~62 |
-| Without A Paddle | 0.40% | ~62 |
 | What Lies Beneath | 0.40% | ~62 |
 | Desperate Times | 0.40% | ~62 |
 | Full Circle | 0.40% | ~62 |
 | It's Time | 0.40% | ~14 |
-| Terminated | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
 | In Striking Distance | 0.20% | ~31 |
