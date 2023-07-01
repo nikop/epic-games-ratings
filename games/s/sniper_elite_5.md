@@ -11,6 +11,7 @@ Rating: 4.45 (Ranked 617)
 | No Stone Unturned | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Confirming Suspicions | 0.30% | ~10 |
+| Der Geist | 0.30% | ~10 |
 | It's Starting to Crack | 0.30% | ~10 |
 | Taking it back | 0.30% | ~10 |
 | Target America | 0.30% | ~10 |
@@ -25,7 +26,6 @@ Rating: 4.45 (Ranked 617)
 | My Little Friend | 0.20% | ~6 |
 | Explosive Efficiency | 0.20% | ~6 |
 | Lord of War | 0.20% | ~6 |
-| Der Geist | 0.20% | ~6 |
 | As Quiet as a Mouse | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,169 (Ranked 145)  
+Progressed: 3,171 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,6 +148,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
+| 2023-07-01 | 3,171 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

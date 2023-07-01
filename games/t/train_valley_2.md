@@ -58,22 +58,22 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 1.00% | ~7 |
 | Woodcutter | 1.00% | ~7 |
 | Atomic Age | 0.90% | ~1 |
+| Digital Age | 0.90% | ~1 |
 | Information Age | 0.90% | ~1 |
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
 | Achiever | 0.80% | ~6 |
-| Digital Age | 0.80% | ~1 |
 | Astrochemist | 0.70% | ~1 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Highlander | 0.50% | ~4 |
 | Space Age | 0.50% | ~4 |
+| Arcturus | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | It's no coincidence | 0.40% | ~3 |
 | The Hare | 0.40% | ~3 |
 | Voyager | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
-| Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
 | The Hare with an espresso | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |

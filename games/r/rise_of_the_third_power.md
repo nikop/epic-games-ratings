@@ -18,7 +18,7 @@
 | Determined | 21.00% | ~28 |
 | Beginning of the End | 20.00% | ~26 |
 | Bling | 20.00% | ~26 |
-| Geared | 17.00% | ~22 |
+| Geared | 18.00% | ~24 |
 | Master Crafter | 13.00% | ~17 |
 | Master Trader | 13.00% | ~17 |
 | Mysteries of Rin | 12.00% | ~16 |

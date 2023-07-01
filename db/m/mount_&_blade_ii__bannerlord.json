@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 143,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 82,
@@ -5155,10 +5155,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13587,
       "NumberOfAwardsMax": 6742
+    },
+    {
+      "Time": "2023-07-01T00:01:18.5437758+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13589,
+      "NumberOfAwardsMax": 6742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13587,
+  "NumberOfAwards": 13589,
   "NumberOfAwardsMax": 6742,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5196,7 +5202,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 764
+      "Count": 766
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5235,7 +5241,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54609,
+  "EOS_Progressed": 54612,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
@@ -12595,6 +12601,11 @@
       "Time": "2023-06-30T23:06:51.0516147+00:00",
       "NumProgressed": 54609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T00:08:05.2685951+00:00",
+      "NumProgressed": 54612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12614,7 +12625,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7645
+      "UsersEstimate": 7646
     },
     {
       "ID": "Bannerlord",
@@ -12622,7 +12633,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11468
+      "UsersEstimate": 11469
     },
     {
       "ID": "Best served cold",
@@ -12766,7 +12777,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11468
+      "UsersEstimate": 11469
     },
     {
       "ID": "I can do it",
@@ -12774,7 +12785,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8191
+      "UsersEstimate": 8192
     },
     {
       "ID": "I spit on your grave",
@@ -12798,7 +12809,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8737
+      "UsersEstimate": 8738
     },
     {
       "ID": "Kingslayer",
@@ -12830,7 +12841,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16929
+      "UsersEstimate": 16930
     },
     {
       "ID": "Lawbringer",
@@ -12838,7 +12849,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19659
+      "UsersEstimate": 19660
     },
     {
       "ID": "Lawmaker",
@@ -12846,7 +12857,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12014
+      "UsersEstimate": 12015
     },
     {
       "ID": "Long live the Empire",
@@ -12982,7 +12993,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11468
+      "UsersEstimate": 11469
     },
     {
       "ID": "Undercover",
@@ -13013,15 +13024,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54609,
+      "Progressed": 54612,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-06-30T23:00:09.2405487+00:00",
-  "LastChanged_Achievements": "2023-06-30T23:06:51.0516143+00:00",
+  "LastChanged": "2023-07-01T00:01:18.5437756+00:00",
+  "LastChanged_Achievements": "2023-07-01T00:08:05.2685949+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:59:47.3916346+00:00",
-  "LastUpdate_Ratings": "2023-06-30T23:00:09.2405492+00:00",
-  "LastUpdate_Achievements": "2023-06-30T23:06:51.0516784+00:00"
+  "LastUpdate_Ratings": "2023-07-01T00:01:18.5437762+00:00",
+  "LastUpdate_Achievements": "2023-07-01T00:08:05.2686618+00:00"
 }

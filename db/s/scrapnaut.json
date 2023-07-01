@@ -5,7 +5,7 @@
   "Ranking_Rating": 767,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 89,
@@ -976,9 +976,9 @@
       "ID": "ACH_SURVIVE_40_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survival Master",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_TELEPORT",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-06-30T23:02:12.8225071+00:00",
+  "LastChanged_Achievements": "2023-07-01T00:03:15.4159119+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:58:17.1847858+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:58:45.6671726+00:00",
-  "LastUpdate_Achievements": "2023-06-30T23:02:12.8225267+00:00"
+  "LastUpdate_Ratings": "2023-06-30T23:59:43.0754507+00:00",
+  "LastUpdate_Achievements": "2023-07-01T00:03:15.4159328+00:00"
 }

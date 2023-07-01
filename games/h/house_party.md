@@ -7,11 +7,11 @@ Number of Ratings: 177  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Friend in Need... | 3.00% | ~170 |
+| Katherine | 2.00% | ~114 |
 | Smooth Operator: Madison | 2.00% | ~114 |
 | The Brahdyssey | 1.00% | ~57 |
 | Caught in the Act | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
-| Katherine | 1.00% | ~57 |
 | Life Found a Way | 1.00% | ~27 |
 | Relentless | 1.00% | ~57 |
 | If at First You Don't Succeed... | 1.00% | ~57 |

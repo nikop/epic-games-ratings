@@ -8,10 +8,10 @@
 | Killing Spree | 67.00% | ~33 |
 | 5Gb HDD | 47.00% | ~23 |
 | Merchant Prince I | 45.00% | ~22 |
-| Dominating | 29.00% | ~14 |
-| Fighting Fit I | 27.00% | ~13 |
-| Rambo I | 22.00% | ~11 |
-| 10Gb HDD | 22.00% | ~11 |
+| Dominating | 31.00% | ~15 |
+| Fighting Fit I | 29.00% | ~14 |
+| Rambo I | 24.00% | ~12 |
+| 10Gb HDD | 24.00% | ~12 |
 | The Vette | 18.00% | ~9 |
 | Almost There I | 16.00% | ~8 |
 | Mega Kill | 14.00% | ~7 |

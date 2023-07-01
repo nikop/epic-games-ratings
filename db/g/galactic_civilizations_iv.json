@@ -806,7 +806,7 @@
   ],
   "EOS_Progressed": 6048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3879,9 +3879,9 @@
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2117
     },
     {
       "ID": "Play_1000_Hours",
@@ -4247,8 +4247,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-06-30T23:05:27.3535641+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:56:54.2479872+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:57:39.5203582+00:00",
-  "LastUpdate_Achievements": "2023-06-30T23:05:27.3536325+00:00"
+  "LastChanged_Achievements": "2023-07-01T00:06:31.1516971+00:00",
+  "LastUpdate_AppInfo": "2023-06-30T23:57:32.3493062+00:00",
+  "LastUpdate_Ratings": "2023-06-30T23:58:29.142534+00:00",
+  "LastUpdate_Achievements": "2023-07-01T00:06:31.151766+00:00"
 }

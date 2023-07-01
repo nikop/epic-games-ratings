@@ -21,8 +21,8 @@
 | Have Mercy | 26.00% | ~17 |
 | Save some water for the fishies | 21.00% | ~14 |
 | Spooky | 21.00% | ~14 |
+| Bathroom Secret Spot | 20.00% | ~13 |
 | At least everyone still had fun | 20.00% | ~13 |
-| Bathroom Secret Spot | 18.00% | ~12 |
 | Classroom Secret Spot | 17.00% | ~11 |
 | Living Room Secret Spot | 15.00% | ~10 |
 | Angry Dad | 15.00% | ~10 |

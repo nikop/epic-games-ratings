@@ -1,30 +1,30 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 181)  
+Rating: 4.71 (Ranked 182)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~244,993 |
-| Cavalier | 25.00% | ~197,575 |
-| Fatso | 23.00% | ~181,769 |
-| Awakening | 20.00% | ~158,060 |
-| Ranger | 20.00% | ~158,060 |
-| Scrooge | 20.00% | ~158,060 |
-| Anorectic | 16.00% | ~126,448 |
-| Firestarter | 15.00% | ~118,545 |
-| Bookworm | 14.00% | ~110,642 |
-| Insomniac | 13.00% | ~102,739 |
-| Buddy | 12.00% | ~94,836 |
-| Thief | 12.00% | ~94,836 |
-| Sinner | 11.00% | ~86,933 |
-| Convict | 10.00% | ~79,030 |
-| Traveller | 10.00% | ~79,030 |
-| Haggler | 9.00% | ~71,127 |
-| McLovin | 7.00% | ~55,321 |
-| Runt | 7.00% | ~55,321 |
-| Casanova | 6.00% | ~47,418 |
+| Blacksmith's Son | 31.00% | ~244,996 |
+| Cavalier | 25.00% | ~197,577 |
+| Fatso | 23.00% | ~181,771 |
+| Awakening | 20.00% | ~158,062 |
+| Ranger | 20.00% | ~158,062 |
+| Scrooge | 20.00% | ~158,062 |
+| Anorectic | 16.00% | ~126,449 |
+| Firestarter | 15.00% | ~118,546 |
+| Bookworm | 14.00% | ~110,643 |
+| Insomniac | 13.00% | ~102,740 |
+| Buddy | 12.00% | ~94,837 |
+| Thief | 12.00% | ~94,837 |
+| Sinner | 11.00% | ~86,934 |
+| Convict | 10.00% | ~79,031 |
+| Traveller | 10.00% | ~79,031 |
+| Haggler | 9.00% | ~71,128 |
+| McLovin | 7.00% | ~55,322 |
+| Runt | 7.00% | ~55,322 |
+| Casanova | 6.00% | ~47,419 |
 | Bad Trip | 5.00% | ~39,515 |
 | Monk | 5.00% | ~39,515 |
 | Serial Killer | 5.00% | ~39,515 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~790 |
 | Wingman | 0.10% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,301 (Ranked 15)  
+Progressed: 790,309 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 43 (0.01%) (Ranked 219)
 | 2023-06-28 | 790,036 | 43 |
 | 2023-06-29 | 790,168 | 43 |
 | 2023-06-30 | 790,301 | 43 |
+| 2023-07-01 | 790,309 | 43 |
 ## Awards
 Max (Character Customization): 7,284  (Ranked 46)  
 Sum: 27,180 (Ranked 43)  

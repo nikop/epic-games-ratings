@@ -18,7 +18,7 @@ Rating: 4.89 (Ranked 12)
 | This will cost you big time | 48.00% | ~1,620 |
 | Uh, they were broken when I got here | 47.00% | ~1,586 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,552 |
-| Kissing the sky! | 44.00% | ~1,485 |
+| Kissing the sky! | 45.00% | ~1,519 |
 | Does that say weakpoint? | 41.00% | ~1,384 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,350 |
 | The Negotiator | 39.00% | ~1,316 |
@@ -58,9 +58,9 @@ Rating: 4.89 (Ranked 12)
 | I saw all those hits coming a measure away! | 0.90% | ~30 |
 | My Ultimate Setlist | 0.70% | ~24 |
 | This was... not what I expected. | 0.70% | ~24 |
+| Have we met before? | 0.70% | ~24 |
 | OK, I THINK I know what I'm doing now | 0.70% | ~24 |
 | I think that's enough health for now | 0.60% | ~20 |
-| Have we met before? | 0.60% | ~20 |
 | I have to read ALL of these things? | 0.50% | ~17 |
 | I'm untouchable! | 0.50% | ~17 |
 | Didn't skip a beat! | 0.30% | ~10 |

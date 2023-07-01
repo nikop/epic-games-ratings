@@ -27,13 +27,13 @@ Rating: 4.59 (Ranked 410)
 | Impenetrable Fortress | 0.60% | ~29 |
 | Duality | 0.60% | ~29 |
 | Digging for Treasure | 0.50% | ~24 |
+| Preparation Is Everything | 0.50% | ~24 |
 | In a Liege of Your Own | 0.50% | ~24 |
 | Valley of Wonders | 0.40% | ~20 |
 | Return of the Wizard King | 0.40% | ~20 |
 | Arch Mage | 0.40% | ~20 |
 | The Creator | 0.40% | ~20 |
 | Eternal Lord | 0.40% | ~20 |
-| Preparation Is Everything | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.30% | ~15 |
 | God Emperor | 0.30% | ~15 |
 | Enchanted Archipelago | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,883 (Ranked 134)  
+Progressed: 4,884 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,6 +114,7 @@ Completed: 4 (0.08%) (Ranked 187)
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
+| 2023-07-01 | 4,884 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

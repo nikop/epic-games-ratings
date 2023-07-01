@@ -8,25 +8,25 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 33.00% | ~18,663 |
 | Let There Be Light | 27.00% | ~15,270 |
-| Float Like a Butterfly | 26.00% | ~14,704 |
+| Float Like a Butterfly | 26.00% | ~14,705 |
 | Nordic Walking | 20.00% | ~11,311 |
 | Bright Falls' Finest | 20.00% | ~11,311 |
-| Under a Thin Layer of Skin | 17.00% | ~9,614 |
+| Under a Thin Layer of Skin | 17.00% | ~9,615 |
 | Park Ranger | 14.00% | ~7,918 |
 | Paging Mr. Wake | 14.00% | ~7,918 |
 | Back! Back, I Say! | 13.00% | ~7,352 |
 | Finders Keepers | 13.00% | ~7,352 |
-| They're Heeeeeere! | 12.00% | ~6,786 |
-| Sound and Fury | 12.00% | ~6,786 |
-| Missed by a Mile | 12.00% | ~6,786 |
-| Damn Good Cup of Coffee | 12.00% | ~6,786 |
+| They're Heeeeeere! | 12.00% | ~6,787 |
+| Sound and Fury | 12.00% | ~6,787 |
+| Missed by a Mile | 12.00% | ~6,787 |
+| Damn Good Cup of Coffee | 12.00% | ~6,787 |
 | Wheels Within Wheels | 11.00% | ~6,221 |
 | The Six-Gun Scribe | 11.00% | ~6,221 |
-| Heavy Metal | 10.00% | ~5,655 |
-| Iron Horse | 10.00% | ~5,655 |
-| Perchance to Dream | 10.00% | ~5,655 |
-| Collateral Carnage | 10.00% | ~5,655 |
-| Come One, Come All | 10.00% | ~5,655 |
+| Heavy Metal | 10.00% | ~5,656 |
+| Iron Horse | 10.00% | ~5,656 |
+| Perchance to Dream | 10.00% | ~5,656 |
+| Collateral Carnage | 10.00% | ~5,656 |
+| Come One, Come All | 10.00% | ~5,656 |
 | Gatekeeper | 9.00% | ~5,090 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,090 |
 | Thunder and Lightning | 9.00% | ~5,090 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,554 (Ranked 80)  
+Progressed: 56,556 (Ranked 80)  
 Completed: 56 (0.10%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 56 (0.10%) (Ranked 178)
 | 2023-06-28 | 56,442 | 56 |
 | 2023-06-29 | 56,498 | 56 |
 | 2023-06-30 | 56,554 | 56 |
+| 2023-07-01 | 56,556 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

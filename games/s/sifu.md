@@ -41,9 +41,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.60% | ~4,262 |
 | A Touch of Acumen | 0.60% | ~118 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,552 |
+| Prodigal Child | 0.50% | ~3,552 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,552 |
 | Sword Stained With Blood | 0.50% | ~3,552 |
-| Prodigal Child | 0.40% | ~2,841 |
 | Martial Hub | 0.40% | ~79 |
 | Secure, Protect, Leave | 0.40% | ~79 |
 | Drunken Fighter | 0.30% | ~2,131 |

@@ -16,12 +16,12 @@
 | Conciliator | 4.00% | ~5 |
 | Scholar | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
+| Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
 | Tail-wind | 4.00% | ~5 |
 | Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
-| Courier | 3.00% | ~3 |
 | Supercargo | 2.00% | ~2 |
 | Strategist | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |

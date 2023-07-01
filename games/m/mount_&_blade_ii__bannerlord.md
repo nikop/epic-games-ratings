@@ -1,21 +1,21 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 143)  
+Rating: 4.74 (Ranked 144)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,659 |
-| Landlord | 31.00% | ~16,929 |
-| Lawmaker | 22.00% | ~12,014 |
-| Bannerlord | 21.00% | ~11,468 |
-| Horde breaker | 21.00% | ~11,468 |
-| Trained | 21.00% | ~11,468 |
+| Lawbringer | 36.00% | ~19,660 |
+| Landlord | 31.00% | ~16,930 |
+| Lawmaker | 22.00% | ~12,015 |
+| Bannerlord | 21.00% | ~11,469 |
+| Horde breaker | 21.00% | ~11,469 |
+| Trained | 21.00% | ~11,469 |
 | The king is pleased | 17.00% | ~9,284 |
-| King Solomon | 16.00% | ~8,737 |
-| I can do it | 15.00% | ~8,191 |
-| Apple of my eye | 14.00% | ~7,645 |
+| King Solomon | 16.00% | ~8,738 |
+| I can do it | 15.00% | ~8,192 |
+| Apple of my eye | 14.00% | ~7,646 |
 | God of the Arena | 12.00% | ~6,553 |
 | Against all odds | 10.00% | ~5,461 |
 | Swordbearer | 10.00% | ~5,461 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,609 (Ranked 82)  
+Progressed: 54,612 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,9 +130,10 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 54,434 | 0 |
 | 2023-06-29 | 54,516 | 0 |
 | 2023-06-30 | 54,609 | 0 |
+| 2023-07-01 | 54,612 | 0 |
 ## Awards
 Max (Character Customization): 6,742  (Ranked 48)  
-Sum: 13,587 (Ranked 68)  
+Sum: 13,589 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -141,7 +142,7 @@ Diff (max vs sum): -20
 | This game has Diverse Characters | 845 |
 | This game is Highly Recommended | 809 |
 | This game is Extremely Fun | 769 |
-| This game has Amazing Storytelling | 764 |
+| This game has Amazing Storytelling | 766 |
 | This game is Relaxing | 746 |
 | This game has Amazing Characters | 744 |
 | This game has Quickly Understood Controls | 744 |
@@ -318,3 +319,4 @@ Diff (max vs sum): -20
 | 2023-06-28 | 4.74 | - | 6,730 | 13,563 |
 | 2023-06-29 | 4.74 | - | 6,738 | 13,576 |
 | 2023-06-30 | 4.74 | - | 6,742 | 13,587 |
+| 2023-07-01 | 4.74 | - | 6,742 | 13,589 |

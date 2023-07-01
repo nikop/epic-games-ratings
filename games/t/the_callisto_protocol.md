@@ -10,12 +10,12 @@ Rating: 4.20 (Ranked 834)
 | Keep Fighting | 0.60% | ~21 |
 | You Need a Gun | 0.50% | ~78 |
 | Two Heads Are Better Than One | 0.50% | ~78 |
+| Reforged | 0.50% | ~78 |
 | Giving Back | 0.40% | ~62 |
 | Flesh Wound | 0.40% | ~62 |
 | I Do Belong Here | 0.40% | ~62 |
 | Chew 'Em Up | 0.40% | ~62 |
 | Workplace Hazard | 0.40% | ~62 |
-| Reforged | 0.40% | ~62 |
 | If the SHU Fits... | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
 | In the Pipe, Five by Five | 0.40% | ~62 |

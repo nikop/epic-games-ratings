@@ -52,9 +52,9 @@ Rating: 4.35 (Ranked 733)
 | Master Editor | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
+| Goaaaaal! | 0.70% | ~8 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
-| Goaaaaal! | 0.60% | ~7 |
-| Attenborough | 0.40% | ~5 |
+| Attenborough | 0.50% | ~6 |
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,197 (Ranked 178)  

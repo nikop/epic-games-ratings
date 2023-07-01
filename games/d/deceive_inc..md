@@ -14,7 +14,7 @@ Rating: 4.64 (Ranked 312)
 | From the Vault with Love | 37.00% | ~2,606 |
 | Tailor-Made | 37.00% | ~2,606 |
 | Fully Decked Out | 35.00% | ~2,465 |
-| You Only Live Twice | 32.00% | ~2,254 |
+| You Only Live Twice | 33.00% | ~2,324 |
 | A view to Win | 27.00% | ~1,902 |
 | Smells Like Trouble | 25.00% | ~1,761 |
 | Assistant Accountant | 24.00% | ~1,690 |

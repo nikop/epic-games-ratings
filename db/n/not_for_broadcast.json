@@ -2,12 +2,12 @@
   "ID": "295ff85e965841c1bd754b69596df89a",
   "Name": "Not For Broadcast",
   "ProductSlug": "not-for-broadcast-7e523f",
-  "Ranking_Rating": 143,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-01-25T18:00:00+00:00",
@@ -88,6 +88,6 @@
   "FirstSeenRating": "2022-11-01T16:31:24.7823618+00:00",
   "LastChanged": "2023-06-27T08:58:23.4215688+00:00",
   "LastUpdate_AppInfo": "2023-06-23T23:57:53.5047577+00:00",
-  "LastUpdate_Ratings": "2023-06-30T22:58:24.3212301+00:00",
-  "LastUpdate_Achievements": "2023-06-30T23:04:28.407507+00:00"
+  "LastUpdate_Ratings": "2023-06-30T23:59:20.4475744+00:00",
+  "LastUpdate_Achievements": "2023-07-01T00:05:23.1748175+00:00"
 }
