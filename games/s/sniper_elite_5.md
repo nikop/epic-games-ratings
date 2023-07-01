@@ -8,25 +8,25 @@ Rating: 4.45 (Ranked 617)
 | Resourceful | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
+| Target America | 0.40% | ~13 |
 | No Stone Unturned | 0.30% | ~10 |
 | Opposing Force | 0.30% | ~10 |
 | Meeting Resistance | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Sharpshooter | 0.30% | ~10 |
 | Confirming Suspicions | 0.30% | ~10 |
+| Explosive Efficiency | 0.30% | ~10 |
 | Lord of War | 0.30% | ~10 |
 | Der Geist | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
 | It's Starting to Crack | 0.30% | ~10 |
 | Taking it back | 0.30% | ~10 |
-| Target America | 0.30% | ~10 |
 | Climbing the Ladder | 0.20% | ~6 |
 | Liberté | 0.20% | ~6 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
-| Explosive Efficiency | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
@@ -45,6 +45,7 @@ Rating: 4.45 (Ranked 617)
 | Tinkerer | 0.10% | ~3 |
 | It'll Buff Right Out | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
+| Road Rage | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Brains of the Operation | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
@@ -66,7 +67,6 @@ Rating: 4.45 (Ranked 617)
 | Master-at-arms | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
-| Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,173 (Ranked 145)  
+Progressed: 3,175 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
-| 2023-07-01 | 3,173 | 6 |
+| 2023-07-01 | 3,175 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

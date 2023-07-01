@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4527,
+  "EOS_Progressed": 4528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4031,6 +4031,11 @@
       "Time": "2023-07-01T02:38:02.3201434+00:00",
       "NumProgressed": 4527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T06:04:17.9074382+00:00",
+      "NumProgressed": 4528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4066,7 +4071,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -4082,7 +4087,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -4106,7 +4111,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4146,7 +4151,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -4154,7 +4159,7 @@
       "Name": "Going for Gold",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -4306,7 +4311,7 @@
       "Name": "Fish upon a Star",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -4321,13 +4326,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4527,
+      "Progressed": 4528,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3899,
+      "Progressed": 3900,
       "Completed": 112
     }
   ],
@@ -4335,8 +4340,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:04:16.1129112+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:04:17.9074372+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:01.0677572+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:59:38.3471729+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:04:16.1129609+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:59:44.8326449+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:04:17.9074872+00:00"
 }

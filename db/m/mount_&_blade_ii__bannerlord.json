@@ -5247,9 +5247,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54624,
+  "EOS_Progressed": 54625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12632,6 +12632,11 @@
       "Time": "2023-07-01T05:06:04.7591787+00:00",
       "NumProgressed": 54624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T06:06:05.2583198+00:00",
+      "NumProgressed": 54625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12651,7 +12656,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7647
+      "UsersEstimate": 7648
     },
     {
       "ID": "Bannerlord",
@@ -12851,7 +12856,7 @@
       "Name": "Know your enemy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "Lance-a-lot",
@@ -12867,7 +12872,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16933
+      "UsersEstimate": 16934
     },
     {
       "ID": "Lawbringer",
@@ -12883,7 +12888,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12018
     },
     {
       "ID": "Long live the Empire",
@@ -13050,15 +13055,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54624,
+      "Progressed": 54625,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-01T02:33:21.1439156+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:06:04.7591783+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:06:05.2583187+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:59:34.0550534+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:06:04.7592633+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:59:41.4157668+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:06:05.2584164+00:00"
 }

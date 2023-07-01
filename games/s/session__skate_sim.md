@@ -10,8 +10,8 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 26.00% | ~647 |
 | Welcome to the family | 19.00% | ~473 |
 | The finer things in life | 17.00% | ~423 |
-| Backpacker | 12.00% | ~298 |
-| Go with the Flow | 12.00% | ~298 |
+| Backpacker | 12.00% | ~299 |
+| Go with the Flow | 12.00% | ~299 |
 | Plastic Surgeon | 9.00% | ~224 |
 | Good vibes | 8.00% | ~199 |
 | Keep the dream alive | 8.00% | ~199 |
@@ -30,16 +30,16 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~124 |
 | Squad goals | 5.00% | ~124 |
 | Sup widdit big dog! | 5.00% | ~124 |
-| Commence the Hijinx! | 4.00% | ~99 |
-| Cops called! | 4.00% | ~99 |
-| DIY Boss | 4.00% | ~99 |
-| Laid back | 4.00% | ~99 |
-| Lines for days | 4.00% | ~99 |
-| Manny Destroys All | 4.00% | ~99 |
-| Prince of Philly | 4.00% | ~99 |
-| Renaissance man | 4.00% | ~99 |
-| Tank commander | 4.00% | ~99 |
-| Trick shot marksman | 4.00% | ~99 |
+| Commence the Hijinx! | 4.00% | ~100 |
+| Cops called! | 4.00% | ~100 |
+| DIY Boss | 4.00% | ~100 |
+| Laid back | 4.00% | ~100 |
+| Lines for days | 4.00% | ~100 |
+| Manny Destroys All | 4.00% | ~100 |
+| Prince of Philly | 4.00% | ~100 |
+| Renaissance man | 4.00% | ~100 |
+| Tank commander | 4.00% | ~100 |
+| Trick shot marksman | 4.00% | ~100 |
 | G.O.A.T. status | 3.00% | ~75 |
 | Hoarder | 3.00% | ~75 |
 | We get it, you're good | 3.00% | ~75 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,487 (Ranked 154)  
+Progressed: 2,488 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-26 | 2,482 | 0 |
 | 2023-06-27 | 2,486 | 0 |
 | 2023-06-29 | 2,487 | 0 |
+| 2023-07-01 | 2,488 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 397)  
 Sum: 431 (Ranked 303)  

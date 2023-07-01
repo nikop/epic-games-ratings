@@ -16,15 +16,15 @@ Rating: 4.59 (Ranked 410)
 | Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | Here be Dragons | 0.90% | ~44 |
+| Bone Peddler | 0.80% | ~39 |
 | Stronger Together | 0.80% | ~39 |
-| Bone Peddler | 0.70% | ~34 |
 | Seat of Power | 0.70% | ~34 |
 | Fiery Friend | 0.70% | ~34 |
+| Against the Odds | 0.70% | ~34 |
 | Impenetrable Fortress | 0.70% | ~34 |
 | Intimidation Tactics | 0.70% | ~34 |
 | There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
-| Against the Odds | 0.60% | ~29 |
 | Duality | 0.60% | ~29 |
 | Return of the Wizard King | 0.50% | ~24 |
 | Arch Mage | 0.50% | ~24 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,887 (Ranked 134)  
+Progressed: 4,888 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 4 (0.08%) (Ranked 187)
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
-| 2023-07-01 | 4,887 | 4 |
+| 2023-07-01 | 4,888 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4887,
+  "EOS_Progressed": 4888,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4756,6 +4756,11 @@
       "Time": "2023-07-01T05:05:10.0853189+00:00",
       "NumProgressed": 4887,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T06:05:11.4289545+00:00",
+      "NumProgressed": 4888,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4909,9 +4914,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "27",
@@ -5005,9 +5010,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "38",
@@ -5166,13 +5171,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4887,
+      "Progressed": 4888,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4887,
+      "Progressed": 4888,
       "Completed": 4
     }
   ],
@@ -5180,8 +5185,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:05:10.0853182+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:05:11.4289532+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:59:22.1206385+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:05:10.0853934+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:59:28.6892282+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:05:11.4290252+00:00"
 }

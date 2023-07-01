@@ -118,12 +118,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 15.00% | ~1,866 |
 | Revelation | 15.00% | ~1,866 |
 | Win a Single Player Game | 15.00% | ~1,866 |
+| Regicide | 14.00% | ~1,741 |
 | Devout | 14.00% | ~1,741 |
 | Church of the Holy Sepulchre | 14.00% | ~1,741 |
 | Babylonia | 14.00% | ~1,741 |
 | Carthage | 14.00% | ~1,741 |
 | Turreted Elephant | 14.00% | ~1,741 |
-| Regicide | 13.00% | ~1,617 |
 | Clerics | 13.00% | ~1,617 |
 | Rome | 13.00% | ~1,617 |
 | Peacemaker | 12.00% | ~1,493 |

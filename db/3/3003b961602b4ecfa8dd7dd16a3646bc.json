@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -275,8 +275,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:03:35.0096845+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:03:37.44076+00:00",
   "LastUpdate_AppInfo": "2023-06-25T13:57:06.6510386+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:57:00.2530932+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:03:35.0097041+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:57:09.9183817+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:03:37.4407797+00:00"
 }

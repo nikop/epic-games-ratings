@@ -5640,9 +5640,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 790323,
+  "EOS_Progressed": 790325,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13265,6 +13265,11 @@
       "Time": "2023-07-01T05:06:05.7922044+00:00",
       "NumProgressed": 790323,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-07-01T06:06:06.3000741+00:00",
+      "NumProgressed": 790325,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 82,
@@ -13356,7 +13361,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 245000
+      "UsersEstimate": 245001
     },
     {
       "ID": "Bookworm",
@@ -13364,7 +13369,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 110645
+      "UsersEstimate": 110646
     },
     {
       "ID": "Buddy",
@@ -13380,7 +13385,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47419
+      "UsersEstimate": 47420
     },
     {
       "ID": "Cavalier",
@@ -13476,7 +13481,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 181774
+      "UsersEstimate": 181775
     },
     {
       "ID": "Fighter",
@@ -13492,7 +13497,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118548
+      "UsersEstimate": 118549
     },
     {
       "ID": "Freud",
@@ -13931,15 +13936,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 790323,
+      "Progressed": 790325,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-01T03:28:03.9138155+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:06:05.7922039+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:06:06.3000731+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:02.8494084+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:58:23.1451659+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:06:05.792345+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:58:32.902916+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:06:06.3002824+00:00"
 }

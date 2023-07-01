@@ -6,19 +6,19 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,361 |
-| The Mad Wizard | 10.00% | ~20,258 |
-| The Ring of Regeneration | 6.00% | ~12,154 |
-| Are Ya Chicken? | 6.00% | ~12,154 |
-| Were-verpowered | 5.00% | ~10,129 |
-| Friendly Imps | 5.00% | ~10,129 |
-| Seeking Allies | 4.00% | ~8,103 |
-| Mad Cow Disease | 4.00% | ~8,103 |
-| Pure Energy | 4.00% | ~8,103 |
-| A Persistent Buzzing | 3.00% | ~6,077 |
-| Terror in the Dark | 3.00% | ~6,077 |
-| The Crumbling Temple | 3.00% | ~6,077 |
-| The Contagious Curse | 3.00% | ~6,077 |
+| The Cursed Farmer | 14.00% | ~28,367 |
+| The Mad Wizard | 10.00% | ~20,262 |
+| The Ring of Regeneration | 6.00% | ~12,157 |
+| Are Ya Chicken? | 6.00% | ~12,157 |
+| Were-verpowered | 5.00% | ~10,131 |
+| Friendly Imps | 5.00% | ~10,131 |
+| Seeking Allies | 4.00% | ~8,105 |
+| Mad Cow Disease | 4.00% | ~8,105 |
+| Pure Energy | 4.00% | ~8,105 |
+| A Persistent Buzzing | 3.00% | ~6,079 |
+| Terror in the Dark | 3.00% | ~6,079 |
+| The Crumbling Temple | 3.00% | ~6,079 |
+| The Contagious Curse | 3.00% | ~6,079 |
 | Beast Mode | 2.00% | ~4,052 |
 | A Mysterious Summons | 2.00% | ~4,052 |
 | Unearthed Evil | 2.00% | ~4,052 |
@@ -38,11 +38,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,026 |
 | The Templar's Camp | 1.00% | ~2,026 |
 | Rescue in the Jungle | 1.00% | ~2,026 |
-| Invisible Shadows | 0.90% | ~1,823 |
-| The Botched Kidnapping | 0.90% | ~1,823 |
-| Premature Betrayal | 0.90% | ~1,823 |
-| Close Escort | 0.90% | ~1,823 |
-| Constant Banditry | 0.90% | ~1,823 |
+| Invisible Shadows | 0.90% | ~1,824 |
+| The Botched Kidnapping | 0.90% | ~1,824 |
+| Premature Betrayal | 0.90% | ~1,824 |
+| Close Escort | 0.90% | ~1,824 |
+| Constant Banditry | 0.90% | ~1,824 |
 | Homecoming | 0.80% | ~1,621 |
 | Street War | 0.80% | ~1,621 |
 | Trollskull Manor | 0.80% | ~1,621 |
@@ -51,15 +51,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.70% | ~1,418 |
 | Attack on the Manor | 0.70% | ~1,418 |
 | Lost in the Deep | 0.70% | ~1,418 |
-| The Forbidden City | 0.60% | ~1,215 |
-| Captured! | 0.60% | ~1,215 |
-| Wisdom Check | 0.60% | ~1,215 |
-| The Mists of Ravenloft | 0.60% | ~1,215 |
-| Nimble Escape | 0.60% | ~1,215 |
-| The Dead Three | 0.60% | ~1,215 |
-| The Long Haul | 0.60% | ~1,215 |
-| Easily Distracted | 0.60% | ~1,215 |
-| The Haunted Jungle | 0.60% | ~1,215 |
+| The Forbidden City | 0.60% | ~1,216 |
+| Captured! | 0.60% | ~1,216 |
+| Wisdom Check | 0.60% | ~1,216 |
+| The Mists of Ravenloft | 0.60% | ~1,216 |
+| Nimble Escape | 0.60% | ~1,216 |
+| The Dead Three | 0.60% | ~1,216 |
+| The Long Haul | 0.60% | ~1,216 |
+| Easily Distracted | 0.60% | ~1,216 |
+| The Haunted Jungle | 0.60% | ~1,216 |
 | A Grand Puzzle | 0.50% | ~1,013 |
 | Tomb of the Nine Gods | 0.50% | ~1,013 |
 | Family Entanglements | 0.50% | ~1,013 |
@@ -93,7 +93,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Dragons | 0.40% | ~810 |
 | Elturel Has Fallen | 0.40% | ~810 |
 | Resolve Amongst Chaos | 0.40% | ~810 |
-| The Everlasting Rime | 0.40% | ~675 |
+| The Everlasting Rime | 0.40% | ~676 |
 | Expert Opinion | 0.40% | ~810 |
 | Poor Guidance | 0.40% | ~810 |
 | Anti-Dexterous Explorers | 0.30% | ~608 |
@@ -115,6 +115,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Our Time To Shine | 0.30% | ~608 |
 | A Saurial's Resolve | 0.30% | ~608 |
 | Nimblest Escape | 0.30% | ~608 |
+| From The Shadows | 0.30% | ~608 |
 | Excavating History | 0.30% | ~608 |
 | Towering Expectations | 0.30% | ~608 |
 | Cramped Quarters | 0.30% | ~608 |
@@ -155,11 +156,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~405 |
 | Visions of Strahd | 0.20% | ~405 |
 | Seeds of Corruption | 0.20% | ~405 |
+| Home Not So Alone | 0.20% | ~338 |
 | A Saurial's Lament | 0.20% | ~405 |
 | The Killer Mists | 0.20% | ~405 |
 | Diversity Day-Trip | 0.20% | ~405 |
 | Stumbling Escape | 0.20% | ~405 |
-| From The Shadows | 0.20% | ~405 |
 | Spined Nuisances | 0.20% | ~405 |
 | Screams of the Dead | 0.20% | ~405 |
 | Bazaar Exploits | 0.20% | ~405 |
@@ -259,7 +260,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distribute Your Weight | 0.10% | ~203 |
 | Mongrelfolk Incursion | 0.10% | ~169 |
 | The Strahd Squad | 0.10% | ~169 |
-| Home Not So Alone | 0.10% | ~169 |
 | Review by the Blackstaff | 0.10% | ~169 |
 | Think Your Way Out Of It | 0.10% | ~203 |
 | Air's Getting Pretty Thin | 0.10% | ~203 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,575 (Ranked 52)  
+Progressed: 202,622 (Ranked 52)  
 Completed: 2,022 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,022 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 202,575 | 2,022 |
+| 2023-07-01 | 202,622 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,329 (Ranked 37)  

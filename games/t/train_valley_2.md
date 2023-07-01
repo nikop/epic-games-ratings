@@ -28,10 +28,10 @@ Number of Ratings: 87  (23.09.2022)
 | Pink Ruby | 4.00% | ~3 |
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
-| Trapiche Emerald | 4.00% | ~3 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
-| Star Sapphire | 3.00% | ~2 |
+| Star Sapphire | 3.00% | ~3 |
+| Trapiche Emerald | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~22 |
 | At the last moment! | 2.00% | ~15 |
 | Beginner | 2.00% | ~15 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 195)  
+Progressed: 743 (Ranked 195)  
 Completed: 1 (0.13%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 1 (0.13%) (Ranked 174)
 | 2023-06-20 | 740 | 1 |
 | 2023-06-26 | 741 | 1 |
 | 2023-06-29 | 742 | 1 |
+| 2023-07-01 | 743 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 367)  
 Sum: 72 (Ranked 425)  

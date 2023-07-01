@@ -10,13 +10,13 @@
 | Cartographer | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
+| Make Up For Lost Time | 13.00% | ~95 |
 | Time Flies | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
 | The Family Fortune | 13.00% | ~95 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
-| Make Up For Lost Time | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
 | No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |

@@ -11,10 +11,10 @@ Rating: 4.45 (Ranked 617)
 | I just can't choose | 25.00% | ~259 |
 | A Cheese Grater to the Face | 20.00% | ~207 |
 | Put it on a shelf | 19.00% | ~197 |
-| It's like an haircut | 18.00% | ~186 |
+| It's like an haircut | 18.00% | ~187 |
 | Suit up | 17.00% | ~176 |
 | Ride in the rising sun | 16.00% | ~166 |
-| Walked like an Egyptian | 15.00% | ~155 |
+| Walked like an Egyptian | 15.00% | ~156 |
 | Rookie No-No More | 13.00% | ~135 |
 | Running at the speed of sound | 13.00% | ~135 |
 | Martian explorer | 12.00% | ~124 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 617)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,036 (Ranked 183)  
+Progressed: 1,037 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-27 | 1,032 | 0 |
 | 2023-06-29 | 1,033 | 0 |
 | 2023-06-30 | 1,035 | 0 |
-| 2023-07-01 | 1,036 | 0 |
+| 2023-07-01 | 1,037 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

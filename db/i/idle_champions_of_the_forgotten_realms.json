@@ -4642,9 +4642,9 @@
       "Count": 3282
     }
   ],
-  "EOS_Progressed": 202575,
+  "EOS_Progressed": 202622,
   "EOS_Completed": 2022,
-  "EOS_NewPlayers": 57589,
+  "EOS_NewPlayers": 57103,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -12162,6 +12162,11 @@
       "Time": "2023-07-01T05:06:12.019632+00:00",
       "NumProgressed": 202575,
       "NumCompleted": 2022
+    },
+    {
+      "Time": "2023-07-01T06:06:12.3171056+00:00",
+      "NumProgressed": 202622,
+      "NumCompleted": 2022
     }
   ],
   "TotalAchievements": 503,
@@ -13037,7 +13042,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10131
     },
     {
       "ID": "objective_completed_1203",
@@ -13149,7 +13154,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6079
     },
     {
       "ID": "objective_completed_130",
@@ -13285,7 +13290,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_15",
@@ -13293,7 +13298,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6079
     },
     {
       "ID": "objective_completed_150",
@@ -13325,7 +13330,7 @@
       "Name": "Captured!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_155",
@@ -13413,7 +13418,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_171",
@@ -13517,7 +13522,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_209",
@@ -13533,7 +13538,7 @@
       "Name": "Invisible Shadows",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "objective_completed_210",
@@ -13621,7 +13626,7 @@
       "Name": "The Botched Kidnapping",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "objective_completed_236",
@@ -13803,9 +13808,9 @@
       "ID": "objective_completed_281",
       "SetID": "415jc5c",
       "Name": "Home Not So Alone",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 338
     },
     {
       "ID": "objective_completed_283",
@@ -13845,7 +13850,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 28361
+      "UsersEstimate": 28367
     },
     {
       "ID": "objective_completed_34",
@@ -13853,7 +13858,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12154
+      "UsersEstimate": 12157
     },
     {
       "ID": "objective_completed_35",
@@ -13861,7 +13866,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6079
     },
     {
       "ID": "objective_completed_36",
@@ -13965,7 +13970,7 @@
       "Name": "Seeking Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8105
     },
     {
       "ID": "objective_completed_390",
@@ -14021,7 +14026,7 @@
       "Name": "Nimble Escape",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_399",
@@ -14037,7 +14042,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12154
+      "UsersEstimate": 12157
     },
     {
       "ID": "objective_completed_40",
@@ -14075,9 +14080,9 @@
       "ID": "objective_completed_404",
       "SetID": "cc37lbc",
       "Name": "From The Shadows",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 608
     },
     {
       "ID": "objective_completed_405",
@@ -14117,7 +14122,7 @@
       "Name": "Premature Betrayal",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "objective_completed_410",
@@ -14309,7 +14314,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8105
     },
     {
       "ID": "objective_completed_54",
@@ -14357,7 +14362,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_546",
@@ -14717,7 +14722,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6079
     },
     {
       "ID": "objective_completed_60",
@@ -15285,7 +15290,7 @@
       "Name": "The Everlasting Rime",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "objective_completed_696",
@@ -15317,7 +15322,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 20258
+      "UsersEstimate": 20262
     },
     {
       "ID": "objective_completed_70",
@@ -15325,7 +15330,7 @@
       "Name": "Close Escort",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "objective_completed_71",
@@ -15333,7 +15338,7 @@
       "Name": "Constant Banditry",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "objective_completed_72",
@@ -15341,7 +15346,7 @@
       "Name": "The Long Haul",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_74",
@@ -15365,7 +15370,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_77",
@@ -15389,7 +15394,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10129
+      "UsersEstimate": 10131
     },
     {
       "ID": "objective_completed_80",
@@ -15917,7 +15922,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8105
     },
     {
       "ID": "objective_completed_902",
@@ -16053,7 +16058,7 @@
       "Name": "The Haunted Jungle",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "objective_completed_96",
@@ -16196,21 +16201,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 168849,
+      "Progressed": 168896,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 202575,
+      "Progressed": 202622,
       "Completed": 2022
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-01T03:27:43.1952792+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:06:12.0196313+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:06:12.3171048+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:58:07.2705771+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:06:12.0221748+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:58:17.7183692+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:06:12.3202319+00:00"
 }

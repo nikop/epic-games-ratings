@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -516,6 +516,11 @@
     {
       "Time": "2023-06-29T09:05:51.3603521+00:00",
       "NumProgressed": 742,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T06:04:40.9212929+00:00",
+      "NumProgressed": 743,
       "NumCompleted": 1
     }
   ],
@@ -992,7 +997,7 @@
       "Name": "Star Sapphire",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AchievementStargazer",
@@ -1054,7 +1059,7 @@
       "ID": "AchievementTrapicheEmerald_NAME",
       "SetID": "55bbbe2",
       "Name": "Trapiche Emerald",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1127,21 +1132,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:04:39.027308+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:04:40.9212916+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.7563468+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:57:36.7240398+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:04:39.0273888+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:57:46.7128219+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:04:40.9213736+00:00"
 }

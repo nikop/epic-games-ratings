@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,543 |
-| Rookie | 25.00% | ~7,253 |
-| Nomad | 18.00% | ~5,222 |
-| Picking Up Speed | 17.00% | ~4,932 |
-| Welcome Maya | 16.00% | ~4,642 |
-| Sightseer | 11.00% | ~3,191 |
-| Scout | 10.00% | ~2,901 |
-| Amateur | 9.00% | ~2,611 |
-| Wanderer | 9.00% | ~2,611 |
-| Enter Paz | 8.00% | ~2,321 |
+| Finding Your Footing | 26.00% | ~7,545 |
+| Rookie | 25.00% | ~7,255 |
+| Nomad | 18.00% | ~5,224 |
+| Picking Up Speed | 17.00% | ~4,934 |
+| Welcome Maya | 16.00% | ~4,643 |
+| Sightseer | 11.00% | ~3,192 |
+| Scout | 10.00% | ~2,902 |
+| Amateur | 9.00% | ~2,612 |
+| Wanderer | 9.00% | ~2,612 |
+| Enter Paz | 8.00% | ~2,322 |
 | Unlock Maya | 7.00% | ~2,031 |
 | Aviator | 6.00% | ~1,741 |
 | One With The Board | 6.00% | ~1,741 |
 | My Little Friend | 5.00% | ~1,451 |
 | Voyager | 5.00% | ~1,451 |
-| Sandboarder | 4.00% | ~1,160 |
-| Izel Has Arrived | 4.00% | ~1,160 |
-| Junkie | 3.00% | ~870 |
-| Traveler | 3.00% | ~870 |
-| Journeyer | 3.00% | ~870 |
-| Unlock Paz | 3.00% | ~870 |
+| Sandboarder | 4.00% | ~1,161 |
+| Izel Has Arrived | 4.00% | ~1,161 |
+| Junkie | 3.00% | ~871 |
+| Traveler | 3.00% | ~871 |
+| Journeyer | 3.00% | ~871 |
+| Unlock Paz | 3.00% | ~871 |
 | Pro | 2.00% | ~580 |
 | Human Flight | 2.00% | ~580 |
 | Here Comes Felipe | 2.00% | ~580 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~29 |
 | Windswept | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,011 (Ranked 93)  
+Progressed: 29,021 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 5 (0.02%) (Ranked 211)
 | 2023-06-28 | 28,676 | 5 |
 | 2023-06-29 | 28,828 | 5 |
 | 2023-06-30 | 28,975 | 5 |
-| 2023-07-01 | 29,011 | 5 |
+| 2023-07-01 | 29,021 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 350 (Ranked 322)  

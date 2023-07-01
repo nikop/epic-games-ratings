@@ -1908,9 +1908,9 @@
       "ID": "call_of_mana_1",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "call_of_mana_2",
@@ -2100,9 +2100,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "glitter_of_gold_2",
@@ -2395,8 +2395,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:02:23.6216023+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:02:16.0095296+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-07-01T04:57:08.364363+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:02:23.6217842+00:00"
+  "LastUpdate_Ratings": "2023-07-01T05:57:18.0118095+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:02:16.0096029+00:00"
 }

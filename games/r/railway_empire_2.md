@@ -12,7 +12,7 @@ Rating: 4.38 (Ranked 708)
 | Way of Iron | 69.00% | ~992 |
 | Mystery Tour | 67.00% | ~963 |
 | We brake for nobody | 66.00% | ~949 |
-| Brainstorm | 64.00% | ~920 |
+| Brainstorm | 65.00% | ~935 |
 | Travel Company | 64.00% | ~920 |
 | Mind the Gap | 63.00% | ~906 |
 | All around the World | 61.00% | ~877 |
@@ -37,8 +37,8 @@ Rating: 4.38 (Ranked 708)
 | Seven at one stroke | 23.00% | ~331 |
 | Trailblazer | 20.00% | ~288 |
 | Breaking Ground | 19.00% | ~273 |
+| Traffic Jam | 18.00% | ~259 |
 | Traffic Junction | 18.00% | ~259 |
-| Traffic Jam | 17.00% | ~244 |
 | Assimilated | 16.00% | ~230 |
 | Locusts | 16.00% | ~230 |
 | Networker | 16.00% | ~230 |

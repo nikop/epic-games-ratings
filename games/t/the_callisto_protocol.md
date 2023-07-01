@@ -31,6 +31,7 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 0.30% | ~11 |
 | In Striking Distance | 0.20% | ~31 |
 | This Isn't About Escape | 0.20% | ~7 |
+| One Last Job | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Armed to the Teeth | 0.10% | ~4 |
 | Grim Reaper | 0.10% | ~16 |
@@ -46,7 +47,6 @@ Rating: 4.19 (Ranked 844)
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | Information Overload | 0.10% | ~4 |
-| One Last Job | 0.10% | ~4 |
 | Quick Pick | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |

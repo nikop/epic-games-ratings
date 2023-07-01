@@ -622,9 +622,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 252166,
+  "EOS_Progressed": 252168,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7882,6 +7882,11 @@
       "Time": "2023-07-01T05:04:16.9561539+00:00",
       "NumProgressed": 252166,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-01T06:04:18.7972811+00:00",
+      "NumProgressed": 252168,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -7941,7 +7946,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78171
+      "UsersEstimate": 78172
     },
     {
       "ID": "BackHomeNTimes",
@@ -7981,7 +7986,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "CompleteBestiary",
@@ -8013,7 +8018,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "CreedsInBank1",
@@ -8309,7 +8314,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "TakeHomeNHearts",
@@ -8317,7 +8322,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "UnlockAllAchievements",
@@ -8340,7 +8345,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252166,
+      "Progressed": 252168,
       "Completed": 2
     }
   ],
@@ -8348,8 +8353,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-06-29T22:01:21.9237909+00:00",
-  "LastChanged_Achievements": "2023-07-01T05:04:16.9561533+00:00",
+  "LastChanged_Achievements": "2023-07-01T06:04:18.79728+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:00:04.6133309+00:00",
-  "LastUpdate_Achievements": "2023-07-01T05:04:16.9562468+00:00"
+  "LastUpdate_Ratings": "2023-07-01T06:00:10.0381889+00:00",
+  "LastUpdate_Achievements": "2023-07-01T06:04:18.7974093+00:00"
 }
