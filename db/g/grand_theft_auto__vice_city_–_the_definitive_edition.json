@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 118,
@@ -508,9 +508,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8837,
+  "EOS_Progressed": 8838,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5763,6 +5763,11 @@
       "Time": "2023-07-01T19:02:23.2609783+00:00",
       "NumProgressed": 8837,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-01T21:02:12.3999597+00:00",
+      "NumProgressed": 8838,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -5798,7 +5803,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH05",
@@ -5830,7 +5835,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH09",
@@ -5934,7 +5939,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "ACH22",
@@ -6045,7 +6050,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8837,
+      "Progressed": 8838,
       "Completed": 41
     }
   ],
@@ -6053,8 +6058,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:02:10.3524452+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:02:12.399959+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:58:36.8524958+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:02:10.3525405+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:58:38.243691+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:02:12.4000643+00:00"
 }

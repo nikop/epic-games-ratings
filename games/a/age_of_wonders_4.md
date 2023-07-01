@@ -25,17 +25,17 @@ Rating: 4.59 (Ranked 410)
 | Full Ascension | 0.80% | ~39 |
 | Preparation Is Everything | 0.80% | ~39 |
 | Seat of Power | 0.80% | ~39 |
+| Against the Odds | 0.80% | ~39 |
 | Digging for Treasure | 0.70% | ~34 |
 | In a Liege of Your Own | 0.70% | ~34 |
-| Against the Odds | 0.70% | ~34 |
 | Duality | 0.70% | ~34 |
 | Valley of Wonders | 0.60% | ~29 |
 | Return of the Wizard King | 0.60% | ~29 |
 | Arch Mage | 0.60% | ~29 |
+| The Magic That Empowers Me! | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
 | Enchanted Archipelago | 0.50% | ~24 |
 | Eternal Lord | 0.50% | ~24 |
-| The Magic That Empowers Me! | 0.40% | ~20 |
 | God Emperor | 0.40% | ~20 |
 | Lord of Chaos | 0.40% | ~20 |
 | The Goddess of Nature | 0.40% | ~20 |

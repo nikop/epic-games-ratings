@@ -42,14 +42,14 @@ Rating: 4.37 (Ranked 718)
 | Chain Reaction | 9.00% | ~108 |
 | Side Order | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
+| Silent but Violent | 8.00% | ~96 |
 | Bot Whisperer | 7.00% | ~84 |
-| Silent but Violent | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
+| Master Editor | 2.00% | ~24 |
 | Attenborough | 1.00% | ~12 |
 | Five Finger Deathcount | 1.00% | ~12 |
-| Master Editor | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |

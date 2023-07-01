@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13633,
+  "EOS_Progressed": 13634,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5279,6 +5279,11 @@
       "Time": "2023-07-01T20:06:32.7482771+00:00",
       "NumProgressed": 13633,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-01T21:06:06.1052764+00:00",
+      "NumProgressed": 13634,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5330,7 +5335,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "tpote_achievement_15",
@@ -5378,7 +5383,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "tpote_achievement_20",
@@ -5394,7 +5399,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "tpote_achievement_22",
@@ -5617,15 +5622,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13633,
+      "Progressed": 13634,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:06:32.7482766+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:06:06.1052759+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:00:33.1612386+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:06:32.748386+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:00:09.3705957+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:06:06.1053901+00:00"
 }

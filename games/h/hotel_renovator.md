@@ -5,35 +5,35 @@ Rating: 4.53 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~640 |
-| And so it begins | 72.00% | ~606 |
-| No pressure | 69.00% | ~581 |
-| Memento | 62.00% | ~522 |
-| Let there be light | 59.00% | ~497 |
-| I think you dropped this | 55.00% | ~463 |
-| Soulmate? | 53.00% | ~446 |
-| Excellent service | 48.00% | ~404 |
-| Roll with it | 46.00% | ~387 |
+| Good start | 76.00% | ~641 |
+| And so it begins | 72.00% | ~607 |
+| No pressure | 69.00% | ~582 |
+| Memento | 61.00% | ~514 |
+| Let there be light | 58.00% | ~489 |
+| I think you dropped this | 54.00% | ~455 |
+| Soulmate? | 53.00% | ~447 |
+| Excellent service | 48.00% | ~405 |
+| Roll with it | 46.00% | ~388 |
 | Humble beginnings | 43.00% | ~362 |
 | Love is in the air | 43.00% | ~362 |
-| Fine, I'll do it myself | 41.00% | ~345 |
-| Moving up | 41.00% | ~345 |
-| No need to call anyone | 39.00% | ~328 |
-| Big fortune | 32.00% | ~269 |
+| Fine, I'll do it myself | 41.00% | ~346 |
+| Moving up | 41.00% | ~346 |
+| No need to call anyone | 39.00% | ~329 |
+| Big fortune | 32.00% | ~270 |
 | Still more work ahead | 28.00% | ~236 |
-| Hotel sleuthing | 27.00% | ~227 |
+| Hotel sleuthing | 27.00% | ~228 |
 | Aesop's fable | 26.00% | ~219 |
-| Kaboom | 25.00% | ~210 |
+| Kaboom | 25.00% | ~211 |
 | Nearly there | 24.00% | ~202 |
 | Broken heart | 22.00% | ~185 |
-| Island boy | 20.00% | ~168 |
+| Island boy | 20.00% | ~169 |
 | Unstoppable | 18.00% | ~152 |
 | You're a star | 18.00% | ~152 |
 | Reunited | 17.00% | ~143 |
 | King of hospitality | 11.00% | ~93 |
 | Top spot in town | 3.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 842 (Ranked 191)  
+Progressed: 843 (Ranked 191)  
 Completed: 15 (1.78%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 15 (1.78%) (Ranked 81)
 | 2023-06-26 | 839 | 15 |
 | 2023-06-28 | 841 | 15 |
 | 2023-06-29 | 842 | 15 |
+| 2023-07-01 | 843 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

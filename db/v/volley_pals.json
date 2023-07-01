@@ -4,8 +4,8 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 69,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 32,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 21.74,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 23.19,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -349,6 +349,11 @@
       "Time": "2023-07-01T18:07:07.7956027+00:00",
       "NumProgressed": 69,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-01T21:06:00.3378503+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 10,
@@ -430,9 +435,9 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -440,12 +445,12 @@
       "ID": "1fnbp5h",
       "IsBase": true,
       "Progressed": 69,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:06:25.891228+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:06:00.3378497+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.844109+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:57:32.8578914+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:06:25.8912478+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:57:44.386054+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:06:00.3378651+00:00"
 }

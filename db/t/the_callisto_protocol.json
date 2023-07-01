@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -824,7 +824,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15609,
+  "EOS_Progressed": 15610,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 5,
@@ -5084,6 +5084,11 @@
       "Time": "2023-07-01T20:05:24.3502136+00:00",
       "NumProgressed": 15609,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T21:05:12.9029801+00:00",
+      "NumProgressed": 15610,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5125,9 +5130,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5221,9 +5226,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "KILL_ROBOT",
@@ -5453,9 +5458,9 @@
       "ID": "KINETIC_HAMMER",
       "SetID": "6j5ggkc",
       "Name": "It\u0027s Time",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -5470,13 +5475,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15609,
+      "Progressed": 15610,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3535,
+      "Progressed": 3536,
       "Completed": 29
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T17:58:22.7369369+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:05:24.3502132+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:05:12.9029795+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:58:11.6666196+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:05:24.3502851+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:58:16.928764+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:05:12.9030973+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3090,
+  "EOS_Progressed": 3092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1668,6 +1668,11 @@
       "Time": "2023-07-01T20:04:31.5925732+00:00",
       "NumProgressed": 3090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T21:04:31.1889432+00:00",
+      "NumProgressed": 3092,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1807,7 +1812,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_M_D1",
@@ -1983,7 +1988,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_OB_LS",
@@ -2015,7 +2020,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_OB_SD",
@@ -2055,7 +2060,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_R_A",
@@ -2182,7 +2187,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3090,
+      "Progressed": 3092,
       "Completed": 0
     }
   ],
@@ -2190,8 +2195,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:04:31.5925726+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:04:31.1889425+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:00:16.3985937+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:04:31.5926586+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:59:56.5417881+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:04:31.1890723+00:00"
 }

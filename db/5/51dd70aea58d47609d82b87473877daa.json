@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_HOUND",
@@ -459,9 +459,9 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -506,8 +506,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:04:00.8321371+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:04:05.741372+00:00",
   "LastUpdate_AppInfo": "2023-06-29T22:56:52.4959381+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:57:13.8595735+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:04:00.8321628+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:57:29.1721484+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:04:05.741396+00:00"
 }

@@ -1097,7 +1097,7 @@
   ],
   "EOS_Progressed": 6987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7072,9 +7072,9 @@
       "ID": "10",
       "SetID": "8idi9ml",
       "Name": "Friendly",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1188
     },
     {
       "ID": "11",
@@ -7544,8 +7544,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:04:01.108474+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:04:06.0837329+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:00:31.3400893+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:04:01.1085993+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:00:07.9821234+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:04:06.083903+00:00"
 }

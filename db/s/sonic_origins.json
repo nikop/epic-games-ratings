@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -259,8 +259,8 @@
   ],
   "EOS_Progressed": 215,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 90,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 86,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 12.09,
   "EosHistory": [
     {
@@ -799,9 +799,9 @@
       "ID": "ID_02_SONICCD_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic CD",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -847,9 +847,9 @@
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Shut Down Metal Sonic",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
@@ -1023,9 +1023,9 @@
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Super Sonic",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
@@ -1079,8 +1079,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-01T13:57:43.3975367+00:00",
-  "LastChanged_Achievements": "2023-07-01T20:06:28.9667151+00:00",
+  "LastChanged_Achievements": "2023-07-01T21:06:02.992283+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-01T19:58:06.0622393+00:00",
-  "LastUpdate_Achievements": "2023-07-01T20:06:28.9667641+00:00"
+  "LastUpdate_Ratings": "2023-07-01T20:58:13.180715+00:00",
+  "LastUpdate_Achievements": "2023-07-01T21:06:02.9923276+00:00"
 }
