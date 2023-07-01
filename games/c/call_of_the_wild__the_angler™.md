@@ -6,15 +6,15 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 76.00% | ~3,444 |
-| Hey Good Hookin | 66.00% | ~2,991 |
-| I'm on a Boat! | 56.00% | ~2,538 |
-| Can you smell what the Rod is Hooking | 50.00% | ~2,266 |
-| Scaling up | 50.00% | ~2,266 |
-| Ready to Rod and Roll | 42.00% | ~1,903 |
-| More Fish in the Sea | 41.00% | ~1,858 |
+| Fish Just Got Reel | 76.00% | ~3,446 |
+| Hey Good Hookin | 66.00% | ~2,992 |
+| I'm on a Boat! | 56.00% | ~2,539 |
+| Can you smell what the Rod is Hooking | 50.00% | ~2,267 |
+| Scaling up | 50.00% | ~2,267 |
+| Ready to Rod and Roll | 42.00% | ~1,904 |
+| More Fish in the Sea | 41.00% | ~1,859 |
 | License to Gill | 33.00% | ~1,496 |
-| Fish Out of Water | 32.00% | ~1,450 |
+| Fish Out of Water | 32.00% | ~1,451 |
 | Things that go Splash in the Night | 27.00% | ~1,224 |
 | Goldfish? | 27.00% | ~1,224 |
 | Going for Gold | 24.00% | ~1,088 |
@@ -28,8 +28,8 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 4.00% | ~181 |
 | Gonna Need a Bigger Boat | 3.00% | ~136 |
 | The Beetles | 2.00% | ~91 |
-| Rod and Troll | 2.00% | ~78 |
 | Taylor Made | 1.00% | ~45 |
+| Rod and Troll | 1.00% | ~39 |
 | Head for Heights | 0.60% | ~27 |
 | Fish upon a Star | 0.50% | ~20 |
 | Lake Me up Before You Go Go | 0.40% | ~18 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,532 (Ranked 135)  
+Progressed: 4,534 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-28 | 4,507 | 0 |
 | 2023-06-29 | 4,517 | 0 |
 | 2023-06-30 | 4,525 | 0 |
-| 2023-07-01 | 4,532 | 0 |
+| 2023-07-01 | 4,534 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 445)  
 Sum: 158 (Ranked 385)  

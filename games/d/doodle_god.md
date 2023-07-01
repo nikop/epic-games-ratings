@@ -10,7 +10,7 @@
 | Creator of Diversity | 70.00% | ~155 |
 | Similar to Similar | 68.00% | ~151 |
 | Creator of Humanity | 63.00% | ~140 |
-| Creator of Civilization | 37.00% | ~82 |
+| Creator of Civilization | 38.00% | ~84 |
 | Creator of Technology | 23.00% | ~51 |
 | Honorable Santa | 23.00% | ~51 |
 | God of Fun | 17.00% | ~38 |
@@ -21,8 +21,8 @@
 | Deity of Darkness | 15.00% | ~33 |
 | Salvation! | 11.00% | ~24 |
 | Heavenly Virtues | 11.00% | ~24 |
+| Brilliant Inventor | 8.00% | ~18 |
 | Greatest inventor | 8.00% | ~18 |
-| Brilliant Inventor | 7.00% | ~16 |
 | Master of the Worlds | 6.00% | ~13 |
 | Master of Alchemy | 5.00% | ~11 |
 | God of Patience | 4.00% | ~9 |

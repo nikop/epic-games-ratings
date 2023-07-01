@@ -8,8 +8,8 @@
 | Brute force | 85.00% | ~91 |
 | Nimble fingers | 78.00% | ~83 |
 | Room 104 | 77.00% | ~82 |
-| Face to face | 75.00% | ~80 |
-| Now or never | 73.00% | ~78 |
+| Face to face | 76.00% | ~81 |
+| Now or never | 74.00% | ~79 |
 | Let's play a game… | 72.00% | ~77 |
 | Soundtrack | 60.00% | ~64 |
 | First aid | 58.00% | ~62 |

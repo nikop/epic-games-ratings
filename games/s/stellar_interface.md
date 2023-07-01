@@ -26,13 +26,16 @@
 | Rambo II | 6.00% | ~3 |
 | Golden Prince of Ball-air | 6.00% | ~3 |
 | Space Surfer | 6.00% | ~3 |
+| Unstoppable | 6.00% | ~3 |
+| Flower Power | 6.00% | ~3 |
 | 25Gb HDD | 6.00% | ~3 |
 | Silver Prince of Ball-air | 6.00% | ~3 |
 | Merchant Prince II | 6.00% | ~3 |
+| Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | Usurper I | 4.00% | ~2 |
-| Unstoppable | 4.00% | ~2 |
-| Flower Power | 4.00% | ~2 |
+| 50Gb HDD | 4.00% | ~2 |
+| Sectoral Captain | 4.00% | ~2 |
 | Collateral Damage II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |
@@ -47,16 +50,13 @@
 | Pilgrim | 2.00% | ~1 |
 | Diligent | 2.00% | ~1 |
 | Omicron Theta | 2.00% | ~1 |
-| Omicron Beta | 2.00% | ~1 |
 | No Peace | 2.00% | ~1 |
 | Bird of Prey | 2.00% | ~1 |
 | Food Poisoning | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
-| 50Gb HDD | 2.00% | ~1 |
 | Galactic Lieutenant | 2.00% | ~1 |
 | Silver Foundation | 2.00% | ~1 |
-| Sectoral Captain | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |
 | Fighting Fit II | 2.00% | ~1 |

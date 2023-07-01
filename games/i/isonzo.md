@@ -22,10 +22,10 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 19.00% | ~1,204 |
 | The Lion of the Isonzo | 18.00% | ~1,140 |
 | Ragazzi del '99 | 17.00% | ~1,077 |
+| Dirty Dozen | 14.00% | ~887 |
 | Luigi Cadorna | 14.00% | ~887 |
 | Thus With A Kiss | 14.00% | ~887 |
 | Uomo Universale | 14.00% | ~887 |
-| Dirty Dozen | 13.00% | ~824 |
 | Shaken, Not Stirred | 13.00% | ~824 |
 | Die Bosniaken Kommen! | 12.00% | ~760 |
 | Machiavelli | 12.00% | ~760 |

@@ -5,12 +5,12 @@ Rating: 4.37 (Ranked 718)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,103 |
-| Ranidaphobia | 77.00% | ~923 |
-| Aspiring Editor | 74.00% | ~887 |
-| Gun for Hire | 70.00% | ~839 |
-| I am the law! | 63.00% | ~755 |
-| Lumberjack | 52.00% | ~623 |
+| First Blood | 92.00% | ~1,104 |
+| Ranidaphobia | 77.00% | ~924 |
+| Aspiring Editor | 74.00% | ~888 |
+| Gun for Hire | 70.00% | ~840 |
+| I am the law! | 63.00% | ~756 |
+| Lumberjack | 52.00% | ~624 |
 | Croaked | 47.00% | ~564 |
 | Limp Richard | 46.00% | ~552 |
 | From Darkness to Light | 46.00% | ~552 |
@@ -35,9 +35,9 @@ Rating: 4.37 (Ranked 718)
 | Chain Killer | 22.00% | ~264 |
 | The Watchers | 20.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~192 |
+| Chaos Theory | 14.00% | ~168 |
 | Dr Jones | 14.00% | ~168 |
 | Ruthless | 14.00% | ~168 |
-| Chaos Theory | 13.00% | ~156 |
 | Commando | 13.00% | ~156 |
 | Chain Reaction | 9.00% | ~108 |
 | Side Order | 9.00% | ~108 |
@@ -57,7 +57,7 @@ Rating: 4.37 (Ranked 718)
 | Goaaaaal! | 0.70% | ~8 |
 | Bookworm | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,199 (Ranked 178)  
+Progressed: 1,200 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-27 | 1,193 | 0 |
 | 2023-06-29 | 1,195 | 0 |
 | 2023-06-30 | 1,197 | 0 |
-| 2023-07-01 | 1,199 | 0 |
+| 2023-07-01 | 1,200 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

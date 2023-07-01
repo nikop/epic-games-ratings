@@ -34,11 +34,11 @@
 | Whiz Kid | 10.00% | ~74 |
 | Chaincrawler Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
-| Family Memories | 7.00% | ~51 |
-| Fairgrounds Explorer | 7.00% | ~51 |
-| Sump Explorer | 7.00% | ~51 |
-| Theater Explorer | 7.00% | ~51 |
-| Ask Questions Later | 7.00% | ~51 |
+| Family Memories | 7.00% | ~52 |
+| Fairgrounds Explorer | 7.00% | ~52 |
+| Sump Explorer | 7.00% | ~52 |
+| Theater Explorer | 7.00% | ~52 |
+| Ask Questions Later | 7.00% | ~52 |
 | Corin Goes Home | 6.00% | ~44 |
 | Sartorialist | 6.00% | ~44 |
 | Cultivair Explorer | 6.00% | ~44 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 196)  
+Progressed: 736 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,4 +101,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-06-28 | 728 | 4 |
 | 2023-06-29 | 731 | 4 |
 | 2023-06-30 | 733 | 4 |
-| 2023-07-01 | 735 | 4 |
+| 2023-07-01 | 736 | 4 |

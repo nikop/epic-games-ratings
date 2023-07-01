@@ -64,11 +64,11 @@ Rating: 4.07 (Ranked 895)
 | What lies behind the bush | 2.00% | ~31 |
 | Mythic Power | 1.00% | ~15 |
 | Training makes a Pro player | 0.70% | ~11 |
+| Gear Enchanting | 0.60% | ~9 |
 | Guardian Master | 0.60% | ~9 |
 | Transmute | 0.60% | ~9 |
 | Cauldron Liberator | 0.50% | ~8 |
 | Enchanting skill x5 | 0.50% | ~8 |
-| Gear Enchanting | 0.50% | ~8 |
 | Pokerface | 0.50% | ~8 |
 | Tree of Life | 0.50% | ~8 |
 | Angel Power | 0.30% | ~5 |

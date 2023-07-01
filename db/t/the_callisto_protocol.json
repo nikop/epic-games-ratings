@@ -812,7 +812,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15606,
+  "EOS_Progressed": 15607,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 5,
@@ -5062,6 +5062,11 @@
       "Time": "2023-07-01T14:04:45.5762579+00:00",
       "NumProgressed": 15606,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T16:05:22.1227775+00:00",
+      "NumProgressed": 15607,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5199,9 +5204,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "KILL_ROBOT",
@@ -5215,9 +5220,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -5263,17 +5268,17 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "STORY_HABITAT",
@@ -5319,9 +5324,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "STORY_TUNNELS",
@@ -5448,13 +5453,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15606,
+      "Progressed": 15607,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3532,
+      "Progressed": 3533,
       "Completed": 29
     }
   ],
@@ -5462,8 +5467,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T06:58:21.699348+00:00",
-  "LastChanged_Achievements": "2023-07-01T15:04:53.1645078+00:00",
+  "LastChanged_Achievements": "2023-07-01T16:05:22.122777+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T14:57:51.952546+00:00",
-  "LastUpdate_Achievements": "2023-07-01T15:04:53.1645596+00:00"
+  "LastUpdate_Ratings": "2023-07-01T15:58:22.3589657+00:00",
+  "LastUpdate_Achievements": "2023-07-01T16:05:22.1228287+00:00"
 }

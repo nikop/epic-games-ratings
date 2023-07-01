@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 477)  
+Rating: 4.55 (Ranked 476)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 266  (23.09.2022)
 | Tapped! | 36.00% | ~1,074 |
 | Eureka | 32.00% | ~955 |
 | Scourge Slayer | 26.00% | ~776 |
+| Exceptional Skill | 23.00% | ~686 |
 | Science, Troglodyte! | 23.00% | ~686 |
-| Exceptional Skill | 22.00% | ~656 |
 | Home Sweet Home | 22.00% | ~656 |
 | Encyclopedic! | 20.00% | ~597 |
 | A Fortress Toppled! | 16.00% | ~477 |

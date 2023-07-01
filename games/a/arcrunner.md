@@ -19,10 +19,10 @@
 | Starship Docks | 4.00% | ~27 |
 | Nanonic III | 4.00% | ~27 |
 | The Bigger They Are | 3.00% | ~21 |
+| Fully Modded | 3.00% | ~21 |
 | Rookie | 3.00% | ~21 |
 | Up Close And Personal | 3.00% | ~21 |
 | Eden Heights | 2.00% | ~14 |
-| Fully Modded | 2.00% | ~14 |
 | Outer Core | 1.00% | ~7 |
 | Inner Core | 0.70% | ~5 |
 | Trickshot | 0.70% | ~5 |

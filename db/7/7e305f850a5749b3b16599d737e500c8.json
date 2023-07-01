@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 82,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 37.8,
   "EosHistory": [
@@ -612,9 +612,9 @@
       "ID": "Samaritan",
       "SetID": "b7i210",
       "Name": "Samaritan",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Street_food",
@@ -651,8 +651,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-07-01T15:03:46.3958512+00:00",
+  "LastChanged_Achievements": "2023-07-01T16:04:02.2755777+00:00",
   "LastUpdate_AppInfo": "2023-06-26T18:57:17.2882806+00:00",
-  "LastUpdate_Ratings": "2023-07-01T14:57:09.3841784+00:00",
-  "LastUpdate_Achievements": "2023-07-01T15:03:46.3958629+00:00"
+  "LastUpdate_Ratings": "2023-07-01T15:57:32.4661304+00:00",
+  "LastUpdate_Achievements": "2023-07-01T16:04:02.2755892+00:00"
 }

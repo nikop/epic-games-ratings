@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1519,6 +1519,11 @@
       "Time": "2023-07-01T11:06:53.1540045+00:00",
       "NumProgressed": 735,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T16:06:29.4743005+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1626,7 +1631,7 @@
       "Name": "Family Memories",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FactorywoodChests1",
@@ -1642,7 +1647,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1874,7 +1879,7 @@
       "Name": "Sump Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SyronGift",
@@ -1898,7 +1903,7 @@
       "Name": "Theater Explorer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -1922,7 +1927,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "WatcherSpared",
@@ -1953,14 +1958,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-01T15:05:49.597553+00:00",
+  "LastChanged_Achievements": "2023-07-01T16:06:29.4743+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-01T14:59:14.9463515+00:00",
-  "LastUpdate_Achievements": "2023-07-01T15:05:49.5975968+00:00"
+  "LastUpdate_Ratings": "2023-07-01T16:00:00.1985657+00:00",
+  "LastUpdate_Achievements": "2023-07-01T16:06:29.4743431+00:00"
 }

@@ -622,9 +622,9 @@
       "ID": "ConsumableUsed50TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Beta",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ConsumableWithActiveCountOf10Achievement",
@@ -918,9 +918,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -950,9 +950,9 @@
       "ID": "LilySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Flower Power",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MultipleProjectileAchievement",
@@ -990,9 +990,9 @@
       "ID": "PerksUnlocked50Achievement",
       "SetID": "a8djcgh",
       "Name": "50Gb HDD",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PerksUnlocked5Achievement",
@@ -1134,9 +1134,9 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SilverMissionsCompletedAllAchievement",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-07-01T15:06:09.1672302+00:00",
+  "LastChanged_Achievements": "2023-07-01T16:06:51.3615887+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.4606171+00:00",
-  "LastUpdate_Ratings": "2023-07-01T14:58:37.492543+00:00",
-  "LastUpdate_Achievements": "2023-07-01T15:06:09.1673859+00:00"
+  "LastUpdate_Ratings": "2023-07-01T15:59:19.2124094+00:00",
+  "LastUpdate_Achievements": "2023-07-01T16:06:51.3617522+00:00"
 }

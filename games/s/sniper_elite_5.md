@@ -6,26 +6,26 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 0.50% | ~16 |
+| Target America | 0.50% | ~16 |
 | Meeting Resistance | 0.40% | ~13 |
 | Confirming Suspicions | 0.40% | ~13 |
+| Lord of War | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
+| It's Starting to Crack | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
 | Taking it back | 0.40% | ~13 |
-| Target America | 0.40% | ~13 |
 | Climbing the Ladder | 0.30% | ~10 |
 | Liberté | 0.30% | ~10 |
 | No Stone Unturned | 0.30% | ~10 |
 | Opposing Force | 0.30% | ~10 |
+| Enemy at the Gates | 0.30% | ~10 |
 | Organ Grinder | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Sharpshooter | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
-| Lord of War | 0.30% | ~10 |
 | Der Geist | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
-| It's Starting to Crack | 0.30% | ~10 |
 | The Kraken Sleeps | 0.30% | ~10 |
-| Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
 | Skirmisher | 0.20% | ~6 |
 | Set Europe Ablaze | 0.20% | ~6 |
@@ -33,6 +33,8 @@ Rating: 4.45 (Ranked 617)
 | Die Nussknacker Sweet! | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
+| Siegebreaker | 0.20% | ~6 |
+| Ghost of Falaise | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
@@ -54,8 +56,7 @@ Rating: 4.45 (Ranked 617)
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
 | Last Resort | 0.10% | ~3 |
-| Siegebreaker | 0.10% | ~3 |
-| Ghost of Falaise | 0.10% | ~3 |
+| Operation Overlord | 0.10% | ~3 |
 | If You Go Down To The Woods Today | 0.10% | ~3 |
 | Fight Another Day | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
@@ -74,7 +75,6 @@ Rating: 4.45 (Ranked 617)
 | Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,183 (Ranked 145)  
