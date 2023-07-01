@@ -16,9 +16,9 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
-| 17 | [Sonic Origins](games/s/sonic_origins.md) | 12.15% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.14% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.14% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.09% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -41,16 +41,16 @@
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.76% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
-| 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
-| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
+| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
+| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 50 | [JARS](games/j/jars.md) | 3.39% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.39% |
+| 51 | [ZZT!](games/z/zzt!.md) | 3.38% |
 | 52 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
@@ -60,7 +60,7 @@
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.77% |
+| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.76% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
@@ -148,8 +148,8 @@
 | 143 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
-| 148 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.28% |
 | 148 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
+| 150 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.27% |
 | 151 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 151 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 151 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
