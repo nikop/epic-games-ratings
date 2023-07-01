@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,974 |
+| First Step Into the Knight | 6.00% | ~3,975 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,650 |
 | Loose Ends | 4.00% | ~2,650 |
 | The Batman Family | 3.00% | ~1,987 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,239 (Ranked 73)  
+Progressed: 66,242 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
 | 2023-06-30 | 66,172 | 99 |
-| 2023-07-01 | 66,239 | 100 |
+| 2023-07-01 | 66,242 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,407  (Ranked 99)  
 Sum: 3,981 (Ranked 137)  

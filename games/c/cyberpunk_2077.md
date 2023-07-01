@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~586,739 |
-| Right Back At Ya | 38.00% | ~327,883 |
-| The Lovers | 34.00% | ~293,369 |
-| Stanislavski's Method | 28.00% | ~241,598 |
-| The Wheel of Fortune | 26.00% | ~224,341 |
-| The Hermit | 24.00% | ~207,084 |
-| Christmas Tree Attack | 22.00% | ~189,827 |
-| True Soldier | 22.00% | ~189,827 |
-| The High Priestess | 21.00% | ~181,199 |
-| Legend of The Afterlife | 21.00% | ~181,199 |
-| Life of the Road | 20.00% | ~172,570 |
-| Full Body Conversion | 17.00% | ~146,685 |
-| The World | 17.00% | ~146,685 |
-| Bushido and Chill | 16.00% | ~138,056 |
-| Gun Fu | 14.00% | ~120,799 |
-| True Warrior | 14.00% | ~120,799 |
+| The Fool | 68.00% | ~586,742 |
+| Right Back At Ya | 38.00% | ~327,885 |
+| The Lovers | 34.00% | ~293,371 |
+| Stanislavski's Method | 28.00% | ~241,600 |
+| The Wheel of Fortune | 26.00% | ~224,343 |
+| The Hermit | 24.00% | ~207,085 |
+| Christmas Tree Attack | 22.00% | ~189,828 |
+| True Soldier | 22.00% | ~189,828 |
+| The High Priestess | 21.00% | ~181,200 |
+| Legend of The Afterlife | 21.00% | ~181,200 |
+| Life of the Road | 20.00% | ~172,571 |
+| Full Body Conversion | 17.00% | ~146,686 |
+| The World | 17.00% | ~146,686 |
+| Bushido and Chill | 16.00% | ~138,057 |
+| Gun Fu | 14.00% | ~120,800 |
+| True Warrior | 14.00% | ~120,800 |
 | To Protect and Serve | 13.00% | ~112,171 |
 | Master Crafter | 13.00% | ~112,171 |
 | I Am The Law | 13.00% | ~112,171 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,629 |
 | Rough Landing | 0.50% | ~4,314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862,851 (Ranked 14)  
+Progressed: 862,856 (Ranked 14)  
 Completed: 1,816 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,10 @@ Completed: 1,816 (0.21%) (Ranked 159)
 | 2023-06-28 | 861,955 | 1,808 |
 | 2023-06-29 | 862,255 | 1,810 |
 | 2023-06-30 | 862,542 | 1,812 |
-| 2023-07-01 | 862,851 | 1,816 |
+| 2023-07-01 | 862,856 | 1,816 |
 ## Awards
 Max (Character Customization): 71,789  (Ranked 9)  
-Sum: 187,709 (Ranked 13)  
+Sum: 187,724 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -135,7 +135,7 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 8,239 |
 | This game has Amazing Storytelling | 8,238 |
 | This game is Great for Beginners | 8,194 |
-| This game is Extremely Fun | 8,091 |
+| This game is Extremely Fun | 8,106 |
 | This game is Highly Recommended | 8,062 |
 | This game is Relaxing | 8,039 |
 | This game has Quickly Understood Controls | 7,917 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -4
 | 2023-06-28 | 4.62 | - | 71,403 | 186,637 |
 | 2023-06-29 | 4.62 | - | 71,541 | 187,023 |
 | 2023-06-30 | 4.62 | - | 71,663 | 187,387 |
-| 2023-07-01 | 4.62 | - | 71,789 | 187,709 |
+| 2023-07-01 | 4.62 | - | 71,789 | 187,724 |

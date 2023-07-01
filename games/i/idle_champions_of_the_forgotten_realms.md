@@ -6,39 +6,39 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,506 |
-| The Mad Wizard | 10.00% | ~20,361 |
-| The Ring of Regeneration | 6.00% | ~12,217 |
-| Are Ya Chicken? | 6.00% | ~12,217 |
-| Were-verpowered | 5.00% | ~10,181 |
-| Friendly Imps | 5.00% | ~10,181 |
-| Seeking Allies | 4.00% | ~8,145 |
-| Mad Cow Disease | 4.00% | ~8,145 |
-| Pure Energy | 4.00% | ~8,145 |
-| A Persistent Buzzing | 3.00% | ~6,108 |
-| Terror in the Dark | 3.00% | ~6,108 |
-| The Crumbling Temple | 3.00% | ~6,108 |
-| The Contagious Curse | 3.00% | ~6,108 |
-| Beast Mode | 2.00% | ~4,072 |
-| A Mysterious Summons | 2.00% | ~4,072 |
-| Unearthed Evil | 2.00% | ~4,072 |
-| Useless Allies | 2.00% | ~4,072 |
-| Exploring Port Nyanzaru | 2.00% | ~4,072 |
-| Running of the Saurs | 2.00% | ~4,072 |
-| Escort to Waterdeep | 2.00% | ~4,072 |
-| Waterdeep Detours | 2.00% | ~4,072 |
-| Low Initiative | 1.00% | ~2,036 |
-| Building Trust | 1.00% | ~2,036 |
-| March of the Undead | 1.00% | ~2,036 |
-| No Time To Rest | 1.00% | ~2,036 |
-| Invisible Shadows | 1.00% | ~2,036 |
-| The Dinner Party | 1.00% | ~2,036 |
-| The Death Curse | 1.00% | ~2,036 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,036 |
-| Underdeep Cartography | 1.00% | ~2,036 |
-| Overdue Rendezvous | 1.00% | ~2,036 |
-| The Templar's Camp | 1.00% | ~2,036 |
-| Rescue in the Jungle | 1.00% | ~2,036 |
+| The Cursed Farmer | 14.00% | ~28,513 |
+| The Mad Wizard | 10.00% | ~20,366 |
+| The Ring of Regeneration | 6.00% | ~12,220 |
+| Are Ya Chicken? | 6.00% | ~12,220 |
+| Were-verpowered | 5.00% | ~10,183 |
+| Friendly Imps | 5.00% | ~10,183 |
+| Seeking Allies | 4.00% | ~8,147 |
+| Mad Cow Disease | 4.00% | ~8,147 |
+| Pure Energy | 4.00% | ~8,147 |
+| A Persistent Buzzing | 3.00% | ~6,110 |
+| Terror in the Dark | 3.00% | ~6,110 |
+| The Crumbling Temple | 3.00% | ~6,110 |
+| The Contagious Curse | 3.00% | ~6,110 |
+| Beast Mode | 2.00% | ~4,073 |
+| A Mysterious Summons | 2.00% | ~4,073 |
+| Unearthed Evil | 2.00% | ~4,073 |
+| Useless Allies | 2.00% | ~4,073 |
+| Exploring Port Nyanzaru | 2.00% | ~4,073 |
+| Running of the Saurs | 2.00% | ~4,073 |
+| Escort to Waterdeep | 2.00% | ~4,073 |
+| Waterdeep Detours | 2.00% | ~4,073 |
+| Low Initiative | 1.00% | ~2,037 |
+| Building Trust | 1.00% | ~2,037 |
+| March of the Undead | 1.00% | ~2,037 |
+| No Time To Rest | 1.00% | ~2,037 |
+| Invisible Shadows | 1.00% | ~2,037 |
+| The Dinner Party | 1.00% | ~2,037 |
+| The Death Curse | 1.00% | ~2,037 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,037 |
+| Underdeep Cartography | 1.00% | ~2,037 |
+| Overdue Rendezvous | 1.00% | ~2,037 |
+| The Templar's Camp | 1.00% | ~2,037 |
+| Rescue in the Jungle | 1.00% | ~2,037 |
 | The Botched Kidnapping | 0.90% | ~1,833 |
 | Premature Betrayal | 0.90% | ~1,833 |
 | Close Escort | 0.90% | ~1,833 |
@@ -48,10 +48,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.80% | ~1,629 |
 | A Tale of Two Cities | 0.80% | ~1,629 |
 | Dinosaur Racing | 0.80% | ~1,629 |
-| The Lost Heir of Omu | 0.70% | ~1,425 |
-| Attack on the Manor | 0.70% | ~1,425 |
-| The Long Haul | 0.70% | ~1,425 |
-| Lost in the Deep | 0.70% | ~1,425 |
+| The Lost Heir of Omu | 0.70% | ~1,426 |
+| Attack on the Manor | 0.70% | ~1,426 |
+| The Long Haul | 0.70% | ~1,426 |
+| Lost in the Deep | 0.70% | ~1,426 |
 | The Forbidden City | 0.60% | ~1,222 |
 | Captured! | 0.60% | ~1,222 |
 | Wisdom Check | 0.60% | ~1,222 |
@@ -74,30 +74,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.50% | ~1,018 |
 | Difficult Terrain | 0.50% | ~1,018 |
 | Market Fluctuations | 0.50% | ~1,018 |
-| The Giant's Bane Tavern | 0.50% | ~849 |
+| The Giant's Bane Tavern | 0.50% | ~850 |
 | Rude Welcome | 0.50% | ~1,018 |
 | Durable Deep | 0.50% | ~1,018 |
-| Home Field Advantage | 0.40% | ~814 |
-| Force Grey Unleashed | 0.40% | ~814 |
-| Sleuth It Out | 0.40% | ~814 |
-| Chatty Nobles | 0.40% | ~814 |
-| Haaave You Met Asmodeus? | 0.40% | ~814 |
-| Seeds of Deceit | 0.40% | ~814 |
-| The Gargoyle's Apprentice | 0.40% | ~814 |
-| The Guardian of Orolunga | 0.40% | ~814 |
-| The Lost Love | 0.40% | ~814 |
-| Flies on the Wall | 0.40% | ~814 |
-| Backtracking Through Barovia | 0.40% | ~814 |
-| Cramped Quarters | 0.40% | ~814 |
-| Lair of the Xanathar | 0.40% | ~814 |
-| Waterdeep Under Siege | 0.40% | ~814 |
-| Vault of Dragons | 0.40% | ~814 |
-| Champions of Waterdeep | 0.40% | ~814 |
-| Elturel Has Fallen | 0.40% | ~814 |
-| Resolve Amongst Chaos | 0.40% | ~814 |
+| Home Field Advantage | 0.40% | ~815 |
+| Force Grey Unleashed | 0.40% | ~815 |
+| Sleuth It Out | 0.40% | ~815 |
+| Chatty Nobles | 0.40% | ~815 |
+| Haaave You Met Asmodeus? | 0.40% | ~815 |
+| Seeds of Deceit | 0.40% | ~815 |
+| The Gargoyle's Apprentice | 0.40% | ~815 |
+| The Guardian of Orolunga | 0.40% | ~815 |
+| The Lost Love | 0.40% | ~815 |
+| Flies on the Wall | 0.40% | ~815 |
+| Backtracking Through Barovia | 0.40% | ~815 |
+| Cramped Quarters | 0.40% | ~815 |
+| Lair of the Xanathar | 0.40% | ~815 |
+| Waterdeep Under Siege | 0.40% | ~815 |
+| Vault of Dragons | 0.40% | ~815 |
+| Champions of Waterdeep | 0.40% | ~815 |
+| Elturel Has Fallen | 0.40% | ~815 |
+| Resolve Amongst Chaos | 0.40% | ~815 |
 | The Everlasting Rime | 0.40% | ~680 |
-| Expert Opinion | 0.40% | ~814 |
-| Poor Guidance | 0.40% | ~814 |
+| Expert Opinion | 0.40% | ~815 |
+| Poor Guidance | 0.40% | ~815 |
 | Anti-Dexterous Explorers | 0.30% | ~611 |
 | Not Very Charming | 0.30% | ~611 |
 | Lobsterfolk Assault | 0.30% | ~611 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,613 (Ranked 52)  
+Progressed: 203,665 (Ranked 52)  
 Completed: 2,023 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,023 (0.99%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 203,613 | 2,023 |
+| 2023-07-01 | 203,665 | 2,023 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,347 (Ranked 37)  

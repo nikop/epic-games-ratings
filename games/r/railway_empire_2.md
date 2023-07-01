@@ -6,9 +6,9 @@ Rating: 4.38 (Ranked 708)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,069 |
+| Departure | 72.00% | ~1,040 |
 | A new Journey | 72.00% | ~1,040 |
 | From X to Y | 71.00% | ~1,026 |
-| Departure | 71.00% | ~1,026 |
 | Way of Iron | 69.00% | ~997 |
 | Mystery Tour | 67.00% | ~968 |
 | We brake for nobody | 66.00% | ~954 |
@@ -17,8 +17,8 @@ Rating: 4.38 (Ranked 708)
 | Mind the Gap | 63.00% | ~910 |
 | All around the World | 61.00% | ~881 |
 | Right through the middle | 56.00% | ~809 |
+| Poor Devil | 54.00% | ~780 |
 | Facility Manager | 53.00% | ~766 |
-| Poor Devil | 53.00% | ~766 |
 | Producer | 50.00% | ~722 |
 | Apprentice | 42.00% | ~607 |
 | Bridge Builder | 41.00% | ~592 |
@@ -37,8 +37,8 @@ Rating: 4.38 (Ranked 708)
 | Seven at one stroke | 23.00% | ~332 |
 | Trailblazer | 20.00% | ~289 |
 | Breaking Ground | 19.00% | ~275 |
+| Traffic Jam | 18.00% | ~260 |
 | Traffic Junction | 18.00% | ~260 |
-| Traffic Jam | 17.00% | ~246 |
 | Assimilated | 16.00% | ~231 |
 | Locusts | 16.00% | ~231 |
 | Networker | 16.00% | ~231 |

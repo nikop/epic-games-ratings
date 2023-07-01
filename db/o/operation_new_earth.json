@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1011,6 +1011,11 @@
       "Time": "2023-07-01T22:05:02.4576031+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T23:04:29.8460589+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1028,9 +1033,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1038,7 +1043,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1086,7 +1091,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1102,7 +1107,7 @@
       "Name": "Keeping Busy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_headquarters_15",
@@ -1126,7 +1131,7 @@
       "Name": "Facility Online",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1134,7 +1139,7 @@
       "Name": "Corporal",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1142,7 +1147,7 @@
       "Name": "Sergeant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1158,7 +1163,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1190,15 +1195,15 @@
       "Name": "Brothers in Arms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1206,7 +1211,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1214,7 +1219,7 @@
       "Name": "Getting Deployment",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -1262,7 +1267,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1270,7 +1275,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1278,13 +1283,13 @@
       "Name": "Defenses Online",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -1325,14 +1330,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-01T22:05:02.4576024+00:00",
+  "LastChanged_Achievements": "2023-07-01T23:04:29.8460585+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:01:37.333098+00:00",
-  "LastUpdate_Achievements": "2023-07-01T22:05:02.4576614+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:01:23.706513+00:00",
+  "LastUpdate_Achievements": "2023-07-01T23:04:29.8461004+00:00"
 }

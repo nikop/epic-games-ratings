@@ -6,48 +6,48 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,805 |
-| Titan's First Steps | 96.00% | ~126,488 |
-| Basic in Bulk | 91.00% | ~119,900 |
-| Tinkle of Coins | 86.00% | ~113,312 |
-| Disintermediation | 75.00% | ~98,818 |
-| Capitalism Ho! | 74.00% | ~97,501 |
+| Sponsored by Argon | 97.00% | ~127,806 |
+| Titan's First Steps | 96.00% | ~126,489 |
+| Basic in Bulk | 91.00% | ~119,901 |
+| Tinkle of Coins | 86.00% | ~113,313 |
+| Disintermediation | 75.00% | ~98,819 |
+| Capitalism Ho! | 74.00% | ~97,502 |
 | It's Free Real Estate | 70.00% | ~92,231 |
-| Budding Merchant | 66.00% | ~86,960 |
-| Another Satisfied Customer | 61.00% | ~80,372 |
+| Budding Merchant | 66.00% | ~86,961 |
+| Another Satisfied Customer | 61.00% | ~80,373 |
 | One Easy Payment | 60.00% | ~79,055 |
 | Own the Means of Production | 60.00% | ~79,055 |
 | Some Assembly Required | 58.00% | ~76,420 |
-| Pretty Penny | 57.00% | ~75,102 |
-| One-Armed Bandit | 49.00% | ~64,561 |
+| Pretty Penny | 57.00% | ~75,103 |
+| One-Armed Bandit | 49.00% | ~64,562 |
 | Through Repetition, Perfection | 46.00% | ~60,609 |
-| The Daily Grind | 45.00% | ~59,291 |
+| The Daily Grind | 45.00% | ~59,292 |
 | Bounty Hunters | 44.00% | ~57,974 |
 | Where it Hurts | 43.00% | ~56,656 |
-| Dungeon Imports | 42.00% | ~55,338 |
+| Dungeon Imports | 42.00% | ~55,339 |
 | Flooding the Market | 41.00% | ~54,021 |
 | Demand for Supplies | 38.00% | ~50,068 |
-| Gild-Gotten Goods | 37.00% | ~48,750 |
-| Did we pack lunch? | 35.00% | ~46,115 |
+| Gild-Gotten Goods | 37.00% | ~48,751 |
+| Did we pack lunch? | 35.00% | ~46,116 |
 | Arcane Industries | 34.00% | ~44,798 |
 | Accomplished Merchant | 31.00% | ~40,845 |
-| On the Path to Greatness | 28.00% | ~36,892 |
-| Ascended | 28.00% | ~36,892 |
-| Gem Expert | 28.00% | ~36,892 |
-| Helping Hand | 28.00% | ~36,892 |
+| On the Path to Greatness | 28.00% | ~36,893 |
+| Ascended | 28.00% | ~36,893 |
+| Gem Expert | 28.00% | ~36,893 |
+| Helping Hand | 28.00% | ~36,893 |
 | Blank Page Syndrome | 27.00% | ~35,575 |
 | Efficient Floor Space | 27.00% | ~35,575 |
 | Vanity, Verily | 26.00% | ~34,257 |
 | Research & Development | 25.00% | ~32,940 |
 | Power of Love | 24.00% | ~31,622 |
 | Flawless Fusion | 24.00% | ~31,622 |
-| Natural 20 | 23.00% | ~30,304 |
+| Natural 20 | 23.00% | ~30,305 |
 | Fated Encounters | 21.00% | ~27,669 |
 | Royal Ransom | 21.00% | ~27,669 |
 | Magical Harmony | 21.00% | ~27,669 |
 | Tax not Included | 20.00% | ~26,352 |
 | Trash to Treasure | 19.00% | ~25,034 |
-| For the Hoard! | 18.00% | ~23,716 |
+| For the Hoard! | 18.00% | ~23,717 |
 | Special Ingredient | 17.00% | ~22,399 |
 | Scrapbooker | 16.00% | ~21,081 |
 | A Notch Above the Rest | 15.00% | ~19,764 |
@@ -81,10 +81,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 7.00% | ~9,223 |
 | Wealth Beyond Measure | 7.00% | ~9,223 |
 | Treasure Trove | 7.00% | ~9,223 |
-| Thirst for Knowledge | 6.00% | ~7,905 |
-| Archivist | 6.00% | ~7,905 |
-| Bountiful Harvest | 6.00% | ~7,905 |
-| All Accounted For | 6.00% | ~7,905 |
+| Thirst for Knowledge | 6.00% | ~7,906 |
+| Archivist | 6.00% | ~7,906 |
+| Bountiful Harvest | 6.00% | ~7,906 |
+| All Accounted For | 6.00% | ~7,906 |
 | Precision Engineering | 5.00% | ~6,588 |
 | Proud Paladin | 4.00% | ~5,270 |
 | Constellated | 4.00% | ~5,270 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~659 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,758 (Ranked 59)  
+Progressed: 131,759 (Ranked 59)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-06-28 | 131,581 | 112 |
 | 2023-06-29 | 131,639 | 112 |
 | 2023-06-30 | 131,693 | 112 |
-| 2023-07-01 | 131,758 | 113 |
+| 2023-07-01 | 131,759 | 113 |
 ## Awards
 Max (Great for Beginners): 4,642  (Ranked 68)  
 Sum: 26,846 (Ranked 46)  

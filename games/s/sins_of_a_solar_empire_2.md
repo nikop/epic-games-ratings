@@ -1,7 +1,7 @@
 # Sins of a Solar Empire 2
 [Store](https://store.epicgames.com/en-US/p/sins-of-a-solar-empire-ii)  
 [View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
-Rating: 4.52 (Ranked 517)  
+Rating: 4.53 (Ranked 504)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -40,3 +40,4 @@ Rating: 4.52 (Ranked 517)
 | 2023-05-27 | 4.52 | 0 | 0 |
 | 2023-05-28 | 4.51 | 0 | 0 |
 | 2023-05-31 | 4.52 | 0 | 0 |
+| 2023-07-01 | 4.53 | 0 | 0 |

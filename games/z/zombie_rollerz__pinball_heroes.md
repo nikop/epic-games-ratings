@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 90.00% | ~100 |
+| Level Up! | 91.00% | ~101 |
 | Bullseye! | 86.00% | ~95 |
-| Graduation! | 80.00% | ~89 |
-| Villfir Forest | 78.00% | ~87 |
-| Right in the kisser! | 65.00% | ~72 |
+| Graduation! | 81.00% | ~90 |
+| Villfir Forest | 79.00% | ~88 |
+| Right in the kisser! | 66.00% | ~73 |
 | Duscot Steamcity | 52.00% | ~58 |
 | The Shaman | 50.00% | ~56 |
-| The Thrower | 49.00% | ~54 |
+| The Thrower | 50.00% | ~56 |
 | The Penguin | 48.00% | ~53 |
 | The Magician | 47.00% | ~52 |
 | The Tunneler | 41.00% | ~46 |

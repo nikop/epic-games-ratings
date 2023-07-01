@@ -5,26 +5,26 @@ Rating: 4.26 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 68.00% | ~128,016 |
-| Doubled Pawn | 55.00% | ~103,542 |
-| Check | 54.00% | ~101,660 |
-| Absolute pin | 46.00% | ~86,599 |
-| Promotion | 30.00% | ~56,478 |
-| Checkmate | 29.00% | ~54,595 |
-| O-O | 23.00% | ~43,300 |
-| Spanish Bishop | 20.00% | ~37,652 |
-| Queen Sacrifice | 19.00% | ~35,769 |
-| Stalemate | 17.00% | ~32,004 |
-| O-O-O | 13.00% | ~24,474 |
-| Octopus | 12.00% | ~22,591 |
-| Stranger Danger | 12.00% | ~22,591 |
+| Chop Wood | 68.00% | ~128,022 |
+| Doubled Pawn | 55.00% | ~103,547 |
+| Check | 54.00% | ~101,664 |
+| Absolute pin | 46.00% | ~86,603 |
+| Promotion | 30.00% | ~56,480 |
+| Checkmate | 29.00% | ~54,597 |
+| O-O | 23.00% | ~43,301 |
+| Spanish Bishop | 20.00% | ~37,653 |
+| Queen Sacrifice | 19.00% | ~35,771 |
+| Stalemate | 17.00% | ~32,005 |
+| O-O-O | 13.00% | ~24,475 |
+| Octopus | 12.00% | ~22,592 |
+| Stranger Danger | 12.00% | ~22,592 |
 | En Passant | 8.00% | ~15,061 |
-| Double Check | 7.00% | ~13,178 |
+| Double Check | 7.00% | ~13,179 |
 | Piece Collector | 6.00% | ~11,296 |
 | ELO | 5.00% | ~9,413 |
 | Family Fork | 5.00% | ~9,413 |
 | Friendly Fire | 5.00% | ~9,413 |
-| Underpromote | 4.00% | ~7,530 |
+| Underpromote | 4.00% | ~7,531 |
 | ELO ELO | 3.00% | ~5,648 |
 | Blind Pigs | 2.00% | ~3,765 |
 | ELO ELO ELO | 2.00% | ~3,765 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 797)
 | Tournament Master | 0.10% | ~188 |
 | Tournament Pro | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,259 (Ranked 56)  
+Progressed: 188,267 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-06-28 | 187,234 | 2 |
 | 2023-06-29 | 187,561 | 2 |
 | 2023-06-30 | 187,913 | 2 |
-| 2023-07-01 | 188,259 | 2 |
+| 2023-07-01 | 188,267 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -2404,10 +2404,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7235,
       "NumberOfAwardsMax": 885
+    },
+    {
+      "Time": "2023-07-01T22:58:36.2374258+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7237,
+      "NumberOfAwardsMax": 885
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7235,
+  "NumberOfAwards": 7237,
   "NumberOfAwardsMax": 885,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2451,7 +2457,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 769
+      "Count": 771
     },
     {
       "Text": "This game is Relaxing",
@@ -2478,11 +2484,11 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 5769,
+  "EOS_Progressed": 5772,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 2.76,
+  "EOS_Completed_Percentage": 2.75,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -4528,6 +4534,11 @@
       "Time": "2023-07-01T22:07:00.6979492+00:00",
       "NumProgressed": 5769,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-07-01T23:05:36.9367807+00:00",
+      "NumProgressed": 5772,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 15,
@@ -4547,7 +4558,7 @@
       "Name": "Banker",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "Bestest_Friend",
@@ -4555,7 +4566,7 @@
       "Name": "Bestest Friend",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3117
     },
     {
       "ID": "Chef_Cook",
@@ -4579,7 +4590,7 @@
       "Name": "Constructor",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3348
     },
     {
       "ID": "Duty_Bound",
@@ -4595,7 +4606,7 @@
       "Name": "Gardener",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "Generous",
@@ -4603,7 +4614,7 @@
       "Name": "Generous",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "Goofys_Investor",
@@ -4611,7 +4622,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4387
     },
     {
       "ID": "Miner",
@@ -4627,7 +4638,7 @@
       "Name": "Photographer",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4211
+      "UsersEstimate": 4214
     },
     {
       "ID": "Renovator",
@@ -4635,7 +4646,7 @@
       "Name": "Renovator",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 3231
+      "UsersEstimate": 3232
     },
     {
       "ID": "Thorn_Cleaner",
@@ -4651,23 +4662,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3983
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 5769,
+      "Progressed": 5772,
       "Completed": 159
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-07-01T19:58:23.3492752+00:00",
-  "LastChanged_Achievements": "2023-07-01T22:07:00.6979483+00:00",
+  "LastChanged": "2023-07-01T22:58:36.2374255+00:00",
+  "LastChanged_Achievements": "2023-07-01T23:05:36.9367801+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:32.86428+00:00",
-  "LastUpdate_Ratings": "2023-07-01T21:58:37.0953493+00:00",
-  "LastUpdate_Achievements": "2023-07-01T22:07:00.6979895+00:00"
+  "LastUpdate_Ratings": "2023-07-01T22:58:36.2374265+00:00",
+  "LastUpdate_Achievements": "2023-07-01T23:05:36.9368046+00:00"
 }

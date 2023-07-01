@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4897,
+  "EOS_Progressed": 4898,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4796,6 +4796,11 @@
       "Time": "2023-07-01T22:07:25.2633124+00:00",
       "NumProgressed": 4897,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T23:05:58.3119536+00:00",
+      "NumProgressed": 4898,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4821,9 +4826,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "12",
@@ -5061,9 +5066,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "4",
@@ -5181,9 +5186,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 98
     },
     {
       "ID": "49",
@@ -5206,13 +5211,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4897,
+      "Progressed": 4898,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4897,
+      "Progressed": 4898,
       "Completed": 4
     }
   ],
@@ -5220,8 +5225,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T22:07:25.2633118+00:00",
+  "LastChanged_Achievements": "2023-07-01T23:05:58.3119526+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:00:27.5874565+00:00",
-  "LastUpdate_Achievements": "2023-07-01T22:07:25.2634402+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:00:17.418878+00:00",
+  "LastUpdate_Achievements": "2023-07-01T23:05:58.3120408+00:00"
 }

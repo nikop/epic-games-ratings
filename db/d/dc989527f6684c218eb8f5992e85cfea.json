@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5482,
+  "EOS_Progressed": 5485,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1493,
+  "EOS_NewPlayers": 1480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1696,6 +1696,11 @@
       "Time": "2023-07-01T22:02:10.9837287+00:00",
       "NumProgressed": 5482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T23:01:53.71605+00:00",
+      "NumProgressed": 5485,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -1755,7 +1760,7 @@
       "Name": "Vermeer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -1779,15 +1784,15 @@
       "Name": "You tried your best!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
       "SetID": "5ck0pmd",
       "Name": "First words",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -1891,7 +1896,7 @@
       "Name": "First Prize!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -1906,14 +1911,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 5482,
+      "Progressed": 5485,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-01T22:02:10.9837282+00:00",
+  "LastChanged_Achievements": "2023-07-01T23:01:53.7160493+00:00",
   "LastUpdate_AppInfo": "2023-06-30T17:57:02.6328291+00:00",
-  "LastUpdate_Ratings": "2023-07-01T21:57:02.6454093+00:00",
-  "LastUpdate_Achievements": "2023-07-01T22:02:10.9837759+00:00"
+  "LastUpdate_Ratings": "2023-07-01T22:57:08.3835904+00:00",
+  "LastUpdate_Achievements": "2023-07-01T23:01:53.7161288+00:00"
 }

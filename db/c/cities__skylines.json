@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -6782,10 +6782,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 36823,
       "NumberOfAwardsMax": 4842
+    },
+    {
+      "Time": "2023-07-01T23:01:34.8682165+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 36831,
+      "NumberOfAwardsMax": 4842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36823,
+  "NumberOfAwards": 36831,
   "NumberOfAwardsMax": 4842,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6829,7 +6835,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4228
+      "Count": 4236
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6850,9 +6856,9 @@
       "Count": 2967
     }
   ],
-  "EOS_Progressed": 874646,
+  "EOS_Progressed": 874728,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19731,
+  "EOS_NewPlayers": 19712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14615,6 +14621,11 @@
       "Time": "2023-07-01T22:08:45.0027023+00:00",
       "NumProgressed": 874646,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-01T23:07:10.0850702+00:00",
+      "NumProgressed": 874728,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 119,
@@ -14746,7 +14757,7 @@
       "Name": "City in Motion",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "CityInMotion2",
@@ -14762,7 +14773,7 @@
       "Name": "City Planner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 201169
+      "UsersEstimate": 201187
     },
     {
       "ID": "ClarkCable",
@@ -14778,7 +14789,7 @@
       "Name": "Climbing the Social Ladder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 139943
+      "UsersEstimate": 139956
     },
     {
       "ID": "CoasterTycoon",
@@ -14818,7 +14829,7 @@
       "Name": "Decorator",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "DistinguishedAcademics",
@@ -14842,7 +14853,7 @@
       "Name": "Does My Bum Look Big In This?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 148690
+      "UsersEstimate": 148704
     },
     {
       "ID": "DropTheBase",
@@ -14850,7 +14861,7 @@
       "Name": "Drop the Base",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "EarthlovingCity",
@@ -14858,7 +14869,7 @@
       "Name": "Earthloving City",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "EternalCity",
@@ -14882,7 +14893,7 @@
       "Name": "Fire Watch",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 43732
+      "UsersEstimate": 43736
     },
     {
       "ID": "FisherKing",
@@ -14898,7 +14909,7 @@
       "Name": "Foggy Weather",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 516041
+      "UsersEstimate": 516090
     },
     {
       "ID": "ForForProfitEducation",
@@ -14962,7 +14973,7 @@
       "Name": "Green Energy",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 524788
+      "UsersEstimate": 524837
     },
     {
       "ID": "GreenestCity",
@@ -14970,7 +14981,7 @@
       "Name": "Greenest City",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 34986
+      "UsersEstimate": 34989
     },
     {
       "ID": "HappyTown",
@@ -14986,7 +14997,7 @@
       "Name": "Heavenly City",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26242
     },
     {
       "ID": "HeresATram",
@@ -15066,7 +15077,7 @@
       "Name": "It\u0027s heading right for us!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "ItsWintertime",
@@ -15090,7 +15101,7 @@
       "Name": "Lawmaker",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 87465
+      "UsersEstimate": 87473
     },
     {
       "ID": "LeisureSuites",
@@ -15130,7 +15141,7 @@
       "Name": "Metropolis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8746
+      "UsersEstimate": 8747
     },
     {
       "ID": "MultidisciplinaryTransportTycoon",
@@ -15162,7 +15173,7 @@
       "Name": "Nomen Est Omen",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 61225
+      "UsersEstimate": 61231
     },
     {
       "ID": "NotSoMono",
@@ -15202,7 +15213,7 @@
       "Name": "Pioneer",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 620999
+      "UsersEstimate": 621057
     },
     {
       "ID": "PlayingWithTheBoys",
@@ -15218,7 +15229,7 @@
       "Name": "Postman",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "PowerAtYourFingertips",
@@ -15226,7 +15237,7 @@
       "Name": "Power at Your Fingertips",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 288633
+      "UsersEstimate": 288660
     },
     {
       "ID": "PowerToThePeople",
@@ -15250,7 +15261,7 @@
       "Name": "Professional Dumper",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 17493
+      "UsersEstimate": 17495
     },
     {
       "ID": "PutSomeBlimpInYourBlimp",
@@ -15266,7 +15277,7 @@
       "Name": "Quay-King",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 96211
+      "UsersEstimate": 96220
     },
     {
       "ID": "RejoiceAndBeFerry",
@@ -15282,7 +15293,7 @@
       "Name": "Reporting!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26242
     },
     {
       "ID": "RollingInDough",
@@ -15290,7 +15301,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 174929
+      "UsersEstimate": 174946
     },
     {
       "ID": "RunBambi",
@@ -15306,7 +15317,7 @@
       "Name": "SIMulated City",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26242
     },
     {
       "ID": "SafeCity",
@@ -15314,7 +15325,7 @@
       "Name": "Safe City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122450
+      "UsersEstimate": 122462
     },
     {
       "ID": "ScalingUp",
@@ -15338,7 +15349,7 @@
       "Name": "Shake It Up!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "ShortFuse",
@@ -15362,7 +15373,7 @@
       "Name": "Singing In The-",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 516041
+      "UsersEstimate": 516090
     },
     {
       "ID": "Speedup",
@@ -15370,7 +15381,7 @@
       "Name": "Speed up!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "StudentHousingProject",
@@ -15418,7 +15429,7 @@
       "Name": "The Safest Town",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 26239
+      "UsersEstimate": 26242
     },
     {
       "ID": "TheSweetestCity",
@@ -15442,7 +15453,7 @@
       "Name": "The Waters of Our Lives",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "ThunderAndLightning",
@@ -15450,7 +15461,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "TotallyInMotion",
@@ -15490,7 +15501,7 @@
       "Name": "Twist and shout",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "UnpopularMayor",
@@ -15498,7 +15509,7 @@
       "Name": "Unpopular Mayor",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 358605
+      "UsersEstimate": 358638
     },
     {
       "ID": "VarsitySportsPatron",
@@ -15538,7 +15549,7 @@
       "Name": "Well Informed",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 52479
+      "UsersEstimate": 52484
     },
     {
       "ID": "WhatThe",
@@ -15554,7 +15565,7 @@
       "Name": "With Canals You Can!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 87465
+      "UsersEstimate": 87473
     },
     {
       "ID": "WorldOfRotorcraft",
@@ -15577,21 +15588,21 @@
     {
       "ID": "36jm6o0",
       "IsBase": false,
-      "Progressed": 874646,
+      "Progressed": 874728,
       "Completed": 2
     },
     {
       "ID": "6bebhm4",
       "IsBase": true,
-      "Progressed": 874646,
+      "Progressed": 874728,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2023-07-01T20:01:14.5015969+00:00",
-  "LastChanged_Achievements": "2023-07-01T22:08:45.0027019+00:00",
+  "LastChanged": "2023-07-01T23:01:34.8682163+00:00",
+  "LastChanged_Achievements": "2023-07-01T23:07:10.0850696+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:11.1781916+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:01:51.688446+00:00",
-  "LastUpdate_Achievements": "2023-07-01T22:08:45.003032+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:01:34.8682172+00:00",
+  "LastUpdate_Achievements": "2023-07-01T23:07:10.085343+00:00"
 }

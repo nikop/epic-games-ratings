@@ -7,6 +7,8 @@ Rating: 4.59 (Ranked 410)
 | ---- | ---------- | ----- |
 | Secret Technique | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
+| Blood of the Dragon | 2.00% | ~98 |
+| There Can Only Be One! | 1.00% | ~49 |
 | Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
 | Walls Cannot Stop Us | 1.00% | ~49 |
@@ -14,15 +16,13 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
 | My Final Form | 1.00% | ~49 |
+| Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
-| Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
-| There Can Only Be One! | 0.90% | ~44 |
 | Bone Peddler | 0.90% | ~44 |
 | Seat of Power | 0.90% | ~44 |
 | Fiery Friend | 0.90% | ~44 |
-| Impenetrable Fortress | 0.90% | ~44 |
 | Full Ascension | 0.80% | ~39 |
 | Preparation Is Everything | 0.80% | ~39 |
 | Against the Odds | 0.80% | ~39 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,897 (Ranked 134)  
+Progressed: 4,898 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
-| 2023-07-01 | 4,897 | 4 |
+| 2023-07-01 | 4,898 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
 | Harvester | 9.00% | ~5 |
 | Workforce | 9.00% | ~5 |
 | Builder | 5.00% | ~3 |
-| Cook | 2.00% | ~1 |
+| Cook | 4.00% | ~2 |
 | Crafter | 2.00% | ~1 |
 | Healer | 2.00% | ~1 |
 | Rep1 | 2.00% | ~1 |
