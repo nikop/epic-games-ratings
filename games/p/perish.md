@@ -26,6 +26,7 @@
 | Divine Assemblage | 3.00% | ~92 |
 | Ophiolatreia | 3.00% | ~92 |
 | Comedy and Tragedy | 2.00% | ~62 |
+| Wayward Son of Hephaestus | 2.00% | ~62 |
 | Forged in Fire | 2.00% | ~62 |
 | Chthonic Investor | 2.00% | ~62 |
 | First Fragment | 2.00% | ~62 |
@@ -38,7 +39,6 @@
 | Blot Out the Sky | 2.00% | ~62 |
 | Serpentine | 2.00% | ~62 |
 | The Nameless One | 1.00% | ~31 |
-| Wayward Son of Hephaestus | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
 | Rock and a Hard Place | 1.00% | ~31 |

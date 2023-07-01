@@ -1658,9 +1658,9 @@
       "ID": "ACH_B_FS",
       "SetID": "b3fep3o",
       "Name": "Wayward Son of Hephaestus",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_B_K",
@@ -2155,8 +2155,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:04:15.3934318+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:04:59.678269+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:59:41.8455241+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:04:15.3935033+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:00:41.3418705+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:04:59.6783471+00:00"
 }

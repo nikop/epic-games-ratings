@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
@@ -3358,9 +3358,9 @@
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
       "SetID": "akchbl3",
       "Name": "Peak Performance",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3483
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3535,8 +3535,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-30T22:57:38.2257253+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:03:14.7079723+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:03:32.1128642+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:57:44.3723431+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:03:14.7080381+00:00"
+  "LastUpdate_Ratings": "2023-07-01T06:57:49.6266991+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:03:32.1129395+00:00"
 }

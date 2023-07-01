@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.62,
+  "EOS_Completed_Percentage": 3.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -176,6 +176,11 @@
       "Time": "2023-06-30T18:06:52.0735356+00:00",
       "NumProgressed": 221,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-01T07:07:27.5659353+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -185,17 +190,17 @@
       "ID": "605732",
       "SetID": "4lpaifm",
       "Name": "Good Start",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 209
     },
     {
       "ID": "605742",
       "SetID": "4lpaifm",
       "Name": "Creator of Diversity",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "605752",
@@ -203,7 +208,7 @@
       "Name": "Creator of Life",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "605762",
@@ -211,15 +216,15 @@
       "Name": "Creator of Humanity",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "605782",
@@ -235,7 +240,7 @@
       "Name": "Creator of Modernity",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "605802",
@@ -259,7 +264,7 @@
       "Name": "Brilliant Inventor",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "605832",
@@ -297,9 +302,9 @@
       "ID": "605872",
       "SetID": "4lpaifm",
       "Name": "Practice Makes Perfect",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "605892",
@@ -307,7 +312,7 @@
       "Name": "Similar to Similar",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "605912",
@@ -362,7 +367,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 8
     }
   ],
@@ -370,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:05:58.283415+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:07:27.5659346+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:31.2083175+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:59:27.0006364+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:05:58.2834339+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:00:19.6014223+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:07:27.565962+00:00"
 }

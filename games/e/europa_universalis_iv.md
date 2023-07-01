@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~5,737 |
-| That's a Grand Army | 8.00% | ~5,099 |
-| That is mine! | 8.00% | ~5,099 |
-| Victorious! | 8.00% | ~5,099 |
-| Brothers in Arms | 6.00% | ~3,824 |
-| That's a Grand Navy | 6.00% | ~3,824 |
-| Seriously?! | 6.00% | ~3,824 |
+| That's a Grand Army | 8.00% | ~5,100 |
+| That is mine! | 8.00% | ~5,100 |
+| Victorious! | 8.00% | ~5,100 |
+| Brothers in Arms | 6.00% | ~3,825 |
+| That's a Grand Navy | 6.00% | ~3,825 |
+| Seriously?! | 6.00% | ~3,825 |
 | For the Glory | 5.00% | ~3,187 |
 | Cold War | 4.00% | ~2,550 |
 | True Catholic | 4.00% | ~2,550 |
@@ -50,11 +50,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Family to Rule them All | 0.60% | ~382 |
 | Populists in Government | 0.60% | ~382 |
 | The pen is mightier than the sword | 0.60% | ~382 |
+| This is My Faith | 0.60% | ~382 |
 | Time Bandit | 0.60% | ~382 |
 | Early-Modern Warfare | 0.50% | ~319 |
 | Grand Coalition | 0.50% | ~319 |
 | Ruina Imperii | 0.50% | ~319 |
-| This is My Faith | 0.50% | ~319 |
 | Trophy Hunter | 0.50% | ~319 |
 | Voting Streak | 0.50% | ~319 |
 | Absolutely | 0.40% | ~255 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,739 (Ranked 78)  
+Progressed: 63,748 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 62,759 | 0 |
 | 2023-06-29 | 63,199 | 0 |
 | 2023-06-30 | 63,649 | 0 |
-| 2023-07-01 | 63,739 | 0 |
+| 2023-07-01 | 63,748 | 0 |
 ## Awards
 Max (Educational): 5,480  (Ranked 61)  
 Sum: 45,250 (Ranked 27)  

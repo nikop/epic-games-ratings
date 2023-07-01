@@ -486,9 +486,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2226,6 +2226,11 @@
       "Time": "2023-06-30T19:07:34.3734404+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T07:07:41.2842879+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -2253,7 +2258,7 @@
       "Name": "Transport master",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achAccumulate1B",
@@ -2261,7 +2266,7 @@
       "Name": "Transport tycoon",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achAccumulate1BHard",
@@ -2277,7 +2282,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "achAircraftEarnings",
@@ -2291,9 +2296,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 299
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -2333,7 +2338,7 @@
       "Name": "First bus stop",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achBuildTrainStation",
@@ -2341,7 +2346,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "achCannotGetEnough",
@@ -2357,7 +2362,7 @@
       "Name": "City",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achCollectAllMedals",
@@ -2405,7 +2410,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "achCrowdInATrain",
@@ -2469,7 +2474,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -2493,7 +2498,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "achFirstShipArrived",
@@ -2509,7 +2514,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achGlacierExpress",
@@ -2579,9 +2584,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 476
     },
     {
       "ID": "achMetropolis",
@@ -2645,7 +2650,7 @@
       "Name": "The king of the sea",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achSmellOfSuccess",
@@ -2724,15 +2729,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:06:08.2881707+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:07:41.284287+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:53.6658192+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:59:40.8369851+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:06:08.2882398+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:00:39.8044121+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:07:41.2843771+00:00"
 }

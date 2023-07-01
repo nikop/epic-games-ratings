@@ -12,7 +12,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 79.00% | ~166 |
 | Welcome to Sonic 3 & Knuckles | 79.00% | ~166 |
 | Ring Collector | 76.00% | ~160 |
-| Time Traveler | 73.00% | ~153 |
+| Time Traveler | 74.00% | ~155 |
 | Knuckles the Echidna | 71.00% | ~149 |
 | Everyone's Hero | 71.00% | ~149 |
 | Bubbly Breath | 69.00% | ~145 |

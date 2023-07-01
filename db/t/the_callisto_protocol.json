@@ -756,10 +756,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 351,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-07-01T06:58:21.6993482+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351,
+  "NumberOfAwards": 353,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -767,7 +773,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game is Extremely Fun",
@@ -806,9 +812,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15601,
+  "EOS_Progressed": 15602,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5031,6 +5037,11 @@
       "Time": "2023-07-01T05:04:55.2157094+00:00",
       "NumProgressed": 15601,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T07:05:59.7019832+00:00",
+      "NumProgressed": 15602,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5064,17 +5075,17 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5232,9 +5243,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "STORY_ESCAPE",
@@ -5400,9 +5411,9 @@
       "ID": "KINETIC_HAMMER",
       "SetID": "6j5ggkc",
       "Name": "It\u0027s Time",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -5417,22 +5428,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15601,
+      "Progressed": 15602,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3527,
+      "Progressed": 3528,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-01T03:57:51.4496843+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:04:56.7630424+00:00",
+  "LastChanged": "2023-07-01T06:58:21.699348+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:05:59.7019827+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:58:06.8164195+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:04:56.7631096+00:00"
+  "LastUpdate_Ratings": "2023-07-01T06:58:21.6993487+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:05:59.7020615+00:00"
 }

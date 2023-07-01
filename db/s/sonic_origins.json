@@ -253,7 +253,7 @@
   ],
   "EOS_Progressed": 210,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 11.9,
   "EosHistory": [
@@ -808,9 +808,9 @@
       "ID": "ID_07_SONICCD_TIME_WARP",
       "SetID": "7o8nc5m",
       "Name": "Time Traveler",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
@@ -1048,8 +1048,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-06-23T19:57:52.2372739+00:00",
-  "LastChanged_Achievements": "2023-07-01T06:05:47.7715751+00:00",
+  "LastChanged_Achievements": "2023-07-01T07:07:13.8192915+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-01T05:58:02.2294149+00:00",
-  "LastUpdate_Achievements": "2023-07-01T06:05:47.7716065+00:00"
+  "LastUpdate_Ratings": "2023-07-01T06:58:16.0207242+00:00",
+  "LastUpdate_Achievements": "2023-07-01T07:07:13.819322+00:00"
 }

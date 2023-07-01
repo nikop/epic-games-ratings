@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 33.00% | ~111 |
-| Baby's First Car | 32.00% | ~107 |
+| Baby's First Car | 32.00% | ~108 |
 | Amateur Mechanic | 31.00% | ~104 |
 | Pushover | 31.00% | ~104 |
-| A Forest Walk | 30.00% | ~100 |
+| A Forest Walk | 30.00% | ~101 |
 | C-C-C-Combo! | 29.00% | ~97 |
 | Multiply that! | 29.00% | ~97 |
 | Fore! | 26.00% | ~87 |
@@ -18,26 +18,26 @@
 | The Collector | 25.00% | ~84 |
 | Bag of Tricks | 25.00% | ~84 |
 | You're it | 25.00% | ~84 |
-| First Come, First Serve | 24.00% | ~80 |
-| To and Fro | 24.00% | ~80 |
-| Take that Frosty! | 24.00% | ~80 |
-| Goodbye cruel world | 24.00% | ~80 |
-| I see the light! | 24.00% | ~80 |
-| In the Bag! | 24.00% | ~80 |
+| First Come, First Serve | 24.00% | ~81 |
+| To and Fro | 24.00% | ~81 |
+| Take that Frosty! | 24.00% | ~81 |
+| Goodbye cruel world | 24.00% | ~81 |
+| I see the light! | 24.00% | ~81 |
+| In the Bag! | 24.00% | ~81 |
 | Disoriented | 23.00% | ~77 |
 | Beach Party! | 23.00% | ~77 |
 | Car-Tapult | 22.00% | ~74 |
 | Anger Issues | 22.00% | ~74 |
 | Your Highness | 22.00% | ~74 |
-| Event Amateur | 21.00% | ~70 |
+| Event Amateur | 21.00% | ~71 |
 | Feeling Dizzy? | 20.00% | ~67 |
 | Drift King! | 19.00% | ~64 |
 | Feeling Hot Hot Hot! | 19.00% | ~64 |
-| Ferry Good! | 19.00% | ~64 |
-| Speed of light | 19.00% | ~64 |
+| Ferry Good! | 18.00% | ~60 |
 | Assert Dominance | 18.00% | ~60 |
-| Out of this League | 16.00% | ~54 |
+| Speed of light | 18.00% | ~60 |
 | Special Forces | 15.00% | ~50 |
+| Out of this League | 15.00% | ~50 |
 | Earth Defense Force | 13.00% | ~44 |
 | Toot Toot! | 13.00% | ~44 |
 | Rocketman | 13.00% | ~44 |
@@ -45,8 +45,8 @@
 | High Roller | 12.00% | ~40 |
 | Event Pro | 11.00% | ~37 |
 | Space Crash | 8.00% | ~27 |
-| To war! | 7.00% | ~23 |
-| Hoarder | 7.00% | ~23 |
+| To war! | 7.00% | ~24 |
+| Hoarder | 7.00% | ~24 |
 | Event Master | 6.00% | ~20 |
 | A Starting Collector | 5.00% | ~17 |
 | My Precious | 4.00% | ~13 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335 (Ranked 232)  
+Progressed: 336 (Ranked 232)  
 Completed: 2 (0.60%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 2 (0.60%) (Ranked 119)
 | 2023-06-27 | 333 | 2 |
 | 2023-06-28 | 334 | 2 |
 | 2023-06-29 | 335 | 2 |
+| 2023-07-01 | 336 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

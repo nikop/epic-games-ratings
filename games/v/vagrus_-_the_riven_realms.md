@@ -33,6 +33,7 @@
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
+| Deputized | 0.90% | ~1 |
 | Despised | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
@@ -55,7 +56,6 @@
 | Company of Heroes | 0.00% | ~0 |
 | Embellished | 0.00% | ~0 |
 | Huntress Unbound | 0.00% | ~0 |
-| Deputized | 0.00% | ~0 |
 | Accomplished Explorer | 0.00% | ~0 |
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |
