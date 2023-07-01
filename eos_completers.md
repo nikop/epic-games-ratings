@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.59% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.80% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 33.33% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -27,7 +27,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.31% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.30% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 30 | [Scorn](games/s/scorn.md) | 6.91% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -59,8 +59,8 @@
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.79% |
-| 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.78% |
+| 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
@@ -105,7 +105,7 @@
 | 103 | [Adios](games/a/adios.md) | 0.92% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
 | 109 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
@@ -121,8 +121,8 @@
 | 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
-| 122 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 123 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
 | 124 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 126 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
@@ -355,6 +355,7 @@
 | 231 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 231 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
 | 231 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 0.00% |
+| 231 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 0.00% |
 | 231 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 0.00% |
 | 231 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 0.00% |
 | 231 | [Model Builder](games/m/model_builder.md) | 0.00% |

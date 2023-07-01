@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,663 | 4.62 | 345 |
 | 10 | [VALORANT](games/v/valorant.md) | 58,980 | 4.53 | 504 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,507 | 4.58 | 421 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,705 | 4.60 | 387 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,785 | 4.60 | 387 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,369 | 4.50 | 549 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,810 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,329 | 4.52 | 517 |
@@ -120,7 +120,7 @@
 | 118 | [Celeste](games/c/celeste.md) | 1,504 | 4.92 | 4 |
 | 119 | [Ring of Pain](games/r/ring_of_pain.md) | 1,482 | 4.58 | 421 |
 | 120 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,463 | 4.79 | 89 |
-| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,422 | 4.81 | 75 |
+| 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,426 | 4.81 | 75 |
 | 122 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,407 | 4.87 | 26 |
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,361 | 4.62 | 345 |
 | 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,303 | 4.70 | 196 |
@@ -267,7 +267,7 @@
 | 265 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 734 |
 | 266 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
 | 267 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 199 | 4.56 | 456 |
-| 268 | [shapez](games/s/shapez.md) | 198 | 4.71 | 182 |
+| 267 | [shapez](games/s/shapez.md) | 199 | 4.71 | 182 |
 | 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 197 | 4.42 | 659 |
 | 269 | [Relicta](games/r/relicta.md) | 197 | 4.15 | 866 |
 | 271 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 273 |
