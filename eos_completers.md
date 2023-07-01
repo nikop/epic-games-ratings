@@ -16,19 +16,19 @@
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
-| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 18 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.93% |
+| 17 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.14% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 23 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 9.09% |
-| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 25 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.30% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
 | 30 | [Scorn](games/s/scorn.md) | 6.91% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -36,7 +36,7 @@
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.71% |
 | 35 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.15% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.14% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.77% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
@@ -73,7 +73,7 @@
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.18% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -88,7 +88,7 @@
 | 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.39% |
+| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.37% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.36% |
 | 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
