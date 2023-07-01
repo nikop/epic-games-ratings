@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1108,
+  "EOS_Progressed": 1109,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.79,
   "EosHistory": [
@@ -1676,6 +1676,11 @@
       "Time": "2023-07-01T09:06:23.517906+00:00",
       "NumProgressed": 1108,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-01T15:05:46.9659729+00:00",
+      "NumProgressed": 1109,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -1709,9 +1714,9 @@
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 199
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -1735,7 +1740,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1775,7 +1780,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1814,7 +1819,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1108,
+      "Progressed": 1109,
       "Completed": 42
     }
   ],
@@ -1822,8 +1827,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:05:37.4082862+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:05:46.9659724+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:19.9703455+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:58:23.3207859+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:05:37.4083088+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:58:28.6981553+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:05:46.9659903+00:00"
 }

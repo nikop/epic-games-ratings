@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,754 |
-| That's a Grand Army | 8.00% | ~5,115 |
-| That is mine! | 8.00% | ~5,115 |
-| Victorious! | 8.00% | ~5,115 |
-| Brothers in Arms | 6.00% | ~3,836 |
-| That's a Grand Navy | 6.00% | ~3,836 |
-| Seriously?! | 6.00% | ~3,836 |
-| For the Glory | 5.00% | ~3,197 |
-| Cold War | 4.00% | ~2,557 |
-| True Catholic | 4.00% | ~2,557 |
-| Defender of the Faith | 3.00% | ~1,918 |
-| It's all about the money | 3.00% | ~1,918 |
-| Respected | 3.00% | ~1,918 |
-| The Princess is in this Castle | 3.00% | ~1,918 |
-| Truly Divine Ruler | 3.00% | ~1,918 |
+| Until death do us apart | 9.00% | ~5,756 |
+| That's a Grand Army | 8.00% | ~5,117 |
+| That is mine! | 8.00% | ~5,117 |
+| Victorious! | 8.00% | ~5,117 |
+| Brothers in Arms | 6.00% | ~3,838 |
+| That's a Grand Navy | 6.00% | ~3,838 |
+| Seriously?! | 6.00% | ~3,838 |
+| For the Glory | 5.00% | ~3,198 |
+| Cold War | 4.00% | ~2,558 |
+| True Catholic | 4.00% | ~2,558 |
+| Defender of the Faith | 3.00% | ~1,919 |
+| It's all about the money | 3.00% | ~1,919 |
+| Respected | 3.00% | ~1,919 |
+| The Princess is in this Castle | 3.00% | ~1,919 |
+| Truly Divine Ruler | 3.00% | ~1,919 |
 | Agressive Expander | 2.00% | ~1,279 |
 | Blockader | 2.00% | ~1,279 |
 | Combined Arms | 2.00% | ~1,279 |
@@ -31,19 +31,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 2.00% | ~1,279 |
 | Royal Authority | 2.00% | ~1,279 |
 | Total Control | 2.00% | ~1,279 |
-| All That's Thine Shall Be Mine | 1.00% | ~639 |
-| Azur semé de lis or | 1.00% | ~639 |
-| Bright Spark | 1.00% | ~639 |
-| City of Cities | 1.00% | ~639 |
-| Factionalism | 1.00% | ~639 |
-| A Golden Empire | 1.00% | ~639 |
-| The Five Colonies | 1.00% | ~639 |
-| This navy can take it all | 1.00% | ~639 |
-| The Emperors new clothes | 0.90% | ~575 |
-| Isn't this the way to India? | 0.90% | ~575 |
-| Market Control | 0.90% | ~575 |
-| Down Under | 0.80% | ~511 |
-| Trustworthy | 0.80% | ~511 |
+| All That's Thine Shall Be Mine | 1.00% | ~640 |
+| Azur semé de lis or | 1.00% | ~640 |
+| Bright Spark | 1.00% | ~640 |
+| City of Cities | 1.00% | ~640 |
+| Factionalism | 1.00% | ~640 |
+| A Golden Empire | 1.00% | ~640 |
+| The Five Colonies | 1.00% | ~640 |
+| This navy can take it all | 1.00% | ~640 |
+| The Emperors new clothes | 0.90% | ~576 |
+| Isn't this the way to India? | 0.90% | ~576 |
+| Market Control | 0.90% | ~576 |
+| Down Under | 0.80% | ~512 |
+| Trustworthy | 0.80% | ~512 |
 | Electable! | 0.70% | ~448 |
 | All belongs to Mother Russia | 0.60% | ~384 |
 | At every continent | 0.60% | ~384 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,934 (Ranked 78)  
+Progressed: 63,960 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,10 +433,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-28 | 62,759 | 0 |
 | 2023-06-29 | 63,199 | 0 |
 | 2023-06-30 | 63,649 | 0 |
-| 2023-07-01 | 63,934 | 0 |
+| 2023-07-01 | 63,960 | 0 |
 ## Awards
 Max (Educational): 5,480  (Ranked 61)  
-Sum: 45,267 (Ranked 27)  
+Sum: 45,270 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -447,7 +447,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 5,159 |
 | This game is Relaxing | 5,088 |
 | This game has Competitive Players | 4,920 |
-| This game has Amazing Storytelling | 4,650 |
+| This game has Amazing Storytelling | 4,653 |
 | This game has Amazing Characters | 4,301 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -618,4 +618,4 @@ Diff (max vs sum): 34
 | 2023-06-28 | 4.69 | - | 5,469 | 45,178 |
 | 2023-06-29 | 4.69 | - | 5,476 | 45,217 |
 | 2023-06-30 | 4.69 | - | 5,480 | 45,249 |
-| 2023-07-01 | 4.69 | - | 5,480 | 45,267 |
+| 2023-07-01 | 4.69 | - | 5,480 | 45,270 |

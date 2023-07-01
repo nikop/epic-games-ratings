@@ -24,12 +24,12 @@ Rating: 4.59 (Ranked 410)
 | Full Ascension | 0.80% | ~39 |
 | Seat of Power | 0.80% | ~39 |
 | Fiery Friend | 0.80% | ~39 |
+| Digging for Treasure | 0.70% | ~34 |
 | Preparation Is Everything | 0.70% | ~34 |
 | In a Liege of Your Own | 0.70% | ~34 |
 | Against the Odds | 0.70% | ~34 |
 | Duality | 0.70% | ~34 |
 | Return of the Wizard King | 0.60% | ~29 |
-| Digging for Treasure | 0.60% | ~29 |
 | Valley of Wonders | 0.50% | ~24 |
 | Arch Mage | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
@@ -41,13 +41,13 @@ Rating: 4.59 (Ranked 410)
 | The Goddess of Nature | 0.30% | ~15 |
 | The Eternal Court | 0.30% | ~15 |
 | Jack of All Tomes | 0.30% | ~15 |
+| I've Got Everything I Need Right Here | 0.20% | ~10 |
 | Crimson Caldera | 0.20% | ~10 |
 | Manufactured War | 0.20% | ~10 |
 | Pruning for Progress | 0.20% | ~10 |
 | Grexolis | 0.20% | ~10 |
 | One for All, All for One | 0.20% | ~10 |
 | Snap Out of It! | 0.10% | ~5 |
-| I've Got Everything I Need Right Here | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |

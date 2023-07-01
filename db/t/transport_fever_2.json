@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2256,9 +2256,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 721
     },
     {
       "ID": "achAccumulate1B",
@@ -2296,9 +2296,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 313
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -2440,9 +2440,9 @@
       "ID": "achFirstAircraftArrived",
       "SetID": "dgl390n",
       "Name": "First aircraft arrived",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 558
     },
     {
       "ID": "achFirstBusArrived",
@@ -2536,9 +2536,9 @@
       "ID": "achHq",
       "SetID": "dgl390n",
       "Name": "Settled down",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 667
     },
     {
       "ID": "achHq20",
@@ -2736,8 +2736,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:05:58.7331609+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:06:07.378312+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:53.6658192+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:59:22.4611023+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:05:58.7332282+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:59:30.5734898+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:06:07.3783671+00:00"
 }

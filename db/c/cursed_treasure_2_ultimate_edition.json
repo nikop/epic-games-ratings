@@ -551,9 +551,9 @@
       "ID": "BADGE_THUNDER_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Thunderstorm",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_TOWER_UPGRADE",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:04:16.6245661+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:04:23.2335989+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:58:24.4823221+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:04:16.6246767+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:58:30.4935556+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:04:23.233634+00:00"
 }

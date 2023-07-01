@@ -6,6 +6,8 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 0.50% | ~16 |
+| Meeting Resistance | 0.40% | ~13 |
+| Confirming Suspicions | 0.40% | ~13 |
 | The Kraken Wakes | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
 | Taking it back | 0.40% | ~13 |
@@ -15,10 +17,8 @@ Rating: 4.45 (Ranked 617)
 | No Stone Unturned | 0.30% | ~10 |
 | Opposing Force | 0.30% | ~10 |
 | Organ Grinder | 0.30% | ~10 |
-| Meeting Resistance | 0.30% | ~10 |
 | Gunslinger | 0.30% | ~10 |
 | Sharpshooter | 0.30% | ~10 |
-| Confirming Suspicions | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | Lord of War | 0.30% | ~10 |
 | Der Geist | 0.30% | ~10 |
@@ -30,15 +30,15 @@ Rating: 4.45 (Ranked 617)
 | Skirmisher | 0.20% | ~6 |
 | Set Europe Ablaze | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
+| Die Nussknacker Sweet! | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
+| Snake in the Grass | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
 | Precision Is Key | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
-| Die Nussknacker Sweet! | 0.10% | ~3 |
-| Snake in the Grass | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Burn after reading | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |

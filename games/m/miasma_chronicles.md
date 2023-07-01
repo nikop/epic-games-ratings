@@ -5,29 +5,29 @@ Rating: 4.37 (Ranked 718)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,102 |
-| Ranidaphobia | 77.00% | ~922 |
+| First Blood | 92.00% | ~1,103 |
+| Ranidaphobia | 77.00% | ~923 |
 | Aspiring Editor | 74.00% | ~887 |
 | Gun for Hire | 70.00% | ~839 |
 | I am the law! | 63.00% | ~755 |
 | Lumberjack | 52.00% | ~623 |
-| Croaked | 47.00% | ~563 |
-| Limp Richard | 46.00% | ~551 |
-| From Darkness to Light | 46.00% | ~551 |
-| Editor Adept | 45.00% | ~539 |
-| Exorcist | 45.00% | ~539 |
-| Giant Killer | 43.00% | ~515 |
-| Firestarter | 42.00% | ~503 |
-| Sensei | 41.00% | ~491 |
-| The meaning of Kain | 39.00% | ~467 |
-| Technophobe | 37.00% | ~443 |
-| Recycler | 35.00% | ~419 |
-| Are you not entertained? | 31.00% | ~371 |
-| Ganglord | 31.00% | ~371 |
-| Jarhead | 31.00% | ~371 |
-| Infiltrator | 30.00% | ~359 |
-| Pushing Daisy | 28.00% | ~335 |
-| Experienced | 26.00% | ~311 |
+| Croaked | 47.00% | ~564 |
+| Limp Richard | 46.00% | ~552 |
+| From Darkness to Light | 46.00% | ~552 |
+| Editor Adept | 45.00% | ~540 |
+| Exorcist | 45.00% | ~540 |
+| Giant Killer | 43.00% | ~516 |
+| Firestarter | 42.00% | ~504 |
+| Sensei | 41.00% | ~492 |
+| The meaning of Kain | 39.00% | ~468 |
+| Technophobe | 37.00% | ~444 |
+| Recycler | 35.00% | ~420 |
+| Are you not entertained? | 31.00% | ~372 |
+| Ganglord | 31.00% | ~372 |
+| Jarhead | 31.00% | ~372 |
+| Infiltrator | 30.00% | ~360 |
+| Pushing Daisy | 28.00% | ~336 |
+| Experienced | 27.00% | ~324 |
 | Hold The Line | 24.00% | ~288 |
 | Endgame | 23.00% | ~276 |
 | Savior | 23.00% | ~276 |
@@ -49,15 +49,15 @@ Rating: 4.37 (Ranked 718)
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Master Editor | 1.00% | ~12 |
+| Attenborough | 0.90% | ~11 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
-| Attenborough | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |
-| Bookworm | 0.30% | ~4 |
+| Bookworm | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,198 (Ranked 178)  
+Progressed: 1,199 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-27 | 1,193 | 0 |
 | 2023-06-29 | 1,195 | 0 |
 | 2023-06-30 | 1,197 | 0 |
-| 2023-07-01 | 1,198 | 0 |
+| 2023-07-01 | 1,199 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

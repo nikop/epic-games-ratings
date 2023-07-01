@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -504,7 +504,7 @@
   ],
   "EOS_Progressed": 10903,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -6032,9 +6032,9 @@
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5452
     },
     {
       "ID": "ACH09",
@@ -6265,8 +6265,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:05:51.9849353+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:06:00.7851659+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:59:51.7535264+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:05:51.984996+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:59:57.8138204+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:06:00.7852121+00:00"
 }

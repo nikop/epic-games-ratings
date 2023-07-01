@@ -3,7 +3,7 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 456,
-  "Ranking_Popularity": 436,
+  "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 175,
@@ -614,18 +614,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 255,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-07-01T14:57:26.1013753+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 256,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 255,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 256,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3544,9 +3550,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-06-30T22:57:38.2257253+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:02:43.6229714+00:00",
+  "LastChanged": "2023-07-01T14:57:26.1013752+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:03:08.9356375+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:57:24.8642764+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:02:43.6230243+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:57:26.1013758+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:03:08.9356784+00:00"
 }

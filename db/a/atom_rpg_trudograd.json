@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -201,9 +201,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1123,
+  "EOS_Progressed": 1124,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-07-01T10:07:37.3032237+00:00",
       "NumProgressed": 1123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T15:05:50.8746251+00:00",
+      "NumProgressed": 1124,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -936,9 +941,9 @@
       "ID": "HOUSEHOLD",
       "SetID": "62d2oh4",
       "Name": "Household",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 67
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -1090,14 +1095,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1123,
+      "Progressed": 1124,
       "Completed": 0
     }
   ],
@@ -1105,8 +1110,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-06-25T17:57:26.6963345+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:05:41.2439032+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:05:50.8746246+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.7263554+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:57:16.2560093+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:05:41.2439291+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:57:16.2784114+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:05:50.8746452+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 154  (23.09.2022)
 | Newbie Hero | 88.00% | ~187 |
 | Welcome to Sonic the Hedgehog 2 | 80.00% | ~170 |
 | Welcome to Sonic CD | 79.00% | ~167 |
-| Welcome to Sonic 3 & Knuckles | 78.00% | ~165 |
+| Welcome to Sonic 3 & Knuckles | 79.00% | ~167 |
 | Ring Collector | 76.00% | ~161 |
 | Time Traveler | 74.00% | ~157 |
 | Everyone's Hero | 72.00% | ~153 |
@@ -28,7 +28,7 @@ Number of Ratings: 154  (23.09.2022)
 | Shut Down Metal Sonic | 50.00% | ~106 |
 | Cleared Sonic CD | 49.00% | ~104 |
 | Beware Moto Bugs! | 47.00% | ~100 |
-| Cleared Sonic the Hedgehog 2 | 46.00% | ~98 |
+| Cleared Sonic the Hedgehog 2 | 47.00% | ~100 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 46.00% | ~98 |
 | All Clear! | 38.00% | ~81 |
 | Lucky Hedgehog | 37.00% | ~78 |

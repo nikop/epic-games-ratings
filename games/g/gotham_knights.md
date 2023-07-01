@@ -12,6 +12,7 @@ Rating: 4.18 (Ranked 850)
 | Something in the Clay | 3.00% | ~1,986 |
 | To the Victor Go the Spoils | 3.00% | ~1,986 |
 | Quartzer Life Crisis | 3.00% | ~1,986 |
+| Snow Problem | 3.00% | ~1,986 |
 | Get ReQ'd | 3.00% | ~1,986 |
 | Working Hard or Harley Working? | 3.00% | ~1,986 |
 | Unstoppable Force | 3.00% | ~1,986 |
@@ -27,7 +28,6 @@ Rating: 4.18 (Ranked 850)
 | Not On My Watch | 2.00% | ~1,324 |
 | Bulldozed | 2.00% | ~1,324 |
 | Shock Til They Drop | 2.00% | ~1,324 |
-| Snow Problem | 2.00% | ~1,324 |
 | Cooldown | 2.00% | ~1,324 |
 | Universal Health Scare | 2.00% | ~1,324 |
 | From Inside Gotham's Walls | 2.00% | ~1,324 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,204 (Ranked 73)  
+Progressed: 66,207 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-28 | 66,086 | 99 |
 | 2023-06-29 | 66,114 | 99 |
 | 2023-06-30 | 66,172 | 99 |
-| 2023-07-01 | 66,204 | 100 |
+| 2023-07-01 | 66,207 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,405  (Ranked 100)  
 Sum: 3,979 (Ranked 137)  

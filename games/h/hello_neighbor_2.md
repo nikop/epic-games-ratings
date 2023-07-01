@@ -12,7 +12,7 @@ Rating: 4.44 (Ranked 634)
 | Family Lost | 31.00% | ~783 |
 | Treasure Hunt | 30.00% | ~758 |
 | Ancient Curse | 28.00% | ~707 |
-| Cat Person | 25.00% | ~631 |
+| Cat Person | 25.00% | ~632 |
 | Hidden Secrets | 24.00% | ~606 |
 | Reunion | 24.00% | ~606 |
 | Climber | 23.00% | ~581 |
@@ -20,7 +20,7 @@ Rating: 4.44 (Ranked 634)
 | Imprisonment | 22.00% | ~556 |
 | Dog Person | 20.00% | ~505 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,525 (Ranked 153)  
+Progressed: 2,526 (Ranked 153)  
 Completed: 100 (3.96%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 100 (3.96%) (Ranked 42)
 | 2023-06-28 | 2,520 | 99 |
 | 2023-06-29 | 2,520 | 100 |
 | 2023-06-30 | 2,523 | 100 |
-| 2023-07-01 | 2,525 | 100 |
+| 2023-07-01 | 2,526 | 100 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

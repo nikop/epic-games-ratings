@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -913,9 +913,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "completeact2",
@@ -1017,9 +1017,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "scoreminrankrv2",
@@ -1042,8 +1042,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:04:17.6727955+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:04:24.3358319+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.0323513+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:58:33.2487153+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:04:17.6728133+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:58:39.9376+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:04:24.3358468+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5072,
+  "EOS_Progressed": 5073,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1969,6 +1969,11 @@
       "Time": "2023-07-01T14:02:08.0874977+00:00",
       "NumProgressed": 5072,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T15:02:12.6437713+00:00",
+      "NumProgressed": 5073,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2100,7 +2105,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ach_campaign_progress7",
@@ -2587,15 +2592,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5072,
+      "Progressed": 5073,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:02:08.087497+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:02:12.6437708+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.8817899+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:58:43.0613333+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:02:08.0875858+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:58:50.3302794+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:02:12.643843+00:00"
 }

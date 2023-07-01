@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -348,7 +348,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2525,
+  "EOS_Progressed": 2526,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
@@ -1638,6 +1638,11 @@
       "Time": "2023-07-01T14:03:21.8820666+00:00",
       "NumProgressed": 2525,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T15:03:28.0070923+00:00",
+      "NumProgressed": 2526,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1665,7 +1670,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1760,7 +1765,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2525,
+      "Progressed": 2526,
       "Completed": 100
     }
   ],
@@ -1768,8 +1773,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-28T11:01:39.862612+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:03:21.8820658+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:03:28.0070918+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:59:56.5247103+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:03:21.882087+00:00"
+  "LastUpdate_Ratings": "2023-07-01T15:00:02.5324979+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:03:28.0071078+00:00"
 }

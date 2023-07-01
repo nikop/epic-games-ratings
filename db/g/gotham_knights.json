@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1838,10 +1838,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66204,
+  "EOS_Progressed": 66207,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 285,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -8268,6 +8268,11 @@
       "Time": "2023-07-01T14:05:55.4475639+00:00",
       "NumProgressed": 66204,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T15:06:04.2664343+00:00",
+      "NumProgressed": 66207,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8517,9 +8522,9 @@
       "ID": "FREEZE_2",
       "SetID": "4eo5ebm",
       "Name": "Snow Problem",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1986
     },
     {
       "ID": "FREEZE_3",
@@ -8766,22 +8771,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66204,
+      "Progressed": 66207,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36484,
-      "Completed": 2648
+      "Progressed": 36487,
+      "Completed": 2649
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-01T03:29:37.4133843+00:00",
-  "LastChanged_Achievements": "2023-07-01T14:05:55.4475635+00:00",
+  "LastChanged_Achievements": "2023-07-01T15:06:04.2664341+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:59:28.1168905+00:00",
-  "LastUpdate_Achievements": "2023-07-01T14:05:55.4476671+00:00"
+  "LastUpdate_Ratings": "2023-07-01T14:59:34.9031133+00:00",
+  "LastUpdate_Achievements": "2023-07-01T15:06:04.2665082+00:00"
 }

@@ -123,12 +123,12 @@ Completed: 8 (0.13%) (Ranked 175)
 | 2023-06-30 | 6,332 | 8 |
 | 2023-07-01 | 6,335 | 8 |
 ## Awards
-Max (Highly Recommended): 34  (Ranked 436)  
-Sum: 255 (Ranked 346)  
-Diff (max vs sum): 90  
+Max (Highly Recommended): 35  (Ranked 434)  
+Sum: 256 (Ranked 346)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game is Extremely Fun | 31 |
 | This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 28 |
@@ -228,3 +228,4 @@ Diff (max vs sum): 90
 | 2023-06-24 | 4.56 | - | 33 | 252 |
 | 2023-06-26 | 4.56 | - | 34 | 254 |
 | 2023-06-30 | 4.56 | - | 34 | 255 |
+| 2023-07-01 | 4.56 | - | 35 | 256 |
