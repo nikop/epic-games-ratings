@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 100.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.37% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 36.59% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -17,7 +17,7 @@
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.08% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.02% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
@@ -95,7 +95,7 @@
 | 93 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 94 | [Chorus](games/c/chorus.md) | 1.19% |
 | 95 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.16% |
-| 96 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 96 | [Late Shift](games/l/late_shift.md) | 1.13% |
 | 97 | [Trifox](games/t/trifox.md) | 1.12% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
