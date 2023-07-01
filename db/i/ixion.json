@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -3585,9 +3585,9 @@
       "ID": "ACH_BASE_53",
       "SetID": "92iocjf",
       "Name": "All in Good Health",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_BASE_56",
@@ -3712,8 +3712,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:36:41.209064+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:32:49.1088915+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:32:04.6222552+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:36:41.2091583+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:28:08.7824688+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:32:49.1089755+00:00"
 }

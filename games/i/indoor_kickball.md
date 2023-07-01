@@ -31,10 +31,10 @@
 | Angry Mom | 8.00% | ~5 |
 | Just how we drew it up | 8.00% | ~5 |
 | Kitchen Secret Spot | 6.00% | ~4 |
+| Found the Secret Formula! | 6.00% | ~4 |
+| Basement Secret Spot | 5.00% | ~3 |
 | You broke it, you bought it | 5.00% | ~3 |
-| Found the Secret Formula! | 5.00% | ~3 |
 | Attic Secret Spot | 3.00% | ~2 |
-| Basement Secret Spot | 3.00% | ~2 |
 | Garage Secret Spot | 2.00% | ~1 |
 | Kickball Kup | 2.00% | ~1 |
 | Goooooooooal! | 2.00% | ~1 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
     "PcReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 30,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 23.44,
+  "EOS_NewPlayers": 31,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 23.08,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -324,6 +324,11 @@
       "Time": "2023-06-30T20:06:24.764924+00:00",
       "NumProgressed": 64,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-01T03:36:00.732425+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 10,
@@ -335,13 +340,13 @@
       "Name": "Beach",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 100,
       "UsersEstimate": 44
     },
@@ -349,7 +354,7 @@
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
       "UsersEstimate": 34
     },
@@ -357,7 +362,7 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 30
     },
@@ -365,7 +370,7 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -373,7 +378,7 @@
       "ID": "LEVEL_5",
       "SetID": "1fnbp5h",
       "Name": "Ball Disposal Facility",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 19
     },
@@ -405,7 +410,7 @@
       "ID": "LEVEL_9",
       "SetID": "1fnbp5h",
       "Name": "Custom Court",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 17
     }
@@ -414,13 +419,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 15
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:39:50.7152243+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:36:00.7324243+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.844109+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:30:50.2016938+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:39:50.7152334+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:26:49.0813421+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:36:00.7324404+00:00"
 }

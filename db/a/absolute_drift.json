@@ -430,7 +430,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526697,
+  "EOS_Progressed": 1526703,
   "EOS_Completed": 639,
   "EOS_NewPlayers": 1526,
   "EOS_NewCompleters": 8,
@@ -8060,6 +8060,11 @@
       "Time": "2023-07-01T02:38:22.2465667+00:00",
       "NumProgressed": 1526697,
       "NumCompleted": 639
+    },
+    {
+      "Time": "2023-07-01T03:34:32.2395725+00:00",
+      "NumProgressed": 1526703,
+      "NumCompleted": 639
     }
   ],
   "TotalAchievements": 20,
@@ -8071,7 +8076,7 @@
       "Name": "Bacon Donuts",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7633
+      "UsersEstimate": 7634
     },
     {
       "ID": "ACH_BUZZ_CONTROL_TOWER",
@@ -8095,7 +8100,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7633
+      "UsersEstimate": 7634
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -8230,15 +8235,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1526697,
+      "Progressed": 1526703,
       "Completed": 639
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:38:22.2465661+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:34:32.2395718+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:22.4769959+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:33:42.1588654+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:38:22.2466599+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:29:54.5535627+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:34:32.2396769+00:00"
 }

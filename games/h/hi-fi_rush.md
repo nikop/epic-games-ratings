@@ -18,7 +18,7 @@ Rating: 4.89 (Ranked 12)
 | This will cost you big time | 48.00% | ~1,620 |
 | Uh, they were broken when I got here | 47.00% | ~1,587 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,553 |
-| Kissing the sky! | 44.00% | ~1,485 |
+| Kissing the sky! | 45.00% | ~1,519 |
 | Does that say weakpoint? | 41.00% | ~1,384 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,350 |
 | The Negotiator | 39.00% | ~1,317 |

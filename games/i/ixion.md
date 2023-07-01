@@ -28,11 +28,11 @@ Rating: 4.57 (Ranked 438)
 | Sightseeing | 4.00% | ~110 |
 | Access Granted | 4.00% | ~110 |
 | Necessary Enhancement | 4.00% | ~110 |
+| All in Good Health | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~83 |
 | What They Hide From Us | 3.00% | ~83 |
 | BRAWL! | 3.00% | ~83 |
-| All in Good Health | 3.00% | ~83 |
 | What the Ruins Teach Us | 3.00% | ~83 |
 | ...  in a finite world | 2.00% | ~55 |
 | Sustainable Energy | 2.00% | ~55 |

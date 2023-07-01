@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -4210,9 +4210,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1519
     },
     {
       "ID": "Ach037",
@@ -4433,8 +4433,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:40:15.3561646+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:36:25.8131096+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:32:10.0136983+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:40:15.3562836+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:28:13.9703524+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:36:25.8132562+00:00"
 }

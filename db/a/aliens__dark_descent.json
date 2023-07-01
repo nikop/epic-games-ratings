@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 2234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 920,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1378,9 +1378,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1442,9 +1442,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -1578,9 +1578,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1586
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1651,8 +1651,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-06-30T12:00:24.7632521+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:39:53.0321134+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:36:02.9154188+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:32:59.4390483+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:39:53.0321499+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:29:08.8504812+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:36:02.9154975+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2990,9 +2990,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10112,
+  "EOS_Progressed": 10113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7545,6 +7545,11 @@
       "Time": "2023-07-01T00:08:10.1728426+00:00",
       "NumProgressed": 10112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T03:36:28.0565361+00:00",
+      "NumProgressed": 10113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7588,7 +7593,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -7612,7 +7617,7 @@
       "Name": "Path of the Angel",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "09_PathOfDemon",
@@ -7684,7 +7689,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "18_MythicChoices",
@@ -7764,7 +7769,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "29_StrategicVictory",
@@ -7900,7 +7905,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "46_AllPathsOpen",
@@ -7908,7 +7913,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -7948,7 +7953,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -8483,21 +8488,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8894,
+      "Progressed": 8895,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10112,
+      "Progressed": 10113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-30T16:58:33.3333902+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:40:17.5692894+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:36:28.0565356+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:31:58.1720331+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:40:17.5694894+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:28:02.7457511+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:36:28.0567414+00:00"
 }

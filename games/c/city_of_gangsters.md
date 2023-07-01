@@ -1,24 +1,24 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.26 (Ranked 796)  
+Rating: 4.26 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,202 |
-| Copacetic Coordination | 16.00% | ~52,244 |
-| Fronting the Money | 14.00% | ~45,714 |
-| The Dawn of Automation | 14.00% | ~45,714 |
-| Extraordinary Logistics | 14.00% | ~45,714 |
-| Dirty Money | 13.00% | ~42,449 |
-| Family First | 13.00% | ~42,449 |
-| Cleaning House | 12.00% | ~39,183 |
-| Room in the Back | 12.00% | ~39,183 |
-| Booze Baron | 11.00% | ~35,918 |
-| Beating the Heat | 10.00% | ~32,653 |
-| Friends on the Force | 10.00% | ~32,653 |
-| Neighborhood Watch | 10.00% | ~32,653 |
-| Core Corps | 8.00% | ~26,122 |
+| Corner Clout | 46.00% | ~150,206 |
+| Copacetic Coordination | 16.00% | ~52,246 |
+| Fronting the Money | 14.00% | ~45,715 |
+| The Dawn of Automation | 14.00% | ~45,715 |
+| Extraordinary Logistics | 14.00% | ~45,715 |
+| Dirty Money | 13.00% | ~42,450 |
+| Family First | 13.00% | ~42,450 |
+| Cleaning House | 12.00% | ~39,184 |
+| Room in the Back | 12.00% | ~39,184 |
+| Booze Baron | 11.00% | ~35,919 |
+| Beating the Heat | 10.00% | ~32,654 |
+| Friends on the Force | 10.00% | ~32,654 |
+| Neighborhood Watch | 10.00% | ~32,654 |
+| Core Corps | 8.00% | ~26,123 |
 | Sizeable Stash | 7.00% | ~22,857 |
 | Street Fighter | 7.00% | ~22,857 |
 | Friendly Gestures | 7.00% | ~22,857 |
@@ -27,15 +27,15 @@ Rating: 4.26 (Ranked 796)
 | Safety in Numbers | 6.00% | ~19,592 |
 | Show ‘em the Sugar | 6.00% | ~19,592 |
 | Killing Them Softly | 6.00% | ~19,592 |
-| Street Knowledge | 5.00% | ~16,326 |
-| Oh Captain | 5.00% | ~16,326 |
-| Branching Out | 5.00% | ~16,326 |
-| Improvement Missions | 5.00% | ~16,326 |
-| Opportunity Knocked | 5.00% | ~16,326 |
-| City of Big Shoulders | 5.00% | ~16,326 |
-| Moving Experiences | 5.00% | ~16,326 |
-| Mission Mastery | 5.00% | ~16,326 |
-| Wise Head | 5.00% | ~16,326 |
+| Street Knowledge | 5.00% | ~16,327 |
+| Oh Captain | 5.00% | ~16,327 |
+| Branching Out | 5.00% | ~16,327 |
+| Improvement Missions | 5.00% | ~16,327 |
+| Opportunity Knocked | 5.00% | ~16,327 |
+| City of Big Shoulders | 5.00% | ~16,327 |
+| Moving Experiences | 5.00% | ~16,327 |
+| Mission Mastery | 5.00% | ~16,327 |
+| Wise Head | 5.00% | ~16,327 |
 | Considerable Clams | 4.00% | ~13,061 |
 | Gin Joint | 4.00% | ~13,061 |
 | An Affront to the Enemy | 4.00% | ~13,061 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 796)
 | High Pillow | 0.10% | ~327 |
 | Station Master | 0.10% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326,527 (Ranked 40)  
+Progressed: 326,535 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 5 (0.00%) (Ranked 231)
 | 2023-06-28 | 326,033 | 5 |
 | 2023-06-29 | 326,271 | 5 |
 | 2023-06-30 | 326,501 | 5 |
-| 2023-07-01 | 326,527 | 5 |
+| 2023-07-01 | 326,535 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 95 (Ranked 409)  

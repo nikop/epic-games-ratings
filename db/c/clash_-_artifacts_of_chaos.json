@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -178,6 +178,11 @@
       "Time": "2023-06-30T14:05:53.1164213+00:00",
       "NumProgressed": 86,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T03:36:18.0043985+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -187,7 +192,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -235,7 +240,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -243,7 +248,7 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -253,13 +258,13 @@
       "Name": "Declawing",
       "Percentage": 70,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 90,
       "UsersEstimate": 30
     },
@@ -275,7 +280,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 22
     },
@@ -299,7 +304,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -356,7 +361,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 1
     }
   ],
@@ -364,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:40:07.7063868+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:36:18.0043976+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:42.8572892+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:33:57.4355891+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:40:07.7063991+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:30:11.6367415+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:36:18.0044251+00:00"
 }

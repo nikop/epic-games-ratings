@@ -18,8 +18,8 @@
 | Fighting for Survival | 11.00% | ~32 |
 | Keeping Busy | 11.00% | ~32 |
 | Silver Competitor | 9.00% | ~27 |
+| Captain | 8.00% | ~24 |
 | Exterminator | 7.00% | ~21 |
-| Captain | 7.00% | ~21 |
 | Brothers in Arms | 7.00% | ~21 |
 | Factory Expansion | 7.00% | ~21 |
 | Player Betrayer | 4.00% | ~12 |

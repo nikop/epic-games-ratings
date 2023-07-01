@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.25 (Ranked 801)  
+Rating: 4.25 (Ranked 802)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

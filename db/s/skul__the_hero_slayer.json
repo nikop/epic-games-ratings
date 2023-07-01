@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7874,
+  "EOS_Progressed": 7875,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3213,6 +3213,11 @@
       "Time": "2023-07-01T02:36:55.4859774+00:00",
       "NumProgressed": 7874,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-01T03:33:03.5720025+00:00",
+      "NumProgressed": 7875,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3232,7 +3237,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ColdBlood",
@@ -3288,7 +3293,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -3360,7 +3365,7 @@
       "Name": "Quick Movements",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "SkeletonKing",
@@ -3376,7 +3381,7 @@
       "Name": "Inventory Management",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "TheLegendBegins",
@@ -3384,7 +3389,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3408,22 +3413,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7874,
+      "Progressed": 7875,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-06-28T09:59:48.1706384+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:36:55.4859769+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:33:03.5720019+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:48.5428036+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:32:33.0954223+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:36:55.4860058+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:28:39.8453737+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:33:03.5720468+00:00"
 }

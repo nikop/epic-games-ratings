@@ -30,9 +30,9 @@ Rating: 4.35 (Ranked 733)
 | Experienced | 26.00% | ~311 |
 | Endgame | 23.00% | ~275 |
 | Hold The Line | 23.00% | ~275 |
+| Savior | 23.00% | ~275 |
 | There Can Be Only One! | 23.00% | ~275 |
 | Chain Killer | 22.00% | ~263 |
-| Savior | 22.00% | ~263 |
 | The Watchers | 19.00% | ~227 |
 | Newtonian Knockout | 16.00% | ~192 |
 | Dr Jones | 14.00% | ~168 |
@@ -48,8 +48,8 @@ Rating: 4.35 (Ranked 733)
 | Silent but Violent | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
+| Master Editor | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
-| Master Editor | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |

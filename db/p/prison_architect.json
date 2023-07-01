@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -3864,9 +3864,9 @@
       "Count": 276
     }
   ],
-  "EOS_Progressed": 143132,
+  "EOS_Progressed": 143144,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3353,
+  "EOS_NewPlayers": 3354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11474,6 +11474,11 @@
       "Time": "2023-07-01T02:36:10.4816004+00:00",
       "NumProgressed": 143132,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-01T03:32:18.2499613+00:00",
+      "NumProgressed": 143144,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -11517,7 +11522,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 24332
+      "UsersEstimate": 24334
     },
     {
       "ID": "Achievement_13",
@@ -11541,7 +11546,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 5725
+      "UsersEstimate": 5726
     },
     {
       "ID": "Achievement_2",
@@ -11565,7 +11570,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 37214
+      "UsersEstimate": 37217
     },
     {
       "ID": "Achievement_5",
@@ -11579,9 +11584,9 @@
       "ID": "Achievement_6",
       "SetID": "7m3ikfb",
       "Name": "Confined",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 573
+      "UsersEstimate": 429
     },
     {
       "ID": "Achievement_7",
@@ -11597,7 +11602,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 12882
+      "UsersEstimate": 12883
     },
     {
       "ID": "Achievement_9",
@@ -11612,15 +11617,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 143132,
+      "Progressed": 143144,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-06-30T13:58:30.3158255+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:36:10.4816001+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:32:18.2499606+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:14.7984983+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:32:08.4132121+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:36:10.4816808+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:28:12.3444616+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:32:18.2500638+00:00"
 }

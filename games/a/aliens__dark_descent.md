@@ -6,8 +6,8 @@ Rating: 4.32 (Ranked 759)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~1,743 |
-| Snatched Out | 70.00% | ~1,564 |
-| Keep 'Em Coming | 68.00% | ~1,519 |
+| Snatched Out | 71.00% | ~1,586 |
+| Keep 'Em Coming | 69.00% | ~1,541 |
 | Cleaning Lethe, One Nest At A Time | 58.00% | ~1,296 |
 | Call Me Snake | 52.00% | ~1,162 |
 | Something Lurks Under The Hills | 51.00% | ~1,139 |
@@ -32,8 +32,8 @@ Rating: 4.32 (Ranked 759)
 | El Riesgo Siempre Vive | 9.00% | ~201 |
 | The Passenger | 9.00% | ~201 |
 | One For Every Occasion | 7.00% | ~156 |
+| Bandage Lover | 7.00% | ~156 |
 | Heavy Steps | 6.00% | ~134 |
-| Bandage Lover | 6.00% | ~134 |
 | Frontliner | 6.00% | ~134 |
 | The Cable Guy | 6.00% | ~134 |
 | The Spire | 6.00% | ~134 |

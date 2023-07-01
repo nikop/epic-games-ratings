@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5990,11 +5990,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 1512789,
       "NumberOfAwardsMax": 192285
+    },
+    {
+      "Time": "2023-07-01T03:30:04.9584013+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1514061,
+      "NumberOfAwardsMax": 192717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1512789,
-  "NumberOfAwardsMax": 192285,
+  "NumberOfAwards": 1514061,
+  "NumberOfAwardsMax": 192717,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6007,13 +6013,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 161516
+      "Count": 161916
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 176871
+      "Count": 177311
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6055,7 +6061,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 192285
+      "Count": 192717
     }
   ],
   "EOS_Progressed": 0,
@@ -6069,8 +6075,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-06-30T08:00:37.2597313+00:00",
+  "LastChanged": "2023-07-01T03:30:04.9584011+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:34.3570453+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:33:50.7393498+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:38:42.9407879+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:30:04.9584018+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:34:53.5176291+00:00"
 }

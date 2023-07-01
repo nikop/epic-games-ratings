@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1617,9 +1617,9 @@
       "ID": "Translocator",
       "SetID": "5lok9mm",
       "Name": "Translocator",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1709
     },
     {
       "ID": "TrickleDown",
@@ -1649,8 +1649,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-01T02:36:13.0250014+00:00",
+  "LastChanged_Achievements": "2023-07-01T03:32:20.8879693+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.096986+00:00",
-  "LastUpdate_Ratings": "2023-07-01T02:33:40.6226123+00:00",
-  "LastUpdate_Achievements": "2023-07-01T02:36:13.0250498+00:00"
+  "LastUpdate_Ratings": "2023-07-01T03:29:52.6168765+00:00",
+  "LastUpdate_Achievements": "2023-07-01T03:32:20.8880252+00:00"
 }
