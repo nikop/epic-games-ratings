@@ -4,10 +4,10 @@
   "ProductSlug": "vampyr",
   "Ranking_Rating": 759,
   "Ranking_Popularity": 183,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2018-06-05T15:00:00+00:00",
@@ -1160,10 +1160,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 740,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-07-01T07:59:28.1162516+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 715,
+      "NumberOfAwardsMax": 550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 740,
+  "NumberOfAwards": 715,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1233,8 +1239,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2023-06-29T09:00:52.7237452+00:00",
+  "LastChanged": "2023-07-01T07:59:28.1162513+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:45.1102571+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:00:31.0223763+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:06:19.3183846+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:59:28.1162523+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:04:58.7496777+00:00"
 }

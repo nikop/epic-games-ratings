@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2990,9 +2990,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10113,
+  "EOS_Progressed": 10115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7550,6 +7550,11 @@
       "Time": "2023-07-01T03:36:28.0565361+00:00",
       "NumProgressed": 10113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T08:05:59.2548552+00:00",
+      "NumProgressed": 10115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7561,7 +7566,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "02_BurningCity",
@@ -7577,7 +7582,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "04_FithCrusade",
@@ -7697,7 +7702,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "19_EqualToAroden",
@@ -7809,7 +7814,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8488,21 +8493,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8895,
+      "Progressed": 8897,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10113,
+      "Progressed": 10115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-06-30T16:58:33.3333902+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:07:41.8878831+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:05:59.2548546+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:58:59.3328186+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:07:41.888226+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:58:21.0296793+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:05:59.2550492+00:00"
 }

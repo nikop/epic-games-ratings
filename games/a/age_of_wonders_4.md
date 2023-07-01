@@ -18,12 +18,12 @@ Rating: 4.59 (Ranked 410)
 | Here be Dragons | 0.90% | ~44 |
 | Bone Peddler | 0.80% | ~39 |
 | Stronger Together | 0.80% | ~39 |
+| There Can Only Be One! | 0.70% | ~34 |
 | Seat of Power | 0.70% | ~34 |
 | Fiery Friend | 0.70% | ~34 |
 | Against the Odds | 0.70% | ~34 |
 | Impenetrable Fortress | 0.70% | ~34 |
 | Intimidation Tactics | 0.70% | ~34 |
-| There Can Only Be One! | 0.60% | ~29 |
 | Full Ascension | 0.60% | ~29 |
 | Duality | 0.60% | ~29 |
 | Return of the Wizard King | 0.50% | ~24 |

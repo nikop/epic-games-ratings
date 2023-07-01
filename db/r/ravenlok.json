@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.32,
+  "EOS_Completed_Percentage": 7.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2537,6 +2537,11 @@
       "Time": "2023-06-30T11:07:45.5517705+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-07-01T08:05:43.31128+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 50,
@@ -2548,7 +2553,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "10",
@@ -2556,7 +2561,7 @@
       "Name": "Piece of Cake",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "11",
@@ -2596,7 +2601,7 @@
       "Name": "Pull the Plug",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "16",
@@ -2604,7 +2609,7 @@
       "Name": "Soul Slayer",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "17",
@@ -2612,7 +2617,7 @@
       "Name": "The Downfall",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "18",
@@ -2620,7 +2625,7 @@
       "Name": "Surprise!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "19",
@@ -2628,7 +2633,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "2",
@@ -2642,9 +2647,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 359
     },
     {
       "ID": "21",
@@ -2668,7 +2673,7 @@
       "Name": "All Heart",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "24",
@@ -2684,7 +2689,7 @@
       "Name": "Trick Question!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "26",
@@ -2700,15 +2705,15 @@
       "Name": "Frog Facts!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 770
     },
     {
       "ID": "29",
@@ -2732,7 +2737,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "31",
@@ -2740,7 +2745,7 @@
       "Name": "Little Shop",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "32",
@@ -2756,7 +2761,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "34",
@@ -2764,7 +2769,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "35",
@@ -2804,7 +2809,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "4",
@@ -2812,7 +2817,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "40",
@@ -2884,7 +2889,7 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "49",
@@ -2892,7 +2897,7 @@
       "Name": "Final Showdown",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "5",
@@ -2908,7 +2913,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "6",
@@ -2916,7 +2921,7 @@
       "Name": "Going Home",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "7",
@@ -2932,7 +2937,7 @@
       "Name": "Tragic Brave",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "9",
@@ -2947,7 +2952,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 75
     }
   ],
@@ -2955,8 +2960,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:07:21.6097863+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:05:43.3112793+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.6163993+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:57:48.0856373+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:07:21.60986+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:57:28.7477865+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:05:43.3113367+00:00"
 }

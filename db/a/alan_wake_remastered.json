@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56573,
+  "EOS_Progressed": 56574,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6587,6 +6587,11 @@
       "Time": "2023-07-01T06:02:13.3076446+00:00",
       "NumProgressed": 56573,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-01T08:02:11.3018171+00:00",
+      "NumProgressed": 56574,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6630,7 +6635,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9617
+      "UsersEstimate": 9618
     },
     {
       "ID": "06",
@@ -6838,7 +6843,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "32",
@@ -6918,7 +6923,7 @@
       "Name": "Finders Keepers",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7354
+      "UsersEstimate": 7355
     },
     {
       "ID": "42",
@@ -7006,7 +7011,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "53",
@@ -7133,21 +7138,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56573,
+      "Progressed": 56574,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20041,
+      "Progressed": 20042,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:02:28.8281656+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:02:11.3018165+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:58:07.8436009+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:02:28.8283584+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:57:42.2039697+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:02:11.3019207+00:00"
 }

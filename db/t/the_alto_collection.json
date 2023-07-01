@@ -697,9 +697,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 29029,
+  "EOS_Progressed": 29032,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8312,6 +8312,11 @@
       "Time": "2023-07-01T07:07:21.2882499+00:00",
       "NumProgressed": 29029,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-01T08:05:43.0744482+00:00",
+      "NumProgressed": 29032,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -8363,7 +8368,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 7257
+      "UsersEstimate": 7258
     },
     {
       "ID": "goals180",
@@ -8435,7 +8440,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "nomad",
@@ -8443,7 +8448,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5225
+      "UsersEstimate": 5226
     },
     {
       "ID": "novice",
@@ -8547,7 +8552,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3193
+      "UsersEstimate": 3194
     },
     {
       "ID": "ultimate",
@@ -8595,7 +8600,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "vandal",
@@ -8611,7 +8616,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "wanderer",
@@ -8634,15 +8639,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 29029,
+      "Progressed": 29032,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-28T23:00:30.7076755+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:07:21.2882493+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:05:43.0744476+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:17.7507629+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:00:07.5430788+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:07:21.2883291+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:59:10.5669728+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:05:43.0745248+00:00"
 }

@@ -966,9 +966,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3903,
+  "EOS_Progressed": 3904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5366,6 +5366,11 @@
       "Time": "2023-07-01T06:03:56.2327939+00:00",
       "NumProgressed": 3903,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T08:03:42.5237983+00:00",
+      "NumProgressed": 3904,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5433,7 +5438,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5449,7 +5454,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5473,7 +5478,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5537,7 +5542,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5559,9 +5564,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 742
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5633,7 +5638,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5696,15 +5701,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3903,
+      "Progressed": 3904,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T02:33:52.4788641+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:04:31.9564763+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:03:42.5237977+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:01:17.8068483+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:04:31.9565779+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:00:00.2665805+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:03:42.5238556+00:00"
 }

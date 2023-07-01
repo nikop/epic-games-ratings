@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1363,
+  "EOS_Progressed": 1364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2503,6 +2503,11 @@
       "Time": "2023-07-01T02:38:28.9114396+00:00",
       "NumProgressed": 1363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T08:04:27.1441033+00:00",
+      "NumProgressed": 1364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2666,7 +2671,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -2768,9 +2773,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 559
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2786,7 +2791,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -2874,7 +2879,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -2897,7 +2902,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1363,
+      "Progressed": 1364,
       "Completed": 0
     }
   ],
@@ -2905,8 +2910,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:05:35.0120458+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:04:27.1441028+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.1069388+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:57:48.1942928+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:05:35.0121535+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:57:28.8421668+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:04:27.1441623+00:00"
 }

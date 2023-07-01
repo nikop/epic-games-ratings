@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -812,7 +812,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15602,
+  "EOS_Progressed": 15603,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 5,
@@ -5042,6 +5042,11 @@
       "Time": "2023-07-01T07:05:59.7019832+00:00",
       "NumProgressed": 15602,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T08:04:45.2369332+00:00",
+      "NumProgressed": 15603,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5059,9 +5064,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -5227,9 +5232,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "SHARE_PHOTO",
@@ -5283,9 +5288,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 62
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -5428,13 +5433,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15602,
+      "Progressed": 15603,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3528,
+      "Progressed": 3529,
       "Completed": 29
     }
   ],
@@ -5442,8 +5447,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T06:58:21.699348+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:05:59.7019827+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:04:45.2369327+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:58:21.6993487+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:05:59.7020615+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:57:52.0414988+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:04:45.2370013+00:00"
 }

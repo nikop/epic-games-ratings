@@ -27,6 +27,7 @@ Rating: 4.45 (Ranked 617)
 | Just a Flesh Wound | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
+| Close Quarters | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
 | Strategist | 0.10% | ~3 |
@@ -36,7 +37,6 @@ Rating: 4.45 (Ranked 617)
 | Precision Is Key | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |
-| Close Quarters | 0.10% | ~3 |
 | Snake in the Grass | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Burn after reading | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,175 (Ranked 145)  
+Progressed: 3,176 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
-| 2023-07-01 | 3,175 | 6 |
+| 2023-07-01 | 3,176 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

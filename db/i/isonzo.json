@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6333,
+  "EOS_Progressed": 6334,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3157,6 +3157,11 @@
       "Time": "2023-07-01T03:32:51.6304546+00:00",
       "NumProgressed": 6333,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-01T08:02:31.3058381+00:00",
+      "NumProgressed": 6334,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3336,7 +3341,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3358,9 +3363,9 @@
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
       "SetID": "akchbl3",
       "Name": "Peak Performance",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3420
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3520,14 +3525,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6333,
+      "Progressed": 6334,
       "Completed": 8
     }
   ],
@@ -3535,8 +3540,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-06-30T22:57:38.2257253+00:00",
-  "LastChanged_Achievements": "2023-07-01T07:03:32.1128642+00:00",
+  "LastChanged_Achievements": "2023-07-01T08:02:31.3058375+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-01T06:57:49.6266991+00:00",
-  "LastUpdate_Achievements": "2023-07-01T07:03:32.1129395+00:00"
+  "LastUpdate_Ratings": "2023-07-01T07:57:29.8288197+00:00",
+  "LastUpdate_Achievements": "2023-07-01T08:02:31.305888+00:00"
 }
