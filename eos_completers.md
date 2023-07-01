@@ -19,7 +19,7 @@
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.93% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 11.85% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -73,7 +73,7 @@
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
 | 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -88,7 +88,7 @@
 | 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.41% |
+| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.39% |
 | 90 | [Late Shift](games/l/late_shift.md) | 1.36% |
 | 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
@@ -107,9 +107,9 @@
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
+| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 109 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
-| 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 111 | [Haven](games/h/haven.md) | 0.69% |
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
