@@ -20,8 +20,8 @@ Rating: 4.45 (Ranked 617)
 | Martian explorer | 12.00% | ~124 |
 | To the core | 9.00% | ~93 |
 | Blurred photofinish | 9.00% | ~93 |
-| EZ game EZ life | 7.00% | ~72 |
-| First step into a larger world | 7.00% | ~72 |
+| EZ game EZ life | 7.00% | ~73 |
+| First step into a larger world | 7.00% | ~73 |
 | Over the clouds | 6.00% | ~62 |
 | Under the sea, under the sea | 6.00% | ~62 |
 | Even Faster! | 6.00% | ~62 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 617)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035 (Ranked 183)  
+Progressed: 1,036 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-27 | 1,032 | 0 |
 | 2023-06-29 | 1,033 | 0 |
 | 2023-06-30 | 1,035 | 0 |
+| 2023-07-01 | 1,036 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

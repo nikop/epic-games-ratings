@@ -2,9 +2,9 @@
   "ID": "82aad7acf5384a5ba5d00d4549819260",
   "Name": "Reverie - Sweet As Edition",
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
-  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-28T08:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-06-28T11:07:18.4122444+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T02:39:50.1591257+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -87,7 +92,7 @@
       "ID": "CricketBat",
       "SetID": "d3o713f",
       "Name": "Not Your Standard Weapon",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -143,7 +148,7 @@
       "ID": "FeatherBook",
       "SetID": "d3o713f",
       "Name": "We All Need a Hobby",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -320,13 +325,13 @@
     {
       "ID": "d3o713f",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:07:39.9395991+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:59:20.0506128+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:00:50.3696271+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:07:39.9396255+00:00"
+  "LastChanged_Achievements": "2023-07-01T02:39:50.1591254+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:28:23.4319648+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:32:57.5930814+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:39:50.159147+00:00"
 }

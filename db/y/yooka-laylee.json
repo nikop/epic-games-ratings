@@ -3,7 +3,7 @@
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
   "Ranking_Rating": 809,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 231,
@@ -533,18 +533,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-07-01T02:33:47.6673327+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -570,8 +576,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2023-06-29T21:01:39.3671358+00:00",
-  "LastUpdate_AppInfo": "2023-06-24T00:00:21.0647666+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:01:48.0186456+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:04:35.7144475+00:00"
+  "LastChanged": "2023-07-01T02:33:47.6673325+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:29:30.4480691+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:33:47.6673336+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:37:08.5527133+00:00"
 }

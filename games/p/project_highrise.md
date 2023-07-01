@@ -26,34 +26,34 @@
 | Leveled Up Shops | 21.00% | ~48 |
 | Don't Feel a Loan | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
+| Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
-| Get Electrified | 19.00% | ~44 |
 | Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
+| Established Fame | 16.00% | ~37 |
+| Cashflow Chief | 16.00% | ~37 |
 | Under One Roof | 15.00% | ~34 |
-| Established Fame | 15.00% | ~34 |
-| Cashflow Chief | 15.00% | ~34 |
-| Starred Dining | 14.00% | ~32 |
+| Starred Dining | 15.00% | ~34 |
 | Boutique Benefits | 14.00% | ~32 |
 | Terrifically Trashed | 14.00% | ~32 |
 | Thrilled Tenants | 14.00% | ~32 |
 | Smooth Operator | 13.00% | ~30 |
 | Swimming in Surplus | 12.00% | ~27 |
 | 28 Days Later | 11.00% | ~25 |
-| Plaza Plan | 9.00% | ~21 |
+| Plaza Plan | 10.00% | ~23 |
 | Master of Puppets | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |
 | First 100 Days | 8.00% | ~18 |
 | Aestheticly Pleased | 8.00% | ~18 |
 | Maximum Reuse | 8.00% | ~18 |
 | Revenue Royalty | 8.00% | ~18 |
+| Phoning It In | 8.00% | ~18 |
 | Pipe Up | 8.00% | ~18 |
 | I'm Busy Ruling | 7.00% | ~16 |
 | Water Features | 7.00% | ~16 |
 | Meet Me at HQ | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
-| Phoning It In | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Careful Constructor | 6.00% | ~14 |

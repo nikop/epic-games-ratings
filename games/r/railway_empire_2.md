@@ -5,48 +5,48 @@ Rating: 4.38 (Ranked 708)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 73.00% | ~1,047 |
-| A new Journey | 72.00% | ~1,032 |
-| Departure | 71.00% | ~1,018 |
-| From X to Y | 70.00% | ~1,004 |
-| Way of Iron | 69.00% | ~989 |
-| Mystery Tour | 67.00% | ~961 |
-| We brake for nobody | 66.00% | ~946 |
-| Brainstorm | 64.00% | ~918 |
-| Travel Company | 64.00% | ~918 |
-| Mind the Gap | 63.00% | ~903 |
-| All around the World | 61.00% | ~875 |
-| Right through the middle | 56.00% | ~803 |
-| Facility Manager | 53.00% | ~760 |
-| Poor Devil | 53.00% | ~760 |
-| Producer | 50.00% | ~717 |
-| Apprentice | 42.00% | ~602 |
-| Bridge Builder | 41.00% | ~588 |
-| Access granted | 35.00% | ~502 |
-| Going once, going twice, sold | 34.00% | ~488 |
-| Stoker | 33.00% | ~473 |
-| Bull and bear | 32.00% | ~459 |
+| Country Bumpkin | 73.00% | ~1,049 |
+| A new Journey | 72.00% | ~1,035 |
+| Departure | 71.00% | ~1,020 |
+| From X to Y | 70.00% | ~1,006 |
+| Way of Iron | 69.00% | ~992 |
+| Mystery Tour | 67.00% | ~963 |
+| We brake for nobody | 65.00% | ~934 |
+| Brainstorm | 64.00% | ~920 |
+| Travel Company | 64.00% | ~920 |
+| Mind the Gap | 63.00% | ~905 |
+| All around the World | 61.00% | ~877 |
+| Right through the middle | 56.00% | ~805 |
+| Facility Manager | 53.00% | ~762 |
+| Poor Devil | 53.00% | ~762 |
+| Producer | 50.00% | ~718 |
+| Apprentice | 42.00% | ~604 |
+| Bridge Builder | 41.00% | ~589 |
+| Access granted | 35.00% | ~503 |
+| Going once, going twice, sold | 34.00% | ~489 |
+| Stoker | 33.00% | ~474 |
+| Bull and bear | 32.00% | ~460 |
 | Full Steam ahead | 31.00% | ~445 |
-| Mole | 29.00% | ~416 |
-| Financial Shark | 29.00% | ~416 |
+| Mole | 29.00% | ~417 |
+| Financial Shark | 29.00% | ~417 |
 | All mine | 28.00% | ~402 |
-| Country Life | 26.00% | ~373 |
-| Socializer | 26.00% | ~373 |
-| General Manager | 25.00% | ~358 |
-| Hostile Takeover | 25.00% | ~358 |
-| Seven at one stroke | 23.00% | ~330 |
+| Socializer | 27.00% | ~388 |
+| Country Life | 26.00% | ~374 |
+| General Manager | 25.00% | ~359 |
+| Hostile Takeover | 25.00% | ~359 |
+| Seven at one stroke | 23.00% | ~331 |
 | Trailblazer | 20.00% | ~287 |
-| Breaking Ground | 19.00% | ~272 |
-| Traffic Jam | 18.00% | ~258 |
-| Traffic Junction | 18.00% | ~258 |
-| Assimilated | 16.00% | ~229 |
-| Locusts | 16.00% | ~229 |
-| Networker | 16.00% | ~229 |
-| Resistance is futile | 15.00% | ~215 |
-| Max Power | 13.00% | ~186 |
-| Settler | 13.00% | ~186 |
+| Breaking Ground | 19.00% | ~273 |
+| Traffic Junction | 18.00% | ~259 |
+| Traffic Jam | 17.00% | ~244 |
+| Assimilated | 16.00% | ~230 |
+| Locusts | 16.00% | ~230 |
+| Networker | 16.00% | ~230 |
+| Resistance is futile | 15.00% | ~216 |
+| Max Power | 13.00% | ~187 |
+| Settler | 13.00% | ~187 |
 | Go West | 11.00% | ~158 |
-| Bold and beautiful | 10.00% | ~143 |
+| Bold and beautiful | 11.00% | ~158 |
 | A new Hope | 9.00% | ~129 |
 | Tycoon | 8.00% | ~115 |
 | Unstoppable | 6.00% | ~86 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 708)
 | United States | 0.20% | ~3 |
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,434 (Ranked 170)  
+Progressed: 1,437 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 1,412 | 0 |
 | 2023-06-29 | 1,422 | 0 |
 | 2023-06-30 | 1,434 | 0 |
+| 2023-07-01 | 1,437 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

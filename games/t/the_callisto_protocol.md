@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 0.70% | ~109 |
+| Get a Grip | 0.80% | ~125 |
 | Paper Jams | 0.60% | ~94 |
 | Keep Fighting | 0.60% | ~21 |
 | You Need a Gun | 0.50% | ~78 |
+| I Do Belong Here | 0.50% | ~78 |
 | Two Heads Are Better Than One | 0.50% | ~78 |
 | Reforged | 0.50% | ~78 |
+| In the Pipe, Five by Five | 0.50% | ~78 |
 | Giving Back | 0.40% | ~62 |
 | Flesh Wound | 0.40% | ~62 |
-| I Do Belong Here | 0.40% | ~62 |
 | Chew 'Em Up | 0.40% | ~62 |
 | Workplace Hazard | 0.40% | ~62 |
 | If the SHU Fits... | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
-| In the Pipe, Five by Five | 0.40% | ~62 |
 | Crash Site | 0.40% | ~62 |
 | Power Up | 0.40% | ~62 |
 | Terminated | 0.30% | ~47 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 834)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,597 (Ranked 106)  
+Progressed: 15,599 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
 | 2023-06-30 | 15,597 | 62 |
+| 2023-07-01 | 15,599 | 62 |
 ## Awards
 Max (Amazing Storytelling): 61  (Ranked 384)  
 Sum: 349 (Ranked 322)  

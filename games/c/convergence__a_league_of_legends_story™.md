@@ -23,13 +23,13 @@
 | The Prince in Heels | 12.00% | ~88 |
 | Fast Learner | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
+| Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
 | Street Style | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
 | Golem Chaser | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |
-| Immaculate Aim | 11.00% | ~81 |
 | Right On Time | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |
 | Chaincrawler Explorer | 8.00% | ~59 |

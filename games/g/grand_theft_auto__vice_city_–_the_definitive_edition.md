@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 455)
 | Vice City Mogul | 6.00% | ~530 |
 | Catch Me if You Can | 6.00% | ~530 |
 | Bloodstained Hands | 6.00% | ~530 |
-| Grand Theft Auto | 5.00% | ~441 |
+| Grand Theft Auto | 5.00% | ~442 |
 | Not my First Time | 4.00% | ~353 |
 | Pie Guy | 4.00% | ~353 |
 | Point A to Point B | 3.00% | ~265 |
@@ -40,7 +40,7 @@ Rating: 4.56 (Ranked 455)
 | Done it All | 0.80% | ~71 |
 | Kingpin | 0.50% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,829 (Ranked 118)  
+Progressed: 8,830 (Ranked 118)  
 Completed: 40 (0.45%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 40 (0.45%) (Ranked 130)
 | 2023-06-28 | 8,805 | 40 |
 | 2023-06-29 | 8,818 | 40 |
 | 2023-06-30 | 8,828 | 40 |
-| 2023-07-01 | 8,829 | 40 |
+| 2023-07-01 | 8,830 | 40 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 386)  
 Sum: 59 (Ranked 439)  

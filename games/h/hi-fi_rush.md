@@ -5,32 +5,32 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,734 |
-| Start with a bang! | 80.00% | ~2,700 |
-| You can pet the cat! | 75.00% | ~2,531 |
-| Who put gears in there? | 68.00% | ~2,295 |
-| Cream of the Crop | 63.00% | ~2,126 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,092 |
+| Feeling the beat! | 81.00% | ~2,735 |
+| Start with a bang! | 80.00% | ~2,701 |
+| You can pet the cat! | 75.00% | ~2,532 |
+| Who put gears in there? | 68.00% | ~2,296 |
+| Cream of the Crop | 63.00% | ~2,127 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,093 |
 | You got this, Peppermint? | 57.00% | ~1,924 |
-| Perfect Parry | 55.00% | ~1,856 |
+| Perfect Parry | 55.00% | ~1,857 |
 | Alright, that felt AWESOME! | 54.00% | ~1,823 |
 | I play my own way! | 50.00% | ~1,688 |
 | This will cost you big time | 48.00% | ~1,620 |
-| Uh, they were broken when I got here | 47.00% | ~1,586 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,552 |
-| Kissing the sky! | 45.00% | ~1,519 |
+| Uh, they were broken when I got here | 47.00% | ~1,587 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,553 |
+| Kissing the sky! | 44.00% | ~1,485 |
 | Does that say weakpoint? | 41.00% | ~1,384 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,350 |
-| The Negotiator | 39.00% | ~1,316 |
+| The Negotiator | 39.00% | ~1,317 |
 | You must like calling me in, Chai | 34.00% | ~1,148 |
 | Out in a puff of smoke | 34.00% | ~1,148 |
 | Headliner | 33.00% | ~1,114 |
-| Time to pay up! | 31.00% | ~1,046 |
+| Time to pay up! | 31.00% | ~1,047 |
 | Who's the boss now? | 29.00% | ~979 |
 | I have to read these things? | 29.00% | ~979 |
 | Perfecter Parry-er! | 29.00% | ~979 |
 | I look cool. But I can look COOLER. | 28.00% | ~945 |
-| There's such a thing as TOO helpful | 22.00% | ~742 |
+| There's such a thing as TOO helpful | 22.00% | ~743 |
 | That's a lot of junk metal… | 19.00% | ~641 |
 | Well that was a rush! | 18.00% | ~608 |
 | Beat-hit mania | 18.00% | ~608 |
@@ -44,7 +44,7 @@ Rating: 4.89 (Ranked 12)
 | I'm not done with you yet | 7.00% | ~236 |
 | First we parry, then we counter | 7.00% | ~236 |
 | I hit things with a guitar really well. | 7.00% | ~236 |
-| You ever parry a volcano? | 6.00% | ~202 |
+| You ever parry a volcano? | 6.00% | ~203 |
 | This is a breeze! | 4.00% | ~135 |
 | Easy Listening | 3.00% | ~101 |
 | Problem solved... wait, what? | 3.00% | ~101 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | What a journey it was... | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,375 (Ranked 144)  
+Progressed: 3,376 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 5 (0.15%) (Ranked 168)
 | 2023-06-28 | 3,362 | 5 |
 | 2023-06-29 | 3,369 | 5 |
 | 2023-06-30 | 3,375 | 5 |
+| 2023-07-01 | 3,376 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

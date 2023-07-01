@@ -92,9 +92,9 @@
       "ID": "ach_04_runOnFoot",
       "SetID": "16n29hg",
       "Name": "Flee on Foot",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_05_northStation",
@@ -148,9 +148,9 @@
       "ID": "ach_11_scarvengerEA",
       "SetID": "16n29hg",
       "Name": "Super Scavenger",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_12_worldMap",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:03:16.2970211+00:00",
+  "LastChanged_Achievements": "2023-07-01T02:36:15.9099554+00:00",
   "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-06-30T23:57:52.4944363+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:03:16.29706+00:00"
+  "LastUpdate_Ratings": "2023-07-01T02:30:27.7895578+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:36:15.9100237+00:00"
 }

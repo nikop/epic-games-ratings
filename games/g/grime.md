@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 10.00% | ~61 |
 | Host | 10.00% | ~19 |
 | Celebration | 9.00% | ~55 |
+| Inevitable | 9.00% | ~55 |
 | Watcher | 9.00% | ~55 |
 | Predator | 9.00% | ~55 |
-| Inevitable | 8.00% | ~49 |
 | Dream | 8.00% | ~15 |
 | Assimilation | 7.00% | ~43 |
 | Hunt Down | 7.00% | ~43 |

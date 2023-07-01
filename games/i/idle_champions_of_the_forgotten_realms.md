@@ -6,64 +6,65 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,326 |
-| The Mad Wizard | 10.00% | ~20,233 |
-| The Ring of Regeneration | 6.00% | ~12,140 |
-| Are Ya Chicken? | 6.00% | ~12,140 |
-| Were-verpowered | 5.00% | ~10,116 |
-| Friendly Imps | 5.00% | ~10,116 |
-| Seeking Allies | 4.00% | ~8,093 |
-| Mad Cow Disease | 4.00% | ~8,093 |
-| Pure Energy | 4.00% | ~8,093 |
-| A Persistent Buzzing | 3.00% | ~6,070 |
-| Terror in the Dark | 3.00% | ~6,070 |
-| The Crumbling Temple | 3.00% | ~6,070 |
-| The Contagious Curse | 3.00% | ~6,070 |
-| Beast Mode | 2.00% | ~4,047 |
-| A Mysterious Summons | 2.00% | ~4,047 |
-| Unearthed Evil | 2.00% | ~4,047 |
-| Useless Allies | 2.00% | ~4,047 |
-| Exploring Port Nyanzaru | 2.00% | ~4,047 |
-| Running of the Saurs | 2.00% | ~4,047 |
-| Escort to Waterdeep | 2.00% | ~4,047 |
-| Waterdeep Detours | 2.00% | ~4,047 |
-| Low Initiative | 1.00% | ~2,023 |
-| Building Trust | 1.00% | ~2,023 |
-| March of the Undead | 1.00% | ~2,023 |
-| No Time To Rest | 1.00% | ~2,023 |
-| The Dinner Party | 1.00% | ~2,023 |
-| The Death Curse | 1.00% | ~2,023 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,023 |
-| Underdeep Cartography | 1.00% | ~2,023 |
-| Overdue Rendezvous | 1.00% | ~2,023 |
-| The Templar's Camp | 1.00% | ~2,023 |
-| Rescue in the Jungle | 1.00% | ~2,023 |
-| Invisible Shadows | 0.90% | ~1,821 |
-| The Botched Kidnapping | 0.90% | ~1,821 |
-| Premature Betrayal | 0.90% | ~1,821 |
-| Close Escort | 0.90% | ~1,821 |
-| Constant Banditry | 0.90% | ~1,821 |
-| Homecoming | 0.80% | ~1,619 |
-| Street War | 0.80% | ~1,619 |
-| Trollskull Manor | 0.80% | ~1,619 |
-| A Tale of Two Cities | 0.80% | ~1,619 |
-| Dinosaur Racing | 0.80% | ~1,619 |
-| The Lost Heir of Omu | 0.70% | ~1,416 |
-| Attack on the Manor | 0.70% | ~1,416 |
-| Lost in the Deep | 0.70% | ~1,416 |
-| The Forbidden City | 0.60% | ~1,214 |
-| Captured! | 0.60% | ~1,214 |
-| Wisdom Check | 0.60% | ~1,214 |
-| The Mists of Ravenloft | 0.60% | ~1,214 |
-| Nimble Escape | 0.60% | ~1,214 |
-| The Dead Three | 0.60% | ~1,214 |
-| The Long Haul | 0.60% | ~1,214 |
-| Easily Distracted | 0.60% | ~1,214 |
-| The Haunted Jungle | 0.60% | ~1,214 |
+| The Cursed Farmer | 14.00% | ~28,344 |
+| The Mad Wizard | 10.00% | ~20,246 |
+| The Ring of Regeneration | 6.00% | ~12,148 |
+| Are Ya Chicken? | 6.00% | ~12,148 |
+| Were-verpowered | 5.00% | ~10,123 |
+| Friendly Imps | 5.00% | ~10,123 |
+| Seeking Allies | 4.00% | ~8,098 |
+| Mad Cow Disease | 4.00% | ~8,098 |
+| Pure Energy | 4.00% | ~8,098 |
+| A Persistent Buzzing | 3.00% | ~6,074 |
+| Terror in the Dark | 3.00% | ~6,074 |
+| The Crumbling Temple | 3.00% | ~6,074 |
+| The Contagious Curse | 3.00% | ~6,074 |
+| Beast Mode | 2.00% | ~4,049 |
+| A Mysterious Summons | 2.00% | ~4,049 |
+| Unearthed Evil | 2.00% | ~4,049 |
+| Useless Allies | 2.00% | ~4,049 |
+| Exploring Port Nyanzaru | 2.00% | ~4,049 |
+| Running of the Saurs | 2.00% | ~4,049 |
+| Escort to Waterdeep | 2.00% | ~4,049 |
+| Waterdeep Detours | 2.00% | ~4,049 |
+| Low Initiative | 1.00% | ~2,025 |
+| Building Trust | 1.00% | ~2,025 |
+| March of the Undead | 1.00% | ~2,025 |
+| No Time To Rest | 1.00% | ~2,025 |
+| The Dinner Party | 1.00% | ~2,025 |
+| The Death Curse | 1.00% | ~2,025 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,025 |
+| Underdeep Cartography | 1.00% | ~2,025 |
+| Overdue Rendezvous | 1.00% | ~2,025 |
+| The Templar's Camp | 1.00% | ~2,025 |
+| Rescue in the Jungle | 1.00% | ~2,025 |
+| Invisible Shadows | 0.90% | ~1,822 |
+| The Botched Kidnapping | 0.90% | ~1,822 |
+| Premature Betrayal | 0.90% | ~1,822 |
+| Close Escort | 0.90% | ~1,822 |
+| Constant Banditry | 0.90% | ~1,822 |
+| Homecoming | 0.80% | ~1,620 |
+| Street War | 0.80% | ~1,620 |
+| Trollskull Manor | 0.80% | ~1,620 |
+| A Tale of Two Cities | 0.80% | ~1,620 |
+| Dinosaur Racing | 0.80% | ~1,620 |
+| The Lost Heir of Omu | 0.70% | ~1,417 |
+| Attack on the Manor | 0.70% | ~1,417 |
+| Lost in the Deep | 0.70% | ~1,417 |
+| The Forbidden City | 0.60% | ~1,215 |
+| Captured! | 0.60% | ~1,215 |
+| Wisdom Check | 0.60% | ~1,215 |
+| The Mists of Ravenloft | 0.60% | ~1,215 |
+| Nimble Escape | 0.60% | ~1,215 |
+| The Dead Three | 0.60% | ~1,215 |
+| The Long Haul | 0.60% | ~1,215 |
+| Easily Distracted | 0.60% | ~1,215 |
+| The Haunted Jungle | 0.60% | ~1,215 |
 | A Grand Puzzle | 0.50% | ~1,012 |
 | Tomb of the Nine Gods | 0.50% | ~1,012 |
 | Family Entanglements | 0.50% | ~1,012 |
 | The Immortal Warrior | 0.50% | ~1,012 |
+| Tower on the Lake | 0.50% | ~1,012 |
 | Treasure Hunters | 0.50% | ~1,012 |
 | Fugitives | 0.50% | ~1,012 |
 | Hopelessly Lost | 0.50% | ~1,012 |
@@ -71,30 +72,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.50% | ~1,012 |
 | The Darkness Runs Deeper | 0.50% | ~1,012 |
 | Market Fluctuations | 0.50% | ~1,012 |
-| The Giant's Bane Tavern | 0.50% | ~843 |
+| The Giant's Bane Tavern | 0.50% | ~844 |
 | Rude Welcome | 0.50% | ~1,012 |
 | Durable Deep | 0.50% | ~1,012 |
-| Force Grey Unleashed | 0.40% | ~809 |
-| Sleuth It Out | 0.40% | ~809 |
-| Chatty Nobles | 0.40% | ~809 |
-| Haaave You Met Asmodeus? | 0.40% | ~809 |
-| The Wyrmheart Mine | 0.40% | ~809 |
-| Tower on the Lake | 0.40% | ~809 |
-| Seeds of Deceit | 0.40% | ~809 |
-| The Gargoyle's Apprentice | 0.40% | ~809 |
-| The Guardian of Orolunga | 0.40% | ~809 |
-| The Lost Love | 0.40% | ~809 |
-| Flies on the Wall | 0.40% | ~809 |
-| Backtracking Through Barovia | 0.40% | ~809 |
-| Lair of the Xanathar | 0.40% | ~809 |
-| Waterdeep Under Siege | 0.40% | ~809 |
-| Difficult Terrain | 0.40% | ~809 |
-| Vault of Dragons | 0.40% | ~809 |
-| Elturel Has Fallen | 0.40% | ~809 |
-| Resolve Amongst Chaos | 0.40% | ~809 |
-| The Everlasting Rime | 0.40% | ~674 |
-| Expert Opinion | 0.40% | ~809 |
-| Poor Guidance | 0.40% | ~809 |
+| Force Grey Unleashed | 0.40% | ~810 |
+| Sleuth It Out | 0.40% | ~810 |
+| Chatty Nobles | 0.40% | ~810 |
+| Haaave You Met Asmodeus? | 0.40% | ~810 |
+| The Wyrmheart Mine | 0.40% | ~810 |
+| Seeds of Deceit | 0.40% | ~810 |
+| The Gargoyle's Apprentice | 0.40% | ~810 |
+| The Guardian of Orolunga | 0.40% | ~810 |
+| The Lost Love | 0.40% | ~810 |
+| Flies on the Wall | 0.40% | ~810 |
+| Backtracking Through Barovia | 0.40% | ~810 |
+| Lair of the Xanathar | 0.40% | ~810 |
+| Waterdeep Under Siege | 0.40% | ~810 |
+| Difficult Terrain | 0.40% | ~810 |
+| Vault of Dragons | 0.40% | ~810 |
+| Elturel Has Fallen | 0.40% | ~810 |
+| Resolve Amongst Chaos | 0.40% | ~810 |
+| The Everlasting Rime | 0.40% | ~675 |
+| Expert Opinion | 0.40% | ~810 |
+| Poor Guidance | 0.40% | ~810 |
 | Anti-Dexterous Explorers | 0.30% | ~607 |
 | Not Very Charming | 0.30% | ~607 |
 | Lobsterfolk Assault | 0.30% | ~607 |
@@ -145,15 +145,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Fortune | 0.20% | ~405 |
 | Relentless Misfortune | 0.20% | ~405 |
 | Thine Bounty is Mine! | 0.20% | ~337 |
+| This Quest Stinks! | 0.20% | ~337 |
 | Hold for the Red Wizards | 0.20% | ~405 |
 | Form Ranks | 0.20% | ~405 |
 | They Who Smelt It | 0.20% | ~405 |
 | Only the Strong Survive | 0.20% | ~405 |
 | Shorty's Day Off | 0.20% | ~405 |
 | Intelligence Hunt | 0.20% | ~405 |
+| Visions of Strahd | 0.20% | ~405 |
 | Seeds of Corruption | 0.20% | ~405 |
 | A Saurial's Lament | 0.20% | ~405 |
 | A Saurial's Resolve | 0.20% | ~405 |
+| The Killer Mists | 0.20% | ~405 |
 | Diversity Day-Trip | 0.20% | ~405 |
 | Stumbling Escape | 0.20% | ~405 |
 | From The Shadows | 0.20% | ~405 |
@@ -252,11 +255,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fall From Grace | 0.10% | ~202 |
 | Underground Railroad | 0.10% | ~202 |
 | Acererak's Puzzle | 0.10% | ~169 |
-| This Quest Stinks! | 0.10% | ~169 |
 | Drop of Time | 0.10% | ~169 |
 | Distribute Your Weight | 0.10% | ~202 |
 | Mongrelfolk Incursion | 0.10% | ~169 |
-| Visions of Strahd | 0.10% | ~202 |
 | The Strahd Squad | 0.10% | ~169 |
 | Home Not So Alone | 0.10% | ~169 |
 | Review by the Blackstaff | 0.10% | ~169 |
@@ -264,7 +265,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Air's Getting Pretty Thin | 0.10% | ~202 |
 | Red Wizard 'Escort' | 0.10% | ~169 |
 | Spirit of the Trickster Gods | 0.10% | ~169 |
-| The Killer Mists | 0.10% | ~202 |
 | Class Vacation | 0.10% | ~202 |
 | A Nod from Strahd | 0.10% | ~169 |
 | Late Game | 0.10% | ~202 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,327 (Ranked 52)  
+Progressed: 202,459 (Ranked 52)  
 Completed: 2,022 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,10 +582,10 @@ Completed: 2,022 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 202,327 | 2,022 |
+| 2023-07-01 | 202,459 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,985  (Ranked 64)  
-Sum: 30,318 (Ranked 37)  
+Sum: 30,322 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -595,7 +595,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,532 |
 | This game has Amazing Characters | 3,984 |
 | This game is Highly Recommended | 3,980 |
-| This game has Playful Visuals | 3,278 |
+| This game has Playful Visuals | 3,282 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -755,3 +755,4 @@ Diff (max vs sum): 27
 | 2023-06-28 | 4.06 | - | 4,975 | 30,279 |
 | 2023-06-29 | 4.06 | - | 4,985 | 30,305 |
 | 2023-06-30 | 4.05 | - | 4,985 | 30,318 |
+| 2023-07-01 | 4.05 | - | 4,985 | 30,322 |

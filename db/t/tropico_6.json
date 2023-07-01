@@ -886,10 +886,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 659,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-07-01T02:33:52.4788643+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 659,
+  "NumberOfAwards": 660,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -909,7 +915,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Highly Recommended",
@@ -960,9 +966,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3899,
+  "EOS_Progressed": 3900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5345,6 +5351,11 @@
       "Time": "2023-07-01T00:05:04.5823417+00:00",
       "NumProgressed": 3899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T02:37:34.2954333+00:00",
+      "NumProgressed": 3900,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5516,7 +5527,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5538,9 +5549,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5675,15 +5686,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3899,
+      "Progressed": 3900,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-06-29T22:01:14.707163+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:05:04.5823414+00:00",
-  "LastUpdate_AppInfo": "2023-06-24T00:00:25.0799567+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:01:52.9490777+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:05:04.5823846+00:00"
+  "LastChanged": "2023-07-01T02:33:52.4788641+00:00",
+  "LastChanged_Achievements": "2023-07-01T02:37:34.2954327+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:33:52.4788648+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:37:34.2955104+00:00"
 }

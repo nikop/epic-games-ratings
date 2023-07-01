@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,963 |
+| Just One...More...Term... | 76.00% | ~2,964 |
 | Un-Lonely Island | 48.00% | ~1,872 |
 | The Beginning of a Servantship | 45.00% | ~1,755 |
 | Trade Is My Trait | 37.00% | ~1,443 |
 | Number 18 | 24.00% | ~936 |
-| We Don't Have Time For That | 19.00% | ~741 |
+| We Don't Have Time For That | 20.00% | ~780 |
 | The Governator | 18.00% | ~702 |
 | The Legend of Langostino | 17.00% | ~663 |
 | Caribbean Comrade | 16.00% | ~624 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~35 |
 | My Ways | 0.30% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,899 (Ranked 140)  
+Progressed: 3,900 (Ranked 140)  
 Completed: 1 (0.03%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,10 +119,10 @@ Completed: 1 (0.03%) (Ranked 205)
 | 2023-06-28 | 3,865 | 1 |
 | 2023-06-29 | 3,880 | 1 |
 | 2023-06-30 | 3,897 | 1 |
-| 2023-07-01 | 3,899 | 1 |
+| 2023-07-01 | 3,900 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 93  (Ranked 340)  
-Sum: 659 (Ranked 279)  
+Sum: 660 (Ranked 279)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): 61
 | This game is Relaxing | 90 |
 | This game is Highly Recommended | 86 |
 | This game has Amazing Storytelling | 84 |
-| This game has Amazing Characters | 82 |
+| This game has Amazing Characters | 83 |
 | This game is Extremely Fun | 81 |
 | This game is Educational | 81 |
 | This game has a Creative Community | 62 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 61
 | 2023-06-25 | 4.66 | - | 93 | 658 |
 | 2023-06-28 | 4.67 | - | 93 | 658 |
 | 2023-06-29 | 4.67 | - | 93 | 659 |
+| 2023-07-01 | 4.67 | - | 93 | 660 |

@@ -13,9 +13,9 @@ Rating: 4.35 (Ranked 733)
 | Lumberjack | 52.00% | ~622 |
 | Croaked | 47.00% | ~563 |
 | Limp Richard | 46.00% | ~551 |
+| Exorcist | 46.00% | ~551 |
 | From Darkness to Light | 46.00% | ~551 |
 | Editor Adept | 45.00% | ~539 |
-| Exorcist | 45.00% | ~539 |
 | Firestarter | 42.00% | ~503 |
 | Giant Killer | 42.00% | ~503 |
 | Sensei | 41.00% | ~491 |
@@ -23,8 +23,8 @@ Rating: 4.35 (Ranked 733)
 | Technophobe | 37.00% | ~443 |
 | Recycler | 35.00% | ~419 |
 | Are you not entertained? | 31.00% | ~371 |
+| Jarhead | 31.00% | ~371 |
 | Ganglord | 30.00% | ~359 |
-| Jarhead | 30.00% | ~359 |
 | Infiltrator | 30.00% | ~359 |
 | Pushing Daisy | 28.00% | ~335 |
 | Experienced | 26.00% | ~311 |
@@ -45,7 +45,7 @@ Rating: 4.35 (Ranked 733)
 | Bot Whisperer | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
-| Silent but Violent | 5.00% | ~60 |
+| Silent but Violent | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
@@ -54,7 +54,7 @@ Rating: 4.35 (Ranked 733)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
-| Attenborough | 0.50% | ~6 |
+| Attenborough | 0.60% | ~7 |
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,197 (Ranked 178)  

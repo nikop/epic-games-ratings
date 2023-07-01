@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4816,10 +4816,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10642,
       "NumberOfAwardsMax": 6219
+    },
+    {
+      "Time": "2023-07-01T02:32:37.1097723+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10643,
+      "NumberOfAwardsMax": 6219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10642,
+  "NumberOfAwards": 10643,
   "NumberOfAwardsMax": 6219,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4887,7 +4893,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 496
+      "Count": 497
     },
     {
       "Text": "This game has a Creative Community",
@@ -4896,10 +4902,10 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710341,
-  "EOS_Completed": 12799,
-  "EOS_NewPlayers": 323,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 710349,
+  "EOS_Completed": 12800,
+  "EOS_NewPlayers": 322,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -11721,6 +11727,11 @@
       "Time": "2023-06-30T23:06:50.7701276+00:00",
       "NumProgressed": 710341,
       "NumCompleted": 12799
+    },
+    {
+      "Time": "2023-07-01T02:40:12.5629883+00:00",
+      "NumProgressed": 710349,
+      "NumCompleted": 12800
     }
   ],
   "TotalAchievements": 50,
@@ -12100,7 +12111,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -12131,21 +12142,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19642,
+      "Progressed": 19650,
       "Completed": 10341
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710341,
-      "Completed": 12799
+      "Progressed": 710349,
+      "Completed": 12800
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-06-30T09:58:47.7855204+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:08:04.9067353+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:58:55.0659543+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:00:25.2694164+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:08:04.9067996+00:00"
+  "LastChanged": "2023-07-01T02:32:37.1097703+00:00",
+  "LastChanged_Achievements": "2023-07-01T02:40:12.5629879+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:32:37.1097729+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:40:12.5630698+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -49,9 +49,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Intro",
@@ -89,9 +89,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Majak",
@@ -105,17 +105,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Poklop",
@@ -159,8 +159,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:02:41.2829194+00:00",
+  "LastChanged_Achievements": "2023-07-01T02:34:33.4768945+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.2071405+00:00",
-  "LastUpdate_Ratings": "2023-06-30T23:57:37.1544708+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:02:41.2829275+00:00"
+  "LastUpdate_Ratings": "2023-07-01T02:30:14.9335129+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:34:33.4769052+00:00"
 }

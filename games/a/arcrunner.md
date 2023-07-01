@@ -20,15 +20,15 @@
 | The Bigger They Are | 3.00% | ~20 |
 | Starship Docks | 3.00% | ~20 |
 | Rookie | 3.00% | ~20 |
-| Up Close And Personal | 2.00% | ~14 |
+| Up Close And Personal | 3.00% | ~20 |
+| Fully Modded | 2.00% | ~14 |
 | Eden Heights | 1.00% | ~7 |
-| Fully Modded | 1.00% | ~7 |
 | Outer Core | 1.00% | ~7 |
 | Inner Core | 0.70% | ~5 |
 | Integration | 0.60% | ~4 |
 | Destruction | 0.40% | ~3 |
+| Trickshot | 0.40% | ~3 |
 | Ripperdoc | 0.30% | ~2 |
-| Trickshot | 0.30% | ~2 |
 | Cyborg | 0.10% | ~1 |
 | Hard Boiled | 0.10% | ~1 |
 | Weaponsmith | 0.00% | ~0 |

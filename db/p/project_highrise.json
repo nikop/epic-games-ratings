@@ -827,9 +827,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_pop_1",
@@ -859,9 +859,9 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_prestige_3",
@@ -947,9 +947,9 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_retail_1",
@@ -987,9 +987,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_revs_2",
@@ -1075,17 +1075,17 @@
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ach_util_water",
@@ -1124,8 +1124,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:08:10.9713891+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:57:47.2499737+00:00",
-  "LastUpdate_Ratings": "2023-06-30T23:59:13.6612616+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:08:10.9714708+00:00"
+  "LastChanged_Achievements": "2023-07-01T02:40:18.2983528+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:26:33.5069988+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:31:38.751826+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:40:18.2985199+00:00"
 }

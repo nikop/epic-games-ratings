@@ -2,9 +2,9 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-06-29T02:26:43.7532637+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T02:39:56.8110157+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -281,7 +286,7 @@
       "ID": "COMPLETED_BLAZE_1",
       "SetID": "d91enl3",
       "Name": "All systems go",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -289,7 +294,7 @@
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -297,7 +302,7 @@
       "ID": "COMPLETED_BLAZE_3",
       "SetID": "d91enl3",
       "Name": "Huh? What was that?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -305,7 +310,7 @@
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -321,7 +326,7 @@
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -426,13 +431,13 @@
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:07:47.2344654+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:59:24.6648131+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:00:54.9384294+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:07:47.234479+00:00"
+  "LastChanged_Achievements": "2023-07-01T02:39:56.8110151+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:28:27.9951745+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:33:01.2311651+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:39:56.8110366+00:00"
 }

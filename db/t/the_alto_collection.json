@@ -697,9 +697,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 28981,
+  "EOS_Progressed": 28997,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8282,6 +8282,11 @@
       "Time": "2023-07-01T00:07:50.4964578+00:00",
       "NumProgressed": 28981,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-01T02:39:59.554872+00:00",
+      "NumProgressed": 28997,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -8293,7 +8298,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "distance1000000",
@@ -8309,7 +8314,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "distance50000",
@@ -8317,7 +8322,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2900
     },
     {
       "ID": "distance500000",
@@ -8333,7 +8338,7 @@
       "Name": "Rookie",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 7245
+      "UsersEstimate": 7249
     },
     {
       "ID": "goals180",
@@ -8349,7 +8354,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2610
     },
     {
       "ID": "goals75",
@@ -8373,7 +8378,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "journeyer",
@@ -8381,7 +8386,7 @@
       "Name": "Journeyer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "lifeaquatic",
@@ -8405,7 +8410,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "nomad",
@@ -8413,7 +8418,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5219
     },
     {
       "ID": "novice",
@@ -8421,7 +8426,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4927
+      "UsersEstimate": 4929
     },
     {
       "ID": "playerFelipe",
@@ -8445,7 +8450,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "playerPaz",
@@ -8453,7 +8458,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "playerTime3days",
@@ -8485,7 +8490,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "proximityFly1000",
@@ -8501,7 +8506,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7539
     },
     {
       "ID": "sandboarder",
@@ -8509,7 +8514,7 @@
       "Name": "Sandboarder",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "sightseer",
@@ -8517,7 +8522,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3190
     },
     {
       "ID": "ultimate",
@@ -8549,7 +8554,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "unlockmaya",
@@ -8557,7 +8562,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4640
     },
     {
       "ID": "unlockpaz",
@@ -8565,7 +8570,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2320
     },
     {
       "ID": "vandal",
@@ -8581,7 +8586,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "wanderer",
@@ -8589,7 +8594,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2610
     },
     {
       "ID": "windswept",
@@ -8604,15 +8609,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 28981,
+      "Progressed": 28997,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-06-28T23:00:30.7076755+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:07:50.4964574+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:59:14.4483031+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:00:44.5454666+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:07:50.4965144+00:00"
+  "LastChanged_Achievements": "2023-07-01T02:39:59.5548717+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:28:17.7507629+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:32:53.2592109+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:39:59.5549771+00:00"
 }

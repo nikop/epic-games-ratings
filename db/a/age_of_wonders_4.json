@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4884,
+  "EOS_Progressed": 4885,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4741,6 +4741,11 @@
       "Time": "2023-07-01T00:06:51.3443052+00:00",
       "NumProgressed": 4884,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T02:39:08.4101807+00:00",
+      "NumProgressed": 4885,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4782,9 +4787,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "14",
@@ -4798,9 +4803,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "16",
@@ -4822,9 +4827,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "19",
@@ -4878,17 +4883,17 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 98
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "26",
@@ -4910,9 +4915,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "29",
@@ -4982,9 +4987,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "37",
@@ -5102,9 +5107,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "46",
@@ -5151,13 +5156,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4884,
+      "Progressed": 4885,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4884,
+      "Progressed": 4885,
       "Completed": 4
     }
   ],
@@ -5165,8 +5170,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T00:06:51.3443047+00:00",
-  "LastUpdate_AppInfo": "2023-06-23T23:59:29.4110766+00:00",
-  "LastUpdate_Ratings": "2023-07-01T00:01:00.4386282+00:00",
-  "LastUpdate_Achievements": "2023-07-01T00:06:51.3443591+00:00"
+  "LastChanged_Achievements": "2023-07-01T02:39:08.4101802+00:00",
+  "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
+  "LastUpdate_Ratings": "2023-07-01T02:33:05.9377978+00:00",
+  "LastUpdate_Achievements": "2023-07-01T02:39:08.4102713+00:00"
 }
