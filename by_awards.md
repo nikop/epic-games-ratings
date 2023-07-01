@@ -86,7 +86,7 @@
 | 84 | [Paladins](games/p/paladins.md) | 3,358 | 4.34 | 741 |
 | 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,350 | 4.57 | 438 |
 | 86 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,333 | 4.68 | 239 |
-| 87 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,251 | 4.76 | 119 |
+| 87 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,252 | 4.76 | 119 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,230 | 4.68 | 239 |
 | 89 | [Hades](games/h/hades.md) | 3,159 | 4.92 | 4 |
 | 90 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,145 | 4.57 | 438 |
@@ -125,7 +125,7 @@
 | 123 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,361 | 4.62 | 345 |
 | 124 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,303 | 4.70 | 196 |
 | 125 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,301 | 4.86 | 28 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,296 | 4.52 | 517 |
+| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,300 | 4.52 | 517 |
 | 127 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 273 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,286 | 4.54 | 489 |
 | 129 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,261 | 4.79 | 89 |

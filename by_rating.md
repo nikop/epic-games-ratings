@@ -121,7 +121,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,660 | 22 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 348 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 502 |
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,251 | 87 |
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,252 | 87 |
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 416 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,225 | 73 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 502 |
@@ -527,7 +527,7 @@
 | 517 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
 | 517 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.52 | 0 | 502 |
 | 517 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 121 | 308 |
-| 517 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,296 | 126 |
+| 517 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,300 | 126 |
 | 517 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 502 |
 | 517 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 235 |
 | 517 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 502 |
