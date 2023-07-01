@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1335,6 +1335,11 @@
       "Time": "2023-07-01T07:07:31.7625638+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T09:06:38.1785731+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1474,7 +1479,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "High_noon",
@@ -1538,7 +1543,7 @@
       "Name": "Mosquito bite",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Scout",
@@ -1585,15 +1590,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1082,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:05:51.6451365+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:06:38.1785726+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.1195273+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:06.7116535+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:05:51.6451625+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:59:28.0700639+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:06:38.1785951+00:00"
 }

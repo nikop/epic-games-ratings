@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1801,
+  "EOS_Progressed": 1802,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.55,
   "EosHistory": [
@@ -3303,6 +3303,11 @@
       "Time": "2023-07-01T04:00:24.786019+00:00",
       "NumProgressed": 1801,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-07-01T09:01:18.4811235+00:00",
+      "NumProgressed": 1802,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 12,
@@ -3346,7 +3351,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Jakob",
@@ -3378,7 +3383,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -3409,7 +3414,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1801,
+      "Progressed": 1802,
       "Completed": 154
     }
   ],
@@ -3417,8 +3422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:00:30.6052084+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:01:18.4811231+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:24.7009065+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:00:30.6052421+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:59:53.0521656+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:01:18.4811522+00:00"
 }

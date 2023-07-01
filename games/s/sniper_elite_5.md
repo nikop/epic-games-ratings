@@ -26,6 +26,7 @@ Rating: 4.45 (Ranked 617)
 | Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
 | Organ Grinder | 0.20% | ~6 |
+| Set Europe Ablaze | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | The Kraken Sleeps | 0.20% | ~6 |
@@ -33,7 +34,6 @@ Rating: 4.45 (Ranked 617)
 | Strategist | 0.10% | ~3 |
 | Skirmisher | 0.10% | ~3 |
 | The Long Game | 0.10% | ~3 |
-| Set Europe Ablaze | 0.10% | ~3 |
 | Precision Is Key | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | Die Nussknacker Sweet! | 0.10% | ~3 |

@@ -11,19 +11,19 @@
 | Carving A Memory | 71.00% | ~15 |
 | A Friend In Need | 67.00% | ~14 |
 | A Stranger's Diary | 67.00% | ~14 |
+| It Feels Better Than It Sounds | 67.00% | ~14 |
 | Skilled Hands | 62.00% | ~13 |
-| It Feels Better Than It Sounds | 62.00% | ~13 |
+| Master Smithy | 62.00% | ~13 |
 | Stand By Nature | 62.00% | ~13 |
-| Master Smithy | 57.00% | ~12 |
+| Close Encounter | 57.00% | ~12 |
+| The Depths Of Darkness | 57.00% | ~12 |
+| One With The Blades | 57.00% | ~12 |
+| Heart of Oblivion | 57.00% | ~12 |
+| Anahita's Greatest Mistake | 57.00% | ~12 |
+| Shoo! Shoo! | 57.00% | ~12 |
 | The Milk Canal | 57.00% | ~12 |
 | Fledgling Smithy | 57.00% | ~12 |
-| Close Encounter | 52.00% | ~11 |
-| The Depths Of Darkness | 52.00% | ~11 |
-| One With The Blades | 52.00% | ~11 |
-| Heart of Oblivion | 52.00% | ~11 |
-| Anahita's Greatest Mistake | 52.00% | ~11 |
 | Heart's Desire | 52.00% | ~11 |
-| Shoo! Shoo! | 52.00% | ~11 |
 | At One With Nature | 52.00% | ~11 |
 | Prison Break | 48.00% | ~10 |
 | I Pick You | 48.00% | ~10 |

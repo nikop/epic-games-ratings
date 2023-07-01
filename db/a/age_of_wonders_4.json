@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4889,
+  "EOS_Progressed": 4890,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4766,6 +4766,11 @@
       "Time": "2023-07-01T07:06:21.1254742+00:00",
       "NumProgressed": 4889,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T09:05:38.379927+00:00",
+      "NumProgressed": 4890,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4815,9 +4820,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "15",
@@ -4839,9 +4844,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "18",
@@ -4959,9 +4964,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "31",
@@ -5047,9 +5052,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "41",
@@ -5176,13 +5181,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4889,
+      "Progressed": 4890,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4889,
+      "Progressed": 4890,
       "Completed": 4
     }
   ],
@@ -5190,8 +5195,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:05:00.1444036+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:05:38.3799266+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:20.866116+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:05:00.1444757+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:59:48.3800596+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:05:38.3799858+00:00"
 }

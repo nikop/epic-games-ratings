@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526725,
+  "EOS_Progressed": 1526732,
   "EOS_Completed": 639,
-  "EOS_NewPlayers": 1511,
+  "EOS_NewPlayers": 1508,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8090,6 +8090,11 @@
       "Time": "2023-07-01T08:04:21.3680549+00:00",
       "NumProgressed": 1526725,
       "NumCompleted": 639
+    },
+    {
+      "Time": "2023-07-01T09:04:51.4662541+00:00",
+      "NumProgressed": 1526732,
+      "NumCompleted": 639
     }
   ],
   "TotalAchievements": 20,
@@ -8117,7 +8122,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30534
+      "UsersEstimate": 30535
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -8149,7 +8154,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137405
+      "UsersEstimate": 137406
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -8173,7 +8178,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30534
+      "UsersEstimate": 30535
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -8189,7 +8194,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30534
+      "UsersEstimate": 30535
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -8197,7 +8202,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152672
+      "UsersEstimate": 152673
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -8213,7 +8218,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137405
+      "UsersEstimate": 137406
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -8245,7 +8250,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76336
+      "UsersEstimate": 76337
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -8260,15 +8265,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1526725,
+      "Progressed": 1526732,
       "Completed": 639
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:04:21.3680544+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:04:51.4662536+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:22.4769959+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:51.8063521+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:04:21.3681173+00:00"
+  "LastUpdate_Ratings": "2023-07-01T09:00:23.9689441+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:04:51.4663014+00:00"
 }

@@ -13,6 +13,7 @@ Rating: 4.19 (Ranked 844)
 | Flesh Wound | 0.50% | ~78 |
 | I Do Belong Here | 0.50% | ~78 |
 | Reforged | 0.50% | ~78 |
+| If the SHU Fits... | 0.50% | ~78 |
 | In the Pipe, Five by Five | 0.50% | ~78 |
 | Crash Site | 0.50% | ~78 |
 | Power Up | 0.50% | ~78 |
@@ -22,7 +23,6 @@ Rating: 4.19 (Ranked 844)
 | The Commonality | 0.40% | ~62 |
 | Float Like A Butterfly | 0.40% | ~62 |
 | The Outer Way | 0.40% | ~62 |
-| If the SHU Fits... | 0.40% | ~62 |
 | Without A Paddle | 0.40% | ~62 |
 | What Lies Beneath | 0.40% | ~62 |
 | Desperate Times | 0.40% | ~62 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,603 (Ranked 106)  
+Progressed: 15,604 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
 | 2023-06-30 | 15,597 | 62 |
-| 2023-07-01 | 15,603 | 62 |
+| 2023-07-01 | 15,604 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
 Sum: 353 (Ranked 321)  

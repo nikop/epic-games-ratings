@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -938,8 +938,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:03:08.2346672+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:03:23.222826+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:57:01.5706285+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:03:08.234704+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:57:00.9527363+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:03:23.2228546+00:00"
 }

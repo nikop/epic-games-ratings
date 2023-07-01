@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -735,7 +735,7 @@
   ],
   "EOS_Progressed": 7464,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5315,9 +5315,9 @@
       "ID": "ACH_TICKET_TODDLER",
       "SetID": "97mcd7i",
       "Name": "Ticket Toddler",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -5355,8 +5355,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-06-25T11:58:25.3130952+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:04:20.0963213+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:04:50.0432633+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.2601444+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:58:20.2027737+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:04:20.0963907+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:58:35.4405435+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:04:50.0433202+00:00"
 }

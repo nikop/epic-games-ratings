@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 659,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -498,10 +498,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 163,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-07-01T08:59:39.1798489+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 163,
+  "NumberOfAwards": 164,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -533,7 +539,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -572,8 +578,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2023-06-30T03:15:08.917243+00:00",
+  "LastChanged": "2023-07-01T08:59:39.1798488+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:23.6506844+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:14.2587383+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:04:26.4653212+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:59:39.1798492+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:04:57.7172819+00:00"
 }

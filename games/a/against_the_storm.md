@@ -6,14 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 3.00% | ~466 |
-| Overcoming Difficulty | 3.00% | ~466 |
-| Fertile Meadows | 3.00% | ~466 |
-| Coral Forest | 3.00% | ~466 |
-| The Marshlands | 3.00% | ~466 |
-| The Scarlet Orchard | 3.00% | ~466 |
-| Taking Action | 3.00% | ~466 |
-| No Deaths | 3.00% | ~466 |
+| First Real Expedition | 3.00% | ~467 |
+| Overcoming Difficulty | 3.00% | ~467 |
+| Fertile Meadows | 3.00% | ~467 |
+| Coral Forest | 3.00% | ~467 |
+| The Marshlands | 3.00% | ~467 |
+| The Scarlet Orchard | 3.00% | ~467 |
+| Taking Action | 3.00% | ~467 |
+| No Deaths | 3.00% | ~467 |
 | Homesick | 2.00% | ~311 |
 | Bandit Camp | 2.00% | ~311 |
 | Barren Lands | 2.00% | ~311 |
@@ -29,18 +29,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~311 |
 | Like a Machine | 2.00% | ~311 |
 | Trade Baron | 2.00% | ~311 |
-| Serving Ale | 1.00% | ~155 |
-| Refinery | 1.00% | ~155 |
-| Against All Odds | 1.00% | ~155 |
-| Ruined Armory | 1.00% | ~155 |
-| Dangerous Lands | 1.00% | ~155 |
-| Forbidden Lands | 1.00% | ~155 |
-| Haunted Forest | 1.00% | ~155 |
-| Statue of the Forefathers | 1.00% | ~155 |
-| Forsaken Gods Temple | 1.00% | ~155 |
-| Corrosive Torrent | 1.00% | ~155 |
-| Defying the Crown | 1.00% | ~155 |
-| Into the Forest | 1.00% | ~155 |
+| Serving Ale | 1.00% | ~156 |
+| Refinery | 1.00% | ~156 |
+| Against All Odds | 1.00% | ~156 |
+| Ruined Armory | 1.00% | ~156 |
+| Dangerous Lands | 1.00% | ~156 |
+| Forbidden Lands | 1.00% | ~156 |
+| Haunted Forest | 1.00% | ~156 |
+| Statue of the Forefathers | 1.00% | ~156 |
+| Forsaken Gods Temple | 1.00% | ~156 |
+| Corrosive Torrent | 1.00% | ~156 |
+| Defying the Crown | 1.00% | ~156 |
+| Into the Forest | 1.00% | ~156 |
 | Fishmen Ritual Site | 0.80% | ~124 |
 | Efficient Explorer | 0.70% | ~109 |
 | Prestigious Expedition | 0.60% | ~93 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,549 (Ranked 107)  
+Progressed: 15,551 (Ranked 107)  
 Completed: 39 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 39 (0.25%) (Ranked 150)
 | 2023-06-28 | 15,511 | 39 |
 | 2023-06-29 | 15,527 | 39 |
 | 2023-06-30 | 15,543 | 39 |
-| 2023-07-01 | 15,549 | 39 |
+| 2023-07-01 | 15,551 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,058 (Ranked 155)  

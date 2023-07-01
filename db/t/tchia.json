@@ -176,7 +176,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6641,
+  "EOS_Progressed": 6642,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -4186,6 +4186,11 @@
       "Time": "2023-06-30T21:05:55.5224613+00:00",
       "NumProgressed": 6641,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-01T09:06:24.3684934+00:00",
+      "NumProgressed": 6642,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 21,
@@ -4237,7 +4242,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ENERGY_SAVER",
@@ -4285,7 +4290,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ICONOCLAST",
@@ -4293,7 +4298,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "IN_A_PINCH",
@@ -4341,7 +4346,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -4364,7 +4369,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6641,
+      "Progressed": 6642,
       "Completed": 25
     }
   ],
@@ -4372,8 +4377,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:05:38.8757144+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:06:24.3684931+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:57:57.1814939+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:05:38.8758051+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:58:09.8861701+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:06:24.3685237+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,381 |
-| The Mad Wizard | 10.00% | ~20,272 |
-| The Ring of Regeneration | 6.00% | ~12,163 |
-| Are Ya Chicken? | 6.00% | ~12,163 |
-| Were-verpowered | 5.00% | ~10,136 |
-| Friendly Imps | 5.00% | ~10,136 |
-| Seeking Allies | 4.00% | ~8,109 |
-| Mad Cow Disease | 4.00% | ~8,109 |
-| Pure Energy | 4.00% | ~8,109 |
-| A Persistent Buzzing | 3.00% | ~6,082 |
-| Terror in the Dark | 3.00% | ~6,082 |
-| The Crumbling Temple | 3.00% | ~6,082 |
-| The Contagious Curse | 3.00% | ~6,082 |
-| Beast Mode | 2.00% | ~4,054 |
-| A Mysterious Summons | 2.00% | ~4,054 |
-| Unearthed Evil | 2.00% | ~4,054 |
-| Useless Allies | 2.00% | ~4,054 |
-| Exploring Port Nyanzaru | 2.00% | ~4,054 |
-| Running of the Saurs | 2.00% | ~4,054 |
-| Escort to Waterdeep | 2.00% | ~4,054 |
-| Waterdeep Detours | 2.00% | ~4,054 |
-| Low Initiative | 1.00% | ~2,027 |
-| Building Trust | 1.00% | ~2,027 |
-| March of the Undead | 1.00% | ~2,027 |
-| No Time To Rest | 1.00% | ~2,027 |
-| The Dinner Party | 1.00% | ~2,027 |
-| The Death Curse | 1.00% | ~2,027 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,027 |
-| Underdeep Cartography | 1.00% | ~2,027 |
-| Overdue Rendezvous | 1.00% | ~2,027 |
-| The Templar's Camp | 1.00% | ~2,027 |
-| Rescue in the Jungle | 1.00% | ~2,027 |
-| Invisible Shadows | 0.90% | ~1,824 |
-| The Botched Kidnapping | 0.90% | ~1,824 |
-| Premature Betrayal | 0.90% | ~1,824 |
-| Close Escort | 0.90% | ~1,824 |
-| Constant Banditry | 0.90% | ~1,824 |
+| The Cursed Farmer | 14.00% | ~28,389 |
+| The Mad Wizard | 10.00% | ~20,278 |
+| The Ring of Regeneration | 6.00% | ~12,167 |
+| Are Ya Chicken? | 6.00% | ~12,167 |
+| Were-verpowered | 5.00% | ~10,139 |
+| Friendly Imps | 5.00% | ~10,139 |
+| Seeking Allies | 4.00% | ~8,111 |
+| Mad Cow Disease | 4.00% | ~8,111 |
+| Pure Energy | 4.00% | ~8,111 |
+| A Persistent Buzzing | 3.00% | ~6,083 |
+| Terror in the Dark | 3.00% | ~6,083 |
+| The Crumbling Temple | 3.00% | ~6,083 |
+| The Contagious Curse | 3.00% | ~6,083 |
+| Beast Mode | 2.00% | ~4,056 |
+| A Mysterious Summons | 2.00% | ~4,056 |
+| Unearthed Evil | 2.00% | ~4,056 |
+| Useless Allies | 2.00% | ~4,056 |
+| Exploring Port Nyanzaru | 2.00% | ~4,056 |
+| Running of the Saurs | 2.00% | ~4,056 |
+| Escort to Waterdeep | 2.00% | ~4,056 |
+| Waterdeep Detours | 2.00% | ~4,056 |
+| Low Initiative | 1.00% | ~2,028 |
+| Building Trust | 1.00% | ~2,028 |
+| March of the Undead | 1.00% | ~2,028 |
+| No Time To Rest | 1.00% | ~2,028 |
+| The Dinner Party | 1.00% | ~2,028 |
+| The Death Curse | 1.00% | ~2,028 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,028 |
+| Underdeep Cartography | 1.00% | ~2,028 |
+| Overdue Rendezvous | 1.00% | ~2,028 |
+| The Templar's Camp | 1.00% | ~2,028 |
+| Rescue in the Jungle | 1.00% | ~2,028 |
+| Invisible Shadows | 0.90% | ~1,825 |
+| The Botched Kidnapping | 0.90% | ~1,825 |
+| Premature Betrayal | 0.90% | ~1,825 |
+| Close Escort | 0.90% | ~1,825 |
+| Constant Banditry | 0.90% | ~1,825 |
 | Homecoming | 0.80% | ~1,622 |
 | Street War | 0.80% | ~1,622 |
 | Trollskull Manor | 0.80% | ~1,622 |
@@ -52,15 +52,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.70% | ~1,419 |
 | The Long Haul | 0.70% | ~1,419 |
 | Lost in the Deep | 0.70% | ~1,419 |
-| The Forbidden City | 0.60% | ~1,216 |
-| Captured! | 0.60% | ~1,216 |
-| Wisdom Check | 0.60% | ~1,216 |
-| A Grand Puzzle | 0.60% | ~1,216 |
-| The Mists of Ravenloft | 0.60% | ~1,216 |
-| Nimble Escape | 0.60% | ~1,216 |
-| The Dead Three | 0.60% | ~1,216 |
-| Easily Distracted | 0.60% | ~1,216 |
-| The Haunted Jungle | 0.60% | ~1,216 |
+| The Forbidden City | 0.60% | ~1,217 |
+| Captured! | 0.60% | ~1,217 |
+| Wisdom Check | 0.60% | ~1,217 |
+| A Grand Puzzle | 0.60% | ~1,217 |
+| The Mists of Ravenloft | 0.60% | ~1,217 |
+| Nimble Escape | 0.60% | ~1,217 |
+| The Dead Three | 0.60% | ~1,217 |
+| Easily Distracted | 0.60% | ~1,217 |
+| The Haunted Jungle | 0.60% | ~1,217 |
 | Tomb of the Nine Gods | 0.50% | ~1,014 |
 | Family Entanglements | 0.50% | ~1,014 |
 | The Immortal Warrior | 0.50% | ~1,014 |
@@ -137,60 +137,61 @@ Number of Ratings: 9,041  (23.09.2022)
 | Moose Tracks | 0.30% | ~507 |
 | Civilization | 0.30% | ~507 |
 | Dwarven Rumors | 0.30% | ~507 |
-| Struggling Toward Omu | 0.20% | ~405 |
-| Taking Responsibility | 0.20% | ~405 |
-| No Good at All | 0.20% | ~405 |
-| Never Split the Party | 0.20% | ~405 |
+| Sunblight | 0.30% | ~507 |
+| Struggling Toward Omu | 0.20% | ~406 |
+| Taking Responsibility | 0.20% | ~406 |
+| No Good at All | 0.20% | ~406 |
+| Never Split the Party | 0.20% | ~406 |
 | Snakes on our Plane | 0.20% | ~338 |
-| The Soulmonger Calls | 0.20% | ~405 |
-| Haunted Fortunes | 0.20% | ~405 |
-| Poor Fortune | 0.20% | ~405 |
-| Relentless Misfortune | 0.20% | ~405 |
+| The Soulmonger Calls | 0.20% | ~406 |
+| Haunted Fortunes | 0.20% | ~406 |
+| Poor Fortune | 0.20% | ~406 |
+| Relentless Misfortune | 0.20% | ~406 |
 | Thine Bounty is Mine! | 0.20% | ~338 |
 | This Quest Stinks! | 0.20% | ~338 |
-| Hold for the Red Wizards | 0.20% | ~405 |
-| Form Ranks | 0.20% | ~405 |
-| They Who Smelt It | 0.20% | ~405 |
-| Only the Strong Survive | 0.20% | ~405 |
-| Shorty's Day Off | 0.20% | ~405 |
-| Intelligence Hunt | 0.20% | ~405 |
-| Visions of Strahd | 0.20% | ~405 |
-| Seeds of Corruption | 0.20% | ~405 |
+| Hold for the Red Wizards | 0.20% | ~406 |
+| Form Ranks | 0.20% | ~406 |
+| They Who Smelt It | 0.20% | ~406 |
+| Only the Strong Survive | 0.20% | ~406 |
+| Shorty's Day Off | 0.20% | ~406 |
+| Intelligence Hunt | 0.20% | ~406 |
+| Visions of Strahd | 0.20% | ~406 |
+| Seeds of Corruption | 0.20% | ~406 |
 | Home Not So Alone | 0.20% | ~338 |
-| A Saurial's Lament | 0.20% | ~405 |
-| The Killer Mists | 0.20% | ~405 |
-| Diversity Day-Trip | 0.20% | ~405 |
-| Stumbling Escape | 0.20% | ~405 |
-| Spined Nuisances | 0.20% | ~405 |
-| Screams of the Dead | 0.20% | ~405 |
-| Bazaar Exploits | 0.20% | ~405 |
-| Flame(skull) War | 0.20% | ~405 |
-| Elder Rune Madness | 0.20% | ~405 |
-| The Madness Grows | 0.20% | ~405 |
-| Bullywugs in the Bog | 0.20% | ~405 |
-| Orcs Are Wild | 0.20% | ~405 |
-| An Abyssal Situation | 0.20% | ~405 |
-| Dino Nightmare | 0.20% | ~405 |
-| A Hero's Entourage | 0.20% | ~405 |
-| Dreams of Beholders | 0.20% | ~405 |
-| Feigned Weakness | 0.20% | ~405 |
-| Bregan D'aerthe Comes to Call | 0.20% | ~405 |
-| The Sunless Citadel | 0.20% | ~405 |
-| Meepo's Quest | 0.20% | ~405 |
-| Troublesome Prisoner | 0.20% | ~405 |
-| Dark Doppelgangers | 0.20% | ~405 |
-| Cold & Wet | 0.20% | ~405 |
-| Madcap Adventures | 0.20% | ~405 |
-| Vault of Pixies | 0.20% | ~405 |
-| On The Job Learning | 0.20% | ~405 |
-| Lost in the Goblin Halls | 0.20% | ~405 |
-| The Twilight Grove | 0.20% | ~405 |
-| Everything is Awful | 0.20% | ~405 |
+| A Saurial's Lament | 0.20% | ~406 |
+| The Killer Mists | 0.20% | ~406 |
+| Diversity Day-Trip | 0.20% | ~406 |
+| Stumbling Escape | 0.20% | ~406 |
+| Spined Nuisances | 0.20% | ~406 |
+| Screams of the Dead | 0.20% | ~406 |
+| Bazaar Exploits | 0.20% | ~406 |
+| Flame(skull) War | 0.20% | ~406 |
+| Elder Rune Madness | 0.20% | ~406 |
+| The Madness Grows | 0.20% | ~406 |
+| Bullywugs in the Bog | 0.20% | ~406 |
+| Orcs Are Wild | 0.20% | ~406 |
+| An Abyssal Situation | 0.20% | ~406 |
+| Dino Nightmare | 0.20% | ~406 |
+| A Hero's Entourage | 0.20% | ~406 |
+| Dreams of Beholders | 0.20% | ~406 |
+| Feigned Weakness | 0.20% | ~406 |
+| Bregan D'aerthe Comes to Call | 0.20% | ~406 |
+| The Sunless Citadel | 0.20% | ~406 |
+| Meepo's Quest | 0.20% | ~406 |
+| Troublesome Prisoner | 0.20% | ~406 |
+| Dark Doppelgangers | 0.20% | ~406 |
+| Cold & Wet | 0.20% | ~406 |
+| Madcap Adventures | 0.20% | ~406 |
+| Vault of Pixies | 0.20% | ~406 |
+| On The Job Learning | 0.20% | ~406 |
+| Lost in the Goblin Halls | 0.20% | ~406 |
+| The Twilight Grove | 0.20% | ~406 |
+| Everything is Awful | 0.20% | ~406 |
 | Earthquake! | 0.20% | ~338 |
-| All You Know Is Wrong | 0.20% | ~405 |
+| All You Know Is Wrong | 0.20% | ~406 |
 | Shadow Stalkers | 0.20% | ~338 |
-| Displaced Anger | 0.20% | ~405 |
-| Relay Race | 0.20% | ~405 |
+| Displaced Anger | 0.20% | ~406 |
+| Relay Race | 0.20% | ~406 |
 | An Illithid Ambush | 0.20% | ~338 |
 | A Difficult Descent | 0.20% | ~338 |
 | Dream Gauntlet | 0.20% | ~338 |
@@ -209,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~338 |
 | The Sibriex | 0.20% | ~338 |
 | Wrecked Flying Fortress | 0.20% | ~338 |
-| Sunblight | 0.20% | ~338 |
 | The Bleeding Citadel | 0.20% | ~338 |
 | Idyllglen | 0.20% | ~338 |
 | The Radiant Nightmare | 0.20% | ~338 |
@@ -223,7 +223,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 2 | 0.20% | ~338 |
 | Reghed Glacier Mysteries | 0.20% | ~338 |
 | Tekeli-li's Hunt | 0.20% | ~338 |
-| Overwhelming Force | 0.20% | ~405 |
+| Overwhelming Force | 0.20% | ~406 |
 | Frail Doesn't Mean Broken | 0.10% | ~169 |
 | The Castle of a Thousand Vecnas | 0.10% | ~169 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~169 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,718 (Ranked 52)  
+Progressed: 202,779 (Ranked 52)  
 Completed: 2,022 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,022 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 202,718 | 2,022 |
+| 2023-07-01 | 202,779 | 2,022 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,336 (Ranked 37)  

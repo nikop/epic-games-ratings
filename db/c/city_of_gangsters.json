@@ -421,9 +421,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 326563,
+  "EOS_Progressed": 326566,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1917,
+  "EOS_NewPlayers": 1908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8056,6 +8056,11 @@
       "Time": "2023-07-01T08:04:33.6079619+00:00",
       "NumProgressed": 326563,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-01T09:05:06.6011576+00:00",
+      "NumProgressed": 326566,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -8195,7 +8200,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 42453
+      "UsersEstimate": 42454
     },
     {
       "ID": "ach018",
@@ -8203,7 +8208,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22859
+      "UsersEstimate": 22860
     },
     {
       "ID": "ach019",
@@ -8275,7 +8280,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 150219
+      "UsersEstimate": 150220
     },
     {
       "ID": "ach028",
@@ -8291,7 +8296,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32656
+      "UsersEstimate": 32657
     },
     {
       "ID": "ach030",
@@ -8371,7 +8376,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32656
+      "UsersEstimate": 32657
     },
     {
       "ID": "ach040",
@@ -8403,7 +8408,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22859
+      "UsersEstimate": 22860
     },
     {
       "ID": "ach044",
@@ -8419,7 +8424,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42453
+      "UsersEstimate": 42454
     },
     {
       "ID": "ach046",
@@ -8427,7 +8432,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22859
+      "UsersEstimate": 22860
     },
     {
       "ID": "ach047",
@@ -8531,7 +8536,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32656
+      "UsersEstimate": 32657
     },
     {
       "ID": "ach060",
@@ -8595,7 +8600,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52250
+      "UsersEstimate": 52251
     },
     {
       "ID": "ach069",
@@ -8675,7 +8680,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22859
+      "UsersEstimate": 22860
     },
     {
       "ID": "ach079",
@@ -8706,7 +8711,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 326563,
+      "Progressed": 326566,
       "Completed": 5
     }
   ],
@@ -8714,8 +8719,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-06-30T13:12:16.1429021+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:04:33.6079613+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:05:06.6011571+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:03.3076918+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:57:42.8667857+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:04:33.6080875+00:00"
+  "LastUpdate_Ratings": "2023-07-01T08:57:53.3721097+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:05:06.601267+00:00"
 }

@@ -19,7 +19,7 @@ Number of Ratings: 154  (23.09.2022)
 | Easy Peasy with Shields | 69.00% | ~146 |
 | Gallant Spin Dash | 68.00% | ~143 |
 | Miles "Tails" Prower | 67.00% | ~141 |
-| Boss Rush Attempt | 61.00% | ~129 |
+| Boss Rush Attempt | 62.00% | ~131 |
 | Cleared Sonic the Hedgehog | 59.00% | ~124 |
 | Very First Mission Clear! | 57.00% | ~120 |
 | Museum Time | 55.00% | ~116 |

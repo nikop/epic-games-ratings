@@ -5,7 +5,7 @@
   "Ranking_Rating": 921,
   "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 206,
-  "Ranking_EOS_Progress": 71,
+  "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 62,
@@ -2328,9 +2328,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68099,
+  "EOS_Progressed": 68100,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9873,6 +9873,11 @@
       "Time": "2023-07-01T08:03:17.184369+00:00",
       "NumProgressed": 68099,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-01T09:03:33.856536+00:00",
+      "NumProgressed": 68100,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10028,7 +10033,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44264
+      "UsersEstimate": 44265
     },
     {
       "ID": "ACH_0210",
@@ -10036,7 +10041,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50393
+      "UsersEstimate": 50394
     },
     {
       "ID": "ACH_0211",
@@ -10179,7 +10184,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68099,
+      "Progressed": 68100,
       "Completed": 35
     }
   ],
@@ -10187,8 +10192,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-01T04:59:47.6104642+00:00",
-  "LastChanged_Achievements": "2023-07-01T08:03:17.1843685+00:00",
+  "LastChanged_Achievements": "2023-07-01T09:03:33.8565355+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-01T07:59:48.4548187+00:00",
-  "LastUpdate_Achievements": "2023-07-01T08:03:17.1844433+00:00"
+  "LastUpdate_Ratings": "2023-07-01T09:00:20.3365468+00:00",
+  "LastUpdate_Achievements": "2023-07-01T09:03:33.8565961+00:00"
 }

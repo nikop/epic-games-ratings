@@ -18,7 +18,7 @@ Number of Ratings: 801  (23.09.2022)
 | Gunplay And Cosplay | 55.00% | ~4,105 |
 | Hacks In Stacks | 55.00% | ~4,105 |
 | Meching Enemies | 49.00% | ~3,657 |
-| Ticket Toddler | 44.00% | ~3,284 |
+| Ticket Toddler | 45.00% | ~3,359 |
 | Booty Bashing | 43.00% | ~3,210 |
 | Field Medic | 38.00% | ~2,836 |
 | Here Comes a New Challenger | 38.00% | ~2,836 |

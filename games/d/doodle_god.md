@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 94.00% | ~209 |
+| Good Start | 95.00% | ~211 |
 | Practice Makes Perfect | 83.00% | ~184 |
 | Creator of Life | 82.00% | ~182 |
 | Creator of Diversity | 69.00% | ~153 |
