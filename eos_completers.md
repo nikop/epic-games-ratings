@@ -1,12 +1,12 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.55% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.76% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 33.33% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 21.74% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.19% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.62% |
@@ -23,12 +23,12 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.52% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.30% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.05% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.04% |
 | 30 | [Scorn](games/s/scorn.md) | 6.90% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -36,7 +36,7 @@
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.14% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.13% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.76% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
@@ -53,7 +53,7 @@
 | 51 | [ZZT!](games/z/zzt!.md) | 3.38% |
 | 52 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 54 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
+| 54 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.08% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
@@ -61,10 +61,10 @@
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.76% |
-| 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
-| 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
-| 65 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.66% |
+| 62 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.73% |
+| 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
+| 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
