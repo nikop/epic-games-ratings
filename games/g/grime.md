@@ -8,13 +8,13 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 28.00% | ~171 |
 | Imprint | 28.00% | ~171 |
-| The Hunt | 24.00% | ~146 |
-| Ravenous | 24.00% | ~146 |
+| The Hunt | 24.00% | ~147 |
+| Ravenous | 24.00% | ~147 |
 | Weeper | 22.00% | ~134 |
 | Devourer | 17.00% | ~104 |
 | Silenced Whispers | 15.00% | ~92 |
-| Harmless | 14.00% | ~85 |
-| Yank | 14.00% | ~85 |
+| Harmless | 14.00% | ~86 |
+| Yank | 14.00% | ~86 |
 | Scion | 13.00% | ~25 |
 | Glare | 13.00% | ~25 |
 | Sharpened Vessel | 13.00% | ~79 |
@@ -27,7 +27,7 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 9.00% | ~55 |
 | Watcher | 9.00% | ~55 |
 | Predator | 9.00% | ~55 |
-| Dream | 8.00% | ~15 |
+| Dream | 8.00% | ~16 |
 | Assimilation | 7.00% | ~43 |
 | Hunt Down | 7.00% | ~43 |
 | Artisan | 7.00% | ~43 |
@@ -35,10 +35,10 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 6.00% | ~37 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |
-| Kinship | 5.00% | ~30 |
-| Breathsmith | 5.00% | ~30 |
-| Unwrap the Gift | 5.00% | ~30 |
-| Proportions | 5.00% | ~30 |
+| Kinship | 5.00% | ~31 |
+| Breathsmith | 5.00% | ~31 |
+| Unwrap the Gift | 5.00% | ~31 |
+| Proportions | 5.00% | ~31 |
 | Bloodhunter | 4.00% | ~24 |
 | Breath | 4.00% | ~24 |
 | Weakness | 4.00% | ~24 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 206)  
+Progressed: 611 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 604 | 0 |
 | 2023-06-29 | 606 | 0 |
 | 2023-06-30 | 609 | 0 |
-| 2023-07-01 | 610 | 0 |
+| 2023-07-01 | 611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

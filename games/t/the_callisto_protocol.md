@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 844)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 0.80% | ~125 |
+| Keep Fighting | 0.80% | ~28 |
 | Paper Jams | 0.70% | ~109 |
-| Keep Fighting | 0.70% | ~25 |
 | You Need a Gun | 0.60% | ~94 |
 | Two Heads Are Better Than One | 0.60% | ~94 |
 | Flesh Wound | 0.50% | ~78 |

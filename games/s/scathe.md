@@ -8,11 +8,11 @@
 | Half a Life | 6.00% | ~7 |
 | Shock to the System | 5.00% | ~6 |
 | Bad Blood | 3.00% | ~4 |
-| Bloodstorm | 0.90% | ~1 |
-| Doomed | 0.90% | ~1 |
-| Serious Bam | 0.90% | ~1 |
-| Shocking Bio | 0.90% | ~1 |
-| Unreal | 0.90% | ~1 |
+| Bloodstorm | 0.80% | ~1 |
+| Doomed | 0.80% | ~1 |
+| Serious Bam | 0.80% | ~1 |
+| Shocking Bio | 0.80% | ~1 |
+| Unreal | 0.80% | ~1 |
 | Amaging Work | 0.00% | ~0 |
 | ...And I'm All Out Of Gun | 0.00% | ~0 |
 | Castle Of The Wolf | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 288)  
+Progressed: 118 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 0 (0.00%) (Ranked 231)
 | 2023-06-28 | 108 | 0 |
 | 2023-06-29 | 111 | 0 |
 | 2023-06-30 | 117 | 0 |
+| 2023-07-01 | 118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

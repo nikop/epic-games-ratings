@@ -52,9 +52,9 @@ Rating: 4.37 (Ranked 718)
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
+| Attenborough | 0.70% | ~8 |
 | Goaaaaal! | 0.70% | ~8 |
 | QA Has Suffered! (Redux) | 0.70% | ~8 |
-| Attenborough | 0.60% | ~7 |
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,198 (Ranked 178)  

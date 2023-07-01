@@ -6,38 +6,38 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,692,451 |
-| Easy to forget | 46.00% | ~1,621,932 |
-| Back in the black | 38.00% | ~1,339,857 |
-| That's what I'm talking about | 28.00% | ~987,263 |
-| The Best of Both Worlds | 25.00% | ~881,485 |
-| Get your wings | 20.00% | ~705,188 |
-| Double trouble | 15.00% | ~528,891 |
-| Smashing it | 10.00% | ~352,594 |
-| But can it run Crysis? | 9.00% | ~317,335 |
-| My favourite feature... | 9.00% | ~317,335 |
-| From humble beginnings... | 7.00% | ~246,816 |
-| Customer satisfaction | 7.00% | ~246,816 |
+| You need to plug it in... | 48.00% | ~1,692,462 |
+| Easy to forget | 46.00% | ~1,621,943 |
+| Back in the black | 38.00% | ~1,339,866 |
+| That's what I'm talking about | 28.00% | ~987,269 |
+| The Best of Both Worlds | 25.00% | ~881,490 |
+| Get your wings | 20.00% | ~705,192 |
+| Double trouble | 15.00% | ~528,894 |
+| Smashing it | 10.00% | ~352,596 |
+| But can it run Crysis? | 9.00% | ~317,337 |
+| My favourite feature... | 9.00% | ~317,337 |
+| From humble beginnings... | 7.00% | ~246,817 |
+| Customer satisfaction | 7.00% | ~246,817 |
 | Keeping things neat | 4.00% | ~141,038 |
 | Seems you're pretty good at this | 4.00% | ~141,038 |
-| Triple threat | 3.00% | ~105,778 |
-| You rock at this! | 3.00% | ~105,778 |
-| Your music sucks | 3.00% | ~105,778 |
-| Bending over backwards | 3.00% | ~105,778 |
+| Triple threat | 3.00% | ~105,779 |
+| You rock at this! | 3.00% | ~105,779 |
+| Your music sucks | 3.00% | ~105,779 |
+| Bending over backwards | 3.00% | ~105,779 |
 | I'm broke, Uncle! | 2.00% | ~70,519 |
 | Maybe you should try something else? | 2.00% | ~70,519 |
 | Taking care of business | 2.00% | ~70,519 |
 | Perfection | 2.00% | ~70,519 |
 | Calling in Sick | 2.00% | ~70,519 |
-| Overvolted | 1.00% | ~35,259 |
-| If you fail the first time... | 1.00% | ~35,259 |
-| Amazonian | 1.00% | ~35,259 |
-| Things are under control | 1.00% | ~35,259 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,259 |
-| Building isn't cheap! | 1.00% | ~35,259 |
-| Majority Shareholder | 1.00% | ~35,259 |
-| Owner | 1.00% | ~35,259 |
-| Show off | 0.90% | ~31,733 |
+| Overvolted | 1.00% | ~35,260 |
+| If you fail the first time... | 1.00% | ~35,260 |
+| Amazonian | 1.00% | ~35,260 |
+| Things are under control | 1.00% | ~35,260 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,260 |
+| Building isn't cheap! | 1.00% | ~35,260 |
+| Majority Shareholder | 1.00% | ~35,260 |
+| Owner | 1.00% | ~35,260 |
+| Show off | 0.90% | ~31,734 |
 | Work ethic 101 | 0.70% | ~24,682 |
 | Building momentum | 0.60% | ~21,156 |
 | Lead by example | 0.50% | ~17,630 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,526 |
 | Treat yourself - GPU | 0.10% | ~3,526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,525,939 (Ranked 4)  
+Progressed: 3,525,962 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,17 +131,17 @@ Completed: 28 (0.00%) (Ranked 231)
 | 2023-06-28 | 3,524,941 | 28 |
 | 2023-06-29 | 3,525,381 | 28 |
 | 2023-06-30 | 3,525,817 | 28 |
-| 2023-07-01 | 3,525,939 | 28 |
+| 2023-07-01 | 3,525,962 | 28 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 138)  
-Sum: 7,857 (Ranked 97)  
+Sum: 7,858 (Ranked 97)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,051 |
 | This game is Relaxing | 973 |
 | This game is Educational | 972 |
-| This game is Extremely Fun | 965 |
+| This game is Extremely Fun | 966 |
 | This game has Quickly Understood Controls | 931 |
 | This game is Highly Recommended | 880 |
 | This game has Amazing Storytelling | 805 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 41
 | 2023-06-28 | 4.66 | - | 1,051 | 7,849 |
 | 2023-06-29 | 4.66 | - | 1,051 | 7,854 |
 | 2023-06-30 | 4.66 | - | 1,051 | 7,856 |
-| 2023-07-01 | 4.66 | - | 1,051 | 7,857 |
+| 2023-07-01 | 4.66 | - | 1,051 | 7,858 |

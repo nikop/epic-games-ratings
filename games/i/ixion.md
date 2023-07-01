@@ -32,9 +32,9 @@ Rating: 4.57 (Ranked 438)
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~83 |
 | What They Hide From Us | 3.00% | ~83 |
+| ...  in a finite world | 3.00% | ~83 |
 | BRAWL! | 3.00% | ~83 |
 | What the Ruins Teach Us | 3.00% | ~83 |
-| ...  in a finite world | 2.00% | ~55 |
 | Sustainable Energy | 2.00% | ~55 |
 | In Dolos We Trust | 2.00% | ~55 |
 | Delivery! | 2.00% | ~55 |
@@ -46,8 +46,8 @@ Rating: 4.57 (Ranked 438)
 | Catastrophe Avoided | 1.00% | ~28 |
 | Praise the Hull! | 1.00% | ~28 |
 | Space Greenhouse | 1.00% | ~28 |
+| Tiqqun Unchained | 1.00% | ~28 |
 | You Had One Job... | 0.90% | ~25 |
-| Tiqqun Unchained | 0.90% | ~25 |
 | Scientifically Accurate | 0.90% | ~25 |
 | Gregor Spinoza | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |

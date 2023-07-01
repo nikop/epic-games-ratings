@@ -21,41 +21,41 @@ Rating: 4.32 (Ranked 759)
 | Old School Jammin' | 1.00% | ~555 |
 | Wakey Wakey | 1.00% | ~555 |
 | Level Diver | 0.80% | ~444 |
-| Gimme My Presents Back! | 0.70% | ~388 |
-| Cleaning Out Santa's Sack | 0.70% | ~388 |
+| Gimme My Presents Back! | 0.70% | ~389 |
+| Cleaning Out Santa's Sack | 0.70% | ~389 |
 | Beaten By A Little Girl | 0.60% | ~333 |
 | Teamwork Rules | 0.60% | ~333 |
 | Totally Bummed Again | 0.60% | ~333 |
-| Piece O' Cake | 0.50% | ~277 |
+| Piece O' Cake | 0.50% | ~278 |
 | Boom Box Baby | 0.40% | ~222 |
 | I Can't Believe I've Done This | 0.40% | ~222 |
 | Flying Present Ultimate Master | 0.40% | ~222 |
 | Ridiculously Generous | 0.40% | ~222 |
 | Harsh Love | 0.40% | ~222 |
 | Made It Through | 0.40% | ~222 |
-| Map Explorer | 0.30% | ~166 |
-| Nine Funkotronians | 0.30% | ~166 |
-| I'm A Total Saint | 0.30% | ~166 |
-| Struck By Love | 0.30% | ~166 |
-| The Worst Possible Luck | 0.30% | ~166 |
+| Map Explorer | 0.30% | ~167 |
+| Nine Funkotronians | 0.30% | ~167 |
+| I'm A Total Saint | 0.30% | ~167 |
+| Struck By Love | 0.30% | ~167 |
+| The Worst Possible Luck | 0.30% | ~167 |
 | Broken Present Risk Taker | 0.20% | ~111 |
 | Truly Evil | 0.20% | ~111 |
-| Achievement Achiever | 0.10% | ~55 |
-| Boom Box Wipeout | 0.10% | ~55 |
-| Can't Touch This | 0.10% | ~55 |
-| Found All The Backers! | 0.10% | ~55 |
-| FunkLord Power | 0.10% | ~55 |
-| Gotta Get 'Em All | 0.10% | ~55 |
-| Is This Really Possible? | 0.10% | ~55 |
-| Lord Of The HFZ | 0.10% | ~55 |
-| Mad Hatter | 0.10% | ~55 |
-| 99 Problems (But A Buck Ain't One) | 0.10% | ~55 |
-| Pacifist Victory | 0.10% | ~55 |
-| Rhythm Star | 0.10% | ~55 |
-| Why Do I Keep Doing That? | 0.10% | ~55 |
-| Hey, You Did It! | 0.10% | ~55 |
+| Achievement Achiever | 0.10% | ~56 |
+| Boom Box Wipeout | 0.10% | ~56 |
+| Can't Touch This | 0.10% | ~56 |
+| Found All The Backers! | 0.10% | ~56 |
+| FunkLord Power | 0.10% | ~56 |
+| Gotta Get 'Em All | 0.10% | ~56 |
+| Is This Really Possible? | 0.10% | ~56 |
+| Lord Of The HFZ | 0.10% | ~56 |
+| Mad Hatter | 0.10% | ~56 |
+| 99 Problems (But A Buck Ain't One) | 0.10% | ~56 |
+| Pacifist Victory | 0.10% | ~56 |
+| Rhythm Star | 0.10% | ~56 |
+| Why Do I Keep Doing That? | 0.10% | ~56 |
+| Hey, You Did It! | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,499 (Ranked 81)  
+Progressed: 55,503 (Ranked 81)  
 Completed: 4 (0.01%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 4 (0.01%) (Ranked 219)
 | 2023-06-28 | 55,466 | 4 |
 | 2023-06-29 | 55,477 | 4 |
 | 2023-06-30 | 55,495 | 4 |
-| 2023-07-01 | 55,499 | 4 |
+| 2023-07-01 | 55,503 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

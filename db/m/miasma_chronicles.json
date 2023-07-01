@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2132,9 +2132,9 @@
       "ID": "ATTENBOROUGH",
       "SetID": "9a4jnji",
       "Name": "Attenborough",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BOOKWORM",
@@ -2525,8 +2525,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-01T03:58:14.0195394+00:00",
-  "LastChanged_Achievements": "2023-07-01T09:02:33.4505291+00:00",
+  "LastChanged_Achievements": "2023-07-01T10:03:19.1699431+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-01T08:58:30.3806824+00:00",
-  "LastUpdate_Achievements": "2023-07-01T09:02:33.4505756+00:00"
+  "LastUpdate_Ratings": "2023-07-01T09:59:04.4917873+00:00",
+  "LastUpdate_Achievements": "2023-07-01T10:03:19.1700323+00:00"
 }

@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.90% | ~6,393 |
 | Kung-Fu Tussle | 0.90% | ~6,393 |
 | Dance of the Praying Mantis | 0.80% | ~5,683 |
-| Muk Yan Master | 0.70% | ~4,972 |
+| Muk Yan Master | 0.70% | ~4,973 |
 | Deadly Venom | 0.70% | ~138 |
 | Tiger on Fire | 0.60% | ~4,262 |
 | Source of Flying Daggers | 0.60% | ~4,262 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,356 (Ranked 17)  
+Progressed: 710,359 (Ranked 17)  
 Completed: 12,800 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 12,800 (1.80%) (Ranked 80)
 | 2023-06-28 | 710,263 | 12,795 |
 | 2023-06-29 | 710,306 | 12,795 |
 | 2023-06-30 | 710,341 | 12,799 |
-| 2023-07-01 | 710,356 | 12,800 |
+| 2023-07-01 | 710,359 | 12,800 |
 ## Awards
 Max (Great Boss Battles): 6,219  (Ranked 52)  
 Sum: 10,648 (Ranked 78)  

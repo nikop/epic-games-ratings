@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 182)  
 ## Awards
-Max (Challenging Puzzles): 198  (Ranked 268)  
-Sum: 198 (Ranked 360)  
-Diff (max vs sum): -92  
+Max (Challenging Puzzles): 199  (Ranked 267)  
+Sum: 199 (Ranked 358)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 198 |
+| This game features Challenging Puzzles | 199 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -65,3 +65,4 @@ Diff (max vs sum): -92
 | 2023-06-19 | 4.72 | 193 | 193 |
 | 2023-06-21 | 4.71 | 196 | 196 |
 | 2023-06-29 | 4.71 | 198 | 198 |
+| 2023-07-01 | 4.71 | 199 | 199 |

@@ -20,18 +20,18 @@
 | One With The Blades | 57.00% | ~12 |
 | Heart of Oblivion | 57.00% | ~12 |
 | Anahita's Greatest Mistake | 57.00% | ~12 |
+| Heart's Desire | 57.00% | ~12 |
 | Shoo! Shoo! | 57.00% | ~12 |
 | The Milk Canal | 57.00% | ~12 |
 | Fledgling Smithy | 57.00% | ~12 |
-| Heart's Desire | 52.00% | ~11 |
+| Nature's Savior | 52.00% | ~11 |
+| Hammer It Home | 52.00% | ~11 |
 | At One With Nature | 52.00% | ~11 |
 | Prison Break | 48.00% | ~10 |
 | I Pick You | 48.00% | ~10 |
 | Accomplished Smithy | 48.00% | ~10 |
 | The Blight's Blight | 48.00% | ~10 |
-| Nature's Savior | 48.00% | ~10 |
-| Hammer It Home | 48.00% | ~10 |
-| The Ultimate Sacrifice | 43.00% | ~9 |
+| The Ultimate Sacrifice | 48.00% | ~10 |
 | For Whom the Bell Tolls | 43.00% | ~9 |
 | Here I Am | 43.00% | ~9 |
 | Break The Cycle | 38.00% | ~8 |

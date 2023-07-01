@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good Start | 95.00% | ~211 |
-| Practice Makes Perfect | 83.00% | ~184 |
+| Practice Makes Perfect | 84.00% | ~186 |
 | Creator of Life | 82.00% | ~182 |
 | Creator of Diversity | 69.00% | ~153 |
 | Similar to Similar | 68.00% | ~151 |

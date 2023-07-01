@@ -5,9 +5,9 @@
   "Ranking_Rating": 273,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 302,
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -904,10 +904,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 440,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-07-01T10:01:59.8639752+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 441,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 440,
+  "NumberOfAwards": 441,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -951,7 +957,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Educational",
@@ -978,8 +984,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-06-30T19:02:08.9498319+00:00",
+  "LastChanged": "2023-07-01T10:01:59.8639751+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:07.6141728+00:00",
-  "LastUpdate_Ratings": "2023-07-01T09:01:03.3280688+00:00",
-  "LastUpdate_Achievements": "2023-07-01T09:06:07.8711936+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:01:59.8639757+00:00",
+  "LastUpdate_Achievements": "2023-07-01T10:07:13.3080664+00:00"
 }

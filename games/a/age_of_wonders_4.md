@@ -27,11 +27,11 @@ Rating: 4.59 (Ranked 410)
 | Impenetrable Fortress | 0.70% | ~34 |
 | Preparation Is Everything | 0.60% | ~29 |
 | Duality | 0.60% | ~29 |
+| Valley of Wonders | 0.50% | ~24 |
 | Return of the Wizard King | 0.50% | ~24 |
 | Arch Mage | 0.50% | ~24 |
 | Digging for Treasure | 0.50% | ~24 |
 | In a Liege of Your Own | 0.50% | ~24 |
-| Valley of Wonders | 0.40% | ~20 |
 | The Magic That Empowers Me! | 0.40% | ~20 |
 | The Creator | 0.40% | ~20 |
 | Eternal Lord | 0.40% | ~20 |

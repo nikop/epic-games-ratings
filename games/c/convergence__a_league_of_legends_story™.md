@@ -7,10 +7,10 @@
 | Time Heals All Wounds | 16.00% | ~117 |
 | The Mysterious Stranger | 14.00% | ~103 |
 | Rail Rat | 14.00% | ~103 |
-| Cartographer | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~95 |
 | Treasure Trove | 13.00% | ~95 |
 | Make Up For Lost Time | 13.00% | ~95 |
+| Cartographer | 13.00% | ~95 |
 | Time Flies | 13.00% | ~95 |
 | The Wicked Twins | 13.00% | ~95 |
 | The Family Fortune | 13.00% | ~95 |
@@ -26,11 +26,11 @@
 | Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
-| Street Style | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
 | Golem Chaser | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |
 | Right On Time | 10.00% | ~73 |
+| Street Style | 10.00% | ~73 |
 | Whiz Kid | 10.00% | ~73 |
 | Chaincrawler Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
@@ -58,8 +58,8 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733 (Ranked 196)  
-Completed: 4 (0.55%) (Ranked 122)  
+Progressed: 734 (Ranked 196)  
+Completed: 4 (0.54%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,3 +101,4 @@ Completed: 4 (0.55%) (Ranked 122)
 | 2023-06-28 | 728 | 4 |
 | 2023-06-29 | 731 | 4 |
 | 2023-06-30 | 733 | 4 |
+| 2023-07-01 | 734 | 4 |

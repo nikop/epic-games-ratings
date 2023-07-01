@@ -11,9 +11,9 @@
 | Green Ticket Roundup | 18.00% | ~324 |
 | Arranging Boxes | 14.00% | ~252 |
 | Jakob | 13.00% | ~234 |
+| Jude | 13.00% | ~234 |
 | Le Juif et la France | 13.00% | ~234 |
 | Bernard | 12.00% | ~216 |
-| Jude | 12.00% | ~216 |
 | Nuremberg Laws | 11.00% | ~198 |
 | May Their Memories be a Blessing | 9.00% | ~162 |
 ## Popularity (Based on EOS Achievements)

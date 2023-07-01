@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 461977,
+  "EOS_Progressed": 461979,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7831,6 +7831,11 @@
       "Time": "2023-07-01T09:06:43.4044069+00:00",
       "NumProgressed": 461977,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-01T10:07:55.6155332+00:00",
+      "NumProgressed": 461979,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 79,
@@ -7872,9 +7877,9 @@
       "ID": "achievement_story_complete_chapter_2",
       "SetID": "8cokdon",
       "Name": "Chapter II: Fallible Flesh",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 924
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -8473,21 +8478,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 5911,
+      "Progressed": 5913,
       "Completed": 2351
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 461977,
+      "Progressed": 461979,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-06-24T19:00:55.9935874+00:00",
-  "LastChanged_Achievements": "2023-07-01T09:06:43.4044062+00:00",
+  "LastChanged_Achievements": "2023-07-01T10:07:55.6155327+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.110503+00:00",
-  "LastUpdate_Ratings": "2023-07-01T08:59:34.926717+00:00",
-  "LastUpdate_Achievements": "2023-07-01T09:06:43.40451+00:00"
+  "LastUpdate_Ratings": "2023-07-01T10:00:21.5875561+00:00",
+  "LastUpdate_Achievements": "2023-07-01T10:07:55.6157661+00:00"
 }
