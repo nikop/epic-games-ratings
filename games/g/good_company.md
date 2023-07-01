@@ -7,7 +7,7 @@ Number of Ratings: 75  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level: Returning Home | 50.00% | ~2,536 |
-| Returning Home: Quick Learner | 26.00% | ~1,318 |
+| Returning Home: Quick Learner | 26.00% | ~1,319 |
 | Level: Charlie's Circuits | 22.00% | ~1,116 |
 | Level: Rising Markets | 9.00% | ~456 |
 | Peddler | 8.00% | ~406 |
@@ -45,7 +45,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Topple The Top | 0.90% | ~46 |
 | Bet On Bots: Safety First | 0.80% | ~41 |
 | Tycoon | 0.80% | ~41 |
-| Merry-Go-Around: Self-Made | 0.70% | ~35 |
+| Merry-Go-Around: Self-Made | 0.70% | ~36 |
 | Level: Eye In The Sky | 0.60% | ~30 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~30 |
 | Trendsetter | 0.60% | ~30 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,071 (Ranked 133)  
-Completed: 1 (0.02%) (Ranked 211)  
+Progressed: 5,072 (Ranked 133)  
+Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 1 (0.02%) (Ranked 211)
 | 2023-06-28 | 5,057 | 1 |
 | 2023-06-29 | 5,063 | 1 |
 | 2023-06-30 | 5,070 | 1 |
-| 2023-07-01 | 5,071 | 1 |
+| 2023-07-01 | 5,072 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

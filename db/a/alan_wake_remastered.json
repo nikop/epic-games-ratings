@@ -6,9 +6,9 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56587,
+  "EOS_Progressed": 56589,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
@@ -6607,6 +6607,11 @@
       "Time": "2023-07-01T13:11:49.2462079+00:00",
       "NumProgressed": 56587,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-01T14:00:17.0403852+00:00",
+      "NumProgressed": 56589,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6626,7 +6631,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "03",
@@ -6634,7 +6639,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11317
+      "UsersEstimate": 11318
     },
     {
       "ID": "04",
@@ -6698,7 +6703,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "12",
@@ -6770,7 +6775,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "21",
@@ -6778,7 +6783,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     },
     {
       "ID": "22",
@@ -6842,7 +6847,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     },
     {
       "ID": "30",
@@ -6858,7 +6863,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7356
+      "UsersEstimate": 7357
     },
     {
       "ID": "32",
@@ -6874,7 +6879,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     },
     {
       "ID": "34",
@@ -6890,7 +6895,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15278
+      "UsersEstimate": 15279
     },
     {
       "ID": "36",
@@ -6978,7 +6983,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6790
+      "UsersEstimate": 6791
     },
     {
       "ID": "47",
@@ -6994,7 +6999,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "49",
@@ -7018,7 +7023,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "52",
@@ -7153,21 +7158,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56587,
+      "Progressed": 56589,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20055,
+      "Progressed": 20057,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:11:49.2461806+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:00:17.0403848+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:09:11.7830173+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:11:49.247261+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:57:37.307961+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:00:17.0405145+00:00"
 }

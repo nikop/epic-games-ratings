@@ -8,9 +8,9 @@ Rating: 4.76 (Ranked 119)
 | In a Pinch | 20.00% | ~1,329 |
 | Energy Saver | 16.00% | ~1,063 |
 | The Journey Onwards | 13.00% | ~864 |
+| Body and Soul | 11.00% | ~731 |
 | Globe Trotter | 11.00% | ~731 |
 | Ahem Ahem | 10.00% | ~664 |
-| Body and Soul | 10.00% | ~664 |
 | Audiophile | 7.00% | ~465 |
 | Clay Pigeon | 6.00% | ~399 |
 | Historian | 6.00% | ~399 |

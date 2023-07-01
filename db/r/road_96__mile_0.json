@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2023-06-30T19:05:10.5989542+00:00",
       "NumProgressed": 324,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-01T14:04:17.672796+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -918,7 +923,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "completeact3",
@@ -1029,7 +1034,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 2
     }
   ],
@@ -1037,8 +1042,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:15:53.0880093+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:04:17.6727955+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.0323513+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:10:10.6134662+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:15:53.0880262+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:58:33.2487153+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:04:17.6728133+00:00"
 }

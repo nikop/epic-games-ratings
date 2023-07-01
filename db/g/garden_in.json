@@ -3,9 +3,9 @@
   "Name": "Garden In",
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
     "PcReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:17:21.6940578+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:05:44.397295+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:46.1819202+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:10:55.5657587+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:17:21.6940828+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:59:17.746079+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:05:44.3973173+00:00"
 }

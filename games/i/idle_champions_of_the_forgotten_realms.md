@@ -6,52 +6,52 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,422 |
-| The Mad Wizard | 10.00% | ~20,301 |
-| The Ring of Regeneration | 6.00% | ~12,181 |
-| Are Ya Chicken? | 6.00% | ~12,181 |
-| Were-verpowered | 5.00% | ~10,151 |
-| Friendly Imps | 5.00% | ~10,151 |
-| Seeking Allies | 4.00% | ~8,121 |
-| Mad Cow Disease | 4.00% | ~8,121 |
-| Pure Energy | 4.00% | ~8,121 |
-| A Persistent Buzzing | 3.00% | ~6,090 |
-| Terror in the Dark | 3.00% | ~6,090 |
-| The Crumbling Temple | 3.00% | ~6,090 |
-| The Contagious Curse | 3.00% | ~6,090 |
-| Beast Mode | 2.00% | ~4,060 |
-| A Mysterious Summons | 2.00% | ~4,060 |
-| Unearthed Evil | 2.00% | ~4,060 |
-| Useless Allies | 2.00% | ~4,060 |
-| Exploring Port Nyanzaru | 2.00% | ~4,060 |
-| Running of the Saurs | 2.00% | ~4,060 |
-| Escort to Waterdeep | 2.00% | ~4,060 |
-| Waterdeep Detours | 2.00% | ~4,060 |
-| Low Initiative | 1.00% | ~2,030 |
-| Building Trust | 1.00% | ~2,030 |
-| March of the Undead | 1.00% | ~2,030 |
-| No Time To Rest | 1.00% | ~2,030 |
-| Invisible Shadows | 1.00% | ~2,030 |
-| The Dinner Party | 1.00% | ~2,030 |
-| The Death Curse | 1.00% | ~2,030 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,030 |
-| Underdeep Cartography | 1.00% | ~2,030 |
-| Overdue Rendezvous | 1.00% | ~2,030 |
-| The Templar's Camp | 1.00% | ~2,030 |
-| Rescue in the Jungle | 1.00% | ~2,030 |
-| The Botched Kidnapping | 0.90% | ~1,827 |
-| Premature Betrayal | 0.90% | ~1,827 |
-| Close Escort | 0.90% | ~1,827 |
-| Constant Banditry | 0.90% | ~1,827 |
-| Homecoming | 0.80% | ~1,624 |
-| Street War | 0.80% | ~1,624 |
-| Trollskull Manor | 0.80% | ~1,624 |
-| A Tale of Two Cities | 0.80% | ~1,624 |
-| Dinosaur Racing | 0.80% | ~1,624 |
-| The Lost Heir of Omu | 0.70% | ~1,421 |
-| Attack on the Manor | 0.70% | ~1,421 |
-| The Long Haul | 0.70% | ~1,421 |
-| Lost in the Deep | 0.70% | ~1,421 |
+| The Cursed Farmer | 14.00% | ~28,431 |
+| The Mad Wizard | 10.00% | ~20,308 |
+| The Ring of Regeneration | 6.00% | ~12,185 |
+| Are Ya Chicken? | 6.00% | ~12,185 |
+| Were-verpowered | 5.00% | ~10,154 |
+| Friendly Imps | 5.00% | ~10,154 |
+| Seeking Allies | 4.00% | ~8,123 |
+| Mad Cow Disease | 4.00% | ~8,123 |
+| Pure Energy | 4.00% | ~8,123 |
+| A Persistent Buzzing | 3.00% | ~6,092 |
+| Terror in the Dark | 3.00% | ~6,092 |
+| The Crumbling Temple | 3.00% | ~6,092 |
+| The Contagious Curse | 3.00% | ~6,092 |
+| Beast Mode | 2.00% | ~4,062 |
+| A Mysterious Summons | 2.00% | ~4,062 |
+| Unearthed Evil | 2.00% | ~4,062 |
+| Useless Allies | 2.00% | ~4,062 |
+| Exploring Port Nyanzaru | 2.00% | ~4,062 |
+| Running of the Saurs | 2.00% | ~4,062 |
+| Escort to Waterdeep | 2.00% | ~4,062 |
+| Waterdeep Detours | 2.00% | ~4,062 |
+| Low Initiative | 1.00% | ~2,031 |
+| Building Trust | 1.00% | ~2,031 |
+| March of the Undead | 1.00% | ~2,031 |
+| No Time To Rest | 1.00% | ~2,031 |
+| Invisible Shadows | 1.00% | ~2,031 |
+| The Dinner Party | 1.00% | ~2,031 |
+| The Death Curse | 1.00% | ~2,031 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,031 |
+| Underdeep Cartography | 1.00% | ~2,031 |
+| Overdue Rendezvous | 1.00% | ~2,031 |
+| The Templar's Camp | 1.00% | ~2,031 |
+| Rescue in the Jungle | 1.00% | ~2,031 |
+| The Botched Kidnapping | 0.90% | ~1,828 |
+| Premature Betrayal | 0.90% | ~1,828 |
+| Close Escort | 0.90% | ~1,828 |
+| Constant Banditry | 0.90% | ~1,828 |
+| Homecoming | 0.80% | ~1,625 |
+| Street War | 0.80% | ~1,625 |
+| Trollskull Manor | 0.80% | ~1,625 |
+| A Tale of Two Cities | 0.80% | ~1,625 |
+| Dinosaur Racing | 0.80% | ~1,625 |
+| The Lost Heir of Omu | 0.70% | ~1,422 |
+| Attack on the Manor | 0.70% | ~1,422 |
+| The Long Haul | 0.70% | ~1,422 |
+| Lost in the Deep | 0.70% | ~1,422 |
 | The Forbidden City | 0.60% | ~1,218 |
 | Captured! | 0.60% | ~1,218 |
 | Wisdom Check | 0.60% | ~1,218 |
@@ -74,7 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.50% | ~1,015 |
 | Difficult Terrain | 0.50% | ~1,015 |
 | Market Fluctuations | 0.50% | ~1,015 |
-| The Giant's Bane Tavern | 0.50% | ~846 |
+| The Giant's Bane Tavern | 0.50% | ~847 |
 | Rude Welcome | 0.50% | ~1,015 |
 | Durable Deep | 0.50% | ~1,015 |
 | Home Field Advantage | 0.40% | ~812 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,014 (Ranked 52)  
+Progressed: 203,076 (Ranked 52)  
 Completed: 2,023 (1.00%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 2,023 (1.00%) (Ranked 101)
 | 2023-06-28 | 195,713 | 2,020 |
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
-| 2023-07-01 | 203,014 | 2,023 |
+| 2023-07-01 | 203,076 | 2,023 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,336 (Ranked 37)  

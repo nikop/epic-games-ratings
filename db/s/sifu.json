@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4926,10 +4926,10 @@
       "Count": 359
     }
   ],
-  "EOS_Progressed": 710360,
+  "EOS_Progressed": 710364,
   "EOS_Completed": 12800,
-  "EOS_NewPlayers": 310,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 312,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -11781,6 +11781,11 @@
       "Time": "2023-07-01T12:06:16.9020353+00:00",
       "NumProgressed": 710360,
       "NumCompleted": 12800
+    },
+    {
+      "Time": "2023-07-01T14:05:54.6665439+00:00",
+      "NumProgressed": 710364,
+      "NumCompleted": 12800
     }
   ],
   "TotalAchievements": 50,
@@ -12128,7 +12133,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -12191,21 +12196,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19661,
-      "Completed": 10344
+      "Progressed": 19665,
+      "Completed": 10345
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710360,
+      "Progressed": 710364,
       "Completed": 12800
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-01T11:59:03.7830917+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:17:31.1656208+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:05:54.6665434+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:10:22.6644004+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:17:31.1657124+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:58:46.3842351+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:05:54.6666305+00:00"
 }

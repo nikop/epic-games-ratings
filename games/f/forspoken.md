@@ -33,16 +33,16 @@ Rating: 4.15 (Ranked 866)
 | None the Wiser | 1.00% | ~388 |
 | Shocker | 1.00% | ~388 |
 | Pilgrimage: Novice | 1.00% | ~388 |
-| Forspoken | 0.90% | ~349 |
+| Forspoken | 0.90% | ~350 |
 | Wildfire | 0.70% | ~272 |
 | Awakening | 0.60% | ~233 |
 | Realized Potential | 0.60% | ~233 |
 | Explorer: Trailblazer | 0.50% | ~194 |
 | Through the Eyes of Another: Seer | 0.40% | ~155 |
-| Archivist | 0.30% | ~116 |
-| Craftsperson | 0.30% | ~116 |
-| Tit for Tat | 0.30% | ~116 |
-| Promises | 0.30% | ~116 |
+| Archivist | 0.30% | ~117 |
+| Craftsperson | 0.30% | ~117 |
+| Tit for Tat | 0.30% | ~117 |
+| Promises | 0.30% | ~117 |
 | Paragon | 0.20% | ~78 |
 | Pilgrimage: Adept | 0.20% | ~78 |
 | Call of the Fount: Beatified | 0.20% | ~78 |
@@ -59,8 +59,8 @@ Rating: 4.15 (Ranked 866)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,833 (Ranked 88)  
-Completed: 3 (0.01%) (Ranked 219)  
+Progressed: 38,835 (Ranked 88)  
+Completed: 3 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 3 (0.01%) (Ranked 219)
 | 2023-06-28 | 38,794 | 3 |
 | 2023-06-29 | 38,807 | 3 |
 | 2023-06-30 | 38,823 | 3 |
-| 2023-07-01 | 38,833 | 3 |
+| 2023-07-01 | 38,835 | 3 |
 ## Awards
 Max (Character Customization): 20  (Ranked 498)  
 Sum: 20 (Ranked 498)  

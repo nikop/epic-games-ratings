@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 83.00% | ~10,332 |
+| Play a Single Player Game | 84.00% | ~10,456 |
 | Settler | 81.00% | ~10,083 |
 | Explorer | 79.00% | ~9,834 |
 | Friendly Family | 75.00% | ~9,336 |
@@ -293,7 +293,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Play-By-Cloud Game | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,448 (Ranked 111)  
-Completed: 5 (0.04%) (Ranked 202)  
+Completed: 5 (0.04%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
 | Waff! | 94.00% | ~966 |
 | Into the Barn | 87.00% | ~894 |
 | A Prophecy | 85.00% | ~874 |
-| Sword, Shield, Fight! | 75.00% | ~771 |
+| Sword, Shield, Fight! | 76.00% | ~781 |
 | A Grand Visit | 72.00% | ~740 |
 | Vibing | 62.00% | ~637 |
 | Fun Guy | 62.00% | ~637 |
@@ -26,9 +26,9 @@
 | Nightmare Fuel | 39.00% | ~401 |
 | Take Heart | 39.00% | ~401 |
 | The Guardian | 39.00% | ~401 |
+| Stronger! | 39.00% | ~401 |
 | Ancient Wisdom | 38.00% | ~391 |
 | All That Glistens | 38.00% | ~391 |
-| Stronger! | 38.00% | ~391 |
 | Frog Facts! | 37.00% | ~380 |
 | All Skilled Up! | 37.00% | ~380 |
 | Spellbound | 36.00% | ~370 |

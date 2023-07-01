@@ -812,9 +812,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15605,
+  "EOS_Progressed": 15606,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5057,6 +5057,11 @@
       "Time": "2023-07-01T11:05:44.5419719+00:00",
       "NumProgressed": 15605,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T14:04:45.5762579+00:00",
+      "NumProgressed": 15606,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5170,9 +5175,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 156
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5418,9 +5423,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -5443,13 +5448,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15605,
+      "Progressed": 15606,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3531,
+      "Progressed": 3532,
       "Completed": 29
     }
   ],
@@ -5457,8 +5462,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T06:58:21.699348+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:16:21.12798+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:04:45.5762575+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:09:22.6082967+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:16:21.1280478+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:57:46.9857039+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:04:45.5763226+00:00"
 }

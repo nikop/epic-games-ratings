@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~557 |
-| My little farm | 65.00% | ~452 |
+| Cabin boy | 80.00% | ~558 |
+| My little farm | 65.00% | ~453 |
 | Every beginning is difficult | 62.00% | ~432 |
 | 3, 2, 1, mine | 56.00% | ~390 |
 | Gofer | 55.00% | ~383 |
 | Seafarer | 54.00% | ~376 |
-| O Captain! My Captain! | 53.00% | ~369 |
-| Greed for gold | 43.00% | ~299 |
-| Intangible | 41.00% | ~285 |
-| I'm out of here for a while | 41.00% | ~285 |
-| In a mint condition | 38.00% | ~264 |
+| O Captain! My Captain! | 54.00% | ~376 |
+| Greed for gold | 43.00% | ~300 |
+| Intangible | 41.00% | ~286 |
+| I'm out of here for a while | 41.00% | ~286 |
+| In a mint condition | 38.00% | ~265 |
 | Licence to Kill | 36.00% | ~251 |
 | Pirates! | 35.00% | ~244 |
 | Collectionitis | 28.00% | ~195 |
 | Megalomania | 28.00% | ~195 |
 | Christening | 27.00% | ~188 |
-| Groundskeeper | 25.00% | ~174 |
+| Groundskeeper | 26.00% | ~181 |
 | Wholesale | 22.00% | ~153 |
 | Walk the plank | 21.00% | ~146 |
-| Pearly gates | 17.00% | ~118 |
+| Pearly gates | 18.00% | ~125 |
 | My precious! | 17.00% | ~118 |
-| Conquistador | 14.00% | ~97 |
+| Conquistador | 14.00% | ~98 |
 | Panic buying | 11.00% | ~77 |
 | Your vessel, my vessel | 9.00% | ~63 |
 | Just a scratch | 8.00% | ~56 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 198)  
-Completed: 1 (0.14%) (Ranked 173)  
+Progressed: 697 (Ranked 198)  
+Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 1 (0.14%) (Ranked 173)
 | 2023-06-27 | 691 | 1 |
 | 2023-06-28 | 694 | 1 |
 | 2023-06-29 | 695 | 1 |
-| 2023-07-01 | 696 | 1 |
+| 2023-07-01 | 697 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

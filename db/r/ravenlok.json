@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2721,9 +2721,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 771
+      "UsersEstimate": 781
     },
     {
       "ID": "29",
@@ -2801,9 +2801,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 401
     },
     {
       "ID": "38",
@@ -2970,8 +2970,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:17:19.8966827+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:05:42.7934735+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.6163993+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:08:56.575952+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:17:19.8967456+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:57:23.8974974+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:05:42.7935318+00:00"
 }

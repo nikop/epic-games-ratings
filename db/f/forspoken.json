@@ -6,9 +6,9 @@
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -286,9 +286,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 38833,
+  "EOS_Progressed": 38835,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4726,6 +4726,11 @@
       "Time": "2023-07-01T13:17:30.9870798+00:00",
       "NumProgressed": 38833,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-01T14:05:54.5310129+00:00",
+      "NumProgressed": 38835,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -4745,7 +4750,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CAMP",
@@ -4865,7 +4870,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -4881,7 +4886,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CRAFT_FIRST",
@@ -4921,7 +4926,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEAPFROG",
@@ -5137,7 +5142,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -5160,22 +5165,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38833,
+      "Progressed": 38835,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3670,
-      "Completed": 3670
+      "Progressed": 3672,
+      "Completed": 3672
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-06-24T18:59:42.7462779+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:17:30.9870794+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:05:54.5310125+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.3871444+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:09:54.7474533+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:17:30.9871555+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:58:16.600977+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:05:54.5310849+00:00"
 }

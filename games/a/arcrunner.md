@@ -14,10 +14,10 @@
 | Challenge Mastered | 8.00% | ~55 |
 | Terminated III | 7.00% | ~48 |
 | Nanonic II | 6.00% | ~41 |
+| Supply Run | 5.00% | ~34 |
 | Cybernetic | 4.00% | ~27 |
 | Starship Docks | 4.00% | ~27 |
 | Nanonic III | 4.00% | ~27 |
-| Supply Run | 4.00% | ~27 |
 | The Bigger They Are | 3.00% | ~21 |
 | Rookie | 3.00% | ~21 |
 | Up Close And Personal | 3.00% | ~21 |
@@ -25,8 +25,8 @@
 | Fully Modded | 2.00% | ~14 |
 | Outer Core | 1.00% | ~7 |
 | Inner Core | 0.70% | ~5 |
+| Trickshot | 0.70% | ~5 |
 | Integration | 0.60% | ~4 |
-| Trickshot | 0.60% | ~4 |
 | Destruction | 0.40% | ~3 |
 | Ripperdoc | 0.30% | ~2 |
 | Cyborg | 0.10% | ~1 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 686 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

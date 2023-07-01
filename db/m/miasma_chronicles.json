@@ -6,9 +6,9 @@
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2324,9 +2324,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 515
     },
     {
       "ID": "GOAL",
@@ -2525,8 +2525,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-01T03:58:14.0195394+00:00",
-  "LastChanged_Achievements": "2023-07-01T13:11:50.6506349+00:00",
+  "LastChanged_Achievements": "2023-07-01T14:00:18.331721+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-01T13:09:45.1285838+00:00",
-  "LastUpdate_Achievements": "2023-07-01T13:11:50.6506967+00:00"
+  "LastUpdate_Ratings": "2023-07-01T13:58:05.9655185+00:00",
+  "LastUpdate_Achievements": "2023-07-01T14:00:18.3317706+00:00"
 }

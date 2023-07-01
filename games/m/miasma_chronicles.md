@@ -16,8 +16,8 @@ Rating: 4.37 (Ranked 718)
 | From Darkness to Light | 46.00% | ~551 |
 | Editor Adept | 45.00% | ~539 |
 | Exorcist | 45.00% | ~539 |
+| Giant Killer | 43.00% | ~515 |
 | Firestarter | 42.00% | ~503 |
-| Giant Killer | 42.00% | ~503 |
 | Sensei | 41.00% | ~491 |
 | The meaning of Kain | 39.00% | ~467 |
 | Technophobe | 37.00% | ~443 |
@@ -58,7 +58,7 @@ Rating: 4.37 (Ranked 718)
 | Bookworm | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,198 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

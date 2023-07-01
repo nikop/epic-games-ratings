@@ -8,6 +8,7 @@ Rating: 4.45 (Ranked 617)
 | Resourceful | 0.50% | ~16 |
 | The Kraken Wakes | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
+| Taking it back | 0.40% | ~13 |
 | Target America | 0.40% | ~13 |
 | Climbing the Ladder | 0.30% | ~10 |
 | Liberté | 0.30% | ~10 |
@@ -23,7 +24,6 @@ Rating: 4.45 (Ranked 617)
 | Der Geist | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
 | It's Starting to Crack | 0.30% | ~10 |
-| Taking it back | 0.30% | ~10 |
 | The Kraken Sleeps | 0.30% | ~10 |
 | Enemy at the Gates | 0.20% | ~6 |
 | Just a Flesh Wound | 0.20% | ~6 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 617)
 | Operation Overlord | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,182 (Ranked 145)  
-Completed: 6 (0.19%) (Ranked 161)  
+Progressed: 3,183 (Ranked 145)  
+Completed: 6 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
-| 2023-07-01 | 3,182 | 6 |
+| 2023-07-01 | 3,183 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,12 +20,12 @@
 | Sergeant of the Evil | 73.00% | ~118 |
 | V.I.P. Cemetery | 71.00% | ~115 |
 | Woodcutter | 70.00% | ~113 |
+| Top of the World | 69.00% | ~112 |
 | Takeover | 69.00% | ~112 |
 | Sharpshooter | 69.00% | ~112 |
 | Architect of Darkness | 69.00% | ~112 |
-| Top of the World | 68.00% | ~110 |
 | The Apotheosis of War | 67.00% | ~109 |
-| Stasis Alcatraz | 65.00% | ~105 |
+| Stasis Alcatraz | 66.00% | ~107 |
 | Tastes Like Chicken | 62.00% | ~100 |
 | Combo Breaker | 61.00% | ~99 |
 | Thunderstorm | 61.00% | ~99 |

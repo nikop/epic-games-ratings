@@ -17,7 +17,7 @@ Rating: 4.15 (Ranked 866)
 | By a Mile | 10.00% | ~688 |
 | Right-hand Man | 10.00% | ~688 |
 | Not So Fast | 9.00% | ~619 |
-| A Gift from the King | 6.00% | ~413 |
+| A Gift from the King | 7.00% | ~481 |
 | Full Artillery | 4.00% | ~275 |
 | Mob Boss | 2.00% | ~138 |
 | Splish Splash | 2.00% | ~138 |
