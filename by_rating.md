@@ -246,7 +246,7 @@
 | 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,854 | 78 |
 | 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 502 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,601 | 3 |
-| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 192,285 | 4 |
+| 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 192,717 | 4 |
 | 239 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.68 | 0 | 502 |
 | 239 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 204 |
 | 239 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
@@ -505,7 +505,7 @@
 | 489 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 502 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 502 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 502 |
-| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,445 | 18 |
+| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,469 | 18 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 436 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 502 |
 | 504 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.53 | 0 | 502 |
@@ -792,34 +792,34 @@
 | 787 | [Steelrising](games/s/steelrising.md) | 4.28 | 36 | 431 |
 | 787 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 283 |
 | 792 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 502 |
+| 792 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 502 |
 | 792 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 502 |
 | 792 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,484 | 95 |
 | 792 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 233 |
-| 796 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 502 |
-| 796 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 502 |
-| 796 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 463 |
-| 796 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 502 |
-| 796 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 502 |
-| 801 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,025 | 25 |
-| 801 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,034 | 140 |
-| 801 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 502 |
-| 801 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 502 |
-| 801 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 502 |
-| 801 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 502 |
-| 801 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 502 |
-| 801 | [Wreckfest](games/w/wreckfest.md) | 4.25 | 0 | 502 |
-| 809 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 502 |
-| 809 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 451 |
-| 809 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 484 |
-| 809 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.24 | 0 | 502 |
-| 809 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 502 |
-| 809 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 502 |
-| 809 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 475 | 194 |
-| 809 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 502 |
-| 809 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 408 |
-| 809 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 502 |
-| 809 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 502 |
-| 809 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 480 |
+| 797 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 502 |
+| 797 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 502 |
+| 797 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 463 |
+| 797 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 502 |
+| 797 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 502 |
+| 802 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,025 | 25 |
+| 802 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,034 | 140 |
+| 802 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 502 |
+| 802 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 502 |
+| 802 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 502 |
+| 802 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 502 |
+| 802 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 502 |
+| 802 | [Wreckfest](games/w/wreckfest.md) | 4.25 | 0 | 502 |
+| 810 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 502 |
+| 810 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 451 |
+| 810 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 484 |
+| 810 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 502 |
+| 810 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 502 |
+| 810 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 475 | 194 |
+| 810 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 502 |
+| 810 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 45 | 408 |
+| 810 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 502 |
+| 810 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 502 |
+| 810 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 480 |
 | 821 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 502 |
 | 821 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 143 |
 | 821 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 502 |
@@ -898,7 +898,7 @@
 | 895 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 525 | 187 |
 | 895 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 278 |
 | 898 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 502 |
-| 899 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 4,985 | 64 |
+| 899 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 4,992 | 64 |
 | 899 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 451 | 198 |
 | 899 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 502 |
 | 902 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 502 |

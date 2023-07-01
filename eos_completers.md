@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.44% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.66% |
@@ -95,7 +95,7 @@
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 95 | [Chorus](games/c/chorus.md) | 1.19% |
-| 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.16% |
+| 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.12% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
