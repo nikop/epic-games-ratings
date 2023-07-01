@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.06% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 21.74% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.62% |
@@ -23,7 +23,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -38,7 +38,7 @@
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.14% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.77% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.76% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
@@ -81,7 +81,7 @@
 | 79 | [Iron Danger](games/i/iron_danger.md) | 1.83% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
-| 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.65% |
+| 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 83 | [Somerville](games/s/somerville.md) | 1.57% |
 | 84 | [Poosh XL](games/p/poosh_xl.md) | 1.52% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
@@ -100,12 +100,12 @@
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
-| 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 102 | [Sable](games/s/sable.md) | 0.96% |
 | 103 | [Adios](games/a/adios.md) | 0.92% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
