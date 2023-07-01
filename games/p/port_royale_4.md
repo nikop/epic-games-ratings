@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~558 |
+| Cabin boy | 80.00% | ~559 |
 | My little farm | 65.00% | ~454 |
 | Every beginning is difficult | 62.00% | ~433 |
 | 3, 2, 1, mine | 56.00% | ~391 |
 | Gofer | 55.00% | ~384 |
 | Seafarer | 54.00% | ~377 |
 | O Captain! My Captain! | 54.00% | ~377 |
-| Greed for gold | 43.00% | ~300 |
-| Intangible | 41.00% | ~286 |
-| I'm out of here for a while | 41.00% | ~286 |
-| In a mint condition | 38.00% | ~265 |
-| Licence to Kill | 36.00% | ~251 |
-| Pirates! | 35.00% | ~244 |
-| Collectionitis | 28.00% | ~195 |
-| Megalomania | 28.00% | ~195 |
-| Christening | 27.00% | ~188 |
-| Groundskeeper | 26.00% | ~181 |
+| Greed for gold | 43.00% | ~301 |
+| Intangible | 41.00% | ~287 |
+| I'm out of here for a while | 41.00% | ~287 |
+| In a mint condition | 38.00% | ~266 |
+| Licence to Kill | 36.00% | ~252 |
+| Pirates! | 35.00% | ~245 |
+| Collectionitis | 28.00% | ~196 |
+| Megalomania | 28.00% | ~196 |
+| Christening | 27.00% | ~189 |
+| Groundskeeper | 26.00% | ~182 |
 | Wholesale | 22.00% | ~154 |
 | Walk the plank | 21.00% | ~147 |
 | Pearly gates | 17.00% | ~119 |
 | My precious! | 17.00% | ~119 |
 | Conquistador | 14.00% | ~98 |
 | Panic buying | 11.00% | ~77 |
+| Just a scratch | 9.00% | ~63 |
 | Your vessel, my vessel | 9.00% | ~63 |
-| Just a scratch | 8.00% | ~56 |
 | All mine! | 8.00% | ~56 |
 | Paths of Glory | 8.00% | ~56 |
 | Panel of experts | 8.00% | ~56 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 198)  
+Progressed: 699 (Ranked 198)  
 Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-06-27 | 691 | 1 |
 | 2023-06-28 | 694 | 1 |
 | 2023-06-29 | 695 | 1 |
-| 2023-07-01 | 698 | 1 |
+| 2023-07-01 | 699 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

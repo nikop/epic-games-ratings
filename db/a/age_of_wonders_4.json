@@ -3,11 +3,11 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 410,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -256,9 +256,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4895,
+  "EOS_Progressed": 4897,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4791,6 +4791,11 @@
       "Time": "2023-07-01T20:05:42.9745331+00:00",
       "NumProgressed": 4895,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-01T22:07:25.2633124+00:00",
+      "NumProgressed": 4897,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4904,9 +4909,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "22",
@@ -5008,9 +5013,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "34",
@@ -5072,9 +5077,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "41",
@@ -5201,13 +5206,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4895,
+      "Progressed": 4897,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4895,
+      "Progressed": 4897,
       "Completed": 4
     }
   ],
@@ -5215,8 +5220,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:05:27.0678167+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:07:25.2633118+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:59:43.7473576+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:05:27.0679509+00:00"
+  "LastUpdate_Ratings": "2023-07-01T22:00:27.5874565+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:07:25.2634402+00:00"
 }

@@ -14,17 +14,17 @@ Rating: 4.59 (Ranked 410)
 | Stronger Together | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
 | My Final Form | 1.00% | ~49 |
+| Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Blood of the Dragon | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
 | There Can Only Be One! | 0.90% | ~44 |
 | Bone Peddler | 0.90% | ~44 |
+| Seat of Power | 0.90% | ~44 |
 | Fiery Friend | 0.90% | ~44 |
 | Impenetrable Fortress | 0.90% | ~44 |
-| Intimidation Tactics | 0.90% | ~44 |
 | Full Ascension | 0.80% | ~39 |
 | Preparation Is Everything | 0.80% | ~39 |
-| Seat of Power | 0.80% | ~39 |
 | Against the Odds | 0.80% | ~39 |
 | Digging for Treasure | 0.70% | ~34 |
 | In a Liege of Your Own | 0.70% | ~34 |
@@ -32,10 +32,10 @@ Rating: 4.59 (Ranked 410)
 | Valley of Wonders | 0.60% | ~29 |
 | Return of the Wizard King | 0.60% | ~29 |
 | Arch Mage | 0.60% | ~29 |
+| Eternal Lord | 0.60% | ~29 |
 | The Magic That Empowers Me! | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
 | Enchanted Archipelago | 0.50% | ~24 |
-| Eternal Lord | 0.50% | ~24 |
 | God Emperor | 0.40% | ~20 |
 | Lord of Chaos | 0.40% | ~20 |
 | The Goddess of Nature | 0.40% | ~20 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 410)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,895 (Ranked 134)  
+Progressed: 4,897 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-28 | 4,867 | 4 |
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
-| 2023-07-01 | 4,895 | 4 |
+| 2023-07-01 | 4,897 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

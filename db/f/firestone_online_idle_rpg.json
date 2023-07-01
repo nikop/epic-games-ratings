@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,11 +152,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:50.6381931+00:00",
@@ -3712,6 +3712,11 @@
       "Time": "2023-07-01T18:07:32.2003506+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-01T22:08:38.8159589+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3787,7 +3792,7 @@
       "Name": "Challenger",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "conqueror",
@@ -3819,7 +3824,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "dragonclicker",
@@ -3899,7 +3904,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "fellowshippower",
@@ -3923,7 +3928,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "fullparty",
@@ -3955,7 +3960,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "herewegoagain",
@@ -3987,7 +3992,7 @@
       "Name": "Hunter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "inspection",
@@ -4043,7 +4048,7 @@
       "Name": "Mastery",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "milestonecollector",
@@ -4075,7 +4080,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "mysteriousrock",
@@ -4131,7 +4136,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "sailor",
@@ -4155,7 +4160,7 @@
       "Name": "Scroll Master",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "silverwoodliberator",
@@ -4219,7 +4224,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "theunstoppable",
@@ -4283,7 +4288,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "warmachinesarmy",
@@ -4315,14 +4320,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 1
     }
   ],
@@ -4330,8 +4335,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:06:18.2078834+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:08:38.8159581+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:58:24.1095482+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:06:18.208067+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:58:32.5046273+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:08:38.8161327+00:00"
 }

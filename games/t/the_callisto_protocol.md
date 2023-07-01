@@ -12,10 +12,10 @@ Rating: 4.20 (Ranked 834)
 | Flesh Wound | 0.70% | ~109 |
 | Two Heads Are Better Than One | 0.70% | ~109 |
 | Chew 'Em Up | 0.70% | ~109 |
+| Reforged | 0.70% | ~109 |
 | I Do Belong Here | 0.60% | ~94 |
 | Workplace Hazard | 0.60% | ~94 |
 | Float Like A Butterfly | 0.60% | ~94 |
-| Reforged | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
 | Without A Paddle | 0.60% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~94 |
@@ -24,11 +24,11 @@ Rating: 4.20 (Ranked 834)
 | It's Time | 0.60% | ~21 |
 | Giving Back | 0.50% | ~78 |
 | Terminated | 0.50% | ~78 |
+| The Commonality | 0.50% | ~78 |
 | The Outer Way | 0.50% | ~78 |
 | What Lies Beneath | 0.50% | ~78 |
 | Desperate Times | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
-| The Commonality | 0.40% | ~62 |
 | In Striking Distance | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 834)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,610 (Ranked 106)  
+Progressed: 15,611 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-06-28 | 15,585 | 57 |
 | 2023-06-29 | 15,589 | 59 |
 | 2023-06-30 | 15,597 | 62 |
-| 2023-07-01 | 15,610 | 62 |
+| 2023-07-01 | 15,611 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
 Sum: 354 (Ranked 321)  

@@ -5,42 +5,42 @@ Rating: 4.26 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,295 |
-| Copacetic Coordination | 16.00% | ~52,276 |
-| Fronting the Money | 14.00% | ~45,742 |
-| The Dawn of Automation | 14.00% | ~45,742 |
-| Extraordinary Logistics | 14.00% | ~45,742 |
-| Dirty Money | 13.00% | ~42,475 |
-| Family First | 13.00% | ~42,475 |
-| Cleaning House | 12.00% | ~39,207 |
-| Room in the Back | 12.00% | ~39,207 |
-| Booze Baron | 11.00% | ~35,940 |
-| Beating the Heat | 10.00% | ~32,673 |
-| Friends on the Force | 10.00% | ~32,673 |
-| Neighborhood Watch | 10.00% | ~32,673 |
-| Core Corps | 8.00% | ~26,138 |
-| Sizeable Stash | 7.00% | ~22,871 |
-| Street Fighter | 7.00% | ~22,871 |
-| Friendly Gestures | 7.00% | ~22,871 |
-| People Person | 7.00% | ~22,871 |
+| Corner Clout | 46.00% | ~150,300 |
+| Copacetic Coordination | 16.00% | ~52,278 |
+| Fronting the Money | 14.00% | ~45,743 |
+| The Dawn of Automation | 14.00% | ~45,743 |
+| Extraordinary Logistics | 14.00% | ~45,743 |
+| Dirty Money | 13.00% | ~42,476 |
+| Family First | 13.00% | ~42,476 |
+| Cleaning House | 12.00% | ~39,209 |
+| Room in the Back | 12.00% | ~39,209 |
+| Booze Baron | 11.00% | ~35,941 |
+| Beating the Heat | 10.00% | ~32,674 |
+| Friends on the Force | 10.00% | ~32,674 |
+| Neighborhood Watch | 10.00% | ~32,674 |
+| Core Corps | 8.00% | ~26,139 |
+| Sizeable Stash | 7.00% | ~22,872 |
+| Street Fighter | 7.00% | ~22,872 |
+| Friendly Gestures | 7.00% | ~22,872 |
+| People Person | 7.00% | ~22,872 |
 | Liquor Lord | 6.00% | ~19,604 |
 | Safety in Numbers | 6.00% | ~19,604 |
 | Show ‘em the Sugar | 6.00% | ~19,604 |
 | Killing Them Softly | 6.00% | ~19,604 |
-| Street Knowledge | 5.00% | ~16,336 |
-| Oh Captain | 5.00% | ~16,336 |
-| Branching Out | 5.00% | ~16,336 |
-| Improvement Missions | 5.00% | ~16,336 |
-| Opportunity Knocked | 5.00% | ~16,336 |
-| City of Big Shoulders | 5.00% | ~16,336 |
-| Moving Experiences | 5.00% | ~16,336 |
-| Mission Mastery | 5.00% | ~16,336 |
-| Wise Head | 5.00% | ~16,336 |
-| Considerable Clams | 4.00% | ~13,069 |
-| Gin Joint | 4.00% | ~13,069 |
-| An Affront to the Enemy | 4.00% | ~13,069 |
-| Friends from Back Home | 4.00% | ~13,069 |
-| Half Century Mark | 4.00% | ~13,069 |
+| Street Knowledge | 5.00% | ~16,337 |
+| Oh Captain | 5.00% | ~16,337 |
+| Branching Out | 5.00% | ~16,337 |
+| Improvement Missions | 5.00% | ~16,337 |
+| Opportunity Knocked | 5.00% | ~16,337 |
+| City of Big Shoulders | 5.00% | ~16,337 |
+| Moving Experiences | 5.00% | ~16,337 |
+| Mission Mastery | 5.00% | ~16,337 |
+| Wise Head | 5.00% | ~16,337 |
+| Considerable Clams | 4.00% | ~13,070 |
+| Gin Joint | 4.00% | ~13,070 |
+| An Affront to the Enemy | 4.00% | ~13,070 |
+| Friends from Back Home | 4.00% | ~13,070 |
+| Half Century Mark | 4.00% | ~13,070 |
 | Corner Opportunities | 3.00% | ~9,802 |
 | 2122 North Clark Street | 3.00% | ~9,802 |
 | Copious Cabbage | 3.00% | ~9,802 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 797)
 | High Pillow | 0.10% | ~327 |
 | Station Master | 0.10% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326,728 (Ranked 40)  
+Progressed: 326,739 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,17 +158,18 @@ Completed: 5 (0.00%) (Ranked 232)
 | 2023-06-28 | 326,033 | 5 |
 | 2023-06-29 | 326,271 | 5 |
 | 2023-06-30 | 326,501 | 5 |
-| 2023-07-01 | 326,728 | 5 |
+| 2023-07-01 | 326,739 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
-Sum: 95 (Ranked 409)  
-Diff (max vs sum): 54  
+Sum: 115 (Ranked 400)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 27 |
 | This game is Relaxing | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 20 |
+| This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -224,3 +225,4 @@ Diff (max vs sum): 54
 | 2023-06-24 | 4.26 | 27 | 95 |
 | 2023-06-29 | 4.25 | 27 | 95 |
 | 2023-06-30 | 4.26 | 27 | 95 |
+| 2023-07-01 | 4.26 | 27 | 115 |

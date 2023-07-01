@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 477,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 79,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56628,
+  "EOS_Progressed": 56631,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6647,6 +6647,11 @@
       "Time": "2023-07-01T21:00:53.3278402+00:00",
       "NumProgressed": 56628,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-01T22:02:11.2855232+00:00",
+      "NumProgressed": 56631,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6658,7 +6663,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18687
+      "UsersEstimate": 18688
     },
     {
       "ID": "02",
@@ -6754,7 +6759,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "14",
@@ -6794,7 +6799,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "19",
@@ -6818,7 +6823,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "22",
@@ -6882,7 +6887,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "30",
@@ -6906,7 +6911,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14723
+      "UsersEstimate": 14724
     },
     {
       "ID": "33",
@@ -6914,7 +6919,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "34",
@@ -7018,7 +7023,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6795
+      "UsersEstimate": 6796
     },
     {
       "ID": "47",
@@ -7193,21 +7198,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56628,
+      "Progressed": 56631,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20096,
+      "Progressed": 20099,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:00:53.3278393+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:02:11.2855226+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:58:06.3373298+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:00:53.3288442+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:58:08.8249751+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:02:11.2857119+00:00"
 }

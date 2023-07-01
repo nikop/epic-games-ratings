@@ -13,13 +13,13 @@ Number of Ratings: 209  (23.09.2022)
 | High Jump | 96.00% | ~2,052 |
 | Knee bending | 96.00% | ~2,052 |
 | Pickaxe | 94.00% | ~2,010 |
+| Cage Town | 94.00% | ~2,010 |
 | Force Beam | 93.00% | ~1,988 |
 | Entered Cage Town | 93.00% | ~1,988 |
 | Stone Pickaxe | 93.00% | ~1,988 |
 | Revenge | 93.00% | ~1,988 |
-| Cage Town | 93.00% | ~1,988 |
 | Surprise | 93.00% | ~1,988 |
-| Magnet | 90.00% | ~1,924 |
+| Magnet | 91.00% | ~1,946 |
 | Industrial Area | 89.00% | ~1,903 |
 | Magnet Repel | 88.00% | ~1,881 |
 | Boomeraxe | 87.00% | ~1,860 |
@@ -132,8 +132,8 @@ Completed: 257 (12.02%) (Ranked 19)
 | 2023-07-01 | 2,138 | 257 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 331)  
-Sum: 98 (Ranked 408)  
-Diff (max vs sum): -77  
+Sum: 98 (Ranked 409)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 98 |

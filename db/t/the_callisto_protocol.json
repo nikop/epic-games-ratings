@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -824,9 +824,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15610,
+  "EOS_Progressed": 15611,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5089,6 +5089,11 @@
       "Time": "2023-07-01T21:05:12.9029801+00:00",
       "NumProgressed": 15610,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-01T22:07:03.7683838+00:00",
+      "NumProgressed": 15611,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 47,
@@ -5250,9 +5255,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -5266,9 +5271,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "PRINT_WEAPON",
@@ -5475,13 +5480,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15610,
+      "Progressed": 15611,
       "Completed": 62
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3536,
+      "Progressed": 3537,
       "Completed": 29
     }
   ],
@@ -5489,8 +5494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T17:58:22.7369369+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:05:12.9029795+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:07:03.7683832+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:58:16.928764+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:05:12.9030973+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:58:23.1021772+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:07:03.7684985+00:00"
 }

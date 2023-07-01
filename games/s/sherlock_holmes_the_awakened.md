@@ -7,11 +7,11 @@ Rating: 4.64 (Ranked 310)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 64.00% | ~323 |
 | Read Between The Lines | 63.00% | ~318 |
-| High Profile | 57.00% | ~287 |
-| Whispers In The Dark | 56.00% | ~282 |
-| Fond Memories | 53.00% | ~267 |
-| History Check | 52.00% | ~262 |
-| A Method To His Madness | 52.00% | ~262 |
+| High Profile | 57.00% | ~288 |
+| Whispers In The Dark | 56.00% | ~283 |
+| Fond Memories | 53.00% | ~268 |
+| A Method To His Madness | 52.00% | ~263 |
+| History Check | 51.00% | ~258 |
 | Gaze Into The Abyss | 47.00% | ~237 |
 | The New World | 47.00% | ~237 |
 | Open Sesame | 47.00% | ~237 |
@@ -26,16 +26,16 @@ Rating: 4.64 (Ranked 310)
 | Fhtagn! | 41.00% | ~207 |
 | Bookworm | 40.00% | ~202 |
 | Going Once... | 38.00% | ~192 |
-| Let Me Be Frank | 37.00% | ~186 |
-| Brain Food | 35.00% | ~176 |
-| No Stone Unturned | 34.00% | ~171 |
+| Let Me Be Frank | 37.00% | ~187 |
+| Brain Food | 35.00% | ~177 |
+| No Stone Unturned | 34.00% | ~172 |
 | Curiosity Killed The Cat | 21.00% | ~106 |
 | Read It And Weep | 21.00% | ~106 |
 | Big Breakthrough | 14.00% | ~71 |
 | Reawakened | 6.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 210)  
-Completed: 24 (4.76%) (Ranked 39)  
+Progressed: 505 (Ranked 210)  
+Completed: 24 (4.75%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,7 +103,7 @@ Completed: 24 (4.76%) (Ranked 39)
 | 2023-06-28 | 499 | 24 |
 | 2023-06-29 | 502 | 24 |
 | 2023-06-30 | 503 | 24 |
-| 2023-07-01 | 504 | 24 |
+| 2023-07-01 | 505 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

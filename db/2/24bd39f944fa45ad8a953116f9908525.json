@@ -78,17 +78,17 @@
       "ID": "ach_01_defeatPing",
       "SetID": "16n29hg",
       "Name": "He ran away!",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_02_journeyStart",
       "SetID": "16n29hg",
       "Name": "The journey begins",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_03_anyTrain",
@@ -118,9 +118,9 @@
       "ID": "ach_06_spikeDeath",
       "SetID": "16n29hg",
       "Name": "Just like the Local",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_07_foundHidden",
@@ -166,9 +166,9 @@
       "ID": "ach_12_worldMap",
       "SetID": "16n29hg",
       "Name": "Welcome to Sanho",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_13_supplyBig10",
@@ -198,9 +198,9 @@
       "ID": "ach_16_defeatPing3",
       "SetID": "16n29hg",
       "Name": "Who\u0027s your daddy?",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_17_station2h",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:00:47.5324559+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:02:03.0291625+00:00",
   "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:57:26.253359+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:00:47.5325486+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:57:12.3952033+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:02:03.029257+00:00"
 }

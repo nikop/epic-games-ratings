@@ -3,12 +3,12 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 850,
-  "Ranking_Popularity": 100,
+  "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1844,9 +1844,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66232,
+  "EOS_Progressed": 66239,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8304,6 +8304,11 @@
       "Time": "2023-07-01T21:06:19.645388+00:00",
       "NumProgressed": 66232,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T22:08:40.6776202+00:00",
+      "NumProgressed": 66239,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8619,7 +8624,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "HARLEY_2",
@@ -8707,7 +8712,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "MYSTERY_02",
@@ -8802,13 +8807,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66232,
+      "Progressed": 66239,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36512,
+      "Progressed": 36519,
       "Completed": 2649
     }
   ],
@@ -8816,8 +8821,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-01T18:00:50.784885+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:06:19.6453875+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:08:40.6776197+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:59:59.2906672+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:06:19.6455694+00:00"
+  "LastUpdate_Ratings": "2023-07-01T22:00:50.1802476+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:08:40.6777902+00:00"
 }

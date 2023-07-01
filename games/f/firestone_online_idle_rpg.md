@@ -5,15 +5,15 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,446 |
-| World Map | 79.00% | ~1,215 |
+| Victor | 94.00% | ~1,447 |
+| World Map | 79.00% | ~1,216 |
 | Temple of Eternals | 57.00% | ~877 |
 | Prestigious | 54.00% | ~831 |
 | Fellowship Power | 41.00% | ~631 |
-| Guild Power | 25.00% | ~384 |
+| Guild Power | 25.00% | ~385 |
 | Prestigious x10 | 21.00% | ~323 |
 | The game is on | 19.00% | ~292 |
-| Exotic Merchant | 17.00% | ~261 |
+| Exotic Merchant | 17.00% | ~262 |
 | Dragon Clicker | 16.00% | ~246 |
 | Miner Clicker | 16.00% | ~246 |
 | Full Party | 15.00% | ~231 |
@@ -28,15 +28,15 @@ Rating: 4.07 (Ranked 895)
 | Superior | 12.00% | ~185 |
 | The Unstoppable | 12.00% | ~185 |
 | Scientist | 11.00% | ~169 |
-| Challenger | 9.00% | ~138 |
-| Doing My Part | 9.00% | ~138 |
-| Frostfire Liberator | 9.00% | ~138 |
-| Hunter | 9.00% | ~138 |
-| Mastery | 9.00% | ~138 |
-| Moving Up The Ladder | 9.00% | ~138 |
-| Relic Of The Past | 9.00% | ~138 |
-| Scroll Master | 9.00% | ~138 |
-| The power of Awakening | 9.00% | ~138 |
+| Challenger | 9.00% | ~139 |
+| Doing My Part | 9.00% | ~139 |
+| Frostfire Liberator | 9.00% | ~139 |
+| Hunter | 9.00% | ~139 |
+| Mastery | 9.00% | ~139 |
+| Moving Up The Ladder | 9.00% | ~139 |
+| Relic Of The Past | 9.00% | ~139 |
+| Scroll Master | 9.00% | ~139 |
+| The power of Awakening | 9.00% | ~139 |
 | Daily Quest Completionist | 8.00% | ~123 |
 | Four Leaf Clover | 8.00% | ~123 |
 | Here We Go Again | 7.00% | ~108 |
@@ -81,8 +81,8 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 168)  
-Completed: 1 (0.07%) (Ranked 192)  
+Progressed: 1,539 (Ranked 168)  
+Completed: 1 (0.06%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,7 +153,7 @@ Completed: 1 (0.07%) (Ranked 192)
 | 2023-06-28 | 1,519 | 1 |
 | 2023-06-29 | 1,526 | 1 |
 | 2023-06-30 | 1,532 | 1 |
-| 2023-07-01 | 1,538 | 1 |
+| 2023-07-01 | 1,539 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

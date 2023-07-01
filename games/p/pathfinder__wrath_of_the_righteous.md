@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 13.00% | ~1,316 |
 | Mythic Choices | 11.00% | ~1,114 |
 | Defender's Heart | 11.00% | ~1,114 |
-| Banner over the Citadel | 10.00% | ~1,012 |
+| Banner over the Citadel | 10.00% | ~1,013 |
 | Queen's Gratitude | 9.00% | ~911 |
 | Fifth Crusade | 6.00% | ~608 |
 | Embrace of the Abyss | 4.00% | ~405 |
@@ -30,13 +30,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Next-Door Play | 3.00% | ~304 |
 | Get the Toad | 3.00% | ~304 |
 | Beware Still Water | 3.00% | ~267 |
-| Heart of the Fallen Land | 2.00% | ~202 |
-| Path of the Trickster | 2.00% | ~202 |
-| Path of the Lich | 2.00% | ~202 |
-| Heroic Victory | 2.00% | ~202 |
-| Capitulation Is Now Moot | 2.00% | ~202 |
-| Core of the Riddle | 2.00% | ~202 |
-| Your First Big Enemy | 2.00% | ~202 |
+| Heart of the Fallen Land | 2.00% | ~203 |
+| Path of the Trickster | 2.00% | ~203 |
+| Path of the Lich | 2.00% | ~203 |
+| Heroic Victory | 2.00% | ~203 |
+| Capitulation Is Now Moot | 2.00% | ~203 |
+| Core of the Riddle | 2.00% | ~203 |
+| Your First Big Enemy | 2.00% | ~203 |
 | Stay Underground | 2.00% | ~178 |
 | Hanged Man's Notes | 2.00% | ~178 |
 | Sarkoris Will Be Green | 2.00% | ~178 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.60% | ~61 |
 | Dreadful Dragon | 0.60% | ~61 |
 | Masterful Charge | 0.50% | ~51 |
-| Prelate's Nemesis | 0.40% | ~40 |
+| Prelate's Nemesis | 0.40% | ~41 |
 | Ashes to Ashes | 0.30% | ~30 |
 | Masterful Dispel | 0.20% | ~20 |
 | Just Pathetic | 0.20% | ~20 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,125 (Ranked 116)  
+Progressed: 10,126 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,11 +195,11 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-28 | 10,094 | 0 |
 | 2023-06-29 | 10,102 | 0 |
 | 2023-06-30 | 10,111 | 0 |
-| 2023-07-01 | 10,125 | 0 |
+| 2023-07-01 | 10,126 | 0 |
 ## Awards
-Max (Character Customization): 1,670  (Ranked 115)  
+Max (Character Customization): 1,670  (Ranked 114)  
 Sum: 6,786 (Ranked 111)  
-Diff (max vs sum): 4  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,670 |

@@ -3,11 +3,11 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 888,
-  "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3451,
+  "EOS_Progressed": 3452,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -633,6 +633,11 @@
       "Time": "2023-07-01T21:06:10.6042087+00:00",
       "NumProgressed": 3451,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T22:08:28.7836131+00:00",
+      "NumProgressed": 3452,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -644,7 +649,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -676,7 +681,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -684,7 +689,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -692,7 +697,7 @@
       "Name": "From Zeroes...",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -756,7 +761,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -828,7 +833,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -851,7 +856,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3451,
+      "Progressed": 3452,
       "Completed": 0
     }
   ],
@@ -859,8 +864,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:06:10.6042082+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:08:28.7836125+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:31.1580907+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:59:41.0973935+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:06:10.6042438+00:00"
+  "LastUpdate_Ratings": "2023-07-01T22:00:24.0936289+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:08:28.7836481+00:00"
 }

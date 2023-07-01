@@ -37,6 +37,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.20% | ~11 |
 | Beyond the Call of Dude-y | 0.20% | ~11 |
 | The Bride | 0.20% | ~11 |
+| Deck the Balls | 0.20% | ~5 |
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
 | The Harder They Fall...Dood | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
@@ -49,7 +50,6 @@ Number of Ratings: 177  (23.09.2022)
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
 | Congrats, A Celebrity Hates You | 0.10% | ~3 |
-| Deck the Balls | 0.10% | ~3 |
 | Do Not Burn | 0.10% | ~6 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~3 |
 | Duck n' Weave | 0.10% | ~6 |

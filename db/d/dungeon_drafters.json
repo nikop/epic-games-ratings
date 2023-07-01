@@ -279,9 +279,9 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LW_complete",
@@ -311,9 +311,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -335,9 +335,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -359,9 +359,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -383,9 +383,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -487,9 +487,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "git_gud?",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:06:14.4976323+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:08:34.5142031+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:20.2916242+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:57:45.6527371+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:06:14.4976879+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:57:40.3547175+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:08:34.5142582+00:00"
 }

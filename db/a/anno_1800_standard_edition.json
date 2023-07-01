@@ -3,7 +3,7 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 75,
-  "Ranking_Popularity": 121,
+  "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
@@ -5874,10 +5874,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 11015,
       "NumberOfAwardsMax": 1426
+    },
+    {
+      "Time": "2023-07-01T21:58:04.8631737+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 11017,
+      "NumberOfAwardsMax": 1426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11015,
+  "NumberOfAwards": 11017,
   "NumberOfAwardsMax": 1426,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5933,7 +5939,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1259
+      "Count": 1261
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5959,8 +5965,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-07-01T14:57:37.335281+00:00",
+  "LastChanged": "2023-07-01T21:58:04.8631735+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:57.504684+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:58:03.8492569+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:04:25.1509577+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:58:04.8631742+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:05:13.2351722+00:00"
 }

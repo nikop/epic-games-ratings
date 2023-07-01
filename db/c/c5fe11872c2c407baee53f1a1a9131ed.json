@@ -254,9 +254,9 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_endless_120",
@@ -412,8 +412,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-01T21:03:13.5467779+00:00",
+  "LastChanged_Achievements": "2023-07-01T22:03:23.3197089+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:02.4358039+00:00",
-  "LastUpdate_Ratings": "2023-07-01T20:57:25.1859061+00:00",
-  "LastUpdate_Achievements": "2023-07-01T21:03:13.5468114+00:00"
+  "LastUpdate_Ratings": "2023-07-01T21:57:10.6992888+00:00",
+  "LastUpdate_Achievements": "2023-07-01T22:03:23.3197429+00:00"
 }

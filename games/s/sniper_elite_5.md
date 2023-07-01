@@ -7,14 +7,14 @@ Rating: 4.45 (Ranked 617)
 | ---- | ---------- | ----- |
 | Resourceful | 0.60% | ~19 |
 | Taking it back | 0.60% | ~19 |
+| Target America | 0.60% | ~19 |
 | Meeting Resistance | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
-| Target America | 0.50% | ~16 |
+| The Kraken Wakes | 0.50% | ~16 |
 | No Stone Unturned | 0.40% | ~13 |
 | Gunslinger | 0.40% | ~13 |
 | Confirming Suspicions | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
-| The Kraken Wakes | 0.40% | ~13 |
 | It's Starting to Crack | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
 | The Kraken Sleeps | 0.40% | ~13 |

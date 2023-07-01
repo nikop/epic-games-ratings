@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/tunche.json)  
 Rating: 4.42 (Ranked 659)  
 ## Awards
-Max (Great Boss Battles): 21  (Ranked 489)  
-Sum: 21 (Ranked 491)  
+Max (Great Boss Battles): 21  (Ranked 490)  
+Sum: 21 (Ranked 492)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
