@@ -11,15 +11,15 @@
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.62% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
-| 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
-| 14 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
-| 15 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 16 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 12.50% |
+| 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
+| 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
+| 15 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 12.50% |
+| 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
 | 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
-| 20 | [Sonic Origins](games/s/sonic_origins.md) | 11.90% |
+| 20 | [Sonic Origins](games/s/sonic_origins.md) | 11.85% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -27,7 +27,7 @@
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.31% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.06% |
 | 30 | [Scorn](games/s/scorn.md) | 6.91% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -129,8 +129,8 @@
 | 126 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 126 | [Potion Permit](games/p/potion_permit.md) | 0.48% |
 | 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 130 | [Ghostrunner](games/g/ghostrunner.md) | 0.45% |
 | 130 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.45% |
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 133 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
 | 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |

@@ -74,7 +74,7 @@
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,300 | 4.61 | 363 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,225 | 4.76 | 119 |
 | 74 | [God of War](games/g/god_of_war.md) | 4,116 | 4.88 | 19 |
-| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,099 | 4.56 | 456 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,103 | 4.56 | 456 |
 | 76 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,097 | 4.51 | 535 |
 | 77 | [SMITE](games/s/smite.md) | 3,954 | 4.45 | 617 |
 | 78 | [Days Gone](games/d/days_gone.md) | 3,856 | 4.68 | 239 |
@@ -93,7 +93,7 @@
 | 91 | [Trackmania](games/t/trackmania.md) | 2,854 | 4.67 | 257 |
 | 92 | [Path of Exile](games/p/path_of_exile.md) | 2,525 | 4.61 | 363 |
 | 93 | [Among Us](games/a/among_us.md) | 2,505 | 4.57 | 438 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,494 | 4.50 | 549 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,499 | 4.50 | 549 |
 | 95 | [RAGE 2](games/r/rage_2.md) | 2,484 | 4.27 | 792 |
 | 96 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,476 | 3.98 | 915 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,439 | 4.82 | 65 |

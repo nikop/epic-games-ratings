@@ -22,7 +22,7 @@
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2023-06-30 | - |  | - | - |
 | [DinoDash](games/3/3411919497ef47359de5d9a67a7225fb.md) | 2023-06-30 | - |  | - | - |
-| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | - |
+| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | - | 0 |
 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 2023-06-27 | - |  | - | 0 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | - | 0 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | - | 0 |

@@ -476,7 +476,7 @@
 | 456 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 502 |
 | 456 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 355 |
 | 456 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 53 | 390 |
-| 456 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,099 | 75 |
+| 456 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,103 | 75 |
 | 478 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 502 |
 | 478 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 502 |
 | 478 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 218 | 254 |
@@ -556,7 +556,7 @@
 | 549 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,369 | 13 |
 | 549 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 502 |
 | 549 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 107 | 321 |
-| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,494 | 94 |
+| 549 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,499 | 94 |
 | 549 | [Horace](games/h/horace.md) | 4.50 | 0 | 502 |
 | 549 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 502 |
 | 549 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 329 |
