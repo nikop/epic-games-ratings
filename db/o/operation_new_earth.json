@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -1229,9 +1229,9 @@
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1316,8 +1316,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:04:34.8895221+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:04:27.7580853+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:01:41.0453252+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:04:34.8895586+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:00:56.6505045+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:04:27.7581114+00:00"
 }

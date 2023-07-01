@@ -258,7 +258,7 @@
   "Tags": [],
   "EOS_Progressed": 4894,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4859,9 +4859,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "18",
@@ -5210,8 +5210,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-06-26T16:59:27.9418374+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:06:17.2286859+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:05:52.2574449+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:00:27.1556543+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:06:17.2287704+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:59:57.6628342+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:05:52.2575018+00:00"
 }

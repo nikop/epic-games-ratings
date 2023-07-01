@@ -1,12 +1,12 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 456)  
+Rating: 4.56 (Ranked 457)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting Started | 81.00% | ~8,834 |
-| Pay 'n' Spray | 49.00% | ~5,344 |
+| Pay 'n' Spray | 50.00% | ~5,453 |
 | All Dressed Up for San Fierro | 24.00% | ~2,617 |
 | The American Dream | 18.00% | ~1,963 |
 | School's Out | 17.00% | ~1,854 |

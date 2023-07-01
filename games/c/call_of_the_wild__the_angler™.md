@@ -1,14 +1,14 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.14 (Ranked 874)  
+Rating: 4.14 (Ranked 873)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 76.00% | ~3,446 |
 | Hey Good Hookin | 66.00% | ~2,992 |
-| I'm on a Boat! | 56.00% | ~2,539 |
+| I'm on a Boat! | 57.00% | ~2,584 |
 | Can you smell what the Rod is Hooking | 50.00% | ~2,267 |
 | Scaling up | 50.00% | ~2,267 |
 | Ready to Rod and Roll | 42.00% | ~1,904 |

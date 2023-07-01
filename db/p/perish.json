@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3085,
+  "EOS_Progressed": 3088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1658,6 +1658,11 @@
       "Time": "2023-07-01T18:04:54.0383359+00:00",
       "NumProgressed": 3085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-01T19:04:43.2228925+00:00",
+      "NumProgressed": 3088,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1749,7 +1754,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_K_A2",
@@ -1757,7 +1762,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_K_A3",
@@ -1765,7 +1770,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_MC",
@@ -1805,7 +1810,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_M_D2",
@@ -1861,7 +1866,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_M_SC",
@@ -1877,7 +1882,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_OB_BB",
@@ -1917,7 +1922,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_OB_CS",
@@ -1965,7 +1970,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_OB_LI",
@@ -2093,7 +2098,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_TP",
@@ -2172,7 +2177,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3085,
+      "Progressed": 3088,
       "Completed": 0
     }
   ],
@@ -2180,8 +2185,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:04:54.0383353+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:04:43.2228921+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:00:46.4931243+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:04:54.0384609+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:00:14.3046031+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:04:43.222949+00:00"
 }

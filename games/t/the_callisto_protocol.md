@@ -19,16 +19,16 @@ Rating: 4.20 (Ranked 834)
 | Without A Paddle | 0.60% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~94 |
 | Crash Site | 0.60% | ~94 |
+| Power Up | 0.60% | ~94 |
 | Giving Back | 0.50% | ~78 |
 | Float Like A Butterfly | 0.50% | ~78 |
 | The Outer Way | 0.50% | ~78 |
+| What Lies Beneath | 0.50% | ~78 |
+| Desperate Times | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
-| Power Up | 0.50% | ~78 |
 | It's Time | 0.50% | ~18 |
 | Terminated | 0.40% | ~62 |
 | The Commonality | 0.40% | ~62 |
-| What Lies Beneath | 0.40% | ~62 |
-| Desperate Times | 0.40% | ~62 |
 | In Striking Distance | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |

@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "23",
@@ -502,9 +502,9 @@
       "ID": "31",
       "SetID": "39djiaj",
       "Name": "Save some water for the fishies",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "32",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:07:19.0947197+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:06:44.742756+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:06.3751989+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:59:59.7770108+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:07:19.0947569+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:59:35.3607178+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:06:44.7427832+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -826,7 +826,7 @@
   ],
   "EOS_Progressed": 15607,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5312,17 +5312,17 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 78
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -5344,9 +5344,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "DISMEMBER_100",
@@ -5479,8 +5479,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T17:58:22.7369369+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:05:54.7095652+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:05:34.244504+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-01T17:58:22.7369375+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:05:54.7096823+00:00"
+  "LastUpdate_Ratings": "2023-07-01T18:58:13.8920672+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:05:34.2445547+00:00"
 }

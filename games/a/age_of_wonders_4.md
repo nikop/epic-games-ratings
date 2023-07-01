@@ -37,8 +37,8 @@ Rating: 4.59 (Ranked 410)
 | Eternal Lord | 0.50% | ~24 |
 | The Magic That Empowers Me! | 0.40% | ~20 |
 | God Emperor | 0.40% | ~20 |
+| Lord of Chaos | 0.40% | ~20 |
 | The Goddess of Nature | 0.40% | ~20 |
-| Lord of Chaos | 0.30% | ~15 |
 | Crimson Caldera | 0.30% | ~15 |
 | The Eternal Court | 0.30% | ~15 |
 | Jack of All Tomes | 0.30% | ~15 |

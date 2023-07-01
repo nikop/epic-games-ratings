@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
@@ -504,7 +504,7 @@
   ],
   "EOS_Progressed": 10906,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -6042,9 +6042,9 @@
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5344
+      "UsersEstimate": 5453
     },
     {
       "ID": "ACH09",
@@ -6275,8 +6275,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:07:29.7937487+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:06:53.871837+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:01:24.8791717+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:07:29.7938116+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:00:45.0374756+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:06:53.8718787+00:00"
 }

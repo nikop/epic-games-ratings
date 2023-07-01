@@ -34,6 +34,7 @@ Rating: 4.45 (Ranked 617)
 | Die Nussknacker Sweet! | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
+| Brains of the Operation | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
 | Fields of Glory | 0.10% | ~3 |
@@ -50,7 +51,6 @@ Rating: 4.45 (Ranked 617)
 | Locomotion Commotion | 0.10% | ~3 |
 | Road Rage | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
-| Brains of the Operation | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,183 (Ranked 145)  
+Progressed: 3,185 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 6 (0.19%) (Ranked 162)
 | 2023-06-28 | 3,160 | 6 |
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
-| 2023-07-01 | 3,183 | 6 |
+| 2023-07-01 | 3,185 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

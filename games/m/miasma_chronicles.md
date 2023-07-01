@@ -47,15 +47,15 @@ Rating: 4.37 (Ranked 718)
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
+| Attenborough | 1.00% | ~12 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Master Editor | 1.00% | ~12 |
-| Attenborough | 0.90% | ~11 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |
-| Bookworm | 0.50% | ~6 |
+| Bookworm | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,200 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 232)  

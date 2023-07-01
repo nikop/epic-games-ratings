@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -348,9 +348,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2526,
+  "EOS_Progressed": 2527,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -1643,6 +1643,11 @@
       "Time": "2023-07-01T15:03:28.0070923+00:00",
       "NumProgressed": 2526,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-01T19:03:52.2097394+00:00",
+      "NumProgressed": 2527,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1654,7 +1659,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1662,7 +1667,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -1694,7 +1699,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -1742,7 +1747,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -1758,14 +1763,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2526,
+      "Progressed": 2527,
       "Completed": 100
     }
   ],
@@ -1773,8 +1778,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-28T11:01:39.862612+00:00",
-  "LastChanged_Achievements": "2023-07-01T18:03:53.7111791+00:00",
+  "LastChanged_Achievements": "2023-07-01T19:03:52.2097389+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-01T18:01:32.4281442+00:00",
-  "LastUpdate_Achievements": "2023-07-01T18:03:53.7112229+00:00"
+  "LastUpdate_Ratings": "2023-07-01T19:00:50.8188994+00:00",
+  "LastUpdate_Achievements": "2023-07-01T19:03:52.2097568+00:00"
 }
