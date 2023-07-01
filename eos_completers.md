@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.08% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.73% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.66% |
@@ -23,8 +23,8 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.56% |
-| 25 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 24 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.55% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.32% |
@@ -42,8 +42,8 @@
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.80% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 43 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.79% |
+| 44 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.77% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.62% |
@@ -68,7 +68,7 @@
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.35% |
+| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.19% |
@@ -107,9 +107,9 @@
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
-| 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 109 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.76% |
+| 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 111 | [Haven](games/h/haven.md) | 0.69% |
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
