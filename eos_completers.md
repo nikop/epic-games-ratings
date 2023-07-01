@@ -10,16 +10,16 @@
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.66% |
-| 11 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 16.67% |
-| 12 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
-| 13 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
-| 13 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.68% |
+| 12 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 14.29% |
+| 12 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 14.29% |
+| 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 15 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
 | 16 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.02% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 20 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 19 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.96% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.96% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 23 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -59,7 +59,7 @@
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.80% |
+| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.79% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
@@ -89,20 +89,20 @@
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.41% |
-| 90 | [Five Dates](games/f/five_dates.md) | 1.30% |
-| 91 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
-| 92 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
-| 93 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
-| 94 | [Chorus](games/c/chorus.md) | 1.19% |
-| 95 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.16% |
-| 96 | [Late Shift](games/l/late_shift.md) | 1.13% |
+| 90 | [Late Shift](games/l/late_shift.md) | 1.36% |
+| 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
+| 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
+| 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
+| 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
+| 95 | [Chorus](games/c/chorus.md) | 1.19% |
+| 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.16% |
 | 97 | [Trifox](games/t/trifox.md) | 1.12% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 102 | [Sable](games/s/sable.md) | 0.96% |
-| 103 | [Adios](games/a/adios.md) | 0.93% |
+| 103 | [Adios](games/a/adios.md) | 0.92% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
