@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.39% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.06% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.62% |
@@ -59,8 +59,8 @@
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.78% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
+| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.77% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
 | 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
@@ -89,7 +89,7 @@
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.37% |
-| 90 | [Late Shift](games/l/late_shift.md) | 1.36% |
+| 90 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
@@ -124,8 +124,8 @@
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
