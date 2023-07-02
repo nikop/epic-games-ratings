@@ -6,7 +6,7 @@ Rating: 4.38 (Ranked 710)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 92.00% | ~1,104 |
-| Ranidaphobia | 77.00% | ~924 |
+| Ranidaphobia | 78.00% | ~936 |
 | Aspiring Editor | 75.00% | ~900 |
 | Gun for Hire | 70.00% | ~840 |
 | I am the law! | 64.00% | ~768 |
@@ -41,8 +41,8 @@ Rating: 4.38 (Ranked 710)
 | Ruthless | 14.00% | ~168 |
 | Side Order | 10.00% | ~120 |
 | Chain Reaction | 9.00% | ~108 |
+| Silent but Violent | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
-| Silent but Violent | 8.00% | ~96 |
 | Bot Whisperer | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Dressed To Kill | 6.00% | ~72 |

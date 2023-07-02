@@ -6,28 +6,28 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,615 |
-| The Mad Wizard | 10.00% | ~20,440 |
-| The Ring of Regeneration | 6.00% | ~12,264 |
-| Are Ya Chicken? | 6.00% | ~12,264 |
-| Were-verpowered | 5.00% | ~10,220 |
-| Mad Cow Disease | 5.00% | ~10,220 |
-| Friendly Imps | 5.00% | ~10,220 |
-| Seeking Allies | 4.00% | ~8,176 |
-| Pure Energy | 4.00% | ~8,176 |
-| A Persistent Buzzing | 3.00% | ~6,132 |
-| Terror in the Dark | 3.00% | ~6,132 |
-| The Crumbling Temple | 3.00% | ~6,132 |
-| The Contagious Curse | 3.00% | ~6,132 |
-| Beast Mode | 2.00% | ~4,088 |
-| Low Initiative | 2.00% | ~4,088 |
-| A Mysterious Summons | 2.00% | ~4,088 |
-| Unearthed Evil | 2.00% | ~4,088 |
-| Useless Allies | 2.00% | ~4,088 |
-| Exploring Port Nyanzaru | 2.00% | ~4,088 |
-| Running of the Saurs | 2.00% | ~4,088 |
-| Escort to Waterdeep | 2.00% | ~4,088 |
-| Waterdeep Detours | 2.00% | ~4,088 |
+| The Cursed Farmer | 14.00% | ~28,622 |
+| The Mad Wizard | 10.00% | ~20,444 |
+| The Ring of Regeneration | 6.00% | ~12,267 |
+| Are Ya Chicken? | 6.00% | ~12,267 |
+| Were-verpowered | 5.00% | ~10,222 |
+| Mad Cow Disease | 5.00% | ~10,222 |
+| Friendly Imps | 5.00% | ~10,222 |
+| Seeking Allies | 4.00% | ~8,178 |
+| Pure Energy | 4.00% | ~8,178 |
+| A Persistent Buzzing | 3.00% | ~6,133 |
+| Terror in the Dark | 3.00% | ~6,133 |
+| The Crumbling Temple | 3.00% | ~6,133 |
+| The Contagious Curse | 3.00% | ~6,133 |
+| Beast Mode | 2.00% | ~4,089 |
+| Low Initiative | 2.00% | ~4,089 |
+| A Mysterious Summons | 2.00% | ~4,089 |
+| Unearthed Evil | 2.00% | ~4,089 |
+| Useless Allies | 2.00% | ~4,089 |
+| Exploring Port Nyanzaru | 2.00% | ~4,089 |
+| Running of the Saurs | 2.00% | ~4,089 |
+| Escort to Waterdeep | 2.00% | ~4,089 |
+| Waterdeep Detours | 2.00% | ~4,089 |
 | Building Trust | 1.00% | ~2,044 |
 | March of the Undead | 1.00% | ~2,044 |
 | No Time To Rest | 1.00% | ~2,044 |
@@ -45,9 +45,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.90% | ~1,840 |
 | Close Escort | 0.90% | ~1,840 |
 | Constant Banditry | 0.90% | ~1,840 |
-| Homecoming | 0.80% | ~1,635 |
-| Trollskull Manor | 0.80% | ~1,635 |
-| Dinosaur Racing | 0.80% | ~1,635 |
+| Homecoming | 0.80% | ~1,636 |
+| Trollskull Manor | 0.80% | ~1,636 |
+| Dinosaur Racing | 0.80% | ~1,636 |
 | The Lost Heir of Omu | 0.70% | ~1,431 |
 | The Forbidden City | 0.70% | ~1,431 |
 | Wisdom Check | 0.70% | ~1,431 |
@@ -56,13 +56,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.70% | ~1,431 |
 | Lost in the Deep | 0.70% | ~1,431 |
 | Easily Distracted | 0.70% | ~1,431 |
-| Captured! | 0.60% | ~1,226 |
-| A Grand Puzzle | 0.60% | ~1,226 |
-| The Mists of Ravenloft | 0.60% | ~1,226 |
-| Treasure Hunters | 0.60% | ~1,226 |
-| Nimble Escape | 0.60% | ~1,226 |
-| Fugitives | 0.60% | ~1,226 |
-| The Haunted Jungle | 0.60% | ~1,226 |
+| Captured! | 0.60% | ~1,227 |
+| A Grand Puzzle | 0.60% | ~1,227 |
+| The Mists of Ravenloft | 0.60% | ~1,227 |
+| Treasure Hunters | 0.60% | ~1,227 |
+| Nimble Escape | 0.60% | ~1,227 |
+| Fugitives | 0.60% | ~1,227 |
+| The Haunted Jungle | 0.60% | ~1,227 |
 | Tomb of the Nine Gods | 0.50% | ~1,022 |
 | Family Entanglements | 0.50% | ~1,022 |
 | The Immortal Warrior | 0.50% | ~1,022 |
@@ -75,7 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.50% | ~1,022 |
 | Difficult Terrain | 0.50% | ~1,022 |
 | Market Fluctuations | 0.50% | ~1,022 |
-| The Giant's Bane Tavern | 0.50% | ~853 |
+| The Giant's Bane Tavern | 0.50% | ~854 |
 | Rude Welcome | 0.50% | ~1,022 |
 | Durable Deep | 0.50% | ~1,022 |
 | Home Field Advantage | 0.40% | ~818 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,395 (Ranked 52)  
+Progressed: 204,443 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
-| 2023-07-02 | 204,395 | 2,025 |
+| 2023-07-02 | 204,443 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,356 (Ranked 37)  

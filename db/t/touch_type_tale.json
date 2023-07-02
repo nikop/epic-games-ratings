@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3040,
+  "EOS_Progressed": 3041,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-06-30T22:02:16.0338787+00:00",
       "NumProgressed": 3040,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-02T17:01:29.7111027+00:00",
+      "NumProgressed": 3041,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2463,7 +2468,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "campaign15",
@@ -2527,7 +2532,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "campaign4",
@@ -2583,7 +2588,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "scenario2",
@@ -2638,7 +2643,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3040,
+      "Progressed": 3041,
       "Completed": 10
     }
   ],
@@ -2646,8 +2651,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:02:13.8217781+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:01:29.7111018+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.6743882+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:00:04.9050231+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:02:13.8218174+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:00:59.9249116+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:01:29.7111594+00:00"
 }

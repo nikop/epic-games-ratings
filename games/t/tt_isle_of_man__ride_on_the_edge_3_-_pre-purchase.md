@@ -8,7 +8,7 @@
 | To Each Their Own | 47.00% | ~43 |
 | Onwards and Upwards | 22.00% | ~20 |
 | You Get An Upgrade, You Get An Upgrade! | 20.00% | ~18 |
-| Like Phileas Fogg | 14.00% | ~13 |
+| Like Phileas Fogg | 15.00% | ~14 |
 | Serial Winner | 14.00% | ~13 |
 | Start Your Engines | 12.00% | ~11 |
 | Highly Qualified | 10.00% | ~9 |

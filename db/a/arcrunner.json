@@ -1523,9 +1523,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -1555,9 +1555,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1674,8 +1674,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-02T16:03:10.1353439+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:03:26.1929019+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:59:30.9658247+00:00",
-  "LastUpdate_Achievements": "2023-07-02T16:03:10.1353744+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:00:18.9876323+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:03:26.1929264+00:00"
 }

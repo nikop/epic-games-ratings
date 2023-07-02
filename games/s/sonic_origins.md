@@ -11,10 +11,10 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 80.00% | ~179 |
 | Welcome to Sonic the Hedgehog 2 | 79.00% | ~177 |
 | Welcome to Sonic 3 & Knuckles | 79.00% | ~177 |
+| Ring Collector | 76.00% | ~170 |
 | Time Traveler | 75.00% | ~168 |
-| Ring Collector | 75.00% | ~168 |
 | Everyone's Hero | 72.00% | ~161 |
-| Easy Peasy with Shields | 69.00% | ~155 |
+| Easy Peasy with Shields | 70.00% | ~157 |
 | Knuckles the Echidna | 69.00% | ~155 |
 | Bubbly Breath | 68.00% | ~152 |
 | Gallant Spin Dash | 68.00% | ~152 |
@@ -58,12 +58,12 @@ Completed: 27 (12.05%) (Ranked 18)
 | 2023-07-01 | 216 | 26 |
 | 2023-07-02 | 224 | 27 |
 ## Awards
-Max (Great Boss Battles): 121  (Ranked 308)  
-Sum: 121 (Ranked 398)  
+Max (Great Boss Battles): 122  (Ranked 308)  
+Sum: 122 (Ranked 398)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 121 |
+| This game has Great Boss Battles | 122 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -112,3 +112,4 @@ Diff (max vs sum): -90
 | 2023-06-19 | 4.58 | - | 118 | 118 |
 | 2023-06-23 | 4.57 | - | 119 | 119 |
 | 2023-07-01 | 4.57 | - | 121 | 121 |
+| 2023-07-02 | 4.57 | - | 122 | 122 |

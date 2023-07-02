@@ -6,42 +6,42 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,851 |
-| Titan's First Steps | 96.00% | ~126,533 |
-| Basic in Bulk | 91.00% | ~119,943 |
-| Tinkle of Coins | 86.00% | ~113,352 |
-| Disintermediation | 75.00% | ~98,854 |
-| Capitalism Ho! | 74.00% | ~97,536 |
-| It's Free Real Estate | 70.00% | ~92,264 |
-| Budding Merchant | 66.00% | ~86,991 |
-| Another Satisfied Customer | 61.00% | ~80,401 |
-| One Easy Payment | 60.00% | ~79,083 |
-| Own the Means of Production | 60.00% | ~79,083 |
-| Some Assembly Required | 58.00% | ~76,447 |
-| Pretty Penny | 57.00% | ~75,129 |
-| One-Armed Bandit | 49.00% | ~64,584 |
-| Through Repetition, Perfection | 46.00% | ~60,630 |
-| The Daily Grind | 45.00% | ~59,312 |
-| Bounty Hunters | 44.00% | ~57,994 |
-| Where it Hurts | 43.00% | ~56,676 |
-| Dungeon Imports | 42.00% | ~55,358 |
-| Flooding the Market | 41.00% | ~54,040 |
-| Demand for Supplies | 38.00% | ~50,086 |
-| Gild-Gotten Goods | 37.00% | ~48,768 |
+| Sponsored by Argon | 97.00% | ~127,853 |
+| Titan's First Steps | 96.00% | ~126,535 |
+| Basic in Bulk | 91.00% | ~119,944 |
+| Tinkle of Coins | 86.00% | ~113,354 |
+| Disintermediation | 75.00% | ~98,855 |
+| Capitalism Ho! | 74.00% | ~97,537 |
+| It's Free Real Estate | 70.00% | ~92,265 |
+| Budding Merchant | 66.00% | ~86,993 |
+| Another Satisfied Customer | 61.00% | ~80,402 |
+| One Easy Payment | 60.00% | ~79,084 |
+| Own the Means of Production | 60.00% | ~79,084 |
+| Some Assembly Required | 58.00% | ~76,448 |
+| Pretty Penny | 57.00% | ~75,130 |
+| One-Armed Bandit | 49.00% | ~64,585 |
+| Through Repetition, Perfection | 46.00% | ~60,631 |
+| The Daily Grind | 45.00% | ~59,313 |
+| Bounty Hunters | 44.00% | ~57,995 |
+| Where it Hurts | 43.00% | ~56,677 |
+| Dungeon Imports | 42.00% | ~55,359 |
+| Flooding the Market | 41.00% | ~54,041 |
+| Demand for Supplies | 38.00% | ~50,087 |
+| Gild-Gotten Goods | 37.00% | ~48,769 |
 | Did we pack lunch? | 35.00% | ~46,132 |
 | Arcane Industries | 34.00% | ~44,814 |
 | Accomplished Merchant | 31.00% | ~40,860 |
-| On the Path to Greatness | 28.00% | ~36,905 |
-| Ascended | 28.00% | ~36,905 |
-| Gem Expert | 28.00% | ~36,905 |
-| Helping Hand | 28.00% | ~36,905 |
-| Blank Page Syndrome | 27.00% | ~35,587 |
-| Efficient Floor Space | 27.00% | ~35,587 |
-| Vanity, Verily | 26.00% | ~34,269 |
-| Research & Development | 25.00% | ~32,951 |
-| Power of Love | 24.00% | ~31,633 |
-| Flawless Fusion | 24.00% | ~31,633 |
-| Natural 20 | 23.00% | ~30,315 |
+| On the Path to Greatness | 28.00% | ~36,906 |
+| Ascended | 28.00% | ~36,906 |
+| Gem Expert | 28.00% | ~36,906 |
+| Helping Hand | 28.00% | ~36,906 |
+| Blank Page Syndrome | 27.00% | ~35,588 |
+| Efficient Floor Space | 27.00% | ~35,588 |
+| Vanity, Verily | 26.00% | ~34,270 |
+| Research & Development | 25.00% | ~32,952 |
+| Power of Love | 24.00% | ~31,634 |
+| Flawless Fusion | 24.00% | ~31,634 |
+| Natural 20 | 23.00% | ~30,316 |
 | Fated Encounters | 21.00% | ~27,679 |
 | Royal Ransom | 21.00% | ~27,679 |
 | Magical Harmony | 21.00% | ~27,679 |
@@ -69,14 +69,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 11.00% | ~14,499 |
 | By Your Powers Combined... | 11.00% | ~14,499 |
 | Exotic Commodities | 11.00% | ~14,499 |
-| Master Recycler | 10.00% | ~13,180 |
-| Supercharged | 9.00% | ~11,862 |
-| Ritualist | 9.00% | ~11,862 |
-| Master Merchant | 9.00% | ~11,862 |
-| Glittering Collection | 9.00% | ~11,862 |
-| Cream of the Crop | 8.00% | ~10,544 |
-| The King's Caprice | 8.00% | ~10,544 |
-| Item of Renown | 8.00% | ~10,544 |
+| Master Recycler | 10.00% | ~13,181 |
+| Supercharged | 9.00% | ~11,863 |
+| Ritualist | 9.00% | ~11,863 |
+| Master Merchant | 9.00% | ~11,863 |
+| Glittering Collection | 9.00% | ~11,863 |
+| Cream of the Crop | 8.00% | ~10,545 |
+| The King's Caprice | 8.00% | ~10,545 |
+| Item of Renown | 8.00% | ~10,545 |
 | Booty by the Boatload | 7.00% | ~9,226 |
 | A Legend is Born | 7.00% | ~9,226 |
 | Wealth Beyond Measure | 7.00% | ~9,226 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~659 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,805 (Ranked 59)  
+Progressed: 131,807 (Ranked 59)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-06-29 | 131,639 | 112 |
 | 2023-06-30 | 131,693 | 112 |
 | 2023-07-01 | 131,759 | 113 |
-| 2023-07-02 | 131,805 | 113 |
+| 2023-07-02 | 131,807 | 113 |
 ## Awards
 Max (Great for Beginners): 4,643  (Ranked 68)  
 Sum: 26,852 (Ranked 46)  

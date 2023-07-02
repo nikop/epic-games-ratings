@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2428,9 +2428,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 936
     },
     {
       "ID": "RECYCLER",
@@ -2484,9 +2484,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 108
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:02:13.5425224+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:01:29.7367425+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:58:19.743989+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:02:13.5425783+00:00"
+  "LastUpdate_Ratings": "2023-07-02T16:58:45.3599396+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:01:29.7368008+00:00"
 }

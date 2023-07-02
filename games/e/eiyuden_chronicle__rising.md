@@ -50,9 +50,9 @@ Number of Ratings: 48  (23.09.2022)
 | Champion of the Quarry | 10.00% | ~68 |
 | Champion of the Lava Ruins | 10.00% | ~68 |
 | No One Better | 9.00% | ~61 |
+| Full Force - CJ | 9.00% | ~61 |
 | Accessorizer | 9.00% | ~61 |
 | Champion of the Snowpeak | 9.00% | ~61 |
-| Full Force - CJ | 8.00% | ~54 |
 | Full Force - Garoo | 8.00% | ~54 |
 | Full Force - Isha | 8.00% | ~54 |
 | Rising Champion | 7.00% | ~47 |

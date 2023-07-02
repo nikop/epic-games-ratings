@@ -14,18 +14,19 @@ Rating: 4.45 (Ranked 617)
 | No Stone Unturned | 0.60% | ~19 |
 | Meeting Resistance | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
+| Lord of War | 0.60% | ~19 |
 | It's Starting to Crack | 0.60% | ~19 |
 | The Kraken Sleeps | 0.60% | ~19 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
 | Sharpshooter | 0.50% | ~16 |
-| Lord of War | 0.50% | ~16 |
 | Change the Channel | 0.50% | ~16 |
 | Opposing Force | 0.40% | ~13 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | As Quiet as a Mouse | 0.40% | ~13 |
 | Brains of the Operation | 0.40% | ~13 |
+| Fields of Glory | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Skirmisher | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
@@ -34,8 +35,8 @@ Rating: 4.45 (Ranked 617)
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
-| Fields of Glory | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
+| Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
@@ -47,7 +48,6 @@ Rating: 4.45 (Ranked 617)
 | Burn after reading | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
-| Tinkerer | 0.10% | ~3 |
 | It'll Buff Right Out | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Up close and personal | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,193 (Ranked 145)  
+Progressed: 3,194 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
-| 2023-07-02 | 3,193 | 6 |
+| 2023-07-02 | 3,194 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

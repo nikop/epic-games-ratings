@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -243,23 +243,29 @@
       "Rating": 4.57,
       "NumberOfAwards": 121,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-07-02T16:58:08.0160843+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 121,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 122,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 121
+      "Count": 122
     }
   ],
   "EOS_Progressed": 224,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 12.05,
   "EosHistory": [
@@ -914,17 +920,17 @@
       "ID": "ID_12_SONIC3K_GET_ALL_BARRIERS",
       "SetID": "7o8nc5m",
       "Name": "Easy Peasy with Shields",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -1113,9 +1119,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
-  "LastChanged": "2023-07-01T13:57:43.3975367+00:00",
-  "LastChanged_Achievements": "2023-07-02T16:05:30.8877301+00:00",
+  "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:06:36.7699357+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:57:52.4784142+00:00",
-  "LastUpdate_Achievements": "2023-07-02T16:05:30.887758+00:00"
+  "LastUpdate_Ratings": "2023-07-02T16:58:08.0160847+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:06:36.7699581+00:00"
 }

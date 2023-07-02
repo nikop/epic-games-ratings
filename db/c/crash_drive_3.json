@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -246,6 +246,11 @@
       "Time": "2023-07-01T07:02:05.6806149+00:00",
       "NumProgressed": 336,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T17:02:18.8655436+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -273,7 +278,7 @@
       "Name": "Fore!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CATAPULT_THROW",
@@ -295,9 +300,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -329,7 +334,7 @@
       "Name": "Special Forces",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -367,9 +372,9 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 78
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -385,7 +390,7 @@
       "Name": "Disoriented",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -423,9 +428,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 94
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -447,17 +452,17 @@
       "ID": "HIT_ALIEN",
       "SetID": "20koof9",
       "Name": "Earth Defense Force",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 78
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -465,7 +470,7 @@
       "Name": "Insurance fraud",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -503,9 +508,9 @@
       "ID": "LEFT_LEVEL",
       "SetID": "20koof9",
       "Name": "Goodbye cruel world",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 78
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -513,7 +518,7 @@
       "Name": "The Wild West",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -529,7 +534,7 @@
       "Name": "Snow Fun!",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -543,9 +548,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 94
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -585,7 +590,7 @@
       "Name": "Out of this League",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -601,7 +606,7 @@
       "Name": "Ferry Good!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "USE_ROCKET",
@@ -649,7 +654,7 @@
       "Name": "Beach Party!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WIN_KING_HILL",
@@ -657,7 +662,7 @@
       "Name": "Assert Dominance",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -665,7 +670,7 @@
       "Name": "Speed of light",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WIN_ROBBER",
@@ -696,7 +701,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 2
     }
   ],
@@ -704,8 +709,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-02T16:02:09.6237974+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:02:18.8655432+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.3523611+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:58:44.8116174+00:00",
-  "LastUpdate_Achievements": "2023-07-02T16:02:09.6238479+00:00"
+  "LastUpdate_Ratings": "2023-07-02T16:59:17.9466883+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:02:18.8655843+00:00"
 }

@@ -20,15 +20,15 @@
 | KIA | 26.00% | ~171 |
 | Mutiny in making | 23.00% | ~152 |
 | Et tu, Astrocitizen? | 20.00% | ~132 |
-| Eco-Shuttle | 18.00% | ~119 |
+| Eco-Shuttle | 19.00% | ~125 |
 | Space Explorer | 15.00% | ~99 |
 | Hands Full | 13.00% | ~86 |
 | Gold Medalist | 12.00% | ~79 |
 | Non-Fiction | 11.00% | ~72 |
 | No Man Left Behind | 9.00% | ~59 |
+| Intergalactic Breakup | 8.00% | ~53 |
 | First of April | 7.00% | ~46 |
 | Fix-It Felix | 7.00% | ~46 |
-| Intergalactic Breakup | 7.00% | ~46 |
 | Flawless Maegangement | 7.00% | ~46 |
 | Second Life | 7.00% | ~46 |
 | Axel jump in space! | 6.00% | ~40 |

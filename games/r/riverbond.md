@@ -6,38 +6,38 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~364,783 |
-| Now You're Talking | 62.00% | ~323,093 |
-| Steel Yourself | 62.00% | ~323,093 |
-| Window Dressing | 50.00% | ~260,559 |
-| Trigger Happy | 46.00% | ~239,714 |
-| Riverborn | 45.00% | ~234,503 |
-| Starry Eyed | 34.00% | ~177,180 |
-| Poking Around | 34.00% | ~177,180 |
-| Talk of the Town | 24.00% | ~125,068 |
-| AAARR! | 23.00% | ~119,857 |
-| Hello Darkness | 23.00% | ~119,857 |
-| Wind At Our Backs | 22.00% | ~114,646 |
-| To the Beat | 20.00% | ~104,224 |
-| Sunny Shores | 17.00% | ~88,590 |
-| Sunday Best | 16.00% | ~83,379 |
-| To Victory! | 15.00% | ~78,168 |
-| Two of a Kind | 14.00% | ~72,957 |
-| Keep On Trucking | 13.00% | ~67,745 |
-| Going on an Adventure | 11.00% | ~57,323 |
-| Make Peace, Not War | 11.00% | ~57,323 |
-| Walking The Line | 10.00% | ~52,112 |
-| Not So Cute Anymore | 10.00% | ~52,112 |
-| Road Less Travelled | 9.00% | ~46,901 |
-| Lost and Found | 9.00% | ~46,901 |
-| Partner in Crime | 7.00% | ~36,478 |
-| Hard to Hear | 7.00% | ~36,478 |
-| Under the Radar | 7.00% | ~36,478 |
-| Moving On Up | 6.00% | ~31,267 |
-| Owl Knows Best | 6.00% | ~31,267 |
-| Mind the Moose | 6.00% | ~31,267 |
-| Dressed to Kill | 6.00% | ~31,267 |
-| Beast Mode | 6.00% | ~31,267 |
+| First Step | 70.00% | ~364,790 |
+| Now You're Talking | 62.00% | ~323,100 |
+| Steel Yourself | 62.00% | ~323,100 |
+| Window Dressing | 50.00% | ~260,564 |
+| Trigger Happy | 46.00% | ~239,719 |
+| Riverborn | 45.00% | ~234,508 |
+| Starry Eyed | 34.00% | ~177,184 |
+| Poking Around | 34.00% | ~177,184 |
+| Talk of the Town | 24.00% | ~125,071 |
+| AAARR! | 23.00% | ~119,860 |
+| Hello Darkness | 23.00% | ~119,860 |
+| Wind At Our Backs | 22.00% | ~114,648 |
+| To the Beat | 20.00% | ~104,226 |
+| Sunny Shores | 17.00% | ~88,592 |
+| Sunday Best | 16.00% | ~83,381 |
+| To Victory! | 15.00% | ~78,169 |
+| Two of a Kind | 14.00% | ~72,958 |
+| Keep On Trucking | 13.00% | ~67,747 |
+| Going on an Adventure | 11.00% | ~57,324 |
+| Make Peace, Not War | 11.00% | ~57,324 |
+| Walking The Line | 10.00% | ~52,113 |
+| Not So Cute Anymore | 10.00% | ~52,113 |
+| Road Less Travelled | 9.00% | ~46,902 |
+| Lost and Found | 9.00% | ~46,902 |
+| Partner in Crime | 7.00% | ~36,479 |
+| Hard to Hear | 7.00% | ~36,479 |
+| Under the Radar | 7.00% | ~36,479 |
+| Moving On Up | 6.00% | ~31,268 |
+| Owl Knows Best | 6.00% | ~31,268 |
+| Mind the Moose | 6.00% | ~31,268 |
+| Dressed to Kill | 6.00% | ~31,268 |
+| Beast Mode | 6.00% | ~31,268 |
 | Oh, Romeo! | 5.00% | ~26,056 |
 | Noble Intentions | 5.00% | ~26,056 |
 | Rising Star | 5.00% | ~26,056 |
@@ -54,18 +54,18 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~15,634 |
 | Spinal Adjustment | 3.00% | ~15,634 |
 | The Knowledge | 3.00% | ~15,634 |
-| Seek the Rainbow | 2.00% | ~10,422 |
-| Words of Truth | 2.00% | ~10,422 |
-| Star Power | 2.00% | ~10,422 |
-| Justice Served | 2.00% | ~10,422 |
+| Seek the Rainbow | 2.00% | ~10,423 |
+| Words of Truth | 2.00% | ~10,423 |
+| Star Power | 2.00% | ~10,423 |
+| Justice Served | 2.00% | ~10,423 |
 | Don't Care | 1.00% | ~5,211 |
 | Don’t Get Crabby | 1.00% | ~5,211 |
 | Written in the Stars | 0.90% | ~4,690 |
 | Boss of All Bosses | 0.30% | ~1,563 |
 | Point Taken | 0.10% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,118 (Ranked 29)  
-Completed: 436 (0.08%) (Ranked 188)  
+Progressed: 521,129 (Ranked 29)  
+Completed: 437 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,7 +137,7 @@ Completed: 436 (0.08%) (Ranked 188)
 | 2023-06-29 | 520,849 | 435 |
 | 2023-06-30 | 520,940 | 435 |
 | 2023-07-01 | 521,047 | 436 |
-| 2023-07-02 | 521,118 | 436 |
+| 2023-07-02 | 521,129 | 437 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

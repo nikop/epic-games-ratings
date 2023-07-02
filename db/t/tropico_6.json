@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5467,6 +5467,11 @@
       "Time": "2023-07-02T16:03:40.2343349+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T17:04:14.0573412+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5526,7 +5531,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -5542,7 +5547,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -5574,7 +5579,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5630,7 +5635,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5638,7 +5643,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5734,7 +5739,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5774,7 +5779,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -5797,15 +5802,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-02T16:03:40.2343343+00:00",
+  "LastChanged_Achievements": "2023-07-02T17:04:14.0573407+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:00:04.6292137+00:00",
-  "LastUpdate_Achievements": "2023-07-02T16:03:40.2343941+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:00:59.5818478+00:00",
+  "LastUpdate_Achievements": "2023-07-02T17:04:14.0573857+00:00"
 }
