@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1886,6 +1886,11 @@
       "Time": "2023-07-02T13:11:23.3914974+00:00",
       "NumProgressed": 685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T15:01:33.2434306+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1999,9 +2004,9 @@
       "ID": "collector_2",
       "SetID": "53c1p3k",
       "Name": "Collector 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "collector_3",
@@ -2017,7 +2022,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "conqueror_2",
@@ -2087,9 +2092,9 @@
       "ID": "elite_deck_1",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "elite_deck_2",
@@ -2424,14 +2429,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:00:40.6090927+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:01:33.2434297+00:00",
   "LastUpdate_AppInfo": "2023-06-26T23:57:00.6657971+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:57:04.5213776+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:00:40.6091519+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:57:06.214357+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:01:33.2435616+00:00"
 }

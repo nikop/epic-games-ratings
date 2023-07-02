@@ -6,35 +6,35 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Target America | 0.80% | ~26 |
+| The Kraken Wakes | 0.70% | ~22 |
 | Taking it back | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
 | Meeting Resistance | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
-| The Kraken Wakes | 0.60% | ~19 |
+| It's Starting to Crack | 0.60% | ~19 |
+| Liberté | 0.50% | ~16 |
 | No Stone Unturned | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
 | Sharpshooter | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
-| It's Starting to Crack | 0.50% | ~16 |
 | Change the Channel | 0.50% | ~16 |
 | The Kraken Sleeps | 0.50% | ~16 |
-| Liberté | 0.40% | ~13 |
 | Opposing Force | 0.40% | ~13 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
+| As Quiet as a Mouse | 0.40% | ~13 |
 | Just a Flesh Wound | 0.30% | ~10 |
+| Skirmisher | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
 | Precision Is Key | 0.30% | ~10 |
 | My Little Friend | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
-| As Quiet as a Mouse | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
 | Brains of the Operation | 0.30% | ~10 |
 | Fields of Glory | 0.20% | ~6 |
-| Skirmisher | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
@@ -53,6 +53,7 @@ Rating: 4.45 (Ranked 617)
 | Up close and personal | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
+| Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
 | Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
@@ -70,7 +71,6 @@ Rating: 4.45 (Ranked 617)
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
-| Can't Outrun A Bullet | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
 | Covert Elimination | 0.00% | ~0 |

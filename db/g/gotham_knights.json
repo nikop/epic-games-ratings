@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1856,7 +1856,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66276,
+  "EOS_Progressed": 66279,
   "EOS_Completed": 100,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 2,
@@ -8386,6 +8386,11 @@
       "Time": "2023-07-02T13:16:50.9136643+00:00",
       "NumProgressed": 66276,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-02T15:07:00.9063359+00:00",
+      "NumProgressed": 66279,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8597,7 +8602,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -8884,13 +8889,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66276,
+      "Progressed": 66279,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36556,
+      "Progressed": 36559,
       "Completed": 2649
     }
   ],
@@ -8898,8 +8903,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-02T08:00:20.7129831+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:05:57.5013405+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:07:00.9063356+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:59:45.9959578+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:05:57.5014134+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:00:22.4136636+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:07:00.9064195+00:00"
 }

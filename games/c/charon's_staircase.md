@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The secret passage | 56.00% | ~42 |
-| Seth's office | 55.00% | ~41 |
+| The secret passage | 55.00% | ~42 |
+| Seth's office | 54.00% | ~41 |
 | Across the lake | 49.00% | ~37 |
-| First document retrieved | 48.00% | ~36 |
-| There is something strange here... | 48.00% | ~36 |
+| First document retrieved | 47.00% | ~36 |
+| There is something strange here... | 47.00% | ~36 |
 | Curious by nature | 41.00% | ~31 |
-| A lonely death | 35.00% | ~26 |
+| A lonely death | 34.00% | ~26 |
 | An ear for music | 33.00% | ~25 |
-| Agatha's favourite song | 31.00% | ~23 |
+| Agatha's favourite song | 30.00% | ~23 |
 | Lights and shadows | 29.00% | ~22 |
 | The threshold of horror | 28.00% | ~21 |
 | Second document retrieved | 25.00% | ~19 |
@@ -20,13 +20,13 @@
 | Deadly chase | 25.00% | ~19 |
 | Dara's home | 25.00% | ~19 |
 | The lowest floor of the lift | 24.00% | ~18 |
-| Charon's coin | 23.00% | ~17 |
-| Until death do us part | 19.00% | ~14 |
-| The impatient one | 19.00% | ~14 |
+| Charon's coin | 22.00% | ~17 |
+| Until death do us part | 18.00% | ~14 |
+| The impatient one | 18.00% | ~14 |
 | Spectres from the past | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 314)  
-Completed: 2 (2.67%) (Ranked 64)  
+Progressed: 76 (Ranked 314)  
+Completed: 2 (2.63%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -38,6 +38,7 @@ Completed: 2 (2.67%) (Ranked 64)
 | 2023-06-14 | 73 | 2 |
 | 2023-06-19 | 74 | 2 |
 | 2023-06-20 | 75 | 2 |
+| 2023-07-02 | 76 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

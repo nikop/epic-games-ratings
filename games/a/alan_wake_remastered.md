@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,703 |
-| Let There Be Light | 27.00% | ~15,303 |
-| Float Like a Butterfly | 26.00% | ~14,736 |
-| Nordic Walking | 20.00% | ~11,335 |
-| Bright Falls' Finest | 20.00% | ~11,335 |
-| Under a Thin Layer of Skin | 18.00% | ~10,202 |
+| Follow the Light | 33.00% | ~18,705 |
+| Let There Be Light | 27.00% | ~15,304 |
+| Float Like a Butterfly | 26.00% | ~14,737 |
+| Nordic Walking | 20.00% | ~11,336 |
+| Bright Falls' Finest | 20.00% | ~11,336 |
+| Under a Thin Layer of Skin | 18.00% | ~10,203 |
 | Park Ranger | 14.00% | ~7,935 |
 | Back! Back, I Say! | 14.00% | ~7,935 |
 | Finders Keepers | 14.00% | ~7,935 |
 | Paging Mr. Wake | 14.00% | ~7,935 |
-| They're Heeeeeere! | 12.00% | ~6,801 |
-| Sound and Fury | 12.00% | ~6,801 |
-| Missed by a Mile | 12.00% | ~6,801 |
-| Damn Good Cup of Coffee | 12.00% | ~6,801 |
-| Wheels Within Wheels | 11.00% | ~6,234 |
-| The Six-Gun Scribe | 11.00% | ~6,234 |
+| They're Heeeeeere! | 12.00% | ~6,802 |
+| Sound and Fury | 12.00% | ~6,802 |
+| Missed by a Mile | 12.00% | ~6,802 |
+| Damn Good Cup of Coffee | 12.00% | ~6,802 |
+| Wheels Within Wheels | 11.00% | ~6,235 |
+| The Six-Gun Scribe | 11.00% | ~6,235 |
 | Heavy Metal | 10.00% | ~5,668 |
 | Iron Horse | 10.00% | ~5,668 |
 | Perchance to Dream | 10.00% | ~5,668 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 8.00% | ~4,534 |
 | Right of Way | 8.00% | ~4,534 |
 | A Friend in Need | 8.00% | ~1,612 |
-| What Light Through Yonder Window | 7.00% | ~3,967 |
+| What Light Through Yonder Window | 7.00% | ~3,968 |
 | Tornado Wrangler | 6.00% | ~3,401 |
 | Departure | 6.00% | ~3,401 |
 | A Friend Indeed | 6.00% | ~1,209 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,676 (Ranked 80)  
+Progressed: 56,681 (Ranked 80)  
 Completed: 56 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 56 (0.10%) (Ranked 179)
 | 2023-06-29 | 56,498 | 56 |
 | 2023-06-30 | 56,554 | 56 |
 | 2023-07-01 | 56,635 | 56 |
-| 2023-07-02 | 56,676 | 56 |
+| 2023-07-02 | 56,681 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -596,6 +596,11 @@
       "Time": "2023-07-02T13:14:05.5314848+00:00",
       "NumProgressed": 223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T15:03:24.2578696+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -623,7 +628,7 @@
       "Name": "Basic Controls",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BigPlane",
@@ -645,9 +650,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Close",
@@ -669,9 +674,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -695,7 +700,7 @@
       "Name": "Fifty",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "First",
@@ -703,7 +708,7 @@
       "Name": "Game Started",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FullCompletion",
@@ -743,7 +748,7 @@
       "Name": "Large Airport",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LargeTerritories",
@@ -775,7 +780,7 @@
       "Name": "Long Distances",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ManagementMaster",
@@ -789,9 +794,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "Millionaire",
@@ -821,9 +826,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "NotPlanned",
@@ -942,14 +947,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:03:10.6024409+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:03:24.2578691+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:57:01.7879525+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:03:10.6024707+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:57:02.0207337+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:03:24.2579057+00:00"
 }

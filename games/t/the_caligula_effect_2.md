@@ -8,7 +8,7 @@ Number of Ratings: 32  (23.09.2022)
 | ---- | ---------- | ----- |
 | Welcome to Redo | 98.00% | ~228 |
 | Daily Life Begins Anew | 82.00% | ~191 |
-| Our World Now | 81.00% | ~189 |
+| Our World Now | 82.00% | ~191 |
 | Never Saw It Coming | 66.00% | ~154 |
 | Coup de Grace | 58.00% | ~135 |
 | Go-Home Club Activities START! | 48.00% | ~112 |

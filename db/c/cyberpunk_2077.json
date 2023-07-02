@@ -8267,9 +8267,9 @@
       "Count": 5217
     }
   ],
-  "EOS_Progressed": 863060,
+  "EOS_Progressed": 863075,
   "EOS_Completed": 1819,
-  "EOS_NewPlayers": 2200,
+  "EOS_NewPlayers": 2189,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16072,6 +16072,11 @@
       "Time": "2023-07-02T14:05:45.6026427+00:00",
       "NumProgressed": 863060,
       "NumCompleted": 1819
+    },
+    {
+      "Time": "2023-07-02T15:06:46.971723+00:00",
+      "NumProgressed": 863075,
+      "NumCompleted": 1819
     }
   ],
   "TotalAchievements": 44,
@@ -16099,7 +16104,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138090
+      "UsersEstimate": 138092
     },
     {
       "ID": "Cyberjunkie",
@@ -16107,7 +16112,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 146720
+      "UsersEstimate": 146723
     },
     {
       "ID": "Denied",
@@ -16115,7 +16120,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 327963
+      "UsersEstimate": 327968
     },
     {
       "ID": "FollowingTheRiver",
@@ -16123,7 +16128,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112198
+      "UsersEstimate": 112200
     },
     {
       "ID": "Fortuneteller",
@@ -16131,7 +16136,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 77675
+      "UsersEstimate": 77677
     },
     {
       "ID": "Gearhead",
@@ -16139,7 +16144,7 @@
       "Name": "Autojock",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "GetMeThereScottie",
@@ -16147,7 +16152,7 @@
       "Name": "Frequent Flyer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "GunKata",
@@ -16155,7 +16160,7 @@
       "Name": "Gun Fu",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 120828
+      "UsersEstimate": 120831
     },
     {
       "ID": "Gunslinger",
@@ -16171,7 +16176,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112198
+      "UsersEstimate": 112200
     },
     {
       "ID": "IAmMaxTac",
@@ -16179,7 +16184,7 @@
       "Name": "I Am The Law",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 112198
+      "UsersEstimate": 112200
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -16203,7 +16208,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 189873
+      "UsersEstimate": 189876
     },
     {
       "ID": "MaxPain",
@@ -16211,7 +16216,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 77675
+      "UsersEstimate": 77677
     },
     {
       "ID": "MustBeTheRats",
@@ -16219,7 +16224,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34522
+      "UsersEstimate": 34523
     },
     {
       "ID": "NeverFadeAway",
@@ -16227,7 +16232,7 @@
       "Name": "Breathtaking",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 60414
+      "UsersEstimate": 60415
     },
     {
       "ID": "NoMansLand",
@@ -16235,7 +16240,7 @@
       "Name": "The Wasteland",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "NotTheMobile",
@@ -16243,7 +16248,7 @@
       "Name": "Daemon In The Shell",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "QueenOfTheHighway",
@@ -16251,7 +16256,7 @@
       "Name": "Life of the Road",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 172612
+      "UsersEstimate": 172615
     },
     {
       "ID": "Roleplayer",
@@ -16259,7 +16264,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 241657
+      "UsersEstimate": 241661
     },
     {
       "ID": "Specialist",
@@ -16267,7 +16272,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69045
+      "UsersEstimate": 69046
     },
     {
       "ID": "Temperance",
@@ -16275,7 +16280,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34522
+      "UsersEstimate": 34523
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -16291,7 +16296,7 @@
       "Name": "The Devil",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "TheFool",
@@ -16299,7 +16304,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 586881
+      "UsersEstimate": 586891
     },
     {
       "ID": "TheHermit",
@@ -16307,7 +16312,7 @@
       "Name": "The Hermit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 207134
+      "UsersEstimate": 207138
     },
     {
       "ID": "TheHightPriestess",
@@ -16315,7 +16320,7 @@
       "Name": "The High Priestess",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 181243
+      "UsersEstimate": 181246
     },
     {
       "ID": "TheLovers",
@@ -16323,7 +16328,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 293440
+      "UsersEstimate": 293446
     },
     {
       "ID": "TheStar",
@@ -16347,7 +16352,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224396
+      "UsersEstimate": 224400
     },
     {
       "ID": "TheWorld",
@@ -16355,7 +16360,7 @@
       "Name": "The World",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 146720
+      "UsersEstimate": 146723
     },
     {
       "ID": "ThisIsPacifica",
@@ -16379,7 +16384,7 @@
       "Name": "True Soldier",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 189873
+      "UsersEstimate": 189876
     },
     {
       "ID": "TrueWarrior",
@@ -16387,7 +16392,7 @@
       "Name": "True Warrior",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 120828
+      "UsersEstimate": 120831
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -16395,7 +16400,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 94937
+      "UsersEstimate": 94938
     },
     {
       "ID": "UnderPressure",
@@ -16403,7 +16408,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 112198
+      "UsersEstimate": 112200
     },
     {
       "ID": "VForVendetta",
@@ -16427,22 +16432,22 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 181243
+      "UsersEstimate": 181246
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 863060,
+      "Progressed": 863075,
       "Completed": 1819
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-02T13:57:53.0889237+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:05:45.6026423+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:06:46.9717224+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:06.521789+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:57:53.0889242+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:05:45.6027063+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:58:00.8141305+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:06:46.9718064+00:00"
 }

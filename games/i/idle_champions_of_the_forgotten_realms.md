@@ -6,28 +6,28 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,600 |
-| The Mad Wizard | 10.00% | ~20,429 |
-| The Ring of Regeneration | 6.00% | ~12,257 |
-| Are Ya Chicken? | 6.00% | ~12,257 |
-| Were-verpowered | 5.00% | ~10,214 |
-| Mad Cow Disease | 5.00% | ~10,214 |
-| Friendly Imps | 5.00% | ~10,214 |
-| Seeking Allies | 4.00% | ~8,172 |
-| Pure Energy | 4.00% | ~8,172 |
-| A Persistent Buzzing | 3.00% | ~6,129 |
-| Terror in the Dark | 3.00% | ~6,129 |
-| The Crumbling Temple | 3.00% | ~6,129 |
-| The Contagious Curse | 3.00% | ~6,129 |
-| Beast Mode | 2.00% | ~4,086 |
-| Low Initiative | 2.00% | ~4,086 |
-| A Mysterious Summons | 2.00% | ~4,086 |
-| Unearthed Evil | 2.00% | ~4,086 |
-| Useless Allies | 2.00% | ~4,086 |
-| Exploring Port Nyanzaru | 2.00% | ~4,086 |
-| Running of the Saurs | 2.00% | ~4,086 |
-| Escort to Waterdeep | 2.00% | ~4,086 |
-| Waterdeep Detours | 2.00% | ~4,086 |
+| The Cursed Farmer | 14.00% | ~28,608 |
+| The Mad Wizard | 10.00% | ~20,434 |
+| The Ring of Regeneration | 6.00% | ~12,261 |
+| Are Ya Chicken? | 6.00% | ~12,261 |
+| Were-verpowered | 5.00% | ~10,217 |
+| Mad Cow Disease | 5.00% | ~10,217 |
+| Friendly Imps | 5.00% | ~10,217 |
+| Seeking Allies | 4.00% | ~8,174 |
+| Pure Energy | 4.00% | ~8,174 |
+| A Persistent Buzzing | 3.00% | ~6,130 |
+| Terror in the Dark | 3.00% | ~6,130 |
+| The Crumbling Temple | 3.00% | ~6,130 |
+| The Contagious Curse | 3.00% | ~6,130 |
+| Beast Mode | 2.00% | ~4,087 |
+| Low Initiative | 2.00% | ~4,087 |
+| A Mysterious Summons | 2.00% | ~4,087 |
+| Unearthed Evil | 2.00% | ~4,087 |
+| Useless Allies | 2.00% | ~4,087 |
+| Exploring Port Nyanzaru | 2.00% | ~4,087 |
+| Running of the Saurs | 2.00% | ~4,087 |
+| Escort to Waterdeep | 2.00% | ~4,087 |
+| Waterdeep Detours | 2.00% | ~4,087 |
 | Building Trust | 1.00% | ~2,043 |
 | March of the Undead | 1.00% | ~2,043 |
 | No Time To Rest | 1.00% | ~2,043 |
@@ -45,9 +45,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.90% | ~1,839 |
 | Close Escort | 0.90% | ~1,839 |
 | Constant Banditry | 0.90% | ~1,839 |
-| Homecoming | 0.80% | ~1,634 |
-| Trollskull Manor | 0.80% | ~1,634 |
-| Dinosaur Racing | 0.80% | ~1,634 |
+| Homecoming | 0.80% | ~1,635 |
+| Trollskull Manor | 0.80% | ~1,635 |
+| Dinosaur Racing | 0.80% | ~1,635 |
 | The Lost Heir of Omu | 0.70% | ~1,430 |
 | The Forbidden City | 0.70% | ~1,430 |
 | Wisdom Check | 0.70% | ~1,430 |
@@ -63,21 +63,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.60% | ~1,226 |
 | Fugitives | 0.60% | ~1,226 |
 | The Haunted Jungle | 0.60% | ~1,226 |
-| Tomb of the Nine Gods | 0.50% | ~1,021 |
-| Family Entanglements | 0.50% | ~1,021 |
-| The Immortal Warrior | 0.50% | ~1,021 |
-| The Wyrmheart Mine | 0.50% | ~1,021 |
-| Tower on the Lake | 0.50% | ~1,021 |
-| Hopelessly Lost | 0.50% | ~1,021 |
-| Enter the Sargauth | 0.50% | ~1,021 |
-| Lair of the Xanathar | 0.50% | ~1,021 |
-| Crowded Streets | 0.50% | ~1,021 |
-| The Darkness Runs Deeper | 0.50% | ~1,021 |
-| Difficult Terrain | 0.50% | ~1,021 |
-| Market Fluctuations | 0.50% | ~1,021 |
+| Tomb of the Nine Gods | 0.50% | ~1,022 |
+| Family Entanglements | 0.50% | ~1,022 |
+| The Immortal Warrior | 0.50% | ~1,022 |
+| The Wyrmheart Mine | 0.50% | ~1,022 |
+| Tower on the Lake | 0.50% | ~1,022 |
+| Hopelessly Lost | 0.50% | ~1,022 |
+| Enter the Sargauth | 0.50% | ~1,022 |
+| Lair of the Xanathar | 0.50% | ~1,022 |
+| Crowded Streets | 0.50% | ~1,022 |
+| The Darkness Runs Deeper | 0.50% | ~1,022 |
+| Difficult Terrain | 0.50% | ~1,022 |
+| Market Fluctuations | 0.50% | ~1,022 |
 | The Giant's Bane Tavern | 0.50% | ~853 |
-| Rude Welcome | 0.50% | ~1,021 |
-| Durable Deep | 0.50% | ~1,021 |
+| Rude Welcome | 0.50% | ~1,022 |
+| Durable Deep | 0.50% | ~1,022 |
 | Home Field Advantage | 0.40% | ~817 |
 | Force Grey Unleashed | 0.40% | ~817 |
 | Sleuth It Out | 0.40% | ~817 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,289 (Ranked 52)  
+Progressed: 204,345 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,14 +583,14 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
-| 2023-07-02 | 204,289 | 2,025 |
+| 2023-07-02 | 204,345 | 2,025 |
 ## Awards
-Max (Diverse Characters): 4,992  (Ranked 64)  
-Sum: 30,351 (Ranked 37)  
+Max (Diverse Characters): 4,995  (Ranked 64)  
+Sum: 30,354 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,992 |
+| This game has Diverse Characters | 4,995 |
 | This game is Great for Beginners | 4,927 |
 | This game has Quickly Understood Controls | 4,639 |
 | This game is Relaxing | 4,536 |
@@ -757,4 +757,4 @@ Diff (max vs sum): 27
 | 2023-06-29 | 4.06 | - | 4,985 | 30,305 |
 | 2023-06-30 | 4.05 | - | 4,985 | 30,318 |
 | 2023-07-01 | 4.05 | - | 4,992 | 30,347 |
-| 2023-07-02 | 4.05 | - | 4,992 | 30,351 |
+| 2023-07-02 | 4.05 | - | 4,995 | 30,354 |

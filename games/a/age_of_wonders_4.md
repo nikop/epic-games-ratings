@@ -26,16 +26,16 @@ Rating: 4.60 (Ranked 388)
 | Here be Dragons | 1.00% | ~49 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Against the Odds | 0.90% | ~44 |
+| Duality | 0.90% | ~44 |
+| Arch Mage | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |
-| Duality | 0.80% | ~39 |
 | Valley of Wonders | 0.70% | ~34 |
 | Return of the Wizard King | 0.70% | ~34 |
-| Arch Mage | 0.70% | ~34 |
+| Eternal Lord | 0.70% | ~34 |
 | Digging for Treasure | 0.70% | ~34 |
 | The Magic That Empowers Me! | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
 | Enchanted Archipelago | 0.60% | ~29 |
-| Eternal Lord | 0.60% | ~29 |
 | God Emperor | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |

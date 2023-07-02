@@ -264,7 +264,7 @@
   "Tags": [],
   "EOS_Progressed": 4901,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4903,9 +4903,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "19",
@@ -4935,9 +4935,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "22",
@@ -5199,9 +5199,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "48",
@@ -5246,8 +5246,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:05:01.9717613+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:05:43.4306321+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:59:29.7365912+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:05:01.971817+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:00:00.857781+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:05:43.4307071+00:00"
 }

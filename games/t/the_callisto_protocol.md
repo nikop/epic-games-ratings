@@ -12,22 +12,22 @@ Rating: 4.19 (Ranked 843)
 | Flesh Wound | 0.80% | ~125 |
 | Two Heads Are Better Than One | 0.80% | ~125 |
 | Chew 'Em Up | 0.80% | ~125 |
+| Reforged | 0.80% | ~125 |
+| It's Time | 0.80% | ~28 |
 | I Do Belong Here | 0.70% | ~109 |
 | Workplace Hazard | 0.70% | ~109 |
 | Float Like A Butterfly | 0.70% | ~109 |
-| Reforged | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
 | Without A Paddle | 0.70% | ~109 |
 | In the Pipe, Five by Five | 0.70% | ~109 |
 | Crash Site | 0.70% | ~109 |
-| It's Time | 0.70% | ~25 |
+| Power Up | 0.70% | ~109 |
 | Giving Back | 0.60% | ~94 |
 | Terminated | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | What Lies Beneath | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
 | Full Circle | 0.60% | ~94 |
-| Power Up | 0.60% | ~94 |
 | The Commonality | 0.50% | ~78 |
 | In Striking Distance | 0.40% | ~62 |
 | One Last Job | 0.40% | ~14 |

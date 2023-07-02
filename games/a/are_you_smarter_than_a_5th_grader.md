@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Exam Time | 83.00% | ~237 |
 | 1st Grade | 43.00% | ~123 |
-| Smarter than a 5th Grader | 35.00% | ~100 |
-| Study Session | 32.00% | ~91 |
+| Smarter than a 5th Grader | 36.00% | ~103 |
+| Study Session | 33.00% | ~94 |
 | Unlucky | 21.00% | ~60 |
 | Exam Practice | 13.00% | ~37 |
 | In The Honor Roll | 9.00% | ~26 |
@@ -16,15 +16,15 @@
 | Full House | 1.00% | ~3 |
 | 3rd Grade | 1.00% | ~3 |
 | "A" Student | 0.70% | ~2 |
-| 4th Grade | 0.40% | ~1 |
-| Prodigy of all Trades | 0.40% | ~1 |
-| Self-Sufficient | 0.40% | ~1 |
+| 4th Grade | 0.30% | ~1 |
+| Prodigy of all Trades | 0.30% | ~1 |
+| Self-Sufficient | 0.30% | ~1 |
 | "A+" Student | 0.00% | ~0 |
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
 | Librarian | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 245)  
+Progressed: 286 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-05 | 282 | 0 |
 | 2023-06-20 | 283 | 0 |
 | 2023-06-22 | 284 | 0 |
-| 2023-07-02 | 285 | 0 |
+| 2023-07-02 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

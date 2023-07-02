@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -48,7 +48,7 @@
   "Tags": [],
   "EOS_Progressed": 506,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.74,
   "EosHistory": [
@@ -1779,9 +1779,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "MQ05_1",
@@ -1811,9 +1811,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "MQ06_1",
@@ -1835,9 +1835,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 233
     },
     {
       "ID": "MQ06_4",
@@ -1908,8 +1908,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:04:38.2099345+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:05:13.6656036+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:57:21.9329789+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:04:38.2099578+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:57:25.8845404+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:05:13.6656338+00:00"
 }

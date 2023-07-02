@@ -5282,9 +5282,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "PRINT_WEAPON",
@@ -5370,9 +5370,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "DISMEMBER_100",
@@ -5474,9 +5474,9 @@
       "ID": "KINETIC_HAMMER",
       "SetID": "6j5ggkc",
       "Name": "It\u0027s Time",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -5505,8 +5505,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-02T08:57:57.9486627+00:00",
-  "LastChanged_Achievements": "2023-07-02T14:04:47.2002377+00:00",
+  "LastChanged_Achievements": "2023-07-02T15:05:24.7589274+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:58:02.4967562+00:00",
-  "LastUpdate_Achievements": "2023-07-02T14:04:47.2002881+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:58:08.1347215+00:00",
+  "LastUpdate_Achievements": "2023-07-02T15:05:24.7589944+00:00"
 }

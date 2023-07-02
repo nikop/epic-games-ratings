@@ -29,8 +29,8 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 13.00% | ~824 |
 | Die Bosniaken Kommen! | 12.00% | ~760 |
 | Machiavelli | 12.00% | ~760 |
+| Dante's Inferno | 11.00% | ~697 |
 | The Devil's Paintbrush | 11.00% | ~697 |
-| Dante's Inferno | 10.00% | ~634 |
 | I Have the High Ground | 10.00% | ~634 |
 | Millenial | 9.00% | ~570 |
 | The Show Must Go On | 8.00% | ~507 |

@@ -12,7 +12,7 @@
 | Nanonic I | 11.00% | ~76 |
 | Challenge Mastered | 9.00% | ~62 |
 | Terminated II | 9.00% | ~62 |
-| Terminated III | 7.00% | ~48 |
+| Terminated III | 8.00% | ~55 |
 | Nanonic II | 6.00% | ~41 |
 | Starship Docks | 5.00% | ~34 |
 | Supply Run | 5.00% | ~34 |
@@ -25,7 +25,7 @@
 | Eden Heights | 2.00% | ~14 |
 | Outer Core | 2.00% | ~14 |
 | Inner Core | 1.00% | ~7 |
-| Integration | 0.90% | ~6 |
+| Integration | 1.00% | ~7 |
 | Destruction | 0.70% | ~5 |
 | Trickshot | 0.70% | ~5 |
 | Ripperdoc | 0.60% | ~4 |

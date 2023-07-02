@@ -52,9 +52,9 @@ Rating: 4.38 (Ranked 710)
 | Five Finger Deathcount | 1.00% | ~12 |
 | Fratricide | 0.90% | ~11 |
 | Alpha Editor | 0.80% | ~10 |
+| Bookworm | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
-| Bookworm | 0.70% | ~8 |
 | Goaaaaal! | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,200 (Ranked 178)  

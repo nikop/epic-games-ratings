@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 30.00% | ~8 |
+| Cabbage in the Baggage | 33.00% | ~9 |
 | Seven Days of Endless Adventure | 26.00% | ~7 |
 | Greengrocer | 26.00% | ~7 |
 | Masu-ter Angler | 15.00% | ~4 |
 | Go-Getter | 15.00% | ~4 |
 | Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~3 |
 | Just Hoverin' Along | 11.00% | ~3 |
+| My Fair Ladybug | 11.00% | ~3 |
 | That Was a Snap! | 11.00% | ~3 |
 | It's Alive! | 11.00% | ~3 |
 | Farm Life! | 11.00% | ~3 |
@@ -19,7 +20,6 @@
 | A New Time | 7.00% | ~2 |
 | Beetle Savant | 7.00% | ~2 |
 | Cicada Connoisseur | 7.00% | ~2 |
-| My Fair Ladybug | 7.00% | ~2 |
 | The Holly Grail | 7.00% | ~2 |
 | What's That Smell? | 7.00% | ~2 |
 | Biwa Be Mine | 7.00% | ~2 |

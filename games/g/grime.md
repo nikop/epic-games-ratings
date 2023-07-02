@@ -20,8 +20,8 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 13.00% | ~80 |
 | Jawcrab | 12.00% | ~73 |
 | Feast | 12.00% | ~73 |
+| Shapely | 11.00% | ~67 |
 | Jawstag | 11.00% | ~67 |
-| Shapely | 10.00% | ~61 |
 | Host | 10.00% | ~20 |
 | Celebration | 9.00% | ~55 |
 | Inevitable | 9.00% | ~55 |
