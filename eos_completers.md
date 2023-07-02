@@ -1,15 +1,15 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.86% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.37% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.08% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.84% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.79% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
@@ -98,10 +98,10 @@
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.11% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
-| 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
+| 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 102 | [Sable](games/s/sable.md) | 0.96% |
+| 102 | [Sable](games/s/sable.md) | 0.97% |
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
