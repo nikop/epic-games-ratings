@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195115,
+  "EOS_Progressed": 195119,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -7850,6 +7850,11 @@
       "Time": "2023-07-02T09:05:53.9109845+00:00",
       "NumProgressed": 195115,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-07-02T10:06:23.7790898+00:00",
+      "NumProgressed": 195119,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 29,
@@ -7885,7 +7890,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183408
+      "UsersEstimate": 183412
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -7933,7 +7938,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -8029,7 +8034,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -8092,7 +8097,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195115,
+      "Progressed": 195119,
       "Completed": 454
     }
   ],
@@ -8100,8 +8105,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:05:53.910984+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:23.7790895+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:37.1895533+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:58:47.9157203+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:05:53.9110341+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:59:09.3587985+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:23.7791599+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -2983,9 +2983,9 @@
       "ID": "ACH008",
       "SetID": "6749a6l",
       "Name": "Oooh, We\u0027re Half Way There",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH009",
@@ -3008,8 +3008,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-29T22:59:53.1657282+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:03.637307+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:33.478115+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.9410166+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:00:08.2994932+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:03.6373338+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:00:33.3456447+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:33.4781477+00:00"
 }

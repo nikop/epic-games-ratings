@@ -2450,7 +2450,7 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 15580,
+  "EOS_Progressed": 15581,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 1,
@@ -6355,6 +6355,11 @@
       "Time": "2023-07-02T09:06:08.8160007+00:00",
       "NumProgressed": 15580,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-02T10:06:39.0465294+00:00",
+      "NumProgressed": 15581,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6532,9 +6537,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 140
     },
     {
       "ID": "WinNearForbidden",
@@ -6765,15 +6770,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15580,
+      "Progressed": 15581,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-01T19:00:30.618046+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:08.8160003+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:39.0465289+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3660816+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:59:53.031244+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:08.8160494+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:00:18.1769736+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:39.0465973+00:00"
 }

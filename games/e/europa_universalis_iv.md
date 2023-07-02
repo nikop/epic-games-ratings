@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,786 |
-| That's a Grand Army | 8.00% | ~5,143 |
-| That is mine! | 8.00% | ~5,143 |
-| Victorious! | 8.00% | ~5,143 |
-| Brothers in Arms | 6.00% | ~3,857 |
-| That's a Grand Navy | 6.00% | ~3,857 |
-| Seriously?! | 6.00% | ~3,857 |
-| For the Glory | 5.00% | ~3,214 |
+| Until death do us apart | 9.00% | ~5,788 |
+| That's a Grand Army | 8.00% | ~5,145 |
+| That is mine! | 8.00% | ~5,145 |
+| Victorious! | 8.00% | ~5,145 |
+| Brothers in Arms | 6.00% | ~3,859 |
+| That's a Grand Navy | 6.00% | ~3,859 |
+| Seriously?! | 6.00% | ~3,859 |
+| For the Glory | 5.00% | ~3,216 |
 | Cold War | 4.00% | ~2,572 |
 | True Catholic | 4.00% | ~2,572 |
 | Defender of the Faith | 3.00% | ~1,929 |
@@ -53,10 +53,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~386 |
 | This is My Faith | 0.60% | ~386 |
 | Time Bandit | 0.60% | ~386 |
-| Grand Coalition | 0.50% | ~321 |
-| Ruina Imperii | 0.50% | ~321 |
-| Trophy Hunter | 0.50% | ~321 |
-| Voting Streak | 0.50% | ~321 |
+| Grand Coalition | 0.50% | ~322 |
+| Ruina Imperii | 0.50% | ~322 |
+| Trophy Hunter | 0.50% | ~322 |
+| Voting Streak | 0.50% | ~322 |
 | Absolutely | 0.40% | ~257 |
 | All Your Trade Are Belong to Us | 0.40% | ~257 |
 | Bleed Them Dry | 0.40% | ~257 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,290 (Ranked 77)  
+Progressed: 64,310 (Ranked 77)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,17 +434,17 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 63,199 | 0 |
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
-| 2023-07-02 | 64,290 | 0 |
+| 2023-07-02 | 64,310 | 0 |
 ## Awards
 Max (Educational): 5,493  (Ranked 61)  
-Sum: 45,286 (Ranked 27)  
+Sum: 45,290 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,493 |
 | This game is Highly Recommended | 5,252 |
 | This game has Challenging Combat | 5,217 |
-| This game is Extremely Fun | 5,200 |
+| This game is Extremely Fun | 5,204 |
 | This game has Diverse Characters | 5,162 |
 | This game is Relaxing | 5,088 |
 | This game has Competitive Players | 4,920 |
@@ -620,4 +620,4 @@ Diff (max vs sum): 34
 | 2023-06-29 | 4.69 | - | 5,476 | 45,217 |
 | 2023-06-30 | 4.69 | - | 5,480 | 45,249 |
 | 2023-07-01 | 4.69 | - | 5,493 | 45,283 |
-| 2023-07-02 | 4.69 | - | 5,493 | 45,286 |
+| 2023-07-02 | 4.69 | - | 5,493 | 45,290 |

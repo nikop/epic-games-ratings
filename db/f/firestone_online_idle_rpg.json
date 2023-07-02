@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3727,6 +3727,11 @@
       "Time": "2023-07-02T09:06:07.7189112+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T10:06:37.9489969+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3970,7 +3975,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "herewegoagain",
@@ -3994,7 +3999,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "hunter",
@@ -4130,7 +4135,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "prestigiousx10",
@@ -4194,7 +4199,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "thealchemist",
@@ -4210,7 +4215,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "thefatherofdragons",
@@ -4258,7 +4263,7 @@
       "Name": "Trader",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -4330,14 +4335,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 1
     }
   ],
@@ -4345,8 +4350,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:07.7189107+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:37.9489963+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:58:04.3165242+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:07.7189863+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:58:24.3675103+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:37.9490983+00:00"
 }

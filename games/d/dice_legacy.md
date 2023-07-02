@@ -26,11 +26,11 @@ Rating: 4.27 (Ranked 792)
 | The First King | 1.00% | ~9 |
 | The great fire | 1.00% | ~9 |
 | The Council | 0.90% | ~8 |
-| The Mad | 0.80% | ~7 |
+| The Mad | 0.90% | ~8 |
 | Like the dream | 0.60% | ~5 |
+| Six Faces | 0.40% | ~4 |
 | Charismatic Leader | 0.40% | ~4 |
 | Metropolis | 0.40% | ~4 |
-| Six Faces | 0.30% | ~3 |
 | The Great Winter | 0.30% | ~3 |
 | Red Tape | 0.30% | ~3 |
 | Knowledge is Power | 0.30% | ~3 |

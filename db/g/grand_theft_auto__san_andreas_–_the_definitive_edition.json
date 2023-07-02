@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 200
     }
   ],
-  "EOS_Progressed": 10913,
+  "EOS_Progressed": 10914,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -6002,6 +6002,11 @@
       "Time": "2023-07-02T07:05:48.2213442+00:00",
       "NumProgressed": 10913,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-02T10:06:36.0481113+00:00",
+      "NumProgressed": 10914,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -6027,9 +6032,9 @@
       "ID": "ACH03",
       "SetID": "4ck5mbe",
       "Name": "The End of the Line",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 655
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH04",
@@ -6061,7 +6066,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ACH08",
@@ -6069,7 +6074,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5456
+      "UsersEstimate": 5457
     },
     {
       "ID": "ACH09",
@@ -6292,7 +6297,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10913,
+      "Progressed": 10914,
       "Completed": 24
     }
   ],
@@ -6300,8 +6305,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:05.8296852+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:36.0481108+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:00:07.669857+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:05.829727+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:00:32.72734+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:36.0481724+00:00"
 }

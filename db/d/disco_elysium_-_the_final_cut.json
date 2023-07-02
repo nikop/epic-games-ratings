@@ -1157,9 +1157,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122561,
+  "EOS_Progressed": 122563,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8182,6 +8182,11 @@
       "Time": "2023-07-02T09:06:04.6679898+00:00",
       "NumProgressed": 122561,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-02T10:06:34.7267139+00:00",
+      "NumProgressed": 122563,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8193,7 +8198,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -8209,7 +8214,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_COP_APO",
@@ -8273,7 +8278,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34317
+      "UsersEstimate": 34318
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8289,7 +8294,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -8305,7 +8310,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24512
+      "UsersEstimate": 24513
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8353,7 +8358,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11030
+      "UsersEstimate": 11031
     },
     {
       "ID": "ACH_GLUTEN",
@@ -8377,7 +8382,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_HARDIE",
@@ -8489,7 +8494,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -8512,15 +8517,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122561,
+      "Progressed": 122563,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-30T20:59:08.4350341+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:04.6679889+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:34.7267133+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:59:03.4076706+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:04.6680446+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:59:27.3870483+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:34.7267903+00:00"
 }

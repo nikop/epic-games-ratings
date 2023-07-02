@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658744,
+  "EOS_Progressed": 658746,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7701,6 +7701,11 @@
       "Time": "2023-07-02T09:06:04.6727931+00:00",
       "NumProgressed": 658744,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-02T10:06:34.8868743+00:00",
+      "NumProgressed": 658746,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7712,7 +7717,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474296
+      "UsersEstimate": 474297
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7720,7 +7725,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382072
+      "UsersEstimate": 382073
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7728,7 +7733,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151511
+      "UsersEstimate": 151512
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -7776,7 +7781,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65874
+      "UsersEstimate": 65875
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -7808,7 +7813,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65874
+      "UsersEstimate": 65875
     },
     {
       "ID": "Achievement_14_Magician",
@@ -7848,7 +7853,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151511
+      "UsersEstimate": 151512
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -7864,7 +7869,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111986
+      "UsersEstimate": 111987
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -7952,7 +7957,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79049
+      "UsersEstimate": 79050
     },
     {
       "ID": "Achievement_32_Karma",
@@ -8095,15 +8100,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658744,
+      "Progressed": 658746,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:06:04.6727929+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:06:34.8868738+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:57:42.3509654+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:06:04.6728511+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:58:04.1425351+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:06:34.8869557+00:00"
 }

@@ -41,7 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 1.00% | ~156 |
 | Defying the Crown | 1.00% | ~156 |
 | Into the Forest | 1.00% | ~156 |
-| Fishmen Ritual Site | 0.80% | ~125 |
+| Fishmen Ritual Site | 0.90% | ~140 |
 | Efficient Explorer | 0.70% | ~109 |
 | Prestigious Expedition | 0.60% | ~93 |
 | Blood Flower Farmer | 0.60% | ~93 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,580 (Ranked 107)  
+Progressed: 15,581 (Ranked 107)  
 Completed: 39 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 39 (0.25%) (Ranked 150)
 | 2023-06-29 | 15,527 | 39 |
 | 2023-06-30 | 15,543 | 39 |
 | 2023-07-01 | 15,569 | 39 |
-| 2023-07-02 | 15,580 | 39 |
+| 2023-07-02 | 15,581 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,059 (Ranked 155)  

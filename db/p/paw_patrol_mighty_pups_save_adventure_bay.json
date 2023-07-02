@@ -236,9 +236,9 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "26",
@@ -316,9 +316,9 @@
       "ID": "8",
       "SetID": "38ide56",
       "Name": "Mountain and Ice",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "9",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:00:41.1526283+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:03:07.4640369+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:26.8747885+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:59:18.3384537+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:00:41.1526467+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:59:44.220585+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:03:07.46406+00:00"
 }

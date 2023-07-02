@@ -11,6 +11,7 @@ Rating: 4.45 (Ranked 617)
 | Taking it back | 0.60% | ~19 |
 | Climbing the Ladder | 0.50% | ~16 |
 | Meeting Resistance | 0.50% | ~16 |
+| Gunslinger | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
 | The Kraken Wakes | 0.50% | ~16 |
 | It's Starting to Crack | 0.50% | ~16 |
@@ -19,13 +20,13 @@ Rating: 4.45 (Ranked 617)
 | Liberté | 0.40% | ~13 |
 | No Stone Unturned | 0.40% | ~13 |
 | Organ Grinder | 0.40% | ~13 |
-| Gunslinger | 0.40% | ~13 |
 | Sharpshooter | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | Opposing Force | 0.30% | ~10 |
 | Enemy at the Gates | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
+| Precision Is Key | 0.30% | ~10 |
 | My Little Friend | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
@@ -34,7 +35,6 @@ Rating: 4.45 (Ranked 617)
 | Brains of the Operation | 0.30% | ~10 |
 | Fields of Glory | 0.20% | ~6 |
 | Skirmisher | 0.20% | ~6 |
-| Precision Is Key | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,190 (Ranked 145)  
+Progressed: 3,191 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 6 (0.19%) (Ranked 162)
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
-| 2023-07-02 | 3,190 | 6 |
+| 2023-07-02 | 3,191 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

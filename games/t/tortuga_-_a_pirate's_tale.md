@@ -26,7 +26,7 @@ Rating: 3.82 (Ranked 934)
 | A True Dandy | 2.00% | ~316 |
 | A New Legend Awaits | 1.00% | ~158 |
 | Pirate King | 0.80% | ~127 |
-| Oooh, We're Half Way There | 0.70% | ~111 |
+| Oooh, We're Half Way There | 0.80% | ~127 |
 | Devilishly Talented | 0.10% | ~16 |
 | Heavy Tunaing | 0.10% | ~16 |
 | Pufferfish | 0.10% | ~16 |

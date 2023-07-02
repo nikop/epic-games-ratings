@@ -4898,9 +4898,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "19",
@@ -5241,8 +5241,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:05:15.4611359+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:05:45.8462256+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:59:23.5387248+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:05:15.4611928+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:59:48.951353+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:05:45.8462983+00:00"
 }

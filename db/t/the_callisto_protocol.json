@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -832,7 +832,7 @@
   ],
   "EOS_Progressed": 15611,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5229,17 +5229,17 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "KILL_ROBOT",
@@ -5500,8 +5500,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-02T08:57:57.9486627+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:04:59.1196528+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:05:30.2211844+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:57:57.9486632+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:04:59.1197037+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:58:18.3384245+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:05:30.2212529+00:00"
 }

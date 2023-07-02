@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3002,9 +3002,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10133,
+  "EOS_Progressed": 10134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7632,6 +7632,11 @@
       "Time": "2023-07-02T08:01:19.6468924+00:00",
       "NumProgressed": 10133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T10:00:58.2059263+00:00",
+      "NumProgressed": 10134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7961,9 +7966,9 @@
       "ID": "42_JustPathetic",
       "SetID": "989of5o",
       "Name": "Just Pathetic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "43_DreadfulDragon",
@@ -8570,21 +8575,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8915,
+      "Progressed": 8916,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10133,
+      "Progressed": 10134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-02T02:29:06.2321064+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:00:30.8066106+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:00:58.2059257+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:58:25.2695482+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:00:30.8067623+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:58:45.4695049+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:00:58.2061326+00:00"
 }

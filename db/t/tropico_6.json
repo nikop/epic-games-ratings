@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -972,7 +972,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3921,
+  "EOS_Progressed": 3922,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -5437,6 +5437,11 @@
       "Time": "2023-07-02T09:03:40.2462429+00:00",
       "NumProgressed": 3921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T10:04:29.4130428+00:00",
+      "NumProgressed": 3922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5456,7 +5461,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -5504,15 +5509,15 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -5520,7 +5525,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5544,7 +5549,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5608,7 +5613,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5704,7 +5709,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5767,15 +5772,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3921,
+      "Progressed": 3922,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-02T09:03:40.2462424+00:00",
+  "LastChanged_Achievements": "2023-07-02T10:04:29.4130421+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:00:06.0678274+00:00",
-  "LastUpdate_Achievements": "2023-07-02T09:03:40.2462888+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:00:30.6332489+00:00",
+  "LastUpdate_Achievements": "2023-07-02T10:04:29.4131003+00:00"
 }

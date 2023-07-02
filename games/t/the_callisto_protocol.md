@@ -10,9 +10,9 @@ Rating: 4.19 (Ranked 843)
 | Keep Fighting | 1.00% | ~35 |
 | You Need a Gun | 0.80% | ~125 |
 | Flesh Wound | 0.80% | ~125 |
+| Two Heads Are Better Than One | 0.80% | ~125 |
+| Chew 'Em Up | 0.80% | ~125 |
 | I Do Belong Here | 0.70% | ~109 |
-| Two Heads Are Better Than One | 0.70% | ~109 |
-| Chew 'Em Up | 0.70% | ~109 |
 | Workplace Hazard | 0.70% | ~109 |
 | Float Like A Butterfly | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |

@@ -20,16 +20,16 @@
 | Animal Sighting | 36.00% | ~4 |
 | Mandy Family | 36.00% | ~4 |
 | Never Miss | 27.00% | ~3 |
+| You Have Been Everywhere | 27.00% | ~3 |
 | Everything Under Control | 18.00% | ~2 |
 | In the Air | 18.00% | ~2 |
 | Clear the Road | 18.00% | ~2 |
-| You Have Been Everywhere | 18.00% | ~2 |
+| Mountain and Ice | 18.00% | ~2 |
 | Adventure Bay’s Citizen | 18.00% | ~2 |
 | King of the Mountain | 9.00% | ~1 |
 | A Great Explorer | 9.00% | ~1 |
 | Nothing Can Stop You | 9.00% | ~1 |
 | Don’t Miss Any | 9.00% | ~1 |
-| Mountain and Ice | 9.00% | ~1 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
