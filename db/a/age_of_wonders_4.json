@@ -4874,9 +4874,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "16",
@@ -5010,9 +5010,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "31",
@@ -5241,8 +5241,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:05:45.8462256+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:06:13.164512+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:59:48.951353+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:05:45.8462983+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:00:08.9055916+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:06:13.1645688+00:00"
 }

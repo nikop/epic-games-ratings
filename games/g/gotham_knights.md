@@ -20,21 +20,21 @@ Rating: 4.18 (Ranked 849)
 | Whispered Words | 3.00% | ~1,988 |
 | Lock and Key | 3.00% | ~1,988 |
 | Bad Apples in Every Orchard | 3.00% | ~1,988 |
-| End of an Era | 2.00% | ~1,325 |
-| In Your Element | 2.00% | ~1,325 |
-| Protector of Gotham | 2.00% | ~1,325 |
-| The Show Mud Go On | 2.00% | ~1,325 |
-| Rock and a Hard Place | 2.00% | ~1,325 |
-| Not On My Watch | 2.00% | ~1,325 |
-| Bulldozed | 2.00% | ~1,325 |
-| Shock Til They Drop | 2.00% | ~1,325 |
-| Cooldown | 2.00% | ~1,325 |
-| Universal Health Scare | 2.00% | ~1,325 |
-| From Inside Gotham's Walls | 2.00% | ~1,325 |
-| Voiceless | 2.00% | ~1,325 |
-| Seeking Asylum | 2.00% | ~1,325 |
-| Gotham Knight | 2.00% | ~1,325 |
-| Gotham City Confidential | 2.00% | ~1,325 |
+| End of an Era | 2.00% | ~1,326 |
+| In Your Element | 2.00% | ~1,326 |
+| Protector of Gotham | 2.00% | ~1,326 |
+| The Show Mud Go On | 2.00% | ~1,326 |
+| Rock and a Hard Place | 2.00% | ~1,326 |
+| Not On My Watch | 2.00% | ~1,326 |
+| Bulldozed | 2.00% | ~1,326 |
+| Shock Til They Drop | 2.00% | ~1,326 |
+| Cooldown | 2.00% | ~1,326 |
+| Universal Health Scare | 2.00% | ~1,326 |
+| From Inside Gotham's Walls | 2.00% | ~1,326 |
+| Voiceless | 2.00% | ~1,326 |
+| Seeking Asylum | 2.00% | ~1,326 |
+| Gotham Knight | 2.00% | ~1,326 |
+| Gotham City Confidential | 2.00% | ~1,326 |
 | Fusion Expert | 1.00% | ~663 |
 | Out of Their League | 1.00% | ~663 |
 | Drone You Out | 1.00% | ~663 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 849)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,274 (Ranked 73)  
+Progressed: 66,275 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-29 | 66,114 | 99 |
 | 2023-06-30 | 66,172 | 99 |
 | 2023-07-01 | 66,242 | 100 |
-| 2023-07-02 | 66,274 | 100 |
+| 2023-07-02 | 66,275 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,407  (Ranked 99)  
 Sum: 3,983 (Ranked 137)  

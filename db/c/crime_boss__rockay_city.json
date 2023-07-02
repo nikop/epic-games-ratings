@@ -2334,9 +2334,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68176,
+  "EOS_Progressed": 68177,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9994,6 +9994,11 @@
       "Time": "2023-07-02T10:04:03.5943236+00:00",
       "NumProgressed": 68176,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-02T11:03:59.881284+00:00",
+      "NumProgressed": 68177,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10149,7 +10154,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44314
+      "UsersEstimate": 44315
     },
     {
       "ID": "ACH_0210",
@@ -10157,7 +10162,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50450
+      "UsersEstimate": 50451
     },
     {
       "ID": "ACH_0211",
@@ -10253,7 +10258,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "ACH_0450",
@@ -10261,7 +10266,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "ACH_0451",
@@ -10300,7 +10305,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68176,
+      "Progressed": 68177,
       "Completed": 35
     }
   ],
@@ -10308,8 +10313,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-01T20:00:33.151208+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:04:03.594323+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:03:59.8812831+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:17.6122788+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:04:03.5943995+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:00:46.5209113+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:03:59.8813389+00:00"
 }

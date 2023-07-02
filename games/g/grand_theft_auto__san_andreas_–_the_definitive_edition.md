@@ -11,8 +11,8 @@ Rating: 4.56 (Ranked 457)
 | The American Dream | 18.00% | ~1,965 |
 | School's Out | 17.00% | ~1,855 |
 | Smooth Moves | 16.00% | ~1,746 |
+| What happens in Las Venturas... | 14.00% | ~1,528 |
 | Today Was a Good Day | 14.00% | ~1,528 |
-| What happens in Las Venturas... | 13.00% | ~1,419 |
 | Horror of the Santa Maria | 10.00% | ~1,091 |
 | Liberty City State of Mind | 8.00% | ~873 |
 | The End of the Line | 7.00% | ~764 |

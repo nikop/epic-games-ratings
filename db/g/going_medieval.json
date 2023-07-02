@@ -1126,7 +1126,7 @@
   ],
   "EOS_Progressed": 4289,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4551,9 +4551,9 @@
       "ID": "SURVIVE_FIRST_RAID",
       "SetID": "5349c2e",
       "Name": "...And Don\u2019t Come Back!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1673
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -4639,8 +4639,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:06:31.0392959+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:07:11.5659471+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:10.8256121+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:06:31.0393385+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:00:37.2174364+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:07:11.5659804+00:00"
 }

@@ -365,9 +365,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -413,9 +413,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -605,9 +605,9 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -622,8 +622,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:06:29.3903591+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:07:09.6152035+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:52.1740949+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:02.0060118+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:06:29.3904012+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:00:26.7850502+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:07:09.6152351+00:00"
 }

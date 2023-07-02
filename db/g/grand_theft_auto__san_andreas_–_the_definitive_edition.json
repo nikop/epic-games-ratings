@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -504,7 +504,7 @@
   ],
   "EOS_Progressed": 10914,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -6184,9 +6184,9 @@
       "ID": "ACH22",
       "SetID": "4ck5mbe",
       "Name": "What happens in Las Venturas...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH23",
@@ -6305,8 +6305,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:06:36.0481108+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:07:17.4140536+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:32.72734+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:06:36.0481724+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:01:03.4959974+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:07:17.4140996+00:00"
 }

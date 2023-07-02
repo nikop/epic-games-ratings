@@ -628,9 +628,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 252247,
+  "EOS_Progressed": 252250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8018,6 +8018,11 @@
       "Time": "2023-07-02T10:04:51.6956431+00:00",
       "NumProgressed": 252247,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T11:05:02.8707617+00:00",
+      "NumProgressed": 252250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8029,7 +8034,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17657
+      "UsersEstimate": 17658
     },
     {
       "ID": "Act2",
@@ -8077,7 +8082,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78197
+      "UsersEstimate": 78198
     },
     {
       "ID": "BackHomeNTimes",
@@ -8261,7 +8266,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "KillCrawlingThing",
@@ -8301,7 +8306,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7567
+      "UsersEstimate": 7568
     },
     {
       "ID": "KillOtherWithMine",
@@ -8317,7 +8322,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55494
+      "UsersEstimate": 55495
     },
     {
       "ID": "KillOthers2",
@@ -8476,7 +8481,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252247,
+      "Progressed": 252250,
       "Completed": 2
     }
   ],
@@ -8484,8 +8489,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-02T03:24:31.4758884+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:04:51.6956425+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:05:02.8707611+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:35.0195287+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:04:51.6957381+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:01:06.665615+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:05:02.8708349+00:00"
 }

@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7007,
+  "EOS_Progressed": 7008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7105,6 +7105,11 @@
       "Time": "2023-07-02T10:04:23.3328283+00:00",
       "NumProgressed": 7007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T11:04:25.5273055+00:00",
+      "NumProgressed": 7008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7116,7 +7121,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "10",
@@ -7156,7 +7161,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "15",
@@ -7204,7 +7209,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "20",
@@ -7228,7 +7233,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "23",
@@ -7236,7 +7241,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "24",
@@ -7268,7 +7273,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "28",
@@ -7276,7 +7281,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "29",
@@ -7340,7 +7345,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "36",
@@ -7364,7 +7369,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "39",
@@ -7372,7 +7377,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "4",
@@ -7388,7 +7393,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "41",
@@ -7396,7 +7401,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "42",
@@ -7444,7 +7449,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "48",
@@ -7540,7 +7545,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "59",
@@ -7564,7 +7569,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "8",
@@ -7587,15 +7592,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7007,
+      "Progressed": 7008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:04:23.3328279+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:04:25.5273049+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:00:16.2684931+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:04:23.3329218+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:00:44.7592274+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:04:25.5273772+00:00"
 }

@@ -6,36 +6,36 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~586,830 |
-| Right Back At Ya | 38.00% | ~327,935 |
-| The Lovers | 34.00% | ~293,415 |
-| Stanislavski's Method | 28.00% | ~241,636 |
-| The Wheel of Fortune | 26.00% | ~224,376 |
-| The Hermit | 24.00% | ~207,117 |
-| Christmas Tree Attack | 22.00% | ~189,857 |
-| True Soldier | 22.00% | ~189,857 |
-| The High Priestess | 21.00% | ~181,227 |
-| Legend of The Afterlife | 21.00% | ~181,227 |
-| Life of the Road | 20.00% | ~172,597 |
-| Full Body Conversion | 17.00% | ~146,708 |
-| The World | 17.00% | ~146,708 |
-| Bushido and Chill | 16.00% | ~138,078 |
-| Gun Fu | 14.00% | ~120,818 |
-| True Warrior | 14.00% | ~120,818 |
-| To Protect and Serve | 13.00% | ~112,188 |
-| Master Crafter | 13.00% | ~112,188 |
-| I Am The Law | 13.00% | ~112,188 |
-| Judy vs Night City | 13.00% | ~112,188 |
-| Two Heads, One Bullet | 11.00% | ~94,928 |
-| The Wandering Fool | 9.00% | ~77,669 |
-| The Quick and the Dead | 9.00% | ~77,669 |
-| Ten out of Ten | 8.00% | ~69,039 |
-| Breathtaking | 7.00% | ~60,409 |
-| To Bad Decisions! | 6.00% | ~51,779 |
-| The Star | 6.00% | ~51,779 |
-| The Sun | 6.00% | ~51,779 |
-| Must Be Rats | 4.00% | ~34,519 |
-| Temperance | 4.00% | ~34,519 |
+| The Fool | 68.00% | ~586,837 |
+| Right Back At Ya | 38.00% | ~327,938 |
+| The Lovers | 34.00% | ~293,419 |
+| Stanislavski's Method | 28.00% | ~241,639 |
+| The Wheel of Fortune | 26.00% | ~224,379 |
+| The Hermit | 24.00% | ~207,119 |
+| Christmas Tree Attack | 22.00% | ~189,859 |
+| True Soldier | 22.00% | ~189,859 |
+| The High Priestess | 21.00% | ~181,229 |
+| Legend of The Afterlife | 21.00% | ~181,229 |
+| Life of the Road | 20.00% | ~172,599 |
+| Full Body Conversion | 17.00% | ~146,709 |
+| The World | 17.00% | ~146,709 |
+| Bushido and Chill | 16.00% | ~138,079 |
+| Gun Fu | 14.00% | ~120,819 |
+| True Warrior | 14.00% | ~120,819 |
+| To Protect and Serve | 13.00% | ~112,189 |
+| Master Crafter | 13.00% | ~112,189 |
+| I Am The Law | 13.00% | ~112,189 |
+| Judy vs Night City | 13.00% | ~112,189 |
+| Two Heads, One Bullet | 11.00% | ~94,930 |
+| The Wandering Fool | 9.00% | ~77,670 |
+| The Quick and the Dead | 9.00% | ~77,670 |
+| Ten out of Ten | 8.00% | ~69,040 |
+| Breathtaking | 7.00% | ~60,410 |
+| To Bad Decisions! | 6.00% | ~51,780 |
+| The Star | 6.00% | ~51,780 |
+| The Sun | 6.00% | ~51,780 |
+| Must Be Rats | 4.00% | ~34,520 |
+| Temperance | 4.00% | ~34,520 |
 | City Lights | 3.00% | ~25,890 |
 | Mean Streets | 3.00% | ~25,890 |
 | Little Tokyo | 3.00% | ~25,890 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,630 |
 | Rough Landing | 0.50% | ~4,315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862,986 (Ranked 14)  
-Completed: 1,818 (0.21%) (Ranked 159)  
+Progressed: 862,996 (Ranked 14)  
+Completed: 1,819 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,10 +124,10 @@ Completed: 1,818 (0.21%) (Ranked 159)
 | 2023-06-29 | 862,255 | 1,810 |
 | 2023-06-30 | 862,542 | 1,812 |
 | 2023-07-01 | 862,856 | 1,816 |
-| 2023-07-02 | 862,986 | 1,818 |
+| 2023-07-02 | 862,996 | 1,819 |
 ## Awards
 Max (Character Customization): 71,789  (Ranked 9)  
-Sum: 187,800 (Ranked 13)  
+Sum: 187,820 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -141,7 +141,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 8,039 |
 | This game has Quickly Understood Controls | 7,917 |
 | This game has Amazing Characters | 7,876 |
-| This game has a Creative Community | 5,197 |
+| This game has a Creative Community | 5,217 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -309,4 +309,4 @@ Diff (max vs sum): -4
 | 2023-06-29 | 4.62 | - | 71,541 | 187,023 |
 | 2023-06-30 | 4.62 | - | 71,663 | 187,387 |
 | 2023-07-01 | 4.62 | - | 71,789 | 187,747 |
-| 2023-07-02 | 4.62 | - | 71,789 | 187,800 |
+| 2023-07-02 | 4.62 | - | 71,789 | 187,820 |

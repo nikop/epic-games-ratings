@@ -16,7 +16,7 @@
 | Easy and steady climb | 29.00% | ~107 |
 | At the heart of the city | 26.00% | ~96 |
 | Calm neighborhood | 25.00% | ~92 |
-| Elevated ring | 23.00% | ~85 |
+| Elevated ring | 24.00% | ~89 |
 | Not lonely anymore | 22.00% | ~81 |
 | Monumental tribute | 21.00% | ~78 |
 | The beach is right there | 20.00% | ~74 |

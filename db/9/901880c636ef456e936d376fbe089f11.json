@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:04:39.5540179+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:04:46.6528476+00:00",
   "LastUpdate_AppInfo": "2023-06-27T03:57:08.4419995+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:57:25.0432401+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:04:39.5540677+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:57:02.7734384+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:04:46.652887+00:00"
 }

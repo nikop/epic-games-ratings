@@ -23,13 +23,13 @@
 | Quartermaster | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
+| Trouble at Fort Larius | 3.00% | ~3 |
 | Supercargo | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Been There | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Merchant | 2.00% | ~2 |
-| Trouble at Fort Larius | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |

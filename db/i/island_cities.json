@@ -1833,9 +1833,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "LEVEL_014",
@@ -1922,8 +1922,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-02T10:06:23.6006765+00:00",
+  "LastChanged_Achievements": "2023-07-02T11:07:02.4679672+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.9215727+00:00",
-  "LastUpdate_Ratings": "2023-07-02T09:58:26.3103137+00:00",
-  "LastUpdate_Achievements": "2023-07-02T10:06:23.6007027+00:00"
+  "LastUpdate_Ratings": "2023-07-02T10:58:21.6661491+00:00",
+  "LastUpdate_Achievements": "2023-07-02T11:07:02.4679863+00:00"
 }

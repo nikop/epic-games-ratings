@@ -6,17 +6,17 @@ Rating: 4.49 (Ranked 568)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~20,576 |
-| Advancement | 73.00% | ~17,465 |
-| Meticulously Efficient | 64.00% | ~15,312 |
-| Discovery | 61.00% | ~14,594 |
+| Advancement | 73.00% | ~17,466 |
+| Meticulously Efficient | 64.00% | ~15,313 |
+| Discovery | 61.00% | ~14,595 |
 | Swift Rift Removers | 55.00% | ~13,159 |
 | Fully Upgraded | 54.00% | ~12,920 |
-| Cultured | 52.00% | ~12,441 |
+| Cultured | 52.00% | ~12,442 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,202 |
 | Vaporous Expansion | 48.00% | ~11,484 |
 | Teamwork | 44.00% | ~10,527 |
 | There you are! | 43.00% | ~10,288 |
-| Clutch Capture | 41.00% | ~9,809 |
+| Clutch Capture | 41.00% | ~9,810 |
 | Back Off | 35.00% | ~8,374 |
 | Daily Dose | 35.00% | ~8,374 |
 | Solo Capture | 32.00% | ~7,656 |
@@ -27,37 +27,37 @@ Rating: 4.49 (Ranked 568)
 | We have the best insurance | 27.00% | ~6,460 |
 | Legions | 27.00% | ~6,460 |
 | Summoner | 27.00% | ~6,460 |
-| Pesky Jerks | 26.00% | ~6,220 |
-| Right back at ya | 26.00% | ~6,220 |
-| Stunner | 26.00% | ~6,220 |
+| Pesky Jerks | 26.00% | ~6,221 |
+| Right back at ya | 26.00% | ~6,221 |
+| Stunner | 26.00% | ~6,221 |
 | Animated | 24.00% | ~5,742 |
 | Skilled | 24.00% | ~5,742 |
 | Collector | 23.00% | ~5,503 |
 | Ectoplasmic Entity | 23.00% | ~5,503 |
 | Rift Destroyer | 20.00% | ~4,785 |
-| Terrifying | 18.00% | ~4,306 |
-| Tobin's Prodigy | 18.00% | ~4,306 |
+| Terrifying | 18.00% | ~4,307 |
+| Tobin's Prodigy | 18.00% | ~4,307 |
 | Reckless | 17.00% | ~4,067 |
 | Diabolical | 16.00% | ~3,828 |
 | Escape Artist | 16.00% | ~3,828 |
 | Seasoned | 16.00% | ~3,828 |
 | Whoopsie | 11.00% | ~2,632 |
-| Liability | 10.00% | ~2,392 |
-| Rivalry | 10.00% | ~2,392 |
+| Liability | 10.00% | ~2,393 |
+| Rivalry | 10.00% | ~2,393 |
 | Fragile Panes | 9.00% | ~2,153 |
 | Surprise! | 9.00% | ~2,153 |
 | Master Collector | 7.00% | ~1,675 |
 | Rift Seeker | 7.00% | ~1,675 |
 | Therapeutic | 7.00% | ~1,675 |
 | Ghost Expert | 3.00% | ~718 |
-| Catostrophic Destroyer | 2.00% | ~478 |
-| Line em' up | 2.00% | ~478 |
-| Little Help Here | 2.00% | ~478 |
-| Ultimate Defense | 2.00% | ~478 |
+| Catostrophic Destroyer | 2.00% | ~479 |
+| Line em' up | 2.00% | ~479 |
+| Little Help Here | 2.00% | ~479 |
+| Ultimate Defense | 2.00% | ~479 |
 | Mycophile | 1.00% | ~239 |
 | I don't need these | 0.90% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,925 (Ranked 96)  
+Progressed: 23,926 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,17 +130,17 @@ Completed: 46 (0.19%) (Ranked 162)
 | 2023-06-29 | 23,862 | 46 |
 | 2023-06-30 | 23,891 | 46 |
 | 2023-07-01 | 23,917 | 46 |
-| 2023-07-02 | 23,925 | 46 |
+| 2023-07-02 | 23,926 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
-Sum: 2,142 (Ranked 186)  
+Sum: 2,143 (Ranked 186)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 239 |
 | This game is Great for Beginners | 228 |
 | This game has Competitive Players | 221 |
-| This game has Diverse Characters | 216 |
+| This game has Diverse Characters | 217 |
 | This game has Amazing Storytelling | 215 |
 | This game is Extremely Fun | 210 |
 | This game is Highly Recommended | 209 |
@@ -253,3 +253,4 @@ Diff (max vs sum): 63
 | 2023-06-29 | 4.49 | 239 | 2,138 |
 | 2023-06-30 | 4.49 | 239 | 2,139 |
 | 2023-07-01 | 4.49 | 239 | 2,142 |
+| 2023-07-02 | 4.49 | 239 | 2,143 |

@@ -8,21 +8,21 @@ Rating: 4.45 (Ranked 617)
 | Target America | 0.80% | ~26 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
+| The Kraken Wakes | 0.60% | ~19 |
 | Taking it back | 0.60% | ~19 |
 | Climbing the Ladder | 0.50% | ~16 |
+| Organ Grinder | 0.50% | ~16 |
 | Meeting Resistance | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
+| Sharpshooter | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
-| The Kraken Wakes | 0.50% | ~16 |
 | It's Starting to Crack | 0.50% | ~16 |
 | Change the Channel | 0.50% | ~16 |
 | The Kraken Sleeps | 0.50% | ~16 |
 | Liberté | 0.40% | ~13 |
 | No Stone Unturned | 0.40% | ~13 |
-| Organ Grinder | 0.40% | ~13 |
-| Sharpshooter | 0.40% | ~13 |
+| Opposing Force | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
-| Opposing Force | 0.30% | ~10 |
 | Enemy at the Gates | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,191 (Ranked 145)  
+Progressed: 3,192 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 6 (0.19%) (Ranked 162)
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
-| 2023-07-02 | 3,191 | 6 |
+| 2023-07-02 | 3,192 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
