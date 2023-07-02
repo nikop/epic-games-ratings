@@ -5,7 +5,7 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 21.92% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 20.00% |
@@ -17,7 +17,7 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.16% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.11% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
@@ -105,7 +105,7 @@
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
@@ -415,6 +415,7 @@
 | 232 | [Rogue Spirit](games/r/rogue_spirit.md) | 0.00% |
 | 232 | [Runbow](games/r/runbow.md) | 0.00% |
 | 232 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
+| 232 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 0.00% |
 | 232 | [Scathe](games/s/scathe.md) | 0.00% |
 | 232 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 232 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.00% |
