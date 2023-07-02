@@ -6,14 +6,14 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~586,767 |
-| Right Back At Ya | 38.00% | ~327,899 |
+| The Fool | 68.00% | ~586,769 |
+| Right Back At Ya | 38.00% | ~327,900 |
 | The Lovers | 34.00% | ~293,384 |
-| Stanislavski's Method | 28.00% | ~241,610 |
-| The Wheel of Fortune | 26.00% | ~224,352 |
-| The Hermit | 24.00% | ~207,094 |
-| Christmas Tree Attack | 22.00% | ~189,836 |
-| True Soldier | 22.00% | ~189,836 |
+| Stanislavski's Method | 28.00% | ~241,611 |
+| The Wheel of Fortune | 26.00% | ~224,353 |
+| The Hermit | 24.00% | ~207,095 |
+| Christmas Tree Attack | 22.00% | ~189,837 |
+| True Soldier | 22.00% | ~189,837 |
 | The High Priestess | 21.00% | ~181,208 |
 | Legend of The Afterlife | 21.00% | ~181,208 |
 | Life of the Road | 20.00% | ~172,579 |
@@ -27,9 +27,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 13.00% | ~112,176 |
 | Judy vs Night City | 13.00% | ~112,176 |
 | Two Heads, One Bullet | 11.00% | ~94,918 |
-| The Wandering Fool | 9.00% | ~77,660 |
-| The Quick and the Dead | 9.00% | ~77,660 |
-| Ten out of Ten | 8.00% | ~69,031 |
+| The Wandering Fool | 9.00% | ~77,661 |
+| The Quick and the Dead | 9.00% | ~77,661 |
+| Ten out of Ten | 8.00% | ~69,032 |
 | Breathtaking | 7.00% | ~60,403 |
 | To Bad Decisions! | 6.00% | ~51,774 |
 | The Star | 6.00% | ~51,774 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,629 |
 | Rough Landing | 0.50% | ~4,314 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862,893 (Ranked 14)  
+Progressed: 862,895 (Ranked 14)  
 Completed: 1,818 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,10 +124,10 @@ Completed: 1,818 (0.21%) (Ranked 159)
 | 2023-06-29 | 862,255 | 1,810 |
 | 2023-06-30 | 862,542 | 1,812 |
 | 2023-07-01 | 862,856 | 1,816 |
-| 2023-07-02 | 862,893 | 1,818 |
+| 2023-07-02 | 862,895 | 1,818 |
 ## Awards
 Max (Character Customization): 71,789  (Ranked 9)  
-Sum: 187,762 (Ranked 13)  
+Sum: 187,781 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -135,7 +135,7 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 46,082 |
 | This game has Diverse Characters | 8,262 |
 | This game has Amazing Storytelling | 8,238 |
-| This game is Great for Beginners | 8,194 |
+| This game is Great for Beginners | 8,213 |
 | This game is Extremely Fun | 8,106 |
 | This game is Highly Recommended | 8,062 |
 | This game is Relaxing | 8,039 |
@@ -309,4 +309,4 @@ Diff (max vs sum): -4
 | 2023-06-29 | 4.62 | - | 71,541 | 187,023 |
 | 2023-06-30 | 4.62 | - | 71,663 | 187,387 |
 | 2023-07-01 | 4.62 | - | 71,789 | 187,747 |
-| 2023-07-02 | 4.62 | - | 71,789 | 187,762 |
+| 2023-07-02 | 4.62 | - | 71,789 | 187,781 |

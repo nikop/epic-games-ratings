@@ -5279,9 +5279,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 156
     },
     {
       "ID": "SHARE_PHOTO",
@@ -5494,8 +5494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T17:58:22.7369369+00:00",
-  "LastChanged_Achievements": "2023-07-02T03:29:07.4103009+00:00",
+  "LastChanged_Achievements": "2023-07-02T04:06:07.7626998+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:21:21.7773625+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:29:07.4103715+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:58:24.7337566+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:06:07.7627656+00:00"
 }

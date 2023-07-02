@@ -4,7 +4,7 @@
   "ProductSlug": "toem",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-17T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.289294+00:00",
   "LastChanged": "2023-03-31T05:57:26.2892941+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:38.501244+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:23:35.1397384+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:29:37.7564887+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:00:31.7514016+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:06:37.6703127+00:00"
 }

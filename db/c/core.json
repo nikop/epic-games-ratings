@@ -2,12 +2,12 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 718,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -1809,10 +1809,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 1937,
       "NumberOfAwardsMax": 738
+    },
+    {
+      "Time": "2023-07-02T04:00:00.8111139+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1937,
+  "NumberOfAwards": 1938,
   "NumberOfAwardsMax": 738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1856,7 +1862,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game has Easy Combat",
@@ -1906,8 +1912,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-07-01T13:58:50.1168202+00:00",
+  "LastChanged": "2023-07-02T04:00:00.8111137+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:03.9528432+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:23:00.2445142+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:29:18.524742+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:00:00.8111144+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:06:18.8673589+00:00"
 }

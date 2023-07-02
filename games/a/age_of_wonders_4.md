@@ -8,6 +8,7 @@ Rating: 4.59 (Ranked 410)
 | Secret Technique | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
+| Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |
 | Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
@@ -20,7 +21,6 @@ Rating: 4.59 (Ranked 410)
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
-| Mighty Hoard | 1.00% | ~49 |
 | Full Ascension | 0.90% | ~44 |
 | Seat of Power | 0.90% | ~44 |
 | Fiery Friend | 0.90% | ~44 |

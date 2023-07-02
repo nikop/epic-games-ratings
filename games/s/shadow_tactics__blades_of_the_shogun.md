@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~18,241 |
-| Thorough | 9.00% | ~16,417 |
+| Genin | 10.00% | ~18,242 |
+| Thorough | 9.00% | ~16,418 |
 | A thief's beginning | 8.00% | ~14,593 |
 | Disguised | 7.00% | ~12,769 |
 | Rescue Takuma | 7.00% | ~12,769 |
@@ -18,18 +18,18 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 6.00% | ~10,945 |
 | Stoned Ox | 6.00% | ~10,945 |
 | Yabu | 6.00% | ~10,945 |
-| Flying Rocks | 5.00% | ~9,120 |
-| Happy Planning | 5.00% | ~9,120 |
-| Mugen Unchained | 5.00% | ~9,120 |
-| Warzone | 5.00% | ~9,120 |
-| Okkoto | 4.00% | ~7,296 |
-| Prisoners | 4.00% | ~7,296 |
-| Too Early | 4.00% | ~7,296 |
-| Gear up | 3.00% | ~5,472 |
-| Happy little accidents | 3.00% | ~5,472 |
-| Noboru | 3.00% | ~5,472 |
-| Still Rollin' | 3.00% | ~5,472 |
-| Stoned | 3.00% | ~5,472 |
+| Flying Rocks | 5.00% | ~9,121 |
+| Happy Planning | 5.00% | ~9,121 |
+| Mugen Unchained | 5.00% | ~9,121 |
+| Warzone | 5.00% | ~9,121 |
+| Okkoto | 4.00% | ~7,297 |
+| Prisoners | 4.00% | ~7,297 |
+| Too Early | 4.00% | ~7,297 |
+| Gear up | 3.00% | ~5,473 |
+| Happy little accidents | 3.00% | ~5,473 |
+| Noboru | 3.00% | ~5,473 |
+| Still Rollin' | 3.00% | ~5,473 |
+| Stoned | 3.00% | ~5,473 |
 | Atheist Ox | 2.00% | ~3,648 |
 | It's raining men | 2.00% | ~3,648 |
 | Old Man | 2.00% | ~3,648 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~182 |
 | Release the Kraken | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,410 (Ranked 57)  
+Progressed: 182,418 (Ranked 57)  
 Completed: 55 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 55 (0.03%) (Ranked 206)
 | 2023-06-29 | 181,766 | 55 |
 | 2023-06-30 | 182,047 | 55 |
 | 2023-07-01 | 182,370 | 55 |
-| 2023-07-02 | 182,410 | 55 |
+| 2023-07-02 | 182,418 | 55 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 181)  
 Sum: 4,692 (Ranked 128)  

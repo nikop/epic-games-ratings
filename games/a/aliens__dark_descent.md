@@ -1,28 +1,28 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.36 (Ranked 728)  
+Rating: 4.36 (Ranked 727)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~1,846 |
+| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~1,847 |
 | Snatched Out | 71.00% | ~1,681 |
-| Keep 'Em Coming | 69.00% | ~1,633 |
+| Keep 'Em Coming | 69.00% | ~1,634 |
 | Cleaning Lethe, One Nest At A Time | 59.00% | ~1,397 |
 | Call Me Snake | 53.00% | ~1,255 |
 | Something Lurks Under The Hills | 52.00% | ~1,231 |
-| This Was No Papercut | 51.00% | ~1,207 |
+| This Was No Papercut | 51.00% | ~1,208 |
 | The Shrink Hates Me | 46.00% | ~1,089 |
-| Use The Bumper, That's What It's For | 44.00% | ~1,041 |
+| Use The Bumper, That's What It's For | 44.00% | ~1,042 |
 | People Person | 43.00% | ~1,018 |
-| Colonial Barrels | 39.00% | ~923 |
-| First Steps Into Madness | 39.00% | ~923 |
+| Colonial Barrels | 39.00% | ~924 |
+| First Steps Into Madness | 39.00% | ~924 |
 | Damn Dude, You Gotta Lose Some Weight! | 34.00% | ~805 |
 | Harper's Hell | 30.00% | ~710 |
 | Making a Stand | 28.00% | ~663 |
 | Omelette Du Fromage | 25.00% | ~592 |
 | Recouped Investment | 25.00% | ~592 |
-| Where It All Begun | 23.00% | ~544 |
+| Where It All Begun | 23.00% | ~545 |
 | The More The Merrier | 16.00% | ~379 |
 | Living Nightmare | 15.00% | ~355 |
 | Stuff Of Nightmares | 13.00% | ~308 |
@@ -51,7 +51,7 @@ Rating: 4.36 (Ranked 728)
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,367 (Ranked 156)  
+Progressed: 2,368 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 2,138 | 0 |
 | 2023-06-30 | 2,226 | 0 |
 | 2023-07-01 | 2,351 | 0 |
-| 2023-07-02 | 2,367 | 0 |
+| 2023-07-02 | 2,368 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

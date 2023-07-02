@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Resurgence | 6.00% | ~37,701 |
-| Healthy Obsession | 5.00% | ~31,418 |
-| Preemptive Strike | 5.00% | ~31,418 |
-| Humanitarian | 5.00% | ~31,418 |
-| Wounded Healer | 4.00% | ~25,134 |
-| Close Shave | 4.00% | ~25,134 |
-| Unforgettable Getaway | 3.00% | ~18,851 |
-| First to the Punch | 3.00% | ~18,851 |
-| Operation: Survival | 3.00% | ~18,851 |
-| Old West Oasis | 3.00% | ~18,851 |
-| Every Last Drop | 3.00% | ~18,851 |
-| Raccoon City Recruit | 3.00% | ~18,851 |
-| With Scars to Show | 3.00% | ~18,851 |
-| Flight to Freedom | 3.00% | ~18,851 |
-| Ancestor's Rite | 2.00% | ~12,567 |
-| Devoted Gatekeeping | 2.00% | ~12,567 |
-| Shrine Apparatus | 2.00% | ~12,567 |
-| Cutting Out | 2.00% | ~12,567 |
-| Outrun Evil | 2.00% | ~12,567 |
-| Broken Bodies | 2.00% | ~12,567 |
-| Grim Pilgrimage | 2.00% | ~12,567 |
-| Selfless Survival | 2.00% | ~12,567 |
-| Classy Act | 2.00% | ~12,567 |
-| End of Days | 2.00% | ~12,567 |
-| Outrun the Overlap | 2.00% | ~12,567 |
-| A Fast Death | 2.00% | ~12,567 |
-| Lifting The Fog | 2.00% | ~12,567 |
-| Chorus of Chaos | 2.00% | ~12,567 |
+| Resurgence | 6.00% | ~37,707 |
+| Healthy Obsession | 5.00% | ~31,422 |
+| Preemptive Strike | 5.00% | ~31,422 |
+| Humanitarian | 5.00% | ~31,422 |
+| Wounded Healer | 4.00% | ~25,138 |
+| Close Shave | 4.00% | ~25,138 |
+| Unforgettable Getaway | 3.00% | ~18,853 |
+| First to the Punch | 3.00% | ~18,853 |
+| Operation: Survival | 3.00% | ~18,853 |
+| Old West Oasis | 3.00% | ~18,853 |
+| Every Last Drop | 3.00% | ~18,853 |
+| Raccoon City Recruit | 3.00% | ~18,853 |
+| With Scars to Show | 3.00% | ~18,853 |
+| Flight to Freedom | 3.00% | ~18,853 |
+| Ancestor's Rite | 2.00% | ~12,569 |
+| Devoted Gatekeeping | 2.00% | ~12,569 |
+| Shrine Apparatus | 2.00% | ~12,569 |
+| Cutting Out | 2.00% | ~12,569 |
+| Outrun Evil | 2.00% | ~12,569 |
+| Broken Bodies | 2.00% | ~12,569 |
+| Grim Pilgrimage | 2.00% | ~12,569 |
+| Selfless Survival | 2.00% | ~12,569 |
+| Classy Act | 2.00% | ~12,569 |
+| End of Days | 2.00% | ~12,569 |
+| Outrun the Overlap | 2.00% | ~12,569 |
+| A Fast Death | 2.00% | ~12,569 |
+| Lifting The Fog | 2.00% | ~12,569 |
+| Chorus of Chaos | 2.00% | ~12,569 |
 | Heavy Burden | 1.00% | ~6,284 |
 | I See You | 1.00% | ~6,284 |
 | Power Moves | 1.00% | ~6,284 |
@@ -43,10 +43,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 1.00% | ~6,284 |
 | Rebuilding The Borgo | 1.00% | ~6,284 |
 | Hack the Mainframe | 1.00% | ~6,284 |
-| Triage | 0.90% | ~5,655 |
-| Death of Ignorance | 0.80% | ~5,027 |
-| Deranged Pursuit | 0.60% | ~3,770 |
-| Denied! | 0.60% | ~3,770 |
+| Triage | 0.90% | ~5,656 |
+| Death of Ignorance | 0.80% | ~5,028 |
+| Deranged Pursuit | 0.60% | ~3,771 |
+| Denied! | 0.60% | ~3,771 |
 | Dismantle | 0.50% | ~3,142 |
 | Left For Dead | 0.50% | ~3,142 |
 | Bodyguard | 0.50% | ~3,142 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~628 |
 | Adept Gabriel | 0.10% | ~628 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 628,354 (Ranked 23)  
+Progressed: 628,442 (Ranked 23)  
 Completed: 42 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 42 (0.01%) (Ranked 220)
 | 2023-06-29 | 619,932 | 42 |
 | 2023-06-30 | 623,598 | 42 |
 | 2023-07-01 | 627,637 | 42 |
-| 2023-07-02 | 628,354 | 42 |
+| 2023-07-02 | 628,442 | 42 |
 ## Awards
 Max (Diverse Characters): 29,378  (Ranked 15)  
 Sum: 233,459 (Ranked 12)  

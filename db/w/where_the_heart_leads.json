@@ -4,7 +4,7 @@
   "ProductSlug": "where-the-heart-leads",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.4044217+00:00",
   "LastChanged": "2023-03-31T05:57:35.4044218+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.9831376+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:20:52.3947927+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:26:09.9765663+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:57:56.2095882+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:03:14.3212395+00:00"
 }

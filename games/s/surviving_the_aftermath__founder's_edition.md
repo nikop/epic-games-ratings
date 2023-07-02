@@ -10,20 +10,20 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 60.00% | ~4,199 |
 | Explorer | 53.00% | ~3,709 |
 | Healer | 52.00% | ~3,639 |
-| Aspiring Inventor | 44.00% | ~3,079 |
-| Adventurer | 41.00% | ~2,869 |
-| Famous Healer | 38.00% | ~2,659 |
-| Local Leader | 35.00% | ~2,449 |
-| Famous Explorer | 34.00% | ~2,379 |
-| New Opportunities | 34.00% | ~2,379 |
-| Energized | 33.00% | ~2,309 |
-| The Long Haul | 33.00% | ~2,309 |
-| The Great Healer | 31.00% | ~2,169 |
-| Survivor | 31.00% | ~2,169 |
-| Cleaner | 28.00% | ~1,959 |
-| Catastrofan | 28.00% | ~1,959 |
-| Legendary Explorer | 27.00% | ~1,889 |
-| Finders, Keepers | 26.00% | ~1,819 |
+| Aspiring Inventor | 44.00% | ~3,080 |
+| Adventurer | 41.00% | ~2,870 |
+| Famous Healer | 38.00% | ~2,660 |
+| Local Leader | 35.00% | ~2,450 |
+| Famous Explorer | 34.00% | ~2,380 |
+| New Opportunities | 34.00% | ~2,380 |
+| Energized | 33.00% | ~2,310 |
+| The Long Haul | 33.00% | ~2,310 |
+| The Great Healer | 31.00% | ~2,170 |
+| Survivor | 31.00% | ~2,170 |
+| Cleaner | 28.00% | ~1,960 |
+| Catastrofan | 28.00% | ~1,960 |
+| Legendary Explorer | 27.00% | ~1,890 |
+| Finders, Keepers | 26.00% | ~1,820 |
 | Top Notch | 25.00% | ~1,750 |
 | Ice Lakes | 23.00% | ~1,610 |
 | Mentor | 23.00% | ~1,610 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,998 (Ranked 123)  
+Progressed: 6,999 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 6,924 | 0 |
 | 2023-06-30 | 6,946 | 0 |
 | 2023-07-01 | 6,990 | 0 |
-| 2023-07-02 | 6,998 | 0 |
+| 2023-07-02 | 6,999 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 272)  

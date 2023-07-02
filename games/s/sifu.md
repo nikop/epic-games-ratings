@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~984 |
+| Diligence as a goal | 5.00% | ~985 |
 | Project Arena | 4.00% | ~788 |
 | The Old Grandmaster | 2.00% | ~14,208 |
 | The Assault | 2.00% | ~14,208 |
@@ -24,14 +24,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 1.00% | ~7,104 |
 | Qi Gong: Essence | 1.00% | ~7,104 |
 | Old Child | 1.00% | ~7,104 |
+| Kung-Fu Tussle | 1.00% | ~7,104 |
 | Path of the Prospect | 1.00% | ~7,104 |
 | Rumble in the Hangar | 1.00% | ~7,104 |
 | Take damage to save time | 1.00% | ~7,104 |
 | Bloody Sport | 1.00% | ~197 |
 | The best strikes are the ones we avoid | 1.00% | ~197 |
-| Qi Gong: Mind | 0.90% | ~6,393 |
-| I know Kung-Fu | 0.90% | ~6,393 |
-| Kung-Fu Tussle | 0.90% | ~6,393 |
+| Qi Gong: Mind | 0.90% | ~6,394 |
+| I know Kung-Fu | 0.90% | ~6,394 |
 | Dance of the Praying Mantis | 0.80% | ~5,683 |
 | Muk Yan Master | 0.70% | ~4,973 |
 | Deadly Venom | 0.70% | ~138 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,388 (Ranked 17)  
+Progressed: 710,390 (Ranked 17)  
 Completed: 12,803 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 12,803 (1.80%) (Ranked 80)
 | 2023-06-29 | 710,306 | 12,795 |
 | 2023-06-30 | 710,341 | 12,799 |
 | 2023-07-01 | 710,383 | 12,802 |
-| 2023-07-02 | 710,388 | 12,803 |
+| 2023-07-02 | 710,390 | 12,803 |
 ## Awards
 Max (Great Boss Battles): 6,221  (Ranked 52)  
 Sum: 10,654 (Ranked 78)  

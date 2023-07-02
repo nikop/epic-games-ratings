@@ -3069,9 +3069,9 @@
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 866
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3270,8 +3270,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-07-02T03:30:43.3208647+00:00",
+  "LastChanged_Achievements": "2023-07-02T04:07:42.2348089+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:52.9751016+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:20:59.3431444+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:30:43.3209515+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:58:03.1347188+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:07:42.2348751+00:00"
 }

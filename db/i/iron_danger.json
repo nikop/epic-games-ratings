@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -316,6 +316,11 @@
       "Time": "2023-06-30T15:06:03.7468391+00:00",
       "NumProgressed": 219,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T04:07:36.8352787+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -447,15 +452,15 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_SHARD_2",
       "SetID": "ao59f0i",
       "Name": "Second Shard",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_SHARD_3",
@@ -510,7 +515,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 4
     }
   ],
@@ -518,8 +523,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-02T03:30:37.9946429+00:00",
+  "LastChanged_Achievements": "2023-07-02T04:07:36.8352782+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.8902037+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:24:13.0077208+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:30:37.9946671+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:01:08.6237005+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:07:36.8352995+00:00"
 }

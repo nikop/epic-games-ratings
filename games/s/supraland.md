@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~707,354 |
-| The Blues | 85.00% | ~607,324 |
-| Fast | 66.00% | ~471,569 |
-| Healthbar | 55.00% | ~392,974 |
-| Force Cube | 53.00% | ~378,684 |
+| Out of bed | 99.00% | ~707,355 |
+| The Blues | 85.00% | ~607,325 |
+| Fast | 66.00% | ~471,570 |
+| Healthbar | 55.00% | ~392,975 |
+| Force Cube | 53.00% | ~378,685 |
 | Double Jump | 48.00% | ~342,960 |
 | Regeneration | 47.00% | ~335,815 |
 | Climb the hill | 42.00% | ~300,090 |
@@ -94,10 +94,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Finding Sideburg | 0.40% | ~2,858 |
 | DLC: Thrown | 0.40% | ~2,858 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,858 |
-| DLC: Birds | 0.30% | ~2,143 |
-| DLC: Horticultural | 0.30% | ~2,143 |
-| DLC: Non-NPC | 0.30% | ~2,143 |
-| DLC: To the House | 0.30% | ~2,143 |
+| DLC: Birds | 0.30% | ~2,144 |
+| DLC: Horticultural | 0.30% | ~2,144 |
+| DLC: Non-NPC | 0.30% | ~2,144 |
+| DLC: To the House | 0.30% | ~2,144 |
 | DLC: The Giant's Workshop | 0.20% | ~1,429 |
 | DLC: A good cause! | 0.20% | ~1,429 |
 | DLC: Shady stick | 0.20% | ~1,429 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~714 |
 | DLC: Top of the world | 0.10% | ~714 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,499 (Ranked 16)  
+Progressed: 714,500 (Ranked 16)  
 Completed: 702 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 702 (0.10%) (Ranked 179)
 | 2023-06-29 | 714,128 | 701 |
 | 2023-06-30 | 714,280 | 701 |
 | 2023-07-01 | 714,474 | 702 |
-| 2023-07-02 | 714,499 | 702 |
+| 2023-07-02 | 714,500 | 702 |
 ## Awards
 Max (Challenging Puzzles): 7,632  (Ranked 42)  
 Sum: 9,943 (Ranked 81)  

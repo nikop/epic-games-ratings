@@ -6,27 +6,27 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,693 |
-| Let There Be Light | 27.00% | ~15,294 |
+| Follow the Light | 33.00% | ~18,694 |
+| Let There Be Light | 27.00% | ~15,295 |
 | Float Like a Butterfly | 26.00% | ~14,728 |
 | Nordic Walking | 20.00% | ~11,329 |
 | Bright Falls' Finest | 20.00% | ~11,329 |
 | Under a Thin Layer of Skin | 18.00% | ~10,196 |
-| Park Ranger | 14.00% | ~7,930 |
-| Back! Back, I Say! | 14.00% | ~7,930 |
-| Finders Keepers | 14.00% | ~7,930 |
-| Paging Mr. Wake | 14.00% | ~7,930 |
-| They're Heeeeeere! | 12.00% | ~6,797 |
-| Sound and Fury | 12.00% | ~6,797 |
-| Missed by a Mile | 12.00% | ~6,797 |
-| Damn Good Cup of Coffee | 12.00% | ~6,797 |
+| Park Ranger | 14.00% | ~7,931 |
+| Back! Back, I Say! | 14.00% | ~7,931 |
+| Finders Keepers | 14.00% | ~7,931 |
+| Paging Mr. Wake | 14.00% | ~7,931 |
+| They're Heeeeeere! | 12.00% | ~6,798 |
+| Sound and Fury | 12.00% | ~6,798 |
+| Missed by a Mile | 12.00% | ~6,798 |
+| Damn Good Cup of Coffee | 12.00% | ~6,798 |
 | Wheels Within Wheels | 11.00% | ~6,231 |
 | The Six-Gun Scribe | 11.00% | ~6,231 |
-| Heavy Metal | 10.00% | ~5,664 |
-| Iron Horse | 10.00% | ~5,664 |
-| Perchance to Dream | 10.00% | ~5,664 |
-| Collateral Carnage | 10.00% | ~5,664 |
-| Come One, Come All | 10.00% | ~5,664 |
+| Heavy Metal | 10.00% | ~5,665 |
+| Iron Horse | 10.00% | ~5,665 |
+| Perchance to Dream | 10.00% | ~5,665 |
+| Collateral Carnage | 10.00% | ~5,665 |
+| Come One, Come All | 10.00% | ~5,665 |
 | Gatekeeper | 9.00% | ~5,098 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,098 |
 | Thunder and Lightning | 9.00% | ~5,098 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,645 (Ranked 80)  
+Progressed: 56,647 (Ranked 80)  
 Completed: 56 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 56 (0.10%) (Ranked 179)
 | 2023-06-29 | 56,498 | 56 |
 | 2023-06-30 | 56,554 | 56 |
 | 2023-07-01 | 56,635 | 56 |
-| 2023-07-02 | 56,645 | 56 |
+| 2023-07-02 | 56,647 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

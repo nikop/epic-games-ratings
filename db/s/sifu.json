@@ -4932,9 +4932,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710388,
+  "EOS_Progressed": 710390,
   "EOS_Completed": 12803,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -11847,6 +11847,11 @@
       "Time": "2023-07-02T02:37:13.7835011+00:00",
       "NumProgressed": 710388,
       "NumCompleted": 12803
+    },
+    {
+      "Time": "2023-07-02T04:07:42.5466071+00:00",
+      "NumProgressed": 710390,
+      "NumCompleted": 12803
     }
   ],
   "TotalAchievements": 50,
@@ -12050,7 +12055,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "26_ShrineSpirit",
@@ -12090,7 +12095,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "31_ComboHigh",
@@ -12128,9 +12133,9 @@
       "ID": "35_WideStrike",
       "SetID": "adcm20g",
       "Name": "Kung-Fu Tussle",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6393
+      "UsersEstimate": 7104
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -12202,7 +12207,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -12257,21 +12262,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19689,
+      "Progressed": 19691,
       "Completed": 10347
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710388,
+      "Progressed": 710390,
       "Completed": 12803
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-01T19:59:28.2743022+00:00",
-  "LastChanged_Achievements": "2023-07-02T03:30:43.6274807+00:00",
+  "LastChanged_Achievements": "2023-07-02T04:07:42.5466066+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:22:53.5689523+00:00",
-  "LastUpdate_Achievements": "2023-07-02T03:30:43.6275698+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:59:54.4967919+00:00",
+  "LastUpdate_Achievements": "2023-07-02T04:07:42.5467642+00:00"
 }
