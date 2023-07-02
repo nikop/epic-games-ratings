@@ -6,20 +6,20 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 38.00% | ~24,816 |
-| Final touch | 38.00% | ~24,816 |
-| Prop-M Rover | 33.00% | ~21,551 |
+| It's a steal! | 38.00% | ~24,817 |
+| Final touch | 38.00% | ~24,817 |
+| Prop-M Rover | 33.00% | ~21,552 |
 | Changing the Planet | 29.00% | ~18,939 |
 | Sojourner | 28.00% | ~18,286 |
-| New Home | 25.00% | ~16,326 |
-| Beagle 2 | 25.00% | ~16,326 |
-| Winner Winner Terraformer | 23.00% | ~15,020 |
-| Project Manager | 20.00% | ~13,061 |
-| Curiosity | 20.00% | ~13,061 |
-| Collector | 20.00% | ~13,061 |
-| Self-sufficient | 20.00% | ~13,061 |
-| Master | 20.00% | ~13,061 |
-| No Longer Red | 19.00% | ~12,408 |
+| New Home | 25.00% | ~16,327 |
+| Beagle 2 | 25.00% | ~16,327 |
+| Winner Winner Terraformer | 23.00% | ~15,021 |
+| Project Manager | 20.00% | ~13,062 |
+| Curiosity | 20.00% | ~13,062 |
+| Collector | 20.00% | ~13,062 |
+| Self-sufficient | 20.00% | ~13,062 |
+| Master | 20.00% | ~13,062 |
+| No Longer Red | 19.00% | ~12,409 |
 | Money money | 16.00% | ~10,449 |
 | Biggest Reward | 15.00% | ~9,796 |
 | Acquired knowledge | 14.00% | ~9,143 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 11.00% | ~7,184 |
 | Ultimate success | 11.00% | ~7,184 |
 | Variety Expert | 10.00% | ~6,531 |
-| Frequent tester | 8.00% | ~5,224 |
-| Determined | 8.00% | ~5,224 |
+| Frequent tester | 8.00% | ~5,225 |
+| Determined | 8.00% | ~5,225 |
 | Terraformer | 4.00% | ~2,612 |
 | Team Effort | 3.00% | ~1,959 |
 | Opportunity | 3.00% | ~1,959 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,306 (Ranked 74)  
+Progressed: 65,308 (Ranked 74)  
 Completed: 67 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 67 (0.10%) (Ranked 179)
 | 2023-06-29 | 64,984 | 67 |
 | 2023-06-30 | 65,120 | 67 |
 | 2023-07-01 | 65,286 | 67 |
-| 2023-07-02 | 65,306 | 67 |
+| 2023-07-02 | 65,308 | 67 |
 ## Awards
 Max (Relaxing): 502  (Ranked 191)  
 Sum: 3,095 (Ranked 153)  

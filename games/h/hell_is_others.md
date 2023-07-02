@@ -1,19 +1,19 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 635)  
+Rating: 4.45 (Ranked 617)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,191 |
-| Predator I | 22.00% | ~55,490 |
+| Survivor | 31.00% | ~78,192 |
+| Predator I | 22.00% | ~55,491 |
 | Fixer I | 10.00% | ~25,223 |
 | A week in Century City | 10.00% | ~25,223 |
 | The Wait | 7.00% | ~17,656 |
 | Green thumb I | 6.00% | ~15,134 |
 | Cleaning Company | 6.00% | ~15,134 |
-| Well-oiled machine | 5.00% | ~12,611 |
-| Saver I | 5.00% | ~12,611 |
+| Well-oiled machine | 5.00% | ~12,612 |
+| Saver I | 5.00% | ~12,612 |
 | The Ascent | 4.00% | ~10,089 |
 | Pacifist | 4.00% | ~10,089 |
 | Vandalism | 4.00% | ~10,089 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 635)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,229 (Ranked 42)  
+Progressed: 252,231 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,16 +135,16 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-06-29 | 252,095 | 2 |
 | 2023-06-30 | 252,155 | 2 |
 | 2023-07-01 | 252,220 | 2 |
-| 2023-07-02 | 252,229 | 2 |
+| 2023-07-02 | 252,231 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 451)  
-Sum: 171 (Ranked 375)  
-Diff (max vs sum): 76  
+Sum: 172 (Ranked 374)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 31 |
 | This game has Unique Visuals | 31 |
-| This game has Amazing Characters | 24 |
+| This game has Amazing Characters | 25 |
 | This game has Challenging Combat | 23 |
 | This game has a Competitive Community | 21 |
 | This game is Highly Recommended | 21 |
@@ -240,3 +240,4 @@ Diff (max vs sum): 76
 | 2023-06-27 | 4.44 | 31 | 168 |
 | 2023-06-28 | 4.44 | 31 | 170 |
 | 2023-06-29 | 4.44 | 31 | 171 |
+| 2023-07-02 | 4.45 | 31 | 172 |

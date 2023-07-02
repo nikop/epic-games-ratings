@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2078,
+  "EOS_Progressed": 2079,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1183,6 +1183,11 @@
       "Time": "2023-07-01T23:02:21.7699153+00:00",
       "NumProgressed": 2078,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-02T03:26:20.2769616+00:00",
+      "NumProgressed": 2079,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1226,7 +1231,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "REUNION",
@@ -1234,7 +1239,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "SLIDERS",
@@ -1297,7 +1302,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2078,
+      "Progressed": 2079,
       "Completed": 5
     }
   ],
@@ -1305,8 +1310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:33:31.4013693+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:26:20.2769611+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:16.3325336+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:30:01.6904747+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:33:31.4013828+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:23:11.7283476+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:26:20.2769812+00:00"
 }

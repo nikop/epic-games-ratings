@@ -65,7 +65,7 @@ Rating: 4.89 (Ranked 12)
 | I'm untouchable! | 0.50% | ~17 |
 | Didn't skip a beat! | 0.30% | ~10 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
-| What a journey it was... | 0.10% | ~3 |
+| What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,383 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 169)  

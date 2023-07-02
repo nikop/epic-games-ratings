@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2931,
+  "EOS_Progressed": 2932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2025,6 +2025,11 @@
       "Time": "2023-07-01T18:07:36.7256623+00:00",
       "NumProgressed": 2931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T03:30:47.3821433+00:00",
+      "NumProgressed": 2932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2050,9 +2055,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 968
     },
     {
       "ID": "BloodAndIron",
@@ -2252,7 +2257,7 @@
       "Name": "Opportunist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Kills_Knockback",
@@ -2268,7 +2273,7 @@
       "Name": "Purging Spree",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "Kills_Vakir",
@@ -2284,7 +2289,7 @@
       "Name": "An Ill Omen",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -2308,7 +2313,7 @@
       "Name": "Nemesis Master",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2316,7 +2321,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MasterOfTheForge",
@@ -2364,7 +2369,7 @@
       "Name": "Efficient Killer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -2396,7 +2401,7 @@
       "Name": "Just a Scratch",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "NexusCompleted",
@@ -2404,7 +2409,7 @@
       "Name": "A Foul Creche",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2507,21 +2512,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2931,
+      "Progressed": 2932,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2931,
+      "Progressed": 2932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:37:16.9705254+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:30:47.3821426+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:29:24.4359725+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:37:16.970574+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:22:24.1194705+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:30:47.3822183+00:00"
 }

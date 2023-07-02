@@ -2296,7 +2296,7 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 230542,
+  "EOS_Progressed": 230544,
   "EOS_Completed": 757,
   "EOS_NewPlayers": 1481,
   "EOS_NewCompleters": 8,
@@ -9921,6 +9921,11 @@
       "Time": "2023-07-02T02:37:11.3568661+00:00",
       "NumProgressed": 230542,
       "NumCompleted": 757
+    },
+    {
+      "Time": "2023-07-02T03:30:40.9610536+00:00",
+      "NumProgressed": 230544,
+      "NumCompleted": 757
     }
   ],
   "TotalAchievements": 39,
@@ -9996,7 +10001,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 209793
+      "UsersEstimate": 209795
     },
     {
       "ID": "AchievementClownID",
@@ -10012,7 +10017,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18443
+      "UsersEstimate": 18444
     },
     {
       "ID": "AchievementCrashGameID",
@@ -10044,7 +10049,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76079
+      "UsersEstimate": 76080
     },
     {
       "ID": "AchievementGoatID",
@@ -10060,7 +10065,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 122187
+      "UsersEstimate": 122188
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -10076,7 +10081,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 34581
+      "UsersEstimate": 34582
     },
     {
       "ID": "AchievementInstinctID",
@@ -10092,7 +10097,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 103744
+      "UsersEstimate": 103745
     },
     {
       "ID": "AchievementIntroID",
@@ -10100,7 +10105,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 131409
+      "UsersEstimate": 131410
     },
     {
       "ID": "AchievementLootBoxID",
@@ -10164,7 +10169,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 170601
+      "UsersEstimate": 170603
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -10172,7 +10177,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18443
+      "UsersEstimate": 18444
     },
     {
       "ID": "AchievementStratosphereID",
@@ -10180,7 +10185,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 115271
+      "UsersEstimate": 115272
     },
     {
       "ID": "AchievementStreakingID",
@@ -10204,7 +10209,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 126798
+      "UsersEstimate": 126799
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -10212,7 +10217,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 108355
+      "UsersEstimate": 108356
     },
     {
       "ID": "AchievementTrinketID",
@@ -10228,7 +10233,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149852
+      "UsersEstimate": 149854
     },
     {
       "ID": "AchievementWhaleID",
@@ -10243,7 +10248,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 230542,
+      "Progressed": 230544,
       "Completed": 757
     }
   ],
@@ -10251,8 +10256,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-02T02:31:15.6206891+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:37:11.3568656+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:30:40.9610529+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.6866674+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:31:15.6206895+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:37:11.3569243+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:24:42.4801738+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:30:40.9611483+00:00"
 }

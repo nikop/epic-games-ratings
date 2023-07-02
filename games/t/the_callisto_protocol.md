@@ -14,12 +14,12 @@ Rating: 4.20 (Ranked 833)
 | Chew 'Em Up | 0.70% | ~109 |
 | Workplace Hazard | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |
+| Without A Paddle | 0.70% | ~109 |
 | Giving Back | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
 | Float Like A Butterfly | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
-| Without A Paddle | 0.60% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~94 |
 | Crash Site | 0.60% | ~94 |
 | Power Up | 0.60% | ~94 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 59.00% | ~81 |
-| Aspairagus | 56.00% | ~49 |
+| Aspairagus | 57.00% | ~50 |
 | Survivor | 50.00% | ~44 |
 | First Blood | 45.00% | ~62 |
 | Triple Kill | 42.00% | ~58 |
@@ -15,7 +15,7 @@
 | Cornivore | 36.00% | ~49 |
 | No Diggity | 36.00% | ~31 |
 | Amateur Survivor | 28.00% | ~24 |
-| Bouncemato | 26.00% | ~23 |
+| Bouncemato | 27.00% | ~23 |
 | 15K | 20.00% | ~27 |
 | 10K | 20.00% | ~27 |
 | Quick-Draw Pod | 20.00% | ~17 |
@@ -35,9 +35,9 @@
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
 | Quit Horsin' Around | 7.00% | ~10 |
+| Bring Home The Bacon | 5.00% | ~7 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~4 |
-| Bring Home The Bacon | 4.00% | ~5 |
 | Chick Magnet | 4.00% | ~5 |
 | Early Bird | 4.00% | ~5 |
 | Heart Breaker | 4.00% | ~3 |

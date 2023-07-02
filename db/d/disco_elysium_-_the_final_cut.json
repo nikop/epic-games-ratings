@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1157,7 +1157,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122541,
+  "EOS_Progressed": 122543,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
@@ -8157,6 +8157,11 @@
       "Time": "2023-07-02T02:37:09.7835864+00:00",
       "NumProgressed": 122541,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-02T03:30:39.2182297+00:00",
+      "NumProgressed": 122543,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8200,7 +8205,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22057
+      "UsersEstimate": 22058
     },
     {
       "ID": "ACH_COP_BAD",
@@ -8248,7 +8253,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34311
+      "UsersEstimate": 34312
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8280,7 +8285,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24508
+      "UsersEstimate": 24509
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8296,7 +8301,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "ACH_COP_STAR",
@@ -8360,7 +8365,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7352
+      "UsersEstimate": 7353
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -8448,7 +8453,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15930
+      "UsersEstimate": 15931
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -8487,15 +8492,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122541,
+      "Progressed": 122543,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-06-30T20:59:08.4350341+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:37:09.7835858+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:30:39.2182291+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:29:52.3996914+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:37:09.7836439+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:23:00.4688757+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:30:39.2183252+00:00"
 }

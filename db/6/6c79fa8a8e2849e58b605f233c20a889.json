@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1862,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3096,6 +3096,11 @@
       "Time": "2023-07-02T02:35:13.3296585+00:00",
       "NumProgressed": 1862,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T03:28:21.3104388+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3123,7 +3128,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CLUMSY",
@@ -3187,7 +3192,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3282,14 +3287,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:35:13.3296579+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:28:21.3104382+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:27:42.5063595+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:35:13.3296848+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:20:19.8184678+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:28:21.3104831+00:00"
 }

@@ -2134,9 +2134,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 900
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2535,8 +2535,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-01T03:58:14.0195394+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:33:08.2243823+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:25:22.0107126+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:29:00.669225+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:33:08.2244237+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:21:53.6965097+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:25:22.0107932+00:00"
 }

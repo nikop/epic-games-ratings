@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56644,
+  "EOS_Progressed": 56645,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6667,6 +6667,11 @@
       "Time": "2023-07-02T02:33:06.5290475+00:00",
       "NumProgressed": 56644,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-02T03:25:19.9894018+00:00",
+      "NumProgressed": 56645,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6708,9 +6713,9 @@
       "ID": "05",
       "SetID": "212770e",
       "Name": "Under a Thin Layer of Skin",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 9629
+      "UsersEstimate": 10196
     },
     {
       "ID": "06",
@@ -6926,7 +6931,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14727
+      "UsersEstimate": 14728
     },
     {
       "ID": "33",
@@ -7213,21 +7218,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56644,
+      "Progressed": 56645,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20112,
-      "Completed": 39
+      "Progressed": 20113,
+      "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:33:06.529047+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:25:19.9894012+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:28:20.9757077+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:33:06.5291266+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:21:07.241813+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:25:19.9895333+00:00"
 }

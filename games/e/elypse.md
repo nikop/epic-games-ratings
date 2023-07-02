@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 321)  
+Progressed: 64 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

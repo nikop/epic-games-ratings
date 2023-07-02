@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2017-11-16T15:00:00+00:00",
@@ -3176,9 +3176,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 118373,
+  "EOS_Progressed": 118374,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1318,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10941,6 +10941,11 @@
       "Time": "2023-07-02T02:37:16.1173514+00:00",
       "NumProgressed": 118373,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-02T03:30:46.3565923+00:00",
+      "NumProgressed": 118374,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 67,
@@ -10968,7 +10973,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20123
+      "UsersEstimate": 20124
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -11024,7 +11029,7 @@
       "Name": "Comeback",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 95882
+      "UsersEstimate": 95883
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -11152,7 +11157,7 @@
       "Name": "Hydra",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 42614
+      "UsersEstimate": 42615
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -11160,7 +11165,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 105352
+      "UsersEstimate": 105353
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -11176,7 +11181,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 94698
+      "UsersEstimate": 94699
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -11200,7 +11205,7 @@
       "Name": "Lead Harvest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 29593
+      "UsersEstimate": 29594
     },
     {
       "ID": "TANNENBERG_ACH_LEEROY",
@@ -11248,7 +11253,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 52084
+      "UsersEstimate": 52085
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -11256,7 +11261,7 @@
       "Name": "Oops!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 20123
+      "UsersEstimate": 20124
     },
     {
       "ID": "TANNENBERG_ACH_OVERACHIEVER",
@@ -11360,7 +11365,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 52084
+      "UsersEstimate": 52085
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -11376,7 +11381,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 46165
+      "UsersEstimate": 46166
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -11416,7 +11421,7 @@
       "Name": "This Belongs to Us Now",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 42614
+      "UsersEstimate": 42615
     },
     {
       "ID": "TANNENBERG_ACH_THIS_IS_MY_MACHINE_GUN",
@@ -11456,7 +11461,7 @@
       "Name": "Unlucky",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 84045
+      "UsersEstimate": 84046
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -11464,7 +11469,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 76942
+      "UsersEstimate": 76943
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -11487,15 +11492,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 118373,
+      "Progressed": 118374,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-07-01T16:00:41.0851802+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:37:16.1173505+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:30:46.3565917+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:21.0899008+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:30:50.0451075+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:37:16.117438+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:24:12.8574545+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:30:46.3567579+00:00"
 }

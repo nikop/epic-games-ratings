@@ -2,9 +2,9 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 83,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -572,10 +572,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-07-02T03:24:31.4758885+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 171,
+  "NumberOfAwards": 172,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -595,7 +601,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -622,9 +628,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 252229,
+  "EOS_Progressed": 252231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7977,6 +7983,11 @@
       "Time": "2023-07-02T02:35:05.4745781+00:00",
       "NumProgressed": 252229,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T03:28:11.4419331+00:00",
+      "NumProgressed": 252231,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8036,7 +8047,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78191
+      "UsersEstimate": 78192
     },
     {
       "ID": "BackHomeNTimes",
@@ -8044,7 +8055,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12611
+      "UsersEstimate": 12612
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -8116,7 +8127,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12611
+      "UsersEstimate": 12612
     },
     {
       "ID": "CreedsInBank2",
@@ -8276,7 +8287,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55490
+      "UsersEstimate": 55491
     },
     {
       "ID": "KillOthers2",
@@ -8435,16 +8446,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252229,
+      "Progressed": 252231,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-06-29T22:01:21.9237909+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:35:05.4745776+00:00",
+  "LastChanged": "2023-07-02T03:24:31.4758884+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:28:11.4419325+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:31:05.4820922+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:35:05.4746512+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:24:31.475889+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:28:11.4421259+00:00"
 }

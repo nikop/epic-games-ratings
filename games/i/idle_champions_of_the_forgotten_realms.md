@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,533 |
-| The Mad Wizard | 10.00% | ~20,380 |
-| The Ring of Regeneration | 6.00% | ~12,228 |
-| Are Ya Chicken? | 6.00% | ~12,228 |
-| Were-verpowered | 5.00% | ~10,190 |
-| Friendly Imps | 5.00% | ~10,190 |
-| Seeking Allies | 4.00% | ~8,152 |
-| Mad Cow Disease | 4.00% | ~8,152 |
-| Pure Energy | 4.00% | ~8,152 |
-| A Persistent Buzzing | 3.00% | ~6,114 |
-| Terror in the Dark | 3.00% | ~6,114 |
-| The Crumbling Temple | 3.00% | ~6,114 |
-| The Contagious Curse | 3.00% | ~6,114 |
-| Beast Mode | 2.00% | ~4,076 |
-| A Mysterious Summons | 2.00% | ~4,076 |
-| Unearthed Evil | 2.00% | ~4,076 |
-| Useless Allies | 2.00% | ~4,076 |
-| Exploring Port Nyanzaru | 2.00% | ~4,076 |
-| Running of the Saurs | 2.00% | ~4,076 |
-| Escort to Waterdeep | 2.00% | ~4,076 |
-| Waterdeep Detours | 2.00% | ~4,076 |
+| The Cursed Farmer | 14.00% | ~28,537 |
+| The Mad Wizard | 10.00% | ~20,384 |
+| The Ring of Regeneration | 6.00% | ~12,230 |
+| Are Ya Chicken? | 6.00% | ~12,230 |
+| Were-verpowered | 5.00% | ~10,192 |
+| Friendly Imps | 5.00% | ~10,192 |
+| Seeking Allies | 4.00% | ~8,153 |
+| Mad Cow Disease | 4.00% | ~8,153 |
+| Pure Energy | 4.00% | ~8,153 |
+| A Persistent Buzzing | 3.00% | ~6,115 |
+| Terror in the Dark | 3.00% | ~6,115 |
+| The Crumbling Temple | 3.00% | ~6,115 |
+| The Contagious Curse | 3.00% | ~6,115 |
+| Beast Mode | 2.00% | ~4,077 |
+| A Mysterious Summons | 2.00% | ~4,077 |
+| Unearthed Evil | 2.00% | ~4,077 |
+| Useless Allies | 2.00% | ~4,077 |
+| Exploring Port Nyanzaru | 2.00% | ~4,077 |
+| Running of the Saurs | 2.00% | ~4,077 |
+| Escort to Waterdeep | 2.00% | ~4,077 |
+| Waterdeep Detours | 2.00% | ~4,077 |
 | Low Initiative | 1.00% | ~2,038 |
 | Building Trust | 1.00% | ~2,038 |
 | March of the Undead | 1.00% | ~2,038 |
@@ -39,15 +39,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,038 |
 | The Templar's Camp | 1.00% | ~2,038 |
 | Rescue in the Jungle | 1.00% | ~2,038 |
-| Street War | 0.90% | ~1,834 |
-| The Botched Kidnapping | 0.90% | ~1,834 |
-| Premature Betrayal | 0.90% | ~1,834 |
-| A Tale of Two Cities | 0.90% | ~1,834 |
-| Close Escort | 0.90% | ~1,834 |
-| Constant Banditry | 0.90% | ~1,834 |
-| Homecoming | 0.80% | ~1,630 |
-| Trollskull Manor | 0.80% | ~1,630 |
-| Dinosaur Racing | 0.80% | ~1,630 |
+| Street War | 0.90% | ~1,835 |
+| The Botched Kidnapping | 0.90% | ~1,835 |
+| Premature Betrayal | 0.90% | ~1,835 |
+| A Tale of Two Cities | 0.90% | ~1,835 |
+| Close Escort | 0.90% | ~1,835 |
+| Constant Banditry | 0.90% | ~1,835 |
+| Homecoming | 0.80% | ~1,631 |
+| Trollskull Manor | 0.80% | ~1,631 |
+| Dinosaur Racing | 0.80% | ~1,631 |
 | The Lost Heir of Omu | 0.70% | ~1,427 |
 | Attack on the Manor | 0.70% | ~1,427 |
 | The Long Haul | 0.70% | ~1,427 |
@@ -74,7 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.50% | ~1,019 |
 | Difficult Terrain | 0.50% | ~1,019 |
 | Market Fluctuations | 0.50% | ~1,019 |
-| The Giant's Bane Tavern | 0.50% | ~850 |
+| The Giant's Bane Tavern | 0.50% | ~851 |
 | Rude Welcome | 0.50% | ~1,019 |
 | Durable Deep | 0.50% | ~1,019 |
 | Home Field Advantage | 0.40% | ~815 |
@@ -98,34 +98,34 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.40% | ~680 |
 | Expert Opinion | 0.40% | ~815 |
 | Poor Guidance | 0.40% | ~815 |
-| Anti-Dexterous Explorers | 0.30% | ~611 |
-| Not Very Charming | 0.30% | ~611 |
-| Lobsterfolk Assault | 0.30% | ~611 |
-| Periodic Petrification | 0.30% | ~611 |
-| Double Vision | 0.30% | ~611 |
-| Vajra's Guards | 0.30% | ~611 |
+| Anti-Dexterous Explorers | 0.30% | ~612 |
+| Not Very Charming | 0.30% | ~612 |
+| Lobsterfolk Assault | 0.30% | ~612 |
+| Periodic Petrification | 0.30% | ~612 |
+| Double Vision | 0.30% | ~612 |
+| Vajra's Guards | 0.30% | ~612 |
 | The Newcomers of Notoriety | 0.30% | ~510 |
-| Azaka's Procession - Part 1 | 0.30% | ~611 |
-| Azaka's Procession - Part 2 | 0.30% | ~611 |
-| The Hunt for Owl-y | 0.30% | ~611 |
-| Werewolves in the Mist | 0.30% | ~611 |
-| We're not in Faerûn Anymore | 0.30% | ~611 |
-| Modron Assistance | 0.30% | ~611 |
-| Domesticated Owlbears | 0.30% | ~611 |
-| House of Darkness | 0.30% | ~611 |
-| The Trepidatious Trio | 0.30% | ~611 |
-| Our Time To Shine | 0.30% | ~611 |
-| A Saurial's Resolve | 0.30% | ~611 |
-| Nimblest Escape | 0.30% | ~611 |
-| From The Shadows | 0.30% | ~611 |
-| Excavating History | 0.30% | ~611 |
-| Towering Expectations | 0.30% | ~611 |
-| Who Lurks in Lurkwood | 0.30% | ~611 |
-| A Tale of Two Fiends | 0.30% | ~611 |
-| Slow and Steady | 0.30% | ~611 |
-| Patience is Key | 0.30% | ~611 |
-| Once More Into The Breach | 0.30% | ~611 |
-| Wyllowwood | 0.30% | ~611 |
+| Azaka's Procession - Part 1 | 0.30% | ~612 |
+| Azaka's Procession - Part 2 | 0.30% | ~612 |
+| The Hunt for Owl-y | 0.30% | ~612 |
+| Werewolves in the Mist | 0.30% | ~612 |
+| We're not in Faerûn Anymore | 0.30% | ~612 |
+| Modron Assistance | 0.30% | ~612 |
+| Domesticated Owlbears | 0.30% | ~612 |
+| House of Darkness | 0.30% | ~612 |
+| The Trepidatious Trio | 0.30% | ~612 |
+| Our Time To Shine | 0.30% | ~612 |
+| A Saurial's Resolve | 0.30% | ~612 |
+| Nimblest Escape | 0.30% | ~612 |
+| From The Shadows | 0.30% | ~612 |
+| Excavating History | 0.30% | ~612 |
+| Towering Expectations | 0.30% | ~612 |
+| Who Lurks in Lurkwood | 0.30% | ~612 |
+| A Tale of Two Fiends | 0.30% | ~612 |
+| Slow and Steady | 0.30% | ~612 |
+| Patience is Key | 0.30% | ~612 |
+| Once More Into The Breach | 0.30% | ~612 |
+| Wyllowwood | 0.30% | ~612 |
 | An Illithid Undertaking | 0.30% | ~510 |
 | Déjà Vu | 0.30% | ~510 |
 | Into The Fire | 0.30% | ~510 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,804 (Ranked 52)  
-Completed: 2,023 (0.99%) (Ranked 101)  
+Progressed: 203,837 (Ranked 52)  
+Completed: 2,024 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -583,10 +583,10 @@ Completed: 2,023 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
-| 2023-07-02 | 203,804 | 2,023 |
+| 2023-07-02 | 203,837 | 2,024 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
-Sum: 30,350 (Ranked 37)  
+Sum: 30,351 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -596,7 +596,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,536 |
 | This game has Amazing Characters | 3,991 |
 | This game is Highly Recommended | 3,983 |
-| This game has Playful Visuals | 3,282 |
+| This game has Playful Visuals | 3,283 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -757,4 +757,4 @@ Diff (max vs sum): 27
 | 2023-06-29 | 4.06 | - | 4,985 | 30,305 |
 | 2023-06-30 | 4.05 | - | 4,985 | 30,318 |
 | 2023-07-01 | 4.05 | - | 4,992 | 30,347 |
-| 2023-07-02 | 4.05 | - | 4,992 | 30,350 |
+| 2023-07-02 | 4.05 | - | 4,992 | 30,351 |

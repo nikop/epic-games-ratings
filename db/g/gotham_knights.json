@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1844,9 +1844,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66258,
+  "EOS_Progressed": 66260,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8324,6 +8324,11 @@
       "Time": "2023-07-02T02:37:14.857146+00:00",
       "NumProgressed": 66258,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-02T03:30:44.8999049+00:00",
+      "NumProgressed": 66260,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8679,7 +8684,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -8822,13 +8827,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66258,
+      "Progressed": 66260,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36538,
+      "Progressed": 36540,
       "Completed": 2649
     }
   ],
@@ -8836,8 +8841,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-01T18:00:50.784885+00:00",
-  "LastChanged_Achievements": "2023-07-02T02:37:14.8571456+00:00",
+  "LastChanged_Achievements": "2023-07-02T03:30:44.8999043+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-02T02:30:35.6612162+00:00",
-  "LastUpdate_Achievements": "2023-07-02T02:37:14.8572212+00:00"
+  "LastUpdate_Ratings": "2023-07-02T03:23:54.8955945+00:00",
+  "LastUpdate_Achievements": "2023-07-02T03:30:44.9000224+00:00"
 }
