@@ -17,13 +17,13 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.04% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.93% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.52% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
 | 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
 | 26 | [Smelter](games/s/smelter.md) | 8.11% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -117,7 +117,7 @@
 | 115 | [Train Valley](games/t/train_valley.md) | 0.66% |
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 117 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.62% |
+| 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.61% |
 | 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
