@@ -2,9 +2,9 @@
   "ID": "18acdc7f52434fef808ab4f2dee5b86a",
   "Name": "The Crust",
   "ProductSlug": "the-crust-17f0f9",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:27:25.1882381+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:59:21.34289+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:04:40.717929+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:09:30.237281+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:14:35.0473609+00:00"
 }

@@ -17,10 +17,10 @@
 | At the heart of the city | 26.00% | ~96 |
 | Calm neighborhood | 25.00% | ~92 |
 | Elevated ring | 24.00% | ~89 |
-| Not lonely anymore | 22.00% | ~81 |
+| Not lonely anymore | 23.00% | ~85 |
 | Monumental tribute | 22.00% | ~81 |
 | The beach is right there | 20.00% | ~74 |
-| Commuting | 19.00% | ~70 |
+| Commuting | 20.00% | ~74 |
 | Le jardin magnifique | 19.00% | ~70 |
 | Aiming for a living and human city | 18.00% | ~67 |
 | City of dreams | 17.00% | ~63 |

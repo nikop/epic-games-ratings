@@ -6,20 +6,20 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~33,822 |
-| First Steps | 81.00% | ~29,458 |
-| Control the Shadows | 68.00% | ~24,730 |
+| Awakening | 93.00% | ~33,823 |
+| First Steps | 81.00% | ~29,459 |
+| Control the Shadows | 68.00% | ~24,731 |
 | Tools of the Trade | 63.00% | ~22,912 |
 | Apprentice | 60.00% | ~21,821 |
 | Secret Seeker | 57.00% | ~20,730 |
-| Forge of Assassins | 56.00% | ~20,366 |
-| Revenant | 52.00% | ~18,911 |
+| Forge of Assassins | 56.00% | ~20,367 |
+| Revenant | 52.00% | ~18,912 |
 | I don’t Care! | 45.00% | ~16,366 |
-| Bird of Prey | 37.00% | ~13,456 |
+| Bird of Prey | 37.00% | ~13,457 |
 | Engraved with Power | 32.00% | ~11,638 |
-| Lady | 30.00% | ~10,910 |
-| Fashionable Assassin | 27.00% | ~9,819 |
-| Apex Predator | 24.00% | ~8,728 |
+| Lady | 30.00% | ~10,911 |
+| Fashionable Assassin | 27.00% | ~9,820 |
+| Apex Predator | 24.00% | ~8,729 |
 | Soul Reaver | 22.00% | ~8,001 |
 | Embers | 21.00% | ~7,637 |
 | Wall Lizard | 20.00% | ~7,274 |
@@ -30,14 +30,14 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~5,092 |
 | War Engines | 14.00% | ~5,092 |
 | Signature Move | 14.00% | ~5,092 |
-| Ruse | 11.00% | ~4,000 |
+| Ruse | 11.00% | ~4,001 |
 | Master Ninja | 10.00% | ~3,637 |
 | Hatching | 9.00% | ~3,273 |
 | Bonds | 9.00% | ~3,273 |
 | Get Over Here | 9.00% | ~3,273 |
 | The Hidden Village | 9.00% | ~3,273 |
-| Denouement | 8.00% | ~2,909 |
-| A Pleasant Stay | 8.00% | ~2,909 |
+| Denouement | 8.00% | ~2,910 |
+| A Pleasant Stay | 8.00% | ~2,910 |
 | Pilgrimage | 7.00% | ~2,546 |
 | The Lookout | 5.00% | ~1,818 |
 | The Spirit of Vengeance | 5.00% | ~1,818 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~364 |
 | Anger Management | 1.00% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,368 (Ranked 89)  
+Progressed: 36,369 (Ranked 89)  
 Completed: 181 (0.50%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 181 (0.50%) (Ranked 125)
 | 2023-06-29 | 36,136 | 181 |
 | 2023-06-30 | 36,208 | 181 |
 | 2023-07-01 | 36,311 | 181 |
-| 2023-07-02 | 36,368 | 181 |
+| 2023-07-02 | 36,369 | 181 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 31.00% | ~8 |
-| Seven Days of Endless Adventure | 27.00% | ~7 |
-| Greengrocer | 27.00% | ~7 |
+| Cabbage in the Baggage | 30.00% | ~8 |
+| Seven Days of Endless Adventure | 26.00% | ~7 |
+| Greengrocer | 26.00% | ~7 |
 | Masu-ter Angler | 15.00% | ~4 |
 | Go-Getter | 15.00% | ~4 |
-| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~3 |
-| Just Hoverin' Along | 12.00% | ~3 |
-| That Was a Snap! | 12.00% | ~3 |
-| It's Alive! | 12.00% | ~3 |
-| Farm Life! | 12.00% | ~3 |
-| Handyman Extraordinaire | 12.00% | ~3 |
-| River Cleaner | 12.00% | ~3 |
-| A New Time | 8.00% | ~2 |
-| Beetle Savant | 8.00% | ~2 |
-| Cicada Connoisseur | 8.00% | ~2 |
-| My Fair Ladybug | 8.00% | ~2 |
-| The Holly Grail | 8.00% | ~2 |
-| What's That Smell? | 8.00% | ~2 |
-| Biwa Be Mine | 8.00% | ~2 |
-| Ice Fishing | 8.00% | ~2 |
-| Did Someone Order Ramen? | 8.00% | ~2 |
-| Top-Notch Journalist | 8.00% | ~2 |
-| Ptera Pal | 8.00% | ~2 |
-| DJ Superstar | 8.00% | ~2 |
-| Asso Bridge Enthusiast | 8.00% | ~2 |
+| Seven Days of Endless Adventure - Déjà Vu | 11.00% | ~3 |
+| Just Hoverin' Along | 11.00% | ~3 |
+| That Was a Snap! | 11.00% | ~3 |
+| It's Alive! | 11.00% | ~3 |
+| Farm Life! | 11.00% | ~3 |
+| Handyman Extraordinaire | 11.00% | ~3 |
+| River Cleaner | 11.00% | ~3 |
+| A New Time | 7.00% | ~2 |
+| Beetle Savant | 7.00% | ~2 |
+| Cicada Connoisseur | 7.00% | ~2 |
+| My Fair Ladybug | 7.00% | ~2 |
+| The Holly Grail | 7.00% | ~2 |
+| What's That Smell? | 7.00% | ~2 |
+| Biwa Be Mine | 7.00% | ~2 |
+| Ice Fishing | 7.00% | ~2 |
+| Did Someone Order Ramen? | 7.00% | ~2 |
+| Top-Notch Journalist | 7.00% | ~2 |
+| Ptera Pal | 7.00% | ~2 |
+| DJ Superstar | 7.00% | ~2 |
+| Asso Bridge Enthusiast | 7.00% | ~2 |
 | Bee Professor | 4.00% | ~1 |
 | Grasshopper Guru | 4.00% | ~1 |
 | Butterfly Maestro | 4.00% | ~1 |
@@ -51,7 +51,7 @@
 | Gumdum Robot, I Choose You! | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 363)  
+Progressed: 27 (Ranked 363)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-05-19 | 24 | 0 |
 | 2023-05-24 | 25 | 0 |
 | 2023-06-01 | 26 | 0 |
+| 2023-07-02 | 27 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

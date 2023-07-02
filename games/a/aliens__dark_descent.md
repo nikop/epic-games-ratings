@@ -1,29 +1,29 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.36 (Ranked 726)  
+Rating: 4.39 (Ranked 701)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~1,872 |
-| Snatched Out | 71.00% | ~1,704 |
-| Keep 'Em Coming | 69.00% | ~1,656 |
-| Cleaning Lethe, One Nest At A Time | 59.00% | ~1,416 |
-| Call Me Snake | 53.00% | ~1,272 |
-| Something Lurks Under The Hills | 52.00% | ~1,248 |
-| This Was No Papercut | 51.00% | ~1,224 |
-| The Shrink Hates Me | 46.00% | ~1,104 |
-| Use The Bumper, That's What It's For | 44.00% | ~1,056 |
-| People Person | 44.00% | ~1,056 |
-| Colonial Barrels | 40.00% | ~960 |
-| First Steps Into Madness | 40.00% | ~960 |
-| Damn Dude, You Gotta Lose Some Weight! | 34.00% | ~816 |
-| Harper's Hell | 30.00% | ~720 |
-| Making a Stand | 28.00% | ~672 |
-| Omelette Du Fromage | 26.00% | ~624 |
-| Recouped Investment | 26.00% | ~624 |
-| Where It All Begun | 23.00% | ~552 |
-| The More The Merrier | 17.00% | ~408 |
+| This Is Hayes, Pioneer Station, Signing Off | 78.00% | ~1,874 |
+| Snatched Out | 71.00% | ~1,706 |
+| Keep 'Em Coming | 69.00% | ~1,658 |
+| Cleaning Lethe, One Nest At A Time | 59.00% | ~1,418 |
+| Call Me Snake | 53.00% | ~1,274 |
+| Something Lurks Under The Hills | 52.00% | ~1,250 |
+| This Was No Papercut | 51.00% | ~1,226 |
+| The Shrink Hates Me | 46.00% | ~1,105 |
+| Use The Bumper, That's What It's For | 44.00% | ~1,057 |
+| People Person | 44.00% | ~1,057 |
+| Colonial Barrels | 40.00% | ~961 |
+| First Steps Into Madness | 40.00% | ~961 |
+| Damn Dude, You Gotta Lose Some Weight! | 34.00% | ~817 |
+| Harper's Hell | 30.00% | ~721 |
+| Making a Stand | 28.00% | ~673 |
+| Omelette Du Fromage | 26.00% | ~625 |
+| Recouped Investment | 26.00% | ~625 |
+| Where It All Begun | 23.00% | ~553 |
+| The More The Merrier | 17.00% | ~409 |
 | Living Nightmare | 16.00% | ~384 |
 | Stuff Of Nightmares | 13.00% | ~312 |
 | The Darwin Era Was Here | 12.00% | ~288 |
@@ -47,11 +47,11 @@ Rating: 4.36 (Ranked 726)
 | Hardened In The Heat Of Battle | 2.00% | ~48 |
 | Fair And Square | 0.50% | ~12 |
 | Archivist | 0.40% | ~10 |
-| Chalk It Up To Experience | 0.30% | ~7 |
+| Chalk It Up To Experience | 0.20% | ~5 |
 | Perfect Organism | 0.10% | ~2 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 156)  
+Progressed: 2,403 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 2,138 | 0 |
 | 2023-06-30 | 2,226 | 0 |
 | 2023-07-01 | 2,351 | 0 |
-| 2023-07-02 | 2,400 | 0 |
+| 2023-07-02 | 2,403 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 4.53 | 0 | 0 |
 | 2023-06-30 | 4.32 | 0 | 0 |
 | 2023-07-01 | 4.36 | 0 | 0 |
+| 2023-07-02 | 4.39 | 0 | 0 |

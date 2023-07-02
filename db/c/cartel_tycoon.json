@@ -5,7 +5,7 @@
   "Ranking_Rating": 735,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 90,
@@ -1010,9 +1010,9 @@
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "dont-miss-calls",
@@ -1154,8 +1154,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-07-02T12:07:34.9689463+00:00",
+  "LastChanged_Achievements": "2023-07-02T13:16:43.3643397+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:29.5662595+00:00",
-  "LastUpdate_Ratings": "2023-07-02T12:01:11.2573968+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:07:34.968962+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:10:51.2680809+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:16:43.3643553+00:00"
 }

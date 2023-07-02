@@ -4,7 +4,7 @@
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -58,6 +58,11 @@
       "Time": "2023-06-01T23:06:12.2939354+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T13:16:48.9091324+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -75,7 +80,7 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -83,7 +88,7 @@
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -91,7 +96,7 @@
       "ID": "Trophy_04",
       "SetID": "cf5h6dl",
       "Name": "A New Time",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -107,7 +112,7 @@
       "ID": "Trophy_06",
       "SetID": "cf5h6dl",
       "Name": "Beetle Savant",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -131,7 +136,7 @@
       "ID": "Trophy_09",
       "SetID": "cf5h6dl",
       "Name": "Cicada Connoisseur",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -147,7 +152,7 @@
       "ID": "Trophy_11",
       "SetID": "cf5h6dl",
       "Name": "Cabbage in the Baggage",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -155,7 +160,7 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -163,7 +168,7 @@
       "ID": "Trophy_13",
       "SetID": "cf5h6dl",
       "Name": "My Fair Ladybug",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -171,7 +176,7 @@
       "ID": "Trophy_14",
       "SetID": "cf5h6dl",
       "Name": "The Holly Grail",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -187,7 +192,7 @@
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -219,7 +224,7 @@
       "ID": "Trophy_20",
       "SetID": "cf5h6dl",
       "Name": "Biwa Be Mine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -235,7 +240,7 @@
       "ID": "Trophy_22",
       "SetID": "cf5h6dl",
       "Name": "That Was a Snap!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -243,7 +248,7 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -251,7 +256,7 @@
       "ID": "Trophy_24",
       "SetID": "cf5h6dl",
       "Name": "Ice Fishing",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "Trophy_26",
       "SetID": "cf5h6dl",
       "Name": "Farm Life!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -283,7 +288,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -299,7 +304,7 @@
       "ID": "Trophy_30",
       "SetID": "cf5h6dl",
       "Name": "Did Someone Order Ramen?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -323,7 +328,7 @@
       "ID": "Trophy_33",
       "SetID": "cf5h6dl",
       "Name": "Handyman Extraordinaire",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -331,7 +336,7 @@
       "ID": "Trophy_34",
       "SetID": "cf5h6dl",
       "Name": "Top-Notch Journalist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -355,7 +360,7 @@
       "ID": "Trophy_37",
       "SetID": "cf5h6dl",
       "Name": "Ptera Pal",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -395,7 +400,7 @@
       "ID": "Trophy_42",
       "SetID": "cf5h6dl",
       "Name": "DJ Superstar",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -403,7 +408,7 @@
       "ID": "Trophy_43",
       "SetID": "cf5h6dl",
       "Name": "River Cleaner",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -427,7 +432,7 @@
       "ID": "Trophy_46",
       "SetID": "cf5h6dl",
       "Name": "Asso Bridge Enthusiast",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     }
@@ -436,7 +441,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
@@ -444,8 +449,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-07-02T12:07:42.0921731+00:00",
+  "LastChanged_Achievements": "2023-07-02T13:16:48.9091316+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.3228361+00:00",
-  "LastUpdate_Ratings": "2023-07-02T12:01:19.8040957+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:07:42.0922031+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:10:57.1166084+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:16:48.9091646+00:00"
 }

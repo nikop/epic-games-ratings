@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~6,960 |
-| Battering Crew | 20.00% | ~3,480 |
-| The Kingsroad | 18.00% | ~3,132 |
-| Well Stocked | 14.00% | ~2,436 |
-| Royal Fleet | 14.00% | ~2,436 |
-| The Kraken’s Grasp | 9.00% | ~1,566 |
-| Daggers in the Dark | 8.00% | ~1,392 |
-| Oathkeeper | 8.00% | ~1,392 |
-| Alliance | 8.00% | ~1,392 |
-| A Long Journey | 8.00% | ~1,392 |
-| Ours is the Fury | 7.00% | ~1,218 |
-| Winter is Coming | 7.00% | ~1,218 |
-| Influential | 7.00% | ~1,218 |
-| We Do Not Sow | 6.00% | ~1,044 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~1,044 |
-| Hear me Roar! | 6.00% | ~1,044 |
-| Defender of the Wall | 6.00% | ~1,044 |
+| Conqueror | 40.00% | ~6,964 |
+| Battering Crew | 20.00% | ~3,482 |
+| The Kingsroad | 18.00% | ~3,134 |
+| Well Stocked | 14.00% | ~2,437 |
+| Royal Fleet | 14.00% | ~2,437 |
+| The Kraken’s Grasp | 9.00% | ~1,567 |
+| Daggers in the Dark | 8.00% | ~1,393 |
+| Oathkeeper | 8.00% | ~1,393 |
+| Alliance | 8.00% | ~1,393 |
+| A Long Journey | 8.00% | ~1,393 |
+| Ours is the Fury | 7.00% | ~1,219 |
+| Winter is Coming | 7.00% | ~1,219 |
+| Influential | 7.00% | ~1,219 |
+| We Do Not Sow | 6.00% | ~1,045 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~1,045 |
+| Hear me Roar! | 6.00% | ~1,045 |
+| Defender of the Wall | 6.00% | ~1,045 |
 | Growing Strong | 5.00% | ~870 |
 | What is Dead may Never Die | 3.00% | ~522 |
 | The Swift | 3.00% | ~522 |
 | King in the North | 2.00% | ~348 |
 | War of the Five Kings | 1.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,401 (Ranked 103)  
+Progressed: 17,409 (Ranked 103)  
 Completed: 34 (0.20%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 34 (0.20%) (Ranked 161)
 | 2023-06-29 | 17,153 | 34 |
 | 2023-06-30 | 17,245 | 34 |
 | 2023-07-01 | 17,362 | 34 |
-| 2023-07-02 | 17,401 | 34 |
+| 2023-07-02 | 17,409 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 307)  
 Sum: 784 (Ranked 259)  

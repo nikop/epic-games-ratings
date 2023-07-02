@@ -1954,9 +1954,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
@@ -1969,8 +1969,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-02T12:07:27.6662769+00:00",
+  "LastChanged_Achievements": "2023-07-02T13:16:37.3171764+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-02T12:00:15.0391021+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:07:27.6663212+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:10:12.7659878+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:16:37.3172199+00:00"
 }

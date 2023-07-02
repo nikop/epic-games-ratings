@@ -4234,9 +4234,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 309
     },
     {
       "ID": "thepowerofawakening",
@@ -4355,8 +4355,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-02T12:07:42.4145771+00:00",
+  "LastChanged_Achievements": "2023-07-02T13:16:49.2740567+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:58:32.3323517+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:07:42.4146534+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:08:54.8701165+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:16:49.2741351+00:00"
 }

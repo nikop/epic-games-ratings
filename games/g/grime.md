@@ -32,7 +32,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 7.00% | ~43 |
 | Artisan | 7.00% | ~43 |
 | Hush | 7.00% | ~43 |
-| All-Seeing | 6.00% | ~37 |
+| All-Seeing | 7.00% | ~43 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |
 | Kinship | 5.00% | ~31 |
@@ -44,8 +44,8 @@ Number of Ratings: 46  (23.09.2022)
 | Weakness | 4.00% | ~24 |
 | Listen | 4.00% | ~8 |
 | Zygote | 3.00% | ~6 |
+| Skinmaker | 2.00% | ~12 |
 | Generous | 2.00% | ~12 |
-| Skinmaker | 1.00% | ~6 |
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)

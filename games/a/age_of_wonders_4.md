@@ -6,6 +6,7 @@ Rating: 4.60 (Ranked 388)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 2.00% | ~98 |
+| Walls Cannot Stop Us | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
@@ -14,7 +15,6 @@ Rating: 4.60 (Ranked 388)
 | Full Ascension | 1.00% | ~49 |
 | Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
-| Walls Cannot Stop Us | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
@@ -26,18 +26,18 @@ Rating: 4.60 (Ranked 388)
 | Here be Dragons | 1.00% | ~49 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Against the Odds | 0.90% | ~44 |
+| In a Liege of Your Own | 0.80% | ~39 |
 | Duality | 0.80% | ~39 |
+| Valley of Wonders | 0.70% | ~34 |
 | Return of the Wizard King | 0.70% | ~34 |
 | Arch Mage | 0.70% | ~34 |
 | Digging for Treasure | 0.70% | ~34 |
-| In a Liege of Your Own | 0.70% | ~34 |
-| Valley of Wonders | 0.60% | ~29 |
 | Enchanted Archipelago | 0.60% | ~29 |
 | Eternal Lord | 0.60% | ~29 |
-| The Magic That Empowers Me! | 0.50% | ~24 |
-| God Emperor | 0.50% | ~24 |
-| The Creator | 0.50% | ~24 |
-| The Goddess of Nature | 0.50% | ~24 |
+| The Magic That Empowers Me! | 0.50% | ~25 |
+| God Emperor | 0.50% | ~25 |
+| The Creator | 0.50% | ~25 |
+| The Goddess of Nature | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |
 | Crimson Caldera | 0.40% | ~20 |
 | Manufactured War | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 388)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,900 (Ranked 134)  
+Progressed: 4,901 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
-| 2023-07-02 | 4,900 | 4 |
+| 2023-07-02 | 4,901 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -16,7 +16,7 @@ Number of Ratings: 101  (23.09.2022)
 | That was base | 38.00% | ~159 |
 | Safe Pair of Hands | 36.00% | ~151 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~126 |
-| Architect of Fortunes | 25.00% | ~105 |
+| Architect of Fortunes | 26.00% | ~109 |
 | Pampered Life | 25.00% | ~105 |
 | Bite the Blow | 24.00% | ~101 |
 | Spreading Fear | 9.00% | ~38 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.70% | ~3 |
 | Sense Of Style | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 220)  
+Progressed: 419 (Ranked 221)  
 Completed: 2 (0.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

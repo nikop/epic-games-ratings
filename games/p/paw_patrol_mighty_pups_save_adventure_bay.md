@@ -19,10 +19,10 @@
 | The Fastest | 36.00% | ~4 |
 | Animal Sighting | 36.00% | ~4 |
 | Mandy Family | 36.00% | ~4 |
+| In the Air | 27.00% | ~3 |
 | Never Miss | 27.00% | ~3 |
 | You Have Been Everywhere | 27.00% | ~3 |
 | Everything Under Control | 18.00% | ~2 |
-| In the Air | 18.00% | ~2 |
 | Clear the Road | 18.00% | ~2 |
 | Mountain and Ice | 18.00% | ~2 |
 | Adventure Bay’s Citizen | 18.00% | ~2 |

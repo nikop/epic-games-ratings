@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,692,699 |
-| Easy to forget | 46.00% | ~1,622,170 |
-| Back in the black | 38.00% | ~1,340,054 |
-| That's what I'm talking about | 28.00% | ~987,408 |
-| The Best of Both Worlds | 25.00% | ~881,614 |
-| Get your wings | 20.00% | ~705,291 |
-| Double trouble | 15.00% | ~528,969 |
-| Smashing it | 10.00% | ~352,646 |
-| But can it run Crysis? | 9.00% | ~317,381 |
-| My favourite feature... | 9.00% | ~317,381 |
-| From humble beginnings... | 7.00% | ~246,852 |
-| Customer satisfaction | 7.00% | ~246,852 |
-| Keeping things neat | 4.00% | ~141,058 |
-| Seems you're pretty good at this | 4.00% | ~141,058 |
+| You need to plug it in... | 48.00% | ~1,692,709 |
+| Easy to forget | 46.00% | ~1,622,179 |
+| Back in the black | 38.00% | ~1,340,061 |
+| That's what I'm talking about | 28.00% | ~987,414 |
+| The Best of Both Worlds | 25.00% | ~881,619 |
+| Get your wings | 20.00% | ~705,295 |
+| Double trouble | 15.00% | ~528,972 |
+| Smashing it | 10.00% | ~352,648 |
+| But can it run Crysis? | 9.00% | ~317,383 |
+| My favourite feature... | 9.00% | ~317,383 |
+| From humble beginnings... | 7.00% | ~246,853 |
+| Customer satisfaction | 7.00% | ~246,853 |
+| Keeping things neat | 4.00% | ~141,059 |
+| Seems you're pretty good at this | 4.00% | ~141,059 |
 | Triple threat | 3.00% | ~105,794 |
 | You rock at this! | 3.00% | ~105,794 |
 | Your music sucks | 3.00% | ~105,794 |
 | Bending over backwards | 3.00% | ~105,794 |
-| I'm broke, Uncle! | 2.00% | ~70,529 |
-| Maybe you should try something else? | 2.00% | ~70,529 |
-| Taking care of business | 2.00% | ~70,529 |
-| Perfection | 2.00% | ~70,529 |
-| Calling in Sick | 2.00% | ~70,529 |
+| I'm broke, Uncle! | 2.00% | ~70,530 |
+| Maybe you should try something else? | 2.00% | ~70,530 |
+| Taking care of business | 2.00% | ~70,530 |
+| Perfection | 2.00% | ~70,530 |
+| Calling in Sick | 2.00% | ~70,530 |
 | Overvolted | 1.00% | ~35,265 |
 | If you fail the first time... | 1.00% | ~35,265 |
 | Amazonian | 1.00% | ~35,265 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,526 |
 | Treat yourself - GPU | 0.10% | ~3,526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,526,457 (Ranked 4)  
+Progressed: 3,526,477 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 28 (0.00%) (Ranked 232)
 | 2023-06-29 | 3,525,381 | 28 |
 | 2023-06-30 | 3,525,817 | 28 |
 | 2023-07-01 | 3,526,247 | 28 |
-| 2023-07-02 | 3,526,457 | 28 |
+| 2023-07-02 | 3,526,477 | 28 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 137)  
 Sum: 7,859 (Ranked 96)  

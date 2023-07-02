@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,319 |
-| Biggest Communism Builder | 24.00% | ~29,416 |
-| The World's Most Laughable Centrist | 20.00% | ~24,513 |
-| Il Coppo Del'Arte! | 18.00% | ~22,062 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,611 |
-| Hyperstellar Law Official | 15.00% | ~18,385 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,159 |
+| Goodest Of The Good Cops | 28.00% | ~34,320 |
+| Biggest Communism Builder | 24.00% | ~29,417 |
+| The World's Most Laughable Centrist | 20.00% | ~24,514 |
+| Il Coppo Del'Arte! | 18.00% | ~22,063 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,612 |
+| Hyperstellar Law Official | 15.00% | ~18,386 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,160 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,934 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,934 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,482 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,483 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,031 |
-| Unbelievably Boring **** | 8.00% | ~9,805 |
-| Enemy Of The Physical Realm | 8.00% | ~9,805 |
+| Unbelievably Boring **** | 8.00% | ~9,806 |
+| Enemy Of The Physical Realm | 8.00% | ~9,806 |
 | Hardie's Heroes | 6.00% | ~7,354 |
 | The Lawbringer | 4.00% | ~4,903 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,903 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,567 (Ranked 60)  
+Progressed: 122,572 (Ranked 60)  
 Completed: 26 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 26 (0.02%) (Ranked 212)
 | 2023-06-29 | 122,425 | 26 |
 | 2023-06-30 | 122,470 | 26 |
 | 2023-07-01 | 122,532 | 26 |
-| 2023-07-02 | 122,567 | 26 |
+| 2023-07-02 | 122,572 | 26 |
 ## Awards
 Max (Character Customization): 699  (Ranked 161)  
 Sum: 1,059 (Ranked 233)  

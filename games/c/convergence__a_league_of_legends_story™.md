@@ -13,6 +13,7 @@
 | Cartographer | 13.00% | ~96 |
 | Time Flies | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |
+| The Family Fortune | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~88 |
 | The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
@@ -25,7 +26,6 @@
 | Immaculate Aim | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
 | The Brass Boss | 12.00% | ~88 |
-| The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |

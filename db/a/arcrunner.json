@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1515,9 +1515,9 @@
       "ID": "ACHV_HARDBOILED",
       "SetID": "cceobco",
       "Name": "Hard Boiled",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_INNERCORE",
@@ -1531,9 +1531,9 @@
       "ID": "ACHV_INTEGRATION",
       "SetID": "cceobco",
       "Name": "Integration",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHV_NANONIC1",
@@ -1571,9 +1571,9 @@
       "ID": "ACHV_RIPPERDOC",
       "SetID": "cceobco",
       "Name": "Ripperdoc",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_ROOKIE",
@@ -1587,9 +1587,9 @@
       "ID": "ACHV_SUPPLYRUN",
       "SetID": "cceobco",
       "Name": "Supply Run",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -1643,9 +1643,9 @@
       "ID": "ACHV_WEAPONSMITH",
       "SetID": "cceobco",
       "Name": "Weaponsmith",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHV_HELLRAISER",
@@ -1674,8 +1674,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-02T12:04:05.6174345+00:00",
+  "LastChanged_Achievements": "2023-07-02T13:14:08.6723123+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-02T12:00:32.4633435+00:00",
-  "LastUpdate_Achievements": "2023-07-02T12:04:05.6174859+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:10:25.9715945+00:00",
+  "LastUpdate_Achievements": "2023-07-02T13:14:08.672337+00:00"
 }

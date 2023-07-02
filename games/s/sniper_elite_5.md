@@ -6,11 +6,11 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Target America | 0.80% | ~26 |
+| Taking it back | 0.70% | ~22 |
 | Meeting Resistance | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
 | The Kraken Wakes | 0.60% | ~19 |
-| Taking it back | 0.60% | ~19 |
 | Climbing the Ladder | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
