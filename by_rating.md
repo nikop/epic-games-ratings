@@ -334,7 +334,7 @@
 | 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 503 |
 | 329 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 114 | 315 |
 | 329 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,163 | 103 |
-| 329 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 65 | 377 |
+| 329 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 66 | 375 |
 | 329 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 503 |
 | 329 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 503 |
 | 329 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 503 |
@@ -349,7 +349,7 @@
 | 345 | [Dead Space](games/d/dead_space.md) | 4.62 | 70 | 371 |
 | 345 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 277 | 238 |
 | 345 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 437 |
-| 345 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,361 | 122 |
+| 345 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,363 | 122 |
 | 345 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 503 |
 | 345 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 546 | 184 |
 | 345 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 503 |
@@ -454,7 +454,7 @@
 | 439 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 503 |
 | 439 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,364 | 84 |
 | 439 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 456 |
-| 439 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,800 | 19 |
+| 439 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,808 | 19 |
 | 439 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,754 | 112 |
 | 457 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 503 |
 | 457 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 503 |
@@ -712,28 +712,28 @@
 | 708 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 503 |
 | 708 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 562 | 178 |
 | 708 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 287 |
+| 708 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.38 | 0 | 503 |
 | 708 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.38 | 29 | 458 |
 | 708 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.38 | 0 | 503 |
 | 708 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 503 |
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 503 |
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 93 | 340 |
-| 718 | [Core](games/c/core.md) | 4.37 | 738 | 157 |
-| 718 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 503 |
-| 718 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,139 | 104 |
-| 718 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 503 |
-| 718 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.37 | 0 | 503 |
-| 718 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 503 |
-| 718 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 403 |
-| 718 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 98 | 331 |
-| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 419 |
-| 718 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 445 |
-| 728 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.36 | 0 | 503 |
-| 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
-| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,550 | 29 |
-| 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 503 |
-| 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
-| 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 503 |
+| 719 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 503 |
+| 719 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,139 | 104 |
+| 719 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 503 |
+| 719 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 503 |
+| 719 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 403 |
+| 719 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 98 | 331 |
+| 719 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 419 |
+| 719 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 445 |
+| 727 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.36 | 0 | 503 |
+| 727 | [Core](games/c/core.md) | 4.36 | 738 | 157 |
+| 727 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 727 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
+| 727 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,550 | 29 |
+| 727 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 503 |
+| 727 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
+| 727 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 503 |
 | 735 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 503 |
 | 735 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 503 |
 | 735 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 265 |

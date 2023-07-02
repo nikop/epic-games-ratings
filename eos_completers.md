@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 28 | [Ravenlok](games/r/ravenlok.md) | 7.30% |
+| 28 | [Ravenlok](games/r/ravenlok.md) | 7.29% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 30 | [Scorn](games/s/scorn.md) | 6.90% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -78,7 +78,7 @@
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
 | 78 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 79 | [Iron Danger](games/i/iron_danger.md) | 1.83% |
+| 79 | [Iron Danger](games/i/iron_danger.md) | 1.82% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
