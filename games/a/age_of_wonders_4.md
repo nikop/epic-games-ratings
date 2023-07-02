@@ -32,11 +32,11 @@ Rating: 4.60 (Ranked 388)
 | Return of the Wizard King | 0.70% | ~34 |
 | Arch Mage | 0.70% | ~34 |
 | Digging for Treasure | 0.70% | ~34 |
+| The Magic That Empowers Me! | 0.60% | ~29 |
+| The Creator | 0.60% | ~29 |
 | Enchanted Archipelago | 0.60% | ~29 |
 | Eternal Lord | 0.60% | ~29 |
-| The Magic That Empowers Me! | 0.50% | ~25 |
 | God Emperor | 0.50% | ~25 |
-| The Creator | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |
 | Crimson Caldera | 0.40% | ~20 |

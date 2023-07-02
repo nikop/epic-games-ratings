@@ -28,8 +28,8 @@
 | Integration | 0.90% | ~6 |
 | Destruction | 0.70% | ~5 |
 | Trickshot | 0.70% | ~5 |
+| Ripperdoc | 0.60% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
-| Ripperdoc | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |

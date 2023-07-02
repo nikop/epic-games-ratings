@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-remastered",
   "Ranking_Rating": 310,
   "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 328,
@@ -2364,6 +2364,6 @@
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
   "LastChanged": "2023-07-02T13:09:46.7402276+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.2456375+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:09:46.7402283+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:14:15.791416+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:59:00.3534217+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:03:20.6994186+00:00"
 }

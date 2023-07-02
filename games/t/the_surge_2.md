@@ -27,7 +27,7 @@ Rating: 4.24 (Ranked 809)
 | Clean Cut | 18.00% | ~328 |
 | Full Arsenal | 17.00% | ~310 |
 | Can't Trust Banks | 15.00% | ~273 |
-| Mommy Dearest | 13.00% | ~237 |
+| Mommy Dearest | 14.00% | ~255 |
 | Bad Dog | 13.00% | ~237 |
 | Where It All Began | 13.00% | ~237 |
 | Risk Tolerant | 13.00% | ~237 |

@@ -5,19 +5,19 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,450 |
-| World Map | 79.00% | ~1,219 |
+| Victor | 93.00% | ~1,436 |
+| World Map | 79.00% | ~1,220 |
 | Temple of Eternals | 57.00% | ~880 |
-| Prestigious | 54.00% | ~833 |
+| Prestigious | 53.00% | ~818 |
 | Fellowship Power | 41.00% | ~633 |
 | Guild Power | 25.00% | ~386 |
 | Prestigious x10 | 21.00% | ~324 |
-| The game is on | 20.00% | ~309 |
+| The game is on | 19.00% | ~293 |
 | Exotic Merchant | 17.00% | ~262 |
 | Dragon Clicker | 16.00% | ~247 |
 | Miner Clicker | 16.00% | ~247 |
-| Full Party | 15.00% | ~231 |
-| Inspection | 15.00% | ~231 |
+| Full Party | 15.00% | ~232 |
+| Inspection | 15.00% | ~232 |
 | Enlightenment | 14.00% | ~216 |
 | Hero inspection | 14.00% | ~216 |
 | Dragon Master | 13.00% | ~201 |
@@ -37,8 +37,8 @@ Rating: 4.07 (Ranked 895)
 | Relic Of The Past | 9.00% | ~139 |
 | Scroll Master | 9.00% | ~139 |
 | The power of Awakening | 9.00% | ~139 |
-| Daily Quest Completionist | 8.00% | ~123 |
-| Four Leaf Clover | 8.00% | ~123 |
+| Daily Quest Completionist | 8.00% | ~124 |
+| Four Leaf Clover | 8.00% | ~124 |
 | Here We Go Again | 7.00% | ~108 |
 | Master Enchanter | 7.00% | ~108 |
 | The father of Dragons | 7.00% | ~108 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,543 (Ranked 168)  
+Progressed: 1,544 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.06%) (Ranked 196)
 | 2023-06-29 | 1,526 | 1 |
 | 2023-06-30 | 1,532 | 1 |
 | 2023-07-01 | 1,539 | 1 |
-| 2023-07-02 | 1,543 | 1 |
+| 2023-07-02 | 1,544 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

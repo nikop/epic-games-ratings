@@ -9,13 +9,13 @@
 | Rail Rat | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~96 |
 | Treasure Trove | 13.00% | ~96 |
+| The Man Who Shattered Time | 13.00% | ~96 |
 | Make Up For Lost Time | 13.00% | ~96 |
 | Cartographer | 13.00% | ~96 |
 | Time Flies | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |
 | The Family Fortune | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~88 |
-| The Man Who Shattered Time | 12.00% | ~88 |
 | The Loose Cannon | 12.00% | ~88 |
 | The Harder They Fall | 12.00% | ~88 |
 | No, Thanks! | 12.00% | ~88 |

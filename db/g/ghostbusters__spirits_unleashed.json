@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1362,9 +1362,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23929,
+  "EOS_Progressed": 23930,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7052,6 +7052,11 @@
       "Time": "2023-07-02T13:13:43.8478863+00:00",
       "NumProgressed": 23929,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-02T14:03:08.9837061+00:00",
+      "NumProgressed": 23930,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7063,7 +7068,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17468
+      "UsersEstimate": 17469
     },
     {
       "ID": "Animated",
@@ -7079,7 +7084,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Best_Insurance",
@@ -7127,7 +7132,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "Daily_Dose",
@@ -7135,7 +7140,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Diabolical",
@@ -7351,7 +7356,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7657
+      "UsersEstimate": 7658
     },
     {
       "ID": "Stunner",
@@ -7367,7 +7372,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20579
+      "UsersEstimate": 20580
     },
     {
       "ID": "Summoner",
@@ -7391,7 +7396,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 13161
+      "UsersEstimate": 13162
     },
     {
       "ID": "Teamwork",
@@ -7423,7 +7428,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7455,7 +7460,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 7657
+      "UsersEstimate": 7658
     },
     {
       "ID": "Whoopsie",
@@ -7470,7 +7475,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23929,
+      "Progressed": 23930,
       "Completed": 46
     }
   ],
@@ -7478,8 +7483,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-02T13:09:47.8528166+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:13:43.8478859+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:03:08.9837057+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:09:47.8528174+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:13:43.8479458+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:59:01.5401404+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:03:08.9837659+00:00"
 }

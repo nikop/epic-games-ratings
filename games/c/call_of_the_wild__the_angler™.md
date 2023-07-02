@@ -28,8 +28,8 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 4.00% | ~182 |
 | Gonna Need a Bigger Boat | 3.00% | ~136 |
 | The Beetles | 2.00% | ~91 |
+| Rod and Troll | 2.00% | ~78 |
 | Taylor Made | 1.00% | ~45 |
-| Rod and Troll | 1.00% | ~39 |
 | Head for Heights | 0.60% | ~27 |
 | Fish upon a Star | 0.50% | ~20 |
 | Lake Me up Before You Go Go | 0.40% | ~18 |
@@ -118,8 +118,8 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 4,546 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 445)  
-Sum: 158 (Ranked 385)  
-Diff (max vs sum): 60  
+Sum: 158 (Ranked 386)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 32 |

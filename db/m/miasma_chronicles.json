@@ -2156,9 +2156,9 @@
       "ID": "BOOKWORM",
       "SetID": "9a4jnji",
       "Name": "Bookworm",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BOT_WHISPERER",
@@ -2372,9 +2372,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 768
     },
     {
       "ID": "INFILTRATOR",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:13:11.6387537+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:02:07.7765254+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:09:09.9796701+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:13:11.6387958+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:58:23.9986096+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:02:07.7765683+00:00"
 }

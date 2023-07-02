@@ -9,7 +9,7 @@ Rating: 4.38 (Ranked 710)
 | Ranidaphobia | 77.00% | ~924 |
 | Aspiring Editor | 75.00% | ~900 |
 | Gun for Hire | 70.00% | ~840 |
-| I am the law! | 63.00% | ~756 |
+| I am the law! | 64.00% | ~768 |
 | Lumberjack | 52.00% | ~624 |
 | Croaked | 47.00% | ~564 |
 | Limp Richard | 46.00% | ~552 |
@@ -54,8 +54,8 @@ Rating: 4.38 (Ranked 710)
 | Alpha Editor | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
+| Bookworm | 0.70% | ~8 |
 | Goaaaaal! | 0.70% | ~8 |
-| Bookworm | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,200 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 232)  

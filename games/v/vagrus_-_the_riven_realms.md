@@ -15,6 +15,7 @@
 | Scholar | 5.00% | ~6 |
 | Breached | 5.00% | ~6 |
 | Conciliator | 4.00% | ~5 |
+| The More the Merrier | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |
@@ -22,7 +23,6 @@
 | Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
-| The More the Merrier | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Supercargo | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |

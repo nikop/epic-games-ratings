@@ -2385,9 +2385,9 @@
       "ID": "achCity",
       "SetID": "dgl390n",
       "Name": "City",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 396
     },
     {
       "ID": "achCollectAllMedals",
@@ -2761,8 +2761,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:16:53.5718306+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:05:59.9984881+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:53.6658192+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:10:29.2381896+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:16:53.5718839+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:59:41.8448309+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:05:59.9985395+00:00"
 }

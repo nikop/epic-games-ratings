@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -943,8 +943,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:16:53.870132+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:06:00.3096856+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.8289655+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:08:24.5862812+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:16:53.8701944+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:57:31.7705+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:06:00.3097462+00:00"
 }

@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5079,
+  "EOS_Progressed": 5080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2023-07-02T13:11:30.6706855+00:00",
       "NumProgressed": 5079,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T14:00:48.2179277+00:00",
+      "NumProgressed": 5080,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2071,7 +2076,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ach_campaign_progress10",
@@ -2622,15 +2627,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5079,
+      "Progressed": 5080,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:11:30.6706851+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:00:48.2179273+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.8817899+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:09:47.6066661+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:11:30.6707827+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:59:01.1629137+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:00:48.2180021+00:00"
 }

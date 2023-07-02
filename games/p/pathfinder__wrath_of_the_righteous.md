@@ -6,21 +6,21 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 19.00% | ~1,926 |
-| A Spark | 14.00% | ~1,419 |
+| Devoured by Darkness | 19.00% | ~1,927 |
+| A Spark | 14.00% | ~1,420 |
 | Burning City | 13.00% | ~1,318 |
-| Mythic Choices | 11.00% | ~1,115 |
-| Defender's Heart | 11.00% | ~1,115 |
+| Mythic Choices | 11.00% | ~1,116 |
+| Defender's Heart | 11.00% | ~1,116 |
 | Banner over the Citadel | 10.00% | ~1,014 |
-| Queen's Gratitude | 9.00% | ~912 |
+| Queen's Gratitude | 9.00% | ~913 |
 | Fifth Crusade | 6.00% | ~608 |
-| Embrace of the Abyss | 4.00% | ~405 |
-| Path of the Angel | 4.00% | ~405 |
-| Transformation | 4.00% | ~405 |
-| Great Upstart | 4.00% | ~405 |
-| Voice from Your Dreams | 4.00% | ~405 |
-| All Paths Open | 4.00% | ~405 |
-| Demonic and Divine | 4.00% | ~405 |
+| Embrace of the Abyss | 4.00% | ~406 |
+| Path of the Angel | 4.00% | ~406 |
+| Transformation | 4.00% | ~406 |
+| Great Upstart | 4.00% | ~406 |
+| Voice from Your Dreams | 4.00% | ~406 |
+| All Paths Open | 4.00% | ~406 |
+| Demonic and Divine | 4.00% | ~406 |
 | Path of the Azata | 3.00% | ~304 |
 | The Legacy | 3.00% | ~304 |
 | Divide and Rule | 3.00% | ~304 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,137 (Ranked 116)  
+Progressed: 10,141 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,17 +196,17 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 10,102 | 0 |
 | 2023-06-30 | 10,111 | 0 |
 | 2023-07-01 | 10,126 | 0 |
-| 2023-07-02 | 10,137 | 0 |
+| 2023-07-02 | 10,141 | 0 |
 ## Awards
 Max (Character Customization): 1,670  (Ranked 114)  
-Sum: 6,787 (Ranked 111)  
+Sum: 6,788 (Ranked 111)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,670 |
 | This game is Extremely Fun | 640 |
+| This game has Amazing Characters | 620 |
 | This game is Highly Recommended | 620 |
-| This game has Amazing Characters | 619 |
 | This game has Diverse Characters | 604 |
 | This game has Amazing Storytelling | 600 |
 | This game has Challenging Combat | 559 |
@@ -372,4 +372,4 @@ Diff (max vs sum): 3
 | 2023-06-29 | 4.76 | - | 1,669 | 6,782 |
 | 2023-06-30 | 4.76 | - | 1,670 | 6,785 |
 | 2023-07-01 | 4.76 | - | 1,670 | 6,786 |
-| 2023-07-02 | 4.76 | - | 1,670 | 6,787 |
+| 2023-07-02 | 4.76 | - | 1,670 | 6,788 |

@@ -6,7 +6,7 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~226 |
+| Welcome to Redo | 98.00% | ~228 |
 | Daily Life Begins Anew | 82.00% | ~191 |
 | Our World Now | 81.00% | ~189 |
 | Never Saw It Coming | 66.00% | ~154 |

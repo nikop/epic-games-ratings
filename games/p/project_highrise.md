@@ -11,8 +11,8 @@
 | Floor Galore | 38.00% | ~87 |
 | Dinner Dash | 38.00% | ~87 |
 | Need a Consult | 35.00% | ~80 |
+| Upgrade Unlock | 34.00% | ~78 |
 | It's Technical | 34.00% | ~78 |
-| Upgrade Unlock | 33.00% | ~76 |
 | Delegate Maintenance | 33.00% | ~76 |
 | Proper Walls | 31.00% | ~71 |
 | Destination Destiny | 28.00% | ~64 |
@@ -22,9 +22,9 @@
 | Retail Revenue | 23.00% | ~53 |
 | Smooth Service | 23.00% | ~53 |
 | Lux Living | 21.00% | ~48 |
+| Don't Feel a Loan | 21.00% | ~48 |
 | People Mover | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |
-| Don't Feel a Loan | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
 | Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
@@ -39,8 +39,8 @@
 | Terrifically Trashed | 14.00% | ~32 |
 | Thrilled Tenants | 14.00% | ~32 |
 | Smooth Operator | 13.00% | ~30 |
+| 28 Days Later | 12.00% | ~27 |
 | Swimming in Surplus | 12.00% | ~27 |
-| 28 Days Later | 11.00% | ~25 |
 | Plaza Plan | 10.00% | ~23 |
 | Master of Puppets | 9.00% | ~21 |
 | Refined Palates | 9.00% | ~21 |

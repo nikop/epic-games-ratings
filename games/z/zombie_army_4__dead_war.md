@@ -29,7 +29,7 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,465 |
 | You've got red on you | 34.00% | ~14,605 |
 | All roads lead to Rome | 33.00% | ~14,176 |
-| You're all going to die down here | 31.00% | ~13,317 |
+| You're all going to die down here | 32.00% | ~13,746 |
 | He did Nazi that coming | 31.00% | ~13,317 |
 | Kill of the week | 31.00% | ~13,317 |
 | I never liked them anyway | 30.00% | ~12,887 |
@@ -148,12 +148,12 @@ Completed: 25 (0.06%) (Ranked 196)
 | 2023-07-01 | 42,951 | 25 |
 | 2023-07-02 | 42,957 | 25 |
 ## Awards
-Max (Great Boss Battles): 796  (Ranked 151)  
-Sum: 2,423 (Ranked 173)  
+Max (Great Boss Battles): 797  (Ranked 151)  
+Sum: 2,424 (Ranked 173)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 796 |
+| This game has Great Boss Battles | 797 |
 | This game is Great for Beginners | 246 |
 | This game has Diverse Characters | 207 |
 | This game is Extremely Fun | 206 |
@@ -309,4 +309,4 @@ Diff (max vs sum): -22
 | 2023-06-25 | 4.69 | - | 795 | 2,419 |
 | 2023-06-28 | 4.69 | - | 796 | 2,420 |
 | 2023-06-29 | 4.69 | - | 796 | 2,422 |
-| 2023-07-02 | 4.69 | - | 796 | 2,423 |
+| 2023-07-02 | 4.69 | - | 797 | 2,424 |

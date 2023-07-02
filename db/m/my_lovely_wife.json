@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "ACH_ASSIGN_PLAZA_2",
       "SetID": "ajki3eh",
       "Name": "Precious",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_ASSIGN_RUIN_1",
@@ -570,8 +570,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-02T13:13:27.1912611+00:00",
+  "LastChanged_Achievements": "2023-07-02T14:02:22.8061386+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:36.4864004+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:09:00.6662578+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:13:27.1912814+00:00"
+  "LastUpdate_Ratings": "2023-07-02T13:58:14.1782741+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:02:22.806158+00:00"
 }

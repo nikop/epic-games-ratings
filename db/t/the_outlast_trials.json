@@ -4,7 +4,7 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 272,
   "Ranking_Popularity": 358,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 328,
@@ -922,10 +922,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-07-02T14:00:27.1826563+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
+  "NumberOfAwards": 500,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -951,7 +957,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Great for Beginners",
@@ -981,7 +987,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 52
+      "Count": 55
     }
   ],
   "EOS_Progressed": 0,
@@ -996,8 +1002,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-07-02T13:11:13.7764878+00:00",
+  "LastChanged": "2023-07-02T14:00:27.182656+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:07.6141728+00:00",
-  "LastUpdate_Ratings": "2023-07-02T13:11:13.7764882+00:00",
-  "LastUpdate_Achievements": "2023-07-02T13:16:20.0302902+00:00"
+  "LastUpdate_Ratings": "2023-07-02T14:00:27.1826568+00:00",
+  "LastUpdate_Achievements": "2023-07-02T14:05:25.7943652+00:00"
 }

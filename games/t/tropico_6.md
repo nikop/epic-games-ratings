@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~2,984 |
-| Un-Lonely Island | 48.00% | ~1,884 |
-| The Beginning of a Servantship | 45.00% | ~1,767 |
+| Just One...More...Term... | 76.00% | ~2,985 |
+| Un-Lonely Island | 48.00% | ~1,885 |
+| The Beginning of a Servantship | 45.00% | ~1,768 |
 | Trade Is My Trait | 37.00% | ~1,453 |
-| Number 18 | 24.00% | ~942 |
-| We Don't Have Time For That | 20.00% | ~785 |
+| Number 18 | 24.00% | ~943 |
+| We Don't Have Time For That | 20.00% | ~786 |
 | The Governator | 18.00% | ~707 |
-| The Legend of Langostino | 17.00% | ~667 |
+| The Legend of Langostino | 17.00% | ~668 |
 | Caribbean Comrade | 16.00% | ~628 |
 | The Dreamer of Dreams | 16.00% | ~628 |
 | Happy Ending? | 11.00% | ~432 |
@@ -26,11 +26,11 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 8.00% | ~314 |
 | French Connection | 8.00% | ~314 |
 | Don't Panic! | 7.00% | ~275 |
-| Computer Says "No" | 6.00% | ~236 |
 | Beware The Betman | 6.00% | ~236 |
 | I Owe You Nothing | 6.00% | ~236 |
 | Watch The World Burn | 6.00% | ~236 |
 | Viva Tropico! | 5.00% | ~196 |
+| Computer Says "No" | 5.00% | ~196 |
 | Fairy Tale Come True | 5.00% | ~196 |
 | Apocalypso | 4.00% | ~157 |
 | Been there, Done That | 3.00% | ~118 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~35 |
 | My Ways | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,926 (Ranked 140)  
+Progressed: 3,928 (Ranked 140)  
 Completed: 1 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,11 +120,11 @@ Completed: 1 (0.03%) (Ranked 206)
 | 2023-06-29 | 3,880 | 1 |
 | 2023-06-30 | 3,897 | 1 |
 | 2023-07-01 | 3,916 | 1 |
-| 2023-07-02 | 3,926 | 1 |
+| 2023-07-02 | 3,928 | 1 |
 ## Awards
-Max (Quickly Understood Controls): 93  (Ranked 340)  
+Max (Quickly Understood Controls): 93  (Ranked 341)  
 Sum: 661 (Ranked 277)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
