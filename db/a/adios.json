@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -72,10 +72,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64280,
+  "EOS_Progressed": 64284,
   "EOS_Completed": 594,
-  "EOS_NewPlayers": 1048,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1050,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
@@ -7867,6 +7867,11 @@
       "Time": "2023-07-02T07:05:39.6036122+00:00",
       "NumProgressed": 64280,
       "NumCompleted": 594
+    },
+    {
+      "Time": "2023-07-02T08:06:40.2850042+00:00",
+      "NumProgressed": 64284,
+      "NumCompleted": 594
     }
   ],
   "TotalAchievements": 25,
@@ -7878,7 +7883,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -7886,7 +7891,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Adios, Friendo",
@@ -7894,7 +7899,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11570
+      "UsersEstimate": 11571
     },
     {
       "ID": "Audiophile",
@@ -7942,7 +7947,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "HardWorker",
@@ -7950,7 +7955,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12856
+      "UsersEstimate": 12857
     },
     {
       "ID": "Hearty",
@@ -7958,7 +7963,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "LazyBones",
@@ -7966,7 +7971,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "Magnetic Miracles",
@@ -7982,7 +7987,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12856
+      "UsersEstimate": 12857
     },
     {
       "ID": "Meaty",
@@ -7990,7 +7995,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Mechanic",
@@ -7998,7 +8003,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12213
+      "UsersEstimate": 12214
     },
     {
       "ID": "Nice Try",
@@ -8030,7 +8035,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8356
+      "UsersEstimate": 8357
     },
     {
       "ID": "Sniper",
@@ -8054,7 +8059,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "Tape Head",
@@ -8077,7 +8082,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64280,
+      "Progressed": 64284,
       "Completed": 594
     }
   ],
@@ -8085,8 +8090,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:05:39.6036118+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:06:40.2850037+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:00:25.2059895+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:05:39.6036696+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:01:09.3131625+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:06:40.2850539+00:00"
 }

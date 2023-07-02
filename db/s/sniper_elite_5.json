@@ -368,7 +368,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3189,
+  "EOS_Progressed": 3190,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
@@ -4578,6 +4578,11 @@
       "Time": "2023-07-02T07:05:52.5293489+00:00",
       "NumProgressed": 3189,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-02T08:06:55.0546237+00:00",
+      "NumProgressed": 3190,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4979,9 +4984,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -5156,13 +5161,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3140,
+      "Progressed": 3141,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3189,
+      "Progressed": 3190,
       "Completed": 6
     }
   ],
@@ -5170,8 +5175,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:05:52.5293485+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:06:55.054623+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:00:26.9770937+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:05:52.5294473+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:01:11.6072479+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:06:55.0546967+00:00"
 }

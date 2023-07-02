@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,11 +374,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14156,
+  "EOS_Progressed": 14159,
   "EOS_Completed": 298,
   "EOS_NewPlayers": 687,
-  "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -7909,6 +7909,11 @@
       "Time": "2023-07-02T07:05:41.659483+00:00",
       "NumProgressed": 14156,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-07-02T08:06:42.7740808+00:00",
+      "NumProgressed": 14159,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 20,
@@ -7920,7 +7925,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -7928,7 +7933,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "EAST_FINISHED",
@@ -7936,7 +7941,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -7968,7 +7973,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -7984,7 +7989,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "FOUND_ERIN",
@@ -8000,7 +8005,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "FOUND_MAMBA",
@@ -8008,7 +8013,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -8032,7 +8037,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8040,7 +8045,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10759
+      "UsersEstimate": 10761
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8048,7 +8053,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8079,15 +8084,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14156,
+      "Progressed": 14159,
       "Completed": 298
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:05:41.6594825+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:06:42.77408+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:00:08.2491387+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:05:41.659542+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:00:46.9416018+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:06:42.7741251+00:00"
 }

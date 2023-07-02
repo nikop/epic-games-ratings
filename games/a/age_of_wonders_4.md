@@ -6,6 +6,7 @@ Rating: 4.60 (Ranked 388)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 2.00% | ~98 |
+| My Final Form | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
 | Mighty Hoard | 2.00% | ~98 |
@@ -17,13 +18,12 @@ Rating: 4.60 (Ranked 388)
 | From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
-| My Final Form | 1.00% | ~49 |
+| Seat of Power | 1.00% | ~49 |
+| Fiery Friend | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Full Ascension | 0.90% | ~44 |
-| Seat of Power | 0.90% | ~44 |
-| Fiery Friend | 0.90% | ~44 |
 | Preparation Is Everything | 0.80% | ~39 |
 | Against the Odds | 0.80% | ~39 |
 | Duality | 0.80% | ~39 |
@@ -36,9 +36,9 @@ Rating: 4.60 (Ranked 388)
 | Eternal Lord | 0.60% | ~29 |
 | The Magic That Empowers Me! | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
+| The Goddess of Nature | 0.50% | ~24 |
 | God Emperor | 0.40% | ~20 |
 | Lord of Chaos | 0.40% | ~20 |
-| The Goddess of Nature | 0.40% | ~20 |
 | Crimson Caldera | 0.30% | ~15 |
 | Manufactured War | 0.30% | ~15 |
 | The Eternal Court | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 388)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,899 (Ranked 134)  
+Progressed: 4,900 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
-| 2023-07-02 | 4,899 | 4 |
+| 2023-07-02 | 4,900 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

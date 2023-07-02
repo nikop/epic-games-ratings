@@ -2380,9 +2380,9 @@
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 372
     },
     {
       "ID": "LUMBERJACK",
@@ -2412,9 +2412,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 348
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:00:52.217904+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:02:13.9454319+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-02T06:58:19.8387924+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:00:52.2179567+00:00"
+  "LastUpdate_Ratings": "2023-07-02T07:58:45.6403331+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:02:13.9454782+00:00"
 }

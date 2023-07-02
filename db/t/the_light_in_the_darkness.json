@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1811,
+  "EOS_Progressed": 1812,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.5,
   "EosHistory": [
@@ -3348,6 +3348,11 @@
       "Time": "2023-07-02T06:00:29.0366987+00:00",
       "NumProgressed": 1811,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-07-02T08:01:23.4208857+00:00",
+      "NumProgressed": 1812,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 12,
@@ -3375,7 +3380,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3399,7 +3404,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Jude",
@@ -3415,7 +3420,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Little Helper",
@@ -3454,7 +3459,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1811,
+      "Progressed": 1812,
       "Completed": 154
     }
   ],
@@ -3462,8 +3467,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:00:34.9701903+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:01:23.4208852+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-02T06:59:31.3605367+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:00:34.9702289+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:00:04.2221238+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:01:23.4209129+00:00"
 }

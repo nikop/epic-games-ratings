@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56658,
+  "EOS_Progressed": 56661,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6692,6 +6692,11 @@
       "Time": "2023-07-02T07:00:51.1424935+00:00",
       "NumProgressed": 56658,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-02T08:02:12.6129498+00:00",
+      "NumProgressed": 56661,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6703,7 +6708,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18697
+      "UsersEstimate": 18698
     },
     {
       "ID": "02",
@@ -6735,7 +6740,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10198
+      "UsersEstimate": 10199
     },
     {
       "ID": "06",
@@ -6743,7 +6748,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "07",
@@ -6767,7 +6772,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "10",
@@ -6823,7 +6828,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "17",
@@ -6831,7 +6836,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "18",
@@ -6871,7 +6876,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6233
     },
     {
       "ID": "23",
@@ -6943,7 +6948,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "32",
@@ -6951,7 +6956,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14731
+      "UsersEstimate": 14732
     },
     {
       "ID": "33",
@@ -7023,7 +7028,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "42",
@@ -7039,7 +7044,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "44",
@@ -7238,21 +7243,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56658,
+      "Progressed": 56661,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20126,
+      "Progressed": 20129,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:00:51.1424929+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:02:12.6129492+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-02T06:57:48.4309337+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:00:51.142608+00:00"
+  "LastUpdate_Ratings": "2023-07-02T07:58:04.8840085+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:02:12.6130267+00:00"
 }

@@ -5135,9 +5135,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5303,9 +5303,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "STORY_HABITAT",
@@ -5351,9 +5351,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "STORY_TUNNELS",
@@ -5494,8 +5494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-01T17:58:22.7369369+00:00",
-  "LastChanged_Achievements": "2023-07-02T07:04:44.0444353+00:00",
+  "LastChanged_Achievements": "2023-07-02T08:05:31.6461791+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T06:57:58.9326807+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:04:44.0445014+00:00"
+  "LastUpdate_Ratings": "2023-07-02T07:58:19.1633728+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:05:31.6462329+00:00"
 }

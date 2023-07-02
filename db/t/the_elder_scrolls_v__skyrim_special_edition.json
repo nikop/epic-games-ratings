@@ -3,11 +3,11 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 125,
+  "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 159,
-  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-06T14:00:00+00:00",
@@ -1396,18 +1396,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 2923,
       "NumberOfAwardsMax": 1301
+    },
+    {
+      "Time": "2023-07-02T07:57:47.6909652+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2925,
+      "NumberOfAwardsMax": 1303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2923,
-  "NumberOfAwardsMax": 1301,
+  "NumberOfAwards": 2925,
+  "NumberOfAwardsMax": 1303,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1301
+      "Count": 1303
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1476,8 +1482,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-07-01T23:57:52.3211595+00:00",
+  "LastChanged": "2023-07-02T07:57:47.6909651+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.3298239+00:00",
-  "LastUpdate_Ratings": "2023-07-02T06:57:33.5305291+00:00",
-  "LastUpdate_Achievements": "2023-07-02T07:03:41.3198222+00:00"
+  "LastUpdate_Ratings": "2023-07-02T07:57:47.6909655+00:00",
+  "LastUpdate_Achievements": "2023-07-02T08:04:14.3716457+00:00"
 }

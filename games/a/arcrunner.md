@@ -14,9 +14,9 @@
 | Terminated II | 9.00% | ~62 |
 | Terminated III | 7.00% | ~48 |
 | Nanonic II | 6.00% | ~41 |
+| Starship Docks | 5.00% | ~34 |
 | The Bigger They Are | 4.00% | ~28 |
 | Cybernetic | 4.00% | ~28 |
-| Starship Docks | 4.00% | ~28 |
 | Nanonic III | 4.00% | ~28 |
 | Supply Run | 4.00% | ~28 |
 | Fully Modded | 3.00% | ~21 |

@@ -19,10 +19,10 @@ Number of Ratings: 22  (23.09.2022)
 | Lion Tamer | 17.00% | ~76 |
 | Amazing! | 16.00% | ~72 |
 | King of District 1 | 15.00% | ~68 |
+| Bar Brawler | 14.00% | ~63 |
 | Flawless Presentation | 14.00% | ~63 |
 | One More Thing... | 13.00% | ~58 |
 | Lucky Day | 13.00% | ~58 |
-| Bar Brawler | 13.00% | ~58 |
 | King of District 2 | 12.00% | ~54 |
 | Time Travel! | 10.00% | ~45 |
 | Marketing Manager | 10.00% | ~45 |

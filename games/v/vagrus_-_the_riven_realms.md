@@ -21,9 +21,9 @@
 | Tail-wind | 4.00% | ~5 |
 | Taskmaster | 4.00% | ~5 |
 | Quartermaster | 3.00% | ~3 |
+| Strategist | 3.00% | ~3 |
 | The More the Merrier | 3.00% | ~3 |
 | Supercargo | 2.00% | ~2 |
-| Strategist | 2.00% | ~2 |
 | Xevarian Gambit | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Been There | 2.00% | ~2 |
