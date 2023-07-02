@@ -83,9 +83,9 @@
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 83 | [Somerville](games/s/somerville.md) | 1.57% |
-| 84 | [Poosh XL](games/p/poosh_xl.md) | 1.52% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
-| 86 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
+| 85 | [Poosh XL](games/p/poosh_xl.md) | 1.50% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.37% |
