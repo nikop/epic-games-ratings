@@ -19,8 +19,8 @@
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.16% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
-| 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
+| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
+| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
@@ -109,7 +109,7 @@
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 111 | [Haven](games/h/haven.md) | 0.69% |
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |

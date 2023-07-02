@@ -41,7 +41,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 478 | 194 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 503 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,666 | 41 |
-| 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,502 | 60 |
+| 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,504 | 60 |
 | 41 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 359 | 218 |
 | 41 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 254 |
 | 41 | [Subnautica](games/s/subnautica.md) | 4.85 | 669 | 165 |
@@ -239,11 +239,11 @@
 | 219 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 503 |
 | 219 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 796 | 151 |
 | 239 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,333 | 86 |
-| 239 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,230 | 88 |
+| 239 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,235 | 88 |
 | 239 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 503 |
 | 239 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 503 |
 | 239 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,229 | 47 |
-| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,856 | 79 |
+| 239 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,857 | 79 |
 | 239 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 503 |
 | 239 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,662 | 3 |
 | 239 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 193,122 | 4 |
@@ -369,7 +369,7 @@
 | 363 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 377 | 211 |
 | 363 | [Darkwood](games/d/darkwood.md) | 4.61 | 321 | 227 |
 | 363 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 373 |
-| 363 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 39,785 | 12 |
+| 363 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 39,886 | 12 |
 | 363 | [GRIME](games/g/grime.md) | 4.61 | 0 | 503 |
 | 363 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 361 | 217 |
 | 363 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,128 | 135 |
@@ -475,7 +475,7 @@
 | 457 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 503 |
 | 457 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 355 |
 | 457 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 53 | 390 |
-| 457 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,103 | 75 |
+| 457 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,106 | 75 |
 | 477 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 503 |
 | 477 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 503 |
 | 477 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 59 | 386 |
@@ -708,7 +708,6 @@
 | 701 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 503 |
 | 701 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 326 | 226 |
 | 708 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 503 |
-| 708 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 503 |
 | 708 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 503 |
 | 708 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 562 | 178 |
 | 708 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 287 |
@@ -718,22 +717,23 @@
 | 708 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 503 |
 | 708 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 503 |
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.38 | 93 | 340 |
-| 719 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 503 |
-| 719 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,139 | 104 |
-| 719 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 503 |
-| 719 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 503 |
-| 719 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 403 |
-| 719 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 98 | 331 |
-| 719 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 419 |
-| 719 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 445 |
-| 727 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.36 | 0 | 503 |
-| 727 | [Core](games/c/core.md) | 4.36 | 738 | 157 |
-| 727 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 727 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
-| 727 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,550 | 29 |
-| 727 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 503 |
-| 727 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
-| 727 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 503 |
+| 718 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 503 |
+| 718 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,139 | 104 |
+| 718 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 503 |
+| 718 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 503 |
+| 718 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 403 |
+| 718 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 98 | 331 |
+| 718 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 419 |
+| 718 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 445 |
+| 726 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.36 | 0 | 503 |
+| 726 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 503 |
+| 726 | [Core](games/c/core.md) | 4.36 | 738 | 157 |
+| 726 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 726 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
+| 726 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,550 | 29 |
+| 726 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 503 |
+| 726 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
+| 726 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 503 |
 | 735 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 503 |
 | 735 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 503 |
 | 735 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 265 |
