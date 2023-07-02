@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,120 | 74 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 155,496 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 155,804 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,381 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 503 |
@@ -76,17 +76,17 @@
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,426 | 120 |
-| 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 216 | 257 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 463 |
 | 75 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 503 |
-| 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,335 | 51 |
-| 80 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,419 | 98 |
-| 80 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
-| 80 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 21 | 490 |
-| 80 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 503 |
-| 80 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 503 |
-| 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 321 | 227 |
-| 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 503 |
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,335 | 51 |
+| 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,419 | 98 |
+| 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 216 | 257 |
+| 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
+| 79 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 21 | 490 |
+| 79 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 503 |
+| 79 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 503 |
+| 79 | [The Messenger](games/t/the_messenger.md) | 4.80 | 321 | 227 |
+| 79 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 503 |
 | 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,465 | 119 |
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 411 | 205 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 288 |
@@ -306,7 +306,7 @@
 | 297 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 49 | 401 |
 | 297 | [Old World](games/o/old_world.md) | 4.65 | 218 | 254 |
 | 297 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 503 |
-| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,619 | 16 |
+| 297 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,628 | 16 |
 | 297 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 503 |
 | 297 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.65 | 21 | 490 |
 | 310 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 503 |
@@ -319,6 +319,7 @@
 | 310 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 503 |
 | 310 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 181 | 277 |
 | 310 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.64 | 0 | 503 |
+| 310 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 503 |
 | 310 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 503 |
 | 310 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.64 | 0 | 503 |
 | 310 | [Solar Ash](games/s/solar_ash.md) | 4.64 | 24 | 475 |
@@ -328,22 +329,21 @@
 | 310 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 503 |
 | 310 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.64 | 63 | 380 |
 | 310 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 190 | 273 |
-| 329 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.63 | 0 | 503 |
-| 329 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 490 |
-| 329 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 503 |
-| 329 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 503 |
-| 329 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 114 | 315 |
-| 329 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,163 | 103 |
-| 329 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 66 | 375 |
-| 329 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 503 |
-| 329 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 503 |
-| 329 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 503 |
-| 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 183 | 276 |
-| 329 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 231 |
-| 329 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 73 | 363 |
-| 329 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,750 | 113 |
-| 329 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 503 |
-| 329 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 503 |
+| 330 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.63 | 0 | 503 |
+| 330 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 490 |
+| 330 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 503 |
+| 330 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 503 |
+| 330 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.63 | 114 | 315 |
+| 330 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,163 | 103 |
+| 330 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 66 | 375 |
+| 330 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 503 |
+| 330 | [Road 96](games/r/road_96.md) | 4.63 | 0 | 503 |
+| 330 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 183 | 276 |
+| 330 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 231 |
+| 330 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.63 | 73 | 363 |
+| 330 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,750 | 113 |
+| 330 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 0 | 503 |
+| 330 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 503 |
 | 345 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 503 |
 | 345 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 71,789 | 9 |
 | 345 | [Dead Space](games/d/dead_space.md) | 4.62 | 70 | 371 |
