@@ -5,7 +5,7 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 21.92% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 21.33% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 20.00% |
@@ -17,19 +17,19 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.11% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.05% |
 | 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
-| 30 | [Scorn](games/s/scorn.md) | 6.90% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
+| 29 | [Scorn](games/s/scorn.md) | 6.90% |
+| 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
@@ -38,7 +38,7 @@
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.13% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.74% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.73% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
@@ -160,10 +160,10 @@
 | 156 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 159 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 162 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
-| 162 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 162 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
+| 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
+| 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
+| 161 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
 | 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 166 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 167 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
