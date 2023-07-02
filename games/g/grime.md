@@ -6,22 +6,22 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 28.00% | ~171 |
-| Imprint | 28.00% | ~171 |
+| Imprint | 29.00% | ~178 |
+| Taste | 28.00% | ~172 |
 | The Hunt | 24.00% | ~147 |
 | Ravenous | 24.00% | ~147 |
 | Weeper | 22.00% | ~135 |
 | Devourer | 17.00% | ~104 |
 | Silenced Whispers | 15.00% | ~92 |
-| Scion | 14.00% | ~27 |
-| Glare | 14.00% | ~27 |
+| Scion | 14.00% | ~28 |
+| Glare | 14.00% | ~28 |
 | Harmless | 14.00% | ~86 |
 | Yank | 14.00% | ~86 |
 | Sharpened Vessel | 13.00% | ~80 |
-| Jawcrab | 12.00% | ~73 |
-| Feast | 12.00% | ~73 |
-| Shapely | 11.00% | ~67 |
-| Jawstag | 11.00% | ~67 |
+| Jawcrab | 12.00% | ~74 |
+| Jawstag | 12.00% | ~74 |
+| Feast | 12.00% | ~74 |
+| Shapely | 11.00% | ~68 |
 | Host | 10.00% | ~20 |
 | Celebration | 9.00% | ~55 |
 | Inevitable | 9.00% | ~55 |
@@ -39,9 +39,9 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 5.00% | ~31 |
 | Unwrap the Gift | 5.00% | ~31 |
 | Proportions | 5.00% | ~31 |
-| Bloodhunter | 4.00% | ~24 |
-| Breath | 4.00% | ~24 |
-| Weakness | 4.00% | ~24 |
+| Bloodhunter | 4.00% | ~25 |
+| Breath | 4.00% | ~25 |
+| Weakness | 4.00% | ~25 |
 | Listen | 4.00% | ~8 |
 | Zygote | 3.00% | ~6 |
 | Skinmaker | 2.00% | ~12 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612 (Ranked 206)  
+Progressed: 614 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 606 | 0 |
 | 2023-06-30 | 609 | 0 |
 | 2023-07-01 | 611 | 0 |
-| 2023-07-02 | 612 | 0 |
+| 2023-07-02 | 614 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

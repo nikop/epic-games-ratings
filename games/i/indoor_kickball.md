@@ -27,8 +27,8 @@
 | Living Room Secret Spot | 15.00% | ~10 |
 | Angry Dad | 15.00% | ~10 |
 | Hi Hungry, I'm Dad | 11.00% | ~7 |
-| Interference | 9.00% | ~6 |
-| Angry Mom | 8.00% | ~5 |
+| Interference | 11.00% | ~7 |
+| Angry Mom | 9.00% | ~6 |
 | Just how we drew it up | 8.00% | ~5 |
 | Kitchen Secret Spot | 6.00% | ~4 |
 | Found the Secret Formula! | 6.00% | ~4 |

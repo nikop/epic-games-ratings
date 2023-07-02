@@ -31,7 +31,7 @@ Rating: 4.89 (Ranked 12)
 | Perfecter Parry-er! | 29.00% | ~982 |
 | I look cool. But I can look COOLER. | 28.00% | ~948 |
 | There's such a thing as TOO helpful | 22.00% | ~745 |
-| That's a lot of junk metal… | 19.00% | ~644 |
+| That's a lot of junk metal… | 20.00% | ~677 |
 | Well that was a rush! | 18.00% | ~610 |
 | Beat-hit mania | 18.00% | ~610 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~576 |

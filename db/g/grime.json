@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-07-02T03:26:41.0388181+00:00",
       "NumProgressed": 612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T20:01:47.3757599+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -654,7 +659,7 @@
       "Name": "Bloodhunter",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -702,7 +707,7 @@
       "Name": "Breath",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -710,7 +715,7 @@
       "Name": "Taste",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -742,7 +747,7 @@
       "Name": "Shapely",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -750,7 +755,7 @@
       "Name": "Scion",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -758,7 +763,7 @@
       "Name": "Glare",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -790,15 +795,15 @@
       "Name": "Jawcrab",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 74
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -822,7 +827,7 @@
       "Name": "Feast",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -860,9 +865,9 @@
       "ID": "MISC_ACTIVATESURROGATE",
       "SetID": "ccc0dlh",
       "Name": "Imprint",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 178
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -886,7 +891,7 @@
       "Name": "Weakness",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -981,21 +986,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 195,
+      "Progressed": 197,
       "Completed": 22
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:01:48.7828478+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:01:47.3757595+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:01:25.0715315+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:01:48.7828794+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:01:21.3978152+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:01:47.3757929+00:00"
 }

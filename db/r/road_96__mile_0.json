@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -914,6 +914,11 @@
       "Time": "2023-07-02T09:04:29.5718571+00:00",
       "NumProgressed": 327,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T20:05:04.6313614+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -925,15 +930,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "completeact3",
@@ -973,7 +978,7 @@
       "Name": "Freedom",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scoreminrankrf1",
@@ -981,7 +986,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scoreminrankrf2",
@@ -989,7 +994,7 @@
       "Name": "Partners in Crime",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scoreminrankrh1",
@@ -1021,7 +1026,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "scoreminrankrv1",
@@ -1029,7 +1034,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "scoreminrankrv2",
@@ -1044,7 +1049,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 2
     }
   ],
@@ -1052,8 +1057,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:05:17.205404+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:05:04.6313607+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.0323513+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:59:29.2283313+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:05:17.2054169+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:59:24.230314+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:05:04.6313747+00:00"
 }

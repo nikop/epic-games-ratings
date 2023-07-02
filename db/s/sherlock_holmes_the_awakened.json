@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1765,9 +1765,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 269
     },
     {
       "ID": "MQ04_1",
@@ -1918,8 +1918,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:05:44.323954+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:05:31.0593643+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:57:36.3357944+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:05:44.3239744+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:57:29.8986364+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:05:31.0593862+00:00"
 }

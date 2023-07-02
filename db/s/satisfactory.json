@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -7106,11 +7106,17 @@
       "Rating": 4.88,
       "NumberOfAwards": 87226,
       "NumberOfAwardsMax": 10381
+    },
+    {
+      "Time": "2023-07-02T20:00:33.215876+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 87288,
+      "NumberOfAwardsMax": 10404
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 87226,
-  "NumberOfAwardsMax": 10381,
+  "NumberOfAwards": 87288,
+  "NumberOfAwardsMax": 10404,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7123,7 +7129,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9564
+      "Count": 9584
     },
     {
       "Text": "This game is Relaxing",
@@ -7141,13 +7147,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9363
+      "Count": 9382
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 10381
+      "Count": 10404
     },
     {
       "Text": "This game is Educational",
@@ -7191,8 +7197,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-07-02T18:00:47.4533614+00:00",
+  "LastChanged": "2023-07-02T20:00:33.2158758+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.134431+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:00:37.0865878+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:03:35.6293357+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:00:33.2158764+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:03:33.4228173+00:00"
 }

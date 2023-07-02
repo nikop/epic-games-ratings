@@ -3,9 +3,9 @@
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 405,
-  "Ranking_EOS_Completed": 10,
+  "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 6,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 33.33,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -59,6 +59,11 @@
       "Time": "2023-07-02T18:03:12.9139848+00:00",
       "NumProgressed": 6,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T20:03:08.1054049+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -69,9 +74,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Intro",
@@ -101,9 +106,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Les",
@@ -117,9 +122,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nora",
@@ -133,9 +138,9 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Poklop",
@@ -165,9 +170,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -175,12 +180,12 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 6,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:03:10.5319256+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:03:08.1054044+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.2071405+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:56:58.5877628+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:03:10.531935+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:56:52.9154015+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:03:08.1054135+00:00"
 }

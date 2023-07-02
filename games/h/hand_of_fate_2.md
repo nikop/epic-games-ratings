@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~474,309 |
-| Apprentice | 58.00% | ~382,082 |
-| Close Shave | 25.00% | ~164,690 |
-| Mercenary | 23.00% | ~151,515 |
-| Ninja | 23.00% | ~151,515 |
+| The Fool | 72.00% | ~474,312 |
+| Apprentice | 58.00% | ~382,084 |
+| Close Shave | 25.00% | ~164,692 |
+| Mercenary | 23.00% | ~151,516 |
+| Ninja | 23.00% | ~151,516 |
 | Northern Scourge | 17.00% | ~111,990 |
 | Thief Bane | 14.00% | ~92,227 |
-| Master of Arms | 12.00% | ~79,051 |
-| Gambler | 10.00% | ~65,876 |
-| Dice Master | 10.00% | ~65,876 |
+| Master of Arms | 12.00% | ~79,052 |
+| Gambler | 10.00% | ~65,877 |
+| Dice Master | 10.00% | ~65,877 |
 | Swordsman | 9.00% | ~59,289 |
 | Knight | 8.00% | ~52,701 |
 | Cure for Corruption | 8.00% | ~52,701 |
 | Focused | 8.00% | ~52,701 |
 | Flurry of Fury | 8.00% | ~52,701 |
-| Long Shot | 7.00% | ~46,113 |
-| Devil Dice | 7.00% | ~46,113 |
-| Broken Heart | 7.00% | ~46,113 |
+| Long Shot | 7.00% | ~46,114 |
+| Devil Dice | 7.00% | ~46,114 |
+| Broken Heart | 7.00% | ~46,114 |
 | Adventurer | 6.00% | ~39,526 |
 | Empire's Bane | 6.00% | ~39,526 |
 | Jack of all Trades | 5.00% | ~32,938 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~659 |
 | Blood Pact | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,762 (Ranked 21)  
+Progressed: 658,766 (Ranked 21)  
 Completed: 165 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 165 (0.03%) (Ranked 206)
 | 2023-06-29 | 658,632 | 165 |
 | 2023-06-30 | 658,692 | 165 |
 | 2023-07-01 | 658,733 | 165 |
-| 2023-07-02 | 658,762 | 165 |
+| 2023-07-02 | 658,766 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 434)  
 Sum: 180 (Ranked 372)  

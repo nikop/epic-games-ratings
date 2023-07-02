@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527072,
+  "EOS_Progressed": 1527078,
   "EOS_Completed": 640,
-  "EOS_NewPlayers": 1491,
+  "EOS_NewPlayers": 1480,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8260,6 +8260,11 @@
       "Time": "2023-07-02T19:05:23.1127067+00:00",
       "NumProgressed": 1527072,
       "NumCompleted": 640
+    },
+    {
+      "Time": "2023-07-02T20:05:10.3274782+00:00",
+      "NumProgressed": 1527078,
+      "NumCompleted": 640
     }
   ],
   "TotalAchievements": 20,
@@ -8287,7 +8292,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30541
+      "UsersEstimate": 30542
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -8319,7 +8324,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 137436
+      "UsersEstimate": 137437
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -8343,7 +8348,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30541
+      "UsersEstimate": 30542
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -8359,7 +8364,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30541
+      "UsersEstimate": 30542
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -8367,7 +8372,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 152707
+      "UsersEstimate": 152708
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -8383,7 +8388,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137436
+      "UsersEstimate": 137437
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -8399,7 +8404,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30541
+      "UsersEstimate": 30542
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -8430,15 +8435,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1527072,
+      "Progressed": 1527078,
       "Completed": 640
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:05:23.1127062+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:05:10.3274778+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:22.4769959+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:01:01.4760552+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:05:23.1127566+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:00:57.481989+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:05:10.3275294+00:00"
 }

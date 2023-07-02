@@ -5,6 +5,7 @@ Rating: 4.60 (Ranked 388)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Realm Estate | 2.00% | ~98 |
 | Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
@@ -14,7 +15,6 @@ Rating: 4.60 (Ranked 388)
 | Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |
 | Full Ascension | 1.00% | ~49 |
-| Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | From Friends to Family | 1.00% | ~49 |
@@ -25,9 +25,9 @@ Rating: 4.60 (Ranked 388)
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
+| Arch Mage | 0.90% | ~44 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Duality | 0.90% | ~44 |
-| Arch Mage | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |
 | Valley of Wonders | 0.70% | ~34 |
 | Return of the Wizard King | 0.70% | ~34 |
@@ -38,8 +38,8 @@ Rating: 4.60 (Ranked 388)
 | The Creator | 0.60% | ~29 |
 | God Emperor | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
+| Crimson Caldera | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |
-| Crimson Caldera | 0.40% | ~20 |
 | The Eternal Court | 0.40% | ~20 |
 | Jack of All Tomes | 0.40% | ~20 |
 | Manufactured War | 0.30% | ~15 |

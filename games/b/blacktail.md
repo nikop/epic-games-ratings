@@ -9,15 +9,15 @@ Rating: 4.68 (Ranked 239)
 | Dental maturity | 20.00% | ~106 |
 | Devil's in the details | 14.00% | ~74 |
 | Uprooting | 12.00% | ~64 |
-| Forbidden techniques | 11.00% | ~58 |
+| Forbidden techniques | 12.00% | ~64 |
 | Devoted | 9.00% | ~48 |
 | Slavic squatter | 9.00% | ~48 |
 | Gold rush | 7.00% | ~37 |
 | Spirit animal | 7.00% | ~37 |
+| A friend in need... | 6.00% | ~32 |
 | Sneak peek | 5.00% | ~27 |
 | Fishing fanatic | 5.00% | ~27 |
 | Liar Liar | 5.00% | ~27 |
-| A friend in need... | 5.00% | ~27 |
 | Baba Yaga | 5.00% | ~27 |
 | Extensive retelling | 4.00% | ~21 |
 | Favorite | 4.00% | ~21 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1743,9 +1743,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42960,
+  "EOS_Progressed": 42961,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4568,6 +4568,11 @@
       "Time": "2023-07-02T19:07:29.2552537+00:00",
       "NumProgressed": 42960,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-02T20:07:24.0568915+00:00",
+      "NumProgressed": 42961,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4675,7 +4680,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -4683,7 +4688,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16754
+      "UsersEstimate": 16755
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -4699,7 +4704,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13747
+      "UsersEstimate": 13748
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -4771,7 +4776,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26635
+      "UsersEstimate": 26636
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -4795,7 +4800,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18902
+      "UsersEstimate": 18903
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -4827,7 +4832,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21050
+      "UsersEstimate": 21051
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -4867,7 +4872,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 15895
+      "UsersEstimate": 15896
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -4875,7 +4880,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18043
+      "UsersEstimate": 18044
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4939,7 +4944,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24487
+      "UsersEstimate": 24488
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4947,7 +4952,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20191
+      "UsersEstimate": 20192
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -4971,7 +4976,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18902
+      "UsersEstimate": 18903
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -4979,7 +4984,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27924
+      "UsersEstimate": 27925
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5019,7 +5024,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14606
+      "UsersEstimate": 14607
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -5035,7 +5040,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27924
+      "UsersEstimate": 27925
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5043,7 +5048,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10310
+      "UsersEstimate": 10311
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -5106,15 +5111,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42960,
+      "Progressed": 42961,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-02T19:00:46.9633726+00:00",
-  "LastChanged_Achievements": "2023-07-02T19:07:29.2552532+00:00",
+  "LastChanged_Achievements": "2023-07-02T20:07:24.0568911+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.9031073+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:00:46.9633731+00:00",
-  "LastUpdate_Achievements": "2023-07-02T19:07:29.2553182+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:00:43.668616+00:00",
+  "LastUpdate_Achievements": "2023-07-02T20:07:24.0569531+00:00"
 }
