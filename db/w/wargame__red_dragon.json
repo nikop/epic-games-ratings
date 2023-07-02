@@ -4,7 +4,7 @@
   "ProductSlug": "wargame-red-dragon",
   "Ranking_Rating": 219,
   "Ranking_Popularity": 147,
-  "Ranking_PopularitySum": 93,
+  "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 327,
@@ -4026,11 +4026,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 8267,
       "NumberOfAwardsMax": 914
+    },
+    {
+      "Time": "2023-07-02T08:57:47.6068167+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7458,
+      "NumberOfAwardsMax": 917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8267,
-  "NumberOfAwardsMax": 914,
+  "NumberOfAwards": 7458,
+  "NumberOfAwardsMax": 917,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4067,7 +4073,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 914
+      "Count": 917
     },
     {
       "Text": "This game is Educational",
@@ -4117,8 +4123,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-07-02T04:58:23.7146268+00:00",
+  "LastChanged": "2023-07-02T08:57:47.6068166+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:04.0654695+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:58:06.9850611+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:05:12.7252232+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:57:47.6068172+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:04:43.3043016+00:00"
 }

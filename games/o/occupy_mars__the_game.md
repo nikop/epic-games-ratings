@@ -10,7 +10,7 @@ Rating: 3.91 (Ranked 925)
 | Fear my botany powers, Mars | 32.00% | ~438 |
 | Zero Waste | 30.00% | ~411 |
 | Bob The Builder | 30.00% | ~411 |
-| I am the greatest botanist on this planet. | 28.00% | ~383 |
+| I am the greatest botanist on this planet. | 29.00% | ~397 |
 | Gardener | 25.00% | ~342 |
 | Miner | 25.00% | ~342 |
 | Occupy Mars! | 23.00% | ~315 |

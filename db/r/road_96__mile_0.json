@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -909,6 +909,11 @@
       "Time": "2023-07-02T00:05:16.9724294+00:00",
       "NumProgressed": 326,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T09:04:29.5718571+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -936,7 +941,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "findalltapes",
@@ -974,9 +979,9 @@
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrf2",
@@ -990,9 +995,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "scoreminrankrp1",
@@ -1039,7 +1044,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 2
     }
   ],
@@ -1047,8 +1052,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:04:56.7605142+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:04:29.5718566+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.0323513+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:59:16.3035875+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:04:56.7605287+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:58:46.8919975+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:04:29.5718701+00:00"
 }

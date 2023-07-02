@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -1038,9 +1038,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1206,9 +1206,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1341,8 +1341,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:04:23.7419559+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:03:47.2246125+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:01:04.5177683+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:04:23.7419938+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:00:17.4226207+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:03:47.2246396+00:00"
 }

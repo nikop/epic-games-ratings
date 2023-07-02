@@ -5,10 +5,10 @@
   "Ranking_Rating": 947,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
-  "Ranking_EOS_Progress": 77,
+  "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -72,7 +72,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64284,
+  "EOS_Progressed": 64289,
   "EOS_Completed": 594,
   "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 18,
@@ -7872,6 +7872,11 @@
       "Time": "2023-07-02T08:06:40.2850042+00:00",
       "NumProgressed": 64284,
       "NumCompleted": 594
+    },
+    {
+      "Time": "2023-07-02T09:05:57.3944853+00:00",
+      "NumProgressed": 64289,
+      "NumCompleted": 594
     }
   ],
   "TotalAchievements": 25,
@@ -7899,7 +7904,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "Audiophile",
@@ -7915,7 +7920,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14142
+      "UsersEstimate": 14144
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -7923,7 +7928,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10928
+      "UsersEstimate": 10929
     },
     {
       "ID": "Butcher",
@@ -7931,7 +7936,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Cut Call",
@@ -7955,7 +7960,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12857
+      "UsersEstimate": 12858
     },
     {
       "ID": "Hearty",
@@ -7979,7 +7984,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Master, Commander",
@@ -7987,7 +7992,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12857
+      "UsersEstimate": 12858
     },
     {
       "ID": "Meaty",
@@ -8003,7 +8008,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12214
+      "UsersEstimate": 12215
     },
     {
       "ID": "Nice Try",
@@ -8011,7 +8016,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10285
+      "UsersEstimate": 10286
     },
     {
       "ID": "Nothing Left to Say",
@@ -8027,7 +8032,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6428
+      "UsersEstimate": 6429
     },
     {
       "ID": "Right On Target",
@@ -8035,7 +8040,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8357
+      "UsersEstimate": 8358
     },
     {
       "ID": "Sniper",
@@ -8051,7 +8056,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "Taco Toto",
@@ -8082,7 +8087,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64284,
+      "Progressed": 64289,
       "Completed": 594
     }
   ],
@@ -8090,8 +8095,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:06:40.2850037+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:05:57.3944848+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:01:09.3131625+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:06:40.2850539+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:00:20.8739492+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:05:57.3945383+00:00"
 }

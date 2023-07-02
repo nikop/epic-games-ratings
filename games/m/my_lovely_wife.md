@@ -31,7 +31,7 @@ Number of Ratings: 25  (23.09.2022)
 | Faithful | 10.00% | ~59 |
 | A Close | 9.00% | ~53 |
 | Asmodeus | 8.00% | ~47 |
-| Luna | 7.00% | ~41 |
+| Luna | 8.00% | ~47 |
 | Lover | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
 | The Harvester | 0.80% | ~5 |

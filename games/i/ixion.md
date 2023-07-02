@@ -10,8 +10,8 @@ Rating: 4.57 (Ranked 439)
 | Infinite Growth... | 17.00% | ~470 |
 | Without Breaking Some Eggs... | 16.00% | ~442 |
 | Space Society | 12.00% | ~332 |
+| A Thousand Strong | 12.00% | ~332 |
 | Ready for a New World | 12.00% | ~332 |
-| A Thousand Strong | 11.00% | ~304 |
 | Permanent Redesigns | 10.00% | ~276 |
 | Fully Recycled | 9.00% | ~249 |
 | Ain't Nobody Got Time for That | 9.00% | ~249 |

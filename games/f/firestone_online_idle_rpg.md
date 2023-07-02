@@ -5,29 +5,29 @@ Rating: 4.07 (Ranked 895)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,448 |
+| Victor | 94.00% | ~1,449 |
 | World Map | 79.00% | ~1,217 |
 | Temple of Eternals | 57.00% | ~878 |
 | Prestigious | 54.00% | ~832 |
-| Fellowship Power | 41.00% | ~631 |
+| Fellowship Power | 41.00% | ~632 |
 | Guild Power | 25.00% | ~385 |
-| Prestigious x10 | 21.00% | ~323 |
+| Prestigious x10 | 21.00% | ~324 |
 | The game is on | 19.00% | ~293 |
 | Exotic Merchant | 17.00% | ~262 |
-| Dragon Clicker | 16.00% | ~246 |
-| Miner Clicker | 16.00% | ~246 |
+| Dragon Clicker | 16.00% | ~247 |
+| Miner Clicker | 16.00% | ~247 |
 | Full Party | 15.00% | ~231 |
 | Inspection | 15.00% | ~231 |
-| Dragon Master | 14.00% | ~216 |
 | Enlightenment | 14.00% | ~216 |
 | Hero inspection | 14.00% | ~216 |
+| Dragon Master | 13.00% | ~200 |
 | Lieutenant | 13.00% | ~200 |
 | Milestone collector | 12.00% | ~185 |
 | Mysterious Rock | 12.00% | ~185 |
 | Natural Talent | 12.00% | ~185 |
 | Superior | 12.00% | ~185 |
 | The Unstoppable | 12.00% | ~185 |
-| Scientist | 11.00% | ~169 |
+| Scientist | 11.00% | ~170 |
 | Challenger | 9.00% | ~139 |
 | Doing My Part | 9.00% | ~139 |
 | Frostfire Liberator | 9.00% | ~139 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 895)
 | Jewel Enchanting | 0.10% | ~2 |
 | Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,540 (Ranked 168)  
+Progressed: 1,541 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 1 (0.06%) (Ranked 196)
 | 2023-06-29 | 1,526 | 1 |
 | 2023-06-30 | 1,532 | 1 |
 | 2023-07-01 | 1,539 | 1 |
-| 2023-07-02 | 1,540 | 1 |
+| 2023-07-02 | 1,541 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4744,9 +4744,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4760,9 +4760,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -4944,9 +4944,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -5175,8 +5175,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:06:55.054623+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:06:10.0477231+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:01:11.6072479+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:06:55.0546967+00:00"
+  "LastUpdate_Ratings": "2023-07-02T09:00:22.6880996+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:06:10.0477989+00:00"
 }

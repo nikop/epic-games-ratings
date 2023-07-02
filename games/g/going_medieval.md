@@ -21,8 +21,8 @@ Number of Ratings: 706  (23.09.2022)
 | Feast or Famine | 49.00% | ~2,100 |
 | Adept Researcher | 44.00% | ~1,886 |
 | Retribution | 39.00% | ~1,672 |
+| ...And Don’t Come Back! | 39.00% | ~1,672 |
 | Fit For A King | 38.00% | ~1,629 |
-| ...And Don’t Come Back! | 38.00% | ~1,629 |
 | Luminary Researcher | 34.00% | ~1,457 |
 | Heating Up | 27.00% | ~1,157 |
 | Winter Is Coming | 24.00% | ~1,029 |

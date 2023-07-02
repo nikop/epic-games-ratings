@@ -4,7 +4,7 @@
   "ProductSlug": "back-4-blood",
   "Ranking_Rating": 602,
   "Ranking_Popularity": 83,
-  "Ranking_PopularitySum": 100,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 327,
@@ -3852,6 +3852,6 @@
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
   "LastChanged": "2023-07-02T07:58:26.7664282+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:29.2249981+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:58:26.7664291+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:03:20.7621606+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:58:04.3275639+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:02:31.2585379+00:00"
 }

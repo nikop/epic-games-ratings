@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -542,23 +542,29 @@
       "Rating": 4.5,
       "NumberOfAwards": 213,
       "NumberOfAwardsMax": 213
+    },
+    {
+      "Time": "2023-07-02T08:59:13.8125339+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 214
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 213,
-  "NumberOfAwardsMax": 213,
+  "NumberOfAwards": 214,
+  "NumberOfAwardsMax": 214,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 213
+      "Count": 214
     }
   ],
-  "EOS_Progressed": 462061,
+  "EOS_Progressed": 462063,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7941,6 +7947,11 @@
       "Time": "2023-07-02T08:06:53.9227266+00:00",
       "NumProgressed": 462061,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-02T09:06:09.0130519+00:00",
+      "NumProgressed": 462063,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 79,
@@ -8583,21 +8594,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 5995,
+      "Progressed": 5997,
       "Completed": 2351
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462061,
+      "Progressed": 462063,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-06-24T19:00:55.9935874+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:06:53.9227259+00:00",
+  "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:06:09.0130513+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.110503+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:59:47.7787869+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:06:53.922827+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:59:13.8125346+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:06:09.013154+00:00"
 }

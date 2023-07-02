@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 833)  
+Rating: 4.19 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,6 +10,7 @@ Rating: 4.20 (Ranked 833)
 | Keep Fighting | 1.00% | ~35 |
 | You Need a Gun | 0.80% | ~125 |
 | Flesh Wound | 0.80% | ~125 |
+| I Do Belong Here | 0.70% | ~109 |
 | Two Heads Are Better Than One | 0.70% | ~109 |
 | Chew 'Em Up | 0.70% | ~109 |
 | Workplace Hazard | 0.70% | ~109 |
@@ -18,14 +19,13 @@ Rating: 4.20 (Ranked 833)
 | If the SHU Fits... | 0.70% | ~109 |
 | Without A Paddle | 0.70% | ~109 |
 | In the Pipe, Five by Five | 0.70% | ~109 |
+| Crash Site | 0.70% | ~109 |
 | It's Time | 0.70% | ~25 |
 | Giving Back | 0.60% | ~94 |
-| I Do Belong Here | 0.60% | ~94 |
+| Terminated | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
-| Crash Site | 0.60% | ~94 |
 | Full Circle | 0.60% | ~94 |
 | Power Up | 0.60% | ~94 |
-| Terminated | 0.50% | ~78 |
 | The Commonality | 0.50% | ~78 |
 | What Lies Beneath | 0.50% | ~78 |
 | Desperate Times | 0.50% | ~78 |
@@ -127,12 +127,12 @@ Completed: 62 (0.40%) (Ranked 133)
 | 2023-07-01 | 15,611 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
-Sum: 354 (Ranked 321)  
+Sum: 355 (Ranked 321)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 63 |
-| This game is Highly Recommended | 61 |
+| This game is Highly Recommended | 62 |
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 50 |
@@ -222,3 +222,4 @@ Diff (max vs sum): 59
 | 2023-06-29 | 4.19 | 61 | 347 |
 | 2023-06-30 | 4.20 | 61 | 349 |
 | 2023-07-01 | 4.20 | 63 | 354 |
+| 2023-07-02 | 4.19 | 63 | 355 |

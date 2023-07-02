@@ -21,7 +21,7 @@ Number of Ratings: 180  (23.09.2022)
 | Cadet | 53.00% | ~724 |
 | Transport master | 52.00% | ~710 |
 | Sculpturer | 50.00% | ~683 |
-| Settled down | 48.00% | ~656 |
+| Settled down | 49.00% | ~669 |
 | First electric train arrived | 47.00% | ~642 |
 | First ship arrived | 46.00% | ~628 |
 | Now what? | 46.00% | ~628 |

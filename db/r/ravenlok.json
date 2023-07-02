@@ -3,9 +3,9 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1029,
-  "EOS_Completed": 75,
+  "EOS_Completed": 76,
   "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.29,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -2557,6 +2557,11 @@
       "Time": "2023-07-02T04:07:28.7611441+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-07-02T09:05:57.7641892+00:00",
+      "NumProgressed": 1029,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 50,
@@ -2968,15 +2973,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 1029,
-      "Completed": 75
+      "Completed": 76
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:06:40.7302605+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:05:57.7641888+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.6163993+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:57:47.0522471+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:06:40.7303063+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:57:30.4116248+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:05:57.7642333+00:00"
 }

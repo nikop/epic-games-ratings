@@ -1731,9 +1731,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42953,
+  "EOS_Progressed": 42954,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4531,6 +4531,11 @@
       "Time": "2023-07-02T06:05:55.6173196+00:00",
       "NumProgressed": 42953,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-02T09:06:11.3535179+00:00",
+      "NumProgressed": 42954,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4542,7 +4547,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26201
+      "UsersEstimate": 26202
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -4638,7 +4643,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6013
+      "UsersEstimate": 6014
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -4662,7 +4667,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -4750,7 +4755,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14174
+      "UsersEstimate": 14175
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -4758,7 +4763,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18899
+      "UsersEstimate": 18900
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -4766,7 +4771,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -4806,7 +4811,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -4838,7 +4843,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18040
+      "UsersEstimate": 18041
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -4846,7 +4851,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21476
+      "UsersEstimate": 21477
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -4854,7 +4859,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16322
+      "UsersEstimate": 16323
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -4870,7 +4875,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 29208
+      "UsersEstimate": 29209
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -4894,7 +4899,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19758
+      "UsersEstimate": 19759
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -4902,7 +4907,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24483
+      "UsersEstimate": 24484
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -4926,7 +4931,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11597
+      "UsersEstimate": 11598
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -4934,7 +4939,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18899
+      "UsersEstimate": 18900
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -4942,7 +4947,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27919
+      "UsersEstimate": 27920
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -4998,7 +5003,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27919
+      "UsersEstimate": 27920
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5069,15 +5074,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42953,
+      "Progressed": 42954,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-02T02:30:39.6337771+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:06:56.5016807+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:06:11.3535174+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.9031073+00:00",
-  "LastUpdate_Ratings": "2023-07-02T08:00:25.2226662+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:06:56.5017408+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:59:45.6954557+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:06:11.3535786+00:00"
 }

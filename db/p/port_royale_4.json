@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 700,
+  "EOS_Progressed": 701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1160,6 +1160,11 @@
       "Time": "2023-07-02T02:31:30.6027053+00:00",
       "NumProgressed": 700,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T09:00:37.5363973+00:00",
+      "NumProgressed": 701,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1171,7 +1176,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH001",
@@ -1179,7 +1184,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH002",
@@ -1227,7 +1232,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH008",
@@ -1267,7 +1272,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH013",
@@ -1355,7 +1360,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH024",
@@ -1459,7 +1464,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH037",
@@ -1475,7 +1480,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH039",
@@ -1570,15 +1575,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 700,
+      "Progressed": 701,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-02T08:01:27.2344107+00:00",
+  "LastChanged_Achievements": "2023-07-02T09:00:37.5363969+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.6916632+00:00",
-  "LastUpdate_Ratings": "2023-07-02T07:58:56.7870857+00:00",
-  "LastUpdate_Achievements": "2023-07-02T08:01:27.2344626+00:00"
+  "LastUpdate_Ratings": "2023-07-02T08:58:29.6069502+00:00",
+  "LastUpdate_Achievements": "2023-07-02T09:00:37.5364725+00:00"
 }

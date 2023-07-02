@@ -24,8 +24,8 @@ Rating: 4.60 (Ranked 388)
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Full Ascension | 0.90% | ~44 |
+| Against the Odds | 0.90% | ~44 |
 | Preparation Is Everything | 0.80% | ~39 |
-| Against the Odds | 0.80% | ~39 |
 | Duality | 0.80% | ~39 |
 | Digging for Treasure | 0.70% | ~34 |
 | In a Liege of Your Own | 0.70% | ~34 |

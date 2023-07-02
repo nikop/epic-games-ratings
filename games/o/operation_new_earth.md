@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 47.00% | ~145 |
+| It's Good to have Allies | 48.00% | ~148 |
 | Defenses Online | 43.00% | ~133 |
 | Facility Online | 39.00% | ~121 |
 | Corporal | 28.00% | ~87 |
@@ -19,9 +19,9 @@
 | Keeping Busy | 11.00% | ~34 |
 | Silver Competitor | 9.00% | ~28 |
 | Captain | 8.00% | ~25 |
+| Exterminator | 7.00% | ~22 |
 | Brothers in Arms | 7.00% | ~22 |
 | Factory Expansion | 7.00% | ~22 |
-| Exterminator | 6.00% | ~19 |
 | Player Betrayer | 4.00% | ~12 |
 | Moving On Up | 4.00% | ~12 |
 | Know The Enemy | 3.00% | ~9 |

@@ -17,7 +17,7 @@
 | Well-Stocked Kitchen | 5.00% | ~22 |
 | Culinary Arts | 4.00% | ~18 |
 | Perfectionist | 4.00% | ~18 |
-| Rolling in Dough | 3.00% | ~13 |
+| Rolling in Dough | 4.00% | ~18 |
 | Leaning Tower of Pizza | 3.00% | ~13 |
 | The Bigger the Better | 0.70% | ~3 |
 | Chef, Yes Chef! | 0.50% | ~2 |
