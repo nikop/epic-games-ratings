@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1728,9 +1728,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "MQ03_2",
@@ -1744,9 +1744,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "MQ03_4",
@@ -1832,9 +1832,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "MQ06_3",
@@ -1848,9 +1848,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "MQ07_1",
@@ -1913,8 +1913,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:05:20.2547897+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:05:46.4207262+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:57:28.8279682+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:05:20.2548131+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:57:43.6996702+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:05:46.4207487+00:00"
 }

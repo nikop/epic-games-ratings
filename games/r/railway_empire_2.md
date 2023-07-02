@@ -47,7 +47,7 @@ Rating: 4.39 (Ranked 701)
 | Settler | 13.00% | ~188 |
 | Go West | 11.00% | ~159 |
 | Bold and beautiful | 11.00% | ~159 |
-| A new Hope | 9.00% | ~130 |
+| A new Hope | 10.00% | ~145 |
 | Tycoon | 9.00% | ~130 |
 | Unstoppable | 6.00% | ~87 |
 | Track to the Future | 6.00% | ~87 |

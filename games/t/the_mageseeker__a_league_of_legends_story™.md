@@ -30,8 +30,8 @@ Rating: 4.80 (Ranked 79)
 | Capelworth | 21.00% | ~506 |
 | Little light | 20.00% | ~482 |
 | Iffighain Headquarters | 20.00% | ~482 |
+| Full equipped | 20.00% | ~482 |
 | Glyndemere | 19.00% | ~458 |
-| Full equipped | 19.00% | ~458 |
 | Whispers in the Woods II | 17.00% | ~409 |
 | Quickmoore Headquarters | 16.00% | ~385 |
 | Whispers in the Woods III | 15.00% | ~361 |

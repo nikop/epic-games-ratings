@@ -7,6 +7,7 @@ Rating: 4.60 (Ranked 388)
 | ---- | ---------- | ----- |
 | Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
+| Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
@@ -18,7 +19,6 @@ Rating: 4.60 (Ranked 388)
 | Bone Peddler | 1.00% | ~49 |
 | From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
-| Magical Synergy | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
@@ -31,11 +31,11 @@ Rating: 4.60 (Ranked 388)
 | In a Liege of Your Own | 0.80% | ~39 |
 | Valley of Wonders | 0.70% | ~34 |
 | Return of the Wizard King | 0.70% | ~34 |
+| Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |
 | Digging for Treasure | 0.70% | ~34 |
 | The Magic That Empowers Me! | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
-| Enchanted Archipelago | 0.60% | ~29 |
 | God Emperor | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |

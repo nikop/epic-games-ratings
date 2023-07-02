@@ -4,11 +4,11 @@
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 315,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
     "PcReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -677,10 +677,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-07-02T18:01:21.0039145+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
+  "NumberOfAwards": 386,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -718,7 +724,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -774,8 +780,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-06-28T04:00:34.7322447+00:00",
+  "LastChanged": "2023-07-02T18:01:21.0039144+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:33.631937+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:00:57.997247+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:03:54.2431107+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:01:21.0039149+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:04:26.3885131+00:00"
 }

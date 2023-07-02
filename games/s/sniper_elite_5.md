@@ -5,22 +5,22 @@ Rating: 4.45 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 0.80% | ~26 |
 | Target America | 0.80% | ~26 |
+| Climbing the Ladder | 0.70% | ~22 |
+| Meeting Resistance | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
-| Taking it back | 0.70% | ~22 |
-| Climbing the Ladder | 0.60% | ~19 |
+| It's Starting to Crack | 0.70% | ~22 |
+| The Kraken Sleeps | 0.70% | ~22 |
 | Liberté | 0.60% | ~19 |
 | No Stone Unturned | 0.60% | ~19 |
-| Meeting Resistance | 0.60% | ~19 |
+| Sharpshooter | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Lord of War | 0.60% | ~19 |
-| It's Starting to Crack | 0.60% | ~19 |
-| The Kraken Sleeps | 0.60% | ~19 |
+| Change the Channel | 0.60% | ~19 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
-| Sharpshooter | 0.50% | ~16 |
-| Change the Channel | 0.50% | ~16 |
 | Opposing Force | 0.40% | ~13 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
@@ -35,7 +35,7 @@ Rating: 4.45 (Ranked 617)
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
-| Snake in the Grass | 0.20% | ~6 |
+| Snake in the Grass | 0.30% | ~10 |
 | Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,194 (Ranked 145)  
+Progressed: 3,195 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
-| 2023-07-02 | 3,194 | 6 |
+| 2023-07-02 | 3,195 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

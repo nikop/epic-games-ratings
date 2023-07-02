@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,731 |
-| Landlord | 31.00% | ~16,990 |
+| Lawbringer | 36.00% | ~19,732 |
+| Landlord | 31.00% | ~16,991 |
 | Lawmaker | 22.00% | ~12,058 |
-| Bannerlord | 21.00% | ~11,509 |
-| Horde breaker | 21.00% | ~11,509 |
-| Trained | 21.00% | ~11,509 |
-| The king is pleased | 17.00% | ~9,317 |
-| King Solomon | 16.00% | ~8,769 |
-| I can do it | 15.00% | ~8,221 |
-| Apple of my eye | 14.00% | ~7,673 |
+| Bannerlord | 21.00% | ~11,510 |
+| Horde breaker | 21.00% | ~11,510 |
+| Trained | 21.00% | ~11,510 |
+| The king is pleased | 17.00% | ~9,318 |
+| King Solomon | 16.00% | ~8,770 |
+| I can do it | 15.00% | ~8,222 |
+| Apple of my eye | 14.00% | ~7,674 |
 | God of the Arena | 12.00% | ~6,577 |
-| Against all odds | 10.00% | ~5,481 |
+| Against all odds | 11.00% | ~6,029 |
 | Swordbearer | 10.00% | ~5,481 |
 | Duelist | 9.00% | ~4,933 |
 | Dynasty | 9.00% | ~4,933 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~4,933 |
 | Butterlord | 8.00% | ~4,385 |
 | This Is Our Land | 8.00% | ~4,385 |
-| Mastery | 7.00% | ~3,836 |
-| Know your enemy | 6.00% | ~3,288 |
+| Mastery | 7.00% | ~3,837 |
+| Know your enemy | 6.00% | ~3,289 |
 | Crowdfunded | 4.00% | ~2,192 |
 | Crush your enemies | 4.00% | ~2,192 |
 | My way | 4.00% | ~2,192 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,807 (Ranked 82)  
+Progressed: 54,811 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 54,516 | 0 |
 | 2023-06-30 | 54,609 | 0 |
 | 2023-07-01 | 54,716 | 0 |
-| 2023-07-02 | 54,807 | 0 |
+| 2023-07-02 | 54,811 | 0 |
 ## Awards
 Max (Character Customization): 6,745  (Ranked 48)  
 Sum: 13,613 (Ranked 68)  

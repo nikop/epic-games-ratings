@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 60580,
+  "EOS_Progressed": 60587,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8043,6 +8043,11 @@
       "Time": "2023-07-02T17:01:49.8703343+00:00",
       "NumProgressed": 60580,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-07-02T18:02:17.7385767+00:00",
+      "NumProgressed": 60587,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 24,
@@ -8054,7 +8059,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "AWAKEN",
@@ -8062,7 +8067,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 12722
+      "UsersEstimate": 12723
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -8070,7 +8075,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 41194
+      "UsersEstimate": 41199
     },
     {
       "ID": "BEST_FRIENDS",
@@ -8078,7 +8083,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 13328
+      "UsersEstimate": 13329
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -8086,7 +8091,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15751
+      "UsersEstimate": 15753
     },
     {
       "ID": "ERADICATE",
@@ -8094,7 +8099,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 12116
+      "UsersEstimate": 12117
     },
     {
       "ID": "FETCH",
@@ -8102,7 +8107,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 16357
+      "UsersEstimate": 16358
     },
     {
       "ID": "FOXIN_AROUND",
@@ -8110,7 +8115,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 16962
+      "UsersEstimate": 16964
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -8126,7 +8131,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 10904
+      "UsersEstimate": 10906
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -8134,7 +8139,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 32107
+      "UsersEstimate": 32111
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -8142,7 +8147,7 @@
       "Name": "KINDRED SPIRITS",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "MATCH_MAKER",
@@ -8174,7 +8179,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -8182,7 +8187,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -8190,7 +8195,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "SPIRIT_BARK",
@@ -8198,7 +8203,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 12722
+      "UsersEstimate": 12723
     },
     {
       "ID": "SPIRIT_DASH",
@@ -8206,7 +8211,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "SPIRIT_FORM",
@@ -8214,7 +8219,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 9693
+      "UsersEstimate": 9694
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -8222,7 +8227,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 9087
+      "UsersEstimate": 9088
     },
     {
       "ID": "WEIGHTLESS",
@@ -8238,14 +8243,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 9087
+      "UsersEstimate": 9088
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 60580,
+      "Progressed": 60587,
       "Completed": 306
     }
   ],
@@ -8253,8 +8258,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:01:49.8703338+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:02:17.7385762+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:29.9696354+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:00:05.0072529+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:01:49.8703843+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:00:26.3195278+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:02:17.7386253+00:00"
 }

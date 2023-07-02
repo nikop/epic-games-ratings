@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -346,7 +346,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6892,
+  "EOS_Progressed": 6893,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
@@ -5161,6 +5161,11 @@
       "Time": "2023-07-02T12:03:54.056525+00:00",
       "NumProgressed": 6892,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-02T18:03:45.4009233+00:00",
+      "NumProgressed": 6893,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5172,7 +5177,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "ACH02",
@@ -5180,7 +5185,7 @@
       "Name": "Without a Scratch",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "ACH03",
@@ -5316,7 +5321,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH20",
@@ -5403,7 +5408,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6892,
+      "Progressed": 6893,
       "Completed": 40
     }
   ],
@@ -5411,8 +5416,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-06-29T03:58:17.2895321+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:03:25.0459715+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:03:45.4009225+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:58:13.9031709+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:03:25.0460091+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:58:29.2571822+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:03:45.4009608+00:00"
 }

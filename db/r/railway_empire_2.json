@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -88,7 +88,7 @@
   "Tags": [],
   "EOS_Progressed": 1448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2885,9 +2885,9 @@
       "ID": "A05",
       "SetID": "9b7p7eo",
       "Name": "A new Hope",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 145
     },
     {
       "ID": "A06",
@@ -3294,8 +3294,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-02T11:58:38.2453798+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:06:57.6031936+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:07:29.2838793+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:58:30.7533313+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:06:57.603242+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:58:43.4119806+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:07:29.283929+00:00"
 }

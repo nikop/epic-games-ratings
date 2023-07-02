@@ -22,13 +22,13 @@ Rating: 4.19 (Ranked 843)
 | Float Like A Butterfly | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
 | Without A Paddle | 0.70% | ~109 |
+| Full Circle | 0.70% | ~109 |
 | Power Up | 0.70% | ~109 |
 | Terminated | 0.60% | ~94 |
 | The Commonality | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | What Lies Beneath | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
-| Full Circle | 0.60% | ~94 |
 | In Striking Distance | 0.40% | ~62 |
 | One Last Job | 0.40% | ~14 |
 | This Isn't About Escape | 0.30% | ~11 |
@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 843)
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,612 (Ranked 106)  
-Completed: 62 (0.40%) (Ranked 133)  
+Completed: 62 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

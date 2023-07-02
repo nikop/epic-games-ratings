@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 457,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -502,7 +502,7 @@
       "Count": 200
     }
   ],
-  "EOS_Progressed": 10919,
+  "EOS_Progressed": 10920,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
@@ -6022,6 +6022,11 @@
       "Time": "2023-07-02T16:05:44.159446+00:00",
       "NumProgressed": 10919,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-02T18:07:24.572455+00:00",
+      "NumProgressed": 10920,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -6033,7 +6038,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8844
+      "UsersEstimate": 8845
     },
     {
       "ID": "ACH02",
@@ -6081,7 +6086,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "ACH08",
@@ -6312,7 +6317,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10919,
+      "Progressed": 10920,
       "Completed": 24
     }
   ],
@@ -6320,8 +6325,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:06:52.7697103+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:07:24.5724545+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:01:01.8109847+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:06:52.769753+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:01:24.9255557+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:07:24.5725+00:00"
 }

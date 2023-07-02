@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~155 |
-| Lochos | 5.00% | ~155 |
-| Strength of Herakles | 5.00% | ~155 |
-| Initiate's Resolve | 5.00% | ~155 |
+| To Suffer is to Learn | 5.00% | ~156 |
+| Lochos | 5.00% | ~156 |
+| Strength of Herakles | 5.00% | ~156 |
+| Initiate's Resolve | 5.00% | ~156 |
 | Go For the Head | 4.00% | ~124 |
 | Spartan Sandal | 4.00% | ~124 |
 | Missilis | 4.00% | ~124 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,109 (Ranked 146)  
+Progressed: 3,110 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 3,061 | 0 |
 | 2023-06-30 | 3,074 | 0 |
 | 2023-07-01 | 3,093 | 0 |
-| 2023-07-02 | 3,109 | 0 |
+| 2023-07-02 | 3,110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

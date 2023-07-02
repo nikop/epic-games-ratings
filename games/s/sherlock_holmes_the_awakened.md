@@ -9,9 +9,9 @@ Rating: 4.64 (Ranked 310)
 | Read Between The Lines | 63.00% | ~319 |
 | High Profile | 57.00% | ~289 |
 | Whispers In The Dark | 56.00% | ~284 |
-| Fond Memories | 53.00% | ~269 |
+| Fond Memories | 54.00% | ~274 |
+| History Check | 52.00% | ~264 |
 | A Method To His Madness | 52.00% | ~264 |
-| History Check | 51.00% | ~259 |
 | The New World | 48.00% | ~243 |
 | Gaze Into The Abyss | 47.00% | ~238 |
 | Open Sesame | 47.00% | ~238 |
@@ -20,11 +20,11 @@ Rating: 4.64 (Ranked 310)
 | Lock, Stock, And Barrel | 46.00% | ~233 |
 | Land, Ho! | 46.00% | ~233 |
 | Back In The Saddle | 45.00% | ~228 |
-| No Man Is An Island | 44.00% | ~223 |
+| No Man Is An Island | 45.00% | ~228 |
 | At Wits' End | 43.00% | ~218 |
 | Fhtagn! | 42.00% | ~213 |
+| Bookworm | 41.00% | ~208 |
 | Up In Flames | 41.00% | ~208 |
-| Bookworm | 40.00% | ~203 |
 | Going Once... | 38.00% | ~193 |
 | Let Me Be Frank | 37.00% | ~188 |
 | Brain Food | 35.00% | ~177 |

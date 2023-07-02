@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -548,6 +548,11 @@
       "Time": "2023-07-02T02:33:20.7766759+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T18:03:08.5748535+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -631,7 +636,7 @@
       "Name": "Half a Life",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -798,7 +803,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:02:20.1869134+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:03:08.574853+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:46.1800974+00:00",
-  "LastUpdate_Ratings": "2023-07-02T16:57:49.4326012+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:02:20.1869318+00:00"
+  "LastUpdate_Ratings": "2023-07-02T17:58:03.2504897+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:03:08.5748728+00:00"
 }

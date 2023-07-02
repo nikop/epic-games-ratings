@@ -10,12 +10,12 @@
 | Sniarb! | 91.00% | ~191 |
 | Blunga 5 | 67.00% | ~141 |
 | Onk Boga II | 63.00% | ~132 |
-| Bzzzzzz | 57.00% | ~120 |
+| Bzzzzzz | 58.00% | ~122 |
 | Onk Boga III | 50.00% | ~105 |
-| Danka, Lagga, Wonwon | 42.00% | ~88 |
-| Onk Boga IV | 42.00% | ~88 |
+| Danka, Lagga, Wonwon | 43.00% | ~90 |
+| Onk Boga IV | 43.00% | ~90 |
+| Blunga 10 | 41.00% | ~86 |
 | BumBum | 41.00% | ~86 |
-| Blunga 10 | 40.00% | ~84 |
 | Onk Boga V | 38.00% | ~80 |
 | Onk Boga VI | 35.00% | ~74 |
 | IQ62 | 35.00% | ~74 |

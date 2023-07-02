@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -588,7 +588,7 @@
   ],
   "EOS_Progressed": 4550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4209,9 +4209,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1228
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -4400,8 +4400,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-02T17:04:42.9141512+00:00",
+  "LastChanged_Achievements": "2023-07-02T18:05:07.3632117+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:01.0677572+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:00:30.1443626+00:00",
-  "LastUpdate_Achievements": "2023-07-02T17:04:42.9141887+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:00:52.3670031+00:00",
+  "LastUpdate_Achievements": "2023-07-02T18:05:07.363261+00:00"
 }
