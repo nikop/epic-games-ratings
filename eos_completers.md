@@ -5,11 +5,11 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 21.33% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.67% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 20.00% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.57% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.84% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
@@ -32,7 +32,7 @@
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
+| 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
@@ -55,7 +55,7 @@
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
 | 55 | [Bunny Park](games/b/bunny_park.md) | 3.08% |
-| 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.03% |
+| 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
@@ -118,7 +118,7 @@
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.61% |
-| 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.60% |
+| 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.59% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |
 | 121 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
@@ -140,12 +140,12 @@
 | 137 | [Scrapnaut](games/s/scrapnaut.md) | 0.35% |
 | 139 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 139 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 141 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 141 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 143 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 143 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 143 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 143 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
+| 142 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
+| 142 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 142 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 142 | [The Surge](games/t/the_surge.md) | 0.31% |
+| 142 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 148 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
