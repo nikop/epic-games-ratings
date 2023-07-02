@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "ach_toosoon",
       "SetID": "5a4225j",
       "Name": "Too Soon",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_zones_complete",
@@ -412,8 +412,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:03:30.5989034+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:33:39.5911331+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:02.4358039+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:57:20.7862132+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:03:30.5989237+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:27:31.5107673+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:33:39.5911539+00:00"
 }

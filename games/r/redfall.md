@@ -1,25 +1,25 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.53 (Ranked 945)  
+Rating: 3.53 (Ranked 946)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,315 |
+| I Like My Stakes Rare! | 77.00% | ~1,316 |
 | Home Is Where the Heart Is | 60.00% | ~1,025 |
 | Ne Plus Ultra | 60.00% | ~1,025 |
 | Wounded Whispers | 60.00% | ~1,025 |
-| Blood Will Have Blood | 51.00% | ~871 |
+| Blood Will Have Blood | 50.00% | ~854 |
 | ICU | 46.00% | ~786 |
 | Peek-a-boo | 44.00% | ~752 |
 | Catch and Release | 44.00% | ~752 |
-| Sucks To Be You | 43.00% | ~734 |
+| Sucks To Be You | 43.00% | ~735 |
 | Welcome to the Neighborhood | 38.00% | ~649 |
 | Fly Fisher | 36.00% | ~615 |
 | Throw The First Stone | 35.00% | ~598 |
 | Enter of Your Own Free Will | 33.00% | ~564 |
 | Heart Attack | 32.00% | ~547 |
-| Skin of Their Teeth | 31.00% | ~529 |
+| Skin of Their Teeth | 31.00% | ~530 |
 | Grounded | 24.00% | ~410 |
 | Bad Wiring | 21.00% | ~359 |
 | I Spit On Your Grave | 19.00% | ~325 |
@@ -29,7 +29,7 @@ Rating: 3.53 (Ranked 945)
 | You Clean It Up | 11.00% | ~188 |
 | Block Party | 8.00% | ~137 |
 | Starve the Beast | 8.00% | ~137 |
-| From the Shadows | 6.00% | ~102 |
+| From the Shadows | 6.00% | ~103 |
 | Revelations | 4.00% | ~68 |
 | Bell-ringer | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
@@ -72,7 +72,7 @@ Rating: 3.53 (Ranked 945)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,708 (Ranked 165)  
+Progressed: 1,709 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-27 | 1,706 | 0 |
 | 2023-06-28 | 1,707 | 0 |
 | 2023-06-29 | 1,708 | 0 |
+| 2023-07-02 | 1,709 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

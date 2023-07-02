@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 76.00% | ~32 |
+| All systems go | 79.00% | ~33 |
 | Do a barrel roll! | 62.00% | ~26 |
 | Huh? What was that? | 48.00% | ~20 |
 | Whatever it is, fix it! | 33.00% | ~14 |

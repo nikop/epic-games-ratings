@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2023-06-27T13:22:37.2176443+00:00",
       "NumProgressed": 464,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-02T02:37:10.3242657+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -520,7 +525,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Leisurely_Strol",
@@ -568,7 +573,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Old_Friend",
@@ -616,7 +621,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -631,7 +636,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 5
     }
   ],
@@ -639,8 +644,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:07:07.5733328+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:37:10.3242651+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:02.3296291+00:00",
-  "LastUpdate_Ratings": "2023-07-02T00:01:12.2432654+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:07:07.5733576+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:31:20.6523489+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:37:10.324283+00:00"
 }

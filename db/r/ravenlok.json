@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2625,9 +2625,9 @@
       "ID": "17",
       "SetID": "d0g98p",
       "Name": "The Downfall",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 350
     },
     {
       "ID": "18",
@@ -2673,9 +2673,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "23",
@@ -2689,17 +2689,17 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "25",
       "SetID": "d0g98p",
       "Name": "Trick Question!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 360
     },
     {
       "ID": "26",
@@ -2921,17 +2921,17 @@
       "ID": "50",
       "SetID": "d0g98p",
       "Name": "Spot of Tea?",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 350
     },
     {
       "ID": "6",
       "SetID": "d0g98p",
       "Name": "Going Home",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 339
+      "UsersEstimate": 350
     },
     {
       "ID": "7",
@@ -2970,8 +2970,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:06:58.8905974+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:37:00.9862908+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.6163993+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:57:51.8985984+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:06:58.8906605+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:28:04.4939222+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:37:00.9863376+00:00"
 }

@@ -1,18 +1,18 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 908)  
+Rating: 4.03 (Ranked 907)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~559 |
-| My little farm | 65.00% | ~454 |
-| Every beginning is difficult | 62.00% | ~433 |
-| 3, 2, 1, mine | 56.00% | ~391 |
-| Gofer | 55.00% | ~384 |
-| Seafarer | 54.00% | ~377 |
-| O Captain! My Captain! | 54.00% | ~377 |
+| Cabin boy | 80.00% | ~560 |
+| My little farm | 65.00% | ~455 |
+| Every beginning is difficult | 62.00% | ~434 |
+| 3, 2, 1, mine | 56.00% | ~392 |
+| Gofer | 55.00% | ~385 |
+| Seafarer | 54.00% | ~378 |
+| O Captain! My Captain! | 54.00% | ~378 |
 | Greed for gold | 43.00% | ~301 |
 | Intangible | 41.00% | ~287 |
 | I'm out of here for a while | 41.00% | ~287 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 198)  
+Progressed: 700 (Ranked 198)  
 Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-06-28 | 694 | 1 |
 | 2023-06-29 | 695 | 1 |
 | 2023-07-01 | 699 | 1 |
+| 2023-07-02 | 700 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -166,3 +167,4 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-05-07 | 4.00 | - | 0 | 0 |
 | 2023-05-10 | 4.01 | - | 0 | 0 |
 | 2023-05-13 | 4.02 | - | 0 | 0 |
+| 2023-07-02 | 4.03 | - | 0 | 0 |

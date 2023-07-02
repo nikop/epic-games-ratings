@@ -2,12 +2,12 @@
   "ID": "3b54815f8aed41bda7b2c4a97ef0a762",
   "Name": "Blankos Block Party",
   "ProductSlug": "blankos-block-party-09fc55",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T15:00:00+00:00",
@@ -495,6 +495,6 @@
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
   "LastChanged": "2023-06-22T23:59:13.6573796+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:03.2497755+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:59:42.4709163+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:04:50.0265293+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:29:51.2853998+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:34:50.1216971+00:00"
 }

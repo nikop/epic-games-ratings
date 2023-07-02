@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,776 |
-| That's a Grand Army | 8.00% | ~5,135 |
-| That is mine! | 8.00% | ~5,135 |
-| Victorious! | 8.00% | ~5,135 |
-| Brothers in Arms | 6.00% | ~3,851 |
-| That's a Grand Navy | 6.00% | ~3,851 |
-| Seriously?! | 6.00% | ~3,851 |
-| For the Glory | 5.00% | ~3,209 |
-| Cold War | 4.00% | ~2,567 |
-| True Catholic | 4.00% | ~2,567 |
-| Defender of the Faith | 3.00% | ~1,925 |
-| It's all about the money | 3.00% | ~1,925 |
-| Respected | 3.00% | ~1,925 |
-| The Princess is in this Castle | 3.00% | ~1,925 |
-| Truly Divine Ruler | 3.00% | ~1,925 |
+| Until death do us apart | 9.00% | ~5,779 |
+| That's a Grand Army | 8.00% | ~5,137 |
+| That is mine! | 8.00% | ~5,137 |
+| Victorious! | 8.00% | ~5,137 |
+| Brothers in Arms | 6.00% | ~3,853 |
+| That's a Grand Navy | 6.00% | ~3,853 |
+| Seriously?! | 6.00% | ~3,853 |
+| For the Glory | 5.00% | ~3,210 |
+| Cold War | 4.00% | ~2,568 |
+| True Catholic | 4.00% | ~2,568 |
+| Defender of the Faith | 3.00% | ~1,926 |
+| It's all about the money | 3.00% | ~1,926 |
+| Respected | 3.00% | ~1,926 |
+| The Princess is in this Castle | 3.00% | ~1,926 |
+| Truly Divine Ruler | 3.00% | ~1,926 |
 | Agressive Expander | 2.00% | ~1,284 |
 | Blockader | 2.00% | ~1,284 |
 | Combined Arms | 2.00% | ~1,284 |
@@ -42,19 +42,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.90% | ~578 |
 | Isn't this the way to India? | 0.90% | ~578 |
 | Market Control | 0.90% | ~578 |
-| Down Under | 0.80% | ~513 |
-| Trustworthy | 0.80% | ~513 |
+| Down Under | 0.80% | ~514 |
+| Trustworthy | 0.80% | ~514 |
 | Electable! | 0.70% | ~449 |
 | All belongs to Mother Russia | 0.60% | ~385 |
 | At every continent | 0.60% | ~385 |
 | One Family to Rule them All | 0.60% | ~385 |
 | Populists in Government | 0.60% | ~385 |
 | The pen is mightier than the sword | 0.60% | ~385 |
+| This is My Faith | 0.60% | ~385 |
 | Time Bandit | 0.60% | ~385 |
 | Early-Modern Warfare | 0.50% | ~321 |
 | Grand Coalition | 0.50% | ~321 |
 | Ruina Imperii | 0.50% | ~321 |
-| This is My Faith | 0.50% | ~321 |
 | Trophy Hunter | 0.50% | ~321 |
 | Voting Streak | 0.50% | ~321 |
 | Absolutely | 0.40% | ~257 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,182 (Ranked 78)  
+Progressed: 64,210 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -434,10 +434,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 63,199 | 0 |
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
-| 2023-07-02 | 64,182 | 0 |
+| 2023-07-02 | 64,210 | 0 |
 ## Awards
 Max (Educational): 5,493  (Ranked 61)  
-Sum: 45,283 (Ranked 27)  
+Sum: 45,286 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -445,7 +445,7 @@ Diff (max vs sum): 34
 | This game is Highly Recommended | 5,252 |
 | This game has Challenging Combat | 5,217 |
 | This game is Extremely Fun | 5,200 |
-| This game has Diverse Characters | 5,159 |
+| This game has Diverse Characters | 5,162 |
 | This game is Relaxing | 5,088 |
 | This game has Competitive Players | 4,920 |
 | This game has Amazing Storytelling | 4,653 |
@@ -620,3 +620,4 @@ Diff (max vs sum): 34
 | 2023-06-29 | 4.69 | - | 5,476 | 45,217 |
 | 2023-06-30 | 4.69 | - | 5,480 | 45,249 |
 | 2023-07-01 | 4.69 | - | 5,493 | 45,283 |
+| 2023-07-02 | 4.69 | - | 5,493 | 45,286 |

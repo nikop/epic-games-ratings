@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -348,11 +348,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2528,
+  "EOS_Progressed": 2529,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.96,
+  "EOS_Completed_Percentage": 3.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -1653,6 +1653,11 @@
       "Time": "2023-07-01T21:03:39.6796277+00:00",
       "NumProgressed": 2528,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-02T02:34:11.5136179+00:00",
+      "NumProgressed": 2529,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1688,7 +1693,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -1736,7 +1741,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_REUNION",
@@ -1760,7 +1765,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1768,14 +1773,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2528,
+      "Progressed": 2529,
       "Completed": 100
     }
   ],
@@ -1783,8 +1788,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-06-28T11:01:39.862612+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:04:11.7068809+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:34:11.5136175+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-02T00:01:01.4070383+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:04:11.7069025+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:31:08.0082252+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:34:11.5136325+00:00"
 }

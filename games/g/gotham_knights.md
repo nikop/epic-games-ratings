@@ -1,25 +1,25 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 850)  
+Rating: 4.18 (Ranked 849)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,975 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,650 |
 | Loose Ends | 4.00% | ~2,650 |
-| The Batman Family | 3.00% | ~1,987 |
-| Something in the Clay | 3.00% | ~1,987 |
-| To the Victor Go the Spoils | 3.00% | ~1,987 |
-| Quartzer Life Crisis | 3.00% | ~1,987 |
-| Snow Problem | 3.00% | ~1,987 |
-| Get ReQ'd | 3.00% | ~1,987 |
-| Working Hard or Harley Working? | 3.00% | ~1,987 |
-| Unstoppable Force | 3.00% | ~1,987 |
-| Knighthood | 3.00% | ~1,987 |
-| Whispered Words | 3.00% | ~1,987 |
-| Lock and Key | 3.00% | ~1,987 |
-| Bad Apples in Every Orchard | 3.00% | ~1,987 |
+| The Batman Family | 3.00% | ~1,988 |
+| Something in the Clay | 3.00% | ~1,988 |
+| To the Victor Go the Spoils | 3.00% | ~1,988 |
+| Quartzer Life Crisis | 3.00% | ~1,988 |
+| Snow Problem | 3.00% | ~1,988 |
+| Get ReQ'd | 3.00% | ~1,988 |
+| Working Hard or Harley Working? | 3.00% | ~1,988 |
+| Unstoppable Force | 3.00% | ~1,988 |
+| Knighthood | 3.00% | ~1,988 |
+| Whispered Words | 3.00% | ~1,988 |
+| Lock and Key | 3.00% | ~1,988 |
+| Bad Apples in Every Orchard | 3.00% | ~1,988 |
 | End of an Era | 2.00% | ~1,325 |
 | In Your Element | 2.00% | ~1,325 |
 | Protector of Gotham | 2.00% | ~1,325 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 850)
 | Seeking Asylum | 2.00% | ~1,325 |
 | Gotham Knight | 2.00% | ~1,325 |
 | Gotham City Confidential | 2.00% | ~1,325 |
-| Out of Their League | 1.00% | ~662 |
-| Drone You Out | 1.00% | ~662 |
-| Solid Alibi | 1.00% | ~662 |
+| Out of Their League | 1.00% | ~663 |
+| Drone You Out | 1.00% | ~663 |
+| Solid Alibi | 1.00% | ~663 |
 | Fusion Expert | 0.90% | ~596 |
 | Family Meeting | 0.90% | ~596 |
 | Expert Crime Fighter | 0.80% | ~530 |
@@ -52,10 +52,10 @@ Rating: 4.18 (Ranked 850)
 | Element of Surprise | 0.20% | ~73 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
 | The Cold, the Bad and the Ugly | 0.20% | ~73 |
-| Talonted | 0.20% | ~132 |
-| The Man-Bat Family | 0.20% | ~132 |
-| Batarang Collector | 0.20% | ~132 |
-| Claiming the Mural High Ground | 0.20% | ~132 |
+| Talonted | 0.20% | ~133 |
+| The Man-Bat Family | 0.20% | ~133 |
+| Batarang Collector | 0.20% | ~133 |
+| Claiming the Mural High Ground | 0.20% | ~133 |
 | A Sophisticated Mallet | 0.20% | ~73 |
 | It's Nice to Be Wanted | 0.10% | ~37 |
 | Gotham's Greatest Depths | 0.10% | ~37 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,247 (Ranked 73)  
+Progressed: 66,258 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-29 | 66,114 | 99 |
 | 2023-06-30 | 66,172 | 99 |
 | 2023-07-01 | 66,242 | 100 |
-| 2023-07-02 | 66,247 | 100 |
+| 2023-07-02 | 66,258 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,407  (Ranked 99)  
 Sum: 3,981 (Ranked 137)  

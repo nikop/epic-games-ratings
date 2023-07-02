@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -336,6 +336,11 @@
       "Time": "2023-06-27T15:06:23.4312794+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T02:37:18.1234542+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -353,15 +358,15 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 73
     },
@@ -369,9 +374,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -395,13 +400,13 @@
       "Name": "Level Up!",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -417,15 +422,15 @@
       "ID": "CLG_SKILL_LEVEL5_2",
       "SetID": "89cjc9l",
       "Name": "Power Overwhelming",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -529,7 +534,7 @@
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -547,7 +552,7 @@
       "Name": "The Giant",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PRG_BOSS_MAGE",
@@ -561,7 +566,7 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -569,9 +574,9 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -585,7 +590,7 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -593,17 +598,17 @@
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -849,9 +854,9 @@
       "ID": "PRG_NORMAL_10003",
       "SetID": "89cjc9l",
       "Name": "Verse",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "PRG_NORMAL_10004",
@@ -889,17 +894,17 @@
       "ID": "PRG_NORMAL_10008",
       "SetID": "89cjc9l",
       "Name": "Aluminum",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "PRG_NORMAL_10009",
       "SetID": "89cjc9l",
       "Name": "Anvil",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "PRG_NORMAL_10010",
@@ -923,14 +928,14 @@
       "Name": "Graduation!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
@@ -938,8 +943,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:07:15.4941488+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:37:18.1234537+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.8289655+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:57:51.7455269+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:07:15.4942312+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:28:04.3457279+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:37:18.1235144+00:00"
 }

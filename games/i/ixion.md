@@ -6,16 +6,16 @@ Rating: 4.57 (Ranked 439)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 20.00% | ~552 |
-| Infinite Growth... | 17.00% | ~469 |
-| Sputnik 2049 | 17.00% | ~469 |
+| Infinite Growth... | 17.00% | ~470 |
+| Sputnik 2049 | 17.00% | ~470 |
 | Without Breaking Some Eggs... | 16.00% | ~442 |
 | Space Society | 12.00% | ~331 |
 | Ready for a New World | 12.00% | ~331 |
 | A Thousand Strong | 11.00% | ~304 |
 | Permanent Redesigns | 10.00% | ~276 |
-| Fully Recycled | 9.00% | ~248 |
-| Ain't Nobody Got Time for That | 9.00% | ~248 |
-| The Ship of Theseus | 9.00% | ~248 |
+| Fully Recycled | 9.00% | ~249 |
+| Ain't Nobody Got Time for That | 9.00% | ~249 |
+| The Ship of Theseus | 9.00% | ~249 |
 | Guy de Borderlands | 8.00% | ~221 |
 | Hope Seeker | 8.00% | ~221 |
 | A Hunk of Junk | 7.00% | ~193 |
@@ -31,9 +31,9 @@ Rating: 4.57 (Ranked 439)
 | All in Good Health | 4.00% | ~110 |
 | From the Past | 4.00% | ~110 |
 | Oats | 3.00% | ~83 |
+| What They Hide From Us | 3.00% | ~83 |
 | BRAWL! | 3.00% | ~83 |
 | What the Ruins Teach Us | 3.00% | ~83 |
-| What They Hide From Us | 2.00% | ~55 |
 | ...  in a finite world | 2.00% | ~55 |
 | Sustainable Energy | 2.00% | ~55 |
 | In Dolos We Trust | 2.00% | ~55 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 439)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,761 (Ranked 152)  
+Progressed: 2,762 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 2,750 | 0 |
 | 2023-06-30 | 2,756 | 0 |
 | 2023-07-01 | 2,761 | 0 |
+| 2023-07-02 | 2,762 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

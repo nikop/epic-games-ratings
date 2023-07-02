@@ -4,7 +4,7 @@
   "ProductSlug": "fisti-fluffs",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-23T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:37.6471154+00:00",
   "LastChanged": "2023-03-31T05:57:37.6471156+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.6930777+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:59:43.6970471+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:06:09.3616264+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:29:52.662752+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:36:09.8533026+00:00"
 }

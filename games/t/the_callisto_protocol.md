@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.20 (Ranked 834)  
+Rating: 4.20 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,12 @@ Rating: 4.20 (Ranked 834)
 | Flesh Wound | 0.70% | ~109 |
 | Two Heads Are Better Than One | 0.70% | ~109 |
 | Chew 'Em Up | 0.70% | ~109 |
+| Workplace Hazard | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |
 | Giving Back | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
-| Workplace Hazard | 0.60% | ~94 |
 | Float Like A Butterfly | 0.60% | ~94 |
+| The Outer Way | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
 | Without A Paddle | 0.60% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~94 |
@@ -25,7 +26,6 @@ Rating: 4.20 (Ranked 834)
 | It's Time | 0.60% | ~21 |
 | Terminated | 0.50% | ~78 |
 | The Commonality | 0.50% | ~78 |
-| The Outer Way | 0.50% | ~78 |
 | What Lies Beneath | 0.50% | ~78 |
 | Desperate Times | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |

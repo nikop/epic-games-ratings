@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1676,
+  "EOS_Progressed": 1677,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-07-01T20:01:26.0324616+00:00",
       "NumProgressed": 1676,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-02T02:31:29.2142195+00:00",
+      "NumProgressed": 1677,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1499,7 +1504,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1579,7 +1584,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1627,7 +1632,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1635,7 +1640,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1674,15 +1679,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1676,
+      "Progressed": 1677,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-01T23:01:51.6688198+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:31:29.2142011+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.2438029+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:59:01.1809457+00:00",
-  "LastUpdate_Achievements": "2023-07-01T23:01:51.668956+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:29:11.1052276+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:31:29.2161239+00:00"
 }

@@ -14,21 +14,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 3.00% | ~467 |
 | Taking Action | 3.00% | ~467 |
 | No Deaths | 3.00% | ~467 |
-| Homesick | 2.00% | ~311 |
-| Bandit Camp | 2.00% | ~311 |
-| Barren Lands | 2.00% | ~311 |
-| Ancient Battleground | 2.00% | ~311 |
-| Sparkdew Crystals | 2.00% | ~311 |
-| Levitating Monument | 2.00% | ~311 |
-| Flooded Mines | 2.00% | ~311 |
-| Monastery of the Holy Flame | 2.00% | ~311 |
-| Royal Outpost | 2.00% | ~311 |
-| Lost Colonies | 2.00% | ~311 |
-| Watchtower | 2.00% | ~311 |
-| Cursed Lands | 2.00% | ~311 |
-| A Real Challenge | 2.00% | ~311 |
-| Like a Machine | 2.00% | ~311 |
-| Trade Baron | 2.00% | ~311 |
+| Homesick | 2.00% | ~312 |
+| Bandit Camp | 2.00% | ~312 |
+| Barren Lands | 2.00% | ~312 |
+| Ancient Battleground | 2.00% | ~312 |
+| Sparkdew Crystals | 2.00% | ~312 |
+| Levitating Monument | 2.00% | ~312 |
+| Flooded Mines | 2.00% | ~312 |
+| Monastery of the Holy Flame | 2.00% | ~312 |
+| Royal Outpost | 2.00% | ~312 |
+| Lost Colonies | 2.00% | ~312 |
+| Watchtower | 2.00% | ~312 |
+| Cursed Lands | 2.00% | ~312 |
+| A Real Challenge | 2.00% | ~312 |
+| Like a Machine | 2.00% | ~312 |
+| Trade Baron | 2.00% | ~312 |
 | Serving Ale | 1.00% | ~156 |
 | Refinery | 1.00% | ~156 |
 | Against All Odds | 1.00% | ~156 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,570 (Ranked 107)  
-Completed: 39 (0.25%) (Ranked 151)  
+Progressed: 15,575 (Ranked 107)  
+Completed: 39 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 39 (0.25%) (Ranked 151)
 | 2023-06-29 | 15,527 | 39 |
 | 2023-06-30 | 15,543 | 39 |
 | 2023-07-01 | 15,569 | 39 |
-| 2023-07-02 | 15,570 | 39 |
+| 2023-07-02 | 15,575 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,059 (Ranked 155)  

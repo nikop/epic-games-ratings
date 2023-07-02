@@ -2,12 +2,12 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2022,6 +2022,11 @@
       "Time": "2023-06-29T02:23:07.291526+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T02:33:20.1322364+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2079,9 +2084,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 854
     },
     {
       "ID": "Achievement_009",
@@ -2169,7 +2174,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "Achievement_020",
@@ -2265,7 +2270,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "Achievement_032",
@@ -2297,7 +2302,7 @@
       "Name": "From the Shadows",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achievement_036",
@@ -2369,7 +2374,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Achievement_046",
@@ -2560,7 +2565,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 0
     }
   ],
@@ -2568,8 +2573,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-29T18:58:17.6632611+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:03:11.2580051+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:33:20.132236+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.2481663+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:58:20.1637229+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:03:11.2580928+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:28:30.542755+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:33:20.1322973+00:00"
 }

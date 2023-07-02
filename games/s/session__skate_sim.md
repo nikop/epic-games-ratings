@@ -13,10 +13,10 @@ Number of Ratings: 111  (23.09.2022)
 | Backpacker | 12.00% | ~299 |
 | Go with the Flow | 12.00% | ~299 |
 | Plastic Surgeon | 9.00% | ~224 |
+| The hard way | 9.00% | ~224 |
 | Good vibes | 8.00% | ~199 |
 | Keep the dream alive | 8.00% | ~199 |
 | The flip trick crown jewel | 8.00% | ~199 |
-| The hard way | 8.00% | ~199 |
 | Upfront shredder | 8.00% | ~199 |
 | Fashionista | 6.00% | ~149 |
 | Finally he zips it | 6.00% | ~149 |

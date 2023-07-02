@@ -12,6 +12,7 @@ Rating: 4.59 (Ranked 410)
 | Realm Estate | 1.00% | ~49 |
 | A Wonderful Discovery | 1.00% | ~49 |
 | Walls Cannot Stop Us | 1.00% | ~49 |
+| Bone Peddler | 1.00% | ~49 |
 | From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
 | Magical Synergy | 1.00% | ~49 |
@@ -20,10 +21,9 @@ Rating: 4.59 (Ranked 410)
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Mighty Hoard | 1.00% | ~49 |
-| Bone Peddler | 0.90% | ~44 |
+| Full Ascension | 0.90% | ~44 |
 | Seat of Power | 0.90% | ~44 |
 | Fiery Friend | 0.90% | ~44 |
-| Full Ascension | 0.80% | ~39 |
 | Preparation Is Everything | 0.80% | ~39 |
 | Against the Odds | 0.80% | ~39 |
 | Digging for Treasure | 0.70% | ~34 |

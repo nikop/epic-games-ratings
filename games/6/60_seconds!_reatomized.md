@@ -5,20 +5,20 @@ Rating: 4.63 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~4,129 |
-| All thumbs | 91.00% | ~4,084 |
-| I will survive! | 91.00% | ~4,084 |
-| Home, sweet home | 90.00% | ~4,039 |
-| Survivalist | 88.00% | ~3,949 |
-| One way ticket | 83.00% | ~3,725 |
+| Prepper | 92.00% | ~4,130 |
+| All thumbs | 91.00% | ~4,085 |
+| I will survive! | 91.00% | ~4,085 |
+| Home, sweet home | 90.00% | ~4,040 |
+| Survivalist | 88.00% | ~3,950 |
+| One way ticket | 83.00% | ~3,726 |
 | Last man standing | 78.00% | ~3,501 |
-| Family guy | 76.00% | ~3,411 |
-| Out of the Bag | 73.00% | ~3,276 |
-| The Dark Side | 67.00% | ~3,007 |
-| Duck and cover! | 63.00% | ~2,827 |
+| Family guy | 76.00% | ~3,412 |
+| Out of the Bag | 73.00% | ~3,277 |
+| The Dark Side | 67.00% | ~3,008 |
+| Duck and cover! | 63.00% | ~2,828 |
 | Souper! | 61.00% | ~2,738 |
-| Pacifist | 56.00% | ~2,513 |
-| 2-1-6 | 55.00% | ~2,468 |
+| Pacifist | 56.00% | ~2,514 |
+| 2-1-6 | 55.00% | ~2,469 |
 | A gift | 51.00% | ~2,289 |
 | Girl Power | 45.00% | ~2,020 |
 | What goes around... | 41.00% | ~1,840 |
@@ -26,7 +26,7 @@ Rating: 4.63 (Ranked 329)
 | Unbreakable | 34.00% | ~1,526 |
 | Atomic drill | 32.00% | ~1,436 |
 | This is the end | 32.00% | ~1,436 |
-| Gotta get 'em all | 30.00% | ~1,346 |
+| Gotta get 'em all | 30.00% | ~1,347 |
 | Disco Roach | 26.00% | ~1,167 |
 | Dawkins Residence | 19.00% | ~853 |
 | Rescue time! | 17.00% | ~763 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 329)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,488 (Ranked 136)  
+Progressed: 4,489 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-06-29 | 4,458 | 1 |
 | 2023-06-30 | 4,471 | 1 |
 | 2023-07-01 | 4,488 | 1 |
+| 2023-07-02 | 4,489 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

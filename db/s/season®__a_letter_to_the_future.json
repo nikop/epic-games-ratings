@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.78,
+  "EOS_Completed_Percentage": 3.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -1691,6 +1691,11 @@
       "Time": "2023-07-01T22:08:17.6477938+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-02T02:36:54.6539604+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -1710,7 +1715,7 @@
       "Name": "Deep Listener",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -1734,7 +1739,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -1750,7 +1755,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1758,7 +1763,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1766,7 +1771,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1782,7 +1787,7 @@
       "Name": "Music for Cows",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -1814,7 +1819,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -1829,7 +1834,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 42
     }
   ],
@@ -1837,8 +1842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-02T00:06:52.6504122+00:00",
+  "LastChanged_Achievements": "2023-07-02T02:36:54.6539601+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:19.9703455+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:59:10.591712+00:00",
-  "LastUpdate_Achievements": "2023-07-02T00:06:52.6504375+00:00"
+  "LastUpdate_Ratings": "2023-07-02T02:29:19.6998923+00:00",
+  "LastUpdate_Achievements": "2023-07-02T02:36:54.6539795+00:00"
 }
