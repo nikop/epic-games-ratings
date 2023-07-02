@@ -376,7 +376,7 @@
 | 363 | [MudRunner](games/m/mudrunner.md) | 4.61 | 242 | 248 |
 | 363 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 503 |
 | 363 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,525 | 92 |
-| 363 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 641 | 168 |
+| 363 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 642 | 168 |
 | 363 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 447 | 199 |
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,361 | 37 |
 | 363 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 136 |
@@ -493,7 +493,7 @@
 | 490 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,294 | 127 |
 | 490 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 4,983 | 65 |
 | 490 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 441 |
-| 490 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,169 | 132 |
+| 490 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,174 | 132 |
 | 490 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 370 |
 | 490 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 484 |
 | 490 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 347 |
@@ -516,7 +516,7 @@
 | 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 503 |
 | 503 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 503 |
 | 503 | [VALORANT](games/v/valorant.md) | 4.53 | 59,273 | 10 |
-| 503 | [Verdun](games/v/verdun.md) | 4.53 | 94 | 338 |
+| 503 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 336 |
 | 518 | [Aimlabs](games/a/aimlabs.md) | 4.52 | 0 | 503 |
 | 518 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 22 | 484 |
 | 518 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 749 | 156 |
@@ -535,8 +535,8 @@
 | 518 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 503 |
 | 518 | [Sable](games/s/sable.md) | 4.52 | 0 | 503 |
 | 518 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 503 |
-| 536 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,638 | 116 |
-| 536 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 338 |
+| 536 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.51 | 1,641 | 116 |
+| 536 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 94 | 339 |
 | 536 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,099 | 76 |
 | 536 | [Dark Deception](games/d/dark_deception.md) | 4.51 | 0 | 503 |
 | 536 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 105 | 323 |
@@ -590,7 +590,7 @@
 | 583 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 503 |
 | 583 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 503 |
 | 583 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 503 |
-| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 1,983 | 105 |
+| 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,006 | 105 |
 | 592 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 503 |
 | 592 | [Figment](games/f/figment.md) | 4.47 | 20 | 500 |
 | 592 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,485 | 82 |
@@ -627,7 +627,7 @@
 | 617 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 394 |
 | 617 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 503 |
 | 617 | [RiMS Racing](games/r/rims_racing.md) | 4.45 | 0 | 503 |
-| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,964 | 78 |
+| 617 | [SMITE](games/s/smite.md) | 4.45 | 3,967 | 78 |
 | 617 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 503 |
 | 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 503 |
 | 617 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 315 |
@@ -673,7 +673,7 @@
 | 671 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 503 |
 | 671 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 503 |
 | 671 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 503 |
-| 671 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 338 |
+| 671 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 94 | 339 |
 | 671 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.41 | 0 | 503 |
 | 671 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.41 | 0 | 503 |
 | 671 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.41 | 0 | 503 |
@@ -818,15 +818,15 @@
 | 809 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 503 |
 | 809 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 503 |
 | 809 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 23 | 480 |
+| 819 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 503 |
 | 819 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 142 |
 | 819 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 503 |
 | 819 | [Starsand](games/s/starsand.md) | 4.23 | 0 | 503 |
 | 819 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 503 |
-| 823 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 503 |
-| 823 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 503 |
-| 823 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
-| 823 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 264 |
-| 823 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 503 |
+| 824 | [City of Brass](games/c/city_of_brass.md) | 4.22 | 0 | 503 |
+| 824 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 176 | 280 |
+| 824 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 264 |
+| 824 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 503 |
 | 828 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 503 |
 | 828 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 14,464 | 23 |
 | 828 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.21 | 0 | 503 |
