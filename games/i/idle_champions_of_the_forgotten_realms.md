@@ -6,56 +6,56 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,608 |
-| The Mad Wizard | 10.00% | ~20,434 |
-| The Ring of Regeneration | 6.00% | ~12,261 |
-| Are Ya Chicken? | 6.00% | ~12,261 |
-| Were-verpowered | 5.00% | ~10,217 |
-| Mad Cow Disease | 5.00% | ~10,217 |
-| Friendly Imps | 5.00% | ~10,217 |
-| Seeking Allies | 4.00% | ~8,174 |
-| Pure Energy | 4.00% | ~8,174 |
-| A Persistent Buzzing | 3.00% | ~6,130 |
-| Terror in the Dark | 3.00% | ~6,130 |
-| The Crumbling Temple | 3.00% | ~6,130 |
-| The Contagious Curse | 3.00% | ~6,130 |
-| Beast Mode | 2.00% | ~4,087 |
-| Low Initiative | 2.00% | ~4,087 |
-| A Mysterious Summons | 2.00% | ~4,087 |
-| Unearthed Evil | 2.00% | ~4,087 |
-| Useless Allies | 2.00% | ~4,087 |
-| Exploring Port Nyanzaru | 2.00% | ~4,087 |
-| Running of the Saurs | 2.00% | ~4,087 |
-| Escort to Waterdeep | 2.00% | ~4,087 |
-| Waterdeep Detours | 2.00% | ~4,087 |
-| Building Trust | 1.00% | ~2,043 |
-| March of the Undead | 1.00% | ~2,043 |
-| No Time To Rest | 1.00% | ~2,043 |
-| Invisible Shadows | 1.00% | ~2,043 |
-| The Dinner Party | 1.00% | ~2,043 |
-| The Death Curse | 1.00% | ~2,043 |
-| Premature Betrayal | 1.00% | ~2,043 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,043 |
-| Underdeep Cartography | 1.00% | ~2,043 |
-| Overdue Rendezvous | 1.00% | ~2,043 |
-| The Templar's Camp | 1.00% | ~2,043 |
-| Rescue in the Jungle | 1.00% | ~2,043 |
-| Street War | 0.90% | ~1,839 |
-| The Botched Kidnapping | 0.90% | ~1,839 |
-| A Tale of Two Cities | 0.90% | ~1,839 |
-| Close Escort | 0.90% | ~1,839 |
-| Constant Banditry | 0.90% | ~1,839 |
+| The Cursed Farmer | 14.00% | ~28,615 |
+| The Mad Wizard | 10.00% | ~20,440 |
+| The Ring of Regeneration | 6.00% | ~12,264 |
+| Are Ya Chicken? | 6.00% | ~12,264 |
+| Were-verpowered | 5.00% | ~10,220 |
+| Mad Cow Disease | 5.00% | ~10,220 |
+| Friendly Imps | 5.00% | ~10,220 |
+| Seeking Allies | 4.00% | ~8,176 |
+| Pure Energy | 4.00% | ~8,176 |
+| A Persistent Buzzing | 3.00% | ~6,132 |
+| Terror in the Dark | 3.00% | ~6,132 |
+| The Crumbling Temple | 3.00% | ~6,132 |
+| The Contagious Curse | 3.00% | ~6,132 |
+| Beast Mode | 2.00% | ~4,088 |
+| Low Initiative | 2.00% | ~4,088 |
+| A Mysterious Summons | 2.00% | ~4,088 |
+| Unearthed Evil | 2.00% | ~4,088 |
+| Useless Allies | 2.00% | ~4,088 |
+| Exploring Port Nyanzaru | 2.00% | ~4,088 |
+| Running of the Saurs | 2.00% | ~4,088 |
+| Escort to Waterdeep | 2.00% | ~4,088 |
+| Waterdeep Detours | 2.00% | ~4,088 |
+| Building Trust | 1.00% | ~2,044 |
+| March of the Undead | 1.00% | ~2,044 |
+| No Time To Rest | 1.00% | ~2,044 |
+| Invisible Shadows | 1.00% | ~2,044 |
+| The Dinner Party | 1.00% | ~2,044 |
+| The Death Curse | 1.00% | ~2,044 |
+| Premature Betrayal | 1.00% | ~2,044 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,044 |
+| Underdeep Cartography | 1.00% | ~2,044 |
+| Overdue Rendezvous | 1.00% | ~2,044 |
+| The Templar's Camp | 1.00% | ~2,044 |
+| Rescue in the Jungle | 1.00% | ~2,044 |
+| Street War | 0.90% | ~1,840 |
+| The Botched Kidnapping | 0.90% | ~1,840 |
+| A Tale of Two Cities | 0.90% | ~1,840 |
+| Close Escort | 0.90% | ~1,840 |
+| Constant Banditry | 0.90% | ~1,840 |
 | Homecoming | 0.80% | ~1,635 |
 | Trollskull Manor | 0.80% | ~1,635 |
 | Dinosaur Racing | 0.80% | ~1,635 |
-| The Lost Heir of Omu | 0.70% | ~1,430 |
-| The Forbidden City | 0.70% | ~1,430 |
-| Wisdom Check | 0.70% | ~1,430 |
-| Attack on the Manor | 0.70% | ~1,430 |
-| The Dead Three | 0.70% | ~1,430 |
-| The Long Haul | 0.70% | ~1,430 |
-| Lost in the Deep | 0.70% | ~1,430 |
-| Easily Distracted | 0.70% | ~1,430 |
+| The Lost Heir of Omu | 0.70% | ~1,431 |
+| The Forbidden City | 0.70% | ~1,431 |
+| Wisdom Check | 0.70% | ~1,431 |
+| Attack on the Manor | 0.70% | ~1,431 |
+| The Dead Three | 0.70% | ~1,431 |
+| The Long Haul | 0.70% | ~1,431 |
+| Lost in the Deep | 0.70% | ~1,431 |
+| Easily Distracted | 0.70% | ~1,431 |
 | Captured! | 0.60% | ~1,226 |
 | A Grand Puzzle | 0.60% | ~1,226 |
 | The Mists of Ravenloft | 0.60% | ~1,226 |
@@ -78,29 +78,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.50% | ~853 |
 | Rude Welcome | 0.50% | ~1,022 |
 | Durable Deep | 0.50% | ~1,022 |
-| Home Field Advantage | 0.40% | ~817 |
-| Force Grey Unleashed | 0.40% | ~817 |
-| Sleuth It Out | 0.40% | ~817 |
-| Azaka's Procession - Part 1 | 0.40% | ~817 |
-| Chatty Nobles | 0.40% | ~817 |
-| Modron Assistance | 0.40% | ~817 |
-| Haaave You Met Asmodeus? | 0.40% | ~817 |
-| Seeds of Deceit | 0.40% | ~817 |
-| The Gargoyle's Apprentice | 0.40% | ~817 |
-| The Guardian of Orolunga | 0.40% | ~817 |
-| The Lost Love | 0.40% | ~817 |
-| Flies on the Wall | 0.40% | ~817 |
-| Backtracking Through Barovia | 0.40% | ~817 |
-| Excavating History | 0.40% | ~817 |
-| Cramped Quarters | 0.40% | ~817 |
-| Waterdeep Under Siege | 0.40% | ~817 |
-| Vault of Dragons | 0.40% | ~817 |
-| Champions of Waterdeep | 0.40% | ~817 |
-| Elturel Has Fallen | 0.40% | ~817 |
-| Resolve Amongst Chaos | 0.40% | ~817 |
-| The Everlasting Rime | 0.40% | ~682 |
-| Expert Opinion | 0.40% | ~817 |
-| Poor Guidance | 0.40% | ~817 |
+| Home Field Advantage | 0.40% | ~818 |
+| Force Grey Unleashed | 0.40% | ~818 |
+| Sleuth It Out | 0.40% | ~818 |
+| Azaka's Procession - Part 1 | 0.40% | ~818 |
+| Chatty Nobles | 0.40% | ~818 |
+| Modron Assistance | 0.40% | ~818 |
+| Haaave You Met Asmodeus? | 0.40% | ~818 |
+| Seeds of Deceit | 0.40% | ~818 |
+| The Gargoyle's Apprentice | 0.40% | ~818 |
+| The Guardian of Orolunga | 0.40% | ~818 |
+| The Lost Love | 0.40% | ~818 |
+| Flies on the Wall | 0.40% | ~818 |
+| Backtracking Through Barovia | 0.40% | ~818 |
+| Excavating History | 0.40% | ~818 |
+| Cramped Quarters | 0.40% | ~818 |
+| Waterdeep Under Siege | 0.40% | ~818 |
+| Vault of Dragons | 0.40% | ~818 |
+| Champions of Waterdeep | 0.40% | ~818 |
+| Elturel Has Fallen | 0.40% | ~818 |
+| Resolve Amongst Chaos | 0.40% | ~818 |
+| The Everlasting Rime | 0.40% | ~683 |
+| Expert Opinion | 0.40% | ~818 |
+| Poor Guidance | 0.40% | ~818 |
 | Anti-Dexterous Explorers | 0.30% | ~613 |
 | Not Very Charming | 0.30% | ~613 |
 | Lobsterfolk Assault | 0.30% | ~613 |
@@ -230,6 +230,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.20% | ~341 |
 | Tekeli-li's Hunt | 0.20% | ~341 |
 | The Rite of the Arcane Octad | 0.20% | ~341 |
+| The Netherese Necropolis | 0.20% | ~341 |
 | Overwhelming Force | 0.20% | ~409 |
 | Frail Doesn't Mean Broken | 0.10% | ~171 |
 | The Castle of a Thousand Vecnas | 0.10% | ~171 |
@@ -392,7 +393,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maroon Madness | 0.10% | ~171 |
 | Alien Allies | 0.10% | ~171 |
 | An Icewind Dale Reunion | 0.10% | ~171 |
-| The Netherese Necropolis | 0.10% | ~171 |
 | Ineffectual Intellectuals | 0.10% | ~171 |
 | The Archaeologist and the Sailor | 0.10% | ~171 |
 | The Court of Storms | 0.10% | ~171 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,345 (Ranked 52)  
+Progressed: 204,395 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,16 +583,16 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
-| 2023-07-02 | 204,345 | 2,025 |
+| 2023-07-02 | 204,395 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
-Sum: 30,354 (Ranked 37)  
+Sum: 30,356 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,995 |
 | This game is Great for Beginners | 4,927 |
-| This game has Quickly Understood Controls | 4,639 |
+| This game has Quickly Understood Controls | 4,641 |
 | This game is Relaxing | 4,536 |
 | This game has Amazing Characters | 3,991 |
 | This game is Highly Recommended | 3,983 |
@@ -757,4 +757,4 @@ Diff (max vs sum): 27
 | 2023-06-29 | 4.06 | - | 4,985 | 30,305 |
 | 2023-06-30 | 4.05 | - | 4,985 | 30,318 |
 | 2023-07-01 | 4.05 | - | 4,992 | 30,347 |
-| 2023-07-02 | 4.05 | - | 4,995 | 30,354 |
+| 2023-07-02 | 4.05 | - | 4,995 | 30,356 |

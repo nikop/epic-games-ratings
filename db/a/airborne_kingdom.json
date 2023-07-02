@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6731,
+  "EOS_Progressed": 6732,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2383,6 +2383,11 @@
       "Time": "2023-07-02T15:06:45.8168242+00:00",
       "NumProgressed": 6731,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-02T16:05:35.7239737+00:00",
+      "NumProgressed": 6732,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2426,7 +2431,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2546,7 +2551,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3769
+      "UsersEstimate": 3770
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2586,7 +2591,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -2594,7 +2599,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2609,15 +2614,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6731,
+      "Progressed": 6732,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:06:45.8168238+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:05:35.7239733+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:31.6113901+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:57:39.5938754+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:06:45.8168567+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:57:34.4887683+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:05:35.724002+00:00"
 }

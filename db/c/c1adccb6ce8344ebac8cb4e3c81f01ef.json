@@ -2,9 +2,9 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "mai-in-the-mysterious-castle-a9a60a",
-  "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -96,6 +96,11 @@
       "Time": "2023-07-02T11:03:10.6821681+00:00",
       "NumProgressed": 14,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T16:02:09.0641303+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -114,7 +119,7 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -130,7 +135,7 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -138,7 +143,7 @@
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -146,7 +151,7 @@
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 2
     }
@@ -155,14 +160,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:02:18.6701927+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:02:09.0641297+00:00",
   "LastUpdate_AppInfo": "2023-06-29T11:56:57.2789546+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:56:59.903584+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:02:18.6702034+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:57:00.6269181+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:02:09.0641439+00:00"
 }

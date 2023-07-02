@@ -18,8 +18,8 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 56.00% | ~765 |
 | Transport millionaire | 55.00% | ~751 |
 | Cargo hub | 54.00% | ~738 |
+| Transport master | 53.00% | ~724 |
 | Cadet | 53.00% | ~724 |
-| Transport master | 52.00% | ~710 |
 | Sculpturer | 50.00% | ~683 |
 | Settled down | 49.00% | ~669 |
 | First electric train arrived | 47.00% | ~642 |
@@ -37,9 +37,9 @@ Number of Ratings: 180  (23.09.2022)
 | City | 29.00% | ~396 |
 | The king of the sea | 29.00% | ~396 |
 | Transport tycoon | 24.00% | ~328 |
+| The ugly smell of success | 23.00% | ~314 |
 | Climate change | 22.00% | ~301 |
 | Old timer | 22.00% | ~301 |
-| The ugly smell of success | 22.00% | ~301 |
 | Heavily loaded | 21.00% | ~287 |
 | Bob Ross | 15.00% | ~205 |
 | Campaign expert | 11.00% | ~150 |

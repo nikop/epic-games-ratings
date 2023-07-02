@@ -6,25 +6,26 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Target America | 0.80% | ~26 |
+| Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | Taking it back | 0.70% | ~22 |
 | Climbing the Ladder | 0.60% | ~19 |
+| Liberté | 0.60% | ~19 |
+| No Stone Unturned | 0.60% | ~19 |
 | Meeting Resistance | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
-| Resourceful | 0.60% | ~19 |
 | It's Starting to Crack | 0.60% | ~19 |
-| Liberté | 0.50% | ~16 |
-| No Stone Unturned | 0.50% | ~16 |
+| The Kraken Sleeps | 0.60% | ~19 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
 | Sharpshooter | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
 | Change the Channel | 0.50% | ~16 |
-| The Kraken Sleeps | 0.50% | ~16 |
 | Opposing Force | 0.40% | ~13 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | As Quiet as a Mouse | 0.40% | ~13 |
+| Brains of the Operation | 0.40% | ~13 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Skirmisher | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
@@ -33,7 +34,6 @@ Rating: 4.45 (Ranked 617)
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
-| Brains of the Operation | 0.30% | ~10 |
 | Fields of Glory | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
@@ -78,7 +78,7 @@ Rating: 4.45 (Ranked 617)
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,193 (Ranked 145)  
-Completed: 6 (0.19%) (Ranked 162)  
+Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

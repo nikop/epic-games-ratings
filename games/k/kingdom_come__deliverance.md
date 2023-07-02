@@ -1,29 +1,29 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 182)  
+Rating: 4.71 (Ranked 181)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,084 |
-| Cavalier | 25.00% | ~197,648 |
-| Fatso | 23.00% | ~181,836 |
-| Awakening | 20.00% | ~158,118 |
-| Ranger | 20.00% | ~158,118 |
-| Scrooge | 20.00% | ~158,118 |
-| Anorectic | 16.00% | ~126,495 |
-| Firestarter | 15.00% | ~118,589 |
-| Bookworm | 14.00% | ~110,683 |
-| Insomniac | 13.00% | ~102,777 |
-| Buddy | 12.00% | ~94,871 |
-| Thief | 12.00% | ~94,871 |
-| Sinner | 11.00% | ~86,965 |
-| Convict | 10.00% | ~79,059 |
-| Traveller | 10.00% | ~79,059 |
-| Haggler | 9.00% | ~71,153 |
-| McLovin | 7.00% | ~55,341 |
-| Runt | 7.00% | ~55,341 |
+| Blacksmith's Son | 31.00% | ~245,087 |
+| Cavalier | 25.00% | ~197,651 |
+| Fatso | 23.00% | ~181,839 |
+| Awakening | 20.00% | ~158,121 |
+| Ranger | 20.00% | ~158,121 |
+| Scrooge | 20.00% | ~158,121 |
+| Anorectic | 16.00% | ~126,497 |
+| Firestarter | 15.00% | ~118,591 |
+| Bookworm | 14.00% | ~110,685 |
+| Insomniac | 13.00% | ~102,779 |
+| Buddy | 12.00% | ~94,872 |
+| Thief | 12.00% | ~94,872 |
+| Sinner | 11.00% | ~86,966 |
+| Convict | 10.00% | ~79,060 |
+| Traveller | 10.00% | ~79,060 |
+| Haggler | 9.00% | ~71,154 |
+| McLovin | 7.00% | ~55,342 |
+| Runt | 7.00% | ~55,342 |
 | Casanova | 6.00% | ~47,436 |
 | Bad Trip | 5.00% | ~39,530 |
 | Monk | 5.00% | ~39,530 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~791 |
 | Wingman | 0.10% | ~791 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,592 (Ranked 15)  
+Progressed: 790,604 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 43 (0.01%) (Ranked 220)
 | 2023-06-29 | 790,168 | 43 |
 | 2023-06-30 | 790,301 | 43 |
 | 2023-07-01 | 790,480 | 43 |
-| 2023-07-02 | 790,592 | 43 |
+| 2023-07-02 | 790,604 | 43 |
 ## Awards
 Max (Character Customization): 7,287  (Ranked 46)  
-Sum: 27,190 (Ranked 43)  
+Sum: 27,191 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 1,626 |
 | This game has Amazing Characters | 1,617 |
 | This game has Realistic Visuals | 1,601 |
-| This game is Educational | 1,555 |
+| This game is Educational | 1,556 |
 | This game is Relaxing | 1,493 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -342,4 +342,4 @@ Diff (max vs sum): 3
 | 2023-06-29 | 4.71 | - | 7,280 | 27,167 |
 | 2023-06-30 | 4.71 | - | 7,284 | 27,180 |
 | 2023-07-01 | 4.71 | - | 7,287 | 27,185 |
-| 2023-07-02 | 4.71 | - | 7,287 | 27,190 |
+| 2023-07-02 | 4.71 | - | 7,287 | 27,191 |

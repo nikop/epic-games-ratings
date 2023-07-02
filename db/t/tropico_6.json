@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3928,
+  "EOS_Progressed": 3930,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5462,6 +5462,11 @@
       "Time": "2023-07-02T14:03:44.6746299+00:00",
       "NumProgressed": 3928,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T16:03:40.2343349+00:00",
+      "NumProgressed": 3930,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5529,7 +5534,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -5545,7 +5550,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -5633,7 +5638,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2987
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5729,7 +5734,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5745,7 +5750,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5792,15 +5797,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3928,
+      "Progressed": 3930,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:04:06.5642435+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:03:40.2343343+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:00:50.6186011+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:04:06.5642951+00:00"
+  "LastUpdate_Ratings": "2023-07-02T16:00:04.6292137+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:03:40.2343941+00:00"
 }

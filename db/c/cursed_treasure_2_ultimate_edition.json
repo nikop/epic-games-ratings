@@ -239,9 +239,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -495,9 +495,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:04:48.5581612+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:04:11.5021918+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:59:00.2713131+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:04:48.5582046+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:58:38.2669418+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:04:11.5022326+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,726 |
-| Landlord | 31.00% | ~16,986 |
-| Lawmaker | 22.00% | ~12,055 |
-| Bannerlord | 21.00% | ~11,507 |
-| Horde breaker | 21.00% | ~11,507 |
-| Trained | 21.00% | ~11,507 |
-| The king is pleased | 17.00% | ~9,315 |
-| King Solomon | 16.00% | ~8,767 |
-| I can do it | 15.00% | ~8,219 |
-| Apple of my eye | 14.00% | ~7,671 |
-| God of the Arena | 12.00% | ~6,575 |
+| Lawbringer | 36.00% | ~19,728 |
+| Landlord | 31.00% | ~16,988 |
+| Lawmaker | 22.00% | ~12,056 |
+| Bannerlord | 21.00% | ~11,508 |
+| Horde breaker | 21.00% | ~11,508 |
+| Trained | 21.00% | ~11,508 |
+| The king is pleased | 17.00% | ~9,316 |
+| King Solomon | 16.00% | ~8,768 |
+| I can do it | 15.00% | ~8,220 |
+| Apple of my eye | 14.00% | ~7,672 |
+| God of the Arena | 12.00% | ~6,576 |
 | Against all odds | 10.00% | ~5,480 |
 | Swordbearer | 10.00% | ~5,480 |
 | Duelist | 9.00% | ~4,932 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,795 (Ranked 82)  
+Progressed: 54,800 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,10 +131,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 54,516 | 0 |
 | 2023-06-30 | 54,609 | 0 |
 | 2023-07-01 | 54,716 | 0 |
-| 2023-07-02 | 54,795 | 0 |
+| 2023-07-02 | 54,800 | 0 |
 ## Awards
 Max (Character Customization): 6,742  (Ranked 48)  
-Sum: 13,608 (Ranked 68)  
+Sum: 13,610 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -147,7 +147,7 @@ Diff (max vs sum): -20
 | This game has Amazing Characters | 749 |
 | This game is Relaxing | 748 |
 | This game has Quickly Understood Controls | 746 |
-| This game has a Creative Community | 554 |
+| This game has a Creative Community | 556 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -321,4 +321,4 @@ Diff (max vs sum): -20
 | 2023-06-29 | 4.74 | - | 6,738 | 13,576 |
 | 2023-06-30 | 4.74 | - | 6,742 | 13,587 |
 | 2023-07-01 | 4.74 | - | 6,742 | 13,599 |
-| 2023-07-02 | 4.74 | - | 6,742 | 13,608 |
+| 2023-07-02 | 4.74 | - | 6,742 | 13,610 |

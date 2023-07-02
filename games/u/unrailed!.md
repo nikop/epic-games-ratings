@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~92,033 |
-| Incurious | 15.00% | ~92,033 |
-| Stroller | 13.00% | ~79,762 |
-| Climate Change | 13.00% | ~79,762 |
-| Advanced Hiker | 11.00% | ~67,491 |
-| Toy Train | 11.00% | ~67,491 |
-| Hiker | 10.00% | ~61,355 |
-| Mojave Courier | 5.00% | ~30,678 |
-| Voyager | 3.00% | ~18,407 |
-| Advanced Voyager | 3.00% | ~18,407 |
-| Expert Stroller | 3.00% | ~18,407 |
-| Orient Express | 3.00% | ~18,407 |
-| Saved by Nausicaä | 3.00% | ~18,407 |
-| Expert Hiker | 2.00% | ~12,271 |
-| Marathon | 2.00% | ~12,271 |
-| Destructionist | 2.00% | ~12,271 |
+| Advanced Stroller | 15.00% | ~92,038 |
+| Incurious | 15.00% | ~92,038 |
+| Stroller | 13.00% | ~79,766 |
+| Climate Change | 13.00% | ~79,766 |
+| Advanced Hiker | 11.00% | ~67,494 |
+| Toy Train | 11.00% | ~67,494 |
+| Hiker | 10.00% | ~61,359 |
+| Mojave Courier | 5.00% | ~30,679 |
+| Voyager | 3.00% | ~18,408 |
+| Advanced Voyager | 3.00% | ~18,408 |
+| Expert Stroller | 3.00% | ~18,408 |
+| Orient Express | 3.00% | ~18,408 |
+| Saved by Nausicaä | 3.00% | ~18,408 |
+| Expert Hiker | 2.00% | ~12,272 |
+| Marathon | 2.00% | ~12,272 |
+| Destructionist | 2.00% | ~12,272 |
 | Lost | 1.00% | ~6,136 |
-| Rocketman | 0.60% | ~3,681 |
-| Shopaholic | 0.60% | ~3,681 |
+| Rocketman | 0.60% | ~3,682 |
+| Shopaholic | 0.60% | ~3,682 |
 | Expert Voyager | 0.50% | ~3,068 |
 | Nanuk | 0.50% | ~3,068 |
 | Scrooge | 0.40% | ~2,454 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~614 |
 | 20 Miles under the Sea | 0.10% | ~614 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 613,552 (Ranked 24)  
+Progressed: 613,586 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 7 (0.00%) (Ranked 232)
 | 2023-06-29 | 612,121 | 7 |
 | 2023-06-30 | 612,640 | 7 |
 | 2023-07-01 | 613,204 | 7 |
-| 2023-07-02 | 613,552 | 7 |
+| 2023-07-02 | 613,586 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,532 (Ranked 215)  

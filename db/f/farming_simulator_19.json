@@ -2,12 +2,12 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "ProductSlug": "farming-simulator-19",
-  "Ranking_Rating": 182,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
@@ -6012,10 +6012,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 48521,
       "NumberOfAwardsMax": 6587
+    },
+    {
+      "Time": "2023-07-02T15:59:01.0765166+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 48527,
+      "NumberOfAwardsMax": 6587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48521,
+  "NumberOfAwards": 48527,
   "NumberOfAwardsMax": 6587,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6059,7 +6065,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5251
+      "Count": 5253
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6077,7 +6083,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 3985
+      "Count": 3989
     },
     {
       "Text": "This game has Easy Combat",
@@ -6097,8 +6103,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2023-07-02T13:09:53.9088425+00:00",
+  "LastChanged": "2023-07-02T15:59:01.0765165+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:00.3577459+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:59:32.3863822+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:02:29.5958015+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:59:01.0765177+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:02:18.3184289+00:00"
 }

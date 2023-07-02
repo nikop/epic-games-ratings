@@ -2,12 +2,12 @@
   "ID": "908bed122ba84c4a908ee1e14da401c3",
   "Name": "SUPERHOT",
   "ProductSlug": "superhot",
-  "Ranking_Rating": 182,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2016-02-24T16:00:00+00:00",
@@ -345,6 +345,6 @@
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
   "LastChanged": "2023-06-20T11:00:01.5347023+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:28.3341142+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:00:43.6230625+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:04:26.4565751+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:59:59.0268252+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:03:54.9450871+00:00"
 }

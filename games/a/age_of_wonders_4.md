@@ -21,11 +21,11 @@ Rating: 4.60 (Ranked 388)
 | Magical Synergy | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
+| Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Preparation Is Everything | 0.90% | ~44 |
-| Against the Odds | 0.90% | ~44 |
 | Duality | 0.90% | ~44 |
 | Arch Mage | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |
@@ -40,9 +40,9 @@ Rating: 4.60 (Ranked 388)
 | The Goddess of Nature | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |
 | Crimson Caldera | 0.40% | ~20 |
+| The Eternal Court | 0.40% | ~20 |
+| Jack of All Tomes | 0.40% | ~20 |
 | Manufactured War | 0.30% | ~15 |
-| The Eternal Court | 0.30% | ~15 |
-| Jack of All Tomes | 0.30% | ~15 |
 | Pruning for Progress | 0.30% | ~15 |
 | I've Got Everything I Need Right Here | 0.20% | ~10 |
 | Grexolis | 0.20% | ~10 |

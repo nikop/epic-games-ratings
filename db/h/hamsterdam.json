@@ -4,7 +4,7 @@
   "ProductSlug": "hamsterdam",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.8016757+00:00",
   "LastChanged": "2023-03-31T05:57:23.8016758+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.4757338+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:59:24.2555494+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:01:29.8574083+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:58:55.7772841+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:00:36.587296+00:00"
 }

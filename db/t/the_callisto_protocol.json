@@ -832,7 +832,7 @@
   ],
   "EOS_Progressed": 15612,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5130,9 +5130,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -5258,17 +5258,17 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 94
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -5330,9 +5330,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "STORY_MINETOWN",
@@ -5505,8 +5505,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-02T08:57:57.9486627+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:05:24.7589274+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:04:40.1502975+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T14:58:08.1347215+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:05:24.7589944+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:57:58.8865411+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:04:40.1503663+00:00"
 }

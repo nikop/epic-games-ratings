@@ -9,12 +9,12 @@ Number of Ratings: 32  (23.09.2022)
 | Welcome to Redo | 98.00% | ~228 |
 | Daily Life Begins Anew | 82.00% | ~191 |
 | Our World Now | 82.00% | ~191 |
-| Never Saw It Coming | 66.00% | ~154 |
+| Never Saw It Coming | 67.00% | ~156 |
 | Coup de Grace | 58.00% | ~135 |
 | Go-Home Club Activities START! | 48.00% | ~112 |
 | Philanthropist | 39.00% | ~91 |
 | Test Your Luck | 34.00% | ~79 |
-| Behind the Curtain | 32.00% | ~75 |
+| Behind the Curtain | 33.00% | ~77 |
 | Master of Surprise | 30.00% | ~70 |
 | Be Who You Wanna Be | 26.00% | ~61 |
 | Counter Champion | 25.00% | ~58 |

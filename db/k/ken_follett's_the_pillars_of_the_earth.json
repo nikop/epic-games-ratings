@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13650,
+  "EOS_Progressed": 13652,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5329,6 +5329,11 @@
       "Time": "2023-07-02T14:05:43.0156752+00:00",
       "NumProgressed": 13650,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-02T16:05:33.856889+00:00",
+      "NumProgressed": 13652,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5364,7 +5369,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "tpote_achievement_13",
@@ -5372,7 +5377,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "tpote_achievement_14",
@@ -5380,7 +5385,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "tpote_achievement_15",
@@ -5404,7 +5409,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "tpote_achievement_18",
@@ -5428,7 +5433,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "tpote_achievement_20",
@@ -5500,7 +5505,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "tpote_achievement_29",
@@ -5508,7 +5513,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_3",
@@ -5516,7 +5521,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "tpote_achievement_30",
@@ -5548,7 +5553,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_34",
@@ -5572,7 +5577,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_37",
@@ -5580,7 +5585,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "tpote_achievement_38",
@@ -5596,7 +5601,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_4",
@@ -5604,7 +5609,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "tpote_achievement_40",
@@ -5612,7 +5617,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_41",
@@ -5620,7 +5625,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "tpote_achievement_5",
@@ -5667,15 +5672,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13650,
+      "Progressed": 13652,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-02T15:06:43.2426681+00:00",
+  "LastChanged_Achievements": "2023-07-02T16:05:33.8568885+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-02T15:00:36.6231634+00:00",
-  "LastUpdate_Achievements": "2023-07-02T15:06:43.2427297+00:00"
+  "LastUpdate_Ratings": "2023-07-02T15:59:53.860022+00:00",
+  "LastUpdate_Achievements": "2023-07-02T16:05:33.8569504+00:00"
 }
