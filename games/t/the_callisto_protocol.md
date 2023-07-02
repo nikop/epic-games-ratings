@@ -24,11 +24,11 @@ Rating: 4.19 (Ranked 843)
 | Giving Back | 0.60% | ~94 |
 | Terminated | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
+| What Lies Beneath | 0.60% | ~94 |
+| Desperate Times | 0.60% | ~94 |
 | Full Circle | 0.60% | ~94 |
 | Power Up | 0.60% | ~94 |
 | The Commonality | 0.50% | ~78 |
-| What Lies Beneath | 0.50% | ~78 |
-| Desperate Times | 0.50% | ~78 |
 | In Striking Distance | 0.30% | ~47 |
 | This Isn't About Escape | 0.30% | ~11 |
 | One Last Job | 0.30% | ~11 |

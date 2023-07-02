@@ -3,11 +3,11 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 205,
+  "Ranking_Popularity": 122,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -400,18 +400,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 1727,
       "NumberOfAwardsMax": 1267
+    },
+    {
+      "Time": "2023-07-02T12:01:39.2695646+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 1851,
+      "NumberOfAwardsMax": 1391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1727,
-  "NumberOfAwardsMax": 1267,
+  "NumberOfAwards": 1851,
+  "NumberOfAwardsMax": 1391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1267
+      "Count": 1391
     },
     {
       "Text": "This game is Highly Recommended",
@@ -486,8 +492,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-02T10:00:47.1455808+00:00",
+  "LastChanged": "2023-07-02T12:01:39.2695645+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:00.4141192+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:01:21.5954939+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:04:36.6521609+00:00"
+  "LastUpdate_Ratings": "2023-07-02T12:01:39.2695652+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:04:50.9374982+00:00"
 }

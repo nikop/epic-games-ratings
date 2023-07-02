@@ -12,9 +12,9 @@
 | Scribe | 7.00% | ~8 |
 | Tactician | 6.00% | ~7 |
 | Fight Another Day | 6.00% | ~7 |
+| Scholar | 5.00% | ~6 |
 | Breached | 5.00% | ~6 |
 | Conciliator | 4.00% | ~5 |
-| Scholar | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
 | Acquaintance | 4.00% | ~5 |

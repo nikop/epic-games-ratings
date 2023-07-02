@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2900,6 +2900,11 @@
       "Time": "2023-07-02T09:04:15.43193+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T12:05:13.0016885+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 42,
@@ -2967,7 +2972,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Eureka_23",
@@ -2981,9 +2986,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 687
+      "UsersEstimate": 657
     },
     {
       "ID": "ForAllAurai_8",
@@ -3103,7 +3108,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3119,7 +3124,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -3133,9 +3138,9 @@
       "ID": "Tapped_22",
       "SetID": "c4hee28",
       "Name": "Tapped!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1075
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -3246,15 +3251,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:04:57.7583239+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:05:13.001688+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:13.293484+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:58:07.1111569+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:04:57.7583606+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:58:19.5079037+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:05:13.0017261+00:00"
 }

@@ -24,7 +24,7 @@ Number of Ratings: 22  (23.09.2022)
 | One More Thing... | 13.00% | ~58 |
 | Lucky Day | 13.00% | ~58 |
 | King of District 2 | 12.00% | ~54 |
-| Time Travel! | 10.00% | ~45 |
+| Time Travel! | 11.00% | ~50 |
 | Marketing Manager | 10.00% | ~45 |
 | Circus Versus Circus | 8.00% | ~36 |
 | King of District 3 | 8.00% | ~36 |

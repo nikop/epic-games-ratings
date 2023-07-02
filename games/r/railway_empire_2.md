@@ -1,14 +1,14 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.38 (Ranked 708)  
+Rating: 4.39 (Ranked 701)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,072 |
+| Departure | 72.00% | ~1,043 |
 | A new Journey | 72.00% | ~1,043 |
 | From X to Y | 71.00% | ~1,028 |
-| Departure | 71.00% | ~1,028 |
 | Way of Iron | 69.00% | ~999 |
 | Mystery Tour | 67.00% | ~970 |
 | We brake for nobody | 66.00% | ~956 |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-20 | 4.31 | 0 | 0 |
 | 2023-06-25 | 4.33 | 0 | 0 |
 | 2023-06-28 | 4.38 | 0 | 0 |
+| 2023-07-02 | 4.39 | 0 | 0 |

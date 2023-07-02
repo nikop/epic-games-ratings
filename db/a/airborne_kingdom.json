@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6729,
+  "EOS_Progressed": 6730,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2373,6 +2373,11 @@
       "Time": "2023-07-02T11:07:07.1779887+00:00",
       "NumProgressed": 6729,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-02T12:07:29.3688317+00:00",
+      "NumProgressed": 6730,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2416,7 +2421,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3566
+      "UsersEstimate": 3567
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2432,7 +2437,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2536,7 +2541,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2599,15 +2604,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6729,
+      "Progressed": 6730,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:07:07.177988+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:07:29.368831+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:31.6113901+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:57:39.7346415+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:07:07.178013+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:57:52.9068936+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:07:29.3688567+00:00"
 }

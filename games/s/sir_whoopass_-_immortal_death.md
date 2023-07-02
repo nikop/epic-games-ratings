@@ -22,14 +22,14 @@
 | You're not going to blow me up! | 55.00% | ~49 |
 | Mushroom soup of the day | 53.00% | ~47 |
 | Honk honk! | 51.00% | ~45 |
-| Butcher | 49.00% | ~44 |
-| Spare Ribs | 49.00% | ~44 |
+| Butcher | 51.00% | ~45 |
+| Spare Ribs | 51.00% | ~45 |
 | Cockadoodledoo! | 48.00% | ~43 |
 | My pants squeak when I walk | 46.00% | ~41 |
 | Thats disgusting! | 46.00% | ~41 |
 | Surprise!! | 43.00% | ~38 |
 | Self assessed tax return | 40.00% | ~36 |
-| Haemochromatosis | 38.00% | ~34 |
+| Haemochromatosis | 39.00% | ~35 |
 | Make America Grate Again | 37.00% | ~33 |
 | Catch the bus with me! | 35.00% | ~31 |
 | Pasta Bolognese | 35.00% | ~31 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 302)  
+Progressed: 89 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

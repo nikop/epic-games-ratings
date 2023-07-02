@@ -16,11 +16,11 @@
 | Flower Thief | 64.00% | ~29 |
 | Apostle of Flame | 64.00% | ~29 |
 | Seal Breaker | 53.00% | ~24 |
+| Giant Lizard Killer | 49.00% | ~22 |
 | Handyman | 49.00% | ~22 |
-| Giant Lizard Killer | 47.00% | ~21 |
+| Nosebleeder | 47.00% | ~21 |
 | Trader | 47.00% | ~21 |
-| Nosebleeder | 44.00% | ~20 |
-| Guardian | 42.00% | ~19 |
+| Guardian | 44.00% | ~20 |
 | Weapon Boost | 42.00% | ~19 |
 | Youth Magnet | 40.00% | ~18 |
 | Furious Scorpion Killer | 40.00% | ~18 |

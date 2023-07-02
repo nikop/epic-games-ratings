@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1691,9 +1691,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 293
     },
     {
       "ID": "MQ02_2",
@@ -1908,8 +1908,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:05:41.7804784+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:05:58.4613318+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:57:25.8592646+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:05:41.7805014+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:57:34.9897627+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:05:58.4613554+00:00"
 }

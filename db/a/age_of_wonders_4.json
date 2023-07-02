@@ -264,7 +264,7 @@
   "Tags": [],
   "EOS_Progressed": 4900,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4866,9 +4866,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "15",
@@ -4882,9 +4882,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "17",
@@ -5002,9 +5002,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "30",
@@ -5130,9 +5130,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "5",
@@ -5228,7 +5228,7 @@
       "ID": "7132754",
       "IsBase": false,
       "Progressed": 4900,
-      "Completed": 4757
+      "Completed": 4758
     },
     {
       "ID": "3aa2279",
@@ -5241,8 +5241,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:06:13.164512+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:06:31.932604+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:00:08.9055916+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:06:13.1645688+00:00"
+  "LastUpdate_Ratings": "2023-07-02T12:00:20.4557548+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:06:31.932659+00:00"
 }

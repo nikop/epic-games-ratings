@@ -2,7 +2,7 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 90,
@@ -651,9 +651,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ENEMIES_2",
@@ -907,9 +907,9 @@
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MOUNT_1",
@@ -1003,9 +1003,9 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -1058,8 +1058,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:07:23.6923827+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:07:46.5420762+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.6800078+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:57:19.104562+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:07:23.6924541+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:57:27.4144012+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:07:46.5421494+00:00"
 }

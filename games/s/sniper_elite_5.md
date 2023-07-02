@@ -6,13 +6,13 @@ Rating: 4.45 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Target America | 0.80% | ~26 |
+| Meeting Resistance | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Resourceful | 0.60% | ~19 |
 | The Kraken Wakes | 0.60% | ~19 |
 | Taking it back | 0.60% | ~19 |
 | Climbing the Ladder | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
-| Meeting Resistance | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
 | Sharpshooter | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
@@ -22,8 +22,8 @@ Rating: 4.45 (Ranked 617)
 | Liberté | 0.40% | ~13 |
 | No Stone Unturned | 0.40% | ~13 |
 | Opposing Force | 0.40% | ~13 |
+| Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
-| Enemy at the Gates | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Set Europe Ablaze | 0.30% | ~10 |
 | Precision Is Key | 0.30% | ~10 |

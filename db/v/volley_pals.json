@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 22.54,
+  "EOS_Completed_Percentage": 22.22,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -364,6 +364,11 @@
       "Time": "2023-07-02T09:05:49.9842851+00:00",
       "NumProgressed": 71,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-02T12:07:19.2278539+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 10,
@@ -375,7 +380,7 @@
       "Name": "Beach",
       "Percentage": 93,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_1",
@@ -383,13 +388,13 @@
       "Name": "Library",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 100,
       "UsersEstimate": 38
     },
@@ -405,7 +410,7 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 26
     },
@@ -413,7 +418,7 @@
       "ID": "LEVEL_5",
       "SetID": "1fnbp5h",
       "Name": "Ball Disposal Facility",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 21
     },
@@ -454,13 +459,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 16
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:06:57.535652+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:07:19.227853+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.844109+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:57:27.8406219+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:06:57.5356585+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:57:37.8320187+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:07:19.2278628+00:00"
 }

@@ -628,9 +628,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 252250,
+  "EOS_Progressed": 252253,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8023,6 +8023,11 @@
       "Time": "2023-07-02T11:05:02.8707617+00:00",
       "NumProgressed": 252250,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T12:05:18.1205015+00:00",
+      "NumProgressed": 252253,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8050,7 +8055,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "Act4",
@@ -8090,7 +8095,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -8162,7 +8167,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "CreedsInBank2",
@@ -8170,7 +8175,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "CreedsInBank3",
@@ -8202,7 +8207,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "FullHomeExpansion",
@@ -8218,7 +8223,7 @@
       "Name": "Workhorse",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "GrowPlantWithFertilisers",
@@ -8226,7 +8231,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "GrowPlants1",
@@ -8242,7 +8247,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "GrowPlants3",
@@ -8282,7 +8287,7 @@
       "Name": "Homerun",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "KillOtherInFirstMinute",
@@ -8322,7 +8327,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55495
+      "UsersEstimate": 55496
     },
     {
       "ID": "KillOthers2",
@@ -8354,7 +8359,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "MaxImagoLevel",
@@ -8386,7 +8391,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "OldCoinCollected",
@@ -8442,7 +8447,7 @@
       "Name": "A season in Century City",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "TakeFromBankNCreedsOneTime",
@@ -8474,14 +8479,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252250,
+      "Progressed": 252253,
       "Completed": 2
     }
   ],
@@ -8489,8 +8494,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-02T03:24:31.4758884+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:05:02.8707611+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:05:18.120501+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:01:06.665615+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:05:02.8708349+00:00"
+  "LastUpdate_Ratings": "2023-07-02T12:01:23.9054911+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:05:18.1205738+00:00"
 }

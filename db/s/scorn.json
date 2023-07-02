@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -1665,9 +1665,9 @@
       "ID": "007",
       "SetID": "94k0mj8",
       "Name": "007",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 65
+      "UsersEstimate": 86
     },
     {
       "ID": "008",
@@ -1722,8 +1722,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:07:01.2400058+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:07:23.1002198+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:34.4964065+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:58:24.8477781+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:07:01.2400255+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:58:38.7963924+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:07:23.1002359+00:00"
 }

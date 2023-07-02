@@ -2484,9 +2484,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 5801,
+  "EOS_Progressed": 5802,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -4584,6 +4584,11 @@
       "Time": "2023-07-02T11:05:50.3685409+00:00",
       "NumProgressed": 5801,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-07-02T12:06:08.2693344+00:00",
+      "NumProgressed": 5802,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 15,
@@ -4603,7 +4608,7 @@
       "Name": "Banker",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Bestest_Friend",
@@ -4651,7 +4656,7 @@
       "Name": "Gardener",
       "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Generous",
@@ -4659,7 +4664,7 @@
       "Name": "Generous",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Goofys_Investor",
@@ -4667,7 +4672,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "Miner",
@@ -4714,7 +4719,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 5801,
+      "Progressed": 5802,
       "Completed": 159
     }
   ],
@@ -4722,8 +4727,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-07-01T22:58:36.2374255+00:00",
-  "LastChanged_Achievements": "2023-07-02T11:05:50.3685402+00:00",
+  "LastChanged_Achievements": "2023-07-02T12:06:08.269334+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:32.86428+00:00",
-  "LastUpdate_Ratings": "2023-07-02T10:58:24.668662+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:05:50.368561+00:00"
+  "LastUpdate_Ratings": "2023-07-02T11:58:38.615314+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:06:08.2693526+00:00"
 }

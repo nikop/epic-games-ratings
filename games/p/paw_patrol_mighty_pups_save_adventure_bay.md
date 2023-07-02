@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mighty Powers | 64.00% | ~7 |
+| Pup Pup Boogie | 55.00% | ~6 |
 | Summer Day | 55.00% | ~6 |
 | Risky Rescue | 55.00% | ~6 |
 | Grand Re-Opening | 45.00% | ~5 |
-| Pup Pup Boogie | 45.00% | ~5 |
 | Paw patrol member | 45.00% | ~5 |
 | Carlos Is Tangled | 45.00% | ~5 |
 | Robot Out of Control | 45.00% | ~5 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 388)  
+Progressed: 11 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

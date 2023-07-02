@@ -3,11 +3,11 @@
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 345,
-  "Ranking_Popularity": 122,
+  "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
@@ -2365,6 +2365,6 @@
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
   "LastChanged": "2023-07-02T04:01:25.0351304+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.6891431+00:00",
-  "LastUpdate_Ratings": "2023-07-02T11:01:04.0451278+00:00",
-  "LastUpdate_Achievements": "2023-07-02T11:03:27.5743387+00:00"
+  "LastUpdate_Ratings": "2023-07-02T12:01:20.9636253+00:00",
+  "LastUpdate_Achievements": "2023-07-02T12:03:29.4507913+00:00"
 }
