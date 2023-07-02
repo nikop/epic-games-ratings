@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 33.33% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -17,13 +17,13 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.05% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.00% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
@@ -41,7 +41,7 @@
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.72% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
+| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.38% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -60,8 +60,8 @@
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.73% |
-| 62 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.72% |
+| 61 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.76% |
+| 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
@@ -154,10 +154,10 @@
 | 150 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 153 | [Blanc](games/b/blanc.md) | 0.24% |
 | 154 | [Filament](games/f/filament.md) | 0.23% |
-| 154 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.23% |
-| 156 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 156 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
-| 156 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 155 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 155 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
+| 155 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.22% |
+| 155 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 159 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |

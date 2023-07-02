@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,468,100 | 4.29 | 778 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,470,577 | 4.29 | 778 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 460,631 | 4.50 | 550 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,662 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 193,122 | 4.68 | 239 |
@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,886 | 4.61 | 363 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,397 | 4.50 | 550 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,860 | 4.74 | 144 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,378 | 4.52 | 518 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,441 | 4.52 | 518 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,628 | 4.65 | 297 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,627 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,486 | 4.53 | 503 |
@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,732 | 4.45 | 617 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,404 | 4.88 | 19 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,395 | 4.78 | 100 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,361 | 4.61 | 363 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,376 | 4.61 | 363 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 8,950 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,378 | 4.60 | 388 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,160 | 4.58 | 422 |
@@ -51,7 +51,7 @@
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 660 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,587 | 4.71 | 181 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,335 | 4.80 | 79 |
-| 52 | [Sifu](games/s/sifu.md) | 6,221 | 4.82 | 65 |
+| 52 | [Sifu](games/s/sifu.md) | 6,226 | 4.82 | 65 |
 | 53 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,204 | 4.58 | 422 |
 | 54 | [DEATH STRANDING](games/d/death_stranding.md) | 6,090 | 4.77 | 108 |
 | 55 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,949 | 4.64 | 310 |
@@ -100,13 +100,13 @@
 | 98 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,419 | 4.80 | 79 |
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,407 | 4.18 | 850 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,338 | 4.78 | 100 |
-| 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,232 | 4.67 | 257 |
+| 101 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,233 | 4.67 | 257 |
 | 102 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,183 | 4.41 | 671 |
 | 103 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,163 | 4.63 | 329 |
 | 104 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,139 | 4.37 | 719 |
-| 105 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,006 | 4.48 | 583 |
-| 106 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,978 | 4.49 | 568 |
-| 107 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 1,970 | 4.67 | 257 |
+| 105 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,020 | 4.67 | 257 |
+| 106 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,006 | 4.48 | 583 |
+| 107 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,978 | 4.49 | 568 |
 | 108 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,887 | 4.66 | 272 |
 | 109 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,848 | 4.70 | 196 |
 | 110 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,838 | 4.90 | 8 |
@@ -199,7 +199,7 @@
 | 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 272 |
 | 198 | [Second Extinction™](games/s/second_extinction™.md) | 451 | 4.05 | 899 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 447 | 4.61 | 363 |
-| 200 | [The Sims™ 4](games/t/the_sims™_4.md) | 444 | 4.61 | 363 |
+| 200 | [The Sims™ 4](games/t/the_sims™_4.md) | 446 | 4.61 | 363 |
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 420 | 4.40 | 686 |
 | 202 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 203 | [RimWorld](games/r/rimworld.md) | 417 | 4.89 | 12 |
@@ -269,7 +269,7 @@
 | 267 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 200 | 4.56 | 457 |
 | 268 | [shapez](games/s/shapez.md) | 199 | 4.71 | 181 |
 | 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 198 | 4.43 | 652 |
-| 270 | [Relicta](games/r/relicta.md) | 197 | 4.15 | 866 |
+| 269 | [Relicta](games/r/relicta.md) | 198 | 4.15 | 866 |
 | 271 | [Brawlhalla](games/b/brawlhalla.md) | 192 | 4.60 | 388 |
 | 272 | [Crashlands](games/c/crashlands.md) | 191 | 4.66 | 272 |
 | 273 | [Unrailed!](games/u/unrailed!.md) | 190 | 4.64 | 310 |
