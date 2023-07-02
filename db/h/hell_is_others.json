@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -634,9 +634,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252295,
+  "EOS_Progressed": 252299,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8079,6 +8079,11 @@
       "Time": "2023-07-02T22:04:51.0375564+00:00",
       "NumProgressed": 252295,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T23:05:25.3722594+00:00",
+      "NumProgressed": 252299,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8138,7 +8143,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78211
+      "UsersEstimate": 78213
     },
     {
       "ID": "BackHomeNTimes",
@@ -8378,7 +8383,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55505
+      "UsersEstimate": 55506
     },
     {
       "ID": "KillOthers2",
@@ -8537,7 +8542,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252295,
+      "Progressed": 252299,
       "Completed": 2
     }
   ],
@@ -8545,8 +8550,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-02T17:01:04.612109+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:04:51.037556+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:05:25.3722584+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:01:06.7058323+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:04:51.0376573+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:01:52.5067664+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:05:25.3723858+00:00"
 }

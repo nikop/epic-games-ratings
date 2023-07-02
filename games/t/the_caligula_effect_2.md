@@ -12,7 +12,7 @@ Number of Ratings: 32  (23.09.2022)
 | Never Saw It Coming | 67.00% | ~156 |
 | Coup de Grace | 58.00% | ~135 |
 | Go-Home Club Activities START! | 48.00% | ~112 |
-| Philanthropist | 39.00% | ~91 |
+| Philanthropist | 40.00% | ~93 |
 | Test Your Luck | 34.00% | ~79 |
 | Behind the Curtain | 33.00% | ~77 |
 | Master of Surprise | 30.00% | ~70 |

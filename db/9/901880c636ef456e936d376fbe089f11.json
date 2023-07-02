@@ -354,9 +354,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -410,17 +410,17 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:04:36.4663774+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:05:08.2361992+00:00",
   "LastUpdate_AppInfo": "2023-06-27T03:57:08.4419995+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:57:15.6657474+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:04:36.4664195+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:57:27.6289453+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:05:08.2362432+00:00"
 }

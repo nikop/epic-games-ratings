@@ -14,8 +14,8 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 77.00% | ~174 |
 | Time Traveler | 74.00% | ~167 |
 | Everyone's Hero | 72.00% | ~163 |
+| Knuckles the Echidna | 70.00% | ~158 |
 | Easy Peasy with Shields | 69.00% | ~156 |
-| Knuckles the Echidna | 69.00% | ~156 |
 | Gallant Spin Dash | 68.00% | ~154 |
 | Miles "Tails" Prower | 68.00% | ~154 |
 | Bubbly Breath | 67.00% | ~151 |
@@ -29,7 +29,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic CD | 49.00% | ~111 |
 | Cleared Sonic the Hedgehog 2 | 47.00% | ~106 |
 | Beware Moto Bugs! | 46.00% | ~104 |
-| Cleared Sonic the Hedgehog 3 & Knuckles | 45.00% | ~102 |
+| Cleared Sonic the Hedgehog 3 & Knuckles | 46.00% | ~104 |
 | Lucky Hedgehog | 38.00% | ~86 |
 | All Clear! | 38.00% | ~86 |
 | To the Mirror World | 35.00% | ~79 |

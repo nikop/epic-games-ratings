@@ -25,6 +25,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 2.00% | ~312 |
 | Royal Outpost | 2.00% | ~312 |
 | Lost Colonies | 2.00% | ~312 |
+| Corrosive Torrent | 2.00% | ~312 |
 | Watchtower | 2.00% | ~312 |
 | Cursed Lands | 2.00% | ~312 |
 | A Real Challenge | 2.00% | ~312 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~156 |
 | Statue of the Forefathers | 1.00% | ~156 |
 | Forsaken Gods Temple | 1.00% | ~156 |
-| Corrosive Torrent | 1.00% | ~156 |
 | Defying the Crown | 1.00% | ~156 |
 | Into the Forest | 1.00% | ~156 |
 | Fishmen Ritual Site | 0.90% | ~140 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,600 (Ranked 107)  
+Progressed: 15,602 (Ranked 107)  
 Completed: 39 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 39 (0.25%) (Ranked 150)
 | 2023-06-29 | 15,527 | 39 |
 | 2023-06-30 | 15,543 | 39 |
 | 2023-07-01 | 15,569 | 39 |
-| 2023-07-02 | 15,600 | 39 |
+| 2023-07-02 | 15,602 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,060 (Ranked 155)  

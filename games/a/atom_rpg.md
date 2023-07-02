@@ -34,10 +34,10 @@ Number of Ratings: 54  (23.09.2022)
 | Cosmic Horror | 1.00% | ~10 |
 | Ghostbuster | 0.80% | ~8 |
 | Cheeki Breeki | 0.50% | ~5 |
+| Comrade Yogi | 0.50% | ~5 |
 | Expert | 0.50% | ~5 |
 | Tourist Korallov | 0.50% | ~5 |
 | It's a classic! | 0.40% | ~4 |
-| Comrade Yogi | 0.40% | ~4 |
 | Mystical relics | 0.20% | ~2 |
 | 27 Club | 0.00% | ~0 |
 | No Name, No Slogan | 0.00% | ~0 |

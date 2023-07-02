@@ -2,7 +2,7 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 329,
+  "Ranking_Rating": 310,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 136,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -118,6 +118,12 @@
     {
       "Time": "2023-06-30T22:00:46.3127868+00:00",
       "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-02T23:01:58.463538+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2993,9 +2999,9 @@
       "ID": "ACH_SURVIVE_5_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Prepper",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4193
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -3033,9 +3039,9 @@
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
-  "LastChanged": "2023-06-30T22:00:46.3127866+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:07:11.7508936+00:00",
+  "LastChanged": "2023-07-02T23:01:58.4635378+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:07:57.2012871+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:01:09.6831959+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:07:11.7509713+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:01:58.4635387+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:07:57.2013718+00:00"
 }

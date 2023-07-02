@@ -6,8 +6,8 @@
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.08,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -394,6 +394,11 @@
       "Time": "2023-07-02T02:37:10.3242657+00:00",
       "NumProgressed": 465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-02T23:07:49.329069+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -427,9 +432,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "Doors_Closing",
@@ -437,7 +442,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Echoes",
@@ -491,9 +496,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 233
     },
     {
       "ID": "Hitman",
@@ -541,7 +546,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Misanthrope",
@@ -581,7 +586,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Paparazzi",
@@ -636,7 +641,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 5
     }
   ],
@@ -644,8 +649,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:07:04.7966984+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:07:49.3290681+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:02.3296291+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:01:22.6027634+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:07:04.7967243+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:02:12.1558949+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:07:49.3290933+00:00"
 }

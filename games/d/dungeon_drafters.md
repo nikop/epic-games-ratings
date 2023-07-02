@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~20 |
-| Might be useful… | 43.00% | ~20 |
-| Friend! | 36.00% | ~17 |
-| Uncut Gem | 36.00% | ~17 |
-| Shine! | 34.00% | ~16 |
-| Setting Off | 32.00% | ~15 |
-| Clear as Water | 26.00% | ~12 |
-| Riddlesolver | 23.00% | ~11 |
-| Card Collector | 23.00% | ~11 |
-| Dungeon Mastery | 19.00% | ~9 |
-| The Steed | 13.00% | ~6 |
-| A Strange Proposition | 13.00% | ~6 |
-| The Bodyguard | 9.00% | ~4 |
-| The Apprentice | 9.00% | ~4 |
-| The Familiar | 9.00% | ~4 |
+| Treasure Hunting | 41.00% | ~20 |
+| Might be useful… | 41.00% | ~20 |
+| Friend! | 35.00% | ~17 |
+| Uncut Gem | 35.00% | ~17 |
+| Shine! | 33.00% | ~16 |
+| Setting Off | 31.00% | ~15 |
+| Clear as Water | 24.00% | ~12 |
+| Riddlesolver | 22.00% | ~11 |
+| Card Collector | 22.00% | ~11 |
+| Dungeon Mastery | 18.00% | ~9 |
+| The Steed | 12.00% | ~6 |
+| A Strange Proposition | 12.00% | ~6 |
+| The Bodyguard | 8.00% | ~4 |
+| The Apprentice | 8.00% | ~4 |
+| The Familiar | 8.00% | ~4 |
 | Braving Miasma | 6.00% | ~3 |
 | Ancient Nemesis | 6.00% | ~3 |
 | Traveler Mastery | 6.00% | ~3 |
@@ -45,7 +45,7 @@
 | Gladiator | 2.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 333)  
+Progressed: 49 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-25 | 44 | 0 |
 | 2023-06-30 | 46 | 0 |
 | 2023-07-01 | 47 | 0 |
+| 2023-07-02 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

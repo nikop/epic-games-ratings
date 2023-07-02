@@ -11,7 +11,7 @@
 | Triple Kill | 42.00% | ~58 |
 | I Believe I Can Fly | 39.00% | ~53 |
 | Early Survivor | 39.00% | ~34 |
-| No Asperascope | 36.00% | ~49 |
+| No Asperascope | 37.00% | ~51 |
 | Cornivore | 36.00% | ~49 |
 | No Diggity | 36.00% | ~31 |
 | Amateur Survivor | 28.00% | ~24 |
@@ -35,7 +35,7 @@
 | Expert Survivor | 8.00% | ~7 |
 | Quadsparagus | 8.00% | ~7 |
 | Quit Horsin' Around | 7.00% | ~10 |
-| Bring Home The Bacon | 5.00% | ~7 |
+| Bring Home The Bacon | 6.00% | ~8 |
 | Getting Started | 5.00% | ~7 |
 | Master Survivor | 5.00% | ~4 |
 | Chick Magnet | 4.00% | ~5 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -688,9 +688,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6338,
+  "EOS_Progressed": 6339,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3188,6 +3188,11 @@
       "Time": "2023-07-02T16:02:32.5986181+00:00",
       "NumProgressed": 6338,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-02T23:03:49.9326888+00:00",
+      "NumProgressed": 6339,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3207,7 +3212,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -3375,7 +3380,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -3407,7 +3412,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3543,7 +3548,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -3558,7 +3563,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6338,
+      "Progressed": 6339,
       "Completed": 8
     }
   ],
@@ -3566,8 +3571,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-01T14:57:26.1013752+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:03:28.4683413+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:03:49.9326878+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:57:53.2891708+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:03:28.4683941+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:58:10.1476719+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:03:49.9327377+00:00"
 }

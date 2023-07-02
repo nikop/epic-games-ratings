@@ -6,11 +6,11 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,819 |
+| Let's Get This Party Started | 92.00% | ~6,894 |
 | Photogenic | 88.00% | ~6,594 |
 | Surge Gauntlet Jockey | 86.00% | ~6,444 |
 | Plug It In | 85.00% | ~6,369 |
-| Adventure Time | 80.00% | ~5,994 |
+| Adventure Time | 81.00% | ~6,069 |
 | Playing With Power | 78.00% | ~5,845 |
 | Coup d'Etat | 59.00% | ~4,421 |
 | You're Fired | 58.00% | ~4,346 |

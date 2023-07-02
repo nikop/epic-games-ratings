@@ -747,7 +747,7 @@
   ],
   "EOS_Progressed": 7493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5044,9 +5044,9 @@
       "ID": "ACH_ADVENTURE_TIME",
       "SetID": "97mcd7i",
       "Name": "Adventure Time",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 5994
+      "UsersEstimate": 6069
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -5188,9 +5188,9 @@
       "ID": "ACH_LETS_GET_THIS_PARTY_STARTED",
       "SetID": "97mcd7i",
       "Name": "Let\u0027s Get This Party Started",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6894
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5452,8 +5452,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-02T16:58:50.9856652+00:00",
-  "LastChanged_Achievements": "2023-07-02T22:05:07.8508691+00:00",
+  "LastChanged_Achievements": "2023-07-02T23:05:45.9559923+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.2601444+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:58:57.856508+00:00",
-  "LastUpdate_Achievements": "2023-07-02T22:05:07.8509419+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:59:23.5009018+00:00",
+  "LastUpdate_Achievements": "2023-07-02T23:05:45.9560866+00:00"
 }

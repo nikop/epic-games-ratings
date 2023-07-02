@@ -17,7 +17,7 @@
 | The Bribe | 27.00% | ~120 |
 | The Ploy | 16.00% | ~71 |
 | Interrogation | 15.00% | ~67 |
-| Sabotage | 12.00% | ~53 |
+| Sabotage | 13.00% | ~58 |
 | Choices Matter | 9.00% | ~40 |
 | The Fool | 6.00% | ~27 |
 | The Lion's Den | 5.00% | ~22 |

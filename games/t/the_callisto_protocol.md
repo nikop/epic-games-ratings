@@ -11,6 +11,7 @@ Rating: 4.19 (Ranked 843)
 | You Need a Gun | 0.90% | ~141 |
 | Two Heads Are Better Than One | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
+| It's Time | 0.90% | ~32 |
 | Flesh Wound | 0.80% | ~125 |
 | I Do Belong Here | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
@@ -19,7 +20,6 @@ Rating: 4.19 (Ranked 843)
 | Without A Paddle | 0.80% | ~125 |
 | In the Pipe, Five by Five | 0.80% | ~125 |
 | Crash Site | 0.80% | ~125 |
-| It's Time | 0.80% | ~28 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
