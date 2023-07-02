@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -2413,9 +2413,9 @@
       "Count": 730
     }
   ],
-  "EOS_Progressed": 231785,
+  "EOS_Progressed": 231786,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9643,6 +9643,11 @@
       "Time": "2023-07-02T05:07:45.5878891+00:00",
       "NumProgressed": 231785,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-07-02T07:06:05.569801+00:00",
+      "NumProgressed": 231786,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 122,
@@ -9654,7 +9659,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 23178
+      "UsersEstimate": 23179
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -9686,7 +9691,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 222514
+      "UsersEstimate": 222515
     },
     {
       "ID": "CURSE1HP",
@@ -9694,7 +9699,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 90396
+      "UsersEstimate": 90397
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -9734,7 +9739,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 122846
+      "UsersEstimate": 122847
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -9774,7 +9779,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 169203
+      "UsersEstimate": 169204
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -9838,7 +9843,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 134435
+      "UsersEstimate": 134436
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -9870,7 +9875,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 74171
+      "UsersEstimate": 74172
     },
     {
       "ID": "ENDWOUNDED",
@@ -9894,7 +9899,7 @@
       "Name": "Barbecue",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 23178
+      "UsersEstimate": 23179
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -10110,7 +10115,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39403
+      "UsersEstimate": 39404
     },
     {
       "ID": "KILLBOSSHARD",
@@ -10150,7 +10155,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106621
+      "UsersEstimate": 106622
     },
     {
       "ID": "KILLPARANOIA",
@@ -10158,7 +10163,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 88078
+      "UsersEstimate": 88079
     },
     {
       "ID": "KILLREFLECT10",
@@ -10182,7 +10187,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 106621
+      "UsersEstimate": 106622
     },
     {
       "ID": "KILLSPITTER",
@@ -10206,7 +10211,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 39403
+      "UsersEstimate": 39404
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -10286,7 +10291,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 104303
+      "UsersEstimate": 104304
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -10302,7 +10307,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150660
+      "UsersEstimate": 150661
     },
     {
       "ID": "PETRIFY50",
@@ -10350,7 +10355,7 @@
       "Name": "Need An Antidote?",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "POISONSNAKE",
@@ -10398,7 +10403,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 206289
+      "UsersEstimate": 206290
     },
     {
       "ID": "SPECIALROOMS10",
@@ -10566,7 +10571,7 @@
       "Name": "Ignoring Midgame",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "WINNOREROLLS",
@@ -10629,7 +10634,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 231785,
+      "Progressed": 231786,
       "Completed": 243
     }
   ],
@@ -10637,8 +10642,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-07-01T07:00:23.7456261+00:00",
-  "LastChanged_Achievements": "2023-07-02T06:05:57.3667385+00:00",
+  "LastChanged_Achievements": "2023-07-02T07:06:05.5698005+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:36.5005591+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:59:31.3625265+00:00",
-  "LastUpdate_Achievements": "2023-07-02T06:05:57.3669633+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:59:28.118047+00:00",
+  "LastUpdate_Achievements": "2023-07-02T07:06:05.5700329+00:00"
 }

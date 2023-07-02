@@ -688,9 +688,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6335,
+  "EOS_Progressed": 6336,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3173,6 +3173,11 @@
       "Time": "2023-07-01T11:03:17.2175571+00:00",
       "NumProgressed": 6335,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-02T07:02:33.3685237+00:00",
+      "NumProgressed": 6336,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3200,7 +3205,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -3272,7 +3277,7 @@
       "Name": "Donatello",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -3374,9 +3379,9 @@
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
       "SetID": "akchbl3",
       "Name": "Peak Performance",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3421
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3536,14 +3541,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6335,
+      "Progressed": 6336,
       "Completed": 8
     }
   ],
@@ -3551,8 +3556,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-01T14:57:26.1013752+00:00",
-  "LastChanged_Achievements": "2023-07-02T06:03:07.440492+00:00",
+  "LastChanged_Achievements": "2023-07-02T07:02:33.3685233+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:57:40.5031247+00:00",
-  "LastUpdate_Achievements": "2023-07-02T06:03:07.4405452+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:57:34.4655362+00:00",
+  "LastUpdate_Achievements": "2023-07-02T07:02:33.3685739+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~2,238 |
+| Venture Outward | 75.00% | ~2,239 |
 | Ready for Winter | 64.00% | ~1,910 |
 | Ready for Summer | 51.00% | ~1,522 |
-| Cordon Bleu | 43.00% | ~1,283 |
-| Tapped! | 36.00% | ~1,074 |
+| Cordon Bleu | 43.00% | ~1,284 |
+| Tapped! | 36.00% | ~1,075 |
 | Eureka | 32.00% | ~955 |
 | Scourge Slayer | 26.00% | ~776 |
-| Exceptional Skill | 23.00% | ~686 |
-| Science, Troglodyte! | 23.00% | ~686 |
-| Home Sweet Home | 22.00% | ~656 |
-| Encyclopedic! | 20.00% | ~597 |
-| A Fortress Toppled! | 16.00% | ~477 |
-| Apex Predator | 16.00% | ~477 |
-| The Power of Family | 16.00% | ~477 |
+| Exceptional Skill | 23.00% | ~687 |
+| Science, Troglodyte! | 23.00% | ~687 |
+| Home Sweet Home | 22.00% | ~657 |
+| Encyclopedic! | 19.00% | ~567 |
+| A Fortress Toppled! | 16.00% | ~478 |
+| Apex Predator | 16.00% | ~478 |
+| The Power of Family | 16.00% | ~478 |
 | Strange amalgams | 12.00% | ~358 |
 | The Power of Faith | 12.00% | ~358 |
 | The Power of Freedom | 9.00% | ~269 |
@@ -29,9 +29,9 @@ Number of Ratings: 266  (23.09.2022)
 | Magic is a science | 8.00% | ~239 |
 | Let ‘em eat magma! | 7.00% | ~209 |
 | The power of ambition | 7.00% | ~209 |
-| The stuff of legends. | 7.00% | ~209 |
 | Blood and justice | 6.00% | ~179 |
 | Hold my Mead and Watch This | 6.00% | ~179 |
+| The stuff of legends. | 6.00% | ~179 |
 | Ancestor's Pride | 4.00% | ~119 |
 | For All Aurai | 4.00% | ~119 |
 | Memory of a legend | 4.00% | ~119 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~9 |
 | The Absolute Pinnacle. | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,984 (Ranked 148)  
+Progressed: 2,985 (Ranked 148)  
 Completed: 2 (0.07%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 2 (0.07%) (Ranked 192)
 | 2023-06-29 | 2,981 | 1 |
 | 2023-06-30 | 2,982 | 2 |
 | 2023-07-01 | 2,984 | 2 |
+| 2023-07-02 | 2,985 | 2 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 451)  
 Sum: 239 (Ranked 348)  

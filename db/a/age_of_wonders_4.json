@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4898,
+  "EOS_Progressed": 4899,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4807,6 +4807,11 @@
       "Time": "2023-07-01T23:05:58.3119536+00:00",
       "NumProgressed": 4898,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T07:04:58.6898885+00:00",
+      "NumProgressed": 4899,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4904,9 +4909,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "20",
@@ -5217,13 +5222,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4898,
+      "Progressed": 4899,
       "Completed": 4757
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4898,
+      "Progressed": 4899,
       "Completed": 4
     }
   ],
@@ -5231,8 +5236,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-02T06:05:00.1909883+00:00",
+  "LastChanged_Achievements": "2023-07-02T07:04:58.689888+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:59:30.6342449+00:00",
-  "LastUpdate_Achievements": "2023-07-02T06:05:00.1910618+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:59:27.2137406+00:00",
+  "LastUpdate_Achievements": "2023-07-02T07:04:58.6899617+00:00"
 }

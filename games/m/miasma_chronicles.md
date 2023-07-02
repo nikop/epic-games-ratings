@@ -29,9 +29,9 @@ Rating: 4.38 (Ranked 708)
 | Pushing Daisy | 28.00% | ~336 |
 | Experienced | 27.00% | ~324 |
 | Hold The Line | 24.00% | ~288 |
+| There Can Be Only One! | 24.00% | ~288 |
 | Endgame | 23.00% | ~276 |
 | Savior | 23.00% | ~276 |
-| There Can Be Only One! | 23.00% | ~276 |
 | Chain Killer | 22.00% | ~264 |
 | The Watchers | 20.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~192 |
@@ -39,8 +39,8 @@ Rating: 4.38 (Ranked 708)
 | Dr Jones | 14.00% | ~168 |
 | Ruthless | 14.00% | ~168 |
 | Commando | 13.00% | ~156 |
+| Side Order | 10.00% | ~120 |
 | Chain Reaction | 9.00% | ~108 |
-| Side Order | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
 | Silent but Violent | 8.00% | ~96 |
 | Bot Whisperer | 7.00% | ~84 |

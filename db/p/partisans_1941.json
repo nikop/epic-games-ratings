@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1085,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1355,6 +1355,11 @@
       "Time": "2023-07-01T22:08:35.5709632+00:00",
       "NumProgressed": 1085,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T07:05:47.3144962+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -1390,7 +1395,7 @@
       "Name": "The Big Bertha",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Boy",
@@ -1478,7 +1483,7 @@
       "Name": "Grenadier",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Hard_Serpent",
@@ -1518,7 +1523,7 @@
       "Name": "Spice It Up",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "KillAllM2",
@@ -1605,15 +1610,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1085,
+      "Progressed": 1086,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-07-02T06:05:49.1714239+00:00",
+  "LastChanged_Achievements": "2023-07-02T07:05:47.3144958+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.1195273+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:59:13.7981668+00:00",
-  "LastUpdate_Achievements": "2023-07-02T06:05:49.1714518+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:59:11.4021488+00:00",
+  "LastUpdate_Achievements": "2023-07-02T07:05:47.314524+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,592 |
+| Tattletale | 41.00% | ~5,593 |
 | Man of politics | 35.00% | ~4,774 |
-| Friends of sorts | 34.00% | ~4,637 |
-| Yet another secret | 34.00% | ~4,637 |
-| Let there be darkness | 33.00% | ~4,501 |
-| End of Book One | 31.00% | ~4,228 |
-| Garden of Eden | 25.00% | ~3,410 |
-| Wannabe knight | 24.00% | ~3,273 |
-| Full house | 24.00% | ~3,273 |
+| Friends of sorts | 34.00% | ~4,638 |
+| Yet another secret | 34.00% | ~4,638 |
+| Let there be darkness | 33.00% | ~4,502 |
+| End of Book One | 31.00% | ~4,229 |
+| Wannabe knight | 24.00% | ~3,274 |
+| Garden of Eden | 24.00% | ~3,274 |
+| Full house | 24.00% | ~3,274 |
 | Help an old friend | 22.00% | ~3,001 |
 | Two of us | 20.00% | ~2,728 |
-| Negotiation skills | 19.00% | ~2,591 |
-| Workers' union | 19.00% | ~2,591 |
+| Negotiation skills | 19.00% | ~2,592 |
+| Workers' union | 19.00% | ~2,592 |
 | End of Book Two | 18.00% | ~2,455 |
 | Everything's in order | 17.00% | ~2,319 |
 | Jack was here! | 15.00% | ~2,046 |
-| Twist of Fate | 14.00% | ~1,909 |
-| Exterminator | 14.00% | ~1,909 |
+| Twist of Fate | 14.00% | ~1,910 |
+| Exterminator | 14.00% | ~1,910 |
 | Whodunnit | 13.00% | ~1,773 |
-| Good midwife | 11.00% | ~1,500 |
-| Friar Tuck | 11.00% | ~1,500 |
-| First profit | 11.00% | ~1,500 |
+| Good midwife | 11.00% | ~1,501 |
+| Friar Tuck | 11.00% | ~1,501 |
+| First profit | 11.00% | ~1,501 |
 | Team player | 10.00% | ~1,364 |
 | Skilled merchant | 9.00% | ~1,228 |
 | Nothing but make-believe | 9.00% | ~1,228 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~409 |
 | Boy of mystery | 2.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,639 (Ranked 110)  
+Progressed: 13,641 (Ranked 110)  
 Completed: 103 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 103 (0.76%) (Ranked 110)
 | 2023-06-29 | 13,606 | 103 |
 | 2023-06-30 | 13,621 | 103 |
 | 2023-07-01 | 13,636 | 103 |
-| 2023-07-02 | 13,639 | 103 |
+| 2023-07-02 | 13,641 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 365)  

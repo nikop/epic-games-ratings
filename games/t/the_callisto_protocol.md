@@ -8,18 +8,18 @@ Rating: 4.20 (Ranked 833)
 | Get a Grip | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
 | Keep Fighting | 1.00% | ~35 |
-| You Need a Gun | 0.70% | ~109 |
+| You Need a Gun | 0.80% | ~125 |
 | Flesh Wound | 0.70% | ~109 |
 | Two Heads Are Better Than One | 0.70% | ~109 |
 | Chew 'Em Up | 0.70% | ~109 |
 | Workplace Hazard | 0.70% | ~109 |
+| Float Like A Butterfly | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |
 | Without A Paddle | 0.70% | ~109 |
 | In the Pipe, Five by Five | 0.70% | ~109 |
 | It's Time | 0.70% | ~25 |
 | Giving Back | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
-| Float Like A Butterfly | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
 | Crash Site | 0.60% | ~94 |

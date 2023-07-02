@@ -5,22 +5,22 @@ Rating: 4.56 (Ranked 457)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,838 |
+| Getting Started | 81.00% | ~8,840 |
 | Pay 'n' Spray | 50.00% | ~5,456 |
 | All Dressed Up for San Fierro | 24.00% | ~2,619 |
 | The American Dream | 18.00% | ~1,964 |
 | School's Out | 17.00% | ~1,855 |
 | Smooth Moves | 16.00% | ~1,746 |
 | Today Was a Good Day | 14.00% | ~1,528 |
-| What happens in Las Venturas... | 13.00% | ~1,418 |
+| What happens in Las Venturas... | 13.00% | ~1,419 |
 | Horror of the Santa Maria | 10.00% | ~1,091 |
 | Liberty City State of Mind | 8.00% | ~873 |
 | Original Gangster | 7.00% | ~764 |
 | With Extra Dip | 6.00% | ~655 |
 | The End of the Line | 6.00% | ~655 |
 | Saviour | 5.00% | ~546 |
-| They Can’t Stop All of Us | 4.00% | ~436 |
-| Rescue a Kitten Too? | 4.00% | ~436 |
+| They Can’t Stop All of Us | 4.00% | ~437 |
+| Rescue a Kitten Too? | 4.00% | ~437 |
 | What are the Odds | 3.00% | ~327 |
 | I’ll Have Two Number 9s | 2.00% | ~218 |
 | Bike or Biker | 2.00% | ~218 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 457)
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,911 (Ranked 114)  
+Progressed: 10,913 (Ranked 114)  
 Completed: 24 (0.22%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 24 (0.22%) (Ranked 156)
 | 2023-06-29 | 10,883 | 24 |
 | 2023-06-30 | 10,897 | 24 |
 | 2023-07-01 | 10,907 | 24 |
-| 2023-07-02 | 10,911 | 24 |
+| 2023-07-02 | 10,913 | 24 |
 ## Awards
 Max (Great Boss Battles): 200  (Ranked 267)  
 Sum: 200 (Ranked 358)  

@@ -1,19 +1,19 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.80 (Ranked 80)  
+Rating: 4.80 (Ranked 79)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,310 |
+| For Demacia | 96.00% | ~2,311 |
 | No more cages! | 92.00% | ~2,214 |
 | Everfrost | 78.00% | ~1,877 |
 | Dark Forest | 77.00% | ~1,853 |
 | Pentakill | 76.00% | ~1,829 |
-| The use of petricite | 73.00% | ~1,756 |
+| The use of petricite | 73.00% | ~1,757 |
 | You can pet the dog | 61.00% | ~1,468 |
-| Big Helmet Bro | 36.00% | ~866 |
-| Clarion Cove | 36.00% | ~866 |
+| Big Helmet Bro | 36.00% | ~867 |
+| Clarion Cove | 36.00% | ~867 |
 | Past trauma | 34.00% | ~818 |
 | Thornbarrow | 34.00% | ~818 |
 | Elemental master | 33.00% | ~794 |
@@ -24,8 +24,8 @@ Rating: 4.80 (Ranked 80)
 | Hijack | 27.00% | ~650 |
 | Devineur | 27.00% | ~650 |
 | Whispers in the Woods I | 26.00% | ~626 |
-| Ancient power | 24.00% | ~577 |
-| I chose my shackles | 23.00% | ~553 |
+| Ancient power | 24.00% | ~578 |
+| I chose my shackles | 23.00% | ~554 |
 | Sacred Woods | 21.00% | ~505 |
 | Capelworth | 21.00% | ~505 |
 | Little light | 20.00% | ~481 |
@@ -54,12 +54,12 @@ Rating: 4.80 (Ranked 80)
 | Do you trust me? | 9.00% | ~217 |
 | Chains master | 9.00% | ~217 |
 | You can pet the... horse | 9.00% | ~217 |
-| The great mage rebellion starts now | 8.00% | ~192 |
-| Spellcrafting | 8.00% | ~192 |
+| The great mage rebellion starts now | 8.00% | ~193 |
+| Spellcrafting | 8.00% | ~193 |
 | Silverwing nest | 2.00% | ~48 |
 | The Unshackled | 0.70% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,406 (Ranked 155)  
+Progressed: 2,407 (Ranked 155)  
 Completed: 2 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 2 (0.08%) (Ranked 188)
 | 2023-06-27 | 2,402 | 2 |
 | 2023-06-28 | 2,405 | 2 |
 | 2023-06-30 | 2,406 | 2 |
+| 2023-07-02 | 2,407 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,547 |
-| The Mad Wizard | 10.00% | ~20,390 |
-| The Ring of Regeneration | 6.00% | ~12,234 |
-| Are Ya Chicken? | 6.00% | ~12,234 |
-| Were-verpowered | 5.00% | ~10,195 |
-| Friendly Imps | 5.00% | ~10,195 |
-| Seeking Allies | 4.00% | ~8,156 |
-| Mad Cow Disease | 4.00% | ~8,156 |
-| Pure Energy | 4.00% | ~8,156 |
-| A Persistent Buzzing | 3.00% | ~6,117 |
-| Terror in the Dark | 3.00% | ~6,117 |
-| The Crumbling Temple | 3.00% | ~6,117 |
-| The Contagious Curse | 3.00% | ~6,117 |
-| Beast Mode | 2.00% | ~4,078 |
-| A Mysterious Summons | 2.00% | ~4,078 |
-| Unearthed Evil | 2.00% | ~4,078 |
-| Useless Allies | 2.00% | ~4,078 |
-| Exploring Port Nyanzaru | 2.00% | ~4,078 |
-| Running of the Saurs | 2.00% | ~4,078 |
-| Escort to Waterdeep | 2.00% | ~4,078 |
-| Waterdeep Detours | 2.00% | ~4,078 |
+| The Cursed Farmer | 14.00% | ~28,551 |
+| The Mad Wizard | 10.00% | ~20,394 |
+| The Ring of Regeneration | 6.00% | ~12,236 |
+| Are Ya Chicken? | 6.00% | ~12,236 |
+| Were-verpowered | 5.00% | ~10,197 |
+| Friendly Imps | 5.00% | ~10,197 |
+| Seeking Allies | 4.00% | ~8,157 |
+| Mad Cow Disease | 4.00% | ~8,157 |
+| Pure Energy | 4.00% | ~8,157 |
+| A Persistent Buzzing | 3.00% | ~6,118 |
+| Terror in the Dark | 3.00% | ~6,118 |
+| The Crumbling Temple | 3.00% | ~6,118 |
+| The Contagious Curse | 3.00% | ~6,118 |
+| Beast Mode | 2.00% | ~4,079 |
+| A Mysterious Summons | 2.00% | ~4,079 |
+| Unearthed Evil | 2.00% | ~4,079 |
+| Useless Allies | 2.00% | ~4,079 |
+| Exploring Port Nyanzaru | 2.00% | ~4,079 |
+| Running of the Saurs | 2.00% | ~4,079 |
+| Escort to Waterdeep | 2.00% | ~4,079 |
+| Waterdeep Detours | 2.00% | ~4,079 |
 | Low Initiative | 1.00% | ~2,039 |
 | Building Trust | 1.00% | ~2,039 |
 | March of the Undead | 1.00% | ~2,039 |
@@ -48,20 +48,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.80% | ~1,631 |
 | Trollskull Manor | 0.80% | ~1,631 |
 | Dinosaur Racing | 0.80% | ~1,631 |
-| The Lost Heir of Omu | 0.70% | ~1,427 |
-| The Forbidden City | 0.70% | ~1,427 |
-| Attack on the Manor | 0.70% | ~1,427 |
-| The Dead Three | 0.70% | ~1,427 |
-| The Long Haul | 0.70% | ~1,427 |
-| Lost in the Deep | 0.70% | ~1,427 |
-| Easily Distracted | 0.70% | ~1,427 |
-| Captured! | 0.60% | ~1,223 |
-| Wisdom Check | 0.60% | ~1,223 |
-| A Grand Puzzle | 0.60% | ~1,223 |
-| The Mists of Ravenloft | 0.60% | ~1,223 |
-| Nimble Escape | 0.60% | ~1,223 |
-| Fugitives | 0.60% | ~1,223 |
-| The Haunted Jungle | 0.60% | ~1,223 |
+| The Lost Heir of Omu | 0.70% | ~1,428 |
+| The Forbidden City | 0.70% | ~1,428 |
+| Attack on the Manor | 0.70% | ~1,428 |
+| The Dead Three | 0.70% | ~1,428 |
+| The Long Haul | 0.70% | ~1,428 |
+| Lost in the Deep | 0.70% | ~1,428 |
+| Easily Distracted | 0.70% | ~1,428 |
+| Captured! | 0.60% | ~1,224 |
+| Wisdom Check | 0.60% | ~1,224 |
+| A Grand Puzzle | 0.60% | ~1,224 |
+| The Mists of Ravenloft | 0.60% | ~1,224 |
+| Nimble Escape | 0.60% | ~1,224 |
+| Fugitives | 0.60% | ~1,224 |
+| The Haunted Jungle | 0.60% | ~1,224 |
 | Tomb of the Nine Gods | 0.50% | ~1,020 |
 | Family Entanglements | 0.50% | ~1,020 |
 | The Immortal Warrior | 0.50% | ~1,020 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,905 (Ranked 52)  
+Progressed: 203,936 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
-| 2023-07-02 | 203,905 | 2,025 |
+| 2023-07-02 | 203,936 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,351 (Ranked 37)  

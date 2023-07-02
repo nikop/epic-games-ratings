@@ -20,6 +20,7 @@
 | No, Thanks! | 12.00% | ~88 |
 | Breaking Down Barriers | 12.00% | ~88 |
 | The Prince in Heels | 12.00% | ~88 |
+| Golem Chaser | 12.00% | ~88 |
 | Fast Learner | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
 | Immaculate Aim | 12.00% | ~88 |
@@ -27,7 +28,6 @@
 | The Family Fortune | 12.00% | ~88 |
 | Like Clockwork | 11.00% | ~81 |
 | Honest Mistake | 11.00% | ~81 |
-| Golem Chaser | 11.00% | ~81 |
 | Check Your Pulse | 11.00% | ~81 |
 | Right On Time | 10.00% | ~74 |
 | Street Style | 10.00% | ~74 |

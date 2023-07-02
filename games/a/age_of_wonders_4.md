@@ -32,10 +32,10 @@ Rating: 4.60 (Ranked 388)
 | Valley of Wonders | 0.60% | ~29 |
 | Return of the Wizard King | 0.60% | ~29 |
 | Arch Mage | 0.60% | ~29 |
+| Enchanted Archipelago | 0.60% | ~29 |
 | Eternal Lord | 0.60% | ~29 |
 | The Magic That Empowers Me! | 0.50% | ~24 |
 | The Creator | 0.50% | ~24 |
-| Enchanted Archipelago | 0.50% | ~24 |
 | God Emperor | 0.40% | ~20 |
 | Lord of Chaos | 0.40% | ~20 |
 | The Goddess of Nature | 0.40% | ~20 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 388)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,898 (Ranked 134)  
+Progressed: 4,899 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-29 | 4,876 | 4 |
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
+| 2023-07-02 | 4,899 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

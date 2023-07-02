@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~4,970 |
-| Leader | 60.00% | ~4,200 |
-| Explorer | 53.00% | ~3,710 |
-| Healer | 53.00% | ~3,710 |
-| Aspiring Inventor | 44.00% | ~3,080 |
-| Adventurer | 41.00% | ~2,870 |
-| Famous Healer | 38.00% | ~2,660 |
-| Local Leader | 35.00% | ~2,450 |
-| Famous Explorer | 34.00% | ~2,380 |
-| New Opportunities | 34.00% | ~2,380 |
-| Energized | 33.00% | ~2,310 |
-| The Long Haul | 33.00% | ~2,310 |
-| Survivor | 32.00% | ~2,240 |
-| The Great Healer | 31.00% | ~2,170 |
-| Cleaner | 28.00% | ~1,960 |
-| Catastrofan | 28.00% | ~1,960 |
-| Legendary Explorer | 27.00% | ~1,890 |
-| Finders, Keepers | 26.00% | ~1,820 |
+| First Step | 71.00% | ~4,971 |
+| Leader | 60.00% | ~4,201 |
+| Explorer | 53.00% | ~3,711 |
+| Healer | 52.00% | ~3,641 |
+| Aspiring Inventor | 44.00% | ~3,081 |
+| Adventurer | 41.00% | ~2,871 |
+| Famous Healer | 38.00% | ~2,661 |
+| Local Leader | 35.00% | ~2,451 |
+| Famous Explorer | 34.00% | ~2,381 |
+| New Opportunities | 34.00% | ~2,381 |
+| Energized | 33.00% | ~2,311 |
+| The Long Haul | 33.00% | ~2,311 |
+| The Great Healer | 31.00% | ~2,171 |
+| Survivor | 31.00% | ~2,171 |
+| Cleaner | 28.00% | ~1,961 |
+| Catastrofan | 28.00% | ~1,961 |
+| Legendary Explorer | 27.00% | ~1,891 |
+| Finders, Keepers | 26.00% | ~1,821 |
 | Top Notch | 25.00% | ~1,750 |
 | Ice Lakes | 23.00% | ~1,610 |
 | Mentor | 23.00% | ~1,610 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,000 (Ranked 123)  
+Progressed: 7,002 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 6,924 | 0 |
 | 2023-06-30 | 6,946 | 0 |
 | 2023-07-01 | 6,990 | 0 |
-| 2023-07-02 | 7,000 | 0 |
+| 2023-07-02 | 7,002 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 272)  
