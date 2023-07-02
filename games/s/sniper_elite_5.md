@@ -8,12 +8,12 @@ Rating: 4.45 (Ranked 617)
 | Taking it back | 0.80% | ~26 |
 | Target America | 0.80% | ~26 |
 | Climbing the Ladder | 0.70% | ~22 |
+| Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | It's Starting to Crack | 0.70% | ~22 |
 | The Kraken Sleeps | 0.70% | ~22 |
-| Liberté | 0.60% | ~19 |
 | No Stone Unturned | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
@@ -25,11 +25,11 @@ Rating: 4.45 (Ranked 617)
 | As Quiet as a Mouse | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Skirmisher | 0.40% | ~13 |
+| Set Europe Ablaze | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | Brains of the Operation | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
-| Set Europe Ablaze | 0.30% | ~10 |
 | Precision Is Key | 0.30% | ~10 |
 | My Little Friend | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
@@ -38,6 +38,8 @@ Rating: 4.45 (Ranked 617)
 | Snake in the Grass | 0.30% | ~10 |
 | Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
+| Herr Today, Gone Tomorrow | 0.20% | ~6 |
+| Last Resort | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
 | Strategist | 0.10% | ~3 |
@@ -55,9 +57,7 @@ Rating: 4.45 (Ranked 617)
 | Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
-| Herr Today, Gone Tomorrow | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
-| Last Resort | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | If You Go Down To The Woods Today | 0.10% | ~3 |
 | Fight Another Day | 0.10% | ~3 |

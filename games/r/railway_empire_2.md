@@ -6,35 +6,35 @@ Rating: 4.39 (Ranked 701)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 74.00% | ~1,074 |
+| A new Journey | 73.00% | ~1,060 |
 | Departure | 72.00% | ~1,045 |
-| A new Journey | 72.00% | ~1,045 |
-| From X to Y | 71.00% | ~1,030 |
-| Way of Iron | 69.00% | ~1,001 |
-| Mystery Tour | 67.00% | ~972 |
+| From X to Y | 71.00% | ~1,031 |
+| Way of Iron | 69.00% | ~1,002 |
+| Mystery Tour | 67.00% | ~973 |
 | We brake for nobody | 66.00% | ~958 |
-| Brainstorm | 65.00% | ~943 |
+| Brainstorm | 65.00% | ~944 |
 | Travel Company | 64.00% | ~929 |
-| Mind the Gap | 63.00% | ~914 |
-| All around the World | 61.00% | ~885 |
+| Mind the Gap | 63.00% | ~915 |
+| All around the World | 61.00% | ~886 |
 | Right through the middle | 56.00% | ~813 |
 | Facility Manager | 54.00% | ~784 |
 | Poor Devil | 54.00% | ~784 |
 | Producer | 50.00% | ~726 |
-| Apprentice | 42.00% | ~609 |
+| Apprentice | 42.00% | ~610 |
 | Bridge Builder | 41.00% | ~595 |
 | Access granted | 35.00% | ~508 |
 | Going once, going twice, sold | 35.00% | ~508 |
 | Stoker | 33.00% | ~479 |
-| Bull and bear | 32.00% | ~464 |
+| Bull and bear | 33.00% | ~479 |
 | Full Steam ahead | 31.00% | ~450 |
-| Financial Shark | 30.00% | ~435 |
+| Financial Shark | 30.00% | ~436 |
 | Mole | 29.00% | ~421 |
-| All mine | 28.00% | ~406 |
+| All mine | 28.00% | ~407 |
 | Socializer | 27.00% | ~392 |
-| Country Life | 26.00% | ~377 |
+| Country Life | 26.00% | ~378 |
 | General Manager | 25.00% | ~363 |
 | Hostile Takeover | 25.00% | ~363 |
-| Seven at one stroke | 23.00% | ~334 |
+| Seven at one stroke | 24.00% | ~348 |
 | Trailblazer | 20.00% | ~290 |
 | Breaking Ground | 20.00% | ~290 |
 | Traffic Junction | 19.00% | ~276 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 701)
 | United States | 0.20% | ~3 |
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,451 (Ranked 170)  
+Progressed: 1,452 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 1,422 | 0 |
 | 2023-06-30 | 1,434 | 0 |
 | 2023-07-01 | 1,445 | 0 |
-| 2023-07-02 | 1,451 | 0 |
+| 2023-07-02 | 1,452 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

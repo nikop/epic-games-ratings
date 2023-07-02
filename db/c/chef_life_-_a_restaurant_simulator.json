@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 91,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-07-02T18:02:13.232074+00:00",
       "NumProgressed": 444,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T21:01:01.5952941+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1921,7 +1926,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Clothes10",
@@ -1975,7 +1980,7 @@
       "ID": "GalvanizedStaff3Days10",
       "SetID": "d1bm05f",
       "Name": "Chef, Yes Chef!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -2039,9 +2044,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 298
     },
     {
       "ID": "Packing20",
@@ -2063,9 +2068,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 129
     },
     {
       "ID": "RecipeDifferent30",
@@ -2089,7 +2094,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ServiceMaxClient",
@@ -2184,7 +2189,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 0
     }
   ],
@@ -2192,8 +2197,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:02:11.3120209+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:01:01.5952934+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:03.7840017+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:58:57.8873312+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:02:11.3120534+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:58:47.9423048+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:01:01.5953353+00:00"
 }

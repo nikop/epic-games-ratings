@@ -2456,7 +2456,7 @@
       "Count": 310
     }
   ],
-  "EOS_Progressed": 15598,
+  "EOS_Progressed": 15599,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
@@ -6396,6 +6396,11 @@
       "Time": "2023-07-02T20:07:21.0995948+00:00",
       "NumProgressed": 15598,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-07-02T21:06:24.3632748+00:00",
+      "NumProgressed": 15599,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 50,
@@ -6589,9 +6594,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 312
     },
     {
       "ID": "WinNearLevitating",
@@ -6806,15 +6811,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15598,
+      "Progressed": 15599,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-07-02T12:01:01.0935836+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:07:21.0995943+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:06:24.3632742+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3660816+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:00:54.5004883+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:07:21.0996468+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:00:08.5748908+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:06:24.3633438+00:00"
 }

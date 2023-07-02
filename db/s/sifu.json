@@ -4864,18 +4864,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10657,
       "NumberOfAwardsMax": 6221
+    },
+    {
+      "Time": "2023-07-02T20:59:19.3329641+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10663,
+      "NumberOfAwardsMax": 6226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10657,
-  "NumberOfAwardsMax": 6221,
+  "NumberOfAwards": 10663,
+  "NumberOfAwardsMax": 6226,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6221
+      "Count": 6226
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4917,7 +4923,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 525
+      "Count": 526
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4944,7 +4950,7 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710410,
+  "EOS_Progressed": 710412,
   "EOS_Completed": 12803,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 13,
@@ -11919,6 +11925,11 @@
       "Time": "2023-07-02T19:07:25.5751494+00:00",
       "NumProgressed": 710410,
       "NumCompleted": 12803
+    },
+    {
+      "Time": "2023-07-02T21:06:23.8298724+00:00",
+      "NumProgressed": 710412,
+      "NumCompleted": 12803
     }
   ],
   "TotalAchievements": 50,
@@ -12266,7 +12277,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -12329,21 +12340,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19711,
+      "Progressed": 19713,
       "Completed": 10349
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710410,
+      "Progressed": 710412,
       "Completed": 12803
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-02T17:59:53.5588216+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:07:20.4467559+00:00",
+  "LastChanged": "2023-07-02T20:59:19.332964+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:06:23.8298719+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:59:40.4487654+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:07:20.4468236+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:59:19.3329647+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:06:23.8299555+00:00"
 }

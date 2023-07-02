@@ -6,11 +6,11 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 19.00% | ~1,928 |
+| Devoured by Darkness | 19.00% | ~1,929 |
 | A Spark | 14.00% | ~1,421 |
 | Burning City | 13.00% | ~1,320 |
-| Mythic Choices | 11.00% | ~1,116 |
-| Defender's Heart | 11.00% | ~1,116 |
+| Mythic Choices | 11.00% | ~1,117 |
+| Defender's Heart | 11.00% | ~1,117 |
 | Banner over the Citadel | 10.00% | ~1,015 |
 | Queen's Gratitude | 9.00% | ~914 |
 | Fifth Crusade | 6.00% | ~609 |
@@ -21,14 +21,14 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 4.00% | ~406 |
 | All Paths Open | 4.00% | ~406 |
 | Demonic and Divine | 4.00% | ~406 |
-| Path of the Azata | 3.00% | ~304 |
-| The Legacy | 3.00% | ~304 |
-| Divide and Rule | 3.00% | ~304 |
-| Mythic Reinforcements | 3.00% | ~304 |
-| A Flame | 3.00% | ~304 |
-| Hey, I Know You! | 3.00% | ~304 |
-| Next-Door Play | 3.00% | ~304 |
-| Get the Toad | 3.00% | ~304 |
+| Path of the Azata | 3.00% | ~305 |
+| The Legacy | 3.00% | ~305 |
+| Divide and Rule | 3.00% | ~305 |
+| Mythic Reinforcements | 3.00% | ~305 |
+| A Flame | 3.00% | ~305 |
+| Hey, I Know You! | 3.00% | ~305 |
+| Next-Door Play | 3.00% | ~305 |
+| Get the Toad | 3.00% | ~305 |
 | Beware Still Water | 3.00% | ~268 |
 | Heart of the Fallen Land | 2.00% | ~203 |
 | Path of the Trickster | 2.00% | ~203 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,150 (Ranked 116)  
+Progressed: 10,151 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 10,102 | 0 |
 | 2023-06-30 | 10,111 | 0 |
 | 2023-07-01 | 10,126 | 0 |
-| 2023-07-02 | 10,150 | 0 |
+| 2023-07-02 | 10,151 | 0 |
 ## Awards
 Max (Character Customization): 1,670  (Ranked 114)  
 Sum: 6,788 (Ranked 111)  

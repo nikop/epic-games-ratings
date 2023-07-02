@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 568,
   "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 331,
@@ -2730,10 +2730,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2808,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2023-07-02T20:58:45.3006092+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2809,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2808,
+  "NumberOfAwards": 2809,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2777,7 +2783,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game is Relaxing",
@@ -2809,8 +2815,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-07-02T02:29:06.50268+00:00",
+  "LastChanged": "2023-07-02T20:58:45.300609+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.8672468+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:58:54.9183369+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:01:54.4812419+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:58:45.3006097+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:00:56.8338699+00:00"
 }

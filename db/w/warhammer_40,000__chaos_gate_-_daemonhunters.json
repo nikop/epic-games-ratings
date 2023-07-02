@@ -2390,9 +2390,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 470
+      "UsersEstimate": 499
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -2540,8 +2540,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-06-24T17:58:42.1995458+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:07:24.364463+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:06:26.926773+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:59:15.3748638+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:07:24.3645133+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:59:00.6146355+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:06:26.9268349+00:00"
 }

@@ -14,8 +14,8 @@
 | Highly Qualified | 10.00% | ~9 |
 | No Room for Improvement | 9.00% | ~8 |
 | Lone Wolf | 9.00% | ~8 |
+| Nerd | 8.00% | ~7 |
 | Upgradeaholic | 8.00% | ~7 |
-| Nerd | 7.00% | ~6 |
 | Tailor-Made | 7.00% | ~6 |
 | Playing God | 7.00% | ~6 |
 | POI Hunter | 4.00% | ~4 |

@@ -5149,9 +5149,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "DISARM_ENEMY",
@@ -5229,9 +5229,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 312
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5253,9 +5253,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "KILL_ROBOT",
@@ -5453,9 +5453,9 @@
       "ID": "FIND_ALL_DATA_DRIVES",
       "SetID": "6j5ggkc",
       "Name": "Information Overload",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -5516,8 +5516,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-02T18:58:23.2819183+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:05:43.0470034+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:05:07.3904431+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:58:16.489285+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:05:43.0470578+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:58:17.3637701+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:05:07.3905082+00:00"
 }

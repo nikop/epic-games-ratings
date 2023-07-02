@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10165,
+  "EOS_Progressed": 10166,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-07-02T20:07:06.412858+00:00",
       "NumProgressed": 10165,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-02T21:06:11.8839429+00:00",
+      "NumProgressed": 10166,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1193,7 +1198,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1225,7 +1230,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1241,7 +1246,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1281,7 +1286,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1297,7 +1302,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7827
+      "UsersEstimate": 7828
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1345,7 +1350,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1361,7 +1366,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9758
+      "UsersEstimate": 9759
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1375,9 +1380,9 @@
       "ID": "ACH_MAX_SPEED_MEDIUM",
       "SetID": "9002fpg",
       "Name": "medium attack",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 5997
+      "UsersEstimate": 6100
     },
     {
       "ID": "ACH_NIGHT",
@@ -1385,7 +1390,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1393,7 +1398,7 @@
       "Name": "the artist",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH_RAIN",
@@ -1401,7 +1406,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACH_ROLL",
@@ -1449,7 +1454,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1473,22 +1478,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7319
+      "UsersEstimate": 7320
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10165,
+      "Progressed": 10166,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:07:06.4128573+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:06:11.8839424+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:25.5141067+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:57:40.2686744+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:07:06.4129099+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:57:50.9766298+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:06:11.8839815+00:00"
 }

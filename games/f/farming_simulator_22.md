@@ -6,14 +6,14 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,124 |
-| I read Shakespeare and stuff | 64.00% | ~28,736 |
-| Just a sprinkle | 63.00% | ~28,287 |
-| I'm stumped | 61.00% | ~27,389 |
-| Plant get enough | 61.00% | ~27,389 |
-| This is just my weekend vehicle | 58.00% | ~26,042 |
-| It's just the beginning | 58.00% | ~26,042 |
-| Hard work pays off | 53.00% | ~23,797 |
+| Own use | 76.00% | ~34,125 |
+| I read Shakespeare and stuff | 64.00% | ~28,737 |
+| Just a sprinkle | 63.00% | ~28,288 |
+| I'm stumped | 61.00% | ~27,390 |
+| Plant get enough | 61.00% | ~27,390 |
+| This is just my weekend vehicle | 58.00% | ~26,043 |
+| It's just the beginning | 58.00% | ~26,043 |
+| Hard work pays off | 53.00% | ~23,798 |
 | It's never too late to farm | 48.00% | ~21,552 |
 | All out of Land | 44.00% | ~19,756 |
 | Field Trip | 43.00% | ~19,307 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~180 |
 | Raisin the stakes | 0.30% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,900 (Ranked 86)  
+Progressed: 44,901 (Ranked 86)  
 Completed: 5 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,10 +123,10 @@ Completed: 5 (0.01%) (Ranked 220)
 | 2023-06-29 | 44,764 | 5 |
 | 2023-06-30 | 44,803 | 5 |
 | 2023-07-01 | 44,853 | 5 |
-| 2023-07-02 | 44,900 | 5 |
+| 2023-07-02 | 44,901 | 5 |
 ## Awards
 Max (Great for Beginners): 4,474  (Ranked 70)  
-Sum: 37,806 (Ranked 31)  
+Sum: 37,809 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -134,7 +134,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 4,001 |
 | This game is Educational | 3,960 |
 | This game has Quickly Understood Controls | 3,926 |
-| This game is Highly Recommended | 3,788 |
+| This game is Highly Recommended | 3,791 |
 | This game is Extremely Fun | 3,785 |
 | This game has Diverse Characters | 3,780 |
 | This game has Amazing Storytelling | 3,684 |
@@ -311,4 +311,4 @@ Diff (max vs sum): 39
 | 2023-06-29 | 4.70 | - | 4,461 | 37,722 |
 | 2023-06-30 | 4.70 | - | 4,465 | 37,742 |
 | 2023-07-01 | 4.70 | - | 4,474 | 37,781 |
-| 2023-07-02 | 4.70 | - | 4,474 | 37,806 |
+| 2023-07-02 | 4.70 | - | 4,474 | 37,809 |

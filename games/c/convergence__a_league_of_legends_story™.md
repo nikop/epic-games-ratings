@@ -7,11 +7,11 @@
 | Time Heals All Wounds | 17.00% | ~126 |
 | The Mysterious Stranger | 14.00% | ~103 |
 | Rail Rat | 14.00% | ~103 |
+| Cartographer | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~96 |
 | Treasure Trove | 13.00% | ~96 |
 | The Man Who Shattered Time | 13.00% | ~96 |
 | Make Up For Lost Time | 13.00% | ~96 |
-| Cartographer | 13.00% | ~96 |
 | Time Flies | 13.00% | ~96 |
 | Breaking Down Barriers | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |

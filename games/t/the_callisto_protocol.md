@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 1.00% | ~156 |
+| Get a Grip | 2.00% | ~312 |
 | Paper Jams | 1.00% | ~156 |
 | Keep Fighting | 1.00% | ~35 |
+| You Need a Gun | 0.90% | ~141 |
 | Two Heads Are Better Than One | 0.90% | ~141 |
-| You Need a Gun | 0.80% | ~125 |
+| Chew 'Em Up | 0.90% | ~141 |
 | Flesh Wound | 0.80% | ~125 |
 | I Do Belong Here | 0.80% | ~125 |
-| Chew 'Em Up | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
 | Float Like A Butterfly | 0.80% | ~125 |
 | Reforged | 0.80% | ~125 |
@@ -34,6 +34,7 @@ Rating: 4.19 (Ranked 843)
 | This Isn't About Escape | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
+| Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
@@ -47,7 +48,6 @@ Rating: 4.19 (Ranked 843)
 | Subject Alpha | 0.10% | ~4 |
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
-| Information Overload | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |

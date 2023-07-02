@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-07-02T20:05:04.6313614+00:00",
       "NumProgressed": 328,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-02T21:04:38.9188805+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -946,7 +951,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "findalltapes",
@@ -1049,7 +1054,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 2
     }
   ],
@@ -1057,8 +1062,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-07-02T20:05:04.6313607+00:00",
+  "LastChanged_Achievements": "2023-07-02T21:04:38.9188795+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.0323513+00:00",
-  "LastUpdate_Ratings": "2023-07-02T19:59:24.230314+00:00",
-  "LastUpdate_Achievements": "2023-07-02T20:05:04.6313747+00:00"
+  "LastUpdate_Ratings": "2023-07-02T20:59:06.5547737+00:00",
+  "LastUpdate_Achievements": "2023-07-02T21:04:38.9188982+00:00"
 }
