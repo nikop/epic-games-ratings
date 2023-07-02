@@ -1,11 +1,11 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.76% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.29% |
 | 2 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.54% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.22% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 20.00% |
@@ -23,7 +23,7 @@
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
