@@ -18,17 +18,17 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.93% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.82% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
-| 25 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 8.33% |
-| 26 | [Smelter](games/s/smelter.md) | 8.11% |
+| 25 | [Smelter](games/s/smelter.md) | 8.11% |
+| 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.30% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.02% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.01% |
 | 30 | [Scorn](games/s/scorn.md) | 6.90% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -42,8 +42,8 @@
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.40% |
-| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.96% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.78% |
+| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
@@ -70,9 +70,9 @@
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.32% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
-| 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.20% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.18% |
-| 73 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
+| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.18% |
+| 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
+| 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
 | 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
@@ -149,10 +149,10 @@
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 148 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 150 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.26% |
-| 151 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 151 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 151 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 150 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 150 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
+| 150 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
+| 150 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.25% |
 | 154 | [Blanc](games/b/blanc.md) | 0.24% |
 | 155 | [Filament](games/f/filament.md) | 0.23% |
 | 156 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
