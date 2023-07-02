@@ -37,7 +37,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 333 |
 | 28 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.86 | 127 | 304 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 40 | 419 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,301 | 124 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,301 | 125 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 478 | 194 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 503 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,666 | 41 |
@@ -214,7 +214,7 @@
 | 196 | [The Machines Arena](games/t/the_machines_arena.md) | 4.70 | 0 | 503 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 503 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 175 | 281 |
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,385 | 71 |
+| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,390 | 71 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,660 | 115 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 503 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 503 |
@@ -357,7 +357,7 @@
 | 345 | [NORCO](games/n/norco.md) | 4.62 | 0 | 503 |
 | 345 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 503 |
 | 345 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
-| 345 | [Prey](games/p/prey.md) | 4.62 | 5,592 | 59 |
+| 345 | [Prey](games/p/prey.md) | 4.62 | 5,593 | 59 |
 | 345 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 503 |
 | 345 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 378 |
 | 345 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 503 |
@@ -529,7 +529,7 @@
 | 518 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
 | 518 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.52 | 0 | 503 |
 | 518 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 121 | 308 |
-| 518 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,300 | 125 |
+| 518 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,302 | 124 |
 | 518 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 503 |
 | 518 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 284 | 235 |
 | 518 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 503 |

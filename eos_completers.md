@@ -6,7 +6,7 @@
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 23.19% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.86% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.57% |
@@ -23,12 +23,12 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Ravenlok](games/r/ravenlok.md) | 7.29% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.00% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 30 | [Scorn](games/s/scorn.md) | 6.90% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -60,7 +60,7 @@
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.75% |
+| 61 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.74% |
 | 62 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.73% |
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.67% |
@@ -379,6 +379,7 @@
 | 232 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.00% |
 | 232 | [Operation New Earth](games/o/operation_new_earth.md) | 0.00% |
 | 232 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
+| 232 | [Outliver - Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 0.00% |
 | 232 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.00% |
 | 232 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
 | 232 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
