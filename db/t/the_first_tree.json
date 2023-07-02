@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32950,
+  "EOS_Progressed": 32952,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6753,6 +6753,11 @@
       "Time": "2023-07-02T18:03:22.7546156+00:00",
       "NumProgressed": 32950,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-07-02T19:03:20.1156872+00:00",
+      "NumProgressed": 32952,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 14,
@@ -6780,7 +6785,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8567
+      "UsersEstimate": 8568
     },
     {
       "ID": "allItems",
@@ -6852,7 +6857,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 25701
+      "UsersEstimate": 25703
     },
     {
       "ID": "roots",
@@ -6875,15 +6880,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 32950,
+      "Progressed": 32952,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-06-14T02:10:18.2883541+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:03:22.7546147+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:03:20.1156867+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.7385643+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:01:25.0778094+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:03:22.7546551+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:01:14.7890688+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:03:20.1157249+00:00"
 }

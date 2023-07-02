@@ -19,9 +19,9 @@ Rating: 4.45 (Ranked 617)
 | Confirming Suspicions | 0.60% | ~19 |
 | Lord of War | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
+| Opposing Force | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
 | Gunslinger | 0.50% | ~16 |
-| Opposing Force | 0.40% | ~13 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | As Quiet as a Mouse | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 617)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,195 (Ranked 145)  
+Progressed: 3,196 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-29 | 3,164 | 6 |
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
-| 2023-07-02 | 3,195 | 6 |
+| 2023-07-02 | 3,196 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

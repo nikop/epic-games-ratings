@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3195,
+  "EOS_Progressed": 3196,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4608,6 +4608,11 @@
       "Time": "2023-07-02T18:07:29.9513439+00:00",
       "NumProgressed": 3195,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-02T19:07:28.1721385+00:00",
+      "NumProgressed": 3196,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4649,9 +4654,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -5186,13 +5191,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3146,
+      "Progressed": 3147,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3195,
+      "Progressed": 3196,
       "Completed": 6
     }
   ],
@@ -5200,8 +5205,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:07:29.9513435+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:07:28.172138+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:01:44.2662634+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:07:29.9514194+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:01:34.7875768+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:07:28.1722135+00:00"
 }

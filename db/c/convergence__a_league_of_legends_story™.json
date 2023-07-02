@@ -4,8 +4,8 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-07-02T17:06:41.1523562+00:00",
       "NumProgressed": 738,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T19:07:10.2033118+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1655,9 +1660,9 @@
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 44
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -1823,17 +1828,17 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "RewindParry",
@@ -1927,9 +1932,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "WatcherFought",
@@ -1968,14 +1973,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:07:11.7856084+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:07:10.2033112+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:00:23.8311391+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:07:11.7856544+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:00:13.1692456+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:07:10.2033559+00:00"
 }

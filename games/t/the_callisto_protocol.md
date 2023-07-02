@@ -8,20 +8,20 @@ Rating: 4.19 (Ranked 843)
 | Get a Grip | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
 | Keep Fighting | 1.00% | ~35 |
+| Two Heads Are Better Than One | 0.90% | ~141 |
 | You Need a Gun | 0.80% | ~125 |
 | Flesh Wound | 0.80% | ~125 |
-| Two Heads Are Better Than One | 0.80% | ~125 |
+| I Do Belong Here | 0.80% | ~125 |
 | Chew 'Em Up | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
+| Float Like A Butterfly | 0.80% | ~125 |
 | Reforged | 0.80% | ~125 |
+| Without A Paddle | 0.80% | ~125 |
 | In the Pipe, Five by Five | 0.80% | ~125 |
 | Crash Site | 0.80% | ~125 |
 | It's Time | 0.80% | ~28 |
 | Giving Back | 0.70% | ~109 |
-| I Do Belong Here | 0.70% | ~109 |
-| Float Like A Butterfly | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
-| Without A Paddle | 0.70% | ~109 |
 | Full Circle | 0.70% | ~109 |
 | Power Up | 0.70% | ~109 |
 | Terminated | 0.60% | ~94 |
@@ -128,7 +128,7 @@ Completed: 62 (0.40%) (Ranked 134)
 | 2023-07-02 | 15,612 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
-Sum: 355 (Ranked 321)  
+Sum: 356 (Ranked 321)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -137,7 +137,7 @@ Diff (max vs sum): 59
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 50 |
-| This game has Challenging Combat | 42 |
+| This game has Challenging Combat | 43 |
 | This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -223,4 +223,4 @@ Diff (max vs sum): 59
 | 2023-06-29 | 4.19 | 61 | 347 |
 | 2023-06-30 | 4.20 | 61 | 349 |
 | 2023-07-01 | 4.20 | 63 | 354 |
-| 2023-07-02 | 4.19 | 63 | 355 |
+| 2023-07-02 | 4.19 | 63 | 356 |

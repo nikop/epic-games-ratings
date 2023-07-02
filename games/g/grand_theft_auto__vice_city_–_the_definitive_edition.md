@@ -13,13 +13,13 @@ Rating: 4.55 (Ranked 477)
 | Chauffeur | 14.00% | ~1,239 |
 | Tommy Two-Wheels | 14.00% | ~1,239 |
 | Salutations My Little Friend | 10.00% | ~885 |
-| Iron-y | 9.00% | ~796 |
+| Iron-y | 9.00% | ~797 |
 | Gun for Hire | 8.00% | ~708 |
 | Mischief Managed | 8.00% | ~708 |
 | Vice City Mogul | 6.00% | ~531 |
 | Catch Me if You Can | 6.00% | ~531 |
 | Bloodstained Hands | 6.00% | ~531 |
-| Grand Theft Auto | 5.00% | ~442 |
+| Grand Theft Auto | 5.00% | ~443 |
 | Not my First Time | 4.00% | ~354 |
 | Pie Guy | 4.00% | ~354 |
 | Point A to Point B | 3.00% | ~266 |
@@ -32,15 +32,15 @@ Rating: 4.55 (Ranked 477)
 | Just Like the Real Thing | 2.00% | ~177 |
 | Take the Cannoli | 2.00% | ~177 |
 | City Sleuth | 2.00% | ~177 |
-| Daredevil | 1.00% | ~88 |
-| Chopper’d Up | 1.00% | ~88 |
+| Daredevil | 1.00% | ~89 |
+| Chopper’d Up | 1.00% | ~89 |
 | Born in the 80’s | 0.90% | ~80 |
 | Keepie-Uppy Okie Dokie | 0.90% | ~80 |
 | I'm Famous! | 0.90% | ~80 |
 | Done it All | 0.80% | ~71 |
 | Kingpin | 0.50% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,850 (Ranked 118)  
+Progressed: 8,851 (Ranked 118)  
 Completed: 41 (0.46%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 41 (0.46%) (Ranked 129)
 | 2023-06-29 | 8,818 | 40 |
 | 2023-06-30 | 8,828 | 40 |
 | 2023-07-01 | 8,838 | 41 |
-| 2023-07-02 | 8,850 | 41 |
+| 2023-07-02 | 8,851 | 41 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 386)  
 Sum: 59 (Ranked 439)  

@@ -8,15 +8,15 @@
 | Lochos | 5.00% | ~156 |
 | Strength of Herakles | 5.00% | ~156 |
 | Initiate's Resolve | 5.00% | ~156 |
-| Go For the Head | 4.00% | ~124 |
-| Spartan Sandal | 4.00% | ~124 |
-| Missilis | 4.00% | ~124 |
-| Modest Earnings | 4.00% | ~124 |
-| Armaments of the Pantheon | 4.00% | ~124 |
-| Persephone's Guidance | 4.00% | ~124 |
-| The Sons of Minos | 4.00% | ~124 |
-| Eidola | 4.00% | ~124 |
-| Reign in Blood | 4.00% | ~124 |
+| Go For the Head | 4.00% | ~125 |
+| Spartan Sandal | 4.00% | ~125 |
+| Missilis | 4.00% | ~125 |
+| Modest Earnings | 4.00% | ~125 |
+| Armaments of the Pantheon | 4.00% | ~125 |
+| Persephone's Guidance | 4.00% | ~125 |
+| The Sons of Minos | 4.00% | ~125 |
+| Eidola | 4.00% | ~125 |
+| Reign in Blood | 4.00% | ~125 |
 | Pillars of Eternity | 3.00% | ~93 |
 | Immolator | 3.00% | ~93 |
 | War Chest | 3.00% | ~93 |
@@ -55,8 +55,8 @@
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
-| Hipparchia's Labour | 0.50% | ~16 |
 | Olympian | 0.50% | ~16 |
+| Hipparchia's Labour | 0.40% | ~12 |
 | Debauchery | 0.40% | ~12 |
 | Blessing of Spring | 0.40% | ~12 |
 | Interrupt the Interloper | 0.40% | ~12 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,110 (Ranked 146)  
+Progressed: 3,113 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 3,061 | 0 |
 | 2023-06-30 | 3,074 | 0 |
 | 2023-07-01 | 3,093 | 0 |
-| 2023-07-02 | 3,110 | 0 |
+| 2023-07-02 | 3,113 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

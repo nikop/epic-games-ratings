@@ -5,9 +5,9 @@
   "Ranking_Rating": 439,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 398,
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -265,7 +265,7 @@
   ],
   "EOS_Progressed": 224,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 12.05,
   "EosHistory": [
@@ -968,9 +968,9 @@
       "ID": "ID_18_KNUCKLES_GLIDING",
       "SetID": "7o8nc5m",
       "Name": "Knuckles the Echidna",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "ID_19_TAILS_FLYING",
@@ -1120,8 +1120,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:07:07.1917602+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:07:05.5540402+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:58:24.3912323+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:07:07.1917892+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:58:17.2664762+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:07:05.5540642+00:00"
 }

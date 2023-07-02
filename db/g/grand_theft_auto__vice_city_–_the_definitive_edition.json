@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -508,9 +508,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8850,
+  "EOS_Progressed": 8851,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5793,6 +5793,11 @@
       "Time": "2023-07-02T17:01:38.1381249+00:00",
       "NumProgressed": 8850,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-07-02T19:01:53.8825662+00:00",
+      "NumProgressed": 8851,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 34,
@@ -5820,7 +5825,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH04",
@@ -5956,7 +5961,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH21",
@@ -6012,7 +6017,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH28",
@@ -6044,7 +6049,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH32",
@@ -6075,7 +6080,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8850,
+      "Progressed": 8851,
       "Completed": 41
     }
   ],
@@ -6083,8 +6088,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:02:04.8521372+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:01:53.8825657+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:58:56.35467+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:02:04.8522016+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:58:50.0333617+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:01:53.8826104+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1386,9 +1386,9 @@
       "ID": "ForceCube",
       "SetID": "5lok9mm",
       "Name": "Force Cube",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1756
     },
     {
       "ID": "FullyEngaged",
@@ -1674,8 +1674,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:01:57.3944999+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:01:45.939623+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.096986+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:01:08.3361147+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:01:57.3945451+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:00:59.7002618+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:01:45.9396664+00:00"
 }

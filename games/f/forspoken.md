@@ -5,16 +5,16 @@ Rating: 4.14 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 9.00% | ~3,496 |
-| Unlocked Potential | 9.00% | ~3,496 |
+| Attachments | 9.00% | ~3,497 |
+| Unlocked Potential | 9.00% | ~3,497 |
 | Tinkerer | 7.00% | ~2,720 |
 | Leapfrogger | 6.00% | ~2,331 |
 | Knock 'Em Dead | 6.00% | ~2,331 |
 | Pilgrimage: Initiate | 6.00% | ~2,331 |
 | Hell of a Run | 6.00% | ~2,331 |
 | Call of the Fount: Baptized | 6.00% | ~2,331 |
-| No Mercy | 5.00% | ~1,942 |
-| Explorer: Seeker | 5.00% | ~1,942 |
+| No Mercy | 5.00% | ~1,943 |
+| Explorer: Seeker | 5.00% | ~1,943 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,554 |
 | Stuck | 4.00% | ~1,554 |
 | Help Me Out Here | 4.00% | ~1,554 |
@@ -27,12 +27,12 @@ Rating: 4.14 (Ranked 873)
 | Damned If You Do... | 2.00% | ~777 |
 | Explorer: Pathfinder | 2.00% | ~777 |
 | From Every Angle | 2.00% | ~777 |
-| The Hue of Blue | 1.00% | ~388 |
-| The Truth Will Out | 1.00% | ~388 |
-| Breaking Point | 1.00% | ~388 |
-| None the Wiser | 1.00% | ~388 |
-| Shocker | 1.00% | ~388 |
-| Pilgrimage: Novice | 1.00% | ~388 |
+| The Hue of Blue | 1.00% | ~389 |
+| The Truth Will Out | 1.00% | ~389 |
+| Breaking Point | 1.00% | ~389 |
+| None the Wiser | 1.00% | ~389 |
+| Shocker | 1.00% | ~389 |
+| Pilgrimage: Novice | 1.00% | ~389 |
 | Forspoken | 0.90% | ~350 |
 | Wildfire | 0.70% | ~272 |
 | Awakening | 0.60% | ~233 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 873)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,850 (Ranked 88)  
+Progressed: 38,851 (Ranked 88)  
 Completed: 3 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.01%) (Ranked 220)
 | 2023-06-29 | 38,807 | 3 |
 | 2023-06-30 | 38,823 | 3 |
 | 2023-07-01 | 38,838 | 3 |
-| 2023-07-02 | 38,850 | 3 |
+| 2023-07-02 | 38,851 | 3 |
 ## Awards
 Max (Character Customization): 20  (Ranked 500)  
 Sum: 20 (Ranked 500)  

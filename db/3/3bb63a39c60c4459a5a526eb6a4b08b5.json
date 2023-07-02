@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 224,
+  "EOS_Progressed": 225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2023-07-02T15:03:24.2578696+00:00",
       "NumProgressed": 224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T19:03:39.9251275+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -628,7 +633,7 @@
       "Name": "Basic Controls",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "BigPlane",
@@ -658,9 +663,9 @@
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "Creator",
@@ -674,9 +679,9 @@
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -922,9 +927,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "TimeForManagement",
@@ -932,7 +937,7 @@
       "Name": "Time for Management",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TransportHub",
@@ -947,14 +952,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 224,
+      "Progressed": 225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:03:42.1984061+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:03:39.9251271+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-07-02T17:57:17.9649966+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:03:42.1984336+00:00"
+  "LastUpdate_Ratings": "2023-07-02T18:57:08.911367+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:03:39.9251549+00:00"
 }

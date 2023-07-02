@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 16.00% | ~118 |
+| Time Heals All Wounds | 17.00% | ~126 |
 | The Mysterious Stranger | 14.00% | ~103 |
 | Rail Rat | 14.00% | ~103 |
 | The Steel Shadow | 13.00% | ~96 |
@@ -15,16 +15,16 @@
 | Time Flies | 13.00% | ~96 |
 | Breaking Down Barriers | 13.00% | ~96 |
 | The Wicked Twins | 13.00% | ~96 |
+| The Prince in Heels | 13.00% | ~96 |
+| Immaculate Aim | 13.00% | ~96 |
 | The Family Fortune | 13.00% | ~96 |
 | The Betrayer | 12.00% | ~89 |
 | The Loose Cannon | 12.00% | ~89 |
 | The Harder They Fall | 12.00% | ~89 |
 | No, Thanks! | 12.00% | ~89 |
-| The Prince in Heels | 12.00% | ~89 |
 | Honest Mistake | 12.00% | ~89 |
 | Golem Chaser | 12.00% | ~89 |
 | Fast Learner | 12.00% | ~89 |
-| Immaculate Aim | 12.00% | ~89 |
 | Immaculate Aim | 12.00% | ~89 |
 | The Brass Boss | 12.00% | ~89 |
 | Like Clockwork | 11.00% | ~81 |
@@ -35,7 +35,6 @@
 | Chaincrawler Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
 | Family Memories | 7.00% | ~52 |
-| Fairgrounds Explorer | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |
 | Syron for Hope | 7.00% | ~52 |
 | Theater Explorer | 7.00% | ~52 |
@@ -45,6 +44,7 @@
 | Cultivair Explorer | 6.00% | ~44 |
 | Entresol Explorer | 6.00% | ~44 |
 | Factorywood Explorer | 6.00% | ~44 |
+| Fairgrounds Explorer | 6.00% | ~44 |
 | Golem Hunter | 5.00% | ~37 |
 | Clovemary for Remembering | 4.00% | ~30 |
 | Rungs Was Right | 4.00% | ~30 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 196)  
+Progressed: 739 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,4 +102,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-06-29 | 731 | 4 |
 | 2023-06-30 | 733 | 4 |
 | 2023-07-01 | 737 | 4 |
-| 2023-07-02 | 738 | 4 |
+| 2023-07-02 | 739 | 4 |

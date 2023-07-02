@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5215,10 +5215,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13613,
       "NumberOfAwardsMax": 6745
+    },
+    {
+      "Time": "2023-07-02T19:00:36.8284024+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13614,
+      "NumberOfAwardsMax": 6745
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13613,
+  "NumberOfAwards": 13614,
   "NumberOfAwardsMax": 6745,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5256,7 +5262,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 766
+      "Count": 767
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5295,9 +5301,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54811,
+  "EOS_Progressed": 54813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12855,6 +12861,11 @@
       "Time": "2023-07-02T18:07:28.6519152+00:00",
       "NumProgressed": 54811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T19:07:26.8241616+00:00",
+      "NumProgressed": 54813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -12882,7 +12893,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11510
+      "UsersEstimate": 11511
     },
     {
       "ID": "Best served cold",
@@ -12922,7 +12933,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "Crackshot",
@@ -12930,7 +12941,7 @@
       "Name": "Crackshot",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Crush your enemies",
@@ -12938,7 +12949,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "Duelist",
@@ -12994,7 +13005,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6577
+      "UsersEstimate": 6578
     },
     {
       "ID": "Great Granny",
@@ -13026,7 +13037,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11510
+      "UsersEstimate": 11511
     },
     {
       "ID": "I can do it",
@@ -13090,7 +13101,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16991
+      "UsersEstimate": 16992
     },
     {
       "ID": "Lawbringer",
@@ -13098,7 +13109,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19732
+      "UsersEstimate": 19733
     },
     {
       "ID": "Lawmaker",
@@ -13106,7 +13117,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12058
+      "UsersEstimate": 12059
     },
     {
       "ID": "Long live the Empire",
@@ -13146,7 +13157,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "Real Estate",
@@ -13242,7 +13253,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11510
+      "UsersEstimate": 11511
     },
     {
       "ID": "Undercover",
@@ -13250,7 +13261,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Veni vidi vici",
@@ -13258,7 +13269,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -13273,15 +13284,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54811,
+      "Progressed": 54813,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-02T17:00:25.3254563+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:07:28.6519147+00:00",
+  "LastChanged": "2023-07-02T19:00:36.8284023+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:07:26.8241611+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:00:47.1622027+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:07:28.6519849+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:00:36.8284029+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:07:26.8242281+00:00"
 }

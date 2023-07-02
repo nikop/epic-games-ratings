@@ -30,6 +30,7 @@
 | The Voice of Hereafter | 2.00% | ~2 |
 | Been There | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
+| Inquisitions of Discord | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
@@ -38,7 +39,6 @@
 | A Terrible Will | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
-| Inquisitions of Discord | 0.90% | ~1 |
 | Unseen Patterns | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 290)  
+Progressed: 113 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

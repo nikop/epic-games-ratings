@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -203,6 +203,11 @@
       "Time": "2023-06-27T18:06:01.4026957+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T19:07:23.3206015+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -214,7 +219,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Cat",
@@ -230,7 +235,7 @@
       "Name": "Glass shards",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DogHair",
@@ -238,7 +243,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Doll",
@@ -246,7 +251,7 @@
       "Name": "Doll",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Ending1",
@@ -286,7 +291,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Friend",
@@ -302,7 +307,7 @@
       "Name": "Complicated padlock",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Furball",
@@ -334,7 +339,7 @@
       "Name": "Egghead Lucy",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Offroad",
@@ -350,7 +355,7 @@
       "Name": "Puppy",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "SchoolRuler",
@@ -374,13 +379,13 @@
       "Name": "Spyglass",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
       "UsersEstimate": 136
     },
@@ -390,7 +395,7 @@
       "Name": "Lucky charm",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Trumpet",
@@ -398,7 +403,7 @@
       "Name": "Trumpet",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Well",
@@ -414,14 +419,14 @@
       "Name": "Windmill",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -429,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-07-02T18:07:25.4036102+00:00",
+  "LastChanged_Achievements": "2023-07-02T19:07:23.3206011+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:26.5223863+00:00",
-  "LastUpdate_Ratings": "2023-07-02T18:01:14.3400287+00:00",
-  "LastUpdate_Achievements": "2023-07-02T18:07:25.4036249+00:00"
+  "LastUpdate_Ratings": "2023-07-02T19:01:05.7787305+00:00",
+  "LastUpdate_Achievements": "2023-07-02T19:07:23.3206178+00:00"
 }
