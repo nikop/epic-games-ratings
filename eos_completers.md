@@ -17,8 +17,8 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.00% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.95% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -52,15 +52,15 @@
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 51 | [ZZT!](games/z/zzt!.md) | 3.37% |
 | 52 | [JARS](games/j/jars.md) | 3.33% |
-| 53 | [The Complex](games/t/the_complex.md) | 3.13% |
-| 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
+| 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
+| 53 | [The Complex](games/t/the_complex.md) | 3.12% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 61 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.76% |
+| 60 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.79% |
+| 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
@@ -89,14 +89,14 @@
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.35% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.35% |
+| 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.33% |
 | 91 | [Five Dates](games/f/five_dates.md) | 1.30% |
 | 92 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.27% |
 | 93 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.25% |
 | 94 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.21% |
 | 95 | [Chorus](games/c/chorus.md) | 1.18% |
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
-| 97 | [Trifox](games/t/trifox.md) | 1.12% |
+| 97 | [Trifox](games/t/trifox.md) | 1.11% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
