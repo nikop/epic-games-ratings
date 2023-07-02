@@ -25,9 +25,9 @@
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.69% |
-| 27 | [Ravenlok](games/r/ravenlok.md) | 7.39% |
-| 28 | [Time Loader](games/t/time_loader.md) | 7.34% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
+| 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
+| 28 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 7.14% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.99% |
 | 30 | [Scorn](games/s/scorn.md) | 6.90% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -102,7 +102,7 @@
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 102 | [Sable](games/s/sable.md) | 0.96% |
-| 103 | [Adios](games/a/adios.md) | 0.92% |
+| 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
