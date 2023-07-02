@@ -30,10 +30,10 @@ Rating: 4.20 (Ranked 833)
 | Desperate Times | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
 | In Striking Distance | 0.30% | ~47 |
+| This Isn't About Escape | 0.30% | ~11 |
 | One Last Job | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
-| This Isn't About Escape | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |

@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,905 |
 | Master Huntsman | 1.00% | ~7,905 |
 | Stealth Killer | 1.00% | ~7,905 |
-| Bailiff | 0.90% | ~7,114 |
+| Bailiff | 0.90% | ~7,115 |
 | Tracker | 0.80% | ~6,324 |
-| David Horak | 0.70% | ~5,533 |
-| Mercenary's Honour | 0.70% | ~5,533 |
-| Saviour | 0.70% | ~5,533 |
+| David Horak | 0.70% | ~5,534 |
+| Mercenary's Honour | 0.70% | ~5,534 |
+| Saviour | 0.70% | ~5,534 |
 | Edward Kelly | 0.60% | ~4,743 |
 | Fighter | 0.60% | ~4,743 |
-| I Can Quit Anytime | 0.50% | ~3,952 |
+| I Can Quit Anytime | 0.50% | ~3,953 |
 | Perfectionist | 0.40% | ~3,162 |
-| Alcoholic | 0.30% | ~2,371 |
-| Sniper | 0.30% | ~2,371 |
+| Alcoholic | 0.30% | ~2,372 |
+| Sniper | 0.30% | ~2,372 |
 | Angel of Mercy | 0.20% | ~1,581 |
 | Christian Burial | 0.20% | ~1,581 |
 | Friends without benefits | 0.20% | ~1,581 |
 | Game Over | 0.20% | ~1,581 |
 | Not-so-Christian Burial | 0.20% | ~1,581 |
 | True Friend | 0.20% | ~1,581 |
-| Bad Girl | 0.10% | ~790 |
-| Cleric's pet | 0.10% | ~790 |
-| Full House Sinner | 0.10% | ~790 |
-| Lord Capon's Ghost | 0.10% | ~790 |
-| Hardcore Henry | 0.10% | ~790 |
-| Infernal Justice | 0.10% | ~790 |
-| Judas | 0.10% | ~790 |
-| Like a Ghost | 0.10% | ~790 |
-| Lost Trinket | 0.10% | ~790 |
-| Merciful | 0.10% | ~790 |
-| You had one job! | 0.10% | ~790 |
-| Pilgrim | 0.10% | ~790 |
-| Pinky Promis | 0.10% | ~790 |
-| Ledetchko Revenant | 0.10% | ~790 |
-| 'Tis but a scratch | 0.10% | ~790 |
-| Torturer | 0.10% | ~790 |
-| Trial-And-Error | 0.10% | ~790 |
-| Virgin | 0.10% | ~790 |
-| Voyeur | 0.10% | ~790 |
-| Wingman | 0.10% | ~790 |
+| Bad Girl | 0.10% | ~791 |
+| Cleric's pet | 0.10% | ~791 |
+| Full House Sinner | 0.10% | ~791 |
+| Lord Capon's Ghost | 0.10% | ~791 |
+| Hardcore Henry | 0.10% | ~791 |
+| Infernal Justice | 0.10% | ~791 |
+| Judas | 0.10% | ~791 |
+| Like a Ghost | 0.10% | ~791 |
+| Lost Trinket | 0.10% | ~791 |
+| Merciful | 0.10% | ~791 |
+| You had one job! | 0.10% | ~791 |
+| Pilgrim | 0.10% | ~791 |
+| Pinky Promis | 0.10% | ~791 |
+| Ledetchko Revenant | 0.10% | ~791 |
+| 'Tis but a scratch | 0.10% | ~791 |
+| Torturer | 0.10% | ~791 |
+| Trial-And-Error | 0.10% | ~791 |
+| Virgin | 0.10% | ~791 |
+| Voyeur | 0.10% | ~791 |
+| Wingman | 0.10% | ~791 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,499 (Ranked 15)  
+Progressed: 790,501 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 43 (0.01%) (Ranked 220)
 | 2023-06-29 | 790,168 | 43 |
 | 2023-06-30 | 790,301 | 43 |
 | 2023-07-01 | 790,480 | 43 |
-| 2023-07-02 | 790,499 | 43 |
+| 2023-07-02 | 790,501 | 43 |
 ## Awards
 Max (Character Customization): 7,287  (Ranked 46)  
 Sum: 27,185 (Ranked 43)  

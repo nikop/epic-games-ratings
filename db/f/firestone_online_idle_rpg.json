@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -3717,6 +3717,11 @@
       "Time": "2023-07-01T22:08:38.8159589+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T05:07:38.7518547+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3840,7 +3845,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "dragonslayer",
@@ -3896,7 +3901,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "exoticmerchant",
@@ -3976,7 +3981,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "howdoyouturnthison",
@@ -4120,7 +4125,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "prestigiousx10",
@@ -4184,7 +4189,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "thealchemist",
@@ -4216,7 +4221,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "thepowerofawakening",
@@ -4288,7 +4293,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "warmachinesarmy",
@@ -4320,14 +4325,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 1
     }
   ],
@@ -4335,8 +4340,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-02T04:07:41.913613+00:00",
+  "LastChanged_Achievements": "2023-07-02T05:07:38.7518545+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:58:33.9409383+00:00",
-  "LastUpdate_Achievements": "2023-07-02T04:07:41.9137233+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:58:46.4408148+00:00",
+  "LastUpdate_Achievements": "2023-07-02T05:07:38.7519275+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 33.00% | ~1,498 |
 | Fish Out of Water | 32.00% | ~1,453 |
 | Things that go Splash in the Night | 27.00% | ~1,226 |
-| Goldfish? | 26.00% | ~1,180 |
+| Goldfish? | 27.00% | ~1,226 |
 | Going for Gold | 24.00% | ~1,090 |
 | I'm Hooked! | 18.00% | ~817 |
 | More than a Tourist | 12.00% | ~545 |

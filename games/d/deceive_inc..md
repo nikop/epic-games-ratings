@@ -16,10 +16,10 @@ Rating: 4.64 (Ranked 310)
 | Fully Decked Out | 35.00% | ~2,477 |
 | You Only Live Twice | 33.00% | ~2,336 |
 | A view to Win | 27.00% | ~1,911 |
+| Private Collection | 25.00% | ~1,770 |
 | Smells Like Trouble | 25.00% | ~1,770 |
 | Assistant Accountant | 24.00% | ~1,699 |
 | The Living Portrait | 24.00% | ~1,699 |
-| Private Collection | 24.00% | ~1,699 |
 | Killer Looks | 24.00% | ~1,699 |
 | Hostile Takeover | 24.00% | ~1,699 |
 | Keycards Royale | 23.00% | ~1,628 |

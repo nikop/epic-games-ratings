@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56647,
+  "EOS_Progressed": 56649,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6677,6 +6677,11 @@
       "Time": "2023-07-02T04:02:16.0672224+00:00",
       "NumProgressed": 56647,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-02T05:02:24.9577928+00:00",
+      "NumProgressed": 56649,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6696,7 +6701,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11329
+      "UsersEstimate": 11330
     },
     {
       "ID": "03",
@@ -6704,7 +6709,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11329
+      "UsersEstimate": 11330
     },
     {
       "ID": "04",
@@ -6720,7 +6725,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10196
+      "UsersEstimate": 10197
     },
     {
       "ID": "06",
@@ -6936,7 +6941,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14728
+      "UsersEstimate": 14729
     },
     {
       "ID": "33",
@@ -7160,7 +7165,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "61",
@@ -7216,28 +7221,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56647,
+      "Progressed": 56649,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20115,
+      "Progressed": 20117,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-02T04:02:16.0672217+00:00",
+  "LastChanged_Achievements": "2023-07-02T05:02:24.9577925+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:58:10.0830399+00:00",
-  "LastUpdate_Achievements": "2023-07-02T04:02:16.0673478+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:58:21.804331+00:00",
+  "LastUpdate_Achievements": "2023-07-02T05:02:24.9578704+00:00"
 }

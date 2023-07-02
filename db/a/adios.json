@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64267,
+  "EOS_Progressed": 64269,
   "EOS_Completed": 594,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -7852,6 +7852,11 @@
       "Time": "2023-07-02T04:07:28.0531052+00:00",
       "NumProgressed": 64267,
       "NumCompleted": 594
+    },
+    {
+      "Time": "2023-07-02T05:07:25.5949333+00:00",
+      "NumProgressed": 64269,
+      "NumCompleted": 594
     }
   ],
   "TotalAchievements": 25,
@@ -7903,7 +7908,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10925
+      "UsersEstimate": 10926
     },
     {
       "ID": "Butcher",
@@ -7935,7 +7940,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12853
+      "UsersEstimate": 12854
     },
     {
       "ID": "Hearty",
@@ -7967,7 +7972,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12853
+      "UsersEstimate": 12854
     },
     {
       "ID": "Meaty",
@@ -8062,7 +8067,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64267,
+      "Progressed": 64269,
       "Completed": 594
     }
   ],
@@ -8070,8 +8075,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-02T04:07:28.0531046+00:00",
+  "LastChanged_Achievements": "2023-07-02T05:07:25.5949326+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:01:43.5512506+00:00",
-  "LastUpdate_Achievements": "2023-07-02T04:07:28.0531708+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:01:53.3415983+00:00",
+  "LastUpdate_Achievements": "2023-07-02T05:07:25.5949807+00:00"
 }

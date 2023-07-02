@@ -8,10 +8,10 @@ Number of Ratings: 524  (23.09.2022)
 | ---- | ---------- | ----- |
 | Follow the Light | 33.00% | ~18,694 |
 | Let There Be Light | 27.00% | ~15,295 |
-| Float Like a Butterfly | 26.00% | ~14,728 |
-| Nordic Walking | 20.00% | ~11,329 |
-| Bright Falls' Finest | 20.00% | ~11,329 |
-| Under a Thin Layer of Skin | 18.00% | ~10,196 |
+| Float Like a Butterfly | 26.00% | ~14,729 |
+| Nordic Walking | 20.00% | ~11,330 |
+| Bright Falls' Finest | 20.00% | ~11,330 |
+| Under a Thin Layer of Skin | 18.00% | ~10,197 |
 | Park Ranger | 14.00% | ~7,931 |
 | Back! Back, I Say! | 14.00% | ~7,931 |
 | Finders Keepers | 14.00% | ~7,931 |
@@ -46,8 +46,8 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 4.00% | ~2,266 |
 | KBF-FM | 4.00% | ~2,266 |
 | Boob Tube | 3.00% | ~1,699 |
-| Kill Your Darlings | 3.00% | ~603 |
-| Heartbreaker | 3.00% | ~603 |
+| Kill Your Darlings | 3.00% | ~604 |
+| Heartbreaker | 3.00% | ~604 |
 | Medical Opinions | 2.00% | ~1,133 |
 | Taken Season | 2.00% | ~1,133 |
 | Carny | 2.00% | ~1,133 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,647 (Ranked 80)  
+Progressed: 56,649 (Ranked 80)  
 Completed: 56 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 56 (0.10%) (Ranked 179)
 | 2023-06-29 | 56,498 | 56 |
 | 2023-06-30 | 56,554 | 56 |
 | 2023-07-01 | 56,635 | 56 |
-| 2023-07-02 | 56,647 | 56 |
+| 2023-07-02 | 56,649 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,37 +6,37 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,822 |
-| Titan's First Steps | 96.00% | ~126,504 |
-| Basic in Bulk | 91.00% | ~119,915 |
-| Tinkle of Coins | 86.00% | ~113,326 |
-| Disintermediation | 75.00% | ~98,831 |
+| Sponsored by Argon | 97.00% | ~127,823 |
+| Titan's First Steps | 96.00% | ~126,505 |
+| Basic in Bulk | 91.00% | ~119,916 |
+| Tinkle of Coins | 86.00% | ~113,327 |
+| Disintermediation | 75.00% | ~98,832 |
 | Capitalism Ho! | 74.00% | ~97,514 |
-| It's Free Real Estate | 70.00% | ~92,242 |
+| It's Free Real Estate | 70.00% | ~92,243 |
 | Budding Merchant | 66.00% | ~86,972 |
 | Another Satisfied Customer | 61.00% | ~80,383 |
-| One Easy Payment | 60.00% | ~79,065 |
-| Own the Means of Production | 60.00% | ~79,065 |
+| One Easy Payment | 60.00% | ~79,066 |
+| Own the Means of Production | 60.00% | ~79,066 |
 | Some Assembly Required | 58.00% | ~76,430 |
 | Pretty Penny | 57.00% | ~75,112 |
 | One-Armed Bandit | 49.00% | ~64,570 |
-| Through Repetition, Perfection | 46.00% | ~60,616 |
+| Through Repetition, Perfection | 46.00% | ~60,617 |
 | The Daily Grind | 45.00% | ~59,299 |
 | Bounty Hunters | 44.00% | ~57,981 |
-| Where it Hurts | 43.00% | ~56,663 |
+| Where it Hurts | 43.00% | ~56,664 |
 | Dungeon Imports | 42.00% | ~55,346 |
 | Flooding the Market | 41.00% | ~54,028 |
-| Demand for Supplies | 38.00% | ~50,074 |
+| Demand for Supplies | 38.00% | ~50,075 |
 | Gild-Gotten Goods | 37.00% | ~48,757 |
-| Did we pack lunch? | 35.00% | ~46,121 |
+| Did we pack lunch? | 35.00% | ~46,122 |
 | Arcane Industries | 34.00% | ~44,804 |
-| Accomplished Merchant | 31.00% | ~40,850 |
+| Accomplished Merchant | 31.00% | ~40,851 |
 | On the Path to Greatness | 28.00% | ~36,897 |
 | Ascended | 28.00% | ~36,897 |
 | Gem Expert | 28.00% | ~36,897 |
 | Helping Hand | 28.00% | ~36,897 |
-| Blank Page Syndrome | 27.00% | ~35,579 |
-| Efficient Floor Space | 27.00% | ~35,579 |
+| Blank Page Syndrome | 27.00% | ~35,580 |
+| Efficient Floor Space | 27.00% | ~35,580 |
 | Vanity, Verily | 26.00% | ~34,262 |
 | Research & Development | 25.00% | ~32,944 |
 | Power of Love | 24.00% | ~31,626 |
@@ -55,10 +55,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 15.00% | ~19,766 |
 | Seasoned Journeyman | 15.00% | ~19,766 |
 | Black Friday Special | 15.00% | ~19,766 |
-| Big Game Hunting | 14.00% | ~18,448 |
-| Locally Sourced | 14.00% | ~18,448 |
-| Flying off the Shelves | 14.00% | ~18,448 |
-| Laden with Loot | 14.00% | ~18,448 |
+| Big Game Hunting | 14.00% | ~18,449 |
+| Locally Sourced | 14.00% | ~18,449 |
+| Flying off the Shelves | 14.00% | ~18,449 |
+| Laden with Loot | 14.00% | ~18,449 |
 | Fat Cat Tag Team | 13.00% | ~17,131 |
 | Above the Norm | 12.00% | ~15,813 |
 | Hidden Potential | 12.00% | ~15,813 |
@@ -81,10 +81,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 7.00% | ~9,224 |
 | Wealth Beyond Measure | 7.00% | ~9,224 |
 | Treasure Trove | 7.00% | ~9,224 |
-| Thirst for Knowledge | 6.00% | ~7,906 |
-| Archivist | 6.00% | ~7,906 |
-| Bountiful Harvest | 6.00% | ~7,906 |
-| All Accounted For | 6.00% | ~7,906 |
+| Thirst for Knowledge | 6.00% | ~7,907 |
+| Archivist | 6.00% | ~7,907 |
+| Bountiful Harvest | 6.00% | ~7,907 |
+| All Accounted For | 6.00% | ~7,907 |
 | Precision Engineering | 5.00% | ~6,589 |
 | Proud Paladin | 4.00% | ~5,271 |
 | Constellated | 4.00% | ~5,271 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~659 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,775 (Ranked 59)  
+Progressed: 131,776 (Ranked 59)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-06-29 | 131,639 | 112 |
 | 2023-06-30 | 131,693 | 112 |
 | 2023-07-01 | 131,759 | 113 |
-| 2023-07-02 | 131,775 | 113 |
+| 2023-07-02 | 131,776 | 113 |
 ## Awards
 Max (Great for Beginners): 4,642  (Ranked 68)  
 Sum: 26,846 (Ranked 46)  

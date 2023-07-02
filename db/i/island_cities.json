@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 17.62,
+  "EOS_Completed_Percentage": 17.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -1723,6 +1723,11 @@
       "Time": "2023-07-01T05:05:48.9216413+00:00",
       "NumProgressed": 369,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-07-02T05:07:21.0922065+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 22,
@@ -1734,7 +1739,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "LEVEL_002",
@@ -1742,7 +1747,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "LEVEL_003",
@@ -1764,9 +1769,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 181
     },
     {
       "ID": "LEVEL_006",
@@ -1846,7 +1851,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "LEVEL_016",
@@ -1860,9 +1865,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_018",
@@ -1878,7 +1883,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_020",
@@ -1909,7 +1914,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 65
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-07-02T04:07:23.5105765+00:00",
+  "LastChanged_Achievements": "2023-07-02T05:07:21.092206+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.9215727+00:00",
-  "LastUpdate_Ratings": "2023-07-02T03:58:35.453611+00:00",
-  "LastUpdate_Achievements": "2023-07-02T04:07:23.5106053+00:00"
+  "LastUpdate_Ratings": "2023-07-02T04:58:49.1293984+00:00",
+  "LastUpdate_Achievements": "2023-07-02T05:07:21.092261+00:00"
 }
