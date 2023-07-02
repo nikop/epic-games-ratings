@@ -7,10 +7,10 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 35.00% | ~449 |
-| Me and My Familiar | 33.00% | ~423 |
-| This Too Shall Pass | 28.00% | ~359 |
-| Passing Shadow | 27.00% | ~346 |
-| Cutthroat Competitors | 27.00% | ~346 |
+| Me and My Familiar | 33.00% | ~424 |
+| This Too Shall Pass | 28.00% | ~360 |
+| Passing Shadow | 27.00% | ~347 |
+| Cutthroat Competitors | 27.00% | ~347 |
 | How Romantic! | 25.00% | ~321 |
 | Daybreak | 25.00% | ~321 |
 | Gotta Ca... Must Collect All of Them | 23.00% | ~295 |
@@ -37,13 +37,13 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 4.00% | ~51 |
 | Grillmaster | 4.00% | ~51 |
 | No Time for Clawmonsters | 4.00% | ~51 |
-| We Emerge Changed | 3.00% | ~38 |
-| Storied Past | 3.00% | ~38 |
-| No More Nightmares | 3.00% | ~38 |
-| Bears are Scary | 3.00% | ~38 |
-| Into Mulch | 3.00% | ~38 |
-| Astrology | 3.00% | ~38 |
-| Lochias's Hunger | 3.00% | ~38 |
+| We Emerge Changed | 3.00% | ~39 |
+| Storied Past | 3.00% | ~39 |
+| No More Nightmares | 3.00% | ~39 |
+| Bears are Scary | 3.00% | ~39 |
+| Into Mulch | 3.00% | ~39 |
+| Astrology | 3.00% | ~39 |
+| Lochias's Hunger | 3.00% | ~39 |
 | The Power of Friendship | 2.00% | ~26 |
 | Empty the Caves | 2.00% | ~26 |
 | Drauvenslayers | 2.00% | ~26 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,283 (Ranked 174)  
+Progressed: 1,284 (Ranked 174)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-06-29 | 1,276 | 4 |
 | 2023-06-30 | 1,279 | 4 |
 | 2023-07-01 | 1,281 | 4 |
-| 2023-07-02 | 1,283 | 4 |
+| 2023-07-02 | 1,284 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 463)  
 Sum: 27 (Ranked 473)  

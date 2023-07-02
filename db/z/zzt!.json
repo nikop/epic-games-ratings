@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2850,
+  "EOS_Progressed": 2851,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2023-07-02T19:07:01.6826095+00:00",
       "NumProgressed": 2850,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-02T22:06:47.1224845+00:00",
+      "NumProgressed": 2851,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 5,
@@ -2962,7 +2967,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "2",
@@ -2970,7 +2975,7 @@
       "Name": "Traveler",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "3",
@@ -3001,7 +3006,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2850,
+      "Progressed": 2851,
       "Completed": 96
     }
   ],
@@ -3009,8 +3014,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:05:54.6697715+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:06:47.122484+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:58.2869471+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:58:42.7968144+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:05:54.6697947+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:58:56.4141586+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:06:47.1225114+00:00"
 }

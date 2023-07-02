@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,601 |
+| Tattletale | 41.00% | ~5,602 |
 | Man of politics | 35.00% | ~4,782 |
 | Friends of sorts | 34.00% | ~4,645 |
 | Yet another secret | 34.00% | ~4,645 |
-| Let there be darkness | 33.00% | ~4,508 |
-| End of Book One | 31.00% | ~4,235 |
+| Let there be darkness | 33.00% | ~4,509 |
+| End of Book One | 31.00% | ~4,236 |
 | Wannabe knight | 24.00% | ~3,279 |
 | Garden of Eden | 24.00% | ~3,279 |
 | Full house | 24.00% | ~3,279 |
 | Help an old friend | 22.00% | ~3,006 |
-| Two of us | 20.00% | ~2,732 |
+| Two of us | 20.00% | ~2,733 |
 | Negotiation skills | 19.00% | ~2,596 |
 | Workers' union | 19.00% | ~2,596 |
 | End of Book Two | 18.00% | ~2,459 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~683 |
 | Lone wolf | 5.00% | ~683 |
 | Vox Populi | 5.00% | ~683 |
-| Revenge | 4.00% | ~546 |
-| Self-defense | 4.00% | ~546 |
-| Countess Aliena | 4.00% | ~546 |
+| Revenge | 4.00% | ~547 |
+| Self-defense | 4.00% | ~547 |
+| Countess Aliena | 4.00% | ~547 |
 | Care, like a brother cares | 3.00% | ~410 |
 | A brush with death | 3.00% | ~410 |
 | Boy of mystery | 2.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,662 (Ranked 110)  
+Progressed: 13,663 (Ranked 110)  
 Completed: 103 (0.75%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 103 (0.75%) (Ranked 110)
 | 2023-06-29 | 13,606 | 103 |
 | 2023-06-30 | 13,621 | 103 |
 | 2023-07-01 | 13,636 | 103 |
-| 2023-07-02 | 13,662 | 103 |
+| 2023-07-02 | 13,663 | 103 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

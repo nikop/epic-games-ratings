@@ -502,9 +502,9 @@
       "Count": 200
     }
   ],
-  "EOS_Progressed": 10922,
+  "EOS_Progressed": 10924,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -6037,6 +6037,11 @@
       "Time": "2023-07-02T20:07:17.5522159+00:00",
       "NumProgressed": 10922,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-02T22:07:06.0986402+00:00",
+      "NumProgressed": 10924,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 35,
@@ -6048,7 +6053,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8847
+      "UsersEstimate": 8848
     },
     {
       "ID": "ACH02",
@@ -6104,7 +6109,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5461
+      "UsersEstimate": 5462
     },
     {
       "ID": "ACH09",
@@ -6224,7 +6229,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "ACH24",
@@ -6327,7 +6332,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10922,
+      "Progressed": 10924,
       "Completed": 24
     }
   ],
@@ -6335,8 +6340,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-01T13:59:51.7535255+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:06:20.7784221+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:07:06.0986399+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:00:21.885213+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:06:20.7784814+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:01:02.0959894+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:07:06.098702+00:00"
 }

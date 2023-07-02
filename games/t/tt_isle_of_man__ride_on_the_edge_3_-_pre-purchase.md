@@ -12,8 +12,8 @@
 | Serial Winner | 14.00% | ~13 |
 | Start Your Engines | 12.00% | ~11 |
 | Highly Qualified | 10.00% | ~9 |
+| Lone Wolf | 10.00% | ~9 |
 | No Room for Improvement | 9.00% | ~8 |
-| Lone Wolf | 9.00% | ~8 |
 | Nerd | 8.00% | ~7 |
 | Upgradeaholic | 8.00% | ~7 |
 | Tailor-Made | 7.00% | ~6 |

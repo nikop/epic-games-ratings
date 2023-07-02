@@ -1124,9 +1124,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 4307,
+  "EOS_Progressed": 4308,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4424,6 +4424,11 @@
       "Time": "2023-07-02T21:06:15.9469743+00:00",
       "NumProgressed": 4307,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-02T22:07:00.5593721+00:00",
+      "NumProgressed": 4308,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -4435,7 +4440,7 @@
       "Name": "Get A Room",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -4443,7 +4448,7 @@
       "Name": "Beam Me Up",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -4475,7 +4480,7 @@
       "Name": "Having A Field Day",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3102
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -4483,7 +4488,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -4513,9 +4518,9 @@
       "ID": "HUNT_RABBIT_20",
       "SetID": "5349c2e",
       "Name": "Wabbit Season",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "HUNT_RABBIT_5",
@@ -4563,7 +4568,7 @@
       "Name": "Feast or Famine",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -4579,7 +4584,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -4619,7 +4624,7 @@
       "Name": "Winter Is Here",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -4643,7 +4648,7 @@
       "Name": "Novice Researcher",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -4651,7 +4656,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -4659,7 +4664,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -4682,15 +4687,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4307,
+      "Progressed": 4308,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:06:15.9469734+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:07:00.5593713+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:00:02.3299559+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:06:15.9470158+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:00:37.9713376+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:07:00.5594175+00:00"
 }

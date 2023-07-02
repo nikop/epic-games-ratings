@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64373,
+  "EOS_Progressed": 64379,
   "EOS_Completed": 598,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -7937,6 +7937,11 @@
       "Time": "2023-07-02T21:06:12.1200982+00:00",
       "NumProgressed": 64373,
       "NumCompleted": 598
+    },
+    {
+      "Time": "2023-07-02T22:06:55.6590853+00:00",
+      "NumProgressed": 64379,
+      "NumCompleted": 598
     }
   ],
   "TotalAchievements": 25,
@@ -7964,7 +7969,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "Audiophile",
@@ -7972,7 +7977,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "Be Seeing You",
@@ -7980,7 +7985,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14162
+      "UsersEstimate": 14163
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -7988,7 +7993,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10943
+      "UsersEstimate": 10944
     },
     {
       "ID": "Butcher",
@@ -8020,7 +8025,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12875
+      "UsersEstimate": 12876
     },
     {
       "ID": "Hearty",
@@ -8052,7 +8057,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12875
+      "UsersEstimate": 12876
     },
     {
       "ID": "Meaty",
@@ -8068,7 +8073,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12231
+      "UsersEstimate": 12232
     },
     {
       "ID": "Nice Try",
@@ -8076,7 +8081,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10300
+      "UsersEstimate": 10301
     },
     {
       "ID": "Nothing Left to Say",
@@ -8084,7 +8089,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "Piano Man",
@@ -8092,7 +8097,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 6437
+      "UsersEstimate": 6438
     },
     {
       "ID": "Right On Target",
@@ -8100,7 +8105,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8368
+      "UsersEstimate": 8369
     },
     {
       "ID": "Sniper",
@@ -8108,7 +8113,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "Spicy",
@@ -8132,7 +8137,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "Vinyl Vibes",
@@ -8140,14 +8145,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64373,
+      "Progressed": 64379,
       "Completed": 598
     }
   ],
@@ -8155,8 +8160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:06:12.1200976+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:06:55.6590851+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:00:37.7336326+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:06:12.1201622+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:01:19.3831028+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:06:55.6591508+00:00"
 }

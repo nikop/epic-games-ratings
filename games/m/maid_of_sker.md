@@ -7,8 +7,8 @@
 | Choking Hazard | 43.00% | ~70 |
 | Animal Lover | 33.00% | ~53 |
 | Don't Breathe | 30.00% | ~49 |
+| Rapturous Applause! | 14.00% | ~23 |
 | Smooth Operator | 14.00% | ~23 |
-| Rapturous Applause! | 13.00% | ~21 |
 | Easy Listening | 12.00% | ~19 |
 | Perfect Harmony! | 10.00% | ~16 |
 | Chief Butler | 9.00% | ~15 |

@@ -52,9 +52,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Destilat",
@@ -100,9 +100,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Kour",
@@ -260,9 +260,9 @@
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Zelvak",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:03:11.8305535+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:03:07.4389784+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.206136+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:57:12.5903242+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:03:11.8305762+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:57:04.7896725+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:03:07.4390024+00:00"
 }

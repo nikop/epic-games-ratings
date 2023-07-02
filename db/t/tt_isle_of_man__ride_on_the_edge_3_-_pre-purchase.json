@@ -769,9 +769,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "gagif7",
       "Name": "Lone Wolf",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:04:08.6876102+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:04:26.7722411+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.9386172+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:58:06.5617975+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:04:08.6876653+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:58:08.572198+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:04:26.7722781+00:00"
 }

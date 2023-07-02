@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -960,6 +960,11 @@
       "Time": "2023-07-02T18:03:47.5200589+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T22:03:38.7346287+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -971,7 +976,7 @@
       "Name": "We Emerge Changed",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_150Calamities",
@@ -987,7 +992,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -995,7 +1000,7 @@
       "Name": "Storied Past",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_5petsReceived",
@@ -1043,7 +1048,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1107,7 +1112,7 @@
       "Name": "No More Nightmares",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -1131,7 +1136,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1163,7 +1168,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1299,7 +1304,7 @@
       "Name": "Bears are Scary",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -1339,7 +1344,7 @@
       "Name": "Into Mulch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -1371,7 +1376,7 @@
       "Name": "Astrology",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "theme_storm_kill3Enemies",
@@ -1403,7 +1408,7 @@
       "Name": "Lochias\u0027s Hunger",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -1418,15 +1423,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:03:37.181146+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:03:38.734627+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-02T21:00:44.0053464+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:03:37.1811999+00:00"
+  "LastUpdate_Ratings": "2023-07-02T22:01:28.7991133+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:03:38.7346843+00:00"
 }

@@ -5,31 +5,31 @@ Rating: 4.39 (Ranked 701)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~1,927 |
-| Snatched Out | 72.00% | ~1,756 |
-| Keep 'Em Coming | 69.00% | ~1,683 |
-| Cleaning Lethe, One Nest At A Time | 60.00% | ~1,463 |
-| Call Me Snake | 54.00% | ~1,317 |
-| Something Lurks Under The Hills | 53.00% | ~1,293 |
-| This Was No Papercut | 52.00% | ~1,268 |
-| The Shrink Hates Me | 47.00% | ~1,146 |
-| Use The Bumper, That's What It's For | 45.00% | ~1,098 |
-| People Person | 45.00% | ~1,098 |
-| First Steps Into Madness | 41.00% | ~1,000 |
-| Colonial Barrels | 40.00% | ~976 |
-| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~854 |
-| Harper's Hell | 31.00% | ~756 |
-| Making a Stand | 29.00% | ~707 |
-| Omelette Du Fromage | 27.00% | ~659 |
-| Recouped Investment | 26.00% | ~634 |
-| Where It All Begun | 24.00% | ~585 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~1,930 |
+| Snatched Out | 72.00% | ~1,759 |
+| Keep 'Em Coming | 69.00% | ~1,686 |
+| Cleaning Lethe, One Nest At A Time | 60.00% | ~1,466 |
+| Call Me Snake | 54.00% | ~1,319 |
+| Something Lurks Under The Hills | 53.00% | ~1,295 |
+| This Was No Papercut | 52.00% | ~1,270 |
+| The Shrink Hates Me | 47.00% | ~1,148 |
+| Use The Bumper, That's What It's For | 45.00% | ~1,099 |
+| People Person | 45.00% | ~1,099 |
+| First Steps Into Madness | 41.00% | ~1,002 |
+| Colonial Barrels | 40.00% | ~977 |
+| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~855 |
+| Harper's Hell | 31.00% | ~757 |
+| Making a Stand | 29.00% | ~708 |
+| Omelette Du Fromage | 27.00% | ~660 |
+| Recouped Investment | 26.00% | ~635 |
+| Where It All Begun | 24.00% | ~586 |
 | Living Nightmare | 17.00% | ~415 |
 | The More The Merrier | 17.00% | ~415 |
-| Stuff Of Nightmares | 13.00% | ~317 |
-| The Darwin Era Was Here | 13.00% | ~317 |
-| Come on, You Wanna Live Forever? | 11.00% | ~268 |
-| Deep Into Insanity | 11.00% | ~268 |
-| The Passenger | 11.00% | ~268 |
+| Stuff Of Nightmares | 14.00% | ~342 |
+| The Darwin Era Was Here | 13.00% | ~318 |
+| Come on, You Wanna Live Forever? | 11.00% | ~269 |
+| Deep Into Insanity | 11.00% | ~269 |
+| The Passenger | 11.00% | ~269 |
 | El Riesgo Siempre Vive | 10.00% | ~244 |
 | One For Every Occasion | 8.00% | ~195 |
 | Bandage Lover | 8.00% | ~195 |
@@ -37,8 +37,8 @@ Rating: 4.39 (Ranked 701)
 | Heavy Steps | 7.00% | ~171 |
 | Frontliner | 7.00% | ~171 |
 | The Cable Guy | 7.00% | ~171 |
-| Excavating The Truth | 6.00% | ~146 |
-| Abysmal Horrors | 6.00% | ~146 |
+| Excavating The Truth | 6.00% | ~147 |
+| Abysmal Horrors | 6.00% | ~147 |
 | Flawless Victory | 4.00% | ~98 |
 | This Went Smoothly | 4.00% | ~98 |
 | Regicide | 4.00% | ~98 |
@@ -51,7 +51,7 @@ Rating: 4.39 (Ranked 701)
 | Chalk It Up To Experience | 0.20% | ~5 |
 | This Ain't No Picnic | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,439 (Ranked 155)  
+Progressed: 2,443 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 2,138 | 0 |
 | 2023-06-30 | 2,226 | 0 |
 | 2023-07-01 | 2,351 | 0 |
-| 2023-07-02 | 2,439 | 0 |
+| 2023-07-02 | 2,443 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

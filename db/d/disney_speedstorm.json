@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2867,
-  "EOS_Completed": 79,
+  "EOS_Progressed": 2868,
+  "EOS_Completed": 80,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 2.76,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 2.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -3095,6 +3095,11 @@
       "Time": "2023-07-02T21:04:44.8651306+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-07-02T22:05:09.6000043+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 24,
@@ -3114,7 +3119,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "11",
@@ -3146,7 +3151,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "15",
@@ -3274,7 +3279,7 @@
       "Name": "MASTER",
       "Percentage": 14,
       "XP": 65,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "8",
@@ -3297,13 +3302,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2867,
-      "Completed": 79
+      "Progressed": 2868,
+      "Completed": 80
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:04:44.86513+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:05:09.6000038+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:59:15.1275075+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:04:44.8651662+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:59:36.8975846+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:05:09.6000407+00:00"
 }

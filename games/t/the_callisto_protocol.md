@@ -21,13 +21,13 @@ Rating: 4.19 (Ranked 843)
 | Crash Site | 0.80% | ~125 |
 | It's Time | 0.80% | ~28 |
 | Giving Back | 0.70% | ~109 |
+| Terminated | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
+| What Lies Beneath | 0.70% | ~109 |
 | Full Circle | 0.70% | ~109 |
 | Power Up | 0.70% | ~109 |
-| Terminated | 0.60% | ~94 |
 | The Commonality | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
-| What Lies Beneath | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
 | In Striking Distance | 0.40% | ~62 |
 | One Last Job | 0.40% | ~14 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -925,6 +925,11 @@
       "Time": "2023-07-01T21:06:08.6825466+00:00",
       "NumProgressed": 458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T22:06:57.2629052+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -976,7 +981,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Chapter3",
@@ -984,7 +989,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Chapter4",
@@ -992,7 +997,7 @@
       "Name": "The Veteran",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Chapter5",
@@ -1112,7 +1117,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Murderer",
@@ -1223,14 +1228,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-07-02T21:06:13.5088697+00:00",
+  "LastChanged_Achievements": "2023-07-02T22:06:57.2629048+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:04.2421584+00:00",
-  "LastUpdate_Ratings": "2023-07-02T20:58:09.5106442+00:00",
-  "LastUpdate_Achievements": "2023-07-02T21:06:13.5089014+00:00"
+  "LastUpdate_Ratings": "2023-07-02T21:58:13.4781256+00:00",
+  "LastUpdate_Achievements": "2023-07-02T22:06:57.2629365+00:00"
 }

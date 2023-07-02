@@ -6,7 +6,7 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,125 |
+| Own use | 76.00% | ~34,126 |
 | I read Shakespeare and stuff | 64.00% | ~28,737 |
 | Just a sprinkle | 63.00% | ~28,288 |
 | I'm stumped | 61.00% | ~27,390 |
@@ -14,13 +14,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | This is just my weekend vehicle | 58.00% | ~26,043 |
 | It's just the beginning | 58.00% | ~26,043 |
 | Hard work pays off | 53.00% | ~23,798 |
-| It's never too late to farm | 48.00% | ~21,552 |
-| All out of Land | 44.00% | ~19,756 |
-| Field Trip | 43.00% | ~19,307 |
-| I like to switch it up | 40.00% | ~17,960 |
-| Help me to help you | 38.00% | ~17,062 |
-| Ultimutt Pawesomeness | 28.00% | ~12,572 |
-| Van Gogh | 26.00% | ~11,674 |
+| It's never too late to farm | 48.00% | ~21,553 |
+| All out of Land | 44.00% | ~19,757 |
+| Field Trip | 43.00% | ~19,308 |
+| I like to switch it up | 40.00% | ~17,961 |
+| Help me to help you | 38.00% | ~17,063 |
+| Ultimutt Pawesomeness | 28.00% | ~12,573 |
+| Van Gogh | 26.00% | ~11,675 |
 | You wood not believe it | 21.00% | ~9,429 |
 | Vehicle fleet | 21.00% | ~9,429 |
 | The plot thickens | 16.00% | ~7,184 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~180 |
 | Raisin the stakes | 0.30% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,901 (Ranked 86)  
+Progressed: 44,902 (Ranked 86)  
 Completed: 5 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 5 (0.01%) (Ranked 220)
 | 2023-06-29 | 44,764 | 5 |
 | 2023-06-30 | 44,803 | 5 |
 | 2023-07-01 | 44,853 | 5 |
-| 2023-07-02 | 44,901 | 5 |
+| 2023-07-02 | 44,902 | 5 |
 ## Awards
 Max (Great for Beginners): 4,474  (Ranked 70)  
 Sum: 37,809 (Ranked 31)  

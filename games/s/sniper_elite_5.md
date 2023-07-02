@@ -15,18 +15,18 @@ Rating: 4.45 (Ranked 617)
 | It's Starting to Crack | 0.70% | ~22 |
 | The Kraken Sleeps | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |
+| Gunslinger | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
 | Lord of War | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
-| Gunslinger | 0.50% | ~16 |
+| Der Geist | 0.50% | ~16 |
 | As Quiet as a Mouse | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Skirmisher | 0.40% | ~13 |
 | Set Europe Ablaze | 0.40% | ~13 |
-| Der Geist | 0.40% | ~13 |
 | Brains of the Operation | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
