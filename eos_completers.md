@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Sonic Origins](games/s/sonic_origins.md) | 12.22% |
 | 18 | [Remains](games/r/remains.md) | 12.20% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.82% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -73,7 +73,7 @@
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.18% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.10% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -465,6 +465,7 @@
 | 232 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
 | 232 | [Tower Princess](games/t/tower_princess.md) | 0.00% |
 | 232 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
+| 232 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 0.00% |
 | 232 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
 | 232 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 232 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
@@ -481,4 +482,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,869 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,870 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
