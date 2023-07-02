@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.29% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.48% |
 | 2 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Sonic Origins](games/s/sonic_origins.md) | 12.11% |
-| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
+| 19 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -124,8 +124,8 @@
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
@@ -153,8 +153,8 @@
 | 150 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
 | 150 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 153 | [Blanc](games/b/blanc.md) | 0.24% |
-| 153 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.24% |
-| 155 | [Filament](games/f/filament.md) | 0.23% |
+| 154 | [Filament](games/f/filament.md) | 0.23% |
+| 154 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.23% |
 | 156 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 156 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
 | 156 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
