@@ -15,8 +15,8 @@
 | Tragic Brave | 53.00% | ~545 |
 | Awakened Spirits | 51.00% | ~525 |
 | Little Shop | 50.00% | ~514 |
+| Surprise! | 46.00% | ~473 |
 | An Actor! | 46.00% | ~473 |
-| Surprise! | 45.00% | ~463 |
 | Curtain Call | 44.00% | ~453 |
 | Piece of Cake | 42.00% | ~432 |
 | Glimmer of Hope | 42.00% | ~432 |
@@ -28,8 +28,8 @@
 | Take Heart | 39.00% | ~401 |
 | Stronger! | 39.00% | ~401 |
 | Ancient Wisdom | 38.00% | ~391 |
+| Frog Facts! | 38.00% | ~391 |
 | All That Glistens | 38.00% | ~391 |
-| Frog Facts! | 37.00% | ~381 |
 | All Skilled Up! | 37.00% | ~381 |
 | Spellbound | 36.00% | ~370 |
 | Extinct Again! | 36.00% | ~370 |

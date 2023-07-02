@@ -1124,9 +1124,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 4283,
+  "EOS_Progressed": 4284,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4354,6 +4354,11 @@
       "Time": "2023-07-02T02:37:05.2223726+00:00",
       "NumProgressed": 4283,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-02T06:05:45.3889974+00:00",
+      "NumProgressed": 4284,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -4397,7 +4402,7 @@
       "Name": "Green Thumb",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -4413,7 +4418,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -4429,7 +4434,7 @@
       "Name": "Deerly Departed",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "HUNT_DEER_5",
@@ -4477,7 +4482,7 @@
       "Name": "Retribution",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -4485,7 +4490,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -4509,7 +4514,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -4541,7 +4546,7 @@
       "Name": "Heating Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -4549,7 +4554,7 @@
       "Name": "Winter Is Here",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -4565,7 +4570,7 @@
       "Name": "The First Week",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -4573,7 +4578,7 @@
       "Name": "Novice Researcher",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -4589,7 +4594,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -4612,15 +4617,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4283,
+      "Progressed": 4284,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:07:30.5111377+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:05:45.388997+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:01:07.1671369+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:07:30.5111679+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:59:48.7907269+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:05:45.3890383+00:00"
 }

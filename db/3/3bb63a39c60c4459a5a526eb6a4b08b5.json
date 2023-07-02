@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -776,9 +776,9 @@
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MaximumUpgrade",
@@ -943,8 +943,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:03:50.364903+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:03:13.7201995+00:00",
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.3450131+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:57:22.8114668+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:03:50.36493+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:57:11.7811935+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:03:13.7202359+00:00"
 }

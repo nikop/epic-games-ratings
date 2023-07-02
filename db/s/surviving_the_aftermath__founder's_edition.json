@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 6999,
+  "EOS_Progressed": 7000,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7080,6 +7080,11 @@
       "Time": "2023-07-02T04:04:33.2329451+00:00",
       "NumProgressed": 6999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T06:03:41.118776+00:00",
+      "NumProgressed": 7000,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7091,7 +7096,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "10",
@@ -7123,7 +7128,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3710
     },
     {
       "ID": "14",
@@ -7169,9 +7174,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3639
+      "UsersEstimate": 3710
     },
     {
       "ID": "2",
@@ -7203,7 +7208,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4969
+      "UsersEstimate": 4970
     },
     {
       "ID": "23",
@@ -7449,9 +7454,9 @@
       "ID": "50",
       "SetID": "8idi9ml",
       "Name": "Bookworm",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 980
     },
     {
       "ID": "51",
@@ -7537,9 +7542,9 @@
       "ID": "7",
       "SetID": "8idi9ml",
       "Name": "Survivor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2240
     },
     {
       "ID": "8",
@@ -7562,15 +7567,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 6999,
+      "Progressed": 7000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:04:38.0721706+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:03:41.1187755+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:01:15.3885342+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:04:38.072242+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:59:53.8630559+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:03:41.1188817+00:00"
 }

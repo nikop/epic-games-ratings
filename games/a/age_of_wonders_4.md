@@ -26,9 +26,9 @@ Rating: 4.60 (Ranked 388)
 | Fiery Friend | 0.90% | ~44 |
 | Preparation Is Everything | 0.80% | ~39 |
 | Against the Odds | 0.80% | ~39 |
+| Duality | 0.80% | ~39 |
 | Digging for Treasure | 0.70% | ~34 |
 | In a Liege of Your Own | 0.70% | ~34 |
-| Duality | 0.70% | ~34 |
 | Valley of Wonders | 0.60% | ~29 |
 | Return of the Wizard King | 0.60% | ~29 |
 | Arch Mage | 0.60% | ~29 |

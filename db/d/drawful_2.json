@@ -2,7 +2,7 @@
   "ID": "daisy",
   "Name": "Drawful 2",
   "ProductSlug": "drawful-2",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:33.9840313+00:00",
   "LastChanged": "2023-03-31T05:57:33.9840314+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:34.9120834+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:59:48.6384792+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:05:21.9893987+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:58:51.7487686+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:04:12.6920678+00:00"
 }

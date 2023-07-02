@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1281,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-07-01T18:03:41.6071492+00:00",
       "NumProgressed": 1281,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T06:03:17.1627815+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1137,7 +1142,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_mythwalker",
@@ -1161,7 +1166,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1169,7 +1174,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1217,7 +1222,7 @@
       "Name": "Echoes Die",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "completedStory_procedural",
@@ -1408,15 +1413,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1281,
+      "Progressed": 1282,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:04:05.5606069+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:03:17.162781+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:02:01.9161349+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:04:05.5606478+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:00:27.3299138+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:03:17.1628448+00:00"
 }

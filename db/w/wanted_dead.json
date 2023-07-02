@@ -2,7 +2,7 @@
   "ID": "2f5cbaa0276f44c9b6251e093b82eab7",
   "Name": "Wanted: Dead",
   "ProductSlug": "wanted-dead-798c3c",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
@@ -49,8 +49,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.9472872+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.552942+00:00",
   "LastChanged": "2023-03-31T05:58:10.9472874+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:05:17.6749911+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:04:09.6532803+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.8671656+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:58:55.6836855+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:05:17.6749935+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:58:16.7070873+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:04:09.653284+00:00"
 }

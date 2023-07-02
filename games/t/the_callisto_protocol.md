@@ -15,15 +15,15 @@ Rating: 4.20 (Ranked 833)
 | Workplace Hazard | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |
 | Without A Paddle | 0.70% | ~109 |
+| In the Pipe, Five by Five | 0.70% | ~109 |
+| It's Time | 0.70% | ~25 |
 | Giving Back | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
 | Float Like A Butterfly | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | If the SHU Fits... | 0.60% | ~94 |
-| In the Pipe, Five by Five | 0.60% | ~94 |
 | Crash Site | 0.60% | ~94 |
 | Power Up | 0.60% | ~94 |
-| It's Time | 0.60% | ~21 |
 | Terminated | 0.50% | ~78 |
 | The Commonality | 0.50% | ~78 |
 | What Lies Beneath | 0.50% | ~78 |
@@ -34,6 +34,7 @@ Rating: 4.20 (Ranked 833)
 | One Last Job | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
+| Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
@@ -47,7 +48,6 @@ Rating: 4.20 (Ranked 833)
 | Big Spender | 0.10% | ~4 |
 | Don't Let It Mellow | 0.10% | ~4 |
 | Information Overload | 0.10% | ~4 |
-| Quick Pick | 0.10% | ~4 |
 | Glutton for Punishment | 0.00% | ~0 |
 | You Belong Here | 0.00% | ~0 |
 | I am the Danger | 0.00% | ~0 |

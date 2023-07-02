@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1610,9 +1610,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 49793,
+  "EOS_Progressed": 49794,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9215,6 +9215,11 @@
       "Time": "2023-07-02T05:03:15.6449712+00:00",
       "NumProgressed": 49793,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-02T06:02:08.7973679+00:00",
+      "NumProgressed": 49794,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -9226,7 +9231,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 27386
+      "UsersEstimate": 27387
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -9346,7 +9351,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -9490,7 +9495,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19917
+      "UsersEstimate": 19918
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -9538,7 +9543,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -9546,7 +9551,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -9690,22 +9695,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 18423
+      "UsersEstimate": 18424
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 49793,
+      "Progressed": 49794,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-06-29T14:58:42.8717248+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:03:15.6449707+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:02:08.7973675+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:58.3694557+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:59:15.3308915+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:03:15.6450466+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:58:29.5937777+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:02:08.7974732+00:00"
 }

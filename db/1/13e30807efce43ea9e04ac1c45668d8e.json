@@ -2,7 +2,7 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver - Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
@@ -19,26 +19,202 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-02T06:02:07.3967352+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-07-02T06:02:07.3967379+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ABSORB_ALL_ESSENCE",
+      "SetID": "7m06add",
+      "Name": "Orisha Oya\u0027s Essence",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_AKINOLU",
+      "SetID": "7m06add",
+      "Name": "Akinolu",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_KUKUTEKO",
+      "SetID": "7m06add",
+      "Name": "Kukuteko",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_OMOTOKE",
+      "SetID": "7m06add",
+      "Name": "Omotoke",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_SANGODELE",
+      "SetID": "7m06add",
+      "Name": "Sangodele",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_SPECIAL_GUARDIAN",
+      "SetID": "7m06add",
+      "Name": "The Last Guardian",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_WANDERERS",
+      "SetID": "7m06add",
+      "Name": "One Man Army",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DESTROY_BARRELS",
+      "SetID": "7m06add",
+      "Name": "Barrel Hunter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_GAME",
+      "SetID": "7m06add",
+      "Name": "The Imbued One",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_GAME_NO_DEATH",
+      "SetID": "7m06add",
+      "Name": "Ain\u0027t Got Time To Die",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_GAME_NO_SAVE",
+      "SetID": "7m06add",
+      "Name": "Saving Is For Losers",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINISH_GAME_SRANK",
+      "SetID": "7m06add",
+      "Name": "The Great Warrior",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_ALL_UPGRADES",
+      "SetID": "7m06add",
+      "Name": "The Prepper",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_ELDERGUN_DAMAGE",
+      "SetID": "7m06add",
+      "Name": "The Eldergun",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_EXPLOSIVE_CHARM",
+      "SetID": "7m06add",
+      "Name": "Explosive Charm",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_HEALTH_CHARM",
+      "SetID": "7m06add",
+      "Name": "Health Charm",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_LIGHTNING_CHARM",
+      "SetID": "7m06add",
+      "Name": "Lightning Charm",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_SHIELD_CHARM",
+      "SetID": "7m06add",
+      "Name": "Shield Charm",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_SPIRIT_ESSENCE",
+      "SetID": "7m06add",
+      "Name": "Spirit Essence",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPEEDRUN_GAME",
+      "SetID": "7m06add",
+      "Name": "The Impatient One",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WELCOME_TO_ROT",
+      "SetID": "7m06add",
+      "Name": "The Realm Of Tribulations",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7m06add",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:03:13.7545612+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:02:07.3967347+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.4177977+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:57:12.4189712+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:03:13.7545627+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:57:03.3272847+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:02:07.3967524+00:00"
 }

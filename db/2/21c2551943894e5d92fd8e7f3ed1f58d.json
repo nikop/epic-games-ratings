@@ -2,7 +2,7 @@
   "ID": "21c2551943894e5d92fd8e7f3ed1f58d",
   "Name": "The Wild Case",
   "ProductSlug": "the-wild-case-b692f3",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 90,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-27T07:57:03.2117082+00:00",
-  "LastUpdate_Ratings": "2023-07-02T04:57:19.4750949+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:03:36.9291025+00:00"
+  "LastUpdate_Ratings": "2023-07-02T05:57:07.9910607+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:02:23.9309078+00:00"
 }

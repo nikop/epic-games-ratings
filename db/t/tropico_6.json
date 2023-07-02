@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3919,
+  "EOS_Progressed": 3920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5427,6 +5427,11 @@
       "Time": "2023-07-02T05:04:45.7537963+00:00",
       "NumProgressed": 3919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T06:03:46.5780399+00:00",
+      "NumProgressed": 3920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5590,7 +5595,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5598,7 +5603,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5694,7 +5699,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5757,15 +5762,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3919,
+      "Progressed": 3920,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-02T05:04:45.7537959+00:00",
+  "LastChanged_Achievements": "2023-07-02T06:03:46.5780393+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-02T05:01:33.5815854+00:00",
-  "LastUpdate_Achievements": "2023-07-02T05:04:45.7538401+00:00"
+  "LastUpdate_Ratings": "2023-07-02T06:00:06.8922903+00:00",
+  "LastUpdate_Achievements": "2023-07-02T06:03:46.5781169+00:00"
 }

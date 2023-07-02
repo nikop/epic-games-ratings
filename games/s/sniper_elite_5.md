@@ -26,6 +26,7 @@ Rating: 4.45 (Ranked 617)
 | Enemy at the Gates | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
+| Die Nussknacker Sweet! | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
 | Brains of the Operation | 0.30% | ~10 |
 | Fields of Glory | 0.20% | ~6 |
@@ -33,7 +34,6 @@ Rating: 4.45 (Ranked 617)
 | Set Europe Ablaze | 0.20% | ~6 |
 | Precision Is Key | 0.20% | ~6 |
 | My Little Friend | 0.20% | ~6 |
-| Die Nussknacker Sweet! | 0.20% | ~6 |
 | Close Quarters | 0.20% | ~6 |
 | Snake in the Grass | 0.20% | ~6 |
 | Siegebreaker | 0.20% | ~6 |
