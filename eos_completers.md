@@ -5,11 +5,11 @@
 | 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 4 | [Overloop](games/o/overloop.md) | 25.00% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.67% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 22.37% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 20.00% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.84% |
+| 9 | [Island Cities](games/i/island_cities.md) | 17.84% |
+| 10 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 16.67% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
-| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 29 | [Scorn](games/s/scorn.md) | 6.90% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -48,13 +48,13 @@
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
 | 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
-| 49 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
-| 50 | [JARS](games/j/jars.md) | 3.39% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 51 | [ZZT!](games/z/zzt!.md) | 3.37% |
-| 52 | [The Complex](games/t/the_complex.md) | 3.13% |
-| 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 54 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
-| 55 | [Bunny Park](games/b/bunny_park.md) | 3.08% |
+| 52 | [JARS](games/j/jars.md) | 3.33% |
+| 53 | [The Complex](games/t/the_complex.md) | 3.13% |
+| 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
+| 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -132,9 +132,9 @@
 | 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 133 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
-| 133 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
-| 135 | [Tchia](games/t/tchia.md) | 0.39% |
+| 133 | [Tchia](games/t/tchia.md) | 0.41% |
+| 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
+| 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
 | 136 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 137 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 137 | [Scrapnaut](games/s/scrapnaut.md) | 0.35% |
