@@ -13,6 +13,7 @@ Rating: 4.20 (Ranked 834)
 | Two Heads Are Better Than One | 0.70% | ~109 |
 | Chew 'Em Up | 0.70% | ~109 |
 | Reforged | 0.70% | ~109 |
+| Giving Back | 0.60% | ~94 |
 | I Do Belong Here | 0.60% | ~94 |
 | Workplace Hazard | 0.60% | ~94 |
 | Float Like A Butterfly | 0.60% | ~94 |
@@ -22,7 +23,6 @@ Rating: 4.20 (Ranked 834)
 | Crash Site | 0.60% | ~94 |
 | Power Up | 0.60% | ~94 |
 | It's Time | 0.60% | ~21 |
-| Giving Back | 0.50% | ~78 |
 | Terminated | 0.50% | ~78 |
 | The Commonality | 0.50% | ~78 |
 | The Outer Way | 0.50% | ~78 |
@@ -30,10 +30,10 @@ Rating: 4.20 (Ranked 834)
 | Desperate Times | 0.50% | ~78 |
 | Full Circle | 0.50% | ~78 |
 | In Striking Distance | 0.30% | ~47 |
+| One Last Job | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |
 | This Isn't About Escape | 0.20% | ~7 |
-| One Last Job | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |

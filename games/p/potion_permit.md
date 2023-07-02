@@ -13,7 +13,7 @@ Rating: 3.82 (Ranked 934)
 | Dog Whisperer | 49.00% | ~713 |
 | Friendly | 48.00% | ~698 |
 | The Capitalist | 44.00% | ~640 |
-| K.O.! | 42.00% | ~611 |
+| K.O.! | 43.00% | ~626 |
 | Intermediate Chemist | 39.00% | ~567 |
 | Decorative Mind | 31.00% | ~451 |
 | Lumber Specialist | 31.00% | ~451 |

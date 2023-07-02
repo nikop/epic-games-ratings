@@ -9,12 +9,13 @@ Rating: 4.45 (Ranked 617)
 | Taking it back | 0.60% | ~19 |
 | Target America | 0.60% | ~19 |
 | Meeting Resistance | 0.50% | ~16 |
+| Confirming Suspicions | 0.50% | ~16 |
 | Lord of War | 0.50% | ~16 |
 | The Kraken Wakes | 0.50% | ~16 |
 | No Stone Unturned | 0.40% | ~13 |
+| Organ Grinder | 0.40% | ~13 |
 | Gunslinger | 0.40% | ~13 |
 | Sharpshooter | 0.40% | ~13 |
-| Confirming Suspicions | 0.40% | ~13 |
 | Der Geist | 0.40% | ~13 |
 | It's Starting to Crack | 0.40% | ~13 |
 | Change the Channel | 0.40% | ~13 |
@@ -24,7 +25,6 @@ Rating: 4.45 (Ranked 617)
 | Opposing Force | 0.30% | ~10 |
 | Enemy at the Gates | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
-| Organ Grinder | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | As Quiet as a Mouse | 0.30% | ~10 |
 | Skirmisher | 0.20% | ~6 |

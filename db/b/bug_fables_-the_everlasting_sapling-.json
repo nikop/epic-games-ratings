@@ -2,7 +2,7 @@
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 90,
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -61,6 +61,11 @@
       "Time": "2023-06-09T07:06:27.0661908+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-02T00:07:03.4206636+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -78,7 +83,7 @@
       "ID": "BFT_BONUS",
       "SetID": "7o7kd30",
       "Name": "Bounty Hunter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -86,7 +91,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 49
     },
@@ -94,7 +99,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -102,7 +107,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -158,7 +163,7 @@
       "ID": "BFT_CH5HB",
       "SetID": "7o7kd30",
       "Name": "The Terror",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -174,7 +179,7 @@
       "ID": "BFT_CH6HB",
       "SetID": "7o7kd30",
       "Name": "All Geared Up",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -190,7 +195,7 @@
       "ID": "BFT_CH7HB",
       "SetID": "7o7kd30",
       "Name": "The End",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -238,7 +243,7 @@
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 65,
       "UsersEstimate": 11
     },
@@ -254,7 +259,7 @@
       "ID": "BFT_MAX",
       "SetID": "7o7kd30",
       "Name": "Battle Ready",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -311,7 +316,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
@@ -319,8 +324,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-07-01T23:06:57.232541+00:00",
+  "LastChanged_Achievements": "2023-07-02T00:07:03.4206631+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.3808277+00:00",
-  "LastUpdate_Ratings": "2023-07-01T23:00:50.4398301+00:00",
-  "LastUpdate_Achievements": "2023-07-01T23:06:57.2325645+00:00"
+  "LastUpdate_Ratings": "2023-07-02T00:00:38.7721598+00:00",
+  "LastUpdate_Achievements": "2023-07-02T00:07:03.4206875+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 100.00% | ~64 |
-| A bottomless pit | 83.00% | ~53 |
-| Pigeon | 80.00% | ~51 |
+| A path of no return | 102.00% | ~65 |
+| A bottomless pit | 84.00% | ~54 |
+| Pigeon | 81.00% | ~52 |
 | Baited | 67.00% | ~43 |
 | "Swoosh" | 58.00% | ~37 |
 | The light at the end of the tunnel | 56.00% | ~36 |

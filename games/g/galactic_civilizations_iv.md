@@ -6,18 +6,18 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,783 |
-| Worker Specialization | 78.00% | ~4,723 |
-| First Contact | 73.00% | ~4,420 |
-| Win a Battle | 67.00% | ~4,057 |
+| Colonize a Planet | 79.00% | ~4,784 |
+| Worker Specialization | 78.00% | ~4,724 |
+| First Contact | 73.00% | ~4,421 |
+| Win a Battle | 67.00% | ~4,058 |
 | Anomaly Researcher | 63.00% | ~3,815 |
-| Unleash My Power | 62.00% | ~3,754 |
+| Unleash My Power | 62.00% | ~3,755 |
 | Own 30 Planets | 34.00% | ~2,059 |
 | Xenocide | 33.00% | ~1,998 |
 | Design a Civilization | 32.00% | ~1,938 |
 | Commodity Trader | 31.00% | ~1,877 |
 | Design a Ship | 29.00% | ~1,756 |
-| Commodity Seller | 26.00% | ~1,574 |
+| Commodity Seller | 26.00% | ~1,575 |
 | Prestige Victory! | 14.00% | ~848 |
 | Galactic War | 11.00% | ~666 |
 | Trading Partner | 9.00% | ~545 |
@@ -38,8 +38,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 1.00% | ~61 |
 | Win as the Baratak | 1.00% | ~61 |
 | Win as Festron | 1.00% | ~61 |
-| Win as the Navigators | 0.90% | ~54 |
-| Win as Torians | 0.90% | ~54 |
+| Win as the Navigators | 0.90% | ~55 |
+| Win as Torians | 0.90% | ~55 |
 | Win as the Manti | 0.80% | ~48 |
 | Win as Xeloxi | 0.80% | ~48 |
 | Win as the Drath | 0.70% | ~42 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,055 (Ranked 128)  
+Progressed: 6,056 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 6,045 | 0 |
 | 2023-06-30 | 6,048 | 0 |
 | 2023-07-01 | 6,055 | 0 |
+| 2023-07-02 | 6,056 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 343)  
 Sum: 664 (Ranked 276)  

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 87.00% | ~99 |
-| Brute force | 83.00% | ~95 |
-| Nimble fingers | 77.00% | ~88 |
-| Room 104 | 75.00% | ~86 |
-| Face to face | 75.00% | ~86 |
-| Now or never | 72.00% | ~82 |
-| Let's play a game… | 70.00% | ~80 |
-| Soundtrack | 60.00% | ~68 |
-| First aid | 57.00% | ~65 |
-| Antidote | 46.00% | ~52 |
+| What's going on here? | 86.00% | ~100 |
+| Brute force | 84.00% | ~97 |
+| Nimble fingers | 77.00% | ~89 |
+| Room 104 | 75.00% | ~87 |
+| Face to face | 74.00% | ~86 |
+| Now or never | 72.00% | ~84 |
+| Let's play a game… | 70.00% | ~81 |
+| Soundtrack | 59.00% | ~68 |
+| First aid | 56.00% | ~65 |
+| Antidote | 46.00% | ~53 |
 | Pick the right door | 20.00% | ~23 |
 | The third floor | 13.00% | ~15 |
 | On the right path | 12.00% | ~14 |
 | One-way | 12.00% | ~14 |
 | It can't be true | 11.00% | ~13 |
-| I'm close now | 10.00% | ~11 |
-| Failed attempt | 10.00% | ~11 |
-| Good choice | 10.00% | ~11 |
-| Take the long way round | 10.00% | ~11 |
+| I'm close now | 9.00% | ~10 |
+| Failed attempt | 9.00% | ~10 |
 | The real escape | 9.00% | ~10 |
 | Nightmare in the kitchen | 9.00% | ~10 |
+| Good choice | 9.00% | ~10 |
+| Take the long way round | 9.00% | ~10 |
 | He who seeks, finds! | 9.00% | ~10 |
 | Born again | 6.00% | ~7 |
 | 373 | 5.00% | ~6 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 289)  
+Progressed: 116 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 99 | 0 |
 | 2023-06-30 | 105 | 0 |
 | 2023-07-01 | 114 | 0 |
+| 2023-07-02 | 116 | 0 |

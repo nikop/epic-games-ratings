@@ -40,10 +40,10 @@ Rating: 4.59 (Ranked 410)
 | Lord of Chaos | 0.40% | ~20 |
 | The Goddess of Nature | 0.40% | ~20 |
 | Crimson Caldera | 0.30% | ~15 |
+| Manufactured War | 0.30% | ~15 |
 | The Eternal Court | 0.30% | ~15 |
 | Jack of All Tomes | 0.30% | ~15 |
 | I've Got Everything I Need Right Here | 0.20% | ~10 |
-| Manufactured War | 0.20% | ~10 |
 | Pruning for Progress | 0.20% | ~10 |
 | Grexolis | 0.20% | ~10 |
 | One for All, All for One | 0.20% | ~10 |

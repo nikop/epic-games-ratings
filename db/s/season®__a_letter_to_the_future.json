@@ -1700,9 +1700,9 @@
       "ID": "ACH_ARTISTASSISTANT",
       "SetID": "7pam6gn",
       "Name": "Artist Assistant",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -1837,8 +1837,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-01T23:06:45.8007392+00:00",
+  "LastChanged_Achievements": "2023-07-02T00:06:52.6504122+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:19.9703455+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:59:14.6795276+00:00",
-  "LastUpdate_Achievements": "2023-07-01T23:06:45.8007645+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:59:10.591712+00:00",
+  "LastUpdate_Achievements": "2023-07-02T00:06:52.6504375+00:00"
 }

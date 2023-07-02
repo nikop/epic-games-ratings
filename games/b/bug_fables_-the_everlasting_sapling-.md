@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 70.00% | ~49 |
-| Chapter 2 Complete | 47.00% | ~33 |
-| Vicious Spider | 46.00% | ~32 |
+| Chapter 1 Complete | 69.00% | ~49 |
+| Chapter 2 Complete | 46.00% | ~33 |
+| Vicious Spider | 45.00% | ~32 |
 | Chapter 3 Complete | 37.00% | ~26 |
 | The Guardian | 31.00% | ~22 |
 | Chapter 4 Complete | 31.00% | ~22 |
@@ -18,12 +18,12 @@
 | Always Watchful | 21.00% | ~15 |
 | Plant Enchanter | 21.00% | ~15 |
 | Chapter 7 Complete | 20.00% | ~14 |
-| Bounty Hunter | 19.00% | ~13 |
-| The Terror | 19.00% | ~13 |
-| All Geared Up | 16.00% | ~11 |
-| The End | 16.00% | ~11 |
-| Good Deed | 16.00% | ~11 |
-| Battle Ready | 16.00% | ~11 |
+| Bounty Hunter | 18.00% | ~13 |
+| The Terror | 18.00% | ~13 |
+| All Geared Up | 15.00% | ~11 |
+| The End | 15.00% | ~11 |
+| Good Deed | 15.00% | ~11 |
+| Battle Ready | 15.00% | ~11 |
 | Music Collector | 14.00% | ~10 |
 | Gamer | 13.00% | ~9 |
 | Ultimate Team! | 13.00% | ~9 |
@@ -35,7 +35,7 @@
 | Our job's done! | 7.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 317)  
+Progressed: 71 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,6 +46,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-05-25 | 68 | 0 |
 | 2023-06-08 | 69 | 0 |
 | 2023-06-09 | 70 | 0 |
+| 2023-07-02 | 71 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

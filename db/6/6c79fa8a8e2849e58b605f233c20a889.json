@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1860,
+  "EOS_Progressed": 1861,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -3086,6 +3086,11 @@
       "Time": "2023-07-01T23:04:59.2554399+00:00",
       "NumProgressed": 1860,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-02T00:05:12.8632689+00:00",
+      "NumProgressed": 1861,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3175,9 +3180,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 726
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3201,7 +3206,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "GUARD_MAKER",
@@ -3272,14 +3277,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1860,
+      "Progressed": 1861,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-01T23:04:59.255439+00:00",
+  "LastChanged_Achievements": "2023-07-02T00:05:12.8632685+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:57:25.2573148+00:00",
-  "LastUpdate_Achievements": "2023-07-01T23:04:59.2554822+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:57:29.9427304+00:00",
+  "LastUpdate_Achievements": "2023-07-02T00:05:12.863308+00:00"
 }

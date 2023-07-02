@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -292,7 +292,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 38838,
+  "EOS_Progressed": 38839,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -4752,6 +4752,11 @@
       "Time": "2023-07-01T21:06:18.7695334+00:00",
       "NumProgressed": 38838,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-02T00:07:10.7235316+00:00",
+      "NumProgressed": 38839,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -4811,7 +4816,7 @@
       "Name": "Attachments",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -5099,7 +5104,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "SPRING_ALL",
@@ -5186,22 +5191,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38838,
+      "Progressed": 38839,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3675,
-      "Completed": 3675
+      "Progressed": 3676,
+      "Completed": 3676
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-01T18:58:51.3076879+00:00",
-  "LastChanged_Achievements": "2023-07-01T23:07:04.9147083+00:00",
+  "LastChanged_Achievements": "2023-07-02T00:07:10.7235311+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.3871444+00:00",
-  "LastUpdate_Ratings": "2023-07-01T22:59:05.0759488+00:00",
-  "LastUpdate_Achievements": "2023-07-01T23:07:04.9147839+00:00"
+  "LastUpdate_Ratings": "2023-07-01T23:59:02.7695847+00:00",
+  "LastUpdate_Achievements": "2023-07-02T00:07:10.7236102+00:00"
 }

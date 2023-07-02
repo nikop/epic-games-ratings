@@ -6,27 +6,27 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,513 |
-| The Mad Wizard | 10.00% | ~20,366 |
-| The Ring of Regeneration | 6.00% | ~12,220 |
-| Are Ya Chicken? | 6.00% | ~12,220 |
-| Were-verpowered | 5.00% | ~10,183 |
-| Friendly Imps | 5.00% | ~10,183 |
-| Seeking Allies | 4.00% | ~8,147 |
-| Mad Cow Disease | 4.00% | ~8,147 |
-| Pure Energy | 4.00% | ~8,147 |
-| A Persistent Buzzing | 3.00% | ~6,110 |
-| Terror in the Dark | 3.00% | ~6,110 |
-| The Crumbling Temple | 3.00% | ~6,110 |
-| The Contagious Curse | 3.00% | ~6,110 |
-| Beast Mode | 2.00% | ~4,073 |
-| A Mysterious Summons | 2.00% | ~4,073 |
-| Unearthed Evil | 2.00% | ~4,073 |
-| Useless Allies | 2.00% | ~4,073 |
-| Exploring Port Nyanzaru | 2.00% | ~4,073 |
-| Running of the Saurs | 2.00% | ~4,073 |
-| Escort to Waterdeep | 2.00% | ~4,073 |
-| Waterdeep Detours | 2.00% | ~4,073 |
+| The Cursed Farmer | 14.00% | ~28,520 |
+| The Mad Wizard | 10.00% | ~20,371 |
+| The Ring of Regeneration | 6.00% | ~12,223 |
+| Are Ya Chicken? | 6.00% | ~12,223 |
+| Were-verpowered | 5.00% | ~10,186 |
+| Friendly Imps | 5.00% | ~10,186 |
+| Seeking Allies | 4.00% | ~8,149 |
+| Mad Cow Disease | 4.00% | ~8,149 |
+| Pure Energy | 4.00% | ~8,149 |
+| A Persistent Buzzing | 3.00% | ~6,111 |
+| Terror in the Dark | 3.00% | ~6,111 |
+| The Crumbling Temple | 3.00% | ~6,111 |
+| The Contagious Curse | 3.00% | ~6,111 |
+| Beast Mode | 2.00% | ~4,074 |
+| A Mysterious Summons | 2.00% | ~4,074 |
+| Unearthed Evil | 2.00% | ~4,074 |
+| Useless Allies | 2.00% | ~4,074 |
+| Exploring Port Nyanzaru | 2.00% | ~4,074 |
+| Running of the Saurs | 2.00% | ~4,074 |
+| Escort to Waterdeep | 2.00% | ~4,074 |
+| Waterdeep Detours | 2.00% | ~4,074 |
 | Low Initiative | 1.00% | ~2,037 |
 | Building Trust | 1.00% | ~2,037 |
 | March of the Undead | 1.00% | ~2,037 |
@@ -39,15 +39,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,037 |
 | The Templar's Camp | 1.00% | ~2,037 |
 | Rescue in the Jungle | 1.00% | ~2,037 |
+| Street War | 0.90% | ~1,833 |
 | The Botched Kidnapping | 0.90% | ~1,833 |
 | Premature Betrayal | 0.90% | ~1,833 |
 | Close Escort | 0.90% | ~1,833 |
 | Constant Banditry | 0.90% | ~1,833 |
-| Homecoming | 0.80% | ~1,629 |
-| Street War | 0.80% | ~1,629 |
-| Trollskull Manor | 0.80% | ~1,629 |
-| A Tale of Two Cities | 0.80% | ~1,629 |
-| Dinosaur Racing | 0.80% | ~1,629 |
+| Homecoming | 0.80% | ~1,630 |
+| Trollskull Manor | 0.80% | ~1,630 |
+| A Tale of Two Cities | 0.80% | ~1,630 |
+| Dinosaur Racing | 0.80% | ~1,630 |
 | The Lost Heir of Omu | 0.70% | ~1,426 |
 | Attack on the Manor | 0.70% | ~1,426 |
 | The Long Haul | 0.70% | ~1,426 |
@@ -62,21 +62,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.60% | ~1,222 |
 | Easily Distracted | 0.60% | ~1,222 |
 | The Haunted Jungle | 0.60% | ~1,222 |
-| Tomb of the Nine Gods | 0.50% | ~1,018 |
-| Family Entanglements | 0.50% | ~1,018 |
-| The Immortal Warrior | 0.50% | ~1,018 |
-| The Wyrmheart Mine | 0.50% | ~1,018 |
-| Tower on the Lake | 0.50% | ~1,018 |
-| Treasure Hunters | 0.50% | ~1,018 |
-| Hopelessly Lost | 0.50% | ~1,018 |
-| Enter the Sargauth | 0.50% | ~1,018 |
-| Crowded Streets | 0.50% | ~1,018 |
-| The Darkness Runs Deeper | 0.50% | ~1,018 |
-| Difficult Terrain | 0.50% | ~1,018 |
-| Market Fluctuations | 0.50% | ~1,018 |
+| Tomb of the Nine Gods | 0.50% | ~1,019 |
+| Family Entanglements | 0.50% | ~1,019 |
+| The Immortal Warrior | 0.50% | ~1,019 |
+| The Wyrmheart Mine | 0.50% | ~1,019 |
+| Tower on the Lake | 0.50% | ~1,019 |
+| Treasure Hunters | 0.50% | ~1,019 |
+| Hopelessly Lost | 0.50% | ~1,019 |
+| Enter the Sargauth | 0.50% | ~1,019 |
+| Crowded Streets | 0.50% | ~1,019 |
+| The Darkness Runs Deeper | 0.50% | ~1,019 |
+| Difficult Terrain | 0.50% | ~1,019 |
+| Market Fluctuations | 0.50% | ~1,019 |
 | The Giant's Bane Tavern | 0.50% | ~850 |
-| Rude Welcome | 0.50% | ~1,018 |
-| Durable Deep | 0.50% | ~1,018 |
+| Rude Welcome | 0.50% | ~1,019 |
+| Durable Deep | 0.50% | ~1,019 |
 | Home Field Advantage | 0.40% | ~815 |
 | Force Grey Unleashed | 0.40% | ~815 |
 | Sleuth It Out | 0.40% | ~815 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,665 (Ranked 52)  
+Progressed: 203,713 (Ranked 52)  
 Completed: 2,023 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,6 +583,7 @@ Completed: 2,023 (0.99%) (Ranked 101)
 | 2023-06-29 | 200,498 | 2,022 |
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
+| 2023-07-02 | 203,713 | 2,023 |
 ## Awards
 Max (Diverse Characters): 4,992  (Ranked 64)  
 Sum: 30,347 (Ranked 37)  
