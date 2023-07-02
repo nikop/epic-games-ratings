@@ -1,15 +1,15 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
-| 2 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 3 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
-| 4 | [Overloop](games/o/overloop.md) | 25.00% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 22.37% |
-| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 9 | [Island Cities](games/i/island_cities.md) | 17.84% |
-| 10 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 16.67% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 33.33% |
+| 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
+| 5 | [Overloop](games/o/overloop.md) | 25.00% |
+| 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 22.37% |
+| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.84% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
-| 29 | [Scorn](games/s/scorn.md) | 6.90% |
+| 29 | [Scorn](games/s/scorn.md) | 6.95% |
 | 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -105,7 +105,7 @@
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
@@ -124,8 +124,8 @@
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
