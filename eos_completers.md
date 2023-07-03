@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.95% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.89% |
 | 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
 | 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -132,7 +132,7 @@
 | 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 133 | [Tchia](games/t/tchia.md) | 0.41% |
+| 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
 | 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
 | 136 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |

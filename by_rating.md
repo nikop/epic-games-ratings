@@ -20,7 +20,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,638 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,120 | 74 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,123 | 74 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 155,804 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,404 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
@@ -185,7 +185,7 @@
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 503 |
 | 181 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.71 | 72 | 367 |
 | 181 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 503 |
-| 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,587 | 50 |
+| 181 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,596 | 50 |
 | 181 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 434 |
 | 181 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,289 | 46 |
 | 181 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 503 |
@@ -381,7 +381,7 @@
 | 363 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,376 | 37 |
 | 363 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 363 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 273 | 239 |
-| 363 | [Supraland](games/s/supraland.md) | 4.61 | 7,632 | 42 |
+| 363 | [Supraland](games/s/supraland.md) | 4.61 | 7,633 | 42 |
 | 363 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 503 |
 | 363 | [The Medium](games/t/the_medium.md) | 4.61 | 0 | 503 |
 | 363 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 446 | 200 |
@@ -554,7 +554,7 @@
 | 550 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 503 |
 | 550 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 344 |
 | 550 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 503 |
-| 550 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,397 | 13 |
+| 550 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,424 | 13 |
 | 550 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 108 | 320 |
 | 550 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,502 | 94 |
 | 550 | [Horace](games/h/horace.md) | 4.50 | 0 | 503 |
@@ -885,7 +885,7 @@
 | 883 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 503 |
 | 884 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 503 |
 | 884 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 392 |
-| 884 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,425 | 98 |
+| 884 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,428 | 98 |
 | 884 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 503 |
 | 888 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.09 | 0 | 503 |
 | 888 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 503 |
