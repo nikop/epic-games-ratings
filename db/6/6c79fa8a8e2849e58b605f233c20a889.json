@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1888,
+  "EOS_Progressed": 1890,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -3186,6 +3186,11 @@
       "Time": "2023-07-03T20:04:35.4932315+00:00",
       "NumProgressed": 1888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T22:04:14.3949429+00:00",
+      "NumProgressed": 1890,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3251,9 +3256,9 @@
       "ID": "FACE_SCREEN_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Screen-To-Face",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 76
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -3277,7 +3282,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3301,7 +3306,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "GUARD_MAKER",
@@ -3372,14 +3377,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1888,
+      "Progressed": 1890,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:04:35.5328428+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:04:14.3949425+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:57:26.1420287+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:04:35.5328702+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:57:07.2177481+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:04:14.3949779+00:00"
 }

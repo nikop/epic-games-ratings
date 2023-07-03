@@ -5,14 +5,14 @@ Rating: 3.93 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,523 |
-| First One’s Free | 65.00% | ~44,378 |
-| Neophyte Ninja | 50.00% | ~34,137 |
+| Downed but Not Outed | 74.00% | ~50,524 |
+| First One’s Free | 65.00% | ~44,379 |
+| Neophyte Ninja | 50.00% | ~34,138 |
 | Too Old for This | 47.00% | ~32,089 |
 | Fancy Pants | 35.00% | ~23,896 |
-| Case Closed | 34.00% | ~23,213 |
-| King of the Hill | 34.00% | ~23,213 |
-| Underworld Initiate | 29.00% | ~19,799 |
+| Case Closed | 34.00% | ~23,214 |
+| King of the Hill | 34.00% | ~23,214 |
+| Underworld Initiate | 29.00% | ~19,800 |
 | Roid Ranger | 21.00% | ~14,338 |
 | True Player | 19.00% | ~12,972 |
 | Off the Rocks | 19.00% | ~12,972 |
@@ -20,7 +20,7 @@ Rating: 3.93 (Ranked 923)
 | Raider’s Ruin | 16.00% | ~10,924 |
 | Hidden Sonata | 13.00% | ~8,876 |
 | Rockay Rex | 11.00% | ~7,510 |
-| Freebooter | 10.00% | ~6,827 |
+| Freebooter | 10.00% | ~6,828 |
 | Track Star | 9.00% | ~6,145 |
 | Classy Joint | 9.00% | ~6,145 |
 | I Like Trains | 8.00% | ~5,462 |
@@ -35,15 +35,15 @@ Rating: 3.93 (Ranked 923)
 | Red Star | 4.00% | ~2,731 |
 | Privateer | 3.00% | ~2,048 |
 | Groundhog Days | 3.00% | ~2,048 |
-| Rockay Raider | 2.00% | ~1,365 |
-| Moneybags | 2.00% | ~1,365 |
-| Impossible Dreamer | 2.00% | ~1,365 |
+| Rockay Raider | 2.00% | ~1,366 |
+| Moneybags | 2.00% | ~1,366 |
+| Impossible Dreamer | 2.00% | ~1,366 |
 | Rockay Knight | 1.00% | ~683 |
 | Talent Scout | 1.00% | ~683 |
 | Geek Out | 0.50% | ~341 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,274 (Ranked 72)  
+Progressed: 68,275 (Ranked 72)  
 Completed: 35 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 35 (0.05%) (Ranked 199)
 | 2023-06-30 | 68,072 | 35 |
 | 2023-07-01 | 68,153 | 35 |
 | 2023-07-02 | 68,222 | 35 |
-| 2023-07-03 | 68,274 | 35 |
+| 2023-07-03 | 68,275 | 35 |
 ## Awards
 Max (Diverse Characters): 353  (Ranked 219)  
 Sum: 1,682 (Ranked 207)  

@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2523,
+  "EOS_Progressed": 2524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-07-03T21:06:06.4856912+00:00",
       "NumProgressed": 2523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T22:05:32.6439308+00:00",
+      "NumProgressed": 2524,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1624,7 +1629,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1632,7 +1637,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1688,7 +1693,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1704,7 +1709,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1784,7 +1789,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1800,7 +1805,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_MISSION_04",
@@ -1896,7 +1901,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1912,7 +1917,7 @@
       "Name": "People Person",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1951,7 +1956,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2523,
+      "Progressed": 2524,
       "Completed": 0
     }
   ],
@@ -1959,8 +1964,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:06:06.4856908+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:05:32.6439304+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:59:29.6327016+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:06:06.4857262+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:59:09.6064186+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:05:32.6439779+00:00"
 }

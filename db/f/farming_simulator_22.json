@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6333,9 +6333,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44948,
+  "EOS_Progressed": 44949,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12743,6 +12743,11 @@
       "Time": "2023-07-03T21:02:19.9124367+00:00",
       "NumProgressed": 44948,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-03T22:02:23.7861413+00:00",
+      "NumProgressed": 44949,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -12850,7 +12855,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27418
+      "UsersEstimate": 27419
     },
     {
       "ID": "DeliveryGrapes",
@@ -12890,7 +12895,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27418
+      "UsersEstimate": 27419
     },
     {
       "ID": "Harvested",
@@ -12906,7 +12911,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34160
+      "UsersEstimate": 34161
     },
     {
       "ID": "HorseJumps",
@@ -12938,7 +12943,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 21575
+      "UsersEstimate": 21576
     },
     {
       "ID": "Mission",
@@ -12954,7 +12959,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 17080
+      "UsersEstimate": 17081
     },
     {
       "ID": "Money",
@@ -12962,15 +12967,15 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23822
+      "UsersEstimate": 23823
     },
     {
       "ID": "NumBeehives",
       "SetID": "636ci4d",
       "Name": "Bringing in the Honey",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2697
     },
     {
       "ID": "NumDrivables",
@@ -12978,7 +12983,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17979
+      "UsersEstimate": 17980
     },
     {
       "ID": "NumPlaceables",
@@ -12986,7 +12991,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19777
+      "UsersEstimate": 19778
     },
     {
       "ID": "NumProductionPoints",
@@ -13018,7 +13023,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12585
+      "UsersEstimate": 12586
     },
     {
       "ID": "PlayTime",
@@ -13042,7 +13047,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28317
+      "UsersEstimate": 28318
     },
     {
       "ID": "Stones",
@@ -13074,7 +13079,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11686
+      "UsersEstimate": 11687
     },
     {
       "ID": "VehicleRepair",
@@ -13097,15 +13102,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44948,
+      "Progressed": 44949,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-03T18:00:59.4233736+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:02:19.9124361+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:02:23.7861409+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:59:46.5002364+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:02:19.9124924+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:59:23.9720109+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:02:23.7862133+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 429  (23.09.2022)
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~4,791 |
 | Worker Specialization | 78.00% | ~4,731 |
-| First Contact | 73.00% | ~4,427 |
+| First Contact | 74.00% | ~4,488 |
 | Win a Battle | 67.00% | ~4,064 |
 | Anomaly Researcher | 63.00% | ~3,821 |
 | Unleash My Power | 62.00% | ~3,760 |

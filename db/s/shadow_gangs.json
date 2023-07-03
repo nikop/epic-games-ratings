@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-gangs-0ce20b",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-31T09:00:00+00:00",
@@ -390,8 +390,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:06:17.0867171+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:05:43.4045617+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:36.7153189+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:58:58.5440594+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:06:17.0867437+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:58:41.5660986+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:05:43.4045954+00:00"
 }

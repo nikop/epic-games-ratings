@@ -4,7 +4,7 @@
   "ProductSlug": "schein-77f039",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-04T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.7496161+00:00",
   "LastChanged": "2023-03-31T05:57:41.7496161+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5127856+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:59:08.3805829+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:04:28.5708755+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:58:50.1677557+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:04:08.1627265+00:00"
 }

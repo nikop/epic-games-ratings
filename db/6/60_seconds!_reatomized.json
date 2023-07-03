@@ -2927,9 +2927,9 @@
       "ID": "ACH_NORMAL",
       "SetID": "5nj1ea3",
       "Name": "Manhattan Project",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_NOT_MADE_IT",
@@ -3080,8 +3080,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-02T23:01:58.4635378+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:06:24.3851014+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:05:50.5458015+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:00:25.2491829+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:06:24.3851547+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:00:00.8231972+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:05:50.5458733+00:00"
 }

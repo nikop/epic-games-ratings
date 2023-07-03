@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -5342,9 +5342,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -5430,9 +5430,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "STORY_TUNNELS",
@@ -5518,9 +5518,9 @@
       "ID": "FIND_ESCAPE_POD",
       "SetID": "6j5ggkc",
       "Name": "This Isn\u0027t About Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "FINISH_DLC4",
@@ -5534,9 +5534,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 71
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -5573,8 +5573,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-03T15:58:13.52778+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:05:17.7101901+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:04:45.356194+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:58:10.6539261+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:05:17.7102432+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:57:52.2482366+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:04:45.3562521+00:00"
 }

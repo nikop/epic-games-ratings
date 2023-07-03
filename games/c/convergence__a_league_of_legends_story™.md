@@ -12,6 +12,7 @@
 | Treasure Trove | 13.00% | ~96 |
 | The Betrayer | 13.00% | ~96 |
 | The Man Who Shattered Time | 13.00% | ~96 |
+| The Loose Cannon | 13.00% | ~96 |
 | Make Up For Lost Time | 13.00% | ~96 |
 | Time Flies | 13.00% | ~96 |
 | Breaking Down Barriers | 13.00% | ~96 |
@@ -19,7 +20,6 @@
 | The Prince in Heels | 13.00% | ~96 |
 | Immaculate Aim | 13.00% | ~96 |
 | The Family Fortune | 13.00% | ~96 |
-| The Loose Cannon | 12.00% | ~89 |
 | The Harder They Fall | 12.00% | ~89 |
 | No, Thanks! | 12.00% | ~89 |
 | Honest Mistake | 12.00% | ~89 |

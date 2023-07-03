@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| It's Starting to Crack | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
 | Meeting Resistance | 0.90% | ~29 |
-| It's Starting to Crack | 0.90% | ~29 |
 | The Kraken Sleeps | 0.90% | ~29 |
 | Liberté | 0.80% | ~26 |
 | Sharpshooter | 0.80% | ~26 |
@@ -46,6 +46,7 @@ Rating: 4.45 (Ranked 619)
 | Eagle Eyed | 0.20% | ~6 |
 | Tinkerer | 0.20% | ~6 |
 | It'll Buff Right Out | 0.20% | ~6 |
+| Locomotion Commotion | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
@@ -58,7 +59,6 @@ Rating: 4.45 (Ranked 619)
 | Out of Scope | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
-| Locomotion Commotion | 0.10% | ~3 |
 | Up close and personal | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 619)
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,204 (Ranked 145)  
-Completed: 6 (0.19%) (Ranked 161)  
+Progressed: 3,205 (Ranked 145)  
+Completed: 6 (0.19%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,7 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
-| 2023-07-03 | 3,204 | 6 |
+| 2023-07-03 | 3,205 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,23 +6,23 @@ Rating: 4.19 (Ranked 843)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 2.00% | ~312 |
+| Keep Fighting | 2.00% | ~71 |
 | You Need a Gun | 1.00% | ~156 |
 | Flesh Wound | 1.00% | ~156 |
 | Two Heads Are Better Than One | 1.00% | ~156 |
 | Chew 'Em Up | 1.00% | ~156 |
+| Float Like A Butterfly | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
-| Keep Fighting | 1.00% | ~35 |
 | It's Time | 1.00% | ~35 |
 | I Do Belong Here | 0.90% | ~141 |
 | Workplace Hazard | 0.90% | ~141 |
-| Float Like A Butterfly | 0.90% | ~141 |
 | Reforged | 0.90% | ~141 |
 | Without A Paddle | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | Crash Site | 0.90% | ~141 |
+| Full Circle | 0.90% | ~141 |
 | If the SHU Fits... | 0.80% | ~125 |
 | What Lies Beneath | 0.80% | ~125 |
-| Full Circle | 0.80% | ~125 |
 | Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
@@ -31,8 +31,8 @@ Rating: 4.19 (Ranked 843)
 | Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.50% | ~18 |
 | In Striking Distance | 0.40% | ~62 |
+| This Isn't About Escape | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |
-| This Isn't About Escape | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |

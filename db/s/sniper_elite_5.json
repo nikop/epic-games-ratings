@@ -6,8 +6,8 @@
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3204,
+  "EOS_Progressed": 3205,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4648,6 +4648,11 @@
       "Time": "2023-07-03T21:06:24.1260883+00:00",
       "NumProgressed": 3204,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-03T22:05:50.2327143+00:00",
+      "NumProgressed": 3205,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4969,9 +4974,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -4985,9 +4990,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -5226,13 +5231,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3155,
+      "Progressed": 3156,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3204,
+      "Progressed": 3205,
       "Completed": 6
     }
   ],
@@ -5240,8 +5245,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:06:24.1260879+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:05:50.2327139+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:00:35.3272495+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:06:24.1261627+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:00:10.3095531+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:05:50.2328118+00:00"
 }

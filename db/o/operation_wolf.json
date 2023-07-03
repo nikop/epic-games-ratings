@@ -4,7 +4,7 @@
   "ProductSlug": "operation-wolf-446fba",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-03T13:20:24.1974184+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:02:06.7576046+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:02:11.3585504+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.3425964+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:00:34.3163222+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:02:06.7576065+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:00:08.5293484+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:02:11.3585519+00:00"
 }

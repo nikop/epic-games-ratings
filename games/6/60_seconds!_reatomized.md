@@ -60,7 +60,7 @@ Rating: 4.64 (Ranked 311)
 | Cat Lady | 0.70% | ~32 |
 | Pro gamer | 0.70% | ~32 |
 | Naysayer | 0.60% | ~27 |
-| Manhattan Project | 0.40% | ~18 |
+| Manhattan Project | 0.50% | ~23 |
 | Fair Exchange | 0.40% | ~18 |
 | Tora! Tora! Tora! | 0.20% | ~9 |
 | Miracle | 0.20% | ~9 |

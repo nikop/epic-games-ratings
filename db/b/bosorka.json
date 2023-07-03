@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -275,9 +275,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -291,9 +291,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 55,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -339,9 +339,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -356,8 +356,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-07-03T21:06:07.3398477+00:00",
+  "LastChanged_Achievements": "2023-07-03T22:05:33.3754164+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:49.2153024+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:57:51.9837972+00:00",
-  "LastUpdate_Achievements": "2023-07-03T21:06:07.3398582+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:57:35.8349479+00:00",
+  "LastUpdate_Achievements": "2023-07-03T22:05:33.3754288+00:00"
 }

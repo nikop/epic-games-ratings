@@ -11,15 +11,15 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 28.00% | ~360 |
 | Passing Shadow | 27.00% | ~347 |
 | Cutthroat Competitors | 27.00% | ~347 |
-| How Romantic! | 25.00% | ~321 |
-| Daybreak | 25.00% | ~321 |
+| How Romantic! | 25.00% | ~322 |
+| Daybreak | 25.00% | ~322 |
 | Gotta Ca... Must Collect All of Them | 23.00% | ~296 |
 | Completing the Look | 13.00% | ~167 |
 | War Endured | 13.00% | ~167 |
 | A Mythic Menagerie | 12.00% | ~154 |
 | Who's Counting? | 12.00% | ~154 |
 | Core Failure | 12.00% | ~154 |
-| Pyrrhic Victory | 10.00% | ~128 |
+| Pyrrhic Victory | 10.00% | ~129 |
 | Thematic Divergence | 8.00% | ~103 |
 | Chain Reaction | 8.00% | ~103 |
 | Echoes Die | 8.00% | ~103 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,285 (Ranked 174)  
+Progressed: 1,286 (Ranked 174)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-06-30 | 1,279 | 4 |
 | 2023-07-01 | 1,281 | 4 |
 | 2023-07-02 | 1,284 | 4 |
-| 2023-07-03 | 1,285 | 4 |
+| 2023-07-03 | 1,286 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 463)  
 Sum: 27 (Ranked 474)  
