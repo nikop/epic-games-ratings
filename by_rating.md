@@ -53,7 +53,7 @@
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 404 |
 | 50 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 216 | 258 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 503 |
-| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 409 | 206 |
+| 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 410 | 206 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 258 | 244 |
 | 50 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.84 | 233 | 251 |
 | 57 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 503 |
@@ -248,7 +248,7 @@
 | 240 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,857 | 79 |
 | 240 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 503 |
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 298,706 | 3 |
-| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 193,122 | 4 |
+| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 193,591 | 4 |
 | 240 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 414 | 204 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 560 | 180 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 673 | 165 |
@@ -423,7 +423,7 @@
 | 412 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 262 |
 | 412 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 503 |
-| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,550 | 11 |
+| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,585 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 159 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 503 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,186 | 40 |
@@ -524,7 +524,7 @@
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 419 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,441 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 490 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,232 | 7 |
+| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,320 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 514 | 188 |
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
 | 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
@@ -665,7 +665,7 @@
 | 661 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 31 | 452 |
 | 661 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,309 | 30 |
 | 661 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 503 |
-| 661 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,159 | 135 |
+| 661 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,160 | 135 |
 | 661 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 661 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 242 |
 | 661 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 140 | 296 |

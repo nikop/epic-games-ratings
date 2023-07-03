@@ -3,14 +3,14 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,470,577 | 4.29 | 779 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 461,648 | 4.50 | 551 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,706 | 4.68 | 240 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 193,122 | 4.68 | 240 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 193,591 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,112 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 155,804 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 143,232 | 4.52 | 520 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 143,320 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,304 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,925 | 4.62 | 345 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,273 | 4.53 | 504 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,550 | 4.58 | 423 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,585 | 4.58 | 423 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,886 | 4.61 | 364 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,424 | 4.50 | 551 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,911 | 4.74 | 144 |
@@ -134,7 +134,7 @@
 | 132 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,176 | 4.70 | 196 |
 | 133 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,174 | 4.54 | 491 |
 | 134 | [World of Warships](games/w/world_of_warships.md) | 1,167 | 4.42 | 661 |
-| 135 | [OUTRIDERS](games/o/outriders.md) | 1,159 | 4.42 | 661 |
+| 135 | [OUTRIDERS](games/o/outriders.md) | 1,160 | 4.42 | 661 |
 | 136 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,128 | 4.61 | 364 |
 | 137 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,069 | 4.61 | 364 |
 | 138 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,051 | 4.66 | 273 |
@@ -205,7 +205,7 @@
 | 203 | [RimWorld](games/r/rimworld.md) | 417 | 4.89 | 12 |
 | 204 | [Loop Hero](games/l/loop_hero.md) | 414 | 4.68 | 240 |
 | 205 | [Dishonored 2](games/d/dishonored_2.md) | 411 | 4.79 | 88 |
-| 206 | [Into the Breach](games/i/into_the_breach.md) | 409 | 4.84 | 50 |
+| 206 | [Into the Breach](games/i/into_the_breach.md) | 410 | 4.84 | 50 |
 | 207 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 408 | 4.73 | 157 |
 | 208 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 402 | 4.49 | 569 |
 | 209 | [Warface](games/w/warface.md) | 399 | 3.91 | 926 |
