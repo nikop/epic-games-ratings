@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,554 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,555 |
 | Mainframe Hacker | 47.00% | ~3,345 |
 | The Spy who eliminated me | 47.00% | ~3,345 |
-| Tomorrow Never Dyes | 46.00% | ~3,273 |
-| Never Say Loser Again | 40.00% | ~2,846 |
-| For your Eyes only | 39.00% | ~2,775 |
+| Tomorrow Never Dyes | 46.00% | ~3,274 |
+| Never Say Loser Again | 40.00% | ~2,847 |
+| For your Eyes only | 39.00% | ~2,776 |
 | From the Vault with Love | 37.00% | ~2,633 |
 | Tailor-Made | 37.00% | ~2,633 |
 | Fully Decked Out | 35.00% | ~2,491 |
-| You Only Live Twice | 33.00% | ~2,348 |
-| A view to Win | 27.00% | ~1,921 |
+| You Only Live Twice | 33.00% | ~2,349 |
+| A view to Win | 27.00% | ~1,922 |
 | Smells Like Trouble | 25.00% | ~1,779 |
 | Assistant Accountant | 24.00% | ~1,708 |
 | The Living Portrait | 24.00% | ~1,708 |
@@ -27,13 +27,13 @@ Rating: 4.64 (Ranked 311)
 | My Motto, My Creed | 23.00% | ~1,637 |
 | In It to Win It | 22.00% | ~1,566 |
 | Security Supervisor | 10.00% | ~712 |
-| License to Thrill | 9.00% | ~640 |
+| License to Thrill | 9.00% | ~641 |
 | Social of Solace | 8.00% | ~569 |
 | Safe Withdrawal | 6.00% | ~427 |
 | Live and let lie | 5.00% | ~356 |
 | Call Me Maybe | 4.00% | ~285 |
 | PHD in VIP | 4.00% | ~285 |
-| Branch Manager | 3.00% | ~213 |
+| Branch Manager | 3.00% | ~214 |
 | The terminals are not enough | 2.00% | ~142 |
 | Lose Another Day | 2.00% | ~142 |
 | Chairman of Deceive Inc. | 2.00% | ~142 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 311)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,116 (Ranked 122)  
+Progressed: 7,117 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 7,043 | 0 |
 | 2023-07-01 | 7,074 | 0 |
 | 2023-07-02 | 7,096 | 0 |
-| 2023-07-03 | 7,116 | 0 |
+| 2023-07-03 | 7,117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

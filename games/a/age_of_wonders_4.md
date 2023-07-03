@@ -13,6 +13,7 @@ Rating: 4.60 (Ranked 388)
 | From Friends to Family | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
+| Intimidation Tactics | 2.00% | ~98 |
 | Here be Dragons | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
 | Mighty Hoard | 2.00% | ~98 |
@@ -26,7 +27,6 @@ Rating: 4.60 (Ranked 388)
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
-| Intimidation Tactics | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
@@ -37,16 +37,16 @@ Rating: 4.60 (Ranked 388)
 | Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |
 | God Emperor | 0.60% | ~29 |
+| Lord of Chaos | 0.60% | ~29 |
 | The Goddess of Nature | 0.60% | ~29 |
 | Crimson Caldera | 0.60% | ~29 |
-| Lord of Chaos | 0.50% | ~25 |
 | The Eternal Court | 0.50% | ~25 |
 | Jack of All Tomes | 0.40% | ~20 |
+| Grexolis | 0.40% | ~20 |
+| One for All, All for One | 0.40% | ~20 |
 | I've Got Everything I Need Right Here | 0.30% | ~15 |
 | Manufactured War | 0.30% | ~15 |
 | Pruning for Progress | 0.30% | ~15 |
-| Grexolis | 0.30% | ~15 |
-| One for All, All for One | 0.30% | ~15 |
 | Snap Out of It! | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 388)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,907 (Ranked 134)  
+Progressed: 4,908 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
 | 2023-07-02 | 4,902 | 4 |
-| 2023-07-03 | 4,907 | 4 |
+| 2023-07-03 | 4,908 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

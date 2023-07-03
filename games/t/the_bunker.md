@@ -10,9 +10,9 @@
 | Failure | 75.00% | ~81 |
 | Replace Fuse | 67.00% | ~72 |
 | Alarm | 65.00% | ~70 |
-| Air Filtration | 63.00% | ~68 |
-| Broken | 61.00% | ~66 |
-| Radiation | 59.00% | ~64 |
+| Air Filtration | 64.00% | ~69 |
+| Broken | 62.00% | ~67 |
+| Radiation | 60.00% | ~65 |
 | Descent | 58.00% | ~63 |
 | Awakenings | 57.00% | ~62 |
 | Cold Storage | 57.00% | ~62 |

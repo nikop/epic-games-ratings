@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 29.00% | ~178 |
-| Taste | 28.00% | ~172 |
+| Taste | 29.00% | ~179 |
+| Imprint | 29.00% | ~179 |
 | The Hunt | 25.00% | ~154 |
 | Ravenous | 25.00% | ~154 |
-| Weeper | 23.00% | ~141 |
+| Weeper | 23.00% | ~142 |
 | Devourer | 17.00% | ~105 |
 | Silenced Whispers | 15.00% | ~92 |
 | Glare | 14.00% | ~28 |
@@ -31,8 +31,8 @@ Number of Ratings: 46  (23.09.2022)
 | Dream | 8.00% | ~16 |
 | Hunt Down | 7.00% | ~43 |
 | Artisan | 7.00% | ~43 |
-| Hush | 7.00% | ~43 |
-| All-Seeing | 7.00% | ~43 |
+| Hush | 6.00% | ~37 |
+| All-Seeing | 6.00% | ~37 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |
 | Kinship | 5.00% | ~31 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 206)  
+Progressed: 616 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 609 | 0 |
 | 2023-07-01 | 611 | 0 |
 | 2023-07-02 | 614 | 0 |
-| 2023-07-03 | 615 | 0 |
+| 2023-07-03 | 616 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

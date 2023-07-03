@@ -13,8 +13,8 @@ Rating: 4.41 (Ranked 670)
 | Mystery Tour | 68.00% | ~991 |
 | We brake for nobody | 66.00% | ~962 |
 | Brainstorm | 65.00% | ~948 |
+| Travel Company | 65.00% | ~948 |
 | Mind the Gap | 64.00% | ~933 |
-| Travel Company | 64.00% | ~933 |
 | All around the World | 61.00% | ~889 |
 | Right through the middle | 57.00% | ~831 |
 | Facility Manager | 54.00% | ~787 |
@@ -22,14 +22,14 @@ Rating: 4.41 (Ranked 670)
 | Producer | 51.00% | ~744 |
 | Apprentice | 42.00% | ~612 |
 | Bridge Builder | 42.00% | ~612 |
-| Access granted | 35.00% | ~510 |
+| Access granted | 36.00% | ~525 |
 | Going once, going twice, sold | 35.00% | ~510 |
 | Stoker | 33.00% | ~481 |
 | Bull and bear | 33.00% | ~481 |
 | Full Steam ahead | 31.00% | ~452 |
 | Financial Shark | 30.00% | ~437 |
+| All mine | 29.00% | ~423 |
 | Mole | 29.00% | ~423 |
-| All mine | 28.00% | ~408 |
 | Socializer | 27.00% | ~394 |
 | Country Life | 26.00% | ~379 |
 | General Manager | 25.00% | ~364 |

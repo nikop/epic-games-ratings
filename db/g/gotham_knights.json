@@ -1812,18 +1812,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 3989,
       "NumberOfAwardsMax": 2407
+    },
+    {
+      "Time": "2023-07-03T19:00:29.6434699+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 3993,
+      "NumberOfAwardsMax": 2411
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3989,
-  "NumberOfAwardsMax": 2407,
+  "NumberOfAwards": 3993,
+  "NumberOfAwardsMax": 2411,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2407
+      "Count": 2411
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1880,9 +1886,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66357,
+  "EOS_Progressed": 66358,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8540,6 +8546,11 @@
       "Time": "2023-07-03T18:07:51.0324505+00:00",
       "NumProgressed": 66357,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-03T19:07:05.8548439+00:00",
+      "NumProgressed": 66358,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8687,7 +8698,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -9038,22 +9049,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66357,
+      "Progressed": 66358,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36637,
+      "Progressed": 36638,
       "Completed": 2649
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-03T10:00:30.5374916+00:00",
-  "LastChanged_Achievements": "2023-07-03T18:07:51.0324497+00:00",
+  "LastChanged": "2023-07-03T19:00:29.6434695+00:00",
+  "LastChanged_Achievements": "2023-07-03T19:07:05.8548433+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:01:09.3702648+00:00",
-  "LastUpdate_Achievements": "2023-07-03T18:07:51.0326235+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:00:29.6434704+00:00",
+  "LastUpdate_Achievements": "2023-07-03T19:07:05.8549679+00:00"
 }

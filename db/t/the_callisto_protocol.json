@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -850,7 +850,7 @@
   ],
   "EOS_Progressed": 15621,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5201,17 +5201,17 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -5305,9 +5305,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "KILL_ROBOT",
@@ -5385,9 +5385,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "STORY_HANGAR",
@@ -5568,8 +5568,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-03T15:58:13.52778+00:00",
-  "LastChanged_Achievements": "2023-07-03T18:06:18.2769004+00:00",
+  "LastChanged_Achievements": "2023-07-03T19:05:43.1975742+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:58:43.4188959+00:00",
-  "LastUpdate_Achievements": "2023-07-03T18:06:18.2770159+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:58:17.7528271+00:00",
+  "LastUpdate_Achievements": "2023-07-03T19:05:43.1976463+00:00"
 }

@@ -11,19 +11,19 @@
 | Face to face | 76.00% | ~92 |
 | Now or never | 74.00% | ~90 |
 | Let's play a game… | 72.00% | ~87 |
+| First aid | 60.00% | ~73 |
 | Soundtrack | 60.00% | ~73 |
-| First aid | 59.00% | ~71 |
-| Antidote | 48.00% | ~58 |
+| Antidote | 49.00% | ~59 |
 | Pick the right door | 21.00% | ~25 |
 | The third floor | 13.00% | ~16 |
 | On the right path | 12.00% | ~15 |
 | One-way | 12.00% | ~15 |
 | It can't be true | 11.00% | ~13 |
+| I'm close now | 10.00% | ~12 |
+| Failed attempt | 10.00% | ~12 |
+| Good choice | 10.00% | ~12 |
+| Take the long way round | 10.00% | ~12 |
 | He who seeks, finds! | 10.00% | ~12 |
-| I'm close now | 9.00% | ~11 |
-| Failed attempt | 9.00% | ~11 |
-| Good choice | 9.00% | ~11 |
-| Take the long way round | 9.00% | ~11 |
 | The real escape | 8.00% | ~10 |
 | Nightmare in the kitchen | 8.00% | ~10 |
 | Born again | 6.00% | ~7 |

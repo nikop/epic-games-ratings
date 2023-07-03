@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-2042",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-19T08:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.4915207+00:00",
   "LastChanged": "2023-03-31T05:58:10.4915208+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:00.7403084+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:58:26.3231058+00:00",
-  "LastUpdate_Achievements": "2023-07-03T18:03:23.1044069+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:58:03.177725+00:00",
+  "LastUpdate_Achievements": "2023-07-03T19:03:10.1103037+00:00"
 }

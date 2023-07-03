@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 1458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3088,9 +3088,9 @@
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 525
     },
     {
       "ID": "A25",
@@ -3136,9 +3136,9 @@
       "ID": "A30",
       "SetID": "9b7p7eo",
       "Name": "All mine",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 423
     },
     {
       "ID": "A31",
@@ -3272,9 +3272,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 933
+      "UsersEstimate": 948
     },
     {
       "ID": "A48",
@@ -3345,8 +3345,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-03T18:07:50.887183+00:00",
+  "LastChanged_Achievements": "2023-07-03T19:07:05.7636273+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:58:57.2795225+00:00",
-  "LastUpdate_Achievements": "2023-07-03T18:07:50.8872554+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:58:30.0894696+00:00",
+  "LastUpdate_Achievements": "2023-07-03T19:07:05.7637108+00:00"
 }

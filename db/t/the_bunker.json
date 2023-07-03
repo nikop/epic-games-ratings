@@ -4,7 +4,7 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -221,25 +221,25 @@
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Radiation",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-07-03T18:03:25.0405248+00:00",
+  "LastChanged_Achievements": "2023-07-03T19:03:12.1084405+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:30.351815+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:58:52.2656141+00:00",
-  "LastUpdate_Achievements": "2023-07-03T18:03:25.0405581+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:58:25.7647815+00:00",
+  "LastUpdate_Achievements": "2023-07-03T19:03:12.1084634+00:00"
 }

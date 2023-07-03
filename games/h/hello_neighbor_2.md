@@ -9,7 +9,7 @@ Rating: 4.45 (Ranked 619)
 | Case Closed | 36.00% | ~913 |
 | Shovel Night | 36.00% | ~913 |
 | Easy As Pie | 32.00% | ~812 |
-| Family Lost | 31.00% | ~786 |
+| Family Lost | 32.00% | ~812 |
 | Treasure Hunt | 30.00% | ~761 |
 | Ancient Curse | 28.00% | ~710 |
 | Cat Person | 25.00% | ~634 |
