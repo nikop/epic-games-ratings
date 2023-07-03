@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -726,9 +726,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -926,9 +926,9 @@
       "ID": "MISC_REACHMAXARDOR",
       "SetID": "ccc0dlh",
       "Name": "Ravenous",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -1004,8 +1004,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:01:31.6980145+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:00:49.5645832+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:01:07.6422902+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:01:31.6980465+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:00:29.8767388+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:00:49.5646409+00:00"
 }

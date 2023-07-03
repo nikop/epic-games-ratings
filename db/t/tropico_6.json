@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3938,
+  "EOS_Progressed": 3939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5492,6 +5492,11 @@
       "Time": "2023-07-03T06:04:11.8265828+00:00",
       "NumProgressed": 3938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T08:04:14.6350576+00:00",
+      "NumProgressed": 3939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5599,7 +5604,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5607,7 +5612,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5663,7 +5668,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5685,9 +5690,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 788
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5759,7 +5764,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5805,9 +5810,9 @@
       "ID": "ACH_WONDER_FRENCHCONNECTION",
       "SetID": "1p8ab95",
       "Name": "French Connection",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5822,15 +5827,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3938,
+      "Progressed": 3939,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:04:20.4997796+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:04:14.6350569+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:00:54.4594148+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:04:20.4998246+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:00:20.386716+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:04:14.6352162+00:00"
 }

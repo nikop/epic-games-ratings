@@ -6,6 +6,7 @@ Rating: 4.45 (Ranked 619)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Climbing the Ladder | 0.80% | ~26 |
+| Resourceful | 0.80% | ~26 |
 | Taking it back | 0.80% | ~26 |
 | Target America | 0.80% | ~26 |
 | The Kraken Sleeps | 0.80% | ~26 |
@@ -13,7 +14,6 @@ Rating: 4.45 (Ranked 619)
 | Meeting Resistance | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
 | Lord of War | 0.70% | ~22 |
-| Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | It's Starting to Crack | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |

@@ -12,6 +12,7 @@ Rating: 4.60 (Ranked 389)
 | From Friends to Family | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
+| Here be Dragons | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
 | Mighty Hoard | 2.00% | ~98 |
@@ -25,7 +26,6 @@ Rating: 4.60 (Ranked 389)
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
-| Here be Dragons | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |

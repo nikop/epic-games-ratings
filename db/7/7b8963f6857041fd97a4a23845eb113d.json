@@ -2,10 +2,10 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -106,6 +106,11 @@
       "Time": "2023-07-01T13:14:14.649032+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T08:03:22.6040384+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -123,7 +128,7 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 83,
+      "Percentage": 79,
       "XP": 70,
       "UsersEstimate": 15
     },
@@ -155,7 +160,7 @@
       "ID": "CH2_SPIDER",
       "SetID": "6d348d1",
       "Name": "A Light in the Darkness",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "ID": "CH2_UNDERGROUND",
       "SetID": "6d348d1",
       "Name": "Secret Lair",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -171,7 +176,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -179,7 +184,7 @@
       "ID": "CH3_OOPS",
       "SetID": "6d348d1",
       "Name": "Oops!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "CH3_PICTURE",
       "SetID": "6d348d1",
       "Name": "Vague Memories",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "CH4_ROOF",
       "SetID": "6d348d1",
       "Name": "The Pieces",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -219,7 +224,7 @@
       "ID": "CH5_SHADOW",
       "SetID": "6d348d1",
       "Name": "The Finale",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
       "UsersEstimate": 1
     }
@@ -228,14 +233,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:02:34.1678407+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:03:22.6040377+00:00",
   "LastUpdate_AppInfo": "2023-06-29T14:57:18.4163866+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:57:02.7818374+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:02:34.1678495+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:57:22.7564773+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:03:22.6040514+00:00"
 }

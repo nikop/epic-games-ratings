@@ -2,20 +2,20 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "ProductSlug": "encased",
-  "Ranking_Rating": 743,
+  "Ranking_Rating": 736,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-07T17:00:00+00:00",
     "PcReleaseDate": "2021-09-07T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 49,
   "RatingHistory": [
     {
@@ -387,6 +387,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 134,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-07-03T07:59:09.8265357+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 134,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
@@ -412,8 +418,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2023-07-02T07:59:28.6242189+00:00",
+  "LastChanged": "2023-07-03T07:59:09.8265355+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:51.3024349+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:59:29.3158692+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:05:01.600868+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:59:09.8265361+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:04:47.1170505+00:00"
 }

@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 21.79,
+  "EOS_Completed_Percentage": 21.52,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
@@ -399,6 +399,11 @@
       "Time": "2023-07-03T02:26:07.1098549+00:00",
       "NumProgressed": 78,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-07-03T08:00:54.1405368+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 10,
@@ -410,29 +415,29 @@
       "Name": "Beach",
       "Percentage": 92,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 34
     },
@@ -440,7 +445,7 @@
       "ID": "LEVEL_4",
       "SetID": "1fnbp5h",
       "Name": "Science Laboratory",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 28
     },
@@ -489,13 +494,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 17
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:01:37.6594767+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:00:54.140536+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:17.844109+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:57:31.9639953+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:01:37.6595285+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:57:42.6629198+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:00:54.1405498+00:00"
 }

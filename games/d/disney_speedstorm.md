@@ -26,7 +26,7 @@
 | BE OUR GUEST | 10.00% | ~287 |
 | THE EYE OF THE HUNTER | 10.00% | ~287 |
 | ACE TRICKSTER | 8.00% | ~230 |
-| EXPERIENCED CREW | 4.00% | ~115 |
+| EXPERIENCED CREW | 5.00% | ~144 |
 | FRAMED! | 4.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,871 (Ranked 150)  

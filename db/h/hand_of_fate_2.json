@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -856,7 +856,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658779,
+  "EOS_Progressed": 658780,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -7776,6 +7776,11 @@
       "Time": "2023-07-03T07:06:52.8032503+00:00",
       "NumProgressed": 658779,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-03T08:06:14.7622713+00:00",
+      "NumProgressed": 658780,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7787,7 +7792,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474321
+      "UsersEstimate": 474322
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7939,7 +7944,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111992
+      "UsersEstimate": 111993
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -8027,7 +8032,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79053
+      "UsersEstimate": 79054
     },
     {
       "ID": "Achievement_32_Karma",
@@ -8170,15 +8175,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658779,
+      "Progressed": 658780,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:06:52.8032499+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:06:14.7622707+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:57:55.6201561+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:06:52.8033107+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:57:59.2778199+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:06:14.7623583+00:00"
 }

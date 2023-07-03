@@ -6,34 +6,35 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,701 |
-| The Mad Wizard | 11.00% | ~22,551 |
-| The Ring of Regeneration | 6.00% | ~12,300 |
-| Are Ya Chicken? | 6.00% | ~12,300 |
-| Were-verpowered | 5.00% | ~10,250 |
-| Mad Cow Disease | 5.00% | ~10,250 |
-| Friendly Imps | 5.00% | ~10,250 |
-| Seeking Allies | 4.00% | ~8,200 |
-| Pure Energy | 4.00% | ~8,200 |
-| A Persistent Buzzing | 3.00% | ~6,150 |
-| Terror in the Dark | 3.00% | ~6,150 |
-| Unearthed Evil | 3.00% | ~6,150 |
-| The Crumbling Temple | 3.00% | ~6,150 |
-| The Contagious Curse | 3.00% | ~6,150 |
-| Beast Mode | 2.00% | ~4,100 |
-| Low Initiative | 2.00% | ~4,100 |
-| A Mysterious Summons | 2.00% | ~4,100 |
-| Building Trust | 2.00% | ~4,100 |
-| Useless Allies | 2.00% | ~4,100 |
-| Exploring Port Nyanzaru | 2.00% | ~4,100 |
-| Running of the Saurs | 2.00% | ~4,100 |
-| Escort to Waterdeep | 2.00% | ~4,100 |
-| Waterdeep Detours | 2.00% | ~4,100 |
-| Underdeep Cartography | 2.00% | ~4,100 |
+| The Cursed Farmer | 14.00% | ~28,704 |
+| The Mad Wizard | 11.00% | ~22,553 |
+| The Ring of Regeneration | 6.00% | ~12,302 |
+| Are Ya Chicken? | 6.00% | ~12,302 |
+| Were-verpowered | 5.00% | ~10,252 |
+| Mad Cow Disease | 5.00% | ~10,252 |
+| Friendly Imps | 5.00% | ~10,252 |
+| Seeking Allies | 4.00% | ~8,201 |
+| Pure Energy | 4.00% | ~8,201 |
+| A Persistent Buzzing | 3.00% | ~6,151 |
+| Terror in the Dark | 3.00% | ~6,151 |
+| Unearthed Evil | 3.00% | ~6,151 |
+| The Crumbling Temple | 3.00% | ~6,151 |
+| The Contagious Curse | 3.00% | ~6,151 |
+| Beast Mode | 2.00% | ~4,101 |
+| Low Initiative | 2.00% | ~4,101 |
+| A Mysterious Summons | 2.00% | ~4,101 |
+| Building Trust | 2.00% | ~4,101 |
+| Useless Allies | 2.00% | ~4,101 |
+| Exploring Port Nyanzaru | 2.00% | ~4,101 |
+| Running of the Saurs | 2.00% | ~4,101 |
+| Escort to Waterdeep | 2.00% | ~4,101 |
+| Waterdeep Detours | 2.00% | ~4,101 |
+| Underdeep Cartography | 2.00% | ~4,101 |
 | March of the Undead | 1.00% | ~2,050 |
 | No Time To Rest | 1.00% | ~2,050 |
 | Invisible Shadows | 1.00% | ~2,050 |
 | The Dinner Party | 1.00% | ~2,050 |
+| The Botched Kidnapping | 1.00% | ~2,050 |
 | The Death Curse | 1.00% | ~2,050 |
 | Premature Betrayal | 1.00% | ~2,050 |
 | Flying Monkey Skulls of Doom | 1.00% | ~2,050 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 1.00% | ~2,050 |
 | Rescue in the Jungle | 1.00% | ~2,050 |
 | Street War | 0.90% | ~1,845 |
-| The Botched Kidnapping | 0.90% | ~1,845 |
 | A Tale of Two Cities | 0.90% | ~1,845 |
 | Homecoming | 0.80% | ~1,640 |
 | Trollskull Manor | 0.80% | ~1,640 |
@@ -86,6 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.40% | ~820 |
 | Modron Assistance | 0.40% | ~820 |
 | Haaave You Met Asmodeus? | 0.40% | ~820 |
+| Domesticated Owlbears | 0.40% | ~820 |
 | Seeds of Deceit | 0.40% | ~820 |
 | The Gargoyle's Apprentice | 0.40% | ~820 |
 | The Lost Love | 0.40% | ~820 |
@@ -114,7 +115,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Werewolves in the Mist | 0.30% | ~615 |
 | We're not in Faerûn Anymore | 0.30% | ~615 |
 | Thine Bounty is Mine! | 0.30% | ~514 |
-| Domesticated Owlbears | 0.30% | ~615 |
 | House of Darkness | 0.30% | ~615 |
 | The Trepidatious Trio | 0.30% | ~615 |
 | Our Time To Shine | 0.30% | ~615 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.30% | ~514 |
 | Dwarven Rumors | 0.30% | ~514 |
 | Sunblight | 0.30% | ~514 |
+| Overwhelming Force | 0.30% | ~615 |
 | Struggling Toward Omu | 0.20% | ~410 |
 | Taking Responsibility | 0.20% | ~410 |
 | No Good at All | 0.20% | ~410 |
@@ -233,7 +234,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tekeli-li's Hunt | 0.20% | ~343 |
 | The Rite of the Arcane Octad | 0.20% | ~343 |
 | The Netherese Necropolis | 0.20% | ~343 |
-| Overwhelming Force | 0.20% | ~410 |
 | Frail Doesn't Mean Broken | 0.10% | ~171 |
 | The Castle of a Thousand Vecnas | 0.10% | ~171 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~171 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,007 (Ranked 52)  
+Progressed: 205,031 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,007 | 2,025 |
+| 2023-07-03 | 205,031 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,361 (Ranked 37)  

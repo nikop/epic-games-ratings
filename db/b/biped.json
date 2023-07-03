@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3705,
+  "EOS_Progressed": 3709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5176,6 +5176,11 @@
       "Time": "2023-07-03T07:06:38.0542241+00:00",
       "NumProgressed": 3705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T08:06:02.2010833+00:00",
+      "NumProgressed": 3709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5187,7 +5192,7 @@
       "Name": "First Step",
       "Percentage": 42,
       "XP": 45,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1558
     },
     {
       "ID": "10",
@@ -5243,7 +5248,7 @@
       "Name": "Dense Forest",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "3",
@@ -5251,7 +5256,7 @@
       "Name": "Cactus Vally",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "4",
@@ -5267,7 +5272,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "6",
@@ -5275,7 +5280,7 @@
       "Name": "High Treetops",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "7",
@@ -5283,7 +5288,7 @@
       "Name": "Blue Rapids",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "8",
@@ -5299,14 +5304,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3705,
+      "Progressed": 3709,
       "Completed": 0
     }
   ],
@@ -5314,8 +5319,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-03T07:06:38.0542238+00:00",
+  "LastChanged_Achievements": "2023-07-03T08:06:02.201083+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.6056115+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:58:24.2766097+00:00",
-  "LastUpdate_Achievements": "2023-07-03T07:06:38.0542623+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:58:22.6484258+00:00",
+  "LastUpdate_Achievements": "2023-07-03T08:06:02.2011308+00:00"
 }

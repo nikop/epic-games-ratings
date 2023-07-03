@@ -50,11 +50,11 @@ Rating: 4.07 (Ranked 896)
 | Dragon Slayer | 5.00% | ~78 |
 | Enchanting skill | 5.00% | ~78 |
 | Engineer Mastery | 5.00% | ~78 |
+| Lock And Load | 5.00% | ~78 |
 | Missions Dedication | 5.00% | ~78 |
 | Weekly Quest Completionist | 5.00% | ~78 |
 | Background Story | 4.00% | ~62 |
 | Blueprint Upgrades | 4.00% | ~62 |
-| Lock And Load | 4.00% | ~62 |
 | Arena Challenger | 3.00% | ~47 |
 | Sailor | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |

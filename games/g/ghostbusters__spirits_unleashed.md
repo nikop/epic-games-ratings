@@ -5,18 +5,18 @@ Rating: 4.49 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,596 |
-| Advancement | 73.00% | ~17,483 |
-| Meticulously Efficient | 64.00% | ~15,327 |
-| Discovery | 61.00% | ~14,609 |
-| Swift Rift Removers | 55.00% | ~13,172 |
-| Fully Upgraded | 54.00% | ~12,932 |
-| Cultured | 52.00% | ~12,453 |
+| Stylish | 86.00% | ~20,597 |
+| Advancement | 73.00% | ~17,484 |
+| Meticulously Efficient | 64.00% | ~15,328 |
+| Discovery | 61.00% | ~14,610 |
+| Swift Rift Removers | 55.00% | ~13,173 |
+| Fully Upgraded | 54.00% | ~12,933 |
+| Cultured | 52.00% | ~12,454 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,214 |
 | Vaporous Expansion | 48.00% | ~11,496 |
 | Teamwork | 44.00% | ~10,538 |
 | There you are! | 43.00% | ~10,298 |
-| Clutch Capture | 41.00% | ~9,819 |
+| Clutch Capture | 41.00% | ~9,820 |
 | Back Off | 35.00% | ~8,382 |
 | Daily Dose | 35.00% | ~8,382 |
 | Solo Capture | 32.00% | ~7,664 |
@@ -37,27 +37,27 @@ Rating: 4.49 (Ranked 569)
 | Rift Destroyer | 20.00% | ~4,790 |
 | Terrifying | 18.00% | ~4,311 |
 | Tobin's Prodigy | 18.00% | ~4,311 |
-| Reckless | 17.00% | ~4,071 |
+| Reckless | 17.00% | ~4,072 |
 | Diabolical | 16.00% | ~3,832 |
 | Escape Artist | 16.00% | ~3,832 |
 | Seasoned | 16.00% | ~3,832 |
 | Whoopsie | 11.00% | ~2,634 |
 | Liability | 10.00% | ~2,395 |
 | Rivalry | 10.00% | ~2,395 |
-| Fragile Panes | 9.00% | ~2,155 |
-| Surprise! | 9.00% | ~2,155 |
-| Master Collector | 7.00% | ~1,676 |
-| Rift Seeker | 7.00% | ~1,676 |
-| Therapeutic | 7.00% | ~1,676 |
+| Fragile Panes | 9.00% | ~2,156 |
+| Surprise! | 9.00% | ~2,156 |
+| Master Collector | 7.00% | ~1,677 |
+| Rift Seeker | 7.00% | ~1,677 |
+| Therapeutic | 7.00% | ~1,677 |
 | Ghost Expert | 3.00% | ~718 |
 | Catostrophic Destroyer | 2.00% | ~479 |
 | Line em' up | 2.00% | ~479 |
 | Little Help Here | 2.00% | ~479 |
 | Ultimate Defense | 2.00% | ~479 |
-| Mycophile | 1.00% | ~239 |
+| Mycophile | 1.00% | ~240 |
 | I don't need these | 0.90% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,949 (Ranked 96)  
+Progressed: 23,950 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 46 (0.19%) (Ranked 161)
 | 2023-06-30 | 23,891 | 46 |
 | 2023-07-01 | 23,917 | 46 |
 | 2023-07-02 | 23,942 | 46 |
-| 2023-07-03 | 23,949 | 46 |
+| 2023-07-03 | 23,950 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
 Sum: 2,145 (Ranked 187)  
