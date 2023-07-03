@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,722 |
-| Let There Be Light | 27.00% | ~15,318 |
+| Follow the Light | 33.00% | ~18,723 |
+| Let There Be Light | 27.00% | ~15,319 |
 | Float Like a Butterfly | 26.00% | ~14,751 |
 | Nordic Walking | 20.00% | ~11,347 |
 | Bright Falls' Finest | 20.00% | ~11,347 |
@@ -22,11 +22,11 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 12.00% | ~6,808 |
 | Wheels Within Wheels | 11.00% | ~6,241 |
 | The Six-Gun Scribe | 11.00% | ~6,241 |
-| Heavy Metal | 10.00% | ~5,673 |
-| Iron Horse | 10.00% | ~5,673 |
-| Perchance to Dream | 10.00% | ~5,673 |
-| Collateral Carnage | 10.00% | ~5,673 |
-| Come One, Come All | 10.00% | ~5,673 |
+| Heavy Metal | 10.00% | ~5,674 |
+| Iron Horse | 10.00% | ~5,674 |
+| Perchance to Dream | 10.00% | ~5,674 |
+| Collateral Carnage | 10.00% | ~5,674 |
+| Come One, Come All | 10.00% | ~5,674 |
 | Gatekeeper | 9.00% | ~5,106 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,106 |
 | Thunder and Lightning | 9.00% | ~5,106 |
@@ -35,7 +35,7 @@ Number of Ratings: 524  (23.09.2022)
 | Energized! | 8.00% | ~4,539 |
 | Right of Way | 8.00% | ~4,539 |
 | A Friend in Need | 8.00% | ~1,616 |
-| What Light Through Yonder Window | 7.00% | ~3,971 |
+| What Light Through Yonder Window | 7.00% | ~3,972 |
 | Tornado Wrangler | 6.00% | ~3,404 |
 | Departure | 6.00% | ~3,404 |
 | A Friend Indeed | 6.00% | ~1,212 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,734 (Ranked 80)  
+Progressed: 56,736 (Ranked 80)  
 Completed: 56 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 56 (0.10%) (Ranked 179)
 | 2023-06-30 | 56,554 | 56 |
 | 2023-07-01 | 56,635 | 56 |
 | 2023-07-02 | 56,712 | 56 |
-| 2023-07-03 | 56,734 | 56 |
+| 2023-07-03 | 56,736 | 56 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

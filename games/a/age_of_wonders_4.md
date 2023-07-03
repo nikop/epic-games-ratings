@@ -31,10 +31,10 @@ Rating: 4.60 (Ranked 389)
 | In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
 | Return of the Wizard King | 0.80% | ~39 |
+| Digging for Treasure | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.70% | ~34 |
 | Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |
-| Digging for Treasure | 0.70% | ~34 |
 | God Emperor | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
 | Lord of Chaos | 0.50% | ~25 |

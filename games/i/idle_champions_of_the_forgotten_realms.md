@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,765 |
-| The Mad Wizard | 11.00% | ~22,561 |
-| The Ring of Regeneration | 6.00% | ~12,306 |
-| Are Ya Chicken? | 6.00% | ~12,306 |
-| Were-verpowered | 5.00% | ~10,255 |
-| Mad Cow Disease | 5.00% | ~10,255 |
-| Friendly Imps | 5.00% | ~10,255 |
-| Seeking Allies | 4.00% | ~8,204 |
-| Pure Energy | 4.00% | ~8,204 |
-| A Persistent Buzzing | 3.00% | ~6,153 |
-| Terror in the Dark | 3.00% | ~6,153 |
-| Unearthed Evil | 3.00% | ~6,153 |
-| The Crumbling Temple | 3.00% | ~6,153 |
-| The Contagious Curse | 3.00% | ~6,153 |
-| Beast Mode | 2.00% | ~4,102 |
-| Low Initiative | 2.00% | ~4,102 |
-| A Mysterious Summons | 2.00% | ~4,102 |
-| Building Trust | 2.00% | ~4,102 |
-| Useless Allies | 2.00% | ~4,102 |
-| Exploring Port Nyanzaru | 2.00% | ~4,102 |
-| Running of the Saurs | 2.00% | ~4,102 |
-| Escort to Waterdeep | 2.00% | ~4,102 |
-| Waterdeep Detours | 2.00% | ~4,102 |
-| Underdeep Cartography | 2.00% | ~4,102 |
+| The Cursed Farmer | 15.00% | ~30,769 |
+| The Mad Wizard | 11.00% | ~22,564 |
+| The Ring of Regeneration | 6.00% | ~12,308 |
+| Are Ya Chicken? | 6.00% | ~12,308 |
+| Were-verpowered | 5.00% | ~10,256 |
+| Mad Cow Disease | 5.00% | ~10,256 |
+| Friendly Imps | 5.00% | ~10,256 |
+| Seeking Allies | 4.00% | ~8,205 |
+| Pure Energy | 4.00% | ~8,205 |
+| A Persistent Buzzing | 3.00% | ~6,154 |
+| Terror in the Dark | 3.00% | ~6,154 |
+| Unearthed Evil | 3.00% | ~6,154 |
+| The Crumbling Temple | 3.00% | ~6,154 |
+| The Contagious Curse | 3.00% | ~6,154 |
+| Beast Mode | 2.00% | ~4,103 |
+| Low Initiative | 2.00% | ~4,103 |
+| A Mysterious Summons | 2.00% | ~4,103 |
+| Building Trust | 2.00% | ~4,103 |
+| Useless Allies | 2.00% | ~4,103 |
+| Exploring Port Nyanzaru | 2.00% | ~4,103 |
+| Running of the Saurs | 2.00% | ~4,103 |
+| Escort to Waterdeep | 2.00% | ~4,103 |
+| Waterdeep Detours | 2.00% | ~4,103 |
+| Underdeep Cartography | 2.00% | ~4,103 |
 | March of the Undead | 1.00% | ~2,051 |
 | No Time To Rest | 1.00% | ~2,051 |
 | Invisible Shadows | 1.00% | ~2,051 |
@@ -67,42 +67,43 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,028 |
 | Rude Welcome | 0.60% | ~1,231 |
 | The Haunted Jungle | 0.60% | ~1,231 |
-| Family Entanglements | 0.50% | ~1,025 |
-| The Immortal Warrior | 0.50% | ~1,025 |
-| The Wyrmheart Mine | 0.50% | ~1,025 |
-| Tower on the Lake | 0.50% | ~1,025 |
-| The Guardian of Orolunga | 0.50% | ~1,025 |
-| Hopelessly Lost | 0.50% | ~1,025 |
-| Enter the Sargauth | 0.50% | ~1,025 |
-| Lair of the Xanathar | 0.50% | ~1,025 |
-| Crowded Streets | 0.50% | ~1,025 |
-| Difficult Terrain | 0.50% | ~1,025 |
-| Market Fluctuations | 0.50% | ~1,025 |
-| Durable Deep | 0.50% | ~1,025 |
-| Home Field Advantage | 0.40% | ~820 |
-| Force Grey Unleashed | 0.40% | ~820 |
-| Sleuth It Out | 0.40% | ~820 |
-| Azaka's Procession - Part 1 | 0.40% | ~820 |
-| Chatty Nobles | 0.40% | ~820 |
-| Modron Assistance | 0.40% | ~820 |
-| Haaave You Met Asmodeus? | 0.40% | ~820 |
-| Domesticated Owlbears | 0.40% | ~820 |
-| Seeds of Deceit | 0.40% | ~820 |
-| The Gargoyle's Apprentice | 0.40% | ~820 |
-| The Lost Love | 0.40% | ~820 |
-| Flies on the Wall | 0.40% | ~820 |
-| Backtracking Through Barovia | 0.40% | ~820 |
-| Excavating History | 0.40% | ~820 |
-| Cramped Quarters | 0.40% | ~820 |
-| Waterdeep Under Siege | 0.40% | ~820 |
-| Vault of Dragons | 0.40% | ~820 |
-| Champions of Waterdeep | 0.40% | ~820 |
-| Elturel Has Fallen | 0.40% | ~820 |
-| Resolve Amongst Chaos | 0.40% | ~820 |
-| The Everlasting Rime | 0.40% | ~685 |
-| Moose Tracks | 0.40% | ~685 |
-| Expert Opinion | 0.40% | ~820 |
-| Poor Guidance | 0.40% | ~820 |
+| Family Entanglements | 0.50% | ~1,026 |
+| The Immortal Warrior | 0.50% | ~1,026 |
+| The Wyrmheart Mine | 0.50% | ~1,026 |
+| Tower on the Lake | 0.50% | ~1,026 |
+| The Guardian of Orolunga | 0.50% | ~1,026 |
+| Hopelessly Lost | 0.50% | ~1,026 |
+| Enter the Sargauth | 0.50% | ~1,026 |
+| Lair of the Xanathar | 0.50% | ~1,026 |
+| Crowded Streets | 0.50% | ~1,026 |
+| Difficult Terrain | 0.50% | ~1,026 |
+| Market Fluctuations | 0.50% | ~1,026 |
+| Durable Deep | 0.50% | ~1,026 |
+| Home Field Advantage | 0.40% | ~821 |
+| Force Grey Unleashed | 0.40% | ~821 |
+| Sleuth It Out | 0.40% | ~821 |
+| Azaka's Procession - Part 1 | 0.40% | ~821 |
+| Azaka's Procession - Part 2 | 0.40% | ~821 |
+| Chatty Nobles | 0.40% | ~821 |
+| Modron Assistance | 0.40% | ~821 |
+| Haaave You Met Asmodeus? | 0.40% | ~821 |
+| Domesticated Owlbears | 0.40% | ~821 |
+| Seeds of Deceit | 0.40% | ~821 |
+| The Gargoyle's Apprentice | 0.40% | ~821 |
+| The Lost Love | 0.40% | ~821 |
+| Flies on the Wall | 0.40% | ~821 |
+| Backtracking Through Barovia | 0.40% | ~821 |
+| Excavating History | 0.40% | ~821 |
+| Cramped Quarters | 0.40% | ~821 |
+| Waterdeep Under Siege | 0.40% | ~821 |
+| Vault of Dragons | 0.40% | ~821 |
+| Champions of Waterdeep | 0.40% | ~821 |
+| Elturel Has Fallen | 0.40% | ~821 |
+| Resolve Amongst Chaos | 0.40% | ~821 |
+| The Everlasting Rime | 0.40% | ~686 |
+| Moose Tracks | 0.40% | ~686 |
+| Expert Opinion | 0.40% | ~821 |
+| Poor Guidance | 0.40% | ~821 |
 | Anti-Dexterous Explorers | 0.30% | ~615 |
 | Not Very Charming | 0.30% | ~615 |
 | Lobsterfolk Assault | 0.30% | ~615 |
@@ -110,7 +111,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.30% | ~615 |
 | Vajra's Guards | 0.30% | ~615 |
 | The Newcomers of Notoriety | 0.30% | ~514 |
-| Azaka's Procession - Part 2 | 0.30% | ~615 |
 | The Hunt for Owl-y | 0.30% | ~615 |
 | Werewolves in the Mist | 0.30% | ~615 |
 | We're not in Faerûn Anymore | 0.30% | ~615 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,098 (Ranked 52)  
+Progressed: 205,129 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,098 | 2,025 |
+| 2023-07-03 | 205,129 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,361 (Ranked 37)  

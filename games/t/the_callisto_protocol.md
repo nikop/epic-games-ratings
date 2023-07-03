@@ -21,12 +21,12 @@ Rating: 4.19 (Ranked 844)
 | If the SHU Fits... | 0.80% | ~125 |
 | Without A Paddle | 0.80% | ~125 |
 | Crash Site | 0.80% | ~125 |
+| Full Circle | 0.80% | ~125 |
 | Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
 | What Lies Beneath | 0.70% | ~109 |
-| Full Circle | 0.70% | ~109 |
 | The Commonality | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
 | In Striking Distance | 0.40% | ~62 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,619 (Ranked 106)  
+Progressed: 15,620 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,10 +126,10 @@ Completed: 62 (0.40%) (Ranked 134)
 | 2023-06-30 | 15,597 | 62 |
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
-| 2023-07-03 | 15,619 | 62 |
+| 2023-07-03 | 15,620 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
-Sum: 356 (Ranked 321)  
+Sum: 357 (Ranked 321)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -137,7 +137,7 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 62 |
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
-| This game is Extremely Fun | 50 |
+| This game is Extremely Fun | 51 |
 | This game has Challenging Combat | 43 |
 | This game has a Creative Community | 22 |
 ## Ratings History
@@ -225,3 +225,4 @@ Diff (max vs sum): 59
 | 2023-06-30 | 4.20 | 61 | 349 |
 | 2023-07-01 | 4.20 | 63 | 354 |
 | 2023-07-02 | 4.19 | 63 | 356 |
+| 2023-07-03 | 4.19 | 63 | 357 |

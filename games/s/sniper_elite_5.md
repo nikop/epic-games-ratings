@@ -5,10 +5,10 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Target America | 0.90% | ~29 |
 | Climbing the Ladder | 0.80% | ~26 |
 | Resourceful | 0.80% | ~26 |
 | Taking it back | 0.80% | ~26 |
-| Target America | 0.80% | ~26 |
 | The Kraken Sleeps | 0.80% | ~26 |
 | Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
@@ -36,13 +36,13 @@ Rating: 4.45 (Ranked 619)
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
 | Snake in the Grass | 0.30% | ~10 |
+| Siegebreaker | 0.30% | ~9 |
+| Ghost of Falaise | 0.30% | ~9 |
 | The Long Game | 0.20% | ~6 |
 | Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
-| Siegebreaker | 0.20% | ~6 |
-| Ghost of Falaise | 0.20% | ~6 |
 | Strategist | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
