@@ -1596,9 +1596,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "ClovemaryGift",
@@ -1908,9 +1908,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "TheaterChests1",
@@ -1979,8 +1979,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:07:38.3525832+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:06:26.035248+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:00:42.7545633+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:07:38.3526635+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:59:37.361316+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:06:26.0353022+00:00"
 }

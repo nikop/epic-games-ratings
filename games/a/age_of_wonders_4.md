@@ -6,6 +6,7 @@ Rating: 4.60 (Ranked 388)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Realm Estate | 2.00% | ~98 |
+| A Wonderful Discovery | 2.00% | ~98 |
 | Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
@@ -15,7 +16,6 @@ Rating: 4.60 (Ranked 388)
 | Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |
 | Full Ascension | 1.00% | ~49 |
-| A Wonderful Discovery | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |

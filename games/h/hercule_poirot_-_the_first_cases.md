@@ -23,14 +23,14 @@ Rating: 4.32 (Ranked 761)
 | Curious and Beautiful | 44.00% | ~173 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~173 |
 | The Interrogations | 44.00% | ~173 |
-| Well-acquainted | 41.00% | ~161 |
+| Well-acquainted | 42.00% | ~165 |
 | Zakariya Demir | 41.00% | ~161 |
 | Well-read | 39.00% | ~153 |
 | Cassandra Van den Bosch | 37.00% | ~145 |
 | The Secret | 37.00% | ~145 |
-| Gedeon Demir | 34.00% | ~134 |
+| Gedeon Demir | 35.00% | ~138 |
 | Rehana Piette | 34.00% | ~134 |
-| Instinct is Marvellous | 32.00% | ~126 |
+| Instinct is Marvellous | 33.00% | ~130 |
 | Ernesto da Silva | 32.00% | ~126 |
 | Inge Frank | 31.00% | ~122 |
 | The Search | 30.00% | ~118 |
@@ -45,8 +45,8 @@ Rating: 4.32 (Ranked 761)
 | The Truth | 21.00% | ~83 |
 | I Like an Audience | 19.00% | ~75 |
 | Sunken Secrets | 18.00% | ~71 |
+| What Else Did I Miss? | 18.00% | ~71 |
 | The Denouement | 17.00% | ~67 |
-| What Else Did I Miss? | 17.00% | ~67 |
 | Probably the Greatest Detective in the World | 13.00% | ~51 |
 | Take a Break | 11.00% | ~43 |
 | Room with a View | 8.00% | ~31 |

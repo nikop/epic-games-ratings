@@ -37,6 +37,7 @@
 | Deputized | 0.90% | ~1 |
 | Despised | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
+| Delayed | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Unseen Patterns | 0.90% | ~1 |
@@ -83,7 +84,6 @@
 | Handymen | 0.00% | ~0 |
 | Settler | 0.00% | ~0 |
 | Escort | 0.00% | ~0 |
-| Delayed | 0.00% | ~0 |
 | Despoiler | 0.00% | ~0 |
 | A Real Battle | 0.00% | ~0 |
 | The Darkness Within | 0.00% | ~0 |

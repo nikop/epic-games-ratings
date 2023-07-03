@@ -20,12 +20,12 @@ Rating: 4.19 (Ranked 843)
 | Without A Paddle | 0.80% | ~125 |
 | In the Pipe, Five by Five | 0.80% | ~125 |
 | Crash Site | 0.80% | ~125 |
+| Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
 | If the SHU Fits... | 0.70% | ~109 |
 | What Lies Beneath | 0.70% | ~109 |
 | Full Circle | 0.70% | ~109 |
-| Power Up | 0.70% | ~109 |
 | The Commonality | 0.60% | ~94 |
 | The Outer Way | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |

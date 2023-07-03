@@ -36,6 +36,7 @@ Rating: 4.45 (Ranked 617)
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |
 | Snake in the Grass | 0.30% | ~10 |
+| The Long Game | 0.20% | ~6 |
 | Tinkerer | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
@@ -43,7 +44,6 @@ Rating: 4.45 (Ranked 617)
 | Siegebreaker | 0.20% | ~6 |
 | Ghost of Falaise | 0.20% | ~6 |
 | Strategist | 0.10% | ~3 |
-| The Long Game | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |

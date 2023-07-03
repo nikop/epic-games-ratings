@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -891,9 +891,9 @@
       "ID": "Vanilla_PassengerKeptForLong",
       "SetID": "27kik8p",
       "Name": "Delayed",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_PressGanged",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:07:56.1309958+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:06:40.635318+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:34.3036965+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:59:53.2890002+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:07:56.1311164+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:59:05.5247812+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:06:40.635629+00:00"
 }

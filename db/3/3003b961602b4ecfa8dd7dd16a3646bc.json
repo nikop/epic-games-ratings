@@ -186,9 +186,9 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_18_MIA",
@@ -280,8 +280,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:04:25.877127+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:04:09.9356087+00:00",
   "LastUpdate_AppInfo": "2023-07-02T14:56:52.2284246+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:57:20.4779609+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:04:25.877169+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:57:20.0432407+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:04:09.9356301+00:00"
 }

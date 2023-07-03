@@ -6,29 +6,29 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,665 |
-| The Mad Wizard | 10.00% | ~20,475 |
-| The Ring of Regeneration | 6.00% | ~12,285 |
-| Are Ya Chicken? | 6.00% | ~12,285 |
-| Were-verpowered | 5.00% | ~10,238 |
-| Mad Cow Disease | 5.00% | ~10,238 |
-| Friendly Imps | 5.00% | ~10,238 |
-| Seeking Allies | 4.00% | ~8,190 |
-| Pure Energy | 4.00% | ~8,190 |
+| The Cursed Farmer | 14.00% | ~28,669 |
+| The Mad Wizard | 10.00% | ~20,478 |
+| The Ring of Regeneration | 6.00% | ~12,286 |
+| Are Ya Chicken? | 6.00% | ~12,286 |
+| Were-verpowered | 5.00% | ~10,239 |
+| Mad Cow Disease | 5.00% | ~10,239 |
+| Friendly Imps | 5.00% | ~10,239 |
+| Seeking Allies | 4.00% | ~8,191 |
+| Pure Energy | 4.00% | ~8,191 |
 | A Persistent Buzzing | 3.00% | ~6,143 |
 | Terror in the Dark | 3.00% | ~6,143 |
 | Unearthed Evil | 3.00% | ~6,143 |
 | The Crumbling Temple | 3.00% | ~6,143 |
 | The Contagious Curse | 3.00% | ~6,143 |
-| Beast Mode | 2.00% | ~4,095 |
-| Low Initiative | 2.00% | ~4,095 |
-| A Mysterious Summons | 2.00% | ~4,095 |
-| Useless Allies | 2.00% | ~4,095 |
-| Exploring Port Nyanzaru | 2.00% | ~4,095 |
-| Running of the Saurs | 2.00% | ~4,095 |
-| Escort to Waterdeep | 2.00% | ~4,095 |
-| Waterdeep Detours | 2.00% | ~4,095 |
-| Building Trust | 1.00% | ~2,048 |
+| Beast Mode | 2.00% | ~4,096 |
+| Low Initiative | 2.00% | ~4,096 |
+| A Mysterious Summons | 2.00% | ~4,096 |
+| Building Trust | 2.00% | ~4,096 |
+| Useless Allies | 2.00% | ~4,096 |
+| Exploring Port Nyanzaru | 2.00% | ~4,096 |
+| Running of the Saurs | 2.00% | ~4,096 |
+| Escort to Waterdeep | 2.00% | ~4,096 |
+| Waterdeep Detours | 2.00% | ~4,096 |
 | March of the Undead | 1.00% | ~2,048 |
 | No Time To Rest | 1.00% | ~2,048 |
 | Invisible Shadows | 1.00% | ~2,048 |
@@ -59,12 +59,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.70% | ~1,433 |
 | Captured! | 0.60% | ~1,229 |
 | A Grand Puzzle | 0.60% | ~1,229 |
+| Tomb of the Nine Gods | 0.60% | ~1,229 |
 | Treasure Hunters | 0.60% | ~1,229 |
 | Nimble Escape | 0.60% | ~1,229 |
 | Fugitives | 0.60% | ~1,229 |
 | Rude Welcome | 0.60% | ~1,229 |
 | The Haunted Jungle | 0.60% | ~1,229 |
-| Tomb of the Nine Gods | 0.50% | ~1,024 |
 | Family Entanglements | 0.50% | ~1,024 |
 | The Immortal Warrior | 0.50% | ~1,024 |
 | The Wyrmheart Mine | 0.50% | ~1,024 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,751 (Ranked 52)  
+Progressed: 204,775 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,6 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
+| 2023-07-03 | 204,775 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,358 (Ranked 37)  

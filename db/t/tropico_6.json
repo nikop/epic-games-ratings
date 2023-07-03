@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3935,
+  "EOS_Progressed": 3936,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5477,6 +5477,11 @@
       "Time": "2023-07-02T19:04:34.6047386+00:00",
       "NumProgressed": 3935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T00:04:29.4664506+00:00",
+      "NumProgressed": 3936,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5496,7 +5501,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -5608,7 +5613,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5792,7 +5797,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5807,15 +5812,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3935,
+      "Progressed": 3936,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:04:53.1258176+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:04:29.4664497+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:01:46.3541055+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:04:53.1258821+00:00"
+  "LastUpdate_Ratings": "2023-07-03T00:00:19.8007039+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:04:29.4665085+00:00"
 }

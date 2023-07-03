@@ -7,18 +7,18 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 38.00% | ~1,116 |
-| Look Over There! | 33.00% | ~969 |
+| Look Over There! | 33.00% | ~970 |
 | Watch Where You Step... | 32.00% | ~940 |
-| Not So Fast... | 31.00% | ~910 |
+| Not So Fast... | 31.00% | ~911 |
 | An Ill Omen | 30.00% | ~881 |
 | Purging Spree | 24.00% | ~705 |
 | Blood for the Blood God! | 19.00% | ~558 |
 | Surgical Excision | 17.00% | ~499 |
 | Friendly Fire | 17.00% | ~499 |
 | Bloodless | 17.00% | ~499 |
-| Honoured Battle-Brother | 12.00% | ~352 |
-| The Emperor Protects | 12.00% | ~352 |
-| A Foul Creche | 12.00% | ~352 |
+| Honoured Battle-Brother | 12.00% | ~353 |
+| The Emperor Protects | 12.00% | ~353 |
+| A Foul Creche | 12.00% | ~353 |
 | Nemesis Master | 11.00% | ~323 |
 | Gunmaster | 11.00% | ~323 |
 | Opportunist | 8.00% | ~235 |
@@ -26,10 +26,10 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 8.00% | ~235 |
 | Hold Your Ground | 6.00% | ~176 |
 | A Gift Spurned | 5.00% | ~147 |
-| Daemonkeeper | 4.00% | ~117 |
-| Corruption Cleanser | 4.00% | ~117 |
-| Mind Like a Fortress | 4.00% | ~117 |
-| Long Distance Call | 4.00% | ~117 |
+| Daemonkeeper | 4.00% | ~118 |
+| Corruption Cleanser | 4.00% | ~118 |
+| Mind Like a Fortress | 4.00% | ~118 |
+| Long Distance Call | 4.00% | ~118 |
 | Harvest No More | 3.00% | ~88 |
 | Junk Banishment | 3.00% | ~88 |
 | Tactical Flexibility | 3.00% | ~88 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,937 (Ranked 149)  
+Progressed: 2,938 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 2,930 | 0 |
 | 2023-07-01 | 2,931 | 0 |
 | 2023-07-02 | 2,937 | 0 |
+| 2023-07-03 | 2,938 | 0 |
 ## Awards
 Max (Character Customization): 212  (Ranked 262)  
 Sum: 426 (Ranked 304)  

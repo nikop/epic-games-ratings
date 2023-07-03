@@ -4690,9 +4690,9 @@
       "Count": 3283
     }
   ],
-  "EOS_Progressed": 204751,
+  "EOS_Progressed": 204775,
   "EOS_Completed": 2025,
-  "EOS_NewPlayers": 34090,
+  "EOS_NewPlayers": 33739,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -12415,6 +12415,11 @@
       "Time": "2023-07-02T23:08:02.8638711+00:00",
       "NumProgressed": 204751,
       "NumCompleted": 2025
+    },
+    {
+      "Time": "2023-07-03T00:06:46.3549628+00:00",
+      "NumProgressed": 204775,
+      "NumCompleted": 2025
     }
   ],
   "TotalAchievements": 503,
@@ -13290,7 +13295,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "objective_completed_1203",
@@ -13530,7 +13535,7 @@
       "Name": "Beast Mode",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_149",
@@ -13610,7 +13615,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_164",
@@ -13618,7 +13623,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_165",
@@ -13648,9 +13653,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2048
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_17",
@@ -13720,9 +13725,9 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1229
     },
     {
       "ID": "objective_completed_185",
@@ -14098,7 +14103,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 28665
+      "UsersEstimate": 28669
     },
     {
       "ID": "objective_completed_34",
@@ -14106,7 +14111,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12285
+      "UsersEstimate": 12286
     },
     {
       "ID": "objective_completed_35",
@@ -14218,7 +14223,7 @@
       "Name": "Seeking Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "objective_completed_390",
@@ -14290,7 +14295,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12285
+      "UsersEstimate": 12286
     },
     {
       "ID": "objective_completed_40",
@@ -14298,7 +14303,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_400",
@@ -14562,7 +14567,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "objective_completed_54",
@@ -14570,7 +14575,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_540",
@@ -14914,7 +14919,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_590",
@@ -15498,7 +15503,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_690",
@@ -15570,7 +15575,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 20475
+      "UsersEstimate": 20478
     },
     {
       "ID": "objective_completed_70",
@@ -15602,7 +15607,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "objective_completed_75",
@@ -15642,7 +15647,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "objective_completed_80",
@@ -16170,7 +16175,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "objective_completed_902",
@@ -16449,21 +16454,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 171025,
+      "Progressed": 171049,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 204751,
+      "Progressed": 204775,
       "Completed": 2025
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-02T22:59:04.3744197+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:08:02.8638704+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:06:46.3549624+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:59:04.3744205+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:08:02.8672192+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:58:30.4250766+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:06:46.3577239+00:00"
 }

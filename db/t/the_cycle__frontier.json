@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
@@ -5696,18 +5696,24 @@
       "Rating": 4.1,
       "NumberOfAwards": 13670,
       "NumberOfAwardsMax": 2425
+    },
+    {
+      "Time": "2023-07-02T23:58:41.9867105+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 13673,
+      "NumberOfAwardsMax": 2428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13670,
-  "NumberOfAwardsMax": 2425,
+  "NumberOfAwards": 13673,
+  "NumberOfAwardsMax": 2428,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2425
+      "Count": 2428
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5757,8 +5763,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-07-02T22:59:18.0497649+00:00",
+  "LastChanged": "2023-07-02T23:58:41.9867104+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:53.3613666+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:59:18.0497658+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:02:38.800319+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:58:41.9867112+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:03:07.4341389+00:00"
 }

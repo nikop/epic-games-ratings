@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~55 |
-| Accessory Unlocked | 83.00% | ~55 |
-| Character Unlocked | 82.00% | ~54 |
-| Homer | 68.00% | ~45 |
-| Settle Down | 67.00% | ~44 |
-| Have a good trip! | 67.00% | ~44 |
-| First Win | 64.00% | ~42 |
-| Kickball Unlocked | 64.00% | ~42 |
-| Butter Fingers | 64.00% | ~42 |
-| Stay Hydrated | 64.00% | ~42 |
+| Hat Unlocked | 84.00% | ~56 |
+| Accessory Unlocked | 84.00% | ~56 |
+| Character Unlocked | 82.00% | ~55 |
+| Homer | 69.00% | ~46 |
+| Settle Down | 67.00% | ~45 |
+| Have a good trip! | 67.00% | ~45 |
+| First Win | 64.00% | ~43 |
+| Kickball Unlocked | 64.00% | ~43 |
+| Butter Fingers | 64.00% | ~43 |
+| Stay Hydrated | 64.00% | ~43 |
 | True Story! | 36.00% | ~24 |
 | Bedroom Secret Spot | 33.00% | ~22 |
-| Kick It | 30.00% | ~20 |
+| Kick It | 31.00% | ~21 |
 | Grand Slam! | 27.00% | ~18 |
-| Have Mercy | 26.00% | ~17 |
-| Save some water for the fishies | 23.00% | ~15 |
+| Have Mercy | 25.00% | ~17 |
+| Save some water for the fishies | 22.00% | ~15 |
 | Spooky | 21.00% | ~14 |
-| Bathroom Secret Spot | 20.00% | ~13 |
-| At least everyone still had fun | 20.00% | ~13 |
-| Classroom Secret Spot | 18.00% | ~12 |
+| Classroom Secret Spot | 19.00% | ~13 |
+| Bathroom Secret Spot | 19.00% | ~13 |
+| At least everyone still had fun | 19.00% | ~13 |
 | Living Room Secret Spot | 15.00% | ~10 |
 | Angry Dad | 15.00% | ~10 |
-| Hi Hungry, I'm Dad | 11.00% | ~7 |
-| Interference | 11.00% | ~7 |
+| Hi Hungry, I'm Dad | 10.00% | ~7 |
+| Interference | 10.00% | ~7 |
 | Angry Mom | 9.00% | ~6 |
-| Just how we drew it up | 8.00% | ~5 |
+| Just how we drew it up | 7.00% | ~5 |
 | Kitchen Secret Spot | 6.00% | ~4 |
 | Found the Secret Formula! | 6.00% | ~4 |
-| Basement Secret Spot | 5.00% | ~3 |
-| You broke it, you bought it | 5.00% | ~3 |
+| Basement Secret Spot | 4.00% | ~3 |
+| You broke it, you bought it | 4.00% | ~3 |
 | Attic Secret Spot | 3.00% | ~2 |
-| Garage Secret Spot | 2.00% | ~1 |
-| Kickball Kup | 2.00% | ~1 |
-| Goooooooooal! | 2.00% | ~1 |
+| Garage Secret Spot | 1.00% | ~1 |
+| Kickball Kup | 1.00% | ~1 |
+| Goooooooooal! | 1.00% | ~1 |
 | Backyard Secret Spot | 0.00% | ~0 |
 | Gamer Room Secret Spot | 0.00% | ~0 |
 | Nice! | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 321)  
+Progressed: 67 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-27 | 63 | 0 |
 | 2023-06-28 | 65 | 0 |
 | 2023-06-29 | 66 | 0 |
+| 2023-07-03 | 67 | 0 |

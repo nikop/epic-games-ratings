@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 850)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,979 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,652 |
-| Loose Ends | 4.00% | ~2,652 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,653 |
+| Loose Ends | 4.00% | ~2,653 |
 | The Batman Family | 3.00% | ~1,989 |
 | Something in the Clay | 3.00% | ~1,989 |
 | To the Victor Go the Spoils | 3.00% | ~1,989 |
@@ -40,8 +40,8 @@ Rating: 4.18 (Ranked 850)
 | Drone You Out | 1.00% | ~663 |
 | Solid Alibi | 1.00% | ~663 |
 | Family Meeting | 0.90% | ~597 |
-| Expert Crime Fighter | 0.80% | ~530 |
-| A Worthy Successor | 0.80% | ~530 |
+| Expert Crime Fighter | 0.80% | ~531 |
+| A Worthy Successor | 0.80% | ~531 |
 | Dressed to Impress | 0.70% | ~464 |
 | A Momentum Occasion | 0.50% | ~332 |
 | Bat Out of Hell | 0.50% | ~332 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 850)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,310 (Ranked 73)  
+Progressed: 66,314 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,9 +141,10 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-06-30 | 66,172 | 99 |
 | 2023-07-01 | 66,242 | 100 |
 | 2023-07-02 | 66,310 | 100 |
+| 2023-07-03 | 66,314 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,407  (Ranked 100)  
-Sum: 3,983 (Ranked 137)  
+Sum: 3,985 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -152,8 +153,8 @@ Diff (max vs sum): -37
 | This game has Quickly Understood Controls | 203 |
 | This game is Relaxing | 201 |
 | This game has Amazing Characters | 199 |
+| This game has Diverse Characters | 195 |
 | This game is Great for Beginners | 193 |
-| This game has Diverse Characters | 193 |
 | This game has Amazing Storytelling | 192 |
 | This game is Highly Recommended | 191 |
 | This game is Great for Quick Sessions | 60 |
@@ -291,4 +292,4 @@ Diff (max vs sum): -37
 | 2023-06-29 | 4.17 | 2,401 | 3,971 |
 | 2023-06-30 | 4.18 | 2,405 | 3,978 |
 | 2023-07-01 | 4.18 | 2,407 | 3,981 |
-| 2023-07-02 | 4.18 | 2,407 | 3,983 |
+| 2023-07-02 | 4.18 | 2,407 | 3,985 |

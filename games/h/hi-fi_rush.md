@@ -5,33 +5,33 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,745 |
-| Start with a bang! | 80.00% | ~2,711 |
+| Feeling the beat! | 81.00% | ~2,746 |
+| Start with a bang! | 80.00% | ~2,712 |
 | You can pet the cat! | 75.00% | ~2,542 |
 | Who put gears in there? | 68.00% | ~2,305 |
-| Cream of the Crop | 63.00% | ~2,135 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,101 |
+| Cream of the Crop | 63.00% | ~2,136 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,102 |
 | You got this, Peppermint? | 57.00% | ~1,932 |
-| Perfect Parry | 55.00% | ~1,864 |
-| Alright, that felt AWESOME! | 55.00% | ~1,864 |
-| I play my own way! | 50.00% | ~1,694 |
+| Perfect Parry | 55.00% | ~1,865 |
+| Alright, that felt AWESOME! | 55.00% | ~1,865 |
+| I play my own way! | 50.00% | ~1,695 |
 | This will cost you big time | 48.00% | ~1,627 |
 | Uh, they were broken when I got here | 47.00% | ~1,593 |
 | Z-shielding's got nothing on us! | 46.00% | ~1,559 |
-| Kissing the sky! | 45.00% | ~1,525 |
-| Does that say weakpoint? | 41.00% | ~1,389 |
+| Kissing the sky! | 45.00% | ~1,526 |
+| Does that say weakpoint? | 41.00% | ~1,390 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,356 |
 | The Negotiator | 39.00% | ~1,322 |
-| You must like calling me in, Chai | 34.00% | ~1,152 |
-| Out in a puff of smoke | 34.00% | ~1,152 |
-| Headliner | 33.00% | ~1,118 |
+| You must like calling me in, Chai | 34.00% | ~1,153 |
+| Out in a puff of smoke | 34.00% | ~1,153 |
+| Headliner | 33.00% | ~1,119 |
 | Time to pay up! | 31.00% | ~1,051 |
 | Who's the boss now? | 29.00% | ~983 |
 | I have to read these things? | 29.00% | ~983 |
 | Perfecter Parry-er! | 29.00% | ~983 |
 | I look cool. But I can look COOLER. | 28.00% | ~949 |
 | There's such a thing as TOO helpful | 22.00% | ~746 |
-| That's a lot of junk metal… | 20.00% | ~678 |
+| That's a lot of junk metal… | 19.00% | ~644 |
 | Well that was a rush! | 18.00% | ~610 |
 | Beat-hit mania | 18.00% | ~610 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~576 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,389 (Ranked 144)  
+Progressed: 3,390 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-06-30 | 3,375 | 5 |
 | 2023-07-01 | 3,381 | 5 |
 | 2023-07-02 | 3,389 | 5 |
+| 2023-07-03 | 3,390 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

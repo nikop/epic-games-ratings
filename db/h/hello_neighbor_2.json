@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2533,
+  "EOS_Progressed": 2534,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.95,
   "EosHistory": [
@@ -1684,6 +1684,11 @@
       "Time": "2023-07-02T21:03:44.093265+00:00",
       "NumProgressed": 2533,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-03T00:04:06.6965447+00:00",
+      "NumProgressed": 2534,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1695,7 +1700,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -1711,7 +1716,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1743,7 +1748,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1806,7 +1811,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2533,
+      "Progressed": 2534,
       "Completed": 100
     }
   ],
@@ -1814,8 +1819,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:04:20.834287+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:04:06.6965439+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:01:55.334583+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:04:20.8343082+00:00"
+  "LastUpdate_Ratings": "2023-07-03T00:00:27.9242312+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:04:06.6965671+00:00"
 }

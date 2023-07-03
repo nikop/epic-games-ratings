@@ -6,29 +6,29 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~64,160 |
-| Where's that freaking Dwarf? | 43.00% | ~48,402 |
-| GG EZ | 27.00% | ~30,392 |
-| Speedrun | 24.00% | ~27,015 |
-| Déjà vu | 18.00% | ~20,261 |
-| DM intervention | 10.00% | ~11,256 |
-| Sock! SOCK! | 9.00% | ~10,131 |
-| A beer, two curses, three companions | 4.00% | ~4,502 |
-| Fireproof Wizardess | 3.00% | ~3,377 |
-| Livin' in a dwarven paradise | 2.00% | ~2,251 |
-| Way of the Wimp | 2.00% | ~2,251 |
-| Res Judicata | 2.00% | ~2,251 |
-| The Woman in the High Castle | 2.00% | ~2,251 |
-| The plot thickens... At the tavern | 1.00% | ~1,126 |
-| Team Building Exercise | 1.00% | ~1,126 |
-| The demons' feast | 0.30% | ~338 |
-| I'd rather... Just... Sing! | 0.30% | ~338 |
-| The number of the counting shalt be 7 | 0.30% | ~338 |
-| I am the night | 0.30% | ~338 |
-| The Great Library | 0.20% | ~225 |
-| Torture and Sensibility | 0.20% | ~225 |
-| Lust and Debauchery | 0.20% | ~225 |
-| Oh, when I'll be level 10... | 0.20% | ~225 |
+| Alt+F4 | 57.00% | ~64,476 |
+| Where's that freaking Dwarf? | 43.00% | ~48,640 |
+| GG EZ | 27.00% | ~30,541 |
+| Speedrun | 24.00% | ~27,148 |
+| Déjà vu | 18.00% | ~20,361 |
+| DM intervention | 10.00% | ~11,312 |
+| Sock! SOCK! | 9.00% | ~10,180 |
+| A beer, two curses, three companions | 4.00% | ~4,525 |
+| Fireproof Wizardess | 3.00% | ~3,393 |
+| Livin' in a dwarven paradise | 2.00% | ~2,262 |
+| Way of the Wimp | 2.00% | ~2,262 |
+| Res Judicata | 2.00% | ~2,262 |
+| The Woman in the High Castle | 2.00% | ~2,262 |
+| The plot thickens... At the tavern | 1.00% | ~1,131 |
+| Team Building Exercise | 1.00% | ~1,131 |
+| The demons' feast | 0.40% | ~452 |
+| I'd rather... Just... Sing! | 0.30% | ~339 |
+| The number of the counting shalt be 7 | 0.30% | ~339 |
+| I am the night | 0.30% | ~339 |
+| The Great Library | 0.20% | ~226 |
+| Torture and Sensibility | 0.20% | ~226 |
+| Lust and Debauchery | 0.20% | ~226 |
+| Oh, when I'll be level 10... | 0.20% | ~226 |
 | Cursed die | 0.10% | ~113 |
 | Holistic Adventuring Party | 0.10% | ~113 |
 | Shiny and Crôm | 0.10% | ~113 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,562 (Ranked 63)  
+Progressed: 113,116 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 56,846 | 0 |
 | 2023-07-01 | 89,113 | 0 |
 | 2023-07-02 | 112,562 | 0 |
+| 2023-07-03 | 113,116 | 0 |
 ## Awards
 Max (Character Customization): 63  (Ranked 380)  
 Sum: 63 (Ranked 437)  

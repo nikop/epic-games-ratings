@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3042,
+  "EOS_Progressed": 3043,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2374,6 +2374,11 @@
       "Time": "2023-07-02T22:01:37.3306268+00:00",
       "NumProgressed": 3042,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-03T00:00:52.3765342+00:00",
+      "NumProgressed": 3043,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2433,7 +2438,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "campaign10",
@@ -2521,7 +2526,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "campaign20",
@@ -2537,7 +2542,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "campaign4",
@@ -2577,7 +2582,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "campaign9",
@@ -2593,7 +2598,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "scenario2",
@@ -2601,7 +2606,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "scenario3",
@@ -2648,7 +2653,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3042,
+      "Progressed": 3043,
       "Completed": 10
     }
   ],
@@ -2656,8 +2661,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:02:30.8320777+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:00:52.3765337+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.6743882+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:01:47.2096774+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:02:30.8321389+00:00"
+  "LastUpdate_Ratings": "2023-07-03T00:00:20.5494491+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:00:52.3765744+00:00"
 }

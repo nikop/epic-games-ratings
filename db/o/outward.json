@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -490,9 +490,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2991,
+  "EOS_Progressed": 2992,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2920,6 +2920,11 @@
       "Time": "2023-07-02T23:05:20.2050645+00:00",
       "NumProgressed": 2991,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-03T00:04:48.0903873+00:00",
+      "NumProgressed": 2992,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 42,
@@ -2963,7 +2968,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "CordonBleu_28",
@@ -2971,7 +2976,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "CrowdPleaser",
@@ -3001,9 +3006,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 688
+      "UsersEstimate": 658
     },
     {
       "ID": "ForAllAurai_8",
@@ -3027,7 +3032,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "HomeSweetHome_25",
@@ -3115,7 +3120,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "ReadyforWinter_42",
@@ -3123,7 +3128,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -3251,7 +3256,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -3266,15 +3271,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2991,
+      "Progressed": 2992,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-06-15T02:06:41.2344856+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:05:20.2050637+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:04:48.0903867+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:13.293484+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:58:39.8573978+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:05:20.2051276+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:58:15.4628247+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:04:48.090437+00:00"
 }

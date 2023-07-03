@@ -4,7 +4,7 @@
   "ProductSlug": "meteoheroes-saving-planet-earth-72d999",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -238,8 +238,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:09.1678318+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:02:32.7747407+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:00:53.7875038+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:18.4561333+00:00",
-  "LastUpdate_Ratings": "2023-07-02T22:57:58.3842072+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:02:32.7747603+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:57:45.738995+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:00:53.7875257+00:00"
 }

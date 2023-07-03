@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-06-29T20:07:00.7405092+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T00:06:27.8654719+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -312,7 +317,7 @@
       "Name": "First Win",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "10",
@@ -320,23 +325,23 @@
       "Name": "Character Unlocked",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "11",
       "SetID": "39djiaj",
       "Name": "Hat Unlocked",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "12",
       "SetID": "39djiaj",
       "Name": "Accessory Unlocked",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "13",
@@ -344,7 +349,7 @@
       "Name": "Kickball Unlocked",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "14",
@@ -352,7 +357,7 @@
       "Name": "Settle Down",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "15",
@@ -366,9 +371,9 @@
       "ID": "16",
       "SetID": "39djiaj",
       "Name": "Kick It",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "17",
@@ -398,9 +403,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "20",
@@ -414,7 +419,7 @@
       "ID": "21",
       "SetID": "39djiaj",
       "Name": "Basement Secret Spot",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -422,9 +427,9 @@
       "ID": "22",
       "SetID": "39djiaj",
       "Name": "Classroom Secret Spot",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "23",
@@ -438,7 +443,7 @@
       "ID": "24",
       "SetID": "39djiaj",
       "Name": "Garage Secret Spot",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -462,7 +467,7 @@
       "ID": "27",
       "SetID": "39djiaj",
       "Name": "You broke it, you bought it",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -470,7 +475,7 @@
       "ID": "28",
       "SetID": "39djiaj",
       "Name": "Hi Hungry, I\u0027m Dad",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -486,7 +491,7 @@
       "ID": "3",
       "SetID": "39djiaj",
       "Name": "Kickball Kup",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -502,7 +507,7 @@
       "ID": "31",
       "SetID": "39djiaj",
       "Name": "Save some water for the fishies",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -526,7 +531,7 @@
       "ID": "34",
       "SetID": "39djiaj",
       "Name": "Have Mercy",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -536,7 +541,7 @@
       "Name": "Butter Fingers",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "37",
@@ -552,13 +557,13 @@
       "Name": "Have a good trip!",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "39",
       "SetID": "39djiaj",
       "Name": "Goooooooooal!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -582,7 +587,7 @@
       "ID": "41",
       "SetID": "39djiaj",
       "Name": "Bathroom Secret Spot",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -598,7 +603,7 @@
       "ID": "6",
       "SetID": "39djiaj",
       "Name": "Interference",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -606,7 +611,7 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -616,13 +621,13 @@
       "Name": "Stay Hydrated",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "9",
       "SetID": "39djiaj",
       "Name": "Just how we drew it up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     }
@@ -631,14 +636,14 @@
     {
       "ID": "39djiaj",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-02T23:07:40.7749629+00:00",
+  "LastChanged_Achievements": "2023-07-03T00:06:27.8654713+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:06.3751989+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:00:24.4831684+00:00",
-  "LastUpdate_Achievements": "2023-07-02T23:07:40.7750006+00:00"
+  "LastUpdate_Ratings": "2023-07-02T23:59:24.1871129+00:00",
+  "LastUpdate_Achievements": "2023-07-03T00:06:27.8655034+00:00"
 }
