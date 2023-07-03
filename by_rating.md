@@ -216,13 +216,13 @@
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 503 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 175 | 281 |
 | 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,390 | 71 |
-| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,660 | 116 |
+| 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,663 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 503 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 503 |
 | 220 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 112,304 | 8 |
 | 220 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 503 |
 | 220 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 503 |
-| 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,493 | 61 |
+| 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,500 | 61 |
 | 220 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.69 | 0 | 503 |
 | 220 | [House Flipper](games/h/house_flipper.md) | 4.69 | 300 | 232 |
 | 220 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 503 |
@@ -631,26 +631,26 @@
 | 619 | [SMITE](games/s/smite.md) | 4.45 | 3,967 | 78 |
 | 619 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 503 |
 | 619 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 503 |
+| 619 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 419 |
 | 619 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 315 |
 | 619 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 503 |
 | 619 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.45 | 0 | 503 |
 | 619 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.45 | 0 | 503 |
 | 619 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 475 |
-| 637 | [Chorus](games/c/chorus.md) | 4.44 | 32 | 445 |
-| 637 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 503 |
-| 637 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 503 |
-| 637 | [ELEX](games/e/elex.md) | 4.44 | 24 | 475 |
-| 637 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 503 |
-| 637 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 503 |
-| 637 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 861 | 151 |
-| 637 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 503 |
-| 637 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 550 | 184 |
-| 637 | [STG Football](games/s/stg_football.md) | 4.44 | 40 | 419 |
-| 637 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 503 |
-| 637 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 333 |
-| 637 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 503 |
-| 637 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 386 |
-| 637 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 503 |
+| 638 | [Chorus](games/c/chorus.md) | 4.44 | 32 | 445 |
+| 638 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 503 |
+| 638 | [Death Coming](games/d/death_coming.md) | 4.44 | 0 | 503 |
+| 638 | [ELEX](games/e/elex.md) | 4.44 | 24 | 475 |
+| 638 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 503 |
+| 638 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 503 |
+| 638 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.44 | 861 | 151 |
+| 638 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 503 |
+| 638 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 550 | 184 |
+| 638 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 503 |
+| 638 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 333 |
+| 638 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 503 |
+| 638 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 386 |
+| 638 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 0 | 503 |
 | 652 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 198 | 269 |
 | 652 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 503 |
 | 652 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.43 | 0 | 503 |
@@ -920,10 +920,10 @@
 | 918 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 503 |
 | 919 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 408 |
 | 919 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.95 | 0 | 503 |
+| 921 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 503 |
 | 921 | [Patron](games/p/patron.md) | 3.94 | 0 | 503 |
-| 922 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 503 |
-| 922 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 353 | 219 |
-| 922 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 503 |
+| 923 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 503 |
+| 923 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 353 | 219 |
 | 925 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 459 |
 | 926 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 326 |
 | 926 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.91 | 0 | 503 |
