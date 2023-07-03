@@ -65,7 +65,7 @@
 | 57 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 84 | 350 |
 | 57 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.83 | 0 | 503 |
 | 65 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 503 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,604 | 58 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,606 | 58 |
 | 65 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 503 |
 | 65 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 503 |
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 441 |
@@ -78,7 +78,7 @@
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,430 | 121 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 27 | 463 |
 | 75 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 503 |
-| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,335 | 51 |
+| 79 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,336 | 51 |
 | 79 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,419 | 99 |
 | 79 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 216 | 258 |
 | 79 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 327 |
@@ -199,7 +199,7 @@
 | 196 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.70 | 0 | 503 |
 | 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 350 | 222 |
 | 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 376 | 212 |
-| 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,474 | 70 |
+| 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,482 | 70 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 373 | 214 |
 | 196 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 503 |
 | 196 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 503 |
@@ -215,7 +215,7 @@
 | 196 | [The Machines Arena](games/t/the_machines_arena.md) | 4.70 | 0 | 503 |
 | 196 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 503 |
 | 196 | [The Witness](games/t/the_witness.md) | 4.70 | 175 | 281 |
-| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,390 | 71 |
+| 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,396 | 71 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,663 | 116 |
 | 196 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 503 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 503 |
@@ -418,7 +418,7 @@
 | 412 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
 | 412 | [System Shock](games/s/system_shock.md) | 4.59 | 0 | 503 |
 | 412 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 293 | 234 |
-| 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 988 | 145 |
+| 412 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 990 | 145 |
 | 412 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 700 | 161 |
 | 412 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 212 | 262 |
 | 412 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
@@ -667,7 +667,7 @@
 | 660 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,160 | 135 |
 | 660 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 660 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 242 |
-| 660 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 140 | 296 |
+| 660 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 141 | 295 |
 | 660 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,172 | 134 |
 | 670 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 503 |
 | 670 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 503 |
