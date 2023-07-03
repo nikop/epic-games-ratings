@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 520)  
+Rating: 4.52 (Ranked 519)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,7 +18,7 @@ Number of Ratings: 368  (23.09.2022)
 | Help an old friend | 22.00% | ~3,009 |
 | Two of us | 20.00% | ~2,735 |
 | Negotiation skills | 19.00% | ~2,599 |
-| Workers' union | 18.00% | ~2,462 |
+| Workers' union | 19.00% | ~2,599 |
 | End of Book Two | 18.00% | ~2,462 |
 | Everything's in order | 17.00% | ~2,325 |
 | Jack was here! | 15.00% | ~2,052 |

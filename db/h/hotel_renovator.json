@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1010,9 +1010,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1099,8 +1099,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-06-25T18:57:43.4817761+00:00",
-  "LastChanged_Achievements": "2023-07-03T22:02:20.7216206+00:00",
+  "LastChanged_Achievements": "2023-07-03T23:02:19.1690382+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.3314421+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:57:13.3691072+00:00",
-  "LastUpdate_Achievements": "2023-07-03T22:02:20.7216452+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:57:24.205296+00:00",
+  "LastUpdate_Achievements": "2023-07-03T23:02:19.1690726+00:00"
 }

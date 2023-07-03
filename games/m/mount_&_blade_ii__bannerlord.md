@@ -7,15 +7,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 36.00% | ~19,768 |
-| Landlord | 31.00% | ~17,022 |
-| Lawmaker | 22.00% | ~12,080 |
-| Bannerlord | 21.00% | ~11,531 |
-| Horde breaker | 21.00% | ~11,531 |
-| Trained | 21.00% | ~11,531 |
+| Landlord | 31.00% | ~17,023 |
+| Lawmaker | 22.00% | ~12,081 |
+| Bannerlord | 21.00% | ~11,532 |
+| Horde breaker | 21.00% | ~11,532 |
+| Trained | 21.00% | ~11,532 |
 | The king is pleased | 17.00% | ~9,335 |
 | King Solomon | 16.00% | ~8,786 |
-| I can do it | 15.00% | ~8,236 |
-| Apple of my eye | 14.00% | ~7,687 |
+| I can do it | 15.00% | ~8,237 |
+| Apple of my eye | 14.00% | ~7,688 |
 | God of the Arena | 12.00% | ~6,589 |
 | Against all odds | 11.00% | ~6,040 |
 | Swordbearer | 10.00% | ~5,491 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,910 (Ranked 82)  
+Progressed: 54,912 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 54,609 | 0 |
 | 2023-07-01 | 54,716 | 0 |
 | 2023-07-02 | 54,836 | 0 |
-| 2023-07-03 | 54,910 | 0 |
+| 2023-07-03 | 54,912 | 0 |
 ## Awards
 Max (Character Customization): 6,754  (Ranked 48)  
-Sum: 13,627 (Ranked 67)  
+Sum: 13,632 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -144,9 +144,9 @@ Diff (max vs sum): -19
 | This game has Diverse Characters | 849 |
 | This game is Highly Recommended | 811 |
 | This game is Extremely Fun | 775 |
-| This game has Amazing Storytelling | 767 |
+| This game has Amazing Storytelling | 769 |
+| This game is Relaxing | 752 |
 | This game has Amazing Characters | 749 |
-| This game is Relaxing | 749 |
 | This game has Quickly Understood Controls | 746 |
 | This game has a Creative Community | 556 |
 | This game has Obsessive Gameplay | 376 |
@@ -323,4 +323,4 @@ Diff (max vs sum): -19
 | 2023-06-30 | 4.74 | - | 6,742 | 13,587 |
 | 2023-07-01 | 4.74 | - | 6,742 | 13,599 |
 | 2023-07-02 | 4.74 | - | 6,745 | 13,615 |
-| 2023-07-03 | 4.74 | - | 6,754 | 13,627 |
+| 2023-07-03 | 4.74 | - | 6,754 | 13,632 |

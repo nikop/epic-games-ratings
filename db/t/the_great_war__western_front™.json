@@ -1290,9 +1290,9 @@
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
       "SetID": "6kcl14p",
       "Name": "La Der des Ders",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -1323,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-07-03T22:04:00.9528255+00:00",
+  "LastChanged_Achievements": "2023-07-03T23:04:19.5431559+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:13.2259894+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:58:25.0420436+00:00",
-  "LastUpdate_Achievements": "2023-07-03T22:04:00.952843+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:58:35.9589946+00:00",
+  "LastUpdate_Achievements": "2023-07-03T23:04:19.5431861+00:00"
 }

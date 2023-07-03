@@ -1,7 +1,7 @@
 # SpellForce 3: Fallen God
 [Store](https://store.epicgames.com/en-US/p/spellforce-3-fallen-god)  
 [View Rawdata](../../db/s/spellforce_3__fallen_god.json)  
-Rating: 4.53 (Ranked 504)  
+Rating: 4.52 (Ranked 519)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.53 (Ranked 504)
 | 2023-04-29 | 4.50 | 0 | 0 |
 | 2023-05-21 | 4.52 | 0 | 0 |
 | 2023-06-22 | 4.53 | 0 | 0 |
+| 2023-07-03 | 4.52 | 0 | 0 |

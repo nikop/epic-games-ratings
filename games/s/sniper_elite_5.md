@@ -5,13 +5,14 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
-| Meeting Resistance | 0.90% | ~29 |
 | The Kraken Sleeps | 0.90% | ~29 |
 | Liberté | 0.80% | ~26 |
 | Sharpshooter | 0.80% | ~26 |
+| Confirming Suspicions | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
 | Resourceful | 0.80% | ~26 |
 | The Kraken Wakes | 0.80% | ~26 |
@@ -19,22 +20,21 @@ Rating: 4.45 (Ranked 619)
 | Climbing the Ladder | 0.70% | ~22 |
 | No Stone Unturned | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
-| Confirming Suspicions | 0.70% | ~22 |
+| As Quiet as a Mouse | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
 | Organ Grinder | 0.60% | ~19 |
-| As Quiet as a Mouse | 0.60% | ~19 |
+| Der Geist | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
-| Der Geist | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Just a Flesh Wound | 0.40% | ~13 |
+| Precision Is Key | 0.40% | ~13 |
 | My Little Friend | 0.40% | ~13 |
 | Explosive Efficiency | 0.40% | ~13 |
+| Close Quarters | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
-| Precision Is Key | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
-| Close Quarters | 0.30% | ~10 |
 | Snake in the Grass | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |

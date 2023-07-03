@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,837 |
-| The Mad Wizard | 11.00% | ~22,613 |
-| Are Ya Chicken? | 7.00% | ~14,390 |
-| The Ring of Regeneration | 6.00% | ~12,335 |
-| Were-verpowered | 5.00% | ~10,279 |
-| Mad Cow Disease | 5.00% | ~10,279 |
-| Friendly Imps | 5.00% | ~10,279 |
-| A Persistent Buzzing | 4.00% | ~8,223 |
-| Seeking Allies | 4.00% | ~8,223 |
-| Pure Energy | 4.00% | ~8,223 |
-| Terror in the Dark | 3.00% | ~6,167 |
-| Unearthed Evil | 3.00% | ~6,167 |
-| The Crumbling Temple | 3.00% | ~6,167 |
-| The Contagious Curse | 3.00% | ~6,167 |
+| The Cursed Farmer | 15.00% | ~30,841 |
+| The Mad Wizard | 11.00% | ~22,617 |
+| Are Ya Chicken? | 7.00% | ~14,392 |
+| The Ring of Regeneration | 6.00% | ~12,336 |
+| Were-verpowered | 5.00% | ~10,280 |
+| Mad Cow Disease | 5.00% | ~10,280 |
+| Friendly Imps | 5.00% | ~10,280 |
+| A Persistent Buzzing | 4.00% | ~8,224 |
+| Seeking Allies | 4.00% | ~8,224 |
+| Pure Energy | 4.00% | ~8,224 |
+| Terror in the Dark | 3.00% | ~6,168 |
+| Unearthed Evil | 3.00% | ~6,168 |
+| The Crumbling Temple | 3.00% | ~6,168 |
+| The Contagious Curse | 3.00% | ~6,168 |
 | Beast Mode | 2.00% | ~4,112 |
 | Low Initiative | 2.00% | ~4,112 |
 | A Mysterious Summons | 2.00% | ~4,112 |
@@ -58,16 +58,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.70% | ~1,439 |
 | Lost in the Deep | 0.70% | ~1,439 |
 | Easily Distracted | 0.70% | ~1,439 |
-| A Grand Puzzle | 0.60% | ~1,233 |
-| Tomb of the Nine Gods | 0.60% | ~1,233 |
-| Treasure Hunters | 0.60% | ~1,233 |
-| Nimble Escape | 0.60% | ~1,233 |
-| Fugitives | 0.60% | ~1,233 |
-| Crowded Streets | 0.60% | ~1,233 |
-| The Darkness Runs Deeper | 0.60% | ~1,233 |
+| A Grand Puzzle | 0.60% | ~1,234 |
+| Tomb of the Nine Gods | 0.60% | ~1,234 |
+| Treasure Hunters | 0.60% | ~1,234 |
+| Nimble Escape | 0.60% | ~1,234 |
+| Fugitives | 0.60% | ~1,234 |
+| Crowded Streets | 0.60% | ~1,234 |
+| The Darkness Runs Deeper | 0.60% | ~1,234 |
 | The Giant's Bane Tavern | 0.60% | ~1,031 |
-| Rude Welcome | 0.60% | ~1,233 |
-| The Haunted Jungle | 0.60% | ~1,233 |
+| Rude Welcome | 0.60% | ~1,234 |
+| The Haunted Jungle | 0.60% | ~1,234 |
 | Family Entanglements | 0.50% | ~1,028 |
 | The Immortal Warrior | 0.50% | ~1,028 |
 | The Wyrmheart Mine | 0.50% | ~1,028 |
@@ -101,8 +101,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.40% | ~822 |
 | Resolve Amongst Chaos | 0.40% | ~822 |
 | Once More Into The Breach | 0.40% | ~822 |
-| The Everlasting Rime | 0.40% | ~687 |
-| Moose Tracks | 0.40% | ~687 |
+| The Everlasting Rime | 0.40% | ~688 |
+| Moose Tracks | 0.40% | ~688 |
 | Expert Opinion | 0.40% | ~822 |
 | Poor Guidance | 0.40% | ~822 |
 | Anti-Dexterous Explorers | 0.30% | ~617 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,577 (Ranked 52)  
-Completed: 2,025 (0.99%) (Ranked 101)  
+Progressed: 205,606 (Ranked 52)  
+Completed: 2,025 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,577 | 2,025 |
+| 2023-07-03 | 205,606 | 2,025 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,374 (Ranked 37)  

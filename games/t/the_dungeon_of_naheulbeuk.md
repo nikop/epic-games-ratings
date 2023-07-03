@@ -6,34 +6,34 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~72,806 |
-| Where's that freaking Dwarf? | 44.00% | ~56,201 |
-| GG EZ | 27.00% | ~34,487 |
-| Speedrun | 24.00% | ~30,655 |
-| Déjà vu | 18.00% | ~22,991 |
-| Sock! SOCK! | 10.00% | ~12,773 |
-| DM intervention | 10.00% | ~12,773 |
-| A beer, two curses, three companions | 5.00% | ~6,386 |
-| Fireproof Wizardess | 4.00% | ~5,109 |
-| Way of the Wimp | 3.00% | ~3,832 |
-| Livin' in a dwarven paradise | 2.00% | ~2,555 |
-| The plot thickens... At the tavern | 2.00% | ~2,555 |
-| Res Judicata | 2.00% | ~2,555 |
-| The Woman in the High Castle | 2.00% | ~2,555 |
-| Team Building Exercise | 1.00% | ~1,277 |
-| The demons' feast | 0.50% | ~639 |
-| I am the night | 0.40% | ~511 |
-| The Great Library | 0.30% | ~383 |
-| I'd rather... Just... Sing! | 0.30% | ~383 |
-| The number of the counting shalt be 7 | 0.30% | ~383 |
-| Oh, when I'll be level 10... | 0.30% | ~383 |
-| Shiny and Crôm | 0.20% | ~255 |
-| Torture and Sensibility | 0.20% | ~255 |
-| Dwarf Fortress | 0.20% | ~255 |
-| Lëgal Legend | 0.20% | ~255 |
-| Lust and Debauchery | 0.20% | ~255 |
-| The Ranger of Chaos | 0.20% | ~255 |
-| Thieves' Guild Accreditation | 0.20% | ~255 |
+| Alt+F4 | 57.00% | ~73,092 |
+| Where's that freaking Dwarf? | 44.00% | ~56,422 |
+| GG EZ | 27.00% | ~34,622 |
+| Speedrun | 24.00% | ~30,775 |
+| Déjà vu | 18.00% | ~23,082 |
+| Sock! SOCK! | 10.00% | ~12,823 |
+| DM intervention | 10.00% | ~12,823 |
+| A beer, two curses, three companions | 5.00% | ~6,412 |
+| Fireproof Wizardess | 4.00% | ~5,129 |
+| Way of the Wimp | 3.00% | ~3,847 |
+| Livin' in a dwarven paradise | 2.00% | ~2,565 |
+| The plot thickens... At the tavern | 2.00% | ~2,565 |
+| Res Judicata | 2.00% | ~2,565 |
+| The Woman in the High Castle | 2.00% | ~2,565 |
+| Team Building Exercise | 1.00% | ~1,282 |
+| The demons' feast | 0.50% | ~641 |
+| I am the night | 0.40% | ~513 |
+| The Great Library | 0.30% | ~385 |
+| I'd rather... Just... Sing! | 0.30% | ~385 |
+| The number of the counting shalt be 7 | 0.30% | ~385 |
+| Oh, when I'll be level 10... | 0.30% | ~385 |
+| Shiny and Crôm | 0.20% | ~256 |
+| Torture and Sensibility | 0.20% | ~256 |
+| Dwarf Fortress | 0.20% | ~256 |
+| Lëgal Legend | 0.20% | ~256 |
+| Lust and Debauchery | 0.20% | ~256 |
+| The Ranger of Chaos | 0.20% | ~256 |
+| Thieves' Guild Accreditation | 0.20% | ~256 |
 | Cursed die | 0.10% | ~128 |
 | Holistic Adventuring Party | 0.10% | ~128 |
 | Scholar of the Lands of Fangh | 0.10% | ~128 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,729 (Ranked 60)  
+Progressed: 128,231 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 56,846 | 0 |
 | 2023-07-01 | 89,113 | 0 |
 | 2023-07-02 | 112,562 | 0 |
-| 2023-07-03 | 127,729 | 0 |
+| 2023-07-03 | 128,231 | 0 |
 ## Awards
 Max (Character Customization): 64  (Ranked 378)  
 Sum: 64 (Ranked 436)  

@@ -21,11 +21,11 @@ Rating: 4.19 (Ranked 843)
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | Crash Site | 0.90% | ~141 |
 | Full Circle | 0.90% | ~141 |
+| Terminated | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | What Lies Beneath | 0.80% | ~125 |
 | Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
-| Terminated | 0.70% | ~109 |
 | The Commonality | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
 | Desperate Times | 0.70% | ~109 |

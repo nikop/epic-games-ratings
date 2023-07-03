@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3043,
+  "EOS_Progressed": 3044,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2379,6 +2379,11 @@
       "Time": "2023-07-03T00:00:52.3765342+00:00",
       "NumProgressed": 3043,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-03T23:00:25.4841124+00:00",
+      "NumProgressed": 3044,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2438,7 +2443,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "campaign10",
@@ -2470,7 +2475,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "campaign14",
@@ -2494,7 +2499,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "campaign17",
@@ -2526,7 +2531,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "campaign20",
@@ -2542,7 +2547,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "campaign4",
@@ -2550,7 +2555,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "campaign5",
@@ -2566,7 +2571,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "campaign7",
@@ -2653,7 +2658,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3043,
+      "Progressed": 3044,
       "Completed": 10
     }
   ],
@@ -2661,8 +2666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-03T22:00:15.8315308+00:00",
+  "LastChanged_Achievements": "2023-07-03T23:00:25.4841115+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.6743882+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:59:52.8739794+00:00",
-  "LastUpdate_Achievements": "2023-07-03T22:00:15.8316014+00:00"
+  "LastUpdate_Ratings": "2023-07-03T23:00:01.4436557+00:00",
+  "LastUpdate_Achievements": "2023-07-03T23:00:25.484159+00:00"
 }

@@ -1329,9 +1329,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1345,9 +1345,9 @@
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -1401,9 +1401,9 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 384
     }
   ],
   "AchievementSets": [
@@ -1418,8 +1418,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-03T22:02:25.9435748+00:00",
+  "LastChanged_Achievements": "2023-07-03T23:02:24.496755+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.5474745+00:00",
-  "LastUpdate_Ratings": "2023-07-03T21:57:31.0181164+00:00",
-  "LastUpdate_Achievements": "2023-07-03T22:02:25.9436003+00:00"
+  "LastUpdate_Ratings": "2023-07-03T22:57:43.0911979+00:00",
+  "LastUpdate_Achievements": "2023-07-03T23:02:24.4967812+00:00"
 }

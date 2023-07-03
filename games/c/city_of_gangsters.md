@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,538 |
-| Copacetic Coordination | 16.00% | ~52,361 |
+| Corner Clout | 46.00% | ~150,540 |
+| Copacetic Coordination | 16.00% | ~52,362 |
 | Fronting the Money | 14.00% | ~45,816 |
 | The Dawn of Automation | 14.00% | ~45,816 |
 | Extraordinary Logistics | 14.00% | ~45,816 |
-| Dirty Money | 13.00% | ~42,543 |
-| Family First | 13.00% | ~42,543 |
+| Dirty Money | 13.00% | ~42,544 |
+| Family First | 13.00% | ~42,544 |
 | Cleaning House | 12.00% | ~39,271 |
 | Room in the Back | 12.00% | ~39,271 |
-| Booze Baron | 11.00% | ~35,998 |
+| Booze Baron | 11.00% | ~35,999 |
 | Beating the Heat | 10.00% | ~32,726 |
 | Friends on the Force | 10.00% | ~32,726 |
 | Neighborhood Watch | 10.00% | ~32,726 |
-| Core Corps | 8.00% | ~26,180 |
+| Core Corps | 8.00% | ~26,181 |
 | Sizeable Stash | 7.00% | ~22,908 |
 | Street Fighter | 7.00% | ~22,908 |
 | Friendly Gestures | 7.00% | ~22,908 |
 | People Person | 7.00% | ~22,908 |
-| Liquor Lord | 6.00% | ~19,635 |
-| Safety in Numbers | 6.00% | ~19,635 |
-| Show ‘em the Sugar | 6.00% | ~19,635 |
-| Killing Them Softly | 6.00% | ~19,635 |
+| Liquor Lord | 6.00% | ~19,636 |
+| Safety in Numbers | 6.00% | ~19,636 |
+| Show ‘em the Sugar | 6.00% | ~19,636 |
+| Killing Them Softly | 6.00% | ~19,636 |
 | Street Knowledge | 5.00% | ~16,363 |
 | Oh Captain | 5.00% | ~16,363 |
 | Branching Out | 5.00% | ~16,363 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 800)
 | High Pillow | 0.10% | ~327 |
 | Station Master | 0.10% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,256 (Ranked 40)  
+Progressed: 327,260 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 5 (0.00%) (Ranked 232)
 | 2023-06-30 | 326,501 | 5 |
 | 2023-07-01 | 326,749 | 5 |
 | 2023-07-02 | 327,037 | 5 |
-| 2023-07-03 | 327,256 | 5 |
+| 2023-07-03 | 327,260 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 115 (Ranked 401)  
