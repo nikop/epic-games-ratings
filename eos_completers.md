@@ -6,9 +6,9 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 20.99% |
-| 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
-| 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
+| 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
+| 9 | [Volley Pals](games/v/volley_pals.md) | 20.73% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.79% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.84% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -42,7 +42,7 @@
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.38% |
-| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.95% |
+| 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.76% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
@@ -54,7 +54,7 @@
 | 52 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
-| 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.09% |
+| 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
