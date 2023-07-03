@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13671,
+  "EOS_Progressed": 13672,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5399,6 +5399,11 @@
       "Time": "2023-07-03T13:24:58.8915774+00:00",
       "NumProgressed": 13671,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-03T14:06:47.8702911+00:00",
+      "NumProgressed": 13672,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5490,7 +5495,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "tpote_achievement_2",
@@ -5586,7 +5591,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "tpote_achievement_30",
@@ -5674,7 +5679,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "tpote_achievement_40",
@@ -5737,15 +5742,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13671,
+      "Progressed": 13672,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-03T13:24:58.8915769+00:00",
+  "LastChanged_Achievements": "2023-07-03T14:06:47.8702908+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:18:59.4909472+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:24:58.8916421+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:00:44.907485+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:06:47.870358+00:00"
 }

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 844)  
+Rating: 4.19 (Ranked 843)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,10 +13,10 @@ Rating: 4.19 (Ranked 844)
 | You Need a Gun | 0.90% | ~141 |
 | Flesh Wound | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
+| Float Like A Butterfly | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | I Do Belong Here | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
-| Float Like A Butterfly | 0.80% | ~125 |
 | Reforged | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | Without A Paddle | 0.80% | ~125 |

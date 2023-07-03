@@ -8,7 +8,7 @@
 | Side Job | 78.00% | ~104 |
 | Bloodlust | 56.00% | ~74 |
 | Gettin' It Done | 55.00% | ~73 |
-| Feast | 43.00% | ~57 |
+| Feast | 44.00% | ~59 |
 | Attuned | 37.00% | ~49 |
 | Specialist | 34.00% | ~45 |
 | Opulent | 33.00% | ~44 |

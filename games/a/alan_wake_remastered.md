@@ -9,7 +9,7 @@ Number of Ratings: 524  (23.09.2022)
 | Follow the Light | 33.00% | ~18,725 |
 | Let There Be Light | 27.00% | ~15,321 |
 | Float Like a Butterfly | 26.00% | ~14,753 |
-| Nordic Walking | 20.00% | ~11,349 |
+| Nordic Walking | 21.00% | ~11,916 |
 | Bright Falls' Finest | 20.00% | ~11,349 |
 | Under a Thin Layer of Skin | 18.00% | ~10,214 |
 | Paging Mr. Wake | 15.00% | ~8,511 |

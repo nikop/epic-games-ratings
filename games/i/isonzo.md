@@ -8,7 +8,7 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,424 |
 | Tutti Eroi! | 54.00% | ~3,424 |
-| You Shall Not Pass | 52.00% | ~3,297 |
+| You Shall Not Pass | 53.00% | ~3,360 |
 | Avanti Savoia! | 47.00% | ~2,980 |
 | Mamma Mia! | 37.00% | ~2,346 |
 | Conrad von Hotzensocks | 36.00% | ~2,282 |

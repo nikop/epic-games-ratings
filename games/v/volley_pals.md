@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beach | 93.00% | ~75 |
-| Library | 67.00% | ~54 |
-| Space | 51.00% | ~41 |
+| Beach | 93.00% | ~76 |
+| Library | 66.00% | ~54 |
+| Space | 50.00% | ~41 |
 | Haunted Mansion | 44.00% | ~36 |
-| Science Laboratory | 35.00% | ~28 |
+| Science Laboratory | 34.00% | ~28 |
 | Ball Disposal Facility | 28.00% | ~23 |
 | Mecha Wars | 27.00% | ~22 |
 | Sewer | 27.00% | ~22 |
 | Arcade | 27.00% | ~22 |
 | Custom Court | 23.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 309)  
-Completed: 17 (20.99%) (Ranked 7)  
+Progressed: 82 (Ranked 309)  
+Completed: 17 (20.73%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,4 +42,4 @@ Completed: 17 (20.99%) (Ranked 7)
 | 2023-06-30 | 64 | 15 |
 | 2023-07-01 | 69 | 16 |
 | 2023-07-02 | 77 | 17 |
-| 2023-07-03 | 81 | 17 |
+| 2023-07-03 | 82 | 17 |

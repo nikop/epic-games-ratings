@@ -490,9 +490,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-07-03T13:22:30.8726696+00:00",
+  "LastChanged_Achievements": "2023-07-03T14:04:48.3515529+00:00",
   "LastUpdate_AppInfo": "2023-06-27T03:57:08.4419995+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:14:51.2640468+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:22:30.8727182+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:57:20.9793517+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:04:48.3516022+00:00"
 }

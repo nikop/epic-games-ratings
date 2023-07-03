@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -760,9 +760,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2491,
+  "EOS_Progressed": 2492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2935,6 +2935,11 @@
       "Time": "2023-07-02T22:07:05.3169408+00:00",
       "NumProgressed": 2491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T14:06:58.1760348+00:00",
+      "NumProgressed": 2492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3010,7 +3015,7 @@
       "Name": "Fashionista",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -3018,7 +3023,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -3226,7 +3231,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -3250,7 +3255,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -3274,7 +3279,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -3322,22 +3327,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2491,
+      "Progressed": 2492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-01T15:59:39.3363413+00:00",
-  "LastChanged_Achievements": "2023-07-03T13:25:11.2978217+00:00",
+  "LastChanged_Achievements": "2023-07-03T14:06:58.1760344+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:59.8470541+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:17:44.8132955+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:25:11.2978761+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:59:46.0459472+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:06:58.1760909+00:00"
 }

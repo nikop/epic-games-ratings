@@ -14,14 +14,14 @@ Rating: 4.45 (Ranked 619)
 | The Kraken Sleeps | 0.80% | ~26 |
 | Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
+| Gunslinger | 0.70% | ~22 |
 | Sharpshooter | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |
-| Gunslinger | 0.60% | ~19 |
+| Organ Grinder | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
-| Organ Grinder | 0.50% | ~16 |
 | Der Geist | 0.50% | ~16 |
 | As Quiet as a Mouse | 0.50% | ~16 |
 | Brains of the Operation | 0.50% | ~16 |
@@ -43,6 +43,8 @@ Rating: 4.45 (Ranked 619)
 | Road Rage | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
+| If You Go Down To The Woods Today | 0.20% | ~6 |
+| Fight Another Day | 0.20% | ~6 |
 | Strategist | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Rigged to Blow | 0.10% | ~3 |
@@ -60,8 +62,6 @@ Rating: 4.45 (Ranked 619)
 | Führerious Repetition | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
-| If You Go Down To The Woods Today | 0.10% | ~3 |
-| Fight Another Day | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
 | Sink or Swim | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 619)
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,199 (Ranked 145)  
+Progressed: 3,200 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
-| 2023-07-03 | 3,199 | 6 |
+| 2023-07-03 | 3,200 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

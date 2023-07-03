@@ -18,7 +18,7 @@ Rating: 4.38 (Ranked 710)
 | Colonial Barrels | 41.00% | ~1,018 |
 | First Steps Into Madness | 41.00% | ~1,018 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~869 |
-| Harper's Hell | 31.00% | ~769 |
+| Harper's Hell | 32.00% | ~794 |
 | Making a Stand | 30.00% | ~745 |
 | Omelette Du Fromage | 27.00% | ~670 |
 | Recouped Investment | 27.00% | ~670 |
@@ -27,7 +27,7 @@ Rating: 4.38 (Ranked 710)
 | Living Nightmare | 17.00% | ~422 |
 | Stuff Of Nightmares | 14.00% | ~347 |
 | The Darwin Era Was Here | 13.00% | ~323 |
-| Come on, You Wanna Live Forever? | 11.00% | ~273 |
+| Come on, You Wanna Live Forever? | 12.00% | ~298 |
 | Deep Into Insanity | 11.00% | ~273 |
 | The Passenger | 11.00% | ~273 |
 | El Riesgo Siempre Vive | 10.00% | ~248 |

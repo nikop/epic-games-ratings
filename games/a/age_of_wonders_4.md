@@ -37,8 +37,8 @@ Rating: 4.60 (Ranked 389)
 | Eternal Lord | 0.70% | ~34 |
 | God Emperor | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
+| The Goddess of Nature | 0.60% | ~29 |
 | Lord of Chaos | 0.50% | ~25 |
-| The Goddess of Nature | 0.50% | ~25 |
 | Crimson Caldera | 0.50% | ~25 |
 | The Eternal Court | 0.40% | ~20 |
 | Jack of All Tomes | 0.40% | ~20 |
@@ -47,7 +47,7 @@ Rating: 4.60 (Ranked 389)
 | Pruning for Progress | 0.30% | ~15 |
 | Grexolis | 0.30% | ~15 |
 | One for All, All for One | 0.30% | ~15 |
-| Snap Out of It! | 0.10% | ~5 |
+| Snap Out of It! | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 389)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,903 (Ranked 134)  
+Progressed: 4,904 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
 | 2023-07-02 | 4,902 | 4 |
-| 2023-07-03 | 4,903 | 4 |
+| 2023-07-03 | 4,904 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

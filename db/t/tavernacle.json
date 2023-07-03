@@ -4,7 +4,7 @@
   "ProductSlug": "tavernacle-010ae5",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:26:31.3640002+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:16:18.9927986+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:23:49.0030746+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:58:36.8325503+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:05:51.2226998+00:00"
 }

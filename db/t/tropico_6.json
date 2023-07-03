@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -978,9 +978,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3943,
+  "EOS_Progressed": 3944,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5518,6 +5518,11 @@
       "Time": "2023-07-03T12:04:33.6441768+00:00",
       "NumProgressed": 3943,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T14:04:36.5243585+00:00",
+      "NumProgressed": 3944,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5545,7 +5550,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -5625,7 +5630,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5649,7 +5654,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5657,7 +5662,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -5809,7 +5814,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -5833,7 +5838,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -5848,15 +5853,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3943,
+      "Progressed": 3944,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-03T11:00:15.8752644+00:00",
-  "LastChanged_Achievements": "2023-07-03T13:22:16.351722+00:00",
+  "LastChanged_Achievements": "2023-07-03T14:04:36.5243581+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:19:16.0283282+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:22:16.3517797+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:00:58.230482+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:04:36.5244173+00:00"
 }

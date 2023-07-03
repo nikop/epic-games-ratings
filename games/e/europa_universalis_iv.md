@@ -1,21 +1,21 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 220)  
+Rating: 4.69 (Ranked 219)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,835 |
-| That's a Grand Army | 8.00% | ~5,186 |
-| That is mine! | 8.00% | ~5,186 |
-| Victorious! | 8.00% | ~5,186 |
+| Until death do us apart | 9.00% | ~5,836 |
+| That's a Grand Army | 8.00% | ~5,187 |
+| That is mine! | 8.00% | ~5,187 |
+| Victorious! | 8.00% | ~5,187 |
 | Brothers in Arms | 6.00% | ~3,890 |
 | That's a Grand Navy | 6.00% | ~3,890 |
 | Seriously?! | 6.00% | ~3,890 |
-| For the Glory | 5.00% | ~3,241 |
-| Cold War | 4.00% | ~2,593 |
-| True Catholic | 4.00% | ~2,593 |
+| For the Glory | 5.00% | ~3,242 |
+| Cold War | 4.00% | ~2,594 |
+| True Catholic | 4.00% | ~2,594 |
 | Defender of the Faith | 3.00% | ~1,945 |
 | It's all about the money | 3.00% | ~1,945 |
 | Respected | 3.00% | ~1,945 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~648 |
 | The Five Colonies | 1.00% | ~648 |
 | This navy can take it all | 1.00% | ~648 |
-| Isn't this the way to India? | 0.90% | ~583 |
-| Market Control | 0.90% | ~583 |
+| Isn't this the way to India? | 0.90% | ~584 |
+| Market Control | 0.90% | ~584 |
 | Down Under | 0.80% | ~519 |
 | Trustworthy | 0.80% | ~519 |
 | Electable! | 0.70% | ~454 |
@@ -71,17 +71,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.40% | ~259 |
 | The Continuation of Diplomacy | 0.40% | ~259 |
 | Wonderful | 0.40% | ~259 |
-| A Decent Reserve | 0.30% | ~194 |
-| A Pile of Gold | 0.30% | ~194 |
-| Grand Duchy | 0.30% | ~194 |
-| Multiculturalism | 0.30% | ~194 |
-| No Pirates in my Caribbean | 0.30% | ~194 |
-| Not so sad a state... | 0.30% | ~194 |
-| The Chrysanthemum Throne | 0.30% | ~194 |
-| Three Trivial Tributary Tribes | 0.30% | ~194 |
-| Traditional Player | 0.30% | ~194 |
-| Vasa or Wettin? | 0.30% | ~194 |
-| World Discoverer | 0.30% | ~194 |
+| A Decent Reserve | 0.30% | ~195 |
+| A Pile of Gold | 0.30% | ~195 |
+| Grand Duchy | 0.30% | ~195 |
+| Multiculturalism | 0.30% | ~195 |
+| No Pirates in my Caribbean | 0.30% | ~195 |
+| Not so sad a state... | 0.30% | ~195 |
+| The Chrysanthemum Throne | 0.30% | ~195 |
+| Three Trivial Tributary Tribes | 0.30% | ~195 |
+| Traditional Player | 0.30% | ~195 |
+| Vasa or Wettin? | 0.30% | ~195 |
+| World Discoverer | 0.30% | ~195 |
 | A Protected Market | 0.20% | ~130 |
 | AAA Credit | 0.20% | ~130 |
 | An early Reich | 0.20% | ~130 |
@@ -94,6 +94,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Je maintiendrai | 0.20% | ~130 |
 | Magellan’s Voyage | 0.20% | ~130 |
 | Pyramid of Skulls | 0.20% | ~130 |
+| The Power of Three | 0.20% | ~130 |
 | Viva la Revolución! | 0.20% | ~130 |
 | We bled for this | 0.20% | ~130 |
 | The 52 Garhs | 0.10% | ~65 |
@@ -300,7 +301,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The League of Mayapan | 0.10% | ~65 |
 | The Navigator | 0.10% | ~65 |
 | The Ostenders | 0.10% | ~65 |
-| The Power of Three | 0.10% | ~65 |
 | The Re-Reconquista | 0.10% | ~65 |
 | The Rising Sun | 0.10% | ~65 |
 | The Third Way | 0.10% | ~65 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,828 (Ranked 76)  
+Progressed: 64,839 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,10 +435,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
-| 2023-07-03 | 64,828 | 0 |
+| 2023-07-03 | 64,839 | 0 |
 ## Awards
 Max (Educational): 5,500  (Ranked 61)  
-Sum: 45,342 (Ranked 27)  
+Sum: 45,347 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -448,7 +448,7 @@ Diff (max vs sum): 34
 | This game is Extremely Fun | 5,210 |
 | This game has Diverse Characters | 5,170 |
 | This game is Relaxing | 5,091 |
-| This game has Competitive Players | 4,922 |
+| This game has Competitive Players | 4,927 |
 | This game has Amazing Storytelling | 4,660 |
 | This game has Amazing Characters | 4,305 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -622,4 +622,4 @@ Diff (max vs sum): 34
 | 2023-06-30 | 4.69 | - | 5,480 | 45,249 |
 | 2023-07-01 | 4.69 | - | 5,493 | 45,283 |
 | 2023-07-02 | 4.69 | - | 5,493 | 45,317 |
-| 2023-07-03 | 4.69 | - | 5,500 | 45,342 |
+| 2023-07-03 | 4.69 | - | 5,500 | 45,347 |

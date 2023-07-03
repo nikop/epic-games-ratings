@@ -262,7 +262,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4903,
+  "EOS_Progressed": 4904,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
@@ -4832,6 +4832,11 @@
       "Time": "2023-07-03T07:05:54.3294471+00:00",
       "NumProgressed": 4903,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T14:06:02.8970934+00:00",
+      "NumProgressed": 4904,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4849,9 +4854,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "11",
@@ -4937,9 +4942,9 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "21",
@@ -5242,13 +5247,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4903,
+      "Progressed": 4904,
       "Completed": 4758
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4903,
+      "Progressed": 4904,
       "Completed": 4
     }
   ],
@@ -5256,8 +5261,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-03T13:24:03.2444383+00:00",
+  "LastChanged_Achievements": "2023-07-03T14:06:02.8970923+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:18:19.0184267+00:00",
-  "LastUpdate_Achievements": "2023-07-03T13:24:03.244513+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:00:11.8689946+00:00",
+  "LastUpdate_Achievements": "2023-07-03T14:06:02.8972765+00:00"
 }
