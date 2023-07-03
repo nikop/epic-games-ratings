@@ -36,7 +36,7 @@ Number of Ratings: 55,748  (23.09.2022)
 | Run It Back | 6.00% | ~64,866 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,081,096 (Ranked 11)  
-Completed: 31,693 (2.93%) (Ranked 57)  
+Completed: 31,692 (2.93%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,6 +103,7 @@ Completed: 31,693 (2.93%) (Ranked 57)
 | 2023-06-24 | 1,080,668 | 31,690 |
 | 2023-06-25 | 1,080,960 | 31,693 |
 | 2023-06-26 | 1,081,096 | 31,693 |
+| 2023-07-03 | 1,081,096 | 31,692 |
 ## Awards
 Max (Great for Beginners): 4,745  (Ranked 67)  
 Sum: 45,710 (Ranked 26)  

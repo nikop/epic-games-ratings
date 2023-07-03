@@ -6,22 +6,22 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,607 |
-| Man of politics | 35.00% | ~4,786 |
+| Tattletale | 41.00% | ~5,608 |
+| Man of politics | 35.00% | ~4,787 |
 | Friends of sorts | 34.00% | ~4,650 |
 | Yet another secret | 34.00% | ~4,650 |
 | Let there be darkness | 33.00% | ~4,513 |
-| End of Book One | 31.00% | ~4,239 |
+| End of Book One | 31.00% | ~4,240 |
 | Wannabe knight | 24.00% | ~3,282 |
 | Garden of Eden | 24.00% | ~3,282 |
 | Full house | 24.00% | ~3,282 |
-| Help an old friend | 22.00% | ~3,008 |
+| Help an old friend | 22.00% | ~3,009 |
 | Two of us | 20.00% | ~2,735 |
-| Negotiation skills | 19.00% | ~2,598 |
-| Workers' union | 19.00% | ~2,598 |
+| Negotiation skills | 19.00% | ~2,599 |
+| Workers' union | 18.00% | ~2,462 |
 | End of Book Two | 18.00% | ~2,462 |
 | Everything's in order | 17.00% | ~2,325 |
-| Jack was here! | 15.00% | ~2,051 |
+| Jack was here! | 15.00% | ~2,052 |
 | Twist of Fate | 14.00% | ~1,915 |
 | Exterminator | 14.00% | ~1,915 |
 | Whodunnit | 13.00% | ~1,778 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,231 |
 | A cry for help | 8.00% | ~1,094 |
 | Silentium est aureum | 7.00% | ~957 |
-| Rebel without a cause | 6.00% | ~820 |
+| Rebel without a cause | 6.00% | ~821 |
 | Staring contest champion | 5.00% | ~684 |
 | Lone wolf | 5.00% | ~684 |
 | Vox Populi | 5.00% | ~684 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~410 |
 | Boy of mystery | 2.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,675 (Ranked 110)  
+Progressed: 13,677 (Ranked 110)  
 Completed: 104 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 104 (0.76%) (Ranked 110)
 | 2023-06-30 | 13,621 | 103 |
 | 2023-07-01 | 13,636 | 103 |
 | 2023-07-02 | 13,663 | 103 |
-| 2023-07-03 | 13,675 | 104 |
+| 2023-07-03 | 13,677 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

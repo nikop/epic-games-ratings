@@ -4,7 +4,7 @@
   "ProductSlug": "pipe-mania-f5fec0",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-05-01T16:00:30.2294051+00:00",
   "LastChanged": "2023-05-01T16:00:30.2294052+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:07.5957977+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:01:24.2442001+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:06:32.4474202+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:00:27.1528472+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:05:47.3444461+00:00"
 }

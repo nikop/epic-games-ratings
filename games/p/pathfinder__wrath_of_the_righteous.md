@@ -16,12 +16,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Fifth Crusade | 6.00% | ~610 |
 | Embrace of the Abyss | 5.00% | ~508 |
 | Path of the Angel | 5.00% | ~508 |
+| Demonic and Divine | 5.00% | ~508 |
 | Path of the Azata | 4.00% | ~406 |
 | Transformation | 4.00% | ~406 |
 | Great Upstart | 4.00% | ~406 |
 | Voice from Your Dreams | 4.00% | ~406 |
 | All Paths Open | 4.00% | ~406 |
-| Demonic and Divine | 4.00% | ~406 |
 | The Legacy | 3.00% | ~305 |
 | Divide and Rule | 3.00% | ~305 |
 | Mythic Reinforcements | 3.00% | ~305 |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-03 | 10,161 | 0 |
 ## Awards
 Max (Character Customization): 1,671  (Ranked 115)  
-Sum: 6,790 (Ranked 111)  
+Sum: 6,792 (Ranked 111)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): 4
 | This game is Extremely Fun | 640 |
 | This game has Amazing Characters | 620 |
 | This game is Highly Recommended | 620 |
-| This game has Diverse Characters | 604 |
+| This game has Diverse Characters | 606 |
 | This game has Amazing Storytelling | 600 |
 | This game has Challenging Combat | 560 |
 | This game has Quickly Understood Controls | 558 |
@@ -374,4 +374,4 @@ Diff (max vs sum): 4
 | 2023-06-30 | 4.76 | - | 1,670 | 6,785 |
 | 2023-07-01 | 4.76 | - | 1,670 | 6,786 |
 | 2023-07-02 | 4.76 | - | 1,670 | 6,788 |
-| 2023-07-03 | 4.76 | - | 1,671 | 6,790 |
+| 2023-07-03 | 4.76 | - | 1,671 | 6,792 |

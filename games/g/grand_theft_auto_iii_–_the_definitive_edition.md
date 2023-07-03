@@ -1,7 +1,7 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.14 (Ranked 873)  
+Rating: 4.15 (Ranked 867)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.14 (Ranked 873)
 | Liberty City Minute | 16.00% | ~1,104 |
 | Offshore Delivery | 13.00% | ~897 |
 | Dirty Money | 12.00% | ~828 |
+| By a Mile | 10.00% | ~690 |
 | Right-hand Man | 10.00% | ~690 |
-| By a Mile | 9.00% | ~621 |
 | Not So Fast | 9.00% | ~621 |
 | A Gift from the King | 7.00% | ~483 |
 | Full Artillery | 4.00% | ~276 |
@@ -172,3 +172,4 @@ Completed: 40 (0.58%) (Ranked 120)
 | 2023-06-26 | 4.14 | 0 | 0 |
 | 2023-06-29 | 4.15 | 0 | 0 |
 | 2023-07-02 | 4.14 | 0 | 0 |
+| 2023-07-03 | 4.15 | 0 | 0 |

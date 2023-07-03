@@ -28,9 +28,9 @@ Rating: 4.60 (Ranked 388)
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
+| Return of the Wizard King | 0.90% | ~44 |
 | In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
-| Return of the Wizard King | 0.80% | ~39 |
 | Digging for Treasure | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.70% | ~34 |
 | The Creator | 0.70% | ~34 |

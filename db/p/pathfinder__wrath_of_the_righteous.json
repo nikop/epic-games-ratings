@@ -2946,10 +2946,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6790,
       "NumberOfAwardsMax": 1671
+    },
+    {
+      "Time": "2023-07-03T19:58:29.2771917+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6792,
+      "NumberOfAwardsMax": 1671
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6790,
+  "NumberOfAwards": 6792,
   "NumberOfAwardsMax": 1671,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2981,7 +2987,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 604
+      "Count": 606
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8131,9 +8137,9 @@
       "ID": "51_DemonicAndDivine",
       "SetID": "989of5o",
       "Name": "Demonic and Divine",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 508
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -8680,9 +8686,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-03T13:16:48.2549495+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:03:07.2722342+00:00",
+  "LastChanged": "2023-07-03T19:58:29.2771916+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:02:21.0843695+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:58:50.9848055+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:03:07.2725056+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:58:29.2771921+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:02:21.0845376+00:00"
 }

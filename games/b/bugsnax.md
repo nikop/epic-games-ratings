@@ -6,21 +6,21 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,014 |
-| Gone Home | 93.00% | ~25,900 |
+| Everybody Gets One | 97.00% | ~27,015 |
+| Gone Home | 93.00% | ~25,901 |
 | Wonderfalls | 87.00% | ~24,230 |
-| Got to Catch a Few | 77.00% | ~21,444 |
+| Got to Catch a Few | 77.00% | ~21,445 |
 | Double Trapper | 75.00% | ~20,888 |
-| I'm Stuffed | 69.00% | ~19,216 |
-| Got to Catch a Lot | 66.00% | ~18,381 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~16,988 |
+| I'm Stuffed | 69.00% | ~19,217 |
+| Got to Catch a Lot | 66.00% | ~18,382 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~16,989 |
 | In the Arms of the Gramble | 59.00% | ~16,432 |
 | Know Thy Neighbor | 59.00% | ~16,432 |
-| Launch Party | 56.00% | ~15,596 |
-| Perf Dirt | 56.00% | ~15,596 |
-| Vacation's End | 52.00% | ~14,482 |
+| Launch Party | 56.00% | ~15,597 |
+| Perf Dirt | 56.00% | ~15,597 |
+| Vacation's End | 52.00% | ~14,483 |
 | Bossy Bugs | 46.00% | ~12,811 |
-| Survivor | 45.00% | ~12,532 |
+| Survivor | 45.00% | ~12,533 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,976 |
 | Sidetracked | 40.00% | ~11,140 |
 | Film Buff | 38.00% | ~10,583 |
@@ -33,11 +33,11 @@ Number of Ratings: 425  (23.09.2022)
 | Feeding Frenzy | 18.00% | ~5,013 |
 | Clothesline | 16.00% | ~4,456 |
 | Say Cheese! | 15.00% | ~4,178 |
-| Sundae Best | 13.00% | ~3,620 |
+| Sundae Best | 13.00% | ~3,621 |
 | Live Laugh Hut | 8.00% | ~2,228 |
 | Dapper Capper | 6.00% | ~1,671 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,850 (Ranked 95)  
+Progressed: 27,851 (Ranked 95)  
 Completed: 1,298 (4.66%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1,298 (4.66%) (Ranked 40)
 | 2023-06-30 | 27,839 | 1,297 |
 | 2023-07-01 | 27,841 | 1,298 |
 | 2023-07-02 | 27,847 | 1,298 |
-| 2023-07-03 | 27,850 | 1,298 |
+| 2023-07-03 | 27,851 | 1,298 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 425)  
 Sum: 322 (Ranked 330)  

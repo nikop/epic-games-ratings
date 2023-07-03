@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191105,
+  "EOS_Progressed": 191114,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8125,6 +8125,11 @@
       "Time": "2023-07-03T19:06:45.4251755+00:00",
       "NumProgressed": 191105,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T20:05:57.3990616+00:00",
+      "NumProgressed": 191114,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -8136,7 +8141,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15288
+      "UsersEstimate": 15289
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -8144,7 +8149,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 135685
+      "UsersEstimate": 135691
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -8152,7 +8157,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9555
+      "UsersEstimate": 9556
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -8168,7 +8173,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34399
+      "UsersEstimate": 34401
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -8216,7 +8221,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9555
+      "UsersEstimate": 9556
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -8256,14 +8261,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9555
+      "UsersEstimate": 9556
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 191105,
+      "Progressed": 191114,
       "Completed": 4
     }
   ],
@@ -8271,8 +8276,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-01T18:00:42.0601506+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:06:45.425175+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:05:57.3990611+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:50.8758143+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:00:23.6010867+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:06:45.4252493+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:59:41.1303579+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:05:57.3991264+00:00"
 }

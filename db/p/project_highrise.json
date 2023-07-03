@@ -587,9 +587,9 @@
       "ID": "ach_contracts_1",
       "SetID": "b8gh1fi",
       "Name": "Office Bigwigs",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_contracts_2",
@@ -843,9 +843,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_prestige_1",
@@ -979,9 +979,9 @@
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_revs_1",
@@ -1124,8 +1124,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:07:08.7892359+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:06:16.8930237+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.5069988+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:58:28.3776633+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:07:08.7893536+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:58:10.0409213+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:06:16.8931324+00:00"
 }

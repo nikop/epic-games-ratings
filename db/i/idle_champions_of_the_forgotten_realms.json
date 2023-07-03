@@ -4658,10 +4658,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30369,
       "NumberOfAwardsMax": 5000
+    },
+    {
+      "Time": "2023-07-03T19:58:13.3773903+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30373,
+      "NumberOfAwardsMax": 5000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30369,
+  "NumberOfAwards": 30373,
   "NumberOfAwardsMax": 5000,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4669,7 +4675,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4927
+      "Count": 4931
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4708,9 +4714,9 @@
       "Count": 3286
     }
   ],
-  "EOS_Progressed": 205477,
+  "EOS_Progressed": 205511,
   "EOS_Completed": 2025,
-  "EOS_NewPlayers": 26789,
+  "EOS_NewPlayers": 26341,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -12528,6 +12534,11 @@
       "Time": "2023-07-03T19:07:12.476999+00:00",
       "NumProgressed": 205477,
       "NumCompleted": 2025
+    },
+    {
+      "Time": "2023-07-03T20:06:19.3775983+00:00",
+      "NumProgressed": 205511,
+      "NumCompleted": 2025
     }
   ],
   "TotalAchievements": 503,
@@ -13403,7 +13414,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10276
     },
     {
       "ID": "objective_completed_1203",
@@ -13483,7 +13494,7 @@
       "Name": "Anti-Dexterous Explorers",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_126",
@@ -13499,15 +13510,15 @@
       "Name": "Wagon Train",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1644
     },
     {
       "ID": "objective_completed_13",
@@ -13515,7 +13526,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8220
     },
     {
       "ID": "objective_completed_130",
@@ -13523,7 +13534,7 @@
       "Name": "Not Very Charming",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_131",
@@ -13531,7 +13542,7 @@
       "Name": "Lobsterfolk Assault",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_132",
@@ -13651,7 +13662,7 @@
       "Name": "The Forbidden City",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_15",
@@ -13659,7 +13670,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "objective_completed_150",
@@ -13667,7 +13678,7 @@
       "Name": "Periodic Petrification",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_151",
@@ -13683,15 +13694,15 @@
       "Name": "Fall From Grace",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_154",
       "SetID": "cc37lbc",
       "Name": "Captured!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_155",
@@ -13707,7 +13718,7 @@
       "Name": "Double Vision",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_157",
@@ -13715,7 +13726,7 @@
       "Name": "Underground Railroad",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_16",
@@ -13739,7 +13750,7 @@
       "Name": "Street War",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_166",
@@ -13755,7 +13766,7 @@
       "Name": "Vajra\u0027s Guards",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_169",
@@ -13779,7 +13790,7 @@
       "Name": "Wisdom Check",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_171",
@@ -13867,7 +13878,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "objective_completed_20",
@@ -13883,7 +13894,7 @@
       "Name": "The Mists of Ravenloft",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_209",
@@ -13891,7 +13902,7 @@
       "Name": "The Hunt for Owl-y",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_21",
@@ -13907,7 +13918,7 @@
       "Name": "Werewolves in the Mist",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_211",
@@ -13915,7 +13926,7 @@
       "Name": "We\u0027re not in Faer\u00FBn Anymore",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_213",
@@ -13923,7 +13934,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_214",
@@ -14019,7 +14030,7 @@
       "Name": "The Immortal Warrior",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_247",
@@ -14051,7 +14062,7 @@
       "Name": "The Wyrmheart Mine",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_252",
@@ -14067,7 +14078,7 @@
       "Name": "Distribute Your Weight",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_254",
@@ -14083,7 +14094,7 @@
       "Name": "Tower on the Lake",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_263",
@@ -14163,7 +14174,7 @@
       "Name": "House of Darkness",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_281",
@@ -14179,7 +14190,7 @@
       "Name": "Attack on the Manor",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_284",
@@ -14187,7 +14198,7 @@
       "Name": "The Trepidatious Trio",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_285",
@@ -14195,7 +14206,7 @@
       "Name": "Our Time To Shine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_286",
@@ -14211,7 +14222,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30822
+      "UsersEstimate": 30827
     },
     {
       "ID": "objective_completed_34",
@@ -14219,7 +14230,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12329
+      "UsersEstimate": 12331
     },
     {
       "ID": "objective_completed_35",
@@ -14227,7 +14238,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "objective_completed_36",
@@ -14251,7 +14262,7 @@
       "Name": "The Guardian of Orolunga",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_379",
@@ -14267,7 +14278,7 @@
       "Name": "Air\u0027s Getting Pretty Thin",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_381",
@@ -14299,7 +14310,7 @@
       "Name": "A Saurial\u0027s Resolve",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_386",
@@ -14331,7 +14342,7 @@
       "Name": "Seeking Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8220
     },
     {
       "ID": "objective_completed_390",
@@ -14339,7 +14350,7 @@
       "Name": "Class Vacation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_391",
@@ -14395,7 +14406,7 @@
       "Name": "Nimblest Escape",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_4",
@@ -14403,7 +14414,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14383
+      "UsersEstimate": 14386
     },
     {
       "ID": "objective_completed_40",
@@ -14443,15 +14454,15 @@
       "Name": "From The Shadows",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_405",
       "SetID": "cc37lbc",
       "Name": "Spined Nuisances",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_406",
@@ -14507,7 +14518,7 @@
       "Name": "Towering Expectations",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_414",
@@ -14515,7 +14526,7 @@
       "Name": "Guests of the Groom",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_415",
@@ -14523,7 +14534,7 @@
       "Name": "Careful Consideration",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_416",
@@ -14539,7 +14550,7 @@
       "Name": "Hopelessly Lost",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_419",
@@ -14579,7 +14590,7 @@
       "Name": "Enter the Sargauth",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_424",
@@ -14611,7 +14622,7 @@
       "Name": "Who Lurks in Lurkwood",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_429",
@@ -14643,7 +14654,7 @@
       "Name": "Orcs Are Wild",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_434",
@@ -14675,7 +14686,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10276
     },
     {
       "ID": "objective_completed_54",
@@ -14691,7 +14702,7 @@
       "Name": "A Tale of Two Cities",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "objective_completed_541",
@@ -14699,7 +14710,7 @@
       "Name": "A Tale of Two Fiends",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_542",
@@ -14707,7 +14718,7 @@
       "Name": "A Tale of Two Champions",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_543",
@@ -14723,7 +14734,7 @@
       "Name": "The Dead Three",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_546",
@@ -14731,7 +14742,7 @@
       "Name": "Slow and Steady",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_547",
@@ -14763,7 +14774,7 @@
       "Name": "Lair of the Xanathar",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_551",
@@ -14827,7 +14838,7 @@
       "Name": "Crowded Streets",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_560",
@@ -14843,7 +14854,7 @@
       "Name": "Veteran Brigade",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_562",
@@ -14875,7 +14886,7 @@
       "Name": "She\u0027s Harmless!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_567",
@@ -14891,7 +14902,7 @@
       "Name": "Patience is Key",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_570",
@@ -14907,7 +14918,7 @@
       "Name": "Troublesome Prisoner",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_572",
@@ -14931,7 +14942,7 @@
       "Name": "Difficult Terrain",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_576",
@@ -15043,7 +15054,7 @@
       "Name": "Batiri in the Goblin Halls",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_592",
@@ -15067,7 +15078,7 @@
       "Name": "The Nimble Grove",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_597",
@@ -15083,7 +15094,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6165
     },
     {
       "ID": "objective_completed_60",
@@ -15163,7 +15174,7 @@
       "Name": "Market Fluctuations",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_610",
@@ -15179,7 +15190,7 @@
       "Name": "Twice More Into The Breach",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_completed_612",
@@ -15203,7 +15214,7 @@
       "Name": "Wyllowwood",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_616",
@@ -15683,7 +15694,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22602
+      "UsersEstimate": 22606
     },
     {
       "ID": "objective_completed_70",
@@ -15707,7 +15718,7 @@
       "Name": "The Long Haul",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_74",
@@ -15723,7 +15734,7 @@
       "Name": "Lost in the Deep",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_76",
@@ -15731,7 +15742,7 @@
       "Name": "Easily Distracted",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "objective_completed_77",
@@ -15755,7 +15766,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10274
+      "UsersEstimate": 10276
     },
     {
       "ID": "objective_completed_80",
@@ -15827,7 +15838,7 @@
       "Name": "Durable Deep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "objective_completed_810",
@@ -16283,7 +16294,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8220
     },
     {
       "ID": "objective_completed_902",
@@ -16435,7 +16446,7 @@
       "Name": "Overwhelming Force",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "objective_completed_99",
@@ -16562,21 +16573,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 171751,
+      "Progressed": 171785,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 205477,
+      "Progressed": 205511,
       "Completed": 2025
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-03T17:58:59.581248+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:07:12.4769985+00:00",
+  "LastChanged": "2023-07-03T19:58:13.3773902+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:06:19.3775981+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:58:32.0333791+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:07:12.4797609+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:58:13.3773908+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:06:19.3801238+00:00"
 }

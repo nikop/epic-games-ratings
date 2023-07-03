@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 2871,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -3768,9 +3768,9 @@
     }
   ],
   "EOS_Progressed": 1081096,
-  "EOS_Completed": 31693,
+  "EOS_Completed": 31692,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
+  "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
     {
@@ -10907,6 +10907,11 @@
       "Time": "2023-06-26T16:06:37.8643976+00:00",
       "NumProgressed": 1081096,
       "NumCompleted": 31693
+    },
+    {
+      "Time": "2023-07-03T20:05:56.6906127+00:00",
+      "NumProgressed": 1081096,
+      "NumCompleted": 31692
     }
   ],
   "TotalAchievements": 28,
@@ -11142,14 +11147,14 @@
       "ID": "dc21kim",
       "IsBase": true,
       "Progressed": 1081096,
-      "Completed": 31693
+      "Completed": 31692
     }
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2023-06-27T00:00:01.3471397+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:06:44.5389059+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:05:56.6906124+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:11.0414104+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:01:26.1552986+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:06:44.5389824+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:00:28.5761284+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:05:56.6906773+00:00"
 }

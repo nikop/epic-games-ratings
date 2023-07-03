@@ -35,14 +35,14 @@
 | Established Fame | 16.00% | ~37 |
 | Cashflow Chief | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
-| Boutique Benefits | 14.00% | ~32 |
+| Boutique Benefits | 15.00% | ~34 |
 | Terrifically Trashed | 14.00% | ~32 |
 | Thrilled Tenants | 14.00% | ~32 |
 | Smooth Operator | 13.00% | ~30 |
 | 28 Days Later | 12.00% | ~27 |
 | Swimming in Surplus | 12.00% | ~27 |
 | Plaza Plan | 10.00% | ~23 |
-| Master of Puppets | 9.00% | ~21 |
+| Master of Puppets | 10.00% | ~23 |
 | Refined Palates | 9.00% | ~21 |
 | First 100 Days | 8.00% | ~18 |
 | Aestheticly Pleased | 8.00% | ~18 |
@@ -61,8 +61,8 @@
 | Tuned In | 6.00% | ~14 |
 | It's a Gas | 6.00% | ~14 |
 | Baron of Business | 5.00% | ~11 |
+| Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
-| Office Bigwigs | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~7 |
 | Apartment Awareness | 3.00% | ~7 |
 | Loft Life | 3.00% | ~7 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1239,7 +1239,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 22409,
+  "EOS_Progressed": 22410,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -4969,6 +4969,11 @@
       "Time": "2023-07-03T19:06:59.5978094+00:00",
       "NumProgressed": 22409,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-03T20:06:09.030153+00:00",
+      "NumProgressed": 22410,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -5282,30 +5287,30 @@
       "ID": "UnlockHighestUnity",
       "SetID": "3ojhj46",
       "Name": "Color Coordination",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 22409,
+      "Progressed": 22410,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-03T14:59:20.2689107+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:06:59.5978086+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:06:09.0301527+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:09.7977481+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:59:46.7509574+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:06:59.5978806+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:59:12.6684864+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:06:09.0302086+00:00"
 }

@@ -1246,9 +1246,9 @@
       "ID": "MasteryOfWeapons",
       "SetID": "a6c395p",
       "Name": "Mastery of Weapons",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 305
     },
     {
       "ID": "MissionActivateDish",
@@ -1510,8 +1510,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-06-14T02:10:06.2983893+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:07:03.3186598+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:06:11.9625267+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:22.251562+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:00:47.0981976+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:07:03.3187008+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:00:01.3613235+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:06:11.9625694+00:00"
 }

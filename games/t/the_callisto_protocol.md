@@ -26,8 +26,8 @@ Rating: 4.19 (Ranked 843)
 | Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
+| The Commonality | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
-| The Commonality | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
 | One Last Job | 0.50% | ~18 |
 | In Striking Distance | 0.40% | ~62 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,621 (Ranked 106)  
+Progressed: 15,623 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-06-30 | 15,597 | 62 |
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
-| 2023-07-03 | 15,621 | 63 |
+| 2023-07-03 | 15,623 | 63 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 381)  
 Sum: 358 (Ranked 321)  

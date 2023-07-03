@@ -4,7 +4,7 @@
   "ProductSlug": "book-of-demons-2f2501",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T15:30:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-07T20:57:53.3312549+00:00",
   "LastChanged": "2023-04-07T20:57:53.331255+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.4451672+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:58:41.3684463+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:04:09.9421691+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:58:19.5364685+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:03:41.8769029+00:00"
 }

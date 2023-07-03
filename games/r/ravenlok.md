@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~990 |
-| Waff! | 94.00% | ~969 |
-| Into the Barn | 87.00% | ~897 |
-| A Prophecy | 85.00% | ~876 |
+| Once Upon a Time | 96.00% | ~991 |
+| Waff! | 94.00% | ~970 |
+| Into the Barn | 87.00% | ~898 |
+| A Prophecy | 85.00% | ~877 |
 | Sword, Shield, Fight! | 76.00% | ~784 |
-| A Grand Visit | 72.00% | ~742 |
-| Vibing | 62.00% | ~639 |
-| Fun Guy | 62.00% | ~639 |
-| Tragic Brave | 53.00% | ~546 |
+| A Grand Visit | 72.00% | ~743 |
+| Vibing | 62.00% | ~640 |
+| Fun Guy | 62.00% | ~640 |
+| Tragic Brave | 53.00% | ~547 |
 | Little Shop | 50.00% | ~516 |
 | Awakened Spirits | 50.00% | ~516 |
-| An Actor! | 46.00% | ~474 |
+| An Actor! | 46.00% | ~475 |
 | Surprise! | 45.00% | ~464 |
 | Curtain Call | 44.00% | ~454 |
 | Piece of Cake | 42.00% | ~433 |
 | Glimmer of Hope | 42.00% | ~433 |
 | Gooey Delight! | 41.00% | ~423 |
 | Teacups for Toppy | 41.00% | ~423 |
-| The Guardian | 40.00% | ~412 |
-| Well Rested | 40.00% | ~412 |
+| The Guardian | 40.00% | ~413 |
+| Well Rested | 40.00% | ~413 |
 | Nightmare Fuel | 39.00% | ~402 |
 | Take Heart | 39.00% | ~402 |
 | Stronger! | 39.00% | ~402 |
 | Ancient Wisdom | 38.00% | ~392 |
 | Frog Facts! | 38.00% | ~392 |
 | All That Glistens | 38.00% | ~392 |
-| Spellbound | 37.00% | ~381 |
-| All Skilled Up! | 37.00% | ~381 |
-| Extinct Again! | 36.00% | ~371 |
-| Bird of Prey | 36.00% | ~371 |
-| Stardust | 36.00% | ~371 |
-| Heartbreaker | 36.00% | ~371 |
-| Kidnapped! | 36.00% | ~371 |
-| It's Pointy! | 36.00% | ~371 |
+| Spellbound | 37.00% | ~382 |
+| All Skilled Up! | 37.00% | ~382 |
+| Extinct Again! | 36.00% | ~372 |
+| Bird of Prey | 36.00% | ~372 |
+| Stardust | 36.00% | ~372 |
+| Heartbreaker | 36.00% | ~372 |
+| Kidnapped! | 36.00% | ~372 |
+| It's Pointy! | 36.00% | ~372 |
 | Trick Question! | 35.00% | ~361 |
 | Pull the Plug | 34.00% | ~351 |
 | Soul Slayer | 34.00% | ~351 |
@@ -55,8 +55,8 @@
 | Dance Master | 9.00% | ~93 |
 | Bombs Away! | 9.00% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,031 (Ranked 185)  
-Completed: 76 (7.37%) (Ranked 26)  
+Progressed: 1,032 (Ranked 185)  
+Completed: 76 (7.36%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 76 (7.37%) (Ranked 26)
 | 2023-06-30 | 1,025 | 75 |
 | 2023-07-01 | 1,028 | 75 |
 | 2023-07-02 | 1,030 | 76 |
-| 2023-07-03 | 1,031 | 76 |
+| 2023-07-03 | 1,032 | 76 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

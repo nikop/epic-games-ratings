@@ -230,9 +230,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BasiliskBroom",
@@ -398,9 +398,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "HastrmanHappy",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:04:36.7467375+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:04:13.6121122+00:00",
   "LastUpdate_AppInfo": "2023-06-27T13:13:41.8960408+00:00",
-  "LastUpdate_Ratings": "2023-07-03T18:57:01.2270259+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:04:36.7467785+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:57:00.7892708+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:04:13.612149+00:00"
 }

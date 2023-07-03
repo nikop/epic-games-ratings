@@ -4909,9 +4909,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "16",
@@ -5276,8 +5276,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-03T19:06:00.5768691+00:00",
+  "LastChanged_Achievements": "2023-07-03T20:05:22.1615186+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:00:07.5461463+00:00",
-  "LastUpdate_Achievements": "2023-07-03T19:06:00.5769541+00:00"
+  "LastUpdate_Ratings": "2023-07-03T19:59:30.2560592+00:00",
+  "LastUpdate_Achievements": "2023-07-03T20:05:22.1615949+00:00"
 }

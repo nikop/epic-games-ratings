@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,254 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 65,077 (Ranked 75)  
-Completed: 1,198 (1.84%) (Ranked 78)  
+Completed: 1,199 (1.84%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,7 +134,7 @@ Completed: 1,198 (1.84%) (Ranked 78)
 | 2023-06-30 | 65,019 | 1,197 |
 | 2023-07-01 | 65,038 | 1,197 |
 | 2023-07-02 | 65,063 | 1,198 |
-| 2023-07-03 | 65,077 | 1,198 |
+| 2023-07-03 | 65,077 | 1,199 |
 ## Awards
 Max (Character Customization): 955  (Ranked 146)  
 Sum: 1,906 (Ranked 201)  

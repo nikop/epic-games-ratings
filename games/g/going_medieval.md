@@ -6,7 +6,7 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 72.00% | ~3,117 |
+| Get A Room | 73.00% | ~3,160 |
 | Having A Field Day | 72.00% | ~3,117 |
 | Reap What You Sow | 69.00% | ~2,987 |
 | The First Day | 66.00% | ~2,857 |
@@ -31,7 +31,7 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 18.00% | ~779 |
 | Oh Deer! | 18.00% | ~779 |
 | All Year Round | 18.00% | ~779 |
-| Nothing Wasted | 11.00% | ~476 |
+| Nothing Wasted | 12.00% | ~519 |
 | Don't Cry Wolf | 11.00% | ~476 |
 | Deerly Departed | 8.00% | ~346 |
 | Where Wolf? | 5.00% | ~216 |

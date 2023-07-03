@@ -29,6 +29,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | K.O. | 0.20% | ~45 |
 | Just the Beginning | 0.20% | ~45 |
 | Jack of all Trades | 0.20% | ~45 |
+| Color Coordination | 0.20% | ~45 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
 | Erebus Purified | 0.10% | ~22 |
@@ -40,13 +41,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | A Glimpse of the Future | 0.10% | ~22 |
 | Wasted Betrayal | 0.10% | ~22 |
 | Had to Do It | 0.10% | ~22 |
-| Color Coordination | 0.10% | ~22 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,409 (Ranked 99)  
+Progressed: 22,410 (Ranked 99)  
 Completed: 35 (0.16%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 35 (0.16%) (Ranked 167)
 | 2023-06-30 | 22,394 | 35 |
 | 2023-07-01 | 22,399 | 35 |
 | 2023-07-02 | 22,407 | 35 |
-| 2023-07-03 | 22,409 | 35 |
+| 2023-07-03 | 22,410 | 35 |
 ## Awards
 Max (Extremely Fun): 218  (Ranked 255)  
 Sum: 1,657 (Ranked 210)  
