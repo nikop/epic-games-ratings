@@ -18,14 +18,14 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.74% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.59% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.42% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.37% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 6.95% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
@@ -62,7 +62,7 @@
 | 60 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.82% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.70% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.69% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
