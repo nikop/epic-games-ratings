@@ -6,7 +6,7 @@
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 22.08% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 21.79% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.79% |
@@ -18,20 +18,20 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.89% |
-| 20 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.81% |
-| 21 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
-| 22 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.84% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
+| 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.38% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.34% |
 | 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.96% |
 | 29 | [Scorn](games/s/scorn.md) | 6.95% |
-| 30 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.67% |
-| 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
-| 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
+| 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -50,7 +50,7 @@
 | 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
-| 51 | [ZZT!](games/z/zzt!.md) | 3.37% |
+| 50 | [ZZT!](games/z/zzt!.md) | 3.40% |
 | 52 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
@@ -59,10 +59,10 @@
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.79% |
+| 60 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.82% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 62 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.72% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.71% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -126,10 +126,10 @@
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
 | 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
-| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.48% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
-| 129 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.46% |
-| 129 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
+| 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
@@ -156,10 +156,10 @@
 | 154 | [Filament](games/f/filament.md) | 0.23% |
 | 155 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 155 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
-| 155 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.22% |
 | 155 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 159 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 158 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.21% |
 | 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
