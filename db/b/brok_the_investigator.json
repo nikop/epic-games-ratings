@@ -193,9 +193,9 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HIGHWAYSURVIVE",
@@ -257,9 +257,9 @@
       "ID": "PILLSLOVER",
       "SetID": "bb2dp",
       "Name": "Sugar Pills Lover",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PUSHY",
@@ -338,8 +338,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:07:11.5252678+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:07:43.1547957+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:53.5260603+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:59:43.7019023+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:07:11.5252845+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:00:05.437477+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:07:43.1548317+00:00"
 }

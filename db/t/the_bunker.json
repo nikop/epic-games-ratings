@@ -181,41 +181,41 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "The Routine",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "CHAPTER_04_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Failure",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CHAPTER_05_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Replace Fuse",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
@@ -293,25 +293,25 @@
       "ID": "PEG_COMMISSIONER",
       "SetID": "bho0i1h",
       "Name": "Commissioner",
-      "Percentage": 48,
-      "XP": 10,
-      "UsersEstimate": 52
-    },
-    {
-      "ID": "PEG_DOCTOR",
-      "SetID": "bho0i1h",
-      "Name": "Doctor",
       "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 53
     },
     {
+      "ID": "PEG_DOCTOR",
+      "SetID": "bho0i1h",
+      "Name": "Doctor",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 54
+    },
+    {
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PEG_GENERAL",
@@ -325,9 +325,9 @@
       "ID": "PEG_MOTHER",
       "SetID": "bho0i1h",
       "Name": "Mother",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PEG_NURSE",
@@ -341,17 +341,17 @@
       "ID": "PEG_SAM",
       "SetID": "bho0i1h",
       "Name": "Sam",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "STAY",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:02:30.5181776+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:03:25.0405248+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:30.351815+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:58:32.9438486+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:02:30.5181944+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:58:52.2656141+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:03:25.0405581+00:00"
 }

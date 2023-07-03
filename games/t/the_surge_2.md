@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 810)  
+Rating: 4.25 (Ranked 803)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -179,3 +179,4 @@ Completed: 10 (0.55%) (Ranked 122)
 | 2023-04-08 | 4.24 | 0 | 0 |
 | 2023-06-11 | 4.25 | 0 | 0 |
 | 2023-06-19 | 4.24 | 0 | 0 |
+| 2023-07-03 | 4.25 | 0 | 0 |

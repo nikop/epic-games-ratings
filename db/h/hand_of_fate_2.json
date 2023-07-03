@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658791,
+  "EOS_Progressed": 658792,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7811,6 +7811,11 @@
       "Time": "2023-07-03T17:07:12.955007+00:00",
       "NumProgressed": 658791,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-03T18:07:44.5361839+00:00",
+      "NumProgressed": 658792,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7846,7 +7851,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39527
+      "UsersEstimate": 39528
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -7974,7 +7979,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111994
+      "UsersEstimate": 111995
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -7982,7 +7987,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39527
+      "UsersEstimate": 39528
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -8205,15 +8210,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658791,
+      "Progressed": 658792,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:07:12.9550066+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:07:44.5361833+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:58:04.852281+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:07:12.9550693+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:58:24.2730508+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:07:44.5362681+00:00"
 }

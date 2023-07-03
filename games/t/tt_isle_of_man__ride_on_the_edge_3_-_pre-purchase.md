@@ -24,12 +24,12 @@
 | Made Mother Proud | 4.00% | ~4 |
 | Winner Winner Chicken Dinner | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
+| Tempus Fugit | 4.00% | ~4 |
 | Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |
 | First Things First | 3.00% | ~3 |
-| Tempus Fugit | 3.00% | ~3 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |

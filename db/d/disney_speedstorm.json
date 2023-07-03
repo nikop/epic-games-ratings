@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -17,7 +17,7 @@
   "Tags": [],
   "EOS_Progressed": 2871,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.82,
   "EosHistory": [
@@ -3194,9 +3194,9 @@
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 85,
-      "UsersEstimate": 345
+      "UsersEstimate": 373
     },
     {
       "ID": "2",
@@ -3312,8 +3312,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:05:20.4441545+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:05:44.0504713+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:59:41.7720396+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:05:20.4441843+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:00:03.3864141+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:05:44.0505401+00:00"
 }

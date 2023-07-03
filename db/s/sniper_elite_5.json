@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,7 +368,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3202,
+  "EOS_Progressed": 3203,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
@@ -4638,6 +4638,11 @@
       "Time": "2023-07-03T16:06:59.7855678+00:00",
       "NumProgressed": 3202,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-03T18:07:52.3849284+00:00",
+      "NumProgressed": 3203,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4887,17 +4892,17 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -4959,9 +4964,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -5039,9 +5044,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -5216,13 +5221,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3153,
+      "Progressed": 3154,
       "Completed": 11
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3202,
+      "Progressed": 3203,
       "Completed": 6
     }
   ],
@@ -5230,8 +5235,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:07:19.9654731+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:07:52.3849274+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:01:37.543499+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:07:19.9655596+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:02:04.367762+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:07:52.3851018+00:00"
 }

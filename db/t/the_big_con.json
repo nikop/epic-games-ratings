@@ -2,7 +2,7 @@
   "ID": "a1f2a672b08f45d28bb6b65eef6ffe41",
   "Name": "The Big Con",
   "ProductSlug": "the-big-con",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
   "LastChanged": "2023-03-31T05:58:35.1494978+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:28.7042768+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:59:24.8917363+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:03:32.0089454+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:59:45.4359022+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:03:58.0163229+00:00"
 }

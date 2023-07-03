@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-07-03T02:27:22.1006842+00:00",
       "NumProgressed": 644,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T18:03:53.0738003+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -505,7 +510,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "SERENITY_NOW",
@@ -545,7 +550,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -577,7 +582,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "The_Warlord",
@@ -623,9 +628,9 @@
       "ID": "Woman on a (side) mission",
       "SetID": "gl7plp",
       "Name": "Woman on a (side) mission",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "You_are_the_One",
@@ -633,7 +638,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "manhole",
@@ -641,7 +646,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "posters",
@@ -664,7 +669,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 0
     }
   ],
@@ -672,8 +677,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-03T09:58:01.4780031+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:03:27.4916859+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:03:53.0737998+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:53.5100026+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:58:00.5531466+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:03:27.4917084+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:58:21.0260286+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:03:53.0738317+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -804,9 +804,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6062,
+  "EOS_Progressed": 6065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3719,6 +3719,11 @@
       "Time": "2023-07-03T17:05:52.1642992+00:00",
       "NumProgressed": 6062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T18:06:18.0419647+00:00",
+      "NumProgressed": 6065,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3762,7 +3767,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -3770,7 +3775,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3821
     },
     {
       "ID": "Control_All_Relics",
@@ -3794,7 +3799,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -3810,7 +3815,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "First_Major_Ally",
@@ -3834,7 +3839,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4789
+      "UsersEstimate": 4791
     },
     {
       "ID": "First_Race_Met",
@@ -3842,7 +3847,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4427
     },
     {
       "ID": "First_Ship_Designed",
@@ -3850,7 +3855,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "First_Stream_Travel",
@@ -3866,7 +3871,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4731
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3944,9 +3949,9 @@
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2123
     },
     {
       "ID": "Play_1000_Hours",
@@ -4034,7 +4039,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -4050,7 +4055,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3760
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -4154,7 +4159,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Win_As_Mimot",
@@ -4186,7 +4191,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Win_As_Torian",
@@ -4202,7 +4207,7 @@
       "Name": "Win as Xeloxi",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Win_As_Yor",
@@ -4218,7 +4223,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4064
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4234,7 +4239,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Win_CustomFaction",
@@ -4258,7 +4263,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Win_Influence",
@@ -4305,15 +4310,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6062,
+      "Progressed": 6065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:05:52.1642988+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:06:18.0419641+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.3493062+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:57:50.7793327+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:05:52.1643723+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:58:09.0402004+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:06:18.0420847+00:00"
 }

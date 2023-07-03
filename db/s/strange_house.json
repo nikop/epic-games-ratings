@@ -2,7 +2,7 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 89,
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:06:53.1843565+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:07:23.7610035+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.6891629+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:58:33.1245712+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:06:53.184359+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:58:52.4527309+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:07:23.7610076+00:00"
 }

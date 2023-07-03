@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2364,7 +2364,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68269,
+  "EOS_Progressed": 68270,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
@@ -10159,6 +10159,11 @@
       "Time": "2023-07-03T17:03:49.3541681+00:00",
       "NumProgressed": 68269,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-03T18:04:16.2460946+00:00",
+      "NumProgressed": 68270,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10170,7 +10175,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34134
+      "UsersEstimate": 34135
     },
     {
       "ID": "ACH_0011",
@@ -10186,7 +10191,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 14336
+      "UsersEstimate": 14337
     },
     {
       "ID": "ACH_0013",
@@ -10210,7 +10215,7 @@
       "Name": "Legend Looter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "ACH_0016",
@@ -10242,7 +10247,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "ACH_0040",
@@ -10314,7 +10319,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44375
+      "UsersEstimate": 44376
     },
     {
       "ID": "ACH_0210",
@@ -10322,7 +10327,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50519
+      "UsersEstimate": 50520
     },
     {
       "ID": "ACH_0211",
@@ -10338,7 +10343,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32086
+      "UsersEstimate": 32087
     },
     {
       "ID": "ACH_0300",
@@ -10386,7 +10391,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23211
+      "UsersEstimate": 23212
     },
     {
       "ID": "ACH_0420",
@@ -10394,7 +10399,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23211
+      "UsersEstimate": 23212
     },
     {
       "ID": "ACH_0430",
@@ -10465,7 +10470,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68269,
+      "Progressed": 68270,
       "Completed": 35
     }
   ],
@@ -10473,8 +10478,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-03T13:18:58.7128101+00:00",
-  "LastChanged_Achievements": "2023-07-03T17:03:49.3541676+00:00",
+  "LastChanged_Achievements": "2023-07-03T18:04:16.2460939+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-03T17:00:56.695971+00:00",
-  "LastUpdate_Achievements": "2023-07-03T17:03:49.3542261+00:00"
+  "LastUpdate_Ratings": "2023-07-03T18:01:23.5378609+00:00",
+  "LastUpdate_Achievements": "2023-07-03T18:04:16.2462309+00:00"
 }

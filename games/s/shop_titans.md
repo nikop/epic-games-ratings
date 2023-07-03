@@ -6,39 +6,39 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,910 |
-| Titan's First Steps | 96.00% | ~126,591 |
-| Basic in Bulk | 91.00% | ~119,998 |
-| Tinkle of Coins | 86.00% | ~113,405 |
+| Sponsored by Argon | 97.00% | ~127,911 |
+| Titan's First Steps | 96.00% | ~126,592 |
+| Basic in Bulk | 91.00% | ~119,999 |
+| Tinkle of Coins | 86.00% | ~113,406 |
 | Disintermediation | 75.00% | ~98,900 |
-| Capitalism Ho! | 74.00% | ~97,581 |
-| It's Free Real Estate | 70.00% | ~92,306 |
+| Capitalism Ho! | 74.00% | ~97,582 |
+| It's Free Real Estate | 70.00% | ~92,307 |
 | Budding Merchant | 66.00% | ~87,032 |
-| Another Satisfied Customer | 61.00% | ~80,438 |
+| Another Satisfied Customer | 61.00% | ~80,439 |
 | One Easy Payment | 60.00% | ~79,120 |
 | Own the Means of Production | 60.00% | ~79,120 |
-| Some Assembly Required | 58.00% | ~76,482 |
+| Some Assembly Required | 58.00% | ~76,483 |
 | Pretty Penny | 57.00% | ~75,164 |
-| One-Armed Bandit | 49.00% | ~64,614 |
-| Through Repetition, Perfection | 46.00% | ~60,658 |
+| One-Armed Bandit | 49.00% | ~64,615 |
+| Through Repetition, Perfection | 46.00% | ~60,659 |
 | The Daily Grind | 45.00% | ~59,340 |
 | Bounty Hunters | 44.00% | ~58,021 |
-| Where it Hurts | 43.00% | ~56,702 |
+| Where it Hurts | 43.00% | ~56,703 |
 | Dungeon Imports | 42.00% | ~55,384 |
 | Flooding the Market | 41.00% | ~54,065 |
 | Demand for Supplies | 38.00% | ~50,109 |
-| Gild-Gotten Goods | 37.00% | ~48,790 |
+| Gild-Gotten Goods | 37.00% | ~48,791 |
 | Did we pack lunch? | 35.00% | ~46,153 |
-| Arcane Industries | 34.00% | ~44,834 |
-| Accomplished Merchant | 31.00% | ~40,878 |
-| On the Path to Greatness | 28.00% | ~36,922 |
-| Ascended | 28.00% | ~36,922 |
-| Gem Expert | 28.00% | ~36,922 |
-| Helping Hand | 28.00% | ~36,922 |
+| Arcane Industries | 34.00% | ~44,835 |
+| Accomplished Merchant | 31.00% | ~40,879 |
+| On the Path to Greatness | 28.00% | ~36,923 |
+| Ascended | 28.00% | ~36,923 |
+| Gem Expert | 28.00% | ~36,923 |
+| Helping Hand | 28.00% | ~36,923 |
 | Blank Page Syndrome | 27.00% | ~35,604 |
 | Efficient Floor Space | 27.00% | ~35,604 |
 | Vanity, Verily | 26.00% | ~34,285 |
-| Research & Development | 25.00% | ~32,966 |
+| Research & Development | 25.00% | ~32,967 |
 | Power of Love | 24.00% | ~31,648 |
 | Flawless Fusion | 24.00% | ~31,648 |
 | Natural 20 | 23.00% | ~30,329 |
@@ -85,8 +85,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 6.00% | ~7,912 |
 | Bountiful Harvest | 6.00% | ~7,912 |
 | All Accounted For | 6.00% | ~7,912 |
-| Proud Paladin | 5.00% | ~6,593 |
 | Precision Engineering | 5.00% | ~6,593 |
+| Proud Paladin | 4.00% | ~5,275 |
 | Constellated | 4.00% | ~5,275 |
 | Industrial Evolution | 4.00% | ~5,275 |
 | Thank You Tom Nook | 4.00% | ~5,275 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~659 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,866 (Ranked 59)  
+Progressed: 131,867 (Ranked 59)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,17 +193,17 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-06-30 | 131,693 | 112 |
 | 2023-07-01 | 131,759 | 113 |
 | 2023-07-02 | 131,824 | 113 |
-| 2023-07-03 | 131,866 | 113 |
+| 2023-07-03 | 131,867 | 113 |
 ## Awards
 Max (Great for Beginners): 4,643  (Ranked 68)  
-Sum: 26,854 (Ranked 46)  
+Sum: 26,855 (Ranked 46)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,643 |
 | This game is Relaxing | 3,975 |
 | This game has Quickly Understood Controls | 3,963 |
-| This game has Diverse Characters | 3,808 |
+| This game has Diverse Characters | 3,809 |
 | This game is Highly Recommended | 3,697 |
 | This game has Easy Combat | 3,644 |
 | This game has Playful Visuals | 3,124 |
@@ -371,4 +371,4 @@ Diff (max vs sum): 22
 | 2023-06-30 | 3.99 | - | 4,639 | 26,834 |
 | 2023-07-01 | 3.99 | - | 4,642 | 26,846 |
 | 2023-07-02 | 3.99 | - | 4,643 | 26,852 |
-| 2023-07-03 | 3.99 | - | 4,643 | 26,854 |
+| 2023-07-03 | 3.99 | - | 4,643 | 26,855 |

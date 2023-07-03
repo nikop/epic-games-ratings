@@ -6,26 +6,26 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,784 |
-| Sweet Sorrow | 18.00% | ~5,892 |
-| Rules the Waves | 17.00% | ~5,565 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,910 |
+| Sink Beneath the Waves | 36.00% | ~11,786 |
+| Sweet Sorrow | 18.00% | ~5,893 |
+| Rules the Waves | 17.00% | ~5,566 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,911 |
 | Rival | 14.00% | ~4,583 |
-| Correspondent | 12.00% | ~3,928 |
-| Lose Your Mind | 12.00% | ~3,928 |
-| Sound Mind? | 12.00% | ~3,928 |
+| Correspondent | 12.00% | ~3,929 |
+| Lose Your Mind | 12.00% | ~3,929 |
+| Sound Mind? | 12.00% | ~3,929 |
 | Salt's Curse | 11.00% | ~3,601 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~3,601 |
 | The Fall of the House | 11.00% | ~3,601 |
 | Shipmate | 11.00% | ~3,601 |
 | One Year at Zee | 8.00% | ~2,619 |
-| Pupil | 7.00% | ~2,291 |
-| Salvager | 7.00% | ~2,291 |
-| Open Your Ears | 7.00% | ~2,291 |
-| The Ascent of Man | 7.00% | ~2,291 |
+| Pupil | 7.00% | ~2,292 |
+| Salvager | 7.00% | ~2,292 |
+| Open Your Ears | 7.00% | ~2,292 |
+| The Ascent of Man | 7.00% | ~2,292 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,637 |
 | Zee Fever | 5.00% | ~1,637 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,309 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,310 |
 | Storm's Curse | 3.00% | ~982 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~982 |
 | Come Closer | 3.00% | ~982 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,734 (Ranked 92)  
+Progressed: 32,739 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 3 (0.01%) (Ranked 220)
 | 2023-06-30 | 32,515 | 3 |
 | 2023-07-01 | 32,599 | 3 |
 | 2023-07-02 | 32,670 | 3 |
-| 2023-07-03 | 32,734 | 3 |
+| 2023-07-03 | 32,739 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

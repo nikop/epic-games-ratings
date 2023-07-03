@@ -7,9 +7,9 @@
 | Introduction completed | 75.00% | ~12 |
 | Chapter 1 | 44.00% | ~7 |
 | Chapter 2 | 44.00% | ~7 |
+| Your Days Are Numbered | 44.00% | ~7 |
 | Chapter 3 | 38.00% | ~6 |
 | Chapter 4 | 38.00% | ~6 |
-| Your Days Are Numbered | 38.00% | ~6 |
 | All Materials | 38.00% | ~6 |
 | Chapter 5 | 31.00% | ~5 |
 | It's In My Nature | 25.00% | ~4 |
@@ -18,10 +18,10 @@
 | Ads Fan | 13.00% | ~2 |
 | Best Student | 13.00% | ~2 |
 | Paw Music | 13.00% | ~2 |
+| Sugar Pills Lover | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |
 | Chipmunk | 6.00% | ~1 |
 | Food Thief | 6.00% | ~1 |
-| Sugar Pills Lover | 6.00% | ~1 |
 | Tramp Saver | 6.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |

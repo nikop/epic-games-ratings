@@ -13,8 +13,8 @@ Number of Ratings: 266  (23.09.2022)
 | Tapped! | 37.00% | ~1,108 |
 | Eureka | 32.00% | ~958 |
 | Scourge Slayer | 26.00% | ~778 |
+| Exceptional Skill | 23.00% | ~689 |
 | Science, Troglodyte! | 23.00% | ~689 |
-| Exceptional Skill | 22.00% | ~659 |
 | Home Sweet Home | 22.00% | ~659 |
 | Encyclopedic! | 20.00% | ~599 |
 | A Fortress Toppled! | 16.00% | ~479 |
