@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -265,7 +265,7 @@
   ],
   "EOS_Progressed": 228,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 11.84,
   "EosHistory": [
@@ -900,9 +900,9 @@
       "ID": "ID_07_SONICCD_TIME_WARP",
       "SetID": "7o8nc5m",
       "Name": "Time Traveler",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "ID_08_SONICCD_WIN_METAL_SONIC",
@@ -948,9 +948,9 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -1044,17 +1044,17 @@
       "ID": "ID_25_PLAY_MIRRORING",
       "SetID": "7o8nc5m",
       "Name": "To the Mirror World",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1116,17 +1116,17 @@
       "ID": "ID_34_SONIC3K_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog 3 \u0026 Knuckles",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ID_35_CLEAR_ALL_TITLE",
       "SetID": "7o8nc5m",
       "Name": "All Clear!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
@@ -1140,8 +1140,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:13.014967+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:23.0164828+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:22:15.9833672+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:13.0150114+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:18:04.8769202+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:23.0165127+00:00"
 }

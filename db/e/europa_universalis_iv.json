@@ -6690,9 +6690,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 64663,
+  "EOS_Progressed": 64668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3267,
+  "EOS_NewPlayers": 3265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14595,6 +14595,11 @@
       "Time": "2023-07-03T02:31:41.0093675+00:00",
       "NumProgressed": 64663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T03:26:47.8386546+00:00",
+      "NumProgressed": 64668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -17020,9 +17025,9 @@
       "ID": "achievement_the_power_of_three",
       "SetID": "8p2n7he",
       "Name": "The Power of Three",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_the_princess_is_in_this_castle",
@@ -17437,21 +17442,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 64663,
+      "Progressed": 64668,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 64663,
+      "Progressed": 64668,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-02T18:57:41.3895339+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:41.0093668+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:47.8386543+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:21:39.590948+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:41.0119202+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:17:31.6585402+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:47.8398607+00:00"
 }

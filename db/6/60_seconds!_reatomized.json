@@ -134,7 +134,7 @@
   "Tags": [],
   "EOS_Progressed": 4510,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2692,9 +2692,9 @@
       "ID": "ACH_DEEDEE",
       "SetID": "5nj1ea3",
       "Name": "Dawkins Residence",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 902
     },
     {
       "ID": "ACH_DEFEND",
@@ -3045,8 +3045,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-02T23:01:58.4635378+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:36.5806958+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:43.7379001+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:25:36.3920057+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:36.5807989+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:20:45.9348591+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:43.737972+00:00"
 }

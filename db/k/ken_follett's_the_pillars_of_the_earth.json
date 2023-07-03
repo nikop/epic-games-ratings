@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13664,
+  "EOS_Progressed": 13665,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5369,6 +5369,11 @@
       "Time": "2023-07-03T00:06:25.1249442+00:00",
       "NumProgressed": 13664,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-03T03:26:26.0239664+00:00",
+      "NumProgressed": 13665,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5396,7 +5401,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "tpote_achievement_12",
@@ -5530,9 +5535,9 @@
       "ID": "tpote_achievement_27",
       "SetID": "3jcf6c3",
       "Name": "Workers\u0027 union",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2460
     },
     {
       "ID": "tpote_achievement_28",
@@ -5644,7 +5649,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "tpote_achievement_40",
@@ -5668,7 +5673,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "tpote_achievement_6",
@@ -5676,7 +5681,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "tpote_achievement_7",
@@ -5684,7 +5689,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "tpote_achievement_8",
@@ -5700,22 +5705,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4782
+      "UsersEstimate": 4783
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13664,
+      "Progressed": 13665,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:16.5780493+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:26.0239659+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:25:08.7087516+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:16.5781469+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:20:25.0837072+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:26.0240355+00:00"
 }

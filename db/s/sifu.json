@@ -4870,10 +4870,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10663,
       "NumberOfAwardsMax": 6226
+    },
+    {
+      "Time": "2023-07-03T03:19:24.5073404+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10664,
+      "NumberOfAwardsMax": 6226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10663,
+  "NumberOfAwards": 10664,
   "NumberOfAwardsMax": 6226,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4935,7 +4941,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4950,7 +4956,7 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710416,
+  "EOS_Progressed": 710417,
   "EOS_Completed": 12803,
   "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 12,
@@ -11940,6 +11946,11 @@
       "Time": "2023-07-03T02:31:33.4688022+00:00",
       "NumProgressed": 710416,
       "NumCompleted": 12803
+    },
+    {
+      "Time": "2023-07-03T03:26:40.7932822+00:00",
+      "NumProgressed": 710417,
+      "NumCompleted": 12803
     }
   ],
   "TotalAchievements": 50,
@@ -12007,7 +12018,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "09_Wude_H3",
@@ -12015,7 +12026,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "10_Wude_H4",
@@ -12023,7 +12034,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "11_Wude_H5",
@@ -12063,7 +12074,7 @@
       "Name": "Detective Story",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "16_Detective_H2",
@@ -12350,21 +12361,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19717,
+      "Progressed": 19718,
       "Completed": 10349
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710416,
+      "Progressed": 710417,
       "Completed": 12803
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-02T20:59:19.332964+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:33.4688015+00:00",
+  "LastChanged": "2023-07-03T03:19:24.5073402+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:40.7932818+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:23:54.5282295+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:33.4689623+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:19:24.5073409+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:40.7933671+00:00"
 }

@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1553,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3772,6 +3772,11 @@
       "Time": "2023-07-03T02:31:32.8009414+00:00",
       "NumProgressed": 1553,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T03:26:39.9865923+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3887,7 +3892,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "dragonmaster",
@@ -3895,7 +3900,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "dragonslayer",
@@ -3951,7 +3956,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "exoticmerchant",
@@ -4031,7 +4036,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "howdoyouturnthison",
@@ -4119,7 +4124,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "missionsdedication",
@@ -4175,7 +4180,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "prestigiousx10",
@@ -4239,7 +4244,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "thealchemist",
@@ -4343,7 +4348,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "warmachinesarmy",
@@ -4375,14 +4380,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1553,
+      "Progressed": 1554,
       "Completed": 1
     }
   ],
@@ -4390,8 +4395,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:32.8009407+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:39.986592+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:22:31.8553577+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:32.801129+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:18:17.0779743+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:39.9866822+00:00"
 }

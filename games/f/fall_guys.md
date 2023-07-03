@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 9.00% | ~3,045,882 |
-| Snowflake | 9.00% | ~3,045,882 |
-| Fall Throttle | 8.00% | ~2,707,451 |
-| Big Bully | 6.00% | ~2,030,588 |
-| Face First | 6.00% | ~2,030,588 |
-| One to Watch | 6.00% | ~2,030,588 |
-| Flawless Victory | 5.00% | ~1,692,157 |
-| Fall Bae | 5.00% | ~1,692,157 |
-| Ahead of the Pack | 5.00% | ~1,692,157 |
-| Stumble Chums | 5.00% | ~1,692,157 |
-| Style Points | 5.00% | ~1,692,157 |
-| Troublemaker | 5.00% | ~1,692,157 |
-| Bargain Bucket | 4.00% | ~1,353,725 |
-| Victory! | 4.00% | ~1,353,725 |
-| Catwalk Model | 2.00% | ~676,863 |
-| Down to the Wire | 2.00% | ~676,863 |
-| Household Name | 2.00% | ~676,863 |
-| Head Turner | 2.00% | ~676,863 |
-| One giant leap | 2.00% | ~676,863 |
-| Quite Dashing | 2.00% | ~676,863 |
-| Squad Goals | 2.00% | ~676,863 |
-| Big Air | 1.00% | ~338,431 |
-| Star of the Show | 1.00% | ~338,431 |
-| Shopping Spree | 1.00% | ~338,431 |
-| Top Tier | 1.00% | ~338,431 |
-| Low Baller | 0.90% | ~304,588 |
-| Mad Trendy | 0.90% | ~304,588 |
-| Veteran Status | 0.50% | ~169,216 |
-| Show Off | 0.50% | ~169,216 |
-| Track Star | 0.40% | ~135,373 |
-| Golden Guy | 0.40% | ~135,373 |
-| Big Tease | 0.20% | ~67,686 |
-| Fall Guy Fashionista | 0.20% | ~67,686 |
-| Infallible | 0.10% | ~33,843 |
+| One small trip | 9.00% | ~3,045,955 |
+| Snowflake | 9.00% | ~3,045,955 |
+| Fall Throttle | 8.00% | ~2,707,515 |
+| Big Bully | 6.00% | ~2,030,636 |
+| Face First | 6.00% | ~2,030,636 |
+| One to Watch | 6.00% | ~2,030,636 |
+| Flawless Victory | 5.00% | ~1,692,197 |
+| Fall Bae | 5.00% | ~1,692,197 |
+| Ahead of the Pack | 5.00% | ~1,692,197 |
+| Stumble Chums | 5.00% | ~1,692,197 |
+| Style Points | 5.00% | ~1,692,197 |
+| Troublemaker | 5.00% | ~1,692,197 |
+| Bargain Bucket | 4.00% | ~1,353,758 |
+| Victory! | 4.00% | ~1,353,758 |
+| Catwalk Model | 2.00% | ~676,879 |
+| Down to the Wire | 2.00% | ~676,879 |
+| Household Name | 2.00% | ~676,879 |
+| Head Turner | 2.00% | ~676,879 |
+| One giant leap | 2.00% | ~676,879 |
+| Quite Dashing | 2.00% | ~676,879 |
+| Squad Goals | 2.00% | ~676,879 |
+| Big Air | 1.00% | ~338,439 |
+| Star of the Show | 1.00% | ~338,439 |
+| Shopping Spree | 1.00% | ~338,439 |
+| Top Tier | 1.00% | ~338,439 |
+| Low Baller | 0.90% | ~304,595 |
+| Mad Trendy | 0.90% | ~304,595 |
+| Veteran Status | 0.50% | ~169,220 |
+| Show Off | 0.50% | ~169,220 |
+| Track Star | 0.40% | ~135,376 |
+| Golden Guy | 0.40% | ~135,376 |
+| Big Tease | 0.20% | ~67,688 |
+| Fall Guy Fashionista | 0.20% | ~67,688 |
+| Infallible | 0.10% | ~33,844 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,843,132 (Ranked 1)  
-Completed: 35,904 (0.11%) (Ranked 178)  
+Progressed: 33,843,941 (Ranked 1)  
+Completed: 35,909 (0.11%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,16 +115,16 @@ Completed: 35,904 (0.11%) (Ranked 178)
 | 2023-06-30 | 33,787,323 | 35,672 |
 | 2023-07-01 | 33,813,794 | 35,785 |
 | 2023-07-02 | 33,840,189 | 35,895 |
-| 2023-07-03 | 33,843,132 | 35,904 |
+| 2023-07-03 | 33,843,941 | 35,909 |
 ## Awards
-Max (Great for Beginners): 143,232  (Ranked 7)  
-Sum: 1,329,288 (Ranked 5)  
+Max (Great for Beginners): 143,320  (Ranked 7)  
+Sum: 1,329,434 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 143,232 |
+| This game is Great for Beginners | 143,320 |
 | This game is Relaxing | 132,419 |
-| This game has Competitive Players | 129,822 |
+| This game has Competitive Players | 129,880 |
 | This game has Quickly Understood Controls | 129,625 |
 | This game is Great for Quick Sessions | 126,496 |
 | This game has Diverse Characters | 123,542 |
@@ -295,3 +295,4 @@ Diff (max vs sum): 2
 | 2023-06-30 | 4.52 | - | 143,043 | 1,328,008 |
 | 2023-07-01 | 4.52 | - | 143,133 | 1,328,656 |
 | 2023-07-02 | 4.52 | - | 143,232 | 1,329,288 |
+| 2023-07-03 | 4.52 | - | 143,320 | 1,329,434 |

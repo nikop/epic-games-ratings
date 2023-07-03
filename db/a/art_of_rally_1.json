@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10166,
+  "EOS_Progressed": 10167,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1131,6 +1131,11 @@
       "Time": "2023-07-02T21:06:11.8839429+00:00",
       "NumProgressed": 10166,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-03T03:26:27.7230447+00:00",
+      "NumProgressed": 10167,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1158,7 +1163,7 @@
       "Name": "absolute drift",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_AIRBORNE",
@@ -1294,7 +1299,7 @@
       "Name": "barely keeping it together",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_COMPLETE_NO_DAMAGE",
@@ -1302,7 +1307,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7828
+      "UsersEstimate": 7829
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1350,7 +1355,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5694
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1366,7 +1371,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9759
+      "UsersEstimate": 9760
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1380,9 +1385,9 @@
       "ID": "ACH_MAX_SPEED_MEDIUM",
       "SetID": "9002fpg",
       "Name": "medium attack",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6100
+      "UsersEstimate": 5999
     },
     {
       "ID": "ACH_NIGHT",
@@ -1485,15 +1490,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10166,
+      "Progressed": 10167,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:18.5709063+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:27.7230443+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:25.5141067+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:21:43.3479637+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:18.5709763+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:17:35.7393033+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:27.7230883+00:00"
 }

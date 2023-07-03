@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Scholar | 25.00% | ~419 |
 | Dishonored | 24.00% | ~402 |
 | The Great Escape | 23.00% | ~386 |
-| That’s All, Folks | 18.00% | ~302 |
+| That’s All, Folks | 19.00% | ~319 |
 | Fallen Star | 16.00% | ~268 |
 | For Balance | 16.00% | ~268 |
 | Here Comes Santa Claus | 16.00% | ~268 |
@@ -127,8 +127,8 @@ Completed: 3 (0.18%) (Ranked 165)
 | 2023-07-02 | 1,677 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 475)  
-Sum: 24 (Ranked 480)  
-Diff (max vs sum): -5  
+Sum: 24 (Ranked 481)  
+Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |

@@ -2308,9 +2308,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 230711,
+  "EOS_Progressed": 230712,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -10048,6 +10048,11 @@
       "Time": "2023-07-03T02:31:30.7466863+00:00",
       "NumProgressed": 230711,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-07-03T03:26:38.2403336+00:00",
+      "NumProgressed": 230712,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 39,
@@ -10107,7 +10112,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 69213
+      "UsersEstimate": 69214
     },
     {
       "ID": "AchievementBoulderID",
@@ -10123,7 +10128,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 209947
+      "UsersEstimate": 209948
     },
     {
       "ID": "AchievementClownID",
@@ -10227,7 +10232,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 131505
+      "UsersEstimate": 131506
     },
     {
       "ID": "AchievementLootBoxID",
@@ -10291,7 +10296,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 170726
+      "UsersEstimate": 170727
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -10331,7 +10336,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 126891
+      "UsersEstimate": 126892
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -10339,7 +10344,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 108434
+      "UsersEstimate": 108435
     },
     {
       "ID": "AchievementTrinketID",
@@ -10355,7 +10360,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149962
+      "UsersEstimate": 149963
     },
     {
       "ID": "AchievementWhaleID",
@@ -10370,7 +10375,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 230711,
+      "Progressed": 230712,
       "Completed": 758
     }
   ],
@@ -10378,8 +10383,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-02T18:01:37.7054287+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:30.7466855+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:38.2403332+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.6866674+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:25:42.5862779+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:30.7468312+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:20:51.8763954+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:38.2404123+00:00"
 }

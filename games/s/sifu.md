@@ -35,10 +35,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.80% | ~5,683 |
 | Muk Yan Master | 0.70% | ~4,973 |
 | Deadly Venom | 0.70% | ~138 |
-| Tiger on Fire | 0.60% | ~4,262 |
-| Source of Flying Daggers | 0.60% | ~4,262 |
-| Iron Money | 0.60% | ~4,262 |
-| Detective Story | 0.60% | ~4,262 |
+| Tiger on Fire | 0.60% | ~4,263 |
+| Source of Flying Daggers | 0.60% | ~4,263 |
+| Iron Money | 0.60% | ~4,263 |
+| Detective Story | 0.60% | ~4,263 |
 | A Touch of Acumen | 0.60% | ~118 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,552 |
 | Prodigal Child | 0.50% | ~3,552 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,416 (Ranked 17)  
+Progressed: 710,417 (Ranked 17)  
 Completed: 12,803 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,10 +131,10 @@ Completed: 12,803 (1.80%) (Ranked 80)
 | 2023-06-30 | 710,341 | 12,799 |
 | 2023-07-01 | 710,383 | 12,802 |
 | 2023-07-02 | 710,413 | 12,803 |
-| 2023-07-03 | 710,416 | 12,803 |
+| 2023-07-03 | 710,417 | 12,803 |
 ## Awards
 Max (Great Boss Battles): 6,226  (Ranked 52)  
-Sum: 10,663 (Ranked 78)  
+Sum: 10,664 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): -26
 | This game has Amazing Storytelling | 511 |
 | This game has Amazing Characters | 497 |
 | This game is Highly Recommended | 497 |
-| This game has Unique Visuals | 472 |
+| This game has Unique Visuals | 473 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 360 |
 | This game has Obsessive Gameplay | 293 |
@@ -320,3 +320,4 @@ Diff (max vs sum): -26
 | 2023-06-30 | 4.82 | - | 6,219 | 10,642 |
 | 2023-07-01 | 4.82 | - | 6,221 | 10,654 |
 | 2023-07-02 | 4.82 | - | 6,226 | 10,663 |
+| 2023-07-03 | 4.82 | - | 6,226 | 10,664 |

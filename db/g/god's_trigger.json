@@ -4,7 +4,7 @@
   "ProductSlug": "gods-trigger",
   "Ranking_Rating": 858,
   "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 476,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 330,
@@ -343,6 +343,6 @@
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
   "LastChanged": "2023-02-11T23:57:23.0503403+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:17.4518937+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:23:17.1505213+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:28:05.059425+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:18:53.9817824+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:23:52.1451298+00:00"
 }

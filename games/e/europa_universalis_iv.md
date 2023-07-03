@@ -94,7 +94,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Je maintiendrai | 0.20% | ~129 |
 | Magellan’s Voyage | 0.20% | ~129 |
 | Pyramid of Skulls | 0.20% | ~129 |
-| The Power of Three | 0.20% | ~129 |
 | Viva la Revolución! | 0.20% | ~129 |
 | We bled for this | 0.20% | ~129 |
 | The 52 Garhs | 0.10% | ~65 |
@@ -301,6 +300,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The League of Mayapan | 0.10% | ~65 |
 | The Navigator | 0.10% | ~65 |
 | The Ostenders | 0.10% | ~65 |
+| The Power of Three | 0.10% | ~65 |
 | The Re-Reconquista | 0.10% | ~65 |
 | The Rising Sun | 0.10% | ~65 |
 | The Third Way | 0.10% | ~65 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,663 (Ranked 76)  
+Progressed: 64,668 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
-| 2023-07-03 | 64,663 | 0 |
+| 2023-07-03 | 64,668 | 0 |
 ## Awards
 Max (Educational): 5,493  (Ranked 61)  
 Sum: 45,317 (Ranked 27)  

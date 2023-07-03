@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245950,
+  "EOS_Progressed": 245952,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7124,6 +7124,11 @@
       "Time": "2023-07-03T02:31:24.3833576+00:00",
       "NumProgressed": 245950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-03T03:26:32.6653379+00:00",
+      "NumProgressed": 245952,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7207,7 +7212,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36892
+      "UsersEstimate": 36893
     },
     {
       "ID": "clearCut",
@@ -7287,7 +7292,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "hereWeGo",
@@ -7311,7 +7316,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130354
+      "UsersEstimate": 130355
     },
     {
       "ID": "indegestible",
@@ -7327,7 +7332,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17216
+      "UsersEstimate": 17217
     },
     {
       "ID": "itsTheFall",
@@ -7335,7 +7340,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63947
+      "UsersEstimate": 63948
     },
     {
       "ID": "justABit",
@@ -7375,7 +7380,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 122975
+      "UsersEstimate": 122976
     },
     {
       "ID": "notScared",
@@ -7407,7 +7412,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17216
+      "UsersEstimate": 17217
     },
     {
       "ID": "rideTheWave",
@@ -7423,7 +7428,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "talentScout",
@@ -7502,7 +7507,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 245950,
+      "Progressed": 245952,
       "Completed": 3
     }
   ],
@@ -7510,8 +7515,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-03T02:31:24.3833569+00:00",
+  "LastChanged_Achievements": "2023-07-03T03:26:32.6653373+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-03T02:24:04.0195825+00:00",
-  "LastUpdate_Achievements": "2023-07-03T02:31:24.3835425+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:19:32.807683+00:00",
+  "LastUpdate_Achievements": "2023-07-03T03:26:32.6654186+00:00"
 }
