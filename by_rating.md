@@ -436,7 +436,7 @@
 | 423 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 209 | 263 |
 | 423 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 503 |
 | 423 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 52 | 392 |
-| 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,204 | 53 |
+| 423 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,207 | 53 |
 | 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 503 |
 | 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,408 | 24 |
 | 440 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 503 |
@@ -669,7 +669,7 @@
 | 661 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 661 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 242 |
 | 661 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 140 | 296 |
-| 661 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,167 | 134 |
+| 661 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,172 | 134 |
 | 671 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 503 |
 | 671 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 503 |
 | 671 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 503 |
