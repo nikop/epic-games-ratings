@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 181)  
 ## Awards
-Max (Challenging Puzzles): 201  (Ranked 266)  
-Sum: 201 (Ranked 357)  
+Max (Challenging Puzzles): 201  (Ranked 267)  
+Sum: 201 (Ranked 358)  
 Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |

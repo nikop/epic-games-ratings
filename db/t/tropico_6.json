@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -978,9 +978,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3941,
+  "EOS_Progressed": 3943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5513,6 +5513,11 @@
       "Time": "2023-07-03T10:04:18.8196022+00:00",
       "NumProgressed": 3941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T12:04:33.6441768+00:00",
+      "NumProgressed": 3943,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5588,7 +5593,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -5612,7 +5617,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -5620,7 +5625,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5676,7 +5681,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5684,7 +5689,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2997
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5708,7 +5713,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5716,7 +5721,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_MYWAYS",
@@ -5780,7 +5785,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5796,7 +5801,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5812,7 +5817,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -5843,15 +5848,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3941,
+      "Progressed": 3943,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-03T11:00:15.8752644+00:00",
-  "LastChanged_Achievements": "2023-07-03T11:03:43.3800851+00:00",
+  "LastChanged_Achievements": "2023-07-03T12:04:33.6441763+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:00:15.8752651+00:00",
-  "LastUpdate_Achievements": "2023-07-03T11:03:43.3801432+00:00"
+  "LastUpdate_Ratings": "2023-07-03T12:01:11.2520357+00:00",
+  "LastUpdate_Achievements": "2023-07-03T12:04:33.6442407+00:00"
 }

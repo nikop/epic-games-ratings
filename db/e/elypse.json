@@ -346,9 +346,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach_BossFinal",
@@ -362,9 +362,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach_BossSlug",
@@ -442,9 +442,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -482,9 +482,9 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -530,9 +530,9 @@
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach_LavaDeath",
@@ -586,9 +586,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -609,8 +609,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-07-03T11:05:35.4926748+00:00",
+  "LastChanged_Achievements": "2023-07-03T12:06:59.7539668+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.4870895+00:00",
-  "LastUpdate_Ratings": "2023-07-03T10:58:07.4151393+00:00",
-  "LastUpdate_Achievements": "2023-07-03T11:05:35.4927032+00:00"
+  "LastUpdate_Ratings": "2023-07-03T11:58:41.0128967+00:00",
+  "LastUpdate_Achievements": "2023-07-03T12:06:59.7539873+00:00"
 }

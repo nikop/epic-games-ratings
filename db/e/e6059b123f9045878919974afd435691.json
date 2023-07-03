@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2023-07-03T11:03:06.2915046+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T12:03:39.3085959+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -350,7 +355,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -374,7 +379,7 @@
       "Name": "Main Course",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -406,7 +411,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -446,7 +451,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -566,7 +571,7 @@
       "Name": "Decakill!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -582,7 +587,7 @@
       "Name": "Do This In Silence",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -590,7 +595,7 @@
       "Name": "And There We Go",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -606,7 +611,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -630,7 +635,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -678,7 +683,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -686,7 +691,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -702,7 +707,7 @@
       "Name": "The Last of Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -797,13 +802,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-03T11:03:06.2915039+00:00",
+  "LastChanged_Achievements": "2023-07-03T12:03:39.3085954+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-03T10:57:03.6693095+00:00",
-  "LastUpdate_Achievements": "2023-07-03T11:03:06.2915727+00:00"
+  "LastUpdate_Ratings": "2023-07-03T11:57:16.2577241+00:00",
+  "LastUpdate_Achievements": "2023-07-03T12:03:39.3086474+00:00"
 }

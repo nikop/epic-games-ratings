@@ -114,9 +114,9 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
@@ -186,9 +186,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-07-03T11:03:14.4908188+00:00",
+  "LastChanged_Achievements": "2023-07-03T12:03:49.2021627+00:00",
   "LastUpdate_AppInfo": "2023-06-27T10:57:00.0040623+00:00",
-  "LastUpdate_Ratings": "2023-07-03T10:57:08.1604575+00:00",
-  "LastUpdate_Achievements": "2023-07-03T11:03:14.4908404+00:00"
+  "LastUpdate_Ratings": "2023-07-03T11:57:22.45939+00:00",
+  "LastUpdate_Achievements": "2023-07-03T12:03:49.20218+00:00"
 }

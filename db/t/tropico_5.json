@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 619,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 329,
@@ -1743,10 +1743,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 904,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-07-03T11:59:55.7195938+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 905,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 904,
+  "NumberOfAwards": 905,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1766,7 +1772,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1828,8 +1834,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-07-03T10:59:11.1479297+00:00",
+  "LastChanged": "2023-07-03T11:59:55.7195936+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:03.3635033+00:00",
-  "LastUpdate_Ratings": "2023-07-03T10:59:11.1479303+00:00",
-  "LastUpdate_Achievements": "2023-07-03T11:00:55.3593976+00:00"
+  "LastUpdate_Ratings": "2023-07-03T11:59:55.7195944+00:00",
+  "LastUpdate_Achievements": "2023-07-03T12:02:01.7829644+00:00"
 }

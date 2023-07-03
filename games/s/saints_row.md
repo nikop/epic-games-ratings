@@ -6,23 +6,23 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 36.00% | ~18,324 |
-| To The Nines | 32.00% | ~16,288 |
-| Optimized | 28.00% | ~14,252 |
-| Performance Review | 27.00% | ~13,743 |
-| Making a Name | 26.00% | ~13,234 |
-| Tune Up | 25.00% | ~12,725 |
-| Wet Work | 24.00% | ~12,216 |
-| Landlord | 24.00% | ~12,216 |
-| The Side Job | 23.00% | ~11,707 |
-| Wrecking Ball | 20.00% | ~10,180 |
-| Food for Thought | 20.00% | ~10,180 |
-| Finders Keepers | 19.00% | ~9,671 |
-| A Young Empire | 19.00% | ~9,671 |
-| Work Ethic | 17.00% | ~8,653 |
-| Power Players | 14.00% | ~7,126 |
-| Picking Fights | 14.00% | ~7,126 |
-| Quality Time | 13.00% | ~6,617 |
+| First F#@!ing Day | 36.00% | ~18,325 |
+| To The Nines | 32.00% | ~16,289 |
+| Optimized | 28.00% | ~14,253 |
+| Performance Review | 27.00% | ~13,744 |
+| Making a Name | 26.00% | ~13,235 |
+| Tune Up | 25.00% | ~12,726 |
+| Wet Work | 24.00% | ~12,217 |
+| Landlord | 24.00% | ~12,217 |
+| The Side Job | 23.00% | ~11,708 |
+| Wrecking Ball | 20.00% | ~10,181 |
+| Food for Thought | 20.00% | ~10,181 |
+| Finders Keepers | 19.00% | ~9,672 |
+| A Young Empire | 19.00% | ~9,672 |
+| Work Ethic | 17.00% | ~8,654 |
+| Power Players | 14.00% | ~7,127 |
+| Picking Fights | 14.00% | ~7,127 |
+| Quality Time | 13.00% | ~6,618 |
 | Showdown | 12.00% | ~6,108 |
 | Et tu? | 12.00% | ~6,108 |
 | Took It to The Limit | 12.00% | ~6,108 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~51 |
 | Fiesta Time | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,901 (Ranked 83)  
+Progressed: 50,904 (Ranked 83)  
 Completed: 27 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 27 (0.05%) (Ranked 199)
 | 2023-06-30 | 50,277 | 26 |
 | 2023-07-01 | 50,555 | 26 |
 | 2023-07-02 | 50,815 | 27 |
-| 2023-07-03 | 50,901 | 27 |
+| 2023-07-03 | 50,904 | 27 |
 ## Awards
 Max (Extremely Fun): 1,045  (Ranked 139)  
 Sum: 8,485 (Ranked 91)  

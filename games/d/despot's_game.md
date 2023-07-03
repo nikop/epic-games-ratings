@@ -13,7 +13,7 @@ Rating: 4.50 (Ranked 551)
 | No Mercy | 42.00% | ~170 |
 | The Return of a Rat | 41.00% | ~166 |
 | Through the Darkness | 41.00% | ~166 |
-| Fat of the Earth | 34.00% | ~137 |
+| Fat of the Earth | 35.00% | ~141 |
 | Last Man Standing | 32.00% | ~129 |
 | Catch Jonathan_tostar | 27.00% | ~109 |
 | Campaigning | 26.00% | ~105 |
@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 551)
 | Assemble a Meganewbie | 24.00% | ~97 |
 | Frugal | 22.00% | ~89 |
 | Feed a God | 21.00% | ~85 |
-| To the Moon and Back | 19.00% | ~77 |
+| To the Moon and Back | 20.00% | ~81 |
 | Great Flight | 18.00% | ~73 |
 | Holy Vengeance | 16.00% | ~65 |
 | Honorary Cultist | 12.00% | ~48 |

@@ -14,8 +14,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 10.00% | ~1,016 |
 | Queen's Gratitude | 9.00% | ~914 |
 | Fifth Crusade | 6.00% | ~609 |
+| Path of the Angel | 5.00% | ~508 |
 | Embrace of the Abyss | 4.00% | ~406 |
-| Path of the Angel | 4.00% | ~406 |
 | Transformation | 4.00% | ~406 |
 | Great Upstart | 4.00% | ~406 |
 | Voice from Your Dreams | 4.00% | ~406 |
