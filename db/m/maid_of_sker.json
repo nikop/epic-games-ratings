@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 274,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -272,9 +272,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "easy_listening",
@@ -465,8 +465,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-07-03T06:05:33.9633378+00:00",
+  "LastChanged_Achievements": "2023-07-03T07:05:46.9143001+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:10.4818167+00:00",
-  "LastUpdate_Ratings": "2023-07-03T05:59:33.8529949+00:00",
-  "LastUpdate_Achievements": "2023-07-03T06:05:33.9633557+00:00"
+  "LastUpdate_Ratings": "2023-07-03T06:59:42.3942184+00:00",
+  "LastUpdate_Achievements": "2023-07-03T07:05:46.9143187+00:00"
 }

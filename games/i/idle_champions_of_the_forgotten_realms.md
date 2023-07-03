@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,697 |
-| The Mad Wizard | 11.00% | ~22,547 |
-| The Ring of Regeneration | 6.00% | ~12,298 |
-| Are Ya Chicken? | 6.00% | ~12,298 |
-| Were-verpowered | 5.00% | ~10,249 |
-| Mad Cow Disease | 5.00% | ~10,249 |
-| Friendly Imps | 5.00% | ~10,249 |
-| Seeking Allies | 4.00% | ~8,199 |
-| Pure Energy | 4.00% | ~8,199 |
-| A Persistent Buzzing | 3.00% | ~6,149 |
-| Terror in the Dark | 3.00% | ~6,149 |
-| Unearthed Evil | 3.00% | ~6,149 |
-| The Crumbling Temple | 3.00% | ~6,149 |
-| The Contagious Curse | 3.00% | ~6,149 |
+| The Cursed Farmer | 14.00% | ~28,701 |
+| The Mad Wizard | 11.00% | ~22,551 |
+| The Ring of Regeneration | 6.00% | ~12,300 |
+| Are Ya Chicken? | 6.00% | ~12,300 |
+| Were-verpowered | 5.00% | ~10,250 |
+| Mad Cow Disease | 5.00% | ~10,250 |
+| Friendly Imps | 5.00% | ~10,250 |
+| Seeking Allies | 4.00% | ~8,200 |
+| Pure Energy | 4.00% | ~8,200 |
+| A Persistent Buzzing | 3.00% | ~6,150 |
+| Terror in the Dark | 3.00% | ~6,150 |
+| Unearthed Evil | 3.00% | ~6,150 |
+| The Crumbling Temple | 3.00% | ~6,150 |
+| The Contagious Curse | 3.00% | ~6,150 |
 | Beast Mode | 2.00% | ~4,100 |
 | Low Initiative | 2.00% | ~4,100 |
 | A Mysterious Summons | 2.00% | ~4,100 |
@@ -64,7 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.60% | ~1,230 |
 | Fugitives | 0.60% | ~1,230 |
 | The Darkness Runs Deeper | 0.60% | ~1,230 |
-| The Giant's Bane Tavern | 0.60% | ~1,027 |
+| The Giant's Bane Tavern | 0.60% | ~1,028 |
 | Rude Welcome | 0.60% | ~1,230 |
 | The Haunted Jungle | 0.60% | ~1,230 |
 | Family Entanglements | 0.50% | ~1,025 |
@@ -147,12 +147,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Taking Responsibility | 0.20% | ~410 |
 | No Good at All | 0.20% | ~410 |
 | Never Split the Party | 0.20% | ~410 |
-| Snakes on our Plane | 0.20% | ~342 |
+| Snakes on our Plane | 0.20% | ~343 |
 | The Soulmonger Calls | 0.20% | ~410 |
 | Haunted Fortunes | 0.20% | ~410 |
 | Poor Fortune | 0.20% | ~410 |
 | Relentless Misfortune | 0.20% | ~410 |
-| This Quest Stinks! | 0.20% | ~342 |
+| This Quest Stinks! | 0.20% | ~343 |
 | Hold for the Red Wizards | 0.20% | ~410 |
 | Form Ranks | 0.20% | ~410 |
 | They Who Smelt It | 0.20% | ~410 |
@@ -161,7 +161,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~410 |
 | Visions of Strahd | 0.20% | ~410 |
 | Seeds of Corruption | 0.20% | ~410 |
-| Home Not So Alone | 0.20% | ~342 |
+| Home Not So Alone | 0.20% | ~343 |
 | Think Your Way Out Of It | 0.20% | ~410 |
 | A Saurial's Lament | 0.20% | ~410 |
 | The Killer Mists | 0.20% | ~410 |
@@ -194,45 +194,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Goblin Halls | 0.20% | ~410 |
 | The Twilight Grove | 0.20% | ~410 |
 | Everything is Awful | 0.20% | ~410 |
-| Earthquake! | 0.20% | ~342 |
+| Earthquake! | 0.20% | ~343 |
 | All You Know Is Wrong | 0.20% | ~410 |
-| Shadow Stalkers | 0.20% | ~342 |
+| Shadow Stalkers | 0.20% | ~343 |
 | Displaced Anger | 0.20% | ~410 |
-| Ettercap Swarm | 0.20% | ~342 |
+| Ettercap Swarm | 0.20% | ~343 |
 | Relay Race | 0.20% | ~410 |
-| An Illithid Ambush | 0.20% | ~342 |
-| A Difficult Descent | 0.20% | ~342 |
-| Dream Gauntlet | 0.20% | ~342 |
-| Zombie Dreams | 0.20% | ~342 |
-| The Path of Redcaps | 0.20% | ~342 |
-| Elder Rune Attack | 0.20% | ~342 |
-| The Gargoyle | 0.20% | ~342 |
-| Madcap Adventures Redux | 0.20% | ~342 |
-| Raggadragga's Crew | 0.20% | ~342 |
-| Bel's Forge | 0.20% | ~342 |
-| Into the Unknown | 0.20% | ~342 |
-| The Prison of Velkynvelve | 0.20% | ~342 |
-| Rime Bandits | 0.20% | ~342 |
-| Enemy Summit | 0.20% | ~342 |
-| An Awakened Axe | 0.20% | ~342 |
-| The Sibriex | 0.20% | ~342 |
-| Wrecked Flying Fortress | 0.20% | ~342 |
-| The Bleeding Citadel | 0.20% | ~342 |
-| Idyllglen | 0.20% | ~342 |
-| The Radiant Nightmare | 0.20% | ~342 |
-| Waiting on Sunrise | 0.20% | ~342 |
-| Deekin's Mission | 0.20% | ~342 |
-| Frozen Vengeance | 0.20% | ~342 |
-| The Battle of High Hall Tower | 0.20% | ~342 |
-| Elturel's Last Stand | 0.20% | ~342 |
-| Lost in the Underdark | 0.20% | ~342 |
-| Leemooggoogoon Rises | 0.20% | ~342 |
-| Ending the Rime - Part 1 | 0.20% | ~342 |
-| Ending the Rime - Part 2 | 0.20% | ~342 |
-| Reghed Glacier Mysteries | 0.20% | ~342 |
-| Tekeli-li's Hunt | 0.20% | ~342 |
-| The Rite of the Arcane Octad | 0.20% | ~342 |
-| The Netherese Necropolis | 0.20% | ~342 |
+| An Illithid Ambush | 0.20% | ~343 |
+| A Difficult Descent | 0.20% | ~343 |
+| Dream Gauntlet | 0.20% | ~343 |
+| Zombie Dreams | 0.20% | ~343 |
+| The Path of Redcaps | 0.20% | ~343 |
+| Elder Rune Attack | 0.20% | ~343 |
+| The Gargoyle | 0.20% | ~343 |
+| Madcap Adventures Redux | 0.20% | ~343 |
+| Raggadragga's Crew | 0.20% | ~343 |
+| Bel's Forge | 0.20% | ~343 |
+| Into the Unknown | 0.20% | ~343 |
+| The Prison of Velkynvelve | 0.20% | ~343 |
+| Rime Bandits | 0.20% | ~343 |
+| Enemy Summit | 0.20% | ~343 |
+| An Awakened Axe | 0.20% | ~343 |
+| The Sibriex | 0.20% | ~343 |
+| Wrecked Flying Fortress | 0.20% | ~343 |
+| The Bleeding Citadel | 0.20% | ~343 |
+| Idyllglen | 0.20% | ~343 |
+| The Radiant Nightmare | 0.20% | ~343 |
+| Waiting on Sunrise | 0.20% | ~343 |
+| Deekin's Mission | 0.20% | ~343 |
+| Frozen Vengeance | 0.20% | ~343 |
+| The Battle of High Hall Tower | 0.20% | ~343 |
+| Elturel's Last Stand | 0.20% | ~343 |
+| Lost in the Underdark | 0.20% | ~343 |
+| Leemooggoogoon Rises | 0.20% | ~343 |
+| Ending the Rime - Part 1 | 0.20% | ~343 |
+| Ending the Rime - Part 2 | 0.20% | ~343 |
+| Reghed Glacier Mysteries | 0.20% | ~343 |
+| Tekeli-li's Hunt | 0.20% | ~343 |
+| The Rite of the Arcane Octad | 0.20% | ~343 |
+| The Netherese Necropolis | 0.20% | ~343 |
 | Overwhelming Force | 0.20% | ~410 |
 | Frail Doesn't Mean Broken | 0.10% | ~171 |
 | The Castle of a Thousand Vecnas | 0.10% | ~171 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,975 (Ranked 52)  
+Progressed: 205,007 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 204,975 | 2,025 |
+| 2023-07-03 | 205,007 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,361 (Ranked 37)  

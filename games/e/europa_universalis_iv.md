@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,822 |
-| That's a Grand Army | 8.00% | ~5,175 |
-| That is mine! | 8.00% | ~5,175 |
-| Victorious! | 8.00% | ~5,175 |
-| Brothers in Arms | 6.00% | ~3,881 |
-| That's a Grand Navy | 6.00% | ~3,881 |
-| Seriously?! | 6.00% | ~3,881 |
+| Until death do us apart | 9.00% | ~5,823 |
+| That's a Grand Army | 8.00% | ~5,176 |
+| That is mine! | 8.00% | ~5,176 |
+| Victorious! | 8.00% | ~5,176 |
+| Brothers in Arms | 6.00% | ~3,882 |
+| That's a Grand Navy | 6.00% | ~3,882 |
+| Seriously?! | 6.00% | ~3,882 |
 | For the Glory | 5.00% | ~3,235 |
 | Cold War | 4.00% | ~2,588 |
 | True Catholic | 4.00% | ~2,588 |
@@ -53,11 +53,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~388 |
 | This is My Faith | 0.60% | ~388 |
 | Time Bandit | 0.60% | ~388 |
-| Absolutely | 0.50% | ~323 |
-| Grand Coalition | 0.50% | ~323 |
-| Ruina Imperii | 0.50% | ~323 |
-| Trophy Hunter | 0.50% | ~323 |
-| Voting Streak | 0.50% | ~323 |
+| Absolutely | 0.50% | ~324 |
+| Grand Coalition | 0.50% | ~324 |
+| Ruina Imperii | 0.50% | ~324 |
+| Trophy Hunter | 0.50% | ~324 |
+| Voting Streak | 0.50% | ~324 |
 | All Your Trade Are Belong to Us | 0.40% | ~259 |
 | Bleed Them Dry | 0.40% | ~259 |
 | Dude, Where's my Boat? | 0.40% | ~259 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,691 (Ranked 76)  
+Progressed: 64,702 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
-| 2023-07-03 | 64,691 | 0 |
+| 2023-07-03 | 64,702 | 0 |
 ## Awards
 Max (Educational): 5,500  (Ranked 61)  
 Sum: 45,324 (Ranked 27)  

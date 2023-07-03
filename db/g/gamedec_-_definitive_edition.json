@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 235359,
+  "EOS_Progressed": 235361,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8245,6 +8245,11 @@
       "Time": "2023-07-03T06:06:37.6553456+00:00",
       "NumProgressed": 235359,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-03T07:06:53.7107243+00:00",
+      "NumProgressed": 235361,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8296,7 +8301,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25889
+      "UsersEstimate": 25890
     },
     {
       "ID": "ACH_ENJOY",
@@ -8472,7 +8477,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56486
+      "UsersEstimate": 56487
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -8671,7 +8676,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 235359,
+      "Progressed": 235361,
       "Completed": 7
     }
   ],
@@ -8679,8 +8684,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-03T06:06:37.6553451+00:00",
+  "LastChanged_Achievements": "2023-07-03T07:06:53.7107239+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-03T05:58:15.1670145+00:00",
-  "LastUpdate_Achievements": "2023-07-03T06:06:37.6554188+00:00"
+  "LastUpdate_Ratings": "2023-07-03T06:58:15.1339846+00:00",
+  "LastUpdate_Achievements": "2023-07-03T07:06:53.7107939+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6309,9 +6309,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44907,
+  "EOS_Progressed": 44908,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12649,6 +12649,11 @@
       "Time": "2023-07-03T04:02:24.7655208+00:00",
       "NumProgressed": 44907,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-03T07:02:27.5829684+00:00",
+      "NumProgressed": 44908,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -12668,7 +12673,7 @@
       "Name": "Cowherd",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "BreedPigs",
@@ -12740,7 +12745,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28740
+      "UsersEstimate": 28741
     },
     {
       "ID": "CutTree",
@@ -12748,7 +12753,7 @@
       "Name": "You wood not believe it",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "CutTreeFirst",
@@ -12756,7 +12761,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27393
+      "UsersEstimate": 27394
     },
     {
       "ID": "DeliveryGrapes",
@@ -12796,7 +12801,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27393
+      "UsersEstimate": 27394
     },
     {
       "ID": "Harvested",
@@ -12812,7 +12817,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34129
+      "UsersEstimate": 34130
     },
     {
       "ID": "HorseJumps",
@@ -12844,7 +12849,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 21555
+      "UsersEstimate": 21556
     },
     {
       "ID": "Mission",
@@ -12892,7 +12897,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 19759
+      "UsersEstimate": 19760
     },
     {
       "ID": "NumProductionPoints",
@@ -12908,7 +12913,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "NumVehiclesSmall",
@@ -12916,7 +12921,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26046
+      "UsersEstimate": 26047
     },
     {
       "ID": "PetDog",
@@ -12932,7 +12937,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26046
+      "UsersEstimate": 26047
     },
     {
       "ID": "Sow",
@@ -12948,7 +12953,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28291
+      "UsersEstimate": 28292
     },
     {
       "ID": "Stones",
@@ -13003,15 +13008,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44907,
+      "Progressed": 44908,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-02T20:59:52.5367567+00:00",
-  "LastChanged_Achievements": "2023-07-03T06:02:21.9806986+00:00",
+  "LastChanged_Achievements": "2023-07-03T07:02:27.5829678+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:00:03.6096252+00:00",
-  "LastUpdate_Achievements": "2023-07-03T06:02:21.9807542+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:00:15.0888805+00:00",
+  "LastUpdate_Achievements": "2023-07-03T07:02:27.5830237+00:00"
 }

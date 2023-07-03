@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64426,
+  "EOS_Progressed": 64427,
   "EOS_Completed": 599,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 985,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -7977,6 +7977,11 @@
       "Time": "2023-07-03T06:06:27.9351509+00:00",
       "NumProgressed": 64426,
       "NumCompleted": 599
+    },
+    {
+      "Time": "2023-07-03T07:06:43.7681931+00:00",
+      "NumProgressed": 64427,
+      "NumCompleted": 599
     }
   ],
   "TotalAchievements": 25,
@@ -8028,7 +8033,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10952
+      "UsersEstimate": 10953
     },
     {
       "ID": "Butcher",
@@ -8140,7 +8145,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Sniper",
@@ -8187,7 +8192,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64426,
+      "Progressed": 64427,
       "Completed": 599
     }
   ],
@@ -8195,8 +8200,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-03T06:06:27.9351506+00:00",
+  "LastChanged_Achievements": "2023-07-03T07:06:43.7681926+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-03T06:01:01.9794348+00:00",
-  "LastUpdate_Achievements": "2023-07-03T06:06:27.9351989+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:01:14.225099+00:00",
+  "LastUpdate_Achievements": "2023-07-03T07:06:43.7682465+00:00"
 }

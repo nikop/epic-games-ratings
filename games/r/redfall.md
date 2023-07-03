@@ -47,11 +47,11 @@ Rating: 3.53 (Ranked 947)
 | Scream Team | 2.00% | ~34 |
 | Blood Brother | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
+| Bloody Initiate | 2.00% | ~34 |
 | Dexterity Save | 2.00% | ~34 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
 | What Lies Below | 1.00% | ~17 |
-| Bloody Initiate | 1.00% | ~17 |
 | So Anyway I Started Blasting | 1.00% | ~17 |
 | Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |

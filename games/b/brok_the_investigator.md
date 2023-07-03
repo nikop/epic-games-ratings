@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 73.00% | ~11 |
-| Chapter 1 | 40.00% | ~6 |
-| Chapter 2 | 40.00% | ~6 |
-| Chapter 3 | 40.00% | ~6 |
-| Chapter 4 | 40.00% | ~6 |
-| Your Days Are Numbered | 40.00% | ~6 |
-| All Materials | 40.00% | ~6 |
-| Chapter 5 | 33.00% | ~5 |
-| It's In My Nature | 27.00% | ~4 |
-| Chapter 6 | 20.00% | ~3 |
-| Highway Survival | 20.00% | ~3 |
+| Introduction completed | 75.00% | ~12 |
+| Chapter 1 | 38.00% | ~6 |
+| Chapter 2 | 38.00% | ~6 |
+| Chapter 3 | 38.00% | ~6 |
+| Chapter 4 | 38.00% | ~6 |
+| Your Days Are Numbered | 38.00% | ~6 |
+| All Materials | 38.00% | ~6 |
+| Chapter 5 | 31.00% | ~5 |
+| It's In My Nature | 25.00% | ~4 |
+| Chapter 6 | 19.00% | ~3 |
+| Highway Survival | 19.00% | ~3 |
 | Ads Fan | 13.00% | ~2 |
 | Best Student | 13.00% | ~2 |
 | Paw Music | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |
-| Chipmunk | 7.00% | ~1 |
-| Food Thief | 7.00% | ~1 |
-| Sugar Pills Lover | 7.00% | ~1 |
-| Tramp Saver | 7.00% | ~1 |
+| Chipmunk | 6.00% | ~1 |
+| Food Thief | 6.00% | ~1 |
+| Sugar Pills Lover | 6.00% | ~1 |
+| Tramp Saver | 6.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 378)  
+Progressed: 16 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-11 | 13 | 0 |
 | 2023-06-14 | 14 | 0 |
 | 2023-06-19 | 15 | 0 |
+| 2023-07-03 | 16 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

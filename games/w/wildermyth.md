@@ -51,11 +51,11 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 2.00% | ~26 |
 | War-Ender | 2.00% | ~26 |
 | Fight Like a Bird | 2.00% | ~26 |
+| Solid as the Hills | 2.00% | ~26 |
 | Some Say I'm Too Flashy | 2.00% | ~26 |
 | Symbiosis | 2.00% | ~26 |
 | Tempest | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
-| Solid as the Hills | 1.00% | ~13 |
 | I'm Not Smiling | 1.00% | ~13 |
 | Thwack! | 1.00% | ~13 |
 | A Temperamental Shrub | 1.00% | ~13 |

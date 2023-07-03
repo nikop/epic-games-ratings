@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4902,
+  "EOS_Progressed": 4903,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4827,6 +4827,11 @@
       "Time": "2023-07-02T19:06:16.0403989+00:00",
       "NumProgressed": 4902,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T07:05:54.3294471+00:00",
+      "NumProgressed": 4903,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4836,9 +4841,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "10",
@@ -4868,9 +4873,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "14",
@@ -5237,13 +5242,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4902,
+      "Progressed": 4903,
       "Completed": 4758
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4902,
+      "Progressed": 4903,
       "Completed": 4
     }
   ],
@@ -5251,8 +5256,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-03T06:05:41.0779937+00:00",
+  "LastChanged_Achievements": "2023-07-03T07:05:54.3294468+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-03T05:59:52.7514442+00:00",
-  "LastUpdate_Achievements": "2023-07-03T06:05:41.0780527+00:00"
+  "LastUpdate_Ratings": "2023-07-03T07:00:03.3844957+00:00",
+  "LastUpdate_Achievements": "2023-07-03T07:05:54.3295019+00:00"
 }
