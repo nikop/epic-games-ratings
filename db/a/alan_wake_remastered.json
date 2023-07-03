@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 80,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56731,
+  "EOS_Progressed": 56734,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6792,6 +6792,11 @@
       "Time": "2023-07-03T09:01:41.5126091+00:00",
       "NumProgressed": 56731,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-03T10:01:42.4546405+00:00",
+      "NumProgressed": 56734,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6803,7 +6808,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18721
+      "UsersEstimate": 18722
     },
     {
       "ID": "02",
@@ -6811,7 +6816,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11346
+      "UsersEstimate": 11347
     },
     {
       "ID": "03",
@@ -6819,7 +6824,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11346
+      "UsersEstimate": 11347
     },
     {
       "ID": "04",
@@ -6843,7 +6848,7 @@
       "Name": "Park Ranger",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7942
+      "UsersEstimate": 7943
     },
     {
       "ID": "07",
@@ -6867,7 +6872,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "10",
@@ -6915,7 +6920,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "16",
@@ -6971,7 +6976,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "23",
@@ -7043,7 +7048,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7942
+      "UsersEstimate": 7943
     },
     {
       "ID": "32",
@@ -7051,7 +7056,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14750
+      "UsersEstimate": 14751
     },
     {
       "ID": "33",
@@ -7067,7 +7072,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "35",
@@ -7075,7 +7080,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15317
+      "UsersEstimate": 15318
     },
     {
       "ID": "36",
@@ -7115,7 +7120,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "41",
@@ -7123,7 +7128,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7942
+      "UsersEstimate": 7943
     },
     {
       "ID": "42",
@@ -7338,21 +7343,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56731,
+      "Progressed": 56734,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20199,
+      "Progressed": 20202,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:01:41.5126086+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:01:42.45464+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:58:06.5940694+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:01:41.51273+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:58:07.3077696+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:01:42.4547214+00:00"
 }

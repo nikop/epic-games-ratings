@@ -23,8 +23,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 9.00% | ~4,937 |
 | I spit on your grave | 9.00% | ~4,937 |
 | What have the Romans ever done for us? | 9.00% | ~4,937 |
+| Butterlord | 8.00% | ~4,389 |
 | This Is Our Land | 8.00% | ~4,389 |
-| Butterlord | 7.00% | ~3,840 |
 | Mastery | 7.00% | ~3,840 |
 | Know your enemy | 6.00% | ~3,292 |
 | Crowdfunded | 4.00% | ~2,194 |

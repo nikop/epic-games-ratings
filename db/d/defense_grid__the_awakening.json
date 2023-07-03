@@ -1663,9 +1663,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 480644,
+  "EOS_Progressed": 480645,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9208,6 +9208,11 @@
       "Time": "2023-07-03T09:06:55.9492539+00:00",
       "NumProgressed": 480644,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T10:07:00.6647249+00:00",
+      "NumProgressed": 480645,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -9235,7 +9240,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 221096
+      "UsersEstimate": 221097
     },
     {
       "ID": "BASEDEFENDER",
@@ -9275,7 +9280,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 283580
+      "UsersEstimate": 283581
     },
     {
       "ID": "CHAS",
@@ -9363,7 +9368,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 322031
+      "UsersEstimate": 322032
     },
     {
       "ID": "EXTERMINATOR",
@@ -9395,7 +9400,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91322
+      "UsersEstimate": 91323
     },
     {
       "ID": "FIREBUG",
@@ -9419,7 +9424,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201870
+      "UsersEstimate": 201871
     },
     {
       "ID": "FLURRY",
@@ -9491,7 +9496,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 370096
+      "UsersEstimate": 370097
     },
     {
       "ID": "HEADTRAUMA",
@@ -9507,7 +9512,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 374902
+      "UsersEstimate": 374903
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -9531,7 +9536,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 307612
+      "UsersEstimate": 307613
     },
     {
       "ID": "KABOOM",
@@ -9555,7 +9560,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 341257
+      "UsersEstimate": 341258
     },
     {
       "ID": "LIQUIDATOR",
@@ -9619,7 +9624,7 @@
       "Name": "No Sale",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 144193
+      "UsersEstimate": 144194
     },
     {
       "ID": "NOTSOFAST",
@@ -9699,7 +9704,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81709
+      "UsersEstimate": 81710
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -9707,7 +9712,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81709
+      "UsersEstimate": 81710
     },
     {
       "ID": "REGIONALDELUGE",
@@ -9747,7 +9752,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 254741
+      "UsersEstimate": 254742
     },
     {
       "ID": "SAVANTGENIUS",
@@ -9899,7 +9904,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 264354
+      "UsersEstimate": 264355
     },
     {
       "ID": "YOUMONSTER",
@@ -9914,15 +9919,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 480644,
+      "Progressed": 480645,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-07-02T03:59:02.6890866+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:06:55.9492534+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:07:00.6647241+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.4987699+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:58:53.6836887+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:06:55.9493978+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:58:51.9322782+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:07:00.6648388+00:00"
 }

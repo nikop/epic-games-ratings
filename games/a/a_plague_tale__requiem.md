@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~10,975 |
+| Under a New Sun | 92.00% | ~10,976 |
 | Newcomers | 78.00% | ~9,305 |
-| A Burden of Blood | 73.00% | ~8,708 |
-| Protector's Duty | 69.00% | ~8,231 |
+| A Burden of Blood | 73.00% | ~8,709 |
+| Protector's Duty | 69.00% | ~8,232 |
 | Alchemist | 68.00% | ~8,112 |
-| In our Wake | 67.00% | ~7,992 |
+| In our Wake | 67.00% | ~7,993 |
 | Leaving all Behind | 64.00% | ~7,635 |
 | Felons | 61.00% | ~7,277 |
-| A Sea of Promises | 59.00% | ~7,038 |
-| Tales and Revelations | 56.00% | ~6,680 |
+| A Sea of Promises | 59.00% | ~7,039 |
+| Tales and Revelations | 56.00% | ~6,681 |
 | Bloodline | 51.00% | ~6,084 |
 | The Cradle of Centuries | 47.00% | ~5,607 |
 | The Life We Deserve | 45.00% | ~5,368 |
-| Night guard | 42.00% | ~5,010 |
+| Night guard | 42.00% | ~5,011 |
 | Nothing Left | 38.00% | ~4,533 |
-| Healing our Wounds | 36.00% | ~4,294 |
-| Dying Sun | 32.00% | ~3,817 |
+| Healing our Wounds | 36.00% | ~4,295 |
+| Dying Sun | 32.00% | ~3,818 |
 | Improved crossbow | 26.00% | ~3,102 |
 | King Hugo | 24.00% | ~2,863 |
 | Mercy | 23.00% | ~2,744 |
-| Perfect shot | 22.00% | ~2,624 |
+| Perfect shot | 22.00% | ~2,625 |
 | Effective instruments | 21.00% | ~2,505 |
 | Perfect throw | 21.00% | ~2,505 |
 | Knights! | 20.00% | ~2,386 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 157)
 | Explorer | 1.00% | ~119 |
 | Malignant | 1.00% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,929 (Ranked 112)  
+Progressed: 11,930 (Ranked 112)  
 Completed: 36 (0.30%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 36 (0.30%) (Ranked 147)
 | 2023-06-30 | 11,895 | 36 |
 | 2023-07-01 | 11,915 | 36 |
 | 2023-07-02 | 11,927 | 36 |
-| 2023-07-03 | 11,929 | 36 |
+| 2023-07-03 | 11,930 | 36 |
 ## Awards
 Max (Great Boss Battles): 408  (Ranked 207)  
 Sum: 605 (Ranked 288)  

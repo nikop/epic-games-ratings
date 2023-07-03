@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,104 |
 | Bloody Sport | 1.00% | ~197 |
 | The best strikes are the ones we avoid | 1.00% | ~197 |
+| Dance of the Praying Mantis | 0.90% | ~6,394 |
 | Qi Gong: Mind | 0.90% | ~6,394 |
 | I know Kung-Fu | 0.90% | ~6,394 |
-| Dance of the Praying Mantis | 0.80% | ~5,683 |
 | Muk Yan Master | 0.70% | ~4,973 |
 | Deadly Venom | 0.70% | ~138 |
 | Tiger on Fire | 0.60% | ~4,263 |

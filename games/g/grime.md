@@ -22,13 +22,13 @@ Number of Ratings: 46  (23.09.2022)
 | Jawstag | 12.00% | ~74 |
 | Feast | 12.00% | ~74 |
 | Shapely | 11.00% | ~68 |
-| Host | 10.00% | ~20 |
+| Host | 11.00% | ~22 |
 | Celebration | 9.00% | ~55 |
 | Inevitable | 9.00% | ~55 |
 | Watcher | 9.00% | ~55 |
 | Predator | 9.00% | ~55 |
+| Assimilation | 8.00% | ~49 |
 | Dream | 8.00% | ~16 |
-| Assimilation | 7.00% | ~43 |
 | Hunt Down | 7.00% | ~43 |
 | Artisan | 7.00% | ~43 |
 | Hush | 7.00% | ~43 |

@@ -2156,9 +2156,9 @@
       "ID": "BOOKWORM",
       "SetID": "9a4jnji",
       "Name": "Bookworm",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BOT_WHISPERER",
@@ -2292,9 +2292,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 336
     },
     {
       "ID": "FIRESTARTER",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:02:07.7819614+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:02:08.38702+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:58:48.0267934+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:02:07.7820189+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:58:45.4266416+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:02:08.387065+00:00"
 }

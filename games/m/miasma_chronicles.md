@@ -27,7 +27,7 @@ Rating: 4.38 (Ranked 711)
 | Jarhead | 31.00% | ~372 |
 | Infiltrator | 31.00% | ~372 |
 | Pushing Daisy | 29.00% | ~348 |
-| Experienced | 27.00% | ~324 |
+| Experienced | 28.00% | ~336 |
 | Endgame | 24.00% | ~288 |
 | Hold The Line | 24.00% | ~288 |
 | Savior | 24.00% | ~288 |
@@ -51,8 +51,8 @@ Rating: 4.38 (Ranked 711)
 | Attenborough | 1.00% | ~12 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Alpha Editor | 0.90% | ~11 |
+| Bookworm | 0.90% | ~11 |
 | Fratricide | 0.90% | ~11 |
-| Bookworm | 0.80% | ~10 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |

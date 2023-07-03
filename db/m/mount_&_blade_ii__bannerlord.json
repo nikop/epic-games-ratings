@@ -5315,7 +5315,7 @@
   ],
   "EOS_Progressed": 54861,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12987,9 +12987,9 @@
       "ID": "Butterlord",
       "SetID": "den0lp1",
       "Name": "Butterlord",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3840
+      "UsersEstimate": 4389
     },
     {
       "ID": "Catch",
@@ -13363,8 +13363,8 @@
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-03T09:00:29.1003168+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:06:55.6839976+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:07:00.5223171+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-03T09:00:29.1003176+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:06:55.6841287+00:00"
+  "LastUpdate_Ratings": "2023-07-03T10:00:25.5741061+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:07:00.522384+00:00"
 }

@@ -4870,9 +4870,9 @@
       "Count": 3697
     }
   ],
-  "EOS_Progressed": 131841,
+  "EOS_Progressed": 131842,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -12285,6 +12285,11 @@
       "Time": "2023-07-03T09:07:00.1112739+00:00",
       "NumProgressed": 131841,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-07-03T10:07:04.8851606+00:00",
+      "NumProgressed": 131842,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 112,
@@ -12296,7 +12301,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 59328
+      "UsersEstimate": 59329
     },
     {
       "ID": "advlevel02",
@@ -12304,7 +12309,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 36915
+      "UsersEstimate": 36916
     },
     {
       "ID": "advlevel03",
@@ -12344,7 +12349,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36915
+      "UsersEstimate": 36916
     },
     {
       "ID": "ascend02",
@@ -12416,7 +12421,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "bookentry",
@@ -12464,7 +12469,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 127886
+      "UsersEstimate": 127887
     },
     {
       "ID": "chest02",
@@ -12472,7 +12477,7 @@
       "Name": "For the Hoard!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23731
+      "UsersEstimate": 23732
     },
     {
       "ID": "chest03",
@@ -12504,7 +12509,7 @@
       "Name": "Archivist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "collection04",
@@ -12528,7 +12533,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 119975
+      "UsersEstimate": 119976
     },
     {
       "ID": "commonres02",
@@ -12560,7 +12565,7 @@
       "Name": "Disintermediation",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 98881
+      "UsersEstimate": 98882
     },
     {
       "ID": "craft02",
@@ -12648,7 +12653,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 80423
+      "UsersEstimate": 80424
     },
     {
       "ID": "energy02",
@@ -12760,7 +12765,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 36915
+      "UsersEstimate": 36916
     },
     {
       "ID": "gold01",
@@ -12768,7 +12773,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 113383
+      "UsersEstimate": 113384
     },
     {
       "ID": "gold02",
@@ -12776,7 +12781,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 75149
+      "UsersEstimate": 75150
     },
     {
       "ID": "gold03",
@@ -12784,7 +12789,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48781
+      "UsersEstimate": 48782
     },
     {
       "ID": "gold04",
@@ -12816,7 +12821,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36915
+      "UsersEstimate": 36916
     },
     {
       "ID": "help02",
@@ -12848,7 +12853,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64602
+      "UsersEstimate": 64603
     },
     {
       "ID": "jackslot02",
@@ -12880,7 +12885,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 87015
+      "UsersEstimate": 87016
     },
     {
       "ID": "level02",
@@ -12920,7 +12925,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 55373
+      "UsersEstimate": 55374
     },
     {
       "ID": "loot02",
@@ -12936,7 +12941,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "loot04",
@@ -12960,7 +12965,7 @@
       "Name": "Natural 20",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 30323
+      "UsersEstimate": 30324
     },
     {
       "ID": "master03",
@@ -13008,7 +13013,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 46144
+      "UsersEstimate": 46145
     },
     {
       "ID": "quest02",
@@ -13072,7 +13077,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 97562
+      "UsersEstimate": 97563
     },
     {
       "ID": "sell02",
@@ -13112,7 +13117,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 126567
+      "UsersEstimate": 126568
     },
     {
       "ID": "twinenchant01",
@@ -13128,7 +13133,7 @@
       "Name": "All Accounted For",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7910
+      "UsersEstimate": 7911
     },
     {
       "ID": "uncommonres01",
@@ -13191,15 +13196,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 131841,
+      "Progressed": 131842,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-07-03T02:23:02.385516+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:07:00.1112736+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:07:04.8851602+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.3354047+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:58:55.322566+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:07:00.1114786+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:58:53.5699237+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:07:04.8853138+00:00"
 }

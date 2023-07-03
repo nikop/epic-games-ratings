@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,759 |
-| The Mad Wizard | 11.00% | ~22,557 |
-| The Ring of Regeneration | 6.00% | ~12,304 |
-| Are Ya Chicken? | 6.00% | ~12,304 |
-| Were-verpowered | 5.00% | ~10,253 |
-| Mad Cow Disease | 5.00% | ~10,253 |
-| Friendly Imps | 5.00% | ~10,253 |
-| Seeking Allies | 4.00% | ~8,202 |
-| Pure Energy | 4.00% | ~8,202 |
-| A Persistent Buzzing | 3.00% | ~6,152 |
-| Terror in the Dark | 3.00% | ~6,152 |
-| Unearthed Evil | 3.00% | ~6,152 |
-| The Crumbling Temple | 3.00% | ~6,152 |
-| The Contagious Curse | 3.00% | ~6,152 |
-| Beast Mode | 2.00% | ~4,101 |
-| Low Initiative | 2.00% | ~4,101 |
-| A Mysterious Summons | 2.00% | ~4,101 |
-| Building Trust | 2.00% | ~4,101 |
-| Useless Allies | 2.00% | ~4,101 |
-| Exploring Port Nyanzaru | 2.00% | ~4,101 |
-| Running of the Saurs | 2.00% | ~4,101 |
-| Escort to Waterdeep | 2.00% | ~4,101 |
-| Waterdeep Detours | 2.00% | ~4,101 |
-| Underdeep Cartography | 2.00% | ~4,101 |
+| The Cursed Farmer | 15.00% | ~30,765 |
+| The Mad Wizard | 11.00% | ~22,561 |
+| The Ring of Regeneration | 6.00% | ~12,306 |
+| Are Ya Chicken? | 6.00% | ~12,306 |
+| Were-verpowered | 5.00% | ~10,255 |
+| Mad Cow Disease | 5.00% | ~10,255 |
+| Friendly Imps | 5.00% | ~10,255 |
+| Seeking Allies | 4.00% | ~8,204 |
+| Pure Energy | 4.00% | ~8,204 |
+| A Persistent Buzzing | 3.00% | ~6,153 |
+| Terror in the Dark | 3.00% | ~6,153 |
+| Unearthed Evil | 3.00% | ~6,153 |
+| The Crumbling Temple | 3.00% | ~6,153 |
+| The Contagious Curse | 3.00% | ~6,153 |
+| Beast Mode | 2.00% | ~4,102 |
+| Low Initiative | 2.00% | ~4,102 |
+| A Mysterious Summons | 2.00% | ~4,102 |
+| Building Trust | 2.00% | ~4,102 |
+| Useless Allies | 2.00% | ~4,102 |
+| Exploring Port Nyanzaru | 2.00% | ~4,102 |
+| Running of the Saurs | 2.00% | ~4,102 |
+| Escort to Waterdeep | 2.00% | ~4,102 |
+| Waterdeep Detours | 2.00% | ~4,102 |
+| Underdeep Cartography | 2.00% | ~4,102 |
 | March of the Undead | 1.00% | ~2,051 |
 | No Time To Rest | 1.00% | ~2,051 |
 | Invisible Shadows | 1.00% | ~2,051 |
@@ -45,28 +45,28 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 1.00% | ~2,051 |
 | Street War | 0.90% | ~1,846 |
 | A Tale of Two Cities | 0.90% | ~1,846 |
-| Homecoming | 0.80% | ~1,640 |
-| Trollskull Manor | 0.80% | ~1,640 |
-| Dinosaur Racing | 0.80% | ~1,640 |
-| The Lost Heir of Omu | 0.70% | ~1,435 |
-| The Forbidden City | 0.70% | ~1,435 |
-| Wisdom Check | 0.70% | ~1,435 |
-| The Mists of Ravenloft | 0.70% | ~1,435 |
-| Attack on the Manor | 0.70% | ~1,435 |
-| The Dead Three | 0.70% | ~1,435 |
-| The Long Haul | 0.70% | ~1,435 |
-| Lost in the Deep | 0.70% | ~1,435 |
-| Easily Distracted | 0.70% | ~1,435 |
-| Captured! | 0.60% | ~1,230 |
-| A Grand Puzzle | 0.60% | ~1,230 |
-| Tomb of the Nine Gods | 0.60% | ~1,230 |
-| Treasure Hunters | 0.60% | ~1,230 |
-| Nimble Escape | 0.60% | ~1,230 |
-| Fugitives | 0.60% | ~1,230 |
-| The Darkness Runs Deeper | 0.60% | ~1,230 |
+| Homecoming | 0.80% | ~1,641 |
+| Trollskull Manor | 0.80% | ~1,641 |
+| Dinosaur Racing | 0.80% | ~1,641 |
+| The Lost Heir of Omu | 0.70% | ~1,436 |
+| The Forbidden City | 0.70% | ~1,436 |
+| Wisdom Check | 0.70% | ~1,436 |
+| The Mists of Ravenloft | 0.70% | ~1,436 |
+| Attack on the Manor | 0.70% | ~1,436 |
+| The Dead Three | 0.70% | ~1,436 |
+| The Long Haul | 0.70% | ~1,436 |
+| Lost in the Deep | 0.70% | ~1,436 |
+| Easily Distracted | 0.70% | ~1,436 |
+| Captured! | 0.60% | ~1,231 |
+| A Grand Puzzle | 0.60% | ~1,231 |
+| Tomb of the Nine Gods | 0.60% | ~1,231 |
+| Treasure Hunters | 0.60% | ~1,231 |
+| Nimble Escape | 0.60% | ~1,231 |
+| Fugitives | 0.60% | ~1,231 |
+| The Darkness Runs Deeper | 0.60% | ~1,231 |
 | The Giant's Bane Tavern | 0.60% | ~1,028 |
-| Rude Welcome | 0.60% | ~1,230 |
-| The Haunted Jungle | 0.60% | ~1,230 |
+| Rude Welcome | 0.60% | ~1,231 |
+| The Haunted Jungle | 0.60% | ~1,231 |
 | Family Entanglements | 0.50% | ~1,025 |
 | The Immortal Warrior | 0.50% | ~1,025 |
 | The Wyrmheart Mine | 0.50% | ~1,025 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,062 (Ranked 52)  
+Progressed: 205,098 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,062 | 2,025 |
+| 2023-07-03 | 205,098 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,361 (Ranked 37)  

@@ -2,7 +2,7 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 204,
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2022-11-06T22:57:11.9823156+00:00",
@@ -77,6 +77,12 @@
     {
       "Time": "2023-06-02T03:57:56.6843634+00:00",
       "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-03T09:58:01.4780033+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -665,9 +671,9 @@
   "FirstSeen": "2022-09-25T10:31:45.2250496+00:00",
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
-  "LastChanged": "2023-06-02T03:57:56.684363+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:03:20.1851977+00:00",
+  "LastChanged": "2023-07-03T09:58:01.4780031+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:03:29.3129455+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:53.5100026+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:58:00.7257806+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:03:20.1852413+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:58:01.4780037+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:03:29.3129676+00:00"
 }

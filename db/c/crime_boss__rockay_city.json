@@ -2358,9 +2358,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68241,
+  "EOS_Progressed": 68242,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10113,6 +10113,11 @@
       "Time": "2023-07-03T09:03:40.6808682+00:00",
       "NumProgressed": 68241,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-03T10:03:49.3531268+00:00",
+      "NumProgressed": 68242,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10124,7 +10129,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34120
+      "UsersEstimate": 34121
     },
     {
       "ID": "ACH_0011",
@@ -10276,7 +10281,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50498
+      "UsersEstimate": 50499
     },
     {
       "ID": "ACH_0211",
@@ -10292,7 +10297,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32073
+      "UsersEstimate": 32074
     },
     {
       "ID": "ACH_0300",
@@ -10356,7 +10361,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23884
+      "UsersEstimate": 23885
     },
     {
       "ID": "ACH_0431",
@@ -10419,7 +10424,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68241,
+      "Progressed": 68242,
       "Completed": 35
     }
   ],
@@ -10427,8 +10432,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-03T07:00:38.0790388+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:03:40.6808677+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:03:49.3531263+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-03T09:00:45.6948362+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:03:40.6809976+00:00"
+  "LastUpdate_Ratings": "2023-07-03T10:00:44.0298018+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:03:49.353184+00:00"
 }

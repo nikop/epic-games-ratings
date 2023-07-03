@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14266,
+  "EOS_Progressed": 14269,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -8029,6 +8029,11 @@
       "Time": "2023-07-03T09:06:44.1950557+00:00",
       "NumProgressed": 14266,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-07-03T10:06:49.2158564+00:00",
+      "NumProgressed": 14269,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 20,
@@ -8088,7 +8093,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -8136,7 +8141,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -8160,7 +8165,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10842
+      "UsersEstimate": 10844
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8168,7 +8173,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8176,7 +8181,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -8199,15 +8204,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14266,
+      "Progressed": 14269,
       "Completed": 298
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:06:44.1950551+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:06:49.2158559+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-03T09:00:55.6834157+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:06:44.1951157+00:00"
+  "LastUpdate_Ratings": "2023-07-03T10:00:53.8679334+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:06:49.2159007+00:00"
 }

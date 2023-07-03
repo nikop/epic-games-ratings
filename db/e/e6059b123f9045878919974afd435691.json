@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-07-03T09:03:25.5617083+00:00",
       "NumProgressed": 170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T10:03:34.399495+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -258,17 +263,17 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 88
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -276,7 +281,7 @@
       "Name": "FULLCLIP",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -284,7 +289,7 @@
       "Name": "Out Of Stock",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -298,9 +303,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -330,9 +335,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 61
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -380,7 +385,7 @@
       "Name": "Burnt Smell",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -388,7 +393,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -458,9 +463,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -468,7 +473,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -492,7 +497,7 @@
       "Name": "End of Rest",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -514,9 +519,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -538,17 +543,17 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -564,7 +569,7 @@
       "Name": "Call The Winchester",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -588,7 +593,7 @@
       "Name": "End the Infestation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -618,9 +623,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -628,7 +633,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -636,7 +641,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -652,7 +657,7 @@
       "Name": "Night Snack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -700,15 +705,15 @@
       "Name": "Beep Beep Boop",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -787,13 +792,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 173,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-03T09:03:25.5617078+00:00",
+  "LastChanged_Achievements": "2023-07-03T10:03:34.3994945+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:57:03.0654221+00:00",
-  "LastUpdate_Achievements": "2023-07-03T09:03:25.5617729+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:57:04.3906022+00:00",
+  "LastUpdate_Achievements": "2023-07-03T10:03:34.3995796+00:00"
 }
