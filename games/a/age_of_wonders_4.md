@@ -17,6 +17,7 @@ Rating: 4.60 (Ranked 389)
 | Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |
 | Full Ascension | 1.00% | ~49 |
+| Arch Mage | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
@@ -26,7 +27,6 @@ Rating: 4.60 (Ranked 389)
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
-| Arch Mage | 0.90% | ~44 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Return of the Wizard King | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |

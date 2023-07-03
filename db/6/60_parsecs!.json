@@ -501,9 +501,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 310
     },
     {
       "ID": "Achievement_DontPanic",
@@ -525,9 +525,9 @@
       "ID": "Achievement_EcoShuttle",
       "SetID": "c01p6e5",
       "Name": "Eco-Shuttle",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 125
     },
     {
       "ID": "Achievement_ExtremeMakeover",
@@ -798,8 +798,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-03T05:05:12.9761497+00:00",
+  "LastChanged_Achievements": "2023-07-03T06:04:36.9039585+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:38.5301057+00:00",
-  "LastUpdate_Ratings": "2023-07-03T04:59:50.7511149+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:05:12.9761862+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:59:10.8866529+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:04:36.9039896+00:00"
 }

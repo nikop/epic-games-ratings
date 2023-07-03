@@ -33,9 +33,9 @@ Rating: 4.39 (Ranked 701)
 | El Riesgo Siempre Vive | 10.00% | ~246 |
 | One For Every Occasion | 8.00% | ~197 |
 | Bandage Lover | 8.00% | ~197 |
+| Frontliner | 8.00% | ~197 |
 | The Spire | 8.00% | ~197 |
 | Heavy Steps | 7.00% | ~172 |
-| Frontliner | 7.00% | ~172 |
 | The Cable Guy | 7.00% | ~172 |
 | Excavating The Truth | 6.00% | ~148 |
 | Abysmal Horrors | 6.00% | ~148 |

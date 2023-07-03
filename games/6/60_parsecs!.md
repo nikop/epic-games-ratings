@@ -12,7 +12,7 @@
 | Space Engineer | 63.00% | ~416 |
 | Dust to Dust | 58.00% | ~383 |
 | Across The Stars | 47.00% | ~310 |
-| Crafty | 46.00% | ~304 |
+| Crafty | 47.00% | ~310 |
 | All Seats Taken | 37.00% | ~244 |
 | For Science! | 33.00% | ~218 |
 | Meet the Petersons | 32.00% | ~211 |
@@ -20,7 +20,7 @@
 | KIA | 26.00% | ~172 |
 | Mutiny in making | 23.00% | ~152 |
 | Et tu, Astrocitizen? | 20.00% | ~132 |
-| Eco-Shuttle | 18.00% | ~119 |
+| Eco-Shuttle | 19.00% | ~125 |
 | Space Explorer | 15.00% | ~99 |
 | Hands Full | 13.00% | ~86 |
 | Gold Medalist | 12.00% | ~79 |

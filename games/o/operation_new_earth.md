@@ -10,9 +10,9 @@
 | Corporal | 28.00% | ~88 |
 | Covert Operative | 22.00% | ~70 |
 | Sergeant | 20.00% | ~63 |
+| Lieutenant | 15.00% | ~47 |
 | Stocking Up | 15.00% | ~47 |
 | On Target | 15.00% | ~47 |
-| Lieutenant | 14.00% | ~44 |
 | Getting Deployment | 12.00% | ~38 |
 | Infantry Reporting | 12.00% | ~38 |
 | Fighting for Survival | 11.00% | ~35 |

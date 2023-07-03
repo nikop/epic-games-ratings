@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 235357,
+  "EOS_Progressed": 235359,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8240,6 +8240,11 @@
       "Time": "2023-07-03T05:07:58.2066229+00:00",
       "NumProgressed": 235357,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-03T06:06:37.6553456+00:00",
+      "NumProgressed": 235359,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8251,7 +8256,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63546
+      "UsersEstimate": 63547
     },
     {
       "ID": "ACH_AON",
@@ -8347,7 +8352,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -8395,7 +8400,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65900
+      "UsersEstimate": 65901
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -8411,7 +8416,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_KACHING",
@@ -8531,7 +8536,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14121
+      "UsersEstimate": 14122
     },
     {
       "ID": "ACH_MEMORY5",
@@ -8571,7 +8576,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58839
+      "UsersEstimate": 58840
     },
     {
       "ID": "ACH_SOREAD",
@@ -8666,7 +8671,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 235357,
+      "Progressed": 235359,
       "Completed": 7
     }
   ],
@@ -8674,8 +8679,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-03T05:07:58.2066219+00:00",
+  "LastChanged_Achievements": "2023-07-03T06:06:37.6553451+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-03T04:58:42.9125924+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:07:58.2067624+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:58:15.1670145+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:06:37.6554188+00:00"
 }

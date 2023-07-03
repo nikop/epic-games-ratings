@@ -290,9 +290,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -627,8 +627,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-03T05:07:50.6520906+00:00",
+  "LastChanged_Achievements": "2023-07-03T06:06:31.0146142+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:52.1740949+00:00",
-  "LastUpdate_Ratings": "2023-07-03T05:01:01.9059214+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:07:50.6521284+00:00"
+  "LastUpdate_Ratings": "2023-07-03T06:00:06.9555809+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:06:31.0146452+00:00"
 }

@@ -6616,11 +6616,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 45317,
       "NumberOfAwardsMax": 5493
+    },
+    {
+      "Time": "2023-07-03T05:57:33.8632289+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45324,
+      "NumberOfAwardsMax": 5500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45317,
-  "NumberOfAwardsMax": 5493,
+  "NumberOfAwards": 45324,
+  "NumberOfAwardsMax": 5500,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -6651,7 +6657,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5493
+      "Count": 5500
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6690,9 +6696,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 64682,
+  "EOS_Progressed": 64691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3261,
+  "EOS_NewPlayers": 3264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14610,6 +14616,11 @@
       "Time": "2023-07-03T05:08:09.2214933+00:00",
       "NumProgressed": 64682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T06:06:47.1453619+00:00",
+      "NumProgressed": 64691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15141,7 +15152,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "achievement_colonial_management",
@@ -15237,7 +15248,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -15293,7 +15304,7 @@
       "Name": "Down Under",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -15453,7 +15464,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "achievement_forever_golden",
@@ -15837,7 +15848,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -16557,7 +16568,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -17045,7 +17056,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -17213,7 +17224,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -17229,7 +17240,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_trustworthy",
@@ -17237,7 +17248,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_turkish_delight",
@@ -17285,7 +17296,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -17452,21 +17463,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 64682,
+      "Progressed": 64691,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 64682,
+      "Progressed": 64691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-02T18:57:41.3895339+00:00",
-  "LastChanged_Achievements": "2023-07-03T05:08:09.2214928+00:00",
+  "LastChanged": "2023-07-03T05:57:33.8632287+00:00",
+  "LastChanged_Achievements": "2023-07-03T06:06:47.1453615+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-03T04:57:54.1404489+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:08:09.223397+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:57:33.8632293+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:06:47.1464324+00:00"
 }

@@ -22,9 +22,9 @@
 | Trader | 46.00% | ~21 |
 | Guardian | 43.00% | ~20 |
 | Weapon Boost | 41.00% | ~19 |
+| Flying Kobold Killer | 39.00% | ~18 |
 | Youth Magnet | 39.00% | ~18 |
 | Furious Scorpion Killer | 39.00% | ~18 |
-| Flying Kobold Killer | 37.00% | ~17 |
 | Lethal Blade Mantis Killer | 37.00% | ~17 |
 | Squeaky Clean | 37.00% | ~17 |
 | Kind Adventurer | 37.00% | ~17 |

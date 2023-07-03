@@ -11,6 +11,7 @@ Rating: 4.45 (Ranked 619)
 | The Kraken Sleeps | 0.80% | ~26 |
 | Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
+| Confirming Suspicions | 0.70% | ~22 |
 | Lord of War | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
@@ -18,7 +19,6 @@ Rating: 4.45 (Ranked 619)
 | No Stone Unturned | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
-| Confirming Suspicions | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |

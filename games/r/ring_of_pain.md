@@ -7,33 +7,33 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 96.00% | ~222,564 |
-| Uncharted Territory | 89.00% | ~206,335 |
-| Getting A Glimpse | 73.00% | ~169,241 |
-| A Quick Escape | 65.00% | ~150,694 |
-| Explorer | 62.00% | ~143,739 |
+| Uncharted Territory | 89.00% | ~206,336 |
+| Getting A Glimpse | 73.00% | ~169,242 |
+| A Quick Escape | 65.00% | ~150,695 |
+| Explorer | 62.00% | ~143,740 |
 | Defeat The Dark | 61.00% | ~141,421 |
 | An Offering | 61.00% | ~141,421 |
-| Colorful Corpse | 58.00% | ~134,465 |
+| Colorful Corpse | 58.00% | ~134,466 |
 | That Was Quick | 56.00% | ~129,829 |
 | A Donation | 56.00% | ~129,829 |
-| Goodbye, Frog Friend | 54.00% | ~125,192 |
+| Goodbye, Frog Friend | 54.00% | ~125,193 |
 | Heavy Hitter | 53.00% | ~122,874 |
 | Heartless | 46.00% | ~106,645 |
 | Spine Breaker | 46.00% | ~106,645 |
 | Deflection | 45.00% | ~104,327 |
 | Sneaky | 43.00% | ~99,690 |
 | Delving Deeper | 42.00% | ~97,372 |
-| Ambitious Intent | 41.00% | ~95,053 |
-| C-C-Combo | 41.00% | ~95,053 |
+| Ambitious Intent | 41.00% | ~95,054 |
+| C-C-Combo | 41.00% | ~95,054 |
 | The Bestiary | 40.00% | ~92,735 |
-| Nothing To Lose | 39.00% | ~90,416 |
+| Nothing To Lose | 39.00% | ~90,417 |
 | What's Yours Is Mine | 38.00% | ~88,098 |
-| R.I.P | 36.00% | ~83,461 |
+| R.I.P | 36.00% | ~83,462 |
 | Shootout | 35.00% | ~81,143 |
 | Cold Hearted | 34.00% | ~78,825 |
 | I Am Overburdened | 34.00% | ~78,825 |
-| Dig Your Own Grave | 33.00% | ~76,506 |
-| Toxic | 33.00% | ~76,506 |
+| Dig Your Own Grave | 33.00% | ~76,507 |
+| Toxic | 33.00% | ~76,507 |
 | Who To Trust? | 32.00% | ~74,188 |
 | Flesh Wound | 29.00% | ~67,233 |
 | Walk It Off | 27.00% | ~62,596 |
@@ -44,9 +44,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 26.00% | ~60,278 |
 | Destroy Your Fears | 26.00% | ~60,278 |
 | Shapeshifting | 26.00% | ~60,278 |
-| Save Our Souls | 25.00% | ~57,959 |
-| To The Death! | 20.00% | ~46,367 |
-| Just Chilling | 20.00% | ~46,367 |
+| Save Our Souls | 25.00% | ~57,960 |
+| To The Death! | 20.00% | ~46,368 |
+| Just Chilling | 20.00% | ~46,368 |
 | Well Prepared | 19.00% | ~44,049 |
 | Stop Hitting Yourself | 19.00% | ~44,049 |
 | All Consuming | 18.00% | ~41,731 |
@@ -59,7 +59,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 14.00% | ~32,457 |
 | A Rough Road | 13.00% | ~30,139 |
 | Chain Reaction | 13.00% | ~30,139 |
-| Berzerker | 12.00% | ~27,820 |
+| Berzerker | 12.00% | ~27,821 |
 | Antivenom | 11.00% | ~25,502 |
 | Thank You, Friend | 10.00% | ~23,184 |
 | Barbecue | 10.00% | ~23,184 |
@@ -84,14 +84,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 6.00% | ~13,910 |
 | Obsessed | 6.00% | ~13,910 |
 | Champion of the Day | 6.00% | ~13,910 |
-| Achievement Hunter | 4.00% | ~9,273 |
-| Hydrophobe | 4.00% | ~9,273 |
-| Explosive Betrayal | 4.00% | ~9,273 |
-| Willing the World | 4.00% | ~9,273 |
-| Predator | 4.00% | ~9,273 |
-| Resourceful | 4.00% | ~9,273 |
-| Become The Nightmare | 4.00% | ~9,273 |
-| No Mercy | 4.00% | ~9,273 |
+| Achievement Hunter | 4.00% | ~9,274 |
+| Hydrophobe | 4.00% | ~9,274 |
+| Explosive Betrayal | 4.00% | ~9,274 |
+| Willing the World | 4.00% | ~9,274 |
+| Predator | 4.00% | ~9,274 |
+| Resourceful | 4.00% | ~9,274 |
+| Become The Nightmare | 4.00% | ~9,274 |
+| No Mercy | 4.00% | ~9,274 |
 | Quick Descent | 3.00% | ~6,955 |
 | A Week Attempt | 3.00% | ~6,955 |
 | Dead Revels | 3.00% | ~6,955 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~927 |
 | Near Death Experience | 0.30% | ~696 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,837 (Ranked 46)  
+Progressed: 231,838 (Ranked 46)  
 Completed: 243 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 243 (0.10%) (Ranked 179)
 | 2023-06-30 | 231,704 | 242 |
 | 2023-07-01 | 231,775 | 243 |
 | 2023-07-02 | 231,823 | 243 |
-| 2023-07-03 | 231,837 | 243 |
+| 2023-07-03 | 231,838 | 243 |
 ## Awards
 Max (Quickly Understood Controls): 1,482  (Ranked 119)  
 Sum: 11,472 (Ranked 75)  

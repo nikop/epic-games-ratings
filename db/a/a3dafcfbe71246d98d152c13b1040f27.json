@@ -4,7 +4,7 @@
   "ProductSlug": "the-sports-trivia-challenge-86c29f",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-04T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-29T04:57:07.3247795+00:00",
-  "LastUpdate_Ratings": "2023-07-03T04:57:28.0395448+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:04:18.4650966+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:57:14.8224422+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:03:40.7843392+00:00"
 }

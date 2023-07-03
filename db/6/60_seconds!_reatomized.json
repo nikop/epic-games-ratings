@@ -2705,9 +2705,9 @@
       "ID": "ACH_DEFEND",
       "SetID": "5nj1ea3",
       "Name": "Pacifist",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2571
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -3050,8 +3050,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-02T23:01:58.4635378+00:00",
-  "LastChanged_Achievements": "2023-07-03T05:08:04.6498147+00:00",
+  "LastChanged_Achievements": "2023-07-03T06:06:43.2743013+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-03T05:01:50.9359958+00:00",
-  "LastUpdate_Achievements": "2023-07-03T05:08:04.6498766+00:00"
+  "LastUpdate_Ratings": "2023-07-03T06:00:48.6631608+00:00",
+  "LastUpdate_Achievements": "2023-07-03T06:06:43.274355+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,746 |
-| Start with a bang! | 80.00% | ~2,712 |
-| You can pet the cat! | 75.00% | ~2,542 |
-| Who put gears in there? | 68.00% | ~2,305 |
+| Feeling the beat! | 81.00% | ~2,747 |
+| Start with a bang! | 80.00% | ~2,713 |
+| You can pet the cat! | 75.00% | ~2,543 |
+| Who put gears in there? | 68.00% | ~2,306 |
 | Cream of the Crop | 63.00% | ~2,136 |
 | Thanks for the free chip, Peppermint! | 62.00% | ~2,102 |
-| You got this, Peppermint? | 57.00% | ~1,932 |
+| You got this, Peppermint? | 57.00% | ~1,933 |
 | Perfect Parry | 55.00% | ~1,865 |
 | Alright, that felt AWESOME! | 55.00% | ~1,865 |
-| I play my own way! | 50.00% | ~1,695 |
-| This will cost you big time | 48.00% | ~1,627 |
-| Uh, they were broken when I got here | 47.00% | ~1,593 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,559 |
+| I play my own way! | 50.00% | ~1,696 |
+| This will cost you big time | 48.00% | ~1,628 |
+| Uh, they were broken when I got here | 47.00% | ~1,594 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,560 |
 | Kissing the sky! | 45.00% | ~1,526 |
 | Does that say weakpoint? | 41.00% | ~1,390 |
 | Whoa! There's ANOTHER health bar!? | 40.00% | ~1,356 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,390 (Ranked 144)  
+Progressed: 3,391 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-06-30 | 3,375 | 5 |
 | 2023-07-01 | 3,381 | 5 |
 | 2023-07-02 | 3,389 | 5 |
-| 2023-07-03 | 3,390 | 5 |
+| 2023-07-03 | 3,391 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
