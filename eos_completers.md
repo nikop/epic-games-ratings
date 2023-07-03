@@ -154,9 +154,9 @@
 | 150 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 153 | [Blanc](games/b/blanc.md) | 0.24% |
 | 154 | [Filament](games/f/filament.md) | 0.23% |
-| 155 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 155 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.22% |
-| 155 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
+| 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.23% |
+| 156 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 156 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 158 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 160 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.20% |
@@ -483,4 +483,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,870 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,871 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
