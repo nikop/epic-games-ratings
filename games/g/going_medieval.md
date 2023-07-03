@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 388)  
+Rating: 4.60 (Ranked 387)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -33,7 +33,7 @@ Number of Ratings: 706  (23.09.2022)
 | All Year Round | 18.00% | ~779 |
 | Nothing Wasted | 12.00% | ~519 |
 | Don't Cry Wolf | 11.00% | ~476 |
-| Deerly Departed | 8.00% | ~346 |
+| Deerly Departed | 9.00% | ~390 |
 | Where Wolf? | 5.00% | ~216 |
 | Food Chain | 2.00% | ~87 |
 | Wabbit Season | 0.60% | ~26 |

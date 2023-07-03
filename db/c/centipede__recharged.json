@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15155,
+  "EOS_Progressed": 15156,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6051,6 +6051,11 @@
       "Time": "2023-07-03T20:03:28.2209566+00:00",
       "NumProgressed": 15155,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-07-03T21:03:28.2045203+00:00",
+      "NumProgressed": 15156,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 16,
@@ -6070,7 +6075,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4244
     },
     {
       "ID": "Deadline",
@@ -6158,7 +6163,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7729
+      "UsersEstimate": 7730
     },
     {
       "ID": "Sole_Survivor",
@@ -6166,7 +6171,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5607
+      "UsersEstimate": 5608
     },
     {
       "ID": "Still_Burning",
@@ -6189,15 +6194,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15155,
+      "Progressed": 15156,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:03:28.2209562+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:03:28.2045199+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.2238354+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:59:02.2405253+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:03:28.2210025+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:59:10.0444855+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:03:28.2045582+00:00"
 }

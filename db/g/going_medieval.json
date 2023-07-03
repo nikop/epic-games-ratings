@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 388,
+  "Ranking_Rating": 387,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -4577,9 +4577,9 @@
       "ID": "HUNT_DEER_20",
       "SetID": "5349c2e",
       "Name": "Deerly Departed",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 390
     },
     {
       "ID": "HUNT_DEER_5",
@@ -4769,8 +4769,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:06:06.005553+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:06:14.901722+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:59:50.773224+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:06:06.0055983+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:59:59.0058694+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:06:14.9017543+00:00"
 }

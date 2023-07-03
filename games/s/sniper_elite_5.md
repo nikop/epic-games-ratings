@@ -11,6 +11,7 @@ Rating: 4.45 (Ranked 619)
 | It's Starting to Crack | 0.90% | ~29 |
 | The Kraken Sleeps | 0.90% | ~29 |
 | Liberté | 0.80% | ~26 |
+| Sharpshooter | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
 | Resourceful | 0.80% | ~26 |
 | The Kraken Wakes | 0.80% | ~26 |
@@ -18,12 +19,11 @@ Rating: 4.45 (Ranked 619)
 | Climbing the Ladder | 0.70% | ~22 |
 | No Stone Unturned | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
-| Sharpshooter | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
+| Opposing Force | 0.60% | ~19 |
 | Organ Grinder | 0.60% | ~19 |
 | As Quiet as a Mouse | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
-| Opposing Force | 0.50% | ~16 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
 | Der Geist | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 619)
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,203 (Ranked 145)  
+Progressed: 3,204 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
-| 2023-07-03 | 3,203 | 6 |
+| 2023-07-03 | 3,204 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

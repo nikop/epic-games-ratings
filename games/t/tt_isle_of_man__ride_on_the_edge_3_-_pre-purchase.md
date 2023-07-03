@@ -20,12 +20,12 @@
 | Playing God | 7.00% | ~6 |
 | POI Hunter | 4.00% | ~4 |
 | Seven-League Boots | 4.00% | ~4 |
+| Gotta Go Fast! | 4.00% | ~4 |
 | First and Foremost | 4.00% | ~4 |
 | Made Mother Proud | 4.00% | ~4 |
 | Winner Winner Chicken Dinner | 4.00% | ~4 |
 | Tailor-Made for Two | 4.00% | ~4 |
 | Tempus Fugit | 4.00% | ~4 |
-| Gotta Go Fast! | 3.00% | ~3 |
 | Say My Name | 3.00% | ~3 |
 | Last One Standing | 3.00% | ~3 |
 | Time Lord | 3.00% | ~3 |

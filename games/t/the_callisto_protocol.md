@@ -28,7 +28,7 @@ Rating: 4.19 (Ranked 843)
 | Terminated | 0.70% | ~109 |
 | The Commonality | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
-| Desperate Times | 0.60% | ~94 |
+| Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.50% | ~18 |
 | In Striking Distance | 0.40% | ~62 |
 | Grim Reaper | 0.30% | ~47 |

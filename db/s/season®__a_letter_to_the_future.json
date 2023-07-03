@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.76,
+  "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -1721,6 +1721,11 @@
       "Time": "2023-07-03T18:07:28.3113405+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-03T21:06:06.0638542+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -1772,7 +1777,7 @@
       "Name": "Graffiti Artist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -1780,7 +1785,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -1788,7 +1793,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -1796,7 +1801,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -1859,7 +1864,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 42
     }
   ],
@@ -1867,8 +1872,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:05:57.0509784+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:06:06.0638538+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:19.9703455+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:58:40.375157+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:05:57.0510275+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:58:49.1842436+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:06:06.0638705+00:00"
 }

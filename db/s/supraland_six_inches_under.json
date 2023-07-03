@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -1310,9 +1310,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1994
     },
     {
       "ID": "BenCave",
@@ -1590,9 +1590,9 @@
       "ID": "Revenge",
       "SetID": "5lok9mm",
       "Name": "Revenge",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1994
+      "UsersEstimate": 2015
     },
     {
       "ID": "RocketLaunched",
@@ -1694,8 +1694,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:02:15.6518433+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:02:06.7568645+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.096986+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:59:59.8822873+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:02:15.6518973+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:00:07.9069193+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:02:06.7569035+00:00"
 }

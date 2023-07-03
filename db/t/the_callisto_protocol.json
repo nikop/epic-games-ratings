@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -850,7 +850,7 @@
   ],
   "EOS_Progressed": 15623,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5414,9 +5414,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 109
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -5573,8 +5573,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-03T15:58:13.52778+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:05:08.1349597+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:05:17.7101901+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:57:59.8064232+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:05:08.1350261+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:58:10.6539261+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:05:17.7102432+00:00"
 }

@@ -354,9 +354,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2536,
+  "EOS_Progressed": 2537,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-07-03T16:03:54.6016088+00:00",
       "NumProgressed": 2536,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-03T21:03:34.3303851+00:00",
+      "NumProgressed": 2537,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 14,
@@ -1782,7 +1787,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_REUNION",
@@ -1814,14 +1819,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2536,
+      "Progressed": 2537,
       "Completed": 100
     }
   ],
@@ -1829,8 +1834,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:03:34.6281752+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:03:34.3303847+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:00:15.1625426+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:03:34.6281954+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:00:24.004382+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:03:34.3304014+00:00"
 }

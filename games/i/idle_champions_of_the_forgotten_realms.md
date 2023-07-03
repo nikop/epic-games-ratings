@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,827 |
-| The Mad Wizard | 11.00% | ~22,606 |
-| Are Ya Chicken? | 7.00% | ~14,386 |
-| The Ring of Regeneration | 6.00% | ~12,331 |
-| Were-verpowered | 5.00% | ~10,276 |
-| Mad Cow Disease | 5.00% | ~10,276 |
-| Friendly Imps | 5.00% | ~10,276 |
-| A Persistent Buzzing | 4.00% | ~8,220 |
-| Seeking Allies | 4.00% | ~8,220 |
-| Pure Energy | 4.00% | ~8,220 |
-| Terror in the Dark | 3.00% | ~6,165 |
-| Unearthed Evil | 3.00% | ~6,165 |
-| The Crumbling Temple | 3.00% | ~6,165 |
-| The Contagious Curse | 3.00% | ~6,165 |
-| Beast Mode | 2.00% | ~4,110 |
-| Low Initiative | 2.00% | ~4,110 |
-| A Mysterious Summons | 2.00% | ~4,110 |
-| Building Trust | 2.00% | ~4,110 |
-| Useless Allies | 2.00% | ~4,110 |
-| Exploring Port Nyanzaru | 2.00% | ~4,110 |
-| Running of the Saurs | 2.00% | ~4,110 |
-| Escort to Waterdeep | 2.00% | ~4,110 |
-| Waterdeep Detours | 2.00% | ~4,110 |
-| Underdeep Cartography | 2.00% | ~4,110 |
+| The Cursed Farmer | 15.00% | ~30,831 |
+| The Mad Wizard | 11.00% | ~22,610 |
+| Are Ya Chicken? | 7.00% | ~14,388 |
+| The Ring of Regeneration | 6.00% | ~12,332 |
+| Were-verpowered | 5.00% | ~10,277 |
+| Mad Cow Disease | 5.00% | ~10,277 |
+| Friendly Imps | 5.00% | ~10,277 |
+| A Persistent Buzzing | 4.00% | ~8,222 |
+| Seeking Allies | 4.00% | ~8,222 |
+| Pure Energy | 4.00% | ~8,222 |
+| Terror in the Dark | 3.00% | ~6,166 |
+| Unearthed Evil | 3.00% | ~6,166 |
+| The Crumbling Temple | 3.00% | ~6,166 |
+| The Contagious Curse | 3.00% | ~6,166 |
+| Beast Mode | 2.00% | ~4,111 |
+| Low Initiative | 2.00% | ~4,111 |
+| A Mysterious Summons | 2.00% | ~4,111 |
+| Building Trust | 2.00% | ~4,111 |
+| Useless Allies | 2.00% | ~4,111 |
+| Exploring Port Nyanzaru | 2.00% | ~4,111 |
+| Running of the Saurs | 2.00% | ~4,111 |
+| Escort to Waterdeep | 2.00% | ~4,111 |
+| Waterdeep Detours | 2.00% | ~4,111 |
+| Underdeep Cartography | 2.00% | ~4,111 |
 | March of the Undead | 1.00% | ~2,055 |
 | No Time To Rest | 1.00% | ~2,055 |
 | Invisible Shadows | 1.00% | ~2,055 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,511 (Ranked 52)  
+Progressed: 205,541 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,511 | 2,025 |
+| 2023-07-03 | 205,541 | 2,025 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,373 (Ranked 37)  

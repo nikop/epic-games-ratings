@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 79.00% | ~118 |
-| You Have Been Deaded | 76.00% | ~113 |
-| Rookie | 70.00% | ~104 |
-| Apprentice Destructor | 29.00% | ~43 |
+| Graduation | 78.00% | ~117 |
+| You Have Been Deaded | 76.00% | ~114 |
+| Rookie | 69.00% | ~103 |
+| Apprentice Destructor | 29.00% | ~44 |
 | I Prefer Jazz Fusion | 11.00% | ~16 |
-| Master Destructor | 9.00% | ~13 |
+| Master Destructor | 9.00% | ~14 |
 | Avaricerite | 8.00% | ~12 |
-| Ball Galore | 7.00% | ~10 |
-| Easy Victory | 7.00% | ~10 |
-| Legendary Destructor | 5.00% | ~7 |
-| You Are Actually Supposed To Use Those | 5.00% | ~7 |
+| Ball Galore | 7.00% | ~11 |
+| Easy Victory | 7.00% | ~11 |
+| Legendary Destructor | 5.00% | ~8 |
+| You Are Actually Supposed To Use Those | 5.00% | ~8 |
 | Ball Collector | 4.00% | ~6 |
 | Ball Protector | 4.00% | ~6 |
 | Ticking Clock | 4.00% | ~6 |
@@ -26,9 +26,9 @@
 | Ice Breaker | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
-| Bullet Hell | 1.00% | ~1 |
-| Scrap Collector | 1.00% | ~1 |
-| Untouchable | 1.00% | ~1 |
+| Bullet Hell | 1.00% | ~2 |
+| Scrap Collector | 1.00% | ~2 |
+| Untouchable | 1.00% | ~2 |
 | Machine Man | 0.70% | ~1 |
 | Mushroom Man | 0.70% | ~1 |
 | Total Walrus | 0.70% | ~1 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 0.70% | ~1 |
 | What Even Are You? | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 282)  
+Progressed: 150 (Ranked 282)  
 Completed: 1 (0.67%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 1 (0.67%) (Ranked 113)
 | 2023-06-17 | 147 | 1 |
 | 2023-06-19 | 148 | 1 |
 | 2023-06-22 | 149 | 1 |
+| 2023-07-03 | 150 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

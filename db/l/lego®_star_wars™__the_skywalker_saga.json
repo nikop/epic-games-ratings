@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2612,7 +2612,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49808,
+  "EOS_Progressed": 49809,
   "EOS_Completed": 199,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
@@ -8507,6 +8507,11 @@
       "Time": "2023-07-03T19:01:40.3107204+00:00",
       "NumProgressed": 49808,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-07-03T21:00:53.6712995+00:00",
+      "NumProgressed": 49809,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 45,
@@ -8542,7 +8547,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 39348
+      "UsersEstimate": 39349
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -8646,7 +8651,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19923
+      "UsersEstimate": 19924
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8742,7 +8747,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -8766,7 +8771,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -8782,7 +8787,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48314
+      "UsersEstimate": 48315
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8854,7 +8859,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 26398
+      "UsersEstimate": 26399
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -8877,15 +8882,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49808,
+      "Progressed": 49809,
       "Completed": 199
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-02T16:00:28.4421144+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:00:41.2420725+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:00:53.6712991+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-03T20:00:29.3590068+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:00:41.2421853+00:00"
+  "LastUpdate_Ratings": "2023-07-03T21:00:40.4123588+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:00:53.6713975+00:00"
 }

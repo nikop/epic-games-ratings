@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 311)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 64.00% | ~327 |
 | Read Between The Lines | 63.00% | ~322 |
-| High Profile | 57.00% | ~291 |
+| High Profile | 58.00% | ~296 |
 | Whispers In The Dark | 56.00% | ~286 |
 | Fond Memories | 53.00% | ~271 |
 | History Check | 52.00% | ~266 |
@@ -29,12 +29,12 @@ Rating: 4.64 (Ranked 311)
 | Let Me Be Frank | 37.00% | ~189 |
 | Brain Food | 35.00% | ~179 |
 | No Stone Unturned | 35.00% | ~179 |
+| Read It And Weep | 22.00% | ~112 |
 | Curiosity Killed The Cat | 21.00% | ~107 |
-| Read It And Weep | 21.00% | ~107 |
 | Big Breakthrough | 14.00% | ~72 |
 | Reawakened | 6.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 210)  
+Progressed: 511 (Ranked 211)  
 Completed: 24 (4.70%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |

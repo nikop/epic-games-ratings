@@ -5,7 +5,7 @@
   "Ranking_Rating": 311,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 39,
   "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 2871,
@@ -1711,9 +1711,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 296
     },
     {
       "ID": "MQ02_2",
@@ -1871,9 +1871,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "MQ07_2",
@@ -1928,8 +1928,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:04:58.4855853+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:05:07.9133947+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:57:26.1967067+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:04:58.4856142+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:57:36.2594534+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:05:07.913419+00:00"
 }

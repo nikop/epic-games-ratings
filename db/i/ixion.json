@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2767,
+  "EOS_Progressed": 2768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3287,6 +3287,11 @@
       "Time": "2023-07-03T17:03:31.833235+00:00",
       "NumProgressed": 2767,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T21:03:18.8588595+00:00",
+      "NumProgressed": 2768,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3362,7 +3367,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_BASE_19",
@@ -3753,13 +3758,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2767,
+      "Progressed": 2768,
       "Completed": 0
     }
   ],
@@ -3767,8 +3772,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-03T20:03:18.7764924+00:00",
+  "LastChanged_Achievements": "2023-07-03T21:03:18.8588591+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-03T19:58:33.8671227+00:00",
-  "LastUpdate_Achievements": "2023-07-03T20:03:18.7765703+00:00"
+  "LastUpdate_Ratings": "2023-07-03T20:58:43.6299352+00:00",
+  "LastUpdate_Achievements": "2023-07-03T21:03:18.8589191+00:00"
 }
