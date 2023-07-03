@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.74% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -38,7 +38,7 @@
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.72% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.38% |
