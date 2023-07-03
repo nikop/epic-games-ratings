@@ -272,9 +272,9 @@
       "Count": 184
     }
   ],
-  "EOS_Progressed": 421649,
+  "EOS_Progressed": 421654,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 2167,
+  "EOS_NewPlayers": 2168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8152,6 +8152,11 @@
       "Time": "2023-07-03T03:24:20.3927203+00:00",
       "NumProgressed": 421649,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-03T04:04:17.657423+00:00",
+      "NumProgressed": 421654,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -8171,7 +8176,7 @@
       "Name": "100 KILLS",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 54814
+      "UsersEstimate": 54815
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -8227,7 +8232,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37948
+      "UsersEstimate": 37949
     },
     {
       "ID": "CHAPTER2",
@@ -8235,7 +8240,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29515
+      "UsersEstimate": 29516
     },
     {
       "ID": "CHAPTER3",
@@ -8251,7 +8256,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21082
+      "UsersEstimate": 21083
     },
     {
       "ID": "CHAPTER5",
@@ -8259,7 +8264,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 21082
+      "UsersEstimate": 21083
     },
     {
       "ID": "CHAPTER6",
@@ -8578,7 +8583,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 421649,
+      "Progressed": 421654,
       "Completed": 38
     }
   ],
@@ -8586,8 +8591,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-01T18:00:29.4781709+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:24:20.3927199+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:04:17.6574226+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:37.6629977+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:19:55.8577736+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:24:20.3928129+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:59:29.8534895+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:04:17.6575075+00:00"
 }

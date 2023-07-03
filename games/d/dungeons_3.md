@@ -11,7 +11,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Twistram is devastated | 58.00% | ~13,048 |
 | The Gehenna Stones | 50.00% | ~11,248 |
 | No one has to die today! | 47.00% | ~10,574 |
-| Death and destruction! | 45.00% | ~10,124 |
+| Death and destruction! | 46.00% | ~10,349 |
 | The Swamplanders from the swamplands | 44.00% | ~9,899 |
 | The One-Huge-Army-Building Evil | 41.00% | ~9,224 |
 | Rusty Steel | 41.00% | ~9,224 |

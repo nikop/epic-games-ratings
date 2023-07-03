@@ -5307,7 +5307,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54843,
+  "EOS_Progressed": 54845,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
@@ -12902,6 +12902,11 @@
       "Time": "2023-07-03T02:31:34.2656973+00:00",
       "NumProgressed": 54843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T04:06:13.7886901+00:00",
+      "NumProgressed": 54845,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13081,7 +13086,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8226
+      "UsersEstimate": 8227
     },
     {
       "ID": "I spit on your grave",
@@ -13137,7 +13142,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17001
+      "UsersEstimate": 17002
     },
     {
       "ID": "Lawbringer",
@@ -13145,7 +13150,7 @@
       "Name": "Lawbringer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19743
+      "UsersEstimate": 19744
     },
     {
       "ID": "Lawmaker",
@@ -13153,7 +13158,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12065
+      "UsersEstimate": 12066
     },
     {
       "ID": "Long live the Empire",
@@ -13265,7 +13270,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9323
+      "UsersEstimate": 9324
     },
     {
       "ID": "This Is Our Land",
@@ -13273,7 +13278,7 @@
       "Name": "This Is Our Land",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "This is Sparta",
@@ -13320,15 +13325,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54843,
+      "Progressed": 54845,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-02T20:00:32.8685805+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:26:41.3837636+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:06:13.7886896+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:20:08.3356441+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:26:41.3838566+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:59:41.7308678+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:06:13.7887829+00:00"
 }

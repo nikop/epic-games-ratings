@@ -19,7 +19,7 @@ Rating: 4.53 (Ranked 504)
 | Collect Gold | 45.00% | ~780 |
 | Smithy Ready to Craft | 45.00% | ~780 |
 | Fix the Travellers Wagon | 44.00% | ~763 |
-| Complete Elder Faction | 40.00% | ~693 |
+| Complete Elder Faction | 41.00% | ~711 |
 | End of the Mozis | 38.00% | ~659 |
 | Throne Room Fit For A King | 38.00% | ~659 |
 | Return Power To The Depths | 36.00% | ~624 |

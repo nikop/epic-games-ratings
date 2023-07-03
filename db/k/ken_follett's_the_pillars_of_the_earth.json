@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13665,
+  "EOS_Progressed": 13667,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -5374,6 +5374,11 @@
       "Time": "2023-07-03T03:26:26.0239664+00:00",
       "NumProgressed": 13665,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2023-07-03T04:06:00.1349913+00:00",
+      "NumProgressed": 13667,
+      "NumCompleted": 103
     }
   ],
   "TotalAchievements": 41,
@@ -5425,7 +5430,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "tpote_achievement_15",
@@ -5465,7 +5470,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "tpote_achievement_2",
@@ -5473,7 +5478,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "tpote_achievement_20",
@@ -5489,7 +5494,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "tpote_achievement_22",
@@ -5545,7 +5550,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "tpote_achievement_29",
@@ -5561,7 +5566,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "tpote_achievement_30",
@@ -5569,7 +5574,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "tpote_achievement_31",
@@ -5697,7 +5702,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "tpote_achievement_9",
@@ -5712,15 +5717,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13665,
+      "Progressed": 13667,
       "Completed": 103
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:26:26.0239659+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:06:00.1349909+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:20:25.0837072+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:26:26.0240355+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:59:58.3252368+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:06:00.1350576+00:00"
 }

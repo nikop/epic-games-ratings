@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28540,
+  "EOS_Progressed": 28547,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8036,6 +8036,11 @@
       "Time": "2023-07-03T03:21:20.6276195+00:00",
       "NumProgressed": 28540,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-03T04:02:05.8291014+00:00",
+      "NumProgressed": 28547,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8047,7 +8052,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4568
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -8055,7 +8060,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -8207,7 +8212,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -8278,7 +8283,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28540,
+      "Progressed": 28547,
       "Completed": 20
     }
   ],
@@ -8286,8 +8291,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:21:20.6276192+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:02:05.8291009+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:20:25.8906574+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:21:20.6276893+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:59:58.9630193+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:02:05.8291745+00:00"
 }

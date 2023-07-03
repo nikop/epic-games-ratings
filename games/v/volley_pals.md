@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beach | 92.00% | ~72 |
-| Library | 64.00% | ~50 |
+| Library | 65.00% | ~51 |
 | Space | 50.00% | ~39 |
 | Haunted Mansion | 44.00% | ~34 |
 | Science Laboratory | 36.00% | ~28 |

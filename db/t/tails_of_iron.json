@@ -1915,9 +1915,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 693
+      "UsersEstimate": 711
     },
     {
       "ID": "CompleteGuardFaction",
@@ -2098,8 +2098,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:22:27.8243249+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:03:08.1853052+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.0888696+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:18:41.3115065+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:22:27.8243583+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:58:28.4520076+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:03:08.1853379+00:00"
 }

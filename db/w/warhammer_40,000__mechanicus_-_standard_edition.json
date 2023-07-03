@@ -513,9 +513,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216124,
+  "EOS_Progressed": 216126,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8268,6 +8268,11 @@
       "Time": "2023-07-03T03:24:41.5225404+00:00",
       "NumProgressed": 216124,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T04:04:34.1869503+00:00",
+      "NumProgressed": 216126,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -8287,7 +8292,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54031
+      "UsersEstimate": 54032
     },
     {
       "ID": "ACH_BASE_11",
@@ -8351,7 +8356,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ACH_BASE_2",
@@ -8359,7 +8364,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12968
     },
     {
       "ID": "ACH_BASE_20",
@@ -8375,7 +8380,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ACH_BASE_22",
@@ -8383,7 +8388,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ACH_BASE_23",
@@ -8399,7 +8404,7 @@
       "Name": "Mother of Xenarites",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ACH_BASE_25",
@@ -8511,7 +8516,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ACH_BASE_6",
@@ -8519,7 +8524,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "ACH_BASE_7",
@@ -8550,7 +8555,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216124,
+      "Progressed": 216126,
       "Completed": 4
     }
   ],
@@ -8558,8 +8563,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-01T21:59:10.0815277+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:24:41.5225399+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:04:34.1869499+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:10.6599938+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:18:48.6835145+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:24:41.5226142+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:58:37.1146329+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:04:34.1870253+00:00"
 }

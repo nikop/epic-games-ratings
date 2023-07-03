@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 14.00% | ~28,685 |
-| The Mad Wizard | 11.00% | ~22,538 |
-| The Ring of Regeneration | 6.00% | ~12,294 |
-| Are Ya Chicken? | 6.00% | ~12,294 |
-| Were-verpowered | 5.00% | ~10,245 |
-| Mad Cow Disease | 5.00% | ~10,245 |
-| Friendly Imps | 5.00% | ~10,245 |
+| The Cursed Farmer | 14.00% | ~28,687 |
+| The Mad Wizard | 11.00% | ~22,540 |
+| The Ring of Regeneration | 6.00% | ~12,295 |
+| Are Ya Chicken? | 6.00% | ~12,295 |
+| Were-verpowered | 5.00% | ~10,246 |
+| Mad Cow Disease | 5.00% | ~10,246 |
+| Friendly Imps | 5.00% | ~10,246 |
 | Seeking Allies | 4.00% | ~8,196 |
 | Pure Energy | 4.00% | ~8,196 |
 | A Persistent Buzzing | 3.00% | ~6,147 |
@@ -66,19 +66,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,027 |
 | Rude Welcome | 0.60% | ~1,229 |
 | The Haunted Jungle | 0.60% | ~1,229 |
-| Family Entanglements | 0.50% | ~1,024 |
-| The Immortal Warrior | 0.50% | ~1,024 |
-| The Wyrmheart Mine | 0.50% | ~1,024 |
-| Tower on the Lake | 0.50% | ~1,024 |
-| The Guardian of Orolunga | 0.50% | ~1,024 |
-| Hopelessly Lost | 0.50% | ~1,024 |
-| Enter the Sargauth | 0.50% | ~1,024 |
-| Lair of the Xanathar | 0.50% | ~1,024 |
-| Crowded Streets | 0.50% | ~1,024 |
-| The Darkness Runs Deeper | 0.50% | ~1,024 |
-| Difficult Terrain | 0.50% | ~1,024 |
-| Market Fluctuations | 0.50% | ~1,024 |
-| Durable Deep | 0.50% | ~1,024 |
+| Family Entanglements | 0.50% | ~1,025 |
+| The Immortal Warrior | 0.50% | ~1,025 |
+| The Wyrmheart Mine | 0.50% | ~1,025 |
+| Tower on the Lake | 0.50% | ~1,025 |
+| The Guardian of Orolunga | 0.50% | ~1,025 |
+| Hopelessly Lost | 0.50% | ~1,025 |
+| Enter the Sargauth | 0.50% | ~1,025 |
+| Lair of the Xanathar | 0.50% | ~1,025 |
+| Crowded Streets | 0.50% | ~1,025 |
+| The Darkness Runs Deeper | 0.50% | ~1,025 |
+| Difficult Terrain | 0.50% | ~1,025 |
+| Market Fluctuations | 0.50% | ~1,025 |
+| Durable Deep | 0.50% | ~1,025 |
 | Home Field Advantage | 0.40% | ~820 |
 | Force Grey Unleashed | 0.40% | ~820 |
 | Sleuth It Out | 0.40% | ~820 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,893 (Ranked 52)  
+Progressed: 204,910 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 204,893 | 2,025 |
+| 2023-07-03 | 204,910 | 2,025 |
 ## Awards
 Max (Diverse Characters): 4,995  (Ranked 64)  
 Sum: 30,361 (Ranked 37)  

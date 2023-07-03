@@ -4696,9 +4696,9 @@
       "Count": 3283
     }
   ],
-  "EOS_Progressed": 204893,
+  "EOS_Progressed": 204910,
   "EOS_Completed": 2025,
-  "EOS_NewPlayers": 32659,
+  "EOS_NewPlayers": 32494,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -12436,6 +12436,11 @@
       "Time": "2023-07-03T03:26:48.6184817+00:00",
       "NumProgressed": 204893,
       "NumCompleted": 2025
+    },
+    {
+      "Time": "2023-07-03T04:06:20.3154345+00:00",
+      "NumProgressed": 204910,
+      "NumCompleted": 2025
     }
   ],
   "TotalAchievements": 503,
@@ -13311,7 +13316,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10245
+      "UsersEstimate": 10246
     },
     {
       "ID": "objective_completed_1203",
@@ -13831,7 +13836,7 @@
       "Name": "Family Entanglements",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_214",
@@ -13927,7 +13932,7 @@
       "Name": "The Immortal Warrior",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_247",
@@ -13959,7 +13964,7 @@
       "Name": "The Wyrmheart Mine",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_252",
@@ -13991,7 +13996,7 @@
       "Name": "Tower on the Lake",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_263",
@@ -14119,7 +14124,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 28685
+      "UsersEstimate": 28687
     },
     {
       "ID": "objective_completed_34",
@@ -14127,7 +14132,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12294
+      "UsersEstimate": 12295
     },
     {
       "ID": "objective_completed_35",
@@ -14159,7 +14164,7 @@
       "Name": "The Guardian of Orolunga",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_379",
@@ -14311,7 +14316,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12294
+      "UsersEstimate": 12295
     },
     {
       "ID": "objective_completed_40",
@@ -14447,7 +14452,7 @@
       "Name": "Hopelessly Lost",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_419",
@@ -14487,7 +14492,7 @@
       "Name": "Enter the Sargauth",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_424",
@@ -14583,7 +14588,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10245
+      "UsersEstimate": 10246
     },
     {
       "ID": "objective_completed_54",
@@ -14671,7 +14676,7 @@
       "Name": "Lair of the Xanathar",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_551",
@@ -14735,7 +14740,7 @@
       "Name": "Crowded Streets",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_560",
@@ -14807,7 +14812,7 @@
       "Name": "The Darkness Runs Deeper",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_571",
@@ -14839,7 +14844,7 @@
       "Name": "Difficult Terrain",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_576",
@@ -15071,7 +15076,7 @@
       "Name": "Market Fluctuations",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_610",
@@ -15591,7 +15596,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22538
+      "UsersEstimate": 22540
     },
     {
       "ID": "objective_completed_70",
@@ -15663,7 +15668,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10245
+      "UsersEstimate": 10246
     },
     {
       "ID": "objective_completed_80",
@@ -15735,7 +15740,7 @@
       "Name": "Durable Deep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "objective_completed_810",
@@ -16470,21 +16475,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 171167,
+      "Progressed": 171184,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 204893,
+      "Progressed": 204910,
       "Completed": 2025
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-03T03:18:23.8367181+00:00",
-  "LastChanged_Achievements": "2023-07-03T03:26:48.6184813+00:00",
+  "LastChanged_Achievements": "2023-07-03T04:06:20.315434+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:18:23.8367187+00:00",
-  "LastUpdate_Achievements": "2023-07-03T03:26:48.6211192+00:00"
+  "LastUpdate_Ratings": "2023-07-03T03:58:14.8119272+00:00",
+  "LastUpdate_Achievements": "2023-07-03T04:06:20.3179218+00:00"
 }
