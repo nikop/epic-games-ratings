@@ -9,6 +9,7 @@ Rating: 4.60 (Ranked 389)
 | A Wonderful Discovery | 2.00% | ~98 |
 | Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
+| From Friends to Family | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
 | Tipping the Scales | 2.00% | ~98 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 389)
 | There Can Only Be One! | 1.00% | ~49 |
 | Full Ascension | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
-| From Friends to Family | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
@@ -25,9 +25,9 @@ Rating: 4.60 (Ranked 389)
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Here be Dragons | 1.00% | ~49 |
+| Duality | 1.00% | ~49 |
 | Arch Mage | 0.90% | ~44 |
 | Preparation Is Everything | 0.90% | ~44 |
-| Duality | 0.90% | ~44 |
 | Return of the Wizard King | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |
 | Valley of Wonders | 0.70% | ~34 |
@@ -37,9 +37,9 @@ Rating: 4.60 (Ranked 389)
 | The Magic That Empowers Me! | 0.60% | ~29 |
 | God Emperor | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
+| Lord of Chaos | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
 | Crimson Caldera | 0.50% | ~25 |
-| Lord of Chaos | 0.40% | ~20 |
 | The Eternal Court | 0.40% | ~20 |
 | Jack of All Tomes | 0.40% | ~20 |
 | I've Got Everything I Need Right Here | 0.30% | ~15 |

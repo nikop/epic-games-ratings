@@ -33,6 +33,7 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~100 |
 | Cops called! | 4.00% | ~100 |
 | DIY Boss | 4.00% | ~100 |
+| G.O.A.T. status | 4.00% | ~100 |
 | Laid back | 4.00% | ~100 |
 | Lines for days | 4.00% | ~100 |
 | Manny Destroys All | 4.00% | ~100 |
@@ -40,7 +41,6 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~100 |
 | Tank commander | 4.00% | ~100 |
 | Trick shot marksman | 4.00% | ~100 |
-| G.O.A.T. status | 3.00% | ~75 |
 | Hoarder | 3.00% | ~75 |
 | We get it, you're good | 3.00% | ~75 |
 | Cross lock country | 2.00% | ~50 |

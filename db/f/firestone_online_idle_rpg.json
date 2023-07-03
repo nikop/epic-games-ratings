@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 1554,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4226,9 +4226,9 @@
       "ID": "silverwoodliberator",
       "SetID": "3nl4bcg",
       "Name": "Silverwood liberator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "superior",
@@ -4395,8 +4395,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-03T04:06:12.5924386+00:00",
+  "LastChanged_Achievements": "2023-07-03T05:08:00.8051254+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:58:09.4514482+00:00",
-  "LastUpdate_Achievements": "2023-07-03T04:06:12.5925381+00:00"
+  "LastUpdate_Ratings": "2023-07-03T04:58:46.5821433+00:00",
+  "LastUpdate_Achievements": "2023-07-03T05:08:00.8052225+00:00"
 }

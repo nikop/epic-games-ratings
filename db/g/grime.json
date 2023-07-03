@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -640,6 +640,11 @@
       "Time": "2023-07-02T20:01:47.3757599+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T05:02:18.4890123+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -699,7 +704,7 @@
       "Name": "The Hunt",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -753,9 +758,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -851,7 +856,7 @@
       "Name": "Devourer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -923,7 +928,7 @@
       "Name": "Ravenous",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -986,21 +991,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 22
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-03T04:00:34.1283711+00:00",
+  "LastChanged_Achievements": "2023-07-03T05:02:18.4890118+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-03T04:00:19.563398+00:00",
-  "LastUpdate_Achievements": "2023-07-03T04:00:34.1284104+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:01:54.3036081+00:00",
+  "LastUpdate_Achievements": "2023-07-03T05:02:18.4890487+00:00"
 }

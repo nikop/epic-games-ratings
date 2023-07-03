@@ -77,9 +77,9 @@ Rating: 4.07 (Ranked 896)
 | Enhanced War Machines | 0.30% | ~5 |
 | Titan Power | 0.30% | ~5 |
 | Ultimate War Machines | 0.30% | ~5 |
+| Silverwood liberator | 0.20% | ~3 |
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
-| Silverwood liberator | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,554 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 195)  

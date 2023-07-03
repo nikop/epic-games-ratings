@@ -24,10 +24,10 @@
 | Drinking Problem | 16.00% | ~22 |
 | Grave Digger | 15.00% | ~13 |
 | Summers Here | 14.00% | ~12 |
+| Eggtraordinary | 12.00% | ~16 |
 | Carrocketeer | 12.00% | ~16 |
 | Skin Of Your Teeth | 11.00% | ~15 |
 | Pork Chop Express | 11.00% | ~15 |
-| Eggtraordinary | 11.00% | ~15 |
 | Oh My Gourd | 9.00% | ~8 |
 | Pyromaniac | 9.00% | ~8 |
 | Fresh Pancake | 8.00% | ~11 |

@@ -1472,9 +1472,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1568,9 +1568,9 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -1679,8 +1679,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-03T04:03:35.0308439+00:00",
+  "LastChanged_Achievements": "2023-07-03T05:03:51.2870943+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-03T03:59:35.8594874+00:00",
-  "LastUpdate_Achievements": "2023-07-03T04:03:35.0308727+00:00"
+  "LastUpdate_Ratings": "2023-07-03T05:00:53.2857417+00:00",
+  "LastUpdate_Achievements": "2023-07-03T05:03:51.2871276+00:00"
 }
