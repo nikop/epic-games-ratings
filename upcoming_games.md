@@ -4,6 +4,7 @@
 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 2023-07-04 | 22 (1,000 XP) | 1 | - | - |
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-07-04 | - |  | - | - |
 | [Project First Contact](games/8/831ead56047a4e22b1aade2cfdd11eee.md) | 2023-07-05 | - |  | - | - |
+| [RedNeck Bowl Games](games/5/5a082af4cd244192bd5fefd7433b349a.md) | 2023-07-05 | - |  | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-07-05 | - |  | - | - |
 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 1 | - | - |
 | [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-07-07 | - |  | - | - |
@@ -310,7 +311,6 @@
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | - |  | - | - |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
-| [RedNeck Bowl Games](games/5/5a082af4cd244192bd5fefd7433b349a.md) | 2099-01-01 | - |  | - | - |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |

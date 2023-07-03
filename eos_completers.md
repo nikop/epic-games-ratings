@@ -17,7 +17,7 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.99% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.79% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
@@ -54,7 +54,7 @@
 | 51 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
-| 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
+| 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -68,11 +68,11 @@
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
-| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.32% |
+| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.16% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.15% |
 | 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.09% |
 | 74 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
@@ -97,8 +97,8 @@
 | 95 | [Chorus](games/c/chorus.md) | 1.18% |
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.11% |
-| 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.08% |
-| 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
+| 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.07% |
+| 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
@@ -130,7 +130,7 @@
 | 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
