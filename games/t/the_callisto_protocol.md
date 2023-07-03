@@ -14,10 +14,10 @@ Rating: 4.19 (Ranked 843)
 | Flesh Wound | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
 | Float Like A Butterfly | 0.90% | ~141 |
+| Reforged | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | I Do Belong Here | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
-| Reforged | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | Without A Paddle | 0.80% | ~125 |
 | Crash Site | 0.80% | ~125 |
@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 843)
 | What Lies Beneath | 0.70% | ~109 |
 | The Commonality | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
+| One Last Job | 0.50% | ~18 |
 | In Striking Distance | 0.40% | ~62 |
-| One Last Job | 0.40% | ~14 |
 | This Isn't About Escape | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
 | Grim Reaper | 0.20% | ~31 |

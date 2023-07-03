@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4628,6 +4628,11 @@
       "Time": "2023-07-03T14:07:03.975727+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-03T15:06:33.5000934+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4637,9 +4642,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -4661,9 +4666,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -4693,9 +4698,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -4861,9 +4866,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4973,9 +4978,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -5005,9 +5010,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -5069,9 +5074,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -5085,17 +5090,17 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
       "SetID": "83mdf7p",
       "Name": "Alpha",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -5206,13 +5211,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3151,
+      "Progressed": 3152,
       "Completed": 10
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 6
     }
   ],
@@ -5220,8 +5225,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:07:03.9757266+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:06:33.500093+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:01:18.3470127+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:07:03.9758308+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:00:33.3033266+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:06:33.5001902+00:00"
 }

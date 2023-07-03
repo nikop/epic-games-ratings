@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1596,
+  "EOS_Progressed": 1597,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -384,6 +384,11 @@
       "Time": "2023-07-01T19:03:11.4991771+00:00",
       "NumProgressed": 1596,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-03T15:03:34.3123237+00:00",
+      "NumProgressed": 1597,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -443,7 +448,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -475,14 +480,14 @@
       "Name": "Worlds best dad.",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1596,
+      "Progressed": 1597,
       "Completed": 25
     }
   ],
@@ -490,8 +495,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:03:39.5431774+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:03:34.312323+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:08.8665651+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:58:19.2596156+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:03:39.5431887+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:57:57.6372695+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:03:34.312336+00:00"
 }

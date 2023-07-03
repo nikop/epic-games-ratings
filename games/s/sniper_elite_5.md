@@ -5,32 +5,32 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 0.90% | ~29 |
 | Target America | 0.90% | ~29 |
-| Climbing the Ladder | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
-| Resourceful | 0.80% | ~26 |
 | It's Starting to Crack | 0.80% | ~26 |
-| Taking it back | 0.80% | ~26 |
 | The Kraken Sleeps | 0.80% | ~26 |
+| Climbing the Ladder | 0.70% | ~22 |
 | Liberté | 0.70% | ~22 |
+| No Stone Unturned | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | Sharpshooter | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
+| Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
-| No Stone Unturned | 0.60% | ~19 |
+| Change the Channel | 0.70% | ~22 |
 | Organ Grinder | 0.60% | ~19 |
-| Change the Channel | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
 | Der Geist | 0.50% | ~16 |
 | As Quiet as a Mouse | 0.50% | ~16 |
 | Brains of the Operation | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
+| Just a Flesh Wound | 0.40% | ~13 |
 | Skirmisher | 0.40% | ~13 |
 | Set Europe Ablaze | 0.40% | ~13 |
 | My Little Friend | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
-| Just a Flesh Wound | 0.30% | ~10 |
 | Precision Is Key | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
@@ -60,6 +60,9 @@ Rating: 4.45 (Ranked 619)
 | Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
+| Reich To The Point | 0.10% | ~3 |
+| Covert Elimination | 0.10% | ~3 |
+| Alpha | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
@@ -71,13 +74,10 @@ Rating: 4.45 (Ranked 619)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Reich To The Point | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
-| Covert Elimination | 0.00% | ~0 |
-| Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,200 (Ranked 145)  
+Progressed: 3,201 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
-| 2023-07-03 | 3,200 | 6 |
+| 2023-07-03 | 3,201 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

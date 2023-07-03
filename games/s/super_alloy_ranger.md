@@ -7,9 +7,9 @@
 | Iceberg Theory | 79.00% | ~37 |
 | Gear Up | 72.00% | ~34 |
 | A Grand Show | 72.00% | ~34 |
-| Freshen Up | 57.00% | ~27 |
+| Freshen Up | 60.00% | ~28 |
 | GG EZ | 57.00% | ~27 |
-| Hydrophobia | 38.00% | ~18 |
+| Hydrophobia | 40.00% | ~19 |
 | Ka-Ching! | 34.00% | ~16 |
 | Stop Right There | 34.00% | ~16 |
 | Get to the Point | 30.00% | ~14 |
@@ -19,7 +19,7 @@
 | Grand Escape | 11.00% | ~5 |
 | Space Warrior: Prologue | 11.00% | ~5 |
 | Mr. Want It All | 11.00% | ~5 |
-| Keep it Up, rookie! | 6.00% | ~3 |
+| Keep it Up, rookie! | 9.00% | ~4 |
 | Air Interception | 6.00% | ~3 |
 | Decapitation Strike | 6.00% | ~3 |
 | The Abyss Conqueror | 4.00% | ~2 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 334)  
+Progressed: 47 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

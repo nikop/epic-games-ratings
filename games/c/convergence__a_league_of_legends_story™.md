@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 17.00% | ~126 |
-| The Mysterious Stranger | 14.00% | ~103 |
-| Rail Rat | 14.00% | ~103 |
-| Cartographer | 14.00% | ~103 |
+| The Mysterious Stranger | 14.00% | ~104 |
+| Rail Rat | 14.00% | ~104 |
+| Cartographer | 14.00% | ~104 |
 | The Steel Shadow | 13.00% | ~96 |
 | Treasure Trove | 13.00% | ~96 |
 | The Man Who Shattered Time | 13.00% | ~96 |
@@ -18,7 +18,6 @@
 | The Prince in Heels | 13.00% | ~96 |
 | Immaculate Aim | 13.00% | ~96 |
 | The Family Fortune | 13.00% | ~96 |
-| Like Clockwork | 12.00% | ~89 |
 | The Betrayer | 12.00% | ~89 |
 | The Loose Cannon | 12.00% | ~89 |
 | The Harder They Fall | 12.00% | ~89 |
@@ -26,9 +25,10 @@
 | Honest Mistake | 12.00% | ~89 |
 | Golem Chaser | 12.00% | ~89 |
 | Fast Learner | 12.00% | ~89 |
-| Check Your Pulse | 12.00% | ~89 |
 | Immaculate Aim | 12.00% | ~89 |
 | The Brass Boss | 12.00% | ~89 |
+| Like Clockwork | 11.00% | ~81 |
+| Check Your Pulse | 11.00% | ~81 |
 | Right On Time | 10.00% | ~74 |
 | Street Style | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 196)  
+Progressed: 740 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,3 +103,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-06-30 | 733 | 4 |
 | 2023-07-01 | 737 | 4 |
 | 2023-07-02 | 739 | 4 |
+| 2023-07-03 | 740 | 4 |

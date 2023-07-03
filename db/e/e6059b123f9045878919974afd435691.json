@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2023-07-03T14:03:53.6733724+00:00",
       "NumProgressed": 188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T15:03:45.7319829+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -283,9 +288,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -307,9 +312,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -355,9 +360,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -483,9 +488,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -555,9 +560,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -565,7 +570,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -603,9 +608,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -635,25 +640,25 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -717,7 +722,7 @@
       "Name": "The Last of Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -812,13 +817,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:03:53.673372+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:03:45.7319823+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:57:12.4140158+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:03:53.6734439+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:57:04.9479234+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:03:45.7320525+00:00"
 }

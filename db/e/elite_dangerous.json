@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -4838,10 +4838,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 12442,
       "NumberOfAwardsMax": 2165
+    },
+    {
+      "Time": "2023-07-03T14:57:42.4922428+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12443,
+      "NumberOfAwardsMax": 2165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12442,
+  "NumberOfAwards": 12443,
   "NumberOfAwardsMax": 2165,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4855,7 +4861,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2136
+      "Count": 2137
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4899,8 +4905,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-07-03T02:21:52.1960891+00:00",
+  "LastChanged": "2023-07-03T14:57:42.4922424+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.4946659+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:58:01.8061263+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:05:43.1815064+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:57:42.4922434+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:05:23.96911+00:00"
 }

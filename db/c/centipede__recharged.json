@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15149,
+  "EOS_Progressed": 15150,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -6031,6 +6031,11 @@
       "Time": "2023-07-03T14:04:04.2444916+00:00",
       "NumProgressed": 15149,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-07-03T15:03:54.4934137+00:00",
+      "NumProgressed": 15150,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 16,
@@ -6042,7 +6047,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "Burning_For_You",
@@ -6074,7 +6079,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "Feel_The_Thunder",
@@ -6090,7 +6095,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6122,7 +6127,7 @@
       "Name": "Mirrors",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Shadow_Warrior",
@@ -6146,7 +6151,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "Still_Burning",
@@ -6169,15 +6174,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15149,
+      "Progressed": 15150,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:04:04.2444913+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:03:54.4934127+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.2238354+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:59:41.7388343+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:04:04.2445389+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:59:09.2057388+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:03:54.4935223+00:00"
 }

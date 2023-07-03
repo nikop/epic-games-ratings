@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -237,9 +237,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1823,
+  "EOS_Progressed": 1824,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1497,6 +1497,11 @@
       "Time": "2023-07-03T14:07:04.5766916+00:00",
       "NumProgressed": 1823,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-03T15:06:34.0648499+00:00",
+      "NumProgressed": 1824,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1516,7 +1521,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACHV_03",
@@ -1548,7 +1553,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHV_07",
@@ -1556,7 +1561,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHV_08",
@@ -1708,7 +1713,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACHV_27",
@@ -1740,7 +1745,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACHV_31",
@@ -1788,7 +1793,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHV_37",
@@ -1963,7 +1968,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1823,
+      "Progressed": 1824,
       "Completed": 10
     }
   ],
@@ -1971,8 +1976,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-06-19T03:01:42.7485197+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:07:04.576691+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:06:34.0648493+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:58.9467598+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:01:14.8687269+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:07:04.5767491+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:00:30.6518182+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:06:34.0649007+00:00"
 }

@@ -29,6 +29,7 @@ Number of Ratings: 87  (23.09.2022)
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
 | Trapiche Emerald | 4.00% | ~3 |
+| Jewelry accuracy | 3.00% | ~22 |
 | One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~3 |
@@ -40,7 +41,6 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 2.00% | ~15 |
 | Globalisation Age | 2.00% | ~15 |
 | Industrial Age | 2.00% | ~15 |
-| Jewelry accuracy | 2.00% | ~15 |
 | Large construction | 2.00% | ~15 |
 | Living it large | 2.00% | ~15 |
 | Lucky vandal | 2.00% | ~15 |

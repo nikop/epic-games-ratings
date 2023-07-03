@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1734,
+  "EOS_Progressed": 1735,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2023-07-03T13:20:48.8915862+00:00",
       "NumProgressed": 1734,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-03T15:03:28.3491837+00:00",
+      "NumProgressed": 1735,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -1850,7 +1855,7 @@
       "Name": "Become King",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Collect20Gold",
@@ -1858,7 +1863,7 @@
       "Name": "Collect Gold",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "Collect20Iron",
@@ -1930,7 +1935,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "CompleteHunterFaction",
@@ -2002,7 +2007,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "Kill25Bugs",
@@ -2034,7 +2039,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MysteryKingsChamber",
@@ -2042,7 +2047,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "RepairChef",
@@ -2058,7 +2063,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "RepairThroneRoom",
@@ -2082,29 +2087,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1734,
+      "Progressed": 1735,
       "Completed": 8
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 375,
-      "Completed": 375
+      "Progressed": 376,
+      "Completed": 376
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:03:32.667077+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:03:28.349183+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.0888696+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:59:00.0048776+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:03:32.6671094+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:58:33.9471377+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:03:28.3492159+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -844,7 +844,7 @@
   ],
   "EOS_Progressed": 15620,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5334,9 +5334,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "PRINT_WEAPON",
@@ -5510,9 +5510,9 @@
       "ID": "FINISH_DLC4",
       "SetID": "6j5ggkc",
       "Name": "One Last Job",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "KILL_BIOBOT",
@@ -5557,8 +5557,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-03T10:58:02.8598301+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:05:46.4178586+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:05:26.8172747+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-03T13:58:26.6701694+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:05:46.4179267+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:58:05.2508867+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:05:26.8173473+00:00"
 }

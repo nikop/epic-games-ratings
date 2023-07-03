@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4904,
+  "EOS_Progressed": 4906,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4837,6 +4837,11 @@
       "Time": "2023-07-03T14:06:02.8970934+00:00",
       "NumProgressed": 4904,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T15:05:40.6510338+00:00",
+      "NumProgressed": 4906,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -5110,9 +5115,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "40",
@@ -5247,13 +5252,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4904,
+      "Progressed": 4906,
       "Completed": 4758
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4904,
+      "Progressed": 4906,
       "Completed": 4
     }
   ],
@@ -5261,8 +5266,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:06:02.8970923+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:05:40.6510332+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:00:11.8689946+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:06:02.8972765+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:59:35.5331579+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:05:40.6511052+00:00"
 }

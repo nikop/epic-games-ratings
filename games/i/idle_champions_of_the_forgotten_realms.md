@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,788 |
-| The Mad Wizard | 11.00% | ~22,578 |
-| The Ring of Regeneration | 6.00% | ~12,315 |
-| Are Ya Chicken? | 6.00% | ~12,315 |
-| Were-verpowered | 5.00% | ~10,263 |
-| Mad Cow Disease | 5.00% | ~10,263 |
-| Friendly Imps | 5.00% | ~10,263 |
-| A Persistent Buzzing | 4.00% | ~8,210 |
-| Seeking Allies | 4.00% | ~8,210 |
-| Pure Energy | 4.00% | ~8,210 |
-| Terror in the Dark | 3.00% | ~6,158 |
-| Unearthed Evil | 3.00% | ~6,158 |
-| The Crumbling Temple | 3.00% | ~6,158 |
-| The Contagious Curse | 3.00% | ~6,158 |
-| Beast Mode | 2.00% | ~4,105 |
-| Low Initiative | 2.00% | ~4,105 |
-| A Mysterious Summons | 2.00% | ~4,105 |
-| Building Trust | 2.00% | ~4,105 |
-| Useless Allies | 2.00% | ~4,105 |
-| Exploring Port Nyanzaru | 2.00% | ~4,105 |
-| Running of the Saurs | 2.00% | ~4,105 |
-| Escort to Waterdeep | 2.00% | ~4,105 |
-| Waterdeep Detours | 2.00% | ~4,105 |
-| Underdeep Cartography | 2.00% | ~4,105 |
+| The Cursed Farmer | 15.00% | ~30,796 |
+| The Mad Wizard | 11.00% | ~22,584 |
+| The Ring of Regeneration | 6.00% | ~12,318 |
+| Are Ya Chicken? | 6.00% | ~12,318 |
+| Were-verpowered | 5.00% | ~10,265 |
+| Mad Cow Disease | 5.00% | ~10,265 |
+| Friendly Imps | 5.00% | ~10,265 |
+| A Persistent Buzzing | 4.00% | ~8,212 |
+| Seeking Allies | 4.00% | ~8,212 |
+| Pure Energy | 4.00% | ~8,212 |
+| Terror in the Dark | 3.00% | ~6,159 |
+| Unearthed Evil | 3.00% | ~6,159 |
+| The Crumbling Temple | 3.00% | ~6,159 |
+| The Contagious Curse | 3.00% | ~6,159 |
+| Beast Mode | 2.00% | ~4,106 |
+| Low Initiative | 2.00% | ~4,106 |
+| A Mysterious Summons | 2.00% | ~4,106 |
+| Building Trust | 2.00% | ~4,106 |
+| Useless Allies | 2.00% | ~4,106 |
+| Exploring Port Nyanzaru | 2.00% | ~4,106 |
+| Running of the Saurs | 2.00% | ~4,106 |
+| Escort to Waterdeep | 2.00% | ~4,106 |
+| Waterdeep Detours | 2.00% | ~4,106 |
+| Underdeep Cartography | 2.00% | ~4,106 |
 | March of the Undead | 1.00% | ~2,053 |
 | No Time To Rest | 1.00% | ~2,053 |
 | Invisible Shadows | 1.00% | ~2,053 |
@@ -43,8 +43,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,053 |
 | The Templar's Camp | 1.00% | ~2,053 |
 | Rescue in the Jungle | 1.00% | ~2,053 |
-| Street War | 0.90% | ~1,847 |
-| A Tale of Two Cities | 0.90% | ~1,847 |
+| Street War | 0.90% | ~1,848 |
+| A Tale of Two Cities | 0.90% | ~1,848 |
 | Homecoming | 0.80% | ~1,642 |
 | Trollskull Manor | 0.80% | ~1,642 |
 | Dinosaur Racing | 0.80% | ~1,642 |
@@ -67,18 +67,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,029 |
 | Rude Welcome | 0.60% | ~1,232 |
 | The Haunted Jungle | 0.60% | ~1,232 |
-| Family Entanglements | 0.50% | ~1,026 |
-| The Immortal Warrior | 0.50% | ~1,026 |
-| The Wyrmheart Mine | 0.50% | ~1,026 |
-| Tower on the Lake | 0.50% | ~1,026 |
-| The Guardian of Orolunga | 0.50% | ~1,026 |
-| Hopelessly Lost | 0.50% | ~1,026 |
-| Enter the Sargauth | 0.50% | ~1,026 |
-| Lair of the Xanathar | 0.50% | ~1,026 |
-| Crowded Streets | 0.50% | ~1,026 |
-| Difficult Terrain | 0.50% | ~1,026 |
-| Market Fluctuations | 0.50% | ~1,026 |
-| Durable Deep | 0.50% | ~1,026 |
+| Family Entanglements | 0.50% | ~1,027 |
+| The Immortal Warrior | 0.50% | ~1,027 |
+| The Wyrmheart Mine | 0.50% | ~1,027 |
+| Tower on the Lake | 0.50% | ~1,027 |
+| The Guardian of Orolunga | 0.50% | ~1,027 |
+| Hopelessly Lost | 0.50% | ~1,027 |
+| Enter the Sargauth | 0.50% | ~1,027 |
+| Lair of the Xanathar | 0.50% | ~1,027 |
+| Crowded Streets | 0.50% | ~1,027 |
+| Difficult Terrain | 0.50% | ~1,027 |
+| Market Fluctuations | 0.50% | ~1,027 |
+| Durable Deep | 0.50% | ~1,027 |
 | Home Field Advantage | 0.40% | ~821 |
 | Force Grey Unleashed | 0.40% | ~821 |
 | Sleuth It Out | 0.40% | ~821 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.30% | ~515 |
 | Dwarven Rumors | 0.30% | ~515 |
 | Sunblight | 0.30% | ~515 |
+| The Radiant Nightmare | 0.30% | ~515 |
 | Overwhelming Force | 0.30% | ~616 |
 | Struggling Toward Omu | 0.20% | ~411 |
 | Taking Responsibility | 0.20% | ~411 |
@@ -220,7 +221,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.20% | ~343 |
 | The Bleeding Citadel | 0.20% | ~343 |
 | Idyllglen | 0.20% | ~343 |
-| The Radiant Nightmare | 0.20% | ~343 |
 | Waiting on Sunrise | 0.20% | ~343 |
 | Deekin's Mission | 0.20% | ~343 |
 | Frozen Vengeance | 0.20% | ~343 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,251 (Ranked 52)  
+Progressed: 205,307 (Ranked 52)  
 Completed: 2,025 (0.99%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,11 +584,11 @@ Completed: 2,025 (0.99%) (Ranked 101)
 | 2023-06-30 | 202,263 | 2,022 |
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
-| 2023-07-03 | 205,251 | 2,025 |
+| 2023-07-03 | 205,307 | 2,025 |
 ## Awards
-Max (Diverse Characters): 4,995  (Ranked 64)  
+Max (Diverse Characters): 4,995  (Ranked 65)  
 Sum: 30,364 (Ranked 37)  
-Diff (max vs sum): 27  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,995 |

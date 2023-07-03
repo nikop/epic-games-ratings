@@ -6,27 +6,27 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~436,997 |
-| The Three | 64.00% | ~336,962 |
-| The Banquet | 40.00% | ~210,601 |
-| Devara's Light | 30.00% | ~157,951 |
-| The Iron Ones | 18.00% | ~94,771 |
-| The Village | 16.00% | ~84,240 |
-| The Forest | 14.00% | ~73,710 |
-| Branded | 13.00% | ~68,445 |
-| The Imposter | 13.00% | ~68,445 |
-| The Keep | 13.00% | ~68,445 |
-| The Castle | 11.00% | ~57,915 |
-| The Dome | 9.00% | ~47,385 |
-| The Red Hall | 9.00% | ~47,385 |
-| The Sacrifice | 8.00% | ~42,120 |
-| The Cave | 7.00% | ~36,855 |
-| The Stone Roots | 7.00% | ~36,855 |
-| The Ziggurat | 7.00% | ~36,855 |
-| Storied | 6.00% | ~31,590 |
-| The Construct | 6.00% | ~31,590 |
-| The Mire | 6.00% | ~31,590 |
-| The Ruins | 6.00% | ~31,590 |
+| Find Sanctuary | 83.00% | ~437,002 |
+| The Three | 64.00% | ~336,966 |
+| The Banquet | 40.00% | ~210,604 |
+| Devara's Light | 30.00% | ~157,953 |
+| The Iron Ones | 18.00% | ~94,772 |
+| The Village | 16.00% | ~84,241 |
+| The Forest | 14.00% | ~73,711 |
+| Branded | 13.00% | ~68,446 |
+| The Imposter | 13.00% | ~68,446 |
+| The Keep | 13.00% | ~68,446 |
+| The Castle | 11.00% | ~57,916 |
+| The Dome | 9.00% | ~47,386 |
+| The Red Hall | 9.00% | ~47,386 |
+| The Sacrifice | 8.00% | ~42,121 |
+| The Cave | 7.00% | ~36,856 |
+| The Stone Roots | 7.00% | ~36,856 |
+| The Ziggurat | 7.00% | ~36,856 |
+| Storied | 6.00% | ~31,591 |
+| The Construct | 6.00% | ~31,591 |
+| The Mire | 6.00% | ~31,591 |
+| The Ruins | 6.00% | ~31,591 |
 | The Alkymancery | 5.00% | ~26,325 |
 | The Lake | 5.00% | ~26,325 |
 | The Pitchwoods | 5.00% | ~26,325 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,530 |
 | Fading Fast | 1.00% | ~5,265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,503 (Ranked 28)  
+Progressed: 526,509 (Ranked 28)  
 Completed: 1,465 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1,465 (0.28%) (Ranked 148)
 | 2023-06-30 | 526,218 | 1,464 |
 | 2023-07-01 | 526,332 | 1,464 |
 | 2023-07-02 | 526,447 | 1,465 |
-| 2023-07-03 | 526,503 | 1,465 |
+| 2023-07-03 | 526,509 | 1,465 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,903 (Ranked 202)  

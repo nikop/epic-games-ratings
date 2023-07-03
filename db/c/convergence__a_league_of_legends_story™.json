@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1539,6 +1539,11 @@
       "Time": "2023-07-02T19:07:10.2033118+00:00",
       "NumProgressed": 739,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T15:06:19.5005055+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1596,9 +1601,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "ClovemaryGift",
@@ -1670,7 +1675,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1710,7 +1715,7 @@
       "Name": "Rail Rat",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HexlockGift",
@@ -1750,7 +1755,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NoCritterSump",
@@ -1908,9 +1913,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "TheaterChests1",
@@ -1973,14 +1978,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-03T14:06:49.2159321+00:00",
+  "LastChanged_Achievements": "2023-07-03T15:06:19.5005049+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:00:06.831542+00:00",
-  "LastUpdate_Achievements": "2023-07-03T14:06:49.2159934+00:00"
+  "LastUpdate_Ratings": "2023-07-03T14:59:31.3871443+00:00",
+  "LastUpdate_Achievements": "2023-07-03T15:06:19.5005532+00:00"
 }
