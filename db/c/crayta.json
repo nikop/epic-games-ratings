@@ -2,12 +2,12 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109449,
+  "EOS_Progressed": 109450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1459,6 +1459,11 @@
       "Time": "2023-07-02T13:16:35.7840169+00:00",
       "NumProgressed": 109449,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-03T02:31:15.7965051+00:00",
+      "NumProgressed": 109450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -1662,7 +1667,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25173
+      "UsersEstimate": 25174
     },
     {
       "ID": "34",
@@ -1718,7 +1723,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7661
+      "UsersEstimate": 7662
     },
     {
       "ID": "7",
@@ -1741,15 +1746,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109449,
+      "Progressed": 109450,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:06:24.5676242+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:31:15.7965042+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:50.4088452+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:58:40.0706594+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:06:24.5676544+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:22:51.8393811+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:31:15.7965623+00:00"
 }

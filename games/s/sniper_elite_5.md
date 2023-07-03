@@ -1,24 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 617)  
+Rating: 4.45 (Ranked 619)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Climbing the Ladder | 0.80% | ~26 |
 | Taking it back | 0.80% | ~26 |
 | Target America | 0.80% | ~26 |
-| Climbing the Ladder | 0.70% | ~22 |
+| The Kraken Sleeps | 0.80% | ~26 |
 | Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
+| Lord of War | 0.70% | ~22 |
 | Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | It's Starting to Crack | 0.70% | ~22 |
-| The Kraken Sleeps | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Sharpshooter | 0.60% | ~19 |
 | Confirming Suspicions | 0.60% | ~19 |
-| Lord of War | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
 | Organ Grinder | 0.50% | ~16 |
@@ -54,6 +54,7 @@ Rating: 4.45 (Ranked 617)
 | Locomotion Commotion | 0.10% | ~3 |
 | Up close and personal | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
+| Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
@@ -70,14 +71,13 @@ Rating: 4.45 (Ranked 617)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Sight Beyond Sights | 0.00% | ~0 |
 | Reich To The Point | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
 | Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,196 (Ranked 145)  
+Progressed: 3,197 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
+| 2023-07-03 | 3,197 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.82 (Ranked 934)  
+Rating: 3.82 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 3.82 (Ranked 934)
 | Intermediate Chemist | 39.00% | ~567 |
 | Decorative Mind | 31.00% | ~451 |
 | Lumber Specialist | 31.00% | ~451 |
+| Catch of the Day | 25.00% | ~364 |
 | Kind-hearted | 24.00% | ~349 |
-| Catch of the Day | 24.00% | ~349 |
 | Amateur Chef | 21.00% | ~306 |
 | Fishing Guru | 19.00% | ~276 |
 | Spark of Love | 16.00% | ~233 |

@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550,
+  "EOS_Progressed": 1553,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3767,6 +3767,11 @@
       "Time": "2023-07-02T21:06:23.2839441+00:00",
       "NumProgressed": 1550,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T02:31:32.8009414+00:00",
+      "NumProgressed": 1553,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3802,7 +3807,7 @@
       "Name": "Arena Challenger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "backgroundstory",
@@ -3962,7 +3967,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "fourleafclover",
@@ -3986,7 +3991,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "gearenchanting",
@@ -4050,7 +4055,7 @@
       "Name": "Inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "jewelenchanting",
@@ -4170,7 +4175,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "prestigiousx10",
@@ -4194,7 +4199,7 @@
       "Name": "Sailor",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "scientist",
@@ -4202,7 +4207,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "scrollmaster",
@@ -4234,7 +4239,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 885
     },
     {
       "ID": "thealchemist",
@@ -4242,7 +4247,7 @@
       "Name": "The Alchemist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "theexpeditioner",
@@ -4266,7 +4271,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "thepowerofawakening",
@@ -4338,7 +4343,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1444
     },
     {
       "ID": "warmachinesarmy",
@@ -4370,14 +4375,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1227
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1550,
+      "Progressed": 1553,
       "Completed": 1
     }
   ],
@@ -4385,8 +4390,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:06:38.5083586+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:31:32.8009407+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:58:24.5767332+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:06:38.5084591+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:22:31.8553577+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:31:32.801129+00:00"
 }

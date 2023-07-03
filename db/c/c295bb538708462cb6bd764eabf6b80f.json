@@ -4,7 +4,7 @@
   "ProductSlug": "starsiege-deadzone",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-01T15:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-30T14:56:57.0597344+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:57:16.43198+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:03:24.5623289+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:20:52.7197908+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:26:40.9747534+00:00"
 }

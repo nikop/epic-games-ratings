@@ -13,7 +13,7 @@
 | Slaughter | 30.00% | ~9 |
 | Still alive! | 27.00% | ~8 |
 | Lives lost | 20.00% | ~6 |
-| Slay that one too! | 13.00% | ~4 |
+| Slay that one too! | 17.00% | ~5 |
 | Massive slaughter | 13.00% | ~4 |
 | ... And that one! | 10.00% | ~3 |
 | You monster! | 7.00% | ~2 |

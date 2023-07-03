@@ -2,12 +2,12 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -4832,11 +4832,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 12438,
       "NumberOfAwardsMax": 2163
+    },
+    {
+      "Time": "2023-07-03T02:21:52.1960893+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12442,
+      "NumberOfAwardsMax": 2165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12438,
-  "NumberOfAwardsMax": 2163,
+  "NumberOfAwards": 12442,
+  "NumberOfAwardsMax": 2165,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -4855,7 +4861,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2113
+      "Count": 2114
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4867,7 +4873,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2163
+      "Count": 2165
     },
     {
       "Text": "This game is Educational",
@@ -4879,7 +4885,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1873
+      "Count": 1874
     }
   ],
   "EOS_Progressed": 0,
@@ -4893,8 +4899,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-07-01T19:57:46.6878086+00:00",
+  "LastChanged": "2023-07-03T02:21:52.1960891+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.4946659+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:57:56.1893309+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:05:29.1467318+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:21:52.1960903+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:29:46.3175345+00:00"
 }

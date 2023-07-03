@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -562,9 +562,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 462120,
+  "EOS_Progressed": 462121,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8027,6 +8027,11 @@
       "Time": "2023-07-03T00:06:39.8052454+00:00",
       "NumProgressed": 462120,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-03T02:31:34.4266898+00:00",
+      "NumProgressed": 462121,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 79,
@@ -8052,9 +8057,9 @@
       "ID": "achievement_first_death",
       "SetID": "8cokdon",
       "Name": "In space, no one can hear you scream",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 1386
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -8669,21 +8674,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 6054,
+      "Progressed": 6055,
       "Completed": 2352
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 462120,
+      "Progressed": 462121,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-07-02T08:59:13.8125338+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:06:39.8052452+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:31:34.4266891+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.110503+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:59:31.0175877+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:06:39.8053766+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:24:13.2836216+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:31:34.4268395+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
@@ -2278,10 +2278,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2038,
       "NumberOfAwardsMax": 1363
+    },
+    {
+      "Time": "2023-07-03T02:25:28.9928945+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2039,
+      "NumberOfAwardsMax": 1363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2038,
+  "NumberOfAwards": 2039,
   "NumberOfAwardsMax": 1363,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2355,7 +2361,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 58
+      "Count": 59
     }
   ],
   "EOS_Progressed": 0,
@@ -2369,8 +2375,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2023-07-02T20:01:10.9799784+00:00",
+  "LastChanged": "2023-07-03T02:25:28.9928943+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.6891431+00:00",
-  "LastUpdate_Ratings": "2023-07-03T00:00:23.3349882+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:00:53.8288083+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:25:28.9928951+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:26:14.204854+00:00"
 }

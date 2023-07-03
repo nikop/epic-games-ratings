@@ -1,18 +1,18 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 843)  
+Rating: 4.19 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 2.00% | ~312 |
+| Two Heads Are Better Than One | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
 | Keep Fighting | 1.00% | ~35 |
 | You Need a Gun | 0.90% | ~141 |
-| Two Heads Are Better Than One | 0.90% | ~141 |
+| Flesh Wound | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
 | It's Time | 0.90% | ~32 |
-| Flesh Wound | 0.80% | ~125 |
 | I Do Belong Here | 0.80% | ~125 |
 | Workplace Hazard | 0.80% | ~125 |
 | Float Like A Butterfly | 0.80% | ~125 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,614 (Ranked 106)  
+Progressed: 15,615 (Ranked 106)  
 Completed: 62 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 62 (0.40%) (Ranked 134)
 | 2023-06-30 | 15,597 | 62 |
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
+| 2023-07-03 | 15,615 | 62 |
 ## Awards
 Max (Amazing Storytelling): 63  (Ranked 380)  
 Sum: 356 (Ranked 321)  

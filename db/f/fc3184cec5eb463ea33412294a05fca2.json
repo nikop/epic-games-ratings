@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -172,8 +172,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:04:22.1749128+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:28:12.4300369+00:00",
   "LastUpdate_AppInfo": "2023-07-01T10:57:17.0753347+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:57:22.1740997+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:04:22.1749256+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:21:01.8918336+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:28:12.4300575+00:00"
 }

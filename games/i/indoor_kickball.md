@@ -15,7 +15,7 @@
 | Butter Fingers | 64.00% | ~43 |
 | Stay Hydrated | 64.00% | ~43 |
 | True Story! | 36.00% | ~24 |
-| Bedroom Secret Spot | 33.00% | ~22 |
+| Bedroom Secret Spot | 34.00% | ~23 |
 | Kick It | 31.00% | ~21 |
 | Grand Slam! | 27.00% | ~18 |
 | Have Mercy | 25.00% | ~17 |

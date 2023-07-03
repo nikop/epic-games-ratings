@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -1036,6 +1036,11 @@
       "Time": "2023-07-02T20:04:29.1446185+00:00",
       "NumProgressed": 314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T02:28:29.3823433+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1069,9 +1074,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -1125,9 +1130,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "objective_headquarters_15",
@@ -1151,7 +1156,7 @@
       "Name": "Facility Online",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1229,9 +1234,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1350,14 +1355,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:04:34.5340096+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:28:29.3823427+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-03T00:00:34.6901746+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:04:34.534045+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:25:42.0418865+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:28:29.3824011+00:00"
 }

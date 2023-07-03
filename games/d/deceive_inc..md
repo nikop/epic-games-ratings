@@ -1,16 +1,16 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 310)  
+Rating: 4.64 (Ranked 311)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 65.00% | ~4,612 |
-| Mainframe Hacker | 47.00% | ~3,335 |
-| The Spy who eliminated me | 47.00% | ~3,335 |
-| Tomorrow Never Dyes | 46.00% | ~3,264 |
-| Never Say Loser Again | 40.00% | ~2,838 |
-| For your Eyes only | 39.00% | ~2,767 |
+| On Deceive Inc.'s Secret Service | 65.00% | ~4,614 |
+| Mainframe Hacker | 47.00% | ~3,336 |
+| The Spy who eliminated me | 47.00% | ~3,336 |
+| Tomorrow Never Dyes | 46.00% | ~3,265 |
+| Never Say Loser Again | 40.00% | ~2,839 |
+| For your Eyes only | 39.00% | ~2,768 |
 | From the Vault with Love | 37.00% | ~2,626 |
 | Tailor-Made | 37.00% | ~2,626 |
 | Fully Decked Out | 35.00% | ~2,484 |
@@ -18,14 +18,14 @@ Rating: 4.64 (Ranked 310)
 | A view to Win | 27.00% | ~1,916 |
 | Private Collection | 25.00% | ~1,774 |
 | Smells Like Trouble | 25.00% | ~1,774 |
-| Assistant Accountant | 24.00% | ~1,703 |
-| The Living Portrait | 24.00% | ~1,703 |
-| Killer Looks | 24.00% | ~1,703 |
-| Hostile Takeover | 24.00% | ~1,703 |
-| Keycards Royale | 23.00% | ~1,632 |
-| Dr. No Kill | 23.00% | ~1,632 |
-| My Motto, My Creed | 23.00% | ~1,632 |
-| In It to Win It | 22.00% | ~1,561 |
+| Assistant Accountant | 24.00% | ~1,704 |
+| The Living Portrait | 24.00% | ~1,704 |
+| Killer Looks | 24.00% | ~1,704 |
+| Hostile Takeover | 24.00% | ~1,704 |
+| Keycards Royale | 23.00% | ~1,633 |
+| Dr. No Kill | 23.00% | ~1,633 |
+| My Motto, My Creed | 23.00% | ~1,633 |
+| In It to Win It | 22.00% | ~1,562 |
 | Security Supervisor | 10.00% | ~710 |
 | License to Thrill | 9.00% | ~639 |
 | Social of Solace | 8.00% | ~568 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 310)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,096 (Ranked 122)  
+Progressed: 7,098 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 7,043 | 0 |
 | 2023-07-01 | 7,074 | 0 |
 | 2023-07-02 | 7,096 | 0 |
+| 2023-07-03 | 7,098 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

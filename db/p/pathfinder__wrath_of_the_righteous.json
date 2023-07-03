@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2934,10 +2934,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6788,
       "NumberOfAwardsMax": 1670
+    },
+    {
+      "Time": "2023-07-03T02:23:01.809884+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6789,
+      "NumberOfAwardsMax": 1670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6788,
+  "NumberOfAwards": 6789,
   "NumberOfAwardsMax": 1670,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2999,7 +3005,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 559
+      "Count": 560
     },
     {
       "Text": "This game has a Creative Community",
@@ -3008,9 +3014,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10155,
+  "EOS_Progressed": 10156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7693,6 +7699,11 @@
       "Time": "2023-07-03T00:03:16.3222068+00:00",
       "NumProgressed": 10155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T02:26:29.2717532+00:00",
+      "NumProgressed": 10156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7704,7 +7715,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "02_BurningCity",
@@ -8631,21 +8642,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8937,
+      "Progressed": 8938,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10155,
+      "Progressed": 10156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-02T13:58:28.7365907+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:03:16.3222064+00:00",
+  "LastChanged": "2023-07-03T02:23:01.8098838+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:26:29.2717527+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:58:45.6409781+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:03:16.3224003+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:23:01.8098846+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:26:29.2719633+00:00"
 }

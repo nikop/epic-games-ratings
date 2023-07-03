@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 388)  
+Rating: 4.60 (Ranked 389)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,15 +28,15 @@ Rating: 4.60 (Ranked 388)
 | Arch Mage | 0.90% | ~44 |
 | Preparation Is Everything | 0.90% | ~44 |
 | Duality | 0.90% | ~44 |
+| Return of the Wizard King | 0.80% | ~39 |
 | In a Liege of Your Own | 0.80% | ~39 |
 | Valley of Wonders | 0.70% | ~34 |
-| Return of the Wizard King | 0.70% | ~34 |
 | Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |
 | Digging for Treasure | 0.70% | ~34 |
 | The Magic That Empowers Me! | 0.60% | ~29 |
+| God Emperor | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
-| God Emperor | 0.50% | ~25 |
 | The Goddess of Nature | 0.50% | ~25 |
 | Crimson Caldera | 0.50% | ~25 |
 | Lord of Chaos | 0.40% | ~20 |

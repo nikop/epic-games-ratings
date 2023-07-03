@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "19",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:06:27.8654713+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:31:20.2339613+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:06.3751989+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:59:24.1871129+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:06:27.8655034+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:24:02.7197563+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:31:20.2339994+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 363,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
@@ -3632,10 +3632,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2810,
       "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2023-07-03T02:22:00.392328+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2821,
+      "NumberOfAwardsMax": 446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2810,
+  "NumberOfAwards": 2821,
   "NumberOfAwardsMax": 446,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3655,7 +3661,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 363
+      "Count": 368
     },
     {
       "Text": "This game has a Creative Community",
@@ -3679,7 +3685,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3703,7 +3709,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 177
+      "Count": 182
     }
   ],
   "EOS_Progressed": 0,
@@ -3718,8 +3724,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-02T20:58:03.7752735+00:00",
+  "LastChanged": "2023-07-03T02:22:00.3923279+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:54.908373+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:58:03.7034208+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:04:29.7061887+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:22:00.3923287+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:28:22.4365885+00:00"
 }

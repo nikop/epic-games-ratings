@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 363,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 58,
@@ -3826,10 +3826,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3496,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2023-07-03T02:23:16.5186901+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3497,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3496,
+  "NumberOfAwards": 3497,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3867,7 +3873,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 426
+      "Count": 427
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3894,9 +3900,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 144078,
+  "EOS_Progressed": 144108,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3212,
+  "EOS_NewPlayers": 3207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11709,6 +11715,11 @@
       "Time": "2023-07-03T00:00:48.8358711+00:00",
       "NumProgressed": 144078,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-03T02:26:07.1064097+00:00",
+      "NumProgressed": 144108,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -11728,7 +11739,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "Achievement_10",
@@ -11736,7 +11747,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Achievement_11",
@@ -11744,7 +11755,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Achievement_12",
@@ -11752,7 +11763,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 24493
+      "UsersEstimate": 24498
     },
     {
       "ID": "Achievement_13",
@@ -11776,7 +11787,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "Achievement_2",
@@ -11784,7 +11795,7 @@
       "Name": "Reformation",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "Achievement_3",
@@ -11800,7 +11811,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 37460
+      "UsersEstimate": 37468
     },
     {
       "ID": "Achievement_5",
@@ -11808,7 +11819,7 @@
       "Name": "Iron Bars",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "Achievement_6",
@@ -11832,7 +11843,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 12967
+      "UsersEstimate": 12970
     },
     {
       "ID": "Achievement_9",
@@ -11840,22 +11851,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 144078,
+      "Progressed": 144108,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-07-02T13:58:38.4436254+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:00:48.8358704+00:00",
+  "LastChanged": "2023-07-03T02:23:16.5186899+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:26:07.106409+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:14.7984983+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:58:55.0473178+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:00:48.8359399+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:23:16.518691+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:26:07.1065332+00:00"
 }

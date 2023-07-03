@@ -1,21 +1,21 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 568)  
+Rating: 4.49 (Ranked 569)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,591 |
-| Advancement | 73.00% | ~17,478 |
+| Stylish | 86.00% | ~20,592 |
+| Advancement | 73.00% | ~17,479 |
 | Meticulously Efficient | 64.00% | ~15,324 |
-| Discovery | 61.00% | ~14,605 |
+| Discovery | 61.00% | ~14,606 |
 | Swift Rift Removers | 55.00% | ~13,169 |
-| Fully Upgraded | 54.00% | ~12,929 |
-| Cultured | 52.00% | ~12,450 |
+| Fully Upgraded | 54.00% | ~12,930 |
+| Cultured | 52.00% | ~12,451 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,211 |
 | Vaporous Expansion | 48.00% | ~11,493 |
 | Teamwork | 44.00% | ~10,535 |
-| There you are! | 43.00% | ~10,295 |
+| There you are! | 43.00% | ~10,296 |
 | Clutch Capture | 41.00% | ~9,817 |
 | Back Off | 35.00% | ~8,380 |
 | Daily Dose | 35.00% | ~8,380 |
@@ -30,8 +30,8 @@ Rating: 4.49 (Ranked 568)
 | Pesky Jerks | 26.00% | ~6,225 |
 | Right back at ya | 26.00% | ~6,225 |
 | Stunner | 26.00% | ~6,225 |
-| Animated | 24.00% | ~5,746 |
-| Skilled | 24.00% | ~5,746 |
+| Animated | 24.00% | ~5,747 |
+| Skilled | 24.00% | ~5,747 |
 | Collector | 23.00% | ~5,507 |
 | Ectoplasmic Entity | 23.00% | ~5,507 |
 | Rift Destroyer | 20.00% | ~4,789 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 568)
 | Mycophile | 1.00% | ~239 |
 | I don't need these | 0.90% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,943 (Ranked 96)  
+Progressed: 23,944 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 46 (0.19%) (Ranked 161)
 | 2023-06-30 | 23,891 | 46 |
 | 2023-07-01 | 23,917 | 46 |
 | 2023-07-02 | 23,942 | 46 |
-| 2023-07-03 | 23,943 | 46 |
+| 2023-07-03 | 23,944 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 239  (Ranked 249)  
 Sum: 2,144 (Ranked 187)  

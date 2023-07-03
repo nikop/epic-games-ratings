@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 259)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Beginning of a Servantship | 45.00% | ~1,771 |
 | Trade Is My Trait | 37.00% | ~1,456 |
 | Number 18 | 24.00% | ~945 |
-| We Don't Have Time For That | 19.00% | ~748 |
+| We Don't Have Time For That | 20.00% | ~787 |
 | The Governator | 18.00% | ~708 |
 | The Legend of Langostino | 17.00% | ~669 |
 | Caribbean Comrade | 16.00% | ~630 |

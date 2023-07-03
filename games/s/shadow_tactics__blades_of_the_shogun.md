@@ -1,44 +1,44 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~18,271 |
-| Thorough | 9.00% | ~16,444 |
-| A thief's beginning | 8.00% | ~14,617 |
-| Tanuki Time | 8.00% | ~14,617 |
-| Disguised | 7.00% | ~12,790 |
-| Rescue Takuma | 7.00% | ~12,790 |
-| Rollin' | 7.00% | ~12,790 |
-| Chunin | 6.00% | ~10,963 |
-| Ice Ice Yuki | 6.00% | ~10,963 |
-| Jonin | 6.00% | ~10,963 |
-| Stoned Ox | 6.00% | ~10,963 |
-| Yabu | 6.00% | ~10,963 |
-| Flying Rocks | 5.00% | ~9,136 |
-| Happy Planning | 5.00% | ~9,136 |
-| Mugen Unchained | 5.00% | ~9,136 |
-| Warzone | 5.00% | ~9,136 |
-| Okkoto | 4.00% | ~7,308 |
-| Prisoners | 4.00% | ~7,308 |
-| Too Early | 4.00% | ~7,308 |
-| Gear up | 3.00% | ~5,481 |
-| Happy little accidents | 3.00% | ~5,481 |
-| Noboru | 3.00% | ~5,481 |
-| Still Rollin' | 3.00% | ~5,481 |
-| Stoned | 3.00% | ~5,481 |
-| Atheist Ox | 2.00% | ~3,654 |
-| It's raining men | 2.00% | ~3,654 |
-| Old Man | 2.00% | ~3,654 |
-| The Old Way | 2.00% | ~3,654 |
-| Winner Winner | 2.00% | ~3,654 |
+| Genin | 10.00% | ~18,273 |
+| Thorough | 9.00% | ~16,446 |
+| A thief's beginning | 8.00% | ~14,618 |
+| Tanuki Time | 8.00% | ~14,618 |
+| Disguised | 7.00% | ~12,791 |
+| Rescue Takuma | 7.00% | ~12,791 |
+| Rollin' | 7.00% | ~12,791 |
+| Chunin | 6.00% | ~10,964 |
+| Ice Ice Yuki | 6.00% | ~10,964 |
+| Jonin | 6.00% | ~10,964 |
+| Stoned Ox | 6.00% | ~10,964 |
+| Yabu | 6.00% | ~10,964 |
+| Flying Rocks | 5.00% | ~9,137 |
+| Happy Planning | 5.00% | ~9,137 |
+| Mugen Unchained | 5.00% | ~9,137 |
+| Warzone | 5.00% | ~9,137 |
+| Okkoto | 4.00% | ~7,309 |
+| Prisoners | 4.00% | ~7,309 |
+| Too Early | 4.00% | ~7,309 |
+| Gear up | 3.00% | ~5,482 |
+| Happy little accidents | 3.00% | ~5,482 |
+| Noboru | 3.00% | ~5,482 |
+| Still Rollin' | 3.00% | ~5,482 |
+| Stoned | 3.00% | ~5,482 |
+| Atheist Ox | 2.00% | ~3,655 |
+| It's raining men | 2.00% | ~3,655 |
+| Old Man | 2.00% | ~3,655 |
+| The Old Way | 2.00% | ~3,655 |
+| Winner Winner | 2.00% | ~3,655 |
 | Meticulous | 1.00% | ~1,827 |
 | No Gimmicks | 1.00% | ~1,827 |
 | The End | 1.00% | ~1,827 |
-| Undeserved Honor | 0.90% | ~1,644 |
+| Undeserved Honor | 0.90% | ~1,645 |
 | When Cut Across the Neck | 0.80% | ~1,462 |
 | High Five the Moon | 0.70% | ~1,279 |
 | The Cave | 0.70% | ~1,279 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~183 |
 | Release the Kraken | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,710 (Ranked 57)  
+Progressed: 182,731 (Ranked 57)  
 Completed: 55 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 55 (0.03%) (Ranked 206)
 | 2023-06-30 | 182,047 | 55 |
 | 2023-07-01 | 182,370 | 55 |
 | 2023-07-02 | 182,703 | 55 |
-| 2023-07-03 | 182,710 | 55 |
+| 2023-07-03 | 182,731 | 55 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 182)  
 Sum: 4,692 (Ranked 130)  

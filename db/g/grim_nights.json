@@ -195,9 +195,9 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_boss3",
@@ -316,8 +316,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-07-03T00:06:22.3087216+00:00",
+  "LastChanged_Achievements": "2023-07-03T02:31:12.5900723+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:56.4736161+00:00",
-  "LastUpdate_Ratings": "2023-07-02T23:59:17.4222486+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:06:22.3087337+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:23:53.5308941+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:31:12.590089+00:00"
 }

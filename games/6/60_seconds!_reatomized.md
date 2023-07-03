@@ -1,37 +1,37 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 310)  
+Rating: 4.64 (Ranked 311)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,193 |
-| All thumbs | 91.00% | ~4,103 |
-| I will survive! | 91.00% | ~4,103 |
-| Home, sweet home | 90.00% | ~4,058 |
-| Survivalist | 88.00% | ~3,968 |
-| One way ticket | 83.00% | ~3,742 |
-| Last man standing | 78.00% | ~3,517 |
-| Family guy | 76.00% | ~3,427 |
+| Prepper | 93.00% | ~4,194 |
+| All thumbs | 91.00% | ~4,104 |
+| I will survive! | 91.00% | ~4,104 |
+| Home, sweet home | 90.00% | ~4,059 |
+| Survivalist | 88.00% | ~3,969 |
+| One way ticket | 83.00% | ~3,743 |
+| Last man standing | 78.00% | ~3,518 |
+| Family guy | 76.00% | ~3,428 |
 | Out of the Bag | 73.00% | ~3,292 |
-| The Dark Side | 67.00% | ~3,021 |
+| The Dark Side | 67.00% | ~3,022 |
 | Duck and cover! | 63.00% | ~2,841 |
-| Souper! | 61.00% | ~2,750 |
-| Pacifist | 56.00% | ~2,525 |
+| Souper! | 61.00% | ~2,751 |
+| Pacifist | 56.00% | ~2,526 |
 | 2-1-6 | 55.00% | ~2,480 |
 | A gift | 51.00% | ~2,300 |
-| Girl Power | 45.00% | ~2,029 |
+| Girl Power | 45.00% | ~2,030 |
 | What goes around... | 41.00% | ~1,849 |
 | Be Prepared | 35.00% | ~1,578 |
 | Unbreakable | 34.00% | ~1,533 |
 | Atomic drill | 32.00% | ~1,443 |
 | This is the end | 32.00% | ~1,443 |
 | Gotta get 'em all | 30.00% | ~1,353 |
-| Disco Roach | 26.00% | ~1,172 |
+| Disco Roach | 26.00% | ~1,173 |
 | Dawkins Residence | 19.00% | ~857 |
 | Rescue time! | 17.00% | ~767 |
-| New order | 16.00% | ~721 |
-| New species | 16.00% | ~721 |
+| New order | 16.00% | ~722 |
+| New species | 16.00% | ~722 |
 | A New Hope | 14.00% | ~631 |
 | Enigma | 14.00% | ~631 |
 | Challenger | 12.00% | ~541 |
@@ -41,8 +41,8 @@ Rating: 4.64 (Ranked 310)
 | Holidays! | 6.00% | ~271 |
 | Mad Hatter | 6.00% | ~271 |
 | Yes Man | 6.00% | ~271 |
-| Take that, Brundlefly! | 5.00% | ~225 |
-| Lumbersexual | 5.00% | ~225 |
+| Take that, Brundlefly! | 5.00% | ~226 |
+| Lumbersexual | 5.00% | ~226 |
 | Feline Domination | 4.00% | ~180 |
 | Rogue One | 4.00% | ~180 |
 | Danger zone | 3.00% | ~135 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 310)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,509 (Ranked 136)  
+Progressed: 4,510 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-06-30 | 4,471 | 1 |
 | 2023-07-01 | 4,488 | 1 |
 | 2023-07-02 | 4,509 | 1 |
+| 2023-07-03 | 4,510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

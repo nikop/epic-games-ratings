@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 76.00% | ~4,448 |
-| Photographer | 73.00% | ~4,273 |
-| Valley's Helper | 69.00% | ~4,039 |
-| Constructor | 58.00% | ~3,395 |
-| Renovator | 56.00% | ~3,278 |
-| Bestest Friend | 54.00% | ~3,161 |
-| Banker | 45.00% | ~2,634 |
-| Gardener | 35.00% | ~2,049 |
-| Generous | 26.00% | ~1,522 |
-| Chef Cook | 20.00% | ~1,171 |
+| Goofy's Investor | 76.00% | ~4,453 |
+| Photographer | 73.00% | ~4,277 |
+| Valley's Helper | 69.00% | ~4,043 |
+| Constructor | 58.00% | ~3,398 |
+| Renovator | 56.00% | ~3,281 |
+| Bestest Friend | 54.00% | ~3,164 |
+| Banker | 45.00% | ~2,637 |
+| Gardener | 35.00% | ~2,051 |
+| Generous | 26.00% | ~1,523 |
+| Chef Cook | 20.00% | ~1,172 |
 | Miner | 9.00% | ~527 |
-| Angler | 6.00% | ~351 |
-| Duty Bound | 6.00% | ~351 |
+| Angler | 6.00% | ~352 |
+| Duty Bound | 6.00% | ~352 |
 | Thorn Cleaner | 4.00% | ~234 |
 | Chit Chatter | 3.00% | ~176 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,853 (Ranked 129)  
-Completed: 159 (2.72%) (Ranked 62)  
+Progressed: 5,859 (Ranked 129)  
+Completed: 159 (2.71%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,10 +47,10 @@ Completed: 159 (2.72%) (Ranked 62)
 | 2023-06-30 | 5,685 | 159 |
 | 2023-07-01 | 5,772 | 159 |
 | 2023-07-02 | 5,848 | 159 |
-| 2023-07-03 | 5,853 | 159 |
+| 2023-07-03 | 5,859 | 159 |
 ## Awards
 Max (Great for Beginners): 885  (Ranked 149)  
-Sum: 7,237 (Ranked 103)  
+Sum: 7,238 (Ranked 103)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -61,7 +61,7 @@ Diff (max vs sum): 46
 | This game has Amazing Characters | 767 |
 | This game has Amazing Storytelling | 739 |
 | This game has Quickly Understood Controls | 723 |
-| This game is Extremely Fun | 721 |
+| This game is Extremely Fun | 722 |
 | This game has a Creative Community | 600 |
 | This game has Easy Combat | 481 |
 | This game has Obsessive Gameplay | 415 |
@@ -184,3 +184,4 @@ Diff (max vs sum): 46
 | 2023-06-29 | 4.75 | - | 880 | 7,219 |
 | 2023-06-30 | 4.75 | - | 883 | 7,229 |
 | 2023-07-01 | 4.75 | - | 885 | 7,237 |
+| 2023-07-03 | 4.75 | - | 885 | 7,238 |

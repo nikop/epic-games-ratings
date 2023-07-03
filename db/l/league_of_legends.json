@@ -2,12 +2,12 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -6451,6 +6451,6 @@
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
   "LastChanged": "2023-07-02T23:01:47.3152565+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:36.7916049+00:00",
-  "LastUpdate_Ratings": "2023-07-03T00:00:20.6802014+00:00",
-  "LastUpdate_Achievements": "2023-07-03T00:03:18.3242594+00:00"
+  "LastUpdate_Ratings": "2023-07-03T02:25:26.0236247+00:00",
+  "LastUpdate_Achievements": "2023-07-03T02:26:31.8601804+00:00"
 }

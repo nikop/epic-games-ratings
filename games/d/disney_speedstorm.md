@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 53.00% | ~1,520 |
-| EXTRA BOOST | 41.00% | ~1,176 |
-| IT MAKES BOOM! | 41.00% | ~1,176 |
-| PRO | 33.00% | ~946 |
-| PROTECTED | 30.00% | ~860 |
-| A TIGER'S FEAR | 30.00% | ~860 |
-| HERE ARE SOME BARE NECESSITIES | 30.00% | ~860 |
-| AGGRESSIVE RACER | 30.00% | ~860 |
-| ACE SPEEDSTER | 22.00% | ~631 |
-| IT'S A LONG WAY TO THE TOP | 18.00% | ~516 |
+| ROOKIE | 53.00% | ~1,522 |
+| EXTRA BOOST | 41.00% | ~1,177 |
+| IT MAKES BOOM! | 41.00% | ~1,177 |
+| PRO | 33.00% | ~947 |
+| PROTECTED | 30.00% | ~861 |
+| A TIGER'S FEAR | 30.00% | ~861 |
+| HERE ARE SOME BARE NECESSITIES | 30.00% | ~861 |
+| AGGRESSIVE RACER | 30.00% | ~861 |
+| ACE SPEEDSTER | 22.00% | ~632 |
+| IT'S A LONG WAY TO THE TOP | 18.00% | ~517 |
 | MASTER | 14.00% | ~402 |
-| TRAINING HARD | 12.00% | ~344 |
-| RELEASE THE KRAKEN | 12.00% | ~344 |
-| ACE BRAWLER | 12.00% | ~344 |
-| DEFEAT OUR CHAMPION | 12.00% | ~344 |
-| LEGENDARY HERO | 12.00% | ~344 |
-| ACE DEFENDER | 11.00% | ~315 |
-| FRIENDLY | 11.00% | ~315 |
+| TRAINING HARD | 12.00% | ~345 |
+| RELEASE THE KRAKEN | 12.00% | ~345 |
+| ACE BRAWLER | 12.00% | ~345 |
+| DEFEAT OUR CHAMPION | 12.00% | ~345 |
+| LEGENDARY HERO | 12.00% | ~345 |
+| ACE DEFENDER | 11.00% | ~316 |
+| FRIENDLY | 11.00% | ~316 |
 | PERFECTLY POISED | 10.00% | ~287 |
 | BE OUR GUEST | 10.00% | ~287 |
 | THE EYE OF THE HUNTER | 10.00% | ~287 |
-| ACE TRICKSTER | 8.00% | ~229 |
+| ACE TRICKSTER | 8.00% | ~230 |
 | EXPERIENCED CREW | 4.00% | ~115 |
 | FRAMED! | 4.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,868 (Ranked 150)  
-Completed: 80 (2.79%) (Ranked 60)  
+Progressed: 2,871 (Ranked 150)  
+Completed: 81 (2.82%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,3 +102,4 @@ Completed: 80 (2.79%) (Ranked 60)
 | 2023-06-30 | 2,851 | 75 |
 | 2023-07-01 | 2,857 | 78 |
 | 2023-07-02 | 2,868 | 80 |
+| 2023-07-03 | 2,871 | 81 |
