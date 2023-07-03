@@ -1,12 +1,12 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.86% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 39.53% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.70% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 21.79% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 21.52% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 10 | [Island Cities](games/i/island_cities.md) | 17.79% |
@@ -49,8 +49,8 @@
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
 | 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.40% |
 | 50 | [ZZT!](games/z/zzt!.md) | 3.40% |
+| 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 52 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
@@ -109,7 +109,7 @@
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
+| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
 | 111 | [Haven](games/h/haven.md) | 0.69% |
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |

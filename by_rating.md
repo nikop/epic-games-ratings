@@ -506,7 +506,7 @@
 | 504 | [Aimlabs](games/a/aimlabs.md) | 4.53 | 0 | 503 |
 | 504 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 503 |
 | 504 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 503 |
-| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,486 | 18 |
+| 504 | [Dauntless](games/d/dauntless.md) | 4.53 | 20,507 | 18 |
 | 504 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 34 | 437 |
 | 504 | [Far Cry](games/f/far_cry.md) | 4.53 | 0 | 503 |
 | 504 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.53 | 0 | 503 |
@@ -731,29 +731,29 @@
 | 728 | [Core](games/c/core.md) | 4.36 | 740 | 158 |
 | 728 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
 | 728 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
-| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,550 | 29 |
+| 728 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,554 | 29 |
 | 728 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 503 |
 | 728 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
 | 728 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 503 |
 | 736 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 503 |
+| 736 | [Encased](games/e/encased.md) | 4.35 | 134 | 300 |
 | 736 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 503 |
 | 736 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 202 | 265 |
 | 736 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 503 |
 | 736 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.35 | 0 | 503 |
 | 736 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 0 | 503 |
 | 736 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 503 |
-| 743 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 503 |
-| 743 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 503 |
-| 743 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 463 |
-| 743 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 503 |
-| 743 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 503 |
-| 743 | [Encased](games/e/encased.md) | 4.34 | 134 | 300 |
-| 743 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 503 |
-| 743 | [Paladins](games/p/paladins.md) | 4.34 | 3,366 | 85 |
-| 743 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 503 |
-| 743 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,098 | 63 |
-| 743 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 244 | 247 |
-| 743 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 490 |
+| 744 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 503 |
+| 744 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 503 |
+| 744 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 463 |
+| 744 | [Backbone](games/b/backbone.md) | 4.34 | 0 | 503 |
+| 744 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 503 |
+| 744 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 503 |
+| 744 | [Paladins](games/p/paladins.md) | 4.34 | 3,366 | 85 |
+| 744 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 503 |
+| 744 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,098 | 63 |
+| 744 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 244 | 247 |
+| 744 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 490 |
 | 755 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 313 |
 | 755 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 389 |
 | 755 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 503 |
