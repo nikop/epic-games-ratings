@@ -7,15 +7,15 @@ Number of Ratings: 706  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 73.00% | ~3,154 |
-| Having A Field Day | 72.00% | ~3,110 |
+| Having A Field Day | 72.00% | ~3,111 |
 | Reap What You Sow | 69.00% | ~2,981 |
-| The First Day | 66.00% | ~2,851 |
-| Green Thumb | 65.00% | ~2,808 |
+| The First Day | 66.00% | ~2,852 |
+| Green Thumb | 65.00% | ~2,809 |
 | Novice Researcher | 63.00% | ~2,722 |
 | Putting Food on the Table | 59.00% | ~2,549 |
 | Onward | 54.00% | ~2,333 |
 | Home Cooked Meal | 53.00% | ~2,290 |
-| The First Week | 52.00% | ~2,246 |
+| The First Week | 52.00% | ~2,247 |
 | Studious Researcher | 50.00% | ~2,160 |
 | Beam Me Up | 49.00% | ~2,117 |
 | Feast or Famine | 49.00% | ~2,117 |
@@ -24,7 +24,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 39.00% | ~1,685 |
 | Fit For A King | 38.00% | ~1,642 |
 | Luminary Researcher | 34.00% | ~1,469 |
-| Heating Up | 27.00% | ~1,166 |
+| Heating Up | 27.00% | ~1,167 |
 | Winter Is Coming | 24.00% | ~1,037 |
 | Winter Is Here | 21.00% | ~907 |
 | Disassembled | 18.00% | ~778 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~86 |
 | Wabbit Season | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,320 (Ranked 138)  
+Progressed: 4,321 (Ranked 138)  
 Completed: 9 (0.21%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 9 (0.21%) (Ranked 158)
 | 2023-06-30 | 4,244 | 9 |
 | 2023-07-01 | 4,281 | 9 |
 | 2023-07-02 | 4,310 | 9 |
-| 2023-07-03 | 4,320 | 9 |
+| 2023-07-03 | 4,321 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 310)  
 Sum: 958 (Ranked 239)  

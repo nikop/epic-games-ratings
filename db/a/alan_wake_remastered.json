@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56741,
+  "EOS_Progressed": 56743,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6807,6 +6807,11 @@
       "Time": "2023-07-03T12:02:00.0846425+00:00",
       "NumProgressed": 56741,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-03T13:20:15.4767681+00:00",
+      "NumProgressed": 56743,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6826,7 +6831,7 @@
       "Name": "Nordic Walking",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11348
+      "UsersEstimate": 11349
     },
     {
       "ID": "03",
@@ -6834,7 +6839,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11348
+      "UsersEstimate": 11349
     },
     {
       "ID": "04",
@@ -6850,7 +6855,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10213
+      "UsersEstimate": 10214
     },
     {
       "ID": "06",
@@ -6938,7 +6943,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "17",
@@ -6946,7 +6951,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "18",
@@ -7090,7 +7095,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15320
+      "UsersEstimate": 15321
     },
     {
       "ID": "36",
@@ -7282,7 +7287,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "60",
@@ -7353,21 +7358,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56741,
+      "Progressed": 56743,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20209,
+      "Progressed": 20211,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:02:00.0846419+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:20:15.4767677+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:58:21.5138904+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:02:00.0847218+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:15:52.4478639+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:20:15.4768881+00:00"
 }

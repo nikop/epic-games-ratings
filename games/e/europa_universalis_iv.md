@@ -6,31 +6,31 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,832 |
-| That's a Grand Army | 8.00% | ~5,184 |
-| That is mine! | 8.00% | ~5,184 |
-| Victorious! | 8.00% | ~5,184 |
-| Brothers in Arms | 6.00% | ~3,888 |
-| That's a Grand Navy | 6.00% | ~3,888 |
-| Seriously?! | 6.00% | ~3,888 |
-| For the Glory | 5.00% | ~3,240 |
-| Cold War | 4.00% | ~2,592 |
-| True Catholic | 4.00% | ~2,592 |
-| Defender of the Faith | 3.00% | ~1,944 |
-| It's all about the money | 3.00% | ~1,944 |
-| Respected | 3.00% | ~1,944 |
-| The Princess is in this Castle | 3.00% | ~1,944 |
-| Truly Divine Ruler | 3.00% | ~1,944 |
-| Agressive Expander | 2.00% | ~1,296 |
-| Blockader | 2.00% | ~1,296 |
-| Combined Arms | 2.00% | ~1,296 |
-| Double the Love | 2.00% | ~1,296 |
-| Gentle Persuasion | 2.00% | ~1,296 |
-| It's all about luck | 2.00% | ~1,296 |
-| My armies are invincible! | 2.00% | ~1,296 |
-| Queen of Conquest | 2.00% | ~1,296 |
-| Royal Authority | 2.00% | ~1,296 |
-| Total Control | 2.00% | ~1,296 |
+| Until death do us apart | 9.00% | ~5,835 |
+| That's a Grand Army | 8.00% | ~5,186 |
+| That is mine! | 8.00% | ~5,186 |
+| Victorious! | 8.00% | ~5,186 |
+| Brothers in Arms | 6.00% | ~3,890 |
+| That's a Grand Navy | 6.00% | ~3,890 |
+| Seriously?! | 6.00% | ~3,890 |
+| For the Glory | 5.00% | ~3,241 |
+| Cold War | 4.00% | ~2,593 |
+| True Catholic | 4.00% | ~2,593 |
+| Defender of the Faith | 3.00% | ~1,945 |
+| It's all about the money | 3.00% | ~1,945 |
+| Respected | 3.00% | ~1,945 |
+| The Princess is in this Castle | 3.00% | ~1,945 |
+| Truly Divine Ruler | 3.00% | ~1,945 |
+| Agressive Expander | 2.00% | ~1,297 |
+| Blockader | 2.00% | ~1,297 |
+| Combined Arms | 2.00% | ~1,297 |
+| Double the Love | 2.00% | ~1,297 |
+| Gentle Persuasion | 2.00% | ~1,297 |
+| It's all about luck | 2.00% | ~1,297 |
+| My armies are invincible! | 2.00% | ~1,297 |
+| Queen of Conquest | 2.00% | ~1,297 |
+| Royal Authority | 2.00% | ~1,297 |
+| Total Control | 2.00% | ~1,297 |
 | All That's Thine Shall Be Mine | 1.00% | ~648 |
 | Azur semé de lis or | 1.00% | ~648 |
 | Bright Spark | 1.00% | ~648 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~648 |
 | Isn't this the way to India? | 0.90% | ~583 |
 | Market Control | 0.90% | ~583 |
-| Down Under | 0.80% | ~518 |
-| Trustworthy | 0.80% | ~518 |
+| Down Under | 0.80% | ~519 |
+| Trustworthy | 0.80% | ~519 |
 | Electable! | 0.70% | ~454 |
 | All belongs to Mother Russia | 0.60% | ~389 |
 | At every continent | 0.60% | ~389 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,800 (Ranked 76)  
+Progressed: 64,828 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,18 +435,18 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
-| 2023-07-03 | 64,800 | 0 |
+| 2023-07-03 | 64,828 | 0 |
 ## Awards
 Max (Educational): 5,500  (Ranked 61)  
-Sum: 45,324 (Ranked 27)  
+Sum: 45,342 (Ranked 27)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,500 |
 | This game is Highly Recommended | 5,258 |
-| This game has Challenging Combat | 5,222 |
-| This game is Extremely Fun | 5,204 |
-| This game has Diverse Characters | 5,162 |
+| This game has Challenging Combat | 5,226 |
+| This game is Extremely Fun | 5,210 |
+| This game has Diverse Characters | 5,170 |
 | This game is Relaxing | 5,091 |
 | This game has Competitive Players | 4,922 |
 | This game has Amazing Storytelling | 4,660 |
@@ -622,4 +622,4 @@ Diff (max vs sum): 34
 | 2023-06-30 | 4.69 | - | 5,480 | 45,249 |
 | 2023-07-01 | 4.69 | - | 5,493 | 45,283 |
 | 2023-07-02 | 4.69 | - | 5,493 | 45,317 |
-| 2023-07-03 | 4.69 | - | 5,500 | 45,324 |
+| 2023-07-03 | 4.69 | - | 5,500 | 45,342 |

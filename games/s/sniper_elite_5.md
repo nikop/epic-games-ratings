@@ -7,16 +7,16 @@ Rating: 4.45 (Ranked 619)
 | ---- | ---------- | ----- |
 | Target America | 0.90% | ~29 |
 | Climbing the Ladder | 0.80% | ~26 |
+| Lord of War | 0.80% | ~26 |
 | Resourceful | 0.80% | ~26 |
+| It's Starting to Crack | 0.80% | ~26 |
 | Taking it back | 0.80% | ~26 |
 | The Kraken Sleeps | 0.80% | ~26 |
 | Liberté | 0.70% | ~22 |
 | Meeting Resistance | 0.70% | ~22 |
 | Sharpshooter | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
-| Lord of War | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
-| It's Starting to Crack | 0.70% | ~22 |
 | No Stone Unturned | 0.60% | ~19 |
 | Gunslinger | 0.60% | ~19 |
 | Change the Channel | 0.60% | ~19 |
@@ -24,14 +24,14 @@ Rating: 4.45 (Ranked 619)
 | Organ Grinder | 0.50% | ~16 |
 | Der Geist | 0.50% | ~16 |
 | As Quiet as a Mouse | 0.50% | ~16 |
+| Brains of the Operation | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Skirmisher | 0.40% | ~13 |
 | Set Europe Ablaze | 0.40% | ~13 |
-| Brains of the Operation | 0.40% | ~13 |
+| My Little Friend | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
 | Just a Flesh Wound | 0.30% | ~10 |
 | Precision Is Key | 0.30% | ~10 |
-| My Little Friend | 0.30% | ~10 |
 | Explosive Efficiency | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Close Quarters | 0.30% | ~10 |

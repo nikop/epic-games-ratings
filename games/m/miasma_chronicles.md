@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.38 (Ranked 711)  
+Rating: 4.38 (Ranked 710)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,9 +49,9 @@ Rating: 4.38 (Ranked 711)
 | Cruelty | 3.00% | ~36 |
 | Master Editor | 2.00% | ~24 |
 | Attenborough | 1.00% | ~12 |
+| Bookworm | 1.00% | ~12 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Alpha Editor | 0.90% | ~11 |
-| Bookworm | 0.90% | ~11 |
 | Fratricide | 0.90% | ~11 |
 | QA Has Suffered! (Redux) | 0.80% | ~10 |
 | Shadow Boxin' | 0.80% | ~10 |

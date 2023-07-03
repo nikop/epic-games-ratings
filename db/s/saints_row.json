@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2904,10 +2904,10 @@
       "Count": 1045
     }
   ],
-  "EOS_Progressed": 50904,
+  "EOS_Progressed": 50906,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1579,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 1574,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -10709,6 +10709,11 @@
       "Time": "2023-07-03T12:03:14.8093364+00:00",
       "NumProgressed": 50904,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-07-03T13:20:44.4087861+00:00",
+      "NumProgressed": 50906,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 53,
@@ -10808,7 +10813,7 @@
       "Name": "Showdown",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6109
     },
     {
       "ID": "complete_first_side_hustle",
@@ -10832,7 +10837,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 18325
+      "UsersEstimate": 18326
     },
     {
       "ID": "customize_a_vehicle",
@@ -10848,7 +10853,7 @@
       "Name": "Optimized",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14253
+      "UsersEstimate": 14254
     },
     {
       "ID": "cutting_edge_materials",
@@ -10912,7 +10917,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "empire_tier_5",
@@ -10952,7 +10957,7 @@
       "Name": "Kitted Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "get_betrayed",
@@ -10960,7 +10965,7 @@
       "Name": "Et tu?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6109
     },
     {
       "ID": "get_fired",
@@ -10968,7 +10973,7 @@
       "Name": "Performance Review",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13744
+      "UsersEstimate": 13745
     },
     {
       "ID": "hit_max_level",
@@ -10976,7 +10981,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 6108
+      "UsersEstimate": 6109
     },
     {
       "ID": "infinite_boost_refill",
@@ -11016,7 +11021,7 @@
       "Name": "Making a Name",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 13235
+      "UsersEstimate": 13236
     },
     {
       "ID": "one_third_purple",
@@ -11104,7 +11109,7 @@
       "Name": "To The Nines",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16289
+      "UsersEstimate": 16290
     },
     {
       "ID": "whole_map_purple",
@@ -11120,7 +11125,7 @@
       "Name": "Producer Credit",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -11143,22 +11148,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 50904,
+      "Progressed": 50906,
       "Completed": 27
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 22541,
-      "Completed": 2395
+      "Progressed": 22543,
+      "Completed": 2396
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-07-02T13:10:28.1956593+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:03:14.809336+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:20:44.4087858+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:51.2540387+00:00",
-  "LastUpdate_Ratings": "2023-07-03T12:00:34.3803713+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:03:14.8094266+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:18:35.1787473+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:20:44.4088789+00:00"
 }

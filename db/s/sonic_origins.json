@@ -1084,9 +1084,9 @@
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
       "SetID": "7o8nc5m",
       "Name": "Super Sonic",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
@@ -1140,8 +1140,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:06:57.4997837+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:24:55.4074525+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:58:28.9931097+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:06:57.4998059+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:16:01.6799437+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:24:55.4074817+00:00"
 }

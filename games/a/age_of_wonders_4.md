@@ -21,13 +21,13 @@ Rating: 4.60 (Ranked 389)
 | Arch Mage | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | Stronger Together | 1.00% | ~49 |
+| Preparation Is Everything | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Intimidation Tactics | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
-| Preparation Is Everything | 0.90% | ~44 |
 | In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
 | Return of the Wizard King | 0.80% | ~39 |

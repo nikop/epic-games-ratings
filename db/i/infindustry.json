@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Rep1",
@@ -413,8 +413,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:06:56.756266+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:24:54.4263056+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:10.6979955+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:57:48.7826525+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:06:56.7562765+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:15:14.7999857+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:24:54.4263168+00:00"
 }

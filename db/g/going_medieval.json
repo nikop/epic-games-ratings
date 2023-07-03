@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1124,9 +1124,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 4320,
+  "EOS_Progressed": 4321,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4474,6 +4474,11 @@
       "Time": "2023-07-03T12:07:07.0897383+00:00",
       "NumProgressed": 4320,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-03T13:25:06.1929088+00:00",
+      "NumProgressed": 4321,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 31,
@@ -4517,7 +4522,7 @@
       "Name": "Green Thumb",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -4525,7 +4530,7 @@
       "Name": "Having A Field Day",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -4645,7 +4650,7 @@
       "Name": "The First Day",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -4661,7 +4666,7 @@
       "Name": "Heating Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -4685,7 +4690,7 @@
       "Name": "The First Week",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -4732,15 +4737,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 4320,
+      "Progressed": 4321,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:07:07.0897373+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:25:06.1929083+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-03T12:00:47.3999368+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:07:07.0897698+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:18:48.8926684+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:25:06.1929511+00:00"
 }

@@ -10,18 +10,18 @@
 | Corporal | 28.00% | ~90 |
 | Covert Operative | 22.00% | ~71 |
 | Sergeant | 19.00% | ~61 |
+| Lieutenant | 15.00% | ~48 |
 | Stocking Up | 15.00% | ~48 |
 | On Target | 15.00% | ~48 |
-| Lieutenant | 14.00% | ~45 |
 | Getting Deployment | 12.00% | ~39 |
 | Infantry Reporting | 12.00% | ~39 |
 | Fighting for Survival | 11.00% | ~35 |
 | Keeping Busy | 10.00% | ~32 |
 | Silver Competitor | 9.00% | ~29 |
 | Captain | 8.00% | ~26 |
-| Exterminator | 7.00% | ~22 |
-| Brothers in Arms | 7.00% | ~22 |
-| Factory Expansion | 7.00% | ~22 |
+| Exterminator | 7.00% | ~23 |
+| Brothers in Arms | 7.00% | ~23 |
+| Factory Expansion | 7.00% | ~23 |
 | Moving On Up | 4.00% | ~13 |
 | Know The Enemy | 3.00% | ~10 |
 | Player Betrayer | 3.00% | ~10 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.00% | ~0 |
 | Platinum Competitor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 237)  
+Progressed: 322 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,4 +68,4 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 293 | 0 |
 | 2023-07-01 | 308 | 0 |
 | 2023-07-02 | 314 | 0 |
-| 2023-07-03 | 321 | 0 |
+| 2023-07-03 | 322 | 0 |

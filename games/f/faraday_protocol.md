@@ -22,7 +22,7 @@
 | Get the hang of it | 0.00% | ~0 |
 | Welcome To Opis | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 421)  
+Progressed: 4 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |

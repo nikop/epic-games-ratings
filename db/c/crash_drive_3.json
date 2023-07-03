@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-07-02T23:02:27.4243644+00:00",
       "NumProgressed": 339,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-03T13:20:18.5325472+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -339,7 +344,7 @@
       "Name": "Special Forces",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -355,7 +360,7 @@
       "Name": "Drift King!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FIND_40_M2H",
@@ -387,7 +392,7 @@
       "Name": "To and Fro",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -529,9 +534,9 @@
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -547,7 +552,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -579,7 +584,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "STUNT_EVENT",
@@ -587,7 +592,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -627,7 +632,7 @@
       "Name": "I see the light!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -683,7 +688,7 @@
       "Name": "In the Bag!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -691,7 +696,7 @@
       "Name": "You\u0027re it",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -706,7 +711,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 2
     }
   ],
@@ -714,8 +719,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:02:02.6655504+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:20:18.5325467+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.3523611+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:59:32.4003211+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:02:02.6655976+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:17:17.9240462+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:20:18.5326025+00:00"
 }

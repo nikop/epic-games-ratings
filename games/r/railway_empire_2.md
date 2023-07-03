@@ -23,7 +23,7 @@ Rating: 4.41 (Ranked 670)
 | Apprentice | 42.00% | ~612 |
 | Bridge Builder | 41.00% | ~597 |
 | Access granted | 35.00% | ~510 |
-| Going once, going twice, sold | 34.00% | ~495 |
+| Going once, going twice, sold | 35.00% | ~510 |
 | Stoker | 33.00% | ~480 |
 | Bull and bear | 33.00% | ~480 |
 | Full Steam ahead | 31.00% | ~451 |

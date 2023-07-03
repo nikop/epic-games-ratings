@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1368,9 +1368,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 23956,
+  "EOS_Progressed": 23957,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7138,6 +7138,11 @@
       "Time": "2023-07-03T11:03:09.7963508+00:00",
       "NumProgressed": 23956,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-03T13:21:28.6286041+00:00",
+      "NumProgressed": 23957,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7149,7 +7154,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17488
+      "UsersEstimate": 17489
     },
     {
       "ID": "Animated",
@@ -7157,7 +7162,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "Back_Off",
@@ -7213,7 +7218,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12457
+      "UsersEstimate": 12458
     },
     {
       "ID": "Daily_Dose",
@@ -7237,7 +7242,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14613
+      "UsersEstimate": 14614
     },
     {
       "ID": "Dont_Need_These",
@@ -7285,7 +7290,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12936
+      "UsersEstimate": 12937
     },
     {
       "ID": "GB_In_Training",
@@ -7429,7 +7434,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "Solo_Capture",
@@ -7453,7 +7458,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20602
+      "UsersEstimate": 20603
     },
     {
       "ID": "Summoner",
@@ -7509,7 +7514,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10301
+      "UsersEstimate": 10302
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7556,7 +7561,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 23956,
+      "Progressed": 23957,
       "Completed": 46
     }
   ],
@@ -7564,8 +7569,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-03T05:00:03.5548745+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:03:43.5208845+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:21:28.6286036+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:59:48.9063643+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:03:43.5209436+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:17:38.3067025+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:21:28.6286839+00:00"
 }

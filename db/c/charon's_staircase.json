@@ -4,8 +4,8 @@
   "ProductSlug": "charons-staircase-b2d05f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "ACH_16",
       "SetID": "1g3d1lg",
       "Name": "Curious by nature",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_17",
@@ -174,9 +174,9 @@
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_20",
@@ -190,9 +190,9 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_4",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:07:05.4968171+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:25:04.3562588+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:06.1667124+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:59:57.6551105+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:07:05.4968282+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:17:48.6650085+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:25:04.3562728+00:00"
 }

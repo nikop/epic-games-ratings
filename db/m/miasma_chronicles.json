@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 711,
+  "Ranking_Rating": 710,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2156,9 +2156,9 @@
       "ID": "BOOKWORM",
       "SetID": "9a4jnji",
       "Name": "Bookworm",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BOT_WHISPERER",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:02:05.705122+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:20:22.2034697+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:58:59.6053929+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:02:05.7051779+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:16:38.6203595+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:20:22.2035264+00:00"
 }

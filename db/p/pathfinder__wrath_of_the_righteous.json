@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2940,18 +2940,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6789,
       "NumberOfAwardsMax": 1670
+    },
+    {
+      "Time": "2023-07-03T13:16:48.2549496+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6790,
+      "NumberOfAwardsMax": 1671
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6789,
-  "NumberOfAwardsMax": 1670,
+  "NumberOfAwards": 6790,
+  "NumberOfAwardsMax": 1671,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1670
+      "Count": 1671
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3014,9 +3020,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10158,
+  "EOS_Progressed": 10160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7714,6 +7720,11 @@
       "Time": "2023-07-03T10:02:17.7195705+00:00",
       "NumProgressed": 10158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T13:20:31.9718806+00:00",
+      "NumProgressed": 10160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7749,15 +7760,15 @@
       "Name": "Fifth Crusade",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "05_EmbraceOfAbyss",
       "SetID": "989of5o",
       "Name": "Embrace of the Abyss",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 508
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -7861,7 +7872,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "19_EqualToAroden",
@@ -7973,7 +7984,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8652,21 +8663,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8940,
+      "Progressed": 8942,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10158,
+      "Progressed": 10160,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-07-03T02:23:01.8098838+00:00",
-  "LastChanged_Achievements": "2023-07-03T12:02:14.0110886+00:00",
+  "LastChanged": "2023-07-03T13:16:48.2549495+00:00",
+  "LastChanged_Achievements": "2023-07-03T13:20:31.9718801+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-03T11:59:06.4513599+00:00",
-  "LastUpdate_Achievements": "2023-07-03T12:02:14.0112358+00:00"
+  "LastUpdate_Ratings": "2023-07-03T13:16:48.25495+00:00",
+  "LastUpdate_Achievements": "2023-07-03T13:20:31.9720606+00:00"
 }
