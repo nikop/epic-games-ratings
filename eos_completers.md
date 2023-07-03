@@ -48,8 +48,8 @@
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
 | 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
-| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 50 | [ZZT!](games/z/zzt!.md) | 3.40% |
+| 49 | [ZZT!](games/z/zzt!.md) | 3.43% |
+| 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 52 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
@@ -159,7 +159,7 @@
 | 155 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
 | 158 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.21% |
+| 160 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.20% |
 | 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
