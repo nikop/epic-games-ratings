@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 75.00% | ~12 |
-| Chapter 1 | 38.00% | ~6 |
+| Chapter 1 | 44.00% | ~7 |
 | Chapter 2 | 38.00% | ~6 |
 | Chapter 3 | 38.00% | ~6 |
 | Chapter 4 | 38.00% | ~6 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 235367,
+  "EOS_Progressed": 235371,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8255,6 +8255,11 @@
       "Time": "2023-07-03T08:06:15.6386108+00:00",
       "NumProgressed": 235367,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-03T09:06:51.959052+00:00",
+      "NumProgressed": 235371,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8266,7 +8271,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63549
+      "UsersEstimate": 63550
     },
     {
       "ID": "ACH_AON",
@@ -8306,7 +8311,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25890
+      "UsersEstimate": 25891
     },
     {
       "ID": "ACH_ENJOY",
@@ -8330,7 +8335,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 28244
+      "UsersEstimate": 28245
     },
     {
       "ID": "ACH_HATTRICK",
@@ -8410,7 +8415,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65903
+      "UsersEstimate": 65904
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -8482,7 +8487,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56488
+      "UsersEstimate": 56489
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -8498,7 +8503,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11768
+      "UsersEstimate": 11769
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -8578,7 +8583,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18829
+      "UsersEstimate": 18830
     },
     {
       "ID": "ACH_SCRATCH",
@@ -8586,7 +8591,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58842
+      "UsersEstimate": 58843
     },
     {
       "ID": "ACH_SOREAD",
@@ -8616,9 +8621,9 @@
       "ID": "ACH_THEOFTHREE",
       "SetID": "dfh7g87",
       "Name": "The power of three",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_THISWAY",
@@ -8634,7 +8639,7 @@
       "Name": "Trash compactor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11768
+      "UsersEstimate": 11769
     },
     {
       "ID": "ACH_TROLLKING",
@@ -8650,7 +8655,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11768
+      "UsersEstimate": 11769
     },
     {
       "ID": "ACH_WAKEUP",
@@ -8658,7 +8663,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18829
+      "UsersEstimate": 18830
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -8681,7 +8686,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 235367,
+      "Progressed": 235371,
       "Completed": 7
     }
   ],
@@ -8689,8 +8694,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:06:15.6386102+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:06:51.9590514+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:58:16.3395806+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:06:15.6387214+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:58:23.7671846+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:06:51.9591973+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -972,9 +972,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3939,
+  "EOS_Progressed": 3940,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5497,6 +5497,11 @@
       "Time": "2023-07-03T08:04:14.6350576+00:00",
       "NumProgressed": 3939,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T09:04:20.8327557+00:00",
+      "NumProgressed": 3940,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5628,7 +5633,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5690,9 +5695,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 748
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5780,7 +5785,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5827,15 +5832,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3939,
+      "Progressed": 3940,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-01T11:01:09.6314317+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:04:14.6350569+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:04:20.8327552+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:00:20.386716+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:04:14.6352162+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:00:59.0125338+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:04:20.8328226+00:00"
 }

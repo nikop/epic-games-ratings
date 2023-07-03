@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,749 |
-| Landlord | 31.00% | ~17,006 |
+| Lawbringer | 36.00% | ~19,750 |
+| Landlord | 31.00% | ~17,007 |
 | Lawmaker | 22.00% | ~12,069 |
-| Bannerlord | 21.00% | ~11,520 |
-| Horde breaker | 21.00% | ~11,520 |
-| Trained | 21.00% | ~11,520 |
+| Bannerlord | 21.00% | ~11,521 |
+| Horde breaker | 21.00% | ~11,521 |
+| Trained | 21.00% | ~11,521 |
 | The king is pleased | 17.00% | ~9,326 |
-| King Solomon | 16.00% | ~8,777 |
+| King Solomon | 16.00% | ~8,778 |
 | I can do it | 15.00% | ~8,229 |
-| Apple of my eye | 14.00% | ~7,680 |
+| Apple of my eye | 14.00% | ~7,681 |
 | God of the Arena | 12.00% | ~6,583 |
 | Against all odds | 10.00% | ~5,486 |
 | Swordbearer | 10.00% | ~5,486 |
@@ -26,7 +26,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 8.00% | ~4,389 |
 | Butterlord | 7.00% | ~3,840 |
 | Mastery | 7.00% | ~3,840 |
-| Know your enemy | 6.00% | ~3,291 |
+| Know your enemy | 6.00% | ~3,292 |
 | Crowdfunded | 4.00% | ~2,194 |
 | Crush your enemies | 4.00% | ~2,194 |
 | My way | 4.00% | ~2,194 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,858 (Ranked 82)  
+Progressed: 54,861 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 54,609 | 0 |
 | 2023-07-01 | 54,716 | 0 |
 | 2023-07-02 | 54,836 | 0 |
-| 2023-07-03 | 54,858 | 0 |
+| 2023-07-03 | 54,861 | 0 |
 ## Awards
 Max (Character Customization): 6,745  (Ranked 48)  
-Sum: 13,615 (Ranked 68)  
+Sum: 13,618 (Ranked 68)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): -20
 | This game is Great for Beginners | 871 |
 | This game has Diverse Characters | 849 |
 | This game is Highly Recommended | 811 |
-| This game is Extremely Fun | 772 |
+| This game is Extremely Fun | 775 |
 | This game has Amazing Storytelling | 767 |
 | This game has Amazing Characters | 749 |
 | This game is Relaxing | 749 |
@@ -323,3 +323,4 @@ Diff (max vs sum): -20
 | 2023-06-30 | 4.74 | - | 6,742 | 13,587 |
 | 2023-07-01 | 4.74 | - | 6,742 | 13,599 |
 | 2023-07-02 | 4.74 | - | 6,745 | 13,615 |
+| 2023-07-03 | 4.74 | - | 6,745 | 13,618 |

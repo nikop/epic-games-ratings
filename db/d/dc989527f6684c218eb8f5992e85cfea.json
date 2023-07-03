@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5666,
+  "EOS_Progressed": 5667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1846,6 +1846,11 @@
       "Time": "2023-07-03T08:00:46.6562508+00:00",
       "NumProgressed": 5666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T09:01:33.7848971+00:00",
+      "NumProgressed": 5667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -1903,9 +1908,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Vermeer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -2056,14 +2061,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 5666,
+      "Progressed": 5667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:00:46.6562501+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:01:33.7848966+00:00",
   "LastUpdate_AppInfo": "2023-06-30T17:57:02.6328291+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:57:15.5783043+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:00:46.6562921+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:57:05.9699656+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:01:33.7849592+00:00"
 }

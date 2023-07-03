@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -1931,9 +1931,9 @@
       "ID": "CompleteHunterFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Ranger Faction",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 364
     },
     {
       "ID": "CompleteStoryDM",
@@ -2035,9 +2035,9 @@
       "ID": "MysteryKingsChamber",
       "SetID": "9lj35g4",
       "Name": "Discover the mystery of the Kings Chambers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 329
     },
     {
       "ID": "RepairChef",
@@ -2098,8 +2098,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:03:19.9688804+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:02:33.1684407+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.0888696+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:58:38.82353+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:03:19.9689206+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:58:54.1019099+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:02:33.1684773+00:00"
 }

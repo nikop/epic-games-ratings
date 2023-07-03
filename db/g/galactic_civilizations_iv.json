@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -3835,9 +3835,9 @@
       "ID": "First_Race_Met",
       "SetID": "4h07amh",
       "Name": "First Contact",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4425
+      "UsersEstimate": 4485
     },
     {
       "ID": "First_Ship_Designed",
@@ -4307,8 +4307,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-06-23T19:57:35.1436212+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:05:13.6322602+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:05:36.289978+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.3493062+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:57:50.8286054+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:05:13.6323924+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:57:52.4570931+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:05:36.2900665+00:00"
 }

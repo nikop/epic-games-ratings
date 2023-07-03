@@ -6,31 +6,31 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~66,651 |
-| Where's that freaking Dwarf? | 43.00% | ~50,281 |
-| GG EZ | 27.00% | ~31,572 |
-| Speedrun | 24.00% | ~28,064 |
-| Déjà vu | 18.00% | ~21,048 |
-| DM intervention | 10.00% | ~11,693 |
-| Sock! SOCK! | 9.00% | ~10,524 |
-| A beer, two curses, three companions | 4.00% | ~4,677 |
-| Fireproof Wizardess | 3.00% | ~3,508 |
-| Livin' in a dwarven paradise | 2.00% | ~2,339 |
-| Way of the Wimp | 2.00% | ~2,339 |
-| The plot thickens... At the tavern | 2.00% | ~2,339 |
-| Res Judicata | 2.00% | ~2,339 |
-| The Woman in the High Castle | 2.00% | ~2,339 |
-| Team Building Exercise | 1.00% | ~1,169 |
-| The demons' feast | 0.40% | ~468 |
-| I'd rather... Just... Sing! | 0.30% | ~351 |
-| The number of the counting shalt be 7 | 0.30% | ~351 |
-| I am the night | 0.30% | ~351 |
-| The Great Library | 0.20% | ~234 |
-| Torture and Sensibility | 0.20% | ~234 |
-| Dwarf Fortress | 0.20% | ~234 |
-| Lust and Debauchery | 0.20% | ~234 |
-| The Ranger of Chaos | 0.20% | ~234 |
-| Oh, when I'll be level 10... | 0.20% | ~234 |
+| Alt+F4 | 57.00% | ~66,974 |
+| Where's that freaking Dwarf? | 43.00% | ~50,524 |
+| GG EZ | 27.00% | ~31,724 |
+| Speedrun | 24.00% | ~28,200 |
+| Déjà vu | 18.00% | ~21,150 |
+| DM intervention | 10.00% | ~11,750 |
+| Sock! SOCK! | 9.00% | ~10,575 |
+| A beer, two curses, three companions | 4.00% | ~4,700 |
+| Fireproof Wizardess | 3.00% | ~3,525 |
+| Livin' in a dwarven paradise | 2.00% | ~2,350 |
+| Way of the Wimp | 2.00% | ~2,350 |
+| The plot thickens... At the tavern | 2.00% | ~2,350 |
+| Res Judicata | 2.00% | ~2,350 |
+| The Woman in the High Castle | 2.00% | ~2,350 |
+| Team Building Exercise | 1.00% | ~1,175 |
+| The demons' feast | 0.40% | ~470 |
+| I'd rather... Just... Sing! | 0.30% | ~352 |
+| The number of the counting shalt be 7 | 0.30% | ~352 |
+| I am the night | 0.30% | ~352 |
+| The Great Library | 0.20% | ~235 |
+| Torture and Sensibility | 0.20% | ~235 |
+| Dwarf Fortress | 0.20% | ~235 |
+| Lust and Debauchery | 0.20% | ~235 |
+| The Ranger of Chaos | 0.20% | ~235 |
+| Oh, when I'll be level 10... | 0.20% | ~235 |
 | Cursed die | 0.10% | ~117 |
 | Holistic Adventuring Party | 0.10% | ~117 |
 | Shiny and Crôm | 0.10% | ~117 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,932 (Ranked 62)  
+Progressed: 117,498 (Ranked 62)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 56,846 | 0 |
 | 2023-07-01 | 89,113 | 0 |
 | 2023-07-02 | 112,562 | 0 |
-| 2023-07-03 | 116,932 | 0 |
+| 2023-07-03 | 117,498 | 0 |
 ## Awards
 Max (Character Customization): 63  (Ranked 380)  
 Sum: 63 (Ranked 437)  

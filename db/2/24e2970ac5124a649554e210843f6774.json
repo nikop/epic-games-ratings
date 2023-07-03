@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
     "PcReleaseDate": "2022-12-08T04:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 14,
   "EOS_Completed": 0,
@@ -224,17 +226,17 @@
       "ID": "defeat_level_5",
       "SetID": "7k8abkg",
       "Name": "Ep5: A Reprieve!? Earth Fights Back!",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "defeat_level_6",
       "SetID": "7k8abkg",
       "Name": "Ep6: A Mysterious Stranger. Friend or Foe?",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "defeat_level_6_black",
@@ -525,9 +527,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:04:23.1640188+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:04:31.6358967+00:00",
   "LastUpdate_AppInfo": "2023-06-27T15:57:05.2200061+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:57:20.7760244+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:04:23.1640651+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:57:11.4692244+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:04:31.6359383+00:00"
 }

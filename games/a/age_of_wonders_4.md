@@ -28,9 +28,9 @@ Rating: 4.60 (Ranked 389)
 | Intimidation Tactics | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Preparation Is Everything | 0.90% | ~44 |
+| In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
 | Return of the Wizard King | 0.80% | ~39 |
-| In a Liege of Your Own | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.70% | ~34 |
 | Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |

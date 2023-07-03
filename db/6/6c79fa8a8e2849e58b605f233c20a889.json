@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1880,
+  "EOS_Progressed": 1881,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -3156,6 +3156,11 @@
       "Time": "2023-07-03T06:04:45.8633999+00:00",
       "NumProgressed": 1880,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T09:04:55.5107372+00:00",
+      "NumProgressed": 1881,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3247,7 +3252,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3271,7 +3276,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "GUARD_MAKER",
@@ -3309,9 +3314,9 @@
       "ID": "MEDIC_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Chief Physician",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "REGICIDE_MASTER",
@@ -3342,14 +3347,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1880,
+      "Progressed": 1881,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:04:42.7503422+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:04:55.5107367+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:57:30.3063668+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:04:42.7504216+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:57:25.5184361+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:04:55.5107793+00:00"
 }

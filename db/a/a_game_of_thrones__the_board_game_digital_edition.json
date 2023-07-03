@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17508,
+  "EOS_Progressed": 17509,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -8937,6 +8937,11 @@
       "Time": "2023-07-03T08:06:05.0580734+00:00",
       "NumProgressed": 17508,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-07-03T09:06:39.7525463+00:00",
+      "NumProgressed": 17509,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -8964,7 +8969,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "1018",
@@ -8972,7 +8977,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "1019",
@@ -8996,7 +9001,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "1022",
@@ -9004,7 +9009,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "1023",
@@ -9052,7 +9057,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "1029",
@@ -9084,7 +9089,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7003
+      "UsersEstimate": 7004
     },
     {
       "ID": "1033",
@@ -9123,15 +9128,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17508,
+      "Progressed": 17509,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:06:05.0580728+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:06:39.7525458+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.185292+00:00",
-  "LastUpdate_Ratings": "2023-07-03T08:00:22.0798981+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:06:05.0581521+00:00"
+  "LastUpdate_Ratings": "2023-07-03T09:01:01.3241547+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:06:39.7526301+00:00"
 }

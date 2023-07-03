@@ -12,7 +12,7 @@
 | S is for Scrumptious | 17.00% | ~76 |
 | Next Level Cuisine | 11.00% | ~49 |
 | Haute Cuisine | 8.00% | ~36 |
-| Italian Style | 7.00% | ~31 |
+| Italian Style | 8.00% | ~36 |
 | Sous-Chef | 6.00% | ~27 |
 | Well-Stocked Kitchen | 5.00% | ~22 |
 | Culinary Arts | 4.00% | ~18 |

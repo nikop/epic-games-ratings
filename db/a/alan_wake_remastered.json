@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56730,
+  "EOS_Progressed": 56731,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6787,6 +6787,11 @@
       "Time": "2023-07-03T07:01:35.9723729+00:00",
       "NumProgressed": 56730,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-03T09:01:41.5126091+00:00",
+      "NumProgressed": 56731,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6830,7 +6835,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10211
+      "UsersEstimate": 10212
     },
     {
       "ID": "06",
@@ -6894,7 +6899,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "14",
@@ -6934,7 +6939,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2837
     },
     {
       "ID": "19",
@@ -7333,21 +7338,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56730,
+      "Progressed": 56731,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20198,
+      "Progressed": 20199,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-03T08:00:52.9471651+00:00",
+  "LastChanged_Achievements": "2023-07-03T09:01:41.5126086+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-03T07:58:02.8832493+00:00",
-  "LastUpdate_Achievements": "2023-07-03T08:00:52.9473688+00:00"
+  "LastUpdate_Ratings": "2023-07-03T08:58:06.5940694+00:00",
+  "LastUpdate_Achievements": "2023-07-03T09:01:41.51273+00:00"
 }
