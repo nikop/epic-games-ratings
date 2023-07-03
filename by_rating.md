@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,123 | 74 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 155,804 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 156,092 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,404 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 503 |
@@ -197,7 +197,7 @@
 | 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 503 |
 | 196 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,538 | 69 |
 | 196 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.70 | 0 | 503 |
-| 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 350 | 221 |
+| 196 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 350 | 222 |
 | 196 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 376 | 212 |
 | 196 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,474 | 70 |
 | 196 | [For The King](games/f/for_the_king.md) | 4.70 | 373 | 214 |
@@ -395,7 +395,7 @@
 | 389 | [Control](games/c/control.md) | 4.60 | 8,382 | 39 |
 | 389 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 217 | 257 |
 | 389 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 360 |
-| 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,451 | 27 |
+| 389 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,457 | 27 |
 | 389 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 503 |
 | 389 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 310 |
 | 389 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 388 |
@@ -691,7 +691,7 @@
 | 686 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,005 | 144 |
 | 686 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 503 |
 | 686 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 503 |
-| 686 | [MORDHAU](games/m/mordhau.md) | 4.40 | 347 | 222 |
+| 686 | [MORDHAU](games/m/mordhau.md) | 4.40 | 352 | 220 |
 | 686 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 503 |
 | 686 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 503 |
 | 686 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 74 | 360 |
@@ -768,7 +768,7 @@
 | 762 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.32 | 0 | 503 |
 | 762 | [Vampyr](games/v/vampyr.md) | 4.32 | 551 | 183 |
 | 768 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 503 |
-| 768 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 351 | 220 |
+| 768 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 351 | 221 |
 | 768 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 74 | 360 |
 | 768 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 955 | 146 |
 | 768 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 503 |

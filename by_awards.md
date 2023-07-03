@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,706 | 4.68 | 240 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 193,591 | 4.68 | 240 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,112 | 4.19 | 844 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 155,804 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 156,092 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,320 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,304 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 71,925 | 4.62 | 345 |
@@ -26,7 +26,7 @@
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,408 | 4.58 | 423 |
 | 25 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 14,365 | 4.25 | 803 |
 | 26 | [Maneater](games/m/maneater.md) | 13,551 | 4.49 | 569 |
-| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,451 | 4.60 | 389 |
+| 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,457 | 4.60 | 389 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,649 | 4.60 | 389 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,550 | 4.36 | 728 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,309 | 4.42 | 660 |
@@ -219,9 +219,9 @@
 | 217 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 362 | 4.61 | 364 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 359 | 4.85 | 41 |
 | 219 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 353 | 3.93 | 923 |
-| 220 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 351 | 4.31 | 768 |
-| 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 350 | 4.70 | 196 |
-| 222 | [MORDHAU](games/m/mordhau.md) | 347 | 4.40 | 686 |
+| 220 | [MORDHAU](games/m/mordhau.md) | 352 | 4.40 | 686 |
+| 221 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 351 | 4.31 | 768 |
+| 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 350 | 4.70 | 196 |
 | 223 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 344 | 4.76 | 119 |
 | 224 | [Inscryption](games/i/inscryption.md) | 335 | 4.86 | 28 |
 | 225 | [Dungeons 3](games/d/dungeons_3.md) | 329 | 4.66 | 273 |

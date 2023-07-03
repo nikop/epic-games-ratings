@@ -101,7 +101,7 @@
 | 99 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 102 | [Sable](games/s/sable.md) | 0.97% |
+| 102 | [Sable](games/s/sable.md) | 0.96% |
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
