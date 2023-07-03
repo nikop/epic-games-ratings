@@ -5,21 +5,21 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,549 |
-| Mainframe Hacker | 47.00% | ~3,341 |
-| The Spy who eliminated me | 47.00% | ~3,341 |
-| Tomorrow Never Dyes | 46.00% | ~3,270 |
-| Never Say Loser Again | 40.00% | ~2,843 |
-| For your Eyes only | 39.00% | ~2,772 |
-| From the Vault with Love | 37.00% | ~2,630 |
-| Tailor-Made | 37.00% | ~2,630 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,550 |
+| Mainframe Hacker | 47.00% | ~3,342 |
+| The Spy who eliminated me | 47.00% | ~3,342 |
+| Tomorrow Never Dyes | 46.00% | ~3,271 |
+| Never Say Loser Again | 40.00% | ~2,844 |
+| For your Eyes only | 39.00% | ~2,773 |
+| From the Vault with Love | 37.00% | ~2,631 |
+| Tailor-Made | 37.00% | ~2,631 |
 | Fully Decked Out | 35.00% | ~2,488 |
 | You Only Live Twice | 33.00% | ~2,346 |
-| A view to Win | 27.00% | ~1,919 |
-| Smells Like Trouble | 25.00% | ~1,777 |
+| A view to Win | 27.00% | ~1,920 |
+| Private Collection | 25.00% | ~1,778 |
+| Smells Like Trouble | 25.00% | ~1,778 |
 | Assistant Accountant | 24.00% | ~1,706 |
 | The Living Portrait | 24.00% | ~1,706 |
-| Private Collection | 24.00% | ~1,706 |
 | Killer Looks | 24.00% | ~1,706 |
 | Hostile Takeover | 24.00% | ~1,706 |
 | Keycards Royale | 23.00% | ~1,635 |
@@ -29,8 +29,8 @@ Rating: 4.64 (Ranked 311)
 | Security Supervisor | 10.00% | ~711 |
 | License to Thrill | 9.00% | ~640 |
 | Social of Solace | 8.00% | ~569 |
-| Safe Withdrawal | 6.00% | ~426 |
-| Live and let lie | 5.00% | ~355 |
+| Safe Withdrawal | 6.00% | ~427 |
+| Live and let lie | 5.00% | ~356 |
 | Call Me Maybe | 4.00% | ~284 |
 | PHD in VIP | 4.00% | ~284 |
 | Branch Manager | 3.00% | ~213 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 311)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,108 (Ranked 122)  
+Progressed: 7,110 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 7,043 | 0 |
 | 2023-07-01 | 7,074 | 0 |
 | 2023-07-02 | 7,096 | 0 |
-| 2023-07-03 | 7,108 | 0 |
+| 2023-07-03 | 7,110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,17 +7,17 @@ Rating: 4.45 (Ranked 619)
 | ---- | ---------- | ----- |
 | Taking it back | 0.90% | ~29 |
 | Target America | 0.90% | ~29 |
+| Meeting Resistance | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
+| Resourceful | 0.80% | ~26 |
 | It's Starting to Crack | 0.80% | ~26 |
 | The Kraken Sleeps | 0.80% | ~26 |
 | Climbing the Ladder | 0.70% | ~22 |
 | Liberté | 0.70% | ~22 |
 | No Stone Unturned | 0.70% | ~22 |
-| Meeting Resistance | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | Sharpshooter | 0.70% | ~22 |
 | Confirming Suspicions | 0.70% | ~22 |
-| Resourceful | 0.70% | ~22 |
 | The Kraken Wakes | 0.70% | ~22 |
 | Change the Channel | 0.70% | ~22 |
 | Organ Grinder | 0.60% | ~19 |
@@ -39,7 +39,9 @@ Rating: 4.45 (Ranked 619)
 | Siegebreaker | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
 | The Long Game | 0.20% | ~6 |
+| Rigged to Blow | 0.20% | ~6 |
 | Tinkerer | 0.20% | ~6 |
+| It'll Buff Right Out | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Last Resort | 0.20% | ~6 |
@@ -47,12 +49,10 @@ Rating: 4.45 (Ranked 619)
 | Fight Another Day | 0.20% | ~6 |
 | Strategist | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
-| Rigged to Blow | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Burn after reading | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
 | Eagle Eyed | 0.10% | ~3 |
-| It'll Buff Right Out | 0.10% | ~3 |
 | Locomotion Commotion | 0.10% | ~3 |
 | Up close and personal | 0.10% | ~3 |
 | Don't hold your breath | 0.10% | ~3 |
@@ -61,9 +61,11 @@ Rating: 4.45 (Ranked 619)
 | Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
+| From Führer Away | 0.10% | ~3 |
 | Covert Elimination | 0.10% | ~3 |
 | Alpha | 0.10% | ~3 |
 | Operation Foxley | 0.10% | ~3 |
+| Das Familienjuwel | 0.10% | ~3 |
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 | Shipbreaker | 0.10% | ~3 |
@@ -74,10 +76,8 @@ Rating: 4.45 (Ranked 619)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| From Führer Away | 0.00% | ~0 |
-| Das Familienjuwel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,201 (Ranked 145)  
+Progressed: 3,202 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 6 (0.19%) (Ranked 161)
 | 2023-06-30 | 3,169 | 6 |
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
-| 2023-07-03 | 3,201 | 6 |
+| 2023-07-03 | 3,202 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

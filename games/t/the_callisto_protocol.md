@@ -12,28 +12,28 @@ Rating: 4.19 (Ranked 843)
 | It's Time | 1.00% | ~35 |
 | You Need a Gun | 0.90% | ~141 |
 | Flesh Wound | 0.90% | ~141 |
+| I Do Belong Here | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
 | Float Like A Butterfly | 0.90% | ~141 |
 | Reforged | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
-| I Do Belong Here | 0.80% | ~125 |
+| Crash Site | 0.90% | ~141 |
 | Workplace Hazard | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | Without A Paddle | 0.80% | ~125 |
-| Crash Site | 0.80% | ~125 |
+| What Lies Beneath | 0.80% | ~125 |
 | Full Circle | 0.80% | ~125 |
 | Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | Terminated | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
-| What Lies Beneath | 0.70% | ~109 |
 | The Commonality | 0.60% | ~94 |
 | Desperate Times | 0.60% | ~94 |
 | One Last Job | 0.50% | ~18 |
 | In Striking Distance | 0.40% | ~62 |
+| Grim Reaper | 0.30% | ~47 |
 | This Isn't About Escape | 0.30% | ~11 |
 | Armed to the Teeth | 0.20% | ~7 |
-| Grim Reaper | 0.20% | ~31 |
 | Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -128,13 +128,13 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,620 | 63 |
 ## Awards
-Max (Amazing Storytelling): 63  (Ranked 380)  
-Sum: 357 (Ranked 321)  
+Max (Highly Recommended): 63  (Ranked 380)  
+Sum: 358 (Ranked 321)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 63 |
 | This game has Amazing Storytelling | 63 |
-| This game is Highly Recommended | 62 |
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 51 |
@@ -225,4 +225,4 @@ Diff (max vs sum): 59
 | 2023-06-30 | 4.20 | 61 | 349 |
 | 2023-07-01 | 4.20 | 63 | 354 |
 | 2023-07-02 | 4.19 | 63 | 356 |
-| 2023-07-03 | 4.19 | 63 | 357 |
+| 2023-07-03 | 4.19 | 63 | 358 |

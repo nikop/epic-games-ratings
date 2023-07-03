@@ -3128,9 +3128,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 510
     },
     {
       "ID": "A30",
@@ -3184,9 +3184,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1021
     },
     {
       "ID": "A37",
@@ -3345,8 +3345,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:06:32.6629369+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:06:58.8656905+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:58:15.9647925+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:06:32.6630033+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:58:25.5451492+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:06:58.8657605+00:00"
 }

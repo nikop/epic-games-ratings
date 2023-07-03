@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3201,
+  "EOS_Progressed": 3202,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4633,6 +4633,11 @@
       "Time": "2023-07-03T15:06:33.5000934+00:00",
       "NumProgressed": 3201,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-03T16:06:59.7855678+00:00",
+      "NumProgressed": 3202,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4722,9 +4727,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -4826,9 +4831,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4866,9 +4871,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -4962,9 +4967,9 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -5082,9 +5087,9 @@
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
       "SetID": "83mdf7p",
       "Name": "From F\u00FChrer Away",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -5122,9 +5127,9 @@
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
       "SetID": "83mdf7p",
       "Name": "Das Familienjuwel",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -5211,13 +5216,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3152,
-      "Completed": 10
+      "Progressed": 3153,
+      "Completed": 11
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3201,
+      "Progressed": 3202,
       "Completed": 6
     }
   ],
@@ -5225,8 +5230,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:06:33.500093+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:06:59.7855672+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:00:33.3033266+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:06:33.5001902+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:01:09.5180595+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:06:59.7856662+00:00"
 }

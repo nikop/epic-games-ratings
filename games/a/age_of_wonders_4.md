@@ -5,6 +5,7 @@ Rating: 4.60 (Ranked 389)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tipping the Scales | 3.00% | ~147 |
 | Realm Estate | 2.00% | ~98 |
 | A Wonderful Discovery | 2.00% | ~98 |
 | Secret Technique | 2.00% | ~98 |
@@ -13,7 +14,6 @@ Rating: 4.60 (Ranked 389)
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
 | Here be Dragons | 2.00% | ~98 |
-| Tipping the Scales | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
 | Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |

@@ -667,9 +667,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 32723,
+  "EOS_Progressed": 32729,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 499,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8057,6 +8057,11 @@
       "Time": "2023-07-03T15:03:44.1653436+00:00",
       "NumProgressed": 32723,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-03T16:03:34.7156039+00:00",
+      "NumProgressed": 32729,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -8084,7 +8089,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "ach_antiquarian10",
@@ -8188,7 +8193,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11782
     },
     {
       "ID": "ach_die10",
@@ -8228,7 +8233,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ach_hunterskeep",
@@ -8244,7 +8249,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ach_ladylilac",
@@ -8276,7 +8281,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4581
+      "UsersEstimate": 4582
     },
     {
       "ID": "ach_legacysalvager",
@@ -8420,7 +8425,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "ach_terror100",
@@ -8436,7 +8441,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "ach_undercurrent",
@@ -8499,15 +8504,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 32723,
+      "Progressed": 32729,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-06-27T03:23:10.0352371+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:03:44.165343+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:03:34.7156029+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5752682+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:59:46.9402922+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:03:44.1654376+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:00:11.6686312+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:03:34.7157007+00:00"
 }

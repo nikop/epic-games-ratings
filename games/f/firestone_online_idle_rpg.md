@@ -42,13 +42,13 @@ Rating: 4.07 (Ranked 897)
 | Here We Go Again | 7.00% | ~109 |
 | Master Enchanter | 7.00% | ~109 |
 | The father of Dragons | 7.00% | ~109 |
+| Enchanting skill | 6.00% | ~93 |
 | How Do You Turn This On? | 6.00% | ~93 |
 | The Expeditioner | 6.00% | ~93 |
 | Trader | 6.00% | ~93 |
 | Ancient Knowledge | 5.00% | ~78 |
 | Crystal Mining | 5.00% | ~78 |
 | Dragon Slayer | 5.00% | ~78 |
-| Enchanting skill | 5.00% | ~78 |
 | Engineer Mastery | 5.00% | ~78 |
 | Missions Dedication | 5.00% | ~78 |
 | Weekly Quest Completionist | 5.00% | ~78 |

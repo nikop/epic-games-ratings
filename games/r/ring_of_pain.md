@@ -29,9 +29,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nothing To Lose | 39.00% | ~90,427 |
 | What's Yours Is Mine | 38.00% | ~88,108 |
 | R.I.P | 36.00% | ~83,471 |
+| I Am Overburdened | 35.00% | ~81,152 |
 | Shootout | 35.00% | ~81,152 |
 | Cold Hearted | 34.00% | ~78,833 |
-| I Am Overburdened | 34.00% | ~78,833 |
 | Dig Your Own Grave | 33.00% | ~76,515 |
 | Toxic | 33.00% | ~76,515 |
 | Who To Trust? | 32.00% | ~74,196 |
@@ -73,13 +73,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 8.00% | ~18,549 |
 | Friend of Vermin | 7.00% | ~16,230 |
 | Juggernaut | 7.00% | ~16,230 |
+| Gigantic | 7.00% | ~16,230 |
 | Path To Enlightenment | 7.00% | ~16,230 |
 | Fire Away! | 7.00% | ~16,230 |
 | Sentimental Value | 7.00% | ~16,230 |
 | A Long Climb | 6.00% | ~13,912 |
 | Grave Digger | 6.00% | ~13,912 |
 | Soul Stash | 6.00% | ~13,912 |
-| Gigantic | 6.00% | ~13,912 |
 | Power Score | 6.00% | ~13,912 |
 | Just Looking Around | 6.00% | ~13,912 |
 | Obsessed | 6.00% | ~13,912 |

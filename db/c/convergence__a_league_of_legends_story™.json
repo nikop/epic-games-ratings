@@ -1625,9 +1625,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 81
     },
     {
       "ID": "CultivairChests1",
@@ -1681,9 +1681,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -1913,9 +1913,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "TheaterChests1",
@@ -1984,8 +1984,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:06:19.5005049+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:06:44.1344666+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:59:31.3871443+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:06:19.5005532+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:59:52.4369176+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:06:44.1345231+00:00"
 }

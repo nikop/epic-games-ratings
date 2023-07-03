@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22959,
+  "EOS_Progressed": 22960,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1959,6 +1959,11 @@
       "Time": "2023-07-03T09:05:47.1979238+00:00",
       "NumProgressed": 22959,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-03T16:05:51.3056148+00:00",
+      "NumProgressed": 22960,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -1978,7 +1983,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -1986,7 +1991,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -1994,7 +1999,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9872
+      "UsersEstimate": 9873
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -2034,7 +2039,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2074,7 +2079,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19056
+      "UsersEstimate": 19057
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2154,7 +2159,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16760
+      "UsersEstimate": 16761
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2162,7 +2167,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -2186,7 +2191,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -2225,22 +2230,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22959,
+      "Progressed": 22960,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 252,
-      "Completed": 252
+      "Progressed": 253,
+      "Completed": 253
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:05:34.8353489+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:05:51.3056139+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.9495889+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:58:12.0008906+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:05:34.8353843+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:58:20.5998121+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:05:51.3056529+00:00"
 }

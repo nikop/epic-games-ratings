@@ -9,7 +9,7 @@ Rating: 4.41 (Ranked 670)
 | A new Journey | 73.00% | ~1,064 |
 | Departure | 72.00% | ~1,050 |
 | From X to Y | 71.00% | ~1,035 |
-| Way of Iron | 69.00% | ~1,006 |
+| Way of Iron | 70.00% | ~1,021 |
 | Mystery Tour | 67.00% | ~977 |
 | We brake for nobody | 66.00% | ~962 |
 | Brainstorm | 65.00% | ~948 |
@@ -23,7 +23,7 @@ Rating: 4.41 (Ranked 670)
 | Apprentice | 42.00% | ~612 |
 | Bridge Builder | 41.00% | ~598 |
 | Access granted | 35.00% | ~510 |
-| Going once, going twice, sold | 34.00% | ~496 |
+| Going once, going twice, sold | 35.00% | ~510 |
 | Stoker | 33.00% | ~481 |
 | Bull and bear | 33.00% | ~481 |
 | Full Steam ahead | 31.00% | ~452 |

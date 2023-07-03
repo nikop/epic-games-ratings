@@ -19,11 +19,11 @@
 | One-way | 12.00% | ~15 |
 | The third floor | 12.00% | ~15 |
 | It can't be true | 11.00% | ~13 |
+| He who seeks, finds! | 10.00% | ~12 |
 | I'm close now | 9.00% | ~11 |
 | Failed attempt | 9.00% | ~11 |
 | Good choice | 9.00% | ~11 |
 | Take the long way round | 9.00% | ~11 |
-| He who seeks, finds! | 9.00% | ~11 |
 | The real escape | 8.00% | ~10 |
 | Nightmare in the kitchen | 8.00% | ~10 |
 | Born again | 6.00% | ~7 |

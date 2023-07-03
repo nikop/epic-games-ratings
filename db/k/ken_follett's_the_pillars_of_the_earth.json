@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13673,
+  "EOS_Progressed": 13674,
   "EOS_Completed": 104,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
@@ -5409,6 +5409,11 @@
       "Time": "2023-07-03T15:06:18.2019155+00:00",
       "NumProgressed": 13673,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-03T16:06:42.6748829+00:00",
+      "NumProgressed": 13674,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5484,7 +5489,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "tpote_achievement_18",
@@ -5580,7 +5585,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "tpote_achievement_29",
@@ -5706,9 +5711,9 @@
       "ID": "tpote_achievement_5",
       "SetID": "3jcf6c3",
       "Name": "Garden of Eden",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3282
     },
     {
       "ID": "tpote_achievement_6",
@@ -5747,15 +5752,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13673,
+      "Progressed": 13674,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:06:18.2019149+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:06:42.6748821+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:00:04.3399977+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:06:18.2019771+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:00:31.7978759+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:06:42.674948+00:00"
 }

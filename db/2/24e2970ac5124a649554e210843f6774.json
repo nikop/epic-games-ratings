@@ -4,7 +4,7 @@
   "ProductSlug": "rift-rangers-b3b5fa",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-06T13:30:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -81,6 +81,11 @@
       "Time": "2023-06-30T13:18:28.0803195+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T16:04:41.0626726+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -98,7 +103,7 @@
       "ID": "defeat_level_1",
       "SetID": "7k8abkg",
       "Name": "Ep1: Earth is Under Attack By Time and Space!",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -194,7 +199,7 @@
       "ID": "defeat_level_1_yellow",
       "SetID": "7k8abkg",
       "Name": "Special Episode Yellow 1: Can\u0027t Catch Me!",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -202,7 +207,7 @@
       "ID": "defeat_level_2",
       "SetID": "7k8abkg",
       "Name": "Ep2: Yellow Discovers the Secret of the Station",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -210,7 +215,7 @@
       "ID": "defeat_level_3",
       "SetID": "7k8abkg",
       "Name": "Ep3: Rangers in Space?!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "defeat_level_4",
       "SetID": "7k8abkg",
       "Name": "Ep4: The Rift Engine",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -226,7 +231,7 @@
       "ID": "defeat_level_5",
       "SetID": "7k8abkg",
       "Name": "Ep5: A Reprieve!? Earth Fights Back!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -234,7 +239,7 @@
       "ID": "defeat_level_6",
       "SetID": "7k8abkg",
       "Name": "Ep6: A Mysterious Stranger. Friend or Foe?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -346,7 +351,7 @@
       "ID": "weapon_grandmaster_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Piercing Bow",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -354,7 +359,7 @@
       "ID": "weapon_grandmaster_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Grandmaster: Ranger Shot",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -458,7 +463,7 @@
       "ID": "weapon_master_piercingbow",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Piercing Bow",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -466,7 +471,7 @@
       "ID": "weapon_master_rangershot",
       "SetID": "7k8abkg",
       "Name": "Weapon Master: Ranger Shot",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -523,14 +528,14 @@
     {
       "ID": "7k8abkg",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-03T08:57:11.4691999+00:00",
   "FirstSeenAchievements": "2023-06-06T14:01:35.6862615+00:00",
-  "LastChanged_Achievements": "2023-07-03T15:04:31.4316241+00:00",
+  "LastChanged_Achievements": "2023-07-03T16:04:41.062672+00:00",
   "LastUpdate_AppInfo": "2023-06-27T15:57:05.2200061+00:00",
-  "LastUpdate_Ratings": "2023-07-03T14:57:10.5123148+00:00",
-  "LastUpdate_Achievements": "2023-07-03T15:04:31.4316936+00:00"
+  "LastUpdate_Ratings": "2023-07-03T15:57:08.1713317+00:00",
+  "LastUpdate_Achievements": "2023-07-03T16:04:41.0627202+00:00"
 }
