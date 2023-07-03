@@ -5,8 +5,8 @@ Rating: 3.93 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,518 |
-| First One’s Free | 65.00% | ~44,374 |
+| Downed but Not Outed | 74.00% | ~50,519 |
+| First One’s Free | 65.00% | ~44,375 |
 | Neophyte Ninja | 50.00% | ~34,134 |
 | Too Old for This | 47.00% | ~32,086 |
 | Fancy Pants | 35.00% | ~23,894 |
@@ -19,13 +19,13 @@ Rating: 3.93 (Ranked 923)
 | Dragonslayer | 17.00% | ~11,606 |
 | Raider’s Ruin | 16.00% | ~10,923 |
 | Hidden Sonata | 13.00% | ~8,875 |
-| Rockay Rex | 11.00% | ~7,509 |
+| Rockay Rex | 11.00% | ~7,510 |
 | Freebooter | 10.00% | ~6,827 |
 | Track Star | 9.00% | ~6,144 |
 | Classy Joint | 9.00% | ~6,144 |
-| I Like Trains | 8.00% | ~5,461 |
-| Headhunter | 8.00% | ~5,461 |
-| Ding Dong | 8.00% | ~5,461 |
+| I Like Trains | 8.00% | ~5,462 |
+| Headhunter | 8.00% | ~5,462 |
+| Ding Dong | 8.00% | ~5,462 |
 | Foo Finder | 7.00% | ~4,779 |
 | Legend Looter | 5.00% | ~3,413 |
 | Savvy Seeker | 5.00% | ~3,413 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 923)
 | Geek Out | 0.50% | ~341 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,268 (Ranked 72)  
+Progressed: 68,269 (Ranked 72)  
 Completed: 35 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 35 (0.05%) (Ranked 199)
 | 2023-06-30 | 68,072 | 35 |
 | 2023-07-01 | 68,153 | 35 |
 | 2023-07-02 | 68,222 | 35 |
-| 2023-07-03 | 68,268 | 35 |
+| 2023-07-03 | 68,269 | 35 |
 ## Awards
 Max (Diverse Characters): 353  (Ranked 219)  
 Sum: 1,682 (Ranked 207)  

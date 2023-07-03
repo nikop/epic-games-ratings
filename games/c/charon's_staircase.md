@@ -12,7 +12,7 @@
 | Curious by nature | 42.00% | ~32 |
 | A lonely death | 36.00% | ~27 |
 | An ear for music | 34.00% | ~26 |
-| Agatha's favourite song | 30.00% | ~23 |
+| Agatha's favourite song | 32.00% | ~24 |
 | Lights and shadows | 29.00% | ~22 |
 | The threshold of horror | 28.00% | ~21 |
 | Second document retrieved | 25.00% | ~19 |
@@ -21,7 +21,7 @@
 | Dara's home | 25.00% | ~19 |
 | The lowest floor of the lift | 24.00% | ~18 |
 | Charon's coin | 22.00% | ~17 |
-| Until death do us part | 18.00% | ~14 |
+| Until death do us part | 20.00% | ~15 |
 | The impatient one | 18.00% | ~14 |
 | Spectres from the past | 7.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

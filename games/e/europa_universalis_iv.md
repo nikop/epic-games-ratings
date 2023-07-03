@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,840 |
-| That's a Grand Army | 8.00% | ~5,191 |
-| That is mine! | 8.00% | ~5,191 |
-| Victorious! | 8.00% | ~5,191 |
-| Brothers in Arms | 6.00% | ~3,893 |
-| That's a Grand Navy | 6.00% | ~3,893 |
-| Seriously?! | 6.00% | ~3,893 |
-| For the Glory | 5.00% | ~3,244 |
-| Cold War | 4.00% | ~2,596 |
-| True Catholic | 4.00% | ~2,596 |
+| Until death do us apart | 9.00% | ~5,842 |
+| That's a Grand Army | 8.00% | ~5,193 |
+| That is mine! | 8.00% | ~5,193 |
+| Victorious! | 8.00% | ~5,193 |
+| Brothers in Arms | 6.00% | ~3,895 |
+| That's a Grand Navy | 6.00% | ~3,895 |
+| Seriously?! | 6.00% | ~3,895 |
+| For the Glory | 5.00% | ~3,246 |
+| Cold War | 4.00% | ~2,597 |
+| True Catholic | 4.00% | ~2,597 |
 | Defender of the Faith | 3.00% | ~1,947 |
 | It's all about the money | 3.00% | ~1,947 |
 | Respected | 3.00% | ~1,947 |
@@ -47,17 +47,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.70% | ~454 |
 | All belongs to Mother Russia | 0.60% | ~389 |
 | At every continent | 0.60% | ~389 |
-| Early-Modern Warfare | 0.60% | ~389 |
 | One Family to Rule them All | 0.60% | ~389 |
 | Populists in Government | 0.60% | ~389 |
 | The pen is mightier than the sword | 0.60% | ~389 |
 | This is My Faith | 0.60% | ~389 |
 | Time Bandit | 0.60% | ~389 |
-| Absolutely | 0.50% | ~324 |
-| Grand Coalition | 0.50% | ~324 |
-| Ruina Imperii | 0.50% | ~324 |
-| Trophy Hunter | 0.50% | ~324 |
-| Voting Streak | 0.50% | ~324 |
+| Absolutely | 0.50% | ~325 |
+| Early-Modern Warfare | 0.50% | ~325 |
+| Grand Coalition | 0.50% | ~325 |
+| Ruina Imperii | 0.50% | ~325 |
+| Trophy Hunter | 0.50% | ~325 |
+| Voting Streak | 0.50% | ~325 |
 | All Your Trade Are Belong to Us | 0.40% | ~260 |
 | Bleed Them Dry | 0.40% | ~260 |
 | Dude, Where's my Boat? | 0.40% | ~260 |
@@ -161,6 +161,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Even Better than Piet Heyn | 0.10% | ~65 |
 | Everything's Coming Up Mulhouse | 0.10% | ~65 |
 | Fanatic Collectivist | 0.10% | ~65 |
+| First Come, First Serve | 0.10% | ~65 |
 | The First Toungoo Empire | 0.10% | ~65 |
 | For Odin! | 0.10% | ~65 |
 | For the Emperor! | 0.10% | ~65 |
@@ -334,7 +335,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bunte Kuh | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| First Come, First Serve | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,890 (Ranked 76)  
+Progressed: 64,916 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -435,7 +435,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-30 | 63,649 | 0 |
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
-| 2023-07-03 | 64,890 | 0 |
+| 2023-07-03 | 64,916 | 0 |
 ## Awards
 Max (Educational): 5,500  (Ranked 61)  
 Sum: 45,349 (Ranked 27)  

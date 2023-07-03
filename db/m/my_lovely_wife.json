@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "ACH_ASSIGN_LEARN_2",
       "SetID": "ajki3eh",
       "Name": "Dilligent",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
@@ -570,8 +570,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:03:23.9811964+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:03:18.6735828+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:36.4864004+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:58:26.3098785+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:03:23.9812247+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:58:38.5718914+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:03:18.6736038+00:00"
 }

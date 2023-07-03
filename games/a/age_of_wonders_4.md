@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 388)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,8 +38,8 @@ Rating: 4.60 (Ranked 389)
 | God Emperor | 0.60% | ~29 |
 | The Creator | 0.60% | ~29 |
 | The Goddess of Nature | 0.60% | ~29 |
+| Crimson Caldera | 0.60% | ~29 |
 | Lord of Chaos | 0.50% | ~25 |
-| Crimson Caldera | 0.50% | ~25 |
 | The Eternal Court | 0.50% | ~25 |
 | Jack of All Tomes | 0.40% | ~20 |
 | I've Got Everything I Need Right Here | 0.30% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 389)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,906 (Ranked 134)  
+Progressed: 4,907 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-30 | 4,883 | 4 |
 | 2023-07-01 | 4,898 | 4 |
 | 2023-07-02 | 4,902 | 4 |
-| 2023-07-03 | 4,906 | 4 |
+| 2023-07-03 | 4,907 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -33,11 +33,11 @@
 | Right On Time | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |
 | Chaincrawler Explorer | 8.00% | ~59 |
+| Theater Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
 | Family Memories | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |
 | Syron for Hope | 7.00% | ~52 |
-| Theater Explorer | 7.00% | ~52 |
 | Ask Questions Later | 7.00% | ~52 |
 | Corin Goes Home | 6.00% | ~44 |
 | Sartorialist | 6.00% | ~44 |

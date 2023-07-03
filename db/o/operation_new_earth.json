@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1076,6 +1076,11 @@
       "Time": "2023-07-03T16:04:36.007763+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-03T17:04:38.3783986+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1093,9 +1098,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1199,7 +1204,7 @@
       "Name": "Corporal",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1207,7 +1212,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1215,7 +1220,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1253,9 +1258,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1295,7 +1300,7 @@
       "Name": "Stocking Up",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1311,7 +1316,7 @@
       "Name": "On Target",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1390,14 +1395,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:04:36.0077617+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:04:38.3783982+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:01:02.890364+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:04:36.0078009+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:01:30.1678915+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:04:38.3784275+00:00"
 }

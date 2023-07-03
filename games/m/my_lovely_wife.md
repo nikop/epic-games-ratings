@@ -13,7 +13,7 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~524 |
 | The Love Martyr | 87.00% | ~512 |
 | Frugal | 85.00% | ~501 |
-| Dilligent | 82.00% | ~483 |
+| Dilligent | 83.00% | ~489 |
 | I... I did it? | 80.00% | ~471 |
 | Adored | 76.00% | ~448 |
 | The Hobbyist | 65.00% | ~383 |

@@ -14,11 +14,11 @@ Rating: 4.19 (Ranked 843)
 | Flesh Wound | 0.90% | ~141 |
 | I Do Belong Here | 0.90% | ~141 |
 | Chew 'Em Up | 0.90% | ~141 |
+| Workplace Hazard | 0.90% | ~141 |
 | Float Like A Butterfly | 0.90% | ~141 |
 | Reforged | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | Crash Site | 0.90% | ~141 |
-| Workplace Hazard | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | Without A Paddle | 0.80% | ~125 |
 | What Lies Beneath | 0.80% | ~125 |
@@ -128,9 +128,9 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,620 | 63 |
 ## Awards
-Max (Highly Recommended): 63  (Ranked 380)  
+Max (Highly Recommended): 63  (Ranked 381)  
 Sum: 358 (Ranked 321)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |

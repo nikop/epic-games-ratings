@@ -1,30 +1,30 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 388)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get A Room | 73.00% | ~3,157 |
-| Having A Field Day | 72.00% | ~3,113 |
+| Having A Field Day | 72.00% | ~3,114 |
 | Reap What You Sow | 69.00% | ~2,984 |
 | The First Day | 66.00% | ~2,854 |
 | Green Thumb | 65.00% | ~2,811 |
-| Novice Researcher | 63.00% | ~2,724 |
-| Putting Food on the Table | 59.00% | ~2,551 |
-| Onward | 54.00% | ~2,335 |
+| Novice Researcher | 63.00% | ~2,725 |
+| Putting Food on the Table | 59.00% | ~2,552 |
+| Onward | 54.00% | ~2,336 |
 | Home Cooked Meal | 53.00% | ~2,292 |
-| The First Week | 52.00% | ~2,248 |
+| The First Week | 52.00% | ~2,249 |
 | Studious Researcher | 50.00% | ~2,162 |
 | Beam Me Up | 49.00% | ~2,119 |
 | Feast or Famine | 49.00% | ~2,119 |
 | Adept Researcher | 44.00% | ~1,903 |
-| Retribution | 39.00% | ~1,686 |
-| ...And Don’t Come Back! | 39.00% | ~1,686 |
-| Fit For A King | 38.00% | ~1,643 |
+| Retribution | 39.00% | ~1,687 |
+| ...And Don’t Come Back! | 39.00% | ~1,687 |
+| Fit For A King | 38.00% | ~1,644 |
 | Luminary Researcher | 34.00% | ~1,470 |
-| Heating Up | 27.00% | ~1,167 |
+| Heating Up | 27.00% | ~1,168 |
 | Winter Is Coming | 24.00% | ~1,038 |
 | Winter Is Here | 21.00% | ~908 |
 | Disassembled | 18.00% | ~778 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~86 |
 | Wabbit Season | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,324 (Ranked 138)  
+Progressed: 4,325 (Ranked 138)  
 Completed: 9 (0.21%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 9 (0.21%) (Ranked 158)
 | 2023-06-30 | 4,244 | 9 |
 | 2023-07-01 | 4,281 | 9 |
 | 2023-07-02 | 4,310 | 9 |
-| 2023-07-03 | 4,324 | 9 |
+| 2023-07-03 | 4,325 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 310)  
 Sum: 958 (Ranked 239)  

@@ -2,7 +2,7 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 89,
@@ -601,8 +601,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:03:50.3534266+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:03:47.9103927+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.5344097+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:57:30.4582627+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:03:50.3534633+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:57:36.0193358+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:03:47.910421+00:00"
 }

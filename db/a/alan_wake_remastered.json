@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56747,
+  "EOS_Progressed": 56748,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6817,6 +6817,11 @@
       "Time": "2023-07-03T16:01:19.1270357+00:00",
       "NumProgressed": 56747,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-07-03T17:01:49.2441545+00:00",
+      "NumProgressed": 56748,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 67,
@@ -6844,7 +6849,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11349
+      "UsersEstimate": 11350
     },
     {
       "ID": "04",
@@ -6860,7 +6865,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10214
+      "UsersEstimate": 10215
     },
     {
       "ID": "06",
@@ -7363,21 +7368,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56747,
+      "Progressed": 56748,
       "Completed": 56
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20215,
+      "Progressed": 20216,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:01:19.127035+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:01:49.2441535+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:57:59.3230331+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:01:19.1271947+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:58:08.3229059+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:01:49.2442598+00:00"
 }

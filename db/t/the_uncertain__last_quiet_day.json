@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -346,6 +346,11 @@
       "Time": "2023-07-03T14:06:53.3428492+00:00",
       "NumProgressed": 487,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-03T17:07:07.8996446+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -365,7 +370,7 @@
       "Name": "Annoying",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "BLADE_RUNNER",
@@ -381,7 +386,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -405,7 +410,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -413,7 +418,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FOUND_IT",
@@ -437,7 +442,7 @@
       "Name": "Hacker",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "HANDS_UP",
@@ -445,7 +450,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -461,7 +466,7 @@
       "Name": "He is just a child",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "HIPSTER",
@@ -477,7 +482,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "LUCKY_DOG",
@@ -515,9 +520,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 259
     },
     {
       "ID": "PERFECT_HEARING",
@@ -549,7 +554,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -557,7 +562,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "SILENT",
@@ -565,7 +570,7 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SYSADMIN",
@@ -605,14 +610,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 15
     }
   ],
@@ -620,8 +625,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:06:48.3433313+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:07:07.8996443+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.2425892+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:59:11.2621435+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:06:48.3433606+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:59:27.997102+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:07:07.8996668+00:00"
 }

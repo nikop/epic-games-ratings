@@ -12,7 +12,7 @@ Rating: 4.07 (Ranked 897)
 | Fellowship Power | 41.00% | ~638 |
 | Guild Power | 25.00% | ~389 |
 | Prestigious x10 | 21.00% | ~327 |
-| The game is on | 19.00% | ~296 |
+| The game is on | 20.00% | ~311 |
 | Exotic Merchant | 17.00% | ~265 |
 | Dragon Clicker | 16.00% | ~249 |
 | Miner Clicker | 16.00% | ~249 |
@@ -46,12 +46,12 @@ Rating: 4.07 (Ranked 897)
 | How Do You Turn This On? | 6.00% | ~93 |
 | The Expeditioner | 6.00% | ~93 |
 | Trader | 6.00% | ~93 |
+| Weekly Quest Completionist | 6.00% | ~93 |
 | Ancient Knowledge | 5.00% | ~78 |
 | Crystal Mining | 5.00% | ~78 |
 | Dragon Slayer | 5.00% | ~78 |
 | Engineer Mastery | 5.00% | ~78 |
 | Missions Dedication | 5.00% | ~78 |
-| Weekly Quest Completionist | 5.00% | ~78 |
 | Background Story | 4.00% | ~62 |
 | Blueprint Upgrades | 4.00% | ~62 |
 | Lock And Load | 4.00% | ~62 |

@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 134,
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4906,
+  "EOS_Progressed": 4907,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4842,6 +4842,11 @@
       "Time": "2023-07-03T15:05:40.6510338+00:00",
       "NumProgressed": 4906,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-03T17:06:11.3230155+00:00",
+      "NumProgressed": 4907,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -5027,9 +5032,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "30",
@@ -5252,13 +5257,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4906,
+      "Progressed": 4907,
       "Completed": 4758
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4906,
+      "Progressed": 4907,
       "Completed": 4
     }
   ],
@@ -5266,8 +5271,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:05:57.9956554+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:06:11.3230149+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:59:58.6554685+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:05:57.9957322+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:00:21.2898549+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:06:11.3230765+00:00"
 }

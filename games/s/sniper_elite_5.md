@@ -22,12 +22,12 @@ Rating: 4.45 (Ranked 619)
 | Change the Channel | 0.70% | ~22 |
 | Organ Grinder | 0.60% | ~19 |
 | Opposing Force | 0.50% | ~16 |
+| Skirmisher | 0.50% | ~16 |
 | Der Geist | 0.50% | ~16 |
 | As Quiet as a Mouse | 0.50% | ~16 |
 | Brains of the Operation | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Just a Flesh Wound | 0.40% | ~13 |
-| Skirmisher | 0.40% | ~13 |
 | Set Europe Ablaze | 0.40% | ~13 |
 | My Little Friend | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |

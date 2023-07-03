@@ -789,9 +789,9 @@
       "ID": "ACH_ACT8",
       "SetID": "2310cb1",
       "Name": "Bad Robots",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ACT9",
@@ -869,9 +869,9 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -902,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:06:43.8527036+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:07:02.9032529+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.1466198+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:57:46.4625433+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:06:43.8527285+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:57:51.3188672+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:07:02.9032719+00:00"
 }

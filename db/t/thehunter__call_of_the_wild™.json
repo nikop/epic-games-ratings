@@ -4,7 +4,7 @@
   "ProductSlug": "thehunter-call-of-the-wild",
   "Ranking_Rating": 440,
   "Ranking_Popularity": 84,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 324,
@@ -5668,10 +5668,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 24183,
       "NumberOfAwardsMax": 3393
+    },
+    {
+      "Time": "2023-07-03T17:01:45.3494267+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 24193,
+      "NumberOfAwardsMax": 3393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24183,
+  "NumberOfAwards": 24193,
   "NumberOfAwardsMax": 3393,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5691,7 +5697,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3185
+      "Count": 3195
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5747,8 +5753,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-07-03T16:01:17.2946647+00:00",
+  "LastChanged": "2023-07-03T17:01:45.3494266+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:11.4210969+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:01:17.2946657+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:04:35.2890021+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:01:45.3494271+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:04:37.4819743+00:00"
 }

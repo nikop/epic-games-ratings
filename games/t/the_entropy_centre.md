@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~191 |
+| It's Rewind Time | 90.00% | ~194 |
 | Wake Up | 80.00% | ~172 |
 | Time Gates | 64.00% | ~138 |
 | Command Centre | 48.00% | ~103 |
@@ -15,7 +15,7 @@
 | 48 Attempts | 36.00% | ~77 |
 | Handyman | 23.00% | ~49 |
 | No Time To Relax | 20.00% | ~43 |
-| Bad Robots | 17.00% | ~37 |
+| Bad Robots | 18.00% | ~39 |
 | Archivist | 16.00% | ~34 |
 | Running Boots | 15.00% | ~32 |
 | Fashionista | 15.00% | ~32 |

@@ -2,7 +2,7 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 485,
@@ -6785,10 +6785,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 42233,
       "NumberOfAwardsMax": 15794
+    },
+    {
+      "Time": "2023-07-03T16:57:44.4788795+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 42240,
+      "NumberOfAwardsMax": 15794
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42233,
+  "NumberOfAwards": 42240,
   "NumberOfAwardsMax": 15794,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6802,7 +6808,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3617
+      "Count": 3624
     },
     {
       "Text": "This game is Relaxing",
@@ -6870,8 +6876,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-07-03T13:57:53.7571004+00:00",
+  "LastChanged": "2023-07-03T16:57:44.4788793+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:25.7280566+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:57:37.7128747+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:04:17.0153026+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:57:44.4788799+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:04:16.7441659+00:00"
 }

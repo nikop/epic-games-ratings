@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 1557,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4279,9 +4279,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 311
     },
     {
       "ID": "thepowerofawakening",
@@ -4367,9 +4367,9 @@
       "ID": "weeklyquestcompletionist",
       "SetID": "3nl4bcg",
       "Name": "Weekly Quest Completionist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 93
     },
     {
       "ID": "whatliesbehindthebush",
@@ -4400,8 +4400,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:06:56.9448949+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:07:16.801104+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-03T15:58:20.2946299+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:06:56.9449835+00:00"
+  "LastUpdate_Ratings": "2023-07-03T16:58:31.8416797+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:07:16.8011835+00:00"
 }

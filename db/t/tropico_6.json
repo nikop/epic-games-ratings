@@ -978,9 +978,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3945,
+  "EOS_Progressed": 3946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5528,6 +5528,11 @@
       "Time": "2023-07-03T16:04:30.2274399+00:00",
       "NumProgressed": 3945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-03T17:04:32.1676792+00:00",
+      "NumProgressed": 3946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5601,9 +5606,9 @@
       "ID": "ACH_EP_BUREAUCRAZY",
       "SetID": "1p8ab95",
       "Name": "Computer Says \u0022No\u0022",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -5619,7 +5624,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -5635,7 +5640,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5651,7 +5656,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -5699,7 +5704,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5858,15 +5863,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3945,
+      "Progressed": 3946,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-03T11:00:15.8752644+00:00",
-  "LastChanged_Achievements": "2023-07-03T16:04:30.2274394+00:00",
+  "LastChanged_Achievements": "2023-07-03T17:04:32.1676787+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-03T16:00:47.1413958+00:00",
-  "LastUpdate_Achievements": "2023-07-03T16:04:30.2275018+00:00"
+  "LastUpdate_Ratings": "2023-07-03T17:01:14.652609+00:00",
+  "LastUpdate_Achievements": "2023-07-03T17:04:32.1677241+00:00"
 }
