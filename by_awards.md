@@ -29,7 +29,7 @@
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,457 | 4.60 | 389 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,668 | 4.60 | 389 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,554 | 4.36 | 728 |
-| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,309 | 4.42 | 660 |
+| 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,310 | 4.42 | 660 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,978 | 4.86 | 28 |
 | 32 | [NBA 2K21](games/n/nba_2k21.md) | 11,713 | 4.39 | 702 |
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,291 | 4.69 | 219 |
@@ -63,8 +63,8 @@
 | 61 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,500 | 4.69 | 219 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,384 | 4.75 | 132 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 5,098 | 4.34 | 744 |
-| 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,995 | 4.05 | 900 |
-| 65 | [Dead Island 2](games/d/dead_island_2.md) | 4,983 | 4.54 | 491 |
+| 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,004 | 4.54 | 491 |
+| 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,995 | 4.05 | 900 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,851 | 4.65 | 298 |
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 460 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,643 | 3.99 | 914 |
@@ -72,7 +72,7 @@
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,482 | 4.70 | 196 |
 | 71 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,396 | 4.70 | 196 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,313 | 4.61 | 364 |
-| 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,236 | 4.76 | 119 |
+| 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,241 | 4.76 | 119 |
 | 74 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,191 | 4.57 | 440 |
 | 75 | [God of War](games/g/god_of_war.md) | 4,123 | 4.88 | 19 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,111 | 4.56 | 460 |
@@ -93,12 +93,12 @@
 | 91 | [Trackmania](games/t/trackmania.md) | 2,878 | 4.67 | 259 |
 | 92 | [Path of Exile](games/p/path_of_exile.md) | 2,527 | 4.61 | 364 |
 | 93 | [Among Us](games/a/among_us.md) | 2,511 | 4.57 | 440 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,502 | 4.50 | 551 |
-| 95 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,500 | 3.98 | 916 |
+| 93 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,511 | 4.50 | 551 |
+| 93 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,511 | 3.98 | 916 |
 | 96 | [RAGE 2](games/r/rage_2.md) | 2,486 | 4.27 | 793 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,452 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,428 | 4.10 | 885 |
-| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,419 | 4.80 | 80 |
+| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,420 | 4.80 | 80 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,407 | 4.18 | 851 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,338 | 4.78 | 100 |
 | 102 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,233 | 4.67 | 259 |
@@ -119,11 +119,11 @@
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,641 | 4.51 | 537 |
 | 118 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 1,518 | 4.72 | 166 |
 | 119 | [Celeste](games/c/celeste.md) | 1,508 | 4.92 | 4 |
-| 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,482 | 4.58 | 423 |
+| 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,483 | 4.58 | 423 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,465 | 4.79 | 88 |
 | 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,430 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,407 | 4.87 | 26 |
-| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,363 | 4.62 | 345 |
+| 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,365 | 4.62 | 345 |
 | 125 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,304 | 4.86 | 28 |
 | 126 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,303 | 4.70 | 196 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,302 | 4.52 | 520 |
@@ -155,7 +155,7 @@
 | 153 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 793 | 4.56 | 460 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 787 | 4.74 | 144 |
 | 155 | [The Long Dark](games/t/the_long_dark.md) | 769 | 4.74 | 144 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 755 | 4.45 | 619 |
+| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 757 | 4.45 | 619 |
 | 157 | [Auto Chess](games/a/auto_chess.md) | 749 | 4.52 | 520 |
 | 158 | [Core](games/c/core.md) | 740 | 4.36 | 728 |
 | 159 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 731 | 4.78 | 100 |

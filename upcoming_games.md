@@ -3,6 +3,7 @@
 | [Power Vacuum](games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 2023-07-04 | 21 (1,000 XP) | 2 | - | - |
 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 2023-07-04 | 22 (1,000 XP) | 1 | - | - |
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-07-04 | - |  | - | - |
+| [Project First Contact](games/8/831ead56047a4e22b1aade2cfdd11eee.md) | 2023-07-05 | - |  | - | - |
 | [Line's Guarder](games/0/0622018a4c334c81b78577a8aff76d52.md) | 2023-07-05 | - |  | - | - |
 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 2023-07-05 | 16 (1,000 XP) | 1 | - | - |
 | [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-07-07 | - |  | - | - |

@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.70% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 37.50% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 33.33% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -9,7 +9,7 @@
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 8 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 20.73% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.79% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.74% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.55% |
 | 12 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.96% |
@@ -31,7 +31,7 @@
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 31 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6.25% |
+| 32 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.88% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
@@ -47,11 +47,11 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
-| 48 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.45% |
-| 49 | [ZZT!](games/z/zzt!.md) | 3.43% |
-| 50 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 51 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
-| 52 | [JARS](games/j/jars.md) | 3.33% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.43% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
+| 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
+| 51 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
@@ -124,8 +124,8 @@
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
+| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
 | 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
@@ -483,4 +483,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,871 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,872 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
