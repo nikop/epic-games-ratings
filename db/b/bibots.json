@@ -4,7 +4,7 @@
   "ProductSlug": "bibots-aad4d0",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-05T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.7768439+00:00",
   "LastChanged": "2023-03-31T05:57:21.776844+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:07.1185628+00:00",
-  "LastUpdate_Ratings": "2023-07-04T14:58:43.2352099+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:03:37.1368023+00:00"
+  "LastUpdate_Ratings": "2023-07-04T15:58:59.3528354+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:03:43.6222608+00:00"
 }

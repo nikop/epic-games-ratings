@@ -6,44 +6,44 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,902 |
-| The Mad Wizard | 11.00% | ~22,662 |
-| Are Ya Chicken? | 7.00% | ~14,421 |
-| The Ring of Regeneration | 6.00% | ~12,361 |
-| Were-verpowered | 5.00% | ~10,301 |
-| Mad Cow Disease | 5.00% | ~10,301 |
-| Friendly Imps | 5.00% | ~10,301 |
-| A Persistent Buzzing | 4.00% | ~8,241 |
-| Seeking Allies | 4.00% | ~8,241 |
-| Pure Energy | 4.00% | ~8,241 |
-| Terror in the Dark | 3.00% | ~6,180 |
-| Unearthed Evil | 3.00% | ~6,180 |
-| The Crumbling Temple | 3.00% | ~6,180 |
-| The Contagious Curse | 3.00% | ~6,180 |
-| Beast Mode | 2.00% | ~4,120 |
-| Low Initiative | 2.00% | ~4,120 |
-| A Mysterious Summons | 2.00% | ~4,120 |
-| Building Trust | 2.00% | ~4,120 |
-| Useless Allies | 2.00% | ~4,120 |
-| Exploring Port Nyanzaru | 2.00% | ~4,120 |
-| Running of the Saurs | 2.00% | ~4,120 |
-| Escort to Waterdeep | 2.00% | ~4,120 |
-| Waterdeep Detours | 2.00% | ~4,120 |
-| Underdeep Cartography | 2.00% | ~4,120 |
-| March of the Undead | 1.00% | ~2,060 |
-| No Time To Rest | 1.00% | ~2,060 |
-| Invisible Shadows | 1.00% | ~2,060 |
-| The Dinner Party | 1.00% | ~2,060 |
-| The Botched Kidnapping | 1.00% | ~2,060 |
-| The Death Curse | 1.00% | ~2,060 |
-| Premature Betrayal | 1.00% | ~2,060 |
-| A Tale of Two Cities | 1.00% | ~2,060 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,060 |
-| Close Escort | 1.00% | ~2,060 |
-| Constant Banditry | 1.00% | ~2,060 |
-| Overdue Rendezvous | 1.00% | ~2,060 |
-| The Templar's Camp | 1.00% | ~2,060 |
-| Rescue in the Jungle | 1.00% | ~2,060 |
+| The Cursed Farmer | 15.00% | ~30,908 |
+| The Mad Wizard | 11.00% | ~22,666 |
+| Are Ya Chicken? | 7.00% | ~14,424 |
+| The Ring of Regeneration | 6.00% | ~12,363 |
+| Were-verpowered | 5.00% | ~10,303 |
+| Mad Cow Disease | 5.00% | ~10,303 |
+| Friendly Imps | 5.00% | ~10,303 |
+| A Persistent Buzzing | 4.00% | ~8,242 |
+| Seeking Allies | 4.00% | ~8,242 |
+| Pure Energy | 4.00% | ~8,242 |
+| Terror in the Dark | 3.00% | ~6,182 |
+| Unearthed Evil | 3.00% | ~6,182 |
+| The Crumbling Temple | 3.00% | ~6,182 |
+| The Contagious Curse | 3.00% | ~6,182 |
+| Beast Mode | 2.00% | ~4,121 |
+| Low Initiative | 2.00% | ~4,121 |
+| A Mysterious Summons | 2.00% | ~4,121 |
+| Building Trust | 2.00% | ~4,121 |
+| Useless Allies | 2.00% | ~4,121 |
+| Exploring Port Nyanzaru | 2.00% | ~4,121 |
+| Running of the Saurs | 2.00% | ~4,121 |
+| Escort to Waterdeep | 2.00% | ~4,121 |
+| Waterdeep Detours | 2.00% | ~4,121 |
+| Underdeep Cartography | 2.00% | ~4,121 |
+| March of the Undead | 1.00% | ~2,061 |
+| No Time To Rest | 1.00% | ~2,061 |
+| Invisible Shadows | 1.00% | ~2,061 |
+| The Dinner Party | 1.00% | ~2,061 |
+| The Botched Kidnapping | 1.00% | ~2,061 |
+| The Death Curse | 1.00% | ~2,061 |
+| Premature Betrayal | 1.00% | ~2,061 |
+| A Tale of Two Cities | 1.00% | ~2,061 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,061 |
+| Close Escort | 1.00% | ~2,061 |
+| Constant Banditry | 1.00% | ~2,061 |
+| Overdue Rendezvous | 1.00% | ~2,061 |
+| The Templar's Camp | 1.00% | ~2,061 |
+| Rescue in the Jungle | 1.00% | ~2,061 |
 | Homecoming | 0.90% | ~1,854 |
 | Street War | 0.90% | ~1,854 |
 | Dinosaur Racing | 0.90% | ~1,854 |
@@ -82,7 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.50% | ~1,030 |
 | Lair of the Xanathar | 0.50% | ~1,030 |
 | Difficult Terrain | 0.50% | ~1,030 |
-| The Everlasting Rime | 0.50% | ~861 |
+| The Everlasting Rime | 0.50% | ~862 |
 | Lobsterfolk Assault | 0.40% | ~824 |
 | Home Field Advantage | 0.40% | ~824 |
 | Force Grey Unleashed | 0.40% | ~824 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,016 (Ranked 52)  
-Completed: 2,026 (0.98%) (Ranked 101)  
+Progressed: 206,052 (Ranked 52)  
+Completed: 2,027 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 206,016 | 2,026 |
+| 2023-07-04 | 206,052 | 2,027 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,378 (Ranked 37)  

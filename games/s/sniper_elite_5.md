@@ -23,19 +23,19 @@ Rating: 4.45 (Ranked 619)
 | As Quiet as a Mouse | 0.80% | ~26 |
 | Organ Grinder | 0.70% | ~22 |
 | Der Geist | 0.70% | ~22 |
+| Brains of the Operation | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
-| Brains of the Operation | 0.60% | ~19 |
+| Enemy at the Gates | 0.50% | ~16 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
 | My Little Friend | 0.50% | ~16 |
 | Explosive Efficiency | 0.50% | ~16 |
-| Enemy at the Gates | 0.40% | ~13 |
+| Fields of Glory | 0.40% | ~13 |
 | Just a Flesh Wound | 0.40% | ~13 |
 | Precision Is Key | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
 | Close Quarters | 0.40% | ~13 |
 | Snake in the Grass | 0.40% | ~13 |
-| Fields of Glory | 0.30% | ~10 |
 | Rigged to Blow | 0.30% | ~10 |
 | Tinkerer | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
@@ -46,6 +46,7 @@ Rating: 4.45 (Ranked 619)
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
+| From Paris with Love | 0.20% | ~6 |
 | Burn after reading | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
@@ -64,7 +65,6 @@ Rating: 4.45 (Ranked 619)
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
-| From Paris with Love | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |

@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15829,
+  "EOS_Progressed": 15830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2822,6 +2822,11 @@
       "Time": "2023-07-04T14:06:09.4414705+00:00",
       "NumProgressed": 15829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T16:06:34.1319861+00:00",
+      "NumProgressed": 15830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2839,9 +2844,9 @@
       "ID": "ACH001",
       "SetID": "6749a6l",
       "Name": "Personal Matter",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13613
+      "UsersEstimate": 13772
     },
     {
       "ID": "ACH0010",
@@ -2871,9 +2876,9 @@
       "ID": "ACH0013",
       "SetID": "6749a6l",
       "Name": "Make It Rain",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3799
+      "UsersEstimate": 3641
     },
     {
       "ID": "ACH0014",
@@ -2905,7 +2910,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH0018",
@@ -2913,7 +2918,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "ACH0019",
@@ -2929,7 +2934,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11397
+      "UsersEstimate": 11398
     },
     {
       "ID": "ACH0020",
@@ -3017,7 +3022,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ACH008",
@@ -3040,7 +3045,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15829,
+      "Progressed": 15830,
       "Completed": 0
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-29T22:59:53.1657282+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:06:12.7205866+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:06:34.1319854+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.9410166+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:00:26.1258839+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:06:12.7206216+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:00:53.0125604+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:06:34.1320208+00:00"
 }

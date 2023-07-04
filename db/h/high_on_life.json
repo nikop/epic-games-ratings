@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22963,
+  "EOS_Progressed": 22964,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1979,6 +1979,11 @@
       "Time": "2023-07-04T07:05:28.2896897+00:00",
       "NumProgressed": 22963,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-04T16:05:43.2784765+00:00",
+      "NumProgressed": 22964,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2014,7 +2019,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -2030,7 +2035,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6659
+      "UsersEstimate": 6660
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2094,7 +2099,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19059
+      "UsersEstimate": 19060
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2118,7 +2123,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13548
+      "UsersEstimate": 13549
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -2134,7 +2139,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -2174,7 +2179,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16763
+      "UsersEstimate": 16764
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2245,22 +2250,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22963,
+      "Progressed": 22964,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 256,
-      "Completed": 256
+      "Progressed": 257,
+      "Completed": 257
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:05:23.338975+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:05:43.2784757+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.9495889+00:00",
-  "LastUpdate_Ratings": "2023-07-04T14:58:19.5272644+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:05:23.3390109+00:00"
+  "LastUpdate_Ratings": "2023-07-04T15:58:34.2835249+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:05:43.2785146+00:00"
 }

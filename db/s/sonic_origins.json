@@ -1023,9 +1023,9 @@
       "ID": "ID_18_KNUCKLES_GLIDING",
       "SetID": "7o8nc5m",
       "Name": "Knuckles the Echidna",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "ID_19_TAILS_FLYING",
@@ -1175,8 +1175,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:06:02.6863446+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:06:24.1784764+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-04T14:58:06.1736921+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:06:02.6863733+00:00"
+  "LastUpdate_Ratings": "2023-07-04T15:58:22.6453664+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:06:24.1785068+00:00"
 }

@@ -34,8 +34,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Snowpeak...On Foot! | 27.00% | ~183 |
 | The Lava Ruins...On Foot! | 27.00% | ~183 |
 | Meat Master | 26.00% | ~176 |
+| Fishing Master | 25.00% | ~170 |
 | Armor Master | 24.00% | ~163 |
-| Fishing Master | 24.00% | ~163 |
 | The Pride of the Town | 23.00% | ~156 |
 | This Treasure I've Found | 21.00% | ~142 |
 | New Nevaeh's Number One Customer | 21.00% | ~142 |

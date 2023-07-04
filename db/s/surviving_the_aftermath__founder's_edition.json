@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7077,
+  "EOS_Progressed": 7078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7280,6 +7280,11 @@
       "Time": "2023-07-04T15:04:10.2819999+00:00",
       "NumProgressed": 7077,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T16:04:28.0944275+00:00",
+      "NumProgressed": 7078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7291,7 +7296,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4246
+      "UsersEstimate": 4247
     },
     {
       "ID": "10",
@@ -7331,7 +7336,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "15",
@@ -7369,9 +7374,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3751
     },
     {
       "ID": "2",
@@ -7387,7 +7392,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "21",
@@ -7411,7 +7416,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "24",
@@ -7443,7 +7448,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "28",
@@ -7619,7 +7624,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "48",
@@ -7683,7 +7688,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "55",
@@ -7762,15 +7767,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7077,
+      "Progressed": 7078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:04:10.2819991+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:04:28.0944267+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:00:10.4301161+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:04:10.2820935+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:00:36.7799343+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:04:28.0945182+00:00"
 }

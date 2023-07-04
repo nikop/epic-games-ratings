@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1111,6 +1111,11 @@
       "Time": "2023-07-04T15:04:20.2658249+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T16:04:38.4861087+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1234,7 +1239,7 @@
       "Name": "Corporal",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1304,9 +1309,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 70
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1425,14 +1430,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:04:20.2658242+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:04:38.4861075+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:00:36.2758759+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:04:20.2658583+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:01:02.3812222+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:04:38.486145+00:00"
 }

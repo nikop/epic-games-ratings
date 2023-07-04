@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,744 |
-| Let There Be Light | 27.00% | ~15,336 |
-| Float Like a Butterfly | 26.00% | ~14,768 |
-| Nordic Walking | 21.00% | ~11,928 |
-| Bright Falls' Finest | 20.00% | ~11,360 |
-| Under a Thin Layer of Skin | 18.00% | ~10,224 |
+| Follow the Light | 33.00% | ~18,745 |
+| Let There Be Light | 27.00% | ~15,337 |
+| Float Like a Butterfly | 26.00% | ~14,769 |
+| Nordic Walking | 21.00% | ~11,929 |
+| Bright Falls' Finest | 20.00% | ~11,361 |
+| Under a Thin Layer of Skin | 18.00% | ~10,225 |
 | Paging Mr. Wake | 15.00% | ~8,520 |
 | Park Ranger | 14.00% | ~7,952 |
 | Back! Back, I Say! | 14.00% | ~7,952 |
@@ -22,11 +22,11 @@ Number of Ratings: 524  (23.09.2022)
 | Damn Good Cup of Coffee | 12.00% | ~6,816 |
 | Wheels Within Wheels | 11.00% | ~6,248 |
 | The Six-Gun Scribe | 11.00% | ~6,248 |
+| Come One, Come All | 11.00% | ~6,248 |
 | Heavy Metal | 10.00% | ~5,680 |
 | Iron Horse | 10.00% | ~5,680 |
 | Perchance to Dream | 10.00% | ~5,680 |
 | Collateral Carnage | 10.00% | ~5,680 |
-| Come One, Come All | 10.00% | ~5,680 |
 | Gatekeeper | 9.00% | ~5,112 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,112 |
 | Thunder and Lightning | 9.00% | ~5,112 |
@@ -34,14 +34,14 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 8.00% | ~4,544 |
 | Energized! | 8.00% | ~4,544 |
 | Right of Way | 8.00% | ~4,544 |
-| A Friend in Need | 8.00% | ~1,621 |
+| A Friend in Need | 8.00% | ~1,622 |
 | What Light Through Yonder Window | 7.00% | ~3,976 |
 | Tornado Wrangler | 6.00% | ~3,408 |
 | Departure | 6.00% | ~3,408 |
 | A Friend Indeed | 6.00% | ~1,216 |
 | Drink 'Em Both Up | 5.00% | ~2,840 |
 | Hardboiled Writer | 5.00% | ~2,840 |
-| Ding! | 5.00% | ~1,013 |
+| Ding! | 5.00% | ~1,014 |
 | Children of the Elder God | 4.00% | ~2,272 |
 | If It Flies, It Burns | 4.00% | ~2,272 |
 | KBF-FM | 4.00% | ~2,272 |
@@ -65,17 +65,17 @@ Number of Ratings: 524  (23.09.2022)
 | Meet the Deadline | 0.30% | ~170 |
 | Picking Up After Yourself | 0.30% | ~170 |
 | Run-On Sentence | 0.30% | ~61 |
-| Tick Tock | 0.30% | ~61 |
 | Gunless Wonder | 0.20% | ~114 |
 | Every Nook and Cranny | 0.20% | ~114 |
 | Bright Falls Aficionado | 0.20% | ~114 |
+| Tick Tock | 0.20% | ~41 |
 | Licensed Properties | 0.20% | ~41 |
 | Collector's Edition | 0.10% | ~57 |
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,800 (Ranked 80)  
-Completed: 57 (0.10%) (Ranked 179)  
+Progressed: 56,803 (Ranked 80)  
+Completed: 57 (0.10%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,7 +149,7 @@ Completed: 57 (0.10%) (Ranked 179)
 | 2023-07-01 | 56,635 | 56 |
 | 2023-07-02 | 56,712 | 56 |
 | 2023-07-03 | 56,769 | 56 |
-| 2023-07-04 | 56,800 | 57 |
+| 2023-07-04 | 56,803 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

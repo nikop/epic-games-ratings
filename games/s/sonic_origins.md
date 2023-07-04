@@ -14,8 +14,8 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 76.00% | ~181 |
 | Time Traveler | 74.00% | ~176 |
 | Everyone's Hero | 71.00% | ~169 |
+| Knuckles the Echidna | 70.00% | ~167 |
 | Easy Peasy with Shields | 69.00% | ~164 |
-| Knuckles the Echidna | 69.00% | ~164 |
 | Gallant Spin Dash | 67.00% | ~159 |
 | Miles "Tails" Prower | 67.00% | ~159 |
 | Bubbly Breath | 66.00% | ~157 |

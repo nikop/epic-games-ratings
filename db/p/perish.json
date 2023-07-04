@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3137,
+  "EOS_Progressed": 3138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1808,6 +1808,11 @@
       "Time": "2023-07-04T13:22:31.8885463+00:00",
       "NumProgressed": 3137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T16:04:51.2422829+00:00",
+      "NumProgressed": 3138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1899,7 +1904,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_K_A2",
@@ -1907,7 +1912,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_K_A3",
@@ -1915,7 +1920,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_MC",
@@ -1955,7 +1960,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_M_D2",
@@ -2011,7 +2016,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_M_SC",
@@ -2067,7 +2072,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_OB_CS",
@@ -2115,7 +2120,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_OB_LI",
@@ -2243,7 +2248,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_TP",
@@ -2322,7 +2327,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3137,
+      "Progressed": 3138,
       "Completed": 0
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-04T15:04:32.7031835+00:00",
+  "LastChanged_Achievements": "2023-07-04T16:04:51.2422823+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-04T14:59:57.6801952+00:00",
-  "LastUpdate_Achievements": "2023-07-04T15:04:32.7032544+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:00:23.8851326+00:00",
+  "LastUpdate_Achievements": "2023-07-04T16:04:51.2423548+00:00"
 }

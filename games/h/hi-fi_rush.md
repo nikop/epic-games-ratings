@@ -5,15 +5,15 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,754 |
-| Start with a bang! | 80.00% | ~2,720 |
-| You can pet the cat! | 75.00% | ~2,550 |
-| Who put gears in there? | 68.00% | ~2,312 |
-| Cream of the Crop | 63.00% | ~2,142 |
-| Thanks for the free chip, Peppermint! | 62.00% | ~2,108 |
-| You got this, Peppermint? | 57.00% | ~1,938 |
-| Perfect Parry | 55.00% | ~1,870 |
-| Alright, that felt AWESOME! | 55.00% | ~1,870 |
+| Feeling the beat! | 81.00% | ~2,755 |
+| Start with a bang! | 80.00% | ~2,721 |
+| You can pet the cat! | 75.00% | ~2,551 |
+| Who put gears in there? | 68.00% | ~2,313 |
+| Cream of the Crop | 63.00% | ~2,143 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,109 |
+| You got this, Peppermint? | 57.00% | ~1,939 |
+| Perfect Parry | 55.00% | ~1,871 |
+| Alright, that felt AWESOME! | 55.00% | ~1,871 |
 | I play my own way! | 50.00% | ~1,700 |
 | This will cost you big time | 48.00% | ~1,632 |
 | Uh, they were broken when I got here | 47.00% | ~1,598 |
@@ -31,7 +31,7 @@ Rating: 4.89 (Ranked 12)
 | I have to read these things? | 29.00% | ~986 |
 | I look cool. But I can look COOLER. | 28.00% | ~952 |
 | There's such a thing as TOO helpful | 22.00% | ~748 |
-| That's a lot of junk metal… | 20.00% | ~680 |
+| That's a lot of junk metal… | 19.00% | ~646 |
 | Well that was a rush! | 18.00% | ~612 |
 | Beat-hit mania | 18.00% | ~612 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~578 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,400 (Ranked 144)  
+Progressed: 3,401 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-07-01 | 3,381 | 5 |
 | 2023-07-02 | 3,389 | 5 |
 | 2023-07-03 | 3,395 | 5 |
-| 2023-07-04 | 3,400 | 5 |
+| 2023-07-04 | 3,401 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
