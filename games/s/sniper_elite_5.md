@@ -9,12 +9,12 @@ Rating: 4.45 (Ranked 619)
 | It's Starting to Crack | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
+| The Kraken Sleeps | 1.00% | ~32 |
+| Liberté | 0.90% | ~29 |
 | Resourceful | 0.90% | ~29 |
 | The Kraken Wakes | 0.90% | ~29 |
 | Change the Channel | 0.90% | ~29 |
-| The Kraken Sleeps | 0.90% | ~29 |
 | Climbing the Ladder | 0.80% | ~26 |
-| Liberté | 0.80% | ~26 |
 | No Stone Unturned | 0.80% | ~26 |
 | Sharpshooter | 0.80% | ~26 |
 | Confirming Suspicions | 0.80% | ~26 |

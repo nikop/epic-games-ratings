@@ -16,8 +16,8 @@ Rating: 4.57 (Ranked 440)
 | Fully Recycled | 9.00% | ~249 |
 | Ain't Nobody Got Time for That | 9.00% | ~249 |
 | The Ship of Theseus | 9.00% | ~249 |
-| Guy de Borderlands | 8.00% | ~221 |
-| Hope Seeker | 8.00% | ~221 |
+| Guy de Borderlands | 8.00% | ~222 |
+| Hope Seeker | 8.00% | ~222 |
 | A Hunk of Junk | 7.00% | ~194 |
 | Exceeding Capacity | 7.00% | ~194 |
 | Breaking Protocol | 7.00% | ~194 |
@@ -51,7 +51,7 @@ Rating: 4.57 (Ranked 440)
 | Scientifically Accurate | 0.90% | ~25 |
 | Gregor Spinoza | 0.80% | ~22 |
 | Better Him Than Me | 0.70% | ~19 |
-| Remember the Dead | 0.40% | ~11 |
+| Remember the Dead | 0.50% | ~14 |
 | Work Harder | 0.30% | ~8 |
 | Soylent Green | 0.30% | ~8 |
 | Crunch Culture | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 440)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,768 (Ranked 152)  
+Progressed: 2,769 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 2,761 | 0 |
 | 2023-07-02 | 2,765 | 0 |
 | 2023-07-03 | 2,768 | 0 |
+| 2023-07-04 | 2,769 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

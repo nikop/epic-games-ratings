@@ -115,17 +115,17 @@
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Konec",
@@ -187,9 +187,9 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Tuleni",
@@ -209,8 +209,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-04T05:00:34.6407146+00:00",
+  "LastChanged_Achievements": "2023-07-04T06:00:33.6603041+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.2071405+00:00",
-  "LastUpdate_Ratings": "2023-07-04T04:57:02.2742435+00:00",
-  "LastUpdate_Achievements": "2023-07-04T05:00:34.6407324+00:00"
+  "LastUpdate_Ratings": "2023-07-04T05:56:59.7631533+00:00",
+  "LastUpdate_Achievements": "2023-07-04T06:00:33.6603156+00:00"
 }

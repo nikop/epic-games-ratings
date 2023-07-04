@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -6720,9 +6720,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 65102,
+  "EOS_Progressed": 65108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3205,
+  "EOS_NewPlayers": 3193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14755,6 +14755,11 @@
       "Time": "2023-07-04T05:06:23.8606322+00:00",
       "NumProgressed": 65102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T06:06:11.7504497+00:00",
+      "NumProgressed": 65108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15460,9 +15465,9 @@
       "ID": "achievement_early_modern_warfare",
       "SetID": "8p2n7he",
       "Name": "Early-Modern Warfare",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -15766,7 +15771,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "achievement_grand_coalition",
@@ -17046,7 +17051,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -17430,7 +17435,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -17462,7 +17467,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -17597,21 +17602,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 65102,
+      "Progressed": 65108,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 65102,
+      "Progressed": 65108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-03T20:57:40.4087911+00:00",
-  "LastChanged_Achievements": "2023-07-04T05:06:23.8606316+00:00",
+  "LastChanged_Achievements": "2023-07-04T06:06:11.7504493+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-04T04:57:35.3290837+00:00",
-  "LastUpdate_Achievements": "2023-07-04T05:06:23.8618921+00:00"
+  "LastUpdate_Ratings": "2023-07-04T05:57:31.2284223+00:00",
+  "LastUpdate_Achievements": "2023-07-04T06:06:11.7515165+00:00"
 }

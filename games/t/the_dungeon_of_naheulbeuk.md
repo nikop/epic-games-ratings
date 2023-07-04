@@ -6,28 +6,28 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~74,588 |
-| Where's that freaking Dwarf? | 44.00% | ~57,577 |
-| GG EZ | 27.00% | ~35,331 |
-| Speedrun | 24.00% | ~31,405 |
-| Déjà vu | 18.00% | ~23,554 |
-| Sock! SOCK! | 10.00% | ~13,086 |
-| DM intervention | 10.00% | ~13,086 |
-| A beer, two curses, three companions | 5.00% | ~6,543 |
-| Fireproof Wizardess | 4.00% | ~5,234 |
-| Way of the Wimp | 3.00% | ~3,926 |
-| Livin' in a dwarven paradise | 2.00% | ~2,617 |
-| The plot thickens... At the tavern | 2.00% | ~2,617 |
-| Res Judicata | 2.00% | ~2,617 |
-| The Woman in the High Castle | 2.00% | ~2,617 |
-| Team Building Exercise | 1.00% | ~1,309 |
-| The demons' feast | 0.50% | ~654 |
-| I am the night | 0.40% | ~523 |
-| The Great Library | 0.30% | ~393 |
-| I'd rather... Just... Sing! | 0.30% | ~393 |
-| The number of the counting shalt be 7 | 0.30% | ~393 |
-| Lust and Debauchery | 0.30% | ~393 |
-| Oh, when I'll be level 10... | 0.30% | ~393 |
+| Alt+F4 | 57.00% | ~74,808 |
+| Where's that freaking Dwarf? | 44.00% | ~57,746 |
+| GG EZ | 27.00% | ~35,435 |
+| Speedrun | 24.00% | ~31,498 |
+| Déjà vu | 18.00% | ~23,624 |
+| Sock! SOCK! | 10.00% | ~13,124 |
+| DM intervention | 10.00% | ~13,124 |
+| A beer, two curses, three companions | 5.00% | ~6,562 |
+| Fireproof Wizardess | 4.00% | ~5,250 |
+| Way of the Wimp | 3.00% | ~3,937 |
+| Livin' in a dwarven paradise | 2.00% | ~2,625 |
+| The plot thickens... At the tavern | 2.00% | ~2,625 |
+| Res Judicata | 2.00% | ~2,625 |
+| The Woman in the High Castle | 2.00% | ~2,625 |
+| Team Building Exercise | 1.00% | ~1,312 |
+| The demons' feast | 0.50% | ~656 |
+| I am the night | 0.40% | ~525 |
+| The Great Library | 0.30% | ~394 |
+| I'd rather... Just... Sing! | 0.30% | ~394 |
+| The number of the counting shalt be 7 | 0.30% | ~394 |
+| Lust and Debauchery | 0.30% | ~394 |
+| Oh, when I'll be level 10... | 0.30% | ~394 |
 | Shiny and Crôm | 0.20% | ~262 |
 | Torture and Sensibility | 0.20% | ~262 |
 | Dwarf Fortress | 0.20% | ~262 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,856 (Ranked 60)  
+Progressed: 131,242 (Ranked 60)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 89,113 | 0 |
 | 2023-07-02 | 112,562 | 0 |
 | 2023-07-03 | 128,231 | 0 |
-| 2023-07-04 | 130,856 | 0 |
+| 2023-07-04 | 131,242 | 0 |
 ## Awards
 Max (Character Customization): 64  (Ranked 378)  
 Sum: 64 (Ranked 436)  

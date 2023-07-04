@@ -6,13 +6,13 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,738 |
-| Let There Be Light | 27.00% | ~15,331 |
+| Follow the Light | 33.00% | ~18,739 |
+| Let There Be Light | 27.00% | ~15,332 |
 | Float Like a Butterfly | 26.00% | ~14,764 |
-| Nordic Walking | 21.00% | ~11,924 |
+| Nordic Walking | 21.00% | ~11,925 |
 | Bright Falls' Finest | 20.00% | ~11,357 |
 | Under a Thin Layer of Skin | 18.00% | ~10,221 |
-| Paging Mr. Wake | 15.00% | ~8,517 |
+| Paging Mr. Wake | 15.00% | ~8,518 |
 | Park Ranger | 14.00% | ~7,950 |
 | Back! Back, I Say! | 14.00% | ~7,950 |
 | Finders Keepers | 14.00% | ~7,950 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 10.00% | ~5,678 |
 | Collateral Carnage | 10.00% | ~5,678 |
 | Come One, Come All | 10.00% | ~5,678 |
-| Gatekeeper | 9.00% | ~5,110 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,110 |
-| Thunder and Lightning | 9.00% | ~5,110 |
-| Two For the Price of One | 9.00% | ~5,110 |
+| Gatekeeper | 9.00% | ~5,111 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,111 |
+| Thunder and Lightning | 9.00% | ~5,111 |
+| Two For the Price of One | 9.00% | ~5,111 |
 | The Lady of the Light | 8.00% | ~4,543 |
 | Energized! | 8.00% | ~4,543 |
 | Right of Way | 8.00% | ~4,543 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,271 |
 | If It Flies, It Burns | 4.00% | ~2,271 |
 | KBF-FM | 4.00% | ~2,271 |
-| Boob Tube | 3.00% | ~1,703 |
+| Boob Tube | 3.00% | ~1,704 |
 | Kill Your Darlings | 3.00% | ~608 |
 | Heartbreaker | 3.00% | ~608 |
 | Medical Opinions | 2.00% | ~1,136 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,783 (Ranked 80)  
+Progressed: 56,784 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 57 (0.10%) (Ranked 179)
 | 2023-07-01 | 56,635 | 56 |
 | 2023-07-02 | 56,712 | 56 |
 | 2023-07-03 | 56,769 | 56 |
-| 2023-07-04 | 56,783 | 57 |
+| 2023-07-04 | 56,784 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

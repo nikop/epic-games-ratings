@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-07-04T05:03:28.1613669+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T06:03:27.5920713+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -355,7 +360,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -363,7 +368,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -393,9 +398,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -427,7 +432,7 @@
       "Name": "Capraphobia",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -473,9 +478,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -553,9 +558,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -635,15 +640,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -713,9 +718,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -729,9 +734,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -745,9 +750,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -803,7 +808,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -882,13 +887,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 249,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-04T05:03:28.1613662+00:00",
+  "LastChanged_Achievements": "2023-07-04T06:03:27.5920709+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-04T04:57:03.4023355+00:00",
-  "LastUpdate_Achievements": "2023-07-04T05:03:28.1614318+00:00"
+  "LastUpdate_Ratings": "2023-07-04T05:57:00.8568408+00:00",
+  "LastUpdate_Achievements": "2023-07-04T06:03:27.5921243+00:00"
 }

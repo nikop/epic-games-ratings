@@ -21,9 +21,9 @@
 | Ray of Sunshine | 7.00% | ~3 |
 | Master Firefighter | 5.00% | ~2 |
 | Family Reunion | 5.00% | ~2 |
+| Just Lazy | 2.00% | ~1 |
 | Pirate Lord | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
-| Just Lazy | 0.00% | ~0 |
 | Expert Salvager | 0.00% | ~0 |
 | Master Salvager | 0.00% | ~0 |
 | Day Trip | 0.00% | ~0 |
