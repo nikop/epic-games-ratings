@@ -37,7 +37,7 @@
 | 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 37 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.00% |
-| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
