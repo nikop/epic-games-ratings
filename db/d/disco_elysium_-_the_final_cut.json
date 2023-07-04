@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1163,9 +1163,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122688,
+  "EOS_Progressed": 122689,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8413,6 +8413,11 @@
       "Time": "2023-07-04T14:06:10.2817257+00:00",
       "NumProgressed": 122688,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-04T15:06:13.5796402+00:00",
+      "NumProgressed": 122689,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8552,7 +8557,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15949
+      "UsersEstimate": 15950
     },
     {
       "ID": "ACH_COP_STAR",
@@ -8704,7 +8709,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15949
+      "UsersEstimate": 15950
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -8743,15 +8748,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122688,
+      "Progressed": 122689,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-02T13:59:10.1484501+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:06:10.2817252+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:06:13.5796396+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:59:11.2026861+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:06:10.2817849+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:59:19.3142368+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:06:13.5797087+00:00"
 }

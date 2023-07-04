@@ -2,10 +2,10 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-07-04T13:20:22.9213128+00:00",
       "NumProgressed": 229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T15:03:14.3973416+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -645,7 +650,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BasicControls",
@@ -653,7 +658,7 @@
       "Name": "Basic Controls",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "BigPlane",
@@ -661,7 +666,7 @@
       "Name": "Expensive Plane",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "BudgetFlight",
@@ -763,9 +768,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "LargeAirport",
@@ -789,7 +794,7 @@
       "Name": "Legendary transporter",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LinearNetwork",
@@ -821,7 +826,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Millionaire",
@@ -835,9 +840,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "NoTimeForModernization",
@@ -947,9 +952,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "TimeForManagement",
@@ -972,14 +977,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:02:26.8198428+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:03:14.3973407+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:57:04.948103+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:02:26.8198715+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:57:13.8276859+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:03:14.3973772+00:00"
 }

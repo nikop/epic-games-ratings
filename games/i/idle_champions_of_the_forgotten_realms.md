@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,897 |
-| The Mad Wizard | 11.00% | ~22,657 |
-| Are Ya Chicken? | 7.00% | ~14,418 |
-| The Ring of Regeneration | 6.00% | ~12,359 |
-| Were-verpowered | 5.00% | ~10,299 |
-| Mad Cow Disease | 5.00% | ~10,299 |
-| Friendly Imps | 5.00% | ~10,299 |
-| A Persistent Buzzing | 4.00% | ~8,239 |
-| Seeking Allies | 4.00% | ~8,239 |
-| Pure Energy | 4.00% | ~8,239 |
-| Terror in the Dark | 3.00% | ~6,179 |
-| Unearthed Evil | 3.00% | ~6,179 |
-| The Crumbling Temple | 3.00% | ~6,179 |
-| The Contagious Curse | 3.00% | ~6,179 |
+| The Cursed Farmer | 15.00% | ~30,902 |
+| The Mad Wizard | 11.00% | ~22,662 |
+| Are Ya Chicken? | 7.00% | ~14,421 |
+| The Ring of Regeneration | 6.00% | ~12,361 |
+| Were-verpowered | 5.00% | ~10,301 |
+| Mad Cow Disease | 5.00% | ~10,301 |
+| Friendly Imps | 5.00% | ~10,301 |
+| A Persistent Buzzing | 4.00% | ~8,241 |
+| Seeking Allies | 4.00% | ~8,241 |
+| Pure Energy | 4.00% | ~8,241 |
+| Terror in the Dark | 3.00% | ~6,180 |
+| Unearthed Evil | 3.00% | ~6,180 |
+| The Crumbling Temple | 3.00% | ~6,180 |
+| The Contagious Curse | 3.00% | ~6,180 |
 | Beast Mode | 2.00% | ~4,120 |
 | Low Initiative | 2.00% | ~4,120 |
 | A Mysterious Summons | 2.00% | ~4,120 |
@@ -46,17 +46,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 1.00% | ~2,060 |
 | Homecoming | 0.90% | ~1,854 |
 | Street War | 0.90% | ~1,854 |
+| Dinosaur Racing | 0.90% | ~1,854 |
 | The Lost Heir of Omu | 0.80% | ~1,648 |
 | Trollskull Manor | 0.80% | ~1,648 |
 | Attack on the Manor | 0.80% | ~1,648 |
-| Dinosaur Racing | 0.80% | ~1,648 |
+| The Long Haul | 0.80% | ~1,648 |
 | Lost in the Deep | 0.80% | ~1,648 |
 | The Forbidden City | 0.70% | ~1,442 |
 | Captured! | 0.70% | ~1,442 |
 | Wisdom Check | 0.70% | ~1,442 |
 | The Mists of Ravenloft | 0.70% | ~1,442 |
 | The Dead Three | 0.70% | ~1,442 |
-| The Long Haul | 0.70% | ~1,442 |
 | Easily Distracted | 0.70% | ~1,442 |
 | A Grand Puzzle | 0.60% | ~1,236 |
 | Tomb of the Nine Gods | 0.60% | ~1,236 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.60% | ~1,236 |
 | The Giant's Bane Tavern | 0.60% | ~1,034 |
 | Rude Welcome | 0.60% | ~1,236 |
+| Durable Deep | 0.60% | ~1,236 |
 | The Haunted Jungle | 0.60% | ~1,236 |
 | Sleuth It Out | 0.50% | ~1,030 |
 | Family Entanglements | 0.50% | ~1,030 |
@@ -82,13 +83,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.50% | ~1,030 |
 | Difficult Terrain | 0.50% | ~1,030 |
 | The Everlasting Rime | 0.50% | ~861 |
-| Durable Deep | 0.50% | ~1,030 |
 | Lobsterfolk Assault | 0.40% | ~824 |
 | Home Field Advantage | 0.40% | ~824 |
 | Force Grey Unleashed | 0.40% | ~824 |
 | Vajra's Guards | 0.40% | ~824 |
 | Azaka's Procession - Part 1 | 0.40% | ~824 |
 | Azaka's Procession - Part 2 | 0.40% | ~824 |
+| Werewolves in the Mist | 0.40% | ~824 |
 | Chatty Nobles | 0.40% | ~824 |
 | Modron Assistance | 0.40% | ~824 |
 | Haaave You Met Asmodeus? | 0.40% | ~824 |
@@ -115,7 +116,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.30% | ~618 |
 | The Newcomers of Notoriety | 0.30% | ~517 |
 | The Hunt for Owl-y | 0.30% | ~618 |
-| Werewolves in the Mist | 0.30% | ~618 |
 | We're not in Faerûn Anymore | 0.30% | ~618 |
 | Thine Bounty is Mine! | 0.30% | ~517 |
 | Hold for the Red Wizards | 0.30% | ~618 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,977 (Ranked 52)  
+Progressed: 206,016 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,977 | 2,026 |
+| 2023-07-04 | 206,016 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,378 (Ranked 37)  

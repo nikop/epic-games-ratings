@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "A_Mine_10_Asteroid",
       "SetID": "56632p4",
       "Name": "Expert Miner",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_Mine_1_Asteroid",
@@ -306,9 +306,9 @@
       "ID": "A_Ray_Of_Sunshine",
       "SetID": "56632p4",
       "Name": "Ray of Sunshine",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_Salvage_10_Wrecks",
@@ -355,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:02:30.7070616+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:03:18.3526746+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:45.319671+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:58:58.4303178+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:02:30.7070762+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:59:07.066663+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:03:18.3526895+00:00"
 }

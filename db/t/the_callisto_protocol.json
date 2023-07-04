@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -862,7 +862,7 @@
   ],
   "EOS_Progressed": 15630,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5240,9 +5240,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 125
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -5615,8 +5615,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-04T10:58:59.996998+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:05:00.4230276+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:05:14.9786791+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:57:59.8628866+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:05:00.42308+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:58:13.4033278+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:05:14.9787462+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1195,6 +1195,11 @@
       "Time": "2023-07-04T13:20:30.9970602+00:00",
       "NumProgressed": 707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T15:03:20.9753541+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1270,7 +1275,7 @@
       "Name": "Maker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH009",
@@ -1446,7 +1451,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH031",
@@ -1462,7 +1467,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH033",
@@ -1494,7 +1499,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH037",
@@ -1605,15 +1610,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:02:33.529562+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:03:20.9753532+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.6916632+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:58:33.9479301+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:02:33.529598+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:58:43.6062223+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:03:20.9754742+00:00"
 }

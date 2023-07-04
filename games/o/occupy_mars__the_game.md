@@ -5,17 +5,17 @@ Rating: 3.91 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~563 |
-| Electrician | 34.00% | ~467 |
-| Fear my botany powers, Mars | 33.00% | ~453 |
+| I don't feel so good | 41.00% | ~564 |
+| Electrician | 34.00% | ~468 |
+| Fear my botany powers, Mars | 33.00% | ~454 |
 | Zero Waste | 30.00% | ~412 |
 | Bob The Builder | 30.00% | ~412 |
-| I am the greatest botanist on this planet. | 29.00% | ~398 |
+| I am the greatest botanist on this planet. | 29.00% | ~399 |
 | Gardener | 25.00% | ~344 |
 | Miner | 25.00% | ~344 |
 | Occupy Mars! | 23.00% | ~316 |
 | Houston we have a problem | 21.00% | ~289 |
-| Detective | 18.00% | ~247 |
+| Detective | 18.00% | ~248 |
 | The Collector | 16.00% | ~220 |
 | Get your hands dirty | 9.00% | ~124 |
 | All Wheel Trouble | 7.00% | ~96 |
@@ -23,10 +23,10 @@ Rating: 3.91 (Ranked 926)
 | ITS crash site | 5.00% | ~69 |
 | DeDust | 4.00% | ~55 |
 | “Aliens” | 3.00% | ~41 |
-| Driver's License | 2.00% | ~27 |
-| Hard Landing | 2.00% | ~27 |
-| Plumber | 2.00% | ~27 |
-| To infinity and beyond! | 2.00% | ~27 |
+| Driver's License | 2.00% | ~28 |
+| Hard Landing | 2.00% | ~28 |
+| Plumber | 2.00% | ~28 |
+| To infinity and beyond! | 2.00% | ~28 |
 | Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 0.90% | ~12 |
 | Caveman | 0.70% | ~10 |
@@ -35,8 +35,8 @@ Rating: 3.91 (Ranked 926)
 | 5G Network | 0.50% | ~7 |
 | Bull’s eye | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |
-| Korolev crater | 0.40% | ~5 |
-| One does not simply... | 0.40% | ~5 |
+| Korolev crater | 0.40% | ~6 |
+| One does not simply... | 0.40% | ~6 |
 | Hot Repairs | 0.30% | ~4 |
 | Never Ending Story? | 0.20% | ~3 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.91 (Ranked 926)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,374 (Ranked 172)  
+Progressed: 1,375 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 1,367 | 0 |
 | 2023-07-02 | 1,371 | 0 |
 | 2023-07-03 | 1,372 | 0 |
-| 2023-07-04 | 1,374 | 0 |
+| 2023-07-04 | 1,375 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

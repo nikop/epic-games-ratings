@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246019,
+  "EOS_Progressed": 246020,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -7279,6 +7279,11 @@
       "Time": "2023-07-04T14:06:07.0601159+00:00",
       "NumProgressed": 246019,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T15:06:10.1392202+00:00",
+      "NumProgressed": 246020,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7386,7 +7391,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44283
+      "UsersEstimate": 44284
     },
     {
       "ID": "curator",
@@ -7466,7 +7471,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130390
+      "UsersEstimate": 130391
     },
     {
       "ID": "indegestible",
@@ -7610,7 +7615,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31982
+      "UsersEstimate": 31983
     },
     {
       "ID": "treeMedalist",
@@ -7657,7 +7662,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246019,
+      "Progressed": 246020,
       "Completed": 3
     }
   ],
@@ -7665,8 +7670,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:06:07.0601151+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:06:10.1392199+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:59:15.3986906+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:06:07.0601769+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:59:21.8584246+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:06:10.1392911+00:00"
 }

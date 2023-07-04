@@ -13,8 +13,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,630 |
 | Hyperstellar Law Official | 15.00% | ~18,403 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,176 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,949 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,949 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,950 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,950 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,496 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,042 |
 | Unbelievably Boring **** | 8.00% | ~9,815 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,688 (Ranked 61)  
+Progressed: 122,689 (Ranked 61)  
 Completed: 26 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 26 (0.02%) (Ranked 212)
 | 2023-07-01 | 122,532 | 26 |
 | 2023-07-02 | 122,613 | 26 |
 | 2023-07-03 | 122,664 | 26 |
-| 2023-07-04 | 122,688 | 26 |
+| 2023-07-04 | 122,689 | 26 |
 ## Awards
 Max (Character Customization): 700  (Ranked 161)  
 Sum: 1,060 (Ranked 233)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7076,
+  "EOS_Progressed": 7077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7275,6 +7275,11 @@
       "Time": "2023-07-04T13:22:04.0077086+00:00",
       "NumProgressed": 7076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T15:04:10.2819999+00:00",
+      "NumProgressed": 7077,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7318,7 +7323,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "14",
@@ -7334,7 +7339,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "16",
@@ -7342,7 +7347,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "17",
@@ -7398,7 +7403,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "23",
@@ -7422,7 +7427,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "26",
@@ -7502,7 +7507,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "35",
@@ -7510,7 +7515,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "36",
@@ -7534,7 +7539,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "39",
@@ -7542,7 +7547,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "4",
@@ -7550,7 +7555,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "40",
@@ -7630,7 +7635,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "5",
@@ -7646,7 +7651,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "51",
@@ -7734,7 +7739,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "8",
@@ -7757,15 +7762,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7076,
+      "Progressed": 7077,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:03:54.3954377+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:04:10.2819991+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:59:59.4118713+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:03:54.3955149+00:00"
+  "LastUpdate_Ratings": "2023-07-04T15:00:10.4301161+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:04:10.2820935+00:00"
 }

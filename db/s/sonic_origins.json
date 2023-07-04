@@ -951,9 +951,9 @@
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
       "SetID": "7o8nc5m",
       "Name": "Beware Stingers!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
@@ -1175,8 +1175,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:05:49.5101492+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:06:02.6863446+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:57:55.3182773+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:05:49.5101717+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:58:06.1736921+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:06:02.6863733+00:00"
 }

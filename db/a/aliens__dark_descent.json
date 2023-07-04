@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2549,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1652,6 +1652,11 @@
       "Time": "2023-07-04T14:05:48.9858654+00:00",
       "NumProgressed": 2549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T15:06:02.2626655+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1679,7 +1684,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -1695,7 +1700,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1759,7 +1764,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1767,7 +1772,7 @@
       "Name": "Regicide",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -1783,7 +1788,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1791,7 +1796,7 @@
       "Name": "Heavy Steps",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -1855,7 +1860,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1887,7 +1892,7 @@
       "Name": "Where It All Begun",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1927,7 +1932,7 @@
       "Name": "The Spire",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_MISSION_11",
@@ -1935,7 +1940,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_MISSION_12",
@@ -1943,7 +1948,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -1959,7 +1964,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1975,7 +1980,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2022,7 +2027,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2549,
+      "Progressed": 2550,
       "Completed": 0
     }
   ],
@@ -2030,8 +2035,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-04T13:17:54.0555792+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:05:48.9858649+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:06:02.2626646+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:59:27.1854512+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:05:48.9859024+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:59:35.8646473+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:06:02.2627138+00:00"
 }

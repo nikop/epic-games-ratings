@@ -27,16 +27,18 @@ Rating: 4.45 (Ranked 619)
 | Brains of the Operation | 0.60% | ~19 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
+| My Little Friend | 0.50% | ~16 |
 | Explosive Efficiency | 0.50% | ~16 |
 | Enemy at the Gates | 0.40% | ~13 |
 | Just a Flesh Wound | 0.40% | ~13 |
 | Precision Is Key | 0.40% | ~13 |
-| My Little Friend | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
 | Close Quarters | 0.40% | ~13 |
+| Snake in the Grass | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
-| Snake in the Grass | 0.30% | ~10 |
+| Rigged to Blow | 0.30% | ~10 |
 | Tinkerer | 0.30% | ~10 |
+| Road Rage | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
@@ -44,14 +46,14 @@ Rating: 4.45 (Ranked 619)
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
-| Rigged to Blow | 0.20% | ~6 |
 | Burn after reading | 0.20% | ~6 |
+| Souvenir hunter | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
 | It'll Buff Right Out | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
-| Road Rage | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
+| Can't Outrun A Bullet | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Operation Foxley | 0.20% | ~6 |
 | Shipbreaker | 0.20% | ~6 |
@@ -59,12 +61,12 @@ Rating: 4.45 (Ranked 619)
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
 | Master of Secondaries | 0.10% | ~3 |
+| Master of Rifles | 0.10% | ~3 |
+| Master-at-arms | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
-| Souvenir hunter | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
-| Can't Outrun A Bullet | 0.10% | ~3 |
 | Führerious Repetition | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
@@ -74,8 +76,6 @@ Rating: 4.45 (Ranked 619)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
-| Master of Rifles | 0.00% | ~0 |
-| Master-at-arms | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,206 (Ranked 145)  
 Completed: 6 (0.19%) (Ranked 160)  

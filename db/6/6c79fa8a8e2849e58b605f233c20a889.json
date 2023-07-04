@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -3339,9 +3339,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1139
     },
     {
       "ID": "GUARD_MAKER",
@@ -3418,8 +3418,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-04T14:04:28.2179672+00:00",
+  "LastChanged_Achievements": "2023-07-04T15:04:43.2128817+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:57:14.4450642+00:00",
-  "LastUpdate_Achievements": "2023-07-04T14:04:28.2179948+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:57:24.9601373+00:00",
+  "LastUpdate_Achievements": "2023-07-04T15:04:43.2129166+00:00"
 }

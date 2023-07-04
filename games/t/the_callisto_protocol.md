@@ -24,9 +24,9 @@ Rating: 4.19 (Ranked 843)
 | Crash Site | 0.90% | ~141 |
 | Full Circle | 0.90% | ~141 |
 | Power Up | 0.90% | ~141 |
+| Giving Back | 0.80% | ~125 |
 | Terminated | 0.80% | ~125 |
 | The Outer Way | 0.80% | ~125 |
-| Giving Back | 0.70% | ~109 |
 | The Commonality | 0.70% | ~109 |
 | Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.50% | ~18 |
