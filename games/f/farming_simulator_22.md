@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~34,170 |
-| I read Shakespeare and stuff | 64.00% | ~28,775 |
-| Just a sprinkle | 63.00% | ~28,325 |
-| I'm stumped | 61.00% | ~27,426 |
-| Plant get enough | 61.00% | ~27,426 |
-| This is just my weekend vehicle | 58.00% | ~26,077 |
-| It's just the beginning | 58.00% | ~26,077 |
-| Hard work pays off | 53.00% | ~23,829 |
-| It's never too late to farm | 48.00% | ~21,581 |
+| Own use | 76.00% | ~34,171 |
+| I read Shakespeare and stuff | 64.00% | ~28,776 |
+| Just a sprinkle | 63.00% | ~28,326 |
+| I'm stumped | 61.00% | ~27,427 |
+| Plant get enough | 61.00% | ~27,427 |
+| This is just my weekend vehicle | 58.00% | ~26,078 |
+| It's just the beginning | 58.00% | ~26,078 |
+| Hard work pays off | 53.00% | ~23,830 |
+| It's never too late to farm | 48.00% | ~21,582 |
 | All out of Land | 44.00% | ~19,783 |
-| Field Trip | 43.00% | ~19,333 |
-| I like to switch it up | 40.00% | ~17,984 |
-| Help me to help you | 38.00% | ~17,085 |
+| Field Trip | 43.00% | ~19,334 |
+| I like to switch it up | 40.00% | ~17,985 |
+| Help me to help you | 38.00% | ~17,086 |
 | Ultimutt Pawesomeness | 28.00% | ~12,589 |
 | Van Gogh | 26.00% | ~11,690 |
 | You wood not believe it | 21.00% | ~9,442 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~180 |
 | Raisin the stakes | 0.30% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,961 (Ranked 86)  
+Progressed: 44,962 (Ranked 86)  
 Completed: 5 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 5 (0.01%) (Ranked 220)
 | 2023-07-01 | 44,853 | 5 |
 | 2023-07-02 | 44,904 | 5 |
 | 2023-07-03 | 44,950 | 5 |
-| 2023-07-04 | 44,961 | 5 |
+| 2023-07-04 | 44,962 | 5 |
 ## Awards
-Max (Great for Beginners): 4,482  (Ranked 70)  
-Sum: 37,842 (Ranked 31)  
+Max (Great for Beginners): 4,485  (Ranked 70)  
+Sum: 37,845 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,482 |
+| This game is Great for Beginners | 4,485 |
 | This game is Relaxing | 4,001 |
 | This game is Educational | 3,960 |
 | This game has Quickly Understood Controls | 3,928 |
@@ -315,4 +315,4 @@ Diff (max vs sum): 39
 | 2023-07-01 | 4.70 | - | 4,474 | 37,781 |
 | 2023-07-02 | 4.70 | - | 4,474 | 37,809 |
 | 2023-07-03 | 4.70 | - | 4,482 | 37,838 |
-| 2023-07-04 | 4.70 | - | 4,482 | 37,842 |
+| 2023-07-04 | 4.70 | - | 4,485 | 37,845 |

@@ -11,10 +11,10 @@
 | Conquered | 14.00% | ~16 |
 | Scribe | 7.00% | ~8 |
 | Tactician | 6.00% | ~7 |
+| Breached | 6.00% | ~7 |
 | Fight Another Day | 6.00% | ~7 |
 | Conciliator | 5.00% | ~6 |
 | Scholar | 5.00% | ~6 |
-| Breached | 5.00% | ~6 |
 | The More the Merrier | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |

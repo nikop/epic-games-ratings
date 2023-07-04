@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2537,
+  "EOS_Progressed": 2538,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1626,6 +1626,11 @@
       "Time": "2023-07-04T09:06:22.1613898+00:00",
       "NumProgressed": 2537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T10:05:58.1026867+00:00",
+      "NumProgressed": 2538,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1645,7 +1650,7 @@
       "Name": "Flawless Victory",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -1717,7 +1722,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -1733,7 +1738,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1749,7 +1754,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1757,7 +1762,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1813,7 +1818,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -1867,9 +1872,9 @@
       "ID": "ACH_MISSION_06",
       "SetID": "816efe",
       "Name": "Living Nightmare",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_MISSION_07",
@@ -1885,7 +1890,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_MISSION_09",
@@ -1925,7 +1930,7 @@
       "Name": "The True Experience",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_PREVENT_ABDUCTED",
@@ -1941,15 +1946,15 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1973,7 +1978,7 @@
       "Name": "Recouped Investment",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -1989,14 +1994,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2537,
+      "Progressed": 2538,
       "Completed": 0
     }
   ],
@@ -2004,8 +2009,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T09:06:22.1613893+00:00",
+  "LastChanged_Achievements": "2023-07-04T10:05:58.102686+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:59:45.2330416+00:00",
-  "LastUpdate_Achievements": "2023-07-04T09:06:22.1614261+00:00"
+  "LastUpdate_Ratings": "2023-07-04T09:59:16.4324047+00:00",
+  "LastUpdate_Achievements": "2023-07-04T10:05:58.1027757+00:00"
 }

@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -364,6 +364,11 @@
       "Time": "2023-07-04T09:03:34.4200775+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T10:03:27.5093718+00:00",
+      "NumProgressed": 256,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -375,7 +380,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -383,7 +388,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -445,9 +450,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -655,7 +660,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -663,7 +668,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -693,9 +698,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -751,7 +756,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -767,7 +772,7 @@
       "Name": "Night Snack",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -797,9 +802,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -823,7 +828,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -902,13 +907,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 256,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-04T09:03:34.4200771+00:00",
+  "LastChanged_Achievements": "2023-07-04T10:03:27.5093712+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:56:53.8790936+00:00",
-  "LastUpdate_Achievements": "2023-07-04T09:03:34.4201287+00:00"
+  "LastUpdate_Ratings": "2023-07-04T09:57:01.2897667+00:00",
+  "LastUpdate_Achievements": "2023-07-04T10:03:27.5094378+00:00"
 }

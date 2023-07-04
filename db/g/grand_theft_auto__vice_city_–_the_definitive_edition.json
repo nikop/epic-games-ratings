@@ -508,9 +508,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8862,
+  "EOS_Progressed": 8863,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5853,6 +5853,11 @@
       "Time": "2023-07-04T02:27:10.5716686+00:00",
       "NumProgressed": 8862,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-04T10:00:26.4307943+00:00",
+      "NumProgressed": 8863,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 34,
@@ -5888,7 +5893,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH05",
@@ -5920,7 +5925,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH09",
@@ -6024,7 +6029,7 @@
       "Name": "Legal Counsel",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "ACH22",
@@ -6135,7 +6140,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8862,
+      "Progressed": 8863,
       "Completed": 42
     }
   ],
@@ -6143,8 +6148,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:03:14.6832603+00:00",
+  "LastChanged_Achievements": "2023-07-04T10:00:26.4307923+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:58:28.1437537+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:03:14.6833197+00:00"
+  "LastUpdate_Ratings": "2023-07-04T09:58:18.4423306+00:00",
+  "LastUpdate_Achievements": "2023-07-04T10:00:26.4309025+00:00"
 }

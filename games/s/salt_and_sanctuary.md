@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,066 |
-| The Three | 64.00% | ~337,015 |
-| The Banquet | 40.00% | ~210,634 |
+| Find Sanctuary | 83.00% | ~437,068 |
+| The Three | 64.00% | ~337,016 |
+| The Banquet | 40.00% | ~210,635 |
 | Devara's Light | 30.00% | ~157,976 |
-| The Iron Ones | 18.00% | ~94,785 |
+| The Iron Ones | 18.00% | ~94,786 |
 | The Village | 16.00% | ~84,254 |
 | The Forest | 14.00% | ~73,722 |
 | Branded | 13.00% | ~68,456 |
 | The Imposter | 13.00% | ~68,456 |
 | The Keep | 13.00% | ~68,456 |
-| The Castle | 11.00% | ~57,924 |
+| The Castle | 11.00% | ~57,925 |
 | The Dome | 9.00% | ~47,393 |
 | The Red Hall | 9.00% | ~47,393 |
 | The Sacrifice | 8.00% | ~42,127 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Alkymancery | 5.00% | ~26,329 |
 | The Lake | 5.00% | ~26,329 |
 | The Pitchwoods | 5.00% | ~26,329 |
-| Honed | 4.00% | ~21,063 |
-| The House of Splendor | 4.00% | ~21,063 |
-| The Crypt | 4.00% | ~21,063 |
-| The Palace | 4.00% | ~21,063 |
+| Honed | 4.00% | ~21,064 |
+| The House of Splendor | 4.00% | ~21,064 |
+| The Crypt | 4.00% | ~21,064 |
+| The Palace | 4.00% | ~21,064 |
 | Find Salvation | 3.00% | ~15,798 |
 | The Unspeakable Deep | 3.00% | ~15,798 |
 | Coastrock | 2.00% | ~10,532 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,532 |
 | Fading Fast | 1.00% | ~5,266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,586 (Ranked 28)  
+Progressed: 526,588 (Ranked 28)  
 Completed: 1,465 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1,465 (0.28%) (Ranked 148)
 | 2023-07-01 | 526,332 | 1,464 |
 | 2023-07-02 | 526,447 | 1,465 |
 | 2023-07-03 | 526,542 | 1,465 |
-| 2023-07-04 | 526,586 | 1,465 |
+| 2023-07-04 | 526,588 | 1,465 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,905 (Ranked 203)  

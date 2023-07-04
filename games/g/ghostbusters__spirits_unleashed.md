@@ -9,8 +9,8 @@ Rating: 4.49 (Ranked 570)
 | Advancement | 73.00% | ~17,508 |
 | Meticulously Efficient | 64.00% | ~15,350 |
 | Discovery | 61.00% | ~14,630 |
+| Swift Rift Removers | 55.00% | ~13,191 |
 | Fully Upgraded | 54.00% | ~12,951 |
-| Swift Rift Removers | 54.00% | ~12,951 |
 | Cultured | 52.00% | ~12,472 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~12,232 |
 | Vaporous Expansion | 48.00% | ~11,512 |
@@ -54,8 +54,8 @@ Rating: 4.49 (Ranked 570)
 | Line em' up | 2.00% | ~480 |
 | Little Help Here | 2.00% | ~480 |
 | Ultimate Defense | 2.00% | ~480 |
+| I don't need these | 1.00% | ~240 |
 | Mycophile | 1.00% | ~240 |
-| I don't need these | 0.90% | ~216 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,984 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 160)  

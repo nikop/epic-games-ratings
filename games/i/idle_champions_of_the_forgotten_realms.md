@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,874 |
-| The Mad Wizard | 11.00% | ~22,641 |
-| Are Ya Chicken? | 7.00% | ~14,408 |
-| The Ring of Regeneration | 6.00% | ~12,350 |
-| Were-verpowered | 5.00% | ~10,292 |
-| Mad Cow Disease | 5.00% | ~10,292 |
-| Friendly Imps | 5.00% | ~10,292 |
-| A Persistent Buzzing | 4.00% | ~8,233 |
-| Seeking Allies | 4.00% | ~8,233 |
-| Pure Energy | 4.00% | ~8,233 |
-| Terror in the Dark | 3.00% | ~6,175 |
-| Unearthed Evil | 3.00% | ~6,175 |
-| The Crumbling Temple | 3.00% | ~6,175 |
-| The Contagious Curse | 3.00% | ~6,175 |
+| The Cursed Farmer | 15.00% | ~30,881 |
+| The Mad Wizard | 11.00% | ~22,646 |
+| Are Ya Chicken? | 7.00% | ~14,411 |
+| The Ring of Regeneration | 6.00% | ~12,352 |
+| Were-verpowered | 5.00% | ~10,294 |
+| Mad Cow Disease | 5.00% | ~10,294 |
+| Friendly Imps | 5.00% | ~10,294 |
+| A Persistent Buzzing | 4.00% | ~8,235 |
+| Seeking Allies | 4.00% | ~8,235 |
+| Pure Energy | 4.00% | ~8,235 |
+| Terror in the Dark | 3.00% | ~6,176 |
+| Unearthed Evil | 3.00% | ~6,176 |
+| The Crumbling Temple | 3.00% | ~6,176 |
+| The Contagious Curse | 3.00% | ~6,176 |
 | Beast Mode | 2.00% | ~4,117 |
 | Low Initiative | 2.00% | ~4,117 |
 | A Mysterious Summons | 2.00% | ~4,117 |
@@ -30,22 +30,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 2.00% | ~4,117 |
 | Waterdeep Detours | 2.00% | ~4,117 |
 | Underdeep Cartography | 2.00% | ~4,117 |
-| March of the Undead | 1.00% | ~2,058 |
-| No Time To Rest | 1.00% | ~2,058 |
-| Invisible Shadows | 1.00% | ~2,058 |
-| The Dinner Party | 1.00% | ~2,058 |
-| The Botched Kidnapping | 1.00% | ~2,058 |
-| The Death Curse | 1.00% | ~2,058 |
-| Premature Betrayal | 1.00% | ~2,058 |
-| A Tale of Two Cities | 1.00% | ~2,058 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,058 |
-| Close Escort | 1.00% | ~2,058 |
-| Constant Banditry | 1.00% | ~2,058 |
-| Overdue Rendezvous | 1.00% | ~2,058 |
-| The Templar's Camp | 1.00% | ~2,058 |
-| Rescue in the Jungle | 1.00% | ~2,058 |
-| Homecoming | 0.90% | ~1,852 |
-| Street War | 0.90% | ~1,852 |
+| March of the Undead | 1.00% | ~2,059 |
+| No Time To Rest | 1.00% | ~2,059 |
+| Invisible Shadows | 1.00% | ~2,059 |
+| The Dinner Party | 1.00% | ~2,059 |
+| The Botched Kidnapping | 1.00% | ~2,059 |
+| The Death Curse | 1.00% | ~2,059 |
+| Premature Betrayal | 1.00% | ~2,059 |
+| A Tale of Two Cities | 1.00% | ~2,059 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,059 |
+| Close Escort | 1.00% | ~2,059 |
+| Constant Banditry | 1.00% | ~2,059 |
+| Overdue Rendezvous | 1.00% | ~2,059 |
+| The Templar's Camp | 1.00% | ~2,059 |
+| Rescue in the Jungle | 1.00% | ~2,059 |
+| Homecoming | 0.90% | ~1,853 |
+| Street War | 0.90% | ~1,853 |
 | The Lost Heir of Omu | 0.80% | ~1,647 |
 | Trollskull Manor | 0.80% | ~1,647 |
 | Dinosaur Racing | 0.80% | ~1,647 |
@@ -105,32 +105,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.40% | ~823 |
 | Resolve Amongst Chaos | 0.40% | ~823 |
 | Once More Into The Breach | 0.40% | ~823 |
-| Moose Tracks | 0.40% | ~688 |
+| Moose Tracks | 0.40% | ~689 |
 | Expert Opinion | 0.40% | ~823 |
 | Poor Guidance | 0.40% | ~823 |
-| Anti-Dexterous Explorers | 0.30% | ~617 |
-| Not Very Charming | 0.30% | ~617 |
-| Periodic Petrification | 0.30% | ~617 |
-| Double Vision | 0.30% | ~617 |
+| Anti-Dexterous Explorers | 0.30% | ~618 |
+| Not Very Charming | 0.30% | ~618 |
+| Periodic Petrification | 0.30% | ~618 |
+| Double Vision | 0.30% | ~618 |
 | The Newcomers of Notoriety | 0.30% | ~516 |
-| The Hunt for Owl-y | 0.30% | ~617 |
-| Werewolves in the Mist | 0.30% | ~617 |
-| We're not in Faerûn Anymore | 0.30% | ~617 |
+| The Hunt for Owl-y | 0.30% | ~618 |
+| Werewolves in the Mist | 0.30% | ~618 |
+| We're not in Faerûn Anymore | 0.30% | ~618 |
 | Thine Bounty is Mine! | 0.30% | ~516 |
-| House of Darkness | 0.30% | ~617 |
-| The Trepidatious Trio | 0.30% | ~617 |
-| Our Time To Shine | 0.30% | ~617 |
-| A Saurial's Resolve | 0.30% | ~617 |
-| Nimblest Escape | 0.30% | ~617 |
-| From The Shadows | 0.30% | ~617 |
-| Spined Nuisances | 0.30% | ~617 |
-| Towering Expectations | 0.30% | ~617 |
-| Who Lurks in Lurkwood | 0.30% | ~617 |
-| Orcs Are Wild | 0.30% | ~617 |
-| A Tale of Two Fiends | 0.30% | ~617 |
-| Patience is Key | 0.30% | ~617 |
-| Troublesome Prisoner | 0.30% | ~617 |
-| Wyllowwood | 0.30% | ~617 |
+| House of Darkness | 0.30% | ~618 |
+| The Trepidatious Trio | 0.30% | ~618 |
+| Our Time To Shine | 0.30% | ~618 |
+| A Saurial's Resolve | 0.30% | ~618 |
+| Nimblest Escape | 0.30% | ~618 |
+| From The Shadows | 0.30% | ~618 |
+| Spined Nuisances | 0.30% | ~618 |
+| Towering Expectations | 0.30% | ~618 |
+| Who Lurks in Lurkwood | 0.30% | ~618 |
+| Orcs Are Wild | 0.30% | ~618 |
+| A Tale of Two Fiends | 0.30% | ~618 |
+| Patience is Key | 0.30% | ~618 |
+| Troublesome Prisoner | 0.30% | ~618 |
+| Wyllowwood | 0.30% | ~618 |
 | An Illithid Undertaking | 0.30% | ~516 |
 | Déjà Vu | 0.30% | ~516 |
 | Into The Fire | 0.30% | ~516 |
@@ -147,7 +147,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.30% | ~516 |
 | Sunblight | 0.30% | ~516 |
 | The Radiant Nightmare | 0.30% | ~516 |
-| Overwhelming Force | 0.30% | ~617 |
+| Overwhelming Force | 0.30% | ~618 |
 | Struggling Toward Omu | 0.20% | ~412 |
 | Wagon Train | 0.20% | ~412 |
 | Taking Responsibility | 0.20% | ~412 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,830 (Ranked 52)  
+Progressed: 205,872 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,830 | 2,026 |
+| 2023-07-04 | 205,872 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,377 (Ranked 37)  

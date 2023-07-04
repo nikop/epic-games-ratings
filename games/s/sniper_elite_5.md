@@ -17,9 +17,9 @@ Rating: 4.45 (Ranked 619)
 | Change the Channel | 0.90% | ~29 |
 | Climbing the Ladder | 0.80% | ~26 |
 | No Stone Unturned | 0.80% | ~26 |
+| Gunslinger | 0.80% | ~26 |
 | Confirming Suspicions | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
-| Gunslinger | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
 | Organ Grinder | 0.60% | ~19 |

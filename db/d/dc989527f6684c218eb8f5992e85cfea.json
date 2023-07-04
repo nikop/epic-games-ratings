@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5799,
+  "EOS_Progressed": 5802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1166,
+  "EOS_NewPlayers": 1162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1961,6 +1961,11 @@
       "Time": "2023-07-04T09:02:05.8662681+00:00",
       "NumProgressed": 5799,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T10:02:08.3539207+00:00",
+      "NumProgressed": 5802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -2044,7 +2049,7 @@
       "Name": "You tried your best!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -2154,9 +2159,9 @@
       "ID": "ACH_WIN_A_GAME_RATE_IT",
       "SetID": "5ck0pmd",
       "Name": "First Prize!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -2171,14 +2176,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 5799,
+      "Progressed": 5802,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-07-04T09:02:05.8662675+00:00",
+  "LastChanged_Achievements": "2023-07-04T10:02:08.3539201+00:00",
   "LastUpdate_AppInfo": "2023-06-30T17:57:02.6328291+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:56:55.6024853+00:00",
-  "LastUpdate_Achievements": "2023-07-04T09:02:05.8662952+00:00"
+  "LastUpdate_Ratings": "2023-07-04T09:57:02.9282344+00:00",
+  "LastUpdate_Achievements": "2023-07-04T10:02:08.3539841+00:00"
 }

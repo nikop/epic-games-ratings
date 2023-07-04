@@ -5,12 +5,12 @@ Rating: 4.38 (Ranked 710)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,104 |
-| Ranidaphobia | 78.00% | ~936 |
-| Aspiring Editor | 75.00% | ~900 |
-| Gun for Hire | 70.00% | ~840 |
-| I am the law! | 64.00% | ~768 |
-| Lumberjack | 52.00% | ~624 |
+| First Blood | 92.00% | ~1,105 |
+| Ranidaphobia | 77.00% | ~925 |
+| Aspiring Editor | 75.00% | ~901 |
+| Gun for Hire | 70.00% | ~841 |
+| I am the law! | 64.00% | ~769 |
+| Lumberjack | 52.00% | ~625 |
 | Croaked | 47.00% | ~564 |
 | Limp Richard | 46.00% | ~552 |
 | Exorcist | 46.00% | ~552 |
@@ -20,7 +20,7 @@ Rating: 4.38 (Ranked 710)
 | Firestarter | 42.00% | ~504 |
 | Sensei | 41.00% | ~492 |
 | The meaning of Kain | 39.00% | ~468 |
-| Technophobe | 38.00% | ~456 |
+| Technophobe | 37.00% | ~444 |
 | Recycler | 36.00% | ~432 |
 | Are you not entertained? | 32.00% | ~384 |
 | Ganglord | 31.00% | ~372 |
@@ -57,7 +57,7 @@ Rating: 4.38 (Ranked 710)
 | Shadow Boxin' | 0.80% | ~10 |
 | Goaaaaal! | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 178)  
+Progressed: 1,201 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 1,195 | 0 |
 | 2023-06-30 | 1,197 | 0 |
 | 2023-07-01 | 1,200 | 0 |
+| 2023-07-04 | 1,201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

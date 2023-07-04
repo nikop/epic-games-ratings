@@ -10,7 +10,7 @@ Rating: 4.64 (Ranked 311)
 | The Spy who eliminated me | 47.00% | ~3,349 |
 | Tomorrow Never Dyes | 46.00% | ~3,278 |
 | Never Say Loser Again | 40.00% | ~2,850 |
-| For your Eyes only | 38.00% | ~2,708 |
+| For your Eyes only | 39.00% | ~2,779 |
 | From the Vault with Love | 37.00% | ~2,637 |
 | Tailor-Made | 37.00% | ~2,637 |
 | Fully Decked Out | 35.00% | ~2,494 |
