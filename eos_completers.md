@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 60.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 70.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.86% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -163,9 +163,9 @@
 | 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.18% |
 | 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 166 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 165 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.17% |
+| 165 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 167 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 167 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 169 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
