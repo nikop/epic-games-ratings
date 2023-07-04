@@ -394,7 +394,7 @@
 | 388 | [Control](games/c/control.md) | 4.60 | 8,382 | 39 |
 | 388 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 217 | 257 |
 | 388 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 74 | 360 |
-| 388 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,457 | 27 |
+| 388 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,463 | 27 |
 | 388 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.60 | 0 | 503 |
 | 388 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 120 | 310 |
 | 388 | [Heavy Rain](games/h/heavy_rain.md) | 4.60 | 58 | 388 |
@@ -867,20 +867,20 @@
 | 861 | [Space Punks](games/s/space_punks.md) | 4.16 | 174 | 282 |
 | 861 | [Wreckfest](games/w/wreckfest.md) | 4.16 | 0 | 503 |
 | 867 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 503 |
-| 867 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 503 |
 | 867 | [Pine](games/p/pine.md) | 4.15 | 0 | 503 |
 | 867 | [Relicta](games/r/relicta.md) | 4.15 | 198 | 269 |
 | 867 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 503 |
 | 867 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 503 |
 | 867 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 503 |
-| 874 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 32 | 445 |
-| 874 | [Forspoken](games/f/forspoken.md) | 4.14 | 20 | 500 |
-| 874 | [Men of War](games/m/men_of_war.md) | 4.14 | 0 | 503 |
-| 874 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 503 |
-| 878 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 503 |
-| 878 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 503 |
-| 878 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 503 |
-| 878 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.13 | 117 | 313 |
+| 873 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 32 | 445 |
+| 873 | [Forspoken](games/f/forspoken.md) | 4.14 | 20 | 500 |
+| 873 | [Men of War](games/m/men_of_war.md) | 4.14 | 0 | 503 |
+| 873 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 503 |
+| 877 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 503 |
+| 877 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 503 |
+| 877 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 503 |
+| 877 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 503 |
+| 877 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.13 | 117 | 313 |
 | 882 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 82 | 352 |
 | 882 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 72 | 367 |
 | 884 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 503 |

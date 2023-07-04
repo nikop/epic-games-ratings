@@ -126,9 +126,9 @@
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
 | 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
 | 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
-| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.48% |
-| 128 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
-| 128 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
+| 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
+| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
+| 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
