@@ -17,13 +17,13 @@
 | 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.34% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.38% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
@@ -32,8 +32,8 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
-| 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
+| 34 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.41% |
 | 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
@@ -58,8 +58,8 @@
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.88% |
-| 60 | [Destiny 2](games/d/destiny_2.md) | 2.83% |
+| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.92% |
+| 60 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.67% |
@@ -484,4 +484,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,874 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,875 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
