@@ -7,19 +7,19 @@ Number of Ratings: 524  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 33.00% | ~18,740 |
-| Let There Be Light | 27.00% | ~15,332 |
+| Let There Be Light | 27.00% | ~15,333 |
 | Float Like a Butterfly | 26.00% | ~14,765 |
-| Nordic Walking | 21.00% | ~11,925 |
-| Bright Falls' Finest | 20.00% | ~11,357 |
+| Nordic Walking | 21.00% | ~11,926 |
+| Bright Falls' Finest | 20.00% | ~11,358 |
 | Under a Thin Layer of Skin | 18.00% | ~10,222 |
 | Paging Mr. Wake | 15.00% | ~8,518 |
 | Park Ranger | 14.00% | ~7,950 |
 | Back! Back, I Say! | 14.00% | ~7,950 |
 | Finders Keepers | 14.00% | ~7,950 |
-| They're Heeeeeere! | 12.00% | ~6,814 |
-| Sound and Fury | 12.00% | ~6,814 |
-| Missed by a Mile | 12.00% | ~6,814 |
-| Damn Good Cup of Coffee | 12.00% | ~6,814 |
+| They're Heeeeeere! | 12.00% | ~6,815 |
+| Sound and Fury | 12.00% | ~6,815 |
+| Missed by a Mile | 12.00% | ~6,815 |
+| Damn Good Cup of Coffee | 12.00% | ~6,815 |
 | Wheels Within Wheels | 11.00% | ~6,247 |
 | The Six-Gun Scribe | 11.00% | ~6,247 |
 | Heavy Metal | 10.00% | ~5,679 |
@@ -34,7 +34,7 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 8.00% | ~4,543 |
 | Energized! | 8.00% | ~4,543 |
 | Right of Way | 8.00% | ~4,543 |
-| A Friend in Need | 8.00% | ~1,620 |
+| A Friend in Need | 8.00% | ~1,621 |
 | What Light Through Yonder Window | 7.00% | ~3,975 |
 | Tornado Wrangler | 6.00% | ~3,407 |
 | Departure | 6.00% | ~3,407 |
@@ -42,9 +42,9 @@ Number of Ratings: 524  (23.09.2022)
 | Drink 'Em Both Up | 5.00% | ~2,839 |
 | Hardboiled Writer | 5.00% | ~2,839 |
 | Ding! | 5.00% | ~1,013 |
-| Children of the Elder God | 4.00% | ~2,271 |
-| If It Flies, It Burns | 4.00% | ~2,271 |
-| KBF-FM | 4.00% | ~2,271 |
+| Children of the Elder God | 4.00% | ~2,272 |
+| If It Flies, It Burns | 4.00% | ~2,272 |
+| KBF-FM | 4.00% | ~2,272 |
 | Boob Tube | 3.00% | ~1,704 |
 | Kill Your Darlings | 3.00% | ~608 |
 | Heartbreaker | 3.00% | ~608 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,787 (Ranked 80)  
+Progressed: 56,789 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 57 (0.10%) (Ranked 179)
 | 2023-07-01 | 56,635 | 56 |
 | 2023-07-02 | 56,712 | 56 |
 | 2023-07-03 | 56,769 | 56 |
-| 2023-07-04 | 56,787 | 57 |
+| 2023-07-04 | 56,789 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

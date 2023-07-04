@@ -5,7 +5,7 @@
   "Ranking_Rating": 710,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
-  "Ranking_EOS_Progress": 154,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 90,
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2536,
+  "EOS_Progressed": 2537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1621,6 +1621,11 @@
       "Time": "2023-07-04T08:06:53.795845+00:00",
       "NumProgressed": 2536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T09:06:22.1613898+00:00",
+      "NumProgressed": 2537,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1664,7 +1669,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1672,7 +1677,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1728,7 +1733,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1744,7 +1749,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1824,7 +1829,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1832,7 +1837,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_MISSION_03",
@@ -1928,7 +1933,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1936,7 +1941,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1944,7 +1949,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1976,7 +1981,7 @@
       "Name": "The More The Merrier",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -1991,7 +1996,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2536,
+      "Progressed": 2537,
       "Completed": 0
     }
   ],
@@ -1999,8 +2004,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:06:53.7958445+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:06:22.1613893+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:00:08.1667034+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:06:53.7958895+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:59:45.2330416+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:06:22.1614261+00:00"
 }

@@ -1412,9 +1412,9 @@
       "ID": "ACH_Cacciavite",
       "SetID": "7a9m7mj",
       "Name": "Screwdriver",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 533
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1492,8 +1492,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:06:56.8599732+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:06:25.0950457+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:25.3202248+00:00",
-  "LastUpdate_Ratings": "2023-07-04T08:00:54.5546253+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:06:56.8599887+00:00"
+  "LastUpdate_Ratings": "2023-07-04T09:00:28.9371261+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:06:25.0950584+00:00"
 }

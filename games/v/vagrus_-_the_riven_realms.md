@@ -12,9 +12,9 @@
 | Scribe | 7.00% | ~8 |
 | Tactician | 6.00% | ~7 |
 | Fight Another Day | 6.00% | ~7 |
+| Conciliator | 5.00% | ~6 |
 | Scholar | 5.00% | ~6 |
 | Breached | 5.00% | ~6 |
-| Conciliator | 4.00% | ~5 |
 | The More the Merrier | 4.00% | ~5 |
 | Harbinger | 4.00% | ~5 |
 | Courier | 4.00% | ~5 |
@@ -30,6 +30,7 @@
 | Deputized | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Been There | 2.00% | ~2 |
+| Spiritual Journey | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
@@ -39,7 +40,6 @@
 | A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
-| Spiritual Journey | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Unseen Patterns | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |

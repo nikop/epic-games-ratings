@@ -26,10 +26,10 @@
 | He who seeks, finds! | 10.00% | ~12 |
 | The real escape | 9.00% | ~11 |
 | Nightmare in the kitchen | 9.00% | ~11 |
-| Born again | 6.00% | ~7 |
+| Born again | 7.00% | ~8 |
 | 373 | 5.00% | ~6 |
-| The experiment | 4.00% | ~5 |
-| Matthew's revenge | 4.00% | ~5 |
+| The experiment | 5.00% | ~6 |
+| Matthew's revenge | 5.00% | ~6 |
 | Horror book | 2.00% | ~2 |
 | Eva's diary | 0.80% | ~1 |
 | A dark past | 0.80% | ~1 |

@@ -35,12 +35,12 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 6.00% | ~37 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |
+| Breath | 5.00% | ~31 |
 | Kinship | 5.00% | ~31 |
 | Breathsmith | 5.00% | ~31 |
 | Unwrap the Gift | 5.00% | ~31 |
 | Proportions | 5.00% | ~31 |
 | Bloodhunter | 4.00% | ~25 |
-| Breath | 4.00% | ~25 |
 | Weakness | 4.00% | ~25 |
 | Listen | 4.00% | ~8 |
 | Zygote | 3.00% | ~6 |

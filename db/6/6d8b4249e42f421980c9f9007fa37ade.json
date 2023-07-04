@@ -2,9 +2,9 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -341,6 +341,11 @@
       "Time": "2023-06-30T11:04:32.9613273+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T09:03:59.7412263+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -350,7 +355,7 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -478,7 +483,7 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -510,7 +515,7 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -526,7 +531,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 47
     },
@@ -582,7 +587,7 @@
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -614,7 +619,7 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -654,7 +659,7 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -702,7 +707,7 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -718,7 +723,7 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -735,14 +740,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:04:22.81814+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:03:59.7412257+00:00",
   "LastUpdate_AppInfo": "2023-06-29T04:57:06.9646615+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:57:22.21925+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:04:22.8181839+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:57:03.8822804+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:03:59.7412581+00:00"
 }

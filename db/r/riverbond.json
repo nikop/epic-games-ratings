@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521259,
+  "EOS_Progressed": 521260,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8140,6 +8140,11 @@
       "Time": "2023-07-04T08:01:51.9648262+00:00",
       "NumProgressed": 521259,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-07-04T09:02:14.3149927+00:00",
+      "NumProgressed": 521260,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 57,
@@ -8167,7 +8172,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 364881
+      "UsersEstimate": 364882
     },
     {
       "ID": "12",
@@ -8191,7 +8196,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57338
+      "UsersEstimate": 57339
     },
     {
       "ID": "15",
@@ -8255,7 +8260,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57338
+      "UsersEstimate": 57339
     },
     {
       "ID": "22",
@@ -8383,7 +8388,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 83401
+      "UsersEstimate": 83402
     },
     {
       "ID": "37",
@@ -8527,7 +8532,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239779
+      "UsersEstimate": 239780
     },
     {
       "ID": "53",
@@ -8606,15 +8611,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521259,
+      "Progressed": 521260,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:01:51.9648257+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:02:14.3149923+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.3769011+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:57:49.3167984+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:01:51.9649304+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:57:32.396095+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:02:14.3150681+00:00"
 }

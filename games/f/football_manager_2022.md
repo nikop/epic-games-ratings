@@ -12,19 +12,19 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Sold! | 47.00% | ~218,967 |
 | I'm The Boss! | 41.00% | ~191,014 |
 | Hat-trick | 41.00% | ~191,014 |
-| Unbeatable! | 37.00% | ~172,378 |
-| Thumping | 37.00% | ~172,378 |
-| Scoring Streak | 37.00% | ~172,378 |
-| Superb Dressing Room Atmosphere | 35.00% | ~163,060 |
+| Unbeatable! | 37.00% | ~172,379 |
+| Thumping | 37.00% | ~172,379 |
+| Scoring Streak | 37.00% | ~172,379 |
+| Superb Dressing Room Atmosphere | 35.00% | ~163,061 |
 | Total Support | 32.00% | ~149,084 |
 | Record Signing | 32.00% | ~149,084 |
 | Millionaire's Club | 31.00% | ~144,425 |
 | Team Performance | 30.00% | ~139,766 |
 | He's a Natural | 30.00% | ~139,766 |
-| Parked The Bus | 29.00% | ~135,107 |
-| Shrewd Spender | 29.00% | ~135,107 |
-| Star Man | 29.00% | ~135,107 |
-| Attack! | 27.00% | ~125,789 |
+| Parked The Bus | 29.00% | ~135,108 |
+| Shrewd Spender | 29.00% | ~135,108 |
+| Star Man | 29.00% | ~135,108 |
+| Attack! | 27.00% | ~125,790 |
 | You're On Fire | 26.00% | ~121,131 |
 | Tremendous Trio | 26.00% | ~121,131 |
 | Record Sale | 26.00% | ~121,131 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~65,224 |
 | Comeback King! | 13.00% | ~60,565 |
 | You're Up! | 13.00% | ~60,565 |
-| Money, Money, Money | 12.00% | ~55,906 |
+| Money, Money, Money | 12.00% | ~55,907 |
 | Superb Strike | 10.00% | ~46,589 |
 | Invincible! | 10.00% | ~46,589 |
 | Best In The World | 10.00% | ~46,589 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~466 |
 | Shoestring Budget | 0.10% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,887 (Ranked 34)  
+Progressed: 465,888 (Ranked 34)  
 Completed: 19 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 19 (0.00%) (Ranked 232)
 | 2023-07-01 | 465,668 | 19 |
 | 2023-07-02 | 465,781 | 19 |
 | 2023-07-03 | 465,869 | 19 |
-| 2023-07-04 | 465,887 | 19 |
+| 2023-07-04 | 465,888 | 19 |
 ## Awards
 Max (Relaxing): 6,336  (Ranked 51)  
 Sum: 49,953 (Ranked 24)  

@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-07-04T08:03:45.5836835+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T09:03:34.4200775+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -368,25 +373,25 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -410,7 +415,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -440,9 +445,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -570,7 +575,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -656,9 +661,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -720,9 +725,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -730,7 +735,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -800,9 +805,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -897,13 +902,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 254,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:03:45.5836829+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:03:34.4200771+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:57:10.789632+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:03:45.5837568+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:56:53.8790936+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:03:34.4201287+00:00"
 }

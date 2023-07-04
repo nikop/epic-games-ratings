@@ -19,7 +19,7 @@ Number of Ratings: 154  (23.09.2022)
 | Gallant Spin Dash | 67.00% | ~159 |
 | Miles "Tails" Prower | 67.00% | ~159 |
 | Bubbly Breath | 66.00% | ~156 |
-| Boss Rush Attempt | 59.00% | ~140 |
+| Boss Rush Attempt | 60.00% | ~142 |
 | Cleared Sonic the Hedgehog | 58.00% | ~137 |
 | Museum Time | 54.00% | ~128 |
 | Very First Mission Clear! | 54.00% | ~128 |

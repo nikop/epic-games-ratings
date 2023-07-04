@@ -220,9 +220,9 @@
       "ID": "BADGE_BOSS_8_KILL",
       "SetID": "ak6pfjk",
       "Name": "Dwarven Countdown",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "BADGE_BRILLIANT_DAY",
@@ -292,9 +292,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: The Deep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT",
@@ -589,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-04T08:05:17.8018508+00:00",
+  "LastChanged_Achievements": "2023-07-04T09:04:51.5652476+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:59:17.0994928+00:00",
-  "LastUpdate_Achievements": "2023-07-04T08:05:17.8019+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:58:53.5701001+00:00",
+  "LastUpdate_Achievements": "2023-07-04T09:04:51.5652898+00:00"
 }
