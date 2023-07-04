@@ -17,6 +17,7 @@
 | The Sons of Minos | 4.00% | ~126 |
 | Eidola | 4.00% | ~126 |
 | Reign in Blood | 4.00% | ~126 |
+| Comedy and Tragedy | 3.00% | ~94 |
 | Pillars of Eternity | 3.00% | ~94 |
 | Immolator | 3.00% | ~94 |
 | War Chest | 3.00% | ~94 |
@@ -27,7 +28,6 @@
 | Siege Unit | 3.00% | ~94 |
 | Divine Assemblage | 3.00% | ~94 |
 | Ophiolatreia | 3.00% | ~94 |
-| Comedy and Tragedy | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
 | Labour of Apollo | 2.00% | ~63 |

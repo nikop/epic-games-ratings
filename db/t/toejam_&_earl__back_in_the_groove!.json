@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55583,
+  "EOS_Progressed": 55586,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4967,6 +4967,11 @@
       "Time": "2023-07-04T20:04:28.5055588+00:00",
       "NumProgressed": 55583,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T21:04:10.4098782+00:00",
+      "NumProgressed": 55586,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -5066,7 +5071,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "FoolMeTwice",
@@ -5162,7 +5167,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "LordOfHFZ",
@@ -5298,7 +5303,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -5330,7 +5335,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "TrulyEvil",
@@ -5369,7 +5374,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 55583,
+      "Progressed": 55586,
       "Completed": 4
     }
   ],
@@ -5377,8 +5382,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:04:28.5055582+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:04:10.4098777+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:04.7380884+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:02:08.6939305+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:04:28.5056262+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:02:03.9450925+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:04:10.4099503+00:00"
 }

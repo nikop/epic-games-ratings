@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,927 |
-| The Mad Wizard | 11.00% | ~22,680 |
-| Are Ya Chicken? | 7.00% | ~14,432 |
-| The Ring of Regeneration | 6.00% | ~12,371 |
-| Were-verpowered | 5.00% | ~10,309 |
-| Mad Cow Disease | 5.00% | ~10,309 |
-| Friendly Imps | 5.00% | ~10,309 |
-| A Persistent Buzzing | 4.00% | ~8,247 |
-| Seeking Allies | 4.00% | ~8,247 |
-| Pure Energy | 4.00% | ~8,247 |
-| Terror in the Dark | 3.00% | ~6,185 |
-| Unearthed Evil | 3.00% | ~6,185 |
-| The Crumbling Temple | 3.00% | ~6,185 |
-| The Contagious Curse | 3.00% | ~6,185 |
+| The Cursed Farmer | 15.00% | ~30,931 |
+| The Mad Wizard | 11.00% | ~22,683 |
+| Are Ya Chicken? | 7.00% | ~14,435 |
+| The Ring of Regeneration | 6.00% | ~12,373 |
+| Were-verpowered | 5.00% | ~10,310 |
+| Mad Cow Disease | 5.00% | ~10,310 |
+| Friendly Imps | 5.00% | ~10,310 |
+| A Persistent Buzzing | 4.00% | ~8,248 |
+| Seeking Allies | 4.00% | ~8,248 |
+| Pure Energy | 4.00% | ~8,248 |
+| Terror in the Dark | 3.00% | ~6,186 |
+| Unearthed Evil | 3.00% | ~6,186 |
+| The Crumbling Temple | 3.00% | ~6,186 |
+| The Contagious Curse | 3.00% | ~6,186 |
 | Beast Mode | 2.00% | ~4,124 |
 | Low Initiative | 2.00% | ~4,124 |
 | A Mysterious Summons | 2.00% | ~4,124 |
@@ -46,12 +46,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 1.00% | ~2,062 |
 | Rescue in the Jungle | 1.00% | ~2,062 |
 | Homecoming | 0.90% | ~1,856 |
+| Trollskull Manor | 0.90% | ~1,856 |
 | Dinosaur Racing | 0.90% | ~1,856 |
-| The Lost Heir of Omu | 0.80% | ~1,649 |
-| Trollskull Manor | 0.80% | ~1,649 |
-| Attack on the Manor | 0.80% | ~1,649 |
-| The Long Haul | 0.80% | ~1,649 |
-| Lost in the Deep | 0.80% | ~1,649 |
+| The Lost Heir of Omu | 0.80% | ~1,650 |
+| Attack on the Manor | 0.80% | ~1,650 |
+| The Long Haul | 0.80% | ~1,650 |
+| Lost in the Deep | 0.80% | ~1,650 |
 | The Forbidden City | 0.70% | ~1,443 |
 | Captured! | 0.70% | ~1,443 |
 | Wisdom Check | 0.70% | ~1,443 |
@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.60% | ~1,237 |
 | Treasure Hunters | 0.60% | ~1,237 |
 | Fugitives | 0.60% | ~1,237 |
+| Hopelessly Lost | 0.60% | ~1,237 |
 | Crowded Streets | 0.60% | ~1,237 |
 | The Darkness Runs Deeper | 0.60% | ~1,237 |
 | Market Fluctuations | 0.60% | ~1,237 |
@@ -78,7 +79,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.50% | ~1,031 |
 | The Guardian of Orolunga | 0.50% | ~1,031 |
 | The Lost Love | 0.50% | ~1,031 |
-| Hopelessly Lost | 0.50% | ~1,031 |
 | Enter the Sargauth | 0.50% | ~1,031 |
 | Lair of the Xanathar | 0.50% | ~1,031 |
 | Difficult Terrain | 0.50% | ~1,031 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,178 (Ranked 52)  
+Progressed: 206,209 (Ranked 52)  
 Completed: 2,027 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,027 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 206,178 | 2,027 |
+| 2023-07-04 | 206,209 | 2,027 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,378 (Ranked 37)  

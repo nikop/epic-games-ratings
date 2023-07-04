@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -1835,9 +1835,9 @@
       "ID": "ACH_B_DP",
       "SetID": "b3fep3o",
       "Name": "Comedy and Tragedy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_B_FS",
@@ -2340,8 +2340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:05:24.2103549+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:05:06.7893413+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:00:56.2856666+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:05:24.2104774+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:01:00.949871+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:05:06.7894179+00:00"
 }

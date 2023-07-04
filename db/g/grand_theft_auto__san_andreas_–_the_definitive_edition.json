@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 10943,
+  "EOS_Progressed": 10944,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6114,6 +6114,11 @@
       "Time": "2023-07-04T20:07:49.9182294+00:00",
       "NumProgressed": 10943,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-04T21:07:42.3536206+00:00",
+      "NumProgressed": 10944,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 35,
@@ -6125,7 +6130,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8864
+      "UsersEstimate": 8865
     },
     {
       "ID": "ACH02",
@@ -6205,7 +6210,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH12",
@@ -6301,7 +6306,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACH24",
@@ -6404,7 +6409,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10943,
+      "Progressed": 10944,
       "Completed": 25
     }
   ],
@@ -6412,8 +6417,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-04T15:00:25.8802956+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:07:49.9182288+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:07:42.3536202+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:01:36.8679191+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:07:49.9183077+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:01:41.759127+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:07:42.3536836+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.66 (Ranked 273)
 | First Bounty Down | 59.00% | ~13,549 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,089 |
 | Luglox Genocide | 43.00% | ~9,875 |
-| Playing Card To Get | 33.00% | ~7,578 |
+| Playing Card To Get | 34.00% | ~7,808 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,578 |
 | Creature Feature | 29.00% | ~6,660 |
 | Satisfied Gus-tomer | 28.00% | ~6,430 |

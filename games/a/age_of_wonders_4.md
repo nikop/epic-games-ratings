@@ -34,9 +34,9 @@ Rating: 4.61 (Ranked 362)
 | Enchanted Archipelago | 0.90% | ~44 |
 | Digging for Treasure | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
+| The Creator | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | God Emperor | 0.70% | ~34 |
-| The Creator | 0.70% | ~34 |
 | The Goddess of Nature | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~30 |
 | Crimson Caldera | 0.60% | ~30 |

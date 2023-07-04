@@ -18,10 +18,10 @@
 | Destination Destiny | 28.00% | ~64 |
 | Happy Tenants | 25.00% | ~57 |
 | Your Prestige is Rising | 24.00% | ~55 |
+| Smooth Service | 24.00% | ~55 |
 | Potent Potables | 23.00% | ~53 |
 | Retail Revenue | 23.00% | ~53 |
-| Smooth Service | 23.00% | ~53 |
-| Lux Living | 21.00% | ~48 |
+| Lux Living | 22.00% | ~50 |
 | Don't Feel a Loan | 21.00% | ~48 |
 | People Mover | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |

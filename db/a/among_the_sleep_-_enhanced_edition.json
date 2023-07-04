@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77462,
+  "EOS_Progressed": 77467,
   "EOS_Completed": 367,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8368,6 +8368,11 @@
       "Time": "2023-07-04T20:04:03.1982994+00:00",
       "NumProgressed": 77462,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-07-04T21:03:45.6197466+00:00",
+      "NumProgressed": 77467,
+      "NumCompleted": 367
     }
   ],
   "TotalAchievements": 10,
@@ -8435,7 +8440,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7746
+      "UsersEstimate": 7747
     },
     {
       "ID": "Level00BowlingStrike",
@@ -8443,7 +8448,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27112
+      "UsersEstimate": 27113
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -8458,15 +8463,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 77462,
+      "Progressed": 77467,
       "Completed": 367
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:04:03.1982988+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:03:45.6197462+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.168225+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:01:54.9641312+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:04:03.1983734+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:01:54.4665494+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:03:45.6198045+00:00"
 }

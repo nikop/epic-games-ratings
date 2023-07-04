@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195383,
+  "EOS_Progressed": 195393,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8130,6 +8130,11 @@
       "Time": "2023-07-04T20:07:35.0295113+00:00",
       "NumProgressed": 195383,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-07-04T21:07:27.6844146+00:00",
+      "NumProgressed": 195393,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 29,
@@ -8165,7 +8170,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183660
+      "UsersEstimate": 183669
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8213,7 +8218,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -8221,7 +8226,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9769
+      "UsersEstimate": 9770
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -8277,7 +8282,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11723
+      "UsersEstimate": 11724
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -8301,7 +8306,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9769
+      "UsersEstimate": 9770
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -8309,7 +8314,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5861
+      "UsersEstimate": 5862
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -8325,7 +8330,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19538
+      "UsersEstimate": 19539
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -8341,7 +8346,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13677
+      "UsersEstimate": 13678
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -8372,7 +8377,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195383,
+      "Progressed": 195393,
       "Completed": 455
     }
   ],
@@ -8380,8 +8385,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:07:35.0295109+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:07:27.6844141+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:37.1895533+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:59:42.6687952+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:07:35.0296539+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:59:43.6204266+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:07:27.6844852+00:00"
 }

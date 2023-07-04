@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2770,
+  "EOS_Progressed": 2771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3302,6 +3302,11 @@
       "Time": "2023-07-04T19:03:38.7538932+00:00",
       "NumProgressed": 2770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T21:03:51.8554404+00:00",
+      "NumProgressed": 2771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3321,7 +3326,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_BASE_11",
@@ -3417,7 +3422,7 @@
       "Name": "Space Society",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_24",
@@ -3465,7 +3470,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_3",
@@ -3489,7 +3494,7 @@
       "Name": "Power Outage",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_BASE_32",
@@ -3513,7 +3518,7 @@
       "Name": "Ready for a New World",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_BASE_35",
@@ -3641,7 +3646,7 @@
       "Name": "Convenient Transport",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_BASE_52",
@@ -3665,7 +3670,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_BASE_57",
@@ -3768,13 +3773,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 951,
+      "Progressed": 952,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2770,
+      "Progressed": 2771,
       "Completed": 0
     }
   ],
@@ -3782,8 +3787,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-04T20:04:09.6266512+00:00",
+  "LastChanged_Achievements": "2023-07-04T21:03:51.8554397+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:59:18.7872126+00:00",
-  "LastUpdate_Achievements": "2023-07-04T20:04:09.6267208+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:59:18.6482674+00:00",
+  "LastUpdate_Achievements": "2023-07-04T21:03:51.8555187+00:00"
 }

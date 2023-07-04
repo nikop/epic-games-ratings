@@ -9,9 +9,9 @@ Rating: 4.57 (Ranked 441)
 | Sputnik 2049 | 18.00% | ~499 |
 | Infinite Growth... | 17.00% | ~471 |
 | Without Breaking Some Eggs... | 16.00% | ~443 |
-| Space Society | 12.00% | ~332 |
-| A Thousand Strong | 12.00% | ~332 |
-| Ready for a New World | 12.00% | ~332 |
+| Space Society | 12.00% | ~333 |
+| A Thousand Strong | 12.00% | ~333 |
+| Ready for a New World | 12.00% | ~333 |
 | Permanent Redesigns | 10.00% | ~277 |
 | Guy de Borderlands | 9.00% | ~249 |
 | Fully Recycled | 9.00% | ~249 |
@@ -21,10 +21,10 @@ Rating: 4.57 (Ranked 441)
 | A Hunk of Junk | 7.00% | ~194 |
 | Exceeding Capacity | 7.00% | ~194 |
 | Breaking Protocol | 7.00% | ~194 |
-| Man's Best Friend | 5.00% | ~138 |
-| Power Outage | 5.00% | ~138 |
-| Convenient Transport | 5.00% | ~138 |
-| Please Make it Stop! | 5.00% | ~138 |
+| Man's Best Friend | 5.00% | ~139 |
+| Power Outage | 5.00% | ~139 |
+| Convenient Transport | 5.00% | ~139 |
+| Please Make it Stop! | 5.00% | ~139 |
 | Sightseeing | 4.00% | ~111 |
 | Access Granted | 4.00% | ~111 |
 | Necessary Enhancement | 4.00% | ~111 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 441)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,770 (Ranked 152)  
+Progressed: 2,771 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 2,761 | 0 |
 | 2023-07-02 | 2,765 | 0 |
 | 2023-07-03 | 2,768 | 0 |
-| 2023-07-04 | 2,770 | 0 |
+| 2023-07-04 | 2,771 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

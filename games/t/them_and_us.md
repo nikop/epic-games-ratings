@@ -9,9 +9,9 @@
 | A Night To Remember | 38.00% | ~56 |
 | Safe...For now? | 32.00% | ~47 |
 | Open Sesame | 28.00% | ~41 |
+| Them and Us | 16.00% | ~24 |
+| OUTRAGE | 16.00% | ~24 |
 | What have I done!? | 16.00% | ~24 |
-| Them and Us | 15.00% | ~22 |
-| OUTRAGE | 15.00% | ~22 |
 | The Cultists | 12.00% | ~18 |
 | Alone In The Dark | 11.00% | ~16 |
 | Parasite Exterminated | 11.00% | ~16 |

@@ -6,30 +6,30 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,967 |
-| Titan's First Steps | 96.00% | ~126,648 |
-| Basic in Bulk | 91.00% | ~120,052 |
+| Sponsored by Argon | 97.00% | ~127,968 |
+| Titan's First Steps | 96.00% | ~126,649 |
+| Basic in Bulk | 91.00% | ~120,053 |
 | Tinkle of Coins | 86.00% | ~113,456 |
 | Disintermediation | 75.00% | ~98,944 |
-| Capitalism Ho! | 74.00% | ~97,624 |
+| Capitalism Ho! | 74.00% | ~97,625 |
 | It's Free Real Estate | 70.00% | ~92,348 |
-| Budding Merchant | 66.00% | ~87,070 |
-| Another Satisfied Customer | 61.00% | ~80,474 |
-| One Easy Payment | 60.00% | ~79,155 |
-| Own the Means of Production | 60.00% | ~79,155 |
-| Some Assembly Required | 58.00% | ~76,516 |
-| Pretty Penny | 57.00% | ~75,197 |
-| One-Armed Bandit | 49.00% | ~64,643 |
+| Budding Merchant | 66.00% | ~87,071 |
+| Another Satisfied Customer | 61.00% | ~80,475 |
+| One Easy Payment | 60.00% | ~79,156 |
+| Own the Means of Production | 60.00% | ~79,156 |
+| Some Assembly Required | 58.00% | ~76,517 |
+| Pretty Penny | 57.00% | ~75,198 |
+| One-Armed Bandit | 49.00% | ~64,644 |
 | Through Repetition, Perfection | 46.00% | ~60,686 |
-| The Daily Grind | 45.00% | ~59,366 |
+| The Daily Grind | 45.00% | ~59,367 |
 | Bounty Hunters | 44.00% | ~58,047 |
 | Where it Hurts | 43.00% | ~56,728 |
-| Dungeon Imports | 42.00% | ~55,408 |
-| Flooding the Market | 41.00% | ~54,089 |
+| Dungeon Imports | 42.00% | ~55,409 |
+| Flooding the Market | 41.00% | ~54,090 |
 | Demand for Supplies | 38.00% | ~50,132 |
-| Gild-Gotten Goods | 37.00% | ~48,812 |
+| Gild-Gotten Goods | 37.00% | ~48,813 |
 | Did we pack lunch? | 35.00% | ~46,174 |
-| Arcane Industries | 34.00% | ~44,854 |
+| Arcane Industries | 34.00% | ~44,855 |
 | Accomplished Merchant | 31.00% | ~40,897 |
 | On the Path to Greatness | 28.00% | ~36,939 |
 | Ascended | 28.00% | ~36,939 |
@@ -37,8 +37,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 28.00% | ~36,939 |
 | Blank Page Syndrome | 27.00% | ~35,620 |
 | Efficient Floor Space | 27.00% | ~35,620 |
-| Vanity, Verily | 26.00% | ~34,300 |
-| Research & Development | 25.00% | ~32,981 |
+| Vanity, Verily | 26.00% | ~34,301 |
+| Research & Development | 25.00% | ~32,982 |
 | Power of Love | 24.00% | ~31,662 |
 | Flawless Fusion | 24.00% | ~31,662 |
 | Natural 20 | 23.00% | ~30,343 |
@@ -47,7 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 21.00% | ~27,704 |
 | Tax not Included | 20.00% | ~26,385 |
 | Trash to Treasure | 19.00% | ~25,066 |
-| For the Hoard! | 18.00% | ~23,746 |
+| For the Hoard! | 18.00% | ~23,747 |
 | Special Ingredient | 17.00% | ~22,427 |
 | Scrapbooker | 16.00% | ~21,108 |
 | A Notch Above the Rest | 15.00% | ~19,789 |
@@ -69,7 +69,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 11.00% | ~14,512 |
 | By Your Powers Combined... | 11.00% | ~14,512 |
 | Exotic Commodities | 11.00% | ~14,512 |
-| Master Recycler | 10.00% | ~13,192 |
+| Master Recycler | 10.00% | ~13,193 |
 | Supercharged | 9.00% | ~11,873 |
 | Ritualist | 9.00% | ~11,873 |
 | Master Merchant | 9.00% | ~11,873 |
@@ -99,12 +99,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 3.00% | ~3,958 |
 | Economy of Scarce | 3.00% | ~3,958 |
 | King's Blade | 3.00% | ~3,958 |
-| The Free Encyclopedia | 2.00% | ~2,638 |
-| Master of Transmutation | 2.00% | ~2,638 |
-| Necromancer Queen | 2.00% | ~2,638 |
-| All or Nothing! | 2.00% | ~2,638 |
-| Eternal Crusade | 2.00% | ~2,638 |
-| Moment of Respite | 2.00% | ~2,638 |
+| The Free Encyclopedia | 2.00% | ~2,639 |
+| Master of Transmutation | 2.00% | ~2,639 |
+| Necromancer Queen | 2.00% | ~2,639 |
+| All or Nothing! | 2.00% | ~2,639 |
+| Eternal Crusade | 2.00% | ~2,639 |
+| Moment of Respite | 2.00% | ~2,639 |
 | A Ronin Reborn | 1.00% | ~1,319 |
 | Bane of Legends | 1.00% | ~1,319 |
 | Oligarch Monarch | 1.00% | ~1,319 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~660 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,925 (Ranked 60)  
+Progressed: 131,926 (Ranked 60)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,16 +194,16 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-07-01 | 131,759 | 113 |
 | 2023-07-02 | 131,824 | 113 |
 | 2023-07-03 | 131,878 | 113 |
-| 2023-07-04 | 131,925 | 113 |
+| 2023-07-04 | 131,926 | 113 |
 ## Awards
 Max (Great for Beginners): 4,645  (Ranked 68)  
-Sum: 26,858 (Ranked 46)  
+Sum: 26,859 (Ranked 46)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,645 |
 | This game is Relaxing | 3,975 |
-| This game has Quickly Understood Controls | 3,963 |
+| This game has Quickly Understood Controls | 3,964 |
 | This game has Diverse Characters | 3,809 |
 | This game is Highly Recommended | 3,698 |
 | This game has Easy Combat | 3,644 |
@@ -373,4 +373,4 @@ Diff (max vs sum): 22
 | 2023-07-01 | 3.99 | - | 4,642 | 26,846 |
 | 2023-07-02 | 3.99 | - | 4,643 | 26,852 |
 | 2023-07-03 | 3.99 | - | 4,643 | 26,855 |
-| 2023-07-04 | 3.99 | - | 4,645 | 26,858 |
+| 2023-07-04 | 3.99 | - | 4,645 | 26,859 |
