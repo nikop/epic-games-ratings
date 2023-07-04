@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 843)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 2.00% | ~312 |
+| Get a Grip | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~71 |
 | You Need a Gun | 1.00% | ~156 |
 | Flesh Wound | 1.00% | ~156 |
@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 843)
 | The Outer Way | 0.70% | ~109 |
 | Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.50% | ~18 |
-| In Striking Distance | 0.40% | ~62 |
+| In Striking Distance | 0.40% | ~63 |
 | This Isn't About Escape | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,625 (Ranked 106)  
+Progressed: 15,627 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
-| 2023-07-04 | 15,625 | 63 |
+| 2023-07-04 | 15,627 | 63 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 381)  
 Sum: 358 (Ranked 321)  

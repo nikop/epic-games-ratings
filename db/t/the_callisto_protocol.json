@@ -848,9 +848,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15625,
+  "EOS_Progressed": 15627,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5183,6 +5183,11 @@
       "Time": "2023-07-04T04:05:32.968437+00:00",
       "NumProgressed": 15625,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-04T05:05:15.8186884+00:00",
+      "NumProgressed": 15627,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 47,
@@ -5298,7 +5303,7 @@
       "Name": "Get a Grip",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -5306,7 +5311,7 @@
       "Name": "In Striking Distance",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "KILL_2HEAD",
@@ -5569,13 +5574,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15625,
+      "Progressed": 15627,
       "Completed": 63
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3551,
+      "Progressed": 3553,
       "Completed": 29
     }
   ],
@@ -5583,8 +5588,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-03T15:58:13.52778+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:05:32.9684367+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:05:15.8186878+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:58:12.6317212+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:05:32.9684952+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:58:06.1576362+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:05:15.818758+00:00"
 }

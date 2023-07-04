@@ -689,9 +689,9 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "9",
@@ -720,8 +720,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:04:43.7642449+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:04:22.1772473+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:29.2373882+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:59:09.6424977+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:04:43.7642615+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:58:50.5124536+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:04:22.1772607+00:00"
 }

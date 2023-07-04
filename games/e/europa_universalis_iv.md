@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,858 |
-| That's a Grand Army | 8.00% | ~5,207 |
-| That is mine! | 8.00% | ~5,207 |
-| Victorious! | 8.00% | ~5,207 |
+| Until death do us apart | 9.00% | ~5,859 |
+| That's a Grand Army | 8.00% | ~5,208 |
+| That is mine! | 8.00% | ~5,208 |
+| Victorious! | 8.00% | ~5,208 |
 | Brothers in Arms | 6.00% | ~3,906 |
 | That's a Grand Navy | 6.00% | ~3,906 |
 | Seriously?! | 6.00% | ~3,906 |
@@ -52,12 +52,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~391 |
 | This is My Faith | 0.60% | ~391 |
 | Time Bandit | 0.60% | ~391 |
-| Absolutely | 0.50% | ~325 |
-| Early-Modern Warfare | 0.50% | ~325 |
-| Grand Coalition | 0.50% | ~325 |
-| Ruina Imperii | 0.50% | ~325 |
-| Trophy Hunter | 0.50% | ~325 |
-| Voting Streak | 0.50% | ~325 |
+| Absolutely | 0.50% | ~326 |
+| Early-Modern Warfare | 0.50% | ~326 |
+| Grand Coalition | 0.50% | ~326 |
+| Ruina Imperii | 0.50% | ~326 |
+| Trophy Hunter | 0.50% | ~326 |
+| Voting Streak | 0.50% | ~326 |
 | All Your Trade Are Belong to Us | 0.40% | ~260 |
 | Bleed Them Dry | 0.40% | ~260 |
 | Dude, Where's my Boat? | 0.40% | ~260 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,092 (Ranked 75)  
+Progressed: 65,102 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,7 +436,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
-| 2023-07-04 | 65,092 | 0 |
+| 2023-07-04 | 65,102 | 0 |
 ## Awards
 Max (Educational): 5,500  (Ranked 61)  
 Sum: 45,354 (Ranked 27)  

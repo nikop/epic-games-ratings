@@ -5,23 +5,23 @@ Rating: 4.64 (Ranked 311)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~4,558 |
-| Mainframe Hacker | 47.00% | ~3,347 |
-| The Spy who eliminated me | 47.00% | ~3,347 |
-| Tomorrow Never Dyes | 46.00% | ~3,276 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~4,559 |
+| Mainframe Hacker | 47.00% | ~3,348 |
+| The Spy who eliminated me | 47.00% | ~3,348 |
+| Tomorrow Never Dyes | 46.00% | ~3,277 |
 | Never Say Loser Again | 40.00% | ~2,849 |
-| For your Eyes only | 39.00% | ~2,778 |
-| From the Vault with Love | 37.00% | ~2,635 |
-| Tailor-Made | 37.00% | ~2,635 |
+| For your Eyes only | 38.00% | ~2,707 |
+| From the Vault with Love | 37.00% | ~2,636 |
+| Tailor-Made | 37.00% | ~2,636 |
 | Fully Decked Out | 35.00% | ~2,493 |
-| You Only Live Twice | 33.00% | ~2,350 |
+| You Only Live Twice | 33.00% | ~2,351 |
 | A view to Win | 27.00% | ~1,923 |
-| Private Collection | 25.00% | ~1,780 |
-| Smells Like Trouble | 25.00% | ~1,780 |
-| Assistant Accountant | 24.00% | ~1,709 |
-| The Living Portrait | 24.00% | ~1,709 |
-| Killer Looks | 24.00% | ~1,709 |
-| Hostile Takeover | 24.00% | ~1,709 |
+| Private Collection | 25.00% | ~1,781 |
+| Smells Like Trouble | 25.00% | ~1,781 |
+| Assistant Accountant | 24.00% | ~1,710 |
+| The Living Portrait | 24.00% | ~1,710 |
+| Killer Looks | 24.00% | ~1,710 |
+| Hostile Takeover | 24.00% | ~1,710 |
 | Keycards Royale | 23.00% | ~1,638 |
 | Dr. No Kill | 23.00% | ~1,638 |
 | My Motto, My Creed | 23.00% | ~1,638 |
@@ -42,7 +42,7 @@ Rating: 4.64 (Ranked 311)
 | Extraction Confusion | 0.30% | ~21 |
 | Spyfall | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,122 (Ranked 122)  
+Progressed: 7,123 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 7,074 | 0 |
 | 2023-07-02 | 7,096 | 0 |
 | 2023-07-03 | 7,119 | 0 |
-| 2023-07-04 | 7,122 | 0 |
+| 2023-07-04 | 7,123 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

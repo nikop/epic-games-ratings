@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Stilesville | 93.00% | ~41 |
-| Talented Performer | 52.00% | ~23 |
-| Welcome to Barcelona | 50.00% | ~22 |
+| Talented Performer | 55.00% | ~24 |
+| Welcome to Barcelona | 52.00% | ~23 |
 | Stilesville Hidden Style | 39.00% | ~17 |
 | Born to Win | 32.00% | ~14 |
 | Welcome to Seoul | 32.00% | ~14 |

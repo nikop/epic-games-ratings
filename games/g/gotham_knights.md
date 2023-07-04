@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,983 |
+| First Step Into the Knight | 6.00% | ~3,984 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,656 |
 | Loose Ends | 4.00% | ~2,656 |
 | The Batman Family | 3.00% | ~1,992 |
@@ -39,8 +39,8 @@ Rating: 4.18 (Ranked 851)
 | Out of Their League | 1.00% | ~664 |
 | Drone You Out | 1.00% | ~664 |
 | Solid Alibi | 1.00% | ~664 |
-| Family Meeting | 0.90% | ~597 |
-| A Worthy Successor | 0.90% | ~597 |
+| Family Meeting | 0.90% | ~598 |
+| A Worthy Successor | 0.90% | ~598 |
 | Expert Crime Fighter | 0.80% | ~531 |
 | Dressed to Impress | 0.70% | ~465 |
 | A Momentum Occasion | 0.50% | ~332 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 851)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,388 (Ranked 73)  
+Progressed: 66,395 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,10 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-01 | 66,242 | 100 |
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
-| 2023-07-04 | 66,388 | 100 |
+| 2023-07-04 | 66,395 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,411  (Ranked 100)  
-Sum: 3,993 (Ranked 137)  
+Sum: 3,995 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -155,9 +155,9 @@ Diff (max vs sum): -37
 | This game is Relaxing | 203 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 195 |
+| This game is Highly Recommended | 194 |
 | This game is Great for Beginners | 193 |
 | This game has Amazing Storytelling | 192 |
-| This game is Highly Recommended | 192 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -295,3 +295,4 @@ Diff (max vs sum): -37
 | 2023-07-01 | 4.18 | 2,407 | 3,981 |
 | 2023-07-02 | 4.18 | 2,407 | 3,985 |
 | 2023-07-03 | 4.18 | 2,411 | 3,993 |
+| 2023-07-04 | 4.18 | 2,411 | 3,995 |

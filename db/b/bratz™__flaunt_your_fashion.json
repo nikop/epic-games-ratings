@@ -205,9 +205,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "3",
@@ -261,9 +261,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -278,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:04:15.9159858+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:03:59.7764509+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.9962354+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:59:30.583819+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:04:15.9160027+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:59:07.9045452+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:03:59.7764669+00:00"
 }

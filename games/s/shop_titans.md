@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~127,927 |
-| Titan's First Steps | 96.00% | ~126,609 |
-| Basic in Bulk | 91.00% | ~120,014 |
-| Tinkle of Coins | 86.00% | ~113,420 |
-| Disintermediation | 75.00% | ~98,913 |
-| Capitalism Ho! | 74.00% | ~97,594 |
-| It's Free Real Estate | 70.00% | ~92,319 |
-| Budding Merchant | 66.00% | ~87,043 |
-| Another Satisfied Customer | 61.00% | ~80,449 |
-| One Easy Payment | 60.00% | ~79,130 |
-| Own the Means of Production | 60.00% | ~79,130 |
-| Some Assembly Required | 58.00% | ~76,493 |
-| Pretty Penny | 57.00% | ~75,174 |
-| One-Armed Bandit | 49.00% | ~64,623 |
-| Through Repetition, Perfection | 46.00% | ~60,667 |
-| The Daily Grind | 45.00% | ~59,348 |
-| Bounty Hunters | 44.00% | ~58,029 |
-| Where it Hurts | 43.00% | ~56,710 |
-| Dungeon Imports | 42.00% | ~55,391 |
-| Flooding the Market | 41.00% | ~54,072 |
-| Demand for Supplies | 38.00% | ~50,116 |
-| Gild-Gotten Goods | 37.00% | ~48,797 |
-| Did we pack lunch? | 35.00% | ~46,159 |
+| Sponsored by Argon | 97.00% | ~127,929 |
+| Titan's First Steps | 96.00% | ~126,611 |
+| Basic in Bulk | 91.00% | ~120,016 |
+| Tinkle of Coins | 86.00% | ~113,422 |
+| Disintermediation | 75.00% | ~98,914 |
+| Capitalism Ho! | 74.00% | ~97,596 |
+| It's Free Real Estate | 70.00% | ~92,320 |
+| Budding Merchant | 66.00% | ~87,045 |
+| Another Satisfied Customer | 61.00% | ~80,450 |
+| One Easy Payment | 60.00% | ~79,132 |
+| Own the Means of Production | 60.00% | ~79,132 |
+| Some Assembly Required | 58.00% | ~76,494 |
+| Pretty Penny | 57.00% | ~75,175 |
+| One-Armed Bandit | 49.00% | ~64,624 |
+| Through Repetition, Perfection | 46.00% | ~60,668 |
+| The Daily Grind | 45.00% | ~59,349 |
+| Bounty Hunters | 44.00% | ~58,030 |
+| Where it Hurts | 43.00% | ~56,711 |
+| Dungeon Imports | 42.00% | ~55,392 |
+| Flooding the Market | 41.00% | ~54,073 |
+| Demand for Supplies | 38.00% | ~50,117 |
+| Gild-Gotten Goods | 37.00% | ~48,798 |
+| Did we pack lunch? | 35.00% | ~46,160 |
 | Arcane Industries | 34.00% | ~44,841 |
-| Accomplished Merchant | 31.00% | ~40,884 |
+| Accomplished Merchant | 31.00% | ~40,885 |
 | On the Path to Greatness | 28.00% | ~36,928 |
 | Ascended | 28.00% | ~36,928 |
 | Gem Expert | 28.00% | ~36,928 |
@@ -38,18 +38,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 27.00% | ~35,609 |
 | Efficient Floor Space | 27.00% | ~35,609 |
 | Vanity, Verily | 26.00% | ~34,290 |
-| Research & Development | 25.00% | ~32,971 |
-| Power of Love | 24.00% | ~31,652 |
-| Flawless Fusion | 24.00% | ~31,652 |
-| Natural 20 | 23.00% | ~30,333 |
+| Research & Development | 25.00% | ~32,972 |
+| Power of Love | 24.00% | ~31,653 |
+| Flawless Fusion | 24.00% | ~31,653 |
+| Natural 20 | 23.00% | ~30,334 |
 | Fated Encounters | 21.00% | ~27,696 |
 | Royal Ransom | 21.00% | ~27,696 |
 | Magical Harmony | 21.00% | ~27,696 |
 | Tax not Included | 20.00% | ~26,377 |
 | Trash to Treasure | 19.00% | ~25,058 |
 | For the Hoard! | 18.00% | ~23,739 |
-| Special Ingredient | 17.00% | ~22,420 |
-| Scrapbooker | 16.00% | ~21,101 |
+| Special Ingredient | 17.00% | ~22,421 |
+| Scrapbooker | 16.00% | ~21,102 |
 | A Notch Above the Rest | 15.00% | ~19,783 |
 | This Power Level...! | 15.00% | ~19,783 |
 | Expansion in Session | 15.00% | ~19,783 |
@@ -69,7 +69,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 11.00% | ~14,507 |
 | By Your Powers Combined... | 11.00% | ~14,507 |
 | Exotic Commodities | 11.00% | ~14,507 |
-| Master Recycler | 10.00% | ~13,188 |
+| Master Recycler | 10.00% | ~13,189 |
 | Supercharged | 9.00% | ~11,870 |
 | Ritualist | 9.00% | ~11,870 |
 | Master Merchant | 9.00% | ~11,870 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~659 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131,884 (Ranked 59)  
+Progressed: 131,886 (Ranked 59)  
 Completed: 113 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 113 (0.09%) (Ranked 184)
 | 2023-07-01 | 131,759 | 113 |
 | 2023-07-02 | 131,824 | 113 |
 | 2023-07-03 | 131,878 | 113 |
-| 2023-07-04 | 131,884 | 113 |
+| 2023-07-04 | 131,886 | 113 |
 ## Awards
 Max (Great for Beginners): 4,645  (Ranked 68)  
 Sum: 26,857 (Ranked 46)  

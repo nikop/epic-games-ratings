@@ -7,7 +7,7 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 35.00% | ~450 |
-| Me and My Familiar | 34.00% | ~437 |
+| Me and My Familiar | 34.00% | ~438 |
 | This Too Shall Pass | 28.00% | ~360 |
 | Passing Shadow | 27.00% | ~347 |
 | Cutthroat Competitors | 27.00% | ~347 |
@@ -28,12 +28,12 @@ Number of Ratings: 45  (23.09.2022)
 | Let Me Get My Chisel | 6.00% | ~77 |
 | Plague Doctor | 6.00% | ~77 |
 | Another Tale to Tell | 6.00% | ~77 |
+| Legends Never Die | 5.00% | ~64 |
 | In Soil, In Smoke | 5.00% | ~64 |
 | Wingknight's Prowess | 5.00% | ~64 |
 | All My Birds, Safely Home | 5.00% | ~64 |
 | Turncoat | 5.00% | ~64 |
 | Worldwalker | 4.00% | ~51 |
-| Legends Never Die | 4.00% | ~51 |
 | A Hunger, Sated | 4.00% | ~51 |
 | Grillmaster | 4.00% | ~51 |
 | No Time for Clawmonsters | 4.00% | ~51 |
@@ -41,6 +41,7 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 3.00% | ~39 |
 | No More Nightmares | 3.00% | ~39 |
 | Bears are Scary | 3.00% | ~39 |
+| Some Say I'm Too Flashy | 3.00% | ~39 |
 | Into Mulch | 3.00% | ~39 |
 | Astrology | 3.00% | ~39 |
 | Lochias's Hunger | 3.00% | ~39 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | War-Ender | 2.00% | ~26 |
 | Fight Like a Bird | 2.00% | ~26 |
 | Solid as the Hills | 2.00% | ~26 |
-| Some Say I'm Too Flashy | 2.00% | ~26 |
 | Symbiosis | 2.00% | ~26 |
 | Tempest | 2.00% | ~26 |
 | A Lowly Crust of Beef | 1.00% | ~13 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.60% | ~8 |
 | We Call That Mortificient! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,286 (Ranked 174)  
+Progressed: 1,287 (Ranked 174)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-07-01 | 1,281 | 4 |
 | 2023-07-02 | 1,284 | 4 |
 | 2023-07-03 | 1,286 | 4 |
+| 2023-07-04 | 1,287 | 4 |
 ## Awards
 Max (Character Customization): 27  (Ranked 463)  
 Sum: 27 (Ranked 474)  

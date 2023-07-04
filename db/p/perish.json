@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3133,
+  "EOS_Progressed": 3134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1788,6 +1788,11 @@
       "Time": "2023-07-04T02:29:12.7769729+00:00",
       "NumProgressed": 3133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T05:04:19.6473402+00:00",
+      "NumProgressed": 3134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -1813,9 +1818,9 @@
       "ID": "ACH_B_FS",
       "SetID": "b3fep3o",
       "Name": "Wayward Son of Hephaestus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_B_K",
@@ -2021,9 +2026,9 @@
       "ID": "ACH_OB_BR",
       "SetID": "b3fep3o",
       "Name": "First Fragment",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_OB_CA",
@@ -2213,9 +2218,9 @@
       "ID": "ACH_TF",
       "SetID": "b3fep3o",
       "Name": "Baby Crabs They Ain\u0027t",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_TOTN",
@@ -2302,7 +2307,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3133,
+      "Progressed": 3134,
       "Completed": 0
     }
   ],
@@ -2310,8 +2315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:04:40.6373951+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:04:19.6473396+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-04T04:00:13.7863376+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:04:40.6374658+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:59:42.6694029+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:04:19.6474151+00:00"
 }

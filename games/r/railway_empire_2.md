@@ -45,7 +45,7 @@ Rating: 4.41 (Ranked 671)
 | Resistance is futile | 15.00% | ~219 |
 | Max Power | 13.00% | ~190 |
 | Settler | 13.00% | ~190 |
-| Go West | 11.00% | ~160 |
+| Go West | 12.00% | ~175 |
 | Bold and beautiful | 11.00% | ~160 |
 | A new Hope | 9.00% | ~131 |
 | Tycoon | 9.00% | ~131 |

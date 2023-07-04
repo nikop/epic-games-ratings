@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2530,
+  "EOS_Progressed": 2531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2023-07-04T04:06:33.5485644+00:00",
       "NumProgressed": 2530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T05:06:03.2429289+00:00",
+      "NumProgressed": 2531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1631,9 +1636,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "816efe",
       "Name": "One For Every Occasion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -1649,7 +1654,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1657,7 +1662,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1713,7 +1718,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1721,7 +1726,7 @@
       "Name": "Regicide",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -1737,7 +1742,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1841,7 +1846,7 @@
       "Name": "Where It All Begun",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1895,9 +1900,9 @@
       "ID": "ACH_MISSION_12",
       "SetID": "816efe",
       "Name": "Abysmal Horrors",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -1927,9 +1932,9 @@
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1953,7 +1958,7 @@
       "Name": "Recouped Investment",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -1961,7 +1966,7 @@
       "Name": "The More The Merrier",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -1969,14 +1974,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2530,
+      "Progressed": 2531,
       "Completed": 0
     }
   ],
@@ -1984,8 +1989,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:06:33.5485632+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:06:03.2429282+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:59:52.0675497+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:06:33.5486106+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:59:24.4588932+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:06:03.2429817+00:00"
 }

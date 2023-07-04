@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~20,234 |
-| Wallbanger | 5.00% | ~20,234 |
-| Exploitative | 4.00% | ~16,187 |
-| High Speed Low Drag | 4.00% | ~16,187 |
-| Wet Feet | 4.00% | ~16,187 |
-| Checkpoint Victory | 3.00% | ~12,140 |
-| Lucky | 3.00% | ~12,140 |
-| Stylin' | 3.00% | ~12,140 |
-| Turf War | 3.00% | ~12,140 |
-| Banged | 2.00% | ~8,093 |
-| First Blood | 2.00% | ~8,093 |
-| Flaccid Paralysis | 2.00% | ~8,093 |
-| Push Victory | 2.00% | ~8,093 |
-| Self-destructive | 2.00% | ~8,093 |
+| Point Shooting | 5.00% | ~20,236 |
+| Wallbanger | 5.00% | ~20,236 |
+| Exploitative | 4.00% | ~16,189 |
+| High Speed Low Drag | 4.00% | ~16,189 |
+| Wet Feet | 4.00% | ~16,189 |
+| Checkpoint Victory | 3.00% | ~12,141 |
+| Lucky | 3.00% | ~12,141 |
+| Stylin' | 3.00% | ~12,141 |
+| Turf War | 3.00% | ~12,141 |
+| Banged | 2.00% | ~8,094 |
+| First Blood | 2.00% | ~8,094 |
+| Flaccid Paralysis | 2.00% | ~8,094 |
+| Push Victory | 2.00% | ~8,094 |
+| Self-destructive | 2.00% | ~8,094 |
 | Blindfire | 1.00% | ~4,047 |
 | Ruthless | 1.00% | ~4,047 |
 | Semper Paratus | 1.00% | ~4,047 |
@@ -27,12 +27,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~3,642 |
 | Mount & Gun | 0.90% | ~3,642 |
 | Personal | 0.90% | ~3,642 |
-| Grounded | 0.80% | ~3,237 |
-| Play to Win | 0.80% | ~3,237 |
+| Grounded | 0.80% | ~3,238 |
+| Play to Win | 0.80% | ~3,238 |
 | #1 | 0.70% | ~2,833 |
 | Special Delivery | 0.70% | ~2,833 |
 | Firefight Victory | 0.60% | ~2,428 |
-| Cinematic | 0.50% | ~2,023 |
+| Cinematic | 0.50% | ~2,024 |
 | Thanks Station! | 0.40% | ~1,619 |
 | Knock Knock | 0.30% | ~1,214 |
 | There For You | 0.30% | ~1,214 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~405 |
 | Road Hazard | 0.10% | ~405 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,674 (Ranked 39)  
+Progressed: 404,714 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-07-01 | 402,219 | 2 |
 | 2023-07-02 | 403,410 | 2 |
 | 2023-07-03 | 404,442 | 2 |
-| 2023-07-04 | 404,674 | 2 |
+| 2023-07-04 | 404,714 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 362  (Ranked 217)  
 Sum: 2,761 (Ranked 167)  

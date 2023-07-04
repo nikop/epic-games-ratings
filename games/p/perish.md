@@ -22,24 +22,23 @@
 | War Chest | 3.00% | ~94 |
 | Chthonic Investor | 3.00% | ~94 |
 | Symbols of Heresy | 3.00% | ~94 |
+| First Fragment | 3.00% | ~94 |
 | Sisters of the Pantheon | 3.00% | ~94 |
 | Siege Unit | 3.00% | ~94 |
 | Divine Assemblage | 3.00% | ~94 |
 | Ophiolatreia | 3.00% | ~94 |
 | Comedy and Tragedy | 2.00% | ~63 |
-| Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
-| First Fragment | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
 | Labour of Apollo | 2.00% | ~63 |
 | Vandili | 2.00% | ~63 |
 | Cloaca Maxima | 2.00% | ~63 |
-| Baby Crabs They Ain't | 2.00% | ~63 |
 | Halls of Marble | 2.00% | ~63 |
 | Mors Omnibus | 2.00% | ~63 |
 | Blot Out the Sky | 2.00% | ~63 |
 | Serpentine | 2.00% | ~63 |
 | The Nameless One | 1.00% | ~31 |
+| Wayward Son of Hephaestus | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
 | Rock and a Hard Place | 1.00% | ~31 |
@@ -52,6 +51,7 @@
 | The Archimedes Principle | 1.00% | ~31 |
 | Rites at Sea | 1.00% | ~31 |
 | Close Shut the Doors | 1.00% | ~31 |
+| Baby Crabs They Ain't | 1.00% | ~31 |
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,133 (Ranked 146)  
+Progressed: 3,134 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 3,093 | 0 |
 | 2023-07-02 | 3,118 | 0 |
 | 2023-07-03 | 3,130 | 0 |
-| 2023-07-04 | 3,133 | 0 |
+| 2023-07-04 | 3,134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,7 +26,7 @@ Rating: 4.33 (Ranked 755)
 | Arrow in the Wind | 2.00% | ~21 |
 | Life or Death | 1.00% | ~10 |
 | First Bloom | 1.00% | ~10 |
-| Someone to Protect | 0.70% | ~7 |
+| Someone to Protect | 0.80% | ~8 |
 | Lean on Me | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,034 (Ranked 184)  

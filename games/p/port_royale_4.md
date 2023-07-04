@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~571 |
-| My little farm | 65.00% | ~458 |
-| Every beginning is difficult | 62.00% | ~437 |
+| Cabin boy | 81.00% | ~572 |
+| My little farm | 65.00% | ~459 |
+| Every beginning is difficult | 62.00% | ~438 |
 | 3, 2, 1, mine | 56.00% | ~395 |
 | Gofer | 55.00% | ~388 |
 | Seafarer | 54.00% | ~381 |
-| O Captain! My Captain! | 53.00% | ~374 |
-| Greed for gold | 43.00% | ~303 |
+| O Captain! My Captain! | 54.00% | ~381 |
+| Greed for gold | 43.00% | ~304 |
 | Intangible | 41.00% | ~289 |
 | I'm out of here for a while | 41.00% | ~289 |
 | In a mint condition | 38.00% | ~268 |
 | Licence to Kill | 36.00% | ~254 |
 | Pirates! | 35.00% | ~247 |
-| Collectionitis | 28.00% | ~197 |
-| Megalomania | 28.00% | ~197 |
-| Christening | 27.00% | ~190 |
+| Collectionitis | 28.00% | ~198 |
+| Megalomania | 28.00% | ~198 |
+| Christening | 27.00% | ~191 |
 | Groundskeeper | 25.00% | ~176 |
 | Wholesale | 22.00% | ~155 |
 | Walk the plank | 21.00% | ~148 |
-| Pearly gates | 17.00% | ~120 |
+| Pearly gates | 18.00% | ~127 |
 | My precious! | 17.00% | ~120 |
-| Conquistador | 13.00% | ~92 |
+| Conquistador | 14.00% | ~99 |
 | Panic buying | 11.00% | ~78 |
-| Just a scratch | 9.00% | ~63 |
-| Your vessel, my vessel | 9.00% | ~63 |
+| Just a scratch | 9.00% | ~64 |
+| Your vessel, my vessel | 9.00% | ~64 |
 | All mine! | 8.00% | ~56 |
 | Paths of Glory | 8.00% | ~56 |
 | Panel of experts | 8.00% | ~56 |
@@ -51,13 +51,13 @@ Number of Ratings: 53  (23.09.2022)
 | Fill it up, please! | 2.00% | ~14 |
 | Raiders of the Lost Ark | 1.00% | ~7 |
 | Traffic chaos | 1.00% | ~7 |
-| Capitalist | 0.90% | ~6 |
-| Administrator | 0.90% | ~6 |
-| Parlay? | 0.90% | ~6 |
+| Capitalist | 0.80% | ~6 |
+| Administrator | 0.80% | ~6 |
+| Parlay? | 0.80% | ~6 |
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 198)  
+Progressed: 706 (Ranked 198)  
 Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-07-01 | 699 | 1 |
 | 2023-07-02 | 704 | 1 |
 | 2023-07-03 | 705 | 1 |
+| 2023-07-04 | 706 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

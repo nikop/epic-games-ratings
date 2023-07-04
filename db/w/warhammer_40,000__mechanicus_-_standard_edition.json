@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 652,
   "Ranking_Popularity": 237,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 70,
@@ -519,9 +519,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216213,
+  "EOS_Progressed": 216216,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8394,6 +8394,11 @@
       "Time": "2023-07-04T04:04:52.6888683+00:00",
       "NumProgressed": 216213,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T05:04:29.3739764+00:00",
+      "NumProgressed": 216216,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -8405,7 +8410,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41080
+      "UsersEstimate": 41081
     },
     {
       "ID": "ACH_BASE_10",
@@ -8413,7 +8418,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54053
+      "UsersEstimate": 54054
     },
     {
       "ID": "ACH_BASE_11",
@@ -8676,7 +8681,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216213,
+      "Progressed": 216216,
       "Completed": 4
     }
   ],
@@ -8684,8 +8689,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-03T07:58:45.3710308+00:00",
-  "LastChanged_Achievements": "2023-07-04T04:04:52.688868+00:00",
+  "LastChanged_Achievements": "2023-07-04T05:04:29.3739757+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:10.6599938+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:58:54.4972532+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:04:52.6889385+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:58:36.5844454+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:04:29.3740519+00:00"
 }

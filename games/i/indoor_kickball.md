@@ -16,7 +16,7 @@
 | Stay Hydrated | 64.00% | ~43 |
 | True Story! | 37.00% | ~25 |
 | Bedroom Secret Spot | 34.00% | ~23 |
-| Kick It | 31.00% | ~21 |
+| Kick It | 33.00% | ~22 |
 | Grand Slam! | 27.00% | ~18 |
 | Have Mercy | 27.00% | ~18 |
 | Save some water for the fishies | 22.00% | ~15 |

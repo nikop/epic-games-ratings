@@ -4,7 +4,7 @@
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 411,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 198,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 317,
@@ -1708,6 +1708,6 @@
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
   "LastChanged": "2023-07-03T09:01:11.3359068+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.6465896+00:00",
-  "LastUpdate_Ratings": "2023-07-04T04:00:56.9786517+00:00",
-  "LastUpdate_Achievements": "2023-07-04T04:06:12.9259591+00:00"
+  "LastUpdate_Ratings": "2023-07-04T05:00:15.8357406+00:00",
+  "LastUpdate_Achievements": "2023-07-04T05:05:46.4104543+00:00"
 }
