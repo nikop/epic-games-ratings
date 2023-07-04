@@ -4,7 +4,7 @@
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 128,
@@ -2614,7 +2614,7 @@
   ],
   "EOS_Progressed": 49810,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -8894,8 +8894,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-02T16:00:28.4421144+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:02:18.1793555+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:25:40.3133527+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-04T00:00:29.1739594+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:02:18.1794116+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:25:20.3289612+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:25:40.3134286+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1163,9 +1163,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122664,
+  "EOS_Progressed": 122667,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8358,6 +8358,11 @@
       "Time": "2023-07-03T23:06:05.0382049+00:00",
       "NumProgressed": 122664,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-04T02:30:55.6966939+00:00",
+      "NumProgressed": 122667,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8425,7 +8430,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29439
+      "UsersEstimate": 29440
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8449,7 +8454,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 34346
+      "UsersEstimate": 34347
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -8473,7 +8478,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19626
+      "UsersEstimate": 19627
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -8497,7 +8502,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "ACH_COP_STAR",
@@ -8649,7 +8654,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15946
+      "UsersEstimate": 15947
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -8688,15 +8693,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122664,
+      "Progressed": 122667,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-02T13:59:10.1484501+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:06:14.9310842+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:30:55.6966934+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:59:03.1117555+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:06:14.9311608+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:24:04.7461444+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:30:55.6967724+00:00"
 }

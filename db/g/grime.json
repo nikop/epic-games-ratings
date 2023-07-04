@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -650,6 +650,11 @@
       "Time": "2023-07-03T19:02:11.5561402+00:00",
       "NumProgressed": 616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T02:25:22.7778682+00:00",
+      "NumProgressed": 617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -821,7 +826,7 @@
       "Name": "Celebration",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -829,7 +834,7 @@
       "Name": "Inevitable",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -845,7 +850,7 @@
       "Name": "Watcher",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -853,7 +858,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -885,7 +890,7 @@
       "Name": "Predator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -996,21 +1001,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 199,
+      "Progressed": 200,
       "Completed": 22
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:00:29.7521292+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:25:22.7778677+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-04T00:00:16.2017029+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:00:29.7521823+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:25:08.0865147+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:25:22.7779102+00:00"
 }

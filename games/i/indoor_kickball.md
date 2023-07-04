@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 84.00% | ~56 |
-| Accessory Unlocked | 84.00% | ~56 |
-| Character Unlocked | 82.00% | ~55 |
+| Hat Unlocked | 85.00% | ~57 |
+| Accessory Unlocked | 85.00% | ~57 |
+| Character Unlocked | 84.00% | ~56 |
 | Homer | 70.00% | ~47 |
-| Have a good trip! | 69.00% | ~46 |
+| Have a good trip! | 70.00% | ~47 |
+| Kickball Unlocked | 67.00% | ~45 |
 | Settle Down | 67.00% | ~45 |
+| Butter Fingers | 67.00% | ~45 |
 | First Win | 66.00% | ~44 |
-| Kickball Unlocked | 66.00% | ~44 |
-| Butter Fingers | 66.00% | ~44 |
 | Stay Hydrated | 64.00% | ~43 |
 | True Story! | 37.00% | ~25 |
 | Bedroom Secret Spot | 34.00% | ~23 |
 | Kick It | 31.00% | ~21 |
 | Grand Slam! | 27.00% | ~18 |
-| Have Mercy | 25.00% | ~17 |
+| Have Mercy | 27.00% | ~18 |
 | Save some water for the fishies | 22.00% | ~15 |
+| Spooky | 22.00% | ~15 |
 | Classroom Secret Spot | 21.00% | ~14 |
-| Spooky | 21.00% | ~14 |
 | Bathroom Secret Spot | 21.00% | ~14 |
 | At least everyone still had fun | 19.00% | ~13 |
+| Angry Dad | 16.00% | ~11 |
 | Living Room Secret Spot | 15.00% | ~10 |
-| Angry Dad | 15.00% | ~10 |
 | Hi Hungry, I'm Dad | 10.00% | ~7 |
 | Interference | 10.00% | ~7 |
 | Angry Mom | 9.00% | ~6 |

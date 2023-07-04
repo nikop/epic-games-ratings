@@ -6,66 +6,66 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Healthy Obsession | 6.00% | ~38,144 |
-| Resurgence | 6.00% | ~38,144 |
-| Close Shave | 5.00% | ~31,787 |
-| Preemptive Strike | 5.00% | ~31,787 |
-| Humanitarian | 5.00% | ~31,787 |
-| Wounded Healer | 4.00% | ~25,429 |
-| Unforgettable Getaway | 3.00% | ~19,072 |
-| First to the Punch | 3.00% | ~19,072 |
-| Operation: Survival | 3.00% | ~19,072 |
-| Old West Oasis | 3.00% | ~19,072 |
-| Classy Act | 3.00% | ~19,072 |
-| Every Last Drop | 3.00% | ~19,072 |
-| Raccoon City Recruit | 3.00% | ~19,072 |
-| With Scars to Show | 3.00% | ~19,072 |
-| Flight to Freedom | 3.00% | ~19,072 |
-| A Fast Death | 3.00% | ~19,072 |
-| Chorus of Chaos | 3.00% | ~19,072 |
-| Ancestor's Rite | 2.00% | ~12,715 |
-| Devoted Gatekeeping | 2.00% | ~12,715 |
-| Shrine Apparatus | 2.00% | ~12,715 |
-| Cutting Out | 2.00% | ~12,715 |
-| Outrun Evil | 2.00% | ~12,715 |
-| Broken Bodies | 2.00% | ~12,715 |
-| Grim Pilgrimage | 2.00% | ~12,715 |
-| Selfless Survival | 2.00% | ~12,715 |
-| End of Days | 2.00% | ~12,715 |
-| Insult and Injury | 2.00% | ~12,715 |
-| Outrun the Overlap | 2.00% | ~12,715 |
-| Lifting The Fog | 2.00% | ~12,715 |
-| Heavy Burden | 1.00% | ~6,357 |
-| I See You | 1.00% | ~6,357 |
-| Power Moves | 1.00% | ~6,357 |
-| Punch Drunk | 1.00% | ~6,357 |
-| Prowler | 1.00% | ~6,357 |
-| Triage | 1.00% | ~6,357 |
-| High Speed Pursuit | 1.00% | ~6,357 |
-| Rebuilding The Borgo | 1.00% | ~6,357 |
-| Hack the Mainframe | 1.00% | ~6,357 |
-| Death of Ignorance | 0.80% | ~5,086 |
-| Deranged Pursuit | 0.60% | ~3,814 |
-| Denied! | 0.60% | ~3,814 |
-| Dismantle | 0.50% | ~3,179 |
-| Left For Dead | 0.50% | ~3,179 |
-| Bodyguard | 0.50% | ~3,179 |
-| Speed Kills | 0.50% | ~3,179 |
-| Rescue Mission | 0.50% | ~3,179 |
-| One Thousand Cuts | 0.50% | ~3,179 |
-| Ghost in the Machine | 0.50% | ~3,179 |
-| From the Deep | 0.50% | ~3,179 |
-| Silent Approach | 0.40% | ~2,543 |
-| Multi-tasker | 0.40% | ~2,543 |
-| Conniption | 0.30% | ~1,907 |
-| Bound and Downed | 0.30% | ~1,907 |
-| Tear Their Soul Apart | 0.30% | ~1,907 |
-| Viral Video | 0.30% | ~1,907 |
-| Terminal Illness | 0.20% | ~1,271 |
-| Totally Vulnerable | 0.20% | ~1,271 |
-| Bloodbath | 0.20% | ~1,271 |
-| Biological Weaponry | 0.20% | ~1,271 |
-| Fleet of Foot | 0.20% | ~1,271 |
+| Healthy Obsession | 6.00% | ~38,163 |
+| Resurgence | 6.00% | ~38,163 |
+| Close Shave | 5.00% | ~31,802 |
+| Preemptive Strike | 5.00% | ~31,802 |
+| Humanitarian | 5.00% | ~31,802 |
+| Wounded Healer | 4.00% | ~25,442 |
+| Unforgettable Getaway | 3.00% | ~19,081 |
+| First to the Punch | 3.00% | ~19,081 |
+| Operation: Survival | 3.00% | ~19,081 |
+| Old West Oasis | 3.00% | ~19,081 |
+| Classy Act | 3.00% | ~19,081 |
+| Every Last Drop | 3.00% | ~19,081 |
+| Raccoon City Recruit | 3.00% | ~19,081 |
+| With Scars to Show | 3.00% | ~19,081 |
+| Flight to Freedom | 3.00% | ~19,081 |
+| A Fast Death | 3.00% | ~19,081 |
+| Chorus of Chaos | 3.00% | ~19,081 |
+| Ancestor's Rite | 2.00% | ~12,721 |
+| Devoted Gatekeeping | 2.00% | ~12,721 |
+| Shrine Apparatus | 2.00% | ~12,721 |
+| Cutting Out | 2.00% | ~12,721 |
+| Outrun Evil | 2.00% | ~12,721 |
+| Broken Bodies | 2.00% | ~12,721 |
+| Grim Pilgrimage | 2.00% | ~12,721 |
+| Selfless Survival | 2.00% | ~12,721 |
+| End of Days | 2.00% | ~12,721 |
+| Insult and Injury | 2.00% | ~12,721 |
+| Outrun the Overlap | 2.00% | ~12,721 |
+| Lifting The Fog | 2.00% | ~12,721 |
+| Heavy Burden | 1.00% | ~6,360 |
+| I See You | 1.00% | ~6,360 |
+| Power Moves | 1.00% | ~6,360 |
+| Punch Drunk | 1.00% | ~6,360 |
+| Prowler | 1.00% | ~6,360 |
+| Triage | 1.00% | ~6,360 |
+| High Speed Pursuit | 1.00% | ~6,360 |
+| Rebuilding The Borgo | 1.00% | ~6,360 |
+| Hack the Mainframe | 1.00% | ~6,360 |
+| Death of Ignorance | 0.90% | ~5,724 |
+| Deranged Pursuit | 0.60% | ~3,816 |
+| Denied! | 0.60% | ~3,816 |
+| Dismantle | 0.50% | ~3,180 |
+| Left For Dead | 0.50% | ~3,180 |
+| Bodyguard | 0.50% | ~3,180 |
+| Speed Kills | 0.50% | ~3,180 |
+| Rescue Mission | 0.50% | ~3,180 |
+| One Thousand Cuts | 0.50% | ~3,180 |
+| Ghost in the Machine | 0.50% | ~3,180 |
+| From the Deep | 0.50% | ~3,180 |
+| Silent Approach | 0.40% | ~2,544 |
+| Multi-tasker | 0.40% | ~2,544 |
+| Conniption | 0.30% | ~1,908 |
+| Bound and Downed | 0.30% | ~1,908 |
+| Tear Their Soul Apart | 0.30% | ~1,908 |
+| Viral Video | 0.30% | ~1,908 |
+| Terminal Illness | 0.20% | ~1,272 |
+| Totally Vulnerable | 0.20% | ~1,272 |
+| Bloodbath | 0.20% | ~1,272 |
+| Biological Weaponry | 0.20% | ~1,272 |
+| Fleet of Foot | 0.20% | ~1,272 |
 | The Grand Sacrifice | 0.10% | ~636 |
 | A bite for the Entity | 0.10% | ~636 |
 | A feast for the Entity | 0.10% | ~636 |
@@ -227,7 +227,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.10% | ~636 |
 | Adept Gabriel | 0.10% | ~636 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 635,737 (Ranked 23)  
+Progressed: 636,049 (Ranked 23)  
 Completed: 42 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,22 +302,22 @@ Completed: 42 (0.01%) (Ranked 220)
 | 2023-07-01 | 627,637 | 42 |
 | 2023-07-02 | 631,878 | 42 |
 | 2023-07-03 | 635,594 | 42 |
-| 2023-07-04 | 635,737 | 42 |
+| 2023-07-04 | 636,049 | 42 |
 ## Awards
 Max (Diverse Characters): 29,482  (Ranked 15)  
-Sum: 234,021 (Ranked 12)  
+Sum: 234,086 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 29,482 |
-| This game has Competitive Players | 26,854 |
+| This game has Competitive Players | 26,884 |
 | This game is Highly Recommended | 26,647 |
 | This game has Amazing Characters | 26,437 |
 | This game is Extremely Fun | 26,394 |
 | This game has Quickly Understood Controls | 26,147 |
 | This game has Challenging Combat | 25,619 |
 | This game has Amazing Storytelling | 24,119 |
-| This game has a Competitive Community | 22,322 |
+| This game has a Competitive Community | 22,357 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -484,3 +484,4 @@ Diff (max vs sum): 3
 | 2023-07-01 | 4.52 | - | 29,378 | 233,397 |
 | 2023-07-02 | 4.52 | - | 29,441 | 233,688 |
 | 2023-07-03 | 4.52 | - | 29,482 | 234,021 |
+| 2023-07-04 | 4.52 | - | 29,482 | 234,086 |

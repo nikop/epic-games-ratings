@@ -6,44 +6,44 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,156 |
-| Cavalier | 25.00% | ~197,706 |
-| Fatso | 23.00% | ~181,890 |
-| Awakening | 20.00% | ~158,165 |
-| Ranger | 20.00% | ~158,165 |
-| Scrooge | 20.00% | ~158,165 |
-| Anorectic | 16.00% | ~126,532 |
-| Firestarter | 15.00% | ~118,624 |
-| Bookworm | 14.00% | ~110,716 |
-| Insomniac | 13.00% | ~102,807 |
-| Buddy | 12.00% | ~94,899 |
-| Thief | 12.00% | ~94,899 |
-| Sinner | 11.00% | ~86,991 |
-| Convict | 10.00% | ~79,082 |
-| Traveller | 10.00% | ~79,082 |
-| Haggler | 9.00% | ~71,174 |
-| McLovin | 7.00% | ~55,358 |
-| Runt | 7.00% | ~55,358 |
+| Blacksmith's Son | 31.00% | ~245,160 |
+| Cavalier | 25.00% | ~197,710 |
+| Fatso | 23.00% | ~181,893 |
+| Awakening | 20.00% | ~158,168 |
+| Ranger | 20.00% | ~158,168 |
+| Scrooge | 20.00% | ~158,168 |
+| Anorectic | 16.00% | ~126,534 |
+| Firestarter | 15.00% | ~118,626 |
+| Bookworm | 14.00% | ~110,718 |
+| Insomniac | 13.00% | ~102,809 |
+| Buddy | 12.00% | ~94,901 |
+| Thief | 12.00% | ~94,901 |
+| Sinner | 11.00% | ~86,992 |
+| Convict | 10.00% | ~79,084 |
+| Traveller | 10.00% | ~79,084 |
+| Haggler | 9.00% | ~71,176 |
+| McLovin | 7.00% | ~55,359 |
+| Runt | 7.00% | ~55,359 |
 | Casanova | 6.00% | ~47,450 |
-| Bad Trip | 5.00% | ~39,541 |
-| Monk | 5.00% | ~39,541 |
-| Serial Killer | 5.00% | ~39,541 |
-| Bastard | 4.00% | ~31,633 |
-| Hunter | 4.00% | ~31,633 |
-| Plague Doctor | 4.00% | ~31,633 |
+| Bad Trip | 5.00% | ~39,542 |
+| Monk | 5.00% | ~39,542 |
+| Serial Killer | 5.00% | ~39,542 |
+| Bastard | 4.00% | ~31,634 |
+| Hunter | 4.00% | ~31,634 |
+| Plague Doctor | 4.00% | ~31,634 |
 | Bard | 3.00% | ~23,725 |
 | Conqueror | 3.00% | ~23,725 |
 | Ginger in a Pickle | 3.00% | ~23,725 |
 | Kingdom did not come | 3.00% | ~23,725 |
-| Completionist | 2.00% | ~15,816 |
-| Death by splinter | 2.00% | ~15,816 |
-| King Charming | 2.00% | ~15,816 |
-| Knightrider | 2.00% | ~15,816 |
-| Level Cap | 2.00% | ~15,816 |
-| Arena Master | 2.00% | ~15,816 |
-| Robber Baron | 2.00% | ~15,816 |
-| Talmberger | 2.00% | ~15,816 |
-| The End | 2.00% | ~15,816 |
+| Completionist | 2.00% | ~15,817 |
+| Death by splinter | 2.00% | ~15,817 |
+| King Charming | 2.00% | ~15,817 |
+| Knightrider | 2.00% | ~15,817 |
+| Level Cap | 2.00% | ~15,817 |
+| Arena Master | 2.00% | ~15,817 |
+| Robber Baron | 2.00% | ~15,817 |
+| Talmberger | 2.00% | ~15,817 |
+| The End | 2.00% | ~15,817 |
 | Woman's Lot | 1.00% | ~7,908 |
 | Chivalrous Soul | 1.00% | ~7,908 |
 | Spoilsport | 1.00% | ~7,908 |
@@ -51,7 +51,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,908 |
 | Master Huntsman | 1.00% | ~7,908 |
 | Stealth Killer | 1.00% | ~7,908 |
-| Bailiff | 0.90% | ~7,117 |
+| Bailiff | 0.90% | ~7,118 |
 | Tracker | 0.80% | ~6,327 |
 | David Horak | 0.70% | ~5,536 |
 | Mercenary's Honour | 0.70% | ~5,536 |
@@ -60,8 +60,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Fighter | 0.60% | ~4,745 |
 | I Can Quit Anytime | 0.50% | ~3,954 |
 | Perfectionist | 0.40% | ~3,163 |
-| Alcoholic | 0.30% | ~2,372 |
-| Sniper | 0.30% | ~2,372 |
+| Alcoholic | 0.30% | ~2,373 |
+| Sniper | 0.30% | ~2,373 |
 | Angel of Mercy | 0.20% | ~1,582 |
 | Christian Burial | 0.20% | ~1,582 |
 | Friends without benefits | 0.20% | ~1,582 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~791 |
 | Wingman | 0.10% | ~791 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790,825 (Ranked 15)  
+Progressed: 790,840 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,10 +164,10 @@ Completed: 43 (0.01%) (Ranked 220)
 | 2023-07-01 | 790,480 | 43 |
 | 2023-07-02 | 790,688 | 43 |
 | 2023-07-03 | 790,821 | 43 |
-| 2023-07-04 | 790,825 | 43 |
+| 2023-07-04 | 790,840 | 43 |
 ## Awards
 Max (Character Customization): 7,290  (Ranked 46)  
-Sum: 27,206 (Ranked 43)  
+Sum: 27,208 (Ranked 43)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): 3
 | This game has Amazing Characters | 1,618 |
 | This game has Realistic Visuals | 1,604 |
 | This game is Educational | 1,557 |
-| This game is Relaxing | 1,493 |
+| This game is Relaxing | 1,495 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
 ## Ratings History
@@ -346,3 +346,4 @@ Diff (max vs sum): 3
 | 2023-07-01 | 4.71 | - | 7,287 | 27,185 |
 | 2023-07-02 | 4.71 | - | 7,289 | 27,197 |
 | 2023-07-03 | 4.71 | - | 7,290 | 27,206 |
+| 2023-07-04 | 4.71 | - | 7,290 | 27,208 |

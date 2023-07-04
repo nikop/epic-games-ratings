@@ -1,32 +1,32 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 196)  
+Rating: 4.70 (Ranked 197)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 26.00% | ~7,672 |
-| Rookie | 25.00% | ~7,377 |
-| Nomad | 18.00% | ~5,312 |
-| Picking Up Speed | 17.00% | ~5,017 |
-| Welcome Maya | 15.00% | ~4,426 |
-| Sightseer | 11.00% | ~3,246 |
-| Scout | 10.00% | ~2,951 |
-| Amateur | 9.00% | ~2,656 |
-| Wanderer | 9.00% | ~2,656 |
-| Enter Paz | 8.00% | ~2,361 |
+| Finding Your Footing | 26.00% | ~7,675 |
+| Rookie | 25.00% | ~7,380 |
+| Nomad | 18.00% | ~5,314 |
+| Picking Up Speed | 17.00% | ~5,019 |
+| Welcome Maya | 15.00% | ~4,428 |
+| Sightseer | 11.00% | ~3,247 |
+| Scout | 10.00% | ~2,952 |
+| Amateur | 9.00% | ~2,657 |
+| Wanderer | 9.00% | ~2,657 |
+| Enter Paz | 8.00% | ~2,362 |
 | Unlock Maya | 7.00% | ~2,066 |
 | Aviator | 6.00% | ~1,771 |
 | One With The Board | 6.00% | ~1,771 |
-| My Little Friend | 5.00% | ~1,475 |
-| Voyager | 5.00% | ~1,475 |
-| Sandboarder | 4.00% | ~1,180 |
-| Izel Has Arrived | 4.00% | ~1,180 |
-| Junkie | 3.00% | ~885 |
-| Traveler | 3.00% | ~885 |
-| Journeyer | 3.00% | ~885 |
-| Unlock Paz | 3.00% | ~885 |
+| My Little Friend | 5.00% | ~1,476 |
+| Voyager | 5.00% | ~1,476 |
+| Sandboarder | 4.00% | ~1,181 |
+| Izel Has Arrived | 4.00% | ~1,181 |
+| Junkie | 3.00% | ~886 |
+| Traveler | 3.00% | ~886 |
+| Journeyer | 3.00% | ~886 |
+| Unlock Paz | 3.00% | ~886 |
 | Pro | 2.00% | ~590 |
 | Unlock Izel | 2.00% | ~590 |
 | Human Flight | 2.00% | ~590 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~30 |
 | Windswept | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,509 (Ranked 93)  
+Progressed: 29,521 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 5 (0.02%) (Ranked 212)
 | 2023-07-01 | 29,151 | 5 |
 | 2023-07-02 | 29,343 | 5 |
 | 2023-07-03 | 29,499 | 5 |
-| 2023-07-04 | 29,509 | 5 |
+| 2023-07-04 | 29,521 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 408)  
 Sum: 350 (Ranked 322)  

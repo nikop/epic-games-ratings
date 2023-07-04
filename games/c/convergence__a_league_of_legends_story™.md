@@ -52,8 +52,8 @@
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
+| No Time to Waste | 0.80% | ~6 |
 | Wildlife Protection | 0.70% | ~5 |
-| No Time to Waste | 0.70% | ~5 |
 | A Lesson in Precision | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |

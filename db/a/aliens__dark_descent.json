@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2528,
+  "EOS_Progressed": 2529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1596,6 +1596,11 @@
       "Time": "2023-07-04T00:06:03.0469705+00:00",
       "NumProgressed": 2528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T02:30:43.7044057+00:00",
+      "NumProgressed": 2529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1647,7 +1652,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1719,7 +1724,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1757,9 +1762,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -1823,7 +1828,7 @@
       "Name": "Making a Stand",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_MISSION_05",
@@ -1903,7 +1908,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1911,23 +1916,23 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1941,9 +1946,9 @@
       "ID": "ACH_SENTRY_KILLS",
       "SetID": "816efe",
       "Name": "Recouped Investment",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -1959,14 +1964,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2528,
+      "Progressed": 2529,
       "Completed": 0
     }
   ],
@@ -1974,8 +1979,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:06:03.0469702+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:30:43.7044051+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:59:18.1770295+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:06:03.0470072+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:24:16.5012016+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:30:43.7044876+00:00"
 }

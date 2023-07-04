@@ -13,7 +13,7 @@
 | Chain Reaction | 38.00% | ~82 |
 | Man's Best Friend | 37.00% | ~80 |
 | 48 Attempts | 36.00% | ~78 |
-| Handyman | 24.00% | ~52 |
+| Handyman | 25.00% | ~54 |
 | No Time To Relax | 20.00% | ~43 |
 | Bad Robots | 18.00% | ~39 |
 | Archivist | 16.00% | ~35 |

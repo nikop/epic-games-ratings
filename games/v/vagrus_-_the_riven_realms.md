@@ -38,6 +38,7 @@
 | Despised | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
+| Ruiner | 0.90% | ~1 |
 | Spiritual Journey | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Unseen Patterns | 0.90% | ~1 |
@@ -88,7 +89,6 @@
 | A Real Battle | 0.00% | ~0 |
 | The Darkness Within | 0.00% | ~0 |
 | Celebrity | 0.00% | ~0 |
-| Ruiner | 0.00% | ~0 |
 | Arcanite | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |

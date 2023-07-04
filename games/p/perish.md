@@ -56,11 +56,11 @@
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
 | Olympian | 0.50% | ~16 |
+| Window Shopping | 0.40% | ~13 |
 | Hipparchia's Labour | 0.40% | ~13 |
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
-| Window Shopping | 0.30% | ~9 |
 | Elephantine | 0.30% | ~9 |
 | Buyer's Remorse | 0.20% | ~6 |
 | Library of Alexandria | 0.10% | ~3 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,131 (Ranked 146)  
+Progressed: 3,133 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 3,093 | 0 |
 | 2023-07-02 | 3,118 | 0 |
 | 2023-07-03 | 3,130 | 0 |
-| 2023-07-04 | 3,131 | 0 |
+| 2023-07-04 | 3,133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

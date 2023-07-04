@@ -11,9 +11,9 @@ Rating: 4.32 (Ranked 762)
 | Elizabeth Padget | 70.00% | ~275 |
 | Little Grey Cells | 69.00% | ~271 |
 | The Bracelet | 65.00% | ~255 |
-| The Blackmail | 55.00% | ~216 |
+| The Blackmail | 56.00% | ~220 |
+| Major Felix Hagen | 56.00% | ~220 |
 | Florette Duval | 55.00% | ~216 |
-| Major Felix Hagen | 55.00% | ~216 |
 | Order and Method | 53.00% | ~208 |
 | Fine-toothed Comb | 53.00% | ~208 |
 | The Altercation | 50.00% | ~196 |

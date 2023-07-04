@@ -4,8 +4,8 @@
   "ProductSlug": "lunarlux-41403d",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.8224771+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:58:04.1028264+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:05:03.5209485+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:23:00.7663572+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:29:44.152163+00:00"
 }

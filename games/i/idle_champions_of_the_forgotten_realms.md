@@ -6,58 +6,58 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,844 |
-| The Mad Wizard | 11.00% | ~22,619 |
-| Are Ya Chicken? | 7.00% | ~14,394 |
-| The Ring of Regeneration | 6.00% | ~12,338 |
-| Were-verpowered | 5.00% | ~10,282 |
-| Mad Cow Disease | 5.00% | ~10,282 |
-| Friendly Imps | 5.00% | ~10,282 |
-| A Persistent Buzzing | 4.00% | ~8,225 |
-| Seeking Allies | 4.00% | ~8,225 |
-| Pure Energy | 4.00% | ~8,225 |
-| Terror in the Dark | 3.00% | ~6,169 |
-| Unearthed Evil | 3.00% | ~6,169 |
-| The Crumbling Temple | 3.00% | ~6,169 |
-| The Contagious Curse | 3.00% | ~6,169 |
-| Beast Mode | 2.00% | ~4,113 |
-| Low Initiative | 2.00% | ~4,113 |
-| A Mysterious Summons | 2.00% | ~4,113 |
-| Building Trust | 2.00% | ~4,113 |
-| Useless Allies | 2.00% | ~4,113 |
-| Exploring Port Nyanzaru | 2.00% | ~4,113 |
-| Running of the Saurs | 2.00% | ~4,113 |
-| Escort to Waterdeep | 2.00% | ~4,113 |
-| Waterdeep Detours | 2.00% | ~4,113 |
-| Underdeep Cartography | 2.00% | ~4,113 |
-| March of the Undead | 1.00% | ~2,056 |
-| No Time To Rest | 1.00% | ~2,056 |
-| Invisible Shadows | 1.00% | ~2,056 |
-| The Dinner Party | 1.00% | ~2,056 |
-| The Botched Kidnapping | 1.00% | ~2,056 |
-| The Death Curse | 1.00% | ~2,056 |
-| Premature Betrayal | 1.00% | ~2,056 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,056 |
-| Close Escort | 1.00% | ~2,056 |
-| Constant Banditry | 1.00% | ~2,056 |
-| Overdue Rendezvous | 1.00% | ~2,056 |
-| The Templar's Camp | 1.00% | ~2,056 |
-| Rescue in the Jungle | 1.00% | ~2,056 |
+| The Cursed Farmer | 15.00% | ~30,854 |
+| The Mad Wizard | 11.00% | ~22,626 |
+| Are Ya Chicken? | 7.00% | ~14,399 |
+| The Ring of Regeneration | 6.00% | ~12,342 |
+| Were-verpowered | 5.00% | ~10,285 |
+| Mad Cow Disease | 5.00% | ~10,285 |
+| Friendly Imps | 5.00% | ~10,285 |
+| A Persistent Buzzing | 4.00% | ~8,228 |
+| Seeking Allies | 4.00% | ~8,228 |
+| Pure Energy | 4.00% | ~8,228 |
+| Terror in the Dark | 3.00% | ~6,171 |
+| Unearthed Evil | 3.00% | ~6,171 |
+| The Crumbling Temple | 3.00% | ~6,171 |
+| The Contagious Curse | 3.00% | ~6,171 |
+| Beast Mode | 2.00% | ~4,114 |
+| Low Initiative | 2.00% | ~4,114 |
+| A Mysterious Summons | 2.00% | ~4,114 |
+| Building Trust | 2.00% | ~4,114 |
+| Useless Allies | 2.00% | ~4,114 |
+| Exploring Port Nyanzaru | 2.00% | ~4,114 |
+| Running of the Saurs | 2.00% | ~4,114 |
+| Escort to Waterdeep | 2.00% | ~4,114 |
+| Waterdeep Detours | 2.00% | ~4,114 |
+| Underdeep Cartography | 2.00% | ~4,114 |
+| March of the Undead | 1.00% | ~2,057 |
+| No Time To Rest | 1.00% | ~2,057 |
+| Invisible Shadows | 1.00% | ~2,057 |
+| The Dinner Party | 1.00% | ~2,057 |
+| The Botched Kidnapping | 1.00% | ~2,057 |
+| The Death Curse | 1.00% | ~2,057 |
+| Premature Betrayal | 1.00% | ~2,057 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,057 |
+| Close Escort | 1.00% | ~2,057 |
+| Constant Banditry | 1.00% | ~2,057 |
+| Overdue Rendezvous | 1.00% | ~2,057 |
+| The Templar's Camp | 1.00% | ~2,057 |
+| Rescue in the Jungle | 1.00% | ~2,057 |
+| Homecoming | 0.90% | ~1,851 |
 | Street War | 0.90% | ~1,851 |
 | A Tale of Two Cities | 0.90% | ~1,851 |
-| Homecoming | 0.80% | ~1,645 |
-| The Lost Heir of Omu | 0.80% | ~1,645 |
-| Trollskull Manor | 0.80% | ~1,645 |
-| Dinosaur Racing | 0.80% | ~1,645 |
-| The Forbidden City | 0.70% | ~1,439 |
-| Captured! | 0.70% | ~1,439 |
-| Wisdom Check | 0.70% | ~1,439 |
-| The Mists of Ravenloft | 0.70% | ~1,439 |
-| Attack on the Manor | 0.70% | ~1,439 |
-| The Dead Three | 0.70% | ~1,439 |
-| The Long Haul | 0.70% | ~1,439 |
-| Lost in the Deep | 0.70% | ~1,439 |
-| Easily Distracted | 0.70% | ~1,439 |
+| The Lost Heir of Omu | 0.80% | ~1,646 |
+| Trollskull Manor | 0.80% | ~1,646 |
+| Dinosaur Racing | 0.80% | ~1,646 |
+| The Forbidden City | 0.70% | ~1,440 |
+| Captured! | 0.70% | ~1,440 |
+| Wisdom Check | 0.70% | ~1,440 |
+| The Mists of Ravenloft | 0.70% | ~1,440 |
+| Attack on the Manor | 0.70% | ~1,440 |
+| The Dead Three | 0.70% | ~1,440 |
+| The Long Haul | 0.70% | ~1,440 |
+| Lost in the Deep | 0.70% | ~1,440 |
+| Easily Distracted | 0.70% | ~1,440 |
 | A Grand Puzzle | 0.60% | ~1,234 |
 | Tomb of the Nine Gods | 0.60% | ~1,234 |
 | Treasure Hunters | 0.60% | ~1,234 |
@@ -65,13 +65,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.60% | ~1,234 |
 | Crowded Streets | 0.60% | ~1,234 |
 | The Darkness Runs Deeper | 0.60% | ~1,234 |
-| The Giant's Bane Tavern | 0.60% | ~1,031 |
+| The Giant's Bane Tavern | 0.60% | ~1,032 |
 | Rude Welcome | 0.60% | ~1,234 |
 | The Haunted Jungle | 0.60% | ~1,234 |
 | Family Entanglements | 0.50% | ~1,028 |
 | The Immortal Warrior | 0.50% | ~1,028 |
 | The Wyrmheart Mine | 0.50% | ~1,028 |
 | Tower on the Lake | 0.50% | ~1,028 |
+| Seeds of Deceit | 0.50% | ~1,028 |
 | The Guardian of Orolunga | 0.50% | ~1,028 |
 | Hopelessly Lost | 0.50% | ~1,028 |
 | Enter the Sargauth | 0.50% | ~1,028 |
@@ -88,7 +89,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Modron Assistance | 0.40% | ~823 |
 | Haaave You Met Asmodeus? | 0.40% | ~823 |
 | Domesticated Owlbears | 0.40% | ~823 |
-| Seeds of Deceit | 0.40% | ~823 |
 | The Gargoyle's Apprentice | 0.40% | ~823 |
 | The Lost Love | 0.40% | ~823 |
 | Flies on the Wall | 0.40% | ~823 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,630 (Ranked 52)  
-Completed: 2,026 (0.99%) (Ranked 101)  
+Progressed: 205,694 (Ranked 52)  
+Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -585,16 +585,16 @@ Completed: 2,026 (0.99%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,630 | 2,026 |
+| 2023-07-04 | 205,694 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
-Sum: 30,374 (Ranked 37)  
+Sum: 30,375 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,000 |
 | This game is Great for Beginners | 4,931 |
-| This game has Quickly Understood Controls | 4,641 |
+| This game has Quickly Understood Controls | 4,642 |
 | This game is Relaxing | 4,539 |
 | This game has Amazing Characters | 3,993 |
 | This game is Highly Recommended | 3,984 |
@@ -761,3 +761,4 @@ Diff (max vs sum): 28
 | 2023-07-01 | 4.05 | - | 4,992 | 30,347 |
 | 2023-07-02 | 4.05 | - | 4,995 | 30,358 |
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
+| 2023-07-04 | 4.05 | - | 5,000 | 30,375 |

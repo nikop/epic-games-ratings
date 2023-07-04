@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -106,7 +106,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3395,
+  "EOS_Progressed": 3396,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -4001,6 +4001,11 @@
       "Time": "2023-07-03T23:06:10.0001757+00:00",
       "NumProgressed": 3395,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-04T02:31:01.0480536+00:00",
+      "NumProgressed": 3396,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 61,
@@ -4012,7 +4017,7 @@
       "Name": "Start with a bang!",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "Ach002",
@@ -4044,7 +4049,7 @@
       "Name": "Headliner",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "Ach006",
@@ -4052,7 +4057,7 @@
       "Name": "Time to pay up!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "Ach007",
@@ -4124,7 +4129,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "Ach016",
@@ -4132,7 +4137,7 @@
       "Name": "Chip-tuned",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Ach017",
@@ -4188,7 +4193,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "Ach024",
@@ -4204,7 +4209,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "Ach026",
@@ -4212,7 +4217,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "Ach027",
@@ -4236,7 +4241,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "Ach030",
@@ -4252,7 +4257,7 @@
       "Name": "Perfect Parry",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "Ach032",
@@ -4260,7 +4265,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "Ach033",
@@ -4388,7 +4393,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "Ach049",
@@ -4412,7 +4417,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "Ach052",
@@ -4420,7 +4425,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Ach053",
@@ -4484,7 +4489,7 @@
       "Name": "Check out my moves!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Ach061",
@@ -4499,22 +4504,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3395,
+      "Progressed": 3396,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1916,
-      "Completed": 1916
+      "Progressed": 1917,
+      "Completed": 1917
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:06:20.1837458+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:31:01.048053+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:58:33.4974505+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:06:20.1838073+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:23:33.2858239+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:31:01.0481414+00:00"
 }

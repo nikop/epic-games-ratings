@@ -2,10 +2,10 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -168,9 +168,9 @@
       "ID": "CH2_UNDERGROUND",
       "SetID": "6d348d1",
       "Name": "Secret Lair",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CH3_FLOWER",
@@ -239,8 +239,8 @@
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:03:24.4787617+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:28:05.586281+00:00",
   "LastUpdate_AppInfo": "2023-06-29T14:57:18.4163866+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:57:06.5404853+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:03:24.4787719+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:22:05.3031185+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:28:05.5862941+00:00"
 }

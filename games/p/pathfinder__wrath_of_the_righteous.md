@@ -17,11 +17,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 5.00% | ~508 |
 | Path of the Angel | 5.00% | ~508 |
 | Demonic and Divine | 5.00% | ~508 |
-| Path of the Azata | 4.00% | ~406 |
-| Transformation | 4.00% | ~406 |
-| Great Upstart | 4.00% | ~406 |
-| Voice from Your Dreams | 4.00% | ~406 |
-| All Paths Open | 4.00% | ~406 |
+| Path of the Azata | 4.00% | ~407 |
+| Transformation | 4.00% | ~407 |
+| Great Upstart | 4.00% | ~407 |
+| Voice from Your Dreams | 4.00% | ~407 |
+| All Paths Open | 4.00% | ~407 |
 | The Legacy | 3.00% | ~305 |
 | Divide and Rule | 3.00% | ~305 |
 | Mythic Reinforcements | 3.00% | ~305 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~102 |
 | The Final Threshold | 0.90% | ~91 |
 | Strategic Victory | 0.90% | ~91 |
-| This Wall Won't Fall | 0.90% | ~80 |
-| Not the Last Sarkorian | 0.90% | ~80 |
+| This Wall Won't Fall | 0.90% | ~81 |
+| Not the Last Sarkorian | 0.90% | ~81 |
 | End of Eternal Guard | 0.80% | ~81 |
 | Path of the Dragon | 0.70% | ~71 |
 | Path of the Legend | 0.70% | ~71 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,162 (Ranked 116)  
+Progressed: 10,163 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 10,126 | 0 |
 | 2023-07-02 | 10,154 | 0 |
 | 2023-07-03 | 10,162 | 0 |
+| 2023-07-04 | 10,163 | 0 |
 ## Awards
 Max (Character Customization): 1,671  (Ranked 115)  
 Sum: 6,792 (Ranked 111)  

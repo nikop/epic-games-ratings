@@ -6,46 +6,46 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~1,057 |
-| First cargo item on board | 71.00% | ~975 |
-| First cargo item waiting | 71.00% | ~975 |
-| First bus stop | 70.00% | ~961 |
-| First passenger on board | 67.00% | ~920 |
-| First passenger waiting | 67.00% | ~920 |
-| First bus arrived | 66.00% | ~906 |
-| First train station | 64.00% | ~879 |
-| First steam train arrived | 60.00% | ~824 |
-| First industry upgraded | 56.00% | ~769 |
-| Transport millionaire | 55.00% | ~755 |
-| Cargo hub | 54.00% | ~741 |
-| Transport master | 53.00% | ~728 |
-| Cadet | 53.00% | ~728 |
-| Sculpturer | 50.00% | ~686 |
-| Settled down | 49.00% | ~673 |
-| First electric train arrived | 47.00% | ~645 |
+| First line | 77.00% | ~1,059 |
+| First cargo item on board | 71.00% | ~976 |
+| First cargo item waiting | 71.00% | ~976 |
+| First bus stop | 70.00% | ~962 |
+| First passenger on board | 67.00% | ~921 |
+| First passenger waiting | 67.00% | ~921 |
+| First bus arrived | 66.00% | ~908 |
+| First train station | 64.00% | ~880 |
+| First steam train arrived | 60.00% | ~825 |
+| First industry upgraded | 56.00% | ~770 |
+| Transport millionaire | 55.00% | ~756 |
+| Cargo hub | 54.00% | ~742 |
+| Cadet | 53.00% | ~729 |
+| Transport master | 52.00% | ~715 |
+| Sculpturer | 50.00% | ~688 |
+| Settled down | 49.00% | ~674 |
+| First electric train arrived | 47.00% | ~646 |
 | First ship arrived | 46.00% | ~632 |
 | Now what? | 46.00% | ~632 |
-| High speed | 43.00% | ~590 |
-| Transport shark | 41.00% | ~563 |
-| First aircraft arrived | 41.00% | ~563 |
-| Exemplary student | 41.00% | ~563 |
+| High speed | 43.00% | ~591 |
+| Transport shark | 41.00% | ~564 |
+| First aircraft arrived | 41.00% | ~564 |
+| Exemplary student | 41.00% | ~564 |
 | Mass production | 35.00% | ~481 |
-| Aircraft entrepreneur | 33.00% | ~453 |
+| Aircraft entrepreneur | 33.00% | ~454 |
 | Crowd in a train | 31.00% | ~426 |
 | The future is now, old man | 31.00% | ~426 |
 | Not in my backyard | 30.00% | ~412 |
-| The king of the sea | 29.00% | ~398 |
-| City | 28.00% | ~384 |
+| The king of the sea | 29.00% | ~399 |
+| City | 28.00% | ~385 |
 | Transport tycoon | 24.00% | ~330 |
 | Climate change | 22.00% | ~302 |
 | Old timer | 22.00% | ~302 |
 | The ugly smell of success | 22.00% | ~302 |
-| Heavily loaded | 21.00% | ~288 |
+| Heavily loaded | 21.00% | ~289 |
 | Bob Ross | 15.00% | ~206 |
 | Campaign expert | 11.00% | ~151 |
 | Truck Fever | 11.00% | ~151 |
-| No free seats | 10.00% | ~137 |
-| Penny pincher | 10.00% | ~137 |
+| No free seats | 10.00% | ~138 |
+| Penny pincher | 10.00% | ~138 |
 | Back to the future | 9.00% | ~124 |
 | Transport belt | 9.00% | ~124 |
 | Campaign shark | 6.00% | ~82 |
@@ -55,20 +55,20 @@ Number of Ratings: 180  (23.09.2022)
 | Transport corporation | 4.00% | ~55 |
 | Cannot get enough | 3.00% | ~41 |
 | Industrialist | 3.00% | ~41 |
-| Transport tycoon (Hard mode) | 2.00% | ~27 |
-| No country for old trains | 2.00% | ~27 |
-| Charles Alton Ellis | 2.00% | ~27 |
-| Campaign tycoon | 2.00% | ~27 |
-| Metropolis | 2.00% | ~27 |
-| Speed of light | 2.00% | ~27 |
-| Trans-Siberian Railway | 2.00% | ~27 |
+| Transport tycoon (Hard mode) | 2.00% | ~28 |
+| No country for old trains | 2.00% | ~28 |
+| Charles Alton Ellis | 2.00% | ~28 |
+| Campaign tycoon | 2.00% | ~28 |
+| Metropolis | 2.00% | ~28 |
+| Speed of light | 2.00% | ~28 |
+| Trans-Siberian Railway | 2.00% | ~28 |
 | Train Fever | 0.90% | ~12 |
 | Louis Favre | 0.80% | ~11 |
-| Big spender | 0.40% | ~5 |
+| Big spender | 0.40% | ~6 |
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,373 (Ranked 171)  
+Progressed: 1,375 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 1,365 | 0 |
 | 2023-07-02 | 1,369 | 0 |
 | 2023-07-03 | 1,373 | 0 |
+| 2023-07-04 | 1,375 | 0 |
 ## Awards
 Max (Highly Recommended): 39  (Ranked 423)  
 Sum: 270 (Ranked 340)  

@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -568,6 +568,11 @@
       "Time": "2023-07-03T21:02:22.1046474+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T02:27:23.855435+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -635,7 +640,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -818,7 +823,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:03:22.5454314+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:27:23.8554345+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:46.1800974+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:57:38.8803105+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:03:22.545451+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:22:35.428902+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:27:23.8554769+00:00"
 }

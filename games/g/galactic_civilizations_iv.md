@@ -156,7 +156,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-03 | 6,065 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 343)  
-Sum: 664 (Ranked 276)  
+Sum: 665 (Ranked 276)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -167,7 +167,7 @@ Diff (max vs sum): 67
 | This game is Extremely Fun | 80 |
 | This game has Amazing Storytelling | 77 |
 | This game has Competitive Players | 71 |
-| This game has Amazing Characters | 65 |
+| This game has Amazing Characters | 66 |
 | This game has Obsessive Gameplay | 50 |
 | This game has a Creative Community | 27 |
 ## Ratings History
@@ -267,3 +267,4 @@ Diff (max vs sum): 67
 | 2023-06-01 | 4.18 | - | 92 | 662 |
 | 2023-06-02 | 4.18 | - | 92 | 663 |
 | 2023-06-23 | 4.18 | - | 92 | 664 |
+| 2023-07-04 | 4.18 | - | 92 | 665 |

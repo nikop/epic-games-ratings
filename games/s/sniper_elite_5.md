@@ -11,14 +11,14 @@ Rating: 4.45 (Ranked 619)
 | Target America | 1.00% | ~32 |
 | Resourceful | 0.90% | ~29 |
 | The Kraken Wakes | 0.90% | ~29 |
+| Change the Channel | 0.90% | ~29 |
 | The Kraken Sleeps | 0.90% | ~29 |
+| Climbing the Ladder | 0.80% | ~26 |
 | Liberté | 0.80% | ~26 |
 | No Stone Unturned | 0.80% | ~26 |
 | Sharpshooter | 0.80% | ~26 |
 | Confirming Suspicions | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
-| Change the Channel | 0.80% | ~26 |
-| Climbing the Ladder | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
@@ -36,15 +36,16 @@ Rating: 4.45 (Ranked 619)
 | Fields of Glory | 0.30% | ~10 |
 | Die Nussknacker Sweet! | 0.30% | ~10 |
 | Snake in the Grass | 0.30% | ~10 |
+| Tinkerer | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
+| Fight Another Day | 0.30% | ~9 |
 | The Long Game | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
 | Burn after reading | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
-| Tinkerer | 0.20% | ~6 |
 | It'll Buff Right Out | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
@@ -52,7 +53,6 @@ Rating: 4.45 (Ranked 619)
 | Don't hold your breath | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Operation Foxley | 0.20% | ~6 |
-| Fight Another Day | 0.20% | ~6 |
 | Shipbreaker | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |

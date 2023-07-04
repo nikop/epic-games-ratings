@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,982 |
+| First Step Into the Knight | 6.00% | ~3,983 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,655 |
 | Loose Ends | 4.00% | ~2,655 |
 | The Batman Family | 3.00% | ~1,991 |
@@ -20,32 +20,32 @@ Rating: 4.18 (Ranked 851)
 | Whispered Words | 3.00% | ~1,991 |
 | Lock and Key | 3.00% | ~1,991 |
 | Bad Apples in Every Orchard | 3.00% | ~1,991 |
-| End of an Era | 2.00% | ~1,327 |
-| In Your Element | 2.00% | ~1,327 |
-| Protector of Gotham | 2.00% | ~1,327 |
-| The Show Mud Go On | 2.00% | ~1,327 |
-| Rock and a Hard Place | 2.00% | ~1,327 |
-| Not On My Watch | 2.00% | ~1,327 |
-| Bulldozed | 2.00% | ~1,327 |
-| Shock Til They Drop | 2.00% | ~1,327 |
-| Cooldown | 2.00% | ~1,327 |
-| Universal Health Scare | 2.00% | ~1,327 |
-| From Inside Gotham's Walls | 2.00% | ~1,327 |
-| Voiceless | 2.00% | ~1,327 |
-| Seeking Asylum | 2.00% | ~1,327 |
-| Gotham Knight | 2.00% | ~1,327 |
-| Gotham City Confidential | 2.00% | ~1,327 |
+| End of an Era | 2.00% | ~1,328 |
+| In Your Element | 2.00% | ~1,328 |
+| Protector of Gotham | 2.00% | ~1,328 |
+| The Show Mud Go On | 2.00% | ~1,328 |
+| Rock and a Hard Place | 2.00% | ~1,328 |
+| Not On My Watch | 2.00% | ~1,328 |
+| Bulldozed | 2.00% | ~1,328 |
+| Shock Til They Drop | 2.00% | ~1,328 |
+| Cooldown | 2.00% | ~1,328 |
+| Universal Health Scare | 2.00% | ~1,328 |
+| From Inside Gotham's Walls | 2.00% | ~1,328 |
+| Voiceless | 2.00% | ~1,328 |
+| Seeking Asylum | 2.00% | ~1,328 |
+| Gotham Knight | 2.00% | ~1,328 |
+| Gotham City Confidential | 2.00% | ~1,328 |
 | Fusion Expert | 1.00% | ~664 |
 | Out of Their League | 1.00% | ~664 |
 | Drone You Out | 1.00% | ~664 |
 | Solid Alibi | 1.00% | ~664 |
 | Family Meeting | 0.90% | ~597 |
+| A Worthy Successor | 0.90% | ~597 |
 | Expert Crime Fighter | 0.80% | ~531 |
-| A Worthy Successor | 0.80% | ~531 |
 | Dressed to Impress | 0.70% | ~465 |
 | A Momentum Occasion | 0.50% | ~332 |
 | Bat Out of Hell | 0.50% | ~332 |
-| He'd Be So Proud of You | 0.40% | ~265 |
+| He'd Be So Proud of You | 0.40% | ~266 |
 | Hammer and Icicle | 0.30% | ~110 |
 | Renewable Enemy Source | 0.30% | ~110 |
 | Practice Makes Perfect | 0.30% | ~199 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 851)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,372 (Ranked 73)  
+Progressed: 66,380 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-01 | 66,242 | 100 |
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
-| 2023-07-04 | 66,372 | 100 |
+| 2023-07-04 | 66,380 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,411  (Ranked 100)  
 Sum: 3,993 (Ranked 137)  

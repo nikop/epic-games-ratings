@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3026,9 +3026,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10162,
+  "EOS_Progressed": 10163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7741,6 +7741,11 @@
       "Time": "2023-07-03T23:02:15.1656578+00:00",
       "NumProgressed": 10162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T02:27:14.8699981+00:00",
+      "NumProgressed": 10163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7824,7 +7829,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "11_PathOfAeon",
@@ -7880,7 +7885,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "18_MythicChoices",
@@ -7960,7 +7965,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "29_StrategicVictory",
@@ -8096,7 +8101,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "46_AllPathsOpen",
@@ -8104,7 +8109,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -8648,7 +8653,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -8656,7 +8661,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -8679,21 +8684,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8944,
+      "Progressed": 8945,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10162,
+      "Progressed": 10163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-03T19:58:29.2771916+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:03:13.1392224+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:27:14.8699975+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:58:24.8706191+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:03:13.1393728+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:23:23.4518368+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:27:14.870201+00:00"
 }

@@ -17,7 +17,7 @@
 | YETTI | 3.00% | ~22 |
 | FIRST $100K | 2.00% | ~15 |
 | 500K$. | 1.00% | ~7 |
-| INTRODUCTION | 0.30% | ~2 |
+| INTRODUCTION | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 748 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 232)  

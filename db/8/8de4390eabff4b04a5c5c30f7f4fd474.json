@@ -4,8 +4,8 @@
   "ProductSlug": "sphere-guider-e20c86",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-02T05:00:00+00:00",
     "PcReleaseDate": "2023-05-24T16:00:00+00:00",
@@ -27,9 +27,139 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-04T02:25:32.5797305+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_CHEATCODE",
+      "SetID": "69oldh4",
+      "Name": "Up Up Down Down...",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_1",
+      "SetID": "69oldh4",
+      "Name": "Small Ramps",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_10",
+      "SetID": "69oldh4",
+      "Name": "Disappearing Act",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_11",
+      "SetID": "69oldh4",
+      "Name": "Hole In One",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_12",
+      "SetID": "69oldh4",
+      "Name": "Bouncing In The Clouds",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_13",
+      "SetID": "69oldh4",
+      "Name": "Controlled Landings",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_14",
+      "SetID": "69oldh4",
+      "Name": "Infiltrate The Lair",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_15",
+      "SetID": "69oldh4",
+      "Name": "The Final Act",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_2",
+      "SetID": "69oldh4",
+      "Name": "Balance Beams",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_3",
+      "SetID": "69oldh4",
+      "Name": "Thread The Needle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_4",
+      "SetID": "69oldh4",
+      "Name": "Moving Platforms",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_5",
+      "SetID": "69oldh4",
+      "Name": "Hold Steady",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_6",
+      "SetID": "69oldh4",
+      "Name": "Follow The Platform",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_7",
+      "SetID": "69oldh4",
+      "Name": "Pipe Maze",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_8",
+      "SetID": "69oldh4",
+      "Name": "Feel The Wall",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_9",
+      "SetID": "69oldh4",
+      "Name": "Mind The Gap",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "69oldh4",
@@ -40,8 +170,8 @@
   ],
   "FirstSeen": "2023-06-24T15:57:31.2167297+00:00",
   "FirstSeenAchievements": "2023-05-16T05:01:46.5155201+00:00",
-  "LastChanged_Achievements": "2023-07-04T00:02:10.6022972+00:00",
+  "LastChanged_Achievements": "2023-07-04T02:25:32.5797278+00:00",
   "LastUpdate_AppInfo": "2023-06-27T09:56:58.967523+00:00",
-  "LastUpdate_Ratings": "2023-07-03T23:57:17.0160583+00:00",
-  "LastUpdate_Achievements": "2023-07-04T00:02:10.6023029+00:00"
+  "LastUpdate_Ratings": "2023-07-04T02:22:14.4346136+00:00",
+  "LastUpdate_Achievements": "2023-07-04T02:25:32.5797461+00:00"
 }

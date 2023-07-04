@@ -6,7 +6,7 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~18,641 |
+| First money | 94.00% | ~18,643 |
 | Strongman | 31.00% | ~6,148 |
 | Just Enough | 19.00% | ~3,768 |
 | Alpha Male | 19.00% | ~3,768 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~99 |
 | Senior Estate Agent | 0.50% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,831 (Ranked 100)  
+Progressed: 19,833 (Ranked 100)  
 Completed: 19 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,13 +105,14 @@ Completed: 19 (0.10%) (Ranked 179)
 | 2023-07-01 | 19,818 | 19 |
 | 2023-07-02 | 19,826 | 19 |
 | 2023-07-03 | 19,831 | 19 |
+| 2023-07-04 | 19,833 | 19 |
 ## Awards
-Max (Great for Beginners): 300  (Ranked 232)  
-Sum: 2,177 (Ranked 185)  
+Max (Great for Beginners): 301  (Ranked 232)  
+Sum: 2,178 (Ranked 185)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 300 |
+| This game is Great for Beginners | 301 |
 | This game is Educational | 236 |
 | This game is Extremely Fun | 224 |
 | This game is Relaxing | 224 |
@@ -248,3 +249,4 @@ Diff (max vs sum): 47
 | 2023-06-29 | 4.69 | - | 300 | 2,172 |
 | 2023-07-01 | 4.69 | - | 300 | 2,175 |
 | 2023-07-03 | 4.69 | - | 300 | 2,177 |
+| 2023-07-04 | 4.69 | - | 301 | 2,178 |

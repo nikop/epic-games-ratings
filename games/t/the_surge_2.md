@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 804)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,459 |
-| Don't I Know You...? | 77.00% | ~1,404 |
+| Rigged And Ready | 80.00% | ~1,460 |
+| Don't I Know You...? | 77.00% | ~1,405 |
 | Jailbreak | 65.00% | ~1,186 |
-| Suited and Booted | 39.00% | ~711 |
-| HEADSHOT! | 38.00% | ~693 |
-| Sleeping With The Fishes | 35.00% | ~638 |
-| Overheated | 30.00% | ~547 |
-| High Performance | 30.00% | ~547 |
+| Suited and Booted | 39.00% | ~712 |
+| HEADSHOT! | 38.00% | ~694 |
+| Sleeping With The Fishes | 35.00% | ~639 |
+| Overheated | 30.00% | ~548 |
+| High Performance | 30.00% | ~548 |
 | Powered Up | 28.00% | ~511 |
 | Studied The Blade | 25.00% | ~456 |
 | Home Invasion | 23.00% | ~420 |
-| Luminary | 22.00% | ~401 |
-| It's a Trap | 22.00% | ~401 |
+| Luminary | 22.00% | ~402 |
+| It's a Trap | 22.00% | ~402 |
 | True Survivor | 21.00% | ~383 |
 | Offensive Defense | 20.00% | ~365 |
 | Shocking | 20.00% | ~365 |
@@ -42,10 +42,10 @@ Rating: 4.25 (Ranked 804)
 | Denying Prophecy | 8.00% | ~146 |
 | Following In Their Footsteps | 8.00% | ~146 |
 | Reverse Engineering | 7.00% | ~128 |
-| Remote Surgery | 6.00% | ~109 |
-| Turbo Booster | 6.00% | ~109 |
-| Juiced Up | 6.00% | ~109 |
-| Squid Pro Quo | 6.00% | ~109 |
+| Remote Surgery | 6.00% | ~110 |
+| Turbo Booster | 6.00% | ~110 |
+| Juiced Up | 6.00% | ~110 |
+| Squid Pro Quo | 6.00% | ~110 |
 | Reborn | 5.00% | ~91 |
 | Counter-Sniper | 5.00% | ~91 |
 | Shrimp Cocktail | 5.00% | ~91 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 804)
 | Swiss Army Drone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,824 (Ranked 163)  
+Progressed: 1,825 (Ranked 163)  
 Completed: 10 (0.55%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 10 (0.55%) (Ranked 122)
 | 2023-06-30 | 1,819 | 10 |
 | 2023-07-02 | 1,821 | 10 |
 | 2023-07-03 | 1,824 | 10 |
+| 2023-07-04 | 1,825 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
