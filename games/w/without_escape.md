@@ -15,7 +15,7 @@
 | Still trying to escape? | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 368)  
-Completed: 1 (5.26%) (Ranked 36)  
+Completed: 1 (5.26%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

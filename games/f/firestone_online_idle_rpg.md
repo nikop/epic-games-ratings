@@ -56,11 +56,11 @@ Rating: 4.07 (Ranked 897)
 | Blueprint Upgrades | 4.00% | ~62 |
 | Lock And Load | 4.00% | ~62 |
 | Arena Challenger | 3.00% | ~47 |
+| Legendary | 3.00% | ~47 |
 | Sailor | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |
 | Active Member | 2.00% | ~31 |
 | Ebony Jungle Liberator | 2.00% | ~31 |
-| Legendary | 2.00% | ~31 |
 | What lies behind the bush | 2.00% | ~31 |
 | Mythic Power | 1.00% | ~16 |
 | Training makes a Pro player | 0.70% | ~11 |

@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~886,874 |
-| I Need a Bigger Garage | 63.00% | ~627,787 |
-| Pump my Ride | 46.00% | ~458,384 |
-| Ghostbuster | 32.00% | ~318,876 |
-| That Was Close | 18.00% | ~179,368 |
-| Call Roadside Assistance | 17.00% | ~169,403 |
-| Quickie | 10.00% | ~99,649 |
-| California Dreamer | 7.00% | ~69,754 |
-| Can't Touch This | 5.00% | ~49,824 |
+| The First of Many | 89.00% | ~886,899 |
+| I Need a Bigger Garage | 63.00% | ~627,805 |
+| Pump my Ride | 46.00% | ~458,397 |
+| Ghostbuster | 32.00% | ~318,885 |
+| That Was Close | 18.00% | ~179,373 |
+| Call Roadside Assistance | 17.00% | ~169,408 |
+| Quickie | 10.00% | ~99,652 |
+| California Dreamer | 7.00% | ~69,756 |
+| Can't Touch This | 5.00% | ~49,826 |
 | Carménère Taster | 3.00% | ~29,895 |
 | Comeback | 3.00% | ~29,895 |
 | Marathonist | 3.00% | ~29,895 |
@@ -31,20 +31,20 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~9,965 |
 | Golden Passport | 1.00% | ~9,965 |
 | Brave and Bold | 1.00% | ~9,965 |
-| Crocodile Hunter | 0.90% | ~8,968 |
-| Bollywood Star | 0.90% | ~8,968 |
+| Crocodile Hunter | 0.90% | ~8,969 |
+| Bollywood Star | 0.90% | ~8,969 |
 | Old Master | 0.80% | ~7,972 |
 | Otaku | 0.80% | ~7,972 |
-| Volcano Surfer | 0.70% | ~6,975 |
+| Volcano Surfer | 0.70% | ~6,976 |
 | Survivor | 0.60% | ~5,979 |
-| King of the World | 0.50% | ~4,982 |
+| King of the World | 0.50% | ~4,983 |
 | Getting Famous | 0.40% | ~3,986 |
 | Master of the Racetrack | 0.20% | ~1,993 |
 | Now Go Play Outside | 0.20% | ~1,993 |
-| Transporter | 0.10% | ~996 |
-| Look Mom, No Hands! | 0.10% | ~996 |
+| Transporter | 0.10% | ~997 |
+| Look Mom, No Hands! | 0.10% | ~997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 996,488 (Ranked 12)  
+Progressed: 996,516 (Ranked 12)  
 Completed: 336 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 336 (0.03%) (Ranked 206)
 | 2023-07-01 | 994,784 | 336 |
 | 2023-07-02 | 995,729 | 336 |
 | 2023-07-03 | 996,488 | 336 |
+| 2023-07-04 | 996,516 | 336 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 293)  
 Sum: 1,191 (Ranked 229)  

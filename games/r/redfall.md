@@ -9,7 +9,7 @@ Rating: 3.53 (Ranked 947)
 | Home Is Where the Heart Is | 60.00% | ~1,026 |
 | Ne Plus Ultra | 60.00% | ~1,026 |
 | Wounded Whispers | 60.00% | ~1,026 |
-| Blood Will Have Blood | 50.00% | ~855 |
+| Blood Will Have Blood | 51.00% | ~872 |
 | ICU | 46.00% | ~787 |
 | Peek-a-boo | 44.00% | ~752 |
 | Catch and Release | 44.00% | ~752 |
@@ -30,8 +30,8 @@ Rating: 3.53 (Ranked 947)
 | Block Party | 8.00% | ~137 |
 | Starve the Beast | 8.00% | ~137 |
 | From the Shadows | 6.00% | ~103 |
+| Bell-ringer | 5.00% | ~86 |
 | Revelations | 4.00% | ~68 |
-| Bell-ringer | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
 | Check, Please! | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |
@@ -48,12 +48,12 @@ Rating: 3.53 (Ranked 947)
 | Blood Brother | 2.00% | ~34 |
 | Empty Nest Syndrome | 2.00% | ~34 |
 | Bloody Initiate | 2.00% | ~34 |
+| Under a Bushel | 2.00% | ~34 |
 | Dexterity Save | 2.00% | ~34 |
 | Monster Hunters Club | 1.00% | ~17 |
 | Friendgineering | 1.00% | ~17 |
 | What Lies Below | 1.00% | ~17 |
 | So Anyway I Started Blasting | 1.00% | ~17 |
-| Under a Bushel | 1.00% | ~17 |
 | Friends 'Til The End | 1.00% | ~17 |
 | Sisterhood | 0.90% | ~15 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |

@@ -9,16 +9,16 @@ Rating: 4.45 (Ranked 619)
 | It's Starting to Crack | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
+| Resourceful | 0.90% | ~29 |
+| The Kraken Wakes | 0.90% | ~29 |
 | The Kraken Sleeps | 0.90% | ~29 |
 | Liberté | 0.80% | ~26 |
+| No Stone Unturned | 0.80% | ~26 |
 | Sharpshooter | 0.80% | ~26 |
 | Confirming Suspicions | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
-| Resourceful | 0.80% | ~26 |
-| The Kraken Wakes | 0.80% | ~26 |
 | Change the Channel | 0.80% | ~26 |
 | Climbing the Ladder | 0.70% | ~22 |
-| No Stone Unturned | 0.70% | ~22 |
 | Gunslinger | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
@@ -47,6 +47,7 @@ Rating: 4.45 (Ranked 619)
 | Tinkerer | 0.20% | ~6 |
 | It'll Buff Right Out | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
+| Up close and personal | 0.20% | ~6 |
 | Road Rage | 0.20% | ~6 |
 | Don't hold your breath | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
@@ -59,7 +60,6 @@ Rating: 4.45 (Ranked 619)
 | Out of Scope | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
-| Up close and personal | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Shoot for the Moon | 0.10% | ~3 |
 | Can't Outrun A Bullet | 0.10% | ~3 |

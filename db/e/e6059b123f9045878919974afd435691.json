@@ -2,7 +2,7 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 89,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-07-03T23:03:20.2408757+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T00:03:38.930089+00:00",
+      "NumProgressed": 225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -328,7 +333,7 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 104
     },
@@ -338,7 +343,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -370,7 +375,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -384,7 +389,7 @@
       "ID": "ATK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "I Can Do This All Day",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -392,7 +397,7 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -402,7 +407,7 @@
       "Name": "Capraphobia",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -458,7 +463,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -472,7 +477,7 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -578,7 +583,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -602,7 +607,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -610,7 +615,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -626,7 +631,7 @@
       "Name": "Decakill!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -648,17 +653,17 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -682,23 +687,23 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -706,7 +711,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -722,7 +727,7 @@
       "Name": "Night Snack",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -754,7 +759,7 @@
       "Name": "Buy A Book",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -784,7 +789,7 @@
       "ID": "RAPTOR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Haunted Prison",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -848,7 +853,7 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 80,
       "UsersEstimate": 1
     }
@@ -857,13 +862,13 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 225,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-03T23:03:20.2408748+00:00",
+  "LastChanged_Achievements": "2023-07-04T00:03:38.9300883+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-03T22:57:04.2860974+00:00",
-  "LastUpdate_Achievements": "2023-07-03T23:03:20.2410012+00:00"
+  "LastUpdate_Ratings": "2023-07-03T23:56:56.7805392+00:00",
+  "LastUpdate_Achievements": "2023-07-04T00:03:38.9301398+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2089,9 +2089,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 855
+      "UsersEstimate": 872
     },
     {
       "ID": "Achievement_009",
@@ -2201,9 +2201,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 86
     },
     {
       "ID": "Achievement_023",
@@ -2457,9 +2457,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement_058",
@@ -2578,8 +2578,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-06-29T18:58:17.6632611+00:00",
-  "LastChanged_Achievements": "2023-07-03T23:03:06.2346189+00:00",
+  "LastChanged_Achievements": "2023-07-04T00:03:23.993564+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.2481663+00:00",
-  "LastUpdate_Ratings": "2023-07-03T22:57:59.4902812+00:00",
-  "LastUpdate_Achievements": "2023-07-03T23:03:06.2347092+00:00"
+  "LastUpdate_Ratings": "2023-07-03T23:57:53.6769256+00:00",
+  "LastUpdate_Achievements": "2023-07-04T00:03:23.9936266+00:00"
 }

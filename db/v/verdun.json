@@ -1622,9 +1622,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 50027,
+  "EOS_Progressed": 50028,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9427,6 +9427,11 @@
       "Time": "2023-07-03T23:00:28.3218629+00:00",
       "NumProgressed": 50027,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T00:02:06.7986605+00:00",
+      "NumProgressed": 50028,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -9558,7 +9563,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12006
+      "UsersEstimate": 12007
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -9566,7 +9571,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -9726,7 +9731,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 31517
+      "UsersEstimate": 31518
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -9750,7 +9755,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12006
+      "UsersEstimate": 12007
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -9806,7 +9811,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 38521
+      "UsersEstimate": 38522
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -9814,7 +9819,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -9878,7 +9883,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -9894,7 +9899,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -9909,15 +9914,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 50027,
+      "Progressed": 50028,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-07-03T15:58:43.7127346+00:00",
-  "LastChanged_Achievements": "2023-07-03T23:00:28.321862+00:00",
+  "LastChanged_Achievements": "2023-07-04T00:02:06.7986601+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:58.3694557+00:00",
-  "LastUpdate_Ratings": "2023-07-03T22:58:27.4231751+00:00",
-  "LastUpdate_Achievements": "2023-07-03T23:00:28.3220539+00:00"
+  "LastUpdate_Ratings": "2023-07-03T23:58:22.5145322+00:00",
+  "LastUpdate_Achievements": "2023-07-04T00:02:06.7987434+00:00"
 }

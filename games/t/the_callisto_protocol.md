@@ -13,7 +13,7 @@ Rating: 4.19 (Ranked 843)
 | Chew 'Em Up | 1.00% | ~156 |
 | Float Like A Butterfly | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
-| It's Time | 1.00% | ~35 |
+| It's Time | 1.00% | ~36 |
 | I Do Belong Here | 0.90% | ~141 |
 | Workplace Hazard | 0.90% | ~141 |
 | Reforged | 0.90% | ~141 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,623 (Ranked 106)  
+Progressed: 15,624 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
+| 2023-07-04 | 15,624 | 63 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 381)  
 Sum: 358 (Ranked 321)  

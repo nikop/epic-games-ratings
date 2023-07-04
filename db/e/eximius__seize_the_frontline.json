@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191125,
+  "EOS_Progressed": 191127,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8145,6 +8145,11 @@
       "Time": "2023-07-03T23:05:52.5800053+00:00",
       "NumProgressed": 191125,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T00:06:02.8108091+00:00",
+      "NumProgressed": 191127,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -8164,7 +8169,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 135699
+      "UsersEstimate": 135700
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -8188,7 +8193,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 34402
+      "UsersEstimate": 34403
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -8260,7 +8265,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -8283,7 +8288,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 191125,
+      "Progressed": 191127,
       "Completed": 4
     }
   ],
@@ -8291,8 +8296,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-01T18:00:42.0601506+00:00",
-  "LastChanged_Achievements": "2023-07-03T23:05:52.5800046+00:00",
+  "LastChanged_Achievements": "2023-07-04T00:06:02.8108089+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:50.8758143+00:00",
-  "LastUpdate_Ratings": "2023-07-03T22:59:34.5872584+00:00",
-  "LastUpdate_Achievements": "2023-07-03T23:05:52.5800918+00:00"
+  "LastUpdate_Ratings": "2023-07-03T23:59:39.1493102+00:00",
+  "LastUpdate_Achievements": "2023-07-04T00:06:02.8108528+00:00"
 }
