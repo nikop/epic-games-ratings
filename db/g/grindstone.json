@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5128,
+  "EOS_Progressed": 5129,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-06-29T10:02:13.3465808+00:00",
       "NumProgressed": 5128,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-04T04:03:30.9219226+00:00",
+      "NumProgressed": 5129,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -646,7 +651,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -662,7 +667,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -758,7 +763,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -774,7 +779,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -782,7 +787,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -854,7 +859,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -870,7 +875,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -886,7 +891,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -894,7 +899,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -934,7 +939,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1006,7 +1011,7 @@
       "Name": "That Was Quick",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1030,22 +1035,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5128,
+      "Progressed": 5129,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:26:26.898131+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:03:30.9219221+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:23.7528794+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:34.9118041+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:26:26.8981755+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:00:36.1747935+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:03:30.9219669+00:00"
 }

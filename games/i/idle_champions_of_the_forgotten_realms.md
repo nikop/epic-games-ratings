@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,860 |
-| The Mad Wizard | 11.00% | ~22,631 |
-| Are Ya Chicken? | 7.00% | ~14,401 |
-| The Ring of Regeneration | 6.00% | ~12,344 |
+| The Cursed Farmer | 15.00% | ~30,862 |
+| The Mad Wizard | 11.00% | ~22,632 |
+| Are Ya Chicken? | 7.00% | ~14,402 |
+| The Ring of Regeneration | 6.00% | ~12,345 |
 | Were-verpowered | 5.00% | ~10,287 |
 | Mad Cow Disease | 5.00% | ~10,287 |
 | Friendly Imps | 5.00% | ~10,287 |
-| A Persistent Buzzing | 4.00% | ~8,229 |
-| Seeking Allies | 4.00% | ~8,229 |
-| Pure Energy | 4.00% | ~8,229 |
+| A Persistent Buzzing | 4.00% | ~8,230 |
+| Seeking Allies | 4.00% | ~8,230 |
+| Pure Energy | 4.00% | ~8,230 |
 | Terror in the Dark | 3.00% | ~6,172 |
 | Unearthed Evil | 3.00% | ~6,172 |
 | The Crumbling Temple | 3.00% | ~6,172 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,732 (Ranked 52)  
+Progressed: 205,748 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,732 | 2,026 |
+| 2023-07-04 | 205,748 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,375 (Ranked 37)  

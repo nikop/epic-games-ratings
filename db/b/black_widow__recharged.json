@@ -146,7 +146,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15923,
+  "EOS_Progressed": 15925,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -6361,6 +6361,11 @@
       "Time": "2023-07-04T02:30:44.6534471+00:00",
       "NumProgressed": 15923,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-04T04:06:34.6876565+00:00",
+      "NumProgressed": 15925,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -6372,7 +6377,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 12579
+      "UsersEstimate": 12581
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -6396,7 +6401,7 @@
       "Name": "Danger Ahead",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4458
+      "UsersEstimate": 4459
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -6404,7 +6409,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -6420,7 +6425,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -6428,7 +6433,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8439
+      "UsersEstimate": 8440
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -6452,7 +6457,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 4458
+      "UsersEstimate": 4459
     },
     {
       "ID": "ACH_THE_FALL",
@@ -6476,22 +6481,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15923,
+      "Progressed": 15925,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:35.6737755+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:34.6876561+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:50.9973325+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:50.7814192+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:35.6738651+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:00:56.0396357+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:34.6877039+00:00"
 }

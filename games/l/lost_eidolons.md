@@ -24,8 +24,8 @@ Rating: 4.33 (Ranked 755)
 | Let Us Cling Together | 2.00% | ~21 |
 | A Promised Voyage | 2.00% | ~21 |
 | Arrow in the Wind | 2.00% | ~21 |
+| Life or Death | 1.00% | ~10 |
 | First Bloom | 1.00% | ~10 |
-| Life or Death | 0.90% | ~9 |
 | Someone to Protect | 0.70% | ~7 |
 | Lean on Me | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)

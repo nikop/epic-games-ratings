@@ -2503,9 +2503,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 404650,
+  "EOS_Progressed": 404674,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6210,
+  "EOS_NewPlayers": 6217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10443,6 +10443,11 @@
       "Time": "2023-07-04T03:27:14.670553+00:00",
       "NumProgressed": 404650,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-04T04:03:51.8035179+00:00",
+      "NumProgressed": 404674,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -10462,7 +10467,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ACH_CARRYING",
@@ -10510,7 +10515,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16187
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -10558,7 +10563,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16187
     },
     {
       "ID": "ACH_JR_50",
@@ -10622,7 +10627,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20232
+      "UsersEstimate": 20234
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -10654,7 +10659,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -10670,7 +10675,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -10718,7 +10723,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20232
+      "UsersEstimate": 20234
     },
     {
       "ID": "ACH_WET_FEET",
@@ -10726,22 +10731,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16187
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 404650,
+      "Progressed": 404674,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-07-03T21:57:50.7761852+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:27:14.6705524+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:03:51.8035173+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:15.6655546+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:21:37.6172569+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:27:14.6706271+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:58:10.9885787+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:03:51.8035887+00:00"
 }

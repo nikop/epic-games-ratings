@@ -48,7 +48,7 @@ Rating: 4.41 (Ranked 671)
 | Go West | 11.00% | ~160 |
 | Bold and beautiful | 11.00% | ~160 |
 | A new Hope | 9.00% | ~131 |
-| Tycoon | 8.00% | ~117 |
+| Tycoon | 9.00% | ~131 |
 | Unstoppable | 7.00% | ~102 |
 | Track to the Future | 7.00% | ~102 |
 | Conductor | 5.00% | ~73 |

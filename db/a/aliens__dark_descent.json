@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
@@ -1601,6 +1601,11 @@
       "Time": "2023-07-04T02:30:43.7044057+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T04:06:33.5485644+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1708,7 +1713,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1724,7 +1729,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1732,7 +1737,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1788,7 +1793,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -1804,7 +1809,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1812,7 +1817,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ACH_MISSION_03",
@@ -1820,7 +1825,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_MISSION_04",
@@ -1860,7 +1865,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_MISSION_09",
@@ -1908,7 +1913,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1916,15 +1921,15 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
       "SetID": "816efe",
       "Name": "This Was No Papercut",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -1932,7 +1937,7 @@
       "Name": "People Person",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1940,7 +1945,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -1971,7 +1976,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 0
     }
   ],
@@ -1979,8 +1984,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:34.537116+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:33.5485632+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:00.4298128+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:34.5371616+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:59:52.0675497+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:33.5486106+00:00"
 }

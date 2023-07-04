@@ -12,19 +12,19 @@ Rating: 4.19 (Ranked 843)
 | Two Heads Are Better Than One | 1.00% | ~156 |
 | Chew 'Em Up | 1.00% | ~156 |
 | Float Like A Butterfly | 1.00% | ~156 |
+| Reforged | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
 | I Do Belong Here | 0.90% | ~141 |
 | Workplace Hazard | 0.90% | ~141 |
-| Reforged | 0.90% | ~141 |
 | Without A Paddle | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | Crash Site | 0.90% | ~141 |
 | Full Circle | 0.90% | ~141 |
+| Power Up | 0.90% | ~141 |
 | Terminated | 0.80% | ~125 |
 | If the SHU Fits... | 0.80% | ~125 |
 | What Lies Beneath | 0.80% | ~125 |
-| Power Up | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | The Commonality | 0.70% | ~109 |
 | The Outer Way | 0.70% | ~109 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,624 (Ranked 106)  
+Progressed: 15,625 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
-| 2023-07-04 | 15,624 | 63 |
+| 2023-07-04 | 15,625 | 63 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 381)  
 Sum: 358 (Ranked 321)  

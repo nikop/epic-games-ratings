@@ -5,13 +5,13 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,558 |
-| Copacetic Coordination | 16.00% | ~52,368 |
-| Fronting the Money | 14.00% | ~45,822 |
-| The Dawn of Automation | 14.00% | ~45,822 |
-| Extraordinary Logistics | 14.00% | ~45,822 |
-| Dirty Money | 13.00% | ~42,549 |
-| Family First | 13.00% | ~42,549 |
+| Corner Clout | 46.00% | ~150,560 |
+| Copacetic Coordination | 16.00% | ~52,369 |
+| Fronting the Money | 14.00% | ~45,823 |
+| The Dawn of Automation | 14.00% | ~45,823 |
+| Extraordinary Logistics | 14.00% | ~45,823 |
+| Dirty Money | 13.00% | ~42,550 |
+| Family First | 13.00% | ~42,550 |
 | Cleaning House | 12.00% | ~39,276 |
 | Room in the Back | 12.00% | ~39,276 |
 | Booze Baron | 11.00% | ~36,003 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~327 |
 | Station Master | 0.10% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,301 (Ranked 40)  
+Progressed: 327,304 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 5 (0.00%) (Ranked 232)
 | 2023-07-01 | 326,749 | 5 |
 | 2023-07-02 | 327,037 | 5 |
 | 2023-07-03 | 327,260 | 5 |
-| 2023-07-04 | 327,301 | 5 |
+| 2023-07-04 | 327,304 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 115 (Ranked 401)  

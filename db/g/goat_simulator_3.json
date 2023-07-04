@@ -2332,9 +2332,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 230872,
+  "EOS_Progressed": 230873,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 1308,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -10187,6 +10187,11 @@
       "Time": "2023-07-04T03:29:47.4299192+00:00",
       "NumProgressed": 230872,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-07-04T04:06:48.7410831+00:00",
+      "NumProgressed": 230873,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 39,
@@ -10326,7 +10331,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 122362
+      "UsersEstimate": 122363
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -10358,7 +10363,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 103892
+      "UsersEstimate": 103893
     },
     {
       "ID": "AchievementIntroID",
@@ -10366,7 +10371,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 131597
+      "UsersEstimate": 131598
     },
     {
       "ID": "AchievementLootBoxID",
@@ -10430,7 +10435,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 170845
+      "UsersEstimate": 170846
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -10509,7 +10514,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 230872,
+      "Progressed": 230873,
       "Completed": 758
     }
   ],
@@ -10517,8 +10522,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-04T00:00:18.3310965+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:47.4299187+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:48.7410818+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.6866674+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:53.0405549+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:47.4300679+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:00:58.9329732+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:48.7411573+00:00"
 }

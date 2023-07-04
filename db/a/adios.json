@@ -72,7 +72,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64569,
+  "EOS_Progressed": 64571,
   "EOS_Completed": 602,
   "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 20,
@@ -8072,6 +8072,11 @@
       "Time": "2023-07-04T03:29:38.7123794+00:00",
       "NumProgressed": 64569,
       "NumCompleted": 602
+    },
+    {
+      "Time": "2023-07-04T04:06:38.3129438+00:00",
+      "NumProgressed": 64571,
+      "NumCompleted": 602
     }
   ],
   "TotalAchievements": 25,
@@ -8099,7 +8104,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11622
+      "UsersEstimate": 11623
     },
     {
       "ID": "Audiophile",
@@ -8115,15 +8120,15 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14205
+      "UsersEstimate": 14206
     },
     {
       "ID": "Bottom\u0027s Up",
       "SetID": "1e8d2nk",
       "Name": "Bottom\u0027s Up",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 10977
+      "UsersEstimate": 11623
     },
     {
       "ID": "Butcher",
@@ -8139,7 +8144,7 @@
       "Name": "Cut Call",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "Fair\u0027sFair",
@@ -8282,7 +8287,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64569,
+      "Progressed": 64571,
       "Completed": 602
     }
   ],
@@ -8290,8 +8295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:38.7123788+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:38.3129427+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:56.3324389+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:38.7124653+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:01:03.2123464+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:38.313007+00:00"
 }

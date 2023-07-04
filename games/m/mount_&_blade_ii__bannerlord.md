@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 36.00% | ~19,770 |
+| Lawbringer | 36.00% | ~19,771 |
 | Landlord | 31.00% | ~17,025 |
 | Lawmaker | 22.00% | ~12,082 |
 | Bannerlord | 21.00% | ~11,533 |
@@ -23,8 +23,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 9.00% | ~4,943 |
 | I spit on your grave | 9.00% | ~4,943 |
 | What have the Romans ever done for us? | 9.00% | ~4,943 |
-| Butterlord | 8.00% | ~4,393 |
-| This Is Our Land | 8.00% | ~4,393 |
+| Butterlord | 8.00% | ~4,394 |
+| This Is Our Land | 8.00% | ~4,394 |
 | Mastery | 7.00% | ~3,844 |
 | Know your enemy | 6.00% | ~3,295 |
 | Crowdfunded | 4.00% | ~2,197 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,918 (Ranked 82)  
+Progressed: 54,919 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 54,716 | 0 |
 | 2023-07-02 | 54,836 | 0 |
 | 2023-07-03 | 54,912 | 0 |
-| 2023-07-04 | 54,918 | 0 |
+| 2023-07-04 | 54,919 | 0 |
 ## Awards
 Max (Character Customization): 6,754  (Ranked 48)  
 Sum: 13,632 (Ranked 67)  

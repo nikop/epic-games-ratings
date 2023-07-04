@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.75,
   "EosHistory": [
@@ -1726,6 +1726,11 @@
       "Time": "2023-07-03T21:06:06.0638542+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-04T04:06:32.9580913+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 16,
@@ -1761,7 +1766,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -1825,7 +1830,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -1833,7 +1838,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -1841,7 +1846,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_THEEND",
@@ -1864,7 +1869,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1120,
       "Completed": 42
     }
   ],
@@ -1872,8 +1877,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:34.0749492+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:32.9580907+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:19.9703455+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:22:19.26296+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:34.0749821+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:59:02.2609251+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:32.9581119+00:00"
 }

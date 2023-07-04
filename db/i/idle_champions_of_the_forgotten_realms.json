@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4726,9 +4726,9 @@
       "Count": 3286
     }
   ],
-  "EOS_Progressed": 205732,
+  "EOS_Progressed": 205748,
   "EOS_Completed": 2026,
-  "EOS_NewPlayers": 24178,
+  "EOS_NewPlayers": 24033,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -12581,6 +12581,11 @@
       "Time": "2023-07-04T03:30:06.5660699+00:00",
       "NumProgressed": 205732,
       "NumCompleted": 2026
+    },
+    {
+      "Time": "2023-07-04T04:07:08.0306864+00:00",
+      "NumProgressed": 205748,
+      "NumCompleted": 2026
     }
   ],
   "TotalAchievements": 503,
@@ -13568,7 +13573,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8230
     },
     {
       "ID": "objective_completed_130",
@@ -14264,7 +14269,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30860
+      "UsersEstimate": 30862
     },
     {
       "ID": "objective_completed_34",
@@ -14272,7 +14277,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12344
+      "UsersEstimate": 12345
     },
     {
       "ID": "objective_completed_35",
@@ -14384,7 +14389,7 @@
       "Name": "Seeking Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8230
     },
     {
       "ID": "objective_completed_390",
@@ -14456,7 +14461,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14401
+      "UsersEstimate": 14402
     },
     {
       "ID": "objective_completed_40",
@@ -15736,7 +15741,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22631
+      "UsersEstimate": 22632
     },
     {
       "ID": "objective_completed_70",
@@ -16336,7 +16341,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8230
     },
     {
       "ID": "objective_completed_902",
@@ -16615,21 +16620,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 172006,
+      "Progressed": 172022,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 205732,
+      "Progressed": 205748,
       "Completed": 2026
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-04T02:23:07.0426053+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:30:06.5660692+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:07:08.030686+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:21:51.2411591+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:30:06.5696896+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:58:29.6297834+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:07:08.0334723+00:00"
 }

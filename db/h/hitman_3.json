@@ -7039,9 +7039,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1303584,
+  "EOS_Progressed": 1303587,
   "EOS_Completed": 2094,
-  "EOS_NewPlayers": 3364,
+  "EOS_NewPlayers": 3361,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15049,6 +15049,11 @@
       "Time": "2023-07-04T03:29:42.9290003+00:00",
       "NumProgressed": 1303584,
       "NumCompleted": 2094
+    },
+    {
+      "Time": "2023-07-04T04:06:43.392737+00:00",
+      "NumProgressed": 1303587,
+      "NumCompleted": 2094
     }
   ],
   "TotalAchievements": 47,
@@ -15076,7 +15081,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 325896
+      "UsersEstimate": 325897
     },
     {
       "ID": "ACH_003",
@@ -15132,7 +15137,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 599649
+      "UsersEstimate": 599650
     },
     {
       "ID": "ACH_010",
@@ -15156,7 +15161,7 @@
       "Name": "Death From Above",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 599649
+      "UsersEstimate": 599650
     },
     {
       "ID": "ACH_013",
@@ -15204,7 +15209,7 @@
       "Name": "Master of the Household",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 508398
+      "UsersEstimate": 508399
     },
     {
       "ID": "ACH_019",
@@ -15252,7 +15257,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 469290
+      "UsersEstimate": 469291
     },
     {
       "ID": "ACH_025",
@@ -15300,7 +15305,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 430183
+      "UsersEstimate": 430184
     },
     {
       "ID": "ACH_031",
@@ -15324,7 +15329,7 @@
       "Name": "Console Cowboy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 130358
+      "UsersEstimate": 130359
     },
     {
       "ID": "ACH_034",
@@ -15348,7 +15353,7 @@
       "Name": "The Last Tango",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 417147
+      "UsersEstimate": 417148
     },
     {
       "ID": "ACH_037",
@@ -15396,7 +15401,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 404111
+      "UsersEstimate": 404112
     },
     {
       "ID": "ACH_043",
@@ -15428,22 +15433,22 @@
       "Name": "Last Stop",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 130358
+      "UsersEstimate": 130359
     }
   ],
   "AchievementSets": [
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1303584,
+      "Progressed": 1303587,
       "Completed": 2094
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-07-03T19:59:30.3910781+00:00",
-  "LastChanged_Achievements": "2023-07-04T03:29:42.9289997+00:00",
+  "LastChanged_Achievements": "2023-07-04T04:06:43.3927365+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:35.06653+00:00",
-  "LastUpdate_Ratings": "2023-07-04T03:23:07.1160517+00:00",
-  "LastUpdate_Achievements": "2023-07-04T03:29:42.9291051+00:00"
+  "LastUpdate_Ratings": "2023-07-04T04:00:00.2652101+00:00",
+  "LastUpdate_Achievements": "2023-07-04T04:06:43.3928335+00:00"
 }
