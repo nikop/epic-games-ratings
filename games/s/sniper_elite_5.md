@@ -7,6 +7,8 @@ Rating: 4.44 (Ranked 636)
 | ---- | ---------- | ----- |
 | Liberté | 1.00% | ~32 |
 | Meeting Resistance | 1.00% | ~32 |
+| Sharpshooter | 1.00% | ~32 |
+| Confirming Suspicions | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
@@ -15,12 +17,10 @@ Rating: 4.44 (Ranked 636)
 | The Kraken Sleeps | 1.00% | ~32 |
 | Climbing the Ladder | 0.90% | ~29 |
 | Gunslinger | 0.90% | ~29 |
-| Sharpshooter | 0.90% | ~29 |
-| Confirming Suspicions | 0.90% | ~29 |
 | Lord of War | 0.90% | ~29 |
+| As Quiet as a Mouse | 0.90% | ~29 |
 | The Kraken Wakes | 0.90% | ~29 |
 | No Stone Unturned | 0.80% | ~26 |
-| As Quiet as a Mouse | 0.80% | ~26 |
 | Organ Grinder | 0.70% | ~22 |
 | Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
@@ -36,8 +36,9 @@ Rating: 4.44 (Ranked 636)
 | Precision Is Key | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
 | Snake in the Grass | 0.40% | ~13 |
+| Tinkerer | 0.40% | ~13 |
+| The Long Game | 0.30% | ~10 |
 | Rigged to Blow | 0.30% | ~10 |
-| Tinkerer | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |
@@ -46,7 +47,6 @@ Rating: 4.44 (Ranked 636)
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
-| The Long Game | 0.20% | ~6 |
 | From Paris with Love | 0.20% | ~6 |
 | Burn after reading | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 636)
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,206 (Ranked 145)  
-Completed: 6 (0.19%) (Ranked 160)  
+Completed: 7 (0.22%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-07-01 | 3,187 | 6 |
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
-| 2023-07-04 | 3,206 | 6 |
+| 2023-07-04 | 3,206 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

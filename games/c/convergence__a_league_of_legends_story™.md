@@ -29,7 +29,7 @@
 | Check Your Pulse | 12.00% | ~89 |
 | Immaculate Aim | 12.00% | ~89 |
 | The Brass Boss | 12.00% | ~89 |
-| Street Style | 11.00% | ~81 |
+| Street Style | 11.00% | ~82 |
 | Right On Time | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |
 | Chaincrawler Explorer | 8.00% | ~59 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740 (Ranked 196)  
+Progressed: 741 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,3 +104,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-07-01 | 737 | 4 |
 | 2023-07-02 | 739 | 4 |
 | 2023-07-03 | 740 | 4 |
+| 2023-07-04 | 741 | 4 |

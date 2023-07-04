@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2939,
+  "EOS_Progressed": 2940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2066,6 +2066,11 @@
       "Time": "2023-07-03T22:05:50.9659594+00:00",
       "NumProgressed": 2939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T19:06:53.3541225+00:00",
+      "NumProgressed": 2940,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2253,7 +2258,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -2301,7 +2306,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Kills_Streak",
@@ -2309,7 +2314,7 @@
       "Name": "Purging Spree",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Kills_Vakir",
@@ -2548,21 +2553,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2939,
+      "Progressed": 2940,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2939,
+      "Progressed": 2940,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:06:51.1190296+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:06:53.3541219+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-04T17:59:04.1052961+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:06:51.1190915+00:00"
+  "LastUpdate_Ratings": "2023-07-04T18:59:10.2841059+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:06:53.3541958+00:00"
 }

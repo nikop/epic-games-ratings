@@ -12,7 +12,7 @@
 | Nanonic I | 11.00% | ~76 |
 | Terminated II | 10.00% | ~69 |
 | Challenge Mastered | 9.00% | ~62 |
-| Terminated III | 8.00% | ~55 |
+| Terminated III | 8.00% | ~56 |
 | Nanonic II | 7.00% | ~49 |
 | Cybernetic | 5.00% | ~35 |
 | Starship Docks | 5.00% | ~35 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 200)  
+Progressed: 694 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 688 | 0 |
 | 2023-07-02 | 689 | 0 |
 | 2023-07-03 | 692 | 0 |
-| 2023-07-04 | 693 | 0 |
+| 2023-07-04 | 694 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

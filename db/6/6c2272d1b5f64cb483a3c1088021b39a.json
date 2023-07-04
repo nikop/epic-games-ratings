@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -1926,6 +1926,11 @@
       "Time": "2023-07-04T05:02:14.8088702+00:00",
       "NumProgressed": 694,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T19:02:07.9464647+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1935,9 +1940,9 @@
       "ID": "adventurous_1",
       "SetID": "53c1p3k",
       "Name": "Adventurous 1",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 188
     },
     {
       "ID": "adventurous_2",
@@ -2057,7 +2062,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "conqueror_2",
@@ -2105,7 +2110,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "elemental_stones_2",
@@ -2303,9 +2308,9 @@
       "ID": "obsessed_carver_2",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 2",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "obsessed_carver_3",
@@ -2464,14 +2469,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:02:07.9319506+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:02:07.946464+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-04T17:57:10.0970609+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:02:07.9320265+00:00"
+  "LastUpdate_Ratings": "2023-07-04T18:57:08.7285268+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:02:07.9465734+00:00"
 }

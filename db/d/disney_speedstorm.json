@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2880,
+  "EOS_Progressed": 2881,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.92,
   "EosHistory": [
@@ -3145,6 +3145,11 @@
       "Time": "2023-07-04T18:04:55.5082604+00:00",
       "NumProgressed": 2880,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-07-04T19:05:06.5759567+00:00",
+      "NumProgressed": 2881,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 24,
@@ -3156,7 +3161,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "10",
@@ -3234,9 +3239,9 @@
       "ID": "19",
       "SetID": "9p3jgda",
       "Name": "DEFEAT OUR CHAMPION",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 85,
-      "UsersEstimate": 374
+      "UsersEstimate": 346
     },
     {
       "ID": "2",
@@ -3308,7 +3313,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "6",
@@ -3316,7 +3321,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "7",
@@ -3347,13 +3352,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2880,
+      "Progressed": 2881,
       "Completed": 84
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:04:55.5082597+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:05:06.5759561+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-04T17:59:26.1532481+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:04:55.5082963+00:00"
+  "LastUpdate_Ratings": "2023-07-04T18:59:28.9484522+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:05:06.5760046+00:00"
 }

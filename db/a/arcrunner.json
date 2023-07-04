@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1438,6 +1438,11 @@
       "Time": "2023-07-04T10:03:33.379943+00:00",
       "NumProgressed": 693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T19:03:47.1936188+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1633,7 +1638,7 @@
       "Name": "Terminated III",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1680,13 +1685,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 119,
+      "Progressed": 120,
       "Completed": 3
     }
   ],
@@ -1694,8 +1699,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:03:38.5636085+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:03:47.1936182+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:00:16.2761534+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:03:38.5636395+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:00:14.5983047+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:03:47.1936529+00:00"
 }

@@ -20,7 +20,7 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.60% | ~34 |
 | Newcomer: Vickie | 0.60% | ~34 |
 | Social Butterfly | 0.60% | ~34 |
-| The Muse: Madison | 0.50% | ~28 |
+| The Muse: Madison | 0.50% | ~29 |
 | Amy | 0.40% | ~23 |
 | Amy: Scavenger Hunt | 0.40% | ~23 |
 | I'll Be Back | 0.40% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,700 (Ranked 131)  
+Progressed: 5,701 (Ranked 131)  
 Completed: 3 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 3 (0.05%) (Ranked 199)
 | 2023-07-01 | 5,686 | 3 |
 | 2023-07-02 | 5,692 | 3 |
 | 2023-07-03 | 5,695 | 3 |
-| 2023-07-04 | 5,700 | 3 |
+| 2023-07-04 | 5,701 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

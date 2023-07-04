@@ -58,7 +58,7 @@ Rating: 4.49 (Ranked 570)
 | Mycophile | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23,996 (Ranked 96)  
-Completed: 46 (0.19%) (Ranked 160)  
+Completed: 46 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

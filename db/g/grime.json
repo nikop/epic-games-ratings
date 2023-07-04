@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-07-04T02:25:22.7778682+00:00",
       "NumProgressed": 617,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T19:02:19.6487621+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -802,7 +807,7 @@
       "Name": "Harmless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -922,7 +927,7 @@
       "Name": "Yank",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -1001,21 +1006,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 22
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 618,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:02:20.5739174+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:02:19.6487616+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:01:06.9343871+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:02:20.5739541+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:01:08.8329501+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:02:19.6488338+00:00"
 }

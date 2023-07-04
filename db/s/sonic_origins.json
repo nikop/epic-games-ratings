@@ -265,7 +265,7 @@
   ],
   "EOS_Progressed": 238,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 11.34,
   "EosHistory": [
@@ -911,9 +911,9 @@
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 188
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -1175,8 +1175,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:06:31.2358229+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:06:33.6723485+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-04T17:58:06.2780969+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:06:31.2358487+00:00"
+  "LastUpdate_Ratings": "2023-07-04T18:58:05.9830869+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:06:33.6723802+00:00"
 }

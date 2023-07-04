@@ -6,30 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,918 |
-| The Mad Wizard | 11.00% | ~22,674 |
-| Are Ya Chicken? | 7.00% | ~14,429 |
-| The Ring of Regeneration | 6.00% | ~12,367 |
-| Were-verpowered | 5.00% | ~10,306 |
-| Mad Cow Disease | 5.00% | ~10,306 |
-| Friendly Imps | 5.00% | ~10,306 |
-| A Persistent Buzzing | 4.00% | ~8,245 |
-| Seeking Allies | 4.00% | ~8,245 |
-| Pure Energy | 4.00% | ~8,245 |
+| The Cursed Farmer | 15.00% | ~30,922 |
+| The Mad Wizard | 11.00% | ~22,676 |
+| Are Ya Chicken? | 7.00% | ~14,430 |
+| The Ring of Regeneration | 6.00% | ~12,369 |
+| Were-verpowered | 5.00% | ~10,307 |
+| Mad Cow Disease | 5.00% | ~10,307 |
+| Friendly Imps | 5.00% | ~10,307 |
+| A Persistent Buzzing | 4.00% | ~8,246 |
+| Seeking Allies | 4.00% | ~8,246 |
+| Pure Energy | 4.00% | ~8,246 |
 | Terror in the Dark | 3.00% | ~6,184 |
 | Unearthed Evil | 3.00% | ~6,184 |
 | The Crumbling Temple | 3.00% | ~6,184 |
 | The Contagious Curse | 3.00% | ~6,184 |
-| Beast Mode | 2.00% | ~4,122 |
-| Low Initiative | 2.00% | ~4,122 |
-| A Mysterious Summons | 2.00% | ~4,122 |
-| Building Trust | 2.00% | ~4,122 |
-| Useless Allies | 2.00% | ~4,122 |
-| Exploring Port Nyanzaru | 2.00% | ~4,122 |
-| Running of the Saurs | 2.00% | ~4,122 |
-| Escort to Waterdeep | 2.00% | ~4,122 |
-| Waterdeep Detours | 2.00% | ~4,122 |
-| Underdeep Cartography | 2.00% | ~4,122 |
+| Beast Mode | 2.00% | ~4,123 |
+| Low Initiative | 2.00% | ~4,123 |
+| A Mysterious Summons | 2.00% | ~4,123 |
+| Building Trust | 2.00% | ~4,123 |
+| Useless Allies | 2.00% | ~4,123 |
+| Exploring Port Nyanzaru | 2.00% | ~4,123 |
+| Running of the Saurs | 2.00% | ~4,123 |
+| Escort to Waterdeep | 2.00% | ~4,123 |
+| Waterdeep Detours | 2.00% | ~4,123 |
+| Underdeep Cartography | 2.00% | ~4,123 |
+| Street War | 1.00% | ~2,061 |
 | March of the Undead | 1.00% | ~2,061 |
 | No Time To Rest | 1.00% | ~2,061 |
 | Invisible Shadows | 1.00% | ~2,061 |
@@ -45,7 +46,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 1.00% | ~2,061 |
 | Rescue in the Jungle | 1.00% | ~2,061 |
 | Homecoming | 0.90% | ~1,855 |
-| Street War | 0.90% | ~1,855 |
 | Dinosaur Racing | 0.90% | ~1,855 |
 | The Lost Heir of Omu | 0.80% | ~1,649 |
 | Trollskull Manor | 0.80% | ~1,649 |
@@ -68,7 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,237 |
 | The Darkness Runs Deeper | 0.60% | ~1,237 |
 | Market Fluctuations | 0.60% | ~1,237 |
-| The Giant's Bane Tavern | 0.60% | ~1,034 |
+| The Giant's Bane Tavern | 0.60% | ~1,035 |
 | Rude Welcome | 0.60% | ~1,237 |
 | Durable Deep | 0.60% | ~1,237 |
 | The Haunted Jungle | 0.60% | ~1,237 |
@@ -83,33 +83,33 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.50% | ~1,031 |
 | Difficult Terrain | 0.50% | ~1,031 |
 | The Everlasting Rime | 0.50% | ~862 |
-| Lobsterfolk Assault | 0.40% | ~824 |
-| Home Field Advantage | 0.40% | ~824 |
-| Force Grey Unleashed | 0.40% | ~824 |
-| Vajra's Guards | 0.40% | ~824 |
-| Azaka's Procession - Part 1 | 0.40% | ~824 |
-| Azaka's Procession - Part 2 | 0.40% | ~824 |
-| Werewolves in the Mist | 0.40% | ~824 |
-| Chatty Nobles | 0.40% | ~824 |
-| Modron Assistance | 0.40% | ~824 |
-| Haaave You Met Asmodeus? | 0.40% | ~824 |
-| Domesticated Owlbears | 0.40% | ~824 |
-| The Gargoyle's Apprentice | 0.40% | ~824 |
-| Flies on the Wall | 0.40% | ~824 |
-| Backtracking Through Barovia | 0.40% | ~824 |
-| Excavating History | 0.40% | ~824 |
-| Cramped Quarters | 0.40% | ~824 |
-| Slow and Steady | 0.40% | ~824 |
-| Waterdeep Under Siege | 0.40% | ~824 |
-| Vault of Dragons | 0.40% | ~824 |
-| Champions of Waterdeep | 0.40% | ~824 |
-| Elturel Has Fallen | 0.40% | ~824 |
-| Resolve Amongst Chaos | 0.40% | ~824 |
-| Once More Into The Breach | 0.40% | ~824 |
+| Lobsterfolk Assault | 0.40% | ~825 |
+| Home Field Advantage | 0.40% | ~825 |
+| Force Grey Unleashed | 0.40% | ~825 |
+| Vajra's Guards | 0.40% | ~825 |
+| Azaka's Procession - Part 1 | 0.40% | ~825 |
+| Azaka's Procession - Part 2 | 0.40% | ~825 |
+| Werewolves in the Mist | 0.40% | ~825 |
+| Chatty Nobles | 0.40% | ~825 |
+| Modron Assistance | 0.40% | ~825 |
+| Haaave You Met Asmodeus? | 0.40% | ~825 |
+| Domesticated Owlbears | 0.40% | ~825 |
+| The Gargoyle's Apprentice | 0.40% | ~825 |
+| Flies on the Wall | 0.40% | ~825 |
+| Backtracking Through Barovia | 0.40% | ~825 |
+| Excavating History | 0.40% | ~825 |
+| Cramped Quarters | 0.40% | ~825 |
+| Slow and Steady | 0.40% | ~825 |
+| Waterdeep Under Siege | 0.40% | ~825 |
+| Vault of Dragons | 0.40% | ~825 |
+| Champions of Waterdeep | 0.40% | ~825 |
+| Elturel Has Fallen | 0.40% | ~825 |
+| Resolve Amongst Chaos | 0.40% | ~825 |
+| Once More Into The Breach | 0.40% | ~825 |
 | Into The Fire | 0.40% | ~690 |
 | Moose Tracks | 0.40% | ~690 |
-| Expert Opinion | 0.40% | ~824 |
-| Poor Guidance | 0.40% | ~824 |
+| Expert Opinion | 0.40% | ~825 |
+| Poor Guidance | 0.40% | ~825 |
 | Anti-Dexterous Explorers | 0.30% | ~618 |
 | Not Very Charming | 0.30% | ~618 |
 | Periodic Petrification | 0.30% | ~618 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,123 (Ranked 52)  
+Progressed: 206,149 (Ranked 52)  
 Completed: 2,027 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,027 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 206,123 | 2,027 |
+| 2023-07-04 | 206,149 | 2,027 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,378 (Ranked 37)  

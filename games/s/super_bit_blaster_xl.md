@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 1K | 88.00% | ~137 |
+| 1K | 88.00% | ~138 |
 | 2.5K | 85.00% | ~133 |
-| 10K | 74.00% | ~115 |
-| 15K | 71.00% | ~111 |
-| 25K | 65.00% | ~101 |
-| 5K | 65.00% | ~101 |
-| 50K | 56.00% | ~87 |
+| 10K | 73.00% | ~115 |
+| 15K | 70.00% | ~110 |
+| 25K | 65.00% | ~102 |
+| 5K | 65.00% | ~102 |
+| 50K | 55.00% | ~86 |
 | 75K | 50.00% | ~78 |
-| Bit Blaster V2 | 40.00% | ~62 |
-| 500K | 35.00% | ~55 |
-| 1.5 Million | 24.00% | ~37 |
-| Bit Blaster V3 | 22.00% | ~34 |
+| Bit Blaster V2 | 40.00% | ~63 |
+| 500K | 34.00% | ~53 |
+| 1.5 Million | 24.00% | ~38 |
+| Bit Blaster V3 | 22.00% | ~35 |
 | Bit Blaster V4 | 17.00% | ~27 |
 | Bit Blaster V5 | 13.00% | ~20 |
 | Bit Blaster V6 | 10.00% | ~16 |
 | Bit Blaster V7 | 7.00% | ~11 |
 | Bit Blaster V8 | 4.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 280)  
-Completed: 7 (4.49%) (Ranked 42)  
+Progressed: 157 (Ranked 280)  
+Completed: 7 (4.46%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,3 +68,4 @@ Completed: 7 (4.49%) (Ranked 42)
 | 2023-06-27 | 154 | 6 |
 | 2023-06-28 | 155 | 7 |
 | 2023-06-30 | 156 | 7 |
+| 2023-07-04 | 157 | 7 |

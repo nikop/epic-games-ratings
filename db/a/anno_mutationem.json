@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -371,6 +371,11 @@
       "Time": "2023-07-03T18:03:53.0738003+00:00",
       "NumProgressed": 645,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T19:03:34.5858205+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -470,7 +475,7 @@
       "Name": "I just love stuff!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "I_think_its_broke",
@@ -478,7 +483,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "In the smacker...I think",
@@ -486,7 +491,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Keep_em_coming",
@@ -494,7 +499,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Lady_Luck",
@@ -558,7 +563,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "The Traveler",
@@ -646,7 +651,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "posters",
@@ -669,7 +674,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 0
     }
   ],
@@ -677,8 +682,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-07-03T09:58:01.4780031+00:00",
-  "LastChanged_Achievements": "2023-07-04T18:03:26.4850767+00:00",
+  "LastChanged_Achievements": "2023-07-04T19:03:34.5858199+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:53.5100026+00:00",
-  "LastUpdate_Ratings": "2023-07-04T17:57:50.3307693+00:00",
-  "LastUpdate_Achievements": "2023-07-04T18:03:26.485106+00:00"
+  "LastUpdate_Ratings": "2023-07-04T18:57:50.5007526+00:00",
+  "LastUpdate_Achievements": "2023-07-04T19:03:34.5858544+00:00"
 }

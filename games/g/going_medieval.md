@@ -1,45 +1,45 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 389)  
+Rating: 4.60 (Ranked 390)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 73.00% | ~3,176 |
-| Having A Field Day | 72.00% | ~3,133 |
-| Reap What You Sow | 69.00% | ~3,002 |
-| The First Day | 66.00% | ~2,872 |
-| Green Thumb | 65.00% | ~2,828 |
-| Novice Researcher | 63.00% | ~2,741 |
-| Putting Food on the Table | 59.00% | ~2,567 |
-| Onward | 54.00% | ~2,350 |
-| Home Cooked Meal | 53.00% | ~2,306 |
-| The First Week | 52.00% | ~2,263 |
-| Studious Researcher | 50.00% | ~2,176 |
-| Beam Me Up | 49.00% | ~2,132 |
-| Feast or Famine | 49.00% | ~2,132 |
-| Adept Researcher | 44.00% | ~1,914 |
-| Retribution | 39.00% | ~1,697 |
-| ...And Don’t Come Back! | 39.00% | ~1,697 |
-| Fit For A King | 38.00% | ~1,653 |
-| Luminary Researcher | 34.00% | ~1,479 |
-| Heating Up | 27.00% | ~1,175 |
-| Winter Is Coming | 24.00% | ~1,044 |
-| Winter Is Here | 21.00% | ~914 |
-| Disassembled | 18.00% | ~783 |
-| A Party Now | 18.00% | ~783 |
-| Oh Deer! | 18.00% | ~783 |
-| All Year Round | 18.00% | ~783 |
-| Nothing Wasted | 12.00% | ~522 |
+| Get A Room | 73.00% | ~3,179 |
+| Having A Field Day | 72.00% | ~3,136 |
+| Reap What You Sow | 69.00% | ~3,005 |
+| The First Day | 66.00% | ~2,874 |
+| Green Thumb | 65.00% | ~2,831 |
+| Novice Researcher | 63.00% | ~2,744 |
+| Putting Food on the Table | 59.00% | ~2,569 |
+| Onward | 54.00% | ~2,352 |
+| Home Cooked Meal | 53.00% | ~2,308 |
+| The First Week | 52.00% | ~2,265 |
+| Studious Researcher | 50.00% | ~2,178 |
+| Beam Me Up | 49.00% | ~2,134 |
+| Feast or Famine | 49.00% | ~2,134 |
+| Adept Researcher | 44.00% | ~1,916 |
+| Retribution | 39.00% | ~1,698 |
+| ...And Don’t Come Back! | 39.00% | ~1,698 |
+| Fit For A King | 38.00% | ~1,655 |
+| Luminary Researcher | 34.00% | ~1,481 |
+| Heating Up | 27.00% | ~1,176 |
+| Winter Is Coming | 24.00% | ~1,045 |
+| Winter Is Here | 21.00% | ~915 |
+| Disassembled | 18.00% | ~784 |
+| A Party Now | 18.00% | ~784 |
+| Oh Deer! | 18.00% | ~784 |
+| All Year Round | 18.00% | ~784 |
+| Nothing Wasted | 12.00% | ~523 |
 | Don't Cry Wolf | 11.00% | ~479 |
 | Deerly Departed | 8.00% | ~348 |
 | Where Wolf? | 5.00% | ~218 |
 | Food Chain | 2.00% | ~87 |
 | Wabbit Season | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,351 (Ranked 138)  
-Completed: 9 (0.21%) (Ranked 158)  
+Progressed: 4,355 (Ranked 138)  
+Completed: 9 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 9 (0.21%) (Ranked 158)
 | 2023-07-01 | 4,281 | 9 |
 | 2023-07-02 | 4,310 | 9 |
 | 2023-07-03 | 4,331 | 9 |
-| 2023-07-04 | 4,351 | 9 |
+| 2023-07-04 | 4,355 | 9 |
 ## Awards
 Max (Relaxing): 120  (Ranked 310)  
 Sum: 958 (Ranked 239)  
