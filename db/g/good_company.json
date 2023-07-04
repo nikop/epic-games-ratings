@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5086,
+  "EOS_Progressed": 5087,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2034,6 +2034,11 @@
       "Time": "2023-07-04T11:03:40.2812057+00:00",
       "NumProgressed": 5086,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T14:02:33.232065+00:00",
+      "NumProgressed": 5087,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2157,7 +2162,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2197,7 +2202,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "ach_campaign_special10",
@@ -2652,15 +2657,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5086,
+      "Progressed": 5087,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:20:30.6977621+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:02:33.2320646+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.8817899+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:17:27.778448+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:20:30.6978593+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:59:01.767715+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:02:33.232141+00:00"
 }

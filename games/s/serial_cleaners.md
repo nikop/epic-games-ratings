@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Clean Conscience | 22.00% | ~46 |
 | So it goes | 21.00% | ~44 |
-| Clean Conscience | 21.00% | ~44 |
 | A New Broom Sweeps Clean | 11.00% | ~23 |
 | Small-time Finder | 10.00% | ~21 |
 | Off to a Good Start | 9.00% | ~19 |
 | Business as usual | 7.00% | ~15 |
+| Mr. Hygeni | 6.00% | ~13 |
 | Pride and Joy | 5.00% | ~10 |
 | Eyes Yet To Open | 5.00% | ~10 |
-| Mr. Hygeni | 5.00% | ~10 |
 | Hackathon | 4.00% | ~8 |
 | Total Recall | 3.00% | ~6 |
 | The Wing and the Thigh | 3.00% | ~6 |

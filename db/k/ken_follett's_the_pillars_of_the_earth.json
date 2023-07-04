@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13690,
+  "EOS_Progressed": 13691,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5459,6 +5459,11 @@
       "Time": "2023-07-04T13:24:27.4894557+00:00",
       "NumProgressed": 13690,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-04T14:05:51.6275594+00:00",
+      "NumProgressed": 13691,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5494,7 +5499,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "tpote_achievement_13",
@@ -5502,7 +5507,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "tpote_achievement_14",
@@ -5710,7 +5715,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "tpote_achievement_38",
@@ -5797,15 +5802,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13690,
+      "Progressed": 13691,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:24:27.489455+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:05:51.627559+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:18:34.6811379+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:24:27.4895161+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:00:01.6669141+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:05:51.6276102+00:00"
 }

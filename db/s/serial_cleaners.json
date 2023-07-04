@@ -480,9 +480,9 @@
       "ID": "PERFECT_CLEANED_ONE_MAP",
       "SetID": "2lk004m",
       "Name": "Mr. Hygeni",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -496,9 +496,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "VIPER_HACKING",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:24:34.9167834+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:06:08.0607268+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.7587058+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:17:41.7058715+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:24:34.9168045+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:59:16.7675215+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:06:08.0607425+00:00"
 }

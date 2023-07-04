@@ -506,9 +506,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_DontPanic",
@@ -522,9 +522,9 @@
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 383
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -803,8 +803,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:22:36.2230409+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:04:20.9673951+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:38.5301057+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:17:18.4691164+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:22:36.2230797+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:58:54.2874262+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:04:20.967426+00:00"
 }

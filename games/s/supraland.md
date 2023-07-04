@@ -6,57 +6,57 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~707,749 |
-| The Blues | 85.00% | ~607,663 |
-| Fast | 66.00% | ~471,833 |
-| Healthbar | 55.00% | ~393,194 |
-| Force Cube | 53.00% | ~378,896 |
-| Double Jump | 48.00% | ~343,151 |
-| Regeneration | 47.00% | ~336,002 |
-| Climb the hill | 42.00% | ~300,257 |
-| Triple Jump | 42.00% | ~300,257 |
-| Through the fire pipe | 38.00% | ~271,661 |
-| MacGuffin | 38.00% | ~271,661 |
-| Just once | 36.00% | ~257,363 |
-| Armor | 30.00% | ~214,469 |
-| True holy spirit | 27.00% | ~193,022 |
-| That's how electronics work obviously | 26.00% | ~185,873 |
-| Force Cube Catapult | 25.00% | ~178,724 |
-| Holy Sword | 23.00% | ~164,427 |
-| Telefrag | 22.00% | ~157,278 |
-| Freed from prison | 21.00% | ~150,129 |
-| Stomp | 21.00% | ~150,129 |
-| Double Health | 18.00% | ~128,682 |
-| Buckle | 17.00% | ~121,533 |
-| Green Keycard | 17.00% | ~121,533 |
-| Rattle Hag | 15.00% | ~107,235 |
-| All Shells | 14.00% | ~100,086 |
-| Beam | 14.00% | ~100,086 |
-| 9 | 13.00% | ~92,937 |
-| Purple Cube | 13.00% | ~92,937 |
-| Supraball Noob | 13.00% | ~92,937 |
-| Health Drink | 12.00% | ~85,788 |
-| Helped a star | 12.00% | ~85,788 |
-| Strong | 12.00% | ~85,788 |
-| Blue King's lair | 11.00% | ~78,639 |
-| Got the gun back | 11.00% | ~78,639 |
-| Infiltrated | 11.00% | ~78,639 |
-| Robbed | 11.00% | ~78,639 |
-| Payback | 10.00% | ~71,490 |
-| Got the coins back | 10.00% | ~71,490 |
-| Cave Flies | 10.00% | ~71,490 |
-| Gold Scam | 10.00% | ~71,490 |
-| Gold Scam Uncovered | 10.00% | ~71,490 |
-| Translocator | 10.00% | ~71,490 |
-| Yellow Shot Button | 10.00% | ~71,490 |
-| Fire Flies | 9.00% | ~64,341 |
-| Moon Door | 9.00% | ~64,341 |
-| Momentum | 9.00% | ~64,341 |
-| Panic Lights | 9.00% | ~64,341 |
-| Through the tiny pipe | 8.00% | ~57,192 |
-| Win! | 8.00% | ~57,192 |
-| The real real teleported man | 7.00% | ~50,043 |
-| Well deserved | 6.00% | ~42,894 |
+| Out of bed | 99.00% | ~707,761 |
+| The Blues | 85.00% | ~607,674 |
+| Fast | 66.00% | ~471,841 |
+| Healthbar | 55.00% | ~393,201 |
+| Force Cube | 53.00% | ~378,902 |
+| Double Jump | 48.00% | ~343,157 |
+| Regeneration | 47.00% | ~336,008 |
+| Climb the hill | 42.00% | ~300,262 |
+| Triple Jump | 42.00% | ~300,262 |
+| Through the fire pipe | 38.00% | ~271,666 |
+| MacGuffin | 38.00% | ~271,666 |
+| Just once | 36.00% | ~257,368 |
+| Armor | 30.00% | ~214,473 |
+| True holy spirit | 27.00% | ~193,026 |
+| That's how electronics work obviously | 26.00% | ~185,877 |
+| Force Cube Catapult | 25.00% | ~178,728 |
+| Holy Sword | 23.00% | ~164,429 |
+| Telefrag | 22.00% | ~157,280 |
+| Freed from prison | 21.00% | ~150,131 |
+| Stomp | 21.00% | ~150,131 |
+| Double Health | 18.00% | ~128,684 |
+| Buckle | 17.00% | ~121,535 |
+| Green Keycard | 17.00% | ~121,535 |
+| Rattle Hag | 15.00% | ~107,236 |
+| All Shells | 14.00% | ~100,087 |
+| Beam | 14.00% | ~100,087 |
+| 9 | 13.00% | ~92,938 |
+| Purple Cube | 13.00% | ~92,938 |
+| Supraball Noob | 13.00% | ~92,938 |
+| Health Drink | 12.00% | ~85,789 |
+| Helped a star | 12.00% | ~85,789 |
+| Strong | 12.00% | ~85,789 |
+| Blue King's lair | 11.00% | ~78,640 |
+| Got the gun back | 11.00% | ~78,640 |
+| Infiltrated | 11.00% | ~78,640 |
+| Robbed | 11.00% | ~78,640 |
+| Payback | 10.00% | ~71,491 |
+| Got the coins back | 10.00% | ~71,491 |
+| Cave Flies | 10.00% | ~71,491 |
+| Gold Scam | 10.00% | ~71,491 |
+| Gold Scam Uncovered | 10.00% | ~71,491 |
+| Translocator | 10.00% | ~71,491 |
+| Yellow Shot Button | 10.00% | ~71,491 |
+| Fire Flies | 9.00% | ~64,342 |
+| Moon Door | 9.00% | ~64,342 |
+| Momentum | 9.00% | ~64,342 |
+| Panic Lights | 9.00% | ~64,342 |
+| Through the tiny pipe | 8.00% | ~57,193 |
+| Win! | 8.00% | ~57,193 |
+| The real real teleported man | 7.00% | ~50,044 |
+| Well deserved | 6.00% | ~42,895 |
 | Happiness | 3.00% | ~21,447 |
 | Super Sword | 3.00% | ~21,447 |
 | All Chests | 2.00% | ~14,298 |
@@ -66,20 +66,20 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,149 |
 | Jesus Christ Suprastar | 1.00% | ~7,149 |
 | Redstone Pickaxe | 1.00% | ~7,149 |
-| DLC: Green Bird | 0.50% | ~3,574 |
-| DLC: Basement Robbery | 0.50% | ~3,574 |
-| DLC: Rooftop Chase | 0.50% | ~3,574 |
-| DLC: Home Invasion | 0.50% | ~3,574 |
-| DLC: Crashed again | 0.50% | ~3,574 |
-| DLC: Crashed | 0.50% | ~3,574 |
-| DLC: Discovering the Globe | 0.50% | ~3,574 |
-| DLC: Gotta Jump High | 0.50% | ~3,574 |
-| DLC: Gotta Run Fast | 0.50% | ~3,574 |
-| DLC: Monster Maker | 0.50% | ~3,574 |
-| DLC: Race the First | 0.50% | ~3,574 |
-| DLC: No-ball Winner | 0.50% | ~3,574 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,574 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,574 |
+| DLC: Green Bird | 0.50% | ~3,575 |
+| DLC: Basement Robbery | 0.50% | ~3,575 |
+| DLC: Rooftop Chase | 0.50% | ~3,575 |
+| DLC: Home Invasion | 0.50% | ~3,575 |
+| DLC: Crashed again | 0.50% | ~3,575 |
+| DLC: Crashed | 0.50% | ~3,575 |
+| DLC: Discovering the Globe | 0.50% | ~3,575 |
+| DLC: Gotta Jump High | 0.50% | ~3,575 |
+| DLC: Gotta Run Fast | 0.50% | ~3,575 |
+| DLC: Monster Maker | 0.50% | ~3,575 |
+| DLC: Race the First | 0.50% | ~3,575 |
+| DLC: No-ball Winner | 0.50% | ~3,575 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,575 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,575 |
 | DLC: The palace job | 0.40% | ~2,860 |
 | DLC: A Criminal Revealed | 0.40% | ~2,860 |
 | DLC: Crashed again (again) | 0.40% | ~2,860 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~715 |
 | DLC: Top of the world | 0.10% | ~715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,898 (Ranked 16)  
+Progressed: 714,910 (Ranked 16)  
 Completed: 706 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 706 (0.10%) (Ranked 179)
 | 2023-07-01 | 714,474 | 702 |
 | 2023-07-02 | 714,672 | 704 |
 | 2023-07-03 | 714,824 | 706 |
-| 2023-07-04 | 714,898 | 706 |
+| 2023-07-04 | 714,910 | 706 |
 ## Awards
 Max (Challenging Puzzles): 7,633  (Ranked 42)  
 Sum: 9,944 (Ranked 81)  

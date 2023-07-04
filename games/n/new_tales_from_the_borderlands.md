@@ -7,7 +7,7 @@ Rating: 4.09 (Ranked 889)
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 49.00% | ~1,695 |
 | Totally Intentional | 44.00% | ~1,522 |
-| Each Sold Separately | 36.00% | ~1,245 |
+| Each Sold Separately | 37.00% | ~1,280 |
 | We're In | 32.00% | ~1,107 |
 | You're Not Naked | 29.00% | ~1,003 |
 | Tale in the Toilet | 29.00% | ~1,003 |

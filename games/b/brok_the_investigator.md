@@ -17,11 +17,11 @@
 | Chapter 6 | 19.00% | ~3 |
 | Highway Survival | 19.00% | ~3 |
 | Ads Fan | 13.00% | ~2 |
+| Food Thief | 13.00% | ~2 |
 | Paw Music | 13.00% | ~2 |
 | Sugar Pills Lover | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |
 | Chipmunk | 6.00% | ~1 |
-| Food Thief | 6.00% | ~1 |
 | Tramp Saver | 6.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |

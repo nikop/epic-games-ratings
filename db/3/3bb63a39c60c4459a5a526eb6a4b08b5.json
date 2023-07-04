@@ -763,9 +763,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "LargeAirport",
@@ -931,9 +931,9 @@
       "ID": "ScenarioAmateur",
       "SetID": "1e89b4i",
       "Name": "Scenario Amateur",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ScenarioExpert",
@@ -955,9 +955,9 @@
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "TransportHub",
@@ -978,8 +978,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:20:22.9213124+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:02:26.8198428+00:00",
   "LastUpdate_AppInfo": "2023-07-04T07:57:07.1618856+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:14:55.7482071+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:20:22.9213496+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:57:04.948103+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:02:26.8198715+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3205,
+  "EOS_Progressed": 3206,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4653,6 +4653,11 @@
       "Time": "2023-07-03T22:05:50.2327143+00:00",
       "NumProgressed": 3205,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-04T14:06:16.3380542+00:00",
+      "NumProgressed": 3206,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 71,
@@ -4662,9 +4667,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -4758,9 +4763,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -4862,9 +4867,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -4998,9 +5003,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -5231,13 +5236,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3205,
+      "Progressed": 3206,
       "Completed": 6
     }
   ],
@@ -5245,8 +5250,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-06-29T14:01:59.8429571+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:24:44.5761706+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:06:16.3380537+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:19:12.3627316+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:24:44.5762659+00:00"
+  "LastUpdate_Ratings": "2023-07-04T14:00:34.9513907+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:06:16.3382769+00:00"
 }

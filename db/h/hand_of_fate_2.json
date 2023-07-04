@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658822,
+  "EOS_Progressed": 658824,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7876,6 +7876,11 @@
       "Time": "2023-07-04T13:24:38.0154498+00:00",
       "NumProgressed": 658822,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-04T14:06:10.7000903+00:00",
+      "NumProgressed": 658824,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7887,7 +7892,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 474352
+      "UsersEstimate": 474353
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -7895,7 +7900,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382117
+      "UsersEstimate": 382118
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -7903,7 +7908,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151529
+      "UsersEstimate": 151530
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -8023,7 +8028,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151529
+      "UsersEstimate": 151530
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -8270,15 +8275,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658822,
+      "Progressed": 658824,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:24:38.0154493+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:06:10.70009+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:15:47.6578796+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:24:38.0155276+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:57:47.0968925+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:06:10.7001518+00:00"
 }

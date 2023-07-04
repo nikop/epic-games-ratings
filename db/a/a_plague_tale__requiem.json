@@ -344,7 +344,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11945,
+  "EOS_Progressed": 11946,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -4844,6 +4844,11 @@
       "Time": "2023-07-04T12:07:13.8387277+00:00",
       "NumProgressed": 11945,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-07-04T14:06:10.6806416+00:00",
+      "NumProgressed": 11946,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 35,
@@ -4855,7 +4860,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 10989
+      "UsersEstimate": 10990
     },
     {
       "ID": "ACH_02",
@@ -4863,7 +4868,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 9317
+      "UsersEstimate": 9318
     },
     {
       "ID": "ACH_03",
@@ -4871,7 +4876,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 8720
+      "UsersEstimate": 8721
     },
     {
       "ID": "ACH_04",
@@ -4879,7 +4884,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8242
+      "UsersEstimate": 8243
     },
     {
       "ID": "ACH_05",
@@ -4887,7 +4892,7 @@
       "Name": "In our Wake",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ACH_06",
@@ -4903,7 +4908,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7286
+      "UsersEstimate": 7287
     },
     {
       "ID": "ACH_08",
@@ -4919,7 +4924,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "ACH_10",
@@ -4935,7 +4940,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "ACH_12",
@@ -4943,7 +4948,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "ACH_13",
@@ -4959,7 +4964,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "ACH_15",
@@ -4967,7 +4972,7 @@
       "Name": "Dying Sun",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3822
+      "UsersEstimate": 3823
     },
     {
       "ID": "ACH_16",
@@ -5047,7 +5052,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "ACH_26",
@@ -5111,7 +5116,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "ACH_34",
@@ -5127,14 +5132,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 11945,
+      "Progressed": 11946,
       "Completed": 36
     }
   ],
@@ -5142,8 +5147,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-07-02T14:59:55.8150218+00:00",
-  "LastChanged_Achievements": "2023-07-04T13:24:38.2600603+00:00",
+  "LastChanged_Achievements": "2023-07-04T14:06:10.6806411+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.5406899+00:00",
-  "LastUpdate_Ratings": "2023-07-04T13:17:57.2163527+00:00",
-  "LastUpdate_Achievements": "2023-07-04T13:24:38.2601165+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:59:30.3677171+00:00",
+  "LastUpdate_Achievements": "2023-07-04T14:06:10.6806956+00:00"
 }
