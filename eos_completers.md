@@ -23,7 +23,7 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.38% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.37% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
@@ -62,8 +62,8 @@
 | 60 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.67% |
 | 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
+| 64 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.66% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
@@ -124,8 +124,8 @@
 | 122 | [Potion Permit](games/p/potion_permit.md) | 0.55% |
 | 122 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 124 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.51% |
-| 126 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Aragami 2](games/a/aragami_2.md) | 0.50% |
+| 125 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.50% |
 | 127 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.47% |
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
