@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4726,9 +4726,9 @@
       "Count": 3286
     }
   ],
-  "EOS_Progressed": 205796,
+  "EOS_Progressed": 205810,
   "EOS_Completed": 2026,
-  "EOS_NewPlayers": 23524,
+  "EOS_NewPlayers": 23282,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -12596,6 +12596,11 @@
       "Time": "2023-07-04T06:06:12.8061673+00:00",
       "NumProgressed": 205796,
       "NumCompleted": 2026
+    },
+    {
+      "Time": "2023-07-04T07:06:29.2901673+00:00",
+      "NumProgressed": 205810,
+      "NumCompleted": 2026
     }
   ],
   "TotalAchievements": 503,
@@ -13565,9 +13570,9 @@
       "ID": "objective_completed_127",
       "SetID": "cc37lbc",
       "Name": "Wagon Train",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 412
     },
     {
       "ID": "objective_completed_129",
@@ -13597,9 +13602,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 823
     },
     {
       "ID": "objective_completed_132",
@@ -14279,7 +14284,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 30869
+      "UsersEstimate": 30872
     },
     {
       "ID": "objective_completed_34",
@@ -14287,7 +14292,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12348
+      "UsersEstimate": 12349
     },
     {
       "ID": "objective_completed_35",
@@ -14471,7 +14476,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14406
+      "UsersEstimate": 14407
     },
     {
       "ID": "objective_completed_40",
@@ -15687,7 +15692,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "objective_completed_691",
@@ -15751,7 +15756,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22638
+      "UsersEstimate": 22639
     },
     {
       "ID": "objective_completed_70",
@@ -16630,21 +16635,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 172070,
+      "Progressed": 172084,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 205796,
+      "Progressed": 205810,
       "Completed": 2026
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-04T02:23:07.0426053+00:00",
-  "LastChanged_Achievements": "2023-07-04T06:06:12.8061667+00:00",
+  "LastChanged_Achievements": "2023-07-04T07:06:29.2901666+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-04T05:58:12.9540782+00:00",
-  "LastUpdate_Achievements": "2023-07-04T06:06:12.8085155+00:00"
+  "LastUpdate_Ratings": "2023-07-04T06:58:26.3132512+00:00",
+  "LastUpdate_Achievements": "2023-07-04T07:06:29.292469+00:00"
 }

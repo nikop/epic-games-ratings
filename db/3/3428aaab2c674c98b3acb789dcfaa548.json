@@ -1412,7 +1412,7 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 685279,
+  "EOS_Progressed": 685347,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 17507,
   "EOS_NewCompleters": 22,
@@ -5932,6 +5932,11 @@
       "Time": "2023-07-04T06:04:56.9823101+00:00",
       "NumProgressed": 685279,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-07-04T07:05:14.4570882+00:00",
+      "NumProgressed": 685347,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 75,
@@ -5943,7 +5948,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 89086
+      "UsersEstimate": 89095
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -5983,7 +5988,7 @@
       "Name": "Blast Mastery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -6023,7 +6028,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -6039,7 +6044,7 @@
       "Name": "Crafty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -6047,7 +6052,7 @@
       "Name": "Curios and Relics",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -6095,7 +6100,7 @@
       "Name": "G.I. Blues",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -6135,7 +6140,7 @@
       "Name": "Hometown Hero",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 5482
+      "UsersEstimate": 5483
     },
     {
       "ID": "ACHIEVEMENT_IN_A_FOREIGN_LAND",
@@ -6151,7 +6156,7 @@
       "Name": "Jury Rigger",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -6167,7 +6172,7 @@
       "Name": "Lead Dealer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -6239,7 +6244,7 @@
       "Name": "New Kid",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27411
+      "UsersEstimate": 27414
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -6263,7 +6268,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -6279,7 +6284,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -6303,7 +6308,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -6351,7 +6356,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -6407,7 +6412,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -6415,7 +6420,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27411
+      "UsersEstimate": 27414
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -6423,7 +6428,7 @@
       "Name": "The Boss",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -6463,7 +6468,7 @@
       "Name": "Up and Comer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -6487,7 +6492,7 @@
       "Name": "Volare!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -6495,7 +6500,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -6519,7 +6524,7 @@
       "Name": "Wild Card",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 5482
+      "UsersEstimate": 5483
     },
     {
       "ID": "ACHIEVEMENT_YOULL_KNOW_WHEN_IT_HAPPENS",
@@ -6535,20 +6540,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20558
+      "UsersEstimate": 20560
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 685279,
+      "Progressed": 685347,
       "Completed": 82
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 685279,
+      "Progressed": 685347,
       "Completed": 81
     }
   ],
@@ -6556,8 +6561,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-07-04T05:57:15.7814007+00:00",
-  "LastChanged_Achievements": "2023-07-04T06:04:56.9823097+00:00",
+  "LastChanged_Achievements": "2023-07-04T07:05:14.4570877+00:00",
   "LastUpdate_AppInfo": "2023-06-29T18:57:08.2648645+00:00",
-  "LastUpdate_Ratings": "2023-07-04T05:57:15.7814012+00:00",
-  "LastUpdate_Achievements": "2023-07-04T06:04:56.9823993+00:00"
+  "LastUpdate_Ratings": "2023-07-04T06:57:23.6696342+00:00",
+  "LastUpdate_Achievements": "2023-07-04T07:05:14.4571767+00:00"
 }

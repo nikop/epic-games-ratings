@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,693,092 |
-| Easy to forget | 46.00% | ~1,622,546 |
-| Back in the black | 38.00% | ~1,340,364 |
-| That's what I'm talking about | 28.00% | ~987,637 |
-| The Best of Both Worlds | 25.00% | ~881,819 |
-| Get your wings | 20.00% | ~705,455 |
-| Double trouble | 15.00% | ~529,091 |
+| You need to plug it in... | 48.00% | ~1,693,095 |
+| Easy to forget | 46.00% | ~1,622,549 |
+| Back in the black | 38.00% | ~1,340,367 |
+| That's what I'm talking about | 28.00% | ~987,639 |
+| The Best of Both Worlds | 25.00% | ~881,820 |
+| Get your wings | 20.00% | ~705,456 |
+| Double trouble | 15.00% | ~529,092 |
 | Smashing it | 10.00% | ~352,728 |
 | But can it run Crysis? | 9.00% | ~317,455 |
 | My favourite feature... | 9.00% | ~317,455 |
-| From humble beginnings... | 7.00% | ~246,909 |
-| Customer satisfaction | 7.00% | ~246,909 |
+| From humble beginnings... | 7.00% | ~246,910 |
+| Customer satisfaction | 7.00% | ~246,910 |
 | Keeping things neat | 4.00% | ~141,091 |
 | Seems you're pretty good at this | 4.00% | ~141,091 |
 | Triple threat | 3.00% | ~105,818 |
@@ -37,7 +37,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,273 |
 | Majority Shareholder | 1.00% | ~35,273 |
 | Owner | 1.00% | ~35,273 |
-| Show off | 0.90% | ~31,745 |
+| Show off | 0.90% | ~31,746 |
 | Work ethic 101 | 0.70% | ~24,691 |
 | Building momentum | 0.60% | ~21,164 |
 | Lead by example | 0.50% | ~17,636 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,527 |
 | Treat yourself - GPU | 0.10% | ~3,527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,527,275 (Ranked 4)  
+Progressed: 3,527,281 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,16 +134,16 @@ Completed: 28 (0.00%) (Ranked 232)
 | 2023-07-01 | 3,526,247 | 28 |
 | 2023-07-02 | 3,526,735 | 28 |
 | 2023-07-03 | 3,527,183 | 28 |
-| 2023-07-04 | 3,527,275 | 28 |
+| 2023-07-04 | 3,527,281 | 28 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 138)  
-Sum: 7,862 (Ranked 96)  
+Sum: 7,863 (Ranked 96)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,051 |
 | This game is Relaxing | 973 |
-| This game is Educational | 972 |
+| This game is Educational | 973 |
 | This game is Extremely Fun | 968 |
 | This game has Quickly Understood Controls | 932 |
 | This game is Highly Recommended | 881 |
@@ -299,3 +299,4 @@ Diff (max vs sum): 42
 | 2023-07-01 | 4.66 | - | 1,051 | 7,859 |
 | 2023-07-02 | 4.66 | - | 1,051 | 7,861 |
 | 2023-07-03 | 4.66 | - | 1,051 | 7,862 |
+| 2023-07-04 | 4.66 | - | 1,051 | 7,863 |

@@ -4894,10 +4894,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10671,
       "NumberOfAwardsMax": 6231
+    },
+    {
+      "Time": "2023-07-04T06:59:16.239488+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10672,
+      "NumberOfAwardsMax": 6231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10671,
+  "NumberOfAwards": 10672,
   "NumberOfAwardsMax": 6231,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4911,7 +4917,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 514
+      "Count": 515
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4974,9 +4980,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710449,
+  "EOS_Progressed": 710451,
   "EOS_Completed": 12803,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12064,6 +12070,11 @@
       "Time": "2023-07-04T06:06:06.5149653+00:00",
       "NumProgressed": 710449,
       "NumCompleted": 12803
+    },
+    {
+      "Time": "2023-07-04T07:06:23.2518295+00:00",
+      "NumProgressed": 710451,
+      "NumCompleted": 12803
     }
   ],
   "TotalAchievements": 50,
@@ -12099,7 +12110,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "05_Vengeance_H4",
@@ -12107,7 +12118,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "06_Vengeance_H5",
@@ -12115,7 +12126,7 @@
       "Name": "Furious Fists",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "07_Wude_H1",
@@ -12163,7 +12174,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "13_LowAge",
@@ -12179,7 +12190,7 @@
       "Name": "Kill Nil",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "15_Detective_H1",
@@ -12227,7 +12238,7 @@
       "Name": "Stuntmaster",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -12243,7 +12254,7 @@
       "Name": "Street Fighting",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -12259,7 +12270,7 @@
       "Name": "State of constant learning",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "25_ShrineMind",
@@ -12275,7 +12286,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "27_ShrineBody",
@@ -12283,7 +12294,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -12323,7 +12334,7 @@
       "Name": "Old Child",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "33_BladeOneShot",
@@ -12347,7 +12358,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -12355,7 +12366,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -12363,7 +12374,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -12387,7 +12398,7 @@
       "Name": "Take damage to save time",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -12467,28 +12478,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19750,
+      "Progressed": 19752,
       "Completed": 10353
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710449,
+      "Progressed": 710451,
       "Completed": 12803
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-03T23:58:59.4056829+00:00",
-  "LastChanged_Achievements": "2023-07-04T06:06:06.5149649+00:00",
+  "LastChanged": "2023-07-04T06:59:16.2394878+00:00",
+  "LastChanged_Achievements": "2023-07-04T07:06:23.2518282+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-04T05:59:02.0318694+00:00",
-  "LastUpdate_Achievements": "2023-07-04T06:06:06.5150327+00:00"
+  "LastUpdate_Ratings": "2023-07-04T06:59:16.2394887+00:00",
+  "LastUpdate_Achievements": "2023-07-04T07:06:23.2518956+00:00"
 }

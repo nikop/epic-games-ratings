@@ -6,10 +6,10 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,869 |
-| The Mad Wizard | 11.00% | ~22,638 |
-| Are Ya Chicken? | 7.00% | ~14,406 |
-| The Ring of Regeneration | 6.00% | ~12,348 |
+| The Cursed Farmer | 15.00% | ~30,872 |
+| The Mad Wizard | 11.00% | ~22,639 |
+| Are Ya Chicken? | 7.00% | ~14,407 |
+| The Ring of Regeneration | 6.00% | ~12,349 |
 | Were-verpowered | 5.00% | ~10,290 |
 | Mad Cow Disease | 5.00% | ~10,290 |
 | Friendly Imps | 5.00% | ~10,290 |
@@ -66,7 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,235 |
 | The Darkness Runs Deeper | 0.60% | ~1,235 |
 | Market Fluctuations | 0.60% | ~1,235 |
-| The Giant's Bane Tavern | 0.60% | ~1,032 |
+| The Giant's Bane Tavern | 0.60% | ~1,033 |
 | Rude Welcome | 0.60% | ~1,235 |
 | The Haunted Jungle | 0.60% | ~1,235 |
 | Family Entanglements | 0.50% | ~1,029 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.50% | ~1,029 |
 | Difficult Terrain | 0.50% | ~1,029 |
 | Durable Deep | 0.50% | ~1,029 |
+| Lobsterfolk Assault | 0.40% | ~823 |
 | Home Field Advantage | 0.40% | ~823 |
 | Force Grey Unleashed | 0.40% | ~823 |
 | Vajra's Guards | 0.40% | ~823 |
@@ -108,7 +109,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.40% | ~823 |
 | Anti-Dexterous Explorers | 0.30% | ~617 |
 | Not Very Charming | 0.30% | ~617 |
-| Lobsterfolk Assault | 0.30% | ~617 |
 | Periodic Petrification | 0.30% | ~617 |
 | Double Vision | 0.30% | ~617 |
 | The Newcomers of Notoriety | 0.30% | ~516 |
@@ -148,6 +148,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.30% | ~516 |
 | Overwhelming Force | 0.30% | ~617 |
 | Struggling Toward Omu | 0.20% | ~412 |
+| Wagon Train | 0.20% | ~412 |
 | Taking Responsibility | 0.20% | ~412 |
 | No Good at All | 0.20% | ~412 |
 | Never Split the Party | 0.20% | ~412 |
@@ -253,7 +254,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~172 |
 | Xanathaaaaaaar! | 0.10% | ~172 |
 | A Whale of a Time | 0.10% | ~172 |
-| Wagon Train | 0.10% | ~206 |
 | The Minions of Endelyn Moongrave | 0.10% | ~172 |
 | Between a Brigganock and a Hard Place | 0.10% | ~172 |
 | Love Unsoiled | 0.10% | ~172 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,796 (Ranked 52)  
+Progressed: 205,810 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,796 | 2,026 |
+| 2023-07-04 | 205,810 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,375 (Ranked 37)  

@@ -16,7 +16,7 @@ Rating: 4.41 (Ranked 671)
 | Travel Company | 65.00% | ~949 |
 | Mind the Gap | 63.00% | ~920 |
 | All around the World | 61.00% | ~891 |
-| Right through the middle | 56.00% | ~818 |
+| Right through the middle | 57.00% | ~832 |
 | Facility Manager | 54.00% | ~788 |
 | Poor Devil | 54.00% | ~788 |
 | Producer | 50.00% | ~730 |

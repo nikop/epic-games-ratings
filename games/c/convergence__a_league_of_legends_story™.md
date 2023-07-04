@@ -20,6 +20,7 @@
 | The Prince in Heels | 13.00% | ~96 |
 | Immaculate Aim | 13.00% | ~96 |
 | The Family Fortune | 13.00% | ~96 |
+| Like Clockwork | 12.00% | ~89 |
 | The Harder They Fall | 12.00% | ~89 |
 | No, Thanks! | 12.00% | ~89 |
 | Honest Mistake | 12.00% | ~89 |
@@ -28,7 +29,6 @@
 | Check Your Pulse | 12.00% | ~89 |
 | Immaculate Aim | 12.00% | ~89 |
 | The Brass Boss | 12.00% | ~89 |
-| Like Clockwork | 11.00% | ~81 |
 | Street Style | 11.00% | ~81 |
 | Right On Time | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |

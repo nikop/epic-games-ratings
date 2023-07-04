@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~599,661 |
-| Death From Above | 46.00% | ~599,661 |
-| Master of the Household | 39.00% | ~508,408 |
-| Death of the Party | 36.00% | ~469,300 |
-| NEXUS-47 | 33.00% | ~430,192 |
-| The Last Tango | 32.00% | ~417,156 |
-| Nightmare Fuel | 31.00% | ~404,119 |
-| The Result of Previous Training | 28.00% | ~365,011 |
-| Tools of the Trade | 28.00% | ~365,011 |
-| Cleared for Field Duty | 27.00% | ~351,975 |
-| Seizing the Opportunity | 25.00% | ~325,903 |
-| Bullet Train | 21.00% | ~273,758 |
-| Stylish Assassin | 20.00% | ~260,722 |
-| Silent Assassin | 14.00% | ~182,506 |
-| Rise Up | 13.00% | ~169,469 |
-| Evil Wine Club | 12.00% | ~156,433 |
-| Console Cowboy | 10.00% | ~130,361 |
-| Last Stop | 10.00% | ~130,361 |
-| A New Profile | 9.00% | ~117,325 |
-| Full House | 9.00% | ~117,325 |
-| Dune Raider | 8.00% | ~104,289 |
-| No Stone Unturned | 8.00% | ~104,289 |
-| Train Surfing | 8.00% | ~104,289 |
-| Icebreaker | 7.00% | ~91,253 |
-| Family Feud | 6.00% | ~78,217 |
-| Rich Harvest | 6.00% | ~78,217 |
-| Count Down From 47 | 6.00% | ~78,217 |
+| Unseen Assassin | 46.00% | ~599,668 |
+| Death From Above | 46.00% | ~599,668 |
+| Master of the Household | 39.00% | ~508,415 |
+| Death of the Party | 36.00% | ~469,306 |
+| NEXUS-47 | 33.00% | ~430,197 |
+| The Last Tango | 32.00% | ~417,161 |
+| Nightmare Fuel | 31.00% | ~404,124 |
+| The Result of Previous Training | 28.00% | ~365,016 |
+| Tools of the Trade | 28.00% | ~365,016 |
+| Cleared for Field Duty | 27.00% | ~351,979 |
+| Seizing the Opportunity | 25.00% | ~325,907 |
+| Bullet Train | 21.00% | ~273,762 |
+| Stylish Assassin | 20.00% | ~260,725 |
+| Silent Assassin | 14.00% | ~182,508 |
+| Rise Up | 13.00% | ~169,472 |
+| Evil Wine Club | 12.00% | ~156,435 |
+| Console Cowboy | 10.00% | ~130,363 |
+| Last Stop | 10.00% | ~130,363 |
+| A New Profile | 9.00% | ~117,326 |
+| Full House | 9.00% | ~117,326 |
+| Dune Raider | 8.00% | ~104,290 |
+| No Stone Unturned | 8.00% | ~104,290 |
+| Train Surfing | 8.00% | ~104,290 |
+| Icebreaker | 7.00% | ~91,254 |
+| Family Feud | 6.00% | ~78,218 |
+| Rich Harvest | 6.00% | ~78,218 |
+| Count Down From 47 | 6.00% | ~78,218 |
 | Shortcut Killer | 5.00% | ~65,181 |
 | Treacherous Architecture | 5.00% | ~65,181 |
 | Stair Master | 5.00% | ~65,181 |
 | Followed the Trails | 5.00% | ~65,181 |
 | Last Call | 5.00% | ~65,181 |
-| Upstairs, Downstairs | 4.00% | ~52,144 |
-| The Great Outdoors | 4.00% | ~52,144 |
-| Partied Out | 4.00% | ~52,144 |
-| Surveillance Master | 4.00% | ~52,144 |
-| Hack the Planet | 4.00% | ~52,144 |
-| Training Escalated | 3.00% | ~39,108 |
-| Keep Your Eyes Peeled | 3.00% | ~39,108 |
-| Warehouse Veteran | 3.00% | ~39,108 |
-| Future Shock | 3.00% | ~39,108 |
-| Master the Terroir | 3.00% | ~39,108 |
-| Vineyard Virtuoso | 3.00% | ~39,108 |
-| Bird Art | 2.00% | ~26,072 |
+| Upstairs, Downstairs | 4.00% | ~52,145 |
+| The Great Outdoors | 4.00% | ~52,145 |
+| Partied Out | 4.00% | ~52,145 |
+| Surveillance Master | 4.00% | ~52,145 |
+| Hack the Planet | 4.00% | ~52,145 |
+| Training Escalated | 3.00% | ~39,109 |
+| Keep Your Eyes Peeled | 3.00% | ~39,109 |
+| Warehouse Veteran | 3.00% | ~39,109 |
+| Future Shock | 3.00% | ~39,109 |
+| Master the Terroir | 3.00% | ~39,109 |
+| Vineyard Virtuoso | 3.00% | ~39,109 |
+| Bird Art | 2.00% | ~26,073 |
 | Top of the Class | 1.00% | ~13,036 |
 | Ripe for the Picking | 1.00% | ~13,036 |
 | The Creative Assassin | 0.70% | ~9,125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,303,611 (Ranked 9)  
+Progressed: 1,303,627 (Ranked 9)  
 Completed: 2,094 (0.16%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 2,094 (0.16%) (Ranked 167)
 | 2023-07-01 | 1,302,547 | 2,094 |
 | 2023-07-02 | 1,303,068 | 2,094 |
 | 2023-07-03 | 1,303,528 | 2,094 |
-| 2023-07-04 | 1,303,611 | 2,094 |
+| 2023-07-04 | 1,303,627 | 2,094 |
 ## Awards
 Max (Diverse Characters): 9,404  (Ranked 36)  
 Sum: 67,972 (Ranked 19)  

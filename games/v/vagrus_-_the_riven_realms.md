@@ -27,6 +27,7 @@
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~2 |
+| Deputized | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Been There | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
@@ -34,7 +35,6 @@
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
-| Deputized | 0.90% | ~1 |
 | Despised | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |

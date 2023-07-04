@@ -6,32 +6,32 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~389,365 |
-| Hey! That's mine! | 78.00% | ~374,944 |
-| Happy Returns | 77.00% | ~370,137 |
-| Field Promotion | 74.00% | ~355,717 |
-| Leadhead | 71.00% | ~341,296 |
-| Eradicator | 67.00% | ~322,068 |
-| Surplus | 65.00% | ~312,454 |
-| I Spy | 64.00% | ~307,647 |
-| Burn Baby Burn | 59.00% | ~283,612 |
-| Yellow Beats Green | 55.00% | ~264,384 |
-| Salvage Rights | 53.00% | ~254,770 |
-| Pew Pew | 50.00% | ~240,349 |
-| What IS that? | 50.00% | ~240,349 |
-| Close Call | 49.00% | ~235,542 |
-| Penny Pincher | 49.00% | ~235,542 |
-| Arsenal | 46.00% | ~221,121 |
-| Boot Camp | 45.00% | ~216,314 |
-| Flawless Victory | 42.00% | ~201,893 |
-| Confident | 40.00% | ~192,279 |
-| Exterminator | 36.00% | ~173,051 |
-| Sharpshooter | 33.00% | ~158,630 |
-| Great Ball of Fire | 32.00% | ~153,823 |
-| Not So Fast | 32.00% | ~153,823 |
-| No Sale | 30.00% | ~144,209 |
-| Kaboom! | 29.00% | ~139,402 |
-| Liquidator | 29.00% | ~139,402 |
+| First Blood | 81.00% | ~389,368 |
+| Hey! That's mine! | 78.00% | ~374,947 |
+| Happy Returns | 77.00% | ~370,140 |
+| Field Promotion | 74.00% | ~355,719 |
+| Leadhead | 71.00% | ~341,298 |
+| Eradicator | 67.00% | ~322,070 |
+| Surplus | 65.00% | ~312,456 |
+| I Spy | 64.00% | ~307,649 |
+| Burn Baby Burn | 59.00% | ~283,614 |
+| Yellow Beats Green | 55.00% | ~264,386 |
+| Salvage Rights | 53.00% | ~254,772 |
+| Pew Pew | 50.00% | ~240,350 |
+| What IS that? | 50.00% | ~240,350 |
+| Close Call | 49.00% | ~235,543 |
+| Penny Pincher | 49.00% | ~235,543 |
+| Arsenal | 46.00% | ~221,122 |
+| Boot Camp | 45.00% | ~216,315 |
+| Flawless Victory | 42.00% | ~201,894 |
+| Confident | 40.00% | ~192,280 |
+| Exterminator | 36.00% | ~173,052 |
+| Sharpshooter | 33.00% | ~158,631 |
+| Great Ball of Fire | 32.00% | ~153,824 |
+| Not So Fast | 32.00% | ~153,824 |
+| No Sale | 30.00% | ~144,210 |
+| Kaboom! | 29.00% | ~139,403 |
+| Liquidator | 29.00% | ~139,403 |
 | High Voltage | 24.00% | ~115,368 |
 | Filthy Rich | 19.00% | ~91,333 |
 | The Not-So-Friendly Skies | 18.00% | ~86,526 |
@@ -63,7 +63,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Master Siege Breaker | 0.80% | ~3,846 |
 | Few and Proud | 0.80% | ~3,846 |
 | Shell-shocked | 0.70% | ~3,365 |
-| Alien Tears | 0.50% | ~2,403 |
+| Alien Tears | 0.50% | ~2,404 |
 | Full House | 0.40% | ~1,923 |
 | Kickstarter | 0.30% | ~1,442 |
 | The Container | 0.30% | ~1,442 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~481 |
 | You Monster | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,698 (Ranked 32)  
+Progressed: 480,701 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 4 (0.00%) (Ranked 232)
 | 2023-07-01 | 480,544 | 4 |
 | 2023-07-02 | 480,618 | 4 |
 | 2023-07-03 | 480,685 | 4 |
-| 2023-07-04 | 480,698 | 4 |
+| 2023-07-04 | 480,701 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,659 (Ranked 210)  

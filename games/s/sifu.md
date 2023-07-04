@@ -13,21 +13,21 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 2.00% | ~14,209 |
 | Life is your teacher | 2.00% | ~14,209 |
 | Lightning Hands | 2.00% | ~14,209 |
-| A Lady's Blood in the Snow | 1.00% | ~7,104 |
-| Lady Wing Chun | 1.00% | ~7,104 |
-| Furious Fists | 1.00% | ~7,104 |
-| Scareless | 1.00% | ~7,104 |
-| Kill Nil | 1.00% | ~7,104 |
-| Stuntmaster | 1.00% | ~7,104 |
-| Street Fighting | 1.00% | ~7,104 |
-| State of constant learning | 1.00% | ~7,104 |
-| Qi Gong: Breath | 1.00% | ~7,104 |
-| Qi Gong: Essence | 1.00% | ~7,104 |
-| Old Child | 1.00% | ~7,104 |
-| Kung-Fu Tussle | 1.00% | ~7,104 |
-| Path of the Prospect | 1.00% | ~7,104 |
-| Rumble in the Hangar | 1.00% | ~7,104 |
-| Take damage to save time | 1.00% | ~7,104 |
+| A Lady's Blood in the Snow | 1.00% | ~7,105 |
+| Lady Wing Chun | 1.00% | ~7,105 |
+| Furious Fists | 1.00% | ~7,105 |
+| Scareless | 1.00% | ~7,105 |
+| Kill Nil | 1.00% | ~7,105 |
+| Stuntmaster | 1.00% | ~7,105 |
+| Street Fighting | 1.00% | ~7,105 |
+| State of constant learning | 1.00% | ~7,105 |
+| Qi Gong: Breath | 1.00% | ~7,105 |
+| Qi Gong: Essence | 1.00% | ~7,105 |
+| Old Child | 1.00% | ~7,105 |
+| Kung-Fu Tussle | 1.00% | ~7,105 |
+| Path of the Prospect | 1.00% | ~7,105 |
+| Rumble in the Hangar | 1.00% | ~7,105 |
+| Take damage to save time | 1.00% | ~7,105 |
 | Bloody Sport | 1.00% | ~198 |
 | The best strikes are the ones we avoid | 1.00% | ~198 |
 | Dance of the Praying Mantis | 0.90% | ~6,394 |
@@ -39,7 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.60% | ~4,263 |
 | Iron Money | 0.60% | ~4,263 |
 | Detective Story | 0.60% | ~4,263 |
-| A Touch of Acumen | 0.60% | ~118 |
+| A Touch of Acumen | 0.60% | ~119 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,552 |
 | Prodigal Child | 0.50% | ~3,552 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,552 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,449 (Ranked 17)  
+Progressed: 710,451 (Ranked 17)  
 Completed: 12,803 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,10 +132,10 @@ Completed: 12,803 (1.80%) (Ranked 80)
 | 2023-07-01 | 710,383 | 12,802 |
 | 2023-07-02 | 710,413 | 12,803 |
 | 2023-07-03 | 710,440 | 12,803 |
-| 2023-07-04 | 710,449 | 12,803 |
+| 2023-07-04 | 710,451 | 12,803 |
 ## Awards
 Max (Great Boss Battles): 6,231  (Ranked 52)  
-Sum: 10,671 (Ranked 78)  
+Sum: 10,672 (Ranked 78)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): -26
 | This game has Diverse Characters | 540 |
 | This game has Challenging Combat | 526 |
 | This game has Quickly Understood Controls | 521 |
-| This game is Extremely Fun | 514 |
+| This game is Extremely Fun | 515 |
 | This game has Amazing Storytelling | 511 |
 | This game is Highly Recommended | 498 |
 | This game has Amazing Characters | 497 |
@@ -322,3 +322,4 @@ Diff (max vs sum): -26
 | 2023-07-01 | 4.82 | - | 6,221 | 10,654 |
 | 2023-07-02 | 4.82 | - | 6,226 | 10,663 |
 | 2023-07-03 | 4.82 | - | 6,231 | 10,671 |
+| 2023-07-04 | 4.82 | - | 6,231 | 10,672 |
