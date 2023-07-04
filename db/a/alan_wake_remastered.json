@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 478,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 82,
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56826,
+  "EOS_Progressed": 56827,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6952,6 +6952,11 @@
       "Time": "2023-07-04T22:03:08.1595729+00:00",
       "NumProgressed": 56826,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-04T23:02:21.692331+00:00",
+      "NumProgressed": 56827,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6971,7 +6976,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11933
+      "UsersEstimate": 11934
     },
     {
       "ID": "03",
@@ -7498,21 +7503,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56826,
+      "Progressed": 56827,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20294,
+      "Progressed": 20295,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:03:08.1595724+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:02:21.6923306+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:58:25.4727194+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:03:08.1596758+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:57:52.3241256+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:02:21.6924412+00:00"
 }

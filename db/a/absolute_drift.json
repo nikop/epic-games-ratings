@@ -3,8 +3,8 @@
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
   "Ranking_Rating": 689,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 43,
@@ -436,9 +436,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527487,
+  "EOS_Progressed": 1527494,
   "EOS_Completed": 641,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8511,6 +8511,11 @@
       "Time": "2023-07-04T22:05:45.9612453+00:00",
       "NumProgressed": 1527487,
       "NumCompleted": 641
+    },
+    {
+      "Time": "2023-07-04T23:04:33.8432816+00:00",
+      "NumProgressed": 1527494,
+      "NumCompleted": 641
     }
   ],
   "TotalAchievements": 20,
@@ -8530,7 +8535,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 106924
+      "UsersEstimate": 106925
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -8666,7 +8671,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76374
+      "UsersEstimate": 76375
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -8681,15 +8686,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1527487,
+      "Progressed": 1527494,
       "Completed": 641
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-03T17:01:00.6084184+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:05:45.9612447+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:04:33.8432811+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:22.4769959+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:01:33.9029311+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:05:45.9613052+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:59:57.1720906+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:04:33.8433468+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 604,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 504,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14399,
+  "EOS_Progressed": 14405,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 643,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 647,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -8204,6 +8204,11 @@
       "Time": "2023-07-04T22:02:36.5165059+00:00",
       "NumProgressed": 14399,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2023-07-04T23:00:40.0362964+00:00",
+      "NumProgressed": 14405,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 20,
@@ -8215,7 +8220,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -8231,7 +8236,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8247,7 +8252,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -8271,7 +8276,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -8279,7 +8284,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "FOUND_ERIN",
@@ -8311,7 +8316,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -8327,7 +8332,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8335,7 +8340,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10943
+      "UsersEstimate": 10948
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8343,7 +8348,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8351,7 +8356,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -8367,22 +8372,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14399,
+      "Progressed": 14405,
       "Completed": 304
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:02:36.5165055+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:00:40.0362959+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:01:42.2045867+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:02:36.5165832+00:00"
+  "LastUpdate_Ratings": "2023-07-04T23:00:03.8268059+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:00:40.0363817+00:00"
 }

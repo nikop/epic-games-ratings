@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -136,6 +136,11 @@
       "Time": "2023-06-20T18:07:32.3242701+00:00",
       "NumProgressed": 247,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T23:05:46.2099803+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 16,
@@ -195,7 +200,7 @@
       "Name": "First Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -217,9 +222,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -243,7 +248,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -257,24 +262,24 @@
       "ID": "PET_DOG",
       "SetID": "7im05fi",
       "Name": "Overwhelmed Beast",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 3
     }
   ],
@@ -282,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:07:33.1222928+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:05:46.2099798+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:38.9421512+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:59:00.8031571+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:07:33.1223029+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:58:14.6510647+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:05:46.2099924+00:00"
 }

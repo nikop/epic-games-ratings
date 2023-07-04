@@ -20,10 +20,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 10,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 60,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 70,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -104,6 +104,11 @@
       "Time": "2023-07-04T19:02:17.0158798+00:00",
       "NumProgressed": 10,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-07-04T23:02:11.3418869+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -146,9 +151,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Les",
@@ -162,9 +167,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Nora",
@@ -210,9 +215,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -220,12 +225,12 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 10,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:02:53.6798214+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:02:11.3418864+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.2071405+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:57:06.7983252+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:02:53.6798313+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:56:54.2946188+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:02:11.3418985+00:00"
 }

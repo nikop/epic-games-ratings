@@ -6,26 +6,26 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,308 |
-| Right Back At Ya | 38.00% | ~328,201 |
-| The Lovers | 34.00% | ~293,654 |
+| The Fool | 68.00% | ~587,310 |
+| Right Back At Ya | 38.00% | ~328,203 |
+| The Lovers | 34.00% | ~293,655 |
 | Stanislavski's Method | 28.00% | ~241,833 |
-| The Wheel of Fortune | 26.00% | ~224,559 |
-| The Hermit | 24.00% | ~207,285 |
-| Christmas Tree Attack | 22.00% | ~190,011 |
-| True Soldier | 22.00% | ~190,011 |
-| The High Priestess | 21.00% | ~181,374 |
-| Legend of The Afterlife | 21.00% | ~181,374 |
+| The Wheel of Fortune | 26.00% | ~224,560 |
+| The Hermit | 24.00% | ~207,286 |
+| Christmas Tree Attack | 22.00% | ~190,012 |
+| True Soldier | 22.00% | ~190,012 |
+| The High Priestess | 21.00% | ~181,375 |
+| Legend of The Afterlife | 21.00% | ~181,375 |
 | Life of the Road | 20.00% | ~172,738 |
 | Full Body Conversion | 17.00% | ~146,827 |
 | The World | 17.00% | ~146,827 |
-| Bushido and Chill | 16.00% | ~138,190 |
-| Gun Fu | 14.00% | ~120,916 |
-| True Warrior | 14.00% | ~120,916 |
-| To Protect and Serve | 13.00% | ~112,279 |
-| Master Crafter | 13.00% | ~112,279 |
-| I Am The Law | 13.00% | ~112,279 |
-| Judy vs Night City | 13.00% | ~112,279 |
+| Bushido and Chill | 16.00% | ~138,191 |
+| Gun Fu | 14.00% | ~120,917 |
+| True Warrior | 14.00% | ~120,917 |
+| To Protect and Serve | 13.00% | ~112,280 |
+| Master Crafter | 13.00% | ~112,280 |
+| I Am The Law | 13.00% | ~112,280 |
+| Judy vs Night City | 13.00% | ~112,280 |
 | Two Heads, One Bullet | 11.00% | ~95,006 |
 | The Wandering Fool | 9.00% | ~77,732 |
 | The Quick and the Dead | 9.00% | ~77,732 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,637 |
 | Rough Landing | 0.50% | ~4,318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 863,688 (Ranked 14)  
+Progressed: 863,691 (Ranked 14)  
 Completed: 1,831 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,17 +126,17 @@ Completed: 1,831 (0.21%) (Ranked 159)
 | 2023-07-01 | 862,856 | 1,816 |
 | 2023-07-02 | 863,181 | 1,821 |
 | 2023-07-03 | 863,436 | 1,828 |
-| 2023-07-04 | 863,688 | 1,831 |
+| 2023-07-04 | 863,691 | 1,831 |
 ## Awards
 Max (Character Customization): 72,141  (Ranked 9)  
-Sum: 188,730 (Ranked 13)  
+Sum: 188,744 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72,141 |
 | This game has Great Boss Battles | 46,264 |
 | This game has Diverse Characters | 8,303 |
-| This game has Amazing Storytelling | 8,269 |
+| This game has Amazing Storytelling | 8,283 |
 | This game is Great for Beginners | 8,260 |
 | This game is Extremely Fun | 8,136 |
 | This game is Highly Recommended | 8,115 |
@@ -313,4 +313,4 @@ Diff (max vs sum): -4
 | 2023-07-01 | 4.62 | - | 71,789 | 187,747 |
 | 2023-07-02 | 4.62 | - | 71,925 | 188,123 |
 | 2023-07-03 | 4.62 | - | 72,030 | 188,476 |
-| 2023-07-04 | 4.62 | - | 72,141 | 188,730 |
+| 2023-07-04 | 4.62 | - | 72,141 | 188,744 |

@@ -810,7 +810,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 6072,
+  "EOS_Progressed": 6073,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -3760,6 +3760,11 @@
       "Time": "2023-07-04T20:06:25.2729951+00:00",
       "NumProgressed": 6072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T23:04:58.0195431+00:00",
+      "NumProgressed": 6073,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -3803,7 +3808,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -3811,7 +3816,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     },
     {
       "ID": "Control_All_Relics",
@@ -3851,7 +3856,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1883
     },
     {
       "ID": "First_Major_Ally",
@@ -3875,7 +3880,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4798
     },
     {
       "ID": "First_Race_Met",
@@ -3883,7 +3888,7 @@
       "Name": "First Contact",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "First_Ship_Designed",
@@ -3907,7 +3912,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -3963,7 +3968,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "Level_5_Ship",
@@ -3985,9 +3990,9 @@
       "ID": "Own_30_Planets",
       "SetID": "4h07amh",
       "Name": "Own 30 Planets",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2065
     },
     {
       "ID": "Play_1000_Hours",
@@ -4259,7 +4264,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -4346,15 +4351,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6072,
+      "Progressed": 6073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-07-04T02:22:32.5808769+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:06:22.0741016+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:04:58.0195425+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.3493062+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:58:06.7117417+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:06:22.0741897+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:57:39.4289009+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:04:58.0196378+00:00"
 }

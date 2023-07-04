@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -1116,6 +1116,11 @@
       "Time": "2023-07-04T16:04:38.4861087+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T23:04:03.8374745+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1143,7 +1148,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1191,7 +1196,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1263,7 +1268,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1303,7 +1308,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1430,14 +1435,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:05:02.7589811+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:04:03.837474+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:02:07.9750821+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:05:02.7590155+00:00"
+  "LastUpdate_Ratings": "2023-07-04T23:00:20.0014789+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:04:03.837509+00:00"
 }

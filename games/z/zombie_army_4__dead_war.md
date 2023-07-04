@@ -29,7 +29,7 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,471 |
 | You've got red on you | 34.00% | ~14,612 |
 | All roads lead to Rome | 33.00% | ~14,182 |
-| You're all going to die down here | 31.00% | ~13,323 |
+| You're all going to die down here | 32.00% | ~13,752 |
 | He did Nazi that coming | 31.00% | ~13,323 |
 | Kill of the week | 31.00% | ~13,323 |
 | I never liked them anyway | 30.00% | ~12,893 |

@@ -9,11 +9,11 @@
 | A New Broom Sweeps Clean | 11.00% | ~23 |
 | Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
-| Business as usual | 7.00% | ~15 |
+| Business as usual | 8.00% | ~17 |
 | Mr. Hygeni | 6.00% | ~13 |
 | Pride and Joy | 5.00% | ~10 |
 | Eyes Yet To Open | 5.00% | ~10 |
-| Hackathon | 4.00% | ~8 |
+| Hackathon | 5.00% | ~10 |
 | Total Recall | 3.00% | ~6 |
 | The Wing and the Thigh | 3.00% | ~6 |
 | All the Stories | 2.00% | ~4 |

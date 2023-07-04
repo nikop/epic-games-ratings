@@ -27,13 +27,13 @@ Rating: 4.44 (Ranked 637)
 | Brains of the Operation | 0.70% | ~22 |
 | Set Europe Ablaze | 0.60% | ~19 |
 | Explosive Efficiency | 0.60% | ~19 |
+| Snake in the Grass | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Skirmisher | 0.50% | ~16 |
 | Precision Is Key | 0.50% | ~16 |
 | My Little Friend | 0.50% | ~16 |
 | Close Quarters | 0.50% | ~16 |
-| Snake in the Grass | 0.50% | ~16 |
 | Fields of Glory | 0.40% | ~13 |
 | Rigged to Blow | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |

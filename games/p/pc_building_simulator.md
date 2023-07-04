@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,693,243 |
-| Easy to forget | 46.00% | ~1,622,691 |
-| Back in the black | 38.00% | ~1,340,484 |
-| That's what I'm talking about | 28.00% | ~987,725 |
-| The Best of Both Worlds | 25.00% | ~881,897 |
-| Get your wings | 20.00% | ~705,518 |
-| Double trouble | 15.00% | ~529,138 |
-| Smashing it | 10.00% | ~352,759 |
-| But can it run Crysis? | 9.00% | ~317,483 |
-| My favourite feature... | 9.00% | ~317,483 |
-| From humble beginnings... | 7.00% | ~246,931 |
-| Customer satisfaction | 7.00% | ~246,931 |
+| You need to plug it in... | 48.00% | ~1,693,254 |
+| Easy to forget | 46.00% | ~1,622,702 |
+| Back in the black | 38.00% | ~1,340,493 |
+| That's what I'm talking about | 28.00% | ~987,731 |
+| The Best of Both Worlds | 25.00% | ~881,903 |
+| Get your wings | 20.00% | ~705,522 |
+| Double trouble | 15.00% | ~529,142 |
+| Smashing it | 10.00% | ~352,761 |
+| But can it run Crysis? | 9.00% | ~317,485 |
+| My favourite feature... | 9.00% | ~317,485 |
+| From humble beginnings... | 7.00% | ~246,933 |
+| Customer satisfaction | 7.00% | ~246,933 |
 | Keeping things neat | 4.00% | ~141,104 |
 | Seems you're pretty good at this | 4.00% | ~141,104 |
 | Triple threat | 3.00% | ~105,828 |
@@ -37,7 +37,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,276 |
 | Majority Shareholder | 1.00% | ~35,276 |
 | Owner | 1.00% | ~35,276 |
-| Show off | 0.90% | ~31,748 |
+| Show off | 0.90% | ~31,749 |
 | Work ethic 101 | 0.70% | ~24,693 |
 | Building momentum | 0.60% | ~21,166 |
 | Lead by example | 0.50% | ~17,638 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,528 |
 | Treat yourself - GPU | 0.10% | ~3,528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,527,589 (Ranked 4)  
+Progressed: 3,527,612 (Ranked 4)  
 Completed: 28 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,10 +134,10 @@ Completed: 28 (0.00%) (Ranked 232)
 | 2023-07-01 | 3,526,247 | 28 |
 | 2023-07-02 | 3,526,735 | 28 |
 | 2023-07-03 | 3,527,183 | 28 |
-| 2023-07-04 | 3,527,589 | 28 |
+| 2023-07-04 | 3,527,612 | 28 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 138)  
-Sum: 7,863 (Ranked 96)  
+Sum: 7,864 (Ranked 96)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): 42
 | This game is Educational | 973 |
 | This game is Extremely Fun | 968 |
 | This game has Quickly Understood Controls | 932 |
-| This game is Highly Recommended | 881 |
+| This game is Highly Recommended | 882 |
 | This game has Amazing Storytelling | 805 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 645 |
@@ -299,4 +299,4 @@ Diff (max vs sum): 42
 | 2023-07-01 | 4.66 | - | 1,051 | 7,859 |
 | 2023-07-02 | 4.66 | - | 1,051 | 7,861 |
 | 2023-07-03 | 4.66 | - | 1,051 | 7,862 |
-| 2023-07-04 | 4.66 | - | 1,051 | 7,863 |
+| 2023-07-04 | 4.66 | - | 1,051 | 7,864 |

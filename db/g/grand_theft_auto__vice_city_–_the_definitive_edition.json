@@ -508,9 +508,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8869,
+  "EOS_Progressed": 8870,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5883,6 +5883,11 @@
       "Time": "2023-07-04T21:02:19.5939306+00:00",
       "NumProgressed": 8869,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-04T23:00:37.6141306+00:00",
+      "NumProgressed": 8870,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 34,
@@ -6054,7 +6059,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3991
+      "UsersEstimate": 3992
     },
     {
       "ID": "ACH22",
@@ -6070,7 +6075,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "ACH24",
@@ -6102,7 +6107,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH28",
@@ -6165,7 +6170,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8869,
+      "Progressed": 8870,
       "Completed": 42
     }
   ],
@@ -6173,8 +6178,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:02:33.0637224+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:00:37.6141301+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:59:11.5388493+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:02:33.0637888+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:58:20.9300731+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:00:37.6142163+00:00"
 }

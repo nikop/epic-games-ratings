@@ -2094,9 +2094,9 @@
       "ID": "INTRODUCTION",
       "SetID": "64e5lgf",
       "Name": "INTRODUCTION",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SECOND_FLOOR",
@@ -2143,8 +2143,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-07-04T22:07:32.3627312+00:00",
+  "LastChanged_Achievements": "2023-07-04T23:05:45.4914154+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.8895465+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:00:42.5966952+00:00",
-  "LastUpdate_Achievements": "2023-07-04T22:07:32.3627551+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:59:25.2929573+00:00",
+  "LastUpdate_Achievements": "2023-07-04T23:05:45.4914404+00:00"
 }
