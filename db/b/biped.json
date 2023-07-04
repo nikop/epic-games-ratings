@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5276,6 +5276,11 @@
       "Time": "2023-07-04T12:06:49.5932283+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T13:24:24.0552191+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5287,7 +5292,7 @@
       "Name": "First Step",
       "Percentage": 41,
       "XP": 45,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1544
     },
     {
       "ID": "10",
@@ -5343,7 +5348,7 @@
       "Name": "Dense Forest",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "3",
@@ -5351,7 +5356,7 @@
       "Name": "Cactus Vally",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "4",
@@ -5359,7 +5364,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "5",
@@ -5383,7 +5388,7 @@
       "Name": "Blue Rapids",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "8",
@@ -5391,7 +5396,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "9",
@@ -5406,7 +5411,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3765,
       "Completed": 0
     }
   ],
@@ -5414,8 +5419,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:06:49.5932277+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:24:24.0552184+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.6056115+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:58:29.2538533+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:06:49.5932733+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:16:19.8609291+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:24:24.0552605+00:00"
 }

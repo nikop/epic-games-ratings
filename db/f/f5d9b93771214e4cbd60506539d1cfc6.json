@@ -134,9 +134,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116105,
+  "EOS_Progressed": 116157,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8243,
+  "EOS_NewPlayers": 8221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2279,6 +2279,11 @@
       "Time": "2023-07-04T12:04:17.0919215+00:00",
       "NumProgressed": 116105,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-04T13:21:59.3167064+00:00",
+      "NumProgressed": 116157,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 31,
@@ -2298,7 +2303,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 78951
+      "UsersEstimate": 78987
     },
     {
       "ID": "EAwards_10",
@@ -2306,7 +2311,7 @@
       "Name": "Combo Nerd",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13933
+      "UsersEstimate": 13939
     },
     {
       "ID": "EAwards_11",
@@ -2314,7 +2319,7 @@
       "Name": "Pollo Power",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20899
+      "UsersEstimate": 20908
     },
     {
       "ID": "EAwards_12",
@@ -2322,7 +2327,7 @@
       "Name": "Last Straw",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17416
+      "UsersEstimate": 17424
     },
     {
       "ID": "EAwards_13",
@@ -2330,7 +2335,7 @@
       "Name": "Next-gen!!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5805
+      "UsersEstimate": 5808
     },
     {
       "ID": "EAwards_14",
@@ -2338,7 +2343,7 @@
       "Name": "Do or Do Not",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42959
+      "UsersEstimate": 42978
     },
     {
       "ID": "EAwards_15",
@@ -2346,7 +2351,7 @@
       "Name": "No Encore!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11616
     },
     {
       "ID": "EAwards_16",
@@ -2354,7 +2359,7 @@
       "Name": "Cock of the Walk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "EAwards_17",
@@ -2362,7 +2367,7 @@
       "Name": "Main Event",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23221
+      "UsersEstimate": 23231
     },
     {
       "ID": "EAwards_18",
@@ -2370,7 +2375,7 @@
       "Name": "That was INTENSE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23221
+      "UsersEstimate": 23231
     },
     {
       "ID": "EAwards_19",
@@ -2378,7 +2383,7 @@
       "Name": "Lore Master",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "EAwards_2",
@@ -2386,7 +2391,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 30187
+      "UsersEstimate": 30201
     },
     {
       "ID": "EAwards_20",
@@ -2394,7 +2399,7 @@
       "Name": "I Have The Power",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8127
+      "UsersEstimate": 8131
     },
     {
       "ID": "EAwards_21",
@@ -2402,7 +2407,7 @@
       "Name": "Got to catch them all",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10449
+      "UsersEstimate": 10454
     },
     {
       "ID": "EAwards_22",
@@ -2410,7 +2415,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3485
     },
     {
       "ID": "EAwards_23",
@@ -2418,7 +2423,7 @@
       "Name": "Heavyweight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "EAwards_24",
@@ -2426,7 +2431,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4646
     },
     {
       "ID": "EAwards_25",
@@ -2450,7 +2455,7 @@
       "Name": "El Savior",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "EAwards_28",
@@ -2458,7 +2463,7 @@
       "Name": "World Champion",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "EAwards_29",
@@ -2466,7 +2471,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "EAwards_3",
@@ -2474,7 +2479,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19738
+      "UsersEstimate": 19747
     },
     {
       "ID": "EAwards_30",
@@ -2482,7 +2487,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8127
+      "UsersEstimate": 8131
     },
     {
       "ID": "EAwards_4",
@@ -2490,7 +2495,7 @@
       "Name": "Snuffed Out",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15094
+      "UsersEstimate": 15100
     },
     {
       "ID": "EAwards_5",
@@ -2498,7 +2503,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10449
+      "UsersEstimate": 10454
     },
     {
       "ID": "EAwards_6",
@@ -2506,7 +2511,7 @@
       "Name": "Power Within",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 26704
+      "UsersEstimate": 26716
     },
     {
       "ID": "EAwards_7",
@@ -2514,7 +2519,7 @@
       "Name": "I swat you",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "EAwards_8",
@@ -2522,7 +2527,7 @@
       "Name": "Flawless",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 40637
+      "UsersEstimate": 40655
     },
     {
       "ID": "EAwards_9",
@@ -2530,14 +2535,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11610
+      "UsersEstimate": 11616
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 116105,
+      "Progressed": 116157,
       "Completed": 5
     }
   ],
@@ -2545,8 +2550,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-07-03T02:21:04.0425521+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:04:17.0919209+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:21:59.3167059+00:00",
   "LastUpdate_AppInfo": "2023-06-29T16:57:00.3844661+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:57:09.7854068+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:04:17.0919581+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:14:56.6323245+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:21:59.3167404+00:00"
 }

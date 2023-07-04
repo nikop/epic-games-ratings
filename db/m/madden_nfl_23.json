@@ -2,12 +2,12 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 671,
+  "Ranking_Rating": 672,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -454,6 +454,6 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "LastChanged": "2023-07-01T17:58:39.6212159+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.3450728+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:58:30.9812932+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:05:19.4408269+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:16:22.5132869+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:23:02.8403709+00:00"
 }

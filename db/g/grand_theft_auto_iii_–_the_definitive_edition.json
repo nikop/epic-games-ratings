@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6902,
+  "EOS_Progressed": 6903,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5219,6 +5219,11 @@
       "Time": "2023-07-04T10:03:32.1008605+00:00",
       "NumProgressed": 6902,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-04T13:21:33.724959+00:00",
+      "NumProgressed": 6903,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5270,7 +5275,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH07",
@@ -5350,7 +5355,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH17",
@@ -5461,7 +5466,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6902,
+      "Progressed": 6903,
       "Completed": 40
     }
   ],
@@ -5469,8 +5474,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-04T08:58:04.5162173+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:03:52.2612313+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:21:33.7249586+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:58:14.2334524+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:03:52.2612834+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:16:04.307167+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:21:33.7250141+00:00"
 }

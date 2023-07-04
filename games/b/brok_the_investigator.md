@@ -11,12 +11,12 @@
 | Chapter 4 | 44.00% | ~7 |
 | Your Days Are Numbered | 44.00% | ~7 |
 | All Materials | 44.00% | ~7 |
-| Chapter 5 | 31.00% | ~5 |
+| Chapter 5 | 38.00% | ~6 |
 | It's In My Nature | 25.00% | ~4 |
+| Best Student | 19.00% | ~3 |
 | Chapter 6 | 19.00% | ~3 |
 | Highway Survival | 19.00% | ~3 |
 | Ads Fan | 13.00% | ~2 |
-| Best Student | 13.00% | ~2 |
 | Paw Music | 13.00% | ~2 |
 | Sugar Pills Lover | 13.00% | ~2 |
 | Hard To Wake Up | 13.00% | ~2 |

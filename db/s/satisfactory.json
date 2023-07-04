@@ -4,10 +4,10 @@
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 35,
-  "Ranking_PopularitySum": 15,
+  "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -7259,6 +7259,6 @@
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "LastChanged": "2023-07-04T09:59:36.2659724+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.134431+00:00",
-  "LastUpdate_Ratings": "2023-07-04T12:00:27.8646908+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:03:45.3688419+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:18:16.5084255+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:21:26.3524731+00:00"
 }

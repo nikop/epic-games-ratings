@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 710,
+  "Ranking_Rating": 711,
   "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 10,
@@ -474,9 +474,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1210991,
+  "EOS_Progressed": 1211078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14545,
+  "EOS_NewPlayers": 14513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4184,6 +4184,11 @@
       "Time": "2023-07-04T12:04:02.6831574+00:00",
       "NumProgressed": 1210991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T13:21:44.4120957+00:00",
+      "NumProgressed": 1211078,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -4307,7 +4312,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 133209
+      "UsersEstimate": 133219
     },
     {
       "ID": "10_ghost_wins",
@@ -4315,7 +4320,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 96879
+      "UsersEstimate": 96886
     },
     {
       "ID": "10_hero_prop_kills",
@@ -4331,7 +4336,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 193759
+      "UsersEstimate": 193772
     },
     {
       "ID": "10_hunter_wins",
@@ -4339,7 +4344,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 72659
+      "UsersEstimate": 72665
     },
     {
       "ID": "10_prop_headshots",
@@ -4347,7 +4352,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24220
+      "UsersEstimate": 24222
     },
     {
       "ID": "250_c4_kills",
@@ -4443,7 +4448,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12110
+      "UsersEstimate": 12111
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -4459,7 +4464,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48440
+      "UsersEstimate": 48443
     },
     {
       "ID": "50_riot_shield_kills",
@@ -4475,7 +4480,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 9688
+      "UsersEstimate": 9689
     },
     {
       "ID": "ace",
@@ -4483,7 +4488,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 121099
+      "UsersEstimate": 121108
     },
     {
       "ID": "ghost_win",
@@ -4491,7 +4496,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 726595
+      "UsersEstimate": 726647
     },
     {
       "ID": "hunter_win",
@@ -4499,7 +4504,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 666045
+      "UsersEstimate": 666093
     },
     {
       "ID": "master_of_loadouts",
@@ -4523,14 +4528,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 278528
+      "UsersEstimate": 278548
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1210991,
+      "Progressed": 1211078,
       "Completed": 0
     }
   ],
@@ -4538,8 +4543,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-07-04T08:57:02.3695772+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:04:02.6831566+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:21:44.4120953+00:00",
   "LastUpdate_AppInfo": "2023-06-29T18:57:06.4814338+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:57:11.7482379+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:04:02.6832143+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:14:58.007843+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:21:44.4121514+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -984,9 +984,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3952,
+  "EOS_Progressed": 3953,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5564,6 +5564,11 @@
       "Time": "2023-07-04T12:04:28.416128+00:00",
       "NumProgressed": 3952,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T13:22:11.1112089+00:00",
+      "NumProgressed": 3953,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5671,7 +5676,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5695,7 +5700,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5727,7 +5732,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -5759,7 +5764,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5847,7 +5852,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5894,15 +5899,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3952,
+      "Progressed": 3953,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-04T00:00:06.3274924+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:04:28.4161273+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:22:11.1112085+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-04T12:00:59.4126811+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:04:28.4161862+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:18:49.8716371+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:22:11.111269+00:00"
 }

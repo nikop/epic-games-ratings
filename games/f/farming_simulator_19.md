@@ -4,12 +4,12 @@
 Rating: 4.71 (Ranked 181)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 6,596  (Ranked 50)  
-Sum: 48,575 (Ranked 25)  
+Max (Great for Beginners): 6,603  (Ranked 50)  
+Sum: 48,582 (Ranked 25)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,596 |
+| This game is Great for Beginners | 6,603 |
 | This game is Relaxing | 5,885 |
 | This game is Educational | 5,786 |
 | This game has Quickly Understood Controls | 5,675 |
@@ -193,4 +193,4 @@ Diff (max vs sum): 25
 | 2023-07-01 | 4.71 | - | 6,587 | 48,520 |
 | 2023-07-02 | 4.71 | - | 6,596 | 48,548 |
 | 2023-07-03 | 4.71 | - | 6,596 | 48,564 |
-| 2023-07-04 | 4.71 | - | 6,596 | 48,575 |
+| 2023-07-04 | 4.71 | - | 6,603 | 48,582 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246015,
+  "EOS_Progressed": 246017,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7269,6 +7269,11 @@
       "Time": "2023-07-04T12:07:09.3533505+00:00",
       "NumProgressed": 246015,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T13:24:33.7011687+00:00",
+      "NumProgressed": 246017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7304,7 +7309,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51663
+      "UsersEstimate": 51664
     },
     {
       "ID": "blotbuster",
@@ -7352,7 +7357,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36902
+      "UsersEstimate": 36903
     },
     {
       "ID": "clearCut",
@@ -7432,7 +7437,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7380
+      "UsersEstimate": 7381
     },
     {
       "ID": "hereWeGo",
@@ -7456,7 +7461,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130388
+      "UsersEstimate": 130389
     },
     {
       "ID": "indegestible",
@@ -7568,7 +7573,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7380
+      "UsersEstimate": 7381
     },
     {
       "ID": "talentScout",
@@ -7584,7 +7589,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51663
+      "UsersEstimate": 51664
     },
     {
       "ID": "thunderstruck",
@@ -7640,14 +7645,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39362
+      "UsersEstimate": 39363
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246015,
+      "Progressed": 246017,
       "Completed": 3
     }
   ],
@@ -7655,8 +7660,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:07:09.3533494+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:24:33.7011683+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:59:50.5258132+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:07:09.3534219+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:17:39.5939313+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:24:33.7012473+00:00"
 }

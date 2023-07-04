@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1834,
+  "EOS_Progressed": 1835,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.4,
+  "EOS_Completed_Percentage": 8.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3438,6 +3438,11 @@
       "Time": "2023-07-04T11:02:53.4825438+00:00",
       "NumProgressed": 1834,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-07-04T13:19:29.4211293+00:00",
+      "NumProgressed": 1835,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 12,
@@ -3489,7 +3494,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Jude",
@@ -3505,7 +3510,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Little Helper",
@@ -3529,7 +3534,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Nuremberg Laws",
@@ -3544,7 +3549,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1834,
+      "Progressed": 1835,
       "Completed": 154
     }
   ],
@@ -3552,8 +3557,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:01:38.5871186+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:19:29.4211289+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-04T12:00:15.4848638+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:01:38.5871556+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:18:04.2673122+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:19:29.4211669+00:00"
 }

@@ -6,24 +6,24 @@ Rating: 4.45 (Ranked 619)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~32 |
+| Resourceful | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | Liberté | 0.90% | ~29 |
 | Sharpshooter | 0.90% | ~29 |
-| Resourceful | 0.90% | ~29 |
+| Confirming Suspicions | 0.90% | ~29 |
+| Lord of War | 0.90% | ~29 |
 | The Kraken Wakes | 0.90% | ~29 |
 | Change the Channel | 0.90% | ~29 |
 | Climbing the Ladder | 0.80% | ~26 |
 | No Stone Unturned | 0.80% | ~26 |
 | Gunslinger | 0.80% | ~26 |
-| Confirming Suspicions | 0.80% | ~26 |
-| Lord of War | 0.80% | ~26 |
+| As Quiet as a Mouse | 0.80% | ~26 |
 | Organ Grinder | 0.70% | ~22 |
-| As Quiet as a Mouse | 0.70% | ~22 |
+| Der Geist | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
-| Der Geist | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
@@ -42,6 +42,7 @@ Rating: 4.45 (Ranked 619)
 | Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
+| Strategist | 0.20% | ~6 |
 | The Long Game | 0.20% | ~6 |
 | Rigged to Blow | 0.20% | ~6 |
 | Burn after reading | 0.20% | ~6 |
@@ -56,7 +57,7 @@ Rating: 4.45 (Ranked 619)
 | Shipbreaker | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
-| Strategist | 0.10% | ~3 |
+| Master of Pistols | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | From Paris with Love | 0.10% | ~3 |
 | Souvenir hunter | 0.10% | ~3 |
@@ -72,7 +73,6 @@ Rating: 4.45 (Ranked 619)
 | Operation Overlord | 0.10% | ~3 |
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
-| Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |

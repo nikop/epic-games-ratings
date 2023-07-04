@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1896,
+  "EOS_Progressed": 1897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3216,6 +3216,11 @@
       "Time": "2023-07-04T12:05:01.9403756+00:00",
       "NumProgressed": 1896,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T13:22:45.0595142+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3307,7 +3312,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3329,9 +3334,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1138
     },
     {
       "ID": "GUARD_MAKER",
@@ -3402,14 +3407,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1896,
+      "Progressed": 1897,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:05:01.9403749+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:22:45.0595138+00:00",
   "LastUpdate_AppInfo": "2023-06-27T16:57:16.1177586+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:57:21.8535943+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:05:01.9404105+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:15:09.6253399+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:22:45.059548+00:00"
 }

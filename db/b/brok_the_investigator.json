@@ -4,7 +4,7 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -121,9 +121,9 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHAPTER1",
@@ -161,9 +161,9 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHAPTER6",
@@ -338,8 +338,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-07-04T12:07:12.0762338+00:00",
+  "LastChanged_Achievements": "2023-07-04T13:24:36.3966324+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:53.5260603+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:59:37.5771838+00:00",
-  "LastUpdate_Achievements": "2023-07-04T12:07:12.0762567+00:00"
+  "LastUpdate_Ratings": "2023-07-04T13:17:28.7554811+00:00",
+  "LastUpdate_Achievements": "2023-07-04T13:24:36.3966529+00:00"
 }

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~640 |
-| Space Colonization | 80.00% | ~528 |
-| Friendzone | 79.00% | ~521 |
-| Hello World | 75.00% | ~495 |
-| Tinkerer | 64.00% | ~422 |
+| Don't Panic! | 97.00% | ~641 |
+| Space Colonization | 80.00% | ~529 |
+| Friendzone | 79.00% | ~522 |
+| Hello World | 75.00% | ~496 |
+| Tinkerer | 64.00% | ~423 |
 | Space Engineer | 63.00% | ~416 |
-| Dust to Dust | 58.00% | ~383 |
-| Across The Stars | 47.00% | ~310 |
-| Crafty | 47.00% | ~310 |
-| All Seats Taken | 37.00% | ~244 |
+| Dust to Dust | 57.00% | ~377 |
+| Across The Stars | 47.00% | ~311 |
+| Crafty | 46.00% | ~304 |
+| All Seats Taken | 37.00% | ~245 |
 | For Science! | 33.00% | ~218 |
-| Meet the Petersons | 32.00% | ~211 |
+| Meet the Petersons | 31.00% | ~205 |
 | Stay Cool | 28.00% | ~185 |
 | KIA | 26.00% | ~172 |
 | Mutiny in making | 23.00% | ~152 |
 | Et tu, Astrocitizen? | 20.00% | ~132 |
-| Eco-Shuttle | 19.00% | ~125 |
+| Eco-Shuttle | 19.00% | ~126 |
 | Space Explorer | 15.00% | ~99 |
 | Hands Full | 13.00% | ~86 |
 | Gold Medalist | 12.00% | ~79 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 660 (Ranked 203)  
+Progressed: 661 (Ranked 203)  
 Completed: 1 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 1 (0.15%) (Ranked 169)
 | 2023-06-27 | 653 | 1 |
 | 2023-06-28 | 657 | 1 |
 | 2023-07-02 | 660 | 1 |
+| 2023-07-04 | 661 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
