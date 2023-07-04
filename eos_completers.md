@@ -32,10 +32,10 @@
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
-| 33 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.56% |
 | 33 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.56% |
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
-| 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
+| 35 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.26% |
+| 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
 | 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 5.00% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
@@ -82,7 +82,7 @@
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
-| 83 | [Somerville](games/s/somerville.md) | 1.57% |
+| 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Poosh XL](games/p/poosh_xl.md) | 1.49% |
@@ -100,7 +100,7 @@
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.07% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
-| 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
+| 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |

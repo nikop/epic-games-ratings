@@ -26,7 +26,7 @@
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 503 |
 | 26 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,407 | 123 |
-| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,012 | 142 |
+| 26 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,013 | 142 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 503 |
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 492 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 295 |
@@ -72,7 +72,7 @@
 | 65 | [GRIT](games/g/grit.md) | 4.82 | 0 | 503 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 503 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,452 | 97 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,226 | 52 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,231 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,430 | 122 |
@@ -121,7 +121,7 @@
 | 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,684 | 22 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 348 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 503 |
-| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,252 | 87 |
+| 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,255 | 87 |
 | 119 | [Diabotical](games/d/diabotical.md) | 4.76 | 270 | 241 |
 | 119 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 416 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,241 | 73 |
@@ -218,7 +218,7 @@
 | 196 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,396 | 71 |
 | 196 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.70 | 1,663 | 116 |
 | 196 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 503 |
-| 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 112,304 | 8 |
+| 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 112,360 | 8 |
 | 219 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 503 |
 | 219 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 503 |
 | 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,500 | 61 |
@@ -555,7 +555,7 @@
 | 551 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 503 |
 | 551 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 344 |
 | 551 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 503 |
-| 551 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,424 | 13 |
+| 551 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,449 | 13 |
 | 551 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 108 | 320 |
 | 551 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,511 | 93 |
 | 551 | [Horace](games/h/horace.md) | 4.50 | 0 | 503 |
@@ -796,13 +796,13 @@
 | 793 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.27 | 0 | 503 |
 | 793 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.27 | 0 | 503 |
 | 793 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 503 |
+| 793 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.27 | 0 | 503 |
 | 793 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 503 |
 | 793 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,488 | 96 |
 | 793 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 233 |
-| 800 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 503 |
-| 800 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 463 |
-| 800 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.26 | 0 | 503 |
-| 800 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 503 |
+| 801 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 503 |
+| 801 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 463 |
+| 801 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 503 |
 | 804 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,457 | 24 |
 | 804 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,035 | 140 |
 | 804 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 503 |
