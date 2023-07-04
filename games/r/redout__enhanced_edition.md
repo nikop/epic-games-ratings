@@ -1,38 +1,38 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 537)  
+Rating: 4.51 (Ranked 538)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~92,813 |
-| NATURAL BORN WINNER | 32.00% | ~72,440 |
-| CALLING HOUSTON | 28.00% | ~63,385 |
-| SNEAKY SNEAKY | 22.00% | ~49,802 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,802 |
-| GT9STRADALE | 20.00% | ~45,275 |
-| CHALLENGER | 11.00% | ~24,901 |
+| VANGUARD | 41.00% | ~92,816 |
+| NATURAL BORN WINNER | 32.00% | ~72,442 |
+| CALLING HOUSTON | 28.00% | ~63,387 |
+| SNEAKY SNEAKY | 22.00% | ~49,804 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,804 |
+| GT9STRADALE | 20.00% | ~45,276 |
+| CHALLENGER | 11.00% | ~24,902 |
 | ON A ROLL | 9.00% | ~20,374 |
 | CENTAUR | 8.00% | ~18,110 |
 | FASTER THAN EVER | 8.00% | ~18,110 |
-| CHALLENGE THE WORLD | 7.00% | ~15,846 |
-| PHOTOFINISH | 7.00% | ~15,846 |
+| CHALLENGE THE WORLD | 7.00% | ~15,847 |
+| PHOTOFINISH | 7.00% | ~15,847 |
 | QAREEN | 5.00% | ~11,319 |
 | SHOWOFF | 4.00% | ~9,055 |
 | TAKATORA | 4.00% | ~9,055 |
 | GILA | 3.00% | ~6,791 |
-| PRO | 2.00% | ~4,527 |
-| RESPWND | 2.00% | ~4,527 |
-| SHINY SHINY GOLD | 2.00% | ~4,527 |
+| PRO | 2.00% | ~4,528 |
+| RESPWND | 2.00% | ~4,528 |
+| SHINY SHINY GOLD | 2.00% | ~4,528 |
 | HARDCORE | 1.00% | ~2,264 |
 | ACE | 0.70% | ~1,585 |
 | TACTICIAN | 0.60% | ~1,358 |
 | GTX COMPETIZIONE | 0.50% | ~1,132 |
 | HIDDEN POWER | 0.50% | ~1,132 |
 | TUNING MANIAC | 0.50% | ~1,132 |
-| DRAGOON | 0.40% | ~905 |
-| FLAWLESS | 0.40% | ~905 |
+| DRAGOON | 0.40% | ~906 |
+| FLAWLESS | 0.40% | ~906 |
 | BETTER THAN EVER | 0.20% | ~453 |
 | IINI | 0.20% | ~453 |
 | MARID | 0.20% | ~453 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~453 |
 | ENLIGHTENED | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,374 (Ranked 48)  
+Progressed: 226,381 (Ranked 48)  
 Completed: 46 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 46 (0.02%) (Ranked 212)
 | 2023-07-01 | 226,152 | 46 |
 | 2023-07-02 | 226,260 | 46 |
 | 2023-07-03 | 226,331 | 46 |
-| 2023-07-04 | 226,374 | 46 |
+| 2023-07-04 | 226,381 | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

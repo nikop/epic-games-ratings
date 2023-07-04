@@ -1,23 +1,23 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 923)  
+Rating: 3.93 (Ranked 924)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,563 |
-| First One’s Free | 65.00% | ~44,413 |
-| Neophyte Ninja | 50.00% | ~34,164 |
-| Too Old for This | 47.00% | ~32,114 |
-| Fancy Pants | 35.00% | ~23,915 |
-| Case Closed | 34.00% | ~23,232 |
-| King of the Hill | 34.00% | ~23,232 |
-| Underworld Initiate | 29.00% | ~19,815 |
-| Roid Ranger | 21.00% | ~14,349 |
-| True Player | 19.00% | ~12,982 |
-| Off the Rocks | 19.00% | ~12,982 |
+| Downed but Not Outed | 74.00% | ~50,565 |
+| First One’s Free | 65.00% | ~44,415 |
+| Neophyte Ninja | 50.00% | ~34,166 |
+| Too Old for This | 47.00% | ~32,116 |
+| Fancy Pants | 35.00% | ~23,916 |
+| Case Closed | 34.00% | ~23,233 |
+| King of the Hill | 34.00% | ~23,233 |
+| Underworld Initiate | 29.00% | ~19,816 |
+| Roid Ranger | 21.00% | ~14,350 |
+| True Player | 19.00% | ~12,983 |
+| Off the Rocks | 19.00% | ~12,983 |
 | Dragonslayer | 17.00% | ~11,616 |
-| Raider’s Ruin | 16.00% | ~10,932 |
+| Raider’s Ruin | 16.00% | ~10,933 |
 | Hidden Sonata | 13.00% | ~8,883 |
 | Rockay Rex | 11.00% | ~7,516 |
 | Freebooter | 10.00% | ~6,833 |
@@ -27,8 +27,8 @@ Rating: 3.93 (Ranked 923)
 | Headhunter | 8.00% | ~5,466 |
 | Ding Dong | 8.00% | ~5,466 |
 | Foo Finder | 7.00% | ~4,783 |
-| Legend Looter | 5.00% | ~3,416 |
-| Savvy Seeker | 5.00% | ~3,416 |
+| Legend Looter | 5.00% | ~3,417 |
+| Savvy Seeker | 5.00% | ~3,417 |
 | Imports and Exports | 4.00% | ~2,733 |
 | Olympus Ascended | 4.00% | ~2,733 |
 | Cracked the Jack | 4.00% | ~2,733 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 923)
 | Geek Out | 0.50% | ~342 |
 | Full House | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,328 (Ranked 72)  
+Progressed: 68,331 (Ranked 72)  
 Completed: 35 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,17 +118,17 @@ Completed: 35 (0.05%) (Ranked 199)
 | 2023-07-01 | 68,153 | 35 |
 | 2023-07-02 | 68,222 | 35 |
 | 2023-07-03 | 68,277 | 35 |
-| 2023-07-04 | 68,328 | 35 |
+| 2023-07-04 | 68,331 | 35 |
 ## Awards
 Max (Diverse Characters): 355  (Ranked 219)  
-Sum: 1,687 (Ranked 208)  
+Sum: 1,688 (Ranked 208)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 355 |
 | This game is Highly Recommended | 344 |
 | This game has Quickly Understood Controls | 338 |
-| This game has Challenging Combat | 327 |
+| This game has Challenging Combat | 328 |
 | This game has Amazing Characters | 323 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -233,4 +233,4 @@ Diff (max vs sum): 11
 | 2023-07-01 | 3.93 | 350 | 1,669 |
 | 2023-07-02 | 3.93 | 350 | 1,675 |
 | 2023-07-03 | 3.93 | 353 | 1,682 |
-| 2023-07-04 | 3.93 | 355 | 1,687 |
+| 2023-07-04 | 3.93 | 355 | 1,688 |

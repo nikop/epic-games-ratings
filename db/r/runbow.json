@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 43,
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246029,
+  "EOS_Progressed": 246032,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7299,6 +7299,11 @@
       "Time": "2023-07-04T19:06:42.0475896+00:00",
       "NumProgressed": 246029,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T20:07:44.5190914+00:00",
+      "NumProgressed": 246032,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7334,7 +7339,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51666
+      "UsersEstimate": 51667
     },
     {
       "ID": "blotbuster",
@@ -7382,7 +7387,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36904
+      "UsersEstimate": 36905
     },
     {
       "ID": "clearCut",
@@ -7406,7 +7411,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44285
+      "UsersEstimate": 44286
     },
     {
       "ID": "curator",
@@ -7486,7 +7491,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130395
+      "UsersEstimate": 130397
     },
     {
       "ID": "indegestible",
@@ -7526,7 +7531,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19682
+      "UsersEstimate": 19683
     },
     {
       "ID": "lockupLockdown",
@@ -7550,7 +7555,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123014
+      "UsersEstimate": 123016
     },
     {
       "ID": "notScared",
@@ -7614,7 +7619,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51666
+      "UsersEstimate": 51667
     },
     {
       "ID": "thunderstruck",
@@ -7677,7 +7682,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246029,
+      "Progressed": 246032,
       "Completed": 3
     }
   ],
@@ -7685,8 +7690,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:42.0475889+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:44.5190908+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:59:41.7905772+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:42.0477058+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:00:10.4797305+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:44.5192456+00:00"
 }

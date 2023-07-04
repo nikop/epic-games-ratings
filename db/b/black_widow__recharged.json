@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 104,
@@ -146,9 +146,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15949,
+  "EOS_Progressed": 15950,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -6426,6 +6426,11 @@
       "Time": "2023-07-04T19:06:34.2786135+00:00",
       "NumProgressed": 15949,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-07-04T20:07:35.5160656+00:00",
+      "NumProgressed": 15950,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 14,
@@ -6493,7 +6498,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 8453
+      "UsersEstimate": 8454
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -6509,7 +6514,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -6548,15 +6553,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 15949,
+      "Progressed": 15950,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-31T22:01:00.0124016+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:34.2786129+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:35.5160651+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:50.9973325+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:01:06.4063857+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:34.2786777+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:01:49.6196726+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:35.5161349+00:00"
 }

@@ -1,14 +1,14 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.33 (Ranked 755)  
+Rating: 4.33 (Ranked 756)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~251 |
-| Cowardice | 55.00% | ~219 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~188 |
+| Explorer | 63.00% | ~252 |
+| Cowardice | 55.00% | ~220 |
+| NO LIFE IS WORTH SAVING... | 48.00% | ~192 |
 | Eat Lead! | 45.00% | ~180 |
 | Prospector | 41.00% | ~164 |
 | The Breaking Point | 41.00% | ~164 |
@@ -32,8 +32,8 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 17.00% | ~68 |
 | Sorrow | 16.00% | ~64 |
 | Collectibles of Chapter IV | 15.00% | ~60 |
-| Atonement | 15.00% | ~60 |
 | Collectibles of Chapter III | 14.00% | ~56 |
+| Atonement | 14.00% | ~56 |
 | Helping Hand | 14.00% | ~56 |
 | Without a Second Thought | 13.00% | ~52 |
 | Collectibles of Chapter V | 9.00% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 223)  
+Progressed: 400 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 395 | 0 |
 | 2023-07-02 | 397 | 0 |
 | 2023-07-03 | 398 | 0 |
-| 2023-07-04 | 399 | 0 |
+| 2023-07-04 | 400 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

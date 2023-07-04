@@ -5337,9 +5337,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 54980,
+  "EOS_Progressed": 54983,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13112,6 +13112,11 @@
       "Time": "2023-07-04T19:06:50.3157331+00:00",
       "NumProgressed": 54980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T20:07:53.994008+00:00",
+      "NumProgressed": 54983,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13131,7 +13136,7 @@
       "Name": "Apple of my eye",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7697
+      "UsersEstimate": 7698
     },
     {
       "ID": "Bannerlord",
@@ -13163,7 +13168,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "Catch",
@@ -13347,7 +13352,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17044
+      "UsersEstimate": 17045
     },
     {
       "ID": "Lawbringer",
@@ -13355,7 +13360,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20343
+      "UsersEstimate": 20344
     },
     {
       "ID": "Lawmaker",
@@ -13483,7 +13488,7 @@
       "Name": "This Is Our Land",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "This is Sparta",
@@ -13530,15 +13535,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 54980,
+      "Progressed": 54983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-04T18:00:21.2278265+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:50.3157325+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:53.9940074+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:00:19.4378278+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:50.315854+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:00:54.331046+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:53.9941198+00:00"
 }

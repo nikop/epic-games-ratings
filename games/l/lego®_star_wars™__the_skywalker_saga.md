@@ -53,7 +53,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I've never seen a real one!'' | 0.80% | ~399 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49,815 (Ranked 85)  
-Completed: 199 (0.40%) (Ranked 134)  
+Completed: 200 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,7 +127,7 @@ Completed: 199 (0.40%) (Ranked 134)
 | 2023-07-01 | 49,789 | 199 |
 | 2023-07-02 | 49,803 | 199 |
 | 2023-07-03 | 49,810 | 199 |
-| 2023-07-04 | 49,815 | 199 |
+| 2023-07-04 | 49,815 | 200 |
 ## Awards
 Max (Great Boss Battles): 2,340  (Ranked 101)  
 Sum: 6,462 (Ranked 116)  

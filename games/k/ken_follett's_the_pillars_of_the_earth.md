@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 519)  
+Rating: 4.52 (Ranked 520)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,15 +12,15 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 34.00% | ~4,659 |
 | Let there be darkness | 33.00% | ~4,522 |
 | End of Book One | 31.00% | ~4,248 |
-| Wannabe knight | 24.00% | ~3,288 |
-| Garden of Eden | 24.00% | ~3,288 |
-| Full house | 24.00% | ~3,288 |
-| Help an old friend | 22.00% | ~3,014 |
-| Two of us | 20.00% | ~2,740 |
-| Negotiation skills | 19.00% | ~2,603 |
-| Workers' union | 18.00% | ~2,466 |
-| End of Book Two | 18.00% | ~2,466 |
-| Everything's in order | 17.00% | ~2,329 |
+| Wannabe knight | 24.00% | ~3,289 |
+| Garden of Eden | 24.00% | ~3,289 |
+| Full house | 24.00% | ~3,289 |
+| Help an old friend | 22.00% | ~3,015 |
+| Two of us | 20.00% | ~2,741 |
+| Negotiation skills | 19.00% | ~2,604 |
+| Workers' union | 18.00% | ~2,467 |
+| End of Book Two | 18.00% | ~2,467 |
+| Everything's in order | 17.00% | ~2,330 |
 | Jack was here! | 15.00% | ~2,055 |
 | Twist of Fate | 14.00% | ~1,918 |
 | Exterminator | 14.00% | ~1,918 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~411 |
 | Boy of mystery | 2.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,702 (Ranked 110)  
+Progressed: 13,703 (Ranked 110)  
 Completed: 104 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 104 (0.76%) (Ranked 110)
 | 2023-07-01 | 13,636 | 103 |
 | 2023-07-02 | 13,663 | 103 |
 | 2023-07-03 | 13,677 | 104 |
-| 2023-07-04 | 13,702 | 104 |
+| 2023-07-04 | 13,703 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 936,
+  "Ranking_Rating": 937,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 105,
@@ -212,7 +212,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15830,
+  "EOS_Progressed": 15831,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -2827,6 +2827,11 @@
       "Time": "2023-07-04T16:06:34.1319861+00:00",
       "NumProgressed": 15830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T20:07:47.6890966+00:00",
+      "NumProgressed": 15831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2838,7 +2843,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15038
+      "UsersEstimate": 15039
     },
     {
       "ID": "ACH001",
@@ -2846,7 +2851,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13772
+      "UsersEstimate": 13773
     },
     {
       "ID": "ACH0010",
@@ -2870,15 +2875,15 @@
       "Name": "Pimp My Glide",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 7440
+      "UsersEstimate": 7441
     },
     {
       "ID": "ACH0013",
       "SetID": "6749a6l",
       "Name": "Make It Rain",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3799
     },
     {
       "ID": "ACH0014",
@@ -2958,7 +2963,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "ACH0023",
@@ -2990,7 +2995,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "ACH004",
@@ -2998,7 +3003,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13930
+      "UsersEstimate": 13931
     },
     {
       "ID": "ACH005",
@@ -3014,7 +3019,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ACH007",
@@ -3045,7 +3050,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15830,
+      "Progressed": 15831,
       "Completed": 0
     }
   ],
@@ -3053,8 +3058,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-06-29T22:59:53.1657282+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:44.7293601+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:47.6890959+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.9410166+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:00:57.02031+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:44.7294033+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:01:37.2401194+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:47.6891495+00:00"
 }

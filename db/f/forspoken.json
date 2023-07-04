@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 874,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -292,9 +292,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 38874,
+  "EOS_Progressed": 38875,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4897,6 +4897,11 @@
       "Time": "2023-07-04T17:07:39.8793274+00:00",
       "NumProgressed": 38874,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T20:07:53.4054309+00:00",
+      "NumProgressed": 38875,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -4924,7 +4929,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -4948,7 +4953,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -4980,7 +4985,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -4988,7 +4993,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -4996,7 +5001,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -5108,7 +5113,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -5180,7 +5185,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "MONUMENT_ALL",
@@ -5331,22 +5336,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38874,
+      "Progressed": 38875,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3711,
-      "Completed": 3711
+      "Progressed": 3712,
+      "Completed": 3712
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-07-01T18:58:51.3076879+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:49.8142683+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:53.4054304+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.3871444+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:58:54.7314432+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:49.8143558+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:59:16.7670888+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:53.4055175+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "fa234e40c4d44dfa84fbcb302fef0233",
   "Name": "City of Brass",
   "ProductSlug": "city-of-brass",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 486,
@@ -430,6 +430,6 @@
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
   "LastChanged": "2023-07-02T02:28:25.2444403+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:05.2933176+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:58:02.4007178+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:05:28.4842518+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:58:19.3233645+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:06:16.4589529+00:00"
 }

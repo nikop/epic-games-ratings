@@ -1,37 +1,37 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.42 (Ranked 948)  
+Rating: 3.42 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~14,222 |
-| Hard Worker | 20.00% | ~12,929 |
-| Master, Commander | 20.00% | ~12,929 |
-| Mechanic | 19.00% | ~12,283 |
-| Adios, Friendo | 18.00% | ~11,636 |
-| Bottom's Up | 17.00% | ~10,990 |
-| Nice Try | 16.00% | ~10,343 |
-| Right On Target | 13.00% | ~8,404 |
-| Piano Man | 10.00% | ~6,465 |
-| Lazy Bones | 9.00% | ~5,818 |
-| Vinyl Vibes | 8.00% | ~5,172 |
-| Sniper | 7.00% | ~4,525 |
+| Be Seeing You | 22.00% | ~14,225 |
+| Hard Worker | 20.00% | ~12,931 |
+| Master, Commander | 20.00% | ~12,931 |
+| Mechanic | 19.00% | ~12,285 |
+| Adios, Friendo | 18.00% | ~11,638 |
+| Bottom's Up | 18.00% | ~11,638 |
+| Nice Try | 16.00% | ~10,345 |
+| Right On Target | 13.00% | ~8,405 |
+| Piano Man | 10.00% | ~6,466 |
+| Lazy Bones | 9.00% | ~5,819 |
+| Vinyl Vibes | 8.00% | ~5,173 |
+| Sniper | 7.00% | ~4,526 |
 | Nothing Left to Say | 6.00% | ~3,879 |
-| Cut Call | 5.00% | ~3,232 |
+| Cut Call | 5.00% | ~3,233 |
 | Butcher | 4.00% | ~2,586 |
 | Magnetic Miracles | 4.00% | ~2,586 |
 | Spicy | 4.00% | ~2,586 |
-| A Man Of Taste | 3.00% | ~1,939 |
-| Ace in the Hole | 3.00% | ~1,939 |
-| Fair's Fair | 3.00% | ~1,939 |
-| Hearty | 3.00% | ~1,939 |
-| Meaty | 3.00% | ~1,939 |
-| Taco Toto | 3.00% | ~1,939 |
+| A Man Of Taste | 3.00% | ~1,940 |
+| Ace in the Hole | 3.00% | ~1,940 |
+| Fair's Fair | 3.00% | ~1,940 |
+| Hearty | 3.00% | ~1,940 |
+| Meaty | 3.00% | ~1,940 |
+| Taco Toto | 3.00% | ~1,940 |
 | Audiophile | 2.00% | ~1,293 |
 | Tape Head | 2.00% | ~1,293 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,646 (Ranked 77)  
+Progressed: 64,657 (Ranked 77)  
 Completed: 603 (0.93%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 603 (0.93%) (Ranked 103)
 | 2023-07-01 | 64,242 | 594 |
 | 2023-07-02 | 64,382 | 598 |
 | 2023-07-03 | 64,543 | 602 |
-| 2023-07-04 | 64,646 | 603 |
+| 2023-07-04 | 64,657 | 603 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

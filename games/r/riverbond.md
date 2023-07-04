@@ -1,29 +1,29 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 593)  
+Rating: 4.47 (Ranked 594)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~364,907 |
-| Now You're Talking | 62.00% | ~323,204 |
-| Steel Yourself | 62.00% | ~323,204 |
-| Window Dressing | 50.00% | ~260,648 |
-| Trigger Happy | 46.00% | ~239,796 |
-| Riverborn | 45.00% | ~234,583 |
-| Starry Eyed | 34.00% | ~177,241 |
-| Poking Around | 34.00% | ~177,241 |
-| Talk of the Town | 24.00% | ~125,111 |
-| AAARR! | 23.00% | ~119,898 |
-| Hello Darkness | 23.00% | ~119,898 |
-| Wind At Our Backs | 22.00% | ~114,685 |
-| To the Beat | 20.00% | ~104,259 |
-| Sunny Shores | 17.00% | ~88,620 |
-| Sunday Best | 16.00% | ~83,407 |
-| To Victory! | 15.00% | ~78,194 |
-| Two of a Kind | 14.00% | ~72,981 |
-| Keep On Trucking | 13.00% | ~67,768 |
+| First Step | 70.00% | ~364,910 |
+| Now You're Talking | 62.00% | ~323,206 |
+| Steel Yourself | 62.00% | ~323,206 |
+| Window Dressing | 50.00% | ~260,650 |
+| Trigger Happy | 46.00% | ~239,798 |
+| Riverborn | 45.00% | ~234,585 |
+| Starry Eyed | 34.00% | ~177,242 |
+| Poking Around | 34.00% | ~177,242 |
+| Talk of the Town | 24.00% | ~125,112 |
+| AAARR! | 23.00% | ~119,899 |
+| Hello Darkness | 23.00% | ~119,899 |
+| Wind At Our Backs | 22.00% | ~114,686 |
+| To the Beat | 20.00% | ~104,260 |
+| Sunny Shores | 17.00% | ~88,621 |
+| Sunday Best | 16.00% | ~83,408 |
+| To Victory! | 15.00% | ~78,195 |
+| Two of a Kind | 14.00% | ~72,982 |
+| Keep On Trucking | 13.00% | ~67,769 |
 | Going on an Adventure | 11.00% | ~57,343 |
 | Make Peace, Not War | 11.00% | ~57,343 |
 | Walking The Line | 10.00% | ~52,130 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,564 |
 | Point Taken | 0.10% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,296 (Ranked 29)  
+Progressed: 521,300 (Ranked 29)  
 Completed: 438 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 438 (0.08%) (Ranked 188)
 | 2023-07-01 | 521,047 | 436 |
 | 2023-07-02 | 521,160 | 437 |
 | 2023-07-03 | 521,237 | 438 |
-| 2023-07-04 | 521,296 | 438 |
+| 2023-07-04 | 521,300 | 438 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

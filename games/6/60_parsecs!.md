@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~641 |
-| Space Colonization | 80.00% | ~529 |
-| Friendzone | 79.00% | ~522 |
+| Don't Panic! | 97.00% | ~642 |
+| Space Colonization | 80.00% | ~530 |
+| Friendzone | 79.00% | ~523 |
 | Hello World | 75.00% | ~496 |
-| Tinkerer | 64.00% | ~423 |
-| Space Engineer | 63.00% | ~416 |
-| Dust to Dust | 58.00% | ~383 |
+| Tinkerer | 64.00% | ~424 |
+| Space Engineer | 63.00% | ~417 |
+| Dust to Dust | 58.00% | ~384 |
 | Across The Stars | 47.00% | ~311 |
 | Crafty | 47.00% | ~311 |
 | All Seats Taken | 37.00% | ~245 |
-| For Science! | 33.00% | ~218 |
+| For Science! | 32.00% | ~212 |
 | Meet the Petersons | 32.00% | ~212 |
 | Stay Cool | 28.00% | ~185 |
 | KIA | 26.00% | ~172 |
@@ -25,7 +25,7 @@
 | Hands Full | 13.00% | ~86 |
 | Gold Medalist | 12.00% | ~79 |
 | Non-Fiction | 11.00% | ~73 |
-| No Man Left Behind | 9.00% | ~59 |
+| No Man Left Behind | 9.00% | ~60 |
 | Intergalactic Breakup | 8.00% | ~53 |
 | First of April | 7.00% | ~46 |
 | Fix-It Felix | 7.00% | ~46 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 203)  
+Progressed: 662 (Ranked 203)  
 Completed: 1 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.15%) (Ranked 169)
 | 2023-06-27 | 653 | 1 |
 | 2023-06-28 | 657 | 1 |
 | 2023-07-02 | 660 | 1 |
-| 2023-07-04 | 661 | 1 |
+| 2023-07-04 | 662 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 140,
@@ -984,9 +984,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3960,
+  "EOS_Progressed": 3962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5589,6 +5589,11 @@
       "Time": "2023-07-04T17:04:45.0431115+00:00",
       "NumProgressed": 3960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T20:05:00.1087307+00:00",
+      "NumProgressed": 3962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5696,7 +5701,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5704,7 +5709,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5720,7 +5725,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -5760,7 +5765,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5782,9 +5787,9 @@
       "ID": "ACH_MISSION_NOELECTION",
       "SetID": "1p8ab95",
       "Name": "We Don\u0027t Have Time For That",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 752
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5856,7 +5861,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5872,7 +5877,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5919,15 +5924,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3960,
+      "Progressed": 3962,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-04T00:00:06.3274924+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:04:22.7502163+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:05:00.10873+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-04T19:00:54.331738+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:04:22.7502906+00:00"
+  "LastUpdate_Ratings": "2023-07-04T20:01:34.3832348+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:05:00.1087885+00:00"
 }

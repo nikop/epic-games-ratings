@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 851)  
+Rating: 4.18 (Ranked 852)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 851)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,431 (Ranked 73)  
+Progressed: 66,433 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,14 +142,14 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-01 | 66,242 | 100 |
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
-| 2023-07-04 | 66,431 | 100 |
+| 2023-07-04 | 66,433 | 100 |
 ## Awards
-Max (Great Boss Battles): 2,411  (Ranked 100)  
-Sum: 3,995 (Ranked 137)  
+Max (Great Boss Battles): 2,416  (Ranked 100)  
+Sum: 4,000 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,411 |
+| This game has Great Boss Battles | 2,416 |
 | This game is Extremely Fun | 205 |
 | This game has Quickly Understood Controls | 203 |
 | This game is Relaxing | 203 |
@@ -295,4 +295,4 @@ Diff (max vs sum): -37
 | 2023-07-01 | 4.18 | 2,407 | 3,981 |
 | 2023-07-02 | 4.18 | 2,407 | 3,985 |
 | 2023-07-03 | 4.18 | 2,411 | 3,993 |
-| 2023-07-04 | 4.18 | 2,411 | 3,995 |
+| 2023-07-04 | 4.18 | 2,416 | 4,000 |

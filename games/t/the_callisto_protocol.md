@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 843)  
+Rating: 4.19 (Ranked 844)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,12 +16,12 @@ Rating: 4.19 (Ranked 843)
 | Float Like A Butterfly | 1.00% | ~156 |
 | Reforged | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
+| Without A Paddle | 1.00% | ~156 |
 | In the Pipe, Five by Five | 1.00% | ~156 |
+| Crash Site | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
 | If the SHU Fits... | 0.90% | ~141 |
-| Without A Paddle | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
-| Crash Site | 0.90% | ~141 |
 | Full Circle | 0.90% | ~141 |
 | Power Up | 0.90% | ~141 |
 | Giving Back | 0.80% | ~125 |
@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 843)
 | The Commonality | 0.70% | ~109 |
 | Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.60% | ~21 |
-| In Striking Distance | 0.40% | ~63 |
+| In Striking Distance | 0.50% | ~78 |
 | This Isn't About Escape | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,635 (Ranked 106)  
+Progressed: 15,635 (Ranked 107)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-04 | 15,635 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 378)  
-Sum: 363 (Ranked 319)  
+Sum: 364 (Ranked 319)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 51 |
 | This game has Challenging Combat | 47 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -227,4 +227,4 @@ Diff (max vs sum): 59
 | 2023-07-01 | 4.20 | 63 | 354 |
 | 2023-07-02 | 4.19 | 63 | 356 |
 | 2023-07-03 | 4.19 | 63 | 358 |
-| 2023-07-04 | 4.19 | 64 | 363 |
+| 2023-07-04 | 4.19 | 64 | 364 |

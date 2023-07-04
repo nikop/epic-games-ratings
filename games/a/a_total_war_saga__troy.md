@@ -1,11 +1,11 @@
 # A Total War Saga: TROY
 [Store](https://store.epicgames.com/en-US/p/a-total-war-saga-troy)  
 [View Rawdata](../../db/a/a_total_war_saga__troy.json)  
-Rating: 4.51 (Ranked 537)  
+Rating: 4.51 (Ranked 538)  
 Number of Ratings: 6,316  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,644  (Ranked 118)  
-Sum: 11,627 (Ranked 74)  
+Sum: 11,628 (Ranked 74)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 44
 | This game is Extremely Fun | 1,451 |
 | This game has Amazing Characters | 1,407 |
 | This game has Quickly Understood Controls | 1,390 |
-| This game is Relaxing | 1,387 |
+| This game is Relaxing | 1,388 |
 | This game has Amazing Storytelling | 1,365 |
 | This game has Obsessive Gameplay | 1,004 |
 ## Ratings History
@@ -177,4 +177,4 @@ Diff (max vs sum): 44
 | 2023-07-01 | 4.51 | - | 1,638 | 11,606 |
 | 2023-07-02 | 4.51 | - | 1,641 | 11,615 |
 | 2023-07-03 | 4.51 | - | 1,641 | 11,623 |
-| 2023-07-04 | 4.51 | - | 1,644 | 11,627 |
+| 2023-07-04 | 4.51 | - | 1,644 | 11,628 |

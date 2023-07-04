@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 362)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tipping the Scales | 3.00% | ~147 |
+| Secret Technique | 3.00% | ~148 |
+| Tipping the Scales | 3.00% | ~148 |
 | Realm Estate | 2.00% | ~98 |
 | A Wonderful Discovery | 2.00% | ~98 |
-| Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
 | From Friends to Family | 2.00% | ~98 |
 | Stronger Together | 2.00% | ~98 |
@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 362)
 | Mighty Hoard | 2.00% | ~98 |
 | There Can Only Be One! | 1.00% | ~49 |
 | Full Ascension | 1.00% | ~49 |
+| Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
@@ -29,18 +30,17 @@ Rating: 4.61 (Ranked 362)
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
-| Return of the Wizard King | 0.90% | ~44 |
+| Valley of Wonders | 0.90% | ~44 |
 | Enchanted Archipelago | 0.90% | ~44 |
 | Digging for Treasure | 0.90% | ~44 |
-| Valley of Wonders | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | God Emperor | 0.70% | ~34 |
 | The Creator | 0.70% | ~34 |
 | The Goddess of Nature | 0.70% | ~34 |
-| Lord of Chaos | 0.60% | ~29 |
-| Crimson Caldera | 0.60% | ~29 |
-| The Eternal Court | 0.60% | ~29 |
+| Lord of Chaos | 0.60% | ~30 |
+| Crimson Caldera | 0.60% | ~30 |
+| The Eternal Court | 0.60% | ~30 |
 | Jack of All Tomes | 0.50% | ~25 |
 | Pruning for Progress | 0.40% | ~20 |
 | Grexolis | 0.40% | ~20 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 362)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,916 (Ranked 134)  
+Progressed: 4,917 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-07-01 | 4,898 | 4 |
 | 2023-07-02 | 4,902 | 4 |
 | 2023-07-03 | 4,908 | 4 |
-| 2023-07-04 | 4,916 | 4 |
+| 2023-07-04 | 4,917 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

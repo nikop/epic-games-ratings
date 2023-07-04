@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 124,
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6905,
+  "EOS_Progressed": 6906,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5234,6 +5234,11 @@
       "Time": "2023-07-04T19:03:45.494878+00:00",
       "NumProgressed": 6905,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-04T20:04:17.322275+00:00",
+      "NumProgressed": 6906,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5245,7 +5250,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "ACH02",
@@ -5309,7 +5314,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH10",
@@ -5317,7 +5322,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACH11",
@@ -5381,7 +5386,7 @@
       "Name": "Not So Fast",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACH19",
@@ -5437,7 +5442,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH26",
@@ -5476,7 +5481,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6905,
+      "Progressed": 6906,
       "Completed": 40
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-04T08:58:04.5162173+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:03:45.4948775+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:04:17.3222744+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:58:10.1454461+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:03:45.4949467+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:58:28.7980767+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:04:17.3223267+00:00"
 }

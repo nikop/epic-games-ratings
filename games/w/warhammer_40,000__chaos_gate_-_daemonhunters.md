@@ -1,15 +1,15 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.59 (Ranked 411)  
+Rating: 4.59 (Ranked 412)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 38.00% | ~1,117 |
-| Look Over There! | 33.00% | ~970 |
+| Executioner | 38.00% | ~1,118 |
+| Look Over There! | 33.00% | ~971 |
 | Watch Where You Step... | 32.00% | ~941 |
-| Not So Fast... | 31.00% | ~911 |
+| Not So Fast... | 31.00% | ~912 |
 | An Ill Omen | 30.00% | ~882 |
 | Purging Spree | 24.00% | ~706 |
 | Blood for the Blood God! | 19.00% | ~559 |
@@ -20,7 +20,7 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 12.00% | ~353 |
 | Nemesis Master | 12.00% | ~353 |
 | A Foul Creche | 12.00% | ~353 |
-| Gunmaster | 11.00% | ~323 |
+| Gunmaster | 11.00% | ~324 |
 | Opportunist | 8.00% | ~235 |
 | Efficient Killer | 8.00% | ~235 |
 | Just a Scratch | 8.00% | ~235 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,940 (Ranked 149)  
+Progressed: 2,941 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 2,931 | 0 |
 | 2023-07-02 | 2,937 | 0 |
 | 2023-07-03 | 2,939 | 0 |
-| 2023-07-04 | 2,940 | 0 |
+| 2023-07-04 | 2,941 | 0 |
 ## Awards
 Max (Character Customization): 213  (Ranked 262)  
 Sum: 427 (Ranked 304)  

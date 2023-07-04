@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.14 (Ranked 873)  
+Rating: 4.14 (Ranked 874)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,12 +21,12 @@ Rating: 4.14 (Ranked 873)
 | The Interloper | 3.00% | ~1,166 |
 | Hop, Step, Jump | 3.00% | ~1,166 |
 | Endless Runner | 3.00% | ~1,166 |
-| Outdoorsperson | 2.00% | ~777 |
-| What Must Be Done | 2.00% | ~777 |
-| Might and Main | 2.00% | ~777 |
-| Damned If You Do... | 2.00% | ~777 |
-| Explorer: Pathfinder | 2.00% | ~777 |
-| From Every Angle | 2.00% | ~777 |
+| Outdoorsperson | 2.00% | ~778 |
+| What Must Be Done | 2.00% | ~778 |
+| Might and Main | 2.00% | ~778 |
+| Damned If You Do... | 2.00% | ~778 |
+| Explorer: Pathfinder | 2.00% | ~778 |
+| From Every Angle | 2.00% | ~778 |
 | The Hue of Blue | 1.00% | ~389 |
 | The Truth Will Out | 1.00% | ~389 |
 | Breaking Point | 1.00% | ~389 |
@@ -38,7 +38,7 @@ Rating: 4.14 (Ranked 873)
 | Awakening | 0.60% | ~233 |
 | Realized Potential | 0.60% | ~233 |
 | Explorer: Trailblazer | 0.50% | ~194 |
-| Through the Eyes of Another: Seer | 0.40% | ~155 |
+| Through the Eyes of Another: Seer | 0.40% | ~156 |
 | Archivist | 0.30% | ~117 |
 | Craftsperson | 0.30% | ~117 |
 | Tit for Tat | 0.30% | ~117 |
@@ -59,7 +59,7 @@ Rating: 4.14 (Ranked 873)
 | Remembrance | 0.10% | ~39 |
 | Cat Person | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,874 (Ranked 88)  
+Progressed: 38,875 (Ranked 88)  
 Completed: 3 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 3 (0.01%) (Ranked 220)
 | 2023-07-01 | 38,838 | 3 |
 | 2023-07-02 | 38,853 | 3 |
 | 2023-07-03 | 38,867 | 3 |
-| 2023-07-04 | 38,874 | 3 |
+| 2023-07-04 | 38,875 | 3 |
 ## Awards
 Max (Character Customization): 20  (Ranked 500)  
 Sum: 20 (Ranked 501)  

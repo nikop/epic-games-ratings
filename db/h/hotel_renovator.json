@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 846,
+  "EOS_Progressed": 848,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-07-04T12:03:21.8959167+00:00",
       "NumProgressed": 846,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-07-04T20:03:42.4875721+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 27,
@@ -886,7 +891,7 @@
       "Name": "Humble beginnings",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -900,25 +905,25 @@
       "ID": "ACH_CHICKEN_ENCOUNTERED",
       "SetID": "7k95e4n",
       "Name": "Soulmate?",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH_DICE_WIN",
       "SetID": "7k95e4n",
       "Name": "Roll with it",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -926,7 +931,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -934,7 +939,7 @@
       "Name": "Love is in the air",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -942,7 +947,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -950,7 +955,7 @@
       "Name": "No need to call anyone",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -974,15 +979,15 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -990,7 +995,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -998,7 +1003,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -1006,7 +1011,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_POSTCARD",
@@ -1014,15 +1019,15 @@
       "Name": "Island boy",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1030,7 +1035,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_STAR_1",
@@ -1038,7 +1043,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_STAR_2",
@@ -1046,7 +1051,7 @@
       "Name": "Moving up",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_STAR_3",
@@ -1062,7 +1067,7 @@
       "Name": "Nearly there",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_STAR_5",
@@ -1070,7 +1075,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1086,7 +1091,7 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -1094,14 +1099,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 846,
+      "Progressed": 848,
       "Completed": 15
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-06-25T18:57:43.4817761+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:03:16.1670868+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:03:42.4875715+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.3314421+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:57:21.6323728+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:03:16.1671125+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:57:27.8421914+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:03:42.4875975+00:00"
 }

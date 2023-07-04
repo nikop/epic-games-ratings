@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2940,
+  "EOS_Progressed": 2941,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2071,6 +2071,11 @@
       "Time": "2023-07-04T19:06:53.3541225+00:00",
       "NumProgressed": 2940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T20:07:57.3148594+00:00",
+      "NumProgressed": 2941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2098,7 +2103,7 @@
       "Name": "Look Over There!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "BloodAndIron",
@@ -2250,7 +2255,7 @@
       "Name": "Not So Fast...",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "Kills_Bleed",
@@ -2274,7 +2279,7 @@
       "Name": "Executioner",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "Kills_Exterminator",
@@ -2362,7 +2367,7 @@
       "Name": "Gunmaster",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "MasterOfTheForge",
@@ -2553,21 +2558,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2940,
+      "Progressed": 2941,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2940,
+      "Progressed": 2941,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-04T19:06:53.3541219+00:00",
+  "LastChanged_Achievements": "2023-07-04T20:07:57.3148589+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-04T18:59:10.2841059+00:00",
-  "LastUpdate_Achievements": "2023-07-04T19:06:53.3541958+00:00"
+  "LastUpdate_Ratings": "2023-07-04T19:59:31.6929259+00:00",
+  "LastUpdate_Achievements": "2023-07-04T20:07:57.3149286+00:00"
 }

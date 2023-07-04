@@ -41,7 +41,7 @@ Number of Ratings: 180  (23.09.2022)
 | Old timer | 22.00% | ~304 |
 | The ugly smell of success | 22.00% | ~304 |
 | Heavily loaded | 21.00% | ~290 |
-| Bob Ross | 15.00% | ~207 |
+| Bob Ross | 16.00% | ~221 |
 | Campaign expert | 11.00% | ~152 |
 | Truck Fever | 11.00% | ~152 |
 | No free seats | 10.00% | ~138 |
