@@ -1,8 +1,8 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.70% |
-| 2 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 30.00% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 40.00% |
+| 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -36,8 +36,8 @@
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
-| 37 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 5.00% |
-| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
+| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
+| 38 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.76% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
@@ -99,13 +99,13 @@
 | 97 | [Trifox](games/t/trifox.md) | 1.11% |
 | 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.07% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
-| 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.05% |
+| 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
 | 103 | [Adios](games/a/adios.md) | 0.93% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.83% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
@@ -130,7 +130,7 @@
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
@@ -162,9 +162,9 @@
 | 160 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 160 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 160 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 160 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.19% |
 | 160 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
-| 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
+| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.18% |
+| 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 166 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 167 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 167 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |

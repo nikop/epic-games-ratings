@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,030 | 4.62 | 345 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,395 | 4.53 | 503 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,621 | 4.58 | 423 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 39,970 | 4.61 | 362 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,050 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,449 | 4.50 | 551 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,955 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,482 | 4.52 | 519 |
@@ -121,7 +121,7 @@
 | 119 | [Celeste](games/c/celeste.md) | 1,509 | 4.92 | 4 |
 | 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,483 | 4.58 | 423 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,465 | 4.79 | 88 |
-| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,430 | 4.81 | 75 |
+| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,433 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,407 | 4.87 | 26 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,365 | 4.62 | 345 |
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,307 | 4.52 | 519 |
@@ -199,7 +199,7 @@
 | 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 273 |
 | 198 | [Second Extinction™](games/s/second_extinction™.md) | 451 | 4.05 | 900 |
 | 199 | [The Sims™ 4](games/t/the_sims™_4.md) | 450 | 4.61 | 362 |
-| 200 | [Prison Architect](games/p/prison_architect.md) | 447 | 4.61 | 362 |
+| 200 | [Prison Architect](games/p/prison_architect.md) | 449 | 4.61 | 362 |
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 420 | 4.40 | 687 |
 | 202 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 203 | [RimWorld](games/r/rimworld.md) | 417 | 4.89 | 12 |
@@ -207,7 +207,7 @@
 | 205 | [Dishonored 2](games/d/dishonored_2.md) | 413 | 4.79 | 88 |
 | 206 | [Into the Breach](games/i/into_the_breach.md) | 410 | 4.84 | 50 |
 | 207 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 408 | 4.73 | 157 |
-| 208 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 402 | 4.49 | 570 |
+| 208 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 403 | 4.49 | 570 |
 | 209 | [Warface](games/w/warface.md) | 399 | 3.91 | 926 |
 | 210 | [Slime Rancher](games/s/slime_rancher.md) | 395 | 4.82 | 65 |
 | 211 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 377 | 4.61 | 362 |
@@ -377,12 +377,12 @@
 | 375 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 66 | 4.63 | 331 |
 | 375 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 652 |
 | 375 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 311 |
+| 378 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 64 | 4.19 | 843 |
 | 378 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 64 | 4.59 | 411 |
 | 378 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 64 | 3.77 | 941 |
 | 378 | [Ticket to Ride](games/t/ticket_to_ride.md) | 64 | 4.62 | 345 |
-| 381 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 63 | 4.42 | 660 |
-| 381 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 63 | 4.19 | 843 |
-| 381 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 536 |
+| 382 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 63 | 4.42 | 660 |
+| 382 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.51 | 536 |
 | 384 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 570 |
 | 384 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 388 |
 | 386 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 59 | 4.55 | 477 |
