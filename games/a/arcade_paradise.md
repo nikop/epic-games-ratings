@@ -5,10 +5,10 @@ Rating: 4.58 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~620 |
-| Fetch Quest Complete | 90.00% | ~575 |
-| I can't wait! | 83.00% | ~530 |
-| Swish | 56.00% | ~358 |
+| Pushing a pull door | 96.00% | ~615 |
+| Fetch Quest Complete | 90.00% | ~577 |
+| I can't wait! | 83.00% | ~532 |
+| Swish | 56.00% | ~359 |
 | Clean up on Aisle 9 | 40.00% | ~256 |
 | Machine Maxed | 30.00% | ~192 |
 | Bug Fixer | 25.00% | ~160 |
@@ -17,7 +17,7 @@ Rating: 4.58 (Ranked 423)
 | Goal | 22.00% | ~141 |
 | I ran the numbers | 15.00% | ~96 |
 | Taking the plunge | 13.00% | ~83 |
-| Hidden Packages | 11.00% | ~70 |
+| Hidden Packages | 11.00% | ~71 |
 | GOOOAAAL | 9.00% | ~58 |
 | New Kid on the Block | 7.00% | ~45 |
 | Ahoy Hoy | 6.00% | ~38 |
@@ -31,11 +31,11 @@ Rating: 4.58 (Ranked 423)
 | Waking nightmare | 4.00% | ~26 |
 | We come in peace | 3.00% | ~19 |
 | Crowning achievement | 3.00% | ~19 |
-| Modern Gorefare | 3.00% | ~19 |
 | Hammer time | 3.00% | ~19 |
 | 1CC | 2.00% | ~13 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~13 |
 | To do. Done! | 2.00% | ~13 |
+| Modern Gorefare | 2.00% | ~13 |
 | GTA: Crime City | 2.00% | ~13 |
 | 1337 HAXXOR | 1.00% | ~6 |
 | Drop the ball | 1.00% | ~6 |
@@ -60,7 +60,7 @@ Rating: 4.58 (Ranked 423)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639 (Ranked 205)  
+Progressed: 641 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-24 | 637 | 0 |
 | 2023-06-28 | 638 | 0 |
 | 2023-06-30 | 639 | 0 |
+| 2023-07-04 | 641 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

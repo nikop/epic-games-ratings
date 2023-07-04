@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,912 |
-| The Mad Wizard | 11.00% | ~22,669 |
-| Are Ya Chicken? | 7.00% | ~14,426 |
-| The Ring of Regeneration | 6.00% | ~12,365 |
-| Were-verpowered | 5.00% | ~10,304 |
-| Mad Cow Disease | 5.00% | ~10,304 |
-| Friendly Imps | 5.00% | ~10,304 |
-| A Persistent Buzzing | 4.00% | ~8,243 |
-| Seeking Allies | 4.00% | ~8,243 |
-| Pure Energy | 4.00% | ~8,243 |
-| Terror in the Dark | 3.00% | ~6,182 |
-| Unearthed Evil | 3.00% | ~6,182 |
-| The Crumbling Temple | 3.00% | ~6,182 |
-| The Contagious Curse | 3.00% | ~6,182 |
+| The Cursed Farmer | 15.00% | ~30,918 |
+| The Mad Wizard | 11.00% | ~22,674 |
+| Are Ya Chicken? | 7.00% | ~14,429 |
+| The Ring of Regeneration | 6.00% | ~12,367 |
+| Were-verpowered | 5.00% | ~10,306 |
+| Mad Cow Disease | 5.00% | ~10,306 |
+| Friendly Imps | 5.00% | ~10,306 |
+| A Persistent Buzzing | 4.00% | ~8,245 |
+| Seeking Allies | 4.00% | ~8,245 |
+| Pure Energy | 4.00% | ~8,245 |
+| Terror in the Dark | 3.00% | ~6,184 |
+| Unearthed Evil | 3.00% | ~6,184 |
+| The Crumbling Temple | 3.00% | ~6,184 |
+| The Contagious Curse | 3.00% | ~6,184 |
 | Beast Mode | 2.00% | ~4,122 |
 | Low Initiative | 2.00% | ~4,122 |
 | A Mysterious Summons | 2.00% | ~4,122 |
@@ -56,32 +56,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.70% | ~1,443 |
 | Wisdom Check | 0.70% | ~1,443 |
 | The Mists of Ravenloft | 0.70% | ~1,443 |
+| Nimble Escape | 0.70% | ~1,443 |
 | The Dead Three | 0.70% | ~1,443 |
 | Easily Distracted | 0.70% | ~1,443 |
-| A Grand Puzzle | 0.60% | ~1,236 |
-| Tomb of the Nine Gods | 0.60% | ~1,236 |
-| Family Entanglements | 0.60% | ~1,236 |
-| The Immortal Warrior | 0.60% | ~1,236 |
-| Treasure Hunters | 0.60% | ~1,236 |
-| Nimble Escape | 0.60% | ~1,236 |
-| Fugitives | 0.60% | ~1,236 |
-| Crowded Streets | 0.60% | ~1,236 |
-| The Darkness Runs Deeper | 0.60% | ~1,236 |
-| Market Fluctuations | 0.60% | ~1,236 |
+| A Grand Puzzle | 0.60% | ~1,237 |
+| Tomb of the Nine Gods | 0.60% | ~1,237 |
+| Family Entanglements | 0.60% | ~1,237 |
+| The Immortal Warrior | 0.60% | ~1,237 |
+| Treasure Hunters | 0.60% | ~1,237 |
+| Fugitives | 0.60% | ~1,237 |
+| Crowded Streets | 0.60% | ~1,237 |
+| The Darkness Runs Deeper | 0.60% | ~1,237 |
+| Market Fluctuations | 0.60% | ~1,237 |
 | The Giant's Bane Tavern | 0.60% | ~1,034 |
-| Rude Welcome | 0.60% | ~1,236 |
-| Durable Deep | 0.60% | ~1,236 |
-| The Haunted Jungle | 0.60% | ~1,236 |
-| Sleuth It Out | 0.50% | ~1,030 |
-| The Wyrmheart Mine | 0.50% | ~1,030 |
-| Tower on the Lake | 0.50% | ~1,030 |
-| Seeds of Deceit | 0.50% | ~1,030 |
-| The Guardian of Orolunga | 0.50% | ~1,030 |
-| The Lost Love | 0.50% | ~1,030 |
-| Hopelessly Lost | 0.50% | ~1,030 |
-| Enter the Sargauth | 0.50% | ~1,030 |
-| Lair of the Xanathar | 0.50% | ~1,030 |
-| Difficult Terrain | 0.50% | ~1,030 |
+| Rude Welcome | 0.60% | ~1,237 |
+| Durable Deep | 0.60% | ~1,237 |
+| The Haunted Jungle | 0.60% | ~1,237 |
+| Sleuth It Out | 0.50% | ~1,031 |
+| The Wyrmheart Mine | 0.50% | ~1,031 |
+| Tower on the Lake | 0.50% | ~1,031 |
+| Seeds of Deceit | 0.50% | ~1,031 |
+| The Guardian of Orolunga | 0.50% | ~1,031 |
+| The Lost Love | 0.50% | ~1,031 |
+| Hopelessly Lost | 0.50% | ~1,031 |
+| Enter the Sargauth | 0.50% | ~1,031 |
+| Lair of the Xanathar | 0.50% | ~1,031 |
+| Difficult Terrain | 0.50% | ~1,031 |
 | The Everlasting Rime | 0.50% | ~862 |
 | Lobsterfolk Assault | 0.40% | ~824 |
 | Home Field Advantage | 0.40% | ~824 |
@@ -106,8 +106,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.40% | ~824 |
 | Resolve Amongst Chaos | 0.40% | ~824 |
 | Once More Into The Breach | 0.40% | ~824 |
-| Into The Fire | 0.40% | ~689 |
-| Moose Tracks | 0.40% | ~689 |
+| Into The Fire | 0.40% | ~690 |
+| Moose Tracks | 0.40% | ~690 |
 | Expert Opinion | 0.40% | ~824 |
 | Poor Guidance | 0.40% | ~824 |
 | Anti-Dexterous Explorers | 0.30% | ~618 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,080 (Ranked 52)  
+Progressed: 206,123 (Ranked 52)  
 Completed: 2,027 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,027 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 206,080 | 2,027 |
+| 2023-07-04 | 206,123 | 2,027 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,378 (Ranked 37)  

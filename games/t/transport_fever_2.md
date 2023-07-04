@@ -7,35 +7,35 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,063 |
-| First cargo item on board | 71.00% | ~980 |
-| First cargo item waiting | 71.00% | ~980 |
-| First bus stop | 70.00% | ~966 |
-| First passenger on board | 67.00% | ~925 |
+| First cargo item on board | 71.00% | ~981 |
+| First cargo item waiting | 71.00% | ~981 |
+| First bus stop | 70.00% | ~967 |
 | First passenger waiting | 67.00% | ~925 |
 | First bus arrived | 66.00% | ~911 |
-| First train station | 64.00% | ~883 |
-| First steam train arrived | 60.00% | ~828 |
+| First passenger on board | 66.00% | ~911 |
+| First train station | 64.00% | ~884 |
+| First steam train arrived | 60.00% | ~829 |
 | First industry upgraded | 56.00% | ~773 |
-| Transport millionaire | 55.00% | ~759 |
-| Cargo hub | 54.00% | ~745 |
-| Cadet | 53.00% | ~731 |
+| Transport millionaire | 55.00% | ~760 |
+| Cargo hub | 54.00% | ~746 |
+| Cadet | 53.00% | ~732 |
 | Transport master | 52.00% | ~718 |
 | Sculpturer | 50.00% | ~690 |
-| Settled down | 48.00% | ~662 |
+| Settled down | 48.00% | ~663 |
 | First electric train arrived | 47.00% | ~649 |
 | First ship arrived | 46.00% | ~635 |
 | Now what? | 46.00% | ~635 |
-| High speed | 43.00% | ~593 |
+| High speed | 43.00% | ~594 |
 | Transport shark | 41.00% | ~566 |
 | First aircraft arrived | 41.00% | ~566 |
 | Exemplary student | 41.00% | ~566 |
 | Mass production | 35.00% | ~483 |
-| Aircraft entrepreneur | 33.00% | ~455 |
+| Aircraft entrepreneur | 33.00% | ~456 |
 | Crowd in a train | 31.00% | ~428 |
 | The future is now, old man | 31.00% | ~428 |
 | Not in my backyard | 30.00% | ~414 |
 | The king of the sea | 29.00% | ~400 |
-| City | 28.00% | ~386 |
+| City | 28.00% | ~387 |
 | Transport tycoon | 24.00% | ~331 |
 | Climate change | 22.00% | ~304 |
 | Old timer | 22.00% | ~304 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.10% | ~1 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,380 (Ranked 171)  
+Progressed: 1,381 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 1,365 | 0 |
 | 2023-07-02 | 1,369 | 0 |
 | 2023-07-03 | 1,373 | 0 |
-| 2023-07-04 | 1,380 | 0 |
+| 2023-07-04 | 1,381 | 0 |
 ## Awards
 Max (Highly Recommended): 39  (Ranked 423)  
 Sum: 270 (Ranked 340)  

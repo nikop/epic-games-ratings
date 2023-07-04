@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56808,
+  "EOS_Progressed": 56810,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6927,6 +6927,11 @@
       "Time": "2023-07-04T17:03:11.3099726+00:00",
       "NumProgressed": 56808,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-04T18:02:29.400882+00:00",
+      "NumProgressed": 56810,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6970,7 +6975,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "06",
@@ -7058,7 +7063,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "17",
@@ -7066,7 +7071,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "18",
@@ -7186,7 +7191,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14770
+      "UsersEstimate": 14771
     },
     {
       "ID": "33",
@@ -7210,7 +7215,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15338
+      "UsersEstimate": 15339
     },
     {
       "ID": "36",
@@ -7274,7 +7279,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8521
+      "UsersEstimate": 8522
     },
     {
       "ID": "44",
@@ -7473,21 +7478,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56808,
+      "Progressed": 56810,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20276,
+      "Progressed": 20278,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-04T17:03:11.3099722+00:00",
+  "LastChanged_Achievements": "2023-07-04T18:02:29.4008814+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-04T16:58:16.5966197+00:00",
-  "LastUpdate_Achievements": "2023-07-04T17:03:11.3100589+00:00"
+  "LastUpdate_Ratings": "2023-07-04T17:57:56.118926+00:00",
+  "LastUpdate_Achievements": "2023-07-04T18:02:29.4009898+00:00"
 }

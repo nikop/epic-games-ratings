@@ -11,13 +11,13 @@ Rating: 4.19 (Ranked 843)
 | Flesh Wound | 1.00% | ~156 |
 | Two Heads Are Better Than One | 1.00% | ~156 |
 | Chew 'Em Up | 1.00% | ~156 |
+| Workplace Hazard | 1.00% | ~156 |
 | Float Like A Butterfly | 1.00% | ~156 |
 | Reforged | 1.00% | ~156 |
 | Paper Jams | 1.00% | ~156 |
 | In the Pipe, Five by Five | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
 | I Do Belong Here | 0.90% | ~141 |
-| Workplace Hazard | 0.90% | ~141 |
 | If the SHU Fits... | 0.90% | ~141 |
 | Without A Paddle | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,633 (Ranked 106)  
+Progressed: 15,634 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
-| 2023-07-04 | 15,633 | 63 |
+| 2023-07-04 | 15,634 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 378)  
 Sum: 363 (Ranked 319)  

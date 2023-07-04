@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 2873,
+  "Ranking_EOS_NewCompleters": 2874,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 276
     },
     {
       "ID": "MQ03_2",
@@ -1928,8 +1928,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-04T17:06:02.9212353+00:00",
+  "LastChanged_Achievements": "2023-07-04T18:05:12.3051735+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-04T16:57:46.0954396+00:00",
-  "LastUpdate_Achievements": "2023-07-04T17:06:02.9212606+00:00"
+  "LastUpdate_Ratings": "2023-07-04T17:57:30.967734+00:00",
+  "LastUpdate_Achievements": "2023-07-04T18:05:12.3052038+00:00"
 }

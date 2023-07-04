@@ -5,6 +5,7 @@ Rating: 4.44 (Ranked 636)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Liberté | 1.00% | ~32 |
 | Meeting Resistance | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
@@ -13,32 +14,32 @@ Rating: 4.44 (Ranked 636)
 | Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | Climbing the Ladder | 0.90% | ~29 |
-| Liberté | 0.90% | ~29 |
+| Gunslinger | 0.90% | ~29 |
 | Sharpshooter | 0.90% | ~29 |
 | Confirming Suspicions | 0.90% | ~29 |
 | Lord of War | 0.90% | ~29 |
 | The Kraken Wakes | 0.90% | ~29 |
 | No Stone Unturned | 0.80% | ~26 |
-| Gunslinger | 0.80% | ~26 |
 | As Quiet as a Mouse | 0.80% | ~26 |
 | Organ Grinder | 0.70% | ~22 |
 | Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
+| Explosive Efficiency | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
 | My Little Friend | 0.50% | ~16 |
-| Explosive Efficiency | 0.50% | ~16 |
+| Close Quarters | 0.50% | ~16 |
 | Fields of Glory | 0.40% | ~13 |
 | Precision Is Key | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
-| Close Quarters | 0.40% | ~13 |
 | Snake in the Grass | 0.40% | ~13 |
 | Rigged to Blow | 0.30% | ~10 |
 | Tinkerer | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
+| Don't hold your breath | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |
 | Siegebreaker | 0.30% | ~9 |
 | Ghost of Falaise | 0.30% | ~9 |
@@ -53,7 +54,6 @@ Rating: 4.44 (Ranked 636)
 | It'll Buff Right Out | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
-| Don't hold your breath | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Herr Today, Gone Tomorrow | 0.20% | ~6 |
 | Operation Foxley | 0.20% | ~6 |

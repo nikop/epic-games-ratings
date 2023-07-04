@@ -6,7 +6,7 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 72.00% | ~3,133 |
+| Get A Room | 73.00% | ~3,176 |
 | Having A Field Day | 72.00% | ~3,133 |
 | Reap What You Sow | 69.00% | ~3,002 |
 | The First Day | 66.00% | ~2,872 |

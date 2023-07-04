@@ -6,39 +6,39 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~78,393 |
-| Where's that freaking Dwarf? | 44.00% | ~60,514 |
-| GG EZ | 27.00% | ~37,134 |
-| Speedrun | 25.00% | ~34,383 |
-| Déjà vu | 19.00% | ~26,131 |
-| Sock! SOCK! | 11.00% | ~15,129 |
-| DM intervention | 10.00% | ~13,753 |
-| A beer, two curses, three companions | 5.00% | ~6,877 |
-| Fireproof Wizardess | 4.00% | ~5,501 |
-| Way of the Wimp | 3.00% | ~4,126 |
-| Livin' in a dwarven paradise | 2.00% | ~2,751 |
-| The plot thickens... At the tavern | 2.00% | ~2,751 |
-| Res Judicata | 2.00% | ~2,751 |
-| The Woman in the High Castle | 2.00% | ~2,751 |
-| Team Building Exercise | 2.00% | ~2,751 |
-| The demons' feast | 0.60% | ~825 |
-| I am the night | 0.50% | ~688 |
-| The Great Library | 0.40% | ~550 |
-| I'd rather... Just... Sing! | 0.40% | ~550 |
-| Torture and Sensibility | 0.30% | ~413 |
-| The number of the counting shalt be 7 | 0.30% | ~413 |
-| Dwarf Fortress | 0.30% | ~413 |
-| Lust and Debauchery | 0.30% | ~413 |
-| The Ranger of Chaos | 0.30% | ~413 |
-| Oh, when I'll be level 10... | 0.30% | ~413 |
-| Shiny and Crôm | 0.20% | ~275 |
-| The beards of change | 0.20% | ~275 |
-| Gargantua | 0.20% | ~275 |
-| In Navalu's footsteps | 0.20% | ~275 |
-| It's been a hard day's night | 0.20% | ~275 |
-| Lëgal Legend | 0.20% | ~275 |
-| Thieves' Guild Accreditation | 0.20% | ~275 |
-| Material Girl | 0.20% | ~275 |
+| Alt+F4 | 57.00% | ~78,800 |
+| Where's that freaking Dwarf? | 44.00% | ~60,828 |
+| GG EZ | 27.00% | ~37,326 |
+| Speedrun | 25.00% | ~34,562 |
+| Déjà vu | 19.00% | ~26,267 |
+| Sock! SOCK! | 11.00% | ~15,207 |
+| DM intervention | 11.00% | ~15,207 |
+| A beer, two curses, three companions | 5.00% | ~6,912 |
+| Fireproof Wizardess | 4.00% | ~5,530 |
+| Way of the Wimp | 3.00% | ~4,147 |
+| Livin' in a dwarven paradise | 2.00% | ~2,765 |
+| The plot thickens... At the tavern | 2.00% | ~2,765 |
+| Res Judicata | 2.00% | ~2,765 |
+| The Woman in the High Castle | 2.00% | ~2,765 |
+| Team Building Exercise | 2.00% | ~2,765 |
+| The demons' feast | 0.70% | ~968 |
+| I am the night | 0.50% | ~691 |
+| The Great Library | 0.40% | ~553 |
+| I'd rather... Just... Sing! | 0.40% | ~553 |
+| Shiny and Crôm | 0.30% | ~415 |
+| Torture and Sensibility | 0.30% | ~415 |
+| The number of the counting shalt be 7 | 0.30% | ~415 |
+| Dwarf Fortress | 0.30% | ~415 |
+| Lust and Debauchery | 0.30% | ~415 |
+| The Ranger of Chaos | 0.30% | ~415 |
+| Oh, when I'll be level 10... | 0.30% | ~415 |
+| The beards of change | 0.20% | ~276 |
+| Gargantua | 0.20% | ~276 |
+| In Navalu's footsteps | 0.20% | ~276 |
+| It's been a hard day's night | 0.20% | ~276 |
+| Lëgal Legend | 0.20% | ~276 |
+| Thieves' Guild Accreditation | 0.20% | ~276 |
+| Material Girl | 0.20% | ~276 |
 | Cursed die | 0.10% | ~138 |
 | Holistic Adventuring Party | 0.10% | ~138 |
 | Scholar of the Lands of Fangh | 0.10% | ~138 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,532 (Ranked 59)  
+Progressed: 138,246 (Ranked 59)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 89,113 | 0 |
 | 2023-07-02 | 112,562 | 0 |
 | 2023-07-03 | 128,231 | 0 |
-| 2023-07-04 | 137,532 | 0 |
+| 2023-07-04 | 138,246 | 0 |
 ## Awards
 Max (Character Customization): 64  (Ranked 378)  
 Sum: 64 (Ranked 436)  

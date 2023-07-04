@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 5.00% | ~988 |
+| Diligence as a goal | 5.00% | ~989 |
 | Project Arena | 4.00% | ~791 |
 | The Old Grandmaster | 2.00% | ~14,209 |
 | The Assault | 2.00% | ~14,209 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,467 (Ranked 17)  
+Progressed: 710,470 (Ranked 17)  
 Completed: 12,804 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 12,804 (1.80%) (Ranked 80)
 | 2023-07-01 | 710,383 | 12,802 |
 | 2023-07-02 | 710,413 | 12,803 |
 | 2023-07-03 | 710,440 | 12,803 |
-| 2023-07-04 | 710,467 | 12,804 |
+| 2023-07-04 | 710,470 | 12,804 |
 ## Awards
 Max (Great Boss Battles): 6,231  (Ranked 52)  
 Sum: 10,675 (Ranked 78)  

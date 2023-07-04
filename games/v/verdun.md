@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~38,592 |
-| Worth it | 63.00% | ~31,576 |
-| Eagle Eye | 55.00% | ~27,566 |
-| Corpseman I | 40.00% | ~20,048 |
-| Blast fishing | 37.00% | ~18,544 |
-| Not alone | 32.00% | ~16,038 |
-| Headhunter I | 26.00% | ~13,031 |
-| Manual Labour I | 25.00% | ~12,530 |
-| Developers, Developers, Developers | 24.00% | ~12,029 |
-| Basic Training | 24.00% | ~12,029 |
+| Setting an example | 77.00% | ~38,596 |
+| Worth it | 63.00% | ~31,579 |
+| Eagle Eye | 55.00% | ~27,569 |
+| Corpseman I | 40.00% | ~20,050 |
+| Blast fishing | 37.00% | ~18,546 |
+| Not alone | 32.00% | ~16,040 |
+| Headhunter I | 26.00% | ~13,032 |
+| Manual Labour I | 25.00% | ~12,531 |
+| Developers, Developers, Developers | 24.00% | ~12,030 |
+| Basic Training | 24.00% | ~12,030 |
 | Furchtlos und Treu | 13.00% | ~6,516 |
-| Gott Mit Uns | 12.00% | ~6,014 |
+| Gott Mit Uns | 12.00% | ~6,015 |
 | This We'll Defend! | 9.00% | ~4,511 |
 | Anker wirf! | 9.00% | ~4,511 |
 | Providentiea Memor | 9.00% | ~4,511 |
 | For King and Country | 9.00% | ~4,511 |
 | Battle hardened | 8.00% | ~4,010 |
-| Semper Fidelis! | 7.00% | ~3,508 |
-| Honneur et Patrie | 7.00% | ~3,508 |
+| Semper Fidelis! | 7.00% | ~3,509 |
+| Honneur et Patrie | 7.00% | ~3,509 |
 | In Treue Fest | 5.00% | ~2,506 |
 | Voor De Koning | 5.00% | ~2,506 |
 | Extreme Headhunter | 5.00% | ~2,506 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~50 |
 | Blood Brother | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,120 (Ranked 84)  
+Progressed: 50,125 (Ranked 84)  
 Completed: 4 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 4 (0.01%) (Ranked 220)
 | 2023-07-01 | 49,770 | 4 |
 | 2023-07-02 | 49,903 | 4 |
 | 2023-07-03 | 50,027 | 4 |
-| 2023-07-04 | 50,120 | 4 |
+| 2023-07-04 | 50,125 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 336)  
 Sum: 757 (Ranked 261)  

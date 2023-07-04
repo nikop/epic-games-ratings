@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -588,6 +588,11 @@
       "Time": "2023-07-04T11:03:49.5936611+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T18:03:12.2711103+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -613,15 +618,15 @@
       "ID": "ACHIEVEMENT_BAD_BLOOD",
       "SetID": "2ff85j2",
       "Name": "Bad Blood",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -637,7 +642,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -653,9 +658,9 @@
       "ID": "ACHIEVEMENT_FIRST_BLOOD",
       "SetID": "2ff85j2",
       "Name": "First Blood",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -669,9 +674,9 @@
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
       "SetID": "2ff85j2",
       "Name": "Half a Life",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -757,7 +762,7 @@
       "ID": "ACHIEVEMENT_SERIOUS_BAM",
       "SetID": "2ff85j2",
       "Name": "Serious Bam",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -765,7 +770,7 @@
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
       "SetID": "2ff85j2",
       "Name": "Shocking Bio",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -773,9 +778,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -813,7 +818,7 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -838,7 +843,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-07-04T17:03:36.7165996+00:00",
+  "LastChanged_Achievements": "2023-07-04T18:03:12.2711097+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:46.1800974+00:00",
-  "LastUpdate_Ratings": "2023-07-04T16:58:05.5219436+00:00",
-  "LastUpdate_Achievements": "2023-07-04T17:03:36.7166217+00:00"
+  "LastUpdate_Ratings": "2023-07-04T17:57:47.0406936+00:00",
+  "LastUpdate_Achievements": "2023-07-04T18:03:12.2711354+00:00"
 }
