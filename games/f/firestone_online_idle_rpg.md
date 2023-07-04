@@ -58,9 +58,9 @@ Rating: 4.07 (Ranked 897)
 | Sailor | 4.00% | ~62 |
 | Active Member | 3.00% | ~47 |
 | Arena Challenger | 3.00% | ~47 |
+| Legendary | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |
 | Ebony Jungle Liberator | 2.00% | ~31 |
-| Legendary | 2.00% | ~31 |
 | What lies behind the bush | 2.00% | ~31 |
 | Mythic Power | 1.00% | ~16 |
 | Training makes a Pro player | 0.70% | ~11 |

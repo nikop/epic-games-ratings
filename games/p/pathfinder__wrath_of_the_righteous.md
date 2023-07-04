@@ -45,8 +45,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 1.00% | ~102 |
 | Abyssal Conspiracy | 1.00% | ~102 |
 | Truly Important Deed | 1.00% | ~102 |
-| The Final Threshold | 0.90% | ~91 |
-| Strategic Victory | 0.90% | ~91 |
+| The Final Threshold | 0.90% | ~92 |
+| Strategic Victory | 0.90% | ~92 |
 | This Wall Won't Fall | 0.90% | ~81 |
 | Not the Last Sarkorian | 0.90% | ~81 |
 | End of Eternal Guard | 0.80% | ~81 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 0.60% | ~61 |
 | Masterful Charge | 0.50% | ~51 |
 | Prelate's Nemesis | 0.40% | ~41 |
-| Just Pathetic | 0.30% | ~30 |
-| Ashes to Ashes | 0.30% | ~30 |
+| Just Pathetic | 0.30% | ~31 |
+| Ashes to Ashes | 0.30% | ~31 |
 | Masterful Dispel | 0.20% | ~20 |
 | Path of the Swarm | 0.10% | ~10 |
 | Equal to Aroden | 0.10% | ~10 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,166 (Ranked 116)  
+Progressed: 10,167 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 10,126 | 0 |
 | 2023-07-02 | 10,154 | 0 |
 | 2023-07-03 | 10,162 | 0 |
-| 2023-07-04 | 10,166 | 0 |
+| 2023-07-04 | 10,167 | 0 |
 ## Awards
 Max (Character Customization): 1,671  (Ranked 115)  
 Sum: 6,793 (Ranked 111)  

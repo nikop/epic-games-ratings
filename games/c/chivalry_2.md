@@ -4,12 +4,12 @@
 Rating: 4.61 (Ranked 362)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 4,313  (Ranked 72)  
-Sum: 27,817 (Ranked 41)  
+Max (Diverse Characters): 4,316  (Ranked 72)  
+Sum: 27,820 (Ranked 41)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,313 |
+| This game has Diverse Characters | 4,316 |
 | This game is Extremely Fun | 4,264 |
 | This game has Competitive Players | 4,226 |
 | This game is Highly Recommended | 4,117 |
@@ -185,4 +185,4 @@ Diff (max vs sum): 31
 | 2023-07-01 | 4.61 | - | 4,300 | 27,771 |
 | 2023-07-02 | 4.61 | - | 4,306 | 27,791 |
 | 2023-07-03 | 4.61 | - | 4,313 | 27,812 |
-| 2023-07-04 | 4.61 | - | 4,313 | 27,817 |
+| 2023-07-04 | 4.61 | - | 4,316 | 27,820 |

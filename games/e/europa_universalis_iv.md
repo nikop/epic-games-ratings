@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,866 |
-| That's a Grand Army | 8.00% | ~5,214 |
-| That is mine! | 8.00% | ~5,214 |
-| Victorious! | 8.00% | ~5,214 |
-| Brothers in Arms | 6.00% | ~3,911 |
-| That's a Grand Navy | 6.00% | ~3,911 |
-| Seriously?! | 6.00% | ~3,911 |
-| For the Glory | 5.00% | ~3,259 |
-| Cold War | 4.00% | ~2,607 |
-| True Catholic | 4.00% | ~2,607 |
-| Defender of the Faith | 3.00% | ~1,955 |
-| It's all about the money | 3.00% | ~1,955 |
-| Respected | 3.00% | ~1,955 |
-| The Princess is in this Castle | 3.00% | ~1,955 |
-| Truly Divine Ruler | 3.00% | ~1,955 |
+| Until death do us apart | 9.00% | ~5,868 |
+| That's a Grand Army | 8.00% | ~5,216 |
+| That is mine! | 8.00% | ~5,216 |
+| Victorious! | 8.00% | ~5,216 |
+| Brothers in Arms | 6.00% | ~3,912 |
+| That's a Grand Navy | 6.00% | ~3,912 |
+| Seriously?! | 6.00% | ~3,912 |
+| For the Glory | 5.00% | ~3,260 |
+| Cold War | 4.00% | ~2,608 |
+| True Catholic | 4.00% | ~2,608 |
+| Defender of the Faith | 3.00% | ~1,956 |
+| It's all about the money | 3.00% | ~1,956 |
+| Respected | 3.00% | ~1,956 |
+| The Princess is in this Castle | 3.00% | ~1,956 |
+| Truly Divine Ruler | 3.00% | ~1,956 |
 | Agressive Expander | 2.00% | ~1,304 |
 | Blockader | 2.00% | ~1,304 |
 | Combined Arms | 2.00% | ~1,304 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~652 |
 | Isn't this the way to India? | 0.90% | ~587 |
 | Market Control | 0.90% | ~587 |
-| Down Under | 0.80% | ~521 |
-| Trustworthy | 0.80% | ~521 |
+| Down Under | 0.80% | ~522 |
+| Trustworthy | 0.80% | ~522 |
 | Electable! | 0.70% | ~456 |
 | All belongs to Mother Russia | 0.60% | ~391 |
 | At every continent | 0.60% | ~391 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,179 (Ranked 75)  
+Progressed: 65,198 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,7 +436,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 64,163 | 0 |
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
-| 2023-07-04 | 65,179 | 0 |
+| 2023-07-04 | 65,198 | 0 |
 ## Awards
 Max (Educational): 5,503  (Ranked 61)  
 Sum: 45,366 (Ranked 27)  

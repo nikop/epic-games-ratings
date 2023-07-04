@@ -24,13 +24,13 @@ Rating: 4.60 (Ranked 388)
 | Bone Peddler | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
+| In a Liege of Your Own | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Impenetrable Fortress | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Return of the Wizard King | 0.90% | ~44 |
 | Digging for Treasure | 0.90% | ~44 |
-| In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
 | Enchanted Archipelago | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |

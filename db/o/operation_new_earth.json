@@ -2,10 +2,10 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 235,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1101,6 +1101,11 @@
       "Time": "2023-07-04T09:04:20.5147365+00:00",
       "NumProgressed": 328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T12:04:33.9285778+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1134,9 +1139,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -1214,9 +1219,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 122
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1232,7 +1237,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1350,9 +1355,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1415,14 +1420,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-04T11:05:19.9428724+00:00",
+  "LastChanged_Achievements": "2023-07-04T12:04:33.9285772+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:02:24.9050846+00:00",
-  "LastUpdate_Achievements": "2023-07-04T11:05:19.9429408+00:00"
+  "LastUpdate_Ratings": "2023-07-04T12:01:14.2360299+00:00",
+  "LastUpdate_Achievements": "2023-07-04T12:04:33.9286134+00:00"
 }

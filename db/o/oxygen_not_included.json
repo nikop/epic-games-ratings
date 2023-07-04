@@ -4,11 +4,11 @@
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -1890,6 +1890,6 @@
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
   "LastChanged": "2023-07-01T18:58:37.610179+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:51.580556+00:00",
-  "LastUpdate_Ratings": "2023-07-04T10:59:30.651067+00:00",
-  "LastUpdate_Achievements": "2023-07-04T11:04:23.2014859+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:58:45.2184908+00:00",
+  "LastUpdate_Achievements": "2023-07-04T12:03:46.8781871+00:00"
 }

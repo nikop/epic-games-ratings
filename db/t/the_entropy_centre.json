@@ -4,8 +4,8 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -673,6 +673,11 @@
       "Time": "2023-07-03T20:06:01.2522074+00:00",
       "NumProgressed": 216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T12:06:54.295962+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -684,7 +689,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_ACT10",
@@ -706,9 +711,9 @@
       "ID": "ACH_ACT12",
       "SetID": "2310cb1",
       "Name": "Kaboom!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ACT13",
@@ -748,15 +753,15 @@
       "Name": "Time Gates",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_ACT4",
@@ -772,7 +777,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_ACT6",
@@ -804,7 +809,7 @@
       "Name": "Running Boots",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ARCHIVIST",
@@ -826,9 +831,9 @@
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -850,9 +855,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_LOOPER",
@@ -876,7 +881,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -899,7 +904,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 0
     }
   ],
@@ -907,8 +912,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-07-04T11:07:55.2146958+00:00",
+  "LastChanged_Achievements": "2023-07-04T12:06:54.295961+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:32.1466198+00:00",
-  "LastUpdate_Ratings": "2023-07-04T10:58:26.6057732+00:00",
-  "LastUpdate_Achievements": "2023-07-04T11:07:55.2147359+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:57:49.0718869+00:00",
+  "LastUpdate_Achievements": "2023-07-04T12:06:54.2959876+00:00"
 }

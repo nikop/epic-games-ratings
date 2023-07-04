@@ -31,9 +31,9 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 9.00% | ~5,111 |
 | Thunder and Lightning | 9.00% | ~5,111 |
 | Two For the Price of One | 9.00% | ~5,111 |
-| The Lady of the Light | 8.00% | ~4,543 |
-| Energized! | 8.00% | ~4,543 |
-| Right of Way | 8.00% | ~4,543 |
+| The Lady of the Light | 8.00% | ~4,544 |
+| Energized! | 8.00% | ~4,544 |
+| Right of Way | 8.00% | ~4,544 |
 | A Friend in Need | 8.00% | ~1,621 |
 | What Light Through Yonder Window | 7.00% | ~3,976 |
 | Tornado Wrangler | 6.00% | ~3,408 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,793 (Ranked 80)  
+Progressed: 56,794 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 57 (0.10%) (Ranked 179)
 | 2023-07-01 | 56,635 | 56 |
 | 2023-07-02 | 56,712 | 56 |
 | 2023-07-03 | 56,769 | 56 |
-| 2023-07-04 | 56,793 | 57 |
+| 2023-07-04 | 56,794 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,885 |
-| The Mad Wizard | 11.00% | ~22,649 |
-| Are Ya Chicken? | 7.00% | ~14,413 |
-| The Ring of Regeneration | 6.00% | ~12,354 |
-| Were-verpowered | 5.00% | ~10,295 |
-| Mad Cow Disease | 5.00% | ~10,295 |
-| Friendly Imps | 5.00% | ~10,295 |
-| A Persistent Buzzing | 4.00% | ~8,236 |
-| Seeking Allies | 4.00% | ~8,236 |
-| Pure Energy | 4.00% | ~8,236 |
+| The Cursed Farmer | 15.00% | ~30,887 |
+| The Mad Wizard | 11.00% | ~22,650 |
+| Are Ya Chicken? | 7.00% | ~14,414 |
+| The Ring of Regeneration | 6.00% | ~12,355 |
+| Were-verpowered | 5.00% | ~10,296 |
+| Mad Cow Disease | 5.00% | ~10,296 |
+| Friendly Imps | 5.00% | ~10,296 |
+| A Persistent Buzzing | 4.00% | ~8,237 |
+| Seeking Allies | 4.00% | ~8,237 |
+| Pure Energy | 4.00% | ~8,237 |
 | Terror in the Dark | 3.00% | ~6,177 |
 | Unearthed Evil | 3.00% | ~6,177 |
 | The Crumbling Temple | 3.00% | ~6,177 |
@@ -69,24 +69,24 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,033 |
 | Rude Welcome | 0.60% | ~1,235 |
 | The Haunted Jungle | 0.60% | ~1,235 |
-| Family Entanglements | 0.50% | ~1,029 |
-| The Immortal Warrior | 0.50% | ~1,029 |
-| The Wyrmheart Mine | 0.50% | ~1,029 |
-| Tower on the Lake | 0.50% | ~1,029 |
-| Seeds of Deceit | 0.50% | ~1,029 |
-| The Guardian of Orolunga | 0.50% | ~1,029 |
-| The Lost Love | 0.50% | ~1,029 |
-| Hopelessly Lost | 0.50% | ~1,029 |
-| Enter the Sargauth | 0.50% | ~1,029 |
-| Lair of the Xanathar | 0.50% | ~1,029 |
-| Difficult Terrain | 0.50% | ~1,029 |
+| Sleuth It Out | 0.50% | ~1,030 |
+| Family Entanglements | 0.50% | ~1,030 |
+| The Immortal Warrior | 0.50% | ~1,030 |
+| The Wyrmheart Mine | 0.50% | ~1,030 |
+| Tower on the Lake | 0.50% | ~1,030 |
+| Seeds of Deceit | 0.50% | ~1,030 |
+| The Guardian of Orolunga | 0.50% | ~1,030 |
+| The Lost Love | 0.50% | ~1,030 |
+| Hopelessly Lost | 0.50% | ~1,030 |
+| Enter the Sargauth | 0.50% | ~1,030 |
+| Lair of the Xanathar | 0.50% | ~1,030 |
+| Difficult Terrain | 0.50% | ~1,030 |
 | The Everlasting Rime | 0.50% | ~861 |
-| Durable Deep | 0.50% | ~1,029 |
+| Durable Deep | 0.50% | ~1,030 |
 | Lobsterfolk Assault | 0.40% | ~824 |
 | Home Field Advantage | 0.40% | ~824 |
 | Force Grey Unleashed | 0.40% | ~824 |
 | Vajra's Guards | 0.40% | ~824 |
-| Sleuth It Out | 0.40% | ~824 |
 | Azaka's Procession - Part 1 | 0.40% | ~824 |
 | Azaka's Procession - Part 2 | 0.40% | ~824 |
 | Chatty Nobles | 0.40% | ~824 |
@@ -105,6 +105,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.40% | ~824 |
 | Resolve Amongst Chaos | 0.40% | ~824 |
 | Once More Into The Breach | 0.40% | ~824 |
+| Into The Fire | 0.40% | ~689 |
 | Moose Tracks | 0.40% | ~689 |
 | Expert Opinion | 0.40% | ~824 |
 | Poor Guidance | 0.40% | ~824 |
@@ -134,7 +135,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wyllowwood | 0.30% | ~618 |
 | An Illithid Undertaking | 0.30% | ~517 |
 | Déjà Vu | 0.30% | ~517 |
-| Into The Fire | 0.30% | ~517 |
 | Dreamscape | 0.30% | ~517 |
 | The Path of Dreams | 0.30% | ~517 |
 | The Lost Hollyphant | 0.30% | ~517 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,898 (Ranked 52)  
+Progressed: 205,913 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,898 | 2,026 |
+| 2023-07-04 | 205,913 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,377 (Ranked 37)  

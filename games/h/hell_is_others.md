@@ -1,23 +1,23 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.45 (Ranked 619)  
+Rating: 4.44 (Ranked 637)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,240 |
-| Predator I | 22.00% | ~55,525 |
-| Fixer I | 10.00% | ~25,239 |
-| A week in Century City | 10.00% | ~25,239 |
-| The Wait | 7.00% | ~17,667 |
-| Green thumb I | 6.00% | ~15,143 |
-| Cleaning Company | 6.00% | ~15,143 |
-| Well-oiled machine | 5.00% | ~12,619 |
-| Saver I | 5.00% | ~12,619 |
-| The Ascent | 4.00% | ~10,095 |
-| Pacifist | 4.00% | ~10,095 |
-| Vandalism | 4.00% | ~10,095 |
-| Capitalist I | 4.00% | ~10,095 |
+| Survivor | 31.00% | ~78,242 |
+| Predator I | 22.00% | ~55,527 |
+| Fixer I | 10.00% | ~25,240 |
+| A week in Century City | 10.00% | ~25,240 |
+| The Wait | 7.00% | ~17,668 |
+| Green thumb I | 6.00% | ~15,144 |
+| Cleaning Company | 6.00% | ~15,144 |
+| Well-oiled machine | 5.00% | ~12,620 |
+| Saver I | 5.00% | ~12,620 |
+| The Ascent | 4.00% | ~10,096 |
+| Pacifist | 4.00% | ~10,096 |
+| Vandalism | 4.00% | ~10,096 |
+| Capitalist I | 4.00% | ~10,096 |
 | Adrenaline | 3.00% | ~7,572 |
 | By a hair | 2.00% | ~5,048 |
 | Fixer II | 2.00% | ~5,048 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 619)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,387 (Ranked 42)  
+Progressed: 252,395 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,17 +137,17 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-07-01 | 252,220 | 2 |
 | 2023-07-02 | 252,299 | 2 |
 | 2023-07-03 | 252,366 | 2 |
-| 2023-07-04 | 252,387 | 2 |
+| 2023-07-04 | 252,395 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 452)  
-Sum: 173 (Ranked 375)  
+Sum: 174 (Ranked 375)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 31 |
 | This game has Unique Visuals | 31 |
 | This game has Amazing Characters | 25 |
-| This game has Challenging Combat | 23 |
+| This game has Challenging Combat | 24 |
 | This game is Highly Recommended | 22 |
 | This game has a Competitive Community | 21 |
 | This game has Quickly Understood Controls | 20 |
@@ -243,3 +243,4 @@ Diff (max vs sum): 77
 | 2023-06-28 | 4.44 | 31 | 170 |
 | 2023-06-29 | 4.44 | 31 | 171 |
 | 2023-07-02 | 4.45 | 31 | 173 |
+| 2023-07-04 | 4.44 | 31 | 174 |

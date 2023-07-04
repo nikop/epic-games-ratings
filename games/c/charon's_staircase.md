@@ -15,7 +15,7 @@
 | Agatha's favourite song | 32.00% | ~24 |
 | Lights and shadows | 29.00% | ~22 |
 | The threshold of horror | 28.00% | ~21 |
-| Second document retrieved | 25.00% | ~19 |
+| Second document retrieved | 26.00% | ~20 |
 | Third document retrieved | 25.00% | ~19 |
 | Deadly chase | 25.00% | ~19 |
 | Dara's home | 25.00% | ~19 |

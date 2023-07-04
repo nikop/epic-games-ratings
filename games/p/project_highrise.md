@@ -28,8 +28,8 @@
 | Emporium Empire | 20.00% | ~46 |
 | Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
+| Rehab Expert | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
-| Rehab Expert | 18.00% | ~41 |
 | Tasty Profits | 18.00% | ~41 |
 | Under One Roof | 16.00% | ~37 |
 | Established Fame | 16.00% | ~37 |

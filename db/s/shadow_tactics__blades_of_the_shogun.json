@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1261,9 +1261,9 @@
       "Count": 243
     }
   ],
-  "EOS_Progressed": 183051,
+  "EOS_Progressed": 183061,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2034,
+  "EOS_NewPlayers": 2029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -9326,6 +9326,11 @@
       "Time": "2023-07-04T11:08:07.2782023+00:00",
       "NumProgressed": 183051,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-07-04T12:07:14.8872362+00:00",
+      "NumProgressed": 183061,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 44,
@@ -9337,7 +9342,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14644
+      "UsersEstimate": 14645
     },
     {
       "ID": "AtheistOx",
@@ -9361,7 +9366,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "CompleteMastery",
@@ -9409,7 +9414,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 18305
+      "UsersEstimate": 18306
     },
     {
       "ID": "HappyLittleAccidents",
@@ -9441,7 +9446,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "ItsRainingMen",
@@ -9457,7 +9462,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "Mercyful",
@@ -9585,7 +9590,7 @@
       "Name": "Stoned Ox",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     },
     {
       "ID": "TanukiTime",
@@ -9593,7 +9598,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 14644
+      "UsersEstimate": 14645
     },
     {
       "ID": "TheCave",
@@ -9641,7 +9646,7 @@
       "Name": "Undeserved Honor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "WarriorBarrel",
@@ -9681,22 +9686,22 @@
       "Name": "Yabu",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10983
+      "UsersEstimate": 10984
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 183051,
+      "Progressed": 183061,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-06-30T20:59:03.5415514+00:00",
-  "LastChanged_Achievements": "2023-07-04T11:08:07.2782019+00:00",
+  "LastChanged_Achievements": "2023-07-04T12:07:14.8872355+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.4475234+00:00",
-  "LastUpdate_Ratings": "2023-07-04T11:00:36.7231199+00:00",
-  "LastUpdate_Achievements": "2023-07-04T11:08:07.278355+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:59:40.7689331+00:00",
+  "LastUpdate_Achievements": "2023-07-04T12:07:14.88732+00:00"
 }
