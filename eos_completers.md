@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.86% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 40.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.86% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -178,11 +178,11 @@
 | 175 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
 | 177 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 178 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
-| 179 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 179 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 179 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
-| 179 | [Supraland](games/s/supraland.md) | 0.10% |
-| 179 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
+| 178 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 180 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 180 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 180 | [Supraland](games/s/supraland.md) | 0.10% |
+| 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
 | 184 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 184 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
 | 184 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
