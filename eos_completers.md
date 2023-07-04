@@ -80,7 +80,7 @@
 | 78 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 79 | [Iron Danger](games/i/iron_danger.md) | 1.81% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
-| 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
+| 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.77% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
