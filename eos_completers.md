@@ -18,17 +18,17 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.25% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.20% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.37% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.36% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
-| 28 | [Scorn](games/s/scorn.md) | 6.94% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
+| 28 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.98% |
+| 29 | [Scorn](games/s/scorn.md) | 6.94% |
 | 30 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 31 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 32 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -47,15 +47,15 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.43% |
-| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 48 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 51 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
-| 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
+| 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.99% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.92% |
@@ -72,7 +72,7 @@
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
-| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.15% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.14% |
 | 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |

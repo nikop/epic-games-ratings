@@ -1,8 +1,8 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,475,811 | 4.29 | 780 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 462,694 | 4.50 | 552 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,836 | 4.68 | 239 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 463,736 | 4.50 | 552 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,957 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 194,066 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,204 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 156,361 | 4.88 | 19 |
@@ -14,7 +14,7 @@
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,050 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,449 | 4.50 | 552 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 33,955 | 4.74 | 144 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,482 | 4.52 | 520 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,544 | 4.52 | 520 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,631 | 4.65 | 298 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,673 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,531 | 4.53 | 505 |
@@ -46,7 +46,7 @@
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,535 | 4.57 | 441 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,459 | 4.47 | 594 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,294 | 4.71 | 181 |
-| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,239 | 4.68 | 239 |
+| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,241 | 4.68 | 239 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,754 | 4.74 | 144 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 663 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,603 | 4.71 | 181 |
@@ -127,7 +127,7 @@
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,312 | 4.52 | 520 |
 | 126 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,304 | 4.70 | 197 |
 | 126 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,304 | 4.86 | 28 |
-| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,295 | 4.55 | 478 |
+| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,299 | 4.55 | 478 |
 | 129 | [DOOM 64](games/d/doom_64.md) | 1,290 | 4.66 | 273 |
 | 130 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,284 | 4.79 | 88 |
 | 131 | [XCOM® 2](games/x/xcom®_2.md) | 1,200 | 4.55 | 478 |
@@ -147,7 +147,7 @@
 | 145 | [Torchlight II](games/t/torchlight_ii.md) | 990 | 4.59 | 412 |
 | 146 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 956 | 4.31 | 769 |
 | 147 | [Sonic Mania](games/s/sonic_mania.md) | 919 | 4.78 | 100 |
-| 148 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 917 | 4.69 | 219 |
+| 148 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 918 | 4.69 | 219 |
 | 149 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 914 | 4.78 | 100 |
 | 150 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 888 | 4.75 | 133 |
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 880 | 4.55 | 478 |
@@ -302,10 +302,10 @@
 | 300 | [Encased](games/e/encased.md) | 134 | 4.35 | 737 |
 | 301 | [while True: learn()](games/w/while_true__learn().md) | 133 | 4.51 | 539 |
 | 302 | [Alien: Isolation](games/a/alien__isolation.md) | 130 | 4.61 | 362 |
-| 303 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 128 | 4.86 | 28 |
-| 303 | [Timberborn](games/t/timberborn.md) | 128 | 4.72 | 166 |
-| 305 | [Predecessor](games/p/predecessor.md) | 125 | 4.43 | 656 |
-| 305 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 788 |
+| 303 | [Predecessor](games/p/predecessor.md) | 129 | 4.43 | 656 |
+| 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 128 | 4.86 | 28 |
+| 304 | [Timberborn](games/t/timberborn.md) | 128 | 4.72 | 166 |
+| 306 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 788 |
 | 307 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 835 |
 | 308 | [Sonic Origins](games/s/sonic_origins.md) | 122 | 4.57 | 441 |
 | 309 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 121 | 4.52 | 520 |
@@ -313,7 +313,7 @@
 | 310 | [Going Medieval](games/g/going_medieval.md) | 120 | 4.60 | 390 |
 | 312 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 118 | 4.79 | 88 |
 | 313 | [BIOMUTANT](games/b/biomutant.md) | 117 | 4.33 | 756 |
-| 313 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 117 | 4.13 | 878 |
+| 313 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 117 | 4.14 | 874 |
 | 315 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 115 | 4.71 | 181 |
 | 316 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 114 | 4.63 | 331 |
 | 316 | [Tropico 5](games/t/tropico_5.md) | 114 | 4.45 | 620 |
