@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -6381,9 +6381,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44991,
+  "EOS_Progressed": 44992,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12891,6 +12891,11 @@
       "Time": "2023-07-04T21:03:27.9895496+00:00",
       "NumProgressed": 44991,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-04T22:03:32.1245607+00:00",
+      "NumProgressed": 44992,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -12926,7 +12931,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "CarDriving",
@@ -12982,7 +12987,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 28794
+      "UsersEstimate": 28795
     },
     {
       "ID": "CutTree",
@@ -13054,7 +13059,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34193
+      "UsersEstimate": 34194
     },
     {
       "ID": "HorseJumps",
@@ -13094,7 +13099,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "MissionFirst",
@@ -13110,7 +13115,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23845
+      "UsersEstimate": 23846
     },
     {
       "ID": "NumBeehives",
@@ -13118,7 +13123,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "NumDrivables",
@@ -13126,7 +13131,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 17996
+      "UsersEstimate": 17997
     },
     {
       "ID": "NumPlaceables",
@@ -13166,7 +13171,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "PlayTime",
@@ -13190,7 +13195,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28344
+      "UsersEstimate": 28345
     },
     {
       "ID": "Stones",
@@ -13206,7 +13211,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 19346
+      "UsersEstimate": 19347
     },
     {
       "ID": "TruckDriving",
@@ -13245,15 +13250,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44991,
+      "Progressed": 44992,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-04T18:00:18.5313507+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:03:27.9895491+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:03:32.1245602+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:00:56.1447429+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:03:27.9896243+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:01:03.5254671+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:03:32.1246303+00:00"
 }

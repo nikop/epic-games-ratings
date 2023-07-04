@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -409,6 +409,11 @@
       "Time": "2023-07-04T11:03:22.0415428+00:00",
       "NumProgressed": 468,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-04T22:03:10.1849147+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -444,7 +449,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Doors_Closing",
@@ -500,7 +505,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Healthy_Child",
@@ -516,7 +521,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Illustrator",
@@ -540,7 +545,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Leisurely_Strol",
@@ -636,7 +641,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -651,7 +656,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 5
     }
   ],
@@ -659,8 +664,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:03:06.3952394+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:03:10.1849141+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:02.3296291+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:02:02.2122598+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:03:06.395263+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:02:15.0718096+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:03:10.1849368+00:00"
 }

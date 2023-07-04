@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -921,9 +921,9 @@
       "ID": "ACH_DYNAMITE_USED",
       "SetID": "7k95e4n",
       "Name": "Kaboom",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -1073,9 +1073,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 153
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1114,8 +1114,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-06-25T18:57:43.4817761+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:03:24.8608766+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:03:28.9514542+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.3314421+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:57:32.8823073+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:03:24.8608988+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:57:42.1003443+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:03:28.9514778+00:00"
 }

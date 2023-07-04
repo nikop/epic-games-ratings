@@ -17,7 +17,7 @@ Rating: 4.44 (Ranked 637)
 | People Person | 46.00% | ~1,186 |
 | Colonial Barrels | 42.00% | ~1,083 |
 | First Steps Into Madness | 42.00% | ~1,083 |
-| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~903 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~928 |
 | Harper's Hell | 33.00% | ~851 |
 | Making a Stand | 30.00% | ~774 |
 | Omelette Du Fromage | 28.00% | ~722 |

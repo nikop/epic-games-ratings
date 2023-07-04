@@ -7,8 +7,8 @@
 | Clean Conscience | 22.00% | ~46 |
 | So it goes | 21.00% | ~44 |
 | A New Broom Sweeps Clean | 11.00% | ~23 |
+| Off to a Good Start | 10.00% | ~21 |
 | Small-time Finder | 10.00% | ~21 |
-| Off to a Good Start | 9.00% | ~19 |
 | Business as usual | 7.00% | ~15 |
 | Mr. Hygeni | 6.00% | ~13 |
 | Pride and Joy | 5.00% | ~10 |
@@ -19,9 +19,9 @@
 | All the Stories | 2.00% | ~4 |
 | Something Rotten | 2.00% | ~4 |
 | Witness Protection | 2.00% | ~4 |
+| Blood Capade | 1.00% | ~2 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
-| Blood Capade | 0.50% | ~1 |
 | Crazy SOB, You Did It | 0.50% | ~0 |
 | Bee Squat | 0.50% | ~1 |
 | The Germophobes | 0.50% | ~1 |

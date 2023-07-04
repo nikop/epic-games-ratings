@@ -22,13 +22,13 @@ Rating: 4.53 (Ranked 505)
 | Big fortune | 31.00% | ~263 |
 | Still more work ahead | 28.00% | ~237 |
 | Hotel sleuthing | 27.00% | ~229 |
+| Kaboom | 26.00% | ~220 |
 | Aesop's fable | 26.00% | ~220 |
-| Kaboom | 25.00% | ~212 |
 | Nearly there | 24.00% | ~204 |
 | Broken heart | 22.00% | ~187 |
 | Island boy | 20.00% | ~170 |
+| You're a star | 19.00% | ~161 |
 | Unstoppable | 18.00% | ~153 |
-| You're a star | 18.00% | ~153 |
 | Reunited | 17.00% | ~144 |
 | King of hospitality | 11.00% | ~93 |
 | Top spot in town | 3.00% | ~25 |

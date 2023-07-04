@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1380,7 +1380,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24002,
+  "EOS_Progressed": 24004,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -7230,6 +7230,11 @@
       "Time": "2023-07-04T21:02:18.932924+00:00",
       "NumProgressed": 24002,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-04T22:02:32.3790346+00:00",
+      "NumProgressed": 24004,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7241,7 +7246,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17521
+      "UsersEstimate": 17523
     },
     {
       "ID": "Animated",
@@ -7249,7 +7254,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "Back_Off",
@@ -7281,7 +7286,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9841
+      "UsersEstimate": 9842
     },
     {
       "ID": "Collect_Spores",
@@ -7289,7 +7294,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12241
+      "UsersEstimate": 12242
     },
     {
       "ID": "Collector",
@@ -7297,7 +7302,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Cultured",
@@ -7305,7 +7310,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12481
+      "UsersEstimate": 12482
     },
     {
       "ID": "Daily_Dose",
@@ -7321,7 +7326,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "Discovery",
@@ -7329,7 +7334,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14641
+      "UsersEstimate": 14642
     },
     {
       "ID": "Dont_Need_These",
@@ -7345,7 +7350,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Efficient",
@@ -7353,7 +7358,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15363
     },
     {
       "ID": "Escape_Artist",
@@ -7361,7 +7366,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "Fragile_Panes",
@@ -7377,7 +7382,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12961
+      "UsersEstimate": 12962
     },
     {
       "ID": "GB_In_Training",
@@ -7465,7 +7470,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4080
+      "UsersEstimate": 4081
     },
     {
       "ID": "Rift_Destroyer",
@@ -7473,7 +7478,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4800
+      "UsersEstimate": 4801
     },
     {
       "ID": "Rift_Seeker",
@@ -7505,7 +7510,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "Side_Hustle",
@@ -7521,7 +7526,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "Solo_Capture",
@@ -7545,7 +7550,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20642
+      "UsersEstimate": 20643
     },
     {
       "ID": "Summoner",
@@ -7569,7 +7574,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 12961
+      "UsersEstimate": 12962
     },
     {
       "ID": "Teamwork",
@@ -7577,7 +7582,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10561
+      "UsersEstimate": 10562
     },
     {
       "ID": "Terrifying",
@@ -7585,7 +7590,7 @@
       "Name": "Terrifying",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "Therapeutic",
@@ -7601,7 +7606,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10321
+      "UsersEstimate": 10322
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7609,7 +7614,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "Ultimate_Defense",
@@ -7625,7 +7630,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11521
+      "UsersEstimate": 11522
     },
     {
       "ID": "Welcome_Crew",
@@ -7648,7 +7653,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24002,
+      "Progressed": 24004,
       "Completed": 46
     }
   ],
@@ -7656,8 +7661,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-04T03:22:41.8208622+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:02:18.9329231+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:02:32.379034+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:00:00.081053+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:02:18.9330165+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:00:12.7984489+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:02:32.3791211+00:00"
 }

@@ -7,22 +7,22 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 71.00% | ~5,032 |
-| Leader | 60.00% | ~4,252 |
-| Explorer | 53.00% | ~3,756 |
-| Healer | 52.00% | ~3,685 |
-| Aspiring Inventor | 44.00% | ~3,118 |
+| Leader | 61.00% | ~4,324 |
+| Explorer | 53.00% | ~3,757 |
+| Healer | 52.00% | ~3,686 |
+| Aspiring Inventor | 44.00% | ~3,119 |
 | Adventurer | 41.00% | ~2,906 |
 | Famous Healer | 38.00% | ~2,693 |
-| Local Leader | 35.00% | ~2,480 |
+| Local Leader | 35.00% | ~2,481 |
 | Famous Explorer | 34.00% | ~2,410 |
 | New Opportunities | 34.00% | ~2,410 |
 | Energized | 33.00% | ~2,339 |
 | The Long Haul | 33.00% | ~2,339 |
 | Survivor | 32.00% | ~2,268 |
 | The Great Healer | 31.00% | ~2,197 |
-| Legendary Explorer | 28.00% | ~1,984 |
-| Cleaner | 28.00% | ~1,984 |
-| Catastrofan | 28.00% | ~1,984 |
+| Legendary Explorer | 28.00% | ~1,985 |
+| Cleaner | 28.00% | ~1,985 |
+| Catastrofan | 28.00% | ~1,985 |
 | Finders, Keepers | 26.00% | ~1,843 |
 | Top Notch | 25.00% | ~1,772 |
 | Ice Lakes | 23.00% | ~1,630 |
@@ -39,7 +39,7 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 15.00% | ~1,063 |
 | Famous Adventurer | 13.00% | ~921 |
 | Prepared for Anything | 13.00% | ~921 |
-| Big Catastrofan | 12.00% | ~850 |
+| Big Catastrofan | 12.00% | ~851 |
 | It's a Finnish Thing | 10.00% | ~709 |
 | Sky Burial | 9.00% | ~638 |
 | Trader | 8.00% | ~567 |
@@ -49,7 +49,7 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~425 |
 | Amped Up | 6.00% | ~425 |
 | Look, no Hands! | 5.00% | ~354 |
-| Luxurious Living | 4.00% | ~283 |
+| Luxurious Living | 4.00% | ~284 |
 | Mogul | 3.00% | ~213 |
 | Ranch Hand | 3.00% | ~213 |
 | Diplomat | 2.00% | ~142 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,087 (Ranked 123)  
+Progressed: 7,088 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-01 | 6,990 | 0 |
 | 2023-07-02 | 7,032 | 0 |
 | 2023-07-03 | 7,060 | 0 |
-| 2023-07-04 | 7,087 | 0 |
+| 2023-07-04 | 7,088 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 272)  

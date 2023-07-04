@@ -5,7 +5,7 @@
   "Ranking_Rating": 844,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 319,
-  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 22,
@@ -866,7 +866,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15635,
+  "EOS_Progressed": 15636,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 6,
@@ -5241,6 +5241,11 @@
       "Time": "2023-07-04T19:05:36.208923+00:00",
       "NumProgressed": 15635,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-04T22:06:22.4585268+00:00",
+      "NumProgressed": 15636,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 47,
@@ -5346,9 +5351,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -5627,13 +5632,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15635,
+      "Progressed": 15636,
       "Completed": 63
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3561,
+      "Progressed": 3562,
       "Completed": 29
     }
   ],
@@ -5641,8 +5646,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-04T19:58:31.8276242+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:06:08.5215491+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:06:22.4585261+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:58:34.0353598+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:06:08.5216195+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:58:43.8047304+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:06:22.4585901+00:00"
 }

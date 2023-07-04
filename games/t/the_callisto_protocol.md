@@ -34,13 +34,13 @@ Rating: 4.19 (Ranked 844)
 | This Isn't About Escape | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |
 | Armed to the Teeth | 0.20% | ~7 |
+| Parole Denied | 0.20% | ~7 |
 | Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
-| Parole Denied | 0.10% | ~4 |
 | Mugshot | 0.10% | ~16 |
 | Instigator | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,635 (Ranked 107)  
+Progressed: 15,636 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
-| 2023-07-04 | 15,635 | 63 |
+| 2023-07-04 | 15,636 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 378)  
 Sum: 364 (Ranked 319)  

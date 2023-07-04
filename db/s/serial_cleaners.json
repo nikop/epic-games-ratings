@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -336,17 +336,17 @@
       "ID": "BOB_SLIDE",
       "SetID": "2lk004m",
       "Name": "Blood Capade",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:07:38.8279478+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:07:43.655431+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.7587058+00:00",
-  "LastUpdate_Ratings": "2023-07-04T21:00:17.0874025+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:07:38.8279679+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:00:27.0001007+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:07:43.6554507+00:00"
 }

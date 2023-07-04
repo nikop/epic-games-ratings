@@ -6,9 +6,9 @@ Rating: 4.18 (Ranked 852)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,986 |
-| To the Victor Go the Spoils | 4.00% | ~2,657 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,657 |
-| Loose Ends | 4.00% | ~2,657 |
+| To the Victor Go the Spoils | 4.00% | ~2,658 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,658 |
+| Loose Ends | 4.00% | ~2,658 |
 | The Batman Family | 3.00% | ~1,993 |
 | Something in the Clay | 3.00% | ~1,993 |
 | Quartzer Life Crisis | 3.00% | ~1,993 |
@@ -41,7 +41,7 @@ Rating: 4.18 (Ranked 852)
 | Solid Alibi | 1.00% | ~664 |
 | Family Meeting | 0.90% | ~598 |
 | A Worthy Successor | 0.90% | ~598 |
-| Expert Crime Fighter | 0.80% | ~531 |
+| Expert Crime Fighter | 0.80% | ~532 |
 | Dressed to Impress | 0.70% | ~465 |
 | A Momentum Occasion | 0.60% | ~399 |
 | Bat Out of Hell | 0.50% | ~332 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 852)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,434 (Ranked 73)  
+Progressed: 66,438 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-01 | 66,242 | 100 |
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
-| 2023-07-04 | 66,434 | 100 |
+| 2023-07-04 | 66,438 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,416  (Ranked 100)  
 Sum: 4,000 (Ranked 137)  

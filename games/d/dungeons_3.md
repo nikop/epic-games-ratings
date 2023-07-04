@@ -6,30 +6,30 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~15,892 |
-| The Evilest Evil | 59.00% | ~13,395 |
-| Twistram is devastated | 58.00% | ~13,168 |
-| The Gehenna Stones | 50.00% | ~11,352 |
-| No one has to die today! | 47.00% | ~10,670 |
-| Death and destruction! | 45.00% | ~10,216 |
-| The Swamplanders from the swamplands | 44.00% | ~9,989 |
-| The One-Huge-Army-Building Evil | 41.00% | ~9,308 |
-| Rusty Steel | 41.00% | ~9,308 |
-| The last burger | 38.00% | ~8,627 |
-| Braiiiiins! | 38.00% | ~8,627 |
-| Hands off the Dungeonheart! | 37.00% | ~8,400 |
-| A trip on sea, what fun it can be | 35.00% | ~7,946 |
-| Damned good | 34.00% | ~7,719 |
-| Stock Market Crash | 32.00% | ~7,265 |
-| Factory farming | 32.00% | ~7,265 |
-| Not-So-Overproud | 31.00% | ~7,038 |
-| For a handfull of Catapults | 29.00% | ~6,584 |
-| Shadow hunter | 29.00% | ~6,584 |
-| Thirst quencher | 28.00% | ~6,357 |
-| Ogre Solo! | 28.00% | ~6,357 |
-| Destroy the thing | 27.00% | ~6,130 |
-| Tide Master | 27.00% | ~6,130 |
-| Difficult family relationships | 26.00% | ~5,903 |
+| The Shadow strikes | 70.00% | ~15,894 |
+| The Evilest Evil | 59.00% | ~13,397 |
+| Twistram is devastated | 58.00% | ~13,169 |
+| The Gehenna Stones | 50.00% | ~11,353 |
+| No one has to die today! | 47.00% | ~10,672 |
+| Death and destruction! | 45.00% | ~10,218 |
+| The Swamplanders from the swamplands | 44.00% | ~9,991 |
+| The One-Huge-Army-Building Evil | 41.00% | ~9,309 |
+| Rusty Steel | 41.00% | ~9,309 |
+| The last burger | 38.00% | ~8,628 |
+| Braiiiiins! | 38.00% | ~8,628 |
+| Hands off the Dungeonheart! | 37.00% | ~8,401 |
+| A trip on sea, what fun it can be | 35.00% | ~7,947 |
+| Damned good | 34.00% | ~7,720 |
+| Stock Market Crash | 32.00% | ~7,266 |
+| Factory farming | 32.00% | ~7,266 |
+| Not-So-Overproud | 31.00% | ~7,039 |
+| For a handfull of Catapults | 29.00% | ~6,585 |
+| Shadow hunter | 29.00% | ~6,585 |
+| Thirst quencher | 28.00% | ~6,358 |
+| Ogre Solo! | 28.00% | ~6,358 |
+| Destroy the thing | 27.00% | ~6,131 |
+| Tide Master | 27.00% | ~6,131 |
+| Difficult family relationships | 26.00% | ~5,904 |
 | MASS-O-BOT | 25.00% | ~5,676 |
 | Prepare the grave | 25.00% | ~5,676 |
 | Angel of Fire | 25.00% | ~5,676 |
@@ -42,15 +42,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Stones’ Power | 18.00% | ~4,087 |
 | Lifeguard | 18.00% | ~4,087 |
 | Flat as a pancake | 17.00% | ~3,860 |
-| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,632 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~2,724 |
-| Then let them eat cake! | 12.00% | ~2,724 |
-| The White Knight | 10.00% | ~2,270 |
-| Please, no interruptions! | 10.00% | ~2,270 |
-| Use the terrain | 9.00% | ~2,043 |
-| Master of Traps | 9.00% | ~2,043 |
-| Ignore The Level Designer’s Plan | 9.00% | ~2,043 |
-| Prison Break | 9.00% | ~2,043 |
+| Can’t stand the sight of Dark Elf blood | 16.00% | ~3,633 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~2,725 |
+| Then let them eat cake! | 12.00% | ~2,725 |
+| The White Knight | 10.00% | ~2,271 |
+| Please, no interruptions! | 10.00% | ~2,271 |
+| Use the terrain | 9.00% | ~2,044 |
+| Master of Traps | 9.00% | ~2,044 |
+| Ignore The Level Designer’s Plan | 9.00% | ~2,044 |
+| Prison Break | 9.00% | ~2,044 |
 | Hearts of Iron | 8.00% | ~1,816 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~1,816 |
 | Lifesaver | 8.00% | ~1,816 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~454 |
 | Sacrifices! | 2.00% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,703 (Ranked 98)  
+Progressed: 22,706 (Ranked 98)  
 Completed: 190 (0.84%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 190 (0.84%) (Ranked 106)
 | 2023-07-01 | 22,322 | 187 |
 | 2023-07-02 | 22,481 | 188 |
 | 2023-07-03 | 22,599 | 189 |
-| 2023-07-04 | 22,703 | 190 |
+| 2023-07-04 | 22,706 | 190 |
 ## Awards
 Max (Great for Beginners): 329  (Ranked 225)  
 Sum: 2,314 (Ranked 180)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1466,
+  "EOS_Progressed": 1467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2922,6 +2922,11 @@
       "Time": "2023-07-04T18:06:48.9053722+00:00",
       "NumProgressed": 1466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T22:07:51.9107705+00:00",
+      "NumProgressed": 1467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3013,7 +3018,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "A11",
@@ -3045,7 +3050,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "A15",
@@ -3053,7 +3058,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "A16",
@@ -3067,9 +3072,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 792
     },
     {
       "ID": "A18",
@@ -3077,7 +3082,7 @@
       "Name": "General Manager",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "A19",
@@ -3093,7 +3098,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "A21",
@@ -3109,7 +3114,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "A23",
@@ -3181,7 +3186,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "A32",
@@ -3205,7 +3210,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "A35",
@@ -3229,7 +3234,7 @@
       "Name": "All around the World",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "A38",
@@ -3261,7 +3266,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "A42",
@@ -3301,7 +3306,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "A47",
@@ -3309,7 +3314,7 @@
       "Name": "Travel Company",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "A48",
@@ -3372,7 +3377,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1466,
+      "Progressed": 1467,
       "Completed": 0
     }
   ],
@@ -3380,8 +3385,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:07:47.2604995+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:07:51.9107699+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:58:48.0258223+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:07:47.2605681+00:00"
+  "LastUpdate_Ratings": "2023-07-04T21:58:59.1479424+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:07:51.9108342+00:00"
 }

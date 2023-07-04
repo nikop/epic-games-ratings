@@ -35,9 +35,9 @@ Rating: 4.61 (Ranked 362)
 | Digging for Treasure | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
 | The Creator | 0.80% | ~39 |
+| The Goddess of Nature | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | God Emperor | 0.70% | ~34 |
-| The Goddess of Nature | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~30 |
 | Crimson Caldera | 0.60% | ~30 |
 | The Eternal Court | 0.60% | ~30 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 362)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,917 (Ranked 134)  
+Progressed: 4,918 (Ranked 134)  
 Completed: 4 (0.08%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-07-01 | 4,898 | 4 |
 | 2023-07-02 | 4,902 | 4 |
 | 2023-07-03 | 4,908 | 4 |
-| 2023-07-04 | 4,917 | 4 |
+| 2023-07-04 | 4,918 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

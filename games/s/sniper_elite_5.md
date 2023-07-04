@@ -38,13 +38,13 @@ Rating: 4.44 (Ranked 637)
 | Rigged to Blow | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
 | Tinkerer | 0.40% | ~13 |
+| Siegebreaker | 0.40% | ~13 |
+| Ghost of Falaise | 0.40% | ~13 |
 | The Long Game | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
 | Herr Today, Gone Tomorrow | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
-| Siegebreaker | 0.30% | ~9 |
-| Ghost of Falaise | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |

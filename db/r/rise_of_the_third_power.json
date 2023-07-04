@@ -2,10 +2,10 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -106,6 +106,11 @@
       "Time": "2023-07-02T17:06:40.4054767+00:00",
       "NumProgressed": 133,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T22:07:35.3635588+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 21,
@@ -115,9 +120,9 @@
       "ID": "Attuned",
       "SetID": "4nce15l",
       "Name": "Attuned",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "BeginningOfTheEnd",
@@ -131,9 +136,9 @@
       "ID": "Bling",
       "SetID": "4nce15l",
       "Name": "Bling",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Bloodlust",
@@ -141,7 +146,7 @@
       "Name": "Bloodlust",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Determined",
@@ -171,9 +176,9 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 58
     },
     {
       "ID": "Geared",
@@ -187,9 +192,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "MasterCrafter",
@@ -229,7 +234,7 @@
       "Name": "Overpowered",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Patience",
@@ -253,7 +258,7 @@
       "Name": "Side Job",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Sparkly",
@@ -269,7 +274,7 @@
       "Name": "Specialist",
       "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Teamwork",
@@ -284,7 +289,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 4
     }
   ],
@@ -292,8 +297,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-04T21:07:30.5402592+00:00",
+  "LastChanged_Achievements": "2023-07-04T22:07:35.3635582+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:51.5428684+00:00",
-  "LastUpdate_Ratings": "2023-07-04T20:59:57.9953798+00:00",
-  "LastUpdate_Achievements": "2023-07-04T21:07:30.5402769+00:00"
+  "LastUpdate_Ratings": "2023-07-04T22:00:10.4120009+00:00",
+  "LastUpdate_Achievements": "2023-07-04T22:07:35.3635725+00:00"
 }

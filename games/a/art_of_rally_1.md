@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,169 (Ranked 115)  
+Progressed: 10,169 (Ranked 116)  
 Completed: 9 (0.09%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
