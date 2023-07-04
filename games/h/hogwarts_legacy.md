@@ -5,27 +5,27 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,294 |
-| First Class Student | 9.00% | ~25,604 |
-| Troll with the Punches | 9.00% | ~25,604 |
-| Grappling with a Graphorn | 8.00% | ~22,759 |
-| The One Who Mastered Memories | 8.00% | ~22,759 |
-| The Hallowed Hero | 8.00% | ~22,759 |
-| The Defender of Dragons | 8.00% | ~22,759 |
-| A Keen Sense of Spell | 8.00% | ~22,759 |
-| Loom for Improvement | 8.00% | ~22,759 |
-| A Talent for Spending | 8.00% | ~22,759 |
-| Coasting Along | 8.00% | ~22,759 |
-| That's a Keeper | 8.00% | ~22,759 |
-| The Hero of Hogwarts | 7.00% | ~19,914 |
-| Challenge Accepted | 7.00% | ~19,914 |
-| Followed the Butterflies | 7.00% | ~19,914 |
-| Rising From the Ashes | 7.00% | ~19,914 |
-| The Avenging Gazelle | 6.00% | ~17,069 |
-| Beast Friends | 6.00% | ~17,069 |
-| A Sallow Grave | 6.00% | ~17,069 |
-| Flight the Good Flight | 6.00% | ~17,069 |
-| The Spell Master | 6.00% | ~17,069 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,295 |
+| First Class Student | 9.00% | ~25,605 |
+| Troll with the Punches | 9.00% | ~25,605 |
+| Grappling with a Graphorn | 8.00% | ~22,760 |
+| The One Who Mastered Memories | 8.00% | ~22,760 |
+| The Hallowed Hero | 8.00% | ~22,760 |
+| The Defender of Dragons | 8.00% | ~22,760 |
+| A Keen Sense of Spell | 8.00% | ~22,760 |
+| Loom for Improvement | 8.00% | ~22,760 |
+| A Talent for Spending | 8.00% | ~22,760 |
+| Coasting Along | 8.00% | ~22,760 |
+| That's a Keeper | 8.00% | ~22,760 |
+| The Hero of Hogwarts | 7.00% | ~19,915 |
+| Challenge Accepted | 7.00% | ~19,915 |
+| Followed the Butterflies | 7.00% | ~19,915 |
+| Rising From the Ashes | 7.00% | ~19,915 |
+| The Avenging Gazelle | 6.00% | ~17,070 |
+| Beast Friends | 6.00% | ~17,070 |
+| A Sallow Grave | 6.00% | ~17,070 |
+| Flight the Good Flight | 6.00% | ~17,070 |
+| The Spell Master | 6.00% | ~17,070 |
 | The Seeker of Knowledge | 4.00% | ~11,380 |
 | The Root of the Problem | 4.00% | ~11,380 |
 | Third Time's a Charm | 4.00% | ~11,380 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 108)
 | Demiguise Dread | 1.00% | ~2,845 |
 | Finishing Touches | 1.00% | ~2,845 |
 | A Forte for Achievement | 1.00% | ~2,845 |
-| Merlin's Beard! | 0.70% | ~1,991 |
+| Merlin's Beard! | 0.70% | ~1,992 |
 | Spilled Milk | 0.60% | ~1,707 |
-| The Nature of the Beast | 0.50% | ~1,422 |
+| The Nature of the Beast | 0.50% | ~1,423 |
 | Collector's Edition | 0.20% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284,491 (Ranked 41)  
+Progressed: 284,503 (Ranked 41)  
 Completed: 417 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 417 (0.15%) (Ranked 169)
 | 2023-07-01 | 283,332 | 416 |
 | 2023-07-02 | 283,942 | 417 |
 | 2023-07-03 | 284,388 | 417 |
-| 2023-07-04 | 284,491 | 417 |
+| 2023-07-04 | 284,503 | 417 |
 ## Awards
 Max (Character Customization): 20,642  (Ranked 17)  
 Sum: 38,484 (Ranked 30)  

@@ -984,9 +984,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3949,
+  "EOS_Progressed": 3950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5549,6 +5549,11 @@
       "Time": "2023-07-03T23:04:05.9568726+00:00",
       "NumProgressed": 3949,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-04T08:04:39.3854642+00:00",
+      "NumProgressed": 3950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5608,7 +5613,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -5656,7 +5661,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5664,7 +5669,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -5720,7 +5725,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5728,7 +5733,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -5832,7 +5837,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -5856,7 +5861,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -5879,15 +5884,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3949,
+      "Progressed": 3950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-04T00:00:06.3274924+00:00",
-  "LastChanged_Achievements": "2023-07-04T07:04:20.7763538+00:00",
+  "LastChanged_Achievements": "2023-07-04T08:04:39.3854634+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:00:22.2061238+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:04:20.7763998+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:01:02.8975355+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:04:39.3855254+00:00"
 }

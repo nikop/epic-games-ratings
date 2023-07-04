@@ -2,12 +2,12 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
@@ -2263,10 +2263,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1482,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2023-07-04T07:59:06.286265+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1483,
+      "NumberOfAwardsMax": 219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1482,
+  "NumberOfAwards": 1483,
   "NumberOfAwardsMax": 219,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2316,7 +2322,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2342,8 +2348,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-07-03T11:59:12.3468355+00:00",
+  "LastChanged": "2023-07-04T07:59:06.2862648+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.6880917+00:00",
-  "LastUpdate_Ratings": "2023-07-04T06:58:44.7980935+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:04:14.9475315+00:00"
+  "LastUpdate_Ratings": "2023-07-04T07:59:06.2862661+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:04:32.0943705+00:00"
 }

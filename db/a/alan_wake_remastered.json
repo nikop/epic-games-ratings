@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 477,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 80,
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56786,
+  "EOS_Progressed": 56787,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 1,
@@ -6877,6 +6877,11 @@
       "Time": "2023-07-04T07:01:04.6311733+00:00",
       "NumProgressed": 56786,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-04T08:02:08.8414131+00:00",
+      "NumProgressed": 56787,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6888,7 +6893,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18739
+      "UsersEstimate": 18740
     },
     {
       "ID": "02",
@@ -6920,7 +6925,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10221
+      "UsersEstimate": 10222
     },
     {
       "ID": "06",
@@ -6952,7 +6957,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "10",
@@ -7056,7 +7061,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "23",
@@ -7136,7 +7141,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14764
+      "UsersEstimate": 14765
     },
     {
       "ID": "33",
@@ -7423,21 +7428,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56786,
+      "Progressed": 56787,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20254,
+      "Progressed": 20255,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-04T07:01:04.6311728+00:00",
+  "LastChanged_Achievements": "2023-07-04T08:02:08.8414126+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-04T06:58:00.6022707+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:01:04.6312538+00:00"
+  "LastUpdate_Ratings": "2023-07-04T07:58:12.5159409+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:02:08.8415355+00:00"
 }

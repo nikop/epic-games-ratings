@@ -5,21 +5,21 @@ Rating: 4.45 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~290 |
-| Increasing your Power Level | 28.00% | ~290 |
-| Enter the Speed Gauntlet | 25.00% | ~259 |
-| I just can't choose | 25.00% | ~259 |
-| A Cheese Grater to the Face | 20.00% | ~207 |
+| Rookie No More | 28.00% | ~291 |
+| Increasing your Power Level | 28.00% | ~291 |
+| Enter the Speed Gauntlet | 25.00% | ~260 |
+| I just can't choose | 25.00% | ~260 |
+| A Cheese Grater to the Face | 20.00% | ~208 |
 | Put it on a shelf | 19.00% | ~197 |
 | It's like an haircut | 18.00% | ~187 |
-| Suit up | 17.00% | ~176 |
+| Suit up | 17.00% | ~177 |
 | Ride in the rising sun | 16.00% | ~166 |
 | Walked like an Egyptian | 15.00% | ~156 |
 | Rookie No-No More | 13.00% | ~135 |
 | Running at the speed of sound | 13.00% | ~135 |
-| Martian explorer | 12.00% | ~124 |
-| To the core | 9.00% | ~93 |
-| Blurred photofinish | 9.00% | ~93 |
+| Martian explorer | 12.00% | ~125 |
+| To the core | 9.00% | ~94 |
+| Blurred photofinish | 9.00% | ~94 |
 | EZ game EZ life | 7.00% | ~73 |
 | First step into a larger world | 7.00% | ~73 |
 | Over the clouds | 6.00% | ~62 |
@@ -27,13 +27,13 @@ Rating: 4.45 (Ranked 619)
 | Even Faster! | 6.00% | ~62 |
 | Longshot | 6.00% | ~62 |
 | B-asic! | 5.00% | ~52 |
-| Under the neon lights | 4.00% | ~41 |
-| All Power to Engines! | 4.00% | ~41 |
-| Had to sweat a bit | 4.00% | ~41 |
-| Almost broke the game | 4.00% | ~41 |
-| Better luck next time | 4.00% | ~41 |
-| Dev, this! | 4.00% | ~41 |
-| He who laughs last... | 4.00% | ~41 |
+| Under the neon lights | 4.00% | ~42 |
+| All Power to Engines! | 4.00% | ~42 |
+| Had to sweat a bit | 4.00% | ~42 |
+| Almost broke the game | 4.00% | ~42 |
+| Better luck next time | 4.00% | ~42 |
+| Dev, this! | 4.00% | ~42 |
+| He who laughs last... | 4.00% | ~42 |
 | Try them all | 3.00% | ~31 |
 | A-mazing! | 3.00% | ~31 |
 | To infinity and gravity! | 3.00% | ~31 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 619)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037 (Ranked 183)  
+Progressed: 1,039 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-06-29 | 1,033 | 0 |
 | 2023-06-30 | 1,035 | 0 |
 | 2023-07-01 | 1,037 | 0 |
+| 2023-07-04 | 1,039 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

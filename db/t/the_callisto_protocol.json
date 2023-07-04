@@ -4,11 +4,11 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 843,
   "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 321,
+  "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -798,10 +798,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 358,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-07-04T07:58:25.6694597+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 362,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358,
+  "NumberOfAwards": 362,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -839,7 +845,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 43
+      "Count": 47
     },
     {
       "Text": "This game has a Creative Community",
@@ -5402,9 +5408,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "STORY_HABITAT",
@@ -5592,9 +5598,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-03T15:58:13.52778+00:00",
-  "LastChanged_Achievements": "2023-07-04T07:05:20.1265828+00:00",
+  "LastChanged": "2023-07-04T07:58:25.6694592+00:00",
+  "LastChanged_Achievements": "2023-07-04T08:05:53.6352412+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-04T06:58:13.454246+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:05:20.1266354+00:00"
+  "LastUpdate_Ratings": "2023-07-04T07:58:25.6694602+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:05:53.6353136+00:00"
 }

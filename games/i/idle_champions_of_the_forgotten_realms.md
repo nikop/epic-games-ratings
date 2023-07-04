@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,872 |
-| The Mad Wizard | 11.00% | ~22,639 |
-| Are Ya Chicken? | 7.00% | ~14,407 |
-| The Ring of Regeneration | 6.00% | ~12,349 |
-| Were-verpowered | 5.00% | ~10,290 |
-| Mad Cow Disease | 5.00% | ~10,290 |
-| Friendly Imps | 5.00% | ~10,290 |
-| A Persistent Buzzing | 4.00% | ~8,232 |
-| Seeking Allies | 4.00% | ~8,232 |
-| Pure Energy | 4.00% | ~8,232 |
-| Terror in the Dark | 3.00% | ~6,174 |
-| Unearthed Evil | 3.00% | ~6,174 |
-| The Crumbling Temple | 3.00% | ~6,174 |
-| The Contagious Curse | 3.00% | ~6,174 |
-| Beast Mode | 2.00% | ~4,116 |
-| Low Initiative | 2.00% | ~4,116 |
-| A Mysterious Summons | 2.00% | ~4,116 |
-| Building Trust | 2.00% | ~4,116 |
-| Useless Allies | 2.00% | ~4,116 |
-| Exploring Port Nyanzaru | 2.00% | ~4,116 |
-| Running of the Saurs | 2.00% | ~4,116 |
-| Escort to Waterdeep | 2.00% | ~4,116 |
-| Waterdeep Detours | 2.00% | ~4,116 |
-| Underdeep Cartography | 2.00% | ~4,116 |
+| The Cursed Farmer | 15.00% | ~30,874 |
+| The Mad Wizard | 11.00% | ~22,641 |
+| Are Ya Chicken? | 7.00% | ~14,408 |
+| The Ring of Regeneration | 6.00% | ~12,350 |
+| Were-verpowered | 5.00% | ~10,292 |
+| Mad Cow Disease | 5.00% | ~10,292 |
+| Friendly Imps | 5.00% | ~10,292 |
+| A Persistent Buzzing | 4.00% | ~8,233 |
+| Seeking Allies | 4.00% | ~8,233 |
+| Pure Energy | 4.00% | ~8,233 |
+| Terror in the Dark | 3.00% | ~6,175 |
+| Unearthed Evil | 3.00% | ~6,175 |
+| The Crumbling Temple | 3.00% | ~6,175 |
+| The Contagious Curse | 3.00% | ~6,175 |
+| Beast Mode | 2.00% | ~4,117 |
+| Low Initiative | 2.00% | ~4,117 |
+| A Mysterious Summons | 2.00% | ~4,117 |
+| Building Trust | 2.00% | ~4,117 |
+| Useless Allies | 2.00% | ~4,117 |
+| Exploring Port Nyanzaru | 2.00% | ~4,117 |
+| Running of the Saurs | 2.00% | ~4,117 |
+| Escort to Waterdeep | 2.00% | ~4,117 |
+| Waterdeep Detours | 2.00% | ~4,117 |
+| Underdeep Cartography | 2.00% | ~4,117 |
 | March of the Undead | 1.00% | ~2,058 |
 | No Time To Rest | 1.00% | ~2,058 |
 | Invisible Shadows | 1.00% | ~2,058 |
@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 1.00% | ~2,058 |
 | The Death Curse | 1.00% | ~2,058 |
 | Premature Betrayal | 1.00% | ~2,058 |
+| A Tale of Two Cities | 1.00% | ~2,058 |
 | Flying Monkey Skulls of Doom | 1.00% | ~2,058 |
 | Close Escort | 1.00% | ~2,058 |
 | Constant Banditry | 1.00% | ~2,058 |
@@ -45,11 +46,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 1.00% | ~2,058 |
 | Homecoming | 0.90% | ~1,852 |
 | Street War | 0.90% | ~1,852 |
-| A Tale of Two Cities | 0.90% | ~1,852 |
-| The Lost Heir of Omu | 0.80% | ~1,646 |
-| Trollskull Manor | 0.80% | ~1,646 |
-| Dinosaur Racing | 0.80% | ~1,646 |
-| Lost in the Deep | 0.80% | ~1,646 |
+| The Lost Heir of Omu | 0.80% | ~1,647 |
+| Trollskull Manor | 0.80% | ~1,647 |
+| Dinosaur Racing | 0.80% | ~1,647 |
+| Lost in the Deep | 0.80% | ~1,647 |
 | The Forbidden City | 0.70% | ~1,441 |
 | Captured! | 0.70% | ~1,441 |
 | Wisdom Check | 0.70% | ~1,441 |
@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.50% | ~1,029 |
 | Lair of the Xanathar | 0.50% | ~1,029 |
 | Difficult Terrain | 0.50% | ~1,029 |
+| The Everlasting Rime | 0.50% | ~861 |
 | Durable Deep | 0.50% | ~1,029 |
 | Lobsterfolk Assault | 0.40% | ~823 |
 | Home Field Advantage | 0.40% | ~823 |
@@ -97,13 +98,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.40% | ~823 |
 | Excavating History | 0.40% | ~823 |
 | Cramped Quarters | 0.40% | ~823 |
+| Slow and Steady | 0.40% | ~823 |
 | Waterdeep Under Siege | 0.40% | ~823 |
 | Vault of Dragons | 0.40% | ~823 |
 | Champions of Waterdeep | 0.40% | ~823 |
 | Elturel Has Fallen | 0.40% | ~823 |
 | Resolve Amongst Chaos | 0.40% | ~823 |
 | Once More Into The Breach | 0.40% | ~823 |
-| The Everlasting Rime | 0.40% | ~688 |
 | Moose Tracks | 0.40% | ~688 |
 | Expert Opinion | 0.40% | ~823 |
 | Poor Guidance | 0.40% | ~823 |
@@ -127,7 +128,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Who Lurks in Lurkwood | 0.30% | ~617 |
 | Orcs Are Wild | 0.30% | ~617 |
 | A Tale of Two Fiends | 0.30% | ~617 |
-| Slow and Steady | 0.30% | ~617 |
 | Patience is Key | 0.30% | ~617 |
 | Troublesome Prisoner | 0.30% | ~617 |
 | Wyllowwood | 0.30% | ~617 |
@@ -143,6 +143,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.30% | ~516 |
 | Bel's Forge | 0.30% | ~516 |
 | Civilization | 0.30% | ~516 |
+| The Sibriex | 0.30% | ~516 |
 | Dwarven Rumors | 0.30% | ~516 |
 | Sunblight | 0.30% | ~516 |
 | The Radiant Nightmare | 0.30% | ~516 |
@@ -221,7 +222,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Giant-Size Adventure | 0.20% | ~344 |
 | Enemy Summit | 0.20% | ~344 |
 | An Awakened Axe | 0.20% | ~344 |
-| The Sibriex | 0.20% | ~344 |
 | Wrecked Flying Fortress | 0.20% | ~344 |
 | The Bleeding Citadel | 0.20% | ~344 |
 | Idyllglen | 0.20% | ~344 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,810 (Ranked 52)  
+Progressed: 205,830 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,810 | 2,026 |
+| 2023-07-04 | 205,830 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,375 (Ranked 37)  

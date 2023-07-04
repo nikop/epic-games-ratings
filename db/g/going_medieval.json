@@ -4612,9 +4612,9 @@
       "ID": "HUNT_DEER_20",
       "SetID": "5349c2e",
       "Name": "Deerly Departed",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 391
     },
     {
       "ID": "HUNT_DEER_5",
@@ -4804,8 +4804,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-06-25T21:59:39.7939851+00:00",
-  "LastChanged_Achievements": "2023-07-04T07:06:16.4854528+00:00",
+  "LastChanged_Achievements": "2023-07-04T08:07:03.8109344+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.587302+00:00",
-  "LastUpdate_Ratings": "2023-07-04T07:00:02.5867495+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:06:16.4854907+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:00:40.0339174+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:07:03.8109757+00:00"
 }

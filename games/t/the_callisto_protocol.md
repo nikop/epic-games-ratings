@@ -17,13 +17,13 @@ Rating: 4.19 (Ranked 843)
 | It's Time | 1.00% | ~36 |
 | I Do Belong Here | 0.90% | ~141 |
 | Workplace Hazard | 0.90% | ~141 |
+| If the SHU Fits... | 0.90% | ~141 |
 | Without A Paddle | 0.90% | ~141 |
 | In the Pipe, Five by Five | 0.90% | ~141 |
 | Crash Site | 0.90% | ~141 |
 | Full Circle | 0.90% | ~141 |
 | Power Up | 0.90% | ~141 |
 | Terminated | 0.80% | ~125 |
-| If the SHU Fits... | 0.80% | ~125 |
 | What Lies Beneath | 0.80% | ~125 |
 | Giving Back | 0.70% | ~109 |
 | The Commonality | 0.70% | ~109 |
@@ -130,8 +130,8 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-04 | 15,628 | 63 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 381)  
-Sum: 358 (Ranked 321)  
-Diff (max vs sum): 60  
+Sum: 362 (Ranked 320)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |
@@ -139,7 +139,7 @@ Diff (max vs sum): 60
 | This game has Amazing Characters | 60 |
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 51 |
-| This game has Challenging Combat | 43 |
+| This game has Challenging Combat | 47 |
 | This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -227,3 +227,4 @@ Diff (max vs sum): 60
 | 2023-07-01 | 4.20 | 63 | 354 |
 | 2023-07-02 | 4.19 | 63 | 356 |
 | 2023-07-03 | 4.19 | 63 | 358 |
+| 2023-07-04 | 4.19 | 63 | 362 |

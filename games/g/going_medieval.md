@@ -33,7 +33,7 @@ Number of Ratings: 706  (23.09.2022)
 | All Year Round | 18.00% | ~781 |
 | Nothing Wasted | 12.00% | ~521 |
 | Don't Cry Wolf | 11.00% | ~478 |
-| Deerly Departed | 8.00% | ~347 |
+| Deerly Departed | 9.00% | ~391 |
 | Where Wolf? | 5.00% | ~217 |
 | Food Chain | 2.00% | ~87 |
 | Wabbit Season | 0.60% | ~26 |

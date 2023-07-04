@@ -1,7 +1,7 @@
 # Flatout
 [Store](https://store.epicgames.com/en-US/p/flatout-940461)  
 [View Rawdata](../../db/f/flatout.json)  
-Rating: 4.21 (Ranked 829)  
+Rating: 4.24 (Ranked 812)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.21 (Ranked 829)
 | 2023-02-24 | 4.19 | - | - |
 | 2023-03-31 | 4.19 | 0 | 0 |
 | 2023-04-24 | 4.21 | 0 | 0 |
+| 2023-07-04 | 4.24 | 0 | 0 |

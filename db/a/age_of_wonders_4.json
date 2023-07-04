@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4909,
+  "EOS_Progressed": 4911,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4857,6 +4857,11 @@
       "Time": "2023-07-04T02:30:09.5400273+00:00",
       "NumProgressed": 4909,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T08:06:11.2468707+00:00",
+      "NumProgressed": 4911,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 50,
@@ -4922,9 +4927,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "17",
@@ -4962,17 +4967,17 @@
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "22",
@@ -5170,9 +5175,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "5",
@@ -5267,13 +5272,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4909,
+      "Progressed": 4911,
       "Completed": 4758
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4909,
+      "Progressed": 4911,
       "Completed": 4
     }
   ],
@@ -5281,8 +5286,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-02T05:00:40.2737263+00:00",
-  "LastChanged_Achievements": "2023-07-04T07:05:33.9042984+00:00",
+  "LastChanged_Achievements": "2023-07-04T08:06:11.2468691+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-04T06:59:39.9118228+00:00",
-  "LastUpdate_Achievements": "2023-07-04T07:05:33.9043606+00:00"
+  "LastUpdate_Ratings": "2023-07-04T08:00:15.847137+00:00",
+  "LastUpdate_Achievements": "2023-07-04T08:06:11.2469346+00:00"
 }
