@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2877,
+  "EOS_Progressed": 2878,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
@@ -3135,6 +3135,11 @@
       "Time": "2023-07-04T15:04:51.5802553+00:00",
       "NumProgressed": 2877,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-07-04T17:05:43.7810527+00:00",
+      "NumProgressed": 2878,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 24,
@@ -3250,7 +3255,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "22",
@@ -3282,7 +3287,7 @@
       "Name": "FRIENDLY",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "4",
@@ -3306,7 +3311,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "7",
@@ -3337,13 +3342,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2877,
+      "Progressed": 2878,
       "Completed": 83
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-04T16:05:10.4474325+00:00",
+  "LastChanged_Achievements": "2023-07-04T17:05:43.7810522+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:59:30.2265004+00:00",
-  "LastUpdate_Achievements": "2023-07-04T16:05:10.4474708+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:59:59.8860285+00:00",
+  "LastUpdate_Achievements": "2023-07-04T17:05:43.7810815+00:00"
 }

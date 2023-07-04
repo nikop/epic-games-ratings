@@ -10,15 +10,15 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item on board | 71.00% | ~980 |
 | First cargo item waiting | 71.00% | ~980 |
 | First bus stop | 70.00% | ~966 |
+| First passenger on board | 67.00% | ~925 |
 | First passenger waiting | 67.00% | ~925 |
 | First bus arrived | 66.00% | ~911 |
-| First passenger on board | 66.00% | ~911 |
 | First train station | 64.00% | ~883 |
 | First steam train arrived | 60.00% | ~828 |
 | First industry upgraded | 56.00% | ~773 |
 | Transport millionaire | 55.00% | ~759 |
+| Cargo hub | 54.00% | ~745 |
 | Cadet | 53.00% | ~731 |
-| Cargo hub | 53.00% | ~731 |
 | Transport master | 52.00% | ~718 |
 | Sculpturer | 50.00% | ~690 |
 | Settled down | 48.00% | ~662 |
@@ -29,7 +29,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport shark | 41.00% | ~566 |
 | First aircraft arrived | 41.00% | ~566 |
 | Exemplary student | 41.00% | ~566 |
-| Mass production | 34.00% | ~469 |
+| Mass production | 35.00% | ~483 |
 | Aircraft entrepreneur | 33.00% | ~455 |
 | Crowd in a train | 31.00% | ~428 |
 | The future is now, old man | 31.00% | ~428 |

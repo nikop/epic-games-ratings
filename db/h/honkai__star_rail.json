@@ -4,7 +4,7 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 166,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 317,
@@ -520,10 +520,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2295,
       "NumberOfAwardsMax": 1660
+    },
+    {
+      "Time": "2023-07-04T17:02:03.9610795+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2318,
+      "NumberOfAwardsMax": 1660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2295,
+  "NumberOfAwards": 2318,
   "NumberOfAwardsMax": 1660,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -549,7 +555,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 66
+      "Count": 80
     },
     {
       "Text": "This game has Diverse Characters",
@@ -561,7 +567,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 67
+      "Count": 76
     },
     {
       "Text": "This game is Extremely Fun",
@@ -606,8 +612,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-04T12:01:19.3646845+00:00",
+  "LastChanged": "2023-07-04T17:02:03.9610794+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:00.4141192+00:00",
-  "LastUpdate_Ratings": "2023-07-04T16:01:06.564789+00:00",
-  "LastUpdate_Achievements": "2023-07-04T16:04:34.4145667+00:00"
+  "LastUpdate_Ratings": "2023-07-04T17:02:03.9610799+00:00",
+  "LastUpdate_Achievements": "2023-07-04T17:04:45.6232195+00:00"
 }

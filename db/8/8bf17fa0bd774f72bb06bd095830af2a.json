@@ -25,9 +25,307 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-07-04T17:05:09.1155779+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
+      "SetID": "b8gj0ip",
+      "Name": "One Fell Swoop",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_KillDesertMonsters",
+      "SetID": "b8gj0ip",
+      "Name": "Crushing the rebelion: Watan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_KillFireMonsters",
+      "SetID": "b8gj0ip",
+      "Name": "Crushing the rebelion: Zildarya",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_KillForestMonsters",
+      "SetID": "b8gj0ip",
+      "Name": "Crushing the rebelion: Grassholt",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_KillFrostMonsters",
+      "SetID": "b8gj0ip",
+      "Name": "Crushing the rebelion: Frosthyll",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_UpgradeDemonDogToMaxLevel",
+      "SetID": "b8gj0ip",
+      "Name": "Man\u0027s Best Friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
+      "SetID": "b8gj0ip",
+      "Name": "It was such a cute egg",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_WinBattles01",
+      "SetID": "b8gj0ip",
+      "Name": "Battle Commander",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievement_WinBattles02",
+      "SetID": "b8gj0ip",
+      "Name": "General",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievements_KillDragons",
+      "SetID": "b8gj0ip",
+      "Name": "Dragon Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_BuildAllBuildings",
+      "SetID": "b8gj0ip",
+      "Name": "Construction Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_BuildOneBuilding",
+      "SetID": "b8gj0ip",
+      "Name": "Emerging Constructor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteAllChallenges",
+      "SetID": "b8gj0ip",
+      "Name": "Master of Challenges",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteAllQuestOnEase",
+      "SetID": "b8gj0ip",
+      "Name": "Whetting The Whistle",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteAllQuestOnHard",
+      "SetID": "b8gj0ip",
+      "Name": "Master Commander",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteAllQuestOnNormal",
+      "SetID": "b8gj0ip",
+      "Name": "Just Right",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteFifteenChallenges",
+      "SetID": "b8gj0ip",
+      "Name": "Amateur of Challenges",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteOneChallenge",
+      "SetID": "b8gj0ip",
+      "Name": "First One",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest02",
+      "SetID": "b8gj0ip",
+      "Name": "Defender of the Forced Gates",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest03",
+      "SetID": "b8gj0ip",
+      "Name": "Cleansing of the Cursed Fountain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest04",
+      "SetID": "b8gj0ip",
+      "Name": "Forest Dragons\u0027 Ally",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest05",
+      "SetID": "b8gj0ip",
+      "Name": "Monster Slayer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest06",
+      "SetID": "b8gj0ip",
+      "Name": "Ancient Machinery Operator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest07",
+      "SetID": "b8gj0ip",
+      "Name": "Master of Choice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest08",
+      "SetID": "b8gj0ip",
+      "Name": "Savior of the Fortress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest09",
+      "SetID": "b8gj0ip",
+      "Name": "Defeat Yourself",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest10",
+      "SetID": "b8gj0ip",
+      "Name": "Trade Lover",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest11",
+      "SetID": "b8gj0ip",
+      "Name": "Mother of the Dragons",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest12",
+      "SetID": "b8gj0ip",
+      "Name": "Untouched Pyramid",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest13",
+      "SetID": "b8gj0ip",
+      "Name": "On the trail",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest14",
+      "SetID": "b8gj0ip",
+      "Name": "Sacrifice",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest15",
+      "SetID": "b8gj0ip",
+      "Name": "Mage Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest16",
+      "SetID": "b8gj0ip",
+      "Name": "Where the Story Ends",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteStoryQuest01",
+      "SetID": "b8gj0ip",
+      "Name": "Hunger Buster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_CompleteThirtyChallenges",
+      "SetID": "b8gj0ip",
+      "Name": "Connoisseur of Challenges",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_FirstVisitCapitalCity",
+      "SetID": "b8gj0ip",
+      "Name": "The Dawn",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
+      "SetID": "b8gj0ip",
+      "Name": "Merging Specialist",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b8gj0ip",
@@ -37,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-07-04T16:04:44.2021645+00:00",
+  "LastChanged_Achievements": "2023-07-04T17:05:09.1155766+00:00",
   "LastUpdate_AppInfo": "2023-07-04T15:57:12.3400836+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:57:27.0107385+00:00",
-  "LastUpdate_Achievements": "2023-07-04T16:04:44.2021682+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:57:24.8691013+00:00",
+  "LastUpdate_Achievements": "2023-07-04T17:05:09.1156006+00:00"
 }

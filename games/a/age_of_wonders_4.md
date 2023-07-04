@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 388)  
+Rating: 4.61 (Ranked 362)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,9 +30,9 @@ Rating: 4.60 (Ranked 388)
 | Impenetrable Fortress | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Return of the Wizard King | 0.90% | ~44 |
+| Enchanted Archipelago | 0.90% | ~44 |
 | Digging for Treasure | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
-| Enchanted Archipelago | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.70% | ~34 |
 | God Emperor | 0.70% | ~34 |
@@ -40,8 +40,8 @@ Rating: 4.60 (Ranked 388)
 | The Goddess of Nature | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~29 |
 | Crimson Caldera | 0.60% | ~29 |
-| The Eternal Court | 0.50% | ~25 |
-| Jack of All Tomes | 0.40% | ~20 |
+| The Eternal Court | 0.60% | ~29 |
+| Jack of All Tomes | 0.50% | ~25 |
 | Pruning for Progress | 0.40% | ~20 |
 | Grexolis | 0.40% | ~20 |
 | One for All, All for One | 0.40% | ~20 |
@@ -155,3 +155,4 @@ Completed: 4 (0.08%) (Ranked 188)
 | 2023-06-23 | 4.60 | 0 | 0 |
 | 2023-06-26 | 4.59 | 0 | 0 |
 | 2023-07-02 | 4.60 | 0 | 0 |
+| 2023-07-04 | 4.61 | 0 | 0 |

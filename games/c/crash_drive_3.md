@@ -9,15 +9,15 @@
 | Pushover | 31.00% | ~105 |
 | A Forest Walk | 31.00% | ~105 |
 | Amateur Mechanic | 30.00% | ~102 |
-| C-C-C-Combo! | 28.00% | ~95 |
+| C-C-C-Combo! | 29.00% | ~99 |
 | Multiply that! | 28.00% | ~95 |
 | Fore! | 26.00% | ~88 |
 | Insurance fraud | 26.00% | ~88 |
 | Snow Fun! | 26.00% | ~88 |
 | The Collector | 25.00% | ~85 |
 | The Wild West | 25.00% | ~85 |
+| Bag of Tricks | 25.00% | ~85 |
 | To and Fro | 24.00% | ~82 |
-| Bag of Tricks | 24.00% | ~82 |
 | I see the light! | 24.00% | ~82 |
 | In the Bag! | 24.00% | ~82 |
 | You're it | 24.00% | ~82 |
@@ -33,9 +33,9 @@
 | Drift King! | 19.00% | ~65 |
 | Feeling Hot Hot Hot! | 19.00% | ~65 |
 | Feeling Dizzy? | 19.00% | ~65 |
+| Speed of light | 19.00% | ~65 |
 | Ferry Good! | 18.00% | ~61 |
 | Assert Dominance | 18.00% | ~61 |
-| Speed of light | 18.00% | ~61 |
 | Out of this League | 15.00% | ~51 |
 | Special Forces | 14.00% | ~48 |
 | Toot Toot! | 13.00% | ~44 |

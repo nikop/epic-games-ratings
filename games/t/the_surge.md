@@ -71,7 +71,7 @@ Number of Ratings: 62  (23.09.2022)
 | Modus Operandi | 0.70% | ~31 |
 | Suited and Booted | 0.70% | ~31 |
 | Tools of War | 0.70% | ~31 |
-| Brave New World | 0.50% | ~22 |
+| Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,467 (Ranked 137)  

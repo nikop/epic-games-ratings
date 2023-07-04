@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 619)  
+Rating: 4.44 (Ranked 636)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,12 +26,12 @@ Rating: 4.45 (Ranked 619)
 | Brains of the Operation | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
+| Just a Flesh Wound | 0.50% | ~16 |
 | Skirmisher | 0.50% | ~16 |
 | Set Europe Ablaze | 0.50% | ~16 |
 | My Little Friend | 0.50% | ~16 |
 | Explosive Efficiency | 0.50% | ~16 |
 | Fields of Glory | 0.40% | ~13 |
-| Just a Flesh Wound | 0.40% | ~13 |
 | Precision Is Key | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
 | Close Quarters | 0.40% | ~13 |
@@ -209,3 +209,4 @@ Completed: 6 (0.19%) (Ranked 160)
 | 2023-06-22 | 4.46 | 0 | 0 |
 | 2023-06-23 | 4.47 | 0 | 0 |
 | 2023-06-29 | 4.45 | 0 | 0 |
+| 2023-07-04 | 4.44 | 0 | 0 |

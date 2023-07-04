@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 843)
 | The Outer Way | 0.80% | ~125 |
 | The Commonality | 0.70% | ~109 |
 | Desperate Times | 0.70% | ~109 |
-| One Last Job | 0.50% | ~18 |
+| One Last Job | 0.60% | ~21 |
 | In Striking Distance | 0.40% | ~63 |
 | This Isn't About Escape | 0.40% | ~14 |
 | Grim Reaper | 0.30% | ~47 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 843)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,632 (Ranked 106)  
+Progressed: 15,633 (Ranked 106)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-01 | 15,611 | 62 |
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
-| 2023-07-04 | 15,632 | 63 |
+| 2023-07-04 | 15,633 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 378)  
 Sum: 363 (Ranked 319)  

@@ -860,9 +860,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 15632,
+  "EOS_Progressed": 15633,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5220,6 +5220,11 @@
       "Time": "2023-07-04T16:05:34.475576+00:00",
       "NumProgressed": 15632,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-04T17:06:15.8527557+00:00",
+      "NumProgressed": 15633,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 47,
@@ -5573,9 +5578,9 @@
       "ID": "FINISH_DLC4",
       "SetID": "6j5ggkc",
       "Name": "One Last Job",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "KILL_BIOBOT",
@@ -5606,13 +5611,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15632,
+      "Progressed": 15633,
       "Completed": 63
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 29
     }
   ],
@@ -5620,8 +5625,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-04T10:58:59.996998+00:00",
-  "LastChanged_Achievements": "2023-07-04T16:05:34.475575+00:00",
+  "LastChanged_Achievements": "2023-07-04T17:06:15.8527554+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:58:29.0904248+00:00",
-  "LastUpdate_Achievements": "2023-07-04T16:05:34.4756427+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:58:35.170863+00:00",
+  "LastUpdate_Achievements": "2023-07-04T17:06:15.8528103+00:00"
 }

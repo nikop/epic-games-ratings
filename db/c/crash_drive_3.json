@@ -438,9 +438,9 @@
       "ID": "HIGH_COMBO_SCORE",
       "SetID": "20koof9",
       "Name": "C-C-C-Combo!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -590,9 +590,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -678,9 +678,9 @@
       "ID": "WIN_RACE_AGAINST_3",
       "SetID": "20koof9",
       "Name": "Speed of light",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "WIN_ROBBER",
@@ -719,8 +719,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-07-04T16:01:26.8582221+00:00",
+  "LastChanged_Achievements": "2023-07-04T17:02:32.5283563+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.3523611+00:00",
-  "LastUpdate_Ratings": "2023-07-04T15:59:17.5379205+00:00",
-  "LastUpdate_Achievements": "2023-07-04T16:01:26.8582892+00:00"
+  "LastUpdate_Ratings": "2023-07-04T16:59:43.6023745+00:00",
+  "LastUpdate_Achievements": "2023-07-04T17:02:32.5284003+00:00"
 }
