@@ -18,7 +18,7 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.44% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.39% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -58,8 +58,8 @@
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 59 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 60 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.82% |
+| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.85% |
+| 60 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.68% |
