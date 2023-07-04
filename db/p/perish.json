@@ -1949,9 +1949,9 @@
       "ID": "ACH_M_D3",
       "SetID": "b3fep3o",
       "Name": "Chthonic Investor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_M_D4",
@@ -1997,9 +1997,9 @@
       "ID": "ACH_M_SC",
       "SetID": "b3fep3o",
       "Name": "Buyer\u0027s Remorse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_OB_B",
@@ -2310,8 +2310,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:29:12.7769725+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:27:54.0640459+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:24:36.1486181+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:29:12.7770456+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:23:17.3383904+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:27:54.0641281+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3457,
+  "EOS_Progressed": 3458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -663,6 +663,11 @@
       "Time": "2023-07-03T02:31:22.8144429+00:00",
       "NumProgressed": 3457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T03:29:41.7594662+00:00",
+      "NumProgressed": 3458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -706,7 +711,7 @@
       "Name": "Totally Intentional",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -738,7 +743,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -786,7 +791,7 @@
       "Name": "We\u0027re In",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -802,7 +807,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -810,7 +815,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -881,7 +886,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3457,
+      "Progressed": 3458,
       "Completed": 0
     }
   ],
@@ -889,8 +894,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:30:50.8538347+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:29:41.7594654+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:31.1580907+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:24:19.9426141+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:30:50.853858+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:23:03.8934193+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:29:41.7594964+00:00"
 }

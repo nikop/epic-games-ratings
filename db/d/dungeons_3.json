@@ -2296,9 +2296,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 22610,
+  "EOS_Progressed": 22611,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -10106,6 +10106,11 @@
       "Time": "2023-07-04T02:30:17.3096104+00:00",
       "NumProgressed": 22610,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-07-04T03:29:07.8313394+00:00",
+      "NumProgressed": 22611,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 60,
@@ -10123,9 +10128,9 @@
       "ID": "ACH_D3_Campaign_Cathedral_2",
       "SetID": "cda475f",
       "Name": "No one has to die today!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10401
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -10157,7 +10162,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -10205,7 +10210,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -10229,7 +10234,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -10253,7 +10258,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 7235
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -10261,7 +10266,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -10285,7 +10290,7 @@
       "Name": "Prepare the grave",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -10301,7 +10306,7 @@
       "Name": "Angel of Fire",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -10325,7 +10330,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 9948
+      "UsersEstimate": 9949
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -10333,7 +10338,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 9270
+      "UsersEstimate": 9271
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -10349,7 +10354,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 9270
+      "UsersEstimate": 9271
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -10421,7 +10426,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -10477,7 +10482,7 @@
       "Name": "Factory farming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 7235
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -10493,7 +10498,7 @@
       "Name": "Damned good",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 7687
+      "UsersEstimate": 7688
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -10501,7 +10506,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 10174
+      "UsersEstimate": 10175
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -10517,7 +10522,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 15827
+      "UsersEstimate": 15828
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -10533,7 +10538,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -10596,15 +10601,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 22610,
+      "Progressed": 22611,
       "Completed": 189
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-01T14:59:02.6820199+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:30:17.3096097+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:29:07.8313388+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:12.1553094+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:24:08.498778+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:30:17.3097971+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:22:52.6137007+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:29:07.8314827+00:00"
 }

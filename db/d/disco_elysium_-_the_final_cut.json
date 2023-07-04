@@ -1163,9 +1163,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122667,
+  "EOS_Progressed": 122669,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8363,6 +8363,11 @@
       "Time": "2023-07-04T02:30:55.6966939+00:00",
       "NumProgressed": 122667,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-04T03:29:46.3602458+00:00",
+      "NumProgressed": 122669,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8422,7 +8427,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -8430,7 +8435,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29440
+      "UsersEstimate": 29441
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -8438,7 +8443,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "ACH_COP_DORK",
@@ -8486,7 +8491,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24533
+      "UsersEstimate": 24534
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8518,7 +8523,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13493
+      "UsersEstimate": 13494
     },
     {
       "ID": "ACH_CUNO",
@@ -8590,7 +8595,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17173
+      "UsersEstimate": 17174
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -8693,15 +8698,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122667,
+      "Progressed": 122669,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-02T13:59:10.1484501+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:30:55.6966934+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:29:46.3602449+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:24:04.7461444+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:30:55.6967724+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:22:48.8065359+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:29:46.3603459+00:00"
 }

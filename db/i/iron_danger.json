@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.82,
+  "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -321,6 +321,11 @@
       "Time": "2023-07-02T04:07:36.8352787+00:00",
       "NumProgressed": 220,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T03:29:45.9651258+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -452,7 +457,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_SHARD_2",
@@ -515,7 +520,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 4
     }
   ],
@@ -523,8 +528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:30:55.2678396+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:29:45.9651252+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.8902037+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:24:51.7041162+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:30:55.2678584+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:23:32.7720331+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:29:45.9651427+00:00"
 }

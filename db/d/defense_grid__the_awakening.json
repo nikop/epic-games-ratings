@@ -1669,9 +1669,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 480692,
+  "EOS_Progressed": 480693,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9294,6 +9294,11 @@
       "Time": "2023-07-04T02:30:59.7195457+00:00",
       "NumProgressed": 480692,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-04T03:29:50.4400728+00:00",
+      "NumProgressed": 480693,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -9321,7 +9326,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 221118
+      "UsersEstimate": 221119
     },
     {
       "ID": "BASEDEFENDER",
@@ -9353,7 +9358,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 216311
+      "UsersEstimate": 216312
     },
     {
       "ID": "BURNBABYBURN",
@@ -9361,7 +9366,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 283608
+      "UsersEstimate": 283609
     },
     {
       "ID": "CHAS",
@@ -9401,7 +9406,7 @@
       "Name": "Close Call",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 235539
+      "UsersEstimate": 235540
     },
     {
       "ID": "COMBATTURMOIL",
@@ -9473,7 +9478,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 355712
+      "UsersEstimate": 355713
     },
     {
       "ID": "FILTHYRICH",
@@ -9481,7 +9486,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91331
+      "UsersEstimate": 91332
     },
     {
       "ID": "FIREBUG",
@@ -9561,7 +9566,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153821
+      "UsersEstimate": 153822
     },
     {
       "ID": "GUNCRAZY",
@@ -9577,7 +9582,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 370133
+      "UsersEstimate": 370134
     },
     {
       "ID": "HEADTRAUMA",
@@ -9593,7 +9598,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 374940
+      "UsersEstimate": 374941
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -9617,7 +9622,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 307643
+      "UsersEstimate": 307644
     },
     {
       "ID": "KABOOM",
@@ -9641,7 +9646,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 341291
+      "UsersEstimate": 341292
     },
     {
       "ID": "LIQUIDATOR",
@@ -9713,7 +9718,7 @@
       "Name": "Not So Fast",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153821
+      "UsersEstimate": 153822
     },
     {
       "ID": "OUTOFBULLETS",
@@ -9753,7 +9758,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 235539
+      "UsersEstimate": 235540
     },
     {
       "ID": "PEWPEW",
@@ -9849,7 +9854,7 @@
       "Name": "Sharpshooter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 158628
+      "UsersEstimate": 158629
     },
     {
       "ID": "SHELLSHOCKED",
@@ -10000,15 +10005,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 480692,
+      "Progressed": 480693,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-07-03T19:58:25.9257775+00:00",
-  "LastChanged_Achievements": "2023-07-04T02:30:59.7195453+00:00",
+  "LastChanged_Achievements": "2023-07-04T03:29:50.4400722+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.4987699+00:00",
-  "LastUpdate_Ratings": "2023-07-04T02:23:20.9966021+00:00",
-  "LastUpdate_Achievements": "2023-07-04T02:30:59.7197569+00:00"
+  "LastUpdate_Ratings": "2023-07-04T03:22:04.6249845+00:00",
+  "LastUpdate_Achievements": "2023-07-04T03:29:50.4403422+00:00"
 }

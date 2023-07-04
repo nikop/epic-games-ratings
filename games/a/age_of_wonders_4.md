@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 387)  
+Rating: 4.60 (Ranked 388)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,9 +32,9 @@ Rating: 4.60 (Ranked 387)
 | Digging for Treasure | 0.90% | ~44 |
 | In a Liege of Your Own | 0.90% | ~44 |
 | Valley of Wonders | 0.80% | ~39 |
+| Enchanted Archipelago | 0.80% | ~39 |
 | The Magic That Empowers Me! | 0.70% | ~34 |
 | The Creator | 0.70% | ~34 |
-| Enchanted Archipelago | 0.70% | ~34 |
 | Eternal Lord | 0.70% | ~34 |
 | God Emperor | 0.60% | ~29 |
 | Lord of Chaos | 0.60% | ~29 |

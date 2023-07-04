@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,854 |
-| The Mad Wizard | 11.00% | ~22,626 |
-| Are Ya Chicken? | 7.00% | ~14,399 |
-| The Ring of Regeneration | 6.00% | ~12,342 |
-| Were-verpowered | 5.00% | ~10,285 |
-| Mad Cow Disease | 5.00% | ~10,285 |
-| Friendly Imps | 5.00% | ~10,285 |
-| A Persistent Buzzing | 4.00% | ~8,228 |
-| Seeking Allies | 4.00% | ~8,228 |
-| Pure Energy | 4.00% | ~8,228 |
-| Terror in the Dark | 3.00% | ~6,171 |
-| Unearthed Evil | 3.00% | ~6,171 |
-| The Crumbling Temple | 3.00% | ~6,171 |
-| The Contagious Curse | 3.00% | ~6,171 |
-| Beast Mode | 2.00% | ~4,114 |
-| Low Initiative | 2.00% | ~4,114 |
-| A Mysterious Summons | 2.00% | ~4,114 |
-| Building Trust | 2.00% | ~4,114 |
-| Useless Allies | 2.00% | ~4,114 |
-| Exploring Port Nyanzaru | 2.00% | ~4,114 |
-| Running of the Saurs | 2.00% | ~4,114 |
-| Escort to Waterdeep | 2.00% | ~4,114 |
-| Waterdeep Detours | 2.00% | ~4,114 |
-| Underdeep Cartography | 2.00% | ~4,114 |
+| The Cursed Farmer | 15.00% | ~30,860 |
+| The Mad Wizard | 11.00% | ~22,631 |
+| Are Ya Chicken? | 7.00% | ~14,401 |
+| The Ring of Regeneration | 6.00% | ~12,344 |
+| Were-verpowered | 5.00% | ~10,287 |
+| Mad Cow Disease | 5.00% | ~10,287 |
+| Friendly Imps | 5.00% | ~10,287 |
+| A Persistent Buzzing | 4.00% | ~8,229 |
+| Seeking Allies | 4.00% | ~8,229 |
+| Pure Energy | 4.00% | ~8,229 |
+| Terror in the Dark | 3.00% | ~6,172 |
+| Unearthed Evil | 3.00% | ~6,172 |
+| The Crumbling Temple | 3.00% | ~6,172 |
+| The Contagious Curse | 3.00% | ~6,172 |
+| Beast Mode | 2.00% | ~4,115 |
+| Low Initiative | 2.00% | ~4,115 |
+| A Mysterious Summons | 2.00% | ~4,115 |
+| Building Trust | 2.00% | ~4,115 |
+| Useless Allies | 2.00% | ~4,115 |
+| Exploring Port Nyanzaru | 2.00% | ~4,115 |
+| Running of the Saurs | 2.00% | ~4,115 |
+| Escort to Waterdeep | 2.00% | ~4,115 |
+| Waterdeep Detours | 2.00% | ~4,115 |
+| Underdeep Cartography | 2.00% | ~4,115 |
 | March of the Undead | 1.00% | ~2,057 |
 | No Time To Rest | 1.00% | ~2,057 |
 | Invisible Shadows | 1.00% | ~2,057 |
@@ -43,12 +43,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,057 |
 | The Templar's Camp | 1.00% | ~2,057 |
 | Rescue in the Jungle | 1.00% | ~2,057 |
-| Homecoming | 0.90% | ~1,851 |
-| Street War | 0.90% | ~1,851 |
-| A Tale of Two Cities | 0.90% | ~1,851 |
+| Homecoming | 0.90% | ~1,852 |
+| Street War | 0.90% | ~1,852 |
+| A Tale of Two Cities | 0.90% | ~1,852 |
 | The Lost Heir of Omu | 0.80% | ~1,646 |
 | Trollskull Manor | 0.80% | ~1,646 |
 | Dinosaur Racing | 0.80% | ~1,646 |
+| Lost in the Deep | 0.80% | ~1,646 |
 | The Forbidden City | 0.70% | ~1,440 |
 | Captured! | 0.70% | ~1,440 |
 | Wisdom Check | 0.70% | ~1,440 |
@@ -56,7 +57,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.70% | ~1,440 |
 | The Dead Three | 0.70% | ~1,440 |
 | The Long Haul | 0.70% | ~1,440 |
-| Lost in the Deep | 0.70% | ~1,440 |
 | Easily Distracted | 0.70% | ~1,440 |
 | A Grand Puzzle | 0.60% | ~1,234 |
 | Tomb of the Nine Gods | 0.60% | ~1,234 |
@@ -68,18 +68,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,032 |
 | Rude Welcome | 0.60% | ~1,234 |
 | The Haunted Jungle | 0.60% | ~1,234 |
-| Family Entanglements | 0.50% | ~1,028 |
-| The Immortal Warrior | 0.50% | ~1,028 |
-| The Wyrmheart Mine | 0.50% | ~1,028 |
-| Tower on the Lake | 0.50% | ~1,028 |
-| Seeds of Deceit | 0.50% | ~1,028 |
-| The Guardian of Orolunga | 0.50% | ~1,028 |
-| Hopelessly Lost | 0.50% | ~1,028 |
-| Enter the Sargauth | 0.50% | ~1,028 |
-| Lair of the Xanathar | 0.50% | ~1,028 |
-| Difficult Terrain | 0.50% | ~1,028 |
-| Market Fluctuations | 0.50% | ~1,028 |
-| Durable Deep | 0.50% | ~1,028 |
+| Family Entanglements | 0.50% | ~1,029 |
+| The Immortal Warrior | 0.50% | ~1,029 |
+| The Wyrmheart Mine | 0.50% | ~1,029 |
+| Tower on the Lake | 0.50% | ~1,029 |
+| Seeds of Deceit | 0.50% | ~1,029 |
+| The Guardian of Orolunga | 0.50% | ~1,029 |
+| The Lost Love | 0.50% | ~1,029 |
+| Hopelessly Lost | 0.50% | ~1,029 |
+| Enter the Sargauth | 0.50% | ~1,029 |
+| Lair of the Xanathar | 0.50% | ~1,029 |
+| Difficult Terrain | 0.50% | ~1,029 |
+| Market Fluctuations | 0.50% | ~1,029 |
+| Durable Deep | 0.50% | ~1,029 |
 | Home Field Advantage | 0.40% | ~823 |
 | Force Grey Unleashed | 0.40% | ~823 |
 | Sleuth It Out | 0.40% | ~823 |
@@ -90,7 +91,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.40% | ~823 |
 | Domesticated Owlbears | 0.40% | ~823 |
 | The Gargoyle's Apprentice | 0.40% | ~823 |
-| The Lost Love | 0.40% | ~823 |
 | Flies on the Wall | 0.40% | ~823 |
 | Backtracking Through Barovia | 0.40% | ~823 |
 | Excavating History | 0.40% | ~823 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,694 (Ranked 52)  
+Progressed: 205,732 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,694 | 2,026 |
+| 2023-07-04 | 205,732 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,375 (Ranked 37)  

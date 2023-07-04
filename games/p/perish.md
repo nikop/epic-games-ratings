@@ -20,6 +20,7 @@
 | Pillars of Eternity | 3.00% | ~94 |
 | Immolator | 3.00% | ~94 |
 | War Chest | 3.00% | ~94 |
+| Chthonic Investor | 3.00% | ~94 |
 | Symbols of Heresy | 3.00% | ~94 |
 | Sisters of the Pantheon | 3.00% | ~94 |
 | Siege Unit | 3.00% | ~94 |
@@ -28,7 +29,6 @@
 | Comedy and Tragedy | 2.00% | ~63 |
 | Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
-| Chthonic Investor | 2.00% | ~63 |
 | First Fragment | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
 | Labour of Apollo | 2.00% | ~63 |
@@ -61,8 +61,8 @@
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
+| Buyer's Remorse | 0.30% | ~9 |
 | Elephantine | 0.30% | ~9 |
-| Buyer's Remorse | 0.20% | ~6 |
 | Library of Alexandria | 0.10% | ~3 |
 | Chitinous | 0.10% | ~3 |
 | Nectar of Eternity | 0.00% | ~0 |

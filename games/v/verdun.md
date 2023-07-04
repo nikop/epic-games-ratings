@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~38,529 |
-| Worth it | 63.00% | ~31,524 |
-| Eagle Eye | 55.00% | ~27,521 |
-| Corpseman I | 40.00% | ~20,015 |
-| Blast fishing | 37.00% | ~18,514 |
-| Not alone | 32.00% | ~16,012 |
-| Headhunter I | 26.00% | ~13,010 |
-| Manual Labour I | 25.00% | ~12,510 |
-| Developers, Developers, Developers | 24.00% | ~12,009 |
-| Basic Training | 24.00% | ~12,009 |
-| Furchtlos und Treu | 13.00% | ~6,505 |
+| Setting an example | 77.00% | ~38,534 |
+| Worth it | 63.00% | ~31,528 |
+| Eagle Eye | 55.00% | ~27,524 |
+| Corpseman I | 40.00% | ~20,018 |
+| Blast fishing | 37.00% | ~18,516 |
+| Not alone | 32.00% | ~16,014 |
+| Headhunter I | 26.00% | ~13,011 |
+| Manual Labour I | 25.00% | ~12,511 |
+| Developers, Developers, Developers | 24.00% | ~12,011 |
+| Basic Training | 24.00% | ~12,011 |
+| Furchtlos und Treu | 13.00% | ~6,506 |
 | Gott Mit Uns | 12.00% | ~6,005 |
-| This We'll Defend! | 9.00% | ~4,503 |
-| Anker wirf! | 9.00% | ~4,503 |
-| Providentiea Memor | 9.00% | ~4,503 |
-| For King and Country | 9.00% | ~4,503 |
-| Battle hardened | 8.00% | ~4,003 |
+| This We'll Defend! | 9.00% | ~4,504 |
+| Anker wirf! | 9.00% | ~4,504 |
+| Providentiea Memor | 9.00% | ~4,504 |
+| For King and Country | 9.00% | ~4,504 |
+| Battle hardened | 8.00% | ~4,004 |
 | Semper Fidelis! | 7.00% | ~3,503 |
 | Honneur et Patrie | 7.00% | ~3,503 |
 | In Treue Fest | 5.00% | ~2,502 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~50 |
 | Blood Brother | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,038 (Ranked 84)  
+Progressed: 50,044 (Ranked 84)  
 Completed: 4 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 4 (0.01%) (Ranked 220)
 | 2023-07-01 | 49,770 | 4 |
 | 2023-07-02 | 49,903 | 4 |
 | 2023-07-03 | 50,027 | 4 |
-| 2023-07-04 | 50,038 | 4 |
+| 2023-07-04 | 50,044 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 336)  
 Sum: 757 (Ranked 261)  
