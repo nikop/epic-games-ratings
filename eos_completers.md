@@ -78,7 +78,7 @@
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
 | 78 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 79 | [Iron Danger](games/i/iron_danger.md) | 1.82% |
+| 79 | [Iron Danger](games/i/iron_danger.md) | 1.81% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
 | 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.78% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
