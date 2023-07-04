@@ -43,6 +43,7 @@
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
 | [Absolute Drift](../games/a/absolute_drift.md) | 20 | 1,000 |
+| [Access Denied Escape](../games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 14 | 1,000 |
 | [Active DBG Brave's Rage](../games/7/767ef5b53bde471090219bbec4f9d78a.md) | 42 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
