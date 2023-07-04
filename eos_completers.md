@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.70% |
+| 1 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.86% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 40.00% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -18,12 +18,12 @@
 | 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
 | 17 | [Remains](games/r/remains.md) | 12.20% |
 | 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.39% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.34% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.40% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.39% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
@@ -36,12 +36,12 @@
 | 33 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
 | 36 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
-| 37 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
-| 38 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.76% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
-| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
-| 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.35% |
+| 37 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
+| 38 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 4.88% |
+| 39 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.76% |
+| 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
+| 41 | [Bugsnax](games/b/bugsnax.md) | 4.66% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -58,8 +58,8 @@
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.01% |
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.85% |
-| 60 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.89% |
+| 60 | [Destiny 2](games/d/destiny_2.md) | 2.83% |
 | 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 63 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.68% |
@@ -67,7 +67,7 @@
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
+| 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.39% |
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
