@@ -1,6 +1,6 @@
 | # | Game | Completed |
 | - | ---- | --------- |
-| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.00% |
+| 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 60.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.86% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
@@ -25,7 +25,7 @@
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.38% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.36% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 6.94% |
 | 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
@@ -41,7 +41,7 @@
 | 39 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.76% |
 | 40 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 41 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.49% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.46% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -68,8 +68,8 @@
 | 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.39% |
-| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.31% |
-| 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
+| 69 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
+| 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.15% |
@@ -156,13 +156,13 @@
 | 154 | [Filament](games/f/filament.md) | 0.23% |
 | 154 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.23% |
 | 156 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 156 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.22% |
 | 156 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
-| 158 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 158 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 160 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
-| 160 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
-| 160 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
-| 160 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
+| 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
+| 159 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
+| 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
+| 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.18% |
 | 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 166 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
@@ -484,4 +484,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,875 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,876 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
