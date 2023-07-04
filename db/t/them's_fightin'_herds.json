@@ -194,7 +194,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225462,
+  "EOS_Progressed": 225465,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
@@ -7939,6 +7939,11 @@
       "Time": "2023-07-04T10:03:21.7316743+00:00",
       "NumProgressed": 225462,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T11:04:13.9169569+00:00",
+      "NumProgressed": 225465,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -8014,7 +8019,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81166
+      "UsersEstimate": 81167
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -8094,7 +8099,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76657
+      "UsersEstimate": 76658
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -8150,7 +8155,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -8173,7 +8178,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225462,
+      "Progressed": 225465,
       "Completed": 3
     }
   ],
@@ -8181,8 +8186,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-06-24T13:14:19.6747897+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:03:21.7316737+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:04:13.9169561+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:03.3590644+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:59:41.6268363+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:03:21.7317714+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:01:36.8631855+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:04:13.9170746+00:00"
 }

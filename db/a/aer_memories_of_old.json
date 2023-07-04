@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14350,
+  "EOS_Progressed": 14351,
   "EOS_Completed": 303,
-  "EOS_NewPlayers": 655,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 653,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -8149,6 +8149,11 @@
       "Time": "2023-07-04T10:06:04.1240904+00:00",
       "NumProgressed": 14350,
       "NumCompleted": 303
+    },
+    {
+      "Time": "2023-07-04T11:07:58.3571588+00:00",
+      "NumProgressed": 14351,
+      "NumCompleted": 303
     }
   ],
   "TotalAchievements": 20,
@@ -8176,7 +8181,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8224,7 +8229,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "FOUND_ERIN",
@@ -8280,7 +8285,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10906
+      "UsersEstimate": 10907
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8312,22 +8317,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14350,
+      "Progressed": 14351,
       "Completed": 303
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:06:04.12409+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:07:58.357158+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:59:58.1489775+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:06:04.1241725+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:02:02.756841+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:07:58.3572656+00:00"
 }

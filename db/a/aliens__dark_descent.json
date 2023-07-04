@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2538,
+  "EOS_Progressed": 2539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2023-07-04T10:05:58.1026867+00:00",
       "NumProgressed": 2538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-04T11:07:50.1957968+00:00",
+      "NumProgressed": 2539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1658,7 +1663,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -1674,7 +1679,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1690,7 +1695,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -1752,9 +1757,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1834,7 +1839,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ACH_MISSION_02",
@@ -1858,7 +1863,7 @@
       "Name": "Making a Stand",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_MISSION_05",
@@ -1866,7 +1871,7 @@
       "Name": "Where It All Begun",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_MISSION_06",
@@ -1906,7 +1911,7 @@
       "Name": "The Spire",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_MISSION_11",
@@ -1938,7 +1943,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -1946,7 +1951,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -1962,7 +1967,7 @@
       "Name": "People Person",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -1970,7 +1975,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -2001,7 +2006,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2538,
+      "Progressed": 2539,
       "Completed": 0
     }
   ],
@@ -2009,8 +2014,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-03T13:18:09.2900217+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:05:58.102686+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:07:50.1957963+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:59:16.4324047+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:05:58.1027757+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:01:02.5035436+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:07:50.1958799+00:00"
 }

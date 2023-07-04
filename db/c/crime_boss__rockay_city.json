@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2376,9 +2376,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68293,
+  "EOS_Progressed": 68295,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10231,6 +10231,11 @@
       "Time": "2023-07-04T10:03:38.7363834+00:00",
       "NumProgressed": 68293,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-04T11:04:38.9166852+00:00",
+      "NumProgressed": 68295,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10242,7 +10247,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34146
+      "UsersEstimate": 34148
     },
     {
       "ID": "ACH_0011",
@@ -10250,7 +10255,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19805
+      "UsersEstimate": 19806
     },
     {
       "ID": "ACH_0012",
@@ -10274,7 +10279,7 @@
       "Name": "Track Star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "ACH_0015",
@@ -10322,7 +10327,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     },
     {
       "ID": "ACH_0050",
@@ -10338,7 +10343,7 @@
       "Name": "Freebooter",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6829
+      "UsersEstimate": 6830
     },
     {
       "ID": "ACH_0061",
@@ -10354,7 +10359,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     },
     {
       "ID": "ACH_0101",
@@ -10386,7 +10391,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44390
+      "UsersEstimate": 44392
     },
     {
       "ID": "ACH_0210",
@@ -10394,7 +10399,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50537
+      "UsersEstimate": 50538
     },
     {
       "ID": "ACH_0211",
@@ -10410,7 +10415,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32098
+      "UsersEstimate": 32099
     },
     {
       "ID": "ACH_0300",
@@ -10434,7 +10439,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     },
     {
       "ID": "ACH_0340",
@@ -10482,7 +10487,7 @@
       "Name": "Classy Joint",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "ACH_0440",
@@ -10537,7 +10542,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68293,
+      "Progressed": 68295,
       "Completed": 35
     }
   ],
@@ -10545,8 +10550,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-04T03:23:29.9249728+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:03:38.7363828+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:04:38.9166846+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:59:49.7106078+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:03:38.7364763+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:01:49.9496143+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:04:38.9167658+00:00"
 }

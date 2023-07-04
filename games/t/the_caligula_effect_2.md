@@ -17,7 +17,7 @@ Number of Ratings: 32  (23.09.2022)
 | Behind the Curtain | 33.00% | ~77 |
 | Master of Surprise | 30.00% | ~70 |
 | Be Who You Wanna Be | 26.00% | ~61 |
-| Counter Champion | 25.00% | ~58 |
+| Counter Champion | 26.00% | ~61 |
 | Friendly Neighborhood | 24.00% | ~56 |
 | Nice Doing Business | 24.00% | ~56 |
 | Investment Ban-χ-ing | 24.00% | ~56 |

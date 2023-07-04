@@ -20,9 +20,9 @@ Rating: 4.45 (Ranked 619)
 | Gunslinger | 0.80% | ~26 |
 | Confirming Suspicions | 0.80% | ~26 |
 | Lord of War | 0.80% | ~26 |
+| Organ Grinder | 0.70% | ~22 |
 | As Quiet as a Mouse | 0.70% | ~22 |
 | Opposing Force | 0.60% | ~19 |
-| Organ Grinder | 0.60% | ~19 |
 | Der Geist | 0.60% | ~19 |
 | Brains of the Operation | 0.60% | ~19 |
 | Skirmisher | 0.50% | ~16 |
@@ -32,9 +32,9 @@ Rating: 4.45 (Ranked 619)
 | Precision Is Key | 0.40% | ~13 |
 | My Little Friend | 0.40% | ~13 |
 | Explosive Efficiency | 0.40% | ~13 |
+| Die Nussknacker Sweet! | 0.40% | ~13 |
 | Close Quarters | 0.40% | ~13 |
 | Fields of Glory | 0.30% | ~10 |
-| Die Nussknacker Sweet! | 0.30% | ~10 |
 | Snake in the Grass | 0.30% | ~10 |
 | Tinkerer | 0.30% | ~10 |
 | Last Resort | 0.30% | ~9 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56792,
+  "EOS_Progressed": 56793,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6892,6 +6892,11 @@
       "Time": "2023-07-04T10:02:20.6233045+00:00",
       "NumProgressed": 56792,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-04T11:03:19.2808202+00:00",
+      "NumProgressed": 56793,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6903,7 +6908,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18741
+      "UsersEstimate": 18742
     },
     {
       "ID": "02",
@@ -6911,7 +6916,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11926
+      "UsersEstimate": 11927
     },
     {
       "ID": "03",
@@ -6919,7 +6924,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11358
+      "UsersEstimate": 11359
     },
     {
       "ID": "04",
@@ -7095,7 +7100,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "26",
@@ -7438,21 +7443,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56792,
+      "Progressed": 56793,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20260,
+      "Progressed": 20261,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:02:20.6233038+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:03:19.2808194+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:57:48.7993089+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:02:20.6234236+00:00"
+  "LastUpdate_Ratings": "2023-07-04T10:58:45.0396077+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:03:19.2809811+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2875,
+  "EOS_Progressed": 2876,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.85,
   "EosHistory": [
@@ -3120,6 +3120,11 @@
       "Time": "2023-07-04T07:04:56.7451222+00:00",
       "NumProgressed": 2875,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-07-04T11:06:05.5783659+00:00",
+      "NumProgressed": 2876,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 24,
@@ -3219,7 +3224,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "20",
@@ -3227,7 +3232,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "21",
@@ -3251,7 +3256,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "24",
@@ -3259,7 +3264,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "3",
@@ -3275,7 +3280,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "5",
@@ -3322,13 +3327,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2875,
+      "Progressed": 2876,
       "Completed": 82
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:04:47.9051839+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:06:05.5783653+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:58:55.9945385+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:04:47.905226+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:00:31.0747481+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:06:05.5784115+00:00"
 }

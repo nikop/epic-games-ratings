@@ -134,7 +134,7 @@
   "Tags": [],
   "EOS_Progressed": 4522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3001,9 +3001,9 @@
       "ID": "ACH_ROBBERY",
       "SetID": "5nj1ea3",
       "Name": "The Dark Side",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3075
     },
     {
       "ID": "ACH_ROGUE",
@@ -3090,8 +3090,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-02T23:01:58.4635378+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:06:15.3088073+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:08:13.1608284+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-04T10:00:10.4975995+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:06:15.3089262+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:02:18.7250942+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:08:13.1609561+00:00"
 }

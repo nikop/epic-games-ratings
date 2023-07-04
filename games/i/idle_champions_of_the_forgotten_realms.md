@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,881 |
-| The Mad Wizard | 11.00% | ~22,646 |
-| Are Ya Chicken? | 7.00% | ~14,411 |
-| The Ring of Regeneration | 6.00% | ~12,352 |
-| Were-verpowered | 5.00% | ~10,294 |
-| Mad Cow Disease | 5.00% | ~10,294 |
-| Friendly Imps | 5.00% | ~10,294 |
-| A Persistent Buzzing | 4.00% | ~8,235 |
-| Seeking Allies | 4.00% | ~8,235 |
-| Pure Energy | 4.00% | ~8,235 |
-| Terror in the Dark | 3.00% | ~6,176 |
-| Unearthed Evil | 3.00% | ~6,176 |
-| The Crumbling Temple | 3.00% | ~6,176 |
-| The Contagious Curse | 3.00% | ~6,176 |
-| Beast Mode | 2.00% | ~4,117 |
-| Low Initiative | 2.00% | ~4,117 |
-| A Mysterious Summons | 2.00% | ~4,117 |
-| Building Trust | 2.00% | ~4,117 |
-| Useless Allies | 2.00% | ~4,117 |
-| Exploring Port Nyanzaru | 2.00% | ~4,117 |
-| Running of the Saurs | 2.00% | ~4,117 |
-| Escort to Waterdeep | 2.00% | ~4,117 |
-| Waterdeep Detours | 2.00% | ~4,117 |
-| Underdeep Cartography | 2.00% | ~4,117 |
+| The Cursed Farmer | 15.00% | ~30,885 |
+| The Mad Wizard | 11.00% | ~22,649 |
+| Are Ya Chicken? | 7.00% | ~14,413 |
+| The Ring of Regeneration | 6.00% | ~12,354 |
+| Were-verpowered | 5.00% | ~10,295 |
+| Mad Cow Disease | 5.00% | ~10,295 |
+| Friendly Imps | 5.00% | ~10,295 |
+| A Persistent Buzzing | 4.00% | ~8,236 |
+| Seeking Allies | 4.00% | ~8,236 |
+| Pure Energy | 4.00% | ~8,236 |
+| Terror in the Dark | 3.00% | ~6,177 |
+| Unearthed Evil | 3.00% | ~6,177 |
+| The Crumbling Temple | 3.00% | ~6,177 |
+| The Contagious Curse | 3.00% | ~6,177 |
+| Beast Mode | 2.00% | ~4,118 |
+| Low Initiative | 2.00% | ~4,118 |
+| A Mysterious Summons | 2.00% | ~4,118 |
+| Building Trust | 2.00% | ~4,118 |
+| Useless Allies | 2.00% | ~4,118 |
+| Exploring Port Nyanzaru | 2.00% | ~4,118 |
+| Running of the Saurs | 2.00% | ~4,118 |
+| Escort to Waterdeep | 2.00% | ~4,118 |
+| Waterdeep Detours | 2.00% | ~4,118 |
+| Underdeep Cartography | 2.00% | ~4,118 |
 | March of the Undead | 1.00% | ~2,059 |
 | No Time To Rest | 1.00% | ~2,059 |
 | Invisible Shadows | 1.00% | ~2,059 |
@@ -82,41 +82,42 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.50% | ~1,029 |
 | The Everlasting Rime | 0.50% | ~861 |
 | Durable Deep | 0.50% | ~1,029 |
-| Lobsterfolk Assault | 0.40% | ~823 |
-| Home Field Advantage | 0.40% | ~823 |
-| Force Grey Unleashed | 0.40% | ~823 |
-| Vajra's Guards | 0.40% | ~823 |
-| Sleuth It Out | 0.40% | ~823 |
-| Azaka's Procession - Part 1 | 0.40% | ~823 |
-| Azaka's Procession - Part 2 | 0.40% | ~823 |
-| Chatty Nobles | 0.40% | ~823 |
-| Modron Assistance | 0.40% | ~823 |
-| Haaave You Met Asmodeus? | 0.40% | ~823 |
-| Domesticated Owlbears | 0.40% | ~823 |
-| The Gargoyle's Apprentice | 0.40% | ~823 |
-| Flies on the Wall | 0.40% | ~823 |
-| Backtracking Through Barovia | 0.40% | ~823 |
-| Excavating History | 0.40% | ~823 |
-| Cramped Quarters | 0.40% | ~823 |
-| Slow and Steady | 0.40% | ~823 |
-| Waterdeep Under Siege | 0.40% | ~823 |
-| Vault of Dragons | 0.40% | ~823 |
-| Champions of Waterdeep | 0.40% | ~823 |
-| Elturel Has Fallen | 0.40% | ~823 |
-| Resolve Amongst Chaos | 0.40% | ~823 |
-| Once More Into The Breach | 0.40% | ~823 |
+| Lobsterfolk Assault | 0.40% | ~824 |
+| Home Field Advantage | 0.40% | ~824 |
+| Force Grey Unleashed | 0.40% | ~824 |
+| Vajra's Guards | 0.40% | ~824 |
+| Sleuth It Out | 0.40% | ~824 |
+| Azaka's Procession - Part 1 | 0.40% | ~824 |
+| Azaka's Procession - Part 2 | 0.40% | ~824 |
+| Chatty Nobles | 0.40% | ~824 |
+| Modron Assistance | 0.40% | ~824 |
+| Haaave You Met Asmodeus? | 0.40% | ~824 |
+| Domesticated Owlbears | 0.40% | ~824 |
+| The Gargoyle's Apprentice | 0.40% | ~824 |
+| Flies on the Wall | 0.40% | ~824 |
+| Backtracking Through Barovia | 0.40% | ~824 |
+| Excavating History | 0.40% | ~824 |
+| Cramped Quarters | 0.40% | ~824 |
+| Slow and Steady | 0.40% | ~824 |
+| Waterdeep Under Siege | 0.40% | ~824 |
+| Vault of Dragons | 0.40% | ~824 |
+| Champions of Waterdeep | 0.40% | ~824 |
+| Elturel Has Fallen | 0.40% | ~824 |
+| Resolve Amongst Chaos | 0.40% | ~824 |
+| Once More Into The Breach | 0.40% | ~824 |
 | Moose Tracks | 0.40% | ~689 |
-| Expert Opinion | 0.40% | ~823 |
-| Poor Guidance | 0.40% | ~823 |
+| Expert Opinion | 0.40% | ~824 |
+| Poor Guidance | 0.40% | ~824 |
 | Anti-Dexterous Explorers | 0.30% | ~618 |
 | Not Very Charming | 0.30% | ~618 |
 | Periodic Petrification | 0.30% | ~618 |
 | Double Vision | 0.30% | ~618 |
-| The Newcomers of Notoriety | 0.30% | ~516 |
+| The Newcomers of Notoriety | 0.30% | ~517 |
 | The Hunt for Owl-y | 0.30% | ~618 |
 | Werewolves in the Mist | 0.30% | ~618 |
 | We're not in Faerûn Anymore | 0.30% | ~618 |
-| Thine Bounty is Mine! | 0.30% | ~516 |
+| Thine Bounty is Mine! | 0.30% | ~517 |
+| Hold for the Red Wizards | 0.30% | ~618 |
 | House of Darkness | 0.30% | ~618 |
 | The Trepidatious Trio | 0.30% | ~618 |
 | Our Time To Shine | 0.30% | ~618 |
@@ -131,22 +132,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patience is Key | 0.30% | ~618 |
 | Troublesome Prisoner | 0.30% | ~618 |
 | Wyllowwood | 0.30% | ~618 |
-| An Illithid Undertaking | 0.30% | ~516 |
-| Déjà Vu | 0.30% | ~516 |
-| Into The Fire | 0.30% | ~516 |
-| Dreamscape | 0.30% | ~516 |
-| The Path of Dreams | 0.30% | ~516 |
-| The Lost Hollyphant | 0.30% | ~516 |
-| Alterdeep | 0.30% | ~516 |
-| The Wandering Emporium | 0.30% | ~516 |
-| Tiamat's Army | 0.30% | ~516 |
-| Questlines | 0.30% | ~516 |
-| Bel's Forge | 0.30% | ~516 |
-| Civilization | 0.30% | ~516 |
-| The Sibriex | 0.30% | ~516 |
-| Dwarven Rumors | 0.30% | ~516 |
-| Sunblight | 0.30% | ~516 |
-| The Radiant Nightmare | 0.30% | ~516 |
+| An Illithid Undertaking | 0.30% | ~517 |
+| Déjà Vu | 0.30% | ~517 |
+| Into The Fire | 0.30% | ~517 |
+| Dreamscape | 0.30% | ~517 |
+| The Path of Dreams | 0.30% | ~517 |
+| The Lost Hollyphant | 0.30% | ~517 |
+| Alterdeep | 0.30% | ~517 |
+| The Wandering Emporium | 0.30% | ~517 |
+| Tiamat's Army | 0.30% | ~517 |
+| Questlines | 0.30% | ~517 |
+| Bel's Forge | 0.30% | ~517 |
+| Civilization | 0.30% | ~517 |
+| The Sibriex | 0.30% | ~517 |
+| Dwarven Rumors | 0.30% | ~517 |
+| Sunblight | 0.30% | ~517 |
+| The Radiant Nightmare | 0.30% | ~517 |
 | Overwhelming Force | 0.30% | ~618 |
 | Struggling Toward Omu | 0.20% | ~412 |
 | Wagon Train | 0.20% | ~412 |
@@ -159,7 +160,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Fortune | 0.20% | ~412 |
 | Relentless Misfortune | 0.20% | ~412 |
 | This Quest Stinks! | 0.20% | ~344 |
-| Hold for the Red Wizards | 0.20% | ~412 |
 | Form Ranks | 0.20% | ~412 |
 | They Who Smelt It | 0.20% | ~412 |
 | Only the Strong Survive | 0.20% | ~412 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,872 (Ranked 52)  
+Progressed: 205,898 (Ranked 52)  
 Completed: 2,026 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,7 +585,7 @@ Completed: 2,026 (0.98%) (Ranked 101)
 | 2023-07-01 | 203,665 | 2,023 |
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
-| 2023-07-04 | 205,872 | 2,026 |
+| 2023-07-04 | 205,898 | 2,026 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
 Sum: 30,377 (Ranked 37)  

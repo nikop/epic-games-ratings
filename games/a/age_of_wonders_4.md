@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 388)
 | Secret Technique | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
 | From Friends to Family | 2.00% | ~98 |
+| Stronger Together | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
 | Intimidation Tactics | 2.00% | ~98 |
@@ -21,7 +22,6 @@ Rating: 4.60 (Ranked 388)
 | Full Ascension | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
-| Stronger Together | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | Seat of Power | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |

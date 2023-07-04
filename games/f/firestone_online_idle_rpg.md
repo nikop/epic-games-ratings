@@ -29,6 +29,7 @@ Rating: 4.07 (Ranked 897)
 | The Unstoppable | 12.00% | ~187 |
 | Scientist | 11.00% | ~172 |
 | Challenger | 9.00% | ~140 |
+| Daily Quest Completionist | 9.00% | ~140 |
 | Doing My Part | 9.00% | ~140 |
 | Frostfire Liberator | 9.00% | ~140 |
 | Hunter | 9.00% | ~140 |
@@ -37,7 +38,6 @@ Rating: 4.07 (Ranked 897)
 | Relic Of The Past | 9.00% | ~140 |
 | Scroll Master | 9.00% | ~140 |
 | The power of Awakening | 9.00% | ~140 |
-| Daily Quest Completionist | 8.00% | ~125 |
 | Four Leaf Clover | 8.00% | ~125 |
 | Here We Go Again | 7.00% | ~109 |
 | Master Enchanter | 7.00% | ~109 |
@@ -56,9 +56,9 @@ Rating: 4.07 (Ranked 897)
 | Blueprint Upgrades | 4.00% | ~62 |
 | Lock And Load | 4.00% | ~62 |
 | Sailor | 4.00% | ~62 |
+| Active Member | 3.00% | ~47 |
 | Arena Challenger | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |
-| Active Member | 2.00% | ~31 |
 | Ebony Jungle Liberator | 2.00% | ~31 |
 | Legendary | 2.00% | ~31 |
 | What lies behind the bush | 2.00% | ~31 |

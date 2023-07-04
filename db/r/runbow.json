@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246012,
+  "EOS_Progressed": 246013,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7259,6 +7259,11 @@
       "Time": "2023-07-04T10:06:06.2163544+00:00",
       "NumProgressed": 246012,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-04T11:08:00.994003+00:00",
+      "NumProgressed": 246013,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7374,7 +7379,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49202
+      "UsersEstimate": 49203
     },
     {
       "ID": "didYourTime",
@@ -7446,7 +7451,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130386
+      "UsersEstimate": 130387
     },
     {
       "ID": "indegestible",
@@ -7500,9 +7505,9 @@
       "ID": "muddyWaters",
       "SetID": "d7im63i",
       "Name": "Muddy Waters",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 34442
+      "UsersEstimate": 36902
     },
     {
       "ID": "myFirstRunbow",
@@ -7637,7 +7642,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246012,
+      "Progressed": 246013,
       "Completed": 3
     }
   ],
@@ -7645,8 +7650,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-04T10:06:06.2163539+00:00",
+  "LastChanged_Achievements": "2023-07-04T11:08:00.9940024+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-04T09:59:06.6726394+00:00",
-  "LastUpdate_Achievements": "2023-07-04T10:06:06.2166021+00:00"
+  "LastUpdate_Ratings": "2023-07-04T11:00:46.462208+00:00",
+  "LastUpdate_Achievements": "2023-07-04T11:08:00.994112+00:00"
 }
