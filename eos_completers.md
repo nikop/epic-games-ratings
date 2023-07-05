@@ -23,13 +23,13 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.46% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.51% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 6.99% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -80,7 +80,7 @@
 | 78 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 79 | [Iron Danger](games/i/iron_danger.md) | 1.81% |
 | 80 | [Sifu](games/s/sifu.md) | 1.80% |
-| 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.77% |
+| 81 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.76% |
 | 82 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.64% |
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
@@ -133,8 +133,8 @@
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
-| 134 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
-| 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
+| 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
+| 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.40% |
 | 136 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 137 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.35% |
 | 137 | [Scrapnaut](games/s/scrapnaut.md) | 0.35% |
@@ -214,24 +214,24 @@
 | 212 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 212 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 212 | [Good Company](games/g/good_company.md) | 0.02% |
+| 212 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.02% |
 | 212 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
 | 212 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 212 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 212 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
 | 212 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
-| 220 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 220 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 220 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
-| 220 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 220 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 220 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.01% |
-| 220 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 220 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 220 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 220 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 220 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 220 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 220 | [Verdun](games/v/verdun.md) | 0.01% |
+| 221 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 221 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 221 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
+| 221 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 221 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 221 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 221 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 221 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 221 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 221 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 221 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 221 | [Verdun](games/v/verdun.md) | 0.01% |
 | 233 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.00% |
 | 233 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 233 | [12 orbits](games/1/12_orbits.md) | 0.00% |
@@ -486,4 +486,4 @@
 | 233 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 233 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 233 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,879 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,880 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
