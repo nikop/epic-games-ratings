@@ -13,11 +13,11 @@ Rating: 4.64 (Ranked 311)
 | History Check | 52.00% | ~266 |
 | A Method To His Madness | 52.00% | ~266 |
 | The New World | 48.00% | ~245 |
+| Lock, Stock, And Barrel | 47.00% | ~240 |
 | Gaze Into The Abyss | 47.00% | ~240 |
 | Open Sesame | 47.00% | ~240 |
 | Sticky Fingers | 47.00% | ~240 |
 | Knives Out | 47.00% | ~240 |
-| Lock, Stock, And Barrel | 46.00% | ~235 |
 | Land, Ho! | 46.00% | ~235 |
 | Back In The Saddle | 45.00% | ~230 |
 | No Man Is An Island | 45.00% | ~230 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 311)
 | Reawakened | 6.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 211)  
-Completed: 24 (4.70%) (Ranked 40)  
+Completed: 24 (4.70%) (Ranked 39)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

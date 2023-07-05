@@ -5,21 +5,21 @@ Rating: 4.18 (Ranked 852)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,986 |
+| First Step Into the Knight | 6.00% | ~3,987 |
 | To the Victor Go the Spoils | 4.00% | ~2,658 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,658 |
 | Loose Ends | 4.00% | ~2,658 |
-| The Batman Family | 3.00% | ~1,993 |
-| Something in the Clay | 3.00% | ~1,993 |
-| Quartzer Life Crisis | 3.00% | ~1,993 |
-| Snow Problem | 3.00% | ~1,993 |
-| Get ReQ'd | 3.00% | ~1,993 |
-| Working Hard or Harley Working? | 3.00% | ~1,993 |
-| Unstoppable Force | 3.00% | ~1,993 |
-| Knighthood | 3.00% | ~1,993 |
-| Whispered Words | 3.00% | ~1,993 |
-| Lock and Key | 3.00% | ~1,993 |
-| Bad Apples in Every Orchard | 3.00% | ~1,993 |
+| The Batman Family | 3.00% | ~1,994 |
+| Something in the Clay | 3.00% | ~1,994 |
+| Quartzer Life Crisis | 3.00% | ~1,994 |
+| Snow Problem | 3.00% | ~1,994 |
+| Get ReQ'd | 3.00% | ~1,994 |
+| Working Hard or Harley Working? | 3.00% | ~1,994 |
+| Unstoppable Force | 3.00% | ~1,994 |
+| Knighthood | 3.00% | ~1,994 |
+| Whispered Words | 3.00% | ~1,994 |
+| Lock and Key | 3.00% | ~1,994 |
+| Bad Apples in Every Orchard | 3.00% | ~1,994 |
 | End of an Era | 2.00% | ~1,329 |
 | In Your Element | 2.00% | ~1,329 |
 | Protector of Gotham | 2.00% | ~1,329 |
@@ -35,11 +35,11 @@ Rating: 4.18 (Ranked 852)
 | Seeking Asylum | 2.00% | ~1,329 |
 | Gotham Knight | 2.00% | ~1,329 |
 | Gotham City Confidential | 2.00% | ~1,329 |
-| Fusion Expert | 1.00% | ~664 |
-| Out of Their League | 1.00% | ~664 |
-| Family Meeting | 1.00% | ~664 |
-| Drone You Out | 1.00% | ~664 |
-| Solid Alibi | 1.00% | ~664 |
+| Fusion Expert | 1.00% | ~665 |
+| Out of Their League | 1.00% | ~665 |
+| Family Meeting | 1.00% | ~665 |
+| Drone You Out | 1.00% | ~665 |
+| Solid Alibi | 1.00% | ~665 |
 | A Worthy Successor | 0.90% | ~598 |
 | Expert Crime Fighter | 0.80% | ~532 |
 | Dressed to Impress | 0.70% | ~465 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 852)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,441 (Ranked 73)  
+Progressed: 66,456 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
+| 2023-07-05 | 66,456 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,416  (Ranked 100)  
 Sum: 4,000 (Ranked 137)  

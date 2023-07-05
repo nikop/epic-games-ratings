@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -683,9 +683,9 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Epic_Swamp_1",
@@ -746,8 +746,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-07-05T00:04:00.7188622+00:00",
+  "LastChanged_Achievements": "2023-07-05T02:26:52.1135282+00:00",
   "LastUpdate_AppInfo": "2023-06-29T04:57:06.9646615+00:00",
-  "LastUpdate_Ratings": "2023-07-04T23:57:04.5045033+00:00",
-  "LastUpdate_Achievements": "2023-07-05T00:04:00.718895+00:00"
+  "LastUpdate_Ratings": "2023-07-05T02:20:22.5778715+00:00",
+  "LastUpdate_Achievements": "2023-07-05T02:26:52.1135689+00:00"
 }

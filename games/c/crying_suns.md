@@ -12,15 +12,15 @@ Number of Ratings: 1,003  (23.09.2022)
 | Careful planning | 0.40% | ~1,849 |
 | In space, no one can hear you scream | 0.30% | ~1,387 |
 | Jeef Skagg | 0.30% | ~1,387 |
-| Knightmare Frames | 0.20% | ~924 |
-| May His passing cleanse the world | 0.20% | ~924 |
-| Chapter I: Echoes | 0.20% | ~924 |
-| Chapter II: Fallible Flesh | 0.20% | ~924 |
-| Mother | 0.20% | ~924 |
-| Pope Zenon | 0.20% | ~924 |
-| Things persisted in not being what they seemed | 0.20% | ~924 |
-| Plan for the worst | 0.20% | ~924 |
-| Excelsior Rule | 0.20% | ~924 |
+| Knightmare Frames | 0.20% | ~925 |
+| May His passing cleanse the world | 0.20% | ~925 |
+| Chapter I: Echoes | 0.20% | ~925 |
+| Chapter II: Fallible Flesh | 0.20% | ~925 |
+| Mother | 0.20% | ~925 |
+| Pope Zenon | 0.20% | ~925 |
+| Things persisted in not being what they seemed | 0.20% | ~925 |
+| Plan for the worst | 0.20% | ~925 |
+| Excelsior Rule | 0.20% | ~925 |
 | Hand of the Emperor | 0.20% | ~12 |
 | Chapter III: The Man Who Sold the World | 0.10% | ~462 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~462 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~6 |
 | Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,244 (Ranked 35)  
+Progressed: 462,253 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 16 (0.00%) (Ranked 232)
 | 2023-07-02 | 462,119 | 16 |
 | 2023-07-03 | 462,164 | 16 |
 | 2023-07-04 | 462,243 | 16 |
-| 2023-07-05 | 462,244 | 16 |
+| 2023-07-05 | 462,253 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 260)  
 Sum: 214 (Ranked 354)  

@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1844,
-  "EOS_Completed": 154,
-  "EOS_NewPlayers": 71,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.35,
+  "EOS_Progressed": 1846,
+  "EOS_Completed": 156,
+  "EOS_NewPlayers": 73,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 8.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -3468,6 +3468,11 @@
       "Time": "2023-07-05T00:01:17.0507868+00:00",
       "NumProgressed": 1844,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-07-05T02:23:38.5654307+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 12,
@@ -3487,7 +3492,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Building the Fox",
@@ -3495,7 +3500,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Green Ticket Roundup",
@@ -3511,7 +3516,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "Jakob",
@@ -3527,7 +3532,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Le Juif et la France",
@@ -3543,15 +3548,15 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "May Their Memories be a Blessing",
       "SetID": "b40dflc",
       "Name": "May Their Memories be a Blessing",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 148
+      "UsersEstimate": 166
     },
     {
       "ID": "Nazis in Paris",
@@ -3559,7 +3564,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "Nuremberg Laws",
@@ -3574,16 +3579,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1844,
-      "Completed": 154
+      "Progressed": 1846,
+      "Completed": 156
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-07-05T00:01:17.0507858+00:00",
+  "LastChanged_Achievements": "2023-07-05T02:23:38.5654299+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:39.8117525+00:00",
-  "LastUpdate_Ratings": "2023-07-04T23:59:59.8044074+00:00",
-  "LastUpdate_Achievements": "2023-07-05T00:01:17.0508393+00:00"
+  "LastUpdate_Ratings": "2023-07-05T02:22:43.0963454+00:00",
+  "LastUpdate_Achievements": "2023-07-05T02:23:38.5654614+00:00"
 }

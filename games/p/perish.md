@@ -25,12 +25,12 @@
 | Symbols of Heresy | 3.00% | ~94 |
 | First Fragment | 3.00% | ~94 |
 | Sisters of the Pantheon | 3.00% | ~94 |
+| Labour of Apollo | 3.00% | ~94 |
 | Siege Unit | 3.00% | ~94 |
 | Divine Assemblage | 3.00% | ~94 |
 | Ophiolatreia | 3.00% | ~94 |
 | Forged in Fire | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
-| Labour of Apollo | 2.00% | ~63 |
 | Vandili | 2.00% | ~63 |
 | Cloaca Maxima | 2.00% | ~63 |
 | Halls of Marble | 2.00% | ~63 |

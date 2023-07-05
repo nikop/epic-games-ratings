@@ -38,9 +38,9 @@ Rating: 4.61 (Ranked 362)
 | The Goddess of Nature | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | God Emperor | 0.70% | ~34 |
+| Crimson Caldera | 0.70% | ~34 |
+| The Eternal Court | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~30 |
-| Crimson Caldera | 0.60% | ~30 |
-| The Eternal Court | 0.60% | ~30 |
 | Jack of All Tomes | 0.50% | ~25 |
 | Pruning for Progress | 0.40% | ~20 |
 | Grexolis | 0.40% | ~20 |

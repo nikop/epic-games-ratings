@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -172,9 +172,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7138,
+  "EOS_Progressed": 7139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5267,6 +5267,11 @@
       "Time": "2023-07-04T22:07:46.225964+00:00",
       "NumProgressed": 7138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T02:29:11.0327113+00:00",
+      "NumProgressed": 7139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -5278,7 +5283,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "0002",
@@ -5286,7 +5291,7 @@
       "Name": "License to Thrill",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "0003",
@@ -5382,7 +5387,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "0015",
@@ -5406,7 +5411,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "0018",
@@ -5462,7 +5467,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "0025",
@@ -5502,7 +5507,7 @@
       "Name": "A view to Win",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "0030",
@@ -5542,7 +5547,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "0035",
@@ -5565,7 +5570,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 7138,
+      "Progressed": 7139,
       "Completed": 0
     }
   ],
@@ -5573,8 +5578,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-05T00:06:49.4063341+00:00",
+  "LastChanged_Achievements": "2023-07-05T02:29:11.0327109+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:51.1550133+00:00",
-  "LastUpdate_Ratings": "2023-07-05T00:00:11.9467844+00:00",
-  "LastUpdate_Achievements": "2023-07-05T00:06:49.4063751+00:00"
+  "LastUpdate_Ratings": "2023-07-05T02:22:50.0034824+00:00",
+  "LastUpdate_Achievements": "2023-07-05T02:29:11.0327671+00:00"
 }

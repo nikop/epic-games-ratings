@@ -11,6 +11,7 @@ Rating: 4.44 (Ranked 638)
 | Sharpshooter | 1.00% | ~32 |
 | Confirming Suspicions | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
+| The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
 | Taking it back | 1.00% | ~32 |
@@ -19,7 +20,6 @@ Rating: 4.44 (Ranked 638)
 | Gunslinger | 0.90% | ~29 |
 | Lord of War | 0.90% | ~29 |
 | As Quiet as a Mouse | 0.90% | ~29 |
-| The Kraken Wakes | 0.90% | ~29 |
 | No Stone Unturned | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
 | Organ Grinder | 0.70% | ~22 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 638)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,206 (Ranked 145)  
+Progressed: 3,207 (Ranked 145)  
 Completed: 7 (0.22%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 7 (0.22%) (Ranked 156)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
+| 2023-07-05 | 3,207 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -27,8 +27,8 @@ Rating: 4.19 (Ranked 844)
 | Giving Back | 0.80% | ~125 |
 | Terminated | 0.80% | ~125 |
 | The Outer Way | 0.80% | ~125 |
+| Desperate Times | 0.80% | ~125 |
 | The Commonality | 0.70% | ~109 |
-| Desperate Times | 0.70% | ~109 |
 | One Last Job | 0.60% | ~21 |
 | In Striking Distance | 0.50% | ~78 |
 | This Isn't About Escape | 0.40% | ~14 |
@@ -129,9 +129,9 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
 ## Awards
-Max (Amazing Storytelling): 64  (Ranked 378)  
+Max (Amazing Storytelling): 64  (Ranked 379)  
 Sum: 364 (Ranked 319)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 64 |

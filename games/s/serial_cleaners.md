@@ -22,8 +22,8 @@
 | Blood Capade | 1.00% | ~2 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
+| Bee Squat | 1.00% | ~2 |
 | Crazy SOB, You Did It | 0.50% | ~0 |
-| Bee Squat | 0.50% | ~1 |
 | The Germophobes | 0.50% | ~1 |
 | Do-you-think-he-saurus | 0.00% | ~0 |
 | Cha Cha Real Smooth | 0.00% | ~0 |

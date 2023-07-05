@@ -1,23 +1,23 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 424)  
+Rating: 4.58 (Ranked 423)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~11,812 |
-| Sweet Sorrow | 18.00% | ~5,906 |
-| Rules the Waves | 17.00% | ~5,578 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,922 |
-| Rival | 14.00% | ~4,594 |
-| Correspondent | 12.00% | ~3,937 |
-| Lose Your Mind | 12.00% | ~3,937 |
-| Sound Mind? | 12.00% | ~3,937 |
-| Salt's Curse | 11.00% | ~3,609 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,609 |
-| The Fall of the House | 11.00% | ~3,609 |
-| Shipmate | 11.00% | ~3,609 |
+| Sink Beneath the Waves | 36.00% | ~11,814 |
+| Sweet Sorrow | 18.00% | ~5,907 |
+| Rules the Waves | 17.00% | ~5,579 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,923 |
+| Rival | 14.00% | ~4,595 |
+| Correspondent | 12.00% | ~3,938 |
+| Lose Your Mind | 12.00% | ~3,938 |
+| Sound Mind? | 12.00% | ~3,938 |
+| Salt's Curse | 11.00% | ~3,610 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,610 |
+| The Fall of the House | 11.00% | ~3,610 |
+| Shipmate | 11.00% | ~3,610 |
 | One Year at Zee | 8.00% | ~2,625 |
 | Pupil | 7.00% | ~2,297 |
 | Salvager | 7.00% | ~2,297 |
@@ -25,10 +25,10 @@ Number of Ratings: 401  (23.09.2022)
 | The Ascent of Man | 7.00% | ~2,297 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,641 |
 | Zee Fever | 5.00% | ~1,641 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,312 |
-| Storm's Curse | 3.00% | ~984 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~984 |
-| Come Closer | 3.00% | ~984 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,313 |
+| Storm's Curse | 3.00% | ~985 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~985 |
+| Come Closer | 3.00% | ~985 |
 | Roaring Rise | 2.00% | ~656 |
 | I am the Captain of my Soul | 2.00% | ~656 |
 | A buoyant escape | 1.00% | ~328 |
@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | Leviathan | 0.90% | ~295 |
 | No regrets | 0.90% | ~295 |
 | Depth charge | 0.90% | ~295 |
-| What lies beneath | 0.80% | ~262 |
+| What lies beneath | 0.80% | ~263 |
 | Stone's Curse | 0.70% | ~230 |
 | Five Years at Zee | 0.50% | ~164 |
 | The Lady's Parlour | 0.20% | ~66 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~33 |
 | Ten Years at Zee | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,812 (Ranked 92)  
+Progressed: 32,818 (Ranked 92)  
 Completed: 3 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 3 (0.01%) (Ranked 220)
 | 2023-07-02 | 32,670 | 3 |
 | 2023-07-03 | 32,754 | 3 |
 | 2023-07-04 | 32,812 | 3 |
+| 2023-07-05 | 32,818 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 263)  
 Sum: 279 (Ranked 336)  

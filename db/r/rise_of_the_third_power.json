@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "Patience",
@@ -261,9 +261,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Sparkly",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-05T00:06:39.9554182+00:00",
+  "LastChanged_Achievements": "2023-07-05T02:29:03.1861464+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:51.5428684+00:00",
-  "LastUpdate_Ratings": "2023-07-04T23:59:23.0846014+00:00",
-  "LastUpdate_Achievements": "2023-07-05T00:06:39.955431+00:00"
+  "LastUpdate_Ratings": "2023-07-05T02:22:13.8619878+00:00",
+  "LastUpdate_Achievements": "2023-07-05T02:29:03.1861603+00:00"
 }
