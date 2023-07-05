@@ -47,8 +47,8 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
-| 48 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.42% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.46% |
+| 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 51 | [JARS](games/j/jars.md) | 3.33% |
@@ -64,8 +64,8 @@
 | 62 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
-| 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.63% |
+| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.64% |
+| 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
