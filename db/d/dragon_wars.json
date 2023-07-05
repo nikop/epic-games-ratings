@@ -2,10 +2,10 @@
   "ID": "8325104b63e84deba82e0e348ead5e60",
   "Name": "Dragon Wars",
   "ProductSlug": "dragon-wars-92b684",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-22T16:00:00+00:00",
     "PcReleaseDate": "2022-07-22T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.1326057+00:00",
   "LastChanged": "2023-03-31T05:57:54.1326058+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.7221477+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:00:19.4153834+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:06:08.7726437+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:59:15.030449+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:04:32.0507344+00:00"
 }

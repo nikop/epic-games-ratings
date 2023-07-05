@@ -2,10 +2,10 @@
   "ID": "00968dd40b6e49548220ce6f215cbb44",
   "Name": "Absolute Tactics",
   "ProductSlug": "absolute-tactics-ca91e4",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-15T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -27,20 +27,196 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-07-05T17:06:24.6383612+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-07-05T17:06:24.6383645+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0001",
+      "SetID": "9jb1eoe",
+      "Name": "A New Adventure",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0002",
+      "SetID": "9jb1eoe",
+      "Name": "The Killing Moon",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0003",
+      "SetID": "9jb1eoe",
+      "Name": "Eye for an Eye",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0004",
+      "SetID": "9jb1eoe",
+      "Name": "Bloody Vengeance",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0005",
+      "SetID": "9jb1eoe",
+      "Name": "Glorious Loot",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0006",
+      "SetID": "9jb1eoe",
+      "Name": "Beating the Bushes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0007",
+      "SetID": "9jb1eoe",
+      "Name": "Big Money",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0008",
+      "SetID": "9jb1eoe",
+      "Name": "Good Fortune",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0009",
+      "SetID": "9jb1eoe",
+      "Name": "The Blood of Mercy",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0010",
+      "SetID": "9jb1eoe",
+      "Name": "The Heart of Mercy",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0011",
+      "SetID": "9jb1eoe",
+      "Name": "The Soul of Mercy",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0012",
+      "SetID": "9jb1eoe",
+      "Name": "Victorious",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0013",
+      "SetID": "9jb1eoe",
+      "Name": "It\u0027s a Party",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0014",
+      "SetID": "9jb1eoe",
+      "Name": "Heroes of Neu Selea",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0015",
+      "SetID": "9jb1eoe",
+      "Name": "Eternal Darkness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0016",
+      "SetID": "9jb1eoe",
+      "Name": "Real Ultimate Power",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0017",
+      "SetID": "9jb1eoe",
+      "Name": "Protector of the People",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0018",
+      "SetID": "9jb1eoe",
+      "Name": "Secret Admirer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0019",
+      "SetID": "9jb1eoe",
+      "Name": "Classy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0020",
+      "SetID": "9jb1eoe",
+      "Name": "The Hordes of Mercy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AT_ACHIEVEMENT_NAME_0021",
+      "SetID": "9jb1eoe",
+      "Name": "Thinning the Horde",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9jb1eoe",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
@@ -48,8 +224,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3491897+00:00",
   "FirstSeenAchievements": "2023-06-19T22:05:39.5621964+00:00",
   "LastChanged": "2023-03-31T05:57:50.3491898+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:08:04.4035862+00:00",
+  "LastChanged_Achievements": "2023-07-05T17:06:24.6383604+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:26.7044955+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:02:35.0539292+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:08:04.4035907+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:00:56.5159762+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:06:24.638377+00:00"
 }

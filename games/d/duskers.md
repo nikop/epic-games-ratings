@@ -1,7 +1,7 @@
 # Duskers
 [Store](https://store.epicgames.com/en-US/p/duskers-672fdc)  
 [View Rawdata](../../db/d/duskers.json)  
-Rating: 4.49 (Ranked 571)  
+Rating: 4.50 (Ranked 552)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -37,3 +37,4 @@ Rating: 4.49 (Ranked 571)
 | 2023-05-18 | 4.47 | 0 | 0 |
 | 2023-06-01 | 4.48 | 0 | 0 |
 | 2023-06-10 | 4.49 | 0 | 0 |
+| 2023-07-05 | 4.50 | 0 | 0 |

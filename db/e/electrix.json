@@ -2,10 +2,10 @@
   "ID": "ad457679ab5f41e9940c49f6f3999eb9",
   "Name": "ElectriX",
   "ProductSlug": "electrix-e656d6",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:27:06.0799375+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:59:54.7981408+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:03:27.190488+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:58:54.2060063+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:01:39.3379709+00:00"
 }

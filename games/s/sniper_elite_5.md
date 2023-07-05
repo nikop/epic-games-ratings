@@ -8,6 +8,7 @@ Rating: 4.44 (Ranked 639)
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | Meeting Resistance | 1.00% | ~32 |
+| Gunslinger | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
 | Confirming Suspicions | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
@@ -20,7 +21,6 @@ Rating: 4.44 (Ranked 639)
 | Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |
-| Gunslinger | 0.90% | ~29 |
 | Organ Grinder | 0.80% | ~26 |
 | Der Geist | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
@@ -28,13 +28,13 @@ Rating: 4.44 (Ranked 639)
 | Explosive Efficiency | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Skirmisher | 0.60% | ~19 |
+| Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
-| Precision Is Key | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
 | The Long Game | 0.40% | ~13 |
 | Rigged to Blow | 0.40% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 639)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,210 (Ranked 145)  
+Progressed: 3,211 (Ranked 145)  
 Completed: 8 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 8 (0.25%) (Ranked 150)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
-| 2023-07-05 | 3,210 | 8 |
+| 2023-07-05 | 3,211 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

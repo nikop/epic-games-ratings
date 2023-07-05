@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246068,
+  "EOS_Progressed": 246070,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7379,6 +7379,11 @@
       "Time": "2023-07-05T16:08:37.6303559+00:00",
       "NumProgressed": 246068,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-05T17:07:08.0093976+00:00",
+      "NumProgressed": 246070,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7414,7 +7419,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51674
+      "UsersEstimate": 51675
     },
     {
       "ID": "blotbuster",
@@ -7486,7 +7491,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44292
+      "UsersEstimate": 44293
     },
     {
       "ID": "curator",
@@ -7566,7 +7571,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130416
+      "UsersEstimate": 130417
     },
     {
       "ID": "indegestible",
@@ -7606,7 +7611,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19685
+      "UsersEstimate": 19686
     },
     {
       "ID": "lockupLockdown",
@@ -7630,7 +7635,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 123034
+      "UsersEstimate": 123035
     },
     {
       "ID": "notScared",
@@ -7694,7 +7699,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51674
+      "UsersEstimate": 51675
     },
     {
       "ID": "thunderstruck",
@@ -7757,7 +7762,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246068,
+      "Progressed": 246070,
       "Completed": 3
     }
   ],
@@ -7765,8 +7770,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:08:37.6303551+00:00",
+  "LastChanged_Achievements": "2023-07-05T17:07:08.009397+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:01:04.7133902+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:08:37.630501+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:59:50.250629+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:07:08.0094832+00:00"
 }

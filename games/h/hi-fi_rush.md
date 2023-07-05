@@ -5,8 +5,13 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Cream of the Crop | 0.10% | ~3 |
+| The Negotiator | 0.10% | ~3 |
 | Time to pay up! | 0.10% | ~3 |
+| Who's the boss now? | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
+| I think I deserve some praise, here! | 0.10% | ~3 |
+| Thanks for the free chip, Peppermint! | 0.10% | ~3 |
 | I play my own way! | 0.10% | ~3 |
 | Whoa! There's ANOTHER health bar!? | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
@@ -15,24 +20,20 @@ Rating: 4.89 (Ranked 12)
 | Z-shielding's got nothing on us! | 0.10% | ~3 |
 | Out in a puff of smoke | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
+| I look cool. But I can look COOLER. | 0.10% | ~3 |
 | Who put gears in there? | 0.10% | ~3 |
 | Alright, that felt AWESOME! | 0.10% | ~3 |
 | NOW we got a kickass hideout! | 0.10% | ~2 |
 | Call me Turbo Chai | 0.10% | ~2 |
 | New bad guys? No problem! | 0.10% | ~2 |
 | Start with a bang! | 0.00% | ~0 |
-| Cream of the Crop | 0.00% | ~0 |
 | This will cost you big time | 0.00% | ~0 |
-| The Negotiator | 0.00% | ~0 |
 | Headliner | 0.00% | ~0 |
-| Who's the boss now? | 0.00% | ~0 |
 | Easy Listening | 0.00% | ~0 |
-| I think I deserve some praise, here! | 0.00% | ~0 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | Problem solved... wait, what? | 0.00% | ~0 |
 | I can't see this ever being a problem again | 0.00% | ~0 |
-| Thanks for the free chip, Peppermint! | 0.00% | ~0 |
 | Chip-tuned | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |
@@ -51,7 +52,6 @@ Rating: 4.89 (Ranked 12)
 | First we parry, then we counter | 0.00% | ~0 |
 | Now this is how you fight like a team! | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
-| I look cool. But I can look COOLER. | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | This was... not what I expected. | 0.00% | ~0 |
 | There's such a thing as TOO helpful | 0.00% | ~0 |

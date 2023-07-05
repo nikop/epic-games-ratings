@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2445,9 +2445,9 @@
       "ID": "MissionVictory_WoundedKnights",
       "SetID": "3jha1np",
       "Name": "Just a Scratch",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 265
     },
     {
       "ID": "NexusCompleted",
@@ -2571,8 +2571,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:08:49.4876351+00:00",
+  "LastChanged_Achievements": "2023-07-05T17:07:17.2202731+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:00:16.8342555+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:08:49.4877435+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:59:10.896238+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:07:17.2203388+00:00"
 }

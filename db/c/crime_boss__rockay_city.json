@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 924,
-  "Ranking_Popularity": 219,
+  "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -2394,9 +2394,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68375,
+  "EOS_Progressed": 68377,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10374,6 +10374,11 @@
       "Time": "2023-07-05T16:05:21.0651572+00:00",
       "NumProgressed": 68375,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-05T17:03:39.1220924+00:00",
+      "NumProgressed": 68377,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10529,7 +10534,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44444
+      "UsersEstimate": 44445
     },
     {
       "ID": "ACH_0210",
@@ -10537,7 +10542,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50598
+      "UsersEstimate": 50599
     },
     {
       "ID": "ACH_0211",
@@ -10553,7 +10558,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32136
+      "UsersEstimate": 32137
     },
     {
       "ID": "ACH_0300",
@@ -10617,7 +10622,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23931
+      "UsersEstimate": 23932
     },
     {
       "ID": "ACH_0431",
@@ -10633,7 +10638,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12991
+      "UsersEstimate": 12992
     },
     {
       "ID": "ACH_0450",
@@ -10641,7 +10646,7 @@
       "Name": "Off the Rocks",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12991
+      "UsersEstimate": 12992
     },
     {
       "ID": "ACH_0451",
@@ -10680,7 +10685,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68375,
+      "Progressed": 68377,
       "Completed": 35
     }
   ],
@@ -10688,8 +10693,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-05T12:01:47.578343+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:05:21.0651566+00:00",
+  "LastChanged_Achievements": "2023-07-05T17:03:39.1220884+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:02:24.5782386+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:05:21.0652953+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:00:48.6450888+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:03:39.1221709+00:00"
 }

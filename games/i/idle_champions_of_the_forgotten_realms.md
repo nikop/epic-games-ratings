@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,004 |
-| The Mad Wizard | 11.00% | ~22,736 |
-| Are Ya Chicken? | 7.00% | ~14,469 |
-| The Ring of Regeneration | 6.00% | ~12,402 |
-| Were-verpowered | 5.00% | ~10,335 |
-| Mad Cow Disease | 5.00% | ~10,335 |
-| Friendly Imps | 5.00% | ~10,335 |
-| A Persistent Buzzing | 4.00% | ~8,268 |
-| Seeking Allies | 4.00% | ~8,268 |
-| Pure Energy | 4.00% | ~8,268 |
-| Terror in the Dark | 3.00% | ~6,201 |
-| Unearthed Evil | 3.00% | ~6,201 |
-| The Crumbling Temple | 3.00% | ~6,201 |
-| Exploring Port Nyanzaru | 3.00% | ~6,201 |
-| The Contagious Curse | 3.00% | ~6,201 |
+| The Cursed Farmer | 15.00% | ~31,008 |
+| The Mad Wizard | 11.00% | ~22,739 |
+| Are Ya Chicken? | 7.00% | ~14,471 |
+| The Ring of Regeneration | 6.00% | ~12,403 |
+| Were-verpowered | 5.00% | ~10,336 |
+| Mad Cow Disease | 5.00% | ~10,336 |
+| Friendly Imps | 5.00% | ~10,336 |
+| A Persistent Buzzing | 4.00% | ~8,269 |
+| Seeking Allies | 4.00% | ~8,269 |
+| Pure Energy | 4.00% | ~8,269 |
+| Terror in the Dark | 3.00% | ~6,202 |
+| Unearthed Evil | 3.00% | ~6,202 |
+| The Crumbling Temple | 3.00% | ~6,202 |
+| Exploring Port Nyanzaru | 3.00% | ~6,202 |
+| The Contagious Curse | 3.00% | ~6,202 |
 | Beast Mode | 2.00% | ~4,134 |
 | Low Initiative | 2.00% | ~4,134 |
 | A Mysterious Summons | 2.00% | ~4,134 |
@@ -49,17 +49,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.90% | ~1,860 |
 | Dinosaur Racing | 0.90% | ~1,860 |
 | The Lost Heir of Omu | 0.80% | ~1,654 |
+| The Forbidden City | 0.80% | ~1,654 |
 | Attack on the Manor | 0.80% | ~1,654 |
+| The Dead Three | 0.80% | ~1,654 |
 | The Long Haul | 0.80% | ~1,654 |
 | Lost in the Deep | 0.80% | ~1,654 |
 | Easily Distracted | 0.80% | ~1,654 |
-| The Forbidden City | 0.70% | ~1,447 |
 | Captured! | 0.70% | ~1,447 |
 | Wisdom Check | 0.70% | ~1,447 |
 | A Grand Puzzle | 0.70% | ~1,447 |
 | The Mists of Ravenloft | 0.70% | ~1,447 |
 | Nimble Escape | 0.70% | ~1,447 |
-| The Dead Three | 0.70% | ~1,447 |
 | The Haunted Jungle | 0.70% | ~1,447 |
 | Tomb of the Nine Gods | 0.60% | ~1,240 |
 | Family Entanglements | 0.60% | ~1,240 |
@@ -73,20 +73,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,038 |
 | Rude Welcome | 0.60% | ~1,240 |
 | Durable Deep | 0.60% | ~1,240 |
-| Sleuth It Out | 0.50% | ~1,033 |
-| Chatty Nobles | 0.50% | ~1,033 |
-| The Wyrmheart Mine | 0.50% | ~1,033 |
-| Tower on the Lake | 0.50% | ~1,033 |
-| Seeds of Deceit | 0.50% | ~1,033 |
-| The Guardian of Orolunga | 0.50% | ~1,033 |
-| The Lost Love | 0.50% | ~1,033 |
-| Enter the Sargauth | 0.50% | ~1,033 |
-| Lair of the Xanathar | 0.50% | ~1,033 |
-| Waterdeep Under Siege | 0.50% | ~1,033 |
-| Difficult Terrain | 0.50% | ~1,033 |
-| Elturel Has Fallen | 0.50% | ~1,033 |
+| Sleuth It Out | 0.50% | ~1,034 |
+| Chatty Nobles | 0.50% | ~1,034 |
+| The Wyrmheart Mine | 0.50% | ~1,034 |
+| Tower on the Lake | 0.50% | ~1,034 |
+| Seeds of Deceit | 0.50% | ~1,034 |
+| The Guardian of Orolunga | 0.50% | ~1,034 |
+| The Lost Love | 0.50% | ~1,034 |
+| Enter the Sargauth | 0.50% | ~1,034 |
+| Lair of the Xanathar | 0.50% | ~1,034 |
+| Waterdeep Under Siege | 0.50% | ~1,034 |
+| Difficult Terrain | 0.50% | ~1,034 |
+| Elturel Has Fallen | 0.50% | ~1,034 |
 | The Everlasting Rime | 0.50% | ~865 |
-| Expert Opinion | 0.50% | ~1,033 |
+| Expert Opinion | 0.50% | ~1,034 |
 | Lobsterfolk Assault | 0.40% | ~827 |
 | Home Field Advantage | 0.40% | ~827 |
 | Force Grey Unleashed | 0.40% | ~827 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,693 (Ranked 52)  
+Progressed: 206,722 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,10 +586,10 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,693 | 2,032 |
+| 2023-07-05 | 206,722 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
-Sum: 30,393 (Ranked 37)  
+Sum: 30,396 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -598,7 +598,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,644 |
 | This game is Relaxing | 4,541 |
 | This game has Amazing Characters | 3,996 |
-| This game is Highly Recommended | 3,984 |
+| This game is Highly Recommended | 3,987 |
 | This game has Playful Visuals | 3,287 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -763,4 +763,4 @@ Diff (max vs sum): 28
 | 2023-07-02 | 4.05 | - | 4,995 | 30,358 |
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
-| 2023-07-05 | 4.05 | - | 5,005 | 30,393 |
+| 2023-07-05 | 4.05 | - | 5,005 | 30,396 |

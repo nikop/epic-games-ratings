@@ -2,10 +2,10 @@
   "ID": "1109b87f323946e5b7883d724e6a22ba",
   "Name": "Superbrothers: Sword \u0026 Sworcery EP",
   "ProductSlug": "superbrothers-sword-and-sworcery-ep",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.7625058+00:00",
   "LastChanged": "2023-03-31T05:58:24.7625059+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.8601685+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:59:11.6312822+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:04:33.2867063+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:58:22.1196243+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:03:05.459071+00:00"
 }

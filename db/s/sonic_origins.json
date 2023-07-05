@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1037,9 +1037,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -1117,9 +1117,9 @@
       "ID": "ID_26_MOVIE_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Movie Maniac",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ID_27_SOUND_MANIA",
@@ -1205,8 +1205,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:08:28.3061397+00:00",
+  "LastChanged_Achievements": "2023-07-05T17:06:41.0340939+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:58:59.1077975+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:08:28.3061711+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:58:11.987931+00:00",
+  "LastUpdate_Achievements": "2023-07-05T17:06:41.034124+00:00"
 }

@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 12.00% | ~353 |
 | A Foul Creche | 12.00% | ~353 |
 | Gunmaster | 11.00% | ~324 |
+| Just a Scratch | 9.00% | ~265 |
 | Opportunist | 8.00% | ~235 |
 | Efficient Killer | 8.00% | ~235 |
-| Just a Scratch | 8.00% | ~235 |
 | Hold Your Ground | 6.00% | ~176 |
 | A Gift Spurned | 5.00% | ~147 |
 | Daemonkeeper | 4.00% | ~118 |

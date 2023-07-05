@@ -27,10 +27,10 @@
 | An Ally in Need | 5.00% | ~152 |
 | For the Queen | 5.00% | ~152 |
 | Not a Drop Wasted | 5.00% | ~152 |
+| We Have the Technology | 5.00% | ~152 |
 | Work It | 4.00% | ~122 |
 | Reinforcements | 4.00% | ~122 |
 | Sweet Revenge | 4.00% | ~122 |
-| We Have the Technology | 4.00% | ~122 |
 | Figure of Breach | 4.00% | ~122 |
 | Almost Like Winning | 3.00% | ~91 |
 | The Handyman Can! | 3.00% | ~91 |

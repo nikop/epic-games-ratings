@@ -22,7 +22,7 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 59.00% | ~145 |
 | Cleared Sonic the Hedgehog | 57.00% | ~140 |
 | Very First Mission Clear! | 54.00% | ~133 |
-| Museum Time | 52.00% | ~128 |
+| Museum Time | 53.00% | ~130 |
 | Shut Down Metal Sonic | 51.00% | ~125 |
 | Beware Stingers! | 51.00% | ~125 |
 | Super Sonic | 51.00% | ~125 |
@@ -34,7 +34,7 @@ Number of Ratings: 154  (23.09.2022)
 | All Clear! | 37.00% | ~91 |
 | To the Mirror World | 35.00% | ~86 |
 | Sound Savant | 28.00% | ~69 |
-| Movie Maniac | 26.00% | ~64 |
+| Movie Maniac | 27.00% | ~66 |
 | Sonic the Hedgehog Mission Master | 23.00% | ~57 |
 | Art Appreciator | 22.00% | ~54 |
 | Beware Rhinobots! | 21.00% | ~52 |
