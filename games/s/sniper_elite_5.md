@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.44 (Ranked 637)  
+Rating: 4.44 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,6 +41,7 @@ Rating: 4.44 (Ranked 637)
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | The Long Game | 0.30% | ~10 |
+| Burn after reading | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
 | Herr Today, Gone Tomorrow | 0.30% | ~9 |
@@ -49,7 +50,6 @@ Rating: 4.44 (Ranked 637)
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
 | From Paris with Love | 0.20% | ~6 |
-| Burn after reading | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
 | It'll Buff Right Out | 0.20% | ~6 |

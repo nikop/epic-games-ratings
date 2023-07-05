@@ -1,17 +1,17 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.44 (Ranked 637)  
+Rating: 4.44 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~78,251 |
-| Predator I | 22.00% | ~55,533 |
-| Fixer I | 10.00% | ~25,242 |
-| A week in Century City | 10.00% | ~25,242 |
+| Survivor | 31.00% | ~78,253 |
+| Predator I | 22.00% | ~55,534 |
+| Fixer I | 10.00% | ~25,243 |
+| A week in Century City | 10.00% | ~25,243 |
 | The Wait | 7.00% | ~17,670 |
-| Green thumb I | 6.00% | ~15,145 |
-| Cleaning Company | 6.00% | ~15,145 |
+| Green thumb I | 6.00% | ~15,146 |
+| Cleaning Company | 6.00% | ~15,146 |
 | Well-oiled machine | 5.00% | ~12,621 |
 | Saver I | 5.00% | ~12,621 |
 | The Ascent | 4.00% | ~10,097 |
@@ -19,14 +19,14 @@ Rating: 4.44 (Ranked 637)
 | Vandalism | 4.00% | ~10,097 |
 | Capitalist I | 4.00% | ~10,097 |
 | Adrenaline | 3.00% | ~7,573 |
-| By a hair | 2.00% | ~5,048 |
-| Fixer II | 2.00% | ~5,048 |
-| It took a while | 2.00% | ~5,048 |
-| Samurai | 2.00% | ~5,048 |
-| I Left You a Present | 2.00% | ~5,048 |
-| Predator II | 2.00% | ~5,048 |
-| Truffle Dog | 2.00% | ~5,048 |
-| A month in Century City | 2.00% | ~5,048 |
+| By a hair | 2.00% | ~5,049 |
+| Fixer II | 2.00% | ~5,049 |
+| It took a while | 2.00% | ~5,049 |
+| Samurai | 2.00% | ~5,049 |
+| I Left You a Present | 2.00% | ~5,049 |
+| Predator II | 2.00% | ~5,049 |
+| Truffle Dog | 2.00% | ~5,049 |
+| A month in Century City | 2.00% | ~5,049 |
 | The Strengthening | 1.00% | ~2,524 |
 | Saver II | 1.00% | ~2,524 |
 | It's the last one, I swear | 1.00% | ~2,524 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 637)
 | Capitalist III | 0.10% | ~252 |
 | Hell Is You | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,424 (Ranked 42)  
+Progressed: 252,428 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-07-02 | 252,299 | 2 |
 | 2023-07-03 | 252,366 | 2 |
 | 2023-07-04 | 252,424 | 2 |
+| 2023-07-05 | 252,428 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 452)  
 Sum: 174 (Ranked 375)  

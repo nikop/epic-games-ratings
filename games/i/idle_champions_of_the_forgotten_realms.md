@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,942 |
-| The Mad Wizard | 11.00% | ~22,691 |
-| Are Ya Chicken? | 7.00% | ~14,440 |
-| The Ring of Regeneration | 6.00% | ~12,377 |
-| Were-verpowered | 5.00% | ~10,314 |
-| Mad Cow Disease | 5.00% | ~10,314 |
-| Friendly Imps | 5.00% | ~10,314 |
-| A Persistent Buzzing | 4.00% | ~8,251 |
-| Seeking Allies | 4.00% | ~8,251 |
-| Pure Energy | 4.00% | ~8,251 |
-| Terror in the Dark | 3.00% | ~6,188 |
-| Unearthed Evil | 3.00% | ~6,188 |
-| The Crumbling Temple | 3.00% | ~6,188 |
-| The Contagious Curse | 3.00% | ~6,188 |
+| The Cursed Farmer | 15.00% | ~30,946 |
+| The Mad Wizard | 11.00% | ~22,694 |
+| Are Ya Chicken? | 7.00% | ~14,441 |
+| The Ring of Regeneration | 6.00% | ~12,378 |
+| Were-verpowered | 5.00% | ~10,315 |
+| Mad Cow Disease | 5.00% | ~10,315 |
+| Friendly Imps | 5.00% | ~10,315 |
+| A Persistent Buzzing | 4.00% | ~8,252 |
+| Seeking Allies | 4.00% | ~8,252 |
+| Pure Energy | 4.00% | ~8,252 |
+| Terror in the Dark | 3.00% | ~6,189 |
+| Unearthed Evil | 3.00% | ~6,189 |
+| The Crumbling Temple | 3.00% | ~6,189 |
+| The Contagious Curse | 3.00% | ~6,189 |
 | Beast Mode | 2.00% | ~4,126 |
 | Low Initiative | 2.00% | ~4,126 |
 | A Mysterious Summons | 2.00% | ~4,126 |
@@ -73,17 +73,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.60% | ~1,238 |
 | Durable Deep | 0.60% | ~1,238 |
 | The Haunted Jungle | 0.60% | ~1,238 |
-| Sleuth It Out | 0.50% | ~1,031 |
-| The Wyrmheart Mine | 0.50% | ~1,031 |
-| Tower on the Lake | 0.50% | ~1,031 |
-| Seeds of Deceit | 0.50% | ~1,031 |
-| The Guardian of Orolunga | 0.50% | ~1,031 |
-| The Lost Love | 0.50% | ~1,031 |
-| Enter the Sargauth | 0.50% | ~1,031 |
-| Lair of the Xanathar | 0.50% | ~1,031 |
-| Difficult Terrain | 0.50% | ~1,031 |
+| Sleuth It Out | 0.50% | ~1,032 |
+| The Wyrmheart Mine | 0.50% | ~1,032 |
+| Tower on the Lake | 0.50% | ~1,032 |
+| Seeds of Deceit | 0.50% | ~1,032 |
+| The Guardian of Orolunga | 0.50% | ~1,032 |
+| The Lost Love | 0.50% | ~1,032 |
+| Enter the Sargauth | 0.50% | ~1,032 |
+| Lair of the Xanathar | 0.50% | ~1,032 |
+| Difficult Terrain | 0.50% | ~1,032 |
 | The Everlasting Rime | 0.50% | ~863 |
-| Expert Opinion | 0.50% | ~1,031 |
+| Expert Opinion | 0.50% | ~1,032 |
 | Lobsterfolk Assault | 0.40% | ~825 |
 | Home Field Advantage | 0.40% | ~825 |
 | Force Grey Unleashed | 0.40% | ~825 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,280 (Ranked 52)  
+Progressed: 206,307 (Ranked 52)  
 Completed: 2,028 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,16 +586,17 @@ Completed: 2,028 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
+| 2023-07-05 | 206,307 | 2,028 |
 ## Awards
 Max (Diverse Characters): 5,000  (Ranked 65)  
-Sum: 30,378 (Ranked 37)  
+Sum: 30,380 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,000 |
 | This game is Great for Beginners | 4,931 |
 | This game has Quickly Understood Controls | 4,642 |
-| This game is Relaxing | 4,539 |
+| This game is Relaxing | 4,541 |
 | This game has Amazing Characters | 3,995 |
 | This game is Highly Recommended | 3,984 |
 | This game has Playful Visuals | 3,287 |
@@ -761,4 +762,4 @@ Diff (max vs sum): 28
 | 2023-07-01 | 4.05 | - | 4,992 | 30,347 |
 | 2023-07-02 | 4.05 | - | 4,995 | 30,358 |
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
-| 2023-07-04 | 4.05 | - | 5,000 | 30,378 |
+| 2023-07-04 | 4.05 | - | 5,000 | 30,380 |

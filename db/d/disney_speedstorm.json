@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2881,
+  "EOS_Progressed": 2882,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 2.92,
+  "EOS_Completed_Percentage": 2.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -3150,6 +3150,11 @@
       "Time": "2023-07-04T19:05:06.5759567+00:00",
       "NumProgressed": 2881,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-07-05T00:04:59.7531332+00:00",
+      "NumProgressed": 2882,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 24,
@@ -3169,7 +3174,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "11",
@@ -3201,7 +3206,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "15",
@@ -3257,7 +3262,7 @@
       "Name": "PROTECTED",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "21",
@@ -3281,7 +3286,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "24",
@@ -3289,7 +3294,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "3",
@@ -3305,7 +3310,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "5",
@@ -3337,7 +3342,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "9",
@@ -3352,13 +3357,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2881,
+      "Progressed": 2882,
       "Completed": 84
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:04:35.044945+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:04:59.7531325+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:58:59.4680782+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:04:35.0449818+00:00"
+  "LastUpdate_Ratings": "2023-07-04T23:59:20.7778857+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:04:59.75316+00:00"
 }

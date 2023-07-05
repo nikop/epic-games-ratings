@@ -2268,9 +2268,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1457486,
+  "EOS_Progressed": 1457513,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 9752,
+  "EOS_NewPlayers": 9733,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10343,6 +10343,11 @@
       "Time": "2023-07-04T23:03:53.7976431+00:00",
       "NumProgressed": 1457486,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-05T00:04:09.4719081+00:00",
+      "NumProgressed": 1457513,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 38,
@@ -10354,7 +10359,7 @@
       "Name": "Boxer",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "BurningMan",
@@ -10362,7 +10367,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 233198
+      "UsersEstimate": 233202
     },
     {
       "ID": "Chambermaid",
@@ -10378,7 +10383,7 @@
       "Name": "Clobbered",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ComingThrough",
@@ -10410,7 +10415,7 @@
       "Name": "Ended Rightly",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "Flyswatter",
@@ -10426,7 +10431,7 @@
       "Name": "Friend Indeed",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 7287
+      "UsersEstimate": 7288
     },
     {
       "ID": "Guts",
@@ -10434,7 +10439,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 291497
+      "UsersEstimate": 291503
     },
     {
       "ID": "Highlander",
@@ -10442,7 +10447,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 145749
+      "UsersEstimate": 145751
     },
     {
       "ID": "HomeRun",
@@ -10450,7 +10455,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 597569
+      "UsersEstimate": 597580
     },
     {
       "ID": "JustScratch",
@@ -10458,7 +10463,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 131174
+      "UsersEstimate": 131176
     },
     {
       "ID": "JusticeFromGrave",
@@ -10466,7 +10471,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 714168
+      "UsersEstimate": 714181
     },
     {
       "ID": "KeepsComingOff",
@@ -10474,7 +10479,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 597569
+      "UsersEstimate": 597580
     },
     {
       "ID": "KungFu",
@@ -10490,7 +10495,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 174898
+      "UsersEstimate": 174902
     },
     {
       "ID": "LivingSculpture",
@@ -10498,7 +10503,7 @@
       "Name": "Living Sculpture",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "LongListNames",
@@ -10506,7 +10511,7 @@
       "Name": "Long List of Names",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 58299
+      "UsersEstimate": 58301
     },
     {
       "ID": "MeatGrinder",
@@ -10514,7 +10519,7 @@
       "Name": "Meat Grinder",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 291497
+      "UsersEstimate": 291503
     },
     {
       "ID": "NoOrdinaryCold",
@@ -10522,7 +10527,7 @@
       "Name": "That\u2019s No Ordinary Cold",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "NotSparta",
@@ -10554,7 +10559,7 @@
       "Name": "Pyromaniac",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 58299
+      "UsersEstimate": 58301
     },
     {
       "ID": "QueenOfWeapons",
@@ -10562,7 +10567,7 @@
       "Name": "The Queen of Weapons",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 58299
+      "UsersEstimate": 58301
     },
     {
       "ID": "Rocknroll",
@@ -10578,7 +10583,7 @@
       "Name": "Stairway to Hell",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "TheABCs",
@@ -10586,7 +10591,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 626719
+      "UsersEstimate": 626731
     },
     {
       "ID": "ToughNut",
@@ -10594,7 +10599,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 87449
+      "UsersEstimate": 87451
     },
     {
       "ID": "TrainingAccident",
@@ -10602,7 +10607,7 @@
       "Name": "Training Accident",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 10202
+      "UsersEstimate": 10203
     },
     {
       "ID": "Unstoppable",
@@ -10610,7 +10615,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 145749
+      "UsersEstimate": 145751
     },
     {
       "ID": "Virtuoso",
@@ -10626,7 +10631,7 @@
       "Name": "Vlad the Impaler",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4373
     },
     {
       "ID": "Whackamole",
@@ -10642,7 +10647,7 @@
       "Name": "Yoink",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 87449
+      "UsersEstimate": 87451
     },
     {
       "ID": "YoureWelcome",
@@ -10657,7 +10662,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1457486,
+      "Progressed": 1457513,
       "Completed": 42
     }
   ],
@@ -10665,8 +10670,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-07-04T20:01:39.3707905+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:03:53.7976426+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:04:09.4719075+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:40.816151+00:00",
-  "LastUpdate_Ratings": "2023-07-04T23:00:10.7071005+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:03:53.7977221+00:00"
+  "LastUpdate_Ratings": "2023-07-05T00:00:50.8749601+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:04:09.4719717+00:00"
 }

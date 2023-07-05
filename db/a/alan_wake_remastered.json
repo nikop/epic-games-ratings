@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56827,
+  "EOS_Progressed": 56831,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6957,6 +6957,11 @@
       "Time": "2023-07-04T23:02:21.692331+00:00",
       "NumProgressed": 56827,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T00:02:14.9693714+00:00",
+      "NumProgressed": 56831,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6968,7 +6973,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18753
+      "UsersEstimate": 18754
     },
     {
       "ID": "02",
@@ -6976,7 +6981,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11934
+      "UsersEstimate": 11935
     },
     {
       "ID": "03",
@@ -6984,7 +6989,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11365
+      "UsersEstimate": 11366
     },
     {
       "ID": "04",
@@ -7000,7 +7005,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10229
+      "UsersEstimate": 10230
     },
     {
       "ID": "06",
@@ -7064,7 +7069,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "14",
@@ -7072,7 +7077,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "15",
@@ -7104,7 +7109,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "19",
@@ -7128,7 +7133,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "22",
@@ -7152,7 +7157,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "25",
@@ -7168,7 +7173,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "27",
@@ -7192,7 +7197,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "30",
@@ -7200,7 +7205,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "31",
@@ -7216,7 +7221,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14775
+      "UsersEstimate": 14776
     },
     {
       "ID": "33",
@@ -7224,7 +7229,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "34",
@@ -7240,7 +7245,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15343
+      "UsersEstimate": 15344
     },
     {
       "ID": "36",
@@ -7304,7 +7309,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8524
+      "UsersEstimate": 8525
     },
     {
       "ID": "44",
@@ -7328,7 +7333,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "47",
@@ -7503,21 +7508,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56827,
+      "Progressed": 56831,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20295,
+      "Progressed": 20299,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:02:21.6923306+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:02:14.9693708+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:57:52.3241256+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:02:21.6924412+00:00"
+  "LastUpdate_Ratings": "2023-07-04T23:57:54.9385565+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:02:14.9694524+00:00"
 }

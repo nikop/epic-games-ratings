@@ -28,13 +28,13 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 11.00% | ~1,508 |
 | Friar Tuck | 11.00% | ~1,508 |
 | First profit | 11.00% | ~1,508 |
-| Team player | 10.00% | ~1,370 |
-| Skilled merchant | 9.00% | ~1,233 |
-| Nothing but make-believe | 9.00% | ~1,233 |
-| Brother Marcus | 9.00% | ~1,233 |
-| The oath | 9.00% | ~1,233 |
-| The truth revealed | 9.00% | ~1,233 |
-| The End. | 9.00% | ~1,233 |
+| Team player | 10.00% | ~1,371 |
+| Skilled merchant | 9.00% | ~1,234 |
+| Nothing but make-believe | 9.00% | ~1,234 |
+| Brother Marcus | 9.00% | ~1,234 |
+| The oath | 9.00% | ~1,234 |
+| The truth revealed | 9.00% | ~1,234 |
+| The End. | 9.00% | ~1,234 |
 | A cry for help | 8.00% | ~1,096 |
 | Silentium est aureum | 7.00% | ~959 |
 | Rebel without a cause | 6.00% | ~822 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~411 |
 | Boy of mystery | 2.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,705 (Ranked 110)  
+Progressed: 13,706 (Ranked 110)  
 Completed: 104 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 104 (0.76%) (Ranked 110)
 | 2023-07-02 | 13,663 | 103 |
 | 2023-07-03 | 13,677 | 104 |
 | 2023-07-04 | 13,705 | 104 |
+| 2023-07-05 | 13,706 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

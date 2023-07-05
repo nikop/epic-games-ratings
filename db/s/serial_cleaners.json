@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "CHAPTER2_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Pride and Joy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:05:53.8381816+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:06:47.2753483+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.7587058+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:59:14.1410776+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:05:53.8382017+00:00"
+  "LastUpdate_Ratings": "2023-07-04T23:59:36.8268006+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:06:47.2753682+00:00"
 }

@@ -6381,9 +6381,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 44995,
+  "EOS_Progressed": 44996,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12901,6 +12901,11 @@
       "Time": "2023-07-04T23:03:07.843395+00:00",
       "NumProgressed": 44995,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-05T00:03:13.7271981+00:00",
+      "NumProgressed": 44996,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13008,7 +13013,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27447
+      "UsersEstimate": 27448
     },
     {
       "ID": "DeliveryGrapes",
@@ -13048,7 +13053,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27447
+      "UsersEstimate": 27448
     },
     {
       "ID": "Harvested",
@@ -13064,7 +13069,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34196
+      "UsersEstimate": 34197
     },
     {
       "ID": "HorseJumps",
@@ -13120,7 +13125,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23847
+      "UsersEstimate": 23848
     },
     {
       "ID": "NumBeehives",
@@ -13168,7 +13173,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26097
+      "UsersEstimate": 26098
     },
     {
       "ID": "PetDog",
@@ -13184,7 +13189,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26097
+      "UsersEstimate": 26098
     },
     {
       "ID": "Sow",
@@ -13192,7 +13197,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "SowFirst",
@@ -13208,7 +13213,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5400
     },
     {
       "ID": "TractorDriving",
@@ -13255,15 +13260,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 44995,
+      "Progressed": 44996,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-04T18:00:18.5313507+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:03:07.8433944+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:03:13.7271976+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:59:40.0959804+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:03:07.8434699+00:00"
+  "LastUpdate_Ratings": "2023-07-05T00:00:11.5685445+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:03:13.727255+00:00"
 }

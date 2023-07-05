@@ -270,7 +270,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191210,
+  "EOS_Progressed": 191212,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
@@ -8255,6 +8255,11 @@
       "Time": "2023-07-04T23:05:44.2901985+00:00",
       "NumProgressed": 191210,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T00:06:35.9484942+00:00",
+      "NumProgressed": 191212,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -8274,7 +8279,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 135759
+      "UsersEstimate": 135761
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -8282,7 +8287,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9560
+      "UsersEstimate": 9561
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -8346,7 +8351,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9560
+      "UsersEstimate": 9561
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -8386,14 +8391,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9560
+      "UsersEstimate": 9561
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 191210,
+      "Progressed": 191212,
       "Completed": 4
     }
   ],
@@ -8401,8 +8406,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-01T18:00:42.0601506+00:00",
-  "LastChanged_Achievements": "2023-07-04T23:05:44.2901976+00:00",
+  "LastChanged_Achievements": "2023-07-05T00:06:35.9484935+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:50.8758143+00:00",
-  "LastUpdate_Ratings": "2023-07-04T22:59:41.1637629+00:00",
-  "LastUpdate_Achievements": "2023-07-04T23:05:44.2903507+00:00"
+  "LastUpdate_Ratings": "2023-07-05T00:00:12.8965482+00:00",
+  "LastUpdate_Achievements": "2023-07-05T00:06:35.9485382+00:00"
 }

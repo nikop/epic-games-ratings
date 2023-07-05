@@ -32,12 +32,12 @@ Rating: 3.53 (Ranked 948)
 | From the Shadows | 6.00% | ~103 |
 | Bell-ringer | 5.00% | ~86 |
 | Revelations | 4.00% | ~68 |
+| Contingency Plans | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
 | Check, Please! | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |
 | Nice Try | 4.00% | ~68 |
 | Enemy of My Enemy | 4.00% | ~68 |
-| Contingency Plans | 3.00% | ~51 |
 | Sic Transit Umbra | 3.00% | ~51 |
 | Good Morning | 3.00% | ~51 |
 | Harvest’s End | 3.00% | ~51 |
