@@ -3044,9 +3044,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10183,
+  "EOS_Progressed": 10184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7829,6 +7829,11 @@
       "Time": "2023-07-05T19:04:32.0806179+00:00",
       "NumProgressed": 10183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T20:02:35.3201101+00:00",
+      "NumProgressed": 10184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -8024,7 +8029,7 @@
       "Name": "The Legacy",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "25_MasterfulDispell",
@@ -8040,7 +8045,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "28_GreatUpstart",
@@ -8072,7 +8077,7 @@
       "Name": "Divide and Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "32_MythicReinforcements",
@@ -8080,7 +8085,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "33_DefendersHeart",
@@ -8216,7 +8221,7 @@
       "Name": "A Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -8224,7 +8229,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -8264,7 +8269,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "56_GetToad",
@@ -8272,7 +8277,7 @@
       "Name": "Get the Toad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "57_PathOfDevil",
@@ -8767,21 +8772,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8965,
+      "Progressed": 8966,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10183,
+      "Progressed": 10184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-05T14:58:49.8042669+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:04:32.0806171+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:02:35.3201097+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:59:52.2488775+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:04:32.0808099+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:59:00.6115326+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:02:35.3203096+00:00"
 }

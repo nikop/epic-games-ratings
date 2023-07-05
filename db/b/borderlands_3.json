@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -8186,10 +8186,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 352731,
       "NumberOfAwardsMax": 112410
+    },
+    {
+      "Time": "2023-07-05T20:00:46.5598672+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 352742,
+      "NumberOfAwardsMax": 112410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352731,
+  "NumberOfAwards": 352742,
   "NumberOfAwardsMax": 112410,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8227,7 +8233,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24439
+      "Count": 24450
     },
     {
       "Text": "This game is Relaxing",
@@ -8271,8 +8277,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-07-05T19:02:08.9970648+00:00",
+  "LastChanged": "2023-07-05T20:00:46.5598671+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.8167783+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:02:08.9970655+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:05:40.9735306+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:00:46.5598677+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:03:42.8481013+00:00"
 }

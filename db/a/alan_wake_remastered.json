@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56863,
+  "EOS_Progressed": 56867,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7037,6 +7037,11 @@
       "Time": "2023-07-05T19:04:45.6135444+00:00",
       "NumProgressed": 56863,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T20:02:44.8654886+00:00",
+      "NumProgressed": 56867,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7048,7 +7053,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18765
+      "UsersEstimate": 18766
     },
     {
       "ID": "02",
@@ -7056,7 +7061,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11941
+      "UsersEstimate": 11942
     },
     {
       "ID": "03",
@@ -7080,7 +7085,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10235
+      "UsersEstimate": 10236
     },
     {
       "ID": "06",
@@ -7096,7 +7101,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "08",
@@ -7104,7 +7109,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "09",
@@ -7136,7 +7141,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "13",
@@ -7240,7 +7245,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "26",
@@ -7256,7 +7261,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "28",
@@ -7296,7 +7301,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14784
+      "UsersEstimate": 14785
     },
     {
       "ID": "33",
@@ -7320,7 +7325,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15353
+      "UsersEstimate": 15354
     },
     {
       "ID": "36",
@@ -7384,7 +7389,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8529
+      "UsersEstimate": 8530
     },
     {
       "ID": "44",
@@ -7448,7 +7453,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "52",
@@ -7583,21 +7588,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56863,
+      "Progressed": 56867,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20331,
+      "Progressed": 20335,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:04:45.6135436+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:02:44.8654881+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:58:36.8921084+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:04:45.6138539+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:58:04.2188411+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:02:44.8656717+00:00"
 }

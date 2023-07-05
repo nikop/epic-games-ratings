@@ -500,23 +500,29 @@
       "Rating": 4.56,
       "NumberOfAwards": 204,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2023-07-05T20:01:31.1549177+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 205,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 204,
-  "NumberOfAwardsMax": 204,
+  "NumberOfAwards": 205,
+  "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 204
+      "Count": 205
     }
   ],
-  "EOS_Progressed": 10954,
+  "EOS_Progressed": 10955,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6149,6 +6155,11 @@
       "Time": "2023-07-05T16:08:42.028009+00:00",
       "NumProgressed": 10954,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-05T20:07:19.2084745+00:00",
+      "NumProgressed": 10955,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 35,
@@ -6160,7 +6171,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8874
     },
     {
       "ID": "ACH02",
@@ -6216,7 +6227,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5478
     },
     {
       "ID": "ACH09",
@@ -6264,7 +6275,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "ACH15",
@@ -6439,16 +6450,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10954,
+      "Progressed": 10955,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-07-04T15:00:25.8802956+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:09:07.9332466+00:00",
+  "LastChanged": "2023-07-05T20:01:31.1549175+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:07:19.208474+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:03:10.0714479+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:09:07.9333073+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:01:31.1549181+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:07:19.2085349+00:00"
 }

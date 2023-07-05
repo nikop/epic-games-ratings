@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,382 |
+| Lawbringer | 37.00% | ~20,383 |
 | Landlord | 31.00% | ~17,077 |
 | Lawmaker | 22.00% | ~12,119 |
 | Bannerlord | 21.00% | ~11,568 |
@@ -16,7 +16,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 16.00% | ~8,814 |
 | I can do it | 15.00% | ~8,263 |
 | Apple of my eye | 14.00% | ~7,712 |
-| God of the Arena | 12.00% | ~6,610 |
+| God of the Arena | 12.00% | ~6,611 |
 | Against all odds | 11.00% | ~6,060 |
 | Swordbearer | 10.00% | ~5,509 |
 | Duelist | 9.00% | ~4,958 |
@@ -27,10 +27,10 @@ Number of Ratings: 5,603  (23.09.2022)
 | This Is Our Land | 8.00% | ~4,407 |
 | Mastery | 7.00% | ~3,856 |
 | Know your enemy | 6.00% | ~3,305 |
-| Crowdfunded | 4.00% | ~2,203 |
-| Crush your enemies | 4.00% | ~2,203 |
-| My way | 4.00% | ~2,203 |
-| Veni vidi vici | 4.00% | ~2,203 |
+| Crowdfunded | 4.00% | ~2,204 |
+| Crush your enemies | 4.00% | ~2,204 |
+| My way | 4.00% | ~2,204 |
+| Veni vidi vici | 4.00% | ~2,204 |
 | Freedom! | 3.00% | ~1,653 |
 | Real Estate | 3.00% | ~1,653 |
 | Entrepreneur | 2.00% | ~1,102 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,087 (Ranked 82)  
+Progressed: 55,088 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-02 | 54,836 | 0 |
 | 2023-07-03 | 54,912 | 0 |
 | 2023-07-04 | 54,995 | 0 |
-| 2023-07-05 | 55,087 | 0 |
+| 2023-07-05 | 55,088 | 0 |
 ## Awards
 Max (Character Customization): 6,759  (Ranked 48)  
 Sum: 13,644 (Ranked 67)  

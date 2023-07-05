@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 15641,
+  "EOS_Progressed": 15642,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5266,6 +5266,11 @@
       "Time": "2023-07-05T17:05:35.4552718+00:00",
       "NumProgressed": 15641,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-07-05T20:05:34.8468672+00:00",
+      "NumProgressed": 15642,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 47,
@@ -5291,9 +5296,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 141
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -5499,9 +5504,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -5603,9 +5608,9 @@
       "ID": "FIND_ALL_DATA_DRIVES",
       "SetID": "6j5ggkc",
       "Name": "Information Overload",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -5652,13 +5657,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15641,
+      "Progressed": 15642,
       "Completed": 63
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3567,
+      "Progressed": 3568,
       "Completed": 29
     }
   ],
@@ -5666,8 +5671,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-04T19:58:31.8276242+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:07:38.6292722+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:05:34.8468667+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:59:00.4364305+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:07:38.6294182+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:58:22.7689797+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:05:34.8469324+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4988,9 +4988,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -5044,9 +5044,9 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -5307,8 +5307,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:09:14.0576276+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:07:23.964836+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:03:38.4770695+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:09:14.0577402+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:01:51.3376335+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:07:23.9649326+00:00"
 }

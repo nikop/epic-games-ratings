@@ -19,14 +19,14 @@ Rating: 4.19 (Ranked 844)
 | If the SHU Fits... | 1.00% | ~156 |
 | Without A Paddle | 1.00% | ~156 |
 | In the Pipe, Five by Five | 1.00% | ~156 |
+| What Lies Beneath | 1.00% | ~156 |
 | Crash Site | 1.00% | ~156 |
 | Full Circle | 1.00% | ~156 |
 | Power Up | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
+| Giving Back | 0.90% | ~141 |
 | Terminated | 0.90% | ~141 |
 | The Outer Way | 0.90% | ~141 |
-| What Lies Beneath | 0.90% | ~141 |
-| Giving Back | 0.80% | ~125 |
 | Desperate Times | 0.80% | ~125 |
 | The Commonality | 0.70% | ~109 |
 | One Last Job | 0.60% | ~21 |
@@ -34,8 +34,8 @@ Rating: 4.19 (Ranked 844)
 | This Isn't About Escape | 0.40% | ~14 |
 | Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
+| Information Overload | 0.30% | ~11 |
 | Parole Denied | 0.20% | ~7 |
-| Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,641 (Ranked 107)  
+Progressed: 15,642 (Ranked 107)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
-| 2023-07-05 | 15,641 | 63 |
+| 2023-07-05 | 15,642 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
 Sum: 364 (Ranked 319)  

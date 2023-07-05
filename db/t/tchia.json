@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6667,
+  "EOS_Progressed": 6668,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4311,6 +4311,11 @@
       "Time": "2023-07-05T16:08:27.4211826+00:00",
       "NumProgressed": 6667,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-05T20:07:09.0911206+00:00",
+      "NumProgressed": 6668,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 21,
@@ -4426,7 +4431,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "LIBERATOR",
@@ -4489,7 +4494,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6667,
+      "Progressed": 6668,
       "Completed": 28
     }
   ],
@@ -4497,8 +4502,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:08:44.2407396+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:07:09.0911199+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:59:04.0366087+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:08:44.2407945+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:58:24.9946006+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:07:09.0911589+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,989 |
+| First Step Into the Knight | 6.00% | ~3,990 |
 | To the Victor Go the Spoils | 4.00% | ~2,660 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,660 |
 | Loose Ends | 4.00% | ~2,660 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,489 (Ranked 73)  
+Progressed: 66,494 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
-| 2023-07-05 | 66,489 | 100 |
+| 2023-07-05 | 66,494 | 100 |
 ## Awards
-Max (Great Boss Battles): 2,416  (Ranked 100)  
-Sum: 4,002 (Ranked 137)  
+Max (Great Boss Battles): 2,419  (Ranked 100)  
+Sum: 4,005 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,416 |
+| This game has Great Boss Battles | 2,419 |
 | This game is Extremely Fun | 205 |
 | This game has Quickly Understood Controls | 204 |
 | This game is Relaxing | 203 |
@@ -297,4 +297,4 @@ Diff (max vs sum): -37
 | 2023-07-02 | 4.18 | 2,407 | 3,985 |
 | 2023-07-03 | 4.18 | 2,411 | 3,993 |
 | 2023-07-04 | 4.18 | 2,416 | 4,000 |
-| 2023-07-05 | 4.18 | 2,416 | 4,002 |
+| 2023-07-05 | 4.18 | 2,419 | 4,005 |

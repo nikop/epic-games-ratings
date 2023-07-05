@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -2330,9 +2330,9 @@
       "ID": "achAccumulate100M",
       "SetID": "dgl390n",
       "Name": "Transport shark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 567
     },
     {
       "ID": "achAccumulate100MHard",
@@ -2674,9 +2674,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 484
     },
     {
       "ID": "achMetropolis",
@@ -2826,8 +2826,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-06-28T22:00:03.0950147+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:09:15.5314338+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:07:25.2686748+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:53.6658192+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:02:12.1036485+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:09:15.5315087+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:00:49.178975+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:07:25.2687422+00:00"
 }

@@ -32,15 +32,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 2.00% | ~313 |
 | Like a Machine | 2.00% | ~313 |
 | Trade Baron | 2.00% | ~313 |
-| Serving Ale | 1.00% | ~156 |
-| Refinery | 1.00% | ~156 |
-| Ruined Armory | 1.00% | ~156 |
-| Dangerous Lands | 1.00% | ~156 |
-| Forbidden Lands | 1.00% | ~156 |
-| Statue of the Forefathers | 1.00% | ~156 |
-| Forsaken Gods Temple | 1.00% | ~156 |
-| Defying the Crown | 1.00% | ~156 |
-| Into the Forest | 1.00% | ~156 |
+| Serving Ale | 1.00% | ~157 |
+| Refinery | 1.00% | ~157 |
+| Ruined Armory | 1.00% | ~157 |
+| Dangerous Lands | 1.00% | ~157 |
+| Forbidden Lands | 1.00% | ~157 |
+| Statue of the Forefathers | 1.00% | ~157 |
+| Forsaken Gods Temple | 1.00% | ~157 |
+| Defying the Crown | 1.00% | ~157 |
+| Into the Forest | 1.00% | ~157 |
 | Fishmen Ritual Site | 0.90% | ~141 |
 | Efficient Explorer | 0.70% | ~110 |
 | Prestigious Expedition | 0.60% | ~94 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,650 (Ranked 106)  
+Progressed: 15,652 (Ranked 106)  
 Completed: 39 (0.25%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 39 (0.25%) (Ranked 151)
 | 2023-07-02 | 15,602 | 39 |
 | 2023-07-03 | 15,619 | 39 |
 | 2023-07-04 | 15,638 | 39 |
-| 2023-07-05 | 15,650 | 39 |
+| 2023-07-05 | 15,652 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,062 (Ranked 155)  

@@ -1,44 +1,44 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.31 (Ranked 769)  
+Rating: 4.31 (Ranked 770)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~173 |
-| Scrap Gatherer | 58.00% | ~167 |
-| Mushroom Picker | 56.00% | ~161 |
-| Scrapper | 49.00% | ~141 |
+| My New Home | 61.00% | ~176 |
+| Scrap Gatherer | 58.00% | ~168 |
+| Mushroom Picker | 56.00% | ~162 |
+| Scrapper | 49.00% | ~142 |
 | Cook | 42.00% | ~121 |
 | Teleport | 42.00% | ~121 |
-| Scrap Master | 39.00% | ~112 |
-| Smelter | 38.00% | ~109 |
+| Scrap Master | 39.00% | ~113 |
+| Smelter | 37.00% | ~107 |
 | Electro-Scrap Gatherer | 35.00% | ~101 |
 | Digger | 33.00% | ~95 |
 | Survivor | 32.00% | ~92 |
-| Robot Destroyer | 31.00% | ~89 |
-| Herbalist | 30.00% | ~86 |
+| Robot Destroyer | 31.00% | ~90 |
+| Herbalist | 30.00% | ~87 |
 | Lumberjack | 28.00% | ~81 |
 | Electro-Scrap Master | 25.00% | ~72 |
 | Prepper | 25.00% | ~72 |
-| Robot Hunter | 23.00% | ~66 |
+| Robot Hunter | 22.00% | ~64 |
 | Advanced Survivalist | 20.00% | ~58 |
 | Master Of Technology | 18.00% | ~52 |
 | Treasure Hunter | 17.00% | ~49 |
-| Mythical Smelter | 13.00% | ~37 |
+| Mythical Smelter | 13.00% | ~38 |
 | Blacksmith | 12.00% | ~35 |
 | Fuel | 11.00% | ~32 |
 | Master Of Management | 10.00% | ~29 |
 | Forest Lord | 10.00% | ~29 |
 | Smelting Master | 9.00% | ~26 |
 | Black Gold | 8.00% | ~23 |
-| Survival Master | 5.00% | ~14 |
 | Traveler | 4.00% | ~12 |
+| Survival Master | 4.00% | ~12 |
 | Forest Killer | 1.00% | ~3 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 245)  
+Progressed: 289 (Ranked 245)  
 Completed: 1 (0.35%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 1 (0.35%) (Ranked 137)
 | 2023-06-26 | 286 | 1 |
 | 2023-06-27 | 287 | 1 |
 | 2023-06-29 | 288 | 1 |
+| 2023-07-05 | 289 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

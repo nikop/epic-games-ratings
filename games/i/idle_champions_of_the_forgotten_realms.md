@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,018 |
-| The Mad Wizard | 11.00% | ~22,747 |
-| The Ring of Regeneration | 7.00% | ~14,475 |
-| Are Ya Chicken? | 7.00% | ~14,475 |
-| Were-verpowered | 5.00% | ~10,339 |
-| Mad Cow Disease | 5.00% | ~10,339 |
-| Friendly Imps | 5.00% | ~10,339 |
+| The Cursed Farmer | 15.00% | ~31,022 |
+| The Mad Wizard | 11.00% | ~22,749 |
+| The Ring of Regeneration | 7.00% | ~14,477 |
+| Are Ya Chicken? | 7.00% | ~14,477 |
+| Were-verpowered | 5.00% | ~10,341 |
+| Mad Cow Disease | 5.00% | ~10,341 |
+| Friendly Imps | 5.00% | ~10,341 |
 | A Persistent Buzzing | 4.00% | ~8,272 |
 | Seeking Allies | 4.00% | ~8,272 |
 | Pure Energy | 4.00% | ~8,272 |
@@ -70,7 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,241 |
 | The Darkness Runs Deeper | 0.60% | ~1,241 |
 | Market Fluctuations | 0.60% | ~1,241 |
-| The Giant's Bane Tavern | 0.60% | ~1,038 |
+| The Giant's Bane Tavern | 0.60% | ~1,039 |
 | Rude Welcome | 0.60% | ~1,241 |
 | Durable Deep | 0.60% | ~1,241 |
 | Sleuth It Out | 0.50% | ~1,034 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,789 (Ranked 52)  
+Progressed: 206,812 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,789 | 2,032 |
+| 2023-07-05 | 206,812 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,396 (Ranked 37)  

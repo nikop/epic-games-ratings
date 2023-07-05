@@ -1,31 +1,31 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 769)  
+Rating: 4.31 (Ranked 770)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~66,009 |
-| Powergamer | 27.00% | ~63,652 |
-| Barely scratched the surface | 25.00% | ~58,937 |
-| Write that down | 24.00% | ~56,579 |
-| Guns, lots of guns | 12.00% | ~28,290 |
-| Collector | 11.00% | ~25,932 |
-| Elementary! | 9.00% | ~21,217 |
-| Pumpkin Jack | 8.00% | ~18,860 |
-| Wake up! | 8.00% | ~18,860 |
-| It's honest work | 7.00% | ~16,502 |
-| Griever | 7.00% | ~16,502 |
+| I will finish what you started | 28.00% | ~66,012 |
+| Powergamer | 27.00% | ~63,654 |
+| Barely scratched the surface | 25.00% | ~58,939 |
+| Write that down | 24.00% | ~56,582 |
+| Guns, lots of guns | 12.00% | ~28,291 |
+| Collector | 11.00% | ~25,933 |
+| Elementary! | 9.00% | ~21,218 |
+| Pumpkin Jack | 8.00% | ~18,861 |
+| Wake up! | 8.00% | ~18,861 |
+| It's honest work | 7.00% | ~16,503 |
+| Griever | 7.00% | ~16,503 |
 | Me smart | 6.00% | ~14,145 |
-| Good listener | 5.00% | ~11,787 |
-| Trash compactor | 5.00% | ~11,787 |
-| Valedictorian | 5.00% | ~11,787 |
+| Good listener | 5.00% | ~11,788 |
+| Trash compactor | 5.00% | ~11,788 |
+| Valedictorian | 5.00% | ~11,788 |
 | BOY! | 4.00% | ~9,430 |
 | Ka-ching! | 4.00% | ~9,430 |
 | So you like to read? | 4.00% | ~9,430 |
-| I like to sniff around | 3.00% | ~7,072 |
-| Mind reader | 3.00% | ~7,072 |
+| I like to sniff around | 3.00% | ~7,073 |
+| Mind reader | 3.00% | ~7,073 |
 | Gentleman's classic | 2.00% | ~4,715 |
 | Hoarder | 2.00% | ~4,715 |
 | Is that a rift? | 2.00% | ~4,715 |
@@ -34,14 +34,14 @@ Number of Ratings: 33  (23.09.2022)
 | Rinse and repeat | 2.00% | ~4,715 |
 | Mama, I'm a criminal | 2.00% | ~4,715 |
 | Never gonna give you up | 2.00% | ~4,715 |
-| A muscle to rely on | 1.00% | ~2,357 |
-| Catnip | 1.00% | ~2,357 |
-| I am in great pain, please help me | 1.00% | ~2,357 |
-| High noon | 1.00% | ~2,357 |
-| Random encounter | 1.00% | ~2,357 |
-| SysOp on duty | 1.00% | ~2,357 |
-| Take the blue pill | 1.00% | ~2,357 |
-| The power of three | 1.00% | ~2,357 |
+| A muscle to rely on | 1.00% | ~2,358 |
+| Catnip | 1.00% | ~2,358 |
+| I am in great pain, please help me | 1.00% | ~2,358 |
+| High noon | 1.00% | ~2,358 |
+| Random encounter | 1.00% | ~2,358 |
+| SysOp on duty | 1.00% | ~2,358 |
+| Take the blue pill | 1.00% | ~2,358 |
+| The power of three | 1.00% | ~2,358 |
 | A true blacksmith | 0.90% | ~2,122 |
 | Let's try another | 0.80% | ~1,886 |
 | Home run | 0.80% | ~1,886 |
@@ -53,13 +53,13 @@ Number of Ratings: 33  (23.09.2022)
 | Un-bear-able | 0.40% | ~943 |
 | LET ME OUT! | 0.30% | ~707 |
 | Well-deserved reunion | 0.30% | ~707 |
-| Breaking the chains | 0.20% | ~471 |
-| Aren't you overthinking? | 0.20% | ~471 |
-| Take the red pill | 0.20% | ~471 |
-| This is the way | 0.20% | ~471 |
+| Breaking the chains | 0.20% | ~472 |
+| Aren't you overthinking? | 0.20% | ~472 |
+| Take the red pill | 0.20% | ~472 |
+| This is the way | 0.20% | ~472 |
 | Memory 5 | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,747 (Ranked 45)  
+Progressed: 235,757 (Ranked 45)  
 Completed: 7 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 7 (0.00%) (Ranked 233)
 | 2023-07-02 | 235,320 | 7 |
 | 2023-07-03 | 235,462 | 7 |
 | 2023-07-04 | 235,621 | 7 |
-| 2023-07-05 | 235,747 | 7 |
+| 2023-07-05 | 235,757 | 7 |
 ## Awards
 Max (Character Customization): 74  (Ranked 360)  
 Sum: 74 (Ranked 422)  

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 84.00% | ~42 |
-| Killing Spree | 66.00% | ~33 |
-| 5Gb HDD | 46.00% | ~23 |
+| Killing Spree | 68.00% | ~34 |
+| 5Gb HDD | 48.00% | ~24 |
 | Merchant Prince I | 46.00% | ~23 |
-| Dominating | 30.00% | ~15 |
-| Fighting Fit I | 28.00% | ~14 |
-| Rambo I | 24.00% | ~12 |
-| 10Gb HDD | 24.00% | ~12 |
+| Dominating | 32.00% | ~16 |
+| Fighting Fit I | 30.00% | ~15 |
+| Rambo I | 26.00% | ~13 |
+| 10Gb HDD | 26.00% | ~13 |
 | The Vette | 18.00% | ~9 |
 | Almost There I | 16.00% | ~8 |
 | Mega Kill | 14.00% | ~7 |
@@ -19,9 +19,9 @@
 | Bronze Prince of Ball-air | 10.00% | ~5 |
 | Omicron Alpha | 10.00% | ~5 |
 | Pacifist | 10.00% | ~5 |
+| Galactic Cadet | 10.00% | ~5 |
 | Collateral Damage I | 10.00% | ~5 |
 | Defrosted | 8.00% | ~4 |
-| Galactic Cadet | 8.00% | ~4 |
 | Sectoral Ensign | 6.00% | ~3 |
 | Rambo II | 6.00% | ~3 |
 | Golden Prince of Ball-air | 6.00% | ~3 |
@@ -35,6 +35,7 @@
 | Hoarder | 4.00% | ~2 |
 | Usurper I | 4.00% | ~2 |
 | 50Gb HDD | 4.00% | ~2 |
+| Galactic Lieutenant | 4.00% | ~2 |
 | Sectoral Captain | 4.00% | ~2 |
 | Collateral Damage II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
@@ -55,7 +56,6 @@
 | Food Poisoning | 2.00% | ~1 |
 | Wicked Sick | 2.00% | ~1 |
 | Usurper II | 2.00% | ~1 |
-| Galactic Lieutenant | 2.00% | ~1 |
 | Silver Foundation | 2.00% | ~1 |
 | Silver Pest Control | 2.00% | ~1 |
 | Mysterious Skin | 2.00% | ~1 |

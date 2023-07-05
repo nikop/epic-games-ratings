@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2887,
+  "EOS_Progressed": 2888,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
@@ -3175,6 +3175,11 @@
       "Time": "2023-07-05T18:05:27.3694848+00:00",
       "NumProgressed": 2887,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-07-05T20:05:11.6682764+00:00",
+      "NumProgressed": 2888,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 24,
@@ -3210,7 +3215,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "13",
@@ -3234,7 +3239,7 @@
       "Name": "FRAMED!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "16",
@@ -3242,7 +3247,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "17",
@@ -3338,7 +3343,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1530
+      "UsersEstimate": 1531
     },
     {
       "ID": "6",
@@ -3370,20 +3375,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2887,
+      "Progressed": 2888,
       "Completed": 86
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-05T19:07:04.5730707+00:00",
+  "LastChanged_Achievements": "2023-07-05T20:05:11.668276+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:00:53.4621104+00:00",
-  "LastUpdate_Achievements": "2023-07-05T19:07:04.5731315+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:59:46.4874022+00:00",
+  "LastUpdate_Achievements": "2023-07-05T20:05:11.6683066+00:00"
 }

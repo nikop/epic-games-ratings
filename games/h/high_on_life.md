@@ -23,7 +23,7 @@ Rating: 4.66 (Ranked 273)
 | RIP Davey Glutes | 24.00% | ~5,512 |
 | Hardest Battle In The Game | 22.00% | ~5,052 |
 | Series Wrap on Suit-O | 22.00% | ~5,052 |
-| Lezduit! | 20.00% | ~4,593 |
+| Lezduit! | 21.00% | ~4,823 |
 | Who's The Boss? | 20.00% | ~4,593 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,593 |
 | Self-Actualization | 19.00% | ~4,363 |

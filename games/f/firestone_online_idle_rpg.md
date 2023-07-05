@@ -5,10 +5,10 @@ Rating: 4.07 (Ranked 898)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,458 |
-| World Map | 79.00% | ~1,239 |
+| Victor | 93.00% | ~1,459 |
+| World Map | 79.00% | ~1,240 |
 | Temple of Eternals | 57.00% | ~894 |
-| Prestigious | 53.00% | ~831 |
+| Prestigious | 53.00% | ~832 |
 | Fellowship Power | 41.00% | ~643 |
 | Guild Power | 25.00% | ~392 |
 | Prestigious x10 | 21.00% | ~329 |
@@ -27,7 +27,7 @@ Rating: 4.07 (Ranked 898)
 | Natural Talent | 12.00% | ~188 |
 | Superior | 12.00% | ~188 |
 | The Unstoppable | 12.00% | ~188 |
-| Scientist | 11.00% | ~172 |
+| Scientist | 11.00% | ~173 |
 | Challenger | 9.00% | ~141 |
 | Daily Quest Completionist | 9.00% | ~141 |
 | Doing My Part | 9.00% | ~141 |
@@ -38,7 +38,7 @@ Rating: 4.07 (Ranked 898)
 | Relic Of The Past | 9.00% | ~141 |
 | Scroll Master | 9.00% | ~141 |
 | The power of Awakening | 9.00% | ~141 |
-| Four Leaf Clover | 8.00% | ~125 |
+| Four Leaf Clover | 8.00% | ~126 |
 | Here We Go Again | 7.00% | ~110 |
 | Master Enchanter | 7.00% | ~110 |
 | The father of Dragons | 7.00% | ~110 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 898)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,568 (Ranked 168)  
+Progressed: 1,569 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-07-02 | 1,550 | 1 |
 | 2023-07-03 | 1,559 | 1 |
 | 2023-07-04 | 1,564 | 1 |
-| 2023-07-05 | 1,568 | 1 |
+| 2023-07-05 | 1,569 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

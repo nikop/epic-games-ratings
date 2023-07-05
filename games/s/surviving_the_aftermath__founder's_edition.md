@@ -9,7 +9,7 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 71.00% | ~5,050 |
 | Leader | 61.00% | ~4,339 |
 | Explorer | 53.00% | ~3,770 |
-| Healer | 52.00% | ~3,699 |
+| Healer | 53.00% | ~3,770 |
 | Aspiring Inventor | 44.00% | ~3,130 |
 | Adventurer | 41.00% | ~2,916 |
 | Famous Healer | 38.00% | ~2,703 |
