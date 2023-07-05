@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -259,6 +259,11 @@
       "Time": "2023-07-05T08:05:28.0907451+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T16:07:01.917706+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -381,13 +386,13 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:05:22.8869969+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:07:01.9177053+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:19.742707+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:57:34.582552+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:05:22.8870128+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:58:12.1498115+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:07:01.9177232+00:00"
 }

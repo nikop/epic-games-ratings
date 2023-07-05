@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,000 |
-| The Mad Wizard | 11.00% | ~22,733 |
-| Are Ya Chicken? | 7.00% | ~14,467 |
-| The Ring of Regeneration | 6.00% | ~12,400 |
-| Were-verpowered | 5.00% | ~10,333 |
-| Mad Cow Disease | 5.00% | ~10,333 |
-| Friendly Imps | 5.00% | ~10,333 |
-| A Persistent Buzzing | 4.00% | ~8,267 |
-| Seeking Allies | 4.00% | ~8,267 |
-| Pure Energy | 4.00% | ~8,267 |
-| Terror in the Dark | 3.00% | ~6,200 |
-| Unearthed Evil | 3.00% | ~6,200 |
-| The Crumbling Temple | 3.00% | ~6,200 |
-| Exploring Port Nyanzaru | 3.00% | ~6,200 |
-| The Contagious Curse | 3.00% | ~6,200 |
-| Beast Mode | 2.00% | ~4,133 |
-| Low Initiative | 2.00% | ~4,133 |
-| A Mysterious Summons | 2.00% | ~4,133 |
-| Building Trust | 2.00% | ~4,133 |
-| No Time To Rest | 2.00% | ~4,133 |
-| Useless Allies | 2.00% | ~4,133 |
-| Running of the Saurs | 2.00% | ~4,133 |
-| Escort to Waterdeep | 2.00% | ~4,133 |
-| Waterdeep Detours | 2.00% | ~4,133 |
-| Underdeep Cartography | 2.00% | ~4,133 |
+| The Cursed Farmer | 15.00% | ~31,004 |
+| The Mad Wizard | 11.00% | ~22,736 |
+| Are Ya Chicken? | 7.00% | ~14,469 |
+| The Ring of Regeneration | 6.00% | ~12,402 |
+| Were-verpowered | 5.00% | ~10,335 |
+| Mad Cow Disease | 5.00% | ~10,335 |
+| Friendly Imps | 5.00% | ~10,335 |
+| A Persistent Buzzing | 4.00% | ~8,268 |
+| Seeking Allies | 4.00% | ~8,268 |
+| Pure Energy | 4.00% | ~8,268 |
+| Terror in the Dark | 3.00% | ~6,201 |
+| Unearthed Evil | 3.00% | ~6,201 |
+| The Crumbling Temple | 3.00% | ~6,201 |
+| Exploring Port Nyanzaru | 3.00% | ~6,201 |
+| The Contagious Curse | 3.00% | ~6,201 |
+| Beast Mode | 2.00% | ~4,134 |
+| Low Initiative | 2.00% | ~4,134 |
+| A Mysterious Summons | 2.00% | ~4,134 |
+| Building Trust | 2.00% | ~4,134 |
+| No Time To Rest | 2.00% | ~4,134 |
+| Useless Allies | 2.00% | ~4,134 |
+| Running of the Saurs | 2.00% | ~4,134 |
+| Escort to Waterdeep | 2.00% | ~4,134 |
+| Waterdeep Detours | 2.00% | ~4,134 |
+| Underdeep Cartography | 2.00% | ~4,134 |
 | Street War | 1.00% | ~2,067 |
 | March of the Undead | 1.00% | ~2,067 |
 | Invisible Shadows | 1.00% | ~2,067 |
@@ -48,11 +48,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.90% | ~1,860 |
 | Trollskull Manor | 0.90% | ~1,860 |
 | Dinosaur Racing | 0.90% | ~1,860 |
-| The Lost Heir of Omu | 0.80% | ~1,653 |
-| Attack on the Manor | 0.80% | ~1,653 |
-| The Long Haul | 0.80% | ~1,653 |
-| Lost in the Deep | 0.80% | ~1,653 |
-| Easily Distracted | 0.80% | ~1,653 |
+| The Lost Heir of Omu | 0.80% | ~1,654 |
+| Attack on the Manor | 0.80% | ~1,654 |
+| The Long Haul | 0.80% | ~1,654 |
+| Lost in the Deep | 0.80% | ~1,654 |
+| Easily Distracted | 0.80% | ~1,654 |
 | The Forbidden City | 0.70% | ~1,447 |
 | Captured! | 0.70% | ~1,447 |
 | Wisdom Check | 0.70% | ~1,447 |
@@ -127,6 +127,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.30% | ~620 |
 | A Saurial's Resolve | 0.30% | ~620 |
 | Nimblest Escape | 0.30% | ~620 |
+| Stumbling Escape | 0.30% | ~620 |
 | From The Shadows | 0.30% | ~620 |
 | Spined Nuisances | 0.30% | ~620 |
 | Elder Rune Madness | 0.30% | ~620 |
@@ -179,7 +180,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Class Vacation | 0.20% | ~413 |
 | Diversity Day-Trip | 0.20% | ~413 |
 | Late Game | 0.20% | ~413 |
-| Stumbling Escape | 0.20% | ~413 |
 | Screams of the Dead | 0.20% | ~413 |
 | Frantic Excavation | 0.20% | ~413 |
 | Bazaar Exploits | 0.20% | ~413 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,668 (Ranked 52)  
+Progressed: 206,693 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,10 +586,10 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,668 | 2,032 |
+| 2023-07-05 | 206,693 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
-Sum: 30,392 (Ranked 37)  
+Sum: 30,393 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -597,7 +597,7 @@ Diff (max vs sum): 28
 | This game is Great for Beginners | 4,936 |
 | This game has Quickly Understood Controls | 4,644 |
 | This game is Relaxing | 4,541 |
-| This game has Amazing Characters | 3,995 |
+| This game has Amazing Characters | 3,996 |
 | This game is Highly Recommended | 3,984 |
 | This game has Playful Visuals | 3,287 |
 ## Ratings History
@@ -763,4 +763,4 @@ Diff (max vs sum): 28
 | 2023-07-02 | 4.05 | - | 4,995 | 30,358 |
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
-| 2023-07-05 | 4.05 | - | 5,005 | 30,392 |
+| 2023-07-05 | 4.05 | - | 5,005 | 30,393 |

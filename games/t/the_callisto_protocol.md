@@ -22,10 +22,10 @@ Rating: 4.19 (Ranked 844)
 | Full Circle | 1.00% | ~156 |
 | Power Up | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
+| Terminated | 0.90% | ~141 |
 | If the SHU Fits... | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
 | Giving Back | 0.80% | ~125 |
-| Terminated | 0.80% | ~125 |
 | The Outer Way | 0.80% | ~125 |
 | Desperate Times | 0.80% | ~125 |
 | The Commonality | 0.70% | ~109 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,638 (Ranked 107)  
+Progressed: 15,639 (Ranked 107)  
 Completed: 63 (0.40%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 63 (0.40%) (Ranked 134)
 | 2023-07-02 | 15,614 | 62 |
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
-| 2023-07-05 | 15,638 | 63 |
+| 2023-07-05 | 15,639 | 63 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
 Sum: 364 (Ranked 319)  

@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~92,240 |
-| Incurious | 15.00% | ~92,240 |
-| Stroller | 13.00% | ~79,941 |
-| Climate Change | 13.00% | ~79,941 |
-| Advanced Hiker | 11.00% | ~67,643 |
-| Toy Train | 11.00% | ~67,643 |
-| Hiker | 10.00% | ~61,493 |
-| Mojave Courier | 5.00% | ~30,747 |
-| Voyager | 3.00% | ~18,448 |
-| Advanced Voyager | 3.00% | ~18,448 |
-| Expert Stroller | 3.00% | ~18,448 |
-| Orient Express | 3.00% | ~18,448 |
-| Saved by Nausicaä | 3.00% | ~18,448 |
+| Advanced Stroller | 15.00% | ~92,243 |
+| Incurious | 15.00% | ~92,243 |
+| Stroller | 13.00% | ~79,944 |
+| Climate Change | 13.00% | ~79,944 |
+| Advanced Hiker | 11.00% | ~67,645 |
+| Toy Train | 11.00% | ~67,645 |
+| Hiker | 10.00% | ~61,495 |
+| Mojave Courier | 5.00% | ~30,748 |
+| Voyager | 3.00% | ~18,449 |
+| Advanced Voyager | 3.00% | ~18,449 |
+| Expert Stroller | 3.00% | ~18,449 |
+| Orient Express | 3.00% | ~18,449 |
+| Saved by Nausicaä | 3.00% | ~18,449 |
 | Expert Hiker | 2.00% | ~12,299 |
 | Marathon | 2.00% | ~12,299 |
 | Destructionist | 2.00% | ~12,299 |
-| Lost | 1.00% | ~6,149 |
+| Lost | 1.00% | ~6,150 |
 | Rocketman | 0.60% | ~3,690 |
 | Shopaholic | 0.60% | ~3,690 |
 | Expert Voyager | 0.50% | ~3,075 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~615 |
 | 20 Miles under the Sea | 0.10% | ~615 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614,933 (Ranked 24)  
-Completed: 7 (0.00%) (Ranked 232)  
+Progressed: 614,953 (Ranked 24)  
+Completed: 7 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 7 (0.00%) (Ranked 232)
 | 2023-07-02 | 613,787 | 7 |
 | 2023-07-03 | 614,252 | 7 |
 | 2023-07-04 | 614,685 | 7 |
-| 2023-07-05 | 614,933 | 7 |
+| 2023-07-05 | 614,953 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,533 (Ranked 216)  

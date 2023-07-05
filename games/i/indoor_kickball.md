@@ -12,8 +12,8 @@
 | Kickball Unlocked | 68.00% | ~46 |
 | Settle Down | 68.00% | ~46 |
 | Butter Fingers | 66.00% | ~45 |
+| Stay Hydrated | 66.00% | ~45 |
 | First Win | 65.00% | ~44 |
-| Stay Hydrated | 65.00% | ~44 |
 | True Story! | 37.00% | ~25 |
 | Bedroom Secret Spot | 35.00% | ~24 |
 | Kick It | 32.00% | ~22 |
@@ -23,8 +23,8 @@
 | Save some water for the fishies | 22.00% | ~15 |
 | Classroom Secret Spot | 21.00% | ~14 |
 | Bathroom Secret Spot | 21.00% | ~14 |
+| Angry Dad | 19.00% | ~13 |
 | At least everyone still had fun | 19.00% | ~13 |
-| Angry Dad | 18.00% | ~12 |
 | Living Room Secret Spot | 16.00% | ~11 |
 | Hi Hungry, I'm Dad | 10.00% | ~7 |
 | Interference | 10.00% | ~7 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 321)  
-Completed: 0 (0.00%) (Ranked 232)  
+Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

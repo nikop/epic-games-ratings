@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.52,
   "EosHistory": [
@@ -403,6 +403,11 @@
       "Time": "2023-06-30T22:06:30.2804463+00:00",
       "NumProgressed": 263,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T16:08:27.6925951+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 19,
@@ -420,9 +425,9 @@
       "ID": "fail_ryan",
       "SetID": "6h5h9ho",
       "Name": "Picky, Picky!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "misha_date2_all",
@@ -526,7 +531,7 @@
       "Name": "The intellectual",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "success_lucas",
@@ -565,7 +570,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 4
     }
   ],
@@ -573,8 +578,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:06:34.1763432+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:08:27.6925945+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:26.4274994+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:57:38.6568038+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:06:34.1763594+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:58:20.9828081+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:08:27.69262+00:00"
 }

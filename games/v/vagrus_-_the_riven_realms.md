@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 55.00% | ~62 |
-| Press-ganged | 40.00% | ~45 |
+| Press-ganged | 41.00% | ~46 |
 | The Package | 22.00% | ~25 |
 | Randomized | 14.00% | ~16 |
 | Conquered | 14.00% | ~16 |
@@ -24,13 +24,13 @@
 | Quartermaster | 3.00% | ~3 |
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
+| Been There | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~2 |
 | Deputized | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
-| Been There | 2.00% | ~2 |
 | Spiritual Journey | 2.00% | ~2 |
 | Pilgrimage's End | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 113 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 232)  
+Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

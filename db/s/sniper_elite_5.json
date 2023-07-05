@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3209,
+  "EOS_Progressed": 3210,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -4689,6 +4689,11 @@
       "Time": "2023-07-05T15:07:10.316103+00:00",
       "NumProgressed": 3209,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-05T16:08:48.3905469+00:00",
+      "NumProgressed": 3210,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -4874,9 +4879,9 @@
       "ID": "REWARD_30_OUT_OF_SCOPE",
       "SetID": "bm6el81",
       "Name": "Out of Scope",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -4930,9 +4935,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -5267,13 +5272,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3160,
+      "Progressed": 3161,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3209,
+      "Progressed": 3210,
       "Completed": 8
     }
   ],
@@ -5281,8 +5286,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:07:10.3161024+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:08:48.3905463+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:01:14.0336936+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:07:10.3162236+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:03:16.7443025+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:08:48.3907504+00:00"
 }

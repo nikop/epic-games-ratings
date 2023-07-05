@@ -3,9 +3,9 @@
   "Name": "Outworld Patrol",
   "ProductSlug": "outworld-patrol-0a5088",
   "Ranking_EOS_Progress": 487,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2022-12-11T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-07-01T02:27:06.5749395+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:58:51.7495827+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:02:21.8513071+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:59:54.3549496+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:04:07.8784079+00:00"
 }

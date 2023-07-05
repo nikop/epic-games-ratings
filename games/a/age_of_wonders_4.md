@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 363)  
+Rating: 4.61 (Ranked 362)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,6 +10,7 @@ Rating: 4.61 (Ranked 363)
 | Realm Estate | 2.00% | ~98 |
 | A Wonderful Discovery | 2.00% | ~98 |
 | Walls Cannot Stop Us | 2.00% | ~98 |
+| Bone Peddler | 2.00% | ~98 |
 | From Friends to Family | 2.00% | ~98 |
 | Stronger Together | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
@@ -24,7 +25,6 @@ Rating: 4.61 (Ranked 363)
 | Full Ascension | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
-| Bone Peddler | 1.00% | ~49 |
 | Digging for Treasure | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | In a Liege of Your Own | 1.00% | ~49 |
@@ -57,7 +57,7 @@ Rating: 4.61 (Ranked 363)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,923 (Ranked 134)  
-Completed: 5 (0.10%) (Ranked 180)  
+Completed: 5 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

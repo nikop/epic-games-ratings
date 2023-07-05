@@ -22,10 +22,10 @@ Rating: 4.44 (Ranked 639)
 | No Stone Unturned | 0.90% | ~29 |
 | Gunslinger | 0.90% | ~29 |
 | Organ Grinder | 0.80% | ~26 |
+| Der Geist | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
-| Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Skirmisher | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
@@ -49,6 +49,7 @@ Rating: 4.44 (Ranked 639)
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
+| Out of Scope | 0.20% | ~6 |
 | From Paris with Love | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
@@ -66,7 +67,6 @@ Rating: 4.44 (Ranked 639)
 | Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
-| Out of Scope | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.44 (Ranked 639)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,209 (Ranked 145)  
+Progressed: 3,210 (Ranked 145)  
 Completed: 8 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 8 (0.25%) (Ranked 150)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
-| 2023-07-05 | 3,209 | 8 |
+| 2023-07-05 | 3,210 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

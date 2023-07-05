@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -178,9 +178,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2578,6 +2578,11 @@
       "Time": "2023-07-05T15:05:18.226476+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T16:06:55.2469745+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2675,9 +2680,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -2845,7 +2850,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -2972,7 +2977,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 0
     }
   ],
@@ -2980,8 +2985,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:05:18.2264754+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:06:55.2469739+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.1069388+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:57:41.7123346+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:05:18.226534+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:58:25.545313+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:06:55.2470749+00:00"
 }

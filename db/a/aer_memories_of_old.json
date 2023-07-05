@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,10 +374,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14465,
+  "EOS_Progressed": 14466,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 651,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 649,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
@@ -8279,6 +8279,11 @@
       "Time": "2023-07-05T15:02:17.1818306+00:00",
       "NumProgressed": 14465,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-07-05T16:04:01.578076+00:00",
+      "NumProgressed": 14466,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 20,
@@ -8330,7 +8335,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -8402,7 +8407,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "INTRO_FINISHED",
@@ -8410,7 +8415,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 10993
+      "UsersEstimate": 10994
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8442,22 +8447,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14465,
+      "Progressed": 14466,
       "Completed": 306
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:02:17.1818301+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:04:01.5780751+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:00:49.2806044+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:02:17.1819081+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:02:40.8389328+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:04:01.5781872+00:00"
 }

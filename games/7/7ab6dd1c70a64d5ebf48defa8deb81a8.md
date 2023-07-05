@@ -6,12 +6,12 @@
 | Break out | 29.00% | ~4 |
 | Find Allies | 21.00% | ~3 |
 | Tributes of Caladrias | 21.00% | ~3 |
+| Powerful Allies | 14.00% | ~2 |
 | Monsalar: Wildlands | 14.00% | ~2 |
 | Geared up | 14.00% | ~2 |
 | Fashion Victim | 14.00% | ~2 |
 | Alchemist | 14.00% | ~2 |
 | Stone collection | 14.00% | ~2 |
-| Powerful Allies | 7.00% | ~1 |
 | To battle | 7.00% | ~1 |
 | Godslayer | 7.00% | ~1 |
 | A taste of wrath | 7.00% | ~1 |
@@ -41,7 +41,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 381)  
-Completed: 0 (0.00%) (Ranked 232)  
+Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

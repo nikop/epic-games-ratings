@@ -1,33 +1,33 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 181)  
+Rating: 4.71 (Ranked 182)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~245,230 |
-| Cavalier | 25.00% | ~197,766 |
-| Fatso | 23.00% | ~181,945 |
-| Awakening | 20.00% | ~158,213 |
-| Ranger | 20.00% | ~158,213 |
-| Scrooge | 20.00% | ~158,213 |
-| Anorectic | 16.00% | ~126,570 |
-| Firestarter | 15.00% | ~118,660 |
-| Bookworm | 14.00% | ~110,749 |
-| Insomniac | 13.00% | ~102,838 |
-| Buddy | 12.00% | ~94,928 |
-| Thief | 12.00% | ~94,928 |
-| Sinner | 11.00% | ~87,017 |
-| Convict | 10.00% | ~79,106 |
-| Traveller | 10.00% | ~79,106 |
+| Blacksmith's Son | 31.00% | ~245,232 |
+| Cavalier | 25.00% | ~197,768 |
+| Fatso | 23.00% | ~181,946 |
+| Awakening | 20.00% | ~158,214 |
+| Ranger | 20.00% | ~158,214 |
+| Scrooge | 20.00% | ~158,214 |
+| Anorectic | 16.00% | ~126,571 |
+| Firestarter | 15.00% | ~118,661 |
+| Bookworm | 14.00% | ~110,750 |
+| Insomniac | 13.00% | ~102,839 |
+| Buddy | 12.00% | ~94,929 |
+| Thief | 12.00% | ~94,929 |
+| Sinner | 11.00% | ~87,018 |
+| Convict | 10.00% | ~79,107 |
+| Traveller | 10.00% | ~79,107 |
 | Haggler | 9.00% | ~71,196 |
-| McLovin | 7.00% | ~55,374 |
-| Runt | 7.00% | ~55,374 |
+| McLovin | 7.00% | ~55,375 |
+| Runt | 7.00% | ~55,375 |
 | Casanova | 6.00% | ~47,464 |
-| Bad Trip | 5.00% | ~39,553 |
-| Monk | 5.00% | ~39,553 |
-| Serial Killer | 5.00% | ~39,553 |
+| Bad Trip | 5.00% | ~39,554 |
+| Monk | 5.00% | ~39,554 |
+| Serial Killer | 5.00% | ~39,554 |
 | Bastard | 4.00% | ~31,643 |
 | Hunter | 4.00% | ~31,643 |
 | Plague Doctor | 4.00% | ~31,643 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~791 |
 | Wingman | 0.10% | ~791 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791,064 (Ranked 15)  
+Progressed: 791,071 (Ranked 15)  
 Completed: 43 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 43 (0.01%) (Ranked 220)
 | 2023-07-02 | 790,688 | 43 |
 | 2023-07-03 | 790,821 | 43 |
 | 2023-07-04 | 790,975 | 43 |
-| 2023-07-05 | 791,064 | 43 |
+| 2023-07-05 | 791,071 | 43 |
 ## Awards
 Max (Character Customization): 7,294  (Ranked 46)  
 Sum: 27,217 (Ranked 43)  

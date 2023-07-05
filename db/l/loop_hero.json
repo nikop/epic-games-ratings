@@ -6,9 +6,9 @@
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 487,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -2835,10 +2835,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 3520,
       "NumberOfAwardsMax": 414
+    },
+    {
+      "Time": "2023-07-05T16:02:18.1515154+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 3521,
+      "NumberOfAwardsMax": 414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3520,
+  "NumberOfAwards": 3521,
   "NumberOfAwardsMax": 414,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2858,7 +2864,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 402
+      "Count": 403
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2914,8 +2920,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-07-01T10:01:09.9308792+00:00",
+  "LastChanged": "2023-07-05T16:02:18.1515153+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:11.0623728+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:00:36.3614463+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:05:51.9440735+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:02:18.1515159+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:07:42.9646599+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.53 (Ranked 505)  
+Rating: 4.53 (Ranked 506)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.53 (Ranked 505)
 | Collect Gold | 45.00% | ~782 |
 | Smithy Ready to Craft | 45.00% | ~782 |
 | Fix the Travellers Wagon | 44.00% | ~764 |
-| Complete Elder Faction | 40.00% | ~695 |
+| Complete Elder Faction | 41.00% | ~712 |
 | End of the Mozis | 38.00% | ~660 |
 | Throne Room Fit For A King | 38.00% | ~660 |
 | Meet the Creatures from the Deep | 36.00% | ~625 |

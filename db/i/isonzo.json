@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -700,9 +700,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6344,
+  "EOS_Progressed": 6345,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3225,6 +3225,11 @@
       "Time": "2023-07-05T08:03:39.0668416+00:00",
       "NumProgressed": 6344,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-05T16:05:08.3126957+00:00",
+      "NumProgressed": 6345,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -3364,7 +3369,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -3404,7 +3409,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -3428,7 +3433,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -3444,7 +3449,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -3588,14 +3593,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6344,
+      "Progressed": 6345,
       "Completed": 8
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:03:36.4869262+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:05:08.3126951+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:57:44.672615+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:03:36.4869794+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:58:27.5441817+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:05:08.3127759+00:00"
 }

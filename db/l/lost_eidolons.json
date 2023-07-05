@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -170,9 +170,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1034,
+  "EOS_Progressed": 1035,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1050,6 +1050,11 @@
       "Time": "2023-07-03T23:06:02.4084494+00:00",
       "NumProgressed": 1034,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T16:08:39.0266769+00:00",
+      "NumProgressed": 1035,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -1109,7 +1114,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "08",
@@ -1125,7 +1130,7 @@
       "Name": "Awakening",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "10",
@@ -1189,7 +1194,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "18",
@@ -1197,7 +1202,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "19",
@@ -1213,7 +1218,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "21",
@@ -1229,7 +1234,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "23",
@@ -1244,7 +1249,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1034,
+      "Progressed": 1035,
       "Completed": 0
     }
   ],
@@ -1252,8 +1257,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:06:42.7577219+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:08:39.0266762+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:52.0310283+00:00",
-  "LastUpdate_Ratings": "2023-07-05T15:00:19.4855679+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:06:42.7577436+00:00"
+  "LastUpdate_Ratings": "2023-07-05T16:01:53.911992+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:08:39.0267428+00:00"
 }

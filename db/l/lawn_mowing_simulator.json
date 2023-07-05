@@ -6,9 +6,9 @@
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 23,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2053,9 +2053,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 637755,
+  "EOS_Progressed": 637773,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2998,
+  "EOS_NewPlayers": 2989,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10233,6 +10233,11 @@
       "Time": "2023-07-05T15:07:07.2751035+00:00",
       "NumProgressed": 637755,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-05T16:08:44.5099047+00:00",
+      "NumProgressed": 637773,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 54,
@@ -10244,7 +10249,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 516582
+      "UsersEstimate": 516596
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -10324,7 +10329,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25510
+      "UsersEstimate": 25511
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -10332,7 +10337,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 229592
+      "UsersEstimate": 229598
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -10484,7 +10489,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 204082
+      "UsersEstimate": 204087
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -10516,7 +10521,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 38265
+      "UsersEstimate": 38266
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -10548,7 +10553,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 95663
+      "UsersEstimate": 95666
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -10564,7 +10569,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25510
+      "UsersEstimate": 25511
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -10604,7 +10609,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 44643
+      "UsersEstimate": 44644
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -10644,7 +10649,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 114796
+      "UsersEstimate": 114799
     },
     {
       "ID": "RP_TRUSTED",
@@ -10660,7 +10665,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57398
+      "UsersEstimate": 57400
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -10668,22 +10673,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 25510
+      "UsersEstimate": 25511
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 637755,
+      "Progressed": 637773,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-06-27T02:24:18.4933063+00:00",
-  "LastChanged_Achievements": "2023-07-05T15:07:07.275103+00:00",
+  "LastChanged_Achievements": "2023-07-05T16:08:44.5099043+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:26.1282427+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:58:15.844046+00:00",
-  "LastUpdate_Achievements": "2023-07-05T15:07:07.275205+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:59:12.4684664+00:00",
+  "LastUpdate_Achievements": "2023-07-05T16:08:44.510006+00:00"
 }

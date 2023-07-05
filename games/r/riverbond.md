@@ -7,16 +7,16 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~364,948 |
-| Now You're Talking | 62.00% | ~323,239 |
-| Steel Yourself | 62.00% | ~323,239 |
-| Window Dressing | 50.00% | ~260,677 |
+| Now You're Talking | 62.00% | ~323,240 |
+| Steel Yourself | 62.00% | ~323,240 |
+| Window Dressing | 50.00% | ~260,678 |
 | Trigger Happy | 46.00% | ~239,823 |
-| Riverborn | 45.00% | ~234,609 |
-| Starry Eyed | 34.00% | ~177,260 |
-| Poking Around | 34.00% | ~177,260 |
+| Riverborn | 45.00% | ~234,610 |
+| Starry Eyed | 34.00% | ~177,261 |
+| Poking Around | 34.00% | ~177,261 |
 | Talk of the Town | 24.00% | ~125,125 |
-| AAARR! | 23.00% | ~119,911 |
-| Hello Darkness | 23.00% | ~119,911 |
+| AAARR! | 23.00% | ~119,912 |
+| Hello Darkness | 23.00% | ~119,912 |
 | Wind At Our Backs | 22.00% | ~114,698 |
 | To the Beat | 20.00% | ~104,271 |
 | Sunny Shores | 17.00% | ~88,630 |
@@ -26,8 +26,8 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~67,776 |
 | Going on an Adventure | 11.00% | ~57,349 |
 | Make Peace, Not War | 11.00% | ~57,349 |
-| Walking The Line | 10.00% | ~52,135 |
-| Not So Cute Anymore | 10.00% | ~52,135 |
+| Walking The Line | 10.00% | ~52,136 |
+| Not So Cute Anymore | 10.00% | ~52,136 |
 | Road Less Travelled | 9.00% | ~46,922 |
 | Lost and Found | 9.00% | ~46,922 |
 | Partner in Crime | 7.00% | ~36,495 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,564 |
 | Point Taken | 0.10% | ~521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,354 (Ranked 29)  
-Completed: 438 (0.08%) (Ranked 189)  
+Progressed: 521,355 (Ranked 29)  
+Completed: 438 (0.08%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,7 +140,7 @@ Completed: 438 (0.08%) (Ranked 189)
 | 2023-07-02 | 521,160 | 437 |
 | 2023-07-03 | 521,237 | 438 |
 | 2023-07-04 | 521,308 | 438 |
-| 2023-07-05 | 521,354 | 438 |
+| 2023-07-05 | 521,355 | 438 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
