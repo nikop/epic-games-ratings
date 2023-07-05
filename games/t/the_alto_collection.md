@@ -6,19 +6,19 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~7,714 |
-| Finding Your Footing | 26.00% | ~7,714 |
-| Nomad | 18.00% | ~5,341 |
-| Picking Up Speed | 17.00% | ~5,044 |
+| Rookie | 26.00% | ~7,716 |
+| Finding Your Footing | 26.00% | ~7,716 |
+| Nomad | 18.00% | ~5,342 |
+| Picking Up Speed | 17.00% | ~5,045 |
 | Welcome Maya | 15.00% | ~4,451 |
 | Sightseer | 11.00% | ~3,264 |
-| Scout | 10.00% | ~2,967 |
-| Amateur | 9.00% | ~2,670 |
-| Wanderer | 9.00% | ~2,670 |
+| Scout | 10.00% | ~2,968 |
+| Amateur | 9.00% | ~2,671 |
+| Wanderer | 9.00% | ~2,671 |
 | Enter Paz | 8.00% | ~2,374 |
 | Unlock Maya | 7.00% | ~2,077 |
-| Aviator | 6.00% | ~1,780 |
-| One With The Board | 6.00% | ~1,780 |
+| Aviator | 6.00% | ~1,781 |
+| One With The Board | 6.00% | ~1,781 |
 | My Little Friend | 5.00% | ~1,484 |
 | Voyager | 5.00% | ~1,484 |
 | Sandboarder | 4.00% | ~1,187 |
@@ -27,10 +27,10 @@ Number of Ratings: 332  (23.09.2022)
 | Traveler | 3.00% | ~890 |
 | Journeyer | 3.00% | ~890 |
 | Unlock Paz | 3.00% | ~890 |
-| Pro | 2.00% | ~593 |
-| Unlock Izel | 2.00% | ~593 |
-| Human Flight | 2.00% | ~593 |
-| Here Comes Felipe | 2.00% | ~593 |
+| Pro | 2.00% | ~594 |
+| Unlock Izel | 2.00% | ~594 |
+| Human Flight | 2.00% | ~594 |
+| Here Comes Felipe | 2.00% | ~594 |
 | Explorer | 1.00% | ~297 |
 | Hoist the Mainsail | 1.00% | ~297 |
 | Introducing Sumara | 1.00% | ~297 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~30 |
 | Windswept | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,671 (Ranked 93)  
+Progressed: 29,676 (Ranked 93)  
 Completed: 5 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 5 (0.02%) (Ranked 212)
 | 2023-07-02 | 29,343 | 5 |
 | 2023-07-03 | 29,499 | 5 |
 | 2023-07-04 | 29,634 | 5 |
-| 2023-07-05 | 29,671 | 5 |
+| 2023-07-05 | 29,676 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 409)  
 Sum: 350 (Ranked 322)  

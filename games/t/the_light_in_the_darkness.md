@@ -14,10 +14,10 @@
 | Le Juif et la France | 13.00% | ~240 |
 | Bernard | 12.00% | ~222 |
 | Jude | 12.00% | ~222 |
-| Nuremberg Laws | 11.00% | ~203 |
+| Nuremberg Laws | 11.00% | ~204 |
 | May Their Memories be a Blessing | 9.00% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 162)  
+Progressed: 1,850 (Ranked 162)  
 Completed: 157 (8.49%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 157 (8.49%) (Ranked 24)
 | 2023-07-02 | 1,821 | 154 |
 | 2023-07-03 | 1,832 | 154 |
 | 2023-07-04 | 1,842 | 154 |
-| 2023-07-05 | 1,849 | 157 |
+| 2023-07-05 | 1,850 | 157 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

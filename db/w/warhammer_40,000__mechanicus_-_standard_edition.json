@@ -519,9 +519,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216308,
+  "EOS_Progressed": 216313,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8524,6 +8524,11 @@
       "Time": "2023-07-05T08:05:08.4709891+00:00",
       "NumProgressed": 216308,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T09:05:00.8064788+00:00",
+      "NumProgressed": 216313,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -8543,7 +8548,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54077
+      "UsersEstimate": 54078
     },
     {
       "ID": "ACH_BASE_11",
@@ -8559,7 +8564,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8652
+      "UsersEstimate": 8653
     },
     {
       "ID": "ACH_BASE_13",
@@ -8567,7 +8572,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH_BASE_15",
@@ -8615,7 +8620,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12978
+      "UsersEstimate": 12979
     },
     {
       "ID": "ACH_BASE_20",
@@ -8703,7 +8708,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8652
+      "UsersEstimate": 8653
     },
     {
       "ID": "ACH_BASE_30",
@@ -8783,7 +8788,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25957
+      "UsersEstimate": 25958
     },
     {
       "ID": "ACH_BASE_8",
@@ -8791,7 +8796,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8652
+      "UsersEstimate": 8653
     },
     {
       "ID": "ACH_BASE_9",
@@ -8806,7 +8811,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216308,
+      "Progressed": 216313,
       "Completed": 4
     }
   ],
@@ -8814,8 +8819,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-03T07:58:45.3710308+00:00",
-  "LastChanged_Achievements": "2023-07-05T08:05:08.4709886+00:00",
+  "LastChanged_Achievements": "2023-07-05T09:05:00.8064782+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:10.6599938+00:00",
-  "LastUpdate_Ratings": "2023-07-05T07:58:53.4542266+00:00",
-  "LastUpdate_Achievements": "2023-07-05T08:05:08.4710741+00:00"
+  "LastUpdate_Ratings": "2023-07-05T08:58:50.3147603+00:00",
+  "LastUpdate_Achievements": "2023-07-05T09:05:00.8065539+00:00"
 }

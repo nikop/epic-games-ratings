@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,347 |
-| Right Back At Ya | 38.00% | ~328,223 |
-| The Lovers | 34.00% | ~293,674 |
-| Stanislavski's Method | 28.00% | ~241,849 |
-| The Wheel of Fortune | 26.00% | ~224,574 |
-| The Hermit | 24.00% | ~207,299 |
-| Christmas Tree Attack | 22.00% | ~190,024 |
-| True Soldier | 22.00% | ~190,024 |
-| The High Priestess | 21.00% | ~181,387 |
-| Legend of The Afterlife | 21.00% | ~181,387 |
-| Life of the Road | 20.00% | ~172,749 |
-| Full Body Conversion | 17.00% | ~146,837 |
-| The World | 17.00% | ~146,837 |
-| Bushido and Chill | 16.00% | ~138,199 |
-| Gun Fu | 14.00% | ~120,924 |
-| True Warrior | 14.00% | ~120,924 |
-| To Protect and Serve | 13.00% | ~112,287 |
-| Master Crafter | 13.00% | ~112,287 |
-| I Am The Law | 13.00% | ~112,287 |
-| Judy vs Night City | 13.00% | ~112,287 |
-| Two Heads, One Bullet | 11.00% | ~95,012 |
-| The Wandering Fool | 9.00% | ~77,737 |
-| The Quick and the Dead | 9.00% | ~77,737 |
+| The Fool | 68.00% | ~587,353 |
+| Right Back At Ya | 38.00% | ~328,227 |
+| The Lovers | 34.00% | ~293,676 |
+| Stanislavski's Method | 28.00% | ~241,851 |
+| The Wheel of Fortune | 26.00% | ~224,576 |
+| The Hermit | 24.00% | ~207,301 |
+| Christmas Tree Attack | 22.00% | ~190,026 |
+| True Soldier | 22.00% | ~190,026 |
+| The High Priestess | 21.00% | ~181,388 |
+| Legend of The Afterlife | 21.00% | ~181,388 |
+| Life of the Road | 20.00% | ~172,751 |
+| Full Body Conversion | 17.00% | ~146,838 |
+| The World | 17.00% | ~146,838 |
+| Bushido and Chill | 16.00% | ~138,201 |
+| Gun Fu | 14.00% | ~120,926 |
+| True Warrior | 14.00% | ~120,926 |
+| To Protect and Serve | 13.00% | ~112,288 |
+| Master Crafter | 13.00% | ~112,288 |
+| I Am The Law | 13.00% | ~112,288 |
+| Judy vs Night City | 13.00% | ~112,288 |
+| Two Heads, One Bullet | 11.00% | ~95,013 |
+| The Wandering Fool | 9.00% | ~77,738 |
+| The Quick and the Dead | 9.00% | ~77,738 |
 | Ten out of Ten | 8.00% | ~69,100 |
-| Breathtaking | 7.00% | ~60,462 |
+| Breathtaking | 7.00% | ~60,463 |
 | To Bad Decisions! | 6.00% | ~51,825 |
 | The Star | 6.00% | ~51,825 |
 | The Sun | 6.00% | ~51,825 |
 | Must Be Rats | 4.00% | ~34,550 |
 | Temperance | 4.00% | ~34,550 |
-| City Lights | 3.00% | ~25,912 |
-| Mean Streets | 3.00% | ~25,912 |
-| Little Tokyo | 3.00% | ~25,912 |
-| Greetings from Pacifica! | 3.00% | ~25,912 |
-| The Jungle | 3.00% | ~25,912 |
-| V for Vendetta | 3.00% | ~25,912 |
-| It's Elementary | 3.00% | ~25,912 |
+| City Lights | 3.00% | ~25,913 |
+| Mean Streets | 3.00% | ~25,913 |
+| Little Tokyo | 3.00% | ~25,913 |
+| Greetings from Pacifica! | 3.00% | ~25,913 |
+| The Jungle | 3.00% | ~25,913 |
+| V for Vendetta | 3.00% | ~25,913 |
+| It's Elementary | 3.00% | ~25,913 |
 | Autojock | 2.00% | ~17,275 |
 | Frequent Flyer | 2.00% | ~17,275 |
 | The Wasteland | 2.00% | ~17,275 |
 | Daemon In The Shell | 2.00% | ~17,275 |
 | The Devil | 2.00% | ~17,275 |
-| Gunslinger | 1.00% | ~8,637 |
+| Gunslinger | 1.00% | ~8,638 |
 | Rough Landing | 0.50% | ~4,319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 863,746 (Ranked 14)  
+Progressed: 863,754 (Ranked 14)  
 Completed: 1,832 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,10 +127,10 @@ Completed: 1,832 (0.21%) (Ranked 159)
 | 2023-07-02 | 863,181 | 1,821 |
 | 2023-07-03 | 863,436 | 1,828 |
 | 2023-07-04 | 863,691 | 1,831 |
-| 2023-07-05 | 863,746 | 1,832 |
+| 2023-07-05 | 863,754 | 1,832 |
 ## Awards
 Max (Character Customization): 72,141  (Ranked 9)  
-Sum: 188,842 (Ranked 13)  
+Sum: 188,856 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -143,7 +143,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 8,115 |
 | This game is Relaxing | 8,100 |
 | This game has Quickly Understood Controls | 7,971 |
-| This game has Amazing Characters | 7,929 |
+| This game has Amazing Characters | 7,943 |
 | This game has a Creative Community | 5,242 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -315,4 +315,4 @@ Diff (max vs sum): -4
 | 2023-07-02 | 4.62 | - | 71,925 | 188,123 |
 | 2023-07-03 | 4.62 | - | 72,030 | 188,476 |
 | 2023-07-04 | 4.62 | - | 72,141 | 188,809 |
-| 2023-07-05 | 4.62 | - | 72,141 | 188,842 |
+| 2023-07-05 | 4.62 | - | 72,141 | 188,856 |

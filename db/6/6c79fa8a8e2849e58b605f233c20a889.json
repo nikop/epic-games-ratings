@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1901,
+  "EOS_Progressed": 1902,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3241,6 +3241,11 @@
       "Time": "2023-07-05T04:05:47.1427421+00:00",
       "NumProgressed": 1901,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T09:05:01.3200168+00:00",
+      "NumProgressed": 1902,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3284,7 +3289,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -3332,7 +3337,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3427,14 +3432,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1901,
+      "Progressed": 1902,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-05T08:05:08.8979795+00:00",
+  "LastChanged_Achievements": "2023-07-05T09:05:01.3200162+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-05T07:57:29.0200504+00:00",
-  "LastUpdate_Achievements": "2023-07-05T08:05:08.898023+00:00"
+  "LastUpdate_Ratings": "2023-07-05T08:57:26.9510562+00:00",
+  "LastUpdate_Achievements": "2023-07-05T09:05:01.3200539+00:00"
 }

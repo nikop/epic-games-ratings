@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 307,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -218,6 +218,11 @@
       "Time": "2023-06-22T16:06:03.4628223+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T09:06:31.677032+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -227,7 +232,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 55,
       "UsersEstimate": 49
     },
@@ -243,7 +248,7 @@
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -315,7 +320,7 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 75,
       "UsersEstimate": 43
     },
@@ -331,7 +336,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 55,
       "UsersEstimate": 71
     },
@@ -348,7 +353,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
@@ -356,8 +361,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-07-05T08:06:35.3424094+00:00",
+  "LastChanged_Achievements": "2023-07-05T09:06:31.6770312+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:49.2153024+00:00",
-  "LastUpdate_Ratings": "2023-07-05T07:57:59.7546664+00:00",
-  "LastUpdate_Achievements": "2023-07-05T08:06:35.3424235+00:00"
+  "LastUpdate_Ratings": "2023-07-05T08:57:57.0605416+00:00",
+  "LastUpdate_Achievements": "2023-07-05T09:06:31.6770445+00:00"
 }

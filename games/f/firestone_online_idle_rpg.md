@@ -7,11 +7,11 @@ Rating: 4.07 (Ranked 898)
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,455 |
 | World Map | 79.00% | ~1,236 |
-| Temple of Eternals | 57.00% | ~891 |
+| Temple of Eternals | 57.00% | ~892 |
 | Prestigious | 53.00% | ~829 |
-| Fellowship Power | 41.00% | ~641 |
+| Fellowship Power | 41.00% | ~642 |
 | Guild Power | 25.00% | ~391 |
-| Prestigious x10 | 21.00% | ~328 |
+| Prestigious x10 | 21.00% | ~329 |
 | The game is on | 20.00% | ~313 |
 | Exotic Merchant | 17.00% | ~266 |
 | Dragon Clicker | 16.00% | ~250 |
@@ -39,9 +39,9 @@ Rating: 4.07 (Ranked 898)
 | Scroll Master | 9.00% | ~141 |
 | The power of Awakening | 9.00% | ~141 |
 | Four Leaf Clover | 8.00% | ~125 |
-| Here We Go Again | 7.00% | ~109 |
-| Master Enchanter | 7.00% | ~109 |
-| The father of Dragons | 7.00% | ~109 |
+| Here We Go Again | 7.00% | ~110 |
+| Master Enchanter | 7.00% | ~110 |
+| The father of Dragons | 7.00% | ~110 |
 | Enchanting skill | 6.00% | ~94 |
 | How Do You Turn This On? | 6.00% | ~94 |
 | The Expeditioner | 6.00% | ~94 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 898)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,564 (Ranked 168)  
+Progressed: 1,565 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-07-02 | 1,550 | 1 |
 | 2023-07-03 | 1,559 | 1 |
 | 2023-07-04 | 1,564 | 1 |
+| 2023-07-05 | 1,565 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

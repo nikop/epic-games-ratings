@@ -14,6 +14,7 @@ Rating: 4.61 (Ranked 362)
 | Stronger Together | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
+| Seat of Power | 2.00% | ~98 |
 | Impenetrable Fortress | 2.00% | ~98 |
 | Intimidation Tactics | 2.00% | ~98 |
 | Here be Dragons | 2.00% | ~98 |
@@ -25,7 +26,6 @@ Rating: 4.61 (Ranked 362)
 | Arch Mage | 1.00% | ~49 |
 | Bone Peddler | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
-| Seat of Power | 1.00% | ~49 |
 | In a Liege of Your Own | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |

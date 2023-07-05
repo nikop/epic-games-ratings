@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,970 |
-| The Mad Wizard | 11.00% | ~22,711 |
-| Are Ya Chicken? | 7.00% | ~14,453 |
-| The Ring of Regeneration | 6.00% | ~12,388 |
-| Were-verpowered | 5.00% | ~10,323 |
-| Mad Cow Disease | 5.00% | ~10,323 |
-| Friendly Imps | 5.00% | ~10,323 |
-| A Persistent Buzzing | 4.00% | ~8,259 |
-| Seeking Allies | 4.00% | ~8,259 |
-| Pure Energy | 4.00% | ~8,259 |
-| Terror in the Dark | 3.00% | ~6,194 |
-| Unearthed Evil | 3.00% | ~6,194 |
-| The Crumbling Temple | 3.00% | ~6,194 |
-| The Contagious Curse | 3.00% | ~6,194 |
-| Beast Mode | 2.00% | ~4,129 |
-| Low Initiative | 2.00% | ~4,129 |
-| A Mysterious Summons | 2.00% | ~4,129 |
-| Building Trust | 2.00% | ~4,129 |
-| Useless Allies | 2.00% | ~4,129 |
-| Exploring Port Nyanzaru | 2.00% | ~4,129 |
-| Running of the Saurs | 2.00% | ~4,129 |
-| Escort to Waterdeep | 2.00% | ~4,129 |
-| Waterdeep Detours | 2.00% | ~4,129 |
-| Underdeep Cartography | 2.00% | ~4,129 |
+| The Cursed Farmer | 15.00% | ~30,973 |
+| The Mad Wizard | 11.00% | ~22,714 |
+| Are Ya Chicken? | 7.00% | ~14,454 |
+| The Ring of Regeneration | 6.00% | ~12,389 |
+| Were-verpowered | 5.00% | ~10,324 |
+| Mad Cow Disease | 5.00% | ~10,324 |
+| Friendly Imps | 5.00% | ~10,324 |
+| A Persistent Buzzing | 4.00% | ~8,260 |
+| Seeking Allies | 4.00% | ~8,260 |
+| Pure Energy | 4.00% | ~8,260 |
+| Terror in the Dark | 3.00% | ~6,195 |
+| Unearthed Evil | 3.00% | ~6,195 |
+| The Crumbling Temple | 3.00% | ~6,195 |
+| The Contagious Curse | 3.00% | ~6,195 |
+| Beast Mode | 2.00% | ~4,130 |
+| Low Initiative | 2.00% | ~4,130 |
+| A Mysterious Summons | 2.00% | ~4,130 |
+| Building Trust | 2.00% | ~4,130 |
+| Useless Allies | 2.00% | ~4,130 |
+| Exploring Port Nyanzaru | 2.00% | ~4,130 |
+| Running of the Saurs | 2.00% | ~4,130 |
+| Escort to Waterdeep | 2.00% | ~4,130 |
+| Waterdeep Detours | 2.00% | ~4,130 |
+| Underdeep Cartography | 2.00% | ~4,130 |
 | Street War | 1.00% | ~2,065 |
 | March of the Undead | 1.00% | ~2,065 |
 | No Time To Rest | 1.00% | ~2,065 |
@@ -69,7 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,239 |
 | The Darkness Runs Deeper | 0.60% | ~1,239 |
 | Market Fluctuations | 0.60% | ~1,239 |
-| The Giant's Bane Tavern | 0.60% | ~1,036 |
+| The Giant's Bane Tavern | 0.60% | ~1,037 |
 | Rude Welcome | 0.60% | ~1,239 |
 | Durable Deep | 0.60% | ~1,239 |
 | The Haunted Jungle | 0.60% | ~1,239 |
@@ -84,6 +84,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lair of the Xanathar | 0.50% | ~1,032 |
 | Waterdeep Under Siege | 0.50% | ~1,032 |
 | Difficult Terrain | 0.50% | ~1,032 |
+| Elturel Has Fallen | 0.50% | ~1,032 |
 | The Everlasting Rime | 0.50% | ~864 |
 | Expert Opinion | 0.50% | ~1,032 |
 | Lobsterfolk Assault | 0.40% | ~826 |
@@ -104,7 +105,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.40% | ~826 |
 | Vault of Dragons | 0.40% | ~826 |
 | Champions of Waterdeep | 0.40% | ~826 |
-| Elturel Has Fallen | 0.40% | ~826 |
 | Resolve Amongst Chaos | 0.40% | ~826 |
 | Once More Into The Breach | 0.40% | ~826 |
 | Wyllowwood | 0.40% | ~826 |
@@ -151,18 +151,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.30% | ~518 |
 | The Radiant Nightmare | 0.30% | ~518 |
 | Overwhelming Force | 0.30% | ~619 |
-| The Castle of a Thousand Vecnas | 0.20% | ~345 |
+| The Castle of a Thousand Vecnas | 0.20% | ~346 |
 | Struggling Toward Omu | 0.20% | ~413 |
 | Wagon Train | 0.20% | ~413 |
 | Taking Responsibility | 0.20% | ~413 |
 | No Good at All | 0.20% | ~413 |
 | Never Split the Party | 0.20% | ~413 |
-| Snakes on our Plane | 0.20% | ~345 |
+| Snakes on our Plane | 0.20% | ~346 |
 | The Soulmonger Calls | 0.20% | ~413 |
 | Haunted Fortunes | 0.20% | ~413 |
 | Poor Fortune | 0.20% | ~413 |
 | Relentless Misfortune | 0.20% | ~413 |
-| This Quest Stinks! | 0.20% | ~345 |
+| This Quest Stinks! | 0.20% | ~346 |
 | Form Ranks | 0.20% | ~413 |
 | They Who Smelt It | 0.20% | ~413 |
 | Only the Strong Survive | 0.20% | ~413 |
@@ -170,7 +170,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~413 |
 | Visions of Strahd | 0.20% | ~413 |
 | Seeds of Corruption | 0.20% | ~413 |
-| Home Not So Alone | 0.20% | ~345 |
+| Home Not So Alone | 0.20% | ~346 |
 | Think Your Way Out Of It | 0.20% | ~413 |
 | Air's Getting Pretty Thin | 0.20% | ~413 |
 | The Killer Mists | 0.20% | ~413 |
@@ -204,43 +204,43 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Goblin Halls | 0.20% | ~413 |
 | The Twilight Grove | 0.20% | ~413 |
 | Everything is Awful | 0.20% | ~413 |
-| Earthquake! | 0.20% | ~345 |
+| Earthquake! | 0.20% | ~346 |
 | All You Know Is Wrong | 0.20% | ~413 |
-| Shadow Stalkers | 0.20% | ~345 |
+| Shadow Stalkers | 0.20% | ~346 |
 | Displaced Anger | 0.20% | ~413 |
-| Ettercap Swarm | 0.20% | ~345 |
+| Ettercap Swarm | 0.20% | ~346 |
 | Relay Race | 0.20% | ~413 |
-| An Illithid Ambush | 0.20% | ~345 |
-| A Difficult Descent | 0.20% | ~345 |
-| Dream Gauntlet | 0.20% | ~345 |
-| Zombie Dreams | 0.20% | ~345 |
-| The Path of Redcaps | 0.20% | ~345 |
-| Elder Rune Attack | 0.20% | ~345 |
-| The Gargoyle | 0.20% | ~345 |
-| Madcap Adventures Redux | 0.20% | ~345 |
-| Raggadragga's Crew | 0.20% | ~345 |
-| Into the Unknown | 0.20% | ~345 |
-| The Prison of Velkynvelve | 0.20% | ~345 |
-| Rime Bandits | 0.20% | ~345 |
-| Giant-Size Adventure | 0.20% | ~345 |
-| Enemy Summit | 0.20% | ~345 |
-| An Awakened Axe | 0.20% | ~345 |
-| Wrecked Flying Fortress | 0.20% | ~345 |
-| The Bleeding Citadel | 0.20% | ~345 |
-| Idyllglen | 0.20% | ~345 |
-| Waiting on Sunrise | 0.20% | ~345 |
-| Deekin's Mission | 0.20% | ~345 |
-| Frozen Vengeance | 0.20% | ~345 |
-| The Battle of High Hall Tower | 0.20% | ~345 |
-| Elturel's Last Stand | 0.20% | ~345 |
-| Lost in the Underdark | 0.20% | ~345 |
-| Leemooggoogoon Rises | 0.20% | ~345 |
-| Ending the Rime - Part 1 | 0.20% | ~345 |
-| Ending the Rime - Part 2 | 0.20% | ~345 |
-| Reghed Glacier Mysteries | 0.20% | ~345 |
-| Tekeli-li's Hunt | 0.20% | ~345 |
-| The Rite of the Arcane Octad | 0.20% | ~345 |
-| The Netherese Necropolis | 0.20% | ~345 |
+| An Illithid Ambush | 0.20% | ~346 |
+| A Difficult Descent | 0.20% | ~346 |
+| Dream Gauntlet | 0.20% | ~346 |
+| Zombie Dreams | 0.20% | ~346 |
+| The Path of Redcaps | 0.20% | ~346 |
+| Elder Rune Attack | 0.20% | ~346 |
+| The Gargoyle | 0.20% | ~346 |
+| Madcap Adventures Redux | 0.20% | ~346 |
+| Raggadragga's Crew | 0.20% | ~346 |
+| Into the Unknown | 0.20% | ~346 |
+| The Prison of Velkynvelve | 0.20% | ~346 |
+| Rime Bandits | 0.20% | ~346 |
+| Giant-Size Adventure | 0.20% | ~346 |
+| Enemy Summit | 0.20% | ~346 |
+| An Awakened Axe | 0.20% | ~346 |
+| Wrecked Flying Fortress | 0.20% | ~346 |
+| The Bleeding Citadel | 0.20% | ~346 |
+| Idyllglen | 0.20% | ~346 |
+| Waiting on Sunrise | 0.20% | ~346 |
+| Deekin's Mission | 0.20% | ~346 |
+| Frozen Vengeance | 0.20% | ~346 |
+| The Battle of High Hall Tower | 0.20% | ~346 |
+| Elturel's Last Stand | 0.20% | ~346 |
+| Lost in the Underdark | 0.20% | ~346 |
+| Leemooggoogoon Rises | 0.20% | ~346 |
+| Ending the Rime - Part 1 | 0.20% | ~346 |
+| Ending the Rime - Part 2 | 0.20% | ~346 |
+| Reghed Glacier Mysteries | 0.20% | ~346 |
+| Tekeli-li's Hunt | 0.20% | ~346 |
+| The Rite of the Arcane Octad | 0.20% | ~346 |
+| The Netherese Necropolis | 0.20% | ~346 |
 | Frail Doesn't Mean Broken | 0.10% | ~173 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~173 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~173 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,466 (Ranked 52)  
-Completed: 2,029 (0.98%) (Ranked 101)  
+Progressed: 206,489 (Ranked 52)  
+Completed: 2,030 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -586,7 +586,7 @@ Completed: 2,029 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,466 | 2,029 |
+| 2023-07-05 | 206,489 | 2,030 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

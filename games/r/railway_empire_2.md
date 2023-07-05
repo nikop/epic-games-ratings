@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 673)
 | Engineer | 2.00% | ~29 |
 | Accurate | 2.00% | ~29 |
 | Together we stand | 0.50% | ~7 |
-| European Union | 0.30% | ~4 |
+| European Union | 0.40% | ~6 |
 | United States | 0.30% | ~4 |
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
