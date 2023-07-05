@@ -8858,18 +8858,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 400344,
       "NumberOfAwardsMax": 156361
+    },
+    {
+      "Time": "2023-07-05T06:59:50.6840512+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 400648,
+      "NumberOfAwardsMax": 156631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 400344,
-  "NumberOfAwardsMax": 156361,
+  "NumberOfAwards": 400648,
+  "NumberOfAwardsMax": 156631,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 156361
+      "Count": 156631
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8923,7 +8929,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 15497
+      "Count": 15531
     },
     {
       "Text": "This game is Relaxing",
@@ -8961,8 +8967,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-07-05T06:00:12.3330271+00:00",
+  "LastChanged": "2023-07-05T06:59:50.6840511+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:01.0179813+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:00:12.3330279+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:04:24.2624313+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:59:50.6840517+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:04:17.7551916+00:00"
 }

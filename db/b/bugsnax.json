@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -683,9 +683,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 27858,
+  "EOS_Progressed": 27859,
   "EOS_Completed": 1300,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 4.67,
   "EosHistory": [
@@ -3063,6 +3063,11 @@
       "Time": "2023-07-05T00:04:35.0265912+00:00",
       "NumProgressed": 27858,
       "NumCompleted": 1300
+    },
+    {
+      "Time": "2023-07-05T07:05:07.8497339+00:00",
+      "NumProgressed": 27859,
+      "NumCompleted": 1300
     }
   ],
   "TotalAchievements": 30,
@@ -3074,7 +3079,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -3082,7 +3087,7 @@
       "Name": "Feeding Frenzy",
       "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_ALL_VIDS",
@@ -3114,7 +3119,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -3130,7 +3135,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18386
+      "UsersEstimate": 18387
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -3162,7 +3167,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16436
+      "UsersEstimate": 16437
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -3170,7 +3175,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27022
+      "UsersEstimate": 27023
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -3178,7 +3183,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19222
+      "UsersEstimate": 19223
     },
     {
       "ID": "ACH_GOLEM",
@@ -3186,7 +3191,7 @@
       "Name": "Candid Cryptid",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 9750
+      "UsersEstimate": 9751
     },
     {
       "ID": "ACH_HATS",
@@ -3194,7 +3199,7 @@
       "Name": "Dapper Capper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_HOME",
@@ -3210,7 +3215,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 16993
+      "UsersEstimate": 16994
     },
     {
       "ID": "ACH_LAUNCH",
@@ -3218,7 +3223,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15600
+      "UsersEstimate": 15601
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -3226,7 +3231,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 14486
+      "UsersEstimate": 14487
     },
     {
       "ID": "ACH_PUZZLE",
@@ -3242,7 +3247,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16436
+      "UsersEstimate": 16437
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -3250,7 +3255,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11143
+      "UsersEstimate": 11144
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -3258,7 +3263,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -3266,7 +3271,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 25908
+      "UsersEstimate": 25909
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -3274,7 +3279,7 @@
       "Name": "Perf Dirt",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 15600
+      "UsersEstimate": 15601
     },
     {
       "ID": "ACH_SUNDAE",
@@ -3306,22 +3311,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24236
+      "UsersEstimate": 24237
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 27858,
+      "Progressed": 27859,
       "Completed": 1300
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-06-30T16:01:06.9370828+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:05:18.3610281+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:05:07.8497334+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:07.4022582+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:01:07.0848376+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:05:18.3610568+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:00:42.9521705+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:05:07.8497727+00:00"
 }

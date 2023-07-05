@@ -6,22 +6,22 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~389,428 |
-| Hey! That's mine! | 78.00% | ~375,004 |
-| Happy Returns | 77.00% | ~370,197 |
+| First Blood | 81.00% | ~389,429 |
+| Hey! That's mine! | 78.00% | ~375,005 |
+| Happy Returns | 77.00% | ~370,198 |
 | Field Promotion | 74.00% | ~355,774 |
-| Leadhead | 71.00% | ~341,350 |
-| Eradicator | 67.00% | ~322,119 |
+| Leadhead | 71.00% | ~341,351 |
+| Eradicator | 67.00% | ~322,120 |
 | Surplus | 65.00% | ~312,504 |
-| I Spy | 64.00% | ~307,696 |
-| Burn Baby Burn | 59.00% | ~283,657 |
-| Yellow Beats Green | 55.00% | ~264,426 |
+| I Spy | 64.00% | ~307,697 |
+| Burn Baby Burn | 59.00% | ~283,658 |
+| Yellow Beats Green | 55.00% | ~264,427 |
 | Salvage Rights | 53.00% | ~254,811 |
 | Pew Pew | 50.00% | ~240,388 |
 | What IS that? | 50.00% | ~240,388 |
 | Close Call | 49.00% | ~235,580 |
 | Penny Pincher | 49.00% | ~235,580 |
-| Arsenal | 46.00% | ~221,156 |
+| Arsenal | 46.00% | ~221,157 |
 | Boot Camp | 45.00% | ~216,349 |
 | Flawless Victory | 42.00% | ~201,926 |
 | Confident | 40.00% | ~192,310 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Sharpshooter | 33.00% | ~158,656 |
 | Great Ball of Fire | 32.00% | ~153,848 |
 | Not So Fast | 32.00% | ~153,848 |
-| No Sale | 30.00% | ~144,232 |
+| No Sale | 30.00% | ~144,233 |
 | Kaboom! | 29.00% | ~139,425 |
 | Liquidator | 29.00% | ~139,425 |
 | High Voltage | 24.00% | ~115,386 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Overseer | 9.00% | ~43,270 |
 | Annihilator | 8.00% | ~38,462 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~38,462 |
-| Indecisive | 6.00% | ~28,846 |
+| Indecisive | 6.00% | ~28,847 |
 | Base Defender | 5.00% | ~24,039 |
 | Relay Race | 5.00% | ~24,039 |
 | Diversity | 3.00% | ~14,423 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~481 |
 | You Monster | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,775 (Ranked 32)  
+Progressed: 480,776 (Ranked 32)  
 Completed: 4 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 4 (0.00%) (Ranked 232)
 | 2023-07-02 | 480,618 | 4 |
 | 2023-07-03 | 480,685 | 4 |
 | 2023-07-04 | 480,762 | 4 |
-| 2023-07-05 | 480,775 | 4 |
+| 2023-07-05 | 480,776 | 4 |
 ## Awards
 Max (Great for Beginners): 236  (Ranked 250)  
 Sum: 1,659 (Ranked 210)  

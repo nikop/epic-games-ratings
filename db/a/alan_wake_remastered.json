@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56840,
+  "EOS_Progressed": 56841,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6982,6 +6982,11 @@
       "Time": "2023-07-05T06:03:09.3159793+00:00",
       "NumProgressed": 56840,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T07:03:19.0701674+00:00",
+      "NumProgressed": 56841,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6993,7 +6998,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18757
+      "UsersEstimate": 18758
     },
     {
       "ID": "02",
@@ -7001,7 +7006,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11936
+      "UsersEstimate": 11937
     },
     {
       "ID": "03",
@@ -7057,7 +7062,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "10",
@@ -7161,7 +7166,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "23",
@@ -7209,7 +7214,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "29",
@@ -7241,7 +7246,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "33",
@@ -7401,7 +7406,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "53",
@@ -7528,21 +7533,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56840,
+      "Progressed": 56841,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20308,
+      "Progressed": 20309,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:03:09.3159786+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:03:19.070167+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:58:23.0906054+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:03:09.3160721+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:58:13.8952005+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:03:19.0702886+00:00"
 }

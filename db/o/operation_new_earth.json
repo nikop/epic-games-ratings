@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-07-05T00:04:21.8619527+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T07:04:54.6126897+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1151,9 +1156,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1215,9 +1220,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "objective_headquarters_15",
@@ -1239,9 +1244,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1249,7 +1254,7 @@
       "Name": "Corporal",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1295,9 +1300,9 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -1313,7 +1318,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1335,9 +1340,9 @@
       "ID": "objective_key_drone_missions_completed_3",
       "SetID": "bm61c2p",
       "Name": "Seek \u0026 Destroy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1440,14 +1445,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:05:04.0957655+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:04:54.612689+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:01:47.0512609+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:05:04.0957917+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:01:18.9430033+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:04:54.6127464+00:00"
 }

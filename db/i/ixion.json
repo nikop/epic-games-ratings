@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2771,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3307,6 +3307,11 @@
       "Time": "2023-07-04T21:03:51.8554404+00:00",
       "NumProgressed": 2771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T07:04:06.6449031+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -3318,7 +3323,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_BASE_10",
@@ -3773,13 +3778,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2771,
+      "Progressed": 2772,
       "Completed": 0
     }
   ],
@@ -3787,8 +3792,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-06-20T16:59:32.1537088+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:04:11.6616894+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:04:06.6449027+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:09.917837+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:59:23.4931723+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:04:11.6617495+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:59:08.4355313+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:04:06.6449799+00:00"
 }

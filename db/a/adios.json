@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64698,
+  "EOS_Progressed": 64703,
   "EOS_Completed": 603,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -8197,6 +8197,11 @@
       "Time": "2023-07-05T06:07:25.5447945+00:00",
       "NumProgressed": 64698,
       "NumCompleted": 603
+    },
+    {
+      "Time": "2023-07-05T07:07:03.2107925+00:00",
+      "NumProgressed": 64703,
+      "NumCompleted": 603
     }
   ],
   "TotalAchievements": 25,
@@ -8224,7 +8229,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 11646
+      "UsersEstimate": 11647
     },
     {
       "ID": "Audiophile",
@@ -8240,7 +8245,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 14234
+      "UsersEstimate": 14235
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -8248,7 +8253,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 11646
+      "UsersEstimate": 11647
     },
     {
       "ID": "Butcher",
@@ -8280,7 +8285,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "Hearty",
@@ -8312,7 +8317,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "Meaty",
@@ -8328,7 +8333,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12293
+      "UsersEstimate": 12294
     },
     {
       "ID": "Nice Try",
@@ -8407,7 +8412,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 64698,
+      "Progressed": 64703,
       "Completed": 603
     }
   ],
@@ -8415,8 +8420,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-06-28T22:00:50.6722945+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:07:25.5447941+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:07:03.210792+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:01.0402272+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:01:51.6082368+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:07:25.5448442+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:01:26.2976123+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:07:03.210869+00:00"
 }

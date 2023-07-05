@@ -58,10 +58,10 @@ Rating: 4.89 (Ranked 12)
 | I saw all those hits coming a measure away! | 0.90% | ~31 |
 | This was... not what I expected. | 0.70% | ~24 |
 | I think that's enough health for now | 0.60% | ~20 |
+| I have to read ALL of these things? | 0.60% | ~20 |
 | My Ultimate Setlist | 0.60% | ~20 |
 | Have we met before? | 0.60% | ~20 |
 | OK, I THINK I know what I'm doing now | 0.60% | ~20 |
-| I have to read ALL of these things? | 0.50% | ~17 |
 | I'm untouchable! | 0.50% | ~17 |
 | Didn't skip a beat! | 0.30% | ~10 |
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |

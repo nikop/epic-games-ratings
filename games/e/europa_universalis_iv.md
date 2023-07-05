@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,899 |
+| Until death do us apart | 9.00% | ~5,900 |
 | That's a Grand Army | 8.00% | ~5,244 |
 | That is mine! | 8.00% | ~5,244 |
 | Victorious! | 8.00% | ~5,244 |
 | Brothers in Arms | 6.00% | ~3,933 |
 | That's a Grand Navy | 6.00% | ~3,933 |
 | Seriously?! | 6.00% | ~3,933 |
-| For the Glory | 5.00% | ~3,277 |
+| For the Glory | 5.00% | ~3,278 |
 | Cold War | 4.00% | ~2,622 |
 | True Catholic | 4.00% | ~2,622 |
-| Defender of the Faith | 3.00% | ~1,966 |
-| It's all about the money | 3.00% | ~1,966 |
-| Respected | 3.00% | ~1,966 |
-| The Princess is in this Castle | 3.00% | ~1,966 |
-| Truly Divine Ruler | 3.00% | ~1,966 |
+| Defender of the Faith | 3.00% | ~1,967 |
+| It's all about the money | 3.00% | ~1,967 |
+| Respected | 3.00% | ~1,967 |
+| The Princess is in this Castle | 3.00% | ~1,967 |
+| Truly Divine Ruler | 3.00% | ~1,967 |
 | Agressive Expander | 2.00% | ~1,311 |
 | Blockader | 2.00% | ~1,311 |
 | Combined Arms | 2.00% | ~1,311 |
@@ -31,15 +31,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 2.00% | ~1,311 |
 | Royal Authority | 2.00% | ~1,311 |
 | Total Control | 2.00% | ~1,311 |
-| All That's Thine Shall Be Mine | 1.00% | ~655 |
-| Azur semé de lis or | 1.00% | ~655 |
-| Bright Spark | 1.00% | ~655 |
-| City of Cities | 1.00% | ~655 |
-| The Emperors new clothes | 1.00% | ~655 |
-| Factionalism | 1.00% | ~655 |
-| A Golden Empire | 1.00% | ~655 |
-| The Five Colonies | 1.00% | ~655 |
-| This navy can take it all | 1.00% | ~655 |
+| All That's Thine Shall Be Mine | 1.00% | ~656 |
+| Azur semé de lis or | 1.00% | ~656 |
+| Bright Spark | 1.00% | ~656 |
+| City of Cities | 1.00% | ~656 |
+| The Emperors new clothes | 1.00% | ~656 |
+| Factionalism | 1.00% | ~656 |
+| A Golden Empire | 1.00% | ~656 |
+| The Five Colonies | 1.00% | ~656 |
+| This navy can take it all | 1.00% | ~656 |
 | Isn't this the way to India? | 0.90% | ~590 |
 | Market Control | 0.90% | ~590 |
 | Down Under | 0.80% | ~524 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,547 (Ranked 75)  
+Progressed: 65,555 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
-| 2023-07-05 | 65,547 | 0 |
+| 2023-07-05 | 65,555 | 0 |
 ## Awards
 Max (Educational): 5,503  (Ranked 61)  
 Sum: 45,392 (Ranked 27)  

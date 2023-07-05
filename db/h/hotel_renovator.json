@@ -1025,9 +1025,9 @@
       "ID": "ACH_POWER_OUTRAGE_FIXED",
       "SetID": "7k95e4n",
       "Name": "Let there be light",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -1114,8 +1114,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-06-25T18:57:43.4817761+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:03:27.093408+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:03:35.0305199+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.3314421+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:57:39.9018276+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:03:27.0934248+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:57:35.9649719+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:03:35.0305457+00:00"
 }

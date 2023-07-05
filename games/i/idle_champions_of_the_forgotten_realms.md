@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,965 |
-| The Mad Wizard | 11.00% | ~22,708 |
-| Are Ya Chicken? | 7.00% | ~14,450 |
-| The Ring of Regeneration | 6.00% | ~12,386 |
+| The Cursed Farmer | 15.00% | ~30,967 |
+| The Mad Wizard | 11.00% | ~22,709 |
+| Are Ya Chicken? | 7.00% | ~14,451 |
+| The Ring of Regeneration | 6.00% | ~12,387 |
 | Were-verpowered | 5.00% | ~10,322 |
 | Mad Cow Disease | 5.00% | ~10,322 |
 | Friendly Imps | 5.00% | ~10,322 |
-| A Persistent Buzzing | 4.00% | ~8,257 |
-| Seeking Allies | 4.00% | ~8,257 |
-| Pure Energy | 4.00% | ~8,257 |
+| A Persistent Buzzing | 4.00% | ~8,258 |
+| Seeking Allies | 4.00% | ~8,258 |
+| Pure Energy | 4.00% | ~8,258 |
 | Terror in the Dark | 3.00% | ~6,193 |
 | Unearthed Evil | 3.00% | ~6,193 |
 | The Crumbling Temple | 3.00% | ~6,193 |
@@ -48,11 +48,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.90% | ~1,858 |
 | Trollskull Manor | 0.90% | ~1,858 |
 | Dinosaur Racing | 0.90% | ~1,858 |
-| The Lost Heir of Omu | 0.80% | ~1,651 |
-| Attack on the Manor | 0.80% | ~1,651 |
-| The Long Haul | 0.80% | ~1,651 |
-| Lost in the Deep | 0.80% | ~1,651 |
-| Easily Distracted | 0.80% | ~1,651 |
+| The Lost Heir of Omu | 0.80% | ~1,652 |
+| Attack on the Manor | 0.80% | ~1,652 |
+| The Long Haul | 0.80% | ~1,652 |
+| Lost in the Deep | 0.80% | ~1,652 |
+| Easily Distracted | 0.80% | ~1,652 |
 | The Forbidden City | 0.70% | ~1,445 |
 | Captured! | 0.70% | ~1,445 |
 | Wisdom Check | 0.70% | ~1,445 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,432 (Ranked 52)  
+Progressed: 206,445 (Ranked 52)  
 Completed: 2,028 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,028 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,432 | 2,028 |
+| 2023-07-05 | 206,445 | 2,028 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

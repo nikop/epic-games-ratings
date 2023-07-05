@@ -9,6 +9,7 @@
 | Summer Day | 58.00% | ~7 |
 | Risky Rescue | 58.00% | ~7 |
 | Grand Re-Opening | 50.00% | ~6 |
+| Animal Sighting | 42.00% | ~5 |
 | Paw patrol member | 42.00% | ~5 |
 | Carlos Is Tangled | 42.00% | ~5 |
 | Robot Out of Control | 42.00% | ~5 |
@@ -17,7 +18,6 @@
 | Master of the Rope | 33.00% | ~4 |
 | Training Day | 33.00% | ~4 |
 | The Fastest | 33.00% | ~4 |
-| Animal Sighting | 33.00% | ~4 |
 | Mandy Family | 33.00% | ~4 |
 | In the Air | 25.00% | ~3 |
 | Never Miss | 25.00% | ~3 |

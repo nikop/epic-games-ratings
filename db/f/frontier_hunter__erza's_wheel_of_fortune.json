@@ -503,9 +503,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "7pimpda",
       "Name": "Silver Moon Wolf King Challenge",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-07-05T06:07:29.3670327+00:00",
+  "LastChanged_Achievements": "2023-07-05T07:07:07.3494597+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:52.1740949+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:00:56.7964659+00:00",
-  "LastUpdate_Achievements": "2023-07-05T06:07:29.3670684+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:00:34.0035502+00:00",
+  "LastUpdate_Achievements": "2023-07-05T07:07:07.3494989+00:00"
 }
