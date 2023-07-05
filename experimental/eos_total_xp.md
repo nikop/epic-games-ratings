@@ -232,6 +232,7 @@
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
 | [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |
+| [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
 | [Hotel Renovator](../games/h/hotel_renovator.md) | 27 | 1,000 |
 | [House Flipper](../games/h/house_flipper.md) | 23 | 1,000 |
 | [House In The Hollow](../games/h/house_in_the_hollow.md) | 19 | 1,000 |

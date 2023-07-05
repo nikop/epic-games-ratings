@@ -171,6 +171,7 @@
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
+| [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
 | [Midnight Ghost Hunt](../games/9/964f58c4c2074404bf9c359483ab1a48.md) | 42 | 1,000 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |

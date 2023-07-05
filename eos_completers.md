@@ -36,7 +36,7 @@
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.56% |
 | 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.41% |
 | 36 | [Without Escape](games/w/without_escape.md) | 5.26% |
-| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.12% |
+| 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
@@ -56,9 +56,9 @@
 | 53 | [The Complex](games/t/the_complex.md) | 3.12% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
-| 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
-| 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.91% |
+| 57 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.95% |
+| 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
+| 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.87% |
 | 61 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 62 | [The Bunker](games/t/the_bunker.md) | 2.78% |
@@ -484,4 +484,4 @@
 | 232 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 232 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 232 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,876 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,877 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
