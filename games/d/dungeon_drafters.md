@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 42.00% | ~21 |
-| Might be useful… | 42.00% | ~21 |
+| Treasure Hunting | 44.00% | ~22 |
+| Might be useful… | 44.00% | ~22 |
 | Friend! | 36.00% | ~18 |
 | Uncut Gem | 36.00% | ~18 |
 | Shine! | 32.00% | ~16 |
 | Setting Off | 30.00% | ~15 |
-| Clear as Water | 26.00% | ~13 |
+| Clear as Water | 28.00% | ~14 |
 | Riddlesolver | 24.00% | ~12 |
 | Card Collector | 24.00% | ~12 |
 | Dungeon Mastery | 18.00% | ~9 |

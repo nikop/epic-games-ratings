@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -2878,9 +2878,9 @@
       "ID": "NEW_ACHIEVEMENT_PLUMBER",
       "SetID": "l546gc",
       "Name": "Plumber",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -2975,8 +2975,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-07-05T12:06:13.1763588+00:00",
+  "LastChanged_Achievements": "2023-07-05T13:25:06.2576759+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.1069388+00:00",
-  "LastUpdate_Ratings": "2023-07-05T11:57:59.4710825+00:00",
-  "LastUpdate_Achievements": "2023-07-05T12:06:13.1764135+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:17:18.9372757+00:00",
+  "LastUpdate_Achievements": "2023-07-05T13:25:06.2577796+00:00"
 }

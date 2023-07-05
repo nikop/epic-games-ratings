@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1566,
+  "EOS_Progressed": 1567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3822,6 +3822,11 @@
       "Time": "2023-07-05T11:06:37.7895932+00:00",
       "NumProgressed": 1566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T13:26:40.1409666+00:00",
+      "NumProgressed": 1567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4225,7 +4230,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "prestigiousx10",
@@ -4393,7 +4398,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "warmachinesarmy",
@@ -4425,14 +4430,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1566,
+      "Progressed": 1567,
       "Completed": 1
     }
   ],
@@ -4440,8 +4445,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-05T12:08:14.2865158+00:00",
+  "LastChanged_Achievements": "2023-07-05T13:26:40.1409658+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-05T11:58:50.0958446+00:00",
-  "LastUpdate_Achievements": "2023-07-05T12:08:14.2866165+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:17:58.0256926+00:00",
+  "LastUpdate_Achievements": "2023-07-05T13:26:40.1411214+00:00"
 }

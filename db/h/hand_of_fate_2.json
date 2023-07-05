@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -856,9 +856,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 658866,
+  "EOS_Progressed": 658867,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7971,6 +7971,11 @@
       "Time": "2023-07-05T12:08:10.8562713+00:00",
       "NumProgressed": 658866,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-07-05T13:26:37.4209161+00:00",
+      "NumProgressed": 658867,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -7990,7 +7995,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 382142
+      "UsersEstimate": 382143
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -8246,7 +8251,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164716
+      "UsersEstimate": 164717
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -8365,15 +8370,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 658866,
+      "Progressed": 658867,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-05T12:08:10.856271+00:00",
+  "LastChanged_Achievements": "2023-07-05T13:26:37.4209153+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-05T11:58:19.2055525+00:00",
-  "LastUpdate_Achievements": "2023-07-05T12:08:10.8563512+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:17:32.9980873+00:00",
+  "LastUpdate_Achievements": "2023-07-05T13:26:37.4210704+00:00"
 }

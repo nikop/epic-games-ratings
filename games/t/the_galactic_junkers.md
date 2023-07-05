@@ -14,11 +14,11 @@
 | You're Hired! | 26.00% | ~11 |
 | Expert Miner | 23.00% | ~10 |
 | Expert Firefighter | 14.00% | ~6 |
+| Master Mechanic | 14.00% | ~6 |
 | Pancake Day | 14.00% | ~6 |
-| Master Mechanic | 12.00% | ~5 |
+| Master Miner | 9.00% | ~4 |
 | Ray of Sunshine | 9.00% | ~4 |
 | Notorious Pirate | 7.00% | ~3 |
-| Master Miner | 7.00% | ~3 |
 | Master Firefighter | 5.00% | ~2 |
 | Family Reunion | 5.00% | ~2 |
 | Just Lazy | 2.00% | ~1 |

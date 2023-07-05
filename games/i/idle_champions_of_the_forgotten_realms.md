@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,984 |
-| The Mad Wizard | 11.00% | ~22,721 |
-| Are Ya Chicken? | 7.00% | ~14,459 |
-| The Ring of Regeneration | 6.00% | ~12,394 |
-| Were-verpowered | 5.00% | ~10,328 |
-| Mad Cow Disease | 5.00% | ~10,328 |
-| Friendly Imps | 5.00% | ~10,328 |
-| A Persistent Buzzing | 4.00% | ~8,262 |
-| Seeking Allies | 4.00% | ~8,262 |
-| Pure Energy | 4.00% | ~8,262 |
-| Terror in the Dark | 3.00% | ~6,197 |
-| Unearthed Evil | 3.00% | ~6,197 |
-| The Crumbling Temple | 3.00% | ~6,197 |
-| The Contagious Curse | 3.00% | ~6,197 |
-| Beast Mode | 2.00% | ~4,131 |
-| Low Initiative | 2.00% | ~4,131 |
-| A Mysterious Summons | 2.00% | ~4,131 |
-| Building Trust | 2.00% | ~4,131 |
-| Useless Allies | 2.00% | ~4,131 |
-| Exploring Port Nyanzaru | 2.00% | ~4,131 |
-| Running of the Saurs | 2.00% | ~4,131 |
-| Escort to Waterdeep | 2.00% | ~4,131 |
-| Waterdeep Detours | 2.00% | ~4,131 |
-| Underdeep Cartography | 2.00% | ~4,131 |
+| The Cursed Farmer | 15.00% | ~30,989 |
+| The Mad Wizard | 11.00% | ~22,726 |
+| Are Ya Chicken? | 7.00% | ~14,462 |
+| The Ring of Regeneration | 6.00% | ~12,396 |
+| Were-verpowered | 5.00% | ~10,330 |
+| Mad Cow Disease | 5.00% | ~10,330 |
+| Friendly Imps | 5.00% | ~10,330 |
+| A Persistent Buzzing | 4.00% | ~8,264 |
+| Seeking Allies | 4.00% | ~8,264 |
+| Pure Energy | 4.00% | ~8,264 |
+| Terror in the Dark | 3.00% | ~6,198 |
+| Unearthed Evil | 3.00% | ~6,198 |
+| The Crumbling Temple | 3.00% | ~6,198 |
+| The Contagious Curse | 3.00% | ~6,198 |
+| Beast Mode | 2.00% | ~4,132 |
+| Low Initiative | 2.00% | ~4,132 |
+| A Mysterious Summons | 2.00% | ~4,132 |
+| Building Trust | 2.00% | ~4,132 |
+| Useless Allies | 2.00% | ~4,132 |
+| Exploring Port Nyanzaru | 2.00% | ~4,132 |
+| Running of the Saurs | 2.00% | ~4,132 |
+| Escort to Waterdeep | 2.00% | ~4,132 |
+| Waterdeep Detours | 2.00% | ~4,132 |
+| Underdeep Cartography | 2.00% | ~4,132 |
 | Street War | 1.00% | ~2,066 |
 | March of the Undead | 1.00% | ~2,066 |
 | No Time To Rest | 1.00% | ~2,066 |
@@ -48,11 +48,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.90% | ~1,859 |
 | Trollskull Manor | 0.90% | ~1,859 |
 | Dinosaur Racing | 0.90% | ~1,859 |
-| The Lost Heir of Omu | 0.80% | ~1,652 |
-| Attack on the Manor | 0.80% | ~1,652 |
-| The Long Haul | 0.80% | ~1,652 |
-| Lost in the Deep | 0.80% | ~1,652 |
-| Easily Distracted | 0.80% | ~1,652 |
+| The Lost Heir of Omu | 0.80% | ~1,653 |
+| Attack on the Manor | 0.80% | ~1,653 |
+| The Long Haul | 0.80% | ~1,653 |
+| Lost in the Deep | 0.80% | ~1,653 |
+| Easily Distracted | 0.80% | ~1,653 |
 | The Forbidden City | 0.70% | ~1,446 |
 | Captured! | 0.70% | ~1,446 |
 | Wisdom Check | 0.70% | ~1,446 |
@@ -61,18 +61,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.70% | ~1,446 |
 | The Dead Three | 0.70% | ~1,446 |
 | The Haunted Jungle | 0.70% | ~1,446 |
-| Tomb of the Nine Gods | 0.60% | ~1,239 |
-| Family Entanglements | 0.60% | ~1,239 |
-| The Immortal Warrior | 0.60% | ~1,239 |
-| Treasure Hunters | 0.60% | ~1,239 |
-| Fugitives | 0.60% | ~1,239 |
-| Hopelessly Lost | 0.60% | ~1,239 |
-| Crowded Streets | 0.60% | ~1,239 |
-| The Darkness Runs Deeper | 0.60% | ~1,239 |
-| Market Fluctuations | 0.60% | ~1,239 |
+| Tomb of the Nine Gods | 0.60% | ~1,240 |
+| Family Entanglements | 0.60% | ~1,240 |
+| The Immortal Warrior | 0.60% | ~1,240 |
+| Treasure Hunters | 0.60% | ~1,240 |
+| Fugitives | 0.60% | ~1,240 |
+| Hopelessly Lost | 0.60% | ~1,240 |
+| Crowded Streets | 0.60% | ~1,240 |
+| The Darkness Runs Deeper | 0.60% | ~1,240 |
+| Market Fluctuations | 0.60% | ~1,240 |
 | The Giant's Bane Tavern | 0.60% | ~1,037 |
-| Rude Welcome | 0.60% | ~1,239 |
-| Durable Deep | 0.60% | ~1,239 |
+| Rude Welcome | 0.60% | ~1,240 |
+| Durable Deep | 0.60% | ~1,240 |
 | Sleuth It Out | 0.50% | ~1,033 |
 | Chatty Nobles | 0.50% | ~1,033 |
 | The Wyrmheart Mine | 0.50% | ~1,033 |
@@ -101,6 +101,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.40% | ~826 |
 | Backtracking Through Barovia | 0.40% | ~826 |
 | Excavating History | 0.40% | ~826 |
+| Towering Expectations | 0.40% | ~826 |
 | Cramped Quarters | 0.40% | ~826 |
 | Slow and Steady | 0.40% | ~826 |
 | Vault of Dragons | 0.40% | ~826 |
@@ -115,10 +116,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.30% | ~620 |
 | Periodic Petrification | 0.30% | ~620 |
 | Double Vision | 0.30% | ~620 |
-| The Newcomers of Notoriety | 0.30% | ~518 |
+| The Newcomers of Notoriety | 0.30% | ~519 |
 | The Hunt for Owl-y | 0.30% | ~620 |
 | We're not in Faerûn Anymore | 0.30% | ~620 |
-| Thine Bounty is Mine! | 0.30% | ~518 |
+| Thine Bounty is Mine! | 0.30% | ~519 |
 | Hold for the Red Wizards | 0.30% | ~620 |
 | House of Darkness | 0.30% | ~620 |
 | The Trepidatious Trio | 0.30% | ~620 |
@@ -128,30 +129,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.30% | ~620 |
 | From The Shadows | 0.30% | ~620 |
 | Spined Nuisances | 0.30% | ~620 |
-| Towering Expectations | 0.30% | ~620 |
 | Elder Rune Madness | 0.30% | ~620 |
 | Who Lurks in Lurkwood | 0.30% | ~620 |
 | Orcs Are Wild | 0.30% | ~620 |
 | A Tale of Two Fiends | 0.30% | ~620 |
 | Patience is Key | 0.30% | ~620 |
 | Troublesome Prisoner | 0.30% | ~620 |
-| An Illithid Undertaking | 0.30% | ~518 |
-| Déjà Vu | 0.30% | ~518 |
-| Dreamscape | 0.30% | ~518 |
-| The Path of Dreams | 0.30% | ~518 |
-| The Lost Hollyphant | 0.30% | ~518 |
-| Alterdeep | 0.30% | ~518 |
-| The Wandering Emporium | 0.30% | ~518 |
-| Tiamat's Army | 0.30% | ~518 |
-| Questlines | 0.30% | ~518 |
-| Bel's Forge | 0.30% | ~518 |
-| Civilization | 0.30% | ~518 |
-| The Sibriex | 0.30% | ~518 |
-| Wrecked Flying Fortress | 0.30% | ~518 |
-| Dwarven Rumors | 0.30% | ~518 |
-| Sunblight | 0.30% | ~518 |
-| The Bleeding Citadel | 0.30% | ~518 |
-| The Radiant Nightmare | 0.30% | ~518 |
+| An Illithid Undertaking | 0.30% | ~519 |
+| Déjà Vu | 0.30% | ~519 |
+| Dreamscape | 0.30% | ~519 |
+| The Path of Dreams | 0.30% | ~519 |
+| The Lost Hollyphant | 0.30% | ~519 |
+| Alterdeep | 0.30% | ~519 |
+| The Wandering Emporium | 0.30% | ~519 |
+| Tiamat's Army | 0.30% | ~519 |
+| Questlines | 0.30% | ~519 |
+| Bel's Forge | 0.30% | ~519 |
+| Civilization | 0.30% | ~519 |
+| The Sibriex | 0.30% | ~519 |
+| Wrecked Flying Fortress | 0.30% | ~519 |
+| Dwarven Rumors | 0.30% | ~519 |
+| Sunblight | 0.30% | ~519 |
+| The Bleeding Citadel | 0.30% | ~519 |
+| The Radiant Nightmare | 0.30% | ~519 |
 | Overwhelming Force | 0.30% | ~620 |
 | The Castle of a Thousand Vecnas | 0.20% | ~346 |
 | Struggling Toward Omu | 0.20% | ~413 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,559 (Ranked 52)  
+Progressed: 206,596 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,559 | 2,032 |
+| 2023-07-05 | 206,596 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

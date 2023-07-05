@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "backstory_buff",
@@ -389,9 +389,9 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "relight_my_cannon",
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-07-05T12:05:35.9777815+00:00",
+  "LastChanged_Achievements": "2023-07-05T13:24:35.5747086+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.0688651+00:00",
-  "LastUpdate_Ratings": "2023-07-05T11:58:56.5972005+00:00",
-  "LastUpdate_Achievements": "2023-07-05T12:05:35.9777956+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:18:04.4557082+00:00",
+  "LastUpdate_Achievements": "2023-07-05T13:24:35.5747246+00:00"
 }

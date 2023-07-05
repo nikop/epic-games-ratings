@@ -20,10 +20,10 @@ Rating: 4.19 (Ranked 844)
 | In the Pipe, Five by Five | 1.00% | ~156 |
 | Crash Site | 1.00% | ~156 |
 | Full Circle | 1.00% | ~156 |
+| Power Up | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
 | If the SHU Fits... | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
-| Power Up | 0.90% | ~141 |
 | Giving Back | 0.80% | ~125 |
 | Terminated | 0.80% | ~125 |
 | The Outer Way | 0.80% | ~125 |
@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 844)
 | One Last Job | 0.60% | ~21 |
 | In Striking Distance | 0.50% | ~78 |
 | This Isn't About Escape | 0.40% | ~14 |
+| Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
-| Armed to the Teeth | 0.20% | ~7 |
 | Parole Denied | 0.20% | ~7 |
 | Information Overload | 0.20% | ~7 |
 | Quick Pick | 0.20% | ~7 |
