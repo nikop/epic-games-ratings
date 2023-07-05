@@ -4,7 +4,7 @@
 Rating: 4.50 (Ranked 552)  
 ## Awards
 Max (Great for Quick Sessions): 108  (Ranked 320)  
-Sum: 566 (Ranked 292)  
+Sum: 568 (Ranked 292)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 28
 | This game has Amazing Storytelling | 74 |
 | This game has Quickly Understood Controls | 69 |
 | This game has Playful Visuals | 66 |
-| This game has Amazing Characters | 61 |
+| This game has Amazing Characters | 63 |
 | This game is Relaxing | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -118,3 +118,4 @@ Diff (max vs sum): 28
 | 2023-07-01 | 4.50 | 107 | 564 |
 | 2023-07-02 | 4.50 | 108 | 565 |
 | 2023-07-04 | 4.50 | 108 | 566 |
+| 2023-07-05 | 4.50 | 108 | 568 |

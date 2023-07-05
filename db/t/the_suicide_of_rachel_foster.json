@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.12,
+  "EOS_Completed_Percentage": 5.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -1387,6 +1387,11 @@
       "Time": "2023-07-03T23:05:55.2705808+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-07-05T11:06:25.7825886+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 11,
@@ -1414,7 +1419,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -1446,7 +1451,7 @@
       "Name": "All together, again",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -1462,7 +1467,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -1485,15 +1490,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-07-05T10:06:54.0035718+00:00",
+  "LastChanged_Achievements": "2023-07-05T11:06:25.7825876+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:25.3202248+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:01:10.0915555+00:00",
-  "LastUpdate_Achievements": "2023-07-05T10:06:54.0035935+00:00"
+  "LastUpdate_Ratings": "2023-07-05T11:00:34.9529679+00:00",
+  "LastUpdate_Achievements": "2023-07-05T11:06:25.7826157+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56844,
+  "EOS_Progressed": 56846,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6997,6 +6997,11 @@
       "Time": "2023-07-05T10:03:07.6131792+00:00",
       "NumProgressed": 56844,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T11:03:07.2837373+00:00",
+      "NumProgressed": 56846,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7016,7 +7021,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11937
+      "UsersEstimate": 11938
     },
     {
       "ID": "03",
@@ -7056,7 +7061,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "08",
@@ -7064,7 +7069,7 @@
       "Name": "Iron Horse",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "09",
@@ -7096,7 +7101,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "13",
@@ -7168,7 +7173,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "22",
@@ -7216,7 +7221,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "28",
@@ -7232,7 +7237,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "30",
@@ -7256,7 +7261,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14779
+      "UsersEstimate": 14780
     },
     {
       "ID": "33",
@@ -7264,7 +7269,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "34",
@@ -7368,7 +7373,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6821
+      "UsersEstimate": 6822
     },
     {
       "ID": "47",
@@ -7543,21 +7548,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56844,
+      "Progressed": 56846,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20312,
+      "Progressed": 20314,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T10:03:07.6131785+00:00",
+  "LastChanged_Achievements": "2023-07-05T11:03:07.2837368+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T09:58:10.5757328+00:00",
-  "LastUpdate_Achievements": "2023-07-05T10:03:07.6133336+00:00"
+  "LastUpdate_Ratings": "2023-07-05T10:57:59.90984+00:00",
+  "LastUpdate_Achievements": "2023-07-05T11:03:07.2838466+00:00"
 }

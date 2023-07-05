@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,903 |
-| That's a Grand Army | 8.00% | ~5,247 |
-| That is mine! | 8.00% | ~5,247 |
-| Victorious! | 8.00% | ~5,247 |
-| Brothers in Arms | 6.00% | ~3,936 |
-| That's a Grand Navy | 6.00% | ~3,936 |
-| Seriously?! | 6.00% | ~3,936 |
-| For the Glory | 5.00% | ~3,280 |
-| Cold War | 4.00% | ~2,624 |
-| True Catholic | 4.00% | ~2,624 |
+| Until death do us apart | 9.00% | ~5,905 |
+| That's a Grand Army | 8.00% | ~5,249 |
+| That is mine! | 8.00% | ~5,249 |
+| Victorious! | 8.00% | ~5,249 |
+| Brothers in Arms | 6.00% | ~3,937 |
+| That's a Grand Navy | 6.00% | ~3,937 |
+| Seriously?! | 6.00% | ~3,937 |
+| For the Glory | 5.00% | ~3,281 |
+| Cold War | 4.00% | ~2,625 |
+| True Catholic | 4.00% | ~2,625 |
 | Defender of the Faith | 3.00% | ~1,968 |
 | It's all about the money | 3.00% | ~1,968 |
 | Respected | 3.00% | ~1,968 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~656 |
 | The Five Colonies | 1.00% | ~656 |
 | This navy can take it all | 1.00% | ~656 |
-| Isn't this the way to India? | 0.90% | ~590 |
-| Market Control | 0.90% | ~590 |
+| Isn't this the way to India? | 0.90% | ~591 |
+| Market Control | 0.90% | ~591 |
 | Down Under | 0.80% | ~525 |
 | Trustworthy | 0.80% | ~525 |
 | Electable! | 0.70% | ~459 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,593 (Ranked 75)  
+Progressed: 65,614 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,10 +437,10 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
-| 2023-07-05 | 65,593 | 0 |
+| 2023-07-05 | 65,614 | 0 |
 ## Awards
 Max (Educational): 5,507  (Ranked 60)  
-Sum: 45,397 (Ranked 27)  
+Sum: 45,401 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -449,7 +449,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,233 |
 | This game is Extremely Fun | 5,214 |
 | This game has Diverse Characters | 5,174 |
-| This game is Relaxing | 5,098 |
+| This game is Relaxing | 5,102 |
 | This game has Competitive Players | 4,935 |
 | This game has Amazing Storytelling | 4,662 |
 | This game has Amazing Characters | 4,311 |
@@ -626,4 +626,4 @@ Diff (max vs sum): 33
 | 2023-07-02 | 4.69 | - | 5,493 | 45,317 |
 | 2023-07-03 | 4.69 | - | 5,500 | 45,354 |
 | 2023-07-04 | 4.69 | - | 5,503 | 45,392 |
-| 2023-07-05 | 4.69 | - | 5,507 | 45,397 |
+| 2023-07-05 | 4.69 | - | 5,507 | 45,401 |

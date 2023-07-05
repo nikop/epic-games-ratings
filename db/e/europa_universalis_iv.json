@@ -6694,10 +6694,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45397,
       "NumberOfAwardsMax": 5507
+    },
+    {
+      "Time": "2023-07-05T10:57:37.6811226+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45401,
+      "NumberOfAwardsMax": 5507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45397,
+  "NumberOfAwards": 45401,
   "NumberOfAwardsMax": 5507,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6747,7 +6753,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5098
+      "Count": 5102
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6768,9 +6774,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 65593,
+  "EOS_Progressed": 65614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3160,
+  "EOS_NewPlayers": 3155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14943,6 +14949,11 @@
       "Time": "2023-07-05T10:07:13.5824724+00:00",
       "NumProgressed": 65593,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T11:06:43.2319865+00:00",
+      "NumProgressed": 65614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15394,7 +15405,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -15474,7 +15485,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_colonial_management",
@@ -15786,7 +15797,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3280
+      "UsersEstimate": 3281
     },
     {
       "ID": "achievement_forever_golden",
@@ -15954,7 +15965,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5249
     },
     {
       "ID": "achievement_grand_coalition",
@@ -15978,7 +15989,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -16146,7 +16157,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_italian_ambition",
@@ -16450,7 +16461,7 @@
       "Name": "Market Control",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_marshy_march",
@@ -16954,7 +16965,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3936
+      "UsersEstimate": 3937
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -17234,7 +17245,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5249
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -17546,7 +17557,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -17618,7 +17629,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5905
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -17650,7 +17661,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5249
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -17785,21 +17796,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 65593,
+      "Progressed": 65614,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 65593,
+      "Progressed": 65614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-05T08:57:41.375734+00:00",
-  "LastChanged_Achievements": "2023-07-05T10:07:13.5824718+00:00",
+  "LastChanged": "2023-07-05T10:57:37.6811224+00:00",
+  "LastChanged_Achievements": "2023-07-05T11:06:43.2319858+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-05T09:57:46.8360939+00:00",
-  "LastUpdate_Achievements": "2023-07-05T10:07:13.583899+00:00"
+  "LastUpdate_Ratings": "2023-07-05T10:57:37.6811231+00:00",
+  "LastUpdate_Achievements": "2023-07-05T11:06:43.2332638+00:00"
 }

@@ -640,9 +640,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252449,
+  "EOS_Progressed": 252453,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8350,6 +8350,11 @@
       "Time": "2023-07-05T10:04:56.4049509+00:00",
       "NumProgressed": 252449,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-05T11:04:36.8513275+00:00",
+      "NumProgressed": 252453,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8361,7 +8366,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17671
+      "UsersEstimate": 17672
     },
     {
       "ID": "Act2",
@@ -8377,7 +8382,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "Act4",
@@ -8409,7 +8414,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78259
+      "UsersEstimate": 78260
     },
     {
       "ID": "BackHomeNTimes",
@@ -8417,7 +8422,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12622
+      "UsersEstimate": 12623
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -8489,7 +8494,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12622
+      "UsersEstimate": 12623
     },
     {
       "ID": "CreedsInBank2",
@@ -8497,7 +8502,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "CreedsInBank3",
@@ -8529,7 +8534,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "FullHomeExpansion",
@@ -8553,7 +8558,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "GrowPlants1",
@@ -8569,7 +8574,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "GrowPlants3",
@@ -8633,7 +8638,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7573
+      "UsersEstimate": 7574
     },
     {
       "ID": "KillOtherWithMine",
@@ -8649,7 +8654,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55539
+      "UsersEstimate": 55540
     },
     {
       "ID": "KillOthers2",
@@ -8681,7 +8686,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "MaxImagoLevel",
@@ -8713,7 +8718,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "OldCoinCollected",
@@ -8801,14 +8806,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252449,
+      "Progressed": 252453,
       "Completed": 2
     }
   ],
@@ -8816,8 +8821,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-04T12:01:04.6761697+00:00",
-  "LastChanged_Achievements": "2023-07-05T10:04:56.4049499+00:00",
+  "LastChanged_Achievements": "2023-07-05T11:04:36.8513271+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:01:25.6244269+00:00",
-  "LastUpdate_Achievements": "2023-07-05T10:04:56.405128+00:00"
+  "LastUpdate_Ratings": "2023-07-05T11:00:48.083045+00:00",
+  "LastUpdate_Achievements": "2023-07-05T11:04:36.8514253+00:00"
 }

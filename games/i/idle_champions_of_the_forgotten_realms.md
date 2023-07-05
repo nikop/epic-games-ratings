@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,976 |
-| The Mad Wizard | 11.00% | ~22,716 |
-| Are Ya Chicken? | 7.00% | ~14,455 |
-| The Ring of Regeneration | 6.00% | ~12,390 |
-| Were-verpowered | 5.00% | ~10,325 |
-| Mad Cow Disease | 5.00% | ~10,325 |
-| Friendly Imps | 5.00% | ~10,325 |
-| A Persistent Buzzing | 4.00% | ~8,260 |
-| Seeking Allies | 4.00% | ~8,260 |
-| Pure Energy | 4.00% | ~8,260 |
-| Terror in the Dark | 3.00% | ~6,195 |
-| Unearthed Evil | 3.00% | ~6,195 |
-| The Crumbling Temple | 3.00% | ~6,195 |
-| The Contagious Curse | 3.00% | ~6,195 |
-| Beast Mode | 2.00% | ~4,130 |
-| Low Initiative | 2.00% | ~4,130 |
-| A Mysterious Summons | 2.00% | ~4,130 |
-| Building Trust | 2.00% | ~4,130 |
-| Useless Allies | 2.00% | ~4,130 |
-| Exploring Port Nyanzaru | 2.00% | ~4,130 |
-| Running of the Saurs | 2.00% | ~4,130 |
-| Escort to Waterdeep | 2.00% | ~4,130 |
-| Waterdeep Detours | 2.00% | ~4,130 |
-| Underdeep Cartography | 2.00% | ~4,130 |
+| The Cursed Farmer | 15.00% | ~30,980 |
+| The Mad Wizard | 11.00% | ~22,719 |
+| Are Ya Chicken? | 7.00% | ~14,457 |
+| The Ring of Regeneration | 6.00% | ~12,392 |
+| Were-verpowered | 5.00% | ~10,327 |
+| Mad Cow Disease | 5.00% | ~10,327 |
+| Friendly Imps | 5.00% | ~10,327 |
+| A Persistent Buzzing | 4.00% | ~8,261 |
+| Seeking Allies | 4.00% | ~8,261 |
+| Pure Energy | 4.00% | ~8,261 |
+| Terror in the Dark | 3.00% | ~6,196 |
+| Unearthed Evil | 3.00% | ~6,196 |
+| The Crumbling Temple | 3.00% | ~6,196 |
+| The Contagious Curse | 3.00% | ~6,196 |
+| Beast Mode | 2.00% | ~4,131 |
+| Low Initiative | 2.00% | ~4,131 |
+| A Mysterious Summons | 2.00% | ~4,131 |
+| Building Trust | 2.00% | ~4,131 |
+| Useless Allies | 2.00% | ~4,131 |
+| Exploring Port Nyanzaru | 2.00% | ~4,131 |
+| Running of the Saurs | 2.00% | ~4,131 |
+| Escort to Waterdeep | 2.00% | ~4,131 |
+| Waterdeep Detours | 2.00% | ~4,131 |
+| Underdeep Cartography | 2.00% | ~4,131 |
 | Street War | 1.00% | ~2,065 |
 | March of the Undead | 1.00% | ~2,065 |
 | No Time To Rest | 1.00% | ~2,065 |
@@ -56,11 +56,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.70% | ~1,446 |
 | Captured! | 0.70% | ~1,446 |
 | Wisdom Check | 0.70% | ~1,446 |
+| A Grand Puzzle | 0.70% | ~1,446 |
 | The Mists of Ravenloft | 0.70% | ~1,446 |
 | Nimble Escape | 0.70% | ~1,446 |
 | The Dead Three | 0.70% | ~1,446 |
 | The Haunted Jungle | 0.70% | ~1,446 |
-| A Grand Puzzle | 0.60% | ~1,239 |
 | Tomb of the Nine Gods | 0.60% | ~1,239 |
 | Family Entanglements | 0.60% | ~1,239 |
 | The Immortal Warrior | 0.60% | ~1,239 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,506 (Ranked 52)  
+Progressed: 206,534 (Ranked 52)  
 Completed: 2,030 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,030 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,506 | 2,030 |
+| 2023-07-05 | 206,534 | 2,030 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

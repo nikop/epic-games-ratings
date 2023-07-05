@@ -5,53 +5,53 @@ Rating: 4.54 (Ranked 492)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 89.00% | ~509,982 |
-| Break A Leg | 86.00% | ~492,791 |
-| Hazardous Materials | 79.00% | ~452,680 |
-| Personal Assistant Personally Assisted | 75.00% | ~429,760 |
-| Coup de Grâce | 74.00% | ~424,030 |
-| Git Gutte! | 72.00% | ~412,569 |
-| Apex Predator | 69.00% | ~395,379 |
-| Friends Like These | 66.00% | ~378,189 |
-| Bookworm | 62.00% | ~355,268 |
-| Dr. Reed, I Presume? | 59.00% | ~338,078 |
-| Stacking the Deck | 59.00% | ~338,078 |
-| This is My Weapon | 57.00% | ~326,617 |
-| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~315,157 |
-| Welcome To Hell-A | 50.00% | ~286,506 |
-| But Doctor, I am Butcho | 49.00% | ~280,776 |
-| Can't Handle the Truth | 45.00% | ~257,856 |
-| Anger Management | 44.00% | ~252,126 |
-| Perks of the Job | 44.00% | ~252,126 |
-| Making Your Mark | 43.00% | ~246,396 |
-| Like Riding a Bike | 43.00% | ~246,396 |
-| A Patton Emerges | 42.00% | ~240,665 |
-| Zombologist | 41.00% | ~234,935 |
-| Ooh, Shiny! | 40.00% | ~229,205 |
-| Our True Nature | 40.00% | ~229,205 |
-| Slayer Squad | 39.00% | ~223,475 |
-| Humanity Distilled | 38.00% | ~217,745 |
-| I Am the Resurrection | 32.00% | ~183,364 |
-| Rising Star | 28.00% | ~160,444 |
-| Jumbo Keyring | 27.00% | ~154,714 |
-| Down with the Sickness | 27.00% | ~154,714 |
-| Go, Bobcats! | 27.00% | ~154,714 |
-| Smorgasbord | 19.00% | ~108,872 |
-| Internet Famous | 19.00% | ~108,872 |
-| Make it So | 15.00% | ~85,952 |
-| Max Headroom | 14.00% | ~80,222 |
+| Hotel California | 89.00% | ~509,986 |
+| Break A Leg | 86.00% | ~492,795 |
+| Hazardous Materials | 79.00% | ~452,684 |
+| Personal Assistant Personally Assisted | 75.00% | ~429,764 |
+| Coup de Grâce | 74.00% | ~424,033 |
+| Git Gutte! | 72.00% | ~412,573 |
+| Apex Predator | 69.00% | ~395,382 |
+| Friends Like These | 66.00% | ~378,192 |
+| Bookworm | 62.00% | ~355,271 |
+| Dr. Reed, I Presume? | 59.00% | ~338,081 |
+| Stacking the Deck | 59.00% | ~338,081 |
+| This is My Weapon | 57.00% | ~326,620 |
+| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~315,160 |
+| Welcome To Hell-A | 50.00% | ~286,509 |
+| But Doctor, I am Butcho | 49.00% | ~280,779 |
+| Can't Handle the Truth | 45.00% | ~257,858 |
+| Anger Management | 44.00% | ~252,128 |
+| Perks of the Job | 44.00% | ~252,128 |
+| Making Your Mark | 43.00% | ~246,398 |
+| Like Riding a Bike | 43.00% | ~246,398 |
+| A Patton Emerges | 42.00% | ~240,668 |
+| Zombologist | 41.00% | ~234,937 |
+| Ooh, Shiny! | 40.00% | ~229,207 |
+| Our True Nature | 40.00% | ~229,207 |
+| Slayer Squad | 39.00% | ~223,477 |
+| Humanity Distilled | 38.00% | ~217,747 |
+| I Am the Resurrection | 32.00% | ~183,366 |
+| Rising Star | 28.00% | ~160,445 |
+| Jumbo Keyring | 27.00% | ~154,715 |
+| Down with the Sickness | 27.00% | ~154,715 |
+| Go, Bobcats! | 27.00% | ~154,715 |
+| Smorgasbord | 19.00% | ~108,873 |
+| Internet Famous | 19.00% | ~108,873 |
+| Make it So | 15.00% | ~85,953 |
+| Max Headroom | 14.00% | ~80,223 |
 | On Safari | 13.00% | ~74,492 |
 | Not Even My Final Form | 13.00% | ~74,492 |
 | LA Influential | 12.00% | ~68,762 |
 | Gore Horse | 12.00% | ~68,762 |
-| Sharpest Tool in the Box | 10.00% | ~57,301 |
-| Sole Survivor | 9.00% | ~51,571 |
+| Sharpest Tool in the Box | 10.00% | ~57,302 |
+| Sole Survivor | 9.00% | ~51,572 |
 | Variety is the Spice of Death | 8.00% | ~45,841 |
 | Survival Skills | 6.00% | ~34,381 |
 | Donk! | 4.00% | ~22,921 |
 | Zombicidal Maniac | 1.00% | ~5,730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 573,013 (Ranked 27)  
+Progressed: 573,018 (Ranked 27)  
 Completed: 1,853 (0.32%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1,853 (0.32%) (Ranked 141)
 | 2023-07-02 | 571,844 | 1,840 |
 | 2023-07-03 | 572,380 | 1,848 |
 | 2023-07-04 | 572,876 | 1,852 |
-| 2023-07-05 | 573,013 | 1,853 |
+| 2023-07-05 | 573,018 | 1,853 |
 ## Awards
 Max (Great Boss Battles): 5,029  (Ranked 64)  
 Sum: 7,324 (Ranked 102)  

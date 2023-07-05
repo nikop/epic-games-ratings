@@ -129,7 +129,7 @@ Completed: 5 (0.01%) (Ranked 220)
 | 2023-07-05 | 45,009 | 5 |
 ## Awards
 Max (Great for Beginners): 4,485  (Ranked 70)  
-Sum: 37,868 (Ranked 31)  
+Sum: 37,870 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 39
 | This game is Extremely Fun | 3,797 |
 | This game is Highly Recommended | 3,795 |
 | This game has Diverse Characters | 3,787 |
-| This game has Amazing Storytelling | 3,687 |
+| This game has Amazing Storytelling | 3,689 |
 | This game has Amazing Characters | 3,302 |
 | This game has a Creative Community | 3,120 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -317,3 +317,4 @@ Diff (max vs sum): 39
 | 2023-07-02 | 4.70 | - | 4,474 | 37,809 |
 | 2023-07-03 | 4.70 | - | 4,482 | 37,838 |
 | 2023-07-04 | 4.70 | - | 4,485 | 37,868 |
+| 2023-07-05 | 4.70 | - | 4,485 | 37,870 |
