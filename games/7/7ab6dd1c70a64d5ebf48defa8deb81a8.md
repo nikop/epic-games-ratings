@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 21.00% | ~3 |
+| Break out | 29.00% | ~4 |
 | Tributes of Caladrias | 21.00% | ~3 |
 | Find Allies | 14.00% | ~2 |
 | Monsalar: Wildlands | 14.00% | ~2 |

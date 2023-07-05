@@ -1,15 +1,15 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,159 |
-| The Three | 64.00% | ~337,087 |
-| The Banquet | 40.00% | ~210,679 |
-| Devara's Light | 30.00% | ~158,009 |
+| Find Sanctuary | 83.00% | ~437,162 |
+| The Three | 64.00% | ~337,089 |
+| The Banquet | 40.00% | ~210,680 |
+| Devara's Light | 30.00% | ~158,010 |
 | The Iron Ones | 18.00% | ~94,806 |
 | The Village | 16.00% | ~84,272 |
 | The Forest | 14.00% | ~73,738 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,534 |
 | Fading Fast | 1.00% | ~5,267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,698 (Ranked 28)  
+Progressed: 526,701 (Ranked 28)  
 Completed: 1,467 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,10 +120,10 @@ Completed: 1,467 (0.28%) (Ranked 148)
 | 2023-07-02 | 526,447 | 1,465 |
 | 2023-07-03 | 526,542 | 1,465 |
 | 2023-07-04 | 526,646 | 1,465 |
-| 2023-07-05 | 526,698 | 1,467 |
+| 2023-07-05 | 526,701 | 1,467 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
-Sum: 1,906 (Ranked 203)  
+Sum: 1,907 (Ranked 203)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): 36
 | This game has Quickly Understood Controls | 256 |
 | This game is Highly Recommended | 249 |
 | This game is Extremely Fun | 233 |
-| This game has Diverse Characters | 230 |
+| This game has Diverse Characters | 231 |
 | This game has Amazing Storytelling | 227 |
 | This game has Amazing Characters | 222 |
 | This game has Unique Visuals | 216 |
@@ -267,4 +267,4 @@ Diff (max vs sum): 36
 | 2023-06-28 | 4.61 | - | 273 | 1,901 |
 | 2023-06-29 | 4.61 | - | 273 | 1,903 |
 | 2023-07-03 | 4.61 | - | 273 | 1,905 |
-| 2023-07-05 | 4.61 | - | 273 | 1,906 |
+| 2023-07-05 | 4.61 | - | 273 | 1,907 |

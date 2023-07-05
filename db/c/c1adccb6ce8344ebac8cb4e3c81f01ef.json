@@ -3,8 +3,8 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "mai-in-the-mysterious-castle-a9a60a",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -136,6 +136,11 @@
       "Time": "2023-07-05T02:26:14.5298997+00:00",
       "NumProgressed": 22,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T14:03:30.5321499+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -146,7 +151,7 @@
       "ID": "BlackSkeleton",
       "SetID": "a76l54k",
       "Name": "Black Skeleton",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -170,7 +175,7 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -178,7 +183,7 @@
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 55,
+      "Percentage": 52,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -186,7 +191,7 @@
       "ID": "YellowSkeleton",
       "SetID": "a76l54k",
       "Name": "Yellow Skeleton",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 4
     }
@@ -195,14 +200,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:23:13.2360524+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:03:30.5321495+00:00",
   "LastUpdate_AppInfo": "2023-06-29T11:56:57.2789546+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:16:37.3216985+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:23:13.2360647+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:57:04.8812491+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:03:30.5321562+00:00"
 }

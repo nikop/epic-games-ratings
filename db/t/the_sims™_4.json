@@ -2,7 +2,7 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 486,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -3728,10 +3728,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2882,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2023-07-05T13:58:00.9656725+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2886,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2882,
+  "NumberOfAwards": 2886,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3799,7 +3805,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 184
+      "Count": 188
     }
   ],
   "EOS_Progressed": 0,
@@ -3814,8 +3820,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-05T13:17:30.1805249+00:00",
+  "LastChanged": "2023-07-05T13:58:00.9656721+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:54.908373+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:17:30.1805258+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:21:14.6532719+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:58:00.9656729+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:02:03.6797973+00:00"
 }

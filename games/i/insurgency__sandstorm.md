@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 363)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~20,294 |
-| Wallbanger | 5.00% | ~20,294 |
-| Exploitative | 4.00% | ~16,235 |
-| High Speed Low Drag | 4.00% | ~16,235 |
-| Wet Feet | 4.00% | ~16,235 |
-| Checkpoint Victory | 3.00% | ~12,176 |
-| Lucky | 3.00% | ~12,176 |
-| Stylin' | 3.00% | ~12,176 |
-| Turf War | 3.00% | ~12,176 |
+| Point Shooting | 5.00% | ~20,296 |
+| Wallbanger | 5.00% | ~20,296 |
+| Exploitative | 4.00% | ~16,237 |
+| High Speed Low Drag | 4.00% | ~16,237 |
+| Wet Feet | 4.00% | ~16,237 |
+| Checkpoint Victory | 3.00% | ~12,177 |
+| Lucky | 3.00% | ~12,177 |
+| Stylin' | 3.00% | ~12,177 |
+| Turf War | 3.00% | ~12,177 |
 | Banged | 2.00% | ~8,118 |
 | First Blood | 2.00% | ~8,118 |
 | Flaccid Paralysis | 2.00% | ~8,118 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.70% | ~2,841 |
 | Special Delivery | 0.70% | ~2,841 |
 | Firefight Victory | 0.60% | ~2,435 |
-| Cinematic | 0.50% | ~2,029 |
+| Cinematic | 0.50% | ~2,030 |
 | Thanks Station! | 0.40% | ~1,624 |
 | Knock Knock | 0.30% | ~1,218 |
 | There For You | 0.30% | ~1,218 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~406 |
 | Road Hazard | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,883 (Ranked 39)  
+Progressed: 405,914 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-07-02 | 403,410 | 2 |
 | 2023-07-03 | 404,442 | 2 |
 | 2023-07-04 | 405,433 | 2 |
-| 2023-07-05 | 405,883 | 2 |
+| 2023-07-05 | 405,914 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 362  (Ranked 217)  
 Sum: 2,768 (Ranked 167)  

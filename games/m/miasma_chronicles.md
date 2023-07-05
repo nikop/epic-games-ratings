@@ -35,8 +35,8 @@ Rating: 4.38 (Ranked 711)
 | Chain Killer | 22.00% | ~264 |
 | The Watchers | 20.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~192 |
+| Commando | 15.00% | ~180 |
 | Chaos Theory | 14.00% | ~168 |
-| Commando | 14.00% | ~168 |
 | Dr Jones | 14.00% | ~168 |
 | Ruthless | 14.00% | ~168 |
 | Side Order | 10.00% | ~120 |

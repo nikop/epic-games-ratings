@@ -141,7 +141,7 @@ Completed: 2 (0.00%) (Ranked 232)
 | 2023-07-05 | 252,458 | 2 |
 ## Awards
 Max (Unique Visuals): 31  (Ranked 452)  
-Sum: 174 (Ranked 375)  
+Sum: 175 (Ranked 375)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -150,8 +150,8 @@ Diff (max vs sum): 77
 | This game has Amazing Characters | 25 |
 | This game has Challenging Combat | 24 |
 | This game is Highly Recommended | 22 |
+| This game has Quickly Understood Controls | 21 |
 | This game has a Competitive Community | 21 |
-| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -245,4 +245,4 @@ Diff (max vs sum): 77
 | 2023-06-29 | 4.44 | 31 | 171 |
 | 2023-07-02 | 4.45 | 31 | 173 |
 | 2023-07-04 | 4.44 | 31 | 174 |
-| 2023-07-05 | 4.43 | 31 | 174 |
+| 2023-07-05 | 4.43 | 31 | 175 |

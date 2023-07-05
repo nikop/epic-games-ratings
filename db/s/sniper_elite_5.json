@@ -4741,9 +4741,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -4837,17 +4837,17 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4997,9 +4997,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -5093,9 +5093,9 @@
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -5276,8 +5276,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:26:42.9685258+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:07:25.7364229+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:21:03.5412336+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:26:42.9686916+00:00"
+  "LastUpdate_Ratings": "2023-07-05T14:01:51.3726574+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:07:25.7364976+00:00"
 }

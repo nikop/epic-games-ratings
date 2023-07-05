@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6665,
+  "EOS_Progressed": 6666,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4301,6 +4301,11 @@
       "Time": "2023-07-05T05:05:44.561806+00:00",
       "NumProgressed": 6665,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-05T14:07:07.0465953+00:00",
+      "NumProgressed": 6666,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 21,
@@ -4312,7 +4317,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ARRR",
@@ -4360,7 +4365,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -4464,7 +4469,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "THING",
@@ -4479,7 +4484,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6665,
+      "Progressed": 6666,
       "Completed": 28
     }
   ],
@@ -4487,8 +4492,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:26:23.8292941+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:07:07.0465947+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:17:55.3629999+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:26:23.8293676+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:58:33.6080485+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:07:07.046627+00:00"
 }

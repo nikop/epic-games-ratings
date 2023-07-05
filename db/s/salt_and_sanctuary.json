@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 28,
@@ -2275,10 +2275,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1906,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-07-05T14:00:22.1582032+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1907,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1906,
+  "NumberOfAwards": 1907,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2310,7 +2316,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2343,9 +2349,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 526698,
+  "EOS_Progressed": 526701,
   "EOS_Completed": 1467,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -10348,6 +10354,11 @@
       "Time": "2023-07-05T13:22:15.2013152+00:00",
       "NumProgressed": 526698,
       "NumCompleted": 1467
+    },
+    {
+      "Time": "2023-07-05T14:02:23.4819273+00:00",
+      "NumProgressed": 526701,
+      "NumCompleted": 1467
     }
   ],
   "TotalAchievements": 37,
@@ -10375,7 +10386,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 158009
+      "UsersEstimate": 158010
     },
     {
       "ID": "DEVOTED",
@@ -10415,7 +10426,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 437159
+      "UsersEstimate": 437162
     },
     {
       "ID": "HONED",
@@ -10471,7 +10482,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 210679
+      "UsersEstimate": 210680
     },
     {
       "ID": "THE_CASTLE",
@@ -10615,7 +10626,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337087
+      "UsersEstimate": 337089
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -10654,15 +10665,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 526698,
+      "Progressed": 526701,
       "Completed": 1467
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-07-05T04:00:49.5244028+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:22:15.2013144+00:00",
+  "LastChanged": "2023-07-05T14:00:22.1582031+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:02:23.4819269+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.2223029+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:19:42.2194321+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:22:15.2014569+00:00"
+  "LastUpdate_Ratings": "2023-07-05T14:00:22.1582035+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:02:23.4819887+00:00"
 }

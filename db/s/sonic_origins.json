@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -1021,17 +1021,17 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "ID_15_NOVICE_HERO",
       "SetID": "7o8nc5m",
       "Name": "Newbie Hero",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 212
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -1141,9 +1141,9 @@
       "ID": "ID_29_HERO_FOR_ALL",
       "SetID": "7o8nc5m",
       "Name": "Everyone\u0027s Hero",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
@@ -1205,8 +1205,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-07-02T16:58:08.0160842+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:26:24.5774103+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:07:07.7822759+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:11.7497929+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:17:43.8841647+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:26:24.5774631+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:58:19.3298633+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:07:07.782303+00:00"
 }

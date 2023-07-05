@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 235700,
+  "EOS_Progressed": 235702,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8510,6 +8510,11 @@
       "Time": "2023-07-05T13:26:37.6218292+00:00",
       "NumProgressed": 235700,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-05T14:07:20.4460027+00:00",
+      "NumProgressed": 235702,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8521,7 +8526,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63639
+      "UsersEstimate": 63640
     },
     {
       "ID": "ACH_AON",
@@ -8665,7 +8670,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65996
+      "UsersEstimate": 65997
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -8841,7 +8846,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58925
+      "UsersEstimate": 58926
     },
     {
       "ID": "ACH_SOREAD",
@@ -8929,14 +8934,14 @@
       "Name": "Who wouldn\u0027t love a troll?",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 235700,
+      "Progressed": 235702,
       "Completed": 7
     }
   ],
@@ -8944,8 +8949,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:26:37.6218283+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:07:20.4460022+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:17:54.2051967+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:26:37.6220028+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:58:32.4432869+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:07:20.4460749+00:00"
 }

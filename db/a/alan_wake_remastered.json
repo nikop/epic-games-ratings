@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56848,
+  "EOS_Progressed": 56849,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 1,
@@ -7007,6 +7007,11 @@
       "Time": "2023-07-05T13:22:34.2051438+00:00",
       "NumProgressed": 56848,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T14:03:12.1044569+00:00",
+      "NumProgressed": 56849,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7266,7 +7271,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14780
+      "UsersEstimate": 14781
     },
     {
       "ID": "33",
@@ -7490,7 +7495,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "61",
@@ -7546,28 +7551,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56848,
+      "Progressed": 56849,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20316,
+      "Progressed": 20317,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T13:22:34.2051428+00:00",
+  "LastChanged_Achievements": "2023-07-05T14:03:12.1044564+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:17:36.753175+00:00",
-  "LastUpdate_Achievements": "2023-07-05T13:22:34.2053381+00:00"
+  "LastUpdate_Ratings": "2023-07-05T13:58:09.2396099+00:00",
+  "LastUpdate_Achievements": "2023-07-05T14:03:12.10454+00:00"
 }

@@ -23,24 +23,24 @@ Rating: 4.44 (Ranked 639)
 | As Quiet as a Mouse | 0.90% | ~29 |
 | Organ Grinder | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
+| Set Europe Ablaze | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
 | Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Skirmisher | 0.60% | ~19 |
-| Set Europe Ablaze | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
+| Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Precision Is Key | 0.50% | ~16 |
 | My Little Friend | 0.50% | ~16 |
-| Fields of Glory | 0.40% | ~13 |
+| Tinkerer | 0.50% | ~16 |
+| The Long Game | 0.40% | ~13 |
 | Rigged to Blow | 0.40% | ~13 |
 | Die Nussknacker Sweet! | 0.40% | ~13 |
-| Tinkerer | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
-| The Long Game | 0.30% | ~10 |
 | Burn after reading | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
@@ -55,6 +55,7 @@ Rating: 4.44 (Ranked 639)
 | It'll Buff Right Out | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
+| Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
 | Operation Foxley | 0.20% | ~6 |
@@ -67,7 +68,6 @@ Rating: 4.44 (Ranked 639)
 | Master-at-arms | 0.10% | ~3 |
 | Out of Scope | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
-| Shoot for the Moon | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
 | From Führer Away | 0.10% | ~3 |
 | Covert Elimination | 0.10% | ~3 |
