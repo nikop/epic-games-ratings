@@ -23,13 +23,13 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.48% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
-| 28 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
-| 30 | [Scorn](games/s/scorn.md) | 6.94% |
+| 28 | [Scorn](games/s/scorn.md) | 6.99% |
+| 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -40,8 +40,8 @@
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
-| 41 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.55% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
+| 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.35% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -199,12 +199,12 @@
 | 195 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 199 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 199 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 199 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
 | 199 | [House Party](games/h/house_party.md) | 0.05% |
 | 199 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 204 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 204 | [Old World](games/o/old_world.md) | 0.04% |
+| 203 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 203 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 203 | [Old World](games/o/old_world.md) | 0.04% |
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 206 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 206 | [High On Life](games/h/high_on_life.md) | 0.03% |
