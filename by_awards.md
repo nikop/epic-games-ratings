@@ -39,7 +39,7 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,389 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,011 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,384 | 4.60 | 390 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,208 | 4.58 | 423 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,225 | 4.58 | 423 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,669 | 4.85 | 41 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,638 | 4.89 | 12 |
 | 43 | [Supraland](games/s/supraland.md) | 7,635 | 4.61 | 362 |
@@ -77,7 +77,7 @@
 | 75 | [God of War](games/g/god_of_war.md) | 4,126 | 4.88 | 19 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,116 | 4.56 | 460 |
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,099 | 4.51 | 539 |
-| 78 | [SMITE](games/s/smite.md) | 3,970 | 4.45 | 620 |
+| 78 | [SMITE](games/s/smite.md) | 3,974 | 4.45 | 620 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,861 | 4.68 | 239 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,664 | 4.29 | 780 |
 | 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,543 | 4.77 | 108 |
@@ -96,7 +96,7 @@
 | 94 | [Among Us](games/a/among_us.md) | 2,514 | 4.57 | 441 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,514 | 4.50 | 552 |
 | 96 | [RAGE 2](games/r/rage_2.md) | 2,488 | 4.27 | 795 |
-| 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,456 | 4.82 | 65 |
+| 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,461 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,430 | 4.10 | 886 |
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,424 | 4.80 | 80 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,416 | 4.18 | 852 |
@@ -120,7 +120,7 @@
 | 118 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,644 | 4.51 | 539 |
 | 119 | [Celeste](games/c/celeste.md) | 1,509 | 4.92 | 4 |
 | 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,483 | 4.58 | 423 |
-| 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,465 | 4.79 | 88 |
+| 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,466 | 4.79 | 88 |
 | 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,433 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,407 | 4.87 | 26 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,369 | 4.62 | 345 |
@@ -188,7 +188,7 @@
 | 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 545 | 4.41 | 673 |
 | 187 | [Godfall Ultimate Edition](games/g/godfall.md) | 525 | 4.08 | 895 |
 | 188 | [Football Manager 2023](games/f/football_manager_2023.md) | 517 | 4.75 | 133 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 516 | 4.75 | 133 |
+| 188 | [Riders Republic](games/r/riders_republic.md) | 517 | 4.75 | 133 |
 | 190 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 514 | 4.52 | 520 |
 | 191 | [Terraforming Mars](games/t/terraforming_mars.md) | 502 | 4.54 | 492 |
 | 192 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 498 | 4.66 | 273 |
@@ -266,8 +266,8 @@
 | 264 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 204 | 4.56 | 460 |
 | 265 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 827 |
 | 266 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 202 | 4.35 | 737 |
-| 267 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
-| 267 | [shapez](games/s/shapez.md) | 201 | 4.71 | 181 |
+| 266 | [shapez](games/s/shapez.md) | 202 | 4.71 | 181 |
+| 268 | [HITMAN](games/h/hitman.md) | 201 | 4.64 | 311 |
 | 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 198 | 4.43 | 656 |
 | 269 | [Relicta](games/r/relicta.md) | 198 | 4.15 | 868 |
 | 271 | [Brawlhalla](games/b/brawlhalla.md) | 194 | 4.60 | 390 |

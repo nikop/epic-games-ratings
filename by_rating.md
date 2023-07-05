@@ -71,7 +71,7 @@
 | 65 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 33 | 442 |
 | 65 | [GRIT](games/g/grit.md) | 4.82 | 0 | 504 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 504 |
-| 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,456 | 97 |
+| 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,461 | 97 |
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,231 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
@@ -87,7 +87,7 @@
 | 80 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.80 | 0 | 504 |
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.80 | 321 | 227 |
 | 80 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 504 |
-| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,465 | 121 |
+| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,466 | 121 |
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 413 | 205 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 159 | 289 |
 | 88 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 504 |
@@ -137,7 +137,7 @@
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 888 | 150 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 517 | 188 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 110 | 319 |
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 516 | 189 |
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 517 | 188 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 504 |
 | 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 43 | 413 |
 | 133 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 416 |
@@ -192,7 +192,7 @@
 | 181 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.71 | 0 | 504 |
 | 181 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 504 |
 | 181 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 504 |
-| 181 | [shapez](games/s/shapez.md) | 4.71 | 201 | 267 |
+| 181 | [shapez](games/s/shapez.md) | 4.71 | 202 | 266 |
 | 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 315 |
 | 181 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 504 |
 | 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 504 |
@@ -317,7 +317,7 @@
 | 311 | [Deceive Inc.](games/d/deceive_inc..md) | 4.64 | 0 | 504 |
 | 311 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.64 | 0 | 504 |
 | 311 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 504 |
-| 311 | [HITMAN](games/h/hitman.md) | 4.64 | 201 | 267 |
+| 311 | [HITMAN](games/h/hitman.md) | 4.64 | 201 | 268 |
 | 311 | [King of Retail](games/k/king_of_retail.md) | 4.64 | 0 | 504 |
 | 311 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 182 | 277 |
 | 311 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.64 | 0 | 504 |
@@ -426,7 +426,7 @@
 | 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,663 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 160 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 504 |
-| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,208 | 40 |
+| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,225 | 40 |
 | 423 | [Everything](games/e/everything.md) | 4.58 | 0 | 504 |
 | 423 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
 | 423 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 427 |
@@ -629,7 +629,7 @@
 | 620 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
 | 620 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 394 |
 | 620 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 504 |
-| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,970 | 78 |
+| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,974 | 78 |
 | 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 504 |
 | 620 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 419 |
 | 620 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 316 |
