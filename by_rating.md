@@ -107,7 +107,7 @@
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 504 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 919 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
-| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,543 | 81 |
+| 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,556 | 81 |
 | 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,145 | 54 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,698 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 504 |
@@ -373,7 +373,7 @@
 | 362 | [DOOM 3](games/d/doom_3.md) | 4.61 | 67 | 374 |
 | 362 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 40,144 | 12 |
 | 362 | [GRIME](games/g/grime.md) | 4.61 | 0 | 504 |
-| 362 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 362 | 217 |
+| 362 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 364 | 217 |
 | 362 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,130 | 136 |
 | 362 | [MudRunner](games/m/mudrunner.md) | 4.61 | 242 | 248 |
 | 362 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 504 |
@@ -441,7 +441,7 @@
 | 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 504 |
 | 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,411 | 25 |
 | 441 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 504 |
-| 441 | [Among Us](games/a/among_us.md) | 4.57 | 2,514 | 94 |
+| 441 | [Among Us](games/a/among_us.md) | 4.57 | 2,514 | 95 |
 | 441 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 406 |
 | 441 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 463 |
 | 441 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 504 |
@@ -559,7 +559,7 @@
 | 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,469 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 108 | 320 |
-| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,514 | 94 |
+| 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,516 | 94 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 504 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 504 |
 | 552 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 329 |
@@ -592,7 +592,7 @@
 | 585 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 504 |
 | 585 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 504 |
 | 585 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 504 |
-| 585 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,030 | 107 |
+| 585 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.48 | 2,043 | 107 |
 | 585 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,468 | 45 |
 | 595 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 504 |
 | 595 | [Figment](games/f/figment.md) | 4.47 | 20 | 500 |
@@ -685,7 +685,7 @@
 | 673 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 32 | 446 |
 | 673 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,184 | 103 |
 | 673 | [Star Renegades](games/s/star_renegades.md) | 4.41 | 0 | 504 |
-| 673 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 545 | 186 |
+| 673 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 546 | 185 |
 | 673 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 469 |
 | 688 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 504 |
 | 688 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 504 |
@@ -782,7 +782,7 @@
 | 780 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 504 |
 | 780 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 504 |
 | 780 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 504 |
-| 780 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,477,671 | 1 |
+| 780 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,478,214 | 1 |
 | 780 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,667 | 80 |
 | 780 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 696 | 163 |
 | 780 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 413 |
@@ -924,18 +924,18 @@
 | 922 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 504 |
 | 922 | [Patron](games/p/patron.md) | 3.94 | 0 | 504 |
 | 924 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 504 |
-| 924 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 355 | 220 |
+| 924 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 358 | 219 |
 | 926 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.92 | 29 | 459 |
 | 927 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 326 |
 | 927 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.91 | 0 | 504 |
 | 927 | [Warface](games/w/warface.md) | 3.91 | 399 | 209 |
 | 930 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 23 | 480 |
 | 931 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 504 |
+| 932 | [Blood of Steel](games/b/blood_of_steel.md) | 3.85 | 0 | 504 |
 | 932 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 504 |
 | 932 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 504 |
-| 934 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 0 | 504 |
-| 934 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 504 |
-| 934 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 504 |
+| 935 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 504 |
+| 935 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 504 |
 | 937 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 504 |
 | 937 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 374 |
 | 937 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 504 |

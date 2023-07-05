@@ -43,7 +43,7 @@
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.35% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
-| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
+| 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
@@ -115,8 +115,8 @@
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
 | 115 | [Train Valley](games/t/train_valley.md) | 0.66% |
+| 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
-| 117 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.61% |
 | 119 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.59% |
 | 120 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.58% |

@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,477,671 | 4.29 | 780 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,478,214 | 4.29 | 780 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 463,736 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,957 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 194,530 | 4.68 | 239 |
@@ -80,7 +80,7 @@
 | 78 | [SMITE](games/s/smite.md) | 3,974 | 4.45 | 620 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,861 | 4.68 | 239 |
 | 80 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,667 | 4.29 | 780 |
-| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,543 | 4.77 | 108 |
+| 81 | [Bloons TD 6](games/b/bloons_td_6.md) | 3,556 | 4.77 | 108 |
 | 82 | [Gloomhaven](games/g/gloomhaven.md) | 3,486 | 4.47 | 595 |
 | 83 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,418 | 4.46 | 603 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,417 | 4.57 | 441 |
@@ -93,8 +93,8 @@
 | 91 | [Trackmania](games/t/trackmania.md) | 2,896 | 4.67 | 260 |
 | 92 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,540 | 3.98 | 917 |
 | 93 | [Path of Exile](games/p/path_of_exile.md) | 2,528 | 4.61 | 362 |
-| 94 | [Among Us](games/a/among_us.md) | 2,514 | 4.57 | 441 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,514 | 4.50 | 552 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,516 | 4.50 | 552 |
+| 95 | [Among Us](games/a/among_us.md) | 2,514 | 4.57 | 441 |
 | 96 | [RAGE 2](games/r/rage_2.md) | 2,488 | 4.27 | 795 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,461 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,434 | 4.10 | 886 |
@@ -106,7 +106,7 @@
 | 104 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,166 | 4.63 | 331 |
 | 105 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,140 | 4.37 | 721 |
 | 106 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,110 | 4.67 | 260 |
-| 107 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,030 | 4.48 | 585 |
+| 107 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,043 | 4.48 | 585 |
 | 108 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,978 | 4.49 | 572 |
 | 109 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,889 | 4.66 | 273 |
 | 110 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,850 | 4.70 | 197 |
@@ -185,7 +185,7 @@
 | 183 | [Star Trek Online](games/s/star_trek_online.md) | 552 | 4.44 | 640 |
 | 184 | [Vampyr](games/v/vampyr.md) | 551 | 4.32 | 763 |
 | 185 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 546 | 4.62 | 344 |
-| 186 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 545 | 4.41 | 673 |
+| 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 546 | 4.41 | 673 |
 | 187 | [Godfall Ultimate Edition](games/g/godfall.md) | 525 | 4.08 | 895 |
 | 188 | [Football Manager 2023](games/f/football_manager_2023.md) | 518 | 4.75 | 133 |
 | 189 | [Riders Republic](games/r/riders_republic.md) | 517 | 4.75 | 133 |
@@ -216,10 +216,10 @@
 | 214 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 375 | 4.60 | 390 |
 | 215 | [For The King](games/f/for_the_king.md) | 373 | 4.70 | 197 |
 | 216 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 372 | 3.99 | 915 |
-| 217 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 362 | 4.61 | 362 |
+| 217 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 364 | 4.61 | 362 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 360 | 4.85 | 41 |
+| 219 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 358 | 3.93 | 924 |
 | 219 | [MORDHAU](games/m/mordhau.md) | 358 | 4.40 | 688 |
-| 220 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 355 | 3.93 | 924 |
 | 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 352 | 4.70 | 197 |
 | 222 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 351 | 4.32 | 763 |
 | 223 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 344 | 4.76 | 119 |
