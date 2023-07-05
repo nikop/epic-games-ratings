@@ -27,7 +27,7 @@
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
-| 28 | [Scorn](games/s/scorn.md) | 6.99% |
+| 28 | [Scorn](games/s/scorn.md) | 7.03% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
 | 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
@@ -55,7 +55,7 @@
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Complex](games/t/the_complex.md) | 3.11% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
-| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.98% |
+| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.97% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -64,8 +64,8 @@
 | 62 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
-| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.64% |
-| 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
+| 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
+| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.63% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
