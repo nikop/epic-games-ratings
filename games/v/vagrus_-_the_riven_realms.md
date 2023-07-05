@@ -25,6 +25,7 @@
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
 | Been There | 3.00% | ~3 |
+| Pilgrimage's End | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
 | Xevarian Gambit | 2.00% | ~2 |
@@ -32,7 +33,6 @@
 | The Voice of Hereafter | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
 | Spiritual Journey | 2.00% | ~2 |
-| Pilgrimage's End | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |

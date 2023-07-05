@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-07-05T17:03:41.4994852+00:00",
       "NumProgressed": 360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T22:05:45.7838873+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -593,7 +598,7 @@
       "Name": "CRIMINAL",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GB_DEBTOR",
@@ -633,7 +638,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GB_GRATITUDE",
@@ -649,7 +654,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -689,7 +694,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "GB_KEVIN",
@@ -711,9 +716,9 @@
       "ID": "GB_MARTYR",
       "SetID": "8ga3kd9",
       "Name": "MARTYR",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -759,9 +764,9 @@
       "ID": "GB_SCATTERBRAIN",
       "SetID": "8ga3kd9",
       "Name": "SCATTERBRAIN",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "GB_TASTE_UNTASTY",
@@ -783,16 +788,16 @@
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
       "SetID": "8ga3kd9",
       "Name": "WITHOUT BREAKING A SWEAT",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 1
     }
   ],
@@ -800,8 +805,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:05:09.9415449+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:05:45.7838864+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:57.0468757+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:59:30.2827104+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:05:09.9415826+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:59:48.1813155+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:05:45.7839263+00:00"
 }

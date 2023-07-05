@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 2620,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1872,9 +1872,9 @@
       "ID": "ACH_FINISH_MEDIUM",
       "SetID": "816efe",
       "Name": "This Went Smoothly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -1968,9 +1968,9 @@
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2161,8 +2161,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-05T13:19:39.2259596+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:08:16.8684613+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:08:43.2795708+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-05T21:01:08.2172584+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:08:16.8685269+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:01:28.4512853+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:08:43.2796524+00:00"
 }

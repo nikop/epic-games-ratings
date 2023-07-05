@@ -27,7 +27,7 @@ Rating: 4.45 (Ranked 620)
 | Living Nightmare | 19.00% | ~498 |
 | Stuff Of Nightmares | 15.00% | ~393 |
 | The Darwin Era Was Here | 15.00% | ~393 |
-| Come on, You Wanna Live Forever? | 13.00% | ~341 |
+| Come on, You Wanna Live Forever? | 14.00% | ~367 |
 | Deep Into Insanity | 13.00% | ~341 |
 | The Passenger | 13.00% | ~341 |
 | El Riesgo Siempre Vive | 12.00% | ~314 |
@@ -39,9 +39,9 @@ Rating: 4.45 (Ranked 620)
 | Heavy Steps | 8.00% | ~210 |
 | Excavating The Truth | 8.00% | ~210 |
 | Abysmal Horrors | 7.00% | ~183 |
+| This Went Smoothly | 5.00% | ~131 |
 | Regicide | 5.00% | ~131 |
 | Flawless Victory | 4.00% | ~105 |
-| This Went Smoothly | 4.00% | ~105 |
 | The True Experience | 4.00% | ~105 |
 | Perfect Enhancements | 3.00% | ~79 |
 | Hardened In The Heat Of Battle | 2.00% | ~52 |

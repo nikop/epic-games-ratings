@@ -92,7 +92,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1473,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -2952,6 +2952,11 @@
       "Time": "2023-07-05T21:08:32.836598+00:00",
       "NumProgressed": 1473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T22:09:00.9457284+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3043,7 +3048,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "A11",
@@ -3075,7 +3080,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "A15",
@@ -3099,7 +3104,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "A18",
@@ -3123,7 +3128,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "A21",
@@ -3139,7 +3144,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "A23",
@@ -3171,7 +3176,7 @@
       "Name": "Max Power",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "A27",
@@ -3187,15 +3192,15 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 516
     },
     {
       "ID": "A30",
@@ -3219,7 +3224,7 @@
       "Name": "Assimilated",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "A33",
@@ -3235,7 +3240,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "A35",
@@ -3251,7 +3256,7 @@
       "Name": "Way of Iron",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "A37",
@@ -3267,7 +3272,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "A39",
@@ -3297,9 +3302,9 @@
       "ID": "A42",
       "SetID": "9b7p7eo",
       "Name": "Bridge Builder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 619
     },
     {
       "ID": "A43",
@@ -3323,7 +3328,7 @@
       "Name": "Settler",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "A46",
@@ -3331,7 +3336,7 @@
       "Name": "Mystery Tour",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "A47",
@@ -3402,7 +3407,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1473,
+      "Progressed": 1474,
       "Completed": 0
     }
   ],
@@ -3410,8 +3415,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:08:32.8365967+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:09:00.9457273+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:59:02.3828791+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:08:32.8367155+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:59:21.5967711+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:09:00.9458502+00:00"
 }

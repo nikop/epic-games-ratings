@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -531,6 +531,11 @@
       "Time": "2023-07-05T21:04:54.102678+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T22:05:28.4604243+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -542,7 +547,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -566,7 +571,7 @@
       "Name": "Out Of Stock",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -612,9 +617,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 129
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -750,7 +755,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -798,7 +803,7 @@
       "Name": "Free Like Birds",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -902,7 +907,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -1069,14 +1074,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:04:54.1026773+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:05:28.4604236+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:57:01.2750139+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:04:54.1027519+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:56:58.7358829+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:05:28.4604971+00:00"
 }

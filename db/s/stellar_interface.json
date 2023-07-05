@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "BronzeBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Prince of Ball-air",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BronzeGilgameshBossDefeatedAchievement",
@@ -355,9 +355,9 @@
       "ID": "BronzeMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Ensign",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BronzeMissionsCompletedAllAchievement",
@@ -451,9 +451,9 @@
       "ID": "Cleared50LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo II",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ClearedAllLevels10TimesAchievement",
@@ -467,9 +467,9 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ClearedAllLevels20TimesAchievement",
@@ -611,9 +611,9 @@
       "ID": "ConsumableUsed10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Alpha",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ConsumableUsed500TimesAchievement",
@@ -835,9 +835,9 @@
       "ID": "Killed0EnemiesInLevelAchievement",
       "SetID": "a8djcgh",
       "Name": "Pacifist",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Killed100000EnemiesAchievement",
@@ -1227,9 +1227,9 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "VisitLostLord50TimeAchievement",
@@ -1283,9 +1283,9 @@
       "ID": "VisitOverlord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There I",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "VisitOverlord50TimeAchievement",
@@ -1338,8 +1338,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:04:09.0927153+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:04:38.2269875+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.4606171+00:00",
-  "LastUpdate_Ratings": "2023-07-05T21:00:12.207057+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:04:09.092943+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:00:26.5452452+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:04:38.2271865+00:00"
 }

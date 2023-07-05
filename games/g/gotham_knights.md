@@ -40,15 +40,15 @@ Rating: 4.18 (Ranked 853)
 | Family Meeting | 1.00% | ~665 |
 | Drone You Out | 1.00% | ~665 |
 | Solid Alibi | 1.00% | ~665 |
-| A Worthy Successor | 0.90% | ~598 |
+| A Worthy Successor | 0.90% | ~599 |
 | Expert Crime Fighter | 0.80% | ~532 |
-| Dressed to Impress | 0.70% | ~465 |
+| Dressed to Impress | 0.70% | ~466 |
 | A Momentum Occasion | 0.60% | ~399 |
-| Bat Out of Hell | 0.50% | ~332 |
+| Bat Out of Hell | 0.50% | ~333 |
 | He'd Be So Proud of You | 0.40% | ~266 |
 | Hammer and Icicle | 0.30% | ~110 |
 | Renewable Enemy Source | 0.30% | ~110 |
-| Practice Makes Perfect | 0.30% | ~199 |
+| Practice Makes Perfect | 0.30% | ~200 |
 | Element of Surprise | 0.20% | ~74 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
 | The Cold, the Bad and the Ugly | 0.20% | ~74 |
@@ -63,11 +63,11 @@ Rating: 4.18 (Ranked 853)
 | That's Showbiz, Clayby | 0.10% | ~37 |
 | Icebreaker | 0.10% | ~37 |
 | Don't Mecha Big Deal About It | 0.10% | ~37 |
-| Read Owl About It | 0.10% | ~66 |
-| History Major | 0.10% | ~66 |
+| Read Owl About It | 0.10% | ~67 |
+| History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,496 (Ranked 73)  
+Progressed: 66,501 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
-| 2023-07-05 | 66,496 | 100 |
+| 2023-07-05 | 66,501 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,419  (Ranked 100)  
 Sum: 4,005 (Ranked 137)  

@@ -1916,9 +1916,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66496,
+  "EOS_Progressed": 66501,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8786,6 +8786,11 @@
       "Time": "2023-07-05T21:03:47.7736814+00:00",
       "NumProgressed": 66496,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-05T22:04:13.9058921+00:00",
+      "NumProgressed": 66501,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8869,7 +8874,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ALL_VILLAIN",
@@ -8933,7 +8938,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -9077,7 +9082,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -9085,7 +9090,7 @@
       "Name": "History Major",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -9181,7 +9186,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "MYSTERY_01",
@@ -9277,20 +9282,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66496,
+      "Progressed": 66501,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36776,
+      "Progressed": 36781,
       "Completed": 2650
     }
   ],
@@ -9298,8 +9303,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-05T20:00:54.1234678+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:03:47.7736808+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:04:13.9058914+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-05T21:01:53.048399+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:03:47.7737915+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:02:15.2347002+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:04:13.9060746+00:00"
 }

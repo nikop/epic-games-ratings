@@ -2,7 +2,7 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 25,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 144,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.89,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -98,6 +98,12 @@
     {
       "Time": "2023-06-15T20:58:27.9292866+00:00",
       "Rating": 4.89,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-05T22:00:09.393988+00:00",
+      "Rating": 4.87,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4561,9 +4567,9 @@
       "ID": "Ach063",
       "SetID": "b7dbjo0",
       "Name": "Call me Turbo Chai",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach064",
@@ -4647,9 +4653,9 @@
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-07-05T21:08:33.6278414+00:00",
+  "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
+  "LastChanged_Achievements": "2023-07-05T22:09:01.8660794+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:59:50.2562096+00:00",
-  "LastUpdate_Achievements": "2023-07-05T21:08:33.6280201+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:00:09.393989+00:00",
+  "LastUpdate_Achievements": "2023-07-05T22:09:01.866263+00:00"
 }

@@ -1,11 +1,12 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.89 (Ranked 12)  
+Rating: 4.87 (Ranked 25)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.30% | ~6 |
+| Call me Turbo Chai | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
 | Cream of the Crop | 0.10% | ~3 |
 | This will cost you big time | 0.10% | ~3 |
@@ -43,7 +44,6 @@ Rating: 4.89 (Ranked 12)
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |
 | Check out my moves! | 0.10% | ~3 |
-| Call me Turbo Chai | 0.10% | ~2 |
 | Choose your own adventure | 0.10% | ~2 |
 | It'll do, CNMN | 0.10% | ~2 |
 | New bad guys? No problem! | 0.10% | ~2 |
@@ -172,3 +172,4 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-06-03 | 4.89 | 0 | 0 |
 | 2023-06-11 | 4.90 | 0 | 0 |
 | 2023-06-15 | 4.89 | 0 | 0 |
+| 2023-07-05 | 4.87 | 0 | 0 |
