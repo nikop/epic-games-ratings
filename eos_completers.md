@@ -73,7 +73,7 @@
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.13% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -179,18 +179,18 @@
 | 177 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 178 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 178 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 180 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 180 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 180 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 180 | [Supraland](games/s/supraland.md) | 0.10% |
 | 180 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.10% |
-| 184 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 184 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
-| 184 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
-| 184 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 188 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.08% |
-| 188 | [Riverbond](games/r/riverbond.md) | 0.08% |
-| 188 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
-| 188 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 185 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 185 | [Partisans 1941](games/p/partisans_1941.md) | 0.09% |
+| 185 | [Shop Titans](games/s/shop_titans.md) | 0.09% |
+| 185 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 189 | [Riverbond](games/r/riverbond.md) | 0.08% |
+| 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.08% |
+| 189 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
 | 192 | [Outward Definitive Edition](games/o/outward.md) | 0.07% |
 | 192 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 192 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |

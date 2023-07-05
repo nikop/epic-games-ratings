@@ -915,7 +915,7 @@
 | 912 | [Martha Is Dead](games/m/martha_is_dead.md) | 4.00 | 0 | 504 |
 | 912 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 504 |
 | 915 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 372 | 216 |
-| 915 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,645 | 68 |
+| 915 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,648 | 68 |
 | 917 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 504 |
 | 917 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 2,526 | 93 |
 | 919 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.96 | 0 | 504 |
