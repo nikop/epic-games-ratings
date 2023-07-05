@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2886,
+  "EOS_Progressed": 2887,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
@@ -3170,6 +3170,11 @@
       "Time": "2023-07-05T15:05:08.6760553+00:00",
       "NumProgressed": 2886,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-07-05T18:05:27.3694848+00:00",
+      "NumProgressed": 2887,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 24,
@@ -3181,7 +3186,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "10",
@@ -3189,7 +3194,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "11",
@@ -3221,7 +3226,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "15",
@@ -3285,7 +3290,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "22",
@@ -3317,7 +3322,7 @@
       "Name": "FRIENDLY",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "4",
@@ -3341,7 +3346,7 @@
       "Name": "PRO",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "7",
@@ -3372,13 +3377,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2886,
+      "Progressed": 2887,
       "Completed": 86
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:05:09.4210758+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:05:27.3694843+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:59:34.4726596+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:05:09.4211135+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:59:53.6002119+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:05:27.3695508+00:00"
 }

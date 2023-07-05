@@ -12,8 +12,8 @@
 | Comedy Killer | 33.00% | ~57 |
 | This won't end well... | 33.00% | ~57 |
 | Bromance | 31.00% | ~54 |
+| Mission Complete | 31.00% | ~54 |
 | Good job, nerd | 30.00% | ~52 |
-| Mission Complete | 30.00% | ~52 |
 | Lootaphilia | 23.00% | ~40 |
 | Maybe you should give it another go | 10.00% | ~17 |
 | I used to think I was indecisive... | 7.00% | ~12 |

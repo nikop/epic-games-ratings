@@ -308,9 +308,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "super_seducer",
@@ -381,8 +381,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:07:08.8231434+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:07:06.6704738+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:11.8549995+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:00:45.3656781+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:07:08.8231581+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:01:03.7450214+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:07:06.6704914+00:00"
 }

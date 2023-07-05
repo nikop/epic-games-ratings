@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -375,10 +375,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3211,
-  "EOS_Completed": 8,
-  "EOS_NewPlayers": 55,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed": 9,
+  "EOS_NewPlayers": 53,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -4699,6 +4699,11 @@
       "Time": "2023-07-05T17:07:16.1949056+00:00",
       "NumProgressed": 3211,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-05T18:07:14.2818406+00:00",
+      "NumProgressed": 3211,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4804,9 +4809,9 @@
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
       "SetID": "bm6el81",
       "Name": "Master of Secondaries",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -4836,9 +4841,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -4892,9 +4897,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -4924,9 +4929,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -5284,15 +5289,15 @@
       "ID": "bm6el81",
       "IsBase": true,
       "Progressed": 3211,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:07:16.1949051+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:07:14.28184+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:01:30.6849709+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:07:16.1950076+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:01:46.1202093+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:07:14.2819792+00:00"
 }

@@ -24,10 +24,10 @@ Rating: 4.44 (Ranked 639)
 | Organ Grinder | 0.80% | ~26 |
 | Der Geist | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
+| Skirmisher | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
-| Skirmisher | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
@@ -35,10 +35,10 @@ Rating: 4.44 (Ranked 639)
 | Enemy at the Gates | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
+| Rigged to Blow | 0.50% | ~16 |
+| Die Nussknacker Sweet! | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
 | The Long Game | 0.40% | ~13 |
-| Rigged to Blow | 0.40% | ~13 |
-| Die Nussknacker Sweet! | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Burn after reading | 0.30% | ~10 |
@@ -49,6 +49,7 @@ Rating: 4.44 (Ranked 639)
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
 | Strategist | 0.20% | ~6 |
+| Master of Secondaries | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | From Paris with Love | 0.20% | ~6 |
 | Souvenir hunter | 0.20% | ~6 |
@@ -64,7 +65,6 @@ Rating: 4.44 (Ranked 639)
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
-| Master of Secondaries | 0.10% | ~3 |
 | Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 639)
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,211 (Ranked 145)  
-Completed: 8 (0.25%) (Ranked 150)  
+Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 8 (0.25%) (Ranked 150)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
-| 2023-07-05 | 3,211 | 8 |
+| 2023-07-05 | 3,211 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

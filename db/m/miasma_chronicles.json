@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-07-04T17:03:23.5670609+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T18:02:12.2772533+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2184,7 +2189,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "CHAIN_REACTION",
@@ -2288,7 +2293,7 @@
       "Name": "Endgame",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "EXORCIST",
@@ -2320,7 +2325,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -2368,7 +2373,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -2376,7 +2381,7 @@
       "Name": "Hold The Line",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "IM_THE_LAW",
@@ -2384,7 +2389,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "INFILTRATOR",
@@ -2400,7 +2405,7 @@
       "Name": "Lumberjack",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -2464,7 +2469,7 @@
       "Name": "Savior",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "SENSEI",
@@ -2494,9 +2499,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 120
     },
     {
       "ID": "TECHNOPHOBE",
@@ -2512,7 +2517,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -2528,7 +2533,7 @@
       "Name": "The Watchers",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "WIPE_OUT",
@@ -2543,7 +2548,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 0
     }
   ],
@@ -2551,8 +2556,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:01:54.8719296+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:02:12.2772529+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:58:45.6796873+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:01:54.8719868+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:59:09.0512569+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:02:12.277328+00:00"
 }

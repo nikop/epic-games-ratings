@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -178,6 +178,11 @@
       "Time": "2023-06-20T19:06:48.133222+00:00",
       "NumProgressed": 205,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-05T18:06:49.9515375+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -197,7 +202,7 @@
       "Name": "Career Woman",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "deal_or_no_deal",
@@ -205,7 +210,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "hopeful",
@@ -229,7 +234,7 @@
       "Name": "Impress Theron",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "marriage_is_off",
@@ -237,7 +242,7 @@
       "Name": "The Marriage Is Off",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "no_one_is_safe",
@@ -245,15 +250,15 @@
       "Name": "No One Is Safe",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "on_your_bike",
@@ -277,7 +282,7 @@
       "Name": "Personal Life",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "save_dad",
@@ -324,7 +329,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 3
     }
   ],
@@ -332,8 +337,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:06:41.788573+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:06:49.9515369+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:28.7975354+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:57:45.8961008+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:06:41.7885879+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:57:51.5003339+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:06:49.9515531+00:00"
 }

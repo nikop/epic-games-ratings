@@ -2,7 +2,7 @@
   "ID": "ace4435645d9489cacfbb422b7c1c817",
   "Name": "SAMURAI SHODOWN",
   "ProductSlug": "samurai-shodown-reboot",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 488,
@@ -72,6 +72,6 @@
   "FirstSeenRating": "2022-11-04T12:00:55.2608332+00:00",
   "LastChanged": "2023-03-31T05:57:04.7641102+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.5987205+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:58:53.6655369+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:04:09.6234794+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:59:17.6128798+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:04:17.632889+00:00"
 }

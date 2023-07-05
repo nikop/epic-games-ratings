@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56856,
+  "EOS_Progressed": 56859,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7027,6 +7027,11 @@
       "Time": "2023-07-05T17:02:27.487807+00:00",
       "NumProgressed": 56856,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T18:03:05.309438+00:00",
+      "NumProgressed": 56859,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7038,7 +7043,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18762
+      "UsersEstimate": 18763
     },
     {
       "ID": "02",
@@ -7054,7 +7059,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11371
+      "UsersEstimate": 11372
     },
     {
       "ID": "04",
@@ -7070,7 +7075,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10234
+      "UsersEstimate": 10235
     },
     {
       "ID": "06",
@@ -7150,7 +7155,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "16",
@@ -7158,7 +7163,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "17",
@@ -7166,7 +7171,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "18",
@@ -7302,7 +7307,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "35",
@@ -7310,7 +7315,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15351
+      "UsersEstimate": 15352
     },
     {
       "ID": "36",
@@ -7350,7 +7355,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "41",
@@ -7374,7 +7379,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8528
+      "UsersEstimate": 8529
     },
     {
       "ID": "44",
@@ -7446,7 +7451,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "53",
@@ -7534,7 +7539,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "64",
@@ -7573,21 +7578,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56856,
+      "Progressed": 56859,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20324,
+      "Progressed": 20327,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:02:27.4878062+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:03:05.3094375+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:58:02.0892722+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:02:27.4879186+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:58:14.6542115+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:03:05.3096424+00:00"
 }

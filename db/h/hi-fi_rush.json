@@ -4180,9 +4180,9 @@
       "ID": "Ach016",
       "SetID": "12n4k20",
       "Name": "Chip-tuned",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach017",
@@ -4276,9 +4276,9 @@
       "ID": "Ach028",
       "SetID": "12n4k20",
       "Name": "I think I found your calling, Macaron",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach029",
@@ -4292,9 +4292,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach031",
@@ -4372,9 +4372,9 @@
       "ID": "Ach040",
       "SetID": "12n4k20",
       "Name": "Now this is how you fight like a team!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach041",
@@ -4468,9 +4468,9 @@
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach053",
@@ -4564,9 +4564,9 @@
       "ID": "Ach064",
       "SetID": "b7dbjo0",
       "Name": "Choose your own adventure",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach065",
@@ -4643,8 +4643,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-06-15T20:58:27.9292865+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:07:16.1703908+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:07:14.0188629+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:59:03.959255+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:07:16.1704912+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:59:27.3636217+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:07:14.0189837+00:00"
 }

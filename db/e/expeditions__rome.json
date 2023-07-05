@@ -2,7 +2,7 @@
   "ID": "0756b215f3394428877179923c6e2fa0",
   "Name": "Expeditions: Rome",
   "ProductSlug": "expeditions-rome",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 488,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 68,
   "RatingHistory": [
     {
@@ -264,6 +264,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-07-05T17:58:06.8097867+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
@@ -289,8 +295,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
-  "LastChanged": "2023-06-15T02:57:56.7858471+00:00",
+  "LastChanged": "2023-07-05T17:58:06.8097866+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:55.3148098+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:57:56.8136417+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:05:28.2360421+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:58:06.8097872+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:05:44.4862861+00:00"
 }

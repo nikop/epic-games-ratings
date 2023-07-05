@@ -2,12 +2,12 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 80,
+  "Ranking_Rating": 81,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -2943,9 +2943,9 @@
       "ID": "STB_DEFEAT_ARMADILLO",
       "SetID": "3pe2bac",
       "Name": "No more holding back",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 386
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3320,8 +3320,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:07:14.2231055+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:07:12.3759044+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:52.9751016+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:57:56.3506249+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:07:14.2231704+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:58:05.8885478+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:07:12.3759795+00:00"
 }

@@ -12,19 +12,25 @@ Rating: 4.89 (Ranked 12)
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Thanks for the free chip, Peppermint! | 0.10% | ~3 |
+| Chip-tuned | 0.10% | ~3 |
 | I play my own way! | 0.10% | ~3 |
 | Whoa! There's ANOTHER health bar!? | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
 | You got this, Peppermint? | 0.10% | ~3 |
 | You must like calling me in, Chai | 0.10% | ~3 |
 | Z-shielding's got nothing on us! | 0.10% | ~3 |
+| I think I found your calling, Macaron | 0.10% | ~3 |
 | Out in a puff of smoke | 0.10% | ~3 |
+| This is a breeze! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
+| Now this is how you fight like a team! | 0.10% | ~3 |
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
 | Who put gears in there? | 0.10% | ~3 |
 | Alright, that felt AWESOME! | 0.10% | ~3 |
+| Wanna hear my playlist? | 0.10% | ~3 |
 | NOW we got a kickass hideout! | 0.10% | ~2 |
 | Call me Turbo Chai | 0.10% | ~2 |
+| Choose your own adventure | 0.10% | ~2 |
 | New bad guys? No problem! | 0.10% | ~2 |
 | Start with a bang! | 0.00% | ~0 |
 | This will cost you big time | 0.00% | ~0 |
@@ -34,14 +40,11 @@ Rating: 4.89 (Ranked 12)
 | Didn't skip a beat! | 0.00% | ~0 |
 | Problem solved... wait, what? | 0.00% | ~0 |
 | I can't see this ever being a problem again | 0.00% | ~0 |
-| Chip-tuned | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |
 | I have to read these things? | 0.00% | ~0 |
 | I have to read ALL of these things? | 0.00% | ~0 |
 | Feeling the beat! | 0.00% | ~0 |
-| I think I found your calling, Macaron | 0.00% | ~0 |
-| This is a breeze! | 0.00% | ~0 |
 | Perfect Parry | 0.00% | ~0 |
 | Perfecter Parry-er! | 0.00% | ~0 |
 | Uh, they were broken when I got here | 0.00% | ~0 |
@@ -50,7 +53,6 @@ Rating: 4.89 (Ranked 12)
 | Kissing the sky! | 0.00% | ~0 |
 | I'm not done with you yet | 0.00% | ~0 |
 | First we parry, then we counter | 0.00% | ~0 |
-| Now this is how you fight like a team! | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
 | This was... not what I expected. | 0.00% | ~0 |
@@ -59,7 +61,6 @@ Rating: 4.89 (Ranked 12)
 | I hit things with a guitar really well. | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
 | You can pet the cat! | 0.00% | ~0 |
-| Wanna hear my playlist? | 0.00% | ~0 |
 | Does that say weakpoint? | 0.00% | ~0 |
 | I told you I'd be fine, Peppermint! | 0.00% | ~0 |
 | You ever parry a volcano? | 0.00% | ~0 |
@@ -69,7 +70,6 @@ Rating: 4.89 (Ranked 12)
 | I saw all those hits coming a measure away! | 0.00% | ~0 |
 | Check out my moves! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
-| Choose your own adventure | 0.00% | ~0 |
 | It'll do, CNMN | 0.00% | ~0 |
 | Please don't make this awkward | 0.00% | ~0 |
 | That was just EVIL | 0.00% | ~0 |

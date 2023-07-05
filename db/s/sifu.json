@@ -5004,7 +5004,7 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710493,
+  "EOS_Progressed": 710494,
   "EOS_Completed": 12805,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 11,
@@ -12229,6 +12229,11 @@
       "Time": "2023-07-05T17:07:14.4329458+00:00",
       "NumProgressed": 710493,
       "NumCompleted": 12805
+    },
+    {
+      "Time": "2023-07-05T18:07:12.4003947+00:00",
+      "NumProgressed": 710494,
+      "NumCompleted": 12805
     }
   ],
   "TotalAchievements": 50,
@@ -12422,9 +12427,9 @@
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7105
+      "UsersEstimate": 14210
     },
     {
       "ID": "25_ShrineMind",
@@ -12639,21 +12644,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19794,
+      "Progressed": 19795,
       "Completed": 10361
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710493,
+      "Progressed": 710494,
       "Completed": 12805
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-05T16:59:40.6735923+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:07:14.4329452+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:07:12.4003941+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:59:40.6735936+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:07:14.4330388+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:59:57.9628754+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:07:12.4005299+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 36.00% | ~18,495 |
-| To The Nines | 32.00% | ~16,440 |
-| Optimized | 28.00% | ~14,385 |
+| First F#@!ing Day | 36.00% | ~18,496 |
+| To The Nines | 32.00% | ~16,441 |
+| Optimized | 28.00% | ~14,386 |
 | Performance Review | 27.00% | ~13,872 |
 | Making a Name | 26.00% | ~13,358 |
 | Tune Up | 25.00% | ~12,844 |
-| The Side Job | 24.00% | ~12,330 |
-| Wet Work | 24.00% | ~12,330 |
-| Landlord | 24.00% | ~12,330 |
+| The Side Job | 24.00% | ~12,331 |
+| Wet Work | 24.00% | ~12,331 |
+| Landlord | 24.00% | ~12,331 |
 | Wrecking Ball | 21.00% | ~10,789 |
 | Food for Thought | 21.00% | ~10,789 |
-| Finders Keepers | 19.00% | ~9,761 |
-| A Young Empire | 19.00% | ~9,761 |
+| Finders Keepers | 19.00% | ~9,762 |
+| A Young Empire | 19.00% | ~9,762 |
 | Work Ethic | 18.00% | ~9,248 |
 | Power Players | 14.00% | ~7,193 |
 | Picking Fights | 14.00% | ~7,193 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~51 |
 | Fiesta Time | 0.10% | ~51 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,376 (Ranked 83)  
+Progressed: 51,378 (Ranked 83)  
 Completed: 28 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,18 +136,18 @@ Completed: 28 (0.05%) (Ranked 199)
 | 2023-07-02 | 50,815 | 27 |
 | 2023-07-03 | 51,011 | 27 |
 | 2023-07-04 | 51,222 | 28 |
-| 2023-07-05 | 51,376 | 28 |
+| 2023-07-05 | 51,378 | 28 |
 ## Awards
 Max (Extremely Fun): 1,046  (Ranked 139)  
-Sum: 8,494 (Ranked 91)  
+Sum: 8,496 (Ranked 91)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,046 |
 | This game has Quickly Understood Controls | 1,016 |
 | This game is Highly Recommended | 987 |
+| This game has Diverse Characters | 979 |
 | This game is Great for Beginners | 979 |
-| This game has Diverse Characters | 977 |
 | This game is Relaxing | 971 |
 | This game has Amazing Characters | 969 |
 | This game has Amazing Storytelling | 962 |
@@ -273,4 +273,4 @@ Diff (max vs sum): 48
 | 2023-07-02 | 3.78 | - | 1,045 | 8,485 |
 | 2023-07-03 | 3.78 | - | 1,046 | 8,488 |
 | 2023-07-04 | 3.78 | - | 1,046 | 8,492 |
-| 2023-07-05 | 3.78 | - | 1,046 | 8,494 |
+| 2023-07-05 | 3.78 | - | 1,046 | 8,496 |

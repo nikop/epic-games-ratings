@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2872,10 +2872,16 @@
       "Rating": 3.78,
       "NumberOfAwards": 8494,
       "NumberOfAwardsMax": 1046
+    },
+    {
+      "Time": "2023-07-05T18:00:45.4701256+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8496,
+      "NumberOfAwardsMax": 1046
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8494,
+  "NumberOfAwards": 8496,
   "NumberOfAwardsMax": 1046,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2883,7 +2889,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 977
+      "Count": 979
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2940,9 +2946,9 @@
       "Count": 1046
     }
   ],
-  "EOS_Progressed": 51376,
+  "EOS_Progressed": 51378,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1554,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11000,6 +11006,11 @@
       "Time": "2023-07-05T17:03:12.6465832+00:00",
       "NumProgressed": 51376,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-05T18:03:20.612539+00:00",
+      "NumProgressed": 51378,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -11059,7 +11070,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9761
+      "UsersEstimate": 9762
     },
     {
       "ID": "complet_epilogue_mission",
@@ -11107,7 +11118,7 @@
       "Name": "The Side Job",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -11115,7 +11126,7 @@
       "Name": "Wet Work",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "complete_mission_1",
@@ -11123,7 +11134,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 18495
+      "UsersEstimate": 18496
     },
     {
       "ID": "customize_a_vehicle",
@@ -11139,7 +11150,7 @@
       "Name": "Optimized",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14385
+      "UsersEstimate": 14386
     },
     {
       "ID": "cutting_edge_materials",
@@ -11187,7 +11198,7 @@
       "Name": "A Young Empire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 9761
+      "UsersEstimate": 9762
     },
     {
       "ID": "empire_tier_3",
@@ -11219,7 +11230,7 @@
       "Name": "Landlord",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12330
+      "UsersEstimate": 12331
     },
     {
       "ID": "fully_complete_a_building",
@@ -11395,7 +11406,7 @@
       "Name": "To The Nines",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 16440
+      "UsersEstimate": 16441
     },
     {
       "ID": "whole_map_purple",
@@ -11434,22 +11445,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 51376,
+      "Progressed": 51378,
       "Completed": 28
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 23013,
+      "Progressed": 23015,
       "Completed": 2446
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-07-05T02:22:50.1836287+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:03:12.6465826+00:00",
+  "LastChanged": "2023-07-05T18:00:45.4701255+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:03:20.6125386+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:51.2540387+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:00:31.5641634+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:03:12.6466818+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:00:45.4701268+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:03:20.6126626+00:00"
 }

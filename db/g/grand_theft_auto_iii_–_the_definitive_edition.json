@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -364,9 +364,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6908,
+  "EOS_Progressed": 6909,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5249,6 +5249,11 @@
       "Time": "2023-07-05T07:04:13.0073709+00:00",
       "NumProgressed": 6908,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-05T18:03:41.8231254+00:00",
+      "NumProgressed": 6909,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5300,7 +5305,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH07",
@@ -5332,7 +5337,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH11",
@@ -5491,7 +5496,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6908,
+      "Progressed": 6909,
       "Completed": 40
     }
   ],
@@ -5499,8 +5504,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-04T08:58:04.5162173+00:00",
-  "LastChanged_Achievements": "2023-07-05T17:03:32.9957009+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:03:41.8231249+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:58:16.233703+00:00",
-  "LastUpdate_Achievements": "2023-07-05T17:03:32.9957523+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:58:35.8953095+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:03:41.8232224+00:00"
 }

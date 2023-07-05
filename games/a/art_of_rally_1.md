@@ -10,7 +10,7 @@ Number of Ratings: 56  (23.09.2022)
 | keep it tidy | 77.00% | ~7,830 |
 | podium | 72.00% | ~7,322 |
 | medium attack | 60.00% | ~6,101 |
-| brail | 56.00% | ~5,695 |
+| brail | 57.00% | ~5,796 |
 | good drivers have dead flies on the side windows | 41.00% | ~4,169 |
 | grocery-getter | 39.00% | ~3,966 |
 | rwd only | 26.00% | ~2,644 |

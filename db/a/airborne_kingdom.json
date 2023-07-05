@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 298,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6746,
+  "EOS_Progressed": 6747,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2448,6 +2448,11 @@
       "Time": "2023-07-05T13:26:28.9614898+00:00",
       "NumProgressed": 6746,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-05T18:01:55.1801505+00:00",
+      "NumProgressed": 6747,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2491,7 +2496,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -2515,7 +2520,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -2523,7 +2528,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -2563,7 +2568,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -2593,9 +2598,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2766
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2659,7 +2664,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -2674,15 +2679,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6746,
+      "Progressed": 6747,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-05T16:08:33.2475195+00:00",
+  "LastChanged_Achievements": "2023-07-05T18:01:55.1801502+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:31.6113901+00:00",
-  "LastUpdate_Ratings": "2023-07-05T16:57:47.3455405+00:00",
-  "LastUpdate_Achievements": "2023-07-05T16:08:33.2475736+00:00"
+  "LastUpdate_Ratings": "2023-07-05T17:57:51.746307+00:00",
+  "LastUpdate_Achievements": "2023-07-05T18:01:55.1801888+00:00"
 }
