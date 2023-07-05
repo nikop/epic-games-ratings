@@ -14,6 +14,7 @@ Rating: 4.61 (Ranked 362)
 | Stronger Together | 2.00% | ~98 |
 | Magical Synergy | 2.00% | ~98 |
 | My Final Form | 2.00% | ~98 |
+| Impenetrable Fortress | 2.00% | ~98 |
 | Intimidation Tactics | 2.00% | ~98 |
 | Here be Dragons | 2.00% | ~98 |
 | Blood of the Dragon | 2.00% | ~98 |
@@ -28,7 +29,6 @@ Rating: 4.61 (Ranked 362)
 | In a Liege of Your Own | 1.00% | ~49 |
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
-| Impenetrable Fortress | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Valley of Wonders | 0.90% | ~44 |
 | Enchanted Archipelago | 0.90% | ~44 |

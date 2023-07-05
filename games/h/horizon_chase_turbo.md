@@ -6,31 +6,31 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~887,722 |
-| I Need a Bigger Garage | 63.00% | ~628,387 |
-| Pump my Ride | 46.00% | ~458,822 |
-| Ghostbuster | 32.00% | ~319,181 |
-| That Was Close | 18.00% | ~179,539 |
-| Call Roadside Assistance | 17.00% | ~169,565 |
-| Quickie | 10.00% | ~99,744 |
-| California Dreamer | 7.00% | ~69,821 |
-| Can't Touch This | 5.00% | ~49,872 |
-| Carménère Taster | 3.00% | ~29,923 |
-| Comeback | 3.00% | ~29,923 |
-| Marathonist | 3.00% | ~29,923 |
-| Living Legend | 3.00% | ~29,923 |
+| The First of Many | 89.00% | ~887,737 |
+| I Need a Bigger Garage | 63.00% | ~628,398 |
+| Pump my Ride | 46.00% | ~458,830 |
+| Ghostbuster | 32.00% | ~319,186 |
+| That Was Close | 18.00% | ~179,542 |
+| Call Roadside Assistance | 17.00% | ~169,568 |
+| Quickie | 10.00% | ~99,746 |
+| California Dreamer | 7.00% | ~69,822 |
+| Can't Touch This | 5.00% | ~49,873 |
+| Carménère Taster | 3.00% | ~29,924 |
+| Comeback | 3.00% | ~29,924 |
+| Marathonist | 3.00% | ~29,924 |
+| Living Legend | 3.00% | ~29,924 |
 | Driver from Ipanema | 2.00% | ~19,949 |
 | Pathfinder | 2.00% | ~19,949 |
 | Go-Kart Champion | 2.00% | ~19,949 |
 | Completionist | 2.00% | ~19,949 |
 | Supersonic | 2.00% | ~19,949 |
 | Harder, Better, Faster, Stronger | 2.00% | ~19,949 |
-| God of Roads | 1.00% | ~9,974 |
-| The Iceman | 1.00% | ~9,974 |
-| Oil Tycoon | 1.00% | ~9,974 |
-| Round the Globe | 1.00% | ~9,974 |
-| Golden Passport | 1.00% | ~9,974 |
-| Brave and Bold | 1.00% | ~9,974 |
+| God of Roads | 1.00% | ~9,975 |
+| The Iceman | 1.00% | ~9,975 |
+| Oil Tycoon | 1.00% | ~9,975 |
+| Round the Globe | 1.00% | ~9,975 |
+| Golden Passport | 1.00% | ~9,975 |
+| Brave and Bold | 1.00% | ~9,975 |
 | Crocodile Hunter | 0.90% | ~8,977 |
 | Bollywood Star | 0.90% | ~8,977 |
 | Old Master | 0.80% | ~7,980 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~997 |
 | Look Mom, No Hands! | 0.10% | ~997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 997,440 (Ranked 12)  
+Progressed: 997,457 (Ranked 12)  
 Completed: 340 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 340 (0.03%) (Ranked 206)
 | 2023-07-02 | 995,729 | 336 |
 | 2023-07-03 | 996,488 | 336 |
 | 2023-07-04 | 997,254 | 339 |
-| 2023-07-05 | 997,440 | 340 |
+| 2023-07-05 | 997,457 | 340 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 293)  
 Sum: 1,193 (Ranked 229)  

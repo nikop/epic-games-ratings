@@ -4992,9 +4992,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710484,
+  "EOS_Progressed": 710485,
   "EOS_Completed": 12804,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12177,6 +12177,11 @@
       "Time": "2023-07-05T05:05:59.3150246+00:00",
       "NumProgressed": 710484,
       "NumCompleted": 12804
+    },
+    {
+      "Time": "2023-07-05T08:06:48.8177138+00:00",
+      "NumProgressed": 710485,
+      "NumCompleted": 12804
     }
   ],
   "TotalAchievements": 50,
@@ -12556,7 +12561,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -12587,21 +12592,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19785,
+      "Progressed": 19786,
       "Completed": 10357
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710484,
+      "Progressed": 710485,
       "Completed": 12804
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-04T17:00:05.2941494+00:00",
-  "LastChanged_Achievements": "2023-07-05T07:07:16.024239+00:00",
+  "LastChanged_Achievements": "2023-07-05T08:06:48.8177135+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:59:46.728736+00:00",
-  "LastUpdate_Achievements": "2023-07-05T07:07:16.0243621+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:59:25.4287398+00:00",
+  "LastUpdate_Achievements": "2023-07-05T08:06:48.8178725+00:00"
 }

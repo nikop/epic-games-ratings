@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28810,
+  "EOS_Progressed": 28815,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8281,6 +8281,11 @@
       "Time": "2023-07-05T06:03:20.8918058+00:00",
       "NumProgressed": 28810,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-05T08:03:15.2824114+00:00",
+      "NumProgressed": 28815,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8300,7 +8305,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -8316,7 +8321,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -8340,7 +8345,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -8364,7 +8369,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -8436,7 +8441,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -8444,7 +8449,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -8523,7 +8528,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28810,
+      "Progressed": 28815,
       "Completed": 20
     }
   ],
@@ -8531,8 +8536,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-05T07:03:29.5252458+00:00",
+  "LastChanged_Achievements": "2023-07-05T08:03:15.2824107+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-05T07:00:52.0145648+00:00",
-  "LastUpdate_Achievements": "2023-07-05T07:03:29.525334+00:00"
+  "LastUpdate_Ratings": "2023-07-05T08:00:28.8394291+00:00",
+  "LastUpdate_Achievements": "2023-07-05T08:03:15.2825185+00:00"
 }

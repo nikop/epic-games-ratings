@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -640,9 +640,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252444,
+  "EOS_Progressed": 252446,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8335,6 +8335,11 @@
       "Time": "2023-07-05T07:05:15.2591812+00:00",
       "NumProgressed": 252444,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-05T08:04:43.4450985+00:00",
+      "NumProgressed": 252446,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8450,7 +8455,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25244
+      "UsersEstimate": 25245
     },
     {
       "ID": "CreditLevel2",
@@ -8738,7 +8743,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25244
+      "UsersEstimate": 25245
     },
     {
       "ID": "ReachNDays2",
@@ -8793,7 +8798,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252444,
+      "Progressed": 252446,
       "Completed": 2
     }
   ],
@@ -8801,8 +8806,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-04T12:01:04.6761697+00:00",
-  "LastChanged_Achievements": "2023-07-05T07:05:15.2591807+00:00",
+  "LastChanged_Achievements": "2023-07-05T08:04:43.4450978+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-05T07:01:09.2357282+00:00",
-  "LastUpdate_Achievements": "2023-07-05T07:05:15.2592882+00:00"
+  "LastUpdate_Ratings": "2023-07-05T08:00:42.8895819+00:00",
+  "LastUpdate_Achievements": "2023-07-05T08:04:43.445196+00:00"
 }

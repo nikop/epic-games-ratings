@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36662,
+  "EOS_Progressed": 36663,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7484,6 +7484,11 @@
       "Time": "2023-07-05T07:04:36.8090638+00:00",
       "NumProgressed": 36662,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-07-05T08:04:11.9805305+00:00",
+      "NumProgressed": 36663,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 44,
@@ -7495,7 +7500,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20897
+      "UsersEstimate": 20898
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -7503,7 +7508,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 11365
+      "UsersEstimate": 11366
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -7583,7 +7588,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -7591,7 +7596,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -7615,7 +7620,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 29696
+      "UsersEstimate": 29697
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -7703,7 +7708,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7332
+      "UsersEstimate": 7333
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -7735,7 +7740,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 23097
+      "UsersEstimate": 23098
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -7759,7 +7764,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 21997
+      "UsersEstimate": 21998
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -7831,7 +7836,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 34096
+      "UsersEstimate": 34097
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -7839,14 +7844,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 19064
+      "UsersEstimate": 19065
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 36662,
+      "Progressed": 36663,
       "Completed": 183
     }
   ],
@@ -7854,8 +7859,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-05T07:04:36.8090634+00:00",
+  "LastChanged_Achievements": "2023-07-05T08:04:11.9805299+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.8892651+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:58:59.9680987+00:00",
-  "LastUpdate_Achievements": "2023-07-05T07:04:36.8091593+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:58:47.7636385+00:00",
+  "LastUpdate_Achievements": "2023-07-05T08:04:11.9806557+00:00"
 }

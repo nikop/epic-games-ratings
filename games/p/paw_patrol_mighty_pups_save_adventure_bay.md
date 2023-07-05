@@ -18,10 +18,10 @@
 | Master of the Rope | 33.00% | ~4 |
 | Training Day | 33.00% | ~4 |
 | The Fastest | 33.00% | ~4 |
+| You Have Been Everywhere | 33.00% | ~4 |
 | Mandy Family | 33.00% | ~4 |
 | In the Air | 25.00% | ~3 |
 | Never Miss | 25.00% | ~3 |
-| You Have Been Everywhere | 25.00% | ~3 |
 | Everything Under Control | 17.00% | ~2 |
 | Clear the Road | 17.00% | ~2 |
 | Mountain and Ice | 17.00% | ~2 |

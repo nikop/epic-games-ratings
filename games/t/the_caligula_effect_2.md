@@ -16,7 +16,7 @@ Number of Ratings: 32  (23.09.2022)
 | Test Your Luck | 34.00% | ~79 |
 | Behind the Curtain | 33.00% | ~77 |
 | Master of Surprise | 30.00% | ~70 |
-| Be Who You Wanna Be | 26.00% | ~61 |
+| Be Who You Wanna Be | 27.00% | ~63 |
 | Counter Champion | 26.00% | ~61 |
 | Friendly Neighborhood | 24.00% | ~56 |
 | Nice Doing Business | 24.00% | ~56 |

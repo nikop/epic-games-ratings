@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2002,7 +2002,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 34023,
+  "EOS_Progressed": 34024,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
@@ -9942,6 +9942,11 @@
       "Time": "2023-07-05T07:02:15.0993543+00:00",
       "NumProgressed": 34023,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-07-05T08:02:08.0639052+00:00",
+      "NumProgressed": 34024,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -9985,7 +9990,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19393
+      "UsersEstimate": 19394
     },
     {
       "ID": "achievements_14",
@@ -10017,7 +10022,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 9526
+      "UsersEstimate": 9527
     },
     {
       "ID": "achievements_2",
@@ -10033,7 +10038,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "achievements_21",
@@ -10073,7 +10078,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 9526
+      "UsersEstimate": 9527
     },
     {
       "ID": "achievements_26",
@@ -10089,7 +10094,7 @@
       "Name": "Mountain King - II",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 13609
+      "UsersEstimate": 13610
     },
     {
       "ID": "achievements_28",
@@ -10097,7 +10102,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "achievements_29",
@@ -10201,7 +10206,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 22455
+      "UsersEstimate": 22456
     },
     {
       "ID": "achievements_40",
@@ -10233,7 +10238,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "achievements_44",
@@ -10241,7 +10246,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "achievements_45",
@@ -10257,7 +10262,7 @@
       "Name": "Improvement",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 29260
+      "UsersEstimate": 29261
     },
     {
       "ID": "achievements_47",
@@ -10305,7 +10310,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 13949
+      "UsersEstimate": 13950
     },
     {
       "ID": "achievements_52",
@@ -10321,7 +10326,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 19393
+      "UsersEstimate": 19394
     },
     {
       "ID": "achievements_54",
@@ -10529,7 +10534,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 24837
+      "UsersEstimate": 24838
     },
     {
       "ID": "achievements_8",
@@ -10552,15 +10557,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 34023,
+      "Progressed": 34024,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-06-20T13:07:30.3079787+00:00",
-  "LastChanged_Achievements": "2023-07-05T07:02:15.099354+00:00",
+  "LastChanged_Achievements": "2023-07-05T08:02:08.0639046+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.3776704+00:00",
-  "LastUpdate_Ratings": "2023-07-05T06:59:31.6771647+00:00",
-  "LastUpdate_Achievements": "2023-07-05T07:02:15.0994868+00:00"
+  "LastUpdate_Ratings": "2023-07-05T07:59:10.6618372+00:00",
+  "LastUpdate_Achievements": "2023-07-05T08:02:08.0640901+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 41.00% | ~5,620 |
-| Man of politics | 35.00% | ~4,798 |
-| Friends of sorts | 34.00% | ~4,661 |
-| Yet another secret | 34.00% | ~4,661 |
-| Let there be darkness | 33.00% | ~4,524 |
-| End of Book One | 31.00% | ~4,249 |
-| Wannabe knight | 24.00% | ~3,290 |
-| Garden of Eden | 24.00% | ~3,290 |
-| Full house | 24.00% | ~3,290 |
+| Tattletale | 41.00% | ~5,622 |
+| Man of politics | 35.00% | ~4,799 |
+| Friends of sorts | 34.00% | ~4,662 |
+| Yet another secret | 34.00% | ~4,662 |
+| Let there be darkness | 33.00% | ~4,525 |
+| End of Book One | 31.00% | ~4,250 |
+| Wannabe knight | 24.00% | ~3,291 |
+| Garden of Eden | 24.00% | ~3,291 |
+| Full house | 24.00% | ~3,291 |
 | Help an old friend | 22.00% | ~3,016 |
 | Two of us | 20.00% | ~2,742 |
 | Negotiation skills | 19.00% | ~2,605 |
-| Workers' union | 18.00% | ~2,467 |
-| End of Book Two | 18.00% | ~2,467 |
-| Everything's in order | 17.00% | ~2,330 |
-| Jack was here! | 15.00% | ~2,056 |
-| Twist of Fate | 14.00% | ~1,919 |
-| Exterminator | 14.00% | ~1,919 |
+| Workers' union | 18.00% | ~2,468 |
+| End of Book Two | 18.00% | ~2,468 |
+| Everything's in order | 17.00% | ~2,331 |
+| Jack was here! | 15.00% | ~2,057 |
+| Twist of Fate | 14.00% | ~1,920 |
+| Exterminator | 14.00% | ~1,920 |
 | Whodunnit | 13.00% | ~1,782 |
 | Good midwife | 11.00% | ~1,508 |
 | Friar Tuck | 11.00% | ~1,508 |
@@ -37,10 +37,10 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,234 |
 | A cry for help | 8.00% | ~1,097 |
 | Silentium est aureum | 7.00% | ~960 |
-| Rebel without a cause | 6.00% | ~822 |
-| Staring contest champion | 5.00% | ~685 |
-| Lone wolf | 5.00% | ~685 |
-| Vox Populi | 5.00% | ~685 |
+| Rebel without a cause | 6.00% | ~823 |
+| Staring contest champion | 5.00% | ~686 |
+| Lone wolf | 5.00% | ~686 |
+| Vox Populi | 5.00% | ~686 |
 | Revenge | 4.00% | ~548 |
 | Self-defense | 4.00% | ~548 |
 | Countess Aliena | 4.00% | ~548 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~411 |
 | Boy of mystery | 2.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,708 (Ranked 110)  
+Progressed: 13,711 (Ranked 110)  
 Completed: 104 (0.76%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 104 (0.76%) (Ranked 110)
 | 2023-07-02 | 13,663 | 103 |
 | 2023-07-03 | 13,677 | 104 |
 | 2023-07-04 | 13,705 | 104 |
-| 2023-07-05 | 13,708 | 104 |
+| 2023-07-05 | 13,711 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  
