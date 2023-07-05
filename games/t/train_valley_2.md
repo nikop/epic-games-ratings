@@ -63,9 +63,9 @@ Number of Ratings: 87  (23.09.2022)
 | Metro builder | 0.90% | ~7 |
 | Vostok | 0.90% | ~1 |
 | Achiever | 0.80% | ~6 |
+| Railroad tycoon | 0.80% | ~6 |
 | Astrochemist | 0.70% | ~1 |
 | Miscalculation | 0.70% | ~5 |
-| Railroad tycoon | 0.70% | ~5 |
 | Highlander | 0.50% | ~4 |
 | Space Age | 0.50% | ~4 |
 | Arcturus | 0.40% | ~0 |

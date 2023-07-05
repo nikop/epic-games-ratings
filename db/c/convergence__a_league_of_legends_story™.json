@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -1899,7 +1899,7 @@
       "ID": "SpeedRun",
       "SetID": "a9e499d",
       "Name": "No Time to Waste",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -1994,8 +1994,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-05T20:07:13.504099+00:00",
+  "LastChanged_Achievements": "2023-07-05T21:08:21.7386525+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:00:22.6553514+00:00",
-  "LastUpdate_Achievements": "2023-07-05T20:07:13.5041561+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:01:12.009143+00:00",
+  "LastUpdate_Achievements": "2023-07-05T21:08:21.7387524+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -413,15 +413,15 @@
       "ID": "DLC01_ACHIEVEMENT01",
       "SetID": "5jieak",
       "Name": "Crazy SOB, You Did It",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT02",
       "SetID": "5jieak",
       "Name": "Do-you-think-he-saurus",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 0
     },
@@ -429,7 +429,7 @@
       "ID": "DLC01_ACHIEVEMENT03",
       "SetID": "5jieak",
       "Name": "Cha Cha Real Smooth",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 0
     },
@@ -437,7 +437,7 @@
       "ID": "DLC01_ACHIEVEMENT04",
       "SetID": "5jieak",
       "Name": "That\u2019s One Big Pile",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -519,7 +519,7 @@
       "ID": "5jieak",
       "IsBase": false,
       "Progressed": 72,
-      "Completed": 15
+      "Completed": 16
     },
     {
       "ID": "2lk004m",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-05T20:07:17.2945152+00:00",
+  "LastChanged_Achievements": "2023-07-05T21:08:25.8898726+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.7587058+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:00:10.4060384+00:00",
-  "LastUpdate_Achievements": "2023-07-05T20:07:17.2945342+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:00:53.4328766+00:00",
+  "LastUpdate_Achievements": "2023-07-05T21:08:25.8899239+00:00"
 }

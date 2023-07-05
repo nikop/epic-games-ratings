@@ -20,14 +20,14 @@
 | Witness Protection | 3.00% | ~6 |
 | The Wing and the Thigh | 3.00% | ~6 |
 | Blood Capade | 1.00% | ~2 |
+| Crazy SOB, You Did It | 1.00% | ~1 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
 | Bee Squat | 1.00% | ~2 |
 | The Germophobes | 1.00% | ~2 |
-| Crazy SOB, You Did It | 0.50% | ~0 |
-| Do-you-think-he-saurus | 0.00% | ~0 |
-| Cha Cha Real Smooth | 0.00% | ~0 |
-| That’s One Big Pile | 0.00% | ~0 |
+| Do-you-think-he-saurus | 0.50% | ~0 |
+| Cha Cha Real Smooth | 0.50% | ~0 |
+| That’s One Big Pile | 0.50% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 209 (Ranked 264)  
 Completed: 6 (2.87%) (Ranked 60)  

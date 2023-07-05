@@ -6,26 +6,26 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~553,505 |
-| Error: Stack Overflow | 66.00% | ~392,810 |
-| We need more gold | 60.00% | ~357,100 |
-| The dawn of civilization | 53.00% | ~315,439 |
-| More FPS for the FPS god! | 49.00% | ~291,632 |
-| Beauty and harmony | 48.00% | ~285,680 |
-| One more! | 44.00% | ~261,873 |
-| Overmind | 24.00% | ~142,840 |
-| RNG is my best friend now | 18.00% | ~107,130 |
-| Cosplay | 13.00% | ~77,372 |
-| Evolution in progress... | 13.00% | ~77,372 |
-| Step by step | 8.00% | ~47,613 |
+| First.. Bit? | 93.00% | ~553,513 |
+| Error: Stack Overflow | 66.00% | ~392,816 |
+| We need more gold | 60.00% | ~357,105 |
+| The dawn of civilization | 53.00% | ~315,443 |
+| More FPS for the FPS god! | 49.00% | ~291,636 |
+| Beauty and harmony | 48.00% | ~285,684 |
+| One more! | 44.00% | ~261,877 |
+| Overmind | 24.00% | ~142,842 |
+| RNG is my best friend now | 18.00% | ~107,132 |
+| Cosplay | 13.00% | ~77,373 |
+| Evolution in progress... | 13.00% | ~77,373 |
+| Step by step | 8.00% | ~47,614 |
 | README reader | 3.00% | ~17,855 |
 | Data scientist | 3.00% | ~17,855 |
 | One small step for a man... | 3.00% | ~17,855 |
-| To see it all, to learn it all | 2.00% | ~11,903 |
-| Evolution complete | 2.00% | ~11,903 |
-| Best deal on the market | 2.00% | ~11,903 |
-| Is this Skynet? | 2.00% | ~11,903 |
-| Cybergeek 2047 | 2.00% | ~11,903 |
+| To see it all, to learn it all | 2.00% | ~11,904 |
+| Evolution complete | 2.00% | ~11,904 |
+| Best deal on the market | 2.00% | ~11,904 |
+| Is this Skynet? | 2.00% | ~11,904 |
+| Cybergeek 2047 | 2.00% | ~11,904 |
 | Ping | 1.00% | ~5,952 |
 | Magna cum laude | 1.00% | ~5,952 |
 | The hoarder | 0.90% | ~5,357 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,786 |
 | The Scrooge | 0.10% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,167 (Ranked 25)  
+Progressed: 595,175 (Ranked 25)  
 Completed: 498 (0.08%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 498 (0.08%) (Ranked 190)
 | 2023-07-02 | 594,836 | 497 |
 | 2023-07-03 | 594,956 | 498 |
 | 2023-07-04 | 595,066 | 498 |
-| 2023-07-05 | 595,167 | 498 |
+| 2023-07-05 | 595,175 | 498 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 301)  
 Sum: 133 (Ranked 394)  

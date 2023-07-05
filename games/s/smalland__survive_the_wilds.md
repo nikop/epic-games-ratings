@@ -6,20 +6,20 @@ Rating: 4.54 (Ranked 494)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One VERY small step | 4.00% | ~777 |
-| Getting some shuteye | 3.00% | ~582 |
-| Insect hunter | 3.00% | ~582 |
-| Stone Age | 3.00% | ~582 |
+| Getting some shuteye | 3.00% | ~583 |
+| Insect hunter | 3.00% | ~583 |
+| Stone Age | 3.00% | ~583 |
 | Safe! | 2.00% | ~388 |
 | Forming bonds | 1.00% | ~194 |
 | Vertebrate hunter | 1.00% | ~194 |
 | Smooth as silk | 0.90% | ~175 |
-| Metal Age | 0.60% | ~116 |
+| Metal Age | 0.60% | ~117 |
 | Hang time | 0.50% | ~97 |
 | Mastermind | 0.50% | ~97 |
 | Something Wicked | 0.30% | ~58 |
 | The Key | 0.20% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,414 (Ranked 101)  
+Progressed: 19,417 (Ranked 101)  
 Completed: 18 (0.09%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 18 (0.09%) (Ranked 186)
 | 2023-07-02 | 19,400 | 18 |
 | 2023-07-03 | 19,404 | 18 |
 | 2023-07-04 | 19,412 | 18 |
-| 2023-07-05 | 19,414 | 18 |
+| 2023-07-05 | 19,417 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246079,
+  "EOS_Progressed": 246081,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7399,6 +7399,11 @@
       "Time": "2023-07-05T20:07:15.9035819+00:00",
       "NumProgressed": 246079,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-05T21:08:24.5935021+00:00",
+      "NumProgressed": 246081,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7466,7 +7471,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41833
+      "UsersEstimate": 41834
     },
     {
       "ID": "cantBeKeptDown",
@@ -7506,7 +7511,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44294
+      "UsersEstimate": 44295
     },
     {
       "ID": "curator",
@@ -7586,7 +7591,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 130422
+      "UsersEstimate": 130423
     },
     {
       "ID": "indegestible",
@@ -7730,7 +7735,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31990
+      "UsersEstimate": 31991
     },
     {
       "ID": "treeMedalist",
@@ -7777,7 +7782,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246079,
+      "Progressed": 246081,
       "Completed": 3
     }
   ],
@@ -7785,8 +7790,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-05T20:07:15.9035815+00:00",
+  "LastChanged_Achievements": "2023-07-05T21:08:24.5935015+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-05T20:00:06.5085235+00:00",
-  "LastUpdate_Achievements": "2023-07-05T20:07:15.9036626+00:00"
+  "LastUpdate_Ratings": "2023-07-05T21:00:50.4253986+00:00",
+  "LastUpdate_Achievements": "2023-07-05T21:08:24.5936095+00:00"
 }

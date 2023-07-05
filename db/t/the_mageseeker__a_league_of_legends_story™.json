@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2415,
+  "EOS_Progressed": 2416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2878,6 +2878,11 @@
       "Time": "2023-07-05T16:08:45.9480394+00:00",
       "NumProgressed": 2415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-05T21:08:31.6348066+00:00",
+      "NumProgressed": 2416,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -2945,7 +2950,7 @@
       "Name": "No more holding back",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -2953,7 +2958,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -2993,7 +2998,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3001,7 +3006,7 @@
       "Name": "I chose my shackles",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3063,9 +3068,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1836
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3073,7 +3078,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3121,7 +3126,7 @@
       "Name": "Clarion Cove",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3137,7 +3142,7 @@
       "Name": "Sacred Woods",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3193,7 +3198,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3249,7 +3254,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3265,7 +3270,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3305,14 +3310,14 @@
       "Name": "Petricite Burst",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2415,
+      "Progressed": 2416,
       "Completed": 3
     }
   ],
@@ -3320,8 +3325,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-07-05T20:07:22.1929688+00:00",
+  "LastChanged_Achievements": "2023-07-05T21:08:31.6348059+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:52.9751016+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:57:57.0255926+00:00",
-  "LastUpdate_Achievements": "2023-07-05T20:07:22.1930323+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:58:15.9457989+00:00",
+  "LastUpdate_Achievements": "2023-07-05T21:08:31.6348742+00:00"
 }

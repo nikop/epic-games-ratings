@@ -508,9 +508,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 8873,
+  "EOS_Progressed": 8875,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5903,6 +5903,11 @@
       "Time": "2023-07-05T13:22:13.3935727+00:00",
       "NumProgressed": 8873,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-05T21:03:55.0889902+00:00",
+      "NumProgressed": 8875,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 34,
@@ -5922,7 +5927,7 @@
       "Name": "Running Rampant",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH03",
@@ -5946,7 +5951,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH06",
@@ -5994,7 +5999,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACH12",
@@ -6010,7 +6015,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH14",
@@ -6018,7 +6023,7 @@
       "Name": "Greasy Palms",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3550
     },
     {
       "ID": "ACH15",
@@ -6026,7 +6031,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH16",
@@ -6074,7 +6079,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH22",
@@ -6090,7 +6095,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH24",
@@ -6098,7 +6103,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH25",
@@ -6106,7 +6111,7 @@
       "Name": "Chauffeur",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH26",
@@ -6114,7 +6119,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "ACH27",
@@ -6138,7 +6143,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH30",
@@ -6162,7 +6167,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH33",
@@ -6185,7 +6190,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8873,
+      "Progressed": 8875,
       "Completed": 42
     }
   ],
@@ -6193,8 +6198,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-01T13:09:42.8118036+00:00",
-  "LastChanged_Achievements": "2023-07-05T20:02:28.0615967+00:00",
+  "LastChanged_Achievements": "2023-07-05T21:03:55.0889893+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-05T19:58:48.1904287+00:00",
-  "LastUpdate_Achievements": "2023-07-05T20:02:28.0616562+00:00"
+  "LastUpdate_Ratings": "2023-07-05T20:59:18.1166051+00:00",
+  "LastUpdate_Achievements": "2023-07-05T21:03:55.0891397+00:00"
 }
