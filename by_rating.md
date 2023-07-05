@@ -292,7 +292,7 @@
 | 273 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.66 | 32 | 446 |
 | 273 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.66 | 0 | 504 |
 | 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 498 | 192 |
-| 273 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 75 | 358 |
+| 273 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 78 | 355 |
 | 273 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 504 |
 | 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,800 | 57 |
 | 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 196 |
@@ -414,7 +414,7 @@
 | 390 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 375 | 214 |
 | 413 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 409 |
 | 413 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.59 | 0 | 504 |
-| 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 358 |
+| 413 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 75 | 359 |
 | 413 | [System Shock](games/s/system_shock.md) | 4.59 | 0 | 504 |
 | 413 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 293 | 234 |
 | 413 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 991 | 145 |
@@ -423,7 +423,7 @@
 | 413 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.59 | 213 | 262 |
 | 413 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 85 | 348 |
 | 423 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 504 |
-| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,621 | 11 |
+| 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,663 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 160 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 504 |
 | 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,208 | 40 |
@@ -462,7 +462,7 @@
 | 460 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 504 |
 | 460 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 397 |
 | 460 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 504 |
-| 460 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 793 | 154 |
+| 460 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 795 | 154 |
 | 460 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.56 | 22 | 484 |
 | 460 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 204 | 264 |
 | 460 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 504 |
@@ -524,7 +524,7 @@
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 419 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,544 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,404 | 7 |
+| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,485 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 514 | 190 |
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
 | 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
@@ -846,7 +846,7 @@
 | 844 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 397 |
 | 844 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 442 |
 | 844 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 504 |
-| 844 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 357 |
+| 844 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 358 |
 | 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 185,204 | 5 |
 | 844 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 504 |
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 504 |

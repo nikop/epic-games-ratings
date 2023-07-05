@@ -73,7 +73,7 @@
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 71 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.13% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |

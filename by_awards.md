@@ -6,11 +6,11 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 194,530 | 4.68 | 239 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,204 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 156,361 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 143,404 | 4.52 | 520 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 143,485 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,410 | 4.69 | 219 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,141 | 4.62 | 345 |
 | 10 | [VALORANT](games/v/valorant.md) | 59,519 | 4.53 | 505 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,621 | 4.58 | 423 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,663 | 4.58 | 423 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,050 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,469 | 4.50 | 552 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,016 | 4.74 | 144 |
@@ -153,7 +153,7 @@
 | 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 880 | 4.55 | 478 |
 | 152 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 861 | 4.44 | 638 |
 | 153 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 798 | 4.69 | 219 |
-| 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 793 | 4.56 | 460 |
+| 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 795 | 4.56 | 460 |
 | 155 | [Frostpunk](games/f/frostpunk.md) | 791 | 4.74 | 144 |
 | 156 | [The Long Dark](games/t/the_long_dark.md) | 769 | 4.74 | 144 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 757 | 4.45 | 620 |
@@ -354,11 +354,11 @@
 | 352 | [Armored Warfare](games/a/armored_warfare.md) | 82 | 4.12 | 883 |
 | 353 | [Super Meat Boy](games/s/super_meat_boy.md) | 79 | 4.70 | 197 |
 | 353 | [This War of Mine](games/t/this_war_of_mine.md) | 79 | 4.73 | 157 |
+| 355 | [The Outlast Trials](games/t/the_outlast_trials.md) | 78 | 4.66 | 273 |
 | 355 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 78 | 4.56 | 460 |
 | 355 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 78 | 4.21 | 831 |
-| 357 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 76 | 4.19 | 844 |
-| 358 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 75 | 4.59 | 413 |
-| 358 | [The Outlast Trials](games/t/the_outlast_trials.md) | 75 | 4.66 | 273 |
+| 358 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 76 | 4.19 | 844 |
+| 359 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 75 | 4.59 | 413 |
 | 360 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 74 | 4.61 | 362 |
 | 360 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 74 | 4.31 | 769 |
 | 360 | [Rising Hell](games/r/rising_hell.md) | 74 | 4.40 | 689 |
