@@ -20,7 +20,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,700 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,126 | 75 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,128 | 75 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 156,631 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,450 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
@@ -72,7 +72,7 @@
 | 65 | [GRIT](games/g/grit.md) | 4.82 | 0 | 504 |
 | 65 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 504 |
 | 65 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,461 | 97 |
-| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,231 | 52 |
+| 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,239 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
 | 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,433 | 122 |
@@ -108,7 +108,7 @@
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 919 | 147 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 504 |
 | 108 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 3,543 | 81 |
-| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,131 | 54 |
+| 108 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,145 | 54 |
 | 108 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 20,673 | 17 |
 | 108 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.77 | 0 | 504 |
 | 108 | [Sailing Era](games/s/sailing_era.md) | 4.77 | 0 | 504 |
@@ -118,7 +118,7 @@
 | 108 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.77 | 98 | 332 |
 | 108 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 504 |
 | 108 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 463 |
-| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,691 | 22 |
+| 119 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,703 | 22 |
 | 119 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 348 |
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 504 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,255 | 87 |
@@ -127,13 +127,13 @@
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,249 | 74 |
 | 119 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 504 |
 | 119 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 504 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,671 | 116 |
+| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,673 | 116 |
 | 119 | [Quake](games/q/quake.md) | 4.76 | 46 | 406 |
 | 119 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 9,011 | 38 |
 | 119 | [Tchia](games/t/tchia.md) | 4.76 | 0 | 504 |
 | 119 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 344 | 223 |
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 475 |
-| 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,395 | 62 |
+| 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,400 | 62 |
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 888 | 150 |
 | 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 517 | 188 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 110 | 319 |
@@ -223,7 +223,7 @@
 | 220 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 504 |
 | 220 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 504 |
 | 220 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,507 | 60 |
-| 220 | [House Flipper](games/h/house_flipper.md) | 4.69 | 301 | 232 |
+| 220 | [House Flipper](games/h/house_flipper.md) | 4.69 | 302 | 232 |
 | 220 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 504 |
 | 220 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 504 |
 | 220 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 504 |
@@ -755,13 +755,13 @@
 | 744 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 244 | 247 |
 | 744 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 504 |
 | 744 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 492 |
-| 756 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 313 |
-| 756 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 389 |
-| 756 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 504 |
-| 756 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 504 |
-| 756 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 504 |
-| 756 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 48 | 403 |
-| 756 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 504 |
+| 744 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 48 | 403 |
+| 757 | [BIOMUTANT](games/b/biomutant.md) | 4.33 | 117 | 313 |
+| 757 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.33 | 55 | 389 |
+| 757 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.33 | 0 | 504 |
+| 757 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 504 |
+| 757 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.33 | 0 | 504 |
+| 757 | [War Mongrels](games/w/war_mongrels.md) | 4.33 | 0 | 504 |
 | 763 | [Filament](games/f/filament.md) | 4.32 | 558 | 181 |
 | 763 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.32 | 0 | 504 |
 | 763 | [House Party](games/h/house_party.md) | 4.32 | 0 | 504 |
