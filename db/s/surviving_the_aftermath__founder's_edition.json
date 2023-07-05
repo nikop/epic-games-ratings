@@ -1095,7 +1095,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7103,
+  "EOS_Progressed": 7104,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
@@ -7355,6 +7355,11 @@
       "Time": "2023-07-05T13:24:07.9844701+00:00",
       "NumProgressed": 7103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T15:04:13.9727614+00:00",
+      "NumProgressed": 7104,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7374,7 +7379,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "11",
@@ -7422,7 +7427,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "17",
@@ -7430,7 +7435,7 @@
       "Name": "Famous Adventurer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "18",
@@ -7444,9 +7449,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3765
     },
     {
       "ID": "2",
@@ -7462,7 +7467,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "21",
@@ -7478,7 +7483,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "23",
@@ -7574,7 +7579,7 @@
       "Name": "Around the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "34",
@@ -7606,7 +7611,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "38",
@@ -7614,7 +7619,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "39",
@@ -7662,7 +7667,7 @@
       "Name": "Prepared for Anything",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "44",
@@ -7726,7 +7731,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "51",
@@ -7837,15 +7842,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7103,
+      "Progressed": 7104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-05T14:04:33.9501653+00:00",
+  "LastChanged_Achievements": "2023-07-05T15:04:13.9727608+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:01:04.8178371+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:04:33.9502373+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:00:37.8022427+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:04:13.9728629+00:00"
 }

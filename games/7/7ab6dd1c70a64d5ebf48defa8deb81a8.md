@@ -4,8 +4,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break out | 29.00% | ~4 |
+| Find Allies | 21.00% | ~3 |
 | Tributes of Caladrias | 21.00% | ~3 |
-| Find Allies | 14.00% | ~2 |
 | Monsalar: Wildlands | 14.00% | ~2 |
 | Geared up | 14.00% | ~2 |
 | Fashion Victim | 14.00% | ~2 |

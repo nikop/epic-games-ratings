@@ -26,8 +26,8 @@ Rating: 4.89 (Ranked 12)
 | Out in a puff of smoke | 34.00% | ~1,158 |
 | Headliner | 33.00% | ~1,124 |
 | Time to pay up! | 31.00% | ~1,056 |
+| Who's the boss now? | 30.00% | ~1,022 |
 | Perfecter Parry-er! | 30.00% | ~1,022 |
-| Who's the boss now? | 29.00% | ~988 |
 | I have to read these things? | 29.00% | ~988 |
 | I look cool. But I can look COOLER. | 28.00% | ~954 |
 | There's such a thing as TOO helpful | 22.00% | ~749 |

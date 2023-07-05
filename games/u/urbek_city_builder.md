@@ -9,7 +9,7 @@
 | It is nice to share with friends in the city | 26.00% | ~70 |
 | Sport is good for you | 25.00% | ~67 |
 | The spiritual world... | 23.00% | ~62 |
-| The woodcutter | 21.00% | ~56 |
+| The woodcutter | 22.00% | ~59 |
 | I like books | 20.00% | ~54 |
 | I like my life | 19.00% | ~51 |
 | Soviet town | 18.00% | ~48 |

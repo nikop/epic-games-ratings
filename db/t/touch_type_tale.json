@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3045,
+  "EOS_Progressed": 3046,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -2389,6 +2389,11 @@
       "Time": "2023-07-04T00:00:34.1358944+00:00",
       "NumProgressed": 3045,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-05T15:01:25.892158+00:00",
+      "NumProgressed": 3046,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 33,
@@ -2448,7 +2453,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "campaign10",
@@ -2552,7 +2557,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "campaign4",
@@ -2560,7 +2565,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "campaign5",
@@ -2608,7 +2613,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "scenario2",
@@ -2663,7 +2668,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3045,
+      "Progressed": 3046,
       "Completed": 10
     }
   ],
@@ -2671,8 +2676,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-07-05T14:02:00.6812767+00:00",
+  "LastChanged_Achievements": "2023-07-05T15:01:25.892157+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.6743882+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:01:24.9425679+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:02:00.6813115+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:00:53.3452075+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:01:25.8922306+00:00"
 }

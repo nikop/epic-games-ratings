@@ -31,7 +31,7 @@ Number of Ratings: 46  (23.09.2022)
 | Dream | 8.00% | ~16 |
 | Hunt Down | 7.00% | ~43 |
 | Artisan | 7.00% | ~43 |
-| Hush | 6.00% | ~37 |
+| Hush | 7.00% | ~43 |
 | All-Seeing | 6.00% | ~37 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2885,
+  "EOS_Progressed": 2886,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
@@ -3165,6 +3165,11 @@
       "Time": "2023-07-05T13:24:58.8319693+00:00",
       "NumProgressed": 2885,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-07-05T15:05:08.6760553+00:00",
+      "NumProgressed": 2886,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 24,
@@ -3192,7 +3197,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "12",
@@ -3240,7 +3245,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "18",
@@ -3272,7 +3277,7 @@
       "Name": "PROTECTED",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "21",
@@ -3288,7 +3293,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "23",
@@ -3328,7 +3333,7 @@
       "Name": "ROOKIE",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "6",
@@ -3367,13 +3372,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2885,
+      "Progressed": 2886,
       "Completed": 86
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-05T14:05:22.8265762+00:00",
+  "LastChanged_Achievements": "2023-07-05T15:05:08.6760548+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:59:50.4749166+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:05:22.8266223+00:00"
+  "LastUpdate_Ratings": "2023-07-05T14:59:25.7522854+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:05:08.6760938+00:00"
 }

@@ -12,6 +12,7 @@ Rating: 4.44 (Ranked 639)
 | Confirming Suspicions | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
+| As Quiet as a Mouse | 1.00% | ~32 |
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
@@ -20,7 +21,6 @@ Rating: 4.44 (Ranked 639)
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |
 | Gunslinger | 0.90% | ~29 |
-| As Quiet as a Mouse | 0.90% | ~29 |
 | Organ Grinder | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
@@ -28,13 +28,13 @@ Rating: 4.44 (Ranked 639)
 | Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Skirmisher | 0.60% | ~19 |
+| My Little Friend | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Precision Is Key | 0.50% | ~16 |
-| My Little Friend | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
 | The Long Game | 0.40% | ~13 |
 | Rigged to Blow | 0.40% | ~13 |
@@ -78,7 +78,7 @@ Rating: 4.44 (Ranked 639)
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,209 (Ranked 145)  
-Completed: 7 (0.22%) (Ranked 156)  
+Completed: 8 (0.25%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 7 (0.22%) (Ranked 156)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
-| 2023-07-05 | 3,209 | 7 |
+| 2023-07-05 | 3,209 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

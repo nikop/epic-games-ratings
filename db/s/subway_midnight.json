@@ -2,9 +2,9 @@
   "ID": "13180a791ee14446b54d69acd1748d0c",
   "Name": "Subway Midnight",
   "ProductSlug": "subway-midnight-cad3ad",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-28T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.1184729+00:00",
   "LastChanged": "2023-03-31T05:58:09.118473+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:05.0652394+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:58:15.2061167+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:05:22.4348055+00:00"
+  "LastUpdate_Ratings": "2023-07-05T14:58:03.3703156+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:05:07.9482232+00:00"
 }

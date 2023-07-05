@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 60867,
+  "EOS_Progressed": 60868,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8343,6 +8343,11 @@
       "Time": "2023-07-05T14:02:15.7669637+00:00",
       "NumProgressed": 60867,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-07-05T15:02:09.0579525+00:00",
+      "NumProgressed": 60868,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 24,
@@ -8386,7 +8391,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15825
+      "UsersEstimate": 15826
     },
     {
       "ID": "ERADICATE",
@@ -8394,7 +8399,7 @@
       "Name": "ERADICATE",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 12173
+      "UsersEstimate": 12174
     },
     {
       "ID": "FETCH",
@@ -8545,7 +8550,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 60867,
+      "Progressed": 60868,
       "Completed": 307
     }
   ],
@@ -8553,8 +8558,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-05T14:02:15.7669632+00:00",
+  "LastChanged_Achievements": "2023-07-05T15:02:09.057952+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:29.9696354+00:00",
-  "LastUpdate_Ratings": "2023-07-05T14:00:26.0236273+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:02:15.7670156+00:00"
+  "LastUpdate_Ratings": "2023-07-05T15:00:02.6439552+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:02:09.0580225+00:00"
 }

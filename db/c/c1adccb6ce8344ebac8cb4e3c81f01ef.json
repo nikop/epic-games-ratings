@@ -175,17 +175,17 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "YellowSkeleton",
@@ -206,8 +206,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-07-05T14:03:30.5321495+00:00",
+  "LastChanged_Achievements": "2023-07-05T15:03:17.7696101+00:00",
   "LastUpdate_AppInfo": "2023-06-29T11:56:57.2789546+00:00",
-  "LastUpdate_Ratings": "2023-07-05T13:57:04.8812491+00:00",
-  "LastUpdate_Achievements": "2023-07-05T14:03:30.5321562+00:00"
+  "LastUpdate_Ratings": "2023-07-05T14:57:03.0956018+00:00",
+  "LastUpdate_Achievements": "2023-07-05T15:03:17.7696184+00:00"
 }

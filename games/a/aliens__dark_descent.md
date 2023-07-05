@@ -5,19 +5,19 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~2,059 |
-| Snatched Out | 72.00% | ~1,876 |
-| Keep 'Em Coming | 70.00% | ~1,824 |
+| This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~2,060 |
+| Snatched Out | 72.00% | ~1,877 |
+| Keep 'Em Coming | 71.00% | ~1,851 |
 | Cleaning Lethe, One Nest At A Time | 61.00% | ~1,590 |
-| Call Me Snake | 55.00% | ~1,433 |
-| Something Lurks Under The Hills | 54.00% | ~1,407 |
-| This Was No Papercut | 53.00% | ~1,381 |
+| Call Me Snake | 55.00% | ~1,434 |
+| Something Lurks Under The Hills | 54.00% | ~1,408 |
+| This Was No Papercut | 53.00% | ~1,382 |
 | The Shrink Hates Me | 49.00% | ~1,277 |
 | Use The Bumper, That's What It's For | 46.00% | ~1,199 |
 | People Person | 46.00% | ~1,199 |
 | First Steps Into Madness | 43.00% | ~1,121 |
 | Colonial Barrels | 42.00% | ~1,095 |
-| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~938 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~939 |
 | Harper's Hell | 33.00% | ~860 |
 | Making a Stand | 31.00% | ~808 |
 | Recouped Investment | 29.00% | ~756 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 620)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,606 (Ranked 153)  
+Progressed: 2,607 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 2,446 | 0 |
 | 2023-07-03 | 2,526 | 0 |
 | 2023-07-04 | 2,580 | 0 |
-| 2023-07-05 | 2,606 | 0 |
+| 2023-07-05 | 2,607 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

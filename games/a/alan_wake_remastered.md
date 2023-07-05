@@ -6,13 +6,13 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,760 |
-| Let There Be Light | 27.00% | ~15,349 |
-| Float Like a Butterfly | 26.00% | ~14,781 |
-| Nordic Walking | 21.00% | ~11,938 |
+| Follow the Light | 33.00% | ~18,761 |
+| Let There Be Light | 27.00% | ~15,350 |
+| Float Like a Butterfly | 26.00% | ~14,782 |
+| Nordic Walking | 21.00% | ~11,939 |
 | Bright Falls' Finest | 20.00% | ~11,370 |
 | Under a Thin Layer of Skin | 18.00% | ~10,233 |
-| Paging Mr. Wake | 15.00% | ~8,527 |
+| Paging Mr. Wake | 15.00% | ~8,528 |
 | Park Ranger | 14.00% | ~7,959 |
 | Back! Back, I Say! | 14.00% | ~7,959 |
 | Finders Keepers | 14.00% | ~7,959 |
@@ -20,32 +20,32 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 12.00% | ~6,822 |
 | Missed by a Mile | 12.00% | ~6,822 |
 | Damn Good Cup of Coffee | 12.00% | ~6,822 |
-| Wheels Within Wheels | 11.00% | ~6,253 |
-| The Six-Gun Scribe | 11.00% | ~6,253 |
-| Come One, Come All | 11.00% | ~6,253 |
+| Wheels Within Wheels | 11.00% | ~6,254 |
+| The Six-Gun Scribe | 11.00% | ~6,254 |
+| Come One, Come All | 11.00% | ~6,254 |
 | Heavy Metal | 10.00% | ~5,685 |
 | Iron Horse | 10.00% | ~5,685 |
 | Perchance to Dream | 10.00% | ~5,685 |
 | Collateral Carnage | 10.00% | ~5,685 |
-| Gatekeeper | 9.00% | ~5,116 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,116 |
-| Thunder and Lightning | 9.00% | ~5,116 |
-| Two For the Price of One | 9.00% | ~5,116 |
+| Gatekeeper | 9.00% | ~5,117 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,117 |
+| Thunder and Lightning | 9.00% | ~5,117 |
+| Two For the Price of One | 9.00% | ~5,117 |
 | The Lady of the Light | 8.00% | ~4,548 |
 | Energized! | 8.00% | ~4,548 |
 | Right of Way | 8.00% | ~4,548 |
-| A Friend in Need | 8.00% | ~1,625 |
-| What Light Through Yonder Window | 7.00% | ~3,979 |
+| A Friend in Need | 8.00% | ~1,626 |
+| What Light Through Yonder Window | 7.00% | ~3,980 |
 | Tornado Wrangler | 6.00% | ~3,411 |
 | Departure | 6.00% | ~3,411 |
 | A Friend Indeed | 6.00% | ~1,219 |
-| Drink 'Em Both Up | 5.00% | ~2,842 |
-| Hardboiled Writer | 5.00% | ~2,842 |
+| Drink 'Em Both Up | 5.00% | ~2,843 |
+| Hardboiled Writer | 5.00% | ~2,843 |
 | Ding! | 5.00% | ~1,016 |
 | Children of the Elder God | 4.00% | ~2,274 |
 | If It Flies, It Burns | 4.00% | ~2,274 |
 | KBF-FM | 4.00% | ~2,274 |
-| Boob Tube | 3.00% | ~1,705 |
+| Boob Tube | 3.00% | ~1,706 |
 | Kill Your Darlings | 3.00% | ~610 |
 | Heartbreaker | 3.00% | ~610 |
 | Medical Opinions | 2.00% | ~1,137 |
@@ -53,7 +53,7 @@ Number of Ratings: 524  (23.09.2022)
 | Carny | 2.00% | ~1,137 |
 | An Idyllic Small Town | 2.00% | ~1,137 |
 | Iron Will | 2.00% | ~406 |
-| Couch Potato | 1.00% | ~568 |
+| Couch Potato | 1.00% | ~569 |
 | Go Gentle Into That Good Light | 1.00% | ~203 |
 | Words Will Never Harm You | 0.60% | ~122 |
 | Cardboard Companions | 0.60% | ~122 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,849 (Ranked 80)  
+Progressed: 56,852 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 57 (0.10%) (Ranked 180)
 | 2023-07-02 | 56,712 | 56 |
 | 2023-07-03 | 56,769 | 56 |
 | 2023-07-04 | 56,827 | 57 |
-| 2023-07-05 | 56,849 | 57 |
+| 2023-07-05 | 56,852 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

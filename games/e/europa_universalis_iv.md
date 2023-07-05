@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,911 |
-| That's a Grand Army | 8.00% | ~5,254 |
-| That is mine! | 8.00% | ~5,254 |
-| Victorious! | 8.00% | ~5,254 |
-| Brothers in Arms | 6.00% | ~3,941 |
-| That's a Grand Navy | 6.00% | ~3,941 |
-| Seriously?! | 6.00% | ~3,941 |
-| For the Glory | 5.00% | ~3,284 |
-| Cold War | 4.00% | ~2,627 |
-| True Catholic | 4.00% | ~2,627 |
-| Defender of the Faith | 3.00% | ~1,970 |
-| It's all about the money | 3.00% | ~1,970 |
-| Respected | 3.00% | ~1,970 |
-| The Princess is in this Castle | 3.00% | ~1,970 |
-| Truly Divine Ruler | 3.00% | ~1,970 |
+| Until death do us apart | 9.00% | ~5,914 |
+| That's a Grand Army | 8.00% | ~5,257 |
+| That is mine! | 8.00% | ~5,257 |
+| Victorious! | 8.00% | ~5,257 |
+| Brothers in Arms | 6.00% | ~3,943 |
+| That's a Grand Navy | 6.00% | ~3,943 |
+| Seriously?! | 6.00% | ~3,943 |
+| For the Glory | 5.00% | ~3,286 |
+| Cold War | 4.00% | ~2,629 |
+| True Catholic | 4.00% | ~2,629 |
+| Defender of the Faith | 3.00% | ~1,971 |
+| It's all about the money | 3.00% | ~1,971 |
+| Respected | 3.00% | ~1,971 |
+| The Princess is in this Castle | 3.00% | ~1,971 |
+| Truly Divine Ruler | 3.00% | ~1,971 |
 | Agressive Expander | 2.00% | ~1,314 |
 | Blockader | 2.00% | ~1,314 |
 | Combined Arms | 2.00% | ~1,314 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~657 |
 | Isn't this the way to India? | 0.90% | ~591 |
 | Market Control | 0.90% | ~591 |
-| Down Under | 0.80% | ~525 |
-| Trustworthy | 0.80% | ~525 |
+| Down Under | 0.80% | ~526 |
+| Trustworthy | 0.80% | ~526 |
 | Electable! | 0.70% | ~460 |
 | All belongs to Mother Russia | 0.60% | ~394 |
 | At every continent | 0.60% | ~394 |
@@ -53,11 +53,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~394 |
 | This is My Faith | 0.60% | ~394 |
 | Time Bandit | 0.60% | ~394 |
-| Absolutely | 0.50% | ~328 |
-| Grand Coalition | 0.50% | ~328 |
-| Ruina Imperii | 0.50% | ~328 |
-| Trophy Hunter | 0.50% | ~328 |
-| Voting Streak | 0.50% | ~328 |
+| Absolutely | 0.50% | ~329 |
+| Grand Coalition | 0.50% | ~329 |
+| Ruina Imperii | 0.50% | ~329 |
+| Trophy Hunter | 0.50% | ~329 |
+| Voting Streak | 0.50% | ~329 |
 | All Your Trade Are Belong to Us | 0.40% | ~263 |
 | Bleed Them Dry | 0.40% | ~263 |
 | Dude, Where's my Boat? | 0.40% | ~263 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,677 (Ranked 75)  
+Progressed: 65,713 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,17 +437,17 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
-| 2023-07-05 | 65,677 | 0 |
+| 2023-07-05 | 65,713 | 0 |
 ## Awards
 Max (Educational): 5,507  (Ranked 60)  
-Sum: 45,404 (Ranked 27)  
+Sum: 45,411 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,507 |
 | This game is Highly Recommended | 5,263 |
 | This game has Challenging Combat | 5,233 |
-| This game is Extremely Fun | 5,214 |
+| This game is Extremely Fun | 5,221 |
 | This game has Diverse Characters | 5,174 |
 | This game is Relaxing | 5,102 |
 | This game has Competitive Players | 4,935 |
@@ -626,4 +626,4 @@ Diff (max vs sum): 33
 | 2023-07-02 | 4.69 | - | 5,493 | 45,317 |
 | 2023-07-03 | 4.69 | - | 5,500 | 45,354 |
 | 2023-07-04 | 4.69 | - | 5,503 | 45,392 |
-| 2023-07-05 | 4.69 | - | 5,507 | 45,404 |
+| 2023-07-05 | 4.69 | - | 5,507 | 45,411 |
