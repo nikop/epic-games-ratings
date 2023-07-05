@@ -41,7 +41,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 480 | 194 |
 | 28 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 504 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,669 | 41 |
-| 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,505 | 60 |
+| 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,505 | 61 |
 | 41 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 360 | 218 |
 | 41 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 255 |
 | 41 | [Subnautica](games/s/subnautica.md) | 4.85 | 671 | 166 |
@@ -193,7 +193,7 @@
 | 181 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 504 |
 | 181 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 504 |
 | 181 | [shapez](games/s/shapez.md) | 4.71 | 202 | 266 |
-| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 115 | 315 |
+| 181 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 116 | 315 |
 | 181 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.71 | 0 | 504 |
 | 181 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 504 |
 | 197 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,540 | 69 |
@@ -221,7 +221,7 @@
 | 219 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 112,410 | 8 |
 | 219 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 504 |
 | 219 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 504 |
-| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,503 | 61 |
+| 219 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,507 | 60 |
 | 219 | [House Flipper](games/h/house_flipper.md) | 4.69 | 301 | 232 |
 | 219 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 504 |
 | 219 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 504 |
@@ -456,7 +456,7 @@
 | 441 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.57 | 22 | 484 |
 | 441 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,401 | 84 |
 | 441 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
-| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,832 | 19 |
+| 441 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,844 | 19 |
 | 441 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,754 | 113 |
 | 441 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 53 | 391 |
 | 460 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 504 |
@@ -690,7 +690,6 @@
 | 673 | [Warpips](games/w/warpips.md) | 4.41 | 26 | 469 |
 | 689 | [Absolute Drift](games/a/absolute_drift.md) | 4.40 | 0 | 504 |
 | 689 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 504 |
-| 689 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 504 |
 | 689 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,005 | 144 |
 | 689 | [Democracy 4](games/d/democracy_4.md) | 4.40 | 0 | 504 |
 | 689 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 504 |
@@ -703,14 +702,15 @@
 | 689 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 504 |
 | 689 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 504 |
 | 689 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.40 | 0 | 504 |
-| 704 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 504 |
-| 704 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 504 |
-| 704 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 165 | 286 |
-| 704 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,718 | 32 |
-| 704 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 0 | 504 |
-| 704 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 367 |
-| 704 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 504 |
-| 704 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
+| 703 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 504 |
+| 703 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 504 |
+| 703 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 504 |
+| 703 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 165 | 286 |
+| 703 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,718 | 32 |
+| 703 | [RiMS Racing](games/r/rims_racing.md) | 4.39 | 0 | 504 |
+| 703 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 72 | 367 |
+| 703 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 504 |
+| 703 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 328 | 226 |
 | 712 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 504 |
 | 712 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.38 | 0 | 504 |
 | 712 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 562 | 179 |
