@@ -14,23 +14,23 @@
 | Mr. Hygeni | 6.00% | ~13 |
 | Eyes Yet To Open | 5.00% | ~10 |
 | Hackathon | 5.00% | ~10 |
+| All the Stories | 3.00% | ~6 |
 | Total Recall | 3.00% | ~6 |
+| Witness Protection | 3.00% | ~6 |
 | The Wing and the Thigh | 3.00% | ~6 |
-| All the Stories | 2.00% | ~4 |
 | Something Rotten | 2.00% | ~4 |
-| Witness Protection | 2.00% | ~4 |
 | Blood Capade | 1.00% | ~2 |
 | The Crush And Smash The Dino Four | 1.00% | ~1 |
 | … Women Inherit The Earth | 1.00% | ~1 |
 | Bee Squat | 1.00% | ~2 |
+| The Germophobes | 1.00% | ~2 |
 | Crazy SOB, You Did It | 0.50% | ~0 |
-| The Germophobes | 0.50% | ~1 |
 | Do-you-think-he-saurus | 0.00% | ~0 |
 | Cha Cha Real Smooth | 0.00% | ~0 |
 | That’s One Big Pile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 209 (Ranked 264)  
-Completed: 5 (2.39%) (Ranked 68)  
+Completed: 6 (2.87%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 5 (2.39%) (Ranked 68)
 | 2023-06-22 | 207 | 5 |
 | 2023-06-24 | 208 | 5 |
 | 2023-07-04 | 209 | 5 |
+| 2023-07-05 | 209 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

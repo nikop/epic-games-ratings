@@ -4891,9 +4891,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -5266,8 +5266,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T05:06:01.1852224+00:00",
+  "LastChanged_Achievements": "2023-07-05T06:07:40.9626021+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:00:30.4768104+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:06:01.18532+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:01:56.6623925+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:07:40.9626765+00:00"
 }

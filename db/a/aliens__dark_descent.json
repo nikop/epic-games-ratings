@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2593,
+  "EOS_Progressed": 2594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2023-07-05T05:05:44.769+00:00",
       "NumProgressed": 2593,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T06:07:20.7954489+00:00",
+      "NumProgressed": 2594,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1819,7 +1824,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1835,7 +1840,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1907,7 +1912,7 @@
       "Name": "The Cable Guy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_MISSION_01",
@@ -1915,7 +1920,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2019,7 +2024,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2027,7 +2032,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2035,7 +2040,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2051,7 +2056,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -2082,7 +2087,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2593,
+      "Progressed": 2594,
       "Completed": 0
     }
   ],
@@ -2090,8 +2095,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-04T13:17:54.0555792+00:00",
-  "LastChanged_Achievements": "2023-07-05T05:05:44.7689992+00:00",
+  "LastChanged_Achievements": "2023-07-05T06:07:20.7954485+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:59:23.5313035+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:05:44.7690487+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:00:31.5152957+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:07:20.7954842+00:00"
 }

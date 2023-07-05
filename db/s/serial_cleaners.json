@@ -3,9 +3,9 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -27,10 +27,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 209,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.39,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -311,6 +311,11 @@
       "Time": "2023-07-04T13:24:34.9167838+00:00",
       "NumProgressed": 209,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-05T06:07:31.8363558+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -320,9 +325,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ALL_MEMORIES",
@@ -376,9 +381,9 @@
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -472,9 +477,9 @@
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PERFECT_CLEANED_ONE_MAP",
@@ -520,15 +525,15 @@
       "ID": "2lk004m",
       "IsBase": true,
       "Progressed": 209,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-09-24T13:06:20.5748875+00:00",
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-07-05T05:05:53.625327+00:00",
+  "LastChanged_Achievements": "2023-07-05T06:07:31.8363551+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:11.7587058+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:59:11.8678025+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:05:53.6253482+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:00:18.6348799+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:07:31.8363965+00:00"
 }

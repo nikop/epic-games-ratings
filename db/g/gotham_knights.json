@@ -1830,10 +1830,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4000,
       "NumberOfAwardsMax": 2416
+    },
+    {
+      "Time": "2023-07-05T06:01:00.5380076+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4001,
+      "NumberOfAwardsMax": 2416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4000,
+  "NumberOfAwards": 4001,
   "NumberOfAwardsMax": 2416,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1847,7 +1853,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1898,9 +1904,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66466,
+  "EOS_Progressed": 66470,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8708,6 +8714,11 @@
       "Time": "2023-07-05T05:00:39.0325786+00:00",
       "NumProgressed": 66466,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-05T06:02:10.8692861+00:00",
+      "NumProgressed": 66470,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8727,7 +8738,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -8751,7 +8762,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -8759,7 +8770,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -9055,7 +9066,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -9206,22 +9217,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66466,
+      "Progressed": 66470,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36746,
+      "Progressed": 36750,
       "Completed": 2650
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-04T20:00:58.9867831+00:00",
-  "LastChanged_Achievements": "2023-07-05T05:00:39.0325781+00:00",
+  "LastChanged": "2023-07-05T06:01:00.5380072+00:00",
+  "LastChanged_Achievements": "2023-07-05T06:02:10.8692857+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:59:45.7969673+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:00:39.0326943+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:01:00.5380079+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:02:10.8693653+00:00"
 }

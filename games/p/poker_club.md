@@ -5,28 +5,28 @@ Rating: 3.80 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~377,917 |
-| Handy | 40.00% | ~198,904 |
-| Cold Caller | 38.00% | ~188,958 |
-| A Bit On The Side | 26.00% | ~129,287 |
-| Backdoor | 24.00% | ~119,342 |
-| Rank Amateur | 20.00% | ~99,452 |
-| Three Way | 18.00% | ~89,507 |
-| Deadly Assassin | 15.00% | ~74,589 |
-| Gutshot | 13.00% | ~64,644 |
-| Risk It For A Biscuit | 13.00% | ~64,644 |
-| Showoff | 12.00% | ~59,671 |
-| W.H.I.P. | 11.00% | ~54,698 |
-| Bet Bet Bet | 9.00% | ~44,753 |
-| Blindman's Bluff | 8.00% | ~39,781 |
-| Poker Joker | 8.00% | ~39,781 |
-| Dog Eat Dog | 7.00% | ~34,808 |
-| Never Give Up | 7.00% | ~34,808 |
-| Quack Quack | 7.00% | ~34,808 |
-| Total Knock Out | 7.00% | ~34,808 |
+| Pro Creation | 76.00% | ~377,927 |
+| Handy | 40.00% | ~198,909 |
+| Cold Caller | 38.00% | ~188,963 |
+| A Bit On The Side | 26.00% | ~129,291 |
+| Backdoor | 24.00% | ~119,345 |
+| Rank Amateur | 20.00% | ~99,454 |
+| Three Way | 18.00% | ~89,509 |
+| Deadly Assassin | 15.00% | ~74,591 |
+| Gutshot | 13.00% | ~64,645 |
+| Risk It For A Biscuit | 13.00% | ~64,645 |
+| Showoff | 12.00% | ~59,673 |
+| W.H.I.P. | 11.00% | ~54,700 |
+| Bet Bet Bet | 9.00% | ~44,754 |
+| Blindman's Bluff | 8.00% | ~39,782 |
+| Poker Joker | 8.00% | ~39,782 |
+| Dog Eat Dog | 7.00% | ~34,809 |
+| Never Give Up | 7.00% | ~34,809 |
+| Quack Quack | 7.00% | ~34,809 |
+| Total Knock Out | 7.00% | ~34,809 |
 | Give Your Regards To Broadway | 6.00% | ~29,836 |
 | The Bigger They Are | 6.00% | ~29,836 |
-| Check Yourself | 4.00% | ~19,890 |
+| Check Yourself | 4.00% | ~19,891 |
 | In The Gang | 3.00% | ~14,918 |
 | Moneymaker | 3.00% | ~14,918 |
 | On The Button | 3.00% | ~14,918 |
@@ -51,7 +51,7 @@ Rating: 3.80 (Ranked 940)
 | Rounder | 0.10% | ~497 |
 | Top Dog | 0.10% | ~497 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,259 (Ranked 31)  
+Progressed: 497,272 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.00%) (Ranked 232)
 | 2023-07-02 | 496,315 | 1 |
 | 2023-07-03 | 496,763 | 1 |
 | 2023-07-04 | 497,182 | 1 |
-| 2023-07-05 | 497,259 | 1 |
+| 2023-07-05 | 497,272 | 1 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 473)  
 Sum: 25 (Ranked 480)  

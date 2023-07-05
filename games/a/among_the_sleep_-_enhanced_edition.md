@@ -15,9 +15,9 @@ Number of Ratings: 368  (23.09.2022)
 | Forest Drawings | 0.70% | ~542 |
 | Closet Drawings | 0.70% | ~542 |
 | Prologue Drawings | 0.60% | ~465 |
-| Collected all drawings | 0.50% | ~387 |
+| Collected all drawings | 0.50% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,499 (Ranked 69)  
+Progressed: 77,500 (Ranked 69)  
 Completed: 367 (0.47%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 367 (0.47%) (Ranked 127)
 | 2023-07-02 | 77,255 | 367 |
 | 2023-07-03 | 77,360 | 367 |
 | 2023-07-04 | 77,483 | 367 |
-| 2023-07-05 | 77,499 | 367 |
+| 2023-07-05 | 77,500 | 367 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

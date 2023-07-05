@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
     "PcReleaseDate": "2022-08-25T02:30:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "ach_22_eye4Eye",
       "SetID": "16n29hg",
       "Name": "Eye For An Eye",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_23_seqBreaker",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:03:53.780638+00:00",
-  "LastUpdate_AppInfo": "2023-06-28T05:57:01.7638006+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:57:07.021733+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:03:53.7807112+00:00"
+  "LastChanged_Achievements": "2023-07-05T06:02:05.9466122+00:00",
+  "LastUpdate_AppInfo": "2023-07-05T05:57:08.5205588+00:00",
+  "LastUpdate_Ratings": "2023-07-05T05:57:25.9257625+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:02:05.9471266+00:00"
 }

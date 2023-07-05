@@ -2350,9 +2350,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 231028,
+  "EOS_Progressed": 231029,
   "EOS_Completed": 760,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1224,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -10325,6 +10325,11 @@
       "Time": "2023-07-05T05:05:56.5097817+00:00",
       "NumProgressed": 231028,
       "NumCompleted": 760
+    },
+    {
+      "Time": "2023-07-05T06:07:35.585749+00:00",
+      "NumProgressed": 231029,
+      "NumCompleted": 760
     }
   ],
   "TotalAchievements": 39,
@@ -10368,7 +10373,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 60067
+      "UsersEstimate": 60068
     },
     {
       "ID": "AchievementBigFootID",
@@ -10384,7 +10389,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 69308
+      "UsersEstimate": 69309
     },
     {
       "ID": "AchievementBoulderID",
@@ -10392,7 +10397,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60067
+      "UsersEstimate": 60068
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -10400,7 +10405,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 210235
+      "UsersEstimate": 210236
     },
     {
       "ID": "AchievementClownID",
@@ -10432,7 +10437,7 @@
       "Name": "Egg Simulator",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36964
+      "UsersEstimate": 36965
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -10448,7 +10453,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76239
+      "UsersEstimate": 76240
     },
     {
       "ID": "AchievementGoatID",
@@ -10472,7 +10477,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 43895
+      "UsersEstimate": 43896
     },
     {
       "ID": "AchievementINirvanaID",
@@ -10504,7 +10509,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 131686
+      "UsersEstimate": 131687
     },
     {
       "ID": "AchievementLootBoxID",
@@ -10536,7 +10541,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 85480
+      "UsersEstimate": 85481
     },
     {
       "ID": "AchievementRampID",
@@ -10608,7 +10613,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 127065
+      "UsersEstimate": 127066
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -10616,7 +10621,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 108583
+      "UsersEstimate": 108584
     },
     {
       "ID": "AchievementTrinketID",
@@ -10632,7 +10637,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 150168
+      "UsersEstimate": 150169
     },
     {
       "ID": "AchievementWhaleID",
@@ -10640,14 +10645,14 @@
       "Name": "Real Buoy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60067
+      "UsersEstimate": 60068
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 231028,
+      "Progressed": 231029,
       "Completed": 760
     }
   ],
@@ -10655,8 +10660,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-07-04T18:01:08.971613+00:00",
-  "LastChanged_Achievements": "2023-07-05T05:05:56.5097813+00:00",
+  "LastChanged_Achievements": "2023-07-05T06:07:35.5857484+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.6866674+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:00:25.5282755+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:05:56.5098643+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:01:46.7015027+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:07:35.5858082+00:00"
 }

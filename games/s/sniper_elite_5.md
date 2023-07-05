@@ -10,6 +10,7 @@ Rating: 4.44 (Ranked 638)
 | Meeting Resistance | 1.00% | ~32 |
 | Sharpshooter | 1.00% | ~32 |
 | Confirming Suspicions | 1.00% | ~32 |
+| Lord of War | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
@@ -19,7 +20,6 @@ Rating: 4.44 (Ranked 638)
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |
 | Gunslinger | 0.90% | ~29 |
-| Lord of War | 0.90% | ~29 |
 | As Quiet as a Mouse | 0.90% | ~29 |
 | Opposing Force | 0.70% | ~22 |
 | Organ Grinder | 0.70% | ~22 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -6214,10 +6214,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 26962,
       "NumberOfAwardsMax": 12319
+    },
+    {
+      "Time": "2023-07-05T06:01:42.5428495+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 26966,
+      "NumberOfAwardsMax": 12319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26962,
+  "NumberOfAwards": 26966,
   "NumberOfAwardsMax": 12319,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6237,7 +6243,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1655
+      "Count": 1656
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6267,7 +6273,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1678
+      "Count": 1680
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6279,7 +6285,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1409
+      "Count": 1410
     }
   ],
   "EOS_Progressed": 0,
@@ -6293,8 +6299,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-07-05T02:23:23.5662245+00:00",
+  "LastChanged": "2023-07-05T06:01:42.5428494+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:49.9486839+00:00",
-  "LastUpdate_Ratings": "2023-07-05T05:00:21.10811+00:00",
-  "LastUpdate_Achievements": "2023-07-05T05:05:22.5714016+00:00"
+  "LastUpdate_Ratings": "2023-07-05T06:01:42.54285+00:00",
+  "LastUpdate_Achievements": "2023-07-05T06:06:51.4811438+00:00"
 }

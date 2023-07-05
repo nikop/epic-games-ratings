@@ -25,7 +25,7 @@ Rating: 4.64 (Ranked 311)
 | Keycards Royale | 23.00% | ~1,642 |
 | Dr. No Kill | 23.00% | ~1,642 |
 | My Motto, My Creed | 23.00% | ~1,642 |
-| In It to Win It | 21.00% | ~1,499 |
+| In It to Win It | 22.00% | ~1,571 |
 | Security Supervisor | 10.00% | ~714 |
 | License to Thrill | 9.00% | ~643 |
 | Social of Solace | 8.00% | ~571 |

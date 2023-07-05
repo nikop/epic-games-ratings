@@ -49,14 +49,14 @@ Rating: 4.18 (Ranked 852)
 | Hammer and Icicle | 0.30% | ~110 |
 | Renewable Enemy Source | 0.30% | ~110 |
 | Practice Makes Perfect | 0.30% | ~199 |
-| Element of Surprise | 0.20% | ~73 |
-| Crime Is a Terrible Thing to Waste | 0.20% | ~73 |
-| The Cold, the Bad and the Ugly | 0.20% | ~73 |
+| Element of Surprise | 0.20% | ~74 |
+| Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
+| The Cold, the Bad and the Ugly | 0.20% | ~74 |
 | Talonted | 0.20% | ~133 |
 | The Man-Bat Family | 0.20% | ~133 |
 | Batarang Collector | 0.20% | ~133 |
 | Claiming the Mural High Ground | 0.20% | ~133 |
-| A Sophisticated Mallet | 0.20% | ~73 |
+| A Sophisticated Mallet | 0.20% | ~74 |
 | It's Nice to Be Wanted | 0.10% | ~37 |
 | Gotham's Greatest Depths | 0.10% | ~37 |
 | Showdown Sovereign | 0.10% | ~37 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 852)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,466 (Ranked 73)  
+Progressed: 66,470 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,16 +143,16 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
-| 2023-07-05 | 66,466 | 100 |
+| 2023-07-05 | 66,470 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,416  (Ranked 100)  
-Sum: 4,000 (Ranked 137)  
+Sum: 4,001 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,416 |
 | This game is Extremely Fun | 205 |
-| This game has Quickly Understood Controls | 203 |
+| This game has Quickly Understood Controls | 204 |
 | This game is Relaxing | 203 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 195 |
@@ -297,3 +297,4 @@ Diff (max vs sum): -37
 | 2023-07-02 | 4.18 | 2,407 | 3,985 |
 | 2023-07-03 | 4.18 | 2,411 | 3,993 |
 | 2023-07-04 | 4.18 | 2,416 | 4,000 |
+| 2023-07-05 | 4.18 | 2,416 | 4,001 |

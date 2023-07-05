@@ -31,6 +31,7 @@
 | Ophiolatreia | 3.00% | ~94 |
 | Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
+| Rock and a Hard Place | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
 | Vandili | 2.00% | ~63 |
 | Cloaca Maxima | 2.00% | ~63 |
@@ -42,7 +43,6 @@
 | The Nameless One | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
-| Rock and a Hard Place | 1.00% | ~31 |
 | The Midas Touch | 1.00% | ~31 |
 | Pyr Demon | 1.00% | ~31 |
 | Don't Pay the Ferryman | 1.00% | ~31 |
@@ -55,9 +55,9 @@
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
+| Hipparchia's Labour | 0.50% | ~16 |
 | Olympian | 0.50% | ~16 |
 | Window Shopping | 0.40% | ~13 |
-| Hipparchia's Labour | 0.40% | ~13 |
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
