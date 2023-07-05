@@ -14,11 +14,11 @@
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 12.50% |
-| 16 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
-| 17 | [Remains](games/r/remains.md) | 12.20% |
-| 18 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 11.02% |
+| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
+| 16 | [Remains](games/r/remains.md) | 12.20% |
+| 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
+| 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.98% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -41,7 +41,7 @@
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.70% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
 | 41 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.55% |
-| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.46% |
+| 42 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.94% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.75% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -53,7 +53,7 @@
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 51 | [JARS](games/j/jars.md) | 3.33% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 53 | [The Complex](games/t/the_complex.md) | 3.12% |
+| 54 | [The Complex](games/t/the_complex.md) | 3.11% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 56 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 57 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.95% |
@@ -199,12 +199,12 @@
 | 195 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 199 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 199 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 199 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
 | 199 | [House Party](games/h/house_party.md) | 0.05% |
 | 199 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 203 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 203 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 203 | [Old World](games/o/old_world.md) | 0.04% |
+| 204 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 204 | [Old World](games/o/old_world.md) | 0.04% |
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 206 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 206 | [High On Life](games/h/high_on_life.md) | 0.03% |

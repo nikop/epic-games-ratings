@@ -199,7 +199,7 @@
 | 197 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,540 | 69 |
 | 197 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 352 | 221 |
 | 197 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 379 | 211 |
-| 197 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,485 | 70 |
+| 197 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,490 | 70 |
 | 197 | [For The King](games/f/for_the_king.md) | 4.70 | 373 | 215 |
 | 197 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 504 |
 | 197 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 504 |
@@ -378,7 +378,7 @@
 | 362 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 504 |
 | 362 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,528 | 92 |
 | 362 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 642 | 169 |
-| 362 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 449 | 200 |
+| 362 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 453 | 199 |
 | 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,389 | 37 |
 | 362 | [Returnal™](games/r/returnal™.md) | 4.61 | 55 | 389 |
 | 362 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
@@ -782,7 +782,7 @@
 | 780 | [Against All Odds](games/a/against_all_odds.md) | 4.29 | 0 | 504 |
 | 780 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 504 |
 | 780 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 504 |
-| 780 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,475,811 | 1 |
+| 780 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,477,017 | 1 |
 | 780 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.29 | 3,664 | 80 |
 | 780 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 696 | 163 |
 | 780 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 43 | 413 |
@@ -847,7 +847,7 @@
 | 844 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 442 |
 | 844 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 504 |
 | 844 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 358 |
-| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 185,204 | 5 |
+| 844 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 185,234 | 5 |
 | 844 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 504 |
 | 844 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 504 |
 | 844 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 64 | 379 |
@@ -901,7 +901,7 @@
 | 898 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 278 |
 | 900 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 504 |
 | 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,005 | 65 |
-| 901 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 451 | 199 |
+| 901 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 451 | 200 |
 | 901 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 504 |
 | 904 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 504 |
 | 904 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 504 |

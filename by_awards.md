@@ -1,10 +1,10 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,475,811 | 4.29 | 780 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,477,017 | 4.29 | 780 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 463,736 | 4.50 | 552 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 298,957 | 4.68 | 239 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 194,530 | 4.68 | 239 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,204 | 4.19 | 844 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 185,234 | 4.19 | 844 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 156,631 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,485 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,410 | 4.69 | 219 |
@@ -69,7 +69,7 @@
 | 67 | [MultiVersus](games/m/multiversus.md) | 4,745 | 4.56 | 460 |
 | 68 | [Shop Titans](games/s/shop_titans.md) | 4,648 | 3.99 | 915 |
 | 69 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,540 | 4.70 | 197 |
-| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,485 | 4.70 | 197 |
+| 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,490 | 4.70 | 197 |
 | 71 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4,421 | 4.57 | 441 |
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,399 | 4.70 | 197 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,316 | 4.61 | 362 |
@@ -198,8 +198,8 @@
 | 196 | [Surviving Mars](games/s/surviving_mars.md) | 459 | 4.60 | 390 |
 | 196 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 273 |
 | 198 | [The Sims™ 4](games/t/the_sims™_4.md) | 454 | 4.61 | 362 |
-| 199 | [Second Extinction™](games/s/second_extinction™.md) | 451 | 4.05 | 901 |
-| 200 | [Prison Architect](games/p/prison_architect.md) | 449 | 4.61 | 362 |
+| 199 | [Prison Architect](games/p/prison_architect.md) | 453 | 4.61 | 362 |
+| 200 | [Second Extinction™](games/s/second_extinction™.md) | 451 | 4.05 | 901 |
 | 201 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 420 | 4.40 | 689 |
 | 202 | [Against the Storm](games/a/against_the_storm.md) | 418 | 4.81 | 75 |
 | 203 | [RimWorld](games/r/rimworld.md) | 417 | 4.89 | 12 |
