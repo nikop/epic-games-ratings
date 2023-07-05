@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22964,
+  "EOS_Progressed": 22965,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1984,6 +1984,11 @@
       "Time": "2023-07-04T16:05:43.2784765+00:00",
       "NumProgressed": 22964,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-05T19:07:50.5957914+00:00",
+      "NumProgressed": 22965,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2001,9 +2006,9 @@
       "ID": "ACH_ALL_CARDS",
       "SetID": "cdkbb11",
       "Name": "Playing Card To Get",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7808
+      "UsersEstimate": 7578
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -2011,7 +2016,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17682
+      "UsersEstimate": 17683
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -2059,7 +2064,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 17682
+      "UsersEstimate": 17683
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -2075,7 +2080,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -2099,7 +2104,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19060
+      "UsersEstimate": 19061
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -2115,7 +2120,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2195,7 +2200,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -2250,22 +2255,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22964,
+      "Progressed": 22965,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 257,
-      "Completed": 257
+      "Progressed": 258,
+      "Completed": 258
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:06:10.2583206+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:07:50.5957908+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.9495889+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:58:46.0508158+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:06:10.2583876+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:59:09.7187069+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:07:50.59597+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -73,6 +73,11 @@
       "Time": "2023-06-02T19:04:56.5452705+00:00",
       "NumProgressed": 72,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T19:07:30.658058+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -82,7 +87,7 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 33
     },
@@ -98,7 +103,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 80,
       "UsersEstimate": 36
     },
@@ -106,7 +111,7 @@
       "ID": "2",
       "SetID": "5jd5jfm",
       "Name": "Where\u2019s Mr. Dinosaur?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 80,
       "UsersEstimate": 17
     },
@@ -154,7 +159,7 @@
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 80,
       "UsersEstimate": 41
     },
@@ -171,7 +176,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 4
     }
   ],
@@ -179,8 +184,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:05:46.5437617+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:07:30.6580573+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:23.5652894+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:00:21.6663196+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:05:46.5437752+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:01:39.8737831+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:07:30.6580682+00:00"
 }

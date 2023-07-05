@@ -9,25 +9,25 @@ Number of Ratings: 125  (23.09.2022)
 | Unforgiven | 87.00% | ~1,462 |
 | Self-Improvement | 72.00% | ~1,210 |
 | Perky | 66.00% | ~1,109 |
-| Let’s Ride | 60.00% | ~1,008 |
+| Let’s Ride | 60.00% | ~1,009 |
 | Welcome to the Weird West | 57.00% | ~958 |
 | Dead or Alive | 56.00% | ~941 |
 | Full House | 37.00% | ~622 |
-| Off the Trail | 34.00% | ~571 |
+| Off the Trail | 34.00% | ~572 |
 | Justice Served | 29.00% | ~487 |
 | Chain Reaction | 27.00% | ~454 |
 | Through Their Eyes | 26.00% | ~437 |
 | Dishonored | 25.00% | ~420 |
 | Rain of Death | 25.00% | ~420 |
 | Scholar | 25.00% | ~420 |
-| The Great Escape | 23.00% | ~386 |
+| The Great Escape | 23.00% | ~387 |
 | That’s All, Folks | 19.00% | ~319 |
 | Fallen Star | 16.00% | ~269 |
 | For Balance | 16.00% | ~269 |
 | Here Comes Santa Claus | 16.00% | ~269 |
 | Winds of War | 16.00% | ~269 |
-| Dog Days | 13.00% | ~218 |
-| Workers' Rights | 13.00% | ~218 |
+| Dog Days | 13.00% | ~219 |
+| Workers' Rights | 13.00% | ~219 |
 | Elusive Prey | 12.00% | ~202 |
 | Out on the Ebb Tide | 12.00% | ~202 |
 | Power Behind the Pulpit | 12.00% | ~202 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.40% | ~7 |
 | Winter Has Come | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,680 (Ranked 166)  
+Progressed: 1,681 (Ranked 166)  
 Completed: 3 (0.18%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 3 (0.18%) (Ranked 164)
 | 2023-07-02 | 1,677 | 3 |
 | 2023-07-03 | 1,678 | 3 |
 | 2023-07-04 | 1,679 | 3 |
-| 2023-07-05 | 1,680 | 3 |
+| 2023-07-05 | 1,681 | 3 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 475)  
 Sum: 24 (Ranked 481)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -519,9 +519,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 216354,
+  "EOS_Progressed": 216365,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8574,6 +8574,11 @@
       "Time": "2023-07-05T18:05:18.644214+00:00",
       "NumProgressed": 216354,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T19:06:52.4342303+00:00",
+      "NumProgressed": 216365,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 34,
@@ -8585,7 +8590,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 41107
+      "UsersEstimate": 41109
     },
     {
       "ID": "ACH_BASE_10",
@@ -8593,7 +8598,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 54088
+      "UsersEstimate": 54091
     },
     {
       "ID": "ACH_BASE_11",
@@ -8609,7 +8614,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "ACH_BASE_13",
@@ -8625,7 +8630,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     },
     {
       "ID": "ACH_BASE_16",
@@ -8633,7 +8638,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     },
     {
       "ID": "ACH_BASE_17",
@@ -8641,7 +8646,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     },
     {
       "ID": "ACH_BASE_18",
@@ -8649,7 +8654,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     },
     {
       "ID": "ACH_BASE_19",
@@ -8665,7 +8670,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12981
+      "UsersEstimate": 12982
     },
     {
       "ID": "ACH_BASE_20",
@@ -8753,7 +8758,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "ACH_BASE_30",
@@ -8833,7 +8838,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25962
+      "UsersEstimate": 25964
     },
     {
       "ID": "ACH_BASE_8",
@@ -8841,7 +8846,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "ACH_BASE_9",
@@ -8849,14 +8854,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19472
+      "UsersEstimate": 19473
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 216354,
+      "Progressed": 216365,
       "Completed": 4
     }
   ],
@@ -8864,8 +8869,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-07-03T07:58:45.3710308+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:05:18.6442136+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:06:52.4342297+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:10.6599938+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:59:22.6579531+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:05:18.6443062+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:00:01.6347556+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:06:52.4343621+00:00"
 }

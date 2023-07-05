@@ -1,21 +1,21 @@
 # Darkwood
 [Store](https://store.epicgames.com/en-US/p/darkwood-fa73bd)  
 [View Rawdata](../../db/d/darkwood.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 361)  
 ## Awards
-Max (Extremely Fun): 321  (Ranked 227)  
-Sum: 2,376 (Ranked 176)  
+Max (Extremely Fun): 322  (Ranked 227)  
+Sum: 2,378 (Ranked 176)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 321 |
+| This game is Extremely Fun | 322 |
 | This game has Challenging Combat | 295 |
 | This game has Amazing Storytelling | 282 |
 | This game has Quickly Understood Controls | 274 |
 | This game is Highly Recommended | 268 |
 | This game has Unique Visuals | 265 |
 | This game has Diverse Characters | 259 |
-| This game has Amazing Characters | 253 |
+| This game has Amazing Characters | 254 |
 | This game has a Creative Community | 159 |
 | This game has Obsessive Gameplay | 65 |
 ## Ratings History
@@ -59,3 +59,4 @@ Diff (max vs sum): 51
 | 2023-06-29 | 4.61 | 321 | 2,374 |
 | 2023-06-30 | 4.61 | 321 | 2,375 |
 | 2023-07-04 | 4.61 | 321 | 2,376 |
+| 2023-07-05 | 4.61 | 322 | 2,378 |

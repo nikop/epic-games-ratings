@@ -6,19 +6,19 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~575 |
+| Cabin boy | 81.00% | ~576 |
 | My little farm | 65.00% | ~462 |
-| Every beginning is difficult | 63.00% | ~447 |
+| Every beginning is difficult | 63.00% | ~448 |
 | 3, 2, 1, mine | 56.00% | ~398 |
 | Gofer | 56.00% | ~398 |
-| Seafarer | 54.00% | ~383 |
-| O Captain! My Captain! | 54.00% | ~383 |
-| Greed for gold | 44.00% | ~312 |
-| Intangible | 42.00% | ~298 |
-| I'm out of here for a while | 42.00% | ~298 |
+| Seafarer | 54.00% | ~384 |
+| O Captain! My Captain! | 54.00% | ~384 |
+| Greed for gold | 43.00% | ~306 |
+| Intangible | 42.00% | ~299 |
+| I'm out of here for a while | 42.00% | ~299 |
 | In a mint condition | 38.00% | ~270 |
 | Licence to Kill | 36.00% | ~256 |
-| Pirates! | 35.00% | ~248 |
+| Pirates! | 35.00% | ~249 |
 | Collectionitis | 28.00% | ~199 |
 | Megalomania | 28.00% | ~199 |
 | Christening | 27.00% | ~192 |
@@ -27,7 +27,7 @@ Number of Ratings: 53  (23.09.2022)
 | Walk the plank | 21.00% | ~149 |
 | Pearly gates | 17.00% | ~121 |
 | My precious! | 17.00% | ~121 |
-| Conquistador | 14.00% | ~99 |
+| Conquistador | 14.00% | ~100 |
 | Panic buying | 11.00% | ~78 |
 | Just a scratch | 9.00% | ~64 |
 | Your vessel, my vessel | 9.00% | ~64 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710 (Ranked 198)  
+Progressed: 711 (Ranked 198)  
 Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-07-02 | 704 | 1 |
 | 2023-07-03 | 705 | 1 |
 | 2023-07-04 | 709 | 1 |
-| 2023-07-05 | 710 | 1 |
+| 2023-07-05 | 711 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

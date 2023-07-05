@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 3.00% | ~470 |
 | No Deaths | 3.00% | ~470 |
 | Homesick | 2.00% | ~313 |
+| Against All Odds | 2.00% | ~313 |
 | Bandit Camp | 2.00% | ~313 |
 | Barren Lands | 2.00% | ~313 |
 | Ancient Battleground | 2.00% | ~313 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 2.00% | ~313 |
 | Serving Ale | 1.00% | ~156 |
 | Refinery | 1.00% | ~156 |
-| Against All Odds | 1.00% | ~156 |
 | Ruined Armory | 1.00% | ~156 |
 | Dangerous Lands | 1.00% | ~156 |
 | Forbidden Lands | 1.00% | ~156 |

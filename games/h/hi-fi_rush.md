@@ -28,9 +28,11 @@ Rating: 4.89 (Ranked 12)
 | Who put gears in there? | 0.10% | ~3 |
 | Alright, that felt AWESOME! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
+| Check out my moves! | 0.10% | ~3 |
 | NOW we got a kickass hideout! | 0.10% | ~2 |
 | Call me Turbo Chai | 0.10% | ~2 |
 | Choose your own adventure | 0.10% | ~2 |
+| It'll do, CNMN | 0.10% | ~2 |
 | New bad guys? No problem! | 0.10% | ~2 |
 | Start with a bang! | 0.00% | ~0 |
 | This will cost you big time | 0.00% | ~0 |
@@ -68,9 +70,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
 | I saw all those hits coming a measure away! | 0.00% | ~0 |
-| Check out my moves! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
-| It'll do, CNMN | 0.00% | ~0 |
 | Please don't make this awkward | 0.00% | ~0 |
 | That was just EVIL | 0.00% | ~0 |
 | It was all for this | 0.00% | ~0 |

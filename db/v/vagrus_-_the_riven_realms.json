@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -763,9 +763,9 @@
       "ID": "Vanilla_Harvek",
       "SetID": "27kik8p",
       "Name": "Legacy of a Mercenary",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Vanilla_HouseDarius",
@@ -1148,8 +1148,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:07:13.7267199+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:09:13.5240239+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:34.3036965+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:59:38.4951481+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:07:13.7268673+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:00:29.7946099+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:09:13.5241572+00:00"
 }

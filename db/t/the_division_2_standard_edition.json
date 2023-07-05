@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "NumberOfRatings": 6675,
   "RatingHistory": [
     {
@@ -7176,10 +7176,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 24250,
       "NumberOfAwardsMax": 7468
+    },
+    {
+      "Time": "2023-07-05T19:03:32.2394+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 24255,
+      "NumberOfAwardsMax": 7468
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24250,
+  "NumberOfAwards": 24255,
   "NumberOfAwardsMax": 7468,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7235,7 +7241,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1265
+      "Count": 1270
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7267,8 +7273,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-07-05T18:01:42.6557167+00:00",
+  "LastChanged": "2023-07-05T19:03:32.2393997+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:57.6493056+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:01:42.6557175+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:04:19.8820948+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:03:32.2394005+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:06:00.4715056+00:00"
 }

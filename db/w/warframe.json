@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -6857,10 +6857,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 42324,
       "NumberOfAwardsMax": 15823
+    },
+    {
+      "Time": "2023-07-05T18:58:06.484914+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 42331,
+      "NumberOfAwardsMax": 15823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42324,
+  "NumberOfAwards": 42331,
   "NumberOfAwardsMax": 15823,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6880,7 +6886,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3327
+      "Count": 3331
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6892,7 +6898,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3379
+      "Count": 3382
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6942,8 +6948,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-07-05T17:57:49.0357442+00:00",
+  "LastChanged": "2023-07-05T18:58:06.4849138+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:25.7280566+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:57:49.035745+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:04:18.0566406+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:58:06.4849145+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:05:57.7966326+00:00"
 }

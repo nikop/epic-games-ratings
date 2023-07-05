@@ -18,8 +18,8 @@
 | Maybe you should give it another go | 10.00% | ~17 |
 | I used to think I was indecisive... | 7.00% | ~12 |
 | Mikey Lizard | 6.00% | ~10 |
+| We tried to warn you! | 5.00% | ~9 |
 | That's my boy! | 4.00% | ~7 |
-| We tried to warn you! | 4.00% | ~7 |
 | Deathlooper | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 174 (Ranked 274)  

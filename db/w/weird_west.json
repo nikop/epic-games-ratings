@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1680,
+  "EOS_Progressed": 1681,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1260,6 +1260,11 @@
       "Time": "2023-07-05T13:22:20.3987917+00:00",
       "NumProgressed": 1680,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-05T19:04:30.5089727+00:00",
+      "NumProgressed": 1681,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1303,7 +1308,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -1423,7 +1428,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -1503,7 +1508,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -1599,7 +1604,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1687,22 +1692,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1680,
+      "Progressed": 1681,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:02:24.0490318+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:04:30.508972+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.2438029+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:59:19.4802769+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:02:24.0491294+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:59:57.8492163+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:04:30.5090319+00:00"
 }

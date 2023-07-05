@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 639,
+  "Ranking_Rating": 620,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -368,15 +368,21 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-05T19:03:38.4770691+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3211,
+  "EOS_Progressed": 3213,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4704,6 +4710,11 @@
       "Time": "2023-07-05T18:07:14.2818406+00:00",
       "NumProgressed": 3211,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-05T19:09:14.0576282+00:00",
+      "NumProgressed": 3213,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4753,9 +4764,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -5282,22 +5293,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3162,
+      "Progressed": 3164,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3211,
+      "Progressed": 3213,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T18:07:14.28184+00:00",
+  "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
+  "LastChanged_Achievements": "2023-07-05T19:09:14.0576276+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T18:01:46.1202093+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:07:14.2819792+00:00"
+  "LastUpdate_Ratings": "2023-07-05T19:03:38.4770695+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:09:14.0577402+00:00"
 }

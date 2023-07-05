@@ -16,6 +16,7 @@ Rating: 4.19 (Ranked 844)
 | Workplace Hazard | 1.00% | ~156 |
 | Float Like A Butterfly | 1.00% | ~156 |
 | Reforged | 1.00% | ~156 |
+| If the SHU Fits... | 1.00% | ~156 |
 | Without A Paddle | 1.00% | ~156 |
 | In the Pipe, Five by Five | 1.00% | ~156 |
 | Crash Site | 1.00% | ~156 |
@@ -24,7 +25,6 @@ Rating: 4.19 (Ranked 844)
 | It's Time | 1.00% | ~36 |
 | Terminated | 0.90% | ~141 |
 | The Outer Way | 0.90% | ~141 |
-| If the SHU Fits... | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
 | Giving Back | 0.80% | ~125 |
 | Desperate Times | 0.80% | ~125 |

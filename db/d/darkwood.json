@@ -2,13 +2,13 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2017-08-17T07:00:00+00:00",
@@ -297,18 +297,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 2376,
       "NumberOfAwardsMax": 321
+    },
+    {
+      "Time": "2023-07-05T18:59:21.7450862+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2378,
+      "NumberOfAwardsMax": 322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2376,
-  "NumberOfAwardsMax": 321,
+  "NumberOfAwards": 2378,
+  "NumberOfAwardsMax": 322,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 321
+      "Count": 322
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -332,7 +338,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 253
+      "Count": 254
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -377,8 +383,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2023-07-04T11:58:30.0401988+00:00",
+  "LastChanged": "2023-07-05T18:59:21.7450861+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:36.6640579+00:00",
-  "LastUpdate_Ratings": "2023-07-05T17:58:53.6506752+00:00",
-  "LastUpdate_Achievements": "2023-07-05T18:04:29.9913756+00:00"
+  "LastUpdate_Ratings": "2023-07-05T18:59:21.7450867+00:00",
+  "LastUpdate_Achievements": "2023-07-05T19:06:13.2305674+00:00"
 }

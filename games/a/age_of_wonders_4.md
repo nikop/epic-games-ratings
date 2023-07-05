@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 362)  
+Rating: 4.61 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,9 +32,9 @@ Rating: 4.61 (Ranked 362)
 | Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | Valley of Wonders | 0.90% | ~44 |
+| The Creator | 0.90% | ~44 |
 | Enchanted Archipelago | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
-| The Creator | 0.80% | ~39 |
 | The Goddess of Nature | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | God Emperor | 0.70% | ~34 |
