@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2600,
+  "EOS_Progressed": 2601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1732,6 +1732,11 @@
       "Time": "2023-07-05T11:06:23.7479128+00:00",
       "NumProgressed": 2600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T12:07:46.0673339+00:00",
+      "NumProgressed": 2601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1839,7 +1844,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1855,7 +1860,7 @@
       "Name": "Call Me Snake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -1863,7 +1868,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1935,15 +1940,15 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ACH_MISSION_02",
       "SetID": "816efe",
       "Name": "First Steps Into Madness",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1118
     },
     {
       "ID": "ACH_MISSION_03",
@@ -1973,9 +1978,9 @@
       "ID": "ACH_MISSION_06",
       "SetID": "816efe",
       "Name": "Living Nightmare",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH_MISSION_07",
@@ -2039,7 +2044,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2047,7 +2052,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2055,7 +2060,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2102,7 +2107,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2600,
+      "Progressed": 2601,
       "Completed": 0
     }
   ],
@@ -2110,8 +2115,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-04T13:17:54.0555792+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:06:23.7479116+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:07:46.0673332+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:59:49.5709175+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:06:23.7479622+00:00"
+  "LastUpdate_Ratings": "2023-07-05T12:00:56.1850538+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:07:46.0673814+00:00"
 }

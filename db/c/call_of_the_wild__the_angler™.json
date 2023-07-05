@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -586,9 +586,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4575,
+  "EOS_Progressed": 4576,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4196,6 +4196,11 @@
       "Time": "2023-07-05T08:04:43.3762149+00:00",
       "NumProgressed": 4575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T12:05:43.4389764+00:00",
+      "NumProgressed": 4576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -4207,7 +4212,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -4271,7 +4276,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4311,7 +4316,7 @@
       "Name": "Goldfish?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -4407,7 +4412,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4486,13 +4491,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 4575,
+      "Progressed": 4576,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3947,
+      "Progressed": 3948,
       "Completed": 112
     }
   ],
@@ -4500,8 +4505,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-06-29T22:00:44.387661+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:04:36.4732763+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:05:43.4389758+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:01.0677572+00:00",
-  "LastUpdate_Ratings": "2023-07-05T11:00:18.6389031+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:04:36.4733235+00:00"
+  "LastUpdate_Ratings": "2023-07-05T12:01:33.2621928+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:05:43.4390276+00:00"
 }

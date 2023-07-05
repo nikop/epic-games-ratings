@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 50.00% | ~2,545 |
-| Returning Home: Quick Learner | 26.00% | ~1,323 |
+| Level: Returning Home | 50.00% | ~2,546 |
+| Returning Home: Quick Learner | 26.00% | ~1,324 |
 | Level: Charlie's Circuits | 22.00% | ~1,120 |
 | Level: Rising Markets | 9.00% | ~458 |
 | Peddler | 8.00% | ~407 |
@@ -15,8 +15,8 @@ Number of Ratings: 75  (23.09.2022)
 | Rising Markets: Avoiding the Reds | 7.00% | ~356 |
 | Data Churn Type I | 7.00% | ~356 |
 | Millionaire | 6.00% | ~305 |
-| Data Churn Type II | 5.00% | ~254 |
-| Speedy | 5.00% | ~254 |
+| Data Churn Type II | 5.00% | ~255 |
+| Speedy | 5.00% | ~255 |
 | Extra Life: Wish Granted | 4.00% | ~204 |
 | High Five! | 4.00% | ~204 |
 | Modular Progress | 4.00% | ~204 |
@@ -46,10 +46,10 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Safety First | 0.80% | ~41 |
 | Tycoon | 0.80% | ~41 |
 | Merry-Go-Around: Self-Made | 0.70% | ~36 |
-| Level: Eye In The Sky | 0.60% | ~31 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~31 |
 | Trendsetter | 0.60% | ~31 |
 | Level: Heating-Up | 0.50% | ~25 |
+| Level: Eye In The Sky | 0.50% | ~25 |
 | CEO | 0.50% | ~25 |
 | Campaign: Man vs. Machine | 0.40% | ~20 |
 | Rockstar | 0.40% | ~20 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,090 (Ranked 133)  
+Progressed: 5,091 (Ranked 133)  
 Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-07-02 | 5,082 | 1 |
 | 2023-07-03 | 5,085 | 1 |
 | 2023-07-04 | 5,089 | 1 |
-| 2023-07-05 | 5,090 | 1 |
+| 2023-07-05 | 5,091 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

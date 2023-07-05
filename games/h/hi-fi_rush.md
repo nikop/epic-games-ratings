@@ -31,7 +31,7 @@ Rating: 4.89 (Ranked 12)
 | I have to read these things? | 29.00% | ~988 |
 | I look cool. But I can look COOLER. | 28.00% | ~954 |
 | There's such a thing as TOO helpful | 22.00% | ~749 |
-| That's a lot of junk metal… | 19.00% | ~647 |
+| That's a lot of junk metal… | 20.00% | ~681 |
 | Well that was a rush! | 18.00% | ~613 |
 | Beat-hit mania | 18.00% | ~613 |
 | I told you I'd be fine, Peppermint! | 17.00% | ~579 |

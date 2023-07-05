@@ -12,8 +12,8 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 34.00% | ~4,662 |
 | Let there be darkness | 33.00% | ~4,525 |
 | End of Book One | 31.00% | ~4,251 |
+| Garden of Eden | 25.00% | ~3,428 |
 | Wannabe knight | 24.00% | ~3,291 |
-| Garden of Eden | 24.00% | ~3,291 |
 | Full house | 24.00% | ~3,291 |
 | Help an old friend | 22.00% | ~3,017 |
 | Two of us | 20.00% | ~2,742 |

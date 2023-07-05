@@ -413,17 +413,17 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -436,8 +436,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:04:30.9787354+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:05:35.9777815+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.0688651+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:58:25.5424672+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:04:30.9787487+00:00"
+  "LastUpdate_Ratings": "2023-07-05T11:58:56.5972005+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:05:35.9777956+00:00"
 }

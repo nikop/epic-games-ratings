@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5090,
+  "EOS_Progressed": 5091,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2023-07-05T00:03:09.5061732+00:00",
       "NumProgressed": 5090,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T12:03:55.9874188+00:00",
+      "NumProgressed": 5091,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -2177,7 +2182,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "ach_campaign_progress6",
@@ -2199,9 +2204,9 @@
       "ID": "ach_campaign_progress8",
       "SetID": "8cb3id7",
       "Name": "Level: Eye In The Sky",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_campaign_progress9",
@@ -2217,7 +2222,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ach_campaign_special10",
@@ -2497,7 +2502,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -2657,7 +2662,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ach_trait_overload",
@@ -2672,15 +2677,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5090,
+      "Progressed": 5091,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:03:20.025615+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:03:55.9874181+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.8817899+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:59:22.221632+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:03:20.0257125+00:00"
+  "LastUpdate_Ratings": "2023-07-05T12:00:19.1076147+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:03:55.987506+00:00"
 }

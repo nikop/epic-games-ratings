@@ -543,9 +543,9 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ANTIDOTE",
@@ -615,9 +615,9 @@
       "ID": "ACH_EVADOCUMENTS",
       "SetID": "511e31d",
       "Name": "Eva\u0027s diary",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_EVILDOCUMENTS",
@@ -663,9 +663,9 @@
       "ID": "ACH_MATTDOCUMENTS",
       "SetID": "511e31d",
       "Name": "A dark past",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -751,9 +751,9 @@
       "ID": "ACH_SPADE",
       "SetID": "511e31d",
       "Name": "He who seeks, finds!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_THEGARDEN",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:06:29.2599377+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:07:53.3376505+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.2832968+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:57:33.9530921+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:06:29.2599649+00:00"
+  "LastUpdate_Ratings": "2023-07-05T11:57:41.2434058+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:07:53.3376776+00:00"
 }

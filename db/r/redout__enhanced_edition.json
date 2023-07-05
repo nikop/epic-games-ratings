@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226438,
+  "EOS_Progressed": 226440,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8098,6 +8098,11 @@
       "Time": "2023-07-05T11:06:24.5259253+00:00",
       "NumProgressed": 226438,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-05T12:07:47.0520359+00:00",
+      "NumProgressed": 226440,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8245,7 +8250,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 72460
+      "UsersEstimate": 72461
     },
     {
       "ID": "NOBUNAGA",
@@ -8269,7 +8274,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "PHOTOFINISH",
@@ -8333,7 +8338,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49816
+      "UsersEstimate": 49817
     },
     {
       "ID": "TACTICIAN",
@@ -8357,7 +8362,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49816
+      "UsersEstimate": 49817
     },
     {
       "ID": "TUNINGMANIAC",
@@ -8380,15 +8385,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226438,
+      "Progressed": 226440,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-05T11:06:24.5259249+00:00",
+  "LastChanged_Achievements": "2023-07-05T12:07:47.0520353+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:50.6840809+00:00",
-  "LastUpdate_Ratings": "2023-07-05T10:58:39.3604847+00:00",
-  "LastUpdate_Achievements": "2023-07-05T11:06:24.5259998+00:00"
+  "LastUpdate_Ratings": "2023-07-05T11:59:13.339675+00:00",
+  "LastUpdate_Achievements": "2023-07-05T12:07:47.0521078+00:00"
 }

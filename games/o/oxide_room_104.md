@@ -19,20 +19,20 @@
 | On the right path | 12.00% | ~15 |
 | One-way | 12.00% | ~15 |
 | It can't be true | 11.00% | ~13 |
+| He who seeks, finds! | 11.00% | ~13 |
 | I'm close now | 10.00% | ~12 |
 | Failed attempt | 10.00% | ~12 |
 | Good choice | 10.00% | ~12 |
 | Take the long way round | 10.00% | ~12 |
-| He who seeks, finds! | 10.00% | ~12 |
 | The real escape | 9.00% | ~11 |
 | Nightmare in the kitchen | 9.00% | ~11 |
 | Born again | 7.00% | ~9 |
-| 373 | 5.00% | ~6 |
+| 373 | 6.00% | ~7 |
 | The experiment | 5.00% | ~6 |
 | Matthew's revenge | 5.00% | ~6 |
+| Eva's diary | 2.00% | ~2 |
 | Horror book | 2.00% | ~2 |
-| Eva's diary | 0.80% | ~1 |
-| A dark past | 0.80% | ~1 |
+| A dark past | 2.00% | ~2 |
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

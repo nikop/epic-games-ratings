@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,980 |
-| The Mad Wizard | 11.00% | ~22,719 |
-| Are Ya Chicken? | 7.00% | ~14,457 |
-| The Ring of Regeneration | 6.00% | ~12,392 |
-| Were-verpowered | 5.00% | ~10,327 |
-| Mad Cow Disease | 5.00% | ~10,327 |
-| Friendly Imps | 5.00% | ~10,327 |
-| A Persistent Buzzing | 4.00% | ~8,261 |
-| Seeking Allies | 4.00% | ~8,261 |
-| Pure Energy | 4.00% | ~8,261 |
-| Terror in the Dark | 3.00% | ~6,196 |
-| Unearthed Evil | 3.00% | ~6,196 |
-| The Crumbling Temple | 3.00% | ~6,196 |
-| The Contagious Curse | 3.00% | ~6,196 |
+| The Cursed Farmer | 15.00% | ~30,984 |
+| The Mad Wizard | 11.00% | ~22,721 |
+| Are Ya Chicken? | 7.00% | ~14,459 |
+| The Ring of Regeneration | 6.00% | ~12,394 |
+| Were-verpowered | 5.00% | ~10,328 |
+| Mad Cow Disease | 5.00% | ~10,328 |
+| Friendly Imps | 5.00% | ~10,328 |
+| A Persistent Buzzing | 4.00% | ~8,262 |
+| Seeking Allies | 4.00% | ~8,262 |
+| Pure Energy | 4.00% | ~8,262 |
+| Terror in the Dark | 3.00% | ~6,197 |
+| Unearthed Evil | 3.00% | ~6,197 |
+| The Crumbling Temple | 3.00% | ~6,197 |
+| The Contagious Curse | 3.00% | ~6,197 |
 | Beast Mode | 2.00% | ~4,131 |
 | Low Initiative | 2.00% | ~4,131 |
 | A Mysterious Summons | 2.00% | ~4,131 |
@@ -30,21 +30,21 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 2.00% | ~4,131 |
 | Waterdeep Detours | 2.00% | ~4,131 |
 | Underdeep Cartography | 2.00% | ~4,131 |
-| Street War | 1.00% | ~2,065 |
-| March of the Undead | 1.00% | ~2,065 |
-| No Time To Rest | 1.00% | ~2,065 |
-| Invisible Shadows | 1.00% | ~2,065 |
-| The Dinner Party | 1.00% | ~2,065 |
-| The Botched Kidnapping | 1.00% | ~2,065 |
-| The Death Curse | 1.00% | ~2,065 |
-| Premature Betrayal | 1.00% | ~2,065 |
-| A Tale of Two Cities | 1.00% | ~2,065 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,065 |
-| Close Escort | 1.00% | ~2,065 |
-| Constant Banditry | 1.00% | ~2,065 |
-| Overdue Rendezvous | 1.00% | ~2,065 |
-| The Templar's Camp | 1.00% | ~2,065 |
-| Rescue in the Jungle | 1.00% | ~2,065 |
+| Street War | 1.00% | ~2,066 |
+| March of the Undead | 1.00% | ~2,066 |
+| No Time To Rest | 1.00% | ~2,066 |
+| Invisible Shadows | 1.00% | ~2,066 |
+| The Dinner Party | 1.00% | ~2,066 |
+| The Botched Kidnapping | 1.00% | ~2,066 |
+| The Death Curse | 1.00% | ~2,066 |
+| Premature Betrayal | 1.00% | ~2,066 |
+| A Tale of Two Cities | 1.00% | ~2,066 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,066 |
+| Close Escort | 1.00% | ~2,066 |
+| Constant Banditry | 1.00% | ~2,066 |
+| Overdue Rendezvous | 1.00% | ~2,066 |
+| The Templar's Camp | 1.00% | ~2,066 |
+| Rescue in the Jungle | 1.00% | ~2,066 |
 | Homecoming | 0.90% | ~1,859 |
 | Trollskull Manor | 0.90% | ~1,859 |
 | Dinosaur Racing | 0.90% | ~1,859 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,534 (Ranked 52)  
-Completed: 2,030 (0.98%) (Ranked 101)  
+Progressed: 206,559 (Ranked 52)  
+Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -586,7 +586,7 @@ Completed: 2,030 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,534 | 2,030 |
+| 2023-07-05 | 206,559 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

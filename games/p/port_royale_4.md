@@ -6,23 +6,23 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~574 |
-| My little farm | 65.00% | ~461 |
+| Cabin boy | 81.00% | ~575 |
+| My little farm | 65.00% | ~462 |
 | Every beginning is difficult | 63.00% | ~447 |
-| 3, 2, 1, mine | 56.00% | ~397 |
-| Gofer | 56.00% | ~397 |
+| 3, 2, 1, mine | 56.00% | ~398 |
+| Gofer | 56.00% | ~398 |
 | Seafarer | 54.00% | ~383 |
 | O Captain! My Captain! | 54.00% | ~383 |
-| Greed for gold | 43.00% | ~305 |
+| Greed for gold | 44.00% | ~312 |
 | Intangible | 42.00% | ~298 |
 | I'm out of here for a while | 42.00% | ~298 |
-| In a mint condition | 38.00% | ~269 |
-| Licence to Kill | 36.00% | ~255 |
+| In a mint condition | 38.00% | ~270 |
+| Licence to Kill | 36.00% | ~256 |
 | Pirates! | 35.00% | ~248 |
 | Collectionitis | 28.00% | ~199 |
 | Megalomania | 28.00% | ~199 |
-| Christening | 27.00% | ~191 |
-| Groundskeeper | 26.00% | ~184 |
+| Christening | 27.00% | ~192 |
+| Groundskeeper | 25.00% | ~178 |
 | Wholesale | 22.00% | ~156 |
 | Walk the plank | 21.00% | ~149 |
 | Pearly gates | 17.00% | ~121 |
@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~57 |
 | Maker | 7.00% | ~50 |
 | Conglomerate | 6.00% | ~43 |
-| Buccaneer | 5.00% | ~35 |
-| Flying Dutchman | 5.00% | ~35 |
-| The Grande Bouffe | 5.00% | ~35 |
+| Buccaneer | 5.00% | ~36 |
+| Flying Dutchman | 5.00% | ~36 |
+| The Grande Bouffe | 5.00% | ~36 |
 | Overpopulation | 4.00% | ~28 |
 | Premier Maître | 3.00% | ~21 |
 | Supreme conqueror | 3.00% | ~21 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.60% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 198)  
+Progressed: 710 (Ranked 198)  
 Completed: 1 (0.14%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.14%) (Ranked 174)
 | 2023-07-02 | 704 | 1 |
 | 2023-07-03 | 705 | 1 |
 | 2023-07-04 | 709 | 1 |
+| 2023-07-05 | 710 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

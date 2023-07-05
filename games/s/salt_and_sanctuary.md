@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,151 |
-| The Three | 64.00% | ~337,080 |
-| The Banquet | 40.00% | ~210,675 |
-| Devara's Light | 30.00% | ~158,006 |
-| The Iron Ones | 18.00% | ~94,804 |
-| The Village | 16.00% | ~84,270 |
-| The Forest | 14.00% | ~73,736 |
-| Branded | 13.00% | ~68,469 |
-| The Imposter | 13.00% | ~68,469 |
-| The Keep | 13.00% | ~68,469 |
+| Find Sanctuary | 83.00% | ~437,154 |
+| The Three | 64.00% | ~337,083 |
+| The Banquet | 40.00% | ~210,677 |
+| Devara's Light | 30.00% | ~158,008 |
+| The Iron Ones | 18.00% | ~94,805 |
+| The Village | 16.00% | ~84,271 |
+| The Forest | 14.00% | ~73,737 |
+| Branded | 13.00% | ~68,470 |
+| The Imposter | 13.00% | ~68,470 |
+| The Keep | 13.00% | ~68,470 |
 | The Castle | 11.00% | ~57,936 |
 | The Dome | 9.00% | ~47,402 |
 | The Red Hall | 9.00% | ~47,402 |
@@ -23,13 +23,13 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Cave | 7.00% | ~36,868 |
 | The Stone Roots | 7.00% | ~36,868 |
 | The Ziggurat | 7.00% | ~36,868 |
-| Storied | 6.00% | ~31,601 |
-| The Construct | 6.00% | ~31,601 |
-| The Mire | 6.00% | ~31,601 |
-| The Ruins | 6.00% | ~31,601 |
-| The Alkymancery | 5.00% | ~26,334 |
-| The Lake | 5.00% | ~26,334 |
-| The Pitchwoods | 5.00% | ~26,334 |
+| Storied | 6.00% | ~31,602 |
+| The Construct | 6.00% | ~31,602 |
+| The Mire | 6.00% | ~31,602 |
+| The Ruins | 6.00% | ~31,602 |
+| The Alkymancery | 5.00% | ~26,335 |
+| The Lake | 5.00% | ~26,335 |
+| The Pitchwoods | 5.00% | ~26,335 |
 | Honed | 4.00% | ~21,068 |
 | The House of Splendor | 4.00% | ~21,068 |
 | The Crypt | 4.00% | ~21,068 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,534 |
 | Fading Fast | 1.00% | ~5,267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,688 (Ranked 28)  
-Completed: 1,465 (0.28%) (Ranked 148)  
+Progressed: 526,692 (Ranked 28)  
+Completed: 1,466 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 1,465 (0.28%) (Ranked 148)
 | 2023-07-02 | 526,447 | 1,465 |
 | 2023-07-03 | 526,542 | 1,465 |
 | 2023-07-04 | 526,646 | 1,465 |
-| 2023-07-05 | 526,688 | 1,465 |
+| 2023-07-05 | 526,692 | 1,466 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
 Sum: 1,906 (Ranked 203)  

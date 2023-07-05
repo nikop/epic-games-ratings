@@ -5,20 +5,20 @@ Rating: 4.56 (Ranked 460)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~8,868 |
-| Pay 'n' Spray | 50.00% | ~5,474 |
+| Getting Started | 81.00% | ~8,870 |
+| Pay 'n' Spray | 50.00% | ~5,475 |
 | All Dressed Up for San Fierro | 24.00% | ~2,628 |
 | The American Dream | 18.00% | ~1,971 |
-| School's Out | 17.00% | ~1,861 |
+| School's Out | 17.00% | ~1,862 |
 | Smooth Moves | 16.00% | ~1,752 |
 | What happens in Las Venturas... | 14.00% | ~1,533 |
 | Today Was a Good Day | 14.00% | ~1,533 |
 | Horror of the Santa Maria | 10.00% | ~1,095 |
 | Liberty City State of Mind | 8.00% | ~876 |
-| The End of the Line | 7.00% | ~766 |
-| Original Gangster | 7.00% | ~766 |
+| The End of the Line | 7.00% | ~767 |
+| Original Gangster | 7.00% | ~767 |
 | With Extra Dip | 6.00% | ~657 |
-| Saviour | 5.00% | ~547 |
+| Saviour | 5.00% | ~548 |
 | They Can’t Stop All of Us | 4.00% | ~438 |
 | Rescue a Kitten Too? | 4.00% | ~438 |
 | What are the Odds | 3.00% | ~328 |
@@ -29,19 +29,19 @@ Rating: 4.56 (Ranked 460)
 | Yes I Speak English | 2.00% | ~219 |
 | Double or Nothin' | 2.00% | ~219 |
 | Public Enemy No. 1 | 2.00% | ~219 |
-| A Legitimate Business | 1.00% | ~109 |
-| Swiss Army Strife | 1.00% | ~109 |
-| Lucky Spinner | 1.00% | ~109 |
-| Assassin | 1.00% | ~109 |
-| Chick Magnet | 1.00% | ~109 |
-| Ain’t Nothing But a G Thing | 1.00% | ~109 |
+| A Legitimate Business | 1.00% | ~110 |
+| Swiss Army Strife | 1.00% | ~110 |
+| Lucky Spinner | 1.00% | ~110 |
+| Assassin | 1.00% | ~110 |
+| Chick Magnet | 1.00% | ~110 |
+| Ain’t Nothing But a G Thing | 1.00% | ~110 |
 | Hoopin' it Up | 0.90% | ~99 |
 | Not a Player | 0.70% | ~77 |
 | Remastered | 0.50% | ~55 |
 | ...Here we go again | 0.30% | ~33 |
 | I Ain't No Buster | 0.20% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,948 (Ranked 114)  
+Progressed: 10,950 (Ranked 114)  
 Completed: 25 (0.23%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 25 (0.23%) (Ranked 154)
 | 2023-07-02 | 10,924 | 24 |
 | 2023-07-03 | 10,935 | 25 |
 | 2023-07-04 | 10,944 | 25 |
-| 2023-07-05 | 10,948 | 25 |
+| 2023-07-05 | 10,950 | 25 |
 ## Awards
 Max (Great Boss Battles): 204  (Ranked 264)  
 Sum: 204 (Ranked 357)  
