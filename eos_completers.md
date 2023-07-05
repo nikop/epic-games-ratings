@@ -19,17 +19,17 @@
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.98% |
-| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.77% |
-| 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
+| 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
 | 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.47% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 6.99% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.95% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.94% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -73,7 +73,7 @@
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
 | 72 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.15% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.13% |
-| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.12% |
+| 74 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.11% |
 | 75 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.09% |
 | 76 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.00% |
 | 77 | [Frogun](games/f/frogun.md) | 1.92% |
@@ -164,10 +164,10 @@
 | 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
-| 165 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.17% |
 | 165 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 167 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 167 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 166 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.16% |
+| 166 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 169 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
 | 169 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
@@ -236,6 +236,7 @@
 | 233 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 233 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 233 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
+| 233 | [Absolute Tactics](games/a/absolute_tactics.md) | 0.00% |
 | 233 | [Afterglitch](games/a/afterglitch.md) | 0.00% |
 | 233 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 0.00% |
 | 233 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.00% |
@@ -485,4 +486,4 @@
 | 233 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 233 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 233 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,878 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
+| 2,879 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.80% |
