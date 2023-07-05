@@ -1,40 +1,40 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.64 (Ranked 311)  
+Rating: 4.66 (Ranked 273)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,225 |
-| All thumbs | 91.00% | ~4,134 |
-| I will survive! | 91.00% | ~4,134 |
-| Home, sweet home | 90.00% | ~4,089 |
-| Survivalist | 88.00% | ~3,998 |
-| One way ticket | 83.00% | ~3,771 |
-| Last man standing | 78.00% | ~3,544 |
-| Family guy | 76.00% | ~3,453 |
-| Out of the Bag | 73.00% | ~3,316 |
-| The Dark Side | 68.00% | ~3,089 |
-| Duck and cover! | 63.00% | ~2,862 |
-| Souper! | 62.00% | ~2,817 |
-| Pacifist | 57.00% | ~2,590 |
-| 2-1-6 | 55.00% | ~2,499 |
-| A gift | 51.00% | ~2,317 |
-| Girl Power | 45.00% | ~2,044 |
-| What goes around... | 41.00% | ~1,863 |
-| Be Prepared | 36.00% | ~1,635 |
-| Unbreakable | 34.00% | ~1,545 |
-| Atomic drill | 32.00% | ~1,454 |
-| This is the end | 32.00% | ~1,454 |
-| Gotta get 'em all | 30.00% | ~1,363 |
-| Disco Roach | 26.00% | ~1,181 |
+| Prepper | 93.00% | ~4,228 |
+| All thumbs | 91.00% | ~4,137 |
+| I will survive! | 91.00% | ~4,137 |
+| Home, sweet home | 90.00% | ~4,091 |
+| Survivalist | 88.00% | ~4,000 |
+| One way ticket | 83.00% | ~3,773 |
+| Last man standing | 78.00% | ~3,546 |
+| Family guy | 76.00% | ~3,455 |
+| Out of the Bag | 73.00% | ~3,319 |
+| The Dark Side | 68.00% | ~3,091 |
+| Duck and cover! | 63.00% | ~2,864 |
+| Souper! | 62.00% | ~2,819 |
+| Pacifist | 57.00% | ~2,591 |
+| 2-1-6 | 55.00% | ~2,500 |
+| A gift | 51.00% | ~2,318 |
+| Girl Power | 45.00% | ~2,046 |
+| What goes around... | 41.00% | ~1,864 |
+| Be Prepared | 36.00% | ~1,637 |
+| Unbreakable | 34.00% | ~1,546 |
+| Atomic drill | 32.00% | ~1,455 |
+| This is the end | 32.00% | ~1,455 |
+| Gotta get 'em all | 30.00% | ~1,364 |
+| Disco Roach | 26.00% | ~1,182 |
 | Dawkins Residence | 20.00% | ~909 |
-| Rescue time! | 17.00% | ~772 |
+| Rescue time! | 17.00% | ~773 |
 | New order | 16.00% | ~727 |
 | New species | 16.00% | ~727 |
 | A New Hope | 14.00% | ~636 |
 | Enigma | 14.00% | ~636 |
-| Challenger | 12.00% | ~545 |
+| Challenger | 12.00% | ~546 |
 | No stone unturned | 11.00% | ~500 |
 | Men in Black | 11.00% | ~500 |
 | Unplugged | 7.00% | ~318 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 311)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,543 (Ranked 136)  
+Progressed: 4,546 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-07-02 | 4,509 | 1 |
 | 2023-07-03 | 4,520 | 1 |
 | 2023-07-04 | 4,529 | 1 |
-| 2023-07-05 | 4,543 | 1 |
+| 2023-07-05 | 4,546 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -165,3 +165,4 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-06-21 | 4.62 | 0 | 0 |
 | 2023-06-30 | 4.63 | 0 | 0 |
 | 2023-07-02 | 4.64 | 0 | 0 |
+| 2023-07-05 | 4.66 | 0 | 0 |

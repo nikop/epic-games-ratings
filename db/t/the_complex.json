@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -431,9 +431,9 @@
       "ID": "ending_3",
       "SetID": "d4f4pll",
       "Name": "Get Out Of This Alive",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "ending_4",
@@ -503,9 +503,9 @@
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "not_a_people_person",
@@ -560,8 +560,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-07-05T22:08:53.2022676+00:00",
+  "LastChanged_Achievements": "2023-07-05T23:09:28.8643418+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:07.5197874+00:00",
-  "LastUpdate_Ratings": "2023-07-05T21:57:45.656577+00:00",
-  "LastUpdate_Achievements": "2023-07-05T22:08:53.2022942+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:58:03.3410389+00:00",
+  "LastUpdate_Achievements": "2023-07-05T23:09:28.8643678+00:00"
 }

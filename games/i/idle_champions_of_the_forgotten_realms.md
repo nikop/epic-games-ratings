@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,031 |
-| The Mad Wizard | 11.00% | ~22,756 |
-| The Ring of Regeneration | 7.00% | ~14,481 |
-| Are Ya Chicken? | 7.00% | ~14,481 |
+| The Cursed Farmer | 15.00% | ~31,033 |
+| The Mad Wizard | 11.00% | ~22,758 |
+| The Ring of Regeneration | 7.00% | ~14,482 |
+| Are Ya Chicken? | 7.00% | ~14,482 |
 | Were-verpowered | 5.00% | ~10,344 |
 | Mad Cow Disease | 5.00% | ~10,344 |
 | Friendly Imps | 5.00% | ~10,344 |
-| A Persistent Buzzing | 4.00% | ~8,275 |
-| Seeking Allies | 4.00% | ~8,275 |
-| Pure Energy | 4.00% | ~8,275 |
-| Terror in the Dark | 3.00% | ~6,206 |
-| Unearthed Evil | 3.00% | ~6,206 |
-| The Crumbling Temple | 3.00% | ~6,206 |
-| Exploring Port Nyanzaru | 3.00% | ~6,206 |
-| The Contagious Curse | 3.00% | ~6,206 |
-| Beast Mode | 2.00% | ~4,137 |
-| Low Initiative | 2.00% | ~4,137 |
-| A Mysterious Summons | 2.00% | ~4,137 |
-| Building Trust | 2.00% | ~4,137 |
-| No Time To Rest | 2.00% | ~4,137 |
-| Useless Allies | 2.00% | ~4,137 |
-| Running of the Saurs | 2.00% | ~4,137 |
-| Escort to Waterdeep | 2.00% | ~4,137 |
-| Waterdeep Detours | 2.00% | ~4,137 |
-| Underdeep Cartography | 2.00% | ~4,137 |
+| A Persistent Buzzing | 4.00% | ~8,276 |
+| Seeking Allies | 4.00% | ~8,276 |
+| Pure Energy | 4.00% | ~8,276 |
+| Terror in the Dark | 3.00% | ~6,207 |
+| Unearthed Evil | 3.00% | ~6,207 |
+| The Crumbling Temple | 3.00% | ~6,207 |
+| Exploring Port Nyanzaru | 3.00% | ~6,207 |
+| The Contagious Curse | 3.00% | ~6,207 |
+| Beast Mode | 2.00% | ~4,138 |
+| Low Initiative | 2.00% | ~4,138 |
+| A Mysterious Summons | 2.00% | ~4,138 |
+| Building Trust | 2.00% | ~4,138 |
+| No Time To Rest | 2.00% | ~4,138 |
+| Useless Allies | 2.00% | ~4,138 |
+| Running of the Saurs | 2.00% | ~4,138 |
+| Escort to Waterdeep | 2.00% | ~4,138 |
+| Waterdeep Detours | 2.00% | ~4,138 |
+| Underdeep Cartography | 2.00% | ~4,138 |
 | Street War | 1.00% | ~2,069 |
 | March of the Undead | 1.00% | ~2,069 |
 | Invisible Shadows | 1.00% | ~2,069 |
@@ -87,31 +87,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.50% | ~1,034 |
 | The Everlasting Rime | 0.50% | ~866 |
 | Expert Opinion | 0.50% | ~1,034 |
-| Lobsterfolk Assault | 0.40% | ~827 |
-| Home Field Advantage | 0.40% | ~827 |
-| Force Grey Unleashed | 0.40% | ~827 |
-| Vajra's Guards | 0.40% | ~827 |
-| Azaka's Procession - Part 1 | 0.40% | ~827 |
-| Azaka's Procession - Part 2 | 0.40% | ~827 |
-| Werewolves in the Mist | 0.40% | ~827 |
-| Modron Assistance | 0.40% | ~827 |
-| Haaave You Met Asmodeus? | 0.40% | ~827 |
-| Domesticated Owlbears | 0.40% | ~827 |
-| The Gargoyle's Apprentice | 0.40% | ~827 |
-| Flies on the Wall | 0.40% | ~827 |
-| Backtracking Through Barovia | 0.40% | ~827 |
-| Excavating History | 0.40% | ~827 |
-| Towering Expectations | 0.40% | ~827 |
-| Cramped Quarters | 0.40% | ~827 |
-| Slow and Steady | 0.40% | ~827 |
-| Vault of Dragons | 0.40% | ~827 |
-| Champions of Waterdeep | 0.40% | ~827 |
-| Resolve Amongst Chaos | 0.40% | ~827 |
-| Once More Into The Breach | 0.40% | ~827 |
-| Wyllowwood | 0.40% | ~827 |
+| Lobsterfolk Assault | 0.40% | ~828 |
+| Home Field Advantage | 0.40% | ~828 |
+| Force Grey Unleashed | 0.40% | ~828 |
+| Vajra's Guards | 0.40% | ~828 |
+| Azaka's Procession - Part 1 | 0.40% | ~828 |
+| Azaka's Procession - Part 2 | 0.40% | ~828 |
+| Werewolves in the Mist | 0.40% | ~828 |
+| Modron Assistance | 0.40% | ~828 |
+| Haaave You Met Asmodeus? | 0.40% | ~828 |
+| Domesticated Owlbears | 0.40% | ~828 |
+| The Gargoyle's Apprentice | 0.40% | ~828 |
+| Flies on the Wall | 0.40% | ~828 |
+| Backtracking Through Barovia | 0.40% | ~828 |
+| Excavating History | 0.40% | ~828 |
+| Towering Expectations | 0.40% | ~828 |
+| Cramped Quarters | 0.40% | ~828 |
+| Slow and Steady | 0.40% | ~828 |
+| Vault of Dragons | 0.40% | ~828 |
+| Champions of Waterdeep | 0.40% | ~828 |
+| Resolve Amongst Chaos | 0.40% | ~828 |
+| Once More Into The Breach | 0.40% | ~828 |
+| Wyllowwood | 0.40% | ~828 |
 | Into The Fire | 0.40% | ~693 |
 | Moose Tracks | 0.40% | ~693 |
-| Poor Guidance | 0.40% | ~827 |
+| Poor Guidance | 0.40% | ~828 |
 | Anti-Dexterous Explorers | 0.30% | ~621 |
 | Not Very Charming | 0.30% | ~621 |
 | Periodic Petrification | 0.30% | ~621 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,871 (Ranked 52)  
+Progressed: 206,889 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,871 | 2,032 |
+| 2023-07-05 | 206,889 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,396 (Ranked 37)  

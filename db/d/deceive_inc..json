@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 311,
+  "Ranking_Rating": 312,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 122,
@@ -5556,9 +5556,9 @@
       "ID": "0031",
       "SetID": "2n2feee",
       "Name": "Private Collection",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1788
     },
     {
       "ID": "0032",
@@ -5613,8 +5613,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-06-24T11:00:56.980815+00:00",
-  "LastChanged_Achievements": "2023-07-05T22:03:53.2650712+00:00",
+  "LastChanged_Achievements": "2023-07-05T23:04:12.9257324+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:51.1550133+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:02:02.6508608+00:00",
-  "LastUpdate_Achievements": "2023-07-05T22:03:53.2651857+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:02:31.0516249+00:00",
+  "LastUpdate_Achievements": "2023-07-05T23:04:12.9258258+00:00"
 }

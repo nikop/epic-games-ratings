@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 620)
 | Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |
-| Organ Grinder | 0.80% | ~26 |
+| Organ Grinder | 0.90% | ~29 |
 | Der Geist | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
 | Skirmisher | 0.70% | ~22 |
@@ -32,16 +32,17 @@ Rating: 4.45 (Ranked 620)
 | Enemy at the Gates | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
+| Die Nussknacker Sweet! | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
-| Die Nussknacker Sweet! | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
 | The Long Game | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | Burn after reading | 0.30% | ~10 |
+| Souvenir hunter | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
@@ -53,7 +54,6 @@ Rating: 4.45 (Ranked 620)
 | Master of Secondaries | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | From Paris with Love | 0.20% | ~6 |
-| Souvenir hunter | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 620)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,213 (Ranked 145)  
+Progressed: 3,214 (Ranked 145)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-02 | 3,196 | 6 |
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
-| 2023-07-05 | 3,213 | 9 |
+| 2023-07-05 | 3,214 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

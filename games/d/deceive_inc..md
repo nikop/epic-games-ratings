@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.64 (Ranked 311)  
+Rating: 4.64 (Ranked 312)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,10 +16,10 @@ Rating: 4.64 (Ranked 311)
 | Fully Decked Out | 35.00% | ~2,504 |
 | You Only Live Twice | 33.00% | ~2,360 |
 | A view to Win | 27.00% | ~1,931 |
+| Private Collection | 25.00% | ~1,788 |
 | Smells Like Trouble | 25.00% | ~1,788 |
 | Assistant Accountant | 24.00% | ~1,717 |
 | The Living Portrait | 24.00% | ~1,717 |
-| Private Collection | 24.00% | ~1,717 |
 | Killer Looks | 24.00% | ~1,717 |
 | Hostile Takeover | 24.00% | ~1,717 |
 | Keycards Royale | 23.00% | ~1,645 |

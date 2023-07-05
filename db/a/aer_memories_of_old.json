@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14492,
+  "EOS_Progressed": 14494,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -8314,6 +8314,11 @@
       "Time": "2023-07-05T22:04:25.3524981+00:00",
       "NumProgressed": 14492,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-07-05T23:04:45.0689198+00:00",
+      "NumProgressed": 14494,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 20,
@@ -8373,7 +8378,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -8429,7 +8434,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "GAME_FINISHED",
@@ -8445,7 +8450,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11014
+      "UsersEstimate": 11015
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8469,7 +8474,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "WEST_FINISHED",
@@ -8477,22 +8482,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14492,
+      "Progressed": 14494,
       "Completed": 306
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-05T22:04:25.3524974+00:00",
+  "LastChanged_Achievements": "2023-07-05T23:04:45.0689191+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:02:50.8979286+00:00",
-  "LastUpdate_Achievements": "2023-07-05T22:04:25.3525711+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:03:12.4302792+00:00",
+  "LastUpdate_Achievements": "2023-07-05T23:04:45.0690315+00:00"
 }

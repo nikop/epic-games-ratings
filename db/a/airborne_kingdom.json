@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6747,
+  "EOS_Progressed": 6748,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2453,6 +2453,11 @@
       "Time": "2023-07-05T18:01:55.1801505+00:00",
       "NumProgressed": 6747,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-07-05T23:04:10.7168902+00:00",
+      "NumProgressed": 6748,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 27,
@@ -2480,7 +2485,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -2512,7 +2517,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -2544,7 +2549,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -2592,7 +2597,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -2600,7 +2605,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -2608,7 +2613,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -2616,7 +2621,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -2679,15 +2684,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6747,
+      "Progressed": 6748,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-07-05T22:03:50.5565034+00:00",
+  "LastChanged_Achievements": "2023-07-05T23:04:10.7168894+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:31.6113901+00:00",
-  "LastUpdate_Ratings": "2023-07-05T21:58:14.7196086+00:00",
-  "LastUpdate_Achievements": "2023-07-05T22:03:50.5565696+00:00"
+  "LastUpdate_Ratings": "2023-07-05T22:58:27.8570866+00:00",
+  "LastUpdate_Achievements": "2023-07-05T23:04:10.7169506+00:00"
 }

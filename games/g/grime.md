@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 29.00% | ~180 |
-| Imprint | 29.00% | ~180 |
+| Taste | 29.00% | ~181 |
+| Imprint | 29.00% | ~181 |
 | The Hunt | 25.00% | ~156 |
 | Ravenous | 25.00% | ~156 |
 | Weeper | 23.00% | ~143 |
@@ -21,8 +21,8 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 13.00% | ~81 |
 | Jawstag | 12.00% | ~75 |
 | Feast | 12.00% | ~75 |
-| Shapely | 11.00% | ~68 |
-| Host | 10.00% | ~20 |
+| Shapely | 11.00% | ~69 |
+| Host | 10.00% | ~21 |
 | Celebration | 9.00% | ~56 |
 | Inevitable | 9.00% | ~56 |
 | Watcher | 9.00% | ~56 |
@@ -36,11 +36,11 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 6.00% | ~37 |
 | Passage | 6.00% | ~37 |
 | Kin | 6.00% | ~12 |
-| Breath | 5.00% | ~31 |
 | Kinship | 5.00% | ~31 |
 | Breathsmith | 5.00% | ~31 |
 | Proportions | 5.00% | ~31 |
 | Bloodhunter | 4.00% | ~25 |
+| Breath | 4.00% | ~25 |
 | Weakness | 4.00% | ~25 |
 | Listen | 4.00% | ~8 |
 | Zygote | 3.00% | ~6 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 622 (Ranked 207)  
+Progressed: 623 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-02 | 614 | 0 |
 | 2023-07-03 | 616 | 0 |
 | 2023-07-04 | 618 | 0 |
-| 2023-07-05 | 622 | 0 |
+| 2023-07-05 | 623 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

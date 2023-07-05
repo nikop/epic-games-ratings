@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3213,
+  "EOS_Progressed": 3214,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4715,6 +4715,11 @@
       "Time": "2023-07-05T19:09:14.0576282+00:00",
       "NumProgressed": 3213,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-05T23:09:37.5308411+00:00",
+      "NumProgressed": 3214,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4788,9 +4793,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -4940,9 +4945,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -5012,9 +5017,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -5293,13 +5298,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3164,
+      "Progressed": 3165,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3213,
+      "Progressed": 3214,
       "Completed": 9
     }
   ],
@@ -5307,8 +5312,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-05T22:09:01.896707+00:00",
+  "LastChanged_Achievements": "2023-07-05T23:09:37.5308405+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:03:29.8856783+00:00",
-  "LastUpdate_Achievements": "2023-07-05T22:09:01.8968868+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:03:56.2628748+00:00",
+  "LastUpdate_Achievements": "2023-07-05T23:09:37.5310163+00:00"
 }

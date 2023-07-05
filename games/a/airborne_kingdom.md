@@ -1,16 +1,16 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,778 |
+| A Small Community | 56.00% | ~3,779 |
 | A Grove Replanted | 53.00% | ~3,576 |
-| Fields Watered | 41.00% | ~2,766 |
-| Seekers Found | 41.00% | ~2,766 |
-| Settling the Skies | 41.00% | ~2,766 |
+| Fields Watered | 41.00% | ~2,767 |
+| Seekers Found | 41.00% | ~2,767 |
+| Settling the Skies | 41.00% | ~2,767 |
 | Wind Powered | 40.00% | ~2,699 |
 | It Takes a Village | 34.00% | ~2,294 |
 | On the Town | 28.00% | ~1,889 |
@@ -20,9 +20,9 @@ Number of Ratings: 74  (23.09.2022)
 | Harp Tuned | 23.00% | ~1,552 |
 | Pyre Ignited | 23.00% | ~1,552 |
 | Travelers Returned | 23.00% | ~1,552 |
-| Hopes Hoisted | 22.00% | ~1,484 |
-| Knowledge Shared | 20.00% | ~1,349 |
-| Relic Finder | 20.00% | ~1,349 |
+| Hopes Hoisted | 22.00% | ~1,485 |
+| Knowledge Shared | 20.00% | ~1,350 |
+| Relic Finder | 20.00% | ~1,350 |
 | Worthy of the Title | 19.00% | ~1,282 |
 | A Peaceful Respite | 14.00% | ~945 |
 | A Learned Scholar | 13.00% | ~877 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~135 |
 | A True Challenge | 2.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,747 (Ranked 125)  
+Progressed: 6,748 (Ranked 125)  
 Completed: 52 (0.77%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 52 (0.77%) (Ranked 107)
 | 2023-07-02 | 6,737 | 52 |
 | 2023-07-03 | 6,742 | 52 |
 | 2023-07-04 | 6,744 | 52 |
-| 2023-07-05 | 6,747 | 52 |
+| 2023-07-05 | 6,748 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,15 +1,15 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 83.00% | ~10,451 |
-| Settler | 81.00% | ~10,199 |
-| Explorer | 79.00% | ~9,947 |
-| Friendly Family | 75.00% | ~9,443 |
+| Settler | 81.00% | ~10,200 |
+| Explorer | 79.00% | ~9,948 |
+| Friendly Family | 75.00% | ~9,444 |
 | Intrepid | 69.00% | ~8,688 |
 | Architect | 61.00% | ~7,681 |
 | Mason | 61.00% | ~7,681 |
@@ -18,12 +18,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 59.00% | ~7,429 |
 | Noble | 57.00% | ~7,177 |
 | Oracle | 57.00% | ~7,177 |
-| Good | 55.00% | ~6,925 |
-| Just | 54.00% | ~6,799 |
-| Keystone | 54.00% | ~6,799 |
-| Judaism | 54.00% | ~6,799 |
-| Glorious | 51.00% | ~6,421 |
-| Trade Caravan | 51.00% | ~6,421 |
+| Good | 55.00% | ~6,926 |
+| Just | 54.00% | ~6,800 |
+| Keystone | 54.00% | ~6,800 |
+| Judaism | 54.00% | ~6,800 |
+| Glorious | 51.00% | ~6,422 |
+| Trade Caravan | 51.00% | ~6,422 |
 | Naming Landmarks | 50.00% | ~6,296 |
 | Learned | 49.00% | ~6,170 |
 | Pioneer | 48.00% | ~6,044 |
@@ -36,14 +36,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 44.00% | ~5,540 |
 | Ishtar Gate | 44.00% | ~5,540 |
 | Greek Paganism | 44.00% | ~5,540 |
-| Babylonian Paganism | 43.00% | ~5,414 |
-| Enlightened | 42.00% | ~5,288 |
-| Roman Paganism | 41.00% | ~5,162 |
-| Great Ziggurat | 40.00% | ~5,036 |
-| Christianity | 40.00% | ~5,036 |
-| Great | 39.00% | ~4,910 |
-| Able Difficulty | 39.00% | ~4,910 |
-| Lighthouse | 39.00% | ~4,910 |
+| Babylonian Paganism | 43.00% | ~5,415 |
+| Enlightened | 42.00% | ~5,289 |
+| Roman Paganism | 41.00% | ~5,163 |
+| Great Ziggurat | 40.00% | ~5,037 |
+| Christianity | 40.00% | ~5,037 |
+| Great | 39.00% | ~4,911 |
+| Able Difficulty | 39.00% | ~4,911 |
+| Lighthouse | 39.00% | ~4,911 |
 | Ambitious | 38.00% | ~4,785 |
 | Carthaginian Paganism | 37.00% | ~4,659 |
 | Necropolis | 36.00% | ~4,533 |
@@ -55,14 +55,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 32.00% | ~4,029 |
 | Colossus | 32.00% | ~4,029 |
 | Learn to Play 1 | 32.00% | ~4,029 |
-| Legendary Cities | 30.00% | ~3,777 |
-| Artisans | 30.00% | ~3,777 |
-| Furious Family | 30.00% | ~3,777 |
-| Acropolis | 30.00% | ~3,777 |
-| Mythology | 30.00% | ~3,777 |
-| Wise | 29.00% | ~3,651 |
-| Just Difficulty | 29.00% | ~3,651 |
-| Mausoleum | 28.00% | ~3,525 |
+| Legendary Cities | 30.00% | ~3,778 |
+| Artisans | 30.00% | ~3,778 |
+| Furious Family | 30.00% | ~3,778 |
+| Acropolis | 30.00% | ~3,778 |
+| Mythology | 30.00% | ~3,778 |
+| Wise | 29.00% | ~3,652 |
+| Just Difficulty | 29.00% | ~3,652 |
+| Mausoleum | 28.00% | ~3,526 |
 | Intercessor | 26.00% | ~3,274 |
 | Valiant | 26.00% | ~3,274 |
 | Sages | 25.00% | ~3,148 |
@@ -90,19 +90,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 19.00% | ~2,392 |
 | Economic Reform | 19.00% | ~2,392 |
 | Cimmerian Archer | 19.00% | ~2,392 |
-| Conqueror | 18.00% | ~2,266 |
-| Landowners | 18.00% | ~2,266 |
-| Riders | 18.00% | ~2,266 |
-| Pantheon | 18.00% | ~2,266 |
-| Ambition Victory | 18.00% | ~2,266 |
-| Subjugator | 17.00% | ~2,140 |
-| Traders | 17.00% | ~2,140 |
-| Learn to Play 3 | 17.00% | ~2,140 |
-| Assyrian Paganism | 17.00% | ~2,140 |
-| Military Prestige | 17.00% | ~2,140 |
-| Redemption | 17.00% | ~2,140 |
-| Phalangite | 17.00% | ~2,140 |
-| Double Victory | 17.00% | ~2,140 |
+| Conqueror | 18.00% | ~2,267 |
+| Landowners | 18.00% | ~2,267 |
+| Riders | 18.00% | ~2,267 |
+| Pantheon | 18.00% | ~2,267 |
+| Ambition Victory | 18.00% | ~2,267 |
+| Subjugator | 17.00% | ~2,141 |
+| Traders | 17.00% | ~2,141 |
+| Learn to Play 3 | 17.00% | ~2,141 |
+| Assyrian Paganism | 17.00% | ~2,141 |
+| Military Prestige | 17.00% | ~2,141 |
+| Redemption | 17.00% | ~2,141 |
+| Phalangite | 17.00% | ~2,141 |
+| Double Victory | 17.00% | ~2,141 |
 | Beloved | 16.00% | ~2,015 |
 | Lion | 16.00% | ~2,015 |
 | Strong Difficulty | 16.00% | ~2,015 |
@@ -146,12 +146,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 7.00% | ~881 |
 | Capturing Cities | 7.00% | ~881 |
 | Three Man Chariot | 7.00% | ~881 |
-| Magnificent Difficulty | 6.00% | ~755 |
-| Learn to Play 5 | 6.00% | ~755 |
-| Assyria | 6.00% | ~755 |
-| Pantheon of Gods | 6.00% | ~755 |
-| Conquest Victory | 6.00% | ~755 |
-| Necropolis in Waset | 6.00% | ~755 |
+| Magnificent Difficulty | 6.00% | ~756 |
+| Learn to Play 5 | 6.00% | ~756 |
+| Assyria | 6.00% | ~756 |
+| Pantheon of Gods | 6.00% | ~756 |
+| Conquest Victory | 6.00% | ~756 |
+| Necropolis in Waset | 6.00% | ~756 |
 | Cleopatra's Love | 5.00% | ~630 |
 | Old | 5.00% | ~630 |
 | Great Difficulty | 5.00% | ~630 |
@@ -292,7 +292,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a LAN Game | 0.10% | ~13 |
 | Win a Play-By-Cloud Game | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,591 (Ranked 111)  
+Progressed: 12,592 (Ranked 111)  
 Completed: 5 (0.04%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -368,7 +368,7 @@ Completed: 5 (0.04%) (Ranked 204)
 | 2023-07-02 | 12,507 | 5 |
 | 2023-07-03 | 12,532 | 5 |
 | 2023-07-04 | 12,559 | 5 |
-| 2023-07-05 | 12,591 | 5 |
+| 2023-07-05 | 12,592 | 5 |
 ## Awards
 Max (Relaxing): 218  (Ranked 255)  
 Sum: 1,775 (Ranked 206)  

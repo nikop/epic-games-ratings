@@ -30,9 +30,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 1.00% | ~7,105 |
 | Bloody Sport | 1.00% | ~198 |
 | The best strikes are the ones we avoid | 1.00% | ~198 |
-| Dance of the Praying Mantis | 0.90% | ~6,394 |
-| Qi Gong: Mind | 0.90% | ~6,394 |
-| I know Kung-Fu | 0.90% | ~6,394 |
+| Dance of the Praying Mantis | 0.90% | ~6,395 |
+| Qi Gong: Mind | 0.90% | ~6,395 |
+| I know Kung-Fu | 0.90% | ~6,395 |
 | Muk Yan Master | 0.70% | ~4,973 |
 | Deadly Venom | 0.70% | ~139 |
 | Tiger on Fire | 0.60% | ~4,263 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.50% | ~3,552 |
 | Martial Hub | 0.40% | ~79 |
 | Secure, Protect, Leave | 0.40% | ~79 |
-| Drunken Fighter | 0.30% | ~2,131 |
-| Martial Artist | 0.30% | ~2,131 |
-| Knowledge Greed | 0.30% | ~2,131 |
-| Healing Memory | 0.30% | ~2,131 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,131 |
-| The Pit Protector | 0.30% | ~2,131 |
-| Be like water my friend | 0.30% | ~2,131 |
-| Come Snap With Me | 0.30% | ~2,131 |
+| Drunken Fighter | 0.30% | ~2,132 |
+| Martial Artist | 0.30% | ~2,132 |
+| Knowledge Greed | 0.30% | ~2,132 |
+| Healing Memory | 0.30% | ~2,132 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,132 |
+| The Pit Protector | 0.30% | ~2,132 |
+| Be like water my friend | 0.30% | ~2,132 |
+| Come Snap With Me | 0.30% | ~2,132 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,498 (Ranked 17)  
+Progressed: 710,500 (Ranked 17)  
 Completed: 12,805 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 12,805 (1.80%) (Ranked 80)
 | 2023-07-02 | 710,413 | 12,803 |
 | 2023-07-03 | 710,440 | 12,803 |
 | 2023-07-04 | 710,478 | 12,804 |
-| 2023-07-05 | 710,498 | 12,805 |
+| 2023-07-05 | 710,500 | 12,805 |
 ## Awards
 Max (Great Boss Battles): 6,239  (Ranked 52)  
 Sum: 10,684 (Ranked 78)  

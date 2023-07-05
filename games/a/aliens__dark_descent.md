@@ -44,7 +44,7 @@ Rating: 4.45 (Ranked 620)
 | Flawless Victory | 4.00% | ~105 |
 | The True Experience | 4.00% | ~105 |
 | Perfect Enhancements | 3.00% | ~79 |
-| Hardened In The Heat Of Battle | 2.00% | ~52 |
+| Hardened In The Heat Of Battle | 3.00% | ~79 |
 | Fair And Square | 0.70% | ~18 |
 | Archivist | 0.50% | ~13 |
 | Chalk It Up To Experience | 0.30% | ~8 |

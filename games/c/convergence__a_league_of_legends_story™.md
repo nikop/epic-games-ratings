@@ -8,27 +8,27 @@
 | Rail Rat | 15.00% | ~111 |
 | The Mysterious Stranger | 14.00% | ~104 |
 | Cartographer | 14.00% | ~104 |
-| The Steel Shadow | 13.00% | ~96 |
-| Treasure Trove | 13.00% | ~96 |
-| The Betrayer | 13.00% | ~96 |
-| The Man Who Shattered Time | 13.00% | ~96 |
-| The Loose Cannon | 13.00% | ~96 |
-| Make Up For Lost Time | 13.00% | ~96 |
-| Time Flies | 13.00% | ~96 |
-| Breaking Down Barriers | 13.00% | ~96 |
-| The Wicked Twins | 13.00% | ~96 |
-| The Prince in Heels | 13.00% | ~96 |
-| Immaculate Aim | 13.00% | ~96 |
-| The Family Fortune | 13.00% | ~96 |
+| The Steel Shadow | 13.00% | ~97 |
+| Treasure Trove | 13.00% | ~97 |
+| The Betrayer | 13.00% | ~97 |
+| The Man Who Shattered Time | 13.00% | ~97 |
+| The Loose Cannon | 13.00% | ~97 |
+| Make Up For Lost Time | 13.00% | ~97 |
+| Time Flies | 13.00% | ~97 |
+| The Harder They Fall | 13.00% | ~97 |
+| Breaking Down Barriers | 13.00% | ~97 |
+| The Wicked Twins | 13.00% | ~97 |
+| The Prince in Heels | 13.00% | ~97 |
+| Immaculate Aim | 13.00% | ~97 |
+| The Brass Boss | 13.00% | ~97 |
+| The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~89 |
-| The Harder They Fall | 12.00% | ~89 |
 | No, Thanks! | 12.00% | ~89 |
 | Honest Mistake | 12.00% | ~89 |
 | Golem Chaser | 12.00% | ~89 |
 | Fast Learner | 12.00% | ~89 |
 | Check Your Pulse | 12.00% | ~89 |
 | Immaculate Aim | 12.00% | ~89 |
-| The Brass Boss | 12.00% | ~89 |
 | Street Style | 11.00% | ~82 |
 | Right On Time | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 196)  
+Progressed: 743 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,3 +105,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-07-02 | 739 | 4 |
 | 2023-07-03 | 740 | 4 |
 | 2023-07-04 | 742 | 4 |
+| 2023-07-05 | 743 | 4 |
