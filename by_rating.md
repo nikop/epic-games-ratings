@@ -581,7 +581,7 @@
 | 571 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 504 |
 | 571 | [Maneater](games/m/maneater.md) | 4.49 | 13,553 | 26 |
 | 571 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
-| 571 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 351 |
+| 571 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
 | 571 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
 | 571 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
 | 585 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 504 |
@@ -882,7 +882,7 @@
 | 879 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.13 | 0 | 504 |
 | 879 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.13 | 0 | 504 |
 | 879 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 504 |
-| 883 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 82 | 352 |
+| 883 | [Armored Warfare](games/a/armored_warfare.md) | 4.12 | 84 | 350 |
 | 883 | [Train Valley 2](games/t/train_valley_2.md) | 4.12 | 72 | 367 |
 | 885 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.11 | 0 | 504 |
 | 886 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 504 |

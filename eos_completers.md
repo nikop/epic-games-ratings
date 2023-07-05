@@ -59,15 +59,15 @@
 | 57 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 57 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 59 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.91% |
-| 60 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 61 | [The Bunker](games/t/the_bunker.md) | 2.78% |
-| 62 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 63 | [Lamentum](games/l/lamentum.md) | 2.67% |
-| 64 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.65% |
-| 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 66 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 67 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 68 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.39% |
+| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.87% |
+| 61 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 62 | [The Bunker](games/t/the_bunker.md) | 2.78% |
+| 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
+| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.65% |
+| 66 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
+| 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 69 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 71 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |

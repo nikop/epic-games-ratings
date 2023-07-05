@@ -349,9 +349,9 @@
 | 347 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 493 |
 | 348 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 119 |
 | 348 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.59 | 413 |
+| 350 | [Armored Warfare](games/a/armored_warfare.md) | 84 | 4.12 | 883 |
 | 350 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 84 | 4.83 | 57 |
-| 351 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 571 |
-| 352 | [Armored Warfare](games/a/armored_warfare.md) | 82 | 4.12 | 883 |
+| 352 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 571 |
 | 353 | [Super Meat Boy](games/s/super_meat_boy.md) | 79 | 4.70 | 197 |
 | 353 | [This War of Mine](games/t/this_war_of_mine.md) | 79 | 4.73 | 157 |
 | 355 | [The Outlast Trials](games/t/the_outlast_trials.md) | 78 | 4.66 | 273 |
