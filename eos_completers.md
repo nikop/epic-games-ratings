@@ -23,7 +23,7 @@
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.45% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.44% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.35% |
 | 27 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.32% |

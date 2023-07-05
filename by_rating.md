@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,126 | 75 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 156,361 | 6 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 156,631 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,450 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
 | 19 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 504 |
@@ -481,7 +481,6 @@
 | 478 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 504 |
 | 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 504 |
 | 478 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 504 |
-| 478 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,299 | 128 |
 | 478 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 59 | 386 |
 | 478 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 219 | 254 |
 | 478 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 147 | 293 |
@@ -492,18 +491,19 @@
 | 478 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 504 |
 | 478 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 307 | 230 |
 | 478 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,200 | 131 |
-| 493 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,029 | 64 |
-| 493 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
-| 493 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 504 |
-| 493 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,176 | 132 |
-| 493 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 370 |
-| 493 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 484 |
-| 493 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 347 |
-| 493 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 341 |
-| 493 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 504 |
-| 493 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 504 |
-| 493 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 502 | 191 |
-| 493 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 504 |
+| 492 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,299 | 128 |
+| 492 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,029 | 64 |
+| 492 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 442 |
+| 492 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 504 |
+| 492 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,176 | 132 |
+| 492 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 71 | 370 |
+| 492 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 484 |
+| 492 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 347 |
+| 492 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 93 | 341 |
+| 492 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 504 |
+| 492 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 504 |
+| 492 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 502 | 191 |
+| 492 | [The Tenants](games/t/the_tenants.md) | 4.54 | 0 | 504 |
 | 505 | [Aimlabs](games/a/aimlabs.md) | 4.53 | 0 | 504 |
 | 505 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 504 |
 | 505 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 504 |
@@ -725,17 +725,17 @@
 | 721 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,139 | 105 |
 | 721 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 504 |
 | 721 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 504 |
-| 721 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 48 | 403 |
 | 721 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 99 | 329 |
 | 721 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 40 | 419 |
 | 721 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 446 |
-| 730 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
-| 730 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
-| 730 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
-| 730 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,554 | 29 |
-| 730 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
-| 730 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
-| 730 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
+| 729 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 504 |
+| 729 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 171 | 284 |
+| 729 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.36 | 95 | 336 |
+| 729 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,554 | 29 |
+| 729 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 504 |
+| 729 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 473 |
+| 729 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 48 | 403 |
+| 729 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 504 |
 | 737 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 504 |
 | 737 | [Encased](games/e/encased.md) | 4.35 | 134 | 300 |
 | 737 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 504 |
