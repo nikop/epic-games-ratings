@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~553,427 |
-| Error: Stack Overflow | 66.00% | ~392,755 |
-| We need more gold | 60.00% | ~357,050 |
-| The dawn of civilization | 53.00% | ~315,394 |
-| More FPS for the FPS god! | 49.00% | ~291,591 |
-| Beauty and harmony | 48.00% | ~285,640 |
-| One more! | 44.00% | ~261,837 |
-| Overmind | 24.00% | ~142,820 |
+| First.. Bit? | 93.00% | ~553,430 |
+| Error: Stack Overflow | 66.00% | ~392,757 |
+| We need more gold | 60.00% | ~357,052 |
+| The dawn of civilization | 53.00% | ~315,396 |
+| More FPS for the FPS god! | 49.00% | ~291,592 |
+| Beauty and harmony | 48.00% | ~285,641 |
+| One more! | 44.00% | ~261,838 |
+| Overmind | 24.00% | ~142,821 |
 | RNG is my best friend now | 18.00% | ~107,115 |
 | Cosplay | 13.00% | ~77,361 |
 | Evolution in progress... | 13.00% | ~77,361 |
 | Step by step | 8.00% | ~47,607 |
-| README reader | 3.00% | ~17,852 |
-| Data scientist | 3.00% | ~17,852 |
-| One small step for a man... | 3.00% | ~17,852 |
+| README reader | 3.00% | ~17,853 |
+| Data scientist | 3.00% | ~17,853 |
+| One small step for a man... | 3.00% | ~17,853 |
 | To see it all, to learn it all | 2.00% | ~11,902 |
 | Evolution complete | 2.00% | ~11,902 |
 | Best deal on the market | 2.00% | ~11,902 |
@@ -35,8 +35,8 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,785 |
 | The Scrooge | 0.10% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 595,083 (Ranked 25)  
-Completed: 498 (0.08%) (Ranked 188)  
+Progressed: 595,086 (Ranked 25)  
+Completed: 498 (0.08%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 498 (0.08%) (Ranked 188)
 | 2023-07-02 | 594,836 | 497 |
 | 2023-07-03 | 594,956 | 498 |
 | 2023-07-04 | 595,066 | 498 |
-| 2023-07-05 | 595,083 | 498 |
+| 2023-07-05 | 595,086 | 498 |
 ## Awards
 Max (Challenging Puzzles): 133  (Ranked 301)  
 Sum: 133 (Ranked 394)  

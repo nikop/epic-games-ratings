@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -978,7 +978,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11623,
+  "EOS_Progressed": 11624,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 2,
@@ -8898,6 +8898,11 @@
       "Time": "2023-07-05T03:30:59.6639398+00:00",
       "NumProgressed": 11623,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-07-05T04:08:07.5923326+00:00",
+      "NumProgressed": 11624,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 45,
@@ -8949,7 +8954,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -9005,7 +9010,7 @@
       "Name": "I call it luck",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -9061,7 +9066,7 @@
       "Name": "Control freak",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "ObedientMachine",
@@ -9141,7 +9146,7 @@
       "Name": "Running Wild",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "Scrapped",
@@ -9181,7 +9186,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "SwordToAGunfight",
@@ -9205,7 +9210,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -9268,21 +9273,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 11623,
+      "Progressed": 11624,
       "Completed": 28
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 11623,
+      "Progressed": 11624,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-06-29T21:58:30.0596552+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:30:59.6639388+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:08:07.5923321+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:29.9245324+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:21:48.7992632+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:30:59.664017+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:58:58.2779307+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:08:07.5924243+00:00"
 }

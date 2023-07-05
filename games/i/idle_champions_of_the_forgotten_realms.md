@@ -6,30 +6,30 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,956 |
-| The Mad Wizard | 11.00% | ~22,701 |
-| Are Ya Chicken? | 7.00% | ~14,446 |
-| The Ring of Regeneration | 6.00% | ~12,382 |
+| The Cursed Farmer | 15.00% | ~30,958 |
+| The Mad Wizard | 11.00% | ~22,703 |
+| Are Ya Chicken? | 7.00% | ~14,447 |
+| The Ring of Regeneration | 6.00% | ~12,383 |
 | Were-verpowered | 5.00% | ~10,319 |
 | Mad Cow Disease | 5.00% | ~10,319 |
 | Friendly Imps | 5.00% | ~10,319 |
-| A Persistent Buzzing | 4.00% | ~8,255 |
-| Seeking Allies | 4.00% | ~8,255 |
-| Pure Energy | 4.00% | ~8,255 |
-| Terror in the Dark | 3.00% | ~6,191 |
-| Unearthed Evil | 3.00% | ~6,191 |
-| The Crumbling Temple | 3.00% | ~6,191 |
-| The Contagious Curse | 3.00% | ~6,191 |
-| Beast Mode | 2.00% | ~4,127 |
-| Low Initiative | 2.00% | ~4,127 |
-| A Mysterious Summons | 2.00% | ~4,127 |
-| Building Trust | 2.00% | ~4,127 |
-| Useless Allies | 2.00% | ~4,127 |
-| Exploring Port Nyanzaru | 2.00% | ~4,127 |
-| Running of the Saurs | 2.00% | ~4,127 |
-| Escort to Waterdeep | 2.00% | ~4,127 |
-| Waterdeep Detours | 2.00% | ~4,127 |
-| Underdeep Cartography | 2.00% | ~4,127 |
+| A Persistent Buzzing | 4.00% | ~8,256 |
+| Seeking Allies | 4.00% | ~8,256 |
+| Pure Energy | 4.00% | ~8,256 |
+| Terror in the Dark | 3.00% | ~6,192 |
+| Unearthed Evil | 3.00% | ~6,192 |
+| The Crumbling Temple | 3.00% | ~6,192 |
+| The Contagious Curse | 3.00% | ~6,192 |
+| Beast Mode | 2.00% | ~4,128 |
+| Low Initiative | 2.00% | ~4,128 |
+| A Mysterious Summons | 2.00% | ~4,128 |
+| Building Trust | 2.00% | ~4,128 |
+| Useless Allies | 2.00% | ~4,128 |
+| Exploring Port Nyanzaru | 2.00% | ~4,128 |
+| Running of the Saurs | 2.00% | ~4,128 |
+| Escort to Waterdeep | 2.00% | ~4,128 |
+| Waterdeep Detours | 2.00% | ~4,128 |
+| Underdeep Cartography | 2.00% | ~4,128 |
 | Street War | 1.00% | ~2,064 |
 | March of the Undead | 1.00% | ~2,064 |
 | No Time To Rest | 1.00% | ~2,064 |
@@ -45,9 +45,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,064 |
 | The Templar's Camp | 1.00% | ~2,064 |
 | Rescue in the Jungle | 1.00% | ~2,064 |
-| Homecoming | 0.90% | ~1,857 |
-| Trollskull Manor | 0.90% | ~1,857 |
-| Dinosaur Racing | 0.90% | ~1,857 |
+| Homecoming | 0.90% | ~1,858 |
+| Trollskull Manor | 0.90% | ~1,858 |
+| Dinosaur Racing | 0.90% | ~1,858 |
 | The Lost Heir of Omu | 0.80% | ~1,651 |
 | Attack on the Manor | 0.80% | ~1,651 |
 | The Long Haul | 0.80% | ~1,651 |
@@ -85,31 +85,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.50% | ~1,032 |
 | The Everlasting Rime | 0.50% | ~863 |
 | Expert Opinion | 0.50% | ~1,032 |
-| Lobsterfolk Assault | 0.40% | ~825 |
-| Home Field Advantage | 0.40% | ~825 |
-| Force Grey Unleashed | 0.40% | ~825 |
-| Vajra's Guards | 0.40% | ~825 |
-| Azaka's Procession - Part 1 | 0.40% | ~825 |
-| Azaka's Procession - Part 2 | 0.40% | ~825 |
-| Werewolves in the Mist | 0.40% | ~825 |
-| Modron Assistance | 0.40% | ~825 |
-| Haaave You Met Asmodeus? | 0.40% | ~825 |
-| Domesticated Owlbears | 0.40% | ~825 |
-| The Gargoyle's Apprentice | 0.40% | ~825 |
-| Flies on the Wall | 0.40% | ~825 |
-| Backtracking Through Barovia | 0.40% | ~825 |
-| Excavating History | 0.40% | ~825 |
-| Cramped Quarters | 0.40% | ~825 |
-| Slow and Steady | 0.40% | ~825 |
-| Waterdeep Under Siege | 0.40% | ~825 |
-| Vault of Dragons | 0.40% | ~825 |
-| Champions of Waterdeep | 0.40% | ~825 |
-| Elturel Has Fallen | 0.40% | ~825 |
-| Resolve Amongst Chaos | 0.40% | ~825 |
-| Once More Into The Breach | 0.40% | ~825 |
+| Lobsterfolk Assault | 0.40% | ~826 |
+| Home Field Advantage | 0.40% | ~826 |
+| Force Grey Unleashed | 0.40% | ~826 |
+| Vajra's Guards | 0.40% | ~826 |
+| Azaka's Procession - Part 1 | 0.40% | ~826 |
+| Azaka's Procession - Part 2 | 0.40% | ~826 |
+| Werewolves in the Mist | 0.40% | ~826 |
+| Modron Assistance | 0.40% | ~826 |
+| Haaave You Met Asmodeus? | 0.40% | ~826 |
+| Domesticated Owlbears | 0.40% | ~826 |
+| The Gargoyle's Apprentice | 0.40% | ~826 |
+| Flies on the Wall | 0.40% | ~826 |
+| Backtracking Through Barovia | 0.40% | ~826 |
+| Excavating History | 0.40% | ~826 |
+| Cramped Quarters | 0.40% | ~826 |
+| Slow and Steady | 0.40% | ~826 |
+| Waterdeep Under Siege | 0.40% | ~826 |
+| Vault of Dragons | 0.40% | ~826 |
+| Champions of Waterdeep | 0.40% | ~826 |
+| Elturel Has Fallen | 0.40% | ~826 |
+| Resolve Amongst Chaos | 0.40% | ~826 |
+| Once More Into The Breach | 0.40% | ~826 |
+| Wyllowwood | 0.40% | ~826 |
 | Into The Fire | 0.40% | ~691 |
 | Moose Tracks | 0.40% | ~691 |
-| Poor Guidance | 0.40% | ~825 |
+| Poor Guidance | 0.40% | ~826 |
 | Anti-Dexterous Explorers | 0.30% | ~619 |
 | Not Very Charming | 0.30% | ~619 |
 | Periodic Petrification | 0.30% | ~619 |
@@ -134,7 +135,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.30% | ~619 |
 | Patience is Key | 0.30% | ~619 |
 | Troublesome Prisoner | 0.30% | ~619 |
-| Wyllowwood | 0.30% | ~619 |
 | An Illithid Undertaking | 0.30% | ~518 |
 | Déjà Vu | 0.30% | ~518 |
 | Dreamscape | 0.30% | ~518 |
@@ -171,6 +171,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Corruption | 0.20% | ~413 |
 | Home Not So Alone | 0.20% | ~345 |
 | Think Your Way Out Of It | 0.20% | ~413 |
+| Air's Getting Pretty Thin | 0.20% | ~413 |
 | The Killer Mists | 0.20% | ~413 |
 | Class Vacation | 0.20% | ~413 |
 | Diversity Day-Trip | 0.20% | ~413 |
@@ -275,7 +276,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.10% | ~173 |
 | The Strahd Squad | 0.10% | ~173 |
 | Review by the Blackstaff | 0.10% | ~173 |
-| Air's Getting Pretty Thin | 0.10% | ~206 |
 | Red Wizard 'Escort' | 0.10% | ~173 |
 | Spirit of the Trickster Gods | 0.10% | ~173 |
 | A Nod from Strahd | 0.10% | ~173 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,371 (Ranked 52)  
+Progressed: 206,389 (Ranked 52)  
 Completed: 2,028 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,028 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,371 | 2,028 |
+| 2023-07-05 | 206,389 | 2,028 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

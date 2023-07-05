@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -5343,9 +5343,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55007,
+  "EOS_Progressed": 55008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13153,6 +13153,11 @@
       "Time": "2023-07-05T03:31:02.0962788+00:00",
       "NumProgressed": 55007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T04:08:10.0716127+00:00",
+      "NumProgressed": 55008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13180,7 +13185,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "Best served cold",
@@ -13324,7 +13329,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "I can do it",
@@ -13420,7 +13425,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "Minor Clan",
@@ -13540,7 +13545,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11551
+      "UsersEstimate": 11552
     },
     {
       "ID": "Undercover",
@@ -13571,15 +13576,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55007,
+      "Progressed": 55008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-05T03:24:10.3522508+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:31:02.0962782+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:08:10.0716122+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:24:10.3522516+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:31:02.0963857+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:01:15.1949376+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:08:10.0717098+00:00"
 }

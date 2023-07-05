@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17664,
+  "EOS_Progressed": 17665,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9137,6 +9137,11 @@
       "Time": "2023-07-05T03:30:44.9160789+00:00",
       "NumProgressed": 17664,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-07-05T04:07:53.0870889+00:00",
+      "NumProgressed": 17665,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -9156,7 +9161,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "1017",
@@ -9180,7 +9185,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "1020",
@@ -9300,7 +9305,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "1035",
@@ -9323,15 +9328,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17664,
+      "Progressed": 17665,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:30:44.9160782+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:07:53.087088+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.185292+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:24:53.3270252+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:30:44.9161676+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:01:57.7499443+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:07:53.0871782+00:00"
 }

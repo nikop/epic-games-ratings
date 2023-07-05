@@ -5,22 +5,22 @@ Rating: 4.40 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~714,249 |
-| The ABCs | 43.00% | ~626,790 |
-| Home Run | 41.00% | ~597,637 |
-| Keeps Coming Off | 41.00% | ~597,637 |
-| Guts | 20.00% | ~291,530 |
-| Meat Grinder | 20.00% | ~291,530 |
-| Burning Man | 16.00% | ~233,224 |
-| Lived to Tell the Tale | 12.00% | ~174,918 |
-| Highlander | 10.00% | ~145,765 |
-| Unstoppable | 10.00% | ~145,765 |
-| Just a Scratch | 9.00% | ~131,189 |
-| Tough Nut to Crack | 6.00% | ~87,459 |
-| Yoink | 6.00% | ~87,459 |
-| Long List of Names | 4.00% | ~58,306 |
-| Pyromaniac | 4.00% | ~58,306 |
-| The Queen of Weapons | 4.00% | ~58,306 |
+| Justice from the Grave | 49.00% | ~714,260 |
+| The ABCs | 43.00% | ~626,799 |
+| Home Run | 41.00% | ~597,646 |
+| Keeps Coming Off | 41.00% | ~597,646 |
+| Guts | 20.00% | ~291,535 |
+| Meat Grinder | 20.00% | ~291,535 |
+| Burning Man | 16.00% | ~233,228 |
+| Lived to Tell the Tale | 12.00% | ~174,921 |
+| Highlander | 10.00% | ~145,767 |
+| Unstoppable | 10.00% | ~145,767 |
+| Just a Scratch | 9.00% | ~131,191 |
+| Tough Nut to Crack | 6.00% | ~87,460 |
+| Yoink | 6.00% | ~87,460 |
+| Long List of Names | 4.00% | ~58,307 |
+| Pyromaniac | 4.00% | ~58,307 |
+| The Queen of Weapons | 4.00% | ~58,307 |
 | This isn’t Sparta | 3.00% | ~43,730 |
 | Crybaby | 2.00% | ~29,153 |
 | Eagle Eye | 2.00% | ~29,153 |
@@ -44,7 +44,7 @@ Rating: 4.40 (Ranked 689)
 | That’s No Ordinary Cold | 0.10% | ~1,458 |
 | Stairway to Hell | 0.10% | ~1,458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,457,652 (Ranked 7)  
+Progressed: 1,457,673 (Ranked 7)  
 Completed: 42 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 42 (0.00%) (Ranked 232)
 | 2023-07-02 | 1,454,891 | 41 |
 | 2023-07-03 | 1,456,199 | 41 |
 | 2023-07-04 | 1,457,486 | 42 |
-| 2023-07-05 | 1,457,652 | 42 |
+| 2023-07-05 | 1,457,673 | 42 |
 ## Awards
 Max (Highly Recommended): 355  (Ranked 219)  
 Sum: 2,085 (Ranked 194)  

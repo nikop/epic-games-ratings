@@ -5,53 +5,53 @@ Rating: 4.54 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 89.00% | ~509,919 |
-| Break A Leg | 86.00% | ~492,731 |
-| Hazardous Materials | 79.00% | ~452,625 |
-| Personal Assistant Personally Assisted | 75.00% | ~429,707 |
-| Coup de Grâce | 74.00% | ~423,978 |
-| Git Gutte! | 72.00% | ~412,519 |
-| Apex Predator | 69.00% | ~395,331 |
-| Friends Like These | 66.00% | ~378,142 |
-| Bookworm | 62.00% | ~355,225 |
-| Dr. Reed, I Presume? | 59.00% | ~338,036 |
-| Stacking the Deck | 59.00% | ~338,036 |
-| This is My Weapon | 57.00% | ~326,578 |
-| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~315,119 |
-| Welcome To Hell-A | 50.00% | ~286,472 |
-| But Doctor, I am Butcho | 49.00% | ~280,742 |
-| Can't Handle the Truth | 45.00% | ~257,824 |
-| Anger Management | 44.00% | ~252,095 |
-| Perks of the Job | 44.00% | ~252,095 |
-| Making Your Mark | 43.00% | ~246,365 |
-| Like Riding a Bike | 43.00% | ~246,365 |
-| A Patton Emerges | 42.00% | ~240,636 |
-| Zombologist | 41.00% | ~234,907 |
-| Ooh, Shiny! | 40.00% | ~229,177 |
-| Our True Nature | 40.00% | ~229,177 |
-| Slayer Squad | 39.00% | ~223,448 |
-| Humanity Distilled | 38.00% | ~217,718 |
-| I Am the Resurrection | 32.00% | ~183,342 |
-| Rising Star | 28.00% | ~160,424 |
+| Hotel California | 89.00% | ~509,922 |
+| Break A Leg | 86.00% | ~492,734 |
+| Hazardous Materials | 79.00% | ~452,627 |
+| Personal Assistant Personally Assisted | 75.00% | ~429,710 |
+| Coup de Grâce | 74.00% | ~423,980 |
+| Git Gutte! | 72.00% | ~412,521 |
+| Apex Predator | 69.00% | ~395,333 |
+| Friends Like These | 66.00% | ~378,144 |
+| Bookworm | 62.00% | ~355,227 |
+| Dr. Reed, I Presume? | 59.00% | ~338,038 |
+| Stacking the Deck | 59.00% | ~338,038 |
+| This is My Weapon | 57.00% | ~326,579 |
+| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~315,120 |
+| Welcome To Hell-A | 50.00% | ~286,473 |
+| But Doctor, I am Butcho | 49.00% | ~280,744 |
+| Can't Handle the Truth | 45.00% | ~257,826 |
+| Anger Management | 44.00% | ~252,096 |
+| Perks of the Job | 44.00% | ~252,096 |
+| Making Your Mark | 43.00% | ~246,367 |
+| Like Riding a Bike | 43.00% | ~246,367 |
+| A Patton Emerges | 42.00% | ~240,637 |
+| Zombologist | 41.00% | ~234,908 |
+| Ooh, Shiny! | 40.00% | ~229,178 |
+| Our True Nature | 40.00% | ~229,178 |
+| Slayer Squad | 39.00% | ~223,449 |
+| Humanity Distilled | 38.00% | ~217,719 |
+| I Am the Resurrection | 32.00% | ~183,343 |
+| Rising Star | 28.00% | ~160,425 |
 | Jumbo Keyring | 27.00% | ~154,695 |
 | Down with the Sickness | 27.00% | ~154,695 |
 | Go, Bobcats! | 27.00% | ~154,695 |
-| Smorgasbord | 19.00% | ~108,859 |
-| Internet Famous | 19.00% | ~108,859 |
-| Make it So | 15.00% | ~85,941 |
+| Smorgasbord | 19.00% | ~108,860 |
+| Internet Famous | 19.00% | ~108,860 |
+| Make it So | 15.00% | ~85,942 |
 | Max Headroom | 14.00% | ~80,212 |
 | On Safari | 13.00% | ~74,483 |
 | Not Even My Final Form | 13.00% | ~74,483 |
-| LA Influential | 12.00% | ~68,753 |
-| Gore Horse | 12.00% | ~68,753 |
-| Sharpest Tool in the Box | 10.00% | ~57,294 |
+| LA Influential | 12.00% | ~68,754 |
+| Gore Horse | 12.00% | ~68,754 |
+| Sharpest Tool in the Box | 10.00% | ~57,295 |
 | Sole Survivor | 9.00% | ~51,565 |
-| Variety is the Spice of Death | 8.00% | ~45,835 |
+| Variety is the Spice of Death | 8.00% | ~45,836 |
 | Survival Skills | 6.00% | ~34,377 |
 | Donk! | 4.00% | ~22,918 |
 | Zombicidal Maniac | 1.00% | ~5,729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 572,943 (Ranked 27)  
+Progressed: 572,946 (Ranked 27)  
 Completed: 1,852 (0.32%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1,852 (0.32%) (Ranked 141)
 | 2023-07-02 | 571,844 | 1,840 |
 | 2023-07-03 | 572,380 | 1,848 |
 | 2023-07-04 | 572,876 | 1,852 |
-| 2023-07-05 | 572,943 | 1,852 |
+| 2023-07-05 | 572,946 | 1,852 |
 ## Awards
 Max (Great Boss Battles): 5,029  (Ranked 64)  
 Sum: 7,322 (Ranked 102)  

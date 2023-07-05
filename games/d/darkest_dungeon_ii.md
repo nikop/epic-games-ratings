@@ -6,33 +6,33 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~101,039 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~76,051 |
-| A Clear Conscience | 69.00% | ~74,964 |
-| Unleash Hell | 68.00% | ~73,878 |
-| Unfulfilled Desires | 68.00% | ~73,878 |
-| Funny Guy | 67.00% | ~72,791 |
-| Unshackled | 67.00% | ~72,791 |
-| Long Live the King | 66.00% | ~71,705 |
-| Resurrection | 62.00% | ~67,359 |
-| Wyrdly Reconstructed | 62.00% | ~67,359 |
-| Boxcar Kid | 60.00% | ~65,186 |
-| To Grandmother's House | 60.00% | ~65,186 |
-| Rush Hour | 59.00% | ~64,100 |
+| A Place to Lay Your Head | 93.00% | ~101,040 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~76,052 |
+| A Clear Conscience | 69.00% | ~74,965 |
+| Unleash Hell | 68.00% | ~73,879 |
+| Unfulfilled Desires | 68.00% | ~73,879 |
+| Funny Guy | 67.00% | ~72,792 |
+| Unshackled | 67.00% | ~72,792 |
+| Long Live the King | 66.00% | ~71,706 |
+| Resurrection | 62.00% | ~67,360 |
+| Wyrdly Reconstructed | 62.00% | ~67,360 |
+| Boxcar Kid | 60.00% | ~65,187 |
+| To Grandmother's House | 60.00% | ~65,187 |
+| Rush Hour | 59.00% | ~64,101 |
 | Serenity Now! | 52.00% | ~56,495 |
 | Hope Rekindled | 50.00% | ~54,322 |
-| Ramble On | 48.00% | ~52,149 |
+| Ramble On | 48.00% | ~52,150 |
 | Nope | 47.00% | ~51,063 |
 | This Looks Familiar | 38.00% | ~41,285 |
 | Hot Air | 36.00% | ~39,112 |
-| Now Stay Dead | 35.00% | ~38,025 |
-| Harvest Festival | 35.00% | ~38,025 |
+| Now Stay Dead | 35.00% | ~38,026 |
+| Harvest Festival | 35.00% | ~38,026 |
 | Merry Time | 34.00% | ~36,939 |
 | Creep and Sleep | 32.00% | ~34,766 |
 | Overdue Notice | 31.00% | ~33,680 |
-| Whale | 30.00% | ~32,593 |
+| Whale | 30.00% | ~32,594 |
 | Banishment | 29.00% | ~31,507 |
-| FNG | 28.00% | ~30,420 |
+| FNG | 28.00% | ~30,421 |
 | Predator | 23.00% | ~24,988 |
 | Reverse Banditry | 23.00% | ~24,988 |
 | Autodidact | 23.00% | ~24,988 |
@@ -40,8 +40,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 21.00% | ~22,815 |
 | Road Trip | 21.00% | ~22,815 |
 | Eyes Up | 20.00% | ~21,729 |
-| It Rings a Bell | 19.00% | ~20,642 |
-| Escape from the Black Hole | 17.00% | ~18,469 |
+| It Rings a Bell | 19.00% | ~20,643 |
+| Escape from the Black Hole | 17.00% | ~18,470 |
 | It Happens | 16.00% | ~17,383 |
 | This Belongs in a Museum | 15.00% | ~16,297 |
 | Dissector | 15.00% | ~16,297 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~109 |
 | Hard Mode | 0.10% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,644 (Ranked 65)  
+Progressed: 108,645 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,16 +138,16 @@ Completed: 1 (0.00%) (Ranked 232)
 | 2023-07-02 | 108,258 | 1 |
 | 2023-07-03 | 108,436 | 1 |
 | 2023-07-04 | 108,620 | 1 |
-| 2023-07-05 | 108,644 | 1 |
+| 2023-07-05 | 108,645 | 1 |
 ## Awards
 Max (Character Customization): 7,241  (Ranked 47)  
-Sum: 18,720 (Ranked 56)  
+Sum: 18,723 (Ranked 56)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,241 |
 | This game has Diverse Characters | 1,470 |
-| This game has Challenging Combat | 1,412 |
+| This game has Challenging Combat | 1,415 |
 | This game is Highly Recommended | 1,377 |
 | This game is Extremely Fun | 1,325 |
 | This game has Amazing Characters | 1,324 |
@@ -320,4 +320,4 @@ Diff (max vs sum): -9
 | 2023-07-02 | 4.68 | - | 7,235 | 18,705 |
 | 2023-07-03 | 4.68 | - | 7,239 | 18,713 |
 | 2023-07-04 | 4.68 | - | 7,241 | 18,718 |
-| 2023-07-05 | 4.68 | - | 7,241 | 18,720 |
+| 2023-07-05 | 4.68 | - | 7,241 | 18,723 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-07-05T03:27:09.1445479+00:00",
       "NumProgressed": 313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T04:04:20.0694583+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -460,9 +465,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 152
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -470,7 +475,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -502,7 +507,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -516,7 +521,7 @@
       "ID": "ATK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "I Can Do This All Day",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -534,7 +539,7 @@
       "Name": "Capraphobia",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -596,9 +601,9 @@
       "ID": "BURN_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "He\u0027s Getting Crazier",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -628,7 +633,7 @@
       "ID": "CODE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "01000011 01000010 01000100",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -660,9 +665,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -692,9 +697,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -716,9 +721,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -732,25 +737,25 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -780,9 +785,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -822,7 +827,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -836,9 +841,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 35
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -908,9 +913,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -989,14 +994,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:27:09.1445472+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:04:20.0694578+00:00",
   "LastUpdate_AppInfo": "2023-06-29T13:12:03.6772777+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:20:06.0651862+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:27:09.1446331+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:57:13.1731802+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:04:20.0695331+00:00"
 }

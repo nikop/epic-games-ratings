@@ -5,43 +5,43 @@ Rating: 4.40 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 65.00% | ~137,374 |
-| Destroyer-In-Chief | 59.00% | ~124,693 |
-| There Is No Pancakes | 56.00% | ~118,353 |
-| First of Many | 44.00% | ~92,991 |
-| Woah. | 38.00% | ~80,311 |
-| Don't Look Down | 31.00% | ~65,517 |
-| Don't Panic | 29.00% | ~61,290 |
-| Ooo A Piece of Candy! | 24.00% | ~50,723 |
-| Ghost in the Machine | 19.00% | ~40,155 |
-| All Too Easy | 16.00% | ~33,815 |
-| Didn't Need to See Him Naked | 14.00% | ~29,588 |
-| Bow to the Boss! | 10.00% | ~21,134 |
-| Indomitable | 10.00% | ~21,134 |
-| Blast from the Past | 9.00% | ~19,021 |
-| Friend of the Raptors | 9.00% | ~19,021 |
+| Zero Saints Thirty | 65.00% | ~137,381 |
+| Destroyer-In-Chief | 59.00% | ~124,699 |
+| There Is No Pancakes | 56.00% | ~118,359 |
+| First of Many | 44.00% | ~92,996 |
+| Woah. | 38.00% | ~80,315 |
+| Don't Look Down | 31.00% | ~65,520 |
+| Don't Panic | 29.00% | ~61,293 |
+| Ooo A Piece of Candy! | 24.00% | ~50,725 |
+| Ghost in the Machine | 19.00% | ~40,157 |
+| All Too Easy | 16.00% | ~33,817 |
+| Didn't Need to See Him Naked | 14.00% | ~29,590 |
+| Bow to the Boss! | 10.00% | ~21,136 |
+| Indomitable | 10.00% | ~21,136 |
+| Blast from the Past | 9.00% | ~19,022 |
+| Friend of the Raptors | 9.00% | ~19,022 |
 | About Time! | 8.00% | ~16,908 |
-| Actor-Turned-Politician | 7.00% | ~14,794 |
-| Betrayed | 7.00% | ~14,794 |
-| Maximum Stopping Power | 7.00% | ~14,794 |
-| Poodle Skirt | 7.00% | ~14,794 |
-| You Chose... Poorly | 7.00% | ~14,794 |
+| Actor-Turned-Politician | 7.00% | ~14,795 |
+| Betrayed | 7.00% | ~14,795 |
+| Maximum Stopping Power | 7.00% | ~14,795 |
+| Poodle Skirt | 7.00% | ~14,795 |
+| You Chose... Poorly | 7.00% | ~14,795 |
 | Double Team | 6.00% | ~12,681 |
 | Keymaster | 6.00% | ~12,681 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~10,567 |
-| Imperator | 5.00% | ~10,567 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~10,568 |
+| Imperator | 5.00% | ~10,568 |
 | ...A Saint Gets a Gun | 4.00% | ~8,454 |
 | Half Way Home | 4.00% | ~8,454 |
 | How It Should Be | 4.00% | ~8,454 |
 | Machine Man | 4.00% | ~8,454 |
 | The Full Kinzie | 4.00% | ~8,454 |
-| And I Ran... | 3.00% | ~6,340 |
-| Chill Out | 3.00% | ~6,340 |
-| Elementary | 3.00% | ~6,340 |
-| On Her Saint's Secret Service | 3.00% | ~6,340 |
-| Paranormal Bromance | 3.00% | ~6,340 |
-| Saints & Sensibility | 3.00% | ~6,340 |
-| The Two Shaundis | 3.00% | ~6,340 |
+| And I Ran... | 3.00% | ~6,341 |
+| Chill Out | 3.00% | ~6,341 |
+| Elementary | 3.00% | ~6,341 |
+| On Her Saint's Secret Service | 3.00% | ~6,341 |
+| Paranormal Bromance | 3.00% | ~6,341 |
+| Saints & Sensibility | 3.00% | ~6,341 |
+| The Two Shaundis | 3.00% | ~6,341 |
 | Benjamin [CENSORED] King | 2.00% | ~4,227 |
 | Better This Way | 2.00% | ~4,227 |
 | Bouncin' with an Old Friend | 2.00% | ~4,227 |
@@ -49,14 +49,14 @@ Rating: 4.40 (Ranked 689)
 | The Face of the Saints | 2.00% | ~4,227 |
 | The Twin Saints | 2.00% | ~4,227 |
 | Where's My Cape? | 2.00% | ~4,227 |
-| A Real Cluster.... | 1.00% | ~2,113 |
-| A Very Genki Holiday | 1.00% | ~2,113 |
-| Here! Catch! | 1.00% | ~2,113 |
-| Make a List, Check it Twice | 1.00% | ~2,113 |
-| Minty Fresh! | 1.00% | ~2,113 |
-| Switch Hitter | 1.00% | ~2,113 |
-| The Whole Story | 1.00% | ~2,113 |
-| Zoo Keeper | 1.00% | ~2,113 |
+| A Real Cluster.... | 1.00% | ~2,114 |
+| A Very Genki Holiday | 1.00% | ~2,114 |
+| Here! Catch! | 1.00% | ~2,114 |
+| Make a List, Check it Twice | 1.00% | ~2,114 |
+| Minty Fresh! | 1.00% | ~2,114 |
+| Switch Hitter | 1.00% | ~2,114 |
+| The Whole Story | 1.00% | ~2,114 |
+| Zoo Keeper | 1.00% | ~2,114 |
 | Back in the Day | 0.70% | ~1,479 |
 | Dear Santa | 0.70% | ~1,479 |
 | Rigging the Race | 0.70% | ~1,479 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 689)
 | Super Power Team Up! | 0.10% | ~211 |
 | Ultimate Hot Potato | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,344 (Ranked 51)  
+Progressed: 211,355 (Ranked 51)  
 Completed: 14 (0.01%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 14 (0.01%) (Ranked 220)
 | 2023-07-02 | 209,486 | 14 |
 | 2023-07-03 | 210,347 | 14 |
 | 2023-07-04 | 211,213 | 14 |
-| 2023-07-05 | 211,344 | 14 |
+| 2023-07-05 | 211,355 | 14 |
 ## Awards
 Max (Great Boss Battles): 420  (Ranked 201)  
 Sum: 420 (Ranked 308)  

@@ -6,11 +6,11 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~437,135 |
-| The Three | 64.00% | ~337,068 |
+| Find Sanctuary | 83.00% | ~437,136 |
+| The Three | 64.00% | ~337,069 |
 | The Banquet | 40.00% | ~210,668 |
 | Devara's Light | 30.00% | ~158,001 |
-| The Iron Ones | 18.00% | ~94,800 |
+| The Iron Ones | 18.00% | ~94,801 |
 | The Village | 16.00% | ~84,267 |
 | The Forest | 14.00% | ~73,734 |
 | Branded | 13.00% | ~68,467 |
@@ -27,9 +27,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,600 |
 | The Mire | 6.00% | ~31,600 |
 | The Ruins | 6.00% | ~31,600 |
-| The Alkymancery | 5.00% | ~26,333 |
-| The Lake | 5.00% | ~26,333 |
-| The Pitchwoods | 5.00% | ~26,333 |
+| The Alkymancery | 5.00% | ~26,334 |
+| The Lake | 5.00% | ~26,334 |
+| The Pitchwoods | 5.00% | ~26,334 |
 | Honed | 4.00% | ~21,067 |
 | The House of Splendor | 4.00% | ~21,067 |
 | The Crypt | 4.00% | ~21,067 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,533 |
 | Fading Fast | 1.00% | ~5,267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,669 (Ranked 28)  
+Progressed: 526,670 (Ranked 28)  
 Completed: 1,465 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,15 +120,15 @@ Completed: 1,465 (0.28%) (Ranked 148)
 | 2023-07-02 | 526,447 | 1,465 |
 | 2023-07-03 | 526,542 | 1,465 |
 | 2023-07-04 | 526,646 | 1,465 |
-| 2023-07-05 | 526,669 | 1,465 |
+| 2023-07-05 | 526,670 | 1,465 |
 ## Awards
 Max (Challenging Combat): 273  (Ranked 239)  
-Sum: 1,905 (Ranked 203)  
+Sum: 1,906 (Ranked 203)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 273 |
-| This game has Quickly Understood Controls | 255 |
+| This game has Quickly Understood Controls | 256 |
 | This game is Highly Recommended | 249 |
 | This game is Extremely Fun | 233 |
 | This game has Diverse Characters | 230 |
@@ -267,3 +267,4 @@ Diff (max vs sum): 36
 | 2023-06-28 | 4.61 | - | 273 | 1,901 |
 | 2023-06-29 | 4.61 | - | 273 | 1,903 |
 | 2023-07-03 | 4.61 | - | 273 | 1,905 |
+| 2023-07-05 | 4.61 | - | 273 | 1,906 |

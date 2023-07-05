@@ -360,9 +360,9 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 235643,
+  "EOS_Progressed": 235644,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1231,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8460,6 +8460,11 @@
       "Time": "2023-07-05T03:30:58.2776517+00:00",
       "NumProgressed": 235643,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-07-05T04:08:06.0989243+00:00",
+      "NumProgressed": 235644,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -8687,7 +8692,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56554
+      "UsersEstimate": 56555
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -8783,7 +8788,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18851
+      "UsersEstimate": 18852
     },
     {
       "ID": "ACH_SCRATCH",
@@ -8863,7 +8868,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18851
+      "UsersEstimate": 18852
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -8886,7 +8891,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 235643,
+      "Progressed": 235644,
       "Completed": 7
     }
   ],
@@ -8894,8 +8899,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-06-27T19:58:13.5702969+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:30:58.2776508+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:08:06.0989235+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:23.5972045+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:21:42.1661639+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:30:58.2778326+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:58:52.3630317+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:08:06.0990111+00:00"
 }

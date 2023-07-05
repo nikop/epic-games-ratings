@@ -2269,10 +2269,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1905,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-07-05T04:00:49.5244029+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1906,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1905,
+  "NumberOfAwards": 1906,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2280,7 +2286,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 255
+      "Count": 256
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2337,9 +2343,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 526669,
+  "EOS_Progressed": 526670,
   "EOS_Completed": 1465,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -10292,6 +10298,11 @@
       "Time": "2023-07-05T03:25:44.5441235+00:00",
       "NumProgressed": 526669,
       "NumCompleted": 1465
+    },
+    {
+      "Time": "2023-07-05T04:02:54.5984237+00:00",
+      "NumProgressed": 526670,
+      "NumCompleted": 1465
     }
   ],
   "TotalAchievements": 37,
@@ -10359,7 +10370,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 437135
+      "UsersEstimate": 437136
     },
     {
       "ID": "HONED",
@@ -10407,7 +10418,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "THE_BANQUET",
@@ -10479,7 +10490,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 94800
+      "UsersEstimate": 94801
     },
     {
       "ID": "THE_KEEP",
@@ -10495,7 +10506,7 @@
       "Name": "The Lake",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "THE_MIRE",
@@ -10519,7 +10530,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "THE_RED_HALL",
@@ -10559,7 +10570,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 337068
+      "UsersEstimate": 337069
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -10598,15 +10609,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 526669,
+      "Progressed": 526670,
       "Completed": 1465
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-07-03T18:00:38.485309+00:00",
-  "LastChanged_Achievements": "2023-07-05T03:25:44.5441229+00:00",
+  "LastChanged": "2023-07-05T04:00:49.5244028+00:00",
+  "LastChanged_Achievements": "2023-07-05T04:02:54.5984232+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:27.2223029+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:23:44.1281512+00:00",
-  "LastUpdate_Achievements": "2023-07-05T03:25:44.5442158+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:00:49.5244033+00:00",
+  "LastUpdate_Achievements": "2023-07-05T04:02:54.5984968+00:00"
 }
