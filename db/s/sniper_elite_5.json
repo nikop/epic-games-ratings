@@ -376,7 +376,7 @@
   "Tags": [],
   "EOS_Progressed": 3207,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4707,9 +4707,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -5266,8 +5266,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-04T17:02:06.1920545+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:29:16.6866757+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:31:04.4104148+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:23:31.2076105+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:29:16.6867729+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:25:17.1209778+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:31:04.4105222+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "7",
@@ -278,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:27:11.6108334+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:27:53.3471051+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.9962354+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:22:16.3106058+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:27:11.6108475+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:23:13.4471611+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:27:53.3471201+00:00"
 }

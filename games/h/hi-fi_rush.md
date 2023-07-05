@@ -5,23 +5,23 @@ Rating: 4.89 (Ranked 12)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 81.00% | ~2,756 |
-| Start with a bang! | 80.00% | ~2,722 |
-| You can pet the cat! | 75.00% | ~2,552 |
-| Who put gears in there? | 68.00% | ~2,314 |
-| Cream of the Crop | 63.00% | ~2,144 |
-| Thanks for the free chip, Peppermint! | 63.00% | ~2,144 |
+| Feeling the beat! | 81.00% | ~2,757 |
+| Start with a bang! | 80.00% | ~2,723 |
+| You can pet the cat! | 75.00% | ~2,553 |
+| Who put gears in there? | 68.00% | ~2,315 |
+| Cream of the Crop | 63.00% | ~2,145 |
+| Thanks for the free chip, Peppermint! | 62.00% | ~2,110 |
 | You got this, Peppermint? | 57.00% | ~1,940 |
 | Perfect Parry | 55.00% | ~1,872 |
 | Alright, that felt AWESOME! | 54.00% | ~1,838 |
 | I play my own way! | 50.00% | ~1,702 |
-| This will cost you big time | 48.00% | ~1,633 |
-| Uh, they were broken when I got here | 47.00% | ~1,599 |
-| Z-shielding's got nothing on us! | 46.00% | ~1,565 |
-| Kissing the sky! | 45.00% | ~1,531 |
-| Does that say weakpoint? | 41.00% | ~1,395 |
-| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,361 |
-| The Negotiator | 39.00% | ~1,327 |
+| This will cost you big time | 48.00% | ~1,634 |
+| Uh, they were broken when I got here | 47.00% | ~1,600 |
+| Z-shielding's got nothing on us! | 46.00% | ~1,566 |
+| Kissing the sky! | 45.00% | ~1,532 |
+| Does that say weakpoint? | 41.00% | ~1,396 |
+| Whoa! There's ANOTHER health bar!? | 40.00% | ~1,362 |
+| The Negotiator | 39.00% | ~1,328 |
 | You must like calling me in, Chai | 34.00% | ~1,157 |
 | Out in a puff of smoke | 34.00% | ~1,157 |
 | Headliner | 33.00% | ~1,123 |
@@ -67,7 +67,7 @@ Rating: 4.89 (Ranked 12)
 | I'm trying to FOCUS HERE! | 0.30% | ~10 |
 | What a journey it was... | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,403 (Ranked 144)  
+Progressed: 3,404 (Ranked 144)  
 Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.15%) (Ranked 169)
 | 2023-07-02 | 3,389 | 5 |
 | 2023-07-03 | 3,395 | 5 |
 | 2023-07-04 | 3,402 | 5 |
-| 2023-07-05 | 3,403 | 5 |
+| 2023-07-05 | 3,404 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

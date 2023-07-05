@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "ALL_CASSETTES",
       "SetID": "bho0i1h",
       "Name": "Press Play",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ALL_COMPUTERS",
@@ -245,9 +245,9 @@
       "ID": "CHAPTER_10_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Descent",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CHAPTER_11_COMPLETE",
@@ -285,9 +285,9 @@
       "ID": "PEG_CHURCHILL",
       "SetID": "bho0i1h",
       "Name": "Churchill",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "PEG_COMMISSIONER",
@@ -317,9 +317,9 @@
       "ID": "PEG_GENERAL",
       "SetID": "bho0i1h",
       "Name": "General",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "PEG_MOTHER",
@@ -374,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:26:10.7833667+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:26:29.8796319+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:30.351815+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:21:23.1567983+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:26:10.7833907+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:21:49.4023641+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:26:29.8796538+00:00"
 }

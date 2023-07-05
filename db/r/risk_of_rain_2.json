@@ -4,11 +4,11 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
     "PcReleaseDate": "2020-08-11T14:53:00+00:00",
@@ -1740,10 +1740,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2313,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-07-05T03:23:32.4256011+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2314,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2313,
+  "NumberOfAwards": 2314,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1769,7 +1775,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1831,8 +1837,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-07-04T03:59:46.8342481+00:00",
+  "LastChanged": "2023-07-05T03:23:32.425601+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.5701366+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:22:30.8200136+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:26:06.8543742+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:23:32.4256017+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:26:24.4963744+00:00"
 }

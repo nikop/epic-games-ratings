@@ -3,12 +3,12 @@
 [View Rawdata](../../db/k/kerbal_space_program.json)  
 Rating: 4.79 (Ranked 88)  
 ## Awards
-Max (Educational): 692  (Ranked 164)  
-Sum: 4,500 (Ranked 134)  
+Max (Educational): 693  (Ranked 164)  
+Sum: 4,501 (Ranked 134)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 692 |
+| This game is Educational | 693 |
 | This game is Extremely Fun | 590 |
 | This game is Highly Recommended | 586 |
 | This game is Relaxing | 576 |
@@ -124,3 +124,4 @@ Diff (max vs sum): 30
 | 2023-07-02 | 4.79 | 687 | 4,468 |
 | 2023-07-03 | 4.79 | 692 | 4,489 |
 | 2023-07-04 | 4.79 | 692 | 4,500 |
+| 2023-07-05 | 4.79 | 693 | 4,501 |

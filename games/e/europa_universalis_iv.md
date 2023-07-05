@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,895 |
-| That's a Grand Army | 8.00% | ~5,240 |
-| That is mine! | 8.00% | ~5,240 |
-| Victorious! | 8.00% | ~5,240 |
-| Brothers in Arms | 6.00% | ~3,930 |
-| That's a Grand Navy | 6.00% | ~3,930 |
-| Seriously?! | 6.00% | ~3,930 |
-| For the Glory | 5.00% | ~3,275 |
-| Cold War | 4.00% | ~2,620 |
-| True Catholic | 4.00% | ~2,620 |
-| Defender of the Faith | 3.00% | ~1,965 |
-| It's all about the money | 3.00% | ~1,965 |
-| Respected | 3.00% | ~1,965 |
-| The Princess is in this Castle | 3.00% | ~1,965 |
-| Truly Divine Ruler | 3.00% | ~1,965 |
+| Until death do us apart | 9.00% | ~5,897 |
+| That's a Grand Army | 8.00% | ~5,241 |
+| That is mine! | 8.00% | ~5,241 |
+| Victorious! | 8.00% | ~5,241 |
+| Brothers in Arms | 6.00% | ~3,931 |
+| That's a Grand Navy | 6.00% | ~3,931 |
+| Seriously?! | 6.00% | ~3,931 |
+| For the Glory | 5.00% | ~3,276 |
+| Cold War | 4.00% | ~2,621 |
+| True Catholic | 4.00% | ~2,621 |
+| Defender of the Faith | 3.00% | ~1,966 |
+| It's all about the money | 3.00% | ~1,966 |
+| Respected | 3.00% | ~1,966 |
+| The Princess is in this Castle | 3.00% | ~1,966 |
+| Truly Divine Ruler | 3.00% | ~1,966 |
 | Agressive Expander | 2.00% | ~1,310 |
 | Blockader | 2.00% | ~1,310 |
 | Combined Arms | 2.00% | ~1,310 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,502 (Ranked 75)  
+Progressed: 65,517 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,7 +437,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 64,638 | 0 |
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
-| 2023-07-05 | 65,502 | 0 |
+| 2023-07-05 | 65,517 | 0 |
 ## Awards
 Max (Educational): 5,503  (Ranked 61)  
 Sum: 45,392 (Ranked 27)  

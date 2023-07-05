@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,351 |
-| Landlord | 31.00% | ~17,051 |
-| Lawmaker | 22.00% | ~12,101 |
+| Lawbringer | 37.00% | ~20,353 |
+| Landlord | 31.00% | ~17,052 |
+| Lawmaker | 22.00% | ~12,102 |
 | Bannerlord | 21.00% | ~11,551 |
 | Horde breaker | 21.00% | ~11,551 |
 | Trained | 21.00% | ~11,551 |
 | The king is pleased | 17.00% | ~9,351 |
-| King Solomon | 16.00% | ~8,800 |
-| I can do it | 15.00% | ~8,250 |
-| Apple of my eye | 14.00% | ~7,700 |
-| God of the Arena | 12.00% | ~6,600 |
-| Against all odds | 11.00% | ~6,050 |
-| Swordbearer | 10.00% | ~5,500 |
-| Duelist | 9.00% | ~4,950 |
-| Dynasty | 9.00% | ~4,950 |
-| I spit on your grave | 9.00% | ~4,950 |
-| What have the Romans ever done for us? | 9.00% | ~4,950 |
-| Butterlord | 8.00% | ~4,400 |
-| This Is Our Land | 8.00% | ~4,400 |
+| King Solomon | 16.00% | ~8,801 |
+| I can do it | 15.00% | ~8,251 |
+| Apple of my eye | 14.00% | ~7,701 |
+| God of the Arena | 12.00% | ~6,601 |
+| Against all odds | 11.00% | ~6,051 |
+| Swordbearer | 10.00% | ~5,501 |
+| Duelist | 9.00% | ~4,951 |
+| Dynasty | 9.00% | ~4,951 |
+| I spit on your grave | 9.00% | ~4,951 |
+| What have the Romans ever done for us? | 9.00% | ~4,951 |
+| Butterlord | 8.00% | ~4,401 |
+| This Is Our Land | 8.00% | ~4,401 |
 | Mastery | 7.00% | ~3,850 |
 | Know your enemy | 6.00% | ~3,300 |
 | Crowdfunded | 4.00% | ~2,200 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,003 (Ranked 82)  
+Progressed: 55,007 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,17 +134,17 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 54,836 | 0 |
 | 2023-07-03 | 54,912 | 0 |
 | 2023-07-04 | 54,995 | 0 |
-| 2023-07-05 | 55,003 | 0 |
+| 2023-07-05 | 55,007 | 0 |
 ## Awards
 Max (Character Customization): 6,754  (Ranked 48)  
-Sum: 13,634 (Ranked 67)  
+Sum: 13,635 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,754 |
 | This game is Great for Beginners | 872 |
 | This game has Diverse Characters | 850 |
-| This game is Highly Recommended | 811 |
+| This game is Highly Recommended | 812 |
 | This game is Extremely Fun | 775 |
 | This game has Amazing Storytelling | 769 |
 | This game is Relaxing | 752 |
@@ -327,3 +327,4 @@ Diff (max vs sum): -19
 | 2023-07-02 | 4.74 | - | 6,745 | 13,615 |
 | 2023-07-03 | 4.74 | - | 6,754 | 13,632 |
 | 2023-07-04 | 4.74 | - | 6,754 | 13,634 |
+| 2023-07-05 | 4.74 | - | 6,754 | 13,635 |

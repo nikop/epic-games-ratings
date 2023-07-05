@@ -6,28 +6,28 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~232,987 |
-| First Victory | 50.00% | ~232,987 |
-| Clean Sheet | 49.00% | ~228,327 |
+| He's Signed! | 50.00% | ~232,988 |
+| First Victory | 50.00% | ~232,988 |
+| Clean Sheet | 49.00% | ~228,328 |
 | He's Sold! | 47.00% | ~219,008 |
-| I'm The Boss! | 41.00% | ~191,049 |
-| Hat-trick | 41.00% | ~191,049 |
-| Unbeatable! | 37.00% | ~172,410 |
-| Thumping | 37.00% | ~172,410 |
-| Scoring Streak | 37.00% | ~172,410 |
+| I'm The Boss! | 41.00% | ~191,050 |
+| Hat-trick | 41.00% | ~191,050 |
+| Unbeatable! | 37.00% | ~172,411 |
+| Thumping | 37.00% | ~172,411 |
+| Scoring Streak | 37.00% | ~172,411 |
 | Superb Dressing Room Atmosphere | 35.00% | ~163,091 |
 | Total Support | 32.00% | ~149,112 |
 | Record Signing | 32.00% | ~149,112 |
 | Millionaire's Club | 31.00% | ~144,452 |
 | Team Performance | 30.00% | ~139,792 |
 | He's a Natural | 30.00% | ~139,792 |
-| Parked The Bus | 29.00% | ~135,132 |
-| Shrewd Spender | 29.00% | ~135,132 |
-| Star Man | 29.00% | ~135,132 |
+| Parked The Bus | 29.00% | ~135,133 |
+| Shrewd Spender | 29.00% | ~135,133 |
+| Star Man | 29.00% | ~135,133 |
 | Attack! | 27.00% | ~125,813 |
-| You're On Fire | 26.00% | ~121,153 |
-| Tremendous Trio | 26.00% | ~121,153 |
-| Record Sale | 26.00% | ~121,153 |
+| You're On Fire | 26.00% | ~121,154 |
+| Tremendous Trio | 26.00% | ~121,154 |
+| Record Sale | 26.00% | ~121,154 |
 | On A Roll | 25.00% | ~116,494 |
 | Unstoppable Force | 25.00% | ~116,494 |
 | Fantastic Five | 24.00% | ~111,834 |
@@ -43,20 +43,20 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 21.00% | ~97,855 |
 | Irresistible Force | 19.00% | ~88,535 |
 | Excellent Match Cohesion | 19.00% | ~88,535 |
-| Do The Double | 18.00% | ~83,875 |
+| Do The Double | 18.00% | ~83,876 |
 | Top Form | 17.00% | ~79,216 |
 | Cash To Burn | 17.00% | ~79,216 |
 | Beating Expectations | 15.00% | ~69,896 |
 | Overachiever! | 15.00% | ~69,896 |
 | Rushed signing | 15.00% | ~69,896 |
 | Window Shopping | 15.00% | ~69,896 |
-| Eyes and Ears | 14.00% | ~65,236 |
+| Eyes and Ears | 14.00% | ~65,237 |
 | Comeback King! | 13.00% | ~60,577 |
 | You're Up! | 13.00% | ~60,577 |
 | Money, Money, Money | 12.00% | ~55,917 |
-| Superb Strike | 10.00% | ~46,597 |
-| Invincible! | 10.00% | ~46,597 |
-| Best In The World | 10.00% | ~46,597 |
+| Superb Strike | 10.00% | ~46,598 |
+| Invincible! | 10.00% | ~46,598 |
+| Best In The World | 10.00% | ~46,598 |
 | Best In Europe | 9.00% | ~41,938 |
 | Headhunted | 9.00% | ~41,938 |
 | International Superstar | 9.00% | ~41,938 |
@@ -73,13 +73,13 @@ Number of Ratings: 19,160  (23.09.2022)
 | National Hero | 3.00% | ~13,979 |
 | Golden Boot | 3.00% | ~13,979 |
 | Trophy Hoarder | 3.00% | ~13,979 |
-| Part Of The Furniture | 2.00% | ~9,319 |
-| Childhood Dream | 2.00% | ~9,319 |
-| Invitational | 2.00% | ~9,319 |
-| Mr Delegator | 2.00% | ~9,319 |
-| Scout's Honour | 2.00% | ~9,319 |
-| Freedom Of The Country | 2.00% | ~9,319 |
-| On Top Of The World | 2.00% | ~9,319 |
+| Part Of The Furniture | 2.00% | ~9,320 |
+| Childhood Dream | 2.00% | ~9,320 |
+| Invitational | 2.00% | ~9,320 |
+| Mr Delegator | 2.00% | ~9,320 |
+| Scout's Honour | 2.00% | ~9,320 |
+| Freedom Of The Country | 2.00% | ~9,320 |
+| On Top Of The World | 2.00% | ~9,320 |
 | Icon | 1.00% | ~4,660 |
 | There Is Always Plan B | 1.00% | ~4,660 |
 | Living the Dream | 1.00% | ~4,660 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~466 |
 | Shoestring Budget | 0.10% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,974 (Ranked 34)  
+Progressed: 465,975 (Ranked 34)  
 Completed: 19 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 19 (0.00%) (Ranked 232)
 | 2023-07-02 | 465,781 | 19 |
 | 2023-07-03 | 465,869 | 19 |
 | 2023-07-04 | 465,965 | 19 |
-| 2023-07-05 | 465,974 | 19 |
+| 2023-07-05 | 465,975 | 19 |
 ## Awards
 Max (Relaxing): 6,339  (Ranked 51)  
 Sum: 49,963 (Ranked 24)  

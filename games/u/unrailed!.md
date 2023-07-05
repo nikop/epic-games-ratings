@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 15.00% | ~92,211 |
-| Incurious | 15.00% | ~92,211 |
-| Stroller | 13.00% | ~79,916 |
-| Climate Change | 13.00% | ~79,916 |
-| Advanced Hiker | 11.00% | ~67,621 |
-| Toy Train | 11.00% | ~67,621 |
-| Hiker | 10.00% | ~61,474 |
-| Mojave Courier | 5.00% | ~30,737 |
-| Voyager | 3.00% | ~18,442 |
-| Advanced Voyager | 3.00% | ~18,442 |
-| Expert Stroller | 3.00% | ~18,442 |
-| Orient Express | 3.00% | ~18,442 |
-| Saved by Nausicaä | 3.00% | ~18,442 |
+| Advanced Stroller | 15.00% | ~92,214 |
+| Incurious | 15.00% | ~92,214 |
+| Stroller | 13.00% | ~79,918 |
+| Climate Change | 13.00% | ~79,918 |
+| Advanced Hiker | 11.00% | ~67,623 |
+| Toy Train | 11.00% | ~67,623 |
+| Hiker | 10.00% | ~61,476 |
+| Mojave Courier | 5.00% | ~30,738 |
+| Voyager | 3.00% | ~18,443 |
+| Advanced Voyager | 3.00% | ~18,443 |
+| Expert Stroller | 3.00% | ~18,443 |
+| Orient Express | 3.00% | ~18,443 |
+| Saved by Nausicaä | 3.00% | ~18,443 |
 | Expert Hiker | 2.00% | ~12,295 |
 | Marathon | 2.00% | ~12,295 |
 | Destructionist | 2.00% | ~12,295 |
-| Lost | 1.00% | ~6,147 |
-| Rocketman | 0.60% | ~3,688 |
-| Shopaholic | 0.60% | ~3,688 |
+| Lost | 1.00% | ~6,148 |
+| Rocketman | 0.60% | ~3,689 |
+| Shopaholic | 0.60% | ~3,689 |
 | Expert Voyager | 0.50% | ~3,074 |
 | Nanuk | 0.50% | ~3,074 |
 | Scrooge | 0.40% | ~2,459 |
@@ -36,7 +36,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Satan's Minion | 0.30% | ~1,844 |
 | Snowman's Land | 0.30% | ~1,844 |
 | Tough Nut! | 0.30% | ~1,844 |
-| Engineer | 0.20% | ~1,229 |
+| Engineer | 0.20% | ~1,230 |
 | Explorer | 0.10% | ~615 |
 | Advanced Explorer | 0.10% | ~615 |
 | Expert Wayfarer | 0.10% | ~615 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~615 |
 | 20 Miles under the Sea | 0.10% | ~615 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614,737 (Ranked 24)  
+Progressed: 614,757 (Ranked 24)  
 Completed: 7 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 7 (0.00%) (Ranked 232)
 | 2023-07-02 | 613,787 | 7 |
 | 2023-07-03 | 614,252 | 7 |
 | 2023-07-04 | 614,685 | 7 |
-| 2023-07-05 | 614,737 | 7 |
+| 2023-07-05 | 614,757 | 7 |
 ## Awards
 Max (Diverse Characters): 190  (Ranked 273)  
 Sum: 1,533 (Ranked 216)  

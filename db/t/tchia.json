@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6662,
+  "EOS_Progressed": 6663,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4291,6 +4291,11 @@
       "Time": "2023-07-04T22:07:31.6267659+00:00",
       "NumProgressed": 6662,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-05T03:30:42.4838949+00:00",
+      "NumProgressed": 6663,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 21,
@@ -4406,7 +4411,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "LIBERATOR",
@@ -4414,7 +4419,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LIVE_WIRE",
@@ -4422,7 +4427,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "SHREDDER",
@@ -4469,7 +4474,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6662,
+      "Progressed": 6663,
       "Completed": 28
     }
   ],
@@ -4477,8 +4482,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:29:00.0651617+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:30:42.4838942+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:21:20.1567378+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:29:00.0651966+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:21:43.3522663+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:30:42.4839457+00:00"
 }

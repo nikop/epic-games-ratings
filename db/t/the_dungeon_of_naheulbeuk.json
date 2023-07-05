@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 2,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -408,9 +408,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 142586,
+  "EOS_Progressed": 142929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142349,
+  "EOS_NewPlayers": 142692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1958,6 +1958,11 @@
       "Time": "2023-07-05T02:28:56.6211758+00:00",
       "NumProgressed": 142586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T03:30:37.7061153+00:00",
+      "NumProgressed": 142929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1969,7 +1974,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2859
     },
     {
       "ID": "100Fail",
@@ -1993,7 +1998,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -2001,7 +2006,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4278
+      "UsersEstimate": 4288
     },
     {
       "ID": "BookCollection",
@@ -2017,7 +2022,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 27091
+      "UsersEstimate": 27157
     },
     {
       "ID": "Chapter2",
@@ -2025,7 +2030,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7146
     },
     {
       "ID": "Chapter3",
@@ -2033,7 +2038,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2859
     },
     {
       "ID": "Chapter4",
@@ -2041,7 +2046,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1001
     },
     {
       "ID": "Chapter5",
@@ -2049,7 +2054,7 @@
       "Name": "The Great Library",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 572
     },
     {
       "ID": "Chapter6",
@@ -2057,7 +2062,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Chapter7",
@@ -2097,7 +2102,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 572
     },
     {
       "ID": "CompanionNone",
@@ -2105,7 +2110,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "CompanionPaladine",
@@ -2113,7 +2118,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2859
     },
     {
       "ID": "CompanionPriestress",
@@ -2121,7 +2126,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4278
+      "UsersEstimate": 4288
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -2369,7 +2374,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 62738
+      "UsersEstimate": 62889
     },
     {
       "ID": "DwarfElf15Support",
@@ -2385,7 +2390,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "DwarfInsultWin",
@@ -2401,7 +2406,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15722
     },
     {
       "ID": "ElfEpic",
@@ -2409,7 +2414,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -2433,7 +2438,7 @@
       "Name": "GG EZ",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 38498
+      "UsersEstimate": 38591
     },
     {
       "ID": "EndCombatOneHp",
@@ -2441,7 +2446,7 @@
       "Name": "DM intervention",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15684
+      "UsersEstimate": 15722
     },
     {
       "ID": "EndGameCursed",
@@ -2465,7 +2470,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 81274
+      "UsersEstimate": 81470
     },
     {
       "ID": "FollowBraztok",
@@ -2473,7 +2478,7 @@
       "Name": "The beards of change",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "FollowNarzatok",
@@ -2521,7 +2526,7 @@
       "Name": "Gargantua",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Orktobearfest",
@@ -2553,7 +2558,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "QuestEmile",
@@ -2561,7 +2566,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "QuestMinstrel",
@@ -2577,7 +2582,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "QuestPriestess",
@@ -2585,7 +2590,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "RangerEpic",
@@ -2593,7 +2598,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Rogue30Backstab",
@@ -2601,7 +2606,7 @@
       "Name": "I am the night",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 858
     },
     {
       "ID": "RogueEpic",
@@ -2609,7 +2614,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Speedrun",
@@ -2617,7 +2622,7 @@
       "Name": "Speedrun",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 35646
+      "UsersEstimate": 35732
     },
     {
       "ID": "SupportCount4",
@@ -2625,7 +2630,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2859
     },
     {
       "ID": "SystematicallyStupid",
@@ -2649,7 +2654,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 572
     },
     {
       "ID": "WizardEpic",
@@ -2657,36 +2662,36 @@
       "Name": "Material Girl",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "WizardResistBurn",
       "SetID": "50chcgj",
       "Name": "Fireproof Wizardess",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5703
+      "UsersEstimate": 7146
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 142586,
+      "Progressed": 142929,
       "Completed": 0
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 142586,
+      "Progressed": 142929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-07-05T02:22:17.2506487+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:28:56.6211754+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:30:37.7061147+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:58.0447484+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:22:17.2506495+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:28:56.621284+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:23:14.7666235+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:30:37.7062313+00:00"
 }

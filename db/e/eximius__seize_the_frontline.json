@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -270,7 +270,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191215,
+  "EOS_Progressed": 191217,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
@@ -8265,6 +8265,11 @@
       "Time": "2023-07-05T02:28:59.3758478+00:00",
       "NumProgressed": 191215,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T03:30:41.5143827+00:00",
+      "NumProgressed": 191217,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -8284,7 +8289,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 135763
+      "UsersEstimate": 135764
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -8300,7 +8305,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "ACH_INITIATION",
@@ -8403,7 +8408,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 191215,
+      "Progressed": 191217,
       "Completed": 4
     }
   ],
@@ -8411,8 +8416,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-07-01T18:00:42.0601506+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:28:59.3758474+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:30:41.5143819+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:50.8758143+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:22:50.6718476+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:28:59.3759045+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:24:08.7220709+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:30:41.5144599+00:00"
 }

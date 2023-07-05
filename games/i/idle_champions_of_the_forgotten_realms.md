@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,953 |
-| The Mad Wizard | 11.00% | ~22,699 |
-| Are Ya Chicken? | 7.00% | ~14,445 |
-| The Ring of Regeneration | 6.00% | ~12,381 |
-| Were-verpowered | 5.00% | ~10,318 |
-| Mad Cow Disease | 5.00% | ~10,318 |
-| Friendly Imps | 5.00% | ~10,318 |
-| A Persistent Buzzing | 4.00% | ~8,254 |
-| Seeking Allies | 4.00% | ~8,254 |
-| Pure Energy | 4.00% | ~8,254 |
+| The Cursed Farmer | 15.00% | ~30,956 |
+| The Mad Wizard | 11.00% | ~22,701 |
+| Are Ya Chicken? | 7.00% | ~14,446 |
+| The Ring of Regeneration | 6.00% | ~12,382 |
+| Were-verpowered | 5.00% | ~10,319 |
+| Mad Cow Disease | 5.00% | ~10,319 |
+| Friendly Imps | 5.00% | ~10,319 |
+| A Persistent Buzzing | 4.00% | ~8,255 |
+| Seeking Allies | 4.00% | ~8,255 |
+| Pure Energy | 4.00% | ~8,255 |
 | Terror in the Dark | 3.00% | ~6,191 |
 | Unearthed Evil | 3.00% | ~6,191 |
 | The Crumbling Temple | 3.00% | ~6,191 |
@@ -52,13 +52,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.80% | ~1,651 |
 | The Long Haul | 0.80% | ~1,651 |
 | Lost in the Deep | 0.80% | ~1,651 |
-| The Forbidden City | 0.70% | ~1,444 |
-| Captured! | 0.70% | ~1,444 |
-| Wisdom Check | 0.70% | ~1,444 |
-| The Mists of Ravenloft | 0.70% | ~1,444 |
-| Nimble Escape | 0.70% | ~1,444 |
-| The Dead Three | 0.70% | ~1,444 |
-| Easily Distracted | 0.70% | ~1,444 |
+| Easily Distracted | 0.80% | ~1,651 |
+| The Forbidden City | 0.70% | ~1,445 |
+| Captured! | 0.70% | ~1,445 |
+| Wisdom Check | 0.70% | ~1,445 |
+| The Mists of Ravenloft | 0.70% | ~1,445 |
+| Nimble Escape | 0.70% | ~1,445 |
+| The Dead Three | 0.70% | ~1,445 |
 | A Grand Puzzle | 0.60% | ~1,238 |
 | Tomb of the Nine Gods | 0.60% | ~1,238 |
 | Family Entanglements | 0.60% | ~1,238 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,354 (Ranked 52)  
+Progressed: 206,371 (Ranked 52)  
 Completed: 2,028 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,028 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,354 | 2,028 |
+| 2023-07-05 | 206,371 | 2,028 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

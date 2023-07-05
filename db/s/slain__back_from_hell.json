@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28798,
+  "EOS_Progressed": 28803,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 0,
@@ -8261,6 +8261,11 @@
       "Time": "2023-07-05T02:26:06.7122251+00:00",
       "NumProgressed": 28798,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-05T03:26:24.294056+00:00",
+      "NumProgressed": 28803,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8280,7 +8285,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5760
+      "UsersEstimate": 5761
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -8438,9 +8443,9 @@
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
       "SetID": "443p4o4",
       "Name": "Schadenfreude",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -8503,7 +8508,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28798,
+      "Progressed": 28803,
       "Completed": 20
     }
   ],
@@ -8511,8 +8516,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:26:06.7122244+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:26:24.2940553+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:23:05.9750897+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:26:06.7122927+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:24:35.2713987+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:26:24.2941255+00:00"
 }

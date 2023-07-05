@@ -2,9 +2,9 @@
   "ID": "19d61df85a76492f82c4b59fa8f8f9eb",
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 14.41,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -566,6 +566,11 @@
       "Time": "2023-07-04T17:04:05.9093695+00:00",
       "NumProgressed": 111,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-07-05T03:27:16.7069667+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 6,
@@ -583,7 +588,7 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 165,
       "UsersEstimate": 71
     },
@@ -591,7 +596,7 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 165,
       "UsersEstimate": 54
     },
@@ -624,14 +629,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-07-05T02:26:36.4991944+00:00",
+  "LastChanged_Achievements": "2023-07-05T03:27:16.7069635+00:00",
   "LastUpdate_AppInfo": "2023-06-29T11:56:57.2789666+00:00",
-  "LastUpdate_Ratings": "2023-07-05T02:20:20.2866324+00:00",
-  "LastUpdate_Achievements": "2023-07-05T02:26:36.499205+00:00"
+  "LastUpdate_Ratings": "2023-07-05T03:20:15.591762+00:00",
+  "LastUpdate_Achievements": "2023-07-05T03:27:16.706979+00:00"
 }
