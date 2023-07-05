@@ -127,9 +127,9 @@
       "ID": "06-CantBearTheWeight",
       "SetID": "5iij4gg",
       "Name": "Can\u0027t bear the weight",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "07-TakeTheScenicRoute",
@@ -151,9 +151,9 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "10-BridgeBuilder",
@@ -183,25 +183,25 @@
       "ID": "13-TreasureHunter",
       "SetID": "5iij4gg",
       "Name": "Treasure Hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "14-EggOnHisFace",
       "SetID": "5iij4gg",
       "Name": "Egg On His Face",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "16-MrMagic",
@@ -223,9 +223,9 @@
       "ID": "18-GreenThumbGoliath",
       "SetID": "5iij4gg",
       "Name": "Green Thumb Goliath",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "19-WhoDat",
@@ -288,8 +288,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:07:59.5066542+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:05:51.2288906+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:51.2180363+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:02:13.6102297+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:07:59.5066746+00:00"
+  "LastUpdate_Ratings": "2023-07-05T05:00:22.0047675+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:05:51.2289078+00:00"
 }

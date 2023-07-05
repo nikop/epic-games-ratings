@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -82,7 +82,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2592,
+  "EOS_Progressed": 2593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
@@ -1707,6 +1707,11 @@
       "Time": "2023-07-05T03:30:42.5953686+00:00",
       "NumProgressed": 2592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-05T05:05:44.769+00:00",
+      "NumProgressed": 2593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1750,7 +1755,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1814,7 +1819,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1838,7 +1843,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -1846,7 +1851,7 @@
       "Name": "Heavy Steps",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -1926,7 +1931,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_MISSION_04",
@@ -1990,7 +1995,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_MISSION_12",
@@ -1998,7 +2003,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -2014,7 +2019,7 @@
       "Name": "Snatched Out",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2038,7 +2043,7 @@
       "Name": "People Person",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2062,7 +2067,7 @@
       "Name": "The More The Merrier",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -2070,14 +2075,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2592,
+      "Progressed": 2593,
       "Completed": 0
     }
   ],
@@ -2085,8 +2090,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-04T13:17:54.0555792+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:07:50.8978793+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:05:44.7689992+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:00:45.8593229+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:07:50.897929+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:59:23.5313035+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:05:44.7690487+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~30,958 |
-| The Mad Wizard | 11.00% | ~22,703 |
-| Are Ya Chicken? | 7.00% | ~14,447 |
-| The Ring of Regeneration | 6.00% | ~12,383 |
-| Were-verpowered | 5.00% | ~10,319 |
-| Mad Cow Disease | 5.00% | ~10,319 |
-| Friendly Imps | 5.00% | ~10,319 |
+| The Cursed Farmer | 15.00% | ~30,962 |
+| The Mad Wizard | 11.00% | ~22,705 |
+| Are Ya Chicken? | 7.00% | ~14,449 |
+| The Ring of Regeneration | 6.00% | ~12,385 |
+| Were-verpowered | 5.00% | ~10,321 |
+| Mad Cow Disease | 5.00% | ~10,321 |
+| Friendly Imps | 5.00% | ~10,321 |
 | A Persistent Buzzing | 4.00% | ~8,256 |
 | Seeking Allies | 4.00% | ~8,256 |
 | Pure Energy | 4.00% | ~8,256 |
@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.50% | ~1,032 |
 | Enter the Sargauth | 0.50% | ~1,032 |
 | Lair of the Xanathar | 0.50% | ~1,032 |
+| Waterdeep Under Siege | 0.50% | ~1,032 |
 | Difficult Terrain | 0.50% | ~1,032 |
 | The Everlasting Rime | 0.50% | ~863 |
 | Expert Opinion | 0.50% | ~1,032 |
@@ -101,7 +102,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Excavating History | 0.40% | ~826 |
 | Cramped Quarters | 0.40% | ~826 |
 | Slow and Steady | 0.40% | ~826 |
-| Waterdeep Under Siege | 0.40% | ~826 |
 | Vault of Dragons | 0.40% | ~826 |
 | Champions of Waterdeep | 0.40% | ~826 |
 | Elturel Has Fallen | 0.40% | ~826 |
@@ -151,6 +151,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.30% | ~518 |
 | The Radiant Nightmare | 0.30% | ~518 |
 | Overwhelming Force | 0.30% | ~619 |
+| The Castle of a Thousand Vecnas | 0.20% | ~345 |
 | Struggling Toward Omu | 0.20% | ~413 |
 | Wagon Train | 0.20% | ~413 |
 | Taking Responsibility | 0.20% | ~413 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Rite of the Arcane Octad | 0.20% | ~345 |
 | The Netherese Necropolis | 0.20% | ~345 |
 | Frail Doesn't Mean Broken | 0.10% | ~173 |
-| The Castle of a Thousand Vecnas | 0.10% | ~173 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~173 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~173 |
 | The Sanctum of the Sword | 0.10% | ~173 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,389 (Ranked 52)  
+Progressed: 206,412 (Ranked 52)  
 Completed: 2,028 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -586,7 +586,7 @@ Completed: 2,028 (0.98%) (Ranked 101)
 | 2023-07-02 | 204,751 | 2,025 |
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
-| 2023-07-05 | 206,389 | 2,028 |
+| 2023-07-05 | 206,412 | 2,028 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,390 (Ranked 37)  

@@ -30,7 +30,7 @@ Rating: 4.53 (Ranked 505)
 | Complete the Chefs Book | 24.00% | ~417 |
 | Complete Ranger Faction | 21.00% | ~365 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~347 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~313 |
+| Discover the mystery of the Kings Chambers | 19.00% | ~330 |
 | Complete Arena Faction | 15.00% | ~261 |
 | Complete Redgi's Armory | 8.00% | ~139 |
 | King of Kings | 7.00% | ~122 |

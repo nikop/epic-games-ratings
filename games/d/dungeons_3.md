@@ -10,7 +10,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Evilest Evil | 59.00% | ~13,409 |
 | Twistram is devastated | 58.00% | ~13,182 |
 | The Gehenna Stones | 50.00% | ~11,364 |
-| No one has to die today! | 46.00% | ~10,454 |
+| No one has to die today! | 47.00% | ~10,682 |
 | Death and destruction! | 45.00% | ~10,227 |
 | The Swamplanders from the swamplands | 44.00% | ~10,000 |
 | The One-Huge-Army-Building Evil | 41.00% | ~9,318 |

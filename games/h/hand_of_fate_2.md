@@ -39,8 +39,8 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,589 |
 | Champion | 1.00% | ~6,589 |
 | Final Death | 1.00% | ~6,589 |
+| Thomas' Bane | 0.90% | ~5,930 |
 | Ally | 0.80% | ~5,271 |
-| Thomas' Bane | 0.80% | ~5,271 |
 | Gamester | 0.70% | ~4,612 |
 | Hero | 0.60% | ~3,953 |
 | Rebel | 0.60% | ~3,953 |

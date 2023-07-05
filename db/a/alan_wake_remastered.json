@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56837,
+  "EOS_Progressed": 56838,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6972,6 +6972,11 @@
       "Time": "2023-07-05T03:26:13.3246576+00:00",
       "NumProgressed": 56837,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T05:02:11.2246252+00:00",
+      "NumProgressed": 56838,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -6983,7 +6988,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18756
+      "UsersEstimate": 18757
     },
     {
       "ID": "02",
@@ -6999,7 +7004,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11367
+      "UsersEstimate": 11368
     },
     {
       "ID": "04",
@@ -7063,7 +7068,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "12",
@@ -7135,7 +7140,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "21",
@@ -7143,7 +7148,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "22",
@@ -7207,7 +7212,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "30",
@@ -7239,7 +7244,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "34",
@@ -7343,7 +7348,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6820
+      "UsersEstimate": 6821
     },
     {
       "ID": "47",
@@ -7359,7 +7364,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "49",
@@ -7518,21 +7523,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56837,
+      "Progressed": 56838,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20305,
+      "Progressed": 20306,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:03:33.3902702+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:02:11.2246246+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:58:29.0121888+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:03:33.3903985+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:57:49.2295914+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:02:11.224735+00:00"
 }

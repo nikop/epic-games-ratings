@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 802)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,659 |
-| Copacetic Coordination | 16.00% | ~52,403 |
-| Fronting the Money | 14.00% | ~45,853 |
-| The Dawn of Automation | 14.00% | ~45,853 |
-| Extraordinary Logistics | 14.00% | ~45,853 |
+| Corner Clout | 46.00% | ~150,662 |
+| Copacetic Coordination | 16.00% | ~52,404 |
+| Fronting the Money | 14.00% | ~45,854 |
+| The Dawn of Automation | 14.00% | ~45,854 |
+| Extraordinary Logistics | 14.00% | ~45,854 |
 | Dirty Money | 13.00% | ~42,578 |
 | Family First | 13.00% | ~42,578 |
-| Cleaning House | 12.00% | ~39,302 |
-| Room in the Back | 12.00% | ~39,302 |
-| Booze Baron | 11.00% | ~36,027 |
+| Cleaning House | 12.00% | ~39,303 |
+| Room in the Back | 12.00% | ~39,303 |
+| Booze Baron | 11.00% | ~36,028 |
 | Beating the Heat | 10.00% | ~32,752 |
 | Friends on the Force | 10.00% | ~32,752 |
 | Neighborhood Watch | 10.00% | ~32,752 |
 | Core Corps | 8.00% | ~26,202 |
-| Sizeable Stash | 7.00% | ~22,926 |
-| Street Fighter | 7.00% | ~22,926 |
-| Friendly Gestures | 7.00% | ~22,926 |
-| People Person | 7.00% | ~22,926 |
-| Liquor Lord | 6.00% | ~19,651 |
-| Safety in Numbers | 6.00% | ~19,651 |
-| Show ‘em the Sugar | 6.00% | ~19,651 |
-| Killing Them Softly | 6.00% | ~19,651 |
+| Sizeable Stash | 7.00% | ~22,927 |
+| Street Fighter | 7.00% | ~22,927 |
+| Friendly Gestures | 7.00% | ~22,927 |
+| People Person | 7.00% | ~22,927 |
+| Liquor Lord | 6.00% | ~19,652 |
+| Safety in Numbers | 6.00% | ~19,652 |
+| Show ‘em the Sugar | 6.00% | ~19,652 |
+| Killing Them Softly | 6.00% | ~19,652 |
 | Street Knowledge | 5.00% | ~16,376 |
 | Oh Captain | 5.00% | ~16,376 |
 | Branching Out | 5.00% | ~16,376 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 802)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,520 (Ranked 40)  
+Progressed: 327,525 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.00%) (Ranked 232)
 | 2023-07-02 | 327,037 | 5 |
 | 2023-07-03 | 327,260 | 5 |
 | 2023-07-04 | 327,471 | 5 |
-| 2023-07-05 | 327,520 | 5 |
+| 2023-07-05 | 327,525 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 115 (Ranked 401)  

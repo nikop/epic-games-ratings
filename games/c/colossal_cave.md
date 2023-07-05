@@ -7,22 +7,22 @@
 | We've only just begun | 98.00% | ~82 |
 | You're spelunkin' now! | 87.00% | ~73 |
 | The Birdman of The Caves | 52.00% | ~44 |
-| I've Fallen & I Can't Get Up | 50.00% | ~42 |
+| I've Fallen & I Can't Get Up | 51.00% | ~43 |
 | Charmin' the Snake | 37.00% | ~31 |
 | Drums in the Deep | 23.00% | ~19 |
 | Treasure Seeker | 23.00% | ~19 |
 | Bridge Builder | 23.00% | ~19 |
+| Treasure Hunter | 14.00% | ~12 |
+| Green Thumb Goliath | 14.00% | ~12 |
 | Take the Scenic Route | 13.00% | ~11 |
-| Treasure Hunter | 13.00% | ~11 |
-| Green Thumb Goliath | 13.00% | ~11 |
 | St. George's Gauntlet | 12.00% | ~10 |
 | Redbeard's Revenger | 12.00% | ~10 |
-| BJ & The Bear | 10.00% | ~8 |
+| BJ & The Bear | 11.00% | ~9 |
 | Mr. Magic | 8.00% | ~7 |
 | Who dat? | 8.00% | ~7 |
 | Soft Hands | 8.00% | ~7 |
-| Can't bear the weight | 6.00% | ~5 |
-| Egg On His Face | 6.00% | ~5 |
+| Can't bear the weight | 7.00% | ~6 |
+| Egg On His Face | 7.00% | ~6 |
 | Batteries not Included | 6.00% | ~5 |
 | What a Winner! | 6.00% | ~5 |
 | Master Cave Plunderer | 5.00% | ~4 |

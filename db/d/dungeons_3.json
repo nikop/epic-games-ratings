@@ -10248,9 +10248,9 @@
       "ID": "ACH_D3_Campaign_Cathedral_2",
       "SetID": "cda475f",
       "Name": "No one has to die today!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 10454
+      "UsersEstimate": 10682
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -10728,8 +10728,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-07-01T14:59:02.6820199+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:07:14.1696314+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:05:18.9798894+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:12.1553094+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:00:35.6292108+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:07:14.1697818+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:59:13.7488914+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:05:18.9799911+00:00"
 }

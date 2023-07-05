@@ -29,16 +29,17 @@
 | Siege Unit | 3.00% | ~94 |
 | Divine Assemblage | 3.00% | ~94 |
 | Ophiolatreia | 3.00% | ~94 |
+| Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
 | Vandili | 2.00% | ~63 |
 | Cloaca Maxima | 2.00% | ~63 |
+| Baby Crabs They Ain't | 2.00% | ~63 |
 | Halls of Marble | 2.00% | ~63 |
 | Mors Omnibus | 2.00% | ~63 |
 | Blot Out the Sky | 2.00% | ~63 |
 | Serpentine | 2.00% | ~63 |
 | The Nameless One | 1.00% | ~31 |
-| Wayward Son of Hephaestus | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
 | Rock and a Hard Place | 1.00% | ~31 |
@@ -51,7 +52,6 @@
 | The Archimedes Principle | 1.00% | ~31 |
 | Rites at Sea | 1.00% | ~31 |
 | Close Shut the Doors | 1.00% | ~31 |
-| Baby Crabs They Ain't | 1.00% | ~31 |
 | Scrap Metal | 1.00% | ~31 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
@@ -61,8 +61,8 @@
 | Debauchery | 0.40% | ~13 |
 | Blessing of Spring | 0.40% | ~13 |
 | Interrupt the Interloper | 0.40% | ~13 |
+| Elephantine | 0.40% | ~13 |
 | Buyer's Remorse | 0.30% | ~9 |
-| Elephantine | 0.30% | ~9 |
 | Library of Alexandria | 0.10% | ~3 |
 | Chitinous | 0.10% | ~3 |
 | Nectar of Eternity | 0.00% | ~0 |

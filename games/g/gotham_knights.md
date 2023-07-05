@@ -6,9 +6,9 @@ Rating: 4.18 (Ranked 852)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 6.00% | ~3,988 |
-| To the Victor Go the Spoils | 4.00% | ~2,658 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,658 |
-| Loose Ends | 4.00% | ~2,658 |
+| To the Victor Go the Spoils | 4.00% | ~2,659 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,659 |
+| Loose Ends | 4.00% | ~2,659 |
 | The Batman Family | 3.00% | ~1,994 |
 | Something in the Clay | 3.00% | ~1,994 |
 | Quartzer Life Crisis | 3.00% | ~1,994 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 852)
 | History Major | 0.10% | ~66 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,462 (Ranked 73)  
+Progressed: 66,466 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-02 | 66,310 | 100 |
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
-| 2023-07-05 | 66,462 | 100 |
+| 2023-07-05 | 66,466 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,416  (Ranked 100)  
 Sum: 4,000 (Ranked 137)  

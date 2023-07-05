@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -858,7 +858,7 @@
   ],
   "EOS_Progressed": 658853,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8273,9 +8273,9 @@
       "ID": "Achievement_42_Thomas_Bane",
       "SetID": "27hb4pl",
       "Name": "Thomas\u0027 Bane",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5271
+      "UsersEstimate": 5930
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -8337,8 +8337,8 @@
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-06-25T21:57:44.8924564+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:08:05.866091+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:05:56.2899575+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:58.407965+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:58:24.0731399+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:08:05.8661895+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:57:46.861784+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:05:56.2900431+00:00"
 }

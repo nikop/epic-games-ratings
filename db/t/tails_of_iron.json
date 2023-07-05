@@ -2055,9 +2055,9 @@
       "ID": "MysteryKingsChamber",
       "SetID": "9lj35g4",
       "Name": "Discover the mystery of the Kings Chambers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 330
     },
     {
       "ID": "RepairChef",
@@ -2118,8 +2118,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-06-23T03:22:59.0074005+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:02:49.7321752+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:00:46.5328332+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:00.0888696+00:00",
-  "LastUpdate_Ratings": "2023-07-05T03:59:24.5655495+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:02:49.7322126+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:58:28.0959098+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:00:46.5328667+00:00"
 }

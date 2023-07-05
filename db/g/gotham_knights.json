@@ -1898,9 +1898,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66462,
+  "EOS_Progressed": 66466,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8703,6 +8703,11 @@
       "Time": "2023-07-05T04:02:40.1461724+00:00",
       "NumProgressed": 66462,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-05T05:00:39.0325786+00:00",
+      "NumProgressed": 66466,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8938,7 +8943,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "FREEZE_1_5",
@@ -9018,7 +9023,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "HARLEY_2",
@@ -9106,7 +9111,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "MYSTERY_02",
@@ -9201,13 +9206,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66462,
+      "Progressed": 66466,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36742,
+      "Progressed": 36746,
       "Completed": 2650
     }
   ],
@@ -9215,8 +9220,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-04T20:00:58.9867831+00:00",
-  "LastChanged_Achievements": "2023-07-05T04:02:40.1461719+00:00",
+  "LastChanged_Achievements": "2023-07-05T05:00:39.0325781+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-05T04:01:19.499588+00:00",
-  "LastUpdate_Achievements": "2023-07-05T04:02:40.1462736+00:00"
+  "LastUpdate_Ratings": "2023-07-05T04:59:45.7969673+00:00",
+  "LastUpdate_Achievements": "2023-07-05T05:00:39.0326943+00:00"
 }
