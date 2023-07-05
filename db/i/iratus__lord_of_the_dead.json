@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -1928,18 +1928,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 4144,
       "NumberOfAwardsMax": 2139
+    },
+    {
+      "Time": "2023-07-05T09:59:34.4348189+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4145,
+      "NumberOfAwardsMax": 2140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4144,
-  "NumberOfAwardsMax": 2139,
+  "NumberOfAwards": 4145,
+  "NumberOfAwardsMax": 2140,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2139
+      "Count": 2140
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2002,9 +2008,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 34029,
+  "EOS_Progressed": 34030,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9952,6 +9958,11 @@
       "Time": "2023-07-05T09:03:08.2504511+00:00",
       "NumProgressed": 34029,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-07-05T10:02:14.9972464+00:00",
+      "NumProgressed": 34030,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 75,
@@ -10067,7 +10078,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20417
+      "UsersEstimate": 20418
     },
     {
       "ID": "achievements_24",
@@ -10091,7 +10102,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14292
+      "UsersEstimate": 14293
     },
     {
       "ID": "achievements_27",
@@ -10155,7 +10166,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 9868
+      "UsersEstimate": 9869
     },
     {
       "ID": "achievements_34",
@@ -10163,7 +10174,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "achievements_35",
@@ -10211,7 +10222,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 22459
+      "UsersEstimate": 22460
     },
     {
       "ID": "achievements_40",
@@ -10227,7 +10238,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "achievements_42",
@@ -10259,7 +10270,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "achievements_46",
@@ -10267,7 +10278,7 @@
       "Name": "Improvement",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 29265
+      "UsersEstimate": 29266
     },
     {
       "ID": "achievements_47",
@@ -10323,7 +10334,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 14292
+      "UsersEstimate": 14293
     },
     {
       "ID": "achievements_53",
@@ -10339,7 +10350,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 14632
+      "UsersEstimate": 14633
     },
     {
       "ID": "achievements_55",
@@ -10427,7 +10438,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "achievements_66",
@@ -10435,7 +10446,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 7486
+      "UsersEstimate": 7487
     },
     {
       "ID": "achievements_67",
@@ -10539,7 +10550,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 24841
+      "UsersEstimate": 24842
     },
     {
       "ID": "achievements_8",
@@ -10562,15 +10573,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 34029,
+      "Progressed": 34030,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2023-06-20T13:07:30.3079787+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:03:08.2504506+00:00",
+  "LastChanged": "2023-07-05T09:59:34.4348168+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:02:14.9972458+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:35.3776704+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:59:10.0537461+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:03:08.2505909+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:59:34.4348194+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:02:14.9976913+00:00"
 }

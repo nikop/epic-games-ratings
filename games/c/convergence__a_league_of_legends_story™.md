@@ -35,6 +35,7 @@
 | Chaincrawler Explorer | 8.00% | ~59 |
 | Theater Explorer | 8.00% | ~59 |
 | Good Neighbor | 8.00% | ~59 |
+| Cultivair Explorer | 7.00% | ~52 |
 | Family Memories | 7.00% | ~52 |
 | Fairgrounds Explorer | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |
@@ -42,7 +43,6 @@
 | Ask Questions Later | 7.00% | ~52 |
 | Corin Goes Home | 6.00% | ~45 |
 | Sartorialist | 6.00% | ~45 |
-| Cultivair Explorer | 6.00% | ~45 |
 | Entresol Explorer | 6.00% | ~45 |
 | Factorywood Explorer | 6.00% | ~45 |
 | Golem Hunter | 5.00% | ~37 |
@@ -52,7 +52,7 @@
 | Wunderkind | 2.00% | ~15 |
 | Fitting In | 2.00% | ~15 |
 | Thinking Two Steps Ahead | 1.00% | ~7 |
-| No Time to Waste | 0.80% | ~6 |
+| No Time to Waste | 0.90% | ~7 |
 | Wildlife Protection | 0.70% | ~5 |
 | A Lesson in Precision | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |

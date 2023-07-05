@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -4002,9 +4002,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 282
     },
     {
       "ID": "fellowshippower",
@@ -4435,8 +4435,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:06:44.9553731+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:07:07.6626919+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:58:21.9750364+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:06:44.9554631+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:58:33.5734249+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:07:07.6627792+00:00"
 }

@@ -23,11 +23,11 @@ Rating: 4.44 (Ranked 638)
 | As Quiet as a Mouse | 0.90% | ~29 |
 | Organ Grinder | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
+| Explosive Efficiency | 0.70% | ~22 |
 | Der Geist | 0.70% | ~22 |
 | Brains of the Operation | 0.70% | ~22 |
 | Skirmisher | 0.60% | ~19 |
 | Set Europe Ablaze | 0.60% | ~19 |
-| Explosive Efficiency | 0.60% | ~19 |
 | Snake in the Grass | 0.60% | ~19 |
 | Enemy at the Gates | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |

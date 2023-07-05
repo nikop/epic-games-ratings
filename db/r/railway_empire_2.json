@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -2978,9 +2978,9 @@
       "ID": "A04",
       "SetID": "9b7p7eo",
       "Name": "Go West",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 176
     },
     {
       "ID": "A05",
@@ -3395,8 +3395,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:06:46.4559618+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:07:09.4501816+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:58:29.5500394+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:06:46.4560204+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:58:41.3135516+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:07:09.4503017+00:00"
 }

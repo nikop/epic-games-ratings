@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -980,6 +980,11 @@
       "Time": "2023-07-04T05:03:35.6182831+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-05T10:03:56.300315+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1023,7 +1028,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1031,7 +1036,7 @@
       "Name": "Worldwalker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -1063,7 +1068,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1135,7 +1140,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -1151,7 +1156,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1167,7 +1172,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_mythwalker",
@@ -1183,7 +1188,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1237,9 +1242,9 @@
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "completedStory_monarchs",
@@ -1271,7 +1276,7 @@
       "Name": "A Hunger, Sated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1295,7 +1300,7 @@
       "Name": "Core Failure",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1335,7 +1340,7 @@
       "Name": "Grillmaster",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "theme_foothill_takeNoDamage20Times",
@@ -1431,22 +1436,22 @@
       "Name": "No Time for Clawmonsters",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:04:06.9819221+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:03:56.3003144+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-05T09:01:01.039294+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:04:06.9819794+00:00"
+  "LastUpdate_Ratings": "2023-07-05T10:01:53.6784687+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:03:56.3003919+00:00"
 }

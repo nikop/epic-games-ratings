@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 2598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2032,9 +2032,9 @@
       "ID": "ACH_PREVENT_ABDUCTED",
       "SetID": "816efe",
       "Name": "Snatched Out",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1897
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2072,9 +2072,9 @@
       "ID": "ACH_SENTRY_KILLS",
       "SetID": "816efe",
       "Name": "Recouped Investment",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2105,8 +2105,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-04T13:17:54.0555792+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:06:31.1172742+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:06:51.4816824+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:59:44.4973598+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:06:31.117321+00:00"
+  "LastUpdate_Ratings": "2023-07-05T10:00:17.5904534+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:06:51.4817504+00:00"
 }

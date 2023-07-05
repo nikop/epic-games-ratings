@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-07-05T08:04:42.6324062+00:00",
       "NumProgressed": 664,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-05T10:04:55.4575508+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -462,7 +467,7 @@
       "Name": "Across The Stars",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -518,7 +523,7 @@
       "Name": "Crafty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Achievement_DontPanic",
@@ -526,7 +531,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Achievement_DustToDust",
@@ -534,15 +539,15 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Achievement_EcoShuttle",
       "SetID": "c01p6e5",
       "Name": "Eco-Shuttle",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 120
     },
     {
       "ID": "Achievement_ExtremeMakeover",
@@ -574,7 +579,7 @@
       "Name": "First of April",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -582,15 +587,15 @@
       "Name": "Fix-It Felix",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 213
     },
     {
       "ID": "Achievement_Friendzone",
@@ -630,7 +635,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "Achievement_Improvinator",
@@ -670,7 +675,7 @@
       "Name": "Flawless Maegangement",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_MeetThePetersons",
@@ -718,7 +723,7 @@
       "Name": "Second Life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_SmallStep",
@@ -742,7 +747,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -750,7 +755,7 @@
       "Name": "Space Engineer",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -790,7 +795,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Achievement_Traitor",
@@ -805,7 +810,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 1
     }
   ],
@@ -813,8 +818,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:04:55.0388759+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:04:55.45755+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:38.5301057+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:59:12.3152985+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:04:55.0389158+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:59:39.2448073+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:04:55.4575898+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 92.00% | ~6,914 |
-| Photogenic | 88.00% | ~6,613 |
-| Surge Gauntlet Jockey | 86.00% | ~6,463 |
-| Plug It In | 85.00% | ~6,388 |
-| Adventure Time | 80.00% | ~6,012 |
+| Let's Get This Party Started | 92.00% | ~6,915 |
+| Photogenic | 88.00% | ~6,614 |
+| Plug It In | 85.00% | ~6,389 |
+| Surge Gauntlet Jockey | 85.00% | ~6,389 |
+| Adventure Time | 80.00% | ~6,013 |
 | Playing With Power | 78.00% | ~5,862 |
 | Coup d'Etat | 59.00% | ~4,434 |
 | You're Fired | 58.00% | ~4,359 |
-| Get Furious | 56.00% | ~4,208 |
-| Gunplay And Cosplay | 55.00% | ~4,133 |
-| Hacks In Stacks | 55.00% | ~4,133 |
-| Meching Enemies | 49.00% | ~3,682 |
+| Get Furious | 56.00% | ~4,209 |
+| Gunplay And Cosplay | 55.00% | ~4,134 |
+| Hacks In Stacks | 55.00% | ~4,134 |
+| Meching Enemies | 49.00% | ~3,683 |
 | Ticket Toddler | 45.00% | ~3,382 |
-| Booty Bashing | 43.00% | ~3,231 |
+| Booty Bashing | 43.00% | ~3,232 |
 | Field Medic | 38.00% | ~2,856 |
 | Here Comes a New Challenger | 38.00% | ~2,856 |
 | Rapid Response | 33.00% | ~2,480 |
 | Surge Ahead | 31.00% | ~2,330 |
 | The Full Monty | 31.00% | ~2,330 |
-| Guardian Angel | 30.00% | ~2,254 |
+| Guardian Angel | 30.00% | ~2,255 |
 | Poppin Noggins | 25.00% | ~1,879 |
 | Clips and Crits | 21.00% | ~1,578 |
 | Grey Goo | 19.00% | ~1,428 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~38 |
 | Pyrotechnical | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,515 (Ranked 120)  
+Progressed: 7,516 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 232)
 | 2023-07-02 | 7,493 | 0 |
 | 2023-07-03 | 7,496 | 0 |
 | 2023-07-04 | 7,512 | 0 |
-| 2023-07-05 | 7,515 | 0 |
+| 2023-07-05 | 7,516 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 384)  
 Sum: 488 (Ranked 298)  

@@ -19,10 +19,10 @@ Rating: 4.19 (Ranked 844)
 | Without A Paddle | 1.00% | ~156 |
 | In the Pipe, Five by Five | 1.00% | ~156 |
 | Crash Site | 1.00% | ~156 |
+| Full Circle | 1.00% | ~156 |
 | It's Time | 1.00% | ~36 |
 | If the SHU Fits... | 0.90% | ~141 |
 | What Lies Beneath | 0.90% | ~141 |
-| Full Circle | 0.90% | ~141 |
 | Power Up | 0.90% | ~141 |
 | Giving Back | 0.80% | ~125 |
 | Terminated | 0.80% | ~125 |

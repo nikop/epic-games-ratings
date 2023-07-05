@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~25,373 |
-| Just The Two of Us | 33.00% | ~24,627 |
-| Up On High | 25.00% | ~18,656 |
-| Under The Hood | 25.00% | ~18,656 |
-| Got Your Nose | 24.00% | ~17,910 |
-| The Gift of Gab | 24.00% | ~17,910 |
-| Wrapping Up | 22.00% | ~16,418 |
-| More Than A Box Of Sand | 18.00% | ~13,433 |
-| The Dunboyne | 17.00% | ~12,686 |
-| Badge Hobbyist | 17.00% | ~12,686 |
-| Chum Novice | 16.00% | ~11,940 |
-| Silver-Tongued Sable | 16.00% | ~11,940 |
-| Sticky Paws | 16.00% | ~11,940 |
-| Bubble Up | 16.00% | ~11,940 |
-| Thread The Needle | 15.00% | ~11,194 |
-| Power to the People | 14.00% | ~10,448 |
-| Take That! | 13.00% | ~9,701 |
-| Nesting Giant | 13.00% | ~9,701 |
-| Treasure Tracker | 13.00% | ~9,701 |
-| Big Spender | 13.00% | ~9,701 |
-| Badge Collector | 12.00% | ~8,955 |
-| Quite The Catch | 12.00% | ~8,955 |
-| Rowleys Way | 11.00% | ~8,209 |
+| Simoon | 34.00% | ~25,375 |
+| Just The Two of Us | 33.00% | ~24,629 |
+| Up On High | 25.00% | ~18,658 |
+| Under The Hood | 25.00% | ~18,658 |
+| Got Your Nose | 24.00% | ~17,912 |
+| The Gift of Gab | 24.00% | ~17,912 |
+| Wrapping Up | 22.00% | ~16,419 |
+| More Than A Box Of Sand | 18.00% | ~13,434 |
+| The Dunboyne | 17.00% | ~12,688 |
+| Badge Hobbyist | 17.00% | ~12,688 |
+| Chum Novice | 16.00% | ~11,941 |
+| Silver-Tongued Sable | 16.00% | ~11,941 |
+| Sticky Paws | 16.00% | ~11,941 |
+| Bubble Up | 16.00% | ~11,941 |
+| Thread The Needle | 15.00% | ~11,195 |
+| Power to the People | 14.00% | ~10,449 |
+| Take That! | 13.00% | ~9,702 |
+| Nesting Giant | 13.00% | ~9,702 |
+| Treasure Tracker | 13.00% | ~9,702 |
+| Big Spender | 13.00% | ~9,702 |
+| Badge Collector | 12.00% | ~8,956 |
+| Quite The Catch | 12.00% | ~8,956 |
+| Rowleys Way | 11.00% | ~8,210 |
 | The Machinist Mask | 10.00% | ~7,463 |
 | The Cartographer Mask | 10.00% | ~7,463 |
 | Balfron Connection | 10.00% | ~7,463 |
 | Ceiling Of Stars | 10.00% | ~7,463 |
 | Playing Dress Up | 10.00% | ~7,463 |
-| Many Different Faces | 9.00% | ~6,716 |
-| Trellick's Pillar | 9.00% | ~6,716 |
-| Centre Of Brunswick | 9.00% | ~6,716 |
-| Bike Collector | 9.00% | ~6,716 |
-| Not That Kind Of Gliding | 9.00% | ~6,716 |
-| The Scrapper Mask | 8.00% | ~5,970 |
-| Shadow Of Neave | 8.00% | ~5,970 |
-| Fragile Goods | 8.00% | ~5,970 |
-| Glider on the Storm | 8.00% | ~5,970 |
-| Squeeze One Out | 8.00% | ~5,970 |
-| Dune Rider | 8.00% | ~5,970 |
+| Many Different Faces | 9.00% | ~6,717 |
+| Trellick's Pillar | 9.00% | ~6,717 |
+| Centre Of Brunswick | 9.00% | ~6,717 |
+| Bike Collector | 9.00% | ~6,717 |
+| Not That Kind Of Gliding | 9.00% | ~6,717 |
+| The Scrapper Mask | 8.00% | ~5,971 |
+| Shadow Of Neave | 8.00% | ~5,971 |
+| Fragile Goods | 8.00% | ~5,971 |
+| Glider on the Storm | 8.00% | ~5,971 |
+| Squeeze One Out | 8.00% | ~5,971 |
+| Dune Rider | 8.00% | ~5,971 |
 | Amateur Historian | 7.00% | ~5,224 |
 | The Beetle Mask | 7.00% | ~5,224 |
 | The Guard Mask | 7.00% | ~5,224 |
@@ -54,7 +54,7 @@ Number of Ratings: 43  (23.09.2022)
 | Honorary Chum | 6.00% | ~4,478 |
 | A Hard Place | 6.00% | ~4,478 |
 | Bikes Don't Fly | 6.00% | ~4,478 |
-| The Entertainer Mask | 5.00% | ~3,731 |
+| The Entertainer Mask | 5.00% | ~3,732 |
 | The Gliding | 4.00% | ~2,985 |
 | The Quick and the Curious | 4.00% | ~2,985 |
 | Bike Aficionado | 4.00% | ~2,985 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,239 |
 | Vivacious Vivarium | 2.00% | ~1,493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,626 (Ranked 71)  
+Progressed: 74,633 (Ranked 71)  
 Completed: 722 (0.97%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 722 (0.97%) (Ranked 102)
 | 2023-07-02 | 74,025 | 715 |
 | 2023-07-03 | 74,275 | 719 |
 | 2023-07-04 | 74,534 | 720 |
-| 2023-07-05 | 74,626 | 722 |
+| 2023-07-05 | 74,633 | 722 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

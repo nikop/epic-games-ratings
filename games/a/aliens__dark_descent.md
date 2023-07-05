@@ -6,7 +6,7 @@ Rating: 4.44 (Ranked 638)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 79.00% | ~2,052 |
-| Snatched Out | 72.00% | ~1,871 |
+| Snatched Out | 73.00% | ~1,897 |
 | Keep 'Em Coming | 70.00% | ~1,819 |
 | Cleaning Lethe, One Nest At A Time | 61.00% | ~1,585 |
 | Call Me Snake | 55.00% | ~1,429 |
@@ -20,8 +20,8 @@ Rating: 4.44 (Ranked 638)
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~935 |
 | Harper's Hell | 33.00% | ~857 |
 | Making a Stand | 31.00% | ~805 |
+| Recouped Investment | 29.00% | ~753 |
 | Omelette Du Fromage | 28.00% | ~727 |
-| Recouped Investment | 28.00% | ~727 |
 | Where It All Begun | 26.00% | ~675 |
 | The More The Merrier | 19.00% | ~494 |
 | Living Nightmare | 18.00% | ~468 |

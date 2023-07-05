@@ -868,7 +868,7 @@
   ],
   "EOS_Progressed": 15638,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -5513,9 +5513,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "STORY_TUNNELS",
@@ -5656,8 +5656,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-04T19:58:31.8276242+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:05:34.1681905+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:05:43.8203799+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:58:18.4120503+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:05:34.1682597+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:58:26.3010911+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:05:43.8204661+00:00"
 }

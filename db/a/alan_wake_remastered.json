@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56843,
+  "EOS_Progressed": 56844,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6992,6 +6992,11 @@
       "Time": "2023-07-05T09:03:28.0222713+00:00",
       "NumProgressed": 56843,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-05T10:03:07.6131792+00:00",
+      "NumProgressed": 56844,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7003,7 +7008,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18758
+      "UsersEstimate": 18759
     },
     {
       "ID": "02",
@@ -7115,7 +7120,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "16",
@@ -7267,7 +7272,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "35",
@@ -7315,7 +7320,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "41",
@@ -7339,7 +7344,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8526
+      "UsersEstimate": 8527
     },
     {
       "ID": "44",
@@ -7538,21 +7543,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56843,
+      "Progressed": 56844,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20311,
+      "Progressed": 20312,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T09:03:28.0222707+00:00",
+  "LastChanged_Achievements": "2023-07-05T10:03:07.6131785+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T08:58:03.3988249+00:00",
-  "LastUpdate_Achievements": "2023-07-05T09:03:28.0223787+00:00"
+  "LastUpdate_Ratings": "2023-07-05T09:58:10.5757328+00:00",
+  "LastUpdate_Achievements": "2023-07-05T10:03:07.6133336+00:00"
 }
