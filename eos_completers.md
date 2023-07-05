@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 21.95% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.74% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.69% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
@@ -149,10 +149,10 @@
 | 147 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 148 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 148 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
-| 150 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 150 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
-| 150 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
-| 150 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
+| 148 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 151 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 151 | [Against the Storm](games/a/against_the_storm.md) | 0.25% |
+| 151 | [Despot's Game](games/d/despot's_game.md) | 0.25% |
 | 154 | [Blanc](games/b/blanc.md) | 0.24% |
 | 155 | [Filament](games/f/filament.md) | 0.23% |
 | 155 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.23% |
