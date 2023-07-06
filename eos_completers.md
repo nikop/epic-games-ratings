@@ -14,7 +14,7 @@
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.32% |
+| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.30% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
@@ -29,7 +29,7 @@
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.91% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
