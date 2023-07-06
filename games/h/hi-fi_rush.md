@@ -6,8 +6,10 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.40% | ~8 |
+| Time to pay up! | 0.20% | ~7 |
 | Who's the boss now? | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
+| You got this, Peppermint? | 0.20% | ~7 |
 | Call me Turbo Chai | 0.20% | ~4 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
@@ -15,7 +17,6 @@ Rating: 4.87 (Ranked 25)
 | This will cost you big time | 0.10% | ~3 |
 | The Negotiator | 0.10% | ~3 |
 | Headliner | 0.10% | ~3 |
-| Time to pay up! | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Thanks for the free chip, Peppermint! | 0.10% | ~3 |
@@ -24,7 +25,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read these things? | 0.10% | ~3 |
 | Feeling the beat! | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
-| You got this, Peppermint? | 0.10% | ~3 |
 | You must like calling me in, Chai | 0.10% | ~3 |
 | Z-shielding's got nothing on us! | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |

@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,058 |
-| The Mad Wizard | 11.00% | ~22,776 |
-| The Ring of Regeneration | 7.00% | ~14,494 |
-| Are Ya Chicken? | 7.00% | ~14,494 |
+| The Cursed Farmer | 15.00% | ~31,060 |
+| The Mad Wizard | 11.00% | ~22,777 |
+| The Ring of Regeneration | 7.00% | ~14,495 |
+| Are Ya Chicken? | 7.00% | ~14,495 |
 | Were-verpowered | 5.00% | ~10,353 |
 | Seeking Allies | 5.00% | ~10,353 |
 | Mad Cow Disease | 5.00% | ~10,353 |
 | Friendly Imps | 5.00% | ~10,353 |
-| A Persistent Buzzing | 4.00% | ~8,282 |
-| Pure Energy | 4.00% | ~8,282 |
+| A Persistent Buzzing | 4.00% | ~8,283 |
+| Pure Energy | 4.00% | ~8,283 |
 | Terror in the Dark | 3.00% | ~6,212 |
 | Unearthed Evil | 3.00% | ~6,212 |
 | The Crumbling Temple | 3.00% | ~6,212 |
@@ -45,16 +45,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 1.00% | ~2,071 |
 | The Templar's Camp | 1.00% | ~2,071 |
 | Rescue in the Jungle | 1.00% | ~2,071 |
-| Homecoming | 0.90% | ~1,863 |
-| Trollskull Manor | 0.90% | ~1,863 |
-| Dinosaur Racing | 0.90% | ~1,863 |
-| The Lost Heir of Omu | 0.80% | ~1,656 |
-| The Forbidden City | 0.80% | ~1,656 |
-| Attack on the Manor | 0.80% | ~1,656 |
-| The Dead Three | 0.80% | ~1,656 |
-| The Long Haul | 0.80% | ~1,656 |
-| Lost in the Deep | 0.80% | ~1,656 |
-| Easily Distracted | 0.80% | ~1,656 |
+| Homecoming | 0.90% | ~1,864 |
+| Trollskull Manor | 0.90% | ~1,864 |
+| Dinosaur Racing | 0.90% | ~1,864 |
+| The Lost Heir of Omu | 0.80% | ~1,657 |
+| The Forbidden City | 0.80% | ~1,657 |
+| Attack on the Manor | 0.80% | ~1,657 |
+| The Dead Three | 0.80% | ~1,657 |
+| The Long Haul | 0.80% | ~1,657 |
+| Lost in the Deep | 0.80% | ~1,657 |
+| Easily Distracted | 0.80% | ~1,657 |
 | Captured! | 0.70% | ~1,449 |
 | Wisdom Check | 0.70% | ~1,449 |
 | A Grand Puzzle | 0.70% | ~1,449 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,051 (Ranked 52)  
+Progressed: 207,068 (Ranked 52)  
 Completed: 2,034 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,034 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,051 | 2,034 |
+| 2023-07-06 | 207,068 | 2,034 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,405 (Ranked 37)  

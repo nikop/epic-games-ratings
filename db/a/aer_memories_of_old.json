@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14516,
+  "EOS_Progressed": 14517,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -8354,6 +8354,11 @@
       "Time": "2023-07-06T08:06:43.0254356+00:00",
       "NumProgressed": 14516,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-07-06T09:03:33.8848017+00:00",
+      "NumProgressed": 14517,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 20,
@@ -8381,7 +8386,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -8389,7 +8394,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -8429,7 +8434,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "FOUND_ERIN",
@@ -8485,7 +8490,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 11032
+      "UsersEstimate": 11033
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -8493,7 +8498,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "NORTH_FINISHED",
@@ -8524,15 +8529,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 14516,
+      "Progressed": 14517,
       "Completed": 306
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-07-06T08:06:43.025435+00:00",
+  "LastChanged_Achievements": "2023-07-06T09:03:33.8848014+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:31.8640473+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:04:53.4274419+00:00",
-  "LastUpdate_Achievements": "2023-07-06T08:06:43.025501+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:01:59.6437935+00:00",
+  "LastUpdate_Achievements": "2023-07-06T09:03:33.884848+00:00"
 }

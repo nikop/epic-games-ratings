@@ -6405,9 +6405,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 45065,
+  "EOS_Progressed": 45066,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 336,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13040,6 +13040,11 @@
       "Time": "2023-07-06T08:07:14.1968987+00:00",
       "NumProgressed": 45065,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-06T09:04:05.2628163+00:00",
+      "NumProgressed": 45066,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -13123,7 +13128,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "CultivateFirst",
@@ -13179,7 +13184,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 7210
+      "UsersEstimate": 7211
     },
     {
       "ID": "FertilizeFirst",
@@ -13187,7 +13192,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 27039
+      "UsersEstimate": 27040
     },
     {
       "ID": "Harvested",
@@ -13203,7 +13208,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 34249
+      "UsersEstimate": 34250
     },
     {
       "ID": "HorseJumps",
@@ -13227,7 +13232,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "LoadedOldSavegame",
@@ -13235,7 +13240,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 21631
+      "UsersEstimate": 21632
     },
     {
       "ID": "Mission",
@@ -13259,7 +13264,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 23884
+      "UsersEstimate": 23885
     },
     {
       "ID": "NumBeehives",
@@ -13291,7 +13296,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7210
+      "UsersEstimate": 7211
     },
     {
       "ID": "NumVehiclesLarge",
@@ -13339,7 +13344,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28391
+      "UsersEstimate": 28392
     },
     {
       "ID": "Stones",
@@ -13363,7 +13368,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7210
+      "UsersEstimate": 7211
     },
     {
       "ID": "VehicleRepaint",
@@ -13379,7 +13384,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5858
+      "UsersEstimate": 5859
     },
     {
       "ID": "WrappedBales",
@@ -13394,15 +13399,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 45065,
+      "Progressed": 45066,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-05T19:02:09.1855436+00:00",
-  "LastChanged_Achievements": "2023-07-06T08:07:14.1968981+00:00",
+  "LastChanged_Achievements": "2023-07-06T09:04:05.2628159+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:03:56.9112317+00:00",
-  "LastUpdate_Achievements": "2023-07-06T08:07:14.1969746+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:01:22.2902301+00:00",
+  "LastUpdate_Achievements": "2023-07-06T09:04:05.2628718+00:00"
 }

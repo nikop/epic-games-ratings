@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2626,
+  "EOS_Progressed": 2627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1803,6 +1803,11 @@
       "Time": "2023-07-06T08:10:25.1947366+00:00",
       "NumProgressed": 2626,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T09:08:06.0490966+00:00",
+      "NumProgressed": 2627,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1854,7 +1859,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -1910,7 +1915,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -1934,7 +1939,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -2006,7 +2011,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2014,7 +2019,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2070,7 +2075,7 @@
       "Name": "The Passenger",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_MISSION_10",
@@ -2110,7 +2115,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2118,7 +2123,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2126,7 +2131,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2134,7 +2139,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2166,14 +2171,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2626,
+      "Progressed": 2627,
       "Completed": 0
     }
   ],
@@ -2181,8 +2186,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-05T13:19:39.2259596+00:00",
-  "LastChanged_Achievements": "2023-07-06T08:10:25.1947362+00:00",
+  "LastChanged_Achievements": "2023-07-06T09:08:06.0490962+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:03:20.172418+00:00",
-  "LastUpdate_Achievements": "2023-07-06T08:10:25.1947839+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:00:57.3417852+00:00",
+  "LastUpdate_Achievements": "2023-07-06T09:08:06.0491331+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1504,9 +1504,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 65118,
+  "EOS_Progressed": 65119,
   "EOS_Completed": 1200,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -6279,6 +6279,11 @@
       "Time": "2023-07-06T05:08:13.5520658+00:00",
       "NumProgressed": 65118,
       "NumCompleted": 1200
+    },
+    {
+      "Time": "2023-07-06T09:06:50.8945731+00:00",
+      "NumProgressed": 65119,
+      "NumCompleted": 1200
     }
   ],
   "TotalAchievements": 53,
@@ -6290,7 +6295,7 @@
       "Name": "The Aeromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 42978
+      "UsersEstimate": 42979
     },
     {
       "ID": "area_copse",
@@ -6298,7 +6303,7 @@
       "Name": "The Copse",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19535
+      "UsersEstimate": 19536
     },
     {
       "ID": "area_mountain",
@@ -6306,7 +6311,7 @@
       "Name": "The Mountain",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26047
+      "UsersEstimate": 26048
     },
     {
       "ID": "area_swamp",
@@ -6314,7 +6319,7 @@
       "Name": "The Swamp",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 32559
+      "UsersEstimate": 32560
     },
     {
       "ID": "area_wastes",
@@ -6322,7 +6327,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 54048
+      "UsersEstimate": 54049
     },
     {
       "ID": "bibliomancer",
@@ -6338,7 +6343,7 @@
       "Name": "The Dragon",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19535
+      "UsersEstimate": 19536
     },
     {
       "ID": "chronomancer",
@@ -6378,7 +6383,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 52094
+      "UsersEstimate": 52095
     },
     {
       "ID": "crafting_first_replenish",
@@ -6386,7 +6391,7 @@
       "Name": "Stock Up",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 48838
+      "UsersEstimate": 48839
     },
     {
       "ID": "crafting_max_upgrade",
@@ -6418,7 +6423,7 @@
       "Name": "The Dracomancer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 19535
+      "UsersEstimate": 19536
     },
     {
       "ID": "electromancer",
@@ -6426,7 +6431,7 @@
       "Name": "The Electromancer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 39722
+      "UsersEstimate": 39723
     },
     {
       "ID": "elfslayer",
@@ -6434,7 +6439,7 @@
       "Name": "The Champion",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 58606
+      "UsersEstimate": 58607
     },
     {
       "ID": "end_climb",
@@ -6506,7 +6511,7 @@
       "Name": "The Firelord",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 15628
+      "UsersEstimate": 15629
     },
     {
       "ID": "fungalmancer",
@@ -6514,7 +6519,7 @@
       "Name": "The Fungalmancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30605
+      "UsersEstimate": 30606
     },
     {
       "ID": "hag",
@@ -6522,7 +6527,7 @@
       "Name": "The Hag",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 29303
+      "UsersEstimate": 29304
     },
     {
       "ID": "huntsman",
@@ -6538,7 +6543,7 @@
       "Name": "The Hydromancer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 47536
+      "UsersEstimate": 47537
     },
     {
       "ID": "kinetomancer",
@@ -6578,7 +6583,7 @@
       "Name": "The Exalted",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 37117
+      "UsersEstimate": 37118
     },
     {
       "ID": "necromancer",
@@ -6586,7 +6591,7 @@
       "Name": "The Necromancer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 33861
+      "UsersEstimate": 33862
     },
     {
       "ID": "neuromancer",
@@ -6594,7 +6599,7 @@
       "Name": "The Neuromancer",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22791
+      "UsersEstimate": 22792
     },
     {
       "ID": "npc_blue_nomad",
@@ -6610,7 +6615,7 @@
       "Name": "The King",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 12372
+      "UsersEstimate": 12373
     },
     {
       "ID": "npc_owlmancer",
@@ -6634,7 +6639,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 56001
+      "UsersEstimate": 56002
     },
     {
       "ID": "queen",
@@ -6674,7 +6679,7 @@
       "Name": "The Thaumamancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 30605
+      "UsersEstimate": 30606
     },
     {
       "ID": "treeheart",
@@ -6682,7 +6687,7 @@
       "Name": "The Treeheart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 26047
+      "UsersEstimate": 26048
     },
     {
       "ID": "two_monks",
@@ -6706,22 +6711,22 @@
       "Name": "The Venomancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 42978
+      "UsersEstimate": 42979
     }
   ],
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 65118,
+      "Progressed": 65119,
       "Completed": 1200
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-07-05T15:59:40.0142751+00:00",
-  "LastChanged_Achievements": "2023-07-06T08:09:29.2269148+00:00",
+  "LastChanged_Achievements": "2023-07-06T09:06:50.8945727+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:51.996333+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:00:56.3748499+00:00",
-  "LastUpdate_Achievements": "2023-07-06T08:09:29.2269918+00:00"
+  "LastUpdate_Ratings": "2023-07-06T08:59:23.6512371+00:00",
+  "LastUpdate_Achievements": "2023-07-06T09:06:50.894629+00:00"
 }

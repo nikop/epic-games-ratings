@@ -5,6 +5,7 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking it back | 2.00% | ~64 |
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | Meeting Resistance | 1.00% | ~32 |
@@ -17,7 +18,6 @@ Rating: 4.45 (Ranked 620)
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
-| Taking it back | 1.00% | ~32 |
 | Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |

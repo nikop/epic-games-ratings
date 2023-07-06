@@ -42,12 +42,12 @@ Rating: 4.61 (Ranked 362)
 | Crimson Caldera | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~30 |
 | Jack of All Tomes | 0.60% | ~30 |
+| Grexolis | 0.50% | ~25 |
+| One for All, All for One | 0.50% | ~25 |
 | Manufactured War | 0.40% | ~20 |
 | Pruning for Progress | 0.40% | ~20 |
-| Grexolis | 0.40% | ~20 |
-| One for All, All for One | 0.40% | ~20 |
+| Snap Out of It! | 0.30% | ~15 |
 | I've Got Everything I Need Right Here | 0.30% | ~15 |
-| Snap Out of It! | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 362)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,927 (Ranked 134)  
+Progressed: 4,928 (Ranked 134)  
 Completed: 5 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 5 (0.10%) (Ranked 181)
 | 2023-07-03 | 4,908 | 4 |
 | 2023-07-04 | 4,918 | 4 |
 | 2023-07-05 | 4,926 | 5 |
-| 2023-07-06 | 4,927 | 5 |
+| 2023-07-06 | 4,928 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

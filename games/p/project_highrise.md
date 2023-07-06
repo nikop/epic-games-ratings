@@ -29,8 +29,8 @@
 | Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
 | Rehab Expert | 19.00% | ~44 |
+| Tasty Profits | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
-| Tasty Profits | 18.00% | ~41 |
 | Under One Roof | 16.00% | ~37 |
 | Established Fame | 16.00% | ~37 |
 | Cashflow Chief | 16.00% | ~37 |
@@ -63,13 +63,13 @@
 | Baron of Business | 5.00% | ~11 |
 | Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
+| Three of a Kind | 4.00% | ~9 |
 | Sandbagger | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~7 |
 | Apartment Awareness | 3.00% | ~7 |
 | Loft Life | 3.00% | ~7 |
 | Luxury Boutiques | 3.00% | ~7 |
 | Plebs Are Needed | 3.00% | ~7 |
-| Three of a Kind | 3.00% | ~7 |
 | Four of a Kind | 3.00% | ~7 |
 | In the Money | 3.00% | ~7 |
 | Curated Class | 2.00% | ~5 |
