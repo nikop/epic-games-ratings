@@ -21,7 +21,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Things persisted in not being what they seemed | 0.20% | ~925 |
 | Plan for the worst | 0.20% | ~925 |
 | Excelsior Rule | 0.20% | ~925 |
-| Hand of the Emperor | 0.20% | ~12 |
+| Hand of the Emperor | 0.20% | ~13 |
 | Chapter III: The Man Who Sold the World | 0.10% | ~462 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~462 |
 | Chapter V: Memories of None | 0.10% | ~462 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~6 |
 | Kronos Rule | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,312 (Ranked 35)  
+Progressed: 462,318 (Ranked 35)  
 Completed: 16 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 16 (0.00%) (Ranked 233)
 | 2023-07-03 | 462,164 | 16 |
 | 2023-07-04 | 462,243 | 16 |
 | 2023-07-05 | 462,297 | 16 |
-| 2023-07-06 | 462,312 | 16 |
+| 2023-07-06 | 462,318 | 16 |
 ## Awards
 Max (Character Customization): 214  (Ranked 260)  
 Sum: 214 (Ranked 355)  

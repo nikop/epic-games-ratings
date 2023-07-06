@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,770 |
-| Copacetic Coordination | 16.00% | ~52,442 |
-| Fronting the Money | 14.00% | ~45,886 |
-| The Dawn of Automation | 14.00% | ~45,886 |
-| Extraordinary Logistics | 14.00% | ~45,886 |
-| Dirty Money | 13.00% | ~42,609 |
-| Family First | 13.00% | ~42,609 |
-| Cleaning House | 12.00% | ~39,331 |
-| Room in the Back | 12.00% | ~39,331 |
+| Corner Clout | 46.00% | ~150,773 |
+| Copacetic Coordination | 16.00% | ~52,443 |
+| Fronting the Money | 14.00% | ~45,887 |
+| The Dawn of Automation | 14.00% | ~45,887 |
+| Extraordinary Logistics | 14.00% | ~45,887 |
+| Dirty Money | 13.00% | ~42,610 |
+| Family First | 13.00% | ~42,610 |
+| Cleaning House | 12.00% | ~39,332 |
+| Room in the Back | 12.00% | ~39,332 |
 | Booze Baron | 11.00% | ~36,054 |
-| Beating the Heat | 10.00% | ~32,776 |
-| Friends on the Force | 10.00% | ~32,776 |
-| Neighborhood Watch | 10.00% | ~32,776 |
+| Beating the Heat | 10.00% | ~32,777 |
+| Friends on the Force | 10.00% | ~32,777 |
+| Neighborhood Watch | 10.00% | ~32,777 |
 | Core Corps | 8.00% | ~26,221 |
-| Sizeable Stash | 7.00% | ~22,943 |
-| Street Fighter | 7.00% | ~22,943 |
-| Friendly Gestures | 7.00% | ~22,943 |
-| People Person | 7.00% | ~22,943 |
+| Sizeable Stash | 7.00% | ~22,944 |
+| Street Fighter | 7.00% | ~22,944 |
+| Friendly Gestures | 7.00% | ~22,944 |
+| People Person | 7.00% | ~22,944 |
 | Liquor Lord | 6.00% | ~19,666 |
 | Safety in Numbers | 6.00% | ~19,666 |
 | Show ‘em the Sugar | 6.00% | ~19,666 |
@@ -36,11 +36,11 @@ Rating: 4.26 (Ranked 801)
 | Moving Experiences | 5.00% | ~16,388 |
 | Mission Mastery | 5.00% | ~16,388 |
 | Wise Head | 5.00% | ~16,388 |
-| Considerable Clams | 4.00% | ~13,110 |
-| Gin Joint | 4.00% | ~13,110 |
-| An Affront to the Enemy | 4.00% | ~13,110 |
-| Friends from Back Home | 4.00% | ~13,110 |
-| Half Century Mark | 4.00% | ~13,110 |
+| Considerable Clams | 4.00% | ~13,111 |
+| Gin Joint | 4.00% | ~13,111 |
+| An Affront to the Enemy | 4.00% | ~13,111 |
+| Friends from Back Home | 4.00% | ~13,111 |
+| Half Century Mark | 4.00% | ~13,111 |
 | Corner Opportunities | 3.00% | ~9,833 |
 | 2122 North Clark Street | 3.00% | ~9,833 |
 | Copious Cabbage | 3.00% | ~9,833 |
@@ -86,7 +86,7 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,760 (Ranked 40)  
+Progressed: 327,767 (Ranked 40)  
 Completed: 5 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.00%) (Ranked 233)
 | 2023-07-03 | 327,260 | 5 |
 | 2023-07-04 | 327,471 | 5 |
 | 2023-07-05 | 327,715 | 5 |
-| 2023-07-06 | 327,760 | 5 |
+| 2023-07-06 | 327,767 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 115 (Ranked 401)  

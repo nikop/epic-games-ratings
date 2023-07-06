@@ -2350,10 +2350,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1694,
       "NumberOfAwardsMax": 358
+    },
+    {
+      "Time": "2023-07-06T08:04:32.7822864+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1695,
+      "NumberOfAwardsMax": 358
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1694,
+  "NumberOfAwards": 1695,
   "NumberOfAwardsMax": 358,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2379,7 +2385,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2406,7 +2412,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68406,
+  "EOS_Progressed": 68407,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
@@ -10446,6 +10452,11 @@
       "Time": "2023-07-06T07:10:24.3769689+00:00",
       "NumProgressed": 68406,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-06T08:07:48.2298138+00:00",
+      "NumProgressed": 68407,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10457,7 +10468,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34203
+      "UsersEstimate": 34204
     },
     {
       "ID": "ACH_0011",
@@ -10537,7 +10548,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_0050",
@@ -10569,7 +10580,7 @@
       "Name": "Headhunter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_0101",
@@ -10601,7 +10612,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44464
+      "UsersEstimate": 44465
     },
     {
       "ID": "ACH_0210",
@@ -10609,7 +10620,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50620
+      "UsersEstimate": 50621
     },
     {
       "ID": "ACH_0211",
@@ -10649,7 +10660,7 @@
       "Name": "Ding Dong",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_0340",
@@ -10752,16 +10763,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68406,
+      "Progressed": 68407,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-07-06T02:29:37.0848056+00:00",
-  "LastChanged_Achievements": "2023-07-06T07:10:24.3769679+00:00",
+  "LastChanged": "2023-07-06T08:04:32.7822863+00:00",
+  "LastChanged_Achievements": "2023-07-06T08:07:48.2298133+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-06T07:06:18.3122158+00:00",
-  "LastUpdate_Achievements": "2023-07-06T07:10:24.3770673+00:00"
+  "LastUpdate_Ratings": "2023-07-06T08:04:32.7822869+00:00",
+  "LastUpdate_Achievements": "2023-07-06T08:07:48.2299006+00:00"
 }

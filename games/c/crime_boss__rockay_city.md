@@ -5,9 +5,9 @@ Rating: 3.93 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~50,620 |
-| First One’s Free | 65.00% | ~44,464 |
-| Neophyte Ninja | 50.00% | ~34,203 |
+| Downed but Not Outed | 74.00% | ~50,621 |
+| First One’s Free | 65.00% | ~44,465 |
+| Neophyte Ninja | 50.00% | ~34,204 |
 | Too Old for This | 47.00% | ~32,151 |
 | Fancy Pants | 35.00% | ~23,942 |
 | Case Closed | 34.00% | ~23,258 |
@@ -23,9 +23,9 @@ Rating: 3.93 (Ranked 924)
 | Freebooter | 10.00% | ~6,841 |
 | Track Star | 9.00% | ~6,157 |
 | Classy Joint | 9.00% | ~6,157 |
-| I Like Trains | 8.00% | ~5,472 |
-| Headhunter | 8.00% | ~5,472 |
-| Ding Dong | 8.00% | ~5,472 |
+| I Like Trains | 8.00% | ~5,473 |
+| Headhunter | 8.00% | ~5,473 |
+| Ding Dong | 8.00% | ~5,473 |
 | Foo Finder | 7.00% | ~4,788 |
 | Legend Looter | 5.00% | ~3,420 |
 | Savvy Seeker | 5.00% | ~3,420 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 924)
 | Geek Out | 0.50% | ~342 |
 | Full House | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,406 (Ranked 72)  
+Progressed: 68,407 (Ranked 72)  
 Completed: 35 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,16 +120,16 @@ Completed: 35 (0.05%) (Ranked 199)
 | 2023-07-03 | 68,277 | 35 |
 | 2023-07-04 | 68,337 | 35 |
 | 2023-07-05 | 68,390 | 35 |
-| 2023-07-06 | 68,406 | 35 |
+| 2023-07-06 | 68,407 | 35 |
 ## Awards
 Max (Diverse Characters): 358  (Ranked 219)  
-Sum: 1,694 (Ranked 208)  
+Sum: 1,695 (Ranked 208)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 358 |
 | This game is Highly Recommended | 344 |
-| This game has Quickly Understood Controls | 338 |
+| This game has Quickly Understood Controls | 339 |
 | This game has Challenging Combat | 329 |
 | This game has Amazing Characters | 325 |
 | This game is Great for Quick Sessions | 70 |
@@ -237,4 +237,4 @@ Diff (max vs sum): 11
 | 2023-07-03 | 3.93 | 353 | 1,682 |
 | 2023-07-04 | 3.93 | 355 | 1,688 |
 | 2023-07-05 | 3.93 | 358 | 1,693 |
-| 2023-07-06 | 3.93 | 358 | 1,694 |
+| 2023-07-06 | 3.93 | 358 | 1,695 |

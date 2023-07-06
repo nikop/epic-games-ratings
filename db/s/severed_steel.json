@@ -278,9 +278,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 422482,
+  "EOS_Progressed": 422488,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 2019,
+  "EOS_NewPlayers": 2021,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8523,6 +8523,11 @@
       "Time": "2023-07-06T07:11:11.5335875+00:00",
       "NumProgressed": 422482,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-07-06T08:08:27.8463806+00:00",
+      "NumProgressed": 422488,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 52,
@@ -8534,7 +8539,7 @@
       "Name": "1000 KILLS",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16899
+      "UsersEstimate": 16900
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -8598,7 +8603,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42248
+      "UsersEstimate": 42249
     },
     {
       "ID": "CHAPTER2",
@@ -8638,7 +8643,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16899
+      "UsersEstimate": 16900
     },
     {
       "ID": "CHURCH",
@@ -8662,7 +8667,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16899
+      "UsersEstimate": 16900
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -8910,7 +8915,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 42248
+      "UsersEstimate": 42249
     },
     {
       "ID": "SOUL",
@@ -8949,7 +8954,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 422482,
+      "Progressed": 422488,
       "Completed": 38
     }
   ],
@@ -8957,8 +8962,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-07-04T08:00:18.0682194+00:00",
-  "LastChanged_Achievements": "2023-07-06T07:11:11.5335866+00:00",
+  "LastChanged_Achievements": "2023-07-06T08:08:27.8463802+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:37.6629977+00:00",
-  "LastUpdate_Ratings": "2023-07-06T07:04:58.4221979+00:00",
-  "LastUpdate_Achievements": "2023-07-06T07:11:11.5337019+00:00"
+  "LastUpdate_Ratings": "2023-07-06T08:03:35.0117415+00:00",
+  "LastUpdate_Achievements": "2023-07-06T08:08:27.8464968+00:00"
 }

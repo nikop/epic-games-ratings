@@ -658,9 +658,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252498,
+  "EOS_Progressed": 252504,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8458,6 +8458,11 @@
       "Time": "2023-07-06T07:11:28.2344062+00:00",
       "NumProgressed": 252498,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-06T08:08:41.4328204+00:00",
+      "NumProgressed": 252504,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8493,7 +8498,7 @@
       "Name": "The Gamble",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "Act5",
@@ -8501,7 +8506,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -8517,7 +8522,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78274
+      "UsersEstimate": 78276
     },
     {
       "ID": "BackHomeNTimes",
@@ -8549,7 +8554,7 @@
       "Name": "A major purchase",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "BuyNWeapons",
@@ -8557,7 +8562,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "CompleteBestiary",
@@ -8589,7 +8594,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "CreedsInBank1",
@@ -8613,7 +8618,7 @@
       "Name": "Saver III",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "DiscoverAllObjects",
@@ -8621,7 +8626,7 @@
       "Name": "Collector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "EatNFungus",
@@ -8645,7 +8650,7 @@
       "Name": "Mansion",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "FullInventoryExpansion",
@@ -8685,7 +8690,7 @@
       "Name": "Green thumb III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "GrowPlantsSameTime",
@@ -8693,7 +8698,7 @@
       "Name": "Plantation",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "HomeWithNFurniture",
@@ -8757,7 +8762,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55550
+      "UsersEstimate": 55551
     },
     {
       "ID": "KillOthers2",
@@ -8797,7 +8802,7 @@
       "Name": "Reminescence",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MaxRepOfAllNpcs",
@@ -8805,7 +8810,7 @@
       "Name": "Beloved",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MaxRepOfOneNpc",
@@ -8829,7 +8834,7 @@
       "Name": "Number 1",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "Patrimony1",
@@ -8845,7 +8850,7 @@
       "Name": "Capitalist II",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Patrimony3",
@@ -8853,7 +8858,7 @@
       "Name": "Capitalist III",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ReachNDays1",
@@ -8885,7 +8890,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "TakeHomeNHearts",
@@ -8893,7 +8898,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "UnlockAllAchievements",
@@ -8901,7 +8906,7 @@
       "Name": "Hell Is You",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "UnlockedAllShops",
@@ -8916,7 +8921,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252498,
+      "Progressed": 252504,
       "Completed": 2
     }
   ],
@@ -8924,8 +8929,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T00:01:52.1225859+00:00",
-  "LastChanged_Achievements": "2023-07-06T07:11:28.2344056+00:00",
+  "LastChanged_Achievements": "2023-07-06T08:08:41.4328199+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-06T07:07:16.098997+00:00",
-  "LastUpdate_Achievements": "2023-07-06T07:11:28.2345727+00:00"
+  "LastUpdate_Ratings": "2023-07-06T08:05:13.5084711+00:00",
+  "LastUpdate_Achievements": "2023-07-06T08:08:41.4329097+00:00"
 }

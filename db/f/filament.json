@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -225,9 +225,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195499,
+  "EOS_Progressed": 195502,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -8295,6 +8295,11 @@
       "Time": "2023-07-06T07:13:19.9483352+00:00",
       "NumProgressed": 195499,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-07-06T08:10:24.7416462+00:00",
+      "NumProgressed": 195502,
+      "NumCompleted": 455
     }
   ],
   "TotalAchievements": 29,
@@ -8306,7 +8311,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -8330,7 +8335,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183769
+      "UsersEstimate": 183772
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8338,7 +8343,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -8362,7 +8367,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -8394,7 +8399,7 @@
       "Name": "Corrupted \u002B",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHIEVEMENT_CREW",
@@ -8402,7 +8407,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -8514,7 +8519,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -8537,7 +8542,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195499,
+      "Progressed": 195502,
       "Completed": 455
     }
   ],
@@ -8545,8 +8550,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-06T07:13:19.9483342+00:00",
+  "LastChanged_Achievements": "2023-07-06T08:10:24.7416457+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:37.1895533+00:00",
-  "LastUpdate_Ratings": "2023-07-06T07:03:05.3094791+00:00",
-  "LastUpdate_Achievements": "2023-07-06T07:13:19.9484294+00:00"
+  "LastUpdate_Ratings": "2023-07-06T08:02:11.792859+00:00",
+  "LastUpdate_Achievements": "2023-07-06T08:10:24.7417236+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,753 |
-| Into the Unknown | 10.00% | ~58,867 |
-| First Shot | 10.00% | ~58,867 |
-| Herzlich Wilkommen! | 9.00% | ~52,980 |
-| Good Night & Good Luck | 9.00% | ~52,980 |
-| Sancho Panza | 8.00% | ~47,093 |
+| You Never Forget Your First... | 11.00% | ~64,755 |
+| Into the Unknown | 10.00% | ~58,868 |
+| First Shot | 10.00% | ~58,868 |
+| Herzlich Wilkommen! | 9.00% | ~52,981 |
+| Good Night & Good Luck | 9.00% | ~52,981 |
+| Sancho Panza | 8.00% | ~47,094 |
 | Under Pressure | 7.00% | ~41,207 |
 | On the Trail of the Enemy | 7.00% | ~41,207 |
 | Flag Burning | 7.00% | ~41,207 |
 | Oh, So This Is How It Works! | 7.00% | ~41,207 |
 | Night Hunter | 7.00% | ~41,207 |
-| Light in the Darkness | 6.00% | ~35,320 |
-| Get Outta My House! | 6.00% | ~35,320 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,320 |
-| Being All Social | 6.00% | ~35,320 |
-| Debris and Ashes | 5.00% | ~29,433 |
-| We Will Be Heard! | 5.00% | ~29,433 |
-| Known Associate | 5.00% | ~29,433 |
-| Brush with Death | 5.00% | ~29,433 |
-| Tunnel Entrance | 5.00% | ~29,433 |
-| After the Fall | 5.00% | ~29,433 |
-| Can't Touch This! | 5.00% | ~29,433 |
+| Light in the Darkness | 6.00% | ~35,321 |
+| Get Outta My House! | 6.00% | ~35,321 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,321 |
+| Being All Social | 6.00% | ~35,321 |
+| Debris and Ashes | 5.00% | ~29,434 |
+| We Will Be Heard! | 5.00% | ~29,434 |
+| Known Associate | 5.00% | ~29,434 |
+| Brush with Death | 5.00% | ~29,434 |
+| Tunnel Entrance | 5.00% | ~29,434 |
+| After the Fall | 5.00% | ~29,434 |
+| Can't Touch This! | 5.00% | ~29,434 |
 | Going Down | 4.00% | ~23,547 |
 | Family First | 4.00% | ~23,547 |
 | Your World, Your Rules | 4.00% | ~23,547 |
@@ -36,10 +36,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Slowpoke! | 4.00% | ~23,547 |
 | Tickets, Please! | 3.00% | ~17,660 |
 | You're Going Down! | 3.00% | ~17,660 |
-| Municipal Services | 2.00% | ~11,773 |
-| Ban Hammer | 2.00% | ~11,773 |
-| Parkour Master | 2.00% | ~11,773 |
-| Combat Master | 2.00% | ~11,773 |
+| Municipal Services | 2.00% | ~11,774 |
+| Ban Hammer | 2.00% | ~11,774 |
+| Parkour Master | 2.00% | ~11,774 |
+| Combat Master | 2.00% | ~11,774 |
 | Tube Map | 1.00% | ~5,887 |
 | Don Quixote | 1.00% | ~5,887 |
 | Can't You Read the Signs? | 1.00% | ~5,887 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~234 |
 | Connoisseur | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588,666 (Ranked 26)  
+Progressed: 588,678 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 58 (0.01%) (Ranked 221)
 | 2023-07-03 | 587,246 | 58 |
 | 2023-07-04 | 587,839 | 58 |
 | 2023-07-05 | 588,509 | 58 |
-| 2023-07-06 | 588,666 | 58 |
+| 2023-07-06 | 588,678 | 58 |
 ## Awards
 Max (Character Customization): 8,225  (Ranked 40)  
 Sum: 19,323 (Ranked 55)  

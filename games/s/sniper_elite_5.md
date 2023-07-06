@@ -39,6 +39,7 @@ Rating: 4.45 (Ranked 620)
 | Rigged to Blow | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
 | The Long Game | 0.40% | ~13 |
+| Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
 | From Paris with Love | 0.30% | ~10 |
@@ -47,7 +48,7 @@ Rating: 4.45 (Ranked 620)
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
-| Herr Today, Gone Tomorrow | 0.30% | ~9 |
+| Operation Foxley | 0.30% | ~9 |
 | Last Resort | 0.30% | ~9 |
 | If You Go Down To The Woods Today | 0.30% | ~9 |
 | Fight Another Day | 0.30% | ~9 |
@@ -60,7 +61,6 @@ Rating: 4.45 (Ranked 620)
 | Shoot for the Moon | 0.20% | ~6 |
 | Can't Outrun A Bullet | 0.20% | ~6 |
 | Führerious Repetition | 0.20% | ~6 |
-| Operation Foxley | 0.20% | ~6 |
 | Shipbreaker | 0.20% | ~6 |
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |

@@ -20,11 +20,11 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 19.00% | ~2,608 |
 | Workers' union | 18.00% | ~2,471 |
 | End of Book Two | 18.00% | ~2,471 |
-| Everything's in order | 17.00% | ~2,333 |
+| Everything's in order | 17.00% | ~2,334 |
 | Jack was here! | 15.00% | ~2,059 |
 | Twist of Fate | 14.00% | ~1,922 |
 | Exterminator | 14.00% | ~1,922 |
-| Whodunnit | 13.00% | ~1,784 |
+| Whodunnit | 13.00% | ~1,785 |
 | Good midwife | 11.00% | ~1,510 |
 | Friar Tuck | 11.00% | ~1,510 |
 | First profit | 11.00% | ~1,510 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~412 |
 | Boy of mystery | 2.00% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,726 (Ranked 110)  
+Progressed: 13,727 (Ranked 110)  
 Completed: 104 (0.76%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 104 (0.76%) (Ranked 109)
 | 2023-07-03 | 13,677 | 104 |
 | 2023-07-04 | 13,705 | 104 |
 | 2023-07-05 | 13,722 | 104 |
-| 2023-07-06 | 13,726 | 104 |
+| 2023-07-06 | 13,727 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

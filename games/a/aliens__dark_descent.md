@@ -5,23 +5,23 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,100 |
-| Snatched Out | 73.00% | ~1,916 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,101 |
+| Snatched Out | 73.00% | ~1,917 |
 | Keep 'Em Coming | 71.00% | ~1,864 |
 | Cleaning Lethe, One Nest At A Time | 62.00% | ~1,628 |
-| Call Me Snake | 56.00% | ~1,470 |
+| Call Me Snake | 56.00% | ~1,471 |
 | Something Lurks Under The Hills | 55.00% | ~1,444 |
 | This Was No Papercut | 54.00% | ~1,418 |
-| The Shrink Hates Me | 50.00% | ~1,312 |
+| The Shrink Hates Me | 50.00% | ~1,313 |
 | People Person | 48.00% | ~1,260 |
 | Use The Bumper, That's What It's For | 46.00% | ~1,208 |
 | First Steps Into Madness | 44.00% | ~1,155 |
 | Colonial Barrels | 43.00% | ~1,129 |
-| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~971 |
+| Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~972 |
 | Harper's Hell | 34.00% | ~893 |
 | Making a Stand | 31.00% | ~814 |
-| Omelette Du Fromage | 29.00% | ~761 |
-| Recouped Investment | 29.00% | ~761 |
+| Omelette Du Fromage | 29.00% | ~762 |
+| Recouped Investment | 29.00% | ~762 |
 | Where It All Begun | 27.00% | ~709 |
 | The More The Merrier | 20.00% | ~525 |
 | Living Nightmare | 19.00% | ~499 |
@@ -31,17 +31,17 @@ Rating: 4.45 (Ranked 620)
 | Deep Into Insanity | 14.00% | ~368 |
 | The Passenger | 13.00% | ~341 |
 | El Riesgo Siempre Vive | 12.00% | ~315 |
-| One For Every Occasion | 10.00% | ~262 |
-| The Spire | 10.00% | ~262 |
+| One For Every Occasion | 10.00% | ~263 |
+| The Spire | 10.00% | ~263 |
 | Bandage Lover | 9.00% | ~236 |
 | Frontliner | 9.00% | ~236 |
 | The Cable Guy | 9.00% | ~236 |
 | Heavy Steps | 8.00% | ~210 |
 | Excavating The Truth | 8.00% | ~210 |
 | Abysmal Horrors | 7.00% | ~184 |
+| Regicide | 6.00% | ~158 |
 | Flawless Victory | 5.00% | ~131 |
 | This Went Smoothly | 5.00% | ~131 |
-| Regicide | 5.00% | ~131 |
 | Perfect Enhancements | 4.00% | ~105 |
 | The True Experience | 4.00% | ~105 |
 | Hardened In The Heat Of Battle | 3.00% | ~79 |
@@ -51,7 +51,7 @@ Rating: 4.45 (Ranked 620)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,625 (Ranked 153)  
+Progressed: 2,626 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 2,526 | 0 |
 | 2023-07-04 | 2,580 | 0 |
 | 2023-07-05 | 2,620 | 0 |
-| 2023-07-06 | 2,625 | 0 |
+| 2023-07-06 | 2,626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

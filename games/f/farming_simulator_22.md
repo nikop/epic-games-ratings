@@ -7,22 +7,22 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~34,249 |
-| I read Shakespeare and stuff | 64.00% | ~28,841 |
-| Just a sprinkle | 63.00% | ~28,390 |
-| I'm stumped | 61.00% | ~27,489 |
-| Plant get enough | 60.00% | ~27,038 |
-| This is just my weekend vehicle | 58.00% | ~26,137 |
-| It's just the beginning | 58.00% | ~26,137 |
+| I read Shakespeare and stuff | 64.00% | ~28,842 |
+| Just a sprinkle | 63.00% | ~28,391 |
+| I'm stumped | 61.00% | ~27,490 |
+| Plant get enough | 60.00% | ~27,039 |
+| This is just my weekend vehicle | 58.00% | ~26,138 |
+| It's just the beginning | 58.00% | ~26,138 |
 | Hard work pays off | 53.00% | ~23,884 |
 | It's never too late to farm | 48.00% | ~21,631 |
-| All out of Land | 44.00% | ~19,828 |
+| All out of Land | 44.00% | ~19,829 |
 | Field Trip | 43.00% | ~19,378 |
 | I like to switch it up | 40.00% | ~18,026 |
-| Help me to help you | 38.00% | ~17,124 |
+| Help me to help you | 38.00% | ~17,125 |
 | Ultimutt Pawesomeness | 28.00% | ~12,618 |
 | Van Gogh | 26.00% | ~11,717 |
-| You wood not believe it | 21.00% | ~9,463 |
-| Vehicle fleet | 21.00% | ~9,463 |
+| You wood not believe it | 21.00% | ~9,464 |
+| Vehicle fleet | 21.00% | ~9,464 |
 | The plot thickens | 16.00% | ~7,210 |
 | Well-Oiled Machine | 16.00% | ~7,210 |
 | Long haul | 16.00% | ~7,210 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's sow easy | 11.00% | ~4,957 |
 | Highly cultivated | 10.00% | ~4,506 |
 | Giddy-up! | 10.00% | ~4,506 |
-| Cowherd | 7.00% | ~3,154 |
+| Cowherd | 7.00% | ~3,155 |
 | Fluffyness | 6.00% | ~2,704 |
 | Helper A does not stop … ever | 6.00% | ~2,704 |
 | Road Trip | 5.00% | ~2,253 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~180 |
 | Raisin the stakes | 0.30% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,064 (Ranked 86)  
+Progressed: 45,065 (Ranked 86)  
 Completed: 5 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 5 (0.01%) (Ranked 221)
 | 2023-07-03 | 44,950 | 5 |
 | 2023-07-04 | 44,995 | 5 |
 | 2023-07-05 | 45,060 | 5 |
-| 2023-07-06 | 45,064 | 5 |
+| 2023-07-06 | 45,065 | 5 |
 ## Awards
 Max (Great for Beginners): 4,490  (Ranked 70)  
 Sum: 37,881 (Ranked 31)  
