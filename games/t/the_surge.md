@@ -6,38 +6,38 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,199 |
-| I'll Be Back | 85.00% | ~3,797 |
-| Sorry, I Dropped This | 77.00% | ~3,440 |
-| First Day on the Job | 77.00% | ~3,440 |
-| Butcher's Bill | 55.00% | ~2,457 |
-| P.A.X | 37.00% | ~1,653 |
-| Hey Listen | 37.00% | ~1,653 |
-| OPERATOR | 36.00% | ~1,608 |
-| It's Blue Light | 33.00% | ~1,474 |
-| Most Wanted | 26.00% | ~1,161 |
-| Infidel | 23.00% | ~1,027 |
+| On My Own Two Feet | 94.00% | ~4,201 |
+| I'll Be Back | 85.00% | ~3,799 |
+| Sorry, I Dropped This | 77.00% | ~3,441 |
+| First Day on the Job | 77.00% | ~3,441 |
+| Butcher's Bill | 55.00% | ~2,458 |
+| P.A.X | 37.00% | ~1,654 |
+| Hey Listen | 37.00% | ~1,654 |
+| OPERATOR | 36.00% | ~1,609 |
+| It's Blue Light | 33.00% | ~1,475 |
+| Most Wanted | 26.00% | ~1,162 |
+| Infidel | 23.00% | ~1,028 |
 | GOLIATH | 21.00% | ~938 |
-| Firebug | 20.00% | ~893 |
+| Firebug | 20.00% | ~894 |
 | Nothing to Lose | 18.00% | ~804 |
-| I Choose You | 17.00% | ~759 |
+| I Choose You | 17.00% | ~760 |
 | Big Sister | 15.00% | ~670 |
 | Gear Up | 15.00% | ~670 |
 | SENTINEL | 15.00% | ~670 |
 | Core Power | 13.00% | ~581 |
 | The Black Cerberus | 12.00% | ~536 |
 | Watchman | 12.00% | ~536 |
-| CREO Killed the Video Star | 11.00% | ~491 |
-| Who's in Charge Here? | 11.00% | ~491 |
-| Shall Not Pass | 11.00% | ~491 |
+| CREO Killed the Video Star | 11.00% | ~492 |
+| Who's in Charge Here? | 11.00% | ~492 |
+| Shall Not Pass | 11.00% | ~492 |
 | Right Tool for the Job | 10.00% | ~447 |
 | Melting Down | 9.00% | ~402 |
 | Raging Drones | 9.00% | ~402 |
 | Overconfident | 9.00% | ~402 |
-| Pusher Man | 8.00% | ~357 |
-| Squad Chief Helvig | 8.00% | ~357 |
-| No More Marching | 8.00% | ~357 |
-| Is This Real Life? | 8.00% | ~357 |
+| Pusher Man | 8.00% | ~358 |
+| Squad Chief Helvig | 8.00% | ~358 |
+| No More Marching | 8.00% | ~358 |
+| Is This Real Life? | 8.00% | ~358 |
 | Duty-Bound | 7.00% | ~313 |
 | Follow the White Rabbit | 7.00% | ~313 |
 | Liberation | 7.00% | ~313 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~27 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,467 (Ranked 137)  
+Progressed: 4,469 (Ranked 137)  
 Completed: 14 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 14 (0.31%) (Ranked 142)
 | 2023-06-30 | 4,465 | 14 |
 | 2023-07-02 | 4,466 | 14 |
 | 2023-07-03 | 4,467 | 14 |
+| 2023-07-06 | 4,469 | 14 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 469)  
 Sum: 26 (Ranked 477)  

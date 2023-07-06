@@ -2946,9 +2946,9 @@
       "Count": 1046
     }
   ],
-  "EOS_Progressed": 51465,
+  "EOS_Progressed": 51467,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11051,6 +11051,11 @@
       "Time": "2023-07-06T03:29:03.8857325+00:00",
       "NumProgressed": 51465,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-06T04:04:57.8839695+00:00",
+      "NumProgressed": 51467,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -11078,7 +11083,7 @@
       "Name": "Quality Time",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -11110,7 +11115,7 @@
       "Name": "Finders Keepers",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9778
+      "UsersEstimate": 9779
     },
     {
       "ID": "complet_epilogue_mission",
@@ -11174,7 +11179,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 18527
+      "UsersEstimate": 18528
     },
     {
       "ID": "customize_a_vehicle",
@@ -11182,7 +11187,7 @@
       "Name": "Tune Up",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 12866
+      "UsersEstimate": 12867
     },
     {
       "ID": "customize_a_weapon",
@@ -11190,7 +11195,7 @@
       "Name": "Optimized",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14410
+      "UsersEstimate": 14411
     },
     {
       "ID": "cutting_edge_materials",
@@ -11238,7 +11243,7 @@
       "Name": "A Young Empire",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 9778
+      "UsersEstimate": 9779
     },
     {
       "ID": "empire_tier_3",
@@ -11294,7 +11299,7 @@
       "Name": "Kitted Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "get_betrayed",
@@ -11310,7 +11315,7 @@
       "Name": "Performance Review",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 14410
+      "UsersEstimate": 14411
     },
     {
       "ID": "hit_max_level",
@@ -11485,22 +11490,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 51465,
+      "Progressed": 51467,
       "Completed": 28
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 23102,
-      "Completed": 2458
+      "Progressed": 23104,
+      "Completed": 2459
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-07-05T18:00:45.4701255+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:29:03.8857319+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:04:57.8839688+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:51.2540387+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:26:29.8188679+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:29:03.8858187+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:02:11.3591447+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:04:57.8840721+00:00"
 }

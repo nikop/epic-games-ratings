@@ -2053,9 +2053,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 637970,
+  "EOS_Progressed": 637974,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2975,
+  "EOS_NewPlayers": 2969,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10288,6 +10288,11 @@
       "Time": "2023-07-06T03:33:07.6728+00:00",
       "NumProgressed": 637970,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-06T04:08:31.3612727+00:00",
+      "NumProgressed": 637974,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 54,
@@ -10299,7 +10304,7 @@
       "Name": "The dream begins",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 516756
+      "UsersEstimate": 516759
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -10387,7 +10392,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 229669
+      "UsersEstimate": 229671
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -10539,7 +10544,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 204150
+      "UsersEstimate": 204152
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -10715,7 +10720,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 57417
+      "UsersEstimate": 57418
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -10730,15 +10735,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 637970,
+      "Progressed": 637974,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-06-27T02:24:18.4933063+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:33:07.6727996+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:08:31.3612721+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:26.1282427+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:23:33.4588425+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:33:07.6728911+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:59:08.5777731+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:08:31.3613846+00:00"
 }

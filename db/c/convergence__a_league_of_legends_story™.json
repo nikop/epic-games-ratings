@@ -2,9 +2,9 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 746,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -1564,6 +1564,11 @@
       "Time": "2023-07-06T00:07:07.1099059+00:00",
       "NumProgressed": 744,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-06T04:08:24.6908431+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1607,7 +1612,7 @@
       "Name": "Right On Time",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ClockworkCompletion1",
@@ -1623,7 +1628,7 @@
       "Name": "Like Clockwork",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ClovemaryGift",
@@ -1727,7 +1732,7 @@
       "Name": "Whiz Kid",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "GrindingTime1",
@@ -1821,17 +1826,17 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 90
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 90
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1863,7 +1868,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "RewindParry",
@@ -1871,7 +1876,7 @@
       "Name": "Honest Mistake",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ScrambotCompletion1",
@@ -1887,7 +1892,7 @@
       "Name": "Golem Chaser",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SkillCompletion1",
@@ -1903,7 +1908,7 @@
       "Name": "Fast Learner",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "SpeedRun",
@@ -1935,7 +1940,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "TheaterChests1",
@@ -1949,9 +1954,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 90
     },
     {
       "ID": "WarwickDefeated",
@@ -1998,14 +2003,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 746,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:32:40.6543758+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:08:24.6908426+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:25:59.8547163+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:32:40.6544197+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:01:44.0082526+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:08:24.6909014+00:00"
 }

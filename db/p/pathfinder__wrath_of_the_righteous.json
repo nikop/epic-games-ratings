@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3044,9 +3044,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10187,
+  "EOS_Progressed": 10188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7844,6 +7844,11 @@
       "Time": "2023-07-06T00:02:50.4836464+00:00",
       "NumProgressed": 10187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T04:04:36.2365047+00:00",
+      "NumProgressed": 10188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7927,7 +7932,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "11_PathOfAeon",
@@ -7983,7 +7988,7 @@
       "Name": "Transformation",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "18_MythicChoices",
@@ -8063,7 +8068,7 @@
       "Name": "Great Upstart",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "29_StrategicVictory",
@@ -8159,7 +8164,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "41_PlayfulMood",
@@ -8199,7 +8204,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "46_AllPathsOpen",
@@ -8207,7 +8212,7 @@
       "Name": "All Paths Open",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -8782,21 +8787,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8969,
+      "Progressed": 8970,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10187,
+      "Progressed": 10188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-05T14:58:49.8042669+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:28:41.6603758+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:04:36.2365042+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:24:19.7206597+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:28:41.6605293+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:00:01.5723801+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:04:36.236702+00:00"
 }

@@ -22,13 +22,13 @@ Rating: 4.45 (Ranked 620)
 | Making a Stand | 31.00% | ~814 |
 | Recouped Investment | 29.00% | ~761 |
 | Omelette Du Fromage | 28.00% | ~735 |
-| Where It All Begun | 26.00% | ~682 |
+| Where It All Begun | 27.00% | ~709 |
 | The More The Merrier | 20.00% | ~525 |
 | Living Nightmare | 19.00% | ~499 |
 | Stuff Of Nightmares | 15.00% | ~394 |
 | The Darwin Era Was Here | 15.00% | ~394 |
 | Come on, You Wanna Live Forever? | 14.00% | ~368 |
-| Deep Into Insanity | 13.00% | ~341 |
+| Deep Into Insanity | 14.00% | ~368 |
 | The Passenger | 13.00% | ~341 |
 | El Riesgo Siempre Vive | 12.00% | ~315 |
 | One For Every Occasion | 10.00% | ~262 |

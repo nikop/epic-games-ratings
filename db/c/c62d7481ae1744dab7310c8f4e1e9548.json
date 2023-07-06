@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sputnik2",
@@ -291,9 +291,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -305,8 +305,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:28:45.0637368+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:04:39.6246041+00:00",
   "LastUpdate_AppInfo": "2023-06-30T13:11:24.206136+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:21:15.4807844+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:28:45.063752+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:57:01.7548423+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:04:39.6246263+00:00"
 }

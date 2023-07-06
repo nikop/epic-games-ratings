@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~41,426 |
-| INFUSED WITH LIGHT | 53.00% | ~32,288 |
-| FOXIN' AROUND | 29.00% | ~17,667 |
-| FETCH | 27.00% | ~16,449 |
-| BLOOMS OF LIGHT | 26.00% | ~15,839 |
-| BEST FRIENDS | 22.00% | ~13,403 |
-| AWAKEN | 21.00% | ~12,793 |
-| SPIRIT BARK | 21.00% | ~12,793 |
-| ERADICATE | 20.00% | ~12,184 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~41,429 |
+| INFUSED WITH LIGHT | 53.00% | ~32,290 |
+| FOXIN' AROUND | 29.00% | ~17,668 |
+| FETCH | 27.00% | ~16,450 |
+| BLOOMS OF LIGHT | 26.00% | ~15,840 |
+| BEST FRIENDS | 22.00% | ~13,404 |
+| AWAKEN | 21.00% | ~12,794 |
+| SPIRIT BARK | 21.00% | ~12,794 |
+| ERADICATE | 20.00% | ~12,185 |
 | GARDEN OF LIGHT | 18.00% | ~10,966 |
-| SPIRIT FORM | 16.00% | ~9,747 |
-| UPROOTING DARKNESS | 15.00% | ~9,138 |
-| WRITTEN IN STONE | 15.00% | ~9,138 |
+| SPIRIT FORM | 16.00% | ~9,748 |
+| UPROOTING DARKNESS | 15.00% | ~9,139 |
+| WRITTEN IN STONE | 15.00% | ~9,139 |
 | WEIGHTLESS | 12.00% | ~7,311 |
 | SPIRIT DASH | 10.00% | ~6,092 |
 | OLD COMPANION | 9.00% | ~5,483 |
 | PLAGUE DOCTOR | 8.00% | ~4,874 |
 | SPIRITED AWAY | 8.00% | ~4,874 |
-| MATCH MAKER | 7.00% | ~4,264 |
-| NORTHERN LIGHTS | 7.00% | ~4,264 |
+| MATCH MAKER | 7.00% | ~4,265 |
+| NORTHERN LIGHTS | 7.00% | ~4,265 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,437 |
 | ANCIENT HISTORY | 3.00% | ~1,828 |
 | NONE FORGOTTEN | 2.00% | ~1,218 |
 | KINDRED SPIRITS | 0.60% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,921 (Ranked 79)  
+Progressed: 60,925 (Ranked 79)  
 Completed: 307 (0.50%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 307 (0.50%) (Ranked 125)
 | 2023-07-03 | 60,716 | 307 |
 | 2023-07-04 | 60,812 | 307 |
 | 2023-07-05 | 60,907 | 307 |
-| 2023-07-06 | 60,921 | 307 |
+| 2023-07-06 | 60,925 | 307 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 473)  
 Sum: 113 (Ranked 404)  

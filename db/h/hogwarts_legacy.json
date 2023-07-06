@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4638,10 +4638,10 @@
       "Count": 543
     }
   ],
-  "EOS_Progressed": 285134,
+  "EOS_Progressed": 285139,
   "EOS_Completed": 418,
-  "EOS_NewPlayers": 3294,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 3293,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -12773,6 +12773,11 @@
       "Time": "2023-07-06T03:28:19.1399909+00:00",
       "NumProgressed": 285134,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-07-06T04:04:14.3652689+00:00",
+      "NumProgressed": 285139,
+      "NumCompleted": 418
     }
   ],
   "TotalAchievements": 45,
@@ -12816,7 +12821,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19959
+      "UsersEstimate": 19960
     },
     {
       "ID": "PFA_14",
@@ -12824,7 +12829,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "PFA_15",
@@ -12888,7 +12893,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19959
+      "UsersEstimate": 19960
     },
     {
       "ID": "PFA_22",
@@ -12904,7 +12909,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25662
+      "UsersEstimate": 25663
     },
     {
       "ID": "PFA_24",
@@ -12920,7 +12925,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "PFA_26",
@@ -12952,7 +12957,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "PFA_3",
@@ -13008,7 +13013,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19959
+      "UsersEstimate": 19960
     },
     {
       "ID": "PFA_36",
@@ -13064,7 +13069,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "PFA_42",
@@ -13072,7 +13077,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11405
+      "UsersEstimate": 11406
     },
     {
       "ID": "PFA_43",
@@ -13112,7 +13117,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28513
+      "UsersEstimate": 28514
     },
     {
       "ID": "PFA_7",
@@ -13120,7 +13125,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25662
+      "UsersEstimate": 25663
     },
     {
       "ID": "PFA_8",
@@ -13136,14 +13141,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19959
+      "UsersEstimate": 19960
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 285134,
+      "Progressed": 285139,
       "Completed": 418
     }
   ],
@@ -13151,8 +13156,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-05T21:58:02.5283874+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:28:19.1399906+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:04:14.3652686+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.9302914+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:22:35.679132+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:28:19.1400564+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:58:09.3009535+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:04:14.3653717+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5130,
+  "EOS_Progressed": 5131,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -645,6 +645,11 @@
       "Time": "2023-07-04T20:04:03.4122679+00:00",
       "NumProgressed": 5130,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-07-06T04:05:11.6151007+00:00",
+      "NumProgressed": 5131,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -680,7 +685,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -688,7 +693,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -728,7 +733,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -760,7 +765,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -784,7 +789,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -808,7 +813,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -864,7 +869,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -872,7 +877,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -880,7 +885,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -920,7 +925,7 @@
       "Name": "Survived The Slaughter",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
@@ -944,7 +949,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -952,7 +957,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1040,22 +1045,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5130,
+      "Progressed": 5131,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:29:16.4574366+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:05:11.6150996+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:23.7528794+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:27:05.8371036+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:29:16.4574707+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:02:44.0298048+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:05:11.6151446+00:00"
 }

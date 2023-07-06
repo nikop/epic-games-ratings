@@ -4,7 +4,7 @@
   "ProductSlug": "redout-space-assault",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-01T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4314652+00:00",
   "LastChanged": "2023-03-31T05:58:32.4314653+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:32.6149643+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:26:08.4596772+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:28:50.9195404+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:01:48.8450745+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:04:45.3546187+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,027 |
-| The Journey Begins | 98.00% | ~5,027 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,001 |
-| There is No Escape | 71.00% | ~3,642 |
+| Quinceañera Time | 98.00% | ~5,028 |
+| The Journey Begins | 98.00% | ~5,028 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,002 |
+| There is No Escape | 71.00% | ~3,643 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,181 |
 | Royal Flush | 62.00% | ~3,181 |
-| Timber! | 60.00% | ~3,078 |
+| Timber! | 60.00% | ~3,079 |
 | Survive the Bombsequences | 59.00% | ~3,027 |
-| Killed 20 Jerks | 54.00% | ~2,770 |
+| Killed 20 Jerks | 54.00% | ~2,771 |
 | Death Defied | 53.00% | ~2,719 |
 | Fortunate Soul | 49.00% | ~2,514 |
 | Jerk-Slayer | 43.00% | ~2,206 |
 | Employee of the Month | 37.00% | ~1,898 |
 | I Believe I Can Fly | 37.00% | ~1,898 |
-| Bone Collector | 35.00% | ~1,795 |
-| Fe-Festival | 35.00% | ~1,795 |
+| Bone Collector | 35.00% | ~1,796 |
+| Fe-Festival | 35.00% | ~1,796 |
 | Top of the Food Chain | 32.00% | ~1,642 |
 | Pardon my Slob | 32.00% | ~1,642 |
-| Humerus Achievement | 31.00% | ~1,590 |
+| Humerus Achievement | 31.00% | ~1,591 |
 | Ghost Facers! | 27.00% | ~1,385 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,077 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,078 |
 | Royal Flush, Again | 19.00% | ~975 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~923 |
-| Can't Touch This | 18.00% | ~923 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~924 |
+| Can't Touch This | 18.00% | ~924 |
 | Yummy! | 16.00% | ~821 |
 | That Was Quick | 16.00% | ~821 |
 | Goldrush Glory Days | 15.00% | ~770 |
@@ -45,7 +45,7 @@ Number of Ratings: 63  (23.09.2022)
 | For Rock and Stone! | 9.00% | ~462 |
 | Don't Get Too Greedy | 7.00% | ~359 |
 | You're In a Cult, Call Your Dad | 6.00% | ~308 |
-| Survived The Slaughter | 5.00% | ~256 |
+| Survived The Slaughter | 5.00% | ~257 |
 | The Poison You Just Drank | 4.00% | ~205 |
 | The Fellowship | 3.00% | ~154 |
 | Eternal Frenemies | 3.00% | ~154 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | Backdraft | 0.60% | ~31 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,130 (Ranked 132)  
+Progressed: 5,131 (Ranked 132)  
 Completed: 29 (0.57%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 29 (0.57%) (Ranked 121)
 | 2023-06-25 | 5,127 | 29 |
 | 2023-06-29 | 5,128 | 29 |
 | 2023-07-04 | 5,130 | 29 |
+| 2023-07-06 | 5,131 | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "NinjaSlayer",
       "SetID": "d9ekhim",
       "Name": "Air Slash",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "OhNo",
@@ -525,9 +525,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "World2Boss",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-06T03:29:30.958208+00:00",
+  "LastChanged_Achievements": "2023-07-06T04:05:26.324377+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.5344097+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:22:22.1794053+00:00",
-  "LastUpdate_Achievements": "2023-07-06T03:29:30.958235+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:57:58.5671311+00:00",
+  "LastUpdate_Achievements": "2023-07-06T04:05:26.3244157+00:00"
 }
