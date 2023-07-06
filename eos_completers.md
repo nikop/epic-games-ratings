@@ -55,7 +55,7 @@
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
-| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.97% |
+| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.00% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |

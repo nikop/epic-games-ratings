@@ -462,6 +462,7 @@
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
+| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 |
 | [The Devil's Face](../games/t/the_devil's_face.md) | 14 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |
@@ -491,7 +492,6 @@
 | [Nocturnal](../games/2/2755e0338895421ebeb217fe1f742e7b.md) | 11 | 1,000 |
 | [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
-| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 |
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |
 | [Afterglitch](../games/a/afterglitch.md) | 10 | 1,000 |

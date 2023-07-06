@@ -18,6 +18,7 @@
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
+| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
@@ -445,7 +446,6 @@
 | [The Bunker](../games/t/the_bunker.md) | 28 | 1,000 |
 | [The Caligula Effect 2](../games/t/the_caligula_effect_2.md) | 49 | 1,000 |
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
-| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 |
 | [The Complex](../games/t/the_complex.md) | 20 | 1,000 |
 | [The Creepy Syndrome](../games/f/f2ed44898a204bee866836b9b659bce4.md) | 12 | 1,000 |
 | [The Crown of Wu](../games/t/the_crown_of_wu.md) | 37 | 1,000 |

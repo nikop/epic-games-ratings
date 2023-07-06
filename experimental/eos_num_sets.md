@@ -36,7 +36,7 @@
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 | 2 |
-| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 11 | 1,000 | 2 |
+| [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 14 | 1,220 | 2 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 | 2 |
