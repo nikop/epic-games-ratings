@@ -18,7 +18,7 @@
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.89% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.84% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -85,7 +85,7 @@
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.48% |
+| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.47% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.35% |
@@ -199,12 +199,12 @@
 | 195 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 199 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
+| 199 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 199 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
 | 199 | [House Party](games/h/house_party.md) | 0.05% |
 | 199 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 203 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 203 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
-| 203 | [Old World](games/o/old_world.md) | 0.04% |
+| 204 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 204 | [Old World](games/o/old_world.md) | 0.04% |
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 206 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 206 | [High On Life](games/h/high_on_life.md) | 0.03% |

@@ -296,7 +296,7 @@
 | 273 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 502 | 191 |
 | 273 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 78 | 355 |
 | 273 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 504 |
-| 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,800 | 57 |
+| 273 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,802 | 57 |
 | 273 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 197 |
 | 273 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 504 |
 | 300 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 504 |
@@ -348,7 +348,7 @@
 | 344 | [Dead Space](games/d/dead_space.md) | 4.62 | 73 | 363 |
 | 344 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 277 | 238 |
 | 344 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 438 |
-| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,369 | 124 |
+| 344 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,370 | 124 |
 | 344 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.62 | 0 | 504 |
 | 344 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 546 | 185 |
 | 344 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 504 |
@@ -440,7 +440,7 @@
 | 423 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 504 |
 | 423 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,411 | 25 |
 | 440 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 504 |
-| 440 | [Among Us](games/a/among_us.md) | 4.57 | 2,514 | 95 |
+| 440 | [Among Us](games/a/among_us.md) | 4.57 | 2,516 | 94 |
 | 440 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 406 |
 | 440 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 463 |
 | 440 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 504 |
