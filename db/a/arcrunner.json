@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-07-05T17:03:33.9919958+00:00",
       "NumProgressed": 697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T10:04:35.8575067+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1459,7 +1464,7 @@
       "Name": "Augmented",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1690,13 +1695,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 3
     }
   ],
@@ -1704,8 +1709,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:04:33.5679627+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:04:35.8575062+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:47.5496707+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:01:18.49704+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:04:33.5679915+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:00:41.0705341+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:04:35.8575308+00:00"
 }

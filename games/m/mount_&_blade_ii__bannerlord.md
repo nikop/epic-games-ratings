@@ -23,8 +23,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 9.00% | ~4,961 |
 | I spit on your grave | 9.00% | ~4,961 |
 | What have the Romans ever done for us? | 9.00% | ~4,961 |
-| Butterlord | 8.00% | ~4,409 |
-| This Is Our Land | 8.00% | ~4,409 |
+| Butterlord | 8.00% | ~4,410 |
+| This Is Our Land | 8.00% | ~4,410 |
 | Mastery | 7.00% | ~3,858 |
 | Know your enemy | 6.00% | ~3,307 |
 | Crowdfunded | 4.00% | ~2,205 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,118 (Ranked 82)  
+Progressed: 55,119 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 54,912 | 0 |
 | 2023-07-04 | 54,995 | 0 |
 | 2023-07-05 | 55,097 | 0 |
-| 2023-07-06 | 55,118 | 0 |
+| 2023-07-06 | 55,119 | 0 |
 ## Awards
 Max (Character Customization): 6,759  (Ranked 48)  
 Sum: 13,644 (Ranked 67)  

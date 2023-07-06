@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-07-06T02:33:46.5201473+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T10:05:14.3600582+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1281,7 +1286,7 @@
       "Name": "Facility Online",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1295,9 +1300,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1305,7 +1310,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1313,7 +1318,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -1385,7 +1390,7 @@
       "Name": "Stocking Up",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1401,7 +1406,7 @@
       "Name": "On Target",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -1480,14 +1485,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:05:21.5407361+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:05:14.3600575+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:02:28.0444331+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:05:21.5407619+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:01:33.4868399+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:05:14.3600854+00:00"
 }

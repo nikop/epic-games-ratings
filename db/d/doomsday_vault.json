@@ -4,7 +4,7 @@
   "ProductSlug": "doomsday-vault-b0ed96",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-05T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.9877167+00:00",
   "LastChanged": "2023-03-31T05:58:31.9877168+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:51.5398945+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:59:23.4721616+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:05:24.1144393+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:59:02.4255011+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:05:16.873077+00:00"
 }

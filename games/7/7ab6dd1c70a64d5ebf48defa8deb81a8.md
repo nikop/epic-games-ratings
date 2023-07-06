@@ -3,15 +3,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break out | 29.00% | ~4 |
-| Find Allies | 21.00% | ~3 |
-| Tributes of Caladrias | 21.00% | ~3 |
-| Powerful Allies | 14.00% | ~2 |
-| Monsalar: Wildlands | 14.00% | ~2 |
-| Geared up | 14.00% | ~2 |
-| Fashion Victim | 14.00% | ~2 |
-| Alchemist | 14.00% | ~2 |
-| Stone collection | 14.00% | ~2 |
+| Break out | 27.00% | ~4 |
+| Find Allies | 20.00% | ~3 |
+| Tributes of Caladrias | 20.00% | ~3 |
+| Powerful Allies | 13.00% | ~2 |
+| Monsalar: Wildlands | 13.00% | ~2 |
+| Geared up | 13.00% | ~2 |
+| Fashion Victim | 13.00% | ~2 |
+| Alchemist | 13.00% | ~2 |
+| Stone collection | 13.00% | ~2 |
 | To battle | 7.00% | ~1 |
 | Godslayer | 7.00% | ~1 |
 | A taste of wrath | 7.00% | ~1 |
@@ -40,7 +40,7 @@
 | A Queen's tale | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 381)  
+Progressed: 15 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-06-26 | 12 | 0 |
 | 2023-06-28 | 13 | 0 |
 | 2023-06-29 | 14 | 0 |
+| 2023-07-06 | 15 | 0 |

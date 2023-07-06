@@ -6,20 +6,20 @@ Rating: 4.66 (Ranked 273)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 93.00% | ~4,232 |
-| All thumbs | 91.00% | ~4,140 |
-| I will survive! | 91.00% | ~4,140 |
-| Home, sweet home | 90.00% | ~4,095 |
-| Survivalist | 88.00% | ~4,004 |
-| One way ticket | 83.00% | ~3,776 |
-| Last man standing | 78.00% | ~3,549 |
-| Family guy | 76.00% | ~3,458 |
+| All thumbs | 91.00% | ~4,141 |
+| I will survive! | 91.00% | ~4,141 |
+| Home, sweet home | 90.00% | ~4,096 |
+| Survivalist | 88.00% | ~4,005 |
+| One way ticket | 83.00% | ~3,777 |
+| Last man standing | 78.00% | ~3,550 |
+| Family guy | 76.00% | ~3,459 |
 | Out of the Bag | 73.00% | ~3,322 |
-| The Dark Side | 68.00% | ~3,094 |
-| Duck and cover! | 63.00% | ~2,866 |
-| Souper! | 62.00% | ~2,821 |
+| The Dark Side | 68.00% | ~3,095 |
+| Duck and cover! | 63.00% | ~2,867 |
+| Souper! | 62.00% | ~2,822 |
 | Pacifist | 57.00% | ~2,594 |
-| 2-1-6 | 55.00% | ~2,502 |
-| A gift | 51.00% | ~2,320 |
+| 2-1-6 | 55.00% | ~2,503 |
+| A gift | 51.00% | ~2,321 |
 | Girl Power | 45.00% | ~2,048 |
 | What goes around... | 41.00% | ~1,866 |
 | Be Prepared | 36.00% | ~1,638 |
@@ -35,8 +35,8 @@ Rating: 4.66 (Ranked 273)
 | A New Hope | 14.00% | ~637 |
 | Enigma | 14.00% | ~637 |
 | Challenger | 12.00% | ~546 |
-| No stone unturned | 11.00% | ~500 |
-| Men in Black | 11.00% | ~500 |
+| No stone unturned | 11.00% | ~501 |
+| Men in Black | 11.00% | ~501 |
 | Unplugged | 7.00% | ~319 |
 | Holidays! | 6.00% | ~273 |
 | Mad Hatter | 6.00% | ~273 |
@@ -45,8 +45,8 @@ Rating: 4.66 (Ranked 273)
 | Lumbersexual | 5.00% | ~228 |
 | Feline Domination | 4.00% | ~182 |
 | Rogue One | 4.00% | ~182 |
-| Danger zone | 3.00% | ~136 |
-| Friend in need | 3.00% | ~136 |
+| Danger zone | 3.00% | ~137 |
+| Friend in need | 3.00% | ~137 |
 | Soup Can into Space | 2.00% | ~91 |
 | Enola Gay | 2.00% | ~91 |
 | Stay frosty | 2.00% | ~91 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 273)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,550 (Ranked 136)  
+Progressed: 4,551 (Ranked 136)  
 Completed: 1 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.02%) (Ranked 212)
 | 2023-07-03 | 4,520 | 1 |
 | 2023-07-04 | 4,529 | 1 |
 | 2023-07-05 | 4,546 | 1 |
-| 2023-07-06 | 4,550 | 1 |
+| 2023-07-06 | 4,551 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

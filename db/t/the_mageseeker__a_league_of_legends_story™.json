@@ -3073,9 +3073,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1861
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3273,9 +3273,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1789
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3330,8 +3330,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-06-09T19:57:43.8880979+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:08:18.1584679+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:07:23.1156179+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:52.9751016+00:00",
-  "LastUpdate_Ratings": "2023-07-06T08:58:26.7064961+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:08:18.1585143+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:58:14.4117505+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:07:23.115668+00:00"
 }

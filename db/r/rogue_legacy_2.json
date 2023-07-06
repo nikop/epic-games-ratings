@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1241,7 +1241,7 @@
   ],
   "EOS_Progressed": 22425,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -5229,9 +5229,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 202
     },
     {
       "ID": "BoxerBoss",
@@ -5379,8 +5379,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-07-03T14:59:20.2689107+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:08:14.6484907+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:07:19.5900837+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:09.7977481+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:00:43.8419843+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:08:14.6485325+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:00:10.1187222+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:07:19.5901248+00:00"
 }

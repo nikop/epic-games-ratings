@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -8930,9 +8930,9 @@
       "ID": "RIDE_ALL_CREATURES",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027I\u0027ve never seen a real one!\u0027\u0027",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 448
     },
     {
       "ID": "SHOOT_50_ENEMIES_HATS",
@@ -8970,8 +8970,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-04T06:00:25.9731593+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:03:54.2334876+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:03:34.7863414+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:02:47.1053288+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:03:54.2335441+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:01:46.626403+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:03:34.786397+00:00"
 }

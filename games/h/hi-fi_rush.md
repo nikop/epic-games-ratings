@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 25)
 | Who's the boss now? | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
+| Alright, that felt AWESOME! | 0.20% | ~7 |
 | Call me Turbo Chai | 0.20% | ~4 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
@@ -40,7 +41,6 @@ Rating: 4.87 (Ranked 25)
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
 | Who put gears in there? | 0.10% | ~3 |
-| Alright, that felt AWESOME! | 0.10% | ~3 |
 | You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |
@@ -78,7 +78,7 @@ Rating: 4.87 (Ranked 25)
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,407 (Ranked 144)  
-Completed: 5 (0.15%) (Ranked 169)  
+Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

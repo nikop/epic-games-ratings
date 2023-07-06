@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 59.00% | ~135 |
-| Starting Skyward | 52.00% | ~119 |
-| Grime is Not Good | 45.00% | ~103 |
+| In the Black | 59.00% | ~136 |
+| Starting Skyward | 51.00% | ~117 |
+| Grime is Not Good | 45.00% | ~104 |
 | Campaign Launch | 40.00% | ~92 |
 | Floor Galore | 38.00% | ~87 |
 | Dinner Dash | 38.00% | ~87 |
 | Need a Consult | 35.00% | ~80 |
 | It's Technical | 35.00% | ~80 |
-| Upgrade Unlock | 34.00% | ~78 |
+| Upgrade Unlock | 33.00% | ~76 |
 | Delegate Maintenance | 33.00% | ~76 |
 | Proper Walls | 31.00% | ~71 |
 | Destination Destiny | 28.00% | ~64 |
 | Happy Tenants | 26.00% | ~60 |
-| Your Prestige is Rising | 24.00% | ~55 |
 | Smooth Service | 24.00% | ~55 |
+| Your Prestige is Rising | 23.00% | ~53 |
 | Potent Potables | 23.00% | ~53 |
 | Retail Revenue | 23.00% | ~53 |
-| Lux Living | 22.00% | ~50 |
-| Don't Feel a Loan | 21.00% | ~48 |
+| Lux Living | 22.00% | ~51 |
 | People Mover | 21.00% | ~48 |
 | Leveled Up Shops | 21.00% | ~48 |
+| Don't Feel a Loan | 20.00% | ~46 |
 | Emporium Empire | 20.00% | ~46 |
 | Get Electrified | 20.00% | ~46 |
 | Artfully Done | 19.00% | ~44 |
@@ -39,8 +39,8 @@
 | Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 14.00% | ~32 |
 | Smooth Operator | 13.00% | ~30 |
-| 28 Days Later | 12.00% | ~27 |
-| Swimming in Surplus | 12.00% | ~27 |
+| 28 Days Later | 12.00% | ~28 |
+| Swimming in Surplus | 12.00% | ~28 |
 | Plaza Plan | 10.00% | ~23 |
 | Master of Puppets | 10.00% | ~23 |
 | First 100 Days | 9.00% | ~21 |
@@ -56,13 +56,13 @@
 | Profound Proceeds | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
+| Baron of Business | 6.00% | ~14 |
 | Careful Constructor | 6.00% | ~14 |
 | Sky High Stature | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
 | It's a Gas | 6.00% | ~14 |
-| Baron of Business | 5.00% | ~11 |
-| Office Bigwigs | 5.00% | ~11 |
-| Golden Opportunity | 5.00% | ~11 |
+| Office Bigwigs | 5.00% | ~12 |
+| Golden Opportunity | 5.00% | ~12 |
 | Three of a Kind | 4.00% | ~9 |
 | Sandbagger | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~7 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 258)  
+Progressed: 230 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-06-24 | 227 | 0 |
 | 2023-06-25 | 228 | 0 |
 | 2023-06-28 | 229 | 0 |
+| 2023-07-06 | 230 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

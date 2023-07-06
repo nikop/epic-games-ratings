@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24038,
+  "EOS_Progressed": 24039,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7332,6 +7332,11 @@
       "Time": "2023-07-06T09:03:31.0156053+00:00",
       "NumProgressed": 24038,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-06T10:03:11.0322952+00:00",
+      "NumProgressed": 24039,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7359,7 +7364,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "Best_Insurance",
@@ -7367,7 +7372,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -7391,7 +7396,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12259
+      "UsersEstimate": 12260
     },
     {
       "ID": "Collector",
@@ -7415,7 +7420,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "Diabolical",
@@ -7431,7 +7436,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14663
+      "UsersEstimate": 14664
     },
     {
       "ID": "Dont_Need_These",
@@ -7455,7 +7460,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15384
+      "UsersEstimate": 15385
     },
     {
       "ID": "Escape_Artist",
@@ -7471,7 +7476,7 @@
       "Name": "Fragile Panes",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "Fully_Upgraded",
@@ -7487,7 +7492,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7211
+      "UsersEstimate": 7212
     },
     {
       "ID": "Ghost_Expert",
@@ -7503,7 +7508,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7211
+      "UsersEstimate": 7212
     },
     {
       "ID": "Legions",
@@ -7567,7 +7572,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4087
     },
     {
       "ID": "Rift_Destroyer",
@@ -7615,7 +7620,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "Skilled",
@@ -7647,7 +7652,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20673
+      "UsersEstimate": 20674
     },
     {
       "ID": "Summoner",
@@ -7655,7 +7660,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "Surprise",
@@ -7663,7 +7668,7 @@
       "Name": "Surprise!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "Swift_Removers",
@@ -7703,7 +7708,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10336
+      "UsersEstimate": 10337
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7727,7 +7732,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11538
+      "UsersEstimate": 11539
     },
     {
       "ID": "Welcome_Crew",
@@ -7750,7 +7755,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24038,
+      "Progressed": 24039,
       "Completed": 46
     }
   ],
@@ -7758,8 +7763,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-05T08:59:23.1337716+00:00",
-  "LastChanged_Achievements": "2023-07-06T09:03:31.0156049+00:00",
+  "LastChanged_Achievements": "2023-07-06T10:03:11.0322947+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:00:25.0520555+00:00",
-  "LastUpdate_Achievements": "2023-07-06T09:03:31.0156658+00:00"
+  "LastUpdate_Ratings": "2023-07-06T09:59:54.7406737+00:00",
+  "LastUpdate_Achievements": "2023-07-06T10:03:11.0323567+00:00"
 }
