@@ -14,11 +14,11 @@
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
 | 14 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.90% |
-| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.30% |
+| 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.27% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.84% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.20% |
+| 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -41,7 +41,7 @@
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69% |
 | 40 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
-| 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.17% |
+| 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.00% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
@@ -53,7 +53,7 @@
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 52 | [JARS](games/j/jars.md) | 3.28% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
-| 54 | [The Complex](games/t/the_complex.md) | 3.11% |
+| 54 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
 | 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2.97% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
@@ -159,7 +159,7 @@
 | 157 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 157 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.22% |
 | 159 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.21% |
-| 159 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 160 | [Going Medieval](games/g/going_medieval.md) | 0.20% |
 | 161 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.19% |
 | 161 | [BLACKTAIL](games/b/blacktail.md) | 0.19% |
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
