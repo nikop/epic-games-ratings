@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521381,
+  "EOS_Progressed": 521382,
   "EOS_Completed": 438,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8320,6 +8320,11 @@
       "Time": "2023-07-05T23:05:01.8495839+00:00",
       "NumProgressed": 521381,
       "NumCompleted": 438
+    },
+    {
+      "Time": "2023-07-06T00:02:57.0063085+00:00",
+      "NumProgressed": 521382,
+      "NumCompleted": 438
     }
   ],
   "TotalAchievements": 57,
@@ -8339,7 +8344,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 234621
+      "UsersEstimate": 234622
     },
     {
       "ID": "11",
@@ -8411,7 +8416,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 323256
+      "UsersEstimate": 323257
     },
     {
       "ID": "2",
@@ -8427,7 +8432,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125131
+      "UsersEstimate": 125132
     },
     {
       "ID": "21",
@@ -8555,7 +8560,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260690
+      "UsersEstimate": 260691
     },
     {
       "ID": "36",
@@ -8659,7 +8664,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 323256
+      "UsersEstimate": 323257
     },
     {
       "ID": "48",
@@ -8707,7 +8712,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 239835
+      "UsersEstimate": 239836
     },
     {
       "ID": "53",
@@ -8786,15 +8791,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521381,
+      "Progressed": 521382,
       "Completed": 438
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:05:01.8495831+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:02:57.006308+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.3769011+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:58:22.8371605+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:05:01.8497618+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:57:54.6751934+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:02:57.0063948+00:00"
 }

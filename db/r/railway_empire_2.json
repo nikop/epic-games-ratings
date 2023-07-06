@@ -3238,9 +3238,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 752
     },
     {
       "ID": "A35",
@@ -3342,9 +3342,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 943
+      "UsersEstimate": 958
     },
     {
       "ID": "A48",
@@ -3415,8 +3415,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:09:36.593424+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:07:16.3650777+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:59:35.073764+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:09:36.593542+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:58:51.7407856+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:07:16.3651581+00:00"
 }

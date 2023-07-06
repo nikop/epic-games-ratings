@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -3847,6 +3847,11 @@
       "Time": "2023-07-05T22:08:59.3095476+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T00:07:15.1265089+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -4034,7 +4039,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "fellowshippower",
@@ -4090,7 +4095,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "herewegoagain",
@@ -4154,7 +4159,7 @@
       "Name": "Lieutenant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "lockandload",
@@ -4258,7 +4263,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "relicofthepast",
@@ -4418,7 +4423,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "warmachinesarmy",
@@ -4457,7 +4462,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 1
     }
   ],
@@ -4465,8 +4470,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-06-18T17:58:20.2720325+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:09:34.8470362+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:07:15.1265085+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:59:24.7740006+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:09:34.8472726+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:58:46.6046802+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:07:15.1266097+00:00"
 }

@@ -23,12 +23,12 @@ Rating: 4.45 (Ranked 620)
 | No Stone Unturned | 0.90% | ~29 |
 | Organ Grinder | 0.90% | ~29 |
 | Der Geist | 0.80% | ~26 |
+| Brains of the Operation | 0.80% | ~26 |
 | Opposing Force | 0.70% | ~22 |
 | Skirmisher | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
 | Snake in the Grass | 0.70% | ~22 |
-| Brains of the Operation | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | My Little Friend | 0.60% | ~19 |
@@ -41,6 +41,7 @@ Rating: 4.45 (Ranked 620)
 | The Long Game | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
+| From Paris with Love | 0.30% | ~10 |
 | Burn after reading | 0.30% | ~10 |
 | Souvenir hunter | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
@@ -53,7 +54,6 @@ Rating: 4.45 (Ranked 620)
 | Strategist | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
-| From Paris with Love | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
 | Up close and personal | 0.20% | ~6 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56875,
+  "EOS_Progressed": 56878,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7057,6 +7057,11 @@
       "Time": "2023-07-05T23:05:05.2969225+00:00",
       "NumProgressed": 56875,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-06T00:02:59.4537573+00:00",
+      "NumProgressed": 56878,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7068,7 +7073,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18769
+      "UsersEstimate": 18770
     },
     {
       "ID": "02",
@@ -7084,7 +7089,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11375
+      "UsersEstimate": 11376
     },
     {
       "ID": "04",
@@ -7132,7 +7137,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "10",
@@ -7188,7 +7193,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "17",
@@ -7196,7 +7201,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "18",
@@ -7236,7 +7241,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "23",
@@ -7284,7 +7289,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6256
+      "UsersEstimate": 6257
     },
     {
       "ID": "29",
@@ -7340,7 +7345,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15356
+      "UsersEstimate": 15357
     },
     {
       "ID": "36",
@@ -7404,7 +7409,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8532
     },
     {
       "ID": "44",
@@ -7468,7 +7473,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "52",
@@ -7603,21 +7608,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56875,
+      "Progressed": 56878,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20343,
+      "Progressed": 20346,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:05:05.2969217+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:02:59.4537569+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-05T22:58:54.0771127+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:05:05.2971162+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:58:20.8284162+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:02:59.4538632+00:00"
 }

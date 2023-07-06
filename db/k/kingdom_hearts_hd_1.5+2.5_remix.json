@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 65,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 316,
@@ -4542,10 +4542,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 6625,
       "NumberOfAwardsMax": 2461
+    },
+    {
+      "Time": "2023-07-06T00:00:34.4329325+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6628,
+      "NumberOfAwardsMax": 2461
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6625,
+  "NumberOfAwards": 6628,
   "NumberOfAwardsMax": 2461,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4559,7 +4565,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 527
+      "Count": 530
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4633,8 +4639,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-07-05T18:00:21.3637155+00:00",
+  "LastChanged": "2023-07-06T00:00:34.4329323+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.0439703+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:01:56.3860563+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:05:04.7154728+00:00"
+  "LastUpdate_Ratings": "2023-07-06T00:00:34.4329333+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:02:58.6517306+00:00"
 }

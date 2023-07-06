@@ -15,7 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Suns and Soldiers | 0.80% | ~179 |
 | King and Kin | 0.70% | ~157 |
 | Progenitor and Protégé | 0.70% | ~157 |
-| Prequel to the Sequel | 0.60% | ~135 |
+| Prequel to the Sequel | 0.70% | ~157 |
 | Truly Blessed | 0.40% | ~90 |
 | For Glory | 0.40% | ~90 |
 | Pillow Investments | 0.30% | ~67 |

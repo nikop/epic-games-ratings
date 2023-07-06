@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3044,9 +3044,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10186,
+  "EOS_Progressed": 10187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7839,6 +7839,11 @@
       "Time": "2023-07-05T23:04:52.7571873+00:00",
       "NumProgressed": 10186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T00:02:50.4836464+00:00",
+      "NumProgressed": 10187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7850,7 +7855,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "02_BurningCity",
@@ -7986,7 +7991,7 @@
       "Name": "Mythic Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "19_EqualToAroden",
@@ -8098,7 +8103,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -8777,21 +8782,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8968,
+      "Progressed": 8969,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10186,
+      "Progressed": 10187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-05T14:58:49.8042669+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:04:52.7571866+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:02:50.483646+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:00:08.0324647+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:04:52.7573811+00:00"
+  "LastUpdate_Ratings": "2023-07-05T23:59:13.3488264+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:02:50.4838457+00:00"
 }

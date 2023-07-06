@@ -984,9 +984,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3970,
+  "EOS_Progressed": 3971,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5624,6 +5624,11 @@
       "Time": "2023-07-05T23:06:33.9137578+00:00",
       "NumProgressed": 3970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T00:04:22.0049384+00:00",
+      "NumProgressed": 3971,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5683,7 +5688,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -5731,7 +5736,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -5795,7 +5800,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5931,7 +5936,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -5954,15 +5959,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3970,
+      "Progressed": 3971,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-04T00:00:06.3274924+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:06:33.913757+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:04:22.004938+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:03:18.9370946+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:06:33.9138606+00:00"
+  "LastUpdate_Ratings": "2023-07-06T00:01:44.2827878+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:04:22.0049953+00:00"
 }

@@ -17,7 +17,7 @@
 | Getting Deployment | 12.00% | ~41 |
 | Fighting for Survival | 11.00% | ~38 |
 | Keeping Busy | 11.00% | ~38 |
-| Silver Competitor | 8.00% | ~27 |
+| Silver Competitor | 9.00% | ~31 |
 | Captain | 8.00% | ~27 |
 | Brothers in Arms | 7.00% | ~24 |
 | Factory Expansion | 7.00% | ~24 |

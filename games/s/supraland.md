@@ -6,15 +6,15 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~708,008 |
-| The Blues | 85.00% | ~607,886 |
+| Out of bed | 99.00% | ~708,009 |
+| The Blues | 85.00% | ~607,887 |
 | Fast | 66.00% | ~472,006 |
-| Healthbar | 55.00% | ~393,338 |
+| Healthbar | 55.00% | ~393,339 |
 | Force Cube | 53.00% | ~379,035 |
 | Double Jump | 48.00% | ~343,277 |
-| Regeneration | 47.00% | ~336,125 |
-| Climb the hill | 42.00% | ~300,367 |
-| Triple Jump | 42.00% | ~300,367 |
+| Regeneration | 47.00% | ~336,126 |
+| Climb the hill | 42.00% | ~300,368 |
+| Triple Jump | 42.00% | ~300,368 |
 | Through the fire pipe | 38.00% | ~271,761 |
 | MacGuffin | 38.00% | ~271,761 |
 | Just once | 36.00% | ~257,458 |
@@ -30,8 +30,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Buckle | 17.00% | ~121,577 |
 | Green Keycard | 17.00% | ~121,577 |
 | Rattle Hag | 15.00% | ~107,274 |
-| All Shells | 14.00% | ~100,122 |
-| Beam | 14.00% | ~100,122 |
+| All Shells | 14.00% | ~100,123 |
+| Beam | 14.00% | ~100,123 |
 | 9 | 13.00% | ~92,971 |
 | Purple Cube | 13.00% | ~92,971 |
 | Supraball Noob | 13.00% | ~92,971 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~715 |
 | DLC: Top of the world | 0.10% | ~715 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,160 (Ranked 16)  
+Progressed: 715,161 (Ranked 16)  
 Completed: 706 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 706 (0.10%) (Ranked 181)
 | 2023-07-03 | 714,824 | 706 |
 | 2023-07-04 | 714,994 | 706 |
 | 2023-07-05 | 715,160 | 706 |
+| 2023-07-06 | 715,161 | 706 |
 ## Awards
 Max (Challenging Puzzles): 7,635  (Ranked 43)  
 Sum: 9,946 (Ranked 81)  

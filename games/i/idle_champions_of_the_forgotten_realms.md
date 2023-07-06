@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,033 |
-| The Mad Wizard | 11.00% | ~22,758 |
-| The Ring of Regeneration | 7.00% | ~14,482 |
-| Are Ya Chicken? | 7.00% | ~14,482 |
-| Were-verpowered | 5.00% | ~10,344 |
-| Mad Cow Disease | 5.00% | ~10,344 |
-| Friendly Imps | 5.00% | ~10,344 |
+| The Cursed Farmer | 15.00% | ~31,036 |
+| The Mad Wizard | 11.00% | ~22,760 |
+| The Ring of Regeneration | 7.00% | ~14,484 |
+| Are Ya Chicken? | 7.00% | ~14,484 |
+| Were-verpowered | 5.00% | ~10,345 |
+| Mad Cow Disease | 5.00% | ~10,345 |
+| Friendly Imps | 5.00% | ~10,345 |
 | A Persistent Buzzing | 4.00% | ~8,276 |
 | Seeking Allies | 4.00% | ~8,276 |
 | Pure Energy | 4.00% | ~8,276 |
@@ -73,20 +73,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.60% | ~1,039 |
 | Rude Welcome | 0.60% | ~1,241 |
 | Durable Deep | 0.60% | ~1,241 |
-| Sleuth It Out | 0.50% | ~1,034 |
-| Chatty Nobles | 0.50% | ~1,034 |
-| The Wyrmheart Mine | 0.50% | ~1,034 |
-| Tower on the Lake | 0.50% | ~1,034 |
-| Seeds of Deceit | 0.50% | ~1,034 |
-| The Guardian of Orolunga | 0.50% | ~1,034 |
-| The Lost Love | 0.50% | ~1,034 |
-| Enter the Sargauth | 0.50% | ~1,034 |
-| Lair of the Xanathar | 0.50% | ~1,034 |
-| Waterdeep Under Siege | 0.50% | ~1,034 |
-| Difficult Terrain | 0.50% | ~1,034 |
-| Elturel Has Fallen | 0.50% | ~1,034 |
+| Sleuth It Out | 0.50% | ~1,035 |
+| Chatty Nobles | 0.50% | ~1,035 |
+| The Wyrmheart Mine | 0.50% | ~1,035 |
+| Tower on the Lake | 0.50% | ~1,035 |
+| Seeds of Deceit | 0.50% | ~1,035 |
+| The Guardian of Orolunga | 0.50% | ~1,035 |
+| The Lost Love | 0.50% | ~1,035 |
+| Enter the Sargauth | 0.50% | ~1,035 |
+| Lair of the Xanathar | 0.50% | ~1,035 |
+| Waterdeep Under Siege | 0.50% | ~1,035 |
+| Difficult Terrain | 0.50% | ~1,035 |
+| Elturel Has Fallen | 0.50% | ~1,035 |
 | The Everlasting Rime | 0.50% | ~866 |
-| Expert Opinion | 0.50% | ~1,034 |
+| Expert Opinion | 0.50% | ~1,035 |
 | Lobsterfolk Assault | 0.40% | ~828 |
 | Home Field Advantage | 0.40% | ~828 |
 | Force Grey Unleashed | 0.40% | ~828 |
@@ -116,10 +116,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not Very Charming | 0.30% | ~621 |
 | Periodic Petrification | 0.30% | ~621 |
 | Double Vision | 0.30% | ~621 |
-| The Newcomers of Notoriety | 0.30% | ~519 |
+| The Newcomers of Notoriety | 0.30% | ~520 |
 | The Hunt for Owl-y | 0.30% | ~621 |
 | We're not in Faerûn Anymore | 0.30% | ~621 |
-| Thine Bounty is Mine! | 0.30% | ~519 |
+| Thine Bounty is Mine! | 0.30% | ~520 |
 | Hold for the Red Wizards | 0.30% | ~621 |
 | House of Darkness | 0.30% | ~621 |
 | The Trepidatious Trio | 0.30% | ~621 |
@@ -136,30 +136,32 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.30% | ~621 |
 | Patience is Key | 0.30% | ~621 |
 | Troublesome Prisoner | 0.30% | ~621 |
-| An Illithid Undertaking | 0.30% | ~519 |
-| Déjà Vu | 0.30% | ~519 |
-| Dreamscape | 0.30% | ~519 |
-| The Path of Dreams | 0.30% | ~519 |
-| The Lost Hollyphant | 0.30% | ~519 |
-| Alterdeep | 0.30% | ~519 |
-| The Wandering Emporium | 0.30% | ~519 |
-| Tiamat's Army | 0.30% | ~519 |
-| Questlines | 0.30% | ~519 |
-| Bel's Forge | 0.30% | ~519 |
-| Civilization | 0.30% | ~519 |
-| The Sibriex | 0.30% | ~519 |
-| Wrecked Flying Fortress | 0.30% | ~519 |
-| Dwarven Rumors | 0.30% | ~519 |
-| Sunblight | 0.30% | ~519 |
-| The Bleeding Citadel | 0.30% | ~519 |
-| Idyllglen | 0.30% | ~519 |
-| The Radiant Nightmare | 0.30% | ~519 |
+| An Illithid Undertaking | 0.30% | ~520 |
+| Déjà Vu | 0.30% | ~520 |
+| Dreamscape | 0.30% | ~520 |
+| The Path of Dreams | 0.30% | ~520 |
+| The Lost Hollyphant | 0.30% | ~520 |
+| Alterdeep | 0.30% | ~520 |
+| The Wandering Emporium | 0.30% | ~520 |
+| Tiamat's Army | 0.30% | ~520 |
+| Questlines | 0.30% | ~520 |
+| Bel's Forge | 0.30% | ~520 |
+| Civilization | 0.30% | ~520 |
+| The Sibriex | 0.30% | ~520 |
+| Wrecked Flying Fortress | 0.30% | ~520 |
+| Dwarven Rumors | 0.30% | ~520 |
+| Sunblight | 0.30% | ~520 |
+| The Bleeding Citadel | 0.30% | ~520 |
+| Idyllglen | 0.30% | ~520 |
+| The Radiant Nightmare | 0.30% | ~520 |
 | Overwhelming Force | 0.30% | ~621 |
 | The Castle of a Thousand Vecnas | 0.20% | ~346 |
+| The Sanctum of the Sword | 0.20% | ~346 |
 | Struggling Toward Omu | 0.20% | ~414 |
 | Wagon Train | 0.20% | ~414 |
 | Taking Responsibility | 0.20% | ~414 |
 | No Good at All | 0.20% | ~414 |
+| Fall From Grace | 0.20% | ~414 |
 | Never Split the Party | 0.20% | ~414 |
 | Snakes on our Plane | 0.20% | ~346 |
 | The Soulmonger Calls | 0.20% | ~414 |
@@ -227,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.20% | ~346 |
 | Giant-Size Adventure | 0.20% | ~346 |
 | Enemy Summit | 0.20% | ~346 |
+| Mirage Arcane | 0.20% | ~346 |
 | An Awakened Axe | 0.20% | ~346 |
 | Waiting on Sunrise | 0.20% | ~346 |
 | Deekin's Mission | 0.20% | ~346 |
@@ -245,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~173 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~173 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~173 |
-| The Sanctum of the Sword | 0.10% | ~173 |
 | Kas the Bloody Handed | 0.10% | ~173 |
 | Get Back In The Castle | 0.10% | ~173 |
 | Kas the Destroyer | 0.10% | ~173 |
@@ -269,7 +271,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~173 |
 | Welcome to the Rock | 0.10% | ~173 |
 | Welcome to the Band | 0.10% | ~173 |
-| Fall From Grace | 0.10% | ~207 |
 | Underground Railroad | 0.10% | ~207 |
 | Acererak's Puzzle | 0.10% | ~173 |
 | Drop of Time | 0.10% | ~173 |
@@ -340,7 +341,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Prisoners of Lolth | 0.10% | ~173 |
 | Prisoners of Unknown Choices | 0.10% | ~173 |
 | Power of Three | 0.10% | ~173 |
-| Mirage Arcane | 0.10% | ~173 |
 | Only Human | 0.10% | ~173 |
 | CONtagious Cold | 0.10% | ~173 |
 | Ten in Ten-Towns | 0.10% | ~173 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,889 (Ranked 52)  
+Progressed: 206,909 (Ranked 52)  
 Completed: 2,032 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,9 +587,10 @@ Completed: 2,032 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
+| 2023-07-06 | 206,909 | 2,032 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
-Sum: 30,396 (Ranked 37)  
+Sum: 30,400 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -599,7 +600,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,541 |
 | This game has Amazing Characters | 3,996 |
 | This game is Highly Recommended | 3,987 |
-| This game has Playful Visuals | 3,287 |
+| This game has Playful Visuals | 3,291 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -763,4 +764,4 @@ Diff (max vs sum): 28
 | 2023-07-02 | 4.05 | - | 4,995 | 30,358 |
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
-| 2023-07-05 | 4.05 | - | 5,005 | 30,396 |
+| 2023-07-05 | 4.05 | - | 5,005 | 30,400 |

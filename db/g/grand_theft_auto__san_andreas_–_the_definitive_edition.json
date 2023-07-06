@@ -520,9 +520,9 @@
       "Count": 205
     }
   ],
-  "EOS_Progressed": 10955,
+  "EOS_Progressed": 10956,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -6160,6 +6160,11 @@
       "Time": "2023-07-05T20:07:19.2084745+00:00",
       "NumProgressed": 10955,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-06T00:07:12.4697245+00:00",
+      "NumProgressed": 10956,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 35,
@@ -6267,7 +6272,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH14",
@@ -6450,7 +6455,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 10955,
+      "Progressed": 10956,
       "Completed": 25
     }
   ],
@@ -6458,8 +6463,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-07-05T20:01:31.1549175+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:09:31.6065408+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:07:12.4697242+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:38.8017023+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:03:22.3477214+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:09:31.6066486+00:00"
+  "LastUpdate_Ratings": "2023-07-06T00:01:46.7273143+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:07:12.4697739+00:00"
 }

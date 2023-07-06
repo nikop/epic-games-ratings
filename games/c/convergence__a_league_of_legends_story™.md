@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 17.00% | ~126 |
-| Rail Rat | 15.00% | ~111 |
+| Rail Rat | 15.00% | ~112 |
 | The Mysterious Stranger | 14.00% | ~104 |
 | Cartographer | 14.00% | ~104 |
 | The Steel Shadow | 13.00% | ~97 |
@@ -16,6 +16,7 @@
 | Make Up For Lost Time | 13.00% | ~97 |
 | Time Flies | 13.00% | ~97 |
 | The Harder They Fall | 13.00% | ~97 |
+| No, Thanks! | 13.00% | ~97 |
 | Breaking Down Barriers | 13.00% | ~97 |
 | The Wicked Twins | 13.00% | ~97 |
 | The Prince in Heels | 13.00% | ~97 |
@@ -23,7 +24,6 @@
 | The Brass Boss | 13.00% | ~97 |
 | The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~89 |
-| No, Thanks! | 12.00% | ~89 |
 | Honest Mistake | 12.00% | ~89 |
 | Golem Chaser | 12.00% | ~89 |
 | Fast Learner | 12.00% | ~89 |
@@ -32,9 +32,9 @@
 | Street Style | 11.00% | ~82 |
 | Right On Time | 10.00% | ~74 |
 | Whiz Kid | 10.00% | ~74 |
-| Chaincrawler Explorer | 8.00% | ~59 |
-| Theater Explorer | 8.00% | ~59 |
-| Good Neighbor | 8.00% | ~59 |
+| Chaincrawler Explorer | 8.00% | ~60 |
+| Theater Explorer | 8.00% | ~60 |
+| Good Neighbor | 8.00% | ~60 |
 | Cultivair Explorer | 7.00% | ~52 |
 | Family Memories | 7.00% | ~52 |
 | Fairgrounds Explorer | 7.00% | ~52 |
@@ -58,7 +58,7 @@
 | Going to Live Forever | 0.40% | ~3 |
 | Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743 (Ranked 196)  
+Progressed: 744 (Ranked 196)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-07-03 | 740 | 4 |
 | 2023-07-04 | 742 | 4 |
 | 2023-07-05 | 743 | 4 |
+| 2023-07-06 | 744 | 4 |

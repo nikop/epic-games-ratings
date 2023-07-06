@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 81,
@@ -602,10 +602,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 175,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-07-06T00:01:52.122586+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 175,
+  "NumberOfAwards": 177,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
@@ -625,7 +631,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -652,9 +658,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252482,
+  "EOS_Progressed": 252484,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8422,6 +8428,11 @@
       "Time": "2023-07-05T23:07:04.3201164+00:00",
       "NumProgressed": 252482,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-06T00:04:43.6604181+00:00",
+      "NumProgressed": 252484,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8481,7 +8492,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78269
+      "UsersEstimate": 78270
     },
     {
       "ID": "BackHomeNTimes",
@@ -8705,7 +8716,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "KillOtherWithMine",
@@ -8880,16 +8891,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252482,
+      "Progressed": 252484,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-05T14:01:31.9982467+00:00",
-  "LastChanged_Achievements": "2023-07-05T23:07:04.3201155+00:00",
+  "LastChanged": "2023-07-06T00:01:52.1225859+00:00",
+  "LastChanged_Achievements": "2023-07-06T00:04:43.6604173+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:03:27.3515717+00:00",
-  "LastUpdate_Achievements": "2023-07-05T23:07:04.3203125+00:00"
+  "LastUpdate_Ratings": "2023-07-06T00:01:52.1225865+00:00",
+  "LastUpdate_Achievements": "2023-07-06T00:04:43.6605123+00:00"
 }
