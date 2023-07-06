@@ -22,6 +22,7 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
+| Problem solved... wait, what? | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
 | Whoa! There's ANOTHER health bar!? | 0.10% | ~3 |
 | I have to read these things? | 0.10% | ~3 |
@@ -54,7 +55,6 @@ Rating: 4.87 (Ranked 25)
 | Easy Listening | 0.00% | ~0 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
-| Problem solved... wait, what? | 0.00% | ~0 |
 | I can't see this ever being a problem again | 0.00% | ~0 |
 | I think that's enough health for now | 0.00% | ~0 |
 | Fully Powered Up! | 0.00% | ~0 |

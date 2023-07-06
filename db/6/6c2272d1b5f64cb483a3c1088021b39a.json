@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -2475,9 +2475,9 @@
       "ID": "taste_of_victory_1",
       "SetID": "53c1p3k",
       "Name": "Taste of Victory 1",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "taste_of_victory_2",
@@ -2530,8 +2530,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:03:51.4145317+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:03:16.5271691+00:00",
   "LastUpdate_AppInfo": "2023-07-04T02:21:54.526557+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:57:24.078798+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:03:51.4146262+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:57:13.6693556+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:03:16.5272432+00:00"
 }

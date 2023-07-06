@@ -33,8 +33,8 @@ Rating: 4.45 (Ranked 621)
 | Close Quarters | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
 | Enemy at the Gates | 0.60% | ~19 |
+| Fields of Glory | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
-| Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | The Long Game | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |

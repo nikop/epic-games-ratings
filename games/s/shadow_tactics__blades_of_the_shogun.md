@@ -1,23 +1,23 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,196 |
-| Thorough | 9.00% | ~16,524 |
-| A thief's beginning | 8.00% | ~14,688 |
-| Tanuki Time | 8.00% | ~14,688 |
-| Disguised | 7.00% | ~12,852 |
-| Rescue Takuma | 7.00% | ~12,852 |
-| Rollin' | 7.00% | ~12,852 |
-| Chunin | 6.00% | ~11,016 |
-| Ice Ice Yuki | 6.00% | ~11,016 |
-| Jonin | 6.00% | ~11,016 |
-| Stoned Ox | 6.00% | ~11,016 |
-| Yabu | 6.00% | ~11,016 |
+| Genin | 11.00% | ~20,197 |
+| Thorough | 9.00% | ~16,525 |
+| A thief's beginning | 8.00% | ~14,689 |
+| Tanuki Time | 8.00% | ~14,689 |
+| Disguised | 7.00% | ~12,853 |
+| Rescue Takuma | 7.00% | ~12,853 |
+| Rollin' | 7.00% | ~12,853 |
+| Chunin | 6.00% | ~11,017 |
+| Ice Ice Yuki | 6.00% | ~11,017 |
+| Jonin | 6.00% | ~11,017 |
+| Stoned Ox | 6.00% | ~11,017 |
+| Yabu | 6.00% | ~11,017 |
 | Flying Rocks | 5.00% | ~9,180 |
 | Happy Planning | 5.00% | ~9,180 |
 | Mugen Unchained | 5.00% | ~9,180 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,596 (Ranked 57)  
+Progressed: 183,610 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 56 (0.03%) (Ranked 206)
 | 2023-07-03 | 182,956 | 55 |
 | 2023-07-04 | 183,189 | 56 |
 | 2023-07-05 | 183,423 | 56 |
-| 2023-07-06 | 183,596 | 56 |
+| 2023-07-06 | 183,610 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 182)  
 Sum: 4,694 (Ranked 130)  

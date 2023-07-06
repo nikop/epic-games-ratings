@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 261)  
+Rating: 4.67 (Ranked 260)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -128,8 +128,8 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-06 | 2,496 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 397)  
-Sum: 433 (Ranked 303)  
-Diff (max vs sum): 94  
+Sum: 433 (Ranked 304)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |

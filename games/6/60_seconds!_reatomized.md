@@ -1,34 +1,34 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~4,237 |
-| All thumbs | 91.00% | ~4,146 |
-| I will survive! | 91.00% | ~4,146 |
-| Home, sweet home | 90.00% | ~4,100 |
-| Survivalist | 88.00% | ~4,009 |
-| One way ticket | 83.00% | ~3,781 |
-| Last man standing | 78.00% | ~3,554 |
-| Family guy | 76.00% | ~3,463 |
-| Out of the Bag | 73.00% | ~3,326 |
-| The Dark Side | 68.00% | ~3,098 |
-| Duck and cover! | 63.00% | ~2,870 |
-| Souper! | 62.00% | ~2,825 |
-| Pacifist | 57.00% | ~2,597 |
-| 2-1-6 | 55.00% | ~2,506 |
-| A gift | 51.00% | ~2,324 |
-| Girl Power | 45.00% | ~2,050 |
-| What goes around... | 41.00% | ~1,868 |
-| Be Prepared | 36.00% | ~1,640 |
-| Unbreakable | 35.00% | ~1,595 |
-| Atomic drill | 32.00% | ~1,458 |
-| This is the end | 32.00% | ~1,458 |
-| Gotta get 'em all | 31.00% | ~1,412 |
+| Prepper | 93.00% | ~4,239 |
+| All thumbs | 91.00% | ~4,148 |
+| I will survive! | 91.00% | ~4,148 |
+| Home, sweet home | 90.00% | ~4,102 |
+| Survivalist | 88.00% | ~4,011 |
+| One way ticket | 83.00% | ~3,783 |
+| Last man standing | 78.00% | ~3,555 |
+| Family guy | 76.00% | ~3,464 |
+| Out of the Bag | 73.00% | ~3,327 |
+| The Dark Side | 68.00% | ~3,099 |
+| Duck and cover! | 63.00% | ~2,872 |
+| Souper! | 62.00% | ~2,826 |
+| Pacifist | 57.00% | ~2,598 |
+| 2-1-6 | 55.00% | ~2,507 |
+| A gift | 51.00% | ~2,325 |
+| Girl Power | 45.00% | ~2,051 |
+| What goes around... | 41.00% | ~1,869 |
+| Be Prepared | 36.00% | ~1,641 |
+| Unbreakable | 34.00% | ~1,550 |
+| Atomic drill | 32.00% | ~1,459 |
+| This is the end | 32.00% | ~1,459 |
+| Gotta get 'em all | 31.00% | ~1,413 |
 | Disco Roach | 26.00% | ~1,185 |
-| Dawkins Residence | 20.00% | ~911 |
+| Dawkins Residence | 20.00% | ~912 |
 | Rescue time! | 17.00% | ~775 |
 | New order | 16.00% | ~729 |
 | New species | 16.00% | ~729 |
@@ -66,7 +66,7 @@ Rating: 4.66 (Ranked 273)
 | Miracle | 0.20% | ~9 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,556 (Ranked 137)  
+Progressed: 4,558 (Ranked 137)  
 Completed: 1 (0.02%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.02%) (Ranked 213)
 | 2023-07-03 | 4,520 | 1 |
 | 2023-07-04 | 4,529 | 1 |
 | 2023-07-05 | 4,546 | 1 |
-| 2023-07-06 | 4,556 | 1 |
+| 2023-07-06 | 4,558 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 32.00% | ~942 |
 | Watch Where You Step... | 32.00% | ~942 |
 | An Ill Omen | 30.00% | ~883 |
-| Purging Spree | 24.00% | ~707 |
+| Purging Spree | 25.00% | ~736 |
 | Blood for the Blood God! | 19.00% | ~559 |
 | Surgical Excision | 17.00% | ~500 |
 | Friendly Fire | 17.00% | ~500 |
@@ -141,8 +141,8 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-06 | 2,944 | 0 |
 ## Awards
 Max (Character Customization): 213  (Ranked 262)  
-Sum: 427 (Ranked 304)  
-Diff (max vs sum): -42  
+Sum: 427 (Ranked 305)  
+Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 213 |

@@ -9,7 +9,7 @@
 | Survivor | 50.00% | ~44 |
 | First Blood | 44.00% | ~61 |
 | Triple Kill | 42.00% | ~58 |
-| I Believe I Can Fly | 39.00% | ~54 |
+| I Believe I Can Fly | 40.00% | ~55 |
 | Early Survivor | 38.00% | ~33 |
 | No Asperascope | 37.00% | ~51 |
 | Cornivore | 36.00% | ~50 |
@@ -49,6 +49,7 @@
 | Tomassacred | 1.00% | ~1 |
 | 15 Days | 0.70% | ~1 |
 | Pro Carrocketeer | 0.70% | ~1 |
+| Pro Shotgunner | 0.70% | ~1 |
 | Unstoppable | 0.70% | ~1 |
 | Berry Loved | 0.70% | ~1 |
 | Carrocket From Above | 0.70% | ~1 |
@@ -68,7 +69,6 @@
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
 | Pro Peavolver | 0.00% | ~0 |
-| Pro Shotgunner | 0.00% | ~0 |
 | Pro Digger | 0.00% | ~0 |
 | Pro Sniperagus | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |

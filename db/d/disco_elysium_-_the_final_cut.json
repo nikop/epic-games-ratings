@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1175,9 +1175,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 122767,
+  "EOS_Progressed": 122768,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -8615,6 +8615,11 @@
       "Time": "2023-07-06T18:03:19.3955725+00:00",
       "NumProgressed": 122767,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-07-06T19:02:20.944499+00:00",
+      "NumProgressed": 122768,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 40,
@@ -8738,7 +8743,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24553
+      "UsersEstimate": 24554
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -8842,7 +8847,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17187
+      "UsersEstimate": 17188
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -8945,15 +8950,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 122767,
+      "Progressed": 122768,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-07-06T13:59:43.7002679+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:03:19.3955716+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:02:20.9444984+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:04.2358463+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:00:37.129968+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:03:19.3957077+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:00:01.9126676+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:02:20.9445777+00:00"
 }

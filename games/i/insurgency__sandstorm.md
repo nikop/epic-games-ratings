@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~20,349 |
-| Wallbanger | 5.00% | ~20,349 |
-| Exploitative | 4.00% | ~16,279 |
-| High Speed Low Drag | 4.00% | ~16,279 |
-| Wet Feet | 4.00% | ~16,279 |
-| Checkpoint Victory | 3.00% | ~12,209 |
-| Lucky | 3.00% | ~12,209 |
-| Stylin' | 3.00% | ~12,209 |
-| Turf War | 3.00% | ~12,209 |
+| Point Shooting | 5.00% | ~20,351 |
+| Wallbanger | 5.00% | ~20,351 |
+| Exploitative | 4.00% | ~16,281 |
+| High Speed Low Drag | 4.00% | ~16,281 |
+| Wet Feet | 4.00% | ~16,281 |
+| Checkpoint Victory | 3.00% | ~12,211 |
+| Lucky | 3.00% | ~12,211 |
+| Stylin' | 3.00% | ~12,211 |
+| Turf War | 3.00% | ~12,211 |
 | Banged | 2.00% | ~8,140 |
 | First Blood | 2.00% | ~8,140 |
 | Flaccid Paralysis | 2.00% | ~8,140 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~407 |
 | Road Hazard | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,978 (Ranked 39)  
+Progressed: 407,022 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,10 +119,10 @@ Completed: 2 (0.00%) (Ranked 235)
 | 2023-07-03 | 404,442 | 2 |
 | 2023-07-04 | 405,433 | 2 |
 | 2023-07-05 | 406,322 | 2 |
-| 2023-07-06 | 406,978 | 2 |
+| 2023-07-06 | 407,022 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 217)  
-Sum: 2,775 (Ranked 167)  
+Sum: 2,776 (Ranked 167)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -133,7 +133,7 @@ Diff (max vs sum): 50
 | This game has Realistic Visuals | 299 |
 | This game has Amazing Storytelling | 295 |
 | This game is Highly Recommended | 295 |
-| This game has Amazing Characters | 286 |
+| This game has Amazing Characters | 287 |
 | This game has a Competitive Community | 250 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -310,4 +310,4 @@ Diff (max vs sum): 50
 | 2023-07-03 | 4.61 | - | 362 | 2,761 |
 | 2023-07-04 | 4.61 | - | 362 | 2,768 |
 | 2023-07-05 | 4.61 | - | 364 | 2,774 |
-| 2023-07-06 | 4.61 | - | 364 | 2,775 |
+| 2023-07-06 | 4.61 | - | 364 | 2,776 |

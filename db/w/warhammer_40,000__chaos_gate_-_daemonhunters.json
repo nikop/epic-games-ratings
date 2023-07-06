@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 412,
   "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 304,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -2332,9 +2332,9 @@
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 736
     },
     {
       "ID": "Kills_Vakir",
@@ -2586,8 +2586,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:03:09.6903936+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:02:13.0712879+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:59:53.5011675+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:03:09.6904615+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:59:32.6873928+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:02:13.0713563+00:00"
 }

@@ -1848,10 +1848,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4005,
       "NumberOfAwardsMax": 2419
+    },
+    {
+      "Time": "2023-07-06T19:00:53.6237739+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4007,
+      "NumberOfAwardsMax": 2419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4005,
+  "NumberOfAwards": 4007,
   "NumberOfAwardsMax": 2419,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1895,7 +1901,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 203
+      "Count": 205
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1916,9 +1922,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66549,
+  "EOS_Progressed": 66556,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8881,6 +8887,11 @@
       "Time": "2023-07-06T18:03:35.8837883+00:00",
       "NumProgressed": 66549,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-06T19:02:34.0756991+00:00",
+      "NumProgressed": 66556,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -8892,7 +8903,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -8916,7 +8927,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -8940,7 +8951,7 @@
       "Name": "The Batman Family",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -8996,7 +9007,7 @@
       "Name": "Something in the Clay",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "CLAYFACE_2",
@@ -9036,7 +9047,7 @@
       "Name": "Fusion Expert",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -9076,7 +9087,7 @@
       "Name": "Out of Their League",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -9092,7 +9103,7 @@
       "Name": "Family Meeting",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -9108,7 +9119,7 @@
       "Name": "Drone You Out",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "FREEZE_1",
@@ -9124,7 +9135,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "FREEZE_2",
@@ -9132,7 +9143,7 @@
       "Name": "Snow Problem",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "FREEZE_3",
@@ -9204,7 +9215,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "HARLEY_3",
@@ -9212,7 +9223,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "HARLEY_4",
@@ -9260,7 +9271,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -9268,7 +9279,7 @@
       "Name": "Knighthood",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -9292,7 +9303,7 @@
       "Name": "Whispered Words",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "MYSTERY_03",
@@ -9300,7 +9311,7 @@
       "Name": "Lock and Key",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "MYSTERY_04",
@@ -9308,7 +9319,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "MYSTERY_05",
@@ -9356,7 +9367,7 @@
       "Name": "Solid Alibi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -9379,22 +9390,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66549,
+      "Progressed": 66556,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36829,
+      "Progressed": 36836,
       "Completed": 2651
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-07-05T20:00:54.1234678+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:03:35.8837876+00:00",
+  "LastChanged": "2023-07-06T19:00:53.6237737+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:02:34.0756985+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:01:37.133644+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:03:35.8840063+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:00:53.6237743+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:02:34.0757988+00:00"
 }

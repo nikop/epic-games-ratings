@@ -3,12 +3,12 @@
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 883,
-  "Ranking_Popularity": 368,
-  "Ranking_PopularitySum": 426,
+  "Ranking_Popularity": 369,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -655,17 +655,17 @@
       "ID": "AchievementCloseCall",
       "SetID": "76o014g",
       "Name": "Close call!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "AchievementCommonCause",
       "SetID": "76o014g",
       "Name": "Common cause",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "AchievementCriticalCare",
@@ -719,9 +719,9 @@
       "ID": "AchievementForgotSomething",
       "SetID": "76o014g",
       "Name": "Forgot something",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "AchievementForgotten",
@@ -1165,8 +1165,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:06:32.8865178+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:05:51.2401875+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.7563468+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:58:10.9262182+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:06:32.8866649+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:57:54.8433144+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:05:51.240271+00:00"
 }

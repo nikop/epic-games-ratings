@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 330,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225608,
+  "EOS_Progressed": 225616,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8198,6 +8198,11 @@
       "Time": "2023-07-06T18:04:32.2361875+00:00",
       "NumProgressed": 225608,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-06T19:04:11.3301771+00:00",
+      "NumProgressed": 225616,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -8273,7 +8278,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81219
+      "UsersEstimate": 81222
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -8353,7 +8358,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76707
+      "UsersEstimate": 76709
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -8369,7 +8374,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49634
+      "UsersEstimate": 49636
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -8409,7 +8414,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9024
+      "UsersEstimate": 9025
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -8417,7 +8422,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38353
+      "UsersEstimate": 38355
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -8432,7 +8437,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225608,
+      "Progressed": 225616,
       "Completed": 3
     }
   ],
@@ -8440,8 +8445,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:04:32.2361869+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:04:11.3301759+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:03.3590644+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:01:41.0375711+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:04:32.2362585+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:00:58.8870108+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:04:11.3302483+00:00"
 }

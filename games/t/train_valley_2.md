@@ -11,12 +11,12 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 8.00% | ~60 |
 | Juggler | 8.00% | ~60 |
 | To the eyeballs! | 8.00% | ~60 |
-| Forgot something | 6.00% | ~45 |
+| Forgot something | 7.00% | ~52 |
+| Close call! | 6.00% | ~45 |
+| Common cause | 6.00% | ~45 |
 | Mega-railroad | 6.00% | ~45 |
 | Non-Stop | 6.00% | ~45 |
 | Builder | 5.00% | ~37 |
-| Close call! | 5.00% | ~37 |
-| Common cause | 5.00% | ~37 |
 | Get out my way | 5.00% | ~37 |
 | Just in time! | 5.00% | ~37 |
 | Need to think | 5.00% | ~37 |
@@ -123,8 +123,8 @@ Completed: 1 (0.13%) (Ranked 175)
 | 2023-07-05 | 745 | 1 |
 | 2023-07-06 | 747 | 1 |
 ## Awards
-Max (Challenging Puzzles): 72  (Ranked 368)  
-Sum: 72 (Ranked 426)  
+Max (Challenging Puzzles): 72  (Ranked 369)  
+Sum: 72 (Ranked 427)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |

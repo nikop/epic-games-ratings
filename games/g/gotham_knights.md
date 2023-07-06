@@ -9,17 +9,17 @@ Rating: 4.18 (Ranked 853)
 | To the Victor Go the Spoils | 4.00% | ~2,662 |
 | Har, Har, Har, Very Funny | 4.00% | ~2,662 |
 | Loose Ends | 4.00% | ~2,662 |
-| The Batman Family | 3.00% | ~1,996 |
-| Something in the Clay | 3.00% | ~1,996 |
-| Quartzer Life Crisis | 3.00% | ~1,996 |
-| Snow Problem | 3.00% | ~1,996 |
-| Get ReQ'd | 3.00% | ~1,996 |
-| Working Hard or Harley Working? | 3.00% | ~1,996 |
-| Unstoppable Force | 3.00% | ~1,996 |
-| Knighthood | 3.00% | ~1,996 |
-| Whispered Words | 3.00% | ~1,996 |
-| Lock and Key | 3.00% | ~1,996 |
-| Bad Apples in Every Orchard | 3.00% | ~1,996 |
+| The Batman Family | 3.00% | ~1,997 |
+| Something in the Clay | 3.00% | ~1,997 |
+| Quartzer Life Crisis | 3.00% | ~1,997 |
+| Snow Problem | 3.00% | ~1,997 |
+| Get ReQ'd | 3.00% | ~1,997 |
+| Working Hard or Harley Working? | 3.00% | ~1,997 |
+| Unstoppable Force | 3.00% | ~1,997 |
+| Knighthood | 3.00% | ~1,997 |
+| Whispered Words | 3.00% | ~1,997 |
+| Lock and Key | 3.00% | ~1,997 |
+| Bad Apples in Every Orchard | 3.00% | ~1,997 |
 | End of an Era | 2.00% | ~1,331 |
 | In Your Element | 2.00% | ~1,331 |
 | Protector of Gotham | 2.00% | ~1,331 |
@@ -35,19 +35,19 @@ Rating: 4.18 (Ranked 853)
 | Seeking Asylum | 2.00% | ~1,331 |
 | Gotham Knight | 2.00% | ~1,331 |
 | Gotham City Confidential | 2.00% | ~1,331 |
-| Fusion Expert | 1.00% | ~665 |
-| Out of Their League | 1.00% | ~665 |
-| Family Meeting | 1.00% | ~665 |
-| Drone You Out | 1.00% | ~665 |
-| Solid Alibi | 1.00% | ~665 |
+| Fusion Expert | 1.00% | ~666 |
+| Out of Their League | 1.00% | ~666 |
+| Family Meeting | 1.00% | ~666 |
+| Drone You Out | 1.00% | ~666 |
+| Solid Alibi | 1.00% | ~666 |
 | A Worthy Successor | 0.90% | ~599 |
 | Expert Crime Fighter | 0.80% | ~532 |
 | Dressed to Impress | 0.70% | ~466 |
 | A Momentum Occasion | 0.60% | ~399 |
 | Bat Out of Hell | 0.50% | ~333 |
 | He'd Be So Proud of You | 0.40% | ~266 |
-| Hammer and Icicle | 0.30% | ~110 |
-| Renewable Enemy Source | 0.30% | ~110 |
+| Hammer and Icicle | 0.30% | ~111 |
+| Renewable Enemy Source | 0.30% | ~111 |
 | Practice Makes Perfect | 0.30% | ~200 |
 | Element of Surprise | 0.20% | ~74 |
 | Crime Is a Terrible Thing to Waste | 0.20% | ~74 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,549 (Ranked 73)  
+Progressed: 66,556 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,17 +144,17 @@ Completed: 100 (0.15%) (Ranked 168)
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
-| 2023-07-06 | 66,549 | 100 |
+| 2023-07-06 | 66,556 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,419  (Ranked 100)  
-Sum: 4,005 (Ranked 137)  
+Sum: 4,007 (Ranked 137)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,419 |
+| This game is Relaxing | 205 |
 | This game is Extremely Fun | 205 |
 | This game has Quickly Understood Controls | 204 |
-| This game is Relaxing | 203 |
 | This game has Amazing Characters | 199 |
 | This game has Diverse Characters | 196 |
 | This game is Highly Recommended | 194 |
@@ -299,3 +299,4 @@ Diff (max vs sum): -37
 | 2023-07-03 | 4.18 | 2,411 | 3,993 |
 | 2023-07-04 | 4.18 | 2,416 | 4,000 |
 | 2023-07-05 | 4.18 | 2,419 | 4,005 |
+| 2023-07-06 | 4.18 | 2,419 | 4,007 |

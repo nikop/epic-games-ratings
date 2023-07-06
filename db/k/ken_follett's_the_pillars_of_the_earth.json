@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13735,
+  "EOS_Progressed": 13737,
   "EOS_Completed": 104,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -5589,6 +5589,11 @@
       "Time": "2023-07-06T18:03:05.3392526+00:00",
       "NumProgressed": 13735,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-06T19:02:09.2964395+00:00",
+      "NumProgressed": 13737,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5616,7 +5621,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "tpote_achievement_12",
@@ -5640,7 +5645,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "tpote_achievement_15",
@@ -5688,7 +5693,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "tpote_achievement_20",
@@ -5752,7 +5757,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "tpote_achievement_28",
@@ -5792,7 +5797,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "tpote_achievement_32",
@@ -5800,7 +5805,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "tpote_achievement_33",
@@ -5864,7 +5869,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "tpote_achievement_40",
@@ -5888,7 +5893,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "tpote_achievement_6",
@@ -5896,7 +5901,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "tpote_achievement_7",
@@ -5904,7 +5909,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "tpote_achievement_8",
@@ -5920,22 +5925,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4807
+      "UsersEstimate": 4808
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13735,
+      "Progressed": 13737,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-06T18:03:05.3392521+00:00",
+  "LastChanged_Achievements": "2023-07-06T19:02:09.2964384+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:01:53.2045195+00:00",
-  "LastUpdate_Achievements": "2023-07-06T18:03:05.3393488+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:01:09.0045914+00:00",
+  "LastUpdate_Achievements": "2023-07-06T19:02:09.2965072+00:00"
 }
