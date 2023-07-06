@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 70.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.53% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.05% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.27% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.20% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.16% |
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
@@ -39,7 +39,7 @@
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
 | 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69% |
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.67% |
+| 40 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.00% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
@@ -65,7 +65,7 @@
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 65 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.63% |
+| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.62% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
@@ -102,7 +102,7 @@
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
-| 103 | [Adios](games/a/adios.md) | 0.93% |
+| 103 | [Adios](games/a/adios.md) | 0.94% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
