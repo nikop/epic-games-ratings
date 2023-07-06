@@ -18,7 +18,7 @@
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.02% |
 | 18 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
-| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.93% |
+| 19 | [Sonic Origins](games/s/sonic_origins.md) | 10.89% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
@@ -51,7 +51,7 @@
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
-| 51 | [JARS](games/j/jars.md) | 3.33% |
+| 52 | [JARS](games/j/jars.md) | 3.28% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Complex](games/t/the_complex.md) | 3.11% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
@@ -59,7 +59,7 @@
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.87% |
+| 60 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.86% |
 | 61 | [Destiny 2](games/d/destiny_2.md) | 2.83% |
 | 62 | [The Bunker](games/t/the_bunker.md) | 2.78% |
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
