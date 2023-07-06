@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "13",
       "SetID": "41h3j82",
       "Name": "Barcelona Hidden Style",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "14",
@@ -239,9 +239,9 @@
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "6",
@@ -255,9 +255,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "8",
@@ -288,8 +288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:04:40.6547698+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:05:34.0380354+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.9962354+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:00:04.9660132+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:04:40.6547843+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:00:31.8774239+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:05:34.0380459+00:00"
 }

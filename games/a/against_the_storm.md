@@ -14,24 +14,24 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 3.00% | ~470 |
 | Taking Action | 3.00% | ~470 |
 | No Deaths | 3.00% | ~470 |
-| Homesick | 2.00% | ~313 |
-| Against All Odds | 2.00% | ~313 |
-| Bandit Camp | 2.00% | ~313 |
-| Barren Lands | 2.00% | ~313 |
-| Ancient Battleground | 2.00% | ~313 |
-| Sparkdew Crystals | 2.00% | ~313 |
-| Haunted Forest | 2.00% | ~313 |
-| Levitating Monument | 2.00% | ~313 |
-| Flooded Mines | 2.00% | ~313 |
-| Monastery of the Holy Flame | 2.00% | ~313 |
-| Royal Outpost | 2.00% | ~313 |
-| Lost Colonies | 2.00% | ~313 |
-| Corrosive Torrent | 2.00% | ~313 |
-| Watchtower | 2.00% | ~313 |
-| Cursed Lands | 2.00% | ~313 |
-| A Real Challenge | 2.00% | ~313 |
-| Like a Machine | 2.00% | ~313 |
-| Trade Baron | 2.00% | ~313 |
+| Homesick | 2.00% | ~314 |
+| Against All Odds | 2.00% | ~314 |
+| Bandit Camp | 2.00% | ~314 |
+| Barren Lands | 2.00% | ~314 |
+| Ancient Battleground | 2.00% | ~314 |
+| Sparkdew Crystals | 2.00% | ~314 |
+| Haunted Forest | 2.00% | ~314 |
+| Levitating Monument | 2.00% | ~314 |
+| Flooded Mines | 2.00% | ~314 |
+| Monastery of the Holy Flame | 2.00% | ~314 |
+| Royal Outpost | 2.00% | ~314 |
+| Lost Colonies | 2.00% | ~314 |
+| Corrosive Torrent | 2.00% | ~314 |
+| Watchtower | 2.00% | ~314 |
+| Cursed Lands | 2.00% | ~314 |
+| A Real Challenge | 2.00% | ~314 |
+| Like a Machine | 2.00% | ~314 |
+| Trade Baron | 2.00% | ~314 |
 | Serving Ale | 1.00% | ~157 |
 | Refinery | 1.00% | ~157 |
 | Ruined Armory | 1.00% | ~157 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~16 |
 | Higher Needs | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,673 (Ranked 106)  
+Progressed: 15,675 (Ranked 106)  
 Completed: 39 (0.25%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 39 (0.25%) (Ranked 151)
 | 2023-07-03 | 15,619 | 39 |
 | 2023-07-04 | 15,638 | 39 |
 | 2023-07-05 | 15,654 | 39 |
-| 2023-07-06 | 15,673 | 39 |
+| 2023-07-06 | 15,675 | 39 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 202)  
 Sum: 3,062 (Ranked 155)  

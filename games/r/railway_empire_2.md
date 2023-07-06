@@ -22,7 +22,7 @@ Rating: 4.44 (Ranked 640)
 | Producer | 51.00% | ~755 |
 | Apprentice | 42.00% | ~622 |
 | Bridge Builder | 42.00% | ~622 |
-| Access granted | 35.00% | ~518 |
+| Access granted | 36.00% | ~533 |
 | Going once, going twice, sold | 35.00% | ~518 |
 | Stoker | 33.00% | ~489 |
 | Bull and bear | 33.00% | ~489 |

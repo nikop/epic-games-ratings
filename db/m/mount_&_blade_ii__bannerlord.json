@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -5379,9 +5379,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55177,
+  "EOS_Progressed": 55178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13384,6 +13384,11 @@
       "Time": "2023-07-06T21:07:24.183422+00:00",
       "NumProgressed": 55177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T22:08:27.0216172+00:00",
+      "NumProgressed": 55178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13395,7 +13400,7 @@
       "Name": "Against all odds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "Apple of my eye",
@@ -13627,7 +13632,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20415
+      "UsersEstimate": 20416
     },
     {
       "ID": "Lawmaker",
@@ -13802,15 +13807,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55177,
+      "Progressed": 55178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-06T16:01:03.1939791+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:07:24.1834216+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:08:27.0216166+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:00:57.6693678+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:07:24.1835131+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:01:36.1443509+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:08:27.0216872+00:00"
 }

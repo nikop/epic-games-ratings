@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,966 |
-| That's a Grand Army | 8.00% | ~5,303 |
-| That is mine! | 8.00% | ~5,303 |
-| Victorious! | 8.00% | ~5,303 |
-| Brothers in Arms | 6.00% | ~3,978 |
-| That's a Grand Navy | 6.00% | ~3,978 |
-| Seriously?! | 6.00% | ~3,978 |
-| For the Glory | 5.00% | ~3,315 |
+| Until death do us apart | 9.00% | ~5,968 |
+| That's a Grand Army | 8.00% | ~5,305 |
+| That is mine! | 8.00% | ~5,305 |
+| Victorious! | 8.00% | ~5,305 |
+| Brothers in Arms | 6.00% | ~3,979 |
+| That's a Grand Navy | 6.00% | ~3,979 |
+| Seriously?! | 6.00% | ~3,979 |
+| For the Glory | 5.00% | ~3,316 |
 | Cold War | 4.00% | ~2,652 |
 | True Catholic | 4.00% | ~2,652 |
 | Defender of the Faith | 3.00% | ~1,989 |
@@ -53,11 +53,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~398 |
 | This is My Faith | 0.60% | ~398 |
 | Time Bandit | 0.60% | ~398 |
-| Absolutely | 0.50% | ~331 |
-| Grand Coalition | 0.50% | ~331 |
-| Ruina Imperii | 0.50% | ~331 |
-| Trophy Hunter | 0.50% | ~331 |
-| Voting Streak | 0.50% | ~331 |
+| Absolutely | 0.50% | ~332 |
+| Grand Coalition | 0.50% | ~332 |
+| Ruina Imperii | 0.50% | ~332 |
+| Trophy Hunter | 0.50% | ~332 |
+| Voting Streak | 0.50% | ~332 |
 | All Your Trade Are Belong to Us | 0.40% | ~265 |
 | Bleed Them Dry | 0.40% | ~265 |
 | Dude, Where's my Boat? | 0.40% | ~265 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,293 (Ranked 74)  
+Progressed: 66,310 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
 | 2023-07-05 | 65,889 | 0 |
-| 2023-07-06 | 66,293 | 0 |
+| 2023-07-06 | 66,310 | 0 |
 ## Awards
 Max (Educational): 5,511  (Ranked 60)  
 Sum: 45,475 (Ranked 27)  

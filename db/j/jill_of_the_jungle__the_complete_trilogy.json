@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.88,
+  "EOS_Completed_Percentage": 6.87,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -3934,6 +3934,11 @@
       "Time": "2023-07-06T21:07:11.4455965+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-07-06T22:08:06.6758171+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 5,
@@ -3945,7 +3950,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1296
     },
     {
       "ID": "2",
@@ -3953,7 +3958,7 @@
       "Name": "Jill the Bold",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "3",
@@ -3961,7 +3966,7 @@
       "Name": "Jill the Brave",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "4",
@@ -3984,7 +3989,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1296,
       "Completed": 89
     }
   ],
@@ -3992,8 +3997,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:07:11.445596+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:08:06.6758166+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:07.6800536+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:57:33.1394533+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:07:11.4456255+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:57:39.6714084+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:08:06.6758401+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 15652,
+  "EOS_Progressed": 15653,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -5328,6 +5328,11 @@
       "Time": "2023-07-06T20:06:23.9070391+00:00",
       "NumProgressed": 15652,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-06T22:06:53.0328465+00:00",
+      "NumProgressed": 15653,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 47,
@@ -5681,9 +5686,9 @@
       "ID": "FINISH_DLC4",
       "SetID": "6j5ggkc",
       "Name": "One Last Job",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "KILL_BIOBOT",
@@ -5714,13 +5719,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15652,
+      "Progressed": 15653,
       "Completed": 64
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3578,
+      "Progressed": 3579,
       "Completed": 29
     }
   ],
@@ -5728,8 +5733,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-06T15:58:45.5184455+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:06:21.9404156+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:06:53.0328461+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:58:34.8901807+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:06:21.9404813+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:58:51.3351994+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:06:53.0328978+00:00"
 }

@@ -24,12 +24,12 @@
 | Galactic Cadet | 10.00% | ~5 |
 | Sectoral Ensign | 8.00% | ~4 |
 | Rambo II | 8.00% | ~4 |
+| Golden Prince of Ball-air | 8.00% | ~4 |
 | Space Surfer | 8.00% | ~4 |
 | Unstoppable | 8.00% | ~4 |
 | 25Gb HDD | 8.00% | ~4 |
 | Silver Prince of Ball-air | 8.00% | ~4 |
 | Merchant Prince II | 8.00% | ~4 |
-| Golden Prince of Ball-air | 6.00% | ~3 |
 | Flower Power | 6.00% | ~3 |
 | Sectoral Captain | 6.00% | ~3 |
 | Hitchhiker | 4.00% | ~2 |

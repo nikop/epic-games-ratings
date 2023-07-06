@@ -44,7 +44,7 @@ Number of Ratings: 743  (23.09.2022)
 | Weapons expert | 17.00% | ~7,309 |
 | The bigger they are... | 15.00% | ~6,449 |
 | I'm going deeper underground | 14.00% | ~6,019 |
-| Well equipped | 12.00% | ~5,159 |
+| Well equipped | 13.00% | ~5,589 |
 | Into the deep | 12.00% | ~5,159 |
 | Damnedbusters | 9.00% | ~3,869 |
 | I can do anything I want. I got guns | 8.00% | ~3,440 |

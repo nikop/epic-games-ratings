@@ -139,9 +139,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -163,9 +163,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -210,8 +210,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:04:35.0638008+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:05:25.8087434+00:00",
   "LastUpdate_AppInfo": "2023-07-01T10:57:17.0753347+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:57:05.329157+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:04:35.0638141+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:57:10.678505+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:05:25.8087535+00:00"
 }

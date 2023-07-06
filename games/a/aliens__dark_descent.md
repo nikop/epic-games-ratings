@@ -20,8 +20,8 @@ Rating: 4.46 (Ranked 603)
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~979 |
 | Harper's Hell | 34.00% | ~900 |
 | Making a Stand | 32.00% | ~847 |
+| Recouped Investment | 30.00% | ~794 |
 | Omelette Du Fromage | 29.00% | ~768 |
-| Recouped Investment | 29.00% | ~768 |
 | Where It All Begun | 27.00% | ~715 |
 | Living Nightmare | 20.00% | ~529 |
 | The More The Merrier | 20.00% | ~529 |
@@ -29,7 +29,7 @@ Rating: 4.46 (Ranked 603)
 | The Darwin Era Was Here | 15.00% | ~397 |
 | Come on, You Wanna Live Forever? | 14.00% | ~371 |
 | Deep Into Insanity | 14.00% | ~371 |
-| The Passenger | 13.00% | ~344 |
+| The Passenger | 14.00% | ~371 |
 | El Riesgo Siempre Vive | 12.00% | ~318 |
 | One For Every Occasion | 10.00% | ~265 |
 | Frontliner | 10.00% | ~265 |

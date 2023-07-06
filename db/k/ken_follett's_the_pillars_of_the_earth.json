@@ -489,9 +489,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13739,
+  "EOS_Progressed": 13740,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -5599,6 +5599,11 @@
       "Time": "2023-07-06T20:02:46.4205788+00:00",
       "NumProgressed": 13739,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-06T22:03:17.2941801+00:00",
+      "NumProgressed": 13740,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5626,7 +5631,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "tpote_achievement_12",
@@ -5650,7 +5655,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "tpote_achievement_15",
@@ -5666,7 +5671,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "tpote_achievement_17",
@@ -5690,7 +5695,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "tpote_achievement_2",
@@ -5698,7 +5703,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "tpote_achievement_20",
@@ -5754,7 +5759,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "tpote_achievement_27",
@@ -5898,7 +5903,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "tpote_achievement_6",
@@ -5906,7 +5911,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "tpote_achievement_7",
@@ -5937,15 +5942,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13739,
+      "Progressed": 13740,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:02:26.860554+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:03:17.2941797+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:01:17.1575707+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:02:26.8606178+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:02:02.235934+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:03:17.2942295+00:00"
 }

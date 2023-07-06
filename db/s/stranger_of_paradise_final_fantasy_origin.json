@@ -1560,7 +1560,7 @@
   ],
   "EOS_Progressed": 78972,
   "EOS_Completed": 2147,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -5753,9 +5753,9 @@
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
       "SetID": "4ajkb4b",
       "Name": "Imbued Memories",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 36327
+      "UsersEstimate": 37117
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -5953,8 +5953,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-30T02:17:53.0737802+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:05:22.9680234+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:06:02.2919288+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:01.5577542+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:01:04.8447358+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:05:22.968077+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:01:47.7579308+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:06:02.2919755+00:00"
 }

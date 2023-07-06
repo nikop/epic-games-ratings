@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -4753,9 +4753,9 @@
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
       "SetID": "49kdhbg",
       "Name": "Well equipped",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5159
+      "UsersEstimate": 5589
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -5257,8 +5257,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-06T21:01:10.0517207+00:00",
-  "LastChanged_Achievements": "2023-07-06T21:02:30.2424467+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:03:21.8219305+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.9031073+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:01:10.0517215+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:02:30.2425325+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:01:50.803412+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:03:21.8219908+00:00"
 }

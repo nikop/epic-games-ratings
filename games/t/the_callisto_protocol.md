@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 844)  
+Rating: 4.19 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 844)
 | The Outer Way | 0.90% | ~141 |
 | Desperate Times | 0.90% | ~141 |
 | The Commonality | 0.80% | ~125 |
-| One Last Job | 0.60% | ~21 |
+| One Last Job | 0.70% | ~25 |
 | In Striking Distance | 0.50% | ~78 |
 | This Isn't About Escape | 0.40% | ~14 |
 | Armed to the Teeth | 0.30% | ~11 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,652 (Ranked 107)  
+Progressed: 15,653 (Ranked 107)  
 Completed: 64 (0.41%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 64 (0.41%) (Ranked 134)
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
 | 2023-07-05 | 15,644 | 64 |
-| 2023-07-06 | 15,652 | 64 |
+| 2023-07-06 | 15,653 | 64 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
 Sum: 367 (Ranked 319)  

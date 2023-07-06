@@ -7,47 +7,48 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.60% | ~12 |
 | Call me Turbo Chai | 0.40% | ~8 |
+| Who's the boss now? | 0.30% | ~10 |
+| Who put gears in there? | 0.30% | ~10 |
+| Cream of the Crop | 0.20% | ~7 |
+| This will cost you big time | 0.20% | ~7 |
 | The Negotiator | 0.20% | ~7 |
+| Headliner | 0.20% | ~7 |
 | Time to pay up! | 0.20% | ~7 |
-| Who's the boss now? | 0.20% | ~7 |
 | Thanks for the free chip, Peppermint! | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
+| Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
+| Z-shielding's got nothing on us! | 0.20% | ~7 |
+| Perfect Parry | 0.20% | ~7 |
+| Uh, they were broken when I got here | 0.20% | ~7 |
 | Kissing the sky! | 0.20% | ~7 |
-| Who put gears in there? | 0.20% | ~7 |
+| I look cool. But I can look COOLER. | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
-| Cream of the Crop | 0.10% | ~3 |
-| This will cost you big time | 0.10% | ~3 |
-| Headliner | 0.10% | ~3 |
 | Easy Listening | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
-| Whoa! There's ANOTHER health bar!? | 0.10% | ~3 |
 | I have to read these things? | 0.10% | ~3 |
 | Feeling the beat! | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
 | You must like calling me in, Chai | 0.10% | ~3 |
-| Z-shielding's got nothing on us! | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |
 | Out in a puff of smoke | 0.10% | ~3 |
 | This is a breeze! | 0.10% | ~3 |
-| Perfect Parry | 0.10% | ~3 |
 | Perfecter Parry-er! | 0.10% | ~3 |
-| Uh, they were broken when I got here | 0.10% | ~3 |
 | That's a lot of junk metal… | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
-| I look cool. But I can look COOLER. | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
 | You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |
+| I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Check out my moves! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |
@@ -67,7 +68,6 @@ Rating: 4.87 (Ranked 25)
 | What a journey it was... | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
-| I told you I'd be fine, Peppermint! | 0.00% | ~0 |
 | You ever parry a volcano? | 0.00% | ~0 |
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,409 (Ranked 145)  
+Progressed: 3,410 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 5 (0.15%) (Ranked 168)
 | 2023-07-03 | 3,395 | 5 |
 | 2023-07-04 | 3,402 | 5 |
 | 2023-07-05 | 3,407 | 5 |
-| 2023-07-06 | 3,409 | 5 |
+| 2023-07-06 | 3,410 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

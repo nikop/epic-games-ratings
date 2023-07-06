@@ -61,11 +61,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "9123ogc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
+  "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-07-06T18:57:35.6838897+00:00",
+  "LastChanged_Achievements": "2023-07-06T22:03:45.7893789+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:06.122857+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:57:34.9931604+00:00",
-  "LastUpdate_Achievements": "2023-07-06T21:02:48.6241573+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:57:41.763119+00:00",
+  "LastUpdate_Achievements": "2023-07-06T22:03:45.7893821+00:00"
 }

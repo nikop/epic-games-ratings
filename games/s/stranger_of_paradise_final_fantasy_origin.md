@@ -22,7 +22,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Vague Remembrances | 49.00% | ~38,696 |
 | The Fire's Light | 47.00% | ~37,117 |
 | Phantom Memories | 47.00% | ~37,117 |
-| Imbued Memories | 46.00% | ~36,327 |
+| Imbued Memories | 47.00% | ~37,117 |
 | The Earth's Light | 45.00% | ~35,537 |
 | Shared Recollections | 42.00% | ~33,168 |
 | The Water's Light | 40.00% | ~31,589 |
