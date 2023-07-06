@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 12.32,
+  "EOS_Completed_Percentage": 12.3,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -1461,6 +1461,11 @@
       "Time": "2023-07-01T23:05:18.7819714+00:00",
       "NumProgressed": 487,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-07-06T03:30:35.220344+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 30,
@@ -1488,15 +1493,15 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 278
     },
     {
       "ID": "LEVEL_005",
@@ -1520,7 +1525,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "LEVEL_008",
@@ -1544,7 +1549,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_011",
@@ -1574,9 +1579,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "LEVEL_015",
@@ -1614,9 +1619,9 @@
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_020",
@@ -1711,14 +1716,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:34:39.6638752+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:30:35.2203435+00:00",
   "LastUpdate_AppInfo": "2023-07-03T16:56:56.6328821+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:23:50.8838928+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:34:39.6639075+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:21:55.5249858+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:30:35.2203679+00:00"
 }

@@ -2267,9 +2267,9 @@
       "ID": "DRESSED_TO_KILL",
       "SetID": "9a4jnji",
       "Name": "Dressed To Kill",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 84
     },
     {
       "ID": "DR_JONES",
@@ -2556,8 +2556,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:31:38.517083+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:28:27.6224482+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:26:06.5618218+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:31:38.5171475+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:24:06.2848207+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:28:27.6225702+00:00"
 }

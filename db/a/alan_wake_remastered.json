@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56883,
+  "EOS_Progressed": 56885,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7067,6 +7067,11 @@
       "Time": "2023-07-06T02:32:09.6640655+00:00",
       "NumProgressed": 56883,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-06T03:28:49.9513508+00:00",
+      "NumProgressed": 56885,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7078,7 +7083,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18771
+      "UsersEstimate": 18772
     },
     {
       "ID": "02",
@@ -7086,7 +7091,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "03",
@@ -7102,7 +7107,7 @@
       "Name": "Boob Tube",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "05",
@@ -7182,7 +7187,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "15",
@@ -7262,7 +7267,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "25",
@@ -7278,7 +7283,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "27",
@@ -7310,7 +7315,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "31",
@@ -7350,7 +7355,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15358
+      "UsersEstimate": 15359
     },
     {
       "ID": "36",
@@ -7414,7 +7419,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 8532
+      "UsersEstimate": 8533
     },
     {
       "ID": "44",
@@ -7613,21 +7618,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56883,
+      "Progressed": 56885,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20351,
+      "Progressed": 20353,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:32:09.664065+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:28:49.9513504+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:25:00.2753266+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:32:09.664197+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:23:08.805767+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:28:49.9514275+00:00"
 }

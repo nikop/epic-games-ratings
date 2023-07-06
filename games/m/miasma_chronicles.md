@@ -44,8 +44,8 @@ Rating: 4.38 (Ranked 710)
 | Chain Reaction | 9.00% | ~108 |
 | Curveball | 8.00% | ~96 |
 | Bot Whisperer | 7.00% | ~84 |
+| Dressed To Kill | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
-| Dressed To Kill | 6.00% | ~72 |
 | Cruelty | 3.00% | ~36 |
 | Master Editor | 2.00% | ~24 |
 | Attenborough | 1.00% | ~12 |

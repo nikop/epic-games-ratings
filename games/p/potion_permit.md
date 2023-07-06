@@ -41,7 +41,7 @@ Rating: 3.82 (Ranked 937)
 | Community Advisor | 2.00% | ~29 |
 | Rock Exterminator | 2.00% | ~29 |
 | Tree Exterminator | 2.00% | ~29 |
-| Moonbury Navigator | 0.90% | ~13 |
+| Moonbury Navigator | 1.00% | ~15 |
 | Being a donut... | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,457 (Ranked 170)  

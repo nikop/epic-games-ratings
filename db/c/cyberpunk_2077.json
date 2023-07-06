@@ -8435,9 +8435,9 @@
       "Count": 5249
     }
   ],
-  "EOS_Progressed": 863898,
+  "EOS_Progressed": 863902,
   "EOS_Completed": 1833,
-  "EOS_NewPlayers": 1904,
+  "EOS_NewPlayers": 1900,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16640,6 +16640,11 @@
       "Time": "2023-07-06T02:36:13.1128763+00:00",
       "NumProgressed": 863898,
       "NumCompleted": 1833
+    },
+    {
+      "Time": "2023-07-06T03:32:40.4898791+00:00",
+      "NumProgressed": 863902,
+      "NumCompleted": 1833
     }
   ],
   "TotalAchievements": 44,
@@ -16683,7 +16688,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 328281
+      "UsersEstimate": 328283
     },
     {
       "ID": "FollowingTheRiver",
@@ -16827,7 +16832,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 241891
+      "UsersEstimate": 241893
     },
     {
       "ID": "Specialist",
@@ -16851,7 +16856,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "TheDevil",
@@ -16867,7 +16872,7 @@
       "Name": "The Fool",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 587451
+      "UsersEstimate": 587453
     },
     {
       "ID": "TheHermit",
@@ -16891,7 +16896,7 @@
       "Name": "The Lovers",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 293725
+      "UsersEstimate": 293727
     },
     {
       "ID": "TheStar",
@@ -16915,7 +16920,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 224613
+      "UsersEstimate": 224615
     },
     {
       "ID": "TheWorld",
@@ -17002,15 +17007,15 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 863898,
+      "Progressed": 863902,
       "Completed": 1833
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-07-06T02:25:11.3058874+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:36:13.1128759+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:32:40.4898787+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:06.521789+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:25:11.3058884+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:36:13.1129583+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:23:17.5648328+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:32:40.489942+00:00"
 }

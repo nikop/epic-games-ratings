@@ -45,9 +45,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 1.00% | ~102 |
 | Abyssal Conspiracy | 1.00% | ~102 |
 | Truly Important Deed | 1.00% | ~102 |
+| This Wall Won't Fall | 1.00% | ~90 |
 | The Final Threshold | 0.90% | ~92 |
 | Strategic Victory | 0.90% | ~92 |
-| This Wall Won't Fall | 0.90% | ~81 |
 | Not the Last Sarkorian | 0.90% | ~81 |
 | End of Eternal Guard | 0.80% | ~81 |
 | Path of the Dragon | 0.70% | ~71 |

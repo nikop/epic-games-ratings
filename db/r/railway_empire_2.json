@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 1474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3262,9 +3262,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 899
+      "UsersEstimate": 914
     },
     {
       "ID": "A38",
@@ -3334,9 +3334,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 1002
     },
     {
       "ID": "A47",
@@ -3415,8 +3415,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-03T10:58:12.2446003+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:36:25.5929844+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:33:09.8462358+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:25:45.297147+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:36:25.593056+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:23:50.9168693+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:33:09.8462868+00:00"
 }

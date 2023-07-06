@@ -2406,9 +2406,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 68396,
+  "EOS_Progressed": 68397,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10421,6 +10421,11 @@
       "Time": "2023-07-06T02:33:07.9635486+00:00",
       "NumProgressed": 68396,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-07-06T03:29:30.7719899+00:00",
+      "NumProgressed": 68397,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 37,
@@ -10456,7 +10461,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8891
+      "UsersEstimate": 8892
     },
     {
       "ID": "ACH_0014",
@@ -10576,7 +10581,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44457
+      "UsersEstimate": 44458
     },
     {
       "ID": "ACH_0210",
@@ -10584,7 +10589,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 50613
+      "UsersEstimate": 50614
     },
     {
       "ID": "ACH_0211",
@@ -10600,7 +10605,7 @@
       "Name": "Too Old for This",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32146
+      "UsersEstimate": 32147
     },
     {
       "ID": "ACH_0300",
@@ -10696,7 +10701,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10943
+      "UsersEstimate": 10944
     },
     {
       "ID": "ACH_0452",
@@ -10727,7 +10732,7 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 68396,
+      "Progressed": 68397,
       "Completed": 35
     }
   ],
@@ -10735,8 +10740,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-07-06T02:29:37.0848056+00:00",
-  "LastChanged_Achievements": "2023-07-06T02:33:07.9635476+00:00",
+  "LastChanged_Achievements": "2023-07-06T03:29:30.7719896+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.7698973+00:00",
-  "LastUpdate_Ratings": "2023-07-06T02:29:37.0848064+00:00",
-  "LastUpdate_Achievements": "2023-07-06T02:33:07.9636529+00:00"
+  "LastUpdate_Ratings": "2023-07-06T03:26:57.429395+00:00",
+  "LastUpdate_Achievements": "2023-07-06T03:29:30.7720469+00:00"
 }

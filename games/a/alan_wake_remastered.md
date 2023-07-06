@@ -6,13 +6,13 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,771 |
-| Let There Be Light | 27.00% | ~15,358 |
+| Follow the Light | 33.00% | ~18,772 |
+| Let There Be Light | 27.00% | ~15,359 |
 | Float Like a Butterfly | 26.00% | ~14,790 |
-| Nordic Walking | 21.00% | ~11,945 |
+| Nordic Walking | 21.00% | ~11,946 |
 | Bright Falls' Finest | 20.00% | ~11,377 |
 | Under a Thin Layer of Skin | 18.00% | ~10,239 |
-| Paging Mr. Wake | 15.00% | ~8,532 |
+| Paging Mr. Wake | 15.00% | ~8,533 |
 | Park Ranger | 14.00% | ~7,964 |
 | Back! Back, I Say! | 14.00% | ~7,964 |
 | Finders Keepers | 14.00% | ~7,964 |
@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Heavy Metal | 10.00% | ~5,688 |
 | Perchance to Dream | 10.00% | ~5,688 |
 | Collateral Carnage | 10.00% | ~5,688 |
-| Gatekeeper | 9.00% | ~5,119 |
-| It's Not Just a Typewriter Brand | 9.00% | ~5,119 |
-| Thunder and Lightning | 9.00% | ~5,119 |
-| Two For the Price of One | 9.00% | ~5,119 |
+| Gatekeeper | 9.00% | ~5,120 |
+| It's Not Just a Typewriter Brand | 9.00% | ~5,120 |
+| Thunder and Lightning | 9.00% | ~5,120 |
+| Two For the Price of One | 9.00% | ~5,120 |
 | The Lady of the Light | 8.00% | ~4,551 |
 | Energized! | 8.00% | ~4,551 |
 | Right of Way | 8.00% | ~4,551 |
@@ -45,7 +45,7 @@ Number of Ratings: 524  (23.09.2022)
 | Children of the Elder God | 4.00% | ~2,275 |
 | If It Flies, It Burns | 4.00% | ~2,275 |
 | KBF-FM | 4.00% | ~2,275 |
-| Boob Tube | 3.00% | ~1,706 |
+| Boob Tube | 3.00% | ~1,707 |
 | Kill Your Darlings | 3.00% | ~611 |
 | Heartbreaker | 3.00% | ~611 |
 | Medical Opinions | 2.00% | ~1,138 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,883 (Ranked 80)  
+Progressed: 56,885 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 57 (0.10%) (Ranked 181)
 | 2023-07-03 | 56,769 | 56 |
 | 2023-07-04 | 56,827 | 57 |
 | 2023-07-05 | 56,875 | 57 |
-| 2023-07-06 | 56,883 | 57 |
+| 2023-07-06 | 56,885 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
