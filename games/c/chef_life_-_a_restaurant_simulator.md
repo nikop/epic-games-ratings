@@ -10,7 +10,7 @@
 | So Clean You Can Eat Off the Floor | 19.00% | ~85 |
 | S is for Scrumptious | 17.00% | ~76 |
 | French Flair | 16.00% | ~72 |
-| Next Level Cuisine | 11.00% | ~49 |
+| Next Level Cuisine | 12.00% | ~54 |
 | Haute Cuisine | 8.00% | ~36 |
 | Italian Style | 8.00% | ~36 |
 | Sous-Chef | 6.00% | ~27 |
@@ -46,7 +46,7 @@
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 449 (Ranked 218)  
-Completed: 0 (0.00%) (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

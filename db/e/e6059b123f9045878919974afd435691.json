@@ -3,9 +3,9 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -606,6 +606,11 @@
       "Time": "2023-07-06T17:04:25.9410731+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T18:04:41.0288899+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -617,7 +622,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -625,7 +630,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -657,7 +662,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -679,7 +684,7 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -689,7 +694,7 @@
       "Name": "Capraphobia",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -703,7 +708,7 @@
       "ID": "BARK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Arrest Warrant",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -735,9 +740,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -759,9 +764,9 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -791,15 +796,15 @@
       "ID": "COOP_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Way It Should Be",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Together We Win",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -807,7 +812,7 @@
       "ID": "COOP_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Team of Champions",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -823,9 +828,9 @@
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -847,9 +852,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -897,7 +902,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -927,9 +932,9 @@
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -983,9 +988,9 @@
       "ID": "MARYH_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "1, 2, 3! Grandma!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1007,9 +1012,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1063,9 +1068,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1144,14 +1149,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:04:25.9410725+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:04:41.0288892+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-06T16:57:17.7301882+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:04:25.9411474+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:57:07.2294049+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:04:41.0290196+00:00"
 }

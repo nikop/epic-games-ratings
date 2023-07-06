@@ -12,6 +12,7 @@
 | Back to the anvil | 67.00% | ~16 |
 | Mystery solved | 63.00% | ~15 |
 | Honey, honey, honey… | 63.00% | ~15 |
+| Far away from home | 63.00% | ~15 |
 | So soothing... | 63.00% | ~15 |
 | Kekekeke... | 63.00% | ~15 |
 | NOW GO AWAY! | 63.00% | ~15 |
@@ -20,7 +21,6 @@
 | Game Over! | 58.00% | ~14 |
 | A very special drink | 58.00% | ~14 |
 | Fussy eater | 58.00% | ~14 |
-| Far away from home | 58.00% | ~14 |
 | Show me your true self | 54.00% | ~13 |
 | Close the deal | 50.00% | ~12 |
 | Little genius | 50.00% | ~12 |

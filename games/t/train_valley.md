@@ -6,17 +6,17 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~231 |
-| Close call! | 75.00% | ~228 |
-| Builder | 57.00% | ~173 |
-| Pangs of conscience | 52.00% | ~158 |
+| Getting started | 76.00% | ~232 |
+| Close call! | 75.00% | ~229 |
+| Builder | 57.00% | ~174 |
+| Pangs of conscience | 51.00% | ~156 |
 | Living it large! | 47.00% | ~143 |
 | Collector | 44.00% | ~134 |
 | Need to think | 42.00% | ~128 |
-| Completely nuts! | 36.00% | ~109 |
-| Just in time! | 35.00% | ~106 |
-| Europe | 33.00% | ~100 |
-| It's no coincidence. | 33.00% | ~100 |
+| Completely nuts! | 36.00% | ~110 |
+| Just in time! | 35.00% | ~107 |
+| It's no coincidence. | 33.00% | ~101 |
+| Europe | 32.00% | ~98 |
 | Let's roll! | 29.00% | ~88 |
 | Philatelist | 28.00% | ~85 |
 | Non Stop! | 27.00% | ~82 |
@@ -29,7 +29,7 @@ Number of Ratings: 28  (23.09.2022)
 | America | 18.00% | ~55 |
 | Woodcutter | 13.00% | ~40 |
 | Engineer | 13.00% | ~40 |
-| Achtung! | 13.00% | ~40 |
+| Achtung! | 12.00% | ~37 |
 | Japan | 10.00% | ~30 |
 | Tycoon | 9.00% | ~27 |
 | Germany | 7.00% | ~21 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.70% | ~2 |
 | Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304 (Ranked 241)  
+Progressed: 305 (Ranked 241)  
 Completed: 2 (0.66%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 2 (0.66%) (Ranked 115)
 | 2023-06-19 | 302 | 2 |
 | 2023-06-23 | 303 | 2 |
 | 2023-06-27 | 304 | 2 |
+| 2023-07-06 | 305 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

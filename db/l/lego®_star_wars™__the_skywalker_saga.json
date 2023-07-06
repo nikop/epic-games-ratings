@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -2624,9 +2624,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 49826,
+  "EOS_Progressed": 49827,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -8619,6 +8619,11 @@
       "Time": "2023-07-06T15:03:39.6739847+00:00",
       "NumProgressed": 49826,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-07-06T18:04:06.451307+00:00",
+      "NumProgressed": 49827,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 45,
@@ -8742,7 +8747,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 29397
+      "UsersEstimate": 29398
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -8758,7 +8763,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 19930
+      "UsersEstimate": 19931
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -8766,7 +8771,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -8782,7 +8787,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 15944
+      "UsersEstimate": 15945
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -8870,7 +8875,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 28899
+      "UsersEstimate": 28900
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -8894,7 +8899,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 48331
+      "UsersEstimate": 48332
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -8934,7 +8939,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 35376
+      "UsersEstimate": 35377
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -8989,15 +8994,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 49826,
+      "Progressed": 49827,
       "Completed": 202
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-07-06T17:02:38.2960201+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:03:53.010217+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:04:06.4513064+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.9319063+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:02:38.2960211+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:03:53.0102973+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:02:50.1228229+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:04:06.4514167+00:00"
 }

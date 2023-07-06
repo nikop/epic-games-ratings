@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,093 |
-| The Mad Wizard | 11.00% | ~22,801 |
-| The Ring of Regeneration | 7.00% | ~14,510 |
-| Are Ya Chicken? | 7.00% | ~14,510 |
-| Were-verpowered | 5.00% | ~10,364 |
-| Seeking Allies | 5.00% | ~10,364 |
-| Mad Cow Disease | 5.00% | ~10,364 |
-| Friendly Imps | 5.00% | ~10,364 |
-| A Persistent Buzzing | 4.00% | ~8,291 |
-| Pure Energy | 4.00% | ~8,291 |
-| Terror in the Dark | 3.00% | ~6,219 |
-| Unearthed Evil | 3.00% | ~6,219 |
-| The Crumbling Temple | 3.00% | ~6,219 |
-| Exploring Port Nyanzaru | 3.00% | ~6,219 |
-| The Contagious Curse | 3.00% | ~6,219 |
-| Beast Mode | 2.00% | ~4,146 |
-| Low Initiative | 2.00% | ~4,146 |
-| A Mysterious Summons | 2.00% | ~4,146 |
-| Building Trust | 2.00% | ~4,146 |
-| No Time To Rest | 2.00% | ~4,146 |
-| Useless Allies | 2.00% | ~4,146 |
-| Running of the Saurs | 2.00% | ~4,146 |
-| Escort to Waterdeep | 2.00% | ~4,146 |
-| Waterdeep Detours | 2.00% | ~4,146 |
-| Underdeep Cartography | 2.00% | ~4,146 |
+| The Cursed Farmer | 15.00% | ~31,099 |
+| The Mad Wizard | 11.00% | ~22,806 |
+| The Ring of Regeneration | 7.00% | ~14,513 |
+| Are Ya Chicken? | 7.00% | ~14,513 |
+| Were-verpowered | 5.00% | ~10,366 |
+| Seeking Allies | 5.00% | ~10,366 |
+| Mad Cow Disease | 5.00% | ~10,366 |
+| Friendly Imps | 5.00% | ~10,366 |
+| A Persistent Buzzing | 4.00% | ~8,293 |
+| Pure Energy | 4.00% | ~8,293 |
+| Terror in the Dark | 3.00% | ~6,220 |
+| Unearthed Evil | 3.00% | ~6,220 |
+| The Crumbling Temple | 3.00% | ~6,220 |
+| Exploring Port Nyanzaru | 3.00% | ~6,220 |
+| The Contagious Curse | 3.00% | ~6,220 |
+| Beast Mode | 2.00% | ~4,147 |
+| Low Initiative | 2.00% | ~4,147 |
+| A Mysterious Summons | 2.00% | ~4,147 |
+| Building Trust | 2.00% | ~4,147 |
+| No Time To Rest | 2.00% | ~4,147 |
+| Useless Allies | 2.00% | ~4,147 |
+| Running of the Saurs | 2.00% | ~4,147 |
+| Escort to Waterdeep | 2.00% | ~4,147 |
+| Waterdeep Detours | 2.00% | ~4,147 |
+| Underdeep Cartography | 2.00% | ~4,147 |
 | Street War | 1.00% | ~2,073 |
 | March of the Undead | 1.00% | ~2,073 |
 | Invisible Shadows | 1.00% | ~2,073 |
@@ -48,14 +48,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.90% | ~1,866 |
 | Trollskull Manor | 0.90% | ~1,866 |
 | Dinosaur Racing | 0.90% | ~1,866 |
-| The Lost Heir of Omu | 0.80% | ~1,658 |
-| The Forbidden City | 0.80% | ~1,658 |
-| Wisdom Check | 0.80% | ~1,658 |
-| Attack on the Manor | 0.80% | ~1,658 |
-| The Dead Three | 0.80% | ~1,658 |
-| The Long Haul | 0.80% | ~1,658 |
-| Lost in the Deep | 0.80% | ~1,658 |
-| Easily Distracted | 0.80% | ~1,658 |
+| The Lost Heir of Omu | 0.80% | ~1,659 |
+| The Forbidden City | 0.80% | ~1,659 |
+| Wisdom Check | 0.80% | ~1,659 |
+| Attack on the Manor | 0.80% | ~1,659 |
+| The Dead Three | 0.80% | ~1,659 |
+| The Long Haul | 0.80% | ~1,659 |
+| Lost in the Deep | 0.80% | ~1,659 |
+| Easily Distracted | 0.80% | ~1,659 |
 | Captured! | 0.70% | ~1,451 |
 | A Grand Puzzle | 0.70% | ~1,451 |
 | The Mists of Ravenloft | 0.70% | ~1,451 |
@@ -74,20 +74,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.60% | ~1,244 |
 | Market Fluctuations | 0.60% | ~1,244 |
 | Durable Deep | 0.60% | ~1,244 |
-| Force Grey Unleashed | 0.50% | ~1,036 |
-| Sleuth It Out | 0.50% | ~1,036 |
-| Chatty Nobles | 0.50% | ~1,036 |
-| Tower on the Lake | 0.50% | ~1,036 |
-| Seeds of Deceit | 0.50% | ~1,036 |
-| The Guardian of Orolunga | 0.50% | ~1,036 |
-| The Lost Love | 0.50% | ~1,036 |
-| Enter the Sargauth | 0.50% | ~1,036 |
-| Lair of the Xanathar | 0.50% | ~1,036 |
-| Waterdeep Under Siege | 0.50% | ~1,036 |
-| Difficult Terrain | 0.50% | ~1,036 |
-| Elturel Has Fallen | 0.50% | ~1,036 |
+| Force Grey Unleashed | 0.50% | ~1,037 |
+| Sleuth It Out | 0.50% | ~1,037 |
+| Chatty Nobles | 0.50% | ~1,037 |
+| Tower on the Lake | 0.50% | ~1,037 |
+| Seeds of Deceit | 0.50% | ~1,037 |
+| The Guardian of Orolunga | 0.50% | ~1,037 |
+| The Lost Love | 0.50% | ~1,037 |
+| Enter the Sargauth | 0.50% | ~1,037 |
+| Lair of the Xanathar | 0.50% | ~1,037 |
+| Waterdeep Under Siege | 0.50% | ~1,037 |
+| Difficult Terrain | 0.50% | ~1,037 |
+| Elturel Has Fallen | 0.50% | ~1,037 |
 | The Everlasting Rime | 0.50% | ~868 |
-| Expert Opinion | 0.50% | ~1,036 |
+| Expert Opinion | 0.50% | ~1,037 |
 | Lobsterfolk Assault | 0.40% | ~829 |
 | Home Field Advantage | 0.40% | ~829 |
 | Vajra's Guards | 0.40% | ~829 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,285 (Ranked 52)  
+Progressed: 207,326 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,285 | 2,035 |
+| 2023-07-06 | 207,326 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,415 (Ranked 37)  

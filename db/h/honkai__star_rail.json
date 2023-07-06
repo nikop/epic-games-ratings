@@ -2,20 +2,20 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_PopularitySum": 171,
+  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-04-26T04:02:27.1386207+00:00",
@@ -610,10 +610,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2694,
       "NumberOfAwardsMax": 1867
+    },
+    {
+      "Time": "2023-07-06T18:02:39.1378+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2620,
+      "NumberOfAwardsMax": 1867
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2694,
+  "NumberOfAwards": 2620,
   "NumberOfAwardsMax": 1867,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -681,7 +687,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 83
+      "Count": 92
     }
   ],
   "EOS_Progressed": 0,
@@ -696,8 +702,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-06T13:21:36.6865971+00:00",
+  "LastChanged": "2023-07-06T18:02:39.1377998+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:00.4141192+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:02:29.5108072+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:05:14.7601345+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:02:39.1378006+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:05:21.2854444+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -2229,9 +2229,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 578
     },
     {
       "ID": "CRUELTY",
@@ -2261,9 +2261,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 566
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -2461,9 +2461,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 446
     },
     {
       "ID": "RUTHLESS",
@@ -2566,8 +2566,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:02:48.4384713+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:02:59.0597415+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-06T16:59:18.6498361+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:02:48.4385335+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:59:20.2885821+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:02:59.0598567+00:00"
 }

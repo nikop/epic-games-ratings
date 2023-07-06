@@ -51,7 +51,7 @@
 | Giant Lizard Challenge | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 335)  
-Completed: 0 (0.00%) (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

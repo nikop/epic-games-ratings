@@ -29,6 +29,7 @@
 | Siege Unit | 3.00% | ~94 |
 | Divine Assemblage | 3.00% | ~94 |
 | Ophiolatreia | 3.00% | ~94 |
+| Serpentine | 3.00% | ~94 |
 | Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
 | Rock and a Hard Place | 2.00% | ~63 |
@@ -39,7 +40,6 @@
 | Halls of Marble | 2.00% | ~63 |
 | Mors Omnibus | 2.00% | ~63 |
 | Blot Out the Sky | 2.00% | ~63 |
-| Serpentine | 2.00% | ~63 |
 | The Nameless One | 1.00% | ~31 |
 | Lament of the Constellations | 1.00% | ~31 |
 | Rule of Thirds | 1.00% | ~31 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,147 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 234)  
+Progressed: 3,149 (Ranked 147)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 234)
 | 2023-07-03 | 3,130 | 0 |
 | 2023-07-04 | 3,140 | 0 |
 | 2023-07-05 | 3,141 | 0 |
-| 2023-07-06 | 3,147 | 0 |
+| 2023-07-06 | 3,149 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

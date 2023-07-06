@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,516 (Ranked 142)  
+Progressed: 3,516 (Ranked 143)  
 Completed: -28 (-0.80%) (Ranked 2,881)  
 ## EOS Players History
 | Date | Progressed | Completed |

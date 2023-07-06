@@ -11,8 +11,8 @@ Rating: 4.38 (Ranked 710)
 | Gun for Hire | 70.00% | ~844 |
 | I am the law! | 64.00% | ~771 |
 | Lumberjack | 52.00% | ~627 |
-| Croaked | 47.00% | ~566 |
-| Limp Richard | 46.00% | ~554 |
+| Croaked | 48.00% | ~578 |
+| Limp Richard | 47.00% | ~566 |
 | Exorcist | 46.00% | ~554 |
 | From Darkness to Light | 46.00% | ~554 |
 | Editor Adept | 45.00% | ~542 |
@@ -21,7 +21,7 @@ Rating: 4.38 (Ranked 710)
 | Sensei | 41.00% | ~494 |
 | The meaning of Kain | 39.00% | ~470 |
 | Technophobe | 38.00% | ~458 |
-| Recycler | 36.00% | ~434 |
+| Recycler | 37.00% | ~446 |
 | Are you not entertained? | 32.00% | ~386 |
 | Ganglord | 32.00% | ~386 |
 | Jarhead | 32.00% | ~386 |
@@ -58,7 +58,7 @@ Rating: 4.38 (Ranked 710)
 | Goaaaaal! | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,205 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

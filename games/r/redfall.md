@@ -59,8 +59,8 @@ Rating: 3.53 (Ranked 948)
 | Ask Not For Whom The Horns Blow | 0.90% | ~15 |
 | Good Samaritan | 0.60% | ~10 |
 | Someplace to Be | 0.50% | ~9 |
+| Bob’s Final Hour | 0.50% | ~9 |
 | A Cry in the Dark | 0.40% | ~7 |
-| Bob’s Final Hour | 0.40% | ~7 |
 | Rum Runner | 0.20% | ~3 |
 | Eagle Eyes | 0.20% | ~3 |
 | Faith Healer | 0.10% | ~2 |
@@ -73,7 +73,7 @@ Rating: 3.53 (Ranked 948)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,711 (Ranked 166)  
-Completed: 0 (0.00%) (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

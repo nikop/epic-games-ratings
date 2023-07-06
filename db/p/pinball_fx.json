@@ -6,9 +6,9 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 44,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1582,9 +1582,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 237131,
+  "EOS_Progressed": 237180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2556,
+  "EOS_NewPlayers": 2605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9877,6 +9877,11 @@
       "Time": "2023-07-06T17:04:21.8361616+00:00",
       "NumProgressed": 237131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T18:04:37.0320563+00:00",
+      "NumProgressed": 237180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -9936,7 +9941,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26084
+      "UsersEstimate": 26090
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -9952,7 +9957,7 @@
       "Name": "My Table, my Rules",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -9968,7 +9973,7 @@
       "Name": "Shiny Memento",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -9976,7 +9981,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9485
+      "UsersEstimate": 9487
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -10008,7 +10013,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7114
+      "UsersEstimate": 7115
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -10016,7 +10021,7 @@
       "Name": "Pinball Hoarder",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -10032,7 +10037,7 @@
       "Name": "Nine Zeroes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2135
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -10048,7 +10053,7 @@
       "Name": "I Found it!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18970
+      "UsersEstimate": 18974
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -10056,7 +10061,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -10072,7 +10077,7 @@
       "Name": "Interior Designer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -10096,7 +10101,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7114
+      "UsersEstimate": 7115
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -10112,7 +10117,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 194447
+      "UsersEstimate": 194488
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -10120,22 +10125,22 @@
       "Name": "I know the Rules",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 94852
+      "UsersEstimate": 94872
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 237131,
+      "Progressed": 237180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-07-06T14:59:41.3127215+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:04:21.8361612+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:04:37.0320558+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:53.8269593+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:00:22.1035357+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:04:21.8362389+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:00:26.6555807+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:04:37.0321332+00:00"
 }

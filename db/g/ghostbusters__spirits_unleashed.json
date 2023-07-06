@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1398,9 +1398,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24053,
+  "EOS_Progressed": 24054,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7373,6 +7373,11 @@
       "Time": "2023-07-06T17:03:29.1640886+00:00",
       "NumProgressed": 24053,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-06T18:03:40.987601+00:00",
+      "NumProgressed": 24054,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7408,7 +7413,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -7432,7 +7437,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 12267
+      "UsersEstimate": 12268
     },
     {
       "ID": "Collector",
@@ -7464,7 +7469,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "Discovery",
@@ -7472,7 +7477,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14672
+      "UsersEstimate": 14673
     },
     {
       "ID": "Dont_Need_These",
@@ -7496,7 +7501,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 15394
+      "UsersEstimate": 15395
     },
     {
       "ID": "Escape_Artist",
@@ -7504,7 +7509,7 @@
       "Name": "Escape Artist",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "Fragile_Panes",
@@ -7648,7 +7653,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "Side_Hustle",
@@ -7656,7 +7661,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "Skilled",
@@ -7696,7 +7701,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "Surprise",
@@ -7720,7 +7725,7 @@
       "Name": "Teamwork",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10583
+      "UsersEstimate": 10584
     },
     {
       "ID": "Terrifying",
@@ -7768,7 +7773,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 11545
+      "UsersEstimate": 11546
     },
     {
       "ID": "Welcome_Crew",
@@ -7791,7 +7796,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24053,
+      "Progressed": 24054,
       "Completed": 46
     }
   ],
@@ -7799,8 +7804,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-06T10:59:27.3334125+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:03:29.1640878+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:03:40.9876003+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:00:21.7868505+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:03:29.1641744+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:00:26.3033221+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:03:40.9877438+00:00"
 }

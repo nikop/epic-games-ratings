@@ -3,9 +3,9 @@
   "Name": "Covid Carl",
   "ProductSlug": "covid-carl-7dd371",
   "Ranking_EOS_Progress": 455,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2022-10-25T19:00:00+00:00",
@@ -38,17 +38,17 @@
       "ID": "animal_kills_achievement",
       "SetID": "4l4e229",
       "Name": "Hunting for Sport",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "bullets_fired_achievement",
       "SetID": "4l4e229",
       "Name": "Shots Fired!",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "carl_kills_achievement",
@@ -62,9 +62,9 @@
       "ID": "catknight_achievement",
       "SetID": "4l4e229",
       "Name": "Cat Knight",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "falls_achievement",
@@ -118,9 +118,9 @@
       "ID": "jumps_achievement",
       "SetID": "4l4e229",
       "Name": "Jump Around",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "mech_kills_achievement",
@@ -150,9 +150,9 @@
       "ID": "player_deaths_achievment",
       "SetID": "4l4e229",
       "Name": "Just taking a nap...",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "pup_found_achievement",
@@ -198,9 +198,9 @@
       "ID": "turret_kills_achievement",
       "SetID": "4l4e229",
       "Name": "Guns Blazing",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "zombie_kills_achievement",
@@ -228,8 +228,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T19:04:28.6969533+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:04:50.959097+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:05:07.3787091+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.0587903+00:00",
-  "LastUpdate_Ratings": "2023-07-06T16:59:14.140374+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:04:50.9591139+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:59:17.3163649+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:05:07.3787272+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b589bb7fbc204ee59d363b9fb4ef0a41",
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
-  "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3147,
+  "EOS_Progressed": 3149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1853,6 +1853,11 @@
       "Time": "2023-07-06T17:05:38.6039859+00:00",
       "NumProgressed": 3147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T18:05:44.3452405+00:00",
+      "NumProgressed": 3149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2358,16 +2363,16 @@
       "ID": "KZ",
       "SetID": "b3fep3o",
       "Name": "Serpentine",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3147,
+      "Progressed": 3149,
       "Completed": 0
     }
   ],
@@ -2375,8 +2380,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:05:38.6039855+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:05:44.3452398+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:01:21.8077461+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:05:38.6040504+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:01:35.8646312+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:05:44.3453712+00:00"
 }

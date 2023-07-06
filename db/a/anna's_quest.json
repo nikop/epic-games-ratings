@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -211,9 +211,9 @@
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_27",
@@ -388,8 +388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:07:19.9194951+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:07:27.8688042+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:05.6356468+00:00",
-  "LastUpdate_Ratings": "2023-07-06T17:00:33.1018458+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:07:19.9195279+00:00"
+  "LastUpdate_Ratings": "2023-07-06T18:00:35.9147836+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:07:27.8688584+00:00"
 }

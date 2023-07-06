@@ -12,7 +12,7 @@ Rating: 4.46 (Ranked 603)
 | Call Me Snake | 56.00% | ~1,479 |
 | Something Lurks Under The Hills | 55.00% | ~1,453 |
 | This Was No Papercut | 54.00% | ~1,426 |
-| The Shrink Hates Me | 49.00% | ~1,294 |
+| The Shrink Hates Me | 50.00% | ~1,320 |
 | People Person | 48.00% | ~1,268 |
 | Use The Bumper, That's What It's For | 46.00% | ~1,215 |
 | First Steps Into Madness | 44.00% | ~1,162 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,641 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

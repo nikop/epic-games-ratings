@@ -6,29 +6,29 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~20,347 |
-| Wallbanger | 5.00% | ~20,347 |
-| Exploitative | 4.00% | ~16,277 |
-| High Speed Low Drag | 4.00% | ~16,277 |
-| Wet Feet | 4.00% | ~16,277 |
-| Checkpoint Victory | 3.00% | ~12,208 |
-| Lucky | 3.00% | ~12,208 |
-| Stylin' | 3.00% | ~12,208 |
-| Turf War | 3.00% | ~12,208 |
-| Banged | 2.00% | ~8,139 |
-| First Blood | 2.00% | ~8,139 |
-| Flaccid Paralysis | 2.00% | ~8,139 |
-| Push Victory | 2.00% | ~8,139 |
-| Self-destructive | 2.00% | ~8,139 |
-| Blindfire | 1.00% | ~4,069 |
-| Ruthless | 1.00% | ~4,069 |
-| Semper Paratus | 1.00% | ~4,069 |
-| Carrying | 0.90% | ~3,662 |
-| Efficient | 0.90% | ~3,662 |
-| Mount & Gun | 0.90% | ~3,662 |
-| Personal | 0.90% | ~3,662 |
-| Grounded | 0.80% | ~3,255 |
-| Play to Win | 0.80% | ~3,255 |
+| Point Shooting | 5.00% | ~20,349 |
+| Wallbanger | 5.00% | ~20,349 |
+| Exploitative | 4.00% | ~16,279 |
+| High Speed Low Drag | 4.00% | ~16,279 |
+| Wet Feet | 4.00% | ~16,279 |
+| Checkpoint Victory | 3.00% | ~12,209 |
+| Lucky | 3.00% | ~12,209 |
+| Stylin' | 3.00% | ~12,209 |
+| Turf War | 3.00% | ~12,209 |
+| Banged | 2.00% | ~8,140 |
+| First Blood | 2.00% | ~8,140 |
+| Flaccid Paralysis | 2.00% | ~8,140 |
+| Push Victory | 2.00% | ~8,140 |
+| Self-destructive | 2.00% | ~8,140 |
+| Blindfire | 1.00% | ~4,070 |
+| Ruthless | 1.00% | ~4,070 |
+| Semper Paratus | 1.00% | ~4,070 |
+| Carrying | 0.90% | ~3,663 |
+| Efficient | 0.90% | ~3,663 |
+| Mount & Gun | 0.90% | ~3,663 |
+| Personal | 0.90% | ~3,663 |
+| Grounded | 0.80% | ~3,256 |
+| Play to Win | 0.80% | ~3,256 |
 | #1 | 0.70% | ~2,849 |
 | Special Delivery | 0.70% | ~2,849 |
 | Firefight Victory | 0.60% | ~2,442 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~407 |
 | Road Hazard | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,933 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 234)  
+Progressed: 406,978 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,10 +119,10 @@ Completed: 2 (0.00%) (Ranked 234)
 | 2023-07-03 | 404,442 | 2 |
 | 2023-07-04 | 405,433 | 2 |
 | 2023-07-05 | 406,322 | 2 |
-| 2023-07-06 | 406,933 | 2 |
+| 2023-07-06 | 406,978 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 364  (Ranked 217)  
-Sum: 2,774 (Ranked 167)  
+Sum: 2,775 (Ranked 167)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -131,8 +131,8 @@ Diff (max vs sum): 50
 | This game is Extremely Fun | 327 |
 | This game has Competitive Players | 322 |
 | This game has Realistic Visuals | 299 |
+| This game has Amazing Storytelling | 295 |
 | This game is Highly Recommended | 295 |
-| This game has Amazing Storytelling | 294 |
 | This game has Amazing Characters | 286 |
 | This game has a Competitive Community | 250 |
 | This game has Obsessive Gameplay | 156 |
@@ -310,3 +310,4 @@ Diff (max vs sum): 50
 | 2023-07-03 | 4.61 | - | 362 | 2,761 |
 | 2023-07-04 | 4.61 | - | 362 | 2,768 |
 | 2023-07-05 | 4.61 | - | 364 | 2,774 |
+| 2023-07-06 | 4.61 | - | 364 | 2,775 |

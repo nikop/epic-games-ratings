@@ -2,10 +2,10 @@
   "ID": "2573986ce0c3433facd6b5a3fec5d950",
   "Name": "Monster Boy and the Cursed Kingdom",
   "ProductSlug": "monster-boy-and-the-cursed-kingdom-bf6c48",
-  "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Progress": 490,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2019-07-24T22:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T12:01:07.765905+00:00",
-  "LastChanged_Achievements": "2023-07-06T17:04:40.5221904+00:00",
+  "LastChanged_Achievements": "2023-07-06T18:04:56.2067963+00:00",
   "LastUpdate_AppInfo": "2023-07-04T13:14:43.3126044+00:00",
-  "LastUpdate_Ratings": "2023-07-06T16:57:24.3763094+00:00",
-  "LastUpdate_Achievements": "2023-07-06T17:04:40.5221938+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:57:19.2885801+00:00",
+  "LastUpdate_Achievements": "2023-07-06T18:04:56.2068008+00:00"
 }

@@ -45,6 +45,7 @@ Rating: 4.87 (Ranked 25)
 | You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |
+| I saw all those hits coming a measure away! | 0.10% | ~3 |
 | Check out my moves! | 0.10% | ~3 |
 | Choose your own adventure | 0.10% | ~2 |
 | It'll do, CNMN | 0.10% | ~2 |
@@ -71,13 +72,12 @@ Rating: 4.87 (Ranked 25)
 | I am a good person who likes to help | 0.00% | ~0 |
 | I'm trying to FOCUS HERE! | 0.00% | ~0 |
 | With our powers combined…and to the rhythm… | 0.00% | ~0 |
-| I saw all those hits coming a measure away! | 0.00% | ~0 |
 | OK, I THINK I know what I'm doing now | 0.00% | ~0 |
 | It was all for this | 0.00% | ~0 |
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,408 (Ranked 144)  
+Progressed: 3,408 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
