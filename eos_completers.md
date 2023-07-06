@@ -29,17 +29,17 @@
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 34 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.48% |
-| 35 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.26% |
 | 35 | [Without Escape](games/w/without_escape.md) | 5.26% |
+| 36 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.13% |
 | 37 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 5.11% |
 | 38 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.97% |
-| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69% |
-| 40 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 39 | [Bugsnax](games/b/bugsnax.md) | 4.68% |
+| 39 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.68% |
 | 41 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.43% |
 | 42 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 4.00% |
 | 43 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.93% |
@@ -54,8 +54,8 @@
 | 52 | [JARS](games/j/jars.md) | 3.28% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Complex](games/t/the_complex.md) | 3.10% |
+| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.07% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
-| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.03% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -68,7 +68,7 @@
 | 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.61% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
-| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.44% |
+| 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
 | 70 | [Bloodshore](games/b/bloodshore.md) | 2.30% |
 | 70 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.30% |
 | 72 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.17% |
@@ -97,8 +97,8 @@
 | 95 | [Chorus](games/c/chorus.md) | 1.18% |
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.11% |
-| 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.07% |
 | 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
+| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
@@ -171,9 +171,9 @@
 | 168 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 168 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
 | 168 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.15% |
 | 168 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 174 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 173 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.14% |
+| 173 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 175 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 175 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
 | 177 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
