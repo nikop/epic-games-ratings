@@ -23,7 +23,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
@@ -165,19 +165,19 @@
 | 161 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.19% |
 | 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 165 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 166 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 166 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 168 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
-| 168 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 168 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 168 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 168 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 173 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.14% |
-| 173 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
-| 175 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 175 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
-| 177 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 177 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.12% |
+| 165 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.17% |
+| 167 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 167 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
+| 169 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
+| 169 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
+| 169 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 174 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.14% |
+| 174 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
+| 176 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 176 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
+| 178 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 179 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 179 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
 | 181 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
