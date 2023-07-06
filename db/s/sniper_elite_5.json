@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,9 +380,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3214,
+  "EOS_Progressed": 3215,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4720,6 +4720,11 @@
       "Time": "2023-07-05T23:09:37.5308411+00:00",
       "NumProgressed": 3214,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-06T06:05:59.7969797+00:00",
+      "NumProgressed": 3215,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -4761,9 +4766,9 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -4859,7 +4864,7 @@
       "Name": "Skirmisher",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -4883,7 +4888,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -4923,7 +4928,7 @@
       "Name": "My Little Friend",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -4931,7 +4936,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -4995,7 +5000,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -5298,13 +5303,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3165,
+      "Progressed": 3166,
       "Completed": 12
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3214,
+      "Progressed": 3215,
       "Completed": 9
     }
   ],
@@ -5312,8 +5317,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:08:34.4913801+00:00",
+  "LastChanged_Achievements": "2023-07-06T06:05:59.7969791+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-06T05:04:34.3783281+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:08:34.5031148+00:00"
+  "LastUpdate_Ratings": "2023-07-06T06:05:45.370692+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:05:59.797066+00:00"
 }

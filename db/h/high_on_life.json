@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -214,9 +214,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22967,
+  "EOS_Progressed": 22968,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1999,6 +1999,11 @@
       "Time": "2023-07-06T02:35:14.9220781+00:00",
       "NumProgressed": 22967,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-07-06T06:09:38.6339939+00:00",
+      "NumProgressed": 22968,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -2050,7 +2055,7 @@
       "Name": "Creature Feature",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6660
+      "UsersEstimate": 6661
     },
     {
       "ID": "ACH_GET_GUS",
@@ -2130,7 +2135,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13091
+      "UsersEstimate": 13092
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -2186,7 +2191,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4593
+      "UsersEstimate": 4594
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -2194,7 +2199,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16766
+      "UsersEstimate": 16767
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -2234,7 +2239,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4593
+      "UsersEstimate": 4594
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -2265,22 +2270,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22967,
+      "Progressed": 22968,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 260,
-      "Completed": 260
+      "Progressed": 261,
+      "Completed": 261
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-06-17T22:58:08.3064018+00:00",
-  "LastChanged_Achievements": "2023-07-06T05:08:17.0244881+00:00",
+  "LastChanged_Achievements": "2023-07-06T06:09:38.6339934+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:27.9495889+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:59:26.4018043+00:00",
-  "LastUpdate_Achievements": "2023-07-06T05:08:17.0245157+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:59:50.2980536+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:09:38.6340233+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "ID": "9097d8a7ff0748df85711a676a374310",
   "Name": "Live",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 86,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:53.0988079+00:00",
-  "LastUpdate_Ratings": "2023-07-06T05:00:37.7250056+00:00",
-  "LastUpdate_Achievements": "2023-07-06T05:07:37.8614966+00:00"
+  "LastUpdate_Ratings": "2023-07-06T06:01:07.4737044+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:08:58.323391+00:00"
 }

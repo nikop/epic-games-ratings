@@ -42,11 +42,11 @@ Rating: 4.61 (Ranked 362)
 | Crimson Caldera | 0.70% | ~34 |
 | Lord of Chaos | 0.60% | ~30 |
 | Jack of All Tomes | 0.60% | ~30 |
+| Manufactured War | 0.40% | ~20 |
 | Pruning for Progress | 0.40% | ~20 |
 | Grexolis | 0.40% | ~20 |
 | One for All, All for One | 0.40% | ~20 |
 | I've Got Everything I Need Right Here | 0.30% | ~15 |
-| Manufactured War | 0.30% | ~15 |
 | Snap Out of It! | 0.20% | ~10 |
 | I Want to Break Free | 0.10% | ~5 |
 | Master of Evilness | 0.10% | ~5 |

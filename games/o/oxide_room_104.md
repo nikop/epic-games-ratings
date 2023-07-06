@@ -14,8 +14,8 @@
 | Soundtrack | 61.00% | ~75 |
 | First aid | 59.00% | ~73 |
 | Antidote | 48.00% | ~59 |
-| Pick the right door | 21.00% | ~26 |
-| The third floor | 13.00% | ~16 |
+| Pick the right door | 22.00% | ~27 |
+| The third floor | 14.00% | ~17 |
 | On the right path | 12.00% | ~15 |
 | One-way | 12.00% | ~15 |
 | It can't be true | 11.00% | ~14 |

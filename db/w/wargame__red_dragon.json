@@ -3,9 +3,9 @@
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 148,
+  "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 100,
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 86,
@@ -4104,11 +4104,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 7474,
       "NumberOfAwardsMax": 918
+    },
+    {
+      "Time": "2023-07-06T05:59:11.2252998+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7478,
+      "NumberOfAwardsMax": 919
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7474,
-  "NumberOfAwardsMax": 918,
+  "NumberOfAwards": 7478,
+  "NumberOfAwardsMax": 919,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4121,7 +4127,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 873
+      "Count": 875
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4145,7 +4151,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 918
+      "Count": 919
     },
     {
       "Text": "This game is Educational",
@@ -4169,7 +4175,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 708
+      "Count": 709
     },
     {
       "Text": "This game is Relaxing",
@@ -4195,8 +4201,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-07-05T17:58:16.5540179+00:00",
+  "LastChanged": "2023-07-06T05:59:11.2252996+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:04.0654695+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:58:48.8182469+00:00",
-  "LastUpdate_Achievements": "2023-07-06T05:07:45.925637+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:59:11.2253001+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:09:07.1064082+00:00"
 }

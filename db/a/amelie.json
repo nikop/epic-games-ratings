@@ -2,7 +2,7 @@
   "ID": "120f750f201544cca9ab6bcb23571546",
   "Name": "Amelie",
   "ProductSlug": "amelie-45eab1",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 86,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.9569224+00:00",
   "LastChanged": "2023-03-31T05:57:17.9569225+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:09.2994126+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:58:57.7401545+00:00",
-  "LastUpdate_Achievements": "2023-07-06T05:06:03.2199182+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:59:22.5431076+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:07:20.4076713+00:00"
 }

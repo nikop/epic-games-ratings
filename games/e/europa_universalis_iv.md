@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~5,935 |
-| That's a Grand Army | 8.00% | ~5,275 |
-| That is mine! | 8.00% | ~5,275 |
-| Victorious! | 8.00% | ~5,275 |
-| Brothers in Arms | 6.00% | ~3,956 |
-| That's a Grand Navy | 6.00% | ~3,956 |
-| Seriously?! | 6.00% | ~3,956 |
+| That's a Grand Army | 8.00% | ~5,276 |
+| That is mine! | 8.00% | ~5,276 |
+| Victorious! | 8.00% | ~5,276 |
+| Brothers in Arms | 6.00% | ~3,957 |
+| That's a Grand Navy | 6.00% | ~3,957 |
+| Seriously?! | 6.00% | ~3,957 |
 | For the Glory | 5.00% | ~3,297 |
 | Cold War | 4.00% | ~2,638 |
 | True Catholic | 4.00% | ~2,638 |
@@ -40,8 +40,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~659 |
 | The Five Colonies | 1.00% | ~659 |
 | This navy can take it all | 1.00% | ~659 |
-| Isn't this the way to India? | 0.90% | ~593 |
-| Market Control | 0.90% | ~593 |
+| Isn't this the way to India? | 0.90% | ~594 |
+| Market Control | 0.90% | ~594 |
 | Down Under | 0.80% | ~528 |
 | Trustworthy | 0.80% | ~528 |
 | Electable! | 0.70% | ~462 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,939 (Ranked 74)  
+Progressed: 65,949 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
 | 2023-07-05 | 65,889 | 0 |
-| 2023-07-06 | 65,939 | 0 |
+| 2023-07-06 | 65,949 | 0 |
 ## Awards
 Max (Educational): 5,507  (Ranked 60)  
 Sum: 45,444 (Ranked 27)  

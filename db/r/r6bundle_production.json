@@ -1,7 +1,7 @@
 {
   "ID": "0b10edd44c924b65b5bd9dd6682acb08",
   "Name": "r6bundle Production",
-  "Ranking_EOS_Progress": 488,
+  "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 86,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:21.5674645+00:00",
-  "LastUpdate_Ratings": "2023-07-06T05:04:12.2148327+00:00",
-  "LastUpdate_Achievements": "2023-07-06T05:09:12.6459653+00:00"
+  "LastUpdate_Ratings": "2023-07-06T06:05:28.2305238+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:10:14.8074331+00:00"
 }

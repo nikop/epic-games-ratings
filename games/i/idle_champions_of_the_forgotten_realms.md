@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,052 |
-| The Mad Wizard | 11.00% | ~22,771 |
-| The Ring of Regeneration | 7.00% | ~14,491 |
-| Are Ya Chicken? | 7.00% | ~14,491 |
+| The Cursed Farmer | 15.00% | ~31,053 |
+| The Mad Wizard | 11.00% | ~22,773 |
+| The Ring of Regeneration | 7.00% | ~14,492 |
+| Are Ya Chicken? | 7.00% | ~14,492 |
 | Were-verpowered | 5.00% | ~10,351 |
+| Seeking Allies | 5.00% | ~10,351 |
 | Mad Cow Disease | 5.00% | ~10,351 |
 | Friendly Imps | 5.00% | ~10,351 |
-| A Persistent Buzzing | 4.00% | ~8,280 |
-| Seeking Allies | 4.00% | ~8,280 |
-| Pure Energy | 4.00% | ~8,280 |
-| Terror in the Dark | 3.00% | ~6,210 |
-| Unearthed Evil | 3.00% | ~6,210 |
-| The Crumbling Temple | 3.00% | ~6,210 |
-| Exploring Port Nyanzaru | 3.00% | ~6,210 |
-| The Contagious Curse | 3.00% | ~6,210 |
+| A Persistent Buzzing | 4.00% | ~8,281 |
+| Pure Energy | 4.00% | ~8,281 |
+| Terror in the Dark | 3.00% | ~6,211 |
+| Unearthed Evil | 3.00% | ~6,211 |
+| The Crumbling Temple | 3.00% | ~6,211 |
+| Exploring Port Nyanzaru | 3.00% | ~6,211 |
+| The Contagious Curse | 3.00% | ~6,211 |
 | Beast Mode | 2.00% | ~4,140 |
 | Low Initiative | 2.00% | ~4,140 |
 | A Mysterious Summons | 2.00% | ~4,140 |
@@ -510,8 +510,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,011 (Ranked 52)  
-Completed: 2,033 (0.98%) (Ranked 101)  
+Progressed: 207,023 (Ranked 52)  
+Completed: 2,034 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -587,7 +587,7 @@ Completed: 2,033 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,011 | 2,033 |
+| 2023-07-06 | 207,023 | 2,034 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,405 (Ranked 37)  

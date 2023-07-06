@@ -6,13 +6,13 @@ Rating: 4.57 (Ranked 440)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 21.00% | ~583 |
-| Sputnik 2049 | 18.00% | ~499 |
+| Sputnik 2049 | 18.00% | ~500 |
 | Without Breaking Some Eggs... | 17.00% | ~472 |
 | Infinite Growth... | 17.00% | ~472 |
 | Space Society | 12.00% | ~333 |
 | A Thousand Strong | 12.00% | ~333 |
 | Ready for a New World | 12.00% | ~333 |
-| Permanent Redesigns | 10.00% | ~277 |
+| Permanent Redesigns | 10.00% | ~278 |
 | Guy de Borderlands | 9.00% | ~250 |
 | Fully Recycled | 9.00% | ~250 |
 | Ain't Nobody Got Time for That | 9.00% | ~250 |
@@ -35,12 +35,12 @@ Rating: 4.57 (Ranked 440)
 | ...  in a finite world | 3.00% | ~83 |
 | BRAWL! | 3.00% | ~83 |
 | What the Ruins Teach Us | 3.00% | ~83 |
-| Sustainable Energy | 2.00% | ~55 |
-| In Dolos We Trust | 2.00% | ~55 |
-| Delivery! | 2.00% | ~55 |
-| Pedal to the Metal | 2.00% | ~55 |
-| Help of the Forgotten Member | 2.00% | ~55 |
-| Pulsar Disciple | 2.00% | ~55 |
+| Sustainable Energy | 2.00% | ~56 |
+| In Dolos We Trust | 2.00% | ~56 |
+| Delivery! | 2.00% | ~56 |
+| Pedal to the Metal | 2.00% | ~56 |
+| Help of the Forgotten Member | 2.00% | ~56 |
+| Pulsar Disciple | 2.00% | ~56 |
 | Mutual Loyalty | 1.00% | ~28 |
 | Tiqqun Contender | 1.00% | ~28 |
 | Catastrophe Avoided | 1.00% | ~28 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 440)
 | This is Fine | 0.00% | ~0 |
 | Drill-dozer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,774 (Ranked 152)  
+Progressed: 2,775 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 2,768 | 0 |
 | 2023-07-04 | 2,771 | 0 |
 | 2023-07-05 | 2,774 | 0 |
+| 2023-07-06 | 2,775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,9 +23,9 @@
 | Kaboom! | 12.00% | ~26 |
 | Reunited | 12.00% | ~26 |
 | So Close | 11.00% | ~24 |
+| Transformers, cubes in disguise | 11.00% | ~24 |
 | All Alone | 11.00% | ~24 |
 | Cataclysm | 11.00% | ~24 |
-| Transformers, cubes in disguise | 10.00% | ~22 |
 | Final Charge | 10.00% | ~22 |
 | Summer Luvin' | 4.00% | ~9 |
 | You Are Terminated | 0.90% | ~2 |

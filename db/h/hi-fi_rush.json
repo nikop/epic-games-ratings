@@ -4119,9 +4119,9 @@
       "ID": "Ach007",
       "SetID": "12n4k20",
       "Name": "Who\u0027s the boss now?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach008",
@@ -4199,9 +4199,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach018",
@@ -4607,9 +4607,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach069",
@@ -4654,8 +4654,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:08:34.3410868+00:00",
+  "LastChanged_Achievements": "2023-07-06T06:05:59.7317451+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-06T05:00:38.898607+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:08:34.3411869+00:00"
+  "LastUpdate_Ratings": "2023-07-06T06:01:07.7219268+00:00",
+  "LastUpdate_Achievements": "2023-07-06T06:05:59.731851+00:00"
 }

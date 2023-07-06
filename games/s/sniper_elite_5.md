@@ -22,14 +22,14 @@ Rating: 4.45 (Ranked 620)
 | The Kraken Sleeps | 1.00% | ~32 |
 | No Stone Unturned | 0.90% | ~29 |
 | Organ Grinder | 0.90% | ~29 |
+| Opposing Force | 0.80% | ~26 |
 | Der Geist | 0.80% | ~26 |
 | Brains of the Operation | 0.80% | ~26 |
-| Opposing Force | 0.70% | ~22 |
-| Skirmisher | 0.70% | ~22 |
-| Set Europe Ablaze | 0.70% | ~22 |
-| My Little Friend | 0.70% | ~22 |
-| Explosive Efficiency | 0.70% | ~22 |
-| Snake in the Grass | 0.70% | ~22 |
+| Skirmisher | 0.70% | ~23 |
+| Set Europe Ablaze | 0.70% | ~23 |
+| My Little Friend | 0.70% | ~23 |
+| Explosive Efficiency | 0.70% | ~23 |
+| Snake in the Grass | 0.70% | ~23 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 620)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,214 (Ranked 145)  
+Progressed: 3,215 (Ranked 145)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
+| 2023-07-06 | 3,215 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
