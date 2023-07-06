@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~888,305 |
-| I Need a Bigger Garage | 63.00% | ~628,800 |
-| Pump my Ride | 46.00% | ~459,124 |
-| Ghostbuster | 32.00% | ~319,390 |
-| That Was Close | 18.00% | ~179,657 |
-| Call Roadside Assistance | 17.00% | ~169,676 |
-| Quickie | 10.00% | ~99,810 |
-| California Dreamer | 7.00% | ~69,867 |
-| Can't Touch This | 5.00% | ~49,905 |
+| The First of Many | 89.00% | ~888,321 |
+| I Need a Bigger Garage | 63.00% | ~628,811 |
+| Pump my Ride | 46.00% | ~459,132 |
+| Ghostbuster | 32.00% | ~319,396 |
+| That Was Close | 18.00% | ~179,660 |
+| Call Roadside Assistance | 17.00% | ~169,679 |
+| Quickie | 10.00% | ~99,811 |
+| California Dreamer | 7.00% | ~69,868 |
+| Can't Touch This | 5.00% | ~49,906 |
 | Carménère Taster | 3.00% | ~29,943 |
 | Comeback | 3.00% | ~29,943 |
 | Marathonist | 3.00% | ~29,943 |
@@ -37,14 +37,14 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.80% | ~7,985 |
 | Volcano Surfer | 0.70% | ~6,987 |
 | Survivor | 0.60% | ~5,989 |
-| King of the World | 0.50% | ~4,990 |
+| King of the World | 0.50% | ~4,991 |
 | Getting Famous | 0.40% | ~3,992 |
 | Master of the Racetrack | 0.20% | ~1,996 |
 | Now Go Play Outside | 0.20% | ~1,996 |
 | Transporter | 0.10% | ~998 |
 | Look Mom, No Hands! | 0.10% | ~998 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 998,095 (Ranked 12)  
+Progressed: 998,113 (Ranked 12)  
 Completed: 340 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 340 (0.03%) (Ranked 206)
 | 2023-07-03 | 996,488 | 336 |
 | 2023-07-04 | 997,254 | 339 |
 | 2023-07-05 | 997,962 | 340 |
-| 2023-07-06 | 998,095 | 340 |
+| 2023-07-06 | 998,113 | 340 |
 ## Awards
 Max (Great for Beginners): 147  (Ranked 293)  
 Sum: 1,193 (Ranked 229)  

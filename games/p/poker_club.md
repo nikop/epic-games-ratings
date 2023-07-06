@@ -5,37 +5,37 @@ Rating: 3.81 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~378,206 |
-| Handy | 40.00% | ~199,056 |
-| Cold Caller | 38.00% | ~189,103 |
-| A Bit On The Side | 26.00% | ~129,386 |
-| Backdoor | 24.00% | ~119,434 |
-| Rank Amateur | 20.00% | ~99,528 |
-| Three Way | 18.00% | ~89,575 |
-| Deadly Assassin | 15.00% | ~74,646 |
-| Gutshot | 13.00% | ~64,693 |
-| Risk It For A Biscuit | 13.00% | ~64,693 |
-| Showoff | 12.00% | ~59,717 |
-| W.H.I.P. | 11.00% | ~54,740 |
-| Bet Bet Bet | 9.00% | ~44,788 |
-| Blindman's Bluff | 8.00% | ~39,811 |
-| Poker Joker | 8.00% | ~39,811 |
-| Dog Eat Dog | 7.00% | ~34,835 |
-| Never Give Up | 7.00% | ~34,835 |
-| Quack Quack | 7.00% | ~34,835 |
-| Total Knock Out | 7.00% | ~34,835 |
-| Give Your Regards To Broadway | 6.00% | ~29,858 |
-| The Bigger They Are | 6.00% | ~29,858 |
+| Pro Creation | 76.00% | ~378,216 |
+| Handy | 40.00% | ~199,061 |
+| Cold Caller | 38.00% | ~189,108 |
+| A Bit On The Side | 26.00% | ~129,390 |
+| Backdoor | 24.00% | ~119,437 |
+| Rank Amateur | 20.00% | ~99,531 |
+| Three Way | 18.00% | ~89,578 |
+| Deadly Assassin | 15.00% | ~74,648 |
+| Gutshot | 13.00% | ~64,695 |
+| Risk It For A Biscuit | 13.00% | ~64,695 |
+| Showoff | 12.00% | ~59,718 |
+| W.H.I.P. | 11.00% | ~54,742 |
+| Bet Bet Bet | 9.00% | ~44,789 |
+| Blindman's Bluff | 8.00% | ~39,812 |
+| Poker Joker | 8.00% | ~39,812 |
+| Dog Eat Dog | 7.00% | ~34,836 |
+| Never Give Up | 7.00% | ~34,836 |
+| Quack Quack | 7.00% | ~34,836 |
+| Total Knock Out | 7.00% | ~34,836 |
+| Give Your Regards To Broadway | 6.00% | ~29,859 |
+| The Bigger They Are | 6.00% | ~29,859 |
 | Check Yourself | 4.00% | ~19,906 |
 | Moneymaker | 4.00% | ~19,906 |
-| In The Gang | 3.00% | ~14,929 |
-| On The Button | 3.00% | ~14,929 |
+| In The Gang | 3.00% | ~14,930 |
+| On The Button | 3.00% | ~14,930 |
 | Before You Wreck Yourself | 2.00% | ~9,953 |
 | Keep Your Heads Up | 2.00% | ~9,953 |
-| Bluffing Eh? | 1.00% | ~4,976 |
-| Holding Your Own | 1.00% | ~4,976 |
+| Bluffing Eh? | 1.00% | ~4,977 |
+| Holding Your Own | 1.00% | ~4,977 |
 | Go For It | 0.90% | ~4,479 |
-| Regular Punter | 0.70% | ~3,483 |
+| Regular Punter | 0.70% | ~3,484 |
 | How I Roll | 0.50% | ~2,488 |
 | Club Legend | 0.40% | ~1,991 |
 | Bring It On | 0.20% | ~995 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 940)
 | Rounder | 0.10% | ~498 |
 | Top Dog | 0.10% | ~498 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,640 (Ranked 31)  
+Progressed: 497,653 (Ranked 31)  
 Completed: 1 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.00%) (Ranked 233)
 | 2023-07-03 | 496,763 | 1 |
 | 2023-07-04 | 497,182 | 1 |
 | 2023-07-05 | 497,566 | 1 |
-| 2023-07-06 | 497,640 | 1 |
+| 2023-07-06 | 497,653 | 1 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 473)  
 Sum: 25 (Ranked 480)  

@@ -6,16 +6,16 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Imprint | 30.00% | ~188 |
 | Taste | 29.00% | ~181 |
-| Imprint | 29.00% | ~181 |
 | The Hunt | 25.00% | ~156 |
 | Ravenous | 25.00% | ~156 |
 | Weeper | 23.00% | ~144 |
 | Devourer | 17.00% | ~106 |
 | Silenced Whispers | 16.00% | ~100 |
 | Glare | 14.00% | ~29 |
-| Harmless | 14.00% | ~87 |
-| Yank | 14.00% | ~87 |
+| Harmless | 14.00% | ~88 |
+| Yank | 14.00% | ~88 |
 | Scion | 13.00% | ~27 |
 | Jawcrab | 13.00% | ~81 |
 | Feast | 13.00% | ~81 |
@@ -24,21 +24,21 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 11.00% | ~69 |
 | Host | 10.00% | ~21 |
 | Celebration | 10.00% | ~62 |
+| Predator | 10.00% | ~62 |
 | Inevitable | 9.00% | ~56 |
 | Watcher | 9.00% | ~56 |
-| Predator | 9.00% | ~56 |
 | Assimilation | 8.00% | ~50 |
 | Dream | 8.00% | ~17 |
 | Hunt Down | 7.00% | ~44 |
 | Artisan | 7.00% | ~44 |
 | Hush | 7.00% | ~44 |
 | All-Seeing | 7.00% | ~44 |
-| Unwrap the Gift | 6.00% | ~37 |
-| Passage | 6.00% | ~37 |
+| Unwrap the Gift | 6.00% | ~38 |
+| Passage | 6.00% | ~38 |
 | Kin | 6.00% | ~12 |
+| Proportions | 6.00% | ~38 |
 | Kinship | 5.00% | ~31 |
 | Breathsmith | 5.00% | ~31 |
-| Proportions | 5.00% | ~31 |
 | Bloodhunter | 4.00% | ~25 |
 | Breath | 4.00% | ~25 |
 | Weakness | 4.00% | ~25 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 1.00% | ~6 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 624 (Ranked 207)  
+Progressed: 625 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 616 | 0 |
 | 2023-07-04 | 618 | 0 |
 | 2023-07-05 | 623 | 0 |
-| 2023-07-06 | 624 | 0 |
+| 2023-07-06 | 625 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

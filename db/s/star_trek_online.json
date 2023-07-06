@@ -3,12 +3,12 @@
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 183,
+  "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
     "PcReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -1738,18 +1738,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 2265,
       "NumberOfAwardsMax": 552
+    },
+    {
+      "Time": "2023-07-06T05:02:06.6985713+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2267,
+      "NumberOfAwardsMax": 553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2265,
-  "NumberOfAwardsMax": 552,
+  "NumberOfAwards": 2267,
+  "NumberOfAwardsMax": 553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 552
+      "Count": 553
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1767,7 +1773,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1823,8 +1829,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-07-05T16:01:23.2155421+00:00",
+  "LastChanged": "2023-07-06T05:02:06.6985711+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6190685+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:01:42.9254856+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:03:57.0786389+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:02:06.6985716+00:00",
+  "LastUpdate_Achievements": "2023-07-06T05:04:46.2068553+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -290,9 +290,9 @@
       "ID": "look_mum_im_a_detective",
       "SetID": "2db2j74",
       "Name": "Look Mum I\u0027m A Detective",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "oscar_winning_performance",
@@ -403,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:05:29.5476094+00:00",
+  "LastChanged_Achievements": "2023-07-06T05:06:37.1321503+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:31.4648427+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:00:36.2509722+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:05:29.5476263+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:00:55.0520643+00:00",
+  "LastUpdate_Achievements": "2023-07-06T05:06:37.1321633+00:00"
 }

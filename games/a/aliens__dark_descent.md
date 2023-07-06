@@ -16,7 +16,7 @@ Rating: 4.45 (Ranked 620)
 | People Person | 48.00% | ~1,260 |
 | Use The Bumper, That's What It's For | 46.00% | ~1,208 |
 | First Steps Into Madness | 44.00% | ~1,155 |
-| Colonial Barrels | 42.00% | ~1,102 |
+| Colonial Barrels | 43.00% | ~1,129 |
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~971 |
 | Harper's Hell | 34.00% | ~893 |
 | Making a Stand | 31.00% | ~814 |

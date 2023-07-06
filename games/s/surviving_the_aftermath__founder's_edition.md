@@ -61,7 +61,7 @@ Number of Ratings: 836  (23.09.2022)
 | True Survivor | 1.00% | ~71 |
 | Slimy yet Satisfying | 0.90% | ~64 |
 | Feng Shui | 0.90% | ~64 |
-| Finnished | 0.30% | ~21 |
+| Finnished | 0.40% | ~28 |
 | Fun and Games | 0.20% | ~14 |
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -90,7 +90,7 @@
   "Tags": [],
   "EOS_Progressed": 2625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1847,9 +1847,9 @@
       "ID": "ACH_BARREL_KILL",
       "SetID": "816efe",
       "Name": "Colonial Barrels",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -2176,8 +2176,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-05T13:19:39.2259596+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:08:20.805507+00:00",
+  "LastChanged_Achievements": "2023-07-06T05:09:29.8270791+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-06T04:01:39.7449934+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:08:20.8055559+00:00"
+  "LastUpdate_Ratings": "2023-07-06T05:02:05.6331968+00:00",
+  "LastUpdate_Achievements": "2023-07-06T05:09:29.8271161+00:00"
 }

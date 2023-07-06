@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,934 |
+| Until death do us apart | 9.00% | ~5,935 |
 | That's a Grand Army | 8.00% | ~5,275 |
 | That is mine! | 8.00% | ~5,275 |
 | Victorious! | 8.00% | ~5,275 |
@@ -14,8 +14,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 6.00% | ~3,956 |
 | Seriously?! | 6.00% | ~3,956 |
 | For the Glory | 5.00% | ~3,297 |
-| Cold War | 4.00% | ~2,637 |
-| True Catholic | 4.00% | ~2,637 |
+| Cold War | 4.00% | ~2,638 |
+| True Catholic | 4.00% | ~2,638 |
 | Defender of the Faith | 3.00% | ~1,978 |
 | It's all about the money | 3.00% | ~1,978 |
 | Respected | 3.00% | ~1,978 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 1.00% | ~659 |
 | Isn't this the way to India? | 0.90% | ~593 |
 | Market Control | 0.90% | ~593 |
-| Down Under | 0.80% | ~527 |
-| Trustworthy | 0.80% | ~527 |
+| Down Under | 0.80% | ~528 |
+| Trustworthy | 0.80% | ~528 |
 | Electable! | 0.70% | ~462 |
 | All belongs to Mother Russia | 0.60% | ~396 |
 | At every continent | 0.60% | ~396 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,932 (Ranked 74)  
+Progressed: 65,939 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
 | 2023-07-05 | 65,889 | 0 |
-| 2023-07-06 | 65,932 | 0 |
+| 2023-07-06 | 65,939 | 0 |
 ## Awards
 Max (Educational): 5,507  (Ranked 60)  
 Sum: 45,444 (Ranked 27)  

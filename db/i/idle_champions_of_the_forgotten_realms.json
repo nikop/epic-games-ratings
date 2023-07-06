@@ -4730,10 +4730,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30403,
       "NumberOfAwardsMax": 5005
+    },
+    {
+      "Time": "2023-07-06T04:59:42.655231+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30405,
+      "NumberOfAwardsMax": 5005
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30403,
+  "NumberOfAwards": 30405,
   "NumberOfAwardsMax": 5005,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4759,7 +4765,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4541
+      "Count": 4543
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4780,9 +4786,9 @@
       "Count": 3291
     }
   ],
-  "EOS_Progressed": 206986,
+  "EOS_Progressed": 207011,
   "EOS_Completed": 2033,
-  "EOS_NewPlayers": 9974,
+  "EOS_NewPlayers": 9780,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -12865,6 +12871,11 @@
       "Time": "2023-07-06T04:04:46.0415643+00:00",
       "NumProgressed": 206986,
       "NumCompleted": 2033
+    },
+    {
+      "Time": "2023-07-06T05:05:44.4852077+00:00",
+      "NumProgressed": 207011,
+      "NumCompleted": 2033
     }
   ],
   "TotalAchievements": 503,
@@ -13740,7 +13751,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10349
+      "UsersEstimate": 10351
     },
     {
       "ID": "objective_completed_1203",
@@ -13852,7 +13863,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8279
+      "UsersEstimate": 8280
     },
     {
       "ID": "objective_completed_130",
@@ -14548,7 +14559,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31048
+      "UsersEstimate": 31052
     },
     {
       "ID": "objective_completed_34",
@@ -14556,7 +14567,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14489
+      "UsersEstimate": 14491
     },
     {
       "ID": "objective_completed_35",
@@ -14668,7 +14679,7 @@
       "Name": "Seeking Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8279
+      "UsersEstimate": 8280
     },
     {
       "ID": "objective_completed_390",
@@ -14740,7 +14751,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14489
+      "UsersEstimate": 14491
     },
     {
       "ID": "objective_completed_40",
@@ -15012,7 +15023,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10349
+      "UsersEstimate": 10351
     },
     {
       "ID": "objective_completed_54",
@@ -15578,9 +15589,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 693
     },
     {
       "ID": "objective_completed_621",
@@ -15954,9 +15965,9 @@
       "ID": "objective_completed_690",
       "SetID": "415jc5c",
       "Name": "The Giant\u0027s Bane Tavern",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1213
     },
     {
       "ID": "objective_completed_691",
@@ -16020,7 +16031,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22768
+      "UsersEstimate": 22771
     },
     {
       "ID": "objective_completed_70",
@@ -16092,7 +16103,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10349
+      "UsersEstimate": 10351
     },
     {
       "ID": "objective_completed_80",
@@ -16620,7 +16631,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8279
+      "UsersEstimate": 8280
     },
     {
       "ID": "objective_completed_902",
@@ -16899,21 +16910,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 173260,
+      "Progressed": 173285,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 206986,
+      "Progressed": 207011,
       "Completed": 2033
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-06T03:59:31.5604775+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:04:46.0415638+00:00",
+  "LastChanged": "2023-07-06T04:59:42.6552309+00:00",
+  "LastChanged_Achievements": "2023-07-06T05:05:44.4852073+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:59:31.5604784+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:04:46.0440673+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:59:42.6552314+00:00",
+  "LastUpdate_Achievements": "2023-07-06T05:05:44.4875178+00:00"
 }

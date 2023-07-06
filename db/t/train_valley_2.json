@@ -5,10 +5,10 @@
   "Ranking_Rating": 883,
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 426,
-  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -277,9 +277,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 746,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -532,6 +532,11 @@
       "Time": "2023-07-05T22:07:21.9213683+00:00",
       "NumProgressed": 745,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T05:07:54.5720082+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -645,9 +650,9 @@
       "ID": "AchievementCloseCall",
       "SetID": "76o014g",
       "Name": "Close call!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 37
     },
     {
       "ID": "AchievementCommonCause",
@@ -671,7 +676,7 @@
       "Name": "Dealmaker",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -725,9 +730,9 @@
       "ID": "AchievementFullGarage",
       "SetID": "76o014g",
       "Name": "Full garage",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 75
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -1142,21 +1147,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 746,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-06-28T09:58:02.8229732+00:00",
-  "LastChanged_Achievements": "2023-07-06T04:07:05.98023+00:00",
+  "LastChanged_Achievements": "2023-07-06T05:07:54.5720077+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.7563468+00:00",
-  "LastUpdate_Ratings": "2023-07-06T03:58:23.3410808+00:00",
-  "LastUpdate_Achievements": "2023-07-06T04:07:05.9803096+00:00"
+  "LastUpdate_Ratings": "2023-07-06T04:58:20.8188263+00:00",
+  "LastUpdate_Achievements": "2023-07-06T05:07:54.5720701+00:00"
 }

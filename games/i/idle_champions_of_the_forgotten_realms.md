@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,048 |
-| The Mad Wizard | 11.00% | ~22,768 |
-| The Ring of Regeneration | 7.00% | ~14,489 |
-| Are Ya Chicken? | 7.00% | ~14,489 |
-| Were-verpowered | 5.00% | ~10,349 |
-| Mad Cow Disease | 5.00% | ~10,349 |
-| Friendly Imps | 5.00% | ~10,349 |
-| A Persistent Buzzing | 4.00% | ~8,279 |
-| Seeking Allies | 4.00% | ~8,279 |
-| Pure Energy | 4.00% | ~8,279 |
+| The Cursed Farmer | 15.00% | ~31,052 |
+| The Mad Wizard | 11.00% | ~22,771 |
+| The Ring of Regeneration | 7.00% | ~14,491 |
+| Are Ya Chicken? | 7.00% | ~14,491 |
+| Were-verpowered | 5.00% | ~10,351 |
+| Mad Cow Disease | 5.00% | ~10,351 |
+| Friendly Imps | 5.00% | ~10,351 |
+| A Persistent Buzzing | 4.00% | ~8,280 |
+| Seeking Allies | 4.00% | ~8,280 |
+| Pure Energy | 4.00% | ~8,280 |
 | Terror in the Dark | 3.00% | ~6,210 |
 | Unearthed Evil | 3.00% | ~6,210 |
 | The Crumbling Temple | 3.00% | ~6,210 |
@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.70% | ~1,449 |
 | The Mists of Ravenloft | 0.70% | ~1,449 |
 | Nimble Escape | 0.70% | ~1,449 |
+| The Giant's Bane Tavern | 0.70% | ~1,213 |
 | The Haunted Jungle | 0.70% | ~1,449 |
 | Tomb of the Nine Gods | 0.60% | ~1,242 |
 | Family Entanglements | 0.60% | ~1,242 |
@@ -71,7 +72,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,242 |
 | The Darkness Runs Deeper | 0.60% | ~1,242 |
 | Market Fluctuations | 0.60% | ~1,242 |
-| The Giant's Bane Tavern | 0.60% | ~1,040 |
 | Rude Welcome | 0.60% | ~1,242 |
 | Durable Deep | 0.60% | ~1,242 |
 | Force Grey Unleashed | 0.50% | ~1,035 |
@@ -109,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.40% | ~828 |
 | Once More Into The Breach | 0.40% | ~828 |
 | Wyllowwood | 0.40% | ~828 |
+| An Illithid Undertaking | 0.40% | ~693 |
 | Into The Fire | 0.40% | ~693 |
 | Moose Tracks | 0.40% | ~693 |
 | Civilization | 0.40% | ~693 |
@@ -137,7 +138,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.30% | ~621 |
 | Patience is Key | 0.30% | ~621 |
 | Troublesome Prisoner | 0.30% | ~621 |
-| An Illithid Undertaking | 0.30% | ~520 |
 | Déjà Vu | 0.30% | ~520 |
 | Dreamscape | 0.30% | ~520 |
 | The Path of Dreams | 0.30% | ~520 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,986 (Ranked 52)  
+Progressed: 207,011 (Ranked 52)  
 Completed: 2,033 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,17 +587,17 @@ Completed: 2,033 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 206,986 | 2,033 |
+| 2023-07-06 | 207,011 | 2,033 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
-Sum: 30,403 (Ranked 37)  
+Sum: 30,405 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,005 |
 | This game is Great for Beginners | 4,939 |
 | This game has Quickly Understood Controls | 4,644 |
-| This game is Relaxing | 4,541 |
+| This game is Relaxing | 4,543 |
 | This game has Amazing Characters | 3,996 |
 | This game is Highly Recommended | 3,987 |
 | This game has Playful Visuals | 3,291 |
@@ -765,4 +765,4 @@ Diff (max vs sum): 28
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
-| 2023-07-06 | 4.05 | - | 5,005 | 30,403 |
+| 2023-07-06 | 4.05 | - | 5,005 | 30,405 |

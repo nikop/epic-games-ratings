@@ -63,6 +63,7 @@
 | Baron of Business | 5.00% | ~11 |
 | Office Bigwigs | 5.00% | ~11 |
 | Golden Opportunity | 5.00% | ~11 |
+| Sandbagger | 4.00% | ~9 |
 | Decorator's Touch | 3.00% | ~7 |
 | Apartment Awareness | 3.00% | ~7 |
 | Loft Life | 3.00% | ~7 |
@@ -70,7 +71,6 @@
 | Plebs Are Needed | 3.00% | ~7 |
 | Three of a Kind | 3.00% | ~7 |
 | Four of a Kind | 3.00% | ~7 |
-| Sandbagger | 3.00% | ~7 |
 | In the Money | 3.00% | ~7 |
 | Curated Class | 2.00% | ~5 |
 | Glut of Gastronomy | 2.00% | ~5 |
