@@ -29,7 +29,7 @@
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.88% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.87% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -54,8 +54,8 @@
 | 52 | [JARS](games/j/jars.md) | 3.28% |
 | 53 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 54 | [The Complex](games/t/the_complex.md) | 3.10% |
-| 55 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.07% |
 | 55 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
+| 56 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.06% |
 | 57 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2.96% |
 | 58 | [HordeCore](games/h/hordecore.md) | 2.93% |
 | 58 | [MultiVersus](games/m/multiversus.md) | 2.93% |
