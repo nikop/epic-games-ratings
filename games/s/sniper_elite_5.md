@@ -27,11 +27,11 @@ Rating: 4.45 (Ranked 620)
 | Opposing Force | 0.70% | ~22 |
 | Skirmisher | 0.70% | ~22 |
 | Set Europe Ablaze | 0.70% | ~22 |
+| My Little Friend | 0.70% | ~22 |
 | Explosive Efficiency | 0.70% | ~22 |
 | Snake in the Grass | 0.70% | ~22 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Precision Is Key | 0.60% | ~19 |
-| My Little Friend | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Fields of Glory | 0.50% | ~16 |

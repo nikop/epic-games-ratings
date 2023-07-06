@@ -4924,10 +4924,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10684,
       "NumberOfAwardsMax": 6239
+    },
+    {
+      "Time": "2023-07-06T02:27:43.2161835+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10685,
+      "NumberOfAwardsMax": 6239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10684,
+  "NumberOfAwards": 10685,
   "NumberOfAwardsMax": 6239,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4989,7 +4995,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 473
+      "Count": 474
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5004,9 +5010,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710500,
+  "EOS_Progressed": 710501,
   "EOS_Completed": 12805,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12259,6 +12265,11 @@
       "Time": "2023-07-05T23:09:35.4589255+00:00",
       "NumProgressed": 710500,
       "NumCompleted": 12805
+    },
+    {
+      "Time": "2023-07-06T02:36:24.6341366+00:00",
+      "NumProgressed": 710501,
+      "NumCompleted": 12805
     }
   ],
   "TotalAchievements": 50,
@@ -12318,7 +12329,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "08_Wude_H2",
@@ -12350,7 +12361,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "12_MidAge",
@@ -12366,7 +12377,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -12486,7 +12497,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -12526,7 +12537,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "34_TimedTakedown",
@@ -12590,7 +12601,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -12669,21 +12680,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19801,
-      "Completed": 10363
+      "Progressed": 19802,
+      "Completed": 10364
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710500,
+      "Progressed": 710501,
       "Completed": 12805
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-05T16:59:40.6735923+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:07:15.6112725+00:00",
+  "LastChanged": "2023-07-06T02:27:43.2161833+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:36:24.6341362+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:00:12.5160768+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:07:15.6115342+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:27:43.2161842+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:36:24.6342381+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 324,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -231,6 +231,11 @@
       "Time": "2023-07-01T03:33:08.353145+00:00",
       "NumProgressed": 323,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T02:33:08.0332663+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -266,7 +271,7 @@
       "Name": "Be water, my friend",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -280,9 +285,9 @@
       "ID": "FloorIsLava",
       "SetID": "d9ekhim",
       "Name": "Floor is Lava",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "HeroWorld10Boss",
@@ -522,15 +527,15 @@
       "Name": "Dash Crash",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "World2Boss",
       "SetID": "d9ekhim",
       "Name": "Snake Eyes",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "World3Boss",
@@ -593,7 +598,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 324,
       "Completed": 0
     }
   ],
@@ -601,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:03:39.9664122+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:33:08.0332659+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.5344097+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:57:45.4907228+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:03:39.9664472+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:24:12.624456+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:33:08.0333012+00:00"
 }

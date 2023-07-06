@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -4921,9 +4921,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -5312,8 +5312,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:07:17.188033+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:36:26.6398403+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:02:09.9509979+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:07:17.1881351+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:30:51.1271826+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:36:26.6399462+00:00"
 }

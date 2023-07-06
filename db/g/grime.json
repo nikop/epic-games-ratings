@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -200,7 +200,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -685,6 +685,11 @@
       "Time": "2023-07-05T23:04:57.7598785+00:00",
       "NumProgressed": 623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T02:32:02.5442248+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -768,7 +773,7 @@
       "Name": "Weeper",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -854,9 +859,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 62
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -870,9 +875,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -886,9 +891,9 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 100
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -992,7 +997,7 @@
       "Name": "Dream",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "QUEST_CODA",
@@ -1031,21 +1036,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 206,
+      "Progressed": 207,
       "Completed": 22
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-06-10T03:01:50.4975426+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:02:54.1148061+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:32:02.5442244+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:52.4102074+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:01:58.3988805+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:02:54.1148422+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:30:28.0627601+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:32:02.5442642+00:00"
 }

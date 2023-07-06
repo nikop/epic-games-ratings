@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 390,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -4264,10 +4264,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2842,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2023-07-06T02:27:46.0876754+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2844,
+      "NumberOfAwardsMax": 375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2842,
+  "NumberOfAwards": 2844,
   "NumberOfAwardsMax": 375,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4329,7 +4335,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 321
+      "Count": 323
     }
   ],
   "EOS_Progressed": 0,
@@ -4343,8 +4349,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-07-05T16:59:43.9834381+00:00",
+  "LastChanged": "2023-07-06T02:27:46.0876753+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:59.8756109+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:00:15.5779626+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:05:06.3250695+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:27:46.0876759+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:34:14.1443424+00:00"
 }

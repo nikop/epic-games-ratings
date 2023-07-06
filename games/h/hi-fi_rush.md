@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.30% | ~6 |
+| NOW we got a kickass hideout! | 0.40% | ~8 |
 | Call me Turbo Chai | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
 | Cream of the Crop | 0.10% | ~3 |

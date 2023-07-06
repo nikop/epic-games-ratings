@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1161,6 +1161,11 @@
       "Time": "2023-07-05T23:06:39.9548662+00:00",
       "NumProgressed": 342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T02:33:46.5201473+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1170,9 +1175,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -1186,9 +1191,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_defeat_players_100",
@@ -1284,7 +1289,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1292,7 +1297,7 @@
       "Name": "Sergeant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1348,7 +1353,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1412,7 +1417,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -1426,9 +1431,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 141
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1475,14 +1480,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:04:26.750591+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:33:46.5201469+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:02:01.8451789+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:04:26.7506279+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:30:34.8900398+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:33:46.5202016+00:00"
 }

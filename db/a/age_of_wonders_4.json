@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4926,
+  "EOS_Progressed": 4927,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4938,6 +4938,11 @@
       "Time": "2023-07-05T22:07:57.2178856+00:00",
       "NumProgressed": 4926,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-06T02:35:22.1914296+00:00",
+      "NumProgressed": 4927,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5035,9 +5040,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "20",
@@ -5348,13 +5353,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4926,
+      "Progressed": 4927,
       "Completed": 4759
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4926,
+      "Progressed": 4927,
       "Completed": 5
     }
   ],
@@ -5362,8 +5367,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:06:12.1971922+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:35:22.1914291+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:00:48.851755+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:06:12.1972657+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:28:43.1853361+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:35:22.191538+00:00"
 }

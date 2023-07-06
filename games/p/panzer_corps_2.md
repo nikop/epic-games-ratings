@@ -4,12 +4,12 @@
 Rating: 4.50 (Ranked 552)  
 Number of Ratings: 37  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 20  (Ranked 500)  
-Sum: 40 (Ranked 456)  
-Diff (max vs sum): 44  
+Max (Highly Recommended): 21  (Ranked 492)  
+Sum: 41 (Ranked 454)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -56,3 +56,4 @@ Diff (max vs sum): 44
 | 2023-06-24 | 4.49 | - | 20 | 20 |
 | 2023-06-30 | 4.50 | - | 20 | 20 |
 | 2023-07-03 | 4.50 | - | 20 | 40 |
+| 2023-07-06 | 4.50 | - | 21 | 41 |

@@ -5,21 +5,21 @@ Rating: 4.18 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 6.00% | ~3,990 |
-| To the Victor Go the Spoils | 4.00% | ~2,660 |
-| Har, Har, Har, Very Funny | 4.00% | ~2,660 |
-| Loose Ends | 4.00% | ~2,660 |
-| The Batman Family | 3.00% | ~1,995 |
-| Something in the Clay | 3.00% | ~1,995 |
-| Quartzer Life Crisis | 3.00% | ~1,995 |
-| Snow Problem | 3.00% | ~1,995 |
-| Get ReQ'd | 3.00% | ~1,995 |
-| Working Hard or Harley Working? | 3.00% | ~1,995 |
-| Unstoppable Force | 3.00% | ~1,995 |
-| Knighthood | 3.00% | ~1,995 |
-| Whispered Words | 3.00% | ~1,995 |
-| Lock and Key | 3.00% | ~1,995 |
-| Bad Apples in Every Orchard | 3.00% | ~1,995 |
+| First Step Into the Knight | 6.00% | ~3,991 |
+| To the Victor Go the Spoils | 4.00% | ~2,661 |
+| Har, Har, Har, Very Funny | 4.00% | ~2,661 |
+| Loose Ends | 4.00% | ~2,661 |
+| The Batman Family | 3.00% | ~1,996 |
+| Something in the Clay | 3.00% | ~1,996 |
+| Quartzer Life Crisis | 3.00% | ~1,996 |
+| Snow Problem | 3.00% | ~1,996 |
+| Get ReQ'd | 3.00% | ~1,996 |
+| Working Hard or Harley Working? | 3.00% | ~1,996 |
+| Unstoppable Force | 3.00% | ~1,996 |
+| Knighthood | 3.00% | ~1,996 |
+| Whispered Words | 3.00% | ~1,996 |
+| Lock and Key | 3.00% | ~1,996 |
+| Bad Apples in Every Orchard | 3.00% | ~1,996 |
 | End of an Era | 2.00% | ~1,330 |
 | In Your Element | 2.00% | ~1,330 |
 | Protector of Gotham | 2.00% | ~1,330 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,508 (Ranked 73)  
+Progressed: 66,518 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
-| 2023-07-06 | 66,508 | 100 |
+| 2023-07-06 | 66,518 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,419  (Ranked 100)  
 Sum: 4,005 (Ranked 137)  

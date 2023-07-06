@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -969,9 +969,9 @@
       "ID": "ACH_GHOST_BUSTED",
       "SetID": "7k95e4n",
       "Name": "No need to call anyone",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -1033,9 +1033,9 @@
       "ID": "ACH_POSTCARD",
       "SetID": "7k95e4n",
       "Name": "Island boy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -1089,9 +1089,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -1130,8 +1130,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-07-05T18:57:43.3386981+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:03:10.1514501+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:32:25.4834499+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:05.3314421+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:57:39.8145826+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:03:10.1514749+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:23:59.5868169+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:32:25.4834767+00:00"
 }

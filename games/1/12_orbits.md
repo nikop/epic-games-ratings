@@ -4,11 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| [Tier 1] Fireworks | 75.00% | ~3 |
-| [Tier 1] Mix and match | 50.00% | ~2 |
-| [Tier 4] The oncoming storm | 25.00% | ~1 |
-| [Tier 1] Worth the trouble | 25.00% | ~1 |
-| [Tier 2] Team effort | 25.00% | ~1 |
+| [Tier 1] Fireworks | 80.00% | ~4 |
+| [Tier 1] Mix and match | 40.00% | ~2 |
+| [Tier 4] The oncoming storm | 20.00% | ~1 |
+| [Tier 1] Worth the trouble | 20.00% | ~1 |
+| [Tier 1] Instant Karma | 20.00% | ~1 |
+| [Tier 2] Team effort | 20.00% | ~1 |
 | [Tier 2] 12 orbits | 0.00% | ~0 |
 | [Tier 4] Against all odds | 0.00% | ~0 |
 | [Tier 2] Entering the arena | 0.00% | ~0 |
@@ -20,7 +21,6 @@
 | [Tier 4] Instinct | 0.00% | ~0 |
 | [Tier 4] The walls are lava | 0.00% | ~0 |
 | [Tier 3] Immortal | 0.00% | ~0 |
-| [Tier 1] Instant Karma | 0.00% | ~0 |
 | [Tier 2] Bullseye | 0.00% | ~0 |
 | [Tier 5] One with the orbit | 0.00% | ~0 |
 | [Tier 1] Ain't nobody got time for that | 0.00% | ~0 |
@@ -30,7 +30,7 @@
 | [Tier 4] A long way home | 0.00% | ~0 |
 | [Tier 3] Wrecking ball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 423)  
+Progressed: 5 (Ranked 416)  
 Completed: 0 (0.00%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,6 +38,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-06-28 | 2 | 0 |
 | 2023-06-29 | 3 | 0 |
 | 2023-07-03 | 4 | 0 |
+| 2023-07-06 | 5 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

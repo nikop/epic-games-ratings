@@ -41,8 +41,8 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~100 |
 | Tank commander | 4.00% | ~100 |
 | Trick shot marksman | 4.00% | ~100 |
+| We get it, you're good | 4.00% | ~100 |
 | Hoarder | 3.00% | ~75 |
-| We get it, you're good | 3.00% | ~75 |
 | Cross lock country | 2.00% | ~50 |
 | Many plys later... | 2.00% | ~50 |
 | Pew-Pew | 2.00% | ~50 |

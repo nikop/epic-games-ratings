@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 362)
 | Full Ascension | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
+| Enchanted Archipelago | 1.00% | ~49 |
 | Digging for Treasure | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | In a Liege of Your Own | 1.00% | ~49 |
@@ -33,7 +34,6 @@ Rating: 4.61 (Ranked 362)
 | Duality | 1.00% | ~49 |
 | Valley of Wonders | 0.90% | ~44 |
 | The Creator | 0.90% | ~44 |
-| Enchanted Archipelago | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
 | The Goddess of Nature | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 362)
 | I'll Fight You All | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,926 (Ranked 134)  
+Progressed: 4,927 (Ranked 134)  
 Completed: 5 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 5 (0.10%) (Ranked 181)
 | 2023-07-03 | 4,908 | 4 |
 | 2023-07-04 | 4,918 | 4 |
 | 2023-07-05 | 4,926 | 5 |
+| 2023-07-06 | 4,927 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

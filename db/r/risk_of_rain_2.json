@@ -4,10 +4,10 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
@@ -1746,10 +1746,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2314,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2023-07-06T02:28:13.292783+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2316,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2314,
+  "NumberOfAwards": 2316,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1781,7 +1787,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1811,7 +1817,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1837,8 +1843,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-07-05T03:23:32.425601+00:00",
+  "LastChanged": "2023-07-06T02:28:13.2927828+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:19.5701366+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:00:30.6743707+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:03:05.4332232+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:28:13.2927835+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:32:18.7850754+00:00"
 }

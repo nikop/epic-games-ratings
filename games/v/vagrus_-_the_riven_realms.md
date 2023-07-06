@@ -34,6 +34,7 @@
 | Despised | 2.00% | ~2 |
 | Spiritual Journey | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
+| Unseen Patterns | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
 | Loremaster | 0.90% | ~1 |
 | Potential Unlocked | 0.90% | ~1 |
@@ -43,7 +44,6 @@
 | Delayed | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
-| Unseen Patterns | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |

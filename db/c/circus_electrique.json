@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "631ndc2",
       "Name": "More Brain Than Brawn",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -797,8 +797,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:07:15.3624428+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:36:24.1199962+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:45.0782701+00:00",
-  "LastUpdate_Ratings": "2023-07-06T00:00:02.7362215+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:07:15.3624943+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:27:27.9407539+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:36:24.1200432+00:00"
 }

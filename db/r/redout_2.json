@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-07-04T08:03:19.2788096+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T02:31:41.2701437+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -566,7 +571,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -830,7 +835,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -909,7 +914,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1041,
       "Completed": 0
     }
   ],
@@ -917,8 +922,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:02:39.4606861+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:31:41.2701432+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:40.0134084+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:58:54.732213+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:02:39.4607352+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:25:53.740443+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:31:41.2701939+00:00"
 }

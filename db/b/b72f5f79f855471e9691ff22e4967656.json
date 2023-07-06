@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -695,8 +695,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-07-06T00:03:33.0619852+00:00",
+  "LastChanged_Achievements": "2023-07-06T02:32:58.130067+00:00",
   "LastUpdate_AppInfo": "2023-07-05T09:56:55.4527488+00:00",
-  "LastUpdate_Ratings": "2023-07-05T23:57:10.198318+00:00",
-  "LastUpdate_Achievements": "2023-07-06T00:03:33.0620684+00:00"
+  "LastUpdate_Ratings": "2023-07-06T02:23:24.1695954+00:00",
+  "LastUpdate_Achievements": "2023-07-06T02:32:58.1301449+00:00"
 }
