@@ -27,8 +27,8 @@ Rating: 4.19 (Ranked 844)
 | Giving Back | 0.90% | ~141 |
 | Terminated | 0.90% | ~141 |
 | The Outer Way | 0.90% | ~141 |
+| Desperate Times | 0.90% | ~141 |
 | The Commonality | 0.80% | ~125 |
-| Desperate Times | 0.80% | ~125 |
 | One Last Job | 0.60% | ~21 |
 | In Striking Distance | 0.50% | ~78 |
 | This Isn't About Escape | 0.40% | ~14 |

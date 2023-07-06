@@ -5,10 +5,10 @@
   "Ranking_Rating": 119,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 112,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3044,9 +3044,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 10192,
+  "EOS_Progressed": 10194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7864,6 +7864,11 @@
       "Time": "2023-07-06T19:03:17.8917536+00:00",
       "NumProgressed": 10192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T21:03:13.9602436+00:00",
+      "NumProgressed": 10194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -7875,7 +7880,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "02_BurningCity",
@@ -8747,7 +8752,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -8755,7 +8760,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -8763,7 +8768,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -8787,7 +8792,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -8802,21 +8807,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8974,
+      "Progressed": 8976,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 10192,
+      "Progressed": 10194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-07-05T14:58:49.8042669+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:03:23.0212897+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:03:13.960243+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.1285632+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:59:30.666055+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:03:23.0214869+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:59:16.8797677+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:03:13.960435+00:00"
 }

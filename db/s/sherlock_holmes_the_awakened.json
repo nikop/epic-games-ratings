@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -46,11 +46,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.69,
+  "EOS_Completed_Percentage": 4.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -1691,6 +1691,11 @@
       "Time": "2023-07-06T11:05:53.2960738+00:00",
       "NumProgressed": 512,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-07-06T21:06:12.8229422+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 28,
@@ -1718,7 +1723,7 @@
       "Name": "High Profile",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ02_2",
@@ -1750,7 +1755,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MQ03_2",
@@ -1766,7 +1771,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ03_4",
@@ -1780,9 +1785,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 267
     },
     {
       "ID": "MQ04_1",
@@ -1798,7 +1803,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MQ04_3",
@@ -1820,9 +1825,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 231
     },
     {
       "ID": "MQ05_3",
@@ -1846,7 +1851,7 @@
       "Name": "Brain Food",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "MQ06_2",
@@ -1870,7 +1875,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "MQ07_1",
@@ -1886,7 +1891,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "MQ08_1",
@@ -1894,7 +1899,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "MQ08_2",
@@ -1925,7 +1930,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 24
     }
   ],
@@ -1933,8 +1938,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:06:14.7590957+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:06:12.8229416+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:57:47.6516084+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:06:14.7591277+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:57:36.5286512+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:06:12.8229718+00:00"
 }

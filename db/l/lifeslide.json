@@ -4,8 +4,8 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -65,6 +65,11 @@
     {
       "Time": "2023-07-01T10:02:37.5061409+00:00",
       "NumProgressed": 321,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T21:03:17.9573656+00:00",
+      "NumProgressed": 322,
       "NumCompleted": 0
     }
   ],
@@ -117,7 +122,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -157,7 +162,7 @@
       "Name": "Tangibility",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "END_REACHED",
@@ -173,15 +178,15 @@
       "Name": "Road to Improvement",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "FULL_IMPROVEMENTS",
       "SetID": "b6f796g",
       "Name": "Best Self",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "IN_LOVE",
@@ -229,7 +234,7 @@
       "Name": "Bigger Picture",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MAX_SPEED_REACHED",
@@ -245,7 +250,7 @@
       "Name": "Night Air",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OLD_AGE_REACHED",
@@ -261,7 +266,7 @@
       "Name": "Second Wind",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "SECOND_WIND_X3",
@@ -301,7 +306,7 @@
       "Name": "Chain of Events",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
@@ -324,7 +329,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 0
     }
   ],
@@ -332,8 +337,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:03:26.8359399+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:03:17.957365+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:44.3574728+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:59:12.38561+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:03:26.8359638+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:58:58.9282398+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:03:17.9573888+00:00"
 }

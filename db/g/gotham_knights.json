@@ -1922,9 +1922,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66560,
+  "EOS_Progressed": 66564,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8897,6 +8897,11 @@
       "Time": "2023-07-06T20:03:10.1128456+00:00",
       "NumProgressed": 66560,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-06T21:02:50.6182563+00:00",
+      "NumProgressed": 66564,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -9060,7 +9065,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -9132,7 +9137,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "FREEZE_1_5",
@@ -9212,7 +9217,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "HARLEY_2",
@@ -9300,7 +9305,7 @@
       "Name": "Loose Ends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "MYSTERY_02",
@@ -9395,13 +9400,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66560,
+      "Progressed": 66564,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36840,
+      "Progressed": 36844,
       "Completed": 2651
     }
   ],
@@ -9409,8 +9414,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-06T19:00:53.6237737+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:03:10.1128451+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:02:50.6182559+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:01:16.2234419+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:03:10.1129508+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:01:02.2277877+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:02:50.6183559+00:00"
 }

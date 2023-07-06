@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -675,9 +675,9 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FlamethrowerDiarrheaAchievement",
@@ -827,9 +827,9 @@
       "ID": "KilgoreSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Surfer",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed0EnemiesInLevelAchievement",
@@ -923,9 +923,9 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed500BossesAchievement",
@@ -1083,9 +1083,9 @@
       "ID": "SilverBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Prince of Ball-air",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SilverGilgameshBossDefeatedAchievement",
@@ -1139,9 +1139,9 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SilverMissionsCompletedAllAchievement",
@@ -1251,9 +1251,9 @@
       "ID": "VisitMerchant10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince II",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VisitMerchant1TimeAchievement",
@@ -1338,8 +1338,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:03:27.4011849+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:03:18.5186286+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:32.4606171+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:59:57.4065528+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:03:27.4014004+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:59:41.4506407+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:03:18.518806+00:00"
 }

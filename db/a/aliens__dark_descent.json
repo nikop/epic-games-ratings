@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2646,
+  "EOS_Progressed": 2647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1859,6 +1859,11 @@
       "Time": "2023-07-06T20:07:25.3878431+00:00",
       "NumProgressed": 2646,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T21:07:13.1673442+00:00",
+      "NumProgressed": 2647,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1918,7 +1923,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -1926,7 +1931,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -1982,7 +1987,7 @@
       "Name": "Call Me Snake",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -2046,15 +2051,15 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_MISSION_01",
@@ -2062,7 +2067,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2070,7 +2075,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ACH_MISSION_03",
@@ -2094,7 +2099,7 @@
       "Name": "Where It All Begun",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACH_MISSION_06",
@@ -2118,7 +2123,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_MISSION_09",
@@ -2174,7 +2179,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2190,7 +2195,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2206,7 +2211,7 @@
       "Name": "Recouped Investment",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -2222,14 +2227,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2646,
+      "Progressed": 2647,
       "Completed": 0
     }
   ],
@@ -2237,8 +2242,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-06T13:20:03.1006988+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:07:25.3878425+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:07:13.1673436+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:00:42.0470902+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:07:25.3878925+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:00:31.6415204+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:07:13.1673922+00:00"
 }

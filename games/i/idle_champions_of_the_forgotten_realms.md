@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,110 |
-| The Mad Wizard | 11.00% | ~22,814 |
-| The Ring of Regeneration | 7.00% | ~14,518 |
-| Are Ya Chicken? | 7.00% | ~14,518 |
-| Were-verpowered | 5.00% | ~10,370 |
-| Seeking Allies | 5.00% | ~10,370 |
-| Mad Cow Disease | 5.00% | ~10,370 |
-| Friendly Imps | 5.00% | ~10,370 |
-| A Persistent Buzzing | 4.00% | ~8,296 |
-| Pure Energy | 4.00% | ~8,296 |
-| Terror in the Dark | 3.00% | ~6,222 |
-| Unearthed Evil | 3.00% | ~6,222 |
-| The Crumbling Temple | 3.00% | ~6,222 |
-| Exploring Port Nyanzaru | 3.00% | ~6,222 |
-| The Contagious Curse | 3.00% | ~6,222 |
-| Beast Mode | 2.00% | ~4,148 |
-| Low Initiative | 2.00% | ~4,148 |
-| A Mysterious Summons | 2.00% | ~4,148 |
-| Building Trust | 2.00% | ~4,148 |
-| No Time To Rest | 2.00% | ~4,148 |
-| Useless Allies | 2.00% | ~4,148 |
-| Running of the Saurs | 2.00% | ~4,148 |
-| Escort to Waterdeep | 2.00% | ~4,148 |
-| Waterdeep Detours | 2.00% | ~4,148 |
-| Underdeep Cartography | 2.00% | ~4,148 |
+| The Cursed Farmer | 15.00% | ~31,115 |
+| The Mad Wizard | 11.00% | ~22,818 |
+| The Ring of Regeneration | 7.00% | ~14,520 |
+| Are Ya Chicken? | 7.00% | ~14,520 |
+| Were-verpowered | 5.00% | ~10,372 |
+| Seeking Allies | 5.00% | ~10,372 |
+| Mad Cow Disease | 5.00% | ~10,372 |
+| Friendly Imps | 5.00% | ~10,372 |
+| A Persistent Buzzing | 4.00% | ~8,297 |
+| Pure Energy | 4.00% | ~8,297 |
+| Terror in the Dark | 3.00% | ~6,223 |
+| Unearthed Evil | 3.00% | ~6,223 |
+| The Crumbling Temple | 3.00% | ~6,223 |
+| Exploring Port Nyanzaru | 3.00% | ~6,223 |
+| The Contagious Curse | 3.00% | ~6,223 |
+| Beast Mode | 2.00% | ~4,149 |
+| Low Initiative | 2.00% | ~4,149 |
+| A Mysterious Summons | 2.00% | ~4,149 |
+| Building Trust | 2.00% | ~4,149 |
+| No Time To Rest | 2.00% | ~4,149 |
+| Useless Allies | 2.00% | ~4,149 |
+| Running of the Saurs | 2.00% | ~4,149 |
+| Escort to Waterdeep | 2.00% | ~4,149 |
+| Waterdeep Detours | 2.00% | ~4,149 |
+| Underdeep Cartography | 2.00% | ~4,149 |
 | Street War | 1.00% | ~2,074 |
 | March of the Undead | 1.00% | ~2,074 |
 | Invisible Shadows | 1.00% | ~2,074 |
@@ -52,29 +52,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.80% | ~1,659 |
 | The Forbidden City | 0.80% | ~1,659 |
 | Wisdom Check | 0.80% | ~1,659 |
+| The Mists of Ravenloft | 0.80% | ~1,659 |
 | Attack on the Manor | 0.80% | ~1,659 |
 | The Dead Three | 0.80% | ~1,659 |
 | The Long Haul | 0.80% | ~1,659 |
 | Easily Distracted | 0.80% | ~1,659 |
 | Captured! | 0.70% | ~1,452 |
 | A Grand Puzzle | 0.70% | ~1,452 |
-| The Mists of Ravenloft | 0.70% | ~1,452 |
 | Treasure Hunters | 0.70% | ~1,452 |
 | Nimble Escape | 0.70% | ~1,452 |
 | The Giant's Bane Tavern | 0.70% | ~1,216 |
 | Rude Welcome | 0.70% | ~1,452 |
 | The Haunted Jungle | 0.70% | ~1,452 |
-| Tomb of the Nine Gods | 0.60% | ~1,244 |
-| Family Entanglements | 0.60% | ~1,244 |
-| The Immortal Warrior | 0.60% | ~1,244 |
-| The Wyrmheart Mine | 0.60% | ~1,244 |
-| Fugitives | 0.60% | ~1,244 |
-| Hopelessly Lost | 0.60% | ~1,244 |
-| Enter the Sargauth | 0.60% | ~1,244 |
-| Crowded Streets | 0.60% | ~1,244 |
-| The Darkness Runs Deeper | 0.60% | ~1,244 |
-| Market Fluctuations | 0.60% | ~1,244 |
-| Durable Deep | 0.60% | ~1,244 |
+| Tomb of the Nine Gods | 0.60% | ~1,245 |
+| Family Entanglements | 0.60% | ~1,245 |
+| The Immortal Warrior | 0.60% | ~1,245 |
+| The Wyrmheart Mine | 0.60% | ~1,245 |
+| Fugitives | 0.60% | ~1,245 |
+| Hopelessly Lost | 0.60% | ~1,245 |
+| Enter the Sargauth | 0.60% | ~1,245 |
+| Crowded Streets | 0.60% | ~1,245 |
+| The Darkness Runs Deeper | 0.60% | ~1,245 |
+| Market Fluctuations | 0.60% | ~1,245 |
+| Durable Deep | 0.60% | ~1,245 |
 | Force Grey Unleashed | 0.50% | ~1,037 |
 | Sleuth It Out | 0.50% | ~1,037 |
 | Chatty Nobles | 0.50% | ~1,037 |
@@ -86,7 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.50% | ~1,037 |
 | Difficult Terrain | 0.50% | ~1,037 |
 | Elturel Has Fallen | 0.50% | ~1,037 |
-| The Everlasting Rime | 0.50% | ~868 |
+| The Everlasting Rime | 0.50% | ~869 |
 | Expert Opinion | 0.50% | ~1,037 |
 | Lobsterfolk Assault | 0.40% | ~830 |
 | Periodic Petrification | 0.40% | ~830 |
@@ -158,6 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.30% | ~622 |
 | The Castle of a Thousand Vecnas | 0.20% | ~347 |
 | The Sanctum of the Sword | 0.20% | ~347 |
+| Get Back In The Castle | 0.20% | ~347 |
 | Checkmate | 0.20% | ~347 |
 | Struggling Toward Omu | 0.20% | ~415 |
 | Wagon Train | 0.20% | ~415 |
@@ -254,7 +255,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clumsy Doesn't Mean Inept | 0.10% | ~174 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~174 |
 | Kas the Bloody Handed | 0.10% | ~174 |
-| Get Back In The Castle | 0.10% | ~174 |
 | Kas the Destroyer | 0.10% | ~174 |
 | Pin and Skewer | 0.10% | ~174 |
 | Vecna Out! | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,397 (Ranked 52)  
+Progressed: 207,433 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,397 | 2,035 |
+| 2023-07-06 | 207,433 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,415 (Ranked 37)  

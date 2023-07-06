@@ -20,24 +20,24 @@
 | Omicron Alpha | 12.00% | ~6 |
 | Pacifist | 12.00% | ~6 |
 | Collateral Damage I | 12.00% | ~6 |
+| Defrosted | 10.00% | ~5 |
 | Galactic Cadet | 10.00% | ~5 |
 | Sectoral Ensign | 8.00% | ~4 |
 | Rambo II | 8.00% | ~4 |
-| Defrosted | 8.00% | ~4 |
+| Space Surfer | 8.00% | ~4 |
+| Unstoppable | 8.00% | ~4 |
 | 25Gb HDD | 8.00% | ~4 |
+| Silver Prince of Ball-air | 8.00% | ~4 |
+| Merchant Prince II | 8.00% | ~4 |
 | Golden Prince of Ball-air | 6.00% | ~3 |
-| Space Surfer | 6.00% | ~3 |
-| Unstoppable | 6.00% | ~3 |
 | Flower Power | 6.00% | ~3 |
-| Silver Prince of Ball-air | 6.00% | ~3 |
-| Merchant Prince II | 6.00% | ~3 |
+| Sectoral Captain | 6.00% | ~3 |
 | Hitchhiker | 4.00% | ~2 |
 | Omicron Beta | 4.00% | ~2 |
 | Hoarder | 4.00% | ~2 |
 | Usurper I | 4.00% | ~2 |
 | 50Gb HDD | 4.00% | ~2 |
 | Galactic Lieutenant | 4.00% | ~2 |
-| Sectoral Captain | 4.00% | ~2 |
 | Collateral Damage II | 4.00% | ~2 |
 | Revenge | 2.00% | ~1 |
 | Bronze Foundation | 2.00% | ~1 |

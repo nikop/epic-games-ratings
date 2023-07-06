@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -112,7 +112,7 @@
   "Tags": [],
   "EOS_Progressed": 1481,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3377,9 +3377,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 1007
     },
     {
       "ID": "A47",
@@ -3458,8 +3458,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-06T14:58:40.3074977+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:07:37.165142+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:07:25.1329352+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:59:01.6523297+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:07:37.1652112+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:58:49.0770935+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:07:25.1330033+00:00"
 }

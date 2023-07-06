@@ -5,9 +5,9 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,465 |
-| World Map | 79.00% | ~1,244 |
-| Temple of Eternals | 57.00% | ~898 |
+| Victor | 93.00% | ~1,466 |
+| World Map | 79.00% | ~1,245 |
+| Temple of Eternals | 56.00% | ~883 |
 | Prestigious | 53.00% | ~835 |
 | Fellowship Power | 41.00% | ~646 |
 | Guild Power | 25.00% | ~394 |
@@ -42,11 +42,11 @@ Rating: 4.09 (Ranked 890)
 | Here We Go Again | 7.00% | ~110 |
 | Master Enchanter | 7.00% | ~110 |
 | The father of Dragons | 7.00% | ~110 |
-| Enchanting skill | 6.00% | ~94 |
-| How Do You Turn This On? | 6.00% | ~94 |
-| The Expeditioner | 6.00% | ~94 |
-| Trader | 6.00% | ~94 |
-| Weekly Quest Completionist | 6.00% | ~94 |
+| Enchanting skill | 6.00% | ~95 |
+| How Do You Turn This On? | 6.00% | ~95 |
+| The Expeditioner | 6.00% | ~95 |
+| Trader | 6.00% | ~95 |
+| Weekly Quest Completionist | 6.00% | ~95 |
 | Ancient Knowledge | 5.00% | ~79 |
 | Crystal Mining | 5.00% | ~79 |
 | Dragon Slayer | 5.00% | ~79 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 169)  
+Progressed: 1,576 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-07-03 | 1,559 | 1 |
 | 2023-07-04 | 1,564 | 1 |
 | 2023-07-05 | 1,573 | 1 |
-| 2023-07-06 | 1,575 | 1 |
+| 2023-07-06 | 1,576 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

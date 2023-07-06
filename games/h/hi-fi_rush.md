@@ -13,6 +13,7 @@ Rating: 4.87 (Ranked 25)
 | Thanks for the free chip, Peppermint! | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
+| Kissing the sky! | 0.20% | ~7 |
 | Who put gears in there? | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
@@ -38,7 +39,6 @@ Rating: 4.87 (Ranked 25)
 | Perfecter Parry-er! | 0.10% | ~3 |
 | Uh, they were broken when I got here | 0.10% | ~3 |
 | That's a lot of junk metal… | 0.10% | ~3 |
-| Kissing the sky! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,408 (Ranked 145)  
+Progressed: 3,409 (Ranked 145)  
 Completed: 5 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 5 (0.15%) (Ranked 168)
 | 2023-07-03 | 3,395 | 5 |
 | 2023-07-04 | 3,402 | 5 |
 | 2023-07-05 | 3,407 | 5 |
-| 2023-07-06 | 3,408 | 5 |
+| 2023-07-06 | 3,409 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

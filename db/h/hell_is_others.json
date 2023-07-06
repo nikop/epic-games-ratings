@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 374,
+  "Ranking_Popularity": 446,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -608,11 +608,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 177,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-07-06T21:01:42.9662992+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 177,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 178,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Unique Visuals",
   "Tags": [
     {
@@ -625,7 +631,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Characters",
@@ -658,7 +664,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252530,
+  "EOS_Progressed": 252532,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
@@ -8518,6 +8524,11 @@
       "Time": "2023-07-06T20:05:39.0790962+00:00",
       "NumProgressed": 252530,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-06T21:05:26.1770135+00:00",
+      "NumProgressed": 252532,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8577,7 +8588,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78284
+      "UsersEstimate": 78285
     },
     {
       "ID": "BackHomeNTimes",
@@ -8585,7 +8596,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12626
+      "UsersEstimate": 12627
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -8657,7 +8668,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12626
+      "UsersEstimate": 12627
     },
     {
       "ID": "CreedsInBank2",
@@ -8976,16 +8987,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252530,
+      "Progressed": 252532,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-07-06T00:01:52.1225859+00:00",
-  "LastChanged_Achievements": "2023-07-06T20:05:39.0790957+00:00",
+  "LastChanged": "2023-07-06T21:01:42.966299+00:00",
+  "LastChanged_Achievements": "2023-07-06T21:05:26.1770129+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-06T20:02:03.1122443+00:00",
-  "LastUpdate_Achievements": "2023-07-06T20:05:39.0793019+00:00"
+  "LastUpdate_Ratings": "2023-07-06T21:01:42.9662995+00:00",
+  "LastUpdate_Achievements": "2023-07-06T21:05:26.177109+00:00"
 }
