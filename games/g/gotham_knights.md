@@ -20,21 +20,21 @@ Rating: 4.18 (Ranked 853)
 | Whispered Words | 3.00% | ~1,996 |
 | Lock and Key | 3.00% | ~1,996 |
 | Bad Apples in Every Orchard | 3.00% | ~1,996 |
-| End of an Era | 2.00% | ~1,330 |
-| In Your Element | 2.00% | ~1,330 |
-| Protector of Gotham | 2.00% | ~1,330 |
-| The Show Mud Go On | 2.00% | ~1,330 |
-| Rock and a Hard Place | 2.00% | ~1,330 |
-| Not On My Watch | 2.00% | ~1,330 |
-| Bulldozed | 2.00% | ~1,330 |
-| Shock Til They Drop | 2.00% | ~1,330 |
-| Cooldown | 2.00% | ~1,330 |
-| Universal Health Scare | 2.00% | ~1,330 |
-| From Inside Gotham's Walls | 2.00% | ~1,330 |
-| Voiceless | 2.00% | ~1,330 |
-| Seeking Asylum | 2.00% | ~1,330 |
-| Gotham Knight | 2.00% | ~1,330 |
-| Gotham City Confidential | 2.00% | ~1,330 |
+| End of an Era | 2.00% | ~1,331 |
+| In Your Element | 2.00% | ~1,331 |
+| Protector of Gotham | 2.00% | ~1,331 |
+| The Show Mud Go On | 2.00% | ~1,331 |
+| Rock and a Hard Place | 2.00% | ~1,331 |
+| Not On My Watch | 2.00% | ~1,331 |
+| Bulldozed | 2.00% | ~1,331 |
+| Shock Til They Drop | 2.00% | ~1,331 |
+| Cooldown | 2.00% | ~1,331 |
+| Universal Health Scare | 2.00% | ~1,331 |
+| From Inside Gotham's Walls | 2.00% | ~1,331 |
+| Voiceless | 2.00% | ~1,331 |
+| Seeking Asylum | 2.00% | ~1,331 |
+| Gotham Knight | 2.00% | ~1,331 |
+| Gotham City Confidential | 2.00% | ~1,331 |
 | Fusion Expert | 1.00% | ~665 |
 | Out of Their League | 1.00% | ~665 |
 | Family Meeting | 1.00% | ~665 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 853)
 | History Major | 0.10% | ~67 |
 | Confronting Your Demon | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,525 (Ranked 73)  
+Progressed: 66,527 (Ranked 73)  
 Completed: 100 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 100 (0.15%) (Ranked 169)
 | 2023-07-03 | 66,369 | 100 |
 | 2023-07-04 | 66,441 | 100 |
 | 2023-07-05 | 66,504 | 100 |
-| 2023-07-06 | 66,525 | 100 |
+| 2023-07-06 | 66,527 | 100 |
 ## Awards
 Max (Great Boss Battles): 2,419  (Ranked 100)  
 Sum: 4,005 (Ranked 137)  

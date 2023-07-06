@@ -10,7 +10,7 @@
 | Arch Mason | 13.00% | ~5 |
 | Grand Mason | 11.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 350)  
+Progressed: 38 (Ranked 351)  
 Completed: 4 (10.53%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |

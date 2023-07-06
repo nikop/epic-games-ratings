@@ -20,8 +20,8 @@ Rating: 4.45 (Ranked 620)
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~971 |
 | Harper's Hell | 34.00% | ~893 |
 | Making a Stand | 31.00% | ~814 |
+| Omelette Du Fromage | 29.00% | ~761 |
 | Recouped Investment | 29.00% | ~761 |
-| Omelette Du Fromage | 28.00% | ~735 |
 | Where It All Begun | 27.00% | ~709 |
 | The More The Merrier | 20.00% | ~525 |
 | Living Nightmare | 19.00% | ~499 |
@@ -39,9 +39,9 @@ Rating: 4.45 (Ranked 620)
 | Heavy Steps | 8.00% | ~210 |
 | Excavating The Truth | 8.00% | ~210 |
 | Abysmal Horrors | 7.00% | ~184 |
+| Flawless Victory | 5.00% | ~131 |
 | This Went Smoothly | 5.00% | ~131 |
 | Regicide | 5.00% | ~131 |
-| Flawless Victory | 4.00% | ~105 |
 | Perfect Enhancements | 4.00% | ~105 |
 | The True Experience | 4.00% | ~105 |
 | Hardened In The Heat Of Battle | 3.00% | ~79 |

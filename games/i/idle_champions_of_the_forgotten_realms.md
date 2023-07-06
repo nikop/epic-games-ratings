@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,053 |
-| The Mad Wizard | 11.00% | ~22,773 |
+| The Cursed Farmer | 15.00% | ~31,055 |
+| The Mad Wizard | 11.00% | ~22,774 |
 | The Ring of Regeneration | 7.00% | ~14,492 |
 | Are Ya Chicken? | 7.00% | ~14,492 |
-| Were-verpowered | 5.00% | ~10,351 |
-| Seeking Allies | 5.00% | ~10,351 |
-| Mad Cow Disease | 5.00% | ~10,351 |
-| Friendly Imps | 5.00% | ~10,351 |
+| Were-verpowered | 5.00% | ~10,352 |
+| Seeking Allies | 5.00% | ~10,352 |
+| Mad Cow Disease | 5.00% | ~10,352 |
+| Friendly Imps | 5.00% | ~10,352 |
 | A Persistent Buzzing | 4.00% | ~8,281 |
 | Pure Energy | 4.00% | ~8,281 |
 | Terror in the Dark | 3.00% | ~6,211 |
@@ -21,16 +21,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 3.00% | ~6,211 |
 | Exploring Port Nyanzaru | 3.00% | ~6,211 |
 | The Contagious Curse | 3.00% | ~6,211 |
-| Beast Mode | 2.00% | ~4,140 |
-| Low Initiative | 2.00% | ~4,140 |
-| A Mysterious Summons | 2.00% | ~4,140 |
-| Building Trust | 2.00% | ~4,140 |
-| No Time To Rest | 2.00% | ~4,140 |
-| Useless Allies | 2.00% | ~4,140 |
-| Running of the Saurs | 2.00% | ~4,140 |
-| Escort to Waterdeep | 2.00% | ~4,140 |
-| Waterdeep Detours | 2.00% | ~4,140 |
-| Underdeep Cartography | 2.00% | ~4,140 |
+| Beast Mode | 2.00% | ~4,141 |
+| Low Initiative | 2.00% | ~4,141 |
+| A Mysterious Summons | 2.00% | ~4,141 |
+| Building Trust | 2.00% | ~4,141 |
+| No Time To Rest | 2.00% | ~4,141 |
+| Useless Allies | 2.00% | ~4,141 |
+| Running of the Saurs | 2.00% | ~4,141 |
+| Escort to Waterdeep | 2.00% | ~4,141 |
+| Waterdeep Detours | 2.00% | ~4,141 |
+| Underdeep Cartography | 2.00% | ~4,141 |
 | Street War | 1.00% | ~2,070 |
 | March of the Undead | 1.00% | ~2,070 |
 | Invisible Shadows | 1.00% | ~2,070 |
@@ -86,7 +86,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Under Siege | 0.50% | ~1,035 |
 | Difficult Terrain | 0.50% | ~1,035 |
 | Elturel Has Fallen | 0.50% | ~1,035 |
-| The Everlasting Rime | 0.50% | ~866 |
+| The Everlasting Rime | 0.50% | ~867 |
 | Expert Opinion | 0.50% | ~1,035 |
 | Lobsterfolk Assault | 0.40% | ~828 |
 | Home Field Advantage | 0.40% | ~828 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,023 (Ranked 52)  
+Progressed: 207,035 (Ranked 52)  
 Completed: 2,034 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,034 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,023 | 2,034 |
+| 2023-07-06 | 207,035 | 2,034 |
 ## Awards
 Max (Diverse Characters): 5,005  (Ranked 65)  
 Sum: 30,405 (Ranked 37)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -8924,18 +8924,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 401047,
       "NumberOfAwardsMax": 156631
+    },
+    {
+      "Time": "2023-07-06T07:03:54.9975443+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 401346,
+      "NumberOfAwardsMax": 156897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 401047,
-  "NumberOfAwardsMax": 156631,
+  "NumberOfAwards": 401346,
+  "NumberOfAwardsMax": 156897,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 156631
+      "Count": 156897
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8953,7 +8959,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 14794
+      "Count": 14827
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9027,8 +9033,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-07-06T02:27:49.2649297+00:00",
+  "LastChanged": "2023-07-06T07:03:54.9975441+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:01.0179813+00:00",
-  "LastUpdate_Ratings": "2023-07-06T06:02:24.1171397+00:00",
-  "LastUpdate_Achievements": "2023-07-06T06:07:47.4606039+00:00"
+  "LastUpdate_Ratings": "2023-07-06T07:03:54.9975448+00:00",
+  "LastUpdate_Achievements": "2023-07-06T07:10:20.5964867+00:00"
 }
