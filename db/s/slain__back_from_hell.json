@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 28938,
+  "EOS_Progressed": 28944,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8396,6 +8396,11 @@
       "Time": "2023-07-06T10:02:08.4675861+00:00",
       "NumProgressed": 28938,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-07-06T11:03:09.0337698+00:00",
+      "NumProgressed": 28944,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 29,
@@ -8407,7 +8412,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4631
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -8415,7 +8420,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5788
+      "UsersEstimate": 5789
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -8437,9 +8442,9 @@
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
       "SetID": "443p4o4",
       "Name": "Sure Footed As A Goat",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -8567,7 +8572,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -8638,7 +8643,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 28938,
+      "Progressed": 28944,
       "Completed": 20
     }
   ],
@@ -8646,8 +8651,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:02:08.4675857+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:03:09.0337691+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:18.3101807+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:01:05.8396663+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:02:08.4676362+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:00:27.8190584+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:03:09.0338432+00:00"
 }

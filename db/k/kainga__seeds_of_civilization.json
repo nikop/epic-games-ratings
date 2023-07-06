@@ -3,9 +3,9 @@
   "Name": "Kainga: Seeds of Civilization",
   "ProductSlug": "kainga-seeds-of-civilization-7314ee",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-06T00:00:00+00:00",
     "PcReleaseDate": "2021-11-11T18:00:00+00:00",
@@ -236,8 +236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:47.8999799+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:01:56.0096156+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:01:09.7393582+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:23.8593789+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:00:18.7908305+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:01:56.0096324+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:59:47.6140325+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:01:09.7393855+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -658,7 +658,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252508,
+  "EOS_Progressed": 252510,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
@@ -8473,6 +8473,11 @@
       "Time": "2023-07-06T10:05:35.5130115+00:00",
       "NumProgressed": 252508,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-06T11:05:27.0375905+00:00",
+      "NumProgressed": 252510,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8532,7 +8537,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78277
+      "UsersEstimate": 78278
     },
     {
       "ID": "BackHomeNTimes",
@@ -8540,7 +8545,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12625
+      "UsersEstimate": 12626
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -8612,7 +8617,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12625
+      "UsersEstimate": 12626
     },
     {
       "ID": "CreedsInBank2",
@@ -8684,7 +8689,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "GrowPlants2",
@@ -8740,7 +8745,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "KillOtherWithKatana",
@@ -8931,7 +8936,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252508,
+      "Progressed": 252510,
       "Completed": 2
     }
   ],
@@ -8939,8 +8944,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T00:01:52.1225859+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:05:35.5130111+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:05:27.0375895+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:01:23.4616896+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:05:35.5130866+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:00:42.2104608+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:05:27.0377103+00:00"
 }

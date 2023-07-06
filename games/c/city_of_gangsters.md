@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,781 |
-| Copacetic Coordination | 16.00% | ~52,445 |
+| Corner Clout | 46.00% | ~150,782 |
+| Copacetic Coordination | 16.00% | ~52,446 |
 | Fronting the Money | 14.00% | ~45,890 |
 | The Dawn of Automation | 14.00% | ~45,890 |
 | Extraordinary Logistics | 14.00% | ~45,890 |
@@ -15,9 +15,9 @@ Rating: 4.26 (Ranked 801)
 | Cleaning House | 12.00% | ~39,334 |
 | Room in the Back | 12.00% | ~39,334 |
 | Booze Baron | 11.00% | ~36,056 |
-| Beating the Heat | 10.00% | ~32,778 |
-| Friends on the Force | 10.00% | ~32,778 |
-| Neighborhood Watch | 10.00% | ~32,778 |
+| Beating the Heat | 10.00% | ~32,779 |
+| Friends on the Force | 10.00% | ~32,779 |
+| Neighborhood Watch | 10.00% | ~32,779 |
 | Core Corps | 8.00% | ~26,223 |
 | Sizeable Stash | 7.00% | ~22,945 |
 | Street Fighter | 7.00% | ~22,945 |
@@ -62,8 +62,8 @@ Rating: 4.26 (Ranked 801)
 | Determined Deliveries | 0.90% | ~2,950 |
 | Stepping It Up | 0.90% | ~2,950 |
 | Crossing Over | 0.80% | ~2,622 |
-| Boots in the Ground | 0.70% | ~2,294 |
-| Getting Fancy | 0.70% | ~2,294 |
+| Boots in the Ground | 0.70% | ~2,295 |
+| Getting Fancy | 0.70% | ~2,295 |
 | Homemade Hooch | 0.40% | ~1,311 |
 | Still Dreaming | 0.40% | ~1,311 |
 | High End Booze | 0.40% | ~1,311 |
@@ -86,8 +86,8 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,784 (Ranked 40)  
-Completed: 5 (0.00%) (Ranked 233)  
+Progressed: 327,786 (Ranked 40)  
+Completed: 5 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,7 +163,7 @@ Completed: 5 (0.00%) (Ranked 233)
 | 2023-07-03 | 327,260 | 5 |
 | 2023-07-04 | 327,471 | 5 |
 | 2023-07-05 | 327,715 | 5 |
-| 2023-07-06 | 327,784 | 5 |
+| 2023-07-06 | 327,786 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 463)  
 Sum: 115 (Ranked 401)  

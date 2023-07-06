@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4570,10 +4570,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 38607,
       "NumberOfAwardsMax": 20698
+    },
+    {
+      "Time": "2023-07-06T10:57:55.8543182+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 38609,
+      "NumberOfAwardsMax": 20698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38607,
+  "NumberOfAwards": 38609,
   "NumberOfAwardsMax": 20698,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4599,7 +4605,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 842
+      "Count": 844
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4650,7 +4656,7 @@
       "Count": 543
     }
   ],
-  "EOS_Progressed": 285191,
+  "EOS_Progressed": 285193,
   "EOS_Completed": 418,
   "EOS_NewPlayers": 3325,
   "EOS_NewCompleters": 4,
@@ -12820,6 +12826,11 @@
       "Time": "2023-07-06T10:02:14.6429282+00:00",
       "NumProgressed": 285191,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-07-06T11:03:14.1671485+00:00",
+      "NumProgressed": 285193,
+      "NumCompleted": 418
     }
   ],
   "TotalAchievements": 45,
@@ -12863,7 +12874,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     },
     {
       "ID": "PFA_14",
@@ -12879,7 +12890,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "PFA_16",
@@ -12895,7 +12906,7 @@
       "Name": "Beast Friends",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "PFA_18",
@@ -12903,7 +12914,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "PFA_19",
@@ -12911,7 +12922,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "PFA_2",
@@ -12935,7 +12946,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     },
     {
       "ID": "PFA_22",
@@ -13055,7 +13066,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     },
     {
       "ID": "PFA_36",
@@ -13135,7 +13146,7 @@
       "Name": "The Spell Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 17111
+      "UsersEstimate": 17112
     },
     {
       "ID": "PFA_45",
@@ -13183,23 +13194,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19963
+      "UsersEstimate": 19964
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 285191,
+      "Progressed": 285193,
       "Completed": 418
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-07-06T07:58:47.5431257+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:02:14.6429278+00:00",
+  "LastChanged": "2023-07-06T10:57:55.854318+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:03:14.167148+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.9302914+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:58:00.3622564+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:02:14.6429937+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:57:55.8543187+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:03:14.1672538+00:00"
 }

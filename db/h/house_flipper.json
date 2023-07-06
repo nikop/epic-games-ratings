@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1704,7 +1704,7 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 19845,
+  "EOS_Progressed": 19846,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -5514,6 +5514,11 @@
       "Time": "2023-07-06T10:07:11.7304855+00:00",
       "NumProgressed": 19845,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-06T11:06:44.5456844+00:00",
+      "NumProgressed": 19846,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -5573,7 +5578,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 18654
+      "UsersEstimate": 18655
     },
     {
       "ID": "GameOver",
@@ -5605,7 +5610,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "JuniorEstateAgent",
@@ -5693,7 +5698,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "YouDoItWrong",
@@ -5708,15 +5713,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 19845,
+      "Progressed": 19846,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-07-05T15:00:07.4759154+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:07:11.7304847+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:06:44.5456838+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:35.8308148+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:00:32.2014306+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:07:11.7305198+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:59:56.7320374+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:06:44.5457238+00:00"
 }

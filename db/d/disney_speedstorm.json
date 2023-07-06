@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2894,
+  "EOS_Progressed": 2895,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.97,
   "EosHistory": [
@@ -3195,6 +3195,11 @@
       "Time": "2023-07-06T02:34:28.9411725+00:00",
       "NumProgressed": 2894,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2023-07-06T11:05:38.8573918+00:00",
+      "NumProgressed": 2895,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 24,
@@ -3222,7 +3227,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "12",
@@ -3270,7 +3275,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "18",
@@ -3318,7 +3323,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "23",
@@ -3397,13 +3402,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2894,
+      "Progressed": 2895,
       "Completed": 86
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:05:50.391233+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:05:38.8573912+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.2007614+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:59:52.489024+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:05:50.3912609+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:59:26.193577+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:05:38.8574365+00:00"
 }

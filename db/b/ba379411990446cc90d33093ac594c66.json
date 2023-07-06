@@ -3,9 +3,9 @@
   "Name": "Martian Invaders",
   "ProductSlug": "martian-invaders-2bc51f",
   "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-04T22:00:00+00:00",
     "PcReleaseDate": "2022-11-25T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-06-29T18:57:06.9113736+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:57:31.5938154+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:05:28.2117133+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:57:30.9444408+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:05:20.9612101+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 37.00% | ~20,394 |
-| Landlord | 31.00% | ~17,087 |
-| Lawmaker | 22.00% | ~12,126 |
-| Bannerlord | 21.00% | ~11,575 |
-| Horde breaker | 21.00% | ~11,575 |
-| Trained | 21.00% | ~11,575 |
-| The king is pleased | 17.00% | ~9,370 |
-| King Solomon | 16.00% | ~8,819 |
-| I can do it | 15.00% | ~8,268 |
+| Lawbringer | 37.00% | ~20,396 |
+| Landlord | 31.00% | ~17,088 |
+| Lawmaker | 22.00% | ~12,127 |
+| Bannerlord | 21.00% | ~11,576 |
+| Horde breaker | 21.00% | ~11,576 |
+| Trained | 21.00% | ~11,576 |
+| The king is pleased | 17.00% | ~9,371 |
+| King Solomon | 16.00% | ~8,820 |
+| I can do it | 15.00% | ~8,269 |
 | Apple of my eye | 14.00% | ~7,717 |
-| God of the Arena | 12.00% | ~6,614 |
-| Against all odds | 11.00% | ~6,063 |
+| God of the Arena | 12.00% | ~6,615 |
+| Against all odds | 11.00% | ~6,064 |
 | Swordbearer | 10.00% | ~5,512 |
 | Duelist | 9.00% | ~4,961 |
 | Dynasty | 9.00% | ~4,961 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~4,961 |
 | Butterlord | 8.00% | ~4,410 |
 | This Is Our Land | 8.00% | ~4,410 |
-| Mastery | 7.00% | ~3,858 |
+| Mastery | 7.00% | ~3,859 |
 | Know your enemy | 6.00% | ~3,307 |
 | Crowdfunded | 4.00% | ~2,205 |
 | Crush your enemies | 4.00% | ~2,205 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,119 (Ranked 82)  
-Completed: 0 (0.00%) (Ranked 233)  
+Progressed: 55,124 (Ranked 82)  
+Completed: 0 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 233)
 | 2023-07-03 | 54,912 | 0 |
 | 2023-07-04 | 54,995 | 0 |
 | 2023-07-05 | 55,097 | 0 |
-| 2023-07-06 | 55,119 | 0 |
+| 2023-07-06 | 55,124 | 0 |
 ## Awards
 Max (Character Customization): 6,759  (Ranked 48)  
 Sum: 13,644 (Ranked 67)  

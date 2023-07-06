@@ -48,12 +48,13 @@ Rating: 4.45 (Ranked 620)
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
 | Don't hold your breath | 0.30% | ~10 |
-| Operation Foxley | 0.30% | ~9 |
-| Last Resort | 0.30% | ~9 |
-| If You Go Down To The Woods Today | 0.30% | ~9 |
-| Fight Another Day | 0.30% | ~9 |
+| Operation Foxley | 0.30% | ~10 |
+| Last Resort | 0.30% | ~10 |
+| If You Go Down To The Woods Today | 0.30% | ~10 |
+| Fight Another Day | 0.30% | ~10 |
 | Strategist | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
+| Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |
 | Eagle Eyed | 0.20% | ~6 |
 | Locomotion Commotion | 0.20% | ~6 |
@@ -65,7 +66,6 @@ Rating: 4.45 (Ranked 620)
 | Sink or Swim | 0.20% | ~6 |
 | Best of the Best | 0.10% | ~3 |
 | Master of Pistols | 0.10% | ~3 |
-| Master of Rifles | 0.10% | ~3 |
 | Master-at-arms | 0.10% | ~3 |
 | Sight Beyond Sights | 0.10% | ~3 |
 | Reich To The Point | 0.10% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 620)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,215 (Ranked 145)  
+Progressed: 3,217 (Ranked 145)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
-| 2023-07-06 | 3,215 | 9 |
+| 2023-07-06 | 3,217 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

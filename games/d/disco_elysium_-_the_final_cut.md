@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~34,370 |
-| Biggest Communism Builder | 24.00% | ~29,460 |
-| The World's Most Laughable Centrist | 20.00% | ~24,550 |
-| Il Coppo Del'Arte! | 18.00% | ~22,095 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,640 |
-| Hyperstellar Law Official | 15.00% | ~18,412 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,185 |
+| Goodest Of The Good Cops | 28.00% | ~34,371 |
+| Biggest Communism Builder | 24.00% | ~29,461 |
+| The World's Most Laughable Centrist | 20.00% | ~24,551 |
+| Il Coppo Del'Arte! | 18.00% | ~22,096 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,641 |
+| Hyperstellar Law Official | 15.00% | ~18,413 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,186 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,958 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,958 |
-| Truly Rabid *Traditionalist* | 11.00% | ~13,502 |
+| Truly Rabid *Traditionalist* | 11.00% | ~13,503 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,048 |
 | Unbelievably Boring **** | 8.00% | ~9,820 |
 | Enemy Of The Physical Realm | 8.00% | ~9,820 |
 | Hardie's Heroes | 6.00% | ~7,365 |
 | The Lawbringer | 4.00% | ~4,910 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,910 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,682 |
-| Bother Kim After Hours | 3.00% | ~3,682 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,683 |
+| Bother Kim After Hours | 3.00% | ~3,683 |
 | Baddest Of the Bad Cops | 2.00% | ~2,455 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,455 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,455 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Committee of la Responsabilité | 0.80% | ~982 |
 | Venture into the HARDCORE | 0.80% | ~982 |
 | Networthy Individual | 0.70% | ~859 |
-| Leopard Mindset | 0.60% | ~736 |
+| Leopard Mindset | 0.60% | ~737 |
 | Modus: Mullen | 0.30% | ~368 |
 | Palerunner | 0.30% | ~368 |
 | Cause a ****storm | 0.20% | ~246 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~123 |
 | What body? | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,750 (Ranked 61)  
+Progressed: 122,754 (Ranked 61)  
 Completed: 26 (0.02%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,10 +124,10 @@ Completed: 26 (0.02%) (Ranked 212)
 | 2023-07-03 | 122,664 | 26 |
 | 2023-07-04 | 122,701 | 26 |
 | 2023-07-05 | 122,735 | 26 |
-| 2023-07-06 | 122,750 | 26 |
+| 2023-07-06 | 122,754 | 26 |
 ## Awards
 Max (Character Customization): 700  (Ranked 161)  
-Sum: 1,060 (Ranked 233)  
+Sum: 1,061 (Ranked 233)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -138,7 +138,7 @@ Diff (max vs sum): -72
 | This game has Quickly Understood Controls | 40 |
 | This game has Amazing Characters | 36 |
 | This game has Unique Visuals | 35 |
-| This game is Relaxing | 34 |
+| This game is Relaxing | 35 |
 | This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 30 |
 | This game has Obsessive Gameplay | 26 |
@@ -254,3 +254,4 @@ Diff (max vs sum): -72
 | 2023-06-23 | 4.86 | - | 698 | 1,058 |
 | 2023-06-30 | 4.86 | - | 699 | 1,059 |
 | 2023-07-02 | 4.86 | - | 700 | 1,060 |
+| 2023-07-06 | 4.86 | - | 700 | 1,061 |

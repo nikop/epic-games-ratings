@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17756,
+  "EOS_Progressed": 17758,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9282,6 +9282,11 @@
       "Time": "2023-07-06T10:07:11.520901+00:00",
       "NumProgressed": 17756,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-07-06T11:06:44.3618575+00:00",
+      "NumProgressed": 17758,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 22,
@@ -9365,7 +9370,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "1025",
@@ -9381,7 +9386,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "1027",
@@ -9413,7 +9418,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "1031",
@@ -9429,7 +9434,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7102
+      "UsersEstimate": 7103
     },
     {
       "ID": "1033",
@@ -9461,22 +9466,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 17756,
+      "Progressed": 17758,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-06-24T15:00:43.300424+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:07:11.5209006+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:06:44.361857+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:39.185292+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:01:20.7812695+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:07:11.5209499+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:00:40.1415168+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:06:44.3619299+00:00"
 }

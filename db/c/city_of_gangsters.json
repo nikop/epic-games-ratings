@@ -6,9 +6,9 @@
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -433,9 +433,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 327784,
+  "EOS_Progressed": 327786,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1668,
+  "EOS_NewPlayers": 1659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8653,6 +8653,11 @@
       "Time": "2023-07-06T10:06:06.1480714+00:00",
       "NumProgressed": 327784,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-06T11:05:51.9279837+00:00",
+      "NumProgressed": 327786,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 80,
@@ -8712,7 +8717,7 @@
       "Name": "Boots in the Ground",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "ach008",
@@ -8872,7 +8877,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 150781
+      "UsersEstimate": 150782
     },
     {
       "ID": "ach028",
@@ -8888,7 +8893,7 @@
       "Name": "Beating the Heat",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32778
+      "UsersEstimate": 32779
     },
     {
       "ID": "ach030",
@@ -8920,7 +8925,7 @@
       "Name": "Getting Fancy",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "ach034",
@@ -8968,7 +8973,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32778
+      "UsersEstimate": 32779
     },
     {
       "ID": "ach040",
@@ -9128,7 +9133,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 32778
+      "UsersEstimate": 32779
     },
     {
       "ID": "ach060",
@@ -9192,7 +9197,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52445
+      "UsersEstimate": 52446
     },
     {
       "ID": "ach069",
@@ -9303,7 +9308,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 327784,
+      "Progressed": 327786,
       "Completed": 5
     }
   ],
@@ -9311,8 +9316,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-07-01T21:58:09.9941559+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:06:06.1480707+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:05:51.9279831+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:03.3076918+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:58:21.2556627+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:06:06.1481739+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:58:14.8329957+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:05:51.9281686+00:00"
 }

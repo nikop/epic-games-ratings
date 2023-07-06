@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~20,185 |
-| Thorough | 9.00% | ~16,515 |
-| A thief's beginning | 8.00% | ~14,680 |
-| Tanuki Time | 8.00% | ~14,680 |
-| Disguised | 7.00% | ~12,845 |
-| Rescue Takuma | 7.00% | ~12,845 |
-| Rollin' | 7.00% | ~12,845 |
+| Genin | 11.00% | ~20,186 |
+| Thorough | 9.00% | ~16,516 |
+| A thief's beginning | 8.00% | ~14,681 |
+| Tanuki Time | 8.00% | ~14,681 |
+| Disguised | 7.00% | ~12,846 |
+| Rescue Takuma | 7.00% | ~12,846 |
+| Rollin' | 7.00% | ~12,846 |
 | Chunin | 6.00% | ~11,010 |
 | Ice Ice Yuki | 6.00% | ~11,010 |
 | Jonin | 6.00% | ~11,010 |
@@ -38,20 +38,20 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~1,835 |
 | No Gimmicks | 1.00% | ~1,835 |
 | The End | 1.00% | ~1,835 |
-| Undeserved Honor | 0.90% | ~1,651 |
+| Undeserved Honor | 0.90% | ~1,652 |
 | When Cut Across the Neck | 0.80% | ~1,468 |
-| High Five the Moon | 0.70% | ~1,284 |
-| The Cave | 0.70% | ~1,284 |
+| High Five the Moon | 0.70% | ~1,285 |
+| The Cave | 0.70% | ~1,285 |
 | Merciful | 0.40% | ~734 |
 | Time Paradox | 0.40% | ~734 |
-| Five Shadows | 0.30% | ~550 |
-| Chicken Dinner | 0.10% | ~183 |
-| Complete Mastery | 0.10% | ~183 |
-| Mimimi | 0.10% | ~183 |
-| Praise the Shogun | 0.10% | ~183 |
-| Release the Kraken | 0.10% | ~183 |
+| Five Shadows | 0.30% | ~551 |
+| Chicken Dinner | 0.10% | ~184 |
+| Complete Mastery | 0.10% | ~184 |
+| Mimimi | 0.10% | ~184 |
+| Praise the Shogun | 0.10% | ~184 |
+| Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,498 (Ranked 57)  
+Progressed: 183,508 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 56 (0.03%) (Ranked 206)
 | 2023-07-03 | 182,956 | 55 |
 | 2023-07-04 | 183,189 | 56 |
 | 2023-07-05 | 183,423 | 56 |
-| 2023-07-06 | 183,498 | 56 |
+| 2023-07-06 | 183,508 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 182)  
-Sum: 4,693 (Ranked 130)  
+Sum: 4,694 (Ranked 130)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -140,7 +140,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 517 |
 | This game has Amazing Storytelling | 499 |
 | This game has Amazing Characters | 483 |
-| This game is Highly Recommended | 479 |
+| This game is Highly Recommended | 480 |
 | This game has Challenging Combat | 477 |
 | This game is Relaxing | 472 |
 | This game has Quickly Understood Controls | 445 |
@@ -281,3 +281,4 @@ Diff (max vs sum): 52
 | 2023-06-26 | 4.66 | - | 552 | 4,690 |
 | 2023-06-30 | 4.66 | - | 553 | 4,692 |
 | 2023-07-05 | 4.66 | - | 553 | 4,693 |
+| 2023-07-06 | 4.66 | - | 553 | 4,694 |

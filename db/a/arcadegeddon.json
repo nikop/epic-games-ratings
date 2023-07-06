@@ -6,9 +6,9 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 7529,
+  "EOS_Progressed": 7530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5170,6 +5170,11 @@
       "Time": "2023-07-06T09:06:18.2243006+00:00",
       "NumProgressed": 7529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T11:05:39.8535157+00:00",
+      "NumProgressed": 7530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -5181,7 +5186,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6024
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -5189,7 +5194,7 @@
       "Name": "Booty Bashing",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -5197,7 +5202,7 @@
       "Name": "Boss of Bosses",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ACH_CLIPS_AND_CRITS",
@@ -5213,7 +5218,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -5245,7 +5250,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -5285,7 +5290,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -5293,7 +5298,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -5323,9 +5328,9 @@
       "ID": "ACH_LETS_GET_THIS_PARTY_STARTED",
       "SetID": "97mcd7i",
       "Name": "Let\u0027s Get This Party Started",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6928
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -5349,7 +5354,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -5437,7 +5442,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -5580,15 +5585,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 7529,
+      "Progressed": 7530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-07-02T16:58:50.9856652+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:05:51.5889643+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:05:39.853515+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:59.2601444+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:59:13.9783497+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:05:51.5890188+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:58:55.3915038+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:05:39.853591+00:00"
 }

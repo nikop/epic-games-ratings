@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,062 |
-| The Mad Wizard | 11.00% | ~22,779 |
-| The Ring of Regeneration | 7.00% | ~14,496 |
-| Are Ya Chicken? | 7.00% | ~14,496 |
-| Were-verpowered | 5.00% | ~10,354 |
-| Seeking Allies | 5.00% | ~10,354 |
-| Mad Cow Disease | 5.00% | ~10,354 |
-| Friendly Imps | 5.00% | ~10,354 |
-| A Persistent Buzzing | 4.00% | ~8,283 |
-| Pure Energy | 4.00% | ~8,283 |
-| Terror in the Dark | 3.00% | ~6,212 |
-| Unearthed Evil | 3.00% | ~6,212 |
-| The Crumbling Temple | 3.00% | ~6,212 |
-| Exploring Port Nyanzaru | 3.00% | ~6,212 |
-| The Contagious Curse | 3.00% | ~6,212 |
+| The Cursed Farmer | 15.00% | ~31,066 |
+| The Mad Wizard | 11.00% | ~22,782 |
+| The Ring of Regeneration | 7.00% | ~14,498 |
+| Are Ya Chicken? | 7.00% | ~14,498 |
+| Were-verpowered | 5.00% | ~10,355 |
+| Seeking Allies | 5.00% | ~10,355 |
+| Mad Cow Disease | 5.00% | ~10,355 |
+| Friendly Imps | 5.00% | ~10,355 |
+| A Persistent Buzzing | 4.00% | ~8,284 |
+| Pure Energy | 4.00% | ~8,284 |
+| Terror in the Dark | 3.00% | ~6,213 |
+| Unearthed Evil | 3.00% | ~6,213 |
+| The Crumbling Temple | 3.00% | ~6,213 |
+| Exploring Port Nyanzaru | 3.00% | ~6,213 |
+| The Contagious Curse | 3.00% | ~6,213 |
 | Beast Mode | 2.00% | ~4,142 |
 | Low Initiative | 2.00% | ~4,142 |
 | A Mysterious Summons | 2.00% | ~4,142 |
@@ -60,34 +60,34 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.70% | ~1,450 |
 | The Mists of Ravenloft | 0.70% | ~1,450 |
 | Nimble Escape | 0.70% | ~1,450 |
-| The Giant's Bane Tavern | 0.70% | ~1,213 |
+| The Giant's Bane Tavern | 0.70% | ~1,214 |
 | The Haunted Jungle | 0.70% | ~1,450 |
-| Tomb of the Nine Gods | 0.60% | ~1,242 |
-| Family Entanglements | 0.60% | ~1,242 |
-| The Immortal Warrior | 0.60% | ~1,242 |
-| The Wyrmheart Mine | 0.60% | ~1,242 |
-| Treasure Hunters | 0.60% | ~1,242 |
-| Fugitives | 0.60% | ~1,242 |
-| Hopelessly Lost | 0.60% | ~1,242 |
-| Crowded Streets | 0.60% | ~1,242 |
-| The Darkness Runs Deeper | 0.60% | ~1,242 |
-| Market Fluctuations | 0.60% | ~1,242 |
-| Rude Welcome | 0.60% | ~1,242 |
-| Durable Deep | 0.60% | ~1,242 |
-| Force Grey Unleashed | 0.50% | ~1,035 |
-| Sleuth It Out | 0.50% | ~1,035 |
-| Chatty Nobles | 0.50% | ~1,035 |
-| Tower on the Lake | 0.50% | ~1,035 |
-| Seeds of Deceit | 0.50% | ~1,035 |
-| The Guardian of Orolunga | 0.50% | ~1,035 |
-| The Lost Love | 0.50% | ~1,035 |
-| Enter the Sargauth | 0.50% | ~1,035 |
-| Lair of the Xanathar | 0.50% | ~1,035 |
-| Waterdeep Under Siege | 0.50% | ~1,035 |
-| Difficult Terrain | 0.50% | ~1,035 |
-| Elturel Has Fallen | 0.50% | ~1,035 |
+| Tomb of the Nine Gods | 0.60% | ~1,243 |
+| Family Entanglements | 0.60% | ~1,243 |
+| The Immortal Warrior | 0.60% | ~1,243 |
+| The Wyrmheart Mine | 0.60% | ~1,243 |
+| Treasure Hunters | 0.60% | ~1,243 |
+| Fugitives | 0.60% | ~1,243 |
+| Hopelessly Lost | 0.60% | ~1,243 |
+| Crowded Streets | 0.60% | ~1,243 |
+| The Darkness Runs Deeper | 0.60% | ~1,243 |
+| Market Fluctuations | 0.60% | ~1,243 |
+| Rude Welcome | 0.60% | ~1,243 |
+| Durable Deep | 0.60% | ~1,243 |
+| Force Grey Unleashed | 0.50% | ~1,036 |
+| Sleuth It Out | 0.50% | ~1,036 |
+| Chatty Nobles | 0.50% | ~1,036 |
+| Tower on the Lake | 0.50% | ~1,036 |
+| Seeds of Deceit | 0.50% | ~1,036 |
+| The Guardian of Orolunga | 0.50% | ~1,036 |
+| The Lost Love | 0.50% | ~1,036 |
+| Enter the Sargauth | 0.50% | ~1,036 |
+| Lair of the Xanathar | 0.50% | ~1,036 |
+| Waterdeep Under Siege | 0.50% | ~1,036 |
+| Difficult Terrain | 0.50% | ~1,036 |
+| Elturel Has Fallen | 0.50% | ~1,036 |
 | The Everlasting Rime | 0.50% | ~867 |
-| Expert Opinion | 0.50% | ~1,035 |
+| Expert Opinion | 0.50% | ~1,036 |
 | Lobsterfolk Assault | 0.40% | ~828 |
 | Home Field Advantage | 0.40% | ~828 |
 | Vajra's Guards | 0.40% | ~828 |
@@ -109,11 +109,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.40% | ~828 |
 | Once More Into The Breach | 0.40% | ~828 |
 | Wyllowwood | 0.40% | ~828 |
-| An Illithid Undertaking | 0.40% | ~693 |
-| Déjà Vu | 0.40% | ~693 |
-| Into The Fire | 0.40% | ~693 |
-| Moose Tracks | 0.40% | ~693 |
-| Civilization | 0.40% | ~693 |
+| An Illithid Undertaking | 0.40% | ~694 |
+| Déjà Vu | 0.40% | ~694 |
+| Into The Fire | 0.40% | ~694 |
+| Moose Tracks | 0.40% | ~694 |
+| Civilization | 0.40% | ~694 |
 | Poor Guidance | 0.40% | ~828 |
 | Anti-Dexterous Explorers | 0.30% | ~621 |
 | Not Very Charming | 0.30% | ~621 |
@@ -147,6 +147,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.30% | ~520 |
 | Questlines | 0.30% | ~520 |
 | Bel's Forge | 0.30% | ~520 |
+| Rime Bandits | 0.30% | ~520 |
 | The Sibriex | 0.30% | ~520 |
 | Wrecked Flying Fortress | 0.30% | ~520 |
 | Dwarven Rumors | 0.30% | ~520 |
@@ -228,7 +229,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Raggadragga's Crew | 0.20% | ~347 |
 | Into the Unknown | 0.20% | ~347 |
 | The Prison of Velkynvelve | 0.20% | ~347 |
-| Rime Bandits | 0.20% | ~347 |
 | Giant-Size Adventure | 0.20% | ~347 |
 | Enemy Summit | 0.20% | ~347 |
 | Mirage Arcane | 0.20% | ~347 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,081 (Ranked 52)  
+Progressed: 207,108 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,081 | 2,035 |
+| 2023-07-06 | 207,108 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,409 (Ranked 37)  

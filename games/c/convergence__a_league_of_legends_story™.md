@@ -15,6 +15,7 @@
 | The Loose Cannon | 13.00% | ~97 |
 | Make Up For Lost Time | 13.00% | ~97 |
 | Time Flies | 13.00% | ~97 |
+| The Harder They Fall | 13.00% | ~97 |
 | Breaking Down Barriers | 13.00% | ~97 |
 | The Wicked Twins | 13.00% | ~97 |
 | The Prince in Heels | 13.00% | ~97 |
@@ -22,7 +23,6 @@
 | The Brass Boss | 13.00% | ~97 |
 | The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
-| The Harder They Fall | 12.00% | ~90 |
 | No, Thanks! | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |

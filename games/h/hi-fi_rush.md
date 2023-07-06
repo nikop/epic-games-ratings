@@ -6,12 +6,12 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.40% | ~8 |
+| Call me Turbo Chai | 0.30% | ~6 |
 | Time to pay up! | 0.20% | ~7 |
 | Who's the boss now? | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |
-| Call me Turbo Chai | 0.20% | ~4 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
 | Cream of the Crop | 0.10% | ~3 |

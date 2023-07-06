@@ -8,6 +8,7 @@ Rating: 4.61 (Ranked 362)
 | Secret Technique | 3.00% | ~148 |
 | Tipping the Scales | 3.00% | ~148 |
 | There Can Only Be One! | 2.00% | ~99 |
+| Full Ascension | 2.00% | ~99 |
 | Realm Estate | 2.00% | ~99 |
 | A Wonderful Discovery | 2.00% | ~99 |
 | Walls Cannot Stop Us | 2.00% | ~99 |
@@ -22,7 +23,7 @@ Rating: 4.61 (Ranked 362)
 | Here be Dragons | 2.00% | ~99 |
 | Blood of the Dragon | 2.00% | ~99 |
 | Mighty Hoard | 2.00% | ~99 |
-| Full Ascension | 1.00% | ~49 |
+| Valley of Wonders | 1.00% | ~49 |
 | Return of the Wizard King | 1.00% | ~49 |
 | Arch Mage | 1.00% | ~49 |
 | Enchanted Archipelago | 1.00% | ~49 |
@@ -32,7 +33,6 @@ Rating: 4.61 (Ranked 362)
 | Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
-| Valley of Wonders | 0.90% | ~44 |
 | The Creator | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
 | The Goddess of Nature | 0.80% | ~39 |

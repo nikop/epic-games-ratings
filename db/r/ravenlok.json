@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -2801,9 +2801,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 414
     },
     {
       "ID": "33",
@@ -3010,8 +3010,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:07:13.6498326+00:00",
+  "LastChanged_Achievements": "2023-07-06T11:06:46.2728324+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:29.6163993+00:00",
-  "LastUpdate_Ratings": "2023-07-06T09:58:04.9995952+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:07:13.6498816+00:00"
+  "LastUpdate_Ratings": "2023-07-06T10:58:02.0226107+00:00",
+  "LastUpdate_Achievements": "2023-07-06T11:06:46.2728937+00:00"
 }
