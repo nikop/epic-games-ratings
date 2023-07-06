@@ -715,7 +715,7 @@
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | - | - | - | - |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | - | - | - | - |
 | [Ecosystem](games/e/ecosystem.md) | - | - | 0 | - |
-| [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 935 | 0 | 504 |
+| [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.84 | 935 | 0 | 504 |
 | [Edge Of Galaxy](games/e/edge_of_galaxy.md) | - | - | 0 | - |
 | [Effie](games/e/effie.md) | - | - | 0 | - |
 | [Eigengrau](games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | - | - | - | - |
@@ -1774,7 +1774,7 @@
 | [r6bundle Production](games/r/r6bundle_production.md) | - | - | - | - |
 | [Rad Rodgers - Radical Edition](games/r/rad_rodgers_-_radical_edition.md) | - | - | 0 | - |
 | [Radioactive Dwarfs - Evil From The Sewers](games/r/radioactive_dwarfs_-_evil_from_the_sewers.md) | - | - | 0 | - |
-| [RAGE 2](games/r/rage_2.md) | 4.27 | 795 | 2,488 | 96 |
+| [RAGE 2](games/r/rage_2.md) | 4.27 | 795 | 2,489 | 96 |
 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 494 | 87 | 347 |
 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 520 | 285 | 235 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.41 | 673 | 0 | 504 |
@@ -1877,7 +1877,7 @@
 | [Roboplant](games/r/roboplant.md) | - | - | 0 | - |
 | [Rocco's Island](games/r/rocco's_island.md) | - | - | 0 | - |
 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 552 | 464,727 | 2 |
-| [Rogue Company](games/r/rogue_company.md) | 4.34 | 744 | 5,105 | 63 |
+| [Rogue Company](games/r/rogue_company.md) | 4.34 | 744 | 5,107 | 63 |
 | [Rogue Invader](games/r/rogue_invader.md) | - | - | 0 | - |
 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 362 | 1,069 | 137 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 41 | 218 | 255 |
@@ -2771,7 +2771,7 @@
 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | - | - | - | - |
 | [Wild West Dynasty](games/w/wild_west_dynasty.md) | - | - | 0 | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | - | - | - | - |
-| [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 935 | 0 | 504 |
+| [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 936 | 0 | 504 |
 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 108 | 27 | 463 |
 | [Wildfire - Ticket to Rock](games/w/wildfire_-_ticket_to_rock.md) | - | - | 0 | - |
 | [Wildmender](games/w/wildmender.md) | - | - | - | - |

@@ -62,7 +62,7 @@
 | 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,507 | 4.69 | 220 |
 | 61 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,505 | 4.85 | 41 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,400 | 4.75 | 133 |
-| 63 | [Rogue Company](games/r/rogue_company.md) | 5,105 | 4.34 | 744 |
+| 63 | [Rogue Company](games/r/rogue_company.md) | 5,107 | 4.34 | 744 |
 | 64 | [Dead Island 2](games/d/dead_island_2.md) | 5,047 | 4.54 | 494 |
 | 65 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,005 | 4.05 | 901 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 4,876 | 4.65 | 300 |
@@ -95,7 +95,7 @@
 | 93 | [Path of Exile](games/p/path_of_exile.md) | 2,528 | 4.61 | 362 |
 | 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,516 | 4.50 | 552 |
 | 95 | [Among Us](games/a/among_us.md) | 2,514 | 4.57 | 440 |
-| 96 | [RAGE 2](games/r/rage_2.md) | 2,488 | 4.27 | 795 |
+| 96 | [RAGE 2](games/r/rage_2.md) | 2,489 | 4.27 | 795 |
 | 97 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,461 | 4.82 | 65 |
 | 98 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,434 | 4.10 | 886 |
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,424 | 4.80 | 81 |

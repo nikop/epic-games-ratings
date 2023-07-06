@@ -751,7 +751,7 @@
 | 744 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 504 |
 | 744 | [Paladins](games/p/paladins.md) | 4.34 | 3,377 | 85 |
 | 744 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 504 |
-| 744 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,105 | 63 |
+| 744 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,107 | 63 |
 | 744 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 244 | 247 |
 | 744 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 504 |
 | 744 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 492 |
@@ -798,7 +798,7 @@
 | 795 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 504 |
 | 795 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.27 | 0 | 504 |
 | 795 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 504 |
-| 795 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,488 | 96 |
+| 795 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,489 | 96 |
 | 795 | [Video Horror Society](games/v/video_horror_society.md) | 4.27 | 297 | 233 |
 | 801 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.26 | 0 | 504 |
 | 801 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 504 |
@@ -934,8 +934,8 @@
 | 932 | [Blood of Steel](games/b/blood_of_steel.md) | 3.85 | 0 | 504 |
 | 932 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 504 |
 | 932 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.85 | 0 | 504 |
-| 935 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.83 | 0 | 504 |
-| 935 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 504 |
+| 935 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.84 | 0 | 504 |
+| 936 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 504 |
 | 937 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.82 | 0 | 504 |
 | 937 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 67 | 374 |
 | 937 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 504 |
