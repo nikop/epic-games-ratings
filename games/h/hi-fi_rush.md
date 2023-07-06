@@ -5,18 +5,19 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.40% | ~8 |
+| NOW we got a kickass hideout! | 0.50% | ~10 |
 | Call me Turbo Chai | 0.30% | ~6 |
+| The Negotiator | 0.20% | ~7 |
 | Time to pay up! | 0.20% | ~7 |
 | Who's the boss now? | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
+| Who put gears in there? | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
 | Cream of the Crop | 0.10% | ~3 |
 | This will cost you big time | 0.10% | ~3 |
-| The Negotiator | 0.10% | ~3 |
 | Headliner | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
@@ -40,7 +41,6 @@ Rating: 4.87 (Ranked 25)
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
-| Who put gears in there? | 0.10% | ~3 |
 | You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |

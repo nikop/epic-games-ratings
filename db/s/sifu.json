@@ -4936,10 +4936,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10686,
       "NumberOfAwardsMax": 6239
+    },
+    {
+      "Time": "2023-07-06T13:19:33.9938013+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10687,
+      "NumberOfAwardsMax": 6239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10686,
+  "NumberOfAwards": 10687,
   "NumberOfAwardsMax": 6239,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4965,7 +4971,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 511
+      "Count": 512
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5016,9 +5022,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710509,
+  "EOS_Progressed": 710512,
   "EOS_Completed": 12806,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -12306,6 +12312,11 @@
       "Time": "2023-07-06T11:06:54.6723208+00:00",
       "NumProgressed": 710509,
       "NumCompleted": 12806
+    },
+    {
+      "Time": "2023-07-06T13:27:07.5571475+00:00",
+      "NumProgressed": 710512,
+      "NumCompleted": 12806
     }
   ],
   "TotalAchievements": 50,
@@ -12653,7 +12664,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -12661,7 +12672,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -12716,21 +12727,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19810,
+      "Progressed": 19813,
       "Completed": 10364
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710509,
+      "Progressed": 710512,
       "Completed": 12806
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-07-06T10:59:29.4447132+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:06:41.6870362+00:00",
+  "LastChanged": "2023-07-06T13:19:33.9938012+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:27:07.5571468+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:59:23.7826356+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:06:41.6871286+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:19:33.9938019+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:27:07.5572834+00:00"
 }

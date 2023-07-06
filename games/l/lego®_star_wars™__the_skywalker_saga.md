@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~48,329 |
-| ''I don't like you either!'' | 79.00% | ~39,361 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~35,873 |
-| ''Impressive, most impressive'' | 71.00% | ~35,375 |
-| The Phantom Menace | 59.00% | ~29,396 |
+| ''You guys got yourself a ship!'' | 97.00% | ~48,330 |
+| ''I don't like you either!'' | 79.00% | ~39,362 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~35,874 |
+| ''Impressive, most impressive'' | 71.00% | ~35,376 |
+| The Phantom Menace | 59.00% | ~29,397 |
 | ''Aggressive Negotiations'' | 58.00% | ~28,898 |
 | ''I can fly anything'' | 57.00% | ~28,400 |
 | ''And who gave you permission...?'' | 53.00% | ~26,407 |
-| A New Hope | 47.00% | ~23,417 |
-| Attack of the Clones | 46.00% | ~22,919 |
+| A New Hope | 47.00% | ~23,418 |
+| Attack of the Clones | 46.00% | ~22,920 |
 | Revenge of the Sith | 40.00% | ~19,930 |
 | The Empire Strikes Back | 37.00% | ~18,435 |
 | ''A fine addition to my collection'' | 37.00% | ~18,435 |
 | Return of the Jedi | 32.00% | ~15,944 |
 | The Force Awakens | 26.00% | ~12,954 |
-| The Last Jedi | 22.00% | ~10,961 |
+| The Last Jedi | 22.00% | ~10,962 |
 | The Rise of Skywalker | 19.00% | ~9,467 |
 | ''It's true... all of it'' | 18.00% | ~8,968 |
 | ''Get the crews to their fighters'' | 18.00% | ~8,968 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~498 |
 | ''I've never seen a real one!'' | 0.90% | ~448 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,824 (Ranked 85)  
+Progressed: 49,825 (Ranked 85)  
 Completed: 202 (0.41%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 202 (0.41%) (Ranked 134)
 | 2023-07-03 | 49,810 | 199 |
 | 2023-07-04 | 49,816 | 201 |
 | 2023-07-05 | 49,821 | 201 |
-| 2023-07-06 | 49,824 | 202 |
+| 2023-07-06 | 49,825 | 202 |
 ## Awards
 Max (Great Boss Battles): 2,340  (Ranked 101)  
 Sum: 6,462 (Ranked 116)  

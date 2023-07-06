@@ -6,11 +6,11 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 33.00% | ~18,779 |
+| Follow the Light | 33.00% | ~18,780 |
 | Let There Be Light | 27.00% | ~15,365 |
 | Float Like a Butterfly | 26.00% | ~14,796 |
-| Nordic Walking | 21.00% | ~11,950 |
-| Bright Falls' Finest | 20.00% | ~11,381 |
+| Nordic Walking | 21.00% | ~11,951 |
+| Bright Falls' Finest | 20.00% | ~11,382 |
 | Under a Thin Layer of Skin | 18.00% | ~10,243 |
 | Park Ranger | 15.00% | ~8,536 |
 | Paging Mr. Wake | 15.00% | ~8,536 |
@@ -31,14 +31,14 @@ Number of Ratings: 524  (23.09.2022)
 | It's Not Just a Typewriter Brand | 9.00% | ~5,122 |
 | Thunder and Lightning | 9.00% | ~5,122 |
 | Two For the Price of One | 9.00% | ~5,122 |
-| The Lady of the Light | 8.00% | ~4,552 |
-| Energized! | 8.00% | ~4,552 |
-| Right of Way | 8.00% | ~4,552 |
+| The Lady of the Light | 8.00% | ~4,553 |
+| Energized! | 8.00% | ~4,553 |
+| Right of Way | 8.00% | ~4,553 |
 | A Friend in Need | 8.00% | ~1,630 |
-| What Light Through Yonder Window | 7.00% | ~3,983 |
+| What Light Through Yonder Window | 7.00% | ~3,984 |
 | Tornado Wrangler | 6.00% | ~3,414 |
 | Departure | 6.00% | ~3,414 |
-| A Friend Indeed | 6.00% | ~1,222 |
+| A Friend Indeed | 6.00% | ~1,223 |
 | Drink 'Em Both Up | 5.00% | ~2,845 |
 | Hardboiled Writer | 5.00% | ~2,845 |
 | Ding! | 5.00% | ~1,019 |
@@ -52,15 +52,15 @@ Number of Ratings: 524  (23.09.2022)
 | Taken Season | 2.00% | ~1,138 |
 | Carny | 2.00% | ~1,138 |
 | An Idyllic Small Town | 2.00% | ~1,138 |
-| Iron Will | 2.00% | ~407 |
+| Iron Will | 2.00% | ~408 |
 | Couch Potato | 1.00% | ~569 |
 | Go Gentle Into That Good Light | 1.00% | ~204 |
 | Words Will Never Harm You | 0.60% | ~122 |
 | Cardboard Companions | 0.60% | ~122 |
 | Fast and Furious | 0.50% | ~102 |
-| License Revoked | 0.40% | ~81 |
-| Whirlwind | 0.40% | ~81 |
-| Creative Space | 0.40% | ~81 |
+| License Revoked | 0.40% | ~82 |
+| Whirlwind | 0.40% | ~82 |
+| Creative Space | 0.40% | ~82 |
 | Alan, Wake Up | 0.30% | ~171 |
 | Meet the Deadline | 0.30% | ~171 |
 | Picking Up After Yourself | 0.30% | ~171 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~57 |
 | No Punctuation | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,906 (Ranked 80)  
+Progressed: 56,908 (Ranked 80)  
 Completed: 57 (0.10%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 57 (0.10%) (Ranked 181)
 | 2023-07-03 | 56,769 | 56 |
 | 2023-07-04 | 56,827 | 57 |
 | 2023-07-05 | 56,875 | 57 |
-| 2023-07-06 | 56,906 | 57 |
+| 2023-07-06 | 56,908 | 57 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

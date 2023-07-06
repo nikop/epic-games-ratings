@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 108,
-  "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 474,
+  "Ranking_Popularity": 464,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-07-06T04:05:23.1465409+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-06T13:23:53.4924302+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 56,
@@ -1078,7 +1083,7 @@
       "Name": "Passing Shadow",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1174,7 +1179,7 @@
       "Name": "How Romantic!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "achievement_maimedHero",
@@ -1182,7 +1187,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_mythwalker",
@@ -1190,7 +1195,7 @@
       "Name": "Legends Never Die",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -1198,7 +1203,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1230,7 +1235,7 @@
       "Name": "In Soil, In Smoke",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "completedStory_ecthis",
@@ -1278,7 +1283,7 @@
       "Name": "Daybreak",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1294,7 +1299,7 @@
       "Name": "Wingknight\u0027s Prowess",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ecthis_all5PlotCharacters",
@@ -1302,7 +1307,7 @@
       "Name": "All My Birds, Safely Home",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1326,7 +1331,7 @@
       "Name": "Turncoat",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -1453,15 +1458,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:04:24.9304464+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:23:53.4924298+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:12.6488902+00:00",
-  "LastUpdate_Ratings": "2023-07-06T12:00:54.315558+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:04:24.9305031+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:21:46.6111059+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:23:53.4924843+00:00"
 }

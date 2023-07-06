@@ -35,10 +35,10 @@ Rating: 4.61 (Ranked 362)
 | Duality | 1.00% | ~49 |
 | The Creator | 0.90% | ~44 |
 | The Magic That Empowers Me! | 0.80% | ~39 |
+| God Emperor | 0.80% | ~39 |
 | The Goddess of Nature | 0.80% | ~39 |
 | Eternal Lord | 0.80% | ~39 |
 | The Eternal Court | 0.80% | ~39 |
-| God Emperor | 0.70% | ~35 |
 | Crimson Caldera | 0.70% | ~35 |
 | Lord of Chaos | 0.60% | ~30 |
 | Jack of All Tomes | 0.60% | ~30 |

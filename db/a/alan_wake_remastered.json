@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56906,
+  "EOS_Progressed": 56908,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7112,6 +7112,11 @@
       "Time": "2023-07-06T12:03:27.0053481+00:00",
       "NumProgressed": 56906,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-06T13:23:01.2427527+00:00",
+      "NumProgressed": 56908,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7123,7 +7128,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18779
+      "UsersEstimate": 18780
     },
     {
       "ID": "02",
@@ -7131,7 +7136,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "03",
@@ -7139,7 +7144,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11381
+      "UsersEstimate": 11382
     },
     {
       "ID": "04",
@@ -7235,7 +7240,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "16",
@@ -7315,7 +7320,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "26",
@@ -7387,7 +7392,7 @@
       "Name": "Energized!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "35",
@@ -7435,7 +7440,7 @@
       "Name": "Right of Way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4553
     },
     {
       "ID": "41",
@@ -7531,7 +7536,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "53",
@@ -7563,7 +7568,7 @@
       "Name": "License Revoked",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "57",
@@ -7619,7 +7624,7 @@
       "Name": "Iron Will",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "64",
@@ -7627,7 +7632,7 @@
       "Name": "Whirlwind",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "65",
@@ -7643,7 +7648,7 @@
       "Name": "Creative Space",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "67",
@@ -7658,21 +7663,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56906,
+      "Progressed": 56908,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20374,
+      "Progressed": 20376,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:03:27.0053467+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:23:01.242752+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:58:04.579794+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:03:27.0054576+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:17:43.8754197+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:23:01.2428903+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1681,
+  "EOS_Progressed": 1682,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2023-07-05T19:04:30.5089727+00:00",
       "NumProgressed": 1681,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-06T13:22:47.1319235+00:00",
+      "NumProgressed": 1682,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -1284,7 +1289,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -1380,7 +1385,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -1420,7 +1425,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -1524,7 +1529,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1572,7 +1577,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1588,7 +1593,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -1612,7 +1617,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -1652,7 +1657,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1660,7 +1665,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1699,15 +1704,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1681,
+      "Progressed": 1682,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:03:16.7197705+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:22:47.1319229+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:08.2438029+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:58:48.0301353+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:03:16.7198258+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:18:45.2107583+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:22:47.1319804+00:00"
 }

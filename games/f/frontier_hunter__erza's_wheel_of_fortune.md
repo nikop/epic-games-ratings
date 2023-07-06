@@ -21,9 +21,9 @@
 | Nosebleeder | 47.00% | ~23 |
 | Guardian | 45.00% | ~22 |
 | Trader | 45.00% | ~22 |
+| Youth Magnet | 43.00% | ~21 |
 | Weapon Boost | 43.00% | ~21 |
 | Flying Kobold Killer | 41.00% | ~20 |
-| Youth Magnet | 41.00% | ~20 |
 | Furious Scorpion Killer | 41.00% | ~20 |
 | Lethal Blade Mantis Killer | 39.00% | ~19 |
 | Squeaky Clean | 39.00% | ~19 |

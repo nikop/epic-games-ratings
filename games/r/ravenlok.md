@@ -26,9 +26,9 @@
 | Well Rested | 40.00% | ~414 |
 | Nightmare Fuel | 39.00% | ~404 |
 | Take Heart | 39.00% | ~404 |
+| Stronger! | 39.00% | ~404 |
 | Ancient Wisdom | 38.00% | ~393 |
 | All That Glistens | 38.00% | ~393 |
-| Stronger! | 38.00% | ~393 |
 | Frog Facts! | 37.00% | ~383 |
 | All Skilled Up! | 37.00% | ~383 |
 | Spellbound | 36.00% | ~373 |

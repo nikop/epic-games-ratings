@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -290,9 +290,9 @@
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BearRum",
@@ -346,9 +346,9 @@
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DevilPriest",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:04:59.6954174+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:24:42.9215371+00:00",
   "LastUpdate_AppInfo": "2023-07-04T13:14:43.5196572+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:57:18.9862699+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:04:59.6954585+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:16:35.2424435+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:24:42.9216085+00:00"
 }

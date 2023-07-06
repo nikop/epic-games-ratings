@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~157 |
+| To Suffer is to Learn | 6.00% | ~189 |
 | Persephone's Guidance | 5.00% | ~157 |
 | Lochos | 5.00% | ~157 |
 | Strength of Herakles | 5.00% | ~157 |

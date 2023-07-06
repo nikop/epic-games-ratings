@@ -47,8 +47,8 @@ Rating: 4.38 (Ranked 710)
 | Dressed To Kill | 7.00% | ~84 |
 | Wipe Out | 7.00% | ~84 |
 | Cruelty | 3.00% | ~36 |
+| Attenborough | 2.00% | ~24 |
 | Master Editor | 2.00% | ~24 |
-| Attenborough | 1.00% | ~12 |
 | Bookworm | 1.00% | ~12 |
 | Five Finger Deathcount | 1.00% | ~12 |
 | Alpha Editor | 0.90% | ~11 |

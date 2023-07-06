@@ -16,7 +16,7 @@
 | Mysterious footprints | 47.00% | ~83 |
 | Complicated padlock | 43.00% | ~76 |
 | Big metal ruler | 42.00% | ~74 |
-| Windmill | 39.00% | ~69 |
+| Windmill | 40.00% | ~70 |
 | Doll | 38.00% | ~67 |
 | Mysterious paintings | 34.00% | ~60 |
 | Cat | 32.00% | ~56 |
@@ -24,7 +24,7 @@
 | Children | 23.00% | ~40 |
 | Huge Snail | 16.00% | ~28 |
 | Flower of hope | 15.00% | ~26 |
-| Friend | 12.00% | ~21 |
+| Friend | 13.00% | ~23 |
 | Back Home | 11.00% | ~19 |
 | Forest Howl | 11.00% | ~19 |
 | Old kettle | 10.00% | ~18 |

@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 36.00% | ~464 |
+| The Cost of Heroism | 36.00% | ~465 |
 | Me and My Familiar | 34.00% | ~439 |
 | This Too Shall Pass | 29.00% | ~374 |
-| Passing Shadow | 27.00% | ~348 |
-| Cutthroat Competitors | 27.00% | ~348 |
-| How Romantic! | 25.00% | ~322 |
-| Daybreak | 25.00% | ~322 |
+| Passing Shadow | 27.00% | ~349 |
+| Cutthroat Competitors | 27.00% | ~349 |
+| How Romantic! | 25.00% | ~323 |
+| Daybreak | 25.00% | ~323 |
 | Gotta Ca... Must Collect All of Them | 23.00% | ~297 |
 | Completing the Look | 13.00% | ~168 |
 | War Endured | 13.00% | ~168 |
@@ -28,11 +28,11 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 7.00% | ~90 |
 | A Story of Heroes | 7.00% | ~90 |
 | Let Me Get My Chisel | 6.00% | ~77 |
-| Legends Never Die | 5.00% | ~64 |
-| In Soil, In Smoke | 5.00% | ~64 |
-| Wingknight's Prowess | 5.00% | ~64 |
-| All My Birds, Safely Home | 5.00% | ~64 |
-| Turncoat | 5.00% | ~64 |
+| Legends Never Die | 5.00% | ~65 |
+| In Soil, In Smoke | 5.00% | ~65 |
+| Wingknight's Prowess | 5.00% | ~65 |
+| All My Birds, Safely Home | 5.00% | ~65 |
+| Turncoat | 5.00% | ~65 |
 | Worldwalker | 4.00% | ~52 |
 | A Hunger, Sated | 4.00% | ~52 |
 | Grillmaster | 4.00% | ~52 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.70% | ~9 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,290 (Ranked 174)  
+Progressed: 1,291 (Ranked 174)  
 Completed: 4 (0.31%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 4 (0.31%) (Ranked 142)
 | 2023-07-03 | 1,286 | 4 |
 | 2023-07-04 | 1,287 | 4 |
 | 2023-07-05 | 1,289 | 4 |
-| 2023-07-06 | 1,290 | 4 |
+| 2023-07-06 | 1,291 | 4 |
 ## Awards
-Max (Character Customization): 27  (Ranked 463)  
-Sum: 27 (Ranked 474)  
+Max (Character Customization): 27  (Ranked 464)  
+Sum: 27 (Ranked 475)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |

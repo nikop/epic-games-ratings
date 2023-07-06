@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
@@ -4763,9 +4763,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -5309,7 +5309,7 @@
       "ID": "83mdf7p",
       "IsBase": false,
       "Progressed": 3168,
-      "Completed": 12
+      "Completed": 13
     },
     {
       "ID": "bm6el81",
@@ -5322,8 +5322,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:01:00.9543308+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:21:58.8466725+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-06T12:00:49.840647+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:01:00.9544377+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:21:38.9771151+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:21:58.846774+00:00"
 }

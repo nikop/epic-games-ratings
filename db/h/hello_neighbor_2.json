@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 154,
@@ -1786,9 +1786,9 @@
       "ID": "ACH_FAMILY_LOST",
       "SetID": "4kfb9pd",
       "Name": "Family Lost",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 788
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -1859,8 +1859,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-07-02T20:01:16.6679969+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:04:30.194675+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:24:00.3027846+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:45.97736+00:00",
-  "LastUpdate_Ratings": "2023-07-06T12:00:36.1553659+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:04:30.1946939+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:21:18.495335+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:24:00.3028035+00:00"
 }

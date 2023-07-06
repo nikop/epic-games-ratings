@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246115,
+  "EOS_Progressed": 246116,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7474,6 +7474,11 @@
       "Time": "2023-07-06T12:06:35.8286903+00:00",
       "NumProgressed": 246115,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-06T13:26:59.629158+00:00",
+      "NumProgressed": 246116,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 46,
@@ -7845,14 +7850,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39378
+      "UsersEstimate": 39379
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 246115,
+      "Progressed": 246116,
       "Completed": 3
     }
   ],
@@ -7860,8 +7865,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:06:35.8286897+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:26:59.6291573+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:08.0677117+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:59:35.6767339+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:06:35.8287656+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:19:45.5324694+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:26:59.6292581+00:00"
 }

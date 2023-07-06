@@ -9,7 +9,7 @@
 | Wannabe | 9.00% | ~22 |
 | Better than cake | 8.00% | ~19 |
 | No brakes | 8.00% | ~19 |
-| First taste | 3.00% | ~7 |
+| First taste | 4.00% | ~10 |
 | Amateur hitchhiker | 3.00% | ~7 |
 | Hero | 1.00% | ~2 |
 | Loyalty | 0.80% | ~2 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 254)  
+Progressed: 241 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,3 +213,4 @@ Completed: 0 (0.00%) (Ranked 234)
 | 2023-06-30 | 229 | 0 |
 | 2023-07-02 | 230 | 0 |
 | 2023-07-04 | 240 | 0 |
+| 2023-07-06 | 241 | 0 |

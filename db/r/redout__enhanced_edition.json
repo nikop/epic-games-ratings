@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226510,
+  "EOS_Progressed": 226512,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
@@ -8208,6 +8208,11 @@
       "Time": "2023-07-06T12:06:31.0397736+00:00",
       "NumProgressed": 226510,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-06T13:26:53.4844442+00:00",
+      "NumProgressed": 226512,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -8355,7 +8360,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 72483
+      "UsersEstimate": 72484
     },
     {
       "ID": "NOBUNAGA",
@@ -8443,7 +8448,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49832
+      "UsersEstimate": 49833
     },
     {
       "ID": "TACTICIAN",
@@ -8467,7 +8472,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49832
+      "UsersEstimate": 49833
     },
     {
       "ID": "TUNINGMANIAC",
@@ -8483,22 +8488,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 92869
+      "UsersEstimate": 92870
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 226510,
+      "Progressed": 226512,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:06:31.039773+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:26:53.4844436+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:50.6840809+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:58:37.7446358+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:06:31.0398484+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:18:30.9643062+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:26:53.4845341+00:00"
 }

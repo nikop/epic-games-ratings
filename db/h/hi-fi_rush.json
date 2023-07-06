@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3407,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4095,9 +4095,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach005",
@@ -4439,9 +4439,9 @@
       "ID": "Ach047",
       "SetID": "12n4k20",
       "Name": "Who put gears in there?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach048",
@@ -4559,9 +4559,9 @@
       "ID": "Ach062",
       "SetID": "b7dbjo0",
       "Name": "NOW we got a kickass hideout!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach063",
@@ -4654,8 +4654,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-06T12:01:00.7563597+00:00",
+  "LastChanged_Achievements": "2023-07-06T13:21:58.7675751+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:58:56.8522711+00:00",
-  "LastUpdate_Achievements": "2023-07-06T12:01:00.7564595+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:18:56.2870954+00:00",
+  "LastUpdate_Achievements": "2023-07-06T13:21:58.7680899+00:00"
 }

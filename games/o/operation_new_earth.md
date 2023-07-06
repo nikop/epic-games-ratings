@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 46.00% | ~159 |
-| Defenses Online | 41.00% | ~142 |
+| Defenses Online | 42.00% | ~145 |
 | Facility Online | 38.00% | ~131 |
 | Corporal | 27.00% | ~93 |
 | Covert Operative | 21.00% | ~73 |
