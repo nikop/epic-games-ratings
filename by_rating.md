@@ -31,7 +31,7 @@
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 492 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 296 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 425 |
-| 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 700 | 162 |
+| 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 701 | 161 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 336 | 224 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,010 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 333 |
@@ -135,9 +135,9 @@
 | 133 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 475 |
 | 133 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,400 | 62 |
 | 133 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.75 | 888 | 150 |
-| 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 518 | 188 |
+| 133 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 518 | 189 |
 | 133 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.75 | 110 | 319 |
-| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 517 | 189 |
+| 133 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 519 | 188 |
 | 133 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 504 |
 | 133 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 43 | 413 |
 | 133 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 416 |
@@ -380,7 +380,7 @@
 | 362 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,528 | 93 |
 | 362 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 644 | 169 |
 | 362 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 453 | 199 |
-| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,399 | 37 |
+| 362 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,408 | 37 |
 | 362 | [Returnal™](games/r/returnal™.md) | 4.61 | 55 | 389 |
 | 362 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,069 | 137 |
 | 362 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 274 | 239 |
@@ -392,7 +392,7 @@
 | 390 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.60 | 0 | 504 |
 | 390 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.60 | 0 | 504 |
 | 390 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 659 | 167 |
-| 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,698 | 28 |
+| 390 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 12,716 | 28 |
 | 390 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 198 | 269 |
 | 390 | [Control](games/c/control.md) | 4.60 | 8,385 | 39 |
 | 390 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 217 | 257 |
@@ -456,7 +456,7 @@
 | 440 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.57 | 22 | 484 |
 | 440 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,417 | 84 |
 | 440 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 457 |
-| 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,844 | 19 |
+| 440 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,852 | 19 |
 | 440 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,754 | 114 |
 | 440 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 53 | 391 |
 | 460 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 504 |
@@ -517,7 +517,7 @@
 | 507 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.53 | 0 | 504 |
 | 507 | [Tails of Iron](games/t/tails_of_iron.md) | 4.53 | 0 | 504 |
 | 507 | [UnMetal](games/u/unmetal.md) | 4.53 | 0 | 504 |
-| 507 | [VALORANT](games/v/valorant.md) | 4.53 | 59,659 | 10 |
+| 507 | [VALORANT](games/v/valorant.md) | 4.53 | 59,764 | 10 |
 | 507 | [Verdun](games/v/verdun.md) | 4.53 | 95 | 337 |
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.52 | 22 | 484 |
 | 520 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 749 | 158 |

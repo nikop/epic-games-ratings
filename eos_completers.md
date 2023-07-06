@@ -21,9 +21,9 @@
 | 19 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 11.11% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
-| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.53% |
+| 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.50% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.49% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |

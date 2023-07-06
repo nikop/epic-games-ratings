@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 143,556 | 4.52 | 520 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 112,453 | 4.69 | 220 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 72,250 | 4.62 | 344 |
-| 10 | [VALORANT](games/v/valorant.md) | 59,659 | 4.53 | 507 |
+| 10 | [VALORANT](games/v/valorant.md) | 59,764 | 4.53 | 507 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,702 | 4.58 | 423 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,215 | 4.61 | 362 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 35,500 | 4.50 | 552 |
@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,633 | 4.65 | 300 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 20,698 | 4.77 | 108 |
 | 18 | [Dauntless](games/d/dauntless.md) | 20,575 | 4.53 | 507 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,844 | 4.57 | 440 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,852 | 4.57 | 440 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 16,723 | 4.89 | 12 |
 | 21 | [Warframe](games/w/warframe.md) | 15,823 | 4.61 | 362 |
 | 22 | [Borderlands 2](games/b/borderlands_2.md) | 14,703 | 4.76 | 119 |
@@ -27,7 +27,7 @@
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,411 | 4.58 | 423 |
 | 26 | [Maneater](games/m/maneater.md) | 13,556 | 4.49 | 572 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,466 | 4.60 | 390 |
-| 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,698 | 4.60 | 390 |
+| 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 12,716 | 4.60 | 390 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,555 | 4.36 | 729 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,331 | 4.42 | 663 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,010 | 4.86 | 28 |
@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,752 | 4.45 | 621 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 10,462 | 4.88 | 18 |
 | 36 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,424 | 4.78 | 100 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,399 | 4.61 | 362 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,408 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,028 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,385 | 4.60 | 390 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,243 | 4.58 | 423 |
@@ -160,8 +160,8 @@
 | 158 | [Auto Chess](games/a/auto_chess.md) | 749 | 4.52 | 520 |
 | 159 | [Core](games/c/core.md) | 740 | 4.37 | 720 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 719 | 4.50 | 552 |
+| 161 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 701 | 4.86 | 28 |
 | 161 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 701 | 4.59 | 412 |
-| 162 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 700 | 4.86 | 28 |
 | 163 | [Neverwinter](games/n/neverwinter.md) | 696 | 4.29 | 780 |
 | 164 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 693 | 4.79 | 88 |
 | 165 | [Neon Abyss](games/n/neon_abyss.md) | 674 | 4.68 | 239 |
@@ -187,8 +187,8 @@
 | 185 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 546 | 4.62 | 344 |
 | 185 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 546 | 4.41 | 673 |
 | 187 | [Godfall Ultimate Edition](games/g/godfall.md) | 525 | 4.08 | 896 |
-| 188 | [Football Manager 2023](games/f/football_manager_2023.md) | 518 | 4.75 | 133 |
-| 189 | [Riders Republic](games/r/riders_republic.md) | 517 | 4.75 | 133 |
+| 188 | [Riders Republic](games/r/riders_republic.md) | 519 | 4.75 | 133 |
+| 189 | [Football Manager 2023](games/f/football_manager_2023.md) | 518 | 4.75 | 133 |
 | 190 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 514 | 4.52 | 520 |
 | 191 | [Terraforming Mars](games/t/terraforming_mars.md) | 502 | 4.54 | 494 |
 | 191 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 502 | 4.66 | 273 |
