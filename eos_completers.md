@@ -85,7 +85,7 @@
 | 83 | [Somerville](games/s/somerville.md) | 1.56% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.52% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
-| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.49% |
+| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.48% |
 | 87 | [Night Book](games/n/night_book.md) | 1.46% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.35% |
@@ -108,8 +108,8 @@
 | 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
-| 107 | [Lemon Cake](games/l/lemon_cake.md) | 0.77% |
-| 110 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |
+| 109 | [Lemon Cake](games/l/lemon_cake.md) | 0.76% |
 | 111 | [Haven](games/h/haven.md) | 0.69% |
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
@@ -199,12 +199,12 @@
 | 195 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 195 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 199 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 199 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 199 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.05% |
 | 199 | [House Party](games/h/house_party.md) | 0.05% |
 | 199 | [Saints Row](games/s/saints_row.md) | 0.05% |
-| 204 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 204 | [Old World](games/o/old_world.md) | 0.04% |
+| 203 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 203 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 203 | [Old World](games/o/old_world.md) | 0.04% |
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
 | 206 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 206 | [High On Life](games/h/high_on_life.md) | 0.03% |
