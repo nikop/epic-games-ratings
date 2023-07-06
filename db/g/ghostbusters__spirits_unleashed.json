@@ -1398,9 +1398,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 24043,
+  "EOS_Progressed": 24044,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7348,6 +7348,11 @@
       "Time": "2023-07-06T11:03:26.5281228+00:00",
       "NumProgressed": 24043,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-07-06T12:03:10.1104744+00:00",
+      "NumProgressed": 24044,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 51,
@@ -7359,7 +7364,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 17551
+      "UsersEstimate": 17552
     },
     {
       "ID": "Animated",
@@ -7367,7 +7372,7 @@
       "Name": "Animated",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     },
     {
       "ID": "Back_Off",
@@ -7423,7 +7428,7 @@
       "Name": "Cultured",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12502
+      "UsersEstimate": 12503
     },
     {
       "ID": "Daily_Dose",
@@ -7447,7 +7452,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "Dont_Need_These",
@@ -7495,7 +7500,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12983
+      "UsersEstimate": 12984
     },
     {
       "ID": "GB_In_Training",
@@ -7639,7 +7644,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5770
+      "UsersEstimate": 5771
     },
     {
       "ID": "Solo_Capture",
@@ -7663,7 +7668,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 20677
+      "UsersEstimate": 20678
     },
     {
       "ID": "Summoner",
@@ -7687,7 +7692,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 12983
+      "UsersEstimate": 12984
     },
     {
       "ID": "Teamwork",
@@ -7719,7 +7724,7 @@
       "Name": "There you are!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 10338
+      "UsersEstimate": 10339
     },
     {
       "ID": "Tobins_Prodigy",
@@ -7766,7 +7771,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 24043,
+      "Progressed": 24044,
       "Completed": 46
     }
   ],
@@ -7774,8 +7779,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-07-06T10:59:27.3334125+00:00",
-  "LastChanged_Achievements": "2023-07-06T11:03:26.5281222+00:00",
+  "LastChanged_Achievements": "2023-07-06T12:03:10.1104738+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:50.5653707+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:59:27.3334132+00:00",
-  "LastUpdate_Achievements": "2023-07-06T11:03:26.5282084+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:59:20.3906033+00:00",
+  "LastUpdate_Achievements": "2023-07-06T12:03:10.1105488+00:00"
 }

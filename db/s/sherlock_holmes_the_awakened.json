@@ -1716,9 +1716,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ02_2",
@@ -1756,9 +1756,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 241
     },
     {
       "ID": "MQ03_3",
@@ -1780,9 +1780,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "MQ04_1",
@@ -1933,8 +1933,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-06-25T15:57:48.8176349+00:00",
-  "LastChanged_Achievements": "2023-07-06T11:05:53.2960732+00:00",
+  "LastChanged_Achievements": "2023-07-06T12:05:39.5925612+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.1820341+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:57:47.3020527+00:00",
-  "LastUpdate_Achievements": "2023-07-06T11:05:53.2961065+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:57:39.1333364+00:00",
+  "LastUpdate_Achievements": "2023-07-06T12:05:39.5925884+00:00"
 }

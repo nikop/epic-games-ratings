@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,066 |
-| The Mad Wizard | 11.00% | ~22,782 |
-| The Ring of Regeneration | 7.00% | ~14,498 |
-| Are Ya Chicken? | 7.00% | ~14,498 |
-| Were-verpowered | 5.00% | ~10,355 |
-| Seeking Allies | 5.00% | ~10,355 |
-| Mad Cow Disease | 5.00% | ~10,355 |
-| Friendly Imps | 5.00% | ~10,355 |
-| A Persistent Buzzing | 4.00% | ~8,284 |
-| Pure Energy | 4.00% | ~8,284 |
-| Terror in the Dark | 3.00% | ~6,213 |
-| Unearthed Evil | 3.00% | ~6,213 |
-| The Crumbling Temple | 3.00% | ~6,213 |
-| Exploring Port Nyanzaru | 3.00% | ~6,213 |
-| The Contagious Curse | 3.00% | ~6,213 |
+| The Cursed Farmer | 15.00% | ~31,068 |
+| The Mad Wizard | 11.00% | ~22,784 |
+| The Ring of Regeneration | 7.00% | ~14,499 |
+| Are Ya Chicken? | 7.00% | ~14,499 |
+| Were-verpowered | 5.00% | ~10,356 |
+| Seeking Allies | 5.00% | ~10,356 |
+| Mad Cow Disease | 5.00% | ~10,356 |
+| Friendly Imps | 5.00% | ~10,356 |
+| A Persistent Buzzing | 4.00% | ~8,285 |
+| Pure Energy | 4.00% | ~8,285 |
+| Terror in the Dark | 3.00% | ~6,214 |
+| Unearthed Evil | 3.00% | ~6,214 |
+| The Crumbling Temple | 3.00% | ~6,214 |
+| Exploring Port Nyanzaru | 3.00% | ~6,214 |
+| The Contagious Curse | 3.00% | ~6,214 |
 | Beast Mode | 2.00% | ~4,142 |
 | Low Initiative | 2.00% | ~4,142 |
 | A Mysterious Summons | 2.00% | ~4,142 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,108 (Ranked 52)  
+Progressed: 207,123 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,108 | 2,035 |
+| 2023-07-06 | 207,123 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,409 (Ranked 37)  

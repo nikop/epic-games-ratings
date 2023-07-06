@@ -207,9 +207,9 @@
       "ID": "ach_09_acidDeath10",
       "SetID": "16n29hg",
       "Name": "Feels like Hell",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_10_scarvenger1",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-07-06T11:03:18.9950645+00:00",
+  "LastChanged_Achievements": "2023-07-06T12:02:22.6135749+00:00",
   "LastUpdate_AppInfo": "2023-07-05T05:57:08.5205588+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:57:29.1560334+00:00",
-  "LastUpdate_Achievements": "2023-07-06T11:03:18.9952399+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:57:24.4782765+00:00",
+  "LastUpdate_Achievements": "2023-07-06T12:02:22.6136307+00:00"
 }

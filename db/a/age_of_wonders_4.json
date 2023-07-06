@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4928,
+  "EOS_Progressed": 4930,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4948,6 +4948,11 @@
       "Time": "2023-07-06T09:02:55.9928929+00:00",
       "NumProgressed": 4928,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-06T12:01:03.0364199+00:00",
+      "NumProgressed": 4930,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5015,7 +5020,7 @@
       "Name": "God Emperor",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "17",
@@ -5135,7 +5140,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "30",
@@ -5358,13 +5363,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4928,
+      "Progressed": 4930,
       "Completed": 4759
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4928,
+      "Progressed": 4930,
       "Completed": 5
     }
   ],
@@ -5372,8 +5377,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-06T11:01:07.9780687+00:00",
+  "LastChanged_Achievements": "2023-07-06T12:01:03.0364194+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-06T10:59:56.6441778+00:00",
-  "LastUpdate_Achievements": "2023-07-06T11:01:07.9787319+00:00"
+  "LastUpdate_Ratings": "2023-07-06T11:59:53.0019409+00:00",
+  "LastUpdate_Achievements": "2023-07-06T12:01:03.0364974+00:00"
 }

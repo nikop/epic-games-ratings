@@ -33,10 +33,10 @@
 | Right On Time | 10.00% | ~75 |
 | Whiz Kid | 10.00% | ~75 |
 | Chaincrawler Explorer | 8.00% | ~60 |
+| Family Memories | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
 | Good Neighbor | 8.00% | ~60 |
 | Cultivair Explorer | 7.00% | ~52 |
-| Family Memories | 7.00% | ~52 |
 | Fairgrounds Explorer | 7.00% | ~52 |
 | Sump Explorer | 7.00% | ~52 |
 | Syron for Hope | 7.00% | ~52 |

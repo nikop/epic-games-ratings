@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.07 (Ranked 898)  
+Rating: 4.09 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +21,7 @@ Rating: 4.07 (Ranked 898)
 | Dragon Master | 14.00% | ~220 |
 | Enlightenment | 14.00% | ~220 |
 | Hero inspection | 14.00% | ~220 |
-| Lieutenant | 13.00% | ~205 |
+| Lieutenant | 14.00% | ~220 |
 | Milestone collector | 12.00% | ~189 |
 | Mysterious Rock | 12.00% | ~189 |
 | Natural Talent | 12.00% | ~189 |
@@ -180,3 +180,4 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-06-06 | 4.00 | 0 | 0 |
 | 2023-06-08 | 4.05 | 0 | 0 |
 | 2023-06-18 | 4.07 | 0 | 0 |
+| 2023-07-06 | 4.09 | 0 | 0 |

@@ -9,13 +9,13 @@ Rating: 4.41 (Ranked 673)
 | A new Journey | 73.00% | ~1,077 |
 | Departure | 72.00% | ~1,062 |
 | From X to Y | 71.00% | ~1,047 |
-| Way of Iron | 69.00% | ~1,018 |
-| Mystery Tour | 67.00% | ~988 |
+| Way of Iron | 70.00% | ~1,032 |
+| Mystery Tour | 68.00% | ~1,003 |
 | We brake for nobody | 66.00% | ~974 |
 | Brainstorm | 65.00% | ~959 |
 | Travel Company | 65.00% | ~959 |
 | Mind the Gap | 64.00% | ~944 |
-| All around the World | 61.00% | ~900 |
+| All around the World | 62.00% | ~914 |
 | Right through the middle | 56.00% | ~826 |
 | Facility Manager | 54.00% | ~796 |
 | Poor Devil | 54.00% | ~796 |
@@ -26,7 +26,7 @@ Rating: 4.41 (Ranked 673)
 | Going once, going twice, sold | 35.00% | ~516 |
 | Stoker | 33.00% | ~487 |
 | Bull and bear | 33.00% | ~487 |
-| Full Steam ahead | 31.00% | ~457 |
+| Full Steam ahead | 32.00% | ~472 |
 | Financial Shark | 30.00% | ~442 |
 | All mine | 29.00% | ~428 |
 | Mole | 29.00% | ~428 |

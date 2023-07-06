@@ -31,7 +31,7 @@
 | Rehab Expert | 19.00% | ~44 |
 | Tasty Profits | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
-| Under One Roof | 16.00% | ~37 |
+| Under One Roof | 17.00% | ~39 |
 | Established Fame | 16.00% | ~37 |
 | Cashflow Chief | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
@@ -54,13 +54,13 @@
 | Water Features | 7.00% | ~16 |
 | Meet Me at HQ | 7.00% | ~16 |
 | Profound Proceeds | 7.00% | ~16 |
+| It's a Gas | 7.00% | ~16 |
 | Meet ADA/360 | 6.00% | ~14 |
 | Penthouse in the Sky | 6.00% | ~14 |
 | Baron of Business | 6.00% | ~14 |
 | Careful Constructor | 6.00% | ~14 |
 | Sky High Stature | 6.00% | ~14 |
 | Tuned In | 6.00% | ~14 |
-| It's a Gas | 6.00% | ~14 |
 | Office Bigwigs | 5.00% | ~12 |
 | Golden Opportunity | 5.00% | ~12 |
 | Three of a Kind | 4.00% | ~9 |

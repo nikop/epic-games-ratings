@@ -1357,9 +1357,9 @@
       "ID": "Detector",
       "SetID": "5lok9mm",
       "Name": "Chest Detector",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1181
     },
     {
       "ID": "Down",
@@ -1709,8 +1709,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-31T02:21:41.8483735+00:00",
-  "LastChanged_Achievements": "2023-07-06T10:02:02.8433956+00:00",
+  "LastChanged_Achievements": "2023-07-06T12:00:55.0102827+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:20.096986+00:00",
-  "LastUpdate_Ratings": "2023-07-06T11:00:27.8478863+00:00",
-  "LastUpdate_Achievements": "2023-07-06T10:02:02.8434349+00:00"
+  "LastUpdate_Ratings": "2023-07-06T12:00:19.2850296+00:00",
+  "LastUpdate_Achievements": "2023-07-06T12:00:55.0123455+00:00"
 }
