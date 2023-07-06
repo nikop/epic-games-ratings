@@ -356,7 +356,7 @@
 | 344 | [NORCO](games/n/norco.md) | 4.62 | 0 | 504 |
 | 344 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 504 |
 | 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
-| 344 | [Prey](games/p/prey.md) | 4.62 | 5,594 | 59 |
+| 344 | [Prey](games/p/prey.md) | 4.62 | 5,597 | 59 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 504 |
 | 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 460 | 196 |
 | 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 379 |
@@ -579,7 +579,7 @@
 | 572 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 504 |
 | 572 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
 | 572 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 504 |
-| 572 | [Maneater](games/m/maneater.md) | 4.49 | 13,553 | 26 |
+| 572 | [Maneater](games/m/maneater.md) | 4.49 | 13,556 | 26 |
 | 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
 | 572 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
 | 572 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
@@ -630,7 +630,7 @@
 | 620 | [Pathway](games/p/pathway.md) | 4.45 | 0 | 504 |
 | 620 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.45 | 51 | 394 |
 | 620 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 504 |
-| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,974 | 78 |
+| 620 | [SMITE](games/s/smite.md) | 4.45 | 3,978 | 78 |
 | 620 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 0 | 504 |
 | 620 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 504 |
 | 620 | [STG Football](games/s/stg_football.md) | 4.45 | 40 | 419 |
@@ -658,7 +658,7 @@
 | 655 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 504 |
 | 655 | [Hell is Others](games/h/hell_is_others.md) | 4.43 | 31 | 452 |
 | 655 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,162 | 135 |
-| 655 | [Predecessor](games/p/predecessor.md) | 4.43 | 129 | 303 |
+| 655 | [Predecessor](games/p/predecessor.md) | 4.43 | 130 | 302 |
 | 655 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 376 |
 | 655 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 504 |
 | 655 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 280 | 237 |
@@ -900,7 +900,7 @@
 | 898 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.07 | 0 | 504 |
 | 898 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 180 | 278 |
 | 900 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 504 |
-| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,005 | 65 |
+| 901 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.05 | 5,009 | 65 |
 | 901 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 451 | 200 |
 | 901 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 504 |
 | 904 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.04 | 0 | 504 |

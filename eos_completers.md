@@ -166,13 +166,13 @@
 | 164 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.18% |
 | 165 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 166 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.16% |
 | 166 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
-| 169 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
-| 169 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
-| 169 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 168 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.15% |
+| 168 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 168 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
+| 168 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.15% |
+| 168 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 174 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
 | 175 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 175 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
