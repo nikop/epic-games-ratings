@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -4748,10 +4748,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 30415,
       "NumberOfAwardsMax": 5009
+    },
+    {
+      "Time": "2023-07-06T22:58:55.1439514+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 30419,
+      "NumberOfAwardsMax": 5009
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30415,
+  "NumberOfAwards": 30419,
   "NumberOfAwardsMax": 5009,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4783,7 +4789,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3987
+      "Count": 3991
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4798,9 +4804,9 @@
       "Count": 3291
     }
   ],
-  "EOS_Progressed": 207464,
+  "EOS_Progressed": 207486,
   "EOS_Completed": 2035,
-  "EOS_NewPlayers": 7040,
+  "EOS_NewPlayers": 6988,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -12973,6 +12979,11 @@
       "Time": "2023-07-06T22:04:25.1052766+00:00",
       "NumProgressed": 207464,
       "NumCompleted": 2035
+    },
+    {
+      "Time": "2023-07-06T23:04:08.8111641+00:00",
+      "NumProgressed": 207486,
+      "NumCompleted": 2035
     }
   ],
   "TotalAchievements": 503,
@@ -13792,7 +13803,7 @@
       "Name": "The Castle of a Thousand Vecnas",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_1189",
@@ -13816,7 +13827,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_1194",
@@ -13832,7 +13843,7 @@
       "Name": "Get Back In The Castle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_1199",
@@ -13848,7 +13859,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10374
     },
     {
       "ID": "objective_completed_1203",
@@ -13856,7 +13867,7 @@
       "Name": "Checkmate",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_1204",
@@ -14088,7 +14099,7 @@
       "Name": "Beast Mode",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_149",
@@ -14104,7 +14115,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "objective_completed_150",
@@ -14168,7 +14179,7 @@
       "Name": "Low Initiative",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_164",
@@ -14176,7 +14187,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_165",
@@ -14208,7 +14219,7 @@
       "Name": "Building Trust",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_17",
@@ -14272,7 +14283,7 @@
       "Name": "Snakes on our Plane",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_184",
@@ -14312,7 +14323,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "objective_completed_20",
@@ -14320,7 +14331,7 @@
       "Name": "No Time To Rest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_208",
@@ -14456,7 +14467,7 @@
       "Name": "This Quest Stinks!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_246",
@@ -14616,7 +14627,7 @@
       "Name": "Home Not So Alone",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_283",
@@ -14656,7 +14667,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31120
+      "UsersEstimate": 31123
     },
     {
       "ID": "objective_completed_34",
@@ -14664,7 +14675,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14522
+      "UsersEstimate": 14524
     },
     {
       "ID": "objective_completed_35",
@@ -14672,7 +14683,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "objective_completed_36",
@@ -14776,7 +14787,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10374
     },
     {
       "ID": "objective_completed_390",
@@ -14848,7 +14859,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14522
+      "UsersEstimate": 14524
     },
     {
       "ID": "objective_completed_40",
@@ -14856,7 +14867,7 @@
       "Name": "Useless Allies",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_400",
@@ -15120,7 +15131,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10374
     },
     {
       "ID": "objective_completed_54",
@@ -15128,7 +15139,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "objective_completed_540",
@@ -15456,7 +15467,7 @@
       "Name": "Strike!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_588",
@@ -15472,7 +15483,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_590",
@@ -15528,7 +15539,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "objective_completed_60",
@@ -15560,7 +15571,7 @@
       "Name": "Earthquake!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_603",
@@ -15592,7 +15603,7 @@
       "Name": "Shadow Stalkers",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_608",
@@ -15664,7 +15675,7 @@
       "Name": "Ettercap Swarm",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_618",
@@ -15696,7 +15707,7 @@
       "Name": "An Illithid Ambush",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_622",
@@ -15760,7 +15771,7 @@
       "Name": "A Difficult Descent",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_632",
@@ -15792,7 +15803,7 @@
       "Name": "Dream Gauntlet",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_637",
@@ -15800,7 +15811,7 @@
       "Name": "Zombie Dreams",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_638",
@@ -15824,7 +15835,7 @@
       "Name": "The Path of Redcaps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_642",
@@ -15832,7 +15843,7 @@
       "Name": "The Path of Trials",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_643",
@@ -15888,7 +15899,7 @@
       "Name": "Elder Rune Attack",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_657",
@@ -15896,7 +15907,7 @@
       "Name": "The Gargoyle",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_658",
@@ -15920,7 +15931,7 @@
       "Name": "Madcap Adventures Redux",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_662",
@@ -15968,7 +15979,7 @@
       "Name": "Raggadragga\u0027s Crew",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_672",
@@ -16008,7 +16019,7 @@
       "Name": "Into the Unknown",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_681",
@@ -16032,7 +16043,7 @@
       "Name": "The Prison of Velkynvelve",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_686",
@@ -16056,7 +16067,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_690",
@@ -16080,7 +16091,7 @@
       "Name": "Giant-Size Adventure",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_693",
@@ -16104,7 +16115,7 @@
       "Name": "Enemy Summit",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_697",
@@ -16112,7 +16123,7 @@
       "Name": "Mirage Arcane",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_698",
@@ -16128,7 +16139,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22823
     },
     {
       "ID": "objective_completed_70",
@@ -16160,7 +16171,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_75",
@@ -16192,7 +16203,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "objective_completed_8",
@@ -16200,7 +16211,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10374
     },
     {
       "ID": "objective_completed_80",
@@ -16224,7 +16235,7 @@
       "Name": "An Awakened Axe",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_804",
@@ -16256,7 +16267,7 @@
       "Name": "Trench Coat Run",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_809",
@@ -16488,7 +16499,7 @@
       "Name": "Waiting on Sunrise",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_853",
@@ -16520,7 +16531,7 @@
       "Name": "Deekin\u0027s Mission",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_858",
@@ -16544,7 +16555,7 @@
       "Name": "Frozen Vengeance",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_863",
@@ -16568,7 +16579,7 @@
       "Name": "The Battle of High Hall Tower",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_868",
@@ -16592,7 +16603,7 @@
       "Name": "Elturel\u0027s Last Stand",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_873",
@@ -16608,7 +16619,7 @@
       "Name": "Lost in the Underdark",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_878",
@@ -16632,7 +16643,7 @@
       "Name": "Leemooggoogoon Rises",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_883",
@@ -16656,7 +16667,7 @@
       "Name": "Ending the Rime - Part 1",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_888",
@@ -16680,7 +16691,7 @@
       "Name": "Ending the Rime - Part 2",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_893",
@@ -16704,7 +16715,7 @@
       "Name": "Reghed Glacier Mysteries",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_898",
@@ -16736,7 +16747,7 @@
       "Name": "Tekeli-li\u0027s Hunt",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_903",
@@ -16760,7 +16771,7 @@
       "Name": "Neutral No More",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_919",
@@ -16808,7 +16819,7 @@
       "Name": "The Rite of the Arcane Octad",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_929",
@@ -16832,7 +16843,7 @@
       "Name": "The Netherese Necropolis",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_934",
@@ -17007,21 +17018,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 173738,
+      "Progressed": 173760,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 207464,
+      "Progressed": 207486,
       "Completed": 2035
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-07-06T16:59:04.3142655+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:04:25.1052762+00:00",
+  "LastChanged": "2023-07-06T22:58:55.1439512+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:04:08.8111637+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:59:08.492525+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:04:25.1074618+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:58:55.1439517+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:04:08.8134186+00:00"
 }

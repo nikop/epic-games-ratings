@@ -5299,10 +5299,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13650,
       "NumberOfAwardsMax": 6762
+    },
+    {
+      "Time": "2023-07-06T23:01:21.8589742+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13654,
+      "NumberOfAwardsMax": 6762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13650,
+  "NumberOfAwards": 13654,
   "NumberOfAwardsMax": 6762,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5352,7 +5358,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 746
+      "Count": 750
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5379,9 +5385,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55178,
+  "EOS_Progressed": 55179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13389,6 +13395,11 @@
       "Time": "2023-07-06T22:08:27.0216172+00:00",
       "NumProgressed": 55178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T23:07:51.8090666+00:00",
+      "NumProgressed": 55179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13416,7 +13427,7 @@
       "Name": "Bannerlord",
       "Percentage": 21,
       "XP": 65,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "Best served cold",
@@ -13560,7 +13571,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "I can do it",
@@ -13592,7 +13603,7 @@
       "Name": "King Solomon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8828
+      "UsersEstimate": 8829
     },
     {
       "ID": "Kingslayer",
@@ -13656,7 +13667,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "Minor Clan",
@@ -13776,7 +13787,7 @@
       "Name": "Trained",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11588
     },
     {
       "ID": "Undercover",
@@ -13807,15 +13818,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55178,
+      "Progressed": 55179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-07-06T16:01:03.1939791+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:08:27.0216166+00:00",
+  "LastChanged": "2023-07-06T23:01:21.858974+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:07:51.8090663+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:01:36.1443509+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:08:27.0216872+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:01:21.8589746+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:07:51.8091363+00:00"
 }

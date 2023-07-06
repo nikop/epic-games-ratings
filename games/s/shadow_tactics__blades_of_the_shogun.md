@@ -8,8 +8,8 @@ Number of Ratings: 495  (23.09.2022)
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~20,201 |
 | Thorough | 9.00% | ~16,528 |
-| A thief's beginning | 8.00% | ~14,691 |
-| Tanuki Time | 8.00% | ~14,691 |
+| A thief's beginning | 8.00% | ~14,692 |
+| Tanuki Time | 8.00% | ~14,692 |
 | Disguised | 7.00% | ~12,855 |
 | Rescue Takuma | 7.00% | ~12,855 |
 | Rollin' | 7.00% | ~12,855 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~1,836 |
 | Undeserved Honor | 0.90% | ~1,653 |
 | When Cut Across the Neck | 0.80% | ~1,469 |
-| High Five the Moon | 0.70% | ~1,285 |
-| The Cave | 0.70% | ~1,285 |
+| High Five the Moon | 0.70% | ~1,286 |
+| The Cave | 0.70% | ~1,286 |
 | Merciful | 0.40% | ~735 |
 | Time Paradox | 0.40% | ~735 |
 | Five Shadows | 0.30% | ~551 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~184 |
 | Release the Kraken | 0.10% | ~184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183,642 (Ranked 57)  
+Progressed: 183,647 (Ranked 57)  
 Completed: 56 (0.03%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 56 (0.03%) (Ranked 206)
 | 2023-07-03 | 182,956 | 55 |
 | 2023-07-04 | 183,189 | 56 |
 | 2023-07-05 | 183,423 | 56 |
-| 2023-07-06 | 183,642 | 56 |
+| 2023-07-06 | 183,647 | 56 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 182)  
 Sum: 4,694 (Ranked 130)  

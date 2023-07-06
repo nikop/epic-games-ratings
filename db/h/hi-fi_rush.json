@@ -6,8 +6,8 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3410,
+  "EOS_Progressed": 3411,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4077,6 +4077,11 @@
       "Time": "2023-07-06T22:03:19.5192677+00:00",
       "NumProgressed": 3410,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-06T23:02:58.8051846+00:00",
+      "NumProgressed": 3411,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 71,
@@ -4214,9 +4219,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach018",
@@ -4310,9 +4315,9 @@
       "ID": "Ach029",
       "SetID": "12n4k20",
       "Name": "Out in a puff of smoke",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach030",
@@ -4655,13 +4660,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 3410,
+      "Progressed": 3411,
       "Completed": 5
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 1931,
+      "Progressed": 1932,
       "Completed": 1927
     }
   ],
@@ -4669,8 +4674,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:03:19.5192669+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:02:58.8051842+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:59:50.9777038+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:03:19.5193444+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:59:40.2063882+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:02:58.8052617+00:00"
 }

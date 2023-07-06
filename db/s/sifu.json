@@ -5022,7 +5022,7 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 710525,
+  "EOS_Progressed": 710526,
   "EOS_Completed": 12806,
   "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 11,
@@ -12347,6 +12347,11 @@
       "Time": "2023-07-06T22:08:26.6248217+00:00",
       "NumProgressed": 710525,
       "NumCompleted": 12806
+    },
+    {
+      "Time": "2023-07-06T23:07:51.3970047+00:00",
+      "NumProgressed": 710526,
+      "NumCompleted": 12806
     }
   ],
   "TotalAchievements": 50,
@@ -12358,7 +12363,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "02_Vengeance_H1",
@@ -12366,7 +12371,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "03_Vengeance_H2",
@@ -12374,7 +12379,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "04_Vengeance_H3",
@@ -12534,7 +12539,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -12542,7 +12547,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "25_ShrineMind",
@@ -12558,7 +12563,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "27_ShrineBody",
@@ -12622,7 +12627,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "35_WideStrike",
@@ -12748,30 +12753,30 @@
       "ID": "50_Arena_GoldTimePerf",
       "SetID": "14c2oii",
       "Name": "A Touch of Acumen",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 19826,
-      "Completed": 10367
+      "Progressed": 19827,
+      "Completed": 10368
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 710525,
+      "Progressed": 710526,
       "Completed": 12806
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-07-06T13:19:33.9938012+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:08:26.6248213+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:07:51.3970043+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.6693795+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:00:33.2326369+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:08:26.6248877+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:00:25.5512132+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:07:51.3970703+00:00"
 }

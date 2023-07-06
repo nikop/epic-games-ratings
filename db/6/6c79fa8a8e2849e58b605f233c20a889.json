@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1916,
+  "EOS_Progressed": 1917,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -3301,6 +3301,11 @@
       "Time": "2023-07-06T20:05:42.8138693+00:00",
       "NumProgressed": 1916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T23:05:53.1342904+00:00",
+      "NumProgressed": 1917,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -3344,7 +3349,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -3392,7 +3397,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "GLOVE_SLAP",
@@ -3400,7 +3405,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -3424,7 +3429,7 @@
       "Name": "Guard Maker",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -3440,7 +3445,7 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -3448,7 +3453,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -3487,14 +3492,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 1916,
+      "Progressed": 1917,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:06:11.1653385+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:05:53.13429+00:00",
   "LastUpdate_AppInfo": "2023-07-04T17:56:54.4886907+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:57:30.0492991+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:06:11.1653663+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:57:28.1147802+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:05:53.1343175+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5708,
+  "EOS_Progressed": 5709,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -3176,6 +3176,11 @@
       "Time": "2023-07-06T21:06:08.0220151+00:00",
       "NumProgressed": 5708,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-06T23:06:23.6636367+00:00",
+      "NumProgressed": 5709,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -3273,9 +3278,9 @@
       "ID": "CaughtInAct",
       "SetID": "bmkn7o4",
       "Name": "Caught in the Act",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 114
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -3738,21 +3743,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2747,
+      "Progressed": 2748,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 5708,
+      "Progressed": 5709,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:06:34.3127701+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:06:23.6636364+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:22.8529128+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:57:53.7068344+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:06:34.31284+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:57:48.8883977+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:06:23.6637031+00:00"
 }

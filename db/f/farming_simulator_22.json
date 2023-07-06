@@ -6449,7 +6449,7 @@
   ],
   "EOS_Progressed": 45101,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13292,9 +13292,9 @@
       "ID": "FertilizeFirst",
       "SetID": "636ci4d",
       "Name": "Plant get enough",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 27061
+      "UsersEstimate": 27512
     },
     {
       "ID": "Harvested",
@@ -13508,8 +13508,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-07-06T20:01:06.3058867+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:04:30.2226551+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:04:12.8201009+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:49.9264931+00:00",
-  "LastUpdate_Ratings": "2023-07-06T22:01:32.3200136+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:04:30.2227116+00:00"
+  "LastUpdate_Ratings": "2023-07-06T23:01:16.8522174+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:04:12.8201573+00:00"
 }

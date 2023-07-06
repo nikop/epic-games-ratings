@@ -2,20 +2,20 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -168,6 +168,12 @@
     {
       "Time": "2023-06-23T21:58:22.8096837+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-06T22:58:42.5723313+00:00",
+      "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4521,9 +4527,9 @@
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:03:16.2261527+00:00",
+  "LastChanged": "2023-07-06T22:58:42.5723312+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:02:56.0175195+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:58:53.5165267+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:03:16.2261891+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:58:42.5723317+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:02:56.01755+00:00"
 }

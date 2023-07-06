@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64414,
+  "EOS_Progressed": 64418,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4835,6 +4835,11 @@
       "Time": "2023-07-06T22:05:18.8012496+00:00",
       "NumProgressed": 64414,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-07-06T23:05:06.3593165+00:00",
+      "NumProgressed": 64418,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -4854,7 +4859,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -4902,7 +4907,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -4966,7 +4971,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -4998,14 +5003,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 64414,
+      "Progressed": 64418,
       "Completed": 13
     }
   ],
@@ -5013,8 +5018,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:05:18.8012491+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:05:06.3593162+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.3292598+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:58:08.8721922+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:05:18.8012879+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:58:02.1965621+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:05:06.359349+00:00"
 }

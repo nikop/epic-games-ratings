@@ -9,11 +9,11 @@ Number of Ratings: 5,603  (23.09.2022)
 | Lawbringer | 37.00% | ~20,416 |
 | Landlord | 31.00% | ~17,105 |
 | Lawmaker | 22.00% | ~12,139 |
-| Bannerlord | 21.00% | ~11,587 |
-| Horde breaker | 21.00% | ~11,587 |
-| Trained | 21.00% | ~11,587 |
+| Bannerlord | 21.00% | ~11,588 |
+| Horde breaker | 21.00% | ~11,588 |
+| Trained | 21.00% | ~11,588 |
 | The king is pleased | 17.00% | ~9,380 |
-| King Solomon | 16.00% | ~8,828 |
+| King Solomon | 16.00% | ~8,829 |
 | I can do it | 15.00% | ~8,277 |
 | Apple of my eye | 14.00% | ~7,725 |
 | God of the Arena | 12.00% | ~6,621 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | What have the Romans ever done for us? | 9.00% | ~4,966 |
 | Butterlord | 8.00% | ~4,414 |
 | This Is Our Land | 8.00% | ~4,414 |
-| Mastery | 7.00% | ~3,862 |
+| Mastery | 7.00% | ~3,863 |
 | Know your enemy | 6.00% | ~3,311 |
 | Crowdfunded | 4.00% | ~2,207 |
 | Crush your enemies | 4.00% | ~2,207 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,178 (Ranked 82)  
+Progressed: 55,179 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,10 +135,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-03 | 54,912 | 0 |
 | 2023-07-04 | 54,995 | 0 |
 | 2023-07-05 | 55,097 | 0 |
-| 2023-07-06 | 55,178 | 0 |
+| 2023-07-06 | 55,179 | 0 |
 ## Awards
 Max (Character Customization): 6,762  (Ranked 48)  
-Sum: 13,650 (Ranked 67)  
+Sum: 13,654 (Ranked 67)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): -19
 | This game has Amazing Storytelling | 770 |
 | This game is Relaxing | 753 |
 | This game has Amazing Characters | 750 |
-| This game has Quickly Understood Controls | 746 |
+| This game has Quickly Understood Controls | 750 |
 | This game has a Creative Community | 557 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -329,4 +329,4 @@ Diff (max vs sum): -19
 | 2023-07-03 | 4.74 | - | 6,754 | 13,632 |
 | 2023-07-04 | 4.74 | - | 6,754 | 13,634 |
 | 2023-07-05 | 4.74 | - | 6,759 | 13,644 |
-| 2023-07-06 | 4.74 | - | 6,762 | 13,650 |
+| 2023-07-06 | 4.74 | - | 6,762 | 13,654 |

@@ -8,6 +8,7 @@ Rating: 4.87 (Ranked 25)
 | NOW we got a kickass hideout! | 0.60% | ~12 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | Who's the boss now? | 0.30% | ~10 |
+| I play my own way! | 0.30% | ~10 |
 | Who put gears in there? | 0.30% | ~10 |
 | Cream of the Crop | 0.20% | ~7 |
 | This will cost you big time | 0.20% | ~7 |
@@ -15,10 +16,10 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.20% | ~7 |
 | Time to pay up! | 0.20% | ~7 |
 | Thanks for the free chip, Peppermint! | 0.20% | ~7 |
-| I play my own way! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
 | Z-shielding's got nothing on us! | 0.20% | ~7 |
+| Out in a puff of smoke | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |
 | Uh, they were broken when I got here | 0.20% | ~7 |
 | Kissing the sky! | 0.20% | ~7 |
@@ -36,7 +37,6 @@ Rating: 4.87 (Ranked 25)
 | Beat-hit mania | 0.10% | ~3 |
 | You must like calling me in, Chai | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |
-| Out in a puff of smoke | 0.10% | ~3 |
 | This is a breeze! | 0.10% | ~3 |
 | Perfecter Parry-er! | 0.10% | ~3 |
 | That's a lot of junk metal… | 0.10% | ~3 |
@@ -77,8 +77,8 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.00% | ~0 |
 | Low budget finish | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,410 (Ranked 145)  
-Completed: 5 (0.15%) (Ranked 168)  
+Progressed: 3,411 (Ranked 145)  
+Completed: 5 (0.15%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,7 +153,7 @@ Completed: 5 (0.15%) (Ranked 168)
 | 2023-07-03 | 3,395 | 5 |
 | 2023-07-04 | 3,402 | 5 |
 | 2023-07-05 | 3,407 | 5 |
-| 2023-07-06 | 3,410 | 5 |
+| 2023-07-06 | 3,411 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

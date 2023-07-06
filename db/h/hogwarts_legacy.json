@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -4686,9 +4686,9 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 285360,
+  "EOS_Progressed": 285367,
   "EOS_Completed": 418,
-  "EOS_NewPlayers": 3358,
+  "EOS_NewPlayers": 3353,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -12916,6 +12916,11 @@
       "Time": "2023-07-06T22:03:38.8045755+00:00",
       "NumProgressed": 285360,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-07-06T23:03:15.974516+00:00",
+      "NumProgressed": 285367,
+      "NumCompleted": 418
     }
   ],
   "TotalAchievements": 45,
@@ -12967,7 +12972,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 11414
+      "UsersEstimate": 11415
     },
     {
       "ID": "PFA_15",
@@ -13031,7 +13036,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     },
     {
       "ID": "PFA_22",
@@ -13047,7 +13052,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25682
+      "UsersEstimate": 25683
     },
     {
       "ID": "PFA_24",
@@ -13063,7 +13068,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11414
+      "UsersEstimate": 11415
     },
     {
       "ID": "PFA_26",
@@ -13095,7 +13100,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11414
+      "UsersEstimate": 11415
     },
     {
       "ID": "PFA_3",
@@ -13151,7 +13156,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     },
     {
       "ID": "PFA_36",
@@ -13207,7 +13212,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11414
+      "UsersEstimate": 11415
     },
     {
       "ID": "PFA_42",
@@ -13215,7 +13220,7 @@
       "Name": "Raising Expectations",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11414
+      "UsersEstimate": 11415
     },
     {
       "ID": "PFA_43",
@@ -13255,7 +13260,7 @@
       "Name": "First Class Student",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28536
+      "UsersEstimate": 28537
     },
     {
       "ID": "PFA_7",
@@ -13263,7 +13268,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 25682
+      "UsersEstimate": 25683
     },
     {
       "ID": "PFA_8",
@@ -13279,14 +13284,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19975
+      "UsersEstimate": 19976
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 285360,
+      "Progressed": 285367,
       "Completed": 418
     }
   ],
@@ -13294,8 +13299,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-07-06T21:57:56.0253232+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:03:38.8045747+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:03:15.9745154+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.9302914+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:57:56.0253237+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:03:38.8046414+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:57:52.8675896+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:03:15.974582+00:00"
 }

@@ -8,13 +8,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 5.00% | ~991 |
 | Project Arena | 4.00% | ~793 |
-| The Old Grandmaster | 2.00% | ~14,210 |
-| The Assault | 2.00% | ~14,210 |
-| The Hateful Pole Fighter | 2.00% | ~14,210 |
-| Life is your teacher | 2.00% | ~14,210 |
-| State of constant learning | 2.00% | ~14,210 |
-| Qi Gong: Breath | 2.00% | ~14,210 |
-| Lightning Hands | 2.00% | ~14,210 |
+| The Old Grandmaster | 2.00% | ~14,211 |
+| The Assault | 2.00% | ~14,211 |
+| The Hateful Pole Fighter | 2.00% | ~14,211 |
+| Life is your teacher | 2.00% | ~14,211 |
+| State of constant learning | 2.00% | ~14,211 |
+| Qi Gong: Breath | 2.00% | ~14,211 |
+| Lightning Hands | 2.00% | ~14,211 |
 | A Lady's Blood in the Snow | 1.00% | ~7,105 |
 | Lady Wing Chun | 1.00% | ~7,105 |
 | Furious Fists | 1.00% | ~7,105 |
@@ -35,11 +35,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.90% | ~6,395 |
 | Muk Yan Master | 0.70% | ~4,974 |
 | Deadly Venom | 0.70% | ~139 |
+| A Touch of Acumen | 0.70% | ~139 |
 | Tiger on Fire | 0.60% | ~4,263 |
 | Source of Flying Daggers | 0.60% | ~4,263 |
 | Iron Money | 0.60% | ~4,263 |
 | Detective Story | 0.60% | ~4,263 |
-| A Touch of Acumen | 0.60% | ~119 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,553 |
 | Prodigal Child | 0.50% | ~3,553 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,553 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,421 |
 | Warriors from the Mountain | 0.10% | ~711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,525 (Ranked 17)  
+Progressed: 710,526 (Ranked 17)  
 Completed: 12,806 (1.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 12,806 (1.80%) (Ranked 80)
 | 2023-07-03 | 710,440 | 12,803 |
 | 2023-07-04 | 710,478 | 12,804 |
 | 2023-07-05 | 710,500 | 12,805 |
-| 2023-07-06 | 710,525 | 12,806 |
+| 2023-07-06 | 710,526 | 12,806 |
 ## Awards
 Max (Great Boss Battles): 6,239  (Ranked 52)  
 Sum: 10,687 (Ranked 78)  

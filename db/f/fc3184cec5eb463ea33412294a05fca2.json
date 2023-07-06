@@ -99,9 +99,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -123,9 +123,9 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8d3ci0",
       "Name": "Putting challenge",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -195,9 +195,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -210,8 +210,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:05:25.8087434+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:05:12.6616813+00:00",
   "LastUpdate_AppInfo": "2023-07-01T10:57:17.0753347+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:57:10.678505+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:05:25.8087535+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:57:12.6575006+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:05:12.6616914+00:00"
 }

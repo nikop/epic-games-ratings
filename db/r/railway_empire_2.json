@@ -110,9 +110,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1481,
+  "EOS_Progressed": 1482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3000,6 +3000,11 @@
       "Time": "2023-07-06T19:07:17.7839083+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T23:07:52.6555381+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3107,7 +3112,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "A13",
@@ -3115,7 +3120,7 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "A14",
@@ -3123,15 +3128,15 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 474
     },
     {
       "ID": "A16",
@@ -3171,7 +3176,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "A21",
@@ -3203,7 +3208,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "A25",
@@ -3235,7 +3240,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "A29",
@@ -3243,7 +3248,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "A30",
@@ -3251,7 +3256,7 @@
       "Name": "All mine",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "A31",
@@ -3283,7 +3288,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "A35",
@@ -3291,7 +3296,7 @@
       "Name": "Traffic Junction",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "A36",
@@ -3307,7 +3312,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "A38",
@@ -3339,7 +3344,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "A42",
@@ -3355,7 +3360,7 @@
       "Name": "Mole",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "A44",
@@ -3369,17 +3374,17 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 193
     },
     {
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1007
+      "UsersEstimate": 993
     },
     {
       "ID": "A47",
@@ -3403,7 +3408,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "A50",
@@ -3450,7 +3455,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1481,
+      "Progressed": 1482,
       "Completed": 0
     }
   ],
@@ -3458,8 +3463,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-06T14:58:40.3074977+00:00",
-  "LastChanged_Achievements": "2023-07-06T22:08:27.9456697+00:00",
+  "LastChanged_Achievements": "2023-07-06T23:07:52.6555378+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-06T21:59:09.853919+00:00",
-  "LastUpdate_Achievements": "2023-07-06T22:08:27.9457185+00:00"
+  "LastUpdate_Ratings": "2023-07-06T22:58:55.8382665+00:00",
+  "LastUpdate_Achievements": "2023-07-06T23:07:52.6555863+00:00"
 }

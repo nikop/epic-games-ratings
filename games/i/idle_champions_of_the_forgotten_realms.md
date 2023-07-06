@@ -6,31 +6,31 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,120 |
-| The Mad Wizard | 11.00% | ~22,821 |
-| The Ring of Regeneration | 7.00% | ~14,522 |
-| Are Ya Chicken? | 7.00% | ~14,522 |
-| Were-verpowered | 5.00% | ~10,373 |
-| Seeking Allies | 5.00% | ~10,373 |
-| Mad Cow Disease | 5.00% | ~10,373 |
-| Friendly Imps | 5.00% | ~10,373 |
+| The Cursed Farmer | 15.00% | ~31,123 |
+| The Mad Wizard | 11.00% | ~22,823 |
+| The Ring of Regeneration | 7.00% | ~14,524 |
+| Are Ya Chicken? | 7.00% | ~14,524 |
+| Were-verpowered | 5.00% | ~10,374 |
+| Seeking Allies | 5.00% | ~10,374 |
+| Mad Cow Disease | 5.00% | ~10,374 |
+| Friendly Imps | 5.00% | ~10,374 |
 | A Persistent Buzzing | 4.00% | ~8,299 |
 | Pure Energy | 4.00% | ~8,299 |
-| Terror in the Dark | 3.00% | ~6,224 |
-| Unearthed Evil | 3.00% | ~6,224 |
-| The Crumbling Temple | 3.00% | ~6,224 |
-| Exploring Port Nyanzaru | 3.00% | ~6,224 |
-| The Contagious Curse | 3.00% | ~6,224 |
-| Beast Mode | 2.00% | ~4,149 |
-| Low Initiative | 2.00% | ~4,149 |
-| A Mysterious Summons | 2.00% | ~4,149 |
-| Building Trust | 2.00% | ~4,149 |
-| No Time To Rest | 2.00% | ~4,149 |
-| Useless Allies | 2.00% | ~4,149 |
-| Running of the Saurs | 2.00% | ~4,149 |
-| Escort to Waterdeep | 2.00% | ~4,149 |
-| Waterdeep Detours | 2.00% | ~4,149 |
-| Underdeep Cartography | 2.00% | ~4,149 |
+| Terror in the Dark | 3.00% | ~6,225 |
+| Unearthed Evil | 3.00% | ~6,225 |
+| The Crumbling Temple | 3.00% | ~6,225 |
+| Exploring Port Nyanzaru | 3.00% | ~6,225 |
+| The Contagious Curse | 3.00% | ~6,225 |
+| Beast Mode | 2.00% | ~4,150 |
+| Low Initiative | 2.00% | ~4,150 |
+| A Mysterious Summons | 2.00% | ~4,150 |
+| Building Trust | 2.00% | ~4,150 |
+| No Time To Rest | 2.00% | ~4,150 |
+| Useless Allies | 2.00% | ~4,150 |
+| Running of the Saurs | 2.00% | ~4,150 |
+| Escort to Waterdeep | 2.00% | ~4,150 |
+| Waterdeep Detours | 2.00% | ~4,150 |
+| Underdeep Cartography | 2.00% | ~4,150 |
 | Street War | 1.00% | ~2,075 |
 | March of the Undead | 1.00% | ~2,075 |
 | Invisible Shadows | 1.00% | ~2,075 |
@@ -156,22 +156,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.30% | ~521 |
 | The Radiant Nightmare | 0.30% | ~521 |
 | Overwhelming Force | 0.30% | ~622 |
-| The Castle of a Thousand Vecnas | 0.20% | ~347 |
-| The Sanctum of the Sword | 0.20% | ~347 |
-| Get Back In The Castle | 0.20% | ~347 |
-| Checkmate | 0.20% | ~347 |
+| The Castle of a Thousand Vecnas | 0.20% | ~348 |
+| The Sanctum of the Sword | 0.20% | ~348 |
+| Get Back In The Castle | 0.20% | ~348 |
+| Checkmate | 0.20% | ~348 |
 | Struggling Toward Omu | 0.20% | ~415 |
 | Wagon Train | 0.20% | ~415 |
 | Taking Responsibility | 0.20% | ~415 |
 | No Good at All | 0.20% | ~415 |
 | Fall From Grace | 0.20% | ~415 |
 | Never Split the Party | 0.20% | ~415 |
-| Snakes on our Plane | 0.20% | ~347 |
+| Snakes on our Plane | 0.20% | ~348 |
 | The Soulmonger Calls | 0.20% | ~415 |
 | Haunted Fortunes | 0.20% | ~415 |
 | Poor Fortune | 0.20% | ~415 |
 | Relentless Misfortune | 0.20% | ~415 |
-| This Quest Stinks! | 0.20% | ~347 |
+| This Quest Stinks! | 0.20% | ~348 |
 | Form Ranks | 0.20% | ~415 |
 | They Who Smelt It | 0.20% | ~415 |
 | Only the Strong Survive | 0.20% | ~415 |
@@ -179,7 +179,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Intelligence Hunt | 0.20% | ~415 |
 | Visions of Strahd | 0.20% | ~415 |
 | Seeds of Corruption | 0.20% | ~415 |
-| Home Not So Alone | 0.20% | ~347 |
+| Home Not So Alone | 0.20% | ~348 |
 | Think Your Way Out Of It | 0.20% | ~415 |
 | Air's Getting Pretty Thin | 0.20% | ~415 |
 | The Killer Mists | 0.20% | ~415 |
@@ -209,48 +209,48 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.20% | ~415 |
 | Vault of Poison | 0.20% | ~415 |
 | On The Job Learning | 0.20% | ~415 |
-| Strike! | 0.20% | ~347 |
+| Strike! | 0.20% | ~348 |
 | Lost in the Goblin Halls | 0.20% | ~415 |
 | The Twilight Grove | 0.20% | ~415 |
 | Everything is Awful | 0.20% | ~415 |
-| Earthquake! | 0.20% | ~347 |
+| Earthquake! | 0.20% | ~348 |
 | All You Know Is Wrong | 0.20% | ~415 |
-| Shadow Stalkers | 0.20% | ~347 |
+| Shadow Stalkers | 0.20% | ~348 |
 | Twice More Into The Breach | 0.20% | ~415 |
 | Displaced Anger | 0.20% | ~415 |
-| Ettercap Swarm | 0.20% | ~347 |
+| Ettercap Swarm | 0.20% | ~348 |
 | Relay Race | 0.20% | ~415 |
-| An Illithid Ambush | 0.20% | ~347 |
-| A Difficult Descent | 0.20% | ~347 |
-| Dream Gauntlet | 0.20% | ~347 |
-| Zombie Dreams | 0.20% | ~347 |
-| The Path of Redcaps | 0.20% | ~347 |
-| The Path of Trials | 0.20% | ~347 |
-| Elder Rune Attack | 0.20% | ~347 |
-| The Gargoyle | 0.20% | ~347 |
-| Madcap Adventures Redux | 0.20% | ~347 |
-| Raggadragga's Crew | 0.20% | ~347 |
-| Into the Unknown | 0.20% | ~347 |
-| The Prison of Velkynvelve | 0.20% | ~347 |
-| Giant-Size Adventure | 0.20% | ~347 |
-| Enemy Summit | 0.20% | ~347 |
-| Mirage Arcane | 0.20% | ~347 |
-| An Awakened Axe | 0.20% | ~347 |
-| Trench Coat Run | 0.20% | ~347 |
-| Waiting on Sunrise | 0.20% | ~347 |
-| Deekin's Mission | 0.20% | ~347 |
-| Frozen Vengeance | 0.20% | ~347 |
-| The Battle of High Hall Tower | 0.20% | ~347 |
-| Elturel's Last Stand | 0.20% | ~347 |
-| Lost in the Underdark | 0.20% | ~347 |
-| Leemooggoogoon Rises | 0.20% | ~347 |
-| Ending the Rime - Part 1 | 0.20% | ~347 |
-| Ending the Rime - Part 2 | 0.20% | ~347 |
-| Reghed Glacier Mysteries | 0.20% | ~347 |
-| Tekeli-li's Hunt | 0.20% | ~347 |
-| Neutral No More | 0.20% | ~347 |
-| The Rite of the Arcane Octad | 0.20% | ~347 |
-| The Netherese Necropolis | 0.20% | ~347 |
+| An Illithid Ambush | 0.20% | ~348 |
+| A Difficult Descent | 0.20% | ~348 |
+| Dream Gauntlet | 0.20% | ~348 |
+| Zombie Dreams | 0.20% | ~348 |
+| The Path of Redcaps | 0.20% | ~348 |
+| The Path of Trials | 0.20% | ~348 |
+| Elder Rune Attack | 0.20% | ~348 |
+| The Gargoyle | 0.20% | ~348 |
+| Madcap Adventures Redux | 0.20% | ~348 |
+| Raggadragga's Crew | 0.20% | ~348 |
+| Into the Unknown | 0.20% | ~348 |
+| The Prison of Velkynvelve | 0.20% | ~348 |
+| Giant-Size Adventure | 0.20% | ~348 |
+| Enemy Summit | 0.20% | ~348 |
+| Mirage Arcane | 0.20% | ~348 |
+| An Awakened Axe | 0.20% | ~348 |
+| Trench Coat Run | 0.20% | ~348 |
+| Waiting on Sunrise | 0.20% | ~348 |
+| Deekin's Mission | 0.20% | ~348 |
+| Frozen Vengeance | 0.20% | ~348 |
+| The Battle of High Hall Tower | 0.20% | ~348 |
+| Elturel's Last Stand | 0.20% | ~348 |
+| Lost in the Underdark | 0.20% | ~348 |
+| Leemooggoogoon Rises | 0.20% | ~348 |
+| Ending the Rime - Part 1 | 0.20% | ~348 |
+| Ending the Rime - Part 2 | 0.20% | ~348 |
+| Reghed Glacier Mysteries | 0.20% | ~348 |
+| Tekeli-li's Hunt | 0.20% | ~348 |
+| Neutral No More | 0.20% | ~348 |
+| The Rite of the Arcane Octad | 0.20% | ~348 |
+| The Netherese Necropolis | 0.20% | ~348 |
 | Frail Doesn't Mean Broken | 0.10% | ~174 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~174 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,464 (Ranked 52)  
+Progressed: 207,486 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,10 +587,10 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,464 | 2,035 |
+| 2023-07-06 | 207,486 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
-Sum: 30,415 (Ranked 37)  
+Sum: 30,419 (Ranked 37)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -599,7 +599,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,650 |
 | This game is Relaxing | 4,543 |
 | This game has Amazing Characters | 3,996 |
-| This game is Highly Recommended | 3,987 |
+| This game is Highly Recommended | 3,991 |
 | This game has Playful Visuals | 3,291 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -765,4 +765,4 @@ Diff (max vs sum): 28
 | 2023-07-03 | 4.05 | - | 5,000 | 30,374 |
 | 2023-07-04 | 4.05 | - | 5,000 | 30,380 |
 | 2023-07-05 | 4.05 | - | 5,005 | 30,400 |
-| 2023-07-06 | 4.05 | - | 5,009 | 30,415 |
+| 2023-07-06 | 4.05 | - | 5,009 | 30,419 |
