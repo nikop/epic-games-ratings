@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -822,10 +822,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-07-06T15:58:45.5184457+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 365,
+  "NumberOfAwards": 367,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -839,7 +845,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5711,9 +5717,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-06T14:58:26.0498288+00:00",
-  "LastChanged_Achievements": "2023-07-06T15:06:11.1484407+00:00",
+  "LastChanged": "2023-07-06T15:58:45.5184455+00:00",
+  "LastChanged_Achievements": "2023-07-06T16:06:28.8796505+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-06T14:58:26.0498294+00:00",
-  "LastUpdate_Achievements": "2023-07-06T15:06:11.1485131+00:00"
+  "LastUpdate_Ratings": "2023-07-06T15:58:45.5184461+00:00",
+  "LastUpdate_Achievements": "2023-07-06T16:06:28.8797156+00:00"
 }

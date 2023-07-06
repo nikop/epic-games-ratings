@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2495,
+  "EOS_Progressed": 2496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2961,6 +2961,11 @@
       "Time": "2023-07-06T14:06:46.9383205+00:00",
       "NumProgressed": 2495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T16:07:33.4948169+00:00",
+      "NumProgressed": 2496,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2972,7 +2977,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_BING-BONG",
@@ -3076,7 +3081,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -3348,22 +3353,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2495,
+      "Progressed": 2496,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-04T13:59:08.8445697+00:00",
-  "LastChanged_Achievements": "2023-07-06T15:07:23.4598224+00:00",
+  "LastChanged_Achievements": "2023-07-06T16:07:33.4948164+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:59.8470541+00:00",
-  "LastUpdate_Ratings": "2023-07-06T14:59:51.3386707+00:00",
-  "LastUpdate_Achievements": "2023-07-06T15:07:23.4598787+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:00:14.3015952+00:00",
+  "LastUpdate_Achievements": "2023-07-06T16:07:33.4948612+00:00"
 }

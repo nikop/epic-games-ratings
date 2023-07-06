@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6669,
+  "EOS_Progressed": 6671,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -4321,6 +4321,11 @@
       "Time": "2023-07-06T15:02:00.8979571+00:00",
       "NumProgressed": 6669,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-07-06T16:02:19.1133621+00:00",
+      "NumProgressed": 6671,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 21,
@@ -4412,7 +4417,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "HISTORIAN",
@@ -4460,7 +4465,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "SNIP_SNIP",
@@ -4499,7 +4504,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6669,
+      "Progressed": 6671,
       "Completed": 28
     }
   ],
@@ -4507,8 +4512,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-06-23T21:58:22.8096835+00:00",
-  "LastChanged_Achievements": "2023-07-06T15:02:00.8979564+00:00",
+  "LastChanged_Achievements": "2023-07-06T16:02:19.1133616+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.3635213+00:00",
-  "LastUpdate_Ratings": "2023-07-06T14:58:28.3264915+00:00",
-  "LastUpdate_Achievements": "2023-07-06T15:02:00.898007+00:00"
+  "LastUpdate_Ratings": "2023-07-06T15:58:47.5178984+00:00",
+  "LastUpdate_Achievements": "2023-07-06T16:02:19.1134036+00:00"
 }

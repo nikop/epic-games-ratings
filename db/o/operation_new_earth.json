@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1181,6 +1181,11 @@
       "Time": "2023-07-06T14:05:04.3240198+00:00",
       "NumProgressed": 348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T16:05:11.0548356+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1200,7 +1205,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_defeat_players_10",
@@ -1256,7 +1261,7 @@
       "Name": "Silver Competitor",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -1294,9 +1299,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1352,7 +1357,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -1360,7 +1365,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -1368,7 +1373,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1376,7 +1381,7 @@
       "Name": "Covert Operative",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1392,7 +1397,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -1440,7 +1445,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -1448,7 +1453,7 @@
       "Name": "Defenses Online",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1464,7 +1469,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -1495,14 +1500,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-06T15:05:06.9376269+00:00",
+  "LastChanged_Achievements": "2023-07-06T16:05:11.0548349+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:01:36.6423358+00:00",
-  "LastUpdate_Achievements": "2023-07-06T15:05:06.9376643+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:01:54.4880043+00:00",
+  "LastUpdate_Achievements": "2023-07-06T16:05:11.0548701+00:00"
 }

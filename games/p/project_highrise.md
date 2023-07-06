@@ -17,8 +17,8 @@
 | Proper Walls | 31.00% | ~71 |
 | Destination Destiny | 28.00% | ~64 |
 | Happy Tenants | 26.00% | ~60 |
+| Your Prestige is Rising | 24.00% | ~55 |
 | Smooth Service | 24.00% | ~55 |
-| Your Prestige is Rising | 23.00% | ~53 |
 | Potent Potables | 23.00% | ~53 |
 | Retail Revenue | 23.00% | ~53 |
 | Lux Living | 22.00% | ~51 |
@@ -32,12 +32,12 @@
 | Tasty Profits | 19.00% | ~44 |
 | We Don't Need No Education | 19.00% | ~44 |
 | Under One Roof | 17.00% | ~39 |
+| Cashflow Chief | 17.00% | ~39 |
 | Established Fame | 16.00% | ~37 |
-| Cashflow Chief | 16.00% | ~37 |
 | Starred Dining | 15.00% | ~34 |
 | Boutique Benefits | 15.00% | ~34 |
 | Terrifically Trashed | 15.00% | ~34 |
-| Thrilled Tenants | 14.00% | ~32 |
+| Thrilled Tenants | 15.00% | ~34 |
 | Smooth Operator | 13.00% | ~30 |
 | 28 Days Later | 12.00% | ~28 |
 | Swimming in Surplus | 12.00% | ~28 |

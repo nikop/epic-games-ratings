@@ -1338,9 +1338,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1474,9 +1474,9 @@
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_NEST1",
@@ -1522,8 +1522,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-06T15:03:54.091876+00:00",
+  "LastChanged_Achievements": "2023-07-06T16:03:44.0220615+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.8436702+00:00",
-  "LastUpdate_Ratings": "2023-07-06T14:57:53.9910994+00:00",
-  "LastUpdate_Achievements": "2023-07-06T15:03:54.0919417+00:00"
+  "LastUpdate_Ratings": "2023-07-06T15:58:06.3240679+00:00",
+  "LastUpdate_Achievements": "2023-07-06T16:03:44.0221439+00:00"
 }
