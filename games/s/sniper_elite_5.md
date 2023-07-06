@@ -27,11 +27,11 @@ Rating: 4.45 (Ranked 621)
 | Brains of the Operation | 0.80% | ~26 |
 | Skirmisher | 0.70% | ~23 |
 | Set Europe Ablaze | 0.70% | ~23 |
+| Precision Is Key | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
 | Explosive Efficiency | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
 | Enemy at the Gates | 0.60% | ~19 |
-| Precision Is Key | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
 | Close Quarters | 0.60% | ~19 |
 | Fields of Glory | 0.50% | ~16 |
@@ -42,6 +42,7 @@ Rating: 4.45 (Ranked 621)
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
+| Strategist | 0.30% | ~10 |
 | From Paris with Love | 0.30% | ~10 |
 | Burn after reading | 0.30% | ~10 |
 | Souvenir hunter | 0.30% | ~10 |
@@ -52,7 +53,6 @@ Rating: 4.45 (Ranked 621)
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |
 | Fight Another Day | 0.30% | ~10 |
-| Strategist | 0.20% | ~6 |
 | Master of Secondaries | 0.20% | ~6 |
 | Master of Rifles | 0.20% | ~6 |
 | Out of Scope | 0.20% | ~6 |

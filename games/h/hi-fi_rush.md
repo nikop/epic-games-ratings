@@ -10,6 +10,7 @@ Rating: 4.87 (Ranked 25)
 | The Negotiator | 0.20% | ~7 |
 | Time to pay up! | 0.20% | ~7 |
 | Who's the boss now? | 0.20% | ~7 |
+| Thanks for the free chip, Peppermint! | 0.20% | ~7 |
 | I play my own way! | 0.20% | ~7 |
 | You got this, Peppermint? | 0.20% | ~7 |
 | Who put gears in there? | 0.20% | ~7 |
@@ -21,7 +22,6 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
-| Thanks for the free chip, Peppermint! | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
 | Whoa! There's ANOTHER health bar!? | 0.10% | ~3 |
 | I have to read these things? | 0.10% | ~3 |
@@ -41,6 +41,7 @@ Rating: 4.87 (Ranked 25)
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
+| I hit things with a guitar really well. | 0.10% | ~3 |
 | You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | Does that say weakpoint? | 0.10% | ~3 |
@@ -64,7 +65,6 @@ Rating: 4.87 (Ranked 25)
 | What a journey it was... | 0.00% | ~0 |
 | This was... not what I expected. | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |
-| I hit things with a guitar really well. | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
 | I told you I'd be fine, Peppermint! | 0.00% | ~0 |
 | You ever parry a volcano? | 0.00% | ~0 |

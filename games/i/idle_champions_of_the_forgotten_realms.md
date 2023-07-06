@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,079 |
-| The Mad Wizard | 11.00% | ~22,791 |
-| The Ring of Regeneration | 7.00% | ~14,503 |
-| Are Ya Chicken? | 7.00% | ~14,503 |
-| Were-verpowered | 5.00% | ~10,360 |
-| Seeking Allies | 5.00% | ~10,360 |
-| Mad Cow Disease | 5.00% | ~10,360 |
-| Friendly Imps | 5.00% | ~10,360 |
-| A Persistent Buzzing | 4.00% | ~8,288 |
-| Pure Energy | 4.00% | ~8,288 |
-| Terror in the Dark | 3.00% | ~6,216 |
-| Unearthed Evil | 3.00% | ~6,216 |
-| The Crumbling Temple | 3.00% | ~6,216 |
-| Exploring Port Nyanzaru | 3.00% | ~6,216 |
-| The Contagious Curse | 3.00% | ~6,216 |
+| The Cursed Farmer | 15.00% | ~31,083 |
+| The Mad Wizard | 11.00% | ~22,794 |
+| The Ring of Regeneration | 7.00% | ~14,505 |
+| Are Ya Chicken? | 7.00% | ~14,505 |
+| Were-verpowered | 5.00% | ~10,361 |
+| Seeking Allies | 5.00% | ~10,361 |
+| Mad Cow Disease | 5.00% | ~10,361 |
+| Friendly Imps | 5.00% | ~10,361 |
+| A Persistent Buzzing | 4.00% | ~8,289 |
+| Pure Energy | 4.00% | ~8,289 |
+| Terror in the Dark | 3.00% | ~6,217 |
+| Unearthed Evil | 3.00% | ~6,217 |
+| The Crumbling Temple | 3.00% | ~6,217 |
+| Exploring Port Nyanzaru | 3.00% | ~6,217 |
+| The Contagious Curse | 3.00% | ~6,217 |
 | Beast Mode | 2.00% | ~4,144 |
 | Low Initiative | 2.00% | ~4,144 |
 | A Mysterious Summons | 2.00% | ~4,144 |
@@ -56,13 +56,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.80% | ~1,658 |
 | Lost in the Deep | 0.80% | ~1,658 |
 | Easily Distracted | 0.80% | ~1,658 |
-| Captured! | 0.70% | ~1,450 |
-| A Grand Puzzle | 0.70% | ~1,450 |
-| The Mists of Ravenloft | 0.70% | ~1,450 |
-| Treasure Hunters | 0.70% | ~1,450 |
-| Nimble Escape | 0.70% | ~1,450 |
+| Captured! | 0.70% | ~1,451 |
+| A Grand Puzzle | 0.70% | ~1,451 |
+| The Mists of Ravenloft | 0.70% | ~1,451 |
+| Treasure Hunters | 0.70% | ~1,451 |
+| Nimble Escape | 0.70% | ~1,451 |
 | The Giant's Bane Tavern | 0.70% | ~1,214 |
-| The Haunted Jungle | 0.70% | ~1,450 |
+| Rude Welcome | 0.70% | ~1,451 |
+| The Haunted Jungle | 0.70% | ~1,451 |
 | Tomb of the Nine Gods | 0.60% | ~1,243 |
 | Family Entanglements | 0.60% | ~1,243 |
 | The Immortal Warrior | 0.60% | ~1,243 |
@@ -72,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.60% | ~1,243 |
 | The Darkness Runs Deeper | 0.60% | ~1,243 |
 | Market Fluctuations | 0.60% | ~1,243 |
-| Rude Welcome | 0.60% | ~1,243 |
 | Durable Deep | 0.60% | ~1,243 |
 | Force Grey Unleashed | 0.50% | ~1,036 |
 | Sleuth It Out | 0.50% | ~1,036 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,191 (Ranked 52)  
+Progressed: 207,220 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,191 | 2,035 |
+| 2023-07-06 | 207,220 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,409 (Ranked 37)  

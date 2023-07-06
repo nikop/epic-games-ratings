@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.41 (Ranked 673)  
+Rating: 4.44 (Ranked 640)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.41 (Ranked 673)
 | Departure | 72.00% | ~1,063 |
 | From X to Y | 71.00% | ~1,048 |
 | Way of Iron | 70.00% | ~1,033 |
-| Mystery Tour | 67.00% | ~989 |
+| Mystery Tour | 68.00% | ~1,004 |
 | We brake for nobody | 66.00% | ~974 |
 | Brainstorm | 65.00% | ~959 |
 | Travel Company | 65.00% | ~959 |
@@ -43,8 +43,8 @@ Rating: 4.41 (Ranked 673)
 | Locusts | 16.00% | ~236 |
 | Networker | 16.00% | ~236 |
 | Resistance is futile | 15.00% | ~221 |
+| Settler | 14.00% | ~207 |
 | Max Power | 13.00% | ~192 |
-| Settler | 13.00% | ~192 |
 | Go West | 12.00% | ~177 |
 | Bold and beautiful | 11.00% | ~162 |
 | A new Hope | 9.00% | ~133 |

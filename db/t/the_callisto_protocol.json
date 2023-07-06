@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -816,10 +816,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 364,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-07-06T14:58:26.049829+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 364,
+  "NumberOfAwards": 365,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -863,13 +869,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 15648,
+  "EOS_Progressed": 15649,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 62,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 63,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -5301,6 +5307,11 @@
       "Time": "2023-07-06T14:05:56.2011455+00:00",
       "NumProgressed": 15648,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-07-06T15:06:11.1484412+00:00",
+      "NumProgressed": 15649,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 47,
@@ -5664,7 +5675,7 @@
       "Name": "Keep Fighting",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -5678,31 +5689,31 @@
       "ID": "LOCK_UNDER_7SEC",
       "SetID": "6j5ggkc",
       "Name": "Quick Pick",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15648,
+      "Progressed": 15649,
       "Completed": 64
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3574,
+      "Progressed": 3575,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-07-04T19:58:31.8276242+00:00",
-  "LastChanged_Achievements": "2023-07-06T14:05:56.2011447+00:00",
+  "LastChanged": "2023-07-06T14:58:26.0498288+00:00",
+  "LastChanged_Achievements": "2023-07-06T15:06:11.1484407+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:58:33.3285504+00:00",
-  "LastUpdate_Achievements": "2023-07-06T14:05:56.2012193+00:00"
+  "LastUpdate_Ratings": "2023-07-06T14:58:26.0498294+00:00",
+  "LastUpdate_Achievements": "2023-07-06T15:06:11.1485131+00:00"
 }

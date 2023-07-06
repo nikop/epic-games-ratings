@@ -6,23 +6,23 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,063 |
-| Leader | 61.00% | ~4,350 |
-| Explorer | 53.00% | ~3,779 |
-| Healer | 53.00% | ~3,779 |
+| First Step | 71.00% | ~5,064 |
+| Leader | 61.00% | ~4,351 |
+| Explorer | 53.00% | ~3,780 |
+| Healer | 53.00% | ~3,780 |
 | Aspiring Inventor | 44.00% | ~3,138 |
 | Adventurer | 41.00% | ~2,924 |
 | Famous Healer | 38.00% | ~2,710 |
 | Local Leader | 35.00% | ~2,496 |
 | Famous Explorer | 34.00% | ~2,425 |
 | New Opportunities | 34.00% | ~2,425 |
-| Energized | 33.00% | ~2,353 |
-| The Long Haul | 33.00% | ~2,353 |
+| Energized | 33.00% | ~2,354 |
+| The Long Haul | 33.00% | ~2,354 |
 | Survivor | 32.00% | ~2,282 |
 | The Great Healer | 31.00% | ~2,211 |
 | Cleaner | 28.00% | ~1,997 |
 | Catastrofan | 28.00% | ~1,997 |
-| Legendary Explorer | 27.00% | ~1,925 |
+| Legendary Explorer | 27.00% | ~1,926 |
 | Finders, Keepers | 26.00% | ~1,854 |
 | Top Notch | 25.00% | ~1,783 |
 | Ice Lakes | 23.00% | ~1,640 |
@@ -42,8 +42,8 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~856 |
 | It's a Finnish Thing | 10.00% | ~713 |
 | Sky Burial | 9.00% | ~642 |
-| Trader | 8.00% | ~570 |
-| Bread and Circuses | 8.00% | ~570 |
+| Trader | 8.00% | ~571 |
+| Bread and Circuses | 8.00% | ~571 |
 | New Eden | 7.00% | ~499 |
 | Tailored to fit | 7.00% | ~499 |
 | Really Friendly | 6.00% | ~428 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,131 (Ranked 123)  
+Progressed: 7,132 (Ranked 123)  
 Completed: 0 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 234)
 | 2023-07-03 | 7,060 | 0 |
 | 2023-07-04 | 7,088 | 0 |
 | 2023-07-05 | 7,116 | 0 |
-| 2023-07-06 | 7,131 | 0 |
+| 2023-07-06 | 7,132 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
 Sum: 674 (Ranked 272)  

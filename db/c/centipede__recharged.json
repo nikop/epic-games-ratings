@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15228,
+  "EOS_Progressed": 15229,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -6246,6 +6246,11 @@
       "Time": "2023-07-06T13:22:46.3929341+00:00",
       "NumProgressed": 15228,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-07-06T15:03:22.8636599+00:00",
+      "NumProgressed": 15229,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 16,
@@ -6305,7 +6310,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -6353,7 +6358,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Sole_Survivor",
@@ -6361,7 +6366,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5634
+      "UsersEstimate": 5635
     },
     {
       "ID": "Still_Burning",
@@ -6384,15 +6389,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 15228,
+      "Progressed": 15229,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-26T21:58:51.5297179+00:00",
-  "LastChanged_Achievements": "2023-07-06T14:03:28.127606+00:00",
+  "LastChanged_Achievements": "2023-07-06T15:03:22.8636594+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:54.2238354+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:59:36.7970099+00:00",
-  "LastUpdate_Achievements": "2023-07-06T14:03:28.1276802+00:00"
+  "LastUpdate_Ratings": "2023-07-06T14:59:42.5871079+00:00",
+  "LastUpdate_Achievements": "2023-07-06T15:03:22.8637137+00:00"
 }

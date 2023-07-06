@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -702,7 +702,7 @@
   ],
   "EOS_Progressed": 6347,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3577,9 +3577,9 @@
       "ID": "ISONZO_ACH_TUTTI_EROI",
       "SetID": "akchbl3",
       "Name": "Tutti Eroi!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3427
+      "UsersEstimate": 3491
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -3618,8 +3618,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-07-04T13:15:35.7816607+00:00",
-  "LastChanged_Achievements": "2023-07-06T14:04:29.5563111+00:00",
+  "LastChanged_Achievements": "2023-07-06T15:04:24.266289+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.8690584+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:58:01.4764097+00:00",
-  "LastUpdate_Achievements": "2023-07-06T14:04:29.5563711+00:00"
+  "LastUpdate_Ratings": "2023-07-06T14:57:52.4092338+00:00",
+  "LastUpdate_Achievements": "2023-07-06T15:04:24.2663489+00:00"
 }

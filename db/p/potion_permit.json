@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -1540,9 +1540,9 @@
       "ID": "ACHIEVEMENTS_13",
       "SetID": "d4o538a",
       "Name": "Line Cook",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -1757,8 +1757,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-06-25T23:02:11.750442+00:00",
-  "LastChanged_Achievements": "2023-07-06T14:04:29.344462+00:00",
+  "LastChanged_Achievements": "2023-07-06T15:04:23.8220392+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.9908371+00:00",
-  "LastUpdate_Ratings": "2023-07-06T14:00:56.0222938+00:00",
-  "LastUpdate_Achievements": "2023-07-06T14:04:29.3445031+00:00"
+  "LastUpdate_Ratings": "2023-07-06T15:01:35.975523+00:00",
+  "LastUpdate_Achievements": "2023-07-06T15:04:23.8220797+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.19 (Ranked 844)
 | ---- | ---------- | ----- |
 | Get a Grip | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
-| Keep Fighting | 2.00% | ~71 |
+| Keep Fighting | 2.00% | ~72 |
 | You Need a Gun | 1.00% | ~156 |
 | Flesh Wound | 1.00% | ~156 |
 | I Do Belong Here | 1.00% | ~156 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 844)
 | Armed to the Teeth | 0.30% | ~11 |
 | Grim Reaper | 0.30% | ~47 |
 | Information Overload | 0.30% | ~11 |
+| Quick Pick | 0.30% | ~11 |
 | Parole Denied | 0.20% | ~7 |
-| Quick Pick | 0.20% | ~7 |
 | It's over, Jacob! | 0.10% | ~16 |
 | The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,648 (Ranked 107)  
+Progressed: 15,649 (Ranked 107)  
 Completed: 64 (0.41%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 64 (0.41%) (Ranked 134)
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
 | 2023-07-05 | 15,644 | 64 |
-| 2023-07-06 | 15,648 | 64 |
+| 2023-07-06 | 15,649 | 64 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
-Sum: 364 (Ranked 319)  
+Sum: 365 (Ranked 319)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 60
 | This game has Quickly Understood Controls | 56 |
 | This game is Extremely Fun | 51 |
 | This game has Challenging Combat | 47 |
-| This game has a Creative Community | 23 |
+| This game has a Creative Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -230,3 +230,4 @@ Diff (max vs sum): 60
 | 2023-07-02 | 4.19 | 63 | 356 |
 | 2023-07-03 | 4.19 | 63 | 358 |
 | 2023-07-04 | 4.19 | 64 | 364 |
+| 2023-07-06 | 4.19 | 64 | 365 |

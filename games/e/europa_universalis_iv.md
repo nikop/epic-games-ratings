@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~5,948 |
-| That's a Grand Army | 8.00% | ~5,287 |
-| That is mine! | 8.00% | ~5,287 |
-| Victorious! | 8.00% | ~5,287 |
-| Brothers in Arms | 6.00% | ~3,965 |
-| That's a Grand Navy | 6.00% | ~3,965 |
-| Seriously?! | 6.00% | ~3,965 |
-| For the Glory | 5.00% | ~3,304 |
-| Cold War | 4.00% | ~2,644 |
-| True Catholic | 4.00% | ~2,644 |
+| Until death do us apart | 9.00% | ~5,950 |
+| That's a Grand Army | 8.00% | ~5,289 |
+| That is mine! | 8.00% | ~5,289 |
+| Victorious! | 8.00% | ~5,289 |
+| Brothers in Arms | 6.00% | ~3,967 |
+| That's a Grand Navy | 6.00% | ~3,967 |
+| Seriously?! | 6.00% | ~3,967 |
+| For the Glory | 5.00% | ~3,306 |
+| Cold War | 4.00% | ~2,645 |
+| True Catholic | 4.00% | ~2,645 |
 | Defender of the Faith | 3.00% | ~1,983 |
 | It's all about the money | 3.00% | ~1,983 |
 | Respected | 3.00% | ~1,983 |
@@ -53,11 +53,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.60% | ~397 |
 | This is My Faith | 0.60% | ~397 |
 | Time Bandit | 0.60% | ~397 |
-| Absolutely | 0.50% | ~330 |
-| Grand Coalition | 0.50% | ~330 |
-| Ruina Imperii | 0.50% | ~330 |
-| Trophy Hunter | 0.50% | ~330 |
-| Voting Streak | 0.50% | ~330 |
+| Absolutely | 0.50% | ~331 |
+| Grand Coalition | 0.50% | ~331 |
+| Ruina Imperii | 0.50% | ~331 |
+| Trophy Hunter | 0.50% | ~331 |
+| Voting Streak | 0.50% | ~331 |
 | All Your Trade Are Belong to Us | 0.40% | ~264 |
 | Bleed Them Dry | 0.40% | ~264 |
 | Dude, Where's my Boat? | 0.40% | ~264 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,089 (Ranked 74)  
+Progressed: 66,116 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 0 (0.00%) (Ranked 234)
 | 2023-07-03 | 65,042 | 0 |
 | 2023-07-04 | 65,470 | 0 |
 | 2023-07-05 | 65,889 | 0 |
-| 2023-07-06 | 66,089 | 0 |
+| 2023-07-06 | 66,116 | 0 |
 ## Awards
 Max (Educational): 5,511  (Ranked 60)  
 Sum: 45,459 (Ranked 27)  

@@ -9,7 +9,7 @@ Rating: 4.58 (Ranked 423)
 | Fetch Quest Complete | 90.00% | ~580 |
 | I can't wait! | 83.00% | ~535 |
 | Swish | 56.00% | ~361 |
-| Clean up on Aisle 9 | 39.00% | ~251 |
+| Clean up on Aisle 9 | 40.00% | ~258 |
 | Machine Maxed | 30.00% | ~193 |
 | Bug Fixer | 25.00% | ~161 |
 | Existential dread | 25.00% | ~161 |
