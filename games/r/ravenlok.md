@@ -21,7 +21,7 @@
 | Piece of Cake | 42.00% | ~435 |
 | Glimmer of Hope | 42.00% | ~435 |
 | Gooey Delight! | 41.00% | ~425 |
-| Teacups for Toppy | 40.00% | ~414 |
+| Teacups for Toppy | 41.00% | ~425 |
 | Well Rested | 40.00% | ~414 |
 | Nightmare Fuel | 39.00% | ~404 |
 | Take Heart | 39.00% | ~404 |

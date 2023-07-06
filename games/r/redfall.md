@@ -35,11 +35,11 @@ Rating: 3.53 (Ranked 948)
 | Contingency Plans | 4.00% | ~68 |
 | Sic Transit Umbra | 4.00% | ~68 |
 | Silence Is Golden | 4.00% | ~68 |
+| Good Morning | 4.00% | ~68 |
 | Check, Please! | 4.00% | ~68 |
 | Right This Way | 4.00% | ~68 |
 | Nice Try | 4.00% | ~68 |
 | Enemy of My Enemy | 4.00% | ~68 |
-| Good Morning | 3.00% | ~51 |
 | Harvest’s End | 3.00% | ~51 |
 | Blacklight Down | 3.00% | ~51 |
 | Curious Finch | 3.00% | ~51 |
@@ -73,7 +73,7 @@ Rating: 3.53 (Ranked 948)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,711 (Ranked 166)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

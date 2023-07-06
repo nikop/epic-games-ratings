@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -766,9 +766,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2496,
+  "EOS_Progressed": 2497,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2966,6 +2966,11 @@
       "Time": "2023-07-06T16:07:33.4948169+00:00",
       "NumProgressed": 2496,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T20:07:34.3924771+00:00",
+      "NumProgressed": 2497,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -2999,9 +3004,9 @@
       "ID": "ACH_COMMENCE-THE-HIJINX",
       "SetID": "72olkc5",
       "Name": "Commence the Hijinx!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -3343,9 +3348,9 @@
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
       "SetID": "72olkc5",
       "Name": "Welcome to the family",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 474
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -3360,15 +3365,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2496,
+      "Progressed": 2497,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-07-04T13:59:08.8445697+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:07:14.9187087+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:07:34.3924765+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:59.8470541+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:59:59.4527127+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:07:14.9187651+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:00:20.8407347+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:07:34.3925313+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -2685,9 +2685,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -2990,8 +2990,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-06-28T16:57:46.39466+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:05:45.1902126+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:06:06.9791957+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:30.1069388+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:57:50.7692174+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:05:45.1902682+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:58:05.2450864+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:06:06.979253+00:00"
 }

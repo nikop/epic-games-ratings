@@ -3,12 +3,12 @@
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 780,
-  "Ranking_Popularity": 413,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 490,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -727,6 +727,6 @@
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
   "LastChanged": "2023-07-01T05:59:04.687233+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:58.1599225+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:59:55.8033168+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:06:13.2921963+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:00:16.8504789+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:06:23.9973273+00:00"
 }

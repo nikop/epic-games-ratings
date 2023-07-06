@@ -1,14 +1,14 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.67 (Ranked 260)  
+Rating: 4.67 (Ranked 259)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 57.00% | ~1,423 |
 | Keeping it classy | 26.00% | ~649 |
-| Welcome to the family | 19.00% | ~474 |
+| Welcome to the family | 20.00% | ~499 |
 | The finer things in life | 17.00% | ~424 |
 | Backpacker | 12.00% | ~300 |
 | Go with the Flow | 12.00% | ~300 |
@@ -23,6 +23,7 @@ Number of Ratings: 111  (23.09.2022)
 | That pinch! | 6.00% | ~150 |
 | Tight lipslides | 6.00% | ~150 |
 | Bottom ply killer | 5.00% | ~125 |
+| Commence the Hijinx! | 5.00% | ~125 |
 | Fulfilled the dream | 5.00% | ~125 |
 | G'Day Mate! | 5.00% | ~125 |
 | Globetrotter | 5.00% | ~125 |
@@ -30,7 +31,6 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~125 |
 | Squad goals | 5.00% | ~125 |
 | Sup widdit big dog! | 5.00% | ~125 |
-| Commence the Hijinx! | 4.00% | ~100 |
 | Cops called! | 4.00% | ~100 |
 | DIY Boss | 4.00% | ~100 |
 | G.O.A.T. status | 4.00% | ~100 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,496 (Ranked 156)  
-Completed: 0 (0.00%) (Ranked 235)  
+Progressed: 2,497 (Ranked 156)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-01 | 2,490 | 0 |
 | 2023-07-02 | 2,491 | 0 |
 | 2023-07-03 | 2,494 | 0 |
-| 2023-07-06 | 2,496 | 0 |
+| 2023-07-06 | 2,497 | 0 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 397)  
 Sum: 433 (Ranked 304)  

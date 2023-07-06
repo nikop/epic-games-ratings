@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.66 (Ranked 272)  
+Rating: 4.66 (Ranked 271)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.66 (Ranked 272)
 | Girl Power | 45.00% | ~2,051 |
 | What goes around... | 41.00% | ~1,869 |
 | Be Prepared | 36.00% | ~1,641 |
-| Unbreakable | 34.00% | ~1,550 |
+| Unbreakable | 35.00% | ~1,595 |
 | Atomic drill | 32.00% | ~1,459 |
 | This is the end | 32.00% | ~1,459 |
 | Gotta get 'em all | 31.00% | ~1,413 |

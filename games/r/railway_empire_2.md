@@ -13,8 +13,8 @@ Rating: 4.44 (Ranked 640)
 | Mystery Tour | 67.00% | ~992 |
 | We brake for nobody | 66.00% | ~977 |
 | Brainstorm | 65.00% | ~963 |
+| Travel Company | 65.00% | ~963 |
 | Mind the Gap | 64.00% | ~948 |
-| Travel Company | 64.00% | ~948 |
 | All around the World | 62.00% | ~918 |
 | Right through the middle | 56.00% | ~829 |
 | Facility Manager | 54.00% | ~800 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 640)
 | Three Cheers for Progress | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,481 (Ranked 170)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

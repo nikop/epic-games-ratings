@@ -22,8 +22,8 @@ Rating: 4.45 (Ranked 621)
 | Change the Channel | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | Organ Grinder | 0.90% | ~29 |
+| Der Geist | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
-| Der Geist | 0.80% | ~26 |
 | Brains of the Operation | 0.80% | ~26 |
 | Skirmisher | 0.70% | ~23 |
 | Set Europe Ablaze | 0.70% | ~23 |

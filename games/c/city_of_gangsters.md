@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 801)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~150,831 |
-| Copacetic Coordination | 16.00% | ~52,463 |
-| Fronting the Money | 14.00% | ~45,905 |
-| The Dawn of Automation | 14.00% | ~45,905 |
-| Extraordinary Logistics | 14.00% | ~45,905 |
-| Dirty Money | 13.00% | ~42,626 |
-| Family First | 13.00% | ~42,626 |
-| Cleaning House | 12.00% | ~39,347 |
-| Room in the Back | 12.00% | ~39,347 |
-| Booze Baron | 11.00% | ~36,068 |
-| Beating the Heat | 10.00% | ~32,789 |
-| Friends on the Force | 10.00% | ~32,789 |
-| Neighborhood Watch | 10.00% | ~32,789 |
-| Core Corps | 8.00% | ~26,232 |
-| Sizeable Stash | 7.00% | ~22,953 |
-| Street Fighter | 7.00% | ~22,953 |
-| Friendly Gestures | 7.00% | ~22,953 |
-| People Person | 7.00% | ~22,953 |
+| Corner Clout | 46.00% | ~150,838 |
+| Copacetic Coordination | 16.00% | ~52,465 |
+| Fronting the Money | 14.00% | ~45,907 |
+| The Dawn of Automation | 14.00% | ~45,907 |
+| Extraordinary Logistics | 14.00% | ~45,907 |
+| Dirty Money | 13.00% | ~42,628 |
+| Family First | 13.00% | ~42,628 |
+| Cleaning House | 12.00% | ~39,349 |
+| Room in the Back | 12.00% | ~39,349 |
+| Booze Baron | 11.00% | ~36,070 |
+| Beating the Heat | 10.00% | ~32,791 |
+| Friends on the Force | 10.00% | ~32,791 |
+| Neighborhood Watch | 10.00% | ~32,791 |
+| Core Corps | 8.00% | ~26,233 |
+| Sizeable Stash | 7.00% | ~22,954 |
+| Street Fighter | 7.00% | ~22,954 |
+| Friendly Gestures | 7.00% | ~22,954 |
+| People Person | 7.00% | ~22,954 |
 | Liquor Lord | 6.00% | ~19,674 |
 | Safety in Numbers | 6.00% | ~19,674 |
 | Show ‘em the Sugar | 6.00% | ~19,674 |
@@ -86,8 +86,8 @@ Rating: 4.26 (Ranked 801)
 | High Pillow | 0.10% | ~328 |
 | Station Master | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,894 (Ranked 40)  
-Completed: 5 (0.00%) (Ranked 235)  
+Progressed: 327,908 (Ranked 40)  
+Completed: 5 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,7 +163,7 @@ Completed: 5 (0.00%) (Ranked 235)
 | 2023-07-03 | 327,260 | 5 |
 | 2023-07-04 | 327,471 | 5 |
 | 2023-07-05 | 327,715 | 5 |
-| 2023-07-06 | 327,894 | 5 |
+| 2023-07-06 | 327,908 | 5 |
 ## Awards
 Max (Highly Recommended): 27  (Ranked 464)  
 Sum: 115 (Ranked 401)  

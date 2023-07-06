@@ -20,6 +20,7 @@ Rating: 4.87 (Ranked 25)
 | Cream of the Crop | 0.10% | ~3 |
 | This will cost you big time | 0.10% | ~3 |
 | Headliner | 0.10% | ~3 |
+| Easy Listening | 0.10% | ~3 |
 | Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
@@ -41,6 +42,7 @@ Rating: 4.87 (Ranked 25)
 | We're Jammin' | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | I look cool. But I can look COOLER. | 0.10% | ~3 |
+| This was... not what I expected. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
 | You can pet the cat! | 0.10% | ~3 |
@@ -52,7 +54,6 @@ Rating: 4.87 (Ranked 25)
 | It'll do, CNMN | 0.10% | ~2 |
 | Please don't make this awkward | 0.10% | ~2 |
 | That was just EVIL | 0.10% | ~2 |
-| Easy Listening | 0.00% | ~0 |
 | And the crowd goes wild! | 0.00% | ~0 |
 | Didn't skip a beat! | 0.00% | ~0 |
 | I can't see this ever being a problem again | 0.00% | ~0 |
@@ -64,7 +65,6 @@ Rating: 4.87 (Ranked 25)
 | First we parry, then we counter | 0.00% | ~0 |
 | My Ultimate Setlist | 0.00% | ~0 |
 | What a journey it was... | 0.00% | ~0 |
-| This was... not what I expected. | 0.00% | ~0 |
 | Have we met before? | 0.00% | ~0 |
 | I'm untouchable! | 0.00% | ~0 |
 | I told you I'd be fine, Peppermint! | 0.00% | ~0 |

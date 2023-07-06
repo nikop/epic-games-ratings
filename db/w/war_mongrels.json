@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1354,9 +1354,9 @@
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_HARD_1",
@@ -1522,8 +1522,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:03:42.5776361+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:04:15.6004327+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.8436702+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:57:54.5797704+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:03:42.5776962+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:58:09.9287506+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:04:15.6004859+00:00"
 }

@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77662,
+  "EOS_Progressed": 77673,
   "EOS_Completed": 367,
   "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 3,
@@ -8588,6 +8588,11 @@
       "Time": "2023-07-06T19:04:11.849335+00:00",
       "NumProgressed": 77662,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-07-06T20:04:22.9469781+00:00",
+      "NumProgressed": 77673,
+      "NumCompleted": 367
     }
   ],
   "TotalAchievements": 10,
@@ -8599,7 +8604,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "Drawings01",
@@ -8655,7 +8660,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "Level00BowlingStrike",
@@ -8663,7 +8668,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27182
+      "UsersEstimate": 27186
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -8671,22 +8676,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8543
+      "UsersEstimate": 8544
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 77662,
+      "Progressed": 77673,
       "Completed": 367
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:04:11.8493343+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:04:22.9469775+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.168225+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:01:39.7095458+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:04:11.8493975+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:02:15.182316+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:04:22.9470435+00:00"
 }

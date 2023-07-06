@@ -4,11 +4,11 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 12,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 144,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 490,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1796,10 +1796,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 3714,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-07-06T19:58:43.5388397+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 3715,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3714,
+  "NumberOfAwards": 3715,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1849,7 +1855,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 352
+      "Count": 353
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1881,8 +1887,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2023-07-05T14:58:10.9688308+00:00",
+  "LastChanged": "2023-07-06T19:58:43.5388396+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:17.2863042+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:58:26.4573419+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:02:11.908392+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:58:43.5388403+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:02:48.8968579+00:00"
 }

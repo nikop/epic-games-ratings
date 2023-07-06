@@ -2,13 +2,13 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 801,
+  "EOS_Progressed": 802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1194,6 +1194,11 @@
       "Time": "2023-07-06T12:03:41.4552205+00:00",
       "NumProgressed": 801,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T20:04:14.5437357+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1205,7 +1210,7 @@
       "Name": "Act I Complete",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1229,7 +1234,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1237,7 +1242,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1283,9 +1288,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1301,7 +1306,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1363,9 +1368,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1373,7 +1378,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -1405,7 +1410,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -1413,14 +1418,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 801,
+      "Progressed": 802,
       "Completed": 0
     }
   ],
@@ -1428,8 +1433,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:03:41.6186214+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:04:14.5437351+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:34.5474745+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:57:52.7501803+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:03:41.6186473+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:58:08.1092851+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:04:14.5437585+00:00"
 }

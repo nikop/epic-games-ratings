@@ -16,7 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | Relentless | 1.00% | ~57 |
 | If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
-| IRL Let's Player | 0.60% | ~34 |
+| IRL Let's Player | 0.70% | ~40 |
 | Inspector | 0.60% | ~34 |
 | Newcomer: Vickie | 0.60% | ~34 |
 | Social Butterfly | 0.60% | ~34 |
@@ -33,6 +33,7 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.40% | ~23 |
 | Benedict Brahrnold | 0.30% | ~17 |
 | Now It's a Party! | 0.30% | ~17 |
+| Rachael | 0.30% | ~17 |
 | Te Amo Lety | 0.30% | ~17 |
 | Ashley | 0.20% | ~11 |
 | Beyond the Call of Dude-y | 0.20% | ~11 |
@@ -42,10 +43,10 @@ Number of Ratings: 177  (23.09.2022)
 | Do Not Burn | 0.20% | ~11 |
 | The Harder They Fall...Dood | 0.20% | ~11 |
 | Love Conquers All | 0.20% | ~11 |
-| Rachael | 0.20% | ~11 |
 | A Striking Resemblance | 0.20% | ~11 |
 | The Muse: Derek | 0.20% | ~11 |
 | Howz It Goin Dood | 0.20% | ~11 |
+| Derezzed | 0.20% | ~11 |
 | The Elder Brahs | 0.20% | ~11 |
 | Good Ol' Days | 0.20% | ~11 |
 | Against All Odds | 0.10% | ~6 |
@@ -69,14 +70,13 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.10% | ~3 |
 | The Crush(es) | 0.10% | ~6 |
 | La Coochadora | 0.10% | ~6 |
-| Derezzed | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 | Snapped | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,706 (Ranked 132)  
+Progressed: 5,707 (Ranked 132)  
 Completed: 3 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 3 (0.05%) (Ranked 199)
 | 2023-07-03 | 5,695 | 3 |
 | 2023-07-04 | 5,701 | 3 |
 | 2023-07-05 | 5,705 | 3 |
-| 2023-07-06 | 5,706 | 3 |
+| 2023-07-06 | 5,707 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

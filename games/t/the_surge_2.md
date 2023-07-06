@@ -5,19 +5,19 @@ Rating: 4.25 (Ranked 805)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,463 |
-| Don't I Know You...? | 77.00% | ~1,408 |
-| Jailbreak | 66.00% | ~1,207 |
-| Suited and Booted | 39.00% | ~713 |
+| Rigged And Ready | 80.00% | ~1,464 |
+| Don't I Know You...? | 77.00% | ~1,409 |
+| Jailbreak | 66.00% | ~1,208 |
+| Suited and Booted | 39.00% | ~714 |
 | HEADSHOT! | 38.00% | ~695 |
 | Sleeping With The Fishes | 35.00% | ~640 |
 | Overheated | 30.00% | ~549 |
 | High Performance | 30.00% | ~549 |
 | Powered Up | 28.00% | ~512 |
-| Studied The Blade | 25.00% | ~457 |
+| Studied The Blade | 25.00% | ~458 |
 | Home Invasion | 23.00% | ~421 |
-| Luminary | 22.00% | ~402 |
-| It's a Trap | 22.00% | ~402 |
+| Luminary | 22.00% | ~403 |
+| It's a Trap | 22.00% | ~403 |
 | True Survivor | 21.00% | ~384 |
 | Offensive Defense | 20.00% | ~366 |
 | Shocking | 20.00% | ~366 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 805)
 | Risk Tolerant | 13.00% | ~238 |
 | Sorry, Didn't See You There | 13.00% | ~238 |
 | What A Catchy Song | 13.00% | ~238 |
-| Marked For Success | 12.00% | ~219 |
+| Marked For Success | 12.00% | ~220 |
 | Corrupted Beauty | 11.00% | ~201 |
 | Stimulating The Local Economy | 10.00% | ~183 |
 | Triplets | 10.00% | ~183 |
@@ -46,9 +46,9 @@ Rating: 4.25 (Ranked 805)
 | Turbo Booster | 6.00% | ~110 |
 | Juiced Up | 6.00% | ~110 |
 | Squid Pro Quo | 6.00% | ~110 |
-| Reborn | 5.00% | ~91 |
-| Counter-Sniper | 5.00% | ~91 |
-| Shrimp Cocktail | 5.00% | ~91 |
+| Reborn | 5.00% | ~92 |
+| Counter-Sniper | 5.00% | ~92 |
+| Shrimp Cocktail | 5.00% | ~92 |
 | Hello Darkness My Old Friend | 4.00% | ~73 |
 | Geronimo! | 4.00% | ~73 |
 | Homewrecker | 4.00% | ~73 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 805)
 | Swiss Army Drone | 1.00% | ~18 |
 | The Easy Way Out | 1.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,829 (Ranked 164)  
+Progressed: 1,830 (Ranked 164)  
 Completed: 10 (0.55%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 10 (0.55%) (Ranked 122)
 | 2023-07-03 | 1,824 | 10 |
 | 2023-07-04 | 1,827 | 10 |
 | 2023-07-05 | 1,829 | 10 |
+| 2023-07-06 | 1,830 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

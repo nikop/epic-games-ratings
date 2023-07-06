@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1922,9 +1922,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 66556,
+  "EOS_Progressed": 66560,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -8892,6 +8892,11 @@
       "Time": "2023-07-06T19:02:34.0756991+00:00",
       "NumProgressed": 66556,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-07-06T20:03:10.1128456+00:00",
+      "NumProgressed": 66560,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 61,
@@ -9247,7 +9252,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -9390,13 +9395,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 66556,
+      "Progressed": 66560,
       "Completed": 100
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 36836,
+      "Progressed": 36840,
       "Completed": 2651
     }
   ],
@@ -9404,8 +9409,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-07-06T19:00:53.6237737+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:02:34.0756985+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:03:10.1128451+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:00.6402231+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:00:53.6237743+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:02:34.0757988+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:01:16.2234419+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:03:10.1129508+00:00"
 }

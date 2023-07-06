@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -426,8 +426,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:05:49.2876015+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:06:10.8783303+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:19.742707+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:57:45.2329598+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:05:49.2876137+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:57:57.1142839+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:06:10.8783445+00:00"
 }

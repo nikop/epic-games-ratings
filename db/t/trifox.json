@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -253,9 +253,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -373,17 +373,17 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
       "SetID": "cfld5bl",
       "Name": "Mage-warrior hybrid",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -478,8 +478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:03:42.960588+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:04:15.6942346+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:59.6246638+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:59:58.1289437+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:03:42.9606269+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:00:18.8001935+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:04:15.6942724+00:00"
 }

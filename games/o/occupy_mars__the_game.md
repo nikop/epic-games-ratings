@@ -29,9 +29,9 @@ Rating: 3.91 (Ranked 927)
 | To infinity and beyond! | 2.00% | ~28 |
 | Explosive Miner | 1.00% | ~14 |
 | Rocket Jump | 0.90% | ~12 |
+| 5G Network | 0.70% | ~10 |
 | Caveman | 0.70% | ~10 |
 | Thunderstruck | 0.70% | ~10 |
-| 5G Network | 0.60% | ~8 |
 | Planetary Defence | 0.60% | ~8 |
 | Bull’s eye | 0.50% | ~7 |
 | Rover Mechanic | 0.50% | ~7 |
@@ -55,7 +55,7 @@ Rating: 3.91 (Ranked 927)
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,381 (Ranked 173)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

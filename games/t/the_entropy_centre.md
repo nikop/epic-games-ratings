@@ -14,7 +14,7 @@
 | Man's Best Friend | 37.00% | ~80 |
 | 48 Attempts | 36.00% | ~78 |
 | Handyman | 24.00% | ~52 |
-| No Time To Relax | 20.00% | ~43 |
+| No Time To Relax | 21.00% | ~46 |
 | Bad Robots | 18.00% | ~39 |
 | Archivist | 17.00% | ~37 |
 | Fashionista | 17.00% | ~37 |
@@ -33,7 +33,7 @@
 | Data Research | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 217 (Ranked 262)  
-Completed: 0 (0.00%) (Ranked 235)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

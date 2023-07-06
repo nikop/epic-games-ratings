@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -243,9 +243,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1830,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-07-05T14:07:26.5196022+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-07-06T20:02:49.3140167+00:00",
+      "NumProgressed": 1830,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -1552,7 +1557,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ACHV_03",
@@ -1576,7 +1581,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHV_06",
@@ -1648,7 +1653,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHV_15",
@@ -1696,7 +1701,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHV_21",
@@ -1744,7 +1749,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACHV_27",
@@ -1832,7 +1837,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHV_38",
@@ -1848,7 +1853,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "ACHV_40",
@@ -1864,7 +1869,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACHV_42",
@@ -1888,7 +1893,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHV_45",
@@ -1896,7 +1901,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHV_46",
@@ -1936,7 +1941,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHV_51",
@@ -1999,7 +2004,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1830,
       "Completed": 10
     }
   ],
@@ -2007,8 +2012,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-07-03T18:02:00.1101593+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:02:12.2913371+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:02:49.3140161+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:58.9467598+00:00",
-  "LastUpdate_Ratings": "2023-07-06T19:01:43.306225+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:02:12.2913912+00:00"
+  "LastUpdate_Ratings": "2023-07-06T20:02:20.3252693+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:02:49.3140777+00:00"
 }

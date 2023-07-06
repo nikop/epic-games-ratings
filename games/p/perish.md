@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~157 |
-| Persephone's Guidance | 5.00% | ~157 |
-| Lochos | 5.00% | ~157 |
-| Strength of Herakles | 5.00% | ~157 |
-| Initiate's Resolve | 5.00% | ~157 |
+| To Suffer is to Learn | 5.00% | ~158 |
+| Persephone's Guidance | 5.00% | ~158 |
+| Lochos | 5.00% | ~158 |
+| Strength of Herakles | 5.00% | ~158 |
+| Initiate's Resolve | 5.00% | ~158 |
 | Go For the Head | 4.00% | ~126 |
 | Spartan Sandal | 4.00% | ~126 |
 | Missilis | 4.00% | ~126 |
@@ -17,19 +17,19 @@
 | The Sons of Minos | 4.00% | ~126 |
 | Eidola | 4.00% | ~126 |
 | Reign in Blood | 4.00% | ~126 |
-| Comedy and Tragedy | 3.00% | ~94 |
-| Pillars of Eternity | 3.00% | ~94 |
-| Immolator | 3.00% | ~94 |
-| War Chest | 3.00% | ~94 |
-| Chthonic Investor | 3.00% | ~94 |
-| Symbols of Heresy | 3.00% | ~94 |
-| First Fragment | 3.00% | ~94 |
-| Sisters of the Pantheon | 3.00% | ~94 |
-| Labour of Apollo | 3.00% | ~94 |
-| Siege Unit | 3.00% | ~94 |
-| Divine Assemblage | 3.00% | ~94 |
-| Ophiolatreia | 3.00% | ~94 |
-| Serpentine | 3.00% | ~94 |
+| Comedy and Tragedy | 3.00% | ~95 |
+| Pillars of Eternity | 3.00% | ~95 |
+| Immolator | 3.00% | ~95 |
+| War Chest | 3.00% | ~95 |
+| Chthonic Investor | 3.00% | ~95 |
+| Symbols of Heresy | 3.00% | ~95 |
+| First Fragment | 3.00% | ~95 |
+| Sisters of the Pantheon | 3.00% | ~95 |
+| Labour of Apollo | 3.00% | ~95 |
+| Siege Unit | 3.00% | ~95 |
+| Divine Assemblage | 3.00% | ~95 |
+| Ophiolatreia | 3.00% | ~95 |
+| Serpentine | 3.00% | ~95 |
 | Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
 | Rock and a Hard Place | 2.00% | ~63 |
@@ -40,19 +40,19 @@
 | Halls of Marble | 2.00% | ~63 |
 | Mors Omnibus | 2.00% | ~63 |
 | Blot Out the Sky | 2.00% | ~63 |
-| The Nameless One | 1.00% | ~31 |
-| Lament of the Constellations | 1.00% | ~31 |
-| Rule of Thirds | 1.00% | ~31 |
-| The Midas Touch | 1.00% | ~31 |
-| Pyr Demon | 1.00% | ~31 |
-| Don't Pay the Ferryman | 1.00% | ~31 |
-| Veneration of Hephaestus | 1.00% | ~31 |
-| Biotechnology | 1.00% | ~31 |
-| No Scylla in Sight | 1.00% | ~31 |
-| The Archimedes Principle | 1.00% | ~31 |
-| Rites at Sea | 1.00% | ~31 |
-| Close Shut the Doors | 1.00% | ~31 |
-| Scrap Metal | 1.00% | ~31 |
+| The Nameless One | 1.00% | ~32 |
+| Lament of the Constellations | 1.00% | ~32 |
+| Rule of Thirds | 1.00% | ~32 |
+| The Midas Touch | 1.00% | ~32 |
+| Pyr Demon | 1.00% | ~32 |
+| Don't Pay the Ferryman | 1.00% | ~32 |
+| Veneration of Hephaestus | 1.00% | ~32 |
+| Biotechnology | 1.00% | ~32 |
+| No Scylla in Sight | 1.00% | ~32 |
+| The Archimedes Principle | 1.00% | ~32 |
+| Rites at Sea | 1.00% | ~32 |
+| Close Shut the Doors | 1.00% | ~32 |
+| Scrap Metal | 1.00% | ~32 |
 | Invicta | 0.80% | ~25 |
 | Athenian Treasury | 0.70% | ~22 |
 | Hipparchia's Labour | 0.50% | ~16 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,149 (Ranked 147)  
-Completed: 0 (0.00%) (Ranked 235)  
+Progressed: 3,152 (Ranked 147)  
+Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-03 | 3,130 | 0 |
 | 2023-07-04 | 3,140 | 0 |
 | 2023-07-05 | 3,141 | 0 |
-| 2023-07-06 | 3,149 | 0 |
+| 2023-07-06 | 3,152 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

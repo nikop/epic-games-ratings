@@ -2,10 +2,10 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-07-04T18:03:44.2037738+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T20:04:39.9116133+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -343,15 +348,15 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FirstStep",
@@ -359,7 +364,7 @@
       "Name": "Start of the Path",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FourthBoss",
@@ -373,7 +378,7 @@
       "ID": "KingBeatleHunter",
       "SetID": "7g1kpc8",
       "Name": "Royal Beetle",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -421,7 +426,7 @@
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -446,14 +451,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-07-06T19:04:29.7118281+00:00",
+  "LastChanged_Achievements": "2023-07-06T20:04:39.9116127+00:00",
   "LastUpdate_AppInfo": "2023-07-03T07:57:09.8634749+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:57:27.8401749+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:04:29.7118418+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:57:37.1573618+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:04:39.9116285+00:00"
 }

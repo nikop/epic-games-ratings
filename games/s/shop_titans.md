@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~128,054 |
-| Titan's First Steps | 96.00% | ~126,733 |
-| Basic in Bulk | 91.00% | ~120,133 |
-| Tinkle of Coins | 86.00% | ~113,532 |
-| Disintermediation | 75.00% | ~99,010 |
-| Capitalism Ho! | 74.00% | ~97,690 |
-| It's Free Real Estate | 70.00% | ~92,410 |
-| Budding Merchant | 66.00% | ~87,129 |
-| Another Satisfied Customer | 61.00% | ~80,529 |
-| One Easy Payment | 60.00% | ~79,208 |
-| Own the Means of Production | 60.00% | ~79,208 |
-| Some Assembly Required | 58.00% | ~76,568 |
-| Pretty Penny | 57.00% | ~75,248 |
-| One-Armed Bandit | 49.00% | ~64,687 |
-| Through Repetition, Perfection | 46.00% | ~60,726 |
-| The Daily Grind | 45.00% | ~59,406 |
-| Bounty Hunters | 44.00% | ~58,086 |
-| Where it Hurts | 43.00% | ~56,766 |
-| Dungeon Imports | 42.00% | ~55,446 |
-| Flooding the Market | 41.00% | ~54,126 |
-| Demand for Supplies | 38.00% | ~50,165 |
-| Gild-Gotten Goods | 37.00% | ~48,845 |
-| Did we pack lunch? | 35.00% | ~46,205 |
+| Sponsored by Argon | 97.00% | ~128,056 |
+| Titan's First Steps | 96.00% | ~126,735 |
+| Basic in Bulk | 91.00% | ~120,135 |
+| Tinkle of Coins | 86.00% | ~113,534 |
+| Disintermediation | 75.00% | ~99,012 |
+| Capitalism Ho! | 74.00% | ~97,692 |
+| It's Free Real Estate | 70.00% | ~92,411 |
+| Budding Merchant | 66.00% | ~87,131 |
+| Another Satisfied Customer | 61.00% | ~80,530 |
+| One Easy Payment | 60.00% | ~79,210 |
+| Own the Means of Production | 60.00% | ~79,210 |
+| Some Assembly Required | 58.00% | ~76,569 |
+| Pretty Penny | 57.00% | ~75,249 |
+| One-Armed Bandit | 49.00% | ~64,688 |
+| Through Repetition, Perfection | 46.00% | ~60,727 |
+| The Daily Grind | 45.00% | ~59,407 |
+| Bounty Hunters | 44.00% | ~58,087 |
+| Where it Hurts | 43.00% | ~56,767 |
+| Dungeon Imports | 42.00% | ~55,447 |
+| Flooding the Market | 41.00% | ~54,127 |
+| Demand for Supplies | 38.00% | ~50,166 |
+| Gild-Gotten Goods | 37.00% | ~48,846 |
+| Did we pack lunch? | 35.00% | ~46,206 |
 | Arcane Industries | 34.00% | ~44,885 |
-| Accomplished Merchant | 31.00% | ~40,924 |
+| Accomplished Merchant | 31.00% | ~40,925 |
 | On the Path to Greatness | 28.00% | ~36,964 |
 | Ascended | 28.00% | ~36,964 |
 | Gem Expert | 28.00% | ~36,964 |
@@ -39,17 +39,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 27.00% | ~35,644 |
 | Vanity, Verily | 26.00% | ~34,324 |
 | Research & Development | 25.00% | ~33,004 |
-| Power of Love | 24.00% | ~31,683 |
-| Flawless Fusion | 24.00% | ~31,683 |
-| Natural 20 | 23.00% | ~30,363 |
+| Power of Love | 24.00% | ~31,684 |
+| Flawless Fusion | 24.00% | ~31,684 |
+| Natural 20 | 23.00% | ~30,364 |
 | Fated Encounters | 21.00% | ~27,723 |
 | Royal Ransom | 21.00% | ~27,723 |
 | Magical Harmony | 21.00% | ~27,723 |
 | Tax not Included | 20.00% | ~26,403 |
 | Trash to Treasure | 19.00% | ~25,083 |
 | For the Hoard! | 18.00% | ~23,763 |
-| Special Ingredient | 17.00% | ~22,442 |
-| Scrapbooker | 16.00% | ~21,122 |
+| Special Ingredient | 17.00% | ~22,443 |
+| Scrapbooker | 16.00% | ~21,123 |
 | A Notch Above the Rest | 15.00% | ~19,802 |
 | This Power Level...! | 15.00% | ~19,802 |
 | Expansion in Session | 15.00% | ~19,802 |
@@ -69,8 +69,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 11.00% | ~14,522 |
 | By Your Powers Combined... | 11.00% | ~14,522 |
 | Exotic Commodities | 11.00% | ~14,522 |
-| Master Merchant | 10.00% | ~13,201 |
-| Master Recycler | 10.00% | ~13,201 |
+| Master Merchant | 10.00% | ~13,202 |
+| Master Recycler | 10.00% | ~13,202 |
 | Supercharged | 9.00% | ~11,881 |
 | Ritualist | 9.00% | ~11,881 |
 | Glittering Collection | 9.00% | ~11,881 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.50% | ~660 |
 | Capitalist Camaraderie | 0.20% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,014 (Ranked 60)  
+Progressed: 132,016 (Ranked 60)  
 Completed: 116 (0.09%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 116 (0.09%) (Ranked 186)
 | 2023-07-03 | 131,878 | 113 |
 | 2023-07-04 | 131,928 | 113 |
 | 2023-07-05 | 131,970 | 115 |
-| 2023-07-06 | 132,014 | 116 |
+| 2023-07-06 | 132,016 | 116 |
 ## Awards
 Max (Great for Beginners): 4,649  (Ranked 68)  
 Sum: 26,875 (Ranked 46)  

@@ -3,9 +3,9 @@
   "Name": "Gardenia",
   "ProductSlug": "gardenia-630482",
   "Ranking_EOS_Progress": 490,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T16:00:00+00:00",
     "PcReleaseDate": "2023-05-26T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-29T09:58:37.8459962+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.2818372+00:00",
-  "LastUpdate_Ratings": "2023-07-06T18:59:35.1982019+00:00",
-  "LastUpdate_Achievements": "2023-07-06T19:04:53.977293+00:00"
+  "LastUpdate_Ratings": "2023-07-06T19:59:53.8906396+00:00",
+  "LastUpdate_Achievements": "2023-07-06T20:05:18.0027253+00:00"
 }

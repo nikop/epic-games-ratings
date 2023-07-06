@@ -20,9 +20,9 @@
 | At least there is something to read | 5.00% | ~3 |
 | Coat | 5.00% | ~3 |
 | Sarcophagus | 5.00% | ~3 |
+| Missing pages | 5.00% | ~3 |
 | I love you all | 5.00% | ~3 |
 | Skills to pay the bills | 5.00% | ~3 |
-| Missing pages | 3.00% | ~2 |
 | Master of puppets | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 325)  
