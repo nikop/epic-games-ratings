@@ -9,7 +9,7 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 21.95% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 20.83% |
 | 9 | [Doodle Devil](games/d/doodle_devil.md) | 20.78% |
-| 10 | [Island Cities](games/i/island_cities.md) | 17.69% |
+| 10 | [Island Cities](games/i/island_cities.md) | 17.65% |
 | 11 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 14.29% |
 | 11 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 13 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 13.58% |
@@ -29,7 +29,7 @@
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
 | 29 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
-| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 30 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.89% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 33 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
@@ -206,20 +206,20 @@
 | 204 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
 | 204 | [Old World](games/o/old_world.md) | 0.04% |
 | 206 | [Football Manager 2023](games/f/football_manager_2023.md) | 0.03% |
+| 206 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.03% |
 | 206 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 206 | [High On Life](games/h/high_on_life.md) | 0.03% |
 | 206 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 206 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.03% |
 | 206 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 212 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 212 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 212 | [Good Company](games/g/good_company.md) | 0.02% |
-| 212 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.02% |
-| 212 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
-| 212 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 212 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
-| 212 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
+| 213 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 213 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 213 | [Good Company](games/g/good_company.md) | 0.02% |
+| 213 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.02% |
+| 213 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 213 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
+| 213 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 213 | [The Alto Collection](games/t/the_alto_collection.md) | 0.02% |
 | 221 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 221 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
 | 221 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.01% |
