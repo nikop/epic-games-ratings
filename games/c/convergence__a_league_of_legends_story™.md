@@ -20,6 +20,7 @@
 | The Wicked Twins | 13.00% | ~97 |
 | The Prince in Heels | 13.00% | ~97 |
 | Immaculate Aim | 13.00% | ~97 |
+| Immaculate Aim | 13.00% | ~97 |
 | The Brass Boss | 13.00% | ~97 |
 | The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
@@ -28,7 +29,6 @@
 | Golem Chaser | 12.00% | ~90 |
 | Fast Learner | 12.00% | ~90 |
 | Check Your Pulse | 12.00% | ~90 |
-| Immaculate Aim | 12.00% | ~90 |
 | Street Style | 11.00% | ~82 |
 | Right On Time | 10.00% | ~75 |
 | Whiz Kid | 10.00% | ~75 |

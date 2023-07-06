@@ -22,8 +22,8 @@ Rating: 4.53 (Ranked 507)
 | Complete Elder Faction | 41.00% | ~713 |
 | End of the Mozis | 38.00% | ~661 |
 | Throne Room Fit For A King | 38.00% | ~661 |
+| Meet the Creatures from the Deep | 36.00% | ~626 |
 | Return Power To The Depths | 36.00% | ~626 |
-| Meet the Creatures from the Deep | 35.00% | ~609 |
 | Defeat Ratnor Rodentson | 29.00% | ~504 |
 | Return the Statues | 26.00% | ~452 |
 | Defeat Rattus Augustail | 26.00% | ~452 |

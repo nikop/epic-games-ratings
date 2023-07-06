@@ -18,6 +18,7 @@ Rating: 4.61 (Ranked 362)
 | Magical Synergy | 2.00% | ~99 |
 | My Final Form | 2.00% | ~99 |
 | Seat of Power | 2.00% | ~99 |
+| Fiery Friend | 2.00% | ~99 |
 | Impenetrable Fortress | 2.00% | ~99 |
 | Intimidation Tactics | 2.00% | ~99 |
 | Here be Dragons | 2.00% | ~99 |
@@ -30,7 +31,6 @@ Rating: 4.61 (Ranked 362)
 | Digging for Treasure | 1.00% | ~49 |
 | Preparation Is Everything | 1.00% | ~49 |
 | In a Liege of Your Own | 1.00% | ~49 |
-| Fiery Friend | 1.00% | ~49 |
 | Against the Odds | 1.00% | ~49 |
 | Duality | 1.00% | ~49 |
 | The Creator | 0.90% | ~44 |

@@ -25,7 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 51.00% | ~6,427 |
 | Trade Caravan | 51.00% | ~6,427 |
 | Naming Landmarks | 50.00% | ~6,301 |
-| Learned | 48.00% | ~6,049 |
+| Learned | 49.00% | ~6,175 |
 | Pioneer | 48.00% | ~6,049 |
 | Zoroastrianism | 48.00% | ~6,049 |
 | Fountainhead | 47.00% | ~5,923 |

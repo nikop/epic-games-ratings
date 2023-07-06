@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -884,9 +884,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 7885,
+  "EOS_Progressed": 7886,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3274,6 +3274,11 @@
       "Time": "2023-07-06T11:04:16.1615017+00:00",
       "NumProgressed": 7885,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-07-06T14:04:30.7409592+00:00",
+      "NumProgressed": 7886,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 24,
@@ -3445,7 +3450,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7333
+      "UsersEstimate": 7334
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -3469,22 +3474,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7885,
+      "Progressed": 7886,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-07-05T08:59:19.7816189+00:00",
-  "LastChanged_Achievements": "2023-07-06T13:23:47.8139968+00:00",
+  "LastChanged_Achievements": "2023-07-06T14:04:30.7409586+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:48.5428036+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:19:26.1455363+00:00",
-  "LastUpdate_Achievements": "2023-07-06T13:23:47.8140293+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:59:33.2358544+00:00",
+  "LastUpdate_Achievements": "2023-07-06T14:04:30.7409976+00:00"
 }

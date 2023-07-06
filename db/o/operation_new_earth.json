@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-07-06T12:04:55.8571836+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T14:05:04.3240198+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1289,9 +1294,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1299,7 +1304,7 @@
       "Name": "Corporal",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -1315,7 +1320,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1361,9 +1366,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -1441,9 +1446,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1490,14 +1495,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 348,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-06T13:24:37.1749716+00:00",
+  "LastChanged_Achievements": "2023-07-06T14:05:04.3240191+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:21:29.8328654+00:00",
-  "LastUpdate_Achievements": "2023-07-06T13:24:37.1750105+00:00"
+  "LastUpdate_Ratings": "2023-07-06T14:00:56.6519986+00:00",
+  "LastUpdate_Achievements": "2023-07-06T14:05:04.3241401+00:00"
 }

@@ -658,9 +658,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252516,
+  "EOS_Progressed": 252518,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8488,6 +8488,11 @@
       "Time": "2023-07-06T13:25:02.1281161+00:00",
       "NumProgressed": 252516,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-06T14:05:21.3941561+00:00",
+      "NumProgressed": 252518,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8547,7 +8552,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78280
+      "UsersEstimate": 78281
     },
     {
       "ID": "BackHomeNTimes",
@@ -8771,7 +8776,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7575
+      "UsersEstimate": 7576
     },
     {
       "ID": "KillOtherWithMine",
@@ -8946,7 +8951,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252516,
+      "Progressed": 252518,
       "Completed": 2
     }
   ],
@@ -8954,8 +8959,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T00:01:52.1225859+00:00",
-  "LastChanged_Achievements": "2023-07-06T13:25:02.1281156+00:00",
+  "LastChanged_Achievements": "2023-07-06T14:05:21.3941555+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:21:16.6137115+00:00",
-  "LastUpdate_Achievements": "2023-07-06T13:25:02.1282319+00:00"
+  "LastUpdate_Ratings": "2023-07-06T14:00:48.7663244+00:00",
+  "LastUpdate_Achievements": "2023-07-06T14:05:21.3942731+00:00"
 }

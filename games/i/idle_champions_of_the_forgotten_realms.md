@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,076 |
-| The Mad Wizard | 11.00% | ~22,789 |
-| The Ring of Regeneration | 7.00% | ~14,502 |
-| Are Ya Chicken? | 7.00% | ~14,502 |
-| Were-verpowered | 5.00% | ~10,359 |
-| Seeking Allies | 5.00% | ~10,359 |
-| Mad Cow Disease | 5.00% | ~10,359 |
-| Friendly Imps | 5.00% | ~10,359 |
-| A Persistent Buzzing | 4.00% | ~8,287 |
-| Pure Energy | 4.00% | ~8,287 |
-| Terror in the Dark | 3.00% | ~6,215 |
-| Unearthed Evil | 3.00% | ~6,215 |
-| The Crumbling Temple | 3.00% | ~6,215 |
-| Exploring Port Nyanzaru | 3.00% | ~6,215 |
-| The Contagious Curse | 3.00% | ~6,215 |
+| The Cursed Farmer | 15.00% | ~31,079 |
+| The Mad Wizard | 11.00% | ~22,791 |
+| The Ring of Regeneration | 7.00% | ~14,503 |
+| Are Ya Chicken? | 7.00% | ~14,503 |
+| Were-verpowered | 5.00% | ~10,360 |
+| Seeking Allies | 5.00% | ~10,360 |
+| Mad Cow Disease | 5.00% | ~10,360 |
+| Friendly Imps | 5.00% | ~10,360 |
+| A Persistent Buzzing | 4.00% | ~8,288 |
+| Pure Energy | 4.00% | ~8,288 |
+| Terror in the Dark | 3.00% | ~6,216 |
+| Unearthed Evil | 3.00% | ~6,216 |
+| The Crumbling Temple | 3.00% | ~6,216 |
+| Exploring Port Nyanzaru | 3.00% | ~6,216 |
+| The Contagious Curse | 3.00% | ~6,216 |
 | Beast Mode | 2.00% | ~4,144 |
 | Low Initiative | 2.00% | ~4,144 |
 | A Mysterious Summons | 2.00% | ~4,144 |
@@ -48,15 +48,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.90% | ~1,865 |
 | Trollskull Manor | 0.90% | ~1,865 |
 | Dinosaur Racing | 0.90% | ~1,865 |
-| The Lost Heir of Omu | 0.80% | ~1,657 |
-| The Forbidden City | 0.80% | ~1,657 |
-| Attack on the Manor | 0.80% | ~1,657 |
-| The Dead Three | 0.80% | ~1,657 |
-| The Long Haul | 0.80% | ~1,657 |
-| Lost in the Deep | 0.80% | ~1,657 |
-| Easily Distracted | 0.80% | ~1,657 |
+| The Lost Heir of Omu | 0.80% | ~1,658 |
+| The Forbidden City | 0.80% | ~1,658 |
+| Wisdom Check | 0.80% | ~1,658 |
+| Attack on the Manor | 0.80% | ~1,658 |
+| The Dead Three | 0.80% | ~1,658 |
+| The Long Haul | 0.80% | ~1,658 |
+| Lost in the Deep | 0.80% | ~1,658 |
+| Easily Distracted | 0.80% | ~1,658 |
 | Captured! | 0.70% | ~1,450 |
-| Wisdom Check | 0.70% | ~1,450 |
 | A Grand Puzzle | 0.70% | ~1,450 |
 | The Mists of Ravenloft | 0.70% | ~1,450 |
 | Treasure Hunters | 0.70% | ~1,450 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,176 (Ranked 52)  
+Progressed: 207,191 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -587,7 +587,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-03 | 205,606 | 2,025 |
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
-| 2023-07-06 | 207,176 | 2,035 |
+| 2023-07-06 | 207,191 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,409 (Ranked 37)  

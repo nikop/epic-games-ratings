@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1574,
+  "EOS_Progressed": 1575,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3858,6 +3858,11 @@
       "Time": "2023-07-06T00:07:15.1265089+00:00",
       "NumProgressed": 1574,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T14:06:48.4366582+00:00",
+      "NumProgressed": 1575,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -3981,7 +3986,7 @@
       "Name": "Dragon Master",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "dragonslayer",
@@ -3997,7 +4002,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "enchantingskill",
@@ -4037,7 +4042,7 @@
       "Name": "Enlightenment",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "exoticmerchant",
@@ -4053,7 +4058,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "fourleafclover",
@@ -4117,7 +4122,7 @@
       "Name": "Hero inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "howdoyouturnthison",
@@ -4165,7 +4170,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "lockandload",
@@ -4261,7 +4266,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "prestigiousx10",
@@ -4325,7 +4330,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "thealchemist",
@@ -4429,7 +4434,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "warmachinesarmy",
@@ -4453,7 +4458,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "worldmap",
@@ -4461,14 +4466,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1574,
+      "Progressed": 1575,
       "Completed": 1
     }
   ],
@@ -4476,8 +4481,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-07-06T11:58:21.6174539+00:00",
-  "LastChanged_Achievements": "2023-07-06T13:27:07.1926856+00:00",
+  "LastChanged_Achievements": "2023-07-06T14:06:48.4366576+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:28.4671357+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:18:10.6501703+00:00",
-  "LastUpdate_Achievements": "2023-07-06T13:27:07.1928133+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:58:36.3988968+00:00",
+  "LastUpdate_Achievements": "2023-07-06T14:06:48.4367691+00:00"
 }

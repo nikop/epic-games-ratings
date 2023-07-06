@@ -6,6 +6,7 @@ Rating: 4.45 (Ranked 621)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taking it back | 2.00% | ~64 |
+| Target America | 2.00% | ~64 |
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
@@ -19,7 +20,6 @@ Rating: 4.45 (Ranked 621)
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
-| Target America | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | Organ Grinder | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
@@ -36,9 +36,9 @@ Rating: 4.45 (Ranked 621)
 | Close Quarters | 0.60% | ~19 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
+| The Long Game | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
-| The Long Game | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |

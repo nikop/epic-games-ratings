@@ -5,11 +5,11 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,464 |
-| World Map | 79.00% | ~1,243 |
-| Temple of Eternals | 56.00% | ~881 |
-| Prestigious | 53.00% | ~834 |
-| Fellowship Power | 41.00% | ~645 |
+| Victor | 93.00% | ~1,465 |
+| World Map | 79.00% | ~1,244 |
+| Temple of Eternals | 56.00% | ~882 |
+| Prestigious | 53.00% | ~835 |
+| Fellowship Power | 41.00% | ~646 |
 | Guild Power | 25.00% | ~394 |
 | Prestigious x10 | 21.00% | ~331 |
 | The game is on | 20.00% | ~315 |
@@ -18,10 +18,10 @@ Rating: 4.09 (Ranked 890)
 | Miner Clicker | 16.00% | ~252 |
 | Full Party | 15.00% | ~236 |
 | Inspection | 15.00% | ~236 |
-| Dragon Master | 14.00% | ~220 |
-| Enlightenment | 14.00% | ~220 |
-| Hero inspection | 14.00% | ~220 |
-| Lieutenant | 14.00% | ~220 |
+| Dragon Master | 14.00% | ~221 |
+| Enlightenment | 14.00% | ~221 |
+| Hero inspection | 14.00% | ~221 |
+| Lieutenant | 14.00% | ~221 |
 | Milestone collector | 12.00% | ~189 |
 | Mysterious Rock | 12.00% | ~189 |
 | Natural Talent | 12.00% | ~189 |
@@ -60,8 +60,8 @@ Rating: 4.09 (Ranked 890)
 | Arena Challenger | 3.00% | ~47 |
 | Legendary | 3.00% | ~47 |
 | The Alchemist | 3.00% | ~47 |
-| Ebony Jungle Liberator | 2.00% | ~31 |
-| What lies behind the bush | 2.00% | ~31 |
+| Ebony Jungle Liberator | 2.00% | ~32 |
+| What lies behind the bush | 2.00% | ~32 |
 | Mythic Power | 1.00% | ~16 |
 | Training makes a Pro player | 0.70% | ~11 |
 | Gear Enchanting | 0.60% | ~9 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,574 (Ranked 168)  
+Progressed: 1,575 (Ranked 168)  
 Completed: 1 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-07-03 | 1,559 | 1 |
 | 2023-07-04 | 1,564 | 1 |
 | 2023-07-05 | 1,573 | 1 |
-| 2023-07-06 | 1,574 | 1 |
+| 2023-07-06 | 1,575 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

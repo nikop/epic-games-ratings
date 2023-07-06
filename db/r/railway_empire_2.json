@@ -104,9 +104,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1475,
+  "EOS_Progressed": 1476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2974,6 +2974,11 @@
       "Time": "2023-07-06T10:07:24.2739285+00:00",
       "NumProgressed": 1475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T14:06:49.6891429+00:00",
+      "NumProgressed": 1476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3065,7 +3070,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "A11",
@@ -3081,7 +3086,7 @@
       "Name": "Departure",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "A13",
@@ -3121,7 +3126,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "A18",
@@ -3177,7 +3182,7 @@
       "Name": "Access granted",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "A25",
@@ -3217,7 +3222,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "A30",
@@ -3257,7 +3262,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "A35",
@@ -3273,7 +3278,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "A37",
@@ -3281,7 +3286,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "A38",
@@ -3289,7 +3294,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "A39",
@@ -3305,7 +3310,7 @@
       "Name": "Mind the Gap",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "A41",
@@ -3313,7 +3318,7 @@
       "Name": "Right through the middle",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "A42",
@@ -3351,9 +3356,9 @@
       "ID": "A46",
       "SetID": "9b7p7eo",
       "Name": "Mystery Tour",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 989
     },
     {
       "ID": "A47",
@@ -3377,7 +3382,7 @@
       "Name": "Financial Shark",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "A50",
@@ -3401,7 +3406,7 @@
       "Name": "Socializer",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "A53",
@@ -3424,7 +3429,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1475,
+      "Progressed": 1476,
       "Completed": 0
     }
   ],
@@ -3432,8 +3437,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-06T06:00:07.0845708+00:00",
-  "LastChanged_Achievements": "2023-07-06T13:27:08.8251664+00:00",
+  "LastChanged_Achievements": "2023-07-06T14:06:49.6891425+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-06T13:18:19.1199395+00:00",
-  "LastUpdate_Achievements": "2023-07-06T13:27:08.8252798+00:00"
+  "LastUpdate_Ratings": "2023-07-06T13:58:44.3737127+00:00",
+  "LastUpdate_Achievements": "2023-07-06T14:06:49.6892167+00:00"
 }
