@@ -39,11 +39,11 @@
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,399 | 4.61 | 362 |
 | 38 | [SnowRunner](games/s/snowrunner.md) | 9,028 | 4.76 | 119 |
 | 39 | [Control](games/c/control.md) | 8,385 | 4.60 | 390 |
-| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,225 | 4.58 | 423 |
+| 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,243 | 4.58 | 423 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,672 | 4.85 | 41 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,649 | 4.89 | 12 |
 | 43 | [Supraland](games/s/supraland.md) | 7,635 | 4.61 | 362 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,535 | 4.57 | 440 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,538 | 4.57 | 440 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,468 | 4.48 | 585 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,294 | 4.71 | 182 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,245 | 4.68 | 239 |
@@ -294,8 +294,8 @@
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 148 | 4.55 | 478 |
 | 292 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 148 | 4.52 | 520 |
 | 294 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 146 | 4.77 | 108 |
-| 295 | [Blasphemous](games/b/blasphemous.md) | 141 | 4.86 | 28 |
-| 295 | [Star Stable Online](games/s/star_stable_online.md) | 141 | 4.42 | 663 |
+| 295 | [Star Stable Online](games/s/star_stable_online.md) | 142 | 4.42 | 663 |
+| 296 | [Blasphemous](games/b/blasphemous.md) | 141 | 4.86 | 28 |
 | 297 | [Night in the Woods](games/n/night_in_the_woods.md) | 140 | 4.72 | 168 |
 | 298 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 137 | 4.28 | 788 |
 | 299 | [Atomicrops](games/a/atomicrops.md) | 135 | 4.88 | 18 |

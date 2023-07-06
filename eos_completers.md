@@ -130,7 +130,7 @@
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.44% |
+| 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
 | 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
 | 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 134 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |

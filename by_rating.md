@@ -29,7 +29,7 @@
 | 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,013 | 142 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 504 |
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 492 |
-| 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 295 |
+| 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 296 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 38 | 425 |
 | 28 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.86 | 700 | 161 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 336 | 224 |
@@ -426,7 +426,7 @@
 | 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,702 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 160 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 504 |
-| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,225 | 40 |
+| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,243 | 40 |
 | 423 | [Everything](games/e/everything.md) | 4.58 | 0 | 504 |
 | 423 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
 | 423 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 427 |
@@ -447,7 +447,7 @@
 | 440 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.57 | 35 | 434 |
 | 440 | [Hob](games/h/hob.md) | 4.57 | 0 | 504 |
 | 440 | [IXION](games/i/ixion.md) | 4.57 | 0 | 504 |
-| 440 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,535 | 44 |
+| 440 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,538 | 44 |
 | 440 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,149 | 90 |
 | 440 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 4,421 | 71 |
 | 440 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 122 | 308 |
@@ -669,7 +669,7 @@
 | 663 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 504 |
 | 663 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 663 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 242 |
-| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 141 | 295 |
+| 663 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 142 | 295 |
 | 663 | [Tunche](games/t/tunche.md) | 4.42 | 21 | 492 |
 | 663 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,177 | 133 |
 | 673 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.41 | 0 | 504 |
