@@ -5,42 +5,42 @@ Rating: 4.77 (Ranked 108)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 11.00% | ~31,379 |
-| First Class Student | 10.00% | ~28,526 |
-| A Keen Sense of Spell | 9.00% | ~25,673 |
-| Troll with the Punches | 9.00% | ~25,673 |
-| Grappling with a Graphorn | 8.00% | ~22,821 |
-| The One Who Mastered Memories | 8.00% | ~22,821 |
-| The Hallowed Hero | 8.00% | ~22,821 |
-| The Hero of Hogwarts | 8.00% | ~22,821 |
-| The Defender of Dragons | 8.00% | ~22,821 |
-| Loom for Improvement | 8.00% | ~22,821 |
-| A Talent for Spending | 8.00% | ~22,821 |
-| Coasting Along | 8.00% | ~22,821 |
-| That's a Keeper | 8.00% | ~22,821 |
-| Challenge Accepted | 7.00% | ~19,968 |
-| Followed the Butterflies | 7.00% | ~19,968 |
-| Rising From the Ashes | 7.00% | ~19,968 |
-| The Avenging Gazelle | 6.00% | ~17,116 |
-| Beast Friends | 6.00% | ~17,116 |
-| A Sallow Grave | 6.00% | ~17,116 |
-| Flight the Good Flight | 6.00% | ~17,116 |
-| The Spell Master | 6.00% | ~17,116 |
-| The Seeker of Knowledge | 4.00% | ~11,410 |
-| The Root of the Problem | 4.00% | ~11,410 |
-| Third Time's a Charm | 4.00% | ~11,410 |
-| The Ends Petrify the Means | 4.00% | ~11,410 |
-| Raising Expectations | 4.00% | ~11,410 |
+| The Sort Who Makes an Entrance | 11.00% | ~31,381 |
+| First Class Student | 10.00% | ~28,528 |
+| A Keen Sense of Spell | 9.00% | ~25,675 |
+| Troll with the Punches | 9.00% | ~25,675 |
+| Grappling with a Graphorn | 8.00% | ~22,822 |
+| The One Who Mastered Memories | 8.00% | ~22,822 |
+| The Hallowed Hero | 8.00% | ~22,822 |
+| The Hero of Hogwarts | 8.00% | ~22,822 |
+| The Defender of Dragons | 8.00% | ~22,822 |
+| Loom for Improvement | 8.00% | ~22,822 |
+| A Talent for Spending | 8.00% | ~22,822 |
+| Coasting Along | 8.00% | ~22,822 |
+| That's a Keeper | 8.00% | ~22,822 |
+| Challenge Accepted | 7.00% | ~19,969 |
+| Followed the Butterflies | 7.00% | ~19,969 |
+| Rising From the Ashes | 7.00% | ~19,969 |
+| The Avenging Gazelle | 6.00% | ~17,117 |
+| Beast Friends | 6.00% | ~17,117 |
+| A Sallow Grave | 6.00% | ~17,117 |
+| Flight the Good Flight | 6.00% | ~17,117 |
+| The Spell Master | 6.00% | ~17,117 |
+| The Seeker of Knowledge | 4.00% | ~11,411 |
+| The Root of the Problem | 4.00% | ~11,411 |
+| Third Time's a Charm | 4.00% | ~11,411 |
+| The Ends Petrify the Means | 4.00% | ~11,411 |
+| Raising Expectations | 4.00% | ~11,411 |
 | The Toast of the Town | 3.00% | ~8,558 |
 | Going Through the Potions | 3.00% | ~8,558 |
 | Room with a View | 3.00% | ~8,558 |
 | The Intrepid Explorer | 3.00% | ~8,558 |
 | The Gryffindor in the Graveyard | 3.00% | ~8,558 |
 | The Wise Owl | 3.00% | ~8,558 |
-| Put Down Roots | 2.00% | ~5,705 |
-| The Auror's Apprentice | 2.00% | ~5,705 |
-| Floo Around the World | 2.00% | ~5,705 |
-| Rise to the Challenges | 2.00% | ~5,705 |
+| Put Down Roots | 2.00% | ~5,706 |
+| The Auror's Apprentice | 2.00% | ~5,706 |
+| Floo Around the World | 2.00% | ~5,706 |
+| Rise to the Challenges | 2.00% | ~5,706 |
 | The Good Samaritan | 1.00% | ~2,853 |
 | Savvy Spender | 1.00% | ~2,853 |
 | Demiguise Dread | 1.00% | ~2,853 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 108)
 | The Nature of the Beast | 0.50% | ~1,426 |
 | Collector's Edition | 0.20% | ~571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,260 (Ranked 41)  
+Progressed: 285,278 (Ranked 41)  
 Completed: 418 (0.15%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 418 (0.15%) (Ranked 168)
 | 2023-07-03 | 284,388 | 417 |
 | 2023-07-04 | 284,754 | 418 |
 | 2023-07-05 | 285,076 | 418 |
-| 2023-07-06 | 285,260 | 418 |
+| 2023-07-06 | 285,278 | 418 |
 ## Awards
 Max (Character Customization): 20,698  (Ranked 17)  
-Sum: 38,610 (Ranked 30)  
+Sum: 38,612 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -146,7 +146,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 816 |
 | This game has Quickly Understood Controls | 774 |
 | This game has Beautiful Visuals | 717 |
-| This game has a Creative Community | 543 |
+| This game has a Creative Community | 545 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -254,4 +254,4 @@ Diff (max vs sum): -13
 | 2023-07-03 | 4.77 | 20,642 | 38,461 |
 | 2023-07-04 | 4.77 | 20,673 | 38,523 |
 | 2023-07-05 | 4.77 | 20,698 | 38,587 |
-| 2023-07-06 | 4.77 | 20,698 | 38,610 |
+| 2023-07-06 | 4.77 | 20,698 | 38,612 |

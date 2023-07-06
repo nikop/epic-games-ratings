@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 656)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~54,107 |
-| This is only the beginning | 19.00% | ~41,122 |
-| Knowledge is power | 12.00% | ~25,971 |
-| Power Ranger | 9.00% | ~19,479 |
-| Galvanic Rifle | 9.00% | ~19,479 |
-| Taser Goad | 9.00% | ~19,479 |
-| Radium Ready | 9.00% | ~19,479 |
-| Half a cog | 9.00% | ~19,479 |
+| No aid from the Omnissiah | 25.00% | ~54,110 |
+| This is only the beginning | 19.00% | ~41,123 |
+| Knowledge is power | 12.00% | ~25,973 |
+| Power Ranger | 9.00% | ~19,480 |
+| Galvanic Rifle | 9.00% | ~19,480 |
+| Taser Goad | 9.00% | ~19,480 |
+| Radium Ready | 9.00% | ~19,480 |
+| Half a cog | 9.00% | ~19,480 |
 | Watch them crumble | 6.00% | ~12,986 |
-| Competent Cohort | 4.00% | ~8,657 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,657 |
-| One with the Machine | 4.00% | ~8,657 |
+| Competent Cohort | 4.00% | ~8,658 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,658 |
+| One with the Machine | 4.00% | ~8,658 |
 | Legio Cybernetica | 3.00% | ~6,493 |
 | Fleshy Disposal | 3.00% | ~6,493 |
 | Battle Servitor | 2.00% | ~4,329 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 656)
 | Impatient destruction | 2.00% | ~4,329 |
 | Vivisected Vizier | 2.00% | ~4,329 |
 | Architect Abortion | 2.00% | ~4,329 |
-| Cohortus Maximus | 0.80% | ~1,731 |
+| Cohortus Maximus | 0.80% | ~1,732 |
 | Mother of Xenarites | 0.40% | ~866 |
 | False God | 0.30% | ~649 |
 | Hard | 0.20% | ~433 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 656)
 | Perma-live | 0.10% | ~216 |
 | Purge the Heretek | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,429 (Ranked 50)  
+Progressed: 216,439 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 4 (0.00%) (Ranked 234)
 | 2023-07-03 | 216,201 | 4 |
 | 2023-07-04 | 216,287 | 4 |
 | 2023-07-05 | 216,383 | 4 |
-| 2023-07-06 | 216,429 | 4 |
+| 2023-07-06 | 216,439 | 4 |
 ## Awards
 Max (Highly Recommended): 280  (Ranked 237)  
 Sum: 2,118 (Ranked 191)  

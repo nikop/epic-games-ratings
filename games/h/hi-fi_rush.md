@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| NOW we got a kickass hideout! | 0.50% | ~10 |
-| Call me Turbo Chai | 0.30% | ~6 |
+| NOW we got a kickass hideout! | 0.60% | ~12 |
+| Call me Turbo Chai | 0.40% | ~8 |
 | The Negotiator | 0.20% | ~7 |
 | Time to pay up! | 0.20% | ~7 |
 | Who's the boss now? | 0.20% | ~7 |

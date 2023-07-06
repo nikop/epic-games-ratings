@@ -38,17 +38,17 @@
       "ID": "animal_kills_achievement",
       "SetID": "4l4e229",
       "Name": "Hunting for Sport",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bullets_fired_achievement",
       "SetID": "4l4e229",
       "Name": "Shots Fired!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "carl_kills_achievement",
@@ -62,9 +62,9 @@
       "ID": "catknight_achievement",
       "SetID": "4l4e229",
       "Name": "Cat Knight",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "falls_achievement",
@@ -150,9 +150,9 @@
       "ID": "player_deaths_achievment",
       "SetID": "4l4e229",
       "Name": "Just taking a nap...",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "pup_found_achievement",
@@ -198,9 +198,9 @@
       "ID": "turret_kills_achievement",
       "SetID": "4l4e229",
       "Name": "Guns Blazing",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "zombie_kills_achievement",
@@ -228,8 +228,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T19:04:28.6969533+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:04:49.435654+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:04:50.959097+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.0587903+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:59:08.2395469+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:04:49.4356698+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:59:14.140374+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:04:50.9591139+00:00"
 }

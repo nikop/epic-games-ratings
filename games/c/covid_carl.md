@@ -4,11 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hunting for Sport | 100.00% | ~1 |
+| Shots Fired! | 100.00% | ~1 |
+| Cat Knight | 100.00% | ~1 |
 | Jump Around | 100.00% | ~1 |
-| Hunting for Sport | 0.00% | ~0 |
-| Shots Fired! | 0.00% | ~0 |
+| Just taking a nap... | 100.00% | ~1 |
+| Guns Blazing | 100.00% | ~1 |
 | Covid Carl is a Loser | 0.00% | ~0 |
-| Cat Knight | 0.00% | ~0 |
 | The Fall Guy | 0.00% | ~0 |
 | The Burninator | 0.00% | ~0 |
 | Covid Champion | 0.00% | ~0 |
@@ -18,13 +20,11 @@
 | Mechwarrior | 0.00% | ~0 |
 | Rumplestiltskin | 0.00% | ~0 |
 | So sleepy... | 0.00% | ~0 |
-| Just taking a nap... | 0.00% | ~0 |
 | Good Girl | 0.00% | ~0 |
 | Three Law Breakers | 0.00% | ~0 |
 | All the points | 0.00% | ~0 |
 | Just here for even more points | 0.00% | ~0 |
 | Just here for the points | 0.00% | ~0 |
-| Guns Blazing | 0.00% | ~0 |
 | Knee Deep in the Walking Dead | 0.00% | ~0 |
 | For Gamers by Gamers | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

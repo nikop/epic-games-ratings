@@ -8,21 +8,21 @@ Rating: 4.19 (Ranked 844)
 | Get a Grip | 2.00% | ~313 |
 | Paper Jams | 2.00% | ~313 |
 | Keep Fighting | 2.00% | ~72 |
-| You Need a Gun | 1.00% | ~156 |
-| Flesh Wound | 1.00% | ~156 |
-| I Do Belong Here | 1.00% | ~156 |
-| Two Heads Are Better Than One | 1.00% | ~156 |
-| Chew 'Em Up | 1.00% | ~156 |
-| Workplace Hazard | 1.00% | ~156 |
-| Float Like A Butterfly | 1.00% | ~156 |
-| Reforged | 1.00% | ~156 |
-| If the SHU Fits... | 1.00% | ~156 |
-| Without A Paddle | 1.00% | ~156 |
-| In the Pipe, Five by Five | 1.00% | ~156 |
-| What Lies Beneath | 1.00% | ~156 |
-| Crash Site | 1.00% | ~156 |
-| Full Circle | 1.00% | ~156 |
-| Power Up | 1.00% | ~156 |
+| You Need a Gun | 1.00% | ~157 |
+| Flesh Wound | 1.00% | ~157 |
+| I Do Belong Here | 1.00% | ~157 |
+| Two Heads Are Better Than One | 1.00% | ~157 |
+| Chew 'Em Up | 1.00% | ~157 |
+| Workplace Hazard | 1.00% | ~157 |
+| Float Like A Butterfly | 1.00% | ~157 |
+| Reforged | 1.00% | ~157 |
+| If the SHU Fits... | 1.00% | ~157 |
+| Without A Paddle | 1.00% | ~157 |
+| In the Pipe, Five by Five | 1.00% | ~157 |
+| What Lies Beneath | 1.00% | ~157 |
+| Crash Site | 1.00% | ~157 |
+| Full Circle | 1.00% | ~157 |
+| Power Up | 1.00% | ~157 |
 | It's Time | 1.00% | ~36 |
 | Giving Back | 0.90% | ~141 |
 | Terminated | 0.90% | ~141 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 844)
 | I am the Danger | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,649 (Ranked 107)  
+Progressed: 15,651 (Ranked 107)  
 Completed: 64 (0.41%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 64 (0.41%) (Ranked 134)
 | 2023-07-03 | 15,623 | 63 |
 | 2023-07-04 | 15,636 | 63 |
 | 2023-07-05 | 15,644 | 64 |
-| 2023-07-06 | 15,649 | 64 |
+| 2023-07-06 | 15,651 | 64 |
 ## Awards
 Max (Amazing Storytelling): 64  (Ranked 379)  
 Sum: 367 (Ranked 319)  

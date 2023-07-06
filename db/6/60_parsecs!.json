@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -463,6 +463,11 @@
       "Time": "2023-07-06T16:05:32.0945698+00:00",
       "NumProgressed": 668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-06T17:05:44.204682+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -498,7 +503,7 @@
       "Name": "All Seats Taken",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -538,7 +543,7 @@
       "Name": "Crafty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Achievement_DontPanic",
@@ -546,7 +551,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Achievement_DustToDust",
@@ -616,9 +621,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 535
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -650,7 +655,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Achievement_Improvinator",
@@ -730,7 +735,7 @@
       "Name": "Non-Fiction",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Achievement_SecondLife",
@@ -762,7 +767,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -825,7 +830,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 1
     }
   ],
@@ -833,8 +838,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:05:32.0945691+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:05:44.2046815+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:38.5301057+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:59:55.5440424+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:05:32.0946024+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:00:12.3136751+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:05:44.2047222+00:00"
 }

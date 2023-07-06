@@ -26,7 +26,7 @@ Rating: 4.66 (Ranked 273)
 | Unbreakable | 34.00% | ~1,549 |
 | Atomic drill | 32.00% | ~1,458 |
 | This is the end | 32.00% | ~1,458 |
-| Gotta get 'em all | 30.00% | ~1,366 |
+| Gotta get 'em all | 31.00% | ~1,412 |
 | Disco Roach | 26.00% | ~1,184 |
 | Dawkins Residence | 20.00% | ~911 |
 | Rescue time! | 17.00% | ~774 |

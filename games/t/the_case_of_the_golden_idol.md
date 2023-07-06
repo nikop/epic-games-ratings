@@ -4,17 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved first case | 90.00% | ~145 |
-| Solved second case | 86.00% | ~138 |
-| Solved third case | 72.00% | ~116 |
-| Solved fourth case | 55.00% | ~89 |
-| Solved sixth case | 35.00% | ~56 |
-| Solved seventh case | 35.00% | ~56 |
-| Solved eighth case | 33.00% | ~53 |
-| Solved fifth case | 28.00% | ~45 |
-| Solved ninth case | 27.00% | ~43 |
-| Solved tenth case | 25.00% | ~40 |
-| Solved eleventh case | 19.00% | ~31 |
+| Solved first case | 2.00% | ~3 |
+| Solved The Spider of Lanka 1st Case | 2.00% | ~2 |
+| Solved second case | 1.00% | ~2 |
+| Solved eleventh case | 0.60% | ~1 |
+| Solved third case | 0.60% | ~1 |
+| Solved fourth case | 0.60% | ~1 |
+| Solved fifth case | 0.60% | ~1 |
+| Solved sixth case | 0.60% | ~1 |
+| Solved seventh case | 0.60% | ~1 |
+| Solved eighth case | 0.60% | ~1 |
+| Solved ninth case | 0.60% | ~1 |
+| Solved tenth case | 0.60% | ~1 |
+| Solved The Spider of Lanka 2nd Case | 0.60% | ~1 |
+| Solved The Spider of Lanka 3rd Case | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 278)  
 Completed: 8 (4.97%) (Ranked 38)  

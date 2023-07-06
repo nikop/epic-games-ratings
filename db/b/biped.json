@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3837,
+  "EOS_Progressed": 3840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5476,6 +5476,11 @@
       "Time": "2023-07-06T16:07:21.5039393+00:00",
       "NumProgressed": 3837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T17:07:41.194485+00:00",
+      "NumProgressed": 3840,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -5487,7 +5492,7 @@
       "Name": "First Step",
       "Percentage": 41,
       "XP": 45,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "10",
@@ -5543,7 +5548,7 @@
       "Name": "Dense Forest",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "3",
@@ -5551,7 +5556,7 @@
       "Name": "Cactus Vally",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "4",
@@ -5559,7 +5564,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "5",
@@ -5591,7 +5596,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "9",
@@ -5606,7 +5611,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 3837,
+      "Progressed": 3840,
       "Completed": 0
     }
   ],
@@ -5614,8 +5619,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:07:21.5039389+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:07:41.1944846+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.6056115+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:58:55.5302557+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:07:21.5039834+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:59:00.1092658+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:07:41.1945324+00:00"
 }

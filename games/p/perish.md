@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~189 |
+| To Suffer is to Learn | 5.00% | ~157 |
 | Persephone's Guidance | 5.00% | ~157 |
 | Lochos | 5.00% | ~157 |
 | Strength of Herakles | 5.00% | ~157 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,145 (Ranked 146)  
+Progressed: 3,147 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 0 (0.00%) (Ranked 234)
 | 2023-07-03 | 3,130 | 0 |
 | 2023-07-04 | 3,140 | 0 |
 | 2023-07-05 | 3,141 | 0 |
-| 2023-07-06 | 3,145 | 0 |
+| 2023-07-06 | 3,147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

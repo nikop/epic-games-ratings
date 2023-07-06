@@ -615,96 +615,120 @@
       "NumCompleted": 8
     }
   ],
-  "TotalAchievements": 11,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1220,
   "Achievements": [
     {
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 90,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 3
     },
     {
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 86,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 138
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 19,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 72,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 1
     },
     {
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 55,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 1
     },
     {
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 28,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 35,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 35,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 1
     },
     {
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 33,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 1
     },
     {
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 27,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 1
     },
     {
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 25,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "11",
+      "SetID": "a3epimb",
+      "Name": "Solved The Spider of Lanka 1st Case",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "12",
+      "SetID": "a3epimb",
+      "Name": "Solved The Spider of Lanka 2nd Case",
+      "Percentage": 0.6,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "13",
+      "SetID": "a3epimb",
+      "Name": "Solved The Spider of Lanka 3rd Case",
+      "Percentage": 0.6,
+      "XP": 100,
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -725,8 +749,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:05:28.0192243+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:05:40.1942863+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:29.2373882+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:59:46.7554137+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:05:28.0192376+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:59:57.8822954+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:05:40.1943017+00:00"
 }

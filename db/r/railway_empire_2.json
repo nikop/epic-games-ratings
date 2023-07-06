@@ -110,7 +110,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -2985,6 +2985,11 @@
       "Time": "2023-07-06T14:06:49.6891429+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T17:08:06.6456822+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -3020,7 +3025,7 @@
       "Name": "Resistance is futile",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "A04",
@@ -3076,7 +3081,7 @@
       "Name": "From X to Y",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "A11",
@@ -3108,7 +3113,7 @@
       "Name": "A new Journey",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "A15",
@@ -3116,7 +3121,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "A16",
@@ -3132,7 +3137,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "A18",
@@ -3156,7 +3161,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "A21",
@@ -3172,7 +3177,7 @@
       "Name": "Brainstorm",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "A23",
@@ -3220,7 +3225,7 @@
       "Name": "We brake for nobody",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "A29",
@@ -3276,7 +3281,7 @@
       "Name": "Traffic Junction",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "A36",
@@ -3284,7 +3289,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "A37",
@@ -3292,7 +3297,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "A38",
@@ -3300,7 +3305,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "A39",
@@ -3372,7 +3377,7 @@
       "Name": "Travel Company",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "A48",
@@ -3435,7 +3440,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 0
     }
   ],
@@ -3443,8 +3448,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-07-06T14:58:40.3074977+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:07:36.8864507+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:08:06.645682+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.7506508+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:58:58.5018007+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:07:36.8865091+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:59:04.8563065+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:08:06.6457432+00:00"
 }

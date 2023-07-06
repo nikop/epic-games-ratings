@@ -30,10 +30,10 @@ Rating: 4.45 (Ranked 621)
 | Precision Is Key | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
 | Explosive Efficiency | 0.70% | ~23 |
+| Close Quarters | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Die Nussknacker Sweet! | 0.60% | ~19 |
-| Close Quarters | 0.60% | ~19 |
 | Fields of Glory | 0.50% | ~16 |
 | Just a Flesh Wound | 0.50% | ~16 |
 | The Long Game | 0.50% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 621)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,217 (Ranked 145)  
+Progressed: 3,218 (Ranked 145)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-03 | 3,205 | 6 |
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
-| 2023-07-06 | 3,217 | 9 |
+| 2023-07-06 | 3,218 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

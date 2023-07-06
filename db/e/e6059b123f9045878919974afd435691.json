@@ -2,7 +2,7 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 88,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 396,
+  "EOS_Progressed": 400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2023-07-06T15:04:22.8175401+00:00",
       "NumProgressed": 396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-06T17:04:25.9410731+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -612,7 +617,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 204
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -620,7 +625,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -628,7 +633,7 @@
       "Name": "FULLCLIP",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -652,7 +657,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -684,7 +689,7 @@
       "Name": "Capraphobia",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -732,7 +737,7 @@
       "Name": "Burnt Smell",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -754,9 +759,9 @@
       "ID": "BURN_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Completing The Duty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -812,7 +817,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -892,7 +897,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -900,7 +905,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -908,7 +913,7 @@
       "Name": "Decakill!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -932,7 +937,7 @@
       "Name": "And There We Go",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -972,7 +977,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -988,7 +993,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -1004,7 +1009,7 @@
       "Name": "Night Snack",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -1044,7 +1049,7 @@
       "Name": "The Last of Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1060,7 +1065,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1130,23 +1135,23 @@
       "ID": "WINS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Do You Accept The Challenge?",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 396,
+      "Progressed": 400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:04:23.4262535+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:04:25.9410725+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:57:09.6635302+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:04:23.4263231+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:57:17.7301882+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:04:25.9411474+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -4564,17 +4564,17 @@
       "ID": "Ach062",
       "SetID": "b7dbjo0",
       "Name": "NOW we got a kickass hideout!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Ach063",
       "SetID": "b7dbjo0",
       "Name": "Call me Turbo Chai",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach064",
@@ -4659,8 +4659,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:02:21.8492323+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:02:56.133331+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-06T15:59:34.2705502+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:02:21.8493314+00:00"
+  "LastUpdate_Ratings": "2023-07-06T16:59:45.6423408+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:02:56.1334307+00:00"
 }

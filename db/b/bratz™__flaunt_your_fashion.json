@@ -151,9 +151,9 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "13",
@@ -288,8 +288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-07-06T16:05:01.6659452+00:00",
+  "LastChanged_Achievements": "2023-07-06T17:05:13.1685798+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:55.9962354+00:00",
-  "LastUpdate_Ratings": "2023-07-06T16:00:07.8285344+00:00",
-  "LastUpdate_Achievements": "2023-07-06T16:05:01.665961+00:00"
+  "LastUpdate_Ratings": "2023-07-06T17:00:26.2254147+00:00",
+  "LastUpdate_Achievements": "2023-07-06T17:05:13.168593+00:00"
 }
