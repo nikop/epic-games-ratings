@@ -228,7 +228,7 @@
 | 220 | [INSIDE](games/i/inside.md) | 4.69 | 0 | 504 |
 | 220 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 504 |
 | 220 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 504 |
-| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,293 | 33 |
+| 220 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,294 | 33 |
 | 220 | [Suzerain](games/s/suzerain.md) | 4.69 | 0 | 504 |
 | 220 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 504 |
 | 220 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 504 |
@@ -804,7 +804,7 @@
 | 801 | [Chess Ultra](games/c/chess_ultra.md) | 4.26 | 0 | 504 |
 | 801 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.26 | 27 | 463 |
 | 801 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 504 |
-| 805 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,555 | 23 |
+| 805 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.25 | 14,628 | 23 |
 | 805 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,037 | 140 |
 | 805 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 0 | 504 |
 | 805 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.25 | 0 | 504 |
