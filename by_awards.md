@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 59,764 | 4.53 | 507 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 58,702 | 4.58 | 423 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 40,215 | 4.61 | 362 |
-| 13 | [Destiny 2](games/d/destiny_2.md) | 35,500 | 4.50 | 552 |
+| 13 | [Destiny 2](games/d/destiny_2.md) | 35,530 | 4.50 | 552 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 34,066 | 4.74 | 144 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 29,615 | 4.52 | 520 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,642 | 4.65 | 299 |
@@ -141,7 +141,7 @@
 | 139 | [Saints Row](games/s/saints_row.md) | 1,046 | 3.78 | 941 |
 | 140 | [EVE Online](games/e/eve_online.md) | 1,037 | 4.25 | 805 |
 | 141 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,024 | 4.51 | 539 |
-| 142 | [Ooblets](games/o/ooblets.md) | 1,013 | 4.87 | 25 |
+| 142 | [Ooblets](games/o/ooblets.md) | 1,014 | 4.87 | 25 |
 | 143 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 822 |
 | 144 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,005 | 4.40 | 688 |
 | 145 | [Torchlight II](games/t/torchlight_ii.md) | 991 | 4.59 | 412 |

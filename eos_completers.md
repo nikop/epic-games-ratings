@@ -65,7 +65,7 @@
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.61% |
+| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.60% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |

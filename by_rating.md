@@ -26,7 +26,7 @@
 | 18 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.88 | 0 | 504 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,407 | 123 |
 | 25 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 504 |
-| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,013 | 142 |
+| 25 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,014 | 142 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 504 |
 | 28 | [Black Book](games/b/black_book.md) | 4.86 | 21 | 492 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 141 | 296 |
@@ -556,7 +556,7 @@
 | 552 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 504 |
 | 552 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 90 | 344 |
 | 552 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 504 |
-| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,500 | 13 |
+| 552 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 35,530 | 13 |
 | 552 | [Duskers](games/d/duskers.md) | 4.50 | 0 | 504 |
 | 552 | [First Class Trouble](games/f/first_class_trouble.md) | 4.50 | 109 | 320 |
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,521 | 94 |
