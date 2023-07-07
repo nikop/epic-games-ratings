@@ -5778,9 +5778,9 @@
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
       "SetID": "4ajkb4b",
       "Name": "Imbued Memories",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 36331
+      "UsersEstimate": 37121
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -5978,8 +5978,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-06-30T02:17:53.0737802+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:05:27.6769564+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:05:44.1913326+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:01.5577542+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:00:48.8558695+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:05:27.677024+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:01:07.8104768+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:05:44.1914011+00:00"
 }

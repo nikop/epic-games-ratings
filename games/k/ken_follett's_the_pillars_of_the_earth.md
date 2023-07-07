@@ -10,18 +10,18 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 35.00% | ~4,810 |
 | Friends of sorts | 34.00% | ~4,673 |
 | Yet another secret | 34.00% | ~4,673 |
-| Let there be darkness | 33.00% | ~4,535 |
-| End of Book One | 31.00% | ~4,260 |
+| Let there be darkness | 33.00% | ~4,536 |
+| End of Book One | 31.00% | ~4,261 |
 | Garden of Eden | 25.00% | ~3,436 |
-| Wannabe knight | 24.00% | ~3,298 |
-| Full house | 24.00% | ~3,298 |
-| Help an old friend | 22.00% | ~3,023 |
+| Wannabe knight | 24.00% | ~3,299 |
+| Full house | 24.00% | ~3,299 |
+| Help an old friend | 22.00% | ~3,024 |
 | Two of us | 20.00% | ~2,749 |
 | Negotiation skills | 19.00% | ~2,611 |
 | Workers' union | 18.00% | ~2,474 |
 | End of Book Two | 18.00% | ~2,474 |
 | Everything's in order | 17.00% | ~2,336 |
-| Jack was here! | 15.00% | ~2,061 |
+| Jack was here! | 15.00% | ~2,062 |
 | Twist of Fate | 14.00% | ~1,924 |
 | Exterminator | 14.00% | ~1,924 |
 | Whodunnit | 13.00% | ~1,787 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,237 |
 | The truth revealed | 9.00% | ~1,237 |
 | The End. | 9.00% | ~1,237 |
-| A cry for help | 8.00% | ~1,099 |
+| A cry for help | 8.00% | ~1,100 |
 | Silentium est aureum | 7.00% | ~962 |
 | Rebel without a cause | 6.00% | ~825 |
 | Staring contest champion | 5.00% | ~687 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~412 |
 | Boy of mystery | 2.00% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,743 (Ranked 111)  
+Progressed: 13,744 (Ranked 111)  
 Completed: 104 (0.76%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 104 (0.76%) (Ranked 109)
 | 2023-07-04 | 13,705 | 104 |
 | 2023-07-05 | 13,722 | 104 |
 | 2023-07-06 | 13,740 | 104 |
-| 2023-07-07 | 13,743 | 104 |
+| 2023-07-07 | 13,744 | 104 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 292)  
 Sum: 188 (Ranked 366)  

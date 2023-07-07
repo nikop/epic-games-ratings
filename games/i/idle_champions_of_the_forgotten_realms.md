@@ -6,32 +6,32 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,150 |
-| The Mad Wizard | 11.00% | ~22,843 |
-| The Ring of Regeneration | 7.00% | ~14,537 |
-| Are Ya Chicken? | 7.00% | ~14,537 |
-| Were-verpowered | 5.00% | ~10,383 |
-| Seeking Allies | 5.00% | ~10,383 |
-| Mad Cow Disease | 5.00% | ~10,383 |
-| Friendly Imps | 5.00% | ~10,383 |
-| A Persistent Buzzing | 4.00% | ~8,307 |
-| Pure Energy | 4.00% | ~8,307 |
-| Terror in the Dark | 3.00% | ~6,230 |
-| Unearthed Evil | 3.00% | ~6,230 |
-| The Crumbling Temple | 3.00% | ~6,230 |
-| Exploring Port Nyanzaru | 3.00% | ~6,230 |
-| The Contagious Curse | 3.00% | ~6,230 |
-| Beast Mode | 2.00% | ~4,153 |
-| Low Initiative | 2.00% | ~4,153 |
-| A Mysterious Summons | 2.00% | ~4,153 |
-| Building Trust | 2.00% | ~4,153 |
-| No Time To Rest | 2.00% | ~4,153 |
-| Useless Allies | 2.00% | ~4,153 |
-| Running of the Saurs | 2.00% | ~4,153 |
-| Escort to Waterdeep | 2.00% | ~4,153 |
-| Waterdeep Detours | 2.00% | ~4,153 |
-| Underdeep Cartography | 2.00% | ~4,153 |
-| The Templar's Camp | 2.00% | ~4,153 |
+| The Cursed Farmer | 15.00% | ~31,154 |
+| The Mad Wizard | 11.00% | ~22,846 |
+| The Ring of Regeneration | 7.00% | ~14,538 |
+| Are Ya Chicken? | 7.00% | ~14,538 |
+| Were-verpowered | 5.00% | ~10,385 |
+| Seeking Allies | 5.00% | ~10,385 |
+| Mad Cow Disease | 5.00% | ~10,385 |
+| Friendly Imps | 5.00% | ~10,385 |
+| A Persistent Buzzing | 4.00% | ~8,308 |
+| Pure Energy | 4.00% | ~8,308 |
+| Terror in the Dark | 3.00% | ~6,231 |
+| Unearthed Evil | 3.00% | ~6,231 |
+| The Crumbling Temple | 3.00% | ~6,231 |
+| Exploring Port Nyanzaru | 3.00% | ~6,231 |
+| The Contagious Curse | 3.00% | ~6,231 |
+| Beast Mode | 2.00% | ~4,154 |
+| Low Initiative | 2.00% | ~4,154 |
+| A Mysterious Summons | 2.00% | ~4,154 |
+| Building Trust | 2.00% | ~4,154 |
+| No Time To Rest | 2.00% | ~4,154 |
+| Useless Allies | 2.00% | ~4,154 |
+| Running of the Saurs | 2.00% | ~4,154 |
+| Escort to Waterdeep | 2.00% | ~4,154 |
+| Waterdeep Detours | 2.00% | ~4,154 |
+| Underdeep Cartography | 2.00% | ~4,154 |
+| The Templar's Camp | 2.00% | ~4,154 |
 | Homecoming | 1.00% | ~2,077 |
 | Street War | 1.00% | ~2,077 |
 | March of the Undead | 1.00% | ~2,077 |
@@ -49,18 +49,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.90% | ~1,869 |
 | Dinosaur Racing | 0.90% | ~1,869 |
 | Lost in the Deep | 0.90% | ~1,869 |
-| The Lost Heir of Omu | 0.80% | ~1,661 |
-| The Forbidden City | 0.80% | ~1,661 |
-| Wisdom Check | 0.80% | ~1,661 |
-| The Mists of Ravenloft | 0.80% | ~1,661 |
-| Attack on the Manor | 0.80% | ~1,661 |
-| The Dead Three | 0.80% | ~1,661 |
-| The Long Haul | 0.80% | ~1,661 |
-| Easily Distracted | 0.80% | ~1,661 |
+| The Lost Heir of Omu | 0.80% | ~1,662 |
+| The Forbidden City | 0.80% | ~1,662 |
+| Wisdom Check | 0.80% | ~1,662 |
+| The Mists of Ravenloft | 0.80% | ~1,662 |
+| Attack on the Manor | 0.80% | ~1,662 |
+| The Dead Three | 0.80% | ~1,662 |
+| The Long Haul | 0.80% | ~1,662 |
+| Easily Distracted | 0.80% | ~1,662 |
 | Captured! | 0.70% | ~1,454 |
 | A Grand Puzzle | 0.70% | ~1,454 |
 | Treasure Hunters | 0.70% | ~1,454 |
 | Nimble Escape | 0.70% | ~1,454 |
+| The Darkness Runs Deeper | 0.70% | ~1,454 |
 | The Giant's Bane Tavern | 0.70% | ~1,218 |
 | Rude Welcome | 0.70% | ~1,454 |
 | The Haunted Jungle | 0.70% | ~1,454 |
@@ -72,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.60% | ~1,246 |
 | Enter the Sargauth | 0.60% | ~1,246 |
 | Crowded Streets | 0.60% | ~1,246 |
-| The Darkness Runs Deeper | 0.60% | ~1,246 |
 | Market Fluctuations | 0.60% | ~1,246 |
 | Durable Deep | 0.60% | ~1,246 |
 | Force Grey Unleashed | 0.50% | ~1,038 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,667 (Ranked 52)  
+Progressed: 207,692 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,667 | 2,035 |
+| 2023-07-07 | 207,692 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,419 (Ranked 37)  

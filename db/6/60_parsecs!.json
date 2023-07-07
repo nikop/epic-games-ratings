@@ -618,9 +618,9 @@
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 221
     },
     {
       "ID": "Achievement_Friendzone",
@@ -843,8 +843,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:05:30.8570032+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:05:47.2864625+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:38.5301057+00:00",
-  "LastUpdate_Ratings": "2023-07-07T05:59:34.4915061+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:05:30.8570445+00:00"
+  "LastUpdate_Ratings": "2023-07-07T06:59:56.0624702+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:05:47.2865+00:00"
 }

@@ -27,15 +27,15 @@ Rating: 4.46 (Ranked 603)
 | The More The Merrier | 20.00% | ~530 |
 | Stuff Of Nightmares | 16.00% | ~424 |
 | The Darwin Era Was Here | 16.00% | ~424 |
-| Come on, You Wanna Live Forever? | 14.00% | ~371 |
+| Come on, You Wanna Live Forever? | 15.00% | ~398 |
 | Deep Into Insanity | 14.00% | ~371 |
 | The Passenger | 14.00% | ~371 |
 | El Riesgo Siempre Vive | 13.00% | ~345 |
 | One For Every Occasion | 11.00% | ~292 |
 | The Spire | 11.00% | ~292 |
+| Bandage Lover | 10.00% | ~265 |
 | Frontliner | 10.00% | ~265 |
 | The Cable Guy | 10.00% | ~265 |
-| Bandage Lover | 9.00% | ~239 |
 | Heavy Steps | 8.00% | ~212 |
 | Excavating The Truth | 8.00% | ~212 |
 | Abysmal Horrors | 8.00% | ~212 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 603)
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,652 (Ranked 154)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,29 +1,29 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.56 (Ranked 458)  
+Rating: 4.56 (Ranked 457)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~92,866 |
-| Where's that freaking Dwarf? | 44.00% | ~71,686 |
-| GG EZ | 27.00% | ~43,989 |
-| Speedrun | 25.00% | ~40,731 |
-| Déjà vu | 19.00% | ~30,955 |
-| Sock! SOCK! | 12.00% | ~19,551 |
-| DM intervention | 11.00% | ~17,922 |
-| A beer, two curses, three companions | 6.00% | ~9,775 |
-| Fireproof Wizardess | 5.00% | ~8,146 |
-| Way of the Wimp | 4.00% | ~6,517 |
-| Livin' in a dwarven paradise | 3.00% | ~4,888 |
-| The plot thickens... At the tavern | 3.00% | ~4,888 |
-| The Woman in the High Castle | 3.00% | ~4,888 |
-| Res Judicata | 2.00% | ~3,258 |
-| Team Building Exercise | 2.00% | ~3,258 |
-| The demons' feast | 1.00% | ~1,629 |
-| I am the night | 1.00% | ~1,629 |
-| The Great Library | 0.70% | ~1,140 |
+| Alt+F4 | 57.00% | ~92,946 |
+| Where's that freaking Dwarf? | 44.00% | ~71,748 |
+| GG EZ | 27.00% | ~44,027 |
+| Speedrun | 25.00% | ~40,766 |
+| Déjà vu | 19.00% | ~30,982 |
+| Sock! SOCK! | 12.00% | ~19,568 |
+| DM intervention | 11.00% | ~17,937 |
+| A beer, two curses, three companions | 6.00% | ~9,784 |
+| Fireproof Wizardess | 5.00% | ~8,153 |
+| Way of the Wimp | 4.00% | ~6,523 |
+| Livin' in a dwarven paradise | 3.00% | ~4,892 |
+| The plot thickens... At the tavern | 3.00% | ~4,892 |
+| The Woman in the High Castle | 3.00% | ~4,892 |
+| Res Judicata | 2.00% | ~3,261 |
+| Team Building Exercise | 2.00% | ~3,261 |
+| The demons' feast | 1.00% | ~1,631 |
+| I am the night | 1.00% | ~1,631 |
+| The Great Library | 0.70% | ~1,141 |
 | Oh, when I'll be level 10... | 0.60% | ~978 |
 | Shiny and Crôm | 0.50% | ~815 |
 | Torture and Sensibility | 0.50% | ~815 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162,923 (Ranked 58)  
-Completed: 0 (0.00%) (Ranked 236)  
+Progressed: 163,064 (Ranked 58)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-04 | 141,340 | 0 |
 | 2023-07-05 | 152,547 | 0 |
 | 2023-07-06 | 161,722 | 0 |
-| 2023-07-07 | 162,923 | 0 |
+| 2023-07-07 | 163,064 | 0 |
 ## Awards
 Max (Character Customization): 70  (Ranked 372)  
 Sum: 70 (Ranked 429)  

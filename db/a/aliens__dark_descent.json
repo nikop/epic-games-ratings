@@ -6,7 +6,7 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2053,9 +2053,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -2069,9 +2069,9 @@
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2262,8 +2262,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-06T13:20:03.1006988+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:07:15.7374419+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:07:32.0756758+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:00:13.3683619+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:07:15.7374926+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:00:31.7671545+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:07:32.075727+00:00"
 }

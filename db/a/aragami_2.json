@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36834,
+  "EOS_Progressed": 36835,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7689,6 +7689,11 @@
       "Time": "2023-07-07T06:02:10.9009325+00:00",
       "NumProgressed": 36834,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2023-07-07T07:02:27.6115391+00:00",
+      "NumProgressed": 36835,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 44,
@@ -7700,7 +7705,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 20995
+      "UsersEstimate": 20996
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -7828,7 +7833,7 @@
       "Name": "Master Ninja",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -7860,7 +7865,7 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -7876,7 +7881,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -7884,7 +7889,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -7924,7 +7929,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 20627
+      "UsersEstimate": 20628
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -7940,7 +7945,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 23205
+      "UsersEstimate": 23206
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -7964,7 +7969,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 22100
+      "UsersEstimate": 22101
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -8004,7 +8009,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 16575
+      "UsersEstimate": 16576
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -8036,7 +8041,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 34256
+      "UsersEstimate": 34257
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -8051,7 +8056,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 36834,
+      "Progressed": 36835,
       "Completed": 183
     }
   ],
@@ -8059,8 +8064,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-06-11T14:58:10.4478603+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:02:10.9009315+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:02:27.6115385+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:01.8892651+00:00",
-  "LastUpdate_Ratings": "2023-07-07T05:58:57.4369177+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:02:10.9010154+00:00"
+  "LastUpdate_Ratings": "2023-07-07T06:59:15.4636061+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:02:27.6116692+00:00"
 }

@@ -39,8 +39,8 @@
 | Terrifically Trashed | 15.00% | ~34 |
 | Thrilled Tenants | 15.00% | ~34 |
 | Smooth Operator | 13.00% | ~30 |
+| Swimming in Surplus | 13.00% | ~30 |
 | 28 Days Later | 12.00% | ~28 |
-| Swimming in Surplus | 12.00% | ~28 |
 | Plaza Plan | 10.00% | ~23 |
 | Master of Puppets | 10.00% | ~23 |
 | First 100 Days | 9.00% | ~21 |
@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 230 (Ranked 258)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

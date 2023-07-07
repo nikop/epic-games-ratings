@@ -5,15 +5,15 @@ Rating: 4.49 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~20,696 |
-| Advancement | 73.00% | ~17,567 |
+| Stylish | 86.00% | ~20,697 |
+| Advancement | 73.00% | ~17,568 |
 | Meticulously Efficient | 64.00% | ~15,402 |
 | Discovery | 61.00% | ~14,680 |
-| Fully Upgraded | 54.00% | ~12,995 |
-| Swift Rift Removers | 54.00% | ~12,995 |
+| Fully Upgraded | 54.00% | ~12,996 |
+| Swift Rift Removers | 54.00% | ~12,996 |
 | Cultured | 52.00% | ~12,514 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~12,273 |
-| Vaporous Expansion | 48.00% | ~11,551 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~12,274 |
+| Vaporous Expansion | 48.00% | ~11,552 |
 | Teamwork | 44.00% | ~10,589 |
 | There you are! | 43.00% | ~10,348 |
 | Clutch Capture | 41.00% | ~9,867 |
@@ -38,12 +38,12 @@ Rating: 4.49 (Ranked 573)
 | Terrifying | 18.00% | ~4,332 |
 | Tobin's Prodigy | 18.00% | ~4,332 |
 | Reckless | 17.00% | ~4,091 |
-| Diabolical | 16.00% | ~3,850 |
-| Escape Artist | 16.00% | ~3,850 |
-| Seasoned | 16.00% | ~3,850 |
+| Diabolical | 16.00% | ~3,851 |
+| Escape Artist | 16.00% | ~3,851 |
+| Seasoned | 16.00% | ~3,851 |
 | Whoopsie | 12.00% | ~2,888 |
-| Liability | 10.00% | ~2,406 |
-| Rivalry | 10.00% | ~2,406 |
+| Liability | 10.00% | ~2,407 |
+| Rivalry | 10.00% | ~2,407 |
 | Fragile Panes | 9.00% | ~2,166 |
 | Surprise! | 9.00% | ~2,166 |
 | Master Collector | 7.00% | ~1,685 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 573)
 | I don't need these | 1.00% | ~241 |
 | Mycophile | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,065 (Ranked 96)  
+Progressed: 24,066 (Ranked 96)  
 Completed: 46 (0.19%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 46 (0.19%) (Ranked 161)
 | 2023-07-04 | 24,004 | 46 |
 | 2023-07-05 | 24,022 | 46 |
 | 2023-07-06 | 24,061 | 46 |
-| 2023-07-07 | 24,065 | 46 |
+| 2023-07-07 | 24,066 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 240  (Ranked 249)  
 Sum: 2,152 (Ranked 188)  

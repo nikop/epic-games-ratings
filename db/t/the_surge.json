@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 4470,
+  "EOS_Progressed": 4471,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1567,6 +1567,11 @@
       "Time": "2023-07-06T11:03:40.6805806+00:00",
       "NumProgressed": 4470,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-07-07T07:03:41.7483572+00:00",
+      "NumProgressed": 4471,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 67,
@@ -1594,7 +1599,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -1602,7 +1607,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -1634,7 +1639,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -1642,7 +1647,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -1666,7 +1671,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -1674,7 +1679,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -1794,7 +1799,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1826,7 +1831,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1922,7 +1927,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1930,7 +1935,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -2113,15 +2118,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4470,
+      "Progressed": 4471,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-07-06T14:58:32.669808+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:03:25.9324363+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:03:41.7483566+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:25.7227291+00:00",
-  "LastUpdate_Ratings": "2023-07-07T05:58:29.7964668+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:03:25.9325218+00:00"
+  "LastUpdate_Ratings": "2023-07-07T06:58:44.1853344+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:03:41.7484453+00:00"
 }

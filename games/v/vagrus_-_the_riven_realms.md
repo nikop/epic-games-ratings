@@ -25,6 +25,7 @@
 | Supercargo | 3.00% | ~3 |
 | Strategist | 3.00% | ~3 |
 | Been There | 3.00% | ~3 |
+| Spiritual Journey | 3.00% | ~3 |
 | Pilgrimage's End | 3.00% | ~3 |
 | Merchant | 3.00% | ~3 |
 | Trouble at Fort Larius | 3.00% | ~3 |
@@ -32,7 +33,6 @@
 | Deputized | 2.00% | ~2 |
 | The Voice of Hereafter | 2.00% | ~2 |
 | Despised | 2.00% | ~2 |
-| Spiritual Journey | 2.00% | ~2 |
 | Inquisitions of Discord | 2.00% | ~2 |
 | Unseen Patterns | 2.00% | ~2 |
 | Bounty Hunter | 0.90% | ~1 |
@@ -105,7 +105,7 @@
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 113 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

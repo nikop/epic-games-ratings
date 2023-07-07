@@ -3,8 +3,8 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -888,9 +888,9 @@
       "ID": "ach_profit_1",
       "SetID": "b8gh1fi",
       "Name": "Swimming in Surplus",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_profit_2",
@@ -1129,8 +1129,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-07-07T06:07:31.0071002+00:00",
+  "LastChanged_Achievements": "2023-07-07T07:07:47.4377233+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:33.5069988+00:00",
-  "LastUpdate_Ratings": "2023-07-07T05:58:33.7658421+00:00",
-  "LastUpdate_Achievements": "2023-07-07T06:07:31.0072109+00:00"
+  "LastUpdate_Ratings": "2023-07-07T06:58:47.7484916+00:00",
+  "LastUpdate_Achievements": "2023-07-07T07:07:47.4378348+00:00"
 }

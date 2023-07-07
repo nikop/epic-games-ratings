@@ -14,10 +14,10 @@ Number of Ratings: 87  (23.09.2022)
 | Forgot something | 7.00% | ~52 |
 | Close call! | 6.00% | ~45 |
 | Common cause | 6.00% | ~45 |
+| Get out my way | 6.00% | ~45 |
 | Mega-railroad | 6.00% | ~45 |
 | Non-Stop | 6.00% | ~45 |
 | Builder | 5.00% | ~37 |
-| Get out my way | 5.00% | ~37 |
 | Just in time! | 5.00% | ~37 |
 | Need to think | 5.00% | ~37 |
 | Upgrade complete | 5.00% | ~37 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747 (Ranked 196)  
+Progressed: 748 (Ranked 196)  
 Completed: 1 (0.13%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 1 (0.13%) (Ranked 176)
 | 2023-07-02 | 744 | 1 |
 | 2023-07-05 | 745 | 1 |
 | 2023-07-06 | 747 | 1 |
+| 2023-07-07 | 748 | 1 |
 ## Awards
 Max (Challenging Puzzles): 72  (Ranked 369)  
 Sum: 72 (Ranked 427)  

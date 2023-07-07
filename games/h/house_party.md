@@ -12,7 +12,7 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Madison | 2.00% | ~114 |
 | The Brahdyssey | 1.00% | ~57 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~57 |
-| Life Found a Way | 1.00% | ~27 |
+| Life Found a Way | 1.00% | ~28 |
 | Relentless | 1.00% | ~57 |
 | If at First You Don't Succeed... | 1.00% | ~57 |
 | Drunk and Disorderly: Ashley | 0.70% | ~40 |
@@ -38,7 +38,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.20% | ~11 |
 | Beyond the Call of Dude-y | 0.20% | ~11 |
 | The Bride | 0.20% | ~11 |
-| Deck the Balls | 0.20% | ~5 |
+| Deck the Balls | 0.20% | ~6 |
 | Drunk and Disorderly: Madison | 0.20% | ~11 |
 | Do Not Burn | 0.20% | ~11 |
 | The Harder They Fall...Dood | 0.20% | ~11 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,710 (Ranked 132)  
+Progressed: 5,711 (Ranked 132)  
 Completed: 3 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 3 (0.05%) (Ranked 199)
 | 2023-07-04 | 5,701 | 3 |
 | 2023-07-05 | 5,705 | 3 |
 | 2023-07-06 | 5,709 | 3 |
-| 2023-07-07 | 5,710 | 3 |
+| 2023-07-07 | 5,711 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
