@@ -2490,9 +2490,9 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 507
     },
     {
       "ID": "SHADOW_BOXING",
@@ -2571,8 +2571,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:02:26.5727848+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:00:29.3777581+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:59:18.5663263+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:02:26.5728463+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:58:17.9846504+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:00:29.3778029+00:00"
 }

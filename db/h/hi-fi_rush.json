@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3415,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4146,9 +4146,9 @@
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach007",
@@ -4314,9 +4314,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach028",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:03:10.7760027+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:02:17.3273454+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:59:39.7501357+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:03:10.7761609+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:58:32.1802381+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:02:17.3274219+00:00"
 }

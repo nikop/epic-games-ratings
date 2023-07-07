@@ -6,6 +6,7 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.60% | ~12 |
+| Time to pay up! | 0.40% | ~14 |
 | Who's the boss now? | 0.40% | ~14 |
 | I play my own way! | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
@@ -13,9 +14,9 @@ Rating: 4.87 (Ranked 25)
 | Cream of the Crop | 0.30% | ~10 |
 | The Negotiator | 0.30% | ~10 |
 | Headliner | 0.30% | ~10 |
-| Time to pay up! | 0.30% | ~10 |
 | Thanks for the free chip, Peppermint! | 0.30% | ~10 |
 | You got this, Peppermint? | 0.30% | ~10 |
+| Z-shielding's got nothing on us! | 0.30% | ~10 |
 | Out in a puff of smoke | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
 | This will cost you big time | 0.20% | ~7 |
@@ -24,7 +25,6 @@ Rating: 4.87 (Ranked 25)
 | I have to read these things? | 0.20% | ~7 |
 | Feeling the beat! | 0.20% | ~7 |
 | You must like calling me in, Chai | 0.20% | ~7 |
-| Z-shielding's got nothing on us! | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |
 | Perfecter Parry-er! | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |

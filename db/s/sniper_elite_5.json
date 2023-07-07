@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -382,7 +382,7 @@
   "Tags": [],
   "EOS_Progressed": 3225,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -4998,9 +4998,9 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -5134,9 +5134,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -5182,9 +5182,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -5357,8 +5357,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:03:11.4062995+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:02:18.2179838+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:02:05.0271107+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:03:11.4064094+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:00:13.1177147+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:02:18.2180613+00:00"
 }

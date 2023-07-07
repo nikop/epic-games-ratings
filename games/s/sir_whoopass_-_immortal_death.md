@@ -13,7 +13,7 @@
 | AHHHHHH.....I'M ON FIRE!!! | 82.00% | ~74 |
 | Not so hip anymore! | 82.00% | ~74 |
 | Blurry depth perception | 80.00% | ~72 |
-| Up and down | 77.00% | ~69 |
+| Up and down | 78.00% | ~70 |
 | Rolling, Rolling, Rolling | 71.00% | ~64 |
 | Fire-fighter! | 67.00% | ~60 |
 | Oh, you're up to no gouda! | 61.00% | ~55 |

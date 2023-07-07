@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -5670,9 +5670,9 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -5749,8 +5749,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-07-07T06:58:40.0876705+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:06:52.7934555+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:05:21.7027036+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:18.2505574+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:58:54.115209+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:06:52.7935767+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:57:58.5561012+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:05:21.7027545+00:00"
 }

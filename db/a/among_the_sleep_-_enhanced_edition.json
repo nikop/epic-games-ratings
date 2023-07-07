@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,10 +443,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77737,
-  "EOS_Completed": 367,
-  "EOS_NewPlayers": 814,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 77742,
+  "EOS_Completed": 368,
+  "EOS_NewPlayers": 813,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
@@ -8673,6 +8673,11 @@
       "Time": "2023-07-07T14:04:38.6634844+00:00",
       "NumProgressed": 77737,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2023-07-07T15:03:46.5512809+00:00",
+      "NumProgressed": 77742,
+      "NumCompleted": 368
     }
   ],
   "TotalAchievements": 10,
@@ -8748,7 +8753,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 27208
+      "UsersEstimate": 27210
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -8756,22 +8761,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 8551
+      "UsersEstimate": 8552
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 77737,
-      "Completed": 367
+      "Progressed": 77742,
+      "Completed": 368
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:04:38.6634836+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:03:46.5512804+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:55.168225+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:01:56.2747454+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:04:38.6635975+00:00"
+  "LastUpdate_Ratings": "2023-07-07T15:00:07.3500239+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:03:46.5513252+00:00"
 }

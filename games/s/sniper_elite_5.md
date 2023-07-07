@@ -5,8 +5,10 @@ Rating: 4.45 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resourceful | 2.00% | ~64 |
 | Taking it back | 2.00% | ~64 |
 | Target America | 2.00% | ~64 |
+| The Kraken Sleeps | 2.00% | ~64 |
 | Climbing the Ladder | 1.00% | ~32 |
 | Liberté | 1.00% | ~32 |
 | No Stone Unturned | 1.00% | ~32 |
@@ -15,13 +17,11 @@ Rating: 4.45 (Ranked 620)
 | Sharpshooter | 1.00% | ~32 |
 | Confirming Suspicions | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
-| Resourceful | 1.00% | ~32 |
 | Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
-| The Kraken Sleeps | 1.00% | ~32 |
 | Organ Grinder | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
 | Set Europe Ablaze | 0.80% | ~26 |
@@ -39,6 +39,7 @@ Rating: 4.45 (Ranked 620)
 | The Long Game | 0.50% | ~16 |
 | Rigged to Blow | 0.50% | ~16 |
 | Tinkerer | 0.50% | ~16 |
+| Don't hold your breath | 0.40% | ~13 |
 | Herr Today, Gone Tomorrow | 0.40% | ~13 |
 | Siegebreaker | 0.40% | ~13 |
 | Ghost of Falaise | 0.40% | ~13 |
@@ -48,7 +49,6 @@ Rating: 4.45 (Ranked 620)
 | Souvenir hunter | 0.30% | ~10 |
 | It'll Buff Right Out | 0.30% | ~10 |
 | Road Rage | 0.30% | ~10 |
-| Don't hold your breath | 0.30% | ~10 |
 | Operation Foxley | 0.30% | ~10 |
 | Last Resort | 0.30% | ~10 |
 | If You Go Down To The Woods Today | 0.30% | ~10 |

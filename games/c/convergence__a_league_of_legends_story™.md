@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 18.00% | ~134 |
+| Time Heals All Wounds | 18.00% | ~135 |
 | The Mysterious Stranger | 15.00% | ~112 |
 | Rail Rat | 15.00% | ~112 |
 | Cartographer | 14.00% | ~105 |
@@ -58,8 +58,8 @@
 | Raw Talent | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747 (Ranked 197)  
-Completed: 4 (0.54%) (Ranked 124)  
+Progressed: 748 (Ranked 197)  
+Completed: 4 (0.53%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,4 +107,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-07-04 | 742 | 4 |
 | 2023-07-05 | 743 | 4 |
 | 2023-07-06 | 746 | 4 |
-| 2023-07-07 | 747 | 4 |
+| 2023-07-07 | 748 | 4 |

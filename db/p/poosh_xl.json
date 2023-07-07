@@ -4,7 +4,7 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -644,6 +644,11 @@
       "Time": "2023-07-06T08:08:47.4085786+00:00",
       "NumProgressed": 136,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-07T15:04:51.1034426+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -773,17 +778,17 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "Poosh Past 5000",
       "SetID": "5n829i",
       "Name": "Pooshed Past 5000",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "Poosh Past 7500",
@@ -799,7 +804,7 @@
       "Name": "Pooshed over 250000",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Terrible Start",
@@ -814,13 +819,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:06:08.482341+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:04:51.1034422+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:51.6409292+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:58:26.8116427+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:06:08.4823617+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:57:40.1758761+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:04:51.1034555+00:00"
 }

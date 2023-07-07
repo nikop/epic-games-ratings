@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.55 (Ranked 478)  
+Rating: 4.55 (Ranked 477)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,10 +23,10 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 11.00% | ~6,266 |
 | Wheels Within Wheels | 11.00% | ~6,266 |
 | The Six-Gun Scribe | 11.00% | ~6,266 |
+| Collateral Carnage | 11.00% | ~6,266 |
 | Come One, Come All | 11.00% | ~6,266 |
 | Heavy Metal | 10.00% | ~5,696 |
 | Perchance to Dream | 10.00% | ~5,696 |
-| Collateral Carnage | 10.00% | ~5,696 |
 | Gatekeeper | 9.00% | ~5,126 |
 | It's Not Just a Typewriter Brand | 9.00% | ~5,126 |
 | Thunder and Lightning | 9.00% | ~5,126 |

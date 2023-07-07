@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4936,
+  "EOS_Progressed": 4937,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4978,6 +4978,11 @@
       "Time": "2023-07-07T13:18:19.7143529+00:00",
       "NumProgressed": 4936,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-07T15:02:18.9980201+00:00",
+      "NumProgressed": 4937,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 50,
@@ -5019,9 +5024,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "14",
@@ -5291,9 +5296,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "5",
@@ -5388,13 +5393,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 4936,
+      "Progressed": 4937,
       "Completed": 4759
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 4936,
+      "Progressed": 4937,
       "Completed": 5
     }
   ],
@@ -5402,8 +5407,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-07-04T17:00:43.3128649+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:03:11.8821662+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:02:18.9980197+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:34.3570796+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:00:49.6492039+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:03:11.8822484+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:59:21.7746733+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:02:18.9980767+00:00"
 }

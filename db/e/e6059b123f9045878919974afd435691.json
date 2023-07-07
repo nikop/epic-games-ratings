@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -691,6 +691,11 @@
       "Time": "2023-07-07T13:20:13.5580691+00:00",
       "NumProgressed": 447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T15:03:53.6953593+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -702,7 +707,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -772,9 +777,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 166
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -982,7 +987,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -998,15 +1003,15 @@
       "Name": "Decakill!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -1022,7 +1027,7 @@
       "Name": "And There We Go",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1150,7 +1155,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -1229,14 +1234,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:04:48.4340674+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:03:53.6953585+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:57:27.9884344+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:04:48.4341697+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:57:00.0293976+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:03:53.6954144+00:00"
 }

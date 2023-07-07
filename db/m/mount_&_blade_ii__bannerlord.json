@@ -5391,9 +5391,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 55220,
+  "EOS_Progressed": 55221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13471,6 +13471,11 @@
       "Time": "2023-07-07T14:08:03.1037102+00:00",
       "NumProgressed": 55220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T15:06:11.009435+00:00",
+      "NumProgressed": 55221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -13610,7 +13615,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "Great Granny",
@@ -13706,7 +13711,7 @@
       "Name": "Landlord",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17118
+      "UsersEstimate": 17119
     },
     {
       "ID": "Lawbringer",
@@ -13714,7 +13719,7 @@
       "Name": "Lawbringer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 20431
+      "UsersEstimate": 20432
     },
     {
       "ID": "Lawmaker",
@@ -13722,7 +13727,7 @@
       "Name": "Lawmaker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12148
+      "UsersEstimate": 12149
     },
     {
       "ID": "Long live the Empire",
@@ -13834,7 +13839,7 @@
       "Name": "The king is pleased",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 9387
+      "UsersEstimate": 9388
     },
     {
       "ID": "This Is Our Land",
@@ -13889,15 +13894,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 55220,
+      "Progressed": 55221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-07-07T09:59:28.7994444+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:08:03.103709+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:06:11.0094344+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.0205174+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:01:08.4960838+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:08:03.1038805+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:59:32.9063685+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:06:11.0095039+00:00"
 }

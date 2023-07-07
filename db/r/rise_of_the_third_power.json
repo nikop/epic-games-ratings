@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -277,9 +277,9 @@
       "ID": "Specialist",
       "SetID": "4nce15l",
       "Name": "Specialist",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Teamwork",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:07:51.2762295+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:06:01.641976+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:51.5428684+00:00",
-  "LastUpdate_Ratings": "2023-07-07T14:00:10.3860423+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:07:51.276255+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:58:55.3623418+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:06:01.641991+00:00"
 }

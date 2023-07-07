@@ -18,7 +18,7 @@ Rating: 4.38 (Ranked 710)
 | Editor Adept | 45.00% | ~543 |
 | Giant Killer | 43.00% | ~519 |
 | Firestarter | 42.00% | ~507 |
-| Sensei | 41.00% | ~494 |
+| Sensei | 42.00% | ~507 |
 | The meaning of Kain | 39.00% | ~470 |
 | Technophobe | 38.00% | ~458 |
 | Recycler | 36.00% | ~434 |

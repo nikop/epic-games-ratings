@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 521530,
+  "EOS_Progressed": 521531,
   "EOS_Completed": 439,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8495,6 +8495,11 @@
       "Time": "2023-07-07T14:04:07.5828077+00:00",
       "NumProgressed": 521530,
       "NumCompleted": 439
+    },
+    {
+      "Time": "2023-07-07T15:03:24.1443756+00:00",
+      "NumProgressed": 521531,
+      "NumCompleted": 439
     }
   ],
   "TotalAchievements": 57,
@@ -8514,7 +8519,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 234688
+      "UsersEstimate": 234689
     },
     {
       "ID": "11",
@@ -8522,7 +8527,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 365071
+      "UsersEstimate": 365072
     },
     {
       "ID": "12",
@@ -8682,7 +8687,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26076
+      "UsersEstimate": 26077
     },
     {
       "ID": "30",
@@ -8714,7 +8719,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26076
+      "UsersEstimate": 26077
     },
     {
       "ID": "34",
@@ -8730,7 +8735,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 260765
+      "UsersEstimate": 260766
     },
     {
       "ID": "36",
@@ -8762,7 +8767,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 177320
+      "UsersEstimate": 177321
     },
     {
       "ID": "4",
@@ -8778,7 +8783,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26076
+      "UsersEstimate": 26077
     },
     {
       "ID": "41",
@@ -8850,7 +8855,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 177320
+      "UsersEstimate": 177321
     },
     {
       "ID": "5",
@@ -8906,7 +8911,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26076
+      "UsersEstimate": 26077
     },
     {
       "ID": "56",
@@ -8961,15 +8966,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 521530,
+      "Progressed": 521531,
       "Completed": 439
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-07-07T14:04:07.582807+00:00",
+  "LastChanged_Achievements": "2023-07-07T15:03:24.1443751+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:23.3769011+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:58:11.2405758+00:00",
-  "LastUpdate_Achievements": "2023-07-07T14:04:07.5829196+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:57:29.8224771+00:00",
+  "LastUpdate_Achievements": "2023-07-07T15:03:24.1444527+00:00"
 }
