@@ -130,10 +130,10 @@
 | 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.47% |
 | 127 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.47% |
 | 130 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 131 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.43% |
 | 131 | [Ghostrunner](games/g/ghostrunner.md) | 0.43% |
-| 133 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 133 | [Tchia](games/t/tchia.md) | 0.42% |
+| 132 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.42% |
+| 132 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 132 | [Tchia](games/t/tchia.md) | 0.42% |
 | 135 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.41% |
 | 135 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.41% |
 | 137 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
@@ -142,12 +142,12 @@
 | 140 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.33% |
 | 140 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 142 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 143 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 143 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 143 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 143 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 143 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 143 | [Wildermyth](games/w/wildermyth.md) | 0.31% |
-| 148 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 149 | [Godlike Burger](games/g/godlike_burger.md) | 0.28% |
 | 149 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.28% |
 | 149 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
