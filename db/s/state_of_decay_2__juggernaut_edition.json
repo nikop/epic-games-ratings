@@ -2,13 +2,13 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 168,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-03-13T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -2189,10 +2189,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2433,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-07-07T14:01:18.202143+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2434,
+      "NumberOfAwardsMax": 315
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2433,
+  "NumberOfAwards": 2434,
   "NumberOfAwardsMax": 315,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2218,7 +2224,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2280,8 +2286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2023-07-07T09:00:14.5619893+00:00",
+  "LastChanged": "2023-07-07T14:01:18.2021428+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:08.3446171+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:16:17.8325364+00:00",
-  "LastUpdate_Achievements": "2023-07-07T13:21:38.5934549+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:01:18.2021435+00:00",
+  "LastUpdate_Achievements": "2023-07-07T14:06:27.5616445+00:00"
 }

@@ -6,33 +6,33 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,178 |
-| The Mad Wizard | 11.00% | ~22,864 |
-| The Ring of Regeneration | 7.00% | ~14,550 |
-| Are Ya Chicken? | 7.00% | ~14,550 |
-| Were-verpowered | 5.00% | ~10,393 |
-| Seeking Allies | 5.00% | ~10,393 |
-| Mad Cow Disease | 5.00% | ~10,393 |
-| Friendly Imps | 5.00% | ~10,393 |
-| A Persistent Buzzing | 4.00% | ~8,314 |
-| Pure Energy | 4.00% | ~8,314 |
+| The Cursed Farmer | 15.00% | ~31,182 |
+| The Mad Wizard | 11.00% | ~22,867 |
+| The Ring of Regeneration | 7.00% | ~14,552 |
+| Are Ya Chicken? | 7.00% | ~14,552 |
+| Were-verpowered | 5.00% | ~10,394 |
+| Seeking Allies | 5.00% | ~10,394 |
+| Mad Cow Disease | 5.00% | ~10,394 |
+| Friendly Imps | 5.00% | ~10,394 |
+| A Persistent Buzzing | 4.00% | ~8,315 |
+| Pure Energy | 4.00% | ~8,315 |
 | Terror in the Dark | 3.00% | ~6,236 |
 | Unearthed Evil | 3.00% | ~6,236 |
 | The Crumbling Temple | 3.00% | ~6,236 |
 | Exploring Port Nyanzaru | 3.00% | ~6,236 |
 | The Contagious Curse | 3.00% | ~6,236 |
-| Beast Mode | 2.00% | ~4,157 |
-| Low Initiative | 2.00% | ~4,157 |
-| A Mysterious Summons | 2.00% | ~4,157 |
-| Building Trust | 2.00% | ~4,157 |
-| No Time To Rest | 2.00% | ~4,157 |
-| Useless Allies | 2.00% | ~4,157 |
-| Running of the Saurs | 2.00% | ~4,157 |
-| Escort to Waterdeep | 2.00% | ~4,157 |
-| Waterdeep Detours | 2.00% | ~4,157 |
-| Underdeep Cartography | 2.00% | ~4,157 |
-| Overdue Rendezvous | 2.00% | ~4,157 |
-| The Templar's Camp | 2.00% | ~4,157 |
+| Beast Mode | 2.00% | ~4,158 |
+| Low Initiative | 2.00% | ~4,158 |
+| A Mysterious Summons | 2.00% | ~4,158 |
+| Building Trust | 2.00% | ~4,158 |
+| No Time To Rest | 2.00% | ~4,158 |
+| Useless Allies | 2.00% | ~4,158 |
+| Running of the Saurs | 2.00% | ~4,158 |
+| Escort to Waterdeep | 2.00% | ~4,158 |
+| Waterdeep Detours | 2.00% | ~4,158 |
+| Underdeep Cartography | 2.00% | ~4,158 |
+| Overdue Rendezvous | 2.00% | ~4,158 |
+| The Templar's Camp | 2.00% | ~4,158 |
 | Homecoming | 1.00% | ~2,079 |
 | Street War | 1.00% | ~2,079 |
 | March of the Undead | 1.00% | ~2,079 |
@@ -89,31 +89,31 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Everlasting Rime | 0.50% | ~871 |
 | Expert Opinion | 0.50% | ~1,039 |
 | Poor Guidance | 0.50% | ~1,039 |
-| Lobsterfolk Assault | 0.40% | ~831 |
-| Periodic Petrification | 0.40% | ~831 |
-| Home Field Advantage | 0.40% | ~831 |
-| Vajra's Guards | 0.40% | ~831 |
-| Azaka's Procession - Part 1 | 0.40% | ~831 |
-| Azaka's Procession - Part 2 | 0.40% | ~831 |
-| The Hunt for Owl-y | 0.40% | ~831 |
-| Werewolves in the Mist | 0.40% | ~831 |
-| Modron Assistance | 0.40% | ~831 |
-| Haaave You Met Asmodeus? | 0.40% | ~831 |
-| Domesticated Owlbears | 0.40% | ~831 |
-| The Gargoyle's Apprentice | 0.40% | ~831 |
-| The Trepidatious Trio | 0.40% | ~831 |
-| Flies on the Wall | 0.40% | ~831 |
-| Backtracking Through Barovia | 0.40% | ~831 |
-| Excavating History | 0.40% | ~831 |
-| Towering Expectations | 0.40% | ~831 |
-| Cramped Quarters | 0.40% | ~831 |
-| A Tale of Two Fiends | 0.40% | ~831 |
-| Slow and Steady | 0.40% | ~831 |
-| Vault of Dragons | 0.40% | ~831 |
-| Champions of Waterdeep | 0.40% | ~831 |
-| Resolve Amongst Chaos | 0.40% | ~831 |
-| Once More Into The Breach | 0.40% | ~831 |
-| Wyllowwood | 0.40% | ~831 |
+| Lobsterfolk Assault | 0.40% | ~832 |
+| Periodic Petrification | 0.40% | ~832 |
+| Home Field Advantage | 0.40% | ~832 |
+| Vajra's Guards | 0.40% | ~832 |
+| Azaka's Procession - Part 1 | 0.40% | ~832 |
+| Azaka's Procession - Part 2 | 0.40% | ~832 |
+| The Hunt for Owl-y | 0.40% | ~832 |
+| Werewolves in the Mist | 0.40% | ~832 |
+| Modron Assistance | 0.40% | ~832 |
+| Haaave You Met Asmodeus? | 0.40% | ~832 |
+| Domesticated Owlbears | 0.40% | ~832 |
+| The Gargoyle's Apprentice | 0.40% | ~832 |
+| The Trepidatious Trio | 0.40% | ~832 |
+| Flies on the Wall | 0.40% | ~832 |
+| Backtracking Through Barovia | 0.40% | ~832 |
+| Excavating History | 0.40% | ~832 |
+| Towering Expectations | 0.40% | ~832 |
+| Cramped Quarters | 0.40% | ~832 |
+| A Tale of Two Fiends | 0.40% | ~832 |
+| Slow and Steady | 0.40% | ~832 |
+| Vault of Dragons | 0.40% | ~832 |
+| Champions of Waterdeep | 0.40% | ~832 |
+| Resolve Amongst Chaos | 0.40% | ~832 |
+| Once More Into The Breach | 0.40% | ~832 |
+| Wyllowwood | 0.40% | ~832 |
 | An Illithid Undertaking | 0.40% | ~697 |
 | Déjà Vu | 0.40% | ~697 |
 | Into The Fire | 0.40% | ~697 |
@@ -156,6 +156,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.30% | ~522 |
 | The Radiant Nightmare | 0.30% | ~522 |
 | Waiting on Sunrise | 0.30% | ~522 |
+| The Battle of High Hall Tower | 0.30% | ~522 |
 | Overwhelming Force | 0.30% | ~624 |
 | The Castle of a Thousand Vecnas | 0.20% | ~348 |
 | The Sanctum of the Sword | 0.20% | ~348 |
@@ -244,7 +245,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Peril | 0.20% | ~348 |
 | Deekin's Mission | 0.20% | ~348 |
 | Frozen Vengeance | 0.20% | ~348 |
-| The Battle of High Hall Tower | 0.20% | ~348 |
 | Elturel's Last Stand | 0.20% | ~348 |
 | Lost in the Underdark | 0.20% | ~348 |
 | Leemooggoogoon Rises | 0.20% | ~348 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,854 (Ranked 52)  
+Progressed: 207,881 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,854 | 2,035 |
+| 2023-07-07 | 207,881 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,436 (Ranked 37)  

@@ -12,8 +12,8 @@
 | Puppy | 63.00% | ~112 |
 | Coal's fur | 59.00% | ~104 |
 | Blue's drawing | 55.00% | ~97 |
+| Glass shards | 47.00% | ~83 |
 | Mysterious footprints | 47.00% | ~83 |
-| Glass shards | 46.00% | ~81 |
 | Complicated padlock | 43.00% | ~76 |
 | Big metal ruler | 42.00% | ~74 |
 | Windmill | 40.00% | ~71 |
@@ -24,10 +24,10 @@
 | Children | 24.00% | ~42 |
 | Huge Snail | 16.00% | ~28 |
 | Flower of hope | 15.00% | ~27 |
-| Friend | 12.00% | ~21 |
+| Friend | 13.00% | ~23 |
 | Back Home | 11.00% | ~19 |
 | Forest Howl | 11.00% | ~19 |
-| Old kettle | 10.00% | ~18 |
+| Old kettle | 11.00% | ~19 |
 | Hope | 6.00% | ~11 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

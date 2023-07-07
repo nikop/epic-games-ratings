@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -4234,9 +4234,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach018",
@@ -4306,9 +4306,9 @@
       "ID": "Ach026",
       "SetID": "12n4k20",
       "Name": "You must like calling me in, Chai",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach027",
@@ -4330,9 +4330,9 @@
       "ID": "Ach029",
       "SetID": "12n4k20",
       "Name": "Out in a puff of smoke",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach030",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-07T13:18:18.7326677+00:00",
+  "LastChanged_Achievements": "2023-07-07T14:03:10.7760027+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:14:54.9665423+00:00",
-  "LastUpdate_Achievements": "2023-07-07T13:18:18.7327698+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:59:39.7501357+00:00",
+  "LastUpdate_Achievements": "2023-07-07T14:03:10.7761609+00:00"
 }

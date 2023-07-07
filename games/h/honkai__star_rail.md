@@ -1,10 +1,10 @@
 # Honkai: Star Rail
 [Store](https://store.epicgames.com/en-US/p/honkai-star-rail)  
 [View Rawdata](../../db/h/honkai__star_rail.json)  
-Rating: 4.73 (Ranked 157)  
+Rating: 4.72 (Ranked 167)  
 ## Awards
 Max (Character Customization): 1,982  (Ranked 108)  
-Sum: 2,799 (Ranked 167)  
+Sum: 2,813 (Ranked 167)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -14,11 +14,11 @@ Diff (max vs sum): -59
 | This game has Amazing Storytelling | 98 |
 | This game has Diverse Characters | 93 |
 | This game has Amazing Characters | 92 |
+| This game is Relaxing | 88 |
 | This game is Great for Beginners | 87 |
 | This game is Extremely Fun | 86 |
 | This game has Quickly Understood Controls | 85 |
 | This game has Beautiful Visuals | 83 |
-| This game is Relaxing | 74 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -46,4 +46,4 @@ Diff (max vs sum): -59
 | 2023-07-04 | 4.72 | 1,660 | 2,332 |
 | 2023-07-05 | 4.72 | 1,778 | 2,553 |
 | 2023-07-06 | 4.73 | 1,867 | 2,694 |
-| 2023-07-07 | 4.73 | 1,982 | 2,799 |
+| 2023-07-07 | 4.73 | 1,982 | 2,813 |

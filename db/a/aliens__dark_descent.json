@@ -2,20 +2,20 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.46,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -88,6 +88,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-07T14:00:38.6048036+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -96,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 2661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1982,9 +1988,9 @@
       "ID": "ACH_FINISH_HARD",
       "SetID": "816efe",
       "Name": "Fair And Square",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_FINISH_IRONMAN",
@@ -2238,9 +2244,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -2286,9 +2292,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-07-06T13:20:03.1006988+00:00",
-  "LastChanged_Achievements": "2023-07-07T13:22:47.7808752+00:00",
+  "LastChanged": "2023-07-07T14:00:38.6048034+00:00",
+  "LastChanged_Achievements": "2023-07-07T14:07:49.7134437+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:15:45.12747+00:00",
-  "LastUpdate_Achievements": "2023-07-07T13:22:47.7809166+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:00:38.6048041+00:00",
+  "LastUpdate_Achievements": "2023-07-07T14:07:49.7135296+00:00"
 }

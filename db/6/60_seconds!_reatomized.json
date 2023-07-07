@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -2945,9 +2945,9 @@
       "ID": "ACH_DOCEND",
       "SetID": "5nj1ea3",
       "Name": "Soup Can into Space",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_DOGE",
@@ -3266,8 +3266,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-07-05T23:03:34.5212412+00:00",
-  "LastChanged_Achievements": "2023-07-07T13:18:19.4801471+00:00",
+  "LastChanged_Achievements": "2023-07-07T14:03:11.7650311+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:47.1645409+00:00",
-  "LastUpdate_Ratings": "2023-07-07T13:16:47.2750371+00:00",
-  "LastUpdate_Achievements": "2023-07-07T13:18:19.4802204+00:00"
+  "LastUpdate_Ratings": "2023-07-07T14:01:51.1270527+00:00",
+  "LastUpdate_Achievements": "2023-07-07T14:03:11.7651352+00:00"
 }

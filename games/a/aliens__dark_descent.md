@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.46 (Ranked 603)  
+Rating: 4.44 (Ranked 639)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.46 (Ranked 603)
 | Something Lurks Under The Hills | 56.00% | ~1,490 |
 | This Was No Papercut | 54.00% | ~1,437 |
 | The Shrink Hates Me | 50.00% | ~1,330 |
-| People Person | 48.00% | ~1,277 |
+| People Person | 49.00% | ~1,304 |
 | Use The Bumper, That's What It's For | 47.00% | ~1,251 |
 | Colonial Barrels | 44.00% | ~1,171 |
 | First Steps Into Madness | 44.00% | ~1,171 |
@@ -45,7 +45,7 @@ Rating: 4.46 (Ranked 603)
 | Perfect Enhancements | 4.00% | ~106 |
 | The True Experience | 4.00% | ~106 |
 | Hardened In The Heat Of Battle | 3.00% | ~80 |
-| Fair And Square | 0.70% | ~19 |
+| Fair And Square | 0.80% | ~21 |
 | Archivist | 0.60% | ~16 |
 | Chalk It Up To Experience | 0.30% | ~8 |
 | Perfect Organism | 0.20% | ~5 |
@@ -89,3 +89,4 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 4.44 | 0 | 0 |
 | 2023-07-05 | 4.45 | 0 | 0 |
 | 2023-07-06 | 4.46 | 0 | 0 |
+| 2023-07-07 | 4.44 | 0 | 0 |

@@ -7,6 +7,7 @@ Rating: 4.87 (Ranked 25)
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.60% | ~12 |
 | Who's the boss now? | 0.40% | ~14 |
+| I play my own way! | 0.40% | ~14 |
 | Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
 | Cream of the Crop | 0.30% | ~10 |
@@ -14,16 +15,16 @@ Rating: 4.87 (Ranked 25)
 | Headliner | 0.30% | ~10 |
 | Time to pay up! | 0.30% | ~10 |
 | Thanks for the free chip, Peppermint! | 0.30% | ~10 |
-| I play my own way! | 0.30% | ~10 |
 | You got this, Peppermint? | 0.30% | ~10 |
+| Out in a puff of smoke | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
 | This will cost you big time | 0.20% | ~7 |
 | Well that was a rush! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | I have to read these things? | 0.20% | ~7 |
 | Feeling the beat! | 0.20% | ~7 |
+| You must like calling me in, Chai | 0.20% | ~7 |
 | Z-shielding's got nothing on us! | 0.20% | ~7 |
-| Out in a puff of smoke | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |
 | Perfecter Parry-er! | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |
@@ -39,7 +40,6 @@ Rating: 4.87 (Ranked 25)
 | Problem solved... wait, what? | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
 | Beat-hit mania | 0.10% | ~3 |
-| You must like calling me in, Chai | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |
 | This is a breeze! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |

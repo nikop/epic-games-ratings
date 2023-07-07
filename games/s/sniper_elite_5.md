@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 621)  
+Rating: 4.45 (Ranked 620)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,10 +27,10 @@ Rating: 4.45 (Ranked 621)
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
 | Explosive Efficiency | 0.80% | ~26 |
+| Close Quarters | 0.80% | ~26 |
 | Brains of the Operation | 0.80% | ~26 |
 | Skirmisher | 0.70% | ~23 |
 | My Little Friend | 0.70% | ~23 |
-| Close Quarters | 0.70% | ~23 |
 | Snake in the Grass | 0.70% | ~23 |
 | Enemy at the Gates | 0.60% | ~19 |
 | Fields of Glory | 0.60% | ~19 |
