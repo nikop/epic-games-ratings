@@ -100,7 +100,7 @@
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 118 | 312 |
 | 88 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 504 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 504 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,424 | 36 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,433 | 36 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 504 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 732 | 159 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,343 | 101 |
@@ -145,7 +145,7 @@
 | 133 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 504 |
 | 144 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 504 |
 | 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.74 | 610 | 173 |
-| 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 791 | 154 |
+| 144 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 793 | 154 |
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 634 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,762 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 504 |
@@ -159,7 +159,6 @@
 | 157 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 408 | 207 |
 | 157 | [DOOM II](games/d/doom_ii.md) | 4.73 | 26 | 470 |
 | 157 | [Haven](games/h/haven.md) | 4.73 | 0 | 504 |
-| 157 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.73 | 1,867 | 110 |
 | 157 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 583 | 178 |
 | 157 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 229 | 252 |
 | 157 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 504 |
@@ -167,19 +166,20 @@
 | 157 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 504 |
 | 157 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 504 |
 | 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 353 |
-| 168 | [Fez](games/f/fez.md) | 4.72 | 23 | 480 |
-| 168 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 470 | 195 |
-| 168 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 504 |
-| 168 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 140 | 297 |
-| 168 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 423 |
-| 168 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 504 |
-| 168 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 504 |
-| 168 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 364 |
-| 168 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 504 |
-| 168 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 315 | 229 |
-| 168 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 504 |
-| 168 | [Timberborn](games/t/timberborn.md) | 4.72 | 128 | 304 |
-| 168 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 504 |
+| 167 | [Fez](games/f/fez.md) | 4.72 | 23 | 480 |
+| 167 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 470 | 195 |
+| 167 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 1,867 | 110 |
+| 167 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 504 |
+| 167 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 140 | 297 |
+| 167 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 423 |
+| 167 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 504 |
+| 167 | [Pikuniku](games/p/pikuniku.md) | 4.72 | 0 | 504 |
+| 167 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 73 | 364 |
+| 167 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 504 |
+| 167 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 315 | 229 |
+| 167 | [This Is The Police](games/t/this_is_the_police.md) | 4.72 | 0 | 504 |
+| 167 | [Timberborn](games/t/timberborn.md) | 4.72 | 128 | 304 |
+| 167 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 504 |
 | 181 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.71 | 0 | 504 |
 | 181 | [Barony](games/b/barony.md) | 4.71 | 73 | 364 |
 | 181 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.71 | 0 | 504 |
@@ -244,7 +244,6 @@
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 504 |
 | 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,248 | 47 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,864 | 79 |
-| 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,185 | 103 |
 | 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
 | 238 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 299,505 | 3 |
 | 238 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 195,405 | 4 |
@@ -259,17 +258,18 @@
 | 238 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.68 | 0 | 504 |
 | 238 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.68 | 0 | 504 |
 | 238 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 88 | 346 |
-| 260 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 504 |
-| 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 660 | 168 |
-| 260 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
-| 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 585 | 177 |
-| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 102 |
-| 260 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
-| 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
-| 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
-| 260 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 504 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,905 | 91 |
-| 260 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 94 | 339 |
+| 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 504 |
+| 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 660 | 168 |
+| 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
+| 259 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 2,185 | 103 |
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 585 | 177 |
+| 259 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 102 |
+| 259 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
+| 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
+| 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
+| 259 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 504 |
+| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,905 | 91 |
+| 259 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 94 | 339 |
 | 271 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.66 | 0 | 504 |
 | 271 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 73 | 364 |
 | 271 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 416 |
@@ -426,7 +426,7 @@
 | 423 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 58,740 | 11 |
 | 423 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 160 | 288 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 504 |
-| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,243 | 40 |
+| 423 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,265 | 40 |
 | 423 | [Everything](games/e/everything.md) | 4.58 | 0 | 504 |
 | 423 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 249 | 245 |
 | 423 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 37 | 427 |
