@@ -46,13 +46,13 @@
 | 44 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.74% |
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
-| 47 | [Doodle God](games/d/doodle_god.md) | 3.59% |
+| 47 | [Doodle God](games/d/doodle_god.md) | 3.57% |
 | 48 | [ZZT!](games/z/zzt!.md) | 3.45% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
 | 52 | [JARS](games/j/jars.md) | 3.28% |
-| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.13% |
+| 53 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 3.16% |
 | 54 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.12% |
 | 55 | [The Complex](games/t/the_complex.md) | 3.10% |
 | 56 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.07% |
