@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -6852,9 +6852,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 66375,
+  "EOS_Progressed": 66380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3121,
+  "EOS_NewPlayers": 3117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15232,6 +15232,11 @@
       "Time": "2023-07-07T05:06:01.6587124+00:00",
       "NumProgressed": 66375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T06:07:32.7475205+00:00",
+      "NumProgressed": 66380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15683,7 +15688,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -16267,7 +16272,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -17243,7 +17248,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -18074,21 +18079,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 66375,
+      "Progressed": 66380,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 66375,
+      "Progressed": 66380,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-07-07T03:18:44.5206643+00:00",
-  "LastChanged_Achievements": "2023-07-07T05:06:01.6587119+00:00",
+  "LastChanged_Achievements": "2023-07-07T06:07:32.7475198+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:57:26.1825346+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:06:01.6598858+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:57:42.5531596+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:07:32.7489071+00:00"
 }

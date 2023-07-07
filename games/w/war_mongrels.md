@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~252 |
-| Cowardice | 55.00% | ~220 |
+| Explorer | 63.00% | ~253 |
+| Cowardice | 55.00% | ~221 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~192 |
 | Eat Lead! | 45.00% | ~180 |
 | Prospector | 41.00% | ~164 |
@@ -23,11 +23,11 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 29.00% | ~116 |
 | Opportunities | 27.00% | ~108 |
 | The Horror | 26.00% | ~104 |
-| The Difference | 24.00% | ~96 |
+| The Difference | 23.00% | ~92 |
 | Collectibles of Chapter II | 22.00% | ~88 |
 | Vengeance | 22.00% | ~88 |
 | It's Just an Accident | 22.00% | ~88 |
-| Broken Hopes | 20.00% | ~80 |
+| Broken Hopes | 19.00% | ~76 |
 | Bullseye! | 19.00% | ~76 |
 | Food Massacre | 17.00% | ~68 |
 | Sorrow | 16.00% | ~64 |
@@ -43,16 +43,16 @@ Number of Ratings: 34  (23.09.2022)
 | Piece of Cake | 6.00% | ~24 |
 | Collectibles of Chapter VII | 5.00% | ~20 |
 | It Will Rain | 5.00% | ~20 |
-| Not Spill a Drop | 5.00% | ~20 |
 | Collectibles of Chapter VIII | 4.00% | ~16 |
-| Collectibles of Chapter X | 4.00% | ~16 |
 | Collectibles of Chapter XI | 4.00% | ~16 |
-| The Good Samaritan | 4.00% | ~16 |
-| Collectibles of Chapter VI | 3.00% | ~12 |
+| Not Spill a Drop | 4.00% | ~16 |
 | Collectibles of Chapter IX | 3.00% | ~12 |
+| Collectibles of Chapter X | 3.00% | ~12 |
+| The Good Samaritan | 3.00% | ~12 |
+| Collectibles of Chapter VI | 2.00% | ~8 |
 | Daddy Would Be Proud | 2.00% | ~8 |
 | Hold a Door | 1.00% | ~4 |
-| Warm Up | 0.30% | ~1 |
+| Warm Up | 0.20% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
 | Challenges of Chapter III | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 224)  
+Progressed: 401 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-02 | 397 | 0 |
 | 2023-07-03 | 398 | 0 |
 | 2023-07-04 | 400 | 0 |
+| 2023-07-07 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

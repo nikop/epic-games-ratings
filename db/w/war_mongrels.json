@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1033,6 +1033,11 @@
       "Time": "2023-07-04T20:03:48.2016533+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T06:03:48.2446162+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1042,7 +1047,7 @@
       "ID": "ACH_CHALL_1",
       "SetID": "1j25agn",
       "Name": "Warm Up",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1148,7 +1153,7 @@
       "Name": "Explorer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_COLL_20",
@@ -1210,9 +1215,9 @@
       "ID": "ACH_COLL_CH06",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VI",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COLL_CH07",
@@ -1242,9 +1247,9 @@
       "ID": "ACH_COLL_CH10",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter X",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -1268,7 +1273,7 @@
       "Name": "Cowardice",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -1322,9 +1327,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -1338,9 +1343,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -1394,9 +1399,9 @@
       "ID": "ACH_JOACHIM_FATE1",
       "SetID": "1j25agn",
       "Name": "The Good Samaritan",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
@@ -1506,24 +1511,24 @@
       "ID": "ACH_NOMOON",
       "SetID": "1j25agn",
       "Name": "Not Spill a Drop",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-06-24T07:57:51.3010975+00:00",
-  "LastChanged_Achievements": "2023-07-07T05:03:32.2487759+00:00",
+  "LastChanged_Achievements": "2023-07-07T06:03:48.2446149+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:35.8436702+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:57:34.4509903+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:03:32.2488348+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:57:54.2249829+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:03:48.244678+00:00"
 }

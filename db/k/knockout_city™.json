@@ -2,20 +2,20 @@
   "ID": "5bb3d43818ae4188850fe1dbad9d57a5",
   "Name": "Knockout City\u2122",
   "ProductSlug": "knockout-city",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-05-30T12:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-01-27T02:09:44.3604467+00:00",
@@ -402,6 +402,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-07-07T05:58:13.8642466+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -420,8 +426,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.089047+00:00",
   "FirstSeenRating": "2023-01-27T02:09:44.3604465+00:00",
-  "LastChanged": "2023-06-10T14:57:56.2798104+00:00",
+  "LastChanged": "2023-07-07T05:58:13.8642463+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:09.5093058+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:57:47.3442465+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:00:21.1500004+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:58:13.8642474+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:01:58.4047932+00:00"
 }

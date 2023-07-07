@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 621)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,043 (Ranked 184)  
+Progressed: 1,044 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-01 | 1,037 | 0 |
 | 2023-07-04 | 1,039 | 0 |
 | 2023-07-06 | 1,041 | 0 |
-| 2023-07-07 | 1,043 | 0 |
+| 2023-07-07 | 1,044 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

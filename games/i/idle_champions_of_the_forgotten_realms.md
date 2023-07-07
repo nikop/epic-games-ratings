@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,147 |
-| The Mad Wizard | 11.00% | ~22,841 |
-| The Ring of Regeneration | 7.00% | ~14,535 |
-| Are Ya Chicken? | 7.00% | ~14,535 |
-| Were-verpowered | 5.00% | ~10,382 |
-| Seeking Allies | 5.00% | ~10,382 |
-| Mad Cow Disease | 5.00% | ~10,382 |
-| Friendly Imps | 5.00% | ~10,382 |
-| A Persistent Buzzing | 4.00% | ~8,306 |
-| Pure Energy | 4.00% | ~8,306 |
-| Terror in the Dark | 3.00% | ~6,229 |
-| Unearthed Evil | 3.00% | ~6,229 |
-| The Crumbling Temple | 3.00% | ~6,229 |
-| Exploring Port Nyanzaru | 3.00% | ~6,229 |
-| The Contagious Curse | 3.00% | ~6,229 |
+| The Cursed Farmer | 15.00% | ~31,150 |
+| The Mad Wizard | 11.00% | ~22,843 |
+| The Ring of Regeneration | 7.00% | ~14,537 |
+| Are Ya Chicken? | 7.00% | ~14,537 |
+| Were-verpowered | 5.00% | ~10,383 |
+| Seeking Allies | 5.00% | ~10,383 |
+| Mad Cow Disease | 5.00% | ~10,383 |
+| Friendly Imps | 5.00% | ~10,383 |
+| A Persistent Buzzing | 4.00% | ~8,307 |
+| Pure Energy | 4.00% | ~8,307 |
+| Terror in the Dark | 3.00% | ~6,230 |
+| Unearthed Evil | 3.00% | ~6,230 |
+| The Crumbling Temple | 3.00% | ~6,230 |
+| Exploring Port Nyanzaru | 3.00% | ~6,230 |
+| The Contagious Curse | 3.00% | ~6,230 |
 | Beast Mode | 2.00% | ~4,153 |
 | Low Initiative | 2.00% | ~4,153 |
 | A Mysterious Summons | 2.00% | ~4,153 |
@@ -32,20 +32,20 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 2.00% | ~4,153 |
 | Underdeep Cartography | 2.00% | ~4,153 |
 | The Templar's Camp | 2.00% | ~4,153 |
-| Homecoming | 1.00% | ~2,076 |
-| Street War | 1.00% | ~2,076 |
-| March of the Undead | 1.00% | ~2,076 |
-| Invisible Shadows | 1.00% | ~2,076 |
-| The Dinner Party | 1.00% | ~2,076 |
-| The Botched Kidnapping | 1.00% | ~2,076 |
-| The Death Curse | 1.00% | ~2,076 |
-| Premature Betrayal | 1.00% | ~2,076 |
-| A Tale of Two Cities | 1.00% | ~2,076 |
-| Flying Monkey Skulls of Doom | 1.00% | ~2,076 |
-| Close Escort | 1.00% | ~2,076 |
-| Constant Banditry | 1.00% | ~2,076 |
-| Overdue Rendezvous | 1.00% | ~2,076 |
-| Rescue in the Jungle | 1.00% | ~2,076 |
+| Homecoming | 1.00% | ~2,077 |
+| Street War | 1.00% | ~2,077 |
+| March of the Undead | 1.00% | ~2,077 |
+| Invisible Shadows | 1.00% | ~2,077 |
+| The Dinner Party | 1.00% | ~2,077 |
+| The Botched Kidnapping | 1.00% | ~2,077 |
+| The Death Curse | 1.00% | ~2,077 |
+| Premature Betrayal | 1.00% | ~2,077 |
+| A Tale of Two Cities | 1.00% | ~2,077 |
+| Flying Monkey Skulls of Doom | 1.00% | ~2,077 |
+| Close Escort | 1.00% | ~2,077 |
+| Constant Banditry | 1.00% | ~2,077 |
+| Overdue Rendezvous | 1.00% | ~2,077 |
+| Rescue in the Jungle | 1.00% | ~2,077 |
 | Trollskull Manor | 0.90% | ~1,869 |
 | Dinosaur Racing | 0.90% | ~1,869 |
 | Lost in the Deep | 0.90% | ~1,869 |
@@ -61,7 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Grand Puzzle | 0.70% | ~1,454 |
 | Treasure Hunters | 0.70% | ~1,454 |
 | Nimble Escape | 0.70% | ~1,454 |
-| The Giant's Bane Tavern | 0.70% | ~1,217 |
+| The Giant's Bane Tavern | 0.70% | ~1,218 |
 | Rude Welcome | 0.70% | ~1,454 |
 | The Haunted Jungle | 0.70% | ~1,454 |
 | Tomb of the Nine Gods | 0.60% | ~1,246 |
@@ -155,6 +155,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bleeding Citadel | 0.30% | ~522 |
 | Idyllglen | 0.30% | ~522 |
 | The Radiant Nightmare | 0.30% | ~522 |
+| Waiting on Sunrise | 0.30% | ~522 |
 | Overwhelming Force | 0.30% | ~623 |
 | The Castle of a Thousand Vecnas | 0.20% | ~348 |
 | The Sanctum of the Sword | 0.20% | ~348 |
@@ -240,7 +241,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Awakened Axe | 0.20% | ~348 |
 | Trench Coat Run | 0.20% | ~348 |
 | Relentless Peril | 0.20% | ~348 |
-| Waiting on Sunrise | 0.20% | ~348 |
 | Deekin's Mission | 0.20% | ~348 |
 | Frozen Vengeance | 0.20% | ~348 |
 | The Battle of High Hall Tower | 0.20% | ~348 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,645 (Ranked 52)  
+Progressed: 207,667 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,645 | 2,035 |
+| 2023-07-07 | 207,667 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,419 (Ranked 37)  

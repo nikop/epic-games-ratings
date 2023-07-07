@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,121 |
-| Snatched Out | 73.00% | ~1,935 |
-| Keep 'Em Coming | 71.00% | ~1,882 |
-| Cleaning Lethe, One Nest At A Time | 63.00% | ~1,670 |
-| Call Me Snake | 57.00% | ~1,511 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,122 |
+| Snatched Out | 73.00% | ~1,936 |
+| Keep 'Em Coming | 71.00% | ~1,883 |
+| Cleaning Lethe, One Nest At A Time | 63.00% | ~1,671 |
+| Call Me Snake | 57.00% | ~1,512 |
 | Something Lurks Under The Hills | 56.00% | ~1,485 |
 | This Was No Papercut | 54.00% | ~1,432 |
 | The Shrink Hates Me | 50.00% | ~1,326 |
-| People Person | 48.00% | ~1,272 |
+| People Person | 48.00% | ~1,273 |
 | Use The Bumper, That's What It's For | 47.00% | ~1,246 |
-| Colonial Barrels | 44.00% | ~1,166 |
-| First Steps Into Madness | 44.00% | ~1,166 |
+| Colonial Barrels | 44.00% | ~1,167 |
+| First Steps Into Madness | 44.00% | ~1,167 |
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~981 |
 | Harper's Hell | 35.00% | ~928 |
-| Making a Stand | 32.00% | ~848 |
-| Recouped Investment | 30.00% | ~795 |
+| Making a Stand | 33.00% | ~875 |
+| Recouped Investment | 30.00% | ~796 |
 | Omelette Du Fromage | 29.00% | ~769 |
 | Where It All Begun | 27.00% | ~716 |
 | Living Nightmare | 20.00% | ~530 |
@@ -51,7 +51,7 @@ Rating: 4.46 (Ranked 603)
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,651 (Ranked 154)  
+Progressed: 2,652 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-04 | 2,580 | 0 |
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
-| 2023-07-07 | 2,651 | 0 |
+| 2023-07-07 | 2,652 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

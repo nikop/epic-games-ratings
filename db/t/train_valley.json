@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -287,9 +287,9 @@
       "ID": "01_gettingstarted",
       "SetID": "chb1m60",
       "Name": "Getting started",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 233
     },
     {
       "ID": "02_collector",
@@ -319,9 +319,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "06_living",
@@ -607,8 +607,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-07-07T05:02:15.7622285+00:00",
+  "LastChanged_Achievements": "2023-07-07T06:02:31.9550035+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:59.1045225+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:57:41.5357305+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:02:15.762275+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:58:05.2709721+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:02:31.9550359+00:00"
 }

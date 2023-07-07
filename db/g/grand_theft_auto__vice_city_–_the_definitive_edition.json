@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -514,9 +514,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 8890,
+  "EOS_Progressed": 8891,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5969,6 +5969,11 @@
       "Time": "2023-07-07T05:00:30.9680602+00:00",
       "NumProgressed": 8890,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-07-07T06:02:12.0859509+00:00",
+      "NumProgressed": 8891,
+      "NumCompleted": 42
     }
   ],
   "TotalAchievements": 34,
@@ -6140,7 +6145,7 @@
       "Name": "Legal Counsel",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "ACH22",
@@ -6156,7 +6161,7 @@
       "Name": "South American Connection",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH24",
@@ -6188,7 +6193,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH28",
@@ -6251,7 +6256,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 8890,
+      "Progressed": 8891,
       "Completed": 42
     }
   ],
@@ -6259,8 +6264,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-07-06T10:58:46.2508244+00:00",
-  "LastChanged_Achievements": "2023-07-07T05:00:30.9680596+00:00",
+  "LastChanged_Achievements": "2023-07-07T06:02:12.0859503+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:48.6744993+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:58:12.8476422+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:00:30.9681176+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:58:48.4487035+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:02:12.086011+00:00"
 }

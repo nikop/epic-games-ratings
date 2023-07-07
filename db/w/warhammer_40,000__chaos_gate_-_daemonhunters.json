@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -576,9 +576,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2096,6 +2096,11 @@
       "Time": "2023-07-06T22:03:22.3974102+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T06:02:27.1186374+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2195,7 +2200,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ExtractorSkullUses",
@@ -2275,7 +2280,7 @@
       "Name": "Not So Fast...",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Kills_Bleed",
@@ -2331,7 +2336,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Kills_Streak",
@@ -2371,7 +2376,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -2379,7 +2384,7 @@
       "Name": "Nemesis Master",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -2475,7 +2480,7 @@
       "Name": "A Foul Creche",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -2578,21 +2583,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-07-04T16:59:35.6470966+00:00",
-  "LastChanged_Achievements": "2023-07-07T05:02:12.4982743+00:00",
+  "LastChanged_Achievements": "2023-07-07T06:02:27.1186367+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:26.5098411+00:00",
-  "LastUpdate_Ratings": "2023-07-07T04:58:35.5241108+00:00",
-  "LastUpdate_Achievements": "2023-07-07T05:02:12.4983417+00:00"
+  "LastUpdate_Ratings": "2023-07-07T05:59:20.0261269+00:00",
+  "LastUpdate_Achievements": "2023-07-07T06:02:27.1187032+00:00"
 }
