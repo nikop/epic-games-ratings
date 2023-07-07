@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.93% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.92% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -47,7 +47,7 @@
 | 45 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.64% |
 | 46 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.63% |
 | 47 | [Doodle God](games/d/doodle_god.md) | 3.57% |
-| 48 | [ZZT!](games/z/zzt!.md) | 3.48% |
+| 48 | [ZZT!](games/z/zzt!.md) | 3.47% |
 | 49 | [Bunny Park](games/b/bunny_park.md) | 3.42% |
 | 50 | [Monster Harvest](games/m/monster_harvest.md) | 3.39% |
 | 51 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 3.33% |
@@ -173,10 +173,10 @@
 | 169 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.15% |
 | 169 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 174 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.14% |
 | 174 | [Port Royale 4](games/p/port_royale_4.md) | 0.14% |
-| 176 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 176 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
+| 175 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 175 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.13% |
+| 175 | [Train Valley 2](games/t/train_valley_2.md) | 0.13% |
 | 178 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 179 | [Fall Guys](games/f/fall_guys.md) | 0.11% |
 | 179 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
