@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -225,10 +225,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 195583,
-  "EOS_Completed": 455,
-  "EOS_NewPlayers": 667,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 195586,
+  "EOS_Completed": 456,
+  "EOS_NewPlayers": 668,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -8380,6 +8380,11 @@
       "Time": "2023-07-07T02:30:31.6905393+00:00",
       "NumProgressed": 195583,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2023-07-07T03:27:15.0831147+00:00",
+      "NumProgressed": 195586,
+      "NumCompleted": 456
     }
   ],
   "TotalAchievements": 29,
@@ -8415,7 +8420,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 183848
+      "UsersEstimate": 183851
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -8439,7 +8444,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -8463,7 +8468,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -8559,7 +8564,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -8567,7 +8572,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -8575,7 +8580,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19558
+      "UsersEstimate": 19559
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -8622,16 +8627,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 195583,
-      "Completed": 455
+      "Progressed": 195586,
+      "Completed": 456
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-06-26T22:58:32.656469+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:30:31.6905385+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:27:15.0831143+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:37.1895533+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:23:02.4071272+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:30:31.690606+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:20:03.3683024+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:27:15.0831673+00:00"
 }

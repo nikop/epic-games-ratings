@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56937,
+  "EOS_Progressed": 56940,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7172,6 +7172,11 @@
       "Time": "2023-07-07T02:27:23.6461828+00:00",
       "NumProgressed": 56937,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T03:24:39.90529+00:00",
+      "NumProgressed": 56940,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7183,7 +7188,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18789
+      "UsersEstimate": 18790
     },
     {
       "ID": "02",
@@ -7199,7 +7204,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 11387
+      "UsersEstimate": 11388
     },
     {
       "ID": "04",
@@ -7207,7 +7212,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "05",
@@ -7263,7 +7268,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "12",
@@ -7287,7 +7292,7 @@
       "Name": "Gatekeeper",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "15",
@@ -7335,7 +7340,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "21",
@@ -7343,7 +7348,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6832
+      "UsersEstimate": 6833
     },
     {
       "ID": "22",
@@ -7367,7 +7372,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "25",
@@ -7383,7 +7388,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "27",
@@ -7407,7 +7412,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6832
+      "UsersEstimate": 6833
     },
     {
       "ID": "30",
@@ -7415,7 +7420,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "31",
@@ -7423,7 +7428,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7971
+      "UsersEstimate": 7972
     },
     {
       "ID": "32",
@@ -7439,7 +7444,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6832
+      "UsersEstimate": 6833
     },
     {
       "ID": "34",
@@ -7447,7 +7452,7 @@
       "Name": "Energized!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "35",
@@ -7455,7 +7460,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15373
+      "UsersEstimate": 15374
     },
     {
       "ID": "36",
@@ -7503,7 +7508,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7971
+      "UsersEstimate": 7972
     },
     {
       "ID": "42",
@@ -7559,7 +7564,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "49",
@@ -7583,7 +7588,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "52",
@@ -7718,21 +7723,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56937,
+      "Progressed": 56940,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20405,
+      "Progressed": 20408,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:27:23.6461821+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:24:39.9052895+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:21:41.5424817+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:27:23.6463271+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:19:03.5345084+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:24:39.9053731+00:00"
 }

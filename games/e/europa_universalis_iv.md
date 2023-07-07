@@ -7,12 +7,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 9.00% | ~5,972 |
-| That's a Grand Army | 8.00% | ~5,308 |
-| That is mine! | 8.00% | ~5,308 |
-| Victorious! | 8.00% | ~5,308 |
-| Brothers in Arms | 6.00% | ~3,981 |
-| That's a Grand Navy | 6.00% | ~3,981 |
-| Seriously?! | 6.00% | ~3,981 |
+| That's a Grand Army | 8.00% | ~5,309 |
+| That is mine! | 8.00% | ~5,309 |
+| Victorious! | 8.00% | ~5,309 |
+| Brothers in Arms | 6.00% | ~3,982 |
+| That's a Grand Navy | 6.00% | ~3,982 |
+| Seriously?! | 6.00% | ~3,982 |
 | For the Glory | 5.00% | ~3,318 |
 | Cold War | 4.00% | ~2,654 |
 | True Catholic | 4.00% | ~2,654 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.90% | ~597 |
 | Down Under | 0.80% | ~531 |
 | Trustworthy | 0.80% | ~531 |
-| Electable! | 0.70% | ~464 |
-| Populists in Government | 0.70% | ~464 |
+| Electable! | 0.70% | ~465 |
+| Populists in Government | 0.70% | ~465 |
 | All belongs to Mother Russia | 0.60% | ~398 |
 | At every continent | 0.60% | ~398 |
 | Early-Modern Warfare | 0.60% | ~398 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,351 (Ranked 74)  
+Progressed: 66,359 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,10 +439,10 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-04 | 65,470 | 0 |
 | 2023-07-05 | 65,889 | 0 |
 | 2023-07-06 | 66,326 | 0 |
-| 2023-07-07 | 66,351 | 0 |
+| 2023-07-07 | 66,359 | 0 |
 ## Awards
 Max (Educational): 5,511  (Ranked 60)  
-Sum: 45,483 (Ranked 27)  
+Sum: 45,489 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -450,7 +450,7 @@ Diff (max vs sum): 33
 | This game is Highly Recommended | 5,279 |
 | This game has Challenging Combat | 5,242 |
 | This game is Extremely Fun | 5,226 |
-| This game has Diverse Characters | 5,185 |
+| This game has Diverse Characters | 5,191 |
 | This game is Relaxing | 5,108 |
 | This game has Competitive Players | 4,949 |
 | This game has Amazing Storytelling | 4,667 |
@@ -630,4 +630,4 @@ Diff (max vs sum): 33
 | 2023-07-04 | 4.69 | - | 5,503 | 45,392 |
 | 2023-07-05 | 4.69 | - | 5,507 | 45,444 |
 | 2023-07-06 | 4.69 | - | 5,511 | 45,478 |
-| 2023-07-07 | 4.69 | - | 5,511 | 45,483 |
+| 2023-07-07 | 4.69 | - | 5,511 | 45,489 |

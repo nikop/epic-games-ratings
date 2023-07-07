@@ -5,17 +5,17 @@ Rating: 4.09 (Ranked 890)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,467 |
-| World Map | 79.00% | ~1,246 |
-| Temple of Eternals | 56.00% | ~883 |
-| Prestigious | 53.00% | ~836 |
+| Victor | 93.00% | ~1,468 |
+| World Map | 79.00% | ~1,247 |
+| Temple of Eternals | 56.00% | ~884 |
+| Prestigious | 53.00% | ~837 |
 | Fellowship Power | 41.00% | ~647 |
-| Guild Power | 25.00% | ~394 |
-| Prestigious x10 | 21.00% | ~331 |
-| The game is on | 20.00% | ~315 |
+| Guild Power | 25.00% | ~395 |
+| Prestigious x10 | 21.00% | ~332 |
+| The game is on | 20.00% | ~316 |
 | Exotic Merchant | 17.00% | ~268 |
-| Dragon Clicker | 16.00% | ~252 |
-| Miner Clicker | 16.00% | ~252 |
+| Dragon Clicker | 16.00% | ~253 |
+| Miner Clicker | 16.00% | ~253 |
 | Full Party | 15.00% | ~237 |
 | Inspection | 15.00% | ~237 |
 | Dragon Master | 14.00% | ~221 |
@@ -27,7 +27,7 @@ Rating: 4.09 (Ranked 890)
 | Natural Talent | 12.00% | ~189 |
 | Superior | 12.00% | ~189 |
 | The Unstoppable | 12.00% | ~189 |
-| Scientist | 11.00% | ~173 |
+| Scientist | 11.00% | ~174 |
 | Challenger | 9.00% | ~142 |
 | Daily Quest Completionist | 9.00% | ~142 |
 | Doing My Part | 9.00% | ~142 |
@@ -39,9 +39,9 @@ Rating: 4.09 (Ranked 890)
 | Scroll Master | 9.00% | ~142 |
 | The power of Awakening | 9.00% | ~142 |
 | Four Leaf Clover | 8.00% | ~126 |
-| Here We Go Again | 7.00% | ~110 |
-| Master Enchanter | 7.00% | ~110 |
-| The father of Dragons | 7.00% | ~110 |
+| Here We Go Again | 7.00% | ~111 |
+| Master Enchanter | 7.00% | ~111 |
+| The father of Dragons | 7.00% | ~111 |
 | Enchanting skill | 6.00% | ~95 |
 | How Do You Turn This On? | 6.00% | ~95 |
 | The Expeditioner | 6.00% | ~95 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 890)
 | War Machines Army | 0.20% | ~3 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,577 (Ranked 169)  
+Progressed: 1,579 (Ranked 169)  
 Completed: 1 (0.06%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 1 (0.06%) (Ranked 195)
 | 2023-07-04 | 1,564 | 1 |
 | 2023-07-05 | 1,573 | 1 |
 | 2023-07-06 | 1,577 | 1 |
+| 2023-07-07 | 1,579 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

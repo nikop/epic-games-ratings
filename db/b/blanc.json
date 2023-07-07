@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2118,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1298,6 +1298,11 @@
       "Time": "2023-07-07T02:25:15.8895616+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-07-07T03:21:45.0871297+00:00",
+      "NumProgressed": 2118,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 13,
@@ -1317,7 +1322,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "FALLEN_TREE",
@@ -1357,7 +1362,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "SNOW_RUINS",
@@ -1373,7 +1378,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -1412,7 +1417,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2118,
       "Completed": 5
     }
   ],
@@ -1420,8 +1425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:25:15.8895609+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:21:45.0871292+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:16.3325336+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:23:34.1572369+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:25:15.8896117+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:20:27.6770089+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:21:45.0871485+00:00"
 }

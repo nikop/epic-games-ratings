@@ -5,16 +5,16 @@ Rating: 4.45 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~291 |
-| Increasing your Power Level | 28.00% | ~291 |
+| Rookie No More | 28.00% | ~292 |
+| Increasing your Power Level | 28.00% | ~292 |
 | Enter the Speed Gauntlet | 25.00% | ~260 |
 | I just can't choose | 25.00% | ~260 |
 | A Cheese Grater to the Face | 20.00% | ~208 |
 | Put it on a shelf | 19.00% | ~198 |
-| It's like an haircut | 18.00% | ~187 |
+| It's like an haircut | 18.00% | ~188 |
 | Suit up | 17.00% | ~177 |
+| Walked like an Egyptian | 16.00% | ~167 |
 | Ride in the rising sun | 16.00% | ~167 |
-| Walked like an Egyptian | 15.00% | ~156 |
 | Rookie No-No More | 13.00% | ~135 |
 | Running at the speed of sound | 13.00% | ~135 |
 | Martian explorer | 12.00% | ~125 |
@@ -22,10 +22,10 @@ Rating: 4.45 (Ranked 621)
 | Blurred photofinish | 9.00% | ~94 |
 | EZ game EZ life | 7.00% | ~73 |
 | First step into a larger world | 7.00% | ~73 |
-| Over the clouds | 6.00% | ~62 |
-| Under the sea, under the sea | 6.00% | ~62 |
-| Even Faster! | 6.00% | ~62 |
-| Longshot | 6.00% | ~62 |
+| Over the clouds | 6.00% | ~63 |
+| Under the sea, under the sea | 6.00% | ~63 |
+| Even Faster! | 6.00% | ~63 |
+| Longshot | 6.00% | ~63 |
 | B-asic! | 5.00% | ~52 |
 | Under the neon lights | 4.00% | ~42 |
 | All Power to Engines! | 4.00% | ~42 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 621)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,041 (Ranked 184)  
+Progressed: 1,042 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 236)
 | 2023-07-01 | 1,037 | 0 |
 | 2023-07-04 | 1,039 | 0 |
 | 2023-07-06 | 1,041 | 0 |
+| 2023-07-07 | 1,042 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

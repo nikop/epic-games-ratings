@@ -664,9 +664,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252550,
+  "EOS_Progressed": 252553,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8549,6 +8549,11 @@
       "Time": "2023-07-07T02:29:01.5434617+00:00",
       "NumProgressed": 252550,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-07T03:26:01.6667977+00:00",
+      "NumProgressed": 252553,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 56,
@@ -8560,7 +8565,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "Act2",
@@ -8608,7 +8613,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 78290
+      "UsersEstimate": 78291
     },
     {
       "ID": "BackHomeNTimes",
@@ -8832,7 +8837,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "KillOtherWithMine",
@@ -8848,7 +8853,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55561
+      "UsersEstimate": 55562
     },
     {
       "ID": "KillOthers2",
@@ -9007,7 +9012,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 252550,
+      "Progressed": 252553,
       "Completed": 2
     }
   ],
@@ -9015,8 +9020,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-07-06T21:01:42.966299+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:29:01.543461+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:26:01.6667969+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:43.1031791+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:24:47.1871932+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:29:01.5435742+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:21:20.0638114+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:26:01.666872+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~38,791 |
-| Worth it | 63.00% | ~31,738 |
-| Eagle Eye | 55.00% | ~27,708 |
-| Corpseman I | 40.00% | ~20,151 |
-| Blast fishing | 37.00% | ~18,640 |
-| Not alone | 32.00% | ~16,121 |
-| Headhunter I | 26.00% | ~13,098 |
-| Manual Labour I | 25.00% | ~12,594 |
+| Setting an example | 77.00% | ~38,793 |
+| Worth it | 63.00% | ~31,740 |
+| Eagle Eye | 55.00% | ~27,710 |
+| Corpseman I | 40.00% | ~20,152 |
+| Blast fishing | 37.00% | ~18,641 |
+| Not alone | 32.00% | ~16,122 |
+| Headhunter I | 27.00% | ~13,603 |
+| Manual Labour I | 25.00% | ~12,595 |
 | Developers, Developers, Developers | 24.00% | ~12,091 |
 | Basic Training | 24.00% | ~12,091 |
-| Furchtlos und Treu | 13.00% | ~6,549 |
-| Gott Mit Uns | 12.00% | ~6,045 |
+| Furchtlos und Treu | 13.00% | ~6,550 |
+| Gott Mit Uns | 12.00% | ~6,046 |
 | This We'll Defend! | 9.00% | ~4,534 |
 | Anker wirf! | 9.00% | ~4,534 |
 | Providentiea Memor | 9.00% | ~4,534 |
 | For King and Country | 9.00% | ~4,534 |
 | Battle hardened | 8.00% | ~4,030 |
-| Semper Fidelis! | 7.00% | ~3,526 |
-| Honneur et Patrie | 7.00% | ~3,526 |
+| Semper Fidelis! | 7.00% | ~3,527 |
+| Honneur et Patrie | 7.00% | ~3,527 |
 | In Treue Fest | 5.00% | ~2,519 |
 | Voor De Koning | 5.00% | ~2,519 |
 | Extreme Headhunter | 5.00% | ~2,519 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~50 |
 | Blood Brother | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,378 (Ranked 84)  
+Progressed: 50,381 (Ranked 84)  
 Completed: 4 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 4 (0.01%) (Ranked 221)
 | 2023-07-04 | 50,150 | 4 |
 | 2023-07-05 | 50,253 | 4 |
 | 2023-07-06 | 50,370 | 4 |
-| 2023-07-07 | 50,378 | 4 |
+| 2023-07-07 | 50,381 | 4 |
 ## Awards
 Max (Highly Recommended): 95  (Ranked 337)  
 Sum: 757 (Ranked 261)  

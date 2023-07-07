@@ -6772,10 +6772,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 45483,
       "NumberOfAwardsMax": 5511
+    },
+    {
+      "Time": "2023-07-07T03:18:44.5206645+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 45489,
+      "NumberOfAwardsMax": 5511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45483,
+  "NumberOfAwards": 45489,
   "NumberOfAwardsMax": 5511,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6795,7 +6801,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5185
+      "Count": 5191
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6846,9 +6852,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 66351,
+  "EOS_Progressed": 66359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3122,
+  "EOS_NewPlayers": 3120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15211,6 +15217,11 @@
       "Time": "2023-07-07T02:30:48.0482667+00:00",
       "NumProgressed": 66351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T03:27:29.3515632+00:00",
+      "NumProgressed": 66359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -15662,7 +15673,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -15934,7 +15945,7 @@
       "Name": "Electable!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -16222,7 +16233,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "achievement_grand_coalition",
@@ -16246,7 +16257,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -17030,7 +17041,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_prester_john",
@@ -17222,7 +17233,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -17502,7 +17513,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -17918,7 +17929,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -18053,21 +18064,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 66351,
+      "Progressed": 66359,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 66351,
+      "Progressed": 66359,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-07-07T02:21:13.7553008+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:30:48.0482661+00:00",
+  "LastChanged": "2023-07-07T03:18:44.5206643+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:27:29.3515627+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:21.930195+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:21:13.7553018+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:30:48.0497422+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:18:44.5206649+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:27:29.3525962+00:00"
 }

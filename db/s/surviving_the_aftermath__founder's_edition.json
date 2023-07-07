@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1095,9 +1095,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 7147,
+  "EOS_Progressed": 7148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7460,6 +7460,11 @@
       "Time": "2023-07-07T02:28:29.2394763+00:00",
       "NumProgressed": 7147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T03:25:34.3373289+00:00",
+      "NumProgressed": 7148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -7527,7 +7532,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "17",
@@ -7559,7 +7564,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "20",
@@ -7583,7 +7588,7 @@
       "Name": "First Step",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5075
     },
     {
       "ID": "23",
@@ -7647,7 +7652,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "30",
@@ -7927,7 +7932,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "9",
@@ -7942,15 +7947,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 7147,
+      "Progressed": 7148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-06-26T16:00:42.2055096+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:28:29.2394756+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:25:34.337328+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:15.1648754+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:24:23.6317404+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:28:29.2395646+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:21:01.3179412+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:25:34.3374018+00:00"
 }

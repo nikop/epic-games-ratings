@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -488,6 +488,11 @@
       "Time": "2023-07-06T02:31:41.2701437+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T03:24:20.4968277+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -553,9 +558,9 @@
       "ID": "ALLTRACKSCAIRO",
       "SetID": "3dh70f3",
       "Name": "Walked like an Egyptian",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 167
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -563,7 +568,7 @@
       "Name": "Over the clouds",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ALLTRACKSFUJI",
@@ -587,7 +592,7 @@
       "Name": "Under the sea, under the sea",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ALLTRACKSMARS",
@@ -627,7 +632,7 @@
       "Name": "Rookie No More",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CAREERADVANCED",
@@ -643,7 +648,7 @@
       "Name": "Even Faster!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CAREERCLASSB",
@@ -739,7 +744,7 @@
       "Name": "Longshot",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GOFAST",
@@ -811,7 +816,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ONEPAINT",
@@ -819,7 +824,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ONEPLATINUM",
@@ -914,7 +919,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1042,
       "Completed": 0
     }
   ],
@@ -922,8 +927,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:26:30.3279439+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:24:20.4968273+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:40.0134084+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:22:18.2349018+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:26:30.3279923+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:19:29.1762046+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:24:20.4968713+00:00"
 }

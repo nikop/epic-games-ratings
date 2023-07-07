@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,136 |
-| The Mad Wizard | 11.00% | ~22,833 |
-| The Ring of Regeneration | 7.00% | ~14,530 |
-| Are Ya Chicken? | 7.00% | ~14,530 |
-| Were-verpowered | 5.00% | ~10,379 |
-| Seeking Allies | 5.00% | ~10,379 |
-| Mad Cow Disease | 5.00% | ~10,379 |
-| Friendly Imps | 5.00% | ~10,379 |
-| A Persistent Buzzing | 4.00% | ~8,303 |
-| Pure Energy | 4.00% | ~8,303 |
-| Terror in the Dark | 3.00% | ~6,227 |
-| Unearthed Evil | 3.00% | ~6,227 |
-| The Crumbling Temple | 3.00% | ~6,227 |
-| Exploring Port Nyanzaru | 3.00% | ~6,227 |
-| The Contagious Curse | 3.00% | ~6,227 |
+| The Cursed Farmer | 15.00% | ~31,140 |
+| The Mad Wizard | 11.00% | ~22,836 |
+| The Ring of Regeneration | 7.00% | ~14,532 |
+| Are Ya Chicken? | 7.00% | ~14,532 |
+| Were-verpowered | 5.00% | ~10,380 |
+| Seeking Allies | 5.00% | ~10,380 |
+| Mad Cow Disease | 5.00% | ~10,380 |
+| Friendly Imps | 5.00% | ~10,380 |
+| A Persistent Buzzing | 4.00% | ~8,304 |
+| Pure Energy | 4.00% | ~8,304 |
+| Terror in the Dark | 3.00% | ~6,228 |
+| Unearthed Evil | 3.00% | ~6,228 |
+| The Crumbling Temple | 3.00% | ~6,228 |
+| Exploring Port Nyanzaru | 3.00% | ~6,228 |
+| The Contagious Curse | 3.00% | ~6,228 |
 | Beast Mode | 2.00% | ~4,152 |
 | Low Initiative | 2.00% | ~4,152 |
 | A Mysterious Summons | 2.00% | ~4,152 |
@@ -64,17 +64,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Giant's Bane Tavern | 0.70% | ~1,217 |
 | Rude Welcome | 0.70% | ~1,453 |
 | The Haunted Jungle | 0.70% | ~1,453 |
-| Tomb of the Nine Gods | 0.60% | ~1,245 |
-| Family Entanglements | 0.60% | ~1,245 |
-| The Immortal Warrior | 0.60% | ~1,245 |
-| The Wyrmheart Mine | 0.60% | ~1,245 |
-| Fugitives | 0.60% | ~1,245 |
-| Hopelessly Lost | 0.60% | ~1,245 |
-| Enter the Sargauth | 0.60% | ~1,245 |
-| Crowded Streets | 0.60% | ~1,245 |
-| The Darkness Runs Deeper | 0.60% | ~1,245 |
-| Market Fluctuations | 0.60% | ~1,245 |
-| Durable Deep | 0.60% | ~1,245 |
+| Tomb of the Nine Gods | 0.60% | ~1,246 |
+| Family Entanglements | 0.60% | ~1,246 |
+| The Immortal Warrior | 0.60% | ~1,246 |
+| The Wyrmheart Mine | 0.60% | ~1,246 |
+| Fugitives | 0.60% | ~1,246 |
+| Hopelessly Lost | 0.60% | ~1,246 |
+| Enter the Sargauth | 0.60% | ~1,246 |
+| Crowded Streets | 0.60% | ~1,246 |
+| The Darkness Runs Deeper | 0.60% | ~1,246 |
+| Market Fluctuations | 0.60% | ~1,246 |
+| Durable Deep | 0.60% | ~1,246 |
 | Force Grey Unleashed | 0.50% | ~1,038 |
 | Sleuth It Out | 0.50% | ~1,038 |
 | Chatty Nobles | 0.50% | ~1,038 |
@@ -112,11 +112,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Resolve Amongst Chaos | 0.40% | ~830 |
 | Once More Into The Breach | 0.40% | ~830 |
 | Wyllowwood | 0.40% | ~830 |
-| An Illithid Undertaking | 0.40% | ~695 |
-| Déjà Vu | 0.40% | ~695 |
-| Into The Fire | 0.40% | ~695 |
-| Moose Tracks | 0.40% | ~695 |
-| Civilization | 0.40% | ~695 |
+| An Illithid Undertaking | 0.40% | ~696 |
+| Déjà Vu | 0.40% | ~696 |
+| Into The Fire | 0.40% | ~696 |
+| Moose Tracks | 0.40% | ~696 |
+| Civilization | 0.40% | ~696 |
 | Poor Guidance | 0.40% | ~830 |
 | Anti-Dexterous Explorers | 0.30% | ~623 |
 | Not Very Charming | 0.30% | ~623 |
@@ -230,6 +230,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle | 0.20% | ~348 |
 | Madcap Adventures Redux | 0.20% | ~348 |
 | Raggadragga's Crew | 0.20% | ~348 |
+| Extreme Heat | 0.20% | ~348 |
 | Into the Unknown | 0.20% | ~348 |
 | The Prison of Velkynvelve | 0.20% | ~348 |
 | Giant-Size Adventure | 0.20% | ~348 |
@@ -336,7 +337,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Show of Strength | 0.10% | ~174 |
 | Fight Dragons with Dragons | 0.10% | ~174 |
 | Just The Worst | 0.10% | ~174 |
-| Extreme Heat | 0.10% | ~174 |
 | Fire and Brimstone | 0.10% | ~174 |
 | A Tenday at Golgamann's | 0.10% | ~174 |
 | A Nightmare Occasion | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,575 (Ranked 52)  
+Progressed: 207,603 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,575 | 2,035 |
+| 2023-07-07 | 207,603 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,419 (Ranked 37)  

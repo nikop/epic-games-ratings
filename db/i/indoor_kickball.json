@@ -330,9 +330,9 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "10",
@@ -378,9 +378,9 @@
       "ID": "15",
       "SetID": "39djiaj",
       "Name": "Grand Slam!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "16",
@@ -642,9 +642,9 @@
       "ID": "9",
       "SetID": "39djiaj",
       "Name": "Just how we drew it up",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:30:36.0278434+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:27:18.5008913+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:06.3751989+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:23:27.3560178+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:30:36.0278758+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:20:21.4760011+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:27:18.5009176+00:00"
 }

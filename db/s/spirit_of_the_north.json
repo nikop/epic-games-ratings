@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 61039,
+  "EOS_Progressed": 61041,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8503,6 +8503,11 @@
       "Time": "2023-07-07T02:26:28.4886917+00:00",
       "NumProgressed": 61039,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-07-07T03:24:18.7670407+00:00",
+      "NumProgressed": 61041,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 24,
@@ -8522,7 +8527,7 @@
       "Name": "AWAKEN",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 12818
+      "UsersEstimate": 12819
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -8530,7 +8535,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 41507
+      "UsersEstimate": 41508
     },
     {
       "ID": "BEST_FRIENDS",
@@ -8546,7 +8551,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 15870
+      "UsersEstimate": 15871
     },
     {
       "ID": "ERADICATE",
@@ -8594,7 +8599,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 32351
+      "UsersEstimate": 32352
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -8658,7 +8663,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 12818
+      "UsersEstimate": 12819
     },
     {
       "ID": "SPIRIT_DASH",
@@ -8674,7 +8679,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -8705,7 +8710,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 61039,
+      "Progressed": 61041,
       "Completed": 307
     }
   ],
@@ -8713,8 +8718,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-06-20T12:00:48.5369511+00:00",
-  "LastChanged_Achievements": "2023-07-07T02:26:28.4886909+00:00",
+  "LastChanged_Achievements": "2023-07-07T03:24:18.7670397+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:29.9696354+00:00",
-  "LastUpdate_Ratings": "2023-07-07T02:23:49.0408988+00:00",
-  "LastUpdate_Achievements": "2023-07-07T02:26:28.4887895+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:20:37.1210945+00:00",
+  "LastUpdate_Achievements": "2023-07-07T03:24:18.7671832+00:00"
 }
