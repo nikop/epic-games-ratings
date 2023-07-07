@@ -23,7 +23,7 @@
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
 | 23 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.55% |
-| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.54% |
+| 24 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.53% |
 | 25 | [Smelter](games/s/smelter.md) | 8.11% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
@@ -105,7 +105,7 @@
 | 103 | [Adios](games/a/adios.md) | 0.94% |
 | 104 | [Hades](games/h/hades.md) | 0.89% |
 | 105 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.86% |
-| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.84% |
+| 106 | [Dungeons 3](games/d/dungeons_3.md) | 0.85% |
 | 107 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 107 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.77% |
 | 109 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.76% |

@@ -149,7 +149,7 @@
 | 144 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 634 | 170 |
 | 144 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,762 | 48 |
 | 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 504 |
-| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,066 | 14 |
+| 144 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 34,108 | 14 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.74 | 0 | 504 |
 | 144 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 504 |
 | 144 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 504 |
@@ -299,7 +299,7 @@
 | 271 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 459 | 197 |
 | 271 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 504 |
 | 299 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 504 |
-| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,876 | 66 |
+| 299 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,883 | 66 |
 | 299 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 166 | 285 |
 | 299 | [GigaBash](games/g/gigabash.md) | 4.65 | 0 | 504 |
 | 299 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.65 | 0 | 504 |
@@ -524,7 +524,7 @@
 | 520 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 40 | 419 |
 | 520 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 29,615 | 15 |
 | 520 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 492 |
-| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,556 | 7 |
+| 520 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 143,613 | 7 |
 | 520 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 514 | 190 |
 | 520 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 101 | 327 |
 | 520 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 148 | 292 |
@@ -562,6 +562,7 @@
 | 552 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,521 | 94 |
 | 552 | [Horace](games/h/horace.md) | 4.50 | 0 | 504 |
 | 552 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 504 |
+| 552 | [Knockout City™](games/k/knockout_city™.md) | 4.50 | 0 | 504 |
 | 552 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 329 |
 | 552 | [MythForce](games/m/mythforce.md) | 4.50 | 32 | 446 |
 | 552 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.50 | 0 | 504 |
@@ -571,20 +572,19 @@
 | 552 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 719 | 160 |
 | 552 | [Rocket League®](games/r/rocket_league®.md) | 4.50 | 465,739 | 2 |
 | 552 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 504 |
-| 572 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
-| 572 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 504 |
-| 572 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 405 | 208 |
-| 572 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 108 |
-| 572 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
-| 572 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 240 |
-| 572 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 504 |
-| 572 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
-| 572 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 504 |
-| 572 | [Maneater](games/m/maneater.md) | 4.49 | 13,556 | 26 |
-| 572 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
-| 572 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
-| 572 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
-| 572 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
+| 573 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 384 |
+| 573 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 504 |
+| 573 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 405 | 208 |
+| 573 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,978 | 108 |
+| 573 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 504 |
+| 573 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 273 | 240 |
+| 573 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 504 |
+| 573 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 240 | 249 |
+| 573 | [Maneater](games/m/maneater.md) | 4.49 | 13,556 | 26 |
+| 573 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 626 | 171 |
+| 573 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 352 |
+| 573 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 504 |
+| 573 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 36 | 431 |
 | 586 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 504 |
 | 586 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 504 |
 | 586 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 504 |
@@ -666,7 +666,7 @@
 | 664 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.42 | 0 | 504 |
 | 664 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 63 | 382 |
 | 664 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.42 | 31 | 453 |
-| 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,331 | 30 |
+| 664 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 12,339 | 30 |
 | 664 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 504 |
 | 664 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 49 |
 | 664 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 242 |
@@ -751,7 +751,7 @@
 | 744 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 504 |
 | 744 | [Paladins](games/p/paladins.md) | 4.34 | 3,380 | 85 |
 | 744 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 504 |
-| 744 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,107 | 63 |
+| 744 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 5,112 | 63 |
 | 744 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 245 | 247 |
 | 744 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 0 | 504 |
 | 744 | [Torchlight](games/t/torchlight.md) | 4.34 | 21 | 492 |
