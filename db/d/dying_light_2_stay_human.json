@@ -6727,9 +6727,9 @@
       "Count": 568
     }
   ],
-  "EOS_Progressed": 589279,
+  "EOS_Progressed": 589287,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 4666,
+  "EOS_NewPlayers": 4667,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15087,6 +15087,11 @@
       "Time": "2023-07-07T03:24:24.9949054+00:00",
       "NumProgressed": 589279,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-07-07T04:02:40.9067928+00:00",
+      "NumProgressed": 589287,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 65,
@@ -15098,7 +15103,7 @@
       "Name": "Into the Unknown",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 58928
+      "UsersEstimate": 58929
     },
     {
       "ID": "achievement_02",
@@ -15106,7 +15111,7 @@
       "Name": "First Shot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 58928
+      "UsersEstimate": 58929
     },
     {
       "ID": "achievement_03",
@@ -15114,7 +15119,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 53035
+      "UsersEstimate": 53036
     },
     {
       "ID": "achievement_04",
@@ -15234,7 +15239,7 @@
       "Name": "Sancho Panza",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47142
+      "UsersEstimate": 47143
     },
     {
       "ID": "achievement_19",
@@ -15242,7 +15247,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "achievement_20",
@@ -15306,7 +15311,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 64821
+      "UsersEstimate": 64822
     },
     {
       "ID": "achievement_28",
@@ -15386,7 +15391,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 53035
+      "UsersEstimate": 53036
     },
     {
       "ID": "achievement_38",
@@ -15490,7 +15495,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17678
+      "UsersEstimate": 17679
     },
     {
       "ID": "achievement_51",
@@ -15617,21 +15622,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 589279,
+      "Progressed": 589287,
       "Completed": 58
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 234723,
+      "Progressed": 234731,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-07-07T03:21:01.5392008+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:24:24.9949048+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:02:40.9067923+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:09.528341+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:21:01.5392014+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:24:24.9949966+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:00:24.845851+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:02:40.9069334+00:00"
 }

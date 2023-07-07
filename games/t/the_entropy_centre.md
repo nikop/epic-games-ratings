@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Rewind Time | 90.00% | ~195 |
-| Wake Up | 80.00% | ~174 |
+| Wake Up | 81.00% | ~176 |
 | Time Gates | 64.00% | ~139 |
 | Command Centre | 48.00% | ~104 |
 | This is a Wall | 44.00% | ~95 |

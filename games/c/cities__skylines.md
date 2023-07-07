@@ -6,51 +6,51 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~630,539 |
-| Green Energy | 60.00% | ~532,850 |
-| Foggy Weather | 59.00% | ~523,969 |
-| Singing In The- | 59.00% | ~523,969 |
-| Unpopular Mayor | 41.00% | ~364,114 |
-| Power at Your Fingertips | 33.00% | ~293,067 |
-| City Planner | 23.00% | ~204,259 |
-| Rolling in Dough | 20.00% | ~177,617 |
-| Does My Bum Look Big In This? | 17.00% | ~150,974 |
-| Climbing the Social Ladder | 16.00% | ~142,093 |
-| Safe City | 14.00% | ~124,332 |
-| Quay-King | 11.00% | ~97,689 |
-| Lawmaker | 10.00% | ~88,808 |
-| With Canals You Can! | 10.00% | ~88,808 |
-| Nomen Est Omen | 7.00% | ~62,166 |
-| Well Informed | 6.00% | ~53,285 |
-| Fire Watch | 5.00% | ~44,404 |
-| Greenest City | 4.00% | ~35,523 |
-| Heavenly City | 3.00% | ~26,642 |
-| Reporting! | 3.00% | ~26,642 |
-| SIMulated City | 3.00% | ~26,642 |
-| The Safest Town | 3.00% | ~26,642 |
-| Professional Dumper | 2.00% | ~17,762 |
+| Pioneer | 71.00% | ~630,574 |
+| Green Energy | 60.00% | ~532,879 |
+| Foggy Weather | 59.00% | ~523,998 |
+| Singing In The- | 59.00% | ~523,998 |
+| Unpopular Mayor | 41.00% | ~364,134 |
+| Power at Your Fingertips | 33.00% | ~293,084 |
+| City Planner | 23.00% | ~204,270 |
+| Rolling in Dough | 20.00% | ~177,626 |
+| Does My Bum Look Big In This? | 17.00% | ~150,982 |
+| Climbing the Social Ladder | 16.00% | ~142,101 |
+| Safe City | 14.00% | ~124,338 |
+| Quay-King | 11.00% | ~97,695 |
+| Lawmaker | 10.00% | ~88,813 |
+| With Canals You Can! | 10.00% | ~88,813 |
+| Nomen Est Omen | 7.00% | ~62,169 |
+| Well Informed | 6.00% | ~53,288 |
+| Fire Watch | 5.00% | ~44,407 |
+| Greenest City | 4.00% | ~35,525 |
+| Heavenly City | 3.00% | ~26,644 |
+| Reporting! | 3.00% | ~26,644 |
+| SIMulated City | 3.00% | ~26,644 |
+| The Safest Town | 3.00% | ~26,644 |
+| Professional Dumper | 2.00% | ~17,763 |
 | City in Motion | 1.00% | ~8,881 |
 | Earthloving City | 1.00% | ~8,881 |
 | Metropolis | 1.00% | ~8,881 |
 | Beam Me Up | 0.70% | ~6,217 |
 | Higher Education | 0.70% | ~6,217 |
-| Full Capacity | 0.60% | ~5,328 |
-| Terraformer | 0.60% | ~5,328 |
-| Decorator | 0.50% | ~4,440 |
-| Drop the Base | 0.50% | ~4,440 |
-| It's heading right for us! | 0.50% | ~4,440 |
-| Postman | 0.50% | ~4,440 |
-| Shake It Up! | 0.50% | ~4,440 |
-| Speed up! | 0.50% | ~4,440 |
-| The Waters of Our Lives | 0.50% | ~4,440 |
-| Thunder and Lightning | 0.50% | ~4,440 |
-| Twist and shout | 0.50% | ~4,440 |
-| Airfield Expertise | 0.40% | ~3,552 |
-| Airlifter | 0.40% | ~3,552 |
-| Get Your Snowshoes Ready! | 0.40% | ~3,552 |
-| Happy Town | 0.40% | ~3,552 |
-| I Want It All | 0.40% | ~3,552 |
-| Just Tolling | 0.40% | ~3,552 |
+| Full Capacity | 0.60% | ~5,329 |
+| Terraformer | 0.60% | ~5,329 |
+| Decorator | 0.50% | ~4,441 |
+| Drop the Base | 0.50% | ~4,441 |
+| It's heading right for us! | 0.50% | ~4,441 |
+| Postman | 0.50% | ~4,441 |
+| Shake It Up! | 0.50% | ~4,441 |
+| Speed up! | 0.50% | ~4,441 |
+| The Waters of Our Lives | 0.50% | ~4,441 |
+| Thunder and Lightning | 0.50% | ~4,441 |
+| Twist and shout | 0.50% | ~4,441 |
+| Airfield Expertise | 0.40% | ~3,553 |
+| Airlifter | 0.40% | ~3,553 |
+| Get Your Snowshoes Ready! | 0.40% | ~3,553 |
+| Happy Town | 0.40% | ~3,553 |
+| I Want It All | 0.40% | ~3,553 |
+| Just Tolling | 0.40% | ~3,553 |
 | A Huge Hadron | 0.30% | ~2,664 |
 | Airport Architect | 0.30% | ~2,664 |
 | Are They Naked In There? | 0.30% | ~2,664 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~888 |
 | Z00 | 0.10% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888,083 (Ranked 13)  
+Progressed: 888,132 (Ranked 13)  
 Completed: 9 (0.00%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 9 (0.00%) (Ranked 236)
 | 2023-07-04 | 882,786 | 9 |
 | 2023-07-05 | 885,365 | 9 |
 | 2023-07-06 | 887,768 | 9 |
-| 2023-07-07 | 888,083 | 9 |
+| 2023-07-07 | 888,132 | 9 |
 ## Awards
 Max (Relaxing): 4,876  (Ranked 66)  
 Sum: 37,103 (Ranked 33)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 595339,
+  "EOS_Progressed": 595340,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8729,6 +8729,11 @@
       "Time": "2023-07-07T03:24:24.7983983+00:00",
       "NumProgressed": 595339,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-07-07T04:02:40.5255634+00:00",
+      "NumProgressed": 595340,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 28,
@@ -8804,7 +8809,7 @@
       "Name": "We need more gold",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 357203
+      "UsersEstimate": 357204
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -8820,7 +8825,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 261949
+      "UsersEstimate": 261950
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -8860,7 +8865,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 291716
+      "UsersEstimate": 291717
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -8868,7 +8873,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 553665
+      "UsersEstimate": 553666
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -8876,7 +8881,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 142881
+      "UsersEstimate": 142882
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -8963,15 +8968,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 595339,
+      "Progressed": 595340,
       "Completed": 498
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-06-10T03:58:36.0147725+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:24:24.7983978+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:02:40.5255629+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:49.5805652+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:20:10.0575035+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:24:24.7984517+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:59:16.3472568+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:02:40.5256505+00:00"
 }

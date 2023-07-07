@@ -6,7 +6,7 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,857 |
+| Let's Get This Party Started | 92.00% | ~6,932 |
 | Photogenic | 88.00% | ~6,631 |
 | Plug It In | 85.00% | ~6,405 |
 | Surge Gauntlet Jockey | 85.00% | ~6,405 |

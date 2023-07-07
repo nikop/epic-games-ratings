@@ -6,12 +6,12 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,821 |
-| Into the Unknown | 10.00% | ~58,928 |
-| First Shot | 10.00% | ~58,928 |
-| Herzlich Wilkommen! | 9.00% | ~53,035 |
-| Good Night & Good Luck | 9.00% | ~53,035 |
-| Sancho Panza | 8.00% | ~47,142 |
+| You Never Forget Your First... | 11.00% | ~64,822 |
+| Into the Unknown | 10.00% | ~58,929 |
+| First Shot | 10.00% | ~58,929 |
+| Herzlich Wilkommen! | 9.00% | ~53,036 |
+| Good Night & Good Luck | 9.00% | ~53,036 |
+| Sancho Panza | 8.00% | ~47,143 |
 | Under Pressure | 7.00% | ~41,250 |
 | On the Trail of the Enemy | 7.00% | ~41,250 |
 | Flag Burning | 7.00% | ~41,250 |
@@ -34,8 +34,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Death From Afar | 4.00% | ~23,571 |
 | Terminal Headache | 4.00% | ~23,571 |
 | Slowpoke! | 4.00% | ~23,571 |
-| Tickets, Please! | 3.00% | ~17,678 |
-| You're Going Down! | 3.00% | ~17,678 |
+| Tickets, Please! | 3.00% | ~17,679 |
+| You're Going Down! | 3.00% | ~17,679 |
 | Municipal Services | 2.00% | ~11,786 |
 | Ban Hammer | 2.00% | ~11,786 |
 | Parkour Master | 2.00% | ~11,786 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~235 |
 | Connoisseur | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,279 (Ranked 26)  
+Progressed: 589,287 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 58 (0.01%) (Ranked 221)
 | 2023-07-04 | 587,839 | 58 |
 | 2023-07-05 | 588,509 | 58 |
 | 2023-07-06 | 589,175 | 58 |
-| 2023-07-07 | 589,279 | 58 |
+| 2023-07-07 | 589,287 | 58 |
 ## Awards
 Max (Character Customization): 8,243  (Ranked 40)  
 Sum: 19,374 (Ranked 55)  

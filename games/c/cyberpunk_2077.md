@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 68.00% | ~587,603 |
-| Right Back At Ya | 38.00% | ~328,366 |
-| The Lovers | 34.00% | ~293,801 |
-| Stanislavski's Method | 28.00% | ~241,954 |
+| The Fool | 68.00% | ~587,604 |
+| Right Back At Ya | 38.00% | ~328,367 |
+| The Lovers | 34.00% | ~293,802 |
+| Stanislavski's Method | 28.00% | ~241,955 |
 | The Wheel of Fortune | 26.00% | ~224,672 |
-| The Hermit | 24.00% | ~207,389 |
+| The Hermit | 24.00% | ~207,390 |
 | Christmas Tree Attack | 22.00% | ~190,107 |
 | True Soldier | 22.00% | ~190,107 |
 | The High Priestess | 21.00% | ~181,466 |
 | Legend of The Afterlife | 21.00% | ~181,466 |
-| Life of the Road | 20.00% | ~172,824 |
+| Life of the Road | 20.00% | ~172,825 |
 | Full Body Conversion | 17.00% | ~146,901 |
 | The World | 17.00% | ~146,901 |
 | Bushido and Chill | 16.00% | ~138,260 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 13.00% | ~112,336 |
 | I Am The Law | 13.00% | ~112,336 |
 | Judy vs Night City | 13.00% | ~112,336 |
-| Two Heads, One Bullet | 11.00% | ~95,053 |
+| Two Heads, One Bullet | 11.00% | ~95,054 |
 | The Wandering Fool | 9.00% | ~77,771 |
 | The Quick and the Dead | 9.00% | ~77,771 |
 | Ten out of Ten | 8.00% | ~69,130 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,641 |
 | Rough Landing | 0.50% | ~4,321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864,122 (Ranked 14)  
+Progressed: 864,124 (Ranked 14)  
 Completed: 1,837 (0.21%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,17 +129,17 @@ Completed: 1,837 (0.21%) (Ranked 159)
 | 2023-07-04 | 863,691 | 1,831 |
 | 2023-07-05 | 863,879 | 1,833 |
 | 2023-07-06 | 864,090 | 1,837 |
-| 2023-07-07 | 864,122 | 1,837 |
+| 2023-07-07 | 864,124 | 1,837 |
 ## Awards
 Max (Character Customization): 72,350  (Ranked 9)  
-Sum: 189,462 (Ranked 13)  
+Sum: 189,473 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72,350 |
 | This game has Great Boss Battles | 46,479 |
 | This game has Diverse Characters | 8,334 |
-| This game has Amazing Storytelling | 8,303 |
+| This game has Amazing Storytelling | 8,314 |
 | This game is Great for Beginners | 8,300 |
 | This game is Extremely Fun | 8,178 |
 | This game is Highly Recommended | 8,157 |
@@ -319,4 +319,4 @@ Diff (max vs sum): -4
 | 2023-07-04 | 4.62 | - | 72,141 | 188,809 |
 | 2023-07-05 | 4.62 | - | 72,250 | 189,041 |
 | 2023-07-06 | 4.62 | - | 72,350 | 189,395 |
-| 2023-07-07 | 4.62 | - | 72,350 | 189,462 |
+| 2023-07-07 | 4.62 | - | 72,350 | 189,473 |

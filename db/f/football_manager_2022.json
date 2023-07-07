@@ -5663,9 +5663,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 466176,
+  "EOS_Progressed": 466177,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13628,6 +13628,11 @@
       "Time": "2023-07-07T03:24:13.2658149+00:00",
       "NumProgressed": 466176,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-07-07T04:02:26.3392261+00:00",
+      "NumProgressed": 466177,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 98,
@@ -13783,7 +13788,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69926
+      "UsersEstimate": 69927
     },
     {
       "ID": "achievement_big_win",
@@ -13823,7 +13828,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 228426
+      "UsersEstimate": 228427
     },
     {
       "ID": "achievement_club_world_cup",
@@ -13871,7 +13876,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191132
+      "UsersEstimate": 191133
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -13935,7 +13940,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88573
+      "UsersEstimate": 88574
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -13959,7 +13964,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 191132
+      "UsersEstimate": 191133
     },
     {
       "ID": "achievement_head_to_head",
@@ -14007,7 +14012,7 @@
       "Name": "Iron Curtain",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 107220
+      "UsersEstimate": 107221
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -14055,7 +14060,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69926
+      "UsersEstimate": 69927
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -14071,7 +14076,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 149176
+      "UsersEstimate": 149177
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -14079,7 +14084,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88573
+      "UsersEstimate": 88574
     },
     {
       "ID": "achievement_pick_feeder",
@@ -14143,7 +14148,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 149176
+      "UsersEstimate": 149177
     },
     {
       "ID": "achievement_rushed_signing",
@@ -14151,7 +14156,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69926
+      "UsersEstimate": 69927
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -14255,7 +14260,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 69926
+      "UsersEstimate": 69927
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -14422,15 +14427,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 466176,
+      "Progressed": 466177,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-07-07T03:21:16.7673812+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:24:13.2658145+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:02:26.3392254+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:37.8948066+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:21:16.7673817+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:24:13.2659387+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:00:47.4719726+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:02:26.3394085+00:00"
 }

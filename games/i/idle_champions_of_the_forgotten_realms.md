@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,140 |
-| The Mad Wizard | 11.00% | ~22,836 |
-| The Ring of Regeneration | 7.00% | ~14,532 |
-| Are Ya Chicken? | 7.00% | ~14,532 |
-| Were-verpowered | 5.00% | ~10,380 |
-| Seeking Allies | 5.00% | ~10,380 |
-| Mad Cow Disease | 5.00% | ~10,380 |
-| Friendly Imps | 5.00% | ~10,380 |
-| A Persistent Buzzing | 4.00% | ~8,304 |
-| Pure Energy | 4.00% | ~8,304 |
-| Terror in the Dark | 3.00% | ~6,228 |
-| Unearthed Evil | 3.00% | ~6,228 |
-| The Crumbling Temple | 3.00% | ~6,228 |
-| Exploring Port Nyanzaru | 3.00% | ~6,228 |
-| The Contagious Curse | 3.00% | ~6,228 |
+| The Cursed Farmer | 15.00% | ~31,143 |
+| The Mad Wizard | 11.00% | ~22,839 |
+| The Ring of Regeneration | 7.00% | ~14,534 |
+| Are Ya Chicken? | 7.00% | ~14,534 |
+| Were-verpowered | 5.00% | ~10,381 |
+| Seeking Allies | 5.00% | ~10,381 |
+| Mad Cow Disease | 5.00% | ~10,381 |
+| Friendly Imps | 5.00% | ~10,381 |
+| A Persistent Buzzing | 4.00% | ~8,305 |
+| Pure Energy | 4.00% | ~8,305 |
+| Terror in the Dark | 3.00% | ~6,229 |
+| Unearthed Evil | 3.00% | ~6,229 |
+| The Crumbling Temple | 3.00% | ~6,229 |
+| Exploring Port Nyanzaru | 3.00% | ~6,229 |
+| The Contagious Curse | 3.00% | ~6,229 |
 | Beast Mode | 2.00% | ~4,152 |
 | Low Initiative | 2.00% | ~4,152 |
 | A Mysterious Summons | 2.00% | ~4,152 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 2.00% | ~4,152 |
 | Waterdeep Detours | 2.00% | ~4,152 |
 | Underdeep Cartography | 2.00% | ~4,152 |
+| The Templar's Camp | 2.00% | ~4,152 |
 | Street War | 1.00% | ~2,076 |
 | March of the Undead | 1.00% | ~2,076 |
 | Invisible Shadows | 1.00% | ~2,076 |
@@ -43,12 +44,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 1.00% | ~2,076 |
 | Constant Banditry | 1.00% | ~2,076 |
 | Overdue Rendezvous | 1.00% | ~2,076 |
-| The Templar's Camp | 1.00% | ~2,076 |
 | Rescue in the Jungle | 1.00% | ~2,076 |
-| Homecoming | 0.90% | ~1,868 |
-| Trollskull Manor | 0.90% | ~1,868 |
-| Dinosaur Racing | 0.90% | ~1,868 |
-| Lost in the Deep | 0.90% | ~1,868 |
+| Homecoming | 0.90% | ~1,869 |
+| Trollskull Manor | 0.90% | ~1,869 |
+| Dinosaur Racing | 0.90% | ~1,869 |
+| Lost in the Deep | 0.90% | ~1,869 |
 | The Lost Heir of Omu | 0.80% | ~1,661 |
 | The Forbidden City | 0.80% | ~1,661 |
 | Wisdom Check | 0.80% | ~1,661 |
@@ -222,6 +222,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.20% | ~415 |
 | An Illithid Ambush | 0.20% | ~348 |
 | A Difficult Descent | 0.20% | ~348 |
+| The Devil Arrives | 0.20% | ~348 |
 | Dream Gauntlet | 0.20% | ~348 |
 | Zombie Dreams | 0.20% | ~348 |
 | The Path of Redcaps | 0.20% | ~348 |
@@ -325,7 +326,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~174 |
 | Ireena von Zarovich | 0.10% | ~174 |
 | Déjà Vu All Over Again | 0.10% | ~174 |
-| The Devil Arrives | 0.10% | ~174 |
 | Hearts Aflame | 0.10% | ~174 |
 | Look Out! | 0.10% | ~174 |
 | Bad Odds in Avernus | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,603 (Ranked 52)  
+Progressed: 207,623 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,603 | 2,035 |
+| 2023-07-07 | 207,623 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,009  (Ranked 65)  
 Sum: 30,419 (Ranked 37)  

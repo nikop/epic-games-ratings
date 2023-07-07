@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3155,
+  "EOS_Progressed": 3156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1873,6 +1873,11 @@
       "Time": "2023-07-07T02:28:55.4726266+00:00",
       "NumProgressed": 3155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T04:04:53.2209642+00:00",
+      "NumProgressed": 3156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2010,9 +2015,9 @@
       "ID": "ACH_M_D",
       "SetID": "b3fep3o",
       "Name": "To Suffer is to Learn",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_M_D1",
@@ -2387,7 +2392,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3155,
+      "Progressed": 3156,
       "Completed": 0
     }
   ],
@@ -2395,8 +2400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:25:56.5848528+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:04:53.2209636+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:20:52.9156885+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:25:56.5849077+00:00"
+  "LastUpdate_Ratings": "2023-07-07T04:00:13.1034334+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:04:53.2210285+00:00"
 }

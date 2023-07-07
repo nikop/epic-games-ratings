@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56940,
+  "EOS_Progressed": 56942,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7177,6 +7177,11 @@
       "Time": "2023-07-07T03:24:39.90529+00:00",
       "NumProgressed": 56940,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T04:03:19.7456028+00:00",
+      "NumProgressed": 56942,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7188,7 +7193,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18790
+      "UsersEstimate": 18791
     },
     {
       "ID": "02",
@@ -7196,7 +7201,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "03",
@@ -7220,7 +7225,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10249
+      "UsersEstimate": 10250
     },
     {
       "ID": "06",
@@ -7244,7 +7249,7 @@
       "Name": "Iron Horse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "09",
@@ -7252,7 +7257,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "10",
@@ -7308,7 +7313,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "17",
@@ -7316,7 +7321,7 @@
       "Name": "Departure",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "18",
@@ -7356,7 +7361,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "23",
@@ -7404,7 +7409,7 @@
       "Name": "Come One, Come All",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "29",
@@ -7436,7 +7441,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 14804
+      "UsersEstimate": 14805
     },
     {
       "ID": "33",
@@ -7596,7 +7601,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "53",
@@ -7723,21 +7728,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56940,
+      "Progressed": 56942,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20408,
+      "Progressed": 20410,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:24:39.9052895+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:03:19.7456024+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:19:03.5345084+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:24:39.9053731+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:57:54.3075275+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:03:19.7457049+00:00"
 }

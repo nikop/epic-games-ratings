@@ -4804,9 +4804,9 @@
       "Count": 3291
     }
   ],
-  "EOS_Progressed": 207603,
+  "EOS_Progressed": 207623,
   "EOS_Completed": 2035,
-  "EOS_NewPlayers": 6809,
+  "EOS_NewPlayers": 6776,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -12999,6 +12999,11 @@
       "Time": "2023-07-07T03:24:47.6111168+00:00",
       "NumProgressed": 207603,
       "NumCompleted": 2035
+    },
+    {
+      "Time": "2023-07-07T04:03:30.1033437+00:00",
+      "NumProgressed": 207623,
+      "NumCompleted": 2035
     }
   ],
   "TotalAchievements": 503,
@@ -13874,7 +13879,7 @@
       "Name": "Were-verpowered",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "objective_completed_1203",
@@ -13946,7 +13951,7 @@
       "Name": "Homecoming",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "objective_completed_125",
@@ -13986,7 +13991,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "objective_completed_130",
@@ -14130,7 +14135,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "objective_completed_150",
@@ -14338,7 +14343,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "objective_completed_20",
@@ -14618,7 +14623,7 @@
       "Name": "Trollskull Manor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "objective_completed_279",
@@ -14682,7 +14687,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 31140
+      "UsersEstimate": 31143
     },
     {
       "ID": "objective_completed_34",
@@ -14690,7 +14695,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14532
+      "UsersEstimate": 14534
     },
     {
       "ID": "objective_completed_35",
@@ -14698,7 +14703,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "objective_completed_36",
@@ -14802,7 +14807,7 @@
       "Name": "Seeking Allies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "objective_completed_390",
@@ -14874,7 +14879,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14532
+      "UsersEstimate": 14534
     },
     {
       "ID": "objective_completed_40",
@@ -15146,7 +15151,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "objective_completed_54",
@@ -15154,7 +15159,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "objective_completed_540",
@@ -15554,7 +15559,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "objective_completed_60",
@@ -15562,7 +15567,7 @@
       "Name": "Dinosaur Racing",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "objective_completed_600",
@@ -15792,9 +15797,9 @@
       "ID": "objective_completed_632",
       "SetID": "415jc5c",
       "Name": "The Devil Arrives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 348
     },
     {
       "ID": "objective_completed_633",
@@ -16154,7 +16159,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 22836
+      "UsersEstimate": 22839
     },
     {
       "ID": "objective_completed_70",
@@ -16194,7 +16199,7 @@
       "Name": "Lost in the Deep",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "objective_completed_76",
@@ -16226,7 +16231,7 @@
       "Name": "Friendly Imps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10380
+      "UsersEstimate": 10381
     },
     {
       "ID": "objective_completed_80",
@@ -16754,7 +16759,7 @@
       "Name": "Pure Energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "objective_completed_902",
@@ -16880,9 +16885,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 4152
     },
     {
       "ID": "objective_completed_95",
@@ -17033,21 +17038,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 173877,
+      "Progressed": 173897,
       "Completed": 2811
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 207603,
+      "Progressed": 207623,
       "Completed": 2035
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-07-06T22:58:55.1439512+00:00",
-  "LastChanged_Achievements": "2023-07-07T03:24:47.6111164+00:00",
+  "LastChanged_Achievements": "2023-07-07T04:03:30.1033431+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:37.1138331+00:00",
-  "LastUpdate_Ratings": "2023-07-07T03:19:26.8464834+00:00",
-  "LastUpdate_Achievements": "2023-07-07T03:24:47.6134109+00:00"
+  "LastUpdate_Ratings": "2023-07-07T03:58:22.3318812+00:00",
+  "LastUpdate_Achievements": "2023-07-07T04:03:30.106189+00:00"
 }
