@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 72.73% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.57% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.70% |
 | 3 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 30.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 25.64% |
 | 5 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -17,7 +17,7 @@
 | 15 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 12.27% |
 | 16 | [Remains](games/r/remains.md) | 12.20% |
 | 17 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
-| 18 | [Sonic Origins](games/s/sonic_origins.md) | 11.02% |
+| 18 | [Sonic Origins](games/s/sonic_origins.md) | 10.98% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 10.71% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.26% |
@@ -28,7 +28,7 @@
 | 26 | [Ravenlok](games/r/ravenlok.md) | 7.34% |
 | 27 | [Time Loader](games/t/time_loader.md) | 7.27% |
 | 28 | [Scorn](games/s/scorn.md) | 7.03% |
-| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.90% |
+| 29 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 6.97% |
 | 30 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.82% |
 | 31 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.41% |
 | 32 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -65,7 +65,7 @@
 | 63 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 64 | [Lamentum](games/l/lamentum.md) | 2.67% |
 | 65 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.63% |
-| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.59% |
+| 66 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.58% |
 | 67 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 68 | [FORECLOSED](games/f/foreclosed.md) | 2.47% |
 | 69 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.43% |
@@ -86,7 +86,7 @@
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.51% |
 | 85 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.50% |
 | 86 | [Night Book](games/n/night_book.md) | 1.46% |
-| 86 | [Poosh XL](games/p/poosh_xl.md) | 1.46% |
+| 87 | [Poosh XL](games/p/poosh_xl.md) | 1.45% |
 | 88 | [A Musical Story](games/a/a_musical_story.md) | 1.43% |
 | 89 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 90 | [Five Dates](games/f/five_dates.md) | 1.30% |
@@ -97,8 +97,8 @@
 | 95 | [Chorus](games/c/chorus.md) | 1.18% |
 | 96 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.15% |
 | 97 | [Trifox](games/t/trifox.md) | 1.11% |
-| 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
-| 99 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
+| 98 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.06% |
+| 98 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 100 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.04% |
 | 101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.98% |
 | 102 | [Sable](games/s/sable.md) | 0.97% |
