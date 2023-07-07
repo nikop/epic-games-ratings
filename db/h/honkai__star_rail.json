@@ -2,9 +2,9 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 167,
-  "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 171,
+  "Ranking_Rating": 157,
+  "Ranking_Popularity": 108,
+  "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 309,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-04-26T04:02:27.1386207+00:00",
@@ -646,24 +646,30 @@
       "Rating": 4.72,
       "NumberOfAwards": 2679,
       "NumberOfAwardsMax": 1867
+    },
+    {
+      "Time": "2023-07-07T13:16:57.9394741+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2799,
+      "NumberOfAwardsMax": 1982
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2679,
-  "NumberOfAwardsMax": 1867,
+  "NumberOfAwards": 2799,
+  "NumberOfAwardsMax": 1982,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1867
+      "Count": 1982
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 96
+      "Count": 101
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -732,8 +738,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-07-07T10:00:06.2393332+00:00",
+  "LastChanged": "2023-07-07T13:16:57.939474+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:00.4141192+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:01:43.8254242+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:05:11.3940633+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:16:57.9394745+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:20:49.7199375+00:00"
 }

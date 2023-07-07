@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3158,
+  "EOS_Progressed": 3162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1883,6 +1883,11 @@
       "Time": "2023-07-07T11:05:42.5210803+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T13:21:11.2497923+00:00",
+      "NumProgressed": 3162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2022,7 +2027,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_M_D1",
@@ -2156,9 +2161,9 @@
       "ID": "ACH_OB_DS",
       "SetID": "b3fep3o",
       "Name": "Labour of Apollo",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_OB_FB",
@@ -2388,16 +2393,16 @@
       "ID": "KZ",
       "SetID": "b3fep3o",
       "Name": "Serpentine",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3158,
+      "Progressed": 3162,
       "Completed": 0
     }
   ],
@@ -2405,8 +2410,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:05:37.0572994+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:21:11.2497916+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:55.868204+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:00:48.5980473+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:05:37.0573741+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:16:09.6781049+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:21:11.2498632+00:00"
 }

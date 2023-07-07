@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 17.00% | ~127 |
+| Time Heals All Wounds | 18.00% | ~134 |
+| The Mysterious Stranger | 15.00% | ~112 |
 | Rail Rat | 15.00% | ~112 |
-| The Mysterious Stranger | 14.00% | ~104 |
-| Cartographer | 14.00% | ~104 |
+| Cartographer | 14.00% | ~105 |
 | The Steel Shadow | 13.00% | ~97 |
 | Treasure Trove | 13.00% | ~97 |
 | The Betrayer | 13.00% | ~97 |
@@ -16,6 +16,7 @@
 | Make Up For Lost Time | 13.00% | ~97 |
 | Time Flies | 13.00% | ~97 |
 | The Harder They Fall | 13.00% | ~97 |
+| No, Thanks! | 13.00% | ~97 |
 | Breaking Down Barriers | 13.00% | ~97 |
 | The Wicked Twins | 13.00% | ~97 |
 | The Prince in Heels | 13.00% | ~97 |
@@ -24,7 +25,6 @@
 | The Brass Boss | 13.00% | ~97 |
 | The Family Fortune | 13.00% | ~97 |
 | Like Clockwork | 12.00% | ~90 |
-| No, Thanks! | 12.00% | ~90 |
 | Honest Mistake | 12.00% | ~90 |
 | Golem Chaser | 12.00% | ~90 |
 | Fast Learner | 12.00% | ~90 |
@@ -32,7 +32,7 @@
 | Street Style | 11.00% | ~82 |
 | Right On Time | 10.00% | ~75 |
 | Whiz Kid | 10.00% | ~75 |
-| Chaincrawler Explorer | 8.00% | ~60 |
+| Chaincrawler Explorer | 9.00% | ~67 |
 | Family Memories | 8.00% | ~60 |
 | Theater Explorer | 8.00% | ~60 |
 | Good Neighbor | 8.00% | ~60 |
@@ -54,11 +54,11 @@
 | Thinking Two Steps Ahead | 1.00% | ~7 |
 | No Time to Waste | 1.00% | ~7 |
 | Wildlife Protection | 0.70% | ~5 |
-| A Lesson in Precision | 0.50% | ~4 |
+| A Lesson in Precision | 0.70% | ~5 |
+| Raw Talent | 0.50% | ~4 |
 | Going to Live Forever | 0.40% | ~3 |
-| Raw Talent | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746 (Ranked 197)  
+Progressed: 747 (Ranked 197)  
 Completed: 4 (0.54%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,3 +107,4 @@ Completed: 4 (0.54%) (Ranked 124)
 | 2023-07-04 | 742 | 4 |
 | 2023-07-05 | 743 | 4 |
 | 2023-07-06 | 746 | 4 |
+| 2023-07-07 | 747 | 4 |

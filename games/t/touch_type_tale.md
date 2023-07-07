@@ -23,9 +23,9 @@
 | Leave Them no Cake | 7.00% | ~213 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~213 |
 | Your Biggest Fans | 6.00% | ~183 |
+| For the Queen | 6.00% | ~183 |
 | A Secret Recipe | 6.00% | ~183 |
 | An Ally in Need | 5.00% | ~152 |
-| For the Queen | 5.00% | ~152 |
 | Not a Drop Wasted | 5.00% | ~152 |
 | We Have the Technology | 5.00% | ~152 |
 | Work It | 4.00% | ~122 |

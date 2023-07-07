@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -380,7 +380,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
@@ -4760,6 +4760,11 @@
       "Time": "2023-07-07T09:02:20.8270239+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-07-07T13:18:19.1950123+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 71,
@@ -5001,9 +5006,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -5338,13 +5343,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3175,
+      "Progressed": 3176,
       "Completed": 13
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 9
     }
   ],
@@ -5352,8 +5357,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:02:30.0330271+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:18:19.1950117+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:01:45.1403158+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:02:30.0331161+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:16:59.24868+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:18:19.195108+00:00"
 }

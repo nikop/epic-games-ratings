@@ -208,9 +208,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 225668,
+  "EOS_Progressed": 225671,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8268,6 +8268,11 @@
       "Time": "2023-07-07T12:04:19.2435694+00:00",
       "NumProgressed": 225668,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-07-07T13:20:05.389487+00:00",
+      "NumProgressed": 225671,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -8343,7 +8348,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81240
+      "UsersEstimate": 81242
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -8423,7 +8428,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76727
+      "UsersEstimate": 76728
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -8439,7 +8444,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 49647
+      "UsersEstimate": 49648
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -8502,7 +8507,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 225668,
+      "Progressed": 225671,
       "Completed": 3
     }
   ],
@@ -8510,8 +8515,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-07-04T22:59:46.8695793+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:04:19.243569+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:20:05.3894863+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:03.3590644+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:00:52.3630757+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:04:19.2436419+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:16:12.8771653+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:20:05.3895805+00:00"
 }

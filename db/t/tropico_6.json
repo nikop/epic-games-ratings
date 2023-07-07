@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -990,9 +990,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 3982,
+  "EOS_Progressed": 3983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5675,6 +5675,11 @@
       "Time": "2023-07-07T06:05:02.8451557+00:00",
       "NumProgressed": 3982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-07-07T13:20:52.4496146+00:00",
+      "NumProgressed": 3983,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -5846,7 +5851,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -5870,7 +5875,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -5942,7 +5947,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -5958,7 +5963,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -6005,15 +6010,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3982,
+      "Progressed": 3983,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-07-07T09:00:33.0822646+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:05:14.6776886+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:20:52.449614+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:35.9732187+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:01:20.3726558+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:05:14.6777499+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:16:39.0184284+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:20:52.4496764+00:00"
 }

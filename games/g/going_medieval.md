@@ -13,7 +13,7 @@ Number of Ratings: 706  (23.09.2022)
 | Green Thumb | 65.00% | ~2,870 |
 | Novice Researcher | 63.00% | ~2,781 |
 | Putting Food on the Table | 59.00% | ~2,605 |
-| Onward | 54.00% | ~2,384 |
+| Onward | 55.00% | ~2,428 |
 | Home Cooked Meal | 53.00% | ~2,340 |
 | The First Week | 52.00% | ~2,296 |
 | Studious Researcher | 50.00% | ~2,208 |
@@ -24,7 +24,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 39.00% | ~1,722 |
 | Fit For A King | 38.00% | ~1,678 |
 | Luminary Researcher | 34.00% | ~1,501 |
-| Heating Up | 27.00% | ~1,192 |
+| Heating Up | 28.00% | ~1,236 |
 | Winter Is Coming | 24.00% | ~1,060 |
 | Winter Is Here | 21.00% | ~927 |
 | Disassembled | 18.00% | ~795 |

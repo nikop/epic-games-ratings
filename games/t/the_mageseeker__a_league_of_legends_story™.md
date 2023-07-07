@@ -37,10 +37,10 @@ Rating: 4.80 (Ranked 81)
 | Quickmoore Headquarters | 16.00% | ~387 |
 | Whispers in the Woods III | 15.00% | ~363 |
 | True power | 15.00% | ~363 |
+| Meltridge | 15.00% | ~363 |
 | Terbisia | 15.00% | ~363 |
 | My heart and sword always for Demacia | 14.00% | ~339 |
 | Friendly fire | 14.00% | ~339 |
-| Meltridge | 14.00% | ~339 |
 | The Central Headquarters | 14.00% | ~339 |
 | Cloven Dell Headquarters | 14.00% | ~339 |
 | Embrace the darkness | 12.00% | ~290 |

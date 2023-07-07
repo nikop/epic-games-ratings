@@ -8,7 +8,7 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 11.00% | ~82 |
 | Full garage | 10.00% | ~75 |
-| Individual delivery | 8.00% | ~60 |
+| Individual delivery | 9.00% | ~67 |
 | Juggler | 8.00% | ~60 |
 | To the eyeballs! | 8.00% | ~60 |
 | Forgot something | 7.00% | ~52 |
@@ -25,12 +25,12 @@ Number of Ratings: 87  (23.09.2022)
 | Bridgemania | 4.00% | ~30 |
 | Miner | 4.00% | ~4 |
 | Multilevel road | 4.00% | ~30 |
+| One way | 4.00% | ~30 |
 | Pink Ruby | 4.00% | ~4 |
 | Steam Age | 4.00% | ~30 |
 | The Tortoise | 4.00% | ~30 |
 | Trapiche Emerald | 4.00% | ~4 |
 | Jewelry accuracy | 3.00% | ~22 |
-| One way | 3.00% | ~22 |
 | Overseer | 3.00% | ~22 |
 | Star Sapphire | 3.00% | ~3 |
 | Without a lunch break | 3.00% | ~22 |

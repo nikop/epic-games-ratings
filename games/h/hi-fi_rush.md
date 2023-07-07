@@ -6,33 +6,35 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | NOW we got a kickass hideout! | 0.60% | ~12 |
+| Who's the boss now? | 0.40% | ~14 |
+| Who put gears in there? | 0.40% | ~14 |
 | Call me Turbo Chai | 0.40% | ~8 |
+| Cream of the Crop | 0.30% | ~10 |
 | The Negotiator | 0.30% | ~10 |
 | Headliner | 0.30% | ~10 |
 | Time to pay up! | 0.30% | ~10 |
-| Who's the boss now? | 0.30% | ~10 |
+| Thanks for the free chip, Peppermint! | 0.30% | ~10 |
 | I play my own way! | 0.30% | ~10 |
 | You got this, Peppermint? | 0.30% | ~10 |
 | Uh, they were broken when I got here | 0.30% | ~10 |
-| Who put gears in there? | 0.30% | ~10 |
-| Cream of the Crop | 0.20% | ~7 |
 | This will cost you big time | 0.20% | ~7 |
-| Thanks for the free chip, Peppermint! | 0.20% | ~7 |
+| Well that was a rush! | 0.20% | ~7 |
 | Whoa! There's ANOTHER health bar!? | 0.20% | ~7 |
 | I have to read these things? | 0.20% | ~7 |
 | Feeling the beat! | 0.20% | ~7 |
 | Z-shielding's got nothing on us! | 0.20% | ~7 |
 | Out in a puff of smoke | 0.20% | ~7 |
 | Perfect Parry | 0.20% | ~7 |
+| Perfecter Parry-er! | 0.20% | ~7 |
 | That's a lot of junk metal… | 0.20% | ~7 |
 | Kissing the sky! | 0.20% | ~7 |
 | I look cool. But I can look COOLER. | 0.20% | ~7 |
 | Alright, that felt AWESOME! | 0.20% | ~7 |
+| You can pet the cat! | 0.20% | ~7 |
 | Does that say weakpoint? | 0.20% | ~7 |
 | New bad guys? No problem! | 0.20% | ~4 |
 | Start with a bang! | 0.10% | ~3 |
 | Easy Listening | 0.10% | ~3 |
-| Well that was a rush! | 0.10% | ~3 |
 | I think I deserve some praise, here! | 0.10% | ~3 |
 | Problem solved... wait, what? | 0.10% | ~3 |
 | Chip-tuned | 0.10% | ~3 |
@@ -40,13 +42,11 @@ Rating: 4.87 (Ranked 25)
 | You must like calling me in, Chai | 0.10% | ~3 |
 | I think I found your calling, Macaron | 0.10% | ~3 |
 | This is a breeze! | 0.10% | ~3 |
-| Perfecter Parry-er! | 0.10% | ~3 |
 | We're Jammin' | 0.10% | ~3 |
 | Now this is how you fight like a team! | 0.10% | ~3 |
 | This was... not what I expected. | 0.10% | ~3 |
 | There's such a thing as TOO helpful | 0.10% | ~3 |
 | I hit things with a guitar really well. | 0.10% | ~3 |
-| You can pet the cat! | 0.10% | ~3 |
 | Wanna hear my playlist? | 0.10% | ~3 |
 | I told you I'd be fine, Peppermint! | 0.10% | ~3 |
 | I saw all those hits coming a measure away! | 0.10% | ~3 |

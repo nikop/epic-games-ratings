@@ -19,7 +19,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -1569,6 +1569,11 @@
       "Time": "2023-07-06T04:08:24.6908431+00:00",
       "NumProgressed": 746,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-07-07T13:22:52.3009722+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -1594,9 +1599,9 @@
       "ID": "ChaincrawlerChests1",
       "SetID": "a9e499d",
       "Name": "Chaincrawler Explorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "ChestCompletion1",
@@ -1698,9 +1703,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 112
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -1780,7 +1785,7 @@
       "Name": "Cartographer",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "NoCritterSump",
@@ -1802,17 +1807,17 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NoRewindCamille",
       "SetID": "a9e499d",
       "Name": "A Lesson in Precision",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ParallelConvergenceMultiHit1",
@@ -1834,9 +1839,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "PhaseDiveCounter",
@@ -1866,9 +1871,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 134
     },
     {
       "ID": "RewindParry",
@@ -2003,14 +2008,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:07:34.5837526+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:22:52.3009717+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:28.3409193+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:00:19.9248841+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:07:34.5838113+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:15:46.6967676+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:22:52.3010306+00:00"
 }

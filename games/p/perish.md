@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~189 |
+| To Suffer is to Learn | 6.00% | ~190 |
 | Persephone's Guidance | 5.00% | ~158 |
 | Lochos | 5.00% | ~158 |
 | Strength of Herakles | 5.00% | ~158 |
@@ -25,21 +25,21 @@
 | Symbols of Heresy | 3.00% | ~95 |
 | First Fragment | 3.00% | ~95 |
 | Sisters of the Pantheon | 3.00% | ~95 |
-| Labour of Apollo | 3.00% | ~95 |
 | Siege Unit | 3.00% | ~95 |
 | Divine Assemblage | 3.00% | ~95 |
 | Ophiolatreia | 3.00% | ~95 |
-| Serpentine | 3.00% | ~95 |
 | Wayward Son of Hephaestus | 2.00% | ~63 |
 | Forged in Fire | 2.00% | ~63 |
 | Rock and a Hard Place | 2.00% | ~63 |
 | Hapax Legomenon | 2.00% | ~63 |
+| Labour of Apollo | 2.00% | ~63 |
 | Vandili | 2.00% | ~63 |
 | Cloaca Maxima | 2.00% | ~63 |
 | Baby Crabs They Ain't | 2.00% | ~63 |
 | Halls of Marble | 2.00% | ~63 |
 | Mors Omnibus | 2.00% | ~63 |
 | Blot Out the Sky | 2.00% | ~63 |
+| Serpentine | 2.00% | ~63 |
 | The Nameless One | 1.00% | ~32 |
 | Lament of the Constellations | 1.00% | ~32 |
 | Rule of Thirds | 1.00% | ~32 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,158 (Ranked 147)  
+Progressed: 3,162 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 3,140 | 0 |
 | 2023-07-05 | 3,141 | 0 |
 | 2023-07-06 | 3,153 | 0 |
-| 2023-07-07 | 3,158 | 0 |
+| 2023-07-07 | 3,162 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

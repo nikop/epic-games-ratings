@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3461,
+  "EOS_Progressed": 3462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -683,6 +683,11 @@
       "Time": "2023-07-06T14:01:22.6062387+00:00",
       "NumProgressed": 3461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T13:17:19.563116+00:00",
+      "NumProgressed": 3462,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -732,9 +737,9 @@
       "ID": "FIND_FIRST_VAULTLANDER",
       "SetID": "kakdpn",
       "Name": "Each Sold Separately",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1281
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -798,7 +803,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -838,7 +843,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -894,14 +899,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3461,
+      "Progressed": 3462,
       "Completed": 0
     }
   ],
@@ -909,8 +914,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-07-07T12:02:07.1996986+00:00",
+  "LastChanged_Achievements": "2023-07-07T13:17:19.5631154+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:31.1580907+00:00",
-  "LastUpdate_Ratings": "2023-07-07T12:00:22.6138836+00:00",
-  "LastUpdate_Achievements": "2023-07-07T12:02:07.1997232+00:00"
+  "LastUpdate_Ratings": "2023-07-07T13:15:49.0761639+00:00",
+  "LastUpdate_Achievements": "2023-07-07T13:17:19.563352+00:00"
 }

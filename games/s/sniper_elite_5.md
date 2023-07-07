@@ -16,13 +16,13 @@ Rating: 4.45 (Ranked 621)
 | Confirming Suspicions | 1.00% | ~32 |
 | Lord of War | 1.00% | ~32 |
 | Resourceful | 1.00% | ~32 |
+| Der Geist | 1.00% | ~32 |
 | As Quiet as a Mouse | 1.00% | ~32 |
 | The Kraken Wakes | 1.00% | ~32 |
 | It's Starting to Crack | 1.00% | ~32 |
 | Change the Channel | 1.00% | ~32 |
 | The Kraken Sleeps | 1.00% | ~32 |
 | Organ Grinder | 0.90% | ~29 |
-| Der Geist | 0.90% | ~29 |
 | Opposing Force | 0.80% | ~26 |
 | Set Europe Ablaze | 0.80% | ~26 |
 | Precision Is Key | 0.80% | ~26 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 621)
 | Stroll in the Woods | 0.10% | ~3 |
 | Going Overboard | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,224 (Ranked 146)  
+Progressed: 3,225 (Ranked 146)  
 Completed: 9 (0.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 9 (0.28%) (Ranked 148)
 | 2023-07-04 | 3,206 | 7 |
 | 2023-07-05 | 3,214 | 9 |
 | 2023-07-06 | 3,221 | 9 |
-| 2023-07-07 | 3,224 | 9 |
+| 2023-07-07 | 3,225 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
