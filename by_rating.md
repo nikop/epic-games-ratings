@@ -19,7 +19,7 @@
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 16,751 | 20 |
 | 18 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 135 | 299 |
 | 18 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 267 | 242 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,128 | 75 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.88 | 4,128 | 76 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 156,897 | 6 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 10,481 | 35 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 484 |
@@ -75,7 +75,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 4.82 | 6,243 | 52 |
 | 65 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 395 | 210 |
 | 75 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 418 | 202 |
-| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,437 | 122 |
+| 75 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,440 | 122 |
 | 75 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 217 | 257 |
 | 75 | [Star Atlas](games/s/star_atlas.md) | 4.81 | 22 | 484 |
 | 75 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 462 |
@@ -242,7 +242,7 @@
 | 238 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 504 |
 | 238 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 373 |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 504 |
-| 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,245 | 47 |
+| 238 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,248 | 47 |
 | 238 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,864 | 79 |
 | 238 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 2,185 | 103 |
 | 238 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.68 | 0 | 504 |
@@ -263,7 +263,7 @@
 | 260 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 660 | 167 |
 | 260 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 504 |
 | 260 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 585 | 177 |
-| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,233 | 102 |
+| 260 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,234 | 102 |
 | 260 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 50 | 398 |
 | 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 504 |
 | 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 504 |
@@ -358,7 +358,7 @@
 | 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 325 |
 | 344 | [Prey](games/p/prey.md) | 4.62 | 5,597 | 59 |
 | 344 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 504 |
-| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 460 | 196 |
+| 344 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 466 | 196 |
 | 344 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.62 | 64 | 379 |
 | 344 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.62 | 0 | 504 |
 | 362 | [20XX](games/2/20xx.md) | 4.61 | 36 | 431 |
@@ -476,7 +476,7 @@
 | 458 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.56 | 70 | 372 |
 | 458 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 504 |
 | 458 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 78 | 356 |
-| 458 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,125 | 76 |
+| 458 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,131 | 75 |
 | 478 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 504 |
 | 478 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 504 |
 | 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 504 |

@@ -46,7 +46,7 @@
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,538 | 4.57 | 440 |
 | 45 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,486 | 4.48 | 586 |
 | 46 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,298 | 4.71 | 181 |
-| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,245 | 4.68 | 238 |
+| 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,248 | 4.68 | 238 |
 | 48 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,762 | 4.74 | 144 |
 | 49 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 664 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,617 | 4.71 | 181 |
@@ -74,8 +74,8 @@
 | 72 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,406 | 4.70 | 196 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,330 | 4.61 | 362 |
 | 74 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,263 | 4.76 | 120 |
-| 75 | [God of War](games/g/god_of_war.md) | 4,128 | 4.88 | 18 |
-| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,125 | 4.56 | 458 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,131 | 4.56 | 458 |
+| 76 | [God of War](games/g/god_of_war.md) | 4,128 | 4.88 | 18 |
 | 77 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,101 | 4.51 | 539 |
 | 78 | [SMITE](games/s/smite.md) | 3,978 | 4.45 | 621 |
 | 79 | [Days Gone](games/d/days_gone.md) | 3,864 | 4.68 | 238 |
@@ -101,7 +101,7 @@
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,425 | 4.80 | 81 |
 | 100 | [Gotham Knights](games/g/gotham_knights.md) | 2,421 | 4.18 | 853 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,343 | 4.78 | 100 |
-| 102 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,233 | 4.67 | 260 |
+| 102 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,234 | 4.67 | 260 |
 | 103 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2,185 | 4.68 | 238 |
 | 104 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,184 | 4.41 | 674 |
 | 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,166 | 4.63 | 330 |
@@ -121,7 +121,7 @@
 | 119 | [Celeste](games/c/celeste.md) | 1,513 | 4.92 | 4 |
 | 120 | [Ring of Pain](games/r/ring_of_pain.md) | 1,483 | 4.58 | 423 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,466 | 4.79 | 88 |
-| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,437 | 4.81 | 75 |
+| 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,440 | 4.81 | 75 |
 | 123 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,407 | 4.87 | 25 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,370 | 4.62 | 344 |
 | 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,315 | 4.52 | 520 |
@@ -195,7 +195,7 @@
 | 193 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 489 | 4.24 | 813 |
 | 194 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 480 | 4.86 | 28 |
 | 195 | [Ghostrunner](games/g/ghostrunner.md) | 470 | 4.72 | 168 |
-| 196 | [The Sims™ 4](games/t/the_sims™_4.md) | 460 | 4.62 | 344 |
+| 196 | [The Sims™ 4](games/t/the_sims™_4.md) | 466 | 4.62 | 344 |
 | 197 | [Surviving Mars](games/s/surviving_mars.md) | 459 | 4.60 | 390 |
 | 197 | [Unreal Tournament](games/u/unreal_tournament.md) | 459 | 4.66 | 271 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 453 | 4.61 | 362 |

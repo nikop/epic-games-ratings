@@ -114,7 +114,7 @@
 | 112 | [Them and Us](games/t/them_and_us.md) | 0.68% |
 | 113 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.67% |
 | 113 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.67% |
-| 115 | [Train Valley](games/t/train_valley.md) | 0.66% |
+| 115 | [Train Valley](games/t/train_valley.md) | 0.65% |
 | 116 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 116 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.63% |
 | 118 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.61% |
