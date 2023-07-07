@@ -13,7 +13,7 @@
 | HERE ARE SOME BARE NECESSITIES | 30.00% | ~873 |
 | AGGRESSIVE RACER | 30.00% | ~873 |
 | ACE SPEEDSTER | 22.00% | ~640 |
-| IT'S A LONG WAY TO THE TOP | 18.00% | ~524 |
+| IT'S A LONG WAY TO THE TOP | 19.00% | ~553 |
 | MASTER | 14.00% | ~407 |
 | ACE BRAWLER | 13.00% | ~378 |
 | DEFEAT OUR CHAMPION | 13.00% | ~378 |
@@ -30,7 +30,7 @@
 | FRAMED! | 4.00% | ~116 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,910 (Ranked 151)  
-Completed: 91 (3.13%) (Ranked 53)  
+Completed: 92 (3.16%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,4 +106,4 @@ Completed: 91 (3.13%) (Ranked 53)
 | 2023-07-04 | 2,881 | 84 |
 | 2023-07-05 | 2,891 | 86 |
 | 2023-07-06 | 2,905 | 89 |
-| 2023-07-07 | 2,910 | 91 |
+| 2023-07-07 | 2,910 | 92 |

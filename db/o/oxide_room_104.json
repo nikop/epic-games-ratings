@@ -585,17 +585,17 @@
       "ID": "ACH_COMMONAREA",
       "SetID": "511e31d",
       "Name": "On the right path",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_DOCDOCUMENTS",
       "SetID": "511e31d",
       "Name": "The experiment",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -617,9 +617,9 @@
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -649,9 +649,9 @@
       "ID": "ACH_GOODENDING",
       "SetID": "511e31d",
       "Name": "Born again",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HOHARMFORCE104",
@@ -665,9 +665,9 @@
       "ID": "ACH_KITCHEN",
       "SetID": "511e31d",
       "Name": "Nightmare in the kitchen",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -705,9 +705,9 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -729,9 +729,9 @@
       "ID": "ACH_REVENGE",
       "SetID": "511e31d",
       "Name": "Matthew\u0027s revenge",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ROOM104",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:07:26.3484378+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:07:35.1848023+00:00",
   "LastUpdate_AppInfo": "2023-06-30T23:57:15.2832968+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:57:49.283281+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:07:26.3484553+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:57:39.804652+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:07:35.1848295+00:00"
 }

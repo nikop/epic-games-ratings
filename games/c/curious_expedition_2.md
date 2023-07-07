@@ -51,7 +51,7 @@ Number of Ratings: 20  (23.09.2022)
 | The Workshop | 6.00% | ~19 |
 | Islander Understanding | 5.00% | ~16 |
 | A Paris Sunset | 5.00% | ~16 |
-| The Director Perseveres | 4.00% | ~13 |
+| The Director Perseveres | 5.00% | ~16 |
 | A Familiar Figure | 4.00% | ~13 |
 | X Marks the Spot | 4.00% | ~13 |
 | The Round Table | 4.00% | ~13 |

@@ -4921,17 +4921,17 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -4969,9 +4969,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -5352,8 +5352,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-07-05T19:03:38.4770688+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:03:11.0123778+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:02:30.0330271+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:03.6733789+00:00",
-  "LastUpdate_Ratings": "2023-07-07T11:01:22.5176422+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:03:11.0124529+00:00"
+  "LastUpdate_Ratings": "2023-07-07T12:01:45.1403158+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:02:30.0331161+00:00"
 }

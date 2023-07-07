@@ -114,7 +114,7 @@
   "Tags": [],
   "EOS_Progressed": 3415,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -4266,9 +4266,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach022",
@@ -4282,9 +4282,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach024",
@@ -4370,9 +4370,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach035",
@@ -4522,9 +4522,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach054",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-07-05T22:00:09.3939875+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:03:10.6948728+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:02:29.7062+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:16.9967031+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:59:14.927504+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:03:10.6949466+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:59:18.2211288+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:02:29.7062984+00:00"
 }

@@ -6238,10 +6238,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 10433,
       "NumberOfAwardsMax": 1180
+    },
+    {
+      "Time": "2023-07-07T11:59:42.5248608+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 10438,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10433,
+  "NumberOfAwards": 10438,
   "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -6273,7 +6279,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 991
+      "Count": 996
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6317,8 +6323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-07-07T02:23:08.8707184+00:00",
+  "LastChanged": "2023-07-07T11:59:42.5248607+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:40.1840345+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:59:34.7895529+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:05:00.6779629+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:59:42.5248616+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:04:48.8672967+00:00"
 }

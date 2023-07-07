@@ -5,29 +5,29 @@ Rating: 4.46 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,125 |
-| Snatched Out | 73.00% | ~1,939 |
+| This Is Hayes, Pioneer Station, Signing Off | 80.00% | ~2,126 |
+| Snatched Out | 73.00% | ~1,940 |
 | Keep 'Em Coming | 71.00% | ~1,886 |
 | Cleaning Lethe, One Nest At A Time | 62.00% | ~1,647 |
 | Call Me Snake | 57.00% | ~1,514 |
-| Something Lurks Under The Hills | 56.00% | ~1,487 |
-| This Was No Papercut | 54.00% | ~1,434 |
+| Something Lurks Under The Hills | 56.00% | ~1,488 |
+| This Was No Papercut | 54.00% | ~1,435 |
 | The Shrink Hates Me | 50.00% | ~1,328 |
 | People Person | 48.00% | ~1,275 |
-| Use The Bumper, That's What It's For | 47.00% | ~1,248 |
+| Use The Bumper, That's What It's For | 47.00% | ~1,249 |
 | Colonial Barrels | 44.00% | ~1,169 |
 | First Steps Into Madness | 44.00% | ~1,169 |
 | Damn Dude, You Gotta Lose Some Weight! | 37.00% | ~983 |
 | Harper's Hell | 35.00% | ~930 |
-| Making a Stand | 33.00% | ~876 |
+| Making a Stand | 33.00% | ~877 |
 | Recouped Investment | 30.00% | ~797 |
-| Omelette Du Fromage | 29.00% | ~770 |
+| Omelette Du Fromage | 29.00% | ~771 |
 | Where It All Begun | 28.00% | ~744 |
 | Living Nightmare | 20.00% | ~531 |
 | The More The Merrier | 20.00% | ~531 |
 | Stuff Of Nightmares | 16.00% | ~425 |
 | The Darwin Era Was Here | 16.00% | ~425 |
-| Come on, You Wanna Live Forever? | 15.00% | ~398 |
+| Come on, You Wanna Live Forever? | 15.00% | ~399 |
 | Deep Into Insanity | 14.00% | ~372 |
 | The Passenger | 14.00% | ~372 |
 | El Riesgo Siempre Vive | 13.00% | ~345 |
@@ -36,9 +36,9 @@ Rating: 4.46 (Ranked 603)
 | Bandage Lover | 10.00% | ~266 |
 | Frontliner | 10.00% | ~266 |
 | The Cable Guy | 10.00% | ~266 |
-| Heavy Steps | 8.00% | ~212 |
-| Excavating The Truth | 8.00% | ~212 |
-| Abysmal Horrors | 8.00% | ~212 |
+| Heavy Steps | 8.00% | ~213 |
+| Excavating The Truth | 8.00% | ~213 |
+| Abysmal Horrors | 8.00% | ~213 |
 | Regicide | 6.00% | ~159 |
 | Flawless Victory | 5.00% | ~133 |
 | This Went Smoothly | 5.00% | ~133 |
@@ -46,12 +46,12 @@ Rating: 4.46 (Ranked 603)
 | The True Experience | 4.00% | ~106 |
 | Hardened In The Heat Of Battle | 3.00% | ~80 |
 | Fair And Square | 0.70% | ~19 |
-| Archivist | 0.50% | ~13 |
+| Archivist | 0.60% | ~16 |
 | Chalk It Up To Experience | 0.30% | ~8 |
 | Perfect Organism | 0.20% | ~5 |
 | This Ain't No Picnic | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,656 (Ranked 154)  
+Progressed: 2,657 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 2,580 | 0 |
 | 2023-07-05 | 2,620 | 0 |
 | 2023-07-06 | 2,648 | 0 |
-| 2023-07-07 | 2,656 | 0 |
+| 2023-07-07 | 2,657 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

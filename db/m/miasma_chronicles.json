@@ -2362,9 +2362,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 567
     },
     {
       "ID": "GIANT_KILLER",
@@ -2571,8 +2571,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-07-02T03:58:55.7545466+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:02:07.30151+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:02:03.9753955+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:52.4215773+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:58:56.3060858+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:02:07.3015473+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:58:56.4901039+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:02:03.9755628+00:00"
 }

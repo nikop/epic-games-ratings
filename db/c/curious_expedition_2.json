@@ -267,9 +267,9 @@
       "ID": "ach-ascension-complete-years",
       "SetID": "17ih7ma",
       "Name": "The Director Perseveres",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ach-ascension-die",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-06-15T11:00:18.1212208+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:03:47.4897261+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:03:42.0100168+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:30:08.6377987+00:00",
-  "LastUpdate_Ratings": "2023-07-07T11:01:25.4500259+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:03:47.4897695+00:00"
+  "LastUpdate_Ratings": "2023-07-07T12:01:48.4897754+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:03:42.0100729+00:00"
 }

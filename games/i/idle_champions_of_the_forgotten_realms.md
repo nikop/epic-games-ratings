@@ -6,21 +6,21 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cursed Farmer | 15.00% | ~31,170 |
-| The Mad Wizard | 11.00% | ~22,858 |
-| The Ring of Regeneration | 7.00% | ~14,546 |
-| Are Ya Chicken? | 7.00% | ~14,546 |
-| Were-verpowered | 5.00% | ~10,390 |
-| Seeking Allies | 5.00% | ~10,390 |
-| Mad Cow Disease | 5.00% | ~10,390 |
-| Friendly Imps | 5.00% | ~10,390 |
-| A Persistent Buzzing | 4.00% | ~8,312 |
-| Pure Energy | 4.00% | ~8,312 |
-| Terror in the Dark | 3.00% | ~6,234 |
-| Unearthed Evil | 3.00% | ~6,234 |
-| The Crumbling Temple | 3.00% | ~6,234 |
-| Exploring Port Nyanzaru | 3.00% | ~6,234 |
-| The Contagious Curse | 3.00% | ~6,234 |
+| The Cursed Farmer | 15.00% | ~31,173 |
+| The Mad Wizard | 11.00% | ~22,860 |
+| The Ring of Regeneration | 7.00% | ~14,547 |
+| Are Ya Chicken? | 7.00% | ~14,547 |
+| Were-verpowered | 5.00% | ~10,391 |
+| Seeking Allies | 5.00% | ~10,391 |
+| Mad Cow Disease | 5.00% | ~10,391 |
+| Friendly Imps | 5.00% | ~10,391 |
+| A Persistent Buzzing | 4.00% | ~8,313 |
+| Pure Energy | 4.00% | ~8,313 |
+| Terror in the Dark | 3.00% | ~6,235 |
+| Unearthed Evil | 3.00% | ~6,235 |
+| The Crumbling Temple | 3.00% | ~6,235 |
+| Exploring Port Nyanzaru | 3.00% | ~6,235 |
+| The Contagious Curse | 3.00% | ~6,235 |
 | Beast Mode | 2.00% | ~4,156 |
 | Low Initiative | 2.00% | ~4,156 |
 | A Mysterious Summons | 2.00% | ~4,156 |
@@ -50,13 +50,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.90% | ~1,870 |
 | Dinosaur Racing | 0.90% | ~1,870 |
 | Lost in the Deep | 0.90% | ~1,870 |
-| The Forbidden City | 0.80% | ~1,662 |
-| Wisdom Check | 0.80% | ~1,662 |
-| The Mists of Ravenloft | 0.80% | ~1,662 |
-| Attack on the Manor | 0.80% | ~1,662 |
-| The Dead Three | 0.80% | ~1,662 |
-| The Long Haul | 0.80% | ~1,662 |
-| Easily Distracted | 0.80% | ~1,662 |
+| The Forbidden City | 0.80% | ~1,663 |
+| Wisdom Check | 0.80% | ~1,663 |
+| The Mists of Ravenloft | 0.80% | ~1,663 |
+| Attack on the Manor | 0.80% | ~1,663 |
+| The Dead Three | 0.80% | ~1,663 |
+| The Long Haul | 0.80% | ~1,663 |
+| Easily Distracted | 0.80% | ~1,663 |
 | Captured! | 0.70% | ~1,455 |
 | A Grand Puzzle | 0.70% | ~1,455 |
 | Tomb of the Nine Gods | 0.70% | ~1,455 |
@@ -69,10 +69,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.60% | ~1,247 |
 | The Immortal Warrior | 0.60% | ~1,247 |
 | The Wyrmheart Mine | 0.60% | ~1,247 |
+| The Guardian of Orolunga | 0.60% | ~1,247 |
 | Fugitives | 0.60% | ~1,247 |
 | Hopelessly Lost | 0.60% | ~1,247 |
 | Enter the Sargauth | 0.60% | ~1,247 |
 | Crowded Streets | 0.60% | ~1,247 |
+| Difficult Terrain | 0.60% | ~1,247 |
 | Market Fluctuations | 0.60% | ~1,247 |
 | Durable Deep | 0.60% | ~1,247 |
 | Force Grey Unleashed | 0.50% | ~1,039 |
@@ -80,14 +82,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chatty Nobles | 0.50% | ~1,039 |
 | Tower on the Lake | 0.50% | ~1,039 |
 | Seeds of Deceit | 0.50% | ~1,039 |
-| The Guardian of Orolunga | 0.50% | ~1,039 |
 | The Lost Love | 0.50% | ~1,039 |
 | Lair of the Xanathar | 0.50% | ~1,039 |
 | Waterdeep Under Siege | 0.50% | ~1,039 |
-| Difficult Terrain | 0.50% | ~1,039 |
 | Elturel Has Fallen | 0.50% | ~1,039 |
 | The Everlasting Rime | 0.50% | ~870 |
 | Expert Opinion | 0.50% | ~1,039 |
+| Poor Guidance | 0.50% | ~1,039 |
 | Lobsterfolk Assault | 0.40% | ~831 |
 | Periodic Petrification | 0.40% | ~831 |
 | Home Field Advantage | 0.40% | ~831 |
@@ -119,7 +120,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreamscape | 0.40% | ~696 |
 | Moose Tracks | 0.40% | ~696 |
 | Civilization | 0.40% | ~696 |
-| Poor Guidance | 0.40% | ~831 |
 | Anti-Dexterous Explorers | 0.30% | ~623 |
 | Not Very Charming | 0.30% | ~623 |
 | Double Vision | 0.30% | ~623 |
@@ -189,6 +189,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Late Game | 0.20% | ~416 |
 | Screams of the Dead | 0.20% | ~416 |
 | Frantic Excavation | 0.20% | ~416 |
+| Guests of the Groom | 0.20% | ~416 |
 | Bazaar Exploits | 0.20% | ~416 |
 | Flame(skull) War | 0.20% | ~416 |
 | The Madness Grows | 0.20% | ~416 |
@@ -292,7 +293,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.10% | ~174 |
 | Twilight Twist | 0.10% | ~174 |
 | Birds of a Feather | 0.10% | ~174 |
-| Guests of the Groom | 0.10% | ~208 |
 | Careful Consideration | 0.10% | ~208 |
 | Tanking Expectations | 0.10% | ~174 |
 | Servants of the Demon Prince | 0.10% | ~174 |
@@ -510,7 +510,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bazaar Companions | 0.00% | ~0 |
 | Bahamut's Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207,799 (Ranked 52)  
+Progressed: 207,821 (Ranked 52)  
 Completed: 2,035 (0.98%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -588,7 +588,7 @@ Completed: 2,035 (0.98%) (Ranked 101)
 | 2023-07-04 | 206,280 | 2,028 |
 | 2023-07-05 | 206,889 | 2,032 |
 | 2023-07-06 | 207,486 | 2,035 |
-| 2023-07-07 | 207,799 | 2,035 |
+| 2023-07-07 | 207,821 | 2,035 |
 ## Awards
 Max (Diverse Characters): 5,013  (Ranked 65)  
 Sum: 30,432 (Ranked 37)  

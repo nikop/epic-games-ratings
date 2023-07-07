@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2656,
+  "EOS_Progressed": 2657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2023-07-07T11:07:21.4051466+00:00",
       "NumProgressed": 2656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T12:07:29.9002168+00:00",
+      "NumProgressed": 2657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1908,9 +1913,9 @@
       "ID": "ACH_ALL_DATAPAD",
       "SetID": "816efe",
       "Name": "Archivist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -1942,7 +1947,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -1958,7 +1963,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -2038,7 +2043,7 @@
       "Name": "Heavy Steps",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -2086,7 +2091,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -2102,7 +2107,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "ACH_MISSION_02",
@@ -2126,7 +2131,7 @@
       "Name": "Making a Stand",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ACH_MISSION_05",
@@ -2182,7 +2187,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_MISSION_12",
@@ -2190,7 +2195,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -2206,7 +2211,7 @@
       "Name": "Snatched Out",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -2214,7 +2219,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -2222,7 +2227,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -2269,7 +2274,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 2656,
+      "Progressed": 2657,
       "Completed": 0
     }
   ],
@@ -2277,8 +2282,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-07-06T13:20:03.1006988+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:07:21.4051461+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:07:29.9002164+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:28:25.6407177+00:00",
-  "LastUpdate_Ratings": "2023-07-07T11:00:04.8621735+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:07:21.4051961+00:00"
+  "LastUpdate_Ratings": "2023-07-07T12:00:17.912029+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:07:29.9002649+00:00"
 }

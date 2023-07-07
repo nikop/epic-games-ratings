@@ -5772,9 +5772,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 791332,
+  "EOS_Progressed": 791337,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1123,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14097,6 +14097,11 @@
       "Time": "2023-07-07T11:03:40.7290263+00:00",
       "NumProgressed": 791332,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-07T12:03:34.1688853+00:00",
+      "NumProgressed": 791337,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14132,7 +14137,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 126613
+      "UsersEstimate": 126614
     },
     {
       "ID": "Awakening",
@@ -14140,7 +14145,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 158266
+      "UsersEstimate": 158267
     },
     {
       "ID": "BadGirl",
@@ -14188,7 +14193,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 245313
+      "UsersEstimate": 245314
     },
     {
       "ID": "Bookworm",
@@ -14196,7 +14201,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 110786
+      "UsersEstimate": 110787
     },
     {
       "ID": "Buddy",
@@ -14220,7 +14225,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 197833
+      "UsersEstimate": 197834
     },
     {
       "ID": "Chivalrous",
@@ -14268,7 +14273,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79133
+      "UsersEstimate": 79134
     },
     {
       "ID": "DavidHorak",
@@ -14308,7 +14313,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 182006
+      "UsersEstimate": 182008
     },
     {
       "ID": "Fighter",
@@ -14324,7 +14329,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118700
+      "UsersEstimate": 118701
     },
     {
       "ID": "Freud",
@@ -14428,7 +14433,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102873
+      "UsersEstimate": 102874
     },
     {
       "ID": "Judas",
@@ -14508,7 +14513,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 55393
+      "UsersEstimate": 55394
     },
     {
       "ID": "MercenarysHonor",
@@ -14588,7 +14593,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158266
+      "UsersEstimate": 158267
     },
     {
       "ID": "RevenantOfLedechko",
@@ -14612,7 +14617,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55393
+      "UsersEstimate": 55394
     },
     {
       "ID": "Saviour",
@@ -14628,7 +14633,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 158266
+      "UsersEstimate": 158267
     },
     {
       "ID": "SerialKiller",
@@ -14716,7 +14721,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 79133
+      "UsersEstimate": 79134
     },
     {
       "ID": "TrialAndError",
@@ -14763,15 +14768,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 791332,
+      "Progressed": 791337,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-06T21:59:39.1196597+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:03:40.7290258+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:03:34.1688848+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:02.8494084+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:59:04.7623043+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:03:40.729137+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:59:06.1746922+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:03:34.1690315+00:00"
 }

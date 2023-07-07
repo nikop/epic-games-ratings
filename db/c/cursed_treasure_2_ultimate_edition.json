@@ -356,9 +356,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Starry: Free Coast",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
@@ -589,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:05:58.2568628+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:05:55.4858592+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:21.8868702+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:59:17.5588751+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:05:58.2568981+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:59:21.4766414+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:05:55.4859043+00:00"
 }

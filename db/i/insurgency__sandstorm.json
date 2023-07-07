@@ -2563,9 +2563,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 407589,
+  "EOS_Progressed": 407608,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7204,
+  "EOS_NewPlayers": 7181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10888,6 +10888,11 @@
       "Time": "2023-07-07T11:04:54.1949559+00:00",
       "NumProgressed": 407589,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-07-07T12:04:41.1236983+00:00",
+      "NumProgressed": 407608,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -11067,7 +11072,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -11163,7 +11168,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "ACH_WET_FEET",
@@ -11178,15 +11183,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 407589,
+      "Progressed": 407608,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-07-06T21:58:42.4552416+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:04:54.1949555+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:04:41.1236979+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:15.6655546+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:58:27.8681123+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:04:54.1950145+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:58:26.5011131+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:04:41.1237787+00:00"
 }

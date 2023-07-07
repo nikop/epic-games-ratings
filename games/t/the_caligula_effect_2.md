@@ -25,8 +25,8 @@ Number of Ratings: 32  (23.09.2022)
 | One-Track Mind | 23.00% | ~54 |
 | Stay Winning | 23.00% | ~54 |
 | WIRE Guru | 21.00% | ~49 |
+| Depths of the Heart | 20.00% | ~47 |
 | The Greater Good | 19.00% | ~44 |
-| Depths of the Heart | 19.00% | ~44 |
 | Extracurricular Affair | 19.00% | ~44 |
 | Lost Souls For Sale | 19.00% | ~44 |
 | Selfish Decisions | 18.00% | ~42 |

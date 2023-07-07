@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43000,
+  "EOS_Progressed": 43001,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4749,6 +4749,11 @@
       "Time": "2023-07-07T10:00:21.691168+00:00",
       "NumProgressed": 43000,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-07-07T12:02:09.5453014+00:00",
+      "NumProgressed": 43001,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -4760,7 +4765,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26230
+      "UsersEstimate": 26231
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -4952,7 +4957,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26660
+      "UsersEstimate": 26661
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -5088,7 +5093,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29670
+      "UsersEstimate": 29671
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -5120,7 +5125,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24510
+      "UsersEstimate": 24511
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -5160,7 +5165,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27950
+      "UsersEstimate": 27951
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -5216,7 +5221,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27950
+      "UsersEstimate": 27951
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -5287,15 +5292,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43000,
+      "Progressed": 43001,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-07-07T11:00:40.1652591+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:02:12.6005952+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:02:09.5453009+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:05.9031073+00:00",
-  "LastUpdate_Ratings": "2023-07-07T11:00:40.1652598+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:02:12.6006573+00:00"
+  "LastUpdate_Ratings": "2023-07-07T12:00:56.8639542+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:02:09.5453824+00:00"
 }

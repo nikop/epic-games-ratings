@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 56953,
+  "EOS_Progressed": 56955,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7207,6 +7207,11 @@
       "Time": "2023-07-07T11:04:05.8079437+00:00",
       "NumProgressed": 56953,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-07-07T12:03:50.5507594+00:00",
+      "NumProgressed": 56955,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 67,
@@ -7218,7 +7223,7 @@
       "Name": "Follow the Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18794
+      "UsersEstimate": 18795
     },
     {
       "ID": "02",
@@ -7226,7 +7231,7 @@
       "Name": "Nordic Walking",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11960
+      "UsersEstimate": 11961
     },
     {
       "ID": "03",
@@ -7266,7 +7271,7 @@
       "Name": "Heavy Metal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     },
     {
       "ID": "08",
@@ -7306,7 +7311,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     },
     {
       "ID": "13",
@@ -7378,7 +7383,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6834
+      "UsersEstimate": 6835
     },
     {
       "ID": "22",
@@ -7426,7 +7431,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     },
     {
       "ID": "28",
@@ -7442,7 +7447,7 @@
       "Name": "Sound and Fury",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6834
+      "UsersEstimate": 6835
     },
     {
       "ID": "30",
@@ -7458,7 +7463,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "32",
@@ -7474,7 +7479,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6834
+      "UsersEstimate": 6835
     },
     {
       "ID": "34",
@@ -7490,7 +7495,7 @@
       "Name": "Let There Be Light",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15377
+      "UsersEstimate": 15378
     },
     {
       "ID": "36",
@@ -7538,7 +7543,7 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "42",
@@ -7753,21 +7758,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 56953,
+      "Progressed": 56955,
       "Completed": 57
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 20421,
+      "Progressed": 20423,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-07-07T11:04:05.8079433+00:00",
+  "LastChanged_Achievements": "2023-07-07T12:03:50.5507591+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:02.061333+00:00",
-  "LastUpdate_Ratings": "2023-07-07T10:58:14.76623+00:00",
-  "LastUpdate_Achievements": "2023-07-07T11:04:05.8080339+00:00"
+  "LastUpdate_Ratings": "2023-07-07T11:58:11.2477967+00:00",
+  "LastUpdate_Achievements": "2023-07-07T12:03:50.5508552+00:00"
 }

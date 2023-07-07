@@ -6,35 +6,35 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~93,398 |
-| Where's that freaking Dwarf? | 44.00% | ~72,097 |
-| GG EZ | 27.00% | ~44,241 |
-| Speedrun | 25.00% | ~40,964 |
-| Déjà vu | 19.00% | ~31,133 |
-| Sock! SOCK! | 13.00% | ~21,301 |
-| DM intervention | 11.00% | ~18,024 |
-| A beer, two curses, three companions | 6.00% | ~9,831 |
-| Fireproof Wizardess | 5.00% | ~8,193 |
-| Way of the Wimp | 4.00% | ~6,554 |
-| Livin' in a dwarven paradise | 3.00% | ~4,916 |
-| The plot thickens... At the tavern | 3.00% | ~4,916 |
-| The Woman in the High Castle | 3.00% | ~4,916 |
-| Res Judicata | 2.00% | ~3,277 |
-| Team Building Exercise | 2.00% | ~3,277 |
-| The demons' feast | 1.00% | ~1,639 |
-| I am the night | 1.00% | ~1,639 |
-| The Great Library | 0.70% | ~1,147 |
-| Shiny and Crôm | 0.60% | ~983 |
-| Torture and Sensibility | 0.60% | ~983 |
-| Dwarf Fortress | 0.60% | ~983 |
-| The Ranger of Chaos | 0.60% | ~983 |
-| Oh, when I'll be level 10... | 0.60% | ~983 |
-| Lust and Debauchery | 0.50% | ~819 |
-| Thieves' Guild Accreditation | 0.50% | ~819 |
-| I'd rather... Just... Sing! | 0.40% | ~655 |
-| The number of the counting shalt be 7 | 0.40% | ~655 |
-| The beards of change | 0.40% | ~655 |
-| Material Girl | 0.40% | ~655 |
+| Alt+F4 | 57.00% | ~93,520 |
+| Where's that freaking Dwarf? | 44.00% | ~72,191 |
+| GG EZ | 27.00% | ~44,299 |
+| Speedrun | 25.00% | ~41,018 |
+| Déjà vu | 19.00% | ~31,173 |
+| Sock! SOCK! | 13.00% | ~21,329 |
+| DM intervention | 11.00% | ~18,048 |
+| A beer, two curses, three companions | 6.00% | ~9,844 |
+| Fireproof Wizardess | 6.00% | ~9,844 |
+| Way of the Wimp | 4.00% | ~6,563 |
+| Livin' in a dwarven paradise | 3.00% | ~4,922 |
+| The plot thickens... At the tavern | 3.00% | ~4,922 |
+| The Woman in the High Castle | 3.00% | ~4,922 |
+| Res Judicata | 2.00% | ~3,281 |
+| Team Building Exercise | 2.00% | ~3,281 |
+| The demons' feast | 1.00% | ~1,641 |
+| I am the night | 1.00% | ~1,641 |
+| The Great Library | 0.70% | ~1,148 |
+| Oh, when I'll be level 10... | 0.70% | ~1,148 |
+| Shiny and Crôm | 0.60% | ~984 |
+| Torture and Sensibility | 0.60% | ~984 |
+| Dwarf Fortress | 0.60% | ~984 |
+| The Ranger of Chaos | 0.60% | ~984 |
+| Lust and Debauchery | 0.50% | ~820 |
+| Thieves' Guild Accreditation | 0.50% | ~820 |
+| I'd rather... Just... Sing! | 0.40% | ~656 |
+| The number of the counting shalt be 7 | 0.40% | ~656 |
+| The beards of change | 0.40% | ~656 |
+| Material Girl | 0.40% | ~656 |
 | Urik's Depths | 0.30% | ~492 |
 | Look but don't touch | 0.30% | ~492 |
 | Gargantua | 0.30% | ~492 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,857 (Ranked 58)  
+Progressed: 164,071 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 141,340 | 0 |
 | 2023-07-05 | 152,547 | 0 |
 | 2023-07-06 | 161,722 | 0 |
-| 2023-07-07 | 163,857 | 0 |
+| 2023-07-07 | 164,071 | 0 |
 ## Awards
 Max (Character Customization): 70  (Ranked 372)  
 Sum: 70 (Ranked 429)  

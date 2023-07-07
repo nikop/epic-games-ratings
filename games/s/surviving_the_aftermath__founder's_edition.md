@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 71.00% | ~5,077 |
-| Leader | 61.00% | ~4,362 |
-| Explorer | 53.00% | ~3,790 |
-| Healer | 53.00% | ~3,790 |
-| Aspiring Inventor | 44.00% | ~3,146 |
+| First Step | 71.00% | ~5,078 |
+| Leader | 61.00% | ~4,363 |
+| Explorer | 53.00% | ~3,791 |
+| Healer | 53.00% | ~3,791 |
+| Aspiring Inventor | 44.00% | ~3,147 |
 | Adventurer | 41.00% | ~2,932 |
-| Famous Healer | 38.00% | ~2,717 |
+| Famous Healer | 38.00% | ~2,718 |
 | Local Leader | 35.00% | ~2,503 |
-| Famous Explorer | 34.00% | ~2,431 |
-| New Opportunities | 34.00% | ~2,431 |
+| Famous Explorer | 34.00% | ~2,432 |
+| New Opportunities | 34.00% | ~2,432 |
 | Energized | 33.00% | ~2,360 |
 | The Long Haul | 33.00% | ~2,360 |
 | The Great Healer | 31.00% | ~2,217 |
 | Survivor | 31.00% | ~2,217 |
-| Cleaner | 28.00% | ~2,002 |
-| Catastrofan | 28.00% | ~2,002 |
+| Cleaner | 28.00% | ~2,003 |
+| Catastrofan | 28.00% | ~2,003 |
 | Legendary Explorer | 27.00% | ~1,931 |
-| Finders, Keepers | 26.00% | ~1,859 |
+| Finders, Keepers | 26.00% | ~1,860 |
 | Top Notch | 25.00% | ~1,788 |
 | Ice Lakes | 23.00% | ~1,645 |
 | Mentor | 23.00% | ~1,645 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~14 |
 | Customized calamities | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,151 (Ranked 124)  
+Progressed: 7,152 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,10 +144,10 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 7,088 | 0 |
 | 2023-07-05 | 7,116 | 0 |
 | 2023-07-06 | 7,145 | 0 |
-| 2023-07-07 | 7,151 | 0 |
+| 2023-07-07 | 7,152 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 329)  
-Sum: 674 (Ranked 272)  
+Sum: 675 (Ranked 272)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): 57
 | This game has Diverse Characters | 68 |
 | This game has Amazing Characters | 64 |
 | This game has Obsessive Gameplay | 58 |
-| This game has a Creative Community | 41 |
+| This game has a Creative Community | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -261,3 +261,4 @@ Diff (max vs sum): 57
 | 2023-06-23 | 4.47 | - | 99 | 672 |
 | 2023-06-25 | 4.47 | - | 99 | 673 |
 | 2023-06-26 | 4.47 | - | 99 | 674 |
+| 2023-07-07 | 4.47 | - | 99 | 675 |

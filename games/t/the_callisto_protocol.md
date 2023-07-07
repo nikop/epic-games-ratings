@@ -13,9 +13,11 @@ Rating: 4.19 (Ranked 845)
 | I Do Belong Here | 1.00% | ~157 |
 | Two Heads Are Better Than One | 1.00% | ~157 |
 | Chew 'Em Up | 1.00% | ~157 |
+| Terminated | 1.00% | ~157 |
 | Workplace Hazard | 1.00% | ~157 |
 | Float Like A Butterfly | 1.00% | ~157 |
 | Reforged | 1.00% | ~157 |
+| The Outer Way | 1.00% | ~157 |
 | If the SHU Fits... | 1.00% | ~157 |
 | Without A Paddle | 1.00% | ~157 |
 | In the Pipe, Five by Five | 1.00% | ~157 |
@@ -25,8 +27,6 @@ Rating: 4.19 (Ranked 845)
 | Power Up | 1.00% | ~157 |
 | It's Time | 1.00% | ~36 |
 | Giving Back | 0.90% | ~141 |
-| Terminated | 0.90% | ~141 |
-| The Outer Way | 0.90% | ~141 |
 | Desperate Times | 0.90% | ~141 |
 | The Commonality | 0.80% | ~125 |
 | One Last Job | 0.70% | ~25 |
