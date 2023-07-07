@@ -6,41 +6,42 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alt+F4 | 57.00% | ~92,946 |
-| Where's that freaking Dwarf? | 44.00% | ~71,748 |
-| GG EZ | 27.00% | ~44,027 |
-| Speedrun | 25.00% | ~40,766 |
-| Déjà vu | 19.00% | ~30,982 |
-| Sock! SOCK! | 12.00% | ~19,568 |
-| DM intervention | 11.00% | ~17,937 |
-| A beer, two curses, three companions | 6.00% | ~9,784 |
-| Fireproof Wizardess | 5.00% | ~8,153 |
-| Way of the Wimp | 4.00% | ~6,523 |
-| Livin' in a dwarven paradise | 3.00% | ~4,892 |
-| The plot thickens... At the tavern | 3.00% | ~4,892 |
-| The Woman in the High Castle | 3.00% | ~4,892 |
-| Res Judicata | 2.00% | ~3,261 |
-| Team Building Exercise | 2.00% | ~3,261 |
-| The demons' feast | 1.00% | ~1,631 |
-| I am the night | 1.00% | ~1,631 |
-| The Great Library | 0.70% | ~1,141 |
-| Oh, when I'll be level 10... | 0.60% | ~978 |
-| Shiny and Crôm | 0.50% | ~815 |
-| Torture and Sensibility | 0.50% | ~815 |
-| Dwarf Fortress | 0.50% | ~815 |
-| Lust and Debauchery | 0.50% | ~815 |
-| The Ranger of Chaos | 0.50% | ~815 |
-| Thieves' Guild Accreditation | 0.50% | ~815 |
-| I'd rather... Just... Sing! | 0.40% | ~652 |
-| The number of the counting shalt be 7 | 0.40% | ~652 |
-| The beards of change | 0.40% | ~652 |
-| Material Girl | 0.40% | ~652 |
-| Urik's Depths | 0.30% | ~489 |
-| Look but don't touch | 0.30% | ~489 |
-| Gargantua | 0.30% | ~489 |
-| In Navalu's footsteps | 0.30% | ~489 |
-| It's been a hard day's night | 0.30% | ~489 |
-| Lëgal Legend | 0.30% | ~489 |
+| Alt+F4 | 57.00% | ~93,043 |
+| Where's that freaking Dwarf? | 44.00% | ~71,823 |
+| GG EZ | 27.00% | ~44,073 |
+| Speedrun | 25.00% | ~40,808 |
+| Déjà vu | 19.00% | ~31,014 |
+| Sock! SOCK! | 12.00% | ~19,588 |
+| DM intervention | 11.00% | ~17,956 |
+| A beer, two curses, three companions | 6.00% | ~9,794 |
+| Fireproof Wizardess | 5.00% | ~8,162 |
+| Way of the Wimp | 4.00% | ~6,529 |
+| Livin' in a dwarven paradise | 3.00% | ~4,897 |
+| The plot thickens... At the tavern | 3.00% | ~4,897 |
+| The Woman in the High Castle | 3.00% | ~4,897 |
+| Res Judicata | 2.00% | ~3,265 |
+| Team Building Exercise | 2.00% | ~3,265 |
+| The demons' feast | 1.00% | ~1,632 |
+| I am the night | 1.00% | ~1,632 |
+| The Great Library | 0.70% | ~1,143 |
+| Shiny and Crôm | 0.60% | ~979 |
+| Oh, when I'll be level 10... | 0.60% | ~979 |
+| Torture and Sensibility | 0.50% | ~816 |
+| Dwarf Fortress | 0.50% | ~816 |
+| Lust and Debauchery | 0.50% | ~816 |
+| The Ranger of Chaos | 0.50% | ~816 |
+| Thieves' Guild Accreditation | 0.50% | ~816 |
+| I'd rather... Just... Sing! | 0.40% | ~653 |
+| The number of the counting shalt be 7 | 0.40% | ~653 |
+| The beards of change | 0.40% | ~653 |
+| Material Girl | 0.40% | ~653 |
+| Urik's Depths | 0.30% | ~490 |
+| Look but don't touch | 0.30% | ~490 |
+| Gargantua | 0.30% | ~490 |
+| In Navalu's footsteps | 0.30% | ~490 |
+| It's been a hard day's night | 0.30% | ~490 |
+| Lëgal Legend | 0.30% | ~490 |
+| The Dungeon Master | 0.20% | ~326 |
 | The Statuette of Gladeulfeurah | 0.20% | ~326 |
 | Friendly fire | 0.20% | ~326 |
 | The Famous Dungeon of Naheulbeuk | 0.20% | ~326 |
@@ -51,7 +52,6 @@ Number of Ratings: 118  (23.09.2022)
 | Cursed die | 0.10% | ~163 |
 | Holistic Adventuring Party | 0.10% | ~163 |
 | Scholar of the Lands of Fangh | 0.10% | ~163 |
-| The Dungeon Master | 0.10% | ~163 |
 | Necrophilia | 0.10% | ~163 |
 | The Blood Countess | 0.10% | ~163 |
 | He’s alive! Aliiiive! | 0.10% | ~163 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.00% | ~0 |
 | Sowwy! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163,064 (Ranked 58)  
+Progressed: 163,233 (Ranked 58)  
 Completed: 0 (0.00%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 235)
 | 2023-07-04 | 141,340 | 0 |
 | 2023-07-05 | 152,547 | 0 |
 | 2023-07-06 | 161,722 | 0 |
-| 2023-07-07 | 163,064 | 0 |
+| 2023-07-07 | 163,233 | 0 |
 ## Awards
 Max (Character Customization): 70  (Ranked 372)  
 Sum: 70 (Ranked 429)  

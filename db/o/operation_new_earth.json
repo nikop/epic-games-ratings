@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 89,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2023-07-07T07:05:23.6427857+00:00",
       "NumProgressed": 360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T08:05:17.5443297+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 38,
@@ -1326,9 +1331,9 @@
       "ID": "objective_headquarters_20",
       "SetID": "bm61c2p",
       "Name": "Advanced Warfare",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_headquarters_5",
@@ -1336,7 +1341,7 @@
       "Name": "Facility Online",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -1352,7 +1357,7 @@
       "Name": "Sergeant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -1360,7 +1365,7 @@
       "Name": "Lieutenant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -1414,9 +1419,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -1440,7 +1445,7 @@
       "Name": "Stocking Up",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -1456,15 +1461,15 @@
       "Name": "On Target",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_key_objectives_completed_4",
       "SetID": "bm61c2p",
       "Name": "Battle Ready",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -1486,9 +1491,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -1535,14 +1540,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-07-07T07:05:23.6427853+00:00",
+  "LastChanged_Achievements": "2023-07-07T08:05:17.544329+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:56.1086665+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:01:52.7500757+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:05:23.6428185+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:01:23.7438323+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:05:17.5443588+00:00"
 }

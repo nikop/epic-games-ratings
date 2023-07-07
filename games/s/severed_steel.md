@@ -5,15 +5,15 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 14.00% | ~59,184 |
-| 50 HEADSHOTS | 13.00% | ~54,957 |
-| FINISHED CHAPTER 1 | 10.00% | ~42,274 |
-| SCIENCE AND INDUSTRY | 10.00% | ~42,274 |
+| 100 KILLS | 14.00% | ~59,185 |
+| 50 HEADSHOTS | 13.00% | ~54,958 |
+| FINISHED CHAPTER 1 | 10.00% | ~42,275 |
+| SCIENCE AND INDUSTRY | 10.00% | ~42,275 |
 | 200 HEADSHOTS | 8.00% | ~33,820 |
-| FINISHED CHAPTER 2 | 7.00% | ~29,592 |
+| FINISHED CHAPTER 2 | 7.00% | ~29,593 |
 | FINISHED CHAPTER 3 | 6.00% | ~25,365 |
-| FINISHED CHAPTER 4 | 5.00% | ~21,137 |
-| FINISH CHAPTER 5 | 5.00% | ~21,137 |
+| FINISHED CHAPTER 4 | 5.00% | ~21,138 |
+| FINISH CHAPTER 5 | 5.00% | ~21,138 |
 | 1000 KILLS | 4.00% | ~16,910 |
 | FINISH CHAPTER 6 | 4.00% | ~16,910 |
 | CATHARTIC ESCAPISM | 4.00% | ~16,910 |
@@ -26,9 +26,9 @@ Rating: 4.68 (Ranked 238)
 | NEW GAME PLUS | 0.30% | ~1,268 |
 | OUT OF ORDER | 0.30% | ~1,268 |
 | PARTYHARD | 0.30% | ~1,268 |
-| CHURCH | 0.20% | ~845 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~845 |
-| FIREFIGHT LEVEL 50 | 0.20% | ~845 |
+| CHURCH | 0.20% | ~846 |
+| FIREFIGHT LEVEL 40 | 0.20% | ~846 |
+| FIREFIGHT LEVEL 50 | 0.20% | ~846 |
 | HEY THATS CHEATING | 0.10% | ~423 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~423 |
 | BUT WHY? | 0.10% | ~423 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 238)
 | THE GAMBLER | 0.10% | ~423 |
 | WARRIOR IN A GARDEN | 0.10% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422,745 (Ranked 38)  
+Progressed: 422,750 (Ranked 38)  
 Completed: 38 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 38 (0.01%) (Ranked 221)
 | 2023-07-04 | 422,131 | 38 |
 | 2023-07-05 | 422,404 | 38 |
 | 2023-07-06 | 422,688 | 38 |
-| 2023-07-07 | 422,745 | 38 |
+| 2023-07-07 | 422,750 | 38 |
 ## Awards
 Max (Great Boss Battles): 185  (Ranked 275)  
 Sum: 185 (Ranked 368)  

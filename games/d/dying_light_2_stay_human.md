@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 11.00% | ~64,827 |
-| Into the Unknown | 10.00% | ~58,934 |
-| First Shot | 10.00% | ~58,934 |
-| Herzlich Wilkommen! | 9.00% | ~53,040 |
-| Good Night & Good Luck | 9.00% | ~53,040 |
-| Sancho Panza | 8.00% | ~47,147 |
+| You Never Forget Your First... | 11.00% | ~64,828 |
+| Into the Unknown | 10.00% | ~58,935 |
+| First Shot | 10.00% | ~58,935 |
+| Herzlich Wilkommen! | 9.00% | ~53,041 |
+| Good Night & Good Luck | 9.00% | ~53,041 |
+| Sancho Panza | 8.00% | ~47,148 |
 | Under Pressure | 7.00% | ~41,254 |
 | On the Trail of the Enemy | 7.00% | ~41,254 |
 | Flag Burning | 7.00% | ~41,254 |
 | Oh, So This Is How It Works! | 7.00% | ~41,254 |
 | Night Hunter | 7.00% | ~41,254 |
-| Light in the Darkness | 6.00% | ~35,360 |
-| Get Outta My House! | 6.00% | ~35,360 |
-| It Wasn't That Hard, Was It? | 6.00% | ~35,360 |
-| Being All Social | 6.00% | ~35,360 |
+| Light in the Darkness | 6.00% | ~35,361 |
+| Get Outta My House! | 6.00% | ~35,361 |
+| It Wasn't That Hard, Was It? | 6.00% | ~35,361 |
+| Being All Social | 6.00% | ~35,361 |
 | Debris and Ashes | 5.00% | ~29,467 |
 | We Will Be Heard! | 5.00% | ~29,467 |
 | Known Associate | 5.00% | ~29,467 |
@@ -28,12 +28,12 @@ Number of Ratings: 7,305  (23.09.2022)
 | Tunnel Entrance | 5.00% | ~29,467 |
 | After the Fall | 5.00% | ~29,467 |
 | Can't Touch This! | 5.00% | ~29,467 |
-| Going Down | 4.00% | ~23,573 |
-| Family First | 4.00% | ~23,573 |
-| Your World, Your Rules | 4.00% | ~23,573 |
-| Death From Afar | 4.00% | ~23,573 |
-| Terminal Headache | 4.00% | ~23,573 |
-| Slowpoke! | 4.00% | ~23,573 |
+| Going Down | 4.00% | ~23,574 |
+| Family First | 4.00% | ~23,574 |
+| Your World, Your Rules | 4.00% | ~23,574 |
+| Death From Afar | 4.00% | ~23,574 |
+| Terminal Headache | 4.00% | ~23,574 |
+| Slowpoke! | 4.00% | ~23,574 |
 | Tickets, Please! | 3.00% | ~17,680 |
 | You're Going Down! | 3.00% | ~17,680 |
 | Municipal Services | 2.00% | ~11,787 |
@@ -54,8 +54,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Who Wants To Be a... | 0.80% | ~4,715 |
 | Night of Terrors | 0.80% | ~1,878 |
 | Get the Point? | 0.70% | ~4,125 |
-| My Friend, Ciro | 0.70% | ~1,643 |
-| Skullcrusher | 0.70% | ~1,643 |
+| My Friend, Ciro | 0.70% | ~1,644 |
+| Skullcrusher | 0.70% | ~1,644 |
 | Revenants | 0.60% | ~3,536 |
 | Tanning Salon | 0.60% | ~3,536 |
 | Lightning Reflexes | 0.40% | ~2,357 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~235 |
 | Connoisseur | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,336 (Ranked 26)  
+Progressed: 589,347 (Ranked 26)  
 Completed: 58 (0.01%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,10 +150,10 @@ Completed: 58 (0.01%) (Ranked 221)
 | 2023-07-04 | 587,839 | 58 |
 | 2023-07-05 | 588,509 | 58 |
 | 2023-07-06 | 589,175 | 58 |
-| 2023-07-07 | 589,336 | 58 |
+| 2023-07-07 | 589,347 | 58 |
 ## Awards
 Max (Character Customization): 8,243  (Ranked 40)  
-Sum: 19,378 (Ranked 55)  
+Sum: 19,381 (Ranked 55)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -165,7 +165,7 @@ Diff (max vs sum): -15
 | This game has Amazing Characters | 726 |
 | This game is Extremely Fun | 709 |
 | This game has Amazing Storytelling | 689 |
-| This game has Quickly Understood Controls | 682 |
+| This game has Quickly Understood Controls | 685 |
 | This game is Relaxing | 653 |
 | This game has a Creative Community | 568 |
 | This game has Obsessive Gameplay | 230 |
@@ -348,4 +348,4 @@ Diff (max vs sum): -15
 | 2023-07-04 | 4.58 | - | 8,208 | 19,251 |
 | 2023-07-05 | 4.58 | - | 8,225 | 19,317 |
 | 2023-07-06 | 4.58 | - | 8,243 | 19,369 |
-| 2023-07-07 | 4.58 | - | 8,243 | 19,378 |
+| 2023-07-07 | 4.58 | - | 8,243 | 19,381 |

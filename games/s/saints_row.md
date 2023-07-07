@@ -6,12 +6,12 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 36.00% | ~18,612 |
-| To The Nines | 33.00% | ~17,061 |
-| Optimized | 28.00% | ~14,476 |
-| Performance Review | 28.00% | ~14,476 |
-| Making a Name | 26.00% | ~13,442 |
-| Tune Up | 25.00% | ~12,925 |
+| First F#@!ing Day | 36.00% | ~18,613 |
+| To The Nines | 33.00% | ~17,062 |
+| Optimized | 28.00% | ~14,477 |
+| Performance Review | 28.00% | ~14,477 |
+| Making a Name | 26.00% | ~13,443 |
+| Tune Up | 25.00% | ~12,926 |
 | The Side Job | 24.00% | ~12,408 |
 | Wet Work | 24.00% | ~12,408 |
 | Landlord | 24.00% | ~12,408 |
@@ -42,7 +42,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Untouchable | 4.00% | ~2,068 |
 | Free Refills | 4.00% | ~2,068 |
 | Smooth Moves | 4.00% | ~2,068 |
-| Hazardous Heist | 4.00% | ~933 |
+| Hazardous Heist | 4.00% | ~934 |
 | Neighborly | 3.00% | ~1,551 |
 | Prankster | 3.00% | ~1,551 |
 | Tourist | 3.00% | ~1,551 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~52 |
 | Fiesta Time | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,699 (Ranked 83)  
+Progressed: 51,702 (Ranked 83)  
 Completed: 28 (0.05%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 28 (0.05%) (Ranked 199)
 | 2023-07-04 | 51,222 | 28 |
 | 2023-07-05 | 51,428 | 28 |
 | 2023-07-06 | 51,631 | 28 |
-| 2023-07-07 | 51,699 | 28 |
+| 2023-07-07 | 51,702 | 28 |
 ## Awards
 Max (Extremely Fun): 1,046  (Ranked 139)  
 Sum: 8,498 (Ranked 91)  

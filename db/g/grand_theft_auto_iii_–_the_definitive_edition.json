@@ -370,9 +370,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6921,
+  "EOS_Progressed": 6922,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5315,6 +5315,11 @@
       "Time": "2023-07-07T07:04:37.2993305+00:00",
       "NumProgressed": 6921,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-07-07T08:04:37.598988+00:00",
+      "NumProgressed": 6922,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 29,
@@ -5326,7 +5331,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ACH02",
@@ -5430,7 +5435,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH15",
@@ -5470,7 +5475,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH20",
@@ -5557,7 +5562,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 6921,
+      "Progressed": 6922,
       "Completed": 40
     }
   ],
@@ -5565,8 +5570,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-07-06T20:58:32.0541996+00:00",
-  "LastChanged_Achievements": "2023-07-07T07:04:37.2993301+00:00",
+  "LastChanged_Achievements": "2023-07-07T08:04:37.5989874+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:26:16.6254777+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:58:36.4818634+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:04:37.2993903+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:58:27.1252967+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:04:37.5990256+00:00"
 }

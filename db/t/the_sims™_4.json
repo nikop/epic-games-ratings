@@ -2,7 +2,7 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 490,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-02-05T14:56:53.5654686+00:00",
@@ -3806,10 +3806,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2937,
       "NumberOfAwardsMax": 466
+    },
+    {
+      "Time": "2023-07-07T07:58:08.1535407+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2943,
+      "NumberOfAwardsMax": 466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2937,
+  "NumberOfAwards": 2943,
   "NumberOfAwardsMax": 466,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3817,7 +3823,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 194
+      "Count": 200
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3892,8 +3898,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
-  "LastChanged": "2023-07-07T04:57:38.5461158+00:00",
+  "LastChanged": "2023-07-07T07:58:08.1535406+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:25:54.908373+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:58:12.8519927+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:02:54.7512995+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:58:08.153541+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:03:25.8251419+00:00"
 }

@@ -489,7 +489,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 13744,
+  "EOS_Progressed": 13746,
   "EOS_Completed": 104,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
@@ -5619,6 +5619,11 @@
       "Time": "2023-07-07T07:02:39.1873661+00:00",
       "NumProgressed": 13744,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-07-07T08:03:12.4984054+00:00",
+      "NumProgressed": 13746,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 41,
@@ -5670,7 +5675,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "tpote_achievement_15",
@@ -5694,7 +5699,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "tpote_achievement_18",
@@ -5710,7 +5715,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "tpote_achievement_2",
@@ -5718,7 +5723,7 @@
       "Name": "Yet another secret",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "tpote_achievement_20",
@@ -5814,7 +5819,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "tpote_achievement_31",
@@ -5894,7 +5899,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 5635
+      "UsersEstimate": 5636
     },
     {
       "ID": "tpote_achievement_40",
@@ -5950,22 +5955,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4810
+      "UsersEstimate": 4811
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 13744,
+      "Progressed": 13746,
       "Completed": 104
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-27T06:00:47.6389823+00:00",
-  "LastChanged_Achievements": "2023-07-07T07:02:39.1873657+00:00",
+  "LastChanged_Achievements": "2023-07-07T08:03:12.4984049+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:29:16.549196+00:00",
-  "LastUpdate_Ratings": "2023-07-07T07:01:18.0915605+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:02:39.1874432+00:00"
+  "LastUpdate_Ratings": "2023-07-07T08:00:52.5376699+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:03:12.4984538+00:00"
 }

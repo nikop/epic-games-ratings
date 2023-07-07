@@ -5772,9 +5772,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 791316,
+  "EOS_Progressed": 791317,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14077,6 +14077,11 @@
       "Time": "2023-07-07T07:03:28.4626313+00:00",
       "NumProgressed": 791316,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-07-07T08:03:47.1874299+00:00",
+      "NumProgressed": 791317,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -14152,7 +14157,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "Bastard",
@@ -14240,7 +14245,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "Convict",
@@ -14304,7 +14309,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118697
+      "UsersEstimate": 118698
     },
     {
       "ID": "Freud",
@@ -14360,7 +14365,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "Haggler",
@@ -14368,7 +14373,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 71218
+      "UsersEstimate": 71219
     },
     {
       "ID": "HardcoreHenry",
@@ -14432,7 +14437,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23739
+      "UsersEstimate": 23740
     },
     {
       "ID": "Knightrider",
@@ -14743,15 +14748,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 791316,
+      "Progressed": 791317,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-07-06T21:59:39.1196597+00:00",
-  "LastChanged_Achievements": "2023-07-07T07:03:28.4626307+00:00",
+  "LastChanged_Achievements": "2023-07-07T08:03:47.1874295+00:00",
   "LastUpdate_AppInfo": "2023-07-01T02:27:02.8494084+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:59:20.9826617+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:03:28.4627802+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:59:03.8044623+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:03:47.1875364+00:00"
 }

@@ -41,11 +41,13 @@
 | Huntress Unbound | 0.90% | ~1 |
 | Business As Usual | 0.90% | ~1 |
 | Legacy of a Mercenary | 0.90% | ~1 |
+| Trailblazer | 0.90% | ~1 |
 | A Terrible Will | 0.90% | ~1 |
 | Delayed | 0.90% | ~1 |
 | Ruiner | 0.90% | ~1 |
 | Life... Finds a Way | 0.90% | ~1 |
 | Merchant Lord | 0.90% | ~1 |
+| Voracity Confronted | 0.90% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -74,7 +76,6 @@
 | All Geared Up | 0.00% | ~0 |
 | Forged in Battle | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
-| Trailblazer | 0.00% | ~0 |
 | Manticore | 0.00% | ~0 |
 | Huntsmaster | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
@@ -100,7 +101,6 @@
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Glorious leader | 0.00% | ~0 |
-| Voracity Confronted | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

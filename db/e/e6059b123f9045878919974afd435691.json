@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,6 +661,11 @@
       "Time": "2023-07-07T07:04:33.103555+00:00",
       "NumProgressed": 436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-07-07T08:04:34.2352985+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -672,7 +677,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -712,7 +717,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -744,7 +749,7 @@
       "Name": "Capraphobia",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -808,7 +813,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -870,9 +875,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -942,9 +947,9 @@
       "ID": "KALL_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Pest Control or Taxonomist?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -952,7 +957,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -960,7 +965,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -968,7 +973,7 @@
       "Name": "Decakill!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -990,9 +995,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -1040,7 +1045,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -1062,17 +1067,17 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -1104,7 +1109,7 @@
       "Name": "The Last of Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -1199,14 +1204,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-07-07T07:04:33.1035545+00:00",
+  "LastChanged_Achievements": "2023-07-07T08:04:34.2352981+00:00",
   "LastUpdate_AppInfo": "2023-07-06T13:16:22.5768242+00:00",
-  "LastUpdate_Ratings": "2023-07-07T06:57:07.4278273+00:00",
-  "LastUpdate_Achievements": "2023-07-07T07:04:33.1036274+00:00"
+  "LastUpdate_Ratings": "2023-07-07T07:57:15.1038494+00:00",
+  "LastUpdate_Achievements": "2023-07-07T08:04:34.235352+00:00"
 }
